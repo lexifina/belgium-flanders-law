@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022896,
+  "title": "Ministerieel besluit van 2013-03-21 houdende bekrachtiging van het districtsraadsbesluit waarbij het wapen en de vlag van het district Ekeren worden vastgesteld",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022896/VolledigDocument?datum=2013-05-10",
+  "source_sha256": "e0586f31cffa14f6f6c277143ebe943c1b29122e95864b213de7d305bf41b854",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022896&param=informatie",
+  "as_of": "2013-05-10",
+  "made": "2013-03-21",
+  "gazette": "2013-04-30",
+  "numac": 2013035331,
+  "document_start": "2013-05-10",
+  "document_end": null,
+  "in_force": "2013-05-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
