@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024640,
+  "title": "Decreet van 2014-02-21 tot bekrachtiging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie, instellingsreview en toets nieuwe opleiding ten aanzien van opleidingen, dan wel instellingen in de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024640/VolledigDocument?datum=2013-05-13",
+  "source_sha256": "d76a2ff9b45e5adf6b7c572ece4745edbabbb35c7adcc43de7a414b2ce4d2f64",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024640&param=informatie",
+  "as_of": "2013-05-13",
+  "made": "2014-02-21",
+  "gazette": "2014-10-07",
+  "numac": 2014035927,
+  "document_start": "2013-05-13",
+  "document_end": null,
+  "in_force": "2013-05-13",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2013-05-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
