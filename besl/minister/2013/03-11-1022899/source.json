@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022899,
+  "title": "Ministerieel besluit van 2013-03-11 tot aanwijzing van de voorzitter van de Regionale Mobiliteitscommissie en tot vaststelling van de huishoudelijke reglementen van de Gemeentelijke en Intergemeentelijke Begeleidingscommissie en van de Regionale Mobiliteitscommissie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022899/VolledigDocument?datum=2013-05-13",
+  "source_sha256": "26ff960868acd5b889776396e4d86a98ba7741a037b072c4a7472af087d3cb2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022899&param=informatie",
+  "as_of": "2013-05-13",
+  "made": "2013-03-11",
+  "gazette": "2013-05-03",
+  "numac": 2013035377,
+  "document_start": "2013-05-13",
+  "document_end": null,
+  "in_force": "2013-05-13",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-05-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
