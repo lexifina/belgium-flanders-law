@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023372,
+  "title": "Ministerieel besluit van 2013-05-15 houdende de uitvoering van artikel 10 van het besluit van de Vlaamse Regering van 9 november 2012 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire- of animatiefilm of van animatiereeksen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023372/VolledigDocument?datum=2013-05-15",
+  "source_sha256": "dd85a77cf9521b82c6e026d7ad483187746c74b1831c47107c8b57c4ffbdfbc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023372&param=informatie",
+  "as_of": "2013-05-15",
+  "made": "2013-05-15",
+  "gazette": "2013-11-06",
+  "numac": 2013036010,
+  "document_start": "2013-05-15",
+  "document_end": null,
+  "in_force": "2013-05-15",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2013-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
