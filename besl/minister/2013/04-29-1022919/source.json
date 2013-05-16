@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022919,
+  "title": "Ministerieel besluit van 2013-04-29 tot goedkeuring van het huishoudelijk reglement van de Beoordelingscommissie Verkeersveiligheidsaudit",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022919/VolledigDocument?datum=2013-05-16",
+  "source_sha256": "89d60be893e72772b1ab87ccfcff9081401c6b9ad583e996602d0d1e18cfa869",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022919&param=informatie",
+  "as_of": "2013-05-16",
+  "made": "2013-04-29",
+  "gazette": "2013-05-16",
+  "numac": 2013035436,
+  "document_start": "2013-05-16",
+  "document_end": null,
+  "in_force": "2013-05-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-05-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
