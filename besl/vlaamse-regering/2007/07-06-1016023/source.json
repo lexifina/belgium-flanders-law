@@ -2,16 +2,16 @@
   "codex_id": 1016023,
   "title": "Besluit van de Vlaamse Regering van 2007-07-06 betreffende de trefgroepen adoptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016023/VolledigDocument?datum=2010-09-21",
-  "source_sha256": "7a73756192d60c2fa5e33cf071d394ee2caec118eea3c8ec2e2ff99b662a04eb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016023/VolledigDocument?datum=2013-05-17",
+  "source_sha256": "cc393a48c59b36f1e0bac8905f0f69a15e454412f55e134a79f576bd6f8de79d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016023&param=informatie",
-  "as_of": "2010-09-21",
+  "as_of": "2013-05-17",
   "made": "2007-07-06",
   "gazette": "2007-08-02",
   "numac": 2007036287,
   "document_start": "2007-07-06",
   "document_end": "2013-05-16",
-  "in_force": "2010-09-21",
+  "in_force": "2013-05-17",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-17; future article versions excluded; article text as the API gives it"
 }
