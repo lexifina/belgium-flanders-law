@@ -2,16 +2,16 @@
   "codex_id": 1022479,
   "title": "Besluit van de Vlaamse Regering van 2012-10-12 betreffende de voorbereiding en de nazorg bij interlandelijke adoptie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022479/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "6f679b78464d3c18e365294a6440ad9161cafb9fab7a4033601a123347221b73",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022479/VolledigDocument?datum=2013-05-17",
+  "source_sha256": "09b927955e6c9ac41938a8ecbf72af1603ef1e5cbfb9542dbd3d90e56d3ade34",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022479&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2013-05-17",
   "made": "2012-10-12",
   "gazette": "2012-11-22",
   "numac": 2012206488,
   "document_start": "2012-12-03",
   "document_end": "2016-03-23",
-  "in_force": "2013-01-01",
+  "in_force": "2013-05-17",
   "article_versions": 73,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-17; future article versions excluded; article text as the API gives it"
 }
