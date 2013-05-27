@@ -6,12 +6,12 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De volgende ambtenaren van het Vlaams Ministerie van Landbouw en Visserij worden aangewezen om het ambt van secretaris van de pachtprijzencommissies waar te nemen : <br />1° West-Vlaanderen : I. Ryckaert, ingenieur;<br />2° Oost-Vlaanderen : A. Saverwyns, ingenieur;<br />3° Antwerpen : D. Coomans, ingenieur;<br />4° Limburg : N. Vettenburg, ingenieur;<br />5° Vlaams-Brabant : A. Demeyere, ingenieur. <br /><br />
+...
 
 ### ART. 2.
 
-De volgende ambtenaren van het Vlaams Ministerie van Landbouw en Visserij worden aangewezen om het ambt van plaatsvervangend secretaris van dezelfde commissies waar te nemen : <br />1° West-Vlaanderen : B. Debussche, ingenieur;<br />2° Oost-Vlaanderen : L. Hubrecht, ingenieur;<br />3° Antwerpen : N. Vettenburg, ingenieur;<br />4° Limburg : H. Morren, ingenieur;<br />5° Vlaams-Brabant : D. Coomans, ingenieur.<br /><br />
+...
 
 ### ART. 3.
 
-Het ministerieel besluit van 20 april 2007 tot aanwijzing van de secretarissen en plaatsvervangende secretarissen van de pachtprijzencommissies wordt opgeheven.<br /><br />
+...

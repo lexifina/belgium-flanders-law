@@ -2,16 +2,16 @@
   "codex_id": 1018955,
   "title": "Ministerieel besluit van 2010-04-09 tot aanwijzing van de secretarissen en plaatsvervangende secretarissen van de pachtprijzencommissies",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018955/VolledigDocument?datum=2010-05-03",
-  "source_sha256": "aee637dcd594a5a148079492a351f5c210459b02d61974497d0aa03320332dde",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018955/VolledigDocument?datum=2013-05-27",
+  "source_sha256": "dce0557f4ad5219a24bcec65cb17f1d69cb37249e2be2df417e8a5f2dfcacab7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018955&param=informatie",
-  "as_of": "2010-05-03",
+  "as_of": "2013-05-27",
   "made": "2010-04-09",
   "gazette": "2010-04-23",
   "numac": 2010202129,
   "document_start": "2010-05-03",
   "document_end": "2013-05-26",
-  "in_force": "2010-05-03",
+  "in_force": "2013-05-27",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2010-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-05-27; future article versions excluded; article text as the API gives it"
 }
