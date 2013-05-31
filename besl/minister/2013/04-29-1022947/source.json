@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022947,
+  "title": "Ministerieel besluit van 2013-04-29 houdende de aanwijzing van de bekkencoördinatoren voor het bekken van de Brugse Polders, het bekken van de Gentse Kanalen, het Benedenscheldebekken, het Leiebekken, het Bovenscheldebekken, het Dijle- Zennebekken, het Demerbekken, het Netebekken en het Maasbekken",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022947/VolledigDocument?datum=2013-05-31",
+  "source_sha256": "8a11439d9cdbfca47ed78874818563731603b5b60edca74483ef1c427458cb0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022947&param=informatie",
+  "as_of": "2013-05-31",
+  "made": "2013-04-29",
+  "gazette": "2013-05-31",
+  "numac": 2013035484,
+  "document_start": "2013-05-31",
+  "document_end": null,
+  "in_force": "2013-05-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
