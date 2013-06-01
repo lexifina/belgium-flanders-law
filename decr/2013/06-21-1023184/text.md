@@ -18,6 +18,22 @@
 
 In hoofdstuk V van het decreet van 30 maart 1999 houdende de organisatie   van de zorgverzekering, het laatst gewijzigd bij het decreet van 25 maart 2011,   wordt een artikel 23sexies ingevoegd, dat luidt als volgt : <BR>"Art. 23sexies.   De Vlaamse Regering bepaalt de overgangsmaatregelen voor de voorwaarden   waaronder de tenlastenemingen van personen die zich niet langer bij de   zorgverzekering kunnen aansluiten ten gevolge van de toepassing van de in   verordening (EG) nr. 883/04 opgenomen aanwijzingsregels, verder worden   uitgevoerd.".<BR>
 
+### ART. 28.
+
+In artikel 7 van het decreet van 30 maart 1999 houdende de organisatie van   de zorgverzekering, gewijzigd bij het decreet van 20 december 2002 houdende   bepalingen tot begeleiding van de begroting 2003, worden de volgende wijzigingen   aangebracht : <BR>1° voor het eerste lid, dat het tweede lid wordt, wordt een   nieuw eerste lid ingevoegd, dat luidt als volgt : <BR>"De tegemoetkomingen van   de Vlaamse Zorgverzekering worden onder de door de regering te bepalen   voorwaarden ambtshalve toegekend, als dat mogelijk is.";<BR>2° het tweede lid   wordt vervangen door wat volgt : <BR>"Bij gebrek aan een ambtshalve toekenning,   vermeld in het eerste lid, worden de kosten van de niet-medische hulp- en   dienstverlening aan een gebruiker ten laste genomen op aanvraag van de gebruiker   of zijn vertegenwoordiger.".<BR>
+
+### ART. 29.
+
+In artikel 8 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 1 worden tussen het woord "onderzoekt" en de   woorden "de aanvragen", de woorden "de voorwaarden voor de ambtshalve toekenning   als vermeld in artikel 7, eerste lid, of " ingevoegd;<BR>2° in paragraaf 1   worden tussen de woorden "zestig dagen" en de woorden "na indiening van de   aanvraag," de woorden "na de ontvangst van de bestandsmatige gegevens die   aanleiding geven tot een ambtshalve toekenning als vermeld in artikel 7, eerste   lid, of " ingevoegd.<BR>
+
+### ART. 30.
+
+In artikel 15, 4°, van hetzelfde decreet worden vóór de woorden "elke   aanvraag" de woorden "elke ontvangst van bestandsmatige gegevens die aanleiding   geven tot een ambtshalve toekenning als vermeld in artikel 7, eerste lid, en"   ingevoegd.<BR>
+
+### ART. 31.
+
+&nbsp;In artikel 23quater, § 3, van hetzelfde decreet, ingevoegd bij het   decreet van 24 juni 2005 houdende bepalingen tot begeleiding van de aanpassing   van de begroting 2005 en gewijzigd bij het decreet van 19 december 2008 tot   wijziging van het decreet van 30 maart 1999 houdende organisatie van de   zorgverzekering, worden tussen de woorden "naar aanleiding van" en de woorden   "een aanvraag tot tenlasteneming" de woorden "een ambtshalve toekenning als   vermeld in artikel 7, eerste lid, of " ingevoegd.<BR>
+
 ## HOOFDSTUK 8 Samenwerkingsverbanden voor psychiatrische instellingen en diensten en centra voor dagverzorging
 
 ### ART. 32.
@@ -67,6 +83,10 @@ Aan artikel 25 van hetzelfde decreet wordt een paragraaf 8 toegevoegd, die   lui
 In artikel 59 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° aan het eerste lid wordt de volgende zin toegevoegd :   <BR>"De Vlaamse Regering kan bepalen dat voor de types van ouderenvoorzieningen   die ze aanwijst, de voorafgaande vergunning wordt verleend op basis van een   oproep met het oog op de realisatie van die voorzieningen in het geografische   gebied dat in de oproep wordt aangewezen.";<BR>2° aan het tweede lid wordt de   volgende zin toegevoegd : <BR>"De Vlaamse Regering kan aanvullende voorwaarden   bepalen voor het verlenen van de voorafgaande vergunning.";<BR>3° tussen het   tweede en het derde lid wordt een lid ingevoegd, dat luidt als volgt : <BR>"Het   eerste en tweede lid zijn niet van toepassing op de groepen van   assistentiewoningen zolang de Vlaamse Regering voor die voorzieningen geen   programmatie heeft bepaald ter uitvoering van artikel 58, § 1, derde   lid.".<BR>
 
 ## HOOFDSTUK 14 Pleegzorg
+
+### ART. 57.
+
+<P>Artikel 53 van hetzelfde decreet wordt vervangen door wat volgt : <BR>"Art.   53. De Vlaamse Regering stelt voor iedere bepaling van dit decreet de datum van   inwerkingtreding vast met behoud van de toepassing van het tweede lid.<BR></P>  <P>Dit decreet treedt uiterlijk op 1 januari 2014 in werking, met uitzondering   van artikel 38 dat uiterlijk op 1 september 2014 in werking   treedt.".<BR></P>
 
 ## HOOFDSTUK 15 Klachtrecht betreffende de openbare psychiatrische zorgcentra
 
