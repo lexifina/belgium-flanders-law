@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2013-11-08 tot wijziging van het koninklijk besluit van 14 november 2003 tot vaststelling van het tarief van de erelonen en de kosten voor de deskundigen aangewezen door de arbeidsgerechten in het kader van medische deskundige onderzoeken inzake de geschillen betreffende de tegemoetkomingen aan gehandicapten, de gezinsbijslag voor werknemers en zelfstandigen, de werkloosheidsverzekering en de regeling voor verplichte verzekering voor geneeskundige verzorging en uitkeringen, wat betreft de uitbreiding van het toepassingsgebied
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 20, gewijzigd bij de bijzondere wet van 16 juli   1993;<BR></P>  <P>Gelet op het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap, artikel 8, 5°;<BR></P>  <P>Gelet op het koninklijk besluit van 14 november 2003 tot vaststelling van het   tarief van de erelonen en de kosten voor de deskundigen aangewezen door de   arbeidsgerechten in het kader van medische deskundige onderzoeken inzake de   geschillen betreffende de tegemoetkomingen aan gehandicapten, de gezinsbijslag   voor werknemers en zelfstandigen, de werkloosheidsverzekering en de regeling   voor verplichte verzekering voor geneeskundige verzorging en   uitkeringen;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Begroting,   gegeven op 12 september 2013;<BR></P>  <P>Gelet op advies 53.164/1 van de Raad van State, gegeven op 17 oktober 2013,   met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Overwegende het Gerechtelijk Wetboek, artikel 582, 2°;<BR></P>  <P>Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+Aan artikel 1 van het koninklijk besluit van 14 november 2003 tot   vaststelling van het tarief van de erelonen en de kosten voor de deskundigen   aangewezen door de arbeidsgerechten in het kader van medische deskundige   onderzoeken inzake de geschillen betreffende de tegemoetkomingen aan   gehandicapten, de gezinsbijslag voor werknemers en zelfstandigen, de   werkloosheidsverzekering en de regeling voor verplichte verzekering voor   geneeskundige verzorging en uitkeringen wordt een vijfde lid toegevoegd, dat   luidt als volgt : <BR>« De staat van erelonen en kosten voor de deskundige   onderzoeken in de zaken, vermeld in artikel 582, 2° van het Gerechtelijk   Wetboek, meer bepaald de geschillen betreffende de inschrijving en de toekenning   van bijstand tot sociale integratie voortvloeiend uit de toepassing van het   decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor de   Sociale Integratie van Personen met een Handicap en bij decreet van 7 mei 2004   tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, wordt   eveneens opgemaakt met toepassing van de tarieven vermeld in het eerste lid.   ».<BR>
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 juni 2013.<BR>
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de uitvoering van dit besluit.<BR>
