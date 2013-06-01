@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023059,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-07 tot wijziging van het besluit van de Vlaamse Regering van 5 februari 2010 houdende de uitvoering van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, wat betreft de automatische aanvraag",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023059/VolledigDocument?datum=2013-06-01",
+  "source_sha256": "5d29a10a2475c0f3ae80d320830e15d1215867ffd005f6dc4eb2a8a72d5d356e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023059&param=informatie",
+  "as_of": "2013-06-01",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203826,
+  "document_start": "2013-06-01",
+  "document_end": null,
+  "in_force": "2013-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
