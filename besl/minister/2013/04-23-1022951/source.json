@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022951,
+  "title": "Ministerieel besluit van 2013-04-23 betreffende de registratieaanvraag van de benaming Vlaamse laurier als Beschermde Geografische Aanduiding",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022951/VolledigDocument?datum=2013-06-10",
+  "source_sha256": "74d998b8467e12caea5ff18d9ec33652570b1ad147e399b67439cd745e746bde",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022951&param=informatie",
+  "as_of": "2013-06-10",
+  "made": "2013-04-23",
+  "gazette": "2013-05-31",
+  "numac": 2013035456,
+  "document_start": "2013-06-10",
+  "document_end": null,
+  "in_force": "2013-06-10",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
