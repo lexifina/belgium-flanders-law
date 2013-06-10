@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022944,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-19 houdende de vaststelling van de wijze van communicatie in het kader van het bestuurlijk toezicht op de intergemeentelijke samenwerkingsverbanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022944/VolledigDocument?datum=2013-06-10",
+  "source_sha256": "1fdd8c4809e2d03aa479d9f657157cd169740f0921d54142c2b4058ed18ab923",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022944&param=informatie",
+  "as_of": "2013-06-10",
+  "made": "2013-04-19",
+  "gazette": "2013-05-31",
+  "numac": 2013035440,
+  "document_start": "2013-06-10",
+  "document_end": "2014-12-31",
+  "in_force": "2013-06-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
