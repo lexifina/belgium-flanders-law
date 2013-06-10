@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022941,
+  "title": "Decreet van 2013-05-03 houdende instemming met het protocol, ondertekend in Luxemburg op 24 juni 2010, tot wijziging van de luchtvervoersovereenkomst tussen de Verenigde Staten van Amerika en de Europese Gemeenschap en haar lidstaten, ondertekend op 25 en 30 april 2007",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022941/VolledigDocument?datum=2013-06-10",
+  "source_sha256": "a4bc138988f67e04d6daa9b16d661f02bc7cb959cc3d20712539c11b547eb3a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022941&param=informatie",
+  "as_of": "2013-06-10",
+  "made": "2013-05-03",
+  "gazette": "2013-05-31",
+  "numac": 2013035445,
+  "document_start": "2013-06-10",
+  "document_end": null,
+  "in_force": "2013-06-10",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
