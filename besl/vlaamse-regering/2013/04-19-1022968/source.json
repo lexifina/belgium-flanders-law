@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022968,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-19 tot verlening van een opsporingsvergunning voor koolwaterstoffen aan Mijnen nv voor een gebied van 363,09 km2 op het grondgebied van de gemeenten As, Beringen, Dilsen-Stokkem, Genk, Ham, Hasselt, Heusden-Zolder, Houthalen-Helchteren, Leopoldsburg, Maasmechelen, Meeuwen-Gruitrode, Opglabbeek, Zonhoven en Zutendaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022968/VolledigDocument?datum=2013-06-11",
+  "source_sha256": "012ef3a5254e874021ddae141b57759877f81c5d7fb3270a97e28cc9f361c539",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022968&param=informatie",
+  "as_of": "2013-06-11",
+  "made": "2013-04-19",
+  "gazette": "2013-06-11",
+  "numac": 2013035420,
+  "document_start": "2013-06-11",
+  "document_end": null,
+  "in_force": "2013-06-11",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2013-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
