@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022952,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot wijziging van het besluit van de Vlaamse Regering van 19 juni 2009 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de voorzieningen voor personen met een handicap, wat betreft de subsidiabele oppervlakte voor de centra voor ontwikkelingsstoornissen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022952/VolledigDocument?datum=2013-06-13",
+  "source_sha256": "ed106db6bbc41905d0f8f4002239dc52506908ef53226cd406a57132adafcf41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022952&param=informatie",
+  "as_of": "2013-06-13",
+  "made": "2013-05-03",
+  "gazette": "2013-06-03",
+  "numac": 2013203082,
+  "document_start": "2013-06-13",
+  "document_end": null,
+  "in_force": "2013-06-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
