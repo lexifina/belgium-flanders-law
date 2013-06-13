@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022975,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-31 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 5 maart 2004, betreffende de samenstelling, de organisatie, de bevoegdheden en de werking van de Koninklijke Commissie voor Monumenten en Landschappen van het Vlaamse Gewest",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022975/VolledigDocument?datum=2013-06-13",
+  "source_sha256": "471765a1c2f7e8299f648af52d5f02c5e88005168aa4e95e78eef17202c09c09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022975&param=informatie",
+  "as_of": "2013-06-13",
+  "made": "2013-05-31",
+  "gazette": "2013-06-12",
+  "numac": 2013035524,
+  "document_start": "2013-06-13",
+  "document_end": null,
+  "in_force": "2013-06-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
