@@ -1,0 +1,29 @@
+# Besluit van de Vlaamse Regering van 2013-05-24 tot vaststelling van aanvullende normen waaraan de zorgprogramma's cardiale pathologie B moeten voldoen om erkend te worden
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 20 maart 2009 houdende diverse bepalingen   betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin, artikel 28 en   29;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 8 maart   2013;<BR></P>  <P>Gelet op advies 53.194/1 van de Raad van State, gegeven op 13 mei 2013, met   toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Overwegende de wet betreffende de ziekenhuizen en andere   verzorgingsinrichtingen, gecoördineerd op 10 juli 2008;<BR></P>  <P>Overwegende het koninklijk besluit van 15 februari 1999 tot vaststelling van   de lijst van zorgprogramma's zoals bedoeld in artikel 9ter van de wet op de   ziekenhuizen, gecoördineerd op 7 augustus 1987 en tot aanduiding van de   artikelen van de wet op de ziekenhuizen die op hen van toepassing zijn;<BR></P>  <P>Overwegende het koninklijk besluit van 16 juni 1999 tot bepaling van het   maximumaantal zorgprogramma's « cardiale pathologie » B, T en C dat mag   uitgebaat worden en tot vaststelling van de programmatiecriteria die van   toepassing zijn op deze zorgprogramma's;<BR></P>  <P>Overwegende het koninklijk besluit van 15 juli 2004 houdende vaststelling van   de normen waaraan de zorgprogramma's « cardiale pathologie » moeten voldoen om   erkend te worden;<BR></P>  <P>Overwegende het koninklijk besluit van 1 augustus 2006 houdende vaststelling   van de afwijkingen op de toepassing van artikel 76sexies van de wet op de   ziekenhuizen, gecoördineerd op 7 augustus 1987;<BR></P>  <P>Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In dit besluit wordt verstaan onder:<BR>1° algemeen ziekenhuis: een   ziekenhuis als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en   andere verzorgingsinrichtingen, gecoördineerd op 10 juli 2008, met uitzondering   van de psychiatrische ziekenhuizen en met uitzondering van de ziekenhuizen die   uitsluitend beschikken over gespecialiseerde diensten voor behandeling en   revalidatie (kenletter Sp), al of niet samen met diensten voor gewone   hospitalisatie (kenletter H) of diensten neuropsychiatrie voor behandeling van   volwassen patiënten (kenletter T) of diensten geriatrie (kenletter G); <BR>2°   deelprogramma's B1-B2: het deelprogramma B1 en het deelprogramma B2, gezamenlijk   erkend en uitgebaat zonder deelprogramma B3, conform de voorwaarden, vermeld in   hoofdstuk III, afdeling 6/1, van het koninklijk besluit van 15 juli 2004;<BR>3°   globaal zorgprogramma B1-B2-B3: het zorgprogramma, vermeld in artikel 11, eerste   lid, van het koninklijk besluit van 15 juli 2004;<BR>4° koninklijk besluit van   15 juli 2004: het koninklijk besluit van 15 juli 2004 houdende vaststelling van   de normen waaraan de zorgprogramma's « cardiale pathologie » moeten voldoen om   erkend te worden;<BR>5° minister: de Vlaamse minister, bevoegd voor het   gezondheidsbeleid;<BR>6° zorgprogramma « cardiale pathologie » B: het   zorgprogramma « cardiale pathologie » B dat beantwoordt aan de erkenningsnormen,   vermeld in hoofdstuk III van het koninklijk besluit van 15 juli 2004, en dat als   dusdanig is erkend. Het zorgprogramma « cardiale pathologie » B bestaat, in het   kader van dit besluit, ofwel uit de deelprogramma's B1-B2, ofwel uit het globale   zorgprogramma B1-B2-B3.<BR>
+
+### ART. 2.
+
+Om erkend te worden en erkend te blijven, voldoet het zorgprogramma «   cardiale pathologie » B aan de erkenningsvoorwaarden, vermeld in dit   besluit.<BR>
+
+### ART. 5.
+
+<P>Het algemeen ziekenhuis dat een erkenning voor het zorgprogramma « cardiale   pathologie » B heeft, of, in voorkomend geval, de coördinerend   geneesheer-dienstoverste, vermeld in artikel 24, § 3, 1°, van het koninklijk   besluit van 15 juli 2004, bezorgt een kopie van het kwaliteitshandboek aan het   agentschap.<BR></P>  <P>In het eerste lid wordt verstaan onder: <BR>1° agentschap: het intern   verzelfstandigd agentschap Vlaams Agentschap Zorg en Gezondheid, opgericht bij   het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap « Zorg en Gezondheid »;<BR>2° kwaliteitshandboek: het   multidisciplinair cardiologisch kwaliteitshandboek, vermeld in artikel 20 van   het koninklijk besluit van 15 juli 2004.<BR></P>
+
+### ART. 6.
+
+<P>In dit artikel wordt verstaan onder associatie: het juridisch geformaliseerde   duurzame samenwerkingsverband tussen twee of meer ziekenhuizen, gericht op het   gezamenlijk exploiteren van een of meer zorgprogramma's, ziekenhuisdiensten,   -functies, -afdelingen, medische diensten, medisch-technische diensten of   technische diensten, dat erkend is door de minister die de erkenning van de   ziekenhuizen onder zijn bevoegdheid heeft.</P>  <P><BR>Een zorgprogramma « cardiale pathologie » B kan maar van één associatie   het voorwerp uitmaken. <BR></P>  <P>Een associatie van twee of meer globale zorgprogramma's B1-B2-B3, die   gesloten wordt na de inwerkingtreding van dit besluit, geldt niet als   uitzondering op artikel 82, § 2, 3°, van de wet op de ziekenhuizen en andere   verzorgingsinrichtingen, gecoördineerd op 10 juli 2008.<BR></P>
+
+### ART. 7.
+
+Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan   in het Belgisch Staatsblad, met uitzondering van artikel 3 en 4 die in werking   treden op een door de Vlaamse minister, bevoegd voor het gezondheidsbeleid, vast   te stellen datum.<BR>
+
+### ART. 8.
+
+De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de   uitvoering van dit besluit.<BR>
