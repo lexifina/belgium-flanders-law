@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022962,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-17 tot wijziging van artikel 14, 21 en 27 van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022962/VolledigDocument?datum=2013-06-17",
+  "source_sha256": "526675123ee4e89ad12388efd3a6be2ffb6043194e5442d810358f581b5acbd6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022962&param=informatie",
+  "as_of": "2013-06-17",
+  "made": "2013-05-17",
+  "gazette": "2013-06-07",
+  "numac": 2013203264,
+  "document_start": "2013-06-17",
+  "document_end": null,
+  "in_force": "2013-06-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-06-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
