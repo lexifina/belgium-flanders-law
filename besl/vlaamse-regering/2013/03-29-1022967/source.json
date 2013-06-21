@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022967,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie productieoperator Hout",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022967/VolledigDocument?datum=2013-06-21",
+  "source_sha256": "ae338d375fac21a1e4bf46de4851cc3bdc7ba1d4a84fa2a3e1cbc51b14f2c699",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022967&param=informatie",
+  "as_of": "2013-06-21",
+  "made": "2013-03-29",
+  "gazette": "2013-06-11",
+  "numac": 2013035498,
+  "document_start": "2013-06-21",
+  "document_end": null,
+  "in_force": "2013-06-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
