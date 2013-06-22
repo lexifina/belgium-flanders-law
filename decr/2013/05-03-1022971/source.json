@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022971,
+  "title": "Decreet van 2013-05-03 houdende instemming met 1° de overeenkomst inzake luchtvervoer tussen ten eerste, de Verenigde Staten van Amerika, ten tweede, de Europese Unie en haar lidstaten, ten derde, IJsland, en ten vierde, het Koninkrijk Noorwegen, ondertekend in Luxemburg op 16 juni 2011 en in Oslo op 21 juni 2011, en 2° de aanvullende overeenkomst tussen ten eerste, de Europese Unie en haar lidstaten, ten tweede, IJsland, en ten derde, het Koninkrijk Noorwegen, betreffende de toepassing van de overeenkomst vermeld onder 1°, ondertekend in Luxemburg op 16 juni 2011 en in Oslo op 21 juni 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022971/VolledigDocument?datum=2013-06-22",
+  "source_sha256": "8a63359652dfe46e7d5bfed7a1d7dbf77a27ae9198527b96bf3b5ea969c3b4dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022971&param=informatie",
+  "as_of": "2013-06-22",
+  "made": "2013-05-03",
+  "gazette": "2013-06-12",
+  "numac": 2013035439,
+  "document_start": "2013-06-22",
+  "document_end": null,
+  "in_force": "2013-06-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
