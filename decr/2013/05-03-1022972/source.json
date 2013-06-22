@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022972,
+  "title": "Decreet van 2013-05-03 houdende instemming met de overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en Georgië, anderzijds, betreffende een gemeenschappelijke luchtvaartruimte, ondertekend in Brussel op 2 december 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022972/VolledigDocument?datum=2013-06-22",
+  "source_sha256": "cb4fc6c868c47b7116733e1432b6e56ca6f972b782216b60612bd230fa551ad7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022972&param=informatie",
+  "as_of": "2013-06-22",
+  "made": "2013-05-03",
+  "gazette": "2013-06-12",
+  "numac": 2013035443,
+  "document_start": "2013-06-22",
+  "document_end": null,
+  "in_force": "2013-06-22",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
