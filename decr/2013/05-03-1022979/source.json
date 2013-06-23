@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022979,
+  "title": "Decreet van 2013-05-03 houdende instemming met de Euromediterrane luchtvaartovereenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en het Hasjemitische Koninkrijk Jordanië, anderzijds, ondertekend in Brussel op 15 december 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022979/VolledigDocument?datum=2013-06-23",
+  "source_sha256": "eb1cbab81637e2bb2591086eea8449a3b92d9803b404246f45d100a6842c4564",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022979&param=informatie",
+  "as_of": "2013-06-23",
+  "made": "2013-05-03",
+  "gazette": "2013-06-13",
+  "numac": 2013035441,
+  "document_start": "2013-06-23",
+  "document_end": null,
+  "in_force": "2013-06-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
