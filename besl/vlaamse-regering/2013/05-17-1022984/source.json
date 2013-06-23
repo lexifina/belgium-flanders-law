@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022984,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-17 houdende indeling bij de gemeentewegen van de gewestweg N12 tussen kilometerpunt 45,000 en 45,100 op het grondgebied van de gemeente Ravels",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022984/VolledigDocument?datum=2013-06-23",
+  "source_sha256": "8ae7f68bd6fc0f8c5ae9a1649c4916f7b641c4632783ebc65c5064db9bb28b95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022984&param=informatie",
+  "as_of": "2013-06-23",
+  "made": "2013-05-17",
+  "gazette": "2013-06-13",
+  "numac": 2013035503,
+  "document_start": "2013-06-23",
+  "document_end": null,
+  "in_force": "2013-06-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
