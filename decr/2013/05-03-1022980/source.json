@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022980,
+  "title": "Decreet van 2013-05-03 houdende instemming met de multilaterale overeenkomst tussen de Europese Gemeenschap en haar lidstaten, de Republiek Albanië, Bosnië en Herzegovina, de Republiek Bulgarije, de Republiek Kroatië, de Republiek IJsland, de Republiek Montenegro, de voormalige Joegoslavische Republiek Macedonië, het Koninkrijk Noorwegen, de Republiek Servië, Roemenië en de Missie van de Verenigde Naties voor interimbestuur in Kosovo (UNMIK) betreffende de totstandbrenging van een Europese Gemeenschappelijke Luchtvaartruimte, ondertekend te Luxemburg op 9 juni 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022980/VolledigDocument?datum=2013-06-23",
+  "source_sha256": "15948ca1bf6964e3dd9f21392aa22e7074e108501fcf7c7078de6ebb9c7487d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022980&param=informatie",
+  "as_of": "2013-06-23",
+  "made": "2013-05-03",
+  "gazette": "2013-06-13",
+  "numac": 2013035442,
+  "document_start": "2013-06-23",
+  "document_end": null,
+  "in_force": "2013-06-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
