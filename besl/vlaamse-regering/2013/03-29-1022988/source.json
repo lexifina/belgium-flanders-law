@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022988,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-29 tot erkenning van de beroepskwalificatie productiemedewerker Kunststofverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022988/VolledigDocument?datum=2013-06-24",
+  "source_sha256": "05fac453d15e83348ad83003ffeb186ef498944bf9121c6477618319ea408a2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022988&param=informatie",
+  "as_of": "2013-06-24",
+  "made": "2013-03-29",
+  "gazette": "2013-06-14",
+  "numac": 2013035493,
+  "document_start": "2013-06-24",
+  "document_end": null,
+  "in_force": "2013-06-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-06-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
