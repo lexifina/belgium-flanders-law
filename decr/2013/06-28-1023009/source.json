@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023009,
+  "title": "Decreet van 2013-06-28 houdende diverse bepalingen inzake energie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023009/VolledigDocument?datum=2013-06-28",
+  "source_sha256": "1f481b7f006bfae77a45292ee47d0a314e3ebb8e95e01767f1fa97aa81849c1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023009&param=informatie",
+  "as_of": "2013-06-28",
+  "made": "2013-06-28",
+  "gazette": "2013-06-28",
+  "numac": 2013035608,
+  "document_start": "2013-06-28",
+  "document_end": null,
+  "in_force": "2013-06-28",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2013-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
