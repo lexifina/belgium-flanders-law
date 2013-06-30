@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° het indelingsbesluit: het besluit van de Vlaamse regering van 23 januari 2004 houdende vaststelling en organisatie van de indeling van geslachte varkens;<br /><br />2° toezichthouder: het personeelslid van het erkende interprofessionele orgaan of van de aangewezen onderneming die de vaststellingen doet zoals bepaald in artikel 11, 1°, van het indelingsbesluit.
+...
 
 ### ART. 2.
 
@@ -14,146 +14,91 @@ Voor de indeling van de karkassen volgens conformatie wordt het gebruik van de v
 
 ### ART. 4.
 
-Indien het slachthuis beslist de karkassen ook in te delen volgens conformatie, moet dat gebeuren voor alle geslachte varkens, met uitzondering van de varkens die voor het fokken zijn gebruikt.<br>
-<br>
-Binnen een maand na de inwerkingtreding van dit besluit moet het slachthuis zijn beslissing in verband met de indeling volgens conformatie aan de bevoegde entiteit van het Departement voor Landbouw en Visserij, hierna bevoegde entiteit te noemen, meedelen.<br>
-<br>
-Slachthuizen die beslissen de indeling volgens conformatie te beëindigen of met die indeling te beginnen, moeten die beslissing onmiddellijk aan de bevoegde entiteit meedelen.<br>
-<br>
-De indeling volgens conformatie moet gedaan worden volgens het volgende schema:<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:269.6pt">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:152.6pt">
-			<p>Weergave van de conformatie in een type-index<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:117pt">
-			<p>Klasse</p>
-
-			<p>(typegetal)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:152.6pt">
-			<p>1,60 en kleiner</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:117pt">
-			<p>1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:152.6pt">
-			<p>1,61 tot 2,40</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:117pt">
-			<p>2</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:152.6pt">
-			<p>2,41 tot 3,10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:117pt">
-			<p>3</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:152.6pt">
-			<p>3,11 en meer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:14.2pt; width:117pt">
-			<p>4</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+...
 
 ### ART. 4/1.
 
-Overeenkomstig artikel 26 van het indelingsbesluit moet de geïnteresseerde, om nieuwe indelingsmethoden voor de indeling volgens de conformatie of om wijzigingen aan al erkende indelingsmethoden te laten goedkeuren, aan de minister een dossier voorleggen met de volgende gegevens : <br />1° een technische beschrijving van de indelingsmethode met in voorkomend geval een beschrijving van de punten waarop een bestaande erkende indelingsmethode gewijzigd zal worden;<br />2° een beschrijving van de plaatsen waar de proeven kunnen worden uitgevoerd;<br />3° de testperiode.<br /><br />Overeenkomstig artikel 26 van het indelingsbesluit wordt voor de karkassen die aan de testen onderworpen worden ontheffing verleend van de bepalingen, vermeld in artikel 4, eerste lid.<br /><br />Overeenkomstig artikel 27 van het indelingsbesluit voert het Departement Landbouw en Visserij de testen uit voor nieuwe indelingsmethoden voor de indeling volgens de conformatie en aanpassingen aan erkende indelingsmethoden overeenkomstig de procedure, vermeld in het vierde lid.<br /><br />De procedure voor het testen van indelingsmethoden voor de indeling volgens de conformatie luidt als volgt : <br />1° de indelingsmethode voor de indeling van karkassen volgens de conformatie moet getoetst worden op een testpopulatie met grote spreiding in conformatie, die bestaat uit ten minste 500 geslachte dieren, waarvan het aandeel mager vlees is vastgesteld met een erkende indelingsmethode voor de indeling volgens het geraamde aandeel mager vlees, en de conformatie met een erkende indelingsmethode voor de indeling volgens de conformatie die tevens als referentiemethode geldt;<br />2° het testen van de indelingsmethoden bestaat uit het controleren van de juistheid van een aantal karkasmaten, en het opstellen van een regressievergelijking met als referentie het typegetal berekend volgens een erkende methode;<br />3° de door de indelingsmethode te meten karkasmaten, die moeten genomen worden op de linker karkashelft, zijn : <br />a) de hoek van de ham uitgedrukt in graden, gemeten in afwijking van de horizontale lijn aan de binnenzijde van de ham;<br />b) de maximale breedte van de ham, uitgedrukt in mm.<br />4° het opstellen van een regressievergelijking gebeurt op basis van de meetresultaten van het erkende indelingstoestel, de referentiemethode voor de bepaling van de conformatie en de nog te erkennen indelingsmethode voor de bepaling van de conformatie;<br />5° de juiste werking van de diverse onderdelen van de indelingsmethode zal nagegaan worden door het meten van sjablonen die verschillende types varkenskarkassen nabootsen;<br />6° de proefopstelling is als volgt : <br />a) de indelingsmethode wordt getest op een volledig gemonteerde meetinstallatie;<br />b) alle kosten ter voorbereiding en uitvoering van de test zijn ten laste van de geïnteresseerde die een indelingsmethode wil laten testen;<br />c) alle resultaten afkomstig van de test zijn eigendom van het Departement Landbouw en Visserij;<br />d) op een plan dat de installatie voorstelt, worden volgende punten vermeld voor wat de beeldanalysesystemen betreft : <br />1) de horizontale en verticale afstand van de camera tot het hakenspoor;<br />2) de plaats van de achtergrond en de belichtingsinstallatie;<br />3) de plaats van de geleidingsstaaf ten opzichte van het hakenspoor;<br />4) de positionering van het karkas ten opzichte van de camera (dorsaal of ventraal).
+...
 
 ### ART. 5.
 
-Ter uitvoering van artikel 3, § 3, van het indelingsbesluit moet het slachthuis voor de hierna vermelde elementen een procedure van autocontrole vastleggen:<br /><br />1° de beschikbaarheid van erkende classificeerders en de interne controle op de technisch correcte bediening van het indelingstoestel door de classificeerders;<br /><br />2° de eventuele indeling van de karkassen volgens conformatie;<br /><br />3° de procedure in geval van het niet merken van de geslachte varkens met inbegrip van de aanwijzing van de hiervoor verantwoordelijke persoon zoals bedoeld in artikel 8, § 4, tweede lid, van het indelingsbesluit;<br /><br />4° de plaats en de wijze van individualisering van de karkassen;<br /><br />5° de bewaring van de resultaten van weging en indeling van elk individueel geslacht varken;<br /><br />6° de aard, frequentie en wijze van mededeling van de resultaten van weging en indeling aan de leverancier;<br /><br />7° de aard, frequentie en wijze van mededeling van de resultaten van weging en indeling aan de producent en, in voorko-mend geval, de delegatieverlening daarvoor aan het erkende interprofessionele orgaan of aan de aangewezen onderneming;<br /><br />8° de wijze van mededeling van de maandelijkse statistische resultaten van weging en indeling aan de bevoegde entiteit;<br /><br />9° de controle op een correcte samenvoeging van gegevens uit de balans en de toestellen voor de indeling volgens het ge-raamde aandeel mager vlees en volgens conformatie;<br /><br />10° de procedure van de dagelijkse verificatie van de indelingstoestellen.
+...
 
 ### ART. 6.
 
-§ 1. De elementen van het indelingssysteem en van de testprocedure,   bedoeld in artikel 3, § 2, van het indelingsbesluit, worden vermeld in bijlage   V. De bevoegde entiteit kan aanvullende voorwaarden van het indelingssysteem en   de testprocedure vaststellen.<BR><BR>§ 2. Binnen twee maanden na de   inwerkingtreding van dit besluit moet het slachthuis aan de bevoegde enttieit   een verslag bezorgen waarin de leverancier van het geïnstalleerde   indelingssysteem op basis van de resultaten van de uitgevoerde testprocedure   bevestigt dat het systeem conform en betrouwbaar is.<BR><BR>Binnen een maand na   ontvangst van dit verslag en uiterlijk binnen vier maanden na de   inwerkingtreding van dit besluit voert de cel, vermeld in artikel 18, § 1, van   dit besluit, de testprocedure uit, controleert de juistheid van het verslag,   bedoeld in het eerste lid, en rapporteert de dienst   hierover.<BR><BR>Slachthuizen die een ander goedgekeurd indelingstoestel   installeren of die een indeling volgens conformatie aan hun indelingssysteem   toevoegen of weglaten, moeten het verslag zoals bedoeld in het eerste lid   onmiddellijk aan de bevoegde entiteit bezorgen. Binnen een maand na deze   mededeling zal de cel de testprocedure uitvoeren, de juistheid van het verslag   controleren en de bevoegde entiteit hierover rapporteren.<BR><BR>De cel wordt   belast met een jaarlijkse controle van de correcte werking van het   geïnstalleerde classificatiesysteem. De bevoegde entiteit stelt de voorwaarden   van die controle vast.<BR><BR>Bij de controles, vermeld in het tweede, derde en   vierde lid, kan de cel zich laten bijstaan door het erkende interprofessionele   orgaan of de aangewezen onderneming.
+<P>§ 1. De elementen van het indelingssysteem en van de testprocedure, bedoeld   in artikel 3, § 2, van het indelingsbesluit, worden vermeld in bijlage V. De   bevoegde entiteit kan aanvullende voorwaarden van het indelingssysteem en de   testprocedure vaststellen.<BR><BR>§ 2. ...</P>
 
 ### ART. 7.
 
-§ 1. De bevoegde entiteit zorgt voor de opleiding en de evaluatie van de classificeerders en de toezichthouders. Het programma van de opleiding en de evaluatie bestaat uit:<br /><br />1° een theoretisch gedeelte over de reglementering en technieken inzake de indeling van karkassen;<br /><br />2° een praktische opleiding voor de classificeerder in het slachthuis waar hij de indeling zal doen en met het door het slachthuis gekozen indelingstoestel en zijn evaluatie in dit slachthuis en met dit indelingstoestel;<br /><br />3° een praktische opleiding voor de toezichthouder met elk van de goedgekeurde indelingstoestellen, vermeld in artikel 2, en zijn evaluatie met die indelingstoestellen in de slachthuizen, aangewezen door de bevoegde entiteit.<br /><br />Aan de classificeerder of de toezichthouder, die met gunstig gevolg het programma, bedoeld in het eerste lid, heeft gevolgd, wordt een erkenning verleend. Die erkenning loopt tot het einde van het kalenderjaar. De erkenning van de classificeerder is gekoppeld aan het indelingstoestel, bedoeld in artikel 2.<br /><br />De erkenning is persoonlijk en kan niet worden overgedragen aan anderen. Ze vermeldt onder andere de identiteit van de houder, het erkenningsnummer, de geldigheidsduur en voor de classificeerder het slachthuis en het indelingstoestel waarvoor ze geldt.<br /><br />§ 2. De bevoegde entiteit beslist over de verlenging en opheffing van de verleende erkenningen op basis van een evaluatie van de prestaties van classificeerders en toezichthouders, gesteund op controlerapporten.<br /><br />De bevoegde entiteit stelt, onverminderd wat bepaald is in § 1, de voorwaarden vast van de opleiding, de controle en de evaluatie.
+...
 
 ### ART. 8.
 
-Karkassen die niet beantwoorden aan de voorwaarden zoals bepaald in artikel 8, § 3, van het indelingsbesluit, moeten niet gemerkt worden zoals aangegeven in artikel 8, § 1 en § 2, van het indelingsbesluit.<br /><br />De verklaring, vermeld in artikel 8, § 4, tweede lid, van het indelingsbesluit, die het slachthuis moet opstellen, zal minstens de volgende gegevens van elk geslacht varken bevatten:<br /><br />1° het individualiseringsnummer, bedoeld in artikel 7, derde lid, van het indelingsbesluit;<br /><br />2° het klopnummer of identificatienummer;<br /><br />3° het warm gewicht van het karkas;<br /><br />4° het geraamde aandeel mager vlees;<br /><br />5° de slachtdatum;<br /><br />6° in voorkomend geval, de type-index.
+...
 
 ### ART. 9.
 
-§ 1. Het slachthuis is verplicht minstens de volgende gegevens van elk geslacht varken bij te houden:<br /><br />1° de slachtdatum;<br /><br />2° het uur van weging;<br /><br />3° het individualiseringsnummer, bedoeld in artikel 7, derde lid, van het indelingsbesluit;<br /><br />4° het klopnummer of identificatienummer;<br /><br />5° het warm gewicht van het karkas;<br /><br />6° de leverancier;<br /><br />7° de producent.<br /><br />Het slachthuis moet van elk geslacht en ingedeeld varken naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens bijhouden:<br /><br />1° het geraamde aandeel mager vlees;<br /><br />2° in voorkomend geval, de type-index;<br /><br />3° de meetresultaten, op basis waarvan het geraamde aandeel mager vlees en, in voorkomend geval, de type-index wordt berekend;<br /><br />4° het erkenningsnummer van de classificeerder.<br /><br />De bevoegde entiteit kan gegevens vastleggen die het slachthuis bijkomend moet bijhouden voor elk geslacht varken.<br /><br />§ 2. Slachthuizen die delegatie hebben verleend aan het erkende interprofessionele orgaan of de aangewezen onderneming om de resultaten van weging en indeling te bezorgen aan de producenten, moeten in de periode waarin de delegatieverlening geldig is, de identiteit van de producent, bedoeld in § 1, eerste lid, 7°, niet bijhouden.<br /><br />§ 3. De gegevens, vermeld in § 1, moeten door het slachthuis minstens een jaar bewaard worden. De gegevens moeten steeds beschikbaar zijn voor controle en mogen zowel op papier als elektronisch bijgehouden worden.
+...
 
 ### ART. 10.
 
-§ 1. De uitbater van het slachthuis zal van elk geslacht varken minstens de volgende gegevens meede-len aan de leverancier:<br /><br />1° de slachtplaats en -datum;<br /><br />2° het warm gewicht van het karkas.<br /><br />Naast de gegevens, vermeld in het eerste lid, zal hij ook de volgende gegevens van elk ingedeeld geslacht varken aan de leverancier meedelen:<br /><br />1° het geraamde aandeel mager vlees;<br /><br />2° in voorkomend geval, de type-index.<br /><br />Op verzoek van de leverancier zal hij ook de meetresultaten, bedoeld in artikel 9, § 1, tweede lid, 3°, meedelen.<br /><br />§ 2. Deze resultaten moeten binnen acht dagen na het slachten schriftelijk aan de leverancier bezorgd zijn. Het slachthuis mag op verzoek van de leverancier die schriftelijke mededeling vervangen door een elektronische.
+...
 
 ### ART. 11.
 
-§ 1. Indien hij hiervoor geen delegatie heeft verleend aan het erkende interprofessionele orgaan of de aangewezen onderneming, zal de uitbater van het slachthuis per combinatie slachtdatum - klopnummer van elk geslacht varken minstens de volgende gegevens meedelen aan de producent:<br /><br />1° de slachtplaats en -datum;<br /><br />2° het warm gewicht van het karkas.<br /><br />Naast de gegevens, vermeld in het eerste lid, zal hij ook de volgende gegevens van elk ingedeeld geslacht varken aan de leverancier meedelen:<br /><br />1° het geraamde aandeel mager vlees;<br /><br />2° in voorkomend geval, de type-index.<br /><br />Op verzoek van de leverancier zal hij ook de meetresultaten, bedoeld in artikel 9, § 1, tweede lid, 3°, meedelen.<br /><br />§ 2. Deze resultaten moeten binnen veertien dagen na het slachten schriftelijk aan de producent bezorgd zijn. Het slachthuis mag op verzoek van de producent die schriftelijke mededeling vervangen door een elektronische.<br /><br />§ 3. Als de leverancier en de producent dezelfde fysieke of rechtspersoon is, moet de mededeling gebeuren zoals beschreven in § 1 en § 2.
+...
 
 ### ART. 12.
 
-De slachthuizen, bedoeld in artikel 2, § 1, van het indelingsbesluit, delen uiterlijk de tiende dag van elke maand de resultaten van weging en indeling van de ingedeelde varkens van de voorgaande maand mee aan de dienst. Het slachthuis deelt per klasse volgens het geraamde aandeel mager vlees, vermeld in artikel 5, § 1, van het indelingsbesluit, de volgende gegevens mee:<br /><br />1° het aantal geslachte varkens;<br /><br />2° het totale warm gewicht van de karkassen.<br /><br />Slachthuizen die ook indelen volgens conformatie, moeten die gegevens meedelen per combinatie van klassen volgens het geraamde aandeel mager vlees en volgens conformatie.<br /><br />Die resultaten moeten worden bezorgd in het formaat, vastgelegd door de bevoegde entiteit.
+...
 
 ### ART. 13.
 
-§ 1. Het interprofessionele orgaan of de onderneming moet, ter uitvoering van artikel 12, 7°, respectievelijk artikel 14, 7°, van het indelingsbesluit, een protocol voor de volgende thema's ter goedkeuring aan de bevoegde entiteit voorleggen:<br /><br />1° het werkprogramma met betrekking tot de opdrachten, bedoeld in artikel 11 van het indelingsbesluit, en op basis van het door de dienst opgelegde controlevolume, bedoeld in artikel 12, 4°, van het indelingsbesluit, voor het interprofessionele orgaan en in artikel 14, 4°, voor de onderneming;<br /><br />2° het beheer van de resultaten van weging en indeling en de beveiliging ervan;<br /><br />3° de procedure van mededeling van resultaten van weging en indeling aan de producenten;<br /><br />4° de procedure van mededeling van resultaten van weging en indeling aan derden, bedoeld in artikel 20, tweede lid, van het indelingsbesluit;<br /><br />5° de procedure van mededeling aan de bevoegde entiteit van vaststellingen gedaan in de slachthuizen ter uitvoering van de opdrachten, vermeld in artikel 11 van het indelingsbesluit;<br /><br />6° een actieprogramma met betrekking tot het verhoogde toezicht zoals bedoeld in artikel 25 van het indelingsbesluit en in artikel 19 van dit besluit;<br /><br />7° het ter beschikking stellen aan de bevoegde entiteit, op tijdstippen die de dienst bepaalt, van de volledige of gedeeltelijke inhoud van de database met de resultaten van weging en indeling;<br /><br />8° de wijze van autocontrole.<br /><br />§ 2. De bevoegde entiteit kan het interprofessionele orgaan of de onderneming opleggen een protocol voor aanvullende thema's ter goedkeuring voor te leggen.<br /><br />§ 3. Elke wijziging die het interprofessionele orgaan of de onderneming aan de goedgekeurde protocollen, bedoeld in § 1 en § 2, aanbrengt, moet vooraf ter goedkeuring aan de bevoegde entiteit voorgelegd worden.
+...
 
 ### ART. 14.
 
-Indien de minister een interprofessioneel orgaan erkent of een onderneming aanwijst, is het slachthuis verplicht de volgende gegevens van elk geslacht varken uiterlijk binnen twee werkdagen na het slachten aan dat orgaan of die onderneming mee te delen:<br /><br />1° het klopnummer of identificatienummer;<br /><br />2° het individualiseringsnummer;<br /><br />3° de slachtplaats en -datum;<br /><br />4° het warm gewicht van het karkas.<br /><br />Voor elk ingedeeld geslacht varken moeten naast de gegevens, vermeld in het eerste lid, ook de volgende gegevens meegedeeld worden:<br /><br />1° het geraamde aandeel mager vlees;<br /><br />2° in voorkomend geval, de type-index;<br /><br />3° de meetresultaten, bedoeld in artikel 9, § 1, tweede lid, 3°.<br /><br />Deze gegevensoverdracht zal op elektronische wijze gebeuren.<br /><br />De bevoegd entiteit kan aanvullende gegevens aanwijzen die het slachthuis moet meedelen.
+...
 
 ### ART. 15.
 
-§ 1. Indien de uitbater van het slachthuis delegatie heeft verleend aan het erkende interprofessionele orgaan of aan de aangewezen onderneming om de resultaten van weging en indeling te bezorgen aan de producent, moet dat orgaan of die onderneming ervoor zorgen dat die resultaten ten laatste veertien dagen na het slachten aan de producent bezorgd zijn.<br /><br />§ 2. Het interprofessionele orgaan of de onderneming moet de gegevens, bedoeld in artikel 14, met uitzondering van het individualiseringsnummer, aan de producent meedelen.<br /><br />§ 3. Deze resultaten moeten schriftelijk aan de producent bezorgd worden. Het orgaan of de onderneming mag op verzoek van de producent die schriftelijke mededeling vervangen door een elektronische.<br /><br />§ 4. De delegatieverlening, bedoeld in artikel 18, § 2, tweede lid, van het indelingsbesluit moet schriftelijk gebeuren met onder meer vermelding van begindatum en einddatum van de overeenkomst. De delegatieverlening wordt gegeven voor alle varkens, geslacht in het betreffende slachthuis. Het slachthuis bezorgt een kopie van de door beide partijen ondertekende delegatieverlening aan de bevoegde entiteit.
+...
 
 ### ART. 16.
 
-§ 1. De financiering, vermeld in artikel 19 van het indelingsbesluit, gebeurt op basis van een bedrag per geslacht varken of per eenheid van activiteit.<br /><br />Dat bedrag verschilt al naargelang het slachthuis al dan niet delegatie verleend heeft aan het erkende interprofessionele orgaan of de aangewezen onderneming zoals bedoeld in artikel 18 van het indelingsbesluit.<br /><br />§ 2. Het erkende interprofessionele orgaan of de aangewezen onderneming kan, na machtiging van de minister, de bedragen, bedoeld in § 1, bepalen die de slachthuizen moeten betalen voor de financiering van de werking van het orgaan of de onderneming. In dat voorstel moet het orgaan of de onderneming rekening houden met het door de bevoegde enttieit vooraf goedgekeurde controlevolume. Het orgaan kan beslissen een groter controlevolume toe te passen.<br /><br />De bevoegde entiteit bepaalt de elementen die het orgaan of de onderneming in het dossier met betrekking tot het voorstel van financiering moet opnemen.<br /><br />§ 3. Bij de beslissing over het toe te passen controlevolume en over de bedragen, bedoeld in § 2 en in artikel 19, § 4, is in de bestuursorganen van dat orgaan unanimiteit vereist van alle vertegenwoordigers van de beroepsorganisaties van de slachthuizen en van de producenten.
+...
 
 ### ART. 17.
 
-§ 1. De slachthuizen die op de datum van de inwerkingtreding van dit besluit volgens artikel 2, § 1, van het indelingsbesluit de indeling van geslachte varkens uitvoeren, moeten binnen twee maanden na die inwerkingtreding hun procedure van autocontrole meedelen.<br /><br />§ 2. De slachthuizen die na de inwerkingtreding van dit besluit de verplichting hebben de indeling van geslachte varkens uit te voeren of zij die deze indeling uitvoeren op basis van artikel 2, § 1, tweede lid, van het indelingsbesluit, moeten hun procedure van autocontrole onmiddellijk meedelen.<br /><br />§ 3. De mededeling, bedoeld in § 1 en § 2, moet gericht zijn aan het erkende interprofessionele orgaan of aan de aangewezen onderneming. Bij ontstentenis van een erkend interprofessioneel orgaan of van een aangewezen onderneming, moeten de slachthuizen hun mededeling inzake de procedure van autocontrole aan de bevoegde entiteit bezorgen.
+...
 
 ### ART. 18.
 
-§ 1. De cel Begeleiding Karkasclassificatie van de Universiteit Gent wordt belast met de opdrachten, vermeld in artikel 24, eerste lid, 2° en 3°, van het indelingsbesluit.<br /><br />§ 2. De slachthuizen, bedoeld in artikel 2, § 1, van het indelingsbesluit en, in voorkomend geval, het erkende interprofessionele orgaan of de aangewezen onderneming zijn verantwoordelijk voor de financiering van de cel, vermeld in § 1.<br /><br />De cel kan, na machtiging van de minister, het bedrag bepalen van de bijdrage die de slachthuizen en, in voorkomend geval, het erkende interprofessionele orgaan of de aangewezen onderneming moeten betalen voor de financiering van de cel voor de activiteiten, bedoeld in artikel 24, eerste lid, 2° en 3°, van het indelingsbesluit.<br /><br />Indien voor de uitvoering van de opdrachten, bedoeld in artikel 11 van het indelingsbesluit, een interprofessioneel orgaan erkend wordt of een onderneming aangewezen, kan de bevoegde entiteit beslissen dat de inning van de bijdragen van het slachthuis aan de cel, bedoeld in het tweede lid, zal gebeuren door het orgaan of de onderneming. Het orgaan of de onderneming storten die sommen vervolgens door naar de Universiteit Gent.<br /><br />§ 3. De slachthuizen zijn verplicht binnen een maand na de inwerkingtreding van dit besluit een contract af te sluiten met de cel Begeleiding Karkasclassificatie voor de uitvoering van de opdrachten, bedoeld in artikel 24, eerste lid, 2° en 3°, van het indelingsbesluit, en de financiering ervan.<br /><br />Voor het contract, bedoeld in het eerste lid, aan het slachthuis wordt voorgelegd, moet het door de bevoegde entiteit goedgekeurd worden.
+...
 
 ### ART. 19.
 
-§ 1. Met verhoogd toezicht als bedoeld in artikel 25 van het indelingsbesluit wordt bedoeld dat, in opdracht van de dienst en gedurende een door de bevoegde enttieit bepaalde periode, het erkende interprofessionele orgaan of de aangewezen onderneming zijn gebruikelijke controlefrequentie, zoals bedoeld in artikel 16, § 2, eerste lid, van dit besluit respectievelijk in artikel 14, 4°, van het indelingsbesluit verdubbelt.<br /><br />§ 2. De volgende inbreuken kunnen aanleiding geven tot een verhoogd toezicht:<br /><br />1° geen indeling of een indeling door niet-erkende classificeerders;<br /><br />2° onvolledige bewaring van de resultaten van weging en indeling;<br /><br />3° laattijdige of onvolledige mededeling van resultaten van weging en indeling aan de leverancier of de producent;<br /><br />4° de afwezigheid van goedgekeurde procedures van autocontrole;<br /><br />5° het niet toepassen van de goedgekeurde procedures van autocontrole;<br /><br />6° te veel foutieve indelingen in categorieën of in klassen van bevleesdheid en vetheid.<br /><br />§ 3. De precieze normen voor de inbreuken, genoemd in § 2, worden bepaald door de bevoegde entiteit.<br /><br />§ 4. Het erkende interprofessionele orgaan of de aangewezen onderneming kan, na machtiging van de minister, de bedragen bepalen die ze aan de slachthuizen aanrekent voor dat verhoogd toezicht.
+...
 
 ### ART. 20.
 
-Onverminderd de wet van 28 maart 1975 worden de ambtenaren van de bevoegde entiteit, bedoeld in artikel 1, 2°, van het indelingsbesluit, belast met het toezicht op de toepassing van alle bepalingen van het indelingsbesluit en de uitvoeringsbesluiten.
+...
 
 ### ART. 21.
 
-Het slachthuis en de erkende classificeerders zijn verplicht aan de personen, bedoeld in artikel 20, van dit besluit en aan de toezichthouders, vermeld in artikel 16 van het indelingsbesluit, de nodige bijstand te verlenen bij het uitoefenen van hun controletaken. Die bijstand bestaat erin dat zij hen vrije toegang verlenen tot alle installaties en ruimtes van het slachthuis en hen de documenten en gegevens met betrekking tot de indeling voorleggen.
+...
 
 ### ART. 22.
 
-Het erkende interprofessionele orgaan of, in voorkomend geval, de aanwezen onderneming en de erkende toezichthouders zijn verplicht aan de personen, bedoeld in artikel 20, de nodige bijstand te verlenen bij de uitoefening van hun controletaken. Het orgaan of de onderneming zal hen inzage verlenen in de notulen van de vergaderingen van de bestuursorganen en in alle documenten en gegevens die betrekking hebben op de uitvoering van de gegeven opdrachten.
+...
 
 ### ART. 23.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 3 mei 1999 betreffende het klasseren van geslachte varkens en het ministerieel besluit van 25 november 2003 houdende bijzondere tijdelijke maatregelen betreffende de indeling van geslachte varkens op)
+...
 
 ### ART. 24.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 18, § 1, en § 2, eerste en tweede lid, die in werking treden op 1 januari 2004.<br />
+...
 
 ## Bijlagen
 
