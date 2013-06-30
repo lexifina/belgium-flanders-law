@@ -2,11 +2,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° het indelingsbesluit: het besluit van de Vlaamse regering van 3 oktober 2003 houdende vaststelling en organisatie van de indeling van geslachte volwassen runderen;<br /><br />2° het resultaat van indeling: het triplet zoals bepaald in artikel 2 van het indelingsbesluit. Indien het geslachte rund ook ingedeeld is in subcategorieën en subklassen, maken deze subcategorieën en subklassen deel uit van het resultaat van indeling;<br /><br />3° toezichthouder: het personeelslid van het erkende interprofessionele orgaan of van de aangewezen onderneming die de vaststellingen doet zoals bepaald in artikel 13, 1°, van het indelingsbesluit.
+...
 
 ### ART. 2.
 
-§ 1. De categorie B, bedoeld in artikel 2, § 1, 1°, van het indelingsbesluit, mag uitgebreid worden met de volgende twee subcategorieën, die de code "a" en "b" krijgen:<br /><br />1° subcategorie "a" voor de stieren van 24 maanden en ouder, maar jonger dan 30 maanden;<br /><br />2° subcategorie "b" voor de stieren van 30 maanden en ouder.<br /><br />De categorie D, bedoeld in artikel 2, § 1, 1°, van het indelingsbesluit, mag uitgebreid worden met de volgende twee subcategorieën, die de code "d" en "e" krijgen:<br /><br />1° subcategorie "d" voor de gekalfde koeien van 4 jaar en ouder;<br /><br />2° subcategorie "e" voor de gekalfde koeien jonger dan 4 jaar.<br /><br />Bij gebruik van deze subcategorieën moet de code ervan direct volgen op de letter die de categorie aangeeft.<br /><br />§ 2. De indeling, bedoeld in artikel 2, § 1, 2° en 3°, van het indelingsbesluit, mag worden uitgebreid met ten hoogste drie subklassen. Ze worden aangegeven met de tekens -, =, +, volgens toenemende mate van bevleesdheid en vetheid en moeten direct volgen op de letter of het cijfer van de klasse in kwestie.<br /><br />§ 3. De uitbater van het slachthuis beslist over het al dan niet gebruiken van deze subcategorieën en subklassen.
+...
 
 ### ART. 3.
 
@@ -14,23 +14,23 @@ In dit besluit wordt verstaan onder:<br /><br />1° het indelingsbesluit: het be
 
 ### ART. 4.
 
-§ 1. De bevoegde entiteit zorgt voor de opleiding en de evaluatie van de classificeerders en de toezichthouders. Het programma van de opleiding bestaat uit:<br /><br />1° een theoretisch gedeelte over de reglementering en technieken inzake de indeling van karkassen;<br /><br />2° een praktisch gedeelte van ten minste drie indelingssessies in drie verschillende slachthuizen;<br /><br />3° een evaluatie van de classificeerder in het slachthuis waarin hij werkzaam zal zijn en van de toezichthouder in de slachthuizen, aangewezen door de dienst.<br /><br />Aan de classificeerder of de toezichthouder die met gunstig gevolg het programma, bedoeld in het eerste lid, heeft gevolgd, wordt een erkenning verleend. Die erkenning loopt tot het einde van het kalenderjaar.<br /><br />De erkenning is persoonlijk en kan niet worden overgedragen aan anderen. Ze vermeldt onder andere de identiteit van de houder, het erkenningsnummer, de geldigheidsduur en voor de classificeerder het slachthuis waarvoor ze geldig is.<br /><br />§ 2. De bevoegde entiteit beslist over de verlenging en opheffing van de verleende erkenningen op basis van een evaluatie van hun prestaties, gesteund op controlerapporten.<br /><br />Onverminderd de bepalingen van § 1, bepaalt de bevoegde entiteit de voorwaarden van de opleiding, de controle en de evaluatie.
+...
 
 ### ART. 5.
 
-§ 1. [Ter uitvoering van artikel 6, tweede lid, van het indelingsbesluit, moet het karkas bij de weging, indeling en merking aan de volgende voorwaarden voor de aanbiedingsvorm voldoen:<br /><br />1° het karkas moet worden aangeboden:<br /><br />a) zonder het zakvet of het uiervet, het hartzakje en de vette nekaders;<br /><br />b) zonder het ruggenmerg;<br /><br />2° met behoud van de toepassing van de bepalingen, vermeld in 1°, kiest het slachthuis voor elk karkas een passende<br /><br />aanbiedingsvorm uit de lijst van toegestane aanbiedingsvormen als beschreven in de bijlage, gevoegd bij dit besluit. Elke<br /><br />aanbiedingsvorm heeft zijn code;<br /><br />3° als het slachthuis beslist tot de verwijdering van uitwendig bedekkingsvet, mag dat enkel gebeuren op de volgende plaatsen van het karkas:<br /><br />a) op de bilnaad;<br /><br />b) in de anaal-genitale streek en rond de staartinplanting;<br /><br />c) op de puntborst;<br /><br />d) op de heup;<br /><br />e) in de rugstreek, dat is op de lendenen, de narug, de middenrug, de voorrug, rond de schouder, zonder de huidspier van de schouder te raken, en niet verder dan de lijn die loopt van de punt van het vangvet tot de punt van de schouder. Als bedekkingsvet wordt weggenomen, mag het spierweefsel in geen geval bloot komen te liggen;<br /><br />4° als het slachthuis beslist tot de verwijdering van inwendig vet, moet dat beperkt blijven tot:<br /><br />a) het slotvet;<br /><br />b) het niervet, of het teveel aan niervet als de nieren aan het karkas blijven.<br /><br />§ 2. De gekozen aanbiedingsvorm moet behouden blijven tot de dag na de slachting. Na het wegen en merken mag geen<br /><br />uitwendig en inwendig vet van het karkas worden verwijderd tot het ogenblik dat de voor- en achtervoeten worden uitgebeend.<br /><br />§ 3. Het bij weging vastgestelde warm gewicht van het karkas wordt afgerond tot op de kilo. Gewichten waarvan het eerste cijfer na de komma 5 of meer bedraagt, worden afgerond naar boven. Gewichten waarvan het eerste cijfer na de komma lager is dan 5, worden afgerond naar beneden.<br /><br />Slachthuizen mogen beslissen dat het warm gewicht van het karkas bepaald wordt tot op 1 cijfer na de komma.  <span class="reference">(verv. M.B. 15 december 2005, art. 1, I: 1 januari 2006)</span> ]
+...
 
 ### ART. 6.
 
-§ 1. Onverminderd de vermeldingen die op het etiket moeten voorkomen krachtens het etiketteringbe-sluit en de vermeldingen, bedoeld in artikel 7, § 2, vierde lid, van het indelingsbesluit, moeten de volgende vermeldingen erop voorkomen:<br /><br />1° het EEG-erkenningsnummer van het slachthuis, bedoeld in artikel 3, § 1, van het indelingsbesluit;<br /><br />2° het werknummer of identificatienummer;<br /><br />3° het nummer van het merkteken tot individualisering van het karkas zoals bepaald in artikel 1 van het ministerieel besluit nr. 12 van 28 augustus 1973 met betrekking tot de automatische weegtoestellen te gebruiken in slachthuizen voor de toepassing van de belasting over de toegevoegde waarde;<br /><br />4° de slachtdatum;<br /><br />5° het warm gewicht van het karkas;<br /><br />6° de geboortedatum van het geslachte dier;<br /><br />7° het erkenningnummer van de classificeerder;<br /><br />8° het resultaat van de indeling ;<br /><br />[9° de code van de aanbiedingsvorm. Op het etiket wordt die code als volgt genoteerd: AV: code.  <span class="reference">(ing. M.B. 15 december 2005, art. 1, I: 1 januari 2006)</span> ]<br /><br />§ 2. De letters en cijfers die het resultaat van weging en indeling aanduiden, moeten minstens 15 mm hoog zijn.<br /><br />De etiketten mogen geen stof bevatten die schadelijke gevolgen kan hebben voor de gezondheid van de mens of de organoleptische kenmerken van het vlees kan aantasten.<br /><br />§ 3. Indien de vermeldingen, opgelegd door het etiketteringbesluit, vermeld in artikel 7, § 2, vierde en vijfde lid van het indelingsbesluit en vermeld in § 1 van dit artikel, verdeeld worden over twee of meer etiketten, moeten alle vermeldingen zoals vermeld in § 1, op een en hetzelfde etiket staan.<br /><br />Bovendien moet dit etiket voldoen aan de eisen gesteld in artikel 7, § 2, tweede en derde lid van indelingsbesluit en in § 2 van dit artikel.<br /><br />[§ 4. Met toepassing van artikel 7, § 2, derde lid, van het indelingsbesluit mag een van de twee etiketten van een karkashelft op de binnenkant van het karkas bevestigd worden.  <span class="reference">(ing. M.B. 15 december 2005, art. 3, I: 1 januari 2006)</span> ]
+...
 
 ### ART. 7.
 
-§ 1. Het slachthuis is verplicht minstens de volgende gegevens van elk geslacht volwassen rund bij te houden:<br />1° de slachtdatum;<br />2° het uur van weging;<br />3° het nummer van het merkteken tot individualisering, bedoeld in het ministerieel besluit nr. 12 van 28 augustus 1973;<br />4° het werknummer of identificatienummer;<br />5° de geboortedatum van het dier;<br />6° het warm gewicht van het karkas;<br />7° het resultaat van de indeling;<br />8° het erkenningnummer van de classificeerder;<br />9° de leverancier;<br />10° de producent ;<br />11° de code van de aanbiedingsvorm.;<br />12° de code, vermeld in artikel 9bis, § 1, derde lid, van het indelingsbesluit.<br /><br />De vorm en inhoud van de code, vermeld in het eerste lid, 12°, worden op voorstel van het erkende interprofessionele orgaan of de aangewezen onderneming, vastgesteld door de dienst.<br /><br />§ 2. ...<br /><br />§ 3. De gegevens, vermeld in § 1, moeten door het slachthuis worden bewaard tot minstens het einde van het jaar dat volgt op het lopende jaar. De gegevens moeten steeds beschikbaar zijn voor controle en mogen zowel op papier als elektronisch worden bijgehouden.
+...
 
 ### ART. 8.
 
-§ 1. De uitbater van het slachthuis deelt van elk geslacht rund minstens de volgende gegevens mee aan de leverancier:<br /><br />1° het werknummer of identificatienummer;<br /><br />2° de slachtplaats en -datum;<br /><br />3° het warm gewicht van het karkas;<br /><br />4° het resultaat van de indeling ;<br /><br />[5° de code van de aanbiedingsvorm.  <span class="reference">(ing. M.B. 15 december 2005, art. 5, I: 1 januari 2006)</span> ]<br /><br />§ 2. Deze resultaten moeten binnen acht dagen na het slachten schriftelijk aan de leverancier bezorgd zijn. Het slachthuis mag op verzoek van de leverancier deze schriftelijke mededeling vervangen door een elektronische.
+...
 
 ### ART. 9.
 
@@ -38,23 +38,23 @@ In dit besluit wordt verstaan onder:<br /><br />1° het indelingsbesluit: het be
 
 ### ART. 10.
 
-De slachthuizen, bedoeld in artikel 3, § 1, van het indelingsbesluit, delen uiterlijk de tiende dag van elke maand de resultaten van weging en indeling van de voorgaande maand mee aan de bevoegde entiteit. Deze resultaten moeten worden bezorgd in het formaat en de vorm die voorgeschreven wordt door de bevoegde entiteit.
+...
 
 ### ART. 11.
 
-§ 1. Het interprofessionele orgaan of de onderneming moet, ter uitvoering van artikel 14, 7°, respectievelijk artikel 16, 7°, van het indelingsbesluit een protocol voor de volgende thema's ter goedkeuring aan de dienst voorleggen:<br />1° het werkprogramma met betrekking tot de opdrachten zoals bedoeld in artikel 13 van het indelingsbesluit en op basis van het door de bevoegde entiteit opgelegde controlevolume zoals bedoeld in artikel 14, 4°, van het indelingsbesluit voor het interprofessionele orgaan en in artikel 16, 4°, voor de onderneming;<br />2° het beheer van de resultaten van weging en indeling en de beveiliging ervan;<br />3° de procedure van mededeling van resultaten van weging en indeling aan de producenten;<br />4° de procedure van mededeling van resultaten van weging en indeling aan derden, bedoeld in artikel 22, tweede lid, van het indelingsbesluit;<br />5° de procedure van mededeling aan de bevoegde entiteit van vaststellingen, gedaan in de slachthuizen ter uitvoering van de opdrachten, bedoeld in artikel 13 van het indelingsbesluit;<br />6° ...;<br />7° het ter beschikking stellen aan de bevoegde entiteit, op tijdstippen die de dienst bepaalt, van de volledige of gedeeltelijke inhoud van de database met de resultaten van weging en indeling;<br />8° de wijze van autocontrole.<br /><br />§ 2. De bevoegde entiteit kan het interprofessionele orgaan of de onderneming opleggen een protocol voor aanvullende thema's ter goedkeuring voor te leggen.<br /><br />§ 3. Elke wijziging die het interprofessionele orgaan of de onderneming aan de goedgekeurde protocollen, bedoeld in § 1 en § 2, aanbrengt, moet vooraf ter goedkeuring aan de bevoegde entiteit voorgelegd worden.
+...
 
 ### ART. 12.
 
-Indien de minister een interprofessioneel orgaan erkent of een onderneming aanwijst, is het slachthuis verplicht de volgende gegevens uiterlijk binnen twee werkdagen na het slachten aan dat orgaan of die onderneming mee te delen:<br />1° het werknummer of identificatienummer;<br />2° de slachtplaats en -datum;<br />3° het warm gewicht van het karkas;<br />4° het resultaat van de indeling ;<br />5° de code van de aanbiedingsvorm. <br />6° de code, vermeld in artikel 9bis, § 1, derde lid, van het indelingsbesluit. <br /><br />Deze gegevens worden elektronisch overgedragen.
+...
 
 ### ART. 13.
 
-§ 1. Nadat het slachthuis de resultaten van weging en indeling bezorgd heeft, moet het orgaan of de organisatie die resultaten binnen twee werkdagen op zijn webstek ter beschikking stellen aan de producenten of elektronisch bezorgen aan de producent in kwestie.<br /><br />Als de resultaten per post meegedeeld worden aan de producent, moeten ze uiterlijk binnen een maand bezorgd worden.<br /><br />§ 2. Na de mededeling van het jaarlijkse samenvattende overzicht met de resultaten van 2006 wordt nagegaan welk percentage producenten de individuele resultaten van weging en indeling ontvangt. Als dat percentage hoger ligt dan een vooraf vastgestelde norm, hoeven de samenvattende resultaten van 2007 niet meer bezorgd te worden.<br /><br />De dienst bepaalt op voorstel van het orgaan of de organisatie :<br />1° de vooraf vastgestelde norm;<br />2° de periode waarin het percentage producenten berekend wordt;<br />3° de berekeningswijze van het percentage;<br />4° alle andere aspecten die nodig zijn voor de uitvoering van de evaluatie.<br /><br />§ 3. In de overzichten, vermeld in artikel 13, § 4, van het indelingsbesluit, moeten minstens de volgende gegevens vermeld worden :<br />1° de periode;<br />2° het aantal ingedeelde runderen en hun totale warm geslacht gewicht per triplet als vermeld in artikel 2, § 2, van het indelingsbesluit. <br />
+...
 
 ### ART. 14.
 
-§ 1. De activiteiten, bedoeld in artikel 21 van het indelingsbesluit, worden gefinancierd op basis van een bedrag per geslacht volwassen rund.<br /><br />§ 2. Het erkende interprofessionele orgaan of de aangewezen onderneming kan, na machtiging van de minister, de bedragen bepalen die de slachthuizen moeten betalen voor de financiering van de werking van het orgaan of de onderneming. In dit voorstel moet het orgaan of de onderneming rekening houden met het door de dienst vooraf goedgekeurde controlevolume. Het orgaan kan beslissen een groter controlevolume toe te passen.<br /><br />De bevoegde entiteit bepaalt de elementen die het orgaan of de onderneming in het dossier met betrekking tot het voorstel van financiering moet opnemen.<br /><br />§ 3. Bij de beslissing over het toe te passen controlevolume en over de bedragen, bedoeld in § 2 van dit artikel en in artikel 17, § 4, is in de bestuursorganen van dit orgaan unanimiteit vereist van alle vertegenwoordigers van de beroepsorganisaties van de slachthuizen en van de producenten.
+...
 
 ### ART. 15.
 
@@ -62,7 +62,7 @@ Indien de minister een interprofessioneel orgaan erkent of een onderneming aanwi
 
 ### ART. 16.
 
-§ 1. De cel Begeleiding Karkasclassificatie van de Universiteit Gent wordt belast met de opdracht, vermeld in artikel 26, eerste lid, 2°, van het indelingsbesluit. <br /><br />§ 2. De slachthuizen, bedoeld in artikel 3, § 1, van het indelingsbesluit en in voorkomend geval het erkende interprofessionele orgaan of de aangewezen onderneming zorgen voor de financiering van de cel, genoemd in § 1.<br /><br />De cel kan, na machtiging van de minister, het bedrag bepalen van de bijdrage die de slachthuizen en in voorkomend geval het erkende interprofessionele orgaan of de aangewezen onderneming moeten betalen voor de financiering van de cel voor de activiteiten, bedoeld in artikel 26, eerste lid, 2°, van het indelingsbesluit.<br /><br />Indien voor de uitvoering van de opdrachten, bedoeld in artikel 13 van het indelingsbesluit, een interprofessioneel orgaan erkend wordt of een onderneming aangewezen, kan de bevoegde entiteit beslissen dat de bijdragen van het slachthuis aan de cel, bedoeld in het tweede lid, zullen worden geïnd door het orgaan of de onderneming. Het orgaan of de onderneming stort die sommen vervolgens door naar de Universiteit Gent.<br /><br />§ 3. De slachthuizen zijn verplicht binnen de maand een contract af te sluiten met de cel met betrekking tot de uitvoering van de opdrachten, bedoeld in artikel 26, eerste lid, 2°, van het indelingsbesluit, en de financiering ervan.<br /><br />Voor het contract, bedoeld in het eerste lid, aan het slachthuis wordt voorgelegd, moet het door de bevoegde entiteit worden goedgekeurd.
+...
 
 ### ART. 17.
 
@@ -70,24 +70,24 @@ Indien de minister een interprofessioneel orgaan erkent of een onderneming aanwi
 
 ### ART. 18.
 
-Onder voorbehoud van de toepassing van de wet van 28 maart 1975 worden de ambtenaren van de bevoegde entiteit, bedoeld in artikel 1, 4°, van het indelingsbesluit, belast met het toezicht op de toepassing van alle bepalingen van het indelingsbesluit en de uitvoeringsbesluiten.<br /><br />De personen die bij de uitoefening van hun functie, tussenbeide komen bij het inzamelen, registreren en bewaren van de gegevens, bedoeld in artikel 7 van dit besluit, moeten de nodige voorzorgen nemen zodat alle door de slachthuizen verstrekte individuele gegevens vertrouwelijk blijven.
+...
 
 ### ART. 19.
 
-Het slachthuis en de erkende classificeerders zijn verplicht aan de personen, bedoeld in artikel 18, eerste lid, de nodige bijstand te verlenen bij de uitoefening van hun controletaken. Die bijstand bestaat er onder meer in dat zij hen vrije toegang verlenen tot alle installaties en ruimtes van het slachthuis en hen de documenten en gegevens met betrekking tot de indeling voorleggen.
+...
 
 ### ART. 20.
 
-Het slachthuis en de erkende classificeerders zijn verplicht aan de erkende toezichthouders de nodige bijstand te verlenen bij de uitoefening van hun taken. Die bijstand bestaat er onder meer in dat zij hen vrije toegang verlenen tot alle installaties en ruimtes van het slachthuis en hen de documenten en gegevens voorleggen die zij nodig achten voor de uitoefening van hun opdracht.
+...
 
 ### ART. 21.
 
-Het erkende interprofessionele orgaan of in voorkomend geval de aangewezen onderneming en zijn erkende toezichthouders zijn verplicht aan de in artikel 18, eerste lid, bedoelde personen de nodige bijstand te verlenen bij de uitoefening van hun controletaken. Die bijstand bestaat er onder meer in dat zij hen vrije toegang verlenen tot de notulen van de vergaderingen van de bestuursorganen en tot alle documenten en gegevens die betrekking hebben op de uitvoering van de gegeven opdrachten.
+...
 
 ### ART. 22.
 
-(niet opgenomen)<br /><br />(Heft het ministerieel besluit van 22 januari 1992 tot vaststelling van de toepassingsmodaliteiten voor de indeling van geslachte volwassen runderen op)
+...
 
 ### ART. 23.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 16, § 2, dat in werking treedt op 1 januari 2004.
+...

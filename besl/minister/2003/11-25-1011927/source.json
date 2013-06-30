@@ -2,16 +2,16 @@
   "codex_id": 1011927,
   "title": "Ministerieel besluit van 2003-11-25 tot vaststelling van de toepassingsvoorwaarden voor de indeling van geslachte volwassen runderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011927/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "d47130d1376805f4c6a9f0f4109073579f0e50544fd669ec311738807c6fbc62",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011927/VolledigDocument?datum=2013-06-30",
+  "source_sha256": "e727213232023db66c727c7ab2d9814cc66a3ce091cf521589c78a2f12101ed5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011927&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2013-06-30",
   "made": "2003-11-25",
   "gazette": "2003-12-23",
   "numac": 2003036223,
   "document_start": null,
   "document_end": "2013-06-29",
-  "in_force": "2007-01-01",
+  "in_force": "2013-06-30",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-06-30; future article versions excluded; article text as the API gives it"
 }
