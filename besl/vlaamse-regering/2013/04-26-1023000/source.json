@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023000,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-26 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023000/VolledigDocument?datum=2013-06-30",
+  "source_sha256": "26dfa0e50b25505dccddaa36be714be6cf9046626a0cc5906a96cbaee8f64511",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023000&param=informatie",
+  "as_of": "2013-06-30",
+  "made": "2013-04-26",
+  "gazette": "2013-06-20",
+  "numac": 2013035517,
+  "document_start": "2013-06-30",
+  "document_end": null,
+  "in_force": "2013-06-30",
+  "article_versions": 80,
+  "record_form": "consolidated version as in force on 2013-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
