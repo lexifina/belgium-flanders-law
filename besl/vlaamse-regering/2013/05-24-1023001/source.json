@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023001,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 10 juli 2009 houdende nadere regelen betreffende het leegstandsregister en houdende wijziging van het besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van leegstand en verkrotting van gebouwen en/of woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023001/VolledigDocument?datum=2013-06-30",
+  "source_sha256": "b3c60f6d9f2b56c66d8f595d54d9f1324448cc8cdb2b53fd47cf4858c0cc84b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023001&param=informatie",
+  "as_of": "2013-06-30",
+  "made": "2013-05-24",
+  "gazette": "2013-06-20",
+  "numac": 2013203533,
+  "document_start": "2013-06-30",
+  "document_end": null,
+  "in_force": "2013-06-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
