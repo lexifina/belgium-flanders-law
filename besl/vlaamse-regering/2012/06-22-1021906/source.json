@@ -2,16 +2,16 @@
   "codex_id": 1021906,
   "title": "Besluit van de Vlaamse Regering van 2012-06-22 houdende afwijking op de rationalisatienorm voor een school voor voltijds secundair onderwijs ingevolge het niet-bereiken van de rationalisatienorm",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021906/VolledigDocument?datum=2012-07-19",
-  "source_sha256": "99ee52d70589c8c09823a8cf2046f1847f2b97530438a92bc81f05f86e463216",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021906/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "4d8b25d0aa779f4ec085d763a198ea849885ffa0bdfcbfdc35246f1bf36e5adb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021906&param=informatie",
-  "as_of": "2012-07-19",
+  "as_of": "2013-07-01",
   "made": "2012-06-22",
   "gazette": "2012-07-09",
   "numac": 2012035737,
   "document_start": "2012-07-19",
   "document_end": null,
-  "in_force": "2012-07-19",
+  "in_force": "2013-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-07-01; future article versions excluded; article text as the API gives it"
 }

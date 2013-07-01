@@ -2,7 +2,7 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op artikel 199 van de Codex Secundair Onderwijs;<br /><br />Gelet op het advies van de Vlaamse Onderwijsraad, gegeven op 19 april 2012;<br /><br />Gelet op het akkoord van de minister van Financiën en Begroting, gegeven op 14 juni 2012;<br /><br />Op voorstel van de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en Brussel;<br /><br />Na beraadslaging,<br /><br />Besluit : <br /><br />
+...
 
 ### ART. 1.
 
