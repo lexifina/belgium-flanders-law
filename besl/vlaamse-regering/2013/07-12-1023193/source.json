@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023193,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de bekrachtiging van het Reglement betreffende de erkenning van evaluatieorganen die een coördinerende taak hebben ten aanzien van de externe beoordeling van hogeronderwijsopleidingen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023193/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "f086be1d38c79fe9233a4e41e39786a74f7f19c7192008c2d0a3c11abaf67aaf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023193&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2013-07-12",
+  "gazette": "2013-08-16",
+  "numac": 201335710,
+  "document_start": "2013-07-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
