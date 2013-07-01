@@ -60,7 +60,19 @@ Inzake de programmering en de verslaggeving van de werkzaamheden van de Raad is 
 
 ## Afdeling I. Oprichting en opdracht
 
+### ART. 12.
+
+<P>Er wordt een&nbsp; Adviescommissie voor Voorzieningen van Welzijn,   Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de   commissie te noemen.<BR><BR><STRONG>[nvdr: het tweede en derde lid van dit   artikel treden pas in werking op 1 januari 2014:<BR></STRONG><EM>De commissie   heeft als opdracht advies uit te brengen aan de minister bevoegd voor het   Vlaamse welzijns-, gezondheids- en gezinsbeleid over het bezwaar tegen een   voornemen dat met betrekking tot een voorziening van welzijn, volksgezondheid en   gezin of een onderdeel ervan door het departement of een agentschap van het   beleidsdomein wordt geuit en formeel wordt betekend om :<BR>1° een vergunning of   toelating te weigeren;<BR>2° een erkenning, een verlenging of wijziging van   erkenning te weigeren;<BR>3° een erkenning in te trekken of te schorsen;<BR>4°   de voorziening of een onderdeel ervan te sluiten.<BR><BR>De commissie brengt   eveneens advies uit over een bezwaar tegen een beslissing van het departement of   van een agentschap, vermeld in het tweede lid, tot weigering of intrekking van   een attest van toezicht</EM>.<STRONG><EM>]</EM></STRONG><BR></P>
+
 ## Afdeling II. Samenstelling en werking
+
+### ART. 13.
+
+De Vlaamse Regering regelt de samenstelling van de commissie en de benoeming van de leden. Ze bepaalt de duur van het mandaat van de leden en de onverenigbaarheden.<br /><br />De Vlaamse Regering kan binnen de commissie meerdere afdelingen oprichten en hun opdrachten bepalen.<br />
+
+### ART. 14.
+
+De Vlaamse Regering regelt de werking van de commissie en, in voorkomend geval, van de afdelingen, vermeld in artikel 13, tweede lid.<br /><br />Ze stelt de vergoedingen voor de leden van de commissie vast. Die vergoedingen, evenals de werkingskosten van de commissie, vallen ten laste van de begroting van de Vlaamse Gemeenschap.<br />
 
 ## HOOFDSTUK IV. Wijzigingsbepaling
 
