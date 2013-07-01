@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023213,
+  "title": "Decreet van 2013-07-12 betreffende de versterking van het hoger beroepsonderwijs in Vlaanderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023213/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "7e826f11424e14cae1966e95bb31b3ab56cd3b2094be5f0037e580d8d4335fbc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023213&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2013-07-12",
+  "gazette": "2013-08-30",
+  "numac": 201335771,
+  "document_start": "2013-09-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
