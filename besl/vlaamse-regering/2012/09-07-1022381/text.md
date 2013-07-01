@@ -46,6 +46,10 @@ In artikel 5.6.1 van hetzelfde besluit worden de volgende wijzigingen aangebrach
 
 Aan artikel 5.6.2, eerste lid, van hetzelfde besluit worden een punt 4° toegevoegd, dat luidt als volgt : <br />"4° te voorzien in een procedure van klachtenbehandeling waarover gerapporteerd wordt aan de VREG conform de methode bepaald door de VREG, in het kader van de uitvoering van zijn opdracht zoals bepaald in artikel 3.1.3., 1°, e), van het Energiedecreet."
 
+### ART. 11.
+
+Artikel 5.6.3 van hetzelfde besluit wordt vervangen door wat volgt : <br /><br />"Art. 5.6.3. De distributienetbeheerder bezorgt jaarlijks aan de niet-beschermde klanten die hij belevert en die schuldenvrij zijn, een overzicht van de indicatieve kostprijs op jaarbasis die leveranciers aanrekenen met inbegrip van de kostprijs die de distributienetbeheerder aanrekent. <br /><br />De minister kan nadere regels bepalen voor de vorm en de inhoud van dat indicatieve overzicht.".
+
 ### ART. 12.
 
 Artikel 5.6.4 van hetzelfde besluit wordt opgeheven.
