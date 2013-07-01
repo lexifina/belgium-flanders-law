@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023192,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de bekrachtiging van het Reglement betreffende de vormvereisten voor aanvragen tot uitvoering van een accreditatie, een instellingsreview of een toets nieuwe opleiding ten aanzien van opleidingen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023192/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "45a3cf495bd1189b180d48a62a46e9d3889e74b69a8988bdf8cc550d0618c3d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023192&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2013-07-12",
+  "gazette": "2013-08-16",
+  "numac": 201335709,
+  "document_start": "2013-07-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
