@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022945,
+  "title": "Besluit van de Vlaamse Regering van 2013-04-26 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022945/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "90f336889da1830ef009d9a9a313359e4b74781bad028a9423a966c9582f897c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022945&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2013-04-26",
+  "gazette": "2013-05-31",
+  "numac": 2013203129,
+  "document_start": "2013-07-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
