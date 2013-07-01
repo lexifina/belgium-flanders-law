@@ -4,6 +4,10 @@
 
 De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, artikel 9, § 1, derde lid, artikel 13, 22 en 32;<br /><br />Gelet op het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;<br /><br />Gelet op het advies van de Inspectie van Financiën, gegeven op 23 maart 2012;<br /><br />Gelet op advies nr. 51.199/3 van de Raad van State, gegeven op 24 april 2012, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br /><br />Op voorstel van de Vlaamse minister van Leefmilieu, Natuur en Cultuur;<br /><br />Na beraadslaging,<br /><br />Besluit :
 
+### ART. 1.
+
+Aan artikel 4.3.2, eerste lid, van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen wordt een punt 16° toegevoegd, dat luidt als volgt :<br />« 16° pmd-afval. ».<br /><br />
+
 ### ART. 2.
 
 In artikel 4.5.1, 1°, van hetzelfde besluit wordt de zinsnede « artikel 4.5.3 » vervangen door de zinsnede « artikel 4.5.2 ».
