@@ -8,7 +8,7 @@ De Vlaamse minister van Economie, Ondernemen, Wetenschap, Innovatie en Buitenlan
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° decreet :   het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid;<BR>2° besluit van de Vlaamse Regering : het besluit van de   Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en   middelgrote ondernemingen voor ondernemerschapsbevorderende diensten;<BR>3°   onderneming : een onderneming als vermeld in artikel 1, 4°, van het besluit van   de Vlaamse Regering en toegelicht in artikellen 2, 3 en 4 van het besluit van de   Vlaamse Regering;<BR>4° website : de website van het Agentschap   Ondernemen;<BR>5° kalenderjaar : de periode van 1 januari tot en met 31   december;<BR>6° dienstverlener : de dienstverlener, vermeld in artikel 13 van   het besluit van de Vlaamse Regering;<BR>7° ondernemerschapsbevorderende diensten   : de diensten, vermeld in artikel 11 van het besluit van de Vlaamse   Regering;<BR>8° opleiding : het onderricht, gevolgd door de werkenden in de   onderneming bij een dienstverlener, dat uitsluitend of hoofdzakelijk gericht is   op het verbeteren van het huidige of het toekomstige bedrijfsfunctioneren van de   onderneming;<BR>9° advies : schriftelijke, specifieke, waardevolle raadgevingen   en aanbevelingen, verleend door de dienstverlener, die bestaan uit het in kaart   brengen en onderzoeken van problemen (een analyse van de probleemstelling), een   eigenlijk advies (oplossingen en waardevolle raadgevingen), en een   implementatieplan, en die uitsluitend of hoofdzakelijk gericht zijn op het   verbeteren van het huidige of het toekomstige bedrijfsfunctioneren van de   onderneming;<BR>10° strategisch advies : een advies dat betrekking heeft op een   kantelmoment in de onderneming en dat leidt tot beslissingen waarvan de gevolgen   moeilijk omkeerbaar zijn. Dat betekent dat het advies een langetermijnoplossing   biedt die invloed heeft op de hele organisatie. <BR>Ter uitvoering van artikel   1, 11°, van het besluit van de Vlaamse Regering is het strategisch advies een   haalbaarheidsstudie, een doorstartplan of een overdrachtsplan : <BR>a)   haalbaarheidsstudie : een strategisch advies waarbij na een systematisch   opgezette en afgeronde analyse, een inschatting van de financiële of economische   mogelijkheden van het project wordt onderzocht. De subsidieaanvraag met   betrekking tot die studie moet worden ingediend in het algemeen domein van de   pijler strategisch advies;<BR>b) doorstartplan : een strategisch advies dat   bestaat uit een geheel van oplossingen, gericht op het veranderen van   discontinuïteit van gezonde delen van een onderneming in continuïteit. De   continuïteitsbedreigende elementen worden vastgesteld in een voorafgaande   ondernemingsscan als vermeld op de website. De subsidieaanvraag met betrekking   tot dat plan moet worden ingediend in het specifiek domein preventief   bedrijfsbeleid van de pijler strategisch advies;<BR>c) overdrachtsplan : een   strategisch advies waarbij na een systematisch opgezette en afgeronde analyse   een onderbouwd advies over het te kiezen overdrachtsscenario wordt gegeven. Het   advies wordt vertaald in een implementatieplan om de onderneming klaar te maken   voor de overdracht. De analyse bouwt voort op de vaststellingen gedaan uit een   voorafgaande scan als vermeld op de website. De subsidieaanvraag met betrekking   tot dat plan moet worden ingediend in het algemeen domein van de pijler   strategisch advies; <BR>11° advies voor internationaal ondernemen :   schriftelijke, specifieke, doelmatige raadgevingen, studies, plannen en   aanbevelingen, verleend door de dienstverlener, die bestaan uit het   identificeren, in kaart brengen en onderzoeken van opportuniteiten en   oplossingen met betrekking tot internationaal ondernemen, met uitsluiting van de   bestaande ondersteuningsmogelijkheden zoals bepaald in het besluit van de   Vlaamse Regering van 27 mei 2005 tot vaststelling van de voorwaarden en de   regels inzake de toekenning van subsidies voor activiteiten ter bevordering van   de uitvoer, en de latere wijzigingen ervan;<BR>12° technologieverkenning : een   studieactiviteit van een dienstverlener die tot doel heeft inzichten aan   ondernemingen te geven als antwoord op een specifieke technologische kennisvraag   met betrekking tot een product, proces of dienst. Dit antwoord beoogt aldus een   kennisoverdracht te realiseren vanuit de dienstverlener naar de onderneming. Het   gaat om een overdracht van innovatiekennis die momenteel niet in het bezit is   van de onderneming, of deze onvoldoende beheerst en die door middel van   studiewerk op maat van de noden van de onderneming aangeleverd kan   worden;<BR>13° externe beheerder : de na mededinging aangewezen instelling die   belast is met het financiële beheer van de KMO-portefeuille;<BR>14°   bedrijfsgroepering : een vereniging van bedrijven, die geen winstoogmerk heeft   en die voor haar leden projecten organiseert ter bevordering van het   internationaal ondernemen vanuit Vlaanderen of ter bevordering van het   aantrekken van buitenlandse investeringen naar Vlaanderen;<BR>15° gemengde kamer   : een vereniging van bedrijven en personen, die geen winstoogmerk heeft en die   als hoofddoel heeft de handels- en investeringsbetrekkingen tussen Vlaanderen en   een ander land of een andere regio te optimaliseren, en die projecten   organiseert ter bevordering van het internationaal ondernemen vanuit Vlaanderen   of ter bevordering van het aantrekken van buitenlandse investeringen naar   Vlaanderen;<BR>16° preventief bedrijfsbeleid : het beleid ter stimulatie,   ondersteuning en bevordering van financieel gezonde ondernemingen waarbij zij   via het aanreiken van hulpmiddelen worden aangezet en geholpen in het voeren van   een gezond financieel beheer om te voorkomen dat zij in moeilijkheden   geraken;<BR>17° peterschapsprojecten : de projecten, vermeld in artikel 1, 9°,   van het besluit van de Vlaamse Regering van 24 april 2009 tot toekenning van   steun aan projecten ter bevordering van het ondernemerschap of in de beslissing   van de Vlaamse Regering van 29 april 2011 die de omvorming van een   subsidiemechanisme voor peterschapsprojecten naar een contractuele   samenwerkingsvorm met peterschapsorganisatoren mogelijk   maakt.<BR><BR>
+...
 
 ## TITEL II De subsidieverlening
 
@@ -16,133 +16,133 @@ Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° decreet :   het
 
 ### ART. 2.
 
-Ter uitvoering van artikel 11, derde lid, van het besluit van de Vlaamse Regering worden de pijlers opleiding, advies, strategisch advies en advies voor internationaal ondernemen als volgt opgedeeld in domeinen : <br />1° de pijler opleiding : <br />a) het algemeen domein;<br />b) het specifiek domein peterschapsprojecten;<br />2° de pijler advies : <br />a) het algemeen domein;<br />b) het specifiek domein design;<br />3° de pijler strategisch advies : <br />a) het algemeen domein;<br />b) het specifiek domein preventief bedrijfsbeleid;<br />4° de pijler advies voor internationaal ondernemen : <br />het algemeen domein;<br />5° de pijler technologieverkenning : <br />het algemeen domein.
+...
 
 ## HOOFDSTUK II Aanvullende voorwaarden
 
 ### ART. 3.
 
-De aanvraag van de maximale subsidie per kalenderjaar en per pijler, vermeld in artikel 18, eerste en tweede lid, en 20, tweede lid, van het besluit van de Vlaamse Regering, kan over verschillende overeenkomsten en inschrijvingen verspreid worden.<br /><br />
+...
 
 ### ART. 4.
 
-Ter uitvoering van artikel 1, 8°, en van artikellen 1, 9°, en 10 van het besluit van de Vlaamse Regering wordt onder werkende in de onderneming verstaan : de werkende die aan één van de volgende beschrijvingen voldoet :<br />1° de bij arbeidsovereenkomst tewerkgestelde persoon die zijn activiteit binnen een in het Vlaamse Gewest gelegen exploitatiezetel van een onderneming uitoefent;<br />2° de persoon die voornamelijk als zaakvoerder of actieve vennoot aangesloten is bij het Rijksinstituut voor de Sociale Verzekering van Zelfstandigen of bij een Sociale Verzekeringskas voor Zelfstandigen;<br />3° de natuurlijke persoon die koopman is of een zelfstandig vrij beroep uitoefent;<br />4° de helper van een zelfstandige die onderworpen is aan het sociaal statuut;<br />5° de meewerkende echtgenoot.<br /><br />
+...
 
 ### ART. 5.
 
-Er kan per overeenkomst of inschrijving slechts één subsidie aangevraagd worden. Een subsidieaanvraag vindt plaats binnen een domein van een pijler.<br /><br />
+...
 
 ### ART. 6.
 
-De onderneming moet beschikken over een rekeningnummer in SEPA-formaat.<br /><br />
+...
 
 ### ART. 7.
 
-De dienstverlener moet erkend zijn in het domein waarin de subsidieaanvraag wordt ingediend. De subsidieaanvraag wordt ingediend in het domein dat betrekking heeft op de overeenkomstig de overeenkomst of inschrijving, vermeld in artikel 18, eerste lid, te verlenen ondernemerschapsbevorderende diensten, vermeld in artikel 11 van het besluit van de Vlaamse Regering. <br /><br />De subsidie moet aangevraagd worden tijdens de geldigheidsduur van de erkenning van de dienstverlener.<br /><br />
+...
 
 ### ART. 8.
 
-De ondernemerschapsbevorderende diensten moeten aan de onderneming verleend worden door een derde. Aan die voorwaarde is niet voldaan als een van de volgende gevallen zich voordoet :<br />1° de onderneming heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de dienstverlener in handen;<br />2° de dienstverlener heeft rechtstreeks of onrechtstreeks stemrechten of kapitaal van de onderneming in handen;<br />3° de dienstverlener en de onderneming hebben minstens één gemeenschappelijke zaakvoerder, bestuurder, werknemer of aandeelhouder;<br />4° de zaakvoerders, bestuurders of aandeelhouders van de onderneming en de dienstverlener zijn met elkaar verbonden als echtgenoten, als bloedverwanten tot en met de tweede graad of door samenwoning.<br />
+...
 
 ### ART. 9.
 
-De onderneming deelt de wijziging van de naam en het adres van de onderneming, de juridische vorm en het ondernemingsnummer schriftelijk mee aan het Agentschap Ondernemen. Alle andere wijzigingen van de registratiegegevens worden door de onderneming via de website gewijzigd.<br /><br />
-
-### ART. 10.
-
-De overeenkomst, vermeld in artikel 8 van het besluit van de Vlaamse Regering, is een geschreven document dat minstens de volgende vermeldingen bevat :<br />1° de handtekening van de dienstverlener en de onderneming;<br />2° de datum;<br />3° de beschrijving en de prijs (exclusief BTW) van de dienstverlening, met een aparte vermelding van de niet in aanmerking komende kosten, vermeld in artikel 17 van het besluit van de Vlaamse Regering.<br /><br />Er wordt een overeenkomst afgesloten in de pijlers advies, advies voor internationaal ondernemen en technologieverkenning.<br /><br />
+...
 
 ### ART. 10.
 
 De overeenkomst, vermeld in artikel 8 van het besluit van de Vlaamse Regering, is een geschreven document dat minstens de volgende vermeldingen bevat :<br />1° de handtekening van de dienstverlener en de onderneming;<br />2° de datum;<br />3° de beschrijving en de prijs (exclusief BTW) van de dienstverlening, met een aparte vermelding van de niet in aanmerking komende kosten, vermeld in artikel 17 van het besluit van de Vlaamse Regering.<br /><br />Er wordt een overeenkomst afgesloten in de pijlers advies,  strategisch advies, advies voor internationaal ondernemen en technologieverkenning.<br /><br />
 
+### ART. 10.
+
+...
+
 ### ART. 11.
 
-De factuur die de dienstverlener aanbiedt aan de onderneming om de ondernemerschapsbevorderende diensten te betalen bevat minstens volgende vermelding : de totaalprijs van de dienst, met opsplitsing naar de in aanmerking en niet in aanmerking komende kosten en diensten, exclusief BTW.<br /><br />
+...
 
 ### ART. 12.
 
-Ter uitvoering van artikel 12 van het besluit van de Vlaamse Regering wordt verstaan onder hoofdactiviteit : de activiteit die is opgenomen als activiteit in de Kruispuntbank van Ondernemingen en die het grootste gedeelte van de omzet vertegenwoordigt.<br /><br />
+...
 
 ### ART. 13.
 
-De onderneming moet het advies, het strategisch advies, het advies voor internationaal ondernemen of de technologieverkenning gedurende vijf jaar na de datum van de subsidieaanvraag bewaren en moet bij een controle als vermeld in artikel 31 van het besluit van de Vlaamse Regering een afschrift overhandigen.
+...
 
 ## HOOFDSTUK III Steunintensiteit
 
 ### ART. 14.
 
-Ter uitvoering van artikel 17, derde lid, 2°, van het besluit van de Vlaamse Regering wordt onder adviezen van permanente of periodieke aard verstaan : diensten zoals routinematig belastingsadvies, regelmatige dienstverlening op juridisch gebied, routinematig advies inzake selectie-, aanwervings- of personeelsbeleid of reclame. Ter uitvoering van artikel 17, derde lid, 3° van het besluit van de Vlaamse Regering worden adviezen inzake site-onderzoeken, zoals gedefinieerd in artikel 2, 16° van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming, gelijkgesteld met adviezen die behoren tot de gewone bedrijfsuitgaven van de onderneming.<br /><br />
+...
 
 ### ART. 15.
 
-Ter uitvoering van artikel 17, tweede lid, van het besluit van de Vlaamse   Regering komen de volgende kosten in aanmerking : <BR>1° de kosten, exclusief   btw, die gefactureerd worden voor de opleiding door een dienstverlener die   erkend wordt in de pijler opleiding. De uurprestaties worden beperkt tot 90 euro   per uur. <BR>De kosten komen alleen in aanmerking als de opleiding beëindigd is   ten laatste op 31 december van het kalenderjaar volgend op het kalenderjaar   waarin de subsidieaanvraag is ingediend;<BR>2° de kosten, exclusief btw en   exclusief de bedragen van de facturen waartegenover geen geleverde prestaties   staan, die gefactureerd worden voor het advies door een dienstverlener die   erkend wordt in de pijler advies. De uurprestaties worden beperkt tot 90 euro   per uur;<BR>3° de kosten, exclusief btw en exclusief de bedragen van de facturen   waartegenover geen geleverde prestaties staan, die gefactureerd worden voor het   strategisch advies door een dienstverlener die erkend wordt in de pijler   strategisch advies;<BR>4° de kosten, exclusief btw en exclusief de bedragen van   de facturen waartegenover geen geleverde prestaties staan, die gefactureerd   worden voor het advies voor internationaal ondernemen door een dienstverlener   die erkend wordt in de pijler advies voor internationaal ondernemen. De   uurprestaties worden beperkt tot 90 euro per uur;<BR>5° de kosten, exclusief btw   en exclusief de bedragen van de facturen waartegenover geen geleverde prestaties   staan, die gefactureerd worden voor de kennis door een dienstverlener die erkend   wordt in de pijler technologieverkenning. De uurprestaties worden beperkt tot 90   euro per uur.<BR>Kosten met betrekking tot gestandaardiseerde fysische of   chemische analyses komen niet in aanmerking.
+...
 
 ### ART. 16.
 
-Ter uitvoering van artikel 18, derde lid van het besluit van de Vlaamse Regering bedraagt de subsidie in de pijler opleiding en advies maximaal 2 500 euro per pijler.<br />
+...
 
 ## HOOFDSTUK IV Procedure
 
 ### ART. 17.
 
-Voor de onderneming een subsidieaanvraag kan indienen of het subsidiedossier kan beheren, moet ze een registratieprocedure doorlopen overeenkomstig de voorwaarden van het ministerieel besluit van 28 april 2010 met betrekking tot de registratieprocedure voor de subsidieaanvraag of het beheer van het dossier in het kader van de besluiten ecologiepremie, ecologiepremie call, groeipremie en K.M.O.-portefeuille.
+...
 
 ### ART. 18.
 
-De onderneming dient de subsidieaanvraag in via de website na het sluiten van een overeenkomst met de dienstverlener of na de inschrijving bij de dienstverlener. De subsidieaanvraag wordt elektronisch afgehandeld.<br /><br />De verdere procedure verloopt overeenkomstig de instructies, vermeld op de website.
+...
 
 ### ART. 19.
 
-Ter uitvoering van artikel 8, eerste lid, van het besluit van de Vlaamse Regering kunnen de ondernemerschapbevorderende diensten aanvangen vanaf de subsidieaanvraag, vermeld in artikel 18.<br /><br />Dit betekent dat de subsidieaanvraag binnen de 14 kalenderdagen na de start van de ondernemerschapsbevorderende diensten moet gebeuren.<br /><br />
+...
 
 ### ART. 20.
 
-De dienstverlener bevestigt op de website de juistheid van de inhoud van de subsidieaanvraag binnen dertig kalenderdagen na de subsidieaanvraag, vermeld in artikel 18. Dat betekent dat de gegevens, vermeld in de subsidieaanvraag, overeenstemmen met de voorwaarden van het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten en met de gegevens in de overeenkomst of de inschrijving, vermeld in artikel 18, eerste lid, van dit besluit.<br /><br />Als het een subsidieaanvraag betreft voor strategisch advies, vermeld in artikel 1, 10°, verleent het Agentschap Ondernemen eveneens haar akkoord met de subsidieaanvraag, binnen 30 kalenderdagen na ontvangst van de overeenkomst met de dienstverlener, vermeld in artikel 18, en op voorwaarde dat de dienstverlener de subsidieaanvraag heeft bevestigd.<br /><br />De onderneming wordt schriftelijk op de hoogte gebracht van de bevestiging of het akkoord.<br /><br />
+...
 
 ### ART. 21.
 
-Het door de onderneming te betalen projectbedrag, vermeld in artikel 24 van het besluit van de Vlaamse Regering, moet binnen dertig kalenderdagen na de bevestiging, vermeld in artikel 20, eerste lid, of als het subsidieaanvraag betreft voor strategisch advies, vermeld in artikel 1, 10°, binnen dertig kalenderdagen na het akkoord, vermeld in artikel 20, tweede lid, ontvangen zijn door de externe beheerder.<br /><br />
+...
 
 ### ART. 22.
 
-De onderneming kan de KMO-portefeuille gebruiken om de in aanmerking komende kosten, vermeld in artikel 17 van het besluit van de Vlaamse Regering en artikel 15, te betalen aan de dienstverlener.<br /><br />
+...
 
 ### ART. 23.
 
-De onderneming kan het saldo, bepaald op de website, pas betalen aan de dienstverlener die het strategisch advies, vermeld in artikel 1, 10°, verleende, na het akkoord van het Agentschap Ondernemen met het advies en het verslag van de dienstverlener.<br /><br />Het Agentschap Ondernemen verleent dit akkoord binnen 30 kalenderdagen na ontvangst van het advies en het verslag van de dienstverlener.<br /><br />Als het Agentschap Ondernemen zijn akkoord niet verleent aan het advies en het verslag, kan het advies gesubsidieerd worden als een advies als vermeld in artikel 1, 9°. In voorkomend geval wordt de subsidie herberekend en geheel of gedeeltelijk teruggevorderd bij de onderneming of de dienstverlener.<br /><br />
+...
 
 ### ART. 24.
 
-De onderneming moet, voor zij het saldo, bepaald op de website, van de in aanmerking komende kosten kan betalen aan de dienstverlener in de pijler advies, strategisch advies, advies voor internationaal ondernemen en technologieverkenning, via de website en per project de prestaties van de dienstverlener evalueren. De resultaten worden geconsolideerd weergegeven op de website.<br /><br />
+...
 
 ### ART. 25.
 
-Nadat de onderneming de dienstverlener betaald heeft via de website, betaalt de externe beheerder binnen veertien kalenderdagen het overeenkomstige bedrag aan de dienstverlener.<br /><br />
+...
 
 ## HOOFDSTUK V Annulering en stopzetting van de subsidieaanvraag
 
 ### ART. 26.
 
-...<br />
+...
 
 ### ART. 27.
 
-Als een subsidieaanvraag wordt geannuleerd, wordt die als niet bestaand beschouwd. Een subsidieaanvraag wordt geannuleerd in de volgende gevallen : <br />1° het door de onderneming te betalen juiste projectbedrag, vermeld in artikel 24 van het besluit van de Vlaamse Regering, is niet binnen dertig kalenderdagen na de bevestiging, vermeld in artikel 20, ontvangen door de externe beheerder;<br />2° de onderneming annuleert de subsidieaanvraag voor het door de onderneming te betalen projectbedrag, vermeld in artikel 24 van het besluit van de Vlaamse Regering, betaald is aan de externe beheerder;<br />3° ...<br />4° de dienstverlener bevestigt de subsidieaanvraag niet, vermeld in artikel 20, eerste lid;<br />5° het Agentschap Ondernemen verleent geen akkoord aan de subsidieaanvraag, vermeld in artikel 20, tweede lid.
+...
 
 ### ART. 28.
 
-Als een subsidieaanvraag wordt stopgezet, wordt het door de onderneming betaalde projectbedrag, vermeld in artikel 24 van het besluit van de Vlaamse Regering, geheel of gedeeltelijk terugbetaald. Stopzetting is alleen mogelijk als de in aanmerking komende kosten, vermeld in artikel 17 van het besluit van de Vlaamse Regering, nog niet volledig zijn betaald aan de dienstverlener.<br /><br />Een subsidieaanvraag wordt stopgezet als de onderneming een aanvraag tot stopzetting indient bij het Agentschap Ondernemen, waarin ze de reden van de stopzetting vermeldt en als ze de opgevraagde stavingsstukken schriftelijk indient bij het Agentschap Ondernemen.<br /><br />De subsidie kan in geval van stopzetting geheel of gedeeltelijk teruggevorderd worden overeenkomstig artikel 32 en 33 van het besluit van de Vlaamse Regering.
+...
 
 ### ART. 29.
 
-Een subsidieaanvraag kan alleen via de website geannuleerd of stopgezet worden. De annulering of stopzetting is onherroepelijk.<br /><br />
+...
 
 ## [HOOFDSTUK V/1. Blokkering van de subsidie (ing. MB 5 juli 2011, art. 3, I: 5 juli 2011)]
 
 ### ART. 29/1.
 
-Ter uitvoering van artikel 31, tweede lid, van het besluit van de Vlaamse Regering kan, om te voorkomen dat de subsidie ten onrechte wordt gebruikt voor een verkeerde bestemming en in geval van ernstige vermoedens van niet-naleving van de bij het decreet, dit besluit of de uitvoeringsbesluiten opgelegde voorwaarden door de onderneming of de dienstverlener, de subsidie geheel of gedeeltelijk geblokkeerd worden in afwachting van de beslissing over de terugvordering van de subsidie.<br /><br />De betrokken onderneming wordt schriftelijk op de hoogte gebracht van de beslissing tot blokkering.<br /><br />Als de subsidie wordt geblokkeerd, kan de lopende overeenkomst of inschrijving niet betaald worden met de subsidie.<br /><br />Onder lopende overeenkomst of inschrijving wordt de overeenkomst of inschrijving na bevestiging door de dienstverlener als vermeld in artikel 20, eerste lid, verstaan.
+...
 
 ## TITEL III De erkenning van de dienstverlener
 
@@ -154,13 +154,13 @@ Ter uitvoering van artikel 31, tweede lid, van het besluit van de Vlaamse Regeri
 
 ### ART. 30.
 
-Ter uitvoering van artikel 11, derde lid, en 14, § 1, 2°, van het besluit van de Vlaamse Regering wordt de private dienstverlener in het algemeen domein erkend in de onderstaande gevallen : <br />1° de dienstverlener voldoet aan de voorwaarden, vermeld in artikel 14, § 1, 1°, van het besluit van de Vlaamse Regering;<br />2° de dienstverlener beschikt over één van de volgende kwaliteitscertificaten : <br />a) het ISO-certificaat, uitgereikt door een geaccrediteerde certificeringsinstelling;<br />b) het CEDEO-certificaat;<br />c) het Q*FOR-certificaat;<br />d) Recognised for Excellence;<br />e) K2b-, K2a, of K2c-label voor opleiding;<br />f) het ESF-label voor opleiding.<br /><br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van het certificaat.
+...
 
 ## [Onderafdeling II. Erkenning in het specifiek domein peterschapsprojecten (ing. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
 ### ART. 30/1.
 
-Ter uitvoering van artikel 14, § 1, 2°, van het besluit van de Vlaamse Regering wordt de dienstverlener in het specifiek domein peterschapsprojecten erkend als hij is geselecteerd als peterschapsorganisator op basis van een oproep overeenkomstig het besluit van de Vlaamse Regering van 24 april 2009 betreffende de toekenning van steun aan projecten ter bevordering van het ondernemerschap of is aangeduid als peterschapsorganisator op basis van de beslissing van de Vlaamse Regering van 29 april 2011 die de omvorming van een subsidiemechanisme voor peterschapsprojecten naar een contractuele samenwerkingsvorm met peterschapsorganisatoren mogelijk maakt. De geldigheidsduur van de erkenning is beperkt tot de duur van de subsidieperiode of de periode bepaald in het bestek of de overeenkomst met de peterschapsorganisator en geldt alleen voor de peterschapsprojecten waarvoor de dienstverlener als peterschapsorganisator werd erkend of aangeduid.
+...
 
 ## Afdeling II Erkenning in de pijler advies
 
@@ -168,13 +168,13 @@ Ter uitvoering van artikel 14, § 1, 2°, van het besluit van de Vlaamse Regerin
 
 ### ART. 31.
 
-Ter uitvoering van artikel 11, derde lid, en 14, § 2, 2°, van het besluit van de Vlaamse Regering wordt de private dienstverlener in het algemeen domein erkend als hij voldoet aan één van de volgende voorwaarden<br />1° de dienstverlener beschikt over één van de volgende kwaliteitscertificaten : <br />a) het ISO-certificaat, uitgereikt door een geaccrediteerde certificeringsinstelling;<br />b) het CEDEO-certificaat;<br />c) het Q*FOR-certificaat;<br />d) Recognised for Excellence;<br />e) het ESF-label voor advies.<br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van het certificaat;<br />2° de dienstverlener is een natuurlijk persoon, die een positieve beoordeling krijgt na een individuele screening door een privaat arbeidsbemiddelingsbureau. Dat arbeidsbemiddelingsbureau wordt door de Vlaamse minister, bevoegd voor de economie, aangewezen als cumulatief aan de volgende voorwaarden is voldaan : <br />a) het arbeidsbemiddelingsbureau sluit een samenwerkingsprotocol met de Vlaamse minister, bevoegd voor de economie;<br />b) het arbeidsbemiddelingsbureau is lid van Federgon.<br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van de individuele screening.
+...
 
 ## [Onderafdeling II. Erkenning in het specifiek domein design (ing. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
 ### ART. 31/1.
 
-Ter uitvoering van artikel 14, § 2, 2°, van het besluit van de Vlaamse Regering wordt de private dienstverlener in het specifiek domein design erkend als hij erkend is door Design Vlaanderen.
+...
 
 ## Afdeling III [Erkenning in de pijler strategisch advies (verv. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
@@ -182,13 +182,13 @@ Ter uitvoering van artikel 14, § 2, 2°, van het besluit van de Vlaamse Regerin
 
 ### ART. 31/2.
 
-Ter uitvoering van artikel 11, derde lid, en 14, § 2/1, 2°, van het besluit van de Vlaamse Regering wordt de private dienstverlener in het algemeen domein erkend als hij voldoet aan één van de volgende voorwaarden : <br />1° de dienstverlener beschikt over één van de volgende kwaliteitscertificaten : <br />a) het ISO-certificaat, uitgereikt door een geaccrediteerde certificeringsinstelling;<br />b) het CEDEO-certificaat;<br />c) het Q*FOR-certificaat;<br />d) Recognised for Excellence;<br />f) het ESF-label voor advies.<br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van het certificaat;<br />2° de dienstverlener is een natuurlijk persoon, die een positieve beoordeling krijgt na een individuele screening door een privaat arbeidsbemiddelingsbureau. Dat arbeidsbemiddelingsbureau wordt door de Vlaamse minister, bevoegd voor de economie, aangewezen als cumulatief aan de volgende voorwaarden is voldaan : <br />a) het arbeidsbemiddelingsbureau sluit een samenwerkingsprotocol met de Vlaamse minister, bevoegd voor de economie;<br />b) het arbeidsbemiddelingsbureau is lid van Federgon.<br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van de individuele screening.
+...
 
 ## [Onderafdeling II. Erkenning in het specifiek domein preventief bedrijfdsbeleid (ing. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
 ### ART. 31/3.
 
-Ter uitvoering van artikel 11, derde lid, en 14, § 2/1, 2°, van het besluit van de Vlaamse Regering wordt de dienstverlener, die een natuurlijk persoon is, in het specifiek domein preventief bedrijfsbeleid erkend als hij of zijn organisatie waarin hij werkende, als vermeld in artikel 4 van dit besluit, is, voldoet aan de voorwaarden, vermeld in artikel 31/2 van dit besluit, en aan één van de volgende voorwaarden : <br />1° de dienstverlener is en blijft gedurende de geldigheidsduur van zijn erkenning lid van het Instituut van de Bedrijfsrevisoren, het Beroepsinstituut van Erkende Boekhouders en Fiscalisten of het Instituut van de Accountants en de Belastingconsulenten;<br />2° de dienstverlener krijgt een positieve beoordeling van een comité van experts van het Agentschap Ondernemen na een screening van zijn competenties en ervaring op het vlak van preventief bedrijfsbeleid. Een positieve beoordeling hoeft maar eenmaal verkregen te worden.<br /><br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van het certificaat of van de individuele screening, vermeld in artikel 31/2.
+...
 
 ## Afdeling IV [Erkenning in de pijler advies voor internationaal ondernemen (verv. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
@@ -196,7 +196,7 @@ Ter uitvoering van artikel 11, derde lid, en 14, § 2/1, 2°, van het besluit va
 
 ### ART. 32.
 
-Ter uitvoering van artikel 11, derde lid, en 14, § 3, 2°, van het besluit van de Vlaamse Regering wordt de private dienstverlener in het algemeen domein erkend als hij voldoet aan één van de volgende voorwaarden<br />1° de dienstverlener beschikt over één van de volgende kwaliteitscertificaten : <br />a) het ISO-certificaat, uitgereikt door een geaccrediteerde certificeringsinstelling;<br />b) het CEDEO-certificaat;<br />c) het Q*FOR-certificaat;<br />d) Recognised for Excellence;<br />e) het ESF-label voor advies.<br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van het certificaat.<br />2° de dienstverlener is een natuurlijk persoon, die een positieve beoordeling krijgt na een individuele screening door een privaat arbeidsbemiddelingsbureau. Dat arbeidsbemiddelingsbureau wordt door de Vlaamse minister, bevoegd voor het economisch beleid, aangewezen als cumulatief aan de volgende voorwaarden is voldaan : <br />a) het arbeidsbemiddelingsbureau sluit een samenwerkingsprotocol met de Vlaamse minister, bevoegd voor de economie;<br />b) het arbeidsbemiddelingsbureau is lid van Federgon.<br /><br />De geldigheidsduur van de erkenning wordt bepaald door de resterende geldigheidsduur van de individuele screening.
+...
 
 ## [Afdeling V. Erkenning in de pijler technologieverkenning (ing. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
@@ -204,65 +204,65 @@ Ter uitvoering van artikel 11, derde lid, en 14, § 3, 2°, van het besluit van 
 
 ### ART. 32/1.
 
-Ter uitvoering van artikel 11, derde lid, van het besluit van de Vlaamse Regering wordt de dienstverlener in het algemeen domein erkend als hij voldoet aan de voorwaarden vermeld in artikel 14, § 4, van het besluit van de Vlaamse Regering.
+...
 
 ## [Afdeling VI. Gemeenschappelijke bepalingen (ing. MB 28 oktober 2011, art. 15, I: 24 oktober 2011)]
 
 ### ART. 33.
 
-De kwaliteitscertificaten, vermeld in artikel 30, 2°, artikel 31, 1°, artikel 31/2, 1°, en artikel 32, 1°, moeten minstens de volgende vermeldingen bevatten : <br />1° de naam van de certificatie-instelling;<br />2° de naam van de dienstverlener die het certificaat verkrijgt;<br />3° het toepassingsgebied van het toegekende certificaat;<br />4° de begin- en einddatum van het certificaat.
+...
 
 ## HOOFDSTUK II Aanvullende voorwaarden
 
 ### ART. 34.
 
-De dienstverlener, vermeld in artikel 13 van het besluit van de Vlaamse Regering, moet beschikken over een ondernemingsnummer en een rekeningnummer in SEPA-formaat.<br /><br />
+...
 
 ### ART. 35.
 
-De dienstverleners, vermeld in artikel 31, 2°, artikel 31/2, 2°, artikel 31/3, en artikel 32, 2°, en in artikel 14, § 1, 1°, van het besluit van de Vlaamse Regering moeten verbonden zijn aan een facturatie-instantie die beschikt over een ondernemingsnummer.<br /><br />
+...
 
 ### ART. 36.
 
-Een certificatie-instelling die één van de certificaten, vermeld in artikel 30, 2°, artikel 31, 1°, artikel 31/2, 1° en artikel 32, 1°, uitreikt, kan niet erkend worden als dienstverlener.<br /><br />Een arbeidsbemiddelingsbureau, vermeld in artikel 31, 2°, artikel 31/2, 2°, en artikel 32, 2°, kan niet erkend worden als dienstverlener.<br /><br />
+...
 
 ### ART. 37.
 
-De dienstverlener mag de prijs van eenzelfde dienst niet laten variëren omdat hij via de K.M.O.-portefeuille wordt betaald.<br /><br />
+...
 
 ### ART. 38.
 
-Pas vanaf de erkenning, die begint te lopen vanaf het tijdstip, vermeld in artikel 43, § 3, eerste lid, mag de dienstverlener zich, voor de pijler waarvoor hij erkend is, op de markt profileren als erkend voor het verlenen van ondernemerschapsbevorderende diensten.<br /><br />De dienstverlener moet vanaf de indieningsdatum van de erkenningsaanvraag, vermeld in artikel 43, § 1, van dit besluit, tot aan de stopzetting, vermeld in artikel 44 van dit besluit, of tot aan de schorsing of uitsluiting, vermeld in artikel 46 en 47 van dit besluit, diensten verlenen als vermeld in artikel 11 van het besluit van de Vlaamse Regering.
+...
 
 ### ART. 39.
 
-De dienstverlener erkend in de pijler advies, strategisch advies, opleiding of advies voor internationaal ondernemen kan een beroep doen op derden voor de verlening van de ondernemerschapsbevorderende diensten, op voorwaarde dat hij de verantwoordelijkheid blijft dragen voor :<br />1° initiatief en organisatie van de dienstverlening;<br />2° communicatie;<br />3° facturatie;<br />4° kwaliteitsbewaking, waar hij ook de eindverantwoordelijkheid voor draagt.<br />Als de dienstverlener erkend is op basis van artikel 31, 2°, artikel 31/2, 2°, artikel 31/3, en artikel 32, 2°, kan hij alleen een beroep doen op een derde als die derde erkend is voor het verlenen van ondernemerschapsbevorderende diensten in hetzelfde domein.<br />
+...
 
 ### ART. 40.
 
-De erkende dienstverlener deelt de wijziging van de naam van de onderneming, de juridische vorm, het rekeningnummer en het ondernemingsnummer schriftelijk mee aan het Agentschap Ondernemen. Alle andere wijzigingen aan registratiegegevens worden door de dienstverlener via de website gewijzigd.<br /><br />
+...
 
 ### ART. 41.
 
-Als de organisatie of de structuur van een erkende dienstverlener grondig wijzigt, moet hij de certificatie-instelling die één van de certificaten, vermeld in artikel 30, 2°, artikel 31, 1°, artikel 31/2, 1° en artikel 32, 1°, uitreikt, op de hoogte brengen.<br /><br />De certificatie-instelling brengt het Agentschap Ondernemen schriftelijk op de hoogte van de gevolgen van de wijziging voor het kwaliteitscertificaat. De in gebreke blijvende certificatie-instelling kan gesanctioneerd worden door de door haar uitgereikte certificaten niet langer in aanmerking te nemen als kwaliteitscertificaat binnen de bepalingen van dit besluit en het besluit van de Vlaamse Regering.<br /><br />
+...
 
 ### ART. 42.
 
-De dienstverleners, erkend in de pijler opleiding, moeten de aanwezigheidslijsten van de gesubsidieerde opleidingen gedurende vijf jaar na de datum van de subsidieaanvraag bewaren en bij een controle als vermeld in artikel 31 van het besluit van de Vlaamse Regering, een afschrift overhandigen.<br /><br />De dienstverleners moeten de prestatiestaten in de pijler advies, strategisch advies, advies voor internationaal ondernemen en technologieverkenning, gedurende vijf jaar na de datum van de subsidieaanvraag bewaren en bij een controle als vermeld in artikel 31 van het besluit van de Vlaamse Regering, een afschrift overhandigen.
+...
 
 ### ART. 42/1.
 
-Het adviesverslag, opgesteld door de dienstverlener in de pijler advies, strategisch advies, advies voor internationaal ondernemen en technologieverkenning, moet, met behoud van de toepassing van artikel 1, 9°, 10°, 11° en 12°, minstens de volgende vermeldingen bevatten : <br />1° de naam van de dienstverlener;<br />2° de datum van het adviesverslag;<br />3° de handtekening van de dienstverlener.
+...
 
 ## HOOFDSTUK III Procedure
 
 ### ART. 43.
 
-§ 1. De erkenning, vermeld in artikel 13 van het besluit van de Vlaamse Regering, wordt door de dienstverlener aangevraagd via de website. De verdere procedure verloopt overeenkomstig de instructies, vermeld op de website.<br /><br />§ 2. De erkenning wordt toegekend na ontvangst van de verklaring op erewoord van de dienstverlener dat hij de bepalingen van het decreet, van het besluit van de Vlaamse Regering, de uitvoeringsbesluiten zal naleven en van de positief beoordeelde gevraagde stavingsstukken.<br /><br />§ 3. De erkenningsperiode begint te lopen vanaf de publicatie op de website. De dienstverlener wordt hiervan schriftelijk op de hoogte gebracht.<br /><br />Er wordt aan de erkende dienstverlener per pijler een erkenningsnummer toegekend.<br /><br />
+...
 
 ### ART. 44.
 
-Als een erkende dienstverlener niet langer wil functioneren binnen het systeem van de K.M.O.-portefeuille, moet hij de stopzetting van zijn erkenning schriftelijk aan het Agentschap Ondernemen aanvragen.<br /><br />
+...
 
 ## HOOFDSTUK IV Weigering en uitsluiting
 
@@ -270,40 +270,40 @@ Als een erkende dienstverlener niet langer wil functioneren binnen het systeem v
 
 ### ART. 45.
 
-Een erkenning kan geweigerd worden indien :<br />1° de dienstverlener niet voldoet aan de voorwaarden, opgelegd in het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten;<br />2° de dienstverlener bij een eerdere erkenning de voorwaarden van de opgeheven besluiten, vermeld in artikel 34 van het besluit van de Vlaamse Regering en artikel 33 van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, niet heeft nageleefd;<br />3° de dienstverlener gerechtelijk veroordeeld is voor of het voorwerp uitmaakt van een gerechtelijk onderzoek met betrekking tot een misdrijf dat de dienstverlening in het gedrang brengt.<br /><br />De dienstverlener wordt schriftelijk op de hoogte gebracht van de beslissing.<br /><br />
+...
 
 ## Afdeling II De uitsluiting
 
 ### ART. 46.
 
-De dienstverlener kan uitgesloten worden van een erkenning indien :<br />1° er niet voldaan wordt aan de voorwaarden, opgelegd in het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten;<br />2° de dienstverlener bij een eerdere erkenning de voorwaarden van de opgeheven besluiten, vermeld in artikel 34 van het besluit van de Vlaamse Regering en artikel 33 van het besluit van de Vlaamse Regering van 16 december 2005 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, niet heeft nageleefd;<br />2°/1 de dienstverlener herhaaldelijk strategische adviezen heeft verleend waarvoor het Agentschap Ondernemen geen akkoord verleende als vermeld in artikel 23;<br />3° de dienstverlener gerechtelijk veroordeeld is voor of het voorwerp uitmaakt van een gerechtelijk onderzoek met betrekking tot een misdrijf dat de dienstverlening in het gedrang brengt.<br /><br />
+...
 
 ### ART. 47.
 
-De dienstverlener kan in geval van hoogdringendheid geschorst worden in afwachting van de beslissing over de uitsluiting.<br />
+...
 
 ### ART. 48.
 
-...<br /><br />
+...
 
 ## Afdeling III Het beroep
 
 ### ART. 49.
 
-...<br /><br />
+...
 
 ### ART. 50.
 
-...<br /><br />
+...
 
 ## TITEL IV Delegatie en kennisgeving
 
 ### ART. 51.
 
-Het Agentschap Ondernemen, het Vlaamse Agentschap Internationaal Ondernemen en het Instituut voor de Aanmoediging van Innovatie door Wetenschap en Technologie hebben, respectievelijk voor de pijler opleiding, strategisch advies en advies, advies voor internationaal ondernemen, en technologieverkenning, delegatie om :<br />1° de subsidie toe te kennen;<br />2° de subsidieaanvraag te annuleren en stop te zetten;<br />3° een erkenning aan een dienstverlener toe te kennen;<br />4° een erkenning aan een dienstverlener te weigeren;<br />5° een dienstverlener te schorsen en uit te sluiten en de modaliteiten van uitsluiting vast te stellen;<br />6° de subsidie te blokkeren;<br />7° de subsidie terug te vorderen;<br />8° een waarschuwing te geven aan de dienstverlener en onderneming en deze uit te nodigen voor een infosessie;<br />9° de certificaten van een in gebreke blijvende certificatie-instelling niet langer in aanmerking te nemen.<br /><br />De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en het Agentschap Ondernemen hebben delegatie om samen een erkenning aan een dienstverlener in de pijler opleiding toe te kennen.<br /><br />De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding wordt schriftelijk op de hoogte gebracht van de schorsing en de uitsluiting van een dienstverlener in de pijler opleiding.<br /><br />
+...
 
 ## TITEL V Inwerkingtreding
 
 ### ART. 52.
 
-Dit besluit treedt in werking op 1 januari 2009.<br /><br />
+...
