@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021874,
+  "title": "Decreet van 2012-05-25 tot wijziging van artikelen 17 en 23 van het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021874/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "65d1a470ffc4b2d5c62291f0e9d8c49dbbf41778d84b88d2e69d4246b10bf3fe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021874&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2012-05-25",
+  "gazette": "2012-06-26",
+  "numac": 2012035665,
+  "document_start": "2013-07-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
