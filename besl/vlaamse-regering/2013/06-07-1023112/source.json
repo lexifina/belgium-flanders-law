@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023112,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-07 tot vaststelling van de criteria, de voorwaarden en de nadere regels voor het verlenen van subsidies ter ondersteuning en uitvoering van het loopbaan- en diversiteitsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023112/VolledigDocument?datum=2013-07-01",
+  "source_sha256": "e19bcf775e8c29e33546b50a2507f02b2c80bddf6301cc812797b59fea8e8de6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023112&param=informatie",
+  "as_of": "2013-07-01",
+  "made": "2013-06-07",
+  "gazette": "2013-07-23",
+  "numac": 2013035645,
+  "document_start": "2013-07-01",
+  "document_end": null,
+  "in_force": "2013-07-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2013-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
