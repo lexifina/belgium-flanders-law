@@ -472,7 +472,7 @@ Behoudens machtiging van het Agentschap of in de gevallen en onder de voorwaarde
 
 ### ART. 99.
 
-In alle bossen en binnen een afstand van honderd meter tot de bossen is het verboden vuur te maken in de open lucht om welk motief dan ook, behoudens in uitvoering van een goedgekeurd beheersplan of behoudens een machtiging door het Agentschap en met uitzondering van wettelijk verplichte verbrandingen.
+In alle bossen en binnen een afstand van vijfentwintig meter tot de bossen   is het verboden vuur te maken in de open lucht om welk motief dan ook, behoudens   in uitvoering van een goedgekeurd beheersplan of behoudens een machtiging door   het Agentschap en met uitzondering van wettelijk verplichte verbrandingen. De   Vlaamse Regering kan desgewenst nadere voorwaarden bepalen.
 
 ### ART. 100.
 
