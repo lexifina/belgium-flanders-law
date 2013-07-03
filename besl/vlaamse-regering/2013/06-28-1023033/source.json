@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023033,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-28 betreffende de jachtopeningstijden in het Vlaamse Gewest [... (opgeh. BVR 9 oktober 2015, art. 1, I: 22 oktober 2015)] (citeeropschrift: \"het jachtopeningsbesluit\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023033/VolledigDocument?datum=2013-07-03",
+  "source_sha256": "82d70d8207db6ca66775f4764be1e880e470ef0ed38e8aeeae0f9ecd8eb2efe1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023033&param=informatie",
+  "as_of": "2013-07-03",
+  "made": "2013-06-28",
+  "gazette": "2013-07-03",
+  "numac": 2013035626,
+  "document_start": "2013-07-03",
+  "document_end": null,
+  "in_force": "2013-07-03",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2013-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
