@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023162,
+  "title": "Decreet van 2013-07-12 houdende wijziging van het Bosdecreet van 13 juni 1990, gewijzigd bij de decreten van 18 mei 1999, 7 december 2007 en 30 april 2009, en het Veldwetboek van 7 oktober 1886, gewijzigd bij de wet van 4 december 1961, wat betreft het verminderen van de minimumafstand tussen bossen en vuur tot 25 meter",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023162/VolledigDocument?datum=2013-07-03",
+  "source_sha256": "4de31884188b86b246a58a1a4e019889028e4fd09770215ad162cf1226a292d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023162&param=informatie",
+  "as_of": "2013-07-03",
+  "made": "2013-07-12",
+  "gazette": "2013-08-09",
+  "numac": 2013204464,
+  "document_start": "2013-07-03",
+  "document_end": null,
+  "in_force": "2013-07-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
