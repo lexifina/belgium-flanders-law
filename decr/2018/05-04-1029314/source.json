@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029314,
+  "title": "Decreet van 2018-05-04 houdende instemming met het Akkoord tussen het Koninkrijk België en de Organisatie van de Verenigde Naties voor Onderwijs, Wetenschap en Cultuur inzake de vestiging in België door deze organisatie van een verbindingsbureau bij de instellingen van de Europese Unie, met Bijlage, gedaan te Parijs op 3 juli 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029314/VolledigDocument?datum=2013-07-03",
+  "source_sha256": "a9f4662d79961d64bd9b3551f77ab40e23ed32d446d3b02a668f781d5bfd6545",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029314&param=informatie",
+  "as_of": "2013-07-03",
+  "made": "2018-05-04",
+  "gazette": "2018-05-30",
+  "numac": 2018012158,
+  "document_start": "2013-07-03",
+  "document_end": null,
+  "in_force": "2013-07-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
