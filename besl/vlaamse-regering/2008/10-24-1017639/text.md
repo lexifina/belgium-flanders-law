@@ -110,7 +110,7 @@ Er worden twee gemeenschapsinstellingen opgericht :<br />1° de gemeenschapsinst
 
 ### ART. 22.
 
-De maximumcapaciteit van de gemeenschapsinstellingen wordt vastgesteld als   volgt :<BR>1° de gemeenschapsinstelling De Kempen in Mol :<BR>a) 30 gesloten   plaatsen en 10 open plaatsen voor jongens in de opvoedingsafdeling De   Hutten;<BR>b) 62 open plaatsen voor jongens in de opvoedingsafdeling De   Markt;<BR>c) 10 gesloten plaatsen voor meisjes in de opvoedingsafdeling De   Markt;<BR>2° de gemeenschapsinstelling De Zande :<BR>a) 54 open plaatsen en 26   gesloten plaatsen voor jongens in de opvoedingsafdeling in Ruiselede;<BR>b) 36   gesloten plaatsen en 10 open plaatsen voor meisjes in de opvoedingsafdeling in   Beernem.<BR><BR>
+De maximumcapaciteit van de gemeenschapsinstellingen wordt vastgesteld als   volgt :<BR>1° de gemeenschapsinstelling De Kempen in Mol :<BR>a) 40 gesloten   plaatsen voor jongens in de opvoedingsafdeling De Hutten;<BR>b) 72 open plaatsen   voor jongens in de opvoedingsafdeling De Markt;<BR>c) 10 gesloten plaatsen voor   meisjes in de opvoedingsafdeling De Markt;<BR>2° de gemeenschapsinstelling De   Zande :<BR>a) 54 open plaatsen en 26 gesloten plaatsen voor jongens in de   opvoedingsafdeling in Ruiselede;<BR>b) 36 gesloten plaatsen en 10 open plaatsen   voor meisjes in de opvoedingsafdeling in Beernem.<BR><BR>
 
 ### ART. 23.
 
