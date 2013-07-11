@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023012,
+  "title": "Ministerieel besluit van 2013-06-10 tot wijziging van artikel 1 van het ministerieel besluit van 17 juli 2006 tot samenstelling van het expertencollege, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 25 november 2005 betreffende de erkenning van voedselkwaliteitsregelingen met toepassing van Verordening (EG) nr. 1257/1999",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023012/VolledigDocument?datum=2013-07-11",
+  "source_sha256": "d9cacc3e148e14c827b4dfec69e5e14f7d282f79449cebf44acc476dbd04bad9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023012&param=informatie",
+  "as_of": "2013-07-11",
+  "made": "2013-06-10",
+  "gazette": "2013-07-01",
+  "numac": 2013203684,
+  "document_start": "2013-07-11",
+  "document_end": null,
+  "in_force": "2013-07-11",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
