@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023016,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-31 tot toekenning van een aangepaste sokkelregeling aan de gefuseerde hogescholen die ontstaan na de fusie van de volgende hogescholen : HUB-EHSAL en Katholieke Hogeschool Sint-Lieven, Thomas More Antwerpen en Thomas More Mechelen, Artesis Hogeschool Antwerpen en Plantijn Hogeschool van de provincie Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023016/VolledigDocument?datum=2013-07-12",
+  "source_sha256": "6f936bd520957050cf85123876834191e4e6ece76744ef415bd1f3716a116e2e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023016&param=informatie",
+  "as_of": "2013-07-12",
+  "made": "2013-05-31",
+  "gazette": "2013-07-02",
+  "numac": 2013035600,
+  "document_start": "2013-07-12",
+  "document_end": null,
+  "in_force": "2013-07-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
