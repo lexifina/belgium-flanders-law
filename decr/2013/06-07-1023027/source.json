@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023027,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Republiek Finland tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 18 mei 1976, zoals gewijzigd door de aanvullende overeenkomst van 13 maart 1991 en het protocol van 15 september 2009;2° de aanvullende overeenkomst tot wijziging van de overeenkomst, vermeld onder 1°, ondertekend te Brussel op 13 maart 1991;3° het protocol, ondertekend te Brussel op 15 september 2009, tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd door de aanvullende overeenkomst, vermeld onder 2°",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023027/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "b271dd5a9663c8b6c5af9cdc9634179cd360aadcf77c98fda5083822979d06e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023027&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 2013203750,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
