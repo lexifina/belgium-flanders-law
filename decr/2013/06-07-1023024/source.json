@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023024,
+  "title": "Decreet van 2013-06-07 houdende instemming met het akkoord tussen het Koninkrijk België en Grenada inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 15 en 18 maart 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023024/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "da37f74a84a94f80e22c09c9e8d18648232dad3b2cba79a35e949c6a7339fdab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023024&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 201323755,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
