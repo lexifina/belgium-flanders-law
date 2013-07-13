@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023028,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de Overeenkomst tussen het Koninkrijk België en Japan tot het vermijden van dubbele belasting inzake belastingen naar het inkomen, ondertekend te Tokio op 28 maart 1968, zoals gewijzigd door het Protocol van 9 november 1988, en het Protocol van 26 januari 2010; 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, zoals gewijzigd, ondertekend te Brussel op 26 januari 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023028/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "05d5e6599a0f7c41515a69b9a5b20f1fa76eda4ad045fc6184f74a174fa73015",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023028&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 2013203761,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
