@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023025,
+  "title": "Decreet van 2013-06-07 houdende instemming met het akkoord tussen het Koninkrijk België en Anguilla inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 11 mei 2010 en in The Valley (Anguilla) op 24 september 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023025/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "ac97fd4a1b1a9fc5ea5830d3fa28d7ba1ce058394503a47f2d5b0d0dfa0859bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023025&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 2013035606,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
