@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023030,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Helleense Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, ondertekend te Athene op 25 mei 2004, zoals gewijzigd door het protocol van 16 maart 2010;2° het protocol tot wijziging van de overeenkomst, vermeld onder 1°, ondertekend te Brussel op 16 maart 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023030/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "f09a794808cc19026e3e14b906d6121a8f75452c5bf9bf8825252ca5f29c50b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023030&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 2013203749,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
