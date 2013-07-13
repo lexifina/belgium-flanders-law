@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023019,
+  "title": "Decreet van 2013-05-31 tot instemming met het zetelakkoord tussen het Koninkrijk België en de Benelux Unie, ondertekend in Brussel op 3 februari 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023019/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "4dd7ca4f16131d96b5efbc209e7df78f3552067599171d6465e5752117368897",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023019&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-05-31",
+  "gazette": "2013-07-03",
+  "numac": 2013035604,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
