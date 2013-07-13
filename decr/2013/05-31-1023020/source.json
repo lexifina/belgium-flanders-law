@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023020,
+  "title": "Decreet van 2013-05-31 tot instemming met het protocol over de bezwaren van het Ierse volk ten aanzien van het verdrag van Lissabon, ondertekend in Brussel op 13 juni 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023020/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "59c54c43f2fb4bb244bb1fbc99ede684076d9dfa85af4a1698e7cb5c6e9a659d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023020&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-05-31",
+  "gazette": "2013-07-03",
+  "numac": 2013035603,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
