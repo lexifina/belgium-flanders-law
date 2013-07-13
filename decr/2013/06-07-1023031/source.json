@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023031,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Republiek Rwanda tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken en het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, beide ondertekend te Kigali op 16 april 2007, zoals gewijzigd door het protocol van 17 mei 2010; 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Brussel op 17 mei 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023031/VolledigDocument?datum=2013-07-13",
+  "source_sha256": "5900879214dfb60e0de40a540f8a0c157aac28a0b7fdf8cc95151c7f53e5b710",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023031&param=informatie",
+  "as_of": "2013-07-13",
+  "made": "2013-06-07",
+  "gazette": "2013-07-03",
+  "numac": 2013203760,
+  "document_start": "2013-07-13",
+  "document_end": null,
+  "in_force": "2013-07-13",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
