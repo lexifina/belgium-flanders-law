@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023034,
+  "title": "Decreet van 2013-06-07 tot vaststelling van de regels inzake de verdeling van het Vlaams Plattelandsfonds",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023034/VolledigDocument?datum=2013-07-14",
+  "source_sha256": "df00f9006a3bac2405497c41375d66f2eadd8dbc4a2773ba4ee2c983734c0a30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023034&param=informatie",
+  "as_of": "2013-07-14",
+  "made": "2013-06-07",
+  "gazette": "2013-07-04",
+  "numac": 2013203796,
+  "document_start": "2013-07-14",
+  "document_end": "2016-12-31",
+  "in_force": "2013-07-14",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2013-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
