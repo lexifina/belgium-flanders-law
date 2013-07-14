@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023037,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de overeenkomst tussen de Regering van het Koninkrijk België en de Regering van de Republiek Singapore tot het vermijden van dubbele belasting en het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en het protocol, beide ondertekend te Singapore op 6 november 2006, zoals gewijzigd door het protocol van 16 juli 2009; 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Brussel op 16 juli 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023037/VolledigDocument?datum=2013-07-14",
+  "source_sha256": "da22f3501fd92be8cd8711c93447dfd18817ff9f80f38875fb33f4e40c2a194b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023037&param=informatie",
+  "as_of": "2013-07-14",
+  "made": "2013-06-07",
+  "gazette": "2013-07-04",
+  "numac": 2013203765,
+  "document_start": "2013-07-14",
+  "document_end": null,
+  "in_force": "2013-07-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
