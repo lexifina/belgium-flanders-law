@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023043,
+  "title": "Decreet van 2013-06-07 houdende instemming met 1° de Overeenkomst tussen België en Denemarken tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, ondertekend te Brussel op 16 oktober 1969, zoals gewijzigd en aangevuld door de Protocollen van 27 september 1999 en 7 juli 2009; 2° het Protocol tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd, ondertekend te Brussel op 7 juli 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023043/VolledigDocument?datum=2013-07-18",
+  "source_sha256": "0b63bd7a157417ce21cef6c007050a8962b93c28bdbc7ad43bee4c1ac4cc6f9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023043&param=informatie",
+  "as_of": "2013-07-18",
+  "made": "2013-06-07",
+  "gazette": "2013-07-08",
+  "numac": 2013203913,
+  "document_start": "2013-07-18",
+  "document_end": null,
+  "in_force": "2013-07-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
