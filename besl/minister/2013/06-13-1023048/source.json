@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023048,
+  "title": "Ministerieel besluit van 2013-06-13 betreffende de vaststelling van de grondprijscoëfficiënt 2013 per gemeente",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023048/VolledigDocument?datum=2013-07-18",
+  "source_sha256": "c8322035ddcc0377124ef4af3c6c3bb1b2abad662f93f78436670e57c510ed40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023048&param=informatie",
+  "as_of": "2013-07-18",
+  "made": "2013-06-13",
+  "gazette": "2013-07-08",
+  "numac": 2013035599,
+  "document_start": "2013-07-18",
+  "document_end": null,
+  "in_force": "2013-07-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
