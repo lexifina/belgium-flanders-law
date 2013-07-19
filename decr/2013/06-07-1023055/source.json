@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023055,
+  "title": "Decreet van 2013-06-07 houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en de Republiek der Seychellen tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen, en het protocol, beide ondertekend te Brussel op 27 april 2006, en met 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Brussel op 14 juni 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023055/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "7f2d973343d17aecf7a7047222a19910c320b796afa79022f0731b90d4f489d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023055&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203911,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
