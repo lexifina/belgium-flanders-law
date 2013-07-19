@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023057,
+  "title": "Decreet van 2013-06-07 houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en de Republiek Oostenrijk tot het vermijden van dubbele belasting en tot regeling van sommige andere aangelegenheden inzake belastingen naar het inkomen en naar het vermogen, met inbegrip van de ondernemingsbelasting en de grondbelastingen, ondertekend te Wenen op 29 december 1971, zoals gewijzigd door het protocol en het aanvullend protocol van 10 september 2009, 2° het protocol en het aanvullend protocol tot wijziging van de overeenkomst, vermeld onder 1°, beide ondertekend te Brussel op 10 september 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023057/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "6849a9955738ce315b0e211bf6099346c61769f6975ae325f4acc1462d084c7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023057&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203916,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
