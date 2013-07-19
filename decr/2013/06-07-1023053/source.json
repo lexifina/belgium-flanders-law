@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023053,
+  "title": "Decreet van 2013-06-07 houdende instemming met het akkoord tussen het Koninkrijk België en Saint Christopher (Saint Kitts) en Nevis inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, en het protocol, ondertekend te Brussel op 18 december 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023053/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "e94c3acec4f2906d0d24beb9455dd034f3f51cb0635baffb1c40bb6290e7ce08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023053&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203915,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
