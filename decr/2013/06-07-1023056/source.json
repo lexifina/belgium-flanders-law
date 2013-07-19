@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023056,
+  "title": "Decreet van 2013-06-07 houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en de Tsjechische Republiek tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, beide ondertekend te Brussel op 16 december 1996, zoals gewijzigd door het protocol van 15 maart 2010; 2° het protocol tot wijziging van de overeenkomst, vermeld onder 1°, ondertekend te Brussel op 15 maart 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023056/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "2cb1043c0927a87051a42cbe3362a73fa291abd899b30013b54c31df3554a0a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023056&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203912,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
