@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023097,
+  "title": "Ministerieel besluit van 2013-06-21 betreffende de vervanging van leden van de Sectorraad Media van de Raad voor Cultuur, Jeugd, Sport en Media",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023097/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "dc85f6ae9937b0e5b04a5574dd7e539d9a86b51d9511ecf1593a91a0ecf09724",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023097&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-21",
+  "gazette": "2013-07-18",
+  "numac": 2013204035,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
