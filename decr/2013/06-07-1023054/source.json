@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023054,
+  "title": "Decreet van 2013-06-07 houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en het Koninkrijk Bahrein tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, beide ondertekend te Manama op 4 november 2007, en 2° het protocol tot wijziging van de onder 1° vermelde overeenkomst, ondertekend te Manama op 23 november 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023054/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "d1f5d7b0515bf8fa3651aee435d57485ad85402d7243d47374bef1871b49c438",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023054&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203909,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
