@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023050,
+  "title": "Decreet van 2013-06-07 houdende instemming met het akkoord tussen het Koninkrijk België en het Gemenebest van de Bahama's inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 7 december 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023050/VolledigDocument?datum=2013-07-19",
+  "source_sha256": "80fab9ab2ebcd17b80e7b625311bd176140ef3c5ba0c22e74949ba8a556ab9f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023050&param=informatie",
+  "as_of": "2013-07-19",
+  "made": "2013-06-07",
+  "gazette": "2013-07-09",
+  "numac": 2013203907,
+  "document_start": "2013-07-19",
+  "document_end": null,
+  "in_force": "2013-07-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
