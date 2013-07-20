@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023065,
+  "title": "Ministerieel besluit van 2013-06-07 betreffende de vervanging van leden van de Algemene Raad van de Raad voor Cultuur, Jeugd, Sport en Media",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023065/VolledigDocument?datum=2013-07-20",
+  "source_sha256": "ec25f8fbb45a98bb6fcd58e57db020297c9a8ccba7763b29810f5dce98aaed3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023065&param=informatie",
+  "as_of": "2013-07-20",
+  "made": "2013-06-07",
+  "gazette": "2013-07-10",
+  "numac": 2013035607,
+  "document_start": "2013-07-20",
+  "document_end": null,
+  "in_force": "2013-07-20",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
