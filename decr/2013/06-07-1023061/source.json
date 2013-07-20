@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023061,
+  "title": "Decreet van 2013-06-07 houdende instemming met : 1° de overeenkomst tussen het Koninkrijk België en de Staat Malta tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting, en het protocol, beide ondertekend te Brussel op 28 juni 1974, zoals gewijzigd door de aanvullende overeenkomst van 23 juni 1993 en het protocol van 19 januari 2010; 2° de aanvullende overeenkomst tot wijziging van de overeenkomst vermeld onder 1°, ondertekend te Brussel op 23 juni 1993; 3° het protocol, ondertekend te Brussel op 19 januari 2010, tot wijziging van de overeenkomst, vermeld onder 1°, zoals gewijzigd door de aanvullende overeenkomst, vermeld onder 2°",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023061/VolledigDocument?datum=2013-07-20",
+  "source_sha256": "d8951f587fa318a8bafeab35d1ee1855a211e803b453951e93c446c8a2f63974",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023061&param=informatie",
+  "as_of": "2013-07-20",
+  "made": "2013-06-07",
+  "gazette": "2013-07-10",
+  "numac": 2013203923,
+  "document_start": "2013-07-20",
+  "document_end": null,
+  "in_force": "2013-07-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
