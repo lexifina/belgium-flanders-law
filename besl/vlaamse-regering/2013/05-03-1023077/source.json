@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023077,
+  "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot erkenning van de beroepskwalificatie bibliothecaris/informatiemanager",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023077/VolledigDocument?datum=2013-07-22",
+  "source_sha256": "7cdaf311e3d2c8a8602e723d74fba01d54db55500b4f3ee405536e148a82d915",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023077&param=informatie",
+  "as_of": "2013-07-22",
+  "made": "2013-05-03",
+  "gazette": "2013-07-12",
+  "numac": 2013203942,
+  "document_start": "2013-07-22",
+  "document_end": null,
+  "in_force": "2013-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
