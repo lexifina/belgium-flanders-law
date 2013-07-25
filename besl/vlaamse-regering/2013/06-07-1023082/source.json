@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023082,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-07 houdende opheffing van Watering der Zeven Heerlijkheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023082/VolledigDocument?datum=2013-07-25",
+  "source_sha256": "e8b9639723e12fc3cf1f7d4be0be799ef88c359f42ab3e5f3c2c9c7c78577bab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023082&param=informatie",
+  "as_of": "2013-07-25",
+  "made": "2013-06-07",
+  "gazette": "2013-07-15",
+  "numac": 2013203900,
+  "document_start": "2013-07-25",
+  "document_end": null,
+  "in_force": "2013-07-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-07-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
