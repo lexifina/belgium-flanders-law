@@ -2,16 +2,16 @@
   "codex_id": 1020997,
   "title": "Ministerieel besluit van 2011-11-04 tot erkenning van centra voor paarden ter uitvoering van artikelen 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020997/VolledigDocument?datum=2012-08-31",
-  "source_sha256": "cce6f08a03ca0d323156f3a68327e823fa6eaa71f93cc2ea0aa7265b5835b2d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020997/VolledigDocument?datum=2013-07-26",
+  "source_sha256": "4b488f77b407758daf25daeb929a5342d7719b580254bb9667e62fa21f56ec14",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020997&param=informatie",
-  "as_of": "2012-08-31",
+  "as_of": "2013-07-26",
   "made": "2011-11-04",
   "gazette": "2011-12-05",
   "numac": 2011035968,
   "document_start": "2011-07-01",
   "document_end": "2013-07-25",
-  "in_force": "2012-08-31",
+  "in_force": "2013-07-26",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2012-08-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-07-26; future article versions excluded; article text as the API gives it"
 }
