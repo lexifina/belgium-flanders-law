@@ -2,16 +2,16 @@
   "codex_id": 1011967,
   "title": "Besluit van de Vlaamse Regering van 2003-10-17 tot vaststelling van de bij decreet te bekrachtigen decretale specifieke eindtermen voor het algemeen secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011967/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "67ed127fad70eee7b964af6f2204d180069f652db12177525e8befadb2687a1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011967/VolledigDocument?datum=2013-07-27",
+  "source_sha256": "790f9cc393ff5ea71474c780c49ab60da49b43964ac347d5f8dc05ba312c2cd3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011967&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-07-27",
   "made": "2003-10-17",
   "gazette": "2004-01-13",
   "numac": 2003036278,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2013-07-27",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-07-27; future article versions excluded; article text as the API gives it"
 }
