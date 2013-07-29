@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023103,
+  "title": "Decreet van 2013-06-28 houdende instemming met het samenwerkingsakkoord tussen Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het Protocol dat op 20 oktober 2010 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden werd ondertekend tot wijziging van het Verdrag van 9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ter uitvoering van artikel 4, § 4, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023103/VolledigDocument?datum=2013-07-29",
+  "source_sha256": "f8106d53bccde78ec504a15d2d9b7dbc53411c7d37733f0d4bbb1c6de40f05b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023103&param=informatie",
+  "as_of": "2013-07-29",
+  "made": "2013-06-28",
+  "gazette": "2013-07-19",
+  "numac": 2013035646,
+  "document_start": "2013-07-29",
+  "document_end": "2016-03-31",
+  "in_force": "2013-07-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
