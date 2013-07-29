@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023098,
+  "title": "Decreet van 2013-06-21 houdende wijziging van het decreet van 26 maart 2004 betreffende de openbaarheid van bestuur, wat de beroepstermijnen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023098/VolledigDocument?datum=2013-07-29",
+  "source_sha256": "9b9273eda62592723137229fe32ee47800b56986ff735b17507d766abd652803",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023098&param=informatie",
+  "as_of": "2013-07-29",
+  "made": "2013-06-21",
+  "gazette": "2013-07-19",
+  "numac": 2013204060,
+  "document_start": "2013-07-29",
+  "document_end": null,
+  "in_force": "2013-07-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
