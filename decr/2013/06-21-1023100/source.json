@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023100,
+  "title": "Decreet van 2013-06-21 houdende instemming met de avenant van 4 oktober 2012 aan het Samenwerkingsakkoord van 30 mei 2005 tussen de Federale Staat, het Vlaams, het Waals en het Brussels Hoofdstedelijk Gewest en de Duitstalige Gemeenschap betreffende de Meerwaardeneconomie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023100/VolledigDocument?datum=2013-07-29",
+  "source_sha256": "17f06602e3133df86839673c093e2f1370b3b478c67c2dd3023ac345b22bbc8c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023100&param=informatie",
+  "as_of": "2013-07-29",
+  "made": "2013-06-21",
+  "gazette": "2013-07-19",
+  "numac": 2013204061,
+  "document_start": "2013-07-29",
+  "document_end": null,
+  "in_force": "2013-07-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
