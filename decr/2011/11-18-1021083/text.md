@@ -40,6 +40,10 @@ In artikel 2.3.1, vijfde lid, van dezelfde codex worden de woorden "de Vlaamse c
 
 In artikel 3.1.3 van dezelfde codex worden de volgende wijzigingen aangebracht : <br />1° in paragraaf 3, tweede lid, worden de woorden "zesde lid" vervangen door de woorden "zevende lid";<br />2° in paragraaf 3, derde lid, worden de woorden "advies van de Vlaamse commissie voor ruimtelijke ordening en aan het daaropvolgende" opgeheven;<br />3° paragraaf 6 wordt vervangen door wat volgt : <br />" § 6. De Vlaamse Regering brengt binnen een termijn van vijfenveertig dagen na het einde van het openbaar onderzoek verslag uit over het openbaar onderzoek bij het Vlaams Parlement.".<br /><br />
 
+### ART. 11.
+
+In artikel 4.4.25 van dezelfde codex worden de volgende wijzigingen aangebracht : <br />1° in paragraaf 3 wordt het tweede lid vervangen door wat volgt : <br />"Als de deputatie of het college van burgemeester en schepenen het bevoegde bestuursorgaan is, worden de adviezen vermeld in het eerste lid, aan de bevoegde commissie voor ruimtelijke ordening bezorgd.";<br />2° in paragraaf 4, eerste lid, worden tussen de woorden "de bevoegde commissie voor ruimtelijke ordening" en de woorden "gestuurd worden" de zinsnede "of, als de Vlaamse Regering het bevoegde bestuursorgaan is, naar de Vlaamse Regering" ingevoegd;<br />3° in paragraaf 4, tweede lid, worden de woorden "De bevoegde commissie bundelt en coördineert" vervangen door de woorden "Wat betreft de planologische attesten die afgegeven worden door de deputatie of door het college van burgemeester en schepenen, bundelt en coördineert de bevoegde commissie voor ruimtelijke ordening".<br /><br />
+
 ## HOOFDSTUK 3 Wijziging van het decreet van 10 maart 2006 houdende de oprichting van de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed
 
 ### ART. 12.
