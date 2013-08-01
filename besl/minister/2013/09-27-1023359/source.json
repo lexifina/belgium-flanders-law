@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023359,
+  "title": "Ministerieel besluit van 2013-09-27 tot wijziging van het ministerieel besluit van 11 februari 2004 tot uitvoering van het besluit van de Vlaamse Regering van 24 november 1993 betreffende de omkadering van de visserij en de aquicultuur",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023359/VolledigDocument?datum=2013-08-01",
+  "source_sha256": "4b79786f4a84ec2501e6c8d971987618918d9e3111c256f126b9d9c420a9761a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023359&param=informatie",
+  "as_of": "2013-08-01",
+  "made": "2013-09-27",
+  "gazette": "2013-10-30",
+  "numac": 2013036020,
+  "document_start": "2013-08-01",
+  "document_end": null,
+  "in_force": "2013-08-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
