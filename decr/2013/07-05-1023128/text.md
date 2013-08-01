@@ -34,6 +34,10 @@ In artikel 35, § 1, 2°, van het decreet van 14 maart 2008 betreffende de   fin
 
 ## Afdeling 3. Successierechten - prijscourant
 
+### ART. 16.
+
+<P>In artikel 21 van het Wetboek der Successierechten, gewijzigd bij het decreet   van 21 december 2012, wordt punt III vervangen door wat volgt :<BR></P>  <P>« III. Voor financiële instrumenten die toegelaten zijn tot verhandeling op   Belgische of buitenlandse gereglementeerde markten als vermeld in artikel 2,   eerste lid, 5° en 6°, van de wet van 2 augustus 2002 betreffende het toezicht op   de financiële sector en de financiële diensten en voor Belgische of buitenlandse   multilaterale handelsfaciliteiten als vermeld in artikel 2, eerste lid, 4°, van   de voormelde wet, volgens de beurswaarden ervan.<BR></P>  <P>Onder beurswaarde wordt de slotkoers verstaan zoals bepaald op basis van de   koersinformatie beschikbaar in de gespecialiseerde pers en/of middels   gespecialiseerde elektronisch raadpleegbare bronnen.<BR></P>  <P>De aangevers kunnen kiezen uit de beurswaarde op datum van overlijden, de   beurswaarde op datum van één maand na het overlijden of de beurswaarde op datum   van twee maanden na het overlijden.<BR></P>  <P>Wanneer er op een van die data geen notering is, geldt de beurswaarde op de   eerstvolgende dag waarop er opnieuw een notering wordt vastgesteld. Indien er op   de gekozen datum voor bepaalde van de aan te geven waarden wel en voor andere   geen notering is, moeten laatstbedoelde waarden worden aangegeven volgens de   beurswaarden op de eerstvolgende dag waarop er wel een notering is.<BR></P>  <P>De aangevers mogen slechts een van de voormelde data kiezen, die zal gelden   voor al de nagelaten waarden. De aangevers geven hun keuze aan in de aangifte,   waarin zij tevens de door hen geraadpleegde bron voor de opgegeven beurswaarden   vermelden. ».</P>
+
 ## Afdeling 4. Successierechten - stiefkinderen
 
 ### ART. 17.
