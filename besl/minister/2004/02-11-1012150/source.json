@@ -2,16 +2,16 @@
   "codex_id": 1012150,
   "title": "Ministerieel besluit van 2004-02-11 tot uitvoering van het besluit van de Vlaamse regering van 24 november 1993 betreffende de omkadering van de visserij en de aquicultuur",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012150/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "7a76660fa24e1a8582b8f45e2265c076c82220fb8dd72092cecd2625ebff11fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012150/VolledigDocument?datum=2013-08-01",
+  "source_sha256": "f9d98a71ebbbf4f490b1b7497b214393379cf0d699b5b0fbfaea7156fb29f97d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012150&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2013-08-01",
   "made": "2004-02-11",
   "gazette": "2004-03-08",
   "numac": 2004035359,
   "document_start": "2001-07-01",
   "document_end": "2016-06-09",
-  "in_force": "2008-09-01",
+  "in_force": "2013-08-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2008-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-01; future article versions excluded; article text as the API gives it"
 }
