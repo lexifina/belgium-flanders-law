@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023113,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-14 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, wat betreft de omschrijving van de beleidsvelden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023113/VolledigDocument?datum=2013-08-02",
+  "source_sha256": "6678f54931eb847dfda122e696a734b406f1e1c8d79943951f31f222a46713f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023113&param=informatie",
+  "as_of": "2013-08-02",
+  "made": "2013-06-14",
+  "gazette": "2013-07-23",
+  "numac": 2013204120,
+  "document_start": "2013-08-02",
+  "document_end": null,
+  "in_force": "2013-08-02",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2013-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
