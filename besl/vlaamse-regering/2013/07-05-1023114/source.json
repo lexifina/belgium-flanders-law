@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023114,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-05 betreffende het kader voor het invoeren van intelligente vervoerssystemen op het gebied van wegvervoer en voor interfaces met andere vervoerswijzen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023114/VolledigDocument?datum=2013-08-03",
+  "source_sha256": "a0107b3653668336b030a6090e7f9e43368b1a50a468becd287448b309e9c311",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023114&param=informatie",
+  "as_of": "2013-08-03",
+  "made": "2013-07-05",
+  "gazette": "2013-07-24",
+  "numac": 2013035655,
+  "document_start": "2013-08-03",
+  "document_end": null,
+  "in_force": "2013-08-03",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2013-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
