@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021952,
+  "title": "Decreet van 2011-12-23 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021952/VolledigDocument?datum=2013-08-03",
+  "source_sha256": "3866d1b11511b2543b276d5a759a200ba27435ff9107ffffe2c9d9d2319deee0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021952&param=informatie",
+  "as_of": "2013-08-03",
+  "made": "2011-12-23",
+  "gazette": "2012-07-20",
+  "numac": 2012035647,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2013-08-03",
+  "article_versions": 189,
+  "record_form": "consolidated version as in force on 2013-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
