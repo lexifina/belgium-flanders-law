@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022989,
+  "title": "Decreet van 2012-07-13 houdende tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022989/VolledigDocument?datum=2013-08-03",
+  "source_sha256": "24d07e6e3abb5bfc0fdcf12d4c75b42218db0e0a541c3e272107860bfe88ca39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022989&param=informatie",
+  "as_of": "2013-08-03",
+  "made": "2012-07-13",
+  "gazette": "2013-06-14",
+  "numac": 2012036220,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2013-08-03",
+  "article_versions": 84,
+  "record_form": "consolidated version as in force on 2013-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
