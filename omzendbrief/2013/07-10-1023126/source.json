@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023126,
+  "title": "Omzendbrief van 2013-07-10 Diensten voor pleegzorg",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023126/VolledigDocument?datum=2013-08-08",
+  "source_sha256": "669128abc5145fb52bb9d6cc18052837ecd83a6d92d00b320b0e7041a49b3c60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023126&param=informatie",
+  "as_of": "2013-08-08",
+  "made": "2013-07-10",
+  "gazette": "2013-07-29",
+  "numac": 2013204184,
+  "document_start": "2013-08-08",
+  "document_end": null,
+  "in_force": "2013-08-08",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-08-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
