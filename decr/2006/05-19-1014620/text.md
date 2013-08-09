@@ -26,7 +26,7 @@ De Winwinlening heeft een looptijd van acht jaar. Ze kan in één keer na acht j
 <br>
 Het totale bedrag, in hoofdsom, dat in het kader van een of meer Winwinleningen aan een of meer kredietnemers uitgeleend of ter beschikking gesteld wordt, bedraagt ten hoogste 50.000 euro per kredietgever.<br>
 <br>
-Het totale bedrag, in hoofdsom, dat in het kader van een of meer Winwinleningen aan een kredietnemer uitgeleend of ter beschikking gesteld wordt, bedraagt ten hoogste 100.000 euro per kredietnemer.<br>
+Het totale bedrag, in hoofdsom, dat in het kader van een of meer Winwinleningen aan een kredietnemer uitgeleend of ter beschikking gesteld wordt, bedraagt ten hoogste 200.000 euro per kredietnemer.<br>
 <br>
 De interesten die de kredietnemer verschuldigd is, worden betaald op de overeengekomen vervaldagen. Ze worden berekend aan de hand van een door de Vlaamse Regering vastgelegde formule en op basis van een vaste rentevoet, vastgelegd in de akte, vermeld in artikel 5, § 1, eerste lid. Die rentevoet mag niet hoger zijn dan de wettelijke rentevoet die van kracht is op de datum waarop de Winwinlening gesloten wordt, en mag niet lager zijn dan de helft van dezelfde wettelijke rentevoet.<br>
 <br>

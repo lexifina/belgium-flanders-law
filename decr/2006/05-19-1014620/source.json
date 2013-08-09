@@ -2,16 +2,16 @@
   "codex_id": 1014620,
   "title": "Decreet van 2006-05-19 betreffende de Winwinlening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014620/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "827d6c0483aed6e9623e14042abc2e4a3f37736d4a0944073299834837f00d3c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014620/VolledigDocument?datum=2013-08-09",
+  "source_sha256": "353e94a356ab7f4fe5e2628564d47cc67f1db03f73c79f50d3d35f337fde78b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014620&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2013-08-09",
   "made": "2006-05-19",
   "gazette": "2006-06-30",
   "numac": 2006035945,
   "document_start": "2006-09-01",
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2013-08-09",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-09; future article versions excluded; article text as the API gives it"
 }
