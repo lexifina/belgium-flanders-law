@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023133,
+  "title": "Ministerieel besluit van 2012-11-16 tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de uitvoering van waterbeheersingswerken in Lochristi",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023133/VolledigDocument?datum=2013-08-09",
+  "source_sha256": "3646d6c79edcdaa3b42666241449a0162595f8df79d0d75c3d663c6b4b4c9ae2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023133&param=informatie",
+  "as_of": "2013-08-09",
+  "made": "2012-11-16",
+  "gazette": "2013-07-30",
+  "numac": 2013204296,
+  "document_start": "2013-08-09",
+  "document_end": null,
+  "in_force": "2013-08-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
