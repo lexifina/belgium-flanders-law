@@ -659,7 +659,7 @@ In artikel 65 van het decreet van 7 mei 2004 houdende regeling van de begrotinge
 
 ### ART. 99.
 
-§ 1. Er wordt een Fonds Ontwikkelingssamenwerking opgericht, hierna genoemd « het fonds ».<br /><br />§ 2. Het fonds is een begrotingsfonds in de zin van artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 3. Het fonds wordt gespijsd door de terugvordering van subsidies of bedragen voor de financiering van overeenkomsten voor ontwikkelingssamenwerking die door de begunstigden niet of op onrechtmatige wijze werden aangewend of waarvan de aanwending onvoldoende wordt verantwoord.<br /><br />§ 4. Het fonds wordt aangewend voor allerhande initiatieven inzake ontwikkelingssamenwerking. De aandacht zal hierbij voornamelijk gaan naar het versterken van lopende projecten of programma's en het uitwerken en uitvoeren van flankerende acties.<br /><br />§ 5. De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.<br /><br />
+<P>...</P>
 
 ## HOOFDSTUK XXXVI Bekrachtiging van de aanvaarding van de schenking precolumbiaanse kunst
 
