@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023167,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-12 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 7 september 2012 houdende vaststelling van maatregelen ter ondersteuning van kwetsbare jongvolwassen personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023167/VolledigDocument?datum=2013-08-09",
+  "source_sha256": "07fe38142deb8a1d505e1e3a4dff9b78b63b80a16b79e1e66ad70471f87b0df4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023167&param=informatie",
+  "as_of": "2013-08-09",
+  "made": "2013-07-12",
+  "gazette": "2013-08-09",
+  "numac": 2013204516,
+  "document_start": "2013-08-09",
+  "document_end": null,
+  "in_force": "2013-08-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
