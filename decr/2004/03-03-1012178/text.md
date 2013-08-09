@@ -60,7 +60,7 @@ De organisatie van de naschoolse vormingsactiviteiten, bedoeld in artikel 8, en 
 
 ### ART. 14.
 
-Personen die landbouwactiviteiten uitoefenen en met goed gevolg landbouwvorming beÙindigd hebben, kunnen een vergoeding voor sociale promotie krijgen. De Vlaamse regering legt de nadere voorwaarden en regels vast.
+De Vlaamse Regering kan een vergoeding voor sociale promotie toekennen aan   personen die landbouwactiviteiten uitoefenen en met goed gevolg landbouwvorming   beëindigd hebben. De Vlaamse Regering kan de nadere voorwaarden en regels   daarvoor vastleggen.
 
 ## HOOFDSTUK IV SENSIBILISERINGSACTIES TER BEVORDERING VAN EEN MEER DUURZAME LANDBOUW
 
