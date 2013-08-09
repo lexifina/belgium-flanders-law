@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023127,
+  "title": "Decreet van 2013-07-05 houdende instemming met de overeenkomst tussen het Koninkrijk België en de Verenigde Staten van Amerika inzake de rechtspositie van een personeelscategorie van de Strijdkrachten van de Verenigde Staten, ondertekend te Brussel op 13 juli 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023127/VolledigDocument?datum=2013-08-09",
+  "source_sha256": "4757a537d2b3e213483e215dade31b2a6d60156d16ab40f29882af064c2752df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023127&param=informatie",
+  "as_of": "2013-08-09",
+  "made": "2013-07-05",
+  "gazette": "2013-07-30",
+  "numac": 2013035658,
+  "document_start": "2013-08-09",
+  "document_end": null,
+  "in_force": "2013-08-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-08-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
