@@ -38,6 +38,10 @@ In afwijking van artikel 8bis, derde lid, van het besluit van de Vlaamse Regerin
 
 Een jongvolwassene die in een minderjarigenvoorziening of een observatiecentrum verblijft en de leeftijd van eenentwintig jaar heeft bereikt, kan verder ondersteund worden door een minderjarigenvoorziening tot en met de leeftijd van vijfentwintig jaar in de volgende gevallen :<br />1° de jongvolwassene komt niet in aanmerking voor opvang door een meerderjarigenvoorziening;<br />2° de jongvolwassene komt in aanmerking voor opvang door een meerderjarigenvoorziening, maar maakt er op korte termijn geen gebruik van;<br />3° de jongvolwassene komt in aanmerking voor opvang door een meerderjarigenvoorziening, heeft een zware ondersteuningsnood en heeft nog geen plaats in een meerderjarigenvoorziening.<br /><br />In het eerste lid wordt verstaan onder observatiecentrum : een centrum voor observatie, oriëntering en medische, psychologische en pedagogische behandeling voor personen met een handicap.
 
+### ART. 4/1.
+
+De personen, vermeld in artikel 4, eerste lid, kunnen in de   minderjarigenvoorziening blijven als de opname tot doel heeft de schoolloopbaan   af te ronden.<BR><BR>De personen, vermeld in artikel 4, eerste lid, kunnen in   het observatiecentrum blijven ter afronding van hun traject dat maximaal 36   maanden duurt.
+
 ### ART. 5.
 
 De verdere ondersteuning die kan worden aangeboden in de gevallen bedoeld in artikel 4, eerste lid, 1° en 2°, gebeurt in de vorm van mobiele ondersteuning.<br /><br />De mobiele ondersteuning heeft als doel :<br />1° de versterking van het netwerk van de jongvolwassene, met het oog op een zo groot mogelijke autonomie en zelfzorg en op een zo inclusief mogelijke opvang;<br />2° de begeleide doorstroom naar diensten en voorzieningen binnen het algemeen welzijnswerk, of, in voorkomend geval, naar een voorziening of dienst die erkend en gesubsidieerd is door het Vlaams Agentschap voor Personen met een Handicap.
@@ -52,7 +56,7 @@ Voor het geval, bepaald in artikel 4, eerste lid, 3°, bepaalt de minister de in
 
 ### ART. 8.
 
-In het geval, vermeld in artikel 4, eerste lid, 3°, moet de jongvolwassene die in een internaat verblijft, beschikken over een beslissing tot toewijzing ondersteuningsveld Z80 of Z85 van het Vlaams Agentschap voor Personen met een Handicap, behoudens de opname in het internaat tot doel heeft de schoolloopbaan af te ronden.
+In het geval, vermeld in artikel 4, eerste lid, 3°, moet de jongvolwassene   die in een internaat verblijft, beschikken over een beslissing tot toewijzing   ondersteuningsveld Z80 of Z85 van het Vlaams Agentschap voor Personen met een   Handicap.<BR><BR>In het geval, vermeld in artikel 4, eerste lid, 3°, moet de   jongvolwassene die in een semi-internaat verblijft, beschikken over een   beslissing tot toewijzing ondersteuningsveld Z71, Z76, Z80 of Z85 van het Vlaams   Agentschap voor Personen met een Handicap.
 
 ### ART. 9.
 
