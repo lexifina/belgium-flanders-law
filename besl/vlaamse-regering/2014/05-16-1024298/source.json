@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024298,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 betreffende de vrijstelling van de adviesverplichting in de procedures ongeschikt-, onbewoonbaar- en overbewoondverklaring van een woning, tot wijziging van het besluit van de Vlaamse Regering van 20 juli 2012 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren en tot wijziging van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024298/VolledigDocument?datum=2013-08-11",
+  "source_sha256": "3c4028b27aa4698ef15477a596ea82186d447fa569d6bf386b7a52f3c5257940",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024298&param=informatie",
+  "as_of": "2013-08-11",
+  "made": "2014-05-16",
+  "gazette": "2014-07-11",
+  "numac": 2014035716,
+  "document_start": "2014-09-01",
+  "document_end": "2020-12-31",
+  "in_force": "2013-08-11",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
