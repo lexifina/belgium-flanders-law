@@ -26,7 +26,7 @@ In artikel 5 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Re
 
 ### ART. 6.
 
-De minister stelt minstens via een voor het publiek toegankelijke website van de Vlaamse overheid een handleiding voor de plaatsing van rookmelders ter beschikking van : <br />1° de aanvragers van een stedenbouwkundige vergunning als vermeld in artikel 3 van het decreet van 1 juni 2012 houdende de beveiliging van woningen door optische rookmelders;<br />2° de houders van het zakelijk recht op woningen en op kamerwoningen, studentenhuizen of studentengemeenschapshuizen als vermeld in het decreet van 4 februari 1997 houdende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers. <br /><br />
+<P>...</P>
 
 ### ART. 7.
 

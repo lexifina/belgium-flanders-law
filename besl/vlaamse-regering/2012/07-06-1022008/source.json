@@ -2,16 +2,16 @@
   "codex_id": 1022008,
   "title": "Besluit van de Vlaamse Regering van 2012-07-06 houdende wijziging van het besluit van de Vlaamse Regering van 6 oktober 1998 betreffende de kwaliteitsbewaking, het recht van voorkoop en het sociaal beheersrecht op woningen en van het besluit van de Vlaamse Regering van 3 oktober 2003 betreffende de kwaliteits- en veiligheidsnormen voor kamers en studentenkamers wat betreft de uitrusting met rookmelders",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022008/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "7dce0db665b6f275d94ae2d3002d30c57392c6d4f88b628bc34fb60241ba904e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022008/VolledigDocument?datum=2013-08-11",
+  "source_sha256": "b1b41dfb9fafbf0bec58c9216c4f4559bd747b79c7f7fc7c1eb73b723d5d1ab0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022008&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2013-08-11",
   "made": "2012-07-06",
   "gazette": "2012-08-06",
   "numac": 2012204275,
   "document_start": "2013-01-01",
   "document_end": null,
-  "in_force": "2013-01-01",
+  "in_force": "2013-08-11",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-11; future article versions excluded; article text as the API gives it"
 }
