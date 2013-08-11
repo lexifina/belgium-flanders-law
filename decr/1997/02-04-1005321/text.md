@@ -4,15 +4,15 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gewestaangelegenheid.
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br />1° Heffingsdecreet : afdeling 2 van hoofdstuk VIII van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996; <br />2° huurder van een kamer: elkeen die, in welke hoedanigheid of vorm of onder welke benaming ook, hetzij uitsluitend voor zichzelf, hetzij in gemeenschap met andere bewoners, het genot krijgt over een kamer zonder daarvan eigenaar, mede-eigenaar, vruchtgebruiker, erfpachter of opstalhouder te zijn;<br />3° kamer: woning waarin één of meer van de volgende voorzieningen ontbreken:<br />- WC;<br />- bad of douche;<br />- kookgelegenheid,<br />en waarvan de bewoners voor deze voorzieningen afhankelijk zijn van de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt; <br />4° kamerwoning: elk gebouw dat bestaat uit één of meer te huur gestelde of verhuurde kamers en gemeenschappelijke ruimtes;<br />5° studentenhuis: elk gebouw of deel van een gebouw waarin één of meer kamers worden te huur gesteld of verhuurd aan één of meer studenten, met inbegrip van de gemeenschappelijke ruimtes;<br />6° studentengemeenschapshuis: elk gebouw of deel van een gebouw dat door één of meer personen integraal wordt ge-huurd en (onder)verhuurd aan één of meer studenten;<br />7° studentenkamer: elke individuele kamer in een studenten- of studentengemeenschapshuis;<br />8° gemeenschappelijke ruimte: deel van de kamerwoning of van het studenten- of studentengemeenschapshuis aangewend als zitplaats en/of keuken met inbegrip van de interne circulatieruimte en de eventuele sanitaire voorzieningen;<br />9° verhuren van een kamer of studentenkamer: de terbeschikkingstelling, in welke vorm of onder welke benaming ook van een kamer of studentenkamer in een kamerwoning, studentenhuis of studentengemeenschapshuis aan een huurder, ongeacht of dit gebeurt samen of gelijktijdig met de terbeschikkingstelling in welke vorm of onder welke benaming ook, van:<br />a) meubels voor de kamer;<br />b) gemeenschappelijke ruimtes;<br />10° verhuurder: elke natuurlijke persoon of rechtspersoon die als eigenaar, mede-eigenaar, vruchtgebruiker, erfpachter, opstalhouder of lasthebber een kamerwoning of kamer, een studenten- of studentengemeenschapshuis of een studenten-kamer verhuurt of ter beschikking stelt tegen betaling of om niet;<br />11° student: iedere persoon die ingeschreven is bij een instelling van het hoger onderwijs, waarvan hij de lessen volgt en voor wie dat zijn hoofdbezigheid vormt.<br />Met student wordt gelijkgesteld de schoolverlater van het hoger onderwijs die de wachtperiode doorloopt overeenkomstig de bepalingen van het koninklijk besluit van 25 november 1991 houdende de werkloosheidheidsreglementering;<br />12° seizoenarbeider : de gelegenheidsarbeider als bedoeld in artikel 1 van het koninklijk besluit van 22 december 2004 houdende wijziging van de artikelen 8bis, tweede lid, en 31bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;<br />13° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+...
 
 ### ART. 3.
 
-[...  <span class="reference">(opgeh. decr. 14 juli 1998, art. 3, I: 1 september 1998)</span> ]
+...
 
 ## TITEL II VEILIGHEIDS- EN KWALITEITSNORMEN
 
@@ -20,55 +20,55 @@ In dit decreet wordt verstaan onder:<br />1° Heffingsdecreet : afdeling 2 van h
 
 ### ART. 4.
 
-Een kamer of studentenkamer die te huur wordt gesteld of verhuurd, moet voldoen aan de volgende elementaire kwaliteits- en veiligheidsnormen, die door de Vlaamse regering nader worden vastgesteld:<br /><br />1° de kamer of studentenkamer heeft een minimale hoogte tussen vloer en plafond van twee meter twintig centimeter. Het plafond mag zich in geen geval bevinden op minder dan één meter boven het maaiveld;<br /><br />2° de kamer of studentenkamer beschikt over voldoende verlichtings- en verluchtingsmogelijkheden. De kamer of studentenkamer moet rechtstreeks licht en buitenlucht ontvangen door ten minste één te openen verticaal venster of ten minste één te openen dakvenster. De onderkant van het raam mag zich op ten hoogste één meter twintig boven de vloer bevinden. De oppervlakte van alle vensters mag niet minder bedragen dan 1 m2; [... <span class="reference">(geschr. decr. 14 juli 1998, art. 4, I: 1 september 1998)</span> ]<br /><br />3° de kamer of studentenkamer beschikt over een wastafel met stromend water, afvoerinrichting en reukafsnijder en be-schikt over [voldoende en veilige electriciteitsinstallaties voor de verlichting van de kamer en het veilig gebruik van elektrische toestellen;  <span class="reference">(verv. decr. 14 juli 1998, art. 4, I: 1 september 1998)</span> ]<br /><br />4° de kamer of studentenkamer beschikt over voldoende en veilige verwarming of de nodige toe- en afvoerkanalen. Als verwarmingsbronnen komen enkel in aanmerking: centrale verwarming, elektrische toestellen en luchtdichte gastoestellen met schoorsteen- of gevelafvoer;<br /><br />5° de kamer of studentenkamer is zodanig gelegen en ingericht dat het respect voor de individuele levenssfeer wordt gewaarborgd. De kamer of studentenkamer moet rechtstreeks toegankelijk zijn en niet via een andere kamer of studentenkamer;<br /><br />6° een kamerwoning, studenten- of studentengemeenschapshuis beschikt, per groep of deel van een groep van zes bewo-ners of studenten over een w.c. met waterspoeling en reukafsnijder;<br /><br />7° iedere kamerwoning, ieder studenten- of studentengemeenschapshuis moet beschikken over een ruimte voor het onderhoudsmateriaal.<br /><br />[De kamer of studentenkamer alsmede de kamerwoning, het studentenhuis of het studentengemeenschapshuis moeten voldoen aan alle vereisten inzake brandveiligheid, stabiliteit en bouwfysica.  <span class="reference">(verv. decr. 14 juli 1998, art. 4, I: 1 september 1998)</span> ]
+...
 
 ### ART. 5.
 
-De Vlaamse regering stelt richtprijzen op voor verhuur van kamers in kamerwoningen, studentenhuizen en studentengemeenschapshuizen, rekening houdend met kwaliteit, oppervlakte, voorzieningen en locatie.
+...
 
 ## HOOFDSTUK II SPECIFIEKE NORMEN VOOR KAMERS
 
 ### ART. 6.
 
-Een kamer waarin geen kookmogelijkheden, noch een bad of stortbad aanwezig zijn, heeft een op-pervlakte van ten minste 12 m2 wanneer ze wordt bewoond door één persoon. [Deze oppervlakte wordt verhoogd met 6 m2 wanneer de kamer bewoond wordt door twee personen. De Vlaamse regering stelt de verdere normen inzake de vereiste minimale omvang van de kamer vast in relatie tot het aantal bewoners.  <span class="reference">(verv. decr. 14 juli 1998, art. 5, I: 1 september 1998)</span> ]<br /><br />De huurders van de in het eerste lid bedoelde kamers, beschikken in de gemeenschappelijke ruimtes over kookmogelijkheden en een bad of een stortbad in een door de Vlaamse regering vast te stellen verhouding tot het aantal kamers in de kamerwoning. De Vlaamse regering stelt de normen vast waaraan deze voorzieningen en de gemeenschappelijke ruimte moeten voldoen.
+...
 
 ### ART. 7.
 
-Bij gebrek aan de in artikel 6 bedoelde kookmogelijkheden en een bad of stortbad in de gemeen-schappelijke ruimtes, dienen deze voorzieningen aanwezig te zijn in de kamer. De in artikel 6 vermelde minimale oppervlakte wordt in dit geval telkens verhoogd met 3 m2.
+...
 
 ### ART. 7bis.
 
-De bepalingen, vermeld in dit hoofdstuk, met uitzondering van artikel 6, tweede lid, zijn niet van toepassing op de kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector, waarop de bepalingen van hoofdstuk IIbis van toepassing zijn.
+...
 
 ## HOOFDSTUK IIbis SPECIFIEKE NORMEN VOOR KAMERS DIE VERHUURD WORDEN AAN SEIZOENSARBEIDERS IN DE LAND- EN TUINBOUWSECTOR
 
 ### ART. 7ter.
 
-De bepalingen, vermeld in dit hoofdstuk, zijn van toepassing op de kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector.
+...
 
 ### ART. 7quater.
 
-§ 1. De kamer beschikt over een wastafel met stromend water, afvoerinrichting en reukafsnijder als vermeld in artikel 4, eerste lid, 3°. <br /><br />Als de kamer niet beschikt over een wastafel met stromend water, afvoerinrichting en reukafsnijder als vermeld in artikel 4, eerste lid, 3°, is die voorziening aanwezig in de gemeenschappelijke ruimte.<br /><br />§ 2. In afwijking van artikel 4, eerste lid, 1°, hebben de kamer en de gemeenschappelijke ruimte een minimale hoogte tussen vloer en plafond van twee meter vijftig centimeter.<br /><br />Op de minimale hoogte, vermeld in het eerste lid, kan een afwijking van maximaal vijftien centimeter toegestaan worden, als aan § 1 en aan de volgende voorwaarden voldaan is :<br />1° de kamer en de gemeenschappelijke ruimte beantwoorden aan de normen, vermeld in artikel 4, eerste lid, 2°, 4 ° en 6°, artikel 6, tweede lid, artikel 7quinquies en artikel 7sexies ;<br />2° de kamer en de gemeenschappelijke ruimte beschikken over voldoende en veilige elektriciteitsinstallaties voor de verlichting ervan en voor het veilig gebruik van elektrische toestellen, vermeld in artikel 4, eerste lid, 3°.<br /><br />§ 3. Artikel 4, eerste lid, 5° en 7°, zijn niet van toepassing op de kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector.
+...
 
 ### ART. 7quinquies.
 
-Een kamer heeft een oppervlakte van ten minste 8 m2 per persoon. <br /><br />De kamer en de gemeenschappelijke ruimte hebben samen een totale oppervlakte van ten minste 18 m2, als de kamer wordt bewoond door één persoon. De totale oppervlakte wordt telkens verhoogd met 10 m2 per extra persoon die de kamer bewoont.
+...
 
 ### ART. 7sexies.
 
-Bij gebrek aan kookmogelijkheden of een bad of douche in de gemeenschappelijke ruimte moeten die voorzieningen aanwezig zijn in de kamer. De minimale oppervlakte, vermeld in artikel 7quinquies, eerste lid, wordt in dat geval telkens verhoogd met 3 m2.
+...
 
 ## HOOFDSTUK III SPECIFIEKE NORMEN VOOR STUDENTENKAMERS
 
 ### ART. 8.
 
-§ 1. Een studentenkamer heeft een oppervlakte van minimaal 12 m2. <br /><br />In afwijking van het eerste lid geldt er een minimale oppervlakte van 8 m2 voor een studentenkamer die voldoet aan de volgende voorwaarden :<br />1° ze werd gebouwd of gerealiseerd voor 1 september 1998;<br />2° er werd een eerste conformiteitsattest aangevraagd voor 1 september 2001;<br />3° het conformiteitsattest dat werd toegekend is in de loop van de geldigheidsduur, vermeld in artikel 13, niet vervallen of ingetrokken met toepassing van artikel 14 of 15 omwille van een ander criterium dan de oppervlakte.<br /><br />De Vlaamse regering stelt de verdere normen inzake de vereiste minimale omvang van de studentenkamer vast in relatie tot het aantal bewoners. <br /><br />§ 2. Ieder studenten- of studentengemeenschapshuis moet beschikken over een gemeenschappelijke ruimte. [Wanneer in een studentenkamer geen kookmogelijkheden aanwezig zijn, moeten de bewoners ervan over gemeenschappelijke kookmogelijkheid beschikken in een gemeenschappelijke ruimte. Deze ruimte moet een oppervlakte hebben van minstens anderhalve vierkante meter per bewoner van een studentenkamern zonder minder te mogen bedragen dan 6 m2. De vrije hoogte tussen plafond en vloer moet minstens twee meter twintig cen-timeter bedragen.<br /><br />§ 3. Ieder studenten- of studentengemeenschapshuis moet beschikken over een ruimte voor de berging van evenveel fietsen als er studenkamers zijn.<br /><br />§ 4. Ieder studenten- of studentengemeenschapshuis moet per groep of deel van een groep van tien studenten beschikken over een bad of stortbad.
+...
 
 ## HOOFDSTUK IV AANVULLENDE GEMEENTELIJKE NORMEN
 
 ### ART. 9.
 
-De gemeente kan bij verordening van de gemeenteraad strengere veiligheids- en kwaliteitsnormen voor kamers en kamerwoningen of studentenkamers en studenten- en studentengemeenschapshuizen opleggen en het te huur stellen of het verhuren van kamers met het oog op de naleving van deze normen aan een voorafgaande vergunning onderwerpen.<br /><br />Na goedkeuring in de gemeenteraad wordt de gemeentelijke verordening ter bekrachtiging voorgelegd aan de Vlaamse regering. De verordening geldt vanaf de bekrachtiging en tot deze herzien of vervangen wordt met toepassing van dezelfde procedure.
+...
 
 ## TITEL III HET CONFORMITEITSATTEST
 
@@ -76,86 +76,86 @@ De gemeente kan bij verordening van de gemeenteraad strengere veiligheids- en kw
 
 ### ART. 10.
 
-§ 1. De conformiteit van de kamerwoning en van elke kamer afzonderlijk met de, in artikelen 4, 6 en 7 gestelde normen en de conformiteit van de studenten- of studentengemeenschapshuizen en van elke studentenkamer afzonderlijk met aan de in artikelen 4 en 8 gestelde normen, wordt vastgesteld in een conformiteitsattest, waarvan het model wordt vastgelegd door de Vlaamse regering. Het conformiteitsattest voor kamerwoningen bepaalt het maximum aantal bewoners; het conformiteitsattest voor studenten- of studentengemeenschapshuizen bepaalt het maximum aantal studenten. Het conformiteitsattest vermeldt tevens het maximum aantal toegelaten bewoners per kamer of studentenkamer.<br /><br />De conformiteit met de normen, vermeld in het eerste lid, wordt vastgesteld door het college van burgemeester en schepenen op eigen initiatief of op verzoek van de verhuurder. <br /><br />Met het oog op een maximale afstemming op de veiligheids-, gezondheids- en woonkwaliteitsnormen, bedoeld in de artikelen 5 en 6 van de Vlaamse Wooncode, kan de Vlaamse regering, als ze het model van conformiteit vastlegt, de criteria en de procedure bepalen om de conformiteit vast te stellen van de kamerwoning en van elke kamer afzonderlijk of van de studenten- of gemeenschapshuizen en van elke studentenkamer afzonderlijk met de in het eerste lid bedoelde normen. Ze kan bij die gelegenheid ook de criteria en procedure bepalen om eventuele tekortkomingen te verhelpen door middel van renovatie, verbeterings- of aanpassingswerken. Ze kan eveneens bepalen in welke mate een afwijking van voormelde normen beslissend is voor de aflevering van het attest. <br /><br />§ 2. Een afschrift van het attest moet op een zichtbare plaats in de kamerwoning of kamer of in het studenten- of studenten-gemeenschapshuis of studentenkamer worden aangebracht.
+...
 
 ### ART. 11.
 
-De verhuurder vraagt het conformiteitsattest aan bij het College van burgemeester en schepenen van de gemeente waar de kamerwoning, het studenten- of studentengemeenschapshuis is gelegen.<br /><br />Het College van burgemeester en schepenen beslist, na een conformiteitsonderzoek, binnen een termijn van zestig dagen volgend op de datum van de aanvraag, over de aflevering van het conformiteitsattest. Bij ontstentenis van een beslissing binnen de gestelde termijn wordt de aanvrager een conformiteitsattest verleend met de vermelding "impliciete inwilliging".<br /><br />De Vlaamse regering stelt de nadere regelen vast voor het conformiteitsonderzoek.<br /><br />De Vlaamse regering stelt de vergoeding vast die voor de afgifte van het conformiteitsattest kan worden gevraagd.
+...
 
 ### ART. 12.
 
-Als het College van burgemeester en schepenen de uitreiking van een conformiteitsattest weigert, kan de verhuurder daartegen beroep aantekenen bij de Bestendige Deputatie binnen zestig dagen na ontvangst van de weigering. De Bestendige Deputatie spreekt zich uit binnen een termijn van zestig dagen na het aantekenen van het beroep. Wanneer het beroep wordt ingewilligd, verleent het College van burgemeester en schepenen een conformiteitsattest.
+...
 
 ### ART. 13.
 
-Behoudens toepassing van de bepalingen van artikelen 14 en 15, is het conformiteitsattest geldig voor een periode van [tien jaar  <span class="reference">(verv. decr. 14 juli 1998, art. 10, I: 1 september 1998)</span> ]
+...
 
 ## HOOFDSTUK II VERVAL EN INTREKKING VAN HET CONFORMITEITSATTEST
 
 ### ART. 14.
 
-§ 1. Het conformiteitsattest, vermeld in artikel 10, vervalt van rechtswege vanaf het ogenblik dat de kamerwoning, kamer, studentenhuis, studentengemeenschapshuis of studentenkamer ongeschikt of onbewoonbaar wordt verklaard overeenkomstig artikel 16, tweede lid of artikel 135 van de Gemeentewet.<br /><br />Wanneer de kamerwoning of de kamers, het studenten- of studentengemeenschapshuis of de studentenkamers opnieuw te huur worden gesteld of verhuurd na de ongeschikt- of onbewoonbaarverklaring, moet de verhuurder een nieuw conformiteitsattest aanvragen voor de kamerwoning en de kamers, het studenten- of studentengemeenschapshuis en de studentenkamers.<br /><br />§ 2. Het conformiteitsattest, vermeld in artikel 10, van de kamerwoningen of studenten- of studentengemeenschapshuizen die structureel worden gewijzigd door verbouwingswerken vervalt van rechtswege vanaf het ogenblik van deze structurele wijziging. De verhuurder moet na de structurele wijzigingen een nieuw conformiteitsattest aanvragen.
+...
 
 ### ART. 15.
 
-Het conformiteitsattest wordt ingetrokken in de volgende gevallen:<br />1° als de kamerwoning of de kamer niet langer voldoet aan de veiligheids- en kwaliteitsnormen bedoeld in de artikelen 4, 6 en 7;<br />2° als het studenten- of studentengemeenschapshuis of de studentenkamer niet langer voldoet aan de veiligheids- en kwaliteitsnormen, bedoeld in artikelen 4 en 8;<br />3° wanneer de kamer of studentenkamer aan meer personen wordt verhuurd dan volgens het conformiteitsattest is toegelaten;<br /><br />Het conformiteitsattest wordt ingetrokken door het College van burgemeester en schepenen. De gewestelijke ambtenaren, vermeld in artikel 2, § 1, eerste lid, 7°, van de Vlaamse Wooncode, zijn eveneens bevoegd om het conformiteitsattest in te trekken.<br /><br />In de gevallen, bedoeld in het eerste lid, 1° en 2°, kan het conformiteitsattest slechts worden ingetrokken na een vooraf-gaandelijke verwittiging met de aanmaning om binnen een termijn die wordt bepaald door, naargelang van het geval, het College van burgemeester en schepenen of de gewestelijke ambtenaar en die ten hoogste zes maanden bedraagt, de nodige maatregelen te nemen of de nodige werkzaamheden uit te voeren.<br /><br />In afwijking van het vorige lid, gaat in ernstige gevallen de intrekking onmiddellijk in op het door het College van burge-meester en schepenen of de gewestelijke ambtenaar vastgestelde ogenblik.<br /><br />Elke belanghebbende of vereniging die de belangen van huurders of studenten verdedigt, kan klacht neerleggen tegen een verhuurder van kamers bij het College van burgemeester en schepenen, dat verplicht is Elke klacht aan een grondig onder-zoek te onderwerpen en over te gaan tot intrekken van het conformiteitsattest in de gevallen bedoeld in 1°, 2° en 3° van dit artikel.
+...
 
 ### ART. 15bis.
 
-De kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector, zijn niet onderworpen aan de toepassing van deze titel.
+...
 
 ## TITEL IV SANCTIES EN ANDERE MAATREGELEN
 
 ### ART. 16.
 
-De kamer die niet beantwoordt aan de normen, bedoeld in artikelen 4, 6 en 7, en de studentenkamer die niet beantwoordt aan de normen, bedoeld in artikelen 4 en 8, zijn ongeschikt. Als de kamer of studentenkamer gebreken vertoont die een veiligheids- of gezondheidsrisico inhouden, is de kamer of studentenkamer onbewoonbaar. De Vlaamse Regering bepaalt nader de criteria aangaande de conformiteit met de vereisten, bedoeld in artikelen 4, 6, 7 en 8.<br /><br />De kamer of de studentenkamer wordt overeenkomstig de bepalingen van artikelen 15 en 16 van de Vlaamse Wooncode ongeschikt of onbewoonbaar verklaard. De kamer of studentenkamer met een bezetting die groter is dan toegelaten volgens de normen, bedoeld in artikelen 6 en 8, § 1, vierde lid, is overbewoond wanneer het aantal bewoners van de kamer of studentenkamer zo groot is dat het een veiligheids- of gezondheidsrisico inhoudt. De kamer of studentenkamer wordt overeenkomstig artikel 17 van de Vlaamse Wooncode overbewoond verklaard.<br /><br />Wanneer de kamer of studentenkamer ongeschikt en/of onbewoonbaar, of overbewoond wordt verklaard, zijn respectievelijk de maatregelen, bepaald in artikelen 15, 16 en 17 van de Vlaamse Wooncode van toepassing. De bepalingen van het Heffingsdecreet zijn van toepassing op de kamer of studentenkamer, bedoeld in het tweede lid.<br />
+...
 
 ### ART. 17.
 
-Wanneer een kamerwoning of een kamer die niet voldoet aan de vereisten van artikelen 4, 6, 7, 7quater, 7quinquies en 7sexies of een studenten- of. studentengemeenschapshuis of een studentenkamer die niet voldoet aan de vereisten van artikelen 4 en 8, rechtstreeks of via tussenpersoon wordt verhuurd, te huur gesteld of ter beschikking gesteld met het oog op bewoning, wordt de verhuurder, de eventuele onderverhuurder of diegene die het goed ter beschikking stelt, gestraft met een gevangenisstraf van zes maanden tot drie jaar en een geldboete van 500 tot 25.000 euro.<br /><br />Het misdrijf, bedoeld in het eerste lid, wordt gestraft met een geldboete van 1000 tot 100.000 euro en met een gevangenisstraf van één jaar tot vijf jaar in volgende gevallen :<br />1° als van de betrokken activiteit een gewoonte wordt gemaakt;<br />2° als het een daad van deelneming aan de hoofd- of bijkomende bedrijvigheid van een vereniging betreft, ongeacht of de schuldige de hoedanigheid van leidend persoon heeft.<br /><br />
+...
 
 ### ART. 17bis.
 
-§ 1. Naast de straf kan de rechtbank de overtreder bevelen om werken uit te voeren om het goed, bedoeld in artikel 17, te laten voldoen aan de vereisten van artikelen 4, 6, 7, 7quater, 7quinquies, 7 sexies en 8. Als de rechtbank vaststelt dat het goed, vermeld in artikel 17, niet in aanmerking komt voor werken, beveelt ze de overtreder om er een andere bestemming aan te geven overeenkomstig de bepalingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 of om het te slopen, tenzij de sloop ervan verboden is op grond van wettelijke, decretale of reglementaire bepalingen. Dat gebeurt ambtshalve of op vordering van de wooninspecteur of het college van burgemeester en schepenen op wier grondgebied het goed, bedoeld in artikel 17, zich bevindt. De rechtbank bepaalt de termijn voor de uitvoering van de herstelmaatregelen en kan, op vordering van de wooninspecteur of het college van burgemeester en schepenen, eveneens een dwangsom bepalen per dag vertraging in de tenuitvoerlegging van de werken. De termijn voor de uitvoering van de herstelmaatregelen bedraagt maximaal twee jaar.<br /><br />§ 2. De vorderingen bedoeld in § 1, worden bij het parket ingeleid bij gewone brief, in naam van het Vlaamse Gewest of het college van burgemeester en schepenen, door de wooninspecteurs en de aangestelden van het college van burgemeester en schepenen.<br /><br />De wooninspecteur of het college van burgemeester en schepenen stuurt een afschrift van de vordering, vermeld in paragraaf 1, naar de overtreder en naar de eigenaar van het goed waarvoor de vordering werd ingeleid.<br /><br />§ 3. De vordering wordt uitdrukkelijk gemotiveerd vanuit het oogpunt van de elementaire veiligheids-, gezondheids- en woonkwaliteitsvereisten, vermeld in artikelen 4, 6, 7 en 8.<br /><br />§ 4. De vordering vermeldt minstens de gebreken op basis waarvan het herstel wordt gevorderd.<br /><br />§ 5. De wooninspecteur en het college van burgemeester en schepenen kunnen ook voor de rechtbank van eerste aanleg, zetelend in burgerlijke aangelegenheden, in het gerechtelijk arrondissement waar het goed, bedoeld in artikel 17, zich bevindt, de uitvoering van herstelmaatregelen vorderen zoals omschreven in § 1.<br /><br />§ 6. Als de overtreder de gevorderde of de door de rechtbank opgelegde herstelmaatregelen vrijwillig heeft uitgevoerd, brengt hij de wooninspecteur en het college van burgemeester en schepenen daarvan onmiddellijk op de hoogte. De kennisgeving wordt aangetekend verstuurd of wordt afgegeven tegen ontvangstbewijs. Na ontvangst van de vergoeding, vermeld in het tweede lid, doet de ambtenaar, vermeld in artikel 21, eerste lid, een controle ter plaatse en stelt hij een proces-verbaal van vaststelling op.<br /><br />De controle ter plaatse, vermeld in het eerste lid, wordt pas uitgevoerd na de betaling van een vergoeding. De Vlaamse Regering bepaalt het bedrag van de vergoeding en de nadere regelen voor de inning ervan. De opbrengst van de vergoeding wordt toegewezen aan het Herstelfonds, vermeld in artikel 6.1.56 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br /><br />De wooninspecteur stelt een proces-verbaal van uitvoering op. Behoudens bewijs van het tegendeel geldt enkel het proces-verbaal van uitvoering als bewijs van het herstel en van de datum van het herstel. De wooninspecteur zendt een afschrift van het proces-verbaal van uitvoering aan het college van burgemeester en schepenen en aan de overtreder en de eigenaar van het goed, vermeld in artikel 17. Het college van burgemeester en schepenen kan geen conformiteitsattest afleveren zolang uit het proces-verbaal van uitvoering niet blijkt dat de herstelmaatregel volledig uitgevoerd is.<br /><br />§ 7. Voor het geval dat de herstelmaatregelen door de overtreder niet binnen de door de rechtbank gestelde termijn worden uitgevoerd, beveelt het vonnis van de rechter, bedoeld in §§ 1 en 5, dat de wooninspecteur, het college van burgemeester en schepenen of eventueel de burgerlijke partij ambtshalve in de uitvoering ervan kan voorzien.<br /><br />Wanneer de overtreder in gebreke blijft, is hij verplicht alle uitvoeringskosten te vergoeden op vertoon van een staat, opgesteld door de overheid, bedoeld in het eerste lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.<br /><br />De verjaringstermijn van de maatregel, bedoeld in §§ 1 en 5, neemt een aanvang vanaf het verstrijken van de termijn die de rechtbank bepaald heeft voor de tenuitvoerlegging ervan.<br /><br />§ 8. Bij een veroordeling wegens één van de misdrijven, bepaald in artikel 17, machtigt het vonnis van de rechter, bedoeld in §§ 1 en 5, de wooninspecteur en het college van burgemeester en schepenen om de kosten, bedoeld in artikel, 15, § 1, zesde lid, van de Vlaamse Wooncode, te verhalen op de overtreder.<br /><br />De overtreder is verplicht alle kosten te vergoeden op vertoon van een staat, opgesteld door de overheid, bedoeld in het eerste lid, of begroot en uitvoerbaar verklaard door de beslagrechter in de burgerlijke rechtbank.
+...
 
 ### ART. 17ter.
 
-De dagvaarding voor de correctionele rechtbank op grond van artikel 17, of het exploot tot inleiding van het geding, bedoeld in artikel 17bis, § 5, is pas ontvankelijk na overschrijving in het hypotheekkantoor van het gebied waar de goederen gelegen zijn.<br /><br />Elke eindbeslissing die in de zaak gewezen is, wordt op de kant van de overgeschreven dagvaarding of van het overgeschreven exploot ingeschreven op de wijze, bepaald in artikel 84 van de hypotheekwet. Bij gebrek aan een overschrijving, bedoeld in het eerste lid, wordt de eindbeslissing ingeschreven op de kant van de overschrijving van de titel van verkrijging. Hetzelfde geldt voor het proces-verbaal waarbij wordt vastgesteld dat het vonnis is uitgevoerd.<br /><br />De dagvaarding of het exploot vermeldt de kadastrale omschrijving van het onroerend goed dat het voorwerp uitmaakt van het misdrijf en identificeert de eigenaar ervan, in de vorm en onder de sanctie voorgeschreven door de wetgeving inzake hypotheken.<br /><br />Elke eindbeslissing die in de zaak gewezen is, is steeds tegenstelbaar aan derden-verkrijgers, van wie de titel niet was overgeschreven vóór de in het eerste lid bedoelde overschrijving, of vóór de inschrijving van de dagvaarding of het exploot tot inleiding van het geding, op de kant van de overschrijving van een eerdere titel van verkrijging.<br /><br />In de gevallen waarin openbare besturen of derden tot uitvoering van herstelmaatregelen, bedoeld in artikel 17bis, § 1, op kosten van de overtreder of van de nieuwe houder van het zakelijk recht, vermeld in artikel 17quater, zijn overgegaan, wordt de daaruit te hunnen bate voortvloeiende schuldvordering gewaarborgd door een wettelijke hypotheek, die ingeschreven, vernieuwd, verminderd of gedeeltelijk doorgehaald wordt overeenkomstig de bepalingen in de hoofdstukken IV en V van de hypotheekwet.<br /><br />Die waarborg dekt ook de schuldvordering ten gevolge van de kosten van de hypothecaire formaliteiten, die door hen zijn voorgeschoten en die ten laste komen van de veroordeelde.<br />
+...
 
 ### ART. 17quater.
 
-Als op een kamerwoning, kamer, studentenhuis, studentengemeenschapshuis of studentenkamer ten gevolge van een definitieve rechterlijke beslissing een verplichting rust om herstelmaatregelen uit te voeren als vermeld in artikel 17bis, wordt die verplichting op het ogenblik dat een authentieke akte opgesteld wordt voor de overdracht van een zakelijk recht op het goed, in een afzonderlijke akte vermeld. In die akte wordt ook vermeld dat de nieuwe houder van het zakelijk recht de verbintenis aangaat om, met behoud van de toepassing van de verplichting voor de overtreder, de opgelegde herstelmaatregelen uit te voeren en de eventuele uitvoeringskosten te vergoeden overeenkomstig artikel 17bis, § 7, tweede lid.<br /><br />De instrumenterende ambtenaar bezorgt een afschrift van de afzonderlijke akte, vermeld in het eerste lid, aan de wooninspecteur.
+...
 
 ### ART. 17quinquies.
 
-De overtreder brengt voor het afsluiten van de overeenkomst tot overdracht van een zakelijk recht, de kandidaat-houder van het zakelijk recht op de hoogte dat op het goed een vordering of veroordeling als vermeld in artikel 17bis, § 1, rust. In de overeenkomst tot overdracht van het zakelijk recht wordt vermeld dat op het goed een bovenvermelde vordering of veroordeling rust.<br /><br />Met behoud van het recht om een schadevergoeding te eisen, vernietigt de rechtbank, op vordering van de nieuwe houder van het zakelijk recht de titel van overdracht van zakelijk recht als de overtreder niet voldaan heeft aan de verplichting, vermeld in het eerste lid.<br /><br />In afwijking van het tweede lid, kan de nieuwe houder van het zakelijk recht de vordering tot vernietiging niet inroepen als de informatie, vermeld in het eerste lid, wordt meegedeeld bij het verlijden van de authentieke akte en als de nieuwe houder van het zakelijk recht verzaakt aan de vordering tot vernietiging.
+...
 
 ### ART. 18.
 
-Overeenkomstig artikel 133 tot en met 135 van de Gemeentewet neemt de burgemeester, met het oog op de naleving van de in artikelen 4, 6, 7 en 8 bedoelde normen, alle noodzakelijke maatregelen.<br /><br />Ingeval deze maatregelen gepaard gaan met gedwongen uitdrijving neemt de burgemeester de nodige initiatieven met het oog op herhuisvesting van de betrokken bewoners.
+...
 
 ### ART. 19.
 
-De burgemeester en de ambtenaren, vermeld in artikel 21, eerste lid verzegelen de te huur gestelde of ver-huurde kamers die niet beantwoorden aan de veiligheids- en kwaliteitsnormen van artikelen 4, 6 en 7 en de te huur gestelde of verhuurde studentenkamers die niet beantwoorden aan de veiligheids- en kwaliteitsnormen van artikelen 4 en 8 wanneer de verhuurder geen geldig conformiteitsattest kan voorleggen.<br /><br />De burgemeester en de ambtenaren, vermeld in het eerste lid, verzegelen de kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector en die niet beantwoorden aan de veiligheids- en kwaliteitsnormen, vermeld in artikelen 4, 7quater, 7quinquies en 7sexies. <br /><br />Ingeval de verzegeling gepaard gaat met gedwongen uitdrijving neemt de burgemeester de nodige initiatieven met het oog op herhuisvesting van de betrokken bewoners.<br /><br />Binnen tien dagen na verzegeling kan tegen deze beslissing door de verhuurder beroep worden aangetekend bij de Bestendige Deputatie. De Bestendige Deputatie doet daarover uitspraak binnen een termijn van zestig dagen na aantekening van het beroep. Dit beroep werkt niet opschortend.
+...
 
 ## TITEL V SLOTBEPALINGEN
 
 ### ART. 20.
 
-De burgemeester, de door hem aangestelde technische ambtenaren en ambtenaren van de gemeente, de ambtenaren, vermeld in artikel 21, eerste lid, en de gewestelijke ambtenaren, bedoeld in artikel 15, hebben het recht tussen acht uur en twintig uur de kamerwoning en de kamers, de studenten- of studentengemeenschapshuizen en studentenkamers te bezoeken om de conformiteit ervan met de veiligheids- en kwaliteitsnormen vast te stellen en de naleving van de bepalingen van dit decreet te controleren.<br /><br />De huurder en verhuurder zijn verplicht alle nodige inlichtingen te verstrekken om het conformiteitsonderzoek en de controlebezoeken in de beste omstandigheden te laten verlopen.
+...
 
 ### ART. 21.
 
-Met behoud van de toepassing van de bevoegdheden van de agenten en van de officieren van gerechtelijke politie zijn de ambtenaren van het intern verzelfstandigd agentschap Inspectie RWO die aangewezen zijn als wooninspecteur of als ambtenaar met opsporings- en vaststellingsbevoegdheid, bevoegd om de wanbedrijven, vermeld in artikel 17, op te sporen en vast te stellen in een proces-verbaal. De wooninspecteurs krijgen voor de uitoefening van die bevoegdheid de hoedanigheid van officier van gerechtelijke politie, hulpofficier van de procureur des konings. <br /><br />Er kan tot een huiszoeking worden overgegaan in de volgende gevallen:<br />1° de verhuurder kan geen conformiteitsattest voorleggen;<br />2° de kamerwoning of de kamers, het studenten- of studentengemeenschapshuis of de studentenkamers worden zonder nieuwe aanvraag opnieuw te huur gesteld of verhuurd na een ongeschikt- of een onbewoonbaarverklaring;<br />3° er werden verbouwingswerken uitgevoerd, zoals bedoeld in artikel 14, § 2, zonder daaropvolgende aanvraag voor een nieuw conformiteitsattest;<br />4° er zijn voldoende aanwijzingen dat de kamerwoning of de kamer niet meer voldoet aan de normen, bedoeld in artikelen 4, 6, 7, 7quater, 7quinquies en 7sexies, of het studenten- of studentengemeenschapshuis of de studentenkamer niet meer voldoet aan de normen bedoeld in artikelen 4 en 8;<br />5° er zijn voldoende aanwijzingen dat de kamer wordt bewoond door meer personen dan is toegelaten volgens het conformiteitsattest.
+...
 
 ### ART. 22.
 
-Onverminderd de toepassing van artikel 8, § 1, moeten de bestaande kamerwoningen, kamers, studen-tenhuizen, studentengemeenschapshuizen en studentenkamers die vóór de inwerkingtreding van dit decreet werden gebouwd of gerealiseerd na vernieuwbouw of door omvorming van een woning in een kamerwoning, studentenhuis of studentengemeenschapshuis overeenkomstig de geldende bepalingen inzake ruimtelijke ordening en stedenbouw, aan de bepalingen van dit decreet beantwoorden binnen een termijn van één jaar na de inwerkingtreding van dit decreet.<br /><br />De conformiteitsattesten, zoals bepaald in artikel 10 van dit decreet, moeten voor het verstrijken van een termijn van één jaar na de inwerkingtreding van dit decreet worden aangevraagd.
+...
 
 ### ART. 22bis.
 
-§ 1. In afwijking van artikelen 7quinquies en 7sexies zijn tot en met 31 december 2010 de bepalingen, vermeld in dit artikel, van toepassing op de kamers die verhuurd worden aan seizoenarbeiders in de land- en tuinbouwsector.<br /><br />§ 2. Een kamer waarin geen gebruik gemaakt wordt van stapelbedden, heeft een oppervlakte van ten minste 8 m2 per persoon.<br /><br />Een kamer waarin gebruik gemaakt wordt van stapelbedden, heeft een oppervlakte van ten minste 6 m2 per persoon, met een minimum van 8 m2.<br /><br />§ 3. De gemeenschappelijke ruimte heeft een oppervlakte van ten minste 1 m2 per persoon, met een minimum van 6 m2.<br /><br />§ 4. Bij gebrek aan kookmogelijkheden of een bad of douche in de gemeenschappelijke ruimte, vermeld in § 3, moeten die voorzieningen aanwezig zijn in de kamer. De minimale oppervlakte, vermeld in § 2, wordt in dat geval telkens verhoogd met 3 m2.
+...
 
 ### ART. 23.
 
-[Dit decreet treedt in werking op 1 september 1998, met uitzondering van artikel 5, dat in werking treedt op een datum, vastgesteld door de Vlaamse regering.  <span class="reference">(verv. decr. 8 december 2000, art. 37, I: 23 januari 2001)</span> ]
+...
