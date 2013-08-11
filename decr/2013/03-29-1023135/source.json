@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023135,
+  "title": "Decreet van 2013-03-29 houdende wijziging van diverse decreten wat de woonkwaliteitsbewaking betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023135/VolledigDocument?datum=2013-08-11",
+  "source_sha256": "b10fd0a517227457348a3a7148732134a0a1ba1258b3320342f7fdfd0b96cf53",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023135&param=informatie",
+  "as_of": "2013-08-11",
+  "made": "2013-03-29",
+  "gazette": "2013-08-01",
+  "numac": 2013035386,
+  "document_start": "2013-08-11",
+  "document_end": null,
+  "in_force": "2013-08-11",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2013-08-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
