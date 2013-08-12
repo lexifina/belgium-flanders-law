@@ -695,7 +695,7 @@ De Vlaamse Regering bepaalt de nadere toepassingsregels voor de verplichtingen, 
 
 ### ART. 7.5.1.
 
-De Vlaamse Regering kan, na advies van de VREG, de leveranciers en netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen, minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.
+De Vlaamse Regering kan, na advies van de VREG, de leveranciers en   netbeheerders openbaredienst-verplichtingen opleggen inzake programma's ter   bevordering van het rationeel energiegebruik en hernieuwbare energiebronnen,   minimumnormen inzake rationeel energiegebruik bij hun afnemers en investeringen   in kwalitatieve warmtekrachtinstallaties, installaties voor de productie van   groene stroom, groenestroomcertificaten of warmtekrachtcertificaten.<BR><BR>In   afwijking van artikel 4.1.10, eerste lid, kan de netbeheerder of zijn   werkmaatschappij echter in het kader van de uitvoering van de hun op grond van   dit artikel opgelegde openbaredienstverplichtingen en onder de door de Vlaamse   Regering vastgestelde voorwaarden, gegevens verstrekken aan personen die   daarvoor door de Vlaamse Regering zijn aangewezen.
 
 ## HOOFDSTUK VI. Verplichtingen van de brandstofleveranciers ter stimulering van het rationeel energiegebruik en het gebruik van de hernieuwbare energiebronnen
 
