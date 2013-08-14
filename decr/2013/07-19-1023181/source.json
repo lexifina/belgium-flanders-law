@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023181,
+  "title": "Decreet van 2013-07-19 houdende wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023181/VolledigDocument?datum=2013-08-14",
+  "source_sha256": "3cf3321b2628ddf639e337dadc176cc1a752eacd04e5de9626ff6bafdec5d5d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023181&param=informatie",
+  "as_of": "2013-08-14",
+  "made": "2013-07-19",
+  "gazette": "2013-08-13",
+  "numac": 2013204469,
+  "document_start": "2013-08-14",
+  "document_end": null,
+  "in_force": "2013-08-14",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
