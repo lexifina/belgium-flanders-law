@@ -2,16 +2,16 @@
   "codex_id": 1017858,
   "title": "Decreet van 2009-03-27 betreffende radio-omroep en televisie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017858/VolledigDocument?datum=2012-08-27",
-  "source_sha256": "bfddbcd77a7d32d884fa65c025a07c3838bc95c720a6b217b6f366713685b7a4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017858/VolledigDocument?datum=2013-08-14",
+  "source_sha256": "3fa3d9e754cf8b574fa09cf59a719df44e4ba7004436909d23cceeabe5e6b611",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017858&param=informatie",
-  "as_of": "2012-08-27",
+  "as_of": "2013-08-14",
   "made": "2009-03-27",
   "gazette": "2009-04-30",
   "numac": 2009035356,
   "document_start": "2009-05-10",
   "document_end": null,
-  "in_force": "2012-08-27",
+  "in_force": "2013-08-14",
   "article_versions": 250,
-  "record_form": "consolidated version as in force on 2012-08-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-14; future article versions excluded; article text as the API gives it"
 }
