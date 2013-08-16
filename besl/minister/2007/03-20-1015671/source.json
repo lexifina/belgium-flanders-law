@@ -2,16 +2,16 @@
   "codex_id": 1015671,
   "title": "Ministerieel besluit van 2007-03-20 houdende nadere bepalingen inzake de verzameling en de ophaling van overleden gezelschapsdieren bij dierenartsenpraktijken en dierenklinieken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015671/VolledigDocument?datum=2007-04-09",
-  "source_sha256": "1a5c2e454fe29f8ef1fd77b181e7362668407396c8f64e47f4796e89be0984bd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015671/VolledigDocument?datum=2013-08-16",
+  "source_sha256": "7179237ee7ea8c51e24a3115004b7248812e2228fc371a6f6bf61834e04f9a87",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015671&param=informatie",
-  "as_of": "2007-04-09",
+  "as_of": "2013-08-16",
   "made": "2007-03-20",
   "gazette": "2007-03-30",
   "numac": 2007035483,
   "document_start": "2007-04-09",
   "document_end": "2013-08-15",
-  "in_force": "2007-04-09",
+  "in_force": "2013-08-16",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-04-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-16; future article versions excluded; article text as the API gives it"
 }
