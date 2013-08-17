@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2013-07-12 betreffende de herverdeling van de vrijgekomen subsidieerbare deelnemersuren voor de organisatie van persoonlijke ontwikkelingstrajecten
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 10 juli 2008 betreffende het stelsel van leren en   werken in de Vlaamse gemeenschap, artikel 95, § 1 en § 2, gewijzigd bij de   decreten van 8 juli 2011 en 23 december 2011;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 9 juli   2013;<BR></P>  <P>Op voorstel van de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en   Brussel;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+Voor het schooljaar 2013-2014 worden de vrijgekomen subsidieerbare   deelnemersuren voor de organisatie van persoonlijke ontwikkelingstrajecten als   volgt herverdeeld :<BR>1° Werkingsgebied regionaal overlegplatform Antwerpen<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Organisatie       <TD>Oorspronkelijk aantal deelnemersuren       <TD>Herverdeling       <TD>Aangepast aantal<BR>deelnemersuren<BR>    <TR>      <TD>a) Arktos       <TD>56.843,50       <TD>- 10.000       <TD>46.843,50<BR>    <TR>      <TD>b) Lejo       <TD>37.878       <TD>+ 10.000       <TD>47.878<BR>    <TR>      <TD>c) Profo       <TD>15.360       <TD>+ 1.000       <TD>16.360<BR></TD></TR></TBODY></TABLE><BR>2° Werkingsgebied regionaal   overlegplatform Midden-West-Vlaanderen<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Organisatie       <TD>Oorspronkelijk aantal deelnemersuren       <TD>Herverdeling       <TD>Aangepast aantal<BR>deelnemersuren<BR>    <TR>      <TD>Groep Intro       <TD>6.941,40       <TD>+ 2.500       <TD>9.441,40<BR></TD></TR></TBODY></TABLE><BR>3° Werkingsgebied regionaal   overlegplatform Oostende<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Organisatie       <TD>Oorspronkelijk aantal deelnemersuren       <TD>Herverdeling       <TD>Aangepast aantal<BR>deelnemersuren<BR>    <TR>      <TD>Groep Intro       <TD>14.871,60       <TD>+ 3.000       <TD>17.871,60<BR></TD></TR></TBODY></TABLE><BR>4° Werkingsgebied regionaal   overlegplatform Westhoek<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Organisatie       <TD>Oorspronkelijk aantal deelnemersuren       <TD>Herverdeling       <TD>Aangepast aantal<BR>deelnemersuren<BR>    <TR>      <TD>a) Groep Intro       <TD>10.629,10       <TD>- 3.000<BR>- 2.500       <TD>5.129,10<BR>    <TR>      <TD>b) Profo       <TD>7.680       <TD>- 1.000       <TD>6.680<BR></TD></TR></TBODY></TABLE><BR>
+
+### ART. 2.
+
+De minister, bevoegd voor het onderwijs, is belast met de uitvoering van   dit besluit.<BR>
