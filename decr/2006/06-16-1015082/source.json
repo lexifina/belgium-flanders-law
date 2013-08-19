@@ -2,16 +2,16 @@
   "codex_id": 1015082,
   "title": "Decreet van 2006-06-16 betreffende de begeleiding van de scheepvaart op de maritieme toegangswegen en de organisatie van het Maritiem Reddings- en Coördinatiecentrum",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015082/VolledigDocument?datum=2012-08-11",
-  "source_sha256": "21a755ec2d70fe56708ed6ed570ae16a34a5d8876a1284680eaa5bee3942b3b8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015082/VolledigDocument?datum=2013-08-19",
+  "source_sha256": "25ac05f93227b77a3fe200b242426ef09990f62e672c203e29e6f6288e71d059",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015082&param=informatie",
-  "as_of": "2012-08-11",
+  "as_of": "2013-08-19",
   "made": "2006-06-16",
   "gazette": "2006-10-26",
   "numac": 2006036572,
   "document_start": "2006-11-05",
   "document_end": null,
-  "in_force": "2012-08-11",
-  "article_versions": 74,
-  "record_form": "consolidated version as in force on 2012-08-11; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-08-19",
+  "article_versions": 75,
+  "record_form": "consolidated version as in force on 2013-08-19; future article versions excluded; article text as the API gives it"
 }
