@@ -133,11 +133,11 @@ Het ministerieel besluit van 12 juli 2004 betreffende de toekenning van subsidie
 
 ### BIJLAGE I.
 
-Bijlage I. Programma van de starterscursussen type A als vermeld in artikel 3 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br /><br />1° Doel en situering van de algemene en bijzondere starterscursussen, de stages en de installatieproef<br />2° Betreffende algemene wetgeving :<br />a) ruimtelijke ordening en structuurplannen<br />b) Mestdecreet<br />c) milieuvergunningenbeleid en watervergunning<br />d) EU-landbouwbeleid<br />e) beheersovereenkomsten<br />f) biologische landbouw<br />g) code goede landbouwpraktijken<br />h) enz. (evolutie)<br />3° Bedrijfsovername :<br />a) belangrijke facetten bij overname, overnamecontract<br />b) VLIF-ondernemerschap<br />c) financieringsmogelijkheden bij starten + oefeningen<br />d) uitbatingsvormen, vennootschappen<br />e) pachtwetgeving, grondbeleid en onteigeningen<br />f) erfdienstbaarheden<br />g) huwelijksvermogensrecht en erfrecht<br />h) verzekeringen, schadeberekening en aansprakelijkheid<br />4° Sociale, familiale en ethische aspecten :<br />a) sociaal statuut zelfstandigen, sociale zekerheid<br />b) (tijdelijke) tewerkstelling van (vreemde) werknemers<br />c) relatie gezin - bedrijf<br />5° Structuren in land- en tuinbouw :<br />a) diensten en instellingen voor de landbouw<br />b) landbouw op provinciaal, regionaal, federaal, Europees en mondiaal vlak<br />6° Fiscaliteit :<br />a) belastingaangifte : boekhouding en forfaitair<br />b) btw-regeling<br />7° Boekhouding :<br />a) theorie<br />b) praktijk<br />c) bedrijfseconomische boekhouding<br />d) rentabiliteit in diverse sectoren<br />8° Informatica : toepassingsmogelijkheden voor land- en tuinbouw
+Bijlage I. Programma van de starterscursussen type A als vermeld in   artikel 3 van het ministerieel besluit van 26 november 2007 betreffende de   toekenning van subsidies voor naschoolse opleidingsinitiatieven in de   landbouwsector<BR><BR>1° Doel en situering van de algemene en bijzondere   starterscursussen, de stages en de installatieproef<BR>2° Betreffende algemene   wetgeving : <BR>a) ruimtelijke ordening milieuvergunningenbeleid en   waterbeleid,<BR>b) Mestdecreet,<BR>c) EU - landbouwbeleid,<BR>d)   beheersovereenkomsten,<BR>e) biologische landbouw,<BR>f) praktijkgidsen,<BR>g)   tewerkstelling.<BR>3° Bedrijfsovername : <BR>a) belangrijke facetten bij   overname, overnamecontract,<BR>b) VLIF.- ondernemerschap,<BR>c)   financieringsmogelijkheden bij starten + oefeningen,<BR>d) uitbatingsvormen,   vennootschappen,<BR>e) pachtwetgeving, erfdienstbaarheden, grondbeleid,<BR>f)   huwelijksvermogensrecht, erfrecht,<BR>g) verzekeringen, risicobeheer,   schadeberekening, aansprakelijkheid.<BR>4° Sociale, familiale en ethische   aspecten : <BR>a) sociaal statuut zelfstandigen, sociale zekerheid,<BR>b)   relatie gezin - bedrijf.<BR>5° Structuren in land- en tuinbouw : <BR>a) diensten   en instellingen voor de landbouw,<BR>b) landbouw op provinciaal, regionaal,   federaal, Europees en mondiaal vlak.<BR>6° Fiscaliteit : <BR>a)   belastingaangifte : boekhouding en forfaitair,<BR>b) btw-regeling.<BR>7°   Boekhouding : <BR>a) theorie,<BR>b) praktijk,<BR>c) bedrijfseconomische   boekhouding,<BR>d) rentabiliteit in land- en tuinbouw<BR>8° Financieel beheer :   <BR>a) algemene begrippen<BR>b) financieel plan<BR>c) kasplanning<BR>9°   Ondernemerscompetenties : <BR>a) handelsrelaties<BR>b) marktwerking<BR>c)   samenwerking<BR>d) maatschappelijke verantwoordelijkheid<BR>e)   bedrijfsorganisatie<BR>10° Informaticatoepassingen voor de land- en   tuinbouw<BR>In de loop van de cursus worden momenten van zelfreflectie en   zelfinschatting ingebouwd.<BR>
 
 ### BIJLAGE II.
 
-Bijlage II. Programma van de starterscursussen type B als vermeld in artikel 4 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br /><br />1° Economische en sociale benadering van de bedrijfstak :<br />a) rentabiliteit, kostprijsberekening<br />b) boekhouding<br />c) naargelang van de bedrijfstak :<br />a. specifieke belastingstelsels<br />b. specifiek personeelsbeleid<br />c. gebruik van kwaliteitslabels en etikettering<br />2° Administratieve verplichtingen voor de specifieke bedrijfstak<br />3° Milieuaspecten voor de specifieke bedrijfstak :<br />naargelang van de bedrijfstak :<br />a) geïntegreerde productie<br />b) duurzame productie<br />c) mineralenbalans<br />d) beperking gebruik van gewasbeschermingsmiddelen<br />e) verantwoorde huisvesting<br />f) sanitair aspect<br />4° Socio-economische voorstelling van een bedrijf<br />5° Bedrijfsbezoeken, voor zover geen sanitaire beperkingen die beletten<br />6° Technische aspecten, zoals teelttechniek, voeding, mechanisatie : deze aspecten mogen niet meer dan de helft van de uren van de cursus in beslag nemen.<br />
+<P>Bijlage II. Programma van de starterscursussen type B als vermeld in artikel   4 van het ministerieel besluit van 26 november 2007 betreffende de toekenning   van subsidies voor naschoolse opleidingsinitiatieven in de   landbouwsector<BR><BR>1° Economische en sociale benadering van de bedrijfstak :   <BR>a) rentabiliteit, kostprijsberekening,<BR>b) boekhouding,<BR>c) naargelang   van de bedrijfstak : <BR>a. specifieke belastingstelsels,<BR>b. specifiek   personeelsbeleid,<BR>c. gebruik van kwaliteitslabels en etikettering.<BR>2°   Administratieve verplichtingen voor de bedrijfstak.<BR>3° Wetgevende en   milieuaspecten voor de bedrijfstak : <BR>a) geïntegreerde productie,<BR>b)   duurzame productie,<BR>c) verantwoorde huisvesting,<BR>d) sanitair aspect,<BR>e)   wettelijke verplichtingen inzake dierenwelzijn.<BR>4° Sectorspecifiek   ondernemerschap : <BR>a) innovatie<BR>b) afzet<BR>c) kwaliteitsgerichte   systemen<BR>5° Socio-economische voorstelling van een bedrijf<BR>6°   Bedrijfsbezoeken, voor zover geen sanitaire beperkingen die beletten<BR>7°   Technische aspecten (teelttechniek, voeding,   mechanisatie,...).</P>
 
 ### BIJLAGE III.
 
@@ -377,29 +377,28 @@ Bijlage II. Programma van de starterscursussen type B als vermeld in artikel 4 v
 
 ### BIJLAGE VIII.
 
-<p>Bijlage VIII. Toelatingsvoorwaarden voor de installatieproeven, vermeld in artikel 19 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br>
+Bijlage VIII. Toelatingsvoorwaarden voor de installatieproeven, vermeld in artikel 19 van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector<br>
 <br>
-</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>voorwaarde <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
+			<p>voorwaarde</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>vereiste bijscholing</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>1. getuigschrift of diploma van land- of tuinbouwgericht onderwijs : a) lager secundair onderwijs<br>
 			b) 2e graad secundair onderwijs<br>
 			c) 5e jaar secundair onderwijs<br>
 			2. getuigschrift of diploma van niet-landbouw gericht of niet-tuinbouwgericht onderwijs of geen getuigschrift of diploma<br>
 			3. minstens vijf jaar werkzaam op een landbouwbedrijf met het statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:#d4d0c8; border-top:#d4d0c8">
 			<p>starterscursus type A + B<br>
 			starterscursus type A + B<br>
 			starterscursus type A<br>
@@ -411,14 +410,13 @@ Bijlage II. Programma van de starterscursussen type B als vermeld in artikel 4 v
 </table>
 
 <p>&nbsp;</p>
-
-<p>De totaalduur van de stage is minstens twintig stagedagen.<br>
+De totaalduur van de stage is minstens twintig stagedagen.<br>
 <br>
 Een getuigschrift van een gevolgde B-cursus die gestart is voor 1 juli 1996, geeft zonder bijscholing recht op een installatieattest.<br>
 <br>
 Voor de opleidingen die gestart zijn tussen 1 juli 1996 en 1 januari 2005, zijn een B1- en een B3-cursus gelijkwaardig aan respectievelijk een starterscursus type A en een starterscursus type B.<br>
 <br>
-De deelnemer bewijst zijn statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper met een verklaring van de sociale kas waarbij hij is aangesloten. Een zelfstandig helper moet ook aanslagbiljetten voorleggen die aantonen dat hij voor de desbetreffende periode inkomsten uit de zelfstandige activiteit heeft aangegeven.</p>
+De deelnemer bewijst zijn statuut van zelfstandig bedrijfsleider, zaakvoerder, meewerkende echtgenoot of zelfstandig helper met een verklaring van de sociale kas waarbij hij is aangesloten.
 
 ### BIJLAGE IX
 
