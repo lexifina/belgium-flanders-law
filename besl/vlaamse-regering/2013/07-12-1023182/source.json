@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023182,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-12 tot wijziging van het planprogramma Brugse Veldzone, deel Veldgebied Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023182/VolledigDocument?datum=2013-08-23",
+  "source_sha256": "c21a502d58b93e2e31c8f57ce8e8be03c34dd3aa936b7748af98f972d41157a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023182&param=informatie",
+  "as_of": "2013-08-23",
+  "made": "2013-07-12",
+  "gazette": "2013-08-13",
+  "numac": 2013035693,
+  "document_start": "2013-08-23",
+  "document_end": null,
+  "in_force": "2013-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
