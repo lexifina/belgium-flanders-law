@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023180,
+  "title": "Decreet van 2013-07-12 houdende instemming met de Euromediterrane luchtvaartovereenkomst tussen de Europese Gemeenschap en haar lidstaten, enerzijds, en het Koninkrijk Marokko, anderzijds, ondertekend te Brussel op 12 december 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023180/VolledigDocument?datum=2013-08-23",
+  "source_sha256": "d508274f92197a1a29ff79c5b85c35762e42c1a47b169627ef46af2e66962074",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023180&param=informatie",
+  "as_of": "2013-08-23",
+  "made": "2013-07-12",
+  "gazette": "2013-08-13",
+  "numac": 2013204601,
+  "document_start": "2013-08-23",
+  "document_end": null,
+  "in_force": "2013-08-23",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
