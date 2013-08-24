@@ -2,16 +2,16 @@
   "codex_id": 1012949,
   "title": "Decreet van 2004-03-03 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012949/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "67a03ee0e9d26505be35c8a977aadd54a78932ade60f74c77633eb810a37cdd7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012949/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "7f5c8b6a2c5c0ff290d51286f94bf1f37492c857346e47ae3b43671d9c142f6f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012949&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2013-08-24",
   "made": "2004-03-03",
   "gazette": "2004-04-20",
   "numac": 2004035536,
   "document_start": "2004-04-30",
   "document_end": "2019-09-30",
-  "in_force": "2010-01-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2010-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-08-24",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2013-08-24; future article versions excluded; article text as the API gives it"
 }
