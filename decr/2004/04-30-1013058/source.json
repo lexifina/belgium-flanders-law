@@ -2,16 +2,16 @@
   "codex_id": 1013058,
   "title": "Decreet van 2004-04-30 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid [Opgroeien regie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013058/VolledigDocument?datum=2007-03-06",
-  "source_sha256": "c8a6b6d07c041665b126768286a9b20ddf97858aab76b669b0fce6c2141e44f6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013058/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "7fa526be3c63f8843b466085dedb2cfb0dfbae2583bd8abc3db2c16da17be142",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013058&param=informatie",
-  "as_of": "2007-03-06",
+  "as_of": "2013-08-24",
   "made": "2004-04-30",
   "gazette": "2004-06-07",
   "numac": 2004035799,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2007-03-06",
+  "in_force": "2013-08-24",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2007-03-06; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-24; future article versions excluded; article text as the API gives it"
 }
