@@ -18,7 +18,7 @@ De Vlaamse Regering stelt de procedure vast voor de aanvraag tot erkenning van i
 
 ### ART. 4.
 
-De erkenning van de instellingen voor schuldbemiddeling wordt initieel toegekend voor een periode van drie jaar en is daarna hernieuwbaar voor periodes van zes jaar.
+De erkenning van de instellingen voor schuldbemiddeling wordt initieel   toegekend voor een periode van drie jaar en is daarna hernieuwbaar voor een   periode van onbepaalde duur.
 
 ### ART. 5.
 
