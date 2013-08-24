@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023187,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-21 tot erkenning van de beroepskwalificatie Chauffagist",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023187/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "7ffd93efe76bfdcc96ed0c04469a4e72c3b3f31cde46e120feaaa82de9dceba5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023187&param=informatie",
+  "as_of": "2013-08-24",
+  "made": "2013-06-21",
+  "gazette": "2013-08-14",
+  "numac": 2013035699,
+  "document_start": "2013-08-24",
+  "document_end": "2020-05-17",
+  "in_force": "2013-08-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
