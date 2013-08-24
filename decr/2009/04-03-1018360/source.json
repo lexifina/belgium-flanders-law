@@ -2,16 +2,16 @@
   "codex_id": 1018360,
   "title": "Decreet van 2009-04-03 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018360/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "c5570a843aa3055087c6dad03c93729aaea18c7500ddbb13a6df17e455ee8270",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018360/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "d1a196eee741fa8354a0a51aa2b080d18f7be1cb1a2e12ebf6fd054a57ad73b5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018360&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2013-08-24",
   "made": "2009-04-03",
   "gazette": "2009-09-17",
   "numac": 2009035880,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2010-01-01",
+  "in_force": "2013-08-24",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-24; future article versions excluded; article text as the API gives it"
 }
