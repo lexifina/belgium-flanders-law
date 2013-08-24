@@ -105,7 +105,7 @@ In dit besluit wordt verstaan onder :<BR>1°thuiszorgvoorziening : een   dienst 
 
 ### ART. 2.
 
-De programmatie van de voorzieningen wordt per soort voorziening bepaald in bijlage I tot en met XII en XV bij dit besluit.<br /><br />De programmatie van de verenigingen wordt bepaald in bijlage XIII bij dit besluit.<br /><br />
+De programmatie van de voorzieningen wordt per soort voorziening bepaald   in bijlage I tot en met III, V&nbsp;tot en met &nbsp;XII bij dit   besluit.<BR><BR>De programmatie van de verenigingen wordt bepaald in bijlage   XIII bij dit besluit.<BR><BR>
 
 ## HOOFDSTUK III Erkenningsvoorwaarden
 
@@ -959,7 +959,7 @@ In deze bijlage wordt verstaan onder :<br />1° dienst : een dienst voor thuisve
 
 ### ART. 2.
 
-Er worden maximaal 250 diensten erkend.<br /><br />Een dienst wordt erkend voor een bepaald werkgebied. Het werkgebied voldoet aan de bepalingen van het Zorgregiodecreet en is minimaal gelijk aan een gemeente of stad en maximaal gelijk aan de som van de regionale steden van één provincie of aan het tweetalige gebied Brussel-Hoofdstad. Dat werkgebied staat in verhouding tot het aantal verpleegkundigen van de erkende dienst. De minister kan afhankelijk van het aantal verpleegkundigen waarover de dienst beschikt en in verhouding tot het aantal inwoners, nadere regels bepalen voor het werkgebied.<br /><br />
+<P>...</P>
 
 ## HOOFDSTUK III Specifieke erkenningsvoorwaarden
 
