@@ -8,11 +8,19 @@
 
 ## HOOFDSTUK 2 Wijzigingen van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
+### ART. 3.
+
+&nbsp;In artikel 2, eerste lid, van het   besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de   erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en   verenigingen van gebruikers en mantelzorgers, gewijzigd bij het besluit van de   Vlaamse Regering van 28 september 2012, wordt de zinsnede "bijlage I tot en met   XII" vervangen door de zinsnede "bijlage I tot en met III, V tot en met   XII".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 3 Wijzigingen van bijlage I bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
 ## HOOFDSTUK 4 Wijzigingen van bijlage II bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
 
 ## HOOFDSTUK 5 Wijzigingen van bijlage IV bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers
+
+### ART. 15.
+
+&nbsp;In bijlage IV bij het besluit van de   Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de   erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en   verenigingen van gebruikers en mantelzorgers wordt hoofdstuk II, dat bestaat uit   artikel 2, opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## HOOFDSTUK 6 Wijzigingen van het ministerieel besluit van 30 november 1999 inzake de kwaliteitszorg in de diensten voor Gezinszorg
 
