@@ -2,16 +2,16 @@
   "codex_id": 1008073,
   "title": "Decreet van 2001-06-01 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008073/VolledigDocument?datum=2011-07-22",
-  "source_sha256": "e94922fc213653a34ed6ccd9e2c7cd419f666b42c1507adae1ed9131e42621f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008073/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "4907552da7b473fb02951f714bdf5f8358b0ad78e652be2d63b709877cec39bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008073&param=informatie",
-  "as_of": "2011-07-22",
+  "as_of": "2013-08-24",
   "made": "2001-06-01",
   "gazette": "2001-07-17",
   "numac": 2001035718,
   "document_start": "2002-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2011-07-22",
+  "in_force": "2013-08-24",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2011-07-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-24; future article versions excluded; article text as the API gives it"
 }

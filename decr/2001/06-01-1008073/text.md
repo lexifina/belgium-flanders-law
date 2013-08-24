@@ -54,7 +54,7 @@ De bestuursinstelling brengt jaarlijks vóór [10 februari  <span class="referen
 
 ### ART. 13.
 
-Dit decreet is ten aanzien van instellingen, genoemd in artikel 2 slechts van toepassing op bijzondere regelingen waarbij een vorm van klachtenbehandeling is voorgeschreven, voorzover die regelingen minder strenge verplichtingen opleggen dan die, bepaald in de voorgaande artikelen.
+Dit decreet is ten aanzien van instellingen, genoemd in artikel 2 slechts   van toepassing op bijzondere regelingen waarbij een vorm van klachtenbehandeling   is voorgeschreven, voorzover die regelingen minder strenge verplichtingen   opleggen dan die, bepaald in de voorgaande artikelen.<BR><BR>Dit decreet is niet   van toepassing op het publiekrechtelijk vormgegeven extern verzelfstandigd   agentschap met rechtspersoonlijkheid Openbaar Psychiatrisch Zorgcentrum Geel en   op het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap met   rechtspersoonlijkheid Openbaar Psychiatrisch Zorgcentrum Rekem, met behoud van   de toepassing van het decreet van 7 juli 1998 houdende instelling van de Vlaamse   Ombudsdienst.
 
 ### ART. 14.
 
