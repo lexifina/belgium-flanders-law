@@ -2,16 +2,16 @@
   "codex_id": 1021097,
   "title": "Decreet van 2008-07-18 betreffende de zorg- en bijstandsverlening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021097/VolledigDocument?datum=2011-12-26",
-  "source_sha256": "d2e5e7b8d125bb6ed8e204d2ff90dbc396a76f0affaa5045b08bbaf5840adbda",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021097/VolledigDocument?datum=2013-08-24",
+  "source_sha256": "d6221e20dbea44851adbd6a6135144f71d71f9e79c316ef92e724e83b503b46d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021097&param=informatie",
-  "as_of": "2011-12-26",
+  "as_of": "2013-08-24",
   "made": "2008-07-18",
   "gazette": "2008-08-29",
   "numac": 2008202941,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-12-26",
+  "in_force": "2013-08-24",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2011-12-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-08-24; future article versions excluded; article text as the API gives it"
 }
