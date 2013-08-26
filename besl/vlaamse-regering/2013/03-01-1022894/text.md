@@ -106,7 +106,7 @@ De artikelen 2, 2°, 3, 5 tot 8, 10 en 12, van het decreet van 23 maart   2012 h
 
 ### ART. 23.
 
-De artikelen 17, 29 en 53 van het decreet van 1 maart 2013 houdende   diverse bepalingen inzake landbouw, leefmilieu en natuur en ruimtelijke   ordening, treden in werking op datum van publicatie van huidig besluit in het   Belgisch Staatsblad.
+De artikelen 17, 29 en 54 van het decreet van 1 maart 2013 houdende   diverse bepalingen inzake landbouw, leefmilieu en natuur en ruimtelijke   ordening, treden in werking op datum van publicatie van huidig besluit in het   Belgisch Staatsblad.
 
 ### ART. 24.
 
