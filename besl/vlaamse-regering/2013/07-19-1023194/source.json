@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023194,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-19 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning en van het besluit van de Vlaamse Regering van 1 maart 2013 inzake de nadere regels van de project-m.e.r.-screening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023194/VolledigDocument?datum=2013-08-26",
+  "source_sha256": "041c0b7a4f97c5b912dbf1dae58d51064e510dfe5c52df4ca412f4cbe7d55388",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023194&param=informatie",
+  "as_of": "2013-08-26",
+  "made": "2013-07-19",
+  "gazette": "2013-08-16",
+  "numac": 2013204491,
+  "document_start": "2013-08-26",
+  "document_end": null,
+  "in_force": "2013-08-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-08-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
