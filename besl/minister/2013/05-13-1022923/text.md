@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-De Vlaamse minister van Mobiliteit en Openbare Werken keurt, op voorstel   van de raad van bestuur van de VVM, de tarieven geldig vanaf 1 juni 2013 (met   uitzondering van het nieuwe tarief voor het biljet, voorverkoop korte afstand,   waarvan de geldigheid ingaat op 1 juli 2013), gevoegd als bijlage bij dit   besluit, goed.
+...
 
 ### ART. 2.
 
-Dit besluit treedt onmiddellijk in werking.
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/05/17_2.pdf#page=122">  <P>Tariefaanpassingen De Lijn op 1 juni 2013</P>  <P>&nbsp;</P></A>
+...
