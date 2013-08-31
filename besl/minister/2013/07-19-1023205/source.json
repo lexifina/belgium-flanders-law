@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023205,
+  "title": "Ministerieel besluit van 2013-07-19 tot wijziging van bijlage I van het ministerieel besluit van 19 maart 2004 houdende vaststelling van de lijst van ammoniakemissiearme stalsystemen in uitvoering van artikel 1.1.2 en artikel 5.9.2.1bis van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023205/VolledigDocument?datum=2013-08-31",
+  "source_sha256": "7e4291f36958ca0b409464953f3073358d0585ec828cd40243f18acb3473aaba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023205&param=informatie",
+  "as_of": "2013-08-31",
+  "made": "2013-07-19",
+  "gazette": "2013-08-21",
+  "numac": 2013204701,
+  "document_start": "2013-08-31",
+  "document_end": null,
+  "in_force": "2013-08-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
