@@ -172,6 +172,10 @@ Artikel 38 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Re
 
 Artikel 39 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 12 september 2008, wordt opgeheven.
 
+### ART. 42.
+
+Artikel 40 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 19 november 2010, wordt opgeheven.
+
 ### ART. 43.
 
 <P>Aan bijlage I, hoofdstuk I, 3, van hetzelfde besluit wordt een tweede alinea   toegevoegd, die luidt als volgt : <BR></P>  <P>« Het verbrandingsattest vermeldt de waarden, gemeten met het elektronische   rookgasanalysetoestel. De afdruk van het toestel wordt opgenomen in de daarvoor   bestemde ruimte. ».</P>
