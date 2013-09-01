@@ -2,16 +2,16 @@
   "codex_id": 1007932,
   "title": "Besluit van de Vlaamse Regering van 2001-02-09 betreffende de bekwaamheidsbewijzen en de prestatie- en bezoldigingsregeling voor de personeelsleden van de centra voor volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007932/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "a50e338412db8112106625040d0570a16be534fba335e800c63859c4980cffff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007932/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "9db46d78a3cac55d8c6ad9aca1cdfe991fdf2b3df0312c4d6f6cb8749d39fe6f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007932&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2013-09-01",
   "made": "2001-02-09",
   "gazette": "2001-04-11",
   "numac": 2001035363,
   "document_start": "2000-09-01",
   "document_end": "2013-08-31",
-  "in_force": "2010-09-01",
+  "in_force": "2013-09-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
