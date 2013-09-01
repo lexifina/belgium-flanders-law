@@ -2,16 +2,16 @@
   "codex_id": 1007222,
   "title": "Besluit van de Vlaamse Regering van 2000-02-11 [betreffende de volledige terbeschikkingstelling wegens persoonlijke aangelegenheden voorafgaand aan het rustpensioen voor personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007222/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "d0cea59a2e2a1a04eeb95abd0056378d418df7bf28b0ebbc434c2474076f2f9f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007222/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "43a3029bd8337b03ecd881c45c1c5bcdc4b0e28a35811f0f0a1d5fc447638200",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007222&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2013-09-01",
   "made": "2000-02-11",
   "gazette": "2000-04-11",
   "numac": 2000035338,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-09-01",
+  "in_force": "2013-09-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
