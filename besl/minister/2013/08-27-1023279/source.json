@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023279,
+  "title": "Ministerieel besluit van 2013-08-27 houdende samenstelling van de commissies van advies voor het buitengewoon onderwijs, opgericht door de Vlaamse Regering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023279/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "5daa42b2ad42cf2fb7c48ece5c7678116d3ed47907e1bf95b990259199be0fde",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023279&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2013-08-27",
+  "gazette": "2013-10-07",
+  "numac": 2013205259,
+  "document_start": "2013-09-01",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
