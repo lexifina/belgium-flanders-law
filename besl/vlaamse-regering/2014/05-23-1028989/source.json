@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028989,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot vervanging van een lid van de Raad van het Fonds voor Scheepsjongeren en tot wijziging van het koninklijk besluit van 31 december 1975 tot regeling van de samenstelling en werkwijze van het Fonds voor scheepsjongens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028989/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "931d980c4b2b708ac94790c43b3a66efa9c9f8494a1527670229261d2f788b24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028989&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2014-05-23",
+  "gazette": "2014-07-08",
+  "numac": 2014203667,
+  "document_start": "2014-07-18",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
