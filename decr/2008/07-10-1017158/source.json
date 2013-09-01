@@ -2,16 +2,16 @@
   "codex_id": 1017158,
   "title": "Decreet van 2008-07-10 houdende enkele dringende maatregelen voor het deeltijds kunstonderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017158/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "809141a75075270ce20c9d0a179901b406244e74289dd7885ab64e8cba832f96",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017158/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "a725ab966d39264d6b92f42ba20113e5ea54c225614429d32c4aeb7b4ee48fe9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017158&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-09-01",
   "made": "2008-07-10",
   "gazette": "2008-10-16",
   "numac": 2008203657,
   "document_start": "2008-09-01",
   "document_end": "2016-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
