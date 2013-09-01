@@ -2,16 +2,16 @@
   "codex_id": 1005538,
   "title": "Besluit van de Vlaamse Regering van 1997-06-10 houdende de vaststelling van de voorwaarden voor en de procedure tot individuele erkenning van de volledige gelijkwaardigheid van buitenlandse diploma's of studiegetuigschriften met de diploma's, uitgereikt door de hogescholen in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005538/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "35d5770e60336a899607e6bcd82918d69b2c8e7343156b6c6d81b9e641361143",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005538/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "1821e9a78942e7d1b041f2e5d4456e539b5fddfe67daa400418fd272108e5906",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005538&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-09-01",
   "made": "1997-06-10",
   "gazette": "1997-09-05",
   "numac": 1997036111,
   "document_start": "1995-09-01",
   "document_end": "2013-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-09-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
