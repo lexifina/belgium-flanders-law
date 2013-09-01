@@ -1,0 +1,53 @@
+# Besluit van de Vlaamse Regering van 2014-02-21 tot wijziging van het besluit van de Vlaamse Regering van 5 februari 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs wat de rechtspositie van het personeel van de inspectie en de pedagogische begeleidingsdiensten betreft, ten aanzien van de selectieprocedure van de inspectie
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs,   artikel 64, § 1, gewijzigd bij het decreet van 19 juli 2013, en artikel 67,   gewijzigd bij het decreet van 19 juli 2013;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 5 februari 2010 tot   uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs   wat de rechtspositie van het personeel van de inspectie en de pedagogische   begeleidingsdiensten betreft;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 5 december   2013;<BR></P>  <P>Gelet op protocol nr. 159 van 10 januari 2014 houdende de conclusies van de   onderhandelingen die werden gevoerd in de gemeenschappelijke vergadering van   Sectorcomité X;<BR></P>  <P>Gelet op advies 55.122/1 van de Raad van State, gegeven op 17 februari 2014,   met toepassing van artikel 84, § 1, eerste lid, 2° van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en   Brussel;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In titel II van het besluit van de Vlaamse Regering van 5 februari 2010   tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van   onderwijs wat de rechtspositie van het personeel van de inspectie en de   pedagogische begeleidingsdiensten betreft, wordt het opschrift van hoofdstuk III   vervangen door wat volgt: <BR>"Hoofdstuk III. De selectie voor het ambt van   inspecteur bij een algemene oproep".<BR>
+
+### ART. 2.
+
+In artikel 4 van hetzelfde besluit worden de volgende wijzigingen   aangebracht:<BR>1° in het eerste en het tweede lid worden de woorden "in het   Belgisch staatsblad" vervangen door de woorden "door Jobpunt Vlaanderen of zijn   rechtsopvolger";<BR>2° in het eerste lid worden de woorden "en per omzendbrief"   opgeheven;<BR>3° in het tweede lid worden de woorden "De kandidaturen moeten als   aangetekende brief verzonden worden" vervangen door de woorden "De kandidaturen   voor de test van de generieke competenties moeten schriftelijk of elektronisch   verzonden worden".<BR>
+
+### ART. 3.
+
+Artikel 6 van hetzelfde besluit wordt opgeheven.<BR>
+
+### ART. 4.
+
+Artikel 8 van hetzelfde besluit wordt vervangen door wat volgt: <BR>"Art.   8. Jobpunt Vlaanderen, of zijn rechtsopvolger, brengt de kandidaten schriftelijk   of elektronisch op de hoogte van de resultaten van de test van de generieke   competenties binnen dertig kalenderdagen na de test van de generieke   competenties.".<BR>
+
+### ART. 5.
+
+&nbsp;In artikel 9 van hetzelfde besluit worden de volgende wijzigingen   aangebracht:<BR>1° het eerste lid wordt vervangen door wat volgt:<BR>"Conform   artikel 65, § 1 van het decreet van 8 mei 2009, ontvangen alle kandidaten uit de   algemene wervingsreserve bij een vacature een schriftelijke of elektronische   oproep, om deel te nemen aan de tweede fase van de selectie.";<BR>2° in het   tweede lid worden de woorden "als aangetekende brief" vervangen door het woord   "schriftelijk of elektronisch".<BR>
+
+### ART. 6.
+
+In artikel 10 van hetzelfde besluit wordt het eerste lid vervangen door   wat volgt: <BR>"De tweede fase bestaat uit een interview en eventueel een   bijkomende test. De resultaten van de bijkomende test sluiten deelnemers die   geen 50% halen uit van verdere deelname aan de selectieprocedure. Het interview   bestaat uit een onderhoud, waaruit moet blijken of de kandidaat voldoet aan het   concrete functieprofiel.".<BR>
+
+### ART. 7.
+
+In artikel 13 van hetzelfde besluit worden tussen de woorden "een bloed-   of aanverwant" en de woorden "is of een relationele band" de woorden "tot en met   de vierde graad" ingevoegd.<BR>
+
+### ART. 8.
+
+<P>In hetzelfde besluit wordt een artikel 13/1 ingevoegd, dat luidt als volgt:   <BR>"Art. 13/1. Om te slagen voor de selectieproef die toegang geeft tot het   ambt van inspecteur, moet de kandidaat geslaagd zijn voor de test van de   generieke competenties, en ten minste 60 procent behalen tijdens de tweede fase   van de selectie, vermeld in artikel 63, § 1, 2° van het decreet van 8 mei 2009.   Als de tweede fase van de selectie bestaat uit zowel een interview als een   bijkomende test, moet op elk onderdeel ten minste 50 procent worden   behaald.".<BR></P>
+
+### ART. 9.
+
+In artikel 14 van hetzelfde besluit worden de volgende wijzigingen   aangebracht:<BR>1° de woorden "De selectiecommissie stelt met een aangetekende   brief de kandidaten in kennis" worden vervangen door de woorden "De   selectiecommissie stelt de kandidaten schriftelijk of elektronisch in   kennis";<BR>2° de woorden "Deze brief" worden vervangen door de woorden "Dit   bericht".<BR>
+
+### ART. 10.
+
+<P>In titel II van hetzelfde besluit wordt een hoofdstuk III/1, dat bestaat uit   artikel 14/1 tot en met 14/4, ingevoegd, dat luidt als volgt:<BR>"Hoofdstuk   III/1. - De selectie voor het ambt van inspecteur bij een profielgerichte   oproep<BR></P>  <P>Art. 14/1. De profielgerichte oproep voor de test van de specifieke en de   generieke competenties, vermeld artikel 65/1, § 1 van het decreet van 8 mei   2009, wordt door Jobpunt Vlaanderen of zijn rechtsopvolger bekendgemaakt en   eveneens gelijktijdig in de geëigende media gepubliceerd. Die bekendmaking   vermeldt naast de inhoudelijke vereisten en de vormvereisten, ook het concrete   functieprofiel van inspecteur waarvoor geworven wordt.<BR></P>  <P>De kandidaturen voor de profielgerichte oproep moeten schriftelijk of   elektronisch verzonden worden naar het adres vermeld in de vacature, dit binnen   de vastgestelde termijn. Die termijn bedraagt ten minste twintig kalenderdagen   na de bekendmaking door Jobpunt Vlaanderen of zijn rechtsopvolger. De   kandidatuur bevat het ingevulde sollicitatieformulier en een portfolio.<BR></P>  <P>Art. 14/2. In afwijking van artikel 9, eerste lid, van dit besluit, kunnen   kandidaten die al deel uitmaken van de algemene wervingsreserve zich ook   kandidaat stellen voor een profielgerichte oproep, maar ze ontvangen daarvoor   geen schriftelijke of elektronische oproep. Ze moeten deelnemen aan de eerste en   aan de tweede fase, vermeld in artikel 65/1, § 2, 1° en 2° van het decreet van 8   mei 2009. Ze zijn vrijgesteld van de test van de generieke competenties.<BR></P>  <P>Art. 14/3. Het portfolio, vermeld in artikel 65/1, § 2, 1° van het decreet   van 8 mei 2009, inventariseert de competenties en kwalificaties die de   kandidaat-inspecteur bezit en bevat alle elementen waarmee de kandidaat zijn   onderwijskundige inzichten heeft uitgebreid en verdiept. Het betreft   competenties die zowel binnen als buiten het onderwijs verworven zijn. Het   portfolio vermeldt bijkomend de specifieke competenties en kwalificaties die   vereist zijn voor het profiel waarvoor geworven wordt.<BR></P>  <P>Art. 14/4. § 1. Om te slagen voor de profielgerichte selectieproef moet de   kandidaat geslaagd zijn voor de drie fases van de selectieprocedure, vermeld in   artikel 65/1, § 2 van het decreet van 8 mei 2009.<BR></P>  <P>§ 2. Als het portfolio dat de kandidaat indient, een positieve beoordeling   krijgt van de screeningscommissie, vermeld in artikel 65/1, § 3 van het decreet   van 8 mei 2009, is de kandidaat geslaagd voor de eerste fase van de   selectieprocedure. <BR></P>  <P>Alleen de kandidaten van wie het portfolio positief is beoordeeld, kunnen   deelnemen aan het vervolg van de selectieprocedure.<BR></P>  <P>Na afloop van de eerste fase, brengt de screeningscommissie, vermeld in   artikel 65/1, § 3, eerste lid, van het decreet van 8 mei 2009, de kandidaten   schriftelijk of elektronisch op de hoogte van haar beslissing binnen dertig   kalenderdagen nadat het portfolio ingediend moest worden.<BR></P>  <P>De kandidaten die geslaagd zijn voor de eerste fase van de selectieprocedure   ontvangen een schriftelijke of elektronische uitnodiging om deel te nemen aan de   tweede fase van de selectieprocedure.<BR></P>  <P>§ 3. Om te slagen voor de tweede fase van de selectieprocedure, moet de   kandidaat ten minste 60 procent behalen op het interview, vermeld in artikel   65/1, § 2, 2° van het decreet van 8 mei 2009. Als de tweede fase van de selectie   zowel uit een interview als uit een bijkomende test bestaat, moet de kandidaat   op elk onderdeel ten minste 50 procent behalen. Alleen de kandidaten die   geslaagd zijn voor de tweede fase, kunnen deelnemen aan het vervolg van de   selectieprocedure. Voor het verloop van het interview zijn artikel 10 tot en met   13 van dit besluit van toepassing. De commissie stelt een rangschikking op van   de geslaagde kandidaten. <BR></P>  <P>Na afloop van de tweede fase, brengt de selectiecommissie, vermeld in artikel   65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de kandidaten binnen   dertig kalenderdagen schriftelijk of elektronisch op de hoogte van de resultaten   van de tweede fase van de selectieprocedure. De kandidaten die slagen voor de   tweede fase van de selectieprocedure ontvangen een uitnodiging om deel te nemen   aan de derde fase van de selectieprocedure. <BR></P>  <P>§ 4. Om te slagen voor de derde fase van de selectieprocedure, moet de   kandidaat geslaagd zijn voor de test van de generieke competenties. De generieke   competenties voor het ambt van inspecteur zijn de competenties, vermeld in   artikel 7 van dit besluit.<BR></P>  <P>Na afloop van de derde fase, brengt de selectiecommissie, vermeld in artikel   65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de kandidaten   schriftelijk of elektronisch op de hoogte van de resultaten van de derde fase   van de selectieprocedure binnen dertig kalenderdagen na afloop van de test van   de generieke competenties. Die schriftelijke melding bevat ook de uiteindelijke   rangschikking van de kandidaat. <BR></P>  <P>De rangschikking is dezelfde als de rangschikking die is vastgelegd op het   einde van de tweede fase van de selectieprocedure, maar bevat alleen de   kandidaten die ook geslaagd zijn voor de test van de generieke   competenties.".<BR></P>
+
+### ART. 11.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2013.   <BR>
+
+### ART. 12.
+
+De Vlaamse minister bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
