@@ -2,16 +2,16 @@
   "codex_id": 1013468,
   "title": "Decreet van 2004-04-30 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013468/VolledigDocument?datum=2013-07-01",
-  "source_sha256": "fc06c5101d99f11460d04d4408232becb57ecd666d0776a5721e4156e19597be",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013468/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "5e2c74fad155e5c97b25e5058c7d8a328a770dcd4c75eabb34e6f78958d7705d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013468&param=informatie",
-  "as_of": "2013-07-01",
+  "as_of": "2013-09-01",
   "made": "2004-04-30",
   "gazette": "2004-10-12",
   "numac": 2004036500,
   "document_start": null,
   "document_end": "2013-09-30",
-  "in_force": "2013-07-01",
-  "article_versions": 121,
-  "record_form": "consolidated version as in force on 2013-07-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-09-01",
+  "article_versions": 122,
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
