@@ -651,7 +651,7 @@ Overgangsbepaling technische eisen meetapparatuur<br /><br />De technische eisen
 
 ### ART. 40.
 
-Dossierrecht.<br /><br />§ 1. Een dossierrecht, waarvan de opbrengst rechtstreeks en integraal in het Fonds voor de controle op de uitvoerende taken van de technici op het veld wordt gestort, wordt geheven ten laste van elke technicus (vloeibare brandstof, gasvormige brandstof) die een erkenning wenst te verkrijgen overeenkomstig de bepalingen van het besluit van de Vlaamse Regering van 19 november 2010 tot vaststelling van het Vlaams reglement inzake erkenningen met betrekking tot het leefmilieu.<br /><br />§ 2. Het dossierrecht voor een erkenning als technicus vloeibare brandstof of als technicus gasvormige brandstof niveau G1 bedraagt 100 euro. Voor de uitbreidingsmodules G2 en G3 bedraagt het dossierrecht 25 euro per module.<br /><br />§ 3. ...<br /><br />§ 4. ...<br />
+<P>...</P>
 
 ## HOOFDSTUK VIII Wijzigingsbepalingen titel II van het Vlarem
 
