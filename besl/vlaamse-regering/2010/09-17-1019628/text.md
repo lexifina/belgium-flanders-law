@@ -22,7 +22,7 @@ Met behoud van de toepassing van artikel 16bis van het besluit Modulering en Cri
 
 ### ART. 5.
 
-<P>De rechtstreeks toegankelijke jeugdhulpverlening die wordt verleend door   voorzieningen die ondersteuning aanbieden in residentieel of semi-residentieel   verband, kan door het agentschap binnen de maximaal subsidiabele bezetting   waarvoor de voorziening erkend is, gesubsidieerd worden overeenkomstig de   subsidiereglementering die van toepassing is voor de voorziening in kwestie.   <BR><BR>De voorwaarden voor de subsidiëring zijn de volgende : <BR>1° de   voorziening maakt deel uit van een netwerk rechtstreeks toegankelijke jeugdhulp,   als vermeld in hoofdstuk VI, afdeling 1, van het decreet integrale   jeugdhulp;<BR>2° de personen aan wie rechtstreeks toegankelijke jeugdhulp wordt   verleend, beantwoorden aan de doelgroep die gespecifieerd is in de modules die   door de voorziening werden beschreven ter uitvoering van artikel 5 van het   besluit modulering en crisishulpverlening.</P>
+<P>...</P>
 
 ### ART. 6.
 
