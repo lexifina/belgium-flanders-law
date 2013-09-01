@@ -26,7 +26,7 @@ Een RTC neemt concrete initiatieven inzake :<br />1° de onderlinge afstemming t
 
 ### ART. 5.
 
-De Vlaamse Regering houdt toezicht op de RTC via gerichte procescontrole die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit decreet en de beheersovereenkomst zoals bedoeld in artikel 4. Deze procescontrole zal na twee werkingsjaren worden geëvalueerd.<br />
+De Vlaamse Regering houdt toezicht op de RTC via gerichte procescontrole   die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit   decreet en de beheersovereenkomst zoals bedoeld in artikel 4.
 
 ## Afdeling II Financiële bijdrage van de Vlaamse Gemeenschap
 
@@ -52,7 +52,7 @@ Naast de financiële bijdragen van de Vlaamse Gemeenschap als bedoeld in artikel
 
 ### ART. 9.
 
-De Vlaamse Regering evalueert de werking van de RTC's en brengt daarvan ten minste zes maanden vóór het verstrijken van elke beheersovereenkomst verslag uit aan het Vlaams Parlement.<br /><br />
+De Vlaamse Regering evalueert de werking van de RTC's en brengt daarvan   ten minste één jaar vóór het verstrijken van elke beheersovereenkomst verslag   uit aan het Vlaams Parlement.<BR><BR>
 
 ## HOOFDSTUK VI Rapporteringsverplichting
 
