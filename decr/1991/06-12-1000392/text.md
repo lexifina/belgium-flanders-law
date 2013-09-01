@@ -320,7 +320,7 @@ De bepalingen van dit hoofdstuk zijn van toepassing op het academisch personeel 
 
 ### ART. 64.
 
-Bij het zelfstandig academisch personeel bestaan de volgende graden: docent, hoofddocent, hoog-leraar, gewoon hoogleraar en buitengewoon hoogleraar. De graad van buitengewoon hoogleraar is deze van het lid van het zelfstandig academisch personeel dat een deeltijdse opdracht uitoefent in een functie van hetzelfde niveau als die van gewoon hoogleraar. <br /><br />Binnen de formatie van het zelfstandig academisch personeel kunnen de universiteiten docenten aanstellen in het tenure trackstelsel, waarvan de aanstellings- en benoemingsvoorwaarden worden beschreven in artikel 91bis.<br /><br />Bij het assisterend academisch personeel bestaan de volgende graden: assistent en doctor-assistent.
+Bij het zelfstandig academisch personeel bestaan de volgende graden:   docent, hoofddocent, hoog-leraar, gewoon hoogleraar en buitengewoon hoogleraar.   De graad van buitengewoon hoogleraar is deze van het lid van het zelfstandig   academisch personeel dat een deeltijdse opdracht uitoefent in een functie van   hetzelfde niveau als die van gewoon hoogleraar. <BR><BR>Binnen de formatie van   het zelfstandig academisch personeel kunnen de universiteiten docenten   aanstellen in het tenure trackstelsel, waarvan de aanstellings- en   benoemingsvoorwaarden worden beschreven in artikel 91bis.<BR><BR>Bij het   assisterend academisch personeel bestaan de volgende graden: assistent,   praktijkassistent&nbsp;en doctor-assistent.
 
 ### ART. 65.
 
@@ -336,7 +336,7 @@ Assistenten hebben tot opdracht zich verder te bekwamen in de wetenschappen. Beh
 
 ### ART. 68.
 
-Binnen de formatie van het assisterend academisch personeel kunnen de universiteiten assistenten in een voltijds of deeltijds dienstverband aanstellen die uitsluitend belast zijn met taken van praktijkgebonden onderwijs. Het universiteitsbestuur geeft deze personeelsleden de titel van praktijkassistent of praktijklector. [ <span class="reference">(verv. decr. 18 mei 1999, art. III 4, I: 1 oktober 1999)</span> ]
+Praktijkassistenten zijn in hoofdzaak belast met taken van   praktijkgebonden onderwijs.
 
 ### ART. 69.
 
@@ -360,7 +360,7 @@ Het universiteitsbestuur bepaalt bij de vacantverklaring van een opdracht of die
 
 ### ART. 74.
 
-De leden van het academisch personeel met een voltijdse opdracht mogen geen andere beroepsac-tiviteit of een andere bezoldigde activiteit uitoefenen dan met toestemming van het universiteitsbestuur.<br /><br />Het universiteitsbestuur stelt jaarlijks de naamlijst op van de voltijdse en van de deeltijdse leden van het academisch personeel die tenminste een halftijdse opdracht uitoefenen, en die andere bezoldigde of onbezoldigde activiteiten uitoefenen die verenigbaar worden geacht met hun opdracht aan de universiteit.<br /><br />De aard en de omvang van die externe activiteiten, evenals de omvang van hun opdracht aan de universiteit, worden in een tabel aangegeven tegenover de naam van ieder personeelslid. Het universiteitsbestuur maakt deze lijst openbaar in de universiteit en deelt ze via de commissaris van de Vlaamse regering mee aan de Vlaamse regering.<br /><br />De opdrachten van de leden van het academisch personeel toegewezen krachtens de artikelen 79, 80 en 125 van dit decreet dienen op deze lijst niet vermeld te worden. (verv. decr. 27 januari 1993, art. 24, I: 1 oktober 1993)]
+De leden van het academisch personeel met een voltijdse opdracht mogen   geen andere beroepsac-tiviteit of een andere bezoldigde activiteit uitoefenen   dan met toestemming van het universiteitsbestuur.<BR><BR>Het   universiteitsbestuur stelt jaarlijks de naamlijst op van de voltijdse en van de   deeltijdse leden van het academisch personeel die tenminste een halftijdse   opdracht uitoefenen, en die andere bezoldigde of onbezoldigde activiteiten   uitoefenen die verenigbaar worden geacht met hun opdracht aan de   universiteit.<BR><BR>De aard en de omvang van die externe activiteiten, evenals   de omvang van hun opdracht aan de universiteit, worden in een tabel aangegeven   tegenover de naam van ieder personeelslid. Het universiteitsbestuur maakt deze   lijst openbaar in de universiteit.<BR><BR>De opdrachten van de leden van het   academisch personeel toegewezen krachtens de artikelen 79, 80 en 125 van dit   decreet dienen op deze lijst niet vermeld te worden. (verv. decr. 27 januari   1993, art. 24, I: 1 oktober 1993)]
 
 ### ART. 75.
 
@@ -442,7 +442,7 @@ Behoudens het bepaalde in de artikelen 93 en 94 en behoudens bij vervangingsover
 
 ### ART. 93.
 
-De in artikel 68 bedoelde praktijkassistenten kunnen voor hernieuwbare termijnen van minimum één en maximum vijf jaar worden aangesteld. Deze minimumtermijn geldt niet voor plaatsvervangingen van de titularis.
+<P>Voltijdse en deeltijdse praktijkassistenten worden aangesteld voor een   periode van maximum vijf jaar. Opeenvolgende aanstellingen van voltijdse   praktijkassistenten mogen de totale duur van vijf opeenvolgende jaren niet   overschrijden. Aanstellingen van deeltijdse praktijkassistenten zijn onbeperkt   hernieuwbaar.</P>
 
 ### ART. 94.
 
@@ -452,7 +452,7 @@ Doctor-assistenten worden aangesteld voor maximaal twee termijnen van ten hoogst
 
 ### ART. 95.
 
-De Vlaamse regering bepaalt de salarisschalen van de leden van het assisterend academisch personeel.<br /><br />Het universiteitsbestuur schaalt de leden van het assisterend academisch personeel bij een [ <span class="reference">(verv. decr. 18 mei 1999, art. III 13, I: 1 oktober 1999)</span> ] [...  <span class="reference">(geschr. decr. 20 april 2001, art. 50, I: 1 oktober 1999)</span> ]  aanstelling in de overeenstemmende salarisschaal in, rekening houdend, geheel of gedeeltelijk, met de verworven ervaring, de doorlopen beroepscarrière en de verworven kwalificaties.<br /><br />Het salaris van een deeltijds assisterend academisch personeelslid is een evenredig deel van het salaris van een voltijds assisterend academisch personeelslid. Bij de uitbreiding van een deeltijdse naar een voltijdse aanstelling kan de inschalingsanciënniteit worden heroverwogen indien het betrokken personeelslid tijdens de deeltijdse aanstelling nieuwe beroepservaring verworven heeft. De heroverweging van de inschalingsanciënniteit moet uitdrukkelijk en grondig gemotiveerd zijn. [ <span class="reference">(ing. decr. 19 maart 2004, art. V.87, I: 1 oktober 1999)</span> ]<br /><br />De anciënniteitsopbouw in een salarisschaal is gelijk aan de nominale aanstellingsduur, ongeacht de omvang van het dienstverband. [ <span class="reference">(verv. decr. 18 mei 1999, art. III 13, I: 1 oktober 1999)</span> ]
+De Vlaamse regering bepaalt de salarisschalen van de leden van het   assisterend academisch personeel. De salarisschaal van praktijkassistenten is   dezelfde als deze van assistenten.<BR><BR>Het universiteitsbestuur schaalt de   leden van het assisterend academisch personeel bij een&nbsp;aanstelling in de   overeenstemmende salarisschaal in, rekening houdend, geheel of gedeeltelijk, met   de verworven ervaring, de doorlopen beroepscarrière en de verworven   kwalificaties.<BR><BR>Het salaris van een deeltijds assisterend academisch   personeelslid is een evenredig deel van het salaris van een voltijds assisterend   academisch personeelslid. Bij de uitbreiding van een deeltijdse naar een   voltijdse aanstelling kan de inschalingsanciënniteit worden heroverwogen indien   het betrokken personeelslid tijdens de deeltijdse aanstelling nieuwe   beroepservaring verworven heeft. De heroverweging van de inschalingsanciënniteit   moet uitdrukkelijk en grondig gemotiveerd zijn. <BR><BR>De anciënniteitsopbouw   in een salarisschaal is gelijk aan de nominale aanstellingsduur, ongeacht de   omvang van het dienstverband.
 
 ### ART. 96.
 
@@ -548,6 +548,10 @@ Onder werving wordt verstaan het aantrekken van personeelsleden na een openbare 
 
 Een universiteit kan een vacante betrekking in het administratief en technisch personeel ook invullen via de overname van een benoemd lid van het administratief en technisch personeel van een andere universiteit. Het overgenomen personeelslid behoudt bij de overname de salarisschaal en anciënniteit die het genoot aan de universiteit waar het benoemd was, tenzij de overnemende universiteit het personeelslid in een hogere salaristrap of salarisschaal inschaalt.<br /><br />De overname van een benoemd personeelslid is niet mogelijk zonder de instemming van het betrokken personeelslid.
 
+### ART. 113bis.
+
+In afwijking van de voorwaarden, vermeld in artikel 112, kan het   universiteitsbestuur een voltijdse praktijkassistent die op 1 oktober 2013 vijf   jaar of langer aangesteld is als praktijkassistent na afloop van de   aanstellingstermijn zonder openbare vacature rangschikken in een graad van het   administratief en technisch personeel ten laste van de werkingsuitkeringen van   de Vlaamse Gemeenschap.
+
 ### ART. 114.
 
 Onder bevordering wordt verstaan de benoeming of aanstelling in een functie van een hogere graad na interne bekendmaking en na het met succes doorlopen van de door het universiteitsbestuur vastgelegde selectieprocedure.<br /><br />In afwijking van het eerste lid kan een bevordering in een functie van de onmiddellijk hogere graad en van de daaropvolgende graad plaatsvinden zonder interne bekendmaking en zonder selectie indien dit gebeurt in het kader van een vooraf door het universiteitsbestuur bepaalde loopbaanplanning en binnen de perken van de personeelsformatie. Deze afwijking geldt enkel voor de zeer goed functionerende en presterende personeelsleden. De bevordering moet afdoende gemotiveerd worden op basis van een evaluatie van de door de betrokkene geleverde prestaties.<br /><br />Een eerste bevordering in een leidinggevende functie vindt steeds plaats na interne bekendmaking en selectie. [ <span class="reference">(verv. decr. 18 mei 1999, art. III 26, I: 1 oktober 1999)</span> ]
@@ -628,7 +632,7 @@ De rechtspositieregeling, zoals vastgelegd bij of krachtens het Hogescholendecre
 
 ### ART. 121septies.
 
-Het universiteitsbestuur kan een mandaat, vermeld in artikel 2, 37°, van het Hogescholendecreet, of een mandaat van departementshoofd of bibliothecaris, vermeld in artikel 109 en 110 van het Hogescholendecreet, toegekend aan een personeelslid in het integratiekader voor de integratie in de universiteit, vroegtijdig stopzetten als de bijzondere opdracht of de functie van departementshoofd of bibliothecaris binnen de universiteit zonder voorwerp is.<br /><br />Met behoud van de toepassing van artikel 136, § 3, artikel 158, § 3, en artikel 158ter, tweede lid, van het Hogescholendecreet, vervallen in dat geval, vanaf de datum van de beslissing, de mandaatsvergoeding of de niet-verworven salarisschaal, verbonden aan het mandaat.
+§1. Het universiteitsbestuur kan een mandaat, vermeld in artikel 2, 37°,   van het Hogescholendecreet, of een mandaat van departementshoofd, vermeld in   artikel 109&nbsp;van het Hogescholendecreet, toegekend aan een personeelslid in   het integratiekader voor de integratie in de universiteit, vroegtijdig   stopzetten als de bijzondere opdracht of de functie van   departementshoofd&nbsp;binnen de universiteit zonder voorwerp is.<BR><BR>Met   behoud van de toepassing van artikel 136, § 3, artikel 158, § 3, en artikel   158ter, tweede lid, van het Hogescholendecreet, vervallen in dat geval, vanaf de   datum van de beslissing, de mandaatsvergoeding of de niet-verworven   salarisschaal, verbonden aan het mandaat.<BR><BR>§ 2. In afwijking van paragraaf   1 worden de personeelsleden die voor de integratie belast waren met het mandaat   van algemeen directeur en die na de integratie opgenomen zijn in het   integratiekader van een universiteit, definitief ingeschaald in de salarisschaal   van gewoon hoogleraar. De betrokken personeelsleden verliezen wel de bevoegdheid   van algemeen directeur en kunnen evenmin deze titel nog dragen.<BR><BR>In   afwijking van paragraaf 1 verwerft een personeelslid dat voor de integratie   belast was met het mandaat van bibliothecaris, en dat na de integratie opgenomen   is in het integratiekader van een universiteit, definitief de salarisschaal,   vermeld in artikel 136, § 1, van het decreet van 13 juli 1994 betreffende de   hogescholen in de Vlaamse Gemeenschap.
 
 ### ART. 121octies.
 
@@ -636,7 +640,7 @@ Een universiteit kan in het integratiekader geen nieuwe personeelsleden aanstell
 
 ### ART. 121novies.
 
-Statutair tijdelijk aangestelde lectoren in het integratiekader, met een dienstanciënniteit van 10 jaar in de hogescholen op 30 september 2013, berekend overeenkomstig artikel 98 van het Hogescholendecreet, worden door de universiteit bij een gunstige evaluatie benoemd in het ambt van assistent in het integratiekader.
+Statutair tijdelijk aangestelde lectoren en praktijkassistenten in het   integratiekader, met een dienstanciënniteit van tien jaar op 30 september 2013,   worden door de universiteit bij een gunstige evaluatie benoemd in het ambt van   lector in het integratiekader. Voor de berekening van de vereiste   dienstanciënniteit worden de diensten meegenomen, vermeld in artikel 98 van het   Hogescholendecreet, en de werkelijke diensten die het personeelslid in een   contractueel dienstverband gepresteerd heeft in de hogeschool.
 
 ### ART. 121decies.
 
@@ -1250,7 +1254,7 @@ Behoudens de gevallen van dringende noodzakelijkheid die hij aanvaardt, ontvangt
 
 ### ART. 177.
 
-Tegen elke beslissing van het universiteitsbestuur die hij respectievelijk strijdig acht met het bij of krachtens de wet of decreet bepaalde of het financieel evenwicht van de universiteit in gevaar brengt, dient de commissaris van de Vlaamse regering beroep in bij de Vlaamse regering.<br /><br />Dit beroep wordt met redenen omkleed. Het wordt uitgeoefend binnen vijf vrije dagen die volgen op de ontvangst door de commissaris van het afschrift van de beslissing.<br /><br />Van dit beroep wordt binnen dezelfde termijn kennis gegeven aan het universiteitsbestuur. De uitvoering van de beslissing wordt door het beroep geschorst.
+Tegen elke beslissing van het universiteitsbestuur die hij respectievelijk   strijdig acht met het bij of krachtens de wet of decreet bepaalde of het   financieel evenwicht van de universiteit in gevaar brengt, dient de commissaris   van de Vlaamse regering beroep in bij de Vlaamse regering.<BR><BR>Dit beroep   wordt met redenen omkleed. De commissarissen oefenen dit beroep uit binnen zeven   kalenderdagen. Deze termijn begint te lopen na de dag van ontvangst van de   beslissing door de commissaris.<BR><BR>Van dit beroep wordt binnen dezelfde   termijn kennis gegeven aan het universiteitsbestuur. De uitvoering van de   beslissing wordt door het beroep geschorst.
 
 ### ART. 178.
 
