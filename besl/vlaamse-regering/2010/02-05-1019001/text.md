@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder : <br />1° het decreet van 8 mei 2009 : het
 
 ### ART. 4.
 
-De oproep voor de test van de generieke competenties wordt, overeenkomstig artikel 64, § 1 van het decreet van 8 mei 2009, in het Belgisch Staatsblad bekendgemaakt en wordt eveneens gelijktijdig in de geëigende media en per omzendbrief bekendgemaakt. Die bekendmaking vermeldt naast de inhoudelijke en vormvereisten, vermeld in artikel 64, § 1 van voormeld decreet, ook het algemeen functieprofiel van inspecteur.<br /><br />De kandidaturen moeten als aangetekende brief verzonden worden naar het adres, vermeld in de vacature, dit binnen de vastgestelde termijn. Die termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking in het Belgisch Staatsblad.
+De oproep voor de test van de generieke competenties wordt, overeenkomstig   artikel 64, § 1 van het decreet van 8 mei 2009, door Jobpunt Vlaanderen of zijn   rechtsopvolger bekendgemaakt en wordt eveneens gelijktijdig in de geëigende   media bekendgemaakt. Die bekendmaking vermeldt naast de inhoudelijke en   vormvereisten, vermeld in artikel 64, § 1 van voormeld decreet, ook het algemeen   functieprofiel van inspecteur.<BR><BR>De kandidaturen voor de test van de   generieke competenties moeten schriftelijk of elektronisch verzonden worden naar   het adres, vermeld in de vacature, dit binnen de vastgestelde termijn. Die   termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking door   Jobpunt Vlaanderen of zijn rechtsopvolger.
 
 ### ART. 5.
 
@@ -36,7 +36,7 @@ Het competentieportfolio, vermeld in artikel 64, § 2 van het decreet van 8 mei 
 
 ### ART. 6.
 
-Om te slagen voor de selectieproef die toegang geeft tot het ambt van inspecteur, moet de kandidaat geslaagd zijn voor de test van de generieke competenties, en ten minste 60 procent behalen tijdens de tweede fase van de selectie, vermeld in artikel 63, 2° van het decreet van 8 mei 2009. Indien de tweede fase van de selectie bestaat uit zowel een interview als bijkomende testen, moet op elk onderdeel ten minste 50 procent worden behaald.
+<P>...</P>
 
 ### ART. 7.
 
@@ -44,15 +44,15 @@ De generieke competenties voor het ambt van inspecteur zijn : <br />1° kritisch
 
 ### ART. 8.
 
-Jobpunt Vlaanderen, of zijn rechtsopvolger, stelt de kandidaten in kennis van de resultaten van de test van de generieke competenties met een aangetekende brief binnen dertig kalenderdagen na de test van de generieke competenties.
+Jobpunt Vlaanderen, of zijn rechtsopvolger, brengt de kandidaten   schriftelijk of elektronisch op de hoogte van de resultaten van de test van de   generieke competenties binnen dertig kalenderdagen na de test van de generieke   competenties.
 
 ### ART. 9.
 
-Alle kandidaten uit de algemene wervingsreserve ontvangen bij een vacature een oproep, conform artikel 65, § 1 van het decreet van 8 mei 2009, per aangetekende brief om deel te nemen aan de tweede fase van de selectie. <br /><br />De kandidaturen voor de tweede fase van de selectieprocedure moeten als aangetekende brief verzonden worden binnen een termijn van ten minste twintig kalenderdagen na de schriftelijke oproep.
+Conform artikel 65, § 1 van het decreet van 8 mei 2009, ontvangen alle   kandidaten uit de algemene wervingsreserve bij een vacature een schriftelijke of   elektronische oproep, om deel te nemen aan de tweede fase van de selectie.   <BR><BR>De kandidaturen voor de tweede fase van de selectieprocedure moeten   schriftelijk of elektronisch verzonden worden binnen een termijn van ten minste   twintig kalenderdagen na de schriftelijke oproep.
 
 ### ART. 10.
 
-Het interview bestaat uit een onderhoud waaruit moet blijken of de kandidaat voldoet aan het concrete functieprofiel. <br /><br />De kandidaat stelt tijdens het interview zijn competentieportfolio voor.
+De tweede fase bestaat uit een interview en eventueel een bijkomende test.   De resultaten van de bijkomende test sluiten deelnemers die geen 50% halen uit   van verdere deelname aan de selectieprocedure. Het interview bestaat uit een   onderhoud, waaruit moet blijken of de kandidaat voldoet aan het concrete   functieprofiel. <BR><BR>De kandidaat stelt tijdens het interview zijn   competentieportfolio voor.
 
 ### ART. 11.
 
@@ -64,13 +64,33 @@ De selectiecommissie beraadslaagt geldig als ten minste twee derde van de leden 
 
 ### ART. 13.
 
-Een persoon die de echtgenoot, een bloed- of aanverwant is of een relationele band heeft met een kandidaat mag geen deel uitmaken van de selectiecommissie.
+Een persoon die de echtgenoot, een bloed- of aanverwant tot en met de   vierde graad&nbsp;is of een relationele band heeft met een kandidaat mag geen   deel uitmaken van de selectiecommissie.
+
+### ART. 13/1.
+
+Om te slagen voor de selectieproef die toegang geeft tot het ambt van   inspecteur, moet de kandidaat geslaagd zijn voor de test van de generieke   competenties, en ten minste 60 procent behalen tijdens de tweede fase van de   selectie, vermeld in artikel 63, § 1, 2° van het decreet van 8 mei 2009. Als de   tweede fase van de selectie bestaat uit zowel een interview als een bijkomende   test, moet op elk onderdeel ten minste 50 procent worden behaald.
 
 ### ART. 14.
 
 De selectiecommissie stelt met een aangetekende brief de kandidaten in kennis van de resultaten van de tweede fase van de selectieprocedure binnen dertig kalenderdagen na de beraadslaging, vermeld in artikel 12. Deze brief vermeldt eveneens de rangschikking van de kandidaat.
 
 ## [HOOFDSTUK III/1. ... (opgeh. BVR 5 april 2019, art. 3, I: 15 april 2019)]
+
+### ART. 14/1.
+
+De profielgerichte oproep voor de test van de specifieke en de generieke   competenties, vermeld artikel 65/1, § 1 van het decreet van 8 mei 2009, wordt   door Jobpunt Vlaanderen of zijn rechtsopvolger bekendgemaakt en eveneens   gelijktijdig in de geëigende media gepubliceerd. Die bekendmaking vermeldt naast   de inhoudelijke vereisten en de vormvereisten, ook het concrete functieprofiel   van inspecteur waarvoor geworven wordt.<BR><BR>De kandidaturen voor de   profielgerichte oproep moeten schriftelijk of elektronisch verzonden worden naar   het adres vermeld in de vacature, dit binnen de vastgestelde termijn. Die   termijn bedraagt ten minste twintig kalenderdagen na de bekendmaking door   Jobpunt Vlaanderen of zijn rechtsopvolger. De kandidatuur bevat het ingevulde   sollicitatieformulier en een portfolio.
+
+### ART. 14/2.
+
+In afwijking van artikel 9, eerste lid, van dit besluit, kunnen kandidaten   die al deel uitmaken van de algemene wervingsreserve zich ook kandidaat stellen   voor een profielgerichte oproep, maar ze ontvangen daarvoor geen schriftelijke   of elektronische oproep. Ze moeten deelnemen aan de eerste en aan de tweede   fase, vermeld in artikel 65/1, § 2, 1° en 2° van het decreet van 8 mei 2009. Ze   zijn vrijgesteld van de test van de generieke competenties.
+
+### ART. 14/3.
+
+Het portfolio, vermeld in artikel 65/1, § 2, 1° van het decreet van 8 mei   2009, inventariseert de competenties en kwalificaties die de   kandidaat-inspecteur bezit en bevat alle elementen waarmee de kandidaat zijn   onderwijskundige inzichten heeft uitgebreid en verdiept. Het betreft   competenties die zowel binnen als buiten het onderwijs verworven zijn. Het   portfolio vermeldt bijkomend de specifieke competenties en kwalificaties die   vereist zijn voor het profiel waarvoor geworven wordt.
+
+### ART. 14/4.
+
+§ 1. Om te slagen voor de profielgerichte selectieproef moet de kandidaat   geslaagd zijn voor de drie fases van de selectieprocedure, vermeld in artikel   65/1, § 2 van het decreet van 8 mei 2009.<BR><BR>§ 2. Als het portfolio dat de   kandidaat indient, een positieve beoordeling krijgt van de screeningscommissie,   vermeld in artikel 65/1, § 3 van het decreet van 8 mei 2009, is de kandidaat   geslaagd voor de eerste fase van de selectieprocedure. <BR><BR>Alleen de   kandidaten van wie het portfolio positief is beoordeeld, kunnen deelnemen aan   het vervolg van de selectieprocedure.<BR><BR>Na afloop van de eerste fase,   brengt de screeningscommissie, vermeld in artikel 65/1, § 3, eerste lid, van het   decreet van 8 mei 2009, de kandidaten schriftelijk of elektronisch op de hoogte   van haar beslissing binnen dertig kalenderdagen nadat het portfolio ingediend   moest worden.<BR><BR>De kandidaten die geslaagd zijn voor de eerste fase van de   selectieprocedure ontvangen een schriftelijke of elektronische uitnodiging om   deel te nemen aan de tweede fase van de selectieprocedure.<BR><BR>§ 3. Om te   slagen voor de tweede fase van de selectieprocedure, moet de kandidaat ten   minste 60 procent behalen op het interview, vermeld in artikel 65/1, § 2, 2° van   het decreet van 8 mei 2009. Als de tweede fase van de selectie zowel uit een   interview als uit een bijkomende test bestaat, moet de kandidaat op elk   onderdeel ten minste 50 procent behalen. Alleen de kandidaten die geslaagd zijn   voor de tweede fase, kunnen deelnemen aan het vervolg van de selectieprocedure.   Voor het verloop van het interview zijn artikel 10 tot en met 13 van dit besluit   van toepassing. De commissie stelt een rangschikking op van de geslaagde   kandidaten. <BR><BR>Na afloop van de tweede fase, brengt de selectiecommissie,   vermeld in artikel 65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de   kandidaten binnen dertig kalenderdagen schriftelijk of elektronisch op de hoogte   van de resultaten van de tweede fase van de selectieprocedure. De kandidaten die   slagen voor de tweede fase van de selectieprocedure ontvangen een uitnodiging om   deel te nemen aan de derde fase van de selectieprocedure. <BR><BR>§ 4. Om te   slagen voor de derde fase van de selectieprocedure, moet de kandidaat geslaagd   zijn voor de test van de generieke competenties. De generieke competenties voor   het ambt van inspecteur zijn de competenties, vermeld in artikel 7 van dit   besluit.<BR><BR>Na afloop van de derde fase, brengt de selectiecommissie,   vermeld in artikel 65/1, § 3, tweede lid, van het decreet van 8 mei 2009, de   kandidaten schriftelijk of elektronisch op de hoogte van de resultaten van de   derde fase van de selectieprocedure binnen dertig kalenderdagen na afloop van de   test van de generieke competenties. Die schriftelijke melding bevat ook de   uiteindelijke rangschikking van de kandidaat. <BR><BR>De rangschikking is   dezelfde als de rangschikking die is vastgelegd op het einde van de tweede fase   van de selectieprocedure, maar bevat alleen de kandidaten die ook geslaagd zijn   voor de test van de generieke competenties.
 
 ## [HOOFDSTUK IV. ... (opgeh. BVR 5 april 2019, art. 3, I: 15 april 2019)]
 
