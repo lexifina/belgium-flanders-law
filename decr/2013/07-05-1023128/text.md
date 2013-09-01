@@ -10,9 +10,33 @@ Dit decreet regelt een gemeenschaps- en   gewestaangelegenheid.
 
 ## Afdeling 1. Basisonderwijs
 
+### ART. 2.
+
+In artikel 112bis van het decreet basisonderwijs van 25 februari 1997,   ingevoegd bij het decreet van 8 mei 2009 en gewijzigd bij het decreet van 29   juni 2012, worden de jaartallen « , 2010-2011, 2011-2012 en 2012-2013 »   vervangen door de jaartallen « , 2010-2011, 2011-2012, 2012-2013 en 2013-2014   ».
+
+### ART. 3.
+
+In artikel 155, § 2, van hetzelfde decreet, ingevoegd bij het decreet van   7 juli 2006 en gewijzigd bij de decreten van 4 juli 2008, 8 mei 2009 en 29 juni   2012, wordt in het eerste lid de zinsnede « voor het schooljaar 2012-2013 »   vervangen door de zinsnede « voor het schooljaar 2013-2014 ».
+
 ## Afdeling 2. Secundair onderwijs
 
+### ART. 4.
+
+In artikel 290 van de Codex Secundair Onderwijs, gewijzigd bij het decreet   van 29 juni 2012, worden de jaartallen « , 2010-2011, 2011-2012 en 2012-2013 »   telkens vervangen door de jaartallen « , 2010-2011, 2011-2012, 2012-2013 en   2013-2014 ».
+
+### ART. 5.
+
+In artikel 304, § 4, van dezelfde codex wordt in het eerste lid de   zinsnede « voor het schooljaar 2012-2013 » vervangen door de zinsnede « voor het   schooljaar 2013-2014 ».
+
+### ART. 6.
+
+In artikel 312, § 4, van dezelfde codex wordt in het eerste lid de   zinsnede « voor het schooljaar 2012-2013 » vervangen door de zinsnede « voor het   schooljaar 2013-2014 ».
+
 ## Afdeling 3. Begrotingsfonds Dienstverlening AKOV
+
+### ART. 7.
+
+<P>Aan artikel 26, § 3, van het decreet van 21 december 2012 houdende bepalingen   tot begeleiding van de begroting 2013 wordt een punt 3° toegevoegd, dat luidt   als volgt :<BR></P>  <P>« 3° de financiële bijdragen m.b.t. de erkenning van de gelijkwaardigheid en   de niveaugelijkwaardigheid van buitenlandse studiebewijzen zoals vermeld in   artikel 57ter van het decreet basisonderwijs van 25 februari 1997, in artikel   115/3 van de codex Secundair Onderwijs, in artikelen 74ter en 84ter van het   decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de   Vlaamse Gemeenschap, in artikel 41ter van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs en in artikel 88 van het decreet van 4   april 2003 betreffende de herstructurering van het hoger onderwijs in   Vlaanderen, gewijzigd bij de decreten van 19 maart 2004 en 1 juli 2011.   ».</P>
 
 ## Afdeling 4. Uitvoering raamakkoord van 23 november 2012 betreffende besparing op personeels(gerelateerde) kredieten
 
@@ -29,6 +53,10 @@ In artikel 35, § 1, 2°, van het decreet van 14 maart 2008 betreffende de   fin
 <P>Aan artikel 3 van het decreet van 20 februari 2009 betreffende de Hogere   Zeevaartschool wordt een paragraaf 4 toegevoegd, die luidt als volgt :<BR></P>  <P>« § 4. Voor het begrotingsjaar 2013 wordt de totale werkingsuitkering van de   Hogere Zeevaartschool, berekend overeenkomstig de bepalingen van hoofdstuk II   van dit decreet, verminderd met 33.000,00 euro. ».</P>
 
 ## Afdeling 5. vzw Samenwerkingsverband Netgebonden Pedagogische Begeleidingsdiensten
+
+### ART. 11.
+
+<P>Aan artikel 26, § 1, van het decreet van 8 mei 2009 betreffende de kwaliteit   van onderwijs wordt een punt 5° toegevoegd, dat luidt als volgt :<BR></P>  <P>« 5° een bedrag van 230.000 euro voor de uitvoering van het actieplan met   betrekking tot de implementatie van kwaliteitsvol e-leren en gecombineerd leren   in het volwassenenonderwijs en in de opleidingen van VDAB, Syntra Vlaanderen en   het sociaal-cultureel volwassenenwerk. ».</P>
 
 ## HOOFDSTUK 3. Fiscaliteit
 
@@ -134,7 +162,19 @@ Artikel 99 van het decreet van 22 december 2006 houdende bepalingen tot   begele
 
 ## HOOFDSTUK 10. Bodembeschermingsfonds
 
+### ART. 32.
+
+<P>Aan artikel 18, 8°, van het decreet van 19 december 2003 houdende bepalingen   tot begeleiding van de begroting 2004 wordt een tweede lid toegevoegd, dat luidt   als volgt :<BR></P>  <P>« De Vlaamse Regering wordt gemachtigd om de in het eerste lid, 8°, bedoelde   middelen toe te wijzen aan het Fonds en de voorwaarden te bepalen waaronder die   toewijzing kan gebeuren. ».</P>
+
 ## HOOFDSTUK 11. Bodemsanering en bodembescherming
+
+### ART. 33.
+
+<P>In artikel 19 van het decreet van 19 december 2003 houdende bepalingen tot   begeleiding van de begroting 2004, gewijzigd bij het decreet van 22 april 2005,   wordt punt 1° vervangen door wat volgt :<BR></P>  <P>« 1° de vrijwillige en ambtshalve uitvoering van bodemonderzoeken en   bodemsaneringen op verontreinigde terreinen, met inbegrip van de verwerving van   de bedoelde terreinen; ».</P>
+
+### ART. 34.
+
+<P>Aan artikel 92 van het decreet van 27 oktober 2006 betreffende de   bodemsanering en de bodembescherming wordt een vierde lid toegevoegd, dat luidt   als volgt :<BR></P>  <P>« De OVAM kan als saneringswillige overgaan tot uitvoering van een   beschrijvend bodemonderzoek en bodemsanering als vermeld in het eerste en tweede   lid. In verband met de (pre)financiering van de vrijwillige sanering door de   OVAM kan de Vlaamse Regering een regeling treffen of een overeenkomst sluiten.   ».</P>
 
 ## HOOFDSTUK 12. Grinddecreet
 
