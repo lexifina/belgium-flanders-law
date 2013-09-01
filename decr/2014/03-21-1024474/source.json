@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024474,
+  "title": "Decreet van 2014-03-21 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024474/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "20cf49108cee7391f76e241a3585e95b7aa6e6de25b2c722013f9bd316b8a966",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024474&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2014-03-21",
+  "gazette": "2014-08-28",
+  "numac": 2014035613,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
