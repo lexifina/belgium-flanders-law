@@ -4,6 +4,14 @@
 
 ## HOOFDSTUK II. Basisonderwijs
 
+### ART. II.15.
+
+In artikel 37vicies ter, § 2, eerste en tweede lid, van   hetzelfde decreet, ingevoegd bij het decreet van 25 november 2011, vervangen bij   het decreet van 8 juni 2012 en gewijzigd bij het decreet van 19 juli 2013, wordt   het woord "leefeenheid" telkens vervangen door het woord   "leefentiteit".
+
+### ART. II.23.
+
+In artikel 115, § 2, 2°, van hetzelfde decreet, vervangen bij   het decreet van 9 juli 2010, worden tussen de woorden "de vestigingsplaatsen" en   de woorden "voldeden aan" de woorden ", die tijdens het lopende schooljaar nog   deel uitmaken van de school," ingevoegd.
+
 ### ART. II.29.
 
 Artikel   168 van hetzelfde decreet, opgeheven door het decreet van 9 december 2005 en   opnieuw opgenomen door het decreet van 21 december 2012, wordt vervangen door   wat volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   168. Eén vereniging zonder winstoogmerk ontvangt de subsidie, vermeld in artikel   169, vanaf de data, vermeld in artikel 169, en één voltijds verlof wegens   bijzondere opdracht als ze voldoet aan de volgende voorwaarden:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   ze stelt zich tot doel de participatie van de kleuters van de kermisexploitanten   en ze organiseert een rijdende kleuterschool Vlaanderen ter bevordering daarvan.   De rijdende kleuterschool Vlaanderen zal de toer van de foren volgen;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   ze leeft de erkenningsvoorwaarden na, vermeld in artikel 62, § 1, 2°, 5°, 6°, 7°   en 11° ;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   ze voorziet in onderwijsaanbod dat ten minste de leergebieden, vermeld in   artikel 39, omvat. De geformuleerde ontwikkelingsdoelen voor die leergebieden,   vermeld in artikel 44, § 1, worden nagestreefd;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   ze houdt zich aan de bepalingen, vermeld in artikel 27 en 27bis;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   ze aanvaardt alleen kleuters die zijn ingeschreven in een erkende   school;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   ze bezorgt jaarlijks uiterlijk op 15 september een financieel verslag over het   afgelopen schooljaar;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   ze toont de betrokkenheid met en de kennis van de doelgroep aan;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   ze toont aan dat ze voldoende ervaring heeft met het organiseren van een   rijdende kleuterschool.".
@@ -50,6 +58,10 @@ In   artikel 11 van hetzelfde decreet, gewijzigd bij de decreten van 9 juli 2010
 
 In artikel 101 van hetzelfde decreet, gewijzigd bij het   decreet van 19 juli 2013, worden de volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid worden de woorden "Met ingang van het schooljaar 2014-2015"   vervangen door de woorden "Met ingang van het schooljaar   2015-2016";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het eerste lid worden de woorden "verder gesubsidieerd voor het schooljaar   2013-2014" vervangen door de woorden "verder gesubsidieerd voor de schooljaren   2013-2014 en 2014-2015";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in het derde lid worden tussen de woorden "moet voldoen" en de woorden "In elk   geval" de woorden ", waaronder de toekenning van opleidingsvergoedingen aan   jongeren in een brugproject." ingevoegd.
 
+### ART. III.72.
+
+In artikel 140 van hetzelfde decreet worden de woorden   "uiterlijk in 2013" vervangen door de woorden "in 2014".
+
 ## Afdeling III. Inwerkingtreding
 
 ## HOOFDSTUK IV. Decreet betreffende de centra voor leerlingenbegeleiding
@@ -60,9 +72,29 @@ In artikel 101 van hetzelfde decreet, gewijzigd bij het   decreet van 19 juli 20
 
 ## Afdeling I. Codex Hoger Onderwijs
 
+### ART. VI.2.
+
+In artikel II.71, § 1, van dezelfde codex wordt tussen het   woord "gegradueerde," en het woord "respectievelijk" de zinsnede "overeenkomstig   het bepaalde in het decreet van 30 april 2009 betreffende het secundair na   secundair onderwijs en het hoger beroepsonderwijs,"   ingevoegd.
+
 ### ART. VI.7.
 
 In   artikel II.122 van dezelfde codex wordt een paragraaf 9 toegevoegd, die luidt   als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 9. De bepalingen in dit artikel zijn ook van toepassing op de specifieke   lerarenopleidingen, met uitzondering van deze aangaande de accreditatie van   opleidingen voor de specifieke lerarenopleidingen georganiseerd door de centra   voor volwassenenonderwijs, de hogescholen en de universiteiten, en deze over de   instellingsreview als voor de specifieke lerarenopleidingen georganiseerd door   de centra voor volwassenenonderwijs.".
+
+### ART. VI.12.
+
+In artikel II.270 van dezelfde codex worden de volgende   wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1 worden in het tweede lid tussen de woorden "als het betrokken   personeelslid" en de woorden "een bachelor- of masterdiploma of doctoraat   behaald heeft" de woorden "een diploma secundair onderwijs of "   ingevoegd;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt aan paragraaf 1 een vierde lid toegevoegd, dat luidt als   volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Aan   de voorwaarden vermeld in deze paragraaf moet voldaan zijn vóór 15 februari   2015.".
+
+### ART. VI.32.
+
+Aan artikel V.52 van dezelfde codex worden de volgende   wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de huidige tekst van artikel V.52 wordt paragraaf 1;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een paragraaf 2 toegevoegd, die luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. Een universiteit kan een vacante betrekking in het administratief en   technisch personeel ook invullen via de overname van een personeelslid uit een   ander Vlaams onderwijsniveau dan het hoger onderwijs, dat daarvoor via een   verlof wegens opdracht aan de universiteit werkzaam was. Het overgenomen   personeelslid verkrijgt in de graad waarin het gerangschikt wordt, ten minste   het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris   aan 100% dat het genoot in het niet-hoger onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   overname van een personeelslid is niet mogelijk zonder de instemming van het   betrokken personeelslid.".
+
+### ART. VI.36.
+
+Aan   artikel V.138 van dezelfde codex worden de volgende wijzigingen   aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de huidige tekst van artikel V.138 wordt paragraaf 1;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een paragraaf 2 toegevoegd, die luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. Een hogeschool kan een vacante betrekking in het onderwijzend personeel ook   invullen via de overname van een personeelslid uit een ander Vlaams   onderwijsniveau dan het hoger onderwijs, dat daarvoor via een verlof wegens   opdracht aan de hogeschool werkzaam was. Het overgenomen personeelslid wordt bij   de overname ingeschaald in het betreffende ambt in de hogeschool en de daaraan   verbonden salarisschaal. Het overgenomen personeelslid verkrijgt ten minste het   jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het jaarsalaris aan   100% dat het genoot in het niet-hoger onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Bij   de overname van een personeelslid behoudt het betrokken personeelslid het saldo   van de in het niet-hoger onderwijs opgebouwde ziektedagen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   overname van een personeelslid is niet mogelijk zonder de instemming van het   betrokken personeelslid.".
+
+### ART. VI.39.
+
+Aan   artikel V.192 van dezelfde codex worden de volgende wijzigingen   aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de huidige tekst van artikel V.192 wordt paragraaf 1;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een paragraaf 2 toegevoegd, die luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. Een hogeschool kan een vacante betrekking in het administratief en   technisch personeel ook invullen via de overname van een personeelslid uit een   ander Vlaams onderwijsniveau dan het hoger onderwijs, dat daarvoor via een   verlof wegens opdracht aan de hogeschool werkzaam was. Het overgenomen   personeelslid wordt bij de overname ingeschaald in de betreffende graad in de   hogeschool en de daaraan verbonden salarisschaal. Het overgenomen personeelslid   verkrijgt ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is   dan het jaarsalaris aan 100% dat het genoot in het niet-hoger   onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Bij   de overname van een personeelslid behoudt het betrokken personeelslid het saldo   van de in het niet-hoger onderwijs opgebouwde ziektedagen.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   overname van een personeelslid is niet mogelijk zonder de instemming van het   betrokken personeelslid.".
 
 ## Afdeling II. Decreet houdende bepalingen tot begeleiding van de begroting 2014
 
@@ -114,6 +146,10 @@ Aan   het decreet betreffende het onderwijs XV van 15 juli 2005 wordt aan hoofds
 
 ## Afdeling VII. Decreet houdende organisatie en werking van de regionale technologische centra
 
+### ART. IX.26.
+
+In   artikel 5 van het decreet van 14 december 2007 houdende de organisatie en   werking van de regionale technologische centra, gewijzigd bij het decreet van 13   mei 2011, wordt de tweede zin opgeheven.
+
 ## Afdeling VIII. Decreet betreffende de werkingsbudgetten in het secundair onderwijs en het basisonderwijs
 
 ### ART. IX.27.
@@ -122,11 +158,35 @@ In artikel 21 van het decreet van 4 juli 2008 betreffende de   werkingsbudgetten
 
 ## Afdeling IX. Decreet betreffende het secundair na het secundair onderwijs en het hoger beroepsonderwijs
 
+### ART. IX.28.
+
+Aan   artikel 22 van het decreet van 30 april 2009 betreffende het secundair na   secundair onderwijs en het hoger beroepsonderwijs, zoals gewijzigd door het   decreet van 12 juli 2013, worden volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1 wordt de zinsnede ", 1° en 2° " opgeheven;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   paragraaf 2 wordt vervangen door wat volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. De accreditatieorganisatie legt een beoordelingskader voor de "toets nieuwe   HBO5-opleiding" vast. Dit beoordelingskader moet, voor het toegepast kan worden,   door de Vlaamse Regering goedgekeurd worden.".
+
+### ART. IX.29.
+
+In hetzelfde decreet wordt er een artikel 22/1 ingevoegd, dat   luidt als volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art   22/1. § 1. Zowel in het toetsingsrapport zoals vermeld in artikel 22 en het   erkenningsbesluit zoals bedoeld in artikel 18, § 1, 4°, wordt, in voorkomend   geval, melding gemaakt van de opleidingsvarianten die op het tijdstip van de   "toets nieuwe HBO5-opleiding" gekend zijn:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de instellingen en de vestigingsplaatsen waar de opleiding aangeboden   wordt;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de verschillende doelgroepen die de opleiding wil bereiken en de wijze waarop   dit wijzigingen in het programma met zich meebrengt.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">§   2. Het toetsingsrapport zoals vermeld in artikel 22 en het erkenningsbesluit   zoals bedoeld in artikel 18, § 1, 4°, bevatten een beoordeling van elk van de   varianten, vermeld in paragraaf 1.".
+
 ## Afdeling X. Decreet betreffende de kwalificatiestructuur
+
+### ART. IX.34.
+
+In   artikel 15/1, § 4, van het decreet van 30 april 2009 betreffende de   kwalificatiestructuur, ingevoegd bij het decreet van 12 juli 2013, worden de   volgende wijzigingen aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de woorden "het agentschap" worden vervangen door de woorden "de bevoegde dienst   van de Vlaamse Regering";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   tussen de zinsnede "artikel 9/1, 1°, " en de zinsnede "binnen de 30   kalenderdagen" wordt de zinsnede "van het decreet van 30 april 2009 betreffende   het secundair na secundair onderwijs en het hoger beroepsonderwijs,"   ingevoegd.
 
 ## Afdeling XI. Decreet betreffende de kwaliteit
 
+### ART. IX.41.
+
+In artikel 63, § 1, 2°, van hetzelfde decreet worden de   woorden "bijkomende testen" vervangen door de woorden "een bijkomende   test".
+
+### ART. IX.42.
+
+In artikel 65/1, § 2, 2°, van hetzelfde decreet worden de   woorden "bijkomende testen" vervangen door de woorden "een bijkomende   test".
+
 ## Afdeling XII. Decreet betreffende het onderwijs XXIII
+
+### ART. IX.43.
+
+In   artikel V.91 van het decreet van 19 juli 2013 betreffende het onderwijs XXIII   wordt na het woord "instellingsbestuur" een zinsnede ingevoegd, die luidt als   volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">",   waarvan minstens één vertegenwoordiger van een Centrum voor Volwassenenonderwijs   of een secundaire school, waarvan de cursisten gebruik kunnen maken van de   studentenvoorzieningen, zoals beschreven in artikel 5 van dit   decreet,".
 
 ## Afdeling XIII. Inwerkingtreding
 
