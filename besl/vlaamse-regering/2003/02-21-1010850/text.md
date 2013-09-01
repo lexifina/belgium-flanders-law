@@ -8,7 +8,7 @@
 
 ### ART. 2.
 
-Elke graad wordt aangevuld met een letter en een cijfer. De letter geeft   het niveau aan, het cijfer situeert de graad in zijn niveau.<BR><BR>De vier   niveaus omvatten het volgende aantal graden:<BR>1° niveau A: vier graden,   genummerd van A1 tot A4;<BR>2° niveau B: drie graden, genummerd van B1 tot   B3;<BR>3° niveau C: twee graden, genummerd C1 en C2;<BR>4° niveau D: twee   graden, genummerd D1 en D2.<BR><BR>Binnen elk niveau worden de graden genummerd   volgens hun plaats in de hiërarchie, waarbij de hoogste graad het hoogste cijfer   toegewezen krijgt.
+Elke graad wordt aangevuld met een letter en een cijfer. De letter geeft   het niveau aan, het cijfer situeert de graad in zijn niveau.<BR><BR>De vier   niveaus omvatten het volgende aantal graden:<BR>1° niveau A: vijf graden,   genummerd van A1 tot A5;<BR>2° niveau B: drie graden, genummerd van B1 tot   B3;<BR>3° niveau C: twee graden, genummerd C1 en C2;<BR>4° niveau D: twee   graden, genummerd D1 en D2.<BR><BR>Binnen elk niveau worden de graden genummerd   volgens hun plaats in de hiërarchie, waarbij de hoogste graad het hoogste cijfer   toegewezen krijgt.
 
 ### ART. 3.
 
@@ -73,6 +73,8 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 ### BIJLAGE
 
 <p>Tabel loopbaanstructuur en salarisschalen administratief en technisch personeel</p>
+
+<p>&nbsp;</p>
 
 <table border="1">
 	<tbody>
@@ -264,6 +266,14 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 			<td>54.579,64</td>
 			<td>1 x 3 : 1.392,55<br>
 			5 x 3 : 1.856,75 2 x 3 : 2.320,95</td>
+		</tr>
+		<tr>
+			<td>A5</td>
+			<td>A51</td>
+			<td>46.272,53</td>
+			<td>70.692,49</td>
+			<td>3 x 1 : 972,13<br>
+			11 x 2 : 1.954,87</td>
 		</tr>
 	</tbody>
 </table>
