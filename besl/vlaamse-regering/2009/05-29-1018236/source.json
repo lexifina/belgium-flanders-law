@@ -2,16 +2,16 @@
   "codex_id": 1018236,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot vaststelling van [de ambten (verv. BVR 27 oktober 2017, art. 1, I: 1 januari 2018)], de bekwaamheidsbewijzen en de salarisschalen in de Centra voor Basiseducatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018236/VolledigDocument?datum=2008-09-01",
-  "source_sha256": "ed2b4bf8c9c835ab0b7817e6814ebab6381e750628c9d4ef39f537e501ff0db0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018236/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "f6f89664cc8e34fdaa3c4bcb96a4085864273b3680ce6712386024fb5812280d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018236&param=informatie",
-  "as_of": "2008-09-01",
+  "as_of": "2013-09-01",
   "made": "2009-05-29",
   "gazette": "2009-08-17",
   "numac": 2009203711,
   "document_start": "2008-09-01",
   "document_end": null,
-  "in_force": "2008-09-01",
+  "in_force": "2013-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2008-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
