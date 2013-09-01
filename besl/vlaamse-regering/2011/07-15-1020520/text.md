@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 30 april 2009 betreffen
 
 ### ART. 1.
 
-De Nederlands-Vlaamse Accreditatieorganisatie wordt aangewezen om de taken van het accreditatieorgaan uit te voeren als vermeld in artikel 12 van het decreet van 30 april 2009 betreffende het secundair na secundair en het hoger beroepsonderwijs.
+De Nederlands-Vlaamse Accreditatieorganisatie wordt aangewezen om de taken   van de accreditatieorganisatie uit te voeren als vermeld in artikel 12 van het   decreet van 30 april 2009 betreffende het secundair na secundair en het hoger   beroepsonderwijs.
 
 ### ART. 2.
 

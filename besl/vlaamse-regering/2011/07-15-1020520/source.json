@@ -2,16 +2,16 @@
   "codex_id": 1020520,
   "title": "Besluit van de Vlaamse Regering van 2011-07-15 betreffende de aanwijzing van [de accreditatieorganisatie (verv. decr. 12 juli 2013, art. 86)] voor het hoger beroepsonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020520/VolledigDocument?datum=2011-07-01",
-  "source_sha256": "73fea7522672d44abf878782d8aa21436b3afe0a023bf5f73a6df20acfaee0cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020520/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "8b972ea309cafc706290835b8bd5732a65f502b6cbc4b144feb0b2d6d9ae3318",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020520&param=informatie",
-  "as_of": "2011-07-01",
+  "as_of": "2013-09-01",
   "made": "2011-07-15",
   "gazette": "2011-08-16",
   "numac": 2011203970,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2011-07-01",
+  "in_force": "2013-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2011-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
