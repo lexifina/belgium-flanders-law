@@ -2,16 +2,16 @@
   "codex_id": 1023150,
   "title": "Besluit van de Vlaamse Regering van 2013-07-12 betreffende de herverdeling van de vrijgekomen subsidieerbare deelnemersuren voor de organisatie van persoonlijke ontwikkelingstrajecten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023150/VolledigDocument?datum=2013-08-17",
-  "source_sha256": "03622009558fd805616e8eb14b426869e901db90f6e01d3f2989c4f5d3125cf7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023150/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "c5bf97b87a0bd017f733dacc78ccaa2aac8ffd04524dd3beae20c0ac20e944f2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023150&param=informatie",
-  "as_of": "2013-08-17",
+  "as_of": "2013-09-01",
   "made": "2013-07-12",
   "gazette": "2013-08-07",
   "numac": 2013035692,
   "document_start": "2013-08-17",
   "document_end": null,
-  "in_force": "2013-08-17",
+  "in_force": "2013-09-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
