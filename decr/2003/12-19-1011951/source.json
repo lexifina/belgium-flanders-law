@@ -2,16 +2,16 @@
   "codex_id": 1011951,
   "title": "Decreet van 2003-12-19 houdende bepalingen tot begeleiding van de begroting 2004",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011951/VolledigDocument?datum=2012-08-26",
-  "source_sha256": "82a6e240fc2988ac6724c40b41cc92e90ae10cc631f9a01be6bbd7f97605413a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011951/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "2f84e17e81c7feea1e9420bbf12bef90048da6f5c527c4725eb9b34372541969",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011951&param=informatie",
-  "as_of": "2012-08-26",
+  "as_of": "2013-09-01",
   "made": "2003-12-19",
   "gazette": "2003-12-31",
   "numac": 2003036268,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-08-26",
+  "in_force": "2013-09-01",
   "article_versions": 103,
-  "record_form": "consolidated version as in force on 2012-08-26; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
