@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023206,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-12 tot wijziging van artikel 1 en artikel 2 van het besluit van de Vlaamse Regering van 11 mei 2001 tot aanwijzing van de instellingen en administraties die adviseren over voorontwerpen van ruimtelijke uitvoeringsplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023206/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "56ee419ae5efcf60fca1e323006cffb5fddf98fa71c63d7908c439c5aea16a6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023206&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2013-07-12",
+  "gazette": "2013-08-22",
+  "numac": 2013204286,
+  "document_start": "2013-09-01",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
