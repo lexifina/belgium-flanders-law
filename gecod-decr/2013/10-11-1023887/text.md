@@ -56,7 +56,37 @@
 
 ## Hoofdstuk 4 Studiegebieden, graden en titels
 
+### ART. II.71.
+
+<P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>§1. De   hogescholen kunnen in het hoger beroepsonderwijs en in het hoger professioneel   onderwijs opleidingen organiseren en de overeenstemmende diploma's van   gegradueerde, overeenkomstig het bepaalde in het decreet van 30 april 2009   betreffende het secundair na secundair onderwijs en het hoger   beroepsonderwijs,&nbsp;respectievelijk de graden van bachelor verlenen in of   over de volgende studiegebieden: </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>1°&nbsp;&nbsp; Architectuur; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>2°&nbsp;&nbsp; Gezondheidszorg; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>3°&nbsp;&nbsp; Industriële wetenschappen en technologie; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>4°&nbsp;&nbsp; Biotechniek; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>5°&nbsp;&nbsp; Onderwijs; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>6°&nbsp;&nbsp; Sociaal-agogisch werk; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l0 level1 lfo1"   class=Default>7°&nbsp;&nbsp; Handelswetenschappen en bedrijfskunde. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>§2. De   hogescholen kunnen binnen een School of Arts in het hoger beroepsonderwijs, in   het hoger professioneel onderwijs en in het academisch onderwijs opleidingen   aanbieden en de overeenstemmende diploma's van gegradueerde, de overeenstemmende   graden van bachelor, respectievelijk van bachelor en master verlenen in de   volgende studiegebieden: </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2"   class=Default>1°&nbsp;&nbsp; Audiovisuele en beeldende kunst; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l2 level1 lfo2"   class=Default>2°&nbsp;&nbsp; Muziek en podiumkunsten. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>§3. De Hogere   Zeevaartschool kan in het hoger beroepsonderwijs, in het hoger professioneel   onderwijs en in het academisch onderwijs opleidingen aanbieden en de   overeenstemmende diploma's van gegradueerde, respectievelijk de graden van   bachelor en van bachelor en master verlenen in het studiegebied Nautische   wetenschappen. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>§4. Met ingang   van het academiejaar 2013-2014 dragen de hogescholen hun bevoegdheid inzake het   aanbieden van academische opleidingen en het verlenen van de overeenstemmende   graden van bachelor en master in de volgende studiegebieden over aan de   universiteit van de associatie: </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>1°&nbsp;&nbsp; Architectuur; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>2°&nbsp;&nbsp; Gezondheidszorg; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>3°&nbsp;&nbsp; Industriële wetenschappen en technologie; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>4°&nbsp;&nbsp; Biotechniek; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>5°&nbsp;&nbsp; Productontwikkeling; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>6°&nbsp;&nbsp; Toegepaste taalkunde; </P>  <P   style="LINE-HEIGHT: 12.4pt; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-list: l1 level1 lfo3"   class=Default>7°&nbsp;&nbsp; Handelswetenschappen en bedrijfskunde. </P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.4pt; MARGIN: 0cm 0cm 0pt" class=Default>Met ingang van   het academiejaar 2013-2014 kunnen de hogescholen in het academisch onderwijs   niet langer opleidingen aanbieden en de overeenstemmende graden van bachelor en   master verlenen in de in het eerste lid vermelde   studiegebieden.</P>
+
 ## Hoofdstuk 5 Onderwijsbevoegdheid
+
+### ART. II.85.
+
+<p>De Erasmushogeschool Brussel kan in de vestiging Brussel-Hoofdstad en Vilvoorde opleidingen aanbieden en de daarop betrekking hebbende graden verlenen in de volgende studiegebieden: <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
+
+<p>1°&nbsp;&nbsp; Architectuur, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;</p>
+
+<p>2° audiovisuele en beeldende kunst, waarvoor :<br>
+a) in het hoger professioneel onderwijs de graad van bachelor kan worden verleend op voorwaarde dat het onderwijs verstrekt wordt in het kader van een School of Arts;<br>
+b) in het academisch onderwijs de graden van bachelor of master kunnen worden verleend op voorwaarde dat het onderwijs verstrekt wordt in het kader van een School of Arts;</p>
+
+<p>3°&nbsp;&nbsp; Gezondheidszorg, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;</p>
+
+<p>4°&nbsp;&nbsp; Handelswetenschappen en bedrijfskunde, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;</p>
+
+<p>5°&nbsp;&nbsp; Industriële wetenschappen en technologie, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;</p>
+
+<p>6°&nbsp;&nbsp; Muziek en podiumkunsten, waarvoor:</p>
+
+<p>a)&nbsp;&nbsp;&nbsp; in het hoger professioneel onderwijs de graad van bachelor kan worden verleend op voorwaarde dat het onderwijs verstrekt wordt in het kader van een School of Arts;</p>
+
+<p>b)&nbsp;&nbsp;&nbsp; in het academisch onderwijs de graden van bachelor of master kunnen worden verleend op voorwaarde dat het onderwijs verstrekt wordt in het kader van een School of Arts;</p>
+
+<p>7°&nbsp;&nbsp; Onderwijs, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend;</p>
+
+<p>8°&nbsp;&nbsp; Sociaal-agogisch werk, waarvoor in het hoger professioneel onderwijs de graad van bachelor kan worden verleend.</p>
 
 ## Hoofdstuk 6 Lerarenopleidingen
 
@@ -202,6 +232,20 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 
 ## Onderafdeling 3 Masteropleidingen
 
+### ART. II.182.
+
+<p>§1. Het instellingsbestuur kan de toelating tot een masteropleiding beperken tot afgestudeerden van bacheloropleidingen met specifieke opleidingskenmerken.<br>
+<br>
+§2. Op grond van paragraaf 1 wijst het instellingsbestuur voor elke masteropleiding alleszins een bacheloropleiding in het academisch onderwijs als algemene toelatingsvoorwaarde aan.<br>
+<br>
+Het instellingsbestuur kan bepalen dat de inschrijving voor een masteropleiding ook openstaat voor afgestudeerden van bacheloropleidingen met andere opleidingskenmerken, indien zij een voorbereidingsprogramma met succes voltooien. Het instellingsbestuur kan de inhoud en studieomvang van dergelijk voorbereidingsprogramma differentiëren naar gelang van de graad van inhoudelijke verwantschap tussen deze andere bacheloropleidingen en de in het eerste lid bedoelde bacheloropleiding.<br>
+<br>
+&nbsp;§ 2/1. In afwijking van paragraaf 2, eerste lid, kan een instellingsbestuur voor een masteropleiding een bacheloropleiding in het hoger professioneel onderwijs aanwijzen als algemene toelatingsvoorwaarde, met behoud van toepassing van artikel II.183.<br>
+<br>
+§3. Het instellingsbestuur kan de inschrijving voor een onderzoeksmaster, vermeld in artikel II.157, afhankelijk maken van een onderzoek naar de bekwaamheid van de student om die onderzoeksmaster te volgen. Het instellingsbestuur kan het aantal studenten dat toegelaten wordt tot een onderzoeksmaster, beperken tot het aantal studieplaatsen dat maximaal, met toepassing van hetgeen bepaald is in artikel III.11, in rekening kan worden gebracht voor de berekening van de werkingsuitkering.<br>
+<br>
+Het instellingsbestuur legt de bijkomende inschrijvingsvoorwaarden vast in haar onderwijsreglement, overeenkomstig artikel II.221, 5°, b).</p>
+
 ## Onderafdeling 4 Voorbereiding van een doctoraatsproefschrift
 
 ## Afdeling 3 Bijzondere toelatingsvoorwaarden
@@ -265,6 +309,10 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 ## Afdeling 5 Monitoring van het anderstalige aanbod
 
 ## Afdeling 6 Voorwaarden inzake kwaliteit en democratisering
+
+### ART. II.270.
+
+<P style="MARGIN: 0cm 0cm 0pt" class=CM9>§1. Elk lid van het onderwijzend   personeel en van het academisch personeel, belast met een onderwijsopdracht,   moet de onderwijstaal waarin hij een opleidingsonderdeel doceert op adequate   wijze beheersen. </P>  <P style="LINE-HEIGHT: 12.3pt; MARGIN: 0cm 53pt 0pt 0cm"   class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.3pt; MARGIN: 0cm 53pt 0pt 0cm" class=Default>Dit   betekent dat het personeelslid die taal moet beheersen op het ERK-niveau C1. Dit   vereiste beheersingsniveau van de onderwijstaal wordt aangetoond aan de hand van   kwalificatiegetuigschriften uitgereikt door officieel erkende instellingen   waaruit blijkt dat het personeelslid de onderwijstaal op het vereiste niveau   beheerst. Het vereiste beheersingsniveau wordt vermoed aanwezig te zijn als het   betrokken personeelslid een diploma secundair onderwijs of&nbsp;een bachelor- of   masterdiploma of doctoraat behaald heeft in de onderwijstaal waarin hij doceert,   in een instelling waarin die taal de onderwijstaal is. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>In afwijking van het tweede lid is   voor een personeelslid dat doceert in een opleiding in het studiegebied Muziek   en podiumkunsten of Audiovisuele en beeldende kunst de beheersing van het Frans   of Engels op ERK-niveau B1 voldoende. <BR><BR>Aan de voorwaarden vermeld in deze   paragraaf moet voldaan zijn vóór 15 februari 2015.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="LINE-HEIGHT: 12.65pt; MARGIN: 0cm 0cm 0pt" class=CM53>§2. Elk lid van   het onderwijzend personeel en van het academisch personeel, belast met een   onderwijsopdracht, dat geen opleidingsonderdelen in het Nederlands doceert, moet   de Nederlandse taal beheersen op ERK-niveau B2. Aan die voorwaarde moet voldaan   worden binnen 3 jaar na zijn aanstelling of op het moment van zijn benoeming.   Het vereiste beheersingsniveau van de Nederlandse taal wordt aangetoond aan de   hand van kwalificatiegetuigschriften uitgereikt door officieel erkende   instellingen waaruit blijkt dat het personeelslid de Nederlandse taal op het   vereiste niveau beheerst. Het vereiste beheersingsniveau van de Nederlandse taal   wordt vermoed aanwezig te zijn als het betrokken personeelslid een   Nederlandstalig bachelor- of masterdiploma of doctoraat behaald heeft in een   niet-anderstalige opleiding. </P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§3. De instellingen voorzien voor   de leden van het onderwijzend personeel en van het academisch personeel in   aangepaste voorzieningen, waaronder een toegankelijk en behoeftedekkend aanbod   van Nederlandstalige en anderstalige taalcursussen en   taalbegeleidingsmaatregelen.</P>
 
 ## [Hoofdstuk 9 Evaluatie (ing. decr. 21 maart 2014, art. 27, I: 1 september 2014)]
 
@@ -438,6 +486,108 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 
 ## Afdeling 8 Wettelijke en conventionele werkgeversbijdragen universiteiten
 
+### ART. III.58.
+
+<p>§1. Vanaf het begrotingsjaar 2008 ontvangen de volgende universiteiten de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in het dekken van de kosten die voortvloeien uit de hogere loonlasten die de universiteiten als werkgever moeten dragen voor hun personeelsleden, vermeld in deel 5, titel 1, hoofdstuk 1 en 2, in vergelijking met de loonlast die de Universiteit Gent als werkgever draagt. De structurele hogere verplichtingen die de Universiteit Gent als publiekrechtelijke instelling moet dragen, worden in mindering gebracht: <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /--></p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>a) Katholieke Universiteit Leuven</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">9.789</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>b) Vrije Universiteit Brussel</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">3.305</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>c) Universiteit Antwerpen</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">927</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>d) Universiteit Hasselt</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">208</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>e) HUB-KUBrussel</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">195</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>§2. Naast de uitkeringen in § 1, ontvangen de volgende universiteiten vanaf het begrotingsjaar 2008 de hierna vermelde uitkeringen, uitgedrukt in k euro, als bijdrage in de voorziening van de aanvullende pensioenregeling die deze universiteiten inrichten ten gunste van de leden van hun administratief en technisch personeel die bezoldigd worden met de werkingsuitkeringen, zoals bedoeld in artikel V.47 van dit decreet. Om van de hierna vermelde uitkeringen te kunnen genieten, richten de universiteiten een pensioenregeling in, via één of meerdere aanvullende pensioenstelsels, die ten gunste van voormelde personeelsleden voorziet in een aanvulling op het wettelijk pensioen dat zij later ontvangen uit het pensioenstelsel der loontrekkenden, die, samen met dat wettelijk pensioen, globaal genomen een vergelijkbare pensioenregeling beoogt als deze die van toepassing is op de leden van het administratief en technisch personeel van de gemeenschapsuniversiteiten, en waarbij de voorwaarden en bepalingen van deze pensioenregeling uitgewerkt worden, overeenkomstig de wetgeving inzake aanvullende pensioenen, in pensioenreglementen die een concrete invulling geven aan deze doelstelling. Aldus uitgewerkte pensioenregelingen gefinancierd met de hieronder vermelde uitkeringen leggen de aanvullende pensioenvoordelen en -aanspraken vast ten gunste van de leden van het administratief en technisch personeel dat bezoldigd wordt met de werkingsuitkeringen, van de universiteiten hieronder vermeld, alsook van hun rechthebbenden of begunstigden.<br>
+<br>
+Vanaf het begrotingsjaar 2016 wordt voor de toekenning van de hierna vermelde uitkeringen bovendien vereist dat de universiteit kan aantonen dat de door haar daartoe bevoegde organen goedgekeurde aanpassingen van bestaande pensioenregelingen of de inrichting van nieuwe pensioenregelingen het voorwerp hebben uitgemaakt van een collectief overleg of tot stand kwamen met inspraak vanwege de vertegenwoordigers van de leden van het administratief en technisch personeel bezoldigd met bedoelde werkingsuitkeringen:</p>
+
+<p>&nbsp;</p>
+
+<table class="MsoNormalTable" style="border: 1pt outset rgb(34, 34, 34); border-image: none; mso-cellspacing: 0cm; mso-border-alt: outset #222222 .75pt; mso-yfti-tbllook: 1184; mso-padding-alt: 2.25pt 2.25pt 2.25pt 2.25pt;" border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>a) Katholieke Universiteit Leuven</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">6.410</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>b) Vrije Universiteit Brussel</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">2.149</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color: transparent;">
+			<p>c) HUB-KUBrussel</p>
+			</td>
+			<td style="width: 41.3pt; background-color: transparent;">
+			<p style="text-align: right;">100</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>§3. De bedragen vermeld in paragraaf 1 en paragraaf 2 ten bate van de HUB-KUBrussel worden op basis van een rapportering van de commissaris van de Vlaamse Regering en van de gemachtigde van Financiën over de evolutie van salariskosten van de betreffende personeelscategorieën, jaarlijks aangepast. De vrijgekomen bedragen worden toegevoegd aan het bedrag van een andere instelling bij overname door die andere instelling van de betrokken personeelsleden.</p>
+
+<p>&nbsp;</p>
+
+<p>§4. Vanaf het begrotingsjaar 2008 volgen de bedragen, vermeld in paragraaf 1 en paragraaf 2, de evolutie van de gezondheidsindex. Deze bedragen kunnen na een evaluatie om de 5 jaar worden aangepast aan de gewijzigde omstandigheden.</p>
+
+<p>&nbsp;</p>
+
+<p>Voor het begrotingjaar 2010 worden de bedragen vermeld in paragraaf 1 en paragraaf 2 niet aangepast aan de evolutie van de gezondheidsindex.</p>
+
+<p>&nbsp;</p>
+
 ## Afdeling 9 Aanmoedigingsfonds voor beleidsspeerpunten
 
 ## Afdeling 10 Rationalisatie van het opleidingenaanbod
@@ -584,6 +734,10 @@ Als bij een fusie van twee of meer instellingen de uitkomst van het besluit inst
 
 ## Afdeling 3 Toewijzing van betrekkingen en definitieve ambtsneerlegging
 
+### ART. V.52.
+
+<P style="MARGIN: 0cm 0cm 0pt" class=Pa20>§1. Een universiteit kan een vacante   betrekking in het administratief en technisch personeel ook invullen via de   overname van een benoemd lid van het administratief en technisch personeel van   een andere universiteit. Het overgenomen personeelslid behoudt bij de overname   de salarisschaal en anciënniteit die het genoot aan de universiteit waar het   benoemd was, tenzij de overnemende universiteit het personeelslid in een hogere   salaristrap of salarisschaal inschaalt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=Default>De overname van een benoemd   personeelslid is niet mogelijk zonder de instemming van het betrokken   personeelslid.<BR><BR>§ 2. Een universiteit kan een vacante betrekking in het   administratief en technisch personeel ook invullen via de overname van een   personeelslid uit een ander Vlaams onderwijsniveau dan het hoger onderwijs, dat   daarvoor via een verlof wegens opdracht aan de universiteit werkzaam was. Het   overgenomen personeelslid verkrijgt in de graad waarin het gerangschikt wordt,   ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is dan het   jaarsalaris aan 100% dat het genoot in het niet-hoger onderwijs.<BR><BR>De   overname van een personeelslid is niet mogelijk zonder de instemming van het   betrokken personeelslid.</P>
+
 ## Afdeling 4 Bezoldigingen
 
 ## Afdeling 5 Evaluatie
@@ -645,6 +799,10 @@ Het universiteitsbestuur betaalt de werkgevers- en werknemersbijdragen die nodig
 
 ## Afdeling 3 Werving, bevordering en ambtswijziging
 
+### ART. V.138.
+
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Een hogeschool kan een   vacante betrekking in het onderwijzend personeel ook invullen via de overname   van een benoemd lid van het onderwijzend personeel van een andere hogeschool.   Het overgenomen personeelslid behoudt bij de overname de salarisschaal en   anciënniteit die het genoot aan de hogeschool waar het benoemd was, tenzij de   overnemende hogeschool het personeelslid in een hogere salarisschaal of   anciënniteit inschaalt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De overname van een benoemd   personeelslid is niet mogelijk zonder de instemming van het betrokken   personeelslid.<BR><BR>§ 2. Een hogeschool kan een vacante betrekking in het   onderwijzend personeel ook invullen via de overname van een personeelslid uit   een ander Vlaams onderwijsniveau dan het hoger onderwijs, dat daarvoor via een   verlof wegens opdracht aan de hogeschool werkzaam was. Het overgenomen   personeelslid wordt bij de overname ingeschaald in het betreffende ambt in de   hogeschool en de daaraan verbonden salarisschaal. Het overgenomen personeelslid   verkrijgt ten minste het jaarsalaris dat gelijk is aan of onmiddellijk hoger is   dan het jaarsalaris aan 100% dat het genoot in het niet-hoger   onderwijs.<BR><BR>Bij de overname van een personeelslid behoudt het betrokken   personeelslid het saldo van de in het niet-hoger onderwijs opgebouwde   ziektedagen.<BR><BR>De overname van een personeelslid is niet mogelijk zonder de   instemming van het betrokken personeelslid.</P>
+
 ## Afdeling 4 Toegang tot de ambten
 
 ## Afdeling 5 Bezoldigingsregeling
@@ -662,6 +820,10 @@ Het universiteitsbestuur betaalt de werkgevers- en werknemersbijdragen die nodig
 ## Afdeling 3 Bezoldigingsregeling
 
 ## Afdeling 4 Toewijzing van betrekkingen
+
+### ART. V.192.
+
+<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>§1. Een hogeschool kan een   vacante betrekking in het administratief en technisch personeel ook invullen via   de overname van een benoemd lid van het administratief en technisch personeel   van een andere hogeschool. Het overgenomen personeelslid behoudt bij de overname   de salarisschaal en anciënniteit die het genoot aan de hogeschool waar het   benoemd was, tenzij de overnemende hogeschool het personeelslid in een hogere   salarisschaal of anciënniteit inschaalt.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>De overname van een benoemd   personeelslid is niet mogelijk zonder de instemming van het betrokken   personeelslid.<BR><BR>§ 2. Een hogeschool kan een vacante betrekking in het   administratief en technisch personeel ook invullen via de overname van een   personeelslid uit een ander Vlaams onderwijsniveau dan het hoger onderwijs, dat   daarvoor via een verlof wegens opdracht aan de hogeschool werkzaam was. Het   overgenomen personeelslid wordt bij de overname ingeschaald in de betreffende   graad in de hogeschool en de daaraan verbonden salarisschaal. Het overgenomen   personeelslid verkrijgt ten minste het jaarsalaris dat gelijk is aan of   onmiddellijk hoger is dan het jaarsalaris aan 100% dat het genoot in het   niet-hoger onderwijs.<BR><BR>Bij de overname van een personeelslid behoudt het   betrokken personeelslid het saldo van de in het niet-hoger onderwijs opgebouwde   ziektedagen.<BR><BR>De overname van een personeelslid is niet mogelijk zonder de   instemming van het betrokken personeelslid.</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>
 
 ## Afdeling 5 Anciënniteiten
 
