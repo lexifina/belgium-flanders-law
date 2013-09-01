@@ -10,7 +10,7 @@ Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffend
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>In   afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire   opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar   2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen   jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het   schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire   opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en   Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het   opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden   wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd. De   uitbreidingsmodules van het opleidingsprofiel, vastgelegd in bijlage III, worden   uiterlijk tijdens het schooljaar 2016-2017 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>In   afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire   opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar   2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen   jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het   schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire   opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en   Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het   opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden   wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd. De   uitbreidingsmodules van de opleidingsprofielen, vermeld in bijlage I tot en met   III en bijlage V tot en met IX, worden uiterlijk tijdens het schooljaar   2016-2017 geëvalueerd.
 
 ### ART. 2/1.
 
@@ -34,15 +34,15 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/22_1.pdf#page=70" title=" Bijlage 1." target="_blank" class="pdf">Bijlage 1.</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1.pdf#page=75">Bijlage I   deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=1">Bijlage   I deel 2</A></P>
 
 ### BIJLAGE II
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/22_1.pdf#page=101" title=" Bijlage 2." target="_blank" class="pdf">Bijlage 2.</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=15">Bijlage   II</A></P>
 
 ### BIJLAGE III
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/05_1.pdf#page=47">Bijlage   III</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=46">Bijlage   III</A></P>
 
 ### BIJLAGE IV
 
@@ -50,20 +50,20 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE V
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=37" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=90">Bijlage   V</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=1">Bijlage   V deel 2</A></P>
 
 ### BIJLAGE VI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=63" title=" Bijlage 4" target="_blank" class="pdf">Bijlage 4</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=19">Bijlage   VI</A></P>
 
 ### BIJLAGE VII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1.pdf#page=80" title=" Bijlage 5" target="_blank" class="pdf">Bijlage 5</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=39">Bijlage   VII</A></P>
 
 ### BIJLAGE VIII
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/11/14_1_2.pdf#page=12" title=" Bijlage 6" target="_blank" class="pdf">Bijlage 6</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=73">Bijlage   VIII</A><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_4.pdf#page=1">Bijlage   VIII deel 2</A></P>  <P><BR>&nbsp;</P>
 
 ### BIJLAGE IX
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/05/30_1.pdf#page=39" title=" Bijlage IX" target="_blank" class="pdf">Bijlage IX</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_4.pdf#page=12">Bijlage   IX</A></P>
