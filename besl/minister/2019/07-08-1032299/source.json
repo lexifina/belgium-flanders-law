@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032299,
+  "title": "Ministerieel besluit van 2019-07-08 tot uitvoering van diverse bepalingen van het besluit van de Vlaamse Regering van 21 december 2018 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen en tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032299/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "0fcc86597bb1402c71c77a3b6037459f69c95e5873c5d9564565475d78176c61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032299&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2019-07-08",
+  "gazette": "2019-10-01",
+  "numac": 2019014727,
+  "document_start": "2019-07-01",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
