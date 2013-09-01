@@ -2470,10 +2470,6 @@ Aan artikel 1 van het besluit van de Vlaamse Regering van 25 oktober 2002 houden
 
 De volgende besluiten worden opgeheven : <br />1° hoofdstuk III van het besluit van de Vlaamse Regering van 22 juli 2005 betreffende het onderwijzend en het ondersteunend personeel in het gewoon secundair onderwijs;<br />2° het besluit van de Vlaamse Regering van 13 juli 2007 betreffende de berekening van de puntenenveloppe voor het ondersteunend personeel in het buitengewoon secundair onderwijs.
 
-### ART. 13.
-
-Dit besluit treedt in werking op 1 september 2009 en wordt opgeheven met   ingang van 1 september 2014.
-
 ### ART. 14.
 
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
