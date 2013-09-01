@@ -24,6 +24,10 @@ Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17
 
 Bijlage XXVI bij hetzelfde besluit wordt vervangen door bijlage 15 die bij dit besluit is gevoegd.<br /><br />
 
+### ART. 6.
+
+Bijlagen VII tot en met XI bij hetzelfde besluit worden opgeheven.<br /><br />
+
 ### ART. 7.
 
 Dit besluit treedt in werking op 1 september 2012, met uitzondering van artikel 6, dat in werking treedt op 1 september 2013.<br /><br />

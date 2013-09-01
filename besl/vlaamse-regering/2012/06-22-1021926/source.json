@@ -2,16 +2,16 @@
   "codex_id": 1021926,
   "title": "Besluit van de Vlaamse Regering van 2012-06-22 tot wijziging van bijlage I van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van de leergebieden van de basiseducatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021926/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "472660e23caf154d30084996fee069f0a144434edb98a9248302503c66cb6854",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021926/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "8093089c332f7cb08d294f9a9dbd8980ba131aeae864554432a8898b9f34480f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021926&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2013-09-01",
   "made": "2012-06-22",
   "gazette": "2012-07-13",
   "numac": 2012035740,
   "document_start": "2012-09-01",
   "document_end": null,
-  "in_force": "2012-09-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2012-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-09-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
