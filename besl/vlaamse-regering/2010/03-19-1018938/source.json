@@ -2,16 +2,16 @@
   "codex_id": 1018938,
   "title": "Besluit van de Vlaamse Regering van 2010-03-19 betreffende de individuele concordantie in het secundair volwassenenonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018938/VolledigDocument?datum=2013-02-01",
-  "source_sha256": "09fe8378b200ec83060582019c66ee841d2799600dd8ccd25b50a8a0575754ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018938/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "657558c0a4acfadfdcff95caa2818c617900b580faa0d6edbeb3eeaf03d28169",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018938&param=informatie",
-  "as_of": "2013-02-01",
+  "as_of": "2013-09-01",
   "made": "2010-03-19",
   "gazette": "2010-04-19",
   "numac": 2010035271,
   "document_start": "2010-09-01",
   "document_end": null,
-  "in_force": "2013-02-01",
+  "in_force": "2013-09-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2013-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
