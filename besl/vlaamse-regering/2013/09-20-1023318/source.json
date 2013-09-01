@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023318,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-20 tot tijdelijke erkenning van de bachelor-na-bacheloropleiding bachelor in het onderwijs : buitengewoon onderwijs van de Artesis Hogeschool Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023318/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "e9a073c346fc03a70c97e0e3d0d1c34eda985a6deb68cbc5c10c9c01a25525bb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023318&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2013-09-20",
+  "gazette": "2013-10-17",
+  "numac": 2013205467,
+  "document_start": "2013-10-27",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
