@@ -16,6 +16,10 @@
 
 Artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2013   betreffende rechtstreeks toegankelijke hulp voor personen met een handicap wordt   vervangen door wat volgt : <BR>« Art. 2. Het agentschap kan conform de   bepalingen van dit besluit en binnen de grenzen van de kredieten die daarvoor   ingeschreven zijn op zijn begroting, de volgende voorzieningen die al door het   agentschap zijn erkend en worden gesubsidieerd, voor de uitbouw van rechtstreeks   toegankelijke hulp erkennen en subsidiëren : <BR>1° tehuizen;<BR>2°   dagcentra;<BR>3° internaten;<BR>4° semi-internaten;<BR>5° centra voor   observatie, oriëntering en medische, psychologische en pedagogische   behandeling;<BR>6° diensten voor beschermd wonen;<BR>7° diensten voor   geïntegreerd wonen; <BR>8° diensten inclusieve ondersteuning;<BR>9° diensten   voor begeleid wonen;<BR>10° thuisbegeleidingsdiensten;<BR>11° diensten voor   zelfstandig wonen. ».<BR>
 
+### ART. 5.
+
+In het besluit van de Vlaamse Regering van 17 september 2010 betreffende   de subsidiëring van crisisjeugdhulpverlening en rechtstreeks toegankelijke   jeugdhulp verleend door voorzieningen voor personen met een handicap, gewijzigd   bij het besluit van de Vlaamse Regering van 27 januari 2012, wordt artikel 5   opgeheven.<BR>
+
 ### ART. 6.
 
 Dit besluit heeft uitwerking met ingang van 1 maart 2013, met uitzondering   van : <BR>1° artikel 4 dat in werking treedt op 1 januari 2014;<BR>2° artikel 5   dat in werking treedt op 1 september 2013. <BR>
