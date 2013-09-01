@@ -2,16 +2,16 @@
   "codex_id": 1016979,
   "title": "Besluit van de Vlaamse Regering van 2002-05-03 Centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen Functiebeschrijving van de [directeur-afgevaardigd bestuurder]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016979/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "479b083d184f7113f47fffb5ce4e05ef73d7b20902dc5e994556ec6cf33bd26b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016979/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "e86113af0c43d9c2604e5dfe6f11325f6e80fa54ab31e8e256cfb7465d0ac254",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016979&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-09-01",
   "made": "2002-05-03",
   "gazette": "2002-06-04",
   "numac": 2002035653,
   "document_start": "2002-03-16",
   "document_end": "2013-08-31",
-  "in_force": "2006-06-01",
+  "in_force": "2013-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
