@@ -2,16 +2,16 @@
   "codex_id": 1016032,
   "title": "Besluit van de Vlaamse Regering van 2007-06-22 tot vaststelling van de lijst van bachelor- en masteropleidingen en afstudeerrichtingen binnen een masteropleiding met een bijkomende titel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016032/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "7814150c10cb48c26b465a3cea9c26b1b98683a610c41964a3420b705a2742fe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016032/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "f84b3a7cf388de96e6952424cab208c8f44a936895014a68237a7bb9be72e11f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016032&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2013-09-01",
   "made": "2007-06-22",
   "gazette": "2007-08-03",
   "numac": 2007036256,
   "document_start": "2005-09-01",
   "document_end": "2013-08-31",
-  "in_force": "2011-09-01",
+  "in_force": "2013-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2011-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }
