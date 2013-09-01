@@ -2,16 +2,16 @@
   "codex_id": 1021902,
   "title": "Besluit van de Vlaamse Regering van 2012-06-01 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van de leergebieden van de basiseducatie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021902/VolledigDocument?datum=2012-04-15",
-  "source_sha256": "5c822c8e85cfb3e6a3238abde91c9de0ca0f269551f1ef1d94bda610dfb8aced",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021902/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "3839dbc56eb673370cf67eb15b885d190d23e414a3c15f0186b28392907b69b8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021902&param=informatie",
-  "as_of": "2012-04-15",
+  "as_of": "2013-09-01",
   "made": "2012-06-01",
   "gazette": "2012-07-05",
   "numac": 2012035694,
   "document_start": "2012-04-15",
   "document_end": null,
-  "in_force": "2012-04-15",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2012-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
 }

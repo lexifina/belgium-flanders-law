@@ -16,6 +16,10 @@ In artikel 3, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van d
 
 Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 17 oktober 2008, 24 juli 2009 en 23 juli 2010, worden een bijlage XXV en XXVI toegevoegd, die als bijlage 1 en 2 bij dit besluit zijn gevoegd.<br /><br />
 
+### ART. 4.
+
+Bijlage XII bij hetzelfde besluit wordt opgeheven.<br /><br />
+
 ### ART. 5.
 
 Dit besluit heeft uitwerking met ingang van 15 april 2012, met uitzondering van artikel 4, dat in werking treedt op 1 september 2013.<br /><br />
