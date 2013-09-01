@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024621,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van sommige besluiten van de Vlaamse Regering betreffende de organisatie van het secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024621/VolledigDocument?datum=2013-09-01",
+  "source_sha256": "5f43877033b95f6642578f40abb43eeb626d0cc1dc3c18ace13f513caa7edb56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024621&param=informatie",
+  "as_of": "2013-09-01",
+  "made": "2014-06-20",
+  "gazette": "2014-10-02",
+  "numac": 2014035966,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2013-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
