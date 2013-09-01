@@ -762,7 +762,11 @@ De structuur van het deeltijds kunstonderwijs bestaat uit vier graden:<br>
 
 ### ART. 93quater.
 
-In afwijking van artikel 93bis en artikel 93ter, § 1 tot en met § 6, kunnen in het schooljaar 2011-2012 en 2012-2013 geen nieuwe instellingen voor deeltijds kunstonderwijs en kunstacademies worden opgericht.<br /><br />In afwijking van deze bepaling kan de Vlaamse Regering in uitzonderlijke gevallen aan een inrichtende macht toelating geven tot programmatie van een instelling of een kunstacademie :<br />1° na schriftelijke en gemotiveerde aanvraag van die inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten vóór 1 maart van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br />2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie.
+In afwijking van artikel 93bis en artikel 93ter, § 1 tot en met § 6, kunnen vanaf het schooljaar 2011-2012 geen nieuwe instellingen voor deeltijds kunstonderwijs en kunstacademies worden opgericht.<br>
+<br>
+In afwijking van deze bepaling kan de Vlaamse Regering in uitzonderlijke gevallen aan een inrichtende macht toelating geven tot programmatie van een instelling of een kunstacademie :<br>
+1° na schriftelijke en gemotiveerde aanvraag van die inrichtende macht, ingediend bij het Agentschap voor Onderwijsdiensten uiterlijk op 30 november van het voorafgaand schooljaar en vergezeld van het protocol van de onderhandeling ter zake in het bevoegd lokaal comité, en<br>
+2° na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds het Agentschap voor Onderwijsdiensten en de Inspectie.
 
 ### ART. 94.
 
