@@ -741,14 +741,13 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 ### ART. 23.
 
 <p>§ 1. Voor de berekening van het aantal financieringspunten wordt het puntengewicht van de studiegebieden als volgt vastgelegd :<br>
-1° voor de opleidingen in het hoger beroepsonderwijs en professioneel gerichte opleidingen aan de hogescholen :<br>
-</p>
+1° voor de opleidingen in het hoger beroepsonderwijs en professioneel gerichte opleidingen aan de hogescholen :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:347.4pt">
-			<p>Studiegebied<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>Studiegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:113.2pt">
 			<p>Puntengewicht</p>
@@ -833,8 +832,7 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 
 <p>&nbsp;</p>
 
-<p>2° voor de academisch gerichte opleidingen aan de hogescholen :<br>
-</p>
+<p>2° voor de academisch gerichte opleidingen aan de hogescholen :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -925,8 +923,7 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 
 <p>&nbsp;</p>
 
-<p>3° voor de academisch gerichte opleidingen aan de universiteiten :<br>
-</p>
+<p>3° voor de academisch gerichte opleidingen aan de universiteiten :</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1196,7 +1193,7 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
-			<p>ac) conservatie en restauratie</p>
+			<p>ac) conservatie-restauratie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
 			<p>2,00</p>
@@ -1209,8 +1206,7 @@ De totale omvang van de middelen die gegenereerd worden door de toepassing van d
 
 <p>&nbsp;</p>
 
-<p>4° voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Architectuur, Industriële wetenschappen en technologie, Biotechniek, Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht als volgt :<br>
-</p>
+<p>4° voor de academisch gerichte bachelor- en masteropleidingen in de studiegebieden Architectuur, Industriële wetenschappen en technologie, Biotechniek, Productontwikkeling, Toegepaste taalkunde en Handelswetenschappen en bedrijfskunde, die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht als volgt :</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -2424,104 +2420,61 @@ De hogeschool sluit een overeenkomt af met de associatie over de inzet van deze 
 
 ### ART. 38ter.
 
-<p>§ 1. Vanaf het begrotingsjaar 2014 ontvangen de hogescholen een uitkering van 7.792.558,85 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte kunstopleidingen in de Schools of Arts. Dit bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
+<p>§ 1. Vanaf het begrotingsjaar 2014 ontvangen de hogescholen een uitkering van 7.616.782,04 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte kunstopleidingen in de Schools of Arts. Dit bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen :</p>
+Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen :&nbsp;</p>
+&nbsp;
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td>
-			<p>begrotingsjaar</p>
-			</td>
-			<td>
-			<p>bedrag (uitgedrukt in miljoen euro)</p>
-			</td>
+			<td>begrotingsjaar</td>
+			<td>bedrag (uitgedrukt in miljoen euro)</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2014</p>
-			</td>
-			<td>
-			<p>2,23</p>
-			</td>
+			<td>2014</td>
+			<td>2,18</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2015</p>
-			</td>
-			<td>
-			<p>3,23</p>
-			</td>
+			<td>2015</td>
+			<td>3,16</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2016</p>
-			</td>
-			<td>
-			<p>4,23</p>
-			</td>
+			<td>2016</td>
+			<td>4,13</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2017</p>
-			</td>
-			<td>
-			<p>5,23</p>
-			</td>
+			<td>2017</td>
+			<td>5,11</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2018</p>
-			</td>
-			<td>
-			<p>6,56</p>
-			</td>
+			<td>2018</td>
+			<td>6,41</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2019</p>
-			</td>
-			<td>
-			<p>7,89</p>
-			</td>
+			<td>2019</td>
+			<td>7,71</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2020</p>
-			</td>
-			<td>
-			<p>9,22</p>
-			</td>
+			<td>2020</td>
+			<td>9,01</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2021</p>
-			</td>
-			<td>
-			<p>10,55</p>
-			</td>
+			<td>2021</td>
+			<td>10,31</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2022</p>
-			</td>
-			<td>
-			<p>11,88</p>
-			</td>
+			<td>2022</td>
+			<td>11,61</td>
 		</tr>
 		<tr>
-			<td>
-			<p>vanaf 2023</p>
-			</td>
-			<td>
-			<p>13,23</p>
-			</td>
+			<td>vanaf 2023</td>
+			<td>12,93</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5. Voor het berekenen van de nominale toename worden de bedragen vermeld in artikelen 38, § 3, 1°, en 38bis, § 2, 1°, en de bedragen vermeld in het tweede lid als een geheel beschouwd.<br>
+<br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5. Voor het berekenen van de nominale toename worden de bedragen vermeld in artikelen 38, § 3, 1°, en 38bis, § 2, 1°, en de bedragen vermeld in het tweede lid als een geheel beschouwd.<br>
 <br>
 § 2. De bedragen, vermeld in paragraaf 1, worden onder de hogescholen verdeeld naar rato van het aantal opgenomen studiepunten en het aantal uitgereikte diploma's in de academisch gerichte kunstopleidingen.<br>
 <br>
@@ -2531,104 +2484,61 @@ Voor de vaststelling van het aantal uitgereikte diploma's in de academisch geric
 <br>
 Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma's wordt voor 50 % meegerekend.<br>
 <br>
-§ 3. Vanaf het begrotingsjaar 2014 ontvangen de universiteiten een uitkering van 23.339.011,41 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte hogeschoolopleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd zijn in de universiteiten. Dat bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
+§ 3. Vanaf het begrotingsjaar 2014 ontvangen de universiteiten een uitkering van 23.514.788,22 euro als aanvullende onderzoeksmiddelen voor de academisch gerichte hogeschoolopleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd zijn in de universiteiten. Dat bedrag wordt vanaf het begrotingsjaar 2013 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5.<br>
 <br>
-Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro) :</p>
-
-<table border="1" cellpadding="0">
+Het bedrag, vermeld in het eerste lid, wordt vermeerderd met de volgende bedragen (uitgedrukt in miljoen euro) :&nbsp;<br>
+<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td>
-			<p>begrotingsjaar</p>
-			</td>
-			<td>
-			<p>bedrag (uitgedrukt in miljoen euro)</p>
-			</td>
+			<td>begrotingsjaar</td>
+			<td>bedrag (uitgedrukt in miljoen euro)</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2014</p>
-			</td>
-			<td>
-			<p>12,77</p>
-			</td>
+			<td>2014</td>
+			<td>12,82</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2015</p>
-			</td>
-			<td>
-			<p>18,57</p>
-			</td>
+			<td>2015</td>
+			<td>18,64</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2016</p>
-			</td>
-			<td>
-			<p>24,17</p>
-			</td>
+			<td>2016</td>
+			<td>24,27</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2017</p>
-			</td>
-			<td>
-			<p>29,97</p>
-			</td>
+			<td>2017</td>
+			<td>30,09</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2018</p>
-			</td>
-			<td>
-			<p>35,24</p>
-			</td>
+			<td>2018</td>
+			<td>35,39</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2019</p>
-			</td>
-			<td>
-			<p>40,71</p>
-			</td>
+			<td>2019</td>
+			<td>40,89</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2020</p>
-			</td>
-			<td>
-			<p>45,98</p>
-			</td>
+			<td>2020</td>
+			<td>46,19</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2021</p>
-			</td>
-			<td>
-			<p>51,25</p>
-			</td>
+			<td>2021</td>
+			<td>51,49</td>
 		</tr>
 		<tr>
-			<td>
-			<p>2022</p>
-			</td>
-			<td>
-			<p>56,72</p>
-			</td>
+			<td>2022</td>
+			<td>56,99</td>
 		</tr>
 		<tr>
-			<td>
-			<p>vanaf 2023</p>
-			</td>
-			<td>
-			<p>60,37</p>
-			</td>
+			<td>vanaf 2023</td>
+			<td>60,67</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5. Voor het berekenen van de nominale toename worden de bedragen vermeld in de artikelen 38, § 3, 2°, en 38bis, § 2, 2°, en de bedragen vermeld in het tweede lid als een geheel beschouwd.<br>
+<br>
+Het bedrag dat in het begrotingsjaar t nominaal wordt toegevoegd, zijnde het verschil tussen het bedrag voor het begrotingsjaar t en het bedrag voor het begrotingsjaar t-1, vermeld in het tweede lid, wordt vanaf het begrotingsjaar t+1 geïndexeerd aan de hand van de indexformule, vermeld in artikel 9, § 5. Voor het berekenen van de nominale toename worden de bedragen vermeld in de artikelen 38, § 3, 2°, en 38bis, § 2, 2°, en de bedragen vermeld in het tweede lid als een geheel beschouwd.<br>
 <br>
 § 4. De bedragen, vermeld in paragraaf 3, worden onder de universiteiten verdeeld naar rato van het aantal opgenomen studiepunten en het aantal uitgereikte diploma's in de academisch gerichte opleidingen waarvan de onderwijsbevoegdheid met ingang van het academiejaar 2013-2014 overgedragen is van de hogescholen aan de universiteiten.<br>
 <br>
@@ -2642,8 +2552,8 @@ Zowel het aantal opgenomen studiepunten als het aantal uitgereikte diploma's wor
 <br>
 § 5. In afwijking van paragraaf 2 en 4 kan vanaf het begrotingsacademiejaar 2019 de jaarlijkse toename van de aanvullende onderzoeksmiddelen verdeeld worden op basis van outputindicatoren. De Vlaamse Regering stelt daarvoor een werkgroep samen die uiterlijk tegen 30 juni 2015 een voorstel uitwerkt. Op basis van dat voorstel legt de Vlaamse Regering tegen 1 januari 2016 de concrete verdelingswijze vast, alsook de lijst van outputindicatoren.<br>
 <br>
-§ 6. De middelen, vermeld in dit artikel, worden met behoud van bestemming toegevoegd aan de werkingsuitkering.</p>
-<br>
+§ 6. De middelen, vermeld in dit artikel, worden met behoud van bestemming toegevoegd aan de werkingsuitkering.
+<p>&nbsp;</p>
 
 ### ART. 39.
 
@@ -2792,15 +2702,125 @@ De hogeschool stelt samen met de associatie waartoe ze behoort een onderzoeksreg
 
 ### ART. 40bis.
 
-§ 1. Op basis van artikel 19 derde lid van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs wordt het totaal van de werkingsuitkering voor hogescholen voor opleidingen in het hoger beroepsonderwijs (W-hbo) berekend.<br /><br />§ 2. De werkingsuitkering voor hogescholen voor opleidingen in het hoger beroepsonderwijs (W-hbo) is samengesteld uit volgende componenten :<br />1° een onderwijssokkel voor opleidingen in het hoger beroepsonderwijs (SOW-hbo);<br />2° een variabel onderwijsdeel voor opleidingen in het hoger beroepsonderwijs (VOW-hbo).<br /><br />§ 3. Voor de componenten, vermeld in § 1, kunnen volgende bedragen worden vastgelegd (uitgedrukt in euro)<br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20090430-m12-art150_bestanden/filelist.xml&quote;><title>begrotingsjaar</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>2</o:TotalTime>  <o:Created>2009-07-20T08:50:00Z</o:Created>  <o:LastSaved>2009-07-20T08:52:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>20</o:Words>  <o:Characters>112</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>131</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt; border:outset 1.0pt;mso-border-alt:outset windowtext .25pt;mso-border-insideh: .25pt outset windowtext;mso-border-insidev:.25pt outset windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=157 style='width:117.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:8.0pt'>begrotingsjaar<o:p></o:p></span></p>  </td>  <td width=142 style='width:106.5pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span class=SpellE><span  style='font-size:8.0pt'>SOW-hbo</span></span><span style='font-size:8.0pt'><o:p></o:p></span></p>  </td>  <td width=153 style='width:114.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span class=SpellE><span  style='font-size:8.0pt'>VOW-hbo</span></span><span style='font-size:8.0pt'><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=157 style='width:117.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:8.0pt'>2011<o:p></o:p></span></p>  </td>  <td width=142 style='width:106.5pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>20.250<o:p></o:p></span></p>  </td>  <td width=153 style='width:114.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>162.000<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=157 style='width:117.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:8.0pt'>2012<o:p></o:p></span></p>  </td>  <td width=142 style='width:106.5pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>178.288<o:p></o:p></span></p>  </td>  <td width=153 style='width:114.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>1.426.300<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=157 style='width:117.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:8.0pt'>2013<o:p></o:p></span></p>  </td>  <td width=142 style='width:106.5pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>361.100<o:p></o:p></span></p>  </td>  <td width=153 style='width:114.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>2.888.000<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>  <td width=157 style='width:117.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:8.0pt'>Vanaf 2014<o:p></o:p></span></p>  </td>  <td width=142 style='width:106.5pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>524.344<o:p></o:p></span></p>  </td>  <td width=153 style='width:114.75pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:8.0pt'>4.194.750<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /><br />§ 4. Vanaf 2015 is SOW-hbo steeds minstens 1/8e van VOW-hbo.<br />
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>2</o:TotalTime><br>  <o:Created>2009-07-20T08:50:00Z</o:Created><br>  <o:LastSaved>2009-07-20T08:52:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>20</o:Words><br>  <o:Characters>112</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>1</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>131</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->§ 1. Vanaf het begrotingsjaar 2014 ontvangen de hogescholen voor de taken in verband met het samenwerkingsverband voor hbo5-opleidingen, zoals bepaald in artikel 50 van het decreet van 30 april 2009 betreffende het secundair na secundair onderwijs en hoger beroepsonderwijs, een werkingstoelage.<br>
+<br>
+§ 2. Voor de werkingstoelage, voorzien in § 1, kunnen volgende bedragen worden vastgelegd :<br>
+- voor het begrotingsjaar 2014 : 182.250 euro;<br>
+- vanaf het begrotingsjaar 2015 : 1.604.588 euro.<br>
+<br>
+§ 3. De werkingstoelage van een hogeschool, zoals bepaald in § 1, bestaat uit een sokkel en een variabel deel. De sokkel bedraagt steeds 35.000 euro. Het variabel deel wordt bepaald door het resterende bedrag te verdelen tussen de samenwerkingsverbanden a rato van het aantal hbo5-opleidingen dat ze aanbieden.<br>
+<br>
+§ 4. In afwijking van § 3 wordt in 2014 het bedrag waarin in § 2 voorzien wordt, gelijk verdeeld over het aantal hogescholen dat lid is van een samenwerkingsverband.<br>
+<br>
+§ 5. Indien de Hogere Zeevaartschool gebruik maakt van de bepaling, vermeld in artikel 50, § 2, kan ze geen aanspraak maken op de werkingstoelage, als vermeld in § 1.
+<div><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table class="MsoNormalTable" style="mso-border-alt: outset windowtext .25pt; mso-border-insidev: .25pt outset windowtext; mso-cellspacing: 1.5pt; br: outset 1.0pt;" border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 117.75pt;">&nbsp;
+			<p>begrotingsjaar</p>
+			</td>
+			<td style="width: 106.5pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;SOW-hbo</p>
+			</td>
+			<td style="width: 114.75pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;VOW-hbo</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 117.75pt;">&nbsp;
+			<p>2011</p>
+			</td>
+			<td style="width: 106.5pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;20.250</p>
+			</td>
+			<td style="width: 114.75pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;162.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 117.75pt;">&nbsp;
+			<p>2012</p>
+			</td>
+			<td style="width: 106.5pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;178.288</p>
+			</td>
+			<td style="width: 114.75pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;1.426.300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 117.75pt;">&nbsp;
+			<p>2013</p>
+			</td>
+			<td style="width: 106.5pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;361.100</p>
+			</td>
+			<td style="width: 114.75pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;2.888.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width: 117.75pt;">&nbsp;
+			<p>Vanaf 2014</p>
+			</td>
+			<td style="width: 106.5pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;524.344</p>
+			</td>
+			<td style="width: 114.75pt;">&nbsp;
+			<p style="text-align: right;">style='font-size:8.0pt'&gt;4.194.750</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;
+
+<p>&nbsp;</p>
+<br>
+&nbsp;</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+"FILENAME="20090430-m12-art150.htm"}<br>
+<br>
+§ 4. Vanaf 2015 is SOW-hbo steeds minstens 1/8e van VOW-hbo.
 
 ### ART. 40ter.
 
-§ 1. Voor de berekening van de onderwijssokkel voor opleidingen in het hoger beroepsonderwijs (SOW-hbo) wordt het aantal opgenomen studiepunten in een opleiding van het hoger beroepsonderwijs als volgt vastgesteld :<br />a) voor het begrotingsjaar 2011 : de opgenomen studiepunten in het academiejaar 2009-2010;<br />b) voor het begrotingsjaar 2012 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010 en 2010-2011;<br />c) voor het begrotingsjaar 2013 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011 en 2011-2012;<br />d) voor het begrotingsjaar 2014 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012 en 2012-2013;<br />e) voor het begrotingsjaar 2015 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014;<br />f) vanaf het begrotingsjaar 2016 het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2.<br /><br />§ 2. Voor de berekening van de onderwijssokkel voor opleidingen in het hoger beroepsonderwijs voor een hogeschool (SOWi-hbo) wordt het bedrag, vermeld in artikel 40bis, § 2, omgeslagen over de hogescholen die opleidingen in het hoger beroepsonderwijs aanbieden overeenkomstig de volgende formule :<br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20090430-m12-art151_bestanden/filelist.xml&quote;><title>SOWi-hbo = OSTPi-hbo x SOW-hbo</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>5</o:TotalTime>  <o:Created>2009-07-20T08:53:00Z</o:Created>  <o:LastSaved>2009-07-20T08:58:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>7</o:Words>  <o:Characters>40</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>46</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>  <td width=367 valign=top style='width:275.4pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><u><span  style='font-size:10.0pt'>SOWi-hbo</span></u></span><u><span style='font-size:  10.0pt'> = <span class=SpellE>OSTPi-hbo</span> x <span class=SpellE>SOW-hbo</span><o:p></o:p></span></u></p>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt'>&#8721;<sub> i</sub> <span class=SpellE>OSTPi-hbo</span><o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /><br />waarbij :<br />1° SOWi-hbo gelijk is aan de onderwijssokkel voor opleidingen in het hoger beroepsonderwijs voor instelling i;<br />2° OSTPi-hbo gelijk is aan het aantal opgenomen studiepunten, berekend overeenkomstig § 1;<br />3° SOW-hbo gelijk is aan de totale onderwijssokkel voor opleidingen in het hoger beroepsonderwijs, zoals vermeld in artikel 40bis, § 2.<br /><br />De sommatie i verloopt over alle hogescholen.
+...
 
 ### ART. 40quater.
 
-§ 1. Voor de berekening van het variabel onderwijsdeel voor de opleidingen in het hoger beroepsonderwijs voor een instelling (VOWi-hbo) worden de bedragen vermeld in artikel 40bis als volgt omgeslagen :<br /><br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20090430-m12-art152_bestanden/filelist.xml&quote;><title>SOWi-hbo = OSTPi-hbo x SOW-hbo</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>6</o:TotalTime>  <o:Created>2009-07-20T08:59:00Z</o:Created>  <o:LastSaved>2009-07-20T08:59:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>6</o:Words>  <o:Characters>36</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>41</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>  <td width=367 valign=top style='width:275.4pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=center style='text-align:center'><span class=SpellE><u><span  style='font-size:10.0pt'>VOWi-hbo</span></u></span><u><span style='font-size:  10.0pt'> = <span class=SpellE>FPi-hbo</span> x <span class=SpellE>VOWhbo</span><o:p></o:p></span></u></p>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt'>&#8721;<sub> i</sub> <span class=SpellE>FPi-hbo</span><o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /><br />De sommatie i loopt over het aantal hogescholen;<br />waarbij :<br />a) VOWi-hbo gelijk is aan het variabel onderwijsdeel voor de opleidingen in het hoger beroepsonderwijs in hogeschool i;<br />b) FPi-hbo gelijk is aan het totale aantal financieringspunten in de opleidingen in het hoger beroepsonderwijs in hogeschool i;<br />c) VOWhbo gelijk is aan het variabel onderwijsdeel voor de opleidingen in het hoger beroepsonderwijs, vermeld in § 1.<br /><br />De financieringspunten, worden als volgt berekend :<br />FPi-hbo = FPi-hbo-input + FPi-hbo-output + FPi-hbo-diploma + FPi-hbo-credit,<br />waarbij :<br />1° FPi-hbo-input gelijk is aan het aantal financieringspunten, gebaseerd op het aantal opgenomen studiepunten voor het variabel onderwijsdeel voor de opleidingen in het hoger beroepsonderwijs in instelling i, zoals bepaald in § 2;<br />2° FPi-hbo-output gelijk is aan het aantal financieringspunten, gebaseerd op het aantal verworven studiepunten voor het variabel onderwijsdeel voor de opleidingen in het hoger beroepsonderwijs in instelling i, zoals bepaald in § 3;<br />3° FPi-hbo-diploma gelijk is aan het aantal financieringspunten, gebaseerd op het aantal uitgereikte diploma's in de opleidingen in het hoger beroepsonderwijs in instelling i, zoals bepaald in § 4;<br />4° FPi-hbo-credit gelijk is aan het aantal financieringspunten in instelling i, gebaseerd op het aantal verworven studiepunten door studenten onder creditcontract voor de opleidingen in het hoger beroepsonderwijs, zoals bepaald in § 6.<br /><br />§ 2. 1° Het aantal opgenomen studiepunten in de opleidingen in het hoger beroepsonderwijs wordt als volgt meegerekend voor de vaststelling van het aantal financieringspunten FPi-hbo-input :<br />a) voor het begrotingsjaar 2011 : de opgenomen studiepunten in het academiejaar 2009-2010;<br />b) voor het begrotingsjaar 2012 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010 en 2010-2011;<br />c) voor het begrotingsjaar 2013 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011 en 2011-2012;<br />d) voor het begrotingsjaar 2014 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012 en 2012-2013;<br />e) voor het begrotingsjaar 2015 : het gemiddeld aantal opgenomen studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014;<br />f) vanaf het begrotingsjaar 2016 het gemiddeld aantal opgenomen studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2;<br />2° het aantal opgenomen studiepunten wordt vermenigvuldigd met het puntengewicht, zoals bepaald in artikel 23;<br />3° voor de berekening van het aantal opgenomen studiepunten per opleiding wordt het aantal studiepunten in aanmerking genomen waarvoor een student onder diplomacontract zich heeft ingeschreven voor een opleiding in het hoger beroepsonderwijs tot op het ogenblik dat de student 60 studiepunten heeft verworven in één en dezelfde opleiding in het hoger beroepsonderwijs. Voor de vaststelling van die eerste 60 studiepunten in één en dezelfde opleiding in het hoger beroepsonderwijs worden de volgende studiepunten in aanmerking genomen :<br />a) het aantal studiepunten waarvoor de student een creditbewijs ontvangen heeft in de desbetreffende opleiding in het hoger beroepsonderwijs;<br />b) het aantal studiepunten waarvoor de student in de desbetreffende opleiding in het hoger beroepsonderwijs een vrijstelling heeft gekregen voor een opleidingsonderdeel.<br /><br />§ 3. 1° Voor de berekening van het aantal financie- ringspunten FPi-hbo-output wordt het aan- tal financieringspunten gebaseerd op het aan- tal verworven studiepunten in de opleidingen in het hoger beroepsonderwijs in aanmerking genomen;<br />2° het aantal verworven studiepunten in de opleidingen in het hoger beroepsonderwijs wordt als volgt meegerekend voor de vaststelling van het aantal financieringspunten FPi-hbo-output :<br />a) voor het begrotingsjaar 2011 : de verworven studiepunten in het academiejaar 2009-2010;<br />b) voor het begrotingsjaar 2012 : het gemiddeld aantal verworven studiepunten over de academiejaren 2009-2010 en 2010-2011;<br />c) voor het begrotingsjaar 2013 : het gemiddeld aantal verworven studiepunten over de academiejaren 2009-2010, 2010-2011 en 2011-2012;<br />d) voor het begrotingsjaar 2014 : het gemiddeld aantal verworven studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012 en 2012-2013;<br />e) voor het begrotingsjaar 2015 : het gemiddeld aantal verworven studiepunten over de academiejaren 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014;<br />f) vanaf het begrotingsjaar 2016 het gemiddeld aantal verworven studiepunten over de academiejaren t-7/t-6 tot en met t-3/t-2;<br />3° voor de vaststelling van het aantal verworven studiepunten per opleiding wordt het aantal studiepunten in aanmerking genomen waarvoor een student onder diplomacontract een creditbewijs ontvangen heeft in een opleiding in het hoger beroepsonderwijs, voor zover zij niet gefinancierd worden onder input financiering, zoals vermeld in § 2;<br />4° het aantal opgenomen studiepunten wordt vermenigvuldigd met het puntengewicht, zoals bepaald in artikel 23.<br /><br />§ 4 1° Voor de berekening van het aantal studiepun- ten FPi-hbo-diploma wordt voor de opleidin- gen in het hoger beroepsonderwijs in de hoge- scholen het aantal financieringspunten gebaseerd op het aantal uitgereikte diploma's in de opleidingen in het hoger beroepsonder- wijs in aanmerking genomen;<br />2° voor de vaststelling van het aantal financieringspunten FPi-hbo-diploma wordt het aantal uitgereikte diploma's in de opleidingen in het hoger beroepsonderwijs als volgt meegerekend :<br />a) voor het begrotingsjaar 2012 : de uitgereikte diploma »s in het academiejaar 2010-2011, vermenigvuldigd met 30;<br />b) voor het begrotingsjaar 2013 : het gemiddeld aantal uitgereikte diploma's over de academiejaren 2010-2011 en 2011-2012, vermenigvuldigd met 30;<br />c) voor het begrotingsjaar 2014 : het gemiddeld aantal uitgereikte diploma's over de academiejaren 2010-2011, 2011-2012 en 2012-2013, vermenigvuldigd met 30;<br />d) voor het begrotingsjaar 2015 : het gemiddeld aantal uitgereikte diploma's over de academiejaren 2010-2011, 2011-2012, 2012-2013 en 2013-2014, vermenigvuldigd met 30;<br />e) vanaf het begrotingsjaar 2016 het gemiddeld aantal uitgereikte diploma's over de academiejaren t-7/t-6 tot en met t-3/t-2, vermenigvuldigd met 30;<br />3° alleen de diploma's, uitgereikt aan studenten die voor minstens de helft van de studiepunten van de desbetreffende opleiding een creditbewijs ontvangen hebben in de instelling die het diploma uitreikt, worden in aanmerking genomen voor de berekening van het aantal financieringspunten FPi-hbo-diploma;<br />4° het aantal uitgereikte diploma's wordt vermenigvuldigd met het puntengewicht, zoals bepaald in artikel 23.<br /><br />§ 5. Het aantal financieringspunten in het kader van FPi-hbo-input, FPi-hbo-output en FPi-hbo-diploma gegenereerd door een werkstudent, een beursstudent en door een student met een functiebeperking wordt vermenigvuldigd met een factor 1,5.<br /><br />In het geval dat een student beantwoordt aan meer dan één categorie van studentenkenmerken, vermeld in het eerste lid, dan wordt het aantal opgenomen studiepunten, het aantal verworven studiepunten en de diplomabonus van de student verhoogd met de helft van het aantal opgenomen studiepunten, de helft van het aantal verworven studiepunten en de helft van de diplomabonus van die student voor elke categorie van studentenkenmerken van toepassing op de betreffende student.<br /><br />§ 6. 1° Voor de berekening van het aantal financieringspunten FPi-hbo-credit wordt het aantal financieringspunten gebaseerd op behaalde creditbewijzen in de opleidingen in het hoger beroepsonderwijs, door studenten met een creditcontract, in aanmerking genomen;<br />2° het aantal verworven studiepunten in de opleidingen in het hoger beroepsonderwijs, behaald door studenten met een creditcontract, wordt als volgt meegerekend voor de vaststelling van het aantal financieringspunten FPi-hbo-credit :<br />a) voor het begrotingsjaar 2011 : de verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs in het academiejaar 2009-2010;<br />b) voor het begrotingsjaar 2012 : het gemiddeld aantal verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs over de academiejaren 2009-2010 en 2010-2011;<br />c) voor het begrotingsjaar 2013 : het gemiddeld aantal verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs over de academiejaren 2009-2010, 2010-2011 en 2011-2012;<br />d) voor het begrotingsjaar 2014 : het gemiddeld aantal verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs over de academiejaren 2009-2010, 2010-2011, 2011-2012 en 2012-2013;<br />e) voor het begrotingsjaar 2015 : het gemiddeld aantal verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs over de academiejaren 2009-2010, 2010-2011, 2011-2012, 2012-2013 en 2013-2014;<br />f) vanaf het begrotingsjaar 2016 het gemiddeld aantal verworven studiepunten van studenten met een creditcontract in de opleidingen in het hoger beroepsonderwijs over de academiejaren t-7/t-6 tot en met t-3/t-2.<br /><br />De studiepunten waarvoor studenten onder creditcontract een creditbewijs behaald hebben in een instelling, worden verdeeld over de studiegebieden waarvoor de instelling onderwijsbevoegdheid heeft pro rata het aantal financieringspunten FPi-hbo-output in de studiegebieden en vermenigvuldigd met het puntengewicht van het betreffende studiegebied, zoals vastgelegd in artikel 23.
+...
 
 ### ART. 40quinquies.
 
@@ -2979,7 +2999,7 @@ Behoudens in geval van fraude geven wijzigingen van de verstrekte gegevens geen 
 
 ### ART. 57.
 
-§ 1. Het instellingsbestuur dient elk jaar vóór 31 mei bij de Vlaamse Regering een jaarrekening in waarin het rekenschap aflegt over het financiële beheer van de instelling voor het voorgaande begrotingsjaar.<br /><br />Deze jaarrekening gaat vergezeld van een door het instellingsbestuur opgesteld jaarverslag ten aanzien van alle voorzieningen van de instelling. De jaarrekening en het jaarverslag zijn openbare documenten.<br /><br />§ 2. De Vlaamse Regering bepaalt de voorschriften betreffende de inhoud en het opstellen van de jaarrekening en het jaarverslag.<br /><br />In het jaarverslag rapporteren de hogescholen mede over :<br />1° de besteding van de academiseringsmiddelen, vermeld in artikel 38, § 1. Zij nemen ook een jaarlijkse evaluatie op van de vooropgestelde planning;<br />2° de besteding van de middelen voor de versteviging van de onderzoeksbetrokkenheid van de academisch gerichte opleidingen, vermeld in artikel 39;<br />3° de besteding van de middelen voor het praktijkgericht wetenschappelijk onderzoek, vermeld in artikel 190bis van het Hogescholendecreet.<br /><br />In het jaarverslag rapporteren de hogescholen en de universiteiten mede over :<br />1° het aanbieden van flexibele studietrajecten en de keuze- en studievoortgangsbegeleiding van studenten, zoals vermeld in artikel 53 van het Flexibiliseringsdecreet;<br />2° de voortgang van de uitvoering van de beheersovereenkomsten, vermeld in artikel 45, en over de realisaties in het betreffende jaar;<br />3° de besteding van de aanvullende onderzoeksmiddelen, vermeld in artikel 38bis.<br /><br />Bij de universiteiten omvat het jaarverslag tevens een overzicht van het personeelsbestand dat geheel of gedeeltelijk bezoldigd wordt met overheidsgeld en van het vermogensbestand dat bij middel van bijdragen van de Vlaamse Gemeenschap werd bekomen. De universiteiten rapporteren ook over de evolutie van het aantal leden van het zelfstandig academisch personeel in relatie tot de bijkomende middelen VOWun2014 ZAP en VOZun ZAP, vermeld in artikel 9, § 9. Ze rapporteren daarbij ook over het gevoerde diversiteitsbeleid en over de resultaten en effecten hiervan, ten aanzien van deze personeelsleden. <br /><br />§ 3. De rekening van het universitair ziekenhuis dat deel uitmaakt van de rechtspersoon van de universiteit wordt als bijlage gevoegd bij de jaarrekening. Een overzicht van de geldstromen tussen het universitair ziekenhuis en de rest van de universiteit, en voor wat de Universiteit Gent betreft tussen het Universitair Ziekenhuis Gent en de Universiteit Gent, wordt eveneens als bijlage bij de jaarrekening gevoegd.<br /><br />§ 4. De jaarrekening wordt goedgekeurd door de Vlaamse Regering. Zij deelt de jaarrekening en haar bijlagen en het jaarverslag mee aan het Vlaams Parlement.<br /><br />
+§ 1. Het instellingsbestuur dient elk jaar bij de Vlaamse Regering een   jaarrekening in waarin het rekenschap aflegt over het financiële beheer van de   instelling voor het voorgaande begrotingsjaar.<BR><BR>De jaarrekeningen, met   inbegrip van een jaarrekening conform het schema van het Europees systeem van   nationale en regionale rekeningen in de Europese Unie, die betrekking hebben op   het begrotingsjaar 2013 worden ingediend vóór 15 april 2014.<BR><BR>Voor de   jaarrekeningen die betrekking hebben op het begrotingsjaar 2014 en volgende   geldt het volgende tijdsschema :<BR>1° een prefiguratie van de jaarrekening   opgemaakt volgens het schema van het Europees systeem van nationale en regionale   rekeningen in de Europese Unie wordt ingediend bij de Vlaamse Regering vóór 15   februari;<BR>2° de jaarrekening wordt ingediend bij de Vlaamse Regering vóór 15   april.<BR><BR>Deze jaarrekening gaat vergezeld van een door het   instellingsbestuur opgesteld jaarverslag ten aanzien van alle voorzieningen van   de instelling. De jaarrekening en het jaarverslag zijn openbare   documenten.<BR><BR>§ 2. De Vlaamse Regering bepaalt de voorschriften betreffende   de inhoud en het opstellen van de jaarrekening en het jaarverslag.<BR><BR>In het   jaarverslag rapporteren de hogescholen mede over :<BR>1° de besteding van de   academiseringsmiddelen, vermeld in artikel 38, § 1. Zij nemen ook een jaarlijkse   evaluatie op van de vooropgestelde planning;<BR>2° de besteding van de middelen   voor de versteviging van de onderzoeksbetrokkenheid van de academisch gerichte   opleidingen, vermeld in artikel 39;<BR>3° de besteding van de middelen voor het   praktijkgericht wetenschappelijk onderzoek, vermeld in artikel 190bis van het   Hogescholendecreet.<BR><BR>In het jaarverslag rapporteren de hogescholen en de   universiteiten mede over :<BR>1° het aanbieden van flexibele studietrajecten en   de keuze- en studievoortgangsbegeleiding van studenten, zoals vermeld in artikel   53 van het Flexibiliseringsdecreet;<BR>2° de voortgang van de uitvoering van de   beheersovereenkomsten, vermeld in artikel 45, en over de realisaties in het   betreffende jaar;<BR>3° de besteding van de aanvullende onderzoeksmiddelen,   vermeld in artikel 38bis.<BR><BR>Bij de universiteiten omvat het jaarverslag   tevens een overzicht van het personeelsbestand dat geheel of gedeeltelijk   bezoldigd wordt met overheidsgeld en van het vermogensbestand dat bij middel van   bijdragen van de Vlaamse Gemeenschap werd bekomen. De universiteiten rapporteren   ook over de evolutie van het aantal leden van het zelfstandig academisch   personeel in relatie tot de bijkomende middelen VOWun2014 ZAP en VOZun ZAP,   vermeld in artikel 9, § 9. Ze rapporteren daarbij ook over het gevoerde   diversiteitsbeleid en over de resultaten en effecten hiervan, ten aanzien van   deze personeelsleden. <BR><BR>§ 3. De rekening van het universitair ziekenhuis   dat deel uitmaakt van de rechtspersoon van de universiteit wordt als bijlage   gevoegd bij de jaarrekening. Een overzicht van de geldstromen tussen het   universitair ziekenhuis en de rest van de universiteit, en voor wat de   Universiteit Gent betreft tussen het Universitair Ziekenhuis Gent en de   Universiteit Gent, wordt eveneens als bijlage bij de jaarrekening   gevoegd.<BR><BR>§ 4. De jaarrekening wordt goedgekeurd door de Vlaamse Regering.   Zij deelt de jaarrekening en haar bijlagen en het jaarverslag mee aan het Vlaams   Parlement.<BR><BR>
 
 ### ART. 58.
 
