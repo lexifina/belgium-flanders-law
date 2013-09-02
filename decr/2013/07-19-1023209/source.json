@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023209,
+  "title": "Decreet van 2013-07-19 tot wijziging van het decreet van 20 december 1996 tot regeling van het recht op minimumlevering van elektriciteit, gas en water en tot wijziging van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, wat de minimumlevering van water betreft en de bescherming van abonnees tegen afsluiting van de drinkwatertoevoer",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023209/VolledigDocument?datum=2013-09-02",
+  "source_sha256": "2595f12a6048a7edc6804628a8546e6d0a8d3d47e0a7ea9f6361d594f81575ed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023209&param=informatie",
+  "as_of": "2013-09-02",
+  "made": "2013-07-19",
+  "gazette": "2013-08-23",
+  "numac": 2013204690,
+  "document_start": "2013-09-02",
+  "document_end": null,
+  "in_force": "2013-09-02",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2013-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
