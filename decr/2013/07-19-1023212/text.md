@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK I Inleidende bepalingen
 
+### ART. I.1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
+
 ## HOOFDSTUK II Basisonderwijs
 
 ### ART. II.1.
@@ -997,6 +1001,10 @@ Dit hoofdstuk treedt in werking op 1 september 2013. <BR>Artikel VII.12   heeft 
 Dit hoofdstuk treedt in werking op 1 september 2013.<BR>
 
 ## HOOFDSTUK IX Rijdende kleuterschool
+
+### ART. IX.1.
+
+In het decreet van 21 december 2012 betreffende het onderwijs XXII, wordt   in hoofdstuk II. - Basisonderwijs, afdeling III. - Inwerkingtreding, in artikel   11.24, een laatste lid toegevoegd, dat luidt als volgt :<BR>« Artikel II.21, §   4, heeft uitwerking met ingang van 1 januari 2013. » .<BR>
 
 ## HOOFDSTUK X Speciale onderwijsleermiddelen
 
