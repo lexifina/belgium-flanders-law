@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024954,
+  "title": "Decreet van 2015-01-16 tot instemming met: 1° de overeenkomst tussen het Koninkrijk België en het Algemeen Hoofdkwartier van de Geallieerde Strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit Hoofdkwartier op het grondgebied van het Koninkrijk België, ondertekend te Brussel op 12 mei 1967, zoals gewijzigd en aangevuld door overeenkomst, ondertekend te Brussel op 10 september 2013; 2° de overeenkomst, ondertekend te Brussel op 10 september 2013, tot wijziging en aanvulling van de overeenkomst, ondertekend te Brussel op 12 mei 1967 tussen het koninkrijk België en het algemeen hoofdkwartier van de geallieerde strijdkrachten in Europa inzake de bijzondere voorwaarden voor de vestiging en het functioneren van dit hoofdkwartier op het grondgebied van het Koninkrijk België",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024954/VolledigDocument?datum=2013-09-10",
+  "source_sha256": "6303c590c17b2bcd607da3e30575d544a8042978920e260ec68fa2743057fb63",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024954&param=informatie",
+  "as_of": "2013-09-10",
+  "made": "2015-01-16",
+  "gazette": "2015-02-03",
+  "numac": 201535109,
+  "document_start": "2013-09-10",
+  "document_end": null,
+  "in_force": "2013-09-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
