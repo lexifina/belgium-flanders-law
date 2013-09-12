@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023235,
+  "title": "Besluit van de Vlaamse Regering van 2013-07-19 tot wijziging van artikel 28 en 29 van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023235/VolledigDocument?datum=2013-09-12",
+  "source_sha256": "da438b3072ac0a48beb269852f9e1d654b95f3f84f9c78d8a8d0801b5793d8b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023235&param=informatie",
+  "as_of": "2013-09-12",
+  "made": "2013-07-19",
+  "gazette": "2013-09-12",
+  "numac": 2013204904,
+  "document_start": "2013-09-12",
+  "document_end": null,
+  "in_force": "2013-09-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
