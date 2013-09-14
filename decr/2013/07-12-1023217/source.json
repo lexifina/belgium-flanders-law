@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023217,
+  "title": "Decreet van 2013-07-12 tot wijziging van het decreet van 6 februari 2004 betreffende een waarborgregeling voor kleine, middelgrote en grote ondernemingen en tot wijziging van het decreet van 19 mei 2006 betreffende de Winwinlening",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023217/VolledigDocument?datum=2013-09-14",
+  "source_sha256": "add1fe6af3e3534a86f9ff1ac166da003569a7807b6870165e4e1578abba7717",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023217&param=informatie",
+  "as_of": "2013-09-14",
+  "made": "2013-07-12",
+  "gazette": "2013-09-04",
+  "numac": 2013035782,
+  "document_start": "2013-09-14",
+  "document_end": null,
+  "in_force": "2013-09-14",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
