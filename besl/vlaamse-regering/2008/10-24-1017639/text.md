@@ -715,10 +715,6 @@ Op het secretariaat wordt voor elke zitting van de bemiddelingscommissie een reg
 
 Als het voorwerp van een bemiddelingsverzoek vervalt alvorens de betrokken partijen voor de bemiddelingscommissie zijn opgeroepen of verschenen, neemt ze daar akte van en wordt het dossier afgesloten. De bemiddelingscommissie stelt diegene die een bemiddelingsverzoek heeft ingediend daarvan op de hoogte met een gewone brief door bemiddeling van de secretaris, of op de wijze die ze daartoe het meest geschikt acht. Van die kennisgeving wordt melding gemaakt in het dossier.<br /><br />
 
-### ART. 110.
-
-De officiële documenten, bestemd voor de bemiddelingscommissie, worden door de secretaris geviseerd. De documenten die uitgaan van de van de bemiddelingscommissie, worden door de voorzitter en de secretaris ondertekend.<br /><br />
-
 ## BOEK V GERECHTELIJKE JEUGDBIJSTAND
 
 ## TITEL I Beginselen
