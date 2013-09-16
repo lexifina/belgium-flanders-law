@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023238,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-06 met betrekking tot de oprichting en de werking van de toegangspoort en van de gemandateerde voorzieningen in de integrale jeugdhulp en van de gerechtelijke jeugdhulpverlening in de regio Oost-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023238/VolledigDocument?datum=2013-09-16",
+  "source_sha256": "a7413c819318db118535789b7873a8fb52ba8eafd6bf7bc79f3240e2c62d1537",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023238&param=informatie",
+  "as_of": "2013-09-16",
+  "made": "2013-09-06",
+  "gazette": "2013-09-13",
+  "numac": 2013035807,
+  "document_start": "2013-09-16",
+  "document_end": "2014-02-27",
+  "in_force": "2013-09-16",
+  "article_versions": 51,
+  "record_form": "consolidated version as in force on 2013-09-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
