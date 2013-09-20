@@ -104,7 +104,7 @@ Aan afdeling 5.30.2 van hetzelfde besluit, gewijzigd bij het besluit van   de Vl
 
 ### ART. 23.
 
-Artikel 3 van dit besluit treedt in werking op 1 juli   2014.<BR>
+<P>...</P>
 
 ### ART. 24.
 
