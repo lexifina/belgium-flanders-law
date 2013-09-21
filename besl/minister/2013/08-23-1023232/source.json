@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023232,
+  "title": "Ministerieel besluit van 2013-08-23 van de Vlaamse minister van Leefmilieu, Natuur en Cultuur houdende vaststelling van het subsidiëringsprogramma voor gemeentelijke rioleringen, KWZI'S en individuele waterzuiveringsinstallaties, voor het eerste kwartaalprogramma 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023232/VolledigDocument?datum=2013-09-21",
+  "source_sha256": "c28ecde5b4d78232e2e8ad235a3f6eb62108e5e5e364d0eb062d9717102912c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023232&param=informatie",
+  "as_of": "2013-09-21",
+  "made": "2013-08-23",
+  "gazette": "2013-09-11",
+  "numac": 2013035799,
+  "document_start": "2013-09-21",
+  "document_end": null,
+  "in_force": "2013-09-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
