@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023463,
+  "title": "Ministerieel besluit van 2013-11-18 tot wijziging van artikel 1 van het ministerieel besluit van 27 april 2009 houdende de erkenning als beoordelingsinstantie in het kader van de herkennings- en beoordelingsprocedure tot het verkrijgen van een titel van beroepsbekwaamheid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023463/VolledigDocument?datum=2013-09-25",
+  "source_sha256": "a6c9f9fca9a3af2d86d96dfc0f64e73ed7d6fd5db71577f3c891f6e41b75c96d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023463&param=informatie",
+  "as_of": "2013-09-25",
+  "made": "2013-11-18",
+  "gazette": "2013-12-12",
+  "numac": 2013206648,
+  "document_start": "2013-09-25",
+  "document_end": null,
+  "in_force": "2013-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
