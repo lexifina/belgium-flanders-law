@@ -2,16 +2,16 @@
   "codex_id": 1021826,
   "title": "Ministerieel besluit van 2012-05-16 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021826/VolledigDocument?datum=2012-12-14",
-  "source_sha256": "61d41b45d8ed0c1e2315d00ef8eb6d43b67cc0f2f0d0aa3fb5e51e60c69d455c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021826/VolledigDocument?datum=2013-09-30",
+  "source_sha256": "21503895b83e1677a371dd6e344a74188f888858febad94e3d4fa85f39b3ecc8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021826&param=informatie",
-  "as_of": "2012-12-14",
+  "as_of": "2013-09-30",
   "made": "2012-05-16",
   "gazette": "2012-06-14",
   "numac": 2012203098,
   "document_start": "2012-06-24",
   "document_end": "2013-09-29",
-  "in_force": "2012-12-14",
+  "in_force": "2013-09-30",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2012-12-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-09-30; future article versions excluded; article text as the API gives it"
 }
