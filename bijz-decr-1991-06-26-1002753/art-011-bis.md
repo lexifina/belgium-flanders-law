@@ -1,0 +1,2 @@
+# Art. 11bis
+In afwijking van het bepaalde in artikel 11 loopt het mandaat van de leden van het bestuurscollege dat in functie is bij de start van het academiejaar 2013-2014 af op het einde van dat academiejaar met uitzondering van het mandaat van de rector en de vicerector, en wordt het bestuurscollege opnieuw samengesteld overeenkomstig de bepalingen van dit bijzonder decreet ten laatste bij de start van het academiejaar 2014-2015.

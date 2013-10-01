@@ -1,0 +1,2 @@
+# Art. 20bis
+In afwijking van het bepaalde in artikel 20 loopt het mandaat van de leden van de raad van bestuur die in functie is bij de start van het academiejaar 2013-2014 af op het einde van dat academiejaar met uitzondering van het mandaat van de rector en de vicerector, en wordt de raad van bestuur opnieuw samengesteld overeenkomstig de bepalingen van dit bijzonder decreet ten laatste bij de start van het academiejaar 2014-2015.
