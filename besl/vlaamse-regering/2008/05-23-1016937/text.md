@@ -66,11 +66,11 @@ In artikel V 38 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse 
 
 ### ART. 16.
 
-In artikel V 39 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt §1 vervangen door wat volgt :<br /><br />« § 1. Het opdrachtgevende hoofd van de entiteit, raad of instelling kiest een kandidaat uit de lijst van geschikte kandidaten, die onverminderd artikel V 40, tweede lid, benoemd wordt in het middenkader bij de diensten van de Vlaamse overheid zoals bepaald in artikel V 34.<br /><br />Voor de vacant verklaarde N-1 functie die belast wordt met de leiding van de Gemeenschappelijke Interne Dienst voor Preventie en Bescherming, hierna GDPB te noemen, of van een interne dienst Preventie en Bescherming, gebeurt de benoeming in het middenkader van de kandidaat na het voorafgaande akkoord van respectievelijk het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest of van het bevoegde overlegcomité.<br /><br />Als er geen akkoord bereikt wordt in het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest, wordt de beslissing genomen door de Vlaamse minister, bevoegd voor de bestuurszaken.<br /><br />Als er geen akkoord bereikt wordt in het bevoegde overlegcomité, wordt de beslissing genomen door de functionele minister voor het IVA met rechtspersoonlijkheid en de raden, en door de raad van bestuur voor het EVA en de instelling. »
+<P>...</P>
 
 ### ART. 17.
 
-In artikel V 46 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br />1° er wordt een § 1bis ingevoegd, die luidt als volgt :<br /><br />« § 1bis. De dienstaanwijzing in een mandaatgraad van afdelingshoofd bij de GDPB of een interne dienst Preventie en Bescherming kan in de gevallen, vermeld in §1, alleen worden beëindigd na akkoord van respectievelijk het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest of het bevoegde overlegcomité of, onverminderd §1, eveneens worden beëindigd om functionele redenen op verzoek van respectievelijk het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest of het bevoegde overlegcomité.<br /><br />Als er geen akkoord bereikt wordt in het Hoog Overlegcomité Vlaamse Gemeenschap - Vlaams Gewest, wordt de beslissing genomen door de Vlaamse minister, bevoegd voor de bestuurszaken.<br /><br />Als er geen akkoord bereikt wordt in het bevoegde overlegcomité, wordt de beslissing genomen door de functionele minister voor het IVA met rechtspersoonlijkheid en de raden en door de raad van bestuur voor het EVA en de instelling. »<br /><br />2° in § 3, tweede lid, worden tussen de woorden « § 1, 1° en 2°, » en de woorden « en § 2 » de woorden « § 1bis, » ingevoegd.
+<P>...</P>
 
 ### ART. 18.
 
@@ -190,7 +190,7 @@ In artikel VI 85 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ### ART. 47.
 
-In artikel VI 86 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt het tweede lid vervangen door wat volgt :<br /><br />« De GDPB is samengesteld uit verschillende preventieadviseurs en een afdelingshoofd. Het afdelingshoofd leidt de GDPB en rapporteert rechtstreeks aan het hoofd van het Departement Bestuurszaken. »
+<P>...</P>
 
 ### ART. 48.
 
@@ -198,7 +198,7 @@ In artikel VI 87 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ### ART. 49.
 
-In artikel VI 88, § 2, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « met » en de woorden « de preventieadviseur-coördinator » de woorden « het afdelingshoofd of » ingevoegd.
+<P>...</P>
 
 ### ART. 50.
 
@@ -206,7 +206,7 @@ In artikel VI 89 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ### ART. 51.
 
-In artikel VI 90 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden de volgende wijzigingen aangebracht :<br /><br />1° in § 1 worden de woorden « en voor de betrekking van preventieadviseur-coördinator » geschrapt;<br /><br />2° in § 2, eerste lid, worden de woorden « wijst de preventieadviseur-coördinator aan en » geschrapt.<br /><br />
+<P>...</P>
 
 ### ART. 52.
 
@@ -214,7 +214,7 @@ In artikel VI 91 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse
 
 ### ART. 53.
 
-In artikel VI 92, § 3, eerste lid, van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, worden tussen het woord « redenen » en de woorden « of op verzoek » de woorden « , om organisatorische redenen » ingevoegd.
+<P>...</P>
 
 ### ART. 54.
 

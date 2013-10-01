@@ -2,16 +2,16 @@
   "codex_id": 1016937,
   "title": "Besluit van de Vlaamse Regering van 2008-05-23 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 wat betreft de uitvoering van het sectoraal akkoord 2005-2007 en andere bepalingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016937/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "f941e97ead4e02354a6ff28bccbdd747be33285dad5ff0bd8a19866c679d4644",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016937/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "af1a948ba05f8d122c779fd05f392b1a50b0609488decc66ada40016f9a27777",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016937&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2013-10-01",
   "made": "2008-05-23",
   "gazette": "2008-07-31",
   "numac": 2008035979,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2009-01-01",
+  "in_force": "2013-10-01",
   "article_versions": 120,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
