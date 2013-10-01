@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023886,
+  "title": "Decreet van 2013-12-20 tot bekrachtiging van de decretale bepalingen betreffende het hoger onderwijs, gecodificeerd op 11 oktober 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023886/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "d0225804ee49fbdd1ad45f11a4c8f152f5c5cb53ed0f29afde6340c04523cde8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023886&param=informatie",
+  "as_of": "2013-10-01",
+  "made": "2013-12-20",
+  "gazette": "2014-02-27",
+  "numac": 2014201046,
+  "document_start": "2013-10-01",
+  "document_end": null,
+  "in_force": "2013-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
