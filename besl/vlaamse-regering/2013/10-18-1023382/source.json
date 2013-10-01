@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023382,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-18 houdende wijziging van het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap, wat betreft de toekenning van een ministeriële bevoegdheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023382/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "7cd8f44d5fe9ff94cfc46133a2bb0f0e2a4bbedd3cf4778a22662af72969416c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023382&param=informatie",
+  "as_of": "2013-10-01",
+  "made": "2013-10-18",
+  "gazette": "2013-11-18",
+  "numac": 2013206111,
+  "document_start": "2013-10-01",
+  "document_end": null,
+  "in_force": "2013-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
