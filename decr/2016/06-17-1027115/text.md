@@ -34,6 +34,14 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Vanaf het begrotingsjaar 2016 wordt voor de toekenning van de hierna vermelde uitkeringen bovendien vereist dat de universiteit kan aantonen dat de door haar daartoe bevoegde organen goedgekeurde aanpassingen van bestaande pensioenregelingen of de inrichting van nieuwe pensioenregelingen het voorwerp hebben uitgemaakt van een collectief overleg of tot stand kwamen met inspraak vanwege de vertegenwoordigers van de leden van het administratief en technisch personeel bezoldigd met bedoelde werkingsuitkeringen.".</span><br>
 &nbsp;
 
+### ART VII.31.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel V.67, § 1, van dezelfde codex worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° tussen de woorden "of decretale bepalingen," en de woorden "blijven na de integratie" wordt de zinsnede "zoals die op de dag voor de overgang naar het integratiekader van toepassing waren" ingevoegd;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° er wordt een tweede lid ingevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Wanneer het universiteitsbestuur in uitvoering van paragraaf 2 een eigen regeling of reglement uitgewerkt heeft, is, in afwijking van het eerste lid, deze regeling of reglement meteen van toepassing op het personeelslid dat na 1 oktober 2013 naar het integratiekader overgaat.".</span><br>
+&nbsp;
+
 ## Afdeling II Inwerkintreding
 
 ## HOOFDSTUK VIII Decreten Rechtspositie Onderwijspersoneel
