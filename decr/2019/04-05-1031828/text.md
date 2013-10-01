@@ -24,6 +24,10 @@
 
 ## HOOFDSTUK 12. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 110.
+
+In artikel II.261, § 4, van dezelfde codex wordt het woord "met" vervangen door het woord "niet".
+
 ### ART 127.
 
 In artikel V.148, § 3, van dezelfde codex wordt tussen het woord "eveneens" en de woorden "het brevet" de zinsnede "ofwel een STCW-vaarbevoegdheidsbewijs van master voor zeeschepen met een bruto tonnage van 3000 of meer ofwel" ingevoegd.
