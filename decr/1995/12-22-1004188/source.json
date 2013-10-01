@@ -2,16 +2,16 @@
   "codex_id": 1004188,
   "title": "Decreet van 1995-12-22 houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004188/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "87d351a085006cf862b62bc23fa51eb7032687de077b6bab0bc869b691b18434",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1004188/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "2b5391ed5dc2a63bc7e810a2906181fb26dc11bf6525bc726f5b8e594fb5a9e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1004188&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-10-01",
   "made": "1995-12-22",
   "gazette": "1996-02-01",
   "numac": 1996035055,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-10-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
