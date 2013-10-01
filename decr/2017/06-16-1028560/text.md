@@ -20,6 +20,14 @@
 
 ## Afdeling 1 Codex Hoger Onderwijs
 
+### ART VI.2.
+
+&nbsp;In artikel II.42 van dezelfde codex wordt de zinsnede "artikel II.40" vervangen door de zinsnede "artikel II.41".
+
+### ART VI.3.
+
+In artikel II.43 van dezelfde codex wordt de zinsnede "artikel II.40" vervangen door de zinsnede "artikel II.41".
+
 ### ART VI.5.
 
 In artikel II.85 van dezelfde codex wordt punt 2° vervangen door wat volgt :<br>
@@ -31,6 +39,10 @@ b) in het academisch onderwijs de graden van bachelor of master kunnen worden ve
 
 In artikel II.182 van dezelfde codex, gewijzigd bij het decreet van 21 maart 2014, wordt een nieuwe paragraaf 2/1 ingevoegd, die luidt als volgt :<br>
 " § 2/1. In afwijking van paragraaf 2, eerste lid, kan een instellingsbestuur voor een masteropleiding een bacheloropleiding in het hoger professioneel onderwijs aanwijzen als algemene toelatingsvoorwaarde, met behoud van toepassing van artikel II.183.".
+
+### ART VI.22.
+
+In artikel II.378, § 2, van dezelfde codex wordt de zinsnede "artikel II.140, § 5" vervangen door de zinsnede "artikel II.138, § 4".
 
 ## Afdeling 2 Decreet houdende wijziging van diverse decreten met betrekking tot de Universiteit Antwerpen
 
