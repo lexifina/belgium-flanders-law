@@ -2,16 +2,16 @@
   "codex_id": 1016735,
   "title": "Besluit van de Vlaamse Regering van 2008-02-22 tot toekenning van strategische investerings- en opleidingssteun aan ondernemingen in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016735/VolledigDocument?datum=2013-04-24",
-  "source_sha256": "ebe6189dbc0b8b8778e71fc681786840bd1f78663feb68b68d842b5598b86d77",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016735/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "fa9a6cc3ff29d6f69759b533eb7f51757276542347b60a5795029ecf7b856555",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016735&param=informatie",
-  "as_of": "2013-04-24",
+  "as_of": "2013-10-01",
   "made": "2008-02-22",
   "gazette": "2008-04-16",
   "numac": 2008200836,
   "document_start": "2008-04-16",
   "document_end": "2013-09-30",
-  "in_force": "2013-04-24",
+  "in_force": "2013-10-01",
   "article_versions": 55,
-  "record_form": "consolidated version as in force on 2013-04-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
