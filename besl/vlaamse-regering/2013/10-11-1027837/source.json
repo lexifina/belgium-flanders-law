@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027837,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-11 tot codificatie van de decretale bepalingen betreffende het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027837/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "71a8363f147000582bca20215ad464475e9af436ceadaf8fa93b95e219e6a6cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027837&param=informatie",
+  "as_of": "2013-10-01",
+  "made": "2013-10-11",
+  "gazette": "2014-02-27",
+  "numac": 0,
+  "document_start": "2013-10-01",
+  "document_end": null,
+  "in_force": "2013-10-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
