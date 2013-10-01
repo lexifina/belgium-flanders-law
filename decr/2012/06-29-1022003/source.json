@@ -2,16 +2,16 @@
   "codex_id": 1022003,
   "title": "Decreet van 2012-06-29 betreffende de studentenvoorzieningen in Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022003/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "625a5f7ebaf725dca6e2d469167d8778e5a466283fe6f907e7ff7bdc724ac337",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022003/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "882aed7ce5290474c8970c42179853bdd2fdc222ef34e6c93ed298b57fbe53da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022003&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2013-10-01",
   "made": "2012-06-29",
   "gazette": "2012-08-03",
   "numac": 2012035898,
   "document_start": "2013-01-01",
   "document_end": "2013-09-30",
-  "in_force": "2013-09-01",
+  "in_force": "2013-10-01",
   "article_versions": 43,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
