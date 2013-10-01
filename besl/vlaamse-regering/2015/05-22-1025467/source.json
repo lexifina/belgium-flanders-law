@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025467,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 houdende wijziging van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Landmaatschappij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025467/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "843ad3c9c84096ba259dfb08f20311fbf6e55adb6c4b67f2d2be0d783811143d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025467&param=informatie",
+  "as_of": "2013-10-01",
+  "made": "2015-05-22",
+  "gazette": "2015-06-12",
+  "numac": 2015035725,
+  "document_start": "2015-06-22",
+  "document_end": null,
+  "in_force": "2013-10-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
