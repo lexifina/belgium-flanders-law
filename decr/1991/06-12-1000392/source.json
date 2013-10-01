@@ -2,16 +2,16 @@
   "codex_id": 1000392,
   "title": "Decreet van 1991-06-12 betreffende de universiteiten in de Vlaamse Gemeenschap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000392/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "276db8f76579593afd600542f82e343b766a7695dbb4bcd678846232af7e8a3f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000392/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "513cdc5992aaa9c471b0ad8e589d64e6036c6226997c638304be0781a28518de",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000392&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2013-10-01",
   "made": "1991-06-12",
   "gazette": "1991-07-04",
   "numac": 1991035841,
   "document_start": null,
   "document_end": "2013-09-30",
-  "in_force": "2013-09-01",
+  "in_force": "2013-10-01",
   "article_versions": 285,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
