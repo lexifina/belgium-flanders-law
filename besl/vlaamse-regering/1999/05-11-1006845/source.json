@@ -2,16 +2,16 @@
   "codex_id": 1006845,
   "title": "Besluit van de Vlaamse Regering van 1999-05-11 houdende de voorwaarden voor het toestaan van leningen aan particulieren door de Vlaamse Maatschappij voor Sociaal Wonen ter uitvoering van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006845/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "d063d20e537e501aeb3eda1f78d2abcd3ce4647c23f1589cab3c55c40c68a759",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006845/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "f1721a98d95d3a95f50a369c5d77f15a7f825412e51d3964b11756143b2d5512",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006845&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2013-10-01",
   "made": "1999-05-11",
   "gazette": "1999-08-24",
   "numac": 1999036106,
   "document_start": null,
   "document_end": "2013-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2013-10-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
