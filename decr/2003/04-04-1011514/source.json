@@ -2,16 +2,16 @@
   "codex_id": 1011514,
   "title": "Decreet van 2003-04-04 betreffende de herstructurering van het hoger onderwijs in Vlaanderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011514/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "a42d913ad2c670f41b71108072688eba67d22f5b3b639dfdb091a2e567bafffe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011514/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "f6413ecd490ad54edcdf9fc790239302e56039c949ab52f5c4ea13b386433d96",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011514&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2013-10-01",
   "made": "2003-04-04",
   "gazette": "2003-08-14",
   "numac": 2003035868,
   "document_start": null,
   "document_end": "2013-09-30",
-  "in_force": "2013-09-01",
-  "article_versions": 287,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-10-01",
+  "article_versions": 289,
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
