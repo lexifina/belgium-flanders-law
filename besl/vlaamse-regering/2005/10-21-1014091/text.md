@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° ACOD: De Algemene Centrale der Openbare Diensten;<br /><br />2° COC: Christelijke Onderwijscentrale;<br /><br />3° COV: Christelijk Onderwijzersverbond;<br /><br />4° cursist: personen die een opleiding volgen in het volwassenenonderwijs, bij basiseducatie, VIZO, VDAB of in het Sociaal-Cultureel Volwassenenwerk;<br /><br />5° decreet: het decreet van 2 april 2004 betreffende participatie op school en de Vlaamse Onderwijsraad;<br /><br />6° departement: bevoegde dienst of ambtenaar van het departement Onderwijs van het ministerie van de Vlaamse Gemeenschap;<br /><br />7° directeur: ieder personeelslid in een onderwijsinstelling dat hetzij tijdelijk aangesteld hetzij vastbenoemd is in het ambt van directeur, een algemeen of coördinerend directeur, een coördinator in een centrum voor basiseducatie op het moment van de aanvang van de kiesprocedure, zijnde de oproep tot kandidaatstelling;<br /><br />8° ervaringsdeskundige: elk effectief tewerkgesteld personeelslid in een onderwijsinstelling van het basisonderwijs, het secundair onderwijs, het volwassenenonderwijs, het deeltijds kunstonderwijs of een centrum voor basiseducatie;<br /><br />9° minister: de Vlaamse minister, bevoegd voor het onderwijs;<br /><br />10° KOOGO: Koepel van Ouderverenigingen van het Officieel Gesubsidieerd Onderwijs;<br /><br />11° OKO: Overleg Kleine Onderwijsverstrekkers;<br /><br />12° OVSG: Onderwijssecretariaat voor Steden en Gemeenten;<br /><br />13° POV: Provinciaal Onderwijs Vlaanderen;<br /><br />14° ROGO: Raad voor Ouders van het Gemeenschapsonderwijs;<br /><br />15° SOCIUS: Steunpunt voor Sociaal-Cultureel Volwassenenwerk<br /><br />16° vakorganisatie: een personeelsvereniging van het onderwijs aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale organisatie;<br /><br />17° VCOV: Vlaamse Confederatie van Ouders en Ouderverenigingen;<br /><br />18° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling;<br /><br />19° VIZO: Vlaams Instituut voor Zelfstandig Ondernemen;<br /><br />20° VLOR: de Vlaamse Onderwijsraad;<br /><br />21° VSKO: Vlaams Secretariaat van het Katholiek Onderwijs;<br /><br />22° VSOA: Vrij Syndicaat voor het Openbaar Ambt.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ACOD: De   Algemene Centrale der Openbare Diensten;<BR>2° COC: Christelijke   Onderwijscentrale;<BR>3° COV: Christelijk Onderwijzersverbond;<BR>4° cursist :   een persoon die een opleiding volgt of ingeschreven was in het   volwassenenonderwijs, in het deeltijds kunstonderwijs, bij Syntra, bij de VDAB   of in het Sociaal-Cultureel Volwassenenwerk of een persoon die een opleiding   gevolgd heeft in het school- of kalenderjaar dat voorafgaat aan de datum van de   oproep;<BR>5° decreet: het decreet van 2 april 2004 betreffende participatie op   school en de Vlaamse Onderwijsraad;<BR>6° departement: bevoegde dienst of   ambtenaar van het departement Onderwijs van het ministerie van de Vlaamse   Gemeenschap;<BR>7° directeur : elk personeelslid in een onderwijsinstelling dat   functioneert in het ambt van directeur, algemeen of coördinerend directeur op   het moment van zijn voordracht;<BR>8° GO! Ouders : oudervereniging van het   Gemeenschapsonderwijs;<BR>9° minister: de Vlaamse minister, bevoegd voor het   onderwijs;<BR>10° KOOGO: Koepel van Ouderverenigingen van het Officieel   Gesubsidieerd Onderwijs;<BR>11° OKO: Overleg Kleine   Onderwijsverstrekkers;<BR>12° OVSG: Onderwijssecretariaat voor Steden en   Gemeenten;<BR>13° POV: Provinciaal Onderwijs Vlaanderen;<BR>14° : SOCIUS :   Steunpunt voor Sociaal Cultureel Volwassenenwerk;<BR>15° : Syntra Vlaanderen :   het Vlaams Agentschap voor Ondernemersvorming;<BR>16° vakorganisatie: een   personeelsvereniging van het onderwijs aangesloten bij een in de   Sociaal-Economische Raad van Vlaanderen vertegenwoordigde syndicale   organisatie;<BR>17° VCOV: Vlaamse Confederatie van Ouders en   Ouderverenigingen;<BR>18° VDAB: Vlaamse Dienst voor Arbeidsbemiddeling;<BR>19°   VERVER : de Verenigde Verenigingen;<BR>20° VLOR: de Vlaamse   Onderwijsraad;<BR>21° VSKO: Vlaams Secretariaat van het Katholiek   Onderwijs;<BR>22° VSOA: Vrij Syndicaat voor het Openbaar Ambt.
 
 ## HOOFDSTUK II Samenstelling van de Algemene raad en de deelraden van de VLOR
 
@@ -40,67 +40,67 @@ De afgevaardigden uit de sociaal-culturele organisaties worden aangeduid door de
 
 ### ART. 8.
 
-Het secretariaat van de VLOR staat in voor de organisatie van de rechtstreekse verkiezingen van de vertegenwoordigers van directeurs en neemt alle maatregelen die nodig zijn om het regelmatig verloop van de verkiezingen te verzekeren.
+<P>...</P>
 
 ## Afdeling 2 Oproep tot kandidaatstelling
 
 ### ART. 9.
 
-35 werkdagen voorafgaand aan de eerste dag van de kiesperiode publiceert het secretariaat van de VLOR in het Belgisch Staatsblad en via www.schooldirect.be de oproep tot kandidaatstelling voor de rechtstreekse verkiezingen van de vertegenwoordigers van directeurs.<br /><br />De oproep verschijnt per onderscheiden raad.<br /><br />De oproep omvat ten minste:<br /><br />1° een omschrijving van de raad;<br /><br />2° de samenstelling van de raad;<br /><br />3° de voorwaarden tot verkiesbaarheid en de onverenigbaarheden;<br /><br />4° het formulier van kandidaatstelling;<br /><br />5° de uiterste datum van indiening van de kandidaatstelling;<br /><br />6° de kiesperiode.<br /><br />De periode van de oproep tot kandidaatstelling tot de datum van bekendmaking van de verkozenen mag de periode van 6 juli tot en met 15 augustus niet omvatten.
+<P>...</P>
 
 ## Afdeling 3 Kandidaatstelling
 
 ### ART. 10.
 
-De kandidaatstellingen worden uiterlijk 20 werkdagen voorafgaand aan de eerste dag van de kiesperiode bij aangetekend schrijven, tegen ontvangstbewijs of per fax bezorgd aan de VLOR, Leuvenseplein 4, 1000 Brussel. De datum van poststempel, van afgifte of faxbericht geldt als bewijs. De kandidaatstellingen bevatten alle gegevens die noodzakelijk zijn om de geldigheid ervan na te gaan volgens de voorwaarden in het decreet en dit besluit opgelegd. Het niet invullen van één van die gegevens heeft de ongeldigheid van de kandidaatstelling tot gevolg.<br /><br />Het secretariaat van de VLOR onderzoekt of de kandidaatstellingen aan de voorgeschreven vormvereisten voldoen en binnen de voorgeschreven termijn werden ingediend.<br /><br />§ 2. Indien een kandidaatstelling niet aan deze gestelde voorwaarden voldoet, brengt het secretariaat van de VLOR de kandidaat hiervan schriftelijk op de hoogte.
+<P>...</P>
 
 ### ART. 11.
 
-Het secretariaat van de VLOR stelt per raad de definitieve lijst van kandidaten op.
+<P>...</P>
 
 ## Afdeling 4 Kiesperiode
 
 ### ART. 12.
 
-De kiesperiode vangt aan 35 werkdagen na de oproep en loopt 10 werkdagen.
+...
 
 ## Afdeling 5 Stemverrichtingen
 
 ### ART. 13.
 
-Iedere stemgerechtigde ontvangt uiterlijk bij het begin van de kiesperiode, 35 werkdagen na de oproep tot kandidaatstelling, een schriftelijke uitnodiging tot stemmen.<br /><br />Deze uitnodiging omvat ten minste:<br /><br />1° een omschrijving van de raden;<br /><br />2° de samenstelling van de raden;<br /><br />3° de kiesperiode;<br /><br />4° één stemformulier voor de algemene raad;<br /><br />5° één stemformulier voor de deelraad waarvoor de betrokken stemgerechtigde overeenkomstig artikel 81 van het decreet zijn stem kan uitbrengen.
+<P>...</P>
 
 ### ART. 14.
 
-Iedere stemgerechtigde kan gedurende de kiesperiode van 10 werkdagen, die ingaat 35 werkdagen na de oproep, zijn stem uitbrengen door de stemformulieren per post of tegen ontvangstbewijs te bezorgen aan het secretariaat van de VLOR, Leuvenseplein 4, 1000 Brussel, faxnummer: 02-219 81 18.<br /><br />De poststempel of de datum van afgifte geldt als bewijs.
+<P>...</P>
 
 ## Afdeling 6 Aanduiding van de leden, bekendmaking en opnemen van het mandaat
 
 ### ART. 15.
 
-§ 1. Het tellen van de stemmen, het rangschikken van de kandidaten, het aanduiden van de verkozenen en het verifiëren van de rechtsgeldigheid overeenkomstig artikel 81 van het decreet wordt door het secretariaat van de VLOR afgerond uiterlijk vijftien werkdagen na de laatste dag van de kiesperiode.<br /><br />Voor het bepalen van het aantal stemgerechtigden wordt rekening gehouden met het aantal directeurs bij de aanvang van de kiesprocedure, zijnde de oproep tot kandidaatstelling.<br /><br />§ 2. Bij het tellen worden enkel de geldige stemmen geregistreerd.<br /><br />Ongeldig zijn:<br /><br />1° stemformulieren die niet conform de voorwaarden van het decreet en dit besluit werden ingevuld;<br /><br />2° stemformulieren waarop geen stem werd aangebracht;<br /><br />3° stemformulieren die buiten de kiesperiode werden verstuurd. De datum van poststempel of afgifte geldt als bewijs.<br /><br />§ 3. Het aanduiden van de verkozenen gebeurt overeenkomstig artikel 81 van het decreet en overeenkomstig de artikelen 2, 3, 4 en 5 van dit besluit. Voor ieder lid wordt de gerangschikte volgend op de verkozene als opvolger aangeduid overeenkomstig dezelfde principes.<br /><br />§ 4. De rangschikking van de kandidaten wordt bepaald door het aantal stemmen dat ieder van hen behaalde, in dalende volgorde. Bij gelijk aantal stemmen gaat de oudere kandidaat voor op de jongere.
+<P>...</P>
 
 ### ART. 16.
 
-Het secretariaat van de VLOR staat in voor de bekendmaking van de verkiezingsuitslag uiterlijk 10 werkdagen na het tellen, rangschikken en aanduiden van de verkozenen. De bekendmaking gebeurt via de website van de VLOR en via www.schooldirect.be.
+<P>...</P>
 
 ### ART. 17.
 
-§ 1. Een stemgerechtigde kan tegen een telling, een rangschikking of een aanduiding die niet in overeenstemming is met de bepalingen van het decreet en dit besluit, beroep instellen bij de minister. Het beroep moet bij aangetekend schrijven worden ingediend bij het departement onderwijs binnen een termijn van vijf werkdagen, die ingaat op de eerste werkdag na de bekendmaking van de verkiezingsuitslag.<br /><br />§ 2. De minister spreekt zich uit over het beroep binnen een termijn van tien werkdagen, die ingaat op de eerste werkdag na die van het indienen van het beroep.<br />
+<P>...</P>
 
 ### ART. 18.
 
-De algemeen secretaris van de Vlaamse Onderwijsraad nodigt de verkozen leden bij aangetekend schrijven of tegen ontvangstbewijs uit hun mandaat op te nemen tijdens de installatievergadering van de betrokken raad.
+<P>...</P>
 
 ### ART. 19.
 
-§ 1. De verkozen leden kunnen tot de dag van deze vergadering afstand doen van hun mandaat. Dit gebeurt schriftelijk ter attentie van de algemeen secretaris.<br /><br />§ 2. Het verkozen lid dat op de dag van de installatievergadering in een onverenigbaarheid bedoeld in artikel 84 van het decreet verkeert wordt geacht afstand te doen van zijn mandaat.<br /><br />Het verkozen lid dat zonder geldige reden afwezig is op de installatievergadering wordt geacht afstand te doen van zijn mandaat.<br /><br />Het verkozen lid dat, hetzij vrijwillig, hetzij overeenkomstig dit artikel, afstand doet van zijn mandaat, wordt vervangen door de daaropvolgend gerangschikte. De opvolger wordt op zijn beurt vervangen door de daaropvolgend gerangschikte.
+<P>...</P>
 
 ## HOOFDSTUK V Coöptatie van ervaringsdeskundigen
 
 ### ART. 20.
 
-De oproep tot kandidaatstelling voor coöptatie vindt plaats ten laatste 20 werkdagen voor de installatievergadering. De coöptatie van ervaringsdeskundigen en hun opvolgers vindt plaats op de installatievergadering van de desbetreffende raad overeenkomstig artikel 82 van het decreet.
+<P>...</P>
 
 ## HOOFDSTUK VI Opheffing-, overgangs-, inwerkingtredings- en slotbepalingen
 
@@ -122,7 +122,7 @@ De artikelen 7, 9 en 10 van het decreet van 18 juli 2003 tot regeling van de str
 
 ### ART. 25.
 
-De oproep tot kandidaatstelling voor de rechtstreekse verkiezingen van de directeurs neemt een aanvang bij de inwerkingtreding van dit besluit.
+<P>...</P>
 
 ### ART. 26.
 
