@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2013-10-09 houdende wijziging van de refertelijst inzake individuele materiële bijstand
+
+### Aanhef
+
+<P>De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR></P>  <P>Gelet op het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap, artikel 8, 3°;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2001 tot   vaststelling van de criteria, voorwaarden en refertebedragen van de   tussenkomsten in de individuele materiële bijstand voor de sociale integratie   van personen met een handicap, artikel 17 en de refertelijst;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de   besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli   2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011, 10 juni   2011, 9 september 2011 en 14 oktober 2011;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 4 oktober   2013;<BR></P>  <P>Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973,   artikel 3, § 1;<BR></P>  <P>Gelet op de dringende noodzakelijkheid;<BR></P>  <P>Overwegende dat het dringend noodzakelijk is om een aantal refertebedragen   aan te passen aan de reële kosten teneinde een tegemoetkoming te kunnen verlenen   die de daadwerkelijke meerkosten voor de persoon met een handicap dekt, <BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In bijlage I bij het besluit van de Vlaamse Regering van 13 juli 2001 tot   vaststelling van de criteria, voorwaarden en refertebedragen van de   tussenkomsten in de individuele materiële bijstand voor de sociale integratie   van personen met een handicap, vervangen bij het ministerieel besluit van 22   december 2011 en gewijzigd bij het ministerieel besluit van 31 mei 2012, worden   in tabel 9 Vervanging zicht, Domein 2 - Communicatie, Computer bedienen de   volgende wijzigingen aangebracht : <BR>1° het refertebedrag "1.939,48" voor een   brailleprinter wordt vervangen door het refertebedrag "3.189,98";<BR>2° de   basiskost voor de brailleprinter "46,00" wordt geschrapt;<BR>3° het   refertebedrag "706,53" voor tekstherkenningsprogramma's met scanner   (tekstherkenningssysteem op basis van standaard) wordt vervangen door het   refertebedrag "1.032,60".<BR>
+
+### ART. 2.
+
+<P>Dit besluit treedt in werking op 1 oktober 2013.<BR></P>  <P>Dit besluit is van toepassing op de aanvragen om individuele materiële   bijstand die met ingang van 1 oktober 2013 bij het Vlaams Agentschap voor   Personen met een Handicap worden ingediend.<BR></P>
