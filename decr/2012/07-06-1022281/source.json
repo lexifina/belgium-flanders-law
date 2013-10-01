@@ -2,16 +2,16 @@
   "codex_id": 1022281,
   "title": "Decreet van 2012-07-06 tot wijziging van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen, wat het stelsel van kwaliteitszorg en accreditatie betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022281/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "ebc797e379f7341594177600561d20b9a36b2a25650ad69a24583dad5b4964cd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022281/VolledigDocument?datum=2013-10-01",
+  "source_sha256": "4b3af47438a479b745db0af9f8d6269e7335e42c63e4990cb996cabe82ae8e06",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022281&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2013-10-01",
   "made": "2012-07-06",
   "gazette": "2012-09-21",
   "numac": 2012036021,
   "document_start": "2012-07-01",
   "document_end": null,
-  "in_force": "2013-09-01",
+  "in_force": "2013-10-01",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
 }
