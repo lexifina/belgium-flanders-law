@@ -94,6 +94,10 @@ De informaticus in dienst op 31 mei 1995, die de overgangssalarisschaal A131 res
 
 De ambtenaren die vóór 24 juni 1970 in dienst waren bij de Nationale Landmaatschappij en die overgedragen werden naar het agentschap hebben recht op een forfaitaire toelage. De toelage is gelijk aan het bedrag van de voordelen van alle aard van de maand december 1975, vastgesteld ter uitvoering van het koninklijk besluit van 23 december 1975 betreffende het geldelijk statuut van de ambtenaren van de Nationale Landmaatschappij.<br /><br />De toelage wordt maandelijks en na verlopen termijn uitbetaald. Zij wordt verminderd overeenkomstig artikel VII 6 van het Vlaams personeelsstatuut.<br /><br />De toelage volgt de evolutie van de gezondheidsindex overeenkomstig artikel VII 9 van het Vlaams personeelsstatuut.<br /><br />Dit artikel is van toepassing op elke ambtenaar die vóór 24 juni 1970 deel uitmaakte en zonder onderbreking deel bleef uitmaken van het personeel van de Nationale Landmaatschappij en het agentschap.<br /><br />
 
+### ART. 17/1.
+
+De Vlaamse Landmaatschappij neemt de premie van de   hospitalisatieverzekering ten laste voor de personeelsleden die op 1 januari   1983 statutair personeelslid waren van de Nationale Landmaatschappij, vanaf hun   pensionering.
+
 ## Afdeling III Inwerkingtreding
 
 ### ART. 18.
