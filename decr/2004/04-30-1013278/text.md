@@ -360,16 +360,13 @@
 
 ### ART. 78.
 
-Studenten die een studieperiode in het buitenland doorbrengen kunnen in aanmerking komen voor een mobiliteitstoelage van de Vlaamse Gemeenschap indien:<br>
-1° de student is ingeschreven aan een Vlaamse ambtshalve geregistreerde instelling die beschikt over een Erasmus Univer-sity Charter;<br>
-2° de student door deze instelling geselecteerd is om via het Erasmusprogramma een studieperiode in het buitenland door te brengen;<br>
-3° de studieperiode in het buitenland minimum drie maanden en maximum een volledig academiejaar bedraagt.
+...
 
 ## HOOFDSTUK II BEREKENING VAN DE MOBILITEITSTOELAGE
 
 ### ART. 79.
 
-§ 1. Om de mobiliteitstoelage te berekenen, worden de studenten ingedeeld in twee categorieën. Deze categorieën worden als volgt samengesteld : <br />1° categorie 1 bestaat uit :<br />- beursstudenten, zoals gedefinieerd in artikel 2, 3°, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten;<br />- beurstariefstudenten, zoals gedefinieerd in artikel 2, 5°, van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen;<br />- bijna-beursstudenten, zoals gedefinieerd in artikel 2, 7°, van het decreet van 30 april 2004 betreffende de flexibilisering van het hoger onderwijs in Vlaanderen en houdende dringende hogeronderwijsmaatregelen. De Vlaamse Regering kan het bedrag van 1.240 euro, zoals vermeld in artikel 2, 7°, verhogen tot maximum 5.000 euro; <br />2° categorie 2 bestaat uit studenten die niet behoren tot categorie 1.<br /><br />§ 2. De Vlaamse Regering bepaalt jaarlijks de mobiliteitstoelage per categorie op advies van het in artikel 5, § 2, van het besluit van de Vlaamse Regering van 21 maart 2008 tot oprichting van de overlegorganen die bijdragen tot een optimale deelname van de Vlaamse Gemeenschap aan het Europees actieprogramma Een Leven Lang Leren bedoelde Vlaamse Erasmuscomité.
+...
 
 ## HOOFDSTUK III PROCEDURE
 
