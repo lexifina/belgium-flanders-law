@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024953,
+  "title": "Decreet van 2015-01-16 tot instemming met het akkoord tussen het Koninkrijk België en het Europees Instituut voor Bosbouw betreffende de voorrechten en immuniteiten van het Verbindingsbureau van het Europees Instituut voor de Bosbouw, ondertekend te Brussel op 9 oktober 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024953/VolledigDocument?datum=2013-10-09",
+  "source_sha256": "15f65007c3dfc9a551bb86d4df104ad9acab1bcc30ead74583a4bebc772ffc99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024953&param=informatie",
+  "as_of": "2013-10-09",
+  "made": "2015-01-16",
+  "gazette": "2015-02-03",
+  "numac": 201535107,
+  "document_start": "2013-10-09",
+  "document_end": null,
+  "in_force": "2013-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
