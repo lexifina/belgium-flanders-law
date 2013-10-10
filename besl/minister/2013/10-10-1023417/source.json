@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023417,
+  "title": "Ministerieel besluit van 2013-10-10 tot overschrijving van de vastleggingskredieten en vereffeningskredieten van de begroting van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor het begrotingsjaar 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023417/VolledigDocument?datum=2013-10-10",
+  "source_sha256": "ee6f694a0709da4b1214cc437616c77f4e5262ad2cdf636b88707d6ddb36cfba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023417&param=informatie",
+  "as_of": "2013-10-10",
+  "made": "2013-10-10",
+  "gazette": "2013-12-03",
+  "numac": 2013206418,
+  "document_start": "2013-10-10",
+  "document_end": null,
+  "in_force": "2013-10-10",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
