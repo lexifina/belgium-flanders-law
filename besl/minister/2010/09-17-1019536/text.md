@@ -6,20 +6,20 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De volgende personen worden benoemd tot leden-pachters van de pachtprijzencommissie van Antwerpen :<br />1° Danny Lemmens, Nedrickxhoeveweg 4, 2840 Reet (Rumst);<br />2° Kees Christianen, Klein Eyssel 29, 2328 Meerle;<br />3° Renaat Schelfaut, Puursesteenweg 370, 2880 Bornem.<br /><br />De volgende personen worden benoemd tot leden-grondeigenaars van de pachtprijzencommissie van Antwerpen : <br />1° Vincent Dierckx de Casterlee, Turnhoutseweg 48, 2440 Geel;<br />2° Christophe Lenaerts, Heihuizen 3, 2390 Oostmalle;<br />3° Francis Van Schoubroeck, Nederrij 45, 2200 Herentals.<br /><br />
+...
 
 ### ART. 2.
 
-De volgende personen worden benoemd tot plaatsvervangende leden-pachters van de pachtprijzencommissie van Antwerpen :<br />1° Wim Verbreuken, Roosendaalsebaan 140a, 2920 Kalmthout;<br />2° Marcel Heylen, Larumsgoor 4, 2440 Geel;<br />3° Richard Dewitte, Opstal 5, 2360 Oud-Turnhout.<br /><br />De volgende personen worden benoemd tot plaatsvervangende leden-grondeigenaars van de pachtprijzencommissie van Antwerpen :<br />1° Thierry van der Straten, Kleistraat 1, 2390 Malle;<br />2° Luc Francken, Akkerveken 16, 2990 Wuustwezel;<br />3° Willy Maes, Bergstraat 23, 2220 Heist-op-den-Berg.<br /><br />
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangende voorzitter van de pachtprijzencommissie van Antwerpen :<br />1° voorzitter : Sonia De Meuter, directeur bij het Vlaams Ministerie van Landbouw en Visserij;<br />2° plaatsvervangende voorzitter : Leo Van den Eynde, directeur bij het Vlaams Ministerie van Landbouw en Visserij.<br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 7 september 2007 tot samenstelling van de pachtprijzencommissie van Antwerpen wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
