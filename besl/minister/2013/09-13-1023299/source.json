@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023299,
+  "title": "Ministerieel besluit van 2013-09-13 tot samenstelling van de pachtprijzencommissie van Vlaams-Brabant",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023299/VolledigDocument?datum=2013-10-11",
+  "source_sha256": "07b351d065fb643e8ba4ab23bb29ae3fb8d4bff85a4b407efc22ffd8a845157b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023299&param=informatie",
+  "as_of": "2013-10-11",
+  "made": "2013-09-13",
+  "gazette": "2013-10-11",
+  "numac": 2013205394,
+  "document_start": "2013-10-11",
+  "document_end": "2016-10-25",
+  "in_force": "2013-10-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
