@@ -6,20 +6,20 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De volgende personen worden benoemd tot leden-pachters van de pachtprijzencommissie van Limburg :<br />1° Linda Geurts-Appeltans, Hageveldstraat 10, 3770 Vroenhoven;<br />2° Ludo Vanhoef, Stenenbrugweg 20, 3680 Maaseik;<br />3° François Achten, Berghei 3, 3910 Sint-Huibrechts-Lille.<br /><br />De volgende personen worden benoemd tot leden-grondeigenaars van de pachtprijzencommissie van Limburg :<br />1° Thierry de Grunne, Waterkasteelstraat 1, 3740 Bilzen-Beverst;<br />2° Patricia Hack, A. Rodenbachstraat 20, 3500 Hasselt;<br />3° Thierry de l' Escaille, Kasteel van Loo, 3930 Hamont.<br /><br />
+...
 
 ### ART. 2.
 
-De volgende personen worden benoemd tot plaatsvervangende leden-pachters van de pachtprijzencommissie van Limburg :<br />1° Jozef Fagard, Vrerenstraat 6, 3700 Vreren;<br />2° Paul Bervoets, Bijgaertstraat 1, 3560 Lummen;<br />3° Jozeph Geelen, Ulvend 9, 3790 Sint-Martens-Voeren.<br /><br />De volgende personen worden benoemd tot plaatsvervangende leden-grondeigenaars van de pachtprijzencommissie van Limburg :<br />1° Michael Böse, Berglaan 11, 3600 Genk;<br />2° Ann Berben, Hoogstraat 12/1, 3990 Zutendaal;<br />3° Tom Colson, Rijksweg 363, 3630 Maasmechelen.<br /><br />
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend voorzitter van de pachtprijzencommissie van Limburg :<br />1° voorzitter : Sonia De Meuter, directeur bij het Vlaams Ministerie van Landbouw en Visserij;<br />2° plaatsvervangend voorzitter : Leo Van den Eynde, directeur bij het Vlaams Ministerie van Landbouw en Visserij.<br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 7 september 2007 tot samenstelling van de pachtprijzencommissie van Limburg wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
