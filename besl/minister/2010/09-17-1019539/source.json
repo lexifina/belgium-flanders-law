@@ -2,16 +2,16 @@
   "codex_id": 1019539,
   "title": "Ministerieel besluit van 2010-09-17 tot samenstelling van de pachtprijzencommissie van Oost-Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019539/VolledigDocument?datum=2010-09-30",
-  "source_sha256": "3a579b37dcb9e0d0961613eb9a72f413fc233e25605d4703970cd2e6ca09ed2a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019539/VolledigDocument?datum=2013-10-11",
+  "source_sha256": "7768b268619b31091278018fe8a6319ecb9babac7dcc570b3ad614b25cfae303",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019539&param=informatie",
-  "as_of": "2010-09-30",
+  "as_of": "2013-10-11",
   "made": "2010-09-17",
   "gazette": "2010-09-30",
   "numac": 2010035707,
   "document_start": "2010-09-30",
   "document_end": "2013-10-10",
-  "in_force": "2010-09-30",
+  "in_force": "2013-10-11",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2010-09-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-10-11; future article versions excluded; article text as the API gives it"
 }

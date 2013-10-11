@@ -6,20 +6,20 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De volgende personen worden benoemd tot leden-pachters van de pachtprijzencommissie van Oost-Vlaanderen :<br />1° Dirk Maes, Orgelveld 1, 9081 Bellem;<br />2° Hubert De Coninck, Kouterstraat 6, 9772 Wannegem-Lede;<br />3° Guido Van Mieghem, Oostlangeweg 3, 9130 Doel.<br /><br />De volgende personen worden benoemd tot leden-grondeigenaars van de pachtprijzencommissie van Oost-Vlaanderen :<br />1° Paul (Pablo) Janssen, Grotesteenweg Zuid 4, 9052 Zwijnaarde (Gent);<br />2° Yves della Faille, Nieuwegestraat 19, 9620 Zottegem;<br />3° Pierre-Michel de Vuyst, Provincieweg 2, 9552 Herzele (Borsbeke).<br /><br />
+...
 
 ### ART. 2.
 
-De volgende personen worden benoemd tot plaatsvervangende leden-pachters van de pachtprijzencommissie van Oost-Vlaanderen :<br />1° Anita Dhondt, Steenweg Deinze 126, 9810 Nazareth;<br />2° Richard Eeckhaut, Spoorweglaan 47, 9700 Oudenaarde;<br />3° Serafien Ryckaert, Blekkersdijk 31, 9988 Watervliet.<br /><br />De volgende personen worden benoemd tot plaatsvervangende leden-grondeigenaars van de pachtprijzencommissie van Oost-Vlaanderen :<br />1° Philip van Raemdonck, Gentseweg 212, 9120 Beveren;<br />2° Raoul de Hemptinne, Weldendreef 1, 9840 De Pinte;<br />3° Jacques Van der Stricht, Groene Dreef 11, 9830 Sint-Martens-Latem.<br /><br />
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangende voorzitter van de pachtprijzencommissie van Oost-Vlaanderen :<br />1° voorzitter : Leo Van den Eynde, directeur bij het Vlaams Ministerie van Landbouw en Visserij;<br />2° plaatsvervangende voorzitter : Sonia De Meuter, directeur bij het Vlaams Ministerie van Landbouw en Visserij.<br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 7 september 2007 tot samenstelling van de pachtprijzencommissie van Oost-Vlaanderen wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
