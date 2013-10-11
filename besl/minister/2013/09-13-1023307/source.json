@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023307,
+  "title": "Ministerieel besluit van 2013-09-13 tot samenstelling van de pachtprijzencommissie van Antwerpen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023307/VolledigDocument?datum=2013-10-11",
+  "source_sha256": "56141d40045b7b9fed17d920cfa92ee0ca3794b370759b514e3f2470361a50d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023307&param=informatie",
+  "as_of": "2013-10-11",
+  "made": "2013-09-13",
+  "gazette": "2013-10-11",
+  "numac": 2013205400,
+  "document_start": "2013-10-11",
+  "document_end": "2016-10-25",
+  "in_force": "2013-10-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
