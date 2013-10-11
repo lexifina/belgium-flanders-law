@@ -6,20 +6,20 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-De volgende personen worden benoemd tot leden-pachters van de pachtprijzencommissie van West-Vlaanderen :<br />1° Jordaan Dermaut, Materzeelstraat 60, 8570 Ingooigem;<br />2° Dirk Fevery, Zeebruggelaan 167, 8370 Blankenberge;<br />3° Eric Boussery, Mandestraat 2, 8950 Heuvelland.<br /><br />De volgende personen worden benoemd tot leden-grondeigenaars van de pachtprijzencommissie van West-Vlaanderen :<br />1° Eddy Baudry, Geerwijnstraat 13, 8000 Brugge;<br />2° Patrick Geelhand de Merxem, Reningelstraat 10, 8956 Kemmel;<br />3° Bernard-Henry d'Udekem d'Acoz, Munkenstraat 6, 8020 Ruddervoorde.<br /><br />
+...
 
 ### ART. 2.
 
-De volgende personen worden benoemd tot plaatsvervangende leden-pachters van de pachtprijzencommissie van West-Vlaanderen :<br />1° Geert Defruyt, Nieuwendammeweg 2, 8620 Nieuwpoort;<br />2° Johan Dezeure, Zwarte Paardstraat 2, 8630 Beauvoorde;<br />3° Hendrik Vandamme, Kruishofstraat 2, 8400 Oostende.<br /><br />De volgende personen worden benoemd tot plaatsvervangende leden-grondeigenaars van de pachtprijzencommissie van West-Vlaanderen :<br />1° Bernard D'Hoore, Bloemendalestraat 44, 8730 Beernem;<br />2° Joseph Thiery, Rumbeeksesteenweg 352, 8800 Roeselare-Rumbeke;<br />3° Jean van der Haert, Oude Sint-Annadreef 80, 8200 Brugge Sint-Andries.<br /><br />
+...
 
 ### ART. 3.
 
-De volgende personen worden benoemd tot voorzitter en plaatsvervangend voorzitter van de pachtprijzencommissie van West-Vlaanderen :<br />1° voorzitter : Leo Van den Eynde, directeur bij het Vlaams Ministerie van Landbouw en Visserij;<br />2° plaatsvervangend voorzitter : Sonia De Meuter, directeur bij het Vlaams Ministerie van Landbouw en Visserij.<br /><br />
+...
 
 ### ART. 4.
 
-Het ministerieel besluit van 7 september 2007 tot samenstelling van de pachtprijzencommissie van West-Vlaanderen wordt opgeheven.<br /><br />
+...
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
