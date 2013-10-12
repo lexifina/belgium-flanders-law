@@ -178,7 +178,7 @@ De bestekken van de VVM voor de aankoop van voertuigen worden steeds aangepast a
 
 ### ART. 38.
 
-Elk voertuig van de VVM, met uitzondering van de openbaarvervoerauto's, draagt aan de buiten-zijde, vooraan en achteraan een herkenningsnummer. Dat wordt eveneens aangebracht aan de binnenzijde van de voertuigen, maar alleen vooraan. De hoogte van de letters en de cijfers bedraagt minstens:<br />1° aan de buitenzijde: 7 cm;<br />2° aan de binnenzijde: 3 cm.<br /><br />Elk voertuig van de VVM draagt aan de buitenzijde herkenningstekens van de VVM. De VVM bepaalt per type voertuig, de vorm en de afmetingen van die herkenningstekens.<br /><br />Om de reizigers een uitstekend uitzicht te bieden, is het verboden om reclame of berichten op de voor- en de zijruiten van de voertuigen van de VVM aan te brengen.
+Elk voertuig van de VVM, met uitzondering van de openbaarvervoerauto's,   draagt aan de buiten-zijde, vooraan en achteraan een herkenningsnummer. Dat   wordt eveneens aangebracht aan de binnenzijde van de voertuigen, maar alleen   vooraan. De hoogte van de letters en de cijfers bedraagt minstens:<BR>1° aan de   buitenzijde: 7 cm;<BR>2° aan de binnenzijde: 3 cm.<BR><BR>Elk voertuig van de   VVM draagt aan de buitenzijde herkenningstekens van de VVM. De VVM bepaalt per   type voertuig, de vorm en de afmetingen van die herkenningstekens.
 
 ### ART. 39.
 
@@ -387,6 +387,14 @@ De VVM kan niet-begeleide pakjes vervoeren van ten hoogste 30 kg, als die de rei
 De VVM vervoert gratis:<br /><br />1° de hondjes en andere kleine dieren die de reizigers vergezellen als ze niet gevaarlijk zijn en op de schoot kunnen worden gehouden;<br /><br />2° de geleidehonden van de blinden en de honden die een politieagent vergezellen.<br /><br />De minister bepaalt de nadere voorwaarden waaronder de VVM aan vervoer van dieren mag doen.
 
 ## [HOOFDSTUK IV/1 KLACHTEN EN HANDHAVINGSINSTANTIE (ing. BVR 20 september 2013, art. 2, I: 12 oktober 2013)]
+
+### ART. 83/1.
+
+Elke reiziger kan kosteloos klacht indienen bij de VVM voor een   vermoedelijke schending van de bepalingen van artikel 4, tweede lid, artikel 9,   10, eerste lid, artikel 16, eerste lid, b), en tweede lid, artikel 17, eerste en   tweede lid, en artikel 24 en 25 van verordening (EU) nr. 181/2011 van het   Europees Parlement en de Raad van 16 februari 2011 betreffende de rechten van   autobus- en touringcarpassagiers en tot wijziging van Verordening (EG) nr.   2006/2004 of van de bepalingen van dit besluit.
+
+### ART. 83/2.
+
+De Vlaamse ombudsman, vermeld in artikel 2 van het decreet van 7 juli 1998   houdende instelling van de Vlaamse Ombudsdienst, is belast met de handhaving van   de bepalingen van artikel 4, tweede lid, artikel 9, 10, eerste lid, artikel 16,   eerste lid, b), en tweede lid, artikel 17, eerste en tweede lid, en artikel 24   en 25 van verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad   van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers   en tot wijziging van Verordening (EG) nr. 2006/2004.<BR><BR>De Vlaamse ombudsman   behandelt ook de klachten in hoger beroep die worden ingediend bij de VVM op   basis van artikel 83/1.
 
 ## HOOFDSTUK V TOEZICHT
 
