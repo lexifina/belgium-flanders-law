@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2013-09-20 tot wijziging van het koninklijk besluit van 15 maart 1968 houdende algemeen reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en hun veiligheidstoebehoren moeten voldoen en het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de exploitatie en de tarieven van de VVM
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad   van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers   en tot wijziging van Verordening (EG) nr. 2006/2004;<BR></P>  <P>Gelet op het decreet van 31 juli 1990 betreffende het publiekrechtelijk   vormgegeven extern verzelfstandigd agentschap Vlaamse Vervoermaatschappij - De   Lijn, artikel 24, gewijzigd bij het decreet van 18 mei 1999;<BR></P>  <P>Gelet op het decreet van 20 april 2001 betreffende de organisatie van het   personenvervoer over de weg, artikel 15 en 16;<BR></P>  <P>Gelet op het koninklijk besluit van 15 maart 1968 houdende algemeen reglement   op de technische eisen waaraan de auto's, hun aanhangwagens, hun onderdelen en   hun veiligheidstoebehoren moeten voldoen;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de   exploitatie en de tarieven van de VVM;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 11 juli 2013;<BR></P>  <P>Gelet op de adviesaanvraag binnen 30 dagen, die op 8 augustus 2013 bij de   Raad van State is ingediend, met toepassing van artikel 84, § 1, eerste lid, 1°,   van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Overwegende dat het advies niet is meegedeeld binnen die termijn;<BR></P>  <P>Gelet op artikel 84, § 4, tweede lid, van de wetten op de Raad van State,   gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Mobiliteit en Openbare   Werken;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+In artikel 38 van het besluit van de Vlaamse Regering van 14 mei 2004   betreffende de exploitatie en de tarieven van de VVM, gewijzigd bij het besluit   van de Vlaamse Regering van 26 januari 2007, wordt het derde lid   opgeheven.<BR>
+
+### ART. 2.
+
+<P>&nbsp;In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse   Regering van 26 januari 2007 en 24 april 2009, wordt een hoofdstuk IV/1, dat   bestaat uit artikel 83/1 en 83/2, ingevoegd, dat luidt als volgt :<BR>«   HOOFDSTUK IV/1. - Klachten en handhavingsinstantie<BR>Art. 83/1. Elke reiziger   kan kosteloos klacht indienen bij de VVM voor een vermoedelijke schending van de   bepalingen van artikel 4, tweede lid, artikel 9, 10, eerste lid, artikel 16,   eerste lid, b), en tweede lid, artikel 17, eerste en tweede lid, en artikel 24   en 25 van verordening (EU) nr. 181/2011 van het Europees Parlement en de Raad   van 16 februari 2011 betreffende de rechten van autobus- en touringcarpassagiers   en tot wijziging van Verordening (EG) nr. 2006/2004 of van de bepalingen van dit   besluit.<BR></P>  <P>Art. 83/2. De Vlaamse ombudsman, vermeld in artikel 2 van het decreet van 7   juli 1998 houdende instelling van de Vlaamse Ombudsdienst, is belast met de   handhaving van de bepalingen van artikel 4, tweede lid, artikel 9, 10, eerste   lid, artikel 16, eerste lid, b), en tweede lid, artikel 17, eerste en tweede   lid, en artikel 24 en 25 van verordening (EU) nr. 181/2011 van het Europees   Parlement en de Raad van 16 februari 2011 betreffende de rechten van autobus- en   touringcarpassagiers en tot wijziging van Verordening (EG) nr.   2006/2004.<BR></P>  <P>De Vlaamse ombudsman behandelt ook de klachten in hoger beroep die worden   ingediend bij de VVM op basis van artikel 83/1. ».<BR></P>
+
+### ART. 3.
+
+Artikel 75 van het koninklijk besluit van 15 maart 1968 houdende algemeen   reglement op de technische eisen waaraan de auto's, hun aanhangwagens, hun   onderdelen en hun veiligheidstoebehoren moeten voldoen, gewijzigd bij de   koninklijke besluiten van 14 januari 1971 en 12 december 1975, wordt   opgeheven.<BR>
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor het mobiliteitsbeleid en het vervoer, is   belast met de uitvoering van het besluit.<BR>
