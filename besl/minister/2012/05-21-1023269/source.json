@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023269,
+  "title": "Ministerieel besluit van 2012-05-21 tot wijziging van het ministerieel besluit van 5 april 2006 houdende toekenning van aanvullende en specifieke delegaties aan het hoofd van het departement Leefmilieu, Natuur en Energie, wat betreft de vertegenwoordiging van het Vlaamse Gewest voor de persoonstegoedrekeningen in het Europees registersysteem",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023269/VolledigDocument?datum=2013-10-14",
+  "source_sha256": "7a1131bc75f7316ebe4747dad8549a62e0dda804bf5e8ab70331302763d20198",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023269&param=informatie",
+  "as_of": "2013-10-14",
+  "made": "2012-05-21",
+  "gazette": "2013-10-04",
+  "numac": 2013205292,
+  "document_start": "2013-10-14",
+  "document_end": null,
+  "in_force": "2013-10-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
