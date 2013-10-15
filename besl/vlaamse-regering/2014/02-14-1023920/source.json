@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023920,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van het besluit van de Vlaamse Regering van 27 juni 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldigingsregeling in het gewoon basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023920/VolledigDocument?datum=2013-10-15",
+  "source_sha256": "a5a2d0c742dad8a6df07126cdd46e51d946899c98eaf044af461f66fd335933f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023920&param=informatie",
+  "as_of": "2013-10-15",
+  "made": "2014-02-14",
+  "gazette": "2014-03-19",
+  "numac": 2014035249,
+  "document_start": "2013-10-15",
+  "document_end": null,
+  "in_force": "2013-10-15",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2013-10-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
