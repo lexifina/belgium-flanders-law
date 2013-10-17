@@ -22,4 +22,80 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
-De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en   Sociale Economie van het Departement Werk en Sociale Economie   zijn:<BR><BR>Lorette Aerts<BR>Jean-Marc Bergiers<BR>Willy Bieseman<BR>Kristof   Botteldoom<BR>Charles Brees<BR>Katleen Breynaert<BR>Nicky Caestecker<BR>Conny   Costermans<BR>Luc Cretskens<BR>Evelien Decraene<BR>Bedwig De Wilde<BR>Jurgen De   Wit<BR>Steven Dhaeze<BR>Nathalie Dhondt<BR>Lise Gijsel<BR>Raymond   Graindor<BR>Guy Joosten<BR>Ann Lambrechts<BR>Thalassa Marchand<BR>Evi   Martens<BR>David Matthys<BR>Hans Peeraer<BR>Thomas Rossie<BR>Tom Segers<BR>Elke   Smits<BR>Chris Vandaele<BR>Martine Van Den Bossche<BR>Stefanie   Vandenbussche<BR>Myriam Vander Stadt<BR>Elke Van Neygen<BR>Koen Van   Osselaer<BR>Willem Van Parys<BR>Jelle Verhaegen<BR>Marc   Willems<BR>
+<p>De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie zijn :</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Lorette Aerts</td>
+			<td>Guy Joosten</td>
+		</tr>
+		<tr>
+			<td>Jean-Marc Bergiers</td>
+			<td>Ann Lambrechts</td>
+		</tr>
+		<tr>
+			<td>Willy Bieseman</td>
+			<td>Thalassa Marchand</td>
+		</tr>
+		<tr>
+			<td>Kristof Botteldoorn</td>
+			<td>Evi Martens</td>
+		</tr>
+		<tr>
+			<td>Charles Brees</td>
+			<td>David Matthys</td>
+		</tr>
+		<tr>
+			<td>Katleen Breynaert</td>
+			<td>Hans Peeraer</td>
+		</tr>
+		<tr>
+			<td>Nicky Caestecker</td>
+			<td>Thomas Rossie</td>
+		</tr>
+		<tr>
+			<td>Koen Cauwels</td>
+			<td>Tom Segers</td>
+		</tr>
+		<tr>
+			<td>Cornelia Costermans</td>
+			<td>Elke Smits</td>
+		</tr>
+		<tr>
+			<td>Luc Cretskens</td>
+			<td>Chris Vandaele</td>
+		</tr>
+		<tr>
+			<td>Evelien Decraene</td>
+			<td>Martine Van Den Bossche</td>
+		</tr>
+		<tr>
+			<td>Hedwig De Wilde</td>
+			<td>Stefanie Vandenbussche</td>
+		</tr>
+		<tr>
+			<td>Jurgen De Wit</td>
+			<td>Elke Van Neygen</td>
+		</tr>
+		<tr>
+			<td>Steven Dhaeze</td>
+			<td>Koenraad Van Osselaer</td>
+		</tr>
+		<tr>
+			<td>Nathalie Dhondt</td>
+			<td>Willem Van Parys</td>
+		</tr>
+		<tr>
+			<td>Lize Gijsel</td>
+			<td>Jelle Verhaegen</td>
+		</tr>
+		<tr>
+			<td>Raymond Graindor</td>
+			<td>Marc Willems</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
