@@ -28,9 +28,9 @@ De keuringslijn op verplaatsing moet dus aan dezelfde regels voldoen als deze di
 <br>
 Het project, bestaande uit de installatie van minimaal 20 en maximaal 30 keuringslijnen op verplaatsing, voor alle instellingen, is bedoeld als proefproject. Daarom is het belangrijk om keuringslijnen op verplaatsing te kiezen die een maximum aan verschillende aspecten bieden. Het project zal tevens evenredig verspreid worden over het heel nationaal territorium en de verschillende transportsectoren en vaklui voor het onderhoud en de herstelling van voertuigen.<br>
 <br>
-Het project start in de loop van het jaar 2012 voor een periode van 12 maanden.<br>
+[Het proefproject loopt over een periode van twee jaar.<br>
 <br>
-Bij het einde van het project zal een evaluatie van het project opgemaakt worden. Deze evaluatie wordt uitgevoerd door een Begeleidingscomité, voorgezeten door de Directeur-generaal van de DGMVV. Een tussenverslag wordt aan de Staatssecretaris voorgelegd na een periode van 6 maanden. Een eindverslag zal hem worden voorgelegd na een periode van één jaar.<br>
+Bij het einde van het project zal een evaluatie van het project opgemaakt worden. Deze evaluatie wordt uitgevoerd door een Begeleidingscomité, voorgezeten door de Directeur-generaal van het Directoraat-generaal Wegvervoer en Verkeersveiligheid. Een tussenverslag wordt aan de Staatssecretaris voorgelegd na een periode van 6 maanden. Een eindverslag zal hem worden voorgelegd na een periode van twee jaar <em>(verv. omzendbrief 6 november 2013, art. 1, I: 18 oktober 2013)</em>].<br>
 <br>
 Na deze evaluaties zal de Staatssecretaris voor Mobiliteit een beslissing treffen met betrekking tot het al dan niet voortzetten van dit project.<br>
 <br>
@@ -148,7 +148,7 @@ Het Begeleidingscomité is samengesteld uit leden van de FOD Mobiliteit en Vervo
 * TLV<br>
 * UPTR<br>
 <br>
-Op het einde van het project zal een evaluatie ervan plaatsvinden. Deze evaluatie wordt uitgevoerd door het Begeleidingscomité. Een tussentijds verslag zal worden voorgelegd aan de Staatssecretaris na een periode van 6 maanden. Een eindverslag zal hem worden overgemaakt na een periode van een jaar.<br>
+[Op het einde van het proefproject zal een evaluatie ervan plaatsvinden. Deze evaluatie wordt uitgevoerd door het Begeleidingscomité. Een tussentijds verslag zal worden voorgelegd aan de Staatssecretaris na een periode van 6 maanden. Een eindverslag zal hem worden overgemaakt na een periode van twee jaar <em>(verv. omzendbrief 6 november 2013, art. 2, I: 18 oktober 2013)</em>].<br>
 <br>
 De evaluatiecriteria zijn opgenomen in bijlage 7.<br>
 <br>
