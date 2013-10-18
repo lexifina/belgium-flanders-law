@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023406,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-18 tot oprichting van het intern verzelfstandigd agentschap « Audit Vlaanderen » en tot wijziging van diverse besluiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023406/VolledigDocument?datum=2013-10-18",
+  "source_sha256": "a09fad41f3d9a0424c0bdadd2b0df03bed4d36425090bc359398ab00a48a7e13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023406&param=informatie",
+  "as_of": "2013-10-18",
+  "made": "2013-10-18",
+  "gazette": "2013-11-27",
+  "numac": 2013036086,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2013-10-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
