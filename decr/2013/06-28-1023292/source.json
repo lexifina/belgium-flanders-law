@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023292,
+  "title": "Decreet van 2013-06-28 houdende aanpassing van de Middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023292/VolledigDocument?datum=2013-10-20",
+  "source_sha256": "fc9d53d02f97cd10f95c5a74faae168c3a2bb425236fed6f9770d2079d7c96ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023292&param=informatie",
+  "as_of": "2013-10-20",
+  "made": "2013-06-28",
+  "gazette": "2013-10-10",
+  "numac": 2013035845,
+  "document_start": "2013-10-20",
+  "document_end": null,
+  "in_force": "2013-10-20",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
