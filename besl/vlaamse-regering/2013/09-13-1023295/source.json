@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023295,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie houtskeletbouwer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023295/VolledigDocument?datum=2013-10-21",
+  "source_sha256": "4140a13b8a1bcb5e894e75e67f03f5063dc692eb326c302d130876f4607b9e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023295&param=informatie",
+  "as_of": "2013-10-21",
+  "made": "2013-09-13",
+  "gazette": "2013-10-11",
+  "numac": 2013035867,
+  "document_start": "2013-10-21",
+  "document_end": null,
+  "in_force": "2013-10-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
