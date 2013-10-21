@@ -6,12 +6,12 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-Het model van werkingsverslag dat verenigingen moeten gebruiken om een aanvraag in te dienen tot erkenning als vereniging waar armen het woord nemen, overeenkomstig artikel 24, 4°, b), van het besluit van de Vlaamse Regering van 15 mei 2009 betreffende de armoedebestrijding, wordt opgenomen in de bijlage, die bij dit besluit is gevoegd.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/03/16_1.pdf#page=175" title=" Formulier" target="_blank" class="pdf">Formulier</a>
+...
