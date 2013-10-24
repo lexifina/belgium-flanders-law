@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023308,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie boorder - horizontale boringen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023308/VolledigDocument?datum=2013-10-24",
+  "source_sha256": "ff90ce529e0804847b0aa03a4c721302286eb2c3a1095d3cd38130e735abb039",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023308&param=informatie",
+  "as_of": "2013-10-24",
+  "made": "2013-09-13",
+  "gazette": "2013-10-14",
+  "numac": 2013035866,
+  "document_start": "2013-10-24",
+  "document_end": null,
+  "in_force": "2013-10-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
