@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023310,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie medewerker slagerij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023310/VolledigDocument?datum=2013-10-24",
+  "source_sha256": "bc7b08dcef00358881a5cf889d4ea96e010a927262e622596ab4c8326a893dc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023310&param=informatie",
+  "as_of": "2013-10-24",
+  "made": "2013-09-13",
+  "gazette": "2013-10-14",
+  "numac": 2013035871,
+  "document_start": "2013-10-24",
+  "document_end": null,
+  "in_force": "2013-10-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
