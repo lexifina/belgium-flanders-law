@@ -7,3 +7,11 @@
 ### ART. 1.
 
 De bachelor-na-bacheloropleiding bachelor in het onderwijs : buitengewoon   onderwijs van de Artesis Hogeschool krijgt een tijdelijke   erkenning.<BR>
+
+### ART. 2.
+
+De tijdelijk erkenning, vermeld in artikel 1, geldt voor een periode van   twee jaar, die ingaat vanaf het begin van het academiejaar 2013-2014 en vervalt   op het einde van het academiejaar 2014-2015.<BR>
+
+### ART. 3.
+
+&nbsp;De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
