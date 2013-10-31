@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023326,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-11 houdende wijziging van artikel 4 en 6 van het besluit van de Vlaamse Regering van 17 november 2006 tot instelling van een bedrijfsadviessysteem voor land- en tuinbouwers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023326/VolledigDocument?datum=2013-10-31",
+  "source_sha256": "b8df0e2271e54255a6562c4e67d627840312e75ea09e28bbc91ee91c80c93d1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023326&param=informatie",
+  "as_of": "2013-10-31",
+  "made": "2013-10-11",
+  "gazette": "2013-10-21",
+  "numac": 2013035995,
+  "document_start": "2013-10-31",
+  "document_end": null,
+  "in_force": "2013-10-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
