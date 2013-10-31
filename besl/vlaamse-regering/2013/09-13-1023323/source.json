@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023323,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie werkplaatsbuitenschrijnwerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023323/VolledigDocument?datum=2013-10-31",
+  "source_sha256": "f048104d4c40e27177eae4bddc48b83ecc617919e7ef0fd845af5370dc51c57d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023323&param=informatie",
+  "as_of": "2013-10-31",
+  "made": "2013-09-13",
+  "gazette": "2013-10-21",
+  "numac": 2013035967,
+  "document_start": "2013-10-31",
+  "document_end": null,
+  "in_force": "2013-10-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-10-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
