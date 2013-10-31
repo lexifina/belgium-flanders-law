@@ -61,7 +61,7 @@ De verschillende adviesonderwerpen die voor subsidie in aanmerking komen, worden
 
 ### ART. 4.
 
-Een land- of tuinbouwbedrijfshoofd dat de subsidie, vermeld in artikel 2, wil ontvangen vraagt de adviezen over alle voor zijn bedrijf relevante modules aan bij dezelfde adviesdienst. Indien de adviesdiensten voor de adviezen over bepaalde modules een beroep doen op onderaanneming, worden deze onderaannemers niet afzonderlijk door de minister erkend. De bedrijfsadviesdienst blijft verantwoordelijk voor de adviezen over alle modules.<br /><br />Een land- of tuinbouwbedrijfshoofd heeft twee jaar de tijd om :<br />1° zich aan te melden;<br />2° de voor zijn bedrijf relevante adviezen in te winnen;<br />3° zijn subsidieaanvraag in te dienen.<br /><br />
+Een land- of tuinbouwbedrijfshoofd dat de subsidie, vermeld in artikel 2,   wil ontvangen vraagt de adviezen over alle voor zijn bedrijf relevante modules   aan bij dezelfde adviesdienst. Indien de adviesdiensten voor de adviezen over   bepaalde modules een beroep doen op onderaanneming, worden deze onderaannemers   niet afzonderlijk door de minister erkend. De bedrijfsadviesdienst blijft   verantwoordelijk voor de adviezen over alle modules.<BR><BR>Een land- of   tuinbouwbedrijfshoofd heeft twee jaar de tijd om :<BR>1° zich aan te   melden;<BR>2° de voor zijn bedrijf relevante adviezen in te winnen;<BR>3° zijn   subsidieaanvraag in te dienen.<BR><BR>In afwijking van het tweede lid, heeft het   land- en tuinbouwbedrijfshoofd dat zich na 30 september 2013 bij de   beheersdienst aanmeldt, tijd tot uiterlijk 30 september 2015 om de relevante   adviezen in te winnen en zijn subsidieaanvraag in te   dienen.<BR><BR>
 
 ### ART. 5.
 
@@ -69,7 +69,7 @@ Een land- of tuinbouwbedrijfshoofd kan elke drie jaar een subsidie, als vermeld 
 
 ### ART. 6.
 
-Een land- of tuinbouwbedrijfshoofd kan zich vanaf 1 januari 2007 aanmelden bij de beheersdienst.<br /><br />
+Een land- of tuinbouwbedrijfshoofd kan zich vanaf 1 januari 2007 tot   uiterlijk 31 december 2013 aanmelden bij de beheersdienst.<BR><BR>
 
 ## HOOFDSTUK III Erkenning van de adviesdiensten
 
