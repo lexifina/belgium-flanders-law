@@ -121,7 +121,7 @@ De lesgever die zich bij de afdeling wil laten registreren, stuurt het curriculu
 
 ### ART. 22.
 
-De aanvrager van een premie voor sociale promotie, vermeld in artikel 43 van het besluit, dient bij de bevoegde entiteit een ondertekende en gedagtekende aanvraag in. De aanvraag moet minstens de volgende gegevens bevatten :<br />1° de persoonlijke gegevens van de aanvrager :<br />a) de voornaam en de achternaam;<br />b) het adres en het telefoonnummer;<br />c) de geboortedatum;<br />d) het sociaal statuut van de aanvrager (vennoot, zelfstandig helper, meewerkend gezinslid, werknemer of ander statuut); <br />e) een verklaring dat de aanvrager al dan niet landbouwactiviteiten uitvoert;<br />2° als de aanvrager een zelfstandige bedrijfsleider is van een landbouwbedrijf, het producentnummer van het landbouwbedrijf;<br />3° het ondernemingsnummer van het bedrijf;<br />4° het rekeningnummer waarop de premie gestort mag worden;<br />5° een lijst van de gevolgde opleidingen met vermelding van begin- en einddatum, aard van de opleiding, opleidingsnummer en het gevolgde aantal lesuren en stagedagen;<br />6° een verbintenis dat de aanvrager voor het volgen van de opgesomde opleidingen geen aanspraak zal maken op andere vergoedingen;<br />7° een verklaring dat alle gegevens in de aanvraag naar waarheid ingevuld zijn. <br /><br />Een model van de aanvraag van een premie voor sociale promotie is terug te vinden op de website van de Vlaamse Overheid : http://www.vlaanderen.be. <br /><br />De aanvrager voegt bij de aanvraag een kopie van de getuigschriften van de gevolgde opleidingen waarvoor hij de premie vraagt.<br /><br />
+<P>...</P>
 
 ### ART. 23.
 
