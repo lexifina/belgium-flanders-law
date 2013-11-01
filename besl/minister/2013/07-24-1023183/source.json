@@ -2,16 +2,16 @@
   "codex_id": 1023183,
   "title": "Ministerieel besluit van 2013-07-24 tot wijziging van het ministerieel besluit van 26 november 2007 betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023183/VolledigDocument?datum=2013-08-23",
-  "source_sha256": "f231860492a2a17b05b9ceee08a141bb8c0b82b96f5864652a08df68fba95b0b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023183/VolledigDocument?datum=2013-11-01",
+  "source_sha256": "b0e83088bc64366770742880fc1c09e61486699988504b79dfcff449aabf0e13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023183&param=informatie",
-  "as_of": "2013-08-23",
+  "as_of": "2013-11-01",
   "made": "2013-07-24",
   "gazette": "2013-08-13",
   "numac": 2013204514,
   "document_start": "2013-08-23",
   "document_end": null,
-  "in_force": "2013-08-23",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-11-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2013-11-01; future article versions excluded; article text as the API gives it"
 }

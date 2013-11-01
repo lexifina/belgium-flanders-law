@@ -16,6 +16,10 @@ In hetzelfde besluit wordt bijlage II vervangen door bijlage 2, die bij   dit be
 
 In hetzelfde besluit wordt in bijlage VIII de zin "Een zelfstandig helper   moet ook aanslagbiljetten voorleggen die aantonen dat hij voor de desbetreffende   periode inkomsten uit de zelfstandige activiteit heeft aangegeven."   opgeheven.<BR>
 
+### ART. 4.
+
+Artikel 22 van hetzelfde besluit wordt opgeheven.<BR>
+
 ### ART. 5.
 
 Dit besluit treedt in werking op de tiende dag na de bekendmaking ervan in   het Belgisch Staatsblad, met uitzondering van artikel 4, dat in werking treedt   op 1 november 2013.<BR>
