@@ -851,7 +851,7 @@ In het kader van meerlingenhulp wordt er een toeslag boven op de enveloppe, verm
 
 ### ART. 11/2.
 
-Voor de maatregel werkdrukvermindering wordt een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp op de wijze, vermeld in artikel 31 van bijlage I.<br /><br />Voor de maatregel vervoer wordt er een budget verdeeld tussen de erkende diensten voor gezinszorg en aanvullende thuiszorg en de erkende diensten voor logistieke hulp op de wijze, vermeld in artikel 32 van bijlage I.
+Voor de maatregel werkdrukvermindering wordt een budget verdeeld tussen de   erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende   private diensten voor logistieke hulp op de wijze, vermeld in artikel 31 van   bijlage I.<BR><BR>Per gereden kilometer dat het logistiek personeel voor de   dienst voor logistieke hulp heeft afgelegd met de privéwagen, ontvangt de dienst   een vergoeding op de wijze, vermeld in artikel 15/1 van bijlage I.
 
 ### ART. 11/3.
 
