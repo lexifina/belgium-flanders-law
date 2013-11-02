@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023336,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie binnenschrijnwerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023336/VolledigDocument?datum=2013-11-02",
+  "source_sha256": "37e7624eed314f8ea4ca7681c3a6786928f8130641c6ecc8fddd0153d1679cee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023336&param=informatie",
+  "as_of": "2013-11-02",
+  "made": "2013-09-13",
+  "gazette": "2013-10-23",
+  "numac": 2013035963,
+  "document_start": "2013-11-02",
+  "document_end": null,
+  "in_force": "2013-11-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
