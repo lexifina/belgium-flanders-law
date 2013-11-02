@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023341,
+  "title": "Ministerieel besluit van 2013-10-01 van de Vlaamse Milieumaatschappij tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de uitbouw van een bedieningsgebouwtje voor de weerradartoren te Houthalen-Helchteren door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023341/VolledigDocument?datum=2013-11-02",
+  "source_sha256": "2c244a62349d3e4bd95e15164172b6fb8355cc2f7bec47e15f393fba6002ca1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023341&param=informatie",
+  "as_of": "2013-11-02",
+  "made": "2013-10-01",
+  "gazette": "2013-10-23",
+  "numac": 2013205636,
+  "document_start": "2013-11-02",
+  "document_end": null,
+  "in_force": "2013-11-02",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-11-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
