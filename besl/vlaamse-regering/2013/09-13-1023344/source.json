@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023344,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie vleesbereider",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023344/VolledigDocument?datum=2013-11-03",
+  "source_sha256": "8b2d792d3ea5c232f119260f80c1d33824f6242700cdf62a9cdeb56f6f6bbd09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023344&param=informatie",
+  "as_of": "2013-11-03",
+  "made": "2013-09-13",
+  "gazette": "2013-10-24",
+  "numac": 2013035873,
+  "document_start": "2013-11-03",
+  "document_end": null,
+  "in_force": "2013-11-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-11-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
