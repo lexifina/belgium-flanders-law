@@ -1199,7 +1199,9 @@ deze bijlage wordt voldaan, moeten volgens daarvoor passende methoden worden vas
 
 ### BIJLAGE II
 
-<p>I. GECERTIFICEERD ZAAD<br>
+<p>Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn 2012/37/EU van de Commissie van 22 november 2012 tot wijziging van bepaalde bijlagen bij de Richtlijnen 66/401/EEG en 66/402/EEG van de Raad wat betreft de voorwaarden waaraan zaaizaad van Galega orientalis Lam. moet voldoen, het maximumgewicht van een partij zaaizaad van bepaalde soorten groenvoedergewassen en de monstergrootte van Sorghum spp.<br>
+<br>
+I. GECERTIFICEERD ZAAD<br>
 <br>
 1. Het zaad moet voldoende rasecht en raszuiver zijn.<br>
 <br>
@@ -2790,7 +2792,7 @@ A. Tabel.<br>
 			<p style="margin-right: 0cm; margin-left: 0cm;">Galega orientalis</p>
 			</td>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">60</p>
+			<p style="margin-right: 0cm; margin-left: 0cm;">60 (a) (b)</p>
 			</td>
 			<td style="background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">40</p>
@@ -5705,7 +5707,7 @@ b) mag het percentage van het aantal zaden Lupinus spp. van een andere kleur nie
 
 ### BIJLAGE III.
 
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>0</o:TotalTime><br>  <o:Created>2010-06-24T14:02:00Z</o:Created><br>  <o:LastSaved>2010-06-24T14:02:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>350</o:Words><br>  <o:Characters>1928</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>16</o:Lines><br>  <o:Paragraphs>4</o:Paragraphs><br>  <o:CharactersWithSpaces>2274</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>steenpfr</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>steenpfr</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>0</o:TotalTime><br>  <o:Created>2010-06-24T14:02:00Z</o:Created><br>  <o:LastSaved>2010-06-24T14:02:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>350</o:Words><br>  <o:Characters>1928</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>16</o:Lines><br>  <o:Paragraphs>4</o:Paragraphs><br>  <o:CharactersWithSpaces>2274</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn 2012/37/EU van de Commissie van 22 november 2012 tot wijziging van bepaalde bijlagen bij de Richtlijnen 66/401/EEG en 66/402/EEG van de Raad wat betreft de voorwaarden waaraan zaaizaad van Galega orientalis Lam. moet voldoen, het maximumgewicht van een partij zaaizaad van bepaalde soorten groenvoedergewassen en de monstergrootte van Sorghum spp.&nbsp;&nbsp;
 <p>&nbsp;</p>
 
 <table class="MsoNormalTable" style="mso-cellspacing: 1.5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" border="1" cellpadding="0">
@@ -5740,7 +5742,7 @@ b) mag het percentage van het aantal zaden Lupinus spp. van een andere kleur nie
 		</tr>
 		<tr>
 			<td style="background-color: transparent;">
-			<p style="margin-right: 0cm; margin-left: 0cm;">Poaceae (Gramineae)</p>
+			<p style="margin-right: 0cm; margin-left: 0cm;">Poaceae (Gramineae)*</p>
 			</td>
 			<td style="background-color: transparent;">
 			<p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
@@ -6613,7 +6615,9 @@ b) mag het percentage van het aantal zaden Lupinus spp. van een andere kleur nie
 
 <p style="margin-right: 0cm; margin-left: 0cm;">&nbsp;</p>
 
-<p>Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.</p>
+<p>Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.<br>
+<br>
+(*) Het maximumgewicht van de partij mag verhoogd worden tot 25 ton als de leverancier daarvoor erkend is door de bevoegde entiteit.</p>
 
 ### BIJLAGE IV
 
