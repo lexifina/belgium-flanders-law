@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023350,
+  "title": "Ministerieel besluit van 2013-09-27 tot wijziging van het besluit van de Vlaamse Regering van 25 maart 2005 houdende reglementering van de handel in en de keuring van zaaizaad van groenvoedergewassen en het besluit van de Vlaamse Regering van 16 december 2005 houdende de reglementering van de handel in en de keuring van zaaigranen en het ministerieel besluit van 21 juni 2010 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van landbouw- en groentegewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023350/VolledigDocument?datum=2013-11-04",
+  "source_sha256": "a291fcce12b2ebd0fb002520c08c5c7dec858c572f0940986b32f7f95893c59b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023350&param=informatie",
+  "as_of": "2013-11-04",
+  "made": "2013-09-27",
+  "gazette": "2013-10-25",
+  "numac": 2013205697,
+  "document_start": "2013-11-04",
+  "document_end": null,
+  "in_force": "2013-11-04",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2013-11-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
