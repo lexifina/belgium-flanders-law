@@ -1375,133 +1375,142 @@ Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Clavic
 
 <p>Bijlage III. Gewicht van een partij zaaizaad en van een monster.<br>
 <br>
+Deze bijlage voorziet in de gedeeltelijke omzetting van uitvoeringsrichtlijn 2012/37/EU van de Commissie van 22 november 2012 tot wijziging van bepaalde bijlagen bij de Richtlijnen 66/401/EEG en 66/402/EEG van de Raad wat betreft de voorwaarden waaraan zaaizaad van Galega orientalis Lam. moet voldoen, het maximumgewicht van een partij zaaizaad van bepaalde soorten groenvoedergewassen en de monstergrootte van Sorghum spp.<br>
 </p>
+
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>soort</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>maximumgewicht van een partij (ton)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>minimumgewicht van een monster dat van een partij wordt genomen (gram)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>gewicht van het monster voor de bepaling van het aantal, vermeld in bijlage II, punt 2, A, kolom 4 tot en met 10, en in bijlage II, punt 3 (gram)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Avena nuda, Avena sativa, Avena strigosa, Hordeum vulgare, Triticum aestivum, Triticum durum, Triticum spelta, Secale cereale, xTriticosecale</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Phalaris canariensis</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Oryza sativa</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>Sorghum bicolor, Sorghum bicolor x Sorghum sudanense</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Sorghum bicolor (L.) Moench</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>1000</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>900</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>900</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>Sorghum sudanense</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Sorghum sudanense (Piper) Stapf</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>1000</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>250</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>900</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
-			<p>Zea mays, basiszaad van ingeteelde stammen</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Hybriden van Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper) Stapf</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>300</p>
+			</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>300</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">Zea mays, basiszaad van ingeteelde stammen</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>250</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Zea mays, basiszaad van andere dan ingeteelde stammen; gecertificeerd zaad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>40</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
 		</tr>
@@ -1510,7 +1519,10 @@ Het zaad moet in het bijzonder voldoen aan de volgende normen betreffende Clavic
 
 <p>&nbsp;</p>
 
-<p>Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.</p>
+<p>&nbsp;</p>
+
+<p><br>
+Het maximumgewicht van de partij mag niet met meer dan 5 % worden overschreden.</p>
 
 ## Bijlage IV Etiket
 
