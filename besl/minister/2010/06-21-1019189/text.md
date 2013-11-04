@@ -1368,11 +1368,11 @@ In die gevallen worden specifieke documenten gebruikt.</p>
 
 ### BIJLAGE
 
-Specifieke voorwaarden en normen voor zaaigranen als vermeld in artikel   2<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2010/07/07_1.pdf#page=24">Bijlage   2</A>
+Specifieke voorwaarden en normen voor zaaigranen als vermeld in artikel   2<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2010/07/07_1.pdf#page=24">Bijlage   2</A><BR><BR>-&nbsp;In punt 7.1&nbsp;worden in tabel 9 de rijen <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>"Sorghum bicolor, Sorghum bicolor x Sorghum sudanense       <TD>30       <TD>1000       <TD>900 <BR>    <TR>      <TD>Sorghum sudanense       <TD>10       <TD>1000       <TD>900 <BR>    <TR>      <TD>Zea mays, basiszaad van ingeteelde stammen       <TD>40       <TD>250       <TD>250"<BR></TD></TR></TBODY></TABLE><BR>vervangen door de rijen : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>"Sorghum bicolor (L.) Moench       <TD>30       <TD>900       <TD>900 <BR>    <TR>      <TD>Sorghum sudanense (Piper) Stapf       <TD>10       <TD>250       <TD>250 <BR>    <TR>      <TD>Hybriden van Sorghum bicolor (L.) Moench x Sorghum sudanense (Piper)         Stapf       <TD>30       <TD>300       <TD>300 <BR>    <TR>      <TD>Zea mays, basiszaad van ingeteelde stammen       <TD>40       <TD>250       <TD>250"<BR></TD></TR></TBODY></TABLE><BR>Zie MB 27 september 2013, BS 25   oktober 2013, art. 7
 
 ### BIJLAGE
 
-Specifieke voorwaarden en normen voor het zaaizaad van groenvoedergewassen   als vermeld in artikel 3<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2010/07/07_1.pdf#page=41">Bijlage   3</A>
+Specifieke voorwaarden en normen voor het zaaizaad van groenvoedergewassen   als vermeld in artikel 3<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2010/07/07_1.pdf#page=41">Bijlage   3</A><BR><BR>-&nbsp;In punt 6.1 wordt in tabel 7 in kolom 1 de vermelding   "Poaceae (Gramineae)" vervangen door de vermelding "Poaceae (Gramineae)   (*)<BR>(*) Het maximumgewicht van de partij mag verhoogd worden tot 25 ton als   de leverancier daarvoor erkend is door de bevoegde entiteit. <BR><BR>- In punt   6.2.1.2 wordt in tabel 8 bij de vermelding Galega orientalis Lam., in kolom 2,   het getal "60" vervangen door de vermelding "60 (a) (b) (Zie MB 27 september   2013, B.S. 25 oktober 2013, art. 8)<BR><BR>
 
 ### BIJLAGE
 
