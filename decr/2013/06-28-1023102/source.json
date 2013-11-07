@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023102,
+  "title": "Decreet van 2013-06-28 tot wijziging van de artikelen 7bis en 12 van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023102/VolledigDocument?datum=2013-11-07",
+  "source_sha256": "b1413cbd36899921ede745945a11bce11435872bb4ba4a275162a8dfd4d0c3c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023102&param=informatie",
+  "as_of": "2013-11-07",
+  "made": "2013-06-28",
+  "gazette": "2013-07-19",
+  "numac": 2013204125,
+  "document_start": "2013-11-07",
+  "document_end": null,
+  "in_force": "2013-11-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
