@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023386,
+  "title": "Samenwerkingsakkoord van 2013-10-10 tussen het Vlaams Gewest, het Waals Gewesten het Brussels Hoofdstedelijk Gewest betreffende het Protocol ondertekend te Brussel op 21 oktober 2010 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk Zweden tot wijziging van het verdrag van9 februari 1994 inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ter uitvoering van artikel 4, § 4, van de bijzondere wet van16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023386/VolledigDocument?datum=2013-11-07",
+  "source_sha256": "4cffd206b1d5bd4a538c0e46aca05196b668dce82abf15c89a48692bb6756b99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023386&param=informatie",
+  "as_of": "2013-11-07",
+  "made": "2013-10-10",
+  "gazette": "2013-10-30",
+  "numac": 0,
+  "document_start": "2013-11-07",
+  "document_end": null,
+  "in_force": "2013-11-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
