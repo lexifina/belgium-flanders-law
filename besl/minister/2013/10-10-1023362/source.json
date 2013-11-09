@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023362,
+  "title": "Ministerieel besluit van 2013-10-10 tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de uitvoering van waterbeheersingswerken in de vallei van de Zuunbeek te Sint-Pieters-Leeuw door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023362/VolledigDocument?datum=2013-11-09",
+  "source_sha256": "54a7876a7bd750bb013bb3b178318e1993f5e5a83187b83b1b8e1d1d7812dc67",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023362&param=informatie",
+  "as_of": "2013-11-09",
+  "made": "2013-10-10",
+  "gazette": "2013-10-30",
+  "numac": 2013205846,
+  "document_start": "2013-11-09",
+  "document_end": null,
+  "in_force": "2013-11-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
