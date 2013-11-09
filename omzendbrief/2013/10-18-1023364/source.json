@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023364,
+  "title": "Omzendbrief van 2013-10-18 BB 2013/8 - De veralgemeende invoering van de beleids- en beheerscyclus",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023364/VolledigDocument?datum=2013-11-09",
+  "source_sha256": "38c248765fe127e4977574d6b698b3c26c85c04578777176c95b8a5ca37a09f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023364&param=informatie",
+  "as_of": "2013-11-09",
+  "made": "2013-10-18",
+  "gazette": "2013-10-30",
+  "numac": 2013205843,
+  "document_start": "2013-11-09",
+  "document_end": null,
+  "in_force": "2013-11-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
