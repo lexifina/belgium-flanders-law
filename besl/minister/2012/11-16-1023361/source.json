@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023361,
+  "title": "Ministerieel besluit van 2012-11-16 Polder van Moervaart en Zuidleden tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de uitvoering van waterbeheersingswerken in Lochristi",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023361/VolledigDocument?datum=2013-11-09",
+  "source_sha256": "ee8cdd8025ccdd5e4b99ab6f1f6bbd3553c519041fe1f680288463c585fe6934",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023361&param=informatie",
+  "as_of": "2013-11-09",
+  "made": "2012-11-16",
+  "gazette": "2013-10-30",
+  "numac": 2013205874,
+  "document_start": "2013-11-09",
+  "document_end": null,
+  "in_force": "2013-11-09",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2013-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
