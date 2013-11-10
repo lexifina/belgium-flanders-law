@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023367,
+  "title": "Ministerieel besluit van 2013-09-25 houdende vastlegging van de bandingfactoren van groenestroomcertificaten voor groenestroomprojecten die gebruik maken van zonne-energie met een startdatum vanaf 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023367/VolledigDocument?datum=2013-11-10",
+  "source_sha256": "0e64fd97eef5d9ee243ae7651f0b747421a400d073ee6a5b95768b4cb9abfb41",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023367&param=informatie",
+  "as_of": "2013-11-10",
+  "made": "2013-09-25",
+  "gazette": "2013-10-31",
+  "numac": 2013035684,
+  "document_start": "2013-11-10",
+  "document_end": null,
+  "in_force": "2013-11-10",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}

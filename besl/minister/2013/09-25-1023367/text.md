@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2013-09-25 houdende vastlegging van de bandingfactoren van groenestroomcertificaten voor groenestroomprojecten die gebruik maken van zonne-energie met een startdatum vanaf 2014
+
+### Aanhef
+
+<P>De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<BR></P>  <P>Gelet op het Energiedecreet van 8 mei 2009, de artikelen 7.1.1 en 7.1.2,   vervangen bij decreet van 13 juli 2012 en gewijzigd bij decreet van 28 juni   2013, artikel 7.1.3, artikel 7.1.4/1, ingevoegd bij decreet van 13 juli 2012 en   gewijzigd bij decreet van 28 juni 2013 en artikel 7.1.5, gewijzigd bij decreet   van 13 juli 2012;<BR></P>  <P>Gelet op het Energiebesluit van 19 november 2010, artikel 6.2/1.1, ingevoegd   bij besluit van 21 december 2012 en artikel 6.2/1.6, ingevoegd bij besluit van   21 december 2012;<BR></P>  <P>Gelet op het rapport van het Vlaams Energieagentschap van 28 juni 2013,   <BR></P>  <P>Besluit :</P>
+
+### ART. 1.
+
+Voor groenestroomprojecten die gebruik maken van zonne-energie wordt de   bandingfactor per categorie, door het Vlaams Energieagentschap in haar rapport   van 28 juni 2013 voorgesteld ter uitvoering van het bepaalde in artikel 6.2/1.5,   § 2, derde lid van het Energiebesluit, vastgesteld als volgt :<BR>1°   zonne-energie :<BR>a) nieuwe installaties met een maximaal AC-vermogen van de   omvormer(s) tot en met 10 kW en met een startdatum vanaf twee maanden na   publicatie van dit besluit: de bandingfactor bedraagt 0,268;<BR>b) nieuwe   installaties met een maximaal AC-vermogen van de omvormer(s) groter dan 10 kW   tot en met 250 kW en met een startdatum vanaf twee maanden na publicatie van dit   besluit: de bandingfactor bedraagt 0,522;<BR>c) nieuwe installaties met een   maximaal AC-vermogen van de omvormer(s) groter dan 250 kW tot en met 750 kW en   met een startdatum vanaf twee maanden na publicatie van dit besluit: de   bandingfactor bedraagt 0,437.
