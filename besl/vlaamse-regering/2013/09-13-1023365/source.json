@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023365,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot erkenning van de beroepskwalificatie interieurbouwer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023365/VolledigDocument?datum=2013-11-10",
+  "source_sha256": "228f919a5f513aaa6eb39b971f97d0e3c93870534963ea7a0962d343af39d117",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023365&param=informatie",
+  "as_of": "2013-11-10",
+  "made": "2013-09-13",
+  "gazette": "2013-10-31",
+  "numac": 2013036017,
+  "document_start": "2013-11-10",
+  "document_end": null,
+  "in_force": "2013-11-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-11-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
