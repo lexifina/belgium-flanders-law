@@ -49,7 +49,7 @@ Op voordracht van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering, T
 
 ### ART. 7.
 
-Op voordracht van de Samenwerkingsinitiatieven Eerstelijnsgezondheidszorg,   worden de volgende personen benoemd tot respectievelijk effectief en   plaatsvervangend lid : <BR>1° mevrouw Patricia Lepla, SEL Noord-West-Vlaanderen,   Ruddershove 4, 8000 Brugge en mevrouw Julie Descamps, SEL Zuid-West-Vlaanderen,   Stasegemsesteenweg 110, 8500 Kortrijk;<BR>2° mevrouw Nele van Meer en mevrouw   Kristel Vanden Driessche, SEL Hasselt, A. Rodenbachstraat 29, bus 1, 3500   Hasselt.<BR><BR>
+Op voordracht van de Samenwerkingsinitiatieven Eerstelijnsgezondheidszorg,   worden de volgende personen benoemd tot respectievelijk effectief en   plaatsvervangend lid : <BR>1° Mevr. Julie Descamps, SEL Zuid-West-Vlaanderen,   Stasegemsesteenweg 110, 8500 Kortrijk, en Mevr. An Nauwelaerts, SEL TOM,   Zakstraat 13/1, 2800 Mechelen; <BR>2° mevrouw Nele van Meer en mevrouw Kristel   Vanden Driessche, SEL Hasselt, A. Rodenbachstraat 29, bus 1, 3500   Hasselt.<BR><BR>
 
 ### ART. 8.
 
