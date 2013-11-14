@@ -92,13 +92,61 @@ Een vervoerder die werd belast met de openbaredienstverplichting en die   stopt 
 
 ## Afdeling 1. Samenstelling en werking
 
+### ART. 31.
+
+Tot het overlegorgaan worden minimaal de volgende actoren uitgenodigd   :<BR>1° een vertegenwoordiger van de administratie;<BR>2° een vertegenwoordiger   van het Overleg voor de Diensten Aangepast Vervoer;<BR>3° een vertegenwoordiger   van de Nationale Groepering van Ondernemingen met Taxi- en Locatievoertuigen met   Chauffeur;<BR>4° twee vertegenwoordigers van de gebruikers; <BR>5° een   vertegenwoordiger van de Vlaamse Vervoermaatschappij - De Lijn;<BR>6° een   vertegenwoordiger van de Maatschappij voor het Intercommunaal vervoer te   Brussel;<BR>7° een vertegenwoordiger van de Nationale Maatschappij der Belgische   Spoorwegen.
+
+### ART. 32.
+
+Het overlegorgaan kan alleen geldig vergaderen als minimaal de actoren,   vermeld in artikel 31, 1° tot en met 4°, aanwezig zijn. Het overleg wordt   minimaal eenmaal per jaar georganiseerd.
+
+### ART. 33.
+
+<P>De actoren die minimaal aanwezig zijn, als vermeld in artikel 32, kiezen een   voorzitter onder de leden van het overlegorgaan. De voorzitter wordt verkozen   voor een periode van twee jaar.<BR></P>  <P>De voorzitter leidt de vergaderingen van het overlegorgaan. Als de voorzitter   dat noodzakelijk acht, kan hij een vertegenwoordiging van andere actoren die   betrokken zijn bij het vervoer van personen met een handicap of een ernstig   beperkte mobiliteit, uitnodigen om deel te nemen aan het   overleg.</P>
+
+### ART. 34.
+
+De vertegenwoordiger van de administratie neemt het secretariaat van het   overlegorgaan waar. Hij bepaalt, in samenspraak met de voorzitter, het tijdstip   en de agenda van de vergaderingen.
+
 ## Afdeling 2. Taakstelling
+
+### ART. 35.
+
+Het overlegorgaan is een forum waar gecompenseerde vervoerders en   gebruikers kennis en ervaringen kunnen uitwisselen over het vervoer van personen   met een handicap of een ernstig beperkte mobiliteit. Via het overleg worden   afspraken gemaakt tussen de verschillende vervoersaanbieders voor de   optimalisatie van het multimodaal vervoer en het afstemmen van het   aanbod.
+
+### ART. 36.
+
+Het overlegorgaan bereidt de driejaarlijkse evaluatie door de Vlaamse   Regering, vermeld in artikel 13 van het decreet van 21 december 2012,   voor.
+
+### ART. 37.
+
+Jaarlijks brengt het overlegorgaan verslag uit aan de minister over zijn   werkzaamheden van het afgelopen jaar.
 
 ## Afdeling 3. Klachtenbehandeling
 
+### ART. 38.
+
+<P>Als een gebruiker klachten heeft over de gecompenseerde vervoerder, het   vervoer of de dienstverlening kan hij een verzoek tot behandeling van de klacht   indienen bij het overlegorgaan. Hij richt daarvoor een klacht aan het   secretariaat van het overlegorgaan, met een beschrijving van de feiten en een   motivering. <BR></P>  <P>Er kan alleen een klacht worden ingediend bij het overlegorgaan als de klacht   eerst werd voorgelegd aan de betrokken gecompenseerde vervoerder en door hem   zonder genoegdoening voor de gebruiker werd behandeld. Als de betrokken   gecompenseerde vervoerder de klacht niet binnen een termijn van 30 kalenderdagen   na indiening ervan heeft behandeld, wordt de klacht geacht zonder genoegdoening   voor de gebruiker te zijn behandeld.<BR></P>
+
+### ART. 39.
+
+<P>Het overlegorgaan bespreekt de klacht en geeft, als dat nodig is, formele   aanbevelingen om verdere klachten in de toekomst te voorkomen. De aanbevelingen   worden schriftelijk aan de betrokken vervoerder of vervoerders   overgemaakt.<BR></P>  <P>Het overlegorgaan brengt de gebruiker op de hoogte van de aanbevelingen die   werden gegeven naar aanleiding van zijn klacht.<BR></P>  <P>Als de voorzitter dat nuttig acht, kan hij de gebruiker uitnodigen om zijn   klacht toe te lichten op de vergadering.</P>
+
 ## HOOFDSTUK 5. Statistische gegevens
 
+### ART. 40.
+
+Naast de gegevens, vermeld in artikel 11 van het decreet van 21 december   2012, bezorgt de vervoerder jaarlijks de volgende gegevens aan de administratie   :<BR>1° het totale aantal vragen tot vervoer;<BR>2° de uitgevoerde ritten,   opgesplitst per categorie van gebruiker;<BR>3° het aantal doorverwezen ritten,   gerangschikt per doorverwezen vervoerders;<BR>4° als de vervoerder over een   dergelijk pakket beschikt, de naam van het softwarepakket dat gebruikt wordt   voor de facturatie;<BR>5° als de vervoerder hierover beschikt, de naam van de   routeplanner die gebruikt wordt voor de berekening van de gereden   kilometers;<BR>6° als de vervoerder over dergelijk systeem beschikt, de naam van   het systeem waarmee voertuigen worden getraceerd.
+
 ## HOOFDSTUK 6. Slotbepalingen
+
+### ART. 41.
+
+<P>Artikel 1 tot en met 15 treden in werking op datum van publicatie in het   Belgisch Staatsblad.<BR></P>  <P>Artikel 16 tot en met 30 treden in werking op 1 januari   2014.</P>
+
+### ART. 42.
+
+<P>De Vlaamse minister, bevoegd voor het mobiliteitsbeleid en het vervoer, is   belast met de uitvoering van dit besluit.</P>
 
 ### BIJLAGE 1.
 
