@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023375,
+  "title": "Ministerieel besluit van 2013-09-23 betreffende de onteigening ten algemenen nutte van een onroerend goed gelegen te Sint-Pietersveldstraat 3-5-7 te Wingene",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023375/VolledigDocument?datum=2013-11-17",
+  "source_sha256": "86c860e25a70f1639d7916c96e42975c712f061c54b1f2cb1cbb5683342275ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023375&param=informatie",
+  "as_of": "2013-11-17",
+  "made": "2013-09-23",
+  "gazette": "2013-11-07",
+  "numac": 2013036028,
+  "document_start": "2013-11-17",
+  "document_end": null,
+  "in_force": "2013-11-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
