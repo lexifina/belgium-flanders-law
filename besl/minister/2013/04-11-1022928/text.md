@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Het oproepingsformulier vermeld in artikel 32 van het besluit van de   Vlaamse Regering van 19 oktober 2012 houdende uitvoering van het decreet van 25   mei 2012 betreffende de preventie en bestrijding van doping in de sport, wordt   opgenomen in bijlage 1, die bij dit besluit is gevoegd.
+<P>Het oproepingsformulier, vermeld in artikel 32, en het   dopingcontroleformulier, vermeld in artikel 45 van het besluit van de Vlaamse   Regering van 19 oktober 2012 houdende uitvoering van het decreet van 25 mei 2012   betreffende de preventie en bestrijding van doping in de sport, worden opgenomen   in bijlage 1, die bij dit besluit is gevoegd."</P>
 
 ### ART. 2.
 
@@ -30,7 +30,7 @@ Het besluit van de secretaris-generaal van 25 september 2008 houdende   bepaling
 
 ### BIJLAGE 1.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/05/22_1.pdf#page=125">Oproepingsformulier</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/11/07_2.pdf#page=57">Dopingcontroleformulier</A></P>
 
 ### BIJLAGE 2.
 
