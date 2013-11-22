@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023377,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-11 houdende de toevoeging van een bijkomende salarisschaal voor het administratief en technisch personeel van de hogescholen in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023377/VolledigDocument?datum=2013-11-22",
+  "source_sha256": "148e70952b546d27706130fc16a172630c63308605b74992d5e487d7ead0056c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023377&param=informatie",
+  "as_of": "2013-11-22",
+  "made": "2013-10-11",
+  "gazette": "2013-11-12",
+  "numac": 2013036037,
+  "document_start": "2013-11-22",
+  "document_end": null,
+  "in_force": "2013-11-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-11-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
