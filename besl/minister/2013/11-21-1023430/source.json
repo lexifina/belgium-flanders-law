@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023430,
+  "title": "Ministerieel besluit van 2013-11-21 tot wijziging van het ministerieel besluit van 21 juni 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, wat betreft de toevoeging van het domein energie aan de pijler coaching",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023430/VolledigDocument?datum=2013-11-27",
+  "source_sha256": "82f73a339f0939762a4d2cda7481bb8d27d038382da63105101cf7438f495894",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023430&param=informatie",
+  "as_of": "2013-11-27",
+  "made": "2013-11-21",
+  "gazette": "2013-12-05",
+  "numac": 2013036120,
+  "document_start": "2013-11-27",
+  "document_end": null,
+  "in_force": "2013-11-27",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
