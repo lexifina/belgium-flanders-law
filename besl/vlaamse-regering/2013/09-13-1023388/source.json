@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023388,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 tot wijziging van het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid, wat betreft de invoering van een steunregeling voor de injectie van biomethaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023388/VolledigDocument?datum=2013-11-30",
+  "source_sha256": "90b0afd50de9b0ac72688483bbda048133535aef55d53d525785508b2249da21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023388&param=informatie",
+  "as_of": "2013-11-30",
+  "made": "2013-09-13",
+  "gazette": "2013-11-20",
+  "numac": 2013036070,
+  "document_start": "2013-11-30",
+  "document_end": null,
+  "in_force": "2013-11-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-11-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
