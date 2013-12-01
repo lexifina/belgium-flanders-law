@@ -2660,148 +2660,7 @@ XIII 100. [Voor volledige prestaties die verricht werden gedurende  <span class=
 
 ### ART. XIII 100bis.
 
-§ 1. Het vakantiegeld bedraagt 92 % van het brutomaandsalaris van de maand april van het vakantiejaar. Het wordt uitbetaald tijdens de maand mei van het vakantiejaar.<br>
-<br>
-§ 2. In afwijking van § 1 is het vakantiegeld voor 2003, 2004 en 2005 gelijk aan het hierna bepaald percentage:<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:158.4pt">
-			<p>Graad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:90pt">
-			<p>2003</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:97.05pt">
-			<p>2004</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.15pt">
-			<p>2005</p>
-
-			<p><em>(ing. B.V.R. 14 mei 2004, art. 7, I: 1 januari 2003)</em><strong>]</strong></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p><strong>[</strong>K3-K2A-K2</p>
-
-			<p><em>(verv. B.V.R. 3 februari 2006, art. 87, I: 1 januari 2003)</em><strong>]</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p><strong>[</strong>50 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>75 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>K1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>60 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>75 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>Ma2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>49 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>55 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>75 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>Ma1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>67 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>80 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>85 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>Mb2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>70 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>80 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>Mb1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>78 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>85 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>U2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>68 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>80 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:158.4pt">
-			<p>U1</p>
-
-			<p><em>(ing. B.V.R. 14 mei 2004, art. 7, I: 1 januari 2003)</em><strong>]</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90pt">
-			<p>82 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:97.05pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+§ 1. Het vakantiegeld bedraagt 92 % van het brutomaandsalaris van de maand   april van het vakantiejaar. Het wordt uitbetaald tijdens de maand mei van het   vakantiejaar.<BR><BR>§ 2. ...
 
 ### ART. XIII 101.
 
@@ -2809,7 +2668,7 @@ XIII 101. [Wat betreft het vakantiegeld voor jonge werknemers wordt de periode v
 
 ### ART. XIII 102.
 
-De perioden gedurende dewelke het statutaire personeelslid verlof voor   opdracht van algemeen belang heeft gekregen, wordt - in afwijking van artikel   XIII 96 - niet in aanmerking genomen voor de berekening van het   vakantiegeld.
+De perioden gedurende dewelke het statutaire personeelslid verlof voor   opdracht van algemeen belang heeft gekregen, wordt&nbsp;niet in aanmerking   genomen voor de berekening van het vakantiegeld.
 
 ### ART. XIII 103.
 
@@ -2835,11 +2694,11 @@ XIII 107. § 1. Het statutaire personeelslid ontvangt het volledige bedrag van d
 
 ### ART. XIII 108.
 
-§ 1. De eindejaarstoelage bestaat uit een forfaitair gedeelte en een veranderlijk gedeelte.<br /><br />§ 2. Het forfaitair gedeelte voor het jaar 1999 bedraagt 272,44 euro.<br /><br />Dit bedrag wordt elk jaar opnieuw aangepast door vermenigvuldiging met een coëfficiënt die wordt verkregen door een deling waarbij:<br />- het gezondheidsindexcijfer van de maand oktober van het uitbetalingsjaar het deeltal is;<br />- en het gezondheidsindexcijfer van de maand oktober van het vorige jaar de deler.<br /><br />Het quotiënt, zijnde de voormelde coëfficiënt, wordt berekend tot op vier decimalen.<br /><br />Het geïndexeerde forfaitaire bedrag wordt afgerond tot op de naasthogere eenheid. <br /><br />§ 3. Het veranderlijke gedeelte is gelijk aan 2,5 % van de jaarbezoldiging aangepast aan het verhogingspercentage van de maand oktober van het uitbetalingsjaar, zoals dit percentage gekoppeld is aan de evolutie van het gezondheidsindexcijfer overeenkomstig artikel XIII 22.<br /><br />§ 4. Wanneer het statutaire personeelslid zijn bezoldiging niet heeft ontvangen voor de maand oktober van het uitbetalingsjaar, komt voor de berekening van het veranderlijke deel van de toelage die brutojaarbezoldiging in aanmerking, die als basis zou hebben gediend voor de berekening van zijn brutobezoldiging voor deze maand, als deze brutobezoldiging verschuldigd was geweest.<br /><br />§ 5. Voor het jaar 2007 :<br />1° wordt het forfaitair bedrag zoals voorzien in § 2 verhoogd met 150,00 euro (bedrag aan uitkeringscoëfficiënt 1,4002);<br />2° wordt het veranderlijk gedeelte, zoals voorzien in § 3, verhoogd met 0,08 %.
+<P>De eindejaarstoelage bedraagt 71 % van het brutomaandsalaris van de maand   oktober van het uitbetalingsjaar.<BR><BR>In afwijking van het eerste lid   bedraagt voor het jaar 2013 de eindejaarstoelage 68 % van het brutomaandsalaris   van de maand oktober.</P>
 
 ### ART. XIII 108bis.
 
-§ 1. De eindejaarstoelage bedraagt 65 % van het brutomaandsalaris van de maand oktober van het uitbetalingsjaar.<br /><br />§2. In afwijking van §1 is de eindejaarstoelage voor 2008 en 2009 gelijk aan het hierna bepaald percentage : <br /><br /> <html xmlns:v=&quote;urn:schemas-microsoft-com:vml&quote;xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20090220-q02-art46,§2_bestanden/filelist.xml&quote;><title>Rang</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>deschrmb</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>deschrmb</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>1</o:TotalTime>  <o:Created>2009-03-27T08:45:00Z</o:Created>  <o:LastSaved>2009-03-27T08:46:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>18</o:Words>  <o:Characters>104</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>121</o:CharactersWithSpaces>  <o:Version>11.8107</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--><!--[if gte mso 9]><xml> <o:shapedefaults v:ext=&quote;edit&quote; spidmax=&quote;2050&quote;/></xml><![endif]--><!--[if gte mso 9]><xml> <o:shapelayout v:ext=&quote;edit&quote;>  <o:idmap v:ext=&quote;edit&quote; data=&quote;1&quote;/> </o:shapelayout></xml><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Rang<o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2008<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>2009<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>K3,  K2A, K2 <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>50<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>K1  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>50<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Ma2  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>55<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Ma1  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>55<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:5'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Mb2  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>55<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:6'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>Mb1  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>57<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:7'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>U2  <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>55<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:8;mso-yfti-lastrow:yes'>  <td width=121 style='width:90.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>U1,  W1 <o:p></o:p></span></p>  </td>  <td width=70 style='width:52.5pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>60<o:p></o:p></span></p>  </td>  <td width=81 style='width:60.75pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal align=center style='text-align:center'><span  style='font-size:10.0pt;mso-bidi-font-size:12.0pt'>65<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><span style='font-size:10.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html>
+<p>...</p>
 
 ### ART. XIII 109.
 
