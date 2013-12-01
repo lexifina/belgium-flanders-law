@@ -2,16 +2,16 @@
   "codex_id": 1013011,
   "title": "Besluit van de Vlaamse Regering van 2004-02-06 betreffende de samenstelling en de werking van de Erkenningscommissie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013011/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "3047d5f6ef43a2b9b861d4758bd618b64caeb198b58381d625862754de0acd75",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013011/VolledigDocument?datum=2013-12-01",
+  "source_sha256": "bfa380a4afbb48e3df1d95ede91c902a67d51cfd315d3e16fef7831b60b8da3f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013011&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2013-12-01",
   "made": "2004-02-06",
   "gazette": "2004-05-18",
   "numac": 2004035728,
   "document_start": "2003-10-01",
   "document_end": "2013-11-30",
-  "in_force": "2006-06-01",
+  "in_force": "2013-12-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-12-01; future article versions excluded; article text as the API gives it"
 }
