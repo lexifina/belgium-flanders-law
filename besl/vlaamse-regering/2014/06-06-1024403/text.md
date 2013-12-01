@@ -19,3 +19,11 @@ Artikel XI 45sexies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaams
 ### ART. 6.
 
 Artikel XI 45undecies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt:<BR>"Art.   XI 45undecies. Het ouderschapsverlof in de vorm van loopbaanonderbreking wordt   niet meegeteld in de 60 maanden voltijdse en de 60 maanden halftijdse   loopbaanonderbreking die het statutaire personeelslid maximaal kan   nemen.".<BR>
+
+### ART. 8.
+
+In Deel XIII, Titel III, Hoofdstuk XI, Afdeling 2 van hetzelfde besluit   worden de volgende wijzigingen aangebracht:<BR>1° artikel XIII 100bis § 2,   ingevoegd bij het besluit van de Vlaamse Regering van 14 mei 2004 en gewijzigd   bij het besluit van de Vlaamse Regering van 3 februari 2006, wordt   opgeheven;<BR>2° in artikel XIII 102 worden de woorden "- in afwijking van   artikel XIII 96 -" opgeheven.<BR>
+
+### ART. 9.
+
+In Deel XIII, Titel III, Hoofdstuk XI, Afdeling 3 van hetzelfde besluit   worden de volgende wijzigingen aangebracht:<BR>1° artikel XIII 108, gewijzigd   bij de besluiten van de Vlaamse Regering van 19 september 2003, 14 mei 2004 en   20 februari 2009, wordt vervangen als volgt:<BR>"Artikel XIII 108. De   eindejaarstoelage bedraagt 71 % van het brutomaandsalaris van de maand oktober   van het uitbetalingsjaar.<BR>In afwijking van het eerste lid bedraagt voor het   jaar 2013 de eindejaarstoelage 68 % van het brutomaandsalaris van de maand   oktober."<BR>2° artikel XIII 108bis, ingevoegd bij het besluit van de Vlaamse   Regering van 20 februari 2009, wordt opgeheven.<BR>
