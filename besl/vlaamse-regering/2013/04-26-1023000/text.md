@@ -190,6 +190,10 @@ De IVB wordt voor de verwerking van de persoonsgegevens, vermeld in deze   afdel
 
 <P>De inrichting bezorgt de IVB van elk geslacht volwassen rund, van elk   geslacht rund ouder dan acht maanden maar niet ouder dan twaalf maanden, en van   elk geslacht varken de gegevens, vermeld in artikel 27, 28 en 30, met vermelding   van het erkenningsnummer van de inrichting. De inrichting bezorgt die gegevens   op elektronische wijze uiterlijk twee uur voor de karkassen de inrichting   verlaten, en zeker binnen vierentwintig uur na het slachten, in het formaat dat   door de IVB wordt vastgesteld.<BR></P>  <P>De IVB legt het formaat van elk van de gegevens, vermeld in het eerste lid,   en elke wijziging van dat formaat vooraf ter goedkeuring voor aan de bevoegde   autoriteit.<BR></P>  <P>De minister kan bijkomende gegevens vaststellen die de inrichting aan de IVB   bezorgt, en kan de procedure daarvoor vastleggen.<BR></P>
 
+### ART. 38.
+
+<P>De inrichting bezorgt de IVB van elk geslacht rund dat niet ouder is dan acht   maanden de gegevens, vermeld in artikel 29, met vermelding van het   erkenningsnummer van de inrichting. De inrichting bezorgt iedere vrijdag de   gegevens die betrekking hebben op de afgelopen week, aan de IVB op elektronische   wijze en in het formaat dat door de IVB wordt vastgesteld.<BR></P>  <P>De IVB legt het formaat van de gegevens, vermeld in het eerste lid, en elke   wijziging van dat formaat vooraf ter goedkeuring voor aan de bevoegde   autoriteit.<BR></P>  <P>De minister kan bijkomende gegevens vaststellen die de inrichting aan de IVB   bezorgt, en kan de procedure daarvoor vastleggen.<BR></P>
+
 ### ART. 39.
 
 De gegevens, vermeld in artikel 37 en 38, en de originele elektronische   bestanden waarmee de inrichting de gegevens aan de IVB bezorgt, bewaart de IVB   minstens tot het einde van het vijfde jaar dat volgt op het jaar waarin het dier   is geslacht. De IVB stelt de gegevens en de originele elektronische bestanden   waarmee de inrichting de gegevens aan de IVB bezorgt, ter beschikking op het   moment van de controle en voor controle in het algemeen.<BR>
