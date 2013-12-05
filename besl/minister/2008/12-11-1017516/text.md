@@ -6,4 +6,4 @@ De Vlaamse minister van Onderwijs en Vorming,<br /><br />Gelet op het decreet va
 
 ### Enig artikel.
 
-In uitvoering van artikel 5 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken wordt de VZW Centrum Islamonderwijs Vlaanderen, Rouppeplein 16, 1000 Brussel, voor een periode van vijf jaar erkend, met ingang van 5 december 2008.<br /><br />
+...

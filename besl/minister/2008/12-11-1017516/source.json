@@ -2,16 +2,16 @@
   "codex_id": 1017516,
   "title": "Ministerieel besluit van 2008-12-11 houdende erkenning van de VZW Centrum Islamonderwijs Vlaanderen als erkende instantie van de erkende godsdiensten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017516/VolledigDocument?datum=2008-12-05",
-  "source_sha256": "0a69d13a565f0208e9433edb2961ef92d2a3ea321d2c6040eed79dd77bffd2dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017516/VolledigDocument?datum=2013-12-05",
+  "source_sha256": "6ede782f6b580512a933902cab87bf12dbb9853345d10e4c81180ece33406b1b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017516&param=informatie",
-  "as_of": "2008-12-05",
+  "as_of": "2013-12-05",
   "made": "2008-12-11",
   "gazette": "2009-01-26",
   "numac": 2009200150,
   "document_start": "2008-12-05",
   "document_end": "2013-12-04",
-  "in_force": "2008-12-05",
+  "in_force": "2013-12-05",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2008-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-12-05; future article versions excluded; article text as the API gives it"
 }
