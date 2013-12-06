@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023475,
+  "title": "Samenwerkingsakkoord van 2013-05-17 tussen de Vlaamse Gemeenschap en de Franse Gemeenschap betreffende het beheer en de werking van de \"Nationale Plantentuin van België\"",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023475/VolledigDocument?datum=2013-12-06",
+  "source_sha256": "667b75cadc44cbdb4452814927b3b3b5cd04d12bde03fcbc025173c2f2d086b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023475&param=informatie",
+  "as_of": "2013-12-06",
+  "made": "2013-05-17",
+  "gazette": "2013-12-17",
+  "numac": 0,
+  "document_start": "2013-12-06",
+  "document_end": null,
+  "in_force": "2013-12-06",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2013-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
