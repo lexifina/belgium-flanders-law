@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023408,
+  "title": "Ministerieel besluit van 2013-10-24 tot wijziging van bijlage I en II bij het besluit van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat onderzoek en tot wijziging van de bijlage bij het ministerieel besluit van 20 januari 2010 tot vaststelling van de procedures voor de rassenlijsten van landbouw- en groentegewassen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023408/VolledigDocument?datum=2013-12-08",
+  "source_sha256": "571cb28b799846513403217814714aff90e81b0d6bb69d794a99c575ffa84878",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023408&param=informatie",
+  "as_of": "2013-12-08",
+  "made": "2013-10-24",
+  "gazette": "2013-11-28",
+  "numac": 2013036090,
+  "document_start": "2013-12-08",
+  "document_end": null,
+  "in_force": "2013-12-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2013-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
