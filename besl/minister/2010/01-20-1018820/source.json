@@ -2,16 +2,16 @@
   "codex_id": 1018820,
   "title": "Ministerieel besluit van 2010-01-20 tot vaststelling van de procedures voor de rassenlijsten van landbouw- en groentegewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018820/VolledigDocument?datum=2010-03-20",
-  "source_sha256": "cf950a44d304903c7b7025615a6484817737d4d9fc7ca3ba6565b4594081e450",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018820/VolledigDocument?datum=2013-12-08",
+  "source_sha256": "107a63297e3fd004543f121d6ded3a98a9c527b88d41c2ac2d5c6e4cec446a50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018820&param=informatie",
-  "as_of": "2010-03-20",
+  "as_of": "2013-12-08",
   "made": "2010-01-20",
   "gazette": "2010-03-10",
   "numac": 2010035175,
   "document_start": "2010-03-20",
   "document_end": null,
-  "in_force": "2010-03-20",
+  "in_force": "2013-12-08",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2010-03-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-12-08; future article versions excluded; article text as the API gives it"
 }
