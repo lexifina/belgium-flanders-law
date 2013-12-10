@@ -54,7 +54,7 @@ De Vlaamse Regering stelt de administrateur-generaal van het IWT aan.<br /><br /
 
 ### ART. 11.
 
-De administrateur-generaal is belast met :<br />1° het dagelijks bestuur van het IWT en het voorzitterschap van het directiecomité;<br />2° de voorbereiding en de uitvoering van de beslissingen van de raad van bestuur;<br />3° de uitoefening van de door de raad van bestuur gedelegeerde bevoegdheden.<br /><br />
+...<BR>
 
 ## Afdeling IV [... (opgeh. decr. 20 november 2015, art. 13, I: 10 december 2015)]
 
