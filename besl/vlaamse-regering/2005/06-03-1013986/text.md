@@ -76,6 +76,10 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 § 1. Voor het beleidsdomein Diensten voor het Algemeen Regeringsbeleid wordt het Vlaams ministerie met de naam "Diensten voor het Algemeen Regeringsbeleid" opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid : <br />1° Studiedienst van de Vlaamse Regering; <br />2° Interne Audit van de Vlaamse Administratie. <br /><br />"§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Diensten voor het Algemeen Regeringsbeleid behoren, zijn : <br />1° Agentschap voor Geografische Informatie Vlaanderen;<br />2° de Rand;<br />3° Muntpunt.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Diensten voor het Algemeen Regeringsbeleid behoort, is de Sociaal-Economische Raad van Vlaanderen, onverminderd de opdrachten van de Sociaal-Economische Raad van Vlaanderen als strategische adviesraad voor andere beleidsdomeinen en beleidsvelden.
 
+### ART. 18.
+
+§ 1. Voor het beleidsdomein Bestuurszaken wordt het Vlaams Ministerie van   Bestuurszaken opgericht, dat bestaat uit het gelijknamige departement en drie   agentschappen zonder rechtspersoonlijkheid : <BR>1° Agentschap voor   Overheidspersoneel; <BR>2° Agentschap voor Facilitair Management; <BR>3°   Agentschap voor Binnenlands Bestuur. <BR><BR>§ 2. Het agentschap met   rechtspersoonlijkheid dat tot het beleidsdomein Bestuurszaken behoort, is   Jobpunt Vlaanderen.<BR>3° Agentschap Integratie en Inburgering.<BR><BR>§ 3. De   strategische adviesraad die tot het beleidsdomein Bestuurszaken behoort, is de   Vlaamse Adviesraad voor Bestuurszaken.
+
 ### ART. 19.
 
 § 1. Voor het beleidsdomein Financiën en Begroting wordt het Vlaams Ministerie van Financiën en Begroting opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid : <br />1° Vlaamse Belastingdienst; <br />2° Centrale Accounting.<br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Financiën en Begroting behoort, is het Vlaams Toekomstfonds.
