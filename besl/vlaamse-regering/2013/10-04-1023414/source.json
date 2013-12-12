@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023414,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-04 houdende indeling bij de gemeentewegen van de gewestweg N28 tussen kilometerpunt 15.907 en 17.576 op het grondgebied van de stad Halle",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023414/VolledigDocument?datum=2013-12-12",
+  "source_sha256": "278e043051ecd692e04e637de2a6fc635405896db245cf7ae8114ad4f2786eda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023414&param=informatie",
+  "as_of": "2013-12-12",
+  "made": "2013-10-04",
+  "gazette": "2013-12-02",
+  "numac": 2013206410,
+  "document_start": "2013-12-12",
+  "document_end": null,
+  "in_force": "2013-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
