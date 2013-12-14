@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023425,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-08 betreffende de uitwerking van de voorwaarden voor een bemiddelingsprocedure conform artikel 180 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023425/VolledigDocument?datum=2013-12-14",
+  "source_sha256": "99a34f9ed900f6d108ab27b5ab8bc954c02c4fcb6c97ffc3ea9798ef9d319430",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023425&param=informatie",
+  "as_of": "2013-12-14",
+  "made": "2013-11-08",
+  "gazette": "2013-12-04",
+  "numac": 2013036114,
+  "document_start": "2013-12-14",
+  "document_end": null,
+  "in_force": "2013-12-14",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2013-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
