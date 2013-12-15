@@ -6,6 +6,10 @@
 
 ## HOOFDSTUK 1 Wijzigingen van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode
 
+### ART. 1.
+
+Artikel 3, § 3, van het besluit van de Vlaamse Regering van 29 september   2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door   de Vlaamse Maatschappij voor Sociaal Wonen en de sociale   huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, opgeheven   door het besluit van de Vlaamse Regering van 11 oktober 2013, wordt opnieuw   opgenomen in de volgende lezing : <BR>« § 3. Met betrekking tot de verkoop van   sociale huurwoningen met toepassing van artikel 43 van de Vlaamse Wooncode,   wordt de kandidaat-koper beschouwd als woonbehoeftig als hij voldoet aan de   voorwaarden, vermeld in artikel 43, § 1, eerste lid, 3°, van de Vlaamse Wooncode   ».<BR>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 23 december 2011 houdende de organisatie van het toezicht, vermeld in artikel 29bis van de Vlaamse Wooncode
 
 ## HOOFDSTUK 3 Wijzigingen van het besluit van de Vlaamse Regering van 13 januari 2012 tot vaststelling van nadere regels voor de bijdragen van de sociale woonactoren en de private actoren in de financiering van de Vlaamse Maatschappij voor Sociaal Wonen
@@ -59,5 +63,9 @@ In artikel 86, derde lid, van hetzelfde besluit wordt de zinsnede "van 100   eur
 ## HOOFDSTUK 5 Wijzigingen van het Fundingbesluit van de VMSW van 21 december 2012
 
 ## HOOFDSTUK 6 Wijziging van het besluit van de Vlaamse Regering van 11 oktober 2013 tot wijziging van diverse besluiten betreffende het woonbeleid
+
+### ART. 23.
+
+In de bijlage bij het besluit van de Vlaamse Regering van 11 oktober 2013   tot wijziging van diverse besluiten betreffende het woonbeleid, wordt in het   opschrift het woord "bepalingen" vervangen door het woord   "besluiten".<BR>
 
 ## HOOFDSTUK 7 Slotbepalingen
