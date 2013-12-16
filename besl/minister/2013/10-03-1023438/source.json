@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023438,
+  "title": "Ministerieel besluit van 2013-10-03 houdende de goedkeuring van de aanvaarding door het Belgische Rode Kruis - Rode Kruis Vlaanderen van de schenking van de VZW Handboogschuttersgilde van Sint-Petrus",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023438/VolledigDocument?datum=2013-12-16",
+  "source_sha256": "e3d51d9b7b1eef5db39f0bfa3927cc96ca4b1a2e759097d05dc9af48399942b8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023438&param=informatie",
+  "as_of": "2013-12-16",
+  "made": "2013-10-03",
+  "gazette": "2013-12-06",
+  "numac": 2013206465,
+  "document_start": "2013-12-16",
+  "document_end": null,
+  "in_force": "2013-12-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
