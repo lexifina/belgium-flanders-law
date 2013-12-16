@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023433,
+  "title": "Decreet van 2013-11-08 houdende instemming met het samenwerkingsakkoord van 5 juni 2009 tussen de Vlaamse Gemeenschap en het Waalse Gewest betreffende de integratie van personen met een handicap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023433/VolledigDocument?datum=2013-12-16",
+  "source_sha256": "b579ee14c353518b25bd0c18f02ff1a8b7bd7b0643f18fb181b4c681018a8655",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023433&param=informatie",
+  "as_of": "2013-12-16",
+  "made": "2013-11-08",
+  "gazette": "2013-12-06",
+  "numac": 2013036094,
+  "document_start": "2013-12-16",
+  "document_end": null,
+  "in_force": "2013-12-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
