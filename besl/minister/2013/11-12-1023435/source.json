@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023435,
+  "title": "Ministerieel besluit van 2013-11-12 tot wijziging van artikel 3bis en 3ter van het ministerieel besluit van 14 juli 1998 betreffende de steun aan de investeringen en aan de installatie in de visserij- en de aquicultuursector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023435/VolledigDocument?datum=2013-12-16",
+  "source_sha256": "88c7d69f0a9e7dc85cc3f2cf3f6b0d2a9ae77ce955a0afbdbd043ff70a0b8c66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023435&param=informatie",
+  "as_of": "2013-12-16",
+  "made": "2013-11-12",
+  "gazette": "2013-12-06",
+  "numac": 2013036096,
+  "document_start": "2013-12-16",
+  "document_end": null,
+  "in_force": "2013-12-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
