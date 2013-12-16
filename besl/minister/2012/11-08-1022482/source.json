@@ -2,16 +2,16 @@
   "codex_id": 1022482,
   "title": "Ministerieel besluit van 2012-11-08 houdende de bepaling van de lijst van steden en gemeenten die op dit moment een integratiesubsidie ontvangen, met een simulatie van het te verwachten budget en het vooropgestelde groei- en krimppad voor de eerste helft van de beleidscyclus 2014-2019",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022482/VolledigDocument?datum=2012-12-03",
-  "source_sha256": "05745e402514015d77478cb176e8ae9c128f15e94e220397e46112526cd4ece1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022482/VolledigDocument?datum=2013-12-16",
+  "source_sha256": "b7194a8f37840f25bc6ba4382bff074d0d95e56c8841945af7294725716d1f11",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022482&param=informatie",
-  "as_of": "2012-12-03",
+  "as_of": "2013-12-16",
   "made": "2012-11-08",
   "gazette": "2012-11-23",
   "numac": 2012036181,
   "document_start": "2012-12-03",
   "document_end": "2013-12-15",
-  "in_force": "2012-12-03",
+  "in_force": "2013-12-16",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2012-12-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-12-16; future article versions excluded; article text as the API gives it"
 }
