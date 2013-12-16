@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023437,
+  "title": "Ministerieel besluit van 2013-11-04 houdende de bepaling van de lijst van steden en gemeenten die in aanmerking komen voor een lokale integratiesubsidie voor de beleidscyclus 2014-2019",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023437/VolledigDocument?datum=2013-12-16",
+  "source_sha256": "a4597841b4b588ba3879e00129e052be60fc004e547d1cb28c2d7235c4b3840e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023437&param=informatie",
+  "as_of": "2013-12-16",
+  "made": "2013-11-04",
+  "gazette": "2013-12-06",
+  "numac": 2013206530,
+  "document_start": "2013-12-16",
+  "document_end": null,
+  "in_force": "2013-12-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-12-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
