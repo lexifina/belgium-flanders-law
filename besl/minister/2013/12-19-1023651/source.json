@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023651,
+  "title": "Ministerieel besluit van 2013-12-19 houdende goedkeuring van de afrekeningen van de gewestelijke sociale correctie (GSC) voor het referentiejaar 2012",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023651/VolledigDocument?datum=2013-12-19",
+  "source_sha256": "36b29c98c330fd2ee6f77539093667272c62ac80169b4700484f532a8b6599e6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023651&param=informatie",
+  "as_of": "2013-12-19",
+  "made": "2013-12-19",
+  "gazette": "2014-01-23",
+  "numac": 2014035054,
+  "document_start": "2013-12-19",
+  "document_end": null,
+  "in_force": "2013-12-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2013-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
