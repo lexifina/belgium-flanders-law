@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023488,
+  "title": "Ministerieel besluit van 2013-12-04 betreffende de vervanging van een lid van de Sectorraad Kunsten en Erfgoed van de Raad voor Cultuur, Jeugd, Sport en Media",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023488/VolledigDocument?datum=2013-12-19",
+  "source_sha256": "5f74db5176856fc9faf2375fef9b9eff9c493d453775950f997337c59379d13a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023488&param=informatie",
+  "as_of": "2013-12-19",
+  "made": "2013-12-04",
+  "gazette": "2013-12-18",
+  "numac": 2013206880,
+  "document_start": "2013-12-19",
+  "document_end": null,
+  "in_force": "2013-12-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
