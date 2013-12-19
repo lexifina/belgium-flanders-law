@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het Waterbeleid;<br />2° nieuwe inrichtingen en waterdistributienetwerken: inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na het inwerking treden van dit besluit;<br />3° het decreet: het decreet van 24 mei 2002 betreffende water, bestemd voor menselijke aanwending;<br />4° de bevoegde entiteit Leefmilieu : de afdeling, bevoegd voor operationeel waterbeheer, van de Vlaamse Milieumaatschappij;<br />5° de bevoegde entiteit Volksgezondheid : de afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams Agentschap Zorg en Gezondheid.<br /><br />De definities van het decreet zijn van toepassing op dit besluit.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de Vlaamse minister, bevoegd voor het Leefmilieu en het   Waterbeleid;<BR>2° nieuwe inrichtingen en waterdistributienetwerken:   inrichtingen en waterdistributienetwerken die aangelegd of gewijzigd worden na   het inwerking treden van dit besluit;<BR>3° het decreet: het decreet van 24 mei   2002 betreffende water, bestemd voor menselijke aanwending;<BR>4° de bevoegde   entiteit Leefmilieu : de afdeling, bevoegd voor operationeel waterbeheer, van de   Vlaamse Milieumaatschappij;<BR>5° de bevoegde entiteit Volksgezondheid : de   afdeling, bevoegd voor het toezicht op de volksgezondheid, van het Vlaams   Agentschap Zorg en Gezondheid;<BR>6° nooddrinkwatervoorziening: de levering door   de exploitant van het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie, tijdens een geplande of ongeplande onderbreking van de   levering via het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie;<BR>7° noodwatervoorziening: de levering door de   exploitant van het openbaar waterdistributienetwerk van water, uitsluitend voor   sanitaire doeleinden, tijdens een geplande of ongeplande onderbreking van de   levering via het openbaar waterdistributienetwerk van water, bestemd voor   menselijke consumptie.<BR><BR>De definities van het decreet zijn van toepassing   op dit besluit.
 
 ### ART. 2.
 
@@ -13,6 +13,10 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: d
 ### ART. 3.
 
 Als de waterleverancier water levert dat niet geschikt is voor menselijke consumptie zoals tweedecircuitwater neemt hij afdoende voorzorgen om de menselijke consumptie ervan te beletten.
+
+### ART. 3/1.
+
+§ 1. De exploitant van het openbaar waterdistributienetwerk staat binnen   zijn distributiegebied in voor de totstandbrenging en instandhouding van een   duurzame voorziening van water, bestemd voor menselijke consumptie, als vermeld   in artikel 3, § 2, van het decreet.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk stelt, uiterlijk op 1 januari 2016, per leveringsgebied   of per andere logische eenheid in het distributiegebied een leveringsplan op dat   ten minste de volgende gegevens bevat :<BR>1° een schematisch overzicht met   technische gegevens van de inrichtingen en het openbaar waterdistributienetwerk,   zoals een overzicht van :<BR>a) de winnings- en productielocaties;<BR>b) het   transport- en distributienetwerk, inclusief verbindingen met aangrenzende   gebieden;<BR>c) de capaciteit en levering onder niet-verstoorde   omstandigheden;<BR>d) de beschikbare reservecapaciteit en   verbindingsmogelijkheden met andere gebieden voor gebruik bij   verstoringen;<BR>e) de aansluitingsgraad binnen het gebied;<BR>2° een synthese   van de aanpak om de verplichtingen voor de levering conform artikel 3, § 2, van   het decreet in te vullen, zowel in niet-verstoorde als in verstoorde   omstandigheden.<BR><BR>De exploitant van het openbaar waterdistributienetwerk   houdt het leveringsplan actueel.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk neemt alle passende maatregelen om te kunnen voorzien in   de toekomstige behoeften van water, bestemd voor menselijke consumptie, in zijn   distributiegebied. De exploitant van het openbaar waterdistributienetwerk stelt   onder meer een langetermijnvoorzieningsplan op voor een periode van twintig jaar   met daarin een planning met inbegrip van een prognose van de vereiste   investeringen ter veiligstelling van de voorziening van water, bestemd voor   menselijke consumptie, opgesplitst in winning, zuivering en distributie. Het   langetermijnvoorzieningsplan wordt om de zes jaar herzien. Het eerste   langetermijnvoorzieningsplan wordt opgesteld tegen uiterlijk 1 januari 2017. De   exploitant van het openbaar waterdistributienetwerk houdt bij de opmaak van het   langetermijnvoorzieningsplan rekening met de door de Vlaamse Milieumaatschappij   aangeleverde informatie over de behoefteprognose voor water, bestemd voor   menselijke consumptie, en over de draagkracht van de ruwwaterbronnen.<BR><BR>§   2. De exploitant van het openbaar waterdistributienetwerk zet alle passende   middelen in om de waterlevering op elk moment te verzekeren, waaronder de   organisatie van een nooddrinkwatervoorziening of een noodwatervoorziening. In   geval van een nooddrinkwatervoorziening wordt een algemene   inspanningsverbintenis aangegaan naar rato van drie liter water, bestemd voor   menselijke consumptie, per inwoner per dag.<BR><BR>De exploitant van het   openbaar waterdistributienetwerk meldt elke onderbreking in de levering via het   openbaar waterdistributienetwerk met een verwachte duur van meer dan 24 uur en   met een omvang van meer dan honderd aftakkingen aan de bevoegde entiteit   Leefmilieu en aan de bevoegde entiteit Volksgezondheid. De exploitant van het   openbaar waterdistributienetwerk houdt beide entiteiten op de hoogte van de   evolutie van de situatie, zijn onderzoeken en de genomen maatregelen.<BR><BR>De   bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid kunnen in   onderling overleg en in overleg met de exploitanten van het openbaar   waterdistributienetwerk richtlijnen voor de nooddrinkwatervoorziening en de   noodwatervoorziening opstellen.<BR><BR>§ 3. De exploitant van het openbaar   waterdistributienetwerk borgt de kwaliteit van het productie- en   distributieproces en het geleverde water, bestemd voor menselijke consumptie,   onder meer door de nodige controle, vermeld in hoofdstuk III, te verzekeren en   door de implementatie van een risico-evaluatie- en   risicobeheerstrategie.<BR><BR>Via de risico-evaluatie- en risicobeheerstrategie   wordt nagegaan of er een significant risico bestaat dat het water, bestemd voor   menselijke consumptie, dat wordt geleverd, niet voldoet aan de bepalingen,   vermeld in artikel 2. De primaire bedrijfsprocessen die in ieder geval deel   moeten uitmaken van de risico-evaluatie- en risicobeheerstrategie, zijn :<BR>1°   de winning, de opslag en het transport van oppervlaktewater, grondwater of ander   water dat gebruikt wordt voor de bereiding van water, bestemd voor menselijke   consumptie;<BR>2° de behandeling van het onttrokken water tot water, bestemd   voor menselijke consumptie, met inbegrip van het gebruik van chemicaliën en   materialen;<BR>3° de opslag en distributie van het water, bestemd voor   menselijke consumptie, tot op het punt dat het geleverd wordt aan de   klant.<BR><BR>Als er significante risico's zijn dat niet gegarandeerd kan worden   dat het geleverde water, bestemd voor menselijke consumptie, gezond en schoon is   als vermeld in artikel 2, neemt de exploitant van het openbaar   waterdistributienetwerk binnen zijn bevoegdheden de nodige herstelmaatregelen.   De herstelmaatregelen beogen de risico's weg te nemen, te beperken of te beheren   om zo de potentiële negatieve impact van de risico's op de kwaliteit van het   geleverde water, bestemd voor menselijke consumptie, en op de volksgezondheid   maximaal te voorkomen of te beperken.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk houdt de risico-evaluatie- en risicobeheerstrategie   actueel. De exploitant van het openbaar waterdistributienetwerk zorgt daarbij   voor een herziening om de zes jaar en tussentijds als daar aanleiding toe   is.<BR><BR>De exploitant van het openbaar waterdistributienetwerk bewaakt de   kwaliteit en de effectiviteit van de controles, vermeld in hoofdstuk III, en de   risico-evaluatie- en risicobeheerstrategie.<BR><BR>De bevoegde entiteit   Leefmilieu kan, in overleg met de exploitant van het openbaar   waterdistributienetwerk, nadere richtlijnen opstellen voor de risico-evaluatie-   en risicobeheerstrategie en voor de implementatie ervan.<BR><BR>§ 4. De   exploitant van het openbaar waterdistributienetwerk stelt, uiterlijk 1 jaar na   de inwerkingtreding van dit besluit, een interventieplan op waarin het gekozen   concept, de organisatie en de middelen om te voldoen aan de verplichting voor de   organisatie van een nooddrinkwatervoorziening of noodwatervoorziening conform   paragraaf 2, en de bepalingen, vermeld in artikel 14, § 1, worden   beschreven.<BR><BR>Het interventieplan is onder meer afgestemd op de   richtsnoeren, vermeld in artikel 14, § 2.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk houdt het interventieplan actueel en zorgt voor een   herziening om de zes jaar en tussentijds als daar aanleiding toe is.<BR><BR>De   exploitant van het openbaar waterdistributienetwerk houdt het interventieplan   ter inzage voor de bevoegde entiteit Leefmilieu die de vereiste afstemming op de   richtsnoeren, vermeld in artikel 14, § 2, kan nagaan en eventueel de nodige   aanpassingen kan vragen. De bevoegde entiteit Leefmilieu kan ook op elk moment   advies verstrekken over het interventieplan.
 
 ### ART. 4.
 
@@ -40,7 +44,7 @@ Nadat de waterleverancier een aanvraag ingediend heeft bij de bevoegde entiteit 
 
 ### ART. 9.
 
-...
+<P>De exploitant van het openbaar waterdistributienetwerk voert de nodige   operationele monitoring uit in de vorm van analyses of inspecties ter hoogte van   de inrichtingen en in het openbaar waterdistributienetwerk.<BR><BR>De   operationele monitoring heeft als doel op te volgen of zowel het onttrokken   water dat gebruikt wordt voor de productie van water, bestemd voor menselijke   consumptie, als het water van het zuiveringsproces en van het openbaar   waterdistributienetwerk van die aard is dat het water dat geleverd wordt aan de   verbruiker, voldoet aan de bepalingen, vermeld in artikel 2.<BR><BR>De   operationele monitoring inclusief de te meten parameters en frequenties worden   afgestemd op de risico-evaluatie- en risicobeheerstrategie, vermeld in artikel   3/1, § 3.</P>
 
 ### ART. 10.
 
@@ -48,7 +52,7 @@ Nadat de waterleverancier een aanvraag ingediend heeft bij de bevoegde entiteit 
 
 ### ART. 11.
 
-§ 1. De waterleverancier deelt uiterlijk op 1 september van elk jaar, voor akkoord of aanmerkingen, een controleprogramma voor het volgende jaar mee aan de bevoegde entiteit Leefmilieu. Het controleprogramma voor het jaar 2003 wordt uiterlijk binnen de maand na het van kracht worden van dit besluit ingediend. Dit controleprogramma voldoet minimaal aan de specificaties van bijlage II. Bij ontstentenis van weigering of opmerkingen door de bevoegde entiteit Leefmilieu binnen een maand na ontvangst wordt het controleprogramma geacht goedgekeurd te zijn. De bevoegde entiteit Leefmilieu kan, als de noodzaak zich voordoet, in overleg met de waterleverancier het controleprogramma aanpassen. De bevoegde entiteit Leefmilieu rapporteert aan de minister over het controleprogramma en zijn eventuele aanpassingen.<br /><br />§ 2. Voor de toepassing van het controleprogramma worden de publieke gebouwen ingedeeld in minstens twee categorieën. De categorie 1 bevat minstens scholen, ziekenhuizen en rusthuizen. De bemonsteringen in de publieke gebouwen worden niet meegeteld om te voldoen aan de bepalingen van bijlage II, tabel B .<br /><br />§ 3. De minister kan nadere regels bepalen met betrekking tot de inhoud van controleprogramma's.
+§ 1. De exploitant van het openbaar waterdistributienetwerk stelt een   operationeel monitoringsprogramma op waarin de operationele monitoring, vermeld   in artikel 9, wordt beschreven.<BR><BR>De exploitant van het openbaar   waterdistributienetwerk deelt uiterlijk op 1 september van elk jaar het   operationele monitoringsprogramma voor het volgende jaar mee aan de bevoegde   entiteit Leefmilieu die tot zestig dagen na ontvangst bijkomende informatie kan   opvragen en advies kan geven.<BR><BR>§ 2. De waterleverancier deelt uiterlijk op   1 september van elk jaar, voor akkoord of aanmerkingen, een controleprogramma   als vermeld in artikel 10, voor het volgende jaar mee aan de bevoegde entiteit   Leefmilieu. Dat controleprogramma voldoet minimaal aan de specificaties, vermeld   in bijlage II. Bij ontstentenis van weigering of opmerkingen door de bevoegde   entiteit Leefmilieu binnen een maand na ontvangst wordt het controleprogramma   geacht goedgekeurd te zijn. De bevoegde entiteit Leefmilieu kan, als dat   noodzakelijk is, in overleg met de waterleverancier het controleprogramma   aanpassen.<BR><BR>§ 3. Voor de toepassing van het controleprogramma worden de   publieke gebouwen ingedeeld in minstens twee categorieën. Categorie 1 bevat   minstens de gebouwen bedoeld in artikel 2, 11°, b tot en met e, van het decreet.   De bemonsteringen in de publieke gebouwen worden niet meegeteld om te voldoen   aan de bepalingen, vermeld in bijlage II, tabel B.<BR><BR>§ 4. De bevoegde   entiteit Leefmilieu kan nadere regels bepalen met betrekking tot de inhoud van   het controleprogramma.
 
 ### ART. 12.
 
@@ -67,7 +71,7 @@ De controleambtenaren kunnen op eigen initiatief of op verzoek van de minister t
 De waterleverancier neemt alle nodige herstelmaatregelen om de kwaliteit van het water weer op peil te brengen als de bescherming van de volksgezondheid dat vereist.<br>
 <br>
 § 4. De waterleverancier informeert onverwijld schriftelijk de bevoegde entiteit Leefmilieu<br>
-en de bevoegde entiteit Volksgezondheid over de vaststellingen, bedoeld in § 2 en&nbsp;§ 3, en houdt ze regelmatig op de hoogte van de evolutie van de situatie, zijn onderzoeken en de genomen maatregelen.<br>
+en de bevoegde entiteit Volksgezondheid over de vaststellingen, bedoeld in § 2 en § 3, en houdt ze regelmatig op de hoogte van de evolutie van de situatie, zijn onderzoeken en de genomen maatregelen.<br>
 <br>
 § 5. Als de waterleverancier of een controleambtenaar vaststelt dat niet aan de kwaliteitseisen wordt voldaan of dat een risico hiertoe bestaat en dit waarschijnlijk te wijten is aan het huishoudelijke leidingnet of aan het onderhoud daarvan en het niet gaat om publieke gebouwen, zorgt de waterleverancier ervoor dat:<br>
 1° maatregelen worden genomen om het niet voldoen aan de kwaliteitseisen of het risico daarop te verkleinen of weg te nemen, zoals het adviseren van eigenaars of abonnees over mogelijke herstelmaatregelen die zij kunnen nemen, en raadgevingen over de verbetering aan het huishoudelijk leidingnet.<br>
@@ -77,17 +81,19 @@ De waterleverancier kan ook adequate behandelingstechnieken toepassen om de eige
 § 6. Als de waterleverancier of een controleambtenaar in een publiek gebouw vaststelt dat het water, bestemd voor menselijke consumptie, niet voldoet aan de kwaliteitseisen, licht hij de abonnee, de bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid<br>
 in en adviseert hen over mogelijke herstelmaatregelen. De abonnee licht de eigenaar van het huishoudelijke leidingnet in. De abonnee of de eigenaar op verzoek van de abonnee neemt de nodige herstelmaatregelen zodat het water, bestemd voor menselijke consumptie, voldoet aan de kwaliteitseisen.<br>
 <br>
-De abonnee licht de verbruikers in behalve wanneer de bevoegde entiteit Leefmilieu, na advies van de bevoegde entiteit Volksgezondheid, oordeelt dat de overschrijding van de kwaliteitseisen geen gevaar oplevert voor de volksgezondheid. De bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid kunnen op eigen initiatief te allen tijde advies verstrekken aan de eigenaar of de abonnee over de te nemen herstelmaatregelen.
+De abonnee licht de verbruikers in behalve wanneer de bevoegde entiteit Leefmilieu, na advies van de bevoegde entiteit Volksgezondheid, oordeelt dat de overschrijding van de kwaliteitseisen geen gevaar oplevert voor de volksgezondheid. De bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid kunnen op eigen initiatief te allen tijde advies verstrekken aan de eigenaar of de abonnee over de te nemen herstelmaatregelen.<br>
+<br>
+§ 7. Bij situaties als vermeld in paragraaf 2 en 3, bepalen de bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid in overleg en samen met de exploitant van het openbaar waterdistributienetwerk de noodzaak om een nooddrinkwatervoorziening of een noodwatervoorziening te organiseren.
 
 ### ART. 14.
 
-§ 1. In het geval van een ernstige bedreiging voor de volksgezondheid, ongeacht of al dan niet aan de kwaliteitseisen wordt voldaan, onderbreekt de waterleverancier de levering van water, bestemd voor menselijke consumptie, beperkt hij het gebruik ervan of neemt hij andere maatregelen om de volksgezondheid te beschermen.<br /><br />De waterleverancier beslist welke maatregelen noodzakelijk zijn en houdt daarbij rekening met de risico's die de onderbreking van de levering of de inperking van het gebruik van water bestemd voor menselijke consumptie kunnen opleveren voor de volksgezondheid. Deze beslissing wordt onmiddellijk ter informatie bezorgd aan de bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid die ook te allen tijde op eigen initiatief advies kunnen verstrekken over deze maatregelen.<br /><br />De waterleverancier informeert de abonnees en de verbruikers onmiddellijk over de situatie en voorziet hen van het nodige advies. De abonnee verleent zijn medewerking aan de waterleverancier voor het informeren van de verbruikers.<br /><br />§ 2. De bevoegde entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid<br />kunnen samen richtsnoeren voor de informatieoverdracht en crisiscommunicatie opstellen om de waterleverancier bij de vervulling van de door dit artikel opgelegde verplichtingen te ondersteunen.
+§ 1. In het geval van een ernstige bedreiging voor de volksgezondheid,   ongeacht of al dan niet aan de kwaliteitseisen wordt voldaan, onderbreekt de   waterleverancier de levering van water, bestemd voor menselijke consumptie,   beperkt hij het gebruik ervan of neemt hij andere maatregelen om de   volksgezondheid te beschermen.<BR><BR>De waterleverancier beslist welke   maatregelen noodzakelijk zijn en houdt daarbij rekening met de risico's die de   onderbreking van de levering of de inperking van het gebruik van water bestemd   voor menselijke consumptie kunnen opleveren voor de volksgezondheid. Deze   beslissing wordt onmiddellijk ter informatie bezorgd aan de bevoegde entiteit   Leefmilieu en de bevoegde entiteit Volksgezondheid die ook te allen tijde op   eigen initiatief advies kunnen verstrekken over deze maatregelen.<BR><BR>De   waterleverancier informeert de abonnees en de verbruikers onmiddellijk over de   situatie en voorziet hen van het nodige advies. De abonnee verleent zijn   medewerking aan de waterleverancier voor het informeren van de   verbruikers.<BR><BR>§ 2. De bevoegde entiteit Leefmilieu en de bevoegde entiteit   Volksgezondheid<BR>kunnen samen richtsnoeren voor de informatieoverdracht en   crisiscommunicatie opstellen om de waterleverancier bij de vervulling van de   door dit artikel opgelegde verplichtingen te ondersteunen.<BR><BR>De bevoegde   entiteit Leefmilieu en de bevoegde entiteit Volksgezondheid bepalen in overleg   en samen met de exploitant van het openbaar waterdistributienetwerk de noodzaak   om een nooddrinkwatervoorziening of een noodwatervoorziening te   organiseren.
 
 ## HOOFDSTUK V INFORMATIE- EN RAPPORTAGEVERPLICHTINGEN
 
 ### ART. 15.
 
-§ 1. Elke verbruiker krijgt van de waterleverancier op eenvoudig verzoek passende en recente informatie over de kwaliteit en de levering van het water, bestemd voor menselijke consumptie, in zijn leveringsgebied. De bepalingen inzake openbaarheid van milieu-informatie zijn van toepassing.<br /><br />De minister kan, na consultatie van de exploitanten van een openbaar waterdistributienetwerk, de wijze vaststellen, waarop de waterleverancier de abonnee of de verbruiker van informatie voorziet.<br /><br />§ 2. De waterleverancier verstrekt jaarlijks vóór één april van het daaropvolgende jaar aan de bevoegde entiteit Leefmilieu de volledige resultaten van de controles die uitgevoerd werden in elk kalenderjaar overeenkomstig de bepalingen van dit besluit. Het eerste verslag heeft betrekking op het jaar 2003.<br /><br />De gegevens bevatten minstens de volgende elementen<br />1° algemeen:<br />a) de aanduiding van het leveringsgebied op een kaart, het aantal abonnees en het verdeelde volume, de productieplaats(en);<br />b) de aanduiding op een kaart van de punten waar bemonsterd werd en het aantal monsters dat op desbetreffende punt genomen werd;<br />c) het bewijs van de representativiteit van de monsters voor het leveringsgebied in kwestie met betrekking tot plaats, tijd en samenstelling van het water;<br />d) de toegestane afwijkingen;<br />2° controle:<br />a) bewakingsparameters: per bemonsteringsplaats voor de bewakingsparameters de norm (rekening houdend met toegestane afwijkingen) de minimumwaarde, de mediaanwaarde en de maximumwaarde, het aantal analyses;<br />b) auditparameters: voor elke parameter (met uitzondering van de parameters die reeds in het deel bewaking opgenomen zijn), gegroepeerd per bemonsteringsplaats en type (microbiologische, chemische en indicatorparameters): de normwaarde (rekening houdend met toegestane afwijkingen), alle gemeten waarden, de minimumwaarde, de mediaanwaarde en de maximumwaarde;<br />c) parameteroverschrijdingen en genomen maatregelen:<br />1) voor elke parameteroverschrijding: de monsterplaats, de grootte van de overschrijding en een beknopt overzicht van de mogelijke oorzaak, de genomen maatregelen en de vastgestelde evolutie gedurende het jaar of de duur van de overschrijding;<br />2) andere maatregelen die genomen of opgelegd werden.<br /><br />De minister kan in overleg met de waterleverancier de wijze van rapporteren nader bepalen.<br /><br />§ 3. De bevoegde entiteit Leefmilieu publiceert driejaarlijks, voor het einde van het kalenderjaar dat volgt op de verslagperiode, een verslag over de kwaliteit en de levering van water, bestemd voor menselijke consumptie. De verbruikers worden van het bestaan en de procedure voor het verkrijgen van het verslag op de hoogte gebracht.<br /><br />Elk verslag omvat minimaal de gegevens over alle waterleveranciers die gemiddeld meer dan 200 m3 per dag of aan meer dan 1000 personen leveren en beslaat drie kalenderjaren. Het eerste verslag heeft betrekking op de periode 2002 tot en met 2004, waarbij voor 2002 de gegevens bekomen in toepassing van het besluit van 15 maart 1989 houdende vaststelling van een technische reglementering inzake drinkwater gebruikt zullen worden.
+§ 1. Elke verbruiker krijgt van de waterleverancier op eenvoudig verzoek   passende en recente informatie over de kwaliteit en de levering van het water,   bestemd voor menselijke consumptie, in zijn leveringsgebied. De bepalingen   inzake openbaarheid van milieu-informatie zijn van toepassing.<BR><BR>De   minister kan, na consultatie van de exploitanten van een openbaar   waterdistributienetwerk, de wijze vaststellen, waarop de waterleverancier de   abonnee of de verbruiker van informatie voorziet.<BR><BR>§ 2. De   waterleverancier verstrekt jaarlijks vóór één april van het daaropvolgende jaar   aan de bevoegde entiteit Leefmilieu de volledige resultaten van de controles die   uitgevoerd werden in elk kalenderjaar overeenkomstig de bepalingen van dit   besluit. Het eerste verslag heeft betrekking op het jaar 2003.<BR><BR>De   gegevens bevatten minstens de volgende elementen<BR>1° algemeen:<BR>a) de   aanduiding van het leveringsgebied op een kaart, het aantal abonnees en het   verdeelde volume, de productieplaats(en);<BR>b) de aanduiding op een kaart van   de punten waar bemonsterd werd en het aantal monsters dat op desbetreffende punt   genomen werd;<BR>c) het bewijs van de representativiteit van de monsters voor   het leveringsgebied in kwestie met betrekking tot plaats, tijd en samenstelling   van het water;<BR>d) de toegestane afwijkingen;<BR>2° controle:<BR>a)   bewakingsparameters: per bemonsteringsplaats voor de bewakingsparameters de norm   (rekening houdend met toegestane afwijkingen) de minimumwaarde, de mediaanwaarde   en de maximumwaarde, het aantal analyses;<BR>b) auditparameters: voor elke   parameter (met uitzondering van de parameters die reeds in het deel bewaking   opgenomen zijn), gegroepeerd per bemonsteringsplaats en type (microbiologische,   chemische en indicatorparameters): de normwaarde (rekening houdend met   toegestane afwijkingen), alle gemeten waarden, de minimumwaarde, de   mediaanwaarde en de maximumwaarde;<BR>c) parameteroverschrijdingen en genomen   maatregelen:<BR>1) voor elke parameteroverschrijding: de monsterplaats, de   grootte van de overschrijding en een beknopt overzicht van de mogelijke oorzaak,   de genomen maatregelen en de vastgestelde evolutie gedurende het jaar of de duur   van de overschrijding;<BR>2) andere maatregelen die genomen of opgelegd   werden.<BR><BR>De bevoegde entiteit Leefmilieu kan in overleg met de   waterleverancier de wijze van rapporteren nader bepalen.<BR><BR>§ 3. De bevoegde   entiteit Leefmilieu publiceert driejaarlijks, voor het einde van het   kalenderjaar dat volgt op de verslagperiode, een verslag over de kwaliteit en de   levering van water, bestemd voor menselijke consumptie. De verbruikers worden   van het bestaan en de procedure voor het verkrijgen van het verslag op de hoogte   gebracht.<BR><BR>Elk verslag omvat minimaal de gegevens over alle   waterleveranciers die gemiddeld meer dan 200 m3 per dag of aan meer dan 1000   personen leveren en beslaat drie kalenderjaren. Het eerste verslag heeft   betrekking op de periode 2002 tot en met 2004, waarbij voor 2002 de gegevens   bekomen in toepassing van het besluit van 15 maart 1989 houdende vaststelling   van een technische reglementering inzake drinkwater gebruikt zullen   worden.<BR><BR>§ 4. De exploitant van het openbaar waterdistributienetwerk houdt   de resultaten van de operationele monitoring ter inzage van de bevoegde entiteit   Leefmilieu en verstrekt jaarlijks vóór 1 april van het daaropvolgende jaar aan   de bevoegde entiteit Leefmilieu de resultaten van :<BR>1° de analyses van het   onttrokken water dat gebruikt wordt voor de bereiding van water, bestemd voor   menselijke consumptie;<BR>2° de analyses van het water, bestemd voor menselijke   consumptie, bij de ingang in het openbaar waterdistributienetwerk;<BR>3° de   analyses van het water, bestemd voor menselijke consumptie, in het openbaar   waterdistributienetwerk.<BR><BR>De bevoegde entiteit Leefmilieu kan in overleg   met de waterleverancier de wijze van rapporteren nader bepalen.<BR><BR>§ 5. De   exploitant van het openbaar waterdistributienetwerk houdt minstens de volgende   informatie over de implementatie van de risico-evaluatie- en   risicobeheerstrategie, vermeld in artikel 3/1, ter inzage van de bevoegde   entiteit Leefmilieu:<BR>1° een beschrijving van de methodologie die gebruikt   wordt voor de risico-evaluatie- en risicobeheerstrategie;<BR>2° een stand van   zaken met betrekking tot de implementatie ervan binnen zijn   distributiegebied;<BR>3° als de risico-evaluatie of de herziening ervan aangeeft   dat er geen significante risico's op een negatieve impact op de kwaliteit van   het geleverde water, bestemd voor menselijke consumptie, en op de   volksgezondheid zijn, een verklaring die dat bevestigt;<BR>4° als   herstelmaatregelen genomen of gepland zijn om een risico op een negatieve impact   op de kwaliteit van het geleverde water, bestemd voor menselijke consumptie, en   op de volksgezondheid weg te nemen :<BR>a) een beschrijving van de genomen   herstelmaatregelen;<BR>b) bewijsstukken die aantonen dat het risico is   weggenomen;<BR>c) een beschrijving van de vastgelegde herstelmaatregelen met   tijdpad voor de uitvoering en de wijze van opvolging van de effectiviteit;<BR>5°   als de risico-evaluatie aangeeft dat er na het nemen van herstelmaatregelen nog   een significant risico op een negatieve impact op de kwaliteit van het geleverde   water, bestemd voor menselijke consumptie, en op de volksgezondheid blijft   bestaan :<BR>a) de beschrijving van de significante risico's;<BR>b) de   herstelmaatregelen die de exploitant van het openbaar waterdistributienetwerk al   heeft genomen;<BR>c) de herstelmaatregelen die volgens de exploitant van het   openbaar waterdistributienetwerk bijkomend door hem moeten worden genomen,   inclusief een tijdpad voor de uitvoering ervan;<BR>6° de maatregelen die   bijkomend kunnen worden genomen door andere partijen.<BR><BR>De bevoegde   entiteit Leefmilieu kan op elk moment inhoudelijk advies verstrekken en   aanbevelingen geven over de implementatie van de risico-evaluatie- en   risicobeheerstrategie.<BR><BR>§ 6. De exploitant van het openbaar   waterdistributienetwerk houdt het leveringsplan en het   langetermijnvoorzieningsplan, vermeld in artikel 3/1, § 1, ter inzage van de   bevoegde entiteit Leefmilieu.<BR><BR>De bevoegde entiteit Leefmilieu kan op elk   moment het leveringsplan en het langetermijnvoorzieningsplan opvragen en   doorlichten om:<BR>1° na te gaan of de plannen de minimale inhoud, vermeld in   artikel 3/1, § 1, bevatten;<BR>2° inhoudelijk advies te verstrekken.<BR><BR>De   bevoegde entiteit Leefmilieu en de exploitant van het openbaar   waterdistributienetwerk bepalen onderling de wijze waarop de gegevens uit het   leveringsplan of het langetermijnvoorzieningsplan worden uitgewisseld en maken   afspraken over de verdere verspreiding ervan.
 
 ## [HOOFDSTUK VI AANSLUITRECHT (verv. BVR 5 februari 2016, art. 14, I: 1 januari 2016)]
 
@@ -1179,165 +1185,169 @@ De volgende parameters moeten worden bewaakt :<br>
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:311.4pt">
-			<p>Parameter<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:311.4pt">
+			<p>Parameter</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Kleur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Troebelingsgraad</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Geur</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Smaak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Geleidingsvermogen voor electriciteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Waterstofionenconcentratie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Ammonium</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Nitraten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Nitrieten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Escherichia coli</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Enterokokkek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Colibacteriën</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Telling bij 22° C</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Aluminium</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen 1 en 5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>IJzer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen 1 en 5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Clostridium perfringens (met inbegrip van sporen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen 2 en 5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Vrije chloorresten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen 3 en 5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:311.4pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">
 			<p>Andere pertinente parameters</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:149.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">
 			<p>Opmerkingen 4</p>
 			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:311.4pt">Lood</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:149.2pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Opmerking 1 : alleen nodig indien als vlokmiddel gebruikt.<br>
+<p><br>
+<br>
+Opmerking 1 : alleen nodig indien als vlokmiddel gebruikt.<br>
 Opmerking 2 : alleen nodig als het water afkomstig is van of beïnvloed wordt door oppervlaktewater.<br>
 Opmerking 3 : alleen nodig als een behandeling met chloorgas of hypochloriet wordt toegepast.<br>
 Opmerking 4 : het controleprogramma, dat aangepast is aan een leveringsgebied, kan aanvullende parameters bevatten om o.a. de efficiëntie van de drinkwaterbehandeling te bewaken bij enkele of alle bewakingsanalyses.<br>
@@ -1365,180 +1375,180 @@ De resultaten worden meegedeeld aan de bevoegde entiteit Leefmilieu en de bevoeg
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
 			<p>Dagelijks binnen een leveringsgebied gedistribueerde of geproduceerde hoeveelheid water (opmerking 1) m<sup>3</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:166.9pt">
 			<p>Bewaking: aantal monsternemingen per jaar (opmerkingen 2 en 3)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:140.2pt">
 			<p>Audit: aantal monsternemingen per jaar (opmerkingen 2 en3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>≤ 00 (opmerking 4)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 100 en ≤ 1000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 1000 en ≤ 3300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>22</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 3300 en ≤ 6600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>33</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 6600 en ≤ 9900</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>44</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>4</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 9900 en ≤ 20 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>67</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 20 000 en ≤ 30 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>102</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>6</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 30 000 en ≤ 40 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>125</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>7</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 40 000 en ≤ 50 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>160</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>8</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 50 000 en ≤ 60 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>195</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>9</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 60 000 en ≤ 70 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>218</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 70 000 en ≤ 80 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>253</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>11</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 80 000 en ≤ 90 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>276</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>12</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 90 000 en ≤ 100 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>311</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>13</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 100 000</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:166.9pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:166.9pt">
 			<p>4</p>
 
 			<p>+ 75 voor elke 25 000 m<sup>3</sup>/dag en fractie daarvan van de totale hoeveelheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:140.2pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:140.2pt">
 			<p>10</p>
 
 			<p>+ 1 voor elke 25 000 m<sup>3</sup>/dag en fractie daarvan van de totale hoeveelheid</p>
@@ -1549,9 +1559,9 @@ De resultaten worden meegedeeld aan de bevoegde entiteit Leefmilieu en de bevoeg
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
-
-<p>Opmerking 1 : de hoeveelheden zijn gemiddelden die berekend werden over een kalenderjaar. De waterleverancier mag zich bij het vaststellen van de minimumfrequentie baseren op het aantal inwoners in een leveringsgebied in plaats van op de hoeveelheid water, uitgaande van een waterverbruik van 200 l/dag/hoofd van de bevolking. Het controleprogramma wordt vastgesteld op basis van de meest recente beschikbare gegevens.<br>
+<p><br>
+<br>
+Opmerking 1 : de hoeveelheden zijn gemiddelden die berekend werden over een kalenderjaar. De waterleverancier mag zich bij het vaststellen van de minimumfrequentie baseren op het aantal inwoners in een leveringsgebied in plaats van op de hoeveelheid water, uitgaande van een waterverbruik van 200 l/dag/hoofd van de bevolking. Het controleprogramma wordt vastgesteld op basis van de meest recente beschikbare gegevens.<br>
 Opmerking 2 : overeenkomstig het controleprogramma, zoals bepaald in artikel 11, § 1, mag de waterleverancier voor de verschillende parameters in bijlage I het in de tabel vermelde aantal monsters verlagen als :<br>
 a. de waarden van de resultaten van de in een periode van ten minste twee opeenvolgende jaren genomen monsters constant zijn en significant beter dan de in bijlage I genoemde grenswaarden, en<br>
 b. het aannemelijk is dat geen enkele factor aanwezig is waardoor de kwaliteit van het water achteruit zou kunnen gaan.<br>
@@ -1565,119 +1575,83 @@ Tabel C : minimumfrequentie van monsterneming en analyse van water, bestemd voor
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
 			<p>Dagelijks in flessen of verpakkingen geproduceerde hoeveelheid water in m<sup>3 </sup>(opmerking 1)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
 			<p>Bewaking: aantal monsternemingen per jaar</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
 			<p>Audit: aantal monsternemingen per jaar</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>≤ 10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 10 en ≤ 60</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.5pt">
 			<p>&gt; 60</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>1 voor elke 5 m<sup>3</sup> en fractie daarvan van de totale hoeveelheid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:153.55pt">
 			<p>1 voor elke 100 m<sup>3</sup> en fractie daarvan van de totale hoeveelheid</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>Opmerking 1: de hoeveelheden zijn gemiddelden die berekend werden over een kalenderjaar</p>
+<p>Opmerking1: de hoeveelheden zijn gemiddelden die berekend werden over een kalenderjaar</p>
 
 <p>&nbsp;</p>
 
-<p>Tabel D: minimumfrequentie van monsterneming en analyse van water bestemd voor menselijke consumptie dat geleverd wordt in publieke gebouwen</p>
+<p>TabelD: minimumfrequentie van monsterneming en analyse van water bestemd voormenselijke consumptie dat geleverd wordt in publieke gebouwen</p>
 
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.5pt">
-			<p>Publiek gebouw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Bewaking (opmerking 1 en 2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:153.55pt">
-			<p>Audit (opmerking 1 en 2)</p>
-			</td>
+			<td>Binnen een leveringsgebied aanwezige publieke gebouwen</td>
+			<td>Bewaking (Opmerking 1)</td>
+			<td>Audit (Opmerking 1)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Categorie 1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Driejaarlijks</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Zesjaarlijks</p>
-			</td>
+			<td>Categorie I</td>
+			<td>Driejaarlijks</td>
+			<td>20% van de frequentie uit tabel B</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Andere categorieën</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Opmerking 3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>Opmerking 3</p>
-			</td>
+			<td>Andere categorieën</td>
+			<td>20% van de frequentie uit tabel B</td>
+			<td>20% van de frequentie uit tabel B</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>Opmerking 1 : overeenkomstig het controleprogramma zoals bepaald in artikel 11, § 1, tweede lid, mag de waterleverancier voor de verschillende parameters in bijlage I het in de tabel vermelde aantal monsters verlagen als :<br>
-a. de waarden van de resultaten van twee opeenvolgende controles constant zijn en significant beter dan de in bijlage I genoemde grenswaarden, en;<br>
-b. het aannemelijk is dat geen enkele factor aanwezig is waardoor de kwaliteit van het water achteruit zou kunnen gaan.<br>
-De laagste frequentie mag niet minder zijn dan 50 % van het in de tabel vermelde aantal monsters.<br>
 <br>
-Opmerking 2 : voor zover mogelijk moet het aantal monsters gelijk over plaats en tijd worden verdeeld.<br>
-<br>
-Opmerking 3 : de minimumfrequentie van monsterneming en analyse van water bestemd voor menselijke consumptie dat geleverd wordt in andere publieke gebouwen dan in categorie 1 wordt opgemaakt door de waterleverancier volgens de bepalingen in artikel 11, § 2.<br>
-&nbsp;</p>
-
-<p>&nbsp;</p>
+Opmerking 1 : het aantal uit te voeren analyses wordt altijd naar boven afgerond.<br>
+<!--inhoud en informatie tabs --><br>
+<!-- #ContentPane --><br>
+<!-- #middle-inner-left --><!-- #middle-inner-right --><br>
+<!-- #middle --><!-- #right --><!-- #content -->
 
 ### BIJLAGE III.
 
