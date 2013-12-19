@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023495,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-08 tot wijziging van artikel 22 van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023495/VolledigDocument?datum=2013-12-19",
+  "source_sha256": "914254360876c535183270da1d536d228b79676f36b0f9781494d847771a7fd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023495&param=informatie",
+  "as_of": "2013-12-19",
+  "made": "2013-11-08",
+  "gazette": "2013-12-19",
+  "numac": 2013206865,
+  "document_start": "2013-12-19",
+  "document_end": null,
+  "in_force": "2013-12-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
