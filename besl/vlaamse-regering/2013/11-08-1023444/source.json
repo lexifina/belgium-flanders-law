@@ -2,16 +2,16 @@
   "codex_id": 1023444,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 tot wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke- assistentiebudget aan personen met een handicap, wat betreft het programmatiecijfer, rechtzetting materiële vergissing en overeenstemming met VIA4-akkoord",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023444/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "9da5b3c0754b46c719882ba482968c8d5329e7be67caf4a913f18eed5ad18582",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023444/VolledigDocument?datum=2013-12-19",
+  "source_sha256": "af828959f6f98134b55b51c6337fd10cfb9265fde228ed5376a78ccb278e3ffb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023444&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2013-12-19",
   "made": "2013-11-08",
   "gazette": "2013-12-09",
   "numac": 2013036093,
   "document_start": "2013-12-19",
   "document_end": null,
-  "in_force": "2013-10-01",
-  "article_versions": 5,
-  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-12-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2013-12-19; future article versions excluded; article text as the API gives it"
 }

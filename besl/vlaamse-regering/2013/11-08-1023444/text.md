@@ -19,3 +19,11 @@ In artikel 10 van hetzelfde besluit, het laatst gewijzigd bij het besluit   van 
 ### ART. 4.
 
 Aan artikel 12, eerste lid, 1°, van hetzelfde besluit, vervangen bij het   besluit van de Vlaamse Regering van 19 juli 2002, wordt de volgende zinsnede   toegevoegd: <BR>"hierin inbegrepen de bepalingen over het minimumloon en   verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01.".   <BR>
+
+### ART. 5.
+
+<P>Artikel 1 en 3, 2°, hebben uitwerking met ingang van 1 mei 2013. <BR></P>  <P>Artikel 2, 3, 1°, en artikel 4 hebben uitwerking met ingang van 1 oktober   2013. <BR></P>
+
+### ART. 6.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de uitvoering van dit besluit. <BR>
