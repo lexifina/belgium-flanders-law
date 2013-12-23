@@ -61,7 +61,7 @@ c) elke andere door de minister toegestane betekeningswijze waarbij de datum van
 <br>
 In afwijking van het eerste lid, 12°, worden de inkomsten van ongehuwde of niet wettelijk samenwonende kinderen die vanaf hun meerderjarigheid zonder onderbreking deel uitmaken van het gezin en die minder dan 25 jaar oud zijn op de referentiedatum, en de inkomsten van de familieleden van de kandidaat-koper van de eerste en de tweede graad die als ernstig gehandicapt erkend zijn of die ten minste 65 jaar oud zijn, niet meegerekend. De inkomsten van de inwonende ascendenten van de kandidaat-koper worden slechts voor de helft meegerekend.<br>
 <br>
-Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als vermeld in artikel 1, 22°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
+Om als persoon ten laste als vermeld in het eerste lid, 11°, c, te worden beschouwd, gelden dezelfde voorwaarden als vermeld in artikel 1, eerste lid, 22°, van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode.<br>
 <br>
 Als een persoon beantwoordt aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, a) of b), en aan de definitie van persoon ten laste als gedefinieerd in het eerste lid, 11°, c), telt die persoon voor twee personen ten laste.<br>
 &nbsp;
