@@ -88,21 +88,19 @@ De minister kan in bijzondere gevallen en op gemotiveerd verzoek, afwijkingen to
 
 ### ART. 18.
 
-§ 1. De ADL-woningen worden enkel verhuurd aan gehandicapte personen (en hun gezin) met wie een dienst voor zelfstandig wonen voor personen met een fysieke handicap zoals bedoeld in het besluit van 31 juli 1990, een dienstverleningsovereenkomst heeft afgesloten zoals bepaald in artikel 11 van voormeld besluit.<br>
+<p>§ 1. Op de verhuring van een ADL-woning is het sociaal huurbesluit van toepassing met de volgende uitzonderingen :<br>
+1° de ADL-woning wordt alleen verhuurd aan kandidaat-huurders met wie een dienstverleningsovereenkomst als vermeld in artikel 6, § 1, 4°, van het besluit van 31 juli 1990, is gesloten en hun gezinsleden;<br>
+2° bij de toewijzing van een sociale huurwoning wordt rekening gehouden met de bepalingen, vermeld in titel II, hoofdstuk VI, afdeling I, van het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap;<br>
+3° kandidaat-huurders kunnen worden ingeschreven in een apart inschrijvingsregister op het ogenblik dat ze beschikken over een attest van tenlasteneming en nadat de dienst voor zelfstandig wonen, vermeld in artikel 2, 3°, van het besluit van 31 juli 1990, het aantal benodigde assistentie-uren heeft vastgesteld;<br>
+4° de sociale huisvestingsmaatschappij kan een afwijking op de inkomensgrenzen toestaan als kandidaat-huurders hiervoor een gemotiveerd verzoek indienen.<br>
 <br>
-De personen, vermeld in het eerste lid, moeten bij de inschrijving voor en de toelating tot een ADL-woning beantwoorden aan de inkomens- en eigendomsvoorwaarden, vermeld in het sociaal huurbesluit. Bij de toewijzing wordt rekening gehouden met de bepalingen van titel II, hoofdstuk VI, afdeling I, van het besluit van de Vlaamse Regering van 17 maart 2006 betreffende de regie van de zorg en bijstand tot sociale integratie van personen met een handicap en betreffende de erkenning en subsidiëring van een Vlaams Platform van verenigingen van personen met een handicap.<br>
+Het aantal benodigde assistentie-uren, vermeld in het eerste lid, 3°, wordt geactualiseerd bij de toewijzing van een ADL-woning. Bij de toewijzing wordt er altijd naar gestreefd dat het maximale aantal assistentie-uren voor een ADL-cluster niet overschreden wordt.<br>
 <br>
-Wel kunnen de kandidaat-huurders eveneens worden ingeschreven in een apart register op het ogenblik dat ze beschikken over een attest van tenlasteneming en nadat de dienst voor zelfstandig wonen het aantal benodigde assistentie-uren heeft vastgesteld.<br>
-<br>
-Dit aantal benodigde assistentie-uren moet geactualiseerd worden bij de toewijzing. Bij de toewijzing moet er steeds naar gestreefd worden dat het maximaal aantal assistentie-uren voor een ADL-cluster niet overschreden wordt.<br>
-<br>
-§ 2. De kandidaat-huurder kan een gemotiveerd verzoek tot afwijking op de inkomensgrenzen indienen bij de sociale huisvestingsmaatschappij. Die afwijking kan worden toegestaan overeenkomstig de procedure, vastgesteld in het sociaal huurbesluit. Bij het einde van de dienstverleningsovereenkomst verlaten de gehandicapte en de overige gezinsleden de woning.<br>
-<br>
-§ 3. Bij de opzegging van de dienstverleningsovereenkomst is de sociale huisvestingsmaatschappij, in afwijking van de bepalingen van het sociaal huurbesluit, verplicht de huur van de ADL-woning op te zeggen overeenkomstig de voorwaarden vastgesteld in de samenwerkingsovereenkomst, met dien verstande dat een minimumtermijn van zes maanden in acht moet worden genomen.
+§ 2. Bij het einde of de opzeggingvan de dienstverleningsovereenkomst is de huurder verplicht om de ADL-woning te verlaten, tenzij de verhuurder een afwijking toestaat, en om in te gaan op het aanbod van een sociale huurwoning die beantwoordt aan het type, de ligging en de maximale huurprijs die hij met toepassing van artikel 10 van het sociaal huurbesluit heeft aangegeven. Een ongegronde weigering van een aanbod wordt beschouwd als een ernstige tekortkoming op het vlak van de huurdersverplichtingen, die de opzegging van de huurovereenkomst tot gevolg heeft.</p>
 
 ### ART. 19.
 
-De ADL-woningen worden verhuurd overeenkomstig het sociaal   huurbesluit.<BR><BR>De jaarlijkse basishuurprijs van de ADL-centrale wordt   vastgesteld op minimaal 5,5 % van de geactualiseerde kostprijs. Die   basishuurprijs wordt verminderd met een bedrag dat overeenstemt met de   theoretische annuïteit die de sociale huisvestingsmaatschappij zou moeten dragen   op een leningskrediet ten bedrage van de subsidies, vermeld in artikel 21, § 1,   tweede lid, 3°.
+De jaarlijkse basishuurprijs van de ADL-centrale wordt vastgesteld op   minimaal 5,5 % van de geactualiseerde kostprijs. Die basishuurprijs wordt   verminderd met een bedrag dat overeenstemt met de theoretische annuïteit die de   sociale huisvestingsmaatschappij zou moeten dragen op een leningskrediet ten   bedrage van de subsidies, vermeld in artikel 21, § 1, tweede lid,   3°.
 
 ## HOOFDSTUK IV [... (opgeh. BVR 20 juli 2018, art. 4, I: 24 september 2018)]
 
