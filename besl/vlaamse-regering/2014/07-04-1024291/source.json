@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024291,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-04 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 19 juni 2009 houdende de voorwaarden tot toekenning van de subsidies en houdende de wijze van selectie, de duur en de evaluatie van kortdurende en langdurige time-outprogramma's",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024291/VolledigDocument?datum=2013-12-26",
+  "source_sha256": "a92a5a8b12763e36de58c1ea08448b0a447c47e4ff8ba5ccc7e7153beac6d458",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024291&param=informatie",
+  "as_of": "2013-12-26",
+  "made": "2014-07-04",
+  "gazette": "2014-07-09",
+  "numac": 2014035783,
+  "document_start": "2013-12-26",
+  "document_end": null,
+  "in_force": "2013-12-26",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2013-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
