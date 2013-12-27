@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023474,
+  "title": "Decreet van 2013-12-06 houdende instemming met het samenwerkingsakkoord van 17 mei 2013 tussen de Vlaamse Gemeenschap en de Franse Gemeenschap betreffende het beheer en de werking van de \"Nationale Plantentuin van België\"",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023474/VolledigDocument?datum=2013-12-27",
+  "source_sha256": "c7a398a31ad9a42d1273b8acce8e461b5c9a63d337b69fa4f4e0ab37332952f2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023474&param=informatie",
+  "as_of": "2013-12-27",
+  "made": "2013-12-06",
+  "gazette": "2013-12-17",
+  "numac": 2013036149,
+  "document_start": "2013-12-27",
+  "document_end": null,
+  "in_force": "2013-12-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2013-12-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
