@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023476,
+  "title": "Decreet van 2013-11-22 tot bekrachtiging van het besluit van de Vlaamse Regering van 21 juni 2013 tot wijziging van het besluit van de Vlaamse Regering van 17 oktober 2003 tot vaststelling van de bij decreet te bekrachtigen decretale specifieke eindtermen voor het algemeen secundair onderwijs, wat betreft de pool sportwetenschappen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023476/VolledigDocument?datum=2013-12-28",
+  "source_sha256": "0d072204bcb7dc9738d87d36afb82fe052f9e98f7cfa0451dde09d6f23994e61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023476&param=informatie",
+  "as_of": "2013-12-28",
+  "made": "2013-11-22",
+  "gazette": "2013-12-18",
+  "numac": 2013036140,
+  "document_start": "2013-12-28",
+  "document_end": null,
+  "in_force": "2013-12-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
