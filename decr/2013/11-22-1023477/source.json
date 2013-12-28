@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023477,
+  "title": "Decreet van 2013-11-22 houdende instemming met de wijzigingen aan het Verdrag inzake de uitbanning van alle vormen van rassendiscriminatie, opgemaakt te New York op 7 maart 1966, het Verdrag inzake de uitbanning van alle vormen van discriminatie van vrouwen, opgemaakt te New York op 18 december 1979 en het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing, opgemaakt te New York op 10 december 1984",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023477/VolledigDocument?datum=2013-12-28",
+  "source_sha256": "328fbdc037cce65c93580df0177477f29087c739ec7559feacb114a27cd1ef78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023477&param=informatie",
+  "as_of": "2013-12-28",
+  "made": "2013-11-22",
+  "gazette": "2013-12-18",
+  "numac": 2013206827,
+  "document_start": "2013-12-28",
+  "document_end": null,
+  "in_force": "2013-12-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
