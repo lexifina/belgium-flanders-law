@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023487,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-22 houdende de voorlopige vaststelling van de rooilijnaanpassing N12 Turnhoutsebaan in Deurne, Antwerpen tussen hoek Hallershofstraat en Turnhoutsebaan huisnummer 31",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023487/VolledigDocument?datum=2013-12-28",
+  "source_sha256": "745bc68cdac907b1e69788f4c9f13b7a962515df3f538d85a589e3aef9f340b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023487&param=informatie",
+  "as_of": "2013-12-28",
+  "made": "2013-11-22",
+  "gazette": "2013-12-18",
+  "numac": 2013206866,
+  "document_start": "2013-12-28",
+  "document_end": null,
+  "in_force": "2013-12-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2013-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
