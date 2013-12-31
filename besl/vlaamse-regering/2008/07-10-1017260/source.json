@@ -2,16 +2,16 @@
   "codex_id": 1017260,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 betreffende werkervaring",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017260/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "8719ce9bb94f230fd2c70bf213a5f7f373ea78a3ae35c41a8261cd62f2159ccd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017260/VolledigDocument?datum=2013-12-31",
+  "source_sha256": "0e117e51f26b07b57c6b9965bcf8a9ca4147ab925c7b27dd7ac6aa230caba641",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017260&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2013-12-31",
   "made": "2008-07-10",
   "gazette": "2008-10-31",
   "numac": 2008036282,
   "document_start": "2009-01-01",
   "document_end": "2016-07-01",
-  "in_force": "2013-01-01",
+  "in_force": "2013-12-31",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2013-12-31; future article versions excluded; article text as the API gives it"
 }

@@ -110,7 +110,7 @@ De beslissing tot goedkeuring van het werkervaringsproject geldt voor een period
 
 ### ART. 22/1.
 
-De minister kan beslissen om reeds goedgekeurde werkervaringsprojecten te verlengen met één jaar, zonder dat de promotor hierbij een nieuwe aanvraag overeenkomstig artikel 19 moet doen.
+De minister kan beslissen om reeds goedgekeurde werkervaringsprojecten te   verlengen met één jaar, zonder dat de promotor hierbij een nieuwe aanvraag   overeenkomstig artikel 19 moet doen.<BR><BR>De minister kan na de verlenging,   vermeld in het eerste lid, beslissen om reeds goedgekeurde   werkervaringsprojecten bijkomend te verlengen met één jaar, zonder dat de   promotor hierbij een nieuwe aanvraag overeenkomstig artikel 19 moet   doen.<BR><BR>In uitzonderlijke omstandigheden kan de minister na de verlenging,   vermeld in het tweede lid, beslissen om reeds goedgekeurde   werkervaringsprojecten nogmaals te verlengen met één jaar, zonder dat de   promotor hierbij een nieuwe aanvraag overeenkomstig artikel 19 moet doen.
 
 ### ART. 23.
 
