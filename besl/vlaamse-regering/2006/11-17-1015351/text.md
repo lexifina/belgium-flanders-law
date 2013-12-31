@@ -60,13 +60,21 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en de daa
 
 Het bedrag van de werkingssubsidies bedraagt 1900 euro per jaar per persoon met een handicap.<br /><br />Het bedrag, vermeld in het eerste lid, is gebonden aan het referte-indexcijfer (basis 2004 = 100) dat van kracht is bij de inwerkingtreding van dit besluit.<br /><br />Het wordt jaarlijks op 1 januari aangepast, rekening houdende met het indexcijfer der consumptieprijzen vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de Wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index genoemd, volgens de formule :<br />(Basisbedrag x G-index december 200../G-index maand vóór inwerkingtreding <br /><br />
 
+### ART. 12/1.
+
+Als de exploiterende voorziening van de erkende dienst, ook een erkende   dienst Inclusieve Ondersteuning, met toepassing van het besluit van de Vlaamse   Regering van 21 mei 2010 betreffende de vergunning, erkenning en subsidiëring   van een pilootproject diensten Inclusieve Ondersteuning door het Vlaams   Agentschap voor Personen met een Handicap of een erkende dienst voor beschermd   wonen, met toepassing van het besluit van de Vlaamse Regering van 18 december   1998 betreffende de erkenning en subsidiëring van diensten voor beschermd wonen   voor personen met een handicap, exploiteert, worden de personeelspunten en de   werkingssubsidies van die diensten samengeteld. <BR><BR>Vijf procent van de   personeelspunten kan worden omgezet in een bedrag per punt. Dat bedrag kan onder   meer worden aangewend voor de vergoeding van vrijwilligers die een structureel   engagement opnemen in de ondersteuning van personen met een handicap in   begeleiding. De vergoedingen kunnen worden toegekend conform artikel 10 van de   wet van 3 juli 2005 betreffende de rechten van vrijwilligers. Het bedrag kan   niet worden aangewend om eigen personeel aan te werven.<BR><BR>Het agentschap   bepaalt jaarlijks het bedrag per punt, vermeld in het tweede lid, door de totale   gesubsidieerde personeelskosten van de voorzieningen te delen door het totale   aantal gesubsidieerde personeelspunten.
+
 ### ART. 13.
 
-De personeelssubsidies en werkingssubsidies worden per kwartaal betaald voor een bedrag van 24 procent van het bedrag op jaarbasis, dat wordt geraamd op basis van de gekende personeels- en cliëntgegevens.<br /><br />Het saldo van de personeelssubsidies en werkingssubsidies wordt verrekend in het eerste kwartaal van het kalenderjaar dat volgt op het kalenderjaar waarop de subsidies betrekking hebben na goedkeuring van het financieel verslag.<br /><br />Het agentschap bepaalt de inhoud en de vorm van het financieel verslag.<br /><br />
+De personeelssubsidies en werkingssubsidies worden per&nbsp;maand betaald   voor een bedrag van&nbsp;8 procent van het bedrag op jaarbasis, dat wordt   geraamd op basis van de gekende personeels- en cliëntgegevens.<BR><BR>Het saldo   van de personeelssubsidies en werkingssubsidies wordt verrekend in het eerste   kwartaal van het kalenderjaar dat volgt op het kalenderjaar waarop de subsidies   betrekking hebben na goedkeuring van het financieel verslag.<BR><BR>Het   agentschap bepaalt de inhoud en de vorm van het financieel   verslag.<BR><BR>
 
 ### ART. 14.
 
 Het hoofd van het agentschap kan de erkenning intrekken, de betaling van de personeels- en werkingssubsidies opschorten of stopzetten of de al verleende subsidies geheel of gedeeltelijk terugvorderen als niet aan de werkingsregels, vermeld in artikel 3 en artikel 4, wordt voldaan en als niet wordt voldaan aan de voorwaarde van artikel 6, 3° en de verbintenissen vermeld in artikel 6, 5° en 6°, niet worden nagekomen.<br /><br />
+
+### ART. 14/1.
+
+&nbsp;De voorziening registreert de geleverde ondersteuning. Het   agentschap bepaalt de wijze van registratie.
 
 ## HOOFDSTUK V Slotbepalingen
 
@@ -76,7 +84,7 @@ Het agentschap evalueert jaarlijks de voortgang en de resultaten van de goedgeke
 
 ### ART. 16.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2006 en houdt op   uitwerking te hebben op 31 december 2013.<BR><BR>
+<P>Dit besluit heeft uitwerking met ingang van 1 september 2006 en houdt op   uitwerking te hebben op 31 december 2015.<BR><BR></P>
 
 ### ART. 17.
 
