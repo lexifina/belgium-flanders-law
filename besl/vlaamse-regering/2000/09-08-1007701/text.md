@@ -426,37 +426,35 @@ De projecten dienen een belangrijk multiplicatoreffect te hebben, de economie te
 
 ### ART. 79bis.
 
-Voor de toepassing van Titel VIbis van dit besluit dient te worden verstaan onder:<br /><br />1° nabijheidsdienst: een dienst die beantwoordt aan individuele of collectieve behoeften en die in de fysische en/of relationele nabijheid van de gebruiker wordt geleverd en waarbij deze dienst:<br /><br />- op een kwaliteitsvolle wijze een antwoord biedt op persoonsgebonden of collectieve noden;<br /><br />- aanvullend is voor het bestaande aanbod en geen oneerlijke concurrentie veroorzaakt;<br /><br />- arbeidsplaatsen creëert met een perspectief op duurzaamheid met maximale kansen voor kansengroepen;<br /><br />2° centrumsteden: de gemeentebesturen van Aalst, Antwerpen, Brugge, Genk, Gent, Hasselt, Kortrijk, Leuven, Mechelen, Oostende, Roeselare, Sint-Niklaas en Grootstedelijk gebied Turnhout;<br /><br />3° voorbeeldproject: een project dat het ontwikkelen en organiseren van een nabijheidsdienst tot doelstelling heeft en dat een voorbeeldfunctie vervult;<br /><br />4° erkend actieplan: een door de minister erkend plan waarin de centrumsteden verduidelijken op welke wijze men de ontwikkeling van nabijheidsdiensten zal organiseren. Dit actieplan wordt opgemaakt voor een periode van vier jaar.  <span class="reference">(ing. B.V.R. 7 december 2001, art. 20, I: 1 november 2001)</span> ]
+...
 
 ## [HOOFDSTUK II ALGEMENE BEPALINGEN (ing. B.V.R. 7 december 2001, art. 20)]
 
 ### ART. 79ter.
 
-[§ 1. De minister kan de regierol die de ontwikkeling van nabijheidsdiensten tot doel hebben erkennen en financieren. De erkenning heeft een duurtijd van maximaal één jaar. Deze erkenning kan jaarlijks verlengd worden. Centrumsteden met een erkend actieplan kunnen een aanvraag tot financiering van de regierol indienen.<br>
-<br>
-§ 2. De minister bepaalt de procedure tot erkenning, de inhoud van de regierol en de na te leven verbintenissen (ing. BVR 7 december 2001, art. 20, I: 1 november 2001)].
+...
 
 ### ART. 79quater.
 
-§ 1. De minister kan voorbeeldprojecten erkennen en financieren die de ontwikkeling van nabijheidsdiensten tot doel hebben. De erkenning heeft een duurtijd van één jaar. Deze erkenning kan jaarlijks verlengd worden.<br /><br />Een aanvraag tot projectfinanciering kan ingediend worden door één van de volgende categorieën van actoren of een combinatie ervan:<br /><br />1° gemeentebesturen;<br /><br />2° O.C.M.W.-besturen;<br /><br />3° provinciebesturen;<br /><br />4° provinciale autonome overheidsbedrijven;<br /><br />5° sociale werkplaatsen;<br /><br />6° invoegbedrijven;<br /><br />7° bedrijven met een invoegafdeling;<br /><br />8° verenigingen zonder winstoogmerk.<br /><br />§ 2. De minister bepaalt de procedure tot erkenning, de criteria en de na te leven verbintenissen.  <span class="reference">(ing. B.V.R. 7 december 2001, art. 20, I: 1 november 2001)</span> ]
+...
 
 ## [HOOFDSTUK III SUBSIDIËRING (ing. B.V.R. 7 december 2001, art. 20)]
 
 ### ART. 79quinquies.
 
-Binnen de perken van het begrotingskrediet kunnen de centrumsteden met een erkend actieplan voor de regierol aanspraak maken op een financiering van loon- en werkingskosten voor één of meerdere personeelsleden belast met de uitbouw van de nabijheidsdiensten en/of het ontwikkelen van de regierol op dit vlak. Deze middelen bedragen op jaarbasis maximaal:<br /><br />- 25.000 euro ter delging van loon- en werkingskosten van 1 halftijds equivalent voor centrumsteden met minder dan 100.000 inwoners op datum van 1 januari van het kalenderjaar voorafgaand aan de aanvraag;<br /><br />- 50.000 euro ter delging van loon- en werkingskosten van 1 voltijds equivalent voor centrumsteden met 100.000 tot 200.000 inwoners op datum van 1 januari van het kalenderjaar voorafgaand aan de aanvraag;<br /><br />- 100.000 euro ter delging van loon- en werkingskosten van 2 voltijds equivalenten voor centrumsteden met 200.000 tot 300.000 inwoners op datum van 1 januari van het kalenderjaar voorafgaand aan de aanvraag;<br /><br />- 150.000 euro ter delging van loon- en werkingskosten van 3 voltijds equivalenten voor centrumsteden met meer dan 300.000 inwoners op datum van 1 januari van het kalenderjaar voorafgaand aan de aanvraag.  <span class="reference">(ing. B.V.R. 7 december 2001, art. 20, I: 1 november 2001)</span> ]
+...
 
 ### ART. 79sexies.
 
-Binnen de perken van het begrotingskrediet kan een aanvrager, zoals bedoeld in artikel 79quater, § 1, aanspraak maken op een projectfinanciering.  <span class="reference">(ing. B.V.R. 7 december 2001, art. 20, I: 1 november 2001)</span> ]
+...
 
 ### ART. 79septies.
 
-De minister kan, onder de voorwaarden die hij bepaalt en binnen de perken van het begro-tingskrediet, een subsidie verlenen aan een organisatie die ondersteunende of dienstverlenende taken verricht in het kader van de nabijheidsdiensten.  <span class="reference">(ing. B.V.R. 7 december 2001, art. 20, I: 1 november 2001)</span> ]
+...
 
 ### ART. 79octies.
 
-Als door het Vlaams Subsidieagentschap voor Werk en Sociale Economie wordt vastgesteld dat de criteria of de verbintenissen, zoals vastgesteld overeenkomstig artikel 79ter, § 2 of artikel 79quater, § 2 van dit besluit, niet worden nageleefd, kan de minister op eenvoudig verzoek de middelen terugvorderen.
+...
 
 ## TITEL VII [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
