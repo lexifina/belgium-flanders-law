@@ -110,7 +110,11 @@ De totale subsidiëring van de organisatiegebonden kosten kan nooit meer bedrage
 
 ### ART. 23.
 
-De subsidies voor organisatiegebonden kosten kunnen ingezet worden als personeelspunten voor organisatiegebonden personeel of als werkingsmiddelen.<br /><br />Organisatiegebonden personeel zijn andere personeelsleden dan het personeel vermeld in artikel 1, 13°, zoals directie en management, administratief en logistiek personeel.<br /><br />De bepalingen van artikel 16, 18 en 19 zijn van toepassing op de personeelspunten, ingezet voor organisatiegebonden personeel.<br /><br />Voor de werkingskosten kan een personeelspunt omgezet worden in 708,84 euro per punt. Dat bedrag is gebonden aan het referte-indexcijfer (basis 2010 = 100), dat van kracht is bij de inwerkingtreding van dit besluit. Het wordt jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br />(basisbedrag x G-index december 20../G-index maand voor inwerkingtreding).
+De subsidies voor organisatiegebonden kosten kunnen ingezet worden als   personeelspunten voor organisatiegebonden personeel of als   werkingsmiddelen.<BR><BR>Organisatiegebonden personeel zijn andere   personeelsleden dan het personeel vermeld in artikel 1, 13°, zoals directie en   management, administratief en logistiek personeel.<BR><BR>De bepalingen van   artikel 16, 18 en 19 zijn van toepassing op de personeelspunten, ingezet voor   organisatiegebonden personeel.<BR><BR>Voor de werkingskosten kan een   personeelspunt worden omgezet in een bedrag per punt dat jaarlijks door het   agentschap wordt bepaald door de totale gesubsidieerde personeelskosten van de   voorzieningen te delen door het totale aantal gesubsidieerde   personeelspunten.
+
+### ART. 23/1.
+
+Als de exploiterende voorziening van de erkende dienst, ook een erkend   geïntegreerd woonproject, met toepassing van het besluit van de Vlaamse Regering   van 17 november 2006 betreffende de goedkeuring en subsidiëring van   geïntegreerde woonprojecten voor personen met een handicap, of een erkende   dienst voor beschermd wonen, met toepassing van het besluit van de Vlaamse   Regering van 18 december 1998 betreffende de erkenning en subsidiëring van   diensten voor beschermd wonen voor personen met een handicap, exploiteert,   worden de personeelspunten en de werkingssubsidies van die diensten samengeteld.   <BR><BR>Vijf procent van de personeelspunten kan worden omgezet in een bedrag   per punt. Dat bedrag kan onder meer worden aangewend voor de vergoeding van   vrijwilligers die een structureel engagement opnemen in de ondersteuning van   personen met een handicap in begeleiding. De vergoedingen kunnen worden   toegekend conform artikel 10 van de wet van 3 juli 2005 betreffende de rechten   van vrijwilligers. Het bedrag kan niet worden aangewend om eigen personeel aan   te werven.<BR><BR>Het agentschap bepaalt jaarlijks het bedrag per punt, vermeld   in het tweede lid, door de totale gesubsidieerde personeelskosten van de   voorzieningen te delen door het totale aantal gesubsidieerde   personeelspunten.
 
 ## Onderafdeling [3. Betaling van de subsidies (verv. BVR 4 februari 2011, art. 69)]
 
@@ -164,7 +168,7 @@ In artikel 16 van het besluit van de Vlaamse Regering van 17 november 2006 betre
 
 ### ART. 35.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010, met   uitzondering van :<BR>1° artikel 29 en 30 die in werking treden op 1 januari   2011;<BR>2° artikel 34 dat in werking treedt op 1 januari 2014.
+<P>Dit besluit heeft uitwerking met ingang van 1 januari 2010, met uitzondering   van :<BR>1° artikel 29 en 30 die in werking treden op 1 januari 2011;<BR>2°   artikel 34 dat in werking treedt op 1 januari 2016.</P>
 
 ### ART. 36.
 
