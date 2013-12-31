@@ -2,16 +2,16 @@
   "codex_id": 1021987,
   "title": "Decreet van 2012-07-06 tot wijziging van diverse bepalingen van het decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid en het decreet van 30 april 2009 tot wijziging van het decreet van 28 april 1998 inzake het Vlaamse beleid ten aanzien van etnisch-culturele minderheden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021987/VolledigDocument?datum=2013-02-08",
-  "source_sha256": "3e6462802843d509bea4866d66eafa0e21789fde7a8fcb9dcc0a9d32413f102d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021987/VolledigDocument?datum=2013-12-31",
+  "source_sha256": "5149d93b7174789be14debf76cd5c951dc67d8385842e29479f2822dbe67aee1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021987&param=informatie",
-  "as_of": "2013-02-08",
+  "as_of": "2013-12-31",
   "made": "2012-07-06",
   "gazette": "2012-07-30",
   "numac": 2012035866,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2013-02-08",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-02-08; future article versions excluded; article text as the API gives it"
+  "in_force": "2013-12-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2013-12-31; future article versions excluded; article text as the API gives it"
 }
