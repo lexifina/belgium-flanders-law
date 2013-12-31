@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024179,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot wijziging van het besluit van de Vlaamse Regering van 18 december 1998 betreffende de erkenning en subsidiëring van diensten voor beschermd wonen voor personen met een handicap, het besluit van de Vlaamse Regering van 17 november 2006 betreffende de goedkeuring en subsidiëring van geïntegreerde woonprojecten voor personen met een handicap, het besluit van de Vlaamse Regering van 21 mei 2010 betreffende de vergunning, erkenning en subsidiëring van een pilootproject diensten Inclusieve Ondersteuning door het Vlaams Agentschap voor Personen met een Handicap en het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024179/VolledigDocument?datum=2013-12-31",
+  "source_sha256": "f175b74e12e6195b0d1fd77b9a35791c1e5481ff3a0a680187352f329f69acae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024179&param=informatie",
+  "as_of": "2013-12-31",
+  "made": "2014-03-21",
+  "gazette": "2014-06-16",
+  "numac": 2014202325,
+  "document_start": "2013-12-31",
+  "document_end": null,
+  "in_force": "2013-12-31",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2013-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
