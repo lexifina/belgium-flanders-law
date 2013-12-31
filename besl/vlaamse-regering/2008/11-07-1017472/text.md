@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-Binnen de perken van de daarvoor op de begroting vastgelegde kredieten kan het Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te noemen, aan maximaal tweehonderd door het agentschap bepaalde personen met een handicap een persoongebonden budget, hierna PGB te noemen, toekennen, voor maximaal twee jaar en bij wijze van experiment.<br /><br />Na afloop van de periode van twee jaar, vermeld in het eerste lid, kunnen de personen met een handicap, vermeld in het eerste lid, hun PGB continueren tot op 31 december 2013.
+Binnen de perken van de daarvoor op de begroting vastgelegde kredieten kan   het Vlaams Agentschap voor Personen met een Handicap, hierna het agentschap te   noemen, aan maximaal tweehonderd door het agentschap bepaalde personen met een   handicap een persoongebonden budget, hierna PGB te noemen, toekennen, voor   maximaal twee jaar en bij wijze van experiment.<BR><BR>Na afloop van de periode   van twee jaar, vermeld in het eerste lid, kunnen de personen met een handicap,   vermeld in het eerste lid, hun PGB continueren tot op 31 december   2014.
 
 ### ART. 2.
 
