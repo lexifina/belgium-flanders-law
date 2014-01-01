@@ -22,7 +22,7 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br />2° minister : de Vlaamse minister, bevoegd voor woonbeleid;<br />3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br />4° Vlabinvest-gebied : het werkgebied van Vlabinvest, vermeld in artikel 1, eerste lid, 16°, van het besluit van de Vlaamse Regering van 7 oktober 2011 betreffende de werking en het beheer van het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant en tot wijziging van diverse besluiten tot uitvoering van de Vlaamse Wooncode;<br />5° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+In dit besluit wordt verstaan onder :<BR>1° agentschap : het agentschap   Wonen-Vlaanderen van het Vlaams ministerie van Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed;<BR>2° minister : de Vlaamse minister, bevoegd voor   woonbeleid;<BR>3° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de   Vlaamse Wooncode.<BR>4° Vlabinvest-gebied : het werkgebied van Vlabinvest APB,   opgericht bij het besluit van de Provincieraad van Vlaams-Brabant van 22 oktober   2013;<BR>5° VMSW : de Vlaamse Maatschappij voor Sociaal Wonen, vermeld in   artikel 30 van het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode.
 
 ### ART. 2.
 
