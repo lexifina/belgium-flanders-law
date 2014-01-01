@@ -2,16 +2,16 @@
   "codex_id": 1020569,
   "title": "Besluit van de Vlaamse Regering van 2011-05-20 houdende wijziging van het besluit van de Vlaamse Regering van 19 november 2010 houdende algemene bepalingen over het energiebeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020569/VolledigDocument?datum=2011-09-08",
-  "source_sha256": "fb2d21a4ad804a3fc79029d5e45f5ab02a09c47069df9e706a0b840c12093c09",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020569/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "a0cb6601fa46e2575251d809ed1d3b61665a37855444dc843cd9431bf90c92de",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020569&param=informatie",
-  "as_of": "2011-09-08",
+  "as_of": "2014-01-01",
   "made": "2011-05-20",
   "gazette": "2011-08-29",
   "numac": 2011035665,
   "document_start": "2011-09-08",
   "document_end": null,
-  "in_force": "2011-09-08",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2011-09-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
