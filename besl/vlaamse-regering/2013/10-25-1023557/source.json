@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023557,
+  "title": "Besluit van de Vlaamse Regering van 2013-10-25 houdende de procedure voor de planning, de programmatie en de realisatie van woonprojecten (citeeropschrift: \"Procedurebesluit Wonen\")",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023557/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "f944715c22191d89b5bb27a494dfcfc21d2613bb87778f176c01171d0ff2fdc8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023557&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-10-25",
+  "gazette": "2014-01-14",
+  "numac": 2013036189,
+  "document_start": "2014-01-01",
+  "document_end": "2017-10-31",
+  "in_force": "2014-01-01",
+  "article_versions": 55,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
