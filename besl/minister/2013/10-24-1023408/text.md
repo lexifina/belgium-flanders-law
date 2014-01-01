@@ -4,9 +4,21 @@
 
 <P>De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en   Plattelandsbeleid,<BR></P>  <P>Gelet op de wet van 11 juli 1969 betreffende de bestrijdingsmiddelen en de   grondstoffen voor de landbouw, tuinbouw, bosbouw en veeteelt, artikel 2, §   1;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 26 september 2008   betreffende de toelating van de rassen van landbouwgewassen en groentegewassen   tot en het behoud ervan op de rassenlijsten van landbouwgewassen en   groentegewassen, artikel 9, § 2, eerste lid, 1° en 2° ;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 27 april 2007 betreffende de   kenmerken waartoe het onderzoek van bepaalde rassen van landbouw- en   groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat   onderzoek, artikel 4;<BR></P>  <P>Gelet op het ministerieel besluit van 20 januari 2010 tot vaststelling van de   procedures voor de rassenlijsten van landbouw- en groentegewassen,   bijlage;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 18 februari   2013;<BR></P>  <P>Gelet op het overleg tussen de gewesten en de federale overheid op 17 januari   2013, bekrachtigd door de Interministeriële Conferentie Landbouwbeleid op 13   maart 2013;<BR></P>  <P>Gelet op advies nr. 53.614/1/V van de Raad van State, gegeven op 25 juli   2013, met toepassing van artikel 84, § 3, eerste lid, van de wetten op de Raad   van State, gecoördineerd op 12 januari 1973,<BR></P>  <P>Besluit : <BR></P>
 
+### ART. 1.
+
+Bijlage I bij het besluit van de Vlaamse Regering van 27 april 2007   betreffende de kenmerken waartoe het onderzoek van bepaalde rassen van landbouw-   en groentegewassen zich ten minste moet uitstrekken, en de minimumeisen voor dat   onderzoek, vervangen bij het ministerieel besluit van 8 juni 2012, wordt   vervangen door bijlage 1, die bij dit besluit is gevoegd.<BR>
+
+### ART. 2.
+
+Bijlage II bij hetzelfde besluit, vervangen bij het ministerieel besluit   van 8 juni 2012, wordt vervangen door bijlage 2, die bij dit besluit is   gevoegd.<BR>
+
 ### ART. 3.
 
 In de bijlage bij het ministerieel besluit van 20 januari 2010 tot   vaststelling van de procedures voor de rassenlijsten van landbouw- en   groentegewassen wordt in de rij `I. Bieten' in de kolom `de uiterste   indieningdatum voor de aanvraag' de datum van 31/12 vervangen door de datum   "15/1".<BR>
+
+### ART. 4.
+
+In afwijking van artikel 2 en 3 blijven bijlage I en II bij het besluit   van de Vlaamse Regering van 27 april 2007 betreffende de kenmerken waartoe het   onderzoek van bepaalde rassen van landbouw- en groentegewassen zich ten minste   moet uitstrekken, en de minimumeisen voor dat onderzoek, vervangen bij het   ministerieel besluit van 8 juni 2012, van toepassing voor de onderzoeken die   voor 1 januari 2014 zijn begonnen.<BR>
 
 ### ART. 5.
 
