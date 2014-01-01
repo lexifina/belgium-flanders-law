@@ -1,0 +1,17 @@
+{
+  "codex_id": 1021827,
+  "title": "Decreet van 2012-04-20 houdende de organisatie van kinderopvang van baby's en peuters",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021827/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ae27d701fc6848c1ccf4d71f02e389da98dbecf0e8d1e7a47f29437218ca133c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021827&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2012-04-20",
+  "gazette": "2012-06-15",
+  "numac": 2012035637,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
