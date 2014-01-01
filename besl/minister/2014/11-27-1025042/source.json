@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025042,
+  "title": "Ministerieel besluit van 2014-11-27 tot vastlegging van het totale aantal subsidiabele uren vrijwilligersoppas 2014 en tot bepaling van het maximaal aantal subsidiabele uren per erkende dienst voor oppashulp voor het werkjaar 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025042/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "926684e75a21e55e17974dc257db991f6e84a1ccdf6ff43488d03ba37ed1e0ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025042&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-11-27",
+  "gazette": "2015-02-27",
+  "numac": 2015035156,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
