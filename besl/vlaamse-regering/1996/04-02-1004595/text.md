@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° decreet: afdeling 2 van hoofdstuk VIII van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996;<br />2° houder van het zakelijk recht: persoon of personen met een recht van volle eigendom, een recht van opstal of van erfpacht, of een recht van vruchtgebruik met betrekking tot een gebouw en/of woning;<br />3° inventaris: de inventaris van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen en/of woningen, bedoeld in artikel 28 van het decreet;<br />4° kamer: woning waarin één of meer van de volgende voorzieningen ontbreken:<br />- W.C.,<br />- bad of douche,<br />- kookgelegenheid,<br />en waarvan de bewoners voor deze voorzieningen afhankelijk zijn van de gemeenschappelijke ruimten in of aansluitend bij het gebouw waarvan de woning deel uitmaakt;<br />5° agentschap : het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.<br />6° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° decreet:   titel 2, hoofdstuk 5, van de Vlaamse Codex Fiscaliteit van 13 december   2013;<BR>2° houder van het zakelijk recht: persoon of personen met een recht van   volle eigendom, een recht van opstal of van erfpacht, of een recht van   vruchtgebruik met betrekking tot een gebouw en/of woning;<BR>3° inventaris: de   inventaris van ongeschikte en/of onbewoonbare woningen en verwaarloosde gebouwen   en/of woningen, bedoeld in artikel 28 van het decreet;<BR>4° kamer: woning   waarin één of meer van de volgende voorzieningen ontbreken:<BR>- W.C.,<BR>- bad   of douche,<BR>- kookgelegenheid,<BR>en waarvan de bewoners voor deze   voorzieningen afhankelijk zijn van de gemeenschappelijke ruimten in of   aansluitend bij het gebouw waarvan de woning deel uitmaakt;<BR>5° agentschap :   het agentschap Wonen-Vlaanderen van het Vlaams Ministerie van Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed.<BR>6° Vlaamse Wooncode : het decreet   van 15 juli 1997 houdende de Vlaamse Wooncode
 
 ### ART. 1bis.
 
@@ -18,7 +18,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br />1° decreet: afdel
 
 ### ART. 3.
 
-§ 1. Onverminderd de bepalingen van de §§ 3 en 4, zijn de ambtenaren van de Vlaamse Belastingdienst belast met de inning en invordering van de heffing, de gemeentelijke opcentiemen, de administratieve geldboetes, de nalatigheidsinteresten, de innings- en vervolgingskosten.<br /><br />§ 2. De bijzondere kohieren worden uitvoerbaar verklaard door de daartoe gemachtigde ambtenaar van de Vlaamse Belastingdienst. De uitvoerbaarverklaring geldt zowel voor de heffing als voor de opcentiemen ten behoeve van de gemeenten.<br /><br />§ 3. Wanneer de gemeente daartoe een schriftelijk verzoek heeft ingediend, machtigt de Vlaamse minister bevoegd voor de financiën de gemeenteontvanger of de gewestelijke ontvanger om de heffing en de gemeentelijke opcentiemen te innen na de ondertekening van een overeenkomst waarin de modaliteiten van de inning worden geregeld.<br /><br />§ 4. De met de inning belaste ambtenaren, bedoeld in § 1, zijn bevoegd om bij wanbetaling de verschuldigde heffing, de opcentiemen en de nalatigheidsinteresten in te vorderen via een dwangbevel.<br /><br />De dwangbevelen worden uitvoerbaar verklaard door de daartoe gemachtigde ambtenaar van de Vlaamse Belastingdienst.
+<P>...</P>
 
 ## HOOFDSTUK III DE INVENTARIS
 
@@ -72,37 +72,37 @@ Het bezwaar tegen de administratieve akte, vermeld in artikel 32 en 33 van het d
 
 ### ART. 10.
 
-§ 1. De heffing wordt genomen in bijzondere kohieren. De bijzondere kohieren worden door de Vlaamse Belastingdienst op door haar bepaalde tijdstippen opgemaakt op basis van de gegevens die haar ter beschikking zijn gesteld door het agentschap.<br /><br />De geautomatiseerde bestanden van de bijzondere kohieren hebben dezelfde bewijskracht als de originelen indien deze bestanden door de Vlaamse Belastingdienst of onder haar controle zijn aangemaakt.<br /><br />In het laatste kwartaal, dat voorafgaat aan de verjaardag van de inventarisatie, stuurt de inventarisbeheerder een brief aan de houder van het zakelijk recht waarin hij wijst op de volgende feiten:<br />1° het feit dat het pand in kwestie nog steeds genventariseerd is;<br />2° de gevolgen van de verjaardag van de inventarisatie;<br />3° de mogelijkheid tot schrapping, vermeld in artikel 35 van het decreet. <br /><br />§ 2. De gemeente die beslist op de heffing opcentiemen te heffen, bezorgt aan de Vlaamse Belastingdienst bij aangetekend schrijven een afschrift van het besluit van de gemeenteraad binnen de maand die volgt op de inwerkingtreding ervan.<br /><br />Bij toepassing van artikel 3, § 3, bezorgt de gemeente tegelijk met de verzending van het afschrift aan de Vlaamse Belastingdienst alle gegevens die noodzakelijk zijn voor de inning door de gemeenteontvanger of de gewestelijke ontvanger, in het bijzonder de gegevens die op het aanslagbiljet dienen te worden vermeld.<br /><br />Wanneer het besluit van de gemeenteraad wordt geschorst, stuurt de provinciegouverneur zonder verwijl een afschrift van het schorsingsbesluit aan de Vlaamse Belastingdienst. Wanneer de gemeenteraad het besluit intrekt, geeft hij daarvan onmiddellijk kennis aan die dienst.
+§ 1. In het laatste kwartaal, dat voorafgaat aan de verjaardag van de   inventarisatie, stuurt de inventarisbeheerder een brief aan de houder van het   zakelijk recht waarin hij wijst op de volgende feiten:<BR>1° het feit dat het   pand in kwestie nog steeds genventariseerd is;<BR>2° de gevolgen van de   verjaardag van de inventarisatie;<BR>3° de mogelijkheid tot schrapping, vermeld   in artikel 35 van het decreet. <BR><BR>§ 2. ...
 
 ### ART. 11.
 
-Nadat de bijzondere kohieren uitvoerbaar verklaard zijn, stuurt de Vlaamse   Belastingdienst een aanslagbiljet aan de betrokken belastingplichtige.<BR><BR>In   afwijking van het eerste lid, wordt in het geval van artikel 26, derde lid, van   het decreet, de aanslag niet verzonden naar de houder van het zakelijk recht,   voor de lopende beroepsprocedures met toepassing van artikel 16, § 2 of § 3, van   de Vlaamse Wooncode of van artikel 34bis van het decreet afgehandeld zijn.   <BR><BR>Bij toepassing van artikel 3, § 3 van dit besluit stuurt de Vlaamse   Belastingdienst gelijktijdig met de verzending van de aanslagbiljetten naar de   belastingplichtige, het bijzonder kohier met betrekking tot de heffingen op de   gebouwen en/of woningen die zich op het grondgebied van de gemeente bevinden,   aan de gemeenteontvanger of gewestelijke ontvanger.<BR><BR>Het aanslagbiljet   vermeldt het ontvangkantoor voor de betaling van de heffing. De Vlaamse   Belastingdienst treedt op als centraal ontvangkantoor voor de betaling van de   heffing. Bij toepassing van artikel 3, § 3 van dit besluit wordt de heffing   betaald bij de gemeenteontvanger of de gewestelijke ontvanger.<BR><BR>De   gemeenteontvanger of de gewestelijke ontvanger is verplicht de bedragen die hij   int, met inachtneming van artikel 12 § 3, door te storten op de rekening van het   Vlaamse Gewest vóór het einde van de maand die volgt op de maand van de inning,   met uitzondering van de gemeentelijke opcentiemen en de vergoedingen, bedoeld in   artikel 19 van dit besluit.<BR><BR>Het centrale ontvangkantoor stort de door   haar geïnde en ingevorderde opcentiemen, verhoogd met de vergoedingen bepaald   overeenkomstig artikel 19 van dit besluit, door op de rekening van de   betreffende gemeente, met inachtneming van artikel 12, § 3 van dit besluit, vóór   het einde van de maand die volgt op de maand van inning.<BR><BR>Bij te late   doorstorting is op het door te storten bedrag een interest van 1 % verschuldigd   voor elke begonnen maand die volgt op voormelde termijn. De Vlaamse regering   kan, wanneer zulks ingevolge de op de geldmarkt toegepaste rentevoeten   verantwoord is, het tarief aanpassen.<BR><BR>De gemeenteontvanger of   gewestelijke ontvanger is gehouden vóór 30 juni van het jaar volgend op het jaar   van de inkohiering aan de ambtenaar, bedoeld in artikel 3, § 2, rekenschap te   geven van de uitvoering van zijn volmacht en hem verantwoording te doen van al   hetgeen hij krachtens zijn volmacht geïnd heeft. De ambtenaar, bedoeld in   artikel 3, § 2 ontheft de gemeenteontvanger of de gewestelijke ontvanger van   zijn opdracht met betrekking tot de betreffende kohieren.
+<P>...</P>
 
 ### ART. 12.
 
-§ 1. [De aanslag, de nalatigheidsinteresten en de administratieve geldboete worden in elk stadium van de berekening in euro en/of eurocent vastgesteld.  <span class="reference">(verv. B.V.R. 13 december 2002, art. 4, I: 1 januari 2002)</span> ]<br /><br />§ 2. De invorderingskosten komen ten laste van de belastingplichtige. De kosten van invordering zijn de vervolgingskosten gemaakt met toepassing van artikel 40, §§ 2 en 3 van het decreet.<br /><br />§ 3. De betalingen van een belastingplichtige worden in de navolgende volgorde aangerekend:<br /><br />1° de kosten van invordering;<br /><br />2° de nalatigheidsinteresten, bedoeld in artikel 39, § 1 van het decreet;<br /><br />3° de administratieve geldboetes;<br /><br />4° de verschuldigde heffing en de gemeentelijke opcentiemen.
+<P>...</P>
 
 ## HOOFDSTUK V DE ADMINISTRATIEVE GELDBOETE
 
 ### ART. 13.
 
-De ambtenaren van de Vlaamse Belastingdienst zijn gemachtigd om, op eigen initiatief of op ver-zoek van het agentschap, de administratieve geldboete, bedoeld in artikel 40, § 1 van het decreet, op te leggen, deze boete te innen en in te vorderen.<br /><br />De beslissing wordt bij aangetekend schrijven meegedeeld aan de belastingplichtige die de heffing heeft ontdoken. De administratieve geldboete is definitief verschuldigd als de beslissing niet wordt weerlegd binnen drie maanden na de verzendingsdatum van de beslissing.
+<P>...</P>
 
 ## HOOFDSTUK VI BEROEPSCHRIFTEN
 
 ### ART. 14.
 
-§ 1. De gemotiveerde verzoekschriften, vermeld in artikel 39, § 2, van het decreet, worden ingediend bij de Vlaamse Belastingdienst. De Vlaamse Belastingdienst kan zich bij de behandeling van de verzoekschriften laten bijstaan door het agentschap.<br /><br />§ 2. Wanneer de belastingplichtige beroep heeft ingesteld tegen de aanslag overeenkomstig artikel 39, § 2 van het decreet, kan het dwangbevel niet eerder worden uitgevaardigd dan na het verstrijken van de betalingstermijn, bedoeld in artikel 39, § 1, eerste lid, in fine van het decreet.<br /><br />De ambtenaar die belast is met de behandeling van het verzoekschrift stelt de ambtenaren belast met de inning en, eventueel, de gemeenteontvanger of de gewestelijke ontvanger onmiddellijk in kennis van het feit dat de belastingplichtige een gemotiveerd verzoekschrift heeft ingediend en van het voorwerp van het verzoekschrift.
+<P>...</P>
 
 ## HOOFDSTUK VII SCHORSING EN VRIJSTELLING VAN DE HEFFING
 
 ### ART. 15.
 
-De houder van een zakelijk recht die meent in aanmerking te komen voor de vrijstelling bedoeld in artikel 41 van het decreet, dient een verklaring op erewoord over te leggen dat hij op het vermelde adres is ingeschreven en daar zijn hoofdverblijf heeft en dat hij over geen andere woning beschikt.<br /><br />Deze verklaring kan worden overgelegd tot uiterlijk het einde van de beroepstermijn bedoeld in artikel 39, § 2 van het decreet. Ze geldt totdat ze wordt herroepen door de houder van het zakelijk recht. De houder van het zakelijk recht moet zijn verklaring herroepen zodra hij niet langer voldoet aan de voorwaarden om vrijstelling te krijgen.<br /><br />Zolang de houder van het zakelijk recht geen aanslagbiljet heeft ontvangen dient de verklaring te worden overgelegd aan het agentschap of, in voorkomend geval, aan de administratieve eenheid, bedoeld in artikel 2, § 2 van dit besluit. Na de ontvangst van het aanslagbiljet dient de verklaring te worden overgelegd aan de Vlaamse Belastingdienst.<br /><br />Een onvolledige of onjuiste verklaring en een te late herroeping wordt beschouwd als een ontduiking van de heffing.
+<P>...</P>
 
 ### ART. 16.
 
-§ 1. Een ramp als bedoeld in artikel 42, § 2, 3°, van het decreet, is elke gebeurtenis die uiterlijk waarneembare schade veroorzaakt aan het gebouw en/of de woning, waardoor het gebruik of de bewoning van het gebouw en/of de woning geheel of ten dele onmogelijk wordt.<br /><br />§ 2. ...
+<P>...</P>
 
 ### ART. 17.
 
@@ -110,13 +110,13 @@ De houder van een zakelijk recht die meent in aanmerking te komen voor de vrijst
 
 ### ART. 18.
 
-De schorsing van de heffing belet de inkohiering van de heffing niet. De verjaringstermijn voor de inning en de invordering van de heffing wordt geschorst voor de duur van de schorsing van de heffing.
+<P>...</P>
 
 ## HOOFDSTUK VIII ADMINISTRATIEVE ONKOSTENVERGOEDING
 
 ### ART. 19.
 
-De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van het decreet maken:<br /><br />1° een éénmalige vergoeding van 15 % van de opbrengst van de eerste heffing met betrekking tot de onroerende goederen die op het grondgebied van de gemeente zijn gelegen, met een maximum van 125 euro per belaste woning en/of gebouw, voor elk gebouw en/of woning waarvan de gemeente de correcte gegevens en indicaties, bedoeld in artikel 4 van dit besluit, heeft meegedeeld aan het agentschap;<br />2° vanaf de eerste heffing, 6 % van de jaarlijkse opbrengst van de heffing met betrekking tot de onroerende goederen die op het grondgebied van de gemeente zijn gelegen voor het beheer van de inventaris, inclusief de opsporings- en vaststellingskosten op voorwaarde dat de gebouwen en/of woningen werden gesignaleerd overeenkomstig artikel 4 van dit besluit.<br /><br />De vergoedingen, bedoeld in 1° en 2° van het vorige lid, worden toegekend ongeacht het tijdstip waarop de gegevens werden meegedeeld, op voorwaarde dat de heffing voor het jaar waarop de gegevens betrekking hebben tijdig kon worden opgenomen in het kohier.<br /><br />De gemeentelijke opcentiemen, de nalatigheidsinteresten en de administratieve geldboeten worden niet in aanmerking genomen voor de berekening van de opbrengst van de heffing.<br /><br />De onkostenvergoeding wordt verrekend op de gende en ingevorderde heffingen. Bij gehele of gedeeltelijke ontheffingen wordt het te veel uitbetaalde bedrag aan onkostenvergoedingen verrekend op de eerstvolgende uit te keren onkostenvergoeding.
+<P>...</P>
 
 ## [HOOFDSTUK VIIIBIS OVERGANGSBEPALINGEN (ing. B.V.R. 14 juli 2004, art. 12)]
 
@@ -126,7 +126,7 @@ De gemeenten ontvangen voor de administratiekosten die ze ter uitvoering van het
 
 ### ART. 19ter.
 
-§ 1. Het centraal ontvangkantoor wordt belast met de terugbetaling van de al geïnde heffingen die betrekking hebben op de opnames in de inventaris en op de verjaardagen van de opname in de inventaris, bedoeld in artikel 44bis van het decreet.<br /><br />§ 2. Het centraal ontvangkantoor brengt de betrokken belastingplichtigen voor het einde van de tweede maand die volgt op de inwerkingtreding van dit besluit per aangetekende brief op de hoogte van de terugbetaling op het rekeningnummer van de opdrachtgever, van de betaling en van het bedrag dat zal terugbetaald worden.<br /><br />§ 3. De terugbetaling wordt uitgevoerd tegen het einde van de tweede maand die volgt op de datum van de brief, bedoeld in § 2, behalve als de betrokken belastingplichtige binnen een maand na de verzending van de aangetekende brief, in een aangetekende brief een ander rekeningnummer opgeeft waarop de betaling moet worden uitgevoerd. In dat geval moet worden terugbetaald voor het einde van de tweede maand volgend op de ontvangst van de brief van de belastingplichtige. (ing; B.V.R. 14 juli 2004, art. 12, I: 5 augustus 2004)]
+<P>...</P>
 
 ## HOOFDSTUK IX SLOTBEPALINGEN
 
