@@ -2,56 +2,56 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° buffervoorziening: een voorziening voor het bufferen van hemelwater meteen vertraagde afvoer en een noodoverlaat;<br /><br />2° infiltratie: het doorsijpelen van hemelwater in de bodem;<br /><br />3° infiltratievoorziening: een buffervoorziening waarbij de vertraagde afvoer gebeurt door infiltratie;<br /><br />4° horizontale dakoppervlakte: de oppervlakte van de projectie van debuitenafmetingen van het dak op een horizontaal vlak;<br /><br />5° groendak: een dak dat volledig voorzien is van een drainagemat en begroeiing;<br /><br />6° referentieoppervlakte van de verharding: de verharde oppervlakte,exclusief de dakoppervlakte. Wordt de verharding aangelegd metwaterdoorlatende klinkers, dan wordt de verharde oppervlakte door tweegedeeld;<br /><br />7° hemelwater: verzamelnaam voor regen, sneeuw, hagel, met inbegrip van dooiwater;<br /><br />8° afvalwater: water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen met uitzondering van niet-verontreinigd hemelwater;<br /><br />9° aftappunt: plaats waar hemelwater uit de hemelwaterput wordt afgetapt voor nuttig gebruik;<br /><br />10° lozing: de emissie door daartoe bestemde afvoerkanalen;<br /><br />11° kunstmatige afvoerweg voor hemelwater: de greppels, grachten, duikers en leidingen bestemd voor het afvoeren van hemelwater, bodemwater, grondwater, bemalingswater en desgevallend ook afvalwater, behandeld conform de van toepassing zijnde wetgeving;<br /><br />12° infiltratiedebiet: de infiltratiecapaciteit vermenigvuldigd met de verhouding van de infiltratieoppervlakte over de som van infiltratieoppervlakte, referentieoppervlakte van de verharding en horizontale dakoppervlakte.
+...
 
 ### ART. 2.
 
-Dit besluit bevat minimale voorschriften voor de lozing van niet-verontreinigd hemelwater, afkomstig van verharde oppervlakken. Het algemeen uitgangsprincipe hierbij is dat hemelwater in eerste instantie zoveel mogelijk gebruikt wordt. In tweede instantie moet het resterende gedeelte van het hemelwater worden geïnfiltreerd of gebufferd, zodat in laatste instantie slechts een beperkt debiet vertraagd wordt afgevoerd. Ook de plaatsing van de overloop van de hemelwaterput en deinfiltratievoorziening dient aan dit principe te beantwoorden.
+...
 
 ### ART. 3.
 
-§ 1. Dit besluit is van toepassing op het bouwen of herbouwen van gebouwen of constructies met een horizontale dakoppervlakte groter dan 75 vierkante meter. Het is eveneens van toepassing als de horizontale dakoppervlakte van een gebouw of constructie met meer dan 50 vierkante meter wordt uitgebreid, doch enkel op die uitbreiding. Als herbouwen wordt beschouwd een bouwproject waarbij minder dan 60 % van de buitenmuren wordt behouden.<br /><br />Van de toepassing van deze paragraaf zijn vrijgesteld gebouwen die worden opgericht op een goed kleiner dan 3 aren.<br /><br />Deze paragraaf is niet van toepassing op gebouwen met rieten daken of met een groendak.<br /><br />§ 2. Dit besluit is ook van toepassing op het aanleggen of heraanleggen van verharde grondoppervlakken, indien de referentieoppervlakte van de verharding groter is dan 200 vierkante meter. Als heraanleggen wordt beschouwd een project waarbij de volledige verharding, met inbegrip van de funderingslaag, wordt vervangen. Dit besluit is niet van toepassing in volgende gevallen:<br /><br />1° op verharde grondoppervlakken die nog voldoende infiltratie mogelijk maken, zoals steenslagverharding of grastegels;<br /><br />2° op verharde grondoppervlakken die tot het openbaar wegdomein behoren of die bestemd zijn om te worden ingelijfd bij het openbaar wegdomein;<br /><br />3° indien het hemelwater dat op de verharde grondoppervlakte valt, op natuurlijke wijze naast de verharde grondoppervlakte op eigen terrein in de bodem kan infiltreren;<br /><br />4° indien het hemelwater door contact met de verharde oppervlakte dermate vervuild wordt, dat het als afvalwater dient beschouwd te worden.<br /><br />Op de plannen dient aangegeven welke verharde oppervlakken onder een van voormelde uitzonderingen vallen.
+...
 
 ### ART. 4.
 
-§ 1. Een stedenbouwkundige vergunning voor de werken, bedoeld in artikel 3, § 1, kan enkel worden afgegeven als op de plannen de plaatsing van een hemelwaterput is aangegeven.<br /><br />De aanvrager kan ook opteren voor de plaatsing van een hemelwaterput als de aanvraag om stedenbouwkundige vergunning betrekking heeft op de werken, bedoeld in artikel 3, § 2. De hemelwaterput wordt in dit geval gedimensioneerd overeenkomstig de normen, opgenomen in § 2. De aanvrager doet het nodige om verontreiniging van het in de hemelwaterput opgevangen water te vermijden.<br /><br />Ook indien op het goed meerdere gebouwen aanwezig zijn, is er slechts één hemelwaterput voor het hele gebouwencomplex verplicht.<br /><br />Indien de stedenbouwkundige vergunning betrekking heeft op de bouw van landbouwbedrijfsgebouwen, zonder bedrijfswoning, dan is de plaatsing van een hemelwaterput niet verplicht mits een oplossing in overeenstemming met de artikelen 5 en 6 wordt voorzien.<br /><br />Op de plannen wordt naast de exacte inplanting, de inhoud van de hemelwaterput, in liters, de totale horizontale dakoppervlakte en de totale overige verharde grondoppervlakte in vierkante meter, alsook de aftappunten van het hemelwater vermeld.<br /><br />§ 2. Het volume van de hemelwaterput dient in verhouding te staan tot de horizontale dakoppervlakte, zoals hieronder bepaald.<br /><br />Voor een horizontale dakoppervlakte tot 100 vierkante meter volstaat een hemelwaterput van 3 000 liter of meer. Voor een horizontale dakoppervlakte tussen 100 en 150 vierkante meter volstaat een hemelwaterput van 5 000 liter of meer. Voor een horizontale dakoppervlakte tussen 150 en 200 vierkante meter volstaat een hemelwaterput van 7 500 liter of meer.<br /><br />Voor het deel van de horizontale dakoppervlakte vanaf 200 vierkante meter kan een oplossing in overeenstemming met de artikelen 5 en 6 worden voorzien.<br /><br />§ 3. Het volledige dakoppervlak dient in één of meerdere hemelwaterputten af te wateren. Enkel indien het gebouw wordt herbouwd in gesloten bebouwing kan volstaan worden met een afwatering van de helft van de horizontale dakoppervlakte. Het volume van de hemelwaterput wordt echter bepaald op basis van de volledige horizontale dakoppervlakte.<br /><br />§ 4. Een stedenbouwkundige vergunning voor de werken, bedoeld in artikel 3, § 1, kan enkel worden afgegeven als op de hemelwaterput een operationele pompinstallatie wordt aangesloten, die het gebruik van het opgevangen hemelwater mogelijk maakt.<br /><br />Een pompinstallatie is niet verplicht indien de aftappunten gravitair gevoed kunnen worden.
+...
 
 ### ART. 5.
 
-§ 1. Een stedenbouwkundige vergunning voor de werken, bedoeld in artikel 3, § 2, kan enkel worden verleend als op de plannen de plaatsing van een infiltratievoorziening is aangegeven.<br /><br />Op de plannen wordt naast de exacte inplanting, omvang en diepte van de infiltratievoorziening, het buffervolume van de infiltratievoorziening, in liters en de totale verharde grondoppervlakte in vierkante meter vermeld.<br /><br />§ 2. Het buffervolume van de in § 1 bedoelde infiltratievoorziening dient in verhouding te staan tot het gerealiseerde infiltratiedebiet. Het buffervolume van de infiltratievoorziening dient minimaal 300 liter per begonnen 20 vierkante meter referentieoppervlakte van de verharding te bedragen. De oppervlakte van de infiltratievoorziening dient minimaal 2 vierkante meter per begonnen 100 vierkante meter referentieoppervlakte van de verharding te bedragen. Van deze afmetingen kan slechts afgeweken worden indien de aanvrager aantoont dat de door hem voorgestelde oplossing een afdoende buffer- en infiltratiecapaciteit heeft.
+...
 
 ### ART. 6.
 
-§ 1. In afwijking op artikel 5 mag het hemelwater vertraagd afgevoerd worden via een afvoerbegrenzer met een maximaal lozingsdebiet van 1 500 liter per uur en per 100 vierkante meter referentieoppervlakte van de verharding, in één van onderstaande gevallen:<br /><br />1° de aanvrager toont aan dat de doorlatendheidsfactor kf van de bodem op de plaats van de geplande infiltratievoorziening kleiner is dan 1.10-5 meter per seconde.<br /><br />2° de aanvrager toont aan dat infiltratie onmogelijk is wegens voortdurend voorkomende hoge grondwaterstanden.<br /><br />Een buffervolume van 400 liter per begonnen 20 vierkante meter referentieoppervlakte van de verharding moet in dit geval worden aangelegd.<br /><br />§ 2. In afwijking op artikel 5 moet het hemelwater vertraagd afgevoerdworden via een afvoerbegrenzer met een maximaal lozingsdebiet van 1500 liter per uur en per 100 vierkante meter referentieoppervlakte van de verharding, indien de geplande infiltratievoorziening in beschermingszone 1 of 2 van een drinkwaterwingebied ligt, zoals afgebakend ter uitvoering van het decreet van 24 januari 1984, houdende maatregelen inzake het grondwaterbeheer en het besluit van de Vlaamse Regering van 27 maart 1985houdende nadere regelen voor de afbakening van waterwingebieden en bescher-mingszones.<br /><br />Een buffervolume van 400 liter per begonnen 20 vierkante meter referentieoppervlakte van de verharding moet in dit geval worden aangelegd.<br /><br />§ 3. Ingeval de referentieoppervlakte van de verharding groter is dan 1 000 vierkante meter, mag het hemelwater vertraagd afgevoerd worden met een maximaal afvoerdebiet van 1 500 liter per uur en per 100 vierkante meter referentieoppervlakte van de verharding. Een buffervolume van 400 liter per begonnen 20 vierkante meter referentieoppervlakte van de verharding moet worden aangelegd.<br /><br />De vrijstelling van de verplichtingen bedoeld in artikel 5, geldt echter niet voor de eerste 1 000 vierkante meter van de referentieoppervlakte van de verharding.<br /><br />§ 4. Op de plannen wordt de exacte inplanting en het buffervolume van de voorziening voor vertraagde lozing, in liters, en de totale verharde grondoppervlakte in vierkante meter vermeld.
+...
 
 ### ART. 7.
 
-§ 1. Als de aanvrager voldoet aan de bepalingen van dit besluit door een combinatie van hemelwaterput, infiltratievoorziening en/of vertraagde lozing, dan wordt een verdeling van de horizontale dakoppervlakte en de referentieoppervlakte van de verharding over deze verschillende oplossingen doorgevoerd.<br /><br />§ 2. Aan de bepalingen van dit besluit kan zowel worden voldaan door de aanleg van individuele voorzieningen als door de aanleg van collectieve voorzieningen, die voor meerdere onroerende goederen een oplossing voorzien.<br /><br />§ 3. Aan de bepalingen van dit besluit kan geheel of gedeeltelijk worden voldaan door het uitvoeren van compenserende maatregelen op hetzelfde goed, namelijk door het verwijderen van bestaande verharde oppervlakten.<br /><br />§ 4. De hemelwaterput, de infiltratie- of buffervoorziening en/of de lozingsbegrenzer dienen geplaatst en in gebruik genomen te zijn ten laatste zes maanden nadat het gebouw of de verharding in gebruik is genomen.
+...
 
 ### ART. 8.
 
-Als de aanvrager een afvoer van het hemelwater dient aan te leggen, dan is hij verplicht het overtollige hemelwater minstens tot aan het lozingspunt gescheiden af te voeren van het afvalwater.<br /><br />Het lozen van hemelwater op de openbare gemengde riolering kan enkel bij afwezigheid van een kunstmatige afvoerweg voor hemelwater of een oppervlaktewater waarop met redelijke kosten kan aangesloten worden.<br /><br />Indien een nieuwe openbare riolering, die bestemd is voor de afvoer van afvalwater en hemelwater, wordt aangelegd op een plaats waar nog geen riolering aanwezig was, dan dient deze riolering in een gescheiden stelsel te worden aangelegd.
+...
 
 ### ART. 9.
 
-Het vergunningverlenende bestuursorgaan kan op gemotiveerde vraag van de bouwheer, afwijkingen toestaan op de verplichtingen van artikelen 4 tot en met 8, alleen wanneer de plaatselijke omstandigheden, specifieke eisen van technische aard of bijzondere nieuwe technieken een andere bouwwijze vereisen of verantwoorden. In dat geval moet bij het uitvoeren van de watertoets, bedoeld in artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid het advies gevraagd worden van het bekkensecretariaat van het bekken op wiens beheersingsgebied de vergunningsaanvraag betrekking heeft.<br /><br />Tot zolang het bekkensecretariaat niet operationeel is, dient het advies gevraagd van de bevoegde beheerder van de waterloop waarin het hemelwater dat op het goed valt, verzameld wordt.
+...
 
 ### ART. 10.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse Regering van 29 juni 1999 houdende vaststelling van een algemene bouwverordening inzake hemelwaterputten op)
+...
 
 ### ART. 11.
 
-Van de toepassing van dit besluit zijn de aanvragen tot stedenbouwkundige vergunning vrijgesteld waarvoor het ontvangstbewijs voor de datum van inwerkingtreding is afgegeven.
+...
 
 ### ART. 12.
 
-Provinciale en gemeentelijke stedenbouwkundige verordeningen kunnen dit besluit aanvullen en strengere normen opleggen.<br /><br />De provincie Vlaams-Brabant brengt de provinciale stedenbouwkundige verordeningen binnen een termijn van zes maanden in overeenstemming met de voorschriften van deze verordening<br /><br />De gemeenteraden brengen de gemeentelijke stedenbouwkundige verordeningen binnen een termijn van zes maanden in overeenstemming met de voorschriften van deze verordening.
+...
 
 ### ART. 13.
 
-Dit besluit treedt in werking op de eerste dag van de derde maand die volgt op de maand waarin het in het Belgisch Staatsblad is bekendgemaakt.
+...
 
 ### ART. 14.
 
-De Vlaamse minister, bevoegd voor de Ruimtelijke Ordening, is belast met de uitvoering van dit besluit.
+...
