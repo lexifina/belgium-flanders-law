@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024546,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 13 juli 2001 betreffende de erkenning en subsidiëring van diensten voor begeleid wonen voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024546/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "89c6d085d18f891d0d4a6c1384a84de0dcfe940a6861278f7c37a811e70b7dda",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024546&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-05-23",
+  "gazette": "2014-09-11",
+  "numac": 2014035747,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
