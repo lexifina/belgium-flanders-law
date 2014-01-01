@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023936,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023936/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "572d3cb0e2e82fba81eea6bc49b05e9f8eb778a836d1ce5a4491c89543bd5041",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023936&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-01-31",
+  "gazette": "2014-03-24",
+  "numac": 2014201479,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
