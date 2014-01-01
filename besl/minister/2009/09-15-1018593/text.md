@@ -46,7 +46,7 @@ Het Vlaams Energieagentschap bepaalt vanaf wanneer de primaire energiebesparing 
 
 ### ART. 5/1.
 
-Voor gebouwen die gebruik maken van een combilus, waarvoor de berekeningswijze, vermeld in het Energiebesluit van 19 november 2010, niet kan worden toegepast, wordt de alternatieve berekeningswijze, gevoegd in bijlage I, gebruikt.<br /><br />In afwijking van het eerste lid is deze berekeningswijze niet van toepassing wanneer er een elektrische weerstand in een opslagvat of afleverset aanwezig is. Deze systemen dienen op basis van gelijkwaardigheid, vermeld in hoofdstuk 2, behandeld te worden. De methode, vermeld in het eerste lid, is wel van toepassing wanneer een elektrische bijverwarming in de warmteopwekker zelf aanwezig is.<br /><br />Als de warmteopwekker zich buiten het gebouw bevindt, is de methode, vermeld in het eerste lid, enkel van toepassing voor het gedeelte van de combilus dat zich binnen het gebouw bevindt. Het gedeelte dat zich buiten het gebouw bevindt, moet via externe warmtelevering ingerekend worden.
+Voor gebouwen die gebruik maken van een combilus, waarvoor de   berekeningswijze, vermeld in het Energiebesluit van 19 november 2010, niet kan   worden toegepast, wordt de alternatieve berekeningswijze, gevoegd in bijlage I,   gebruikt.<BR><BR>Als de warmteopwekker zich buiten het gebouw bevindt, is de   methode, vermeld in het eerste lid, enkel van toepassing voor het gedeelte van   de combilus dat zich binnen het gebouw bevindt. Het gedeelte dat zich buiten het   gebouw bevindt, moet via externe warmtelevering ingerekend worden.
 
 ## [HOOFDSTUK III/2. Inrekening van warmtepompen in het kader van de energieprestatieregelgeving (ing. MB 30 november 2012, art. 9)]
 
@@ -72,7 +72,7 @@ Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de ge
 
 ### BIJLAGE 1
 
-<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/12/19_2.pdf#page=87" title=" Bijlage   1" target="_blank" class="pdf">Bijlage   1</a> </P>  <P>&nbsp;</P>  <P>Bij MB van 30 november 2012, B.S. 17 december 2012 worden met ingang van 27   december 2012 de volgende wijzigingen aangebracht in bijlage 1:</P>  <P>1° in punt 2.1 worden de woorden « volgens 9.2.1 van bijlage V bij het   Energiebesluit van 19 november 2010 » vervangen door de woorden « volgens   paragraaf 1.2 van deze tekst » :<BR>2° in punt 2.2 worden de woorden « volgens   9.2.1 van bijlage V bij het Energiebesluit van 19 november 2010 » telkens   vervangen door de woorden « volgens paragraaf 1.2 van deze tekst ».<BR>3° in   punt 2.3 worden de woorden « volgens 9.2.1 van bijlage V bij het Energiebesluit   van 19 november 2010 » telkens vervangen door de woorden « volgens paragraaf 1.2   van deze tekst »;<BR>4° in punt 2.4 worden de zinnen « Het opwekkingsrendement   voor warm tapwater voor een WKK-installatie is identiek aan het thermisch   omzettingsrendement voor verwarming, zoals bepaald in bijlage A.2 van bijlage VI   bij het Energiebesluit van 19 november 2010. Het opwekkingsrendement voor een   collectieve installatie dat zich buiten het gebouw bevindt, is het   opwekkingsrendement voor externe warmtelevering. » geschrapt.</P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/06_1.pdf#page=97">Bijlage   1</A></P>
 
 ### BIJLAGE 2
 
