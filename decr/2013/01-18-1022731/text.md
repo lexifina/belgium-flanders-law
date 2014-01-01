@@ -24,6 +24,10 @@ In artikel 9 van hetzelfde decreet worden de volgende wijzigingen   aangebracht 
 
 In artikel 16 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° aan het eerste lid wordt de volgende zin toegevoegd : <BR>«   Alleen natuurlijke personen kunnen lid zijn van de raad van bestuur. »;<BR>2° er   wordt een negende lid toegevoegd, dat luidt als volgt : <BR>« Elke   projectvereniging rapporteert aan de Vlaamse Regering over haar werking. De   Vlaamse Regering bepaalt de inhoud, de periodiciteit en de wijze van   rapportering. De rapportering heeft niet tot gevolg dat een termijn om toezicht   uit te oefenen als vermeld in hoofdstuk IV een aanvang neemt.   ».<BR>
 
+### ART. 6.
+
+In artikel 18 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° er wordt een tweede lid toegevoegd, dat luidt als volgt :   <BR>« Op verzoek van een raadslid vraagt het deelnemend bestuur aan de   vereniging om de notulen en alle stukken waarnaar in de notulen wordt verwezen,   elektronisch ter beschikking te stellen. De vereniging stelt de gevraagde   stukken elektronisch ter beschikking aan het deelnemende bestuur en het   deelnemende bestuur bezorgt ze aan het raadslid. »;<BR>2° er wordt een derde lid   toegevoegd, dat luidt als volgt : <BR>« Dit artikel doet geen afbreuk aan de   mogelijkheid van strafrechtelijke vervolging van de raadsleden wegens schending   van het beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.   ».<BR>
+
 ### ART. 7.
 
 Aan artikel 43 van hetzelfde decreet wordt een tweede lid toegevoegd dat   luidt als volgt : <BR>« Met uitzondering van de algemene vergadering kunnen   alleen natuurlijke personen lid zijn van de organen van de dienstverlenende en   opdrachthoudende verenigingen. Deze bepaling geldt niet voor de aangesloten   privaatrechtelijke rechtspersonen zolang zij overeenkomstig artikel 80 van dit   decreet deel kunnen blijven uitmaken van de vereniging. ». <BR>
@@ -31,6 +35,10 @@ Aan artikel 43 van hetzelfde decreet wordt een tweede lid toegevoegd dat   luidt
 ### ART. 8.
 
 In artikel 44 van hetzelfde decreet wordt het derde lid vervangen door wat   volgt : <BR>« De vaststelling van het mandaat van de vertegenwoordiger wordt   herhaald voor elke algemene vergadering. ».<BR>
+
+### ART. 9.
+
+In artikel 52 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° er wordt een tweede lid toegevoegd, dat luidt als volgt :   <BR>« Op verzoek van een raadslid vraagt het deelnemende bestuur om de notulen   en alle stukken waarnaar in de notulen wordt verwezen, elektronisch ter   beschikking te stellen. De vereniging stelt de gevraagde stukken elektronisch   ter beschikking aan het deelnemende bestuur en het deelnemende bestuur bezorgt   ze aan het raadslid. »;<BR>2° er wordt een derde lid toegevoegd, dat luidt als   volgt : <BR>« Dit artikel doet geen afbreuk aan de mogelijkheid van   strafrechtelijke vervolging van de raadsleden wegens schending van het   beroepsgeheim, overeenkomstig artikel 458 van het Strafwetboek.   ».<BR>
 
 ### ART. 10.
 
