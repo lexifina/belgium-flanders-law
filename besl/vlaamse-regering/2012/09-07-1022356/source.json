@@ -2,16 +2,16 @@
   "codex_id": 1022356,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 betreffende het financiële en materiële beheer van de dienst met afzonderlijk beheer [DAB Audit Vlaanderen (verv. BVR 18 oktober 2013, art. 39, I: 1 januari 2014)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022356/VolledigDocument?datum=2012-10-19",
-  "source_sha256": "b73345ffa6a00a5c3461f2a82ff801756c71b6dc71080bfbee730ff5a894f3cc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022356/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "31aa47519e1f25d02a60706db6a5d19ba403915a5632fb3d1327b4af0031ecca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022356&param=informatie",
-  "as_of": "2012-10-19",
+  "as_of": "2014-01-01",
   "made": "2012-09-07",
   "gazette": "2012-10-09",
   "numac": 2012205547,
   "document_start": "2012-10-19",
   "document_end": null,
-  "in_force": "2012-10-19",
+  "in_force": "2014-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2012-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }

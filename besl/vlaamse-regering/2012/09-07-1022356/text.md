@@ -8,7 +8,7 @@ Gelet op artikel 87, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorm
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder DAB : de dienst met afzonderlijk beheer DAB IAVA.
+In dit besluit wordt verstaan onder DAB : de dienst met afzonderlijk   beheer DAB Audit Vlaanderen.
 
 ## Hoofdstuk 2. De begroting
 
@@ -18,22 +18,22 @@ De ramingen van de ontvangsten hebben betrekking op :<br />1° het over te drage
 
 ### ART. 3.
 
-De uitgaven van de DAB worden volledig ingezet binnen het kader van de beheersovereenkomst van IAVA.
+De uitgaven van de DAB worden volledig ingezet binnen het kader van de   beheersovereenkomst van Audit Vlaanderen.
 
 ## Hoofdstuk 3. De comptabiliteit en aflegging van de rekeningen
 
 ### ART. 4.
 
-De administrateur-generaal van IAVA, of zijn plaatsvervanger, wordt aangesteld als beheerder en gedelegeerd ordonnateur van de DAB. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+De administrateur-generaal van Audit Vlaanderen, of zijn plaatsvervanger,   wordt aangesteld als beheerder en gedelegeerd ordonnateur van de DAB. De   bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld   overeenkomstig de regels die gelden voor de diensten van de Vlaamse   Regering.
 
 ## Hoofdstuk 4. Beheer
 
 ### ART. 5.
 
-Met betrekking tot het beheer van de DAB IAVA worden alle delegaties van beslissingsbevoegdheden, die vermeld zijn in het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, uitgeoefend door de administrateur-generaal van IAVA, of zijn plaatsvervanger.
+Met betrekking tot het beheer van de DAB Audit Vlaanderen&nbsp; worden   alle delegaties van beslissingsbevoegdheden, die vermeld zijn in het besluit van   de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde   agentschappen van de Vlaamse overheid, uitgeoefend door de   administrateur-generaal van Audit Vlaanderen , of zijn   plaatsvervanger.
 
 ## Hoofdstuk 5. Slotbepalingen
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor de interne audit van de Vlaamse administratie, is belast met de uitvoering van dit besluit.
+De minister-president en de Vlaamse minister, bevoegd voor de binnenlandse   aangelegenheden, zijn, ieder wat hem of haar betreft, belast met de uitvoering   van dit besluit.
