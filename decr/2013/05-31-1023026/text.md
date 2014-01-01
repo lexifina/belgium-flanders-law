@@ -78,6 +78,18 @@ In artikel 44, eerste lid, van hetzelfde decreet, vervangen bij het   decreet va
 
 In titel V van hetzelfde decreet, het laatst gewijzigd bij het decreet van   23 maart 2012, worden in het opschrift van hoofdstuk III de woorden "van de   Grote Gezinnen" opgeheven.
 
+### ART. 19.
+
+In artikel 50 van hetzelfde decreet worden de volgende wijzigingen   aangebracht : <BR>1° in paragraaf 1 worden de woorden "van de Grote Gezinnen"   opgeheven;<BR>2° in paragraaf 1 wordt de zin "Het moet in zijn activiteiten   voorrang geven aan de woonbehoeften van woonbehoeftige grote gezinnen."   opgeheven;<BR>3° in paragraaf 2, eerste lid, 1°, worden de woorden "grote   gezinnen" telkens vervangen door de woorden "woonbehoeftige gezinnen en   alleenstaanden".
+
+### ART. 20.
+
+In artikel 52 van hetzelfde decreet, gewijzigd bij decreet van 27 juni   2003, worden de volgende wijzigingen aangebracht : <BR>1° in het tweede lid, 1°,   wordt de zinsnede "artikel 79, § 3" vervangen door de zinsnede "artikel 79, §   2";<BR>2° in het tweede lid worden de woorden "grote gezinnen" telkens vervangen   door de woorden "woonbehoeftige gezinnen en alleenstaanden";<BR>3° in het derde   lid worden de woorden "grote gezinnen" vervangen door de woorden "gezinnen en   alleenstaanden";<BR>4° het vierde lid wordt opgeheven.
+
+### ART. 21.
+
+In artikel 54, eerste lid, van hetzelfde decreet worden de woorden "grote   gezinnen" vervangen door de woorden "woonbehoeftige gezinnen en   alleenstaanden".
+
 ### ART. 22.
 
 In artikel 56, § 1, eerste lid, van hetzelfde decreet, vervangen bij het   decreet van 19 maart 2004 en gewijzigd bij het decreet van 23 maart 2012, worden   de woorden "salariskosten en de werking kunnen worden" vervangen door de woorden   "werking wordt".
@@ -157,6 +169,10 @@ In artikel 77bis van hetzelfde decreet, ingevoegd bij het decreet van 20   decem
 ### ART. 41.
 
 In artikel 78, § 1, van hetzelfde decreet, gewijzigd bij de decreten van   20 december 2002, 24 maart 2006, 22 december 2006 en 29 april 2011, wordt de   zinsnede "een fonds als vermeld in artikel 45 van de gecoördineerde wetten op de   Rijkscomptabiliteit" vervangen door de zinsnede "een begrotingsfonds als vermeld   in artikel 12, § 1, van het decreet van 8 juli 2011 houdende regeling van de   begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof".
+
+### ART. 42.
+
+In artikel 79 van hetzelfde decreet, gewijzigd bij decreet van 24 maart   2006, worden de volgende wijzigingen aangebracht : <BR>1° in paragraaf 1 wordt   de zinsnede "de minimum- en maximumnormen voor de woningen," opgeheven;<BR>2° in   paragraaf 2 wordt het eerste lid vervangen door wat volgt : <BR>« De VMSW en het   VWF zijn ertoe gemachtigd om aan woonbehoeftige gezinnen en alleenstaanden   leningen als vermeld in paragraaf 1 toe te staan die bestemd zijn voor de   financiering van een of meer van de volgende verrichtingen : <BR>1° de aankoop   van een in het Vlaamse Gewest gelegen sociale kavel of een bouwgrond die daarmee   wordt gelijkgesteld volgens de voorwaarden die de Vlaamse Regering   bepaalt;<BR>2° de bouw, de aankoop of het behoud van een in het Vlaamse Gewest   gelegen woning;<BR>3° de renovatie, de verbetering of de aanpassing van een in   het Vlaamse Gewest gelegen woning;<BR>4° de terugbetaling van vroeger aangegane   schulden voor de renovatie, de aankoop of de bouw van een in het Vlaamse Gewest   gelegen woning, onder de voorwaarden die de Vlaamse Regering bepaalt. »;<BR>3°   in paragraaf 2 wordt het tweede lid opgeheven;<BR>4° in paragraaf 2, derde lid,   worden de woorden "VMSW kan" vervangen door de woorden "VMSW en het VWF   kunnen";<BR>5° paragraaf 3 en paragraaf 4 worden opgeheven.
 
 ### ART. 43.
 
