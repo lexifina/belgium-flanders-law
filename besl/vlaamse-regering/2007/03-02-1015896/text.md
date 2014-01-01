@@ -56,7 +56,7 @@ Wat de dienst betreft, neemt het comité volgende taken op :<br />1° het comit�
 
 ### ART. 9.
 
-Om zijn taken te kunnen uitvoeren kan het comité meer bepaald :<br />1° advies verlenen aan de Vlaamse minister tot wiens bevoegdheid het agentschap behoort of aan de administrateur-generaal van het agentschap over de aanstelling en de evaluatie van externe auditors, onverminderd de bevoegdheden van de Interne Audit van de Vlaamse Administratie en het Rekenhof;<br />2° alle informatie die nodig is om zijn taken en opdrachten uit te voeren opvragen bij de administrateur-generaal van het agentschap. Eventueel heeft het comité de mogelijkheid om in dit kader elk personeelslid te horen, na kennisgeving van dit voornemen aan de administrateur-generaal;<br />3° als het dat nodig acht, aan de administrateur-generaal of de Vlaamse minister tot wiens bevoegdheid het agentschap behoort een voorstel tot externe audit voorleggen;<br />4° elk rapport bespreken dat opgesteld wordt door de dienst bevoegd voor de evaluatie van de interne controlesystemen binnen het agentschap.<br />
+Om zijn taken te kunnen uitvoeren kan het comité meer bepaald :<BR>1°   advies verlenen aan de Vlaamse minister tot wiens bevoegdheid het agentschap   behoort of aan de administrateur-generaal van het agentschap over de aanstelling   en de evaluatie van externe auditors, onverminderd de bevoegdheden van Audit   Vlaanderen&nbsp;en het Rekenhof;<BR>2° alle informatie die nodig is om zijn   taken en opdrachten uit te voeren opvragen bij de administrateur-generaal van   het agentschap. Eventueel heeft het comité de mogelijkheid om in dit kader elk   personeelslid te horen, na kennisgeving van dit voornemen aan de   administrateur-generaal;<BR>3° als het dat nodig acht, aan de   administrateur-generaal of de Vlaamse minister tot wiens bevoegdheid het   agentschap behoort een voorstel tot externe audit voorleggen;<BR>4° elk rapport   bespreken dat opgesteld wordt door de dienst bevoegd voor de evaluatie van de   interne controlesystemen binnen het agentschap.<BR>
 
 ### ART. 10.
 
@@ -70,7 +70,7 @@ Het comité verleent advies over het functioneren van de dienst belast met het u
 
 ### ART. 12.
 
-§ 1. Het comité bezorgt jaarlijks aan de Vlaamse minister tot wiens bevoegdheid het agentschap behoort een evaluatierapport over de eigen werking.<br /><br />§ 2. Het comité brengt jaarlijks verslag uit van zijn werkzaamheden aan de Vlaamse minister en de administrateur-generaal van het agentschap. Het comité kan alle aanbevelingen formuleren die het noodzakelijk acht in het kader van zijn taken.<br /><br />Een kopie van dit verslag wordt aan de Interne Auditdienst van de Vlaamse Administratie bezorgd.<br />
+§ 1. Het comité bezorgt jaarlijks aan de Vlaamse minister tot wiens   bevoegdheid het agentschap behoort een evaluatierapport over de eigen   werking.<BR><BR>§ 2. Het comité brengt jaarlijks verslag uit van zijn   werkzaamheden aan de Vlaamse minister en de administrateur-generaal van het   agentschap. Het comité kan alle aanbevelingen formuleren die het noodzakelijk   acht in het kader van zijn taken.<BR><BR>Een kopie van dit verslag wordt aan   Audit Vlaanderen bezorgd.<BR>
 
 ## Beroepscode
 
