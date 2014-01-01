@@ -2,16 +2,16 @@
   "codex_id": 1021295,
   "title": "Decreet van 2011-12-23 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021295/VolledigDocument?datum=2013-05-03",
-  "source_sha256": "72b7ae2196f0816b7be0226432aa60e6f9d4cfbaf7b129eb7a59873e28a2b602",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021295/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "1555dde805ffdf9d9b5b24ca827e6024e4bec402e2ba01fd34cc9bb36fa3aa47",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021295&param=informatie",
-  "as_of": "2013-05-03",
+  "as_of": "2014-01-01",
   "made": "2011-12-23",
   "gazette": "2012-02-28",
   "numac": 2012035118,
   "document_start": "2012-06-01",
   "document_end": null,
-  "in_force": "2013-05-03",
+  "in_force": "2014-01-01",
   "article_versions": 86,
-  "record_form": "consolidated version as in force on 2013-05-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
