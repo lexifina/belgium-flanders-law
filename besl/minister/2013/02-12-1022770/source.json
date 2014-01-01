@@ -2,16 +2,16 @@
   "codex_id": 1022770,
   "title": "Ministerieel besluit van 2013-02-12 tot invoeging van artikel 5/1 en vervanging van bijlage V bij het ministerieel besluit van 27 november 2006 tot vaststelling van de modellen van de boekhouding van de besturen van de eredienst en ter uitvoering van artikel 46 van het besluit van de Vlaamse Regering van 13 oktober 2006 houdende het algemeen reglement op de boekhouding van de besturen van de eredienst en van de centrale besturen van de eredienst",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022770/VolledigDocument?datum=2013-03-11",
-  "source_sha256": "7155fb0604a7ecba50f5cbe0c4f7867dc84e6077e4dedeaad78c156005c3cdb5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022770/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "44647b9d1decec65c4af423e0c638965bef57a58d00fa26cbe330d224a0afe24",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022770&param=informatie",
-  "as_of": "2013-03-11",
+  "as_of": "2014-01-01",
   "made": "2013-02-12",
   "gazette": "2013-03-01",
   "numac": 2013035195,
   "document_start": "2013-03-11",
   "document_end": null,
-  "in_force": "2013-03-11",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }

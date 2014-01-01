@@ -8,6 +8,10 @@
 
 <P>In het ministerieel besluit van 27 november 2006 tot vaststelling van de   modellen van de boekhouding van de besturen van de eredienst en ter uitvoering   van artikel 46 van het besluit van de Vlaamse Regering van 13 oktober 2006   houdende het algemeen reglement op de boekhouding van de besturen van de   eredienst en van de centrale besturen van de eredienst, gewijzigd bij het   ministerieel besluit van 5 september 2008, wordt een artikel 5/1 ingevoegd dat   luidt als volgt :<BR></P>  <P>« Art. 5/1. In het financiële gedeelte van de jaarrekening en in de   financiële nota van het budget, de budgetwijzigingen en het meerjarenplan van de   besturen van de eredienst mogen die lijnen die niet nuttig zijn voor het bestuur   worden weggelaten, behalve in het onderdeel 'overschot/tekort' en het onderdeel   'overzicht, evenwicht en exploitatietoelage'. »</P>
 
+### ART. 2.
+
+In hetzelfde besluit, gewijzigd bij het ministerieel besluit van 5   september 2008, wordt bijlage V vervangen door de bijlage die bij dit besluit is   gevoegd.
+
 ### ART. 3.
 
 Artikel 2 van dit besluit treedt in werking op 1 januari   2014.
