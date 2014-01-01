@@ -20,15 +20,67 @@ In dit besluit wordt verstaan onder : <BR>1° beleidsdomein : het   beleidsdomei
 
 <P>De hoedanigheid van voorzitter, ondervoorzitter of lid van de Commissie of   van plaatsvervanger is onverenigbaar met de hoedanigheid van : <BR>1° lid van   het Europees Parlement, de Kamer van Volksvertegenwoordigers, de Senaat, het   Vlaams Parlement en het Brussels Hoofdstedelijk Parlement;<BR>2° minister,   staatssecretaris of kabinetslid van een minister of staatssecretaris;<BR>3°   personeelslid van het departement of van een agentschap van het   beleidsdomein;<BR>4° personeelslid van het Vlaams Parlement of van diensten die   opgericht zijn bij het Vlaams Parlement;<BR>5° lid of personeelslid van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en   Gezinsbeleid, vermeld in artikel 3 van het decreet van 7 december 2007, of lid   van de vaste commissies of werkgroepen die zijn opgericht binnen die   adviesraad.<BR></P>  <P>De voorzitter, ondervoorzitters en leden van de Commissie en de   plaatsvervangers leggen, binnen een maand na hun benoeming, op het secretariaat   een lijst neer van alle organisaties waarvan de activiteiten betrekking hebben   op gezondheidsaangelegenheden of gezins- en welzijnsaangelegenheden, waarin ze   actief zijn als lid van de raad van bestuur of van de algemene vergadering of   als personeelslid of waarvoor ze als externe raadgever optreden. Ze delen elke   wijziging van die lijst binnen een maand mee aan het secretariaat.   </P>
 
+### ART. 4.
+
+<P>De ministers kunnen op verzoek van de betrokkene een einde maken aan het   mandaat van voorzitter, ondervoorzitter, lid of plaatsvervanger.<BR></P>  <P>Bovendien kunnen de ministers, na advies van de Commissie en na de betrokkene   de gelegenheid te hebben gegeven om te worden gehoord, in de volgende gevallen   een einde maken aan het mandaat : <BR>1° als de betrokkene driemaal na elkaar   zonder kennisgeving afwezig is op de vergaderingen van de Commissie of van een   kamer waarvoor hij is uitgenodigd;<BR>2° als de betrokkene het vertrouwelijke   karakter van de beraadslagingen van de Commissie of van een kamer niet   respecteert of vertrouwelijke documenten verspreidt.<BR></P>  <P>De ministers maken, na de betrokkene de gelegenheid te hebben gegeven om te   worden gehoord, een einde aan het mandaat als de betrokkene zich in een geval   van onverenigbaarheid bevindt als vermeld in artikel 3, eerste   lid.</P>
+
+### ART. 5.
+
+Wie wordt benoemd in de plaats van de voorzitter, van een ondervoorzitter,   van een lid of van een plaatsvervanger, die overleden is of van wie het mandaat   voortijdig is beëindigd, voleindigt het mandaat van zijn   voorganger.
+
 ## HOOFDSTUK 3. Werking van de Commissie en van de kamers
 
 ## Afdeling 1. Algemene bepaling
 
+### ART. 6.
+
+Tenzij dit besluit het anders bepaalt, wordt het advies van de Commissie   over een bezwaar verleend door de bevoegde kamer.
+
 ## Afdeling 2. Werking van de kamers
+
+### ART. 7.
+
+<P>De bevoegde entiteit beoordeelt, volgens de toepasselijke sectorale   regelgeving, de ontvankelijkheid van het bezwaar dat is ingediend tegen het   voornemen dat ze heeft geuit, of de beslissing die ze heeft genomen. Ze bezorgt   het ontvankelijke bezwaarschrift, binnen vijftien dagen na de ontvangst ervan,   aan het secretariaat, samen met het administratieve dossier en de toepasselijke   regelgeving.<BR></P>  <P>Die stukken en eventueel aanvullende stukken die door de indiener van het   bezwaar of de bevoegde entiteit worden aangereikt, liggen tot de dag voor de   behandeling van het bezwaar ter inzage op het secretariaat.</P>
+
+### ART. 8.
+
+<P>§ 1. Bezwaren betreffende gezondheidsvoorzieningen worden behandeld door de   kamer voor gezondheidsvoorzieningen. Bezwaren betreffende welzijnsvoorzieningen   worden behandeld door de kamer voor welzijnsvoorzieningen.<BR></P>  <P>In afwijking van het eerste lid kunnen de ministers bepalen dat de bezwaren   betreffende een door hen te bepalen type gezondheidsvoorziening of   welzijnsvoorziening worden behandeld door de andere kamer, door een kamer als   vermeld in paragraaf 2, of door de Commissie, als er een wezenlijke samenhang   bestaat tussen het type gezondheidsvoorziening en een of meer types van   welzijnsvoorzieningen of omgekeerd. <BR></P>  <P>In afwijking van het eerste lid kan de voorzitter van de Commissie, op eigen   initiatief of op verzoek van een kamer, het bezwaar laten behandelen door de   Commissie als het bezwaar principiële vragen oproept waarvan de oplossing alle   kamers aanbelangt.<BR></P>  <P>§ 2. Op verzoek van de Commissie of na advies van de Commissie kunnen de   ministers een kamer oprichten die conform artikel 2, § 1, tweede lid,   samengesteld is uit leden en plaatsvervangers van elk van de beide kamers,   vermeld in artikel 2, § 1, tweede lid. De ministers bepalen de nadere   samenstelling van die kamer. </P>
+
+### ART. 9.
+
+<P>§ 1. De vergadering van een kamer wordt voorgezeten door de voorzitter of de   ondervoorzitter van de kamer of zijn plaatsvervanger. <BR></P>  <P>§ 2. Alleen de voorzitter, de ondervoorzitter en de leden van de kamer of hun   plaatsvervangers zijn stemgerechtigd. Ze hebben elk een stem.<BR></P>  <P>§ 3. Een kamer kan alleen geldig beraadslagen en stemmen als minstens de   voorzitter of de ondervoorzitter en drie leden, of plaatsvervangers, aanwezig   zijn.<BR></P>  <P>Als geen consensus kan worden bereikt, worden beslissingen genomen bij gewone   meerderheid.<BR></P>  <P>Bij de stemming worden onthoudingen niet in aanmerking genomen om de vereiste   meerderheid te bereiken. Bij staking van stemmen is de stem van de voorzitter   doorslaggevend.<BR></P>  <P>§ 4. Wie een persoonlijk belang heeft bij de behandeling van een bezwaar, kan   de beraadslaging en de stemming over dat bezwaar niet bijwonen.   </P>
+
+### ART. 10.
+
+<P>De kamer hoort de indiener van het bezwaar als die daarom in zijn   bezwaarschrift heeft verzocht, of op eigen initiatief. Ze hoort ook de bevoegde   entiteit. Ze kan op eigen initiatief of op verzoek van de indiener van het   bezwaar of van de bevoegde entiteit het agentschap Zorginspectie horen.<BR></P>  <P>De uitnodiging daarvoor wordt uiterlijk de achtste dag voor de vergadering   per aangetekende brief verstuurd aan de indiener van het bezwaar en met de   gewone of elektronische post aan de bevoegde entiteit en aan het agentschap   Zorginspectie als dat agentschap moet worden gehoord.<BR></P>  <P>De indiener van het bezwaar en de bevoegde entiteit kunnen zich tijdens de   vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze   daarvoor aanwijzen. Ze kunnen nog stukken neerleggen tot staving van hun   mondelinge uiteenzetting.</P>
+
+### ART. 11.
+
+Met behoud van de toepassing van artikel 10 verleent de kamer haar advies   op stukken.
+
+### ART. 12.
+
+<P>§ 1. Tenzij de toepasselijke sectorale regelgeving het anders bepaalt,   bezorgt het secretariaat het advies van de kamer gelijktijdig aan de bevoegde   minister, aan de bevoegde entiteit en aan de indiener van het bezwaar uiterlijk   vijfenzeventig dagen nadat het secretariaat het bezwaarschrift en het   administratieve dossier heeft ontvangen.<BR></P>  <P>De voorzitter van de kamer kan bij een gemotiveerde beslissing die termijn   met dertig dagen verlengen. De verlenging wordt onmiddellijk ter kennis gebracht   van de indiener van het bezwaar en de bevoegde entiteit.<BR></P>  <P>§ 2. Het advies kan betrekking hebben op de inhoudelijke en formele aspecten   van het bezwaar en van het voornemen of de beslissing waartegen het bezwaar is   ingediend.<BR></P>  <P>Het advies is gemotiveerd. Het maakt ook melding van een afwijkend standpunt   op verzoek van het lid dat het formuleert, zonder vermelding van zijn   identiteit.</P>
 
 ## Afdeling 3. Werking van de Commissie
 
+### ART. 13.
+
+<P>§ 1. De Commissie kan alleen geldig beraadslagen en stemmen als minstens de   voorzitter of een ondervoorzitter en zes leden, of plaatsvervangers, aanwezig   zijn. Minstens drie leden of plaatsvervangers van elk van de kamers, vermeld in   artikel 2, § 1, tweede lid, zijn aanwezig.<BR></P>  <P>§ 2. Op de vergaderingen van de Commissie is artikel 9, § 1, § 2 en § 3,   tweede en derde lid, van overeenkomstige toepassing.<BR></P>  <P>In afwijking van het eerste lid keurt de Commissie met minstens negen stemmen   de volgende stukken goed : <BR>1° het advies over het beëindigen van een   mandaat, vermeld in artikel 4, tweede lid;<BR>2° het verzoek of het advies met   betrekking tot de oprichting van een kamer, vermeld in artikel 8, § 2;<BR>3° het   voorstel van huishoudelijk reglement of tot wijziging ervan, vermeld in artikel   17, eerste lid;<BR>4° het verslag, vermeld in artikel 19.</P>
+
+### ART. 14.
+
+Als conform artikel 8, § 1, tweede lid of derde lid, de behandeling van   een bezwaar is toevertrouwd aan de Commissie, zijn artikel 9, § 4, en artikel 10   tot en met 12 van overeenkomstige toepassing.
+
 ## Afdeling 4. Gemeenschappelijke bepalingen voor de Commissie en de kamers
+
+### ART. 15.
+
+De Commissie en de kamers kunnen zich laten bijstaan door onpartijdige   deskundigen. De ministers kunnen nadere regels bepalen voor de aanstelling van   die deskundigen.
+
+### ART. 16.
+
+De vergaderingen van de Commissie en van de kamers zijn niet openbaar. De   beraadslagingen in de Commissie en de kamers zijn vertrouwelijk.
 
 ### ART. 17.
 
@@ -37,6 +89,10 @@ In dit besluit wordt verstaan onder : <BR>1° beleidsdomein : het   beleidsdomei
 ### ART. 18.
 
 Een of meer personeelsleden van het Vlaams Ministerie van Welzijn,   Volksgezondheid en Gezin nemen het secretariaat waar, inclusief dat van de   kamers.
+
+### ART. 19.
+
+De Commissie maakt jaarlijks een verslag op van haar werkzaamheden,   inclusief die van de kamers, tijdens het voorbije kalenderjaar. Het verslag   wordt voor 30 september aan de Vlaamse Regering meegedeeld. De ministers kunnen   nadere regels bepalen voor het verslag.
 
 ### ART. 20.
 
@@ -48,7 +104,15 @@ Aan de personen, vermeld in artikel 20, wordt een vergoeding toegekend   voor de
 
 ## HOOFDSTUK 4. Beslissing na advies van de Commissie
 
+### ART. 22.
+
+<P>§ 1. Met toepassing van artikel 15, tweede lid, van het decreet van 7   december 2007 kan de bevoegde minister of het hoofd van de bevoegde entiteit,   naar gelang het geval, over het bezwaar alleen een definitieve beslissing nemen   na de ontvangst van het advies van de Commissie of, als het advies niet is   meegedeeld binnen de termijn, vermeld in artikel 12, § 1, van dit besluit, na   het verstrijken van die termijn.<BR></P>  <P>§ 2. Als het advies van de Commissie gelijkluidend is met het voornemen of de   beslissing, vermeld in artikel 7, eerste lid, wordt de definitieve beslissing   genomen door het hoofd van de bevoegde entiteit. <BR></P>  <P>Als het advies van de Commissie echter afwijkt van het voornemen of de   beslissing, vermeld in artikel 7, eerste lid, wordt de definitieve beslissing   door de bevoegde minister genomen. De bevoegde entiteit bezorgt in dat geval, na   de ontvangst van het advies, het bezwaarschrift en het administratieve dossier   aan de bevoegde minister.<BR></P>  <P>Tenzij de toepasselijke sectorale regelgeving het anders bepaalt, wordt de   definitieve beslissing binnen twee maanden nadat het hoofd van de bevoegde   entiteit respectievelijk de bevoegde minister het advies van de Commissie heeft   ontvangen, aan de indiener van het bezwaar meegedeeld per aangetekende   brief.<BR></P>  <P>§ 3. Als het advies van de Commissie echter niet binnen de termijn, vermeld   in artikel 12, § 1, is meegedeeld, wordt de definitieve beslissing door de   bevoegde minister genomen. De bevoegde entiteit bezorgt in dat geval, na het   verstrijken van de termijn, het bezwaarschrift en het administratieve dossier   aan de bevoegde minister.<BR></P>  <P>Tenzij de toepasselijke sectorale regelgeving het anders bepaalt, wordt de   definitieve beslissing van de bevoegde minister, binnen drie maanden na het   verstrijken van die termijn, per aangetekende zending meegedeeld aan de indiener   van het bezwaar. In dat geval wordt de indiener van het bezwaar gehoord voor de   beslissing wordt genomen, als hij daarom heeft verzocht in zijn   bezwaarschrift.</P>
+
 ## HOOFDSTUK 5. Afwijkende regeling bij een groepsgewijze behandeling van aanvragen
+
+### ART. 23.
+
+De bepalingen van hoofdstuk 3, afdeling 2 en 3, en hoofdstuk 4 doen geen   afbreuk aan de toepassing van specifieke bepalingen die zijn opgenomen in de   sectorale regelgeving, onder meer wat betreft de behandeling van bezwaren die   worden ingediend na een groepsgewijze behandeling van aanvragen voor een   vergunning, een toelating, een attest, een erkenning of een   subsidie.
 
 ## [HOOFDSTUK 5/1. Specifieke regeling voor de behandeling van bezwaren van kandidaat-pleegzorgers en pleegzorgers (ing. BVR 14 februari 2014, art. 1, I: 1 maart 2014)]
 
@@ -56,47 +120,303 @@ Aan de personen, vermeld in artikel 20, wordt een vergoeding toegekend   voor de
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen
 
+### ART. 24.
+
+<P>In de bijlage bij het besluit van de Vlaamse Regering van 14 december 1983   houdende sommige maatregelen tot harmonisatie van de werking en van de   presentiegelden en vergoedingen van adviesorganen, het laatst gewijzigd bij het   besluit van de Vlaamse Regering van 11 december 2009, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° in punt 4 wordt de zinsnede "- de adviserende beroepscommissie inzake   gezins- en welzijnsaangelegenheden en de binnen die commissie opgerichte   kamers;" opgeheven;<BR></P>  <P>2° in punt 5 wordt de zinsnede "- Vlaamse Adviesraad voor erkenning van   verzorgingsvoorzieningen;" opgeheven.</P>
+
 ## Afdeling 2. Wijzigingen van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap
+
+### ART. 25.
+
+<P>In artikel 8 van het besluit van de Vlaamse Regering van 15 december 1993 tot   vaststelling van de algemene regels inzake het verlenen van vergunningen en   erkenningen door het Vlaams Agentschap voor Personen met een Handicap, vervangen   bij het besluit van de Vlaamse Regering van 27 april 1999 en gewijzigd bij het   besluit van de Vlaamse Regering van 16 februari 2007, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° in paragraaf 1, eerste lid, wordt de zinsnede "bij de Vlaamse minister,   bevoegd voor de bijstand aan personen" opgeheven;<BR></P>  <P>2° in paragraaf 1 wordt het derde lid vervangen door wat volgt : <BR></P>  <P>"Het beroep wordt behandeld volgens de regels die zijn vastgesteld bij of ter   uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>3° in paragraaf 2, eerste lid, wordt de zinsnede "de beslissing van de   Vlaamse minister, bevoegd voor de bijstand aan personen," vervangen door de   woorden "de beslissing over het beroep".</P>
+
+### ART. 26.
+
+<P>In artikel 17 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 27 april 1999 en gewijzigd bij het besluit van de Vlaamse Regering   van 16 februari 2007, worden de volgende wijzigingen aangebracht : <BR></P>  <P>1° in paragraaf 1, eerste lid, wordt de zinsnede "bij de Vlaamse minister,   bevoegd voor de bijstand aan personen" opgeheven;<BR></P>  <P>2° in paragraaf 1 wordt het derde lid vervangen door wat volgt : <BR></P>  <P>"Het beroep wordt behandeld volgens de regels die zijn vastgesteld bij of ter   uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>3° in paragraaf 2, eerste lid, wordt de zinsnede "de beslissing van de   Vlaamse minister, bevoegd voor de bijstand aan personen," vervangen door de   woorden "de beslissing over het beroep".</P>
 
 ## Afdeling 3. Wijzigingen van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand
 
+### ART. 27.
+
+In artikel 24, § 1, eerste lid, van het besluit van de Vlaamse Regering   van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de   voorzieningen van de bijzondere jeugdbijstand, vervangen bij het besluit van de   Vlaamse Regering van 8 december 1998 en gewijzigd bij het besluit van de Vlaamse   Regering van 25 juni 2010, worden tussen de woorden "Vlaamse minister" en het   woord "kan" de woorden "of de administrateur-generaal" ingevoegd.
+
+### ART. 28.
+
+<P>In artikel 26bis, § 1, van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 8 december 1998 en vervangen bij het besluit van de   Vlaamse Regering van 15 december 2006, wordt het tweede lid vervangen door wat   volgt : <BR></P>  <P>"Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 29.
+
+In artikel 26ter, eerste lid, van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 8 december 1998, worden tussen de woorden   "Vlaamse minister" en het woord "kan" de woorden "of de administrateur-generaal"   ingevoegd.
+
+### ART. 30.
+
+In artikel 26sexies van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 8 december 1998, worden de woorden "Vlaamse minister"   vervangen door het woord "administrateur-generaal".
+
+### ART. 31.
+
+<P>In artikel 26octies van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 8 december 1998, worden de volgende wijzigingen aangebracht   : <BR></P>  <P>1° in paragraaf 1 worden de woorden "Vlaamse minister" vervangen door het   woord "administrateur-generaal";<BR></P>  <P>2° in paragraaf 2, eerste lid, worden tussen de woorden "Vlaamse minister" en   het woord "definitief" de woorden "of de administrateur-generaal"   ingevoegd;<BR></P>  <P>3° in paragraaf 2 wordt het tweede lid vervangen door wat volgt : <BR></P>  <P>"Als de beslissing, vermeld in het eerste lid, niet aan de inrichtende macht   is betekend binnen de termijn die daarvoor is bepaald door de regels, vermeld in   artikel 26bis, § 1, tweede lid, blijft de voorziening   erkend.".</P>
+
+### ART. 32.
+
+In artikel 26nonies van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 8 december 1998, worden de woorden "Vlaamse minister"   vervangen door het woord "administrateur-generaal".
+
 ## Afdeling 4. Wijzigingen van het besluit van de Vlaamse Regering van 18 februari 1997 tot vaststelling van de procedure voor de erkenning en de sluiting van ziekenhuizen, ziekenhuisdiensten, onderdelen van ziekenhuizen en samenwerkingsvormen
+
+### ART. 33.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 18 februari 1997   tot vaststelling van de procedure voor de erkenning en de sluiting van   ziekenhuizen, ziekenhuisdiensten, onderdelen van ziekenhuizen en   samenwerkingsvormen, gewijzigd bij de besluiten van de Vlaamse Regering van 31   maart 2006 en 12 januari 2007, wordt punt 2° opgeheven.
+
+### ART. 34.
+
+In artikel 5 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 12 januari 2007, wordt het tweede lid   opgeheven.<BR>
+
+### ART. 35.
+
+<P>Artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 12 januari 2007, wordt vervangen door wat volgt : </P>  <P><BR>"Art. 6. Het bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
 
 ## Afdeling 5. -Wijzigingen van het besluit van de Vlaamse Regering van 18 februari 1997 tot vaststelling van de procedure voor het verkrijgen van een planningsvergunning en een exploitatievergunning voor intramurale en transmurale voorzieningen in de gezondheidszorg
 
+### ART. 36.
+
+<P>In artikel 2 van het besluit van de Vlaamse Regering van 18 februari 1997 tot   vaststelling van de procedure voor het verkrijgen van een planningsvergunning en   een exploitatievergunning voor intramurale en transmurale voorzieningen in de   gezondheidszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 31 maart   2006 en 12 januari 2007, worden de volgende wijzigingen aangebracht : <BR></P>  <P>1° punt 4° wordt opgeheven;<BR></P>  <P>2° punt 5° wordt vervangen door wat volgt : <BR></P>  <P>"5° de Adviescommissie : de commissie, vermeld in artikel 12 van het decreet   van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor   het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van de Adviescommissie   voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers;".</P>
+
+### ART. 37.
+
+In artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 12 januari 2007, wordt het derde lid   opgeheven.
+
+### ART. 38.
+
+<P>Artikel 7 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 12 januari 2007, wordt vervangen door wat volgt : <BR></P>  <P>"Art. 7. Het bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 39.
+
+<P>In artikel 9 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 12 januari 2007, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° aan paragraaf 4 wordt de volgende zin toegevoegd : <BR></P>  <P>"Artikel 7 is van overeenkomstige toepassing voor zover de bepalingen van   paragraaf 5 tot en met 8 daarvan niet afwijken.";<BR></P>  <P>2° in paragraaf 5 en 6 wordt het woord "Adviesraad" telkens vervangen door   het woord "Adviescommissie";<BR></P>  <P>3° paragraaf 7 wordt vervangen door wat volgt : <BR></P>  <P>" § 7. Het gemotiveerd advies van de Adviescommissie wordt per aangetekende   brief betekend aan alle verzorgingsvoorzieningen die in de procedure betrokken   waren.";<BR></P>  <P>4° paragraaf 8 wordt vervangen door wat volgt : <BR></P>  <P>" § 8. De minister of de administrateur-generaal beslist groepsgewijs in alle   dossiers. Als het advies van de Adviescommissie niet binnen de gestelde termijn   is meegedeeld, kan de minister geen beslissing nemen zonder ook de aanvragers te   hebben gehoord die hun standpunt hebben ingediend en die gevraagd hebben om te   worden gehoord.".</P>
+
 ## Afdeling 6. Wijzigingen van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast
+
+### ART. 40.
+
+<P>In artikel 5 van het besluit van de Vlaamse Regering van 25 maart 1997 tot   uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en   subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van   een Vlaams Centrum Schuldenlast, gewijzigd bij het besluit van de Vlaamse   Regering van 24 november 2006, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° in het eerste lid worden de woorden "de minister" vervangen door de   woorden "de administratie";<BR></P>  <P>2° het derde lid wordt vervangen door wat volgt : <BR></P>  <P>"Als de instelling een bezwaarschrift heeft ingediend, wordt dat behandeld   volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III   van het decreet van 7 december 2007 houdende oprichting van de Strategische   Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.";<BR></P>  <P>3° in het vierde lid worden de woorden "bedoeld in het tweede en het derde   lid" vervangen door de zinsnede ", vermeld in het tweede lid of vastgesteld door   de regels, vermeld in het derde lid".</P>
+
+### ART. 41.
+
+<P>Artikel 8 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 24 november 2006, wordt vervangen door wat volgt : <BR></P>  <P>"Art. 8. Als de bepalingen van het decreet niet worden nageleefd, kan de   secretaris-generaal het voornemen uiten om de erkenning in te trekken of voor   een bepaalde termijn te schorsen. Dat voornemen wordt door de administratie   betekend met een aangetekende brief, waarin de mogelijkheid en de voorwaarden   worden vermeld om een bezwaarschrift in te dienen. <BR></P>  <P>Op straffe van niet-ontvankelijkheid kan de instelling tot uiterlijk vijftien   dagen na de ontvangst van het voornemen, vermeld in het eerste lid, daartegen   met een aangetekende brief bij de administratie een gemotiveerd bezwaarschrift   indienen. Ze kan daarin uitdrukkelijk vragen om te worden gehoord. <BR></P>  <P>Als de instelling een bezwaarschrift heeft ingediend, wordt dat behandeld   volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III   van het decreet van 7 december 2007 houdende oprichting van de Strategische   Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een   Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.<BR></P>  <P>Als de instelling geen bezwaarschrift heeft ingediend wordt de definitieve   beslissing van de secretaris-generaal over de intrekking of schorsing van de   erkenning binnen dertig dagen na het verstrijken van de termijn, vermeld in het   tweede lid, door de administratie aan de instelling betekend met een   aangetekende brief.".</P>
 
 ## Afdeling 7. Wijzigingen van het besluit van de Vlaamse Regering van 24 juli 1997 tot regeling van de erkenning en de subsidiëring van de centra voor integrale gezinszorg
 
+### ART. 42.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 24 juli 1997 tot   regeling van de erkenning en de subsidiëring van de centra voor integrale   gezinszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 31 maart   2006, 24 november 2006, 24 september 2010 en 7 december 2012, wordt punt 17°   opgeheven.
+
+### ART. 43.
+
+<P>In artikel 8 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse   Regering van 24 november 2006 en 12 december 2008, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° het tweede lid wordt vervangen door wat volgt : <BR></P>  <P>"Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>2° het derde lid wordt opgeheven.</P>
+
+### ART. 44.
+
+<P>In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse   Regering van 24 november 2006 en 12 december 2008, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° paragraaf 1 wordt opgeheven;<BR></P>  <P>2° in paragraaf 3 wordt de zinsnede "bedoeld in § 1, tweede lid, en § 2"   vervangen door de zinsnede ", vermeld in paragraaf 2, of vastgesteld door de   regels, vermeld in artikel 8, tweede lid,".</P>
+
+### ART. 45.
+
+<P>In artikel 20 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 24 november 2006, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° het tweede lid wordt vervangen door wat volgt : <BR></P>  <P>"Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>2° het derde lid wordt opgeheven.</P>
+
+### ART. 46.
+
+<P>In artikel 21 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 24 november 2006, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° paragraaf 1 wordt opgeheven;<BR></P>  <P>2° in paragraaf 3 wordt de zinsnede "bedoeld in § 1, tweede lid, of § 2"   vervangen door de zinsnede ", vermeld in paragraaf 2, of vastgesteld door de   regels, vermeld in artikel 20, tweede lid,".</P>
+
 ## Afdeling 8. Wijzigingen van het besluit van de Vlaamse Regering van 17 december 1999 ter uitvoering van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg
+
+### ART. 47.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 17 december 1999   ter uitvoering van het decreet van 18 mei 1999 betreffende de geestelijke   gezondheidszorg, gewijzigd bij de besluiten van de Vlaamse Regering van 31 maart   2006 en 12 januari 2007, worden punt 5° en punt 6° opgeheven.
+
+### ART. 48.
+
+In artikel 9 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 12 januari 2007, wordt paragraaf 2 opgeheven.
+
+### ART. 49.
+
+<P>Artikel 10 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 12 januari 2007, wordt vervangen door wat volgt : <BR></P>  <P>"Art. 10. Het bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 50.
+
+In artikel 14 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 12 januari 2007, wordt de zinsnede "artikel 10, § 1"   vervangen door de zinsnede "artikel 9, § 1" en wordt de zinsnede "Artikelen 10,   § 2, tot en met 12, § 1," vervangen door de zinsnede "Artikel 10 en 11, §   1,".
 
 ## Afdeling 9. Wijzigingen van het besluit van de Vlaamse Regering van 23 juni 2000 tot vaststelling van de procedure voor de bijzondere erkenning van een centrum voor dagverzorging
 
+### ART. 51.
+
+<P>In artikel 7, § 1, van het besluit van de Vlaamse Regering van 23 juni 2000   tot vaststelling van de procedure voor de bijzondere erkenning van een centrum   voor dagverzorging, gewijzigd bij de besluiten van de Vlaamse Regering van 12   januari 2007 en 7 december 2012, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° het tweede lid wordt vervangen door wat volgt : <BR></P>  <P>"Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>2° het derde lid wordt opgeheven.</P>
+
+### ART. 52.
+
+<P>In artikel 12, § 1, van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 12 januari 2007 en 7 december 2012, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° het tweede lid wordt vervangen door wat volgt : <BR></P>  <P>"Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.";<BR></P>  <P>2° het derde lid wordt opgeheven.</P>
+
 ## Afdeling 10. Wijzigingen van het besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk
+
+### ART. 53.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 17 juli 2000 tot   uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring   van het maatschappelijk opbouwwerk, gewijzigd bij de besluiten van de Vlaamse   Regering van 20 februari 2004, 31 maart 2006, 24 november 2006, 4 juli 2008 en   24 september 2010, wordt punt 9° opgeheven.
+
+### ART. 54.
+
+<P>In artikel 8 van hetzelfde besluit wordt het tweede lid vervangen door wat   volgt : <BR></P>  <P>"Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 55.
+
+<P>In artikel 9 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse   Regering van 24 november 2006 en 24 september 2010, worden de volgende   wijzigingen aangebracht : <BR></P>  <P>1° paragraaf 1 wordt opgeheven;<BR></P>  <P>2° in paragraaf 4 wordt de zinsnede "de termijnen bedoeld in § 1 en § 2"   vervangen door de zinsnede "de termijn, vermeld in paragraaf 2, of vastgesteld   door de regels, vermeld in artikel 8, tweede lid,".</P>
+
+### ART. 56.
+
+<P>In artikel 19 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 20 februari 2004 en gewijzigd bij het besluit van de Vlaamse   Regering van 24 november 2006, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° in paragraaf 2, tweede lid, wordt de zinsnede "9, § 1 en § 2, eerste lid"   vervangen door de zinsnede "9, § 2, eerste lid";<BR></P>  <P>2° in paragraaf 3 wordt de zinsnede "bedoeld in artikel 9, § 1, tweede lid,   of § 2, eerste lid" vervangen door de zinsnede ", vermeld in artikel 9, § 2,   eerste lid, of vastgesteld door de regels, vermeld in artikel 8, tweede   lid,".</P>
+
+### ART. 57.
+
+<P>In artikel 26, § 3, van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 24 november 2006, worden de volgende wijzigingen   aangebracht : <BR></P>  <P>1° in het tweede lid wordt de zinsnede "9, § 1 en § 2, eerste lid" vervangen   door de zinsnede "9, § 2, eerste lid";<BR></P>  <P>2° in het derde lid wordt de zinsnede "bedoeld in artikel 9, § 1 en § 2,   eerste lid" vervangen door de zinsnede ", vermeld in artikel 9, § 2, eerste lid,   of vastgesteld door de regels, vermeld in artikel 8, tweede   lid,".</P>
 
 ## Afdeling 11. Wijzigingen van het besluit van de Vlaamse Regering van 12 oktober 2001 ter uitvoering van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk
 
+### ART. 58.
+
+<P>In artikel 13 van het besluit van de Vlaamse Regering van 12 oktober 2001 ter   uitvoering van het decreet van 19 december 1997 betreffende het algemeen   welzijnswerk, gewijzigd bij het besluit van de Vlaamse Regering van 24 november   2006, wordt het tweede lid vervangen door wat volgt : <BR></P>  <P>"Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 59.
+
+<P>In artikel 29 van hetzelfde besluit wordt het tweede lid vervangen door wat   volgt : <BR></P>  <P>"Dat bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
 ## Afdeling 12. Wijziging van het besluit van de Vlaamse Regering van 1 maart 2002 tot bepaling van de voorwaarden en de procedureregels inzake erkenning en subsidiëring van de consultatiebureaus voor het jonge kind
+
+### ART. 60.
+
+<P>Artikel 43 van het besluit van de Vlaamse Regering van 1 maart 2002 tot   bepaling van de voorwaarden en de procedureregels inzake erkenning en   subsidiëring van de consultatiebureaus voor het jonge kind wordt vervangen door   wat volgt : <BR></P>  <P>"Art. 43. Het beroep wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
 
 ## Afdeling 13. Wijzigingen van het besluit van de Vlaamse Regering van 19 april 2002 betreffende adoptiediensten die bemiddelen voor binnenlandse kinderen
 
+### ART. 61.
+
+In artikel 35 van het besluit van de Vlaamse Regering van 19 april 2002   betreffende adoptiediensten die bemiddelen voor binnenlandse kinderen worden de   woorden "bij de minister" opgeheven.
+
+### ART. 62.
+
+In artikel 37, 4° en 6°, van hetzelfde besluit wordt het woord "beroep"   vervangen door het woord "bezwaar".
+
+### ART. 63.
+
+<P>Artikel 40 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 6 oktober 2006, wordt vervangen door wat volgt : <BR></P>  <P>"Art. 40. Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
 ## Afdeling 14. Wijzigingen van het besluit van de Vlaamse Regering van 17 mei 2002 betreffende de erkenning en subsidiëring van de vertrouwenscentra kindermishandeling
+
+### ART. 64.
+
+In artikel 24 van het besluit van de Vlaamse Regering van 17 mei 2002   betreffende de erkenning en subsidiëring van de vertrouwenscentra   kindermishandeling worden de woorden "bij de minister" opgeheven.
+
+### ART. 65.
+
+<P>Artikel 29 van hetzelfde besluit wordt vervangen door wat volgt : <BR></P>  <P>"Art. 29. Het beroep wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
 
 ## Afdeling 15. Wijzigingen van het besluit van de Vlaamse Regering van 19 december 2008 betreffende de samenwerkingsinitiatieven eerstelijnsgezondheidszorg
 
+### ART. 66.
+
+In artikel 9, § 5, derde lid, artikel 12, § 4, tweede lid, artikel 14, §   2, tweede lid, artikel 15, § 3, tweede lid, en artikel 16 van het besluit van de   Vlaamse Regering van 19 december 2008 betreffende de samenwerkingsinitiatieven   eerstelijnsgezondheidszorg wordt de zinsnede "de Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin" vervangen door de woorden   "het agentschap".
+
+### ART. 67.
+
+<P>Artikel 17 van hetzelfde besluit wordt vervangen door wat volgt : <BR></P>  <P>"Art. 17. Het bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 68.
+
+Artikel 18 van hetzelfde besluit wordt opgeheven.
+
 ## Afdeling 16. Wijzigingen van het besluit van de Vlaamse Regering van 30 januari 2009 betreffende de Logo's
+
+### ART. 69.
+
+<P>In artikel 20 van het besluit van de Vlaamse Regering van 30 januari 2009   betreffende de Logo's wordt het vierde lid vervangen door wat volgt : <BR></P>  <P>"Het ontvankelijke bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 70.
+
+In artikel 21 van hetzelfde besluit worden paragraaf 1, 2 en 3   opgeheven.
+
+### ART. 71.
+
+Artikel 22 van hetzelfde besluit wordt opgeheven.
 
 ## Afdeling 17. Wijzigingen van het besluit van de Vlaamse Regering van 30 april 2009 houdende de voorwaarden voor de erkenning en subsidiëring als gemandateerde voorziening, coördinatiepunt en flexibele opvangpool van doelgroepwerknemers
 
+### ART. 72.
+
+<P>In artikel 24 van het besluit van de Vlaamse Regering van 30 april 2009   houdende de voorwaarden voor de erkenning en subsidiëring als gemandateerde   voorziening, coördinatiepunt en flexibele opvangpool van doelgroepwerknemers   wordt het eerste lid vervangen door wat volgt : <BR></P>  <P>"Het beroep wordt behandeld volgens de regels die zijn vastgesteld bij of ter   uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
+### ART. 73.
+
+Artikel 25 van hetzelfde besluit wordt opgeheven.
+
 ## Afdeling 18. Wijzigingen van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de erkenning van afdelingen Medisch Toezicht of departementen Medisch Toezicht
+
+### ART. 74.
+
+In artikel 17, derde lid, artikel 20, § 1, tweede lid, en artikel 21, § 3,   tweede lid, van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende   de erkenning van afdelingen Medisch Toezicht of departementen Medisch Toezicht   wordt de zinsnede "op het adres van de Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin" opgeheven.
+
+### ART. 75.
+
+<P>In artikel 23 van hetzelfde besluit worden de volgende wijzigingen   aangebracht : <BR></P>  <P>1° het eerste lid wordt vervangen door wat volgt : <BR></P>  <P>"Het ontvankelijke bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.";<BR></P>  <P>2° het tweede en derde lid worden opgeheven.</P>
+
+### ART. 76.
+
+Artikel 24 van hetzelfde besluit wordt opgeheven.
 
 ## Afdeling 19. Wijziging van het besluit van de Vlaamse Regering van 26 februari 2010 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk
 
+### ART. 77.
+
+<P>In artikel 11 van het besluit van de Vlaamse Regering van 26 februari 2010   tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom   vrijwilligerswerk wordt het tweede lid vervangen door wat volgt : </P>  <P><BR>"Het bezwaarschrift wordt behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
 ## Afdeling 20. Wijzigingen van het besluit van de Vlaamse Regering van 16 maart 2012 betreffende aspecten van het Vlaams bevolkingsonderzoek naar borstkanker
+
+### ART. 78.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 16 maart 2012   betreffende aspecten van het Vlaams bevolkingsonderzoek naar borstkanker wordt   punt 2° opgeheven.<BR>
+
+### ART. 79.
+
+In artikel 30 van hetzelfde besluit wordt het tweede lid   opgeheven.
+
+### ART. 80.
+
+<P>In artikel 31 van hetzelfde besluit wordt paragraaf 1 vervangen door wat   volgt : </P>  <P><BR>" § 1. Als de aanvrager een bezwaarschrift heeft ingediend conform   artikel 30, eerste lid, wordt dat behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
 
 ## Afdeling 21. Wijziging van het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning
 
+### ART. 81.
+
+<P>Artikel 52 van het besluit van de Vlaamse Regering van 9 november 2012 inzake   erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning   wordt vervangen door wat volgt : <BR></P>  <P>"Art. 52. Het beroepschrift wordt verder behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.".</P>
+
 ## HOOFDSTUK 7. Slotbepalingen
+
+### ART. 82.
+
+Het besluit van de Vlaamse Regering van 28 januari 1997 tot uitvoering van   het decreet van 20 december 1996 houdende oprichting van een Vlaamse   Gezondheidsraad en van een Vlaamse Adviesraad voor erkenning van   verzorgingsvoorzieningen wordt opgeheven.
+
+### ART. 83.
+
+Het besluit van de Vlaamse Regering van 15 september 1998 betreffende de   adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden,   gewijzigd bij de besluiten van de Vlaamse Regering van 29 september 2000, 31   maart 2006 en 24 november 2006, wordt opgeheven.
+
+### ART. 84.
+
+<P>Artikel 12, tweede en derde lid, artikel 15, 19 en 20 van het decreet van 7   december 2007 houdende de oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers   treden in werking op 1 januari 2014.<BR></P>  <P>Artikel 12, eerste lid, artikel 13 en 14 van voormeld decreet hebben   uitwerking met ingang van 1 juli 2013.</P>
+
+### ART. 85.
+
+Artikel 33 en 34 van het decreet van 20 april 2012 houdende de organisatie   van kinderopvang van baby's en peuters treden in werking op 1 januari   2014.
+
+### ART. 86.
+
+Artikel 39, 40 en 41, 1°, van het decreet van 29 juni 2012 houdende de   organisatie van pleegzorg hebben uitwerking met ingang van 1 juli   2013.
+
+### ART. 87.
+
+Dit besluit treedt in werking op 1 januari 2014, met uitzondering van   artikel 1 tot en met 3, artikel 13, § 1 en § 2, eerste lid en tweede lid, 2° en   3°, artikel 17, 18, 20, 21 en 88, die uitwerking hebben met ingang van 1 juli   2013.
 
 ### ART. 88.
 
