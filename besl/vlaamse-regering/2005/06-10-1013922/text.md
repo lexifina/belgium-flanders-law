@@ -42,7 +42,7 @@ Binnen de perken en volgens de voorwaarden, bepaald in dit besluit draagt de Vla
 
 ### ART. 7.
 
-Het departement Onderwijs van de Vlaamse Gemeenschap betaalt een   basisbedrag van 25.000 euro voor de jaarlijkse werkingsmiddelen van de   Beiaardschool. Dit bedrag wordt voor het eerst toegekend voor het schooljaar   2004-2005 en wordt jaarlijks met ingang van 1 september 2005 aangepast aan de   evolutie van de index der consumptieprijzen. De basisindex is die van de maand   september 2004. De nieuwe index is die van de maand februari van het schooljaar   dat voorafgaat aan het schooljaar waarin de nieuwe werkingsmiddelen van   toepassing zijn. Het bedrag wordt afgerond naar de hogere eenheid. Van de   werkingsmiddelen wordt 60 % uitbetaald in februari en 40 % na voorlegging van de   financiële rapportering met jaarrekening en balans, zoals bepaald in artikel   9.
+De Beiaardschool ontvangt voor het schooljaar (X, X+1) (begrotingsjaar   X+1) een werkingsbudget dat jaarlijks als volgt berekend wordt:<BR>Basisbedrag *   aanpassingscoëfficiënt A<BR><BR>Het basisbedrag bedraagt 27.951 euro. Vanaf het   schooljaar 2013-2014 wordt de aanpassingscoëfficiënt A als volgt berekend:<BR>A   = (Cx+1)/Cx, waarbij:<BR>1° Cx+1: de consumptie-index van de maand februari van   het begrotingsjaar x+1;<BR>2° Cx: de consumptie-index van de maand februari van   het begrotingsjaar x.<BR><BR>Het bedrag wordt afgerond naar de hogere eenheid.   Van de werkingsmiddelen wordt 60% uitbetaald in februari en 40% na voorlegging   van de financiële rapportering met jaarrekening en balans, zoals bepaald in   artikel 9.
 
 ### ART. 8.
 
