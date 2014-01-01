@@ -10,6 +10,10 @@
 
 <P>In artikel 11 van bijlage I bij het besluit van de Vlaamse Regering van 24   juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de   subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en   mantelzorger, gewijzigd bij het besluit van de Vlaamse Regering van 21 december   2012, wordt paragraaf 4 vervangen door wat volgt :<BR>" § 4. De verhogingen,   vermeld in paragraaf 2, worden begrensd tot 3,1% van het toegekende   urencontingent.<BR></P>  <P>Binnen de beschikbare begrotingskredieten kunnen de individuele diensten die   het percentage, vermeld in het eerste lid, overschrijden, de verhogingen,   vermeld in paragraaf 2, ontvangen voor de onregelmatige prestaties tot maximaal   3,5% van het urencontingent dat eraan toegekend is. De beschikbare middelen   worden verdeeld in verhouding tot de prestaties boven het percentage, vermeld in   het eerste lid.<BR></P>  <P>Vanaf 2014 wordt het percentage, vermeld in het eerste lid, vervangen door   3,3%.<BR></P>  <P>Vanaf 2015 wordt het percentage, vermeld in het eerste lid, vervangen door   3,5%.".<BR></P>
 
+### ART. 2.
+
+In artikel 15/1 van bijlage I bij hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 21 december 2012, worden de volgende   wijzigingen aangebracht :<BR>1° paragraaf 1 wordt vervangen door wat volgt   :<BR>" § 1. Voor elke kilometer die het verzorgend personeel, het logistieke   personeel of de doelgroepwerknemer voor de dienst voor gezinszorg en aanvullende   thuiszorg of voor de logistieke dienst, vermeld in bijlage II, heeft afgelegd   met een privéwagen, ontvangt de dienst 0,1457 euro.<BR>Vanaf 2015 wordt het   bedrag, vermeld in het eerste lid, vervangen door 0,1555 euro.";<BR>2° aan   paragraaf 2 wordt een tweede lid toegevoegd, dat luidt als volgt :<BR>"In   paragraaf 1 wordt verstaan onder :<BR>1° verzorgend personeel : het personeel   dat gefinancierd wordt met middelen van artikel 10.<BR>2° logistiek personeel of   de doelgroepwerknemer : het personeel dat aan de erkende dienst voor gezinszorg   en aanvullende thuiszorg wordt toegewezen met toepassing van artikel 25, § 1, of   aan de erkende dienst voor logistieke hulp met toepassing van artikel 6, § 1,   van bijlage II.".<BR>
+
 ### ART. 3.
 
 Aan artikel 15/2, § 1, van bijlage I bij hetzelfde besluit, ingevoegd bij   het besluit van de Vlaamse Regering van 21 december 2012, wordt een tweede lid   toegevoegd, dat luidt als volgt :<BR>"Vanaf 2013 wordt het bedrag, vermeld in   het eerste lid, vervangen door 5.827.783,73 euro.".<BR>
@@ -21,6 +25,10 @@ Aan artikel 15/2, § 1, van bijlage I bij hetzelfde besluit, ingevoegd bij   het
 ### ART. 5.
 
 Artikel 15/4 van bijlage I bij hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 21 december 2012, wordt   opgeheven.<BR>
+
+### ART. 6.
+
+Artikel 18 van bijlage I bij hetzelfde besluit wordt   opgeheven.<BR>
 
 ### ART. 7.
 
@@ -89,6 +97,10 @@ Aan artikel 4/1 van bijlage XIII bij hetzelfde besluit, ingevoegd bij het   besl
 ### ART. 22.
 
 Artikel 2 en artikel 3 van het besluit van de Vlaamse Regering van 24 mei   2013 tot vaststelling van het totale aantal subsidiabele uren gezinszorg voor de   diensten voor gezinszorg en aanvullende thuiszorg, en van het bedrag voor de   maatregel managementsondersteuning en de maatregel werkdrukvermindering   begeleidend personeel voor het jaar 2013 worden ingetrokken.<BR>
+
+### ART. 23.
+
+Het ministerieel besluit van 30 juni 2010 tot verdeling van een deel van   de RSZ-vermindering die de private diensten voor gezinszorg en aanvullende   thuiszorg ontvangen in het kader van de federale maatregel Structurele   Vermindering, gewijzigd bij de ministeriële besluiten van 9 september 2011 en 18   december 2012, wordt opgeheven.<BR>
 
 ### ART. 24.
 
