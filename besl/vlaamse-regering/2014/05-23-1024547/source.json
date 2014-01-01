@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024547,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006 wat betreft de overheveling van personeelsleden van de Nationale Plantentuin van België naar het extern verzelfstandigd agentschap `Agentschap Plantentuin Meise' en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024547/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "fc9299b1a0b9a553df04916f8f177c03073fa32b1d8dbfcbd26b5f4153bc3668",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024547&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-05-23",
+  "gazette": "2014-09-11",
+  "numac": 2014035772,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
