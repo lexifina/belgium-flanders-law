@@ -51,7 +51,7 @@ In het protocol van verblijf, behandeling of begeleiding wordt de termijn bepaal
 
 ### ART. 10.
 
-Voor de diensten voor plaatsing in gezinnen wordt het protocol van verblijf, behandeling of begeleiding gesloten tussen de gebruiker of zijn vertegenwoordiger en de dienst voor plaatsing in gezinnen.<br /><br />
+<P>...</P>
 
 ### ART. 11.
 
@@ -61,7 +61,7 @@ Een exemplaar van het charter dat de gebruiker of zijn vertegenwoordiger voor ak
 
 ### ART. 12.
 
-De individuele dienstverleningsovereenkomst wordt schriftelijk opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, op basis van de noden en mogelijkheden van de gebruiker. Het overleg wordt op een wijze georganiseerd die aan de gebruiker is aangepast. De voorziening maakt daarbij gebruik van de ervaringen en inzichten van de gebruiker.<br /><br />Bij een conflict tussen de personen, vermeld in artikel 2, tweede lid, of als geen van die personen de rechten wil uitoefenen, behartigt de voorziening in teamoverleg de belangen van de gebruiker.<br /><br />Voor de diensten voor plaatsing in gezinnen wordt de individuele dienstverleningsovereenkomst opgesteld in overleg met de gebruiker of zijn vertegenwoordiger, het opvanggezin en de dienst voor plaatsing in gezinnen.<br /><br />Voor de diensten Ondersteuningsplan moet geen individuele dienstverleningsovereenkomst opgesteld worden.
+De individuele dienstverleningsovereenkomst wordt schriftelijk opgesteld   in overleg met de gebruiker of zijn vertegenwoordiger, op basis van de noden en   mogelijkheden van de gebruiker. Het overleg wordt op een wijze georganiseerd die   aan de gebruiker is aangepast. De voorziening maakt daarbij gebruik van de   ervaringen en inzichten van de gebruiker.<BR><BR>Bij een conflict tussen de   personen, vermeld in artikel 2, tweede lid, of als geen van die personen de   rechten wil uitoefenen, behartigt de voorziening in teamoverleg de belangen van   de gebruiker.<BR><BR>Voor de diensten Ondersteuningsplan moet geen individuele   dienstverleningsovereenkomst opgesteld worden.
 
 ### ART. 13.
 
@@ -131,7 +131,7 @@ De meerderjarige gebruiker of zijn vertegenwoordiger heeft recht op inzage in de
 
 ### ART. 27.
 
-Binnen de voorzieningen met residentiële opvang, met uitzondering van de tehuizen voor kortverblijf en de diensten voor plaatsing in gezinnen, wordt een collectief overlegorgaan opgericht.<br /><br />
+Binnen de voorzieningen met residentiële opvang, met uitzondering van de   tehuizen voor kortverblijf, wordt een collectief overlegorgaan   opgericht.<BR><BR>
 
 ### ART. 28.
 
@@ -219,7 +219,7 @@ Grensoverschrijdend gedrag ten aanzien van de gebruikers wordt gemeld aan het ce
 
 ### ART. 44.
 
-De bepalingen van deze afdeling zijn alleen van toepassing voor de voorzieningen voor residentiële of semiresidentiële opvang, met uitzondering van de diensten voor plaatsing in gezinnen.<br /><br />
+De bepalingen van deze afdeling zijn alleen van toepassing voor de   voorzieningen voor residentiële of semiresidentiële   opvang.<BR><BR>
 
 ### ART. 45.
 
@@ -234,6 +234,14 @@ De bepalingen van deze afdeling zijn alleen van toepassing voor de voorzieningen
 § 1. Om erkend te worden en te blijven, moet een voorziening, met behoud van de toepassing van andere erkenningsnormen, ter uitvoering van artikel 5 en 6, § 1, van het decreet van 17 oktober 2003 beschikken over een kwaliteitshandboek, dat wordt vastgesteld in bijlage 3 bij dit besluit.<br /><br />§ 2. Het kwaliteitshandboek is actueel, vormt een samenhangend geheel en komt overeen met de praktijk. Het ligt permanent ter beschikking van de medewerkers en de gebruikers van de voorziening.<br /><br />Het kwaliteitshandboek waarborgt en is niet in tegenspraak met de bepalingen van hoofdstuk 2 tot en met 8 van dit besluit.<br /><br />
 
 ## Afdeling 2 Zelfevaluatie
+
+### ART. 47.
+
+De zelfevaluatie die de voorziening uitvoert, bevat minstens : <br />1° een evaluatie van de gebruikersgerichte processen;<br />2° een evaluatie van de organisatiegerichte processen en ingezette middelen.<br /><br />Die zelfevaluatie gebeurt in samenspraak met de gebruikers en de medewerkers.<br /><br />Bij de evaluatie, vermeld in punt 1° en 2°, wordt in het bijzonder aandacht geschonken aan de doeltreffendheid en doelmatigheid van de processen.<br /><br />Onder doeltreffendheid wordt verstaan, de mate waarin de doelstellingen gerealiseerd worden. Onder doelmatigheid wordt verstaan, de mate waarin de resultaten zich verhouden tot de middelen. Met middelen worden onder meer bedoeld : personeel, financiën, gebouwen en inrichting, uitrusting, technieken en methoden.<br /><br />
+
+### ART. 48.
+
+Bij elk van de evaluaties, vermeld in artikel 47, worden de vijf stappen die omschreven worden in artikel 5, § 3, tweede lid, 1° tot en met 5°, van het decreet van 17 oktober 2003 doorlopen, telkens gedurende een periode van maximaal vijf jaar.<br /><br />
 
 ## Afdeling 3 Kwaliteitsindicatoren
 
