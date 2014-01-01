@@ -2,16 +2,16 @@
   "codex_id": 1022459,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 betreffende controle en single audit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022459/VolledigDocument?datum=2012-11-27",
-  "source_sha256": "f920ee2ad7ed3a30d464baeb1ec3a8d749dc335375145b6e0734fc7c9a43e161",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022459/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "c80e37a8fe6b181c65644e6bcc16ef940bc2b835395fd2e343ba318cf8971946",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022459&param=informatie",
-  "as_of": "2012-11-27",
+  "as_of": "2014-01-01",
   "made": "2012-09-07",
   "gazette": "2012-11-13",
   "numac": 2012036176,
   "document_start": "2012-11-14",
   "document_end": "2019-12-31",
-  "in_force": "2012-11-27",
+  "in_force": "2014-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2012-11-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
