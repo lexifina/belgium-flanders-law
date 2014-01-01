@@ -39,3 +39,9 @@ Besluit :
 In hetzelfde besluit, het laatst gewijzigd bij het ministerieel besluit van 24 januari 2019, wordt een artikel 15/1 ingevoegd, dat luidt als volgt:<br>
 <br>
 "Art. 15/1. Het hoofd van het Agentschap Innoveren en Ondernemen heeft beslissingsbevoegdheid over de steuntoekenning als vermeld in artikel 23/1 van het besluit van de Vlaamse Regering van 17 december 2010.".
+
+### ART 5.
+
+In hoofdstuk 1/1 van het ministerieel besluit van 1 oktober 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest, ingevoegd bij het ministerieel besluit van 7 maart 2016, wordt een artikel 1/2 ingevoegd, dat luidt als volgt:<br>
+<br>
+"Art. 1/2. Ter uitvoering van artikel 5, tweede lid, van het besluit van de Vlaamse Regering van 19 juli 2013 wordt verstaan onder achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid: achterstallige schulden van 3.000 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.".
