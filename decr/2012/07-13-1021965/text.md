@@ -154,7 +154,7 @@ In artikel 212ter van hetzelfde wetboek worden de volgende wijzigingen aangebrac
 
 ### ART. 30.
 
-Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in artikel 3 van het decreet van 8 juli 2011 houdende de regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof met als naam DAB IAVA die belast wordt met het uitvoeren van auditopdrachten.<br /><br />De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financieel en materieel beheer van de dienst met afzonderlijk beheer IAVA.
+Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in   artikel 3 van het decreet van 8 juli 2011 houdende de regeling van de begroting,   de boekhouding, de toekenning van subsidies en de controle op de aanwending   ervan, en de controle door het Rekenhof met als naam DAB Audit Vlaanderen die   belast wordt met het uitvoeren van auditopdrachten.<BR><BR>De Vlaamse Regering   bepaalt de organieke regels die van toepassing zijn op het financieel en   materieel beheer van de dienst met afzonderlijk beheer Audit   Vlaanderen.
 
 ## HOOFDSTUK 14. Slotbepalingen
 
