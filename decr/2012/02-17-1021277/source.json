@@ -2,16 +2,16 @@
   "codex_id": 1021277,
   "title": "Decreet van 2012-02-17 houdende de wijziging van diverse bepalingen van het Wetboek van de met de inkomstenbelastingen gelijkgestelde belastingen betreffende de belasting op de inverkeerstelling op grond van milieukenmerken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021277/VolledigDocument?datum=2012-03-01",
-  "source_sha256": "9af0bd61c8a617acda5ae972301dbdddbc8deb0aaf1c9e0591ac461504eb7f5b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021277/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "b9a18ed18e5b097573d21772a9e0a422568eb50143b8746f64035bed6f373531",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021277&param=informatie",
-  "as_of": "2012-03-01",
+  "as_of": "2014-01-01",
   "made": "2012-02-17",
   "gazette": "2012-02-23",
   "numac": 2012035189,
   "document_start": "2012-03-01",
   "document_end": null,
-  "in_force": "2012-03-01",
+  "in_force": "2014-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2012-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
