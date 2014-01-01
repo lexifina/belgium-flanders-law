@@ -56,6 +56,10 @@ Artikel 14 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artike
 
 Artikel 15 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Artikel 15. In het erkenningsbesluit of de beheersovereenkomst van de partnerorganisatie wordt de aard van deskundigheid van de partnerorganisatie vermeld, alsook aan welke doelgroepen de partnerorganisatie ondersteuning biedt en welke de opdrachten zijn ten aanzien van de Vlaamse overheid. ».<br /><br />
 
+### ART. 13.
+
+In artikel 24, § 2, van hetzelfde decreet worden de woorden « De Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen » vervangen door de woorden « De Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin, vermeld in artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin ».<br /><br />
+
 ## HOOFDSTUK V Preventieve gezondheidsbeleid
 
 ### ART. 14.
@@ -97,6 +101,10 @@ In hetzelfde decreet wordt een titel IXbis, bestaande uit artikel 75bis, ingevoe
 ### ART. 23.
 
 Aan artikel 76, § 1, 4°, van hetzelfde decreet worden de woorden « en in artikel 75bis, § 2 » toegevoegd.<br /><br />
+
+### ART. 24.
+
+In het opschrift van hoofdstuk I van titel XI van hetzelfde decreet worden de woorden « de Vlaamse Adviesraad voor de erkenning van verzorgingsvoorzieningen » vervangen door de woorden « de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin ».<br /><br />
 
 ### ART. 25.
 
@@ -215,6 +223,10 @@ In artikel VI.2, § 1, van het decreet van 28 juni 2002 betreffende gelijke onde
 ### ART. 48.
 
 In artikel 96, § 3, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding worden de woorden « de Vlaamse Gezondheidsraad en/of » geschrapt.<br /><br />
+
+### ART. 49.
+
+Artikel 23 van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg wordt vervangen door wat volgt :<br />« Artikel 23. Hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin is van toepassing op de procedure inzake de erkenning, de schorsing van erkenning en de intrekking van erkenning van de centra voor geestelijke gezondheidszorg. ».<br /><br />
 
 ### ART. 50.
 
