@@ -2,16 +2,16 @@
   "codex_id": 1008349,
   "title": "Ministerieel besluit van 2001-07-09 houdende de voorwaarden inzake subsidiëring van initiatieven voor buitenschoolse opvang",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008349/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "82253935ebcd52a9b64f5ff07d572ad193e3595ef2e95660b1095d1f81641762",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008349/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "951568ba233a73d12e64a32a005ca149f0f482c26ff81a6dabacf0af57c8f98c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008349&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2001-07-09",
   "gazette": "2001-09-06",
   "numac": 2001035978,
   "document_start": "2001-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2013-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
