@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023945,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 houdende de overdracht van twee statutaire en twee contractuele personeelsleden van het Vlaams Agentschap voor Personen met een Handicap aan het agentschap Jongerenwelzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023945/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "4bb5288eb9c6eaa8b4126681e4f418d3b2c6da9251f01129642aeb5128dfa53f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023945&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-02-14",
+  "gazette": "2014-03-25",
+  "numac": 2014035260,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
