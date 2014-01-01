@@ -2,16 +2,16 @@
   "codex_id": 1017521,
   "title": "Ministerieel besluit van 2008-12-22 tot uitvoering van artikel 18, § 1 van het besluit van de Vlaamse Regering van 6 februari 2004 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren en artikel 36 van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017521/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "665660ce4e57ca2fcc983bc8aedaecb73f55b5d9401bdc0ccc4a25ce4e6a300e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017521/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "3b7ad4c0b61a334771d82d9e7bb73604b61a6075a25fc1d3285e4822cad114c5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017521&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2014-01-01",
   "made": "2008-12-22",
   "gazette": "2009-01-28",
   "numac": 2009200157,
   "document_start": "2009-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2009-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2009-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
