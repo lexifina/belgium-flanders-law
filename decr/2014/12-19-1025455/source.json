@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025455,
+  "title": "Decreet van 2014-12-19 houdende de tweede aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025455/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "66e32e1358094121486386836193a8486006edbfcf2ab00c9cb707e813d958d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025455&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-12-19",
+  "gazette": "2015-06-10",
+  "numac": 2015035562,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 92,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
