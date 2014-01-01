@@ -78,15 +78,75 @@ Een vervoerder die werd belast met de openbaredienstverplichting en die   stopt 
 
 ## Afdeling 1. Berekening van de compensatie
 
+### ART. 16.
+
+Overeenkomstig artikelen 6, eerste lid en 7 van het decreet van 21   december 2012, kunnen alleen de vervoerders die voorkomen op de lijst met   vervoerders een compensatie aanvragen voor het vervoer van personen met een   handicap of een ernstig beperkte mobiliteit.
+
+### ART. 17.
+
+<P>Het aantal kilometer wordt berekend volgens de snelste route met een   routeplanner naar keuze. Voor de berekening van de compensatie wordt maximaal   rekening gehouden met 50 kilometer.<BR></P>  <P>Tot en met 25 kilometer bedraagt de compensatie :<BR>1° 1,50 euro per gereden   kilometer als alleen een gebruiker in een rolstoel wordt vervoerd;<BR>2° 3 euro   per gereden kilometer als twee of meer gebruikers in een rolstoel worden   vervoerd, ongeacht het aantal gebruikers zonder rolstoel;<BR>3° 50 eurocent per   gereden kilometer als alleen een gebruiker zonder rolstoel wordt vervoerd;<BR>4°   1 euro per gereden kilometer als twee of meer gebruikers zonder rolstoel worden   vervoerd;<BR>5° 2 euro per gereden kilometer als een gebruiker met een rolstoel   en een of meer gebruikers zonder rolstoel worden vervoerd .<BR></P>  <P>Vanaf 26 kilometer tot en met 50 kilometer bedraagt de compensatie :<BR>1° 75   eurocent per gereden kilometer als alleen een gebruiker in een rolstoel wordt   vervoerd;<BR>2° 1,50 euro per gereden kilometer als twee of meer gebruikers in   een rolstoel worden vervoerd, ongeacht het aantal gebruikers zonder   rolstoel;<BR>3° 25 eurocent per gereden kilometer als alleen een gebruiker   zonder rolstoel wordt vervoerd;<BR>4° 50 eurocent per gereden kilometer als twee   of meer gebruikers zonder rolstoel worden vervoerd;<BR>5° 1 euro per gereden   kilometer als een gebruiker met een rolstoel en een of meer gebruikers zonder   rolstoel worden vervoerd.<BR></P>  <P>Voor ritten waarvan de totale afstand maximaal 6 kilometer bedraagt, wordt de   totale compensatie, berekend op de wijze, vermeld in het eerste lid, vermeerderd   met 1 euro.</P>
+
+### ART. 18.
+
+<P>Met uitzondering van het laatste jaar waarop de openbaredienstverplichting   van toepassing is, dienen de vervoerders die belast werden met de   openbaredienstverplichting, jaarlijks uiterlijk op 1 november een raming in van   het bedrag van de compensatie waarop ze verwachten recht te zullen hebben in het   daaropvolgende kalenderjaar.<BR></P>  <P>Op basis van de raming, vermeld in het eerste lid, bepaalt de minister   jaarlijks de maximale jaarlijkse compensatie voor iedere vervoerder. De minister   brengt de vervoerder schriftelijk op de hoogte van de maximale jaarlijkse   compensatie.</P>
+
 ## Afdeling 2. Compensatievoorwaarden
+
+### ART. 19.
+
+Een uitgevoerde rit geeft alleen recht op compensaties als voldaan is aan   de voorwaarden, vermeld in dit hoofdstuk.
 
 ## Onderafdeling 1. De voertuigen
 
+### ART. 20.
+
+<P>De voertuigen die voor het gecompenseerd vervoer worden ingezet, zijn   minimaal voorzien van :<BR>1° een plaats die beschikt over een specifiek   verankeringssysteem voor rolstoelen;<BR>2° een oprijplaat, lift of enig ander   systeem dat het voertuig vlot toegankelijk maakt voor rolstoelgebruikers;<BR>3°   banden die aangepast zijn aan de weersomstandigheden.<BR></P>  <P>De aanpassing van het voertuig wordt gekeurd overeenkomstig de wettelijke   bepalingen. </P>
+
 ## Onderafdeling 2. De dienstverlening
+
+### ART. 21.
+
+<P>Het vervoer wordt minimaal aangeboden :<BR>1° op werkdagen van 7 tot 22   uur;<BR>2° op zaterdagen en, zon- en feestdagen van 8 tot 20 uur.<BR></P>  <P>Het vervoer beperkt zich niet tot een bepaalde categorie van personen met een   handicap of een ernstig beperkte mobiliteit.</P>
+
+### ART. 22.
+
+<P>De centrale, die belast is met de reservatie van de ritten, is elke werkdag   bereikbaar tussen 9 uur 12 uur en tussen 13 uur en 16 uur.<BR></P>  <P>De reservatie kan zowel telefonisch, per fax als elektronisch.<BR></P>  <P>De vervoerder kan aan de gebruikers een minimale reservatietermijn opleggen   die moet verstrijken tussen de reservatie van de rit en de uitvoering van de   rit. Die termijn kan evenwel niet meer dan twee werkdagen   bedragen.</P>
+
+### ART. 23.
+
+<P>De vervoerder zorgt ervoor dat de wachttijden voor de gebruiker zo beperkt   mogelijk blijven. <BR></P>  <P>Voor het gegroepeerd vervoer, vermeld in artikel 7, § 2, eerste lid, 4°, van   het decreet van 21 december 2012, kan afgeweken worden van het gevraagde   tijdstip van vertrek. De afwijking kan niet meer bedragen dan 15 minuten. Een   gewijzigde route vanwege het gegroepeerd vervoer kan niet leiden tot een   vertraging van meer dan 30 minuten. Als het gegroepeerd vervoer een wijziging   van het gevraagde tijdstip van vertrek of aankomst tot gevolg heeft, brengt de   vervoerder de gebruiker daarvan onmiddellijk op de hoogte.</P>
+
+### ART. 24.
+
+<P>Voor ze effectief gebruikers kunnen vervoeren, volgen de bestuurders een   opleiding van minimaal 35 uur. De vervoerder zorgt voor de opleiding, die   bestaat uit een theoretisch en een praktisch gedeelte.</P>  <P><BR>Bovendien volgen de bestuurders een permanente vorming van minimaal zes   uur per jaar.<BR></P>  <P>De minister kan de vereiste vakkennis bepalen.</P>
+
+### ART. 25.
+
+<P>Bij de uitvoering van de openbaredienstverplichting kan de vervoerder aan de   gebruiker alleen de tarieven aanrekenen die hij aan de administratie heeft   bezorgd in zijn aanvraag om op de lijst, vermeld in artikel 3, te worden   geplaatst als vermeld in artikel 7. Die bedragen die de vervoerder kan   aanrekenen voor het vervoer, bedragen :<BR>1° voor een gebruiker met rolstoel   :<BR>a) minimaal 0 euro en maximaal 2 euro als instapgeld;<BR>b) minimaal 0 euro   en maximaal 1 euro per gereden kilometer tot en met 25 kilometer;<BR>c) minimaal   0 euro en maximaal 1,75 euro per gereden kilometer vanaf 26 kilometer tot en met   50 kilometer;<BR>2° voor een gebruiker zonder rolstoel :<BR>a) minimaal 0 euro   en maximaal 2 euro instapgeld;<BR>b) minimaal 65 eurocent en maximaal 1,50 euro   per gereden kilometer tot en met 25 kilometer;<BR>c) minimaal 90 eurocent en   maximaal 1,75 euro per gereden kilometer vanaf 26 kilometer tot en met 50   kilometer.<BR></P>  <P>Vanaf 51 kilometer kan de vervoerder het tarief per gereden kilometer vrij   bepalen.<BR></P>  <P>De vervoerder kan geen andere vergoedingen aan de gebruiker aanrekenen dan de   vergoedingen, vermeld in het eerste en het tweede lid.</P>
+
+### ART. 26.
+
+Een persoon die beschikt over een kaart Kosteloze Begeleider, uitgereikt   door de NMBS, of een vergelijkbare officiële begeleiderskaart, een   assistentiehond of blindengeleidehond wordt voor het volledige traject gratis   vervoerd als hij een gebruiker begeleidt. De vervoerder ontvangt geen   compensatie als vermeld in artikel 17, voor het vervoer van de begeleider,   assistentiehond of blindengeleidehond.
 
 ## Afdeling 3. Aanvraag tot compensatie
 
+### ART. 27.
+
+<P>Iedere maand of ieder kwartaal kan de vervoerder een aanvraag tot compensatie   indienen. De aanvraag wordt met een gewone brief, met een aangetekende brief of   elektronisch aan de administratie bezorgd.<BR></P>  <P>In de aanvraag voor het verkrijgen van compensaties vermeldt de vervoerder de   volgende gegevens :<BR>1° de voor- en achternaam of benaming van de   aanvrager;<BR>2° het ondernemingsnummer van de aanvrager;<BR>3° het adres van de   aanvrager;<BR>4° de contactgegevens van de aanvrager;<BR>5° het vervoersgebied   waarop de aanvraag betrekking heeft;<BR>6° het totale bedrag van de   compensatie;<BR>7° het bankrekeningnummer waarop de compensatie wordt   gestort;<BR>8° de gehanteerde tarieven;<BR>9° een overzicht van de bestuurders   die worden ingezet bij de uitvoering van de openbaredienstverplichting;<BR>10°   de gegevens en de uitrusting van de voertuigen die ingezet worden voor de   openbaredienstverplichting;<BR>11° de dagen en uren waarop de voertuigen ingezet   worden;<BR>12° de contactgegevens en openingstijden van de centrale.<BR></P>  <P>Bij de aanvraag voegt de vervoerder per voertuig een tabel met een overzicht   van de uitgevoerde ritten. In die tabel worden de volgende elementen opgenomen   :<BR>1° de datum waarop de rit werd uitgevoerd;<BR>2° het adres en tijdstip van   vertrek;<BR>3° het adres en tijdstip van aankomst;<BR>4° het aantal betalende   rolstoelgebruikers;<BR>5° het aantal betalende personen met een handicap of   ernstig beperkte mobiliteit die niet in de eigen rolstoel vervoerd worden;   <BR>6° het totale bedrag dat werd betaald door de gebruiker;<BR>7° de gereden   kilometers, berekend volgens de snelste route met een routeplanner naar   keuze;<BR>8° het bedrag voor een korte rit, vermeld in artikel 17, vierde   lid;<BR>9° de totale compensatie voor de rit.<BR></P>  <P>De schuldvordering voor de totale compensatie omvat de optelsom van de   compensaties voor elke uitgevoerde rit.<BR></P>  <P>Als de vervoerder voor het desbetreffende vervoersgebied al eerder een   aanvraag tot het verkrijgen van compensaties heeft ingediend en de gegevens,   vermeld in het tweede lid, zijn ongewijzigd gebleven, kan de vervoerder een   beperkte aanvraag indienen. Een beperkte aanvraag bevat de gegevens, vermeld in   het tweede lid, 1° tot en met 6° en de tabel, vermeld in het derde lid.<BR></P>  <P>De minister stelt het model van aanvraagformulier vast.</P>
+
 ## Afdeling 4. Overcompensatie
+
+### ART. 28.
+
+<P>Uiterlijk op 31 maart van ieder jaar bewijst de gecompenseerde vervoerder dat   de ontvangen compensatie in het voorgaande werkingsjaar geen aanleiding heeft   gegeven tot overcompensatie. De vervoerder geeft daarvoor een volledig overzicht   van de kosten en inkomsten van het voorgaande werkingsjaar. De inkomsten   omvatten zowel de inkomsten uit de dienstverlening als andere inkomsten, zoals   subsidies of compensaties.<BR></P>  <P>Als bewijs van de niet-overcompensatie vult de gecompenseerde vervoerder een   formulier in dat met een gewone brief, met een aangetekende brief of   elektronisch aan de administratie wordt bezorgd. Bij het formulier voegt de   vervoerder de goedgekeurde jaarrekening en de eindbalans van het voorgaande   boekjaar.<BR></P>  <P>De minister stelt het model van formulier vast.</P>
+
+### ART. 29.
+
+Als op basis van het formulier, vermeld in artikel 28, en de goedgekeurde   jaarrekening en eindbalans van het voorgaande boekjaar blijkt dat de vervoerder   werd overgecompenseerd, wordt de overcompensatie teruggevorderd of wordt de   volgende compensatie verminderd met het bedrag dat overcompensatie   uitmaakt.
+
+### ART. 30.
+
+Als de vervoerder het formulier, vermeld in artikel 28, niet of niet   tijdig aan de administratie bezorgt, wordt de totale compensatie geacht   overcompensatie te zijn.
 
 ## HOOFDSTUK 4. Overlegorgaan
 
