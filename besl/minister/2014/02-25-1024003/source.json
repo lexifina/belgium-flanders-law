@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024003,
+  "title": "Ministerieel besluit van 2014-02-25 betreffende toewijzing van het aantal modules aan de vergunde diensten voor pleegzorg en de financiering voor de samenwerking met een psychiatrisch ziekenhuis",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024003/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "b36ee92b4cbafcaaead1a48390e535e9ff5b9879ef172d192bb3a5cb50fc078f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024003&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-02-25",
+  "gazette": "2014-04-10",
+  "numac": 2014035296,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
