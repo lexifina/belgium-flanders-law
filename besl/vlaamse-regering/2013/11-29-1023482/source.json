@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023482,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot wijziging van het besluit van de Vlaamse Regering van 28 juli 1983 tot vaststelling van de financiële bijdrage van de personen met een handicap, geplaatst ten laste van het Vlaams Agentschap voor Personen met een Handicap, wat betreft de bijdrage van personen met een handicap die ondersteund worden door een pleeggezin en een dagcentrum",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023482/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "9246a5165844e148b2b494a2ef15e0b06e3fa0fde2ae948f85b00217c2177d71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023482&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-11-29",
+  "gazette": "2013-12-18",
+  "numac": 2013206892,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
