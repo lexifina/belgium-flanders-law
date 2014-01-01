@@ -2,16 +2,16 @@
   "codex_id": 1000978,
   "title": "Decreet van 1993-06-30 houdende bescherming van het archeologisch patrimonium",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000978/VolledigDocument?datum=2011-12-23",
-  "source_sha256": "7033652ff864ec2997c992199530737b66eb4298dc028b564749fd1732a31108",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000978/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "d40b9a7c91b7782c7871e8dabde12fab9b234879f5dc2362d019099fa8af7ec8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000978&param=informatie",
-  "as_of": "2011-12-23",
+  "as_of": "2014-01-01",
   "made": "1993-06-30",
   "gazette": "1993-09-15",
   "numac": 1993035970,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-12-23",
+  "in_force": "2014-01-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2011-12-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
