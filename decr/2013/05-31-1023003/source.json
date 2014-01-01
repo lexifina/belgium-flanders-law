@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023003,
+  "title": "Decreet van 2013-05-31 houdende toekenning van bepaalde bevoegdheden aan de provincies in de aangelegenheden, vermeld in artikel 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023003/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "9f524a67cef8db6fa80ecc1c57686c18e9c31319f8a986e203ff3caf2dd37088",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023003&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-05-31",
+  "gazette": "2013-06-21",
+  "numac": 2013035527,
+  "document_start": "2014-01-01",
+  "document_end": "2017-12-31",
+  "in_force": "2014-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
