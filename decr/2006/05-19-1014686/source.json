@@ -2,16 +2,16 @@
   "codex_id": 1014686,
   "title": "Decreet van 2006-05-19 betreffende de oprichting en de werking van het Fonds voor Landbouw en Visserij",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014686/VolledigDocument?datum=2009-05-04",
-  "source_sha256": "c7e7e91642bbf9e145af3a7f40695056020d9298b111b48a8ea531e1e4d62690",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014686/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "37d3fa228a44856573de468dfc2986b5fcd6e3f6820abffe16cb99b7e73901bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014686&param=informatie",
-  "as_of": "2009-05-04",
+  "as_of": "2014-01-01",
   "made": "2006-05-19",
   "gazette": "2006-07-18",
   "numac": 2006036104,
   "document_start": "2006-01-01",
   "document_end": null,
-  "in_force": "2009-05-04",
+  "in_force": "2014-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2009-05-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
