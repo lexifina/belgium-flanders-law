@@ -142,11 +142,11 @@ Het meerjarenplan wordt met een tweederde meerderheid goedgekeurd door de stuurg
 
 ### ART. 26.
 
-Onder voorbehoud van de toepassing van artikellen 29 en 30 van het decreet en onder voorbehoud van de toepassing van artikel 27, kan een integratiedienst pas voor erkenning en subsidiëring in aanmerking komen, als aan de hierna vermelde voorwaarden is voldaan:<br /><br />1° het interne overleg, zoals bepaald in artikel 29, § 1, 4°, van het decreet, wordt onder de verantwoordelijkheid van de schepen, bevoegd voor het minderhedenbeleid, georganiseerd, waarbij de departementen of diensten die met de doelgroepen te maken hebben, worden betrokken;<br /><br />2° over de taakverdeling en de samenwerking, tussen de integratiedienst en het lokale steunpunt of het provinciale of lokale integratiecentrum, zoals vastgelegd in de samenwerkingsovereenkomst, bedoeld in artikel 29, § 1, 5°, van het decreet, wordt regelmatig overleg gepleegd en wordt er jaarlijks een evaluatie opgenomen in het verslag, bedoeld in artikel 63, § 1, 1°.<br /><br />In het gemeentelijk beleidsplan worden de resultaten opgegeven waartoe het interne overleg, bedoeld in 1°, in de periode, bedoeld in artikel 30, § 2, van het decreet, moet leiden.
+<P>...</P>
 
 ### ART. 27.
 
-§ 1. Onder voorbehoud van de toepassing van artikel 30, § 1, van het decreet wordt in het gemeentelijk beleidsplan aangegeven hoe het lokale minderhedenbeleid in de periode, bedoeld in artikel 30, § 2, van het decreet, verder zal worden uitgewerkt.<br /><br />Uitgaand van een analyse van de aanwezigheid van de onderscheiden doelgroepen van het minderhedenbeleid binnen de gemeente, wordt in het gemeentelijk beleidsplan aangegeven welke initiatieven in de komende periode genomen zullen worden om de doelstellingen van het minderhedenbeleid op lokaal vlak te realiseren. Daarbij worden de volgende elementen vermeld:<br /><br />1° een verantwoording van de keuze van de doelstellingen, onder meer door een situering ten opzichte van de aanwezigheid en de behoeften van de doelgroepen in de gemeente, het strategisch plan, de bestaande beleidsplannen inzake de bestrijding van de achterstelling en het verhogen van het welzijn en de leefkwaliteit in de gemeente en het jeugdwerkbeleidsplan en ten opzichte van het meerjarenplan van het integratiecentrum in kwestie en, in voorkomend geval, van de cel voor vluchtelingenwerk of voor woonwagenwerk;<br /><br />2° de te verwachten resultaten en de methodieken die gehanteerd zullen worden om deze resultaten te bereiken;<br /><br />3° het tijdstip en de wijze waarop de activiteiten of initiatieven geëvalueerd zullen worden;<br /><br />4° de taakafspraken terzake met het integratiecentrum in kwestie en, in voorkomend geval, met het lokale steunpunt of met de cellen voor vluchtelingenwerk of woonwagenwerk;<br /><br />5° de wijze waarop de in de gemeente aanwezige doelgroepen, het integratiecentrum, de relevante lokale actoren, zoals de sectoren huisvesting, onderwijs en tewerkstelling en, in voorkomend geval, de lokale steunpunten betrokken werden bij de totstandkoming van de planning en betrokken zullen worden bij de voortgangsbewaking en evaluatie ervan in het kader van het lokale overleg.<br /><br />§ 2. In het gemeentelijk beleidsplan, met uitzondering van het eerste beleidsplan, wordt voor elk onderdeel van het plan de ontwikkeling ten opzichte van het vorige plan aangegeven en wordt aangegeven welke initiatieven worden voortgezet, bijgestuurd, geherorinteerd of beëindigd en welke nieuwe initiatieven zullen worden ontwikkeld.<br /><br />§ 3. De samenwerkingsovereenkomst, bedoeld in artikel 29, § 1, 5°, van het decreet, en het advies, bedoeld in § 4, worden als bijlage bij het gemeentelijk beleidsplan gevoegd.<br /><br />§ 4. Het advies, bedoeld in artikel 30, § 3, van het decreet, wordt door het provinciale of lokale integratiecentrum uitgebracht binnen twee maanden nadat het gemeentelijk beleidsplan aan het centrum werd bezorgd. Het advies wordt als bijlage bij het gemeentelijk beleidsplan gevoegd. Als het advies niet binnen de voornoemde termijn wordt uitgebracht, wordt het geacht gunstig te zijn.
+<P>...</P>
 
 ## AFDELING 2 DE LOKALE STEUNPUNTEN
 
@@ -154,31 +154,31 @@ Onder voorbehoud van de toepassing van artikellen 29 en 30 van het decreet en on
 
 ### ART. 28.
 
-§ 1. Wanneer binnen de gemeente een integratiedienst erkend is, maakt het lokale steunpunt, in overleg met het integratiecentrum in kwestie, met de integratiedienst afspraken over samenwerking en taakverdeling, zoals bepaald in artikel 26, 2°.<br /><br />§ 2. Als in het werkgebied vluchtelingen of woonwagenbewoners aanwezig zijn, moet het lokale steunpunt, over de werking die voor deze doelgroepen ontplooid wordt, overleggen met de cel in kwestie voor vluchtelingenwerk of voor woonwagenwerk, naar gelang van het geval.
+<P>...</P>
 
 ### ART. 29.
 
-Onder voorbehoud van de toepassing van artikel 35, § 2, van het decreet wordt in het lokale actieplan van een lokaal steunpunt puntsgewijs aangegeven welke initiatieven het steunpunt zal nemen ter uitvoering van de opdrachten, bedoeld in artikel 34, § 1, van het decreet.<br /><br />Voor elk van die initiatieven worden de volgende elementen opgegeven:<br /><br />1° een verantwoording van de keuze van de activiteiten, onder meer door een situering ten opzichte van de aanwezigheid en de behoeften van de doelgroepen in de gemeente of de buurt, ten opzichte van het strategisch plan, het meerjarenplan van het integratiecentrum in kwestie, het gemeentelijk beleidsplan voor lokaal minderhedenbeleid en, in voorkomend geval, het meerjarenplan van de cel in kwestie voor vluchtelingenwerk of voor woonwagenwerk;<br /><br />2° de te verwachten resultaten;<br /><br />3° het tijdstip en de wijze waarop de activiteiten of initiatieven geëvalueerd zullen worden;<br /><br />4° de taakafspraken terzake met het integratiecentrum in kwestie en, in voorkomend geval, met de cel voor vluchtelingenwerk of woonwagenwerk;<br /><br />5° in voorkomend geval, de taakafspraken met de integratiedienst;<br /><br />6° de wijze waarop de doelgroepen en de relevante actoren betrokken werden bij de totstandkoming van de planning en betrokken zullen worden bij de voortgangsbewaking en evaluatie ervan.
+<P>...</P>
 
 ### ART. 30.
 
-§ 1. Het lokale actieplan vermeldt tevens de afspraken inzake samenwerking en taakverdeling die voortvloeien uit het overleg, bedoeld in artikel 28, § 2.<br /><br />§ 2. Het lokale actieplan, met uitzondering van het eerste actieplan, geeft voor elk onderdeel van het plan de ontwikkeling aan ten opzichte van het vorige plan met opgave van de initiatieven die zullen worden voortgezet, bijgestuurd, geheroriënteerd of beëindigd en van de nieuwe initiatieven die zullen worden ontwikkeld.<br /><br />§ 3. Het lokale actieplan verantwoordt de samenstelling van de stuurgroep, conform artikel 32, waarbij wordt aangegeven welke inspanningen zullen worden geleverd om de doelgroepen, vrouwen en jongeren, erin op te nemen.<br /><br />§ 4. Het advies, bedoeld in artikel 31, eerste lid, wordt als bijlage bij het lokale actieplan gevoegd.
+<P>...</P>
 
 ### ART. 31.
 
-Het lokale actieplan wordt voorgelegd aan de gemeenteraad, die binnen twee maanden nadat het plan werd bezorgd, daarover een advies uitbrengt. Het lokale steunpunt geeft aan op welke wijze met het advies rekening wordt gehouden. Als het advies niet binnen die termijn wordt uitgebracht, wordt het geacht gunstig te zijn.<br /><br />Nadat de stuurgroep van het lokale steunpunt met een tweederde meerderheid het lokale actieplan heeft goedgekeurd, dient hij het plan in bij het provinciale of lokale integratiecentrum, naar gelang van het geval.
+<P>...</P>
 
 ## ONDERAFDELING B DE SAMENSTELLING VAN DE STUURGROEP
 
 ### ART. 32.
 
-§ 1. De stuurgroep van het lokale steunpunt is samengesteld uit:<br /><br />1° minstens één derde is lid van de doelgroep en kan door zijn deskundigheid, zijn positie of door zijn activiteiten en ervaring in een organisatie van etnisch-culturele minderheden een reële bijdrage leveren aan de realisatie van de doelstellingen van het lokale steunpunt;<br /><br />2° een vertegenwoordiger van het integratiecentrum in kwestie;<br /><br />3° een vertegenwoordiging van de lokale overheid;<br /><br />4° personen die actief zijn in de sectoren die relevant zijn voor het lokale minderhedenbeleid.<br /><br />§ 2. De minister kan bepalen welke lokale actoren in de stuurgroep opgenomen moeten worden.<br /><br />§ 3. De stuurgroep kan samenvallen met het bestuur van een lokale vereniging, als de samenstelling ervan voldoet aan de voorwaarden, bedoeld in § 1, en als de vereniging de opdrachten van een lokaal steunpunt, zoals bepaald in het decreet, onderschrijft. In dat geval wordt in het actieplan aangegeven hoe de actie van het lokale steunpunt samenhangt met de totaliteit van de activiteiten van deze vereniging.
+<P>...</P>
 
 ## ONDERAFDELING C HET WERKGEVERSCHAP VAN HET PERSONEEL WERKZAAM IN DE LOKALE STEUNPUNTEN
 
 ### ART. 33.
 
-§ 1. Het provinciale of lokale integratiecentrum, naar gelang van het geval, treedt op als werkgever van het personeel dat in een lokaal steunpunt werkt.<br /><br />§ 2. Tussen de stuurgroep van het lokale steunpunt en het integratiecentrum in kwestie wordt een overeenkomst gesloten waarin afspraken zijn opgenomen over het personeel, het bewaken van de uitvoering van het actieplan en de aanwending en afrekening van de subsidies, bedoeld in titel IV.
+<P>...</P>
 
 ## AFDELING 3 DE LOKALE INTEGRATIECENTRA
 
@@ -274,7 +274,7 @@ De minister kan een programmatie opstellen voor:<br /><br />1° de integratiecen
 
 ### ART. 51.
 
-Afhankelijk van de beschikbare begrotingskredieten en overeenkomstig de bepalingen van het decreet en van dit besluit, kent de minister aan het Vlaamse overlegcentrum, aan de erkende provinciale en lokale integratiecentra en aan de erkende integratiediensten een subsidie-enveloppe toe voor infrastructuur, werkings- en personeelskosten op basis van de overeenkomst, bedoeld in artikel 62, § 1. De minister bepaalt de grootte van de subsidie-enveloppe.
+Afhankelijk van de beschikbare begrotingskredieten en overeenkomstig de   bepalingen van het decreet en van dit besluit, kent de minister aan het Vlaamse   overlegcentrum, aan de erkende provinciale en lokale integratiecentra en aan de   erkende integratiediensten een subsidie-enveloppe toe voor infrastructuur,   werkings- en personeelskosten op basis van de overeenkomst, bedoeld in artikel   62, § 1. De minister bepaalt de grootte van de subsidie-enveloppe.<BR><BR>Voor   het kalenderjaar 2014 is de subsidie-enveloppe voor de erkende provinciale en   lokale integratiecentra, vermeld in het eerste lid, samengesteld uit de volgende   twee delen: <BR>1° het subsidiebedrag dat de minister toekent aan het   integratiecentrum en dat gelijk is aan de subsidie-enveloppe, verminderd met de   te benutten reserves, vermeld in punt 2° ;<BR>2° de door het integratiecentrum   te benutten reserves, voor zover de opgebouwde reserves, vermeld in artikel 60,   eerste lid, op 31 december 2013 meer bedragen dan 20 % van de subsidie-enveloppe   voor het kalenderjaar 2014. De minister bepaalt de te benutten reserves op basis   van het financiële jaarverslag, vermeld in artikel 67, § 1, van het werkjaar   2013. De minister zal de toegelaten maximumgrens van de opgebouwde reserves   uitzonderlijk optrekken als de vermindering van de subsidie-enveloppe met de te   benutten reserves ertoe zou leiden dat het nettobedrijfskapitaal van het   integratiecentrum negatief wordt.<BR><BR>In het tweede lid, 2°, wordt verstaan   onder opgebouwde reserves: de reserves die het integratiecentrum opgebouwd heeft   na 1 januari 2000 met subsidies, toegekend op basis van het   decreet.
 
 ### ART. 52.
 
@@ -310,7 +310,7 @@ Binnen de perken van de begrotingskredieten worden de subsidie-enveloppen evenee
 
 ### ART. 60.
 
-Als de subsidies van een centrum, toegekend op basis van dit besluit, voor een bepaald jaar niet volledig werden aangewend, moet het centrum hiermee reserves opbouwen. Die reserves moeten worden aangewend om uitgaven te financieren die bijdragen tot de realisatie van de taken van het centrum. Met deze reserves moet in de eerste plaats de wettelijk bepaalde voorziening voor vakantiegeld worden aangelegd.<br /><br />De concrete aanwending ervan wordt door de administratie nagegaan in het kader van het toezicht. Reserves, opgebouwd na 1 januari 2000, die op het ogenblik van het afsluiten van het boekjaar meer bedragen dan de jaarlijkse subsidie-enveloppe, worden ten belope van het bedrag dat de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse Gemeenschap.
+Als de subsidies van een centrum, toegekend op basis van dit besluit, voor   een bepaald jaar niet volledig werden aangewend, moet het centrum hiermee   reserves opbouwen. Die reserves moeten worden aangewend om uitgaven te   financieren die bijdragen tot de realisatie van de taken van het centrum. Met   deze reserves moet in de eerste plaats de wettelijk bepaalde voorziening voor   vakantiegeld worden aangelegd.<BR><BR>De concrete aanwending ervan wordt door de   administratie nagegaan in het kader van het toezicht. Reserves, opgebouwd na 1   januari 2000, die op het ogenblik van het afsluiten van het boekjaar meer   bedragen dan de jaarlijkse subsidie-enveloppe, worden ten belope van het bedrag   dat de jaarlijkse subsidie-enveloppe overschrijdt, teruggestort aan de Vlaamse   Gemeenschap.<BR><BR>In afwijking van het tweede lid kunnen de reserves voor het   kalenderjaar 2014 maximaal 20 % bedragen voor de subsidie-enveloppe voor 2014.   Artikel 51, tweede lid, 2°, is van overeenkomstige toepassing.
 
 ## HOOFDSTUK II DE SUBSIDIËRINGSVOORWAARDEN
 
@@ -340,7 +340,7 @@ Bij vastgestelde afwending van de toegekende subsidie of voorschotten kan de min
 
 ### ART. 66.
 
-Het Vlaamse overlegcentrum, de provinciale en lokale integratiecentra en de integratiediensten ontvangen een voorschot van 90 % van de geraamde subsidies voor het kalenderjaar. Dat voorschot wordt zo snel mogelijk na de goedkeuring van de uitgavenbegroting van de Vlaamse Gemeenschap uitbetaald.
+<P>&nbsp;§ 1. Voor het kalenderjaar 2014 wordt de subsidie aan het   integratiecentrum uitbetaald in twee voorschotten en een saldo.<BR><BR>Het   eerste voorschot van 40 % van de toegekende subsidie-enveloppe, vermeld in   artikel 51, eerste lid, wordt bij de aanvang van het werkjaar   uitbetaald.<BR><BR>Het tweede voorschot wordt uitbetaald voor 1 juli 2014. Het   tweede voorschot is gelijk aan 50 % van de toegekende subsidie-enveloppe,   vermeld in artikel 51, eerste lid, verminderd met de te benutten reserves,   vermeld in artikel 51, tweede lid, 2°. <BR><BR>Het saldo van 10 % van de   subsidie-enveloppe, vermeld in artikel 51, eerste lid, wordt uitbetaald voor 1   september 2015, na controle en goedkeuring van het verslag, vermeld in artikel   67, § 1. Bij de berekening van het saldo wordt rekening gehouden met de   uitgekeerde voorschotten. Als de uitgekeerde voorschotten hoger zijn dan de   subsidie, wordt het verschil teruggevorderd. <BR><BR>§ 2. Als een   integratiecentrum in de loop van het kalenderjaar 2014 overgaat naar het EVA,   zal, in afwijking van paragraaf 1, derde en vierde lid, bij de overgang het   definitieve saldo worden bepaald. <BR><BR>Als het definitieve saldo meer   bedraagt dan 10 % van de subsidie-enveloppe, zal het bedrag dat die 10 %   overstijgt, voor 1 december 2014 uitbetaald worden.<BR><BR>Het saldo van 10 %   zal voor 1 september 2015 uitbetaald worden aan het EVA.<BR><BR>In het eerste en   derde lid wordt verstaan onder EVA: het privaatrechtelijk vormgegeven extern   verzelfstandigd agentschap, vermeld in artikel 16 van het decreet van 7 juni   2013 betreffende het Vlaamse integratie- en   inburgeringsbeleid.</P>
 
 ### ART. 67.
 
@@ -348,7 +348,7 @@ Het Vlaamse overlegcentrum, de provinciale en lokale integratiecentra en de inte
 
 ### ART. 68.
 
-§ 1. De definitieve subsidie wordt berekend overeenkomstig de bepalingen van dit besluit, na ontvangst van het financiële verslag, bedoeld in artikel 67, § 1.<br /><br />§ 2. Het saldo van de subsidie wordt uitbetaald vóór 1 september van het daaropvolgende activiteitenjaar, na controle en goedkeuring van het financiële verslag, bedoeld in artikel 67, § 1.<br />Als de uitgekeerde voorschotten hoger zijn dan de subsidie, wordt het verschil teruggevorderd.
+§ 1. De definitieve subsidie wordt berekend overeenkomstig de bepalingen   van dit besluit, na ontvangst van het financiële verslag, bedoeld in artikel 67,   § 1.<BR><BR>§ 2. Het saldo van de subsidie wordt uitbetaald vóór 1 september van   het daaropvolgende activiteitenjaar, na controle en goedkeuring van het   financiële verslag, bedoeld in artikel 67, § 1.<BR>Als de uitgekeerde   voorschotten hoger zijn dan de subsidie, wordt het verschil   teruggevorderd.<BR><BR>§ 3. Voor het kalenderjaar 2014 zijn paragraaf 1 en   paragraaf 2 niet van toepassing op de erkende provinciale en lokale   integratiecentra.
 
 ## TITEL V BIJZONDERE BEPALINGEN
 

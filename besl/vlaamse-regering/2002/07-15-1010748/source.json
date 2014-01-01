@@ -2,16 +2,16 @@
   "codex_id": 1010748,
   "title": "Besluit van de Vlaamse Regering van 2002-07-15 betreffende de erkenning en subsidiëring van de centra en diensten voor het Vlaamse minderhedenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010748/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "20bc0bebd021e323b7cf79c818617850f498198394c52e466715273a98bd8187",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010748/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "77a98a046f2fda5d9d4ca52afc11fd29b5be0574b70bd528ddf33a1be5e13eed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010748&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2002-07-15",
   "gazette": "2003-02-26",
   "numac": 2003035248,
   "document_start": "2002-01-01",
   "document_end": "2019-07-28",
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 83,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
