@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024297,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot wijziging van diverse besluiten ter uitvoering van opdracht van de bevoegdheid inzake het voeren van een specifiek grond- en woonbeleid voor Vlaams-Brabant aan de Provincie Vlaams-Brabant",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024297/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "b8dba118ca8e25ffc3bf0844c866c569146d699f08431c314b14977adc77adfc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024297&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-04-04",
+  "gazette": "2014-07-11",
+  "numac": 2014203633,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
