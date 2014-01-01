@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024486,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen en het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken, wat betreft de opname van personen met een handicap met een niet-aangeboren hersenletsel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024486/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "46a4654ab9bec399c81222bd2852c17917ba2bf9c85e1eba6131b7259ec75996",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024486&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-06-20",
+  "gazette": "2014-08-29",
+  "numac": 2014035963,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
