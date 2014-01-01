@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028392,
+  "title": "Decreet van 2017-06-30 houdende diverse bepalingen inzake omgeving, natuur en landbouw",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028392/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "194cec69cad67de1bc6a21a4505fe9399299708f6b9bacc69ee41aa95c75d35a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028392&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2017-06-30",
+  "gazette": "2017-07-07",
+  "numac": 2017040349,
+  "document_start": "2017-07-17",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
