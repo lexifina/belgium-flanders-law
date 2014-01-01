@@ -6,20 +6,20 @@ Gelet op de specifieke bevoegdheden waarover de Federale overheid en de Overhede
 
 ### ART. 1.
 
-Artikel 7, 7°, wordt vervangen door :<br /><br />De uitbetaling van de bedragen toegekend in het kader van de cofinanciering gebeurt ofwel rechtstreeks aan de Gemeenschap die het preventieprogramma met cofinanciering organiseert, of via de ziekenfondsen en in dat geval steeds met toepassing van de derdebetalersregeling. De concrete betalingsmodaliteiten worden per programma bepaald.<br /><br />De federale minister engageert zich om de derdebetalersregeling aan te passen voor de preventieprogramma's zodat deze werkwijze mogelijk gemaakt wordt.<br /><br />Een veralgemeende toegang tot de preventieprogramma's voor alle personen in de doelgroep, ook zij die niet verzekerd zijn, dient zoveel mogelijk nagestreefd te worden. De tussenkomst van het RIZIV voor de terugbetaling van geneeskundige verstrekkingen in het kader van de preventieprogramma's zal dan ook zowel gelden voor personen die verzekerd zijn in de verplichte ziekteverzekering als voor de niet-verzekerden.
+...
 
 ### ART. 2.
 
-Artikel 8, § 2, wordt vervangen door :<br /><br />§ 2. De federale minister informeert de Gemeenschappen over initiatieven om, al dan niet in het kader van de RIZIV-wetgeving, aspecten van de organisatie of financiering van de gezondheidszorg te regelen of te wijzigen die een rechtstreekse impact hebben op preventieprogramma's, bijvoorbeeld de preventiemodule in het GMD en de homologatie van de betreffende software.<br /><br />Bij voorstellen van initiatieven met een duidelijke impact op preventieprogramma's wordt een overleg georganiseerd en is afstemming tussen de federale minister en de gemeenschapsminister over deze initiatieven noodzakelijk alvorens zij opgestart worden.
+...
 
 ### ART. 3.
 
-Artikel 19, § 2, wordt vervangen door :<br /><br />§ 2. De Gemeenschappen verbinden zich ertoe een 'fail-safe' call-recall systeem uit te bouwen ter optimalisering van de participatie van de doelpopulatie. Op basis van de beschikbare gegevens, met inbegrip van het cytohistopathologisch register, worden, zo veel als mogelijk, enkel die vrouwen uitgenodigd waarvoor een uitstrijkje echt aangewezen is.
+...
 
 ### ART. 4.
 
-Artikel 22, § 3, 2° wordt vervangen door :<br /><br />§ 3. De Gemeenschappen verbinden zich ertoe :<br /><br />2° in te staan voor een efficiënte verdeling van het materiaal nodig voor de uitvoering van de FOB-test. Bij een negatief screeningsresultaat wordt tweejaarlijks een FOB-test aangeboden.
+...
 
 ### ART. 5.
 
-Dit aanhangsel verlengt het protocolakkoord van 28 september 2009 inzake preventie; treedt in werking vanaf 1 januari 2012 tot en met 31 december 2013 en zal herzien worden uiterlijk op 31 december 2013.
+...
