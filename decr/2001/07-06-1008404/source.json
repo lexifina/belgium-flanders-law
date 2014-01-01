@@ -2,16 +2,16 @@
   "codex_id": 1008404,
   "title": "Decreet van 2001-07-06 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008404/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "88cae0e693feb82954b2510e8f8126ae0cf006020ce9bb3343df9d15eb27db04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008404/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "be8176f32fbceaa8da3c1f8586f5ecf9dc66182f522ba5690e1b6eab8f78b56e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008404&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2001-07-06",
   "gazette": "2001-10-10",
   "numac": 2001036137,
   "document_start": null,
   "document_end": null,
-  "in_force": "2013-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
