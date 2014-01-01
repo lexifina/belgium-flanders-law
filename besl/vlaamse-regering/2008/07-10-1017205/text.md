@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de minderjarige die aan de volgende voorwaarden voldoet :<br />1° de minderjarige wordt opgevangen in een internaat of pleeggezin, erkend en gesubsidieerd door het Vlaams Agentschap voor Personen met een Handicap;<br />2° aan de minderjarige wordt residentiële hulpverlening geboden ter uitvoering van een beschikking van de jeugdrechtbank of verwijzing door het Comité voor Bijzondere Jeugdbijstand.<br /><br />
+Dit besluit is van toepassing op de minderjarige die aan de volgende   voorwaarden voldoet :<BR>1° de minderjarige wordt opgevangen in een internaat,   erkend en gesubsidieerd door het Vlaams Agentschap voor Personen met een   Handicap;<BR>2° aan de minderjarige wordt residentiële hulpverlening geboden ter   uitvoering van een beschikking van de jeugdrechtbank of verwijzing door het   Comité voor Bijzondere Jeugdbijstand.<BR><BR>
 
 ### ART. 2.
 
