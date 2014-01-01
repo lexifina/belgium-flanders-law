@@ -258,7 +258,7 @@ Kind en Gezin onderzoekt de ontvankelijkheid van het beroepschrift. Binnen   vij
 
 ### ART. 52.
 
-<P>Overeenkomstig artikel 7 en volgende van het besluit van de Vlaamse Regering   van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins-   en welzijnsaangelegenheden, bezorgt Kind en Gezin het ontvankelijke   beroepsschrift, samen met het volledige administratieve dossier en eventuele   verweermiddelen, aan de adviserende beroepscommissie inzake gezins- en   welzijnsaangelegenheden. Kind en Gezin bezorgt tegelijkertijd een kopie van het   beroepschrift aan de minister.<BR></P>  <P>Het beroep wordt verder behandeld volgens de procedure, vermeld in het   genoemde besluit.<BR></P>
+<P>Het beroepschrift wordt verder behandeld volgens de regels die zijn   vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.</P>
 
 ## HOOFDSTUK 5 Subsidiëring
 
