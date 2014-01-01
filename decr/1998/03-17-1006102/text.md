@@ -44,7 +44,7 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 10.
 
-Afhankelijk van de beschikbare begrotingskredieten voorziet de Vlaamse regering in een steunregeling tot aanmoediging van de toepassing door landbouwers van milieuvriendelijke landbouwproductiemethoden, met inbegrip van de bescherming van de genetische diversiteit.<br /><br />De Vlaamse regering bepaalt de aard, de inhoud en de toepassing van deze steunregeling evenals de aanvraagprocedure voor de subsidie.
+<P>...</P>
 
 ## HOOFDSTUK IV TEWERKSTELLING
 
