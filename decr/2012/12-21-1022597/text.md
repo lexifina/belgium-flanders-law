@@ -26,7 +26,7 @@ In artikel 7, § 1, van het decreet van 23 mei 2008 houdende bepalingen tot   be
 
 ### ART. 6.
 
-<P>De provincies en de gemeenten die ingevolge de toepassing van artikel 464 van   het Wetboek van de Inkomstenbelastingen 1992 opcentiemen op de onroerende   voorheffing heffen, en die ingevolge de toepassing van artikel 2 tot en met 4   van dit decreet die opbrengsten derven in vergelijking met de regeling die van   toepassing was vóór het aanslagjaar 2009, worden daarvoor volledig vergoed door   het Vlaamse Gewest.<BR></P>  <P>De Vlaamse Regering bepaalt voor de vergoeding, vermeld in het eerste lid, de   nadere uitvoeringsregels.<BR></P>
+<P>...</P>
 
 ## HOOFDSTUK 3 Slotbepaling
 

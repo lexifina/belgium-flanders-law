@@ -2,16 +2,16 @@
   "codex_id": 1022597,
   "title": "Decreet van 2012-12-21 tot wijziging van artikel 257, 258 en 376 van het Wetboek van de inkomstenbelastingen 1992 en artikel 7 van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008, wat de vermindering van de onroerende voorheffing voor energiezuinige gebouwen betreft",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022597/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "61ccee2b7da8851bf9778fb70d1ea6cf03027b885de5bc4656d9d1adccac08d4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022597/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "bc55fc4429339c3eb0ba6c938a98447ccbebb8907de1a370b5b4aea2354ffe80",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022597&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2012-12-21",
   "gazette": "2013-01-07",
   "numac": 2012036269,
   "document_start": "2013-01-01",
   "document_end": null,
-  "in_force": "2013-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
