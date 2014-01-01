@@ -100,7 +100,7 @@ Elk centrum voor geestelijke gezondheidszorg dient als zodanig erkend te zijn do
 
 ### ART. 23.
 
-Hoofdstuk III van het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen, is van toepassing op de beslissingen inzake de erkenning en intrekking van erkenning van de centra voor geestelijke gezondheidszorg.
+Hoofdstuk III van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin is van toepassing op de procedure inzake de erkenning, de schorsing van erkenning en de intrekking van erkenning van de centra voor geestelijke gezondheidszorg.
 
 ## HOOFDSTUK IV OVEREENKOMST EN BELEIDSPLAN
 
