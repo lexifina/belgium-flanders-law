@@ -4,13 +4,13 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de Vlaamse   minister: het lid van de Vlaamse regering bevoegd voor de bijstand aan   personen;<BR>2° administratie : het Departement Welzijn, Volksgezondheid en   Gezin of het intern verzelfstandigd agentschap Zorginspectie;<BR>3° de   inrichtende macht: een rechtspersoon die geen materiële winst nastreeft en onder   wiens verantwoordelijkheid een erkende voorziening in de zin van dit besluit   functioneert;<BR>4° de cliënt: de persoon en/of het gezin, opgenomen in en/of   begeleid door een centrum voor integrale gezinszorg;<BR>5° het centrum: het   centrum voor integrale gezinszorg, zoals omschreven in artikel 2 van dit   besluit;<BR>6° de capaciteit: het maximaal aantal plaatsen bestemd voor de   opvang in en/of de begeleiding door een erkend centrum voor integrale   gezinszorg;<BR>7° de residentiële capaciteit: het maximaal aantal residentiële   plaatsen bestemd voor de opvang in en de begeleiding door een erkend centrum   voor integrale gezinszorg, waarbij als eenheid de opgenomen persoon geldt;<BR>8°   de semi-residentiële capaciteit: het maximaal aantal semi-residentiële plaatsen   bestemd voor de opvang in en de begeleiding door een erkend centrum voor   integrale gezinszorg, waarbij als eenheid het opgenomen gezin geldt;<BR>9° de   ambulante capaciteit: het maximaal aantal ambulante plaatsen bestemd voor de   begeleiding door een erkend centrum voor integrale gezinszorg, waarbij als   eenheid het begeleide gezin geldt;<BR>10° residentiële opvang en begeleiding:   intensieve begeleiding en opvang in gebouwen eigen aan het centrum;<BR>11°   semi-residentiële opvang en begeleiding: minder intensieve begeleiding en opvang   in gebouwen eigen aan het centrum, losstaand van de residentiële werking;<BR>12°   ambulante begeleiding: begeleiding in het thuismilieu van de cliënt of in   gebouwen die niet eigen zijn aan het centrum;<BR>13° verblijfsdag: elke dag die   valt tussen een residentiële of semi-residentiële opname en ontslag; de dag van   opname wordt gerekend als verblijfsdag, de dag van ontslag niet;<BR>14°   begeleidingsdag: elke dag die valt binnen de periode van ambulante begeleiding   zoals bepaald in het hulpverleningsprogramma;<BR>15° nazorg: nazorg is de   rechtstreekse hulpverlening en ondersteuning die volgt op een residentiële,   semi-residentiële of ambulante opvang en/of begeleiding na beëindiging van het   hulpverleningsprogramma. Voor de berekening van de bezettingsgraad worden   maximaal 10 dagen nazorg per cliënt in aanmerking genomen. Eén dag nazorg staat   gelijk met drie nazorgcontacten;<BR>16° bezettingsgraad : de verhouding tussen   enerzijds het op jaarbasis totaal gerealiseerde aantal verblijfs-, begeleidings-   en nazorgdagen en anderzijds de erkende capaciteit x 365; voor de berekening van   de bezettingsgraad wordt een zwangere vrouw dubbel geteld in het aantal   verblijfsdagen;<BR>17° beroepscommissie: de door de minister ingestelde   adviserende commissie met betrekking tot bezwaarschriften tegen het voornemen   tot weigering of intrekking van een erkenning;<BR>18° de secretaris-generaal :   het personeelslid dat belast is met de leiding van het departement Welzijn,   Volksgezondheid en Gezin.
+...
 
 ## HOOFDSTUK II DE CENTRA VOOR INTEGRALE GEZINSZORG
 
 ### ART. 2.
 
-§ 1. Een centrum voor integrale gezinszorg is een voorziening die zorgt voor de ambulante begeleiding of de residentiële of semi-residentiële opvang en begeleiding van ouders en kinderen en van aanstaande ouders.<br /><br />Het centrum bied opname en begeleiding aan gezinnen en gezinsleden waarvan het gezinsfunctioneren zo diepgaand problematisch is geworden dat gezinsdesintegratie een werkelijke dreiging vormt.<br /><br />De opvang en/of begeleiding zijn gericht op het voorkomen van de gezinsdesintegratie, op het verhogen van de draagkracht en het verminderen van de draaglast van de gezinsleden, op relatiebekwaamheid, op emancipatie en op maatschappelijke integratie.<br /><br />§ 2. De opvang en/of begeleiding in of door een centrum is altijd tijdelijk van aard. De verblijfs- en/of begeleidingsduur bedraagt gemiddeld niet meer dan 9 maanden.<br /><br />§ 3. De minimumcapaciteit van een centrum bestaat uit 30 eenheden, waarvan 20 eenheden residentieel en 10 eenheden semi-residentieel of ambulant zijn.<br /><br />In zeer uitzonderlijke omstandigheden en op gemotiveerde aanvraag door het centrum kan de Vlaamse minister een andere spreiding van de capaciteit toestaan, rekening houdend met de mogelijkheden van het centrum.<br /><br />§ 4. De uitbreiding van de capaciteit gebeurt per eenheid. De Vlaamse minister bepaalt of die extra eenheden van residentiele, semiresidentiële of ambulante aard zijn.<br /><br />§ 5. Ieder centrum kan cliënten opnemen en/of begeleiden boven zijn erkende capaciteit. De bezettingsgraad mag echter niet meer bedragen dan 110 %.<br /><br />§ 6. Wanneer de bezettingsgraad tijdens twee opeenvolgende jaren minder dan 80 % bedraagt, wordt de erkende capaciteit verminderd tot 110 % van de gemiddelde bezetting tijdens deze twee opeenvolgende jaren.<br /><br />De subsidiëring wordt in dat geval op overeenstemmende wijze aangepast.
+...
 
 ## HOOFDSTUK III DE ERKENNING
 
@@ -18,71 +18,71 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de Vlaamse   min
 
 ### ART. 3.
 
-§ 1. Om erkend te kunnen worden of erkend te kunnen blijven als centrum voor integrale gezinszorg moet aan de volgende erkenningsvoorwaarden voldaan zijn:<br />1° voldoen aan de bepalingen van hoofdstuk II;<br />2° opgericht zijn als of door een vereniging die geen winst nastreeft;<br />3° voorzien in een personeelsequipe die minstens bestaat uit een directie-, staf-, begeleidende, administratieve en/of logistieke functie, en die is samengesteld uit minstens 5 voltijdse equivalente personeelsleden;<br />4° beschikken over gebouwen die in overeenstemming zijn met de erkende capaciteit en die in goede staat, veilig en hygiënisch zijn en regelmatig onderhouden worden;<br />5° naast de wettelijk verplichte verzekeringen een verzekering afsluiten voor:<br />a) de burgerrechtelijke aansprakelijkheid van het centrum en van de personen die er tewerkgesteld zijn of die er verblijven;<br />b) de burgerrechtelijke aansprakelijkheid van elke opgenomen of begeleide persoon;<br />c) de lichamelijke schade waarvan een opgenomen of begeleide persoon het slachtoffer kan zijn;<br />6° beschikken over een op schrift gesteld pedagogisch concept en een huishoudelijk reglement;<br />7° voor iedere opname en/of begeleiding een hulpverleningsprogramma opmaken;<br />8° van iedere opgenomen en/of begeleide persoon een dossier aanleggen met de volgende elementen:<br />a) inlichtingen van administratieve aard;<br />b) de gegevens in verband met de toestand van de opgenomen of begeleide persoon;<br />c) het hulpverleningsprogramma;<br />9° een dagelijks bijgehouden presentielijst opstellen als bewijs van de verblijfs- en/of begeleidingsdagen;<br />10° voor elke verblijfsdag een financiële bijdrage vorderen van de cliënt;<br />11° voldoen aan de bepalingen van het decreet van 29 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen. <br />12° ... <br /><br />§ 2. Overeenkomstig de vigerende wetgeving en reglementering dienen de nodige maatregelen te worden getroffen om ongevallen en brand in de onder § 1, 4° bedoelde gebouwen te voorkomen en te bestrijden, alsmede om voor ontruiming in geval van ramp te zorgen.<br /><br />§ 3. Het onder § 1, 6° bedoelde huishoudelijk reglement wordt voor, bij of onmiddellijk na de opname aan de opgenomen personen overhandigd en toegelicht. Het bevat onder andere bepalingen met betrekking tot de omvang en de betalingsmodaliteiten van de persoonlijke bijdragen.<br /><br />§ 4. Het onder § 1, 7° bedoelde hulpverleningsprogramma vormt de leidraad voor de integrale gezinszorg door het centrum en bevat minstens de volgende onderdelen:<br />a) de identiteit van de opgenomen en/of begeleide personen en van andere betrokken derden;<br />b) een begeleidingsplan waaruit blijkt dat de opname of begeleiding een gepast antwoord is op de hulpvraag van het gezin, en dat o.a. de volgende items bevat:<br />- de algemene einddoelstellingen en de concrete tussentijdse doelstellingen;<br />- de aandachtspunten en klemtonen die in de hulpverlening dienen te worden gelegd en waarbij alle gezinsleden, de school, het werk- en vrijetijdsmilieu en het bredere sociale netwerk worden betrokken;<br />- de voorgestelde methoden en werkwijzen om de doelstellingen te halen.<br /><br />Het begeleidingsplan wordt opgesteld in overleg met de cliënt, het centrum en de eventueel betrokken hulpverleningsdiensten of -voorzieningen.<br /><br />Het hulpverleningsprogramma kan, na evaluatie en samenspraak met de betrokken partijen, worden bijgestuurd. Deze bijsturing wordt schriftelijk vastgelegd.<br /><br />Bij een opname en/of begeleiding die langer dan 9 maanden duurt, dient uiterlijk 15 dagen voor het einde van deze periode van 9 maanden en van elke daaropvolgende periode van 3 maanden, een evaluatie van de hulpverlening te worden gemaakt.<br /><br />Als na evaluatie van de hulpverlening blijkt dat nazorg noodzakelijk is, dient dit te worden vastgelegd in een addendum bij het hulpverleningsprogramma.<br /><br />§ 5. ... <br /><br />§ 6. Het bedrag van de onder § 1, 1° bedoelde bijdrage wordt bepaald op basis van het actueel netto beschikbaar maandinkomen van de opgenomen ouders of aanstaande ouders. Het actueel netto beschikbaar maandinkomen wordt vastgesteld door het loonstrookje en/of het attest van het vervangingsinkomen.<br /><br />Voor cliënten met een bestaansminimum en voor cliënten met een volledige werkloosheidsuitkering wordt de cliëntbijdrage per verblijfsdag bepaald op 9,24 euro per ouder, 4,62 euro voor het eerste kind en 3,08 euro per kind vanaf het tweede kind.<br /><br />Voor cliënten met een lager inkomen wordt door het centrum een aanpassing tot het bestaansminimum aangevraagd, zodat deze maatregel ook voor hen kan gelden.<br /><br />Voor cliënten met een inkomen, geheel of deels uit arbeid en hoger dan het bestaansminimum, wordt de cliëntbijdrage per verblijfsdag bepaald op 9,24 euro x inkomen/743,68 per ouder, 4,62 euro x inkomen/743,68 voor het eerste kind en 3,08 euro x inkomen/743,68 per kind vanaf het tweede kind.<br /><br />Als cliënten overgaan van de eerste (forfaitaire) categorie naar de tweede categorie (voltijds of deeltijds tewerkgesteld) en omgekeerd wordt de bijdrage aangepast aan de situatie. Als cliënten uit de tweede categorie zowel in min als in meer een duidelijke wijziging van het inkomen ondervinden wordt de bijdrage tevens aangepast.<br /><br />Als opgenomen personen weigeren om de bewijsstukken die nodig zijn voor het bepalen van de cliëntbijdrage over te leggen, kan het centrum zelf de gepaste bijdrage bepalen.<br /><br />§ 7. Overeenkomstig § 1, 11° bezorgt het centrum voor integrale gezinszorg hiertoe het kwaliteitshandboek aan de administratie voor 1 januari 2003.<br /><br />De minister bepaalt de minimale kwaliteitseisen en de minimale vereisten waaraan het kwaliteitshandboek en het kwaliteitssysteem moeten voldoen.<br /><br />Vanaf het jaar dat volgt op het jaar waarin het kwaliteitshandboek werd ingeleverd, en voor de eerste keer in het jaar 2004, bezorgt het centrum voor integrale gezinszorg jaarlijks voor 1 april de volgende documenten aan de administratie:<br />1° de kwaliteitsplanning voor het lopende jaar;<br />2° eventuele wijzigingen aan het kwaliteitshandboek.<br /><br />De minister bepaalt de minimale vereisten waaraan de kwaliteitsplanning moet voldoen. <br /><br />§ 8. ...
+...
 
 ## AFDELING 2 DE ERKENNINGSPROCEDURE
 
 ### ART. 4.
 
-§ 1. Een erkenning als centrum voor integrale gezinszorg of een wijziging van erkenning geldt voor onbepaalde tijd.<br /><br />§ 2. Onder wijziging van erkenning wordt verstaan de erkenning voor een gewijzigde capaciteit, zowel qua aantal erkende eenheden als qua verdeling van de capaciteitseenheden over de drie verschillende werkvormen.
+...
 
 ### ART. 5.
 
-Een erkenning als centrum voor integrale gezinszorg of een wijziging van erkenning kan enkel worden verleend:<br />1° als daartoe een ontvankelijke aanvraag wordt ingediend;<br />2° met inachtneming van de programmatienorm van 294 eenheden als maximale totale erkende capaciteit;<br />3° als wordt voldaan aan de onder afdeling 1 vermelde erkenningsvoorwaarden.
+...
 
 ### ART. 6.
 
-Om ontvankelijk te zijn dient de organisatie de aanvraag voor erkenning of tot wijziging van erkenning met een aangetekende brief in te dienen bij de administratie. De aanvraag voor erkenning dient de volgende gegevens en stukken te bevatten:<br />1° een schriftelijke bewijsvoering omtrent het voldaan zijn van de erkenningsvoorwaarden of een planning in dit verband;<br />2° een behoeftenstudie en een verantwoordingsnota ter verantwoording van de aangevraagde capaciteit;<br />3° het kwaliteitshandboek, voor iedere aanvraag die na 1 januari 2003 wordt ingediend. <br /><br />De aanvraag tot wijziging van erkenning dient enkel vergezeld te zijn van een behoeftenstudie en een verantwoordingsnota.
+...
 
 ### ART. 7.
 
-Als de aanvraag niet ontvankelijk is of als ze niet past in de programmatie stuurt de administratie de aanvraag binnen drie maanden na ontvangst van de aanvraag aan de aanvragende organisatie terug met vermelding van de reden.<br /><br />In het andere geval wordt het met reden omklede voornemen van de secretaris-generaal, om de erkenning of de wijziging van erkenning te verlenen of te weigeren, binnen zes maanden na ontvangst van de aanvraag aan de aanvragende organisatie betekend. De betekening gebeurt door de administratie met een aangetekende brief, waarin de mogelijkheid en de voorwaarden worden vermeld om een bezwaarschrift in te dienen als bedoeld in artikel 8.<br /><br />Als het voornemen niet binnen zes maanden na ontvangst van de aanvraag aan de aanvragende organisatie wordt betekend, wordt het voornemen geacht gunstig te zijn.
+...
 
 ### ART. 8.
 
-Op straffe van niet-ontvankelijkheid kan de organisatie tot uiterlijk 6 weken na ontvangst van het voornemen, vermeld in artikel 7, tweede lid, tegen het voornemen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de secretaris-generaal. Zij kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />De secretaris-generaal bezorgt het bezwaarschrift binnen twee weken na ontvangst van het bezwaarschrift, samen met het volledige administratief dossier, aan de beroepscommissie.<br /><br />De beroepscommissie verstrekt een gemotiveerd advies aan de secretaris-generaal uiterlijk zes weken na ontvangst van het bezwaarschrift. In uitzonderlijke omstandigheden kan ze bij gemotiveerde beslissing die termijn tot maximum tien weken verlengen. Ze hoort de organisatie, indien deze daarom heeft verzocht in haar bezwaarschrift.
+...
 
 ### ART. 9.
 
-§ 1. Als de organisatie overeenkomstig artikel 8, eerste lid, een bezwaarschrift heeft ingediend, kan de secretaris-generaal alleen een definitieve beslissing omtrent het verlenen of het weigeren van de erkenning of van de wijziging van erkenning nemen, indien het advies van de beroepscommissie gelijkluidend is aan het met redenen omklede voornemen.<br /><br />Zijn met redenen omklede beslissing wordt uiterlijk vier maanden na ontvangst van het bezwaarschrift door de administratie aan de organisatie betekend met een aangetekende brief.<br /><br />Indien het advies van de beroepscommissie echter afwijkt van het met redenen omklede voornemen van de secretaris-generaal of indien er geen advies verleend werd na het verstrijken van de termijnen bedoeld in artikel 8, derde lid, wordt de definitieve beslissing door de Vlaamse minister genomen. De secretaris-generaal bezorgt in dat geval het bezwaarschrift, samen met het volledige administratief dossier en, in voorkomend geval, het advies van de beroepscommissie aan de Vlaamse minister.<br /><br />De Vlaamse minister dient de organisatie vooraf te horen, als deze in haar bezwaarschrift daarom heeft verzocht.<br /><br />Zijn met redenen omklede beslissing wordt uiterlijk vier maanden na ontvangst van het bezwaarschrift door de secretaris-generaal, door de administratie aan de organisatie betekend met een aangetekende brief. <br /><br />§ 2. Als de organisatie geen bezwaarschrift heeft ingediend overeenkomstig artikel 8, eerste lid, of in het geval bedoeld in artikel 7, laatste lid wordt de definitieve beslissing van de secretaris-generaal omtrent het verlenen of het weigeren van de erkenning of van de wijziging van erkenning uiterlijk negen maanden na ontvangst van de aanvraag door de administratie aan de organisatie betekend met een aangetekende brief.<br /><br />§ 3. Als de definitieve beslissing van de Vlaamse minister of de secretaris-generaal niet aan de organisatie wordt betekend binnen de termijn bedoeld in § 1, tweede lid, en § 2, wordt de erkenning of de wijziging van erkenning geacht te zijn verleend vanaf de eerste dag van de dertiende maand die volgt op de maand van ontvangst van de aanvraag.
+...
 
 ### ART. 10.
 
-Als de erkenning of de wijziging van erkenning door de Vlaamse minister of de secretaris-generaal werd geweigerd, kan de organisatie geen nieuwe gelijksoortige aanvraag indienen, tenzij zij aantoont dat de reden voor de weigering niet langer bestaat.
+...
 
 ## HOOFDSTUK IV DE SUBSIDIËRING
 
 ### ART. 11.
 
-Binnen de perken van het begrotingskrediet en overeenkomstig de bepalingen van dit besluit kan de secretaris-generaal subsidies toekennen aan de erkende centra voor integrale gezinszorg.
+...
 
 ### ART. 12.
 
-Deze subsidies worden toegekend op voorwaarde dat:<BR>1° aan alle   erkenningsvoorwaarden is voldaan;<BR>2° het centrum een boekhouding voert   overeenkomstig een rekeningenstelsel bepaald door de Vlaamse minister;<BR>3° dat   het centrum een aangifte indient, overeenkomstig het model en binnen de   termijnen vastgesteld door de Vlaamse minister;<BR>4° dat minimaal 65 % en   maximaal 85 % van de som van de subsidie krachtens dit besluit en de bijdrage   van de cliënt (...) wordt besteed aan personeelskosten. Een centra voor   integrale gezinszorg kan enkel, mits gemotiveerde verantwoording hiervan   afwijken en tot een maximum van 90 % van de som van de subsidie krachtens dit   besluit en de bijdrage van de cliënt aanwenden voor personeelskosten. Deze   tijdelijke overschrijding moet binnen het jaar weggewerkt worden.
+...
 
 ### ART. 13.
 
-Vanaf 1 januari 2008 bestaat de jaarlijkse subsidie uit een forfaitair   bedrag van 22.500 euro per erkende eenheid. De basiserkenning is verbonden aan   de minimumcapaciteit, vermeld in artikel 2, § 3.<BR><BR>Binnen de perken van de   begrotingskredieten worden de subsidie-enveloppen aangepast in toepassing van de   Vlaamse Intersectorale Akkoorden voor de Social-Profitsector en ook voor   personeelsleden met een gesco- of sociale Maribel-statuut.
+...
 
 ### ART. 13bis.
 
-Binnen de begrotingskredieten wordt de subsidie aangepast aan de anciënniteitsevolutie van de centra voor integrale gezinszorg, met name de evolutie van de gemiddelde geldelijke anciënniteit die de personeelsleden van die centra hebben opgebouwd. De stijging van die anciënniteit kan niet meer dan twaalf maanden per jaar bedragen.<br /><br />Het forfaitaire bedrag, vermeld in artikel 13, houdt rekening met een gemiddelde geldelijke anciënniteit van het personeel van vijftien jaar en zes maanden.<br /><br />De reële gemiddelde anciënniteit van het personeel van de centra wordt jaarlijks gevolgd. Als de reële gemiddelde anciënniteit meer dan vijftien jaar en zes maanden bedraagt, wordt het forfaitaire bedrag, vermeld in artikel 13, herberekend.
+...
 
 ### ART. 14.
 
-§ 1. Als de som van alle inkomsten meer bedraagt dan de reële uitgaven voor verblijfskosten, werkings- en infrastructuurkosten en personeelskosten, moet het centrum met het saldo reserves opbouwen.<br /><br />De reserves, met uitzondering van het sociaal passief, worden aangewend om uitgaven te financieren die ertoe bijdragen om de opdrachten van het centrum uit te voeren, zoals geformuleerd in artikel 2 van dit besluit.<br /><br />De reserves, met uitzondering van het sociaal passief, opgebouwd na 1 januari 1995, die bij het afsluiten van het boekjaar meer bedragen dan 75 % van de jaarlijkse subsidie, worden ten belope van het bedrag dat de 75 % van de jaarlijkse subsidie overschrijdt, teruggestort aan de Vlaamse Gemeenschap. <br /><br />Het sociaal passief, vermeld in het tweede en derde lid, wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<br /><br />§ 2. ...
+...
 
 ### ART. 15.
 
-Alle bedragen zoals opgenomen in het besluit worden geïndexeerd overeenkomstig de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en toegepast overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van het concurrentievermogen.
+...
 
 ### ART. 16.
 
-Per semester wordt een voorschot uitgekeerd van 45 % van de bedragen, bepaald volgens artikel 13, 13bis en 15. Het eerste voorschot wordt uitbetaald voor het einde van de maand maart en het tweede voorschot wordt uitbetaald voor het einde van de maand juli van het jaar waarop de subsidie betrekking heeft.<br /><br />De definitieve vaststelling en vereffening van de subsidies gebeurt door het bepalen van een regularisatiebedrag, na het kalenderjaar tijdens hetwelk de in het eerste lid bedoelde voorschotten aan de voorziening werden uitgekeerd.<br /><br />Bij een batige vereffening na toepassing van artikel 14, derde lid kan de secretaris-generaal aan het centrum toestemming verlenen het verschuldigde bedrag in maandelijkse schijven terug te betalen over een periode van maximaal drie maanden.
+...
 
 ### ART. 16bis.
 
-De minister kan, onder de voorwaarden die hij bepaalt en binnen de begrotingskredieten, een subsidie verlenen voor projecten. Een project is een bijzonder initiatief met een tijdelijk, vernieuwend en experimenteel karakter dat betrekking heeft op de integrale gezinszorg.
+...
 
 ## HOOFDSTUK V HET TOEZICHT
 
@@ -90,48 +90,48 @@ De minister kan, onder de voorwaarden die hij bepaalt en binnen de begrotingskre
 
 ### ART. 17.
 
-Personeelsleden van de administratie oefenen ter plaatse of op stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de erkende centra of de organisatie die een erkenning aanvraagt.<br /><br />De erkende centra of de organisatie die een erkenning aanvraagt verlenen hun medewerking aan de uitoefening van het toezicht. Zij bezorgen aan de in het eerste lid bedoelde personeelsleden, op hun eenvoudig verzoek, de stukken die met de erkenningsaanvraag of de erkenning verband houden.
+...
 
 ### ART. 18.
 
-Als een centrum niet langer voldoet aan één of meer erkenningsvoorwaarden of als het niet meewerkt aan de uitoefening van het toezicht, kan de administratie het centrum bij aangetekende brief aanmanen om zich binnen een termijn van maximum zes maanden aan de erkenningsvoorwaarden of binnen een termijn van maximum 1 maand aan de regels betreffende het toezicht te conformeren.
+...
 
 ### ART. 19.
 
-Als ondanks de aanmaning het centrum, na verloop van de in artikel 18 vermelde termijnen, de erkenningsvoorwaarden niet naleeft of niet meewerkt aan de uitoefening van het toezicht, kan de secretaris-generaal zijn gemotiveerd voornemen tot intrekking van de erkenning aan het centrum betekenen. Die betekening gebeurt door de administratie met een aangetekende brief, waarin de mogelijkheid en de voorwaarden om een bezwaarschrift zoals bedoeld in artikel 20 in te dienen, worden vermeld.
+...
 
 ### ART. 20.
 
-Op straffe van niet-ontvankelijkheid kan het centrum tot uiterlijk 30 dagen na ontvangst van het voornemen tot intrekking van de erkenning daartegen met een aangetekende brief een gemotiveerd bezwaarschrift indienen bij de secretaris-generaal. Het centrum kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />De secretaris-generaal bezorgt het bezwaarschrift binnen 15 dagen na ontvangst, samen met het volledige administratief dossier, aan de beroepscommissie.<br /><br />De beroepscommissie verstrekt haar gemotiveerd advies uiterlijk 60 dagen na ontvangst van de in het vorige lid bedoelde stukken aan de secretaris-generaal. In uitzonderlijke omstandigheden kan zij bij gemotiveerde beslissing die termijn met maximum 30 dagen verlengen. Zij hoort het centrum, indien daarom werd verzocht in het bezwaarschrift.
+...
 
 ### ART. 21.
 
-§ 1. Als het centrum overeenkomstig artikel 20, eerste lid, een bezwaarschrift heeft ingediend, kan de secretaris-generaal alleen een definitieve beslissing omtrent het intrekken van de erkenning nemen, indien het advies van de beroepscommissie gelijkluidend is aan het met redenen omklede voornemen.<br /><br />Zijn met redenen omklede beslissing wordt uiterlijk binnen 30 dagen na ontvangst van het advies van de beroepscommissie aan het centrum betekend met een aangetekende brief.<br /><br />Indien het advies van de beroepscommissie echter afwijkt van het met redenen omklede voornemen van de secretaris-generaal of indien er geen advies verleend werd na het verstrijken van de termijnen, bedoeld in artikel 20, derde lid, wordt de definitieve beslissing door de Vlaamse minister genomen. De secretaris-generaal bezorgt in dat geval het bezwaarschrift, samen met het volledige administratief dossier en, in voorkomend geval, het advies van de beroepscommissie aan de Vlaamse minister.<br /><br />De Vlaamse minister dient de organisatie vooraf te horen, als deze in haar bezwaarschrift daarom heeft verzocht.<br /><br />Zijn met redenen omklede beslissing wordt uiterlijk binnen 30 dagen na ontvangst van het advies van de beroepscommissie of na het verstrijken van de in artikel 20, derde lid, bedoelde termijnen door de administratie aan het centrum betekend met een aangetekende brief.<br /><br />§ 2. Als het centrum geen bezwaarschrift heeft ingediend overeenkomstig artikel 20, eerste lid, wordt de definitieve beslissing van de secretaris-generaal omtrent het intrekken van de erkenning uiterlijk binnen 60 dagen na het verstrijken van de in artikel 20, eerste lid, bedoelde termijn door de administratie aan het centrum betekend met een aangetekende brief.<br /><br />§ 3. Als de definitieve beslissing van de Vlaamse minister of de secretaris-generaal niet binnen de termijn bedoeld in § 1, tweede lid, of § 2 aan het centrum is betekend, blijft het centrum erkend.
+...
 
 ## AFDELING 2 SUBSIDIËRING
 
 ### ART. 22.
 
-Personeelsleden van de administratie oefenen ter plaatse of op stukken toezicht uit op de naleving van de subsidiëringsvoorwaarden door de erkende centra.<br /><br />De erkende centra verlenen hun medewerking aan de uitoefening van het toezicht. Zij bezorgen aan de in het eerste lid bedoelde personeelsleden, op hun eenvoudig verzoek, de stukken die met de subsidiëring verband houden.
+...
 
 ### ART. 23.
 
-Als een centrum niet langer voldoet aan één of meer subsidiëringsvoorwaarden of als een centrum niet meewerkt aan de uitoefening van het toezicht kan de secretaris-generaal de subsidiëring geheel of gedeeltelijk stoppen voor een door hem te bepalen termijn en/of de reeds verleende subsidies geheel of gedeeltelijk terugvorderen voor een door hem te bepalen termijn.<br /><br />De gehele stopzetting van de subsidiëring en de gehele terugvordering van reeds verleende subsidies is enkel mogelijk na het uiten van het voornemen tot intrekking van de erkenning of bij vastgestelde subsidiefraude.<br /><br />De gedeeltelijke stopzetting van de subsidiëring en de gedeeltelijke terugvordering van reeds verleende subsidies is enkel mogelijk na het uiten van het voornemen tot intrekking van de erkenning, bij vastgestelde subsidiefraude of als een centrum de subsidievoorwaarden vermeld onder artikel 12, 2°, 3° en 4° niet naleeft.
+...
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
 ### ART. 24.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 21 december 1994 houdende de erkenning en de subsidiëring van de centra voor integrale gezinszorg, op)
+...
 
 ### ART. 25.
 
-Alle, op basis van het krachtens artikel 24 opgeheven besluit, verleende erkenningen blijven gelden, met inbegrip van de erkende capaciteiten en de toegewezen bijkomende personeelsleden.
+...
 
 ### ART. 26.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 1997.
+...
 
 ### ART. 27.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
