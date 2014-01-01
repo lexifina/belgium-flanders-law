@@ -196,13 +196,13 @@ Uiterlijk zestig dagen na de ontvangst van het inspectieverslag beslist Kind en 
 
 ### ART. 43.
 
-De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats   op jaarbasis in 2013 voor voorschoolse opvang : <BR>1° georganiseerd door een   openbaar bestuur : 11.738,77 euro;<BR>2° georganiseerd door een privaat bestuur   : 11.926,57 euro. <BR><BR>Het forfaitaire subsidiebedrag geldt voor minimaal 200   openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag wordt   verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<BR><BR>Het   forfaitaire subsidiebedrag wordt toegekend per kalenderjaar, na verrekening van   de gefactureerde financiële bijdrage van de gezinnen die de lokale dienst   ingevolge artikel 21, 1°, int.
+De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt op   jaarbasis in 2014 per plaats voor voorschoolse opvang:<BR>1° georganiseerd door   een openbaar bestuur: 11.847,94 euro;<BR>2° georganiseerd door een privaat   bestuur: 12.046,34 euro. <BR><BR>Het forfaitaire subsidiebedrag geldt voor   minimaal 200 openingsdagen en voor minimaal 9 openingsuren per dag. Het bedrag   wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<BR><BR>Het   forfaitaire subsidiebedrag wordt toegekend per kalenderjaar, na verrekening van   de gefactureerde financiële bijdrage van de gezinnen die de lokale dienst   ingevolge artikel 21, 1°, int.
 
 ### ART. 44.
 
-<p>De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt per plaats op jaarbasis in 2013 voor buitenschoolse opvang :<br>
-1° georganiseerd door een openbaar bestuur : 7077,15 euro;<br>
-2° georganiseerd door een privaat bestuur : 7179,34 euro.<br>
+<p>De forfaitaire subsidie, toegekend door Kind en Gezin, bedraagt op jaarbasis in 2014 per plaats voor buitenschoolse opvang:<br>
+1° georganiseerd door een openbaar bestuur: 7142,97 euro;<br>
+2° georganiseerd door een privaat bestuur: 7250,93 euro.<br>
 <br>
 Dat basisbedrag geldt voor minimaal 200 openingsdagen en voor minimaal 9 openingsuren op vakantiedagen, voor minimaal 5 uur op woensdagmiddagen en voor 2 openingsuren op schooldagen. Het bedrag wordt verhoudingsgewijs verlaagd als niet aan die minima voldaan is.<br>
 &nbsp;</p>
@@ -243,7 +243,7 @@ Het ingediende beroep schorst de beslissing niet. <br /><br />
 
 ### ART. 52.
 
-Als het beroep wordt ingesteld op basis van artikel 50, 1° of 2°, beschikt Kind en Gezin over een termijn van 45 kalenderdagen vanaf het indienen van het beroep om een beslissing te nemen. Kind en Gezin brengt het organiserend bestuur op de hoogte van de genomen beslissing, uiterlijk 30 dagen na de beslissing.<br /><br />
+Als het beroep wordt ingesteld in de gevallen, vermeld in artikel 50, 1°   of 2°, wordt dat beroep behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.<BR><BR>
 
 ### ART. 53.
 
@@ -261,7 +261,7 @@ De toestemming en de bijhorende subsidiëring voor een lokale dienst is mogelijk
 
 ### ART. 56.
 
-De subsidiebedragen voor 2013, vermeld in artikel 43, eerste lid en   artikel 44, eerste lid, worden niet geïndexeerd in 2013.<BR><BR>
+<P>De subsidiebedragen, vermeld in artikel 43, 44, 46 en 48, worden elk jaar op   1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar.<BR><BR>In afwijking van het eerste lid worden de   subsidiebedragen voor 2014, vermeld in artikel 43, eerste lid, en artikel 44,   eerste lid, niet geïndexeerd in 2014.</P>
 
 ### ART. 57.
 
