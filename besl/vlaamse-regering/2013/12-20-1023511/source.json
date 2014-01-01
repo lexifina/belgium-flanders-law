@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023511,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2002 betreffende de erkenning en subsidiëring van de centra en diensten voor het Vlaamse minderhedenbeleid, van het besluit van de Vlaamse Regering van 15 december 2006 betreffende de uitvoering van het Vlaamse inburgeringsbeleid en van het besluit van de Vlaamse Regering van 12 november 2010 met betrekking tot de uitvoering van het decreet betreffende het Vlaamse integratiebeleid, wat betreft de toekenning van subsidies in het kalenderjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023511/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "462abeeb56fbe4f1be574ed74bada6742e984c5c9030e37f4877926cca9d0dd8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023511&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2013-12-30",
+  "numac": 2013036207,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
