@@ -478,9 +478,25 @@ Artikel 93 van hetzelfde decreet wordt vervangen door wat volgt :<BR>«   Art. 9
 
 Aan artikel 95, eerste lid, van hetzelfde decreet, wordt een tweede zin   toegevoegd, die luidt als volgt :<BR>« De salarisschaal van praktijkassistenten   is dezelfde als deze van assistenten. » .<BR>
 
+### ART. V.6.
+
+Artikel 108 van hetzelfde decreet, gewijzigd bij het decreet van 18 mei   1999, wordt vervangen door wat volgt :<BR>« Art. 108. Het loopbaankader van het   administratief en technisch personeel omvat het geheel van de functies en de   daaraan gekoppelde graden die de leden van het administratief en technisch   personeel kunnen vervullen. Het universiteitsbestuur stelt voor elke functie een   functiebeschrijving en -profiel vast. » .<BR>
+
+### ART. V.7.
+
+In artikel 111, eerste lid, van hetzelfde decreet, vervangen bij het   decreet van 18 mei 1999, worden de woorden "de personeelsformatie" vervangen   door de woorden "het loopbaankader".<BR>
+
 ### ART. V.8.
 
 Aan hetzelfde decreet wordt een artikel 113bis toegevoegd, dat luidt als   volgt :<BR>« Art. 113bis. In afwijking van de voorwaarden, vermeld in artikel   112, kan het universiteitsbestuur een voltijdse praktijkassistent die op 1   oktober 2013 vijf jaar of langer aangesteld is als praktijkassistent na afloop   van de aanstellingstermijn zonder openbare vacature rangschikken in een graad   van het administratief en technisch personeel ten laste van de   werkingsuitkeringen van de Vlaamse Gemeenschap. » .<BR>
+
+### ART. V.9.
+
+In artikel 114, tweede lid, van hetzelfde decreet, vervangen bij het   decreet van 18 mei 1999, worden de woorden "en binnen de perken van de   personeelsformatie", opgeheven.<BR>
+
+### ART. V.10.
+
+In artikel 117, eerste lid, van hetzelfde decreet, gewijzigd bij het   decreet van 22 juni 2007, worden de woorden "een betrekking van de   personeelsformatie bedoeld in afdeling 2 van dit hoofdstuk" vervangen door de   woorden "een functie van het loopbaankader, vermeld in artikel   108".<BR>
 
 ### ART. V.11.
 
@@ -490,6 +506,10 @@ Aan hetzelfde decreet wordt een artikel 113bis toegevoegd, dat luidt als   volgt
 
 Artikel 121novies van hetzelfde decreet, ingevoegd bij het decreet van 13   juli 2012, wordt vervangen door wat volgt :<BR>« Art. 121novies. Statutair   tijdelijk aangestelde lectoren en praktijkassistenten in het integratiekader,   met een dienstanciënniteit van tien jaar op 30 september 2013, worden door de   universiteit bij een gunstige evaluatie benoemd in het ambt van lector in het   integratiekader. Voor de berekening van de vereiste dienstanciënniteit worden de   diensten meegenomen, vermeld in artikel 98 van het Hogescholendecreet, en de   werkelijke diensten die het personeelslid in een contractueel dienstverband   gepresteerd heeft in de hogeschool. » .<BR>
 
+### ART. 13.
+
+In artikel 150, derde lid, van hetzelfde decreet, wordt de tweede zin   opgeheven.<BR>
+
 ### ART. V.14.
 
 Aan artikel 152 van hetzelfde decreet, gewijzigd bij de decreten van 21   december 1994 en 8 juli 1996, wordt een tweede lid toegevoegd, dat luidt als   volgt :<BR>« Vóór 1 juli bezorgt de Vlaamse Regering aan elke universiteit een   raming van de werkingsmiddelen, de sociale toelage en de investeringsmiddelen   nodig voor het opmaken van de begroting, vermeld in artikel 153. »   .<BR>
@@ -497,6 +517,14 @@ Aan artikel 152 van hetzelfde decreet, gewijzigd bij de decreten van 21   decemb
 ### ART. V.15.
 
 Aan artikel 153 van hetzelfde decreet, vervangen bij het decreet van 4   april 2003, worden de volgende wijzigingen aangebracht :<BR>1° er wordt een   nieuw eerste lid ingevoegd, dat luidt als volgt :<BR>« Het universiteitsbestuur   bezorgt vóór 15 september aan de Vlaamse Regering een begroting opgemaakt   volgens het schema van het Europees systeem van nationale en regionale   rekeningen in de Europese Unie, in navolging van de verordening (EG) nr. 2223/96   van de Raad van 25 juni 1996 inzake het Europees systeem van nationale en   regionale rekeningen in de Gemeenschap. » ;<BR>2° het bestaande tweede lid, dat   het derde lid wordt, wordt vervangen door wat volgt :<BR>« Samen met de   beleidsbegroting dient het universiteitsbestuur een meerjarenbegroting in voor   de komende vijf begrotingsjaren. Die meerjarenbegroting houdt rekening met het   beleid van de universiteit ten minste op de volgende gebieden :<BR>1° algemeen   financieel beleid;<BR>2° personeelsbestand en personeelsbeleid;<BR>3°   onderwijsaanbod;<BR>4° wetenschappelijk onderzoek, maatschappelijke en   wetenschappelijke dienstverlening en transfer van kennis;<BR>5°   investeringen;<BR>6° kwaliteitszorg. » .<BR>
+
+### ART. V.16.
+
+In artikel 158, eerste lid, van hetzelfde decreet, gewijzigd bij de   decreten van 14 juli 1998 en 4 juli 2008, wordt de eerste zin vervangen door wat   volgt :<BR>« Het universiteitsbestuur bepaalt de globale formatie van het   zelfstandig academisch personeel, het assisterend academisch personeel en van   het administratief en technisch personeel dat ten laste van de werkingsuitkering   wordt bezoldigd. » .<BR>
+
+### ART. V.17.
+
+Artikel 159 van hetzelfde decreet, gewijzigd bij de decreten van 27   januari 1993, 14 juli 1998, 18 mei 1999, 22 december 1999 en 4 juli 2008, wordt   opgeheven.<BR>
 
 ### ART. V.18.
 
@@ -512,6 +540,10 @@ In artikel 177, tweede lid, van hetzelfde decreet, wordt de zin « Het   wordt u
 
 In artikel 101 van hetzelfde decreet, gewijzigd bij het decreet van 22   juni 2007, wordt het eerste lid vervangen door wat volgt :<BR>« In afwijking van   artikel 100 worden de ambten van het onderwijzend personeel in de studiegebieden   Audiovisuele en Beeldende Kunst en Muziek en Podiumkunsten en de ambten aan de   Hogere Zeevaartschool als volgt ingedeeld : ».<BR>
 
+### ART. V.21.
+
+In artikel 104 van hetzelfde decreet, gewijzigd bij het decreet van 20   april 2001, worden de volgende wijzigingen aangebracht :<BR>1° het vierde lid   wordt opgeheven;<BR>2° het vijfde lid wordt vervangen door wat volgt :<BR>« In   de studiegebieden Audiovisuele en Beeldende Kunst en Muziek en Podiumkunsten en   aan de Hogere Zeevaartschool kunnen de hogescholen voltijdse of deeltijdse leden   van het assisterend personeel met hun akkoord de titel van praktijkassistent   verlenen. Deze personeelsleden worden in hoofdzaak belast met taken van   praktijkgebonden onderwijs. » .<BR>
+
 ### ART. V.22.
 
 Artikel 137bis van hetzelfde decreet, ingevoegd bij het decreet van 20   april 2001, wordt vervangen door wat volgt :<BR>« Art. 137bis. De   personeelsleden die op het ogenblik van een fusie belast waren met het mandaat   van algemeen directeur en die na de fusie dat mandaat niet langer uitoefenen,   worden definitief ingeschaald in de salarisschaal van gewoon hoogleraar wanneer   zij hun betrekking in de personeelsformatie van de gefusioneerde hogeschool weer   opnemen. » .<BR>
@@ -524,6 +556,10 @@ In artikel 147, § 2, laatste zin, van hetzelfde decreet, worden de woorden   "e
 
 In hetzelfde decreet wordt een artikel 158bis/l ingevoegd, dat luidt als   volgt :<BR>« Art. 158bis/l. De personeelsleden die op het ogenblik van een fusie   belast waren met het mandaat van algemeen directeur en die na de fusie dat   mandaat niet langer uitoefenen, worden definitief ingeschaald in de   salarisschaal van gewoon hoogleraar wanneer zij hun betrekking in de   personeelsformatie van de gefusioneerde hogeschool weer opnemen. »   .<BR>
 
+### ART. V.25.
+
+In artikel 196, § 3, van hetzelfde decreet worden de volgende wijzigingen   aangebracht :<BR>1° punt 1° en punt 2° worden vervangen door wat volgt :<BR>« 1°   voor de publiekrechtelijke hogescholen, exclusief de Hogere Zeevaartschool :   9.071.000 euro; »;<BR>2° punt 3° wordt voortaan aangeduid als punt 2°.   <BR>
+
 ### ART. V.26.
 
 <P>Aan artikel 200 van hetzelfde decreet worden een tweede en een derde lid   toegevoegd, die luiden als volgt :<BR>« Een terugbetaling van de tegemoetkoming   is evenmin van toepassing als het geheel of een deel van het gebouw dat werd   aangekocht, gebouwd, gemoderniseerd, uitgebreid of geschikt gemaakt met behulp   van de middelen, vermeld in artikel 196, aan een universiteit wordt overgedragen   of ter beschikking gesteld overeenkomstig het bepaalde in artikel 24, § 6, van   het decreet van 4 april 2003 betreffende de herstructurering van het hoger   onderwijs in Vlaanderen in het kader van de overdracht van bevoegdheid, vermeld   in artikel 23, § 4, van voormeld decreet, en als aldus het doel van het   desbetreffende gebouw of deel van het gebouw behouden blijft.<BR></P>  <P>In voorkomend geval is de universiteit evenmin een vergoeding verschuldigd   voor de investeringen, vermeld in artikel 197, die de hogeschool met de   middelen, vermeld in artikel 196, gedaan heeft. » .<BR></P>
@@ -535,6 +571,14 @@ Aan artikel 223 van hetzelfde decreet wordt een tweede lid toegevoegd, dat   lui
 ### ART. V.28.
 
 In artikel 224 van hetzelfde decreet wordt een nieuw eerste lid ingevoegd,   dat luidt als volgt :<BR>« Het hogeschoolbestuur bezorgt vóór 15 september aan   de Vlaamse Regering een begroting opgemaakt volgens het schema van het Europees   systeem van nationale en regionale rekeningen in de Europese Unie, in navolging   van de verordening (EG) nr. 2223/96 van de Raad van 25 juni 1996 inzake het   Europees systeem van nationale en regionale rekeningen in de Gemeenschap. »   .<BR>
+
+### ART. V.29.
+
+Artikel 225 van hetzelfde decreet, gewijzigd bij het decreet van 19 maart   2004, wordt vervangen door wat volgt :<BR>« Art. 225. Samen met de begroting   dient het hogeschoolbestuur een meerjarenbegroting in voor de komende vijf   begrotingsjaren. Die meerjarenbegroting houdt rekening met het beleid van de   hogeschool ten minste op de volgende gebieden :<BR>1° algemeen financieel   beleid;<BR>2° personeelsbestand en personeelsbeleid;<BR>3°   onderwijsaanbod;<BR>4° praktijkgericht wetenschappelijk onderzoek, onderzoek in   de kunsten, maatschappelijke en wetenschappelijke dienstverlening en transfer   van kennis;<BR>5° investeringen;<BR>6° kwaliteitszorg. » .<BR>
+
+### ART. V.30.
+
+In artikel 231, § 1, van hetzelfde decreet, gewijzigd bij de decreten van   19 april 1995, 21 december 2001, 22 juni 2007, 4 juli 2008 en 13 juli 2012,   worden de volgende wijzigingen aangebracht :<BR>1° punt 1° en punt 2° worden   opgeheven;<BR>2° in punt 3° worden tussen de woorden "aan de professionele   opleidingen" en de woorden "en op de personeelsleden toegewezen aan de Schools   of Arts" de woorden ", op de personeelsleden van de Hogere Zeevaartschool"   ingevoegd;<BR>3° aan punt 3° wordt een zin toegevoegd, die luidt als volgt   :<BR>« De toepassing van de bepalingen van punt 3° wordt voor een periode van   vijf jaar met ingang van het begrotingsjaar 2014 opgeschort. »   .<BR>
 
 ### ART. V.31.
 
