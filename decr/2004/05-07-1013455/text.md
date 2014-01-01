@@ -179,7 +179,7 @@ De minderjarige heeft recht op respect voor zijn persoonlijke levenssfeer, met i
 
 ### ART. 26.
 
-De minderjarige aan wie residentiële jeugdhulpverlening wordt geboden, heeft, ten laste van de Vlaamse Overheid, recht op een vrij besteedbaar bedrag. De Vlaamse Regering bepaalt het bedrag, de nadere regels voor de toekenning ervan en de wijze waarop het wordt vereffend.
+De minderjarige aan wie residentiële jeugdhulpverlening wordt geboden, met uitzondering van pleegzorg als bedoeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, heeft, ten laste van de Vlaamse Overheid, recht op een vrij besteedbaar bedrag. De Vlaamse Regering bepaalt het bedrag, de nadere regels voor de toekenning ervan en de wijze waarop het wordt vereffend.
 
 ## AFDELING 11 RECHT OP EEN MENSWAARDIGE BEHANDELING
 
