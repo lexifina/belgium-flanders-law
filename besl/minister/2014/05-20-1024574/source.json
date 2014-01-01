@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024574,
+  "title": "Ministerieel besluit van 2014-05-20 tot wijziging van artikel 1 en 4 van het ministerieel besluit van 8 maart 2007 betreffende de herverdeling van de steunbedragen via de reserve",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024574/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e62ad05cd75a41f12dfc3fa73cefbae85acaaaf425a8cd15eaa4aa0b7f273045",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024574&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-05-20",
+  "gazette": "2014-09-17",
+  "numac": 2014035761,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
