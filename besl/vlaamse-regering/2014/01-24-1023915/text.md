@@ -62,6 +62,14 @@ In artikel 86, derde lid, van hetzelfde besluit wordt de zinsnede "van 100   eur
 
 ## HOOFDSTUK 5 Wijzigingen van het Fundingbesluit van de VMSW van 21 december 2012
 
+### ART. 21.
+
+In artikel 11, eerste lid, van het Fundingbesluit van de VMSW van 21   december 2012 wordt het percentage "25 %" vervangen door het percentage "22,5   %".<BR>
+
+### ART. 22.
+
+&nbsp;In artikel 24, § 4, eerste lid, van hetzelfde besluit wordt het   percentage "25 %" vervangen door het percentage "22,5 %".<BR>
+
 ## HOOFDSTUK 6 Wijziging van het besluit van de Vlaamse Regering van 11 oktober 2013 tot wijziging van diverse besluiten betreffende het woonbeleid
 
 ### ART. 23.
