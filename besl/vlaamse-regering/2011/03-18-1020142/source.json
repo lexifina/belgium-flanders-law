@@ -2,16 +2,16 @@
   "codex_id": 1020142,
   "title": "Besluit van de Vlaamse Regering van 2011-03-18 tot vaststelling van de schalen van de administratieve boete inzake eurovignet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020142/VolledigDocument?datum=2011-04-15",
-  "source_sha256": "b13a534c436a03d7f7ca9abac77b5aee815b60e019977c2de82ab8d95828b2cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020142/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "20f332f60da8e5f88aa1e66a91d5bee7e4ba372b7ebd9dfe762c6968b52d1775",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020142&param=informatie",
-  "as_of": "2011-04-15",
+  "as_of": "2014-01-01",
   "made": "2011-03-18",
   "gazette": "2011-04-05",
   "numac": 2011201584,
   "document_start": "2011-04-15",
   "document_end": "2013-12-31",
-  "in_force": "2011-04-15",
+  "in_force": "2014-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2011-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
