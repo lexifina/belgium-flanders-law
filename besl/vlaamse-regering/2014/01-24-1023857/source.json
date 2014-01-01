@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023857,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-24 tot opheffing van het besluit van de Vlaamse Regering van 24 februari 2006 tot uitvoering van het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid en tot opheffing van het besluit van de Vlaamse Regering van 19 december 1997 tot ondersteuning van regionaal overleg en regionale samenwerking in de welzijnssector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023857/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "caa1d0a393e342378d840285c907931ef6597b9c7eb7d6387ebabf457b50fdd8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023857&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-01-24",
+  "gazette": "2014-02-18",
+  "numac": 2014035182,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
