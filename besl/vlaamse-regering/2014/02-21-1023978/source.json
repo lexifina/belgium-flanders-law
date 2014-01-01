@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023978,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-21 houdende de vaststelling van de zendtijd voor het kalenderjaar 2014 voor de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023978/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "f610776747ff941546a3043bc32ac8c730049e4f83b80bf1eaea0b2fb0e3e411",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023978&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-02-21",
+  "gazette": "2014-04-04",
+  "numac": 2014035344,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
