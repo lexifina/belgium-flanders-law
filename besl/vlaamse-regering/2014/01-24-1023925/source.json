@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023925,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 juli 2000 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023925/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ee24fc1ad898c10afed2335e779a4c642955f06291cf13154c6bd2d352908179",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023925&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-01-24",
+  "gazette": "2014-03-21",
+  "numac": 2014035213,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
