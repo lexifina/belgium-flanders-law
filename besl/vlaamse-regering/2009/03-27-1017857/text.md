@@ -134,7 +134,7 @@ Het bedrag van de in artikel 9 bedoelde toelage wordt vastgesteld als volgt :<br
 
 ### ART. 12.
 
-§ 1. In afwijking op artikel VII 33 van het Vlaams personeelsstatuut wordt een toelage uitbetaald aan de personeelsleden die gevaarlijk-, ongezond- of hinderlijk werk verrichten. <br /><br />§ 2. De lijst van gevaarlijke-, ongezonde- of hinderlijke werken wordt opgesomd in bijlage II bij dit besluit, waar tevens de eraan gekoppelde toelagen worden aangegeven.<br /><br />§ 3. Deze toelagen worden eveneens toegekend voor werken die gelijkaardig zijn met deze opgesomd in § 2 van dit artikel. De vergelijkbaarheid van de werken wordt vastgesteld door het afdelingshoofd. De lijnmanager kan voor bepaalde terugkerende taken het aantal prestatieuren forfaitair bepalen, zonder het basisbedrag van de toelagen te verhogen.
+<P>§ 1.De personeelsleden die gevaarlijke, ongezonde of hinderlijke werken   verrichten als vermeld in de lijst, opgenomen in bijlage II.A, die bij dit   besluit is gevoegd, ontvangen daarvoor een toelage.<BR><BR>§ 2. De   personeelsleden die de werken, vermeld in paragraaf 1, op regelmatige basis   verrichten, worden ingedeeld in de volgende drie profielen en ontvangen het   desbetreffende forfait als maandtoelage :<BR>1° profiel 1 : 80,43 euro (100   %);<BR>2° profiel 2 : 120,65 euro (100 %);<BR>3° profiel 3 : 160,87 euro (100   %).<BR><BR>De profielen met de daarin vermelde functiegroepen zijn opgenomen in   bijlage II.B, die bij dit besluit is gevoegd.<BR><BR>§ 3. De personeelsleden die   de werken, vermeld in paragraaf 1, occasioneel verrichten, en dus niet vallen   onder de toepassing van paragraaf 2, ontvangen een toelage van 2,54 euro (100 %)   per werkelijk gepresteerd uur.<BR><BR>§ 4. De toelagen, vermeld in paragraaf 2   en 3, zijn niet cumuleerbaar. De toelagen zijn evenmin cumuleerbaar met de   gevaartoelage, vermeld in artikel VII 33 van het Vlaams personeelsstatuut van 13   januari 2006.<BR><BR>§ 5. Artikel VII 15, VII 15bis en VII 16 van het Vlaams   personeelsstatuut van 13 januari 2006, zijn van toepassing op de toelagen,   vermeld in paragraaf 2 en 3.</P>
 
 ## HOOFDSTUK 4. Toelage voor het vervangen van de sluiswachter
 
@@ -247,6 +247,10 @@ Op de toelage, vermeld in artikel 14/1, zijn de volgende uitzonderingsgevallen e
 ### ART. 28/2.
 
 Het beschikbaar stellen van dienstwoningen wordt geleidelijk afgebouwd door toepassing van de onderstaande regels :<br />1° de personeelsleden die geen prestaties voor passieve bewaking of geen andere tegenprestatie voor het ter beschikking krijgen van een woning meer verrichten, kunnen gedurende vijf jaar na het beëindigen van de vereiste prestatie, de woning blijven behouden, maar ontvangen tijdens deze overgangsperiode geen toelage binnenvaartbegeleider, noch een gereduceerde toelage binnenvaartbegeleider;<br />2° bij mutatie op eigen verzoek vervalt het recht op een dienstwoning;<br />3° bij bevordering tot D3 vervalt het recht op een dienstwoning, behoudens het geval waarin de functiebeschrijving de taak van passieve bewaking omvat;<br />4° nadat het recht op een dienstwoning vervallen is, kan de bewoner een voorkeurrecht verkrijgen voor het in huur of pacht nemen van de woning tegen een marktconform tarief.
+
+### ART. 28/3.
+
+In afwijking van artikel 12 gelden de volgende overgangsbepalingen :<BR>1°   de personeelsleden, vermeld in de lijst, opgenomen in bijlage II.C, die bij dit   besluit is gevoegd, ontvangen een forfaitaire toelage van 25 % van het uurloon,   die wordt uitbetaald volgens het percentage van de arbeidstijd dat in die lijst   is opgenomen. Voor de daarvoor aangewezen personeelsleden wordt ook voorzien in   een getrapt systeem van afbouw. De personeelsleden ontvangen de toelage tot ze   de vermelde functie en graad bekleden, voor een maximale periode van negen jaar   vanaf 1 januari 2014.<BR>De toelage wordt maandelijks na de vervallen termijn   uitbetaald op basis van de effectieve prestaties, voor zover die verbonden zijn   aan de uitoefening van de functie.<BR>Artikel VII 15, VII 15bis en VII 16 van   het Vlaams personeelsstatuut van 13 januari 2006, zijn van toepassing op de   toelage.<BR>Tijdens die overgangsperiode van maximaal negen jaar hebben de   personeelsleden de keuze om jaarlijks in de maand januari over te stappen naar   de toelage, vermeld in artikel 12 van dit besluit. Die keuze is   onherroepelijk;<BR>2° als voor de personeelsleden met de functie van   (deskundige) topograaf, matroos, schipper, patrimoniumtoezichter,   patrimoniuminspecteur, werftoezichter en werfinspecteur de toelage, vermeld in   artikel 12, § 2, een financieel voordeel oplevert ten opzichte van de toelage   voor gevaarlijke, ongezonde of hinderlijke werken die sinds 1 mei 2009 wordt   uitgekeerd, zal voor de periode van 1 mei 2009 tot 1 januari 2014 het verschil   tussen de toelage, vermeld in artikel 12, § 2, en de sinds 1 mei 2009   uitbetaalde toelage voor gevaarlijke, ongezonde of hinderlijke werken worden   betaald;<BR>3° de personeelsleden die niet op de lijst, opgenomen in bijlage   II.C bij dit besluit staan, en die niet vallen onder de toepassing van artikel   12, § 2, komen in aanmerking voor de toelage voor transport langs trek- en   jaagpaden voor een periode van maximaal negen jaar vanaf 1 januari 2014. Het   gaat om personeelsleden van niveau B, C of D die belast zijn met het besturen   van een dienst- of poolwagen, of vaartuig langsheen trekwegen of jaagpaden in   opdracht van Waterwegen en Zeekanaal NV. Ze ontvangen een toelage van 2,5 euro   (100 %) per dag. Bij herhaalde fouten met schadegevolg te wijten aan het   personeelslid, kan bij beslissing van de lijnmanager gedurende maximaal één jaar   het voordeel van de toelage geheel of gedeeltelijk worden ontnomen. In geval van   een zware fout met schadegevolg kan bij beslissing van de raad van bestuur het   personeelslid de volledige toelage verliezen, onverminderd de tussenkomst in het   herstel van de schade. Die toelage is niet cumuleerbaar met de vrije woonst of   de vervangende toelage, vermeld in artikel VII 56 en VII 57 van het Vlaams   personeelsstatuut van 13 januari 2006.
 
 ### ART. 29.
 
@@ -745,363 +749,20 @@ SALARISSCHAAL HAVENKAPITEIN<br>
 
 ### BIJLAGE II.
 
-LIJST VAN GEVAARLIJKE-, ONGEZONDE- OF HINDERLIJKE WERKEN EN DE TOELAGEN DIE ER AAN ZIJN GEKOPPELD<br>
-
-<p>1. Gevaarlijke werken<br>
-a) Werken van burgerlijke bouwkunde</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- afbraakwerken van gebouwen waarvan de stabiliteit in gevaar verkeert</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- voor stukadoors- en voegwerk</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;a) plaatsen en wegnemen van stellingen vanaf 15 m. boven de grond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;b) werken aan kroonlijsten op opgehangen ladders, loopplanken, stellingen en hangbruggen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Voor de schilders, werken aan kroonlijsten met behulp van een haakladder genaamd « kroonlijstladder », bedoelde kroonlijst zijnde op minstens 15 m. van de grond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Voor de loodgieters - zinkbewerkers; voor werken aan kroonlijsten op meer dan 15 m. boven de grond, voor zover de werklieden op hangladders werken, op opgehangen loopplanken, stellingen of hangbruggen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Voor sleunwerken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-b) Werken aan de hefbruggen</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Smeren en bijsmeren van de verschillende stalen kabels</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>33 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Monteren en demonteren van stellingen op 45 m. als voorbereiding op het smeren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>45 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Herstellen of vernieuwen van de leirollen van de tegengewichten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>40 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Herstellen van de kabelevenaars aan de stalen kabels</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>40 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Opgieten van kabelkousen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>27 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-c) Transport van geld of waardestukken</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- de ambtenaar die belast is met het vertransporteren met de wagen van geld en waardestukken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>33 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-d) Transport langs trek- en jaagpaden<br>
-- Aan de personeelsleden van de instelling van niveau B, C en D die met het besturen van een aan de instelling toebehorend voertuig langsheen trekwegen of jaagpaden worden belast, wordt een toelage voor transport langs trek- en jaagpaden toegekend, waarvan het bedrag op 2,5 EUR (100 %) per dag wordt vastgesteld. Als voorwaarde geldt dat dit enkel mogelijk is wanneer het transport in opdracht gebeurt. De maximum snelheid van 30 km/u én de richtlijnen van het bericht aan personeel nr. 10 (gebruik van jaagpaden bij W&amp;Z) dienen ook steeds in acht te worden genomen.<br>
-- Bij herhaalde fouten met schadegevolg te wijten aan het personeelslid, kan bij beslissing van de leidend ambtenaar gedurende maximum één jaar het voordeel van de toelage geheel of gedeeltelijk ontnomen worden.<br>
-- Ingeval van zware fout met schadegevolg kan bij beslissing van de raad van bestuur de ambtenaar de volledige toelage verliezen, onverminderd de tussenkomst in het herstel van de schade.<br>
-- De regeling is eveneens van toepassing op personeelsleden belast met het besturen van een vaartuig.<br>
-- Deze toelage is niet cumuleerbaar met de regeling voor vrije huisvesting of de vervangende toelagen.<br>
-2. Ongezonde werken</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Werken met gasbrander of booglasser op metalen die werden geverfd, verzinkt of verlood</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Pistoolverven</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Stukadoren met pistool</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Ledigen van zakken cement in de betonmolen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>12,5 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Verhandelen van losse cement zonder speciale installatie en wanneer het personeelslid werkelijk blootgesteld is aan cementstof</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>12,5 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Werken waar het personeelslid werkelijk in aanraking komt met in ontbinding zijnde organische stoffen, vervuild water, ongedierte, moeras, slijk, bijtende stoffen, stof of chemische dampen in gesloten ruimten.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Ontstoppen van riolen in gebouwen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>50 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Drenken van hout met bijtende producten en/of verwerken van hout dat zo werd behandeld</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>15 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Verwijderen van drijvende voorwerpen uit het kanaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Sproeien van chemische stoffen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p><br>
-3. Hinderlijke of moeilijke werken</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Werken in de caissons van de sluisdeuren in dienst of buiten dienst voor herstelling</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>50 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Herstellingswerken in de kamers voor de tegengewichten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>25 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Hanteren van breekhamer, mechanische stamper, luchtdrukhamer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>10 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Werken langs buiten uitgevoerd aan het onderste vlak van buiten dienst gestelde sluisdeuren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>30 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>&nbsp;- Schilderen van het raamwerk der hefbrugportieken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>27 %</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
+...
 <p>&nbsp;</p>
+
+### BIJLAGE II.A
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/15_1.pdf#page=19">Bijlage   II.A</A>
+
+### BIJLAGE II.B
+
+Bijlage II.B. Profielgebonden stelsel als vermeld in artikel 12 § 2,   tweede lid<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>      <TD>      <TD><BR>    <TR>      <TD>      <TD>PROFIEL 1       <TD><BR>    <TR>      <TD>      <TD>Deskundige topografie       <TD><BR>    <TR>      <TD>      <TD>Garagist       <TD><BR>    <TR>      <TD>      <TD>Hoofdwerfinspecteur       <TD><BR>    <TR>      <TD>      <TD>Hydrograaf (assistent)       <TD><BR>    <TR>      <TD>      <TD>Patrimoniuminspecteur       <TD><BR>    <TR>      <TD>      <TD>Patrimoniumtoezichter       <TD><BR>    <TR>      <TD>      <TD>Schoonmaker       <TD><BR>    <TR>      <TD>      <TD>Topograaf       <TD><BR>    <TR>      <TD>      <TD>Werfinspecteur       <TD><BR>    <TR>      <TD>      <TD>Werftoezichter       <TD><BR>    <TR>      <TD>      <TD>      <TD><BR></TD></TR></TBODY></TABLE><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>      <TD>      <TD><BR>    <TR>      <TD>      <TD>PROFIEL 2       <TD><BR>    <TR>      <TD>      <TD>Groenwerker       <TD><BR>    <TR>      <TD>      <TD>Loodgieter       <TD><BR>    <TR>      <TD>      <TD>Matroos       <TD><BR>    <TR>      <TD>      <TD>Metser       <TD><BR>    <TR>      <TD>      <TD>Onderhoudsmedewerker       <TD><BR>    <TR>      <TD>      <TD>Polyvalent districtsmedewerker       <TD><BR>    <TR>      <TD>      <TD>Polyvalent onderhoudsmedewerker       <TD><BR>    <TR>      <TD>      <TD>Polyvalent regiemedewerker       <TD><BR>    <TR>      <TD>      <TD>Polyvalent technisch medewerker       <TD><BR>    <TR>      <TD>      <TD>Schipper - onderhoudsmedewerker       <TD><BR>    <TR>      <TD>      <TD>Schipper - matroos       <TD><BR>    <TR>      <TD>      <TD>Schipper       <TD><BR>    <TR>      <TD>      <TD>Schrijnwerker       <TD><BR>    <TR>      <TD><BR></TD></TR></TBODY></TABLE><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>      <TD>      <TD><BR>    <TR>      <TD>      <TD>PROFIEL 3       <TD><BR>    <TR>      <TD>      <TD>Elektricien       <TD><BR>    <TR>      <TD>      <TD>Mecanicien       <TD><BR>    <TR>      <TD><BR></TD></TR></TBODY></TABLE>
+
+### BIJLAGE II.C
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/15_1.pdf#page=21">Bijlage   II.C</A>
 
 ### BIJLAGE III.
 
