@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024458,
+  "title": "Decreet van 2014-04-25 houdende wijziging van diverse bepalingen van het decreet van 13 april 1999 houdende machtiging van de Vlaamse Regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024458/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "74b334954498fe509e8614fab970df999f8c8ad7c6712dd5f081b2893a47dff5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024458&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-08-26",
+  "numac": 2014035672,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
