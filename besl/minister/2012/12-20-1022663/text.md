@@ -36,7 +36,7 @@ Ter uitvoering van artikel 5, tweede lid, van het besluit van de Vlaamse   Reger
 
 ### ART. 3.
 
-Ter uitvoering van artikel 7, tweede lid, en artikel 37, 3°, c), van het   besluit van de Vlaamse Regering van 16 november 2012 wordt verstaan onder   achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid : achterstallige   schulden van 2.500 euro of meer bij de Rijksdienst voor Sociale Zekerheid,   ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor   Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een   afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig   beschouwd.<BR>
+Ter uitvoering van artikel 7, tweede lid, en artikel 37, 3°, c), van het   besluit van de Vlaamse Regering van 16 november 2012 wordt verstaan onder   achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid : achterstallige   schulden van 3000 euro of meer bij de Rijksdienst voor Sociale Zekerheid,   ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor   Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een   afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig   beschouwd.<BR>
 
 ### ART. 4.
 
