@@ -1758,6 +1758,157 @@ Artikel 25ter van hetzelfde decreet, ingevoegd bij het decreet van 1 juli 2011, 
 
 Artikel 26 van hetzelfde decreet wordt opgeheven.<br /><br />
 
+### ART. 142.
+
+In artikel 27, § 1, van hetzelfde decreet wordt punt 1° vervangen door wat volgt :<br />« 1° de universiteit heeft in de academiejaren t-7/t-6 tot en met t-3/t-2 ten minste 65 doctoraatsdiploma's uitgereikt; ».<br /><br />
+
+### ART. 143.
+
+In artikel 28 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br />1° in paragraaf 1, 1°, wordt de zinsnede « t-6/t-5 » vervangen door de zinsnede « t-7/t-6 »;<br />2° in paragraaf 2, 1°, wordt het getal « 50 » vervangen door het getal « 65 »;<br />3° in paragraaf 2, 2°, wordt de zinsnede « 50 en kleiner is dan of gelijk is aan 400 » vervangen door de zinsnede « 65 en kleiner is dan of gelijk aan 500 »;<br />4° in paragraaf 2, 3°, wordt het getal « 400 » vervangen door het getal « 500 ». <br /><br />
+
+### ART. 144.
+
+<p>Artikel 29 wordt vervangen door wat volgt :<br>
+« Art. 29. § 1. Bij de berekening van het variabele onderzoeksdeel van een universiteit (VOZi) wordt het bedrag van het variabele onderzoeksdeel VOZun, respectievelijk VOZun2014, vermeld in of berekend overeenkomstig artikel 9, verdeeld over de universiteiten volgens de procentuele verdeelsleutel, vermeld in paragraaf 2 van dit artikel.<br>
+<br>
+§ 2. De verdeelsleutel is het gewogen gemiddelde van de volgende vier elementen :<br>
+1° het procentuele aandeel van iedere associatie in het aantal academisch gerichte initiële bachelor- en masterdiploma's, uitgereikt door de universiteit en door de hogescholen die deel uitmaken van de betreffende associatie in de academiejaren t-7/t-6 tot en met t-3/t-2. Op de uitgereikte diploma's wordt het puntengewicht van het studiegebied, vermeld in artikel 23, toegepast. Voor de academisch gerichte bachelor- en masteropleidingen die met ingang van het academiejaar 2013-2014 geïntegreerd worden in een universiteit, evolueert het puntengewicht overeenkomstig artikel 23, § 1, 4°. Voor de academisch gerichte kunstopleidingen wordt de som van het puntengewicht in artikel 23, § 1, 2°, en artikel 23, § 4, toegepast;<br>
+2° het procentuele aandeel van iedere universiteit in het aantal doctoraatsdiploma's, uitgereikt in de academiejaren t-7/t-6 tot en met t-3/t-2, met toepassing van het puntengewicht van het studiegebied, vermeld in artikel 23;<br>
+3° het procentuele aandeel van iedere universiteit in het aantal publicaties en het aantal citaties over de jaren t-12 tot en met t-3. De publicaties en citaties worden vastgesteld overeenkomstig de voorschriften, vastgelegd bij of krachtens artikel 168 van het Universiteitendecreet;<br>
+4° het procentuele aandeel van iedere universiteit in de parameter « mobiliteit en diversiteit », dat is het procentuele aandeel van elke universiteit in het aantal eerste aanstellingen of benoemingen in een graad van het zelfstandig academisch personeel van :<br>
+a) personen die gepromoveerd zijn tot doctor aan een andere universiteit dan de aanstellende of benoemende universiteit;<br>
+b) personen die aan de aanstellende of benoemende universiteit gepromoveerd zijn tot doctor, maar gedurende de laatste vijf jaar ten minste drie jaar geen deel hebben uitgemaakt van het personeel bij die universiteit of een andere universiteit, bij een universitair ziekenhuis, een hogeschool, een publieke onderzoeksorganisatie of een onderzoeksorganisatie die structurele financiering krijgt vanuit de Vlaamse begroting;<br>
+c) personen van het vrouwelijke geslacht.<br>
+<br>
+Onder eerste aanstelling of benoeming als vermeld in het eerste lid, wordt verstaan de indiensttreding bij de universiteit in een van de graden van het zelfstandig academisch personeel overeenkomstig hoofdstuk IV, afdeling 3, van het Universiteitendecreet.<br>
+<br>
+Bij de bepaling van het aantal aanstellingen en benoemingen :<br>
+1° wordt geen rekening gehouden met dubbeltellingen, in de zin dat een persoon die bij de aanstelling of benoeming aan een universiteit voldoet aan twee criteria als vermeld in het eerste lid, 4°, eenmaal wordt geteld;<br>
+2° worden alleen aanstellingen of benoemingen van ten minste 80 % aan de universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds de universiteit en anderzijds :<br>
+a) het daaraan verbonden academisch ziekenhuis. Voor de toepassing van deze bepaling wordt het Universitair Ziekenhuis Gent respectievelijk het Universitair Ziekenhuis Antwerpen beschouwd als verbonden met de Universiteit Gent respectievelijk de Universiteit Antwerpen;<br>
+b) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+c) het IWT;<br>
+d) de strategische onderzoekscentra (IBBT, IMEC, VITO en VIB).<br>
+<br>
+De gegevens voor de berekening van de parameter « mobiliteit en diversiteit » worden aangeleverd door de Vlaamse Interuniversitaire Raad na een gezamenlijke validatie ervan door de universiteiten, de overheid en de commissarissen die toezicht uitoefenen op de universiteiten.<br>
+<br>
+§ 3. Voor de weging van de elementen, vermeld in paragraaf 2, worden de volgende factoren toegepast :<br>
+</p>
+
+<table border="1" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>begrotingsjaar</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2013</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2014 en 2015</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2016 en 2017</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2018 en 2019</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>2020 en 2021</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>diploma's</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,24</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,23</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,225</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>doctoraten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,40</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,39</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,38</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,375</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>publicaties en citaten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,30</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>diversiteit en mobiliteit</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,06</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,07</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,08</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,09</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<p>0,10</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>§ 4. In afwijking van paragraaf 1 wordt tot en met het begrotingsjaar 2013 0,23 % van het bedrag van het variabele onderzoeksdeel, vermeld of berekend conform artikel 9, voorafgenomen voor de HUB-KUB. Voor de berekening van het procentuele aandeel in het aantal doctoraatsdiploma's, in het aantal publicaties en citaties en in het aantal eerste aanstellingen of benoemingen, vermeld in paragraaf 2 van dit artikel, wordt de HUB-KUB uitgezonderd.<br>
+<br>
+Vanaf het begrotingsjaar 2014 worden voor de bepalingen van paragraaf 1, 2 en 3, de Katholieke Universiteit Leuven en de HUB-KUB als een universiteit beschouwd. Voor de berekening van het variabele onderzoeksdeel worden het aantal uitgereikte initiële bachelordiploma's, het aantal uitgereikte doctoraatsdiploma's, het aantal publicaties en citaties, en het aantal eerste aanstellingen of benoemingen van de HUB-KUB geteld bij de aantallen van de Katholieke Universiteit Leuven. ».<br>
+<br>
+<br>
+&nbsp;</p>
+
 ### ART. 145.
 
 Artikel 32 van hetzelfde decreet wordt vervangen door wat volgt :<br />« Art. 32. § 1. Vanaf het begrotingsjaar 2014 wordt de werkingsuitkering van een hogeschool of universiteit als volgt berekend :Wi = SOWi + VOWi + SOZi + VOZi,<br />waarbij :<br />1° Wi gelijk is aan de werkingsuitkering voor instelling i in het begrotingsjaar t;<br />2° SOWi gelijk is aan de onderwijssokkel voor instelling i, berekend overeenkomstig artikel 13;<br />3° VOWi gelijk is aan het variabele onderwijsdeel voor instelling i, berekend overeenkomstig artikel 14;<br />4° SOZi gelijk is aan de onderzoekssokkel voor instelling i, berekend overeenkomstig artikel 28;<br />5° VOZi gelijk is aan het variabele onderzoeksdeel voor instelling i, berekend overeenkomstig artikel 29.<br /><br />§ 2. In afwijking van paragraaf 1 wordt in het begrotingsjaar t de werkingsuitkering van een universiteit Wi verminderd met de volgende bedragen :<br />1° het bedrag van de personeelskosten, opgenomen in de overeenkomst tussen de desbetreffende hogeschool en universiteit, zoals vermeld in artikel 171vicies sexies van het Hogescholendecreet, voor het begrotingsjaar t; <br />2° het bedrag, berekend op basis van de personeelskosten, vermeld in artikel 171vicies septies van het Hogescholendecreet, voor het begrotingsjaar t; <br />3° andere componenten van de werkingsuitkering, overeenkomstig artikel 24, § 6, van het Structuurdecreet.<br /><br />§ 3. In afwijking van paragraaf 1 wordt in het begrotingsjaar t de werkingsuitkering van een hogeschool Wi vermeerderd met de volgende bedragen :<br />1° het bedrag van de personeelskosten, opgenomen in de overeenkomst tussen de desbetreffende hogeschool en universiteit, zoals vermeld in artikel 171vicies sexies van het Hogescholendecreet, voor het begrotingsjaar t;<br />2° het bedrag, berekend op basis van de personeelskosten, vermeld in artikel 171vicies septies van het Hogescholendecreet, voor het begrotingsjaar t;<br />3° andere componenten van de werkingsuitkering, overeenkomstig artikel 24, § 6, van het Structuurdecreet. ».<br /><br />

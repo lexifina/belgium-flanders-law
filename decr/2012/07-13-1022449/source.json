@@ -2,16 +2,16 @@
   "codex_id": 1022449,
   "title": "Decreet van 2012-07-13 betreffende de integratie van de academische hogeschoolopleidingen in de universiteiten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022449/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "bbc1f2d0f04431b87b10ec73eb94fb0665486ed1e037a299b8df9e72fe13f4aa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022449/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "212f94338d882f0b51190f5e24d53fd0e17acdb4c577f4a3a65b99fae39c9e66",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022449&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2014-01-01",
   "made": "2012-07-13",
   "gazette": "2012-11-08",
   "numac": 2012036158,
   "document_start": null,
   "document_end": null,
-  "in_force": "2013-09-01",
-  "article_versions": 158,
-  "record_form": "consolidated version as in force on 2013-09-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 161,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
