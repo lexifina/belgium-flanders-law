@@ -43,3 +43,11 @@ In Bijlage III/3 van hetzelfde besluit, ingevoegd bij besluit van 21   december 
 ### ART. 16.
 
 Aan bijlage VI van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° in punt 10.1 worden de woorden « fotovoltaïsche systemen op   het gebouw » vervangen door de woorden « perceelsgebonden fotovoltaïsche   systemen »;<BR>2° in punt 10.2 worden de woorden « fotovoltaïsche   zonne-energiesystemen op het gebouw » vervangen door de woorden «   perceelsgebonden fotovoltaïsche zonne-energiesystemen ».<BR>
+
+### ART. 17.
+
+Bijlage V van hetzelfde besluit wordt vervangen door de bijlage 1, die bij   dit besluit is gevoegd.<BR>
+
+### ART. 18.
+
+Bijlage VI van hetzelfde besluit wordt vervangen door de bijlage 2, die   bij dit besluit is gevoegd.<BR>
