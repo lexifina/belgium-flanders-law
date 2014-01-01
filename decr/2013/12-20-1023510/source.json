@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023510,
+  "title": "Decreet van 2013-12-20 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023510/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "8bf99641eb670ed6692aae9b175ba3944f25ab36ed3610b94913dfab1d0b9b4a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023510&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2013-12-30",
+  "numac": 2013036194,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
