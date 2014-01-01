@@ -340,7 +340,7 @@ Aan artikel 253 van het Wetboek van de inkomstenbelastingen wordt een punt 9° t
 
 ### ART. 52.
 
-Elke som die aan een persoon moet worden teruggegeven of betaald, hetzij in het kader van de toepassing van de fiscale regelgeving waarvan de inning en invordering door de Vlaamse Belastingdienst wordt verzekerd, hetzij krachtens de bepalingen van het burgerlijk recht met betrekking tot de onverschuldigde betaling, kan naar keuze en zonder formaliteit door de bevoegde ambtenaar worden aangewend ter betaling van de door deze persoon verschuldigde bedragen bij toepassing van bedoelde belastingwetten of ter voldoening van de fiscale of niet-fiscale schuldvorderingen waarvan de inning en invordering, door of krachtens een bepaling met kracht van wet, door de Vlaamse Belastingdienst worden verzekerd. Die aanwending wordt beperkt tot het niet-betwiste gedeelte van de schuldvorderingen op deze persoon.<br /><br />
+<P>...</P>
 
 ## HOOFDSTUK 7 [... (opgeh. decr. 18 december 2015, art. 8, I: 1 januari 2016)]
 
