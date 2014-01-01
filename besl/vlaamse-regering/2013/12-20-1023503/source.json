@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023503,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 tot wijziging van artikel 3, 5 en 7 van het besluit van de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023503/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "c630d6ff65a5319813d488c697beff02280fbac621097c8604c32958633da57b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023503&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2013-12-27",
+  "numac": 2013036180,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
