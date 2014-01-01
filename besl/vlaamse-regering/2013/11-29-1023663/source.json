@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023663,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023663/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e429c88c50fc27e0bce8a4740fa1ea8c28cf9951231fc959589600303abd5c70",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023663&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-11-29",
+  "gazette": "2014-01-28",
+  "numac": 2013036147,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
