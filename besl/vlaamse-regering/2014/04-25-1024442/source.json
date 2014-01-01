@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024442,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van diverse bepalingen uit de regelgeving betreffende de woonzorgvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024442/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "03fd0d4160b42f06beb13874dc8d963122fdd23fd8bdf13d8308ceb06facf09c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024442&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-08-20",
+  "numac": 2014035566,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
