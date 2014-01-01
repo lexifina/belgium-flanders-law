@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 21 november 2003 betref
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° administrateur-generaal : de leidend ambtenaar van het agentschap;<br />2° adviesraad : de adviesraad die bevoegd is voor de behandeling van bezwaar- of verweermiddelen met betrekking tot de erkenning van verzorgingsvoorzieningen;<br />3° agentschap : het Vlaams Agentschap Zorg en Gezondheid van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap « Zorg en Gezondheid »;<br />4° analoge screeningsmammografie : een screeningsmammografie waarbij een beeld wordt geproduceerd via een filmschermsysteem;<br />5° besluit van de Vlaamse Regering van 12 december 2008 : het besluit van de Vlaamse Regering van 12 december 2008 betreffende bevolkingsonderzoek in het kader van ziektepreventie;<br />6° centrum voor borstkankeropsporing : een voorziening, partnerorganisatie of organisatie met terreinwerking die in opdracht van de Vlaamse overheid organisatorische taken vervult in het kader van het Vlaams bevolkingsonderzoek naar borstkanker;<br />7° controleorganisatie : een organisatie voor de controle van de fysisch-technische kwaliteit van de toestellen voor screeningsmammografie, die erkend is door de administrateur-generaal als organisatie met terreinwerking;<br />8° decreet van 23 mei 2003 : het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen;<br />9° decreet van 21 november 2003 : het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid;<br />10° digitale screeningsmammografie : een screeningsmammografie waarbij een digitaal beeld wordt geproduceerd via een fotostimuleerbare fosforplaat, ook computed radiography genoemd, of via een directe röntgenstralendetectie op een beeldreceptor, ook direct radiography genoemd;<br />11° Europese aanbevelingen : de aanbevelingen van de Europese Commissie voor kwaliteitsbewaking bij mammografische screening, vierde editie, 2006, met inbegrip van de eventuele wijzigingen en addenda;<br />12° mammografische eenheid : een individuele zorgaanbieder, vermeld in artikel 2, 13°, van het decreet van 21 november 2003, die wordt erkend voor activiteiten in het kader van het Vlaams bevolkingsonderzoek naar borstkanker;<br />13° radioloog : een geneesheer-specialist in de röntgendiagnose waarvan de radiologische prestaties door het RIZIV worden terugbetaald;<br />14° screeningsmammografie : een röntgenonderzoek van de borstklieren bij vrouwen in het kader van het Vlaams bevolkingsonderzoek naar borstkanker;<br />15° toestel voor digitale screeningsmammografie : een functioneel geheel van onderdelen dat gebruikt wordt voor digitale screeningsmammografieën en dat bestaat uit een onderdeel beeldverwerving en -verwerking en een onderdeel beeldweergave;<br />16° typetoelating : de goedkeuring door de Vlaamse werkgroep van de onderdelen beeldverwerving of -verwerking en beeldweergave van een toestel voor digitale screeningsmammografie;<br />17° Vlaams bevolkingsonderzoek naar borstkanker : het bevolkingsonderzoek naar borstkanker namens de Vlaamse Regering;<br />18° Vlaamse werkgroep : de Vlaamse werkgroep Bevolkingsonderzoek naar borstkanker, opgericht ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 14 november 2008 betreffende Vlaamse werkgroepen binnen het preventieve gezondheidsbeleid;<br />19° Zorginspectie : het agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn, Volksgezondheid en Gezin.
+In dit besluit wordt verstaan onder :<BR>1° administrateur-generaal : de   leidend ambtenaar van het agentschap;<BR>2° ...<BR>3° agentschap : het Vlaams   Agentschap Zorg en Gezondheid van het Vlaams Ministerie van Welzijn,   Volksgezondheid en Gezin, opgericht bij het besluit van de Vlaamse Regering van   7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap « Zorg en   Gezondheid »;<BR>4° analoge screeningsmammografie : een screeningsmammografie   waarbij een beeld wordt geproduceerd via een filmschermsysteem;<BR>5° besluit   van de Vlaamse Regering van 12 december 2008 : het besluit van de Vlaamse   Regering van 12 december 2008 betreffende bevolkingsonderzoek in het kader van   ziektepreventie;<BR>6° centrum voor borstkankeropsporing : een voorziening,   partnerorganisatie of organisatie met terreinwerking die in opdracht van de   Vlaamse overheid organisatorische taken vervult in het kader van het Vlaams   bevolkingsonderzoek naar borstkanker;<BR>7° controleorganisatie : een   organisatie voor de controle van de fysisch-technische kwaliteit van de   toestellen voor screeningsmammografie, die erkend is door de   administrateur-generaal als organisatie met terreinwerking;<BR>8° decreet van 23   mei 2003 : het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en   betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en   welzijnsvoorzieningen;<BR>9° decreet van 21 november 2003 : het decreet van 21   november 2003 betreffende het preventieve gezondheidsbeleid;<BR>10° digitale   screeningsmammografie : een screeningsmammografie waarbij een digitaal beeld   wordt geproduceerd via een fotostimuleerbare fosforplaat, ook computed   radiography genoemd, of via een directe röntgenstralendetectie op een   beeldreceptor, ook direct radiography genoemd;<BR>11° Europese aanbevelingen :   de aanbevelingen van de Europese Commissie voor kwaliteitsbewaking bij   mammografische screening, vierde editie, 2006, met inbegrip van de eventuele   wijzigingen en addenda;<BR>12° mammografische eenheid : een individuele   zorgaanbieder, vermeld in artikel 2, 13°, van het decreet van 21 november 2003,   die wordt erkend voor activiteiten in het kader van het Vlaams   bevolkingsonderzoek naar borstkanker;<BR>13° radioloog : een   geneesheer-specialist in de röntgendiagnose waarvan de radiologische prestaties   door het RIZIV worden terugbetaald;<BR>14° screeningsmammografie : een   röntgenonderzoek van de borstklieren bij vrouwen in het kader van het Vlaams   bevolkingsonderzoek naar borstkanker;<BR>15° toestel voor digitale   screeningsmammografie : een functioneel geheel van onderdelen dat gebruikt wordt   voor digitale screeningsmammografieën en dat bestaat uit een onderdeel   beeldverwerving en -verwerking en een onderdeel beeldweergave;<BR>16°   typetoelating : de goedkeuring door de Vlaamse werkgroep van de onderdelen   beeldverwerving of -verwerking en beeldweergave van een toestel voor digitale   screeningsmammografie;<BR>17° Vlaams bevolkingsonderzoek naar borstkanker : het   bevolkingsonderzoek naar borstkanker namens de Vlaamse Regering;<BR>18° Vlaamse   werkgroep : de Vlaamse werkgroep Bevolkingsonderzoek naar borstkanker, opgericht   ter uitvoering van artikel 2 van het besluit van de Vlaamse Regering van 14   november 2008 betreffende Vlaamse werkgroepen binnen het preventieve   gezondheidsbeleid;<BR>19° Zorginspectie : het agentschap Zorginspectie,   opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot   oprichting van het intern verzelfstandigd agentschap Inspectie Welzijn,   Volksgezondheid en Gezin.
 
 ## HOOFDSTUK 2. Algemene bepalingen
 
@@ -50,7 +50,7 @@ De mammografische eenheid moet voldoende medisch-radiologische kwaliteit bieden,
 
 ### ART. 10.
 
-§ 1. De mammografische eenheid sluit een samenwerkingsovereenkomst met het centrum voor borstkankeropsporing dat werkzaam is in het gebied van een regionale stad, vermeld in de bijlage van het decreet van 23 mei 2010, waarin de mammografische eenheid zich bevindt. <br /><br />Die samenwerkingsovereenkomst bevat minimaal bindende afspraken over :<br />1° het registreren en uitwisselen van gegevens over de radiologen die screeningsmammografieën uitvoeren en beoordelen; <br />2° het aanbieden van voldoende en toegankelijke afspraaktijdstippen aan de vrouwen die in aanmerking komen voor het Vlaams bevolkingsonderzoek naar borstkanker;<br />3° het uitvoeren van de screeningsmammografieën en de beoordeling ervan;<br />4° het doorgeven van de screeningsmammografieën en de beoordeling ervan en eventueel het doorgeven van andere gegevens over het dossier van de deelnemende vrouw;<br />5° het uitvoeren van een tweede en eventueel derde beoordeling van de screeningsmammografieën en het terugkoppelen van de resultaten daarvan;<br />6° het herhalen van een screeningsmammografie door de mammografische eenheid als vermeld in artikel 7, tweede lid;<br />7° het bewaren van de screeningsmammografieën;<br />8° het registreren en uitwisselen van gegevens die noodzakelijk zijn voor de voortgangscontrole en de kwaliteitsbewaking van het bevolkingsonderzoek in het algemeen en voor de werking van de mammografische eenheid en de radiologen die er werken, in het bijzonder;<br />9° het terugkoppelen en het adviseren over de kwaliteit van de werking van de mammografische eenheid en de radiologen door het centrum voor borstkankeropsporing;<br />10° het omgaan met klachten en het gebruik van een klachtenopvolgingssysteem;<br />11° de duurtijd, de voorwaarden en de procedure tot beëindiging van de overeenkomst, alsook de procedure tot wijziging van de overeenkomst.<br /><br />§ 2. De mammografische eenheid sluit een samenwerkingsovereenkomst met een controleorganisatie, vermeld in artikel 1, 7°. <br /><br />Die samenwerkingsovereenkomst bevat minimaal bindende afspraken over :<br />1° het registreren en uitwisselen van gegevens die noodzakelijk zijn voor de kwaliteitsbewaking van de fysisch-technische aspecten van de werking van de mammografische eenheid;<br />2° het terugkoppelen en het adviseren door de controleorganisatie, over de fysisch-technische kwaliteit van de werking van de mammografische eenheid;<br />3° de duurtijd, de voorwaarden en de procedure tot beëindiging van de overeenkomst, alsook de procedure tot wijziging van de overeenkomst.
+§ 1. De mammografische eenheid sluit een samenwerkingsovereenkomst met het   centrum voor borstkankeropsporing dat werkzaam is in het gebied van een   regionale stad, vermeld in de bijlage van het decreet van 23 mei 2010, waarin de   mammografische eenheid zich bevindt. <BR><BR>Die samenwerkingsovereenkomst bevat   minimaal bindende afspraken over :<BR>1° het registreren en uitwisselen van   gegevens over de radiologen die screeningsmammografieën uitvoeren en beoordelen;   <BR>2° het aanbieden van voldoende en toegankelijke afspraaktijdstippen aan de   vrouwen die in aanmerking komen voor het Vlaams bevolkingsonderzoek naar   borstkanker;<BR>3° het uitvoeren van de screeningsmammografieën en de   beoordeling ervan;<BR>4° het doorgeven van de screeningsmammografieën en de   beoordeling ervan en eventueel het doorgeven van andere gegevens over het   dossier van de deelnemende vrouw;<BR>5° het uitvoeren van een tweede en   eventueel derde beoordeling van de screeningsmammografieën en het terugkoppelen   van de resultaten daarvan;<BR>6° het herhalen van een screeningsmammografie door   de mammografische eenheid als vermeld in artikel 7, tweede lid;<BR>7° het   bewaren van de screeningsmammografieën;<BR>8° het registreren en uitwisselen van   gegevens die noodzakelijk zijn voor de voortgangscontrole en de   kwaliteitsbewaking van het bevolkingsonderzoek in het algemeen en voor de   werking van de mammografische eenheid en de radiologen die er werken, in het   bijzonder;<BR>9° het terugkoppelen en het adviseren over de kwaliteit van de   werking van de mammografische eenheid en de radiologen door het centrum voor   borstkankeropsporing;<BR>10° het omgaan met klachten en het gebruik van een   klachtenopvolgingssysteem;<BR>11° de duurtijd, de voorwaarden en de procedure   tot beëindiging van de overeenkomst, alsook de procedure tot wijziging van de   overeenkomst.<BR><BR>Het centrum voor borstkankeropsporing kan de   samenwerkingsovereenkomst, vermeld in het eerste lid, weigeren te sluiten of   beëindigen, onder voorbehoud van de toepassing van de procedure tot beëindiging,   vermeld in het tweede lid, 11°, als het centrum vaststelt dat er, al dan niet na   een eerdere intrekking van de erkenning, onvoldoende garanties zijn voor de   kwaliteit van de dienstverlening van de mammografische eenheid of van de   meewerkende radiologen. Die vaststelling moet gebaseerd zijn op de   erkenningsvoorwaarden uit dit besluit. Ze wordt gemotiveerd en moet aanvaard   worden door het agentschap.<BR><BR>§ 2. De mammografische eenheid sluit een   samenwerkingsovereenkomst met een controleorganisatie, vermeld in artikel 1, 7°.   <BR><BR>Die samenwerkingsovereenkomst bevat minimaal bindende afspraken over   :<BR>1° het registreren en uitwisselen van gegevens die noodzakelijk zijn voor   de kwaliteitsbewaking van de fysisch-technische aspecten van de werking van de   mammografische eenheid;<BR>2° het terugkoppelen en het adviseren door de   controleorganisatie, over de fysisch-technische kwaliteit van de werking van de   mammografische eenheid;<BR>3° de duurtijd, de voorwaarden en de procedure tot   beëindiging van de overeenkomst, alsook de procedure tot wijziging van de   overeenkomst.
 
 ## Afdeling 2. Voorwaarden voor mammografische eenheden om erkend te blijven
 
@@ -126,7 +126,7 @@ Het agentschap en de Zorginspectie kunnen ter plaatse of op stukken toezicht uit
 
 ### ART. 26.
 
-Als uit de verslaggeving van de intercollegiale toetsing, vermeld in artikel 12, eerste lid, 7°, of uit de beoordeling door het centrum voor borstkankeropsporing blijkt dat een radioloog niet voldoet aan alle normen vermeld in dit besluit en de bijlagen, krijgt de radioloog gedurende maximaal zes maanden een remediëringstraject aangeboden door het centrum voor borstkankeropsporing waarmee een samenwerkingsovereenkomst is gesloten. De radioloog moet de remediëring van het centrum voor borstkankeropsporing aanvaarden.<br /><br />Als uit de verslaggeving van de intercollegiale toetsing, vermeld in artikel 20, 6°, blijkt dat de kwaliteit van een controleorganisatie niet voldoet, wordt de controleorganisatie geremedieerd door de andere controleorganisaties. De remediëring wordt gevolgd door een toetsing die georganiseerd wordt door de andere controleorganisaties.<br /><br />
+<P>Als uit de verslaggeving van de intercollegiale toetsing, vermeld in artikel   12, eerste lid, 7°, of uit het evaluatierapport van het centrum voor   borstkankeropsporing vermeld in bijlage 3, punt 2., eerste lid, blijkt dat een   radioloog niet meer voldoet aan de medisch-radiologische kwaliteit, wordt een   remediëring van maximaal zes maanden opgestart die begeleid wordt door het   centrum voor borstkankeropsporing waarmee de mammografische eenheid waar de   radioloog werkzaam is, een samenwerkingsovereenkomst heeft gesloten. De   radioloog moet de remediëring van het centrum voor borstkankeropsporing   aanvaarden. De verplichting tot remediëring en de termijn van de remediëring   wordt aan de mammografische eenheid en de radioloog in kwestie meegedeeld door   het agentschap.<BR><BR>Als uit het toezicht, controles of evaluaties, vermeld in   artikel 25, blijkt dat een mammografische eenheid niet meer voldoet aan de   medisch-radiologische kwaliteit, vermeld in artikel 15 en bijlage 3, of niet   meer voldoet aan de fysisch-technische kwaliteit, vermeld in artikel 14, § 2, en   bijlage 4, wordt een remediëring van maximaal zes maanden opgestart die begeleid   wordt door het centrum voor borstkankeropsporing waarmee de mammografische   eenheid een samenwerkingsovereenkomst heeft gesloten. De mammografische eenheid   moet de remediëring van het centrum voor borstkankeropsporing aanvaarden. De   verplichting tot remediëring en de termijn van de remediëring wordt aan de   mammografische eenheid meegedeeld door het agentschap.<BR><BR>Als uit de   verslaggeving van de intercollegiale toetsing, vermeld in artikel 20, 6°, blijkt   dat de kwaliteit van een controleorganisatie niet voldoet, wordt een remediëring   van maximaal zes maanden opgestart die begeleid wordt door de andere   controleorganisaties. De controleorganisatie in kwestie moet de remediëring van   de andere controleorganisaties aanvaarden. De verplichting tot remediëring en de   termijn van de remediëring wordt aan de controleorganisatie meegedeeld door het   agentschap. De remediëring wordt gevolgd door een toetsing die georganiseerd   wordt door de andere controleorganisaties.</P>
 
 ## HOOFDSTUK 7. Procedures voor de erkenning en voor de intrekking van de erkenning
 
@@ -134,7 +134,7 @@ Als uit de verslaggeving van de intercollegiale toetsing, vermeld in artikel 12,
 
 ### ART. 27.
 
-Om erkend te worden als mammografische eenheid moet een aanvraag tot erkenning worden ingediend.<br /><br />De aanvraag tot erkenning als mammografische eenheid is alleen ontvankelijk als ze door de verantwoordelijke van de mammografische eenheid ondertekend en schriftelijk of elektronisch wordt ingediend bij de administrateur-generaal, op het adres van het agentschap, en als ze minstens het volgende bevat :<br />1° een identificatiebestand, waarvan het model beschikbaar wordt gesteld door het agentschap; <br />2° een verklaring waarbij de mammografische eenheid aangeeft mee te werken aan de kwaliteitsvolle uitvoering van het Vlaams bevolkingsonderzoek naar borstkanker;<br />3° een verklaring waarbij de mammografische eenheid aangeeft dat ze elke wijziging die betrekking heeft op de erkenning, onder meer een naam- of adreswijziging, ingebruikname van een nieuw toestel, onmiddellijk meedeelt aan het agentschap;<br />4° de bevestiging van de radiologen die digitale screeningsmammografieën uitvoeren, dat ze minstens zeven uur vorming over digitale mammografie hebben gevolgd en met vrucht een leestest van digitale mammografieën van honderd vrouwen hebben afgelegd;<br />5° de lijst met de namen en de RIZIV-nummers van de radiologen die in de mammografische eenheid analoge screeningsmammografieën uitvoeren, en/of een lijst met dezelfde gegevens voor de radiologen die digitale screeningsmammografieën uitvoeren;<br />6° een identificatiebestand van de eindverantwoordelijke van de mammografische eenheid;<br />7° een verklaring waarin de eindverantwoordelijke en de radiologen van de mammografische eenheid verklaren de derdebetalersregeling toe te passen voor alle screeningsmammografieën en de bepalingen van de RIZIV-nomenclatuur te volgen; <br />8° een verklaring waarbij de radiologen die in de mammografische eenheid werken, zich ertoe verbinden om de bepalingen van artikel 7, tweede lid, toe te passen;<br />9° de gegevens over het screeningstoestel dat voldoet aan de bepalingen in artikel 8, § 1, met een attest dat afgeleverd is door een controleorganisatie, waaruit blijkt dat het screeningstoestel voldoet aan de eisen van een acceptatietest, vermeld in artikel 8, § 2; <br />10° een attest dat afgeleverd is door minstens twee radiologen overeenkomstig de bepalingen in artikel 9, derde lid, waaruit blijkt dat de mammografische eenheid voldoet aan de eisen van een medisch-radiologische beoordeling, vermeld in artikel 9;<br />11° een samenwerkingsovereenkomst als vermeld in artikel 10, § 1, met een centrum voor borstkankeropsporing;<br />12° een samenwerkingsovereenkomst als vermeld in artikel 10, § 2, met een controleorganisatie.
+Om erkend te worden als mammografische eenheid moet een aanvraag tot   erkenning worden ingediend.<BR><BR>De aanvraag tot erkenning als mammografische   eenheid is alleen ontvankelijk als ze door de verantwoordelijke van de   mammografische eenheid ondertekend en schriftelijk of elektronisch wordt   ingediend bij de administrateur-generaal, op het adres van het agentschap, en   als ze minstens het volgende bevat :<BR>1° een identificatiebestand, waarvan het   model beschikbaar wordt gesteld door het agentschap; <BR>2° een verklaring   waarbij de mammografische eenheid aangeeft mee te werken aan de kwaliteitsvolle   uitvoering van het Vlaams bevolkingsonderzoek naar borstkanker;<BR>3° een   verklaring waarbij de mammografische eenheid aangeeft dat ze elke wijziging die   betrekking heeft op de erkenning, onder meer een naam- of adreswijziging,   ingebruikname van een nieuw toestel, onmiddellijk meedeelt aan het   agentschap;<BR>4° de bevestiging van de radiologen die digitale   screeningsmammografieën uitvoeren, dat ze minstens zeven uur vorming over   digitale mammografie hebben gevolgd en met vrucht een leestest van digitale   mammografieën van honderd vrouwen hebben afgelegd;<BR>5° de lijst met de namen   en de RIZIV-nummers van de radiologen die in de mammografische eenheid analoge   screeningsmammografieën uitvoeren, en/of een lijst met dezelfde gegevens voor de   radiologen die digitale screeningsmammografieën uitvoeren;<BR>6° een   identificatiebestand van de eindverantwoordelijke van de mammografische   eenheid;<BR>7° een verklaring waarin de eindverantwoordelijke en de radiologen   van de mammografische eenheid verklaren de derdebetalersregeling toe te passen   voor alle screeningsmammografieën en de bepalingen van de RIZIV-nomenclatuur te   volgen; <BR>8° een verklaring waarbij de radiologen die in de mammografische   eenheid werken, zich ertoe verbinden om de bepalingen van artikel 7, tweede lid,   toe te passen;<BR>9° de gegevens over het screeningstoestel dat voldoet aan de   bepalingen in artikel 8, § 1, met een attest dat afgeleverd is door een   controleorganisatie, waaruit blijkt dat het screeningstoestel voldoet aan de   eisen van een acceptatietest, vermeld in artikel 8, § 2; <BR>10° een attest dat   afgeleverd is door minstens twee radiologen overeenkomstig de bepalingen in   artikel 9, derde lid, waaruit blijkt dat de mammografische eenheid voldoet aan   de eisen van een medisch-radiologische beoordeling, vermeld in artikel 9;<BR>11°   een samenwerkingsovereenkomst als vermeld in artikel 10, § 1, met een centrum   voor borstkankeropsporing, tenzij het centrum weigert een   samenwerkingsovereenkomst te sluiten;<BR>12° een samenwerkingsovereenkomst als   vermeld in artikel 10, § 2, met een controleorganisatie.
 
 ### ART. 28.
 
@@ -148,21 +148,21 @@ Als de aanvraag niet ontvankelijk is, wordt de aanvrager op de hoogte gebracht v
 
 ### ART. 30.
 
-Op straffe van niet-ontvankelijkheid kan de aanvrager tot uiterlijk vijftien dagen na de ontvangst van het voornemen tot weigering van de erkenning daartegen met een aangetekende zending een gemotiveerd bezwaarschrift indienen bij de administrateur-generaal. De aanvrager kan daarin uitdrukkelijk vragen om te worden gehoord.<br /><br />De administrateur-generaal zorgt ervoor dat het bezwaarschrift binnen vijftien dagen na de ontvangst ervan, samen met het volledige administratieve dossier, bezorgd wordt aan de adviesraad.
+Op straffe van niet-ontvankelijkheid kan de aanvrager tot uiterlijk   vijftien dagen na de ontvangst van het voornemen tot weigering van de erkenning   daartegen met een aangetekende zending een gemotiveerd bezwaarschrift indienen   bij de administrateur-generaal. De aanvrager kan daarin uitdrukkelijk vragen om   te worden gehoord.
 
 ### ART. 31.
 
-§ 1. Als de aanvrager een bezwaarschrift heeft ingediend overeenkomstig artikel 30, eerste lid, kan de administrateur-generaal alleen een definitieve beslissing over het verlenen of het weigeren van de erkenning nemen na de ontvangst van het advies van de adviesraad of, als dat advies ontbreekt, na het verstrijken van de termijn waarover de adviesraad beschikt. In dat laatste geval moet de administrateur-generaal de aanvrager vooraf horen als de aanvrager in zijn bezwaarschrift daarom heeft verzocht.<br /><br />De beslissing van de administrateur-generaal wordt binnen dertig dagen na de ontvangst van het advies van de adviesraad of na het verstrijken van de termijn waarover de adviesraad overeenkomstig zijn reglementering beschikt om een advies te bezorgen aan de administrateur-generaal, door het agentschap betekend aan de aanvrager met een aangetekende zending.<br /><br />§ 2. Als de aanvrager geen bezwaarschrift heeft ingediend overeenkomstig artikel 30, eerste lid, wordt de definitieve beslissing van de administrateur-generaal over het al dan niet verlenen van de erkenning binnen dertig dagen na het verstrijken van de termijn, vermeld in artikel 30, eerste lid, door het agentschap aan de aanvrager betekend met een aangetekende zending.
+§ 1. Als de aanvrager een bezwaarschrift heeft ingediend conform artikel   30, eerste lid, wordt dat behandeld volgens de regels die zijn vastgesteld bij   of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<BR><BR>§ 2. Als   de aanvrager geen bezwaarschrift heeft ingediend overeenkomstig artikel 30,   eerste lid, wordt de definitieve beslissing van de administrateur-generaal over   het al dan niet verlenen van de erkenning binnen dertig dagen na het verstrijken   van de termijn, vermeld in artikel 30, eerste lid, door het agentschap aan de   aanvrager betekend met een aangetekende zending.
 
 ## Afdeling 3. Sancties
 
 ### ART. 32.
 
-Als een mammografische eenheid niet meer voldoet aan de bepalingen van het decreet van 21 november 2003 of de bepalingen van dit besluit die op haar van toepassing zijn, vraagt het agentschap de mammografische eenheid zich in regel te stellen met de regelgeving en bepaalt de termijn waarbinnen dit moet gebeuren. Als zij zich na die termijn nog niet in regel heeft gesteld geeft de administrateur-generaal van het agentschap, ter uitvoering van artikel 78 van het decreet van 21 november 2003, zijn voornemen tot intrekking van de erkenning te kennen. <br /><br />De administrateur-generaal van het agentschap geeft ook zijn voornemen tot intrekking van de erkenning van de mammografische eenheid te kennen als een radioloog van die mammografische eenheid de opdrachten, vermeld in artikel 11, 12 en 13, niet of niet correct uitvoert, als hij weigert de remediëring van het centrum voor borstkankeropsporing, vermeld in artikel 26, eerste lid, te aanvaarden, of als hij na de remediëring nog altijd de opdrachten, vermeld in artikel 11, 12 of 13, niet of niet correct uitvoert. <br /><br />De procedure, vermeld in het tweede lid, wordt van rechtswege stopgezet als de radioloog in kwestie niet meer werkt in de mammografische eenheid en de mammografische eenheid dat aan het agentschap bevestigt door de naam en het RIZIV-nummer te schrappen op de lijst, vermeld in artikel 6, tweede lid.<br /><br />De administrateur-generaal kan ook de erkenning intrekken als de mammografische eenheid met een aangetekende zending daarom zelf verzoekt.
+Als een mammografische eenheid niet meer voldoet aan de bepalingen van het   decreet van 21 november 2003 of de bepalingen van dit besluit die op haar van   toepassing zijn, vraagt het agentschap de mammografische eenheid zich in regel   te stellen met de regelgeving en bepaalt de termijn waarbinnen dit moet   gebeuren. Als er een verplichting tot remediëring door het agentschap wordt   opgelegd, vermeld in artikel 26, dan geldt die verplichting als vraag van   agentschap om zich in regel te stellen en geldt de termijn van de remediëring   als termijn waarbinnen de mammografische eenheid zich in regel moet stellen. Als   de mammografische eenheid zich na die termijn nog niet in regel heeft gesteld of   als zij de remediëring weigert te aanvaarden, geeft de administrateur-generaal   van het agentschap, ter uitvoering van artikel 78 van het decreet van 21   november 2003, zijn voornemen tot intrekking van de erkenning te   kennen.<BR><BR>De administrateur-generaal van het agentschap geeft ook zijn   voornemen tot intrekking van de erkenning van de mammografische eenheid te   kennen als een radioloog van die mammografische eenheid de opdrachten, vermeld   in artikel 11, 12 en 13, niet of niet correct uitvoert, als hij weigert de   remediëring van het centrum voor borstkankeropsporing, vermeld in artikel 26,   eerste lid, te aanvaarden, of als na de remediëring de medisch-radiologische   kwaliteit, vermeld in artikel 15 en bijlage 3, onvoldoende is.<BR><BR><BR>De   procedure, vermeld in het tweede lid, wordt van rechtswege stopgezet als de   radioloog in kwestie niet meer werkt in de mammografische eenheid en de   mammografische eenheid dat aan het agentschap bevestigt door de naam en het   RIZIV-nummer te schrappen op de lijst, vermeld in artikel 6, tweede   lid.<BR><BR>De administrateur-generaal kan ook de erkenning intrekken als de   mammografische eenheid met een aangetekende zending daarom zelf   verzoekt.
 
 ### ART. 33.
 
-Als een controleorganisatie weigert de remediëring, vermeld in artikelen 26, te aanvaarden of bij de daaropvolgende toetsing nog altijd niet voldoet aan alle normen vermeld in dit besluit en de bijlagen, volgt er een voornemen tot intrekking van de erkenning van de controleorganisatie.<br /><br />Als een controleorganisatie niet langer voldoet aan de bepalingen van het decreet van 21 november 2003 of aan de bepalingen van dit besluit die op haar van toepassing zijn, vraagt het agentschap de controleorganisatie zich in regel te stellen met de regelgeving en bepaalt de termijn waarbinnen dit moet gebeuren. Als zij zich na die termijn nog niet in regel heeft gesteld geeft de administrateur-generaal van het agentschap, ter uitvoering van artikel 78 van het decreet van 21 november 2003, zijn voornemen tot intrekking van de erkenning te kennen.
+<P>Als een controleorganisatie niet meer voldoet aan de bepalingen van het   decreet van 21 november 2003 of de bepalingen van dit besluit die op haar van   toepassing zijn, vraagt het agentschap de controleorganisatie zich in regel te   stellen met de regelgeving en bepaalt de termijn waarbinnen dit moet gebeuren.   Als er een verplichting tot remediëring door het agentschap wordt opgelegd,   vermeld in artikel 26, dan geldt die verplichting als vraag van agentschap om   zich in regel te stellen en geldt de termijn van de remediëring als termijn   waarbinnen de controleorganisatie zich in regel moet stellen. Als de   controleorganisatie zich na die termijn nog niet in regel heeft gesteld of als   zij de remediëring weigert te aanvaarden, geeft de administrateur-generaal van   het agentschap, ter uitvoering van artikel 78 van het decreet van 21 november   2003, zijn voornemen tot intrekking van de erkenning te   kennen.</P>
 
 ## HOOFDSTUK 8. Slotbepalingen
 
@@ -208,155 +208,123 @@ Voorwaarden vorming digitale mammografie<br /><br />De bijlage heeft betrekking 
 
 ### Tekst
 
-Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfjaarlijkse testen, de elementen van de dagelijkse en wekelijkse kwaliteitscontroles en de advisering en rapportering over de verschillende testen<br /><br />De bijlage heeft betrekking op de acceptatietest, vermeld in artikel 8, § 2, op de testen fysisch-technische kwaliteit, vermeld in artikel 14, § 2, op de advisering en rapportering daarover, vermeld in artikel 20, 4° en 5° en de evaluatie van de kwaliteit van de uitvoering van de opdrachten van de mammografische eenheden, vermeld in artikel 25, derde lid.
+<P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><I   style="mso-bidi-font-style: normal">Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en   de halfjaarlijkse testen, de elementen van de dagelijkse en wekelijkse   kwaliteitscontroles en de advisering en rapportering over de verschillende   testen, bij het besluit van de Vlaamse Regering van 16 maart 2012 betreffende   aspecten van het Vlaams bevolkingsonderzoek naar borstkanker</I><?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bijlage heeft betrekking op de acceptatietest, vermeld in artikel 8,   §2, op de testen fysisch-technische kwaliteit, vermeld in artikel 14, §2, op de   advisering en rapportering daarover, vermeld in artikel 20, 4° en 5°, en op de   evaluatie van de kwaliteit van de uitvoering van de opdrachten van de   mammografische eenheden, vermeld in artikel 25, derde lid.   </P>
 
 ### 1.
 
-<p>1. Procedure voor het uitvoeren van de acceptatietesten<br>
-<br>
-1.1. Merk en type van de toestellen die gebruikt worden bij mammografische screening :<br>
-- mammograaf<br>
-- ontwikkeltoestel<br>
-- scherm<br>
-- filmen<br>
-- negatoscoop<br>
-<br>
-1.2. Instellingen voor routineopname :<br>
-- focusgrootte<br>
-- anode/filtercombinatie<br>
-- kV<br>
-- mAS<br>
-- resulterende zwarting = doel-optische densiteit zoals bekomen door een opname van het QC-testobject onder AEC controle, waarbij de resulterende zwarting in het gebied 1.3 - 1.8 OD ligt.<br>
-<br>
-1.3. Geometrie : focusgrootte, focus-filmafstand, uitlijning stralingsveld</p>
+<p>1. Procedure voor analoge toestellen</p>
 
-<table border="1" cellpadding="0">
+<p>1.1 Procedure voor het uitvoeren van de acceptatietesten</p>
+
+<p>1.1.1 Merk en type van de toestellen die gebruikt worden bij mammografische screening noteren:</p>
+
+<p>a) mammograaf;</p>
+
+<p>b) ontwikkeltoestel;</p>
+
+<p>c) scherm;</p>
+
+<p>d) filmen;</p>
+
+<p>e) negatoscoop.</p>
+
+<p>1.1.2 Instellingen voor routineopname vastleggen:</p>
+
+<p>a) focusgrootte;</p>
+
+<p>b) anode - filtercombinatie;</p>
+
+<p>c) kV;</p>
+
+<p>d) mAs;</p>
+
+<p>e) resulterende zwarting = doel-optische densiteit zoals verkregen door een opname van het QC-testobject onder AEC controle, waarbij de resulterende zwarting in het gebied 1.3 – 1.8 OD ligt.</p>
+
+<p>1.1.3 Geometrie: focusgrootte, focus-filmafstand, uitlijning stralingsveld</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:114.15pt">
-			<p>Benodigde apparatuur</p>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Focusgrootte</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
 
-			<p>stervormig testobject (1° en/of 0.5° ), teststandaard, cassette en zwarte film of schermloze cassette</p>
+			<p>stervormig testobject (1° en/of 0,5°), teststandaard, cassette en zwarte film of schermloze cassette</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>FFA</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>FFA</strong></p>
 
 			<p>meetlint</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Uitlijning stralingsveld</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld</strong></p>
 
-			<p>twee cassettes, stralingsattenuators (vb. paperclips of munten)</p>
+			<p>twee cassettes, stralingsattenuators (bijvoorbeeld paperclips of munten)</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:114.15pt">
-			<p>Meetomstandigheden<br>
-			Compressieplaat afwezig</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Focusgrootte</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 
-			<p>Handmatige belichting, enkel de focusgrootte, gebruikt bij screening, wordt gemeten.</p>
+			<p>compressieplaat afwezig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
+
+			<p>handmatige belichting. Alleen de focusgrootte, gebruikt bij screening, wordt gemeten.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Uitlijning stralingsveld</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld</strong></p>
 
-			<p>De films in de cassette op de cassettehouder en in de cassettehouder moeten zich zo dicht mogelijk bij elkaar bevinden. Om de scherpte te verhogen, verkregen in de opname, genomen op de cassettehouder, kan een zwarte film toegevoegd worden tussen film en scherm, of kan de filmemulsiezijde van de film weggekeerd zijn van het scherm.</p>
+			<p>De films in de cassettes op en in de cassettehouder moeten zich zo dicht mogelijk bij elkaar bevinden. Om de scherpte te verhogen, verkregen in de opname, genomen op de cassettehouder, kan een zwarte film toegevoegd worden tussen film en scherm, of kan de filmemulsiezijde van de film weggedraaid zijn van het scherm.</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:114.15pt">
-			<p>Normen</p>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Focusgrootte</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
 
 			<p>De NEMA-normen worden als referentie genomen.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>FFA</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>FFA</strong></p>
 
-			<p>geen norm, typisch =&gt; 60 cm, afwijking ten opzichte van de door de fabrikant aangegeven waarde &lt; 10 mm : als dat niet zo is, wordt dat vermeld in het verslag</p>
+			<p>geen norm, typisch ≥60 cm, afwijking ten opzichte van de door de fabrikant aangegeven waarde &lt; 10 mm: als dat niet zo is, wordt dat vermeld in het verslag.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Uitlijning stralingsveld – beeldontvanger</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld – beeldontvanger</strong></p>
 
-			<p>o zijkanten : de röntgenbundel mag niet over de rand van het beeldvlak reiken<br>
-			o thoraxzijde : de röntgenbundel moet tot aan de rand van het beeldvlak komen en mag maximaal 5 mm buiten de film vallen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:114.15pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:340.95pt">
-			<p>Focusgrootte</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; zijkanten: de röntgenbundel mag niet over de rand van het beeldvlak reiken</p>
 
-			<p>o bij veranderingen van de resolutie<br>
-			o na vervanging van de röntgenbuis</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thoraxzijde: de röntgenbundel moet tot aan de rand van het beeldvlak komen en mag maximaal 5 mm buiten de film vallen</p>
 			</td>
 		</tr>
-	</tbody>
-</table>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
 
-<p>&nbsp;</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij veranderingen van de resolutie</p>
 
-<p>1.4. Buisrendement en reproduceerbaarheid</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Dosimeter, 45 mm PMMA fantoom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>1. Compressiestuk verwijderd, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, reële 28 kV en anode/filter Mo/Mo.<br>
-			2. Compressiestuk aanwezig, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, kV zoals bij de routineopname, anode/filter combinatie zoals bij routineopname.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisrendement (bij 28 kV, zonder compressiestuk)<br>
-			aanvaardbaar : &gt; 30 µGy/mAs, wenselijk : 40 - 75 µGy/mAs op 1m</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Reproduceerbaarheid<br>
-			Relatieve afwijking = 5 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervangingen van de röntgenbuis</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; na vervanging van de röntgenbuis</p>
 			</td>
 		</tr>
 	</tbody>
@@ -364,48 +332,109 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.5. Buisspanning : precisie en reproduceerbaarheid</p>
+<p>1.1.4 Buisrendement en reproduceerbaarheid van het buisrendement</p>
 
-<table border="1" cellpadding="0">
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>dosimeter, 45 mm PMMA fantoom</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:55.9pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:55.9pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; compressiestuk verwijderd, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, 28 kV en anode/filter Mo/Mo</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; compressiestuk aanwezig, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, kV zoals bij de routineopname, anode/filter combinatie zoals bij routineopname.</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisrendement (bij 28 kV, zonder compressiestuk)</strong></p>
+
+			<p>aanvaardbaar: &gt; 30 µGy/mAs, wenselijk: 40 – 75 µGy/mAs op 1m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>reproduceerbaarheid</strong></p>
+
+			<p>relatieve afwijking = 5%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na vervangingen van de röntgenbuis</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.5 Buisspanning: precisie en reproduceerbaarheid</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
 			<p>kV-meter</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.85pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>compressiestuk verwijderd<br>
-			focusgrootte zoals bij screening</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningsprecisie<br>
-			afwijking tussen de ingestelde en gemeten spanningen &lt; +1 kV</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.85pt; vertical-align:top; width:306.35pt">
+			<p>compressiestuk verwijderd</p>
+
+			<p>focusgrootte zoals bij screening</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningsreproduceerbaarheid<br>
-			afwijking &lt;+ 0.5 kV</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningsprecisie</strong></p>
+
+			<p>afwijking tussen de ingestelde en gemeten buisspanning &lt; ±1 kV</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningsreproduceerbaarheid</strong></p>
+
+			<p>afwijking &lt;± 0,5 kV</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen of vervangingen aan het mammotoestel</p>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na veranderingen of vervangingen aan het mammografietoestel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -413,42 +442,58 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.6. Halfwaardedikte</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.6 Halfwaardedikte</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>dosimeter, A1-filters van 0.3 mm en 0.4 mm, 45 mm PMMA fantoom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>1. buisspanning : reële 28 kV, mAs-waarde zoals verkregen bij routineopname, anode/filter Mo/Mo, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject<br>
-			2. buisspanning zoals bij routineopname, mAs-waarde zoals bij de routineopname, anode/filter zoals bij de routineopname, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject<br>
-			3. identieke metingen als meerdere anode/filter combinaties aanwezig zijn</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>dosimeter, aluminiumfilters van 0,3 mm en 0,4 mm</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Voor een Mo-anode en een toegevoegde 30 Fm Mo-filter : 0.3 mm A &lt; HWD &lt; 0.37 mm A1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; buisspanning: 28 kV, mAs-waarde zoals verkregen bij routineopname, anode/filter Mo/Mo, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; identieke metingen als verschillende anode-filter combinaties aanwezig zijn</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen of vervangingen van de mammografie-apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>voor een Mo-anode en een toegevoegde 30 µm Mo-filter:</p>
+
+			<p>0,3 mm Al &lt; halfwaardedikte &lt; 0,37 mm Al</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na veranderingen of vervangingen aan het mammografietoestel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -456,69 +501,82 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.7. Automatisch belichtingssysteem (AEC) : doel optische densiteit, stapgrootte en totale optische-densiteitsbereik, kortetermijnreproduceerbaarheid, buisspanningscompensatie en objectdiktecompensatie</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.7 Automatisch belichtingssysteem (AEC): doel optische densiteit, stapgrootte en totale optische-densiteitsbereik, kortetermijnreproduceerbaarheid, buisspanningscompensatie en objectdiktecompensatie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>QC-testobject, dosimeter<br>
-			Objectdiktecompensatie<br>
-			Plexiglazen platen van verschillende diktes zodat volgende combinaties gemaakt kunnen worden :<br>
-			20-30-40-50 (45) - 60 (55) - 70 (65) mm</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Routineomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>QC-testobject, dosimeter</p>
+
+			<p><strong>objectdiktecompensatie</strong></p>
+
+			<p>plexiglazen platen van verschillende diktes zodat de volgende combinaties gemaakt kunnen worden:</p>
+
+			<p>20-30-40-45-50-60-70 mm</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Optische densiteitscontrole : centrale waarde en stapgrootte<br>
-			OD-stapgrootte : aanvaardbaar : &lt;= 0.20 OD, constantheid &lt;= 0.10 OD<br>
-			Totaal gemeten OD-traject &gt; 1,00 OD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:306.35pt">
+			<p>routineomstandigheden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Kortetermijnreproduceerbaarheid<br>
-			Maximumafwijking : aanvaardbaar &lt; + 5 %, wenselijk &lt; + 2 %</p>
+			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>optische densiteitscontrole: centrale waarde en stapgrootte</strong></p>
+
+			<p>OD-stapgrootte: aanvaardbaar ≤ 0,20 OD, constantheid ≤ 0,10 OD</p>
+
+			<p>totaal gemeten OD-traject &gt; 1,0 OD</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningscompensatie<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>kortetermijnreproduceerbaarheid</strong></p>
+
+			<p>maximumafwijking: aanvaardbaar &lt; ± 5%, wenselijk &lt; ±2%</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Objectdiktecompensatie<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningscompensatie</strong></p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Geïntegreerde buisspannings- en objectdiktecompensatie voor opnameprogramma's met volautomatische keuze van kV en anode/filtercombinaties<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>objectdiktecompensatie</strong></p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>geïntegreerde buisspannings- en objectdiktecompensatie</strong> voor opnameprogramma’s met volautomatische keuze van kV en anode/filtercombinaties</p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na verandering of vervanging van de apparatuur</p>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na veranderingen of vervangingen aan het mammografietoestel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -526,56 +584,68 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.8. Compressie : compressieplaatuitlijning en compressiekracht</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.8 Compressie: compressieplaatuitlijning en compressiekracht</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Compressieplaatuitlijning<br>
-			mousse, voetjespasser</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>&nbsp;Compressiekracht<br>
-			personenweegschaal, elastische vervormbaar fantoom</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>compressieplaatuitlijning</strong></p>
+
+			<p>mousse, voetjespasser</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressiekracht</strong></p>
+
+			<p>personenweegschaal, elastisch vervormbaar fantoom</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.15pt; vertical-align:top; width:306.35pt">
 			<p>compressiestuk aanwezig</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Compressiekracht<br>
-			automatische compressie : 130 N &lt;= maximum compressiekracht &lt;= 200 N<br>
-			de uitgeoefende kracht mag na 1' maximaal 10 N lager zijn dan de aanvankelijk uitgeoefende kracht</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>&nbsp;Compressieplaatuitlijning<br>
-			1. symmetrische belasting : afstandsverschil voor-achter (van thorax naar tepel &lt;= 15 mm, afstandsverschil links-rechts (lateraal) &lt;= 5 mm<br>
-			2. asymmetrische belasting : afstandsverschil zowel voor-achter als links-rechts &lt;= 15 mm</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressiekracht</strong></p>
+
+			<p>automatische compressie:</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 130 N ≤ maximale compressiekracht ≤ 200 N</p>
+
+			<p>De uitgeoefende kracht mag na 1’ maximaal 10 N lager zijn dan de aanvankelijk uitgeoefende kracht</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressieplaatuitlijning</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; symmetrische belasting: afstandsverschil voor-achter (van thorax naar tepel) ≤ 15 mm, afstandsverschil links-rechts (lateraal) ≤ 5 mm</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; asymmetrische belasting: afstandsverschil zowel voor-achter als links-rechts ≤ 15 mm</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen of vervangingen van de mammografie-apparatuur</p>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na veranderingen of vervangingen aan het mammografietoestel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -583,41 +653,46 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.9. Roosterfactor</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.9 Roosterfactor</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>45 mm PMMA fantoom, dosimeter, densitometer, sensitometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Compressieplaat afwezig, automatische belichtingscel in de voorste stand (thoraxzijde)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>45 mm PMMA-fantoom, dosimeter, densitometer, sensitometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Norm</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>roosterfactor &lt;= 3</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.15pt; vertical-align:top; width:306.35pt">
+			<p>compressieplaat afwezig, automatische belichtingscel in de voorste stand (thoraxzijde)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>norm</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o bij plots verhoogde dosis<br>
-			o na verandering of vervangingen aan de apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>roosterfactor&nbsp; ≤ 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij plots verhoogde dosis</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; na veranderingen of vervangingen aan het mammografietoestel</p>
 			</td>
 		</tr>
 	</tbody>
@@ -625,62 +700,77 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.10. Beeldreceptor : scherm-filmcontact en sensitiviteits- en attenuatieverschillen tussen de verschillende beeldreceptoren</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.10 Beeldreceptor: scherm-filmcontact en sensitiviteits- en attenuatieverschillen tussen de verschillende scherm-cassettesystemen</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:18.3pt; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			Testobject met ongeveer 1.5 koperdraden per mm</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>&nbsp;Sensitiviteit en attenuatie tussen de verschillende beeldreceptoren<br>
-			45 mm PMMA fantoom, dosimeter, desitometer</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:18.3pt; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>testobject met ongeveer 1,5 koperdraden per mm</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			de films zitten minstens 10' in de cassettes</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitiviteit en attenuatie tussen de verschillende </strong>scherm-cassettesystemen</p>
+
+			<p>45 mm PMMA fantoom, dosimeter, densitometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>&nbsp;Sensitiviteit en attenuatie tussen de scherm-cassettesystemen<br>
-			Automatische belichtingscel in de voorste stand (thoraxzijde), de datum van aankoop van de cassettes wordt genoteerd, alle cassettes worden genummerd. In elke cassette moet een film van hetzelfde lot zitten om variaties in de filmgevoeligheid zo veel mogelijk uit te schakelen. De cassetteschermsystemen die onderling worden vergeleken moeten allemaal van hetzelfde type zijn.</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:18.25pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:18.25pt; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>de films zitten minstens 10’ in de cassettes</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			op de ontwikkelde films geen gebieden met onscherpe vlekken, groter dan ongeveer 1 cm<sup>2</sup></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>verschillen in sensitiviteit en attenuatie tussen de scherm-cassettesystemen</strong></p>
+
+			<p>automatische belichtingscel in de voorste stand (thoraxzijde), de datum van aankoop van de cassettes wordt genoteerd, alle cassettes worden genummerd. In elke cassette moet een film van hetzelfde lot zitten om variaties in de filmgevoeligheid zo veel mogelijk uit te schakelen. De scherm-cassettesystemen die gecombineerd gebruikt worden bij screening worden samen getest.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitiviteit en attenuatie tussen de scherm-cassettesystemen<br>
-			absolute afwijking OD : aanvaarden &lt;= 0.20 OD, wenselijk &lt;= 0.15 OD<br>
-			relatieve afwijking exposie (mGy en mAs) : wenselijk en aanvaardbaar &lt;= 5 %</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>op de ontwikkelde films geen gebieden met onscherpe vlekken, groter dan ongeveer 1 cm²</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitiviteit en attenuatie tussen de scherm-cassettesystemen</strong></p>
+
+			<p>De scherm-cassettesystemen die samen gebruikt worden moeten van hetzelfde type zijn.</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; absolute afwijking OD: aanvaardbaar ≤ 0,20 OD,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wenselijk ≤ 0,15 OD</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relatieve afwijking van de exposie (uitgedrukt in mGy of mAs): wenselijk en aanvaardbaar ≤ 5%</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervangingen van cassettes en/of schermen</p>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>na vervangingen van cassettes of schermen</p>
 			</td>
 		</tr>
 	</tbody>
@@ -688,40 +778,44 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.11. Ontwikkeltoestel</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.11 Ontwikkeltoestel: ontwikkeltijd en temperatuur</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
 			<p>chronometer, thermometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.9pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>geen, het is uitermate belangrijk dat de aanbevelingen over de ontwikkelparameters, die gegeven zijn door de fabrikant van het ontwikkelmachine, gevolgd worden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.9pt; vertical-align:top; width:306.35pt">
+			<p>Deze testen worden uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o bij plotse veranderingen van de filmparameters tijdens de dagelijkse kwaliteitscontrole</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>Geen, het is uitermate belangrijk dat de aanbevelingen over&nbsp; de ontwikkelparameters, die gegeven zijn door de fabrikant van het ontwikkelmachine, gevolgd worden.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:25.35pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:25.35pt; vertical-align:top; width:306.35pt">
+			<p>bij plotse veranderingen van de filmparameters, zoals opgemerkt tijdens de dagelijkse kwaliteitscontrole</p>
 			</td>
 		</tr>
 	</tbody>
@@ -729,72 +823,1316 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.12. Sensitometrie en densitometrie : vergelijking sensitometers, controle densitometer en sensitometrie</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.1.12 Sensitometrie en densitometrie: vergelijking sensitometers, controle densitometer en sensitometrie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Vergelijking sensitometers</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>vergelijking sensitometers</strong></p>
 
-			<p>referentie en lokale sensitometer, lokale of gekalibreerde densitometer</p>
+			<p>referentie en lokale sensitometer, gekalibreerde densitometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle densitometer</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>controle densitometer</strong></p>
+
+			<p>kalibratiestrookje, lokale densitometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitometrie</strong></p>
+
+			<p>lokale sensitometer, lokale of gekalibreerde densitometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:306.35pt">
+			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>vergelijking sensitometers</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verschil in speed ≤ 0,15</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verschil in Ggrad ≤ 0,20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>controle densitometer</strong></p>
+
+			<p>zie specificaties van het toestel</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitometrie</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dmin ≤ 0,20 OD, of ≤ 0,23 OD als de extra OD veroorzaakt wordt door de kleur van het dragermateriaal</p>
+
+			<p>aanvaardbaar: 2,8 ≤ Ggad, wenselijk: 3,2 ≤ Ggad en een voldoende stabiel ontwikkelsysteem</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; speed: geen norm</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dmax: geen norm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>als problemen vermoed worden met de apparatuur, zoals opgemerkt tijdens de dagelijkse kwaliteitscontrole</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.13 Donkere kamer (doka): doka lichten en lichtlekken</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>chronometer, densitometer, twee voorbelichte films (± 1,2 OD)</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:4.65pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:4.65pt; vertical-align:top; width:306.35pt">
+			<p>De metingen worden uitgevoerd op het werkblad in de donkere kamer.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.15pt; vertical-align:top; width:306.35pt">
+			<p>doka lichten: doka lichten aan</p>
+
+			<p>lichtlekken: doka lichten uit</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>veilige lichten: extra sluier ≤ 0,10 OD na 4 minuten</p>
+
+			<p>lichtlekken: extra sluier ≤ 0,05 OD na 4 minuten</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.85pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.85pt; vertical-align:top; width:306.35pt">
+			<p>als veranderingen aangebracht worden aan de donkere kamer</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.14 Lichtdichtheid van de cassettes</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>lichtkast, voorbelichte film (± 1,2 OD)</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.65pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.65pt; vertical-align:top; width:306.35pt">
+			<p>cassettes enkele uren voor de lichtkast plaatsen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>geen extra sluier op de ontwikkelde film</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.35pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.35pt; vertical-align:top; width:306.35pt">
+			<p>als vermoed wordt dat een cassette niet lichtdicht is</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.15 Lichtkasten en protocolleeromgeving</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>fotometer: meeteenheden lux en Cd/m²</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
+			<p><strong>lichtkasten:</strong> lichtkasten al een tijdje aan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.7pt; vertical-align:top; width:306.35pt">
+			<p><strong>omgevingslicht:</strong> lichtkasten uit, protocolzaal in de toestand waarin de foto’s normaal worden geprotocolleerd</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>lichtkasten:</p>
+
+			<p>geen visuele afwijkingen toegelaten</p>
+
+			<p>2000 Cd/m² ≤ L centrum ≤ 6000 Cd/m²</p>
+
+			<p>uniformiteit over één enkel lichtvlak ≤ 30%</p>
+
+			<p>variatie in luminantie tussen de centra van de verschillende lichtvlakken ≤ ± 15%</p>
+
+			<p>De mogelijkheid tot afdiafragmeren is een sterke aanrader.</p>
+
+			<p>omgevingslichtsterkte: &lt; 50 lux</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.25pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.25pt; vertical-align:top; width:306.35pt">
+			<p>na veranderingen aan of vervangingen van de lichtkast(en)</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.16 Dosimetrie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis: </strong>QC-testobject, dosimeter</p>
+
+			<p><strong>gemiddelde weefseldosis</strong>: QC-testobject en PMMA platen van verschillende dikten</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis</strong></p>
+
+			<p>28 kV, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>gemiddelde weefseldosis</strong></p>
+
+			<p>routineomstandigheden voor kV, anode/filter, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig, PMMA platen die verschillende borstdikten simuleren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis:</strong> aanvaardbaar ≤ 12 mGy, wenselijk ≤ 10 mGy</p>
+
+			<p><strong>gemiddelde weefseldosis, lager dan de aanvaardbare of wenselijke norm: </strong>dikte (mm)</p>
+
+			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:51.05pt">
+						<p>&nbsp;</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:121.85pt">
+						<p>aanvaardbare norm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:121.9pt">
+						<p>wenselijke norm</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>20 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 1,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 0,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>30 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 1,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 1,0 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>40 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 2,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 1,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>45 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 2,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 2,0 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>50 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 3,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 2,4 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>60 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 4,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 3,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>70 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 6,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 5,1 mGy</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij plots verhoogde dosis</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; na veranderingen of vervangingen aan het mammografietoestel</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.17 Beeldkwaliteit</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>45 mm QC-testobject, lichtbak, vergrootglas, lokale sensitometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.4pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.4pt; vertical-align:top; width:306.35pt">
+			<p>routineomstandigheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>gemeten grootheden/methode</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>opname bij klinische AEC en klinisch toegepaste kV: spatiële resolutie, aantal volledig zichtbare laagcontrast objecten, beeldcontrast</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; spatiële resolutie: aanvaardbaar &gt; 12 lijnparen/mm loodrecht en evenwijdig met de röntgenbuis, wenselijk &gt; 15 lijnparen/mm loodrecht en evenwijdig met röntgenbuis</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; drempel van contrastzichtbaarheid: geen norm. Dit wordt bepaald door de specificaties van het gebruikte testobject.</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; beeldcontrast: minder dan 10% afwijking van de referentiewaarde</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij plots verhoogde dosis</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; na veranderingen of vervangingen aan het mammografietoestel</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.1.18 Opnametijd</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>QC-testobject, exposietijdmeter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
+			<p>routineomstandigheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>opnametijd: aanvaardbaar &lt; 2 s, wenselijk &lt; 1,5 s</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.45pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie, extra aan de acceptatietest</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.45pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij plots verhoogde dosis</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; na veranderingen of vervangingen aan het mammografietoestel</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>De testen omvatten ook een vraaggesprek met de personen die de toestellen bedienen.</p>
+
+<p>&nbsp;</p>
+
+<p>1.2 Procedure voor het uitvoeren van de jaarlijkse testen</p>
+
+<p>1.2.1 Geometrie: focusgrootte, focus-filmafstand, uitlijning stralingsveld</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
+
+			<p>stervormig testobject (1° of 0,5°), teststandaard, cassette en zwarte film of schermloze cassette</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>FFA</strong></p>
+
+			<p>meetlint</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld</strong></p>
+
+			<p>twee cassettes, stralingsattenuators (bijvoorbeeld paperclips of munten)</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+
+			<p>compressieplaat afwezig</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
+
+			<p>Handmatige belichting, enkel de focusgrootte, gebruikt bij screening, wordt gemeten.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld</strong></p>
+
+			<p>De films in de cassette op de cassettehouder en in de cassettehouder moeten zich zo dicht mogelijk bij elkaar bevinden. Om de scherpte te verhogen, verkregen in de opname, genomen op de cassettehouder, kan een zwarte film toegevoegd worden tussen film en scherm, of kan de filmemulsiezijde van de film weggekeerd zijn van het scherm.</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>focusgrootte</strong></p>
+
+			<p>De NEMA-normen worden als referentie genomen.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>FFA</strong></p>
+
+			<p>geen norm, typisch ≥60 cm, afwijking ten opzichte van de door de fabrikant aangegeven waarde &lt; 10 mm: als dat niet zo is, wordt dat vermeld in het verslag.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>uitlijning stralingsveld - beeldontvanger</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; zijkanten: de röntgenbundel mag niet over de rand van het beeldvlak reiken</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thoraxzijde: de röntgenbundel moet tot aan de rand van het beeldvlak komen en mag maximaal 5 mm buiten de film vallen</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.2 Halfwaardedikte</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>dosimeter, aluminiumfilters van 0,3 mm en 0,4 mm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; buisspanning: 28 kV, mAs-waarde zoals verkregen bij routineopname, anode/filter Mo/Mo, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; identieke metingen als verschillende anode - filter combinaties aanwezig zijn</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>voor een Mo-anode en een toegevoegde 30 µm Mo-filter:</p>
+
+			<p>0,3 mm Al &lt; halfwaardedikte &lt; 0,37 mm Al</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.3 Compressie: compressieplaatuitlijning en compressiekracht</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>compressieplaatuitlijning</strong></p>
+
+			<p>mousse, voetjespasser</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressiekracht</strong></p>
+
+			<p>personenweegschaal, elastisch vervormbaar fantoom</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:7.15pt; vertical-align:top; width:306.35pt">
+			<p>compressiestuk aanwezig</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressiekracht</strong></p>
+
+			<p>automatische compressie:</p>
+
+			<p>130 N ≤ maximale compressiekracht ≤ 200 N</p>
+
+			<p>De uitgeoefende kracht mag na 1’ maximaal 10 N lager zijn dan de aanvankelijk uitgeoefende kracht</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>compressieplaatuitlijning</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; symmetrische belasting: afstandsverschil voor-achter (van thorax naar tepel ≤ 15 mm, afstandsverschil links-rechts (lateraal) ≤ 5 mm</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; asymmetrische belasting: afstandsverschil zowel voor-achter als links-rechts ≤ 15 mm</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.4 Beeldreceptor: scherm-filmcontact en sensitiviteits- en attenuatieverschillen tussen de verschillende scherm-cassettesystemen</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:18.3pt; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:18.3pt; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>testobject met ongeveer 1,5 koperdraden per mm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitiviteit en attenuatie </strong>tussen de verschillende<strong> </strong>scherm-cassettesystemen</p>
+
+			<p>45 mm PMMA fantoom, dosimeter, densitometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:18.25pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:18.25pt; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>de films zitten minstens 10’ in de cassettes</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:154.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>verschillen in sensitiviteit en attenuatie tussen de scherm-cassettesystemen</strong></p>
+
+			<p>automatische belichtingscel in de voorste stand (thoraxzijde). De datum van aankoop van de cassettes wordt genoteerd en alle cassettes worden genummerd. In elke cassette moet een film van hetzelfde lot zitten om variaties in de filmgevoeligheid zo veel mogelijk uit te schakelen. De scherm-cassettesystemen die gecombineerd gebruikt worden bij screening worden samen getest.</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>scherm-filmcontact</strong></p>
+
+			<p>op de ontwikkelde films geen gebieden met onscherpe vlekken, groter dan ongeveer 1 cm²</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitiviteit en attenuatie tussen de scherm-cassettesystemen</strong></p>
+
+			<p>De scherm-cassettesystemen die samen gebruikt worden moeten van hetzelfde type zijn.</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; absolute afwijking OD: aanvaardbaar ≤ 0,20 OD,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wenselijk ≤ 0,15 OD</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; relatieve afwijking van de exposie (uitgedrukt in mGy of mAs): wenselijk en aanvaardbaar ≤ 5%</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.5 Sensitometrie en densitometrie: vergelijking sensitometers</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>vergelijking sensitometers</strong></p>
+
+			<p>referentie en lokale sensitometer, gekalibreerde densitometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:306.35pt">
+			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>vergelijking sensitometers</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verschil in speed ≤ 0,15</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; verschil in Ggrad ≤ 0,20</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.6 Dosimetrie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis: </strong>QC-testobject, dosimeter</p>
+
+			<p><strong>gemiddelde weefseldosis:</strong> QC-testobject en PMMA platen van verschillende dikten</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis</strong></p>
+
+			<p>28 kV, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:32.15pt; vertical-align:top; width:306.35pt">
+			<p><strong>gemiddelde weefseldosis</strong></p>
+
+			<p>routineomstandigheden voor kV, anode/filter, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig, PMMA platen die verschillende borstdikten simuleren</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>intreedosis:</strong> aanvaardbaar ≤ 12 mGy, wenselijk ≤ 10 mGy</p>
+
+			<p><strong>gemiddelde weefseldosis, lager dan de aanvaardbare of wenselijke norm: </strong>dikte (mm)</p>
+
+			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:51.05pt">
+						<p>&nbsp;</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:121.85pt">
+						<p>aanvaardbare norm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:121.9pt">
+						<p>wenselijke norm</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>20 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 1,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 0,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>30 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 1,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 1,0 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>40 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 2,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 1,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>45 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 2,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 2,0 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>50 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 3,0 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 2,4 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>60 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 4,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 3,6 mGy</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:51.05pt">
+						<p>70 mm</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.85pt">
+						<p>&lt; 6,5 mGy</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:121.9pt">
+						<p>&lt; 5,1 mGy</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.2.7 Lichtkasten en protocolleeromgeving</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>fotometer: meeteenheden lux en Cd/m²</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
+			<p><strong>lichtkasten:</strong> lichtkasten al een tijdje aan</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.7pt; vertical-align:top; width:306.35pt">
+			<p><strong>omgevingslicht:</strong> lichtkasten uit, protocolzaal in de toestand waarin de foto’s normaal worden geprotocolleerd</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>lichtkasten:</p>
+
+			<p>geen visuele afwijkingen toegelaten</p>
+
+			<p>2000 Cd/m² ≤ L centrum ≤ 6000 Cd/m²</p>
+
+			<p>uniformiteit over één enkel lichtvlak ≤ 30%</p>
+
+			<p>variatie in luminantie tussen de centra van de verschillende lichtvlakken ≤ ± 15%</p>
+
+			<p>De mogelijkheid tot afdiafragmeren is een sterke aanrader.</p>
+
+			<p>omgevingslichtsterkte: &lt; 50 lux</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="_Toc306619988"></a>&nbsp;</p>
+
+<p>1.3 Procedure voor het uitvoeren van de halfjaarlijkse testen</p>
+
+<p>&nbsp;</p>
+
+<p>1.3.1 Buisrendement en reproduceerbaarheid van het buisrendement</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>dosimeter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:55.9pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:55.9pt; vertical-align:top; width:306.35pt">
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; compressiestuk verwijderd, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, 28 kV en anode/filter Mo/Mo</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; compressiestuk aanwezig, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, kV zoals bij de routineopname, anode/filter combinatie zoals bij routineopname</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisrendement (bij 28 kV, zonder compressiestuk)</strong></p>
+
+			<p>aanvaardbaar: &gt; 30 µGy/mAs, wenselijk: 40 – 75 µGy/mAs op 1m</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>reproduceerbaarheid</strong></p>
+
+			<p>relatieve afwijking = 5%</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.3.2 Buisspanning: precisie en reproduceerbaarheid</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>kV-meter</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.85pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:15.85pt; vertical-align:top; width:306.35pt">
+			<p>compressiestuk verwijderd</p>
+
+			<p>focusgrootte zoals bij screening</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningsprecisie</strong></p>
+
+			<p>afwijking tussen de ingestelde en gemeten spanningen &lt; ±1 kV</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningsreproduceerbaarheid</strong></p>
+
+			<p>afwijking &lt;± 0,5 kV</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.3.3 Automatisch belichtingssysteem (AEC): doel optische densiteit, stapgrootte en totale optische-densiteitsbereik, kortetermijnreproduceerbaarheid, buisspanningscompensatie en objectdiktecompensatie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>QC-testobject, dosimeter</p>
+
+			<p><strong>objectdiktecompensatie</strong></p>
+
+			<p>plexiglazen platen van verschillende diktes zodat de volgende combinaties gemaakt kunnen worden:</p>
+
+			<p>20-30-40-45-50-60-70 mm</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:8.45pt; vertical-align:top; width:306.35pt">
+			<p>routineomstandigheden</p>
+			</td>
+		</tr>
+		<tr>
+			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>optische densiteitscontrole: centrale waarde en stapgrootte</strong></p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OD-stapgrootte: aanvaardbaar: ≤ 0,20 OD, constantheid ≤ 0,10 OD</p>
+
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; totaal gemeten OD-traject &gt; 1,0 OD</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>kortetermijnreproduceerbaarheid</strong></p>
+
+			<p>maximumafwijking: aanvaardbaar &lt; ± 5%, wenselijk &lt; ±2%</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>buisspanningscompensatie</strong></p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>objectdiktecompensatie</strong></p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>geïntegreerde buisspannings- en objectdiktecompensatie</strong> voor opnameprogramma’s met volautomatische keuze van kV en anode/filtercombinaties</p>
+
+			<p>absolute waarde van de afwijking: aanvaardbaar ≤ 0,15 OD ten opzichte van de doel-OD, wenselijk ≤ 0,10 ten opzichte van de doel-OD</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.3.4 Ontwikkeltoestel</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>chronometer, thermometer</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.9pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:5.9pt; vertical-align:top; width:306.35pt">
+			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>Geen, het is uitermate belangrijk dat de aanbevelingen over de ontwikkelparameters, die gegeven zijn door de fabrikant van de ontwikkelmachine, gevolgd worden.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:25.35pt; vertical-align:top; width:154.25pt">
+			<p><em>frequentie</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:25.35pt; vertical-align:top; width:306.35pt">
+			<p>bij plotse veranderingen van de filmparameters tijdens de dagelijkse kwaliteitscontrole</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>1.3.5 Sensitometrie en densitometrie: controle densitometer en sensitometrie</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p><strong>controle densitometer</strong></p>
 
 			<p>kalibratiestrookje, lokale densitomer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitometrie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitometrie</strong></p>
 
 			<p>lokale sensitometrie, lokale of gekalibreerde densitometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:12.5pt; vertical-align:top; width:306.35pt">
 			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Vergelijking sensitometers</p>
-
-			<p>verschil in speed &lt;= 0.15</p>
-
-			<p>verschil in Ggrad &lt;= 0.20</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle densitometer</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>controle densitometer</strong></p>
 
 			<p>zie specificaties toestel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitometrie</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p><strong>sensitometrie</strong></p>
 
-			<p>Dmin &lt;= 0.20 OD, of &lt;= 0.23 OD indien de extra OD veroorzaakt wordt door de kleur van het drager materiaal</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dmin ≤ 0,20 OD, of ≤ 0,23 OD als de extra OD veroorzaakt wordt door de kleur van het drager materiaal</p>
 
-			<p>Aanvaardbaar : 2.8 &lt;= Ggad, wenselijk : 3.2 &lt;= Ggad en een voldoende stabiel ontwikkelsysteem</p>
+			<p>aanvaardbaar: 2,8 ≤ Ggad, wenselijk: 3,2 ≤ Ggad en een voldoende stabiel ontwikkelsysteem</p>
 
-			<p>Speed : geen norm</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; speed: geen norm</p>
 
-			<p>Dmax : geen norm</p>
+			<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dmax: geen norm</p>
 			</td>
 		</tr>
 	</tbody>
@@ -802,49 +2140,45 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.13. Donkere kamer, doka lichten en lichtlekken</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
+<p>1.3.6 Donkere kamer, doka lichten en lichtlekken</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>chronometer, densitometer, twee voorbelichte films (+ 1.2 OD)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>chronometer, densitometer, twee voorbelichte films (± 1,2 OD)</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:4.65pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:4.65pt; vertical-align:top; width:306.35pt">
 			<p>De metingen worden uitgevoerd op het werkblad in de donkere kamer.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>doka lichten : doka lichten aan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:16.15pt; vertical-align:top; width:306.35pt">
+			<p>doka lichten: doka lichten aan</p>
 
-			<p>lichtlekken : doka lichten uit</p>
+			<p>lichtlekken: doka lichten uit</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>veilige lichten : extra sluier &lt;= 0.10 OD na 4 minuten</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>veilige lichten: extra sluier ≤ 0,10 OD na 4 minuten</p>
 
-			<p>lichtlekken : extra sluier &lt;= 0.05 OD na 4 minuten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o wanneer veranderingen aangebracht worden aan de donkere kamer</p>
+			<p>lichtlekken: extra sluier ≤ 0,05 OD na 4 minuten</p>
 			</td>
 		</tr>
 	</tbody>
@@ -852,280 +2186,36 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>1.14. Lichtdichtheid van de cassettes</p>
+<p>&nbsp;</p>
 
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>lichtkast, voorbelichte film (+ 1.2 OD)</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>cassettes enkele uren voor de lichtkast plaatsen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>geen extra sluier op de ontwikkelde film</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Wanneer vermoed wordt dat een cassette niet lichtdicht is.</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p>1.3.7 Opnametijd</p>
 
 <p>&nbsp;</p>
 
-<p>1.15. Lichtkasten en protocolleeromgeving</p>
-
-<table border="1" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>fotometer : meeteenheden lux en Cd/m<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>lichtkasten : lichtkasten al een tijdje aan</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>omgevingslicht : lichtkasten uit, protocolzaal in de toestand waarin de foto's normaal worden geprotocolleerd</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>lichtkasten :<br>
-			geen visuele afwijkingen toegelaten<br>
-			2 000 Cd/m<sup>2</sup> &lt;= L centrum &lt;= 6 000 Cd/m<sup>2</sup><br>
-			uniformiteit over één enkel lichtvlak &lt;= 30 %<br>
-			variatie in luminantie tussen de centra van de verschillende lichtvlakken &lt;= + 15 %<br>
-			De mogelijkheid tot afdiafragmeren is een sterke aanrader.<br>
-			omgevingslichtsterkte : &lt; 50 lux</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen aan of vervangingen van de lichtkast(en)</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>1.16. Dosimetrie</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis : QC-testobject, dosimeter, densitometer, referentie sensitometer, referentie cassette bepaald in punt 10.<br>
-			Gemiddelde weefseldosis : QC-testobject</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis :<br>
-			reële 28 kV, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>gemiddelde weefseldosis<br>
-			routineomstandigheden voor kV, anode/filter, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis : aanvaardbaar &lt;= 12 mGy, wenselijk &lt;= 10 mGy<br>
-			gemiddelde weefseldosis : netto optische densiteit (OD)<br>
-			(excl. basis + sluier)</p>
-
-			<p>0.8</p>
-
-			<p>0.9</p>
-
-			<p>1.0</p>
-
-			<p>1.1</p>
-
-			<p>1.2</p>
-
-			<p>1.3</p>
-
-			<p>1.4</p>
-
-			<p>1.5</p>
-
-			<p>1.6</p>
-
-			<p>1.7</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>&nbsp;limietwaarde voor de gemiddelde weefseldosis (mGy)</p>
-
-			<p>1.4</p>
-
-			<p>1.7</p>
-
-			<p>1.9</p>
-
-			<p>2.2</p>
-
-			<p>2.4</p>
-
-			<p>2.6</p>
-
-			<p>2.8</p>
-
-			<p>3.0</p>
-
-			<p>3.2</p>
-
-			<p>3.4</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervanging of veranderingen aan de apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>1.17. Beeldkwaliteit</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>45 mm QC-testobject, lichtbak, vergrootglas, lokale sensitometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>routineomstandigheden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Gemeten grootheden/methode</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>opname bij klinische AEC en klinisch toegepaste kV ('s) spatiële resolutie, aantal volledig zichtbare laagcontrast objecten, beeldcontrast</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o spatiële resolutie : aanvaardbaar &gt; 12 lijnparen/mm loodrecht en evenwijdig met de röntgenbuis : wenselijk &gt; 15 lijnparen/mm loodrecht en evenwijdig met röntgenbuis<br>
-			o drempel van contrastzichtbaarheid : geen norm. Dit wordt bepaald door de specificaties van het gebruikte testobject.<br>
-			o beeldcontrast : 10 % van de referentiewaarde</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervanging of veranderingen in de apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>1.18. Opnametijd</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
 			<p>QC-testobject, exposietijdmeter</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
 			<p>routineomstandigheden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>opnametijd : aanvaardbaar &lt; 2 s, wenselijk &lt; 1.5 s</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>o na verandering of vervanging van de apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>opnametijd: aanvaardbaar &lt; 2 s, wenselijk &lt; 1,5 s</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1133,876 +2223,139 @@ Procedure voor de uitvoering van de acceptatietesten, de jaarlijkse en de halfja
 
 <p>&nbsp;</p>
 
-<p>De testen omvatten ook een vraaggesprek met de persoon of personen die de toestellen bedienen.<br>
-<br>
-<br>
-<br>
-&nbsp;</p>
+<p><a name="_Toc306619989"></a>&nbsp;</p>
 
-### 2.
-
-<p>2. Procedure voor het uitvoeren van de jaarlijkse testen<br>
-<br>
-2.1. Geometrie : focusgrootte, focus-filmafstand, uitlijning stralingsveld<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Focusgrootte<br>
-			stervormig testobject (1° en/of 0.5° ), teststandaard, cassette en zwarte film of schermloze cassette</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>FFA<br>
-			meetlint</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Uitlijning stralingsveld<br>
-			twee cassettes, stralingsattenuators (vb. paperclips of munten)</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden<br>
-			Compressieplaat afwezig</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Focusgrootte<br>
-			Handmatige belichting, enkel de focusgrootte, gebruikt bij screening, wordt gemeten.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Uitlijning stralingsveld<br>
-			De films in de cassette op de cassettehouder en in de cassettehouder moeten zich zo dicht mogelijk bij elkaar bevinden. Om de scherpte te verhogen, verkregen in de opname, genomen op de cassettehouder, kan een zwarte film toegevoegd worden tussen film en scherm, of kan de filmemulsiezijde van de film weggekeerd zijn van het scherm.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Focusgrootte<br>
-			De NEMA-normen worden als referentie genomen.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>FFA<br>
-			geen norm, typisch =&gt; 60 cm, afwijking ten opzichte van de door de fabrikant aangegeven waarde &lt; 10 mm : als dat niet zo is, wordt dat vermeld in het verslag</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Uitlijning stralingsveld - beeldontvanger<br>
-			o zijkanten : de röntgenbundel mag niet over de rand van het beeldvlak reiken<br>
-			o thoraxzijde : de röntgenbundel moet tot aan de rand van het beeldvlak komen en mag maximaal 5 mm buiten de film vallen</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Focusgrootte<br>
-			o bij veranderingen van de resolutie<br>
-			o na vervanging van de röntgenbuis</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>FFA<br>
-			jaarlijks</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Uitlijning stralingsveld<br>
-			jaarlijks</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p>1.4 Elementen van de dagelijkse en wekelijkse kwaliteitscontroles</p>
 
 <p>&nbsp;</p>
 
-<p>2.2. Halfwaardedikte<br>
-</p>
+<p>1.4.1 Dagelijkse controle</p>
 
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>dosimeter, A1-filters van 0.3 mm en 0.4 mm, 45 mm PMMA fantoom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>4. buisspanning : reële 28 kV, mAs-waarde zoals verkregen bij routineopname, anode/filter Mo/Mo, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject<br>
-			5. buisspanning zoals bij routineopname, mAs-waarde zoals bij de routineopname, anode/filter zoals bij de routineopname, compressiestuk in de bundel, dosisdetector op een as door het referentiepunt van het QC-testobject<br>
-			6. identieke metingen als meerdere anode/filter combinaties aanwezig zijn</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Voor een Mo-anode en een toegevoegde 30 µm Mo-filter : 0.3 mm A &lt; HWD &lt; 0.37 mm A1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen of vervangingen van de mammografie-apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<p>Dagelijks rond hetzelfde tijdstip, moet er een kwaliteitscontrole uitgevoerd worden van de mammograaf, de film en de ontwikkelaar op initiatief van en onder supervisie van de radioloog die de eindverantwoordelijkheid draagt binnen de mammografische eenheid. Onder ‘dagelijkse’ wordt verstaan ‘elke dag dat het toestel gebruikt wordt’.</p>
+
+<p>De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt, en worden dagelijks bezorgd aan de controleorganisatie die ook instaat voor de acceptatietesten en voor de jaarlijkse en halfjaarlijkse testen.</p>
 
 <p>&nbsp;</p>
 
-<p>2.3. Compressie : compressieplaatuitlijning en compressiekracht<br>
-</p>
-
-<table border="1" cellpadding="0">
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>Compressieplaatuitlijning<br>
-			mousse, voetjespasser</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>Compressiekracht<br>
-			personenweegschaal, elastische vervormbaar fantoom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>compressiestuk aanwezig</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>Compressiekracht<br>
-			automatische compressie : 130 N &lt;= maximum compressiekracht &lt;= 200 N<br>
-			de uitgeoefende kracht mag na 1' maximaal 10 N lager zijn dan de aanvankelijk uitgeoefende kracht</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>Compressieplaatuitlijning<br>
-			3. symmetrische belasting : afstandsverschil voor-achter (van thorax naar tepel &lt;= 15 mm, afstandsverschil links-rechts (lateraal) &lt;= 5 mm<br>
-			4. asymmetrische belasting : afstandsverschil zowel voor-achter als links-rechts &lt;= 15 mm</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>o na veranderingen of vervangingen van de mammografie-apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>2.4. Beeldreceptor : scherm-filmcontact en sensitiviteits- en attenuatieverschillen tussen de verschillende beeldreceptoren<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			Testobject met ongeveer 1.5 koperdraden per mm</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitiviteit en attenuatie tussen de verschillende beeldreceptoren<br>
-			45 mm PMMA fantoom, dosimeter, desitometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			de films zitten minstens 10' in de cassettes</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitiviteit en attenuatie tussen de scherm-cassettesystemen<br>
-			Automatische belichtingscel in de voorste stand (thoraxzijde), de datum van aankoop van de cassettes wordt genoteerd, alle cassettes worden genummerd. In elke cassette moet een film van hetzelfde lot zitten om variaties in de filmgevoeligheid zo veel mogelijk uit te schakelen. De cassetteschermsystemen die onderling worden vergeleken moeten allemaal van hetzelfde type zijn.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Scherm-filmcontact<br>
-			op de ontwikkelde films geen gebieden met onscherpe vlekken, groter dan ongeveer 1 cm<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitiviteit en attenuatie tussen de scherm-cassettesystemen<br>
-			absolute afwijking OD : aanvaarden &lt;= 0.20 OD, wenselijk &lt;= 0.15 OD<br>
-			relatieve afwijking exposie (mGy en mAs) : wenselijk en aanvaardbaar &lt;= 5 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervangingen van cassettes en/of schermen</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>2.5. Sensitometrie en densitometrie : vergelijking sensitometers<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Vergelijking sensitometers<br>
-			referentie en lokale sensitometer, lokale of gekalibreerde densitometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Vergelijking sensitometers<br>
-			verschil in speed &lt;= 0.15<br>
-			verschil in Ggrad &lt;= 0.20</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle sensitometer<br>
-			jaarlijks</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>2.6. Dosimetrie<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis : QC-testobject, dosimeter, densitometer, referentie sensitometer, referentie cassette bepaald in punt 10.<br>
-			Gemiddelde weefseldosis : QC-testobject</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis : reële 28 kV, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>gemiddelde weefseldosis<br>
-			routineomstandigheden voor kV, anode/filter, automatische belichtingscel in de voorste stand (thoraxzijde), compressieplaat aanwezig</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>intreedosis : aanvaardbaar &lt;= 12 mGy, wenselijk &lt;= 10 mGy<br>
-			gemiddelde weefseldosis : netto optische densiteit (OD)<br>
-			(excl. basis + sluier)<br>
-			0.8 0.9 1.0 1.1 1.2 1.3 1.4 1.5 1.6 1.7 limietwaarde voor de gemiddelde weefseldosis (mGy)<br>
-			1.4 1.7 1.9 2.2 2.4 2.6 2.8 3.0 3.2 3.4</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o jaarlijks<br>
-			o na vervanging of veranderingen aan de apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>2.7. Lichtkasten en protocolleeromgeving<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>fotometer : meeteenheden lux en Cd/m<sup>2</sup></p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>lichtkasten : lichtkasten al een tijdje aan</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>omgevingslicht : lichtkasten uit, protocolzaal in de toestand waarin de foto's normaal worden geprotocolleerd</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>lichtkasten :<br>
-			geen visuele afwijkingen toegelaten<br>
-			2 000 Cd/m<sup>2</sup> &lt;= L centrum &lt;= 6 000 Cd/m<sup>2</sup><br>
-			uniformiteit over één enkel lichtvlak &lt;= 30 %<br>
-			variatie in luminantie tussen de centra van de verschillende lichtvlakken &lt;= + 15 %<br>
-			De mogelijkheid tot afdiafragmeren is een sterke aanrader.<br>
-			omgevingslichtsterkte : &lt; 50 lux</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o jaarlijks<br>
-			o na veranderingen aan of vervangingen van de lichtkast(en)</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-### 3.
-
-<p>3. Procedure voor het uitvoeren van de halfjaarlijkse testen<br>
-<br>
-3.1. Buisrendement en reproduceerbaarheid</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Dosimeter, 45 mm PMMA fantoom</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>3. Compressiestuk verwijderd, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, reële 28 kV en anode/filter Mo/Mo.<br>
-			4. Compressiestuk aanwezig, dosimeter op een as door het referentiepunt, mAs zoals bij routineopname, kV zoals bij de routineopname, anode/filter combinatie zoals bij routineopname.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisrendement (bij 28 kV, zonder compressiestuk)<br>
-			aanvaardbaar : &gt; 30 µGy/mAs, wenselijk : 40 - 75 µGy/mAs op 1m</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Reproduceerbaarheid<br>
-			Relatieve afwijking = 5 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na vervangingen van de röntgenbuis</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.2. Buisspanning : precisie en reproduceerbaarheid</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>kV-meter</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>compressiestuk verwijderd<br>
-			focusgrootte zoals bij screening</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningsprecisie<br>
-			afwijking tussen de ingestelde en gemeten spanningen &lt; + 1 kV</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningsreproduceerbaarheid<br>
-			afwijking &lt; + 0.5 kV</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na veranderingen of vervangingen aan het mammotoestel</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.3. Automatisch belichtingssysteem (AEC) : doel optische densiteit, stapgrootte en totale optische-densiteitsbereik, kortetermijnreproduceerbaarheid, buisspanningscompensatie en objectdiktecompensatie</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>QC-testobject, dosimeter<br>
-			Objectdiktecompensatie<br>
-			Plexiglazen platen van verschillende diktes zodat volgende combinaties gemaakt kunnen worden :<br>
-			20-30-40-50 (45) - 60 (55) - 70 (65) mm</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Routineomstandigheden</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Optische densiteitscontrole : centrale waarde en stapgrootte<br>
-			OD-stapgrootte : aanvaardbaar : &lt;= 0.20 OD, constantheid &lt;= 0.10 OD<br>
-			Totaal gemeten OD-traject &gt; 1,00 OD</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Kortetermijnreproduceerbaarheid<br>
-			Maximumafwijking : aanvaardbaar &lt; + 5 %, wenselijk &lt; + 2 %</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Buisspanningscompensatie<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Objectdiktecompensatie<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Geïntegreerde buisspannings- en objectdiktecompensatie voor opnameprogramma's met volautomatische keuze van kV en anode/filtercombinaties<br>
-			absolute waarde van de afwijking : aanvaardbaar &lt;= 0.15 OD t.o.v. de doel-OD wenselijk &lt;= 0.10 t.o.v. de doel-OD</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na verandering of vervanging van de apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.4. Ontwikkeltoestel</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>chronometer, thermometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>geen, het is uitermate belangrijk dat de aanbevelingen over de ontwikkelparameters, die gegeven zijn door de fabrikant van het ontwikkelmachine, gevolgd worden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o bij plotse veranderingen van de filmparameters tijdens de dagelijkse kwaliteitscontrole</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.5. Sensitometrie en densitometrie : controle densitometer en sensitometrie</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle densitometer<br>
-			kalibratiestrookje, lokale densitomer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitometrie<br>
-			lokale sensitometrie, lokale of gekalibreerde densitometer</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Deze test wordt uitgevoerd als het ontwikkeltoestel al goed is opgewarmd.</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle densitometer<br>
-			zie specificaties toestel</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitometrie<br>
-			Dmin &lt;= 0.20 OD, of &lt;= 0.23 OD indien de extra OD veroorzaakt wordt door de kleur van het drager materiaal<br>
-			Aanvaardbaar : 2.8 &lt;= Ggad, wenselijk : 3.2 &lt;= Ggad en een voldoende stabiel ontwikkelsysteem<br>
-			Speed : geen norm<br>
-			Dmax : geen norm</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Controle densitometer<br>
-			halfjaarlijks</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Sensitometrie<br>
-			halfjaarlijks</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.6. Donkere kamer, doka lichten en lichtlekken</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>chronometer, densitometer, twee voorbelichte films (+ 1.2 OD)</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>De metingen worden uitgevoerd op het werkblad in de donkere kamer.</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>doka lichten : doka lichten aan<br>
-			lichtlekken : doka lichten uit</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>veilige lichten : extra sluier &lt;= 0.10 OD na 4 minuten<br>
-			lichtlekken : extra sluier &lt;= 0.05 OD na 4 minuten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o wanneer veranderingen aangebracht worden aan de donkere kamer</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>3.7. Opnametijd</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>QC-testobject, exposietijdmeter</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>routineomstandigheden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>opnametijd : aanvaardbaar &lt; 2 s, wenselijk &lt; 1.5 s</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Frequentie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>o na verandering of vervanging van de apparatuur</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-### 4.
-
-<p>4. Elementen van de dagelijkse en wekelijkse kwaliteitscontroles<br>
-<br>
-4.1. Dagelijkse controle<br>
-<br>
-Dagelijks rond hetzelfde tijdstip, moet er een kwaliteitscontrole gebeuren van de mammograaf, de film en de ontwikkelaar op initiatief van en onder de supervisie van de radioloog die de eindverantwoordelijkheid draagt binnen de mammografische eenheid. 'Dagelijkse' kwaliteitscontrole moet hier begrepen worden als 'elke dag dat het toestel gebruikt wordt'.<br>
-<br>
-De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt, en worden dagelijks bezorgd aan de controleorganisatie die ook instaat voor de acceptatietesten en voor de jaarlijkse en halfjaarlijkse testen.<br>
-</p>
-
-<table border="1" cellpadding="0">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
 			<p>QC-testobject, sensitometer, densitometer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
 			<p>routineomstandigheden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:337.95pt">
-			<p>OD-film : 1.3 - 1.8<br>
-			Artefacten op de film : geen<br>
-			Dmin : &lt; 0.20 of &lt; 0.23<br>
-			Ggrad : aanvaardbaar : &gt; 2.8<br>
-			Wenselijk : &gt; 3.2</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>OD-film: 1,3 - 1,8</p>
+
+			<p>artefacten op de film: geen</p>
+
+			<p>Dmin: &lt; 0,20 of &lt; 0,23</p>
+
+			<p>Ggrad: aanvaardbaar: &gt; 2,8</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wenselijk: &gt; 3,2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Norm op variatie<br>
-			OD-film</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.25pt; vertical-align:top; width:154.25pt">
+			<p><em>norm voor variatie</em></p>
 
-			<p>Dmin</p>
-
-			<p>Dmax</p>
-
-			<p>Speed<br>
-			Ggrad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0; border-top:#f0f0f0 1pt inset; vertical-align:top; width:274.9pt">
-			<p>Te evalueren over een minimale periode van 2 weken</p>
-
-			<p>aanvaardbaar</p>
-
-			<p>&nbsp; &lt; 0.20</p>
-
-			<p>&nbsp; &lt; 0.03</p>
-
-			<p>&nbsp; &lt; 0.30</p>
-
-			<p>&nbsp; &lt; 0.05</p>
-
-			<p>&nbsp; &lt; 0.20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:61.55pt">
 			<p>&nbsp;</p>
 
-			<p>wenselijk</p>
+			<p>&nbsp;</p>
 
-			<p>&lt; 0.15</p>
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:11.25pt; vertical-align:top; width:306.35pt">
+			<p>afwijkingen in OD te evalueren over een minimale periode van twee weken</p>
 
-			<p>&lt; 0.02</p>
-
-			<p>&lt; 0.20</p>
-
-			<p>&lt; 0.03</p>
-
-			<p>&lt; 0.10</p>
+			<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:98.25pt">
+						<p>&nbsp;</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:98.25pt">
+						<p>aanvaardbaar</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:98.3pt">
+						<p>wenselijk</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>OD-film</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>&lt; 0,20</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.3pt">
+						<p>&lt; 0,15</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>Dmin</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>&lt; 0,03</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.3pt">
+						<p>&lt; 0,02</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>Dmax</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>&lt; 0,30</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.3pt">
+						<p>&lt; 0,20</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>Speed</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>&lt; 0,05</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.3pt">
+						<p>&lt; 0,03</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>Ggrad</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.25pt">
+						<p>&lt; 0,20</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.3pt">
+						<p>&lt; 0,10</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 			</td>
 		</tr>
 	</tbody>
@@ -2010,43 +2363,48 @@ De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt
 
 <p>&nbsp;</p>
 
-<p>4.2. Wekelijkse controle<br>
-<br>
-Wekelijks moet de beeldkwaliteit geëvalueerd worden, alsook de objectdiktecompensatie, op initiatief van en onder supervisie van de radioloog die verantwoordelijk is voor de mammografische eenheid.<br>
-<br>
-De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt, en worden wekelijks bezorgd aan de controleorganisatie die ook instaat voor de acceptatietesten en voor de jaarlijkse en halfjaarlijkse testen.<br>
-</p>
+<p>1.4.2 Wekelijkse controle</p>
 
-<table border="1" cellpadding="0">
+<p>Wekelijks moet de beeldkwaliteit geëvalueerd worden, alsook de objectdiktecompensatie, op initiatief van en onder supervisie van de radioloog die verantwoordelijk is voor de mammografische eenheid.</p>
+
+<p>De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt, en worden wekelijks bezorgd aan de controleorganisatie die ook instaat voor de acceptatietesten en voor de jaarlijkse en halfjaarlijkse testen.</p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Benodigde apparatuur</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:154.25pt">
+			<p><em>benodigde apparatuur</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>QC-testobject, sensitometer, densitometer, 20 mm PMMA plaat, vergrootglas</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:306.35pt">
+			<p>QC-testobject, sensitometer, densitometer, 20 mm PMMA-plaat, vergrootglas</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Meetomstandigheden</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:154.25pt">
+			<p><em>meetomstandigheden</em></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:6.3pt; vertical-align:top; width:306.35pt">
 			<p>routineomstandigheden</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; vertical-align:top; width:117.85pt">
-			<p>Normen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:154.25pt">
+			<p><em>normen</em></p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:337.95pt">
-			<p>Objectdiktecompensatie :<br>
-			Variatie OD :<br>
-			aanvaardbaar : &lt;= 0.15 OD<br>
-			wenselijk : &lt;= 0.10 OD<br>
-			Beeldkwaliteit Lp/mm :<br>
-			aanvaardbaar : &gt; 12 lp/mm<br>
-			wenselijk : &gt; 15 lp/mm</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:306.35pt">
+			<p>objectdiktecompensatie:</p>
+
+			<p>variatie OD:</p>
+
+			<p>aanvaardbaar: ≤ 0,15 OD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wenselijk: ≤ 0,10 OD</p>
+
+			<p>Beeldkwaliteit lp/mm:</p>
+
+			<p>aanvaardbaar: &gt; 12 lp/mm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; wenselijk: &gt; 15 lp/mm</p>
 			</td>
 		</tr>
 	</tbody>
@@ -2054,12 +2412,24 @@ De resultaten van die metingen moeten voldoen aan de normen, vermeld in dit punt
 
 <p>&nbsp;</p>
 
-<p>De referentiewaarden voor de dagelijkse en wekelijkse testen worden vastgelegd aan de hand van de acceptatietesten en van de jaarlijkse en halfjaarlijkse testen. De mammografische eenheid moet de nodige maatregelen treffen om eventuele afwijkingen ten opzichte van de referentiewaarden onmiddellijk te corrigeren.<br>
-&nbsp;</p>
+<p>De referentiewaarden voor de dagelijkse en wekelijkse testen worden vastgelegd aan de hand van de acceptatietesten en aan de hand van de jaarlijkse en halfjaarlijkse testen. De mammografische eenheid moet de nodige maatregelen treffen om eventuele afwijkingen ten opzichte van de referentiewaarden onmiddellijk te corrigeren.</p>
+
+### 2.
+
+<P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Definities<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid #BFBFBF; mso-border-insideh-themecolor: background1; mso-border-insideh-themeshade: 191; mso-border-insidev: .5pt solid #BFBFBF; mso-border-insidev-themecolor: background1; mso-border-insidev-themeshade: 191"   class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #bfbfbf 1pt solid; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">AAPM-TG18         testpatronen</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #bfbfbf 1pt solid; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>testpatronen         voor het testen van beeldweergave zoals uitgewerkt in een werkgroep van de         AAPM, the American Association of Physicists in         Medicine<SUP>[5]</SUP>.</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">AEC</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>component         van het RX-toestel voor automatische exposie controle.</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">afwijking</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml"         /><v:shapetype id=_x0000_t75 stroked="f" filled="f"         path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75"         coordsize="21600,21600"><v:stroke         joinstyle="miter"></v:stroke><v:formulas><v:f         eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f         eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f         eqn="prod @3 21600 pixelWidth"></v:f><v:f         eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f         eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f         eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f         eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect"         gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t"         v:ext="edit"></o:lock></v:shapetype><v:shape         style="WIDTH: 225.75pt; HEIGHT: 14.25pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png"></v:imagedata></v:shape></P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">bad         pixel map</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>een         overzicht van alle pixels waarvan de pixelwaarde niet gebaseerd is op de         uitlezing van hun eigen beeldreceptorelement</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">computed         Radiography (CR)</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>digitale         radiologie technologie die gebruik maakt van fosforplaten</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">detective quantum efficiency (DQE)</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>functie         die de transfer beschrijft van SNR als functie van de spatiale frequentie.         De DQE geeft de efficiëntie waarmee de beeldreceptor de beschikbare kwanta         gebruikt en wordt berekend volgens [2].</P></TD></TR>    <TR style="mso-yfti-irow: 6">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">detector         air KERMA (DAK)</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>air         KERMA ter hoogte van de beeldreceptor</P></TD></TR>    <TR style="mso-yfti-irow: 7">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">beeldreceptorcorrecties</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>correcties         aan het beeld die uitgevoerd worden om de individuele eigenschappen van de         beeldreceptorelementen te corrigeren.</P></TD></TR>    <TR style="mso-yfti-irow: 8">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">detectorruis</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>de         som van alle ruiscomponenten die in de beelden kunnen         voorkomen</P></TD></TR>    <TR style="mso-yfti-irow: 9">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">DICOM</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Digital         imaging and communications in medicine         is een standaard voor behandelen, opslaan, afdrukken en doorzenden van         informatie in medische beeldvorming. Het omvat een file-formaat en een         netwerkcommunicatie protocol.</P></TD></TR>    <TR style="mso-yfti-irow: 10">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">direct radiography (DR)</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>RX-toestel         met directe uitlezing van het latente beeld door een geïntegreerde         digitale beeldreceptor</P></TD></TR>    <TR style="mso-yfti-irow: 11">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">elektronische         ruis</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>ruis         veroorzaakt door elektronische componenten die zich in de beeldreceptor         bevinden</P></TD></TR>    <TR style="mso-yfti-irow: 12">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">exposie-indicator</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>indicatie         voor exposie ter hoogte van de beeldreceptor en ter beschikking in de         DICOM-header van het beeld</P></TD></TR>    <TR style="mso-yfti-irow: 13">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">gemiddelde         borstklierweefsel dosis (AGD)</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>gemiddelde         dosis in het borstklierweefsel, zoals gedefinieerd in [6,7]</P></TD></TR>    <TR style="mso-yfti-irow: 14">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">ghostfactor</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>maat         voor het residu van vorige exposies in een beeld, berekend volgens de         methode in [2]</P></TD></TR>    <TR style="mso-yfti-irow: 15">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">gouddiktedrempel</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>de         kleinste gouddikte voor een gegeven detailgrootte die waargenomen kan         worden en die berekend kan worden zoals in [2]</P></TD></TR>    <TR style="mso-yfti-irow: 16">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">klinisch         kV bereik</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>alle         mogelijke klinische buisspanningscondities, typisch van 24 kV tot 32         kV</P></TD></TR>    <TR style="mso-yfti-irow: 17">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">kwantumruis</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>ruis         veroorzaakt door het stochastische karakter van </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>x-stralen</P></TD></TR>    <TR style="mso-yfti-irow: 18">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">modulation         transfer function (MTF)</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>functie         die de transfer beschrijft van het hoog contrast als functie van de         spatiale frequentie, berekend zoals in [2]</P></TD></TR>    <TR style="mso-yfti-irow: 19">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">normalized noise power spectrum       (NNPS)</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>functie         die de ruis in het beeld beschrijft als functie van spatiale frequentie en         genormaliseerd met betrekking tot DAK, berekend zoals in [2]</P></TD></TR>    <TR style="mso-yfti-irow: 20">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">pixel</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>beeldelement,         de kleinste eenheid in het beeld</P></TD></TR>    <TR style="mso-yfti-irow: 21">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">pixelwaarde</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>discrete         waarde toegewezen aan een pixel</P></TD></TR>    <TR style="mso-yfti-irow: 22">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">pixelwaarde         offset</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>pixelwaarde,         na linearisatie, bij DAK= 0</P></TD></TR>    <TR style="mso-yfti-irow: 23">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">PMMA</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>polymethylmetacrylaat         of perspex</P></TD></TR>    <TR style="mso-yfti-irow: 24">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">referentie         ROI</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Het         centrum van de referentie ROI ligt op 6 cm van de thoraxzijde en is         lateraal gecentreerd. Het is 5 mm x 5 mm groot.</P></TD></TR>    <TR style="mso-yfti-irow: 25">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">relatieve         afwijking</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 228.75pt; HEIGHT: 30pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png"></v:imagedata></v:shape><I         style="mso-bidi-font-style: normal"></I></P></TD></TR>    <TR style="mso-yfti-irow: 26">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">relatieve         variatie</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 233.25pt; HEIGHT: 30pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image005.png"></v:imagedata></v:shape><I         style="mso-bidi-font-style: normal"></I></P></TD></TR>    <TR style="mso-yfti-irow: 27">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">ROI</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>region         of interest: gebied waarin gemeten wordt</P></TD></TR>    <TR style="mso-yfti-irow: 28">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">ruis</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>fluctuaties         in pixelwaarden die niet gerelateerd zijn aan het object waarvan een beeld         gemaakt wordt </P></TD></TR>    <TR style="mso-yfti-irow: 29">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">ruwe         beelden</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>de         beelden na beeldreceptorcorrecties, maar voor beeldverwerking. In         DICOM-termen wordt dit ‘for processing’ genoemd. Ze worden ook soms         ‘original data’ [3] of ‘ ruwe data ’ [1,2] genoemd.</P></TD></TR>    <TR style="mso-yfti-irow: 30">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">slot         scanning systeem</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>systeem         met smalle x-stralenbundel en een smalle beeldreceptor die de borst scant         om een digitale opname te verkrijgen</P></TD></TR>    <TR style="mso-yfti-irow: 31">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">signal difference-to-noise ratio         (SDNR)</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 433.5pt; HEIGHT: 45.75pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image007.png"></v:imagedata></v:shape></P></TD></TR>    <TR style="mso-yfti-irow: 32">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">signal to noise ratio (SNR)</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 267.75pt; HEIGHT: 30pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image009.png"></v:imagedata></v:shape></P></TD></TR>    <TR style="mso-yfti-irow: 33">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">spacers</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>een         object om zonder invloed op de AEC een gewenste aangeduide dikte te         creëren</P></TD></TR>    <TR style="mso-yfti-irow: 34">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">standaard testobject</B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>PMMA-testobject         om benaderd een gemiddelde borst te simuleren en de AEC te kunnen testen         onder omstandigheden die zo dicht mogelijk aanleunen bij de klinische         realiteit. De dikte is 45 mm. Het standaard testobject bedekt de hele         beeldreceptor.</P></TD></TR>    <TR style="mso-yfti-irow: 35">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">standaardopname</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>opname         die gemaakt is met het standaard testobject, compressie tussen 50 N en 100         N en de AEC in de klinisch gebruikte mode</P></TD></TR>    <TR style="mso-yfti-irow: 36">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">structuurruis</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>ruis         die veroorzaakt wordt door structurele verschillen in de         opstelling</P></TD></TR>    <TR style="mso-yfti-irow: 37">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">transmissiefactor         van het rooster</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>fractie         van de straling die doorgelaten wordt door het rooster, altijd &lt;         1</P></TD></TR>    <TR style="mso-yfti-irow: 38">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">variantie</B><B         style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 81.75pt; HEIGHT: 29.25pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image011.png"></v:imagedata></v:shape></P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>met         <v:shape style="WIDTH: 12pt; HEIGHT: 14.25pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image013.png"></v:imagedata></v:shape>&nbsp;het aantal pixels in de ROI,         <v:shape style="WIDTH: 9.75pt; HEIGHT: 14.25pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image015.png"></v:imagedata></v:shape>&nbsp;de individuele pixelwaarden in de         ROI en <v:shape style="WIDTH: 6.75pt; HEIGHT: 14.25pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image017.png"></v:imagedata></v:shape>&nbsp;het gemiddelde van alle         pixelwaarden in de ROI</P></TD></TR>    <TR style="mso-yfti-irow: 39; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #bfbfbf 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 188.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191"       vAlign=top width=251>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><B         style="mso-bidi-font-weight: normal">verwerkt         beeld</B><B style="mso-bidi-font-weight: normal"></B></P></TD>      <TD       style="BORDER-BOTTOM: #bfbfbf 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 276.1pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: #bfbfbf 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid #BFBFBF .5pt; mso-border-themecolor: background1; mso-border-themeshade: 191; mso-border-left-alt: solid #BFBFBF .5pt; mso-border-left-themecolor: background1; mso-border-left-themeshade: 191; mso-border-top-alt: solid #BFBFBF .5pt; mso-border-top-themecolor: background1; mso-border-top-themeshade: 191; mso-border-bottom-themecolor: background1; mso-border-bottom-themeshade: 191; mso-border-right-themecolor: background1; mso-border-right-themeshade: 191"       vAlign=top width=368>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>het         beeld na beeldverwerking en bestemd voor presentatie. In DICOM-termen         wordt dit beeld ‘for presentation’ genoemd.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.1 Procedure voor de uitvoering van de acceptatietesten   </P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: -1cm; MARGIN: 0cm 0cm 6pt 2cm"   class=MsoNormal>2.1.1 Merk en type van de toestellen die gebruikt worden bij   mammografische screening:</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 2cm" class=MsoNormal>Een toestel voor digitale screeningsmammografie moet over een   typetoelating beschikken als vermeld in artikel 22 tot en met 24 van dit   besluit.</P>  <P style="TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.1.2 Verplichte testen ter karakterisering van het mammografie-systeem:   </P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>a) het buisrendement wordt bepaald en gerapporteerd voor alle klinische   bundelkwaliteiten;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>b)   de halfwaardedikten worden bepaald en gerapporteerd voor alle klinisch gebruikte   bundelkwaliteiten;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>c)   de opeenvolgende exposiestappen (centrale waarde en verschil per stap   indien beschikbaar) tonen een graduele stijging van de pixelwaarde en worden   geregistreerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>d) de MTF wordt opgemeten voor de richting parallel met de thoraxwand en   loodrecht op de thorax wand, en   wordt gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>e)   de NNPS wordt berekend en gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>f)   de DQE wordt berekend en gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>g)   de roosterfactor wordt berekend en gerapporteerd en de homogeniteit van het   rooster wordt geëvalueerd.</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.3 RX-buis</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">uitlijning van x-stralenveld -         beeldreceptor</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De afwijking tussen de rand van het x-stralenveld en de rand van         de beeldreceptor mag aan de thoraxzijde en aan beide laterale zijden niet         groter zijn dan 5 mm. Aan de thoraxzijde moet het stralingsveld de hele         beeldreceptor bestralen.</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">gemist weefsel aan de thoraxzijde</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De breedte van het gemist weefsel aan de thoraxzijde moet &#8804; 5 mm         zijn.<B     style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">exposietijd</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De exposietijd van een standaardopname moet &lt; 2 s zijn,         wenselijk is &lt; 1,5 s.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij slotscansystemen wordt de exposietijd geëvalueerd bij         typetest. Die tijden worden dan gemeten bij acceptatie en opgevolgd in de         tijd.</P></TD></TR>    <TR style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">buisspanning</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Voor het klinische kV-bereik geldt:</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 6pt 18pt; mso-add-space: auto; mso-list: l3 level1 lfo1"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         accuraatheid: afwijking &#8804; 1 kV;<B         style="mso-bidi-font-weight: normal"></B></P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 6pt 18pt; mso-add-space: auto; mso-list: l3 level1 lfo1"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         reproduceerbaarheid: afwijking &#8804; 0,5 kV<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.4 AEC</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-table-layout-alt: fixed"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">korte termijn reproduceerbaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Voor         zes standaardopnamen geldt:</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 6pt 18pt; mso-add-space: auto; mso-list: l1 level1 lfo2"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de gemiddelde         pixelwaarde in de referentie ROI moet &#8804; 5% zijn, wenselijk is &#8804;         2%;</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 6pt 18pt; mso-add-space: auto; mso-list: l1 level1 lfo2"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de exposie moet &#8804;         5% zijn;</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 6pt 18pt; mso-add-space: auto; mso-list: l1 level1 lfo2"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de SNR in de         referentie ROI moet &#8804; 5% zijn, wenselijk is &#8804; 2%.</P></TD></TR>    <TR style="HEIGHT: 55.9pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 55.9pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">respons van de AEC in functie van de dikte bij alle         dosisprogramma’s</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 55.9pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Voor de dikten D, namelijk 20 mm, 30 mm, 40 mm, 45 mm, 50 mm, 60         mm en 70 mm, geldt:</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De gemeten SDNR bij dikte D moet hoger zijn dan <v:shape style="WIDTH: 80.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image019.png"></v:imagedata></v:shape>&nbsp;berekend voor dikte         D.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 80.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image019.png"></v:imagedata></v:shape>&nbsp;wordt berekend uit         vergelijking (1): </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 294pt; HEIGHT: 24pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image021.png"></v:imagedata></v:shape>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         (1)</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>In deze vergelijking is <v:shape style="WIDTH: 98.25pt; HEIGHT: 15.75pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image023.png"></v:imagedata></v:shape>de SDNR van een aluminium filter van 0,2 mm dik en oppervlakte 1         cm x 1 cm. <v:shape style="WIDTH: 78.75pt; HEIGHT: 15.75pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image025.png"></v:imagedata></v:shape>&nbsp;is de gemeten         gouddiktedrempel voor een goudstip met diameter 0,1 mm en simulatie van         een gecomprimeerde borstdikte van 60 mm. <v:shape style="WIDTH: 85.5pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image027.png"></v:imagedata></v:shape>is 1,68 µm gouddikte. z(D) volgt uit tabel 1:         </P>        <DIV align=center>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 163.6pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0 width=407>          <TBODY>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"             vAlign=top width=189>              <P               style="TEXT-ALIGN: center; LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal align=center>PMMA               dikte (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=218>              <P               style="TEXT-ALIGN: center; LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal align=center>z-factor</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>20</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,15</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>30</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,10</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>40</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,05</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,03</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>50</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,00</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,95</P></TD></TR>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-yfti-lastrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>70</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,90</P></TD></TR></TBODY></TABLE></DIV>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Tabel         1: factoren om </I><v:shape style="WIDTH: 83.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image029.png"></v:imagedata></v:shape><I         style="mso-bidi-font-style: normal">te         berekenen bij verschillende PMMA-diktes.</I></P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De         SDNR wordt berekend uit pixelwaarden in 1 ROI in de aluminium filter en in         4 ROI’s in de achtergrond rond het aluminium object.       </P></TD></TR>    <TR style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">lokale dense gebieden </I>(alleen van toepassing bij DR-systemen)<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij         acceptatie wordt de positie opgezocht waarbij de AEC het meest reageert op         ‘lokale densiteiten’.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Er         wordt een reeks opnamen gemaakt van een testobject dat bestaat uit 30 mm         PMMA-platen, aangevuld met spacers tot een aangeduide dikte van 40 mm, en         opeenvolgend extra PMMA-plaatjes van 2 cm x 4 cm en dikte 4 mm, variërend         van 0 mm extra attenuatie tot een maximale extra attenuatie van 2         cm.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De AEC moet compenseren voor de extra attenuatie.<BR>De SNR’s         gemeten in de ROI’s op de plaats van de extra attenuatie van elk beeld         moeten binnen 20% van de gemiddelde SNR over alle opnames         liggen.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="TEXT-INDENT: 21.3pt; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.1.5 Compressie</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 136.05pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 136.05pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">compressiekracht</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 136.05pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De maximale kracht uitgeoefend op een samendrukbaar object moet         130-200 N (~13-20 kg) zijn en moet gedurende één minuut aangehouden worden         (binnen een limiet van 10 N). </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De aangeduide kracht moet binnen ± 20 N (2 kg) van de gemeten         waarde zijn.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De compressieplaat mag geen barsten of scherpe randen bevatten.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="HEIGHT: 15.85pt; mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">uitlijning van de compressieplaat</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij compressie van een symmetrisch gepositioneerd samendrukbaar         testobject moet het verschil tussen de gemeten hoogten tussen de         beeldreceptorbehuizing en de onderzijde van de compressieplaat links en         rechts kleiner zijn dan 5 mm.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De bevestigingen van de compressieplaat moeten stevig         zijn.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.6 Beeldreceptor</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">linearisatie van de beelden bij alle beschikbare anode-filter         combinaties</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Linearisatie wordt geëvalueerd aan de hand van 10 opnamen over een         breed bereik van DAK, met een 2 mm aluminium filter aan de buis bevestigd         en zonder rooster. Als het rooster niet kan weggenomen worden, wordt de         test doorgevoerd met rooster en wordt er gecompenseerd met de         transmissiefactor van het rooster.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Na linearisatie van de beelden (door inverse transformatie van het         functioneel verband tussen pixel waarde en DAK) is de         correlatiecoëfficiënt R² tussen pixelwaarden en DAK &gt;         0,99.</P></TD></TR>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">evaluatie van de ruis bij alle beschikbare anode filter         combinaties</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Kwantumruis moet de grootste ruiscomponent zijn voor het klinisch         gebruikte bereik van pixelwaarden (of intrededoses) en de ruiscomponenten         worden geregistreerd.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">langetermijnreproduceer-baarheid en homogeniteit met 20 mm en 70         mm PMMA</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De         variatie in de tijd van de SNR in de referentie ROI of van de exposie moet         &lt; 10% zijn.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij standaardopname moet de variantie van elke ROI vergeleken         worden met de variantie van naburige ROIs. Als de variantie in een ROI         meer dan 30% hoger is dan de variantie in naburige ROIs, moet het beeld         visueel onderzocht worden op artefacten op die positie.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">variaties in gevoeligheid van fosforplaten </I>(alleen van toepassing bij CR-systemen)<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De relatieve variatie in SNR in de referentie ROI tussen alle         fosforplaten moet &#8804; 15% zijn. De relatieve variatie in intrededosis of mAs         moet &#8804; 10% zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 4; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">vervaging van het latente beeld </I>(alleen van toepassing bij CR-systemen)<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De SNR in de referentie ROI bij een tijd van dertig minuten tussen         een standaardopname en uitlezing mag niet meer dan 15% verschillen van de         overeenkomstige SNR bij een tijd van 5 minuten tussen standaardopname en         uitlezing.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.7 Dosimetrie</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 91pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=121>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">maxi-male AGD voor simulatie met PMMA</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 373.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=498>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De AGD bij klinische instellingen moet aan de limieten van het         aanvaardbare niveau in tabel 2 voldoen voor alle vermelde PMMA         diktes.</P>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 19.6pt; WIDTH: 411.05pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0 width=548>          <TBODY>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>PMMA-dikte (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente               borstdikte (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 259.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=346 colSpan=2>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>maximale               AGD voor </P>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente               borsten (mGy)</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>aanvaardbaar               niveau</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>wenselijk               niveau</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>20</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>21</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               0,6</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>30</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>32</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,0</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>40</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,6</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>53</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,0</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>50</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               3,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,4</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>75</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               4,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               3,6</P></TD></TR>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8; mso-yfti-lastrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>70</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>90</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               6,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               5,1</P></TD></TR></TBODY></TABLE>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Tabel         2: aanvaardbaarheidsnormen voor typische borsten gesimuleerd met         PMMA.</I></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.8 Beeldkwaliteit</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-table-layout-alt: fixed"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 161.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=215>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">minimale contrastwaarneembaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 303.05pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=404>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De contrastwaarneembaarheid voor een gesimuleerde gecomprimeerde         borstdikte van 60 mm moet beter zijn dan aangegeven in tabel 3.         </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij acceptatie wordt dat zowel geverifieerd door menselijke         waarnemers als met software waarvoor de correlatie tussen menselijke         waarnemers en software is aangetoond met een publicatie.         </P>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0>          <TBODY>          <TR           style="HEIGHT: 19.85pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-height-rule: exactly">            <TD             style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-height-rule: exactly; mso-border-right-alt: solid windowtext .5pt"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 204.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=273 colSpan=2>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>gouddiktedrempel</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 1; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-height-rule: exactly; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>aanvaardbaarheidsnormm (µm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>wenselijke norm</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 2; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>detaildiameterr (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>equivalente gouddikte (µm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal>equivalente gouddikte (µm)</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 3; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>2</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,069</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,038</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 4; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,091</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,056</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 5; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,150</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,103</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 6; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,25</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,352</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,244</P></TD></TR>          <TR           style="HEIGHT: 19.85pt; mso-yfti-irow: 7; mso-yfti-lastrow: yes; mso-height-rule: exactly">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,1</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,68</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,10</P></TD></TR></TBODY></TABLE>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Tabel         3: aanvaardbare en wenselijke normen voor de minimale         contrastwaarneembaarheid </I></P></TD></TR>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 161.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=215>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">geometrische vervorming</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 303.05pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=404>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Er zijn geen storende vervormingen zichtbaar.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 161.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=215>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">ghostfactor</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 303.05pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=404>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De ghost-factor is &#8804; 0,3.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.1.9 Beeldweergave</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">omgevingslicht</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Het omgevingslicht moet &#8804; 20 lux zijn.</P></TD></TR>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">contrastwaarneembaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Alle hoekobjecten in het AAPM-TG18-QC-patroon moeten zichtbaar         zijn. De 5% en 95% pixelwaardevlakken moeten duidelijk zichtbaar         zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">resolutie</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De horizontale lijnen in AAPM-TG18-LPH10, AAPM-TG18-LPH50 en         AAPM-TG18-LPH89 en de verticale lijnen in AAPM-TG18-LPV10, AAPM-TG18-LPV50         en AAPM-TG18-LPV89 zijn zichtbaar.</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">artefacten</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Er zijn geen storende artefacten zichtbaar.</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">luminantiebereik</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De verhouding van maximale en minimale luminantie moet &#8805; 250         zijn.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De relatieve variatie in maximale luminantie tussen twee monitoren         moet &#8804; 5% zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">grey scale display functie (GSDF)</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De berekende contrast respons van de monitoren moet binnen een         bereik van 10%         van de GSDF-contrast respons liggen.<I> </I></P></TD></TR>    <TR style="mso-yfti-irow: 6; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">luminantie-uniformiteit</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De maximale luminantieafwijking in het monitoroppervlak in het         AAPM-TG18-UNL10-patroon is &#8804; 30% en in het AAPM-TG18-UNL80-patroon &#8804;         15%.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.2 Procedure voor de uitvoering van de jaarlijkse testen   </P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.2.1 RX-buis</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">uitlijning van         x-stralenveld/beeldreceptor</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De afwijking tussen de rand van het x-stralenveld en de rand van         de beeldreceptor mag aan de thoraxzijde en aan beide laterale zijden niet         groter zijn dan 5 mm. Aan de thoraxzijde moet het stralingsveld de hele         beeldreceptor bestralen.</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">gemist weefsel aan de thoraxzijde</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De breedte van het gemiste weefsel aan thoraxzijde moet &#8804; 5 mm         zijn.<B     style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 2; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">exposietijd</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>De exposietijd van een standaardopname moet &lt; 2 s zijn,         wenselijk is &lt; 1,5 s.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Bij slotscansystemen wordt de exposietijd geëvalueerd met een         typetest. Die tijden worden gemeten bij acceptatie en opgevolgd in de         tijd.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.2.2 AEC</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-table-layout-alt: fixed"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">lokale dense gebieden </I>(alleen van toepassing bij DR-systemen)<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij         acceptatie wordt de positie opgezocht waarbij de AEC het meest reageert op         lokale densiteiten.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Er         wordt een reeks opnamen gemaakt van een testobject dat bestaat uit 30 mm         PMMA-platen, aangevuld met spacers tot een aangeduide dikte van 40 mm, en         opeenvolgend extra PMMA-plaatjes van 2 cm x 4 cm en dikte 4 mm, variërend         van 0 mm extra attenuatie tot een maximale extra attenuatie van 2         cm.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De AEC moet compenseren voor de extra attenuatie.<BR>De SNR’s         gemeten in de ROI’s op de plaats van de extra attenuatie van elk beeld,         moeten binnen 20% van de gemiddelde SNR over alle opnames         liggen.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.2.3 Compressie</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">compressiekracht</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De maximale kracht, uitgeoefend op een samendrukbaar object, moet         130-200 N (~13-20 kg) zijn en moet gedurende 1 minuut aangehouden worden         (binnen een limiet van 10 N).<BR>De aangeduide kracht moet binnen ± 20 N         (2 kg) van de gemeten waarde zijn.<BR>De compressieplaat mag geen barsten         of scherpe randen bevatten.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="HEIGHT: 15.85pt; mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">uitlijning van de compressieplaat</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij compressie van een symmetrisch gepositioneerd samendrukbaar         testobject moet het verschil tussen de gemeten hoogten tussen de         beeldreceptorbehuizing en de onderzijde van de compressieplaat links en         rechts kleiner zijn dan 5 mm.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De bevestigingen van de compressieplaat moeten stevig         zijn.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.2.4 Beeldkwaliteit</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">geometrische vervorming</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Er zijn geen storende vervormingen zichtbaar.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">ghostfactor</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De ghost-factor is &#8804; 0,3.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.3 Procedure voor de   uitvoering van de halfjaarlijkse testen </P>  <P style="TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.3.1 Verplichte testen ter karakterisering van het mammografie systeem:   </P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>a) het buisrendement wordt bepaald en gerapporteerd voor alle klinische   bundelkwaliteiten;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>b)   de halfwaardedikten worden bepaald en gerapporteerd voor alle klinisch gebruikte   bundelkwaliteiten;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>c)   de MTF wordt opgemeten voor de richting parallel met de thoraxwand en   loodrecht op de thorax-wand, en   wordt gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>d)   de NNPS wordt berekend en gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>e)   de DQE wordt berekend en gerapporteerd;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 71.25pt" class=MsoNormal>f)   de roosterfactor wordt berekend en gerapporteerd en de homogeniteit van het   rooster wordt geëvalueerd.</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.2 RX-buis</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">buisspanning</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Over het klinische kV-bereik geldt:</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: auto auto auto 18pt; mso-add-space: auto; mso-list: l0 level1 lfo3"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         accuraatheid: afwijking &#8804; 1 kV;<B         style="mso-bidi-font-weight: normal"></B></P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: auto auto auto 18pt; mso-add-space: auto; mso-list: l0 level1 lfo3"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         reproduceerbaarheid: afwijking &#8804; 0,5 kV.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.3 AEC</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-table-layout-alt: fixed"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">korte termijn reproduceerbaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt" class=MsoNormal>Voor         zes standaardopnamen geldt:</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: auto auto auto 18pt; mso-add-space: auto; mso-list: l2 level1 lfo4"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de gemiddelde         pixelwaarde in de referentie ROI moet &#8804; 5% zijn, wenselijk is &#8804;         2%.</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: auto auto auto 18pt; mso-add-space: auto; mso-list: l2 level1 lfo4"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de exposie moet &#8804;         5% zijn.</P>        <P         style="LINE-HEIGHT: 115%; TEXT-INDENT: -18pt; MARGIN: auto auto auto 18pt; mso-add-space: auto; mso-list: l2 level1 lfo4"         class=MsoNormalCxSpMiddle>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         de afwijking ten opzichte van het gemiddelde van de SNR in de         referentie ROI moet &#8804; 5% zijn, wenselijk is &#8804; 2%.</P></TD></TR>    <TR style="HEIGHT: 55.9pt; mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 55.9pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">respons van de AEC in functie van de         dikte</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 310.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 55.9pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=414>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Voor de dikten D, namelijk 20 mm, 30 mm, 40 mm, 45 mm, 50 mm, 60         mm en 70 mm, geldt:</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De gemeten SDNR bij dikte D moet hoger zijn dan <v:shape style="WIDTH: 80.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image019.png"></v:imagedata></v:shape>&nbsp;berekend voor dikte         D.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 80.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image019.png"></v:imagedata></v:shape>&nbsp;wordt berekend uit         vergelijking (1): </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><v:shape style="WIDTH: 294pt; HEIGHT: 24pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image021.png"></v:imagedata></v:shape>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         (1)</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>In deze vergelijking is <v:shape style="WIDTH: 98.25pt; HEIGHT: 15.75pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image023.png"></v:imagedata></v:shape>de SDNR van een aluminium filter van 0,2 mm dik en oppervlakte 1         cm x 1 cm. <v:shape style="WIDTH: 78.75pt; HEIGHT: 15.75pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image025.png"></v:imagedata></v:shape>&nbsp;is de gemeten         gouddiktedrempel voor een goudstip met diameter 0,1 mm en simulatie van         een gecomprimeerde borstdikte van 60 mm. <v:shape style="WIDTH: 85.5pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image027.png"></v:imagedata></v:shape>is 1,68 µm gouddikte. z(D) volgt uit tabel 1:         </P>        <DIV align=center>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 163.6pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-table-layout-alt: fixed"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0 width=407>          <TBODY>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"             vAlign=top width=189>              <P               style="TEXT-ALIGN: center; LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal align=center>PMMA-dikte               (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=218>              <P               style="TEXT-ALIGN: center; LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt"               class=MsoNormal align=center>z-factor</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>20</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,15</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>30</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,10</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>40</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,05</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,03</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>50</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,00</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,95</P></TD></TR>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7; mso-yfti-lastrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 141.95pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=189>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>70</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 163.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=218>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,90</P></TD></TR></TBODY></TABLE></DIV>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Tabel         1: factoren om </I><v:shape style="WIDTH: 83.25pt; HEIGHT: 15pt" id=_x0000_i1025         type="#_x0000_t75"><v:imagedata chromakey="white" o:title=""         src="file:///C:\Users\vankeech\AppData\Local\Temp\msohtmlclip1\01\clip_image029.png"></v:imagedata></v:shape><I         style="mso-bidi-font-style: normal">te         berekenen bij verschillende PMMA-diktes.</I></P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De         SDNR wordt berekend uit pixelwaarden in 1 ROI in de aluminium filter en in         4 ROI’s in de achtergrond rond het aluminium object.       </P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.4 Compressie</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">compressiekracht</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De maximale kracht die uitgeoefend wordt op een samendrukbaar         object, moet 130-200 N (~13-20 kg) zijn en moet gedurende 1 minuut         aangehouden worden (binnen een limiet van 10 N).<BR>De aangeduide kracht         moet binnen ± 20 N (2 kg) van de gemeten waarde zijn.<BR>De         compressieplaat mag geen barsten of scherpe randen bevatten.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="HEIGHT: 15.85pt; mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">uitlijning van de compressieplaat</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 15.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij compressie van een symmetrisch gepositioneerd samendrukbaar         testobject moet het verschil tussen de gemeten hoogten tussen de         beeldreceptorbehuizing en de onderzijde van de compressieplaat links en         rechts kleiner zijn dan 5 mm.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De bevestigingen van de compressieplaat moeten stevig         zijn.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.5 Beeldreceptor</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">linearisatie van de beelden bij de klinische gebruikte         bundelkwaliteit bij 50 mm PMMA</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De linearisatie wordt geëvalueerd aan de hand van 10 opnamen over         een breed bereik van DAK, met een aluminium filter van 2 mm aan de buis         bevestigd en zonder rooster. Als het rooster niet weggenomen kan worden,         wordt de test doorgevoerd met rooster en wordt er gecompenseerd met de         transmissiefactor van het rooster.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Na linearisatie van de beelden (door inverse transformatie van het         functionele verband tussen pixel waarde en DAK) is de         correlatiecoëfficiënt R² tussen pixelwaarden en DAK &gt;         0,99.</P></TD></TR>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">evaluatie van de ruis bij de klinische gebruikte bundelkwaliteit         bij 50 mm PMMA</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Kwantumruis moet de grootste ruiscomponent zijn voor het klinisch         gebruikte bereik van pixelwaarden (of intrededoses) en de ruiscomponenten         worden geregistreerd.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">variaties in gevoeligheid van fosforplaten </I>(alleen van toepassing bij CR-systemen)<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De relatieve variatie in SNR in de referentie ROI tussen alle         fosforplaten moet &#8804; 15% zijn. De relatieve variatie in intrededosis of mAs         moet &#8804; 10% zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">vervaging van het latente beeld </I>(alleen van toepassing bij CR-systemen) en bij de eerstvolgende         halfjaarlijkse test na vervanging van fosforplaten<I         style="mso-bidi-font-style: normal"></I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De SNR in de referentie ROI bij een tijd van 30 minuten tussen een         standaardopname en een uitlezing mag niet meer dan 15% verschillen van de         overeenkomstige SNR bij een tijd van 5 minuten tussen een standaardopname         en een uitlezing.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.6 Dosimetrie</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 91pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=121>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Maxi-male AGD voor simulatie met PMMA</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 373.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=498>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De AGD bij klinische instellingen moet aan de limieten van het         aanvaardbare niveau in tabel 2 voldoen voor alle vermelde PMMA         diktes.</P>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: auto auto auto 19.6pt; WIDTH: 411.05pt; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0 width=548>          <TBODY>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 0; mso-yfti-firstrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>PMMA-dikte (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente               borstdikte (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 259.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"             vAlign=top width=346 colSpan=2>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>maximale               AGD voor </P>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente               borsten (mGy)</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 1">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>aanvaardbaar               niveau</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>wenselijk               niveau</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 2">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>20</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>21</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               0,6</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 3">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>30</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>32</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,0</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 4">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>40</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               1,6</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 5">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>45</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>53</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,0</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 6">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>50</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               3,0</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               2,4</P></TD></TR>          <TR style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 7">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>60</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>75</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               4,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               3,6</P></TD></TR>          <TR           style="PAGE-BREAK-INSIDE: avoid; mso-yfti-irow: 8; mso-yfti-lastrow: yes">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>70</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 75.7pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=101>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>90</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 99.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=132>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               6,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 160.4pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"             vAlign=top width=214>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&#8804;               5,1</P></TD></TR></TBODY></TABLE>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">Tabel         2: aanvaardbaarheidsnormen voor typische borsten gesimuleerd met         PMMA</I></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.7 Beeldkwaliteit</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">minimale contrastwaarneembaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De contrastwaarneembaarheid voor een gesimuleerde gecomprimeerde         borstdikte van 60 mm moet beter zijn dan aangegeven in tabel 3.         </P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij acceptatie wordt dat zowel geverifieerd door menselijke         waarnemers als met software waarvoor de correlatie tussen menselijke         waarnemers en software is aangetoond met een publicatie.         </P>        <TABLE         style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"         class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0>          <TBODY>          <TR           style="HEIGHT: 19.85pt; mso-yfti-irow: 0; mso-yfti-firstrow: yes; mso-height-rule: exactly">            <TD             style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-height-rule: exactly; mso-border-right-alt: solid windowtext .5pt"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 204.4pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=273 colSpan=2>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>gouddiktedrempel</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 1; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-height-rule: exactly; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>&nbsp;</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>aanvaardbaarheidsnormm (µm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>wenselijke norm</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 2; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>detaildiameterr (mm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente gouddikte (µm)</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>equivalente gouddikte (µm)</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 3; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>2</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,069</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,038</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 4; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,091</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,056</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 5; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,5</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,150</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,103</P></TD></TR>          <TR             style="HEIGHT: 19.85pt; mso-yfti-irow: 6; mso-height-rule: exactly"><TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,25</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,352</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,244</P></TD></TR>          <TR           style="HEIGHT: 19.85pt; mso-yfti-irow: 7; mso-yfti-lastrow: yes; mso-height-rule: exactly">            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 90.9pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=121>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>0,1</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.15pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,68</P></TD>            <TD             style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 102.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 19.85pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-height-rule: exactly"             width=136>              <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 0pt"               class=MsoNormal>1,10</P></TD></TR></TBODY></TABLE>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm -7.1pt 6pt 0cm"         class=MsoNormal><I style="mso-bidi-font-style: normal">Tabel         3: aanvaardbare en wenselijke normen voor de minimale         contrastwaarneembaarheid</I></P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 2cm" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt 2cm" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; TEXT-INDENT: 1cm; MARGIN: 0cm 0cm 6pt"   class=MsoNormal>2.3.8 Beeldweergave</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">omgevingslicht</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Het omgevingslicht moet &#8804; 20 lux zijn.</P></TD></TR>    <TR style="HEIGHT: 32.15pt; mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">contrastwaarneembaarheid</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; HEIGHT: 32.15pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Alle hoekobjecten in het AAPM-TG18-QC patroon moeten zichtbaar         zijn. De 5% en 95% pixelwaardevlakken moeten duidelijk zichtbaar         zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">resolutie</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De horizontale lijnen in AAPM-TG18-LPH10, AAPM-TG18-LPH50 en         AAPM-TG18-LPH89 en de verticale lijnen in AAPM-TG18-LPV10, AAPM-TG18-LPV50         en AAPM-TG18-LPV89 zijn zichtbaar.</P></TD></TR>    <TR style="mso-yfti-irow: 3">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">artefacten</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Er zijn geen storende artefacten zichtbaar.</P></TD></TR>    <TR style="mso-yfti-irow: 4">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">luminantiebereik</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De verhouding van maximale en minimale luminantie moet &#8805; 250         zijn.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De relatieve variatie in maximale luminantie tussen twee monitoren         moet &#8804; 5% zijn.</P></TD></TR>    <TR style="mso-yfti-irow: 5">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">grey scale display functie (GSDF)</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De berekende contrast respons van de monitoren moet binnen een         bereik van 10%         van de GSDF-contrast-respons liggen.<I> </I></P></TD></TR>    <TR style="mso-yfti-irow: 6; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">luminantie-uniformiteit</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De maximale luminantie-afwijking in het monitoroppervlak in het         AAPM-TG18-UNL10-patroon is &#8804; 30% en in het AAPM-TG18-UNL80-patroon &#8804;         15%.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>2.4 Elementen van de dagelijkse   kwaliteitscontroles</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Dagelijks rond hetzelfde tijdstip moet er een kwaliteitscontrole   uitgevoerd worden op initiatief van en onder de supervisie van de radioloog die   de eindverantwoordelijkheid draagt binnen de mammografische eenheid. Onder   ‘dagelijks’ wordt verstaan ‘elke dag dat het toestel gebruikt   wordt’.</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De resultaten van die metingen moeten voldoen aan de normen, vermeld in   dit punt, en worden dagelijks bezorgd aan de controleorganisatie die ook instaat   voor de acceptatietesten en voor de jaarlijkse en halfjaarlijkse   testen.</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 1184; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext"   class=MsoNormalTable border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">beeldreceptor:</I></P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">langetermijnreproduceer-baarheid en homogeniteit met 2         opnamen</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De         variatie in de tijd van de SNR in de referentie ROI of van de exposie moet         &lt; 10% zijn.</P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Bij een standaardopname moet de variantie van elke ROI vergeleken         worden met de variantie van naburige ROI’s. Als de variantie in een ROI         meer dan 30% hoger is dan de variantie in naburige ROI’s, moet het beeld         visueel onderzocht worden op artefacten op die positie.<B         style="mso-bidi-font-weight: normal"></B></P></TD></TR>    <TR style="mso-yfti-irow: 1; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 154.25pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=206>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">beeldweergave:</I></P>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal><I         style="mso-bidi-font-style: normal">stabiliteitstest</I></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 306.35pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt"       vAlign=top width=408>        <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>Dagelijks wordt er een leestest met berekening van een score         uitgevoerd op het klinische werkstation met een variabel testpatroon dat         contrastzichtbaarheid test. De score moet stabiel         zijn.</P></TD></TR></TBODY></TABLE>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>&nbsp;</P>  <P style="LINE-HEIGHT: 115%; MARGIN: 0cm 0cm 6pt" class=MsoNormal>De referentiewaarden voor de dagelijkse testen worden vastgelegd aan de   hand van de acceptatietesten en van de jaarlijkse en halfjaarlijkse testen. De   mammografische eenheid moet de nodige maatregelen treffen om eventuele   afwijkingen ten opzichte van de referentiewaarden onmiddellijk te   corrigeren.</P>
+
+### 3.
+
+<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>28</o:TotalTime><br>  <o:Created>2012-06-07T08:22:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:22:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>85</o:Words><br>  <o:Characters>531</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>4</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>615</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>29</o:TotalTime><br>  <o:Created>2012-06-07T08:23:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:23:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>38</o:Words><br>  <o:Characters>294</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>2</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>331</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>30</o:TotalTime><br>  <o:Created>2012-06-07T08:24:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:24:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>147</o:Words><br>  <o:Characters>964</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>8</o:Lines><br>  <o:Paragraphs>2</o:Paragraphs><br>  <o:CharactersWithSpaces>1109</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>31</o:TotalTime><br>  <o:Created>2012-06-07T08:25:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:25:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>51</o:Words><br>  <o:Characters>366</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>3</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>416</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>32</o:TotalTime><br>  <o:Created>2012-06-07T08:26:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:26:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>83</o:Words><br>  <o:Characters>561</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>4</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>643</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>33</o:TotalTime><br>  <o:Created>2012-06-07T08:27:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:27:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>65</o:Words><br>  <o:Characters>367</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>3</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>431</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>34</o:TotalTime><br>  <o:Created>2012-06-07T08:28:00Z</o:Created><br>  <o:LastSaved>2012-06-07T08:28:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>26</o:Words><br>  <o:Characters>195</o:Characters><br>  <o:Company>Vlaamse Overheid</o:Company><br>  <o:Lines>1</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>220</o:CharactersWithSpaces><br>  <o:Version>12.00</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:Zoom>BestFit</w:Zoom><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:TrackMoves></w:TrackMoves><br>  <w:TrackFormatting></w:TrackFormatting><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:DoNotPromoteQF></w:DoNotPromoteQF><br>  <w:LidThemeOther>NL-BE</w:LidThemeOther><br>  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark><br>   <w:DontVertAlignCellWithSp></w:DontVertAlignCellWithSp><br>   <w:DontBreakConstrainedForcedTables></w:DontBreakConstrainedForcedTables><br>   <w:DontVertAlignInTxbx></w:DontVertAlignInTxbx><br>   <w:Word11KerningPairs></w:Word11KerningPairs><br>   <w:CachedColBalance></w:CachedColBalance><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br>  <m:mathPr><br>   <m:mathFont m:val="e;Cambria Math"e;></m:mathFont><br>   <m:brkBin m:val="e;before"e;></m:brkBin><br>   <m:brkBinSub m:val="e;--"e;></m:brkBinSub><br>   <m:smallFrac m:val="e;off"e;></m:smallFrac><br>   <m:dispDef></m:dispDef><br>   <m:lMargin m:val="e;0"e;></m:lMargin><br>   <m:rMargin m:val="e;0"e;></m:rMargin><br>   <m:defJc m:val="e;centerGroup"e;></m:defJc><br>   <m:wrapIndent m:val="e;1440"e;></m:wrapIndent><br>   <m:intLim m:val="e;subSup"e;></m:intLim><br>   <m:naryLim m:val="e;undOvr"e;></m:naryLim><br>  </m:mathPr></w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; DefUnhideWhenUsed="e;true"e;<br>  DefSemiHidden="e;true"e; DefQFormat="e;false"e; DefPriority="e;99"e;<br>  LatentStyleCount="e;267"e;><br>  <w:LsdException Locked="e;false"e; Priority="e;0"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Normal"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;heading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;9"e; QFormat="e;true"e; Name="e;heading 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 1"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 2"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 3"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 4"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 5"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 6"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 7"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 8"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; Name="e;toc 9"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;35"e; QFormat="e;true"e; Name="e;caption"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;10"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; Name="e;Default Paragraph Font"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;11"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtitle"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;22"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Strong"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;20"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;59"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Table Grid"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Placeholder Text"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;1"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;No Spacing"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; UnhideWhenUsed="e;false"e; Name="e;Revision"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;34"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;List Paragraph"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;29"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;30"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Quote"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 1"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 2"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 3"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 4"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 5"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;60"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;61"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;62"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Light Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;63"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;64"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Shading 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;65"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;66"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium List 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;67"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 1 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;68"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 2 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;69"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Medium Grid 3 Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;70"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Dark List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;71"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Shading Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;72"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful List Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;73"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; Name="e;Colorful Grid Accent 6"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;19"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;21"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Emphasis"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;31"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Subtle Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;32"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Intense Reference"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;33"e; SemiHidden="e;false"e;<br>   UnhideWhenUsed="e;false"e; QFormat="e;true"e; Name="e;Book Title"e;/><br>  <w:LsdException Locked="e;false"e; Priority="e;37"e; Name="e;Bibliography"e;></w:LsdException><br>  <w:LsdException Locked="e;false"e; Priority="e;39"e; QFormat="e;true"e; Name="e;TOC Heading"e;></w:LsdException><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-priority:99;<br>	mso-style-qformat:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Calibri"e;,"e;sans-serif"e;;<br>	mso-ascii-font-family:Calibri;<br>	mso-ascii-theme-font:minor-latin;<br>	mso-hansi-font-family:Calibri;<br>	mso-hansi-theme-font:minor-latin;<br>	mso-bidi-font-family:"e;Times New Roman"e;;<br>	mso-bidi-theme-font:minor-bidi;<br>	mso-fareast-language:EN-US;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;1026"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2014/09/15_1.pdf#page=18">Bijlage 2</a></p>
+
+### 4.
+
+...
 
 ### 5.
 
-5. De advisering en rapportering over de verschillende testen<br /><br />De deskundigen van de controleorganisaties nemen contact op met de mammografische eenheid als zich twee opeenvolgende dagen een afwijking van de normen voordoet. Tijdens dit contact maken de deskundigen de tekortkoming kenbaar en doen suggesties voor verbetering.<br /><br />Voor de scherm-film mammografen maken de deskundigen van de controleorganisaties elke maand een rapport op per mammografische eenheid met een overzicht van de resultaten van de dagelijkse en wekelijkse kwaliteitscontroles van de voorbije maand. <br /><br />De deskundigen bezorgen het rapport, voor de vijftiende van de maand volgend op de maand waarop het rapport betrekking heeft, aan de mammografische eenheid in kwestie en aan het centrum voor borstkankeropsporing waarmee de eenheid samenwerkt en de informatie wordt ook geregistreerd in het borstkankerregistratiesysteem.<br /><br />Het rapport omvat :<br />- een grafische weergave van de resultaten van de kwaliteitscontroles (fantoomopname en sensitometrie), met aanduiding van de toleranties, en met de datum waarop de controles plaatsvonden;<br />- een algemeen besluit over de frequentie van de kwaliteitscontroles en de interpretatie van de kwaliteit voor en na eventuele verbetering van een vastgestelde tekortkoming;<br />- een lijst van de contacten met de mammografische eenheid.
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/15_1.pdf#page=18">...</A></P>
 
 ## Bijlage 3
 
@@ -2103,7 +2473,7 @@ Drie maal per jaar bezorgt het centrum een evaluatierapport aan de mammografisch
 <br>
 2.3. Uiterlijk eind oktober over mei, juni, juli, augustus.<br>
 <br>
-Dit rapport situeert de mammografische eenheid ten opzichte van de andere mammografische eenheden binnen een provincie of binnen een zorgregio als er veel mammografische eenheden zijn binnen de provincie. De andere mammografische eenheden worden in dit rapport niet met naam genoemd. Als er aan de mammografische eenheid meerdere radiologen verbonden zijn maakt het centrum daarenboven een evaluatierapport op per radioloog binnen een mammografische eenheid. Als er problemen zijn met statistische significantie, kunnen er meerdere achtereenvolgende rapporten samengenomen worden om conclusies te trekken. Dit rapport situeert de radioloog ten opzichte van de andere radiologen binnen de mammografische eenheid.<br>
+Dit rapport situeert de mammografische eenheid ten opzichte van de andere mammografische eenheden binnen een provincie of binnen een zorgregio als er veel mammografische eenheden zijn binnen de provincie. De andere mammografische eenheden worden in dit rapport niet met naam genoemd.&nbsp;Als verschillende radiologen verbonden zijn aan de mammografische eenheid, maakt het centrum daarenboven jaarlijks, voor de periode van het vorige kalenderjaar, een evaluatierapport op per radioloog binnen een mammografische eenheid en bezorgt het dat rapport uiterlijk eind februari aan de mammografische eenheid en de radioloog in kwestie. Dit rapport situeert de radioloog ten opzichte van de andere radiologen binnen de mammografische eenheid.<br>
 <br>
 De evaluatierapporten bevatten ten minste een Excel file met de kwaliteitsparameters en de beoordeelde entiteiten (mammografische eenheden of radiologen). Resultaten die niet aan de wenselijke/aanvaardbare normwaarde voldoen, worden met een kleur gemarkeerd. Er wordt van uitgegaan dat de rapporten voldoende duidelijk zijn voor de mammografische eenheden om zelf, waar nodig, maatregelen te nemen voor kwaliteitsverbetering. De mammografische eenheid kan voor uitleg en advies altijd contact opnemen met het centrum voor borstkankeropsporing. Dit staat ook zo vermeld op het evaluatierapport.<br>
 <br>
@@ -2113,7 +2483,7 @@ De mammografische eenheid moet altijd de nodige maatregelen treffen om eventuele
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:255.9pt">
-			<p>kwaliteitsparameters<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>kwaliteitsparameters</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:199.2pt">
 			<p>norm</p>
@@ -2190,4 +2560,4 @@ De mammografische eenheid moet altijd de nodige maatregelen treffen om eventuele
 
 ### BIJLAGE
 
-Procedure bij vaststelling van een kwaliteitsprobleem bij het uitvoeren van de opdrachten door de mammografische eenheid <br /><br />De bijlage heeft betrekking op de procedure bij vaststelling van een kwaliteitsprobleem, vermeld in artikel 14, § 2, vierde lid, en artikel 15, tweede lid.<br /><br />1. Procedure bij vaststelling van een fysisch-technisch kwaliteitsprobleem in de mammografische eenheid<br /><br />Als uit het maandelijkse rapport van de controleorganisatie aan het centrum voor borstkankeropsporing blijkt dat de kwaliteitscontrole niet gebeurt met de vereiste frequentie of als de mammografische eenheid geen gevolg geeft aan de suggesties voor verbetering, geeft het centrum aan de mammografische eenheid in kwestie te kennen dat zij een maand de tijd heeft zich in orde te stellen met de dagelijkse en wekelijkse fysisch-technische kwaliteitscontrole. De mammografische eenheid moet binnen de twee werkweken reageren op de melding van het centrum. <br /><br />Als de mammografische eenheid binnen die termijn te kennen geeft de nodige kwaliteitsverbetering aan te brengen, wacht het centrum de twee volgende maandelijkse rapporten af. Als daaruit blijkt dat de mammografische eenheid nog niet voldoet aan de vereiste kwaliteit, wordt het agentschap door het centrum hiervan op de hoogte gebracht. Dit gebeurt ook wanneer de mammografische eenheid niet binnen de termijn van twee werkweken gereageerd heeft op de melding van het centrum, vermeld in het eerste lid.<br /><br />Het agentschap vraagt de mammografische eenheid zich in regel te stellen en bepaalt de termijn waarbinnen dit moet gebeuren. Als de mammografische eenheid zich niet in regel heeft gesteld binnen die termijn, uit de administrateur-generaal zijn voornemen tot intrekking van de erkenning van de mammografische eenheid in kwestie.<br /><br />2. Procedure bij vaststelling van een medisch-radiologisch kwaliteitsprobleem in de mammografische eenheid<br /><br />Als uit het evaluatierapport van het centrum voor borstkankeropsporing blijkt dat de mammografische eenheid of een radioloog niet voldoet aan een of meerdere kwaliteitsparameters, kan de mammografische voor uitleg en advies contact opnemen met het centrum voor borstkankeropsporing. Dit staat ook zo vermeld op het evaluatierapport.<br /><br />Als bij een volgend evaluatierapport blijkt dat de normen voor de kwaliteitsparameters nog niet gehaald worden, wordt het agentschap door het centrum op de hoogte gebracht. Het agentschap vraagt de mammografische eenheid zich in regel te stellen, bepaalt de termijn waarbinnen dit moet gebeuren en deelt mee dat een remediëringstraject moet worden opgestart. Dit remediëringstraject gebeurt in samenspraak tussen het centrum voor borstkankeropsporing en de mammografische eenheid en duurt maximaal zes maanden. De inhoud en intensiteit wordt bepaald in functie van de concrete problematiek en de startdatum van de remediëring wordt door het centrum schriftelijk bevestigd. Zo nodig worden de controleorganisaties of de pool van radiologen, vermeld in bijlage 3, punt 1.1, betrokken bij het opmaken en het uitvoeren van het remediëringstraject.<br /><br />Als uit het eerstvolgend evaluatierapport, dat loopt over ten minste vier maanden na de start van de remediëring, blijkt dat de normen voor de kwaliteitsparameters niet gehaald worden, wordt het agentschap door het centrum op de hoogte gebracht. De administrateur-generaal uit zijn voornemen tot intrekking van de erkenning van de mammografische eenheid in kwestie.
+<P><EM>Procedure bij vaststelling van een kwaliteitsprobleem bij het uitvoeren   van de opdrachten door de mammografische eenheid<BR></EM><BR>De bijlage heeft   betrekking op de procedure bij vaststelling van een kwaliteitsprobleem, vermeld   in artikel 14, § 2, vierde lid, en artikel 15, tweede lid.<BR><BR>1. Procedure   bij vaststelling van een fysisch-technisch kwaliteitsprobleem in de   mammografische eenheid<BR><BR>Als uit het toezicht, controles of evaluaties,   vermeld in artikel 25, of uit het maandelijkse rapport van de   controleorganisatie aan het centrum voor borstkankeropsporing blijkt dat de   kwaliteitscontrole niet gebeurt met de vereiste frequentie of als de   mammografische eenheid geen gevolg geeft aan de suggesties voor verbetering,   geeft het centrum aan de mammografische eenheid in kwestie te kennen dat zij een   maand de tijd heeft zich in orde te stellen met de dagelijkse en wekelijkse   fysisch-technische kwaliteitscontrole. De mammografische eenheid moet binnen de   twee werkweken reageren op de melding van het centrum.<BR><BR>Als de   mammografische eenheid binnen die termijn te kennen geeft de nodige   kwaliteitsverbetering aan te brengen, wacht het centrum de twee volgende   maandelijkse rapporten af. Als daaruit blijkt dat de mammografische eenheid nog   niet voldoet aan de vereiste kwaliteit, wordt het agentschap door het centrum   hiervan op de hoogte gebracht. Dit gebeurt ook wanneer de mammografische eenheid   niet binnen de termijn van twee werkweken gereageerd heeft op de melding van het   centrum, vermeld in het eerste lid.<BR><BR>Het agentschap vraagt de   mammografische eenheid zich in regel te stellen en bepaalt de termijn waarbinnen   dit moet gebeuren. Als de mammografische eenheid zich niet in regel heeft   gesteld binnen die termijn, geeft de administrateur-generaal zijn voornemen tot   intrekking van de erkenning van de mammografische eenheid in kwestie te   kennen.<BR><BR>2. Procedure bij vaststelling van een medisch-radiologisch   kwaliteitsprobleem in de mammografische eenheid<BR><BR>Als uit het toezicht,   controles of evaluaties, vermeld in artikel 25, of uit een evaluatierapport van   het centrum voor borstkankeropsporing blijkt dat de mammografische eenheid of   een radioloog niet voldoet aan een of meerdere kwaliteitsparameters, kan de   mammografische eenheid voor uitleg en advies contact opnemen met het centrum   voor borstkankeropsporing. Dit staat ook zo vermeld op het evaluatierapport in   kwestie.<BR><BR>Als uit het toezicht, controles of evaluaties, vermeld in   artikel 25, of uit een van de volgende evaluatierapporten over een   mammografische eenheid binnen hetzelfde jaar of uit een van de twee volgende   evaluatierapporten over een radioloog blijkt dat de normen voor de   kwaliteitsparameters nog niet gehaald worden, start het centrum voor   borstkankeropsporing een remediëring. Die remediëring gebeurt in samenspraak   tussen het centrum voor borstkankeropsporing en de mammografische eenheid en   duurt maximaal zes maanden. De inhoud en intensiteit wordt bepaald in functie   van de concrete problematiek en de startdatum van de remediëring wordt door het   centrum schriftelijk bevestigd. Zo nodig worden de controleorganisaties of de   pool van radiologen, vermeld in bijlage 3, punt 1.1, betrokken bij het opmaken   en het uitvoeren van de remediëring.<BR><BR>Als uit het toezicht, controles of   evaluaties, vermeld in artikel 25, of uit een van de volgende   evaluatierapporten, die opgemaakt zijn binnen de drie jaar na het einde van de   remediëring, blijkt dat de normen voor de kwaliteitsparameters niet gehaald   worden, wordt het agentschap door het centrum op de hoogte gebracht. De   administrateur-generaal geeft zijn voornemen tot intrekking van de erkenning van   de mammografische eenheid in kwestie te kennen.</P>
