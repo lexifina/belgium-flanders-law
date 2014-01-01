@@ -12,6 +12,10 @@ Artikel 3 van het besluit van de Vlaamse Regering van 13 oktober 2006   houdende
 
 In artikel 6 van hetzelfde besluit wordt tussen de woorden « financiële   nota en » en de woorden « een opsomming » de woorden « in voorkomend geval »   ingevoegd.<BR>
 
+### ART. 3.
+
+In artikel 9, derde lid, van hetzelfde besluit worden de woorden « of   groter dan » opgeheven.<BR>
+
 ### ART. 4.
 
 In artikel 10 van hetzelfde besluit wordt tussen de zinsnede « vermeld in   artikel 6, » en de woorden « kunnen beperkingen bevatten » de zinsnede « en de   afspraken, vermeld in artikel 33/1, 113/1, 149/1, 185/1, 221/1 en 264/1 van het   decreet » ingevoegd.<BR>
@@ -31,6 +35,10 @@ In artikel 14, tweede lid, van hetzelfde besluit worden de woorden « en   toege
 ### ART. 8.
 
 In artikel 18, derde lid, van hetzelfde besluit worden de woorden «   niet-geactualiseerde » opgeheven.<BR>
+
+### ART. 9.
+
+In artikel 20, tweede lid, van hetzelfde besluit worden de woorden « of   groter dan » opgeheven.<BR>
 
 ### ART. 10.
 
