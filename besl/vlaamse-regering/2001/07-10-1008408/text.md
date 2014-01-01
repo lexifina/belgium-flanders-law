@@ -21,9 +21,9 @@ In dit besluit wordt verstaan onder:<br /><br />1° Kind en Gezin: de instelling
 
 <p>Per jaar wordt nagegaan hoeveel personeelsleden in voorzieningen, georganiseerd door een VZW, in aanmerking komen. Voor de personeelsleden met een gescostatuut in initiatieven voor buitenschoolse opvang wordt de ondersteuning beperkt tot dat gedeelte dat niet in de gescopremie vervat zit. Het vastlegde bedrag wordt dan omgerekend per voltijds personeelslid, met dien verstande dat een personeelslid dat 45 jaar is, maar jonger dan 50 voor één eenheid telt een personeelslid dat 50 jaar is, en jonger dan 55 voor twee eenheden telt, en een personeelslid dat 55 jaar is of meer is, voor drie eenheden telt.<br>
 <br>
-§ 4. De subsidie van Kind en Gezin bedraagt in 2013 per voltijds gesubsidieerd personeelslid in een gewezen DAC-statuut :<br>
-1° als aanvullende managementondersteuning : 281,98 euro;<br>
-2° als eindejaarspremie : 1815,23 euro.</p>
+§ 4. De subsidie van Kind en Gezin bedraagt in 2014 per voltijds gesubsidieerd personeelslid in een gewezen DAC-statuut:<br>
+1° als aanvullende managementondersteuning: 328,48 euro;<br>
+2° als eindejaarspremie: 1815,23 euro.</p>
 
 ### ART. 3.
 
@@ -41,7 +41,7 @@ Het toezicht over de krachtens dit besluit bepaalde initiatiefnemers wordt uitge
 
 ### ART. 6.
 
-De subsidiebedragen voor 2013, vermeld in artikel 2 § 4, worden niet   geïndexeerd in 2013.
+<P>De subsidies die in dit besluit worden gedefinieerd, worden elk jaar op 1   januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar.<BR><BR>In afwijking van het eerste lid worden de   subsidiebedragen voor 2014, vermeld in artikel 2, § 4, niet geïndexeerd in   2014.</P>
 
 ### ART. 7.
 

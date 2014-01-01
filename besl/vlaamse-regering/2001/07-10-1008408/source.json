@@ -2,16 +2,16 @@
   "codex_id": 1008408,
   "title": "Besluit van de Vlaamse Regering van 2001-07-10 houdende de toekenning van subsidies aan de initiatiefnemers die personeelsleden te werk stellen in een gewezen DAC-statuut",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008408/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "572d9cab890db0600aafbfa52b0d477a23e9628bdd69269246a218d9263db02b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008408/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "c70258afa3aa9d8b4e4567cc3e767716ca1f371c6a9aa30822024e951d06ff5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008408&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2001-07-10",
   "gazette": "2001-10-10",
   "numac": 2001036134,
   "document_start": "2001-01-01",
   "document_end": "2015-03-12",
-  "in_force": "2013-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
