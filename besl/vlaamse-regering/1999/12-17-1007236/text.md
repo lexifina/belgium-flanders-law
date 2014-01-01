@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het decreet: decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br />2° de Vlaamse minister: Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />3° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />4° centrum: centrum voor geestelijke gezondheidszorg zoals bepaald in artikel 2, 1°, van het decreet;<br />5° de Vlaamse Gezondheidsraad: de Vlaamse Gezondheidsraad opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br />6° de Vlaamse Adviesraad: de Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen, opgericht bij het decreet van 20 december 1996 houdende oprichting van een Vlaamse gezondheidsraad en van een Vlaamse Adviesraad inzake erkenning van verzorgingsvoorzieningen;<br />7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   decreet: decreet van 18 mei 1999 betreffende de geestelijke   gezondheidszorg;<BR>2° de Vlaamse minister: Vlaamse minister, bevoegd voor het   gezondheidsbeleid;<BR>3° de administratie: het intern verzelfstandigd agentschap   Zorg en Gezondheid;<BR>4° centrum: centrum voor geestelijke gezondheidszorg   zoals bepaald in artikel 2, 1°, van het decreet;<BR>5° ...;<BR>6° ...;<BR>7° de   administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap   Zorg en Gezondheid.
 
 ## HOOFDSTUK II OPDRACHTEN EN WERKING
 
@@ -40,11 +40,11 @@ Een centrum kan enkel worden erkend als:<br /><br />1° het daartoe een ontvanke
 
 ### ART. 9.
 
-§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de administrateur-generaal, bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<br /><br />§ 2. De administratie bezorgt, binnen vijftien dagen na ontvangst ervan, het bezwaarschrift samen met het volledige administratieve dossier aan de Vlaamse adviesraad.
+§ 1. De aanvrager kan, tot uiterlijk dertig dagen na ontvangst van het in   artikel 8, § 2 genoemde voornemen, met een aangetekende brief een gemotiveerd   bezwaarschrift, gericht aan de administrateur-generaal, bij de administratie   indienen. Hij kan daarin uitdrukkelijk vragen om gehoord te worden.<BR><BR>§ 2.   ...
 
 ### ART. 10.
 
-§ 1. Binnen een maand nadat de administrateur-generaal het advies van de Vlaamse adviesraad heeft ontvangen wordt de gemotiveerde beslissing tot erkenning of verlenging van erkenning of tot weigering per aangetekende brief aan het centrum betekend. Als de administrateur-generaal het advies niet heeft ontvangen binnen de reglementair bepaalde termijn, gebeurt dat binnen een maand na het verstrijken van die termijn. Indien het advies van de Vlaamse Adviesraad afwijkt van het voornemen van de administrateur-generaal, vermeld in artikel 8, § 2, beslist de minister.<br /><br />§ 2. Als het advies ontbreekt, kan de administrateur-generaal geen beslissing nemen zonder dat hij de aanvrager heeft gehoord, als hij daarom in zijn bezwaarschrift heeft verzocht. In dat geval wordt de in § 1 bedoelde termijn met één maand verlengd.
+<P>Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij   of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</P>
 
 ### ART. 11.
 
@@ -60,7 +60,7 @@ Als de erkenning of de verlenging van erkenning wordt geweigerd kan het centrum 
 
 ### ART. 14.
 
-Het gemotiveerde voornemen van de administrateur-generaal om de erkenning   in te trekken wordt met een aangetekende brief aan het centrum betekend. Daarin   worden de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te   dienen zoals bepaald in artikel 10, § 1. Artikelen 10, § 2, tot en met 12, § 1,   zijn van overeenkomstige toepassing.
+Het gemotiveerde voornemen van de administrateur-generaal om de erkenning   in te trekken wordt met een aangetekende brief aan het centrum betekend. Daarin   worden de mogelijkheden en de voorwaarden vermeld om een bezwaarschrift in te   dienen zoals bepaald in artikel 9, § 1. Artikel 10 en 11, § 1, zijn van   overeenkomstige toepassing.
 
 ### ART. 15.
 
