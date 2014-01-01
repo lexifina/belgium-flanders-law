@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023617,
+  "title": "Ministerieel besluit van 2013-12-06 houdende het instellen van een regelluw kader voor het multifunctioneel centrum Heilig Hart Dienstverleningscentrum voor personen met een handicap vzw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023617/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e1d0e6c11ec83114d169ce383528e574a54a41090813cab5365593ad055b0867",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023617&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-06",
+  "gazette": "2014-01-20",
+  "numac": 2014200005,
+  "document_start": "2014-01-01",
+  "document_end": "2016-12-31",
+  "in_force": "2014-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
