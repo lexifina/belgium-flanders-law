@@ -2,16 +2,16 @@
   "codex_id": 1019032,
   "title": "Besluit van de Vlaamse Regering van 2010-04-23 tot bepaling van de voorwaarden voor de toekenning van subsidies aan gemeentebesturen die een beleid voeren ter verhoging van de aandacht voor jeugdcultuur als onderdeel van hun jeugdbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019032/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "c6c8cffc889a551f5e3e51ea85948477d62360d5226d5f717d7a90acd76a73e7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019032/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "fea51190fefbad5f1f5220d521058871bedca3b62daeb1bb317cf9459f83d8f5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019032&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2010-04-23",
   "gazette": "2010-05-28",
   "numac": 2010202911,
   "document_start": "2010-05-28",
   "document_end": "2013-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
