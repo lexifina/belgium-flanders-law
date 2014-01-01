@@ -2,16 +2,16 @@
   "codex_id": 1018875,
   "title": "Besluit van de Vlaamse Regering van 2010-02-26 tot regeling van de erkenning en de subsidiëring van organisaties voor autonoom vrijwilligerswerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018875/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "5a18d0e587f208ba39f50fbb0a873d311a108a3d44ae28bc491fa044180b3a30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018875/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "82b25a7985e6d4e4fcad02b4938b8715fa29f552c261032f6c4eb20b29790b08",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018875&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2010-02-26",
   "gazette": "2010-03-22",
   "numac": 2010035215,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
