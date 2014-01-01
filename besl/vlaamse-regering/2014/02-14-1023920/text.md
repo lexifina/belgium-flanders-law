@@ -40,9 +40,17 @@ Artikel 13bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse 
 
 Artikel 15bis. van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 14 juli 2004 en gewijzigd bij de besluiten van de Vlaamse   Regering van 24 oktober 2008 en 24 april 2009, wordt vervangen door wat   volgt:<BR>"Art. 15bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage, die bij dit besluit is gevoegd, treden in werking op 15 oktober   2013.".<BR>
 
+### ART. 10.
+
+Artikel 15bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 14 juli 2004 en gewijzigd bij de besluiten van de Vlaamse   Regering van 24 oktober 2008 en 24 april 2009, wordt vervangen door wat   volgt:<BR>"Art. 15bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage, die bij dit besluit is gevoegd, treden in werking op 1 januari   2014.".<BR>
+
 ### ART. 11.
 
 Bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 10 september 2010, wordt vervangen door bijlage 1 die bij dit   besluit is gevoegd.<BR>
+
+### ART. 12.
+
+Bijlage I bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 10 september 2010, wordt vervangen door bijlage 2, die bij dit   besluit is gevoegd.<BR>
 
 ### ART. 13.
 
