@@ -62,7 +62,7 @@ Inzake de programmering en de verslaggeving van de werkzaamheden van de Raad is 
 
 ### ART. 12.
 
-<P>Er wordt een&nbsp; Adviescommissie voor Voorzieningen van Welzijn,   Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de   commissie te noemen.<BR><BR><STRONG>[nvdr: het tweede en derde lid van dit   artikel treden pas in werking op 1 januari 2014:<BR></STRONG><EM>De commissie   heeft als opdracht advies uit te brengen aan de minister bevoegd voor het   Vlaamse welzijns-, gezondheids- en gezinsbeleid over het bezwaar tegen een   voornemen dat met betrekking tot een voorziening van welzijn, volksgezondheid en   gezin of een onderdeel ervan door het departement of een agentschap van het   beleidsdomein wordt geuit en formeel wordt betekend om :<BR>1° een vergunning of   toelating te weigeren;<BR>2° een erkenning, een verlenging of wijziging van   erkenning te weigeren;<BR>3° een erkenning in te trekken of te schorsen;<BR>4°   de voorziening of een onderdeel ervan te sluiten.<BR><BR>De commissie brengt   eveneens advies uit over een bezwaar tegen een beslissing van het departement of   van een agentschap, vermeld in het tweede lid, tot weigering of intrekking van   een attest van toezicht</EM>.<STRONG><EM>]</EM></STRONG><BR></P>
+<P>Er wordt een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid   en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de commissie te   noemen.<BR><BR>De commissie heeft als opdracht aan de Vlaamse minister, bevoegd   voor de bijstand aan personen en voor het gezondheidsbeleid, advies uit te   brengen over het bezwaar tegen een van de volgende beslissingen die, met   betrekking tot een voorziening van welzijn, volksgezondheid en gezin of een   onderdeel ervan, door het departement of een agentschap van het beleidsdomein   zijn genomen, of tegen het voornemen om een van de volgende beslissingen te   nemen, dat door het departement of door het agentschap wordt geuit en formeel   wordt betekend :<BR>1° de weigering om een toelating, een vergunning of een   erkenning te verlenen, te verlengen of te wijzigen;<BR>2° de gedwongen   wijziging, de schorsing, de opheffing of de intrekking van een toelating, een   vergunning of een erkenning;<BR>3° de sluiting;<BR>4° de weigering,   vermindering, stopzetting of terugvordering van een subsidie voor   kinderopvanglocaties.<BR><BR>De commissie behandelt het bezwaar tegen de   weigering van een attest naar aanleiding van een herscreening als bedoeld in   artikel 14, § 5, van het decreet van 29 juni 2012 houdende de organisatie van   pleegzorg.</P>
 
 ## Afdeling II. Samenstelling en werking
 
@@ -73,6 +73,10 @@ De Vlaamse Regering regelt de samenstelling van de commissie en de benoeming van
 ### ART. 14.
 
 De Vlaamse Regering regelt de werking van de commissie en, in voorkomend geval, van de afdelingen, vermeld in artikel 13, tweede lid.<br /><br />Ze stelt de vergoedingen voor de leden van de commissie vast. Die vergoedingen, evenals de werkingskosten van de commissie, vallen ten laste van de begroting van de Vlaamse Gemeenschap.<br />
+
+### ART. 15.
+
+De Vlaamse Regering bepaalt de termijn waarbinnen de commissie advies moet   uitbrengen.<BR><BR>Over het bezwaar, vermeld in artikel 12, kan pas een   beslissing worden genomen na de ontvangst van het advies van de commissie,   tenzij de termijn is verstreken waarbinnen het advies moest worden gegeven. De   Vlaamse Regering kan de nadere regels bepalen voor de beslissing over het   bezwaar.
 
 ## HOOFDSTUK IV. Wijzigingsbepaling
 
@@ -89,6 +93,14 @@ In het decreet van 27 juni 1985 op de Sociaal-Economische Raad van Vlaanderen, w
 In het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen, wordt na hoofdstuk Vbis, een nieuw hoofdstuk ingevoegd, dat luidt als volgt :<br /><br />"HOOFDSTUK Vter. - Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid<br /><br />Artikel 22ter. Binnen de Raad is de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid opgericht. Deze strategische adviesraad wordt geregeld door het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin. ».
 
 ## HOOFDSTUK V. Slotbepalingen
+
+### ART. 19.
+
+De volgende regelingen worden opgeheven :<br />1° het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van de Vlaamse Adviesraad voor de erkenning van verzorgingsvoorzieningen, gewijzigd bij het decreet van 18 mei 1999;<br />2° het decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, gewijzigd bij het decreet van 18 mei 1999.<br />
+
+### ART. 20.
+
+De beroepen, bezwaar- of verweerschriften die voor de datum van inwerkingtreding van hoofdstuk III van dit decreet ingediend zijn bij de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden of bij de Vlaamse Adviesraad voor de erkenning van verzorgingsvoorzieningen, worden door die beroepscommissie of die adviesraad verder behandeld met toepassing van de regels die van kracht waren bij de indiening.<br />
 
 ### ART. 21.
 
