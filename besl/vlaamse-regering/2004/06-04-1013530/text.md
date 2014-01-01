@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br />2° het decreet: het decreet van 4 maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden en de erkenning van centra voor meer duurzame landbouw;<br />3° de bevoegde entiteit : het Departement Landbouw en Visserij;<br />
+In dit besluit wordt verstaan onder:<BR>1° de minister: de Vlaamse   minister, bevoegd voor het landbouwbeleid;<BR>2° het decreet: het decreet van 4   maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden en   de erkenning van centra voor meer duurzame landbouw;<BR>3° departement : het   Departement Landbouw en Visserij;<BR>4° agentschap : het Agentschap voor   Landbouw en Visserij.
+
+### ART. 1/1.
+
+<P>Het hoofd van het departement kan een afdeling van dat departement aanwijzen   die voor het departement optreedt en kan de aan hem gedelegeerde aangelegenheden   subdelegeren aan personeelsleden van het departement die onder zijn   hiërarchische gezag staan, tot op het meest functionele niveau.</P>  <P>Het hoofd van het agentschap kan een afdeling van dat agentschap aanwijzen   die voor het agentschap optreedt en kan de aan hem gedelegeerde aangelegenheden   subdelegeren aan personeelsleden van het agentschap die onder zijn hiërarchische   gezag staan, tot op het meest functionele niveau.</P>
 
 ## HOOFDSTUK II HET TOEPASSINGSGEBIED
 
@@ -80,17 +84,17 @@ Bij de aankondiging onder de geschreven vorm van de vormingsactiviteiten vermeld
 
 ### ART. 19.
 
-Na afloop van cursussen en stages ontvangen de deelnemende personen van   het inrichtend centrum een getuigschrift.<BR><BR>Na afloop van een cursus wordt   het getuigschrift namens de minister geviseerd als:<BR>1° het werd opgesteld   overeenkomstig de modellen, vastgesteld door de minister;<BR>2° de deelnemer ten   minste 75 % van de lesuren aanwezig is geweest;<BR>3° de deelnemer met vrucht   een cursustest heeft afgelegd.<BR><BR>Na afloop van een stage wordt het   getuigschrift namens de minister geviseerd als:<BR>1° het werd opgesteld   overeenkomstig de modellen, vastgesteld door de minister;<BR>2° de stagiair alle   stagedagen die in het stageplan vastgelegd waren, heeft volbracht;<BR>3° de   stagiair een stageverslag heeft opgemaakt.<BR><BR>De minister kan nadere   voorwaarden en regels bepalen waaraan de getuigschriften moeten   voldoen.
+Na afloop van cursussen en stages ontvangen de deelnemende personen van   het inrichtend centrum een getuigschrift.<BR><BR>Na afloop van een cursus wordt   het getuigschrift namens de minister door het hoofd van het   agentschap&nbsp;geviseerd als:<BR>1° het werd opgesteld overeenkomstig de   modellen, vastgesteld door de minister;<BR>2° de deelnemer ten minste 75 % van   de lesuren aanwezig is geweest;<BR>3° de deelnemer met vrucht een cursustest   heeft afgelegd.<BR><BR>Na afloop van een stage wordt het getuigschrift namens de   minister door het hoofd van het agentschap&nbsp;geviseerd als:<BR>1° het werd   opgesteld overeenkomstig de modellen, vastgesteld door de minister;<BR>2° de   stagiair alle stagedagen die in het stageplan vastgelegd waren, heeft   volbracht;<BR>3° de stagiair een stageverslag heeft opgemaakt.<BR><BR>De   minister kan nadere voorwaarden en regels bepalen waaraan de getuigschriften   moeten voldoen.
 
 ## HOOFDSTUK IV DE VORMINGSACTIVITEITEN, GEORGANISEERD DOOR DE [BEVOEGDE ENTITEIT (verv. BVR 19 december 2014, art. 32, I: 1 januari 2015)]
 
 ### ART. 20.
 
-De bevoegde entiteit kan alle in artikel 4 opgesomde vormingsactiviteiten   en eventueel andere vormen van activiteiten organiseren, bestemd voor de   personen, bedoeld in artikel 2.<BR><BR>De bevoegde entiteit organiseert   bovendien installatieproeven. Dit zijn proeven die georganiseerd worden om de   noodzakelijke beroepsbekwaamheid bij een eerste vestiging op een landbouwbedrijf   te toetsen. De geslaagde kandidaten ontvangen een installatieattest ten behoeve   van het Vlaams Landbouwinvesteringsfonds.
+Het departement en het agentschap kunnen alle in artikel 4 opgesomde   vormingsactiviteiten en eventueel andere vormen van activiteiten organiseren,   bestemd voor de personen, bedoeld in artikel 2.<BR><BR>Het agentschap   organiseert bovendien installatieproeven. Dit zijn proeven die georganiseerd   worden om de noodzakelijke beroepsbekwaamheid bij een eerste vestiging op een   landbouwbedrijf te toetsen. De geslaagde kandidaten ontvangen een   installatieattest ten behoeve van het Vlaams   Landbouwinvesteringsfonds.
 
 ### ART. 21.
 
-De installatieproeven worden gezamenlijk voor de kandidaten van de   verschillende algemene centra georganiseerd, in aanwezigheid van een jury en   maximaal één vertegenwoordiger - lesgever per algemeen centrum als   waarnemer.<BR><BR>De jury is samengesteld uit :<BR>1° de voorzitter, namelijk   het afdelingshoofd van de afdeling Duurzame Landbouwontwikkeling van de bevoegde   entiteit of zijn afgevaardigde;<BR>2° een personeelslid van de bevoegde   entiteit;<BR>3° een personeelslid van de afdeling Structuur en Investeringen van   het Agentschap voor Landbouw en Visserij.<BR><BR>De voorzitter van de jury kan   beslissen een neutrale en onafhankelijke technisch expert uit te nodigen om deel   te nemen aan de jurering.<BR><BR>De minister bepaalt de nadere   toelatingsvoorwaarden voor het examen en kan een examenreglement   opstellen.
+<P>De installatieproeven worden gezamenlijk voor de kandidaten van de   verschillende algemene centra georganiseerd, in aanwezigheid van een jury en   maximaal één vertegenwoordiger - lesgever per algemeen centrum als   waarnemer.<BR><BR>De jury is samengesteld uit :<BR>1° de voorzitter, namelijk   het afdelingshoofd van de afdeling Structuur en Investeringen van het agentschap   of zijn afgevaardigde;<BR>2° een personeelslid van het agentschap;<BR>3° ...</P>  <P>De voorzitter van de jury kan beslissen één of twee neutrale en   onafhankelijke technisch experten uit te nodigen om deel te nemen aan de   jurering.<BR><BR>De minister bepaalt de nadere toelatingsvoorwaarden voor het   examen en kan een examenreglement opstellen.</P>
 
 ## HOOFDSTUK V STEUN VOOR INNOVATIEVE VORMINGSPROJECTEN
 
@@ -130,7 +134,7 @@ De minister erkent het centrum op voorlegging van de stukken waaruit blijkt dat 
 
 ### ART. 30.
 
-Om zich als lesgever bij de bevoegde entiteit te laten registreren, moet de kandidaat aan de hand van een beknopt curriculum vitae aantonen dat hij over voldoende kennis of ervaring beschikt in verband met de landbouwactiviteiten, hobbylandbouwactiviteiten of de landbouwactiviteiten waarover hij wil lesgeven.<br /><br />Een lesgever die binnen het kader van dit besluit gedurende zes opeenvolgende jaren geen les gegeven heeft, wordt ambtshalve geschrapt en moet zich, om opnieuw als lesgever te kunnen optreden, opnieuw bij de bevoegde entiteit laten registreren.<br /><br />De minister kan hieromtrent nadere voorwaarden en regels bepalen.
+Om zich als lesgever bij het agentschap te laten registreren, moet de   kandidaat aan de hand van een beknopt curriculum vitae aantonen dat hij over   voldoende kennis of ervaring beschikt in verband met de landbouwactiviteiten,   hobbylandbouwactiviteiten of de landbouwactiviteiten waarover hij wil   lesgeven.<BR><BR>Een lesgever die binnen het kader van dit besluit gedurende zes   opeenvolgende jaren geen les gegeven heeft, wordt ambtshalve geschrapt en moet   zich, om opnieuw als lesgever te kunnen optreden, opnieuw bij het agentschap   laten registreren.<BR><BR>De minister kan hieromtrent nadere voorwaarden en   regels bepalen.
 
 ### ART. 31.
 
@@ -152,7 +156,7 @@ Het werkjaar begint op 1 januari en eindigt op 31 december. Voor 1 november van 
 
 ### ART. 35.
 
-Nadat het volledige jaarprogramma goedgekeurd is, moeten de centra de georganiseerde vor-mingsactiviteiten voor de aanvang ervan melden.<br /><br />De minister bepaalt de aanvraagvoorwaarden voor de subsidie en legt de te gebruiken formulieren vast.
+<P>Nadat het volledige jaarprogramma goedgekeurd is, moeten de centra de   georganiseerde vor-mingsactiviteiten voor de aanvang ervan melden.<BR><BR>De   minister bepaalt de aanvraagvoorwaarden voor de subsidie en legt de te gebruiken   formulieren vast.</P>  <P>Binnen de door de minister jaarlijks goedgekeurde jaarprogramma's wordt het   hoofd van het agentschap gemachtigd om te beslissen over de toekenning van de   subsidies overeenkomstig dit besluit en de uitvoeringsbepalingen   ervan.</P>
 
 ### ART. 36.
 
@@ -172,7 +176,7 @@ De erkende centra ontvangen per erkende studieclub een startpremie van 500 euro.
 
 ### ART. 40.
 
-De werkingskosten, verbonden aan de vormingsactiviteiten, georganiseerd door de bevoegde entiteit, worden integraal vergoed, mits de nodige bewijsstukken worden voorgelegd.
+De werkingskosten, verbonden aan de vormingsactiviteiten, georganiseerd   door het departement en het agentschap, worden integraal vergoed, mits de nodige   bewijsstukken worden voorgelegd.
 
 ### ART. 41.
 
@@ -180,7 +184,7 @@ De in dit hoofdstuk vermelde bedragen worden gekoppeld aan het indexcijfer van d
 
 ### ART. 42.
 
-De algemene centra ontvangen bij het begin van elk werkjaar een voorschot, gelijk aan de helft van de totale begroting van het goedgekeurde jaarprogramma.<br /><br />Voor het volgende werkjaar kan pas een nieuw voorschot worden uitgekeerd, nadat het voorgaande voorschot uitgeput is.
+<P>...</P>
 
 ## HOOFDSTUK VIII VERGOEDING VOOR SOCIALE PROMOTIE
 
@@ -192,15 +196,19 @@ De algemene centra ontvangen bij het begin van elk werkjaar een voorschot, gelij
 
 ### ART. 44.
 
-De naschoolse opleidingsinitiatieven staan onder controle van de bevoegde entiteit.<br /><br />De personeelsleden van de bevoegde entiteit mogen bij de uitoefening van hun opdracht elk onderzoek en elke zowel administratieve als pedagogische controle instellen, alsmede alle inlichtingen inwinnen die zij nodig achten om zich ervan te vergewissen dat de reglementaire bepalingen werkelijk worden nageleefd.
+De naschoolse opleidingsinitiatieven staan onder controle van het   agentschap.<BR><BR>De personeelsleden van het agentschap mogen bij de   uitoefening van hun opdracht elk onderzoek en elke zowel administratieve als   pedagogische controle instellen, alsmede alle inlichtingen inwinnen die zij   nodig achten om zich ervan te vergewissen dat de reglementaire bepalingen   werkelijk worden nageleefd.
 
 ### ART. 45.
 
-§ 1. Onverminderd de toepassing van de bepalingen van artikel 57 van de   wetten op de Rijks-comptabiliteit, gecoördineerd bij koninklijk besluit van 17   juli 1991, kan de minister, als blijkt dat de reglementaire bepalingen meermaals   ernstig worden overtreden, overgaan tot het nemen van de volgende   sancties:<BR>1° als ten minste 5 % van alle lesuren, waarvoor in het   desbetreffende werkjaar subsidies werden aangevraagd, niet in overeenstemming is   met de reglementaire bepalingen: het inhouden of terugvorderen van de subsidies   naar rato van 20 % van de totale begroting van het voor het werkjaar in kwestie   goedgekeurde programma;<BR>2° als ten minste 10 % van alle lesuren, waarvoor in   het desbetreffende werkjaar subsidies werden aangevraagd, niet in   overeenstemming is met de reglementaire bepalingen: het inhouden of   terugvorderen van de subsidies naar rato van 50 % van de totale begroting van   het voor het werkjaar in kwestie goedgekeurde programma;<BR>3° als meer dan 15 %   van alle lesuren, waarvoor in het werkjaar in kwestie subsidies werden   aangevraagd, niet in overeenstemming is met de reglementaire bepalingen: het   schorsen of opheffen van de erkenning van het centrum.<BR><BR>§ 2. Per   vormingsactiviteit, als bedoeld in artikel 4, worden als ernstige overtredingen   beschouwd:<BR>1° het aanvragen van subsidies voor een fictieve   vormingsactiviteit;<BR>2° het aanvragen van onterechte subsidies,   namelijk:<BR>a) subsidies voor praktijklessen, hoewel het om theoretische lessen   gaat;<BR>b) een groter aantal lesuren opgeven dan werkelijk gegeven wordt;<BR>3°   het aanvragen van subsidies voor vormingsactiviteiten met een commercieel   karakter;<BR>4° het fictief optrekken van de aanwezigheid om te voldoen aan de   minimale aanwezigheidsvereisten, bedoeld in de artikelen 6 tot 12.
+<P>§ 1. Onverminderd de toepassing van de bepalingen van artikel 13 van de wet   van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de   begrotingen, de controle op de subsidies en voor de boekhouding van de   gemeenschappen en de gewesten, alsook voor de organisatie van de controle door   het Rekenhof, kan de minister, als blijkt dat de reglementaire bepalingen   meermaals ernstig worden overtreden, overgaan tot het nemen van de volgende   sancties:<BR>1° als ten minste 5 % van alle lesuren, waarvoor in het   desbetreffende werkjaar subsidies werden aangevraagd, niet in overeenstemming is   met de reglementaire bepalingen: het inhouden of terugvorderen van de subsidies   naar rato van 20 % van de totale begroting van het voor het werkjaar in kwestie   goedgekeurde programma;<BR>2° als ten minste 10 % van alle lesuren, waarvoor in   het desbetreffende werkjaar subsidies werden aangevraagd, niet in   overeenstemming is met de reglementaire bepalingen: het inhouden of   terugvorderen van de subsidies naar rato van 50 % van de totale begroting van   het voor het werkjaar in kwestie goedgekeurde programma;<BR>3° als meer dan 15 %   van alle lesuren, waarvoor in het werkjaar in kwestie subsidies werden   aangevraagd, niet in overeenstemming is met de reglementaire bepalingen: het   schorsen of opheffen van de erkenning van het centrum.<BR><BR>§ 2. Per   vormingsactiviteit, als bedoeld in artikel 4, worden als ernstige overtredingen   beschouwd:<BR>1° het aanvragen van subsidies voor een fictieve   vormingsactiviteit;<BR>2° het aanvragen van onterechte subsidies,   namelijk:<BR>a) subsidies voor praktijklessen, hoewel het om theoretische lessen   gaat;<BR>b) een groter aantal lesuren opgeven dan werkelijk gegeven wordt;<BR>3°   het aanvragen van subsidies voor vormingsactiviteiten met een commercieel   karakter;<BR>4° het fictief optrekken van de aanwezigheid om te voldoen aan de   minimale aanwezigheidsvereisten, bedoeld in de artikelen 6 tot 12.</P>  <P>§ 3. Het hoofd van het agentschap wordt gemachtigd om de terugbetaling van de   subsidies te vorderen, met toepassing van artikel 13 van de wet van 16 mei 2003   tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het   Rekenhof.</P>
 
 ### ART. 46.
 
 De minister gaat over tot het schorsen of het opheffen van de erkenning als centrum of studieclub als aan de voorwaarden, bedoeld in artikelen 25, 26, 27 en 33, niet meer wordt voldaan.
+
+### ART. 46/1.
+
+Het departement en het agentschap kunnen alle gegevens uitwisselen die ze   nodig hebben voor de uitvoering van dit besluit en de uitvoeringsbepalingen   ervan.
 
 ## HOOFDSTUK X SLOTBEPALINGEN
 
