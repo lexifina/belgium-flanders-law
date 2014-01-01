@@ -6,6 +6,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ## HOOFDSTUK 1. Wijzigingen aan het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren
 
+### ART. 1.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor het Vlaamse Gewest en de instellingen die eronder ressorteren wordt het punt 8°, ingevoegd bij het besluit van de Vlaamse Regering van 12 december 2008, opgeheven.
+
 ## HOOFDSTUK 2. Wijzigingen aan het besluit van de Vlaamse Regering van 28 mei 2004 betreffende de erkenning en de financiële ondersteuning van verblijven in het kader van « Toerisme voor Allen »
 
 ### ART. 2.
@@ -110,11 +114,19 @@ In het ministerieel besluit van 27 november 2009 tot bepaling van classificatien
 
 ## HOOFDSTUK 7. Wijzigingen aan het ministerieel besluit van 19 december 2011 tot vaststelling van de herkenningstekens voor vergunde reisbureaus, toeristische verhuurkantoren en toeristische logiezen
 
+### ART. 25.
+
+Het opschrift van het ministerieel besluit van 19 december 2011 tot vaststelling van de herkenningstekens voor vergunde reisbureaus, toeristische verhuurkantoren en toeristische logiezen wordt vervangen door wat volgt :<br /><br />« Ministerieel besluit van 19 december 2011 tot vaststelling van de herkenningstekens voor een vergund toeristisch logies ».
+
 ### ART. 26.
 
 In hetzelfde besluit worden de volgende artikelen en bijlagen opgeheven :<br />1° artikel 1;<br />2° artikel 2;<br />3° artikel 12;<br />4° bijlage 1;<br />5° bijlage 2;<br />6° bijlage 12.
 
 ## HOOFDSTUK 8. Opheffingsbepaling
+
+### ART. 27.
+
+Het besluit van de Vlaamse Regering van 19 juli 2007 tot uitvoering van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus, gewijzigd bij het besluit van de Vlaamse Regering van 12 december 2008, het besluit van de Vlaamse Regering van 15 mei 2009, het besluit van de Vlaamse Regering van 2 december 2011 en bij dit besluit, wordt opgeheven.<br /><br />Artikel 4 tot en met 6 en artikel 21 tot en met 23 van het besluit van de Vlaamse Regering van 19 juli 2007 tot uitvoering van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus behouden hun uitwerking tot 31 december 2014.
 
 ## HOOFDSTUK 9. Slotbepalingen
 
