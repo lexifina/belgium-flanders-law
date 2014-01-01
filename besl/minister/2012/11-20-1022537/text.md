@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-Voor de periode van 1 januari 2013 tot en met 31 december 2013 wordt de   heer Yannick De Clercq, regeringscommissaris bij de Universiteit Gent, het   Universitair Ziekenhuis Gent en de Associatie Universiteit Gent, gemachtigd om   zijn eigen wagen te gebruiken voor dienstreizen.
+...
 
 ### ART. 2.
 
-Voor deze periode wordt aan de betrokkene een forfaitair   kilometercontingent van 20 000 kilometer (binnen en buiten de agglomeratie)   toegekend.
+...
