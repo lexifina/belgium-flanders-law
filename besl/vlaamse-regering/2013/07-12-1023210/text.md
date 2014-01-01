@@ -204,6 +204,10 @@ Alle coëfficiënten en bedragen die zijn opgenomen in dit besluit worden   geko
 
 ## HOOFDSTUK 5 Wijzigingsbepaling
 
+### ART. 40.
+
+Artikel 8 van het besluit van de Vlaamse Regering van 31 juli 1991 tot   bepaling van de werkvoorwaarden en de geldelijke regeling van de lesgevers in de   leertijd en in de ondernemerschapstrajecten, gewijzigd bij het besluit van de   Vlaamse Regering van 3 mei 2002 en 21 mei 2010, wordt vervangen door wat volgt   :<BR>« Art. 8. In afwijking van de bepalingen van de toepasselijke cao over de   indexering, worden de bedragen, vastgesteld met toepassing van artikel 5, § 2,   en artikel 6, § 4, aangepast met toepassing van de indexatievoorschriften die   van toepassing zijn op de lonen van de Vlaamse personeelsleden.   ».<BR>
+
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART. 41.
