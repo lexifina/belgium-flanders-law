@@ -73,24 +73,7 @@ De lesuren worden als anderhalf arbeidsuur per lesuur in aanmerking genomen en m
 
 ### ART. 8.
 
-In afwijking van de bepaling van de toepasselijke C.A.O. inzake de indexering worden de bedragen vastgesteld bij artikel 5, § 2 en artikel 6, § 4 de 1° januari van elk jaar aangepast aan de evolutie van het indexcijfer van de consumptieprijzen van de maand december die voorafgaat, met dien verstande dat de eerste aanpassing slechts zal gebeuren op de eerste januari 1992. Deze aanpassing zal gebeuren volgens de formule:
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:222pt">
-			<p>vastgesteld bedrag x nieuw indexcijfer<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:222pt">
-			<p>indexcijfer december 1990</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-De aldus aangepaste bedragen zullen, al naargelang, afgrond worden tot de lagere cent wanneer de fractie kleiner is dan 0,5 cent en afgerond worden tot de hogere cent wanneer de fractie gelijk is aan of groter dan 0,5 cent. [ (verv. B.V.R. 3 mei 2002, art. 18, I: 1 januari 2002) ]
+<p>In afwijking van de bepalingen van de toepasselijke cao over de indexering, worden de bedragen, vastgesteld met toepassing van artikel 5, § 2, en artikel 6, § 4, aangepast met toepassing van de indexatievoorschriften die van toepassing zijn op de lonen van de Vlaamse personeelsleden.</p>
 
 ### ART. 9.
 
