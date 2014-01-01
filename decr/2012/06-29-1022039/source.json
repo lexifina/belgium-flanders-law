@@ -2,16 +2,16 @@
   "codex_id": 1022039,
   "title": "Decreet van 2012-06-29 tot wijziging van het Gemeentedecreet van 15 juli 2005",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022039/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "000ec8e5bca1461e49b72818bc4a0b4e401c7db9863d3a14d427d3b48298e496",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022039/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "a421967bdfd74aa51d3832f252152527c73eaa440eb7dcbd6bc8a860d88eddc9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022039&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2012-06-29",
   "gazette": "2012-08-08",
   "numac": 2012035885,
   "document_start": null,
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 79,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 95,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
