@@ -2,16 +2,16 @@
   "codex_id": 1022100,
   "title": "Decreet van 2012-06-29 tot wijziging van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022100/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "bb24d7f5c0d548e106b31e8ae343e9d6e23241de14c184bfd74f6e5d984a229c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022100/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "49b28d0a9175b3331452c979e1c64a973a7c54fb81510bfff70e8604ed3d57d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022100&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2012-06-29",
   "gazette": "2012-08-17",
   "numac": 2012035931,
   "document_start": "3000-01-01",
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 74,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 81,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
