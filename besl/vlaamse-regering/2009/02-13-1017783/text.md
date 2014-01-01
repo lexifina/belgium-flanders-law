@@ -42,7 +42,7 @@ De financiële basisondersteuning wordt volledig toegekend als het zelfstandig k
 
 ### ART. 7/1.
 
-Zelfstandige voorzieningen met een attest van toezicht op 31 december 2012   van een organisator met minstens één werknemer in het vierde kwartaal van 2012   hebben recht op de volgende aanvullende bedragen per plaats : <BR>1° voor 2012 :   een bedrag van 2,3 euro per plaats in een zelfstandig kinderdagverblijf en 0,7   euro per plaats in een zelfstandige buitenschoolse opvangvoorziening;<BR>2° voor   2013 : een bedrag van 6 euro per plaats in een zelfstandig kinderdagverblijf en   1,7 euro per plaats in een zelfstandige buitenschoolse   opvangvoorziening.
+<P>De zelfstandige voorzieningen met een attest van toezicht van een organisator   met minstens één werknemer in dienst, hebben recht op het volgende aanvullende   bedrag voor 2014: een bedrag van 11,8 euro per plaats in een zelfstandig   kinderdagverblijf en 3,4 euro per plaats in een zelfstandige buitenschoolse   opvangvoorziening.</P>
 
 ## Afdeling 2 Voorwaarden
 
