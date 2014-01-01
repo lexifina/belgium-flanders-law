@@ -102,7 +102,7 @@ De minister legt de bepalingen vast met betrekking tot de minimale elementen van
 
 ### ART. 24.
 
-Het centrum kan beroep aantekenen bij de minister tegen de volgende beslissingen of tegen een formeel betekend voornemen tot het nemen van één van die beslissingen:<br /><br />1° de weigering van de erkenning;<br /><br />2° de intrekking van de erkenning.
+Het centrum kan beroep aantekenen tegen de volgende beslissingen of tegen   een formeel betekend voornemen tot het nemen van één van die beslissingen:<BR>1°   de weigering van de erkenning;<BR>2° de intrekking van de   erkenning.
 
 ### ART. 25.
 
@@ -122,7 +122,7 @@ De administratie van Kind en Gezin beslist binnen 15 dagen na ontvangst van het 
 
 ### ART. 29.
 
-§ 1. Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 be-treffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt Kind en Gezin het ontvankelijke beroepschrift samen met het volledige administratieve dossier en eventuele verweermiddelen aan de commissie. Kind en Gezin bezorgt tegelijkertijd een kopie van het beroepschrift aan de minister.<br /><br />§ 2. Het beroep wordt verder behandeld volgens de procedure, bedoeld in het in § 1 genoemde besluit.
+<P>Het beroep wordt behandeld volgens de regels die zijn vastgesteld bij of ter   uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</P>
 
 ## HOOFDSTUK V SUBSIDIERING
 
