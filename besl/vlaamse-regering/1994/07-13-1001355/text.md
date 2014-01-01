@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   gecoördineerde decreten: de decreten inzake bijzondere jeugdbijstand,   gecoördineerd op 4 april 1990;<BR>2° de hulp- en bijstandsregeling: het geheel   van de wetten die een aangelegenheid regelen bedoeld in artikel 5, § 1, II, 6°,   d), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en   de gecoördineerde decreten;<BR>3° een minderjarige: een persoon beneden de   leeftijd van achttien jaar aan wie bij beslissing van de verwijzende instantie,   bedoeld in 7°, hulp wordt verleend overeenkomstig de hulp- en   bijstandsregeling.<BR>Wordt met een minderjarige gelijkgesteld:<BR>a) een   persoon beneden de leeftijd van achttien jaar bedoeld in de punten 1° en 2° van   artikel 6;<BR>b) een persoon die de maximumleeftijden als bedoeld in artikel 30,   § 2 van de gecoördineerde decreten niet heeft overschreden en aan wie na het   bereiken van de leeftijd van achttien jaar nog hulp wordt verleend   overeenkomstig de hulp- en bijstandsregeling;<BR>c) een persoon die de   maximumleeftijd, vermeld in de wet betreffende de opgave van maatregelen ten   aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd,   niet heeft bereikt en aan wie na het bereiken van de leeftijd van achttien jaar   nog een maatregel of voorwaarde is opgelegd overeenkomstig die wet;<BR>d) een   persoon als vermeld in het samenwerkingsakkoord van 13 december 2006 tussen de   Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige   Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de   organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de   wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van   minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het   herstel van de door dit feit veroorzaakte schade;<BR>4° de Vlaamse minister: het   lid van de Vlaamse regering bevoegd voor de bijstand aan personen;<BR>5° de   administratie: het intern verzelfstandigd agentschap Jongerenwelzijn of het   intern verzelfstandigd agentschap Zorginspectie; <BR>6° het fonds: het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn;   <BR>7° de verwijzende instantie: naar gelang het geval, het comité bedoeld in 8°   of de jeugdrechtbank;<BR>8° het comité: het comité voor bijzondere jeugdzorg,   bedoeld in artikel 3 van de gecoördineerde decreten;<BR>9° de sociale dienst:   hetzij de sociale dienst voor bijzondere jeugdbijstand, bedoeld in artikel 40, §   1 van de gecoördineerde decreten, indien tot de hulpverlening werd beslist door   het comité, hetzij de sociale dienst van de Vlaamse Gemeenschap bij de   jeugdrechtbank, bedoeld in artikel 40, § 2 van de gecoördineerde decreten,   indien tot de hulpverlening werd beslist door de jeugdrechtbank;<BR>10° het   hulpverleningsprogramma: het programma opgemaakt door de sociale dienst bedoeld   in 9°, volgens hetwelk de hulpverlening in het kader van de hulp- en   bijstandsregeling dient te verlopen;<BR>11° een inrichtende macht: een   rechtspersoon die geen materiële winst nastreeft en onder wiens   verantwoordelijkheid een erkende voorziening functioneert;<BR>12° erkende   voorzieningen: voorzieningen die overeenkomstig de bepalingen van dit besluit   zijn erkend;<BR>13° afdeling : een gedeelte van een voorziening of van een   organisatie voor bijzondere jeugdzorg dat qua vestigingsplaats, organisatie,   materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte   van de voorziening of van de organisatie voor bijzondere jeugdzorg;<BR>14° de   capaciteit: het aantal minderjarigen, dat een erkende voorziening mag opnemen of   begeleiden, zoals bij besluit bepaald door de Vlaamse minister;<BR>15° het   handelingsplan: het plan volgens hetwelk de hulpverlening door een erkende   voorziening dient te verlopen;<BR>16° de betrokken partijen: de minderjarige, de   personen die over hem of haar het ouderlijk gezag uitoefenen of hem of haar   onder hun bewaring hebben, de consulent van de sociale dienst en degenen die in   het kader van de hulp- en bijstandsregeling eveneens bij de hulpverlening zijn   betrokken;<BR>17° een pleeggezin: een persoon die of een gezin dat minderjarigen   opneemt;<BR>18° dienstanciënniteit: de anciënniteit berekend op basis van de   werkelijke diensten die zonder vrijwillige onderbreking werden verricht in de   sector bijzondere jeugdbijstand, de gehandicaptenzorg, Kind en Gezin en het   algemeen welzijnswerk;<BR>19° geldelijke anciënniteit: de anciënniteit bedoeld   in artikel 35, die in aanmerking komt voor het vaststellen van de   personeelskosten;<BR>20° het besluit van 15 december 1993: het besluit van de   Vlaamse regering van 15 december 1993 houdende de subsidiëring van de   personeelskosten in bepaalde voorzieningen van de welzijnssector;<BR>21° de   adviserende beroepscommissie: de commissie, bedoeld in artikel 13 van het   decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en   van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden;   <BR>22° het kwaliteitsdecreet: het decreet van 29 april 1997 inzake de   kwaliteitszorg in de welzijnsvoorzieningen;<BR>23° het kwaliteitshandboek: het   document, bedoeld in artikel 2, 15°, van het kwaliteitsdecreet;<BR>24° het   kwaliteitsbeleid: het beleid, bedoeld in artikel 2, 8°, van het   kwaliteitsdecreet;<BR>25° het kwaliteitssysteem: het systeem, bedoeld in artikel   2, 10°, van het kwaliteitsdecreet;<BR>26° de kwaliteitsplanning: de   activiteiten, bedoeld in artikel 2, 11°, van het kwaliteitsdecreet;<BR>27° de   gebruiker: een natuurlijk persoon als bedoeld in artikel 2, 5° van het   kwaliteitsdecreet; <BR>28° zware beroepen: tewerkstelling van begeleidend   personeel, met toepassing van bijlage 2, gevoegd bij dit besluit, in een erkende   voorziening van de categorieën 1, 2 of 3, zoals bedoeld in artikel 3;<BR>29° de   loonmassa: de uitgaven inzake personeel die met toepassing van dit besluit   werden gedaan met uitsluiting van de uitgaven bedoeld in artikel 32 §§ 2, 3 en   4. <BR>30° de administrateur-generaal : het personeelslid dat belast is met de   leiding van het agentschap Jongerenwelzijn en van het agentschap Fonds   Jongerenwelzijn;<BR>31° het samenwerkingsakkoord herstelrechtelijk aanbod : het   samenwerkingsakkoord van 13 december 2006 tussen de Federale Staat, de Vlaamse   Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap en de   Gemeenschappelijke Gemeenschapscommissie betreffende de organisatie en de   financiering van het herstelrechtelijk aanbod, vermeld in de wet van 8 april   1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die   een als misdrijf omschreven feit hebben gepleegd, en het herstel van de door dit   feit veroorzaakte schade;<BR>32° herstelbemiddeling : overeenkomstig art. 37bis   tot art. 37quinquies en art. 45quater van de wet van 8 april 1965 betreffende de   jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf   omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte   schade : het communicatieproces tussen de persoon die ervan verdacht wordt een   als misdrijf omschreven feit te hebben gepleegd, de personen die ten aanzien van   hem het ouderlijk gezag uitoefenen, de personen die hem in rechte of in feite   onder hun bewaring hebben en het slachtoffer, om hen de mogelijkheid te bieden   om samen en met de hulp van een onpartijdige bemiddelaar, aan de onder meer   relationele en materiële gevolgen van een als misdrijf omschreven feit tegemoet   te komen;<BR>33° herstelgericht groepsoverleg : overeenkomstig art. 37bis tot   art. 37quinquies van de wet van 8 april 1965 betreffende de jeugdbescherming,   het ten laste nemen van minderjarigen die een als misdrijf omschreven feit   hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het   overleg tussen de persoon die ervan verdacht wordt een als misdrijf omschreven   feit te hebben gepleegd, het slachtoffer, hun sociale omgeving alsook alle   dienstige personen, om hen de mogelijkheid te bieden om in groep en met de hulp   van een onpartijdige bemiddelaar in overleg uitgewerkte oplossingen te overwegen   over de wijze waarop het conflict kan worden opgelost dat voortvloeit uit het   als misdrijf omschreven feit, onder meer rekening houdend met de relationele en   materiële gevolgen van het als misdrijf omschreven feit;<BR>34° een leerproject   : een gestructureerd leerprogramma, opgelegd door de jeugdrechter of   jeugdrechtbank, waarbij zowel het delict als de persoonlijkheid van de   minderjarigen of hun vaardigheidstekorten als aanknopingspunt worden   genomen;<BR>35° een gemeenschapsdienst : overeenkomstig art. 37 § 2bis 2° en   art. 52 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten   laste nemen van minderjarigen die een als misdrijf omschreven feit hebben   gepleegd en het herstel van de door dit feit veroorzaakte schade : de   onbezoldigde prestatie in een non-profitinstelling voor een aantal uren,   opgelegd door de jeugdrechter of jeugdrechtbank als reactie op het   delict;<BR>36° een crisisbegeleiding : een kortdurende, intensieve, ambulante en   mobiele begeleiding voor gezinnen in een perspectiefloze opvoedingssituatie, met   een dreiging op uithuisplaatsing voor één of meer minderjarigen;<BR>37°   gemeenschapsinstellingen : voorzieningen als vermeld in artikel 2, 7°, van het   decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<BR>38° een   multifunctioneel centrum : een organisatiestructuur die bestaat uit een   combinatie van voorzieningen of afdelingen van voorzieningen van categorie 1, 4   en 5, met een multifunctioneel karakter, die residentiële, mobiele en ambulante   hulp biedt. Die hulp wordt vertaald in trajecten, waarbij zorgmodaliteiten   naadloos worden ingezet in functie van een evoluerende hulpvraag;<BR>39°   zorgmodaliteiten : de kleinste eenheden van hulp in een multifunctioneel   centrum, op het gebied van contextbegeleiding, individuele begeleiding,   dagbesteding en verblijf;<BR>40° bandbreedte : het geheel van de in te zetten   zorgmodaliteiten in een cliënttraject binnen een multifunctioneel   centrum.<BR>41° module : een duidelijk afgelijnde eenheid van   jeugdhulpverlening, op basis van de hulpvraag, aangeboden door een   jeugdhulpaanbieder, gebaseerd op één enkele typemodule, die afzonderlijk,   gelijktijdig of consecutief en op een manier waarbij de flexibiliteit   gewaarborgd is, met andere eenheden van jeugdhulpverlening kan worden   aangeboden;<BR>42° verblijf : een aangepaste woon- en leefomgeving onder   toezicht en begeleiding van een hulpverlener;<BR>43° contextbegeleiding : de   breedsporige ondersteuning van de minderjarige en alle relevante betrokkenen uit   zijn gezins- en opvoedingsmilieu en andere belangrijke levensdomeinen;<BR>44°   dagbegeleiding : de breedsporige ondersteuning van de minderjarige gedurende een   bepaald deel van de dag in een aangepaste omgeving;<BR>45° ondersteunende   begeleiding : de breedsporige ondersteuning die zich richt op specifieke   problematieken waarmee de minderjarige en zijn context in een lopend   hulpverleningstraject te maken krijgen;<BR>46° typemodule : een afgelijnde   eenheid van jeugdhulpverlening, gebaseerd op één functie of op een specifiek   opschreven kernproces van hulpverlening, die deel uitmaakt van een   intersectoraal opgemaakte set van typemodules en die tot doel heeft de   kernopdrachten van de sectoren in eenzelfde taal te formuleren en op elkaar af   te stemmen;<BR>47° organisatie voor bijzondere jeugdzorg : een organisatie die   overeenkomstig de bepalingen van dit besluit is erkend.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het decreet   van 7 maart 2008 : het decreet van 7 maart 2008 inzake bijzondere   jeugdbijstand;<BR>2° de hulp- en bijstandsregeling: het geheel van de wetten die   een aangelegenheid regelen bedoeld in artikel 5, § 1, II, 6°, d), van de   bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en de   gecoördineerde decreten;<BR>3° een minderjarige: een persoon beneden de leeftijd   van achttien jaar aan wie bij beslissing van de verwijzende instantie, bedoeld   in 7°, hulp wordt verleend overeenkomstig de hulp- en   bijstandsregeling.<BR>Wordt met een minderjarige gelijkgesteld:<BR>a) een   persoon beneden de leeftijd van achttien jaar bedoeld in de punten 1° en 2° van   artikel 6;<BR>b) een persoon die de maximumleeftijden als bedoeld in artikel 30,   § 2 van de gecoördineerde decreten niet heeft overschreden en aan wie na het   bereiken van de leeftijd van achttien jaar nog hulp wordt verleend   overeenkomstig de hulp- en bijstandsregeling;<BR>c) een persoon die de   maximumleeftijd, vermeld in de wet betreffende de opgave van maatregelen ten   aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd,   niet heeft bereikt en aan wie na het bereiken van de leeftijd van achttien jaar   nog een maatregel of voorwaarde is opgelegd overeenkomstig die wet;<BR>d) een   persoon als vermeld in het samenwerkingsakkoord van 13 december 2006 tussen de   Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige   Gemeenschap en de Gemeenschappelijke Gemeenschapscommissie betreffende de   organisatie en de financiering van het herstelrechtelijk aanbod, vermeld in de   wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van   minderjarigen die een als misdrijf omschreven feit hebben gepleegd, en het   herstel van de door dit feit veroorzaakte schade;<BR>4° de Vlaamse minister: het   lid van de Vlaamse regering bevoegd voor de bijstand aan personen;<BR>5° de   administratie: het intern verzelfstandigd agentschap Jongerenwelzijn of het   intern verzelfstandigd agentschap Zorginspectie; <BR>6° het fonds: het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn;   <BR>7° ...;<BR>8° het comité: het comité voor bijzondere jeugdzorg, bedoeld in   artikel 3 van de gecoördineerde decreten;<BR>9° de sociale dienst: hetzij de   sociale dienst voor bijzondere jeugdbijstand, bedoeld in artikel 40, § 1 van de   gecoördineerde decreten, indien tot de hulpverlening werd beslist door het   comité, hetzij de sociale dienst van de Vlaamse Gemeenschap bij de   jeugdrechtbank, bedoeld in artikel 40, § 2 van de gecoördineerde decreten,   indien tot de hulpverlening werd beslist door de jeugdrechtbank;<BR>10° het   hulpverleningsprogramma: het programma opgemaakt door de sociale dienst bedoeld   in 9°, volgens hetwelk de hulpverlening in het kader van de hulp- en   bijstandsregeling dient te verlopen;<BR>11° een inrichtende macht: een   rechtspersoon die geen materiële winst nastreeft en onder wiens   verantwoordelijkheid een erkende voorziening functioneert;<BR>12° erkende   voorzieningen: voorzieningen die overeenkomstig de bepalingen van dit besluit   zijn erkend;<BR>13° afdeling : een gedeelte van een voorziening of van een   organisatie voor bijzondere jeugdzorg dat qua vestigingsplaats, organisatie,   materiële infrastructuur of pedagogisch beleid verschilt van een ander gedeelte   van de voorziening of van de organisatie voor bijzondere jeugdzorg;<BR>14° de   capaciteit: het aantal minderjarigen, dat een erkende voorziening mag opnemen of   begeleiden, zoals bij besluit bepaald door de Vlaamse minister;<BR>15° het   handelingsplan: het plan volgens hetwelk de hulpverlening door een erkende   voorziening dient te verlopen;<BR>16° de betrokken partijen: de minderjarige, de   personen die over hem of haar het ouderlijk gezag uitoefenen of hem of haar   onder hun bewaring hebben, de consulent van de sociale dienst en degenen die in   het kader van de hulp- en bijstandsregeling eveneens bij de hulpverlening zijn   betrokken;<BR>17° een pleeggezin: een persoon die of een gezin dat minderjarigen   opneemt;<BR>18° dienstanciënniteit: de anciënniteit berekend op basis van de   werkelijke diensten die zonder vrijwillige onderbreking werden verricht in de   sector bijzondere jeugdbijstand, de gehandicaptenzorg, Kind en Gezin en het   algemeen welzijnswerk;<BR>19° geldelijke anciënniteit: de anciënniteit bedoeld   in artikel 35, die in aanmerking komt voor het vaststellen van de   personeelskosten;<BR>20° het besluit van 15 december 1993: het besluit van de   Vlaamse regering van 15 december 1993 houdende de subsidiëring van de   personeelskosten in bepaalde voorzieningen van de welzijnssector;<BR>21° de   adviserende beroepscommissie: de commissie, bedoeld in artikel 13 van het   decreet van 15 juli 1997 houdende oprichting van een Gezins- en Welzijnsraad en   van een adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden;   <BR>22° decreet van 17 oktober 2003 : het decreet van 17 oktober 2003   betreffende de kwaliteit van gezondheids- en welzijnsvoorzieningen;<BR>23°   kwaliteitshandboek : een document dat het kwaliteitsbeleid, het   kwaliteitsmanagementsysteem en de zelfevaluatie, vermeld in artikel 5, § 4, van   het decreet van 17 oktober 2003, omvat;<BR>24° kwaliteitsbeleid : het beleid,   vermeld in artikel 5, § 1, van het decreet van 17 oktober 2003;<BR>25°   kwaliteitsmanagementsysteem : het systeem, vermeld in artikel 5, § 2, van het   decreet van 17 oktober 2003;<BR>26° gebruiker : een natuurlijk persoon of een   rechtspersoon, vermeld in artikel 2, 3°, van het decreet van 17 oktober   2003;<BR>27° centrum voor integrale gezinszorg : een organisatie die conform de   bepalingen in artikel 53duo decies tot en met 53sexies decies van dit besluit is   erkend; <BR>28° zware beroepen: tewerkstelling van begeleidend personeel, met   toepassing van bijlage 2, gevoegd bij dit besluit, in een erkende voorziening   van de categorieën 1, 2 of 3, zoals bedoeld in artikel 3;<BR>29° de loonmassa:   de uitgaven inzake personeel die met toepassing van dit besluit werden gedaan   met uitsluiting van de uitgaven bedoeld in artikel 32 §§ 2, 3 en 4. <BR>30° de   administrateur-generaal : het personeelslid dat belast is met de leiding van het   agentschap Jongerenwelzijn en van het agentschap Fonds Jongerenwelzijn;<BR>31°   het samenwerkingsakkoord herstelrechtelijk aanbod : het samenwerkingsakkoord van   13 december 2006 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse   Gemeenschap, de Duitstalige Gemeenschap en de Gemeenschappelijke   Gemeenschapscommissie betreffende de organisatie en de financiering van het   herstelrechtelijk aanbod, vermeld in de wet van 8 april 1965 betreffende de   jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf   omschreven feit hebben gepleegd, en het herstel van de door dit feit   veroorzaakte schade;<BR>32° herstelbemiddeling : overeenkomstig art. 37bis tot   art. 37quinquies en art. 45quater van de wet van 8 april 1965 betreffende de   jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf   omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte   schade : het communicatieproces tussen de persoon die ervan verdacht wordt een   als misdrijf omschreven feit te hebben gepleegd, de personen die ten aanzien van   hem het ouderlijk gezag uitoefenen, de personen die hem in rechte of in feite   onder hun bewaring hebben en het slachtoffer, om hen de mogelijkheid te bieden   om samen en met de hulp van een onpartijdige bemiddelaar, aan de onder meer   relationele en materiële gevolgen van een als misdrijf omschreven feit tegemoet   te komen;<BR>33° herstelgericht groepsoverleg : overeenkomstig art. 37bis tot   art. 37quinquies van de wet van 8 april 1965 betreffende de jeugdbescherming,   het ten laste nemen van minderjarigen die een als misdrijf omschreven feit   hebben gepleegd en het herstel van de door dit feit veroorzaakte schade : het   overleg tussen de persoon die ervan verdacht wordt een als misdrijf omschreven   feit te hebben gepleegd, het slachtoffer, hun sociale omgeving alsook alle   dienstige personen, om hen de mogelijkheid te bieden om in groep en met de hulp   van een onpartijdige bemiddelaar in overleg uitgewerkte oplossingen te overwegen   over de wijze waarop het conflict kan worden opgelost dat voortvloeit uit het   als misdrijf omschreven feit, onder meer rekening houdend met de relationele en   materiële gevolgen van het als misdrijf omschreven feit;<BR>34° een leerproject   : een gestructureerd leerprogramma, opgelegd door de jeugdrechter of   jeugdrechtbank, waarbij zowel het delict als de persoonlijkheid van de   minderjarigen of hun vaardigheidstekorten als aanknopingspunt worden   genomen;<BR>35° een gemeenschapsdienst : overeenkomstig art. 37 § 2bis 2° en   art. 52 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten   laste nemen van minderjarigen die een als misdrijf omschreven feit hebben   gepleegd en het herstel van de door dit feit veroorzaakte schade : de   onbezoldigde prestatie in een non-profitinstelling voor een aantal uren,   opgelegd door de jeugdrechter of jeugdrechtbank als reactie op het   delict;<BR>36° een crisisbegeleiding : een kortdurende, intensieve, ambulante en   mobiele begeleiding voor gezinnen in een perspectiefloze opvoedingssituatie, met   een dreiging op uithuisplaatsing voor één of meer minderjarigen;<BR>37°   gemeenschapsinstellingen : voorzieningen als vermeld in artikel 2, 7°, van het   decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<BR>38° een   multifunctioneel centrum : een organisatiestructuur die bestaat uit een   combinatie van voorzieningen of afdelingen van voorzieningen van categorie 1, 4   en 5, met een multifunctioneel karakter, die residentiële, mobiele en ambulante   hulp biedt. Die hulp wordt vertaald in trajecten, waarbij zorgmodaliteiten   naadloos worden ingezet in functie van een evoluerende hulpvraag;<BR>39°   zorgmodaliteiten : de kleinste eenheden van hulp in een multifunctioneel   centrum, op het gebied van contextbegeleiding, individuele begeleiding,   dagbesteding en verblijf;<BR>40° bandbreedte : het geheel van de in te zetten   zorgmodaliteiten in een cliënttraject binnen een multifunctioneel   centrum.<BR>41° module : een duidelijk afgelijnde eenheid van   jeugdhulpverlening, op basis van de hulpvraag, aangeboden door een   jeugdhulpaanbieder, gebaseerd op één enkele typemodule, die afzonderlijk,   gelijktijdig of consecutief en op een manier waarbij de flexibiliteit   gewaarborgd is, met andere eenheden van jeugdhulpverlening kan worden   aangeboden;<BR>42° verblijf : een aangepaste woon- en leefomgeving onder   toezicht en begeleiding van een hulpverlener;<BR>43° contextbegeleiding : de   breedsporige ondersteuning van de minderjarige en alle relevante betrokkenen uit   zijn gezins- en opvoedingsmilieu en andere belangrijke levensdomeinen;<BR>44°   dagbegeleiding : de breedsporige ondersteuning van de minderjarige gedurende een   bepaald deel van de dag in een aangepaste omgeving;<BR>45° ondersteunende   begeleiding : de breedsporige ondersteuning die zich richt op specifieke   problematieken waarmee de minderjarige en zijn context in een lopend   hulpverleningstraject te maken krijgen;<BR>46° typemodule : een afgelijnde   eenheid van jeugdhulpverlening, gebaseerd op één functie of op een specifiek   opschreven kernproces van hulpverlening, die deel uitmaakt van een   intersectoraal opgemaakte set van typemodules en die tot doel heeft de   kernopdrachten van de sectoren in eenzelfde taal te formuleren en op elkaar af   te stemmen;<BR>47° organisatie voor bijzondere jeugdzorg : een organisatie die   overeenkomstig de bepalingen van dit besluit is erkend;<BR>51° inputgebieden :   de organisatorisch gerichte aandachtsgebieden, die betrekking hebben op de   activiteiten die het mogelijk maken dat de organisatie bepaalde resultaten   behaalt op het vlak van leiderschap, personeelsbeleid, beleid en strategie, en   middelen en partnerschappen;<BR>52° outputgebieden : de resultaatgerichte   aandachtsgebieden, die betrekking hebben op de verschillende aspecten van de   organisatievoering zoals de gebruikers-, medewerkers- en   samenlevingsresultaten;<BR>53° kwaliteitszorg : het deel van de   managementfunctie, vermeld in artikel 4 van het decreet van 17 oktober   2003;<BR>54° kernprocessen : de basisprocessen en -procedures volgens welke een   organisatie haar hulpverlening vormgeeft, en die bestaan uit :<BR>a) onthaal van   de gebruiker;<BR>b) doelstellingen en handelingsplan;<BR>c) afsluiting en   nazorg;<BR>d) pedagogisch profiel;<BR>e) gebruikersdossier;<BR>55° zelfevaluatie   : een systematische evaluatie van de processen, structuren en resultaten van de   voorziening die door de voorziening zelf wordt verwezenlijkt, als vermeld in   artikel 5, § 3, van het decreet van 17 oktober 2003.
 
 ### ART. 2.
 
@@ -12,7 +12,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   gecoördine
 
 ### ART. 3.
 
-§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende categorieën:<br />Categorie 1: begeleidingstehuizen.<br />Categorie 2: gezinstehuizen.<br />Categorie 3: onthaal-, oriëntatie- en observatiecentra.<br />Categorie 4: dagcentra.<br />Categorie 5: thuisbegeleidingsdiensten.<br />Categorie 6: diensten voor begeleid zelfstandig wonen.<br />Categorie 7: diensten voor pleegzorg.<br />Categorie 8 : diensten voor herstelgerichte en constructieve afhandeling;<br />Categorie 9 : diensten voor crisishulp aan huis.<br /><br />§ 2. Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de categorieën 1, 2, 3, 4, 5, 6, 8 en 9, vermeld in § 1. De inrichtende macht van een voorziening van categorie 7 kan geen voorziening van een van de andere categorieën, vermeld in § 1, laten erkennen.<br /><br />§ 3. De voorzieningen van de categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun residentiële opname minderjarigen te begeleiden die zelfstandig wonen.<br /><br />§ 4. De voorzieningen of afdelingen van voorzieningen van categorie 1, vermeld in artikel 13, 2°, kunnen een bijkomende erkenning krijgen om voor een gedeelte van hun capaciteit uitsluitend minderjarigen te begeleiden die rechtstreeks uit een gemeenschapsinstelling komen.<br /><br />§ 5. De voorzieningen of afdelingen van voorzieningen van categorie 1, 4 en 5, vermeld in respectievelijk artikelen 4, 7 en 8, kunnen een wijziging van erkenning krijgen als respectievelijk een voorziening of een afdeling van een voorziening van categorie 1, 4 en 5 met een multifunctioneel karakter. De combinatie van de voorzieningen of van de afdelingen van voorzieningen met een multifunctioneel karakter wordt erkend als multifunctioneel centrum. Een multifunctioneel centrum bestaat minstens uit één afdeling met een multifunctioneel karakter van een voorziening van categorie 1 en één afdeling met een multifunctioneel karakter van een voorziening van categorie 5.
+§ 1. De erkende voorzieningen worden ingedeeld in de hiernavolgende   categorieën:<BR>Categorie 1: begeleidingstehuizen.<BR>Categorie 2:   gezinstehuizen.<BR>Categorie 3: onthaal-, oriëntatie- en   observatiecentra.<BR>Categorie 4: dagcentra.<BR>Categorie 5:   thuisbegeleidingsdiensten.<BR>Categorie 6: diensten voor begeleid zelfstandig   wonen.<BR>...<BR>Categorie 8 : diensten voor herstelgerichte en constructieve   afhandeling;<BR>Categorie 9 : diensten voor crisishulp aan huis.<BR><BR>§ 2.   Eenzelfde inrichtende macht kan voorzieningen laten erkennen van de categorieën   1, 2, 3, 4, 5, 6, 8 en 9, vermeld in § 1. <BR><BR>§ 3. De voorzieningen van de   categorieën 1 en 2 kunnen een bijkomende erkenning krijgen om na hun   residentiële opname minderjarigen te begeleiden die zelfstandig wonen.<BR><BR>§   4. De voorzieningen of afdelingen van voorzieningen van categorie 1, vermeld in   artikel 13, 2°, kunnen een bijkomende erkenning krijgen om voor een gedeelte van   hun capaciteit uitsluitend minderjarigen te begeleiden die rechtstreeks uit een   gemeenschapsinstelling komen.<BR><BR>§ 5. De voorzieningen of afdelingen van   voorzieningen van categorie 1, 4 en 5, vermeld in respectievelijk artikelen 4, 7   en 8, kunnen een wijziging van erkenning krijgen als respectievelijk een   voorziening of een afdeling van een voorziening van categorie 1, 4 en 5 met een   multifunctioneel karakter. De combinatie van de voorzieningen of van de   afdelingen van voorzieningen met een multifunctioneel karakter wordt erkend als   multifunctioneel centrum. Een multifunctioneel centrum bestaat minstens uit één   afdeling met een multifunctioneel karakter van een voorziening van categorie 1   en één afdeling met een multifunctioneel karakter van een voorziening van   categorie 5.
 
 ### ART. 4.
 
@@ -40,7 +40,7 @@ Diensten voor begeleid zelfstandig wonen zijn diensten die minderjarigen die zel
 
 ### ART. 10.
 
-Diensten voor pleegzorg zijn diensten die de plaatsing van minderjarigen in pleeggezinnen organiseren.
+<P>...</P>
 
 ### ART. 10bis.
 
@@ -56,7 +56,7 @@ Diensten voor crisishulp aan huis zijn diensten die een kortdurende, intensieve,
 
 ### ART. 11.
 
-[Om erkend te worden en te blijven moeten de voorzieningen aan de volgende algemene erkenningsvoorwaarden voldoen:<br /><br />1° behalve wat de voorzieningen van de categorieën 2, 6 en 7 betreft, mogen uitsluitend minderjarigen worden opgenomen of begeleid;<br /><br />2° de voorziening mag geen minderjarigen opnemen of begeleiden boven haar totaal erkende capaciteit, tenzij mits voorafgaande toestemming van de Vlaamse minister. De verwijzende instantie dient daartoe per betrokken minderjarige een gemotiveerde aanvraag in te dienen bij de administratie. De Vlaamse minister kan toestemming verlenen wanneer ingevolge de individuele situatie van de minderjarige een opname in of een begeleiding door de voorziening, pedagogisch wenselijk is en voor zover de materiële mogelijkheden van de voorziening een opname of begeleiding toelaten. De toestemming geeft geen aanspraak op de toepassing van extra personeelsnormen;<br /><br />3° de voorziening mag geen minderjarigen opnemen of begeleiden, waarvan de leeftijd niet in overeenstemming is met de leeftijdscategorie waarvoor ze is erkend, tenzij mits voorafgaande toestemming van de Vlaamse minister. De verwijzende instantie dient daartoe per betrokken minderjarige een gemotiveerde aanvraag in te dienen bij de administratie. De Vlaamse minister kan toestemming verlenen wanneer ingevolge de individuele situatie van de minderjarige een opname in of een begeleiding door de voorziening, pedagogisch wenselijk is en voor zover de materiële mogelijkheden van de voorziening een opname of begeleiding toelaten. De toestemming geeft geen aanspraak op de toepassing van extra personeelsnormen;<br /><br />4° de personeelsleden en de andere personen die in de voorziening verblijven moeten van goed zedelijk gedrag zijn en hun gezondheidstoestand mag geen gevaar inhouden voor de minderjarigen met wie ze in contact komen;<br /><br />5° de personeelsleden mogen niet jonger zijn dan achttien en niet ouder dan vijfenzestig jaar;<br /><br />6° de gegevens betreffende het personeel en de eventuele wijzigingen ervan moeten telkens en onverwijld aan de administratie worden medegedeeld;<br /><br />7° de voorziening moet op basis van de gegevens waarover ze beschikt, binnen vijfenveertig dagen, te rekenen vanaf de opname van de minderjarige in de voorziening of vanaf de begeleiding, een handelingsplan opmaken met de betrokken partijen;<br /><br />8° het handelingsplan, dat de leidraad vormt voor het pedagogisch handelen door de voorziening, bevat minstens de volgende delen:<br /><br />a) de identiteit van de minderjarige en van de andere, bij de hulpverlening betrokken partijen;<br /><br />b) de tussentijdse en concrete doelstellingen, ter uitvoering van de algemene doelstellingen, geformuleerd in het hulpverleningsprogramma van de verwijzende instantie;<br /><br />c) de aandachtspunten en de klemtonen die in de hulpverlening gelegd moeten worden en waarbij de minderjarige, het gezin, de school, het werkmilieu en het bredere sociale netwerk worden betrokken;<br /><br />d) de middelen en de werkwijzen die individueel aangewend moeten worden om de doelstellingen, gelet op de aandachtspunten en klemtonen, te realiseren;<br /><br />e) afspraken betreffende de bezoekregeling, de briefwisseling en het opvoedingsregime, rekening houdend met hetgeen eventueel door de verwijzende instantie werd beslist;<br /><br />f) de taakverdeling en de samenwerkingsafspraken tussen de betrokken partijen;<br /><br />9° een kopie van het handelingsplan moet onverwijld worden opgestuurd aan het comité of aan de jeugdrechtbank en de sociale dienst van de Vlaamse Gemeenschap bij die rechtbank;<br /><br />10° het handelingsplan kan binnen de voorziening, na evaluatie en samenspraak met de betrokken partijen, worden bijgestuurd. Deze bijsturing wordt schriftelijk vastgelegd. Hetgeen bepaald is in 9° is van overeenkomstige toepassing;<br /><br />11° met uitzondering van de onthaal-, oriëntatie- en observatiecentra sturen de erkende voorzieningen om de zes maanden een evolutieverslag naar het comité of naar de jeugdrechtbank en de sociale dienst van de Vlaamse Gemeenschap bij die rechtbank;<br /><br />12° de minderjarigen moeten de gelegenheid hebben om zich moreel te verdiepen en hun eventuele godsdienst te beoefenen volgens de voorschriften en de verplichtingen ervan;<br /><br />13° sancties moeten aan de persoonlijkheid van de minderjarige worden aangepast. Ze moeten altijd de opvoeding bevorderen en mogen geen traumatische uitwerking hebben. Lichamelijke straffen en geestelijk geweld, alsook onthouding van maaltijden, zijn verboden;<br /><br />14° het dossier dat met inachtneming van artikel 11bis, 16°, wordt aangelegd, bevat alle nuttige gegevens voor de hulp- en dienstverlening. In dit dossier worden minstens opgenomen:<br /><br />a) inlichtingen van administratieve aard, met inbegrip van de stukken, die ter beschikking gesteld werden door de administratie, het comité, de jeugdrechtbank en de sociale dienst van de Vlaamse Gemeenschap bij die rechtbank, inzonderheid de stukken tot staving van de plaatsing of de begeleiding, een kopie van het hulpverleningsprogramma en de documenten, vereist door de bepalingen van dit besluit;<br /><br />b) de gegevens over de toestand van de minderjarige en het gezin waartoe hij of zij behoort en hun mening hierover;<br /><br />c) het handelingsplan, bedoeld in 7°, elke bijsturing ervan, bedoeld in 10°, en de evolutieverslagen, bedoeld in 11°;<br /><br />15° de inspectie van de administratie kan het dossier van de minderjarige uitsluitend ter plaatse inzien;<br /><br />16° uiterlijk vijf jaar nadat de minderjarige meerderjarig is geworden, wordt zijn of haar dossier vernietigd;<br /><br />17° naast de wettelijk verplichte verzekeringen moet een verzekering worden afgesloten voor:<br /><br />a) de burgerlijke aansprakelijkheid van de voorziening en van de personen die er tewerkgesteld zijn of die er verblijven;<br /><br />b) de burgerlijke aansprakelijkheid van elke opgenomen of begeleide minderjarige;<br /><br />c) de lichamelijke schade waarvan een opgenomen of begeleide minderjarige het slachtoffer kan zijn;<br /><br />18° indien een minderjarige aan de voorziening werd toevertrouwd met toepassing van artikel 22, eerste lid, 2°, van de gecoördineerde decreten, moet de voorziening de sociale dienst van het bevoegde comité daarvan uiterlijk de eerstvolgende werkdag in kennis stellen. Deze kennisgeving wordt die dag door de voorziening bij ter post aangetekende brief bevestigd;<br /><br />19° elke ernstige gebeurtenis moet onverwijld en binnen achtenveertig uur worden gemeld aan het comité of aan de jeugdrechtbank en de sociale dienst van de Vlaamse Gemeenschap bij die rechtbank, evenals aan de inspectie van de administratie;<br /><br />20° de voorziening moet jaarlijks vóór 1 juni bij de administratie een kwaliteitsverslag indienen over het voorbije jaar, samen met de gebruikersgegevens bedoeld in artikel 11bis, 10°, eerste lid.  <span class="reference">(verv. B.V.R. 8 december 2000, art. 3, I: 1 januari 2001)</span> ]
+[Om erkend te worden en te blijven moeten de voorzieningen aan de volgende   algemene erkenningsvoorwaarden voldoen:<BR><BR>1° behalve wat de voorzieningen   van categorie 2 en 6 betreft, mogen uitsluitend minderjarigen worden opgenomen   of begeleid;<BR><BR>2° de voorziening mag geen minderjarigen opnemen of   begeleiden boven haar totaal erkende capaciteit, tenzij mits voorafgaande   toestemming van de Vlaamse minister. De verwijzende instantie dient daartoe per   betrokken minderjarige een gemotiveerde aanvraag in te dienen bij de   administratie. De Vlaamse minister kan toestemming verlenen wanneer ingevolge de   individuele situatie van de minderjarige een opname in of een begeleiding door   de voorziening, pedagogisch wenselijk is en voor zover de materiële   mogelijkheden van de voorziening een opname of begeleiding toelaten. De   toestemming geeft geen aanspraak op de toepassing van extra   personeelsnormen;<BR><BR>3° de voorziening mag geen minderjarigen opnemen of   begeleiden, waarvan de leeftijd niet in overeenstemming is met de   leeftijdscategorie waarvoor ze is erkend, tenzij mits voorafgaande toestemming   van de Vlaamse minister. De verwijzende instantie dient daartoe per betrokken   minderjarige een gemotiveerde aanvraag in te dienen bij de administratie. De   Vlaamse minister kan toestemming verlenen wanneer ingevolge de individuele   situatie van de minderjarige een opname in of een begeleiding door de   voorziening, pedagogisch wenselijk is en voor zover de materiële mogelijkheden   van de voorziening een opname of begeleiding toelaten. De toestemming geeft geen   aanspraak op de toepassing van extra personeelsnormen;<BR><BR>4° de   personeelsleden en de andere personen die in de voorziening verblijven moeten   van goed zedelijk gedrag zijn en hun gezondheidstoestand mag geen gevaar   inhouden voor de minderjarigen met wie ze in contact komen;<BR><BR>5° de   personeelsleden mogen niet jonger zijn dan achttien en niet ouder dan   vijfenzestig jaar;<BR><BR>6° de gegevens betreffende het personeel en de   eventuele wijzigingen ervan moeten telkens en onverwijld aan de administratie   worden medegedeeld;<BR><BR>7° de voorziening moet op basis van de gegevens   waarover ze beschikt, binnen vijfenveertig dagen, te rekenen vanaf de opname van   de minderjarige in de voorziening of vanaf de begeleiding, een handelingsplan   opmaken met de betrokken partijen;<BR><BR>8° het handelingsplan, dat de leidraad   vormt voor het pedagogisch handelen door de voorziening, bevat minstens de   volgende delen:<BR><BR>a) de identiteit van de minderjarige en van de andere,   bij de hulpverlening betrokken partijen;<BR><BR>b) de tussentijdse en concrete   doelstellingen, ter uitvoering van de algemene doelstellingen, geformuleerd in   het hulpverleningsprogramma van de verwijzende instantie;<BR><BR>c) de   aandachtspunten en de klemtonen die in de hulpverlening gelegd moeten worden en   waarbij de minderjarige, het gezin, de school, het werkmilieu en het bredere   sociale netwerk worden betrokken;<BR><BR>d) de middelen en de werkwijzen die   individueel aangewend moeten worden om de doelstellingen, gelet op de   aandachtspunten en klemtonen, te realiseren;<BR><BR>e) afspraken betreffende de   bezoekregeling, de briefwisseling en het opvoedingsregime, rekening houdend met   hetgeen eventueel door de verwijzende instantie werd beslist;<BR><BR>f) de   taakverdeling en de samenwerkingsafspraken tussen de betrokken   partijen;<BR><BR>9° een kopie van het handelingsplan moet onverwijld worden   opgestuurd aan het comité of aan de jeugdrechtbank en de sociale dienst van de   Vlaamse Gemeenschap bij die rechtbank;<BR><BR>10° het handelingsplan kan binnen   de voorziening, na evaluatie en samenspraak met de betrokken partijen, worden   bijgestuurd. Deze bijsturing wordt schriftelijk vastgelegd. Hetgeen bepaald is   in 9° is van overeenkomstige toepassing;<BR><BR>11° met uitzondering van de   onthaal-, oriëntatie- en observatiecentra sturen de erkende voorzieningen om de   zes maanden een evolutieverslag naar het comité of naar de jeugdrechtbank en de   sociale dienst van de Vlaamse Gemeenschap bij die rechtbank;<BR><BR>12° de   minderjarigen moeten de gelegenheid hebben om zich moreel te verdiepen en hun   eventuele godsdienst te beoefenen volgens de voorschriften en de verplichtingen   ervan;<BR><BR>13° sancties moeten aan de persoonlijkheid van de minderjarige   worden aangepast. Ze moeten altijd de opvoeding bevorderen en mogen geen   traumatische uitwerking hebben. Lichamelijke straffen en geestelijk geweld,   alsook onthouding van maaltijden, zijn verboden;<BR><BR>14° het dossier dat met   inachtneming van artikel 11bis, 16°, wordt aangelegd, bevat alle nuttige   gegevens voor de hulp- en dienstverlening. In dit dossier worden minstens   opgenomen:<BR><BR>a) inlichtingen van administratieve aard, met inbegrip van de   stukken, die ter beschikking gesteld werden door de administratie, het comité,   de jeugdrechtbank en de sociale dienst van de Vlaamse Gemeenschap bij die   rechtbank, inzonderheid de stukken tot staving van de plaatsing of de   begeleiding, een kopie van het hulpverleningsprogramma en de documenten, vereist   door de bepalingen van dit besluit;<BR><BR>b) de gegevens over de toestand van   de minderjarige en het gezin waartoe hij of zij behoort en hun mening   hierover;<BR><BR>c) het handelingsplan, bedoeld in 7°, elke bijsturing ervan,   bedoeld in 10°, en de evolutieverslagen, bedoeld in 11°;<BR><BR>15° de inspectie   van de administratie kan het dossier van de minderjarige uitsluitend ter plaatse   inzien;<BR><BR>16° uiterlijk vijf jaar nadat de minderjarige meerderjarig is   geworden, wordt zijn of haar dossier vernietigd;<BR><BR>17° naast de wettelijk   verplichte verzekeringen moet een verzekering worden afgesloten voor:<BR><BR>a)   de burgerlijke aansprakelijkheid van de voorziening en van de personen die er   tewerkgesteld zijn of die er verblijven;<BR><BR>b) de burgerlijke   aansprakelijkheid van elke opgenomen of begeleide minderjarige;<BR><BR>c) de   lichamelijke schade waarvan een opgenomen of begeleide minderjarige het   slachtoffer kan zijn;<BR><BR>18° indien een minderjarige aan de voorziening werd   toevertrouwd met toepassing van artikel 22, eerste lid, 2°, van de   gecoördineerde decreten, moet de voorziening de sociale dienst van het bevoegde   comité daarvan uiterlijk de eerstvolgende werkdag in kennis stellen. Deze   kennisgeving wordt die dag door de voorziening bij ter post aangetekende brief   bevestigd;<BR><BR>19° elke ernstige gebeurtenis moet onverwijld en binnen   achtenveertig uur worden gemeld aan het comité of aan de jeugdrechtbank en de   sociale dienst van de Vlaamse Gemeenschap bij die rechtbank, evenals aan de   inspectie van de administratie;<BR><BR>20° de voorziening moet jaarlijks vóór 1   juni bij de administratie een kwaliteitsverslag indienen over het voorbije jaar,   samen met de gebruikersgegevens bedoeld in artikel 11bis, 10°, eerste lid.  <span class="reference">(verv. B.V.R. 8   december 2000, art. 3, I: 1 januari 2001)</span> ]
 
 ### ART. 11bis.
 
@@ -120,7 +120,7 @@ De diensten voor begeleid zelfstandig wonen moeten voldoen aan de volgende bijzo
 
 ### ART. 19.
 
-De diensten voor pleegzorg dienen te voldoen aan de volgende bijzondere voorwaarden:<br />1° het minimumaantal te begeleiden minderjarigen is zesendertig;<br />2° de dienst zorgt voor de selectie van pleeggezinnen en laat elke plaatsing in een pleeggezin voorafgaan door een grondige studie van de minderjarige en van het pleeggezin. De selectie past in het hulpverleningsprogramma en houdt rekening met de materiële en immateriële omstandigheden in het pleeggezin. De dienst zorgt voor de begeleiding en de vorming van de pleeggezinnen;<br />3° de leden van het pleeggezin moeten van goed zedelijk gedrag zijn en hun gezondheidstoestand mag geen gevaar inhouden voor de minderjarigen;<br />4° aan een pleeggezin mogen niet meer dan vier minderjarigen en andere personen beneden de leeftijd van achttien jaar worden toevertrouwd, behalve:<br />a) wanneer allen tot eenzelfde gezin behoren;<br />b) wanneer het een bijkomende opname betreft van een minderjarige die reeds eerder in het pleeggezin verbleef;<br />5° de dienst garandeert in elke pleegzorgsituatie gemiddeld 7 begeleidingscontacten per jaar met de direct betrokken actoren. De dienst zorgt ervoor dat elke actor op voldoende wijze in de hulpverlening wordt betrokken;<br />6° de opdracht die de dienst vooropstelt ten aanzien van het oorspronkelijke milieu, dient in het handelingsplan te worden vastgesteld;<br />7° de dienst betaalt de subsidies, opgenomen in artikel 39, § 1, 40 en 42, § 1 en § 3, regelmatig en volledig uit aan de pleeggezinnen.
+<P>...</P>
 
 ## [ONDERAFDELING H DIENSTEN VOOR HERSTELGERICHTE EN CONSTRUCTIEVE AFHANDELING (ing. BVR 16 januari 2009)]
 
@@ -190,7 +190,7 @@ Een aanvraag tot erkenning van een voorziening of tot verlenging ervan is alleen
 
 ### ART. 24.
 
-§ 1. De Vlaamse minister kan voor de categorieën 1 tot en met 6 geen erkenning verlenen boven de totaal erkende capaciteit van 6000.<br /><br />De Vlaamse minister legt de verdeling van 6000 eenheden over de regio's vast in een programmatie. Voor die verdeling is:<br />1° één plaats in een voorziening van categorie 1, 2 of 3 gelijk aan één eenheid;<br />2° één plaats in een voorziening van categorie 4 gelijk aan twee derden van een eenheid;<br />3° één begeleiding door een voorziening van categorie 5 of 6 gelijk aan een derde van een eenheid.<br /><br />Onverminderd de bepalingen van het tweede lid kan erkende capaciteit van een voorziening van categorie 1, 2 of 3 omgezet worden in erkende capaciteit van een voorziening van categorie 4, 5 of 6, als die omzetting geen extra financiële lasten met zich brengt voor de begroting van de Vlaamse Gemeenschap. <br /><br />§ 2. Per gerechtelijk arrondissement wordt één dienst voor herstelgerichte en constructieve afhandeling erkend en gesubsidieerd. De Vlaamse minister kan daarvan afwijken vanwege de grootte van het arrondissement of het aantal dossiers.
+§ 1. De Vlaamse minister of de administrateur-generaal kan voor de   categorieën 1 tot en met 6 geen erkenning verlenen boven de totaal erkende   capaciteit van 6000.<BR><BR>De Vlaamse minister legt de verdeling van 6000   eenheden over de regio's vast in een programmatie. Voor die verdeling is:<BR>1°   één plaats in een voorziening van categorie 1, 2 of 3 gelijk aan één   eenheid;<BR>2° één plaats in een voorziening van categorie 4 gelijk aan twee   derden van een eenheid;<BR>3° één begeleiding door een voorziening van categorie   5 of 6 gelijk aan een derde van een eenheid.<BR><BR>Onverminderd de bepalingen   van het tweede lid kan erkende capaciteit van een voorziening van categorie 1, 2   of 3 omgezet worden in erkende capaciteit van een voorziening van categorie 4, 5   of 6, als die omzetting geen extra financiële lasten met zich brengt voor de   begroting van de Vlaamse Gemeenschap. <BR><BR>§ 2. Per gerechtelijk   arrondissement wordt één dienst voor herstelgerichte en constructieve   afhandeling erkend en gesubsidieerd. De Vlaamse minister kan daarvan afwijken   vanwege de grootte van het arrondissement of het aantal dossiers.
 
 ### ART. 25.
 
@@ -202,11 +202,11 @@ Indien de beslissing van de administrateur-generaal bedoeld in artikel 25, § 3 
 
 ### ART. 26bis.
 
-§ 1. De inrichtende macht kan tot uiterlijk dertig dagen na de ontvangst van het voornemen van de administrateur-generaal om de erkenning van de voorziening of de verlenging ervan te weigeren of, in geval van toepassing van artikel 26, na het verstrijken van de termijn, vermeld in artikel 25, § 3, een bezwaarschrift indienen. Na die termijn van dertig dagen is het bezwaarschrift niet meer ontvankelijk. De inrichtende macht richt daartoe een aangetekende brief aan de administratie met vermelding van de motieven waarom ze de weigering ongegrond acht.<br /><br />De administratie bezorgt het bezwaarschrift binnen vijftien dagen na de ontvangst ervan aan de adviserende beroepscommissie, samen met het volledige administratieve dossier en de eventuele verweermiddelen. Op de procedure voor de adviserende beroepscommissie zijn artikel 7 tot en met 14 van het besluit van de Vlaamse Regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden van toepassing.<br /><br />§ 2. Als de inrichtende macht geen bezwaarschrift heeft ingediend in overeenstemming met § 1, eerste lid, wordt de beslissing van de administrateur-generaal om de erkenning of de verlenging ervan te weigeren, aan de inrichtende macht betekend. De administratie betekent die beslissing met een aangetekende brief binnen dertig dagen na het verstrijken van de termijn, vermeld in § 1, eerste lid.
+§ 1. De inrichtende macht kan tot uiterlijk dertig dagen na de ontvangst   van het voornemen van de administrateur-generaal om de erkenning van de   voorziening of de verlenging ervan te weigeren of, in geval van toepassing van   artikel 26, na het verstrijken van de termijn, vermeld in artikel 25, § 3, een   bezwaarschrift indienen. Na die termijn van dertig dagen is het bezwaarschrift   niet meer ontvankelijk. De inrichtende macht richt daartoe een aangetekende   brief aan de administratie met vermelding van de motieven waarom ze de weigering   ongegrond acht.<BR><BR>Het bezwaarschrift wordt behandeld volgens de regels die   zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7   december 2007 houdende oprichting van de Strategische Adviesraad voor het   Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en   (Kandidaat-)pleegzorgers.<BR><BR>§ 2. Als de inrichtende macht geen   bezwaarschrift heeft ingediend in overeenstemming met § 1, eerste lid, wordt de   beslissing van de administrateur-generaal om de erkenning of de verlenging ervan   te weigeren, aan de inrichtende macht betekend. De administratie betekent die   beslissing met een aangetekende brief binnen dertig dagen na het verstrijken van   de termijn, vermeld in § 1, eerste lid.
 
 ### ART. 26ter.
 
-De Vlaamse minister kan aan de erkenning de voorwaarde verbinden dat de voorziening geen minderjarigen zal opnemen of begeleiden, totdat de inrichtende macht heeft bewezen dat de voorziening aan de erkenningsvoorwaarden voldoet.<br /><br />Als de inrichtende macht binnen een termijn van achttien maanden, te rekenen vanaf de datum van de erkenning, het bewijs niet kan leveren dat de voorziening aan de erkenningsvoorwaarden voldoet, wordt de erkenning ambtshalve ingetrokken.  <span class="reference">(ing. B.V.R. 8 december 1998, art. 2, I: 1 januari 1999)</span> ]
+De Vlaamse minister of de administrateur-generaal kan aan de erkenning de   voorwaarde verbinden dat de voorziening geen minderjarigen zal opnemen of   begeleiden, totdat de inrichtende macht heeft bewezen dat de voorziening aan de   erkenningsvoorwaarden voldoet.<BR><BR>Als de inrichtende macht binnen een   termijn van achttien maanden, te rekenen vanaf de datum van de erkenning, het   bewijs niet kan leveren dat de voorziening aan de erkenningsvoorwaarden voldoet,   wordt de erkenning ambtshalve ingetrokken.
 
 ### ART. 26quater.
 
@@ -220,7 +220,7 @@ Artikel 22 tot en met 26quater zijn van overeenkomstige toepassing voor het wijz
 
 ### ART. 26sexies.
 
-De Vlaamse minister kan op elk ogenblik de voorwaarden van de erkenning andere dan die bedoeld in artikel 26quinquies wijzigen, nadat de inrichtende macht daartoe een aanvraag heeft ingediend.  <span class="reference">(ing. B.V.R. 8 december 1998, art. 2, I: 1 januari 1999)</span> ]
+De administrateur-generaal kan op elk ogenblik de voorwaarden van de   erkenning andere dan die bedoeld in artikel 26quinquies wijzigen, nadat de   inrichtende macht daartoe een aanvraag heeft ingediend.
 
 ## [AFDELING 3 PROCEDURE VOOR HET INTREKKEN VAN EEN ERKENNING VAN EEN VOORZIENING (ing. B.V.R. 8 december 1998, art. 2)]
 
@@ -230,11 +230,11 @@ Als een voorziening niet langer voldoet aan een of meer erkenningsvoorwaarden, k
 
 ### ART. 26octies.
 
-§ 1. Als ondanks de aanmaning de voorziening de erkenningsvoorwaarden niet naleeft, kan de Vlaamse minister zich voornemen de erkenning in te trekken. De administratie betekent dat voornemen bij aangetekende brief met kennisgeving van ontvangst aan de inrichtende macht. In die brief wordt het voornemen gemotiveerd en worden de mogelijkheid en de voorwaarden vermeld waarop de inrichtende macht een bezwaarschrift kan indienen.<br /><br />§ 2. Artikel 26bis, § 1 en § 2, eerste lid, zijn van overeenkomstige toepassing voor het geval de Vlaamse minister definitief beslist een erkenning in te trekken.<br /><br />Als de beslissing van de Vlaamse minister niet aan de inrichtende macht werd betekend binnen de termijn, bepaald in artikel 26bis, § 2, eerste lid, blijft de voorziening erkend.  <span class="reference">(ing. B.V.R. 8 december 1998, art. 2, I: 1 januari 1999)</span> ]
+§ 1. Als ondanks de aanmaning de voorziening de erkenningsvoorwaarden niet   naleeft, kan de administrateur-generaal zich voornemen de erkenning in te   trekken. De administratie betekent dat voornemen bij aangetekende brief met   kennisgeving van ontvangst aan de inrichtende macht. In die brief wordt het   voornemen gemotiveerd en worden de mogelijkheid en de voorwaarden vermeld waarop   de inrichtende macht een bezwaarschrift kan indienen.<BR><BR>§ 2. Artikel 26bis,   § 1 en § 2, eerste lid, zijn van overeenkomstige toepassing voor het geval de   Vlaamse minister of de administrateur-generaal definitief beslist een erkenning   in te trekken.<BR><BR>Als de beslissing, vermeld in het eerste lid, niet aan de   inrichtende macht is betekend binnen de termijn die daarvoor is bepaald door de   regels, vermeld in artikel 26bis, § 1, tweede lid, blijft de voorziening   erkend.
 
 ### ART. 26nonies.
 
-In afwijking van artikel 26septies en 26octies kan de Vlaamse minister, na de inrichtende macht te hebben gehoord, de erkenning onmiddellijk intrekken als blijkt dat de gezondheid, de veiligheid of de zedelijkheid van minderjarigen binnen een voorziening ernstig in het gedrang komt.  <span class="reference">(ing. B.V.R. 8 december 1998, art. 2, I: 1 januari 1999)</span> ]
+In afwijking van artikel 26septies en 26octies kan de   administrateur-generaal, na de inrichtende macht te hebben gehoord, de erkenning   onmiddellijk intrekken als blijkt dat de gezondheid, de veiligheid of de   zedelijkheid van minderjarigen binnen een voorziening ernstig in het gedrang   komt.
 
 ## [AFDELING 4 TOEZICHT OP DE NALEVING VAN DE ERKENNINGSVOORWAARDEN (ing. B.V.R. 8 december 1998, art. 2)]
 
@@ -262,7 +262,7 @@ Onverminderd de toepassing van artikel 37 van de gecoördineerde decreten mogen 
 
 ### ART. 30.
 
-§ 1. Onverminderd de toepassing van artikel 11 van het besluit van 15 december 1993 wordt de maximum personeelsbezetting die in aanmerking komt voor het subsidiëren van de personeelskosten van de erkende voorzieningen vastgesteld overeenkomstig bijlage 2 bij dit besluit.<br /><br />§ 2. Een voorziening van de categorie 7 heeft voor de subsidiëring van de personeelskosten minimaal recht op het personeelskader dat vastgesteld is op basis van het gemiddelde aantal begeleidingen van het jaar ervoor.
+§ 1. Onverminderd de toepassing van artikel 11 van het besluit van 15   december 1993 wordt de maximum personeelsbezetting die in aanmerking komt voor   het subsidiëren van de personeelskosten van de erkende voorzieningen vastgesteld   overeenkomstig bijlage 2 bij dit besluit.<BR><BR>§ 2. ...
 
 ### ART. 31.
 
@@ -300,23 +300,23 @@ Voor het berekenen van de subsidieerbare personeelskosten, overeenkomstig de art
 
 ### ART. 39.
 
-§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de minderjarigen die zelfstandig wonen, evenals voor het verblijf van de minderjarigen in een voorziening van categorie 1 tot 4, of in een pleeggezin, worden aan de voorzieningen van de categorieën 1 tot 4, 6 en 7 per minderjarige en per dag subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit besluit.<br /><br />De voorzieningen van categorie 7 ontvangen, overeenkomstig het tarief, vermeld in bijlage 3, die bij dit besluit is gevoegd, per gerealiseerde begeleidingsdag een forfaitaire subsidie om desgevallend noodzakelijke medische en paramedische verzorgingen en andere kosten gericht op herstel of het behoud van de psychische en fysische integriteit van de minderjarigen die ze begeleiden, te vergoeden. De voorzieningen beheren het totaal van die subsidie op basis van de reële behoeften van de door hen begeleide minderjarigen. <br /><br />Er wordt slechts één dag aangerekend voor de dag van de opname en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid gelijkstellen.<br /><br />§ 2. De subsidies voorzien in § 1 worden niet uitbetaald voor de personen die zelfstandig wonen, tenzij na uitputting van de procedure waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de procedure loopt.<br /><br />De subsidies, vermeld in §1, die uitbetaald worden voor de personen, vermeld in artikel 1, punt 3°, b), die zelfstandig wonen, worden verminderd met de eigen inkomsten waarover de betrokkene beschikt. Voor inkomsten uit arbeid geldt op die vermindering een vrijstelling als vermeld in artikel 35, §1, van het koninklijk besluit van 11 juli 2002 houdende het algemeen reglement betreffende het recht op maatschappelijke integratie. <br /><br />§ 3. De in § 1 bedoelde subsidies die toegekend worden aan de voorzieningen van categorie 7 kunnen, in uitzonderlijke omstandigheden en bij beslissing van de administrateur-generaal, rechtstreeks worden uitbetaald aan het pleeggezin.<br /><br />§ 4. Behalve in het geval bedoeld in artikel 19, 4°, a) en b) kunnen de subsidies bedoeld in § 1 noch aan een voorziening van categorie 7, noch aan een pleeggezin worden toegekend indien meer dan vier personen in het pleeggezin worden opgenomen tegen vergoeding, al dan niet ten laste van de openbare besturen.<br /><br />§ 5. Op naam van elke minderjarige, geplaatst in een voorziening van categorie 7 en in een pleeggezin als vermeld in artikel 39, § 3, wordt een spaarboekje geopend. Maandelijks wordt daarop een bedrag van 62,39 euro gestort. Dat bedrag is gekoppeld aan de spilindex die van kracht is op 1 januari 2009. Tijdens de minderjarigheid van de betrokkenen kunnen de bedragen die op het spaarboekje zijn ingeschreven, niet worden afgehaald zonder de uitdrukkelijke machtiging van de plaatsende instantie.
+§ 1. Om de uitgaven te vergoeden met betrekking tot het verblijf van de   minderjarigen die zelfstandig wonen, evenals voor het verblijf van de   minderjarigen in een voorziening van categorie 1 tot 4, worden aan de   voorzieningen van categorie 1 tot en met 4 en 6 per minderjarige en per dag   subsidies toegekend overeenkomstig de tarieven bepaald in bijlage 3 bij dit   besluit.<BR><BR>Er wordt slechts één dag aangerekend voor de dag van de opname   en de dag van het ontslag: hij wordt bestempeld als dag van de opname. De   Vlaamse minister kan bepaalde dagen afwezigheid met werkelijke aanwezigheid   gelijkstellen.<BR><BR>§ 2. De subsidies voorzien in § 1 worden niet uitbetaald   voor de personen die zelfstandig wonen, tenzij na uitputting van de procedure   waaruit blijkt dat de betrokkene geen recht heeft op het bestaansminimum en niet   over voldoende eigen inkomsten beschikt. De Vlaamse minister bepaalt de wijze   waarop aan de voorziening voorschotten worden verleend gedurende de tijd dat de   procedure loopt.<BR><BR>De subsidies, vermeld in §1, die uitbetaald worden voor   de personen, vermeld in artikel 1, punt 3°, b), die zelfstandig wonen, worden   verminderd met de eigen inkomsten waarover de betrokkene beschikt. Voor   inkomsten uit arbeid geldt op die vermindering een vrijstelling als vermeld in   artikel 35, §1, van het koninklijk besluit van 11 juli 2002 houdende het   algemeen reglement betreffende het recht op maatschappelijke integratie.   <BR><BR>§ 3. ...<BR><BR>§ 4. ...<BR><BR>§ 5. ...
 
 ### ART. 40.
 
-Aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen bedoeld in artikel 39, § 3, worden subsidies toegekend om aan de minderjarigen zakgeld te betalen, waarvan de tarieven bepaald zijn in bijlage 4 bij dit besluit.<br /><br />De betaling van het zakgeld wordt door de voorziening gestaafd aan de hand van een ontvangstbewijs dat door de minderjarigen wordt gedateerd en ondertekend.<br /><br />De in het eerste lid bedoelde subsidies worden niet verleend voor de minderjarigen die zelfstandig wonen of die over een maandelijkse netto-inkomen beschikken van meer dan 5 000 fr.
+Aan de voorzieningen van categorie 1 tot en met 3 worden subsidies   toegekend om aan de minderjarigen zakgeld te betalen, waarvan de tarieven   bepaald zijn in bijlage 4 bij dit besluit.<BR><BR>De betaling van het zakgeld   wordt door de voorziening gestaafd aan de hand van een ontvangstbewijs dat door   de minderjarigen wordt gedateerd en ondertekend.<BR><BR>De in het eerste lid   bedoelde subsidies worden niet verleend voor de minderjarigen die zelfstandig   wonen of die over een maandelijkse netto-inkomen beschikken van meer dan 5 000   fr.
 
 ## AFDELING 4 SUBSIDIES VOOR DE WERKING EN DE INFRASTRUCTUUR
 
 ### ART. 41.
 
-§ 1. Subsidies om de uitgaven voor de werking en de infrastructuur te vergoeden, worden per maand toegekend aan de voorzieningen van de categorieën 1 tot 7, overeenkomstig de tarieven bepaald in bijlage 5 bij dit besluit.<br /><br />§ 2. Indien de toepassing van artikel 38, § 1 een inkrimping van de capaciteit tot gevolg heeft, worden de subsidies bedoeld in § 1 in eenzelfde mate teruggebracht.
+§ 1. Subsidies om de uitgaven voor de werking en de infrastructuur te   vergoeden, worden per maand toegekend aan de voorzieningen van categorie 1 tot   en met 6, overeenkomstig de tarieven bepaald in bijlage 5 bij dit   besluit.<BR><BR>§ 2. Indien de toepassing van artikel 38, § 1 een inkrimping van   de capaciteit tot gevolg heeft, worden de subsidies bedoeld in § 1 in eenzelfde   mate teruggebracht.
 
 ## AFDELING 5 SUBSIDIES VOOR BIJZONDERE KOSTEN
 
 ### ART. 42.
 
-§ 1. Aan de voorzieningen van de categorieën 1 tot en met 3 en 7, en aan de pleeggezinnen vermeld in artikel 39, § 3, kunnen subsidies worden toegekend om bijzondere kosten te vergoeden met betrekking tot de aan de minderjarigen verstrekte buitengewone medische en paramedische verzorging. <br /><br />§ 2. Aan de voorzieningen van categorie 3 kunnen, onder de voorwaarden bepaald in artikel 44 eveneens subsidies worden toegekend om de kosten te vergoeden voor het herstellen van schade veroorzaakt door minderjarigen in crisissituatie.<br /><br />§ 3. De Vlaamse minister kan in uitzonderlijke omstandigheden, met het oog op het behoud of het herstellen van de fysieke of psychische integriteit van de betrokken minderjarige, aan de voorzieningen van de categorieën 1 tot 3 en 7 en aan de pleeggezinnen bedoeld in artikel 39, § 3, subsidies verlenen voor bijzondere uitgaven waarin de vorige paragrafen niet hebben voorzien.<br /><br />§ 4. Geen enkele subsidie voor bijzondere kosten kan worden verleend:<br />1° als een natuurlijk of rechtspersoon, wettelijk-, bij overeenkomst of ingevolge een rechterlijke beslissing tot de betaling of de terugbetaling van die kosten is gehouden;<br />2° als de kosten het gevolg zijn van een fout, nalatigheid of onvoorzichtigheid van een personeelslid van de voorziening of van het pleeggezin.<br /><br />§ 5. Voor elke aanvraag van een subsidie voor bijzondere kosten geldt een vrijstelling van 1000 euro. Dat bedrag is gekoppeld aan de spilindex die van kracht was op 1 januari 2009.
+§ 1. Aan de voorzieningen van categorie 1 tot en met 3 kunnen subsidies   worden toegekend om bijzondere kosten te vergoeden met betrekking tot de aan de   minderjarigen verstrekte buitengewone medische en paramedische verzorging.   <BR><BR>§ 2. Aan de voorzieningen van categorie 3 kunnen, onder de voorwaarden   bepaald in artikel 44 eveneens subsidies worden toegekend om de kosten te   vergoeden voor het herstellen van schade veroorzaakt door minderjarigen in   crisissituatie.<BR><BR>§ 3. De Vlaamse minister kan in uitzonderlijke   omstandigheden, met het oog op het behoud of het herstellen van de fysieke of   psychische integriteit van de betrokken minderjarige, aan de voorzieningen van   categorie 1 tot en met 3 subsidies verlenen voor bijzondere uitgaven waarin de   vorige paragrafen niet hebben voorzien.<BR><BR>§ 4. Geen enkele subsidie voor   bijzondere kosten kan worden verleend:<BR>1° als een natuurlijk of   rechtspersoon, wettelijk-, bij overeenkomst of ingevolge een rechterlijke   beslissing tot de betaling of de terugbetaling van die kosten is gehouden;<BR>2°   als de kosten het gevolg zijn van een fout, nalatigheid of onvoorzichtigheid van   een personeelslid van de voorziening.<BR><BR>§ 5. Voor elke aanvraag van een   subsidie voor bijzondere kosten geldt een vrijstelling van 1000 euro. Dat bedrag   is gekoppeld aan de spilindex die van kracht was op 1 januari   2009.
 
 ### ART. 43.
 
@@ -354,7 +354,7 @@ De voorzieningen van categorie 1, vermeld in artikel 3, § 4, ontvangen per capa
 
 ### ART. 46.
 
-Voor de toepassing van dit hoofdstuk worden de begeleidingen door de begeleidingstehuizen, dagcentra en diensten voor pleegzorg, gerealiseerd tijdens de nazorg niet als onderhouds- of begeleidingsdagen in aanmerking genomen.
+Voor de toepassing van dit hoofdstuk worden de begeleidingen door de   begeleidingstehuizen en dagcentra, gerealiseerd tijdens de nazorg niet als   onderhouds- of begeleidingsdagen in aanmerking genomen.
 
 ### ART. 47.
 
@@ -368,7 +368,7 @@ Voor de toepassing van dit hoofdstuk worden, wat de begeleiding betreft van mind
 
 ### ART. 48bis.
 
-De voorzieningen van categorie 8 ontvangen voor het geheel van hun werking een forfaitaire subsidie.<br /><br />De subsidie van jaar n wordt berekend op basis van het gemiddelde van het aantal te behandelen dossiers, aangemeld in jaar n-3 en jaar n-2.<br /><br />Minimaal 80 % van het bedrag van de subsidie moet aangewend worden voor personeelskosten.<br /><br />De subsidie wordt vastgelegd overeenkomstig de tarieven, vermeld in bijlage 6, die bij dit besluit is gevoegd.
+De voorzieningen van categorie 8 ontvangen voor het geheel van hun werking   een forfaitaire subsidie. De subsidie wordt vastgelegd overeenkomstig de   tarieven, vermeld in bijlage 6.<BR><BR>De subsidie van het jaar n wordt berekend   op basis van het gemiddelde van het aantal te behandelen dossiers, aangemeld in   het jaar n-3 en n-2. Minimaal 80 % van het bedrag van de subsidie wordt   aangewend voor personeelskosten.<BR><BR>Binnen de beschikbare kredieten kan de   Vlaamse minister aan een voorziening van categorie 8 een subsidie toekennen voor   een innovatief project. Die subsidie bedraagt maximaal 5 % van de subsidie,   vermeld in het eerste lid. Artikel 56 is van toepassing op de   subsidie."<BR><BR>In het derde lid wordt verstaan onder innovatief project : een   tijdelijk initiatief, vertrekkend uit de kernopdracht van de erkende   voorzieningen categorie 8 of de diensten voor herstelgerichte en constructieve   afhandeling, vermeld in artikel 3 van dit besluit, dat zorgvernieuwing   stimuleert en gekoppeld is aan evaluatie.
 
 ### ART. 48ter.
 
@@ -378,7 +378,7 @@ De voorzieningen van categorie 9 ontvangen voor het geheel van hun werking een f
 
 ### ART. 49.
 
-§ 1. Het bedrag van de totale kosten, vastgesteld met toepassing van de bepalingen van dit hoofdstuk, wordt verminderd met de bedragen die de voorziening van de openbare besturen of de door hen gesubsidieerde instellingen heeft ontvangen om uitgaven te dekken waarvoor zij met toepassing van dit besluit aanspraak kan maken op subsidies.<br /><br />§ 2. De subsidies aan de voorzieningen van categorie 1 tot en met 3 worden verminderd met alle andere bedragen die uitgekeerd worden voor de minderjarigen. <br /><br />De subsidie aan de voorzieningen van categorie 7 en aan de pleeggezinnen vermeld in artikel 39, § 3, worden verminderd met alle andere bedragen die uitgekeerd worden voor de minderjarigen, behalve kinderbijslagen en studietoelagen.
+§ 1. Het bedrag van de totale kosten, vastgesteld met toepassing van de   bepalingen van dit hoofdstuk, wordt verminderd met de bedragen die de   voorziening van de openbare besturen of de door hen gesubsidieerde instellingen   heeft ontvangen om uitgaven te dekken waarvoor zij met toepassing van dit   besluit aanspraak kan maken op subsidies.<BR><BR>§ 2. De subsidies aan de   voorzieningen van categorie 1 tot en met 3 worden verminderd met alle andere   bedragen die uitgekeerd worden voor de minderjarigen.
 
 ### ART. 50.
 
@@ -454,21 +454,65 @@ Het aantal verblijfsmodules waarvoor een organisatie voor bijzondere   jeugdzorg
 
 ## [Afdeling 1 Algemene bepalingen (ing. BVR 14 februari 2014, art. 10, I: 1 januari 2014)]
 
+### ART. 53duodecies.
+
+Met behoud van de toepassing van artikel 3 kan de administrateur-generaal   een erkenning verlenen aan centra voor integrale gezinszorg.<BR><BR>Centra voor   integrale gezinszorg zijn voorzieningen die zorgen voor de begeleiding en het   verblijf van ouders, al dan niet alleenstaand, en hun kinderen en aanstaande   ouders, van wie de gezinscohesie, de zorg voor de komende generatie en de   maatschappelijke integratie in het gedrang komt of al verstoord is.<BR><BR>De   opvang en begeleiding van de centra voor integrale gezinszorg is gericht op het   verbeteren van de opvoedingscontext en van de relationele, individuele,   familiale en maatschappelijke context en heeft finaal als doel de   maatschappelijke integratie.
+
+### ART. 53ter decies.
+
+Centra voor integrale gezinszorg worden erkend op basis van de typemodules   contextbegeleiding, verblijf van gemiddeld een tot drie nachten per week,   verblijf van gemiddeld vier tot zeven nachten per week, vermeld in bijlage   9.<BR><BR>Centra voor integrale gezinszorg waarvan de bezetting 85 %   overschrijdt, kunnen die overschreden capaciteit flexibel of innovatief   inzetten. De manier waarop dat gebeurt, wordt vastgelegd in een convenant, als   vermeld in artikel 53-octies.
+
 ## [Afdeling 2 Erkenningsvoorwaarden (ing. BVR 14 februari 2014, art. 10, I: 1 januari 2014)]
+
+### ART. 53quater decies.
+
+De centra voor integrale gezinszorg moeten voldoen aan de bepalingen,   vermeld in artikel 11, 3° tot en met 21°, artikel 11bis tot en met 12ter,   artikel 13, 4° tot en met 10°, en artikel 53quater. Bovendien moeten ze voldoen   aan de volgende bijzondere voorwaarden :<BR>1° de centra voor integrale   gezinszorg begeleiden uitsluitend of nemen uitsluitend (aanstaande) ouders en   hun kinderen op;<BR>2° de centra voor integrale gezinszorg vorderen voor elke   verblijfsdag een financiële bijdrage van de (aanstaande) ouder die in het   centrum voor integrale gezinszorg verblijft, als deelname in de kosten van het   verblijf, conform artikel 53sexiesdecies, § 11;<BR>3° de centra voor integrale   gezinszorg kunnen minderjarigen opnemen of begeleiden boven hun erkende   capaciteit. De gemiddelde bezettingsgraad mag op jaarbasis echter niet meer   bedragen dan 110 % .
 
 ## [Afdeling 3 Erkenningsprocedure (ing. BVR 14 februari 2014, art. 10, I: 1 januari 2014)]
 
+### ART. 53quinquies decies.
+
+Elke inrichtende macht die een centrum voor integrale gezinszorg wil   uitbaten, laat dat centrum voor integrale gezinszorg vooraf erkennen, volgens de   regels, vermeld in het tweede tot en met het vierde lid.<BR><BR>Een erkenning of   een verlenging van een erkenning kan alleen worden verleend :<BR>1° als daarvoor   een ontvankelijke aanvraag wordt ingediend;<BR>2° als aan de   erkenningsvoorwaarden van dit besluit is voldaan;<BR>3° voor zover de   begrotingskredieten dat mogelijk maken.<BR><BR>Een aanvraag tot erkenning als   centrum voor integrale gezinszorg of tot verlenging ervan is alleen ontvankelijk   :<BR>1° als de inrichtende macht de aanvraag bij de administratie indient met   een aangetekende brief met ontvangstmelding;<BR>2° als de aanvraag de volgende   gegevens bevat :<BR>a) de identiteit van de inrichtende macht;<BR>b) het aantal   modules, dat behoort tot de typemodules contextbegeleiding, verblijf van   gemiddeld een tot drie nachten per week, verblijf van gemiddeld vier tot zeven   nachten per week, vermeld in bijlage 9, waarvoor erkenning wordt gevraagd;<BR>c)   de verschillende afdelingen waaruit het centrum voor integrale gezinszorg zal   bestaan;<BR>d) het maximale aantal gebruikers dat het centrum voor integrale   gezinszorg per afdeling kan opnemen;<BR>e) het pedagogische profiel van het   centrum voor integrale gezinszorg en van de modules, met bijzondere aandacht   voor de bepalingen, vermeld in artikel 53quater.<BR><BR>De procedure, vermeld in   artikel 25 tot en met 26decies, is voor het overige van   toepassing.
+
 ## [Afdeling 4 Subsidiëring (ing. BVR 14 februari 2014, art. 10, I: 1 januari 2014)]
+
+### ART. 53sexies decies.
+
+§ 1. In afwijking van artikel 27 tot en met 45, bepaalt deze afdeling de   subsidiëring van de centra voor integrale gezinszorg overeenkomstig de tarieven,   vermeld in bijlage 10.<BR><BR>§ 2.Voor de uitvoering van zijn opdrachten   ontvangt een centrum voor integrale gezinszorg per module waarvoor het erkend   is, een forfaitaire subsidie, die 87,5 % bedraagt van de bedragen, vermeld in   bijlage 10.<BR><BR>Alleen de modules die ingezet worden voor minderjarigen,   komen voor subsidiëring in aanmerking. Voor de subsidiëring van modules   verblijf, wordt een zwangere minderjarige als twee personen geteld en een   zwangere meerderjarige als één persoon.<BR><BR>Voor de subsidiëring van modules   contextbegeleiding, wordt bij een mobiele begeleiding slechts één module per   gezin geteld.<BR><BR>§ 3. De subsidiëring van de personeelskosten die   voortvloeien uit de toepassing van het koninklijk besluit van 3 mei 2007 tot   regeling van het stelsel van werkloosheid met bedrijfstoeslag gebeurt aan de   hand van een aparte verantwoording.<BR><BR>§ 4. Aan een centrum voor integrale   gezinszorg kan, met toepassing van artikel 42, een subsidie voor bijzondere   kosten toegekend worden om bijzondere kosten te vergoeden met betrekking tot   verstrekte buitengewone medische en paramedische verzorging aan gebruikers bij   wie een verblijfsmodule geactiveerd is.<BR><BR>§ 5. Voor de bepaling van de   anciënniteitscorrectie, vermeld in bijlage 10, wordt jaarlijks de situatie op 1   januari van het jaar in kwestie als basis genomen.<BR><BR>Bij inrichtende   machten waaraan erkenning is verleend voor een organisatie voor bijzondere   jeugdzorg, een centrum voor integrale gezinszorg of voor een onthaal-,   oriëntatie- en observatiecentrum in een modulair kader wordt de   anciënniteitscorrectie voor de verschillende voorzieningen berekend op basis van   het gemiddelde van de verschillende voorzieningen.<BR><BR>§ 6. Minimaal 70 % van   de subsidie wordt aangewend voor personeelskosten.<BR><BR>§ 7. Minimaal twee   derde van het gesubsidieerde personeel wordt in begeleidende functies   ingezet.<BR><BR>§ 8. De subsidie wordt in maandelijkse voorschotten uitgekeerd.   Het bedrag van het maandelijkse voorschot wordt berekend op een twaalfde van 90   % van de jaarlijkse subsidie-enveloppe. Het saldo wordt uitbetaald in het eerste   kwartaal van het volgende jaar.<BR><BR>§ 9. Als een centrum voor integrale   gezinszorg twee jaar na elkaar een bezetting van minder dan 80 % haalt, wordt de   som van het gewicht van de modules waarvoor het erkend is, teruggebracht tot 110   % van de gemiddelde bezetting van de twee voorgaande jaren.<BR><BR>Alleen de   modules die ingezet worden voor minderjarigen, komen in aanmerking voor de   vaststelling van de bezetting.<BR><BR>Voor de bezetting van modules verblijf,   wordt een zwangere minderjarige als twee personen geteld en een zwangere   meerderjarige als één persoon.<BR><BR>Voor de bezetting van modules   contextbegeleiding, wordt bij mobiele begeleidingen slechts één module per gezin   geteld.<BR><BR>§ 10. Als de som van de subsidie meer bedraagt dan de reële   uitgaven voor verblijfskosten, werkings- en infrastructuurkosten en   personeelskosten, moet het centrum voor integrale gezinszorg met het saldo   reserves opbouwen.<BR><BR>De reserves, met uitzondering van het sociaal passief,   worden aangewend om uitgaven te financieren die ertoe bijdragen om de opdrachten   van het centrum voor integrale gezinszorg uit te voeren.<BR><BR>De reserves, met   uitzondering van het sociaal passief, die na het afsluiten van het boekjaar meer   bedragen dan 50 % van de jaarlijkse subsidie, worden voor het bedrag dat 50 %   van de jaarlijkse subsidie overschrijdt, teruggestort aan de   administratie.<BR><BR>Het sociaal passief, vermeld in het tweede en derde lid,   wordt beperkt tot 25 % van de jaarlijkse personeelskosten.<BR><BR>§ 11. De   bijdrage, vermeld in artikel 53quater decies, wordt bepaald op basis van het   actuele maandinkomen van de (aanstaande) ouders. Als beide ouders van een gezin   in het centrum voor integrale gezinszorg verblijven, wordt het gezamenlijke   actuele maandinkomen in aanmerking genomen.<BR><BR>Die bijdrage bedraagt 25 %   van het leefloon dat de (aanstaande) ouders ontvangen of dat ze zouden   ontvangen, als ze niet over andere inkomsten beschikken.<BR><BR>Als de   (aanstaande) ouders een inkomen, geheel of gedeeltelijk, uit arbeid ontvangen,   wordt de bijdrage verhoogd met 15 % van het gedeelte van het inkomen dat het   leefloon overstijgt.<BR><BR>De centra voor integrale gezinszorg expliciteren de   modaliteiten van die bijdrage in transparante procedures en huishoudelijke   reglementen die aan de gebruikers worden gecommuniceerd.<BR><BR>Als opgenomen   personen weigeren om de bewijsstukken die nodig zijn om de cliëntbijdrage te   bepalen, over te leggen, kan het centrum zelf de gepaste bijdrage   bepalen.
 
 ## [HOOFDSTUK IVquater ONTHAAL-, ORIENTATIE- EN OBSERVATIECENTRA IN EEN MODULAIR KADER (ing. BVR 14 februari 2014, art. 11, I: 1 januari 2014)]
 
 ## [Afdeling 1. - Algemene bepalingen (ing. BVR 14 februari 2014, art. 11, I: 1 januari 2014)]
 
+### ART. 53septies decies.
+
+Met behoud van de toepassing van artikel 3 kan de administrateur-generaal   een erkenning verlenen voor onthaal-, oriëntatie- en observatiecentra in een   modulair kader.
+
+### ART. 53duodevicies.
+
+Onthaal-, oriëntatie- en observatiecentra in een modulair kader zijn   inrichtingen die voor het ene gedeelte van hun totale capaciteit uitsluitend   minderjarigen moeten opnemen voor diagnostiek, als vermeld in artikel 2, § 1,   12°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp en voor   het andere gedeelte van hun capaciteit, voorlopig en voor een korte termijn, op   alle uren van de dag en de nacht, uitsluitend :<BR>1° personen beneden de   leeftijd van achttien jaar moeten opnemen die door de politionele overheden niet   kunnen worden teruggebracht bij de personen die hen onder hun bewaring hebben,   en die noch onmiddellijk voor het parket kunnen worden gebracht;<BR>2° personen   beneden de leeftijd van achttien jaar moeten opnemen die niet onmiddellijk door   het parket naar de jeugdrechtbank kunnen worden verwezen;<BR>3° minderjarigen   moeten opnemen voor wie naar gepaste hulp en bijstand wordt   gezocht.
+
+### ART. 53undevicies.
+
+Onthaal-, oriëntatie- en observatiecentra in een modulair kader worden   erkend op basis van de typemodules handelingsgerichte diagnostiek, verblijf van   gemiddeld een tot drie nachten per week in het kader van diagnostiek, verblijf   van gemiddeld vier tot zeven nachten per week in het kader van diagnostiek en   kortdurend (crisis)verblijf, vermeld in bijlage 9.<BR><BR>Onthaal-, oriëntatie-   en observatiecentra in een modulair kader waarvan de bezetting 75 %   overschrijdt, kan die overschreden capaciteit flexibel of innovatief inzetten.   De manier waarop dat gebeurt, wordt vastgelegd in het convenant, vermeld in   artikel 53octies.
+
 ## [Afdeling 2 Erkenningsvoorwaarden (ing. BVR 14 februari 2014, art. 11, I: 1 januari 2014)]
+
+### ART. 53vicies.
+
+Onthaal-, oriëntatie- en observatiecentra in een modulair kader moeten   voldoen aan de bepalingen, vermeld in artikel 11, 1° tot en met 10°, en 12° tot   en met 21°, artikel 11bis tot en met artikel 12ter, artikel 13, 4° tot en met   11°, en artikel 53quater. Bovendien moeten ze voldoen aan de volgende bijzondere   voorwaarden :<BR>1° overeenkomstig de beslissing van de verwijzende instantie   wordt diagnostiek in residentieel of mobiel verband uitgevoerd;<BR>2° het team   dat belast is met de diagnostiek van de minderjarigen, is multidisciplinair   samengesteld en bestaat minimaal uit een master in de psychologische of   pedagogische wetenschappen en een bachelor in het sociaal werk;<BR>3° het   centrum verwittigt de eerstkomende werkdag de bevoegde verwijzende instantie en   binnen vierentwintig uur de procureur des Konings van het betrokken rechtsgebied   van elke opname, vermeld in artikel 6, 1°;<BR>4° een onthaal-, oriëntatie- en   observatiecentrum in een modulair kader dat het vanuit zijn pedagogisch concept   noodzakelijk vindt om minderjarigen soms tijdelijk af te zonderen of in hun   vrijheid te beperken, om hun veiligheid, de veiligheid van andere minderjarigen   of die van het personeel te verzekeren, beschikt daarvoor over een door de   administratie goedgekeurd huishoudelijk reglement. In dat reglement worden   minstens de volgende elementen beschreven : de inrichting van de   beveiligingskamer, het aanleggen van een beveiligingsdossier voor elke   beveiliging die zich voordoet, de duur van de beveiligingssituatie en het   toezicht op en de mogelijkheden tot contact van de betrokken minderjarige. Het   huishoudelijk reglement wordt bij de opname bekendgemaakt aan de betrokken   partijen;<BR>5° elke minderjarige wordt na zijn opname medisch onderzocht;<BR>6°   een onthaal-, oriëntatie- en observatiecentrum in een modulair kader hanteert   actuele en wetenschappelijk onderbouwde instrumenten om zijn diagnostische   opdracht uit te voeren.
 
 ## [Afdeling 3 Erkenningsprocedure (ing. BVR 14 februari 2014, art. 11, I: 1 januari 2014)]
 
+### ART. 53vicies semel.
+
+Elke inrichtende macht die een onthaal-, oriëntatie- en observatiecentrum   in een modulair kader wil uitbaten, laat dat onthaal-, oriëntatie- en   observatiecentrum in een modulair kader vooraf erkennen, volgens de regels   vermeld in het tweede tot en met het vierde lid.<BR><BR>Een erkenning of een   verlenging van een erkenning kan alleen worden verleend :<BR>1° als daarvoor een   ontvankelijke aanvraag wordt ingediend;<BR>2° als aan de erkenningsvoorwaarden   van dit besluit is voldaan;<BR>3° als de begrotingskredieten dat mogelijk   maken.<BR><BR>Een aanvraag tot erkenning als onthaal-, oriëntatie- en   observatiecentrum in een modulair kader of tot verlenging ervan is alleen   ontvankelijk :<BR>1° als de inrichtende macht de aanvraag bij de administratie   indient met een aangetekende brief met ontvangstmelding;<BR>2° als de aanvraag   de volgende gegevens bevat :<BR>a) de identiteit van de inrichtende macht;<BR>b)   de typemodules waarvoor erkenning wordt gevraagd;<BR>c) het aantal modules   waarvoor erkenning wordt gevraagd;<BR>d) per module de leeftijdscategorie en het   geslacht van de minderjarigen voor wie erkenning wordt gevraagd;<BR>e) de   verschillende afdelingen waaruit het onthaal-, oriëntatie- en observatiecentrum   in een modulair kader zal bestaan;<BR>f) het maximale aantal minderjarigen dat   het onthaal-, oriëntatie- en observatiecentrum in een modulair kader per   afdeling zal opnemen of begeleiden;<BR>g) het pedagogische profiel van het   onthaal-, oriëntatie- en observatiecentrum in een modulair kader.<BR><BR>De   procedure, vermeld in artikel 25 tot en met 26decies, is voor het overige van   toepassing.
+
 ## [Afdeling 4 Subsidiëring (ing. BVR 14 februari 2014, art. 11, I: 1 januari 2014)]
+
+### ART. 53vicies bis.
+
+§ 1. In afwijking van artikel 27 tot en met 45, bepaalt deze afdeling de   subsidiëring van de onthaal-, oriëntatie- en observatiecentra in een modulair   kader overeenkomstig de tarieven, vermeld in bijlage 10.<BR><BR>§ 2. Voor de   uitvoering van hun opdrachten ontvangen onthaal-, oriëntatie- en   observatiecentra in een modulair kader per module waarvoor ze erkend zijn, een   forfaitaire subsidie, vermeld in bijlage 10.<BR><BR>§ 3. De subsidiëring van de   personeelskosten die voortvloeien uit de toepassing van het koninklijk besluit   van 3 mei 2007 tot regeling van het stelsel van werkloosheid met bedrijfstoeslag   gebeurt aan de hand van een aparte verantwoording.<BR><BR>§ 4. Aan de onthaal-,   oriëntatie- en observatiecentra in een modulair kader worden subsidies toegekend   om aan minderjarigen, bij wie een module met de functie verblijf geactiveerd is,   zakgeld te betalen, waarvan de tarieven zijn opgenomen in bijlage 4 bij dit   besluit.<BR><BR>De betaling van het zakgeld wordt door het onthaal-, oriëntatie-   en observatiecentrum in een modulair kader gestaafd aan de hand van een   ontvangstbewijs dat door de minderjarigen wordt gedateerd en   ondertekend.<BR><BR>De subsidies, vermeld in het eerste lid, worden niet   verleend voor de minderjarigen die over een maandelijks netto-inkomen beschikken   van meer dan 190,72 euro. Dat bedrag is gekoppeld aan de spilindex die van   kracht is op 1 juli 2012.<BR><BR>§ 5. Aan onthaal-, oriëntatie- en   observatiecentra in een modulair kader kan, met toepassing van artikel 42, een   subsidie voor bijzondere kosten toegekend worden om bijzondere kosten te   vergoeden met betrekking tot verstrekte buitengewone medische en paramedische   verzorging aan minderjarigen bij wie een verblijfsmodule geactiveerd is, en om,   onder de voorwaarden, vermeld in artikel 44, de kosten te vergoeden voor het   herstel van schade, veroorzaakt door minderjarigen in een   crisissituatie.<BR><BR>§ 6. Voor de bepaling van de anciënniteitscorrectie,   vermeld in bijlage 10, wordt jaarlijks de situatie van 1 januari van het jaar in   kwestie als basis genomen.<BR><BR>Bij inrichtende machten waaraan erkenning is   verleend voor een organisatie voor bijzondere jeugdzorg, een centrum voor   integrale gezinszorg of voor een onthaal-, oriëntatie- en observatiecentrum in   een modulair kader wordt de anciënniteitscorrectie voor de verschillende   voorzieningen berekend op basis van het gemiddelde van de verschillende   voorzieningen.<BR><BR>§ 7. Minimaal 70 % van de subsidie wordt aangewend voor   personeelskosten.<BR><BR>§ 8. Minimaal twee derde van het gesubsidieerde   personeel wordt in begeleidende functies ingezet.<BR><BR>§ 9. De subsidie wordt   in maandelijkse voorschotten uitgekeerd. Het bedrag van het maandelijkse   voorschot wordt berekend op een twaalfde van 90 % van de jaarlijkse   subsidie-enveloppe. Het saldo wordt uitbetaald in het eerste kwartaal van het   volgende jaar.<BR><BR>§ 10. Als een onthaal-, oriëntatie- en observatiecentrum   in een modulair kader twee jaar na elkaar een bezetting van minder dan 70 %   haalt, wordt de som van het gewicht van de modules waarvoor het een erkenning   heeft, teruggebracht tot 110 % van de gemiddelde bezetting van de twee   voorgaande jaren.<BR><BR>§ 11. Als de som van de subsidie meer bedraagt dan de   reële uitgaven voor verblijfskosten, werkings- en infrastructuurkosten en   personeelskosten, bouwt het onthaal-, oriëntatie- en observatiecentrum in een   modulair kader met het saldo reserves op.<BR><BR>De reserves, met uitzondering   van het sociaal passief, worden aangewend om uitgaven te financieren die ertoe   bijdragen om de opdrachten van het onthaal-, oriëntatie- en observatiecentrum in   een modulair kader uit voeren.<BR><BR>De reserves, met uitzondering van het   sociaal passief, die na het afsluiten van het boekjaar meer bedragen dan 50 %   van de jaarlijkse subsidie, worden voor het bedrag dat de 50 % van de jaarlijkse   subsidie overschrijdt, teruggestort aan de administratie.<BR><BR>Het sociaal   passief, vermeld in het tweede en derde lid, wordt beperkt tot 25 % van de   jaarlijkse personeelskosten.
 
 ## HOOFDSTUK V NIET-ERKENDE VOORZIENINGEN EN PROJECTEN
 
@@ -482,7 +526,7 @@ Het aantal verblijfsmodules waarvoor een organisatie voor bijzondere   jeugdzorg
 
 ### ART. 56.
 
-§ 1. [Voor het organiseren en coördineren van een project, bedoeld in artikel 2, e) van de gecoördineerde decreten, kan ten laste van het fonds aan een daartoe specifiek opgerichte dienst of aan één of meer inrichtende machten, op hun aanvraag, een subsidie worden verleend.<br /><br />§ 2. Een subsidieaanvraag is alleen ontvankelijk:<br /><br />1° als ze door de inrichtende macht(en) of de opgerichte dienst bij de administratie wordt ingediend bij aangetekende brief met ontvangstmelding;<br /><br />2° als ze minstens de volgende gegevens bevat:<br /><br />a) de identiteit en het adres van de inrichtende macht(en) of opgerichte dienst;<br /><br />b) een omschrijving van het project;<br /><br />c) een beschrijving van de maatschappelijke behoefte, de doelstellingen en de doelgroep die met het project worden beoogd;<br /><br />d) het aantal personen beneden de leeftijd van achttien jaar op wie het project betrekking zal hebben;<br /><br />e) een beschrijving van de processen en de methoden, evenals een voorstel van evaluatie naar efficiëntie en effectiviteit van de beoogde hulpverlening, met de opgave van de concrete meetfactoren;<br /><br />f) een begroting van alle inkomsten en uitgaven die betrekking hebben op de realisatie van het project;<br /><br />g) een opgave van de gevraagde subsidiebedragen en van de bestemming van de bedragen.<br /><br />§ 3. Artikel 11, 4° tot en met 13°, 17° en 19°, en artikel 11bis, 5°, 6°, 10°, 12° en 19° tot en met 21°, zijn van overeenkomstige toepassing op projecten.<br /><br />§ 4. Onverminderd de specifieke criteria die door de Vlaamse minister per project kunnen worden bepaald moet elk project voldoen aan de volgende inhoudelijke criteria:<br /><br />1° een gunstig effect hebben op de instroom en de uitstroom van minderjarigen in de erkende en de door de Vlaamse Gemeenschap georganiseerde voorzieningen;<br /><br />2° de eigen zorg en/of de zorg in het eigen milieu versterken;<br /><br />3° op een structurele wijze een maximale participatie van de minderjarige en het gezin waartoe hij of zij behoort waarborgen.<br /><br />§ 5. De subsidie wordt verleend in het kader van een overeenkomst die wordt afgesloten met de Vlaamse minister. De overeenkomst bevat minstens:<br /><br />1° de vermelding van de identiteit en het adres van de contracterende partijen;<br /><br />2° de opdracht, de doelgroep en de doelstellingen van het project en de effecten die men met het project wenst te bereiken;<br /><br />3° een verwijzing naar de § 3 en § 4 van dit artikel;<br /><br />4° de vermelding van de specifieke criteria die door de Vlaamse minister per overeenkomst worden bepaald;<br /><br />5° de opgave van de subsidiebedragen en van de bestemming van de bedragen;<br /><br />6° de vermelding van de uitbetalingsbepalingen van de subsidies;<br /><br />7° de termijn van de overeenkomst, die langer kan zijn dan één jaar;<br /><br />8° de vermelding hoe de overeenkomst wordt beëindigd.<br /><br />§ 6. De subsidie wordt verleend op voorwaarde dat:<br /><br />1° ze uitsluitend wordt aangewend voor de personeelskosten en de werkingskosten die nodig zijn voor de realisatie van het project;<br /><br />2° er een boekhoudplan wordt gebruikt overeenkomstig een rekeningstelsel bepaald door de Vlaamse minister;<br /><br />3° toezicht van de administratie mogelijk is op de boekhouding en op de aanwending van de subsidies zowel op stukken als ter plaatse.<br /><br />Onverminderd gewettigde terugvorderingen, wordt minimum 10% van het totale subsidiebedrag pas uitbetaald na goedkeuring van een bij de administratie in te dienen inhoudelijk en financieel eindverslag.  <span class="reference">(verv. B.V.R. 8 december 2000, art. 9, I: 1 januari 2001)</span> ]
+<P>§ 1. Voor de organisatie en coördinatie van een project, vermeld in artikel   2, 13°, van het decreet van 7 maart 2008, kan ten laste van het fonds en binnen   de begrotingskredieten, aan een of meer inrichtende machten, op hun aanvraag,   een subsidie worden verleend.<BR><BR>§ 2. Een subsidieaanvraag is alleen   ontvankelijk :<BR>1° als ze door de inrichtende macht(en) bij de administratie   wordt ingediend met een aangetekende brief met ontvangstmelding;<BR>2° als ze   minstens de volgende elementen bevat :<BR>a) de identiteit en het adres van de   inrichtende macht;<BR>b) een omschrijving van het project die de volgende   elementen bevat :<BR>1. de probleemstelling die aan de grondslag ligt van het   project;<BR>2. de manier waarop het project op de probleemstelling   ingrijpt;<BR>3. de verhouding van het project tot het bestaande aanbod;<BR>4. de   maatschappelijke relevantie van het project;<BR>5. de doelgroep en het aantal   minderjarigen op wie het project betrekking zal hebben;<BR>6. indien   beschikbaar, verwijzingen naar bestaand onderzoek;<BR>7. de beoogde effecten van   het project;<BR>8. de indicatoren en meetfactoren om de beoogde effecten te   meten;<BR>9. de wijze waarop en door wie het project opgevolgd en geëvalueerd   zal worden;<BR>10. de wijze waarop het project structureel gemaakt kan   worden;<BR>11. de timing en fasering van het project;<BR>12. een begroting van   alle inkomsten en uitgaven die betrekking hebben op de realisatie van het   project.<BR><BR>§ 3. De Vlaamse minister kan per project specifieke criteria   bepalen.<BR><BR>§ 4. Artikel 11, 4°, tot met 13°, 17°, 19° tot en met 22°, en   artikel 11bis tot en met 12ter zijn van overeenkomstige toepassing op de   projecten.<BR><BR>§ 5. De timing vermeld in paragraaf 2, 2°, b), 11, bedraagt   maximaal vijf jaar. Overschrijding van die termijn kan alleen op beslissing van   de Vlaamse minister, nadat de inrichtende macht daarvoor een aanvraag indient   die, behalve de elementen, vermeld in paragraaf 2, een motivatie voor de   verlenging bevat.<BR><BR>§ 6. De subsidie wordt verleend in het kader van een   overeenkomst die wordt gesloten met de Vlaamse minister. De overeenkomst bevat   minstens :<BR>1° de identiteit en het adres van de contracterende   partijen;<BR>2° de omschrijving van het project, vermeld in paragraaf 2, 2°,   b);<BR>3° een verwijzing naar paragraaf 4;<BR>4° een verwijzing naar de   specifieke criteria, vermeld in paragraaf 3;<BR>5° de wijze waarop over de   voortgang van het project wordt gerapporteerd, zowel inhoudelijk als   financieel;<BR>6° de opgave van de subsidiebedragen en van de bestemming van de   bedragen;<BR>7° de vermelding van de uitbetalingsmodaliteiten van de   subsidies;<BR>8° de looptijd van de overeenkomst;<BR>9° de vermelding hoe de   overeenkomst wordt beëindigd.<BR><BR>§ 7. De subsidie wordt verleend op   voorwaarde dat :<BR>1° ze uitsluitend wordt aangewend voor de personeelskosten   en de werkingskosten die nodig zijn voor de realisatie van het project;<BR>2° er   een boekhoudplan wordt gebruikt overeenkomstig een rekeningstelsel bepaald door   de Vlaamse minister;<BR>3° toezicht van de administratie mogelijk is op de   boekhouding en op de aanwending van de subsidies, zowel op stukken als ter   plaatse.</P>
 
 ## HOOFDSTUK VI OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
@@ -504,7 +548,7 @@ De subsidies voor het jaar 1994 en vorige kalenderjaren worden definitief vastge
 
 ### ART. 61.
 
-§ 1. De pleeggezinnen door wie op 31 december 1994 minderjarigen zijn opgenomen zonder de tussenkomst van een dienst voor plaatsing in gezinnen, ontvangen verder rechtstreeks de subsidies die voorzien zijn in de artikelen 39, § 1 en 40, uiterlijk tot aan de datum dat die opname eindigt. Artikel 42, § 1 en § 3 is tot aan die datum van overeenkomstige toepassing op die pleeggezinnen.<br /><br />§ 2. Bij wijze van overgangsmaatregel heeft het pleeggezin, als de minderjarige geplaatst was op 31 december 2008, minimaal recht op de subsidie, berekend volgens de regels die van kracht waren op 31 december 2008.
+<P>...</P>
 
 ### ART. 62.
 
@@ -904,17 +948,17 @@ A. Directiepersoneel<br>
 
 ### BIJLAGE 1bis.
 
-<P>Kwaliteitshandboek&nbsp;</P>  <P>Het kwaliteitshandboek van de voorziening wordt samengesteld overeenkomstig   de volgende inhoud en structuur:<BR><BR>1 INLEIDING<BR><BR>1.1 De structuur van   het kwaliteitshandboek<BR><BR>1.2 De voorstelling van de voorziening<BR><BR>1.3   De verantwoordelijke die met de uitvoering van het kwaliteitsbeleid in   belast<BR><BR>1.4 Het document dat toelating geeft aan de gemachtigden van de   Vlaamse regering om in de voorziening alle activiteiten te verrichten, nodig om   de uitvoering van het kwaliteitsdecreet te verifiëren en te evalueren<BR><BR>2   KWALITEITSBELEID<BR><BR>2.1 Het profiel van de voorziening<BR><BR>2.1.1 De   omschrijving van de missie en de doelstellingen<BR><BR>2.1.2 De waarden van en   de visie op de hulpverlening, zowel organisatorisch en maatschappelijk als   pedagogisch (principes, waarden, referentiekaders)<BR><BR>2.1.3 De omschrijving   van de doelgroepen en eventuele accenten hierin<BR><BR>2.1 De minimale   kwaliteitseisen zoals bepaald in artikel 11bis<BR><BR>3   KWALITEITSSYSTEEM<BR><BR>3.1 De conditionele elementen<BR><BR>3.2 De   procedures<BR><BR>3.3 De garantie van het kwaliteitssysteem  <span class="reference">(ing. B.V.R. 8 december 2000,   art. 12, I: 1 januari 2001)</span> ]</P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/07/31_1.pdf#page=38">Bijlage   1bis.</A></P>
 
 ### BIJLAGE 1ter.
 
-<P>Kwaliteitssysteem</P>  <P>Het kwaliteitssysteem van de voorziening bevat minimaal de omschrijving van   de volgende conditionele elementen, procedures en garantie voor het   kwaliteitssysteem:<BR><BR>1° Conditionele elementen:<BR>a) omschrijving van het   functioneel organogram;<BR>b) functiebeschrijvingen en -profielen voor alle   functies;<BR>c) omschrijving van de structurele overlegmomenten, zowel intern   als extern, rond de hulp- en dienstverlening en rond het beleid van de   voorziening;<BR>d) omschrijving van de inzet van personele middelen en de   begeleidings- en ondersteuningsmiddelen die worden gehanteerd;<BR>e)   omschrijving van de maatregelen om bereikbaar en beschikbaar te zijn voor de   doelgroep;<BR>f) omschrijving van de wijze waarop de betrokken partijen in de   hulp- en dienstverlening kunnen participeren;<BR>g) omschrijving van de wijze   waarop gebruikers en personeel inspraak kunnen hebben;<BR>h) omschrijving van   het vormings-, trainings- en opleidingsbeleid voor het personeel;<BR><BR>2°   Procedures<BR>a) hulp- en dienstverlening:<BR>- procedure voor het onthaal van   gebruikers;<BR>- procedure voor het opmaken, evalueren en bijsturen van het   handelingsplan;<BR>- procedure voor de overdracht van de hulp- en   dienstverlening;<BR>- procedure voor het afsluiten van de hulp- en   dienstverlening in samenspraak met de gebuiker;<BR>b) evaluatie van de hulp- en   dienstverlening:<BR>- procedure voor het evalueren en bijsturen van de   doeltreffendheid en de doelmatigheid van de hulp- en dienstverlening;<BR>-   procedure voor het meten van de tevredenheid bij de gebuikers;<BR>- procedure   voor het meten van de tevredenheid bij het personeel;<BR>c)   gebruikersinformatie:<BR>- procedure voor het verwerven en doorgeven van   informatie met betrekking tot de gebruiker;<BR>- procedure voor het samenstellen   en het gebruiken van het dossier;<BR>- procedure voor het kenbaar maken van   klachten, het beoordelen van klachten op hun ontvankelijkheid en het informeren   van de gebruiker over het resultaat;<BR>d) documentenbeheer:<BR>- procedure voor   het beheer van documenten;<BR>e) personeelsbeleid:<BR>- procedure voor het   aanwerven van personeel;<BR>- procdure voor het evalueren van   personeel;<BR><BR>3° Garantie voor het kwaliteitssysteem<BR>a) procedure voor   het onderhouden van het kwaliteitssysteem.  <span class="reference">(ing. B.V.R. 8 december 2000, art. 12, I: 1 januari   2001)</span> ]</P>
+<P>...</P>
 
 ### BIJLAGE 2.
 
 <br>
 A. Directiepersoneel<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
@@ -927,7 +971,7 @@ A. Directiepersoneel<br>
 			<td style="width:37.8pt">
 			<p>Categorie 2</p>
 			</td>
-			<td style="width:41.0pt">
+			<td style="width:41pt">
 			<p>Categorie 3</p>
 			</td>
 			<td colspan="2" style="width:56.05pt">
@@ -939,9 +983,6 @@ A. Directiepersoneel<br>
 			<td colspan="2" style="width:46.7pt">
 			<p>Categorie 6</p>
 			</td>
-			<td style="width:38.65pt">
-			<p>Categorie 7</p>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:105.6pt">&nbsp;</td>
@@ -952,7 +993,7 @@ A. Directiepersoneel<br>
 			<p>Gezins-<br>
 			tehuizen</p>
 			</td>
-			<td style="width:41.0pt">
+			<td style="width:41pt">
 			<p>Onthaal-, oriëntatie- en observatiecentra</p>
 			</td>
 			<td colspan="2" style="width:56.05pt">
@@ -965,9 +1006,6 @@ A. Directiepersoneel<br>
 			</td>
 			<td colspan="2" style="width:46.7pt">
 			<p>Diensten voor begeleid zelfstandig wonen</p>
-			</td>
-			<td style="width:38.65pt">
-			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
@@ -986,7 +1024,7 @@ A. Directiepersoneel<br>
 			<td style="width:37.8pt">
 			<p>5 tot 10</p>
 			</td>
-			<td style="width:41.0pt">
+			<td style="width:41pt">
 			<p>8 tot 24</p>
 			</td>
 			<td style="width:38.8pt">
@@ -1007,9 +1045,6 @@ A. Directiepersoneel<br>
 			<td style="width:29.85pt">
 			<p>vanaf 32</p>
 			</td>
-			<td style="width:38.65pt">
-			<p>vanaf 36</p>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:105.6pt">&nbsp;</td>
@@ -1017,14 +1052,13 @@ A. Directiepersoneel<br>
 			<td style="width:26.75pt">&nbsp;</td>
 			<td style="width:25.45pt">&nbsp;</td>
 			<td style="width:37.8pt">&nbsp;</td>
-			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:41pt">&nbsp;</td>
 			<td style="width:38.8pt">&nbsp;</td>
 			<td style="width:15.75pt">&nbsp;</td>
 			<td style="width:14.95pt">&nbsp;</td>
 			<td style="width:29.75pt">&nbsp;</td>
 			<td style="width:15.35pt">&nbsp;</td>
 			<td style="width:29.85pt">&nbsp;</td>
-			<td style="width:38.65pt">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:105.6pt">
@@ -1038,14 +1072,13 @@ A. Directiepersoneel<br>
 			<td style="width:37.8pt">
 			<p>1</p>
 			</td>
-			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:41pt">&nbsp;</td>
 			<td style="width:38.8pt">&nbsp;</td>
 			<td style="width:15.75pt">&nbsp;</td>
 			<td style="width:14.95pt">&nbsp;</td>
 			<td style="width:29.75pt">&nbsp;</td>
 			<td style="width:15.35pt">&nbsp;</td>
 			<td style="width:29.85pt">&nbsp;</td>
-			<td style="width:38.65pt">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:105.6pt">
@@ -1059,7 +1092,7 @@ A. Directiepersoneel<br>
 			<p>1</p>
 			</td>
 			<td style="width:37.8pt">&nbsp;</td>
-			<td style="width:41.0pt">
+			<td style="width:41pt">
 			<p>1</p>
 			</td>
 			<td style="width:38.8pt">
@@ -1080,9 +1113,6 @@ A. Directiepersoneel<br>
 			<td style="width:29.85pt">
 			<p>1</p>
 			</td>
-			<td style="width:38.65pt">
-			<p>1</p>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:105.6pt">
@@ -1094,14 +1124,13 @@ A. Directiepersoneel<br>
 			<p>1</p>
 			</td>
 			<td style="width:37.8pt">&nbsp;</td>
-			<td style="width:41.0pt">&nbsp;</td>
+			<td style="width:41pt">&nbsp;</td>
 			<td style="width:38.8pt">&nbsp;</td>
 			<td style="width:15.75pt">&nbsp;</td>
 			<td style="width:14.95pt">&nbsp;</td>
 			<td style="width:29.75pt">&nbsp;</td>
 			<td style="width:15.35pt">&nbsp;</td>
 			<td style="width:29.85pt">&nbsp;</td>
-			<td style="width:38.65pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1110,7 +1139,7 @@ A. Directiepersoneel<br>
 <br>
 <br>
 B. Begeleidend personeel<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
@@ -1134,9 +1163,6 @@ B. Begeleidend personeel<br>
 			</td>
 			<td>
 			<p>Categorie 6</p>
-			</td>
-			<td>
-			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
@@ -1161,9 +1187,6 @@ B. Begeleidend personeel<br>
 			</td>
 			<td>
 			<p>Diensten voor begeleid zelfstandig wonen</p>
-			</td>
-			<td>
-			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1188,9 +1211,6 @@ B. Begeleidend personeel<br>
 			<td>
 			<p>vanaf 16 tot 32</p>
 			</td>
-			<td>
-			<p>vanaf 36</p>
-			</td>
 		</tr>
 		<tr>
 			<td>
@@ -1200,7 +1220,6 @@ B. Begeleidend personeel<br>
 			<p>1 per 30</p>
 			</td>
 			<td style="width:55.05pt">&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -1226,9 +1245,6 @@ B. Begeleidend personeel<br>
 			<td>
 			<p>1 per 16 tot capaciteit 32</p>
 			</td>
-			<td>
-			<p>1 per 75</p>
-			</td>
 		</tr>
 		<tr>
 			<td>
@@ -1244,7 +1260,6 @@ B. Begeleidend personeel<br>
 			tehuizen, als vermeld in artikel23, 3°, h)</p>
 			</td>
 			<td style="width:55.05pt">&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
@@ -1287,10 +1302,6 @@ B. Begeleidend personeel<br>
 			<p><br>
 			0,5 per 4</p>
 			</td>
-			<td>
-			<p><br>
-			1/25 per minderjarige</p>
-			</td>
 		</tr>
 	</tbody>
 </table>
@@ -1299,7 +1310,7 @@ B. Begeleidend personeel<br>
 <br>
 <br>
 C. Administratief personeel (klasse 2 of 3)<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
@@ -1324,9 +1335,6 @@ C. Administratief personeel (klasse 2 of 3)<br>
 			<td>
 			<p>Categorie 6</p>
 			</td>
-			<td>
-			<p>Categorie 7</p>
-			</td>
 		</tr>
 		<tr>
 			<td>&nbsp;</td>
@@ -1350,9 +1358,6 @@ C. Administratief personeel (klasse 2 of 3)<br>
 			</td>
 			<td>
 			<p>Diensten voor begeleid zelfstandig wonen</p>
-			</td>
-			<td>
-			<p>Diensten voor Pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1382,7 +1387,6 @@ C. Administratief personeel (klasse 2 of 3)<br>
 			<p>16</p>
 			</td>
 			<td style="width:46.95pt">&nbsp;</td>
-			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 			<td>&nbsp;</td>
 		</tr>
@@ -1421,9 +1425,6 @@ C. Administratief personeel (klasse 2 of 3)<br>
 			<td>
 			<p>1,5 per 16 tot capaciteit 32 (3)</p>
 			</td>
-			<td>
-			<p>1/60 per minderjarige (6)</p>
-			</td>
 		</tr>
 		<tr>
 			<td>
@@ -1442,7 +1443,6 @@ C. Administratief personeel (klasse 2 of 3)<br>
 			<td>
 			<p>vanaf capaciteit 32 : 0,5 per 16</p>
 			</td>
-			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1454,10 +1454,9 @@ C. Administratief personeel (klasse 2 of 3)<br>
 (3) ofwel 1,5 logistiek, ofwel 1 logistiek en 0,5 administratief, ofwel 0,5 logistiek en 1 administratief<br>
 (4) ofwel 0,5 logistiek<br>
 (5) ofwel 1 logistiek, ofwel 0,5 administratief en 0,5 logistiek<br>
-(6) waarvan maximaal 0,5 klasse 1 tot 239 minderjarigen en maximaal 1 klasse 1 vanaf 240 minderjarigen<br>
 <br>
 D. Logistiek personeel (klasse 2, 3 of 4)<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
@@ -1481,9 +1480,6 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 			</td>
 			<td style="width:45.9pt">
 			<p>Categorie 6</p>
-			</td>
-			<td style="width:52.55pt">
-			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
@@ -1509,9 +1505,6 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 			</td>
 			<td style="width:45.9pt">
 			<p>Diensten voor begeleid zelfstandig wonen</p>
-			</td>
-			<td style="width:52.55pt">
-			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1539,7 +1532,6 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 			<td style="width:45.9pt">
 			<p>16 tot 32</p>
 			</td>
-			<td style="width:52.55pt">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:57.45pt">
@@ -1566,7 +1558,6 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 			<td style="width:45.9pt">
 			<p>1,5 per 16 (2)</p>
 			</td>
-			<td style="width:52.55pt">&nbsp;</td>
 		</tr>
 		<tr>
 			<td style="width:57.45pt">
@@ -1583,7 +1574,6 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 			<td style="width:44.65pt">&nbsp;</td>
 			<td style="width:69.4pt">&nbsp;</td>
 			<td style="width:45.9pt">&nbsp;</td>
-			<td style="border-bottom:inset 1.0pt; border-style:none; width:52.55pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1597,7 +1587,7 @@ D. Logistiek personeel (klasse 2, 3 of 4)<br>
 (5) ofwel 1 administratief en 1 logistiek, ofwel 0,5 administratief en 1,5 logistiek<br>
 <br>
 E. Bijzondere functies<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
@@ -1621,9 +1611,6 @@ E. Bijzondere functies<br>
 			</td>
 			<td style="width:36.15pt">
 			<p>Categorie 6</p>
-			</td>
-			<td style="width:45.4pt">
-			<p>Categorie 7</p>
 			</td>
 		</tr>
 		<tr>
@@ -1655,9 +1642,6 @@ E. Bijzondere functies<br>
 			en voor<br>
 			begeleid<br>
 			zelfstandig wonen</p>
-			</td>
-			<td style="width:45.4pt">
-			<p>Diensten voor pleegzorg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1711,9 +1695,6 @@ E. Bijzondere functies<br>
 			<td style="width:36.15pt">
 			<p>16</p>
 			</td>
-			<td style="width:45.4pt">
-			<p>Vanaf 36</p>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:40.7pt">&nbsp;</td>
@@ -1766,9 +1747,6 @@ E. Bijzondere functies<br>
 			<td style="width:36.15pt">
 			<p>1</p>
 			</td>
-			<td style="width:45.4pt">
-			<p>0,5 + 0,5 per schijf van 36 minderjarigen</p>
-			</td>
 		</tr>
 		<tr>
 			<td style="width:40.7pt">
@@ -1795,7 +1773,6 @@ E. Bijzondere functies<br>
 			<td style="width:36.15pt">
 			<p>vanaf capaciteit 32 : 0,25 per 8</p>
 			</td>
-			<td style="width:45.4pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
@@ -1807,14 +1784,15 @@ E. Bijzondere functies<br>
 
 ### BIJLAGE 3.
 
-Bijlage 3. - Subsidies voor het verblijf van de minderjarigen<br>
+<p>Bijlage 3. - Subsidies voor het verblijf van de minderjarigen<br>
 <br>
-De tarieven van de subsidies die per dag en per minderjarige aan de erkende en niet erkende voorzieningen worden toegekend om de uitgaven te vergoeden voor het verblijf van de minderjarigen, worden naargelang de voorzieningen en de leeftijd van de minderjarigen vastgesteld als volgt :<br>
+De tarieven van de subsidies die per dag en per minderjarige aan de erkende en niet erkende voorzieningen worden toegekend om de uitgaven te vergoeden voor het verblijf van de minderjarigen, worden naargelang de voorzieningen en de leeftijd van de minderjarigen vastgesteld als volgt :</p>
+
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
 			<td>
-			<p>Soort voorziening</p>
+			<p>Soort voorziening<!--?xml:namespace prefix = o /--></p>
 			</td>
 			<td colspan="2">
 			<p>Subsidie per dag</p>
@@ -1859,55 +1837,6 @@ De tarieven van de subsidies die per dag en per minderjarige aan de erkende en n
 		</tr>
 		<tr>
 			<td>
-			<p>Categorie 7 met recht op kinderbijslag</p>
-			</td>
-			<td>
-			<p>-12 jaar</p>
-			</td>
-			<td>
-			<p>+12 jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>
-			<p>12,00 euro</p>
-			</td>
-			<td>
-			<p>12,91 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Categorie 7 zonder recht op kinderbijslag</p>
-			</td>
-			<td>
-			<p>-12 jaar</p>
-			</td>
-			<td>
-			<p>+12 jaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-			<td>
-			<p>17,92 euro</p>
-			</td>
-			<td>
-			<p>19,36 euro</p>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			<p>Categorie 7 aan de dienst voor pleegzorg (artikel 39, tweede lid)</p>
-			</td>
-			<td>
-			<p>0,25 euro</p>
-			</td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>
 			<p>Niet-erkende voorzieningen</p>
 			</td>
 			<td>
@@ -1929,10 +1858,8 @@ De tarieven van de subsidies die per dag en per minderjarige aan de erkende en n
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-<br>
-<br>
-Die bedragen zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2009.
+<p><br>
+Die bedragen zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2009.</p>
 
 ### BIJLAGE 4.
 
@@ -1940,7 +1867,7 @@ Die bedragen zijn gekoppeld aan de spilindex die van kracht is op 1 januari 2009
 
 ### BIJLAGE 5.
 
-Subsidies voor de werking en de infrastructuur<BR><BR>A. De maandelijkse   subsidies om de uitgaven te vergoeden voor de infrastructuur en de   werkingskosten van de erkende voorzieningen worden per categorie van   voorzieningen en met inachtneming van de capaciteit vastgesteld als volgt:<BR>1°   categorie 1 en 2 . . . . . 277,76 euro per capaciteitseenheid;<BR>2° categorie 3   . . . . . 292,76 euro per capaciteitseenheid;<BR>3° categorie 4 . . . . . 169,41   euro per capaciteitseenheid; <BR>4° categorie 5 en 6 . . . . . 105,82 euro per   capaciteitseenheid. <BR><BR>B. De subsidie om de uitgaven te vergoeden voor de   infrastructuur en de werkingskosten van de erkende voorzieningen van categorie 7   wordt vastgesteld als volgt: een toelage van 2,09 euro per dag en per begeleide   minderjarige. <BR><BR>Deze bedragen zijn gekoppeld aan de spilindex van kracht   op 1 januari 2007.
+Subsidies voor de werking en de infrastructuur<BR><BR>A. De maandelijkse   subsidies om de uitgaven te vergoeden voor de infrastructuur en de   werkingskosten van de erkende voorzieningen worden per categorie van   voorzieningen en met inachtneming van de capaciteit vastgesteld als volgt:<BR>1°   categorie 1 en 2 . . . . . 277,76 euro per capaciteitseenheid;<BR>2° categorie 3   . . . . . 292,76 euro per capaciteitseenheid;<BR>3° categorie 4 . . . . . 169,41   euro per capaciteitseenheid; <BR>4° categorie 5 en 6 . . . . . 105,82 euro per   capaciteitseenheid.&nbsp;<BR><BR>Deze bedragen zijn gekoppeld aan de spilindex   van kracht op 1 januari 2007.
 
 ### BIJLAGE 6
 
@@ -1956,8 +1883,8 @@ Bijlage 8. - De standaarden van een multifunctioneel centrum<br /><br />1. Profi
 
 ### BIJLAGE 9.
 
-Typemodules en modules voor organisaties voor bijzondere jeugdzorg<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Typemodule       <TD>Module       <TD>Functie       <TD>F(requentie)<BR>I(intensiteit)<BR>D(uur)       <TD>Aantal keer in te zetten/jaar       <TD>Gewicht<BR>    <TR>      <TD>Contextbegeleiding       <TD>Contextbegeleiding met hoge intensiteit       <TD>Begeleiding       <TD>F : wekelijks<BR>I : 3 uur<BR>D : 6 maanden       <TD>2       <TD>3<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;Contextbegeleiding met middenintensiteit       <TD>Begeleiding       <TD>F : wekelijks<BR>I : 2 uur<BR>D : 6 maanden       <TD>2       <TD>2<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;Contextbegeleiding met basisintensiteit       <TD>Begeleiding       <TD>F : wekelijks<BR>I : 1 uur<BR>D : 6 maanden       <TD>2       <TD>1<BR>    <TR>      <TD>Dagbegeleiding in groep       <TD>Dagbegeleiding in groep       <TD>Begeleiding       <TD>F : werkdagen<BR>I : 3 uur<BR>D : 6 maanden       <TD>2       <TD>2<BR>    <TR>      <TD>Verblijf van gemiddeld 1 tot 3 nachten per week       <TD>Verblijf van gemiddeld 1 tot 3 nachten per week       <TD>Verblijf       <TD>F : 1-3/week<BR>D : 6 maanden       <TD>2       <TD>4<BR>    <TR>      <TD>Verblijf van gemiddeld 4 tot 7 nachten per week       <TD>Verblijf van gemiddeld 4 tot 7 nachten per week       <TD>Verblijf       <TD>F : 4-7/week<BR>D : 6 maanden       <TD>2       <TD>4<BR>    <TR>      <TD>Kortdurend (crisis)verblijf       <TD>Kortdurend (crisis)verblijf       <TD>Verblijf       <TD>D : max. 2 weken       <TD colSpan=2 align=middle>Cf. typemodules verblijf<BR>    <TR>      <TD>Verblijf van gemiddeld 1 tot 3 nachten per week in, met toepassing van         artikel 13, 2°       <TD>Verblijf van gemiddeld 1 tot 3 nachten per week in een 1bisvoorziening         <TD>Verblijf       <TD>F : 1-3/week<BR>D : 6 maanden       <TD>2       <TD>4,5<BR>    <TR>      <TD>Verblijf van gemiddeld 4 tot 7 nachten per week in toepassing van         artikel 13, 2°       <TD>Verblijf van gemiddeld 4 tot 7 nachten per week in een 1bisvoorziening         <TD>Verblijf       <TD>F : 4-7/week<BR>D : 6 maanden       <TD>2       <TD>4,5<BR>    <TR>      <TD>Kortdurend (crisis)verblijf in toepassing van artikel 13, 2°       <TD>Kortdurend (crisis)verblijf in een 1bisvoorziening       <TD>Verblijf       <TD>D : max. 2 weken       <TD colSpan=2 align=middle>Cf. typemodules verblijf<BR>    <TR>      <TD>Contextbegeleiding in functie van autonoom wonen       <TD>Contextbegeleiding in functie van autonoom wonen met een         middenintensiteit       <TD>Begeleiding       <TD>F : wekelijks<BR>I : 2 uur<BR>D : 6 maanden       <TD>2       <TD>2<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;Contextbegeleiding in functie van autonoom wonen met een         basisintensiteit       <TD>Begeleiding       <TD>F : wekelijks<BR>I : 1 uur<BR>D : 6 maanden       <TD>2       <TD>1<BR>    <TR>      <TD>Ondersteunende begeleiding       <TD>Ondersteunende begeleiding       <TD>Begeleiding       <TD>F : werkdagen<BR>D : 2 weken       <TD>12 minderjarigen       <TD>5<BR></TD></TR></TBODY></TABLE>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/07/31_1.pdf#page=48">Bijlage   9</A></P>
 
 ### BIJLAGE 10.
 
-Subsidiëring van organisaties voor bijzondere jeugdzorg<BR>a) subsidiëring   van organisaties voor bijzondere jeugdzorg vanaf 1 januari 2013<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Module       <TD>Personeel       <TD>Extra/jaar anciënniteit       <TD>Supplement       <TD>Supplement extra/jaar anciënniteit       <TD>Werking       <TD>Totaal       <TD>Gewicht per module       <TD>Kosten per module op basis van<BR>5 jaar anciënniteit<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD><BR>    <TR>      <TD>Verblijf - 12 jaar       <TD>7.456,14       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.759,91       <TD>10.037,05       <TD>4,0       <TD>40.148,18<BR>    <TR>      <TD>Verblijf 0-18 jaar       <TD>7.456,14       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.848,69       <TD>10.125,83       <TD>4,0       <TD>40.503,30<BR>    <TR>      <TD>Verblijf + 12 jaar       <TD>7.456,14       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.937,47       <TD>10.214,61       <TD>4,0       <TD>40.858,42<BR>    <TR>      <TD>Verblijf met toepassing van artikel. 13, 2° 1bis 0,5 punt       <TD>7.456,14       <TD>179,58       <TD>0,00       <TD>0,00       <TD>0,00       <TD>7.456,14       <TD>0,5       <TD>3.728,07<BR>    <TR>      <TD>Dagbegeleiding in groep       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>1.211,56       <TD>8.689,90       <TD>2,0       <TD>17.379,80<BR>    <TR>      <TD>Contextbegeleiding basisintensiteit       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>1,0       <TD>8.337,38<BR>    <TR>      <TD>Contextbegeleiding middenintensiteit       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>2,0       <TD>16.674,76<BR>    <TR>      <TD>Contextbegeleiding hoge intensiteit       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>3,0       <TD>25.012,14<BR>    <TR>      <TD>Contextbegeleiding in functie van autonoom wonen basisintensiteit       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>1,0       <TD>8.337,38<BR>    <TR>      <TD>Contextbegeleiding in functie van autonoom wonen middenintensiteit       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>2,0       <TD>16.674,76<BR>    <TR>      <TD>Ondersteunende begeleiding       <TD>7.456,14       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.337,38       <TD>5 punten per 12 jongeren       <TD>41.686,90<BR></TD></TR></TBODY></TABLE><BR>Deze bedragen zijn gekoppeld aan   de spilindex die van kracht is op 1 juli 2012.<BR>b) subsidiëring van   organisaties voor bijzondere jeugdzorg vanaf 1 januari 2014<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Module       <TD>Personeel       <TD>Extra/jaar anciënniteit       <TD>Supplement       <TD>Supplement extra/jaar anciënniteit       <TD>Werking       <TD>Totaal       <TD>Gewicht per module       <TD>Kosten per module op basis van 5 jaar anciënniteit<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD>&nbsp;       <TD><BR>    <TR>      <TD>Verblijf - 12 jaar       <TD>7.463,58       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.759,91       <TD>10.044,48       <TD>4,0       <TD>40.177,92<BR>    <TR>      <TD>Verblijf 0-18 jaar       <TD>7.463,58       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.848,69       <TD>10.133,26       <TD>4,0       <TD>40.533,04<BR>    <TR>      <TD>Verblijf + 12 jaar       <TD>7.463,58       <TD>179,58       <TD>820,99       <TD>19,75       <TD>1.937,47       <TD>10.222,04       <TD>4,0       <TD>40.888,16<BR>    <TR>      <TD>Verblijf met toepassing van artikel. 13, 2° 1bis 0,5 punt       <TD>7.463,58       <TD>179,58       <TD>0,00       <TD>0,00       <TD>0,00       <TD>7.463,58       <TD>0,5       <TD>3.731,79<BR>    <TR>      <TD>Dagbegeleiding in groep       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>1.211,56       <TD>u8.697,34       <TD>2,0       <TD>17.394,68<BR>    <TR>      <TD>Contextbegeleiding basisintensiteit       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>1,0       <TD>8.344,82<BR>    <TR>      <TD>Contextbegeleiding middenintensiteit       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>2,0       <TD>16.689,64<BR>    <TR>      <TD>Contextbegeleiding hoge intensiteit       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>3,0       <TD>25.034,46<BR>    <TR>      <TD>Contextbegeleiding in functie van autonoom wonen basisintensiteit       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>1,0       <TD>8.344,82<BR>    <TR>      <TD>Contextbegeleiding in functie van autonoom wonen middenintensiteit       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>2,0       <TD>16.689,64<BR>    <TR>      <TD>Ondersteunende begeleiding       <TD>7.463,58       <TD>179,58       <TD>22,20       <TD>0,00       <TD>859,04       <TD>8.344,82       <TD>5 punten per 12 jongeren       <TD>41.724,10<BR></TD></TR></TBODY></TABLE><BR>Deze bedragen zijn gekoppeld aan   de spilindex van kracht op 1 juli 2012.
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/07/31_1.pdf#page=52">Bijlage   10.</A></P>
