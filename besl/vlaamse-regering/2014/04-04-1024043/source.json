@@ -2,16 +2,16 @@
   "codex_id": 1024043,
   "title": "Besluit van de Vlaamse Regering van 2014-04-04 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 10 november 2011 tot bepaling van de nadere regelen voor de opvolging van de realisatie van het bindend sociaal objectief en tot bepaling van de methodologie en de criteria voor de uitvoering van een tweejaarlijkse voortgangstoets en houdende wijziging van diverse besluiten betreffende het woonbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024043/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "4b3e7e979d7162bb470c660d5b2700a8b32765cf392bd254efd407e2d6972ec5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024043/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "859a7246f7eaed87f3e183e150745e5a93065fea1765c9ca7325a69328d39d72",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024043&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2014-04-04",
   "gazette": "2014-04-25",
   "numac": 2014035449,
   "document_start": "2014-05-05",
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
