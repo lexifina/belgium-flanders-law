@@ -70,39 +70,39 @@ De Vlaamse regering bepaalt de datum van inwerkingtreding van de artikelen van a
 
 ### ART. 16.
 
-Er wordt een Investeringsfonds voor grond- en woonbeleid voor Vlaams Brabant opgericht.
+Het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant,   opgericht bij onderhavig artikel, wordt omgevormd tot het Vlaams   Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant.
 
 ### ART. 17.
 
-<P>Het Investeringsfonds voor grond- en woonbeleid voor Vlaams-Brabant heeft   rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare instelling   van het type A in de zin van het decreet van 8 juli 2011 houdende regeling van   de begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof. De bepalingen van het   voormelde decreet zijn op het fonds van toepassing voor zover er in dit decreet   niet wordt van afgeweken.</P>
+<P>Het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant   heeft rechtspersoonlijkheid. Het wordt opgericht als een Vlaamse openbare   instelling van het type A in de zin van het decreet van 8 juli 2011 houdende   regeling van de begroting, de boekhouding, de toekenning van subsidies en de   controle op de aanwending ervan, en de controle door het Rekenhof. De bepalingen   van het voormelde decreet zijn op het fonds van toepassing voor zover er in dit   decreet niet wordt van afgeweken.</P>
 
 ### ART. 18.
 
-De middelen van het Investeringsfonds voor grond- en woonbeleid voor Vlaamse Brabant zijn:<br /><br />1° een jaarlijkse dotatie lastens de begroting van het Vlaams Gewest;<br /><br />2° het gebeurlijk saldo op het einde van het voorgaande begrotingsjaar op het fonds;<br /><br />3° alle middelen die voortkomen uit de activiteiten van het fonds.
+De middelen van het Vlaams Financieringsfonds voor Grond- en Woonbeleid   voor Vlaams-Brabant zijn:<BR>1° een jaarlijkse en forfaitaire dotatie ten laste   van de begroting van het Vlaamse Gewest van 3.833.000 euro. Dat bedrag wordt met   ingang van het begrotingsjaar 2014 jaarlijks minstens aangepast met de   indexatieparameters die de Vlaamse Regering hanteert bij de opmaak van de   begroting van het Vlaamse Gewest;<BR>2° het gebeurlijk saldo op het einde van   het voorgaande begrotingsjaar op het fonds;<BR>3° alle middelen die voortkomen   uit de activiteiten van het fonds.
 
 ### ART. 19.
 
-Het fonds neemt voor zijn rekening de uitgaven met betrekking tot:<br />1° het grondbeleid en de realisatie van woonprojecten met een sociaal karakter in de gemeenten van de provincie Vlaams-Brabant;<br />2° de uitbouw van voorzieningen die noodzakelijk worden geacht om het Vlaams karakter en een hoogwaardige woonkwaliteit in deze regio te behouden of te bevorderen, inbegrepen het nemen van participaties.
+Het fonds heeft de opdracht om ter realisatie van het grond- en woonbeleid   in Vlaams-Brabant, renteloze leningen toe te staan aan Vlabinvest apb, opgericht   bij artikel 1 van het besluit van de provincieraad van Vlaams-Brabant van 22   oktober 2013.<BR><BR>Het fonds is er eveneens toe gehouden om de intresten die   verschuldigd zijn ingevolge leningen die vóór 1 januari 2014 werden verstrekt   door het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant en die   hij in de loop van een kalenderjaar ontvangt, op 31 december van hetzelfde   kalenderjaar als subsidie uit te keren aan Vlabinvest apb.<BR><BR>De leningen   als vermeld in het eerste lid, worden door Vlabinvest apb uitsluitend aangewend   voor de realisatie van zijn opdracht als vermeld in artikel 3 van het besluit   van de provincieraad van Vlaams-Brabant van 22 oktober 2013 op de volgende   wijzen : <BR>1° voor het toestaan van leningen aan de initiatiefnemers;<BR>2°   voor de financiering van bouwverrichtingen die door Vlabinvest apb zelf worden   gerealiseerd.<BR><BR>Het jaarlijks leningsvolume is het bedrag van de renteloze   leningen die het fonds jaarlijks kan toestaan aan Vlabinvest apb. Dit jaarlijks   leningsvolume wordt jaarlijks beperkt tot een plafond dat is samengesteld uit de   som van : <BR>1° de jaarlijkse en forfaitaire dotatie als vermeld in artikel 18,   eerste lid, 1°;<BR>2° de ontvangen terugbetalingen van de leningen, zowel deze   toegestaan aan initiatiefnemers vóór 1 januari 2014 door het Investeringsfonds   voor Grond- en Woonbeleid voor Vlaams-Brabant als de renteloze leningen   verstrekt door het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor   Vlaams-Brabant aan Vlabinvest apb vanaf 1 januari 2014 uitgezonderd de op deze   leningen verschuldigde intresten;<BR>3° het niet-belaste saldo van   niet-aangewende middelen door het Investeringsfonds voor Grond- en Woonbeleid   voor Vlaams-Brabant op 31 december 2013. Het niet-belaste saldo van de   niet-aangewende middelen omvat de liquide middelen en de nog te vorderen   dotaties, en de andere werkelijke ontvangsten en uitgaven die op de begrotings-   uitvoering van het begrotingsjaar 2013 werden aangerekend, maar die eind 2013   nog moeten worden betaald, verminderd met het nog niet opgenomen gedeelte van de   leningen die vóór 1 januari 2014 bij overeenkomst werden toegezegd;<BR>4° het   niet-aangewende saldo van de onder punt 1°, 2° en 3° vermelde middelen van het   voorgaande begrotingsjaar.<BR><BR>In de begroting wordt er een   verbintenissenmachtiging ingeschreven ten belope van het jaarlijks leningsvolume   om renteloze leningen toe te staan aan Vlabinvest apb.<BR><BR>De Vlaamse   Regering bepaalt de verdere algemene voorwaarden waaronder de in het eerste lid   vermelde leningen worden toegestaan aan Vlabinvest apb.<BR><BR>In het derde lid   wordt verstaan onder initiatiefnemers : <BR>1° de Vlaamse Maatschappij voor   Sociaal Wonen;<BR>2° een sociale huisvestingsmaatschappij;<BR>3° een gemeente of   een intergemeentelijk samenwerkingsverband;<BR>4° een openbaar centrum voor   maatschappelijk welzijn en een vereniging als vermeld in titel VIII, hoofdstuk   I, van het decreet van 19 december 2008 betreffende de organisatie van openbare   centra voor maatschappelijk welzijn;<BR>5° het Vlaams Woningfonds;<BR>6° de   provincie Vlaams-Brabant.
 
 ### ART. 19bis.
 
-Het fonds kan voor het vervullen van zijn taak onroerende goederen verwerven, ze vervreemden of er zakelijke rechten op vestigen. Het kan tot onteigening ten algemene nutte overgaan, na machtiging van de Vlaamse regering. [ <span class="reference">(ing. decr. 22 december 1995, art. 3, I: 1 januari 1996)</span> ]
+<P>...</P>
 
 ### ART. 19ter.
 
-Voor de toepassing van het Wetboek der registratie-, hypotheek- en griffierechten en van de regelgeving inzake de belasting over de toegevoegde waarde, telkens als die refereren aan de sociale huisvestingsmaatschappijen die conform gewestelijke regelgeving erkend zijn, worden woningen die deel uitmaken van woonprojecten met sociaal karakter waarbij een erkende sociale huisvestingsmaatschappij in de zin van artikel 40 van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode optreedt als initiatiefnemer, erkend als sociale woningen gerealiseerd door die sociale huisvestingsmaatschappij.
+<P>...</P>
 
 ### ART. 20.
 
-Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de Vlaamse Maatschappij voor Sociaal Wonen wordt een overeenkomst gesloten met betrekking tot het ter beschikking stellen aan het fonds van de nodige diensten, uitrusting, installaties en personeelsleden. De Vlaamse Maatschappij voor Sociaal Wonen ontvangt hiervoor jaarlijks een kostenvergoeding lastens de begroting van het fonds.
+Het fonds wordt beheerd door de Vlaamse regering. Tussen het fonds en de   Vlaamse Maatschappij voor Sociaal Wonen wordt een overeenkomst gesloten met   betrekking tot het ter beschikking stellen aan het fonds van de nodige   diensten.
 
 ### ART. 21.
 
-In het raam van de opdracht omschreven in artikel 19, beschikt de Vlaamse regering over de kredieten van het fonds voor al wat dienen kan in het raam van het sociaal grond- en woonbeleid voor Vlaams-Brabant.
+<P>...</P>
 
 ### ART. 22.
 
-De gebeurlijke rentevergoedingen op thesauriemiddelen voortvloeiend uit het eigen thesauriebeheer worden gestort in de middelenbegroting van de Vlaamse Gemeenschap.
+<P>...</P>
 
 ### ART. 23.
 
@@ -444,7 +444,7 @@ Artikel 93 heeft uitwerking met ingang van 1 januari 1992.
 
 ### ART. 95.
 
-§ 1. De « Internationale Luchthaven Antwerpen » wordt opgericht als dienst met afzonderlijk beheer, overeenkomstig artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit. Onverminderd de mogelijkheid voor de Vlaamse Regering om bepaalde onderdelen van het beheer en de uitbating aan derden toe te vertrouwen, heeft zij als opdracht het beheer en de uitbating van de Luchthaven Antwerpen.<br /><br />§ 2. De Vlaamse Regering bepaalt de regels die van toepassing zijn op het financieel en materieel beheer van de in § 1 genoemde dienst met afzonderlijk beheer.<br /><br />Deze regelen omvatten onder meer :<br />1° het opmaken en het bekendmaken van een begroting en van rekeningen;<br />2° de controle van de rekeningen door het Rekenhof dat ze ter plaatse kan verrichten;<br />3° het beperken van de uitgaven binnen de grenzen van de ontvangsten en van de goedgekeurde limitatieve kredieten;<br />4° de mogelijkheid om, met ingang van het jaar, de bij het verstrijken van het vorige jaar beschikbare geldmiddelen te gebruiken;<br />5° het bijhouden van een vermogenscomptabiliteit en het opmaken van een inventaris van het vermogen;<br />6° de behandeling en de bewaring van de gelden en de waarden door een tegenover het Rekenhof verantwoordelijke rekenplichtige;<br />7° de beperking in de tijd van de overdrachten waartoe machtiging werd verleend.<br /><br />§ 3. Aan de « Internationale Luchthaven Antwerpen » kan een dotatie verleend worden ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap.
+...
 
 ## HOOFDSTUK XI MONUMENTEN EN LANDSCHAPPEN
 
