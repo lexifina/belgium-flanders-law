@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023922,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-07 houdende de overdracht van een personeelslid van het Agentschap voor Infrastructuur in het Onderwijs aan het Departement Onderwijs en Vorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023922/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "2136e84bcaf62b5d55f1a41920cd26622b74a412d9be30333d2355fc27f9abc7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023922&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-02-07",
+  "gazette": "2014-03-19",
+  "numac": 2014035250,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
