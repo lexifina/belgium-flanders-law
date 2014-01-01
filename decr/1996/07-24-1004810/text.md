@@ -46,7 +46,7 @@ De erkenning kan door de Vlaamse regering onverwijld en met onmiddellijke ingang
 
 ### ART. 10bis.
 
-De Vlaamse Regering kan de erkende instellingen voor schuldbemiddeling subsidiëren. Zij bepaalt hiertoe de regels met betrekking tot de aanvraag, de vaststelling, de toekenning en de vereffening van de subsidie.
+De Vlaamse Regering kan de erkende instellingen voor schuldbemiddeling en   de samenwerkingsverbanden van erkende instellingen voor schuldbemiddeling   subsidiëren binnen de beschikbare begrotingskredieten. Ze bepaalt de regels voor   de voorwaarden, de aanvraag, de vaststelling, de toekenning en de vereffening   van de subsidie.
 
 ## HOOFDSTUK III [... (opgeh. decr. 17 februari 2017, art. 17, I: 1 januari 2018)]
 
