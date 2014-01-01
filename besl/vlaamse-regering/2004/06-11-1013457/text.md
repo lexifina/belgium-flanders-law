@@ -26,7 +26,7 @@ Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt aangeboden doo
 
 ### ART. 6.
 
-Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt aangeboden door de centra voor algemeen welzijnswerk met toepassing van het decreet van 19 december 1997 betreffende het algemeen welzijnswerk of in het kader van projecten die krachtens artikel 16, eerste lid, van dat decreet worden gesubsidieerd.
+Onder de integrale jeugdhulp valt de jeugdhulpverlening die wordt   aangeboden door de centra voor algemeen welzijnswerk met toepassing van het   decreet van 8 mei 2009 betreffende het algemeen welzijnswerk of in het kader van   projecten die krachtens artikel 19, eerste lid, van het voormelde decreet worden   gesubsidieerd.
 
 ### ART. 7.
 
