@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024254,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-28 tot wijziging van de regelgeving over het vakantiegeld en de eindejaarstoelage voor de personeelsleden van het onderwijs, de centra voor leerlingenbegeleiding, de hogescholen en de centra voor basiseducatie en voor de contractuele personeelsleden in het onderwijs betaald door de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024254/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "12b08ec3f498cb9e56c63e905850f6cb743a9fa7552a9c6784a2d5dd6cc13207",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024254&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-03-28",
+  "gazette": "2014-07-02",
+  "numac": 2014202659,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
