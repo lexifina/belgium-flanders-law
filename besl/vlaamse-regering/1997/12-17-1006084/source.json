@@ -2,16 +2,16 @@
   "codex_id": 1006084,
   "title": "Besluit van de Vlaamse Regering van 1997-12-17 betreffende de boekhouding en de administratieve organisatie van de openbare centra voor maatschappelijk welzijn",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006084/VolledigDocument?datum=2009-07-01",
-  "source_sha256": "b7199be61481d057fd3b9ab08d6898c70051cab6c0f8f625b9fe86f03daa800f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006084/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "9a3c1f187c83e816f8fa170ab28dde4c0960bc0d59cb14bf9efa0f015c6c9ade",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006084&param=informatie",
-  "as_of": "2009-07-01",
+  "as_of": "2014-01-01",
   "made": "1997-12-17",
   "gazette": "1998-04-08",
   "numac": 1998035375,
   "document_start": null,
   "document_end": "2013-12-31",
-  "in_force": "2009-07-01",
+  "in_force": "2014-01-01",
   "article_versions": 100,
-  "record_form": "consolidated version as in force on 2009-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
