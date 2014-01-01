@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023674,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 tot aanduiding van de ambtenaren vermeld in 44, 55, 57 en 58 van het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023674/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "999e2f537989c3794f38acfe80a3a07c62c53474fc18e8ffea4f347af65e4857",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023674&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2014-01-29",
+  "numac": 2014200216,
+  "document_start": "2014-01-01",
+  "document_end": "2014-11-12",
+  "in_force": "2014-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
