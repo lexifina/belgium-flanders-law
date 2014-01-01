@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024588,
+  "title": "Ministerieel besluit van 2014-05-14 tot wijziging van het ministerieel besluit van 19 augustus 2009 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden voor wat betreft de uitvoering van de gedeelde bevoegdheden met het oog op de inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid, voor de campagne 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024588/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "1422e4191b148b1dc84211dfae58bb18bed39c3320473411392a698deb8eed85",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024588&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-05-14",
+  "gazette": "2014-09-23",
+  "numac": 2014035885,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
