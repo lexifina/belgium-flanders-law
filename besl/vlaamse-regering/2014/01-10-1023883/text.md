@@ -20,6 +20,54 @@ In artikel 10, 6°, van het besluit van de Vlaamse Regering van 4 juni 2004   to
 
 ## HOOFDSTUK 2 Wijzigingen naar aanleiding van de afschaffing van koppelsubsidies
 
+### ART. 4.
+
+&nbsp;In artikel 5, § 1, van het besluit van de Vlaamse Regering van 26   april 1995 tot vaststelling van een premie voor werken aan beschermde   archeologische goederen, worden de volgende wijzigingen aangebracht:<BR>1° de   zinsnede ", de betrokken provincie(s)" wordt opgeheven;<BR>2° in punt 1° wordt   het woord "Provincie" vervangen door de woorden "Regionaal openbaar   bestuur";<BR>3° in punt 2° wordt het getal "60" vervangen door het getal   "80";<BR>4° in punt 2° wordt de zinsnede: "Provincie: 20%" opgeheven;<BR>5° in   punt 3° wordt het getal "60" vervangen door het getal "80";<BR>6° in punt 3°   wordt de zinsnede: "Provincie: 20%" opgeheven.<BR>
+
+### ART. 5.
+
+&nbsp;In artikel 1, 4°, van het besluit van de Vlaamse Regering van 14   december 2001 houdende vaststelling van het premiestelsel voor   restauratiewerkzaamheden aan beschermde monumenten, wordt de zinsnede ", de   provincie" opgeheven.<BR>
+
+### ART. 6.
+
+&nbsp;In artikel 3, § 6, van hetzelfde besluit worden de woorden "of   provincie" opgeheven.<BR>
+
+### ART. 7.
+
+&nbsp;In artikel 11, § 2, van hetzelfde besluit, gewijzigd bij het besluit   van de Vlaamse Regering van 23 juni 2006, worden de volgende wijzigingen   aangebracht:<BR>1° in punt 1° wordt de zinsnede ", de provincie"   opgeheven;<BR>2° in punt 2° wordt de zinsnede ", de provincie"   opgeheven.<BR>
+
+### ART. 8.
+
+&nbsp;In artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van   de Vlaamse Regering van 30 april 2009, worden de volgende wijzigingen   aangebracht:<BR>1° in punt 1° wordt het getal "25" vervangen door het getal   "32,5";<BR>2° in punt 2° worden de woorden "de provincie en" opgeheven;<BR>3° in   punt 2° wordt het woord "elk" opgeheven.<BR>
+
+### ART. 9.
+
+In artikel 16 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 23 juni 2006, worden de volgende wijzigingen   aangebracht:<BR>1° het getal "50" wordt vervangen door het getal "65";<BR>2° de   woorden "de provincie en" worden opgeheven;<BR>3° het woord "elk" wordt   opgeheven.<BR>
+
+### ART. 10.
+
+&nbsp;In artikel 18, § 1, van hetzelfde besluit, gewijzigd bij de   besluiten van de Vlaamse Regering van 20 september 2002, 23 juni 2006 en 22 juli   2011, worden de volgende wijzigingen aangebracht:<BR>1° het getal "50" wordt   vervangen door het getal "65";<BR>2° de woorden "de provincies en" worden   opgeheven;<BR>3° het woord "elk" wordt opgeheven.<BR>
+
+### ART. 11.
+
+In artikel 20 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 20 september 2002, 23 juni 2006 en 30 april 2009, worden de   volgende wijzigingen aangebracht:<BR>1° in paragraaf 1, 1°, wordt het getal "60"   vervangen door het getal "80";<BR>2° in paragraaf 1 wordt punt 2°   opgeheven;<BR>3° in paragraaf 2, 1°, wordt het getal "60" vervangen door het   getal "80";<BR>4° in paragraaf 2 wordt punt 2° opgeheven;<BR>5° paragraaf 4   wordt vervangen door wat volgt:<BR>" § 4. Onverminderd de regelgeving inzake het   administratief toezicht dienen de lokale besturen het restauratiedossier en een   afschrift van het gemotiveerde gunningbesluit van de aanstelling van de   ontwerper in bij het agentschap.".<BR>
+
+### ART. 12.
+
+&nbsp;In artikel 21 van hetzelfde besluit, gewijzigd bij de besluiten van   de Vlaamse Regering van 20 september 2002 en 23 juni 2006, worden de volgende   wijzigingen aangebracht:<BR>1° in paragraaf 2, 1°, wordt het getal "60"   vervangen door het getal "90";<BR>2° in paragraaf 2 wordt punt 2°   opgeheven;<BR>3° in paragraaf 2, 3°, worden de woorden "de andere regionale   besturen" vervangen door de woorden "het regionaal bestuur";<BR>4° in paragraaf   3 worden de woorden "De regionale besturen bezorgen" vervangen door de woorden   "Onverminderd de regelgeving inzake het toezicht bezorgen de regionale   besturen".<BR>
+
+### ART. 13.
+
+In artikel 27 van hetzelfde besluit, worden de volgende wijzigingen   aangebracht:<BR>1° de woorden "de gouverneur van de betrokken provincie" worden   vervangen door de woorden "het agentschap";<BR>2° de zin "Binnen 50   kalenderdagen bezorgt de gouverneur het gunningdossier aan de Vlaamse Regering,   aangevuld met een verslag inzake het administratief toezicht." wordt   opgeheven.<BR>
+
+### ART. 14.
+
+In hetzelfde besluit, het laatst gewijzigd bij 29 juni 2012 wordt een   artikel 33/1 ingevoegd, dat luidt als volgt:<BR>"Art. 33/1. Voor   restauratiepremies die vastgesteld zijn voor 1 januari 2014 neemt de Vlaamse   overheid het premiepercentage van de provincie over voor zover de voorschotten   of het saldo nog niet aangevraagd zijn voor 16 november 2013."   .<BR>
+
 ## HOOFDSTUK 3 Opheffing van het subsidiebesluit voor de landschapswerking van regionale landschappen
+
+### ART. 15.
+
+Het besluit van de Vlaamse Regering van 21 januari 2011 tot vaststelling   van de algemene regels voor de erkenning en de subsidiëring van de   landschapswerking van regionale landschappen wordt opgeheven.<BR>
 
 ## HOOFDSTUK 4 Slotbepalingen
