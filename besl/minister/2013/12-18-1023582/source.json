@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023582,
+  "title": "Ministerieel besluit van 2013-12-18 tot wijziging van artikel 2 van het ministerieel besluit van 16 december 2010 houdende uitvoering van artikelen 2 en 50 van het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de gemeenschappelijke ordening der markten in de sector groenten en fruit voor wat betreft de erkenning van producentenorganisaties, de actiefondsen, de operationele programma's en de toekenning van de financiële steun",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023582/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "1ac35df7cbaac4bfc3e022f4470e92e996504df394b63e5e97eafd6a17522c90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023582&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-18",
+  "gazette": "2014-01-16",
+  "numac": 2013036227,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
