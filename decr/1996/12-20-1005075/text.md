@@ -142,11 +142,11 @@ De havenbesturen in de vorm van een autonoom gemeentebedrijf met rechtspersoonli
 
 ### ART. 29.
 
-§ 1. Erfpachten die toegestaan worden door het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams Brabant met toepassing van artikel 19bis van het decreet van 25 juni 1992 houdende diverse bepalingen tot begeleiding van de begroting 1992, worden verleend tegen een jaarlijkse erfpachtcijns van 1% van de venale waarde van de grond.<br /><br />§ 2. Deze erfpachtcijns wordt bepaald door het Investeringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant en gendexeerd rekening houdende met het gezondheidsindexcijfer, met dien verstande dat het basisindexcijfer het cijfer is van de maand voorafgaand aan het sluiten van de erfpachtovereenkomst.<br /><br />De aanpassingen, zowel stijgingen als dalingen, zullen automatisch en rechtens gebeuren overeenkomstig de volgende formule op de verjaardag van het sluiten van de erfpachtovereenkomst:<br /><br />basiscijns x nieuw indexcijfer = nieuwe cijns<br /><br />basisindexcijfer<br /><br />Het nieuwe indexcijfer is het cijfer van de maand die de verjaardag van het sluiten van de erfpachtovereenkomst vooraf-gaat.<br /><br />§ 3. Bij laattijdige betaling van de cijns zullen de wettelijke interesten van rechtswege verschuldigd zijn vanaf de datum waarop de cijns verschuldigd is.
+<P>...</P>
 
 ### ART. 30.
 
-§ 1. (niet opgenomen)<br /><br />(Wijzigt artikel 3 van het decreet van 16 juni 1982 houdende maatregelen voor een sociaal grondbeleid)<br /><br />§ 2. (niet opgenomen)<br /><br />(Wijzigt de artikelen 6, 7 en 9 van hetzelfde decreet)<br /><br />§ 3. (niet opgenomen)<br /><br />(Wijzigt artikel 6 van hetzelfde decreet)<br /><br />§ 4. (niet opgenomen)<br /><br />(Wijzigt de artikelen 8 en 10 van hetzelfde decreet)
+<P>...</P>
 
 ## HOOFDSTUK XI TEWERKSTELLING
 

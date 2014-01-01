@@ -2,16 +2,16 @@
   "codex_id": 1005075,
   "title": "Decreet van 1996-12-20 houdende bepalingen tot begeleiding van de begroting 1997",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005075/VolledigDocument?datum=2011-07-30",
-  "source_sha256": "b405d665f016c07763e0ff42e83e5f7b3376eb50d9a7ca6fcfd768d8421b244b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005075/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "eeeb2dab6c2ebfc3e12459ec25e8379474eabbd1b35969a97da65eefaa2021ed",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005075&param=informatie",
-  "as_of": "2011-07-30",
+  "as_of": "2014-01-01",
   "made": "1996-12-20",
   "gazette": "1996-12-31",
   "numac": 1996036584,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-30",
+  "in_force": "2014-01-01",
   "article_versions": 99,
-  "record_form": "consolidated version as in force on 2011-07-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
