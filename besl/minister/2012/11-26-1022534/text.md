@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-Volgende arts wordt erkend voor de periode van 1 januari 2013 tot 31   december 2013 als controlearts : <BR>Maris, Rutger, Tielt-Winge.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2013.
+...
