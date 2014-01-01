@@ -4226,10 +4226,23 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>f) restvloeistoffen, afkomstig van het vullen en het schoonmaken van apparatuur voor de toepassing van gewasbeschermingsmiddelen, met uitzondering van hand- en rugspuitapparatuur<br>
+			Opmerking : de behandeling van risicohoudende medische afvalstoffen die in aanmerking komen voor decontaminatie met vochtige hitte is niet ingedeeld in de rubriek 2.3.2, maar in rubriek 2.3.13.<br>
 			g) andere gevaarlijke afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
@@ -4256,9 +4269,33 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -4286,6 +4323,18 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
@@ -4301,9 +4350,33 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -6478,12 +6551,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
+			2.3.13<br>
 			<br>
 			<br>
-			<br>
-			&nbsp;</p>
-
-			<p>2.4.<br>
+			&nbsp;2.4.<br>
 			<br>
 			<br>
 			<br>
@@ -6667,7 +6738,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			1° de opslag vindt plaats in een geschikt recipiënt op een plaats waar maximaal twee maal per jaar gedurende maximaal zeven aansluitende kalenderdagen heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten worden opgeslagen;<br>
 			2° uiterlijk drie werkdagen na de afsluiting van de periode, vermeld in punt 1°, wordt alles opgehaald door een geregistreerd inzamelaar, afvalstoffenhandelaar of -makelaar, die daarover een overeenkomst heeft gesloten met een beheersorganisme ter uitvoering van een milieubeleidsovereenkomst of met een producent die beschikt over een goedgekeurd individueel afvalpreventie- en afvalbeheerplan;<br>
 			3° het afgiftebewijs wordt door de exploitant van de inrichting verzonden aan het beheersorganisme of de producent met een goedgekeurd afvalpreventie- en afvalbeheerplan, waarmee wordt samengewerkt;<br>
-			4° de actie wordt gekoppeld aan educatieve acties inzake preventie, hergebruik en verwerking van afgedankte elektrische en elektronische apparaten.</p>
+			Opslag en behandeling met vochtige hitte en mechanische verkleining van infectieuze afvalstoffen</p>
+
+			<p>4° de actie wordt gekoppeld aan educatieve acties inzake preventie, hergebruik en verwerking van afgedankte elektrische en elektronische apparaten.</p>
 
 			<p>Afvalbeheer in het kader van industriële emissies.<br>
 			Voor de rubrieken 2.4.1. en 2.4.3 a) en b) wordt de capaciteit bepaald op dit rubrieksniveau en niet op het niveau van de onderliggende opsplitsing van die rubrieken.<br>
@@ -6747,6 +6820,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
+			1<br>
 			<br>
 			<br>
 			<br>
@@ -6754,12 +6828,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			1</p>
+			&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
 
 			<p>&nbsp;</p>
 
@@ -6958,6 +7033,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
+			&nbsp;</p>
+
+			<p>G,O,M,T<br>
 			<br>
 			<br>
 			<br>
@@ -6965,13 +7043,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			G, M, O, T, X</p>
+			&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G, M, O, T, X</p>
 
 			<p>&nbsp;</p>
 
@@ -7139,6 +7217,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
+			A<br>
 			<br>
 			<br>
 			<br>
@@ -7146,12 +7225,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			A</p>
+			&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
 
 			<p>&nbsp;</p>
 
@@ -7379,9 +7459,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<p>J</p>
 
 			<p>&nbsp;</p>
 
@@ -7625,9 +7703,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<p>O</p>
 
 			<p>&nbsp;</p>
 
@@ -7818,8 +7894,6 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J, R</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
