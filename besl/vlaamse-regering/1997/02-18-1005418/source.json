@@ -2,16 +2,16 @@
   "codex_id": 1005418,
   "title": "Besluit van de Vlaamse Regering van 1997-02-18 tot vaststelling van de procedure voor het verkrijgen van een [voorafgaande vergunning, een] planningsvergunning en een exploitatievergunning voor intramurale en transmurale voorzieningen in de gezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005418/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "35076b88136c424328a73ebe52a548e948159cc77715307f3831fc6b893da97d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005418/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "fd046089a3f8a6a83a3e63e2e461f6fc2f3dc116078b8c624fe856d3c293b297",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005418&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2014-01-01",
   "made": "1997-02-18",
   "gazette": "1997-05-17",
   "numac": 1997035418,
   "document_start": "1997-05-17",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2014-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
