@@ -44,7 +44,7 @@ Het INBO is belast met de interne controle van zijn bedrijfsprocessen en activit
 
 ### ART. 10.
 
-De entiteit Interne Audit van de Vlaamse Gemeenschap evalueert de interne controlesystemen van het INBO en kan zo nodig administratieve onderzoeken instellen.
+Audit Vlaanderen evalueert de interne controlesystemen van het INBO en kan   zo nodig forensische audits instellen.
 
 ### ART. 11.
 
