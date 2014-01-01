@@ -36,7 +36,7 @@ De kerntaak van het agentschap omvat de regie van de kinderopvang en de organisa
 
 ### ART. 8.
 
-§ 1. Naast de kerntaken, vermeld in artikel 5, neemt het agentschap ook taken op inzake crisisopvang van jonge kinderen, inzake verstoorde opvoedingssituaties en inzake hulpverlening bij kindermishandeling.<br /><br />Het agentschap stemt deze taken af op het beleid inzake integrale jeugdzorg.<br /><br />Het agentschap neemt ook taken op zich betreffende binnenlandse en interlandelijke adoptie.<br /><br />§ 2. Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke opdrachten aan het agentschap toewijzen.
+§ 1. Naast de kerntaken, vermeld in artikel 5, neemt het agentschap met uitsluiting van pleegzorg als bedoeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg ook taken op inzake crisisopvang van jonge kinderen, inzake verstoorde opvoedingssituaties en inzake hulpverlening bij kindermishandeling.<br /><br />Het agentschap stemt deze taken af op het beleid inzake integrale jeugdzorg.<br /><br />Het agentschap neemt ook taken op zich betreffende binnenlandse en interlandelijke adoptie.<br /><br />§ 2. Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke opdrachten aan het agentschap toewijzen.
 
 ### ART. 9.
 
