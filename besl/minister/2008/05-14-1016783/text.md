@@ -14,7 +14,21 @@ Contractuele schoonmaak- en/of cateringfuncties die in het kader van   kabinetso
 
 ### ART. 2.
 
-<P>§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit   besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams   personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een   andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage   1 bij dit besluit.</P>  <P>§ 2. Het contractuele personeelslid met een bijkomende of specifieke opdracht   « schoonmaak » en/of « catering », en met één van de salarisschalen die in de   bijlage 1 aan een bijkomende of specifieke opdracht « schoonmaak » en/of «   catering » zijn verbonden, gaat over naar de eerstvolgende salarisschaal waarop   een ambtenaar met dezelfde salarisschaal in het kader van zijn functionele   loopbaan recht heeft, na evenveel jaren als voor deze ambtenaar vereist,   overeenkomstig artikel VI 109, § 1 van het Vlaams personeelsstatuut zoals dit   zal worden gewijzigd of vervangen.</P>  <P>Voor de berekening van het aantal jaren dat nodig is voor de overgang naar de   eerstvolgende salarisschaal tellen mee :<BR>1° voor de personeelsleden die op 1   januari 2013 in dienst zijn met een contract voor een bijkomende of specifieke   opdracht « schoonmaak » en/of « catering » : de perioden van tewerkstelling tot   en met 31 december 2012 bij een overheid zoals gedefinieerd in artikel VI 8, § 3   van het Vlaams personeelsstatuut van 13 januari 2006, zonder herleiding pro rata   van de prestaties, maar berekend aan 1/3 voor de eerste 12 jaar en aan 2/3 voor   het aantal jaren boven de 12 jaar;<BR>2° voor de periode vanaf 1 januari 2013 :   de effectieve of daarmee gelijkgestelde prestaties in een bijkomende of   specifieke opdracht « schoonmaak » en/of « catering » met dezelfde   rangindicie.</P>  <P>Voor de toepassing van dit besluit gelden als « gelijkgestelde prestaties »,   de prestaties of afwezigheidsperioden die voor de geldelijke anciënniteit in   aanmerking worden genomen. </P>  <P>§ 3. De barema's verbonden aan de salarisschalen A121P, A122P, A255, B101,   B102 en B103 zijn de barema's zoals gedefinieerd in de bijlage 2 bij dit   besluit.<BR><BR>§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit   besluit verwezen wordt met betrekking tot de betrekkingen van occasionele   medewerker met een sporttechnische, -pedagogische of -organisatorische   kwalificatie bij het Agentschap voor de Bevordering van de Lichamelijke   Ontwikkeling, de Sport en de Openluchtrecreatie, is de tabel zoals opgenomen in   de bijlage 3 bij dit besluit.</P>
+<p>§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage 1 bij dit besluit.</p>
+
+<p>§ 2. Het contractuele personeelslid met een bijkomende of specifieke opdracht « schoonmaak » en/of « catering », en met één van de salarisschalen die in de bijlage 1 aan een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » zijn verbonden, gaat over naar de eerstvolgende salarisschaal waarop een ambtenaar met dezelfde salarisschaal in het kader van zijn functionele loopbaan recht heeft, na evenveel jaren als voor deze ambtenaar vereist, overeenkomstig artikel VI 109, § 1 van het Vlaams personeelsstatuut zoals dit zal worden gewijzigd of vervangen.</p>
+
+<p>Voor de berekening van het aantal jaren dat nodig is voor de overgang naar de eerstvolgende salarisschaal tellen mee :<br>
+1° voor de personeelsleden die op 1 januari 2013 in dienst zijn met een contract voor een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » : de perioden van tewerkstelling tot en met 31 december 2012 bij een overheid zoals gedefinieerd in artikel VI 8, § 3 van het Vlaams personeelsstatuut van 13 januari 2006, zonder herleiding pro rata van de prestaties, maar berekend aan 1/3 voor de eerste 12 jaar en aan 2/3 voor het aantal jaren boven de 12 jaar;<br>
+2° voor de periode vanaf 1 januari 2013 : de effectieve of daarmee gelijkgestelde prestaties in een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » met dezelfde rangindicie.</p>
+
+<p>Voor de toepassing van dit besluit gelden als « gelijkgestelde prestaties », de prestaties of afwezigheidsperioden die voor de geldelijke anciënniteit in aanmerking worden genomen.</p>
+
+<p>§ 3. De barema's verbonden aan de salarisschalen A121P, A122P, A255, B101, B102 en B103 zijn de barema's zoals gedefinieerd in de bijlage 2 bij dit besluit.<br>
+<br>
+§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit besluit verwezen wordt met betrekking tot de betrekkingen van occasionele medewerker met een sporttechnische, -pedagogische of -organisatorische kwalificatie bij het Agentschap voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, is de tabel zoals opgenomen in de bijlage 3 bij dit besluit.<br>
+<br>
+§ 5. Voor een contractueel personeelslid met een bijkomende of specifieke opdracht schoonmaak en/of catering dat op 1 januari 2014 overgeheveld is van de Nationale Plantentuin van België naar de Plantentuin Meise, wordt voor de berekening van het aantal jaren dat nodig is voor de overgang naar de eerstvolgende salarisschaal, voor de periode van tewerkstelling tot en met 31 december 2013, toepassing gemaakt van de berekeningswijze, vermeld in paragraaf 2, tweede lid, 1°. Voor de periode van tewerkstelling vanaf 1 januari 2014 wordt toepassing gemaakt van de berekeningswijze, vermeld in paragraaf 2, tweede lid, 2°.</p>
 
 ### ART. 3.
 
@@ -1818,6 +1832,11 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<td>
 			<p>A212</p>
 			</td>
+		</tr>
+		<tr>
+			<td>12.2 Agentschap Plantentuin Meise</td>
+			<td>Schoonmaak- en cateringpersoneel</td>
+			<td>D111</td>
 		</tr>
 	</tbody>
 </table>
