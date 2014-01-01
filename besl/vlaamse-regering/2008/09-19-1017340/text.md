@@ -8,15 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 9 maart 2007 houdende d
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° het decreet : het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid;<br />2° het besluit inzake de beleidssubsidie : het besluit van de Vlaamse Regering van 19 juli 2007 ter uitvoering van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid - algemene bepalingen en bepalingen tot het verkrijgen van de beleidssubsidie;<br />3° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />4° het Bloso : het Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de door de Vlaamse Regering aangewezen dienst, vermeld in het decreet;<br />5° de Vlaamse Trainersschool : het samenwerkingsverband tussen Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat kaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br />6° het college : het college van burgemeester en schepenen;<br />7° de sportbeleidsplanperiode : de periode waarop het sportbeleidsplan betrekking heeft, meer bepaald de periode vanaf het tweede jaar van de bestuursperiode tot en met het eerste jaar van de daaropvolgende bestuursperiode;<br />8° de impulssubsidie : de subsidie, vermeld in artikel 2, 11°, van het decreet;<br />9° jeugdsport : sportparticipatie van kinderen en jongeren tot en met achttien jaar;<br />10° de jeugdsportbegeleider : een sporttechnische begeleider voor jeugdsport die actief is in een erkende sportvereniging;<br />11° de jeugdsportcoördinator : een sportgekwalificeerde jeugdsportbegeleider die het jeugdsportbeleid in de erkende sportvereniging coördineert op het sporttechnische, beleidsmatige en organisatorische vlak;<br />12° de erkende sportvereniging : een sportvereniging als vermeld in artikel 2, 3°, van het decreet, die aangesloten is bij een erkende Vlaamse sportfederatie en die erkend is door het gemeentebestuur;<br />13° de erkende sportfederatie : de Vlaamse sportfederatie die erkend is in het kader van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding.
+...
 
 ### ART. 2.
 
-Ter uitvoering van artikel 16 van het decreet bepaalt de Vlaamse Regering als beleidsprioriteit voor het impulsbeleid van de gemeentebesturen het volgende thema : de kwaliteit van de jeugdsportbegeleider verhogen in de sportverenigingen, aangesloten bij een erkende Vlaamse sportfederatie. De beleidsdoelstelling van de Vlaamse Regering met die impulssubsidie is het verkrijgen van meer en hoger sportgekwalificeerde jeugdsportbegeleiders en jeugdsportcoördinatoren, actief in meer erkende sportverenigingen.
+...
 
 ### ART. 3.
 
-Het impulsbeleid met het thema, vermeld in artikel 2, loopt tot en met 31 december 2013.
+...
 
 ## HOOFDSTUK II. Subsidievoorwaarden en -procedure
 
@@ -24,66 +24,66 @@ Het impulsbeleid met het thema, vermeld in artikel 2, loopt tot en met 31 decemb
 
 ### ART. 4.
 
-§ 1. Alleen gemeenten in het Nederlandstalige gebied die de beleidssubsidie genieten, kunnen een aanvraag voor het verkrijgen van de impulssubsidie indienen.<br /><br />§ 2. Rekening houdend met de bepalingen over het gemeentelijk sportbeleidsplan, vermeld in het decreet en het besluit inzake de beleidssubsidie, moet voor het impulsbeleid, in overeenstemming met artikel 16 van het decreet, een afzonderlijk inhoudelijk hoofdstuk opgenomen worden in het sportbeleidsplan. Dat hoofdstuk moet tot stand komen op basis van een interactieve bestuursstijl.<br />In het hoofdstuk, vermeld in het eerste lid, moeten de volgende elementen voor het impulsbeleid afzonderlijk aan bod komen : <br />1° de analyse en duiding van de gegevens, verzameld op basis van artikel 3, § 2, 1°, b), 1) en 2), van het besluit inzake de beleidssubsidie, met het oog op de te formuleren doelstellingen voor het impulsbeleid; <br />2° de strategische doelstellingen en de bijbehorende operationele doelstellingen inzake het impulsbeleid, met per doelstelling de vermelding van het beoogde resultaat en de indicatoren. Daarbij moeten onder andere de volgende elementen in de indicatoren opgenomen worden : het aantal jeugdsportbegeleiders, het aantal jeugdsportcoördinatoren, de sportkwalificatie van jeugdsportbegeleiders en jeugdsportcoördinatoren, het aantal sportverenigingen met jeugdsportbegeleiders of met een jeugdsportcoördinator;<br />3° de aanpak om de operationele doelstellingen te realiseren : per operationele doelstelling een omschrijving van de maatregelen, de bijbehorende timing en begroting.
+...
 
 ## Afdeling II. Bijzondere subsidievoorwaarden
 
 ### ART. 5.
 
-§ 1. Om in aanmerking te komen voor de impulssubsidie, moeten de maatregelen en acties in het kader van het impulsbeleid rechtstreeks gericht zijn op : <br />1° de verhoging van de kwaliteit van de jeugdsportbegeleider zelf inzake de begeleiding op het sporttechnische, tactische of sociaal-pedagogische vlak;<br />2° de verhoging van de kwaliteit van de jeugdsportcoördinator zelf inzake de coördinatie van het jeugdsportbeleid in de sportvereniging op het sporttechnische, beleidsmatige, sociaal-pedagogische en organisatorische vlak;<br />3° de verhoging van het aantal en van de sportkwalificatie van de jeugdsportbegeleiders en de jeugdsportcoördinatoren;<br />4° de verhoging van het aantal erkende sportverenigingen die werken met sportgekwalificeerde jeugdsportbegeleiders en die beschikken over een jeugdsportcoördinator.<br /><br />§ 2. Bij de invulling van het impulsbeleid moet expliciete aandacht gaan naar aspecten van ethisch en medisch verantwoorde sportbeoefening.<br /><br />§ 3. De impulssubsidie kan besteed worden aan : <br />1° de directe financiële ondersteuning van de erkende sportvereniging via een subsidiereglement. Bij de verdeling van de impulssubsidie kunnen alleen kwaliteitscriteria gehanteerd worden met betrekking tot : <br />a) het behalen door de jeugdsportbegeleider of door de jeugdsportcoördinator van een sportspecifiek diploma of attest van de Vlaamse Trainersschool of een ander getuigschrift, erkend door de VTS;<br />b) het volgen van bijscholingen door de jeugdsportbegeleider of de jeugdsportcoördinator;<br />c) het organiseren van bijscholingen voor de eigen jeugdsportbegeleiders;<br />d) het belonen van de sportverenigingen voor het aantal actieve sportgekwalificeerde jeugdsportbegeleiders;<br />e) het beschikken over een actieve jeugdsportcoördinator;<br />f) het geheel of gedeeltelijk vergoeden van de loonkosten van sportgekwalificeerde jeugdsportbegeleiders of jeugdsportcoördinatoren;<br />g) andere initiatieven die beantwoorden aan de voorwaarden, vermeld in artikel 2 en 5, § 1.<br />2° eigen initiatieven van de gemeente die beantwoorden aan de voorwaarden, vermeld in artikel 2 en 5, § 1. Voor die initiatieven komen de volgende uitgaven in aanmerking : <br />a) uitgaven voor het behalen door de jeugdsportbegeleider of door de jeugdsportcoördinator van een sportspecifiek diploma of attest van de Vlaamse Trainersschool of een ander getuigschrift, erkend door de VTS;<br />b) uitgaven voor het organiseren van bijscholingen, gevolgd door de jeugdsportbegeleider of de jeugdsportcoördinator;<br />c) uitgaven voor het aanstellen van sportgekwalificeerde jeugdsportbegeleiders en jeugdsportcoördinatoren op voorwaarde dat die actief de functie uitoefenen in de sportvereniging zelf; <br />d) uitgaven voor initiatieven die leiden tot nieuwe jeugdsportbegeleiders of jeugdsportcoördinatoren of die de drop-out van actieve jeugdsportbegeleiders of jeugdsportcoördinatoren tegengaan;<br />e) uitgaven in 2009 voor onderzoek tijdens het werkingsjaar 2009;<br />f) andere initiatieven die beantwoorden aan de voorwaarden, vermeld in artikel 2 en 5, § 1.<br /><br />§ 4. De meerderheid van de impulssubsidie moet ofwel jaarlijks ofwel verdeeld over meerdere jaren van het impulsbeleid 2009-2013 besteed worden aan de directe financiële ondersteuning van sportverenigingen overeenkomstig § 3, 1°.<br /><br />De subsidiereglementen moeten aan het Bloso overgemaakt worden in het jaar voorafgaand aan het jaar dat ze van toepassing zijn op de impulssubsidie. Bijgevolg worden ze gevoegd ofwel bij het hoofdstuk van het sportbeleidsplan over de impulssubsidie ofwel bij het jaarlijkse verslag dat ingediend wordt voorafgaand aan het toepassingsjaar. Als de subsidiereglementen wijzigen, moeten ze bij het jaarlijkse verslag worden gevoegd. De subsidies moeten op een vlotte en regelmatige wijze uitbetaald worden aan de sportverenigingen.<br /><br />§ 5. De impulssubsidie kan niet besteed worden aan subsidies en uitgaven voor enerzijds infrastructuur en materiaal, en anderzijds jeugdsportbegeleiding of jeugdsport in het algemeen.
+...
 
 ## Afdeling III. Subsidieprocedure
 
 ### ART. 6.
 
-Voor 31 december 2008 legt het college het hoofdstuk van het sportbeleidsplan over het impulsbeleid 2009-2013 samen met het advies van de gemeentelijke sportraad ter goedkeuring aan de gemeenteraad voor. Het college stuurt het door de gemeenteraad goedgekeurde hoofdstuk van het sportbeleidsplan over de impulssubsidie 2009-2013 uiterlijk tien dagen na de goedkeuring ervan naar het Bloso. Het gemeentebestuur bezorgt een kopie ervan aan de gemeentelijke sportraad en maakt het bekend bij de inwoners van de gemeente en bij de betrokken erkende sportverenigingen.<br /><br />De minister aanvaardt of weigert het hoofdstuk van het sportbeleidsplan over de impulssubsidie voor subsidiëring en deelt zijn beslissing mee aan het college en aan de gemeentelijke sportraad, uiterlijk vijfenzeventig dagen nadat het Bloso het hoofdstuk van het sportbeleidsplan over de impulssubsidie ontvangen heeft. De klachtenprocedure, vermeld in artikel 12 van het besluit inzake de beleidssubsidie, schort die termijn op. Als binnen die termijn geen beslissing aan het college is verstuurd, wordt ervan uitgegaan dat de minister het gemeentelijk impulsbeleid voor subsidiëring aanvaardt.<br /><br />Als het gemeentebestuur tijdens de periode van uitvoering van het impulsbeleid een deel of het geheel van zijn doelstellingen wil wijzigen die in het sportbeleidsplan werden opgenomen, dan zijn de procedure, vermeld in het eerste en tweede lid, en de voorwaarden, vermeld in artikel 4, van toepassing.
+...
 
 ### ART. 7.
 
-Een gemeentebestuur dat voor 31 december 2008 geen impulssubsidie wil aanvragen, kan bij het Bloso één jaar uitstel aanvragen. De aanvraag tot uitstel moet ingediend worden voor 31 december 2008 en er moet een positief advies van de gemeentelijke sportraad bij gevoegd zijn. De minister beslist over die aanvraag en deelt zijn beslissing mee aan het college en aan de gemeentelijke sportraad, uiterlijk vijfenzeventig dagen nadat het Bloso de aanvraag van de gemeente ontvangen heeft.<br /><br />Als de aanvraag tot uitstel door de minister aanvaard wordt, ontvangt het gemeentebestuur geen subsidie in 2009 en kan het gemeentebestuur de aanvraag voor een impulssubsidie indienen volgens de procedure, vermeld in artikel 6, eerste en tweede lid, in functie van subsidiëring vanaf 2010.<br /><br />In overeenstemming met artikel 55 van het besluit inzake de beleidssubsidie, wordt bijgevolg geen overgangssubsidie toegekend voor het werkingsjaar 2009 aan de gemeentebesturen die geen impulssubsidie ontvangen in het werkingsjaar 2009.
+...
 
 ### ART. 8.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan het gemeentebestuur het bedrag van de impulssubsidie mee waarop de gemeente recht heeft op basis van artikel 6 van het decreet.
+...
 
 ## HOOFDSTUK III. Het jaarlijkse verslag
 
 ### ART. 9.
 
-§ 1. De bepalingen, vermeld in artikel 6 van het besluit inzake de beleidssubsidie zijn van overeenkomstige toepassing op het jaarlijkse verslag over de impulssubsidie. <br /><br />§ 2. In dat jaarlijkse verslag wordt een extra onderdeel opgenomen over de impulssubsidies, dat bestaat uit : <br />1° een inhoudelijk verslag van de maatregelen, vermeld in het goedgekeurde impulsbeleid, aangevuld met de gerealiseerde acties per maatregel;<br />2° een afrekeningsstaat met vermelding van de artikels waarop de uitgaven geboekt staan en waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 5;<br />3° een verslag van de monitoring van de indicatoren, onder andere vermeld in artikel 4, § 2, tweede lid, 2°.<br /><br />Het Bloso stelt daarvoor formulieren ter beschikking.
+...
 
 ### ART. 10.
 
-Het toezicht en de controle, bedoeld in artikel 18, § 2 van het decreet, wordt uitgeoefend door het Bloso.
+...
 
 ## HOOFDSTUK IV. Uitbetaling en regularisatie of terugvordering van subsidies aan de gemeenten
 
 ### ART. 11.
 
-Als de minister het impulsbeleid voor subsidiëring heeft aanvaard, wordt jaarlijks tijdens het tweede trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de sportbeleidsplanperiode.<br /><br />Het voorschot bedraagt 90 % van het bedrag waarop het gemeentebestuur recht heeft overeenkomstig artikel 6 van het decreet.<br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar dat volgt op het begrotingsjaar.<br /><br />Als blijkt dat het impulsbeleid niet werd uitgevoerd overeenkomstig artikel 4 en 5 en daar geen afdoende motivatie voor bestaat, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Als na het jaarlijkse verslag van 2013 blijkt dat voor de periode 2009-2013 niet voldaan werd aan artikel 5, § 4, en de impulssubsidie dus niet bij meerderheid besteed werd aan de directe financiële ondersteuning van sportverenigingen via een subsidiereglement, dan wordt de subsidie van 2009 tot en met 2013 geregulariseerd. <br /><br />Op de bepalingen van het derde en vierde lid zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.
+...
 
 ## HOOFDSTUK V. Klachtenprocedure
 
 ### ART. 12.
 
-De klachtenprocedure, vermeld in hoofdstuk II, afdeling VI, van het besluit inzake de beleidssubsidie, is van toepassing op de impulssubsidie. Bijgevolg kan een klacht ingediend worden tegen : <br />1° de goedkeuring van het impulsbeleid door de gemeenteraad;<br />2° de goedkeuring van het jaarlijkse verslag over de impulssubsidie door het college of, in voorkomend geval, de gemeenteraad;<br />3° het niet-uitvoeren van het impulsbeleid conform de vermelde doelstellingen.
+...
 
 ## HOOFDSTUK VI. Evaluatie van het impulsbeleid
 
 ### ART. 13.
 
-De tussentijdse evaluatie en de eindevaluatie van het impulsbeleid maken integraal deel uit van en verlopen conform de procedure, vermeld in hoofdstuk II, afdeling VII, van het besluit inzake de beleidssubsidie.
+...
 
 ## HOOFDSTUK VII. Slotbepalingen
 
 ### ART. 14.
 
-Dit besluit treedt in werking na bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van de bepaling "aangesloten bij een erkende Vlaamse sportfederatie" uit artikel 1, 12° en artikel 2, die pas in werking treedt op 1 januari 2010.
+...
 
 ### ART. 15.
 
-In het besluit van de Vlaamse Regering van 19 juli 2007 wordt in artikel 56 een § 2 ingevoegd als volgt : 'De personeelsleden van de gemeenten, de provincies of de Vlaamse Gemeenschapscommissie, die niet beschikken over een van de diploma's bedoeld in artikel 47 van het besluit inzake de beleidssubsidie, maar wel vóór 31 december 2007 het diploma of getuigschrift van sportfunctionaris hebben behaald bij de Vlaamse Trainersschool en die minimum 5 jaar ervaring hebben in een leidinggevende functie in de sportdienst, worden beschouwd als sportgekwalificeerd ambtenaar in het kader van dit decreet.' <br /><br />Personeelsleden die beschikken over diploma's, certificaten en titels die niet binnen de Vlaamse Gemeenschap zijn verworven met betrekking tot het diploma of getuigschrift van sportfunctionaris, dienen bij de Vlaamse Trainersschool de gelijkwaardigheid daarvan te laten vaststellen.
+...
 
 ### ART. 16.
 
-De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, is belast met de uitvoering van dit besluit.
+...
