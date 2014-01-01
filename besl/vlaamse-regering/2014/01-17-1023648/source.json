@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023648,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-17 tot beoordeling van de vooruitgang van de waterkwaliteit in het kader van de tussentijdse evaluatie, vermeld in artikel 14, § 7, eerste lid, van het Mestdecreet van 22 december 2006, en tot wijziging van de kaart van de focusgebieden, opgenomen in de bijlage bij het besluit van de Vlaamse Regering van 10 februari 2012 tot bepaling van de nitraatresidudrempelwaarde, vermeld in artikel 14, § 1, tweede lid, van het Mestdecreet van 22 december 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023648/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "fe44f7e2e517b77ba4e88b5224d25a14c91ad436c7f0321f1de07b8660cdb248",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023648&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-01-17",
+  "gazette": "2014-01-23",
+  "numac": 2014035085,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
