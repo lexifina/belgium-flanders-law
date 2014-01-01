@@ -2,16 +2,16 @@
   "codex_id": 1015326,
   "title": "Besluit van de Vlaamse Regering van 2006-12-15 betreffende de uitvoering van het Vlaamse inburgeringsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015326/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "89f525781ef367902172012f8a2a50003e0bf92dbcb7092d74c8c8236b32db5d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015326/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "2720b584b83fec841f59b8ce8988f5d34a81aee1cdd1e920fa05342feca809f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015326&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2006-12-15",
   "gazette": "2006-12-29",
   "numac": 2006037065,
   "document_start": "2007-01-01",
   "document_end": "2019-07-28",
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
