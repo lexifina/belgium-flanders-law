@@ -14,7 +14,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° decreet : het
 
 ### ART. 2.
 
-Ter uitvoering van artikel 5, tweede lid, en artikel 22, 3°, c), van het besluit van de Vlaamse Regering wordt verstaan onder achterstallige schulden bij de Rijksdienst voor de Sociale Zekerheid : achterstallige schulden van 2500 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er een bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd aangetekend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.<br /><br />
+Ter uitvoering van artikel 5, tweede lid, en artikel 22, 3°, c), van het   besluit van de Vlaamse Regering wordt verstaan onder achterstallige schulden bij   de Rijksdienst voor de Sociale Zekerheid : achterstallige schulden van 3000 euro   of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er een bezwaar of   beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd   aangetekend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze   respecteert, worden niet als achterstallig beschouwd.<BR><BR>
 
 ### ART. 2/1.
 
