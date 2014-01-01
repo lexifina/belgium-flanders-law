@@ -128,7 +128,7 @@ Laag-fosforvoeder<br>
 			andere varkens van 40-110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:87.85pt">
-			<p>4,76</p>
+			<p>4,55</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:79.25pt">
 			<p>5<br>
@@ -204,7 +204,7 @@ Laag-fosforvoeder<br>
 Voor de berekening van de productie van dierlijke mest per exploitatie, moet, voor alle dieren van de betreffende diercategorie, worden uitgegaan van de volgende reële uitscheidingshoeveelheden, uitgedrukt in kg difosforpentoxide en kg stikstof per dier en per jaar :<br>
 <br>
 Laag-eiwitvoeder<br>
-&gt;</p>
+</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -267,7 +267,7 @@ Laag-eiwitvoeder<br>
 			<p>andere varkens van 20-40 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>11,87</p>
+			<p>11,03</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>180</p>
@@ -422,7 +422,7 @@ Laag-eiwitvoeder<br>
 			<p>andere varkens van 20-40 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>(M x 11,87) +<br>
+			<p>(M x 11,03) +<br>
 			(S x 13,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
@@ -585,13 +585,13 @@ Nutriëntenarm voeder<br>
 			<p>andere varkens van 20-40 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>11,87</p>
+			<p>11,03</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>180</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">
-			<p>4,76</p>
+			<p>4,55</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>5</p>
@@ -766,7 +766,7 @@ Nutriëntenarm voeder<br>
 			<p>180</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>4,76</p>
+			<p>4,55</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
 			<p>5</p>
@@ -987,141 +987,69 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 <p>§ 1. Wanneer de landbouwer overeenkomstig de bepalingen van artikel 25 van het Mestdecreet, heeft geopteerd voor het nutriëntenbalansstelsel van het type regressierechte, moet voor de berekening van de productie van dierlijke mest per exploitatie, voor alle dieren van de betreffende diercategorie, worden uitgegaan van de reële uitscheidingshoeveelheden volgens de volgende regressierechten, uitgedrukt in kg difosforpentoxyde en kg stikstof per dier en per jaar :<br>
 </p>
 
-<table border="1" cellpadding="0">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>betreffende diercategorie<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>difosforpentoxide (P2O5)-<br>
-			uitscheiding (kg/dier/jaar)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>stikstof (N)-uitscheiding (kg/dier/jaar)</p>
-			</td>
+			<td>betreffende diercategorie</td>
+			<td>difosforpentoxide (P<sub>2</sub>O<sub>5</sub>)-<br>
+			uitscheiding (kg/dier/jaar)</td>
+			<td>stikstof(N)-uitscheiding<br>
+			(kg/dier/jaar)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>biggen met een gewicht van 7 tot 20 kg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 1,65 X - 0,819</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,10 X - 1,322</p>
-			</td>
+			<td>biggen met een gewicht van 7 tot 20 kg</td>
+			<td>Y = 1,6516 X - 0,8187</td>
+			<td>Y = 0,0996 X - 1,3218</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>beren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 1,8503 X + 0,344</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,133 X - 0,2208</p>
-			</td>
+			<td>beren</td>
+			<td>Y = 1,8503 X + 0,3440</td>
+			<td>Y = 0,1330 X - 0,2208</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>zeugen, inclusief biggen met een gewicht kleiner dan 7 kg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 1,8503 X + 0,344</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,133 X - 0,2208</p>
-			</td>
+			<td>zeugen, inclusief biggen met een gewicht kleiner dan 7 kg</td>
+			<td>Y = 1,8503 X + 0,3440</td>
+			<td>Y = 0,1330 X - 0,2208</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>andere varkens : van 20 tot 110 kg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 1,94 X - 1,698</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,13 X - 3,046</p>
-			</td>
+			<td>andere varkens van 20 tot 110 kg</td>
+			<td>Y = 2,0368 X - 2,2347</td>
+			<td>Y = 0,1347 X - 4,4181</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>andere varkens van 110 kg en meer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 1,8503 X + 0,344</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,133 X - 0,2208</p>
-			</td>
+			<td>andere varkens van 110 kg en meer</td>
+			<td>Y = 1,8503 X + 0,3440</td>
+			<td>Y = 0,1330 X - 0,2208</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>legrassen : legkippen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,2254 X - 0,0606</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1496X - 0,2455</p>
-			</td>
+			<td>legrassen: legkippen</td>
+			<td>Y = 2,2254 X - 0,0606</td>
+			<td>Y = 0,1496 X - 0,2455</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>legrassen : (groot)ouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,2606 X - 0,0587</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1548 X - 0,2305</p>
-			</td>
+			<td>legrassen: (groot)ouderdieren</td>
+			<td>Y = 2,2606 X - 0,0587</td>
+			<td>Y = 0,1548 X - 0,2305</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>legrassen : opfokpoeljen van legkippen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,2277 X -0,0512</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1492 X - 0,1149</p>
-			</td>
+			<td>legrassen: opfokpoeljen van legkippen</td>
+			<td>Y = 2,2277 X - 0,0512</td>
+			<td>Y = 0,1492 X - 0,1149</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>vleesrassen : slachtkuikens</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,334 X - 0,196</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1541 X - 0,5283</p>
-			</td>
+			<td>vleesrassen: slachtkuikens</td>
+			<td>Y = 2,3340 X - 0,1960</td>
+			<td>Y = 0,1541 X - 0,5283</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>vleesrassen : slachtkuikenouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,2606 X - 0,0587</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1517 X - 0,1918</p>
-			</td>
+			<td>vleesrassen: slachtkuikenouderdieren</td>
+			<td>Y = 2,2606 X - 0,0587</td>
+			<td>Y = 0,1517 X - 0,1918</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>vleesrassen : opfokpoeljen van slachtkuiken-<br>
-			ouderdieren</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
-			<p>Y = 2,2152 X - 0,0770</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>Y = 0,1571 X - 0,1705</p>
-			</td>
+			<td>vleesrassen: opfokpoeljen van slachtkuikenouderdieren</td>
+			<td>Y = 2,2152 X - 0,0770</td>
+			<td>Y = 0,1571 X - 0,1705</td>
 		</tr>
 	</tbody>
 </table>
