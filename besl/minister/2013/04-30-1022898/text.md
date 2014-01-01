@@ -6,16 +6,16 @@
 
 ### ART. 1.
 
-&nbsp;In het artikel 15 van het ministerieel besluit van 21 december 2012   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee worden volgende wijzigingen aangebracht : <BR>1° in § 2 wordt het getal   &lt;180&gt; vervangen door het getal &lt;200&gt;<BR>2° in § 3 wordt het getal   &lt;80&gt; vervangen door het getal &lt;90&gt;.<BR>
+...
 
 ### ART. 2.
 
-<P>Het artikel 21 van hetzelfde besluit, wordt aangevuld met volgende paragrafen   : <BR>« § 2. In afwijking van § 1 is het vanaf 1 juni 2013 om 00.00 uur, alleen   voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van Gascogne   2013" voorkomen, toegestaan om in de ICES-gebieden VIIIa, b aanwezig te   zijn.<BR></P>  <P>Om aan de lijst, vermeld in het eerste lid, toegevoegd te kunnen worden,   moeten de eigenaars van vissersvaartuigen vóór 27 mei 2013 met een aangetekende   brief of per fax een aanvraag tot de dienst richten.<BR></P>  <P>Ingeval het aantal ingeschreven vaartuigen te hoog is in verhouding tot de   beschikbare tongquota of beschikbare brutotonnage, zal via loting dat aantal   worden beperkt.<BR></P>  <P>§ 3. Vanaf 1 juni 2013 tot en met 30 september 2013 is het verboden dat in de   ICES-gebieden VIIIa, b de tongvangst van een vissersvaartuig, dat voorkomt op de   lijst vermeld in § 2, een hoeveelheid overschrijdt die gelijk is aan 15 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   Als uitgangspunt wordt de situatie op 1 mei 2013 genomen.<BR></P>  <P>De hoeveelheid vermeld in vorig lid kan door de dienst worden   herzien.<BR></P>  <P>§ 4. Ingeval de hoeveelheden tong, vermeld in § 3, worden overschreden,   worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in   mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt   toegekend voor 2014.<BR></P>  <P>§ 5. Voor de vissersvaartuigen die op de lijst "Visvergunningen Golf van   Gascogne 2013" voorkomen, wordt het aantal dagen in de ICES-gebieden IV, VIId en   VIIa vermeld in artikel 10 § 1, verminderd met 20. <BR></P>  <P>§ 6. Voor de vissersvaartuigen die de bepalingen van § 1 of § 2 niet naleven,   wordt het aantal dagen, vermeld in artikel 10 § 1 en artikel 12, verminderd met   10.<BR></P>  <P>Bovendien zullen de vissersvaartuigen in kwestie niet aanwezig mogen zijn in   de ICES-gebieden VIIIa, b gedurende het jaar 2014. »<BR></P>
+...
 
 ### ART. 3.
 
-In artikel 27 van hetzelfde besluit, worden met ingang van 1 mei 2013 de   volgende wijzigingen aangebracht : <BR>1° aan § 4 worden een tweede en derde lid   toegevoegd, die luiden als volgt : <BR>« In afwijking van het eerste lid is het   voor een vissersvaartuig, in de periode van 1 mei 2013 tot en met 31 december   2013 zolang geen 80 % van het quotum is benut, verboden bij de bot- en   scharvangsten per zeereis in de ICES-gebieden II, IV (Noordzee en   Schelde-estuarium) een hoeveelheid te overschrijden die gelijk is aan 2 000 kg,   vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in   de desbetreffende ICES-gebieden.<BR>In afwijking van het eerste lid kan een   vissersvaartuig met TR1 tuig, in de periode 1 juni 2013 tot en met 30 september   2013 zolang geen 67 % van het quotum is benut, vrij vissen op bot en schar.   »<BR>2° aan § 5 wordt een derde lid toegevoegd dat luidt als volgt : <BR>"In de   periode van 1 mei 2013 tot en met 31 december 2013 is het in de ICES-gebieden   II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig verboden bij de   tongschar en witjevangst per zeereis een hoeveelheid te overschrijden die gelijk   is aan 1 000 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens   die zeereis in de desbetreffende ICES-gebieden. »<BR>3° aan § 8 wordt een vierde   lid toegevoegd dat luidt als volgt : <BR>« In afwijking van de leden 1 en 2,   worden de hoeveelheden vermeld in die leden gehalveerd van zodra 60 % van het   quotum is opgevist. »<BR>
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 mei 2013 en houdt op van kracht te zijn   op 1 januari 2014.<BR>
+...

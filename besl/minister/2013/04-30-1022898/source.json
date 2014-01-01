@@ -2,16 +2,16 @@
   "codex_id": 1022898,
   "title": "Ministerieel besluit van 2013-04-30 tot wijziging van het ministerieel besluit van 21 december 2012 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022898/VolledigDocument?datum=2013-05-01",
-  "source_sha256": "f1d13ae20fd68737ddca04fdbffc2e7b3ab1b31790c132d5dc0e15f936223a3e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022898/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "32a075d346e60fc9e1e941f30402232b7c0844bafde7b44d85fc8de6903d38d0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022898&param=informatie",
-  "as_of": "2013-05-01",
+  "as_of": "2014-01-01",
   "made": "2013-04-30",
   "gazette": "2013-05-03",
   "numac": 2013202411,
   "document_start": "2013-05-01",
   "document_end": "2013-12-31",
-  "in_force": "2013-05-01",
+  "in_force": "2014-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2013-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
