@@ -28,11 +28,11 @@ Besluit :
 
 ### ART. 1.
 
-Het model van het herkenningsteken voor een vergund reisbureau is bepaald in bijlage 1, die bij dit besluit is gevoegd.
+<P>...</P>
 
 ### ART. 2.
 
-Het model van het herkenningsteken voor een vergund toeristisch verhuurkantoor is bepaald in bijlage 2, die bij dit besluit is gevoegd.
+<P>...</P>
 
 ### ART. 3.
 
@@ -92,11 +92,11 @@ Artikel 8, artikel 13 en artikel 14 van het besluit van de Vlaamse Regering van 
 
 ### BIJLAGE
 
-Bijlage 1. Model van het herkenningsteken voor vergunde reisbureaus als vermeld in artikel 1<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/02/22_2.pdf#page=13" title=" Bijlage 1" target="_blank" class="pdf">Bijlage 1</a>
+<P>...</P>
 
 ### BIJLAGE
 
-Bijlage 2. Model van het herkenningsteken voor vergunde toeristische verhuurkantoren als vermeld in artikel 2<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/02/22_2.pdf#page=14" title=" Bijlage 2" target="_blank" class="pdf">Bijlage 2</a>
+<P>...</P>
 
 ### BIJLAGE
 
