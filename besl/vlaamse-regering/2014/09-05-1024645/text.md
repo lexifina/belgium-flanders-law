@@ -12,4 +12,12 @@ Aan artikel 4 van het besluit van de Vlaamse Regering van 27 juni 1990   betreff
 
 ## HOOFDSTUK 2 Wijzigingen van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs
 
+### ART. 8.
+
+Artikel 19bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 28 november 2003 en vervangen bij het besluit van de   Vlaamse Regering van 19 juli 2013, wordt vervangen door wat volgt:<BR>"Art.   19bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, deel   buitengewoon basisonderwijs, die bij dit besluit is gevoegd, treden in werking   op 1 januari 2014. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage I, deel buitengewoon secundair onderwijs, die bij dit besluit is   gevoegd, treden in werking op 1 september 2013.".<BR>
+
+### ART. 10.
+
+Het deel buitengewoon basisonderwijs van de bijlage I bij hetzelfde   besluit, vervangen bij het besluit van de Vlaamse Regering van 19 juli 2013,   wordt vervangen door de bijlage, die als bijlage 2 bij dit besluit is   gevoegd.<BR>
+
 ## HOOFDSTUK 3 Slotbepalingen
