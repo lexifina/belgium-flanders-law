@@ -38,6 +38,10 @@ In artikel 8 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<
 
 ## Hoofdstuk 3 Opheffings- en inwerkingtredingsbepalingen
 
+### ART. 9.
+
+Hetzelfde decreet, gewijzigd bij de decreten van 8 juli 2011 en 17 februari 2012 en bij dit decreet, wordt opgeheven.<br /><br />De voorwaarden in verband met de bedragen, de aard en de wijze van het stellen van een borgtocht, uitsluitend tot zekerheidsstelling van de verbintenissen die in het kader van de reisbureau-activiteit worden aangegaan, en de normen betreffende het gebruikmaken en de wijze van opnieuw samenstellen en teruggeven van de borgtocht en de rechten van de gewaarborgde schuldeisers, die door de Vlaamse Regering op grond van het decreet van 2 maart 2007 houdende het statuut van de reisbureaus werden vastgesteld, behouden hun uitwerking tot 31 december 2014.<br /><br />
+
 ### ART. 10.
 
 Dit decreet treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 9, dat in werking treedt op 1 januari 2014.<br /><br />
