@@ -6,24 +6,24 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 mei 2008 houdende be
 
 ### ART. 1.
 
-<P>De vergoeding, vermeld in artikel 7, § 1, van het decreet van 23 mei 2008   houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008 en   artikel 6 van het decreet van 21 december 2012 tot wijziging van artikel 257,   258 en 376 van het Wetboek van de Inkomstenbelastingen 1992 en artikel 7 van het   decreet van 23 mei 2008 houdende bepalingen tot begeleiding van de aanpassing   van de begroting 2008, wat de vermindering van de onroerende voorheffing voor   energiezuinige gebouwen betreft, wordt uiterlijk op 31 mei van het jaar dat   volgt op het aanslagjaar in kwestie berekend op basis van de door het kadaster   aangeleverde informatie over materieel en outillage, en op basis van de door het   Vlaams Energieagentschap aangeleverde informatie over de energiezuinige woningen   en gebouwen, ingevolge de toepassing van artikel 3 van het decreet van 23 mei   2008 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2008   en artikel 2 tot en met 4 van het decreet van 21 december 2012 tot wijziging van   artikelen 257, 258 en 376 van het Wetboek van de Inkomstenbelastingen 1992 en   artikel 7 van het decreet van 23 mei 2008 houdende bepalingen tot begeleiding   van de aanpassing van de begroting 2008, wat de vermindering van de onroerende   voorheffing voor energiezuinige gebouwen betreft.</P>
+...
 
 ### ART. 2.
 
-De vergoeding, vermeld in artikel 1 van dit besluit, wordt uitbetaald   samen met het saldo van de opcentiemen, vermeld in artikel 29, § 4, van het   decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing   van de begroting 2001, en wordt uiterlijk gestort op de laatste bankwerkdag van   de maand juli van het jaar dat volgt op het aanslagjaar in   kwestie.
+...
 
 ### ART. 3.
 
-<P>...</P>
+...
 
 ### ART. 4.
 
-<P>...</P>
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van het aanslagjaar 2009. <br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor de financiën en de begrotingen, is belast met de uitvoering van dit besluit. <br /><br />
+...
