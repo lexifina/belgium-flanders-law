@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023208,
+  "title": "Decreet van 2013-07-12 houdende wijziging van het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk, wat de structurele provinciale subsidies betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023208/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "0c29b9e88f64e57cc233193f1596cc2f57a65440a464de14c170b6dd72174605",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023208&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-07-12",
+  "gazette": "2013-08-23",
+  "numac": 2013204742,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
