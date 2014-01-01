@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023675,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 houdende de overdracht van sommige personeelsleden van het extern verzelfstandigd agentschap Vlaamse Regulator van de Elektriciteits- en Gasmarkt aan het intern verzelfstandigd agentschap Vlaams Energieagentschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023675/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ea17214d8f8662aa7aa44918be209eb85f996778eaf5bfa82b33c3e7be138f60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023675&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2014-01-29",
+  "numac": 2014035065,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
