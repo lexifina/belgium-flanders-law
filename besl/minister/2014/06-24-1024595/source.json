@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024595,
+  "title": "Ministerieel besluit van 2014-06-24 tot wijziging van artikel 1 van het ministerieel besluit van 24 februari 2014 tot bepaling van de diensten voor gezinszorg en aanvullende thuiszorg die in aanmerking komen voor subsidiëring van aanvullende thuiszorg en tot bepaling van het aantal VTE per functiecategorie en per dienst voor het jaar 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024595/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "4300fb86eb5a18703cf95050cd66cf422f5334823c955ffdc20244c2fa1fefc9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024595&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-06-24",
+  "gazette": "2014-09-25",
+  "numac": 2014035918,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
