@@ -2,16 +2,16 @@
   "codex_id": 1014577,
   "title": "Ministerieel besluit van 2006-05-17 houdende de uitvoering van het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin, in de kinderdagverblijven, de diensten voor [onthaalouders (verv. MB 8 januari 2008, art.1)], de initiatieven voor buitenschoolse opvang en de centra voor kinderzorg en gezinsondersteuning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014577/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "47dd1ec79884dece57e68c4debf221762e0084e4754092d4de2c6abd115fd2ef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014577/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "fc152eb505d1b79e69f4128721396734ac8a059ec79c3c23bda2a56866b350aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014577&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2014-01-01",
   "made": "2006-05-17",
   "gazette": "2006-06-15",
   "numac": 2006035866,
   "document_start": "2006-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2008-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
