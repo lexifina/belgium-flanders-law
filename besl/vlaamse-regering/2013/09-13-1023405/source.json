@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023405,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-13 houdende de voorwaarden waaronder de Vlaamse Maatschappij voor Sociaal Wonen en het Vlaams Woningfonds bijzondere sociale leningen aan particulieren kunnen toestaan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023405/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e9abf7b17e18813b2ab5f4cddf3594e6e1ecb26b3d1c53fa581a1420cf116a30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023405&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-09-13",
+  "gazette": "2013-11-27",
+  "numac": 2013036059,
+  "document_start": "2014-01-01",
+  "document_end": "2020-12-31",
+  "in_force": "2014-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
