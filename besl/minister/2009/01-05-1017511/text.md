@@ -6,4 +6,4 @@ De Vlaamse minister van Onderwijs en Vorming, <br /><br />Gelet op het decreet v
 
 ### Enig artikel.
 
-De hierna vermelde instanties worden, in uitvoering van artikel 5 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van levensbeschouwelijke vakken, erkend voor een periode van vijf jaar, met ingang van 1 januari 2009. <br />1° De erkende instantie van de Israëlische godsdienst.<br />Zetel : Jozef Dupontstraat 2, 1000 Brussel.<br />2° De erkende instantie van de orthodoxe godsdienst, genaamd Pedagogische Commissie van de Orthodoxe Kerk.<br />Zetel : Charbolaan 71, 1030 Brussel.<br />3° De erkende instantie van de protestants-evangelisch godsdienst, genaamd Comité voor het protestants-evangelisch godsdienstonderwijs in de Vlaamse gemeenschap.<br />Zetel : Marsveldstraat 5, 1050 Brussel.<br />4° De rooms-katholieke godsdienst.<br />Zetel : Wollemarkt 15, 2800 Mechelen.
+...
