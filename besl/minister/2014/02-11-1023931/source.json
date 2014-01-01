@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023931,
+  "title": "Ministerieel besluit van 2014-02-11 houdende de vervanging van de bijlage bij het ministerieel besluit van 1 maart 2012 houdende vaststelling van de ondersteuningsvelden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023931/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "6ddc5899cfe087e2bf4ec8e668f67e87749aecb4d99fb6e72cca9b1f771711a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023931&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-02-11",
+  "gazette": "2014-03-21",
+  "numac": 2014035245,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
