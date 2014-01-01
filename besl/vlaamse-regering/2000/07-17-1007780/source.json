@@ -2,16 +2,16 @@
   "codex_id": 1007780,
   "title": "Besluit van de Vlaamse Regering van 2000-07-17 tot uitvoering van het decreet van 26 juni 1991 houdende erkenning en subsidiëring van het maatschappelijk opbouwwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007780/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "bc616d2e34dc267bb819172780007cfb8812e4e5a653989b44642a3ad50e54ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007780/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "d12a14725cc03c52d576f1f4114b782d9585aee5955c0b3a82ca76e2836ce325",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007780&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2000-07-17",
   "gazette": "2001-01-11",
   "numac": 2000036204,
   "document_start": "2001-01-01",
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
