@@ -2,16 +2,16 @@
   "codex_id": 1015322,
   "title": "Ministerieel besluit van 2006-11-27 tot vaststelling van de modellen van de boekhouding van de besturen van de eredienst en ter uitvoering van artikel 46 van het besluit van de Vlaamse Regering van 13 oktober 2006 houdende het algemeen reglement op de boekhouding van de besturen van de eredienst en van de centrale besturen van de eredienst",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015322/VolledigDocument?datum=2013-03-11",
-  "source_sha256": "d45cf05b3ce4578a576c99f709759554ec229bd96c686b07c3f4bc7b5941be80",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015322/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "5600c40ea3e3177ba3030c4b398cc398c3db00fce29651c7cf411414283ea2ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015322&param=informatie",
-  "as_of": "2013-03-11",
+  "as_of": "2014-01-01",
   "made": "2006-11-27",
   "gazette": "2006-12-29",
   "numac": 2006037063,
   "document_start": "2007-01-08",
   "document_end": null,
-  "in_force": "2013-03-11",
+  "in_force": "2014-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2013-03-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
