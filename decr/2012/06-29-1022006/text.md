@@ -6,6 +6,10 @@
 
 ## Afdeling 1. Wijzigingen in titel I van het Provinciedecreet
 
+### ART. 2.
+
+Artikel 2 van het Provinciedecreet van 9 december 2005 wordt vervangen door wat volgt :<br /><br />« Art. 2. § 1. De provincies zijn het intermediair beleidsniveau tussen het Vlaamse en het gemeentelijke niveau. De provincies beogen om op het provinciale niveau bij te dragen tot de duurzame ontwikkeling van het provinciale gebied.<br /><br />§ 2. Overeenkomstig artikel 41 van de gecoördineerde Grondwet zijn de provincies bevoegd voor de regeling van de provinciale belangen. Tot die provinciale belangen behoren met name :<br />1° de bovenlokale taakbehartiging. Een taakbehartiging is bovenlokaal als ze aangelegenheden van lokaal gemeentelijk belang overstijgt, voor zover ze streekgericht blijft en gericht is op realisaties binnen de grenzen van het grondgebied van de provincie;<br />2° ondersteunende taken op verzoek van andere overheden;<br />3° het nemen van initiatieven met het oog op gebiedsgerichte samenwerking tussen besturen in een regio, met inbegrip van samenwerkingsverbanden met of zonder rechtspersoonlijkheid, binnen de grenzen, vastgelegd door de Vlaamse Regering, zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking.<br /><br />Alleen als dat bij decreet uitdrukkelijk is bepaald, kunnen de provincies de medewerking van de gemeenten regelen.<br /><br />§ 3. Inzake de aangelegenheden vermeld in de artikelen 4 en 5 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen oefenen de provincies slechts de bevoegdheden en taken uit indien en voor zover hen die door of krachtens de wet of het decreet zijn toevertrouwd.<br /><br />Voor zover dit bij decreet is bepaald, oefenen de provincies deze bevoegdheden uit overeenkomstig de bepalingen opgenomen in een bestuursakkoord afgesloten tussen de Vlaamse Regering en de provincies. De Vlaamse Regering sluit hiertoe een bestuursakkoord met elk van de vijf provincies. Deze bestuursakkoorden bevatten zowel een algemeen luik, identiek in de vijf bestuursakkoorden, als een specifiek luik, afgestemd op de betrokken provincie.<br /><br />De bestuursakkoorden worden gesloten voor een periode van zes jaar. Ze starten op 1 januari van het tweede jaar dat volgt op de provincieraadsverkiezingen en lopen af op 31 december van het jaar na de volgende provincieraadsverkiezingen. De Vlaamse Regering bepaalt de nadere modaliteiten met betrekking tot de inhoud en de procedure voor de opmaak, het afsluiten en de evaluatie van de bestuursakkoorden. ».
+
 ## Afdeling 2. Wijzigingen in titel II van het Provinciedecreet
 
 ### ART. 3.
@@ -40,6 +44,10 @@ In artikel 16 van hetzelfde decreet wordt het vierde lid opgeheven.
 
 In artikel 20 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° het tweede lid wordt vervangen door wat volgt :<br /><br />« De voorzitter is verplicht de provincieraad bijeen te roepen op verzoek van een derde van de zittinghebbende leden of van de deputatie. »;<br /><br />2° er worden een derde en vierde lid toegevoegd, die luiden als volgt :<br /><br />« De voorzitter is ook verplicht de provincieraad bijeen te roepen op verzoek van een vijfde van de zittinghebbende leden als zes weken na de datum van de vorige provincieraad nog geen bijeenroeping heeft plaatsgevonden. De periode van zes weken wordt geschorst van 11 juli tot en met 15 augustus.<br /><br />In geval van een verplichte bijeenroeping als vermeld in het tweede en het derde lid, roept de voorzitter de provincieraad bijeen op de aangewezen dag en het aangewezen uur en met de voorgestelde agenda. Daarvoor bezorgen de provincieraadsleden en de deputatie voor elk punt op die agenda hun voorstel van beslissing met toelichting aan de provinciegriffier, die de voorstellen bezorgt aan de voorzitter van de provincieraad. ».
 
+### ART. 11.
+
+In artikel 21, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 23 januari 2009 wordt de volgende zin toegevoegd :<br /><br />« Dit huishoudelijk reglement bepaalt in elk geval dat indien een provincieraadslid hierom verzoekt, een dossier elektronisch ter beschikking wordt gesteld. ».
+
 ### ART. 12.
 
 In artikel 29, eerste lid, van hetzelfde decreet worden de woorden « als het geringste uitstel gevaar zou kunnen opleveren » opgeheven.
@@ -67,6 +75,10 @@ In artikel 47, eerste lid, van hetzelfde decreet wordt tussen het woord « artik
 ### ART. 18.
 
 In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010, wordt een artikel 47bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 47bis. De provincieraad kan bij volstrekte meerderheid van stemmen de structurele onbestuurbaarheid van de provincie vaststellen en brengt de Vlaamse Regering daarvan op de hoogte.<br /><br />Op grond van die kennisgeving onderneemt de Vlaamse Regering een bemiddelingspoging.<br /><br />Als de Vlaamse Regering vaststelt dat de bemiddeling mislukt is en er zich geen oplossing aandient, brengt ze de provincieraad daarvan op de hoogte. In dat geval kan de provincieraad de procedure starten voor de aanstelling van een nieuwe deputatie. Er wordt vervolgens overgegaan tot de verkiezing en installatie van de nieuwe gedeputeerden op basis van een gezamenlijke akte van voordracht, overeenkomstig artikelen 45, § 1, § 2 en § 4 en 46. De uittredende gedeputeerden blijven in functie tot de installatie van de nieuwe gedeputeerden heeft plaatsgevonden. In het geval er geen gezamenlijke akte van voordracht wordt ingediend, overeenkomstig artikel 45, § 1 en § 2, blijven de uittredende gedeputeerden in functie.<br /><br />De vaststelling van de structurele onbestuurbaarheid en de aanstelling van een nieuwe deputatie in toepassing daarvan, kan niet gebeuren in spoedeisende gevallen zoals vermeld in artikel 29 en evenmin in de periode van twaalf maanden voor de dag van de verkiezingen voor de volledige vernieuwing van de provincieraden.<br /><br />De aanstelling van een nieuwe deputatie na vaststelling van de structurele onbestuurbaarheid kan slechts eenmaal per bestuursperiode gebeuren. ».
+
+### ART. 19.
+
+Aan artikel 51, vijfde lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt de volgende zin toegevoegd :<br /><br />« Dit huishoudelijk reglement bepaalt in elk geval dat, indien een provincieraadslid hierom verzoekt, de notulen elektronisch ter beschikking worden gesteld. ».
 
 ### ART. 20.
 
@@ -120,6 +132,22 @@ Artikel 138 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />«
 
 ## Afdeling 4. Wijzigingen in titel IV van het Provinciedecreet
 
+### ART. 33.
+
+In artikel 142, § 1, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt in het eerste lid de zin « Behoudens in de gevallen voorzien in artikel 254, § 4, kan het meerjarenplan pas worden vastgesteld nadat het advies van de externe auditcommissie bedoeld in artikel 254 over het voorontwerp van meerjarenplan wordt voorgelegd. » opgeheven.
+
+### ART. 34.
+
+In artikel 143 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° in het derde lid wordt de zin « Vanaf het voorlaatste financiële boekjaar van de zesjaarlijkse periode, vermeld in artikel 142, § 1, tweede lid, beschrijft de financiële nota de financiële consequenties voor ten minste drie financiële boekjaren. » opgeheven;<br /><br />2° tussen het derde en het vierde lid wordt een lid ingevoegd dat luidt als volgt :<br /><br />« Met behoud van de toepassing van het derde lid beschrijft de financiële nota de financiële consequenties voor ten minste drie en ten hoogste zes financiële boekjaren. ».
+
+### ART. 35.
+
+In artikel 144, eerste lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt de zin « Behoudens in de gevallen voorzien in artikel 254, § 4, kan het budget pas worden vastgesteld nadat het advies van de externe auditcommissie, bedoeld in dat artikel, over het ontwerp van budget aan de provincieraad wordt voorgelegd. » opgeheven.
+
+### ART. 36.
+
+In artikel 147, § 4, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt het tweede lid vervangen door wat volgt :<br /><br />« Een investeringsbudget bestaat uit een of meer investeringsenveloppen. Als een investeringsenveloppe eenmaal in het budget is goedgekeurd, blijft ze geldig tot wanneer de provincieraad deze investeringsenveloppe bij budget of bij budgetwijziging annuleert of tot de provincieraad de rekening van deze investeringsenveloppe vaststelt. ».
+
 ### ART. 37.
 
 In artikel 152 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt het eerste lid vervangen door wat volgt :<br /><br />« Een verbintenis mag alleen worden aangegaan op grond van een goedgekeurd krediet dat voorkomt op het budget, of op grond van een voorlopig krediet. ».
@@ -168,6 +196,10 @@ Artikel 165 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, 
 
 Artikel 166 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
 
+### ART. 49.
+
+Artikel 168 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt :<br /><br />« Art. 168. Nadat de rekeningen in overeenstemming zijn gebracht met de gegevens van de inventaris, worden ze samengevat opgenomen in het ontwerp van de jaarrekening.<br /><br />De jaarrekening omvat een beleidsnota, een financiële nota en een samenvatting van de algemene rekeningen.<br /><br />De beleidsnota geeft het beleid weer dat de provincie gedurende het financiële boekjaar heeft gevoerd. De beleidsnota omvat een toelichting over de financiële toestand van de provincie en verwoordt de aansluiting met de financiële nota.<br /><br />De financiële nota bevat minstens de exploitatierekening, de investeringsrekening en de liquiditeitenrekening.<br /><br />De samenvatting van de algemene rekeningen omvat de balans en de staat van opbrengsten en kosten. ».
+
 ### ART. 50.
 
 Artikel 169 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt vervangen door wat volgt :<br /><br />« Art. 169. § 1. De provincieraad spreekt zich in de loop van het eerste semester van het financiële boekjaar dat volgt op het financiële boekjaar waarop de rekening betrekking heeft, uit over de vaststelling van de jaarrekening.<br /><br />Als de provincieraad bezwaren heeft tegen bepaalde verrichtingen, formuleert hij een advies over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Dat advies wordt als bijlage bij de jaarrekening gevoegd en bezorgd aan de actoren die aansprakelijk worden gesteld.<br /><br />Een afschrift van de overeenkomstig dit artikel vastgestelde jaarrekening wordt binnen twintig dagen bezorgd aan de Vlaamse Regering.<br /><br />§ 2. De Vlaamse Regering keurt de jaarrekening goed als ze juist en volledig is en een waar en getrouw beeld geeft van de financiële toestand van de provincie.<br /><br />Als de Vlaamse Regering geen besluit verzonden heeft binnen een termijn van honderd- vijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening, wordt ze geacht de jaarrekening goed te keuren. ».
@@ -176,9 +208,21 @@ Artikel 169 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, 
 
 In artikel 171 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° paragraaf 1 tot en met 5 worden opgeheven;<br /><br />2° paragraaf 6 tot en met 8 worden vervangen door wat volgt :<br /><br />« § 6. Als de Vlaamse Regering bij de goedkeuring bepaalde verrichtingen als onregelmatig heeft bestempeld, beslist ze over de aansprakelijkheid van de actoren die betrokken zijn bij de betwiste verrichtingen.<br /><br />Als de Vlaamse Regering over de goedkeuring van de jaarrekening binnen een termijn van honderdvijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening, geen beslissing heeft verzonden, wordt ze geacht over de aansprakelijkheid van de verrichtingen waartegen de provincieraad bezwaren heeft geformuleerd, te hebben beslist overeenkomstig het advies van de provincieraad.<br /><br />§ 7. De betrokkenen worden onmiddellijk met een aangetekende brief op de hoogte gebracht van de beslissing van de Vlaamse Regering. In voorkomend geval wordt daarbij een aanmaning gevoegd om het vastgestelde bedrag in de provinciekas te storten.<br /><br />Een afschrift van de beslissing van de Vlaamse Regering wordt onmiddellijk bezorgd aan de provincie.<br /><br />§ 8. Degenen die aansprakelijk worden gesteld en de provincieraad kunnen tegen de beslissingen van de Vlaamse Regering, vermeld in paragraaf 6, beroep instellen bij de Vlaamse Regering binnen een termijn van zestig dagen die ingaat op de derde dag die volgt op de verzending van het betwiste besluit of, als de Vlaamse Regering geen besluit heeft verzonden, die ingaat op de derde dag die volgt op de dag van het verstrijken van de termijn vermeld in paragraaf 6, tweede lid. Dat beroep heeft schorsende werking. De Vlaamse Regering doet uitspraak over de aansprakelijkheid van de betrokkenen en bepaalt het bedrag dat hen ten laste wordt gelegd.<br /><br />Als de verwerping van bepaalde verrichtingen aanleiding heeft gegeven tot de definitieve afwijzing van bepaalde uitgaven, kan degene die beroep heeft ingesteld de personen die hij aansprakelijk of medeaansprakelijk acht, ter verantwoording roepen in het beroep bij de Vlaamse Regering. In dat geval doet de Vlaamse Regering mee uitspraak over de aansprakelijkheid van de ter verantwoording geroepen personen.<br /><br />De beslissing van de Vlaamse Regering is uitvoerbaar, zelfs als daartegen beroep is ingesteld bij de Raad van State. Die beslissing kan echter pas ten uitvoer worden gelegd na het verstrijken van de termijn voor het instellen van dat beroep. ».
 
+### ART. 52.
+
+In artikel 172, § 3, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de woorden « de dag na het inkomen » vervangen door de woorden « de derde dag die volgt op het verzenden ».
+
+### ART. 53.
+
+In artikel 173, § 3, derde lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de woorden « de dag na het inkomen » vervangen door de woorden « de derde dag die volgt op het verzenden ».
+
 ### ART. 54.
 
 Artikel 174 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, wordt opgeheven.
+
+### ART. 55.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010, wordt een artikel 174bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 174bis. § 1. Onmiddellijk na de verzending van het meerjarenplan, de aanpassing van het meerjarenplan, het budget of de jaarrekening aan de toezichthoudende overheid bezorgt de provincie de gegevens over het vastgestelde beleidsrapport in een digitaal bestand aan de Vlaamse Regering. De Vlaamse Regering bepaalt welke gegevens de besturen bezorgen en de wijze waarop die gegevens elektronisch worden aangeleverd. Bij gebrek aan een vastgestelde jaarrekening op 30 juni van het jaar dat volgt op het financiële boekjaar in kwestie bezorgt de provincie de gegevens over het ontwerp van de jaarrekening in een digitaal bestand aan de Vlaamse Regering.<br /><br />Dat vastgestelde beleidsrapport van de provincieraad is pas uitvoerbaar als de Vlaamse Regering in het bezit is van de digitale rapporten. De Vlaamse Regering verstuurt onmiddellijk een ontvangstmelding van de rapporten naar het bestuur.<br /><br />§ 2. De provincie rapporteert aan de Vlaamse Regering over de verrichte transacties van elk kwartaal voor het einde van de maand die volgt op het kwartaal. De Vlaamse Regering bepaalt welke gegevens worden aangeleverd en de wijze waarop die gegevens elektronisch worden aangeleverd. ».
 
 ## Afdeling 5. Wijzigingen in titel V van het Provinciedecreet
 
@@ -189,6 +233,10 @@ In artikel 176, tweede lid, van hetzelfde decreet wordt het woord « provinciego
 ### ART. 57.
 
 In artikel 178, § 2, van hetzelfde decreet wordt het woord « provinciegouverneur » vervangen door de woorden « de provinciegouverneur of het op grond van artikel 52 aangewezen lid van de deputatie ».<br /><br />
+
+### ART. 58.
+
+Artikel 180 van hetzelfde decreet wordt vervangen door wat volgt :<br /><br />« Art. 180. De reglementen en verordeningen van de provincieraad en de deputatie worden bekendgemaakt door middel van publicatie op de provinciale website met vermelding van zowel de datum waarop ze worden aangenomen als de datum waarop ze op de provinciale website bekendgemaakt worden. ».
 
 ### ART. 59.
 
@@ -214,6 +262,10 @@ In artikel 217, § 1, van hetzelfde decreet wordt de zin « De beheersovereenkom
 
 In artikel 221 van hetzelfde decreet wordt het eerste lid aangevuld met de volgende zin : « Deze bepaling slaat niet op de omvorming van bestaande structuren conform artikel 266 van dit decreet, tenzij hierdoor bijkomende taken van provinciaal belang extern zouden worden verzelfstandigd. ».<br />
 
+### ART. 64.
+
+In artikel 226 van hetzelfde decreet wordt punt 5° opgeheven.
+
 ### ART. 65.
 
 In artikel 228 van hetzelfde decreet worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 1 wordt het tweede lid vervangen door wat volgt :<br /><br />« De provincie en het autonoom provinciebedrijf nemen de nodige initiatieven voor de openbaarheid van de beheersovereenkomst, inclusief alle wijzigingen eraan. »;<br /><br />2° in paragraaf 2, 8°, wordt de zin « Er wordt minstens voorzien in een jaarlijks ondernemingsplan en een operationeel plan op middellange en lange termijn; » opgeheven;<br /><br />3° in paragraaf 2 wordt punt 9° opgeheven;<br /><br />4° in paragraaf 2, 10°, wordt de zinsnede « , de wijze waarop de auditinstantie bij het autonoom provinciebedrijf de audittaken uitoefent die aan de auditinstantie zijn opgedragen overeenkomstig artikel 254, en de wijze van rapportering van die auditinstantie aan de provincieraad » opgeheven.
@@ -222,6 +274,10 @@ In artikel 228 van hetzelfde decreet worden de volgende wijzigingen aangebracht 
 
 In artikel 229 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° in paragraaf 2 worden het derde en het vierde lid vervangen door wat volgt :<br /><br />« Elke fractie kan minstens één lid van de raad van bestuur voordragen en dit voordrachtrecht waarborgt elke fractie een vertegenwoordiging in de raad van bestuur. Als de gewaarborgde vertegenwoordiging evenwel afbreuk zou doen aan de mogelijkheid voor de fracties die vertegenwoordigd zijn in de deputatie om minstens de helft van de leden van de raad van bestuur voor te dragen, wordt er gewerkt met gewogen stemrecht binnen de groep van door de fracties voorgedragen bestuurders. »;<br /><br />2° er wordt een paragraaf 2bis ingevoegd, die luidt als volgt :<br /><br />« § 2bis. De provincieraad kan er ook voor kiezen alle leden van de provincieraad te benoemen als lid van de raad van bestuur. In dit geval is het eerste lid van paragraaf 2 niet van toepassing en mogen er geen presentiegelden worden toegekend voor de vergaderingen van de raad van bestuur. ».
 
+### ART. 67.
+
+Aan artikel 231 van hetzelfde decreet wordt de volgende zin toegevoegd :<br /><br />« Op verzoek van een provincieraadslid worden deze notulen elektronisch ter beschikking gesteld. ».
+
 ### ART. 68.
 
 Artikel 233 van hetzelfde decreet, zoals gewijzigd bij decreet van 30 april 2009, wordt opgeheven.
@@ -229,6 +285,22 @@ Artikel 233 van hetzelfde decreet, zoals gewijzigd bij decreet van 30 april 2009
 ### ART. 69.
 
 Aan artikel 234 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt :<br /><br />« In afwijking van het tweede lid kan er aan geen enkel personeelslid van het autonoom provinciebedrijf eenjaarsalaris worden toegekend dat gelijk is aan of hoger dan het jaarsalaris van de provinciegriffier van de overeenkomstige provincie. ».
+
+### ART. 70.
+
+In artikel 236 van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009, worden de volgende wijzigingen aangebracht :<br /><br />1° in het eerste lid wordt de zin « Het autonoom provinciebedrijf maakt een budget op overeenkomstig de regels die krachtens artikelen 145, 146, 147, § 1, § 2, eerste lid, § 3 en § 4, en 175, worden gesteld voor het budget van de provincie. » vervangen door de zin « Het autonoom provinciebedrijf maakt een meerjarenplan en een budget op overeenkomstig de regels die krachtens artikelen 141, 142, 143, 145, 146, 147 en 175, gelden voor het meerjarenplan en het budget van de provincie. »;<br /><br />2° het tweede en derde lid worden opgeheven;<br /><br />3° het vijfde lid wordt opgeheven;<br /><br />4° het zesde lid wordt vervangen door wat volgt :<br /><br />« De raad van bestuur stelt het meerjarenplan en het budget vast en legt ze ter goedkeuring voor aan de provincieraad. »;<br /><br />5° na het zesde lid, dat het derde lid wordt, wordt een vierde lid toegevoegd, dat luidt als volgt :<br /><br />« De Vlaamse Regering bepaalt de nadere voorschriften voor de toepassing van de bepalingen van het eerste lid op de autonome provinciebedrijven. ».
+
+### ART. 71.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010, wordt een artikel 236bis ingevoegd, dat luidt als volgt :<br /><br />« Art. 236bis. § 1. De controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen weer te geven in de jaarrekening van het autonoom provinciebedrijf wordt uitgeoefend door één of meer commissarissen. Dit zijn erkende bedrijfsrevisoren die benoemd worden door de provincieraad en die onderworpen zijn aan de wettelijke en reglementaire bepalingen die hun ambt en hun bevoegdheid regelen.<br /><br />§ 2. De raad van bestuur spreekt zich in de loop van het eerste semester van het financiële boekjaar dat volgt op het financiële boekjaar waarop de rekening betrekking heeft, uit over de vaststelling van de jaarrekening.<br /><br />Als de raad van bestuur bezwaren heeft tegen bepaalde verrichtingen, formuleert hij een advies over de aansprakelijkheid van de actoren die betrokken zijn bij die verrichtingen. Dat advies wordt als bijlage bij de jaarrekening gevoegd. Een afschrift van dat advies wordt bezorgd aan de betrokken actoren.<br /><br />Een afschrift van de overeenkomstig dit artikel vastgestelde jaarrekening wordt binnen twintig dagen bezorgd aan de provincieraad.<br /><br />§ 3. De provincieraad keurt de jaarrekening goed aan de hand van het verslag van de commissaris of commissarissen, vermeld in paragraaf 1, als ze juist en volledig is en een waar en getrouw beeld geeft van de financiële toestand van het autonoom provinciebedrijf.<br /><br />Als de provincieraad geen besluit verzonden heeft aan het autonoom provinciebedrijf binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening aan de provincieraad, wordt hij geacht de jaarrekening goed te keuren.<br /><br />§ 4. De raad van bestuur kan bij de Vlaamse Regering gemotiveerd beroep instellen tegen het besluit van de provincieraad tot niet-goedkeuring van de jaarrekening.<br /><br />Het beroep moet worden ingediend binnen een termijn van dertig dagen die ingaat op de derde dag die volgt op de verzending van het betwiste besluit. De Vlaamse Regering spreekt zich over het ingestelde beroep uit binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van het beroep. Als de Vlaamse Regering binnen die termijn geen beslissing heeft verzonden, wordt ze geacht in te stemmen met het besluit van de provincieraad. ».
+
+### ART. 72.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010, wordt een artikel 236ter ingevoegd dat luidt als volgt :<br /><br />« Art. 236ter. § 1. Als de provincieraad bij de goedkeuring bepaalde verrichtingen als onregelmatig heeft bestempeld, beslist hij over de aansprakelijkheid van de actoren die betrokken zijn bij de betwiste verrichtingen.<br /><br />Als de provincieraad zich niet uitgesproken heeft over de goedkeuring van de jaarrekening binnen een termijn van vijftig dagen die ingaat op de derde dag die volgt op de verzending van de jaarrekening aan de provincieraad, wordt hij geacht over de aansprakelijkheid van de verrichtingen waartegen de raad van bestuur bezwaren heeft geformuleerd, te hebben beslist overeenkomstig het advies van de raad van bestuur.<br /><br />§ 2. De betrokkenen worden onmiddellijk met een aangetekende brief op de hoogte gebracht van de beslissing van de provincieraad. In voorkomend geval wordt daarbij een aanmaning gevoegd om het vastgestelde bedrag in de kas van het autonoom provinciebedrijf te storten. Een afschrift van de beslissing van de provincieraad wordt onmiddellijk bezorgd aan het autonoom provinciebedrijf en aan de Vlaamse Regering.<br /><br />§ 3. Degenen die aansprakelijk worden gesteld en het autonoom provinciebedrijf kunnen beroep instellen bij de Vlaamse Regering tegen de beslissingen van de provincieraad, vermeld in paragraaf 1, binnen een termijn van zestig dagen die ingaat op de derde dag die volgt op de verzending van het betwiste besluit of, als de provincieraad geen besluit heeft verzonden, die ingaat op de derde dag die volgt op de dag van het verstrijken van de termijn vermeld in paragraaf 1, tweede lid. Dat beroep heeft schorsende werking. De Vlaamse Regering doet uitspraak over de aansprakelijkheid van de betrokkenen en bepaalt het bedrag dat hen ten laste wordt gelegd.<br /><br />Als de verwerping van bepaalde verrichtingen aanleiding heeft gegeven tot de definitieve afwijzing van bepaalde uitgaven, kan degene die beroep heeft ingesteld de personen die hij aansprakelijk of medeaansprakelijk acht, ter verantwoording roepen in het beroep bij de Vlaamse Regering. In dat geval doet de Vlaamse Regering mee uitspraak over de aansprakelijkheid van de ter verantwoording geroepen personen.<br /><br />De beslissing van de Vlaamse Regering is uitvoerbaar, zelfs als daartegen beroep is ingesteld bij de Raad van State. Die beslissing kan echter pas ten uitvoer worden gelegd na het verstrijken van de termijn voor het instellen van dat beroep. ».
+
+### ART. 73.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010, wordt een artikel 236quater ingevoegd, dat luidt als volgt :<br /><br />« Art. 236quater. Onmiddellijk na het bezorgen van het meerjarenplan, de aanpassing van het meerjarenplan, het budget of de jaarrekening aan de provincie bezorgt het autonoom provinciebedrijf de gegevens over het vastgestelde beleidsrapport in een digitaal bestand aan de Vlaamse Regering. De Vlaamse Regering bepaalt welke gegevens de besturen bezorgen en de wijze waarop deze gegevens elektronisch worden aangeleverd. Bij gebrek aan een vastgestelde jaarrekening op 30 juni van het jaar dat volgt op het financiële boekjaar in kwestie bezorgt het autonoom provinciebedrijf de gegevens over het ontwerp van de jaarrekening in een digitaal bestand aan de Vlaamse Regering.<br /><br />Dat door de provincieraad goedgekeurde beleidsrapport van het autonoom provinciebedrijf is pas uitvoerbaar als de Vlaamse Regering in het bezit is van de digitale rapporten. De Vlaamse Regering stuurt onmiddellijk een ontvangstmelding van de rapporten naar het autonoom provinciebedrijf.<br /><br />Artikel 174bis, § 2, is van overeenkomstige toepassing op de autonome provinciebedrijven. ».
 
 ### ART. 74.
 
@@ -247,6 +319,10 @@ In hetzelfde decreet, het laatst gewijzigd bij het decreet van 10 december 2010,
 ### ART. 77.
 
 In artikel 244 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt :<br /><br />« Alle kennisgevingen of verzendingen tussen de provincieoverheid en de toezichthoudende overheid gebeuren op de wijze als bepaald door de Vlaamse Regering. ».
+
+### ART. 78.
+
+In artikel 245, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 30 april 2009 wordt de zin « Dezelfde lijst wordt gepubliceerd in het Bestuursmemoriaal. » vervangen door de zin « Dezelfde lijst wordt gepubliceerd op de provinciale website. ».
 
 ### ART. 79.
 
