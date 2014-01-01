@@ -8,6 +8,14 @@
 
 <P>Artikel III 15 van hetzelfde besluit wordt vervangen door wat volgt:<BR>"Art.   III 15. § 1. De lijnmanager bepaalt de duur van de proeftijd, als volgt:<BR>-   niveau D: 4 maanden;<BR>- niveau C en B: minimaal 4 en maximaal 9 maanden;<BR>-   niveau A: minimaal 6 en maximaal 12 maanden.<BR></P>  <P>Eén maand proeftijd stemt hierbij overeen met de prestatie van eenentwintig   voltijdse of deeltijdse werkdagen.<BR></P>  <P>Voor de bepaling van het aantal gepresteerde werkdagen worden eveneens   meegerekend:<BR>- de wettelijke en decretale feestdagen, 2 en 15 november, 26   december, en de vakantiedagen tussen kerstmis en nieuwjaar vermeld in artikel X   11, § 2, eerste lid van dit besluit;<BR>- de inhaalrust vermeld in artikel VII   28 van dit besluit;<BR>- de dienstvrijstellingen.<BR></P>  <P>§ 2.De ambtenaar op proef behoudt de hoedanigheid van ambtenaar op proef   zolang het aantal werkdagen dat overeenstemt met het aantal maanden proeftijd   niet gepresteerd is.".<BR></P>
 
+### ART. 65.
+
+<P>Aan deel VII, titel 2, hoofdstuk 2, van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 16 maart 2007 en gewijzigd bij de besluiten   van de Vlaamse Regering van 23 mei 2008, 5 september 2008, 9 januari 2009, 29   mei 2009, 29 april 2011 en 2 december 2011, wordt een afdeling 12, die bestaat   uit artikel VII 44ter, toegevoegd, die luidt als volgt:<BR>Afdeling 12&nbsp;   Toelage voor carpooling<BR></P>  <P>Art. VII 44ter. Het personeelslid dat voor een dienstreis gebruik maakt van   een eigen voertuig, en één of meerdere andere personeelsleden meeneemt, ontvangt   een toelage voor carpooling.<BR></P>  <P>Het bedrag van deze toelage is gelijk aan de helft van de kilometervergoeding   zoals bepaald in artikel VII 80 van hetzelfde besluit.<BR></P>  <P>In afwijking van artikel VII 16, 1° van dit besluit gebeurt de betaling   jaarlijks in de loop van het eerste kwartaal van het jaar volgend op het jaar   waarop de dienstreizen betrekking hebben.".<BR></P>
+
+### ART. 68.
+
+In artikel VII 80 van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 16 maart 2007, wordt paragraaf 2   opgeheven.<BR>
+
 ### ART. 69.
 
 &nbsp;In artikel VII 164, § 1, 1<SUP>ste</SUP> lid en § 2 van hetzelfde   besluit, ingevoegd bij besluit van de Vlaamse Regering van 8 juni 2012, worden   na het getal 2012 telkens volgende woorden toegevoegd:<BR>"en totdat het   personeelslid de entiteit vrijwillig verlaat of ontslagen   wordt.".<BR>
