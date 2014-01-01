@@ -2,16 +2,16 @@
   "codex_id": 1008095,
   "title": "Ministerieel besluit van 2001-06-12 houdende vaststelling van de procedure tot het verlenen, het verlengen, het weigeren of het intrekken van een principieel akkoord, een erkenning en subsidiëring van kinderdagverblijven en diensten voor opvanggezinnen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008095/VolledigDocument?datum=2009-09-15",
-  "source_sha256": "79237505051209a15600cbc9841bfc2b35a7120284a43ea548e6e50ab64fa797",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008095/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ec3dd020b98b71400a2396541286aa03ef9dc97a793f242265ef54cbbeb29b45",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008095&param=informatie",
-  "as_of": "2009-09-15",
+  "as_of": "2014-01-01",
   "made": "2001-06-12",
   "gazette": "2001-07-27",
   "numac": 2001035797,
   "document_start": "2001-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2009-09-15",
+  "in_force": "2014-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2009-09-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
