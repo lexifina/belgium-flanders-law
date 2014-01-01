@@ -2,16 +2,16 @@
   "codex_id": 1018248,
   "title": "Besluit van de Vlaamse Regering van 2009-04-30 houdende de voorwaarden voor de erkenning en subsidiëring als gemandateerde voorziening, coördinatiepunt en flexibele opvangpool van doelgroepwerknemers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018248/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "8cfda07d255a964626164382f54ea67d3ffc8e98c9b624546c7830852e6db73b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018248/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ed22f087d5e46a8e6d1830cf3c1c7b85ad97d740ba94237f13d888992989af5b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018248&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-01-01",
   "made": "2009-04-30",
   "gazette": "2009-08-24",
   "numac": 2009203666,
   "document_start": "2009-08-24",
   "document_end": "2014-03-31",
-  "in_force": "2013-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 74,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
