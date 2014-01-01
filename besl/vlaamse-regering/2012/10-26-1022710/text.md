@@ -30,6 +30,10 @@
 
 ## HOOFDSTUK 1. Definities
 
+### ART. 1.
+
+In dit besluit wordt verstaan onder:<BR>1° decreet van 28 april 1998: het   decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid;<BR>2°   decreet van 15 juli 2011: het decreet van 15 juli 2011 houdende vaststelling van   de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest   periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen   worden opgelegd;<BR>3° minister: de Vlaamse minister, bevoegd voor het beleid   inzake onthaal en integratie van inwijkelingen;<BR>4° personen van vreemde   herkomst: personen die legaal en langdurig in België verblijven en die bij hun   geboorte niet de Belgische nationaliteit bezaten of van wie minstens een van de   ouders bij geboorte niet de Belgische nationaliteit bezat, met uitsluiting van   personen die bij hun geboorte de Nederlandse nationaliteit bezaten of van wie   minstens een van de ouders bij geboorte de Nederlandse nationaliteit bezat.   Daarbij is elk langdurig verblijf elk legaal verblijf dat niet beperkt is tot   maximaal drie maanden, zoals bedoeld in hoofdstuk 2 van de eerste titel van de   wet van 15 december 1980 betreffende toegang tot het grondgebied, het verblijf,   de vestiging en de verwijdering van vreemdelingen.
+
 ## HOOFDSTUK 2. Het lokale integratiebeleid
 
 ## Afdeling 1. Voorwaarden om voor een integratiesubsidie in aanmerking te komen
@@ -54,15 +58,63 @@ Ter uitvoering van artikel 29, tweede lid, en artikel 4 van het decreet   van 28
 
 ## Afdeling 3. De beoordeling van de subsidieaanvraag
 
+### ART. 6.
+
+<P>Overeenkomstig artikel 8 van het decreet van 15 juli 2011 bepaalt de minister   de procedure om de lokale invulling van de Vlaamse beleidsprioriteiten te   beoordelen.<BR></P>  <P>De minister brengt de lokale besturen op 30 april van het eerste jaar van de   lokale beleidscyclus op de hoogte van het al dan niet aanvaarden van de   subsidieaanvraag en van de hoogte van het principieel toe te kennen jaarlijkse   subsidiebedrag.</P>
+
 ## Afdeling 4. Toezicht op de subsidies
+
+### ART. 7.
+
+Voor de evaluatie van het lokaal integratiebeleid kan de minister een   visitatiecommissie samenstellen. De minister bepaalt de vorm, de inhoud en de   wijze van de visitatie in overleg met de steden en gemeenten.
+
+### ART. 8.
+
+De minister wordt gemachtigd het bezwaar, vermeld in artikel 11 van het   decreet van 15 juli 2011, aan te tekenen en, als dat nodig is, de beslissing uit   te voeren.
+
+### ART. 9.
+
+<P>De steden en gemeenten moeten de middelen besteden voor het einde van de   strategische meerjarenplanning.<BR></P>  <P>Het Agentschap voor Binnenlands Bestuur is bevoegd voor het financieel   toezicht.</P>
 
 ## HOOFDSTUK 3. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen in het besluit van de Vlaamse Regering van 15 juli 2002 betreffende de erkenning en subsidiëring van de centra en diensten voor het Vlaamse minderhedenbeleid
 
+### ART. 10.
+
+In het besluit van de Vlaamse Regering van 15 juli 2002 betreffende de   erkenning en subsidiëring van de centra en diensten voor het Vlaamse   minderhedenbeleid, worden de artikelen 26 tot en met 33 opgeheven.
+
 ## Afdeling 2. Wijzigingen in het besluit van de Vlaamse Regering van 12 november 2010 met betrekking tot de uitvoering van het decreet betreffende het Vlaamse integratiebeleid
 
+### ART. 11.
+
+<P>Artikel 11 van het besluit van de Vlaamse Regering van 12 november 2010 met   betrekking tot de uitvoering van het decreet betreffende het Vlaamse   integratiebeleid, wordt vervangen door wat volgt:<BR></P>  <P>« Art. 11. Ter uitvoering van artikel 12 van het Integratiedecreet en als   aanvulling op de algemene opdrachten vermeld, in artikel 11 van het voormelde   decreet, en op de opdrachten vermeld in artikel 45/5, eerste lid, van het   voormelde decreet, werkt het VLEMI zesjaarlijks een omgevingsanalyse uit op   basis van de input van de lokale en provinciale integratiecentra, de steden en   gemeenten, en de Vlaamse Gemeenschapscommissie. Na drie jaar actualiseert het   VLEMI die omgevingsanalyse op basis van input van de lokale en provinciale   integratiecentra, de steden en gemeenten, en de Vlaamse Gemeenschapscommissie.   ».</P>
+
+### ART. 12.
+
+In artikel 13, § 1 en § 2, van hetzelfde besluit wordt het woord «   integratiecentra » telkens vervangen door de woorden « lokale en provinciale   integratiecentra ».
+
+### ART. 13.
+
+In artikel 37 van hetzelfde besluit wordt het derde lid   opgeheven.
+
+### ART. 14.
+
+<P>In artikel 40 van hetzelfde besluit wordt punt 3° vervangen door wat   volgt:<BR></P>  <P>« 3° de bijdrage van het hoofdstedelijk integratiecentrum aan de   omgevingsanalyse van de Vlaamse Gemeenschapscommissie; ».</P>
+
+### ART. 15.
+
+Artikel 41 van hetzelfde besluit wordt opgeheven.
+
+### ART. 16.
+
+In artikel 74, 3° van hetzelfde besluit worden de woorden « de   integratiediensten » opgeheven.
+
 ## HOOFDSTUK 4. Overgangsbepalingen
+
+### ART. 17.
+
+De stad of gemeente kan een of meer aspecten van de regiefunctie gedurende   de eerste lokale beleidscyclus, zoals bepaald in artikel 2, 3° van het decreet   van 15 juli 2011, laten uitvoeren door het integratiecentrum dat bevoegd is op   het grondgebied. In dat geval wordt daartoe een samenwerkingsovereenkomst   gesloten. De samenwerking is steeds gericht op een versterking van de stad of   gemeente om de regiefunctie ten volle op te nemen.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
@@ -73,3 +125,11 @@ Het decreet van 6 juli 2012 tot wijziging van diverse bepalingen van het   decre
 ### ART. 19.
 
 Van het decreet van 30 april 2009 tot wijziging van het decreet van 28   april 1998 inzake het Vlaamse beleid van etnisch-culturele minderheden, treden   artikel 22 en 23 in werking op 30 oktober 2012 en artikel 21, 24, 25, 26 en 27   op 1 januari 2014.
+
+### ART. 20.
+
+Dit besluit treedt in werking op 1 januari 2014, met uitzondering van   artikel 18 dat in werking treedt op 29 oktober 2012 en artikel 2, 3, 4, 5 en 19   die in werking treden op 30 oktober 2012.
+
+### ART. 21.
+
+De Vlaamse minister, bevoegd voor het beleid inzake onthaal en integratie   van inwijkelingen, is belast met de uitvoering van dit besluit.
