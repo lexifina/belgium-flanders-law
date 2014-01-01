@@ -331,7 +331,7 @@ Kind en Gezin onderzoekt de ontvankelijkheid van het bezwaarschrift.   Binnen vi
 
 ### ART. 68.
 
-Het bezwaar wordt behandeld volgens de procedure, vermeld in het besluit   van de Vlaamse Regering van 15 september 1998 betreffende de adviserende   beroepscommissie inzake gezins- en welzijnsaangelegenheden.<BR>
+Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.<BR>
 
 ## HOOFDSTUK 9 Inzagerecht
 
