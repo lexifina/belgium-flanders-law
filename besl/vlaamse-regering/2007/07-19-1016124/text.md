@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 maart 2007 houdende h
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   2 maart 2007 houdende het statuut van de reisbureaus;<BR>2° de minister : de   Vlaamse minister, bevoegd voor het toerisme;<BR>2° /1 de secretaris-generaal van   het Departement internationaal Vlaanderen : de persoon die leiding heeft over   het Departement internationaal Vlaanderen;<BR>3° ...<BR>4° persoon belast met de   dagelijkse leiding van een verkooppunt : elke natuurlijke persoon behorend tot   een reisbureau, die de facto verantwoordelijk is voor of toezicht uitoefent op   de dagdagelijkse werkzaamheden van een verkooppunt van dat reisbureau;<BR>5°   lidstaat : een lidstaat van de Europese Economische Ruimte;<BR>6°   gereglementeerd beroep : een beroepswerkzaamheid of een geheel van   beroepswerkzaamheden zoals gedefinieerd in artikel 3 van de richtlijn 2005/36/EG   van het Europees Parlement en de Raad van 7 september 2005 betreffende de   erkenning van beroepskwalificaties;<BR>7° opleidingstitel : een opleidingstitel   zoals gedefinieerd in artikel 3 van de richtlijn 2005/36/EG van het Europees   Parlement en de Raad van 7 september 2005 betreffende de erkenning van   beroepskwalificaties;<BR>8° bevoegde autoriteit : een bevoegde autoriteit zoals   gedefinieerd in artikel 3 van de richtlijn 2005/36/EG van het Europees Parlement   en de Raad van 7 september 2005 betreffende de erkenning van   beroepskwalificaties;<BR>9° bedrijfsleider : een bedrijfsleider zoals   gedefinieerd in artikel 3 van de richtlijn 2005/36/EG van het Europees Parlement   en de Raad van 7 september 2005 betreffende de erkenning van   beroepskwalificaties.<BR><BR>
+...
 
 ## HOOFDSTUK II Vergunningen
 
@@ -18,13 +18,13 @@ In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   2 m
 
 ### ART. 2.
 
-§ 1. Onder de vereiste beroepskennis, vermeld in artikel 5, 1°, van het decreet, moet worden verstaan :<br />1° kennis van het Nederlands noodzakelijk voor het uitoefenen van de dagelijkse leiding van het verkooppunt;<br />2° voldoende kennis van de volgende materies :<br />a) technische kennis :<br />1) de toepasselijke wetgeving;<br />2) de reisproducten;<br />3) de geografie;<br />4) de structuur van de reisindustrie;<br />b) bedrijfsbeheer :<br />1) basisbeginselen van boekhouding;<br />2) basisbeginselen van fiscaal en sociaal recht in verband met het beroep;<br />3° Kennis van verkoops- en organisatietechnieken;<br />4° Kennis van informatica, reservatie en ticketing.<br /><br />§ 2. De volgende personen worden, op voorwaarde dat ze beschikken over de in § 1 vermelde kennis van het Nederlands, geacht over de vereiste beroepskennis, vermeld in § 1 te beschikken :<br />a) de houder van :<br />1° een bachelor- of masterdiploma in toerisme dat overeenkomstig een decreet van de Vlaamse Gemeenschap door een universiteit of een hogeschool is toegekend of van een daarmee gelijkgesteld diploma dat vóór het academiejaar 2004-2005 is toegekend, die een relevante ervaring van één jaar in één of meerdere reisbureau-activiteit(en) kunnen bewijzen, in de periode van tien jaar voorafgaand aan hun aanstelling als persoon belast met de dagelijkse leiding van het verkooppunt;<br />2° een bachelor- of masterdiploma dat overeenkomstig een decreet van de Vlaamse Gemeenschap door een instelling van hoger onderwijs is toegekend of van een daarmee gelijkgesteld diploma dat vóór het academiejaar 2004-2005 is toegekend, die een relevante ervaring van twee jaar in één of meerdere reisbureau-activiteit(en) kunnen bewijzen, in de periode van tien jaar voorafgaand aan hun aanstelling als persoon belast met de dagelijkse leiding van het verkooppunt;<br />3° een diploma van hoger secundair onderwijs toerisme dat overeenkomstig een decreet van de Vlaamse Gemeenschap is toegekend, die een relevante ervaring van drie jaar in één of meerdere reisbureau-activiteit(en) kunnen bewijzen, in de periode van tien jaar voorafgaand aan hun aanstelling als persoon belast met de dagelijkse leiding van het verkooppunt;<br />4° een getuigschrift reisbureau-uitbater dat door of krachtens een decreet van de Vlaamse Gemeenschap is toegekend, die een relevante ervaring van drie jaar in één of meerdere reisbureau-activiteit(en) kunnen bewijzen, in de periode van tien jaar voorafgaand aan hun aanstelling als persoon belast met de dagelijkse leiding van het verkooppunt;<br />5° de titel van reisexpert overeenkomstig het decreet van 30 april 2004 betreffende het verwerven van een titel van beroepsbekwaamheid.<br />b) de houder van een bekwaamheidsattest of opleidingstitel voorgeschreven door een lidstaat om tot het gereglementeerd beroep van reisbureau-uitbater op zijn grondgebied te worden toegelaten, dan wel deze activiteit aldaar uit te oefenen, dat beantwoordt aan de volgende voorwaarden :<br />- het is afgegeven door een bevoegde autoriteit in een lidstaat die overeenkomstig de wettelijke of bestuursrechtelijke bepalingen van die lidstaat is aangewezen,<br />- uit het bekwaamheidsattest of de opleidingstitel blijkt dat de houder met succes :<br />o ofwel een secundaire studiecyclus van technische aard heeft gevolgd, aangevuld met een andere dan de hierna bedoelde postsecundaire studiecyclus of beroepsopleiding en/of met de beroepsstage of praktijkervaring die als aanvulling op deze studiecyclus vereist is;<br />o ofwel een postsecundaire studiecyclus van ten minste drie jaar of een gelijkwaardige deeltijdstudie heeft gevolgd aan een universiteit of een andere instelling voor hoger onderwijs of een andere instelling van gelijkwaardig opleidingsniveau en in het voorkomend geval, en dat hij met succes de beroepsopleiding heeft gevolgd die in aanvulling op de postsecundaire studiecyclus wordt vereist;<br />o ofwel een specifiek examen zonder voorafgaande opleiding heeft afgelegd;<br />die beschikt over de relevante ervaring die tevens gevraagd wordt van de houders van de met zijn opleidingstitel overeenkomende Vlaamse opleidingstitel, vermeld in artikel 2, § 2 a) 1° tot 4° of de in artikel 2, § 2 a) 5° vermelde bekwaamheidsproef met succes heeft afgelegd.<br />c) de persoon die het beroep van reisbureau-uitbater tijdens de voorafgaande tien jaar gedurende twee jaar voltijds heeft uitgeoefend in een lidstaat waar het beroep van reisbureau-uitbater niet gereglementeerd is en die een of meer bekwaamheidsattesten of opleidingstitels bezit die voldoen aan de volgende voorwaarden :<br />- het is afgegeven door een bevoegde autoriteit in een lidstaat die overeenkomstig de wettelijke of bestuursrechtelijke bepalingen van die lidstaat is aangewezen,<br />- uit het bekwaamheidsattest of de opleidingstitel blijkt dat de houder met succes :<br />o ofwel een secundaire studiecyclus van technische aard heeft gevolgd, aangevuld met een andere dan de hierna bedoelde postsecundaire studiecyclus of beroepsopleiding en/of met de beroepsstage of praktijkervaring die als aanvulling op deze studiecyclus vereist is en hem op de uitoefening van het beroep van reisbureau-uitbater heeft voorbereid;<br />o ofwel een postsecundaire studiecyclus van ten minste drie jaar of een gelijkwaardige deeltijdstudie heeft gevolgd aan een universiteit of een andere instelling voor hoger onderwijs of een andere instelling van gelijkwaardig opleidingsniveau en in het voorkomend geval, en dat hij met succes de beroepsopleiding heeft gevolgd die in aanvulling op de postsecundaire studiecyclus wordt vereist en die hem op de uitoefening van het beroep van reisbureau-uitbater heeft voorbereid;<br />o ofwel een specifiek examen zonder voorafgaande opleiding heeft afgelegd, dat hem op de uitoefening van het beroep van reisbureau-uitbater heeft voorbereid.<br />die beschikt over de relevante ervaring die tevens gevraagd wordt van de houders van de met zijn opleidingstitel overeenkomende Vlaamse opleidingstitel, vermeld in artikel 2, § 2 a) 1° tot 4° of de in artikel 2, § 2 a) 5° vermelde bekwaamheidsproef met succes heeft afgelegd.<br />d) de persoon die in een lidstaat de werkzaamheden vermeld in artikel 18 van de richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties, heeft uitgeoefend.<br /><br />§ 3. Voor de toepassing van § 2 wordt elke opleidingstitel, dan wel elk geheel van opleidingstitels die door een bevoegde autoriteit in een lidstaat zijn afgegeven, gelijkgesteld met een in artikel 2, § 2, b) en c), vermelde opleidingstitel wanneer daarmee een in de Europese Economische Ruimte gevolgde opleiding wordt afgesloten welke door deze lidstaat als gelijkwaardig wordt erkend, en daaraan dezelfde rechten inzake toegang tot of uitoefening van het beroep van reisbureau-uitbater zijn verbonden, dan wel een voorbereiding vormt op de uitoefening van dat beroep.<br /><br />Onder dezelfde voorwaarden als die van de eerste alinea wordt met een dergelijke opleidingstitel ook gelijkgesteld elke beroepskwalificatie die weliswaar niet voldoet aan de eisen die in de wettelijke en bestuursrechtelijke bepalingen van de lidstaat van oorsprong voor de toegang tot of uitoefening van een beroep zijn vastgesteld, maar die de houder ervan krachtens deze bepalingen verworven rechten verleent. Dit geldt met name indien de lidstaat van oorsprong het niveau verhoogt van de opleiding die vereist is voor de toegang tot een beroep of de uitoefening ervan, en indien een persoon die vroeger een opleiding heeft genoten die niet meer voldoet aan de eisen van de nieuwe kwalificatie, verworven rechten geniet uit hoofde van nationale wettelijke of bestuursrechtelijke bepalingen; in dat geval wordt de vroeger genoten opleiding door de ontvangende lidstaat beschouwd als overeenkomend met het niveau van de nieuwe opleiding.<br /><br />Voor de toepassing van § 2 worden zowel voltijdse als deeltijdse prestaties in aanmerking genomen, met dien verstande dat de totale duur van de deeltijdse arbeidstijd overeenkomt met de vereiste voltijdse ervaring die door § 2 wordt opgelegd.<br /><br />Het al dan niet bezitten van de vereiste beroepskennis wordt door het Departement internationaal Vlaanderen beoordeeld op basis van één of meer van de volgende documenten :<br />a) de voorgelegde diploma's, bekwaamheidsattesten of opleidingstitels;<br />b) een op eer afgeleverde verklaring, overeenkomstig het formulier van het Departement internationaal Vlaanderen, van de huidige of vroegere werk- of opdrachtgever;<br />c) getuigenverklaringen;<br />d) elk stuk dat door het Departement internationaal Vlaanderen wordt aanvaard als bewijs.<br /><br />
+...
 
 ## Onderafdeling II Voorwaarden wat betreft de onderneming
 
 ### ART. 3.
 
-De aanvrager van een vergunning moet het bestaan van een permanent eigen   vermogen bewijzen met een minimum bedrag van 25.000 euro. <BR><BR>Onder   permanent eigen vermogen wordt verstaan, het eigen vermogen zoals bepaald,   naargelang van het geval, in het koninklijk besluit van 30 januari 2001 tot   uitvoering van het wetboek van vennootschappen of het koninklijk besluit van 19   december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking   van de jaarrekening van bepaalde verenigingen zonder winstoogmerk,   internationale verenigingen zonder winstoogmerk en stichtingen, aangevuld met de   achtergestelde leningen. <BR><BR>Het permanent eigen vermogen van de natuurlijke   personen wordt berekend op basis van hun vermogen.<BR><BR>Het bewijs van het   bestaan van het permanent eigen vermogen wordt binnen een maand geleverd na   eenvoudig verzoek hiertoe door het Departement internationaal Vlaanderen middels   een attest opgesteld door een bedrijfsrevisor, lid van het Instituut der   Bedrijfsrevisoren, of door een accountant, ingeschreven op de lijst van externe   accountants van het Instituut der Accountants of een boekhouder, lid van het   beroepsinstituut van erkende boekhouders en fiscalisten. De certificering door   bedrijfsrevisoren, accountants of boekhouders die voldoen aan de voorwaarden tot   reglementering van hun beroep in een andere EG-lidstaat wordt eveneens   aanvaard.
+...
 
 ### ART. 4.
 
@@ -40,80 +40,61 @@ Binnen vijf werkdagen na de kennisgeving van de opzegging of na een wijziging va
 
 ### ART. 7.
 
-<P>...</P>
+...
 
 ### ART. 8.
 
-§ 1. De aanvrager of houder van een vergunning moet een verzekering tegen financieel onvermogen gesloten hebben die aan de voorwaarden van dit artikel voldoet.<br /><br />§ 2. De verzekeringsovereenkomst heeft als voorwerp :<br />1° in geval van financieel onvermogen van het reisbureau :<br />a) de reizigers de bedragen terug te betalen die al voldaan zijn;<br />b) tot repatriëring van de reizigers over te gaan als de reis een aanvang heeft genomen en de terugkeer van de reizigers onzeker of verhinderd is ingevolge het financiële onvermogen van het reisbureau;<br />2° in geval van financieel onvermogen van het toeristische verhuurkantoor :<br />de huurders de bedragen terug te betalen die al voldaan zijn.<br /><br />§ 3. De verzekeringsovereenkomst mag niet voorzien in een schadevergoeding ingevolge het financieel onvermogen van het reisbureau.<br /><br />§ 4. De verzekeraar moet er zich toe verbonden hebben het Departement internationaal Vlaanderen te informeren over de eventuele schorsing, opzegging of nietigverklaring van de overeenkomst of van gedeeltelijk of volledig verval van recht op de uitkering, alsook wanneer de overeenkomst niet wordt vernieuwd op zijn eindvervaldag.<br /><br />§ 5. De verzekering wordt opgezegd indien de secretaris-generaal van het Departement internationaal Vlaanderen de vergunning van het reisbureau intrekt.<br /><br />
+...
 
 ### ART. 9.
 
-§ 1. De aanvrager of houder van een vergunning dient tevens een verzekering burgerlijke beroepsaansprakelijkheid gesloten te hebben die aan de voorwaarden van dit artikel voldoet.<br /><br />§ 2. De overeenkomsten tot verzekering van de burgerlijke aansprakelijkheid van het reisbureau jegens de reizigers of het toeristische verhuurkantoor jegens de huurders verlenen tenminste dekking :<br />- voor de schade voortvloeiend uit lichamelijke letsels ten belope van 1,2 miljoen euro per schadegeval en 120.000 euro per reiziger;<br />- voor de materiële schade ten belope van 120.000 euro per schadegeval en 2500 euro per reiziger;<br />- voor de immateriële schade ten belope van 120.000 euro per schadegeval en 2500 euro per reiziger.<br /><br />§ 3. De bedragen waarvan sprake in § 2 van dit artikel worden gekoppeld aan de evolutie van het indexcijfer der consumptieprijzen waarbij als basisindexcijfer wordt genomen het indexcijfer dat geldt tijdens de maand die voorafgaat aan de bekendmaking van dit besluit in het Belgisch Staatsblad.<br /><br />§ 4. De verzekeraar moet er zich toe verbonden hebben het Departement internationaal Vlaanderen te informeren over de eventuele schorsing, opzegging of nietigverklaring van de overeenkomst of van gedeeltelijk of volledig verval van recht op de uitkering, alsook wanneer de overeenkomst niet wordt vernieuwd op zijn eindvervaldag.<br /><br />§ 5. De verzekering wordt opgezegd indien de secretaris-generaal van het Departement internationaal Vlaanderen de vergunning van het reisbureau intrekt.<br /><br />
+...
 
 ## Afdeling II De procedure voor toekenning, weigering, schorsing of intrekking van de vergunning en toestemming
 
 ### ART. 10.
 
-De natuurlijke persoon of rechtspersoon die een reisbureau-activiteit wenst uit te oefenen dient bij Toerisme Vlaanderen de daartoe vereiste vergunningsaanvraag in met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek. <br />De vergunningsaanvraag wordt ondertekend door de aanvrager zelf, als het een natuurlijk persoon betreft, of door het gemachtigd bestuursorgaan of door een of meer personen die daartoe een bijzondere lastgeving hebben gekregen, als het een rechtspersoon betreft. De vergunningsaanvraag bevat de volgende documenten en gegevens :<br />1° een kopie van het getuigschrift van goed zedelijk gedrag, conform het model bestemd voor een overheidsadministratie, dat minder dan drie maanden vooraf werd afgeleverd op naam van de personen belast met de dagelijkse leiding van de aangevraagde verkooppunten. <br />Het getuigschrift van goed zedelijk gedrag mag worden vervangen door eender welk document uitgereikt door de bevoegde overheid van de lidstaat van oorsprong of herkomst van de betrokkene waaruit blijkt dat aan de voorwaarden van goed zedelijk gedrag is voldaan als de betrokkene :<br />a) hetzij onderdaan is van een lidstaat; <br />b) hetzij een staatloze is die bestendig in België verblijft of een onderdaan is van een staat die aan Belgen gelijkwaardige wederkerigheid toekent.<br />2° wat betreft de personen die belast zijn met de dagelijkse leiding van een aangevraagd verkooppunt : <br />- het geschreven akkoord waaruit blijkt dat ze hun verantwoordelijkheid voor de dagelijkse leiding van het verkooppunt aanvaarden;<br />- en ofwel a) het bewijs dat voldaan is aan de vereisten, vermeld in artikel 2; ofwel b) het bewijs dat zij onder de overgangsmaatregel, vermeld in artikel 13, tweede lid, van het decreet, vallen;<br />3° de bewijzen waaruit blijkt dat de financiële mogelijkheden van de aanvrager beantwoorden aan de vereisten, vermeld in artikel 3;<br />4° een bewijs afgeleverd door de borgsteller of zijn aangestelde, waaruit blijkt dat aan de vereisten, vermeld in artikel 4 en 5, voldaan is;<br />5° een overzicht van alle aangevraagde verkooppunten, met opgave van hun aard, adres en de voornamen, de achternaam en de woon- en verblijfplaats van de personen die zullen worden belast met de dagelijkse leiding ervan;<br />6° een bewijs, afgeleverd door de verzekeringsonderneming(en) of haar/hun aangestelde(n), waaruit blijkt dat aan de vereisten, vermeld in artikel 8 en 9, voldaan is;<br /><br />Toerisme Vlaanderen moet binnen een termijn van tien werkdagen met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek, op de hoogte worden gebracht van elke wijziging aan een element van de vergunningsaanvraag.<br /><br />
-
-### ART. 10.
-
-De natuurlijke persoon of rechtspersoon die een reisbureau-activiteit wenst uit te oefenen dient bij het Departement internationaal Vlaanderen de daartoe vereiste vergunningsaanvraag in met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek.<br>
-De vergunningsaanvraag wordt ondertekend door de aanvrager zelf, als het een natuurlijk persoon betreft, of door het gemachtigd bestuursorgaan of door een of meer personen die daartoe een bijzondere lastgeving hebben gekregen, als het een rechtspersoon betreft. De vergunningsaanvraag bevat de volgende documenten en gegevens :<br>
-1° een kopie van het getuigschrift van goed zedelijk gedrag, conform het model bestemd voor een overheidsadministratie, dat minder dan drie maanden vooraf werd afgeleverd op naam van de personen belast met de dagelijkse leiding van de aangevraagde verkooppunten.<br>
-Het getuigschrift van goed zedelijk gedrag mag worden vervangen door eender welk document uitgereikt door de bevoegde overheid van de lidstaat van oorsprong of herkomst van de betrokkene waaruit blijkt dat aan de voorwaarden van goed zedelijk gedrag is voldaan als de betrokkene :<br>
-a) hetzij onderdaan is van een lidstaat;<br>
-b) hetzij een staatloze is die bestendig in België verblijft of een onderdaan is van een staat die aan Belgen gelijkwaardige wederkerigheid toekent.<br>
-2° wat betreft de personen die belast zijn met de dagelijkse leiding van een aangevraagd verkooppunt :<br>
-- het geschreven akkoord waaruit blijkt dat ze hun verantwoordelijkheid voor de dagelijkse leiding van het verkooppunt aanvaarden;<br>
-- en ofwel a) het bewijs dat voldaan is aan de vereisten, vermeld in artikel 2; ofwel b) het bewijs dat zij onder de overgangsmaatregel, vermeld in artikel 13, tweede lid, van het decreet, vallen;<br>
-3° de bewijzen waaruit blijkt dat de financiële mogelijkheden van de aanvrager beantwoorden aan de vereisten, vermeld in artikel 3;<br>
-4° een bewijs afgeleverd door de borgsteller of zijn aangestelde, waaruit blijkt dat aan de vereisten, vermeld in artikel 4 en 5, voldaan is;<br>
-5° een overzicht van alle aangevraagde verkooppunten, met opgave van hun aard, adres en de voornamen, de achternaam en de woon- en verblijfplaats van de personen die zullen worden belast met de dagelijkse leiding ervan;<br>
-6° een bewijs, afgeleverd door de verzekeringsonderneming(en) of haar/hun aangestelde(n), waaruit blijkt dat aan de vereisten, vermeld in artikel 8 en 9, voldaan is;<br>
-<br>
-Het Departement internationaal Vlaanderen moet binnen een termijn van tien werkdagen met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek, op de hoogte worden gebracht van elke wijziging aan een element van de vergunningsaanvraag.<br>
-&nbsp;
+...
 
 ### ART. 11.
 
-De vergunninghouder die bijkomende verkooppunten wenst te openen, dient de daartoe vereiste toestemmingsaanvraag in bij het Departement internationaal Vlaanderen met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek. <br /><br />De toestemmingsaanvraag wordt ondertekend door de vergunninghouder zelf, als het een natuurlijk persoon betreft, of door het gemachtigd bestuursorgaan of door een of meer personen die daartoe een bijzondere lastgeving hebben gekregen, als het een rechtspersoon betreft, en bevat de volgende documenten :<br />1° een kopie van het getuigschrift van goed zedelijk gedrag, conform het model bestemd voor een overheidsadministratie, dat minder dan drie maanden vooraf werd afgeleverd op naam van de personen belast met de dagelijkse leiding van de aangevraagde verkooppunten;<br />Het getuigschrift van goed zedelijk gedrag mag worden vervangen door eender welk document uitgereikt door de bevoegde overheid van de lidstaat van oorsprong of herkomst van de betrokkene waaruit blijkt dat aan de voorwaarden van goed zedelijk gedrag is voldaan als de betrokkene :<br />a) hetzij onderdaan is van een lidstaat; <br />b) hetzij een staatloze is die bestendig in België verblijft of een onderdaan is van een staat die aan Belgen gelijkwaardige wederkerigheid toekent.<br />2° wat betreft de personen die belast zijn met de dagelijkse leiding van een verkooppunt : <br />- het geschreven akkoord waaruit blijkt dat ze hun verantwoordelijkheid voor de dagelijkse leiding van het verkooppunt aanvaarden;<br />- en ofwel a) het bewijs dat voldaan is aan de vereisten, vermeld in artikel 2; ofwel b) het bewijs dat zij onder de overgangsmaatregel, vermeld in artikel 13, tweede lid, van het decreet, vallen;<br />3° een overzicht van de aangevraagde verkooppunten met opgave van hun aard, adres en de naam, de voornamen en de woon- en verblijfplaats van de personen die zullen worden belast met de dagelijkse leiding ervan.<br /><br />Het Departement internationaal Vlaanderen moet binnen een termijn van tien werkdagen met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek, op de hoogte worden gebracht van elke wijziging aan een element van de vergunningsaanvraag.<br /><br />
+...
 
 ### ART. 12.
 
-Binnen tien werkdagen na ontvangst van de vergunnings- of   toestemmingsaanvraag, vermeld in artikel 10 en 11, stuurt het Departement   internationaal Vlaanderen de aanvrager een bewijs van ontvangst, dat in   voorkomend geval meedeelt welke documenten ontbreken. Het Departement   internationaal Vlaanderen deelt de vergunning- of toestemmingsaanvraag tevens   ter informatie mee&nbsp;aan de minister.<BR><BR>Als de aanvraag volledig is,   vermeldt het bewijs van ontvangst de termijn waarbinnen de beslissing over de   vergunning- of toestemmingsaanvraag zal worden meegedeeld, de beschikbare   rechtsmiddelen en de vermelding dat bij het uitblijven van een antwoord binnen   de termijn de vergunning of toestemming wordt geacht te zijn   verleend.<BR><BR>
+...
 
 ### ART. 13.
 
-<P>De beslissing over de toekenning, weigering, intrekking of schorsing van de   vergunning of toestemming wordt genomen door de secretaris-generaal van het   Departement internationaal Vlaanderen binnen een termijn van 30 werkdagen na de   indiening van het volledige dossier door de aanvrager, respectievelijk binnen de   termijn van 30 werkdagen na ontvangst van het proces-verbaal, vermeld in artikel   10 van het decreet. <BR><BR>Een beslissing tot weigering, intrekking of   schorsing neemt de secretaris-generaal van het Departement internationaal   Vlaanderen pas nadat hij de betrokkene met een aangetekende brief of op een   wijze voorzien in art. 2281 van het Burgerlijk Wetboek, de kans heeft geboden om   te worden gehoord.<BR><BR>De beslissing over de toekenning, weigering,   intrekking of schorsing van de vergunning of toestemming wordt met een   aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk   Wetboek meegedeeld aan de betrokkene. De beslissing over de toekenning van de   vergunning of toestemming vermeldt voor welke van de aangevraagde verkooppunten   toestemming wordt gegeven.<BR><BR>Als de beslissing over de aanvraag niet binnen   een termijn van veertig werkdagen na de indiening van het volledige dossier van   de aanvrager, met een aangetekende brief of op een wijze voorzien in art. 2281   van het Burgerlijk Wetboek, werd meegedeeld aan de aanvrager, wordt de   vergunning of toestemming geacht te zijn toegekend voor de onderneming en alle   aangevraagde verkooppunten.<BR><BR></P>
+...
 
 ### ART. 14.
 
-Binnen vijftien werkdagen na de kennisgeving van de beslissing tot weigering, schorsing of intrekking van een vergunning of toestemming, of de beslissing tot toekenning van de vergunning die niet voor alle aangevraagde verkooppunten geldt, kan de aanvrager of de houder van de vergunning met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek, beroep aantekenen bij de minister. De termijn voor het indienen van het beroep en het indienen van het beroep heeft schorsende werking, tenzij de beslissing gesteund is op het niet naleven van de voorwaarden, vermeld in artikel 5, 2°, d), of artikel 8, 3°, van het decreet.<br /><br />
+...
 
 ### ART. 15.
 
-Binnen tien werkdagen na ontvangst van het beroep stuurt de minister een ontvangstbewijs. Het ontvangstbewijs vermeldt de termijn waarbinnen de beslissing over het beroep zal worden meegedeeld en de vermelding dat bij het uitblijven van een antwoord binnen de termijn het beroep wordt geacht te zijn aanvaard.<br /><br />
+...
 
 ### ART. 16.
 
-De minister doet uitspraak binnen dertig werkdagen na ontvangst van het   beroep.<BR><BR>De minister neemt pas een beslissing nadat hij de betrokkene met   een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk   Wetboek, de kans heeft geboden om te worden gehoord op een zitting waarop de   betrokkene hetzij in eigen persoon, hetzij bij gevolmachtigde kan   verschijnen.<BR><BR>De betrokkene mag zich door een persoon naar keuze laten   bijstaan op de zitting waarvoor hij wordt uitgenodigd. Hij mag ook een   schriftelijke memorie neerleggen.<BR><BR>De beslissing van de minister over het   beroep wordt met een aangetekende brief of op een wijze voorzien in art. 2281   van het Burgerlijk Wetboek, aan de betrokkene meegedeeld.<BR><BR>Als de   beslissing over het beroep niet binnen de termijn van veertig werkdagen na het   aantekenen van het beroep, aan de betrokkene is meegedeeld, wordt het beroep   geacht te zijn ingewilligd, behalve als de minister binnen dezelfde termijn zijn   beslissing meedeelt tot de uitzonderlijke verlenging van de termijn. Die   verlenging mag niet meer bedragen dan dertig kalenderdagen en kan niet worden   vernieuwd.<BR><BR>
+...
 
 ### ART. 17.
 
-<P>...</P>
+...
 
 ### ART. 18.
 
-<P>...</P>
+...
 
 ### ART. 19.
 
-Het Departement internationaal Vlaanderen zorgt ervoor dat de volgende informatie actueel, duidelijk en ondubbelzinnig voor iedereen beschikbaar is, onder meer vanop afstand en elektronisch :<br />1° de eisen die gelden voor wie in het Vlaams Gewest een reisbureau-activiteit wenst uit te oefenen, met name de eisen inzake de procedures en formaliteiten en de wijze waarop die eisen doorgaans worden uitgelegd en toegepast;<br />2° informatie over de eisen die in andere regio's of lidstaten gelden inzake de toegang en de uitoefening van de reisbureau-activiteit;<br />3° de adresgegevens van alle bevoegde instanties, waaronder die welke bevoegd zijn op het gebied van de uitoefening van de reisbureau-activiteit, zodat rechtstreeks contact met hen kan worden opgenomen;<br />4° de middelen en voorwaarden om toegang te krijgen tot openbare registers en databanken met gegevens over de vergunninghouders;<br />5° de rechtsmiddelen die algemeen voorhanden zijn bij geschillen tussen de bevoegde instanties en de vergunninghouder of afnemer, tussen die vergunninghouder en een afnemer of tussen vergunninghouders onderling;<br />6° de adresgegevens van de verenigingen of organisaties, andere dan het Departement internationaal Vlaanderen, waarbij vergunninghouders of afnemers praktische bijstand kunnen krijgen;<br />7° de lijst en de gegevens van de vergunninghouders, vermeld in artikel 20;<br />8° de formulieren die nodig zijn voor het indienen van een vergunnings- of toestemmingsaanvraag.<br /><br />
+...
 
 ### ART. 20.
 
-Het bewijs van vergunning vermeldt de volgende gegevens :<br />1° het nummer van de vergunning;<br />2° ingeval de vergunninghouder een natuurlijke persoon is : de voornamen, de achternaam en de woonplaats van de houder;<br />3° ingeval de vergunninghouder een rechtspersoon is : de naam, rechtsvorm en maatschappelijke zetel van de houder;<br />4° het ondernemingsnummer.<br /><br />
+...
 
 ## HOOFDSTUK III Verplichtingen van de vergunninghouder
 
@@ -135,89 +116,89 @@ Het borgstellingskrediet kan niet worden aangewend voor de betaling van schuldei
 
 ### ART. 24.
 
-De houder van een vergunning moet het Departement internationaal Vlaanderen binnen de opgelegde termijn op de hoogte brengen van elke wijziging die een element van de vergunning of toestemming betreft, en alle in verband met zijn reisbureau-activiteiten gevraagde inlichtingen en gegevens. <br /><br />
+...
 
 ### ART. 25.
 
-In geval van werkelijke en definitieve stopzetting van de activiteiten die door de vergunning worden gedekt, deelt de vergunninghouder met een aangetekende brief of op een wijze voorzien in art. 2281 van het Burgerlijk Wetboek het Departement internationaal Vlaanderen de datum van de stopzetting mee.<br /><br />
+...
 
 ## Afdeling III Vergunningen en kentekens
 
 ### ART. 26.
 
-De gegevens vermeld in artikel 20 moeten in elk verkooppunt zichtbaar en gemakkelijk te raadplegen zijn voor het publiek.<br /><br />
+...
 
 ### ART. 27.
 
-Het nummer van de vergunning moet worden vermeld op de beroepsdocumenten en in alle reclame voor het reisbureau of zijn verkooppunten.<br /><br />
+...
 
 ### ART. 28.
 
-Bij intrekking van de vergunning of bij stopzetting van de activiteiten moet de vergunninghouder het bewijs van vergunning en alle niet gebruikte documenten waarop het vergunningsnummer voorkomt, binnen tien werkdagen volgend op de ontvangst van de in kennisgeving, vermeld in artikel 14 of 16, vernietigen of terug bezorgen aan het Departement internationaal Vlaanderen.<br /><br />Bij wijziging van de gegevens die op de vergunning worden vermeld, wordt een nieuw bewijs van vergunning afgeleverd.<br /><br />
+...
 
 ### ART. 29.
 
-Het Departement internationaal Vlaanderen levert per verkooppunt een fysiek en virtueel kenteken af, waarvan het model door de minister wordt bepaald. Voor toeristische verhuurkantoren wordt een apart kenteken afgeleverd, waarvan het model door de minister wordt bepaald. Ieder kenteken moet in elk verkooppunt en op elke website goed zichtbaar zijn voor het publiek en wordt afgebeeld op elk document dat aan het publiek wordt overhandigd.<br /><br />De kentekens blijven eigendom van het Departement internationaal Vlaanderen. Ze moeten aan het Departement internationaal Vlaanderen worden terugbezorgd binnen tien werkdagen na de stopzetting van de exploitatie van een verkooppunt of op verzoek van het Departement internationaal Vlaanderen.<br /><br />
+...
 
 ## Afdeling IV Informatie die ter beschikking gesteld moet worden aan het publiek
 
 ### ART. 30.
 
-Naast de gegevens, vermeld in artikel 26 en 27, moet in elk verkooppunt de volgende informatie beschikbaar zijn voor het publiek :<br />1° de gegevens van dat verkooppunt, inclusief de gegevens van de persoon die belast is met de dagelijkse leiding ervan;<br />2° het ondernemingsnummer en de merknamen waaronder de vergunninghouder zijn reisbureau-activiteiten uitoefent;<br />3° de adresgegevens van het Departement internationaal Vlaanderen en de vermelding dat het Departement internationaal Vlaanderen de bevoegde instantie is voor het uitreiken van de vergunning en voor verdere informatie over de beroepsreglementering;<br />4° de adresgegevens van elke beroepsvereniging waarbij de vergunninghouder is aangesloten, alsmede de beroepstitel of beroepstitels en de lidstaat waar die is verleend;<br />5° de adresgegevens van de verzekeraar(s) en borgsteller.<br /><br />
+...
 
 ## Afdeling V Maatregelen bij overlijden, ontslag of afwezigheid van een persoon belast met de dagelijkse leiding van een verkooppunt
 
 ### ART. 31.
 
-Bij overlijden, ontslag of afwezigheid gedurende meer dan drie opeenvolgende maanden van de persoon die met de dagelijkse leiding van een verkooppunt is belast, moet zijn functie binnen zes maand na het overlijden, ontslag of de eerste dag van afwezigheid, vervuld zijn door een persoon die aan de voorwaarden van artikel 2 voldoet.<br /><br />
+...
 
 ## [Afdeling VI Voorschriften inzake de gedragscode (ing. BVR 12 december 2008, art. 9, I: 1 januari 2009)]
 
 ### ART. 31bis.
 
-De vergunninghouder is verplicht om :<br />1° het geheim te bewaren van al de voorwaarden van een reis of verblijf, zelfs als die reis of dat verblijf niet heeft plaatsgevonden, tenzij hij van die verplichtingen wordt ontheven door de contractant, de reiziger of het Departement internationaal Vlaanderen, als hij geroepen wordt om voor een rechtbank of parlementaire onderzoekscommissie getuigenis af te leggen of als de wet hem verplicht die voorwaarden bekend te maken;<br />2° elke medewerking aan reizen die gericht zijn op het uitoefenen van illegale praktijken, inzonderheid wat betreft kinderprostitutie en mensenhandel, te weigeren;<br />3° de principes, inzonderheid van duurzaam toerisme, zoals omschreven in de Mondiaal Ethische Code voor Toerisme, te onderschrijven;<br />4° de gestorte voorschotten van cliënten te gebruiken voor de doeleinden waarvoor ze bestemd zijn;<br />5° mee te werken aan de oplossing van klachten en geschillen door middel van verzoening of arbitrage.
+...
 
 ## HOOFDSTUK IV Controle en Sancties
 
 ### ART. 32.
 
-De secretaris-generaal van het Departement internationaal Vlaanderen, alsook de door hem daartoe aangewezen personeelsleden van zijn dienst, zijn bevoegd toezicht en controle uit te oefenen op de naleving van de bepalingen van het decreet en de uitvoeringsbesluiten ervan. <br /><br />Het bezorgen van een afschrift van het proces-verbaal aan de Vlaamse Regering, vermeld in artikel 9, vierde lid, van het decreet, gebeurt aan het Departement internationaal Vlaanderen. <br /><br />Het proces-verbaal, vermeld in artikel 9 van het decreet, bevat tenminste de volgende vermeldingen :<br />1° de identiteit en de hoedanigheid van de opsteller;<br />2° de datum en plaats van verbalisering;<br />3° de materiële vaststellingen, inclusief de omstandigheden ten tijde van de vaststellingen;<br />4° de handtekening van de opsteller.<br /><br />
+...
 
 ### ART. 32/1.
 
-De administratieve geldboetes worden namens de Vlaamse Regering opgelegd door de secretaris-generaal van het Departement internationaal Vlaanderen overeenkomstig de procedure, vermeld in artikel 11 van het decreet.
+...
 
 ### ART. 33.
 
-De administratieve geldboetes moeten binnen dertig kalenderdagen betaald worden. Ze worden ingevorderd door de ambtenaren van de Vlaamse Belastingdienst.<br />
+...
 
 ## [HOOFDSTUK IV/1. Delegatie van bevoegdheden (ing. BVR 2 december 2011, art.12, I: 1 december 2011)]
 
 ### ART. 33/1.
 
-De secretaris-generaal van het Departement internationaal Vlaanderen kan de bevoegdheden, vermeld in artikel 13, eerste, tweede en derde lid, artikel 22, § 2, vierde lid, artikel 32 en artikel 32/1, delegeren aan een of meer personeelsleden van zijn dienst.
+...
 
 ## HOOFDSTUK V Slotbepalingen
 
 ### ART. 34.
 
-Het decreet treedt in werking op 1 september 2007.<br /><br />
+...
 
 ### ART. 35.
 
-Dit besluit treedt in werking op 1 september 2007. <br /><br />
+...
 
 ### ART. 36.
 
-Het koninklijk besluit van 30 juni 1966 betreffende het statuut van de reisbureaus wordt opgeheven in het Vlaamse Gewest.<br /><br />
+...
 
 ### ART. 37.
 
-De Vlaamse minister, bevoegd voor Toerisme, is belast met de uitvoering van dit besluit. <br /><br />
+...
 
 ### ART. 37bis.
 
-Het vermoeden, vermeld in artikel 13, tweede lid, van het decreet is aantoonbaar aan de hand van de documenten, vermeld in artikel 2, § 3, laatste lid.
+...
 
 ### BIJLAGE 1.
 
