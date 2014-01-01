@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-Ter uitvoering van artikel 6, tweede lid, en artikel 22, 3°, b), 2), van het besluit van de Vlaamse Regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest en van artikel 6, tweede lid, en artikel 20, 3°, c), van het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, wordt verstaan onder achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid : achterstallige schulden van 2.500 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er een bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd aangetekend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.
+Ter uitvoering van artikel 6, tweede lid, en artikel 22, 3°, b), 2), van   het besluit van de Vlaamse Regering van 10 oktober 2003 tot toekenning van steun   aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest   en van artikel 6, tweede lid, en artikel 20, 3°, c), van het besluit van de   Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen   voor ecologie-investeringen in het Vlaamse Gewest, wordt verstaan onder   achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid :   achterstallige schulden van 3000 euro of meer bij de Rijksdienst voor Sociale   Zekerheid, ongeacht of er een bezwaar of beroep tegen een vordering van de   Rijksdienst voor Sociale Zekerheid werd aangetekend. Schulden waarvoor de   onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als   achterstallig beschouwd.
 
 ### ART. 2.
 
