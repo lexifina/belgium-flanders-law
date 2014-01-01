@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024798,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-24 tot wijziging van het besluit van de Vlaamse Regering van 27 maart 2009 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Waterwegen en Zeekanaal, naamloze vennootschap van publiek recht, wat betreft de toelage voor gevaarlijke, ongezonde of hinderlijke werken en de wachttoelage",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024798/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "cf4decaa6ae6744420a063e59a71888e194ca999497fe3d9a30ebb4122ef739b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024798&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-10-24",
+  "gazette": "2014-12-15",
+  "numac": 2014036852,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
