@@ -114,7 +114,7 @@ De herziene beslissing is niet voor een tweede herziening door K & G vatbaar.
 
 ### ART. 25.
 
-§ 1. Het organiserend bestuur kan beroep aantekenen bij de minister tegen:<br />1° de beslissing tot gehele of gedeeltelijke weigering van een principieel akkoord;<br />2° de beslissing tot gehele of gedeeltelijke weigering van een erkenning;<br />3° de beslissing tot gehele of gedeeltelijke weigering van subsidiëring;<br />4° de beslissing tot intrekking van een erkenning;<br />5° de beslissing tot de weigering van de verlenging van de erkenning;<br />6° de herziening van een beslissing, vermeld in 1° tot 5°.<br /><br />§ 2. Ook tegen het geuite en formeel betekende voornemen tot het nemen van een beslissing, vermeld in § 1, kan het organiserend bestuur beroep aantekenen.
+§ 1. Het organiserend bestuur kan beroep aantekenen tegen:<BR>1° de   beslissing tot gehele of gedeeltelijke weigering van een principieel   akkoord;<BR>2° de beslissing tot gehele of gedeeltelijke weigering van een   erkenning;<BR>3° de beslissing tot gehele of gedeeltelijke weigering van   subsidiëring;<BR>4° de beslissing tot intrekking van een erkenning;<BR>5° de   beslissing tot de weigering van de verlenging van de erkenning;<BR>6° de   herziening van een beslissing, vermeld in 1° tot 5°.<BR><BR>§ 2. Ook tegen het   geuite en formeel betekende voornemen tot het nemen van een beslissing, vermeld   in § 1, kan het organiserend bestuur beroep aantekenen.
 
 ### ART. 26.
 
@@ -130,11 +130,11 @@ Het beroep schort de uitvoering van de beslissing op, behalve wanneer een ernsti
 
 ### ART. 29.
 
-Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt K & G binnen vijftien dagen na ontvangst van het ontvankelijke beroepsschrift, dat beroepsschrift samen met het volledige administratieve dossier en eventuele vervoermiddelen aan de adviserende beroepscommissie van de Vlaamse gezins- en welzijnsraad. K & G bezorgt tegelijkertijd een kopie van het beroepsschrift aan de minister.
+Dat beroep wordt behandeld volgens de regels die zijn vastgesteld bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ### ART. 30.
 
-§ 1. Uiterlijk drie maanden na ontvangst van het beroepsschrift en het administratieve dossier, bezorgt de commissie haar met redenen omkleed advies aan de minister en aan de administratie van Kind en Gezin.<br /><br />§ 2. De minister deelt binnen twee maanden na ontvangst van het advies van de commissie, of bij ontstentenis daarvan na het verstrijken van de in artikel 30, § 1, vermelde termijn, de definitieve beslissing per aangetekende brief mee aan de indiener van het beroep.<br /><br />§ 3. Indien de beslissing van de minister niet binnen de in artikel 30, § 2, vermelde termijnen wordt meegedeeld aan de indiener, wordt het beroep van rechtswege geacht ingewilligd te zijn.
+<P>...</P>
 
 ## HOOFDSTUK IX OVERGANGS- EN SLOTBEPALINGEN
 
