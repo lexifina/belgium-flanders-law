@@ -48,7 +48,7 @@ Het ANB is belast met de interne controle van zijn bedrijfsprocessen en activite
 
 ### ART. 11.
 
-De entiteit Interne Audit van de Vlaamse Gemeenschap evalueert de interne controlesystemen van het ANB en kan zo nodig administratieve onderzoeken instellen.
+Audit Vlaanderen evalueert de interne controlesystemen van het ANB en kan   zo nodig forensische audits instellen.
 
 ### ART. 12.
 
