@@ -2,16 +2,16 @@
   "codex_id": 1009842,
   "title": "Besluit van de Vlaamse Regering van 2002-10-25 houdende uitvoering van de bepalingen van de artikelen 12 en 15 van het decreet van 13 april 1999 houdende machtiging van de Vlaamse regering om toe te treden tot en om mee te werken aan de oprichting van de vereniging zonder winstgevend doel Vlaams Audiovisueel Fonds",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009842/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "22c43940364a35cf8bd2a99b3cf2975bf4135c790b8d9cc335bf0669717c8a70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009842/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "74ea53b0010042d9f4fb7cb1208fb058f0bab688c0bcea786f7fb99dd7bbc3cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009842&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-01-01",
   "made": "2002-10-25",
   "gazette": "2002-11-28",
   "numac": 2002036465,
   "document_start": "2002-11-01",
   "document_end": "2013-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
