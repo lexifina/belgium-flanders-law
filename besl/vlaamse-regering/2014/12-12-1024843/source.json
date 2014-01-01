@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024843,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-12 tot vaststelling van het totale aantal subsidiabele uren aanvullende thuiszorg voor de diensten voor gezinszorg en aanvullende thuiszorg voor het jaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024843/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "67bdd1fef003d2a92e6916929899333230a246f5a01a5f0cf41620039c348d0a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024843&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-12-12",
+  "gazette": "2015-01-07",
+  "numac": 2014036960,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
