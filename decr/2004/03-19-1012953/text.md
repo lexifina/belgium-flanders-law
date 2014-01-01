@@ -12,27 +12,27 @@ Dit decreet is niet van toepassing op de gemeenten, gelegen in het tweetalige ge
 
 ### ART. 3.
 
-In dit decreet wordt verstaan onder:<br /><br />1° lokaal sociaal beleid: het geheel van de beleidsbepaling en acties van lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en artikel 24, § 3, van de Grondwet;<br /><br />2° lokaal bestuur: gemeente en openbaar centrum voor maatschappelijk welzijn;<br /><br />3° lokale actoren: alle overheden en particuliere organisaties die lokaal acties opzetten ten behoeve van burgers van wie de rechten, vastgelegd in artikel 23 en artikel 24, § 3, van de Grondwet in het gedrang zijn of dreigen te komen;<br /><br />4° sector: een aangelegenheid, bedoeld in artikelen 4 tot en met 6 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br /><br />5° erkende voorziening: lokale actor die door de Vlaamse Gemeenschap op basis van de sectorale regelgeving erkend is;<br /><br />6° sectorale regelgeving: de door de Vlaamse Gemeenschap per sector bij decreet en haar uitvoeringsbesluiten vastgestelde regelgeving.
+In dit decreet wordt verstaan onder:<br />1° lokaal sociaal beleid: het geheel van de beleidsbepaling en acties van lokaal bestuur en de acties van lokale actoren, met het oog op het garanderen van de toegang van elke burger tot de rechten, vastgelegd in artikel 23 en artikel 24, § 3, van de Grondwet;<br />2° lokaal bestuur: gemeente en openbaar centrum voor maatschappelijk welzijn;<br />3° lokale actoren: alle overheden en particuliere organisaties die lokaal acties opzetten ten behoeve van burgers van wie de rechten, vastgelegd in artikel 23 en artikel 24, § 3, van de Grondwet in het gedrang zijn of dreigen te komen;<br />4° sector: een aangelegenheid, bedoeld in artikelen 4 tot en met 6 van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br />5° erkende voorziening: lokale actor die door de Vlaamse Gemeenschap op basis van de sectorale regelgeving erkend is;<br />6° sectorale regelgeving: de door de Vlaamse Gemeenschap per sector bij decreet en haar uitvoeringsbesluiten vastgestelde regelgeving;<br />7° Vlaamse beleidsprioriteiten: Vlaamse beleidsprioriteiten als vermeld in artikel 3 van het decreet van 15 juli 2011 houdende de vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<br />8° strategische meerjarenplanning: de meerjarenplanning van de gemeenten en openbare centra voor maatschappelijk welzijn bedoeld in het Gemeentedecreet van 15 juli 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.
 
 ## HOOFDSTUK II PLANNING
 
 ### ART. 4.
 
-Het lokaal bestuur maakt één lokaal sociaal beleidsplan dat minstens de volgende elementen bevat:<br /><br />1° een omgevingsanalyse;<br /><br />2° een geïntegreerde visie op het lokaal sociaal beleid;<br /><br />3° een meerjarenplan met betrekking tot de gewenste acties en inzet van lokale middelen;<br /><br />4° de taakverdeling en werkafspraken tussen de gemeente en het openbaar centrum voor maatschappelijk welzijn met betrekking tot de uitvoering van het meerjarenplan en de cordinerende rol van het lokaal bestuur zoals omschreven in artikel 6 en artikel 7;<br /><br />5° een beschrijving van de wijze waarop de bevolking en lokale actoren bij de voorbereiding van het beleidsplan betrokken werden en bij de uitvoering en de voortgang van het beleidsplan en van het lokaal sociaal beleid zullen betrokken worden.<br /><br />Het beleidsplan wordt voor 31 december van het eerste jaar van een nieuwe legislatuur goedgekeurd en beslaat een periode van zes jaar, met een tussentijdse evaluatie en bijsturing na drie jaar. De tussentijdse evaluatie gebeurt aan de hand van een sociale conjunctuurbarometer. De Vlaamse regering bepaalt het model van de sociale conjunctuurbarometer en stelt jaarlijks de gegevens ter beschikking aan de lokale besturen.<br /><br />Het beleidsplan wordt achtereenvolgens goedgekeurd door de raad voor maatschappelijk welzijn en de gemeenteraad en onmiddellijk na goedkeuring ter kennisgeving aan de Vlaamse regering bezorgd.<br /><br />De Vlaamse regering bepaalt het model van het lokaal sociaal beleidsplan en bepaalt welke beleidsplannen door het beleidsplan "lokaal sociaal beleid" geheel of gedeeltelijk worden vervangen.<br /><br />Een bijsturing van het beleid kan aanleiding geven tot een wijziging van het lokaal sociaal beleidsplan. De Vlaamse regering moet zo snel mogelijk op de hoogte worden gesteld van de wijzigingen.
+§ 1. Het lokaal bestuur ontwikkelt en realiseert een lokaal sociaal beleid. Dat beleid wordt uitgetekend in de strategische meerjarenplanning.<br /><br />§ 2. Gemeente en Openbaar Centrum voor Maatschappelijk Welzijn doorlopen een gezamenlijk planningsproces dat uitmondt in doelstellingen en actieplannen in de respectievelijke strategische meerjarenplannen. Met betrekking tot de ontwikkeling en de complementaire uitvoering van het beleid en de coordinerende rol van het lokaal bestuur worden afspraken gemaakt.<br /><br />§ 3. Bij de voorbereiding, de uitvoering en de voortgang van het lokaal sociaal beleid worden de bevolking en lokale actoren, in het bijzonder de meest kwetsbare doelgroepen, aantoonbaar betrokken.<br /><br />§ 4. Om het lokaal sociaal beleid te optimaliseren organiseert en ondersteunt het lokaal bestuur de samenwerking en de afstemming tussen de lokale actoren.<br /><br />§ 5. De bepalingen van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd zijn van toepassing op deze aangelegenheid.
 
 ### ART. 5.
 
-De Vlaamse regering bepaalt via de sectorale regelgeving de relatie tussen het lokaal sociaal beleidsplan en de beleidsplannen die lokale besturen en lokale actoren in het kader van de sectorale regelgeving moeten opstellen.
+...
 
 ## HOOFDSTUK III COÖRDINATIE
 
 ### ART. 6.
 
-Het lokaal bestuur co÷rdineert het lokaal sociaal beleid.
+...
 
 ### ART. 7.
 
-De Vlaamse regering bepaalt in dit verband de nadere regels.
+...
 
 ## HOOFDSTUK IV SOCIAAL HUIS
 
@@ -76,11 +76,11 @@ De Vlaamse regering voorziet binnen de diensten van het ministerie van de Vlaams
 
 ### ART. 16.
 
-Artikel 5, artikel 7 en artikel 12 krijgen in overleg met de sector en lokale besturen concrete invulling in de sectorale regelgeving.<br /><br />De Vlaamse regering wordt gemachtigd om de decretale sectorale regelgeving in overeenstemming te brengen met de bepalingen van dit decreet. De daartoe strekkende besluiten moeten binnen een termijn van twee jaar bij decreet bekrachtigd worden. Als ze niet bekrachtigd worden binnen die termijn verliezen die besluiten hun gelding, met terugwerkende kracht tot de datum van hun inwerkingtreding.
+Artikel 12 krijgt in overleg met de sector en lokale besturen concrete invulling in de sectorale regelgeving.<br /><br />De Vlaamse regering wordt gemachtigd om de decretale sectorale regelgeving in overeenstemming te brengen met de bepalingen van dit decreet. De daartoe strekkende besluiten moeten binnen een termijn van twee jaar bij decreet bekrachtigd worden. Als ze niet bekrachtigd worden binnen die termijn verliezen die besluiten hun gelding, met terugwerkende kracht tot de datum van hun inwerkingtreding.
 
 ### ART. 17.
 
-De Vlaamse regering regelt binnen een jaar na de inwerkingtreding van dit decreet, na overleg met de sectoren en lokale besturen, de concrete invulling van artikel 4, vierde lid, en artikel 11, tweede lid.
+...
 
 ### ART. 18.
 
@@ -88,7 +88,7 @@ Artikel 9 treedt in werking op 1 januari 2007. Indien de raad voor maatschappeli
 
 ### ART. 19.
 
-In afwijking van artikel 4, tweede lid, wordt het lokaal sociaal beleidsplan voor de eerste maal in 2005 voor de opmaak van de begroting van 2006 goedgekeurd en geldt voor een periode van twee jaar.
+...
 
 ### ART. 20.
 
