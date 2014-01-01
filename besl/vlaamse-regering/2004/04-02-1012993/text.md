@@ -50,7 +50,7 @@ Onverminderd de artikelen 9, 33 en 34 van het kaderdecreet Bestuurlijk Beleid va
 
 ### ART. 11.
 
-Overeenkomstig artikel 34 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003 evalueert de entiteit Interne Audit van de Vlaamse Gemeenschap de interne controlesystemen van het agentschap en kan eventueel administratieve onderzoeken instellen.<br /><br />In het kader van de erkenning als ELGF- (Europees Landbouwgarantiefonds) en ELFPO- (Europees Landbouwfonds voor Plattelandsontwikkeling) betaalorgaan in de zin van Verordening (EG) nr. 1290/2005 vervult de dienst Interne Audit bij het Vlaams betaalorgaan de interne-auditfunctie met betrekking tot de bedrijfsprocessen die gerelateerd zijn aan het beheer van de steunmaatregelen in het kader van het ELGF en het ELFPO.
+Overeenkomstig artikel 34 van het kaderdecreet Bestuurlijk Beleid van 18   juli 2003 evalueert Audit Vlaanderen&nbsp;de interne controlesystemen van het   agentschap en kan eventueel forensische audits&nbsp; instellen.<BR><BR>In het   kader van de erkenning als ELGF- (Europees Landbouwgarantiefonds) en ELFPO-   (Europees Landbouwfonds voor Plattelandsontwikkeling) betaalorgaan in de zin van   Verordening (EG) nr. 1290/2005 vervult de dienst Interne Audit bij het Vlaams   betaalorgaan de interne-auditfunctie met betrekking tot de bedrijfsprocessen die   gerelateerd zijn aan het beheer van de steunmaatregelen in het kader van het   ELGF en het ELFPO.
 
 ### ART. 12.
 
