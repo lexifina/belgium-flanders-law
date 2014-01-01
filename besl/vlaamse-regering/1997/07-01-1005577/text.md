@@ -66,15 +66,15 @@ Als er aan de verwaarlozing of leegstand van een bedrijfsruimte een einde komt, 
 
 ### ART. 14.
 
-Een bedrag van 20 % van de elk jaar gende heffingen, intresten en administratieve geldboetes niet meegerekend, wordt aan de gemeenten doorgestort voor wat de heffingen betreft op de onroerende goederen die op hun grondgebied zijn gelegen.
+<P>...</P>
 
 ### ART. 15.
 
-Indien de gemeenten opcentiemen toepassen op de heffing van het Vlaamse Gewest worden deze door de Vlaamse Belastingdienst geïnd.<br /><br />De gemeenten die besluiten deze opcentiemen te heffen, zoals bepaald in het eerste lid, sturen per aangetekend schrijven en uiterlijk op 1 maart van het jaar waarin de heffing betekend wordt, een eensluidend verklaard afschrift van het desbetreffende gemeenteraadsbesluit aan de Vlaamse Belastingdienst. Dat besluit vermeldt het aantal opcentiemen dat wordt geheven en bepaalt dat de gemeente een beroep doet op de medewerking van de Vlaamse Belastingdienst met het oog op de invordering ervan.
+<P>...</P>
 
 ### ART. 16.
 
-Het bedrag van de gemeentelijke opcentiemen op de geïnde heffingen, met uitzondering van de bedragen voortvloeiend uit de intresten en administratieve geldboetes, alsmede het bedrag zoals bepaald in artikel 14, wordt door de Vlaamse Belastingdienst voor rekening van het Vlaamse Gewest op rekening van de gemeente gestort voor het einde van de tweede maand, volgend op de maand waarop de verschuldigde heffing dient te worden voldaan, en dit voor zover deze heffing is geïnd en definitief is verworven.<br />
+<P>...</P>
 
 ### ART. 17.
 
@@ -84,19 +84,19 @@ Het bedrag van de gemeentelijke opcentiemen op de geïnde heffingen, met uitzond
 
 ### ART. 18.
 
-§ 1. De eigenaar stuurt met een aangetekend schrijven het vernieuwingsvoorstel, zoals bedoeld in de artikels 34 en 35 van het decreet, naar het departement.<br /><br />§ 2. Het voorstel tot vernieuwing omvat de volgende documenten:<br />1° een situatietekening die het mogelijk maakt de ligging van het goed te bepalen ten opzichte van de omliggende bebouwing;<br />2° een beschrijving van de aard en omvang van de geplande werkzaamheden die de reden van opname in de Inventaris moeten opheffen, alsook een kostprijsraming;<br />3° een summiere beschrijving van de beoogde (her)bestemmingswerkzaamheden;<br />4° de geplande aanvangsdatum en de uitvoeringstermijn van de werkzaamheden;<br />5° de stedenbouwkundige vergunning en milieuvergunning als die vereist zijn volgens de aard van de werkzaamheden.<br /><br />De aanvraag tot opschorting van de heffing wordt eveneens bijgevoegd. <br /><br />§ 3. Het departement onderzoekt het voorstel tot vernieuwing op volledigheid, overeenkomstig het bepaalde in § 2.<br /><br />Wordt het voorstel onvolledig bevonden, dan stelt het departement de aanvrager binnen vijftien kalenderdagen na de betekening van de indiening van het voorstel hiervan schriftelijk op de hoogte met vermelding van de ontbrekende gegevens.<br /><br />Indien het voorstel volledig bevonden wordt, dan stelt het departement de indiener binnen vijftien kalenderdagen hiervan per aangetekend schrijven op de hoogte.<br /><br />Indien het departement binnen vijftien kalenderdagen geen beslissing heeft betekend, dan wordt het voorstel geacht volledig te zijn.<br /><br />§ 4. Het departement dient de al dan niet aanvaarding van het voorstel tot vernieuwing, samen met de eventuele vermelding van de opschorting van de heffing, aan de indiener te betekenen binnen dertig kalenderdagen na de verzendingsdatum van het schrijven inzake de volledigheid van het voorstel tot vernieuwing.<br /><br />§ 5. Indien het departement binnen de termijn, vermeld onder § 4, nog geen beslissing heeft betekend, wordt het voorstel geacht te zijn aanvaard. Het departement verleent de aanvrager in dit geval een opschorting.
+<P>...</P>
 
 ### ART. 18bis.
 
-§ 1. Via een aangetekend schrijven dient de eigenaar het verzoek tot   opschorting voor onroerende goederen die het voorwerp uitmaken van een   definitief gesloten brownfieldconvenant in bij het departement. Zijn aanvraag   tot opschorting moet gestaafd worden door een afschrift van het   brownfieldconvenant, definitief gesloten met toepassing van hoofdstuk III van   het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten.<BR><BR>§ 2.   Het departement moet de al dan niet aanvaarding van het voorstel tot   opschorting, aan de indiener betekenen binnen dertig kalenderdagen na de   verzendingsdatum van het schrijven inzake de aanvraag tot opschorting voor   onroerende goederen die het voorwerp uitmaken van een definitief gesloten   brownfieldconvenant.<BR><BR>§ 3. Indien het departement binnen de termijn,   vermeld in paragraaf 2, nog geen beslissing heeft betekend, wordt het voorstel   geacht te zijn aanvaard. Het departement verleent de aanvrager in dit geval een   opschorting.
+<P>...</P>
 
 ### ART. 18ter.
 
-§ 1. Via een aangetekend schrijven dient de eigenaar het verzoek tot   opschorting voor onroerende goederen die het voorwerp uitmaken van een door de   OVAM conform verklaard bodemsaneringsproject in bij het departement. Zijn   aanvraag tot opschorting moet gestaafd worden door een afschrift van het door de   OVAM conform verklaard bodemsaneringsproject, met toepassing van titel III,   hoofdstuk V, van het decreet van 27 oktober 2006 betreffende de bodemsanering en   de bodembescherming.<BR><BR>§ 2. Het departement moet de al dan niet aanvaarding   van het voorstel tot opschorting, aan de indiener betekenen binnen dertig   kalenderdagen na de verzendingsdatum van het schrijven inzake de aanvraag tot   opschorting voor onroerende goederen die het voorwerp uitmaken van een door de   OVAM conform verklaard bodemsaneringsproject.<BR><BR>§ 3. Indien het departement   binnen de termijn, vermeld in paragraaf 2, nog geen beslissing heeft betekend,   wordt het voorstel geacht te zijn aanvaard. Het departement verleent de   aanvrager in dit geval een opschorting.
+<P>...</P>
 
 ### ART. 19.
 
-§ 1. Via een aangetekend schrijven dient de eigenaar het verzoek tot opschorting voor tijdelijk om bedrijfseconomische redenen leegstaande, maar niet verwaarloosde bedrijfsruimten, in bij het departement. Zijn aanvraag tot opschorting dient gestaafd door een verslag van de erkende Provinciale Ontwikkelingsmaatschappij van de provincie waarin de gemeente ligt.<br /><br />§ 2. Het departement kan het verzoek tot opschorting aanvaarden wanneer aan de hand van het verslag, opgemaakt door de erkende Provinciale Ontwikkelingsmaatschappij van de provincie waarin de gemeente ligt, blijkt dat het leegstaande bedrijfsgebouw onmiddellijk hergebruikt kan worden.<br /><br />§ 3. Het departement dient de al dan niet aanvaarding van het voorstel tot opschorting, aan de indiener te betekenen binnen dertig kalenderdagen na de verzendingsdatum van het schrijven inzake de aanvraag tot opschorting voor tijdelijk om bedrijfseconomische redenen leegstaande, maar niet vervallen bedrijfsruimten.<br /><br />§ 4. Indien het departement binnen de termijn, vermeld onder § 3, nog geen beslissing heeft betekend, wordt het voorstel geacht te zijn aanvaard. Het departement verleent de aanvrager in dit geval een opschorting.
+<P>...</P>
 
 ### ART. 20.
 
@@ -150,7 +150,7 @@ Op basis van de definitief toegekende subsidie kunnen de initiatiefnemers voorsc
 
 ### ART. 31.
 
-Een onteigening ten algemenen nutte kan gebeuren als:<br /><br />1° de eigenaar geen voorstel tot vernieuwing, zoals bepaald in artikel 18 of artikel 26, ingediend heeft binnen een periode van 1 jaar vanaf de opname van het onroerend goed in de Inventaris;<br /><br />2° de vernieuwingswerkzaamheden, zoals vermeld in de basisstudie voorzien in artikel 26, definitief zijn stopgezet zonder dat aan de leegstand en/of de verwaarlozing een einde is gekomen.
+<P>Een onteigening ten algemenen nutte kan gebeuren als:<BR>1° de eigenaar geen   voorstel tot vernieuwing, zoals bepaald in&nbsp;artikel 2.6.7.0.1 van het   besluit Vlaamse Codex Fiscaliteit van 20 december 2013 of artikel 26, ingediend   heeft binnen een periode van 1 jaar vanaf de opname van het onroerend goed in de   Inventaris;<BR>2° de vernieuwingswerkzaamheden, zoals vermeld in de basisstudie   voorzien in artikel 26, definitief zijn stopgezet zonder dat aan de leegstand   en/of de verwaarlozing een einde is gekomen.</P>
 
 ## SLOTBEPALINGEN
 
