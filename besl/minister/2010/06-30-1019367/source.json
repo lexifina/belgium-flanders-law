@@ -2,16 +2,16 @@
   "codex_id": 1019367,
   "title": "Ministerieel besluit van 2010-06-30 tot verdeling van een deel van de RSZ-vermindering die de private diensten voor gezinszorg en aanvullende thuiszorg ontvangen in het kader van de federale maatregel Structurele Vermindering",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019367/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "4575bccca7d41b41f2b1ea84df501210a2c7c78b797270555eee806db188cb05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019367/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "17ba469feac9fb13b5c63a02201ca97bd1d6859adfd8a11ac55f1b89a75e152e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019367&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2014-01-01",
   "made": "2010-06-30",
   "gazette": "2010-09-09",
   "numac": 2010035651,
   "document_start": "2010-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
