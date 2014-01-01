@@ -2,16 +2,16 @@
   "codex_id": 1014127,
   "title": "Besluit van de Vlaamse Regering van 2005-10-14 betreffende de toekenning van subsidies voor de zorg en activering van zorgvragers op land- of tuinbouwbedrijven met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014127/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "75a6e4147d50e33a1ca73d639de27e1b45222974e8a1765e3782228a435d61db",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014127/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "d3c4ae1a9c4a984c02c9f9757db1a7f8831165a4b3a2132cff9882c4f5fea182",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014127&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-01-01",
   "made": "2005-10-14",
   "gazette": "2005-12-06",
   "numac": 2005036468,
   "document_start": "2005-12-01",
   "document_end": "2013-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
