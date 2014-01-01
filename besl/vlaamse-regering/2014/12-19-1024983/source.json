@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024983,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot wijziging van diverse bepalingen van het koninklijk besluit van 9 juni 1999 houdende de uitvoering van de wet van 30 april 1999 betreffende de tewerkstelling van buitenlandse werknemers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024983/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "34305e5d949ce25268499bf8fd8dc1b1492f9e15e9e8b7c54fe28d10b03b7f79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024983&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-12-19",
+  "gazette": "2015-02-13",
+  "numac": 2015035116,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
