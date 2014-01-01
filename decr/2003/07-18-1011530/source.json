@@ -2,16 +2,16 @@
   "codex_id": 1011530,
   "title": "Decreet van 2003-07-18 kaderdecreet bestuurlijk beleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011530/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "2b730804623ec0c70702d61948bbabfd54b3124681a87835dba42004eede18cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011530/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "65bb48f295ca21025cebe3bfb06ded396848ce86cca940c79dfe70e5eac2cc42",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011530&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2014-01-01",
   "made": "2003-07-18",
   "gazette": "2003-08-22",
   "numac": 2003035939,
   "document_start": null,
   "document_end": "2018-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
