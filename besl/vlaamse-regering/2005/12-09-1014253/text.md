@@ -68,7 +68,7 @@ Het ILVO staat in voor de interne controle van zijn bedrijfsprocessen en activit
 
 ### ART. 15.
 
-De entiteit Interne Audit van de Vlaamse Gemeenschap evalueert de interne controlesystemen van het ILVO en kan zo nodig administratieve onderzoeken instellen overeenkomstig artikel 34 van het kaderdecreet bestuurlijk beleid van 18 juli 2003.
+De entiteit Audit Vlaanderen&nbsp; evalueert de interne controlesystemen   van het ILVO en kan zo nodig forensische audits&nbsp; instellen overeenkomstig   artikel 34 van het kaderdecreet bestuurlijk beleid van 18 juli   2003.
 
 ### ART. 16.
 
