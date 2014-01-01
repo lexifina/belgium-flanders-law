@@ -2,16 +2,16 @@
   "codex_id": 1005416,
   "title": "Besluit van de Vlaamse Regering van 1997-02-18 tot vaststelling van de procedure voor de erkenning en de sluiting van ziekenhuizen, ziekenhuisdiensten, onderdelen van ziekenhuizen en samenwerkingsvormen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005416/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "7a1d8d4a9740aeb1efc0dc3d37f1616a711da0b580ffbb076120d49b8651fec9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005416/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "645283c8f6d5989d0431ff580b6188f23682267c746277b26ad76c6540d8aec3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005416&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2014-01-01",
   "made": "1997-02-18",
   "gazette": "1997-05-17",
   "numac": 1997035419,
   "document_start": "1997-05-17",
   "document_end": "2014-09-06",
-  "in_force": "2006-07-01",
+  "in_force": "2014-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }

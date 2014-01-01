@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister bevoegd voor het gezondheidsbeleid;<br />2° de Adviesraad: de Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen, bedoeld in artikel 10 van het decreet van 20 december 1996 houdende oprichting van een Vlaamse Gezondheidsraad en van een Vlaamse Adviesraad voor erkenning van verzorgingsvoorzieningen;<br />3° de administratie: het intern verzelfstandigd agentschap Zorg en Gezondheid;<br />4° een ziekenhuisdienst: de in een ziekenhuis opgerichte dienst bedoeld door hoofdstuk III, titel III van de ziekenhuiswet;<br />5° ziekenhuisonderdeel: medische dienst, medische technische dienst, programma, of ander onderdeel dat deel kan of moet uitmaken van een ziekenhuis en afzonderlijk erkend kan worden,<br />6° samenwerkingsvorm: elke op basis van de ziekenhuiswet gereglementeerde samenwerkingsvorm van ziekenhuizen, zoals fusie, groepering of associatie;<br />7° de administrateur-generaal : het hoofd van het intern verzelfstandigd agentschap Zorg en Gezondheid.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° de   minister: de Vlaamse minister bevoegd voor het gezondheidsbeleid;<BR>2°   ...;<BR>3° de administratie: het intern verzelfstandigd agentschap Zorg en   Gezondheid;<BR>4° een ziekenhuisdienst: de in een ziekenhuis opgerichte dienst   bedoeld door hoofdstuk III, titel III van de ziekenhuiswet;<BR>5°   ziekenhuisonderdeel: medische dienst, medische technische dienst, programma, of   ander onderdeel dat deel kan of moet uitmaken van een ziekenhuis en afzonderlijk   erkend kan worden,<BR>6° samenwerkingsvorm: elke op basis van de ziekenhuiswet   gereglementeerde samenwerkingsvorm van ziekenhuizen, zoals fusie, groepering of   associatie;<BR>7° de administrateur-generaal : het hoofd van het intern   verzelfstandigd agentschap Zorg en Gezondheid.
 
 ### ART. 2.
 
@@ -24,11 +24,11 @@ Binnen vijftien dagen na ontvangst van de aanvraag, wordt ofwel de gemotiveerde 
 
 ### ART. 5.
 
-Op straffe van onontvankelijkheid kan de aanvrager tot uiterlijk dertig dagen na ontvangst ervan, tegen het in artikel 4 bedoelde voornemen met een aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de administrateur-generaal, bij de administratie indienen. Hij kan daarin uitdrukkelijk vragen gehoord te worden.<br /><br />De administratie bezorgt, binnen vijftien dagen na ontvangst ervan, het bezwaarschrift en het volledige administratieve dossier aan de Adviesraad.
+Op straffe van onontvankelijkheid kan de aanvrager tot uiterlijk dertig   dagen na ontvangst ervan, tegen het in artikel 4 bedoelde voornemen met een   aangetekende brief een gemotiveerd bezwaarschrift, gericht aan de   administrateur-generaal, bij de administratie indienen. Hij kan daarin   uitdrukkelijk vragen gehoord te worden.
 
 ### ART. 6.
 
-Binnen een maand nadat de administrateur-generaal het advies van de Adviesraad heeft ontvangen, of, als dit advies hem niet bereikt binnen de reglementair bepaalde termijn, binnen de maand na het verstrijken van die termijn, wordt de gemotiveerde beslissing om de erkenning te verlenen of te weigeren per aangetekende brief aan de aanvrager betekend. Als het advies van de Adviesraad afwijkt van het voornemen van de administrateur-generaal, vermeld in artikel 4, beslist de minister.<br /><br />Als voormeld advies ontbreekt, kan de administrateur-generaal geen beslissing nemen zonder de aanvrager te hebben gehoord, als deze daarom in zijn bezwaarschrift heeft verzocht. De in het vorige lid bedoelde termijn wordt in dat geval met één maand verlengd.
+<P>Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij   of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</P>
 
 ### ART. 7.
 
