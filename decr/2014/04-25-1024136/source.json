@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024136,
+  "title": "Decreet van 2014-04-25 houdende wijziging van het decreet van 2 maart 2007 houdende opheffing van het decreet van 5 april 1995 tot oprichting van de Vlaamse Opera en tot regeling van de rechtsopvolging",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024136/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "665f131387507aeefaeb091dae55b886e7bfc6bffd94cd004e9983f3737aa7a7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024136&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-06-11",
+  "numac": 2014203022,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
