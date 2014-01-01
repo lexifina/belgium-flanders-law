@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023553,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 tot wijziging van de bezwaarprocedures in diverse besluiten van de Vlaamse Regering wat betreft kinderopvang en interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023553/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e2d831c2f1362119bbee1d2a0aab4b3978f3dedd8e101ab47cff04f565ab53f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023553&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-13",
+  "gazette": "2014-01-13",
+  "numac": 2013036230,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
