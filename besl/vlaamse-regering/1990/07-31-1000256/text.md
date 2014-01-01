@@ -144,7 +144,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage, die bij   dit besluit is gevoegd, treden in werking op 1 september 2013.
+<P>De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, deel   buitengewoon basisonderwijs, die bij dit besluit is gevoegd, treden in werking   op 1 januari 2014. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage I, deel buitengewoon secundair onderwijs, die bij dit besluit is   gevoegd, treden in werking op 1 september 2013.</P>
 
 ### ART. 20.
 
@@ -156,4 +156,4 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1.pdf#page=8">Bijlage 1   deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_2.pdf#page=1">Bijlage   1 deel 2</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1.pdf#page=8">Bijlage 1   deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_2.pdf#page=1">Bijlage   1 deel 2</A><BR><BR>Met ingang van 1 januari 2014 wordt het deel buitengewoon   basisonderwijs als volgt aangepast:<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=28">Bijlage I   deel buitengewoon basisonderwijs</A></P>
