@@ -24,7 +24,7 @@ Er wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgeric
 
 ### ART. 5.
 
-De kerntaken van het agentschap omvatten:<br /><br />1° organisatie van de ondersteuning, van personen met een handicap en van de leefomgeving waarin zij verblijven;<br /><br />2° het specificeren van de criteria met het oog op de afbakening van de doelgroep van personen met een handicap, het organiseren van de indicatiestelling en de toewijzing.
+De kerntaken van het agentschap omvatten:<br />1° organisatie van de ondersteuning, met uitsluiting van pleegzorg als bedoeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg, van personen met een handicap en van de leefomgeving waarin zij verblijven;<br />2° het specificeren van de criteria met het oog op de afbakening van de doelgroep van personen met een handicap, het organiseren van de indicatiestelling en de toewijzing.
 
 ### ART. 6.
 
@@ -32,7 +32,7 @@ De taken, genoemd in artikel 5, omvatten in elk geval:<br />1° het programmeren
 
 ### ART. 7.
 
-Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke taken aan het agentschap toewijzen.
+<P>Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse   regering specifieke taken aan het agentschap toewijzen.</P>  <P>Het agentschap kan vennootschappen met sociaal oogmerk en verenigingen zonder   winstoogmerk erkennen die uitsluitend wooninfrastructuur aan personen met een   handicap, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning   hebben, ter beschikking stellen.</P>  <P>De wooninfrastructuur staat in het kadaster geregistreerd als woning en wordt   ter beschikking gesteld met een schriftelijke overeenkomst. De Vlaamse Regering   kan de voorwaarden, vermeld in het tweede lid, concretiseren, bepaalt de wijze   waarop de behoefte aan zorg en ondersteuning wordt vastgesteld en kan tevens   regels vaststellen voor de toewijzing van de huurwoningen.</P>
 
 ### ART. 8.
 
