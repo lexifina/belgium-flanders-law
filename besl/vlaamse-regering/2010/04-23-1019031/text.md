@@ -8,32 +8,32 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 14 februari 2003 houden
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° decreet van 14 februari 2003 : decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid; <br />2° brandveiligheidsbeleid : het beleid dat gemeentebesturen voeren ter verbetering van de brandveiligheid van plaatselijke en intergemeentelijke jeugdwerkinfrastructuur, voor zover die infrastructuur langdurig en in hoofdzaak voor de werking van particuliere jeugdwerkinitiatieven wordt gebruikt;<br />3° subsidiabele uitgaven in het kader van het brandveiligheidsbeleid : alle kosten als vermeld in artikel 9, § 1, 2° van het decreet van 14 februari 2003 zolang die leiden tot een verbetering van de brandveiligheid van de jeugdwerkinfrastructuur, alsook alle kosten die in dit kader worden gemaakt en die verbonden zijn aan een beter beheer en gebruik van deze infrastructuur;<br />4° subsidiabele uitgaven in het kader van de zelf gekozen prioriteit : alle kosten als vermeld in artikel 9, § 1, 1° en 2°, van het decreet van 14 februari 2003.<br /><br />
+...
 
 ## HOOFDSTUK 2 Subsidiëring
 
 ### ART. 2.
 
-§ 1. Elk gemeentebestuur met een voor subsidiëring aanvaard jeugdbeleidsplan 2011-2013 komt in aanmerking voor subsidiëring in het kader van dit besluit als hoofdstuk 1, Jeugdwerkbeleid, van dat plan zoals vermeld in artikel 5 § 3 van het decreet van 14 februari 2003, voor de jeugdwerkprioriteit brandveiligheid voldoet aan de bepalingen van dit besluit. Onder dezelfde voorwaarden komt het jeugdbeleidsplan 2011-2015 van de Vlaamse Gemeenschapscommissie in aanmerking voor subsidiëring in het kader van dit besluit.<br /><br />In hoofdstuk 1, Jeugdwerkbeleid, van het in het eerste lid vermelde plan, worden de uitgangspunten opgenomen, alsook de wijze waarop het beleid inzake brandveiligheid in de beleidsperiode 2011 tot en met 2013 zal worden gevoerd. <br /><br />Als de te maken kosten voor de uitvoering van het beleid inzake brandveiligheid minder bedragen dan de subsidies die in het kader van dit besluit worden toegekend, of als het college van burgemeester en schepenen of het college van de Vlaamse Gemeenschapscommissie kan motiveren dat er geen verdere stappen nodig zijn op het vlak van brandveiligheid, kan het college de subsidies aanwenden voor een andere zelfgekozen prioriteit in het kader van hoofdstuk 1, Jeugdwerkbeleid, als vermeld in het eerste lid. Die keuze en de besteding van de extra middelen wordt afdoende gemotiveerd en toegelicht in het jeugdbeleidsplan.<br /><br />§ 2. De verantwoordingsnota van het laatste jaar van de planperiode bevat een verklaring van het college van burgemeester en schepenen of het college van de Vlaamse Gemeenschapscommissie waarin wordt gesteld dat het in het jeugdbeleidsplan vastgestelde beleid inzake brandveiligheid of inzake de zelfgekozen prioriteit, werd uitgevoerd zoals gepland en dat voldoende subsidiabele uitgaven, als vermeld in artikel 1, 3° en 4°, werden gedaan. Daarbij hoort ook een argumentatie bij de doelstellingen van het plan die anders of niet werden uitgevoerd.<br /><br />§ 3. Indien uit de verantwoordingsnota blijkt dat de doelstellingen in verband met het brandveiligheidsbeleid of de eigen gekozen prioriteit niet werden uitgevoerd en daar geen afdoende motivatie voor bestaat, of als blijkt dat de gemeente minder subsidiabele uitgaven, als vermeld in artikel 1, 3° en 4°, heeft gerealiseerd dan de gereserveerde subsidies voor de betreffende drie jaar, dan wordt het saldo beperkt en worden de eventueel te veel uitbetaalde subsidies teruggevorderd.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. Conform artikel 7, § 2, van het decreet van 14 februari 2003 kunnen in de gemeenten die niet over een gemeentelijk jeugdbeleidsplan beschikken, de plaatselijke jeugdwerkinitiatieven die samen een jeugdwerkbeleidsplan opmaken, ook in aanmerking komen voor de subsidiëring in het kader van dit besluit. <br /><br />De jeugdwerkinitiatieven die in aanmerking willen komen voor die subsidiëring, moeten in hun jeugdwerkbeleidsplan de te ondernemen acties op het vlak van brandveiligheid beschrijven, met een bijbehorende timing en financiële prognose.<br /><br />Als de te maken kosten voor de uitvoering van de acties inzake brandveiligheid minder bedragen dan de subsidies die in het kader van dit besluit worden toegekend, of als de jeugdwerkinitiatieven motiveren geen verdere stappen te kunnen ondernemen op het vlak van brandveiligheid, kunnen ze de subsidies aanwenden voor een andere, zelfgekozen prioriteit op het vlak van jeugdwerk. Die keuze en de wijze van besteding wordt afdoende gemotiveerd en beschreven in het jeugdwerkbeleidsplan.<br /><br />§ 2. De verantwoordingsnota bevat een verklaring van de plaatselijke jeugdwerkinitiatieven, waarin wordt gesteld dat de acties in het kader van brandveiligheid of de zelfgekozen prioriteit werden uitgevoerd zoals gepland en dat voldoende subsidiabele uitgaven werden gedaan. Hierbij hoort een argumentatie bij de geplande acties die anders of niet werden uitgevoerd.<br /><br />
+...
 
 ### ART. 4.
 
-Het krediet, dat krachtens artikel 8, § 2bis, 3°, van het decreet van 14 februari 2003 beschikbaar is, wordt jaarlijks verdeeld over de gemeentebesturen en over de plaatselijke jeugdwerkinitiatieven, vermeld in artikel 7, § 2, van het decreet van 14 februari 2003. Het krediet wordt verdeeld op basis van de verhouding van het aantal inwoners van de gemeente die jonger zijn dan 25 jaar, ten opzichte van het totale aantal inwoners van het Vlaamse Gewest die jonger zijn dan 25 jaar. Voor de Vlaamse Gemeenschapscommissie wordt het bedrag, vermeld in artikel 8, § 2, 1°, van het decreet van 14 februari 2003, gereserveerd. <br /><br />
+...
 
 ## HOOFDSTUK 3 Slotbepalingen
 
 ### ART. 5.
 
-Het besluit van de Vlaamse Regering van 26 januari 2007 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake de subsidiëring van gemeentebesturen die een jeugdwerkinfrastructuurbeleid voeren als onderdeel van het jeugdwerkbeleid wordt opgeheven. <br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad, met uitzondering van artikel 5, dat in werking treedt op 1 januari 2011.<br /><br />
+...
 
 ### ART. 7.
 
-De Vlaamse minister, bevoegd voor Jeugd, is belast met de uitvoering van dit besluit. <br /><br />
+...
