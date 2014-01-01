@@ -34,7 +34,7 @@ In artikel 376, § 3, 2°, van hetzelfde wetboek worden de woorden « artikel 25
 
 ### ART. 7.
 
-§ 1. De provincies en de gemeenten die ingevolge de toepassing van artikel   464 van het Wetboek van de inkomstenbelastingen 1992 opcentiemen op de   onroerende voorheffing heffen, en die ingevolge de toepassing van artikel 3 van   dit decreet&nbsp;die opbrengsten derven, worden daarvoor volledig vergoed door   het Vlaamse Gewest.<BR><BR>§ 2. De Vlaamse Regering bepaalt voor de vergoeding,   vermeld in § 1, de nadere uitvoeringsregels.
+§ 1. ...<BR><BR>§ 2. De Vlaamse Regering bepaalt voor de vergoeding,   vermeld in § 1, de nadere uitvoeringsregels.
 
 ## Afdeling II. Verhoging van de forfaitaire vermindering voor beroepsactieve belastingplichtigen
 
