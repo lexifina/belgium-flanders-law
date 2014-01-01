@@ -88,7 +88,7 @@ De toestemming voor het organiseren van buitenschoolse opvang in aparte lokalen 
 <br>
 § 5. De forfaitaire subsidiëring gebeurt jaarlijks per veertien plaatsen en wordt voor een capaciteit van minder dan veertien plaatsen of van meer dan veertien plaatsen pro rata berekend.<br>
 <br>
-In 2013 bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een openbaar bestuur, 28.148,74 euro en bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een privaat bestuur, 28.994,77 euro.<br>
+In 2014 bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een openbaar bestuur, 28.410,52 euro en bedraagt het forfaitaire bedrag per veertien plaatsen, georganiseerd door een privaat bestuur, 29.304,32 euro.<br>
 <br>
 § 6. Een aanvullende subsidie in het kader van de werkdrukvermindering wordt toegekend, naar rato van de arbeidsprestaties, voor elk door Kind en Gezin gesubsidieerd personeelslid (1VTE) in de erkende kinderdagverblijven en diensten voor onthaalouders, voor elke coördinator en elke kindbegeleider in de initiatieven voor buitenschoolse opvang, voor elke door Kind en Gezin gesubsidieerde begeleider in de buitenschoolse opvang in aparte lokalen in kinderdagverblijven, voor de door Kind en Gezin gesubsidieerde personeelsleden binnen het experimentele kader van projecten voor kinderopvang in buurt- en nabijheidsdiensten en in lokale diensten van buurtgerichte opvang, voor de personeelsleden met een gewezen DAC-statuut en voor elk door Kind en Gezin gesubsidieerd personeelslid in een gemandateerde voorziening.<br>
 <br>
@@ -119,21 +119,21 @@ Een verlenging van de subsidiëring moet jaarlijks worden aangevraagd in de loop
 
 ### ART. 21.
 
-Het kinderdagverblijf kan eenmalig per aangetekende brief beroep aantekenen bij Kind en Gezin tegen :<br />1° de gehele of gedeeltelijke weigering van toestemming;<br />2° de weigering van subsidiëring;<br />3° de intrekking van toestemming.
+Het kinderdagverblijf kan&nbsp;per aangetekende brief beroep aantekenen   bij Kind en Gezin tegen :<BR>1° de gehele of gedeeltelijke weigering van   toestemming;<BR>2° de weigering van subsidiëring;<BR>3° de intrekking van   toestemming.
 
 ### ART. 22.
 
-Het ingediende beroep schort de beslissing niet op.
+Het beroepschrift bevat, voor een kinderdagverblijf per vestigingsplaats,   minimaal de volgende elementen:<BR>1° de naam en het adres van het organiserende   bestuur;<BR>2° de datum van ontvangst van de betwiste beslissing;<BR>3° een   verwijzing naar of een kopie van de betwiste beslissing;<BR>4° een uitvoerige   motivering van het beroep;<BR>5° de datum van de instelling van het   beroep;<BR>6° de naam en de handtekening van de voorzitter van het organiserend   bestuur.<BR><BR>Een beroepschrift dat niet voldoet aan de voorwaarden, vermeld   in het eerste lid, is niet ontvankelijk.<BR><BR>Het ingediende beroep schort de   beslissing niet op.
 
 ### ART. 23.
 
-Kind en Gezin neemt na onderzoek van het beroep uiterlijk vijfenveertig dagen na de ontvangst van het beroepschrift een beslissing, en brengt de voorziening uiterlijk dertig dagen na de beslissing schriftelijk op de hoogte van de genomen beslissing.
+Dat beroep wordt behandeld volgens de regels die zijn vastgelegd bij of   ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ## HOOFDSTUK VI SLOTBEPALINGEN
 
 ### ART. 24.
 
-<P>Het forfaitaire bedrag voor 2013, vermeld in artikel 17, § 5, voor plaatsen,   georganiseerd door een openbaar bestuur, en het forfaitaire bedrag voor 2013,   vermeld in artikel 17, § 5, voor plaatsen, georganiseerd door een privaat   bestuur, worden niet geïndexeerd in 2013.</P>
+<P>Het forfaitaire bedrag, vermeld in dit besluit, wordt elk jaar op 1 januari   verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1   november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande   kalenderjaar.<BR><BR>In afwijking van het eerste lid wordt het forfaitaire   bedrag voor 2014, vermeld in artikel 17, § 5, tweede lid, voor plaatsen,   georganiseerd door een openbaar bestuur en het forfaitaire bedrag voor 2014,   vermeld in artikel 17, § 5, tweede lid, voor plaatsen, georganiseerd door een   privaat bestuur, niet geïndexeerd in 2014.</P>
 
 ### ART. 25.
 
