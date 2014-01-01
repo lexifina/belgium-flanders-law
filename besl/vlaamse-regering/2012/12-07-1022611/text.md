@@ -1,0 +1,41 @@
+# Besluit van de Vlaamse Regering van 2012-12-07 tot wijziging van het besluit van de Vlaamse Regering van 7 september 2007 houdende de organisatie van de vaststelling van en de controle op de samenstelling van rauwe koemelk, wat betreft de invoering van een nieuw bemonsteringssysteem
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op de wet van 28 maart 1975 betreffende de handel in landbouw-,   tuinbouw- en zeevisserijproducten, artikel 3, § 1, 4°, ingevoegd bij de wet van   29 december 1990, en artikel § 2, gewijzigd bij het decreet van 18 december 2009   en het koninklijk besluit van 22 februari 2001;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 7 september 2007 houdende de   organisatie van de vaststelling van en de controle op de samenstelling van rauwe   koemelk; <BR></P>  <P>Gelet op het overleg tussen de gewesten en de federale overheid, gedaan op 20   september 2012;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 28 augustus   2012;<BR></P>  <P>Gelet op advies 52.125/3 van de Raad van State, gegeven op 16 oktober 2012,   met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Economie, Buitenlands Beleid,   Landbouw en Plattelandsbeleid;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit :</P>
+
+### ART. 1.
+
+<P>Artikel 1 van het besluit van de Vlaamse Regering van 7 september 2007   houdende de organisatie van de vaststelling van en de controle op de   samenstelling van rauwe koemelk wordt vervangen door wat volgt : <BR></P>  <P>« Artikel 1. In dit besluit wordt verstaan onder : <BR>1° departement : het   Departement Landbouw en Visserij;<BR>2° ILVO : het Instituut voor Landbouw- en   Visserijonderzoek;<BR>3° koper : een levensmiddelenbedrijf dat over een   toelating beschikt met toepassing van het koninklijk besluit van 16 januari 2006   tot vaststelling van de nadere regels van de erkenningen, toelatingen en   voorafgaande registraties afgeleverd door het Federaal Agentschap voor de   Veiligheid van de Voedselketen;<BR>4° ladingsverrichting : de fysieke   overbrenging van een hoeveelheid melk vanuit een koeltank van de producent naar   een erkende RMO met behulp van een pompsysteem dat op de RMO geplaatst is;<BR>5°   melk : het product dat verkregen wordt door een of meer koeien te melken;<BR>6°   melklevering : de hoeveelheid melk, geregistreerd per ladingsverrichting en   geleverd door de producent aan de koper;<BR>7° melkophaling : het vervoer vanaf   het laden van een of meer leveringen op het melkproductiebedrijf tot het afladen   ervan bij de koper;<BR>8° melkproductiebedrijf : een inrichting met een of meer   landbouwhuisdieren voor de melkproductie met als oogmerk die melk als   levensmiddel in de handel te brengen;<BR>9° minister : de Vlaamse minister,   bevoegd voor het landbouwbeleid en de zeevisserij;<BR>10° producent : de   natuurlijke persoon of rechtspersoon die alleen of gegroepeerd een   melkproductiebedrijf uitbaat;<BR>11° RMO : de rijdende melkontvangst.   »</P>
+
+### ART. 2.
+
+In artikel 2, eerste lid, van hetzelfde besluit wordt het woord   "melkexploitaties" vervangen door het woord "melkproductiebedrijven".
+
+### ART. 3.
+
+<P>In artikel 3 van hetzelfde besluit worden de volgende wijzigingen aangebracht   : <BR></P>  <P>1° paragraaf 2 wordt vervangen door wat volgt : <BR></P>  <P>« § 2. De melk die door een producent wordt geleverd aan of die opgehaald   wordt door een of meer kopers, moet overeenstemmen met een van de volgende types   : <BR>1° rauwe volle melk : de melk, afgescheiden door de melkklier van een of   meer koeien, die niet is verhit tot meer dan 40 °C of een behandeling met een   gelijkwaardig effect heeft ondergaan en waarvan het natuurlijke vetgehalte niet   is gewijzigd; <BR>2° rauwe afgeroomde melk : volle melk waarvan het vetgehalte   is teruggebracht tot ten hoogste 5 g/l. »;<BR></P>  <P>2° paragraaf 3 wordt vervangen door wat volgt : <BR></P>  <P>« § 3. De koper moet de samenstelling van de melk, die voor zijn rekening   wordt opgehaald, op een melkproductiebedrijf of vanuit een melkproductiebedrijf   aan hem wordt geleverd, laten vaststellen.<BR></P>  <P>De samenstelling van de melk wordt vastgesteld door een interprofessioneel   organisme dat daarvoor erkend is door de minister. »;<BR></P>  <P>3° paragraaf 5 wordt vervangen door wat volgt : <BR></P>  <P>« § 5. Bij melkophaling op het melkproductiebedrijf worden voor elk type   melk, vermeld in paragraaf 2, en van elke melklevering door middel van een   automatisch bemonsteringsapparaat, dat geïnstalleerd is op de RMO, de volgende   gegevens geregistreerd met een elektronisch monsteridentificatiesysteem,   goedgekeurd door het interprofessioneel organisme : <BR>1° de identiteit van de   koper, de producent en het melkproductiebedrijf;<BR>2° het aantal liter per   melklevering;<BR>3° de datum en het tijdstip van de melklevering.<BR></P>  <P>De minister kan bepalen dat aanvullende gegevens geregistreerd moeten worden.   » </P>
+
+### ART. 4.
+
+<P>In artikel 4 van hetzelfde besluit worden de volgende wijzigingen aangebracht   : <BR></P>  <P>1° in paragraaf 1 wordt het woord "monsterneming" telkens vervangen door het   woord "bemonstering";<BR></P>  <P>2° in paragraaf 1 wordt punt 1° vervangen door wat volgt : <BR>« 1° een   bemonstering is verplicht bij iedere melklevering van elk type melk; »;<BR></P>  <P>3° in paragraaf 1 wordt punt 3° vervangen door wat volgt : <BR>« 3° de   bemonstering verloopt mechanisch met behulp van een automatisch   bemonsteringsapparaat op de RMO. Het monster mag alleen manueel genomen worden   als het bemonsteringsapparaat defect is of als een te geringe hoeveelheid melk   een representatieve mechanische bemonstering onmogelijk maakt; »;<BR></P>  <P>4° in paragraaf 2, 3°, worden de woorden "de afdeling" vervangen door de   woorden "het departement".</P>
+
+### ART. 5.
+
+<P>In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht   : <BR></P>  <P>1° het woord "bemonsteringssysteem" wordt telkens vervangen door het woord   "bemonsteringsapparaat";<BR></P>  <P>2° het woord "monsternemingsapparaat" wordt vervangen door het woord   "bemonsteringsapparaat";<BR></P>  <P>3° de woorden "een interprofessionele organisatie" worden telkens vervangen   door de woorden "een interprofessioneel organisme";<BR></P>  <P>4° de woorden "de interprofessionele organisatie" worden telkens vervangen   door de woorden "het interprofessioneel organisme";</P>  <P><BR>5° de woorden "de erkende interprofessionele organisatie" worden   vervangen door de woorden "het erkende interprofessioneel organisme";</P>  <P><BR>6° de woorden "de afdeling" worden telkens vervangen door de woorden "het   departement".</P>
+
+### ART. 6.
+
+<P>In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van   10 september 2010, wordt het opschrift van hoofdstuk IV vervangen door wat volgt   : <BR></P>  <P>« HOOFDSTUK IV. - Erkenning van een interprofessioneel organisme dat belast   is met de bepaling van de samenstelling van melk »</P>
+
+### ART. 7.
+
+<P>In artikel 6 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 10 september 2010, worden de volgende wijzigingen aangebracht :   <BR></P>  <P>1° de woorden "een interprofessionele organisatie" worden telkens vervangen   door de woorden "een interprofessioneel organisme";<BR></P>  <P>2° het woord "monsterneming" wordt vervangen door het woord   "bemonstering";<BR></P>  <P>3° de woorden "de afdeling" worden telkens vervangen door de woorden "het   departement";<BR></P>  <P>4° de woorden "een andere interprofessionele organisatie" worden vervangen   door de woorden "een ander interprofessioneel organisme";<BR></P>  <P>5° de woorden "de erkende interprofessionele organisatie" worden vervangen   door de woorden "het erkende interprofessioneel organisme";<BR></P>  <P>6° de woorden "erkende interprofessionele organisatie" worden telkens   vervangen door de woorden "erkend interprofessioneel   organisme".</P>
+
+### ART. 8.
+
+Dit besluit treedt in werking op 1 januari 2014.
+
+### ART. 9.
+
+De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is   belast met de uitvoering van dit besluit.
