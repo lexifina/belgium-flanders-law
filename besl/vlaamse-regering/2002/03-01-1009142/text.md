@@ -206,7 +206,7 @@ Kind en Gezin beslist binnen 10 kalenderdagen na ontvangst van het beroepschrift
 
 ### ART. 43.
 
-§ 1. Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt Kind en Gezin het ontvankelijke beroepschrift samen met het volledige administratieve dossier en eventuele verweermiddelen aan de commissie. Kind en Gezin bezorgt tegelijkertijd een kopie van het beroepschrift aan de Vlaamse minister, bevoegd voor de bijstand aan personen.<br /><br />§ 2. Het beroep wordt verder behandeld volgens de procedure, bedoeld in het besluit van de Vlaamse regering van 15 september 1998 betreffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden.
+&nbsp;Het beroep wordt behandeld volgens de regels die zijn vastgesteld   bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007   houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ## TITEL V SUBSIDIËRING
 
@@ -220,7 +220,7 @@ Kind en Gezin beslist binnen 10 kalenderdagen na ontvangst van het beroepschrift
 
 ### ART. 45.
 
-§ 1. Kind en Gezin verleent vanaf de oprichting een subsidie voor de functioneringskosten, waaronder kosten voor huur en onderhoud van de lokalen, het verbruik van gas, water, stookolie en elektriciteit, telefoon, de medische verbruiksgoederen voor het consultatiebureau en voor het huisbezoek, verzekeringen en verplaatsingskosten van vrijwilligers alsmede afschrijvingskosten.<br /><br />Die subsidie bedraagt 81,44 euro per zitting.<br /><br />§ 2. Voor de vorming van de vrijwilligers verleent Kind en Gezin 7 euro per zitting.<br /><br />Het bedrag van 7 euro is vastgesteld op basis van de index op 1 januari 2011. <br /><br />§ 3. Vanaf 2008 verleent Kind en Gezin een subsidie van 649,64 euro per jaar per consultatiebureau voor de professionele omkadering van de consultatiebureaus.<br /><br />§ 4. Vanaf 2008 verleent Kind en Gezin een subsidie van 251,39 euro per jaar per consultatiebureau voor het kwaliteitsvol medisch beheer.
+<P>§ 1. Kind en Gezin verleent vanaf de oprichting een subsidie voor de   functioneringskosten, waaronder kosten voor huur en onderhoud van de lokalen,   het verbruik van gas, water, stookolie en elektriciteit, telefoon, de medische   verbruiksgoederen voor het consultatiebureau en voor het huisbezoek,   verzekeringen en verplaatsingskosten van vrijwilligers alsmede   afschrijvingskosten.<BR><BR>Die subsidie bedraagt 81,44 euro per zitting.</P>  <P>§ 2. Voor de omkadering van de vrijwilligers verleent Kind en Gezin 10 euro   per zitting.</P>  <P>Het bedrag van 10 euro is vastgesteld op basis van de index van 1 januari   2013.</P>  <P>§ 3. Vanaf 2008 verleent Kind en Gezin een subsidie van 649,64 euro per jaar   per consultatiebureau voor de professionele omkadering van de   consultatiebureaus.<BR><BR>§ 4. Vanaf 2008 verleent Kind en Gezin een subsidie   van 251,39 euro per jaar per consultatiebureau voor het kwaliteitsvol medisch   beheer.</P>
 
 ### ART. 45bis.
 
