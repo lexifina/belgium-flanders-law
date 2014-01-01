@@ -2,16 +2,16 @@
   "codex_id": 1020036,
   "title": "Besluit van de Vlaamse Regering van 2011-01-21 tot vaststelling van de algemene regels voor de erkenning en de subsidiëring van de landschapswerking van regionale landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020036/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "54388e56db995fa7260100bee8a61ed4ed10f315fbb1631dc5c46ebd1e3c58cf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020036/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "6e67645130554cd21c05b2d30bc822e839e0986f62eb547c705b074e71fcf0be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020036&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2011-01-21",
   "gazette": "2011-02-15",
   "numac": 2011035123,
   "document_start": "2011-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2011-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
