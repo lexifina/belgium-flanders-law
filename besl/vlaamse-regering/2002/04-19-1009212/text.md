@@ -158,7 +158,7 @@ Als de adoptiedienst niet meer aan alle erkenningsvoorwaarden voldoet, kan Kind 
 
 ### ART. 35.
 
-De adoptiedienst kan bezwaar aantekenen bij de minister tegen de volgende beslissingen:<br /><br />1° de weigering en de intrekking van de erkenning;<br /><br />2° de weigering van de verlenging van de erkenning;<br /><br />3° de beslissing over de termijn van de erkenning of de verlenging van de erkenning.
+De adoptiedienst kan bezwaar aantekenen tegen de volgende   beslissingen:<BR>1° de weigering en de intrekking van de erkenning;<BR>2° de   weigering van de verlenging van de erkenning;<BR>3° de beslissing over de   termijn van de erkenning of de verlenging van de erkenning.
 
 ### ART. 36.
 
@@ -166,7 +166,7 @@ De adoptiedienst dient in dat geval op straffe van niet-ontvankelijkheid uiterli
 
 ### ART. 37.
 
-Het bezwaarschrift bevat eveneens op straffe van niet-ontvankelijkheid de volgende elementen:<br /><br />1° naam en adres van de adoptiedienst;<br /><br />2° datum van ontvangst van de betwiste beslissing;<br /><br />3° een referte of een kopie van de betwiste beslissing;<br /><br />4° een uitvoerige motivering van het beroep;<br /><br />5° naam en handtekening van de voorzitter van de adoptiedienst;<br /><br />6° datum van instelling van het beroep.
+Het bezwaarschrift bevat eveneens op straffe van niet-ontvankelijkheid de   volgende elementen:<BR>1° naam en adres van de adoptiedienst;<BR>2° datum van   ontvangst van de betwiste beslissing;<BR>3° een referte of een kopie van de   betwiste beslissing;<BR>4° een uitvoerige motivering van het bezwaar;<BR>5° naam   en handtekening van de voorzitter van de adoptiedienst;<BR>6° datum van   instelling van het bezwaar.
 
 ### ART. 38.
 
@@ -178,7 +178,7 @@ De Vlaamse Centrale Autoriteit beslist binnen 15 dagen na ontvangst van het bezw
 
 ### ART. 40.
 
-§ 1. Overeenkomstig artikel 7 van het besluit van de Vlaamse regering van 15 september 1998 be-treffende de adviserende beroepscommissie inzake gezins- en welzijnsaangelegenheden, bezorgt de Vlaamse Centrale Autoriteit het ontvankelijke bezwaarschrift samen met het volledige administratieve dossier en de eventuele verweermiddelen aan de commissie. De administratie bezorgt tegelijkertijd een kopie van het bezwaarschrift aan de minister.<br /><br />§ 2. Het bezwaar wordt verder behandeld volgens de procedure, bedoeld in het in § 1 genoemde besluit.
+<P>Het bezwaar wordt behandeld volgens de regels die zijn vastgesteld bij of ter   uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende   oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-,   Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van   Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.</P>
 
 ## HOOFDSTUK V OVERGANGS- EN SLOTBEPALINGEN
 
