@@ -40,7 +40,7 @@ K&G betaalt de vergoeding, vastgesteld in artikel 6, § 1, via de dienst uit aan
 
 ### ART. 9.
 
-§ 1. De dienst of het particuliere opvanggezin kan binnen 30 dagen na de kennisgeving van de beslissing via een aangetekende brief bezwaar aantekenen bij K&G. De datum van de poststempel geldt als bewijs.<br /><br />§ 2. Het ingediende bezwaar schorst de beslissing niet.<br /><br />§ 3. K&G beschikt over een termijn van 30 kalenderdagen vanaf het indienen van het bezwaar om een beslissing te nemen.<br /><br />§ 4. K&G brengt de dienst of het particuliere opvanggezin uiterlijk 30 dagen na de beslissing schriftelijk op de hoogte van de genomen beslissing.
+§ 1. De dienst of het particuliere opvanggezin kan binnen 30 dagen na de   kennisgeving van de beslissing via een aangetekende brief bezwaar aantekenen bij   K&amp;G. De datum van de poststempel geldt als bewijs.<BR><BR>§ 2. Het   ingediende bezwaar schorst de beslissing niet.<BR><BR>§ 3. Het bezwaar wordt   behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van   hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de   Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid   en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en   Gezin en (Kandidaat-)pleegzorgers.<BR><BR>§ 4. ...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 

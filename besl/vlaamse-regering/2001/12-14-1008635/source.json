@@ -2,16 +2,16 @@
   "codex_id": 1008635,
   "title": "Besluit van de Vlaamse Regering van 2001-12-14 betrefffende de vergoeding van installatiekosten aan opvanggezinnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008635/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "46ce0f098459022d9dbc1741fb8d6200e6850e257183807f67bad2338bc09ae7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008635/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "a946008edfe53e919b0e08a095b4dd767b59b6eeb44e1cb0366c9da8d08b3e31",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008635&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2001-12-14",
   "gazette": "2002-01-30",
   "numac": 2002035021,
   "document_start": "2002-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
