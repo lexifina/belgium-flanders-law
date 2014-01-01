@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023898,
+  "title": "Besluit van de Vlaamse Regering van 2012-12-21 houdende bepaling van de nadere modaliteiten met betrekking tot de inhoud en de procedure voor de opmaak, het afsluiten en de evaluatie van de bestuursakkoorden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023898/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "7aea3e4fefa7d62ca85fe36800799917ba761a32bf9029dc2827da791e83d83f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023898&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2012-12-21",
+  "gazette": "2014-03-04",
+  "numac": 2014201211,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
