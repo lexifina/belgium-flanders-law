@@ -12,7 +12,19 @@ Het agentschap heeft als missie voorwaarden te scheppen om het welzijn en de gez
 
 ### ART. 3.
 
-Het agentschap heeft tot taak:<br /><br />1° de programmatie, erkenning en subsidiëring van voorzieningen die vallen binnen de categorieën ouderenzorg, algemene gezondheidszorg en geestelijke gezondheidszorg in het beleidsdomein beleidsdomein [Welzijn, Volksgezondheid en Gezin;  <span class="reference">(verv. B.V.R. 3 juni 2005, art. 37, I: 1 januari 2006)</span> ]<br /><br />2° in het kader van de uitvoering van het preventieve gezondheidsbeleid:<br /><br />a) het opzetten en uitvoeren van projecten en programma's;<br /><br />b) het erkennen en subsidiëren van initiatieven voor de uitvoering van projecten en programma's;<br /><br />c) de coördinatie en opvolging van vaccinatieprogramma's, en de profylaxe van infectieziekten;<br /><br />3° in het kader van de volksgezondheid het uitvoeren van inspecties, de advisering over milieuvergunningen en het behandelen van klachten en incidenten;<br /><br />4° het beheren van het Vlaams Zorgfonds;<br /><br />[5° het ter beschikking stellen van personeel aan de zorgkas, vermeld in artikel 14, derde lid, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.  <span class="reference">(verv. B.V.R. 31 maart 2006, art. 32, I: 1 april 2006)</span> ]<br /><br />[Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.  <span class="reference">(ing. B.V.R. 31 maart 2006, art. 32, I: 1april 2006)</span> ]<br /><br />De voorzieningen, bedoeld in het eerste lid, 1°, zijn de voorzieningen die door het agentschap kunnen worden erkend, geattesteerd, vergund en/of gesubsidieerd of anderszins ondersteund of zich bij het agentschap moeten melden.
+Het agentschap heeft tot taak:<br>
+1° de programmatie, erkenning en subsidiëring van voorzieningen die vallen binnen de categorieën ouderenzorg, algemene gezondheidszorg en geestelijke gezondheidszorg in het beleidsdomein beleidsdomein Welzijn, Volksgezondheid en Gezin, met uitzondering van diensten voor pleegzorg als bedoeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+2° in het kader van de uitvoering van het preventieve gezondheidsbeleid:<br>
+a) het opzetten en uitvoeren van projecten en programma's;<br>
+b) het erkennen en subsidiëren van initiatieven voor de uitvoering van projecten en programma's;<br>
+c) de coördinatie en opvolging van vaccinatieprogramma's, en de profylaxe van infectieziekten;<br>
+3° in het kader van de volksgezondheid het uitvoeren van inspecties, de advisering over milieuvergunningen en het behandelen van klachten en incidenten;<br>
+4° het beheren van het Vlaams Zorgfonds;<br>
+5° het ter beschikking stellen van personeel aan de zorgkas, vermeld in artikel 14, derde lid, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.<br>
+<br>
+Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.<br>
+<br>
+De voorzieningen, bedoeld in het eerste lid, 1°, zijn de voorzieningen die door het agentschap kunnen worden erkend, geattesteerd, vergund en/of gesubsidieerd of anderszins ondersteund of zich bij het agentschap moeten melden.
 
 ### ART. 4.
 
