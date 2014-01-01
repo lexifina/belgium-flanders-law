@@ -78,6 +78,10 @@ Aan artikel 30 van hetzelfde decreet wordt een paragraaf 4 toegevoegd, die   lui
 
 &nbsp;In artikel 4 van het decreet van 24 juli 1996 houdende regeling tot   erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot   subsidiëring van een Vlaams Centrum Schuldenlast worden de woorden "periodes van   zes jaar" vervangen door de woorden "een periode van onbepaalde   duur".<BR>
 
+### ART. 35.
+
+Artikel 10bis van hetzelfde decreet, ingevoegd bij het decreet van 10 juli   2008,<BR>wordt vervangen door wat volgt : <BR>"Art. 10bis. De Vlaamse Regering   kan de erkende instellingen voor schuldbemiddeling en de samenwerkingsverbanden   van erkende instellingen voor schuldbemiddeling subsidiëren binnen de   beschikbare begrotingskredieten. Ze bepaalt de regels voor de voorwaarden, de   aanvraag, de vaststelling, de toekenning en de vereffening van de   subsidie.".<BR>
+
 ## HOOFDSTUK 10 Personen met een handicap
 
 ### ART. 36.
@@ -142,11 +146,27 @@ In artikel 59 van hetzelfde decreet worden de volgende wijzigingen   aangebracht
 
 In artikel 63, eerste lid, van hetzelfde decreet wordt punt 1° vervangen   door wat volgt : <BR>"1° een initiatiefnemer als vermeld in artikel 50 of   aangewezen ter uitvoering van dat artikel;".<BR>
 
+### ART. 52.
+
+<P>Artikel 68 van hetzelfde decreet wordt vervangen door wat volgt : <BR>"Art.   68. § 1. Om de professionaliteit en de kwaliteit van de woonzorg te stimuleren,   kan de Vlaamse Regering partnerorganisaties erkennen en subsidiëren binnen de   beschikbare begrotingskredieten.<BR></P>  <P>De Vlaamse Regering bepaalt de erkenningsvoorwaarden, de duur van de   erkenning, alsook de regels om de erkenning te verlenen en om de erkenning te   schorsen of in te trekken als de erkenningsvoorwaarden niet worden   nageleefd.<BR></P>  <P>Alleen erkende partnerorganisaties kunnen worden gesubsidieerd. De Vlaamse   Regering bepaalt de subsidieregels.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 kan de Vlaamse Regering, al dan niet op   basis van een oproep, een beheersovereenkomst sluiten met een partnerorganisatie   die in Vlaanderen een unieke expertise op het vlak van de professionaliteit en   de kwaliteit van woonzorg ontwikkelt. Een partnerorganisatie waarmee een   beheersovereenkomst wordt gesloten, wordt geacht erkend te zijn voor de duur van   die overeenkomst.<BR></P>  <P>De beheersovereenkomst, vermeld in het eerste lid, omvat minstens : <BR>1° de   aard van de deskundigheid van de partnerorganisatie, de doelgroepen aan wie de   partnerorganisatie minstens ondersteuning biedt en de opdrachten die de   partnerorganisatie heeft ten aanzien van de Vlaamse overheid;<BR>2° een plan   voor de duur van de beheersovereenkomst met : <BR>a) de resultaatsgebieden voor   de uitvoering van de overeenkomst;<BR>b) de evaluatiecriteria voor de   resultaatsgebieden, vermeld in punt a);<BR>3° de voorwaarden en andere regels   voor de subsidie.".<BR></P>
+
 ### ART. 53.
 
 In artikel 253, eerste lid, 1°bis, van het Wetboek van de   Inkomstenbelastingen 1992, ingevoegd bij het decreet van 22 december 1993,   worden de woorden "als bejaardenvoorziening uitgebaat door een rechtspersoon,   zoals bedoeld in artikel 5 van het decreet van 5 maart 1985 houdende regeling   van de erkenning en subsidiëring van voorzieningen voor bejaarden" vervangen   door de woorden "als ouderenvoorziening als vermeld in artikel 2, 21°, of   artikel 88, § 1, § 2 of § 5, van het Woonzorgdecreet van 13 maart 2009, die   wordt uitgebaat door een rechtspersoon als vermeld in artikel 63, eerste lid,   van dat decreet, en die door de Vlaamse Regering is erkend".<BR>
 
 ## HOOFDSTUK 14 Pleegzorg
+
+### ART. 54.
+
+Aan artikel 18 van het decreet van 29 juni 2012 houdende de organisatie   van pleegzorg worden de woorden "en van de pleeggasten"   toegevoegd.<BR>
+
+### ART. 55.
+
+Artikel 49 van hetzelfde decreet wordt vervangen door wat volgt :   <BR>"Art. 49. In artikel 55, tweede lid, van hetzelfde decreet worden de   volgende wijzigingen aangebracht : <BR>1° er wordt een punt 2°/1 ingevoegd, dat   luidt als volgt : <BR>"2°/1 de pleeggasten en pleegkinderen als vermeld in   artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie   van pleegzorg;";<BR>2° in punt 3° wordt de zinsnede "de personen, vermeld in 1°   en 2°" vervangen door de zinsnede "de personen, vermeld in 1°, 2° en   2°/1".".<BR>
+
+### ART. 56.
+
+In hetzelfde decreet wordt een artikel 49/1 ingevoegd, dat luidt als volgt   : <BR>"Art. 49/1. Aan artikel 57, eerste lid, van hetzelfde decreet worden de   woorden "en van het decreet van 29 juni 2012 houdende de organisatie van   pleegzorg" toegevoegd.".<BR>
 
 ### ART. 57.
 
