@@ -2,16 +2,16 @@
   "codex_id": 1015724,
   "title": "Besluit van de Vlaamse Regering van 2007-03-09 tot regeling van de vergoedingen van de bestuurders van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen van de Vlaamse overheid, en van de regeringsafgevaardigden die toezicht uitoefenen bij deze agentschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015724/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "a92d4f82c744b61e334346ab6479f59604eaa429002c15f087f8b02ef02011da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015724/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "33348262550490434631bdb3bcd065d3ad35f376704564152888b07fb468b079",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015724&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-01-01",
   "made": "2007-03-09",
   "gazette": "2007-04-24",
   "numac": 2007035563,
   "document_start": "2007-03-09",
   "document_end": null,
-  "in_force": "2011-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }

@@ -98,7 +98,7 @@ In categorie II worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegeve
 
 ### ART. 7.
 
-In categorie III worden ingedeeld, de hiernavolgende publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen :<br />1° Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br />2° Openbaar Psychiatrisch Zorgcentrum Geel;<br />3° Openbaar Psychiatrisch Zorgcentrum Rekem;<br />4° Agentschap voor Innovatie door Wetenschap en Technologie.
+In categorie III worden ingedeeld, de hiernavolgende publiekrechtelijk   vormgegeven extern verzelfstandigde agentschappen :<BR>1° Vlaams Agentschap voor   Ondernemersvorming - Syntra Vlaanderen;<BR>2° Openbaar Psychiatrisch Zorgcentrum   Geel;<BR>3° Openbaar Psychiatrisch Zorgcentrum Rekem;<BR>4° Agentschap voor   Innovatie door Wetenschap en Technologie;<BR>5° Agentschap Plantentuin   Meise.
 
 ### ART. 8.
 
