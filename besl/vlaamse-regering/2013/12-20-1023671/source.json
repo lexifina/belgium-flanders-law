@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023671,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 tot vaststelling van de heffingscoëfficiënt inzake de grindwinning voor 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023671/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ebea6d9b1c44102b2566ee24fa65cce003d9c46251a225609dc83919ac53b3e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023671&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-20",
+  "gazette": "2014-01-29",
+  "numac": 2014200195,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
