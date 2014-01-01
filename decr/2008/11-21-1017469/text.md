@@ -130,6 +130,10 @@ In afwijking van artikel 20 wordt voor de periode van 1 januari 2009 tot en met 
 
 Geen enkele activiteit waarbij wilde dieren worden ingezet kan in het kader van dit decreet subsidies ontvangen. <br /><br />
 
+### ART. 25/1.
+
+De subsidie-enveloppe van een op basis van dit decreet meerjarig   gesubsidieerde organisatie, die door de provincie in 2011 structureel werd   gesubsidieerd, wordt in 2014 verhoogd met 80 procent van de geïndexeerde   provinciale subsidie.
+
 ### ART. 26.
 
 Elke begunstigde moet het logo van de Vlaamse overheid met het bijschrift "Met steun van de Vlaamse overheid" opnemen op alle informatiedragers en relevante externe communicatiekanalen. De Vlaamse Regering bepaalt de verdere uitwerking van die inspanningen op het gebied van communicatie.<br /><br />
