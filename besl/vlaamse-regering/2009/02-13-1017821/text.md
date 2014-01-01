@@ -46,6 +46,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 30 april 2004 tot opric
 
 ...
 
+### ART. 9/1.
+
+De zelfstandige onthaalouder en het zelfstandig kinderdagverblijf hebben   een ondernemingsnummer. Als de opvangvoorziening georganiseerd is als feitelijke   vereniging, heeft het ondernemingsnummer betrekking op de feitelijke vereniging   zelf.
+
 ### ART. 10.
 
 ...

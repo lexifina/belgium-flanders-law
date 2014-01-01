@@ -2,16 +2,16 @@
   "codex_id": 1017821,
   "title": "Besluit van de Vlaamse Regering van 2009-02-13 houdende regeling van inkomensgerelateerde opvang bij zelfstandige opvangvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017821/VolledigDocument?datum=2009-06-09",
-  "source_sha256": "61b7e4ee1dd1503c5dbc21719b736bfaa4054bc5a985cb9faef7edf2a074a2fb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017821/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "5b91f8956c006da799bd2051fa7f5a5fe3046f95f4865d985117ac2accb4fd89",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017821&param=informatie",
-  "as_of": "2009-06-09",
+  "as_of": "2014-01-01",
   "made": "2009-02-13",
   "gazette": "2009-04-23",
   "numac": 2009201720,
   "document_start": "2009-01-01",
   "document_end": "2009-06-08",
-  "in_force": "2009-06-09",
-  "article_versions": 34,
-  "record_form": "consolidated version as in force on 2009-06-09; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-01-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
