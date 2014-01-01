@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023578,
+  "title": "Samenwerkingsakkoord van 2013-11-29 tussen de Federale Overheid, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies betreffende de uitvoering van artikel 3, § 1, van het verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023578/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "22b2227b437a94c77422d5ec04c3ce6aafd6da448e614195d62f050df66bca29",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023578&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-11-29",
+  "gazette": "2014-01-16",
+  "numac": 0,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
