@@ -2,16 +2,16 @@
   "codex_id": 1021124,
   "title": "Ministerieel besluit van 2011-12-12 houdende erkenning van controledeskundigen met uitsluitend chaperonneringsopdracht inzake medisch verantwoorde sportbeoefening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021124/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "f5b4906ed0446bd57433eacda1d69a6215bec110d364b22f6b827872ddc856ce",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021124/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "ca6e964148dd1958993acc5237bcd1b0f11167d7fce63e94e826f66fb6b2f50f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021124&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2014-01-01",
   "made": "2011-12-12",
   "gazette": "2011-12-23",
   "numac": 2011206336,
   "document_start": "2012-01-01",
   "document_end": "2013-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2014-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
