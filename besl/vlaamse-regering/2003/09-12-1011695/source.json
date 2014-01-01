@@ -2,16 +2,16 @@
   "codex_id": 1011695,
   "title": "Besluit van de Vlaamse Regering van 2003-09-12 ter uitvoering van het decreet van 14 februari 2003 houdende de ondersteuning en de stimulering van het gemeentelijk, het intergemeentelijk en het provinciaal jeugd- en jeugdwerkbeleid, inzake het voeren van een provinciaal jeugd- en jeugdwerkbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011695/VolledigDocument?datum=2007-06-18",
-  "source_sha256": "60bf7dc1d532db27401f731e615a63f293506d941d5d8285b2d8f32feba9235d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011695/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "9375d69ce24568a7d54e9fabfde01ef24571dd58d60112fe217b46072ec08e46",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011695&param=informatie",
-  "as_of": "2007-06-18",
+  "as_of": "2014-01-01",
   "made": "2003-09-12",
   "gazette": "2003-11-07",
   "numac": 2003201610,
   "document_start": "2003-11-07",
   "document_end": "2013-12-31",
-  "in_force": "2007-06-18",
+  "in_force": "2014-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2007-06-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
