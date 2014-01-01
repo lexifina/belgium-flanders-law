@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023926,
+  "title": "Ministerieel besluit van 2013-12-11 houdende de bepaling van resultaatgerichte indicatoren en de concretisering van de zorgaspecten voor de centra voor algemeen welzijnswerk en de centra voor teleonthaal",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023926/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "776c2e48b3c7063e1a65e2d4095bc9b7d3817efe0f78be6cf5e8898280f64ef4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023926&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2013-12-11",
+  "gazette": "2014-03-21",
+  "numac": 2014035224,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
