@@ -10,8 +10,8 @@
 
 ### ART. 2.
 
-<P>In artikel 26, § 1, van hetzelfde besluit, worden met ingang van 1 september   2013 een vierde, vijfde en zesde lid toegevoegd, die luiden als volgt :<BR></P>  <P>« In afwijking van lid 1 is het in de periode van 1 september 2013 tot 85 %   van het quotum is benut vóór 30 november 2013 voor een vissersvaartuig met een   motorvermogen van 221 kW of minder, verboden bij de rogvangsten per zeereis in   i.c.e.s.-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 200   kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in   de desbetreffende i.c.e.s.-gebieden.<BR></P>  <P>In afwijking van lid 2 is het in de periode van 1 september 2013 tot 85 % van   het quotum is benut vóór 30 november 2013 voor een vissersvaartuig met een   motorvermogen van meer dan 221 kW, verboden bij de rogvangsten per zeereis in   i.c.e.s.-gebieden II, IV een hoeveelheid te overschrijden die gelijk is aan 400   kg vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis in   de desbetreffende i.c.e.s.-gebieden.<BR></P>  <P>In afwijking van leden 4 en 5 worden de maximaal toegelaten   vangsthoeveelheden verdubbeld die gerealiseerd zijn door een vissersvaartuig dat   volgens de officiële lijst der Belgische vissersvaartuigen 2013 uitsluitend   uitgerust zijn met de planken. » </P>
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 september 2013 en houdt op van kracht   te zijn op 1 januari 2014 met uitzondering van artikel 1, dat ophoudt van kracht   te zijn op 1 januari 2015.
+...
