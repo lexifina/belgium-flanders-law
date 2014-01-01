@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024501,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van het besluit van de Vlaamse Regering van 29 oktober 2004 houdende geldelijke en administratieve bepalingen voor de contractuele personeelsleden in het onderwijs betaald door de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024501/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "e273730970bc6da7f3b6bf686661a02993f2112d42efd1e5213ef60c9d2f1fea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024501&param=informatie",
+  "as_of": "2014-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-09-02",
+  "numac": 2014035708,
+  "document_start": "2014-01-01",
+  "document_end": null,
+  "in_force": "2014-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
