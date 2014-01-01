@@ -8,11 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° het Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, dat de door de Vlaamse Regering aangewezen dienst is, vermeld in het decreet;<br />4° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat kaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br />5° het college : het college van burgemeester en schepenen;<br />6° de deputatie : de deputatie van de provincieraad;<br />7° de VGC : de Vlaamse Gemeenschapscommissie;<br />8° het college van de VGC : het college van de Vlaamse Gemeenschapscommissie;<br />9° ISB : Vlaams Instituut voor Sportbeheer en Recreatiebeleid vzw; <br />10° Vlabus : Vlaams Bureau voor Sportbegeleiding vzw;<br />11° het planningsjaar : het kalenderjaar dat voorafgaat aan de periode waarop het sportbeleidsplan betrekking heeft en waarin het sportbeleidsplan opgemaakt wordt;<br />12° de sportbeleidsplanperiode : de periode waarop het sportbeleidsplan betrekking heeft, meer bepaald de periode vanaf het tweede jaar van de bestuursperiode tot en met het eerste jaar van de daaropvolgende bestuursperiode.<br /><br />
+...
 
 ### ART. 2.
 
-De gemeentebesturen, de provinciebesturen, de Vlaamse Gemeenschapscommissie en de indieners van een verenigingssportbeleidsplan verbinden zich ertoe de steun van de Vlaamse Gemeenschap te vermelden in hun publieke strategische communicatie over het sportbeleidsplan.<br /><br />
+...
 
 ## HOOFDSTUK II De gemeenten
 
@@ -20,47 +20,47 @@ De gemeentebesturen, de provinciebesturen, de Vlaamse Gemeenschapscommissie en d
 
 ### ART. 3.
 
-§ 1. Het gemeentelijk sportbeleidsplan is, overeenkomstig artikel 2, 6° en artikel 13, § 1, tweede lid, van het decreet een meerjarenbeleidsdocument met betrekking tot het sportbeleid, dat goedgekeurd is door de gemeenteraad en dat tot stand komt, wordt uitgevoerd en geëvalueerd op basis van een interactieve bestuursstijl. Het bevat alle doelstellingen, inspanningen, voorzieningen en instrumenten voor het voeren van een sportbeleid en informatie over de wijze waarop de sportraad wordt begeleid en betrokken. Het beschrijft tevens op welke wijze aandacht wordt besteed aan de kwaliteit van de sportbeoefening.<br /><br />§ 2. Het gemeentelijk sportbeleidsplan bevat, in aanvulling van artikelen 13 en 15 van het decreet, de volgende elementen :<br />1° generieke elementen :<br />a) de missie van het sportbeleid; <br />b) 1) een inventarisatie en beschrijving van de huidige structuren van de gemeente met betrekking tot sport en de onderlinge samenhang ervan, en een inventarisatie van de externe sportactoren die een rol spelen in het gemeentelijke sportbeleid, zoals onder andere sportverenigingen, scholen en commerciële sportinstellingen; <br />2) de voor het gemeentelijke sportbeleid verzamelde relevante noden en behoeften die onder andere blijken uit de bevraging van de belanghebbenden, uit een evaluatie van het huidige sportbeleid en uit de brede maatschappelijke context.<br />2° elementen die in elk van de hoofdstukken, vermeld in artikel 15 van het decreet, afzonderlijk aan bod moeten komen :<br />a) de analyse en duiding van de gegevens, vermeld in b), 1) en 2), met het oog op de te formuleren doelstellingen; <br />b) de strategische doelstellingen en de bijhorende operationele doelstellingen, met per doelstelling de vermelding van het beoogde resultaat en de eventuele indicatoren;<br />c) de aanpak om de operationele doelstellingen te realiseren met vermelding van de maatregelen, de timing en de financiële prognose.<br /><br />§ 3. De subsidiereglementen worden ter informatie bij het sportbeleidsplan gevoegd. Als die subsidiereglementen wijzigen, moeten ze bij het jaarlijkse verslag worden gevoegd. Er moet in een vlotte en regelmatige uitbetaling van de subsidies voorzien worden.<br /><br />§ 4. Bij de subsidiereglementen en ondersteuningssystemen, vermeld in hoofdstuk één en de initiatieven, vermeld in hoofdstuk twee en drie van het sportbeleidsplan wordt het Nederlandstalig karakter als expliciete voorwaarde en opschortend criterium gesteld <br /><br />§ 5. De minister kan de vorm bepalen waarin het sportbeleidsplan moet worden ingediend.<br /><br />
+...
 
 ## Afdeling II Subsidiëringsprocedure voor de gemeenten
 
 ### ART. 4.
 
-§ 1. Voor 31 december van het planningsjaar legt het college het ontwerp van sportbeleidsplan samen met het advies van de gemeentelijke sportraad ter goedkeuring aan de gemeenteraad voor.<br /><br />§ 2. Het college stuurt het door de gemeenteraad goedgekeurde sportbeleidsplan uiterlijk tien dagen na de goedkeuring ervan naar het Bloso, bezorgt een kopie ervan aan de gemeentelijke sportraad en maakt het bekend aan de inwoners van de gemeente.<br /><br />§ 3. De minister aanvaardt of weigert het gemeentelijk sportbeleidsplan voor subsidiëring en deelt zijn beslissing uiterlijk zestig dagen nadat het Bloso het sportbeleidsplan ontvangen heeft, aan het college en aan de gemeentelijke sportraad mee. De klachtenprocedure, vermeld in artikel 12, schort die termijn op. Als binnen die termijn geen beslissing aan het college is verstuurd, wordt ervan uitgegaan dat de minister het gemeentelijk sportbeleidsplan voor subsidiëring aanvaardt.<br /><br />§ 4. Ter uitvoering van artikel 13, § 4, van het decreet kan een gemeentebestuur dat in het eerste jaar van de gemeentelijke bestuursperiode geen sportbeleidsplan heeft ingediend, alsnog een sportbeleidsplan indienen in het tweede jaar van de gemeentelijke bestuursperiode volgens de procedure, vermeld in § 1 tot en met § 3.<br /><br />De aanvraag voor een uitzonderingsmaatregel moet voor 1 februari van het tweede jaar van de gemeentelijke bestuursperiode bij het Bloso ingediend worden en er moet een positief advies van de gemeentelijke sportraad bij gevoegd zijn. De minister beslist over die aanvraag tot uitstel en deelt zijn beslissing mee aan het college en aan de gemeentelijke sportraad uiterlijk zestig dagen nadat het Bloso de aanvraag van de gemeente heeft ontvangen. <br /><br />§ 5. Als een gemeentebestuur geen sportbeleidsplan of geen geldige aanvraag voor een uitzonderingsmaatregel heeft ingediend, dan meldt de minister dat aan het gemeentebestuur en aan de sportraad zodat alsnog een verenigingssportbeleidsplan kan worden ingediend overeenkomstig artikel 8 en 9.<br /><br />§ 6. Als het gemeentebestuur tijdens de periode van uitvoering van het gemeentelijk sportbeleidsplan een deel of het geheel van strategische doelstellingen wil wijzigen die in het sportbeleidsplan werden opgenomen, dan zijn de voorwaarden, vermeld in artikel 3, en de procedure, vermeld in § 1 tot en met § 3, van toepassing.<br /><br />
+...
 
 ### ART. 5.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan het gemeentebestuur het subsidiebedrag mee waarop de gemeente recht heeft op basis van artikelen 3 en 5 van het decreet.<br /><br />
+...
 
 ## Afdeling III Het jaarlijkse verslag van de gemeenten
 
 ### ART. 6.
 
-Het jaarlijkse verslag, vermeld in artikel 18, § 1, 3° van het decreet, wordt telkens voor advies voorgelegd aan de gemeentelijke sportraad. De sportraad krijgt ten minste dertig dagen tijd om zijn advies te formuleren.<br /><br />Het jaarlijkse verslag moet door het college worden goedgekeurd. Als het gemeentelijk sportbeleidsplan wordt gewijzigd zoals vermeld in artikel 4, § 6, dan moet het jaarlijkse verslag ter goedkeuring worden voorgelegd aan de gemeenteraad.<br /><br />Het jaarlijkse verslag moet samen met het advies van de gemeentelijke sportraad en, bij afwijking van het advies, samen met het gemotiveerde antwoord van het college, jaarlijks voor 1 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, aan het Bloso en aan de gemeentelijke sportraad worden bezorgd. Het Bloso zal formulieren ter beschikking stellen voor het jaarlijkse verslag dat het bestuur moet indienen overeenkomstig artikel 18, § 1, 3°, b), van het decreet.<br /><br />
+...
 
 ## Afdeling IV Uitbetaling en regularisatie of terugvordering van subsidies aan de gemeenten
 
 ### ART. 7.
 
-Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard, wordt jaarlijks tijdens het tweede trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de sportbeleidsplanperiode.<br /><br />Het voorschot bedraagt 90 % van het bedrag waarop het gemeentebestuur recht heeft overeenkomstig artikel 5.<br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar dat volgt op het begrotingsjaar.<br /><br />Als blijkt dat het sportbeleidsplan, vermeld in artikel 3 van dit besluit, en in artikel 2, 6°, en in artikel 13 en 15 van het decreet, niet werd uitgevoerd en daar geen afdoende motivatie voor bestaat, of als niet voldaan werd aan de bestedingspercentages, vermeld in artikel 5 van het decreet, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportgekwalificeerde ambtenaar, vermeld in artikel 2, 8°, en in artikel 31 van het decreet of in artikel 47, 48 en 49 van dit besluit, dan wordt geen subsidie toegekend en wordt het uitbetaalde voorschot geregulariseerd of teruggevorderd. <br /><br />Voor gemeenten die moeten beschikken over minstens één of twee voltijdse sportgekwalificeerde ambtenaren kan het saldo ook beperkt worden en kan het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd worden.<br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportraad, vermeld in artikel 28, 29 en 30 van het decreet, dan wordt geen subsidie toegekend en wordt het uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Op de bepalingen van het derde tot het vijfde lid zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ## Afdeling V Het verenigingssportbeleidsplan
 
 ### ART. 8.
 
-§ 1. Alle bepalingen van artikel 3 en artikel 4, § 6, over het gemeentelijk sportbeleidsplan zijn, onder voorbehoud van afwijkingen vermeld in artikel 14, § 2, van het decreet, van overeenkomstige toepassing op het verenigingssportbeleidsplan.<br /><br />§ 2. Als het verenigingssportbeleidsplan niet door de sportraad wordt ingediend, moet het ingediend worden door een representatieve vertegenwoordiging van de sportverenigingen in de gemeente en van alle vormen van sportbeoefening aanwezig in de gemeente. Bij twijfel over de representativiteit van de indieners zal de minister hierover een beslissing nemen.<br /><br />
+...
 
 ### ART. 9.
 
-Het verenigingssportbeleidsplan wordt ingediend bij het Bloso voor 1 juni van het tweede jaar van de bestuursperiode en loopt tot en met het eerste jaar van de daaropvolgende bestuursperiode. Het subsidiereglement en een voorstel voor de verdeling van de subsidies over de verschillende sportverenigingen van de gemeente voor het lopende jaar van de sportbeleidsplanperiode moeten erbij gevoegd zijn. <br /><br />Als een gemeentebestuur overeenkomstig artikel 4, § 4, een uitzonderingsmaatregel heeft aangevraagd voor de indiening van het gemeentelijk sportbeleidsplan en als het gemeentebestuur uiteindelijk geen sportbeleidsplan heeft ingediend overeenkomstig de voorwaarden van het decreet en van dit besluit, dan kan alsnog een verenigingssportbeleidsplan worden ingediend bij het Bloso voor 1 juni van het derde jaar van de bestuursperiode.<br /><br />De minister aanvaardt of weigert het verenigingssportbeleidsplan voor subsidiëring en deelt zijn beslissing uiterlijk zestig dagen nadat het Bloso het verenigingssportbeleidsplan heeft ontvangen, mee aan de indiener. De klachtenprocedure, vermeld in artikel 13, schort de termijn van zestig dagen voor de beslissing van de minister op. Als binnen die termijn geen beslissing aan de indiener is verstuurd, wordt ervan uitgegaan dat de minister het verenigingssportbeleidsplan voor subsidiëring aanvaardt.<br /><br />
+...
 
 ### ART. 10.
 
-De minister deelt jaarlijks, uiterlijk tijdens het derde trimester, aan de indiener van het verenigingssportbeleidsplan en aan het gemeentebestuur het subsidiebedrag mee waarop de indiener recht heeft op basis van artikel 3, 5 en 7 van het decreet.<br /><br />Als de minister het verenigingssportbeleidsplan heeft aanvaard voor subsidiëring, dan wordt jaarlijks, uiterlijk in het derde trimester, een voorschot toegekend van 90% van de subsidie, als vermeld in artikel 3, 5 en 7 van het decreet. <br /><br />
+...
 
 ### ART. 11.
 
-§ 1. De verdeling van de subsidies over de verschillende sportverenigingen van de gemeente voor het lopende jaar moet jaarlijks, samen met het subsidiereglement en het jaarlijkse verslag over het vorige jaar, worden bezorgd aan het Bloso.<br /><br />§ 2. Het jaarlijkse verslag over de uitvoering van het verenigingssportbeleidsplan in het voorgaande jaar bestaat uit :<br />1° voor de hoofdstukken van het verenigingssportbeleidsplan, vermeld in artikel 15, 1° tot en met 3°, van het decreet, een artikelsgewijze opgave van de gerealiseerde uitgaven, gebaseerd op de goedgekeurde rekening;<br />2° een verklaring van de indiener waarin staat dat het verenigingssportbeleidsplan in het desbetreffende jaar uitgevoerd werd zoals gepland. Hierbij hoort een argumentatie bij onderdelen van het plan die anders of niet werden uitgevoerd.<br /><br />§ 3. De bepalingen van artikel 6, derde lid, over het jaarlijkse verslag van de gemeenten, en van artikel 7, tweede en derde lid, over de uitbetaling en regularisatie of terugvordering van subsidies zijn onder voorbehoud van afwijkingen vermeld in artikel 14, § 2, van het decreet, van overeenkomstige toepassing op het verenigingssportbeleidsplan.<br /><br />
+...
 
 ## Afdeling VI Klachtenprocedure
 
@@ -68,19 +68,19 @@ De minister deelt jaarlijks, uiterlijk tijdens het derde trimester, aan de indie
 
 ### ART. 12.
 
-§ 1. Ter uitvoering van artikel 27 van het decreet kunnen de gemeentelijke sportraad, één of meer plaatselijke sportverenigingen of elke andere betrokkene bij het sportbeleidsplan een gemotiveerd bezwaarschrift indienen over : <br />1° de goedkeuring van het gemeentelijk sportbeleidsplan door de gemeenteraad;<br />2° de goedkeuring van het jaarlijkse verslag door het college of in voorkomend geval de gemeenteraad;<br />3° het niet-uitvoeren van het gemeentelijk sportbeleidsplan conform de vermelde doelstellingen.<br /><br />§ 2. Een bezwaarschrift moet worden ingediend bij het Bloso en er moet een advies van de gemeentelijke sportraad bij gevoegd zijn, overeenkomstig artikel 27 van het decreet. Het Bloso bezorgt binnen zeven werkdagen een ontvangstmelding aan de indiener, aan het betrokken college en aan de gemeentelijke sportraad van de betrokken gemeente.<br /><br />§ 3. Het bezwaarschrift tegen de goedkeuring van het gemeentelijk sportbeleidsplan moet worden verstuurd aan het Bloso binnen een termijn van dertig dagen nadat de gemeenteraad het sportbeleidsplan goedgekeurd heeft. <br /><br />Het bezwaarschrift tegen de goedkeuring van het jaarlijkse verslag door het college kan worden ingediend tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft.<br /><br />Het bezwaarschrift tegen het niet-uitvoeren van het gemeentelijk sportbeleidsplan conform de vermelde doelstellingen kan worden ingediend bij het Bloso tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het sportbeleidsplan betrekking heeft.<br /><br />§ 4. Aan het college wordt het standpunt gevraagd over het ingediende bezwaarschrift. De minister spreekt zich uit over het bezwaarschrift en het al dan niet toekennen of terugvorderen van subsidies binnen een termijn van zestig dagen nadat het Bloso het bezwaarschrift heeft ontvangen. De minister brengt zijn beslissing uiterlijk de laatste dag van die termijn ter kennis van het college, van de gemeentelijke sportraad en van de eventuele indiener van het bezwaarschrift.<br /><br />
+...
 
 ## Onderafdeling II Klachtenprocedure tegen het verenigingssportbeleidsplan
 
 ### ART. 13.
 
-§ 1. Ter uitvoering van artikel 27 van het decreet kunnen een of meer plaatselijke sportverenigingen of elke andere betrokkene bij het verenigingssportbeleidsplan een gemotiveerd bezwaarschrift indienen over :<br />1° de indiening van een verenigingssportbeleidsplan;<br />2° de indiening van het jaarlijkse verslag;<br />3° het niet-uitvoeren van het verenigingssportbeleidsplan conform de vermelde doelstellingen.<br /><br />§ 2. Het bezwaarschrift moet worden ingediend bij het Bloso. Het Bloso bezorgt binnen zeven werkdagen zowel aan de indiener als aan het betrokken provinciebestuur een ontvangstmelding.<br /><br />Het bezwaarschrift tegen de indiening van het verenigingssportbeleidsplan kan worden ingediend tot 30 juni van het jaar waarin het verenigingssportbeleidsplan wordt ingediend.<br /><br />Het bezwaarschrift tegen de indiening van het jaarlijkse verslag kan worden ingediend tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft.<br /><br />Het bezwaarschrift tegen het niet-uitvoeren van het verenigingssportbeleidsplan conform de vermelde doelstellingen kan worden ingediend bij het Bloso tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het verenigingssportbeleidsplan betrekking heeft.<br /><br />§ 3. Aan de indiener van het verenigingssportbeleidsplan wordt het standpunt gevraagd over het ingediende bezwaarschrift. De minister spreekt zich uit over het bezwaarschrift en het al dan niet toekennen of terugvorderen van subsidies binnen een termijn van zestig dagen nadat het Bloso het bezwaarschrift ontvangen heeft. De minister brengt zijn beslissing uiterlijk de laatste dag van die termijn ter kennis van de indiener van het verenigingssportbeleidsplan en van de indiener van het bezwaarschrift.<br /><br />
+...
 
 ## Afdeling VII Evaluatie van het gemeentelijk sportbeleidsplan en het verenigingssportbeleidsplan
 
 ### ART. 14.
 
-§ 1. De tussentijdse evaluatie van het gemeentelijk sportbeleidsplan of van het verenigingssportbeleidsplan, vermeld in artikel 17 van het decreet, vindt plaats in het derde jaar van de sportbeleidsplanperiode en wordt ingediend vóór 1 september van het daaropvolgende jaar, samen met het jaarlijkse verslag. <br /><br />De tussentijdse evaluatie van het gemeentelijk sportbeleidsplan vindt plaats in overleg met de sportraad en moet goedgekeurd worden door de gemeenteraad.<br /><br />§ 2. De eindevaluatie van het gemeentelijk sportbeleidsplan en van het verenigingssportbeleidsplan, vermeld in artikel 17 van het decreet, vindt plaats in het laatste jaar van de sportbeleidsplanperiode.<br /><br />De eindevaluatie vormt een afzonderlijk deel van de gegevensverzameling van het nieuwe gemeentelijk sportbeleidsplan, vermeld in artikel 3, § 2, 1°, b), of van het nieuwe verenigingssportbeleidsplan, vermeld in artikel 8, § 1.<br /><br />Als er geen nieuw gemeentelijk sportbeleidsplan of verenigingssportbeleidsplan wordt ingediend, dan wordt de eindevaluatie ingediend samen met het jaarlijkse verslag.<br /><br />De eindevaluatie van het gemeentelijk sportbeleidsplan vindt plaats in overleg met de sportraad.<br /><br />Als door het gemeentebestuur geen nieuw sportbeleidsplan wordt ingediend, moet die eindevaluatie worden goedgekeurd door de gemeenteraad.<br /><br />
+...
 
 ## HOOFDSTUK III De provincies
 
@@ -88,41 +88,41 @@ De minister deelt jaarlijks, uiterlijk tijdens het derde trimester, aan de indie
 
 ### ART. 15.
 
-§ 1. Het provinciaal sportbeleidsplan is, overeenkomstig artikel 2, 6° en artikel 23, tweede lid, van het decreet een meerjarenbeleidsdocument met betrekking tot het sportbeleid, dat goedgekeurd is door de provincieraad en dat tot stand komt, wordt uitgevoerd en geëvalueerd op basis van een interactieve bestuursstijl. Het bevat alle doelstellingen, inspanningen, voorzieningen en instrumenten voor het voeren van een sportbeleid en informatie over de wijze waarop de sportraad wordt begeleid en betrokken. Het beschrijft tevens op welke wijze aandacht wordt besteed aan de kwaliteit van de sportbeoefening.<br /><br />§ 2. Het provinciaal sportbeleidsplan bevat, in aanvulling van artikelen 23 en 24 van het decreet, de volgende elementen :<br />1° generieke elementen :<br />a) de missie van het sportbeleid; <br />b) 1) een inventarisatie en beschrijving van de huidige structuren van de provincie met betrekking tot sport en de onderlinge samenhang ervan, en een inventarisatie van de externe sportactoren die een rol spelen in het provinciale sportbeleid; <br />2) de voor het provinciale sportbeleid verzamelde relevante noden en behoeften die onder andere blijken uit de bevraging van de belanghebbenden, uit een evaluatie van het huidige sportbeleid en uit de brede maatschappelijke context.<br />2° elementen die in elk van de hoofdstukken, vermeld in artikel 24 van het decreet, afzonderlijk aan bod moeten komen :<br />a) de analyse en duiding van de gegevens, vermeld in b), 1) en 2), met het oog op de te formuleren doelstellingen; <br />b) de strategische doelstellingen en de bijhorende operationele doelstellingen, met per doelstelling de vermelding van het beoogde resultaat en de eventuele indicatoren;<br />c) de aanpak om de operationele doelstellingen te realiseren met vermelding van de maatregelen, de timing en de financiële prognose.<br /><br />§ 3. De subsidiereglementen worden ter informatie bij het sportbeleidsplan gevoegd. Als die subsidiereglementen wijzigen, moeten ze bij het jaarlijkse verslag worden gevoegd. Er moet in een vlotte en regelmatige uitbetaling van de subsidies voorzien worden.<br /><br />§ 4. Bij de subsidiereglementen en ondersteuningssystemen, vermeld in hoofdstuk één en de initiatieven, vermeld in hoofdstuk twee, drie en vier van het sportbeleidsplan wordt het Nederlandstalig karakter als expliciete voorwaarde en opschortend criterium gesteld <br /><br />§ 5. De minister kan de vorm bepalen waarin het sportbeleidsplan moet worden ingediend.<br /><br />
+...
 
 ## Afdeling II Subsidiëringsprocedure voor de provincies
 
 ### ART. 16.
 
-Voor 31 december van het planningsjaar legt de deputatie het ontwerp van sportbeleidsplan samen met het advies van de provinciale sportraad ter goedkeuring aan de provincieraad voor.<br /><br />De deputatie stuurt het door de provincieraad goedgekeurde sportbeleidsplan uiterlijk tien dagen na de goedkeuring ervan naar het Bloso, bezorgt een kopie ervan aan de provinciale sportraad en maakt het bekend aan de bevolking.<br /><br />De minister aanvaardt of weigert het provinciaal sportbeleidsplan voor subsidiëring en deelt zijn beslissing uiterlijk zestig dagen nadat het Bloso het sportbeleidsplan heeft ontvangen, aan de deputatie en aan de provinciale sportraad mee. De klachtenprocedure, vermeld in artikel 20, schort die termijn op. Als binnen die termijn geen beslissing aan de deputatie is verstuurd, wordt ervan uitgegaan dat de minister het provinciaal sportbeleidsplan voor subsidiëring aanvaardt.<br /><br />Als het provinciebestuur tijdens de periode van uitvoering van het provinciaal sportbeleidsplan een deel of het geheel van strategische doelstellingen wil wijzigen die in het sportbeleidsplan werden opgenomen, dan zijn de voorwaarden, vermeld in artikel 15, en de procedure, vermeld in het eerste lid tot en met het derde lid, van toepassing.<br /><br />
+...
 
 ### ART. 17.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan het provinciebestuur het subsidiebedrag mee waarop de provincie recht heeft op basis van artikel 3 en 12 van het decreet.<br /><br />
+...
 
 ## Afdeling III Het jaarlijkse verslag van de provincies
 
 ### ART. 18.
 
-Het jaarlijkse verslag, vermeld in artikel 26, § 1, 3°, van het decreet wordt telkens voor advies voorgelegd aan de provinciale sportraad. De sportraad krijgt ten minste dertig dagen tijd om zijn advies te formuleren.<br /><br />Het jaarlijkse verslag moet door de deputatie worden goedgekeurd. Als het provinciaal sportbeleidsplan wordt gewijzigd zoals vermeld in artikel 16, vierde lid, dan moet het jaarlijkse verslag ter goedkeuring worden voorgelegd aan de provincieraad.<br /><br />Het jaarlijkse verslag moet samen met het advies van de provinciale sportraad en, bij afwijking van het advies, samen met het gemotiveerde antwoord van de deputatie, jaarlijks vóór 1 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, aan het Bloso en aan de provinciale sportraad worden bezorgd. Het Bloso zal formulieren ter beschikking stellen voor het jaarlijkse verslag dat het bestuur moet indienen overeenkomstig artikel 26, § 1, 3°, b), van het decreet. <br /><br />
+...
 
 ## Afdeling IV Uitbetaling en regularisatie of terugvordering van subsidies aan de provincies
 
 ### ART. 19.
 
-Als de minister het provinciaal sportbeleidsplan voor subsidiëring heeft aanvaard, wordt jaarlijks tijdens het tweede trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de provinciale sportbeleidsplanperiode.<br /><br />Het voorschot bedraagt 90 % van het bedrag waarop het provinciebestuur recht heeft overeenkomstig artikel 17.<br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar dat volgt op het begrotingsjaar.<br /><br />Als blijkt dat het provinciaal sportbeleidsplan, vermeld in artikel 15 van dit besluit, en in artikel 2, 6°, en in artikelen 23 en 24 van het decreet, niet werd uitgevoerd en daar geen afdoende motivatie voor bestaat, of als niet voldaan werd aan de bestedingspercentages, vermeld in artikel 12 van het decreet, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd. <br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportgekwalificeerde ambtenaar, vermeld in artikel 47, 48 en 49 van dit besluit, of in artikel 2, 8°, en in artikel 31 van het decreet, dan wordt geen subsidie toegekend of wordt het saldo beperkt en wordt het eventueel te veel uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Als blijkt dat niet voldaan werd aan de voorwaarde van de sportraad, vermeld in artikelen 28, 29 en 30 van het decreet, dan wordt geen subsidie toegekend en wordt het uitbetaalde voorschot geregulariseerd of teruggevorderd.<br /><br />Op de bepalingen van het derde tot het vijfde lid zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ## Afdeling V Klachtenprocedure voor de provincies
 
 ### ART. 20.
 
-§ 1. Ter uitvoering van artikel 27 van het decreet kunnen de provinciale sportraad, een of meer bovenlokale sportverenigingen of elke andere betrokkene bij het provinciaal sportbeleidsplan een gemotiveerd bezwaarschrift indienen over : <br />1° de goedkeuring van het provinciaal sportbeleidsplan door de provincieraad;<br />2° de goedkeuring van het jaarlijkse verslag door de deputatie of in voorkomend geval de provincieraad; <br />3° het niet-uitvoeren van het provinciaal sportbeleidsplan conform de vermelde doelstellingen.<br /><br />§ 2. Het bezwaarschrift moet worden ingediend bij het Bloso en er moet een advies van de provinciale sportraad bij gevoegd zijn, overeenkomstig artikel 27 van het decreet.<br /><br />Het Bloso bezorgt binnen zeven werkdagen een ontvangstmelding aan de indiener, aan de betrokken deputatie en aan de provinciale sportraad van de betrokken provincie.<br /><br />§ 3. Het bezwaarschrift tegen de goedkeuring van het provinciaal sportbeleidsplan moet worden verstuurd aan het Bloso binnen een termijn van dertig dagen nadat de provincieraad het sportbeleidsplan heeft goedgekeurd.<br /><br />Het bezwaarschrift tegen de goedkeuring van het jaarlijkse verslag door de deputatie kan worden ingediend tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het verslag betrekking heeft.<br /><br />Het bezwaarschrift tegen het niet-uitvoeren van het provinciaal sportbeleidsplan conform de vermelde doelstellingen kan worden ingediend bij het Bloso tot uiterlijk 30 september van het jaar dat volgt op het jaar waarop het sportbeleidsplan betrekking heeft.<br /><br />§ 4. Aan de deputatie wordt het standpunt gevraagd over het ingediende bezwaarschrift. De minister spreekt zich uit over het bezwaarschrift en het al dan niet toekennen of terugvorderen van subsidies binnen een termijn van zestig dagen nadat het Bloso het bezwaarschrift heeft ontvangen. De minister brengt zijn beslissing uiterlijk de laatste dag van die termijn ter kennis van de deputatie, van de provinciale sportraad en van de eventuele indiener van het bezwaarschrift.<br /><br />
+...
 
 ## Afdeling VI Evaluatie van het provinciaal sportbeleidsplan
 
 ### ART. 21.
 
-§ 1. De tussentijdse evaluatie van het provinciaal sportbeleidsplan, vermeld in artikel 25 van het decreet, vindt in overleg met de provinciale sportraad plaats in het derde jaar van de sportbeleidsplanperiode en wordt ingediend voor 1 september van het daaropvolgende jaar, samen met het jaarlijkse verslag. <br /><br />De tussentijdse evaluatie moet goedgekeurd worden door de provincieraad.<br /><br />§ 2. De eindevaluatie van het provinciaal sportbeleidsplan, vermeld in artikel 25 van het decreet, vindt in overleg met de provinciale sportraad plaats in het laatste jaar van de sportbeleidsplanperiode.<br /><br />De eindevaluatie vormt een afzonderlijk deel van de gegevensverzameling van het nieuwe sportbeleidsplan, vermeld in artikel 15, § 2, 1°, b).<br /><br />Als er geen nieuw sportbeleidsplan wordt ingediend, dan wordt de eindevaluatie ingediend samen met het jaarlijkse verslag.<br /><br />Die eindevaluatie moet worden goedgekeurd door de provincieraad.<br /><br />
+...
 
 ## HOOFDSTUK IV De gemeenten van het tweetalige gebied Brussel-Hoofdstad en de Vlaamse Gemeenschapscommissie
 
@@ -132,55 +132,55 @@ Als de minister het provinciaal sportbeleidsplan voor subsidiëring heeft aanvaa
 
 ### ART. 22.
 
-Ter uitvoering van artikel 19 van het decreet is artikel 3, § 1 en 2 van dit besluit ook van toepassing op het sportbeleidsplan van de gemeenten van het tweetalige gebied Brussel-Hoofdstad. <br /><br />In het sportbeleidsplan van de gemeenten van het tweetalige gebied Brussel-Hoofdstad dient daarnaast ook aangetoond te worden op welke manier een optimale afstemming wordt gerealiseerd op het sportbeleidsplan van de Vlaamse Gemeenschapscommissie. <br /><br />In gemeenten uit het tweetalige gebied Brussel-Hoofdstad wordt bij de subsidiereglementen en de ondersteuningssystemen, vermeld in hoofdstuk 1 en de initiatieven, vermeld in hoofdstuk 2 en 3 van het sportbeleidsplan, het Nederlandstalige karakter als expliciete voorwaarde en opschortend criterium gesteld. De subsidiereglementen maken integraal deel uit van het sportbeleidsplan. Als die subsidiereglementen wijzigen, moeten ze bij het jaarlijkse verslag worden gevoegd. Er moet in een vlotte en regelmatige uitbetaling van de subsidies voorzien worden.<br /><br />Folders en ander promotiemateriaal geven duidelijk blijk van de steun van de Vlaamse Gemeenschap.<br /><br />De minister kan de vorm van het sportbeleidsplan van de gemeenten van het tweetalige gebied Brussel-Hoofdstad en de criteria inzake de voorwaarden zoals vastgelegd in het tweede, derde en vierde lid, nader bepalen. <br /><br />
+...
 
 ## Onderafdeling II Subsidiëringsprocedure voor de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 23.
 
-Artikel 4, § 1 tot en met § 3, en § 6, is ook van toepassing op de gemeenten van het tweetalige gebied Brussel-Hoofdstad, met dien verstande dat het college het ontwerp van sportbeleidsplan met het advies van de gemeentelijke sportraad en met het advies van de VGC voor 31 december van het planningsjaar ter goedkeuring voorlegt aan de gemeenteraad.<br /><br />
+...
 
 ### ART. 24.
 
-Ter uitvoering van artikel 9, § 1, van het decreet worden de subsidies als volgt verdeeld :<br />1° 25 % van 400.000 euro op basis van het aantal inwoners van elke gemeente tijdens het voorgaande jaar; rekening houdend met de 30% norm die gehanteerd wordt om het aantal Nederlandstalige inwoners te bepalen<br />2° 75 % van 400.000 euro, waarvan enerzijds 40 % op basis van het aantal Nederlandstalige sportverenigingen tijdens het voorgaande jaar met zetel en werking in elke gemeente en erkend door de VGC, en anderzijds 60 % op basis van het aantal leden dat bij die verenigingen is aangesloten tijdens het voorgaande jaar.<br /><br />
+...
 
 ### ART. 25.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan het gemeentebestuur het subsidiebedrag mee waarop de gemeente recht heeft op basis van artikel 3 en 9 van het decreet.<br /><br />
+...
 
 ## Onderafdeling III Het jaarlijkse verslag van de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 26.
 
-Ter uitvoering van artikel 19 van het decreet is artikel 6 van dit besluit ook van toepassing op de gemeenten van het tweetalige gebied Brussel-Hoofdstad, met dien verstande dat waar verwezen wordt naar de gemeentelijke sportraad dat gelezen moet worden als gemeentelijke sportraad en VGC.<br /><br />
+...
 
 ## Onderafdeling IV Uitbetaling en regularisatie of terugvordering van subsidies aan de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 27.
 
-Artikel 7 is ook van toepassing op de gemeenten van het tweetalige gebied Brussel-Hoofdstad, met dien verstande dat de subsidies, vermeld in artikel 7, eerste lid, de subsidie is bepaald krachtens artikel 24 van dit besluit, en artikelen 3 en 9 van het decreet, dat het sportbeleidsplan, vermeld in artikel 7, derde lid, het sportbeleidsplan is krachtens artikel 2, 6°, artikel 13, § 1 en § 2, en artikel 15 van het decreet, dat de bestedingspercentages, vermeld in artikel 7, derde lid, de bestedingspercentages zijn krachtens artikel 9 van het decreet, en dat de sportraad, vermeld in artikel 7, vijfde lid, de sportraad is krachtens artikel 31 van dit besluit, en artikel 28, 29 en 30 van het decreet.<br /><br />
+...
 
 ## Onderafdeling V Klachtenprocedure voor de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 28.
 
-Artikel 12 is ook van toepassing op de gemeenten van het tweetalige gebied Brussel-Hoofdstad met dien verstande dat een afschrift van het bezwaarschrift en een afschrift van de beslissing van de minister aan de VGC worden bezorgd.<br /><br />
+...
 
 ## Onderafdeling VI Evaluatie van het sportbeleidsplan van de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 29.
 
-Ter uitvoering van artikel 19 van het decreet is artikel 14 van dit besluit ook van toepassing op het sportbeleidsplan van de gemeenten van het tweetalige gebied Brussel-Hoofdstad, met dien verstande dat het verenigingssportbeleidsplan niet van toepassing is voor gemeenten van het tweetalige gebied Brussel-Hoofdstad.<br /><br />
+...
 
 ### ART. 30.
 
-Bij de tussentijdse evaluatie en de eindevaluatie moet tevens een advies van de VGC gevoegd zijn.<br /><br />
+...
 
 ## Onderafdeling VII De sportraad van de gemeenten van het tweetalige gebied Brussel-Hoofdstad
 
 ### ART. 31.
 
-Ter uitvoering van artikel 28 en 30 van het decreet moet de sportraad in een gemeente van het tweetalige gebied Brussel-Hoofdstad een afzonderlijke Nederlandstalige sportraad zijn die autonoom advies verleent. Die samenstelling en werking moeten in de statuten en het huishoudelijk reglement opgenomen zijn.<br /><br />
+...
 
 ## Afdeling II De Vlaamse Gemeenschapscommissie
 
@@ -226,7 +226,7 @@ Als de minister het sportbeleidsplan van de VGC voor subsidiëring heeft aanvaar
 
 ### ART. 39.
 
-§ 1. De tussentijdse evaluatie van het sportbeleidsplan van de VGC,   vermeld in artikel 21 en 25 van het decreet, vindt in overleg met de sportraad   van de VGC plaats in het derde jaar van de sportbeleidsplanperiode en wordt   ingediend voor 1 september van het daaropvolgende jaar samen met het jaarlijkse   verslag. <BR><BR>De tussentijdse evaluatie moet goedgekeurd worden door de   Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement.<BR><BR>§   2. De eindevaluatie van het sportbeleidsplan van de VGC, vermeld in artikelen 21   en 25 van het decreet, vindt in overleg met de sportraad van de VGC plaats in   het laatste jaar van de sportbeleidsplanperiode.<BR><BR>De eindevaluatie vormt   een afzonderlijk deel van de gegevensverzameling van het nieuwe   sportbeleidsplan, vermeld in artikel 32, § 2, 1°, b).<BR><BR>Als er geen nieuw   sportbeleidsplan wordt ingediend, dan wordt de eindevaluatie ingediend samen met   het jaarlijkse verslag.<BR><BR>Die eindevaluatie moet goedgekeurd worden door de   Nederlandstalige taalgroep van het Brussels Hoofdstedelijk   Parlement.<BR><BR>
+<P>§ 1. De tussentijdse evaluatie van het sportbeleidsplan van de VGC, vermeld   in artikel 21 en 25 van het decreet, vindt in overleg met de sportraad van de   VGC plaats in het derde jaar van de sportbeleidsplanperiode en wordt ingediend   voor 1 september van het daaropvolgende jaar samen met het jaarlijkse verslag.   <BR><BR>De tussentijdse evaluatie moet goedgekeurd worden door de   Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement.<BR><BR>...   </P>
 
 ## Afdeling III Het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
@@ -268,60 +268,60 @@ De bepalingen van artikel 38 zijn van overeenkomstige toepassing op het aanvulle
 
 ### ART. 46.
 
-De bepalingen van artikel 39 zijn van overeenkomstige toepassing op het aanvullend sportbeleidsplan van de VGC, met dien verstande dat de gegevensverzameling, vermeld in artikel 39, § 2, bepaald is krachtens artikel 40, derde lid.<br /><br />
+...
 
 ## HOOFDSTUK V De sportgekwalificeerde ambtenaar
 
 ### ART. 47.
 
-§ 1. De sportgekwalificeerde ambtenaar, vermeld in artikel 2, 8°, en in artikel 31 van het decreet moet beschikken over één van de volgende kwalificaties :<br />1° de gespecialiseerde universitaire opleidingen in sportmanagement, geassimileerd aan de opleiding sportfunctionaris van de VTS, namelijk :<br />a) het licentiaatsdiploma van de interuniversitaire specialisatieopleiding in de sport- en bewegingswetenschappen, richting sport- en recreatiemanagement (gediplomeerde in de gespecialiseerde studies - GGS 1995-1999);<br />b) de diploma's van licentiaat in de lichamelijke opvoeding met postgraduaat in sportmanagement behaald voor 31 december 1994, namelijk :<br />1) licentiaat in de sportagogiek, richting management van de Universiteit Gent;<br />2) adviseur in sport- en recreatiemanagement van de Katholieke Universiteit Leuven;<br />3) licentiaat in de vrijetijdsagogiek, richting recreatie, sport en toerisme van de Vrije Universiteit Brussel;<br /><br />2° de gespecialiseerde universitaire opleidingen, namelijk :<br />a) master in de lichamelijke opvoeding en de bewegingswetenschappen -afstudeerrichting sportmanagement; <br />b) Master of Sportmanagement of Advanced Studies in European Master in Sports Management (MAnaMA);<br />c) de diploma's van licentiaat in de lichamelijke opvoeding en de bewegingswetenschappen, afstudeerrichting sportmanagement.<br /><br />De sportgekwalificeerde ambtenaar die beschikt over een van die diploma's, moet via de VTS een inschalingsprocedure doorlopen teneinde het diploma sportfunctionaris van de VTS te behalen;<br /><br />3° de opleidingen in de lichamelijke opvoeding en de bewegingswetenschappen namelijk :<br />a) master in de lichamelijke opvoeding en de bewegingswetenschappen; <br />b) bachelor (academisch) in de lichamelijke opvoeding en de bewegingswetenschappen;<br />c) bachelor (professioneel) in het onderwijs : secundair onderwijs - lichamelijke opvoeding;<br />d) licentiaat in de lichamelijke opvoeding;<br />e) geaggregeerde voor het lager secundair onderwijs in de lichamelijke opvoeding;<br />f) gegradueerde in de lichamelijke opvoeding;<br /><br />4° een diploma van minstens het niveau bachelor, niet vermeld in 3°, aangevuld met elders verworven competenties binnen het sportbeleid.<br /><br />In voorkomend geval moet het gemeentebestuur, het provinciebestuur of de Vlaamse Gemeenschapscommissie voor de aanstelling van het personeelslid als sportgekwalificeerde ambtenaar, op basis van een inhoudelijk dossier waaruit de elders verworven competenties binnen het sportbeleid blijken, het advies inwinnen van de VTS. De VTS bezorgt binnen de dertig dagen haar advies aan het gemeentebestuur, het provinciebestuur of de Vlaamse Gemeenschapscommissie, aan de sportraad en aan het Bloso. Als binnen die termijn geen advies van de VTS aan de indiener is verstuurd, wordt ervan uitgegaan dat het advies van de VTS positief is.<br /><br />Binnen dertig dagen nadat de sportraad het advies van de VTS heeft ontvangen, bezorgt hij zijn advies aan het gemeentebestuur, het provinciebestuur of de Vlaamse Gemeenschapscommissie en het Bloso. Als binnen die termijn geen advies van de sportraad is verstuurd, wordt ervan uitgegaan dat het advies van de sportraad positief is.<br /><br />Als beide adviezen negatief zijn, dan wordt het dossier door het Bloso voorgelegd aan de minister. De minister spreekt zich uit over het dossier binnen een termijn van dertig dagen nadat het Bloso het dossier heeft ontvangen. De minister brengt zijn beslissing uiterlijk de laatste dag van die termijn ter kennis van respectievelijk het gemeentebestuur, van het provinciebestuur of van de Vlaamse Gemeenschapscommissie, van de sportraad en van de VTS.<br /><br />§ 2. De sportgekwalificeerde ambtenaren die beschikken over de kwalificaties, vermeld in 3° en 4°, moeten aanvullend in het bezit zijn van het diploma of getuigschrift van sportfunctionaris, afgeleverd door de VTS, of moeten dat diploma bij de VTS behalen binnen de drie jaar na de aanstelling als sportgekwalificeerde ambtenaar. <br /><br />§ 3. Als het gemeentebestuur, het provinciebestuur of de Vlaamse Gemeenschapscommissie een personeelslid met een diploma of getuigschrift van een onderwijsinstelling buiten de Vlaamse Gemeenschap wil aanstellen als sportgekwalificeerde ambtenaar, moet het gemeentebestuur, het provinciebestuur of de Vlaamse Gemeenschapscommissie de evenwaardigheid of de gelijkwaardigheid van dat diploma of getuigschrift laten vaststellen door het Agentschap Onderwijsdienstencentrum Hoger Onderwijs en Volwassenenonderwijs.<br /><br />Als het diploma of getuigschrift behaald werd in een andere taal dan het Nederlands, moet het personeelslid voor zijn aanstelling als sportgekwalificeerd ambtenaar een officieel bewijs van taalkennis, uitgereikt door Selor, voorleggen.<br /><br />
+...
 
 ### ART. 48.
 
-§ 1. Bij uitdiensttreding, bij langdurige afwezigheid, bij tijdelijke of definitieve vervanging van een van de sportgekwalificeerde ambtenaren wordt het Bloso onmiddellijk op de hoogte gebracht. <br /><br />§ 2. De gemeente, de provincie of de Vlaamse Gemeenschapscommissie moet bij uitdiensttreding of bij langdurige afwezigheid van de sportgekwalificeerde ambtenaar die functie binnen vier maanden invullen door een personeelslid dat voldoet aan de voorwaarden, vermeld in artikel 2, 8°, en artikel 31 van het decreet en in artikel 47 en 49 van dit besluit. Zo niet wordt overeenkomstig respectievelijk artikel 7, vierde lid, artikel 19, vierde lid, artikel 27 of artikel 37, vierde lid van dit besluit geen subsidie toegekend of wordt het saldo beperkt.<br /><br />Als buiten de wil van de gemeente om de functie van de sportgekwalificeerde ambtenaar niet opnieuw ingevuld kan worden binnen de termijn van vier maanden, wordt dat door de gemeente, de provincie of de Vlaamse Gemeenschapscommissie gemeld aan het Bloso en wordt het dossier door het Bloso voorgelegd aan de minister. De minister spreekt zich uit over een mogelijke verlenging van de vervangingstermijn met maximaal drie maanden binnen de dertig dagen nadat het Bloso het dossier ontvangen heeft.<br /><br />
+...
 
 ### ART. 49.
 
-De sportgekwalificeerde ambtenaar in een gemeente is een personeelslid van de gemeente of van een gemeentelijk intern of extern verzelfstandigd agentschap met betrekking tot sport als vermeld in het Gemeentedecreet, of van een samenwerkingsverband met betrekking tot sport als vermeld in het decreet houdende de intergemeentelijke samenwerking.<br /><br />De sportgekwalificeerde ambtenaar in een provincie is een personeelslid van de provincie of van een provinciaal intern of extern verzelfstandigd agentschap met betrekking tot sport als vermeld in het Provinciedecreet.<br /><br />De sportgekwalificeerde ambtenaar bij de Vlaamse Gemeenschapscommissie is een personeelslid van de Vlaamse Gemeenschapscommissie.<br /><br />
+...
 
 ### ART. 50.
 
-Voor de 19 gemeenten van het tweetalig gebied Brussel Hoofdstad wordt de parameter « inwonersaantal » voor het bepalen van het aantal sportgekwalificeerde ambtenaren, toegepast op 30% van de totale bevolking van die gemeente.<br /><br />
+...
 
 ## HOOFDSTUK VI De begeleiding, opvolging en monitoring
 
 ### ART. 51.
 
-§ 1. Ter uitvoering van artikel 32 van het decreet wordt voor de periode 2008 tot 2012 aan het ISB jaarlijks een subsidie van 175.000 euro toegekend voor de begeleiding van de gemeentebesturen in het kader van het decreet. <br /><br />De inhoudelijke opdracht aan het ISB en de nadere voorwaarden om de subsidie te verkrijgen worden vastgelegd in een beheersovereenkomst voor de periode 2008 tot 2012.<br /><br />§ 2. In het laatste jaar van de gemeentelijke bestuursperiode zal de begeleidingsopdracht geëvalueerd worden en kan een nieuwe beheersovereenkomst opgemaakt worden die aanvangt in het eerste jaar van de daaropvolgende gemeentelijke bestuursperiode. <br /><br />§ 3. De daartoe gemachtigde ambtenaren van het Bloso kunnen ter plaatse controle uitoefenen op de uitvoering van de opdrachten en de aanwending van de subsidie, vermeld in de beheersovereenkomst.<br /><br />Op deze bepaling zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ### ART. 52.
 
-Ter uitvoering van artikel 32 van het decreet wordt jaarlijks een bedrag van 25.000 euro uitgetrokken voor de opvolging en de monitoring van de effecten van het decreet. Daartoe wordt in het planningsjaar een overheidsopdracht uitgeschreven die betrekking heeft op een periode van zes jaar.<br /><br />Uiterlijk op 1 september van elk jaar van de sportbeleidsplanperiode dient de opdrachthouder bij het Bloso een onderzoeksrapport in over de beleidseffecten van het decreet in het voorgaande jaar overeenkomstig de opdrachten, vermeld in de beheersovereenkomst.<br /><br />De daartoe gemachtigde ambtenaren van het Bloso kunnen ter plaatse controle uitoefenen op de uitvoering van de opdrachten en de aanwending van de subsidie, vermeld in de beheersovereenkomst.<br /><br />Op deze bepaling zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ### ART. 53.
 
-De gemeenten, de provincies en de Vlaamse Gemeenschapscommissie verbinden zich ertoe op verzoek van de Vlaamse Regering gegevens ter beschikking te stellen in het kader van de monitoring van het lokale, regionale en provinciale sportbeleid.<br /><br />
+...
 
 ## HOOFDSTUK VII Pool van sportgekwalificeerde lesgevers
 
 ### ART. 54.
 
-§ 1. Ter uitvoering van artikel 33 van het decreet wordt voor de periode 2008 tot 2012 aan Vlabus jaarlijks een subsidie van 25.000 euro toegekend voor de organisatie van de interprovinciale structuur die de coördinatie op zich neemt van een pool van sportgekwalificeerde lesgevers, met als doel een kwalitatieve sporttechnische en organisatorische begeleiding te verzorgen voor het sportveld.<br /><br />De inhoudelijke opdracht aan Vlabus en de nadere voorwaarden om de subsidie te verkrijgen worden vastgelegd in een beheersovereenkomst voor de periode 2008 tot 2012.<br /><br />§ 2.In het laatste jaar van de gemeentelijke bestuursperiode zal de begeleidingsopdracht geëvalueerd worden en kan een nieuwe beheersovereenkomst opgemaakt worden die aanvangt in het eerste jaar van de daaropvolgende gemeentelijke bestuursperiode. <br /><br />§ 3. De daartoe gemachtigde ambtenaren van het Bloso kunnen ter plaatse controle uitoefenen op de uitvoering van de opdrachten en de aanwending van de subsidie, vermeld in de beheersovereenkomst.<br /><br />Op deze bepaling zijn de algemene regels inzake de controle op het verlenen en het gebruik van subsidies onverminderd van toepassing.<br /><br />
+...
 
 ## HOOFDSTUK VIII Overgangs- en slotbepalingen
 
 ### ART. 55.
 
-Ter uitvoering van artikel 35 van het decreet wordt de aanvullende overgangssubsidie enkel toegekend aan de gemeentebesturen die voldoen aan alle van toepassing zijnde voorwaarden, vermeld in het decreet en de bijbehorende uitvoeringsbesluiten.<br /><br />De aanvullende overgangssubsidie wordt in 2009 en 2010 enkel toegekend aan de gemeentebesturen waaraan zowel een beleidssubsidie als een impulssubsidie wordt toegekend.<br /><br />De aanvullende overgangssubsidie moet aangewend worden overeenkomstig de voorwaarden voor de cofinanciering van de beleidssubsidie, vermeld in respectievelijk artikel 5, § 4 van het decreet.<br /><br />De aanvullende overgangssubsidie wordt overeenkomstig de procedure en timing van de beleidssubsidie uitbetaald.<br /><br />Ter uitvoering van artikel 35 van het decreet wordt met het subsidiebedrag 2005 bedoeld de subsidie waarop het gemeentebestuur recht had voor het jaar 2005 met toepassing van de regularisaties over het werkingsjaar 2005 en uiterlijk toegepast in de subsidie 2007.<br /><br />
+...
 
 ### ART. 56.
 
-§ 1. De sportfunctionarissen die in 2007 in aanmerking werden genomen voor de berekening van de subsidie volgens het decreet van 5 april 1995 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de VGC, komen verder in aanmerking als sportgekwalificeerde ambtenaar in het kader van dit decreet.<br /><br />§ 2. De personeelsleden van de gemeenten, de provincies of de Vlaamse Gemeenschapscommissie, die niet beschikken over een van de diploma's bedoeld in artikel 47 van het besluit inzake de beleidssubsidie, maar wel vóór 31 december 2007 het diploma of getuigschrift van sportfunctionaris hebben behaald bij de Vlaamse Trainersschool en die minimum 5 jaar ervaring hebben in een leidinggevende functie in de sportdienst, worden beschouwd als sportgekwalificeerd ambtenaar in het kader van dit decreet.<br /><br />Personeelsleden die beschikken over diploma's, certificaten en titels die niet binnen de Vlaamse Gemeenschap zijn verworven met betrekking tot het diploma of getuigschrift van sportfunctionaris, dienen bij de Vlaamse Trainersschool de gelijkwaardigheid daarvan te laten vaststellen.<br /><br /><br /><br />
+...
 
 ### ART. 57.
 
-Het besluit van de Vlaamse Regering van 19 november 1996 tot uitvoering van het decreet van 5 april 1995 houdende erkenning en subsidiëring van de gemeentelijke sportdiensten, de provinciale sportdiensten en de sportdienst van de VGC wordt opgeheven met ingang van 1 januari 2008, met uitzondering van artikel 4 en artikel 10 tot en met 13, die betrekking hebben op de controle van het werkingsjaar 2007. <br /><br />
+...
 
 ### ART. 58.
 
-De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, is belast met de uitvoering van dit besluit.<br /><br />
+...

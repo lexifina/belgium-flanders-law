@@ -2,16 +2,16 @@
   "codex_id": 1016151,
   "title": "Besluit van de Vlaamse Regering van 2007-07-19 ter uitvoering van het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid. - Algemene bepalingen en bepalingen tot het verkrijgen van de beleidssubsidie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016151/VolledigDocument?datum=2008-12-05",
-  "source_sha256": "048dad83126cc643522beec1967ecbf26e0cff7c3341ad01267c04ff3cd9bf8c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016151/VolledigDocument?datum=2014-01-01",
+  "source_sha256": "d498cb851240d8d0f68258cbe7a775e7e44965da4db8de25baaf96688627268a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016151&param=informatie",
-  "as_of": "2008-12-05",
+  "as_of": "2014-01-01",
   "made": "2007-07-19",
   "gazette": "2007-09-13",
   "numac": 2007036531,
   "document_start": "2007-09-23",
   "document_end": "2013-12-31",
-  "in_force": "2008-12-05",
+  "in_force": "2014-01-01",
   "article_versions": 59,
-  "record_form": "consolidated version as in force on 2008-12-05; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
 }
