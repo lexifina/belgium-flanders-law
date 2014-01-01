@@ -12,36 +12,37 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 <p>§ 1. Een kinderdagverblijf ontvangt per subsidiabele plaats een basisbedrag dat geldt bij een gemiddelde leeftijd van het personeel van twintig jaar en een aanvullend bedrag als vermeld in artikel 12, § 1, van het besluit van de Vlaamse Regering.<br>
 <br>
-§ 2. Het basisbedrag per subsidiabele plaats in een kinderdagverblijf, georganiseerd door een openbaar bestuur, bedraagt in 2013 :<br>
-1° in een crèche : 6.484,76 euro;<br>
-2° in een peutertuin : 4.953,59 euro.<br>
+§ 2. Het basisbedrag per subsidiabele plaats in een kinderdagverblijf, georganiseerd door een openbaar bestuur, bedraagt in 2014:<br>
+1° in een crèche: 6545,07 euro;<br>
+2° in een peutertuin: 4999, 66 euro.<br>
 <br>
-Het aanvullende bedrag in een kinderdagverblijf, georganiseerd door een openbaar bestuur, bedraagt in 2013 :<br>
-1° in een crèche : 69,10 euro;<br>
-2° in een peutertuin : 54,77 euro.<br>
+Het aanvullende bedrag in een kinderdagverblijf, georganiseerd door een openbaar bestuur, bedraagt in 2014:<br>
+1° in een crèche: 69,74 euro;<br>
+2° in een peutertuin: 55, 28 euro.<br>
 <br>
-In een kinderdagverblijf, georganiseerd door een openbaar bestuur, gelden voor de plaatsen waarvoor een principieel akkoord is toegekend vanaf 1 mei 2006, de volgende bedragen in 2013 :<br>
-1° in een crèche bedraagt het basisbedrag 7.678,53 euro en het aanvullende bedrag 86,17 euro;<br>
-2° in een peutertuin bedraagt het basisbedrag 5.607,74 euro en het aanvullende bedrag 65,60 euro.<br>
+In een kinderdagverblijf, georganiseerd door een openbaar bestuur, gelden voor de plaatsen waarvoor een principieel akkoord is toegekend vanaf 1 mei 2006, de volgende bedragen in 2014:<br>
+1° in een crèche bedraagt het basisbedrag 7749,94 euro en het aanvullende bedrag 86,97 euro;<br>
+2° in een peutertuin bedraagt het basisbedrag 5659,89 euro en het aanvullende bedrag 66,21 euro.<br>
 <br>
-Het basisbedrag per subsidiabele plaats in een kinderdagverblijf, georganiseerd door een vzw, bedraagt in 2013 :<br>
-1° in een crèche : 7.787,40 euro;<br>
-2° in een peutertuin : 5.678,20 euro.<br>
+Het basisbedrag per subsidiabele plaats in een kinderdagverblijf, georganiseerd door een vzw, bedraagt in 2014:<br>
+1° in een crèche: 7867,38 euro;<br>
+2° in een peutertuin: 5735,71 euro.<br>
 <br>
-Het aanvullende bedrag in een kinderdagverblijf, georganiseerd door een vzw, bedraagt in 2013 :<br>
-1° in een crèche : 88,54 euro;<br>
-2° in een peutertuin : 67,31 euro.</p>
+Het aanvullende bedrag in een kinderdagverblijf, georganiseerd door een vzw, bedraagt in 2014:<br>
+1° in een crèche: 89,32 euro;<br>
+2° in een peutertuin: 67,96 euro.</p>
 
 <p>&nbsp;</p>
 <br>
 § 3. Het basisbedrag per erkende plaats dat geldt bij een bezetting van 75 %, zoals bepaald in artikel 12, § 2, van het besluit van de Vlaamse Regering, bedraagt 1860,27 euro in een crèche en 1072,12 euro in een peutertuin.<br>
 <br>
-§ 4. Kinderdagverblijven ontvangen per jaar een forfaitair bedrag per voltijdse directiefunctie. In 2013 bedraagt dat forfaitaire bedrag voor een kinderdagverblijf, georganiseerd door :<br>
-1° een openbaar bestuur : 70.561,80 euro;<br>
-2° een privaat bestuur : 71.385,34 euro.
+§ 4. Kinderdagverblijven ontvangen per jaar een forfaitair bedrag per voltijdse directiefunctie. In 2014 bedraagt dat forfaitaire bedrag voor een kinderdagverblijf, georganiseerd door:<br>
+1° een openbaar bestuur: 71.218,02 euro;<br>
+2° een privaat bestuur: 72.088,06 euro.
 <p>&nbsp;</p>
 <br>
-§ 5. Kinderdagverblijven ontvangen per voltijdse logistieke functie het volgende forfaitaire bedrag per jaar :
+§ 5. Kinderdagverblijven ontvangen per voltijdse logistieke functie het volgende forfaitaire bedrag per jaar :<br>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:447.65pt">
 	<tbody>
 		<tr>
@@ -119,17 +120,17 @@ Voor een openbaar bestuur geldt het volgende : op 1 januari van het subsidiejaar
 
 <p>§ 1. Een dienst ontvangt per erkende plaats een basisbedrag dat geldt bij een gemiddelde leeftijd van het personeel van drieëntwintig jaar en een aanvullend bedrag als vermeld in artikel 21, § 1, van het besluit van de Vlaamse Regering.<br>
 <br>
-§ 2. Het basisbedrag per erkende plaats in een dienst, georganiseerd door een openbaar bestuur, bedraagt 337,1 euro in 2013.<br>
+§ 2. Het basisbedrag per erkende plaats in een dienst, georganiseerd door een openbaar bestuur, bedraagt 340,17 euro in 2014.<br>
 <br>
-Het aanvullende bedrag in een dienst, georganiseerd door een openbaar bestuur, bedraagt 6,16 euro in 2013.<br>
+Het aanvullende bedrag in een dienst, georganiseerd door een openbaar bestuur, bedraagt 6,22 euro in 2014.<br>
 <br>
-In een dienst, georganiseerd door een openbaar bestuur, gelden voor de plaatsen waarvoor een principieel akkoord is toegekend vanaf 1 mei 2006, de volgende bedragen in 2013 :<br>
-1° het basisbedrag bedraagt 401,77 euro;<br>
-2° het aanvullende bedrag bedraagt 7,67 euro.<br>
+In een dienst, georganiseerd door een openbaar bestuur, gelden voor de plaatsen waarvoor een principieel akkoord is toegekend vanaf 1 mei 2006, de volgende bedragen in 2014:<br>
+1° het basisbedrag bedraagt 405,44 euro;<br>
+2° het aanvullende bedrag bedraagt 7,74 euro.<br>
 <br>
-Het basisbedrag per erkende plaats in een dienst, georganiseerd door een vzw, bedraagt 406,67 euro in 2013.<br>
+Het basisbedrag per erkende plaats in een dienst, georganiseerd door een vzw, bedraagt 410,75 euro in 2014.<br>
 <br>
-Het aanvullende bedrag in een dienst, georganiseerd door een vzw, bedraagt 7,79 euro in 2013.<br>
+Het aanvullende bedrag in een dienst, georganiseerd door een vzw, bedraagt 7,86 euro in 2014.<br>
 <br>
 § 3. Het forfaitaire bedrag per erkende plaats bedraagt 156,95 euro.<br>
 <br>
@@ -139,7 +140,7 @@ Het aanvullende bedrag in een dienst, georganiseerd door een vzw, bedraagt 7,79 
 
 ### ART. 4.
 
-<P>&nbsp;De forfaitaire bedragen voor 2013, vermeld in artikel 2, § 2, eerste   tot en met vijfde lid, artikel 2, § 4, 1° en 2°, en artikel 3, § 2, eerste tot   en met vijfde lid, worden niet geïndexeerd in 2013.</P>
+<P>De forfaitaire bedragen, vermeld in dit besluit, worden elke jaar op 1   januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer   tussen 1 november van het vorig kalenderjaar en 1 november van het daaraan   voorafgaande kalenderjaar.<BR><BR>In afwijking van het eerste lid worden de   forfaitaire bedragen voor 2014, vermeld in artikel 2, § 2, artikel 2, § 4, en   artikel 3, § 2, niet geïndexeerd in 2014.</P>
 
 ### ART. 5.
 
