@@ -6,32 +6,32 @@
 
 ### ART. 1.
 
-Aan het artikel 14 van het ministerieel besluit van 21 december 2012   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, worden volgende wijzigingen aangebracht :<BR>1° in § 1 wordt het getal «   400 » vervangen door het getal « 461 »;<BR>2° aan § 1 wordt volgende bepaling   toegevoegd :<BR>« Het totale tongquotum in de i.c.e.s.-gebieden II, IV (Noordzee   en Schelde-estuarium) dat gereserveerd is voor de vissersvaartuigen met een   motorvermogen van meer dan 221 kW, bedraagt voor de periode van 1 januari 2013   tot en met 31 december 2013 856 ton.<BR>Als dat quotum is opgebruikt, is het   voor die vissersvaartuigen tot en met 31 december 2013 verboden nog tong aan te   voeren uit de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium). » <BR>3°   in § 2 wordt het getal « 50 » vervangen door het getal « 65 »;<BR>4° in § 3   wordt het getal « 35 » vervangen door het getal « 45 »;<BR>5° § 3 wordt   aangevuld met een volgend lid :<BR>« Van 1 juli 2013 tot en met 31 oktober 2013   is het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de   tongvangst een hoeveelheid te overschrijden, die gelijk is aan 4500 kg,   vermeerderd met een hoeveelheid die gelijk is aan 18 kg vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW. » <BR>
+...
 
 ### ART. 2.
 
-Aan het artikel 15 van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 30 april 2013, worden volgende wijzigingen aangebracht :<BR>1° in §   1 wordt het getal « 800 » vervangen door het getal « 872 » en het getal « 4537 »   vervangen door het getal « 4939 »;<BR>2° in § 2 wordt het getal « 200 »   vervangen door het getal « 250 »;<BR>3° § 3 wordt aangevuld met een tweede lid   :<BR>« Van 1 juli 2013 tot en met 31 oktober 2013 is het in de i.c.e.s.-gebieden   II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een   motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid   te overschrijden die gelijk is aan 185 kg, vermenigvuldigd met het motorvermogen   van het vissersvaartuig, uitgedrukt in kW. » <BR>
+...
 
 ### ART. 3.
 
-<P>Aan het artikel 16 § 3 van hetzelfde besluit, wordt volgende bepaling   toegevoegd :<BR>« Van 1 juli 2013 tot en met 31 oktober 2013 is het in de   i.c.e.s.-gebieden VIIf,g voor een vissersvaartuig met een motorvermogen van meer   dan 221 kW verboden bij de tongvangst een hoeveelheid te overschrijden die   gelijk is aan 7 kg, vermenigvuldigd met het motorvermogen van het   vissersvaartuig uitgedrukt in kW.<BR></P>  <P>In afwijking met vorig lid wordt voor de vaartuigen, die niet voorkomen op de   lijst « Visvergunningen Golf van Gascogne 2013 » zoals bepaald in artikel 21, de   hoeveelheid verlaagd met een hoeveelheid van 3 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig uitgedrukt in kW. »</P>
+...
 
 ### ART. 4.
 
-In artikel 17 van hetzelfde besluit worden volgende wijzigingen   aangebracht :<BR>1° de § 1 wordt aangevuld met een tweede lid :<BR>« Van 1 juli   2013 tot en met 31 oktober 2013 is het in de i.c.e.s.-gebieden VIIh,j,k voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de   tongvangst een hoeveelheid te overschrijden die gelijk is aan 5 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   » <BR>2° de § 2 wordt aangevuld met een tweede lid :<BR>« Van 1 juli 2013 tot en   met 31 oktober 2013 is het in de i.c.e.s.-gebieden VIIh,j,k voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW verboden bij de   scholvangst een hoeveelheid te overschrijden die gelijk is aan 1 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   » <BR>
+...
 
 ### ART. 5.
 
-In het artikel 18 van hetzelfde besluit, worden volgende wijzigingen   aangebracht :<BR>1° in § 1 wordt het getal « 100 » vervangen door het getal «   131 » en het getal « 565 » door het getal « 743 »<BR>2° § 2 wordt aangevuld met   een tweede lid :<BR>« Eigenaars van vissersvaartuigen met een motorvermogen van   meer dan 221 kW kunnen een toewijzing van vangstmogelijkheden voor de kabeljauw   uit de i.c.e.s.-gebieden II, IV in functie van het motorvermogen in toepassing   van § 4, lid 2, aanvragen. Daartoe dienen ze voor 15 juli 2013 een verzoek bij   de dienst in te brengen. Indien er geen geldige aanvraag wordt ingediend, is   artikel 24 van toepassing. » <BR>3° § 4 wordt aangevuld met een tweede lid   :<BR>« Vanaf 1 juli 2013 tot en met 31 oktober 2013 is het in de   i.c.e.s.-gebieden II, IV voor een vissersvaartuig met een motorvermogen van meer   dan 221 kW, verboden bij de kabeljauwvangst een hoeveelheid te overschrijden,   die gelijk is aan 3 000 kg verhoogd met een hoeveelheid die gelijk is aan 16 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   » <BR>
+...
 
 ### ART. 6.
 
-In het artikel 24 van hetzelfde besluit, worden volgende wijzigingen   aangebracht :<BR>1° aan § 1 wordt een derde lid toegevoegd, dat luidt als volgt   :<BR>« In de periode van 1 juli 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van 221 kW of minder, en dat volgens de   Officiële lijst der Belgische vissersvaartuigen 2013 is uitgerust met de   boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te   overschrijden die gelijk is aan 300 kg, vermenigvuldigd met het aantal   vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende   i.c.e.s.-gebieden. » <BR>2° aan § 2 wordt een derde lid toegevoegd, dat luidt   als volgt :<BR>« In de periode van 1 juli 2013 tot en met 31 december 2013 is   het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW, en dat volgens de   Officiële lijst der Belgische vissersvaartuigen 2013 is uitgerust met de   boomkor, verboden bij de kabeljauwvangst per zeereis een hoeveelheid te   overschrijden die gelijk is aan 600 kg, vermenigvuldigd met het aantal   vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende   i.c.e.s.-gebieden. » <BR>3° aan § 3 wordt een derde lid toegevoegd, dat luidt   als volgt :<BR>« In de periode van 1 juli 2013 tot en met 31 december 2013 is   het in de i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig dat volgens de Officiële lijst der Belgische vissersvaartuigen   2013 niet is uitgerust met de boomkor, verboden bij de kabeljauwvangst een   hoeveelheid te overschrijden die gelijk is aan 700 kg, vermenigvuldigd met het   aantal vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende   i.c.e.s.-gebieden. » <BR>4° in § 6 lid 1 wordt het woord « vissersvaartuigen »   vervangen door de woorden « vissersvaartuigen in de periode »;<BR>5° in § 6 lid   2 worden de woorden « 30 juni » vervangen door de woorden « 31 december » en het   getal « 200 » vervangen door het getal « 240 ».<BR>
+...
 
 ### ART. 7.
 
-In het artikel 27 § 8 vierde lid van hetzelfde besluit, gewijzigd bij het   ministerieel besluit van 30 april 2013, worden met ingang van 1 juli 2013 de   woorden « 60 % van het quotum » vervangen door de woorden « 75 % van het quotum   vóór 30 september 2013 ».<BR>
+...
 
 ### ART. 8.
 
-Dit besluit treedt in werking op 1 juli 2013 en houdt op van kracht te   zijn op 1 januari 2014.<BR>
+...
