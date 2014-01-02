@@ -6,52 +6,52 @@
 
 ### ART. 1.
 
-<P>Aan het artikel 14 van het ministerieel besluit van 21 december 2012 houdende   tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee,   gewijzigd bij ministerieel besluit van 1 juli 2013, wordt een § 4 toegevoegd met   ingang van 16 oktober 2013 :</P>  <P><BR>"In afwijking van § 2 en § 3 leden twee en drie kan in de periode 16   oktober 2013 tot en met 31 december 2013 in de i.c.e.s.-gebieden II, IV   (Noordzee en Schelde-estuarium) de tong op vaartuigniveau vrij worden   bevist."</P>
+...
 
 ### ART. 2.
 
-<P>Aan het artikel 15 van hetzelfde besluit, gewijzigd bij ministeriele   besluiten van 30 april 2013 en van 1 juli 2013, worden met ingang van 20 oktober   2013 volgende wijzigingen aangebracht :<BR></P>  <P>1° de § 2 wordt aangevuld met een tweede en derde lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 10 december 2013 is het in de   i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de   scholvangst een hoeveelheid te overschrijden die gelijk is aan 40 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   Van deze hoeveelheid mag maximaal één vierde reeds opgevist worden in de periode   20 oktober 2013 - 31 oktober 2013.<BR></P>  <P>Vanaf 11 december 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van 221 kW of minder, verboden bij de   scholvangst een hoeveelheid te overschrijden die gelijk is aan 6.000   kg."<BR></P>  <P>2° de § 3 wordt aangevuld met een derde en vierde lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 10 december 2013 is het in de   i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de   scholvangst een hoeveelheid te overschrijden die gelijk is aan 80 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   Van deze hoeveelheid mag maximaal één vierde reeds opgevist worden in de periode   20 oktober 2013 - 31 oktober 2013.<BR></P>  <P>Vanaf 11 december 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden II, IV (Noordzee en Schelde-estuarium) voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de   scholvangst een hoeveelheid te overschrijden die gelijk is aan 15.000   kg."</P>
+...
 
 ### ART. 3.
 
-<P>Aan het artikel 16 van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 1 juli 2013 worden de volgende wijzigingen aangebracht :<BR></P>  <P>1° in § 1 wordt het getal "39" vervangen door het getal "48" en het getal   "618" wordt vervangen door het getal "759";<BR></P>  <P>2° de § 2 wordt aangevuld met een tweede lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 inbegrepen, is het voor de   vaartuigen met een motorvermogen van 221 kW of minder verboden tong te vissen in   de i.c.e.s.-gebieden VIIf,g."<BR></P>  <P>3° de § 3 wordt aangevuld met een vierde lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden VIIf,g voor een vissersvaartuig met een motorvermogen van meer   dan 221 kW, verboden bij de tongvangst een hoeveelheid te overschrijden die   gelijk is aan 1.000 kg, vermeerderd met een hoeveelheid die gelijk is aan 7 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in   kW."</P>
+...
 
 ### ART. 4.
 
-<P>Aan het artikel 17 van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 1 juli 2013 worden volgende wijzigingen aangebracht :<BR></P>  <P>1° aan § 1 wordt een derde lid toegevoegd :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 is het in de i.c.e.s.-   gebieden VIIh,j,k voor een vissersvaartuig met een motorvermogen van 221 kW of   meer, verboden bij de tongvangst een hoeveelheid te overschrijden die gelijk is   aan 5 kg, vermenigvuldigd met het motorvermogen van het vissersvaartuig,   uitgedrukt in kW."<BR></P>  <P>2° aan § 2 wordt een derde lid toegevoegd :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden VIIh,j,k voor een vissersvaartuig met een motorvermogen van   221 kW of meer, verboden bij de scholvangst een hoeveelheid te overschrijden die   gelijk is aan 1 kg, vermenigvuldigd met het motorvermogen van het   vissersvaartuig, uitgedrukt in kW."</P>
+...
 
 ### ART. 5.
 
-<P>In het artikel 18 van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 1 juli 2013, wordt met ingang van 1 november 2013 een § 5 toegevoegd   :<BR></P>  <P>"In afwijking van § 3 en § 4 is er vanaf 1 november 2013 tot en met 31   december 2013 geen optie voor toewijzing vangstmogelijkheden volgens   motorvermogen."</P>
+...
 
 ### ART. 6.
 
-<P>Het artikel 19 van hetzelfde besluit, wordt met ingang van 1 november 2013   aangevuld met een derde en vierde lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden VIIb-c, VIIe-k, VIII voor een vissersvaartuig verboden bij de   kabeljauwvangst een hoeveelheid te overschrijden die gelijk is aan 3.000 kg,   verhoogd met een hoeveelheid die gelijk is aan 8 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW.<BR></P>  <P>De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een   vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen   2013 uitsluitend uitgerust is met de planken."</P>
+...
 
 ### ART. 7.
 
-<P>Het artikel 20 van hetzelfde besluit, wordt aangevuld met een derde en vierde   lid :<BR></P>  <P>"Vanaf 1 november 2013 tot en met 31 december 2013 is het in de   i.c.e.s.-gebieden VIId voor een vissersvaartuig verboden bij de kabeljauwvangst   een hoeveelheid te overschrijden die gelijk is aan 500 kg vermeerderd met een   hoeveelheid van 1 kg, vermenigvuldigd met het motorvermogen van het   vissersvaartuig, uitgedrukt in kW.<BR></P>  <P>De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een   vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen   2013 uitsluitend uitgerust is met de planken of met passief   tuig."</P>
+...
 
 ### ART. 8.
 
-<P>Aan het artikel 22 van hetzelfde besluit, gewijzigd bij de ministeriële   besluiten van 29 januari 2013, 29 augustus 2013 en 26 september 2013, worden met   ingang van 1 november 2013 volgende wijzigingen aangebracht :<BR></P>  <P>1° in de § 1 lid 6 worden de woorden "3.200 kg" vervangen door de woorden   "4.000 kg",<BR></P>  <P>2° de § 3 wordt aangevuld met een tweede lid :<BR></P>  <P>"In de periode van 1 november 2013 tot en met 31 december 2013 is het in het   i.c.e.s.-gebied VIIe voor een vissersvaartuig verboden een totale tongvangst in   het desbetreffende i.c.e.s.-gebied te realiseren groter van 1.500   kg."</P>
+...
 
 ### ART. 9.
 
-<P>Aan het artikel 23 § 1 van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 29 januari 2013 worden met ingang van 1 november 2013 de volgende   wijzigingen aangebracht :<BR></P>  <P>1° het getal "400" wordt vervangen door het getal "300" en het getal "800"   wordt vervangen door het getal "600",<BR></P>  <P>2° aan § 1 wordt een vijfde en zesde lid toegevoegd :<BR></P>  <P>"In afwijking van lid 1 is het in de periode van 1 november 2013 tot 85 % van   het scholquotum VIId,e is benut voor 30 november 2013, in de i.c.e.s.-gebieden   VIId,e voor een vissersvaartuig met een motorvermogen van 221 kW of minder,   verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die   gelijk is aan 600 kg, vermenigvuldigd met het aantal vaartdagen die tijdens die   zeereis in het desbetreffend i.c.e.s.-gebied wordt gerealiseerd.<BR></P>  <P>In afwijking van lid 2 is het in de periode van 1 november 2013 tot 85 % van   het scholquotum VIId,e is benut voor 30 november 2013, in de i.c.e.s.-gebieden   VIId,e voor een vissersvaartuig met een motorvermogen van meer dan 221 kW,   verboden bij de scholvangst per zeereis een hoeveelheid te overschrijden die   gelijk is aan 1.200 kg, vermenigvuldigd met het aantal vaartdagen die tijdens   die zeereis in het desbetreffend i.c.e.s.-gebied wordt   gerealiseerd."</P>
+...
 
 ### ART. 10.
 
-<P>In artikel 24 van hetzelfde besluit, gewijzigd bij het ministerieel besluit   van 1 juli 2013 worden volgende wijzigingen met ingang van 1 november 2013   aangebracht :<BR></P>  <P>1° in § 1 lid 3 wordt het getal "300" vervangen door het getal "150",<BR></P>  <P>2° in § 2 lid 3 wordt het getal "600" vervangen door het getal "300",<BR></P>  <P>3° in § 3 lid 3 wort het getal "700" vervangen door het getal "400",<BR></P>  <P>4° in § 6 lid 2 wordt het getal "240" vervangen door het getal   "200",<BR>Vanaf de datum dat er geen 40 ton kabeljauw meer beschikbaar is en dit   voor 30 november 2013, zijn volgende wijzigingen van toepassing tot 31 december   2013 :<BR></P>  <P>5° in § 1 lid 3 wordt het getal "150" vervangen door het getal "100",<BR></P>  <P>6° in § 2 lid 3 wordt het getal "300" vervangen door het getal "200",<BR></P>  <P>7° in § 3 lid 3 wordt het getal "400" vervangen door het getal "300",</P>  <P>8° in § 6 lid 2 wordt het getal "200" vervangen door het getal   "0".</P>
+...
 
 ### ART. 11.
 
-<P>Aan het artikel 25 van hetzelfde besluit, wordt een lid 4 toegevoegd luidend   als volgt :<BR></P>  <P>"In afwijking met leden 1 en 2 is het in de periode van 1 november 2013 tot   en met 31 december 2013 in het i.c.e.s.-gebied VIIa voor een vissersvaartuig   verboden bij de schelvisvangst een hoeveelheid te overschrijden die gelijk is   aan 400 kg, vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die   zeereis in i.c.e.s.-gebied VIIa.".</P>
+...
 
 ### ART. 12.
 
-In het artikel 27, § 8, vierde lid van hetzelfde besluit, gewijzigd bij de   ministeriële besluiten van 30 april 2013 en 1 juli 2013, wordt met ingang van 1   november 2013 het getal "75" vervangen door het getal "87" en wordt het woord   "september" vervangen door het woord "november".
+...
 
 ### ART. 13.
 
-Dit besluit treedt in werking op 1 november 2013 met uitzondering van   artikelen 1 en 2, die in werking treden op 16 oktober 2013. Dit besluit houdt op   van kracht te zijn op 1 januari 2014.
+...
