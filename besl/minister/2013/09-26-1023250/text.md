@@ -10,8 +10,8 @@ Het artikel 10 van het ministerieel besluit van 21 december 2012 houdende   tijd
 
 ### ART. 2.
 
-Aan het artikel 22 van hetzelfde besluit, gewijzigd bij ministeriele   besluiten van 29 januari 2013 en 29 augustus 2013, worden volgende wijzigingen   aangebracht : <BR>1° in het zesde lid worden de woorden "2 400 kg" vervangen   door de woorden "3 200 kg",<BR>2° in het negende lid worden de woorden "20 kg"   vervangen door de woorden "30 kg".<BR>
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 1 oktober 2013 en houdt op van kracht te   zijn op 1 januari 2014 met uitzondering van artikel 1, dat ophoudt van kracht te   zijn op 1 januari 2015.<BR>
+...
