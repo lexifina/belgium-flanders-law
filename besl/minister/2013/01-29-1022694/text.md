@@ -6,24 +6,24 @@
 
 ### ART. 1.
 
-Het artikel 1, 9° van het ministerieel besluit van 21 december 2012   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee wordt vervangen door volgende bepaling : <BR>« 9° vaartdag : de   aanwezigheid op zee van ten minste vier uur in de loop van een dag, wordt als   een dag van de zeereis beschouwd. Het uitvaren van een vissersschip voor een   duur die 24 uur niet overschrijdt, wordt als één dag van de zeereis beschouwd.   Het uitvaren van een vissersschip voor een duur die 24 uur of een veelvoud van   24 uur overschrijdt, levert telkens een nieuwe dag van de zeereis op.   »<BR>
+...
 
 ### ART. 2.
 
-In artikel 10 § 1 van hetzelfde besluit, worden de woorden "met vistuig   bodemtrawls en zegen (TR 2) of boomkor (BT 1 en BT 2)" vervangen door de woorden   "die volgens artikel 22, § 1 tong in de Ierse Zee mogen   vissen."<BR>
+...
 
 ### ART. 3.
 
-<P>Aan artikel 22 § 1 van hetzelfde besluit, worden een tweede, derde, vierde en   vijfde lid toegevoegd : <BR>« In afwijking met lid 1, mogen de vissersvaartuigen   die gedurende de periode 2011-2012 minstens dertig zeedagen in ices-gebied in   VIIa verwezenlijkt hebben, gedurende de periode 1 februari 2013 tot 31 augustus   2013, elk 4 000 kg tong vangen en aanvoeren uit de Ierse Zee.<BR></P>  <P>In afwijking met lid 2, mogen vaartuigen, die in de periode 2011-2012 meer   dan 75 000 kg tong VIIa hebben gevangen, maximaal 15 000 kg tong in de Ierse Zee   gedurende de periode 1 februari - 31 augustus 2013 vangen en aanvoeren.<BR></P>  <P>De toekenning van tong in VIIa in lid 2 of 3 is voorwaardelijk en onderworpen   aan wetenschappelijke monitoring. Betrokken reders dienen uiterlijk drie   werkdagen voor afreis zelf een wetenschappelijke begeleiding of monitoring met   het ILVO te regelen. Ingeval de tongvisserij VIIa niet bijdraagt tot   wetenschappelijke monitoring kan de toewijzing tong VIIa 2014 verboden   worden.<BR></P>  <P>De vaartuigen, die onder leden 2 en 3 tong toegewezen krijgen in VIIa kunnen   geen gebruik maken van de tong VIIe zoals toegekend onder artikel 22, § 3.   »<BR></P>
+...
 
 ### ART. 4.
 
-<P>Het artikel 23 § 1 van hetzelfde besluit wordt aangevuld met een derde en   vierde lid : <BR>« In afwijking van lid 1 is het in de periode 1 februari 2013   tot en met 28 februari 2013 in de ices-gebieden VIId,e voor een vissersvaartuig   met een motorvermogen van 221 kW of minder verboden bij de scholvangst per   zeereis een hoeveelheid te overschrijden die gelijk is aan 600 kg,   vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in   de desbetreffende ices-gebieden.<BR></P>  <P>In afwijking van lid 2 is het in de periode 1 februari 2013 tot en met 28   februari 2013 in de ices-gebieden VIId,e voor een vissersvaartuig met een   motorvermogen van meer dan 221 kW verboden bij de scholvangst per zeereis een   hoeveelheid te overschrijden die gelijk is aan 1 200 kg, vermenigvuldigd met het   aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende   ices-gebieden. » <BR></P>
+...
 
 ### ART. 5.
 
-Van 1 februari 2013 tot en met 31 maart 2013 is iedere vorm van visserij   verboden in de volgende ICES-rechthoeken : 30<SUP>E</SUP>4, 31<SUP>E</SUP>4,   32<SUP>E</SUP>3.<BR>
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 februari 2013 en houdt op van kracht te   zijn op 1 januari 2014.<BR>
+...
