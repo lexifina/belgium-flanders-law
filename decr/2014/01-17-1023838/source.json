@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023838,
+  "title": "Decreet van 2014-01-17 houdende wijziging van het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023838/VolledigDocument?datum=2014-01-13",
+  "source_sha256": "b7846c3e62bb9ec5c5d4e6ed2d4c3f6ef5f846700abbd58f53e0e00c46ee4998",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023838&param=informatie",
+  "as_of": "2014-01-13",
+  "made": "2014-01-17",
+  "gazette": "2014-02-17",
+  "numac": 2014035179,
+  "document_start": "2014-01-13",
+  "document_end": null,
+  "in_force": "2014-01-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-01-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
