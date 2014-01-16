@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023806,
+  "title": "Ministerieel besluit van 2014-01-16 tot wijziging van het ministerieel besluit van 24 januari 2011 tot uitvoering van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, wat betreft de wijziging van de limitatieve technologieënlijst",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023806/VolledigDocument?datum=2014-01-16",
+  "source_sha256": "54e988b35602836246eba1aef4580b2a89a7df00bc6f0a233aacab3ac8593cbd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023806&param=informatie",
+  "as_of": "2014-01-16",
+  "made": "2014-01-16",
+  "gazette": "2014-02-11",
+  "numac": 2014035155,
+  "document_start": "2014-01-16",
+  "document_end": null,
+  "in_force": "2014-01-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
