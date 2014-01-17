@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023529,
+  "title": "Decreet van 2013-12-06 houdende wijziging van het Wetboek der Registratie-, Hypotheek- en Griffierechten, wat de gelijkstelling van verkrijgingen tussen stiefkinderen en stiefouders en tussen zorgkinderen en zorgouders betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023529/VolledigDocument?datum=2014-01-17",
+  "source_sha256": "5a6344d9bef5fa733bd93ad9188e97359ca29e4c9356ce8bf34fd76b565a85c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023529&param=informatie",
+  "as_of": "2014-01-17",
+  "made": "2013-12-06",
+  "gazette": "2014-01-07",
+  "numac": 2013036173,
+  "document_start": "2014-01-17",
+  "document_end": null,
+  "in_force": "2014-01-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
