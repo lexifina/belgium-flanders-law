@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023525,
+  "title": "Decreet van 2013-11-22 tot instemming met de kaderovereenkomst inzake een breed partnerschap en samenwerking tussen de Europese Unie en haar lidstaten enerzijds, en de Socialistische Republiek Vietnam, anderzijds, ondertekend in Brussel op 27 juni 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023525/VolledigDocument?datum=2014-01-17",
+  "source_sha256": "522c671ccb0580b3c35972421673a4dc9fe4a38739cc3546b50918726ce69edf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023525&param=informatie",
+  "as_of": "2014-01-17",
+  "made": "2013-11-22",
+  "gazette": "2014-01-07",
+  "numac": 2013036167,
+  "document_start": "2014-01-17",
+  "document_end": null,
+  "in_force": "2014-01-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-01-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
