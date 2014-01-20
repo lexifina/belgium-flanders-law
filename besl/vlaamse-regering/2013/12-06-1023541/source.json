@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023541,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-06 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 5 september 2008 houdende de uitvoering van het decreet van 4 april 2003 betreffende het Sociaal-cultureel Volwassenenwerk",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023541/VolledigDocument?datum=2014-01-20",
+  "source_sha256": "306b3cce15e15066cb5a7c122cbd5ccfd9c486f3410d4c3556e5ab257e21eef3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023541&param=informatie",
+  "as_of": "2014-01-20",
+  "made": "2013-12-06",
+  "gazette": "2014-01-10",
+  "numac": 2013036215,
+  "document_start": "2014-01-20",
+  "document_end": null,
+  "in_force": "2014-01-20",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
