@@ -10,7 +10,7 @@ De heer Jan Anthonis, adjunct van de directeur, Departement Financiën en Begrot
 
 ### ART. 1/1.
 
-Mevr. Sigrid Lauwers, adjunct van de directeur, Departement Financiën en   Begroting, afdeling Financieel Management wordt aangewezen als Vlaamse   instrumenterende ambtenaar als vermeld in artikel 94 van het decreet van 18   december 2009 houdende bepalingen tot begeleiding van de begroting   2010.
+Mevr. Sofie De Wolf, adjunct van de directeur, Departement Financiën en   Begroting, afdeling Financieel Management wordt aangewezen als Vlaamse   instrumenterende ambtenaar als vermeld in artikel 94 van het decreet van 18   december 2009 houdende bepalingen tot begeleiding van de begroting   2010.
 
 ### ART. 2.
 
