@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023608,
+  "title": "Ministerieel besluit van 2013-12-09 tot wijziging van artikel 1/1 van het ministerieel besluit van 11 februari 2010 tot aanwijzing van de ambtenaren, vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023608/VolledigDocument?datum=2014-01-21",
+  "source_sha256": "9ba16f09a112b88228607e1ff2af783dabca175e1fe7c43f81c7951c29d47685",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023608&param=informatie",
+  "as_of": "2014-01-21",
+  "made": "2013-12-09",
+  "gazette": "2014-01-20",
+  "numac": 2013207039,
+  "document_start": "2014-01-21",
+  "document_end": null,
+  "in_force": "2014-01-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-01-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
