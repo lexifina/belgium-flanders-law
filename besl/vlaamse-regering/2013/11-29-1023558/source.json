@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023558,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot opheffing van het besluit van de Vlaamse Regering van 23 september 2005 tot uitvoering van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking, wat de waarborgverlening voor de stimulering van microfinanciering betreft, en tot wijziging van het besluit van de Vlaamse Regering van 7 december 2012 tot uitvoering van het kaderdecreet van 22 juni 2007 inzake ontwikkelingssamenwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023558/VolledigDocument?datum=2014-01-24",
+  "source_sha256": "3ea86ff1ac76ffe1ad660ac4539923274b2d26d86c121b1c2c65a17ac44be3ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023558&param=informatie",
+  "as_of": "2014-01-24",
+  "made": "2013-11-29",
+  "gazette": "2014-01-14",
+  "numac": 2014207280,
+  "document_start": "2014-01-24",
+  "document_end": null,
+  "in_force": "2014-01-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-01-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
