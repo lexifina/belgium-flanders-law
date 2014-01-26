@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023580,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 houdende de gedeeltelijke herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel VR0/1VB-A-2-Z/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023580/VolledigDocument?datum=2014-01-26",
+  "source_sha256": "564c23b7c5a0f2e9a2091603bc326011104675746c2cb564e068af3cc956c360",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023580&param=informatie",
+  "as_of": "2014-01-26",
+  "made": "2013-12-13",
+  "gazette": "2014-01-16",
+  "numac": 2013036199,
+  "document_start": "2014-01-26",
+  "document_end": null,
+  "in_force": "2014-01-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
