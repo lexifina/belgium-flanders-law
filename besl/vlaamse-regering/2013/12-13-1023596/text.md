@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2013-12-13 tot onderwerping van delen van het grondgebied van de gemeenten Bertem en Kortenberg aan landinrichting
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 21 december 1988 houdende oprichting van de Vlaamse   Landmaatschappij, artikel 12, vervangen bij het decreet van 19 mei 2006;<BR></P>  <P>Overwegende dat de Vlaamse Regering op 1 juni 2007 het planprogramma Plateau   van Moorsel heeft goedgekeurd; dat het planprogramma Plateau van Moorsel onder   meer het inrichtingsproject landinrichting Dijleland omvat;<BR></P>  <P>Overwegende dat het inrichtingsplan Missing Links een onderdeel vormt van het   landinrichtingsplan van het inrichtingsproject landinrichting Dijleland;<BR></P>  <P>Overwegende dat de maatregel 2.1 (ontsnippering E40 - omvorming bestaande   brug over de E40 tot ecobrug) van het ontwerp van inrichtingsplan Missink Links,   bestaande uit de submaatregelen 2.1.1 (voorbereidende werken), 2.1.2 (onderhoud   brug), 2.1.3 (inrichting ecobrug en omgeving), 2.1.4 (aanleg ecorasters) en   2.1.5 (groenaanleg), en gesitueerd op het grondgebied van de gemeenten Bertem en   Kortenberg, gedeeltelijk gepland is op gronden die overeenkomstig het koninklijk   besluit van 7 april 1977 houdende de vaststelling van het gewestplan Leuven en   latere wijzigingen, gelegen zijn in gebied voor bestaande autosnelwegen, zoals   is aangeduid op de kaart "Inrichtingsplan Missing Links - Maatregelen in gebied   voor bestaande autosnelwegen", die als bijlage bij dit besluit is   gevoegd;<BR></P>  <P>Overwegende dat artikel 12, eerste lid, van het decreet van 21 december 1988   bepaalt dat landinrichting uitsluitend van toepassing is op de landelijke   gebieden en de recreatiegebieden, alsook op de woongebieden met een landelijk   karakter en de ontginningsgebieden, en op de met een van die gebieden   vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of   ruimtelijke uitvoeringsplannen die in de ruimtelijke ordening van kracht   zijn;<BR></P>  <P>Overwegende dat artikel 12, tweede lid, van het decreet van 21 december 1988   bepaalt dat de Vlaamse Regering bij wijze van uitzondering gronden in andere   ruimtelijke bestemmingsgebieden dan die opgesomd in artikel 12, eerste lid, van   het decreet van 21 december 1988, aan landinrichting kan onderwerpen voor zover   dat onmisbaar is voor de uitvoering van een landinrichtingsplan;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 12 december 2013;<BR></P>  <P>Op voorstel van de Vlaamse minister van Leefmilieu, Natuur en   Cultuur;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+De gronden in de gemeenten Bertem en Kortenberg, die zijn aangeduid op de   kaart "Inrichtingsplan Missing Links - Maatregelen in gebied voor bestaande   autosnelwegen", die als bijlage bij dit besluit is gevoegd, worden onderworpen   aan landinrichting voor de uitvoering van de maatregel 2.1 (ontsnippering E40 -   omvorming bestaande brug over de E40 tot ecobrug) van het ontwerp van   inrichtingsplan Missing Links, bestaande uit de submaatregelen 2.1.1   (voorbereidende werken), 2.1.2 (onderhoud brug), 2.1.3 (inrichting ecobrug en   omgeving), 2.1.4 (aanleg ecorasters) en 2.1.5 (groenaanleg).<BR>
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud,   is belast met de uitvoering van dit besluit.<BR>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/17_2.pdf#page=136">Bijlage</A>
