@@ -50,7 +50,7 @@ De effectieve leden van de commissie ontvangen voor hun prestaties een forfaitai
 
 ### ART. 11.
 
-Voor de voorzitter bedraagt de forfaitaire dagvergoeding 350 euro en voor de andere werkende leden 225 euro. Per evaluatiecyclus kunnen maximum 41 dagen dagvergoedingen toegekend worden. De ambtenaren van het departement ontvangen geen andere vergoeding dan hun gewone salaris.
+Voor de voorzitter bedraagt de forfaitaire dagvergoeding 350 euro en voor   de andere werkende leden 225 euro. Per evaluatiecyclus kunnen maximum&nbsp;50   dagen dagvergoedingen toegekend worden. De ambtenaren van het departement   ontvangen geen andere vergoeding dan hun gewone salaris.
 
 ### ART. 12.
 
