@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023947,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van artikel 4 van het besluit van de Vlaamse Regering van 7 oktober 2011 houdende de aanwijzing van de leden van het Samenwerkingsplatform Eerstelijnsgezondheidszorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023947/VolledigDocument?datum=2014-01-28",
+  "source_sha256": "03a4fdba37f0489bcd6bcc28c53bb0ecb8890407a9020898ab3109fcd657fb56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023947&param=informatie",
+  "as_of": "2014-01-28",
+  "made": "2014-02-14",
+  "gazette": "2014-03-25",
+  "numac": 2014035268,
+  "document_start": "2014-01-28",
+  "document_end": null,
+  "in_force": "2014-01-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-01-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
