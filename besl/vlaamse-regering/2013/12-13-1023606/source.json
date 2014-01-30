@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023606,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 tot wijziging van het planprogramma Stiemerbeekvallei en tot onderwerping van delen van het grondgebied van de stad Genk aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023606/VolledigDocument?datum=2014-01-30",
+  "source_sha256": "7e09898a46d05ccea3b1dc186e50545e7e90ef23deb1b81ec7c579a9b30daa9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023606&param=informatie",
+  "as_of": "2014-01-30",
+  "made": "2013-12-13",
+  "gazette": "2014-01-20",
+  "numac": 2013036200,
+  "document_start": "2014-01-30",
+  "document_end": null,
+  "in_force": "2014-01-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
