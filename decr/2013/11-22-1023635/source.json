@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023635,
+  "title": "Decreet van 2013-11-22 tot wijziging van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023635/VolledigDocument?datum=2014-01-31",
+  "source_sha256": "0314879399bbd6bc490b62476d8dcf32815b2b447c0fc45f73ca02c3965a5fa6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023635&param=informatie",
+  "as_of": "2014-01-31",
+  "made": "2013-11-22",
+  "gazette": "2014-01-21",
+  "numac": 2014035082,
+  "document_start": "2014-01-31",
+  "document_end": null,
+  "in_force": "2014-01-31",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2014-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
