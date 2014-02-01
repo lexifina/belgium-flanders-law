@@ -119,7 +119,7 @@ Als de Vlaamse rechtspersoon beschikt over een raad van bestuur, worden de docum
 
 ### ART. 15/2.
 
-De jaarrekeningen van de Vlaamse rechtspersoon zonder raad van bestuur worden opgesteld door de inhoudelijk bevoegde minister en worden bezorgd aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Het agentschap Centrale Accounting bezorgt de jaarrekeningen aan het Rekenhof.<br /><br />De jaarrekeningen van de Vlaamse rechtspersonen met raad van bestuur worden bezorgd aan de inhoudelijk bevoegde minister en aan de Vlaamse minister, bevoegd voor de financiën en begrotingen. Het agentschap Centrale Accounting bezorgt de jaarrekeningen aan het Rekenhof.
+De jaarrekeningen van de Vlaamse rechtspersoon zonder raad van bestuur   worden opgesteld door de inhoudelijk bevoegde minister en worden bezorgd aan de   Vlaamse minister, bevoegd voor de financiën en de begrotingen. Het Departement   Financiën en Begroting bezorgt de jaarrekeningen aan het Rekenhof.<BR><BR>De   jaarrekeningen van de Vlaamse rechtspersonen met raad van bestuur worden bezorgd   aan de inhoudelijk bevoegde minister en aan de Vlaamse minister, bevoegd voor de   financiën en begrotingen. Het Departement Financiën en Begroting bezorgt de   jaarrekeningen aan het Rekenhof.
 
 ### ART. 15/3.
 
