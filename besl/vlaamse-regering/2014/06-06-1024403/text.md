@@ -16,9 +16,21 @@ Artikel XI 45bis van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse R
 
 Artikel XI 45sexies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt:<BR>"Art.   XI 45sexies. Loopbaanonderbreking voor bijstand aan of verzorging van een zwaar   ziek gezins- of familielid wordt niet meegeteld in de 60 maanden voltijdse en de   60 maanden halftijdse loopbaanonderbreking die het statutaire personeelslid   maximaal kan nemen.".<BR>
 
+### ART. 4.
+
+<P>Artikel XI 45novies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt   :<BR>"Art. XI 45novies. § 1. In afwijking van artikel XI 44 § 1 heeft het   statutaire personeelslid recht op loopbaanonderbreking voor ouderschapsverlof   waarvan de duur:<BR>1° in geval van voltijdse loopbaanonderbreking, vier maanden   per kind bedraagt, op te nemen in periodes van één maand of een veelvoud   daarvan;<BR>2° in geval van halftijdse loopbaanonderbreking, acht maanden per   kind bedraagt, op te nemen in periodes van twee maanden of een veelvoud   daarvan.<BR></P>  <P>§ 2. Het mannelijke statutaire personeelslid heeft alleen recht op   ouderschapsverlof in de vorm van loopbaanonderbreking als de afstamming van het   kind in zijnen hoofde vaststaat of als het gaat om een kind dat door hem werd   geadopteerd.".<BR></P>
+
+### ART. 5.
+
+Artikel XI 45decies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt:<BR>"Art.   XI 45decies. Het statutaire personeelslid heeft de mogelijkheid om bij   ouderschapsverlof in de vorm van loopbaanonderbreking te veranderen van   opnamevorm. Het reeds opgenomen ouderschapsverlof wordt in dat geval aangerekend   overeenkomstig het principe dat één maand voltijdse loopbaanonderbreking   gelijkstaat aan twee maanden halftijdse   loopbaanonderbreking.".<BR>
+
 ### ART. 6.
 
 Artikel XI 45undecies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt:<BR>"Art.   XI 45undecies. Het ouderschapsverlof in de vorm van loopbaanonderbreking wordt   niet meegeteld in de 60 maanden voltijdse en de 60 maanden halftijdse   loopbaanonderbreking die het statutaire personeelslid maximaal kan   nemen.".<BR>
+
+### ART. 7.
+
+<P>Artikel XI 45duodecies van hetzelfde besluit, ingevoegd bij besluit van de   Vlaamse Regering van 19 september 2003, wordt vervangen door wat volgt:<BR>"Art.   XI 45duodecies. Het statutaire personeelslid heeft recht op   ouderschapsverlof:<BR>1° naar aanleiding van de geboorte van zijn kind tot het   kind twaalf jaar wordt;<BR>2° in het kader van de adoptie van een kind,   gedurende een periode die loopt vanaf de inschrijving van het kind als deel   uitmakend van zijn gezin in het bevolkingsregister of in het   vreemdelingenregister van de gemeente waar het personeelslid zijn verblijfplaats   heeft, en dit uiterlijk tot het kind twaalf jaar wordt.<BR></P>  <P>Aan de voorwaarde van de twaalfde verjaardag moet zijn voldaan uiterlijk   gedurende de periode van het ouderschapsverlof.<BR></P>  <P>De leeftijdsgrens van 12 jaar wordt verhoogd tot 21 jaar wanneer het kind   voor ten minste 66 % getroffen is door een lichamelijke of geestelijke   ongeschiktheid of een aandoening heeft die tot gevolg heeft dat ten minste 4   punten toegekend worden in de pijler I van de medisch - sociale schaal in de zin   van de regelgeving betreffende de kinderbijslag.".<BR></P>
 
 ### ART. 8.
 

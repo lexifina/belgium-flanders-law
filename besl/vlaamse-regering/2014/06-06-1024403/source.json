@@ -2,16 +2,16 @@
   "codex_id": 1024403,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024403/VolledigDocument?datum=2013-12-01",
-  "source_sha256": "c042a3793b03d9760f8bdc655543e4f96f723e07a575c76cab9853e1c95ef078",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024403/VolledigDocument?datum=2014-02-01",
+  "source_sha256": "e78f6f9a6a0d3c6725b1ba2a577b0bb9ce21fd210424c500d024103494d3e578",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024403&param=informatie",
-  "as_of": "2013-12-01",
+  "as_of": "2014-02-01",
   "made": "2014-06-06",
   "gazette": "2014-08-12",
   "numac": 2014204159,
   "document_start": "2014-08-22",
   "document_end": null,
-  "in_force": "2013-12-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-12-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-02-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-02-01; future article versions excluded; article text as the API gives it"
 }
