@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024058,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-24 houdende de overdracht van personeelsleden van het intern verzelfstandigd agentschap Centrale Accounting aan het departement Financiën en Begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024058/VolledigDocument?datum=2014-02-01",
+  "source_sha256": "47828df09b2baa1c788f1eb99b8b6ef78a8372f6d93aea4ce299bbe267150023",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024058&param=informatie",
+  "as_of": "2014-02-01",
+  "made": "2014-01-24",
+  "gazette": "2014-04-30",
+  "numac": 2014035313,
+  "document_start": "2014-02-01",
+  "document_end": null,
+  "in_force": "2014-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
