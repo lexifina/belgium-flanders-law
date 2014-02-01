@@ -76,7 +76,7 @@ De verrichtingen van het Fonds, de boekingen in de comptabiliteit en de verantwo
 
 ### ART. 16.
 
-De rekenplichtige heeft als taak de opbrengsten van het Fonds te innen evenals mogelijke ontvangsten voor orde en de uitgaven te verrichten.<br /><br />De Centrale Accounting van het beleidsdomein Financiën en Begroting rekent de ontvangsten en uitgaven, uitgevoerd door de rekenplichtige, budgettair aan op grond van de driemaandelijkse staten van de ontvangsten en uitgaven die de rekenplichtige voorlegt.
+De rekenplichtige heeft als taak de opbrengsten van het Fonds te innen   evenals mogelijke ontvangsten voor orde en de uitgaven te verrichten.<BR><BR>Het   Departement Financiën en Begroting rekent de ontvangsten en uitgaven, uitgevoerd   door de rekenplichtige, budgettair aan op grond van de driemaandelijkse staten   van de ontvangsten en uitgaven die de rekenplichtige voorlegt.
 
 ### ART. 17.
 
