@@ -6,11 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt het opleidingsprofiel voor de modulaire opleiding Nederlands tweede taal professioneel gids/reisleider richtgraad 3 van het studiegebied Nederlands tweede taal, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I, die bij dit besluit is gevoegd.<br /><br />Ter uitvoering van artikel 24, § 2, van voormeld decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het minimale aantal lestijden van de volgende opleidingen :<br />1° de opleiding Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90 lestijden; <br />2° de opleiding Nederlands tweede taal richtgraad 2 kan voor snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens 40 lestijden, of voor traag-lerende cursisten 640 lestijden, verdeeld in 8 modules van telkens 80 lestijden;<br />3° de opleiding Nederlands tweede taal richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden;<br />4° de opleiding Nederlands tweede taal - professioneel bedrijfsgericht richtgraad 3 kan voor snel-lerende cursisten 120 lestijden bedragen, verdeeld in 3 modules van telkens 40 lestijden;<br />5° de opleiding Nederlands tweede taal richtgraad 4 kan voor snel-lerende cursisten 160 bedragen, verdeeld in 4 modules van telkens 40 lestijden;<br />6° de opleiding Nederlands tweede taal - professioneel juridisch richtgraad 4 kan voor snel-lerende cursisten 80 lestijden bedragen, verdeeld in 2 modules van telkens 40 lestijden.<br />
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire opleidingen van het studiegebied Nederlands tweede taal, dat behoort   tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met V,   die bij dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van   het voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van   het minimale aantal lestijden van de volgende opleidingen:<BR>1° de opleiding   Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten 160   lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor   traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90   lestijden;<BR>2° de opleiding Nederlands tweede taal richtgraad 2 kan voor   snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens   40 lestijden, of voor traag-lerende cursisten 720 lestijden, verdeeld in 8   modules van telkens 90 lestijden;<BR>3° de opleiding Nederlands tweede taal   richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in   2 modules van telkens 80 lestijden;<BR>4° de opleiding Nederlands tweede taal   richtgraad 4 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in   2 modules van telkens 80 lestijden.<BR><BR>Ter uitvoering van artikel 24, § 2,   van voormeld decreet wordt voor bijzondere doelgroepen als volgt afgeweken van   het minimale aantal lestijden van de volgende opleidingen waarvan het   opleidingsprofiel is vastgelegd in het besluit van de Vlaamse Regering van 18   november 2005 betreffende de modulaire structuur van het secundair onderwijs   voor sociale promotie voor het studiegebied Nederlands tweede taal&nbsp;:<BR>1°   de opleiding Nederlands tweede taal richtgraad 1 kan voor snel-lerende cursisten   160 lestijden bedragen, verdeeld in 4 modules van telkens 40 lestijden, of voor   traag-lerende cursisten 360 lestijden, verdeeld in 4 modules van telkens 90   lestijden; <BR>2° de opleiding Nederlands tweede taal richtgraad 2 kan voor   snel-lerende cursisten 320 lestijden bedragen, verdeeld in 8 modules van telkens   40 lestijden, of voor traag-lerende cursisten 640 lestijden, verdeeld in 8   modules van telkens 80 lestijden;<BR>3° de opleiding Nederlands tweede taal   richtgraad 3 kan voor snel-lerende cursisten 160 lestijden bedragen, verdeeld in   4 modules van telkens 40 lestijden;<BR>4° de opleiding Nederlands tweede taal -   professioneel bedrijfsgericht richtgraad 3 kan voor snel-lerende cursisten 120   lestijden bedragen, verdeeld in 3 modules van telkens 40 lestijden;<BR>5° de   opleiding Nederlands tweede taal richtgraad 4 kan voor snel-lerende cursisten   160 bedragen, verdeeld in 4 modules van telkens 40 lestijden;<BR>6° de opleiding   Nederlands tweede taal - professioneel juridisch richtgraad 4 kan voor   snel-lerende cursisten 80 lestijden bedragen, verdeeld in 2 modules van telkens   40 lestijden.<BR>
 
 ### ART. 2.
 
-Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />
+Het opleidingsprofiel, vermeld in artikel 1, wordt uiterlijk drie jaar na   de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie   worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet   van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>De   opleidingsprofielen vastgelegd in bijlage II tot en met V worden uiterlijk   tijdens het schooljaar 2017-2018 geëvalueerd.<BR>
 
 ### ART. 3.
 
@@ -23,3 +23,19 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE I
 
 <a href="http://www.ejustice.just.fgov.be/mopdf/2008/09/30_5.pdf#page=15" title=" Bijlage I" target="_blank" class="pdf">Bijlage I</a>
+
+### BIJLAGE II
+
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1.pdf#page=66">Bijlage   II</A></P>
+
+### BIJLAGE III
+
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1.pdf#page=92">Bijlage   III</A></P>  <P><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1_2.pdf#page=1">Bijlage   III (deel 2)</A></P>
+
+### BIJLAGE IV
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1_2.pdf#page=25">Bijlage   IV</A>
+
+### BIJLAGE V
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/04/04_1_2.pdf#page=45">Bijlage   V</A>
