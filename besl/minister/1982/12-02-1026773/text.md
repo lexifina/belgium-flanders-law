@@ -10,7 +10,7 @@
 
 ### ART. 1ter.
 
-[Binnen het programmatiecriterium bedoeld in artikel 1 kunnen voor het   Rijk&nbsp;maximum 165 bedden worden opgericht met het oog op een bijzondere   erkenning als centrum voor niet aangeboren hersenletsels zoals bedoeld in   artikel 3bis van koninklijk besluit van 21 september 2004 houdende vaststelling   van de normen voor de bijzonder erkenning als rust- en verzorgingstehuis, als   centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels.   <EM>(ing. MB 9 juni 2008, art.&nbsp;2, I: 1 juli 2008)</EM>]
+[Binnen het programmatiecriterium bedoeld in artikel 1 kunnen voor het   Rijk&nbsp; <EM>(ing. MB 9 juni 2008, art.&nbsp;2, I: 1 juli   2008)</EM>][maximum&nbsp;15,22 bedden per miljoen inwoners <EM>(verv. MB 16   december 2013, art. 2, I: 2 januari 2014)</EM>]&nbsp;[worden opgericht met het   oog op een bijzondere erkenning als centrum voor niet aangeboren hersenletsels   zoals bedoeld in artikel 3bis van koninklijk besluit van 21 september 2004   houdende vaststelling van de normen voor de bijzonder erkenning als rust- en   verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet   aangeboren hersenletsels. <EM>(ing. MB 9 juni 2008, art.&nbsp;2, I: 1 juli   2008)</EM>]
 
 ### ART. 2.
 
