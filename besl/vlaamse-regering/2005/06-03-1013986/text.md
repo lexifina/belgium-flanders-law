@@ -82,7 +82,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 19.
 
-§ 1. Voor het beleidsdomein Financiën en Begroting wordt het Vlaams Ministerie van Financiën en Begroting opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid : <br />1° Vlaamse Belastingdienst; <br />2° Centrale Accounting.<br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Financiën en Begroting behoort, is het Vlaams Toekomstfonds.
+§ 1. Voor het beleidsdomein Financiën en Begroting wordt het Vlaams   Ministerie van Financiën en Begroting opgericht, dat bestaat uit het   gelijknamige departement en een agentschap zonder rechtspersoonlijkheid :   Vlaamse Belastingdienst.<BR><BR>§ 2. Het agentschap met rechtspersoonlijkheid   dat tot het beleidsdomein Financiën en Begroting behoort, is het Vlaams   Toekomstfonds.
 
 ### ART. 20.
 
