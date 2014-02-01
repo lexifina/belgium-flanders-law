@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied personenzorg, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IX, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied personenzorg, dat behoort tot het   secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IX, die bij   dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van het   voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het   minimale aantal lestijden van de volgende opleiding: de opleiding Begeleider in   de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij   de module Zorg in de kinderopvang 1 slechts 20 lestijden bedraagt.
 
 ### ART. 2.
 
