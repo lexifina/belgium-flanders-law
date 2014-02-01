@@ -2,16 +2,16 @@
   "codex_id": 1015235,
   "title": "Besluit van de Vlaamse Regering van 2006-09-01 betreffende de modulaire structuur van het secundair onderwijs voor sociale promotie voor het studiegebied Mechanica-elektriciteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015235/VolledigDocument?datum=2005-09-01",
-  "source_sha256": "0114df20ca3cb9c049f60684118df70eaba8d7f2c1e822f9cfd805558d772a9a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015235/VolledigDocument?datum=2014-02-01",
+  "source_sha256": "89ee77d579fbf075309f0a56dab93545602f24bb91df3b7c17ab90b9c6b8f5b3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015235&param=informatie",
-  "as_of": "2005-09-01",
+  "as_of": "2014-02-01",
   "made": "2006-09-01",
   "gazette": "2006-12-05",
   "numac": 2006036679,
   "document_start": "2005-09-01",
   "document_end": null,
-  "in_force": "2005-09-01",
+  "in_force": "2014-02-01",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2005-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-02-01; future article versions excluded; article text as the API gives it"
 }
