@@ -15,7 +15,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br>
 4. de beheerscommissie: de beheerscommissie die het EV-INBO bestuurt overeenkomstig artikel 31 van het decreet;<br>
 5. de voorzitter: de voorzitter van de beheerscommissie, bedoeld in artikel 31, § 2, 1° van het decreet;<br>
 6. het besluit van de Vlaamse Regering van 21 mei 1997 : het besluit van de Vlaamse Regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de openbare instellingen;<br>
-7. de met de financiële controle en certificering belaste instantie: de diensten van het Vlaams ministerie bevoegd voor het financieel en budgettair beleid, die belast zijn met de opmaak en consolidatie van de algemene rekeningen (IVA Centrale Accounting).<br>
+7. de met de financiële controle en certificering belaste instantie: de diensten van het Vlaams ministerie bevoegd voor het financieel en budgettair beleid, die belast zijn met de opmaak en consolidatie van de algemene rekeningen (Departement Financiën en Begroting).<br>
 &nbsp;
 
 ### ART. 2.
