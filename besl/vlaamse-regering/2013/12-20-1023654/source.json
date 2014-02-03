@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023654,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 houdende het beheer van het Lobroekdok en de vaststelling van een politiereglement ervoor",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023654/VolledigDocument?datum=2014-02-03",
+  "source_sha256": "334714b48484a554d639e6908589f84b300bf67b6f0a16aa602e5e2d2c21e03c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023654&param=informatie",
+  "as_of": "2014-02-03",
+  "made": "2013-12-20",
+  "gazette": "2014-01-24",
+  "numac": 2014035034,
+  "document_start": "2014-02-03",
+  "document_end": null,
+  "in_force": "2014-02-03",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
