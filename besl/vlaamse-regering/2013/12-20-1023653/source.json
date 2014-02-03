@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023653,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0/1CB-G-2-Z/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013 en houdende aanpassing van de VIF-begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023653/VolledigDocument?datum=2014-02-03",
+  "source_sha256": "afc251496941487907148de2a57a0aafcf884f97ac4a9cf617b407c0ac696d1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023653&param=informatie",
+  "as_of": "2014-02-03",
+  "made": "2013-12-20",
+  "gazette": "2014-01-24",
+  "numac": 2014035033,
+  "document_start": "2014-02-03",
+  "document_end": null,
+  "in_force": "2014-02-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
