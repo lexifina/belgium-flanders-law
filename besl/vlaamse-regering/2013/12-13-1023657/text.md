@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2013-12-13 houdende de herverdeling van begrotingsartikel GB0/1GB-D-2-E/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 8 juli 2011 houdende regeling van de begroting, de   boekhouding, de toekenning van subsidies en de controle op de aanwending ervan,   en de controle door het Rekenhof, gewijzigd bij de decreten van 13 juli 2012, 9   november 2012 en 5 juli 2013;<BR></P>  <P>Gelet op het decreet van 21 december 2012 houdende de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2012,   artikel 61 en 62;<BR></P>  <P>Gelet op het decreet van 28 juni 2013 houdende aanpassing van de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar   2013;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 11 december 2013;<BR></P>  <P>Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. 1.
+
+De kredieten, ingeschreven onder de begrotingsartikelen van de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013,   worden herverdeeld overeenkomstig de onderstaande tabel :<BR>(in duizend EUR)   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD rowSpan=2>begrotingsartikel       <TD rowSpan=2>basisallocatie       <TD rowSpan=2>Kredietsoort       <TD colSpan=2 align=middle>van       <TD colSpan=2 align=middle>naar <BR>    <TR>      <TD>VAK       <TD>VEK       <TD>VAK       <TD>VEK <BR>    <TR>      <TD>GB0/1GB-D-2-E/PR       <TD>GB0 GB002 0100       <TD>VAK/VEK       <TD>6.263       <TD>6.007       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>GB0/1GB/D-2-Z/PR       <TD>GB0 GB007 0100       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp; 539       <TD>&nbsp;       <TD>&nbsp;<BR>    <TR>      <TD>GB0/1GC-D-2-E/WT       <TD>GB0 GC005 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>5.265       <TD>5.548 <BR>    <TR>      <TD>GE0/1GD-D-2-F/WT       <TD>GE0 GD329 3432       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>566       <TD>566 <BR>    <TR>      <TD>JC0/1JD-G-2-D/WT       <TD>JC0 JD201 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>13       <TD>13 <BR>    <TR>      <TD>JC0/1JD-G-2-D/WT       <TD>JC0 JD202 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>16       <TD>16 <BR>    <TR>      <TD>JC0/1JE-F-2-A/WT       <TD>JC0 JE202 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>81       <TD>81 <BR>    <TR>      <TD>JC0/1JE-F-2-A/WT       <TD>JC0 JE205 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>315       <TD>315 <BR>    <TR>      <TD>JC0/1JE-F-2-B/WT       <TD>JC0 JE204 3300       <TD>VAK/VEK       <TD>&nbsp;       <TD>&nbsp;       <TD>7       <TD>7     <TR>      <TD colSpan=3 align=middle>totaal       <TD>6.263       <TD>6.546       <TD>6.263       <TD>6.546<BR></TD></TR></TBODY></TABLE><BR>
+
+### ART. 2.
+
+&nbsp;Een afschrift van dit besluit wordt ter kennisgeving toegestuurd aan   het Vlaams Parlement, het Rekenhof en het Departement Financiën en   Begroting.<BR>
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen en voor het   gezondheidsbeleid, is belast met de uitvoering van dit   besluit.<BR>
