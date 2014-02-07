@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023661,
+  "title": "Decreet van 2013-12-20 houdende instemming met het cultureel samenwerkingsakkoord van 7 december 2012 tussen de Vlaamse Gemeenschap en de Franse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023661/VolledigDocument?datum=2014-02-07",
+  "source_sha256": "272288f023b7d0d9e74d1a10bb6d73575fa2eff8d91bbc86dbb79ae82dbe758d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023661&param=informatie",
+  "as_of": "2014-02-07",
+  "made": "2013-12-20",
+  "gazette": "2014-01-28",
+  "numac": 2014200212,
+  "document_start": "2014-02-07",
+  "document_end": null,
+  "in_force": "2014-02-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
