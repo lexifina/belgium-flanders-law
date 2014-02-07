@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023665,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 houdende de herverdeling van begrotingsartikel GB0/1GB-D-2-Z/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023665/VolledigDocument?datum=2014-02-07",
+  "source_sha256": "cc725667adf99ff2bc8f5f0277df7716c16e164fbfe92c5c31306d4ed6e35c40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023665&param=informatie",
+  "as_of": "2014-02-07",
+  "made": "2013-12-13",
+  "gazette": "2014-01-28",
+  "numac": 2014035059,
+  "document_start": "2014-02-07",
+  "document_end": null,
+  "in_force": "2014-02-07",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
