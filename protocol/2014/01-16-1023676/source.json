@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023676,
+  "title": "Protocol van 2014-01-16 tussen de Federale Staat en de Gewesten inzake niet voor menselijke consumptie bestemde dierlijke bijproducten",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023676/VolledigDocument?datum=2014-02-08",
+  "source_sha256": "04860d2570665515c013f7144374df173fc8cd6c30563cc06b9a1ed430200deb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023676&param=informatie",
+  "as_of": "2014-02-08",
+  "made": "2014-01-16",
+  "gazette": "2014-01-29",
+  "numac": 2013024434,
+  "document_start": "2014-02-08",
+  "document_end": null,
+  "in_force": "2014-02-08",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2014-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
