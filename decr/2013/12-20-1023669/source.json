@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023669,
+  "title": "Decreet van 2013-12-20 betreffende de Cultuurprijzen van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023669/VolledigDocument?datum=2014-02-08",
+  "source_sha256": "337f39b345822e25548950ca4bba1cf8357411389e5998ae0c3907e7b0d06f7c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023669&param=informatie",
+  "as_of": "2014-02-08",
+  "made": "2013-12-20",
+  "gazette": "2014-01-29",
+  "numac": 2014200192,
+  "document_start": "2014-02-08",
+  "document_end": null,
+  "in_force": "2014-02-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
