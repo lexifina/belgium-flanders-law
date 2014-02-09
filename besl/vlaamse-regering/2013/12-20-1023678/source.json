@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023678,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 houdende de herverdeling van de SALK2-provisie van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023678/VolledigDocument?datum=2014-02-09",
+  "source_sha256": "bbbf442dfc9fe95a21ba6108303976b131b3183386f7241c0e0440ea1d5bd57e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023678&param=informatie",
+  "as_of": "2014-02-09",
+  "made": "2013-12-20",
+  "gazette": "2014-01-30",
+  "numac": 2014035064,
+  "document_start": "2014-02-09",
+  "document_end": null,
+  "in_force": "2014-02-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
