@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023680,
+  "title": "Ministerieel besluit van 2014-01-08 tot vaststelling van de subsidiabele uitgaven voor de oproep voor de indiening van aanvragen voor de toekenning van investeringssubsidies aan vergunde toeristische logiezen om gebouwen, installaties, inrichtingen en voorzieningen op te richten of te moderniseren voor het jaar 2014 en 2015 (categorieën hotels, gastenkamers, openluchtrecreatieve terreinen en vakantiewoningen)",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023680/VolledigDocument?datum=2014-02-09",
+  "source_sha256": "35e916afd647048d3de79b87aea023f05ce113e5ac040c8163eb3fbb21d241b3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023680&param=informatie",
+  "as_of": "2014-02-09",
+  "made": "2014-01-08",
+  "gazette": "2014-01-30",
+  "numac": 2014035087,
+  "document_start": "2014-02-09",
+  "document_end": null,
+  "in_force": "2014-02-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-02-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
