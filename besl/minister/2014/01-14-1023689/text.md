@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2014-01-14 tot wijziging van het ministerieel besluit van 27 september 2011 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010, wat betreft de erkenning van VZW Koudbloed koepel voor het bijhouden van het stamboek voor het ras Boulonnais
+
+### Aanhef
+
+<P>De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en   Plattelandsbeleid,<BR></P>  <P>Gelet op de wet van 20 juni 1956 betreffende de verbetering van de rassen van   voor de landbouw nuttige huisdieren, artikel 1, vervangen bij het decreet van 12   december 2008, en artikel 1bis, hersteld bij het decreet van 12 december   2008;<BR></P>  <P>Gelet op het Fokkerijbesluit van 19 maart 2010, artikel 4;<BR></P>  <P>Gelet op het ministerieel besluit van 27 september 2011 tot erkenning van;   verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5,   6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010; <BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 6 januari   2013;<BR></P>  <P>Overwegende dat de VZW Koudbloed koepel op 23 mei 2011 een aanvraag tot   erkenning heeft ingediend voor het bijhouden van het stamboek voor paarden van   het ras Boulonnais en die aanvraag op 4 december 2013 heeft   vervolledigd,<BR></P>  <P>Besluit : <BR></P>
+
+### Enig artikel.
+
+In artikel 1 van het ministerieel besluit van 27 september 2011 tot   erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van   artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010,   gewijzigd bij de ministeriële besluiten van 15 maart 2012 en 24 juli 2012, wordt   een punt 27° toegevoegd, dat luidt als volgt : <BR>"27° de VZW Koudbloed koepel,   met ondernemingsnummer 820.316.627, voor het bijhouden van een stamboek voor het   ras Boulonnais.".<BR>
