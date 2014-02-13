@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023765,
+  "title": "Decreet van 2013-12-20 tot wijziging van diverse bepalingen van het decreet van 22 december 2000 betreffende de amateurkunsten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023765/VolledigDocument?datum=2014-02-13",
+  "source_sha256": "095b695c346f751e4853bf095a0e88d72c167fec28044472dbc4277f8e7b153b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023765&param=informatie",
+  "as_of": "2014-02-13",
+  "made": "2013-12-20",
+  "gazette": "2014-02-03",
+  "numac": 2014200334,
+  "document_start": "2014-02-13",
+  "document_end": null,
+  "in_force": "2014-02-13",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2014-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
