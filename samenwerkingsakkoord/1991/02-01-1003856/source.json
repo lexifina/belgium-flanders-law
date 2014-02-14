@@ -2,16 +2,16 @@
   "codex_id": 1003856,
   "title": "Samenwerkingsakkoord van 1991-02-01 met betrekking op de inrichting van de commissies \"Internationale Samenwerking\" en \"Federale Samenwerking\" van de interministeriële conferentie voor wetenschapsbeleid",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003856/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "9df304e13756bc71abc089a45016791f9a81e03604bc595393f3600e06e4f82c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003856/VolledigDocument?datum=2014-02-14",
+  "source_sha256": "18d413dda95334714f0fe32ee96c292281d0068bc4892b0dbed687684d8125b1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003856&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-02-14",
   "made": "1991-02-01",
   "gazette": "1991-02-09",
   "numac": 0,
   "document_start": null,
   "document_end": "2014-02-13",
-  "in_force": "2006-06-01",
+  "in_force": "2014-02-14",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-02-14; future article versions excluded; article text as the API gives it"
 }
