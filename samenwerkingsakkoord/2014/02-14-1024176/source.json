@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024176,
+  "title": "Samenwerkingsakkoord van 2014-02-14 inzake de samenwerking van de Staat, de Gemeenschappen en de Gewesten op het gebied van wetenschapsbeleid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024176/VolledigDocument?datum=2014-02-14",
+  "source_sha256": "f6f01dd6302055923eba399007a65b221a22ffb1a1e2a294277ba3d4b21125df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024176&param=informatie",
+  "as_of": "2014-02-14",
+  "made": "2014-02-14",
+  "gazette": "2014-06-13",
+  "numac": 2014029347,
+  "document_start": "2014-02-14",
+  "document_end": null,
+  "in_force": "2014-02-14",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-02-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
