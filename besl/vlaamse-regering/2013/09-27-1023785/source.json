@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023785,
+  "title": "Besluit van de Vlaamse Regering van 2013-09-27 houdende de indeling en subsidiëring van musea bij het Vlaamse niveau voor de beleidsperiode 2014-2018 en de subsidiëring van samenwerkingsverbanden met het oog op internationale profilering voor de beleidsperiode 2014-2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023785/VolledigDocument?datum=2014-02-16",
+  "source_sha256": "6072f289b31efe90c9b08bcc97488a6e4bcb716af6a7e0573da94652ea272911",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023785&param=informatie",
+  "as_of": "2014-02-16",
+  "made": "2013-09-27",
+  "gazette": "2014-02-06",
+  "numac": 2014200684,
+  "document_start": "2014-02-16",
+  "document_end": null,
+  "in_force": "2014-02-16",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
