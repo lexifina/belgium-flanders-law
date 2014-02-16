@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023783,
+  "title": "Decreet van 2014-01-17 tot opheffing van artikel 158 van de Nieuwe Gemeentewet",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023783/VolledigDocument?datum=2014-02-16",
+  "source_sha256": "a8ace4e57609cc7b799f26560753266b02392a52dac6e3a11f86b7b62f61b803",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023783&param=informatie",
+  "as_of": "2014-02-16",
+  "made": "2014-01-17",
+  "gazette": "2014-02-06",
+  "numac": 2014035145,
+  "document_start": "2014-02-16",
+  "document_end": null,
+  "in_force": "2014-02-16",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
