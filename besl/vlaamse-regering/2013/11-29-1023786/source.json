@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023786,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie initiator",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023786/VolledigDocument?datum=2014-02-16",
+  "source_sha256": "665f5e4db10e994e9b6d40dcfe5ba6aceb8d7fd7e75c9d77407d2ddc5071d7f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023786&param=informatie",
+  "as_of": "2014-02-16",
+  "made": "2013-11-29",
+  "gazette": "2014-02-06",
+  "numac": 2014035125,
+  "document_start": "2014-02-16",
+  "document_end": null,
+  "in_force": "2014-02-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
