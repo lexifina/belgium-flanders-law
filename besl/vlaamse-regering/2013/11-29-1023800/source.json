@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023800,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie kassier",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023800/VolledigDocument?datum=2014-02-20",
+  "source_sha256": "cefc82d3a46e8039e443c844dd696fda7cf1d2e5b9bc591996e8773cc85df3cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023800&param=informatie",
+  "as_of": "2014-02-20",
+  "made": "2013-11-29",
+  "gazette": "2014-02-10",
+  "numac": 2014035136,
+  "document_start": "2014-02-20",
+  "document_end": "2020-05-17",
+  "in_force": "2014-02-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
