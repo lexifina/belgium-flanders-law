@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023804,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie [medewerker ruwbouw (verv. MB 28 februari 2020, art. 1, I: 22 juni 2020)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023804/VolledigDocument?datum=2014-02-20",
+  "source_sha256": "4d3fc0e936345a2f744f92f0cf1ceb9df003c3132826e91367b4b20adfd781ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023804&param=informatie",
+  "as_of": "2014-02-20",
+  "made": "2013-11-29",
+  "gazette": "2014-02-10",
+  "numac": 2014035128,
+  "document_start": "2014-02-20",
+  "document_end": null,
+  "in_force": "2014-02-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
