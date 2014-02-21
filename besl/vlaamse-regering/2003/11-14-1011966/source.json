@@ -2,16 +2,16 @@
   "codex_id": 1011966,
   "title": "Besluit van de Vlaamse Regering van 2003-11-14 tot uitvoering van het decreet van 15 juni 1994 betreffende de milieubeleidsovereenkomsten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011966/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6fb5b9c9c2322c3ffc88b8026eb594f5cfc507707d6b696e70e95212be2ae351",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011966/VolledigDocument?datum=2014-02-21",
+  "source_sha256": "35385298e1a85277a1159e462b51dba8df5bdbe39298db5cb056c3c43f06d97a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011966&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-02-21",
   "made": "2003-11-14",
   "gazette": "2004-01-06",
   "numac": 2003036238,
   "document_start": null,
   "document_end": "2014-02-20",
-  "in_force": "2006-06-01",
+  "in_force": "2014-02-21",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-02-21; future article versions excluded; article text as the API gives it"
 }
