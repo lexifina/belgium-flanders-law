@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023807,
+  "title": "Decreet van 2014-01-17 tot wijziging van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023807/VolledigDocument?datum=2014-02-21",
+  "source_sha256": "85613cbe19993e7eeacd4326c1ae29ba2b5fabce3a6cea1c4444dab1d3cff3c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023807&param=informatie",
+  "as_of": "2014-02-21",
+  "made": "2014-01-17",
+  "gazette": "2014-02-11",
+  "numac": 2014200758,
+  "document_start": "2014-02-21",
+  "document_end": null,
+  "in_force": "2014-02-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
