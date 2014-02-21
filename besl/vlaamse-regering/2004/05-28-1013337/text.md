@@ -6,11 +6,11 @@
 
 ### ART. 2.
 
-De exclusieve rechten op de in artikel 1, § 1 vermelde evenementen kunnen niet zodanig worden uitgeoefend dat zij een belangrijk deel van de bevolking verhinderen deze evenementen te volgen op kosteloze televisie.<br /><br />Een belangrijk deel van de bevolking in de Vlaamse Gemeenschap wordt geacht een evenement van aanzienlijk belang voor de samenleving op kosteloze televisie te kunnen volgen wanneer het evenement wordt uitgezonden door een televisieomroep die in het Nederlands uitzendt en die door ten minste 90 % van de bevolking kan worden ontvangen zonder extra betaling bovenop de prijs van het kabelabonnement.
+<P>...</P>
 
 ### ART. 3.
 
-§ 1. Televisieomroepen die niet voldoen aan de bepalingen van artikel 2 en die exclusieve uitzendrech-ten voor uitzending in het Nederlandse taalgebied en het tweetalig gebied Brussel-Hoofdstad verwerven voor de sub artikel 1, § 1, vermelde evenementen, kunnen deze rechten niet uitoefenen tenzij zij via afgesloten overeenkomsten kunnen waarborgen dat een belangrijk deel van de bevolking niet verhinderd zal worden deze evenementen te volgen op kosteloze televisie zoals bepaald in artikel 1, § 2 en artikel 2.<br /><br />§ 2. Televisieomroepen die exclusieve uitzendrechten hebben, kunnen sublicenties verlenen tegen redelijke marktprijzen en binnen tussen de omroepen in onderling overleg af te spreken termijnen aan omroepen die voldoen aan de bepalingen van artikel 2.<br /><br />§ 3. Indien geen enkele omroep bereid wordt gevonden om onder deze voorwaarden sublicenties te nemen, mag de betrokken omroep in afwijking van de bepalingen uit artikel 2 en artikel 3, § 1, alsnog gebruik maken van de verworven uitzendrechten.
+<P>...</P>
 
 ### ART. 4.
 

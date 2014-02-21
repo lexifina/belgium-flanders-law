@@ -2,16 +2,16 @@
   "codex_id": 1013337,
   "title": "Besluit van de Vlaamse Regering van 2004-05-28 houdende vaststelling van de lijst van evenementen van aanzienlijk belang voor de samenleving",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013337/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a9e667021e251fdbef5f1de8acb184703d356ade3ed5cb63c2b9c5296aff5f05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013337/VolledigDocument?datum=2014-02-21",
+  "source_sha256": "281cc86baf0f56d696df5908608f1123d6138368c009a7ccd9c09c077b39a6cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013337&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-02-21",
   "made": "2004-05-28",
   "gazette": "2004-08-19",
   "numac": 2004036327,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2014-02-21",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-02-21; future article versions excluded; article text as the API gives it"
 }
