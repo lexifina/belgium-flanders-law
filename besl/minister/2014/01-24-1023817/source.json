@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023817,
+  "title": "Ministerieel besluit van 2014-01-24 tot vaststelling van de vereisten waaraan een geluidzorgsysteem in digitale bioscopen moet voldoen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023817/VolledigDocument?datum=2014-02-22",
+  "source_sha256": "990eb2c785e60a6a04cf4c23c79e6a7a99527c2316cf4355ae73a762e4a52feb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023817&param=informatie",
+  "as_of": "2014-02-22",
+  "made": "2014-01-24",
+  "gazette": "2014-02-12",
+  "numac": 2014035180,
+  "document_start": "2014-02-22",
+  "document_end": null,
+  "in_force": "2014-02-22",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2014-02-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
