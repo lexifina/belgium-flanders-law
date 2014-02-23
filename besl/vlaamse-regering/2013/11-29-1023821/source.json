@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023821,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie maître d'hôtel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023821/VolledigDocument?datum=2014-02-23",
+  "source_sha256": "26535ddbfca4451aa455e8e128bd3f50acaaddcecaae65a98a6786cd3e90afb1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023821&param=informatie",
+  "as_of": "2014-02-23",
+  "made": "2013-11-29",
+  "gazette": "2014-02-13",
+  "numac": 2014035135,
+  "document_start": "2014-02-23",
+  "document_end": null,
+  "in_force": "2014-02-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
