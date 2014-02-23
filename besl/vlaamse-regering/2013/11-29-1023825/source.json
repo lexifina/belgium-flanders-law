@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023825,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie trainer B",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023825/VolledigDocument?datum=2014-02-23",
+  "source_sha256": "fc6a6087e7d208f2c4ed4319ae443f82c7ee8ec684b3f99f758fc13f37326290",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023825&param=informatie",
+  "as_of": "2014-02-23",
+  "made": "2013-11-29",
+  "gazette": "2014-02-13",
+  "numac": 2014035142,
+  "document_start": "2014-02-23",
+  "document_end": null,
+  "in_force": "2014-02-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
