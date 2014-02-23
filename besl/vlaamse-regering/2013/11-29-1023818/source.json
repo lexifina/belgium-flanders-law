@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023818,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie [winkelmedewerker (verv. MB 28 februari 2020, art. 1, I: 19 juli 2020)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023818/VolledigDocument?datum=2014-02-23",
+  "source_sha256": "3f67c9d569b89dcd72d069a9ad5acc82e84e64106154f32848f98c55570ce316",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023818&param=informatie",
+  "as_of": "2014-02-23",
+  "made": "2013-11-29",
+  "gazette": "2014-02-13",
+  "numac": 2014035131,
+  "document_start": "2014-02-23",
+  "document_end": null,
+  "in_force": "2014-02-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
