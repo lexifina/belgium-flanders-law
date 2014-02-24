@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024199,
+  "title": "Protocol van 2014-02-24 inzake de medische beeldvorming",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024199/VolledigDocument?datum=2014-02-24",
+  "source_sha256": "f6e9770fa251a34e3778a52402624f021630d7815ff0d21bd1a4a64ebb7cdc4f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024199&param=informatie",
+  "as_of": "2014-02-24",
+  "made": "2014-02-24",
+  "gazette": "2014-06-20",
+  "numac": 2014024135,
+  "document_start": "2014-02-24",
+  "document_end": null,
+  "in_force": "2014-02-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
