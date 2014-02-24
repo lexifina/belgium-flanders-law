@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023835,
+  "title": "Ministerieel besluit van 2014-01-30 houdende de bepaling van de inkomsten die in aanmerking worden genomen voor de berekening van het maandelijkse netto-inkomen en de vaststelling van de methodiek met betrekking tot het solvabiliteitsonderzoek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023835/VolledigDocument?datum=2014-02-24",
+  "source_sha256": "53d38ea0c86e4a8afacc2c927fa0ddf428e75bda5fea168349e1ca074af100ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023835&param=informatie",
+  "as_of": "2014-02-24",
+  "made": "2014-01-30",
+  "gazette": "2014-02-14",
+  "numac": 2014200903,
+  "document_start": "2014-02-24",
+  "document_end": null,
+  "in_force": "2014-02-24",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
