@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023831,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-10 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de banking van groenestroomcertificaten en warmtekrachtcertificaten door de netbeheerders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023831/VolledigDocument?datum=2014-02-24",
+  "source_sha256": "30381f98d142f466fa73a7c84b9df9042f8c10183ec8733c65ec34562a755d3f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023831&param=informatie",
+  "as_of": "2014-02-24",
+  "made": "2014-01-10",
+  "gazette": "2014-02-14",
+  "numac": 2014201023,
+  "document_start": "2014-02-24",
+  "document_end": null,
+  "in_force": "2014-02-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-02-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
