@@ -60,7 +60,7 @@ De personeelssubsidies worden toegekend op basis van de salarisschalen en   de d
 
 ### ART. 12.
 
-Als de persoon met een handicap een beroep doet op ondersteuning vanuit   voorzieningen, erkend en gesubsidieerd door het agentschap, die niet   rechtstreeks toegankelijk is, kan hij niet gebruikmaken van de rechtstreeks   toegankelijke hulp.<BR>
+Als de persoon met een handicap&nbsp;met uitzondering van minderjarigen en   van personen die een voortzetting van de jeugdhulpverlening hebben gevraagd als   vermeld in artikel 18, § 3 van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp een beroep doet op ondersteuning vanuit voorzieningen,   erkend en gesubsidieerd door het agentschap, die niet rechtstreeks toegankelijk   is, kan hij niet gebruikmaken van de rechtstreeks toegankelijke   hulp.<BR>
 
 ### ART. 13.
 
