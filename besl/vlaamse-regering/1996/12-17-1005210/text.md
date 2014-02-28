@@ -12,7 +12,7 @@ Het agentschap kan overeenkomstig de bepalingen van dit besluit en binnen   de g
 
 ### ART. 3.
 
-§ 1. Voor personen met een handicap die gebruik maken van andere diensten,   erkend door Jongerenwelzijn, Kind en Gezin of het agentschap, die   opvoedingsbijstand verlenen, is het aantal begeleidingen beperkt tot twaalf   begeleidingen per jaar.<BR><BR>De minister bepaalt de diensten, vermeld in het   eerste lid.<BR><BR>§ 2. De opvoedingsbijstand zoals bedoeld bij artikel 1, 5°   kan aan gezinnen met een gehandicapte volwassene verstrekt worden als zij in een   probleemsituatie verkeren waardoor het gewone samenlevingspatroon van het gezin   zodanig beïnvloed wordt dat een tijdelijke ondersteuning gewenst   is.
+§ 1. Voor personen met een handicap die gebruik maken van andere diensten,   erkend door Jongerenwelzijn, Kind en Gezin of het agentschap, die   opvoedingsbijstand verlenen, is het aantal begeleidingen beperkt tot twaalf   begeleidingen per jaar met uitzondering van jeugdhulpverlening die wordt   aangeboden in uitvoering van een jeugdhulpbeslissing van de toegangspoort,   vermeld in artikel 2, 27° van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp.<BR><BR>De minister bepaalt de diensten, vermeld in het   eerste lid.<BR><BR>§ 2. De opvoedingsbijstand zoals bedoeld bij artikel 1, 5°   kan aan gezinnen met een gehandicapte volwassene verstrekt worden als zij in een   probleemsituatie verkeren waardoor het gewone samenlevingspatroon van het gezin   zodanig beïnvloed wordt dat een tijdelijke ondersteuning gewenst   is.
 
 ## HOOFDSTUK II PROGRAMMATIE
 
