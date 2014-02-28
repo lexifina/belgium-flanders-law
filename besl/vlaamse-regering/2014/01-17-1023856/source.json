@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023856,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-17 tot wijziging van diverse artikelen van en tot invoeging van artikel 5.2, 8.4 en 8.5 in het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling van handelingen waarvoor geen stedenbouwkundige vergunning nodig is",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023856/VolledigDocument?datum=2014-02-28",
+  "source_sha256": "d1321b0eb80054dd4ce9a12bf324dfa3181d996114e6b0bb2f030fc412f51f9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023856&param=informatie",
+  "as_of": "2014-02-28",
+  "made": "2014-01-17",
+  "gazette": "2014-02-18",
+  "numac": 2014035165,
+  "document_start": "2014-02-28",
+  "document_end": null,
+  "in_force": "2014-02-28",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2014-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
