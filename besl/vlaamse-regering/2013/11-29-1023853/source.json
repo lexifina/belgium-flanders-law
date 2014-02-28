@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023853,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie operator snijafdeling kleding, confectie en meubelstoffering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023853/VolledigDocument?datum=2014-02-28",
+  "source_sha256": "1da08003ea53ecee701edbf46f3fe1c4597ae227279136b85f03bff946039e2b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023853&param=informatie",
+  "as_of": "2014-02-28",
+  "made": "2013-11-29",
+  "gazette": "2014-02-18",
+  "numac": 2014035138,
+  "document_start": "2014-02-28",
+  "document_end": null,
+  "in_force": "2014-02-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
