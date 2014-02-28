@@ -205,7 +205,7 @@ Binnen de perken van de hiervoor op zijn begroting ingeschreven kredieten kan he
 
 ### ART. 37.
 
-Het Platform heeft de volgende taken :<br />1° het versterken van de positie van personen met een handicap met het oog op de opdrachten van het ROG door vertegenwoordigers van de verenigingen van personen met een handicap in de werking van het ROG aan te wijzen en te ondersteunen;<br />2° het informeren van de personen met een handicap over de zorgvraagregistratie en de zorgbemiddeling;<br />3° het begeleiden van personen met een handicap bij :<br />a) het inleiden van klachten over de zorgvraagregistratie;<br />b) het inleiden van klachten over de zorgbemiddeling.<br /><br />
+Het Platform heeft de volgende taken :<BR>1° het versterken van de positie   van personen met een handicap met het oog op de opdrachten van het ROG door   vertegenwoordigers van de verenigingen van personen met een handicap in de   werking van het ROG aan te wijzen en te ondersteunen;<BR>1° /1 het versterken   van de positie van personen met een handicap door vertegenwoordigers van de   verenigingen van personen met een handicap aan te wijzen als lid van de   Intersectorale Regionale Prioriteitencommissie, vermeld in artikel 26, § 1,   eerste lid, 5°, en derde lid, van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp, en hen voor dat lidmaatschap te ondersteunen;<BR>2° het   informeren van de personen met een handicap over de zorgvraagregistratie en de   zorgbemiddeling;<BR>3° het begeleiden van personen met een handicap bij :<BR>a)   het inleiden van klachten over de zorgvraagregistratie;<BR>b) het inleiden van   klachten over de zorgbemiddeling.<BR><BR>
 
 ## HOOFDSTUK III Erkenning en werking
 
