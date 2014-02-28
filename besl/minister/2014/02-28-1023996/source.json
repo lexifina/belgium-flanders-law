@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023996,
+  "title": "Ministerieel besluit van 2014-02-28 houdende vaststelling van de Herculessleutel voor het begrotingsjaar 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023996/VolledigDocument?datum=2014-02-28",
+  "source_sha256": "a8b5a441b4dd87598cd8d7be619ebd2b6a1a6b88a0a48971be3b9a0f9ef333e8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023996&param=informatie",
+  "as_of": "2014-02-28",
+  "made": "2014-02-28",
+  "gazette": "2014-04-09",
+  "numac": 2014035301,
+  "document_start": "2014-02-28",
+  "document_end": null,
+  "in_force": "2014-02-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
