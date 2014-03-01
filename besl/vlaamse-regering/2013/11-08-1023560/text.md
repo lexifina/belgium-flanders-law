@@ -274,6 +274,18 @@ Het attest vervalt als het verblijf van het pleegkind of de pleeggast in   het p
 
 ## [Afdeling 2/1 Bezwaar tegen de weigering of intrekking van een attest (ing. BVR 14 febuari 2014, art. 2, I: 1 maart 2014)]
 
+### ART. 60/1.
+
+Op straffe van niet-ontvankelijkheid kan de kandidaat-pleegzorger of   pleegzorger tot uiterlijk dertig kalenderdagen na de ontvangst van de beslissing   die volgt op een herscreening als vermeld in artikel 55, § 2, derde lid, artikel   56, derde lid, of artikel 59, tweede lid, tegen die beslissing met een   aangetekende zending een gemotiveerd bezwaarschrift indienen bij het   secretariaat van de Adviescommissie.
+
+### ART. 60/2.
+
+De Adviescommissie behandelt het bezwaarschrift, vermeld in artikel 60/1   van dit besluit, volgens de regels, vermeld in hoofdstuk 5/1 van het besluit van   de Vlaamse Regering van 12 juli 2013 betreffende de Adviescommissie voor   Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.   De dienst voor pleegzorg die na een herscreening van de kandidaat-pleegzorger of   de pleegzorger de beslissing heeft genomen waartegen het bezwaar is gericht, en   de dienst voor pleegzorg van de verblijfplaats van de kandidaat-pleegzorger of   pleegzorger verlenen daaraan hun medewerking conform de bepalingen van dat   hoofdstuk.
+
+### ART. 60/3.
+
+Binnen dertig kalenderdagen na de ontvangst van het advies van de   Adviescommissie deelt de dienst voor pleegzorg van de verblijfplaats van de   kandidaat-pleegzorger of pleegzorger zijn gemotiveerde beslissing over het   bezwaarschrift, vermeld in artikel 60/1 van dit besluit, met een aangetekende   zending mee aan de kandidaat-pleegzorger of pleegzorger. Overeenkomstig artikel   15, tweede lid, van het decreet van 7 december 2007 houdende de oprichting van   de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en   Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn,   Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers kan de dienst over het   bezwaarschrift pas een beslissing nemen na ontvangst van het advies van de   Adviescommissie. Als echter de Adviescommissie haar advies niet heeft meegedeeld   binnen de daarvoor bepaalde termijn, deelt de dienst zijn gemotiveerde   beslissing over het bezwaarschrift met een aangetekende zending mee aan de   kandidaat-pleegzorger of pleegzorger binnen dertig kalenderdagen na het   verstrijken van die termijn.
+
 ## Afdeling 3 Registratie van weigering en intrekking van attest
 
 ### ART. 61.
