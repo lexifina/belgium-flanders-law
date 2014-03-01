@@ -29,6 +29,11 @@ Na beraadslaging,<br>
 Besluit :<br>
 &nbsp;
 
+### ART 89.
+
+In de tabel van artikel VII 31 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt tussen het woord "ambt," en het woord "de" de zinsnede "de toelage voor tijdelijke functieverzwaring," ingevoegd.<br>
+&nbsp;
+
 ### ART 93.
 
 In deel VII, titel 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt hoofdstuk 4, bestaande uit artikel VII 86, opgeheven.<br>
