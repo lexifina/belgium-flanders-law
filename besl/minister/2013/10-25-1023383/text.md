@@ -8,6 +8,10 @@
 
 <P>De begeleidingen die door een dienst Ondersteuningsplan verstrekt zijn aan   personen met een handicap die kandidaat zijn voor een project   woongarantie-ondersteuningsgarantie, ook als ze reeds ondersteuning genieten van   een andere dienst of voorziening, erkend en gesubsidieerd door het Vlaams   Agentschap voor Personen met een Handicap, komen in aanmerking voor   subsidiëring. <BR></P>  <P>Onder project woongarantie-ondersteuningsgarantie wordt verstaan : een   project zoals omschreven in punt 4 van de omzendbrief "inzet bijkomende middelen   2013" van 22 november 2012 van het Vlaams Agentschap voor Personen met een   handicap. <BR></P>
 
+### ART. 1/1.
+
+De begeleidingen die door een dienst Ondersteuningsplan verstrekt zijn aan   personen met een handicap vanaf zeventien jaar die ondersteund worden door een   minderjarigenvoorziening, komen in aanmerking voor subsidiëring.<BR><BR>Onder   minderjarigenvoorziening wordt verstaan: een voorziening, erkend en   gesubsidieerd door het Vlaams Agentschap voor Personen met een Handicap om   minderjarige personen met een handicap te ondersteunen.
+
 ### ART. 2.
 
 Dit besluit treedt in werking op 1 oktober 2013.<BR>
