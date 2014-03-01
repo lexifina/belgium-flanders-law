@@ -116,6 +116,22 @@ De bepalingen van hoofdstuk 3, afdeling 2 en 3, en hoofdstuk 4 doen geen   afbre
 
 ## [HOOFDSTUK 5/1. Specifieke regeling voor de behandeling van bezwaren van kandidaat-pleegzorgers en pleegzorgers (ing. BVR 14 februari 2014, art. 1, I: 1 maart 2014)]
 
+### ART. 23/1.
+
+In afwijking van artikel 7, 8, 10, 12, § 1, artikel 13, 14 en 22 van dit   besluit zijn de bepalingen van dit hoofdstuk van toepassing op de behandeling   van bezwaarschriften van kandidaat-pleegzorgers of pleegzorgers, vermeld in   artikel 14, § 5, tweede lid, van het decreet van 29 juni 2012 houdende de   organisatie van pleegzorg.
+
+### ART. 23/2.
+
+In dit artikel wordt verstaan onder:<BR>1° pleegzorger: een meerderjarige   natuurlijke persoon die een of meer minderjarige of meerderjarige natuurlijke   personen in het eigen gezin opvangt;<BR>2° dienst voor pleegzorg: een dienst als   vermeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie   van pleegzorg, die vergund is met toepassing van hoofdstuk 3, afdeling 3, van   het voormelde decreet.<BR><BR>Het secretariaat beoordeelt de ontvankelijkheid   van het bezwaarschrift van de kandidaat-pleegzorger of pleegzorger volgens   artikel 60/1 van het besluit de Vlaamse Regering van 8 november 2013 houdende de   organisatie van pleegzorg. Als het bezwaarschrift niet ontvankelijk is, deelt   het secretariaat dat binnen vijftien kalenderdagen na de ontvangst ervan mee aan   de indiener van het bezwaar, met vermelding van de reden.<BR><BR>Het   secretariaat bezorgt het ontvankelijke bezwaarschrift binnen vijftien   kalenderdagen na de ontvangst ervan, met een aangetekende zending aan de dienst   voor pleegzorg die na een herscreening van de kandidaat-pleegzorger of de   pleegzorger de beslissing heeft genomen waartegen het bezwaar is gericht, en aan   de dienst voor pleegzorg van de verblijfplaats van de kandidaat-pleegzorger of   pleegzorger. Met dezelfde zending vraagt het secretariaat bij de voormelde   diensten de relevante dossierstukken op. Die diensten bezorgen de dossierstukken   binnen vijftien kalenderdagen na de ontvangst van de vraag met een aangetekende   zending aan het secretariaat.<BR><BR>Het secretariaat deelt aan de indiener van   het bezwaar en aan de betrokken diensten voor pleegzorg mee wanneer de termijn,   vermeld in artikel 23/4, een aanvang neemt.<BR><BR>De stukken, vermeld in het   derde lid, en eventueel aanvullende stukken die door de indiener van het bezwaar   of door de betrokken diensten voor pleegzorg worden aangereikt, liggen tot de   dag voor de behandeling van het bezwaar ter inzage op het   secretariaat.
+
+### ART. 23/3.
+
+Het bezwaar wordt behandeld door de kamer voor   welzijnsvoorzieningen.<BR><BR>De kamer, vermeld in het eerste lid, hoort de   indiener van het bezwaar als die daarom heeft verzocht in zijn bezwaarschrift.   Ze hoort ook de beide diensten voor pleegzorg, vermeld in artikel 23/2, derde   lid. De uitnodigingen daarvoor worden uiterlijk de achtste dag voor de   vergadering van de kamer met een aangetekende brief verstuurd. De indiener van   het bezwaar en de voormelde diensten voor pleegzorg kunnen zich tijdens de   vergadering laten bijstaan of vertegenwoordigen door een of meer personen die ze   daarvoor aanwijzen. Ze kunnen nog stukken neerleggen om hun mondelinge   uiteenzetting te staven.
+
+### ART. 24/4.
+
+Het secretariaat bezorgt het advies van de kamer, vermeld in artikel 23/3,   gelijktijdig aan de indiener van het bezwaar en aan de diensten voor pleegzorg,   vermeld in artikel 23/2, derde lid, uiterlijk vijfenzeventig kalenderdagen nadat   het secretariaat de relevante dossierstukken van de voormelde diensten heeft   ontvangen.<BR><BR>De voorzitter van de kamer kan bij een gemotiveerde beslissing   die termijn, vermeld in het eerste lid, met dertig dagen verlengen. De indiener   van het bezwaar en de betrokken diensten voor pleegzorg worden onmiddellijk op   de hoogte gebracht van de verlenging.
+
 ## HOOFDSTUK 6. Wijzigingsbepalingen
 
 ## Afdeling 1. Wijzigingen van het besluit van de Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen
