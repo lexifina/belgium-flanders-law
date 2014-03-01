@@ -16,7 +16,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° agentschap : 
 
 ### ART. 2.
 
-§ 1. Zorgregie heeft tot doel :<br />1° een transparant en rechtvaardig opname- en bemiddelingsbeleid te realiseren;<br />2° het bestaande aanbod af te stemmen op de vraag;<br />3° een gefundeerde planning van het nieuwe aanbod te realiseren.<br /><br />§ 2. Met het oog op het bereiken van de doelstellingen, vermeld in § 1, worden alle noodzakelijke gegevens verzameld en geïntegreerd in een centrale gegevensbank. Die gegevens worden verwerkt en ze worden samen met de informatie die eruit voortvloeit ter beschikking gesteld van de betrokken actoren.<br /><br />
+§ 1. Zorgregie heeft tot doel om met betrekking tot de ondersteuning die   georganiseerd wordt door het Vlaams Agentschap voor Personen met een Handicap   met uitzondering van de jeugdhulpverlening, vermeld in artikel 3, § 2, 5°, van   het decreet van 12 juli 2013 betreffende de integrale jeugdhulp:<BR>1° een   transparant en rechtvaardig opname- en bemiddelingsbeleid te realiseren;<BR>2°   het bestaande aanbod af te stemmen op de vraag;<BR>3° een gefundeerde planning   van het nieuwe aanbod te realiseren.<BR><BR>§ 2. Met het oog op het bereiken van   de doelstellingen, vermeld in § 1, worden alle noodzakelijke gegevens verzameld   en geïntegreerd in een centrale gegevensbank. Die gegevens worden verwerkt en ze   worden samen met de informatie die eruit voortvloeit ter beschikking gesteld van   de betrokken actoren.<BR><BR>
 
 ## HOOFDSTUK II Regionaal Overlegnetwerk Gehandicaptenzorg
 
@@ -48,7 +48,7 @@ Het coördinatiepunt heeft de volgende taken :<br />1° het vervolledigt de gege
 
 ### ART. 8/1.
 
-Het ROG richt in elke provincie minstens één regionale prioriteitencommissie op die als volgt is samengesteld : <br />1° een evenredige vertegenwoordiging van : <br />a) de verenigingen van personen met een handicap;<br />b) de voorzieningen;<br />c) de verwijzende instanties;<br />2° een ambtenaar die aangewezen wordt door de leidend ambtenaar van het agentschap.<br /><br />De leden, vermeld in het eerste lid, punt 1° en 2°, hebben elk één stem.<br /><br />Het ROG stelt een huishoudelijk reglement op over de werking van de regionale prioriteitencommissie en stuurt de regionale prioriteitencommissie aan.<br /><br />Het coördinatiepunt zorgt voor de logistieke en inhoudelijke ondersteuning.
+Het ROG richt in elke provincie minstens één regionale   prioriteitencommissie op die als volgt is samengesteld : <BR>1° een evenredige   vertegenwoordiging van : <BR>a) de verenigingen van personen met een   handicap;<BR>b) de voorzieningen;<BR>c) de verwijzende instanties;<BR>2° een   ambtenaar die aangewezen wordt door de leidend ambtenaar van het   agentschap.<BR><BR>De leden, vermeld in het eerste lid, punt 1° en 2°, hebben   elk één stem.<BR><BR>Het ROG stelt een huishoudelijk reglement op van de   regionale prioriteitencommissie. Het huishoudelijk reglement behandelt minstens   de volgende punten:<BR>1° de vergaderfrequentie;<BR>2° de praktische   werking;<BR>3° in welke gevallen en op welke wijze een aanvraag kan worden   ingediend om herziening van een weigering van de regionale prioriteitencommissie   om een zorgvraag als prioritair te bemiddelen zorgvraag te erkennen.<BR><BR>Het   coördinatiepunt zorgt voor de logistieke en inhoudelijke ondersteuning.
 
 ### ART. 8/2.
 
@@ -72,7 +72,7 @@ Het agentschap ontwikkelt een centrale gegevensbank waarin de basisgegevens over
 
 ### ART. 11.
 
-§ 1. Bij het agentschap wordt een permanente cel Zorgregie opgericht die als volgt is samengesteld :<br />1° vijf vertegenwoordigers van de ROG's, namelijk één vertegenwoordiger per ROG, die is voorgedragen door het bestuursorgaan van het ROG;<br />2° één vertegenwoordiger per vereniging van voorzieningen, die is voorgedragen door de verenigingen van voorzieningen;<br />3° vier ambtenaren, aangewezen door de leidend ambtenaar van het agentschap;<br />4° twee vertegenwoordigers van verwijzende instanties, die worden voorgedragen door de verwijzende instanties;<br />5° twee vertegenwoordigers van verenigingen van personen met een handicap, die worden voorgedragen door het Vlaams Platform;<br />6° twee ambtenaren, aangewezen door de provinciebesturen.<br /><br />§ 2. Het agentschap benoemt de leden van de permanente cel.<br /><br />
+§ 1. Bij het agentschap wordt een permanente cel Zorgregie opgericht die   als volgt is samengesteld :<BR>1° vijf vertegenwoordigers van de ROG's, namelijk   één vertegenwoordiger per ROG, die is voorgedragen door het bestuursorgaan van   het ROG;<BR>2° één vertegenwoordiger per vereniging van voorzieningen, die is   voorgedragen door de verenigingen van voorzieningen;<BR>3° vier ambtenaren,   aangewezen door de leidend ambtenaar van het agentschap;<BR>4° twee   vertegenwoordigers van verwijzende instanties, die worden voorgedragen door de   verwijzende instanties;<BR>5°&nbsp;vijf vertegenwoordigers van verenigingen van   personen met een handicap, die worden voorgedragen door het Vlaams   Platform;<BR>6° twee ambtenaren, aangewezen door de provinciebesturen.<BR><BR>§   2. Het agentschap benoemt de leden van de permanente cel.<BR><BR>
 
 ### ART. 12.
 
