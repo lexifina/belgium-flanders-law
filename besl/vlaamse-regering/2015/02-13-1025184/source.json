@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025184,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot wijziging van artikel 8 van het besluit van de Vlaamse Regering van 7 februari 2014 betreffende het Kwaliteitscentrum voor Diagnostiek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025184/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "40f4a6346ed458fa2ba9e761ddf5ae39f54c2b5d652a1c616b83833cb370aee3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025184&param=informatie",
+  "as_of": "2014-03-01",
+  "made": "2015-02-13",
+  "gazette": "2015-04-02",
+  "numac": 2015035393,
+  "document_start": "2014-03-01",
+  "document_end": null,
+  "in_force": "2014-03-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
