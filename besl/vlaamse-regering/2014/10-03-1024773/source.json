@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024773,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-03 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de invoering van de functieclassificatie, het topkader en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024773/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "8d49439a0c5bb6d9930f939ddd4ab087ce418a2886a2b08b66e0aa2c6f495083",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024773&param=informatie",
+  "as_of": "2014-03-01",
+  "made": "2014-10-03",
+  "gazette": "2014-12-09",
+  "numac": 2014036823,
+  "document_start": "2014-11-01",
+  "document_end": null,
+  "in_force": "2014-03-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
