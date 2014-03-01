@@ -24,7 +24,7 @@ Het agentschap en het team Jeugdhulpregie kunnen aan ten hoogste 2600   personen
 
 ### ART. 5.
 
-De deskundigencommissie, bedoeld in artikel 20, of het team   Indicatiestelling&nbsp;gaat bij de goedkeuring van de gemotiveerde aanvragen,   genoemd in artikel 2, § 2, als volgt te werk:<BR>1° ze onderzoekt of de   aanvrager aan de voorwaarden van artikel 2 voldoet en of hij zijn aanvraag heeft   ingediend volgens de procedure, vastgesteld in hoofdstuk IV;<BR>2° ze houdt   rekening met de programmatie, vastgesteld in artikel 4;<BR>3° ...
+De deskundigencommissie, bedoeld in artikel 20, of het team   Indicatiestelling&nbsp;gaat bij de goedkeuring van de gemotiveerde aanvragen,   genoemd in artikel 2, § 2, als volgt te werk:<BR>1° ze onderzoekt of de   aanvrager aan de voorwaarden van artikel 2 voldoet en of hij zijn aanvraag heeft   ingediend volgens de procedure, vastgesteld in hoofdstuk IV;<BR>2° ze houdt   rekening met de programmatie, vastgesteld in artikel 4;<BR><BR>De   deskundigencommissie volgt bij de vaststelling van de inschaling, vermeld in   artikel 8, § 1, ook het advies van de regionale   prioriteitencommissie.
 
 ## HOOFDSTUK IV TOEKENNINGSPROCEDURE EN VERGOEDING VAN DE ASSISTENTIE
 
