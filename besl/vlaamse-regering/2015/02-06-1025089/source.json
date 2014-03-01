@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025089,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-06 tot wijziging van diverse bepalingen inzake het persoonlijke-assistentiebudget",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025089/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "2eda8788199e25eb08bf6747e5534fff40de2cc4e33d9095e2bf13fe40c923d3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025089&param=informatie",
+  "as_of": "2014-03-01",
+  "made": "2015-02-06",
+  "gazette": "2015-03-11",
+  "numac": 2015035253,
+  "document_start": "2014-12-31",
+  "document_end": null,
+  "in_force": "2014-03-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
