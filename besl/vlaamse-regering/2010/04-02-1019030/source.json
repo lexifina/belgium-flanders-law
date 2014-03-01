@@ -2,16 +2,16 @@
   "codex_id": 1019030,
   "title": "Besluit van de Vlaamse Regering van 2010-04-02 tot oprichting van de Commissie Efficiënte en Effectieve Overheid en tot regeling van de vergoedingen van de externe leden en professoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019030/VolledigDocument?datum=2010-04-02",
-  "source_sha256": "a4d9ebf5ed6aa1ad2edd74a5c6771dfe0b9455ab268d07bf0d48dfa6abcdd215",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019030/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "4e7237733fc0d6dea223b558537f37e1ff788f6d670cccf551426a0e5cff7942",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019030&param=informatie",
-  "as_of": "2010-04-02",
+  "as_of": "2014-03-01",
   "made": "2010-04-02",
   "gazette": "2010-05-28",
   "numac": 2010202923,
   "document_start": "2010-04-02",
   "document_end": "2014-02-28",
-  "in_force": "2010-04-02",
+  "in_force": "2014-03-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2010-04-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-03-01; future article versions excluded; article text as the API gives it"
 }
