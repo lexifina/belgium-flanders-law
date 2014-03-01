@@ -4200,7 +4200,19 @@ Als de wet van 20 juli 1991 houdende sociale en diverse andere bepalingen van to
 
 ### ART. 106.
 
-§ 1. De volgende zaken geven aanleiding tot de definitieve   ambtsneerlegging van het statutaire personeelslid op proef :<BR>1° het   vrijwillige ontslag;<BR>2° de definitief vastgestelde beroepsongeschiktheid na   de ongunstige tussentijdse evaluatie of eindevaluatie van de proeftijd, vermeld   in artikel 36.<BR><BR>De raad kan bepalen dat het statutaire personeelslid op   proef dat tijdens de proeftijd na aanwerving in totaal gedurende drie maanden   afwezig is wegens ziekte of invaliditeit, ontslagen kan worden. <BR><BR>§ 2.   Naast de ambtsneerlegging als gevolg van de pensioenwetgeving, geven de volgende   zaken aanleiding tot de definitieve ambtsneerlegging van het vast aangestelde   statutaire personeelslid :<BR>1° het vrijwillige ontslag;<BR>2° de definitief   vastgestelde beroepsongeschiktheid na een ongunstige evaluatie, vermeld in   artikel 48.<BR>
+§ 1. De volgende zaken geven aanleiding tot de definitieve ambtsneerlegging van het statutaire personeelslid op proef :<br>
+1° het vrijwillige ontslag;<br>
+2° de definitief vastgestelde beroepsongeschiktheid na de ongunstige tussentijdse evaluatie of eindevaluatie van de proeftijd, vermeld in artikel 36.<br>
+<br>
+De raad kan bepalen dat het statutaire personeelslid op proef dat tijdens de proeftijd na aanwerving in totaal gedurende drie maanden afwezig is wegens ziekte of invaliditeit, ontslagen kan worden.<br>
+<br>
+§ 2. De volgende zaken geven aanleiding tot de definitieve ambtsneerlegging van het vast aangestelde statutaire personeelslid :<br>
+1° het vrijwillige ontslag;<br>
+2° de definitief vastgestelde beroepsongeschiktheid na een ongunstige evaluatie, vermeld in artikel 48;<br>
+3° de pensionering ingevolge de toepassing van de pensioenwetgeving;<br>
+4° het bereiken van de leeftijd van 65 jaar.<br>
+<br>
+In afwijking van het eerste lid, 4°, kan de aanstellende overheid het vast aangestelde statutaire personeelslid na het bereiken van de leeftijdsgrens van 65 jaar in dienst houden. Het statutaire dienstverband wordt verlengd op verzoek van de aanstellende overheid of op verzoek van het personeelslid. In het eerste geval is de uitdrukkelijke instemming van het personeelslid vereist. In het tweede geval is de uitdrukkelijke instemming van de aanstellende overheid vereist. In beide gevallen verleent de aanstellende overheid de verlenging voor een periode van hoogstens één jaar, telkens verlengbaar met hoogstens één jaar. Het betrokken personeelslid behoudt gedurende de volledige periode van de verlenging de hoedanigheid van vast aangesteld statutair personeelslid.
 
 ### ART. 107.
 
