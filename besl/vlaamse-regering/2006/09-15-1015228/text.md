@@ -18,7 +18,7 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 6bis, 20 en 87, § 1, van de bi
 
 ### ART. 2.
 
-De Vlaamse Regering bepaalt vijfjaarlijks, en voor het eerst uiterlijk op 30 april 2011, een lijst van thema's die kaderen binnen de bevoegdheden van de Vlaamse Gemeenschap of het Vlaamse Gewest en waarbinnen de beleidsvoering een op wetenschappelijke inzichten gebaseerde ondersteuning vereist.<br /><br />De Vlaamse Regering erkent per thema één steunpunt voor een termijn van vijf jaar.<br /><br />
+De Vlaamse Regering bepaalt vijfjaarlijks, en voor het eerst uiterlijk op   30 april 2011, een lijst van thema's die kaderen binnen de bevoegdheden van de   Vlaamse Gemeenschap of het Vlaamse Gewest en waarbinnen de beleidsvoering een op   wetenschappelijke inzichten gebaseerde ondersteuning vereist.<BR><BR>De Vlaamse   Regering erkent per thema één steunpunt voor een termijn van vijf   jaar.<BR><BR>Bij uitzondering worden de steunpunten die in 2012 van start zijn   gegaan, erkend voor een termijn van vier jaar, namelijk tot eind 2015. De   Vlaamse Regering bepaalt in 2015 de lijst van thema's voor de erkenningstermijn   die in 2016 van start gaat.<BR><BR>
 
 ## Afdeling 2 Overheidsfinanciering
 
@@ -54,13 +54,13 @@ De procedure tot aanvraag van een erkenning en van een vaste werkingsenveloppe w
 
 ### ART. 9.
 
-De Vlaamse Regering sluit omtrent elk steunpunt een beheersovereenkomst af met het bestuur of de besturen van de initiërende instelling of instellingen. <br /><br />De beheersovereenkomst is een contract over de bijzondere regels en voorwaarden waaronder het steunpunt zijn beleidsondersteunende opdracht moet uitvoeren.<br /><br />Deze beheersovereenkomst heeft een looptijd van vijf jaar en omschrijft tenminste :<br />1° de minimale vereisten inzake de beheersstructuur van het steunpunt en de aansturingsmogelijkheden van de Vlaamse Regering binnen deze beheersstructuur; <br />2° de minimale resultaatsverbintenissen van het steunpunt; <br />3° de minimale behoorlijkheidsvereisten op het vlak van het financieel management, evenals de mogelijkheden om een bepaalde financiële reserve aan te leggen; <br />4° de rapporterings- en controlemechanismen, inzonderheid de wijze van evaluatie van het steunpunt in de tweede helft van het vierde kalenderjaar van de periode van erkenning; <br />5° de remediërende en sanctionerende maatregelen in geval van niet-naleving van de beheersovereenkomst;<br />6° de gevallen waarin en de wijze waarop de beheersovereenkomst tijdens de looptijd ervan kan worden gewijzigd.<br /><br />
+De Vlaamse Regering sluit omtrent elk steunpunt een beheersovereenkomst af   met het bestuur of de besturen van de initiërende instelling of instellingen.   <BR><BR>De beheersovereenkomst is een contract over de bijzondere regels en   voorwaarden waaronder het steunpunt zijn beleidsondersteunende opdracht moet   uitvoeren.<BR><BR>Deze beheersovereenkomst heeft een looptijd van vijf jaar en   omschrijft tenminste :<BR>1° de minimale vereisten inzake de beheersstructuur   van het steunpunt en de aansturingsmogelijkheden van de Vlaamse Regering binnen   deze beheersstructuur; <BR>2° de minimale resultaatsverbintenissen van het   steunpunt; <BR>3° de minimale behoorlijkheidsvereisten op het vlak van het   financieel management, evenals de mogelijkheden om een bepaalde financiële   reserve aan te leggen; <BR>4° de rapporterings- en controlemechanismen,   inzonderheid de wijze van evaluatie van het steunpunt in de tweede helft van   het&nbsp;voorlaatste kalenderjaar van de periode van erkenning; <BR>5° de   remediërende en sanctionerende maatregelen in geval van niet-naleving van de   beheersovereenkomst;<BR>6° de gevallen waarin en de wijze waarop de   beheersovereenkomst tijdens de looptijd ervan kan worden gewijzigd.<BR><BR>In   afwijking van het derde lid hebben de beheersovereenkomsten van de steunpunten   die in 2012 van start zijn gegaan, een looptijd van vier   jaar.<BR><BR>
 
 ## TITEL III Meta-evaluatie
 
 ### ART. 10.
 
-De coördinerende minister treft de nodige maatregelen om vijfjaarlijks een effectmeting van de werking van de steunpunten door te voeren. De eerste effectmeting vindt plaats in de eerste helft van het vijfde kalenderjaar van de periode van erkenning van de steunpunten.<br /><br />De resultaten van de effectmeting worden voorgelegd aan de Vlaamse Regering.<br /><br />
+De coördinerende minister treft de nodige maatregelen om tijdens het   laatste jaar van iedere erkenningstermijn een effectmeting van de werking van de   steunpunten door te voeren. De eerste effectmeting vindt plaats in de eerste   helft van het laatste kalenderjaar van de periode van erkenning van de   steunpunten.<BR><BR>De resultaten van de effectmeting worden voorgelegd aan de   Vlaamse Regering.<BR><BR>
 
 ## TITEL IV Slotbepalingen
 
