@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023995,
+  "title": "Ministerieel besluit van 2014-02-20 houdende vaststelling van de loodscoëfficiënten voor de berekening van de loodstoelage van de operationele loodsen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023995/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "3125c86941a97a9c988df2d311c2e07d24c95d2e9778154029cf699fa136a92b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023995&param=informatie",
+  "as_of": "2014-03-01",
+  "made": "2014-02-20",
+  "gazette": "2014-04-09",
+  "numac": 2014035299,
+  "document_start": "2014-03-01",
+  "document_end": null,
+  "in_force": "2014-03-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
