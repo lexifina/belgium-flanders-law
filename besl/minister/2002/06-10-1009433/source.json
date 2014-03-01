@@ -2,16 +2,16 @@
   "codex_id": 1009433,
   "title": "Ministerieel besluit van 2002-06-10 betreffende de kwaliteitszorg in de voorbereidingsteams",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009433/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "6fe49484bcba97e3837df6fe7fe7e7f4301553268a0779af158a8a1573e00c11",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009433/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "6dfe5791ca51b54558558c5e9ade9571fb285dd00f43ca738f864f2603f2c7c9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009433&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-03-01",
   "made": "2002-06-10",
   "gazette": "2002-08-14",
   "numac": 2002036005,
   "document_start": "2002-01-01",
   "document_end": "2014-02-28",
-  "in_force": "2006-06-01",
+  "in_force": "2014-03-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-03-01; future article versions excluded; article text as the API gives it"
 }
