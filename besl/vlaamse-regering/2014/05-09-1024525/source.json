@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024525,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van het besluit van de Vlaamse Regering van 20 december 2013 betreffende handhaving inzake de bescherming van de verkeersinfrastructuur in geval van bijzonder wegtransport, wat betreft het toevoegen van drie bijlagen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024525/VolledigDocument?datum=2014-03-01",
+  "source_sha256": "47da31722be5e3c588c3f09085162d9986f5a7313ffc44adc94c7ff58a98f244",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024525&param=informatie",
+  "as_of": "2014-03-01",
+  "made": "2014-05-09",
+  "gazette": "2014-09-04",
+  "numac": 2014035701,
+  "document_start": "2014-03-01",
+  "document_end": null,
+  "in_force": "2014-03-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
