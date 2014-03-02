@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023866,
+  "title": "Ministerieel besluit van 2013-07-09 tot vaststelling van de subsidiabele urencontingenten gezinszorg 2013 van de openbare diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023866/VolledigDocument?datum=2014-03-02",
+  "source_sha256": "3aaf7519eca5d334960caba68e76f86b9b725d9bfc21d36d3dbfe20cae4892bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023866&param=informatie",
+  "as_of": "2014-03-02",
+  "made": "2013-07-09",
+  "gazette": "2014-02-20",
+  "numac": 2014035187,
+  "document_start": "2014-03-02",
+  "document_end": null,
+  "in_force": "2014-03-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
