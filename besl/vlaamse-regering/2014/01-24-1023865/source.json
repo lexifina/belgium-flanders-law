@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023865,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-24 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 1994 tot vaststelling van de bijdrage van het Vlaamse Gewest in de uitgaven voor de werken uitgevoerd door de ruilverkavelingscomités en tot opheffing van het ministerieel besluit van 26 oktober 1978 tot vaststelling van de bijdrage van de Staat in de uitgaven voor de werken uitgevoerd in toepassing van de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023865/VolledigDocument?datum=2014-03-02",
+  "source_sha256": "cadb407239a2c53386bc8c8c893d0177d0e30c4a11e865f99bdde9b8a20ef82a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023865&param=informatie",
+  "as_of": "2014-03-02",
+  "made": "2014-01-24",
+  "gazette": "2014-02-20",
+  "numac": 2014201037,
+  "document_start": "2014-03-02",
+  "document_end": null,
+  "in_force": "2014-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
