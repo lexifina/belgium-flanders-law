@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023864,
+  "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot erkenning van de beroepskwalificatie winkelverkoper kleding en accessoires",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023864/VolledigDocument?datum=2014-03-02",
+  "source_sha256": "323803912c13041cf0c572b5684e1924442b6a0396efdb21d997f355ab7b42df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023864&param=informatie",
+  "as_of": "2014-03-02",
+  "made": "2013-11-29",
+  "gazette": "2014-02-20",
+  "numac": 2014035144,
+  "document_start": "2014-03-02",
+  "document_end": "2020-05-17",
+  "in_force": "2014-03-02",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-03-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
