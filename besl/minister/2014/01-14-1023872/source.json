@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023872,
+  "title": "Ministerieel besluit van 2014-01-14 houdende afbakening van het overstromingsgebied Z3 Stambeek (Langeveldweg) te Opwijk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023872/VolledigDocument?datum=2014-03-03",
+  "source_sha256": "3771f75cb9e02e949d68e42d286d960c1d413fd97d91f8715d8abfbd2d6c00ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023872&param=informatie",
+  "as_of": "2014-03-03",
+  "made": "2014-01-14",
+  "gazette": "2014-02-21",
+  "numac": 2014035192,
+  "document_start": "2014-03-03",
+  "document_end": null,
+  "in_force": "2014-03-03",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-03-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
