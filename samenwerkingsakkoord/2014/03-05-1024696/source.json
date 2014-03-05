@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024696,
+  "title": "Samenwerkingsakkoord van 2014-03-05 tussen de Federale Staat, de Gemeenschappen en de Gewesten inzake de ondersteuning van de Belgian Coordinated Collections of Micro-organisms, BCCM\" als \"Belgisch \"Biological Resource Centre\"",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024696/VolledigDocument?datum=2014-03-05",
+  "source_sha256": "0ecb7ecfbb233d8fbf59329bf665bb4af2e2cc2b6c94645350297a2878045bec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024696&param=informatie",
+  "as_of": "2014-03-05",
+  "made": "2014-03-05",
+  "gazette": "2014-10-28",
+  "numac": 2014206172,
+  "document_start": "2014-03-05",
+  "document_end": null,
+  "in_force": "2014-03-05",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
