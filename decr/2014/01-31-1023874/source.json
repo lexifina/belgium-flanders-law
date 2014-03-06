@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023874,
+  "title": "Decreet van 2014-01-31 houdende instemming met de overeenkomst tussen de Belgische regering en de Macedonische regering tot het vermijden van dubbele belasting inzake belastingen naar het inkomen en naar het vermogen en tot het voorkomen van het ontduiken van belasting, ondertekend te Brussel op 6 juli 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023874/VolledigDocument?datum=2014-03-06",
+  "source_sha256": "c588df132a41ce24957418dac1c5b2cc9de200fb4da708d5042f6d0b282b8cc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023874&param=informatie",
+  "as_of": "2014-03-06",
+  "made": "2014-01-31",
+  "gazette": "2014-02-24",
+  "numac": 2014201119,
+  "document_start": "2014-03-06",
+  "document_end": null,
+  "in_force": "2014-03-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
