@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023875,
+  "title": "Decreet van 2014-01-31 houdende instemming met het verdrag nr. 189 inzake waardig werk voor het huispersoneel, aangenomen door de Internationale Arbeidsconferentie in haar honderdste zitting in Genève op 16 juni 2011",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023875/VolledigDocument?datum=2014-03-06",
+  "source_sha256": "0f8d38a2fff3006579e0c3cf4e1726565b6e0adb3f5fd1797b3f13b19f0c2b0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023875&param=informatie",
+  "as_of": "2014-03-06",
+  "made": "2014-01-31",
+  "gazette": "2014-02-24",
+  "numac": 2014201131,
+  "document_start": "2014-03-06",
+  "document_end": null,
+  "in_force": "2014-03-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-03-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
