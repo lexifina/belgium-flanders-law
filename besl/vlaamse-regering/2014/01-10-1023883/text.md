@@ -71,3 +71,15 @@ In hetzelfde besluit, het laatst gewijzigd bij 29 juni 2012 wordt een   artikel 
 Het besluit van de Vlaamse Regering van 21 januari 2011 tot vaststelling   van de algemene regels voor de erkenning en de subsidiëring van de   landschapswerking van regionale landschappen wordt opgeheven.<BR>
 
 ## HOOFDSTUK 4 Slotbepalingen
+
+### ART. 16.
+
+Hoofdstuk 1 heeft uitwerking met ingang van 1 juli 2013.<BR>
+
+### ART. 17.
+
+Hoofdstukken 2 en 3 treden in werking op 1 januari 2014.<BR>
+
+### ART. 18.
+
+De Vlaamse minister, bevoegd voor het onroerend erfgoed, is belast met de   uitvoering van dit besluit.<BR>
