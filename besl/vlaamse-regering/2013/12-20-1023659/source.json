@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023659,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-20 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2002 houdende vaststelling van de kiesprocedure voor de Raad van het Gemeenschapsonderwijs wat de kandidaatstelling en de verkiezing van de kandidaten betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023659/VolledigDocument?datum=2014-03-12",
+  "source_sha256": "6add436194b97d752449a448d2bb0a4b820108e1b3b22214f9eb6c1e080c91cf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023659&param=informatie",
+  "as_of": "2014-03-12",
+  "made": "2013-12-20",
+  "gazette": "2014-01-27",
+  "numac": 2014035067,
+  "document_start": "2014-03-12",
+  "document_end": null,
+  "in_force": "2014-03-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-03-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
