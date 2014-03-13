@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023897,
+  "title": "Ministerieel besluit van 2014-02-06 houdende vastlegging van de bandingfactoren van groenestroomcertificaten voor groenestroomprojecten die gebruik maken van zonne-energie met een startdatum vanaf 1 juli 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023897/VolledigDocument?datum=2014-03-13",
+  "source_sha256": "55653f9d79c339f75541ab5f64450e638cecf62316ed46307dca07e91aaa0117",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023897&param=informatie",
+  "as_of": "2014-03-13",
+  "made": "2014-02-06",
+  "gazette": "2014-03-03",
+  "numac": 2014035186,
+  "document_start": "2014-03-13",
+  "document_end": null,
+  "in_force": "2014-03-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
