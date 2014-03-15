@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023900,
+  "title": "Decreet van 2013-12-20 houdende instemming met het samenwerkingsakkoord van 12 juni 2013 tussen de federale overheid, de Gewesten en de Gemeenschappen voor de oprichting van het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis van de bijzondere wet van 8 augustus 1980",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023900/VolledigDocument?datum=2014-03-15",
+  "source_sha256": "e84da785547e8dc29c153b4e400c2c2db3c7e41ef89d4729b48a41f36a16d7d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023900&param=informatie",
+  "as_of": "2014-03-15",
+  "made": "2013-12-20",
+  "gazette": "2014-03-05",
+  "numac": 2014035242,
+  "document_start": "2014-03-15",
+  "document_end": "2023-03-14",
+  "in_force": "2014-03-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-03-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
