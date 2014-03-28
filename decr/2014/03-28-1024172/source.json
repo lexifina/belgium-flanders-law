@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024172,
+  "title": "Decreet van 2014-03-28 tot wijziging van artikel 5 van het decreet van 30 maart 1999 houdende oprichting van een Vlaams Fonds voor de Letteren",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024172/VolledigDocument?datum=2014-03-28",
+  "source_sha256": "a737f970ec8c7a44669505c7e17695fd7033029cf014fa7644d7416ba0ce276e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024172&param=informatie",
+  "as_of": "2014-03-28",
+  "made": "2014-03-28",
+  "gazette": "2014-06-13",
+  "numac": 2014202524,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2014-03-28",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2014-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
