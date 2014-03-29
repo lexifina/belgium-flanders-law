@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023918,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-07 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 8 mei 2009 betreffende de erosiebestrijding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023918/VolledigDocument?datum=2014-03-29",
+  "source_sha256": "be6a9e153d3819ba3de14ae1702d28835ab4cc53114ac9e32fe57ee7182e0c46",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023918&param=informatie",
+  "as_of": "2014-03-29",
+  "made": "2014-02-07",
+  "gazette": "2014-03-19",
+  "numac": 2014035251,
+  "document_start": "2014-03-29",
+  "document_end": null,
+  "in_force": "2014-03-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
