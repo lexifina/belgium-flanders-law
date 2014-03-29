@@ -41,7 +41,7 @@ In dit besluit wordt verstaan onder : <br />1° beveiligde zending : een van de 
 
 ### ART. 2.
 
-De toezichthouders worden aangesteld onder ambtenaren van niveau A van Inspectie RWO.<br /><br />Om aangesteld te kunnen worden, moet de ambtenaar minstens één jaar gewerkt hebben bij de afdeling Toezicht van Inspectie RWO.<br /><br />De ambtenaren die tot toezichthouder werden aangesteld, blijven in die hoedanigheid onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse Overheid.<br /><br />
+Het afdelingshoofd van de afdeling Toezicht van Inspectie RWO oefent de   functie uit van toezichthouder. De overige toezichthouders worden aangesteld   onder de ambtenaren van niveau A van Inspectie RWO die minstens één jaar hebben   gewerkt bij de afdeling Toezicht van Inspectie RWO.<BR><BR>De ambtenaren die tot   toezichthouder werden aangesteld, blijven in die hoedanigheid onderworpen aan de   bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende   vaststelling van de rechtspositie van het personeel van de diensten van de   Vlaamse Overheid.<BR><BR>
 
 ### ART. 3.
 
