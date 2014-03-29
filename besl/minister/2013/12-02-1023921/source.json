@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023921,
+  "title": "Ministerieel besluit van 2013-12-02 betreffende de onteigening van onroerende goederen gelegen op het grondgebied van de Stad Oostende",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023921/VolledigDocument?datum=2014-03-29",
+  "source_sha256": "2421cc57a9e99fc9b5849e8734256598ac63c33c13a40129e39ad88978078cb8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023921&param=informatie",
+  "as_of": "2014-03-29",
+  "made": "2013-12-02",
+  "gazette": "2014-03-19",
+  "numac": 2014035214,
+  "document_start": "2014-03-29",
+  "document_end": null,
+  "in_force": "2014-03-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
