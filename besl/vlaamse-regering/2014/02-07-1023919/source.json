@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023919,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-07 houdende indeling bij de gemeentewegen van de gewestweg N458 tussen de kilometerpunten 5,500 en 7,321 op het grondgebied van de gemeente Evergem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023919/VolledigDocument?datum=2014-03-29",
+  "source_sha256": "ddf580990c6af5b0230ad84f32f45081b7db58078bcc8c61242bd129fd9fbce0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023919&param=informatie",
+  "as_of": "2014-03-29",
+  "made": "2014-02-07",
+  "gazette": "2014-03-19",
+  "numac": 2014035252,
+  "document_start": "2014-03-29",
+  "document_end": null,
+  "in_force": "2014-03-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
