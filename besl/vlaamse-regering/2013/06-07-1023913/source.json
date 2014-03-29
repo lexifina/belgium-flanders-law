@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023913,
+  "title": "Besluit van de Vlaamse Regering van 2013-06-07 houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0 1CBX2Z-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023913/VolledigDocument?datum=2014-03-29",
+  "source_sha256": "a6758ca9bd707f8d03acaf06853ab64b4c64dba004cbed3ef00c2e155ec8b8ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023913&param=informatie",
+  "as_of": "2014-03-29",
+  "made": "2013-06-07",
+  "gazette": "2014-03-19",
+  "numac": 2014035212,
+  "document_start": "2014-03-29",
+  "document_end": null,
+  "in_force": "2014-03-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-03-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
