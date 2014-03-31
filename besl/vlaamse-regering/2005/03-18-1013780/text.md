@@ -374,7 +374,7 @@ BIJLAGE - Lijst van de geslachten en soorten van groenten waarop dit besluit van
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>24° Lycopersicon esculentum Mill.</p>
+			<p>24° Solanum lycopersicum L.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Tomaat</p>
