@@ -1393,109 +1393,108 @@ Bijlage 7 bij het ministerieel besluit van 21 juni 2010 tot vaststelling van een
 Specifieke voorwaarden en normen voor zaaizaad van groenten en van cichorei voor de industrie, als vermeld in artikel 5/2<br>
 <br>
 1. Betrokken soorten<br>
-<br>
 Dit hoofdstuk behandelt volgende soorten :<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Allium cepa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>- Cepa-groep</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Ui</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">&nbsp;</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Echalion</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>- Aggregatum-groep</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Sjalot</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Allium fistulosum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Stengelui</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Allium porrum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Prei</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Allium sativum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Knoflook</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Allium schoenoprasum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Bieslook</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Anthriscus cerefolium (L.) Hoffm.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Kervel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Apium graveolens L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Bleek- en knolselderij</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Asparagus officinalis L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Asperge</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Beta vulgaris L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Rode biet, inclusief Cheltenham beet<br>
 			Snijbiet</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Brassica oleracea L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Boerenkool<br>
 			Koolrabi<br>
 			Bloemkool<br>
@@ -1507,221 +1506,221 @@ Dit hoofdstuk behandelt volgende soorten :<br>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Brassica rapa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Chinese kool<br>
 			Meiraap, stoppelknol</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Capsicum annuum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Spaanse peper of Paprika</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cichorium endivia L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Krulandijvie<br>
 			Andijvie</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cichorium intybus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Witloof,<br>
 			Bladcichorei<br>
 			Cichorei voor de industrie</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Citrullus lanatus (Thunb.) Matsum et Nakai</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Watermeloen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cucumis melo L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Meloen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cucumis sativus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Komkommer<br>
 			Augurk</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cucurbita maxima Duchesne</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Pompoen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cucurbita pepo L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Courgette</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Cynara cardunculus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Artisjok<br>
 			Kardoen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Daucus carota L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Wortel<br>
 			Voederwortel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Foeniculum vulgare Mill.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Knolvenkel</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Lactuca sativa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Sla</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
-			<p>Lycopersicon esculentum Mill.</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
+			<p>Solanum lycopersicum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Tomaat</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Petroselinum crispum (Mill.) Nyman ex. A. W. Hill</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Peterselie</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Phaseolus coccineus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Pronkboon</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Phaseolus vulgaris L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Stamboon<br>
 			Stokboon</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Pisum sativum L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Kreukzadige doperwt<br>
 			Rondzadige doperwt<br>
 			Peul</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Raphanus sativus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Radijs<br>
 			Rammenas</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Rheum rhabarbarum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Rabarber</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Scorzonera hispanica L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Schorseneer</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Solanum melongena L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Aubergine</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Spinacia oleracea L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Spinazie</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Valerianella locusta (L.) Laterr.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Veldsla</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Vicia faba L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Tuinboon</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:213.4pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:213.4pt">
 			<p>Zea mays L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:210.35pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:210.35pt">
 			<p>Suikermaïs<br>
 			Pofmaïs</p>
 			</td>
@@ -1767,44 +1766,44 @@ Voor prebasiszaad, basiszaad en gecertificeerd zaad worden de monsters genomen d
 De inschrijvingsnemer moet elk teeltjaar de teelten die bestemd zijn om stekmateriaal of zaaizaad voort te brengen, inschrijven vóór de limietdata opgegeven in tabel 1.<br>
 <br>
 Tabel 1.<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:142.5pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:142.5pt">
 			<p>teelten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:111.15pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:111.15pt">
 			<p>limietdata</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:142.5pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:142.5pt">
 			<p>éénjarige teelten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:111.15pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:111.15pt">
 			<p>30/04</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:142.5pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:142.5pt">
 			<p>tweejarige teelten :</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:111.15pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:111.15pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:142.5pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:142.5pt">
 			<p>- eerste teeltjaar</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:111.15pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:111.15pt">
 			<p>15/09</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:142.5pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:142.5pt">
 			<p>- tweede teeltjaar</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:111.15pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:111.15pt">
 			<p>30/04</p>
 			</td>
 		</tr>
@@ -1839,149 +1838,149 @@ De teelten moeten verwijderd zijn van elke stuifmeelbron die een ongewenste krui
 De minimumafstand tot in de buurt liggende gewassen van andere rassen van dezelfde soort, tot gewassen van hetzelfde ras met sterke degeneratieverschijnselen en tot gewassen van verwante soorten die tot ongewenste kruisbestuiving kunnen leiden, zijn weergegeven in tabel 2.<br>
 <br>
 Tabel 2.<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td rowspan="2" style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td rowspan="2" style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>soorten</p>
 			</td>
-			<td colspan="2" style="border-style:inset; border-width:1.0pt; width:151.4pt">
+			<td colspan="2" style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:151.4pt">
 			<p>te produceren categorie</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>prebasis- en basiszaad</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>gecertificeerd zaad</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>A. Brassicagewassen</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">&nbsp;</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>1. ten aanzien van bronnen van vreemd stuifmeel dat een ernstige schadelijke invloed kan uitoefenen op de rassen van de Brassicagewassen.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>1000 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>600 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>2. ten aanzien van andere bronnen van vreemd stuifmeel waardoor kruising met de rassen van de Brassicagewassen mogelijk wordt.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>500 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>300 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>B. Beta vulgaris</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">&nbsp;</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>1. ten aanzien van een hieronder niet vermelde bron van stuifmeel van het geslacht Beta.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>1000 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>1000 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>2. ten aanzien van bronnen van stuifmeel van rassen van dezelfde ondersoort die tot een verschillende rassengroep behoren.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>1000 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>600 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>3. ten aanzien van andere bronnen van stuifmeel van rassen van dezelfde ondersoort die tot dezelfde rassengroep behoren</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>600 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>300 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>C. cichorei voor de industrie</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">&nbsp;</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>1. ten aanzien van andere soorten van dezelfde geslachten of ondersoorten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>1000 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>1000 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>2. ten aanzien van een ander ras van cichorei voor de industrie.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>600 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>300 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>D. andere soorten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">&nbsp;</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">&nbsp;</td>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>1. ten aanzien van bronnen van vreemd stuifmeel dat een ernstige schadelijke invloed kan uitoefenen op rassen van andere gewassen, verkregen door kruisbestuiving.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>500 m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>300 m</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:279.45pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:279.45pt">
 			<p>2. ten aanzien van andere bronnen van vreemd stuifmeel waardoor kruising met rassen van andere gewassen, verkregen door kruisbestuiving, mogelijk wordt.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:74.2pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:74.2pt">
 			<p>300m</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:75.7pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:75.7pt">
 			<p>100 m</p>
 			</td>
 		</tr>
@@ -2071,48 +2070,48 @@ De aanwezigheid van ziekten en schadelijke organismen die de gebruikswaarde van 
 In het bijzonder gelden voor Pisum sativum en Phaseolus spp. de toleranties opgegeven in tabel 3.<br>
 <br>
 Tabel 3.<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:170.85pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:170.85pt">
 			<p>zieke planten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>prebasiszaad</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>basiszaad</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:82.8pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:82.8pt">
 			<p>gecertificeerd zaad</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:170.85pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:170.85pt">
 			<p>planten met virusziekten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>0 %</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>5 %</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:82.8pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:82.8pt">
 			<p>10 %</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt; width:170.85pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:170.85pt">
 			<p>planten met vlekkenziekte</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>1 pl/are</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:83.55pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:83.55pt">
 			<p>10 pl/are</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt; width:82.8pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset; width:82.8pt">
 			<p>20 pl/are</p>
 			</td>
 		</tr>
@@ -2131,427 +2130,427 @@ Partijen die ter certificering worden aangeboden moeten homogeen zijn.<br>
 Het maximumgewicht van een partij en het minimumgewicht van het monster worden weergegeven in tabel 4.<br>
 <br>
 Tabel 4<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>soorten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>maximumgewicht van een partij<br>
 			(in ton) (a)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>minimumgewicht van een monster van een partij<br>
 			(in g) (b) (c)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium cepa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium fistulosum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium porrum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium sativum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium schoenoprasum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Anthriscus cerefolium (L.) Hoffm.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Apium graveolens L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Asparagus officinalis L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Beta vulgaris L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica oleracea L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica rapa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Capsicum annuum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>40</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorium endivia L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorium intybus L. (partim) (Witloof, bladcichorei)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorium intybus L. (partim)<br>
 			(Cichorei voor de industrie)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Citrullus lanatus (Thunb.) Matsum. et Nakai</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucumis melo L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucumis sativus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucurbita maxima Duchesne</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucurbita pepo L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>150</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cynara cardunculus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Daucus carota L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Foeniculum vulgare Mill.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Lactuca sativa L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
-			<p>Lycopersicon esculentum Mill.</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>Solanum lycopersicum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Petroselinum crispum (Mill.) Nyman ex A. W. Hill</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Phaseolus coccineus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Phaseolus vulgaris L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>700</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Pisum sativum L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Raphanus sativus L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Rheum rhabarbarum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>135</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Scorzonera hispanica L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Solanum melongena L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Spinacia oleracea L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Valerianella locusta (L.) Laterr.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>10</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Vicia faba L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>30</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Zea mays L. (partim)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>20</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1.000</p>
 			</td>
 		</tr>
@@ -2579,595 +2578,592 @@ Het zaad moet voldoende rasecht en raszuiver zijn.<br>
 De normen en andere voorwaarden inzake soortzuiverheid, gehalte van zaden van andere soorten en kiemkracht zijn vermeld in tabel 5.<br>
 <br>
 Tabel 5.<br>
-
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>soorten</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>minimale mechanische zuiverheid<br>
 			(% van het gewicht)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>maximumgehalte zaden van andere plantensoorten<br>
 			(% van het gewicht)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>minimum kiemkracht<br>
 			(% van de zuivere zaden of kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium cepa</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium fistulosum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium porrum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium sativum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Allium schoenoprasum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Anthriscus cerefolium</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>96</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Apium graveolens</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Asparagus officinalis</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>96</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Beta vulgaris (Cheltenham beet)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>50 (kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Beta vulgaris (andere soorten dan Cheltenham beet)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70 (kluwens)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica oleracea (bloemkool)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica oleracea (met uitzondering van bloemkool)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica rapa (Chinese kool)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Brassica rapa (meiraap/stoppelknol)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Capsicum annuum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorium intybus (partim)<br>
 			(witloof, bladcichorei)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorium intybus (partim)<br>
 			(Cichorei voor de industrie)</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cichorum endivia</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Citrullus lanatus</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucumis melo</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucumis sativus</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucurbita maxima</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cucurbita pepo</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Cynara cardunculus</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>96</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Daucus carota</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Foeniculum vulgare</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>96</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Lactuca sativa</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
-			<p>Lycopersicon esculentum</p>
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
+			<p>Solanum lycopersicum L.</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Petroselinum crispum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Phaseolus coccineus</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Phaseolus vulgaris</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Pisum sativum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Raphanus sativus</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Rheum rhabarbarum</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Scorzonera hispanica</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>70</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Solanum melongena</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>96</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,5</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Spinacia oleracea</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>97</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Valerianella locusta</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>95</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>65</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Vicia faba</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>80</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>Zea mays</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>98</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>0,1</p>
 			</td>
-			<td style="border-style:inset; border-width:1.0pt">
+			<td style="border-bottom:1pt inset; border-left:1pt inset; border-right:1pt inset; border-top:1pt inset">
 			<p>85</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-<br>
-<br>
-Andere normen of voorwaarden, waaraan moet worden voldaan, als daarnaar wordt verwezen in tabel 5 :<br>
+<p>Andere normen of voorwaarden, waaraan moet worden voldaan, als daarnaar wordt verwezen in tabel 5 :<br>
 <br>
 Voor rassen van Zea mays (suikermaïs - superzoete types) wordt de vereiste minimumkiemkracht verlaagd tot 80 % van zuiver zaad. Op het officiële certificaat of etiket van de leverancier, naargelang het geval, wordt de vermelding « Minimumkiemkracht 80 % » aangebracht.<br>
 <br>
@@ -3366,4 +3362,4 @@ De verpakkingen zijn voorzien van een leveranciersetiket of van een tekst die de
 Het zaaizaad van deze rassen wordt in de handel gebracht in kleine verpakkingen, waarbij het per soort aangegeven maximale nettogewicht wordt vermeld in bijlage 2 van het ministerieel besluit van 2 december 2010 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen van groenten die van oudsher op bepaalde plaatsen en in bepaalde gebieden worden gekweekt en die door genetische erosie worden bedreigd, en van groenterassen die geen intrinsieke waarde hebben voor de commerciële productie van gewassen, maar die ontwikkeld zijn voor teelt onder bijzondere omstandigheden, en voor het in de handel brengen van zaaizaad van die landrassen en rassen.<br>
 <br>
 Nota<br>
-Richtlijn 89/14/EEG van de commisie van 15 december 1988 tot vaststelling van de rassengroepen voor snijbiet en kroten, bedoeld in de voorwaarden inzake scheiding van gewassen als aangegeven in bijlage I bij Richtlijn 70/458/EEG van de Raad betreffende het in de handel brengen van groentezaad.
+Richtlijn 89/14/EEG van de commisie van 15 december 1988 tot vaststelling van de rassengroepen voor snijbiet en kroten, bedoeld in de voorwaarden inzake scheiding van gewassen als aangegeven in bijlage I bij Richtlijn 70/458/EEG van de Raad betreffende het in de handel brengen van groentezaad.</p>
