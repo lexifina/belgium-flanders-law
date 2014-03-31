@@ -236,7 +236,7 @@
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>Lycopersicon esculentum Mill.</p>
+			<p>Solanum lycopersicum L.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
 			<p>Tomaat</p>
@@ -748,7 +748,7 @@ A. Normen :<br>
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
-			<p>Soorten<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Soorten</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
 			<p>Minimale mechanische zuiverheid (% van het gewicht)</p>
@@ -1144,7 +1144,7 @@ A. Normen :<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:127.6pt">
-			<p>Lycopersicon esculentum</p>
+			<p>Solanum lycopersicum L.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:99.25pt">
 			<p>97</p>
@@ -1566,7 +1566,7 @@ Het maximumgewicht van een partij mag ten hoogste met 5 % worden overschreden.<b
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:144.25pt">
-			<p>Lycopersicon esculentum</p>
+			<p>Solanum lycopersicum L.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; width:78.75pt">
 			<p>20</p>
