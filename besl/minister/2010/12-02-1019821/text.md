@@ -163,13 +163,12 @@ Dit besluit treedt in werking op 31 december 2010.<br /><br />
 ### BIJLAGE 1
 
 Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instandhoudingsrassen als vermeld in artikel 15<br>
-<br>
-<!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]-->
+&nbsp;
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Botanische benaming <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>Botanische benaming</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Maximumaantal hectare per lidstaat voor de teelt van groente per instandhoudingsras</p>
@@ -187,7 +186,7 @@ Kwantitatieve beperkingen voor het in de handel brengen van zaaizaad van instand
 			Cynara cardunculus L.<br>
 			Daucus carota L.<br>
 			Lactuca sativa L.<br>
-			Lycopersicon esculentum Mill.<br>
+			Solanum lycopersicum L.<br>
 			Phaseolus vulgaris L.<br>
 			Pisum sativum L. (partim)<br>
 			Vicia faba L. (partim)</p>
@@ -245,7 +244,7 @@ Maximaal nettogewicht per verpakking als vermeld in artikel 28
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Botanische benaming <!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>Botanische benaming</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>Maximaal nettogewicht per verpakking, uitgedrukt in g</p>
@@ -299,7 +298,7 @@ Maximaal nettogewicht per verpakking als vermeld in artikel 28
 			Citrullus lanatus (Thunb.) Matsum. et Nakai<br>
 			Cucumis melo L.<br>
 			Cynara cardunculus L.<br>
-			Lycopersicon esculentum Mill.<br>
+			Solanum lycopersicum L.<br>
 			Foeniculum vulgare Mill.<br>
 			Rheum rhabarbarum L.<br>
 			Solanum melongena L.</p>

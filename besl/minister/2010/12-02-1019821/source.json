@@ -2,16 +2,16 @@
   "codex_id": 1019821,
   "title": "Ministerieel besluit van 2010-12-02 tot vaststelling van bepaalde afwijkingen voor de toelating van landrassen en rassen van groenten die van oudsher op bepaalde plaatsen en in bepaalde gebieden worden gekweekt en die door genetische erosie worden bedreigd, en van groenterassen die geen intrinsieke waarde hebben voor de commerciële productie van gewassen, maar die ontwikkeld zijn voor teelt onder bijzondere omstandigheden, en voor het in de handel brengen van zaaizaad van die landrassen en rassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019821/VolledigDocument?datum=2010-12-31",
-  "source_sha256": "abb21a200db7c27b342476fdf5f31135a011fa146a62a345775934a65da8949b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019821/VolledigDocument?datum=2014-03-31",
+  "source_sha256": "93321eb39635829aaef7d268b6f8cb4e8eeb45c155c9904b061dcc302be0c932",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019821&param=informatie",
-  "as_of": "2010-12-31",
+  "as_of": "2014-03-31",
   "made": "2010-12-02",
   "gazette": "2010-12-23",
   "numac": 2010035981,
   "document_start": "2010-12-31",
   "document_end": null,
-  "in_force": "2010-12-31",
+  "in_force": "2014-03-31",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2010-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-03-31; future article versions excluded; article text as the API gives it"
 }
