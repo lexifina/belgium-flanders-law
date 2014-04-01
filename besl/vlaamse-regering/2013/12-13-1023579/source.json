@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023579,
+  "title": "Besluit van de Vlaamse Regering van 2013-12-13 tot wijziging van de regelgeving naar aanleiding van de opheffing van het intern verzelfstandigd agentschap Vlaams Agentschap voor Internationale Samenwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023579/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "d2532438ef53a1de53c87381ba7e32abb2ebd668225af78ff3a62289f98b8b61",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023579&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2013-12-13",
+  "gazette": "2014-01-16",
+  "numac": 2013036225,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
