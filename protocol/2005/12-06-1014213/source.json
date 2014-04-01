@@ -2,16 +2,16 @@
   "codex_id": 1014213,
   "title": "Protocol van 2005-12-06 Samenwerkingsprotocol tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest met betrekking tot de heffing in de sector van de melk en de zuivelproducten",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014213/VolledigDocument?datum=2008-04-01",
-  "source_sha256": "918f22f13903f4aebc7312a516491c2d748ec32e09d5a69baa765ea9ada556fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014213/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "2fa667fc16e525a83a5f8c8685aaa41803c075867c52ca0f42e3d1dd5d4f02b4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014213&param=informatie",
-  "as_of": "2008-04-01",
+  "as_of": "2014-04-01",
   "made": "2005-12-06",
   "gazette": "2006-01-19",
   "numac": 2006035022,
   "document_start": "2005-04-01",
   "document_end": null,
-  "in_force": "2008-04-01",
+  "in_force": "2014-04-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2008-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
