@@ -86,7 +86,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 20.
 
-§ 1. Voor het beleidsdomein Internationaal Vlaanderen wordt het Vlaams ministerie Internationaal Vlaanderen opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Vlaams Agentschap voor Internationale Samenwerking. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Internationaal Vlaanderen behoren zijn : <br />1° het Vlaams Agentschap voor Internationaal Ondernemen; <br />2° Toerisme Vlaanderen.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Internationaal Vlaanderen behoort, is de strategische adviesraad Internationaal Vlaanderen.
+§ 1. Voor het beleidsdomein Internationaal Vlaanderen wordt het Vlaams   ministerie Internationaal Vlaanderen opgericht, dat bestaat uit het gelijknamige   departement. <BR><BR>§ 2. De agentschappen met rechtspersoonlijkheid die tot het   beleidsdomein Internationaal Vlaanderen behoren zijn : <BR>1° het Vlaams   Agentschap voor Internationaal Ondernemen; <BR>2° Toerisme Vlaanderen.<BR><BR>§   3. De strategische adviesraad die tot het beleidsdomein Internationaal   Vlaanderen behoort, is de strategische adviesraad Internationaal   Vlaanderen.
 
 ### ART. 21.
 
@@ -94,7 +94,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 22.
 
-§ 1. Voor het beleidsdomein Onderwijs en Vorming wordt het Vlaams Ministerie van Onderwijs en Vorming opgericht, dat bestaat uit het gelijknamige departement en vier agentschappen zonder rechtspersoonlijkheid : <br />1° Agentschap voor Onderwijscommunicatie; <br />2° Agentschap voor Onderwijsdiensten; <br />3° Agentschap Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen.<br />4° Agentschap voor Kwaliteitszorg in Onderwijs en Vorming.<br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Onderwijs en Vorming behoort, is het Agentschap voor Infrastructuur in het Onderwijs.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Onderwijs en Vorming behoort, is de Vlaamse Onderwijsraad.
+§ 1. Voor het beleidsdomein Onderwijs en Vorming wordt het Vlaams   Ministerie van Onderwijs en Vorming opgericht, dat bestaat uit het gelijknamige   departement en vier agentschappen zonder rechtspersoonlijkheid : <BR>1° ...;   <BR>2° Agentschap voor Onderwijsdiensten; <BR>3° Agentschap Hoger Onderwijs,   Volwassenenonderwijs en Studietoelagen.<BR>4° Agentschap voor Kwaliteitszorg in   Onderwijs en Vorming.<BR><BR>§ 2. Het agentschap met rechtspersoonlijkheid dat   tot het beleidsdomein Onderwijs en Vorming behoort, is het Agentschap voor   Infrastructuur in het Onderwijs.<BR><BR>§ 3. De strategische adviesraad die tot   het beleidsdomein Onderwijs en Vorming behoort, is de Vlaamse   Onderwijsraad.
 
 ### ART. 23.
 
