@@ -1,0 +1,17 @@
+{
+  "codex_id": 1039330,
+  "title": "Besluit van de Vlaamse Regering van 2024-01-12 tot wijziging van het Agentschapsspecifiek Besluit Vlaams Agentschap voor Internationaal Ondernemen van 28 februari 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1039330/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "19042421e077fdab45cb7b99bb9d50cd6e4512e915f6b4471b2776d8280c95d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1039330&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2024-01-12",
+  "gazette": "2024-02-09",
+  "numac": 2024001156,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
