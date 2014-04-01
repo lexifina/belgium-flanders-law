@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024563,
+  "title": "Ministerieel besluit van 2014-04-06 betreffende de regels voor de erkenning en de subsidiëring van de opvoedingslijn",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024563/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "66b4c33415a18d9854c821cbb20debd9331980d49278e89af910ba93d1d121b1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024563&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-04-06",
+  "gazette": "2014-09-16",
+  "numac": 2014035745,
+  "document_start": "2014-04-01",
+  "document_end": "2019-12-31",
+  "in_force": "2014-04-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
