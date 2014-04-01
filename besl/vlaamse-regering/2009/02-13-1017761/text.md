@@ -8,68 +8,68 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° Kind en Gezin : het intern verzelfstandigd agentschap, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° opvang op bestendige wijze : de gewone, geregeld georganiseerde opvang van kinderen;<br />3° inspectie : een personeelslid van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie.
+...
 
 ## HOOFDSTUK II. Toepassingsgebied van melding
 
 ### ART. 2.
 
-Overeenkomstig artikel 14 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, is iedereen die opvang op bestendige wijze aanbiedt voor kinderen, vanaf hun geboorte tot zij 12 jaar zijn, verplicht dit mee te delen aan Kind en Gezin.
+...
 
 ### ART. 3.
 
-Deze meldingsplicht geldt zowel voor natuurlijke personen als voor rechtspersonen die dergelijke opvang organiseren.
+...
 
 ### ART. 4.
 
-De volgende activiteiten worden niet beschouwd als opvang op bestendige wijze : <br />1° het verstrekken van onderwijs;<br />2° de activiteiten van internaten;<br />3° het bieden van jeugdhulp;<br />4° de zorg in een ziekenhuis;<br />5° de activiteiten van jeugdwerk en van sportdiensten;<br />6° kortdurend toezicht op kinderen van klanten in handelszaken.
+...
 
 ### ART. 5.
 
-De opvang met een erkenning of een attest van toezicht van Kind en Gezin wordt automatisch beschouwd als gemeld.
+...
 
 ## HOOFDSTUK III. Procedure van melding
 
 ### ART. 6.
 
-Volgende gegevens moeten worden gemeld : <br />1° naam, adres, contactgegevens, rechtspositie en rechtsvorm van degene die de opvang organiseert, alsook de verantwoordelijke van de voorziening;<br />2° adres en contactgegevens van de opvangvoorziening;<br />3° of het voorschoolse opvang of buitenschoolse opvang betreft.<br /><br />De melding gebeurt met het door Kind en Gezin ter beschikking gestelde formulier, per post of elektronisch. De opvangvoorziening vult het formulier volledig in en dateert het.
+...
 
 ### ART. 7.
 
-Kind en Gezin stuurt, als de melding volledig is, binnen een termijn van dertig kalenderdagen, een ontvangstmelding waarbij wordt bevestigd dat aan de meldingsplicht voldaan is.
+...
 
 ## HOOFDSTUK IV. Gevolgen van melding
 
 ### ART. 8.
 
-De gemelde gegevens, vermeld in artikel 6, eerste lid, worden geregistreerd door Kind en Gezin.
+...
 
 ### ART. 9.
 
-Er kan een klacht ingediend worden over het functioneren van de opvangvoorziening bij de klachtendienst van Kind en Gezin.
+...
 
 ### ART. 10.
 
-Inspectie heeft toegang tot alle plaatsen en ruimten die voor de opvang bestemd zijn of ermee in verband staan.<br /><br />Het bezoek van inspectie heeft betrekking op de psychische of fysieke veiligheid van de opgevangen kinderen.
+...
 
 ### ART. 11.
 
-Op verzoek van Kind en Gezin of van inspectie verschaft de opvangvoorziening gegevens over de opvangactiviteiten en de identificatiegegevens van de opgevangen kinderen.
+...
 
 ### ART. 12.
 
-De stopzetting van de opvangactiviteiten en elke andere wijziging van gegevens wordt door de opvangvoorziening onmiddellijk gemeld aan Kind en Gezin.
+...
 
 ## HOOFDSTUK V. Slotbepalingen
 
 ### ART. 13.
 
-Het besluit van de Vlaamse Regering van 24 juni 1997 houdende regeling van de melding aan de instelling Kind en Gezin van de opvang op bestendige wijze van kinderen, gewijzigd bij de besluiten van de Vlaamse Regering van 22 november 2002 en 2 september 2005, wordt opgeheven.
+...
 
 ### ART. 14.
 
-Dit besluit treedt in werking op 1 januari 2009.<br />
+...
 
 ### ART. 15.
 
-De Vlaamse minister, bevoegd voor de Bijstand aan Personen, is belast met de uitvoering van dit besluit.
+...
