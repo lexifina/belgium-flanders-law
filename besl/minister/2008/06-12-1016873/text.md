@@ -6,8 +6,8 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op d
 
 ### ART. 1.
 
-Voor de volgende tewerkstellingsprogramma's die gericht zijn op werken in de kinderopvang, wordt een premie voor gesubsidieerde contractuelen verkregen, die verrekend moet worden met de subsidie, vermeld in artikel 12 van het besluit van de Vlaamse Regering van 23 februari 2001 houdende erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders :<br />1° het programma betreffende gesubsidieerde contractuelen bij andere werkgevers dan plaatselijke besturen in het Brussels Hoofdstedelijk Gewest en ingevolge de overeenkomst tussen de Vlaamse Gemeenschap en het Brussels Hoofdstedelijk Gewest betreffende tewerkstelling en kinderopvang;<br />2° het programma betreffende gesubsidieerde contractuelen bij plaatselijke besturen in het Brussels Hoofdstedelijk Gewest en ingevolge de beslissing van de Brusselse Hoofdstedelijke Regering over de verdeling van gesubsidieerde contractuelen onder diverse sectoren, voor zover ze betrekking hebben op de creatie van extra plaatsen in kinderdagverblijven.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 17 november 2007.<br /><br />
+...

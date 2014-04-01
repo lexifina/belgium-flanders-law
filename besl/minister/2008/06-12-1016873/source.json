@@ -2,16 +2,16 @@
   "codex_id": 1016873,
   "title": "Ministerieel besluit van 2008-06-12 tot bepaling van de tewerkstellingsprogramma's die specifiek gericht zijn op werken in de kinderopvang en waarvoor een premie voor gesubsidieerde contractuelen verkregen wordt",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016873/VolledigDocument?datum=2007-11-17",
-  "source_sha256": "75b46f930347eca3db829bbbb620cdabaae68003cfcf902aef9e7eb41e14a130",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016873/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "fd30b621a05f70f60ecc73c703a96eeac4791ed90a124e9b14dcdd4a164a5362",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016873&param=informatie",
-  "as_of": "2007-11-17",
+  "as_of": "2014-04-01",
   "made": "2008-06-12",
   "gazette": "2008-07-01",
   "numac": 2008202273,
   "document_start": "2007-11-17",
   "document_end": "2014-03-31",
-  "in_force": "2007-11-17",
+  "in_force": "2014-04-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2007-11-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
