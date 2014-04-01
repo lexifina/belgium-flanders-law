@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023899,
+  "title": "Ministerieel besluit van 2013-12-18 betreffende de kwaliteitszorg in de adoptiediensten voor interlandelijke adoptie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023899/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "e750a7c4403cbeea0773a6e9ffc9549a126563c108b69038ad24097c22b4079b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023899&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2013-12-18",
+  "gazette": "2014-03-04",
+  "numac": 2014201209,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
