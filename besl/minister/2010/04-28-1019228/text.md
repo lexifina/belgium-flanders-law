@@ -59,6 +59,10 @@ Na de registratie van de onderneming door een geregistreerd persoon stuurt het A
 
 De geregistreerde persoon die de onderneming heeft geregistreerd, beschikt over het gebruiksbeheer. Dat betekent dat hij onder meer andere geregistreerde personen kan aanwijzen als gemachtigde van een geregistreerde onderneming.<br /><br />Als de geregistreerde persoon andere personen aanwijst als gemachtigde, moet de geregistreerde onderneming eveneens een volmacht als vermeld in artikel 7, derde lid, verlenen aan die andere gemachtigden om de subsidie aan te vragen of het subsidiedossier via de website te beheren.<br /><br />
 
+### ART. 8/1.
+
+De dienstverlener, vermeld in artikel 13 van het besluit van de Vlaamse   Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote   ondernemingen voor ondernemerschapbevorderende diensten, kan niet optreden als   gemachtigde als vermeld in artikel 7 en 8 van dit besluit, voor de door hem   verleende ondernemerschapsbevorderende diensten, vermeld in artikel 13 van het   voormelde besluit.
+
 ### ART. 9.
 
 De registratie van een persoon kan gedesactiveerd worden door het Agentschap Ondernemen als : <br />1° de geregistreerde persoon de voorwaarden van dit besluit niet naleeft;<br />2° de geregistreerde persoon gerechtelijk veroordeeld is of het voorwerp uitmaakt van een gerechtelijk onderzoek met betrekking tot een misdrijf, gepleegd in het kader van de registratieprocedure;<br />3° de geregistreerde persoon misbruiken met zijn federaal token vermoedt en het Agentschap Ondernemen verzoekt om zijn registratie te desactiveren. <br />Het Agentschap Ondernemen is niet aansprakelijk voor de schade die voorvloeit uit de desactivatie van een geregistreerd persoon. <br /><br />
