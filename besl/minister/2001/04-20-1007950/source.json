@@ -2,16 +2,16 @@
   "codex_id": 1007950,
   "title": "Ministerieel besluit van 2001-04-20 betreffende de voorwaarden tot het subsidiëren van bedrijfsontwikkelingsplannen en bedrijfsbegeleidingen in de biologische landbouw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007950/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "232354a5b1f99cd953df06856e20bf0d80e1f9e83dbc2fa936de48f43bb99fc8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007950/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "c33a3b8322dff20830159ccefe78dc54877ae3cec792cf8082c3dd18f22f200e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007950&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-04-01",
   "made": "2001-04-20",
   "gazette": "2001-04-28",
   "numac": 2001035334,
   "document_start": null,
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-04-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
