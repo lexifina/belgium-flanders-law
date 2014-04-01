@@ -26,6 +26,10 @@
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 22 november 2013 houdende de vergunningsvoorwaarden en het kwaliteitsbeleid voor gezinsopvang en groepsopvang van baby's en peuters
 
+### ART. 5.
+
+&nbsp;In artikel 75 van het besluit van de Vlaamse Regering van 22   november 2013 houdende de vergunningsvoorwaarden en het kwaliteitsbeleid voor   gezinsopvang en groepsopvang van baby's en peuters wordt punt 1° vervangen door   wat volgt:<BR>"1° artikel 1, 2, 5, artikel 7 tot en met 10, artikel 25 tot en   met 32, artikel 35 en 36 van het decreet van 20 april 2012 houdende de   organisatie van kinderopvang van baby's en peuters;".<BR>
+
 ## HOOFDSTUK 4 Slotbepalingen
 
 ### ART. 6.
