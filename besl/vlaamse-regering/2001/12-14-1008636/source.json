@@ -2,16 +2,16 @@
   "codex_id": 1008636,
   "title": "Besluit van de Vlaamse Regering van 2001-12-14 houdende de toekenning van een verzekering persoonlijke ongevallen aan opvanggezinnen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008636/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "87c3f2a950c4771522f6fa4271b64a8b0b83ef73fe10508f452cc33c5133a0bf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008636/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "01cf2e0b0519f907661a69de6ba64d8a874d2c0a3d1ee4dd703ac89709e05092",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008636&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-04-01",
   "made": "2001-12-14",
   "gazette": "2002-01-30",
   "numac": 2002035020,
   "document_start": "2002-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-04-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
