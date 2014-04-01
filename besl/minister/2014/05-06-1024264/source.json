@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024264,
+  "title": "Ministerieel besluit van 2014-05-06 betreffende de regels voor de erkenning en subsidiëring van Huizen van het Kind",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024264/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "71339d775882e1da77a2d6c358ad383618145142e877fc70f75f706f06e61daf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024264&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-05-06",
+  "gazette": "2014-07-03",
+  "numac": 2014203642,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
