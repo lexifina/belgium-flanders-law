@@ -2,16 +2,16 @@
   "codex_id": 1019221,
   "title": "Besluit van de Vlaamse Regering van 2010-04-02 houdende subsidiëring van initiatieven voor buitenschoolse opvang en van buitenschoolse opvang in aparte lokalen in het kader van het generatiepact",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019221/VolledigDocument?datum=2010-09-21",
-  "source_sha256": "35500ce689d965b6cbacbcd2a76e639d35d53de98911ff9bd723169c680dd600",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019221/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "eb37d344c9134f3fbc0133d77c69f8e3a55ad5243ae8524b79664394b471f282",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019221&param=informatie",
-  "as_of": "2010-09-21",
+  "as_of": "2014-04-01",
   "made": "2010-04-02",
   "gazette": "2010-07-20",
   "numac": 2010203803,
   "document_start": "2010-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2010-09-21",
+  "in_force": "2014-04-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }

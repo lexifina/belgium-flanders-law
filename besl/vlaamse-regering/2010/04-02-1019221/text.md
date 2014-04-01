@@ -6,32 +6,32 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 30 april 2004 tot opric
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° buitenschoolse opvang in aparte lokalen : de buitenschoolse opvang in aparte lokalen, vermeld in het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven;<br />2° extra erkende plaatsen : plaatsen die erkend zijn op basis van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiering van initiatieven voor buitenschoolse opvang en de wet van 23 december 2005 betreffende het generatiepact, of op basis van het ministerieel besluit van 9 juli 2001 houdende de voorwaarden voor het organiseren van en de bepalingen over de toestemming voor en de subsidiëring van buitenschoolse opvang in aparte lokalen in kinderdagverblijven en de wet van 23 december 2005 betreffende het generatiepact;<br />3° initiatief : een initiatief voor buitenschoolse opvang als vermeld in het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiering van initiatieven voor buitenschoolse opvang;<br />4° Kind en Gezin : het intern verzelfstandigd agentschap Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />5° laaggeschoolde jongere : de persoon die de leeftijd van dertig jaar niet bereikt heeft, die niet meer aan de leerplicht onderworpen is en die houder is van een diploma of getuigschrift van als hoogste niveau het hoger secundair onderwijs. Voor de toepassing van dit besluit wordt de houder van een diploma, getuigschrift of certificaat kinderzorg/begeleider in de kinderopvang gelijkgesteld met een laaggeschoolde jongere.
+...
 
 ### ART. 2.
 
-Een initiatief of een buitenschoolse opvang in aparte lokalen kan door Kind en Gezin forfaitair gesubsidieerd worden om laaggeschoolde jongeren die aangeworven zijn overeenkomstig de wet van 23 december 2005 betreffende het generatiepact, omkadering te bieden. De laaggeschoolde jongeren worden ingezet voor extra erkende plaatsen of voor dienstverlening.<br /><br />Onder dienstverlening als vermeld in het eerste lid wordt verstaan een ondersteunende of logistieke functie die in het initiatief of de buitenschoolse opvang in aparte lokalen niet of onvoldoende is uitgebouwd. De dienstverlening is een meerwaarde voor kinderen en gezinnen.
+...
 
 ### ART. 3.
 
-De forfaitaire subsidie bedraagt maximaal 5.363,05 euro (vijfduizend driehonderddrieënzestig euro vijf cent) per jaar per VTE laaggeschoolde jongere in dienst. Dat bedrag wordt elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+...
 
 ### ART. 4.
 
-De aan een initiatief of buitenschoolse opvang in aparte lokalen toegekende forfaitaire subsidie blijft behouden : <br />1° zolang de daartoe aangeworven laaggeschoolde jongere werkt in dat initiatief of in de buitenschoolse opvang in aparte lokalen;<br />2° zolang de daartoe aangeworven laaggeschoolde jongere binnen zes maanden na zijn vertrek vervangen wordt door een andere laaggeschoolde jongere;<br />3° zolang de daartoe aangeworven laaggeschoolde jongere binnen zes maanden na de laatste dag van het kwartaal in de loop waarvan de werknemer de leeftijd van dertig jaar bereikt, vervangen wordt door een andere laaggeschoolde jongere.
+...
 
 ### ART. 5.
 
-De forfaitaire subsidie wordt stopgezet als het initiatief of de buitenschoolse opvang in aparte lokalen de erkenning voor alle extra erkende plaatsen die worden gerealiseerd met laaggeschoolde jongeren verliest. Als de erkenning niet voor alle extra erkende plaatsen die worden gerealiseerd met laaggeschoolde jongeren wordt ingetrokken, wordt de forfaitaire subsidie verhoudingsgewijs stopgezet.
+...
 
 ### ART. 6.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. Het initiatief of de buitenschoolse opvang in aparte lokalen verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of stukken over de werking. Het toezicht ter plaatse wordt uitgeoefend door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004. Het initiatief of de buitenschoolse opvang in aparte lokalen verstrekt de door personeelsleden van het intern verzelfstandigd agentschap Zorginspectie gevraagde inlichtingen of stukken over de werking. Zij krijgen ook de vrije toegang tot de lokalen van het initiatief of de buitenschoolse opvang in aparte lokalen. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers.
+...
 
 ### ART. 7.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010.
+...
 
 ### ART. 8.
 
-De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
+...
