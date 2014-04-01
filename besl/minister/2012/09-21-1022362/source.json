@@ -2,16 +2,16 @@
   "codex_id": 1022362,
   "title": "Ministerieel besluit van 2012-09-21 houdende delegatie van sommige bevoegdheden inzake de in-, uit-, doorvoer en overbrenging van defensiegerelateerde producten, ander voor militair gebruik dienstig materiaal, ordehandhavingsmateriaal, civiele vuurwapens, onderdelen en munitie en inzake de uitvoer en overbrenging van producten voor tweeërlei gebruik aan de secretaris-generaal van het Departement internationaal Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022362/VolledigDocument?datum=2012-07-01",
-  "source_sha256": "74cd6e347fc9b1592fc824449cc86390106f255fcfc7bc05fb510dc21f683b1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022362/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "1b2d9b674ffd19d2d0205449a997daecf618d73419d9adbffdeaf3a0cd2f6fa9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022362&param=informatie",
-  "as_of": "2012-07-01",
+  "as_of": "2014-04-01",
   "made": "2012-09-21",
   "gazette": "2012-10-09",
   "numac": 2012036068,
   "document_start": "2012-07-01",
   "document_end": "2014-03-31",
-  "in_force": "2012-07-01",
+  "in_force": "2014-04-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2012-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
