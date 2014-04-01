@@ -2,16 +2,16 @@
   "codex_id": 1017913,
   "title": "Ministerieel besluit van 2009-04-24 houdende vaststelling van de wijze waarop zelfstandige onthaalouders en verantwoordelijken van zelfstandige opvangvoorzieningen de kennis van het Nederlands kunnen bewijzen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017913/VolledigDocument?datum=2009-05-26",
-  "source_sha256": "72b16ac163ca1d44aa0217a4b3f1f48d383613711e5aa4d914ab9e5ba0f56aac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017913/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "65c3010e5c2aeb455879e51cc3f79829b0fce3ee5311e05cbaa0a0aed35b9fee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017913&param=informatie",
-  "as_of": "2009-05-26",
+  "as_of": "2014-04-01",
   "made": "2009-04-24",
   "gazette": "2009-05-26",
   "numac": 2009202236,
   "document_start": "2009-05-26",
   "document_end": "2014-03-31",
-  "in_force": "2009-05-26",
+  "in_force": "2014-04-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }

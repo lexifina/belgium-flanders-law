@@ -6,8 +6,8 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op h
 
 ### ART. 1.
 
-Zelfstandige onthaalouders en verantwoordelijken van een zelfstandige opvangvoorziening kunnen de kennis van het Nederlands bewijzen door te slagen voor een taalexamen naar keuze, georganiseerd door het selectiebureau van de overheid Selor, als tijdens dat examen de mondelinge kennis van het Nederlands getest wordt.
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.
+...
