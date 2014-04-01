@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024233,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-20 houdende de overdracht van personeelsleden van het Agentschap voor Onderwijscommunicatie aan het Departement Onderwijs en Vorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024233/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "3f7c1e94051da2e0f7008e0faa0b30306319921dc56e83a3aa7ec1bc07ace548",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024233&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-03-20",
+  "gazette": "2014-06-30",
+  "numac": 2014035519,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
