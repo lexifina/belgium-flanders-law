@@ -2,16 +2,16 @@
   "codex_id": 1023513,
   "title": "Decreet van 2013-12-20 houdende bepalingen tot begeleiding van de begroting 2014",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023513/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "2d3646c10f16ea18eca09f85913f9938a56a2623304ad2bed5086ce5e7a5b225",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023513/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "725b5cb8cc89c88ff12e2b0797ddce006107d723e77e6a66997a1333879e5c21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023513&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-04-01",
   "made": "2013-12-20",
   "gazette": "2013-12-31",
   "numac": 2013036201,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2014-04-01",
   "article_versions": 61,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
