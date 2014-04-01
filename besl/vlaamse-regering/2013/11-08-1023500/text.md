@@ -36,6 +36,42 @@
 
 ## HOOFDSTUK 2. Algemene voorwaarden
 
+### ART. 2.
+
+Voor dezelfde adviesdiensten is er geen cumulering mogelijk van steun,   verleend in het kader van dit besluit, met andere steun ongeacht de bron, de   vorm en het doel van de steun.
+
+### ART. 3.
+
+De landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool kan per omschakelingsadvies, biobedrijfsplan, startersadvies en   bedrijfsadvies beroep doen op één of meer erkende adviesdiensten.
+
+### ART. 4.
+
+De landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool die gesubsidieerde bedrijfsadvisering wil, maakt een eerste   afspraak met een erkende adviesdienst. Voorafgaand aan de bedrijfsadvisering   informeert de erkende adviesdienst de landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool duidelijk over de inhoud en het verloop   van de bedrijfsadvisering, de inschatting van de periode, de totale kostprijs en   de mogelijke subsidies.
+
+### ART. 5.
+
+Om in aanmerking te komen voor subsidiëring sluit de erkende   bedrijfsadviseur met de betrokken landbouwer, kandidaat-biologische landbouwer   of land- en tuinbouwschool een contract voor de gewenste bedrijfsadvisering. Dit   contract moet gedateerd en ondertekend worden door de erkende bedrijfsadviseur   en de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool.
+
+### ART. 6.
+
+De hoogte van het contractbedrag en de aangevraagde subsidie voor een   bedrijfsadvisering wordt in het contract tussen de landbouwer,   kandidaat-biologische landbouwer of de land- en tuinbouwschool en de erkende   bedrijfsadviseur vastgelegd. Het contractbedrag is het bedrag van de voorziene   adviesverlening exclusief BTW.
+
+### ART. 7.
+
+<P>De erkende adviesdienst bezorgt een kopie van het contract aan de bevoegde   entiteit binnen veertien werkdagen na de ondertekening van het contract. De   postdatum geldt als indieningsdatum. Het contract kan digitaal naar de bevoegde   entiteit doorgestuurd worden. De ontvangstdatum van de e-mail geldt als   indieningsdatum. <BR></P>  <P>De bevoegde entiteit wordt ten minste twee werkdagen op voorhand in kennis   gesteld van de plaats en het tijdstip van de bedrijfsbezoeken waarvoor een   subsidie wordt aangevraagd. <BR></P>  <P>In uitzonderlijke omstandigheden en wegens gegronde redenen kan de bevoegde   entiteit toestemming verlenen om af te wijken van de termijn van twee   werkdagen.<BR></P>  <P>Als een bedrijfsbezoek niet kan plaatsvinden, wordt dit aan de bevoegde   entiteit doorgegeven voor het oorspronkelijke bedrijfsbezoek plaatsvindt.   <BR></P>  <P>De bevoegde entiteit kijkt na welk subsidiebedrag er nog beschikbaar is voor   de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool.<BR></P>  <P>De bevoegde entiteit informeert de landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool over het beschikbare subsidiebedrag dat   ter beschikking staat voor de bedrijfsadvisering binnen veertien werkdagen na   ontvangst van het contract.<BR></P>  <P>De bevoegde entiteit informeert de erkende adviesdienst of het aangevraagde   subsidiebedrag voor dat contract al dan niet beschikbaar is voor de betrokken   landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool,   binnen veertien werkdagen na ontvangst van het contract.<BR></P>  <P>De minister kan nadere regels inzake inhoud van het contract en de te volgen   procedure bepalen. </P>
+
+### ART. 8.
+
+<P>Na de datum van het laatste bedrijfsbezoek in het kader van de   bedrijfsadvisering dient de erkende adviesdienst een ondertekende   uitbetalingsaanvraag in bij de bevoegde entiteit.<BR></P>  <P>De minister bepaalt de gegevens die de uitbetalingsaanvraag moet bevatten en   de documenten die toegevoegd moeten worden.<BR></P>  <P>De minister kan nadere voorwaarden en modaliteiten voor het aanvragen en het   uitbetalen van de subsidie bepalen.</P>
+
+### ART. 9.
+
+<P>Na het laatste bedrijfsbezoek wordt door de landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool op een evaluatieformulier aangegeven   welke van de vooropgestelde elementen wel degelijk naar wens en in voldoende   mate aan bod kwamen. Dit wordt gedateerd en ondertekend door de landbouwer,   kandidaat-biologische landbouwer of de land- en tuinbouwschool en bezorgd aan de   bevoegde entiteit.<BR></P>  <P>De minister kan nadere voorwaarden en modaliteiten voor de evaluatie   bepalen.</P>
+
+### ART. 10.
+
+De erkende adviesdienst moet steeds op elk document zichtbaar het logo van   de Vlaamse overheid plaatsen en vermelden dat de Vlaamse overheid de   bedrijfsadvisering subsidieert, met de vermelding "Met de steun van de Vlaamse   overheid".
+
 ## HOOFDSTUK 3. Criteria voor de erkenning van de adviesdiensten voor bedrijfsadvisering in de biologische landbouw
 
 ## Afdeling 1. Erkenning van centra voor bedrijfsadvisering in de biologische landbouw
@@ -82,6 +118,10 @@ Het erkende centrum brengt de bevoegde entiteit onverwijld in kennis van   wijzi
 
 De erkende bedrijfsadviseurs stemmen ermee in dat op de website van de   Vlaamse overheid een beschrijving weergegeven wordt van hun erkenning als   bedrijfsadviseur in de biologische landbouw met inbegrip van de vermelding van   het type bedrijfsadvisering en de sectoren of de thema's waarin ze erkend zijn   en in voorkomend geval bij welk erkend centrum de adviseur in dienst is of   waarmee ze een overeenkomst voor onderaanneming heeft afgesloten.
 
+### ART. 21.
+
+<P>Als een erkende bedrijfsadviseur gedurende een periode van drie jaar geen   gesubsidieerde bedrijfsadvisering verleende, vervalt de erkenning.<BR></P>  <P>Als de bedrijfsadviseur opnieuw erkend wil worden, moet een nieuwe   erkenningsaanvraag ingediend worden.</P>
+
 ### ART. 22.
 
 <P>De erkenning kan worden opgeheven in de gevallen dat de bedrijfsadviseur een   verklaring heeft afgelegd die, na onderzoek, geheel of gedeeltelijk vals blijkt   te zijn, of die niet voldoet aan de voorwaarden van dit besluit. De erkende   bedrijfsadviseur zal steeds gehoord worden door de bevoegde entiteit vooraleer   tot opheffing kan worden overgegaan. De subsidies voor geleverde prestaties voor   contracten die afgesloten werden voor de datum van de opheffing en die voldoen   aan alle bepalingen van dit besluit, kunnen worden uitbetaald.<BR></P>  <P>In het geval van opheffing van de erkenning kan de bedrijfsadviseur die   opnieuw erkend wil worden een nieuwe erkenningsaanvraag indienen ten vroegste   een jaar na de opheffing van de erkenning.</P>
@@ -90,18 +130,98 @@ De erkende bedrijfsadviseurs stemmen ermee in dat op de website van de   Vlaamse
 
 ## Afdeling 1. Algemene bepaling
 
+### ART. 23.
+
+<P>Binnen de grenzen van de beschikbare begrotingskredieten kan de minister een   subsidie toekennen aan een erkende adviesdienst voor bedrijfsadvisering in de   biologische landbouw.</P>  <P><BR>De minister kan de bevoegdheid tot het toekennen van die subsidies   delegeren aan een personeelslid van het Departement Landbouw en Visserij, tot op   het meest functionele niveau.</P>
+
 ## Afdeling 2. Subsidie omschakelingsadvies
+
+### ART. 24.
+
+De minister kan een subsidie toekennen aan erkende adviesdiensten voor het   geven van omschakelingsadvies.
+
+### ART. 25.
+
+<P>De erkende adviesdienst kan een subsidie ontvangen voor het geven van   omschakelingsadvies aan:<BR>1° gangbare landbouwers;<BR>2° land- en   tuinbouwscholen zonder biologische productiemethode;<BR>3° kandidaat-biologische   landbouwers.<BR></P>  <P>De hoogte van de aangevraagde subsidie per omschakelingsadvies is binnen de   voorwaarden, vermeld in artikel 26, vrij te kiezen.</P>
+
+### ART. 26.
+
+<P>De toe te kennen subsidie voor omschakelingsadvies bedraagt maximaal 75% van   het contractbedrag en kan voor alle subsidies voor omschakelingsadvies samen in   totaal per gangbare landbouwer, kandidaat-biologische landbouwer of land- en   tuinbouwschool zonder biologische productiemethode 510 euro niet overschrijden.   <BR></P>  <P>De subsidie moet volledig ten goede komen aan de gangbare landbouwer,   kandidaat-biologische landbouwer of de land- en tuinbouwschool zonder   biologische productiemethode en moet duidelijk vermeld worden als korting op   alle documenten ter attentie van de gangbare landbouwer, kandidaat-biologische   landbouwer of de land- en tuinbouwschool zonder biologische   productiemethode.<BR></P>  <P>De minister bepaalt de minimale inhoud van het omschakelingsadvies en bepaalt   de nadere regels met betrekking tot de te volgen procedure.</P>
 
 ## Afdeling 3. Subsidie voor een biobedrijfsplan
 
+### ART. 27.
+
+De minister kan een subsidie toekennen aan erkende adviesdiensten voor het   opmaken van een biobedrijfsplan.
+
+### ART. 28.
+
+<P>De erkende adviesdienst kan een subsidie ontvangen voor het opmaken van een   biobedrijfsplan voor:<BR>1° kandidaat-biologische landbouwers;<BR>2° gangbare   landbouwers;<BR>3° startende biologische landbouwers;<BR>4° biologische   landbouwers; <BR>5° land- en tuinbouwscholen.<BR></P>  <P>De subsidie voor een biobedrijfsplan kan toegekend worden tot drie jaar nadat   de landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool   het eerste gedateerde en ondertekende contract heeft afgesloten met een erkend   controleorgaan.<BR></P>  <P>De hoogte van de aangevraagde subsidie per biobedrijfsplan is binnen de   voorwaarden, vermeld in artikel 29, vrij te kiezen.</P>
+
+### ART. 29.
+
+<P>De toe te kennen subsidie voor een biobedrijfsplan bedraagt maximaal 75% van   het contractbedrag en kan voor alle subsidies voor het biobedrijfsplan in totaal   per landbouwer, kandidaat-biologische landbouwer of land- en tuinbouwschool 960   euro niet overschrijden. <BR></P>  <P>De subsidie moet volledig ten goede komen aan de landbouwer,   kandidaat-biologische landbouwer of de land- en tuinbouwschool en moet duidelijk   vermeld worden als korting op alle documenten ter attentie van de landbouwer,   kandidaat biologische landbouwer of de land- en tuinbouwschool.<BR></P>  <P>De minister bepaalt de minimale inhoud van het biobedrijfsplan en bepaalt de   nadere regels met betrekking tot de te volgen procedure.</P>
+
 ## Afdeling 4. Subsidie startersadvies
+
+### ART. 30.
+
+De minister kan een subsidie toekennen aan een erkende adviesdienst voor   het geven van startersadvies.
+
+### ART. 31.
+
+<P>De erkende adviesdienst kan een subsidie ontvangen voor het geven van   startersadvies aan :<BR>1° startende biologische landbouwers;<BR>2° startende   land- en tuinbouwscholen;<BR></P>  <P>De hoogte van de aangevraagde subsidie per startersadvies is binnen de   voorwaarden, vermeld in artikel 32, vrij te kiezen.</P>
+
+### ART. 32.
+
+<P>De toe te kennen subsidie voor startersadvies bedraagt maximaal 75% van het   contractbedrag en kan voor alle subsidies voor startersadvies samen in totaal   per startende biologische landbouwer of startende land- en tuinbouwschool 3200   euro niet overschrijden. <BR></P>  <P>De subsidie moet volledig ten goede komen aan de startende biologische   landbouwer of de startende land- en tuinbouwschool en moet duidelijk vermeld   worden als korting op alle documenten ter attentie van de landbouwer of de land-   en tuinbouwschool.<BR></P>  <P>De minister bepaalt de minimale inhoud van het startersadvies en bepaalt de   nadere regels met betrekking tot de te volgen procedure.</P>
 
 ## Afdeling 5. Subsidie voor bedrijfsadvies
 
+### ART. 33.
+
+De minister kan een subsidie toekennen aan een erkende adviesdienst voor   het geven van bedrijfsadvies.
+
+### ART. 34.
+
+<P>De erkende adviesdienst kan een subsidie ontvangen voor het geven van   bedrijfsadvies aan:<BR>1° biologische landbouwers;<BR>2° land- en tuinbouwschool   met een biologische productiemethode.<BR></P>  <P>De hoogte van de aangevraagde subsidie per bedrijfsadvies is binnen de   voorwaarden, vermeld in artikel 35, vrij te kiezen.</P>
+
+### ART. 35.
+
+<P>De toe te kennen subsidie voor bedrijfsadvies bedraagt maximaal 50% van het   contractbedrag en kan voor alle subsidies voor bedrijfsadvies samen in totaal   per biologische landbouwer of land- en tuinbouwschool met een biologische   productiemethode 4000 euro niet overschrijden. <BR></P>  <P>De subsidie moet volledig ten goede komen aan de biologische landbouwer of de   land- en tuinbouwschool met een biologische productiemethode en moet duidelijk   vermeld worden als korting op alle documenten ter attentie van de biologische   landbouwer of de land- en tuinbouwschool met een biologische   productiemethode.<BR></P>  <P>De minister bepaalt de minimale inhoud van het bedrijfsadvies en bepaalt de   nadere regels met betrekking tot de te volgen procedure.</P>
+
 ## HOOFDSTUK 5. Kwaliteitsbewaking en controle
 
+### ART. 36.
+
+<P>Overeenkomstig artikel 11 en 12 van de wet van 16 mei 2003 tot vaststelling   van de algemene bepalingen die gelden voor de begrotingen, de controle op de   subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook   voor de organisatie van de controle door het Rekenhof, heeft de bevoegde   entiteit voor de uitoefening van haar controleopdracht het recht om tijdens de   bedrijfsbezoeken in het kader van de gesubsidieerde bedrijfsadvisering aanwezig   te zijn en de nodige vaststellingen te doen betreffende de inhoud en het verloop   van de bedrijfsadvisering. De bevoegde entiteit kan bij de landbouwer, kandidaat   biologische landbouwer of de land- en tuinbouwschool informeren naar het verloop   en het resultaat van de bedrijfsadvisering.<BR></P>  <P>Op vraag van de bevoegde entiteit moet de erkende adviesdienst de bevoegde   entiteit bij controle begeleiden. De erkende adviesdienst moet alle documenten   en inlichtingen, noodzakelijk voor de controle, verstrekken.<BR></P>  <P>Als tijdens de controle vastgesteld wordt dat de voorwaarden en de   modaliteiten van dit besluit en zijn uitvoeringsbepalingen niet zijn nagekomen,   wordt de erkende adviesdienst hiervan in kennis gesteld en wordt de subsidie   teruggevorderd met toepassing van artikel 13 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof.<BR></P>  <P>De erkende adviesdienst moet de adviezen ter beschikking houden van de   bevoegde entiteit. De bevoegde entiteit kan op elk moment de adviezen opvragen   bij de erkende adviesdienst. De erkende adviesdienst moet die binnen veertien   werkdagen digitaal aan de bevoegde entiteit bezorgen.</P>
+
 ## HOOFDSTUK 6. Slotbepalingen
+
+### ART. 37.
+
+De steunregelingen, vermeld in dit besluit, vallen onder de bepalingen van   artikel 15 van verordening (EG) nr. 1857/2006 van de Commissie van 15 december   2006 betreffende de toepassing van de artikelen 87 en 88 van het Verdrag op   staatssteun voor kleine en middelgrote ondernemingen die landbouwproducten   produceren, en tot wijziging van Verordening (EG) nr. 70/2001.
+
+### ART. 38.
+
+De volgende regelingen worden opgeheven:<BR>1° het besluit van de Vlaamse   Regering van 20 april 2001 houdende de erkenning en subsidiëring van centra voor   bedrijfsbegeleiding in de biologische landbouw, gewijzigd bij het besluit van de   Vlaamse Regering van 28 april 2006;<BR>2° het ministerieel besluit van 20 april   2001 betreffende de voorwaarden tot het subsidiëren van   bedrijfsontwikkelingsplannen en bedrijfsbegeleidingen in de biologische   landbouw, gewijzigd bij het ministerieel besluit van 19 mei 2006.
+
+### ART. 39.
+
+Overeenkomsten voor het opstellen van bedrijfsontwikkelingsplannen of voor   het verzorgen van bedrijfsbegeleidingen die afgesloten zijn voor de datum van de   opheffing van het besluit van de Vlaamse Regering van 20 april 2001 houdende de   erkenning en subsidiëring van centra voor bedrijfsbegeleiding in de biologische   landbouw en het ministerieel besluit van 20 april 2001 betreffende de   voorwaarden tot het subsidiëren van bedrijfsontwikkelingsplannen en   bedrijfsbegeleidingen in de biologische landbouw worden afgehandeld met   toepassing van de voormelde besluiten.
 
 ### ART. 40.
 
 De centra die op 1 april 2014 erkend zijn met toepassing van artikel 2 van   het besluit van de Vlaamse Regering van 20 april 2001 houdende de erkenning en   subsidiëring van centra voor bedrijfsbegeleiding in de biologische landbouw,   behouden hun erkenning als zij uiterlijk 1 april 2014, aantonen dat ze voldoen   aan de voorwaarde, vermeld in artikel 12, eerste lid, 4°, van dit besluit. Als   de centra op die datum geen bewijs ingediend hebben, waaruit blijkt dat men ten   minste één erkende bedrijfsadviseur in dienst heeft of met tenminste één erkende   bedrijfsadviseur een overeenkomst voor onderaanneming is afgesloten, zal de   erkenning door de minister worden opgeheven.
+
+### ART. 41.
+
+De landbouwer of de kandidaat-biologische landbouwer kan slechts   contracten sluiten met een erkende adviesdienst die in aanmerking komen voor   subsidiëring op grond van dit besluit, wanneer de contracten die de landbouwer   of de kandidaat-biologische landbouwer gesloten heeft met een erkend centrum in   het kader van het besluit van de Vlaamse Regering van 20 april 2001 houdende de   erkenning en subsidiëring van centra voor bedrijfsbegeleiding in de biologische   landbouw en haar uitvoeringsbesluit, zijn uitgevoerd en afgewerkt.
+
+### ART. 42.
+
+Dit besluit treedt in werking op 1 april 2014, met uitzondering van   artikel 1, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22 en 40, die in werking   treden de tiende dag na bekendmaking ervan in het Belgisch   Staatsblad.
+
+### ART. 43.
+
+De Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, is   belast met de uitvoering van dit besluit.
