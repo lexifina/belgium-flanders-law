@@ -2,16 +2,16 @@
   "codex_id": 1013334,
   "title": "Decreet van 2004-05-07 houdende de toekenning van dienstencheques voor kinderopvang",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013334/VolledigDocument?datum=2007-05-17",
-  "source_sha256": "8d93185e940d39073f2aaec73fdceb6e7f2499226e30beb30be09bf90112c46b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013334/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "befbed309f6fac1ca618091ab9b241500e470e49dacdcd540635610b129d4305",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013334&param=informatie",
-  "as_of": "2007-05-17",
+  "as_of": "2014-04-01",
   "made": "2004-05-07",
   "gazette": "2004-08-18",
   "numac": 2004036306,
   "document_start": "2007-05-16",
   "document_end": "2014-03-31",
-  "in_force": "2007-05-17",
+  "in_force": "2014-04-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2007-05-17; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
