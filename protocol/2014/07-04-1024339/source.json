@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024339,
+  "title": "Protocol van 2014-07-04 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest tot wijziging van artikel 9 van het samenwerkingsprotocol van 6 december 2005 met betrekking tot de heffing in de sector van de melk en de zuivelproducten",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024339/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "7b451590528730c6093c5459cf1bfb340e1f116135a06ecfd586e707da97b077",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024339&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-07-04",
+  "gazette": "2014-07-29",
+  "numac": 2014036467,
+  "document_start": "2014-08-08",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
