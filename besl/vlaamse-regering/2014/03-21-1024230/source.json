@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024230,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot wijziging van de regelgeving naar aanleiding van de opheffing van het intern verzelfstandigd agentschap Agentschap voor Onderwijscommunicatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024230/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "47dd9359407adb56827a8fca84b57f1d02a9bd813e28be2687d8f0ed4fe64efe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024230&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-03-21",
+  "gazette": "2014-06-30",
+  "numac": 2014035418,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
