@@ -6,7 +6,23 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° minister:   de V
 
 ### ART. 2.
 
-<P>&nbsp;De bepalingen van dit besluit zijn van toepassing op de voorzieningen   die vergund, erkend of gesubsidieerd zijn met toepassing van de volgende   decreten en besluiten :<BR>1° het decreet van 26 juni 1991 betreffende de   erkenning en subsidiëring van het maatschappelijk opbouwwerk;<BR>2° het decreet   van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<BR>3° het decreet   van 21 maart 2003 betreffende de armoedebestrijding;<BR>4° het decreet van 21   november 2003 betreffende het preventieve gezondheidsbeleid, met uitzondering   van afdelingen medisch toezicht van externe diensten voor preventie en   bescherming op het werk, departementen medisch toezicht van interne diensten   voor preventie en bescherming op het werk en gemeenschappelijke interne diensten   voor preventie en bescherming op het werk;<BR>5° het decreet van 3 maart 2004   betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de   zorgaanbieders;<BR>6° het decreet van 30 april 2004 tot oprichting van het   intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin,   alleen wat betreft de toepassing van artikel 8, § 1, en 12;<BR>7° het decreet   van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<BR>8°   het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<BR>9° het   Woonzorgdecreet van 13 maart 2009, met uitzondering van de diensten voor   thuisverpleging;<BR>10° het decreet van 3 april 2009 betreffende het   georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid   en Gezin;<BR>11° het decreet van 8 mei 2009 betreffende het algemeen   welzijnswerk;<BR>12° het decreet van 20 januari 2012 houdende regeling van de   interlandelijke adoptie van kinderen, alleen wat betreft de toepassing van   artikel 13;<BR>13° het decreet van 29 juni 2012 houdende de organisatie van   pleegzorg;<BR>14° het decreet van 12 juli 2013 betreffende de integrale   jeugdhulp, alleen wat betreft de toepassing van artikel 42;<BR>15° het besluit   van de Vlaamse Regering van 17 mei 2002 betreffende erkenning en subsidiëring   van de vertrouwenscentra kindermishandeling;<BR>16° het besluit van de Vlaamse   Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor   kinderzorg en gezinsondersteuning.</P>
+&nbsp;De bepalingen van dit besluit zijn van toepassing op de voorzieningen die vergund, erkend of gesubsidieerd zijn met toepassing van de volgende decreten en besluiten :<br>
+1° het decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk;<br>
+2° het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg;<br>
+3° het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br>
+4° het decreet van 21 november 2003 betreffende het preventieve gezondheidsbeleid, met uitzondering van afdelingen medisch toezicht van externe diensten voor preventie en bescherming op het werk, departementen medisch toezicht van interne diensten voor preventie en bescherming op het werk en gemeenschappelijke interne diensten voor preventie en bescherming op het werk;<br>
+5° het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders;<br>
+6° het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin, alleen wat betreft de toepassing van artikel 8, § 1, en 12;<br>
+7° het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+8° het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand;<br>
+9° het Woonzorgdecreet van 13 maart 2009, met uitzondering van de diensten voor thuisverpleging;<br>
+10° het decreet van 3 april 2009 betreffende het georganiseerde vrijwilligerswerk in het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+11° het decreet van 8 mei 2009 betreffende het algemeen welzijnswerk;<br>
+12° het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen, alleen wat betreft de toepassing van artikel 13;<br>
+13° het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+14° het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, alleen wat betreft de toepassing van artikel 42;<br>
+15° ...;<br>
+16° het besluit van de Vlaamse Regering van 9 november 2012 inzake erkenning en subsidiëring van de centra voor kinderzorg en gezinsondersteuning.
 
 ### ART. 3.
 
