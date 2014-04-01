@@ -20,6 +20,10 @@ Artikel 7 van het besluit van de Vlaamse Regering van 10 juni 2005   houdende de
 
 ## Afdeling 2. Begrotingsfonds Departement Onderwijs en Vorming
 
+### ART. 4.
+
+In het decreet van 20 december 2013 houdende bepalingen tot begeleiding   van de begroting 2014, worden in hoofdstuk 17. Onderwijs de volgende wijzigingen   aangebracht:<BR><BR>1° in de titel van afdeling 1, worden de woorden   "Dienstverlening Onderwijs-communicatie" vervangen door de woorden "Departement   Onderwijs en Vorming";<BR><BR>2° aan artikel 41, § 1, wordt een tweede lid   toegevoegd, dat luidt als volgt:<BR>"In afwijking van het eerste lid, draagt het   begrotingsfonds met ingang van 1 april 2014 de naam begrotingsfonds Departement   Onderwijs en Vorming.".
+
 ## Afdeling 3. Volwassenenonderwijs
 
 ## Afdeling 4. Contingent detacheringen
