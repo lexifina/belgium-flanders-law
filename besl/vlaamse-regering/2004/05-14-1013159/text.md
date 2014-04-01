@@ -4,64 +4,64 @@
 
 ### ART. 1.
 
-Binnen het Vlaams ministerie van Onderwijs en Vorming wordt een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht, onder de benaming "Agentschap voor Onderwijscommunicatie", hierna "het agentschap" te noemen.<br /><br />Het agentschap wordt opgericht voor de uitvoering van het beleid inzake onderwijscommunicatie.<br /><br />Het agentschap behoort tot het beleidsdomein Onderwijs en Vorming.
+...
 
 ### ART. 2.
 
-Het agentschap heeft als missie:<br /><br />door verschillende vormen van communicatie en actie een breed maatschappelijk draagvlak creÙren waardoor alle betrokken doelgroepen (leerkrachten, leerlingen, ouders en derden) op verschillende niveaus kunnen participeren (mee-willen, mee-weten, mee-doen, mee-denken).
+...
 
 ### ART. 3.
 
-Het agentschap heeft tot taak:<br /><br />1° het uitvoeren van het beleid inzake externe communicatie van het beleidsdomein;<br /><br />2° het verder uitbouwen van expertise inzake communicatie;<br /><br />3° het ondersteunen - door consulting - van de verschillende entiteiten binnen het beleidsdomein in hun communicatieprojecten;<br /><br />4° het leiden - voor wat betreft de operationele activiteiten - van het overlegplatform dat instaat voor de co÷rdinatie van de interne en externe communicatie tussen het departement en de agentschappen van het beleidsdomein.
+...
 
 ### ART. 4.
 
-Overeenkomstig artikel 9, § 1, 1°, van het Kaderdecreet bestuurlijk beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken vervult, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+...
 
 ### ART. 5.
 
-Bij het uitoefenen van zijn missie en taken treedt het agentschap op namens de rechtspersoon Vlaamse Gemeenschap.
+...
 
 ## HOOFDSTUK II AANSTURING EN LEIDING VAN HET AGENTSCHAP
 
 ### ART. 6.
 
-Het agentschap ressorteert onder het hiërarchisch gezag van de Vlaamse minister bevoegd voor Onderwijs en Vorming, hierna genoemd "de minister".
+...
 
 ### ART. 7.
 
-De minister stuurt het agentschap aan, inzonderheid via een beheersovereenkomst.
+...
 
 ### ART. 8.
 
-Het hoofd van het agentschap is belast met de algemene leiding, de werking en de vertegenwoordiging van het agentschap, onverminderd de mogelijkheid tot delegatie en subdelegatie van die bevoegdheid.
+...
 
 ## HOOFDSTUK III DELEGATIE VAN BESLISSINGSBEVOEGDHEDEN
 
 ### ART. 9.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld in het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid.
+...
 
 ### ART. 10.
 
-Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, zoals vervat in het voornoemd besluit, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.
+...
 
 ## HOOFDSTUK IV CONTROLE, OPVOLGING EN TOEZICHT
 
 ### ART. 11.
 
-Onverminderd de artikelen 9, 33 en 34 van het Kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot de informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+...
 
 ### ART. 12.
 
-De minister kan, in het kader van de opvolging en de uitoefening van het toezicht, op ieder ogenblik aan het hoofd van het agentschap informatie, rapportering en verantwoording vragen over bepaalde aangelegenheden, zowel op geaggregeerd niveau als op niveau van individuele onderwerpen en dossiers.
+...
 
 ## HOOFDSTUK V INWERKINGTREDINGS- EN UITVOERINGSBEPALINGEN
 
 ### ART. 13.
 
-De Vlaamse regering stelt de datum vast waarop dit besluit in werking treedt.
+...
 
 ### ART. 14.
 
-De Vlaamse minister bevoegd voor het Onderwijs is belast met de uitvoering van dit besluit.
+...

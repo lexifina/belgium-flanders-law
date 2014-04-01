@@ -2,16 +2,16 @@
   "codex_id": 1013159,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 tot oprichting van het intern verzelfstandigd agentschap \"Agentschap voor Onderwijscommunicatie\"",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013159/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "a704f0f08c5ef74c62a5ac82796d277ac67b4a3c85b70f5d1bcf84f1d8c55813",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013159/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "81b3dc4c177e5097adde6eb02286843831418b487e82ff7318444cfcb7065f1a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013159&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-04-01",
   "made": "2004-05-14",
   "gazette": "2004-06-30",
   "numac": 2004036023,
   "document_start": "2006-04-01",
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-04-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
