@@ -2,16 +2,16 @@
   "codex_id": 1022087,
   "title": "Decreet van 2012-07-06 tot wijziging van diverse bepalingen van het decreet van 7 mei 2004 betreffende de materiële organisatie en werking van de erkende erediensten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022087/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "4bb20e0afca5bb38b40327185511c3e86689318abf04aa517c2ddcb96896cd36",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022087/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "2be16cf830768297f7034115367fa40584eb7cf43863c5c436f5044e5700897e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022087&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-04-01",
   "made": "2012-07-06",
   "gazette": "2012-08-16",
   "numac": 2012204483,
   "document_start": "2013-01-01",
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 76,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-04-01",
+  "article_versions": 77,
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }

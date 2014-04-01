@@ -56,6 +56,10 @@ In hetzelfde decreet, gewijzigd bij het decreet van 20 januari 2006, wordt in af
 
 In hetzelfde decreet, gewijzigd bij het decreet van 20 januari 2006, wordt in afdeling 1/1, ingevoegd bij artikel 2, een artikel 4/11 ingevoegd, dat luidt als volgt : <br />« Art. 4/11. De penningmeesters van de kerkfabrieken van de samengevoegde parochies maken hun eindrekening op met toepassing van artikel 56. <br /><br />De te behouden kerkfabriek neemt van rechtswege de activa en passiva van de kerkfabrieken van de samengevoegde parochies over.<br /><br />De eindrekeningen van de penningmeesters van de kerkfabrieken van de samengevoegde parochies worden ter goedkeuring voorgelegd aan de kerkraad van de te behouden kerkfabriek. ». <br /><br />
 
+### ART. 14.
+
+In artikel 25, eerste lid, van hetzelfde decreet wordt het getal « vier » vervangen door het getal « twee ».<br /><br />
+
 ### ART. 15.
 
 In artikel 27 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt :<br />« Om geldig te beraadslagen, moet de meerderheid van de aangestelde of verkozen leden van de kerkraden van de kerkfabrieken in kwestie aanwezig zijn. De vergadering kan echter, als ze een eerste maal bijeengeroepen is zonder dat het vereiste aantal leden is opgekomen, na een tweede oproeping, ongeacht het aantal aanwezige leden, op geldige wijze beraadslagen voor dezelfde verkiezing. ».<br /><br />
