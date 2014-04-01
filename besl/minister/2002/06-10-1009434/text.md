@@ -4,42 +4,42 @@
 
 ### ART. 1.
 
-§ 1. Elke adoptiedienst ontwikkelt een kwaliteitsbeleid dat uitgaat van zijn missie, de maatschappelijke waarden en visie op de kernprocessen van de adoptiedienst.<br /><br />§ 2. Het kwaliteitsbeleid is erop gericht om op een systematische wijze de kwaliteit van de aangeboden hulp- en dienstverlening, alsook van de werking te bepalen, te plannen, te beheersen, te borgen en te verbeteren.<br /><br />§ 3. De adoptiedienst houdt bij het ontwikkelen van het kwaliteitsbeleid rekening met de verwachtingen van de gebruikers, de positionering van de eigen organisatie, de beschikbare middelen en de beschikbare teamleden en medewerkers.<br /><br />§ 4. De adoptiedienst neemt de nodige maatregelen om het kwaliteitsbeleid bekend te maken en te integreren in zijn werking.<br /><br />§ 5. Het kwaliteitsbeleid concretiseert de doelstellingen op het vlak van de kwaliteitszorg via het uitwerken van een kwaliteitsplanning en een kwaliteitssysteem, die worden beschreven in het kwaliteitshandboek.
+...
 
 ## HOOFDSTUK II KWALITEITSPLANNING
 
 ### ART. 2.
 
-§ 1. De kwaliteitsplanning is een periodisch proces waarbij de adoptiedienst die bemiddelt voor buitenlandse kinderen jaarlijks de doelstellingen vastlegt die nagestreefd zullen worden op het vlak van de kwaliteitszorg.<br /><br />§ 2. De adoptiedienst beschrijft bij elke doelstelling de middelen die ingezet zullen worden voor het bereiken van de doelstellingen.<br /><br />§ 3. De adoptiedienst beschrijft op welke wijze de doelstellingen zullen worden verwezenlijkt en met welke frequentie het realiseren van de doelstellingen zal worden gecontroleerd. Waar nodig corrigeert de adoptiedienst de implementatiewijze.
+...
 
 ## HOOFDSTUK III KWALITEITSSYSTEEM
 
 ### ART. 3.
 
-§ 1. De adoptiedienst ontwikkelt een kwaliteitssysteem dat aangeeft hoe de beschikbare middelen worden ingezet en hoe de hulp- en dienstverleningsprocessen worden georganiseerd, beheerst en geëvalueerd.<br /><br />§ 2. De adoptiedienst neemt de maatregelen die nodig zijn om het kwaliteitssysteem te implementeren, goed te doen functioneren en aan te passen aan gewijzigde omstandigheden.<br /><br />§ 3. Binnen de adoptiedienst wordt een verantwoordelijke aangewezen voor het kwaliteitsbeleid, en voor de uitvoering en het onderhoud van het kwaliteitssysteem.
+...
 
 ### ART. 4.
 
-De adoptiedienst beschrijft de maatregelen die genomen worden voor het efficiënt en kwaliteitsgericht inzetten van de middelen. Daartoe beschrijft de adoptiedienst:<br /><br />1° de manier waarop hij zijn personele middelen inzet. Dat wordt onder meer geconcretiseerd in hoe:<br /><br />a) de adoptiedienst zijn teamleden en medewerkers selecteert op basis van een profiel- en functieomschrijving;<br /><br />b) de adoptiedienst zijn teamleden en medewerkers informeert, begeleidt en inspraakmogelijkheden biedt;<br /><br />c) de adoptiedienst zijn teamleden en medewerkers opleiding biedt;<br /><br />d) de adoptiedienst zijn teamleden en medewerkers evalueert;<br /><br />e) de adoptiedienst de voorwaarden creëert voor een functioneel samenwerkingsklimaat en een goede communicatie tussen alle teamleden en medewerkers;<br /><br />f) de adoptiedienst voldoende kennis en vaardigheden in communicatie en de juiste attitude in organisatie en hulp- en dienstverlening waarborgt bij de teamleden en medewerkers;<br /><br />2° de manier waarop de infrastructuur aangepast wordt aan de noden van de gebruikers;<br /><br />3° de manier waarop het financiële beleid toelaat om de kwaliteitsdoelen te bereiken alsook de hulp- en dienstverleningsprocessen uit te voeren zoals beschreven;<br /><br />4° het systeem waarbij de voor de werking relevante documenten op een overzichtelijke wijze worden beheerd. Hiertoe:<br /><br />a) legt de adoptiedienst de voorwaarden vast volgens welke persoonsgebonden documenten worden bijgehouden en bepaalde personen inzage krijgen in bepaalde documenten;<br /><br />b) bundelt de adoptiedienst de documenten die uitgegeven worden door instanties extern aan de voorziening en die van rechtstreeks belang zijn voor het functioneren van de adoptiedienst in een overzichtelijk te raadplegen systeem;<br /><br />c) bundelt de adoptiedienst de gebruikte standaarddocumenten in een overzichtelijk geheel waarbij het doel waarvoor de documenten gebruikt worden, duidelijk is aangegeven;<br /><br />d) bundelt de adoptiedienst de documenten die eigen zijn aan het kwaliteitssysteem in een overzichtelijk en voor de teamleden en medewerkers toegankelijk kwaliteitshandboek.
+...
 
 ### ART. 5.
 
-§ 1. De adoptiedienst ontwikkelt een visie met betrekking tot de processen die een directe invloed uitoefenen op de kwaliteit van de hulp- en dienstverlening en de werking van de adoptiedienst. Het gaat hierbij minstens om de volgende processen:<br /><br />1° het samenwerken met de buitenlandse kanalen;<br /><br />2° het evalueren van de buitenlandse kanalen;<br /><br />3° het bemiddelen voor buitenlandse kinderen, in het kader van het Vlaamse adoptiebeleid, teneinde een kind in een goed voorbereid en geschikt geacht gezin te plaatsen;<br /><br />4° het voorbereiden van de kandidaat-adoptanten op de adoptie van een buitenlands kind;<br /><br />5° het verstrekken van primaire nazorg, met als doel de integratie van het kind en het gezin te stimuleren, vooral in de eerste periode na aankomst.<br /><br />§ 2. De adoptiedienst neemt de nodige maatregelen om de beschreven visie op een doeltreffende wijze te verwezenlijken.
+...
 
 ### ART. 6.
 
-De adoptiedienst beschrijft de maatregelen die genomen worden voor het beheersen van de hulp- en dienstverleningsprocessen.<br /><br />Hiertoe beschrijft de adoptiedienst onder meer:<br /><br />1° de manier waarop binnen de samenwerking met en de evaluatie van de buitenlandse kanalen de principes en de procedures van het VN-Verdrag inzake de Rechten van het Kind, de principes en procedures van het Haagse Adoptieverdrag en de richtlijnen van de Vlaamse Centrale Autoriteit worden gewaarborgd;<br /><br />2° de manier waarop binnen het bemiddelen voor buitenlandse kinderen:<br /><br />a) de optimale plaatsing van een kind in een welbepaald gezin bewerkstelligd wordt;<br /><br />b) de voorbereiding op een plaatsing georganiseerd wordt;<br /><br />c) het adoptiegezin op juridisch en administratief vlak begeleid wordt tot de beëindiging van de juridische procedure tot adoptie;<br /><br />3° de manier waarop binnen de voorbereiding van de kandidaat-adoptanten op adoptie van een buitenlands kind:<br /><br />a) de kandidaat-adoptanten ingelicht en voorbereid worden op de adoptie uit een bepaald land;<br /><br />b) de wettelijke bepalingen en de richtlijnen van Kind en Gezin gerespecteerd worden;<br /><br />c) een tweede of volgende adoptie gericht voorbereid wordt;<br /><br />d) informatie gegeven wordt met betrekking tot de mogelijkheden tot nazorg;<br /><br />4° de manier waarop binnen de verstrekking van primaire nazorg:<br /><br />a)de beschikbaarheid voor het adoptiegezin en de geadopteerde geregeld wordt;<br /><br />b) actieve nazorg uitgevoerd wordt volgens de richtlijnen van de Vlaamse Centrale Autoriteit;<br /><br />5° de manier waarop de gebruikers geïnformeerd worden over het beleid en de algemene werking van de voorziening;<br /><br />6° de manier waarop de gebruikers ontvangen worden;<br /><br />7° de manier waarop afspraken gemaakt worden met de gebruikers met betrekking tot de hulp- en dienstverlening en eveneens gespecificeerd wordt hoe gemaakte afspraken tijdens de dienst- of hulpverlening gewijzigd kunnen worden. De afspraken inzake de bemiddeling worden vastgelegd in een bemiddelingscontract;<br /><br />8° de manier waarop de individuele hulp- en dienstverlening aan de gebruikers gepland, geëvalueerd en bijgestuurd wordt. Hierbij hanteert de adoptiedienst geëigende hulpmiddelen;<br /><br />9° de manier waarop de inspraak van de gebruikers in de individuele hulp- en dienstverlening georganiseerd wordt;<br /><br />10° de manier waarop de individuele gebruikersdossiers opgevolgd worden;<br /><br />11° de manier waarop persoonlijke zaken van gebruikers bewaard worden, op het juiste ogenblik en op de juiste wijze verstrekt worden aan de juiste gebruikers en volgens de correcte instructies voor verstrekking;<br /><br />12° hoe de afronding van de hulp- en dienstverlening wordt geregeld in overleg met de gebruiker en de manier waarop een eventuele doorverwijzing of overgang naar een andere hulp- of dienstverleningsvorm gevolgd wordt indien noodzakelijk.
+...
 
 ### ART. 7.
 
-§ 1. De adoptiedienst beschrijft de maatregelen die genomen worden met betrekking tot het meten, analyseren en verbeteren van de hulp- en dienstverlening. Hiertoe beschrijft de adoptiedienst minstens de manier waarop hij:<br /><br />1° jaarlijks de globale werking evalueert. Hiertoe gaat de adoptiedienst minstens na of de beschreven hulp- en dienstverleningsprocessen verlopen zoals vooropgesteld en of de kwaliteitsdoelstellingen zijn gerealiseerd;<br /><br />2° op regelmatige basis de geëigende hulpmiddelen evalueert;<br /><br />3° klachten registreert, doeltreffend behandelt en beantwoordt aan de klager binnen een redelijke termijn;<br /><br />4° op regelmatige wijze de tevredenheid van de gebruikers nagaat door middel van een geschikt instrument;<br /><br />5° op regelmatige wijze de tevredenheid van de teamleden en medewerkers nagaat door middel van een geschikt instrument.<br /><br />§ 2. De adoptiedienst stuurt zijn werking en eventueel het kwaliteitsbeleid bij, op basis van een analyse van de resultaten van de in § 1, 1°, tot en met 5°, genoemde evaluaties.
+...
 
 ## HOOFDSTUK IV KWALITEITSHANDBOEK
 
 ### ART. 8.
 
-§ 1. De adoptiedienst bundelt alle relevante informatie met betrekking tot het kwaliteitsbeleid, zijn missie, waarden en visie omtrent de doelgroep, zijn kwaliteitsplanning en zijn kwaliteitssysteem in het kwaliteitshandboek.<br /><br />§ 2. De adoptiedienst houdt bij het samenstellen van het kwaliteitshandboek rekening met de bepalingen, opgenomen in artikel 1 tot en met 8 van dit besluit.
+...
 
 ### ART. 9.
 
-Dit besluit treedt in werking op 1 januari 2002.
+...

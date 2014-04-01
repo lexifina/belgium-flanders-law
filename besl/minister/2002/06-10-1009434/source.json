@@ -2,16 +2,16 @@
   "codex_id": 1009434,
   "title": "Ministerieel besluit van 2002-06-10 betreffende de kwaliteitszorg in de adoptiediensten die bemiddelen voor buitenlandse kinderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009434/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d1847602254f363ea865d9b4a268b0d406720de8e979f3a213b7b5115d7be06c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009434/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "613f512834d2a43b287fb9773702ae5c6c3194ed5228890d322c182d79c55993",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009434&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-04-01",
   "made": "2002-06-10",
   "gazette": "2002-08-14",
   "numac": 2002036004,
   "document_start": "2002-01-01",
   "document_end": "2014-03-31",
-  "in_force": "2006-06-01",
+  "in_force": "2014-04-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
