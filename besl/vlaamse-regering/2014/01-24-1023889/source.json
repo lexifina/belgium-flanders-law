@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023889,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-24 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023889/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "8afcb7245867a609fdd55ff43368d180b8b8528bd8d1a91d7c299afb2ddee2bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023889&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-01-24",
+  "gazette": "2014-02-27",
+  "numac": 2014201170,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
