@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023694,
+  "title": "Ministerieel besluit van 2014-01-10 tot wijziging van het ministerieel besluit van 28 april 2010 met betrekking tot de registratieprocedure voor de subsidieaanvraag of het beheer van het dossier in het kader van de besluiten ecologiepremie, ecologiepremie call, groeipremie en kmo-portefeuille, wat betreft het verbod van het verlenen van een machtiging aan de dienstverlener in het kader van het besluit kmo-portefeuille",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023694/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "b3932cff8c549f3d42090d7bdbf2f6c331ad3ea9fea5967f003e84bf062e1f4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023694&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-01-10",
+  "gazette": "2014-01-31",
+  "numac": 2014035089,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
