@@ -2,16 +2,16 @@
   "codex_id": 1020525,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 betreffende de toekenning van een subsidie-enveloppe en kwaliteitslabel aan de opvoedingswinkels",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020525/VolledigDocument?datum=2008-12-15",
-  "source_sha256": "6a054fdd1a64166534ca988b480d35e7bca0c7a55f153543011fc093d820fa5e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020525/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "c6e03bba6f1f43269df8474eb3fe0486f9892c1d033e2bc6ef24cad329b0df4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020525&param=informatie",
-  "as_of": "2008-12-15",
+  "as_of": "2014-04-01",
   "made": "2008-12-12",
   "gazette": "2011-08-16",
   "numac": 2011204038,
   "document_start": "2008-12-15",
   "document_end": "2014-03-31",
-  "in_force": "2008-12-15",
+  "in_force": "2014-04-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2008-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
