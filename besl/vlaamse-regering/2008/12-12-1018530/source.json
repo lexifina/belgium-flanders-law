@@ -2,16 +2,16 @@
   "codex_id": 1018530,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 betreffende de toekenning van een eenmalige forfaitaire subsidie voor informatisering aan initiatieven voor preventieve gezinsondersteuning en de toekenning van een forfaitaire subsidie voor brandveiligheid aan kinderopvanginitiatieven",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018530/VolledigDocument?datum=2008-12-12",
-  "source_sha256": "e9df94670521e89e8f7b313800d44e3ab36d889d1fb24ef93d28d0da40721144",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018530/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "5cecaab3592bc08136ef4bbf908219165d0e4117e13625478b97d6818e85a77d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018530&param=informatie",
-  "as_of": "2008-12-12",
+  "as_of": "2014-04-01",
   "made": "2008-12-12",
   "gazette": "2009-11-25",
   "numac": 2009036063,
   "document_start": "2008-12-12",
   "document_end": "2014-03-31",
-  "in_force": "2008-12-12",
+  "in_force": "2014-04-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2008-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
