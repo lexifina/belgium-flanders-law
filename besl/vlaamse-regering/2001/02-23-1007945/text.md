@@ -4,103 +4,103 @@
 
 ### ART. 1.
 
-§ 1. In dit besluit wordt verstaan onder:<br />1° Kind en Gezin : het intern verzelfstandigd agentschap Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° initiatief: een initiatief voor buitenschoolse opvang;<br />2°bis organiserend bestuur : de rechtspersoon die geen winstoogmerk heeft en onder wiens verantwoordelijkheid een initiatief functioneert;<br />3° kwalificatiebewijs : attest, diploma, certificaat of titel van beroepsbekwaamheid; <br />3°bis gezondheidsindexcijfer : het prijsindexcijfer dat berekend wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen;<br />4° minister: de Vlaamse minister, bevoegd voor de bijstand aan personen.<br /><br />§ 2. Een organiserend bestuur kan voor initiatieven worden erkend en gesubsidieerd volgens de bepalingen van dit besluit.
+...
 
 ### ART. 2.
 
-Een initiatief richt zich exclusief op buitenschoolse opvang van kinderen in het basisonderwijs, en met name minstens op een van de volgende functies : <br />1° voor- en naschoolse opvang;<br />2° opvang op woensdagnamiddag;<br />3° opvang gedurende schoolvrije dagen en gedurende een of meer schoolvakanties. <br /><br />Tijdens de schoolvakanties wordt er voorrang gegeven aan de opvang van kinderen tot zes jaar. <br /><br />Een initiatief heeft minstens een basisopvangaanbod. Dat is een aanbod van 's morgens 7 uur tot 's avonds 18 uur gedurende ten minste 230 werkdagen per jaar, waarvan 50 volle dagen; op woensdagnamiddag opent het initiatief na de schooltijd. <br /><br />De minimumcapaciteit van een initiatief bedraagt 21 opvangplaatsen. Die capaciteit kan gerealiseerd worden in verschillende vestigingsplaatsen, die elk minstens 8 opvangplaatsen hebben.<br />
+...
 
 ### ART. 3.
 
-§ 1. Een initiatief kan een flexibel opvangaanbod aanbieden, namelijk opvang minstens gedurende 30 minuten voor 7 uur, opvang minstens gedurende 30 minuten na 18 uur, opvang op feestdagen, opvang in het weekend, opvang op dagen boven op het minimum aantal openingsdagen voor het basisopvangaanbod, alsook een aanbod van occasionele opvang en urgentieopvang, mits deze opvang beantwoordt aan de kwalitatieve bepalingen die inherent zijn aan een erkende werking.<br /><br />§ 2. Een initiatief kan opvang van zieke kinderen thuis aanbieden volgens de bepalingen die door de minister worden vastgelegd.
+...
 
 ### ART. 4.
 
-Een initiatief staat open voor de inclusieve opvang van kinderen met een specifieke zorgbehoefte en zorgt, rekening houdend met de voorhanden mogelijkheden en volgens de bepalingen die door de minister worden vastgelegd, voor een aangepaste infrastructurele, personele en pedagogische opvangsituatie.
+...
 
 ## HOOFDSTUK II ERKENNINGSVOORWAARDEN
 
 ### ART. 5.
 
-De erkenning van een initiatief strookt met de visie en de doelstellingen, opgenomen in het lokaal beleidsplan kinderopvang, vermeld in het besluit van de Vlaamse Regering van 4 mei 2007 houdende het lokaal beleid kinderopvang, van de gemeente waar het initiatief ligt, of, wanneer het initiatief over verschillende vestigingsplaatsen beschikt, van de gemeente waar de vestigingsplaats van het initiatief ligt. Kind en Gezin vraagt advies aan het lokaal bestuur volgens de bepalingen die de minister vastlegt.<br /><br />Het initiatief, of, wanneer het initiatief over verschillende vestigingsplaatsen beschikt, de vestigingsplaats van het initiatief, participeert in het Lokaal Overleg Kinderopvang, vermeld in het besluit van de Vlaamse Regering van 4 mei 2007 houdende het lokaal beleid kinderopvang.<br />
+...
 
 ### ART. 6.
 
-Om erkend te worden en te blijven, moeten de initiatieven voldoen aan de algemene erkenningsvoorwaarden, vermeld in artikel 7, en aan de bepalingen, overeengekomen in het kwaliteitscharter buitenschoolse opvang, vermeld in artikel 8.<br /><br />Daarenboven moeten de initiatieven voldoen aan de specifieke erkenningsvoorwaarden, vermeld in dit besluit, voor kwaliteit, infrastructuur, veiligheid en gezondheid, en begeleiding, en aan de regeling voor de financiële bijdrage van de gezinnen.<br /><br />De procedure voor de toekenning en intrekking van een erkenning en voor de toekenning, opschorting en intrekking van een subsidiëring wordt door de minister vastgelegd.
+...
 
 ### ART. 7.
 
-De erkenning houdt in dat het initiatief:<br /><br />1° bij de dienstverlening niemand discrimineert op grond van cultuur, maatschappelijke afkomst, nationaliteit, geslacht, geloof of levensovertuiging;<br /><br />2° zijn dienstverlening openstelt voor alle kinderen;<br /><br />3° de rechten eerbiedigt, gewaarborgd bij het Verdrag inzake de rechten van het kind.
+...
 
 ### ART. 8.
 
-Het kwaliteitscharter buitenschoolse opvang bevat de volgende bepalingen, waaraan initiatieven moeten voldoen : <br />1° bepalingen over de pedagogische werking : <br />a) De voorziening ziet erop toe dat de buitenschoolse opvang optimale kansen biedt aan elk kind en de draagkracht van het kind niet overschrijdt.<br />b) De opvang van kinderen in grote groepen moet worden vermeden. Daartoe kan de groep opgedeeld worden in subgroepen. De opdeling in naar leeftijd gemengde groepen is daarbij wenselijk met het oog op de sociale ontplooiing van de kinderen. Bij de groepsindeling moet ook rekening worden gehouden met de spontane voorkeur van de kinderen.<br />c) Binnen het gestructureerde aanbod van de voorziening moeten kinderen vrij kunnen kiezen en initiatieven kunnen nemen. Onder meer moeten kinderen kunnen kiezen of ze zich willen uitleven in spel dan wel rustig bezig willen zijn, of ze alleen willen spelen dan wel in groep, met of zonder volwassene, binnen of buiten. Bepaalde activiteiten, zoals het eetmaal, moeten gestructureerd worden aangeboden. Tijdens de vakantiedagen en op woensdagnamiddag moet een gevarieerd spelaanbod ontwikkeld worden waar kinderen vrij aan kunnen deelnemen. Daarbij wordt zo veel mogelijk specifiek en gericht gewerkt naar diverse leeftijdsgroepen.<br />d) Er moet voldoende verantwoord en veilig spelmateriaal ter beschikking zijn dat passend wordt aangeboden. Dat spelmateriaal is aangepast aan de leeftijd, de aard en het ontwikkelingsniveau van de opgevangen kinderen.<br />e) De kinderen worden gestimuleerd in hun zelfvertrouwen door hen aan te spreken op hun vaardigheden, door rekening te houden met hun voorkeuren en door hun eigen initiatief te bevorderen.<br />f) De kinderen krijgen de ruimte om, binnen de opvang, zichzelf te zijn in hun sociale relaties. Daarbij wordt specifieke aandacht besteed aan de wijze waarop ze met relaties omgaan. Het belang van een verdraagzaam en geweldloos optreden staat daarbij centraal.<br />g) De omgang met de kinderen is sensitief, informeel en persoonlijk. Waar nodig worden duidelijk en consequent grenzen getrokken. Elk kind moet zich psychisch en fysiek veilig kunnen voelen. Kinderen met specifieke noden, zoals kinderen met een handicap en kinderen uit kansarme gezinnen, krijgen adequate zorg en aandacht.<br />h) De kinderen worden zo veel mogelijk betrokken bij het opstellen of wijzigen van de leefregels, het inrichten van de ruimte, het organiseren van de activiteiten, het reilen en zeilen van de opvang.<br />2° bepalingen over de begeleiding : <br />a) Bij de selectie van de begeleiders moet de voorziening rekening houden met hun inzichten, attitudes en vaardigheden in het omgaan met kinderen en hun mogelijkheden tot bewust en passend pedagogisch handelen.<br />b) De voorziening ziet erop toe dat de nodige continuïteit in de begeleiding verzekerd wordt, zodat de begeleiders een persoonlijke relatie kunnen opbouwen met de kinderen.<br />3° bepalingen over de ouderparticipatie : <br />a) De ouders kunnen samen met hun kind kennismaken met de begeleiders, de lokalen en de wijze van werken voor de eigenlijke opvang begint.<br />b) De ouders ontvangen bij de inschrijving het huishoudelijk reglement van de voorziening en ondertekenen dat voor akkoord.<br />c) Aan de ouders wordt via een inlichtingenblad informatie opgevraagd over eventuele specifieke bijzonderheden in de aanpak van en de zorg voor hun kind.<br />d) De breng- en haalcontacten met de ouders vinden op een dergelijke wijze plaats dat het wederzijdse vertrouwen versterkt wordt; de nodige tijd en ruimte worden daartoe vrijgemaakt.<br />e) De ouders hebben tijdens de openingsuren van de opvang toegang tot alle lokalen waar de kinderen kunnen verblijven. <br />f) De ouders worden regelmatig geïnformeerd over de gang van zaken in de opvangvoorziening en worden betrokken bij de organisatie van activiteiten, alsook bij de ruimere werking en het beleid van de opvang. <br />4° bepalingen over de infrastructuur : <br />a) De lokalen van de voorziening zijn bestemd en geschikt voor de opvangfunctie. Ze kunnen voldoende worden verlucht en verlicht.<br />b) De lokalen en de speelruimte worden voldoende ruim en passend ingericht, rekening houdend met het aantal en de leeftijd van de opgevangen kinderen.<br />c) In de lokalen wordt een huiselijke sfeer gecreëerd;<br />5° bepalingen over veiligheid en gezondheid : <br />a) De voorziening zorgt voor een veilige, gezonde en goed onderhouden opvangomgeving voor de kinderen; de eventueel verstrekte voeding is evenwichtig samengesteld. Een permanente, ononderbroken begeleiding bij de aanwezige kinderen is absoluut vereist.<br />b) Alle verplaatsingen van kinderen worden veilig en onder gepaste begeleiding georganiseerd. <br />c) Van elk opgevangen kind moet minstens een van de ouders of een persoon die hen vervangt, bereikbaar zijn. Elke opvangvoorziening beschikt over een telefoon.<br />6° bepaling over het huishoudelijk reglement : elke voorziening beschikt over een huishoudelijk reglement dat alle belangrijke elementen en regels bevat van de wijze waarop de voorziening intern en extern functioneert. Kind en Gezin kan ter zake verdere richtlijnen verstrekken.
+...
 
 ### ART. 9.
 
-Voor de kwaliteit gelden de volgende specifieke bepalingen :<br />1° erkende initiatieven voeren een kwaliteitsbeleid als vermeld in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen en conform de door de minister vastgelegde bepalingen.<br />2° de initiatieven bezorgen hun kwaliteitshandboek, dat is opgesteld zoals vastgelegd in het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, aan Kind en Gezin. Ze rapporteren over het kwaliteitsbeleid dat ze voeren conform de door de minister vastgelegde bepalingen.<br />3° het behoud van de erkenning veronderstelt dat het initiatief in zijn dienstverlening beantwoordt aan een minimale kwaliteitsnorm. Die minimale kwaliteitsnorm wordt door de minister vastgelegd.
+...
 
 ### ART. 10.
 
-Voor de infrastructuur gelden de volgende specifieke bepalingen:<br />1° de vestigingsplaats waar een initiatief opvang aanbiedt, moet gunstig liggen ten opzichte van scholen, moet gemakkelijk bereikbaar zijn voor kinderen en moet zich in een veilige en gezonde omgeving bevinden;<br />2° elke vestigingsplaats beschikt over minstens twee binnenruimtes. K&G kan hierop, op gemotiveerde vraag van het organiserend bestuur, een uitzondering toestaan. Voor de binnenruimtes is een netto-opvangruimte van 4 m2 per kind richtinggevend. Ze zijn gedurende de opvanguren exclusief beschikbaar voor de buitenschoolse opvang en daartoe passend ingericht. De ruimtes zijn ingedeeld in verschillende, passend uitgeruste zones, waarbij de essentiële spel- en rustbehoeften van kinderen van verschillende leeftijden tegelijkertijd aan bod kunnen komen, zonder dat de kinderen elkaar storen;<br />3° het initiatief ziet erop toe dat het aantal aanwezige kinderen in verhouding is tot de beschikbare infrastructuur en het bij de erkenning vastgelegde maximaal aantal plaatsen van de vestigingsplaats. Gedurende een piekperiode van maximaal een uur per opvangmoment zijn er nooit meer kinderen gelijktijdig aanwezig dan 130 % van het bij de erkenning vastgelegde aantal plaatsen van de vestigingsplaats. Bij vestigingsplaatsen met maximaal 21 opvangplaatsen kunnen kinderen gelijktijdig aanwezig zijn tot 130 % van het bij de erkenning vastgelegde maximaal aantal plaatsen van de vestigingsplaats;<br />4° elke vestigingsplaats beschikt over een voldoende uitgebouwde keukenfunctie, aangepast aan het opvangaanbod;<br />5° de sanitaire voorzieningen zijn in elke vestigingsplaats aangepast aan het aantal opgevangen kinderen en de leeftijd van de kinderen. De begeleiding beschikt over aparte sanitaire voorzieningen. Kinderen moeten de sanitaire voorzieningen zelfstandig kunnen bereiken;<br />6° elke vestigingsplaats moet beschikken over een aangrenzende buitenspeelruimte waar kinderen vrij van kunnen gebruikmaken. Op gemotiveerd verzoek van het organiserend bestuur kan Kind en Gezin daarop een uitzondering toestaan, nadat de situatie ter plaatse beoordeeld is door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie. De buitenspeelruimte biedt mogelijkheid voor onder meer bewegings- en experimenteel spel, rustig en sociaal spel. Ze is passend ingericht naargelang van het aantal opgevangen kinderen van de vestigingsplaats en de leeftijd van de kinderen;<br />7° het initiatief beschikt over voldoende passende ruimte die de leiddinggevende in staat stelt zijn opdrachten naar behoren te vervullen;<br />8° gedurende schoolvakanties mag de opvang doorgaan in aanvullende ruimte bovenop de ruimte voor erkende opvang, mits de bepalingen van punt 1° tot en met 7° van dit artikel toegepast kunnen worden;<br />9° de initiatiefnemer die gebruik maakt van de bepalingen in 8° van dit artikel, en die voldoet aan de overige bepalingen van dit besluit, kan een tijdelijke verhoging van de erkende capaciteit bekomen, mits een gemotiveerde aanvraag;<br />
+...
 
 ### ART. 11.
 
-Voor veiligheid en gezondheid gelden de volgende specifieke bepalingen:<br />1° de buitenspeelruimte is duidelijk begrensd en zo omheind dat kinderen veilig kunnen spelen;<br />2° speeltoestellen zijn veilig ontworpen en geplaatst. Ze worden goed en regelmatig onderhouden;<br />3° voorzieningen inzake elektriciteit en verwarming zijn veilig;<br />4° het initiatief voert een beleid inzake veiligheid en gezondheid dat ertoe leidt dat : <br />a) de fysieke en psychische veiligheid van de kinderen niet in het gedrang komt. Kind en Gezin ondersteunt de opvangvoorzieningen daartoe met onderbouwde informatie.<br />b) medicijnen, EHBO-materiaal, gevaarlijke producten en toestellen op een veilige plaats worden bewaard, en zich buiten het bereik van de kinderen bevinden. <br />c) er een crisisprocedure is. Dat is een procedure die de opeenvolgende stappen en de wijze van communicatie vastlegt die een voorziening moet volgen als er zich een gevaarsituatie voordoet in de voorziening. Er is sprake van een gevaarsituatie als de fysieke of psychische integriteit van een kind dat gebruikmaakt van een voorziening, in gevaar is of zou kunnen zijn, inbegrepen het geval dat er grensoverschrijdend gedrag is ten aanzien van het kind;<br />d) elke gevaarsituatie die zich voordoet in de opvang, zo snel mogelijk gemeld wordt aan Kind en Gezin;<br />e) er maatregelen zijn om te voorkomen dat iemand de opvanglokalen en de buitenruimte ongemerkt binnenkomt of verlaat.<br />5° de bouwtechnische en bouwfysische staat van de infrastructuur voldoet aan de geldende reglementering inzake brandveiligheid. In elk geval is een brandweerverslag aanwezig voor elke vestigingsplaats;<br /><br />6° het initiatief beschikt over een bewijs van verzekering voor de gebouwen en de burgerlijke aansprakelijkheid voor personeel en kinderen, alsook over een bewijs van verzekering tegen lichamelijke ongevallen voor de opgevangen kinderen.
+...
 
 ### ART. 12.
 
-Voor de begeleiding gelden de volgende specifieke bepalingen:<br />1° per begonnen schijf van 14 aanwezige kinderen moet minstens 1 begeleider de opvang verzekeren;<br />1°bis de norm vermeld in 1° geldt niet voor de bepalingen vermeld in artikel 10, 3°. Het aantal begeleiders is evenwel nooit minder dan wat geldt voor een bezetting van 100 % ;<br />2° de begeleider moet beschikken over een door de minister erkend kwalificatiebewijs. Vanaf 1 januari 2010 is het aantal begeleiders dat enkel beschikt over een minimale kwalificatie, aangewezen door de minister, niet meer dan de helft van het totale aantal begeleiders; <br />3° de begeleider staat in voor het opvangen van de kinderen, het uitwerken van de activiteiten en het opvolgen van de dagelijkse oudercontacten;<br />4° een efficiënte coördinatie van de opvangactiviteiten wordt verzekerd door het realiseren van minimaal een halftijdse leidinggevende functie. Het vereiste aantal leidinggevende prestaties wordt in de erkenningsbeslissing door K&G bepaald rekening houdend met onder meer de capaciteit en het aantal vestigingsplaatsen van het initiatief;<br />5° de leidinggevende moet beschikken over een door de minister erkend kwalificatiebewijs.<br />6° de leidinggevende staat in voor het opvolgen van de begeleiders, het organiseren van het teamoverleg, de ouder- en kindparticipatie, het onderhouden van contacten met externen en het plannen en bewaken van de dagelijkse werking van het initiatief;<br />7° een begeleider is minimum 18 jaar;<br />8° het initiatief werkt een functiebeschrijving uit voor alle personeelsleden. De leiddinggevende en administratieve verantwoordelijkheden evenals de verantwoordelijkheid voor het kwaliteitsbeleid worden daarbij omschreven en toegekend;<br />9° het initiatief voorziet in vorming en bijscholing voor het personeel;<br />10° er worden actieve pogingen ondernomen om zowel mannelijke als vrouwelijke, en zowel allochtone als autochtone begeleiders en leidinggevenden aan te trekken;<br />11° Het minimaal vereiste personeel beschikt over een attest van een basisopleiding levensreddend handelen bij kinderen volgens de bepalingen die de minister vastlegt.
+...
 
 ### ART. 13.
 
-Voor de financiële bijdrage van de gezinnen gelden de volgende specifieke bepalingen:<br />1° een initiatief vraagt aan de gezinnen als vergoeding voor de opvang een financiële bijdrage, die gekoppeld is aan de verblijfsduur van het kind;<br />2° bij voor- en naschoolse opvang bedraagt de financiële bijdrage van de gezinnen minstens 0,64 euro per begonnen halfuur;<br />3° op schoolvrije dagen en vakantiedagen geldt een bijdrage van minimaal 6,97 euro en maximaal 11,38 euro voor een verblijf van een volledige dag (vanaf 6 uur), van minimaal 3,50 euro  en maximaal 5,70 euro voor een verblijf van een halve dag (van 3 tot 6 uur) en van minimaal 2,33 euro  en maximaal 3,79 euro voor een verblijf van minder dan 3 uur;<br />4° op woensdagnamiddag hanteert het initiatief, zoals het dat zelf verkiest, het systeem, vermeld in 2°, of het systeem, vermeld in 3°;<br />5° als de financiële situatie van de gezinnen daartoe aanleiding geeft, kan een sociaal tarief gehanteerd worden. Dat sociaal tarief bedraagt maximaal 50 % van de door het initiatief, volgens de bepalingen in 2°, 3° en 4°, vastgelegde bijdrage. In zeer uitzonderlijke gevallen, als de situatie van het gezin daartoe aanleiding geeft, kan het initiatief een gratis opvang toestaan. Het initiatief beslist over het al dan niet toekennen van het sociaal tarief of de gratis opvang op basis van een dossier dat alle relevante aspecten voor een gemotiveerde beslissing bevat. Een toegekend sociaal tarief of gratis opvang wordt door het initiatief periodiek geëvalueerd en, indien noodzakelijk, bevestigd;<br />6° bij de opvang van meer kinderen uit hetzelfde gezin in het initiatief op eenzelfde dag wordt 25 % korting verleend op de totale financiële bijdrage van de gezinnen. Deze vermindering is cumuleerbaar met het sociaal tarief;<br />7° de vermelde kostprijs is de vergoeding van de werkingskosten. Wanneer een warme maaltijd wordt verstrekt, moet een supplementaire bijdrage per kind worden betaald;<br />8° de hierboven vermelde bedragen worden elk jaar op 1 september verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 juni van hetzelfde kalenderjaar en 1 juni van het voorafgaande kalenderjaar, zodra de gecumuleerde stijging in een verhoging van minstens 0,12 euro op het minimale basisbedrag voor een ganse dag resulteert.
+...
 
 ### ART. 14.
 
-Elk initiatief is gehouden tot registratie van activiteiten en cliënteel. K&G formuleert daartoe richtlijnen.
+...
 
 ## HOOFDSTUK III SUBSIDIËRINGSVOORWAARDEN
 
 ### ART. 15.
 
-§ 1. Een initiatief kan door Kind en Gezin forfaitair gesubsidieerd worden, om het basisopvangaanbod te realiseren, volgens de bepalingen die de minister vastlegt en rekening houdend met onder meer het aantal erkende plaatsen, het aantal openingsdagen op jaarbasis, het soort opvangmomenten en het feit of een deel van de ingeschreven kinderen uit achtergestelde gebieden komt.<br /><br />§ 2. Een initiatief kan bovendien voor het realiseren van een flexibel opvangaanbod, en/of een aanbod van occasionele en urgentieopvang en/of een aanbod voor de opvang van zieke kinderen thuis en/of een aanbod voor kinderen met een specifieke zorgbehoefte, zoals bepaald in artikel 3 § 1, artikel 3 § 2 en artikel 4, een bijkomende subsidie verwerven conform de bepalingen die worden vastgelegd door de minister.
+...
 
 ### ART. 16.
 
-§ 1. De subsidiëring is afhankelijk van een minimumbezetting van 80 %, behalve tijdens het kalenderjaar van de erkenning. Voor de berekening van de bezetting komt elke aanwezigheid per opvangmoment per kind in aanmerking, ongeacht de aanwezigheidsduur.<br /><br />§ 2. Als de vereiste minimumbezetting tijdens een kalenderjaar niet gehaald wordt, volgt de schorsing of de evenredige vermindering van de subsidie met ingang van het tweede kwartaal dat volgt op dat kalenderjaar.<br /><br />§ 3. Een dergelijke schorsing of vermindering van de subsidiëring raakt niet aan de erkenning van het initiatief.<br /><br />§ 4. Als het initiatief aantoont dat over een periode van vier kwartalen de vereiste minimumbezetting opnieuw wordt gehaald, kan de subsidiëring, met ingang van het kwartaal dat volgt op de referentieperiode, opnieuw worden opgestart of verhoogd.<br /><br />§ 5. Als een geschorst initiatief binnen een periode van drie jaar na de schorsing niet opnieuw de minimale bezetting realiseert, vervalt zijn erkenning.
+...
 
 ### ART. 17.
 
-§ 1. De subsidie wordt jaarlijks door K&G uitgekeerd, uiterlijk op 1 april van het jaar dat volgt op het subsidiejaar en op voorwaarde dat het initiatief de nodige stukken heeft overgelegd.<br /><br />§ 2. K&G verleent elk kwartaal aan het initiatief een voorschot ten belope van maximum 95 % van een vierde van het bedrag dat voor een kalenderjaar verschuldigd is. Dit voorschot wordt verhoudingsgewijs teruggevorderd wanneer het initiatief haar activiteiten staakt.
+...
 
 ### ART. 17bis.
 
-Elk initiatief ontvangt in 2008 aanvullend een eenmalige forfaitaire vergoeding van 2500 euro, bedoeld voor de basisuitrusting en de verdere informatisering van de werking van het initiatief in het kader van e-government.<br />
+...
 
 ### ART. 18.
 
-Voor zijn werkingskosten kan het initiatief vrij beschikken over de inkomsten uit de ouderbijdragen.
+...
 
 ### ART. 19.
 
-Het initiatief voert een boekhouding zoals bepaald door de minister.
+...
 
 ### ART. 20.
 
-De subsidies die in dit besluit worden gedefinieerd worden elk jaar op 1 januari verhoogd met de procentuele stijging van het gezondheidsindexcijfer tussen 1 november van het vorige kalenderjaar en 1 november van het daaraan voorafgaande kalenderjaar.
+...
 
 ### ART. 21.
 
-§ 1. Een door K&G erkend initiatief kan rechtstreeks of onrechtstreeks, volledig of aanvullend worden gesubsidieerd door andere overheden of instanties.<br /><br />K&G stelt daartoe, zo nodig, gegevens ter beschikking aan deze overheden of instanties.<br /><br />Dusdanige subsidiëring doet geen afbreuk aan de door dit besluit gestelde erkenningsvoorwaarden.<br /><br />§ 2. Noch het ministerie van de Vlaamse Gemeenschap noch enige andere Vlaamse overheidsinstelling dan K&G kan rechtstreeks of onrechtstreeks subsidies verlenen aan niet door K&G erkende initiatieven.
+...
 
 ### ART. 22.
 
-De ouders van de opgevangen of eventueel tot de opvang geweigerde kinderen kunnen te allen tijde een klacht indienen bij de klachtendienst van K&G. Deze bepaling wordt ingeschreven in het huishoudelijk reglement van het initiatief.
+...
 
 ### ART. 23.
 
-Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toezicht op de naleving van de regelgeving wordt op stukken of ter plaatse uitgeoefend. De voorziening verstrekt hiertoe de door Kind en Gezin gevraagde inlichtingen of stukken over de werking. De personeelsleden van het intern verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004, oefenen ter plaatse toezicht uit. De voorziening verstrekt de door de personeelsleden van het intern verzelfstandigd agentschap Zorginspectie gevraagde inlichtingen of stukken over de werking. Zij krijgen ook de vrije toegang tot de lokalen van de opvangvoorziening.<br /><br />Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers.<br />
+...
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
@@ -110,12 +110,12 @@ Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het toe
 
 ### ART. 25.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 24 juni 1997 houdende erkennings- en subsidiëringsvoorwaarden van initiatieven voor buitenschoolse opvang op)
+...
 
 ### ART. 26.
 
-Dit besluit treedt in werking op 1 januari 2001.
+...
 
 ### ART. 27.
 
-De Vlaamse minister, bevoegd voor de Bijstand aan Personen, is belast met de uitvoering van dit besluit.
+...
