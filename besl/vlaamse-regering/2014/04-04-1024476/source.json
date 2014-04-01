@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024476,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot wijziging van het besluit van de Vlaamse Regering van 22 november 2013 houdende de vergunningsvoorwaarden en het kwaliteitsbeleid voor gezinsopvang en groepsopvang van baby's en peuters en het besluit van de Vlaamse Regering van 22 november 2013 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024476/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "e77ba435403eb87f5e7fe8809441a764002fd9a94d697de3666b3206707d4965",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024476&param=informatie",
+  "as_of": "2014-04-01",
+  "made": "2014-04-04",
+  "gazette": "2014-08-28",
+  "numac": 2014036520,
+  "document_start": "2014-04-01",
+  "document_end": null,
+  "in_force": "2014-04-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
