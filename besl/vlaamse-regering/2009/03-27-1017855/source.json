@@ -2,16 +2,16 @@
   "codex_id": 1017855,
   "title": "Besluit van de Vlaamse Regering van 2009-03-27 tot uitvoering van het decreet van 13 juli 2007 houdende de organisatie van opvoedingsondersteuning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017855/VolledigDocument?datum=2009-05-01",
-  "source_sha256": "56136dc1620117e4a47013a147a5ebe5cc5a579761ce5ce77649a040351b73da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017855/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "7593cd7d91620586123309c2f36f673ea2e7831d9e989d38279282ee60b5a8a0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017855&param=informatie",
-  "as_of": "2009-05-01",
+  "as_of": "2014-04-01",
   "made": "2009-03-27",
   "gazette": "2009-04-30",
   "numac": 2009201867,
   "document_start": "2009-05-01",
   "document_end": "2014-03-31",
-  "in_force": "2009-05-01",
+  "in_force": "2014-04-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2009-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }
