@@ -2,16 +2,16 @@
   "codex_id": 1016072,
   "title": "Decreet van 2007-07-13 houdende de organisatie van opvoedingsondersteuning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016072/VolledigDocument?datum=2007-08-01",
-  "source_sha256": "090b7b1fa1bd3ccddd08ad60e4085ff571316cbc0fbf1d742311be8afa18594e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016072/VolledigDocument?datum=2014-04-01",
+  "source_sha256": "b87b28996df1c4bcfd0e85ee820c61bcd224ece40411c04a4bfa76067426c5d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016072&param=informatie",
-  "as_of": "2007-08-01",
+  "as_of": "2014-04-01",
   "made": "2007-07-13",
   "gazette": "2007-08-14",
   "numac": 2007036291,
   "document_start": "2007-08-01",
   "document_end": "2014-03-31",
-  "in_force": "2007-08-01",
+  "in_force": "2014-04-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2007-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
 }

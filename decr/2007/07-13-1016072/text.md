@@ -4,104 +4,104 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gemeenschapsaangelegenheid.<br />
+...
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<br />1° opvoedingsondersteuning : de laagdrempelige, gelaagde ondersteuning van opvoedingsverantwoordelijken bij de opvoeding van kinderen;<br />2° opvoedingsverantwoordelijken : de titularissen van het ouderlijk gezag, de natuurlijke personen die een of meer kinderen op duurzame wijze of op regelmatige basis in feite onder hun bewaring hebben of bij wie het kind geplaatst is door bemiddeling of ten laste van een overheid, en de professionelen of vrijwilligers die op grond van hun activiteiten mee verantwoordelijk zijn voor de opvoeding van meerdere kinderen;<br />3° kind : de persoon bedoeld in artikel 1 van het Internationaal Verdrag inzake de Rechten van het Kind, aangenomen in New York op 20 november 1989;<br />4° lokaal sociaal beleidsplan : het plan bedoeld in artikel 4 van het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid;<br />5° centrumstad : de grootsteden, de centrumsteden of de Vlaamse Gemeenschapscommissie bedoeld in artikel 4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de werking en de verdeling van het Vlaams Stedenfonds;<br />6° Kind en Gezin : het intern verzelfstandigd agentschap met rechtspersoonlijkheid bedoeld in het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />7° Jongerenwelzijn : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid bedoeld in het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap Jongerenwelzijn.<br />
+...
 
 ## HOOFDSTUK II. Lokale coördinatoren opvoedingsondersteuning en lokaal overleg opvoedingsondersteuning
 
 ### ART. 3.
 
-De Vlaamse Regering ondersteunt de opleiding en de permanente vorming van lokale coördinatoren opvoedingsondersteuning wanneer aan de volgende voorwaarden wordt voldaan :<br />1° de lokale coördinator opvoedingsondersteuning wordt tewerkgesteld door de gemeente, een intergemeentelijk samenwerkingsverband of, in het tweetalige gebied Brussel-Hoofdstad, door de Vlaamse Gemeenschapscommissie;<br />2° de lokale coördinator opvoedingsondersteuning organiseert op regelmatige basis een lokaal overleg opvoedingsondersteuning, met het oog op een aanbod aan opvoedingsondersteuning dat op de lokale behoeften en kenmerken is afgestemd;<br />3° de lokale coördinator opvoedingsondersteuning coördineert de opvoedingsondersteuning op lokaal niveau in een breder verband en rapporteert daarover aan het lokaal overleg opvoedingsondersteuning.<br /><br />De Vlaamse Regering bepaalt de nadere voorwaarden voor de toekenning van de ondersteuning bedoeld in het eerste lid.<br />
+...
 
 ### ART. 4.
 
-Het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, vervult minstens de volgende opdrachten :<br />1° het bereidt het lokaal sociaal beleidsplan en de evaluatie ervan voor, met betrekking tot de opvoedingsondersteuning;<br />2° het ontwikkelt op basis van afstemming en samenwerking de acties rond opvoedingsondersteuning die in het lokaal sociaal beleidsplan zijn opgenomen;<br />3° het zorgt, op basis van afstemming en samenwerking, voor de informatieverstrekking en de sensibilisatie rond het opvoeden van kinderen en de vroegtijdige detectie van opvoedingsonzekerheid of opvoedingsproblemen;<br />4° het werkt mee aan de afstemming op bovenlokaal niveau van het aanbod aan opvoedingsondersteuning.<br />
+...
 
 ### ART. 5.
 
-De lokale coördinator opvoedingsondersteuning nodigt ten minste de volgende actoren die actief zijn in de gemeente of in het tweetalige gebied Brussel-Hoofdstad of vertegenwoordigers van die onderscheiden actoren uit voor deelname aan het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2° :<br />1° het openbaar centrum voor maatschappelijk welzijn;<br />2° de erkende huisartsen;<br />3° de scholen uit het secundair onderwijs bedoeld in het decreet van 31 juli 1990 betreffende het onderwijs-II;<br />4° de regionale instituten en instellingen voor maatschappelijk opbouwwerk bedoeld in het decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk, die een lokale werking hebben in de betrokken gemeente of in het tweetalige gebied Brussel-Hoofdstad;<br />5° de ouderverenigingen bedoeld in het decreet van 20 juni 1996 betreffende de subsidiëring van ouderkoepelverenigingen;<br />6° de kleuterscholen, de lagere scholen en de basisscholen bedoeld in het decreet basisonderwijs van 25 februari 1997;<br />7° de diensten voor gezinszorg bedoeld in het decreet van 14 juli 1998 houdende de erkenning en de subsidiëring van verenigingen en welzijnsvoorzieningen in de thuiszorg;<br />8° de centra voor leerlingenbegeleiding bedoeld in het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding;<br />9° de lokale politie bedoeld in titel II van de wet van 7 december 1998 tot organisatie van een geïntegreerde politiedienst, gestructureerd op twee niveaus;<br />10° de verenigingen waar armen het woord nemen bedoeld in artikel 8 van het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br />11° de verenigingen die erkend zijn en gesubsidieerd worden krachtens titel II van het decreet van 4 april 2003 betreffende het sociaal-cultureel vol-wassenenwerk en systematisch vormingen over opvoeding aan opvoedingsverantwoordelijken aanbieden;<br />12° de voorzieningen en de actoren die de activiteiten uitvoeren bedoeld in artikel 7, artikel 8, § 1, eerste lid, artikel 13, § 2 en § 3, en artikel 14 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin.<br /><br />De Vlaamse Regering kan andere actoren of vertegenwoordigers van deze onderscheiden actoren benoemen die uitgenodigd worden voor deelname aan het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°.<br /><br />De Vlaamse Regering bepaalt de voorwaarden waaronder het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, kan worden samengesteld uit vertegenwoordigers van de onderscheiden actoren vermeld in het eerste en tweede lid.<br /><br />De Vlaamse Regering bepaalt de nadere regels inzake de organisatie en de werking van het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°.<br />
+...
 
 ## HOOFDSTUK III. Opvoedingswinkels
 
 ### ART. 6.
 
-§ 1. De Vlaamse Regering subsidieert een lokaal samenwerkingsverband opvoedingsondersteuning met een jaarlijkse subsidie-enveloppe voor de organisatie en de werking van een opvoedingswinkel wanneer het aan de volgende voorwaarden voldoet :<br />1° het gaat uit van een in een centrumstad georganiseerd lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°;<br />2° het bestaat uitsluitend uit meerdere actoren die deelnemen aan het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°;<br />3° er worden afspraken gemaakt over het aanbod van opvoedingsondersteuning door de actoren die deel uitmaken van het lokaal samenwerkingsverband opvoedingsondersteuning en die deelnemen aan het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, en door gevormde vrijwilligers;<br />4° de opvoedingswinkel vervult ten minste de volgende opdrachten :<br />a) onverminderd artikel 4, 3°, basisinformatie ter beschikking stellen over het opvoeden van kinderen in diverse levensfasen;<br />b) algemene opvoedingsvragen beantwoorden;<br />c) een onderscheiden, vraaggerichte pedagogische adviesfunctie aanbieden bij specifieke opvoedingsvragen;<br />d) het stimuleren van ontmoetingen tussen opvoedingsverantwoordelijken met de nadruk op het creëren van sociale netwerken en het bespreekbaar maken van het opvoeden van kinderen bij brede groepen van opvoedingsverantwoordelijken;<br />e) voorlichtings-, opleidings-, vormings- of trainingsactiviteiten in verband met opvoeding binnen het bereik van opvoedingsverantwoordelijken brengen;<br />f) ondersteuning aanbieden bij opvoedingsproblemen, zowel in gezins- als groepsverband;<br />g) zorgen voor een vroegtijdige detectie van opvoedingsonzekerheid of opvoedingsproblemen met, indien nodig, een gerichte doorverwijzing;<br />h) zorgen voor een gecoördineerde, systematische en kwantitatieve gegevensverzameling;<br />5° de opvoedingswinkel is centraal gelegen, is vlot bereikbaar, is gevestigd in een of meer toegankelijke gebouwen en hanteert gezinsvriendelijke openingsuren;<br />6° de opvoedingswinkel maakt gebruik van een gamma van beproefde methodieken, respecteert daarbij de subsidiariteit, werkt vraaggericht en multidisciplinair en differentieert zijn aanbod volgens de diverse levensfasen van kinderen en, waar nodig, voor specifieke doelgroepen.<br /><br />Jongerenwelzijn ondersteunt ter plaatse het lokaal samenwerkingsverband opvoedingsondersteuning dat gesubsidieerd wordt overeenkomstig het eerste lid.<br /><br />§ 2. De Vlaamse Regering kan het werkingsgebied van een opvoedingswinkel vastleggen, met dien verstande dat dat werkingsgebied ten minste de centrumstad bestrijkt waarin de opvoedingswinkel is gevestigd.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere voorwaarden voor de toekenning van de subsidie-enveloppe en de ondersteuning bedoeld in § 1.<br /><br />De Vlaamse Regering bepaalt de regels met betrekking tot de aanvraag, de vaststelling, de toekenning, de vereffening en de terugvordering van de subsidie-enveloppe. Bij het bepalen van de subsidie-enveloppe legt de Vlaamse Regering resultaten vast die moeten worden bereikt door het lokaal samenwerkingsverband opvoedingsondersteuning bedoeld in § 1.<br /><br />De Vlaamse Regering kan de voorwaarden bepalen waaronder het lokaal samenwerkingsverband opvoedingsondersteuning bedoeld in § 1 de subsidie-enveloppe kan cumuleren met andere financiering.<br />
+...
 
 ### ART. 7.
 
-De Vlaamse Regering kent een kwaliteitslabel toe aan de lokale samenwerkingsverbanden opvoedingsondersteuning die gesubsidieerd worden overeenkomstig artikel 6.<br /><br />De Vlaamse Regering kent een kwaliteitslabel toe aan het lokaal samenwerkingsverband dat uitgaat van een niet in een centrumstad georganiseerd lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, en dat voldoet aan de voorwaarden van artikel 6, § 1, met uitzondering van 1°.<br />
+...
 
 ## HOOFDSTUK IV. Vlaamse coördinatoren opvoedingsondersteuning
 
 ### ART. 8.
 
-De Vlaamse Regering ondersteunt, overeenkomstig artikel 13 van het decreet van 19 maart 2004 betreffende het lokaal sociaal beleid, de gemeenten die geen ondersteuning krijgen bedoeld in artikel 3, door het inzetten van Vlaamse coördinatoren opvoedingsondersteuning.<br /><br />De Vlaamse coördinatoren opvoedingsondersteuning moeten bevorderen dat in de gemeenten bedoeld in het eerste lid wordt voldaan aan de voorwaarden van artikel 3. Bij afwezigheid van een tewerkstelling bedoeld in artikel 3, eerste lid, 1°, kan een lokale coördinator opvoedingsondersteuning, volgens de voorwaarden bepaald door de Vlaamse Regering, met zijn toestemming, worden aangeduid door en onder de actoren vermeld in artikel 5, eerste lid.<br />
+...
 
 ### ART. 9.
 
-§ 1. De Vlaamse coördinatoren opvoedingsondersteuning zorgen met de lokale coördinatoren opvoedingsondersteuning, overeenkomstig artikel 4, 4°, voor de afstemming op bovenlokaal niveau van het aanbod van opvoedingsondersteuning, in het bijzonder van de pedagogische adviesfunctie.<br /><br />De Vlaamse Regering bepaalt jaarlijks de werkingsmiddelen voor de Vlaamse coördinatoren opvoedingsondersteuning. De Vlaamse Regering kan deze werkingsmiddelen afhankelijk maken van de cofinanciering door de provincie.<br /><br />De Vlaamse Regering kan het werkingsgebied van de bovenlokale niveaus bepalen, met dien verstande dat het werkingsgebied van een bovenlokaal niveau slechts een provincie bestrijkt.<br /><br />§ 2. De Vlaamse coördinatoren opvoedingsondersteuning treden toe tot de netwerken rechtstreeks toegankelijke jeugdhulpverlening, overeenkomstig artikel 13, tweede lid, van het decreet van 7 mei 2004 betreffende de integrale jeugdhulp.<br />
+...
 
 ## HOOFDSTUK V. Provinciale steunpunten opvoedingsondersteuning en het steunpunt opvoedingsondersteuning van de Vlaamse Gemeenschapscommissie
 
 ### ART. 10.
 
-De Vlaamse provincie die een provinciaal steunpunt opvoedingsondersteuning opstart of uitbouwt, voldoet aan de volgende voorwaarden :<br />1° het wordt georganiseerd onder de bevoegdheid van de deputatie;<br />2° het vervult minstens de volgende opdrachten :<br />a) in overleg met de Vlaamse coördinatoren opvoedingsondersteuning :<br />- het faciliteert intergemeentelijke of regionale samenwerking rond opvoedingsondersteuning;<br />- het stelt initiatieven inzake opvoedingsondersteuning, gelegen buiten de centrumsteden, in staat om op te starten;<br />- het bundelt goede praktijkvoorbeelden en maakt ervaringsuitwisseling mogelijk;<br />b) in overleg met het Vlaams Expertisecentrum voor Opvoedingsondersteuning : het zorgt mee voor de provinciale verspreiding van informatie en materiaal voor iedereen die professioneel of op vrijwillige basis opvoedingsondersteuning biedt.<br />
+...
 
 ### ART. 11.
 
-De Vlaamse Gemeenschapscommissie die een steunpunt opvoedingsondersteuning opstart of uitbouwt, voldoet aan de volgende voorwaarden :<br />1° het wordt georganiseerd onder de bevoegdheid van het College van de Vlaamse Gemeenschapscommissie;<br />2° het vervult minstens de volgende opdrachten :<br />a) in overleg met de Vlaamse coördinatoren opvoedingsondersteuning :<br />- het faciliteert samenwerking rond opvoedingsondersteuning;<br />- het stelt initiatieven inzake opvoedingsondersteuning in staat om op te starten;<br />- het bundelt goede praktijkvoorbeelden en maakt ervaringsuitwisseling mogelijk;<br />b) in overleg met het Vlaams Expertisecentrum voor Opvoedingsondersteuning : het zorgt mee voor de verspreiding in het tweetalige gebied Brussel-Hoofdstad van informatie en materiaal voor iedereen die professioneel of op vrijwillige basis opvoedingsondersteuning biedt.<br />
+...
 
 ## HOOFDSTUK VI. Initiatieven inzake voorlichting, opleiding, vorming of training in verband met de opvoeding van kinderen
 
 ### ART. 12.
 
-§ 1. Binnen de perken van de begrotingskredieten kan de Vlaamse Regering een forfaitaire tegemoetkoming toekennen aan een vereniging, een deelvereniging of een organisatie die een voorlichtings-, opleidings-, vormings- of trainingsactiviteit in verband met het opvoeden van kinderen organiseert, en die haar betrokkenheid bij het opvoeden van kinderen kan aantonen.<br /><br />De activiteit bedoeld in het eerste lid heeft tot doel opvoedingsverantwoordelijken in staat te stellen kennis, inzichten en vaardigheden te verwerven of verder te ontwikkelen met betrekking tot de opvoeding van kinderen.<br /><br />§ 2. Een opleidings-, vormings- of trainingsreeks bevat ten minste drie samenkomsten in een tijdspanne van zes maanden. Die vereiste geldt niet voor een voorlichtingsactiviteit. Alle activiteiten worden georganiseerd voor een groep van ten minste twaalf deelnemers en ten minste acht deelnemers voor bijzondere doelgroepen.<br /><br />Het aantal activiteiten dat voor de tegemoetkoming in aanmerking komt, is per initiatiefnemer beperkt tot twaalf per jaar.<br /><br />De begeleider kan met deskundigheid over de opvoeding van kinderen en jongeren spreken.<br /><br />§ 3. De Vlaamse Regering bepaalt de procedure voor de aanvraag en de toekenning van de tegemoetkoming volgens welbepaalde criteria voor de begeleider, met bijzondere aandacht voor de plaats en de inbreng van de opvoedingsverantwoordelijken.<br />
+...
 
 ## HOOFDSTUK VII. Vlaams Expertisecentrum voor Opvoedingsondersteuning
 
 ### ART. 13.
 
-§ 1. Bij Kind en Gezin wordt het Vlaams Expertisecentrum voor Opvoedingsondersteuning opgericht, dat bestaat uit een adviescomité en een operationele cel.<br /><br />§ 2. Het adviescomité bestaat uit experten inzake het opvoeden van kinderen en vertegenwoordigers van de intern verzelfstandigde agentschappen die door de Vlaamse regering worden aangewezen.<br /><br />Het adviescomité verstrekt advies aan de operationele cel over de inhoudelijke aspecten van de werkzaamheden van het Vlaams Expertisecentrum voor Opvoedingsondersteuning.<br /><br />§ 3. De Vlaamse Regering bepaalt de nadere regels met betrekking tot de samenstelling, de organisatie en de werking van het adviescomité en de operationele cel.<br />
+...
 
 ### ART. 14.
 
-Het Vlaams Expertisecentrum voor Opvoedingsondersteuning heeft de volgende opdrachten :<br />1° basisinformatie ontwikkelen over het opvoeden van kinderen in diverse levensfasen en die basisinformatie onder meer aanbieden aan het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, en aan de opvoedingswinkels bedoeld in artikel 6 en artikel 7, tweede lid;<br />2° tekstueel en audiovisueel materiaal maken en verspreiden en zorgen voor de terugkoppeling naar opvoedingsverantwoordelijken;<br />3° een digitaal platform ontwikkelen en updaten over het opvoeden van kinderen in diverse levensfasen, in samenwerking met de opvoedingswinkels bedoeld in artikelen 6 en 7, tweede lid;<br />4° telefonische dienstverlening aanbieden aan opvoedingsverantwoordelijken met opvoedingsvragen, in samenwerking met een of meer relevante partners;<br />5° een documentatie- en informatiecentrum uitbouwen over het opvoeden van kinderen in diverse levensfasen;<br />6° de voortgangsbewaking garanderen van het Vlaamse en internationale wetenschappelijk onderzoek over het opvoeden van kinderen in diverse levensfasen;<br />7° participatieve en wetenschappelijk onderbouwde methodieken inzake opvoedingsondersteuning ontwikkelen en verspreiden;<br />8° de opleiding en de permanente vorming organiseren van de lokale coördinatoren opvoedingsondersteuning bedoeld in artikel 3, eerste lid, organiseren;<br />9° een handleiding opstellen die binnen het lokaal overleg opvoedingsondersteuning bedoeld in artikel 3, eerste lid, 2°, kan worden gebruikt;<br />10° trainingen van professionelen in opvoedingsondersteuning organiseren;<br />11° de gegevensverzamelingen bedoeld in artikel 6, § 1, 4°, h), verwerken, en daarover rapporteren aan de Vlaamse Regering.<br />
+...
 
 ### ART. 15.
 
-De lokale coördinatoren opvoedingsondersteuning bedoeld in de artikelen 3 en 8, tweede lid, en de Vlaamse coördinatoren opvoedingsondersteuning bedoeld in artikel 8 rapporteren over hun activiteiten aan het Vlaams Expertisecentrum voor Opvoedingsondersteuning.<br /><br />De Vlaamse Regering legt de nadere regels van die rapportage vast.<br />
+...
 
 ### ART. 16.
 
-De Vlaamse Regering bepaalt jaarlijks de middelen die, overeenkomstig artikel 80, § 2, van de decreten betreffende de radio-omroep en de televisie, gecoördineerd op 4 maart 2005, aangewend kunnen worden voor de financiering van opvoedingsondersteunende televisieprogramma's die gemaakt worden in samenwerking met het Vlaams Expertisecentrum voor Opvoedingsondersteuning.<br /><br />De Vlaamse Regering kan de financiering bedoeld in het eerste lid afhankelijk maken van de cofinanciering door de provincie waarin de regionale omroep gevestigd is.<br />
+...
 
 ## HOOFDSTUK VIII. Toezicht en rapportage
 
 ### ART. 17.
 
-De Vlaamse Regering organiseert het toezicht op de naleving van de voorwaarden zoals bepaald in de hoofdstukken II, III en V.<br />
+...
 
 ### ART. 18.
 
-De Vlaamse Regering brengt tweejaarlijks voor 31 mei bij het Vlaams Parlement in een afzonderlijk rapport verslag uit over en maakt een evaluatie van de werking en activiteiten van :<br />1° het lokaal overleg opvoedingsondersteuning en de lokale coördinatoren opvoedingsondersteuning als bedoeld in artikel 3;<br />2° de provinciale steunpunten opvoedingsondersteuning als bedoeld in artikel 10;<br />3° het steunpunt opvoedingsondersteuning als bedoeld in artikel 11;<br />4° de opvoedingswinkels bedoeld in artikelen 6 en 7, tweede lid;<br />5° de Vlaamse coördinatoren opvoedingsondersteuning bedoeld in artikelen 8 en 9;<br />6° de initiatieven inzake voorlichting, opleiding, vorming of training in verband met de opvoeding van kinderen;<br />7° het Vlaams Expertisecentrum voor Opvoedingsondersteuning.
+...
 
 ## HOOFDSTUK IX. Slotbepalingen
 
 ### ART. 19.
 
-In artikel 5, § 2, van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990, worden de volgende wijzigingen aangebracht :<br />1° punt 2° wordt vervangen door wat volgt :<br />« 2° het biedt vanuit lokale of sectorspecifieke kennis ondersteuning aan het intern verzelfstandigd agentschap Jongerenwelzijn bedoeld in het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap Jongerenwelzijn; »;<br />2° punten 3°, 4° en 5° worden opgeheven.<br />
+...
 
 ### ART. 20.
 
-In artikel 9 van dezelfde decreten wordt in § 2 een 6°bis ingevoegd, dat luidt als volgt :<br />« 6°bis indien uit de bekrachtigde afwijzing bedoeld in 6° de afwezigheid van een problematische opvoedingssituatie blijkt, wijst de sociale dienst op de mogelijkheden van opvoedingsondersteuning bedoeld in het decreet van 13 juli 2007 houdende de organisatie van opvoedingsondersteuning; ».<br />
+...
 
 ### ART. 21.
 
-Het decreet van 19 januari 2001 houdende de inrichting van activiteiten inzake opvoedingsondersteuning wordt opgeheven.<br />
+...
 
 ### ART. 22.
 
-Dit decreet treedt in werking op 1 augustus 2007.<br />
+...
