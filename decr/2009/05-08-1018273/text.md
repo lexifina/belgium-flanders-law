@@ -236,7 +236,7 @@ Voorafgaand aan de oprichting van een vestigingsplaats zoals bedoeld in de   Cod
 
 ### ART. 35quater.
 
-De onderwijsinspectie bezorgt het advies aan het Agentschap voor   Onderwijsdiensten en aan het school- of centrumbestuur.
+<P>De onderwijsinspectie bezorgt het advies aan de Vlaamse Regering.<BR><BR>Het   advies, vermeld in het eerste lid, kan op drie manieren worden   uitgebracht:<BR>1° een gunstig advies: dat houdt in dat de erkenning van de   vestigingsplaats gunstig wordt geadviseerd;<BR>2° een gunstig advies met   voorwaarden: dat houdt in dat de erkenning van de vestigingsplaats gunstig wordt   geadviseerd als binnen een bepaalde periode voldaan wordt aan de voorwaarden,   vermeld in het advies;<BR>3° een ongunstig advies: dat houdt in dat geadviseerd   wordt om de erkenning van de vestigingsplaats te weigeren.</P>
 
 ## Afdeling III. Doorlichtingen
 
@@ -277,6 +277,10 @@ Behoudens de mogelijkheden om een advies tot opheffing van de erkenning op   een
 ### ART. 43.
 
 <P>De onderwijsinspectie is, volgens de door de Vlaamse Regering bepaalde   modaliteiten, belast met het kwaliteitstoezicht op de opleidings- en   vormingsprogramma's georganiseerd door organisaties die geen   onderwijsinstellingen zijn maar die leiden tot attesten, certificaten, diploma's   of getuigschriften met eenzelfde civiel effect als deze die van rechtswege   worden uitgereikt door onderwijsinstellingen.<BR><BR>De onderwijsinspectie is   tevens, volgens de door de Vlaamse Regering bepaalde modaliteiten, belast met   het kwaliteitstoezicht op de opleidings- en vormingsprogramma's georganiseerd   door organisaties waarvan de erkenning of subsidiëring bij decreet of besluit   afhankelijk wordt gesteld van desbetreffend toezicht.</P>
+
+### ART. 43bis.
+
+§ 1. De onderwijsinspectie is belast met het kwaliteitstoezicht op de   diagnostische praktijk van de centra voor leerlingenbegeleiding in functie van   de opmaak van de verslagen, vermeld in de artikelen 15 en 16 van het decreet   basisonderwijs van 25 februari 1997 en in de artikelen 294 en 352 van de Codex   Secundair Onderwijs.<BR><BR>Dit kwaliteitstoezicht kan afzonderlijk van de   doorlichting uitgevoerd worden. Als beide doorlichtingen ingepland zijn tijdens   hetzelfde schooljaar, gebeuren ze geïntegreerd.<BR><BR>De inspectie stemt voor   de uitvoering van deze opdrachten af met het Team Inspectie Personen met een   Handicap van de Zorginspectie, zoals bepaald in het besluit van de Vlaamse   Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd   agentschap Zorginspectie.<BR><BR>De inspectie rapporteert jaarlijks over het   kwaliteitstoezicht aan de Vlaamse Regering.<BR><BR>§ 2. De onderwijsinspectie is   tevens belast met de toekenning van vrijstelling van leerplicht en het adviseren   over aanvragen voor permanent onderwijs aan huis.
 
 ## HOOFDSTUK III. Openbaarheid van de verslagen en adviezen
 
