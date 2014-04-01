@@ -23,3 +23,11 @@ In artikel VI 78, § 1 van hetzelfde besluit, vervangen bij het besluit van   de
 ### ART. 21.
 
 In artikel VII 2 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 16 maart 2007 en gewijzigd bij het besluit van de Vlaamse   Regering van 21 februari 2014, worden volgende wijzigingen aangebracht :<BR>1°   paragraaf 3 wordt vervangen door wat volgt :<BR>" § 3. Bij het opnemen van een   nieuwe functie zoals bepaald in paragraaf 1, behoudt het personeelslid ten   minste de op dat ogenblik al gevaloriseerde ervaring uit de private sector of   als zelfstandige."<BR>2° er wordt een paragraaf 4 toegevoegd, die luidt als   volgt :<BR>" § 4. De Vlaamse minister, bevoegd voor de bestuurszaken, bepaalt de   nadere voorwaarden voor de aanvulling en uitvoering van de bepalingen van dit   artikel.".<BR>
+
+### ART. 23.
+
+Aan deel VII, titel 2, hoofdstuk 3, afdeling 21, van hetzelfde besluit,   bestaande uit artikel VII 70sexies, ingevoegd bij het besluit van de Vlaamse   Regering van 14 februari 2014, worden de volgende wijzigingen aangebracht   :<BR>1° aan het opschrift van afdeling 21 worden de woorden "of als   schipper-stuurman" toegevoegd;<BR>2° in artikel VII 70sexies worden tussen de   woorden "schipper-bootsman" en "tijdelijk" de woorden "of schipper-stuurman"   toegevoegd.<BR>
+
+### ART. 26.
+
+In artikel VII 109quater van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 23 mei 2008, wordt het derde lid   opgeheven.<BR>
