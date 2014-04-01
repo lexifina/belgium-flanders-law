@@ -158,7 +158,7 @@ De kerkraad regelt alles wat de kerkfabriek aanbelangt, met uitzondering van de 
 
 ### ART. 25.
 
-In de gemeenten waar vier of meer parochies van de rooms-katholieke eredienst erkend zijn, waarvan de hoofdkerk gelegen is op het grondgebied van de gemeente, moet een centraal kerkbestuur worden opgericht. Het centraal kerkbestuur is een openbare instelling met rechtspersoonlijkheid.<br /><br />Het centraal kerkbestuur bepaalt zijn zetel.<br /><br />In de gemeenten met meer dan acht kerkfabrieken kan de Vlaamse regering, op voorstel van het erkend representatief orgaan, machtiging verlenen tot de oprichting van twee of meer centrale kerkbesturen.
+In de gemeenten waar twee of meer parochies van de rooms-katholieke eredienst erkend zijn, waarvan de hoofdkerk gelegen is op het grondgebied van de gemeente, moet een centraal kerkbestuur worden opgericht. Het centraal kerkbestuur is een openbare instelling met rechtspersoonlijkheid.<br /><br />Het centraal kerkbestuur bepaalt zijn zetel.<br /><br />In de gemeenten met meer dan acht kerkfabrieken kan de Vlaamse regering, op voorstel van het erkend representatief orgaan, machtiging verlenen tot de oprichting van twee of meer centrale kerkbesturen.
 
 ### ART 25/1.
 
