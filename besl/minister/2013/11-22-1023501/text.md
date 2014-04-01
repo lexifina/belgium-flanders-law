@@ -56,16 +56,72 @@ De beoordelingscommissie, vermeld in artikel 18 van het besluit van de   Vlaamse
 
 ## HOOFDSTUK 4. Inhoud omschakelingsadvies
 
+### ART. 8.
+
+Bij de aanvang van het omschakelingsadvies moet de erkende adviesdienst   duidelijk met de gangbare landbouwer, kandidaat-biologische landbouwer of de   land- en tuinbouwschool zonder biologische productiemethode afspreken hoe het   traject zal verlopen. In het contract wordt vastgelegd welke elementen gedurende   het traject aan bod zullen komen.
+
+### ART. 9.
+
+<P>Het omschakelingsadvies moet minimaal drie van de volgende elementen   bevatten:<BR>1° noodzakelijke stappen bij omschakeling;<BR>2° te verwachte   bedrijfsvoering;<BR>3° beschrijving arbeidsbehoefte;<BR>4° eerste   bedrijfseconomische berekening;<BR>5° steunmaatregelen;<BR>6° huidige   regelgeving;<BR>7° afzetmogelijkheden.</P>  <P>&nbsp;<BR>De bevoegde entiteit stelt een modelcontract omschakelingsadvies   ter beschikking op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+
 ## HOOFDSTUK 5. Inhoud biobedrijfsplan
+
+### ART. 10.
+
+Bij de aanvang van de opmaak van een biobedrijfsplan moet de erkende   adviesdienst duidelijk met de landbouwer, kandidaat-biologische landbouwer of de   land- en tuinbouwschool afspreken hoe het traject zal verlopen. In het contract   wordt vastgelegd welke elementen gedurende het traject aan bod zullen komen.
+
+### ART. 11.
+
+<P>Het biobedrijfsplan bevat minimaal de volgende elementen:<BR>1° huidige   bedrijfsvoering;<BR>2° kansen en knelpunten van het bedrijf;<BR>3° te verwachten   bedrijfsvoering;<BR>4° noodzakelijke stappen bij omschakeling;<BR>5° teeltplan,   beschrijving teelten;<BR>6° beschrijving arbeidsbehoefte;<BR>7°   bedrijfseconomische berekening;<BR>8° nodige investeringen;<BR>9°   steunmaatregelen;<BR>10° afzetmogelijkheden.<BR></P>  <P>De bevoegde entiteit stelt een modelcontract biobedrijfsplan ter beschikking   op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A>.</P>
+
+### ART. 12.
+
+Het biobedrijfsplan moet opgemaakt worden binnen twaalf maanden na   ondertekening van het contract tussen de erkende bedrijfsadviseur en de   landbouwer, kandidaat-biologische landbouwer of de land- en tuinbouwschool,   vermeld in artikel 5 van het besluit van de Vlaamse Regering van 8 november   2013.<BR>
 
 ## HOOFDSTUK 6. Inhoud startersadvies
 
+### ART. 13.
+
+Bij de aanvang van het startersadvies moet de erkende adviesdienst   duidelijk met de startende biologische landbouwer of de startende land- en   tuinbouwschool afspreken hoe het traject zal verlopen. In het contract wordt   vastgelegd welke elementen gedurende het traject aan bod zullen komen.
+
+### ART. 14.
+
+<P>Het startersadvies moet minstens één van de volgende elementen   bevatten:<BR>1° onkruidbestrijding;<BR>2° gewasbescherming;<BR>3°   bemesting;<BR>4° verwerven van nieuwe technieken of vaardigheden;<BR>5° nieuwe   teelten, beschrijving teelten;<BR>6° bedrijfseconomie,   kostprijsberekening;<BR>7° huidige regelgeving;<BR>8° steunmaatregelen;<BR>9°   marktperspectieven;<BR>10° bodemvruchtbaarheid.</P>  <P><BR>De bevoegde entiteit stelt een modelcontract startersadvies ter   beschikking op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+
 ## HOOFDSTUK 7. Inhoud bedrijfsadvies
+
+### ART. 15.
+
+Bij de aanvang van het bedrijfsadvies moet de erkende adviesdienst   duidelijk met de biologische landbouwer of de land- en tuinbouwschool met een   biologische productiemethode afspreken hoe het traject zal verlopen. In het   contract wordt vastgelegd welke elementen gedurende het traject aan bod zullen   komen.
+
+### ART. 16.
+
+<P>Het bedrijfsadvies moet minstens één van de volgende elementen   bevatten:<BR>1° onkruidbestrijding;<BR>2° gewasbescherming;<BR>3°   bemesting;<BR>4° verwerven van nieuwe technieken of vaardigheden;<BR>5° nieuwe   teelten, beschrijving teelten;<BR>6° bedrijfseconomie,   kostprijsberekening;<BR>7° huidige regelgeving; <BR>8° steunmaatregelen;<BR>9°   marktperspectieven;<BR>10° bodemvruchtbaarheid.<BR></P>  <P>De bevoegde entiteit stelt een modelcontract bedrijfsadvies ter beschikking   op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
 
 ## [HOOFDSTUK 7/1. Subsidiebedragen (ing. MB 19 februari 2019, art. 29, I: 25 maart 2019)]
 
 ## HOOFDSTUK 8. Evaluatie
 
+### ART. 17.
+
+<P>De evaluatie, vermeld in artikel 9 van het besluit van de Vlaamse Regering   van 8 november 2013, moet uiterlijk veertien werkdagen na het laatste   bedrijfsbezoek ingediend worden.</P>  <P><BR>De bevoegde entiteit stelt een evaluatieformulier ter beschikking op de   website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+
 ## HOOFDSTUK 9. Administratieve procedure
 
+### ART. 18.
+
+<P>De uitbetalingsaanvraag, vermeld in artikel 8 van het besluit van de Vlaamse   Regering van 8 november 2013, moet uiterlijk zes maanden na het laatste   bedrijfsbezoek ingediend worden en moet minstens de volgende gegevens   bevatten:<BR>1° naam erkende adviesdienst;<BR>2° adviesprijs per type   uitgevoerde bedrijfsadvisering;<BR>3° subsidiebedrag per type uitgevoerde   bedrijfsadvisering;<BR>4° totaal bedrag adviesprijzen;<BR>5° totaal   subsidiebedrag.<BR></P>  <P>Aan die uitbetalingsaanvraag moeten minstens de volgende documenten worden   toegevoegd:<BR>1° een kopie van de factuur. De facturen bevatten ten minste de   volgende gegevens:<BR>a) in welk kader de bedrijfsadvisering uitgevoerd   werd;<BR>b) de totale advieskosten met een opsplitsing van het percentage van de   inbreng van de landbouwer, kandidaat-biologische landbouwer of de land- en   tuinbouwschool en het percentage van de subsidie;<BR>c) de bedrijfsadviseur of   bedrijfsadviseurs;<BR>d) de adviesperiode en de data van de adviezen;<BR>2° het   biobedrijfsplan. <BR></P>  <P>De bevoegde entiteit stelt een model van uitbetalingsaanvraag ter beschikking   op de website van de Vlaamse overheid: <A   href="http://lv.vlaanderen.be">http://lv.vlaanderen.be</A></P>
+
+### ART. 19.
+
+Na de administratieve, inhoudelijke en steekproefsgewijze controles wordt   de subsidie berekend en uitbetaald.
+
+### ART. 20.
+
+De bevoegde entiteit bezorgt alle biologische landbouwers jaarlijks een   overzicht van de nog beschikbare subsidiebedragen voor de   bedrijfsadvisering.
+
 ## HOOFDSTUK 10. Slotbepalingen
+
+### ART. 21.
+
+Dit besluit treedt in werking op 1 april 2014, met uitzondering van   artikel 1, 2, 3, 4, 5, 6 en 7, die in werking treden de tiende dag na   bekendmaking ervan in het Belgisch Staatsblad.
