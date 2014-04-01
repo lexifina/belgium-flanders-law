@@ -8,42 +8,42 @@ DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN,<br /><br />Gelet op h
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° Kind en Gezin : het intern verzelfstandigd agentschap Kind en Gezin, opgericht bij het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br />2° dienst : dienst voor onthaalouders, erkend door Kind en Gezin;<br />3° onthaalouder : onthaalouder als vermeld in artikel 1, § 1, 6° bis, van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders.<br /><br />Alle onthaalouders moeten voldoen aan de minimale voorwaarden, vermeld in dit besluit, om aangesloten te worden en te blijven bij een dienst.<br /><br />Onthaalouders die (willen) samenwerken moeten aanvullend voldoen aan de voorwaarden, vermeld in dit besluit, om in aanmerking te komen en te blijven voor samenwerking tussen onthaalouders.<br />
+...
 
 ## HOOFDSTUK II Minimale voorwaarden voor onthaalouders
 
 ### ART. 2.
 
-De minimale voorwaarden om onthaalouder te worden en te blijven, zijn : <br />1° de onthaalouder is ten minste 18 jaar oud;<br />2° de onthaalouder is in staat kinderen op te voeden en beschikt over voldoende pedagogische kwaliteiten en over de nodige draagkracht;<br />3° de onthaalouder beschikt over voldoende veilige ruimte en materiaal om kinderen op te vangen in verhouding tot het aantal en de leeftijd van de opgevangen kinderen, en beschikt over een aparte slaap- en rustruimte voor baby's en peuters;<br />4° de onthaalouder is bereid tot permanent overleg met de gezinnen over de opvang van de kinderen;<br />5° de onthaalouder aanvaardt de begeleiding en de ondersteuning van de dienst voor onthaalouders;<br />6° de onthaalouder beschikt over een geschikt attest van een basisopleiding levensreddend handelen bij kinderen;<br />7° de onthaalouder houdt huisdieren buiten het bereik van de kinderen, tenzij er voorzien wordt in een aangepaste begeleiding en een strikt toezicht.<br /><br />De onthaalouder volgt het beleid van de dienst op het vlak van veiligheid en gezondheid, als vermeld in artikel 3, 7°, van het besluit van de Vlaamse Regering van 23 februari 2001 houdende de voorwaarden inzake erkenning en subsidiëring van kinderdagverblijven en diensten voor onthaalouders.
+...
 
 ### ART. 3.
 
-De onthaalouder overhandigt, op verzoek van de dienst en in elk geval voor hij/zij aanvaard wordt door de dienst, de volgende stukken aan de dienst : <br />1° een uittreksel uit het strafregister voor alle personen ouder dan 18 jaar die deel uitmaken van het gezin van de (kandidaat-)onthaalouder en voor alle personen die regelmatig in contact komen met de opgevangen kinderen;<br />2° een document met de verklaring van een arts over de medische geschiktheid van de (kandidaat-)onthaalouder.
+...
 
 ### ART. 4.
 
-De onthaalouder is tijdens de opvangmomenten effectief beschikbaar om kwalitatieve opvang aan te bieden. De uitoefening van inkomensverschaffende activiteiten door de onthaalouder tijdens de opvangmomenten is niet toegestaan.
+...
 
 ### ART. 5.
 
-Gelijktijdige opvang van kinderen, geplaatst via de dienst, en van pleegkinderen, geplaatst via gezinsplaatsingsdiensten, of van personen, geplaatst door andere instanties, is mogelijk na toestemming van de dienst op basis van een verslag over de draagkracht van het gezin, gelet op de nieuwe situatie ingevolge de opvang van pleegkinderen.
+...
 
 ## HOOFDSTUK III Voorwaarden voor onthaalouders die in aanmerking willen komen en blijven voor samenwerking
 
 ### ART. 6.
 
-De onthaalouders hebben de draagkracht om samen kinderen op te vangen en om met elkaar op een bestendige wijze samen te werken, en hun gezin ondersteunt dat.
+...
 
 ### ART. 7.
 
-De onthaalouders hebben samenwerkingsafspraken die vastgelegd zijn in een schriftelijk document, waarbij minstens de volgende zaken zijn opgenomen :<br />1° de woning of woningen voor de opvang in gezinsverband waar de opvang plaatsvindt, en de beschikbare ruimte voor de opvang;<br />2° de dagen waarop de opvang plaatsvindt;<br />3° de capaciteit per onthaalouder;<br />4° de taakverdeling;<br />5° de afspraken over directe en indirecte onkosten met betrekking tot de opvang van de kinderen;<br />6° de afspraken in geval van (onverwachte) afwezigheden van een of meer onthaalouders of van een of meer kinderen.
+...
 
 ## HOOFDSTUK IV Slotbepalingen
 
 ### ART. 8.
 
-Het ministerieel besluit van 30 november 2001 houdende de voorwaarden waaraan opvanggezinnen moeten voldoen om aanvaard te worden door een dienst voor opvanggezinnen, gewijzigd bij het ministerieel besluit van 1 april 2003, wordt opgeheven.
+...
 
 ### ART. 9.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2008.
+...
