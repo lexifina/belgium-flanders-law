@@ -2,7 +2,7 @@
 
 ### Verslag aan de Vlaamse Regering
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/05/30_2.pdf#page=72" title=" Verslag" target="_blank" class="pdf">Verslag</a>
+...
 
 ### Aanhef
 
@@ -10,48 +10,48 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 5 april 1995 houdende a
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° de bevoegde overheid : de Vlaamse Regering voor de gewestelijke ruimtelijke uitvoeringsplannen, de deputatie voor de provinciale ruimtelijke uitvoeringsplannen en het college van burgemeester en schepenen voor de gemeentelijke ruimtelijke uitvoeringsplannen;<br />2° Dienst Mer : de dienst Milieueffectrapportage van de afdeling Milieu-, Natuur- en Energiebeleid van het Departement Leefmilieu, Natuur en Energie van het Ministerie van Leefmilieu, Natuur en Energie;<br />3° Ondersteunende MER-cel : de dienst Begeleiding Gebiedsgerichte Planprocessen van het Departement Leefmilieu, Natuur en Energie van het Ministerie van Leefmilieu, Natuur en Energie;<br />4° RUP : ruimtelijk uitvoeringsplan;<br />5° plan-MER : een milieueffectrapport over een voorgenomen RUP volgens de procedure van het integratiespoor;<br />6° het decreet Ruimtelijke Ordening : het decreet van 18 mei 1999 houdende organisatie van de ruimtelijke ordening, en wijzigingen;<br />7° het MER-decreet : titel IV Milieueffect- en Veiligheidsrapportage van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid;<br />8° toelichtingsnota van het RUP : een niet-verordenend onderdeel van het RUP dat de weergave van de feitelijke en juridische toestand, de relatie met de ruimtelijke structuurplannen, de opgave van voorschriften die opgeheven worden en de ruimtelijk relevante conclusies van het ruimtelijk veiligheidsrapport, het milieueffectrapport en/of de passende beoordeling, de watertoets en andere verplichte effectbeoordelingen bevat.
+...
 
 ### ART. 2.
 
-Het integratiespoor, vermeld in dit besluit, houdt in dat de milieueffectrapportage plaatsvindt tijdens het voorbereidende proces voor de opmaak en voor de vaststelling van het RUP. De milieueffectrapportage levert gegevens aan inzake de mogelijke milieueffecten van het voorgenomen RUP. Deze gegevens worden, in voorkomend geval, verwerkt in het kader van het voorbereidend planningsproces voor het voorgenomen RUP. Het voltooide plan-MER over een voorgenomen RUP is beschikbaar uiterlijk op het ogenblik dat de stukken voor de plenaire vergadering over het voorontwerp van het RUP worden verstuurd.<br /><br />Het plan-MER maakt integraal deel uit van het RUP. Het plan-MER kan volledig in de toelichtingsnota worden geïntegreerd, waarbij de onderdelen van het plan-MER duidelijk herkenbaar moeten zijn. De herkenbaarheid van het plan-MER wordt gegarandeerd door een leeswijzer in de toelichtingsnota bij het RUP, die aangeeft hoe de integratie van het plan-MER gebeurt, en die helder weergeeft waar de verschillende onderdelen van het plan-MER in de toelichtingsnota bij het RUP te vinden zijn.<br /><br />Het RUP voldoet aan de vereisten, vermeld in artikel 4.2.4, § 1, van het MER-decreet.<br /><br />In de toelichtingnota van het RUP wordt aangegeven op welke wijze rekening gehouden wordt met de resultaten van de milieueffectrapportage, met de adviezen die gegeven werden in het kader van de procedure van milieueffectrapportage en in voorkomend geval de resultaten van de grensoverschrijdende raadpleging. Daarnaast worden de redenen weergegeven voor de gekozen opties in het RUP, in het licht van de redelijke alternatieven die zijn behandeld.<br /><br />De toelichtingsnota van het RUP bevat alle gegevens vermeld in artikel 4.2.8, § 1, 5°, van het MER-decreet.
+...
 
 ### ART. 3.
 
-Voor elk voorgenomen RUP gaat de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet<br />na of een plan-MER gemaakt moet worden. Op verzoek van de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet geeft de ondersteunende MER-cel hierbij begeleiding. <br /><br />Als de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet op basis van het MER-decreet vaststelt dat een onderzoek moet worden ingesteld of voor het voorgenomen RUP een plan-MER opgemaakt moet worden, wordt de procedure, zoals voorzien in de artikelen 4.2.5 tot 4.2.7 van het MER-decreet gevolgd.
+...
 
 ### ART. 4.
 
-§ 1. Als de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet op basis van het MER-decreet vaststelt dat voor het voorgenomen RUP een plan-MER opgemaakt moet worden, gaat ze over tot de opmaak van een voorstel van nota voor publieke consultatie. Op verzoek van de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet geeft de ondersteunende MER-cel hierbij begeleiding.<br /><br />Het voorstel van nota voor publieke consultatie bevat ten minste de volgende gegevens :<br />1° alle informatie die vereist is volgens artikel 4.2.8, § 1, van het MER-decreet voor de kennisgeving en inhoudsafbakening van het plan-MER;<br />2° een beschrijving, verduidelijking en gebiedsafbakening van het voorgenomen RUP en in voorkomend geval een beschrijving van de redelijke alternatieven voor dat RUP of voor onderdelen ervan. Daarbij wordt in het bijzonder de relatie aangegeven met het ruimtelijk structuurplan of de ruimtelijke structuurplannen waarvan het een uitvoering is;<br />3° een toelichting van de te volgen besluitvormingsprocedure voor het RUP en het plan-MER. Daarin wordt aangegeven welke actoren betrokken zijn bij het planningsproces;<br />4° de reden voor de opmaak van deze nota voor publieke consultatie en de mogelijkheid die geboden wordt om tijdens de periode van publieke consultatie, bedoeld in § 4, opmerkingen of suggesties te doen over het voorstel van reikwijdte, detailleringniveau en inhoudelijke aanpak van het plan-MER. <br /><br />§ 2. De dienst Mer neemt binnen 20 dagen na ontvangst van het voorstel van nota voor publieke consultatie een beslissing over de volledigheid ervan. <br /><br />Daarvoor bezorgt de bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet<br />aan de dienst Mer van de volledig verklaarde nota twee exemplaren meer dan er gemeenten zijn.<br /><br />§ 3. De volledig verklaarde nota voor publieke consultatie van het plan-MER wordt door de dienst Mer ter inzage gelegd door publicatie op de website van de bevoegde overheid, op de website van de dienst Mer en op het gemeentehuis van elke gemeente waarvan het grondgebied door het op te maken RUP geheel of ten dele zal worden bestreken en van elke andere gemeente die aanzienlijke effecten kan ondervinden van het plan volgens de informatie, vermeld in § 1.<br /><br />De overheden en instanties die worden geraadpleegd volgens de bepalingen in het decreet Ruimtelijke Ordening in het kader van de plenaire vergadering over een voorontwerp RUP, worden door de dienst Mer met een aangetekende brief of via de elektronische post met ontvangstbevestiging, op de hoogte gebracht van die publicatie op de websites. De bevoegde overheid of de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet bezorgt de dienst Mer een lijst met adressen van die overheden en instanties. De Dienst Mer kan ook andere instanties raadplegen, waarvan zij het advies nuttig acht.<br /><br />Ingeval het plan aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in andere gewesten, of als bevoegde autoriteiten van die lidstaten of gewesten daarom verzoeken, wordt de nota voor publieke consultatie door de dienst Mer ter beschikking gesteld van die autoriteiten.<br /><br />§ 4. Bij de publicatie, vermeld in § 3, wordt duidelijk aangegeven dat de overheden, instanties en het publiek binnen een termijn van 30 dagen vanaf de datum van publicatie eventuele opmerkingen kunnen bezorgen op de wijze en aan het adres van de dienst Mer, vermeld in de publicatie.<br /><br />De bevoegde autoriteiten van de lidstaten of gewesten moeten hun eventuele opmerkingen bezorgen uiterlijk binnen de termijn die in de desbetreffende overeenkomst tussen de bevoegde autoriteiten van de lidstaten of gewesten is vastgelegd. Bij ontstentenis van overeenkomst is artikel 4.2.8, § 5, van het MER-decreet van toepassing.<br /><br />§ 5. De nota voor publieke consultatie wordt na de consultatieperiode, vermeld in § 4, besproken op een vergadering waarbij de dienst Mer, de bevoegde overheid en de overnemer van de verplichtingen overeenkomstig artikel 4.1.1, § 1, 13°, a) van het MER-decreet aanwezig zijn om de reikwijdte, het detailleringniveau, de inhoudelijke aanpak van het plan-MER vast te stellen, rekening houdend met de opmerkingen die werden bezorgd tijdens de consultatieperiode. <br /><br />De overheden en instanties, vermeld in het decreet Ruimtelijke Ordening in het kader van de plenaire vergadering over een voorontwerp RUP, alsook de overige instanties die door de Dienst Mer geraadpleegd werden, vermeld in § 3, kunnen een vertegenwoordiger sturen naar die vergadering. Die vertegenwoordiger is gemandateerd om standpunten in te nemen namens de overheid of instantie. <br /><br />De dienst Mer maakt een verslag van de vergadering op binnen twintig dagen na de vergadering. Het verslag bevat de richtlijnen over de reikwijdte, het detailleringniveau en de inhoudelijke aanpak van het plan-MER, en eventuele bijzondere en aanvullende richtlijnen voor het opstellen van het plan-MER. <br /><br />Daarnaast neemt de dienst Mer een beslissing over de voorgestelde erkende MER-coördinator en het voorgestelde team van MER-deskundigen. Het goedgekeurde verslag wordt gepubliceerd op dezelfde websites als vermeld in § 3.
+...
 
 ### ART. 5.
 
-Het plan-MER wordt opgemaakt rekening houdend met de bepalingen vermeld in artikel 4, § 5.
+...
 
 ### ART. 6.
 
-§ 1. Het Departement Leefmilieu, Natuur en Energie wordt uitgenodigd om een advies uit te brengen naar aanleiding van de plenaire vergadering over de voorontwerpen van gewestelijke, provinciale en gemeentelijke ruimtelijke uitvoeringsplannen waarvoor een plan-MER opgemaakt moet worden. <br /><br />De Dienst Mer kan het plan-MER goed- of afkeuren op de plenaire vergadering. <br /><br />Als het plan-MER wordt goedgekeurd of afgekeurd tijdens de plenaire vergadering kan ze geïntegreerd worden in het advies van het Departement Leefmilieu, Natuur en Energie, dat uitgebracht wordt naar aanleiding van de plenaire vergadering. De Dienst Mer beslist in elk geval over de goed- of afkeuring van het plan-MER voor de datum van de voorlopige vaststelling van het RUP. Het goedgekeurde plan-MER is uiterlijk bij de voorlopige vaststelling van het RUP beschikbaar. <br /><br />De bevoegde overheid kan er ook voor opteren om vóór de organisatie van de plenaire vergadering, het plan-MER ter goedkeuring aan de dienst Mer te bezorgen. De dienst Mer beslist in dat geval uiterlijk binnen vijftig dagen na ontvangst van het plan-MER, over de goed- of afkeuring van het plan-MER. <br /><br />§ 2. Artikel 4.6.4 van het MER-decreet over de procedure voor heroverweging van de beslissing van de dienst Mer is hier van toepassing.
+...
 
 ### ART. 7.
 
-Het plan-MER is met toepassing van het decreet Ruimtelijke Ordening een onderdeel van het RUP en volgt dezelfde procedure als voor het RUP. <br /><br />Ingeval het RUP aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie of in andere gewesten, of als bevoegde autoriteiten van die lidstaten of gewesten daarom verzoeken, wordt het ontwerp van RUP voor raadpleging ter beschikking gesteld van die autoriteiten. In voorkomend geval wordt de procedure zoals overeengekomen in de overeenkomst vermeld in artikel 4, § 4, 2e lid, gevolgd.
+...
 
 ### ART. 8.
 
-Het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed stelt een handleiding inzake plan-MER op. Die handleiding is een referentiewerk waarop de bevoegde overheid, de erkende coördinatoren en de deskundigen zich baseren voor het goede verloop van de plan-MER en voor de inhoud van een plan-MER, met inbegrip van de methodologische aspecten.
+...
 
 ### ART. 9.
 
-Drie jaar na de inwerkingtreding van dit besluit wordt een evaluatierapport van de toepassing ervan voorgelegd aan de Vlaamse Regering. Dit evaluatierapport wordt opgemaakt door het Departement Ruimtelijke Ordening, Wonen en Onroerend Erfgoed in overleg met de dienst Mer en de Ondersteunende MER-cel van het Departement Leefmilieu, Natuur en Energie van het Ministerie van Leefmilieu, Natuur en Energie.
+...
 
 ### ART. 10.
 
-De bepalingen van dit besluit zijn van toepassing op de procedurestappen van een plan-MER die na de inwerkingtreding van dit besluit nog moeten doorlopen worden.
+...
 
 ### ART. 11.
 
-De Vlaamse minister, bevoegd voor de Ruimtelijke Ordening, en de Vlaamse minister, bevoegd voor het Leefmilieu, zijn belast met de uitvoering van dit besluit.
+...
 
 ### ART. 12.
 
-Het besluit treedt in werking op 1 juni 2008.
+...
