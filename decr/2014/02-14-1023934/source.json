@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023934,
+  "title": "Decreet van 2014-02-14 houdende instemming met de Kaderconventie van de Raad van Europa over de bijdrage van cultureel erfgoed aan de samenleving, opgemaakt in Faro op 27 oktober 2005 en ondertekend op 25 juni 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023934/VolledigDocument?datum=2014-04-03",
+  "source_sha256": "7bff4a45dd28a202884af3421ca355c42181d81759b47a4a784462ce77ae3560",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023934&param=informatie",
+  "as_of": "2014-04-03",
+  "made": "2014-02-14",
+  "gazette": "2014-03-24",
+  "numac": 2014035264,
+  "document_start": "2014-04-03",
+  "document_end": null,
+  "in_force": "2014-04-03",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-04-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
