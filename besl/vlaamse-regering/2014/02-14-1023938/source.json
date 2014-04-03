@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023938,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van de artikelen 12, 22 en 28 van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de toewijzing, het gebruik en de overname van de nutriëntenemissierechten en betreffende de bedrijfsontwikkeling na bewezen mestverwerking",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023938/VolledigDocument?datum=2014-04-03",
+  "source_sha256": "549750266445655318c92977c406afb2a37a0a11ccea4decb42a0419bf930b82",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023938&param=informatie",
+  "as_of": "2014-04-03",
+  "made": "2014-02-14",
+  "gazette": "2014-03-24",
+  "numac": 2014201522,
+  "document_start": "2014-04-03",
+  "document_end": null,
+  "in_force": "2014-04-03",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-04-03; oldest version available; future article versions excluded; article text as the API gives it"
+}

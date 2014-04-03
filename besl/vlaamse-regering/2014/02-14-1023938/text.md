@@ -1,0 +1,25 @@
+# Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van de artikelen 12, 22 en 28 van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de toewijzing, het gebruik en de overname van de nutriëntenemissierechten en betreffende de bedrijfsontwikkeling na bewezen mestverwerking
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het Mestdecreet van 22 december 2006, artikel 34, § 1, vierde lid,   en artikel 35, tweede lid; <BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 7 september 2007 betreffende   de toewijzing, het gebruik en de overname van de nutriëntenemissierechten en   betreffende de bedrijfsontwikkeling na bewezen mestverwerking; <BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 31 oktober   2013;<BR></P>  <P>Gelet op advies 54.576/1 van de Raad van State, gegeven op 19 december 2013,   met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Leefmilieu, Natuur en   Cultuur;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit: <BR></P>
+
+### ART. 1.
+
+Aan artikel 12, tweede lid, van het besluit van de Vlaamse Regering van 7   september 2007 betreffende de toewijzing, het gebruik en de overname van de   nutriëntenemissierechten en betreffende de bedrijfsontwikkeling na bewezen   mestverwerking, gewijzigd bij het besluit van de Vlaamse Regering van 4   september 2009, wordt een punt 11° toegevoegd, dat luidt als volgt: <BR>"11° als   nutriëntenemissierechten worden overgenomen zonder annulatie van 25 % met   toepassing van artikel 34, § 1, eerste lid, 2°, f), van het Mestdecreet van 22   december 2006, moeten bijkomend de volgende documenten worden toegevoegd: <BR>a)   een kopie van de oprichtingsakte van de overlatende personenvennootschap met   rechtspersoonlijkheid, alsook een kopie van alle wijzigingsakten;<BR>b) een   kopie van de oprichtingsakte van die vennootschap, alsook een kopie van alle   wijzigingsakten als de overnemende landbouwer of een persoon die deel uitmaakt   van de overnemende landbouwer, een personenvennootschap is met   rechtspersoonlijkheid;<BR>c) een kopie van het meest recente register van   aandelen van de overlatende personenvennootschap met rechtspersoonlijkheid;   <BR>d) een kopie van het meest recente register van aandelen van die   vennootschap als de overnemende landbouwer of een persoon die deel uitmaakt van   de overnemende landbouwer, een personenvennootschap is met   rechtspersoonlijkheid;<BR>e) een bewijs van alle bloed- of aanverwantschappen of   huwelijksbanden als vermeld in artikel 34, § 1, eerste lid, 2°, f), van het   Mestdecreet van 22 december 2006, waarop de aanvragers zich beroepen.".   <BR>
+
+### ART. 2.
+
+In hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering   van 4 september 2009, wordt een artikel 12/1 ingevoegd, dat luidt als volgt:   <BR>"Art. 12/1. Overeenkomstig artikel 34, § 1, van het Mestdecreet, wordt voor   de toepassing van dit besluit een kapitaalvennootschap waarvan alle aandelen op   naam zijn, gelijkgesteld met een personenvennootschap.".<BR>
+
+### ART. 3.
+
+In artikel 22, § 2, derde lid, van hetzelfde besluit, gewijzigd bij het   besluit van de Vlaamse Regering van 4 september 2009, worden de woorden 'vervalt   het kalenderjaar nadat' vervangen door de woorden 'vervalt bij de overlater op   de dag dat'. <BR>
+
+### ART. 4.
+
+<P>Aan artikel 28 van hetzelfde besluit wordt een paragraaf 7 toegevoegd, die   luidt als volgt: <BR>" § 7. Als de Mestbank, op het moment van de aktename van   de overdracht van de nutriëntenemissierechten in het kader van een volledige   bedrijfsovername als vermeld in artikel 35, eerste lid, 4°, van het Mestdecreet   van 22 december 2006, nog niet kan beoordelen of in het kalenderjaar dat   voorafgaat aan het jaar van overname voldaan is aan de voorwaarden, vermeld in   paragraaf 2 tot en met 5 van dit artikel, worden de aan de overlatende   landbouwer toegekende NER-MVW overgedragen onder voorbehoud dat de overlatende   landbouwer, in het kalenderjaar dat voorafgaat aan het jaar van overname,   voldaan heeft aan de voorwaarden, vermeld in paragraaf 2 tot en met 5 van dit   artikel. Als de Mestbank, bij de beoordeling van de voorwaarden, vermeld in   paragraaf 2 tot en met 5 van dit artikel, een gehele of gedeeltelijke annulatie   als vermeld in paragraaf 4, eerste lid, of paragraaf 5, derde lid, van dit   artikel, doorvoert op de NER-MVW van de overlatende landbouwer, worden de   overgedragen NER-MVW ook geheel of gedeeltelijk geannuleerd bij de overnemende   landbouwer.<BR></P>  <P>Het bedrijf van de overlatende landbouwer en het bedrijf van de overnemende   landbouwer worden op hun verzoek als één gemeenschappelijk bedrijf beschouwd   voor de beoordeling of, in het jaar van de overname, voldaan is aan de   voorwaarden, vermeld in paragraaf 2 tot en met 5 van dit artikel.".   <BR></P>
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is   belast met de uitvoering van dit besluit. <BR>
