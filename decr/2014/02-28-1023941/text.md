@@ -2,11 +2,39 @@
 
 ## HOOFDSTUK 1 Algemene bepaling
 
+### ART. 1.
+
+Dit decreet regelt een gewestaangelegenheid.<BR>
+
 ## HOOFDSTUK 2 Wet betreffende de wateringen
+
+### ART. 2.
+
+In artikel 51 van de wet van 5 juli 1956 betreffende de wateringen wordt   het eerste lid opgeheven.<BR>
+
+### ART. 3.
+
+Artikel 61 van dezelfde wet wordt opgeheven.<BR>
 
 ## HOOFDSTUK 3 Wet betreffende de polders
 
+### ART. 4.
+
+In artikel 51 van de wet van 3 juni 1957 betreffende de polders wordt het   eerste lid opgeheven.<BR>
+
+### ART. 5.
+
+Artikel 61 van dezelfde wet wordt opgeheven.<BR>
+
 ## HOOFDSTUK 4 Wet op de bescherming van de oppervlaktewateren tegen verontreiniging
+
+### ART. 6.
+
+In de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren   tegen verontreiniging wordt een hoofdstuk IIter ingevoegd, dat luidt als   volgt:<BR>"HOOFDSTUK IIter. - Grachten".<BR>
+
+### ART. 7.
+
+<P>&nbsp;In dezelfde wet wordt in hoofdstuk IIter, ingevoegd bij artikel 6, een   artikel 32quaterdecies ingevoegd, dat luidt als volgt:<BR>"Art. 32quaterdecies.   § 1. De gemeente kan het beheer van grachten overnemen van de eigenaars en   gebruikers wanneer dit nuttig is voor het watersysteem zoals bedoeld in artikel   3, § 2, 16°, van het decreet van 18 juli 2003 houdende het integraal   waterbeleid. De overname van het beheer van de grachten omvat het onderhouden   ervan alsook het vernieuwen ervan.<BR></P>  <P>Dergelijke gracht wordt aangeduid als een gracht van algemeen belang. Onder   gracht van algemeen belang wordt begrepen een kunstmatige afvoerweg tot   afscheiding, tot afwatering of tot ontwatering van hemelwater, drainagewater,   bemalingswater en in voorkomend geval ook effluentwater uit een   waterzuiveringsinstallatie, of water afkomstig uit een overstort, die niet bij   de waterwegen, en ook niet bij de onbevaarbare waterlopen is ingedeeld en die   door de gemeente beheerd wordt.<BR></P>  <P>§ 2. De gemeente kan ten behoeve van het beheer van de grachten van algemeen   belang enkel een erfdienstbaarheid opleggen met betrekking tot het recht van   doorgang dat kan worden voorzien voor personeelsleden van het bestuur en de   aangestelden die met de uitvoering van werken zijn belast. Er kan maximum een   erfdienstbaarheidszone van drie meter landinwaarts van de rand van de gracht   bepaald worden. Andere erfdienstbaarheden of gebruiksbeperkingen kunnen niet   opgelegd worden. Deze erfdienstbaarheden kunnen niet gezien worden als   gebruiksbeperkingen die aanleiding kunnen geven tot financiële compensatie   vanwege de overheid.<BR></P>  <P>De erfdienstbaarheden die niet langer noodzakelijk zijn voor het onderhoud   van het grachtenstelsel worden opgeheven door de gemeente. De eigenaar of   gebruiker van het bezwaarde perceel kan om de opheffing van de nutteloos   geworden erfdienstbaarheden verzoeken.<BR></P>  <P>De Vlaamse Regering zal voor het opleggen en opheffen van deze   erfdienstbaarheden nadere regels bepalen.<BR></P>  <P>§ 3. De beslissing om het beheer over te nemen, zoals bedoeld in paragraaf 1,   en de beslissing om erfdienstbaarheden op te leggen die nuttig zijn voor het   beheer, zoals bedoeld in paragraaf 2, worden voorafgegaan door een openbaar   onderzoek. De Vlaamse Regering zal hiervoor nadere regels bepalen.<BR></P>  <P>Tegen de beslissingen, bedoeld in het eerste lid, kan beroep worden ingesteld   bij de gouverneur binnen dertig dagen na de kennisname ervan door elke   belanghebbende. De gouverneur doet uitspraak binnen zestig dagen na ontvangst   van het beroepschrift. De Vlaamse Regering kan hiervoor nadere regels   bepalen.".<BR></P>
 
 ### ART. 8.
 
@@ -42,6 +70,10 @@ Artikel 37, 38 en 40 van dezelfde wet worden opgeheven.<BR>
 
 ## HOOFDSTUK 5 Wet houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne
 
+### ART. 16.
+
+<P>Artikel 3 van de wet van 10 januari 1978 houdende bijzondere maatregelen   inzake ruilverkaveling van landeigendommen in der minne wordt vervangen door wat   volgt:<BR>"Art. 3. De bepalingen van deze wet zijn alleen van toepassing op de   landeigendommen die gelegen zijn in gebieden, aangewezen op de plannen van   aanleg of ruimtelijke uitvoeringsplannen en ressorteren onder de subcategorie of   categorie van gebiedsaanduiding "gebied voor wonen en voor landbouw",   "landbouw", "bos", "overig groen" of "reservaat en natuur".<BR></P>  <P>Voor de toepassing van het eerste lid geldt dat een bestemmingsvoorschrift   van een plan van aanleg alleszins vergelijkbaar is met een subcategorie of   categorie van gebiedsaanduiding, indien deze concordantie vermeld wordt in de   tabel, opgenomen in de Vlaamse Codex Ruimtelijke Ordening artikel 7.4.13, eerste   lid, of in de concordantielijst, bepaald krachtens voornoemde Vlaamse Codex   Ruimtelijke Ordening artikel 7.4.13, tweede lid.".<BR></P>
+
 ## HOOFDSTUK 6 Decreet houdende maatregelen inzake het grondwaterbeheer
 
 ### ART. 17.
@@ -76,22 +108,278 @@ Artikel 29 van hetzelfde decreet, vervangen bij het decreet van 21   december 20
 
 ## HOOFDSTUK 8 Het Bosdecreet
 
+### ART. 24.
+
+In artikel 48, tweede lid, van het Bosdecreet van 13 juni 1990, hersteld   bij het decreet van 12 december 2008, wordt de zin "Voor zover het gaat om   kapitaalsubsidies gericht op de uitbreiding of ontwikkeling van het bosareaal,   worden deze toegekend met het oog op bebossingen of herbebossingen op percelen   die op grond van de wetgeving op de ruimtelijke ordening bestemd worden als   bosgebieden." vervangen door de zin: "Voor zover het gaat om kapitaalsubsidies   gericht op uitbreiding of ontwikkeling van het bosareaal, worden deze toegekend   met het oog op bebossingen:<BR>1° op percelen die gelegen zijn in gebieden   aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen en   sorterend onder de categorie van gebiedsaanduiding "bos", "overig groen" of   "reservaat en natuur". Een bestemmingsvoorschrift van een plan van aanleg is   alleszins vergelijkbaar met een categorie van gebiedsaanduiding, indien deze   concordantie vermeld wordt in de tabel, opgenomen in artikel 7.4.13, eerste lid,   van het Vlaamse Codex Ruimtelijke Ordening of in de concordantielijst, bepaald   krachtens voornoemd artikel 7.4.13, tweede lid, Vlaamse Codex Ruimtelijke   Ordening;<BR>2° op percelen gelegen in een speciale beschermingszone zoals   vermeld in artikel 2, 43°, van het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu, voor zover de bebossing nodig is voor het   realiseren van de instandhoudingsdoelstellingen.".<BR>
+
+### ART. 25.
+
+In artikel 87 van hetzelfde decreet, het laatst gewijzigd bij het decreet   van 11 mei 2012, worden de volgende wijzigingen aangebracht:<BR>1° in het eerste   lid wordt de zin "Deze subsidies kunnen evenwel geen betrekking hebben op de   aankoop van percelen." vervangen door de zin "Ingeval de subsidie betrekking   heeft op de aankoop van percelen, kan deze maximaal 60 % van de aankoopsom   bedragen met een maximum van 2,5 EUR/m<SUP>2</SUP>. Deze subsidie kan   gecumuleerd worden met subsidies van andere overheden maar mag samen 60 % van de   aankoopsom niet overschrijden.";<BR>2° in het tweede lid wordt de zin "Voor   zover het gaat om kapitaalsubsidies gericht op andere uitbreiding of   ontwikkeling van het bosareaal, worden deze toegekend met het oog op bebossingen   of herbebossingen op percelen die op grond van de wetgeving op de ruimtelijke   ordening bestemd worden als bosgebieden." vervangen door "Voor zover het gaat om   kapitaalsubsidies gericht op uitbreiding of ontwikkeling van het bosareaal,   worden deze toegekend met het oog op bebossingen:<BR>1° op percelen die gelegen   zijn in gebieden aangewezen op de plannen van aanleg of ruimtelijke   uitvoeringsplannen en sorterend onder de categorie van gebiedsaanduiding "bos",   "overig groen" of "reservaat en natuur". Een bestemmingsvoorschrift van een plan   van aanleg is alleszins vergelijkbaar met een categorie van gebiedsaanduiding,   indien deze concordantie vermeld wordt in de tabel, opgenomen in artikel 7.4.13,   eerste lid, van de Vlaamse Codex Ruimtelijke Ordening of in de   concordantielijst, bepaald krachtens voornoemd artikel 7.4.13, tweede lid,   Vlaamse Codex Ruimtelijke Ordening. Deze bebossingen of herbebossingen gebeuren   bij voorkeur in het kader van de te realiseren   instandhoudingsdoelstellingen;<BR>2° op percelen gelegen in een speciale   beschermingszone zoals vermeld in artikel 2, 43°, van het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu, voor zover de   bebossing nodig is voor het realiseren van de   instandhoudingsdoelstellingen.".<BR>
+
+### ART. 26.
+
+Aan artikel 90bis, § 1, eerste lid, 5°, van hetzelfde decreet, ingevoegd   bij het decreet van 12 december 2008, wordt de volgende zinsnede   toegevoegd:<BR>", op voorwaarde dat die ontbossing opgenomen is in een   beheerplan dat is goedgekeurd op grond van artikel 25, 43, § 1, 43, § 2, of 43,   § 3, van dit decreet of van artikel 34, § 1, van het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu.".<BR>
+
 ## HOOFDSTUK 9 Het Jachtdecreet
+
+### ART. 27.
+
+&nbsp;In artikel 4 van het Jachtdecreet van 24 juli 1991, gewijzigd bij   het decreet van 30 april 2004, wordt het tweede lid opgeheven.<BR>
+
+### ART. 28.
+
+Aan artikel 22 van het Jachtdecreet van 24 juli 1991, gewijzigd bij het   decreet van 30 april 2004, wordt een vierde lid toegevoegd, dat luidt als   volgt:<BR>"De Vlaamse Regering stelt een code van goede praktijk vast met het   oog op specificering van andere bevredigende oplossingen ter voorkoming van   schade door wild.".<BR>
 
 ## HOOFDSTUK 10 Het decreet houdende algemene bepalingen inzake milieubeleid
 
+### ART. 29.
+
+&nbsp;In artikel 4.1.1, § 1, van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, ingevoegd bij het decreet van 18   december 2002 en gewijzigd bij de decreten van 27 april 2007, 12 december 2010,   23 december 2010 en 1 maart 2013, worden de volgende wijzigingen   aangebracht:<BR>1° in punt 15° wordt de zinsnede ", met bericht van ontvangst"   vervangen door de woorden "of per elektronische post";<BR>2° in punt 16° wordt   de zinsnede "de schriftelijke bevestiging van ontvangst van een zending,   getekend door de geadresseerde of zijn gemachtigde" vervangen door de woorden   "de schriftelijke of elektronische bevestiging van ontvangst van een   zending";<BR>3° er wordt een punt 20° toegevoegd, dat luidt als volgt:<BR>"20°   afschrift: de op schriftelijke of elektronische wijze ter beschikking gestelde   informatie.".<BR>
+
+### ART. 30.
+
+In artikel 4.1.2, § 1, eerste lid, 1°, van hetzelfde decreet, ingevoegd   bij het decreet van 18 december 2002, worden de woorden "dag na de datum van de   poststempel" vervangen door de woorden "derde werkdag na de dag van de   verzending".<BR>
+
+### ART. 31.
+
+Artikel 4.1.3 van hetzelfde decreet, ingevoegd bij het decreet van 18   december 2002, wordt opgeheven.<BR>
+
+### ART. 32.
+
+In artikel 4.2.3, § 3quater, van hetzelfde decreet, ingevoegd bij het   decreet van 8 mei 2009, worden de volgende wijzigingen aangebracht:<BR>1° in het   eerste lid wordt tussen de woorden "hiervan schriftelijk" en de woorden "op de   hoogte binnen" de woorden "of per elektronische post" ingevoegd;<BR>2° in het   tweede lid worden de woorden "of tegen ontvangstbewijs"   opgeheven.<BR>
+
+### ART. 33.
+
+In artikel 4.2.11, § 1, eerste lid, van hetzelfde decreet, ingevoegd bij   het decreet van 27 april 2007, wordt de zin "Indien reeds op basis van andere   toepasselijke wetgeving een openbaar onderzoek moet worden georganiseerd, dan   wordt de organisatie van deze raadpleging hierop afgestemd." uitgelegd als   volgt:<BR>"Indien reeds op basis van andere toepasselijke wetgeving een openbaar   onderzoek moet worden georganiseerd, dan gelden de procedureregels van die   wetgeving voor de vereisten vermeld in deze paragraaf.".<BR>
+
+### ART. 34.
+
+&nbsp;In artikel 4.2.11, § 2, eerste lid, van hetzelfde decreet worden de   woorden "aan de SERV en/of MINA-Raad en" ingetrokken.<BR>
+
+### ART. 35.
+
+In artikel 4.2.4, § 1, 5°, c), en artikel 4.2.11, § 4, 3°, van hetzelfde   decreet, ingevoegd bij het decreet van 27 april 2007, wordt de zinsnede "artikel   4.6.3" vervangen door de zinsnede "artikel 4.6.3bis".<BR>
+
+### ART. 36.
+
+In artikel 4.2.6 van hetzelfde decreet, ingevoegd bij het decreet van 18   december 2002, vervangen bij het decreet van 27 april 2007 en gewijzigd bij het   decreet van 8 mei 2009, worden de volgende wijzigingen aangebracht:<BR>1° in   paragraaf 1 worden tussen de woorden "door betekening of " en de woorden "tegen   ontvangstbewijs" telkens de woorden "door afgifte" ingevoegd;<BR>2° in paragraaf   4 worden de woorden "of tegen ontvangstbewijs" telkens   opgeheven.<BR>
+
+### ART. 37.
+
+In artikel 4.2.8 van hetzelfde decreet, ingevoegd bij het decreet van 18   december 2002, vervangen bij het decreet van 27 april 2007 en gewijzigd bij het   decreet van 23 december 2010, worden de volgende wijzigingen aangebracht:<BR>1°   in paragraaf 1, eerste lid, worden tussen de woorden "door betekening of" en de   woorden "tegen ontvangstbewijs" de woorden "door afgifte" ingevoegd;<BR>2° in   paragraaf 5, tweede lid, worden de woorden "of tegen ontvangstbewijs"   opgeheven.<BR>
+
+### ART. 38.
+
+&nbsp;In artikel 4.2.10 van hetzelfde decreet, ingevoegd bij het decreet   van 27 april 2007 en gewijzigd bij het decreet van 8 mei 2009, worden de   volgende wijzigingen aangebracht:<BR>1° in paragraaf 1bis worden tussen de   woorden "door betekening of " en de woorden "tegen ontvangstbewijs" de woorden   "door afgifte" ingevoegd;<BR>2° in paragraaf 2, tweede lid, worden de woorden   "of tegen ontvangstbewijs" opgeheven.<BR>
+
+### ART. 39.
+
+In artikel 4.2.11, § 4, eerste lid, 3°, van hetzelfde decreet, ingevoegd   bij het decreet van 27 april 2007, wordt de zinsnede "artikel 4.6.3" vervangen   door de zinsnede "artikel 4.6.3bis".<BR>
+
+### ART. 40.
+
+In artikel 4.3.2, § 3bis, van hetzelfde decreet, vervangen bij het decreet   van 23 maart 2012, wordt tussen de woorden "vermeld in paragrafen" en de woorden   "2 en 2bis" het cijfer "1," ingevoegd.<BR>
+
+### ART. 41.
+
+&nbsp;In artikel 4.3.3, § 4, tweede lid, van hetzelfde decreet, ingevoegd   bij het decreet van 18 december 2002, worden tussen de woorden "door betekening   of " en de woorden "tegen ontvangstbewijs" de woorden "door afgifte"   ingevoegd.<BR>
+
+### ART. 42.
+
+In de artikelen 4.3.4, § 1, 4.3.8, § 1, 4.5.2, § 1, en 4.5.7, § 1, van   hetzelfde decreet, ingevoegd bij het decreet van 18 december 2002, wordt tussen   de woorden "door betekening of " en de woorden "tegen ontvangstbewijs" telkens   de woorden "door afgifte" ingevoegd.<BR>
+
+### ART. 43.
+
+In artikel 4.4.4, § 1, van hetzelfde decreet, ingevoegd bij het decreet   van 18 december 2002, worden tussen de woorden "door betekening of " en de   woorden "tegen ontvangstbewijs" de woorden "door afgifte"   ingevoegd.<BR>
+
+### ART. 44.
+
+<P>Aan artikel 15.3.2 van hetzelfde decreet worden een tweede en een derde lid   toegevoegd, die luiden als volgt:<BR>"Als de maatregelen in het vorige lid   handelingen, inrichtingen of activiteiten omvatten die meldings- of   vergunningsplichtig zijn krachtens het decreet van 28 juni 1985 betreffende de   milieuvergunning of krachtens artikel 4.2.2 en artikel 4.2.1 van de Vlaamse   Codex Ruimtelijke Ordening van 15 mei 2009, geldt het besluit waarbij de   inperkingsmaatregelen of herstelmaatregelen worden opgelegd als melding of   milieuvergunning, respectievelijk als stedenbouwkundige melding of   -vergunning.<BR></P>  <P>De Vlaamse Regering bepaalt welke instanties ter zake voorafgaandelijk advies   moeten verlenen.".<BR></P>
+
+### ART. 45.
+
+&nbsp;In hetzelfde decreet wordt een artikel 15.8.3bis ingevoegd, dat   luidt als volgt:<BR>"Art. 15.8.3bis. Met uitzondering van artikelen 15.8.2,   15.8.3 en 15.8.8 kan de Vlaamse Regering de gevallen bepalen waarin de bevoegde   instantie de uitvoering van de noodzakelijke maatregelen aan derden kan   delegeren of opdragen.".<BR>
+
+### ART. 46.
+
+Artikel 15.8.21 en 15.8.22 van hetzelfde decreet worden   opgeheven.<BR>
+
+### ART. 47.
+
+&nbsp;In artikel 15.8.1 van hetzelfde decreet wordt het getal "15.8.22"   vervangen door het getal "15.8.20".<BR>
+
+### ART. 48.
+
+&nbsp;In artikel 16.1.1, eerste lid, van hetzelfde decreet, ingevoegd bij   het decreet van 21 december 2007 en het laatst gewijzigd bij het decreet van 8   februari 2013, worden de volgende wijzigingen aangebracht:<BR>1° punt 6° wordt   vervangen door wat volgt:<BR>"6° de wet van 26 maart 1971 op de bescherming van   de oppervlaktewateren tegen verontreiniging, met uitsluiting van hoofdstuk IV,   afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van   hoofdstuk IIIbis en de uitvoeringsbesluiten ervan betreft;";<BR>2° punt 12°   wordt vervangen door wat volgt:<BR>"12° het decreet van 24 januari 1984 houdende   maatregelen inzake het grondwaterbeheer, met uitsluiting van hoofdstuk IV,   afdeling IV, en hoofdstuk VI, van deze titel voor wat de overtredingen van   hoofdstuk IVbis en de uitvoeringsbesluiten ervan betreft;".<BR>
+
+### ART. 49.
+
+&nbsp;In artikel 16.6.1, tweede lid, van het decreet van 5 april 1995   houdende algemene bepalingen inzake het milieubeleid, gewijzigd bij de decreten   van 30 april 2009 en 23 december 2011, worden de volgende wijzigingen   aangebracht:<BR>1° punt 2° en 4° worden opgeheven;<BR>2° punt 3° wordt vervangen   door wat volgt:<BR>"3° de overtreding van de verplichting tot aangifte en   betaling van de milieuheffingen, vermeld in artikel 50 van het decreet van 23   december 2011 betreffende het duurzaam beheer van materiaalkringlopen en   afvalstoffen, en de verplichting tot betaling van de administratieve geldboete,   vermeld in artikel 58 van voormeld decreet;".<BR>
+
 ## HOOFDSTUK 11 Decreet op het natuurbehoud en het natuurlijk milieu
+
+### ART. 50.
+
+In artikel 48, § 3, van het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu, wordt tussen het woord "herziening" en de   woorden "of opheffing ervan" het woord ", ontheffing"   ingevoegd.<BR>
 
 ## HOOFDSTUK 12 Decreet houdende bepalingen tot begeleiding van de begroting 2006
 
+### ART. 51.
+
+In artikel 31 van het decreet van 23 december 2005 houdende bepalingen tot   begeleiding van de begroting 2006 wordt paragraaf 2 vervangen door wat   volgt:<BR>" § 2. De beheerscommissie is samengesteld uit:<BR>1° de leidend   ambtenaar van het Instituut voor Natuur en Bosonderzoek, die de commissie   voorzit;<BR>2° drie personeelsleden van het Instituut voor Natuur en   Bosonderzoek;<BR>3° een ambtenaar, deskundig in financiën en begroting, op   voorstel van de Vlaamse minister, bevoegd voor de financiën en de   begrotingen;<BR>4° een vertegenwoordiger van de Vlaamse minister, bevoegd voor   het natuurbehoud;<BR>5° een vertegenwoordiger van de Vlaamse minister, bevoegd   voor het wetenschapsbeleid; <BR>6° de leidend ambtenaar van het Agentschap voor   Natuur en Bos of zijn afgevaardigde.".<BR>
+
 ## HOOFDSTUK 13 Mestdecreet
+
+### ART. 52.
+
+In artikel 3 van het Mestdecreet van 22 december 2006, het laatst   gewijzigd bij het decreet van 6 mei 2011, worden de volgende wijzigingen   aangebracht:<BR>1° punt 56° wordt opgeheven;<BR>2° in punt 69° worden in de   tabel na het woord "Kunstmest" de woorden "en spuistroom" toegevoegd;<BR>3° in   punt 69° wordt in de tabel tussen de woorden "en groencompost" en de woorden "en   uitgezonderd" de zinsnede ", uitgezonderd spuistroom" ingevoegd;<BR>4° in punt   86° wordt tussen het woord "zomerhaver" en het woord "of " de zinsnede ",   soedangras" toegevoegd;<BR>5° in punt 87° worden de woorden "erkende   telersvereniging" telkens vervangen door het woord   "producentenorganisatie";<BR>6° in punt 89° wordt het woord "fruitbomen"   vervangen door het woord "fruit"; <BR>7° er wordt een punt 95° toegevoegd, dat   luidt als volgt:<BR>"95° verordening nr. 1069/2009: de verordening (EG) nr.   1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot   vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie   bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van   verordening (EG) nr. 1774/2002 (verordening dierlijke   bijproducten).".<BR>
+
+### ART. 53.
+
+In artikel 4 van hetzelfde decreet, gewijzigd bij de decreten van 12   december 2008, 23 december 2010 en 6 mei 2011, worden de volgende wijzigingen   aangebracht:<BR>1° in paragraaf 1, 2°, f), wordt de zinsnede "(EG) nr. 1774/2002   van het Europees Parlement en de Raad van 3 oktober 2002 tot vaststelling van   gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde   dierlijke bijproducten" vervangen door de zinsnede "nr. 1069/2009";<BR>2° in   paragraaf 2 wordt de zinsnede "(EG) nr. 1774/2002 van het Europees Parlement en   de Raad van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake   niet voor menselijke consumptie bestemde dierlijke bijproducten" vervangen door   de zinsnede "nr. 1069/2009".<BR>
+
+### ART. 54.
+
+In artikel 12, § 1, van hetzelfde decreet, gewijzigd bij de decreten van   19 december 2008, 23 december 2010, 6 mei 2011 en 1 maart 2013, worden de   volgende wijzigingen aangebracht:<BR>1° in het derde lid, 5°, wordt de zinsnede   "dezelfde Verordening (EG) nr. 1774/2002" vervangen door de zinsnede   "verordening nr. 1069/2009";<BR>2° het vijfde lid wordt vervangen door wat   volgt:<BR>"In afwijking van het eerste lid is bemesting toegestaan op bermen en   andere percelen die geen landbouwgrond zijn, op voorwaarde dat bemesting beperkt   wordt tot bemesting door rechtstreekse uitscheiding bij begrazing, waarbij   maximaal twee GVE per hectare op jaarbasis worden toegestaan.";<BR>3° er wordt   een zesde lid toegevoegd, dat luidt als volgt:<BR>"De Vlaamse Regering kan extra   voorwaarden verbinden aan de afwijkingen, vermeld in het tweede, derde en vijfde   lid. De Vlaamse Regering kan nader bepalen welke meststoffen bedoeld zijn in het   tweede lid, 3°, en het derde lid, 4° en 5°. De Vlaamse Regering kan nader   bepalen op welke wijze landbouwers die gebruikmaken van de afwijking, vermeld in   het vijfde lid, dat aan de Mestbank moeten melden.".<BR>
+
+### ART. 55.
+
+In artikel 13 van hetzelfde decreet, gewijzigd bij de decreten van 19   december 2008, 23 december 2010, 6 mei 2011 en 1 maart 2013, worden de volgende   wijzigingen aangebracht:<BR>1° in paragraaf 1, eerste en vijfde lid, paragraaf   2, eerste lid, paragraaf 3, eerste lid, en paragraaf 4, eerste lid, wordt het   woord "beweiding" vervangen door het woord "begrazing";<BR>2° in paragraaf 14,   eerste lid, worden de woorden "erkende telersvereniging" vervangen door het   woord "producentenorganisatie".<BR>
+
+### ART. 56.
+
+In artikel 14, § 5, eerste lid, 4°, van hetzelfde decreet, gewijzigd bij   het decreet van 6 mei 2011, worden de woorden "erkende telersvereniging" telkens   vervangen door het woord "producentenorganisatie".<BR>
+
+### ART. 57.
+
+In artikel 19, tweede lid, van hetzelfde decreet, gewijzigd bij het   decreet van 6 mei 2011, wordt het woord "beweiding" vervangen door het woord   "begrazing".<BR>
+
+### ART. 58.
+
+In artikel 21 van hetzelfde decreet, gewijzigd bij het decreet van 23   december 2010, worden de volgende wijzigingen aangebracht:<BR>1° in het eerste   lid wordt het woord "beweiding" vervangen door het woord "begrazing"; <BR>2° in   het eerste lid, 1°, worden tussen de woorden "bovenste rand" en de woorden "van   een" de woorden "van het talud" ingevoegd.<BR>
+
+### ART. 59.
+
+<P>In artikel 22 van hetzelfde decreet, gewijzigd bij de decreten van 12   december 2008, 19 december 2008, 23 december 2010 en 1 maart 2013, worden de   volgende wijzigingen aangebracht:<BR>1° paragraaf 1 wordt vervangen door wat   volgt:<BR>" § 1. Bij bemesting mogen de opgebrachte meststoffen niet   afspoelen.<BR></P>  <P>Bij bemesting worden dierlijke mest en andere meststoffen emissiearm als   volgt opgebracht:<BR>1° op grasland met zode-injectie, sleepslangtechniek of   sleufkouter;<BR>2° op beteelde landbouwgronden die geen grasland zijn, met   mestinjectie of sleepslangtechniek;<BR>3° op niet-beteelde landbouwgrond met   mestinjectie of met het in twee opeenvolgende werkgangen uitspreiden en inwerken   van de mest, waarbij de mest binnen twee uur na het uitspreiden moet zijn   ingewerkt op het perceel in kwestie. Op zaterdagen is het verplicht om de   dierlijke mest onmiddellijk in te werken.<BR></P>  <P>In afwijking van het tweede lid, worden de volgende meststoffen   niet-emissiearm opgebracht:<BR>1° spuistroom, gft-compost of groencompost;<BR>2°   effluenten, afkomstig van de bewerking of verwerking van dierlijke mest of   andere meststoffen, die een lager gehalte hebben aan ammoniakale stikstof dan 1   kg NH4-N per 1000 L of 1 kg NH4-N per 1000 kg;<BR>3° stalmest of champost   die:<BR>a) op grasland opgebracht wordt;<BR>b) gebruikt wordt voor bepaalde   houtige teelten;<BR>c) in het voorjaar opgebracht wordt op landbouwgronden   waarop wintergranen geteeld worden.<BR></P>  <P>In afwijking van het tweede lid, 3°, worden de volgende meststoffen binnen 24   uur na de opbrenging ingewerkt:<BR>1° andere meststoffen die arm zijn aan   ammoniakale stikstof; <BR>2° de champost die arm is aan ammoniakale   stikstof;<BR>3° de stalmest die arm is aan ammoniakale stikstof.<BR></P>  <P>Om gebruik te maken van de afwijking, vermeld in het derde lid, 2°, moet de   Mestbank voor het effluent een attest hebben afgegeven dat bij de toediening van   het effluent aanwezig is. Het attest wordt alleen afgegeven voor effluent   waarvan het gehalte aan ammoniakale stikstof, vermeld in het derde lid, 2°,   bewezen is volgens een analyse, uitgevoerd door een erkend laboratorium. De   kosten van de analyse zijn voor rekening van de aanvrager.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen ter uitvoering van dit   artikel."; <BR></P>  <P>2° paragraaf 2 wordt opgeheven.<BR></P>
+
+### ART. 60.
+
+<P>In artikel 23 van hetzelfde decreet, gewijzigd bij de decreten van 12   december 2008, 23 december 2010 en 6 mei 2011, wordt paragraaf 1 vervangen door   wat volgt:<BR>" § 1. De volgende personen doen elk jaar, met toepassing van dit   decreet, een aangifte: <BR>1° de landbouwer die een van de volgende bedrijven   heeft:<BR>a) een bedrijf met een productie aan dierlijke mest groter dan of   gelijk aan 300 kg P<SUB>2</SUB>O<SUB>5</SUB>;<BR>b) een bedrijf waarvan de   verschillende exploitaties die deel uitmaken van het bedrijf, in het   kalenderjaar in kwestie op een bepaald ogenblik gezamenlijk een oppervlakte   landbouwgrond groter dan of gelijk aan 2 ha in gebruik hebben;<BR>c) een bedrijf   met een effectieve oppervlakte groeimedium voor het telen van gewassen groter   dan of gelijk aan 50 a;<BR>2° de uitbater van een mestverzamelpunt met een   opslagcapaciteit groter dan of gelijk aan 300 kg   P<SUB>2</SUB>O<SUB>5</SUB>;<BR>3° de uitbater van een bewerkings- of   verwerkingseenheid, met een bewerkings- of verwerkingscapaciteit voor dierlijke   mest of andere meststoffen groter dan of gelijk aan 300 kg   P<SUB>2</SUB>O<SUB>5</SUB> per jaar;<BR>4° eenieder die andere meststoffen   produceert, verdeelt, importeert of exporteert, en die minstens 300 kg   P<SUB>2</SUB>O<SUB>5</SUB> laat afzetten op landbouwgrond in het Vlaamse   Gewest;<BR>5° eenieder die minstens 10.000 kg N per jaar uit kunstmest   produceert, verdeelt, importeert of exporteert en die levert aan verdelers of   aan landbouwers als vermeld in punt 1° ;<BR>6° eenieder die diervoeders   produceert, invoert of verkoopt;<BR>7° eenieder die het vorige jaar, ter   uitvoering van punt 1° tot en met 7°, een aangifte heeft ingediend bij de   Mestbank en niet aan de Mestbank heeft gemeld dat hij zijn bedrijf of uitbating   heeft stopgezet, of die geen verklaring heeft afgelegd als vermeld in paragraaf   3;<BR>8° de erkende mestvoerder, vermeld in artikel 48, die op een of meer   documenten, opgesteld ter uitvoering van artikel 47 tot en met 60, als aanbieder   of afnemer van meststoffen vermeld is.<BR></P>  <P>De productie aan dierlijke mest van een bedrijf als vermeld in het eerste   lid, 1°, a), wordt berekend als de som van de productie aan dierlijke mest van   elke exploitatie van het bedrijf. De productie aan dierlijke mest van een   exploitatie wordt berekend als het product, uitgedrukt in kg   P<SUB>2</SUB>O<SUB>5</SUB>, van de gemiddelde veebezetting in de exploitatie   gedurende het voorbije kalenderjaar, met de overeenkomstige productie per dier,   vermeld in artikel 27, § 1.<BR></P>  <P>Voor de berekening in een bepaald kalenderjaar van de effectieve oppervlakte   groeimedium voor het telen van gewassen, vermeld in het eerste lid, 1°, c),   worden de rijpaden en de ruimtes tussen de teelten meegerekend. Als er   verschillende teeltlagen zijn, wordt de oppervlakte van elke teeltlaag opgeteld   voor het verkrijgen van de effectieve oppervlakte. Als het maximum aantal lagen   dat op enig moment in het kalenderjaar in kwestie in de desbetreffende   bedrijfsruimte of op het desbetreffende perceel aanwezig was, groter is dan 1,   wordt het resultaat van de optelling met 10 percent   verminderd.".<BR></P>
+
+### ART. 61.
+
+In artikel 24 van hetzelfde decreet, gewijzigd bij de decreten van 19   december 2008 en 23 december 2010, worden de volgende wijzigingen   aangebracht:<BR>1° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt   als volgt:<BR>"Het register, vermeld in het eerste lid, wordt gebruikt voor het   bepalen van de gemiddelde veebezetting. Voor dieren van de diersoort 1° RUNDVEE   wordt de gemiddelde veebezetting bepaald op basis van de cijfergegevens over de   dierenaantallen, vermeld in de databank van Dierengezondheidszorg Vlaanderen   vzw.";<BR>2° in paragraaf 2 wordt het tweede lid opgeheven.<BR>
+
+### ART. 62.
+
+In artikel 27, § 1, van hetzelfde decreet, gewijzigd bij de decreten van   12 december 2008, 19 december 2008 en 6 mei 2011, en het besluit van de Vlaamse   Regering van 3 april 2009, worden de woorden "oor het" vervangen door de woorden   "voor het".<BR>
+
+### ART. 63.
+
+In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 12   december 2008 en 23 december 2010, worden de volgende wijzigingen   aangebracht:<BR>1° in paragraaf 1, derde lid, wordt punt 2° opgeheven;<BR>2° in   paragraaf 1, derde lid, 4°, wordt de zinsnede "en § 2" vervangen door de   zinsnede ", § 1bis en § 2";<BR>3° in paragraaf 3, eerste lid, wordt de zinsnede   " § 1, derde lid" vervangen door de zinsnede " § 1, derde lid, of § 1bis, derde   lid".<BR>
+
+### ART. 64.
+
+<P>In artikel 34 van hetzelfde decreet, gewijzigd bij de decreten van 12   december 2008 en 1 maart 2013 worden de volgende wijzigingen aangebracht:<BR>1°   in paragraaf 1, eerste lid, 2°, worden aan punt a) de volgende zinnen   toegevoegd:<BR>"Als de nutriëntenemissierechten worden overgenomen door een   vennootschap met rechtspersoonlijkheid, moeten de bij de vennootschap betrokken   personen samen minstens 51 % van de aandelen van die rechtspersoon bezitten. Als   binnen de drie jaar na de datum waarop de overname van de   nutriëntenemissierechten ingaat, de aandelen van de vennootschap met   rechtspersoonlijkheid geheel of gedeeltelijk worden overgedragen, waardoor na de   overdracht van die aandelen, niet minstens 51 % van de aandelen van die   vennootschap nog eigendom zijn van de bij de vennootschap betrokken personen, of   als de functie van zaakvoerder, beherende vennoot of bestuurder wordt toegewezen   aan een derde die niet jonger is dan 40 jaar of aan een derde die beschikt of   beschikt heeft over een eigen bedrijf, dan wordt alsnog ambtshalve een   annulering van 25 % van de overgenomen nutriëntenemissierechten doorgevoerd. De   annulering gaat in op de eerste dag van de derde maand die volgt op de   aangetekende kennisgevingsbrief van de Mestbank. Als de nutriëntenemissierechten   tijdens die tijdsspanne verder worden overgedragen, dan gaat, in afwijking van   de bepalingen van de vorige zin, de annulering in op de dag van de verdere   overdracht. De annulering van de niet-ingevulde nutriëntenemissierechten die   gepaard gaat met de annulering met 25 % van de overgenomen   nutriëntenemissierechten, wordt bepaald op grond van de invulling van de   nutriëntenemissierechten gedurende de laatste drie gekende kalenderjaren die   voorafgaan aan de datum van de overname van de nutriëntenemissierechten.";<BR>2°   in paragraaf 1, eerste lid, 2°, b), 5°, wordt de zinsnede "in 1° tot en met 4° "   telkens vervangen door de zinsnede "in punt 1° tot en met punt 4° of punt 6°   ";<BR>3° in paragraaf 1, eerste lid, 2°, b), 5°, wordt de zin "Indien de   aandelen van de personenvennootschap geheel of gedeeltelijk, of de   personenvennootschap, die beschikt over nutriëntenemissierechten, overgedragen   wordt aan een derde die niet vermeld is in 1° tot en met 4°, wordt deze   overdracht beschouwd als een overdracht met annulering van de 25 %   nutriëntenemissierechten die toebehoren aan de personenvennootschap." vervangen   door de zinnen "Deze nutriëntenemissierechten zijn gedurende de periode van vijf   jaar die volgt op de overnamedatum, alleen verder overdraagbaar op grond van   punt 1° of op grond van punt 2°, a) of e), of op grond van een inbreng als   vermeld in het derde lid. Als binnen vijf jaar na de datum waarop de overdracht   van de nutriëntenemissierechten ingaat, de aandelen van de personenvennootschap   geheel of gedeeltelijk worden overgedragen, waardoor, na de overdracht van die   aandelen niet minstens 80 % van de aandelen van de personenvennootschap nog   eigendom zijn van een of meer personen als vermeld in punt 1° tot en met punt 4°   of punt 6°, of als na de datum waarop de overdracht van de   nutriëntenemissierechten ingaat, een functie van zaakvoerder, beherende vennoot   of bestuurder van de overnemende personenvennootschap toch wordt toegewezen aan   een derde die niet vermeld is in punt 1° tot en met punt 4° of punt 6°, dan   wordt alsnog ambtshalve een annulering van 25 % van de overgenomen   nutriëntenemissierechten doorgevoerd. De annulering gaat in op de eerste dag van   de derde maand die volgt op de aangetekende kennisgevingsbrief van de Mestbank.   Als deze nutriëntenemissierechten tijdens die tijdsspanne verder worden   overgedragen, dan gaat, in afwijking van de bepalingen van de vorige zin, de   annulering in op de dag van de verdere overdracht. De annulering van de   niet-ingevulde nutriëntenemissierechten die gepaard gaat met de annulering met   25 % van de nutriëntenemissierechten, wordt bepaald op grond van de invulling   van de nutriëntenemissierechten gedurende de laatste drie gekende kalenderjaren   die voorafgaan aan de datum van de overname van de   nutriëntenemissierechten.";<BR>4° in paragraaf 1, 2°, f), 5°, wordt de zin "Als   na de overdracht in de overnemende personenvennootschap een functie van   zaakvoerder, beherende vennoot of bestuurder wordt toegewezen aan een persoon   die niet vermeld is in 1° tot en met 4° of 6°, wordt dit gelijkgesteld met een   overdracht met annulering van de 25 % nutriëntenemissierechten die toebehoren   aan de personenvennootschap." vervangen door de zinnen "De   nutrientenemissierechten zijn gedurende de periode van vijf jaar die volgt op de   overnamedatum, alleen verder overdraagbaar op grond van punt 1° of op grond van   punt 2°, a) of e). Als binnen de vijf jaar na de datum waarop de overname van de   nutriëntenemissierechten ingaat, toch een functie van zaakvoerder, beherende   vennoot of bestuurder wordt toegewezen aan een derde die niet vermeld is in punt   1° tot en met punt 4° of punt 6°, dan wordt alsnog een ambtshalve annulering van   25 % van de overgenomen nutriëntenemissierechten doorgevoerd. De annulering gaat   in op de eerste dag van de derde maand die volgt op de aangetekende   kennisgevingsbrief van de Mestbank. Als de nutriëntenemissierechten tijdens die   tijdsspanne verder worden overgedragen, dan gaat, in afwijking van de bepalingen   van de vorige zin, de annulering in op de dag van de verdere overdracht. De   annulering van de niet-ingevulde nutriëntenemissierechten die gepaard gaat met   de annulering met 25 % van de nutriëntenemissierechten, wordt bepaald op grond   van de invulling van de nutriëntenemissierechten gedurende de laatste drie   gekende kalenderjaren die voorafgaan aan de datum van de overname van de   nutriëntenemissierechten.";<BR>5° in paragraaf 1, eerste lid, 2°, f), 11°, wordt   de zin "Als na de overdracht de aandelen van de overnemende personenvennootschap   geheel of gedeeltelijk of de personenvennootschap die beschikt over de   nutriëntenemissierechten worden overgedragen aan een derde die niet vermeld is   in 7° tot en met 10° of 12°, wordt deze overdracht beschouwd als een overdracht   met annulering van de 25 % nutriëntenemissierechten die toebehoren aan de   personenvennootschap." vervangen door de zinnen "De nutriëntenemissierechten   zijn gedurende de periode van vijf jaar die volgt op de overnamedatum, alleen   verder overdraagbaar op grond van punt 1° of op grond van punt 2°, a) of e). Als   binnen de vijf jaar na de datum waarop de overdracht van de   nutriëntenemissierechten ingaat, de aandelen van de personenvennootschap toch   geheel of gedeeltelijk worden overgedragen aan een derde die niet vermeld is in   punt 7° tot en met punt 10° of punt 12°, dan wordt alsnog een ambtshalve   annulering van 25 % van de overgenomen nutriëntenemissierechten doorgevoerd. De   annulering gaat in op de eerste dag van de derde maand die volgt op de   aangetekende kennisgevingsbrief van de Mestbank. Als deze   nutriëntenemissierechten tijdens die tijdsspanne verder worden overgedragen, dan   gaat, in afwijking van de bepalingen van de vorige zin, de annulering in op de   dag van de verdere overdracht. De annulering van de niet-ingevulde   nutriëntenemissierechten die gepaard gaat met de annulering met 25 % van de   nutriëntenemissierechten, wordt bepaald op grond van de invulling van de   nutriëntenemissierechten gedurende de laatste drie gekende kalenderjaren die   voorafgaan aan de datum van de overname van de nutriëntenemissierechten.";<BR>6°   in paragraaf 1 worden tussen het eerste en het tweede lid drie leden ingevoegd,   die luiden als volgt:<BR>"Een aanvraag op grond van dit artikel wordt ongegrond   verklaard als blijkt dat op de overdrachtsdatum of in de tijdsspanne tussen de   overdrachtsdatum en de datum van de definitieve akteneming van de overdracht,   niet voldaan is aan een van de voorwaarden, vermeld in dit artikel.<BR></P>  <P>De landbouwer brengt met een aangetekende brief de Mestbank op de hoogte van   de toewijzing van een functie van zaakvoerder, beherende vennoot of bestuurder,   of van een aandelenoverdracht, waarvoor in het eerste lid, 2°, a), b), 5°, f),   5° of 11°, een annulering met 25 % van de overgenomen nutriëntenemissierechten   is opgenomen. De melding kan alleen geldig worden gedaan binnen de negentig   dagen na de toewijzing van de functie en binnen de negentig dagen na de   overdracht van de aandelen.<BR></P>  <P>In het eerste lid, 2°, a), wordt verstaan onder bij de vennootschap betrokken   personen: de zaakvoerders, beherende vennoten of bestuurders van de   vennootschap.".<BR></P>
+
+### ART. 65.
+
+Aan artikel 37 van hetzelfde decreet, gewijzigd bij het decreet van 23   december 2010, wordt een punt 3° toegevoegd, dat luidt als volgt:<BR>"3° op   vraag van de landbouwer in kwestie. De mestverwerkingsplicht met betrekking tot   de nutriëntenemissierechten-MVW blijft gelden tot op het ogenblik dat de   annulatie van de nutriëntenemissierechten-MVW ingaat. De Vlaamse Regering kan   nadere regels stellen.".<BR>
+
+### ART. 66.
+
+&nbsp;In artikel 41bis van hetzelfde decreet worden de volgende   wijzigingen aangebracht: <BR>1° in paragraaf 1, eerste lid, worden de volgende   wijzigingen aangebracht:<BR>a) de woorden "bosgebieden, natuurgebieden,   natuurreservaten, natuurontwikkelingsgebieden en daarmee vergelijkbare gebieden   zoals aangeduid in de gewestelijke ruimtelijke uitvoeringsplannen" worden   vervangen door de woorden "gebieden, aangewezen op gewestelijke ruimtelijke   uitvoeringsplannen en sorterend onder de categorie van gebiedsaanduiding "bos"   of "reservaat en natuur"";<BR>b) de woorden "als bosgebied, natuurgebied,   natuurreservaat, natuurontwikkelingsgebied of daarmee vergelijkbaar gebied"   worden vervangen door de woorden "die sorteert onder de categorie van   gebiedsaanduiding "bos" of "reservaat en natuur"";<BR>2° in paragraaf 2, tweede   lid, en paragraaf 5, eerste lid, ingevoegd bij het decreet van 19 december 2008,   wordt de zinsnede ", §§ 1 tot en met 10" opgeheven;<BR>3° in paragraaf 8 wordt   de zinsnede "Als een gewestelijk ruimtelijk uitvoeringsplan een gebied als   bosgebied, natuurgebied, natuurreservaat, natuurontwikkelingsgebied of daarmee   vergelijkbaar gebied, aanduidt, terwijl dat gebied reeds als bosgebied,   natuurgebied, natuurreservaat, natuurontwikkelingsgebied of daarmee   vergelijkbare gebied, aangeduid was in het gewestplan of in een vorig   gewestelijk ruimtelijk uitvoeringsplan, dan:" vervangen door de zinsnede "Als   een gewestelijk ruimtelijk uitvoeringsplan een gebied aanduidt binnen de   categorie van gebiedsaanduiding "bos" of "reservaat en natuur", terwijl dat   gebied reeds sorteerde onder de categorie van gebiedsaanduiding "bos" of   "reservaat en natuur" in het gewestplan of in een vorig gewestelijk ruimtelijk   uitvoeringsplan, dan:";<BR>4° in paragraaf 9, eerste lid, worden de volgende   wijzigingen aangebracht:<BR>a) de zinsnede "als bosgebied, natuurgebied,   natuurreservaat, natuurontwikkelingsgebied of daarmee vergelijkbaar gebied, is   aangeduid" wordt vervangen door de zinsnede "sorteert onder de categorie van   gebiedsaanduiding "bos" of "reservaat en natuur"";<BR>b) de zinsnede "niet was   aangeduid als bosgebied, natuurgebied, natuurreservaat,   natuurontwikkelingsgebied of daarmee vergelijkbaar gebied" wordt vervangen door   de zinsnede "niet sorteerde onder de categorie van gebiedsaanduiding "bos" of   "reservaat en natuur"".<BR>
+
+### ART. 67.
+
+In artikel 49, § 1, van hetzelfde decreet, ingevoegd bij het decreet van 6   mei 2011 en gewijzigd bij het decreet van 1 maart 2013, worden de volgende   wijzigingen aangebracht:<BR>1° in het eerste lid worden de woorden "of   spuistroom" vervangen door de woorden "of andere meststoffen";<BR>2° in het   eerste lid, 3°, a) en b), worden tussen de woorden "dierlijke mest" en de   woorden "vanuit een" de woorden "of andere meststoffen" ingevoegd;<BR>3° in het   tweede lid, 6°, wordt de zinsnede "24 uur" vervangen door de woorden "de   dag".<BR>
+
+### ART. 68.
+
+Aan artikel 60bis, § 2, van hetzelfde decreet, ingevoegd bij het decreet   van 30 april 2009 en gewijzigd bij het decreet van 6 mei 2011, wordt een punt   27° toegevoegd, dat luidt als volgt:<BR>"27° de landbouwer die het nalaat tijdig   een melding te doen van de toewijzing van een functie van zaakvoerder, beherende   vennoot of bestuurder, of van een aandelenoverdracht, waarvoor met toepassing   van artikel 34, § 1, eerste lid, 2°, een annulering met 25 % van de overgenomen   nutriëntenemissierechten wordt opgelegd.".<BR>
+
+### ART. 69.
+
+<P>Aan artikel 63 van hetzelfde decreet, het laatst gewijzigd bij het decreet   van 6 mei 2011, wordt een paragraaf 33 toegevoegd, die luidt als volgt:<BR>" §   33. Onverminderd artikel 71 en 72, wordt aan iedere landbouwer aan wie een   annulering met 25 % van de overgenomen nutriëntenemissierechten wordt opgelegd   en die geen geldige melding doet als vermeld in artikel 34, § 1, derde lid, een   administratieve geldboete opgelegd.<BR></P>  <P>De administratieve geldboete, vermeld in het eerste lid, wordt berekend   volgens de volgende formule:<BR>"X: [(het aantal NER-Dred vermenigvuldigd met 2)   vermenigvuldigd met M] en gedeeld door 365,<BR>waarbij:<BR>X = het bedrag van de   administratieve geldboete, uitgedrukt in euro;<BR>NER-Dred: het aantal NER-D dat   met toepassing van artikel 34, § 1, eerste lid, 2°, door de Mestbank werd   gereduceerd;<BR>M: het aantal kalenderdagen tussen de datum van de toewijzing   van een functie van zaakvoerder, beherende vennoot of bestuurder, of van een   aandelenoverdracht, waarvoor met toepassing van artikel 34, § 1, eerste lid, 2°,   een annulering met 25 % van de overgenomen nutriëntenemissierechten wordt   opgelegd en de datum waarop de Mestbank de overgenomen nutriëntenemissierechten   effectief heeft geannuleerd met toepassing van artikel 34, § 1, eerste lid, 2°.   ".".<BR></P>
+
+### ART. 70.
+
+Aan artikel 84 van hetzelfde decreet, gewijzigd bij het decreet van 6 mei   2011, worden een paragraaf 5 en een paragraaf 6 toegevoegd, die luiden als   volgt:<BR>" § 5. Voor overdrachten van nutriëntenemissierechten, als vermeld in   artikel 34, gelden de volgende bepalingen:<BR>1° in afwijking van de annulering   met 25 %, vermeld in artikel 34, § 1, eerste lid, 2°, a), wordt geen annulering   van de nutriëntenemissierechten toegepast als de toewijzing van een functie van   zaakvoerder, beherende vennoot of bestuurder, of de aandelenoverdracht, waarvoor   anders een annulering met 25 % van de overgenomen nutriëntenemissierechten door   die bepaling is vastgesteld, wordt gedaan vóór de dag van de inwerkingtreding   van artikel 61 van het decreet van 28 februari 2014 houdende diverse bepalingen   inzake leefmilieu en natuur;<BR>2° in afwijking van de annulering met 25 %,   vermeld in artikel 34, § 1, eerste lid, 2°, b), 5°, wordt geen annulering van de   nutriëntenemissierechten toegepast als de toewijzing van een functie van   zaakvoerder, beherende vennoot of bestuurder waarvoor anders een annulering met   25 % van de overgenomen nutriëntenemissierechten door die bepaling is   vastgesteld, wordt gedaan vóór de dag van de inwerkingtreding van artikel 61 van   het decreet van 28 februari 2014 houdende diverse bepalingen inzake leefmilieu   en natuur;<BR>3° in afwijking van artikel 34, § 1, eerste lid, 2°, b), 5°,   tweede lid, eerste zin, § 1, eerste lid, 2°, f), 5°, tweede zin, en § 1, eerste   lid, 2°, f), 11°, tweede zin, zijn de nutriëntenemissierechten op grond van alle   overdrachtsmogelijkheden, vermeld in artikel 34, overdraagbaar, als de   akteneming van de overgenomen nutriëntenemissierechten is gedaan vóór de   inwerkingtreding van artikel 61 van het decreet van 28 februari 2014 houdende   diverse bepalingen inzake leefmilieu en natuur.<BR>§ 6. Voor alle overdrachten   van nutriëntenemissierechten, vermeld in artikel 34, waarvan de datum van   overname van de nutriëntenemissierechten is vastgesteld vóór de datum van de   inwerkingtreding van artikel 61 van het decreet van 28 februari 2014 houdende   diverse bepalingen inzake leefmilieu en natuur, waarbij de overname werd   goedgekeurd op grond van artikel 34, § 1, eerste lid, 2°, b), 5°, of § 1, eerste   lid, 2°, f), en waarbij de datum van de aandelenoverdrachten of de toewijzingen   van een functie van zaakvoerder, beherende vennoot of bestuurder, vermeld in   punt 2°, zich situeert vóór de datum van inwerkingtreding van artikel 61 van het   decreet van 28 februari 2014 houdende diverse bepalingen inzake leefmilieu en   natuur, gelden volgende overgangsregelingen:<BR>1° in afwijking van artikel 34,   § 1, derde lid, kan tot zes maanden na de datum van de inwerkingtreding van   artikel 61 van het decreet van 28 februari 2014 houdende diverse bepalingen   inzake leefmilieu en natuur, een geldige melding worden gedaan;<BR>2° in   afwijking van artikel 34, § 1, eerste lid, 2°, b), 5°, laatste zin, § 1, eerste   lid, 2°, f), 5°, laatste zin, en § 1, eerste lid, 2°, f), 11°, laatste zin,   worden de niet-ingevulde nutriëntenemissierechten bepaald op grond van de   invulling van de nutriëntenemissierechten gedurende de laatste drie gekende   kalenderjaren die voorafgaan aan de datum waarop:<BR>a) een aandelenoverdracht   werd gedaan waardoor niet meer voldaan is aan de voorwaarde dat minstens 80 %   van de aandelen van de personenvennootschap nog eigendom moet zijn van een of   meer personen als vermeld in punt 1° tot en met punt 4° of punt 6° van artikel   34, § 1, eerste lid, 2°, b), 5° ;<BR>b) de functie van zaakvoerder, beherende   vennoot of bestuurder is toegewezen aan een derde die niet vermeld is in punt 1°   tot en met punt 4° of punt 6° van artikel 34, § 1, eerste lid, 2°, f), 5°, of   een aandelenoverdracht is gedaan aan een of meer personen die niet vermeld zijn   in punt 7° tot en met punt 10° of punt 12° van artikel 34, § 1, eerste lid, 2°,   f), 11° ;<BR>3° in afwijking van artikel 31, § 2, wordt, als een annulering   wordt toegepast op grond van artikel 34, § 1, 2°, b), 5°, of § 1, eerste lid,   2°, f), de niet correct afgezette mestproductie bepaald op grond van de   mestafzet op het bedrijf gedurende de drie gekende kalenderjaren die voorafgaan   aan de datum waarop een functie van zaakvoerder, beherende vennoot of bestuurder   is toegewezen of waarop een aandelenoverdracht, als vermeld in punt 2°, a) of   b), is gedaan.".<BR>
 
 ## HOOFDSTUK 14 Decreet betreffende de diepe ondergrond
 
+### ART. 71.
+
+<P>In artikel 38 van het decreet van 8 mei 2009 betreffende de diepe ondergrond,   gewijzigd bij het decreet van 23 december 2010, worden een paragraaf 1/1 en een   paragraaf 1/2 ingevoegd, die luiden als volgt:<BR>" § 1/1. Een   opsporingsvergunning voor koolstofdioxideopslag wordt uitsluitend verleend als   uit de ingediende aanvraag en uit alle andere relevante informatie blijkt dat   aan de volgende voorwaarden is voldaan:<BR>1° de aanvraag voldoet aan alle   vereisten, vermeld in dit hoofdstuk, en aan alle andere toepasselijke   regelgeving;<BR>2° de aanvrager is financieel solide en technisch bekwaam en   betrouwbaar om de opsporingswerkzaamheden uit te voeren, en er is gezorgd voor   professionele en technische ontwikkeling en training van de aanvrager en van   alle personeel.<BR></P>  <P>Een opsporingsvergunning voor koolstofdioxideopslag wordt niet verleend in de   volgende gevallen:<BR>1° als de aanvraag betrekking heeft op een gebied waarvoor   een ander nog over een geldige opsporingsvergunning voor koolstofdioxideopslag   of opslagvergunning in het kader van dit hoofdstuk beschikt;<BR>2° als de   aanvraag betrekking heeft op een gebied dat de Vlaamse Regering niet wil   openstellen voor de geologische opslag van koolstofdioxide.<BR></P>  <P>§ 1/2. Met behoud van de toepassing van paragraaf 1/1 worden de   vergunningsaanvragen beoordeeld op basis van de volgende criteria:<BR>1° de   technische bekwaamheid van de aanvrager;<BR>2° de manier waarop de aanvrager   zich voorneemt de opsporingswerkzaamheden te verrichten;<BR>3° in voorkomend   geval, het eventuele gebrek aan efficiëntie en verantwoordelijkheidszin waarvan   de aanvrager in het kader van een andere vergunning blijk heeft gegeven;<BR>4°   in voorkomend geval, de eventuele interferentie met andere al vergunde   activiteiten in de ondergrond.<BR></P>  <P>De criteria, vermeld in het eerste lid, kunnen ook een grond tot weigering   van de opsporingsvergunning voor koolstofdioxideopslag uitmaken.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen voor de   vergunningscriteria.".<BR></P>
+
+### ART. 72.
+
+In artikel 42 van hetzelfde decreet, gewijzigd bij het decreet van 23   december 2010, worden de volgende wijzigingen aangebracht:<BR>1° in het eerste   lid, 8°, wordt de zinsnede "artikel 52, § 3" vervangen door de zinsnede "artikel   52, § 2";<BR>2° in het derde lid worden de woorden "bepaalt nadere regels"   vervangen door de woorden "kan nadere regels bepalen".<BR>
+
+### ART. 73.
+
+In artikel 46, tweede lid, van hetzelfde decreet, gewijzigd bij het   decreet van 23 december 2010, wordt de zinsnede "overeenkomstig artikel 20 van   het decreet van 2 april 2004 tot vermindering van de uitstoot van broeikasgassen   in het Vlaamse Gewest door het bevorderen van het rationeel energiegebruik, het   gebruik van hernieuwbare energiebronnen en de toepassing van   flexibiliteitsmechanismen uit het Protocol van Kyoto" vervangen door de zinsnede   "overeenkomstig de relevante bepalingen van het Energiedecreet van 8 mei 2009 en   de uitvoeringsbesluiten ervan".<BR>
+
+### ART. 74.
+
+In artikel 48, § 2, eerste lid, van hetzelfde decreet, wordt de zinsnede   "overeenkomstig artikel 20, § 2, van het decreet van 2 april 2004 tot   vermindering van de uitstoot van broeikasgassen in het Vlaamse Gewest door het   bevorderen van het rationeel energiegebruik, het gebruik van hernieuwbare   energiebronnen en de toepassing van flexibiliteitsmechanismen uit het Protocol   van Kyoto" vervangen door de zinsnede "overeenkomstig de relevante bepalingen   van het Energiedecreet van 8 mei 2009 en de uitvoeringsbesluiten   ervan".<BR>
+
+### ART. 75.
+
+In artikel 52, § 2, eerste lid, en § 3, eerste lid, van hetzelfde decreet,   gewijzigd bij het decreet van 23 december 2010, wordt de zinsnede   "overeenkomstig artikel 20 van het decreet van 2 april 2004 tot vermindering van   de uitstoot van broeikasgassen in het Vlaamse Gewest door het bevorderen van het   rationeel energiegebruik, het gebruik van hernieuwbare energiebronnen en de   toepassing van flexibiliteitsmechanismen uit het Protocol van Kyoto" vervangen   door de zinsnede "overeenkomstig de relevante bepalingen van het Energiedecreet   van 8 mei 2009 en de uitvoeringsbesluiten ervan".<BR>
+
+### ART. 76.
+
+In artikel 53 van hetzelfde decreet, gewijzigd bij het decreet van 23   december 2010, worden in het eerste lid de woorden "overeenkomstig artikel 20   van het decreet van 2 april 2004 tot vermindering van de uitstoot van   broeikasgassen in het Vlaamse Gewest door het bevorderen van het rationeel   energiegebruik, het gebruik van hernieuwbare energiebronnen en de toepassing van   flexibiliteitsmechanismen uit het Protocol van Kyoto" vervangen door de woorden   "overeenkomstig de relevante bepalingen van het Energiedecreet en zijn   uitvoeringsbesluiten".<BR>
+
+### ART. 77.
+
+In artikel 57, § 1, eerste en tweede lid, van hetzelfde decreet, gewijzigd   bij het decreet van 23 december 2010, wordt de zinsnede "ingevolge de opname van   de opslaglocatie binnen de werkingssfeer van artikel 20 van het decreet van 2   april 2004 tot vermindering van de uitstoot van broeikasgassen in het Vlaamse   Gewest door het bevorderen van het rationeel energiegebruik, het gebruik van   hernieuwbare energiebronnen en de toepassing van flexibiliteitsmechanismen uit   het Protocol van Kyoto" vervangen door de zinsnede "inzake het inleveren van   rechten in geval van lekkage ingevolge de opname van de opslaglocatie binnen de   werkingssfeer van het Energiedecreet van 8 mei 2009 en de uitvoeringsbesluiten   ervan".<BR>
+
+### ART. 78.
+
+In artikel 58, § 1, tweede lid, van hetzelfde decreet, gewijzigd bij het   decreet van 23 december 2010, worden tussen het woord "parameters" en het woord   "inzake" de woorden "en elementen" ingevoegd.<BR>
+
+### ART. 79.
+
+&nbsp;In artikel 62, § 1, van hetzelfde decreet worden de volgende   wijzigingen aangebracht:<BR>1° in het eerste lid worden tussen het woord   "houder" en het woord "van" de woorden "of laatste houder" ingevoegd;<BR>2° in   het tweede lid worden de woorden "de houder van een opsporingsvergunning"   telkens vervangen door de woorden "de houder of laatste houder van een   opsporingsvergunning".<BR>
+
+### ART. 80.
+
+In artikel 76, eerste lid, van hetzelfde decreet worden de volgende   wijzigingen aangebracht:<BR>1° de zinsnede "Om de drie jaar, te beginnen vanaf   2011" wordt vervangen door de woorden "Zodra minstens een opslagvergunning   verleend is in het Vlaamse Gewest";<BR>2° tussen het woord "Parlement" en het   woord "verslag" wordt het woord "driejaarlijks" ingevoegd.<BR>
+
 ## HOOFDSTUK 15 Decreet betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen
+
+### ART. 81.
+
+<P>In het decreet van 23 december 2011 betreffende het duurzaam beheer van   materiaalkringlopen en afvalstoffen, gewijzigd bij de decreten van 21 december   2012 en 1 maart 2013, wordt een artikel 13/1 ingevoegd, dat luidt als   volgt:<BR>"Art. 13/1. De Vlaamse Regering kan nadere regels vaststellen   betreffende het beheer, de verwerking en het gebruik van materialen afkomstig   van bouw- en infrastructuurwerken en van sloop-, ontmantelings-, en   renovatiewerken bij bouw- en infrastructuurwerken.<BR></P>  <P>De Vlaamse Regering kan sloopbeheerorganisaties erkennen. De Vlaamse Regering   bepaalt de voorwaarden en de procedure tot erkenning. Ze bepaalt ook de   voorwaarden voor het gebruik van de erkenning.".<BR></P>
+
+### ART. 82.
+
+Aan artikel 68 van hetzelfde decreet wordt een tweede lid toegevoegd, dat   luidt als volgt:<BR>"In afwijking van het eerste lid wordt de controle op en de   bestuurlijke handhaving van de naleving van de verplichtingen inzake de   milieuheffingen uitgevoerd volgens de regels, vermeld in hoofdstuk 5, afdeling   2.".<BR>
+
+### ART. 83.
+
+In artikel 69 van hetzelfde decreet wordt het tweede lid vervangen door   wat volgt:<BR>"In afwijking van het eerste lid wordt de overtreding van de   verplichting tot aangifte en betaling van milieuheffingen, vermeld in artikel   50, en de verplichting tot betaling van de administratieve geldboete, vermeld in   artikel 58, uitsluitend bestraft op de wijze, vermeld in hoofdstuk 5, afdeling   2.".<BR>
 
 ## HOOFDSTUK 16 Decreet houdende instemming met het samenwerkingsakkoord van 22 oktober 2012 gesloten tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008 tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te nemen in de regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap
 
+### ART. 84.
+
+In het opschrift van het decreet van 8 november 2013 houdende instemming   met het samenwerkingsakkoord van 22 oktober 2012 gesloten tussen de Federale   Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke   Gewest betreffende het opnemen van luchtvaartactiviteiten in de regeling voor de   handel in broeikasgasemissierechten binnen de Gemeenschap overeenkomstig   Richtlijn 2008/101/EG van het Europees Parlement en de Raad van 19 november 2008   tot wijziging van Richtlijn 2003/87/EG teneinde ook luchtvaartactiviteiten op te   nemen in de regeling voor de handel in broeikasgasemissierechten binnen de   Gemeenschap wordt de datum "22 oktober 2012" vervangen door de datum "2   september 2013".<BR>
+
 ## HOOFDSTUK 17 Decreet houdende bepalingen tot begeleiding van de begroting 2013
 
+### ART. 85.
+
+&nbsp;In het decreet van 21 december 2012 houdende bepalingen tot   begeleiding van de begroting 2013 wordt een nieuw artikel 81 ingevoegd, dat   luidt als volgt:<BR>"Art. 81. Bij wijze van overgangsmaatregel bij artikel 63   tot en met 70 wordt eenmalig het bedrag van de heffing voor de   heffingsplichtigen zoals bedoeld in de artikelen 35quinquies en 35septies van de   wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen   verontreiniging voor zover een bovengemeentelijke vergoeding zoals bedoeld in   artikel 16quinquies, § 2, van het decreet van 24 mei 2002 betreffende water   bestemd voor menselijke aanwending, aangerekend wordt door de exploitanten van   een openbaar waterdistributienetwerk op het waterverbruik 2014, voor het   heffingsjaar 2014 verminderd met:<BR>m® eigenwaterwinning x vrijgestelde   vervuiling x T <BR>waarin:<BR>m® eigenwaterwinning = het waterverbruik berekend   als de som van de gedurende 2013 ontvangen hoeveelheid grondwater,   oppervlaktewater, hemelwater en ander water, uitgedrukt in m®, zoals bepaald in   overeenstemming met artikel 35septies, § 2, van de wet van 26 maart 1971 op de   bescherming van de oppervlaktewateren tegen verontreiniging;<BR>vrijgestelde   vervuiling = de vuilvracht N - Nk, zoals bedoeld in respectievelijk artikel   35quinquies, § 1, en artikel 35septies, § 1, voor de heffing 2014 gedeeld door   Q, zoals bepaald in artikel 35septies, § 2, van de wet van 26 maart 1971 op de   bescherming van de oppervlaktewateren tegen verontreiniging;<BR>T = 44,25   euro/VE.<BR>De heffing kan in geen geval negatief worden.".<BR>
+
 ## HOOFDSTUK 18 Slotbepalingen
+
+### ART. 86.
+
+<P>De artikelen 8 en 9, 11 tot en met 15, 17 tot en met 21, 48, 1° en 2°, en   artikel 49, 1°, treden in werking op 1 januari 2014.<BR></P>  <P>Artikel 10 treedt in werking één jaar na de dag van de bekendmaking van dit   decreet. <BR></P>  <P>Artikelen 22 en 23 hebben uitwerking met ingang van 1 oktober   2013.<BR></P>
+
+### ART. 87.
+
+<P>Artikel 64 is van toepassing op alle op grond van artikel 34 van het   Mestdecreet ingediende overnamedossiers, zowel geakteerde, lopende of nog in te   dienen aanvragen tot overname van nutriëntenemissierechten.<BR></P>  <P>Voor wat betreft aanvragen tot overname van nutriëntenemissierechten die op   het moment van inwerkingtreding van artikel 64 reeds geakteerd zijn, zijn, naast   de bepalingen van artikel 64, ook de overgangsbepalingen opgenomen in artikel 70   van toepassing.<BR></P>

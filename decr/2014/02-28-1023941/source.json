@@ -2,16 +2,16 @@
   "codex_id": 1023941,
   "title": "Decreet van 2014-02-28 houdende diverse bepalingen inzake leefmilieu en natuur",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023941/VolledigDocument?datum=2014-03-26",
-  "source_sha256": "b0cda1638f4156cdb317d1a960447f101e7ff262eeccd70ea36290d930188b16",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023941/VolledigDocument?datum=2014-04-04",
+  "source_sha256": "61c7b54b0ff4d9dc4307ecca2b5c4c4e65874153b313ad91feb58031371eaf13",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023941&param=informatie",
-  "as_of": "2014-03-26",
+  "as_of": "2014-04-04",
   "made": "2014-02-28",
   "gazette": "2014-03-25",
   "numac": 2014035336,
   "document_start": "2014-04-04",
   "document_end": null,
-  "in_force": "2014-03-26",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-03-26; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-04-04",
+  "article_versions": 87,
+  "record_form": "consolidated version as in force on 2014-04-04; future article versions excluded; article text as the API gives it"
 }
