@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023956,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-15 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2013",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023956/VolledigDocument?datum=2014-04-10",
+  "source_sha256": "2ea2ca4b09e337c1310626da08b7bacda16a81c75c7b87ef0369ad8aa78d26cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023956&param=informatie",
+  "as_of": "2014-04-10",
+  "made": "2013-03-15",
+  "gazette": "2014-03-31",
+  "numac": 2014035276,
+  "document_start": "2014-04-10",
+  "document_end": null,
+  "in_force": "2014-04-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
