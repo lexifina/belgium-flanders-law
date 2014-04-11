@@ -529,7 +529,7 @@ De documenten en beslissing, vermeld in artikel 4.2.6 worden door de administrat
 
 ### ART. 4.2.8.
 
-§ 1. De initiatiefnemer stelt de administratie door betekening of tegen ontvangstbewijs in kennis van de reikwijdte, het detailleringsniveau en de aanpak van het plan-MER.<br>
+§ 1. De initiatiefnemer stelt de administratie door betekening of door afgifte&nbsp;tegen ontvangstbewijs in kennis van de reikwijdte, het detailleringsniveau en de aanpak van het plan-MER.<br>
 <br>
 De kennisgeving bevat ten minste :<br>
 1° een beschrijving en verduidelijking van de intenties inzake het voorgenomen plan of programma en een afbakening van het gebied waarop het plan of programma betrekking heeft;<br>
@@ -574,7 +574,7 @@ De Vlaamse Regering duidt de instanties aan die vanwege de administratie, met he
 <br>
 § 5. Bij de bekendmaking of bij het overmaken van het afschrift van de volledig verklaarde kennisgeving wordt duidelijk aangegeven dat het publiek en de instanties eventuele opmerkingen over het plan-MER binnen een termijn van dertig dagen respectievelijk vanaf de datum van de bekendmaking of vanaf de datum van ontvangst van het afschrift van de volledig verklaarde kennisgeving, aan de administratie kunnen bezorgen, behoudens verlenging van deze termijn, zoals vermeld in het tweede lid.<br>
 <br>
-Als het plan of programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, en/of in verdragspartijen bij het Verdrag, en/of in andere gewesten, of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, maakt de administratie door betekening of tegen ontvangstbewijs het afschrift van de volledig verklaarde kennisgeving over aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten. Bij het overmaken van het afschrift wordt duidelijk aangegeven dat zij eventuele opmerkingen over het plan-MER binnen een termijn van zestig dagen vanaf de ontvangst van het afschrift aan de administratie kunnen bezorgen.<br>
+Als het plan of programma aanzienlijke effecten kan hebben voor mens of milieu in andere lidstaten van de Europese Unie, en/of in verdragspartijen bij het Verdrag, en/of in andere gewesten, of als de bevoegde autoriteiten van deze lidstaten, verdragspartijen en/of gewesten daarom verzoeken, maakt de administratie door betekening het afschrift van de volledig verklaarde kennisgeving over aan de bevoegde autoriteiten van de betrokken lidstaten, verdragspartijen en/of gewesten. Bij het overmaken van het afschrift wordt duidelijk aangegeven dat zij eventuele opmerkingen over het plan-MER binnen een termijn van zestig dagen vanaf de ontvangst van het afschrift aan de administratie kunnen bezorgen.<br>
 <br>
 § 6. Na beëindiging van de termijnen, vermeld in § 5, beschikt de administratie over twintig dagen om een beslissing te nemen over :<br>
 1° de reikwijdte, het detailleringsniveau en de inhoudelijke aanpak van het plan-MER, met inbegrip van de methodologie, rekening houdend met de huidige stand van kennis en evaluatiemethoden, de inhoud en de precisiegraad van het plan of programma, de vordering van het besluitvormingsproces en het feit dat sommige aspecten misschien beter in andere fasen van dat proces worden geëvalueerd om herhaling van de evaluatie te voorkomen;<br>
