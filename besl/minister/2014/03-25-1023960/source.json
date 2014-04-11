@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023960,
+  "title": "Ministerieel besluit van 2014-03-25 houdende nadere regels tot uitvoering van artikel 27/3 van het besluit van de Vlaamse Regering van 8 april 2011 houdende bepalingen van rechten en plichten van de exploitanten van een openbaar waterdistributienetwerk en hun klanten met betrekking tot de levering van water bestemd voor menselijke consumptie, de uitvoering van de saneringsverplichting en het algemeen waterverkoopreglement",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023960/VolledigDocument?datum=2014-04-11",
+  "source_sha256": "5a378caf8424b8b8bc309abbd9b18267956ef9d7efed0d3f3bc877b6859972eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023960&param=informatie",
+  "as_of": "2014-04-11",
+  "made": "2014-03-25",
+  "gazette": "2014-04-01",
+  "numac": 2014035364,
+  "document_start": "2014-04-11",
+  "document_end": null,
+  "in_force": "2014-04-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
