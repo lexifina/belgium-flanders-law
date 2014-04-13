@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-Het Compendium voor Monsterneming en Analyse, afgekort CMA, en de   bijhorende inhoudstabel, gevoegd als bijlage bij dit besluit, worden   goedgekeurd.
+...
 
 ### ART. 2.
 
-Het ministerieel besluit van 18 januari 2012 houdende de vaststelling van   het Compendium voor Monsterneming en Analyse wordt opgeheven.
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/03/13_2.pdf#page=93">Compendium   voor Monsterneming en Anal</A>
+...
