@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023976,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van artikel 7 van het besluit van de Vlaamse Regering van 30 september 2005 houdende vaststelling van de criteria voor de erkenning van de plaatselijke kerk- en geloofsgemeenschappen van de erkende erediensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023976/VolledigDocument?datum=2014-04-14",
+  "source_sha256": "68cfca26af6244910bc442ce4d23ce988299e6991bf617ba7f4139a75deb667c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023976&param=informatie",
+  "as_of": "2014-04-14",
+  "made": "2014-02-14",
+  "gazette": "2014-04-04",
+  "numac": 2014035295,
+  "document_start": "2014-04-14",
+  "document_end": null,
+  "in_force": "2014-04-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-04-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
