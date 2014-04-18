@@ -1,0 +1,9 @@
+# Ministerieel besluit van 2014-02-20 houdende de goedkeuring van de aanvaarding door het Belgische Rode Kruis van het legaat van wijlen Mevr. Lurson Amelia
+
+### Aanhef
+
+<P>De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR></P>  <P>Gelet op de wet van 30 maart 1891 waarbij de burgerlijke verpersoonlijking   verleend wordt aan de Vereniging van het Rode Kruis van België, inzonderheid op   artikel 3;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de   besluiten van de Vlaamse Regering van 24 juli 2009, 4 december 2009, 6 juli   2010, 7 juli 2010, 24 september 2010, 19 november 2010, 13 mei 2011 en 10 juni   2011, 9 september 2011, 14 oktober 2011, 18 oktober 2013, 13 december 2013 en 17   januari 2014; <BR></P>  <P>Gelet op het eigenhandig testament van 14 december 2006 van wijlen Mevr.   Amelia Lurson, geboren te Borgerhout op 12 maart 1915, overleden te Merksem op   11 maart 2012, laatst wonende te Deurne, Bosuilplein 1;<BR></P>  <P>Gelet op de stukken van het onderzoek waaruit blijkt dat dit legaat aan het   Rode Kruis Vlaanderen een bedrag van tweehonderdtweeëndertigduizend   tweehonderdachtenzeventig euro en zevenentwintig eurocent (232.278,27 euro) te   verminderen met de successierechten en notariskosten betreft;<BR></P>  <P>Gelet op de beraadslaging van het directiecomité van het Belgische Rode Kruis   van 8 oktober 2013 waarbij het legaat wordt aanvaard;<BR></P>  <P>Gelet op het gunstig advies van de Provincie Antwerpen van 16 januari   2014,<BR></P>  <P>Besluit : <BR></P>
+
+### ART. Enig.
+
+<P>De aanvaarding van 8 oktober 2013 door het Belgische Rode Kruis-Rode Kruis   Vlaanderen, van het legaat van wijlen Mevr. Amelia Lurson wordt goedgekeurd.   <BR></P>
