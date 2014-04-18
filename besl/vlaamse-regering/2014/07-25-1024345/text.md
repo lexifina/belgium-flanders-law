@@ -4,6 +4,10 @@
 
 DE VLAAMSE REGERING,<BR><BR>Gelet op de bijzondere wet van 8 augustus 1980   tot hervorming der instellingen, artikel 20 en 87, § 1, gewijzigd bij de   bijzondere wet van 16 juli 1993;<BR><BR>Gelet op het kaderdecreet bestuurlijk   beleid van 18 juli 2003, artikel 3;<BR><BR>Gelet op het besluit van de Vlaamse   Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse   administratie;<BR><BR>Gelet op het advies van de Inspectie van Financiën,   gegeven op 24 juli 2014;<BR><BR>Op voorstel van de minister-president van de   Vlaamse Regering;<BR><BR>Na beraadslaging,<BR><BR>Besluit :<BR>
 
+### ART. 6.
+
+Aan artikel 17, § 2, van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 13 mei 2011, wordt een punt 4° toegevoegd, dat luidt als   volgt:<BR>"4° Toegankelijk Vlaanderen.".
+
 ### ART. 7.
 
 Aan artikel 18, § 2, van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 21 maart 2014, wordt een punt 3° toegevoegd, dat luidt   als volgt:<BR>"3° Agentschap Integratie en Inburgering.".
