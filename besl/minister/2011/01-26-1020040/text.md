@@ -6,4 +6,4 @@ De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<br /><br />Gelet op de bi
 
 ### Enig artikel.
 
-Het Belgisch Instituut voor postdiensten en telecommunicatie (BIPT) wordt aangewezen als de instelling vermeld in artikel 2.14.3.3. van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne.
+...
