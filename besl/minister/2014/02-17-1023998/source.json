@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023998,
+  "title": "Ministerieel besluit van 2014-02-17 tot opheffing van het ministerieel besluit van 26 januari 2011 houdende de aanwijzing van de instelling bevoegd voor beoordeling van technische dossiers bij de aanvraag van een conformiteitsattest voor een vast opgestelde zendantenne",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023998/VolledigDocument?datum=2014-04-19",
+  "source_sha256": "d9fff71d3c84bf3fa2d767cf67b760f4144f5a16d2a80952d5ed1ddaa67189fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023998&param=informatie",
+  "as_of": "2014-04-19",
+  "made": "2014-02-17",
+  "gazette": "2014-04-09",
+  "numac": 2014201700,
+  "document_start": "2014-04-19",
+  "document_end": null,
+  "in_force": "2014-04-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
