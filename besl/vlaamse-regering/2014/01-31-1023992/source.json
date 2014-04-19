@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023992,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie operator in de houtzagerij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023992/VolledigDocument?datum=2014-04-19",
+  "source_sha256": "a759ab1a844329a80a9ff453e5df0f6591c25d0a2877bd64c871807e9f0f07ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023992&param=informatie",
+  "as_of": "2014-04-19",
+  "made": "2014-01-31",
+  "gazette": "2014-04-09",
+  "numac": 2014035319,
+  "document_start": "2014-04-19",
+  "document_end": null,
+  "in_force": "2014-04-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
