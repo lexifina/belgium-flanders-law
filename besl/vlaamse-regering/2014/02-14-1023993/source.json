@@ -1,0 +1,17 @@
+{
+  "codex_id": 1023993,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 houdende de herverdeling van de SALK-provisie van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023993/VolledigDocument?datum=2014-04-19",
+  "source_sha256": "181f69ef8bfacb1f852b5a22cacb5fceeacf7c5d2d2c516622c832f12ffbcd71",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023993&param=informatie",
+  "as_of": "2014-04-19",
+  "made": "2014-02-14",
+  "gazette": "2014-04-09",
+  "numac": 2014035298,
+  "document_start": "2014-04-19",
+  "document_end": null,
+  "in_force": "2014-04-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
