@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024008,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie betonhersteller",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024008/VolledigDocument?datum=2014-04-21",
+  "source_sha256": "16682c96db4b7f0de2d0d83550cb349914d0adbc7d2287ecb3d999b4b5a024fd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024008&param=informatie",
+  "as_of": "2014-04-21",
+  "made": "2014-01-31",
+  "gazette": "2014-04-11",
+  "numac": 2014035308,
+  "document_start": "2014-04-21",
+  "document_end": null,
+  "in_force": "2014-04-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
