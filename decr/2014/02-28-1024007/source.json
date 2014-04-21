@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024007,
+  "title": "Decreet van 2014-02-28 tot wijziging van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen, meer bepaald de wijziging van de classificatie en andere diverse wijzigingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024007/VolledigDocument?datum=2014-04-21",
+  "source_sha256": "40d3fef82d2913ede23eb37a4ec735745dcb8855e46efd324060497b5004896d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024007&param=informatie",
+  "as_of": "2014-04-21",
+  "made": "2014-02-28",
+  "gazette": "2014-04-11",
+  "numac": 2014035304,
+  "document_start": "2014-04-21",
+  "document_end": null,
+  "in_force": "2014-04-21",
+  "article_versions": 23,
+  "record_form": "consolidated version as in force on 2014-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
