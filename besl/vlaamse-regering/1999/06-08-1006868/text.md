@@ -38,11 +38,11 @@ Het basisbedrag van de investeringssubsidie voor verbouwing is vastgesteld op 60
 
 ### ART. 8.
 
-Behalve bij een lokaal dienstencentrum komt een aankoop alleen in aanmerking voor een investeringssubsidie als hij gepaard gaat met en wordt gevolgd door verbouwingswerkzaamheden.<br /><br />Het basisbedrag van de investeringssubsidie voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen, bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door het comité van aankoop geschatte venale waarde van het gebouw en de aan de aankoop verbonden en bewezen notariskosten en registratierechten of btw, in aanmerking komen voor de investeringssubsidie.
+Behalve bij een lokaal dienstencentrum, een regionaal dienstencentrum of   een dagverzorgingscentrum komt een aankoop alleen in aanmerking voor een   investeringssubsidie als hij gepaard gaat met en wordt gevolgd door   verbouwingswerkzaamheden.<BR><BR>Het basisbedrag van de investeringssubsidie   voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen,   bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld   in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door   het comité van aankoop geschatte venale waarde van het gebouw en de aan de   aankoop verbonden en bewezen notariskosten en registratierechten of btw, in   aanmerking komen voor de investeringssubsidie.
 
 ### ART. 9.
 
-In een periode van twintig jaar na de voorlopige oplevering van een investering van nieuwbouw, van uitbreiding, van aankoop met of zonder verbouwing of van verbouwing, kan geen investeringssubsidie worden verkregen voor hetzelfde project, ongeacht of de investeringssubsidie is verkregen in een andere sector van de persoonsgebonden aangelegenheden. Enkel als een verbouwing noodzakelijk wordt opgelegd door de gewijzigde regelgeving of door de opgelegde veiligheidsvoorschriften, kan binnen deze periode een investeringssubsidie voor verbouwing worden verkregen.
+<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen definitief principieel akkoord worden verkregen   voor hetzelfde project of voor een deel van hetzelfde project, ongeacht de   sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen.   Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of   wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode   een definitief principieel akkoord voor een verbouwing worden   verkregen.</P>
 
 ### ART. 10.
 
