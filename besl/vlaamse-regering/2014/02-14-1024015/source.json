@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024015,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-14 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024015/VolledigDocument?datum=2014-04-25",
+  "source_sha256": "141734661015b1ef1f1d17ec40a1cc9398eec12aa1b5a7d3ff3d6e0e08bdc4ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024015&param=informatie",
+  "as_of": "2014-04-25",
+  "made": "2014-02-14",
+  "gazette": "2014-04-15",
+  "numac": 2014035303,
+  "document_start": "2014-04-25",
+  "document_end": null,
+  "in_force": "2014-04-25",
+  "article_versions": 105,
+  "record_form": "consolidated version as in force on 2014-04-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
