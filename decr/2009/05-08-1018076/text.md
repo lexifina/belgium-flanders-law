@@ -28,7 +28,7 @@ In afwijking van hoofdstuk II, kan een rooilijnplan tegelijkertijd opgesteld wor
 
 ### ART. 6.
 
-Voor wat betreft buurtwegen, zoals bedoeld in de wet op de buurtwegen van 10 april 1841, is dit decreet slechts van toepassing voor zover de buurtweg behoort tot het openbare domein. Het vaststellen van rooilijnplannen voor deze buurtwegen gebeurt op basis van de procedure voor de vaststelling van een gemeentelijk rooilijnplan zoals bepaald in afdeling 2, hoofdstuk II, van dit decreet. Op de overige buurtwegen is dit decreet niet van toepassing.<br /><br />
+<P>Dit decreet is niet van toepassing op buurtwegen in de zin van de wet van 10   april 1841 op de buurtwegen. Het vaststellen van rooilijnplannen voor deze   buurtwegen gebeurt volgens hoofdstuk III van de wet van 10 april 1841 op de   buurtwegen.</P>
 
 ## HOOFDSTUK II Procedure
 
