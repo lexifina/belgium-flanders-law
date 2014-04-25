@@ -72,7 +72,7 @@ Het basisbedrag van de investeringssubsidie voor aankoop met of zonder verbouwin
 
 ### ART. 15.
 
-Er kan in een periode van twintig jaar na de ingebruikname van een door het Fonds of zijn rechtsvoorgangers gesubsidieerde investering van nieuwbouw, van uitbreiding, van aankoop met of zonder verbouwing of van verbouwing geen investeringssubsidie worden verkregen voor hetzelfde deel van de geplande infrastructuur zoals die in het masterplan omschreven wordt, ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan binnen die periode een investeringssubsidie voor verbouwing worden verkregen.
+<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde   project of voor een deel van hetzelfde project, ongeacht de sector van de   persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een   verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde   en opgelegde veiligheidsvoorschriften, kan binnen die periode een   subsidiebelofte voor verbouwing worden verkregen.<BR><BR>Het eerste lid is niet   van toepassing op de bijzondere uitrusting van een consultatiebureau voor   respiratoire aandoeningen, vermeld in artikel 8 en 9.</P>
 
 ### ART. 16.
 
