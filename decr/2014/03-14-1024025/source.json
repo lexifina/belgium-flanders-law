@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024025,
+  "title": "Decreet van 2014-03-14 houdende instemming met de (herziene) Europese overeenkomst inzake de adoptie van kinderen, opgemaakt in Straatsburg op 27 november 2008 en ondertekend op 1 december 2008",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024025/VolledigDocument?datum=2014-04-27",
+  "source_sha256": "f5cca96601ac79598b7b621e3edd444512d013cb0178329c183d36be406f4b27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024025&param=informatie",
+  "as_of": "2014-04-27",
+  "made": "2014-03-14",
+  "gazette": "2014-04-17",
+  "numac": 2014035375,
+  "document_start": "2014-04-27",
+  "document_end": null,
+  "in_force": "2014-04-27",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
