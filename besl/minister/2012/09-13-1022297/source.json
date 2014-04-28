@@ -2,16 +2,16 @@
   "codex_id": 1022297,
   "title": "Ministerieel besluit van 2012-09-13 houdende de erkenning van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022297/VolledigDocument?datum=2014-04-18",
-  "source_sha256": "f798b44c93c3e106a790c32494c873ebaef866b45d8ecad78decc4a118c4ae90",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022297/VolledigDocument?datum=2014-04-28",
+  "source_sha256": "9495b8bb2c171889751678b7802368f00cf866d8756786e2acd4e22054a67504",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022297&param=informatie",
-  "as_of": "2014-04-18",
+  "as_of": "2014-04-28",
   "made": "2012-09-13",
   "gazette": "2012-09-28",
   "numac": 2012036052,
   "document_start": "2012-10-08",
   "document_end": "2017-07-29",
-  "in_force": "2014-04-18",
+  "in_force": "2014-04-28",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2014-04-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-28; future article versions excluded; article text as the API gives it"
 }
