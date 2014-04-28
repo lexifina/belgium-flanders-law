@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024028,
+  "title": "Besluit van de Vlaamse Regering van 2014-01-31 tot erkenning van de beroepskwalificatie kapper-salonverantwoordelijke",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024028/VolledigDocument?datum=2014-04-28",
+  "source_sha256": "f03fc8a4acbad98bd0453b82e75216fec1b897fd3cd908e0438ee3907e869fb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024028&param=informatie",
+  "as_of": "2014-04-28",
+  "made": "2014-01-31",
+  "gazette": "2014-04-18",
+  "numac": 2014035321,
+  "document_start": "2014-04-28",
+  "document_end": null,
+  "in_force": "2014-04-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
