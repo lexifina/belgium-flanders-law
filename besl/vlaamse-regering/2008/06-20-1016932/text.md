@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° decreet : het decreet van 13   juli 2007 inzake medisch verantwoorde sportbeoefening;<BR>2° minister : de   Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening;<BR>3°   ..<BR>4° ...<BR>5° ...<BR>6° ...<BR>7° ...<BR>8° keuringsarts : erkende   keuringsarts als vermeld in artikel 19 van het decreet;<BR>9° keuringscentrum :   erkend keuringscentrum als vermeld in artikel 19 van het decreet;<BR>10°   ...<BR>11° ...<BR>12° ...<BR>13° ...<BR>14° sporter : een sporter als vermeld in   artikel 2, 9°, van het decreet;<BR>15° sportvereniging : sportvereniging als   vermeld in artikel 2, 11°, van het decreet;<BR>16° sportfederatie : groepering   van sportverenigingen; <BR>17° ...<BR>18° getalenteerde sporter : de sporter die   talent heeft voor topsport volgens de sportspecifieke ontwikkelingslijn, of die   al topsporter is vanwege zijn prestaties; <BR>19° ...<BR>20° administratie : de   administratie als vermeld in artikel 2, 2°, van het decreet;<BR>21° ...<BR>22°   ...<BR>23° wedstrijd : de wedstrijd als vermeld in artikel 2, 7°, van het   decreet;<BR>24° ...<BR>25° ...<BR>26° ...<BR>27° ...<BR>28° ...
+<P>In dit besluit wordt verstaan onder :<BR>1° ...;<BR>2° ...;<BR>3° ...<BR>4°   ...<BR>5° ...<BR>6° ...<BR>7° ...<BR>8° keuringsarts : erkende keuringsarts als   vermeld in artikel 19 van het decreet;<BR>9° keuringscentrum : erkend   keuringscentrum als vermeld in artikel 19 van het decreet;<BR>10° ...<BR>11°   ...<BR>12° ...<BR>13° ...<BR>14° ...;<BR>15° ...;<BR>16° ...; <BR>17° ...<BR>18°   getalenteerde sporter : de sporter die talent heeft voor topsport volgens de   sportspecifieke ontwikkelingslijn, of die al topsporter is vanwege zijn   prestaties; <BR>19° ...<BR>20° ...;<BR>21° ...<BR>22° ...<BR>23° ...;<BR>24°   ...<BR>25° ...<BR>26° ...<BR>27° ...<BR>28° ...</P>
 
 ## TITEL II. Algemeen kader voor de medisch verantwoorde sportbeoefening
 
@@ -166,7 +166,7 @@ Om erkend te worden moet een keuringscentrum :<br />1° overeenkomsten voorlegge
 
 ### ART. 32.
 
-Er wordt een expertencommissie medisch verantwoord sporten opgericht als vermeld in artikel 22 van het decreet. <br /><br />De expertencommissie medisch verantwoord sporten heeft tot opdracht advies te verlenen over medisch verantwoord sporten op verzoek van de minister.<br /><br />De expertencommissie medisch verantwoord sporten bestaat uit een voorzitter en een plaatsvervangende voorzitter, die telkens een vertegenwoordiger is van de administratie, en uit effectieve en plaatsvervangende leden die garant staan voor de onafhankelijkheid van de advisering, en die een bijzondere expertise bezitten op het vlak van de medische en paramedische begeleiding van sporters. <br /><br />De expertencommissie medisch verantwoord sporten kan een beroep doen op externe deskundigen. <br /><br />De minister bepaalt het aantal effectieve en plaatsvervangende leden. <br /><br />De minister benoemt de effectieve en plaatsvervangende leden. <br /><br />De minister stelt de vergoedingen vast voor de prestaties en onkosten van de effectieve en plaatsvervangende leden en, in voorkomend geval, van de externe deskundigen. <br /><br />De expertencommissie medisch verantwoord sporten stelt een huishoudelijk reglement op, dat door de minister wordt goedgekeurd.
+...
 
 ## Afdeling VI. [... (opgeh. BVR 19 oktober 2012, art. 103, I: 14 november 2012)]
 
@@ -178,11 +178,11 @@ Er wordt een expertencommissie medisch verantwoord sporten opgericht als vermeld
 
 ### ART. 33/1.
 
-§ 1. De richtsnoeren inzake ethisch verantwoorde sportbeoefening worden uitgevaardigd door de Vlaamse Regering, door middel van de open coördinatiemethode, die wordt toegepast zoals vermeld in paragraaf 2 tot en met paragraaf 5.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, stelt de sportfederaties die erkend zijn op basis van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding, uiterlijk drie maanden na de inwerkingtreding van dit besluit in kennis van :<br />1° de inhoud en de draagwijdte van de open coördinatiemethode, die op basis van het decreet wordt gehanteerd;<br />2° de door hem voorgestelde thema's inzake ethisch verantwoorde sportbeoefening;<br />3° zijn verzoek om, binnen twee maanden na de kennisgeving, voorstellen van richtsnoeren te formuleren in het kader van de voorgestelde thema's en, met een bijgaande motivering, eventuele andere thema's aan te geven inzake ethisch verantwoorde sportbeoefening die voor de Vlaamse Gemeenschap nuttig zouden kunnen zijn.<br /><br />§ 3. Na de verwerking van de antwoorden van de sportfederaties, vermeld in paragraaf 2, vraagt de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, het advies van de sectorraad voor Sport. Bij de adviesvraag wordt een samenvatting van de voorgestelde thema's en de antwoorden van de sportfederaties gevoegd.<br /><br />De sectorraad voor Sport verleent advies binnen een maand.<br /><br />§ 4. Na de ontvangst van het advies, vermeld in paragraaf 3, vindt een overleg plaats waarop de sportfederaties, vermeld in paragraaf 2, worden uitgenodigd, met het oog op het vaststellen van de richtsnoeren.<br /><br />§ 5. Na het overleg, vermeld in paragraaf 4, legt de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, een ontwerpbesluit voor aan de Vlaamse Regering waarbij de richtsnoeren uitgevaardigd worden, met vermelding van de datum van de inwerkingtreding ervan, de termijn waarop de richtsnoeren betrekking hebben, alsook de termijn waarbinnen de implementatie ervan moet worden verantwoord.
+...
 
 ### ART. 33/2.
 
-§ 1. Ter verantwoording van de implementatie van de richtsnoeren die in overeenstemming met het besluit van de Vlaamse Regering, vermeld in artikel 33/1, paragraaf 5 werden vastgesteld, maken de sportfederaties, vermeld in paragraaf 2, een rapport op waarin de belangrijkste maatregelen worden uiteengezet die ze samen met de sportverenigingen hebben genomen ter realisatie van de richtsnoeren, en waarin een toelichting wordt gegeven bij de aantoonbare of verwachte effecten van die maatregelen in het licht van die richtsnoeren. In dat rapport kunnen ze ook voorstellen van nieuwe richtsnoeren en eventuele andere thema's opnemen inzake ethisch verantwoorde sportbeoefening die voor de Vlaamse Gemeenschap nuttig zouden kunnen zijn.<br /><br />De sportfederaties integreren dat rapport in het werkingsverslag, vermeld in artikel 10, § 2, van het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding.<br /><br />§ 2. Op initiatief van de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, vindt een overleg plaats tussen de sportfederaties vermeld in artikel 33/1 § 2, waarop naargelang de behoefte deskundigen op het terrein van de ethisch verantwoorde sportbeoefening en andere sportverenigingen kunnen worden uitgenodigd.<br /><br />Dit tweeledig overleg heeft tot doel :<br />1° de implementatie van de richtsnoeren evalueren en door middel van peer review en uitwisseling van best practices verder vorm geven aan het beleid inzake ethisch verantwoorde sportbeoefening;<br />2° mede op basis van de evaluatie, vermeld in punt 1°, voorstellen van nieuwe richtsnoeren formuleren of de termijn voor de implementatie van vorige richtsnoeren verlengen.<br /><br />§ 3. Na het overleg, vermeld in paragraaf 2, zal een volgende cyclus starten met het uitvaardigen van de richtsnoeren zoals vermeld in artikel 33/1, § 5.<br /><br />§ 4 In afwijking van paragraaf 3, kan de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven, beslissen dat na het overleg, vermeld in paragraaf 2, de volgende cyclus opnieuw wordt hervat vanaf artikel 33/1,§ 2.
+...
 
 ## TITEL III. [... (opgeh. BVR 19 oktober 2012, art. 104, I: 14 november 2012)]
 
@@ -422,7 +422,7 @@ Er wordt een expertencommissie medisch verantwoord sporten opgericht als vermeld
 
 ### ART. 77.
 
-§ 1. De administratie kan een dossier openen zodra ze kennis krijgt van een mogelijke overtreding van de voorwaarden inzake de leeftijdsgrenzen, de opleiding, de risicovechtsporten of sportmedische keuring. Elk dossier wordt bijgehouden en opgevolgd door de administratie.<br /><br />§ 2. Elk dossier bevat, zo mogelijk en in voorkomend geval :<br />1° een omschrijving van de reden die aanleiding heeft gegeven tot het openen van het dossier;<br />2° de vermelding van de datum van de opening van het dossier;<br />3° een inventaris van de stukken, met vermelding van de datum van de opname in het dossier;<br />4° de identiteit van de vermoedelijke overtreders;<br />5° een afschrift van het proces-verbaal waarin de vermoedelijke overtreding van de voorwaarden inzake de leeftijdsgrenzen, de opleiding, de risicovechtsporten of de sportmedische keuring wordt vastgesteld;<br />6° een afschrift van alle andere stukken die nuttig kunnen zijn voor de behandeling van het dossier.
+...
 
 ## HOOFDSTUK II. Toezicht op keuringscentra en keuringsartsen
 
@@ -444,21 +444,21 @@ Voor het toezicht op keuringscentra en keuringsartsen hebben de ambtenaren van d
 
 ### ART. 81.
 
-De sportvereniging brengt de administratie op de hoogte van alle statutaire, reglementaire en contractuele bepalingen, vermeld in artikel 11, 1°, van het decreet. Elke wijziging of aanvulling van die bepalingen wordt onmiddellijk aan de administratie meegedeeld.
+...
 
 ### ART. 82.
 
-Jaarlijks, uiterlijk op 31 maart, stuurt de sportvereniging het verslag, vermeld in artikel 11, 2°, van het decreet, naar de administratie.
+...
 
 ### ART. 83.
 
-De minister kan aanvullende bepalingen over de verslaggeving, vermeld in artikel 11 van het decreet, vastleggen.
+...
 
 ## HOOFDSTUK V. [Mededeling van geplande sportactiviteiten (verv. BVR 19 oktober 2012, art. 107, I: 14 november 2012)]
 
 ### ART. 84.
 
-Overeenkomstig artikel 12 van het decreet brengt de sportvereniging de administratie minstens veertien dagen op voorhand op de hoogte van alle geplande sportactiviteiten en van elke wijziging in die planning.<br /><br />De mededeling, vermeld in het eerste lid, vermeldt :<br />1° aard van de geplande sportactiviteit;<br />2° gemeente, precieze plaats, datum en aanvangsuur en waarschijnlijke duur van de geplande sportactiviteit;<br />3° naam, adres en telefoonnummer van de afgevaardigde van de sportvereniging of, in voorkomend geval, van de organisator.<br /><br />De minister kan bijkomstige bepalingen vaststellen.
+...
 
 ## TITEL V. Budgettaire bepalingen
 
@@ -468,7 +468,7 @@ Overeenkomstig artikel 12 van het decreet brengt de sportvereniging de administr
 
 ### ART. 86.
 
-Binnen de begrotingskredieten kan de minister toelagen toekennen voor het wetenschappelijk onderzoek over de medisch verantwoorde sportbeoefening en het dopinggebruik. <br /><br />Een toelage kan worden verleend als daartoe bij de administratie een aanvraag met een onderzoeksvoorstel wordt ingediend. <br /><br />Bij de beoordeling van de aanvraag door de minister kan hij advies vragen aan de expertencommissie medisch verantwoord sporten. Bij die beoordeling wordt rekening gehouden met de haalbaarheid en de kwaliteit van het onderzoeksvoorstel, de relevantie ervan voor het beleid en de omvang ervan in relatie tot de beschikbare middelen. <br /><br />De minister kan de nodige maatregelen treffen ter uitvoering van deze bepaling.
+...
 
 ### ART. 87.
 
@@ -495,40 +495,40 @@ Binnen de begrotingskredieten kan de minister toelagen toekennen voor het wetens
 
 ### ART. 88.
 
-Voor de toepassing van dit besluit wordt een aangetekende brief de eerste werkdag na de dag van de verzending ervan geacht ontvangen te zijn.
+...
 
 ### ART. 89.
 
-Elke beroepskwalificatie, vermeld in dit besluit, wordt gelijkgesteld met een volgens de Richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties, overeenstemmende beroepskwalificatie.
+...
 
 ### ART. 90.
 
-De minister kan de beslissingsbevoegdheden die hem bij dit besluit worden verleend, delegeren aan een of meer ambtenaren.
+...
 
 ### ART. 91.
 
-In artikel 3, § 1, van het besluit van de Vlaamse Regering van 14 juli 2006 houdende algemene bepalingen inzake medisch verantwoorde sportbeoefening bij de deelname van minderjarigen aan sportmanifestaties, proeven, wedstrijden en opleidingen in bepaalde sporttakken worden de woorden « artikel 5 » vervangen door de woorden « artikel 5, 1° tot en met 7° en 9° tot en met 16° ».
+...
 
 ### ART. 92.
 
-De volgende regelingen worden opgeheven :<br />1° het besluit van de Vlaamse Regering van 16 december 2005 houdende uitvoering van het decreet van 27 maart 1991 inzake medisch verantwoorde sportbeoefening;<br />2° het ministerieel besluit van 30 december 1993 houdende nadere bepalingen betreffende de erkenning van keuringsartsen.
+...
 
 ### ART. 93.
 
-De besluiten, genomen ter uitvoering van het besluit, vermeld in artikel 92, 1°, blijven van kracht totdat hun geldigheidsduur verstreken is of totdat ze uitdrukkelijk opgeheven of gewijzigd worden. <br /><br />De erkenningen van controleartsen en controlelaboratoria, genomen ter uitvoering van het besluit, vermeld in artikel 92, 1°, blijven van kracht totdat hun geldigheidsduur verstreken is, maar vervallen uiterlijk op 1 januari 2009. <br /><br />De erkenningen van keuringscentra en keuringsartsen, genomen ter uitvoering van het besluit, vermeld in artikel 92, 1°, blijven van kracht totdat hun geldigheidsduur verstreken is, maar vervallen uiterlijk op 1 januari 2009.
+...
 
 ### ART. 94.
 
-Met behoud van de toepassing van het tweede lid, treedt het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening in werking op 1 augustus 2008, met uitzondering van artikel 53, § 2, van het decreet dat uitwerking heeft met ingang van 1 januari 2008. <br /><br />De disciplinaire afhandeling van feiten die aanleiding geven tot de vaststelling van dopingpraktijken en die gepleegd of vastgesteld zijn voor 1 augustus 2008, blijft onderworpen aan de disciplinaire bepalingen van het decreet van 27 maart 1991 inzake de medisch verantwoorde sportbeoefening.<br /><br />De disciplinaire afhandeling van feiten die aanleiding geven tot de vaststelling van dopingpraktijken en die gepleegd zijn door of vastgesteld zijn ten aanzien van een elitesporter tussen 1 augustus 2008 en 1 oktober 2008 zal, als de interne tuchtregeling van de sportvereniging van deze elitesporter op datum van de bovenvermelde feiten nog niet erkend is overeenkomstig artikel 35 van het decreet, gebeuren door de disciplinaire organen vermeld in de artikelen 32 en 33 van het decreet, overeenkomstig de artikelen 36 tot en met 48 van het decreet, op kosten van deze sportvereniging.<br /><br />In voornoemd geval wordt de einduitspraak vermoed te zijn overgenomen door de sportvereniging en is ze om die reden vatbaar voor beroep bij het Internationaal Sporttribunaal door de elitesporter en de personen of instanties vermeld in artikel 35 § 2, 7° van het decreet.
+...
 
 ### ART. 95.
 
-Dit besluit treedt in werking op 1 augustus 2008, met uitzondering van artikel 85, dat in werking treedt op 1 januari 2009.
+...
 
 ### ART. 96.
 
-De Vlaamse minister, bevoegd voor de medisch verantwoorde sportbeoefening, is belast met de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-...<br />
+...

@@ -2,16 +2,16 @@
   "codex_id": 1016932,
   "title": "Besluit van de Vlaamse Regering van 2008-06-20 houdende uitvoering van het decreet van 13 juli 2007 inzake medisch [en ethisch (verv. BVR 19 december 2008)] verantwoorde sportbeoefening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016932/VolledigDocument?datum=2012-11-14",
-  "source_sha256": "d84118845893fd7d94efb2690d1230b9c09fd4f13eb3939c6975f824dd2f518f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016932/VolledigDocument?datum=2014-04-30",
+  "source_sha256": "323c922319893d15bf5467f7dcb4bda37b22d06274c1a2cb85f84d747e764584",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016932&param=informatie",
-  "as_of": "2012-11-14",
+  "as_of": "2014-04-30",
   "made": "2008-06-20",
   "gazette": "2008-07-29",
   "numac": 2008035975,
   "document_start": "2008-08-01",
   "document_end": "2014-04-29",
-  "in_force": "2012-11-14",
+  "in_force": "2014-04-30",
   "article_versions": 102,
-  "record_form": "consolidated version as in force on 2012-11-14; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-04-30; future article versions excluded; article text as the API gives it"
 }
