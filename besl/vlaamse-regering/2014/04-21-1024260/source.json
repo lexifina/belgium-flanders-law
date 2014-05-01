@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024260,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-21 tot toekenning van steun aan ondernemingen ter compensatie van indirecte emissiekosten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024260/VolledigDocument?datum=2014-05-01",
+  "source_sha256": "57c25f293562cbf8b399f8dde8d0adc8af7c12097f32338b4bc792c9b7dc986a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024260&param=informatie",
+  "as_of": "2014-05-01",
+  "made": "2014-04-21",
+  "gazette": "2014-07-02",
+  "numac": 2014035639,
+  "document_start": "2014-05-01",
+  "document_end": "2023-02-02",
+  "in_force": "2014-05-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2014-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
