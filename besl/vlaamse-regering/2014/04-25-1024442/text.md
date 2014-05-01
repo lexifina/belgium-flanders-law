@@ -54,6 +54,22 @@ In artikel 4/1, eerste lid, van bijlage V bij hetzelfde besluit, ingevoegd   bij
 
 ## HOOFDSTUK 3 Wijzigingen van het ministerieel besluit van 26 juli 2001 tot vaststelling van het bijdragesysteem voor de gebruiker van gezinszorg
 
+### ART. 12.
+
+Bijlage I bij het ministerieel besluit van 26 juli 2001 tot vaststelling   van het bijdragesysteem voor de gebruiker van gezinszorg, gewijzigd bij het   ministerieel besluit van 8 december 2009, wordt vervangen door de bijlage die   bij dit besluit is gevoegd.<BR>
+
+### ART. 13.
+
+In de eerste alinea van hoofdstuk I van bijlage II bij hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 16 december 2011, worden   de volgende wijzigingen aangebracht:<BR>1° de woorden "een OMNIO- of   WIGW-statuut heeft of" worden opgeheven;<BR>2° het bedrag "7,5 euro" wordt   vervangen door het bedrag "7,58 euro" en het bedrag "4,5 euro" wordt vervangen   door het bedrag "4,55 euro".<BR>
+
+### ART. 14.
+
+In de eerste alinea van stap 3 van hoofdstuk V van bijlage II bij   hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16   december 2011, wordt het bedrag "7,5 euro" telkens vervangen door het bedrag   "7,58 euro".<BR>
+
+### ART. 15.
+
+In de zesde alinea van stap 6 van hoofdstuk V van bijlage II bij hetzelfde   besluit, gewijzigd bij het besluit van de Vlaamse Regering van 16 december 2011,   wordt het bedrag "0,5 euro" vervangen door het bedrag "0,51   euro".<BR>
+
 ### ART. 16.
 
 <P>In hoofdstuk V van bijlage II bij hetzelfde besluit, gewijzigd bij het   ministerieel besluit van 8 december 2009 en het besluit van de Vlaamse Regering   van 16 december 2011, wordt de volgende bepaling opgeheven:<BR>"3   Overgangsmaatregelen:<BR>Voor alle nieuwe hulpaanvragen moet vanaf 1 januari   2002 het nieuwe gebruikersbijdragesysteem onmiddellijk worden toegepast.<BR></P>  <P>Voor de bestaande hulpverleningssituaties geldt een overgangsperiode tot 1   juli 2002, waarbij de bestaande bijdragen kunnen omgerekend worden naar euro.   Tegen 1 juli 2002 moet iedere bijdragebepaling conform het nieuwe systeem   geschieden.".<BR></P>
