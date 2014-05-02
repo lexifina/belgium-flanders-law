@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024037,
+  "title": "Decreet van 2014-03-14 tot wijziging van artikel 1, 2, 4, 5, 12 en 16 van het decreet van 19 juli 1973 tot regeling van het gebruik van de talen voor de sociale betrekkingen tussen de werkgevers en de werknemers, alsmede van de door de wet en de verordeningen voorgeschreven akten en bescheiden van de ondernemingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024037/VolledigDocument?datum=2014-05-02",
+  "source_sha256": "b2aefa66784bccc1414bc6d53ad4321fc6573175c06e5bd25a42b734247ad766",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024037&param=informatie",
+  "as_of": "2014-05-02",
+  "made": "2014-03-14",
+  "gazette": "2014-04-22",
+  "numac": 2014035373,
+  "document_start": "2014-05-02",
+  "document_end": null,
+  "in_force": "2014-05-02",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-05-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
