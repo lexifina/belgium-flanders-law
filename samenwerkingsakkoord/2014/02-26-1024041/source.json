@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024041,
+  "title": "Samenwerkingsakkoord van 2014-02-26 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest in het kader van de Richtlijn 2010/24/EU van de Raad van 16 maart 2010 betreffende de wederzijdse bijstand inzake de invordering van schuldvorderingen die voortvloeien uit belastingen, rechten en andere maatregelen en in het kader van de gemengde bilaterale en multilaterale verdragen tussen het Koninkrijk België en een andere Staat of andere Staten die voorzien in een wederzijdse bijstand inzake de invordering van belastingvorderingen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024041/VolledigDocument?datum=2014-05-04",
+  "source_sha256": "44844d2bb8fd5324191d353a2cea1a765bba1ca3e88aa0519b318f8621ca8c46",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024041&param=informatie",
+  "as_of": "2014-05-04",
+  "made": "2014-02-26",
+  "gazette": "2014-04-24",
+  "numac": 2014202472,
+  "document_start": "2014-05-04",
+  "document_end": null,
+  "in_force": "2014-05-04",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2014-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
