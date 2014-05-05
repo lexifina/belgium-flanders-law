@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024592,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 betreffende de bepaling van de mobiliteitstoelage op advies van het Vlaamse Erasmuscomité",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024592/VolledigDocument?datum=2014-05-05",
+  "source_sha256": "68286ab856c97b545f140f6827290b8e59fea007b4ad0723b8303326a13665fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024592&param=informatie",
+  "as_of": "2014-05-05",
+  "made": "2014-05-23",
+  "gazette": "2014-09-25",
+  "numac": 2014035922,
+  "document_start": "2014-05-05",
+  "document_end": null,
+  "in_force": "2014-05-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
