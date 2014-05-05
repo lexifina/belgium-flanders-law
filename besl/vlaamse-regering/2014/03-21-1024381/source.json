@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024381,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot operationalisering van de Vlaamse Vereniging voor ICT-personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024381/VolledigDocument?datum=2014-05-05",
+  "source_sha256": "ac69a61cc73093c6d797fd11fdf70314dfb819dcc1f87d63ff352630e6037bc2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024381&param=informatie",
+  "as_of": "2014-05-05",
+  "made": "2014-03-21",
+  "gazette": "2014-08-08",
+  "numac": 2014035503,
+  "document_start": "2014-05-05",
+  "document_end": null,
+  "in_force": "2014-05-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
