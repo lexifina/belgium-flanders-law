@@ -78,7 +78,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 18.
 
-§ 1. Voor het beleidsdomein Bestuurszaken wordt het Vlaams Ministerie van   Bestuurszaken opgericht, dat bestaat uit het gelijknamige departement en drie   agentschappen zonder rechtspersoonlijkheid : <BR>1° Agentschap voor   Overheidspersoneel; <BR>2° Agentschap voor Facilitair Management; <BR>3°   Agentschap voor Binnenlands Bestuur. <BR><BR>§ 2. Het agentschap met   rechtspersoonlijkheid dat tot het beleidsdomein Bestuurszaken behoort, is   Jobpunt Vlaanderen.<BR>3° Agentschap Integratie en Inburgering.<BR><BR>§ 3. De   strategische adviesraad die tot het beleidsdomein Bestuurszaken behoort, is de   Vlaamse Adviesraad voor Bestuurszaken.
+§ 1. Voor het beleidsdomein Bestuurszaken wordt het Vlaams Ministerie van   Bestuurszaken opgericht, dat bestaat uit het gelijknamige departement en drie   agentschappen zonder rechtspersoonlijkheid : <BR>1° Agentschap voor   Overheidspersoneel; <BR>2° Agentschap voor Facilitair Management; <BR>3°   Agentschap voor Binnenlands Bestuur. <BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Bestuurszaken behoren zijn   :<BR>1° Jobpunt Vlaanderen;<BR>2° Vlaamse Vereniging voor ICT-personeel;<BR>3°   Agentschap Integratie en Inburgering.<BR><BR>§ 3. De strategische adviesraad die   tot het beleidsdomein Bestuurszaken behoort, is de Vlaamse Adviesraad voor   Bestuurszaken.
 
 ### ART. 19.
 
