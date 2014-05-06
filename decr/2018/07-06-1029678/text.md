@@ -22,6 +22,10 @@
 
 ## Afdeling 2. Rechtzetting verwijzing Klimaatfonds
 
+### ART 10.
+
+In artikel 14, § 2 en § 4, van het decreet van 13 juli 2012 van het decreet houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012 wordt de zinsnede "artikel 13.5.1. van het Energiedecreet van 8 mei 2009" vervangen door de zinsnede "artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014".
+
 ## Afdeling 3. Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013, wat betreft het uitsluiten van de cumul van vermindering van het tarief voor schenkingen van en van verlaging van het verkooprecht voor een beschermd monument waarvoor een investeringsplicht geldt met de vermindering van de personenbelasting voor uitgaven voor beschermde goederen
 
 ## HOOFDSTUK 5. Landbouw en Visserij
