@@ -70,7 +70,30 @@ In artikel 18 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderw
 
 ### ART. 14.
 
-§ 1. Er wordt een 'Vlaams Klimaatfonds' opgericht, hierna 'genoemd het Fonds'. Het Fonds is een begrotingsfonds, in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br /><br />§ 2. Met betrekking tot de Kyotoperiode worden aan het Fonds de volgende inkomsten toegewezen :<br />- de opbrengsten uit de veiling van emissierechten uit de toewijzingsreserve voor de eerste verbintenisperiode, zoals bedoeld in het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen;<br />- de opbrengsten van de administratieve geldboete vermeld in artikel 13.5.1. van het Energiedecreet van 8 mei 2009.<br /><br />§ 3. Met betrekking tot de Kyotoperiode mogen de inkomsten van het Fonds aangewend worden voor :<br />- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto;<br />- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen;<br />- de in paragraaf 5 vermelde activiteiten, indien er na de eindafrekening voor de Kyotoperiode nog inkomsten resteren die niet benut werden voor deze eindafrekening.<br /><br />§ 4. Met betrekking tot de periodes na 2012 worden aan het Fonds de volgende inkomsten toegewezen :<br />- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor luchtvaartoperatoren vanaf 2012;<br />- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor BKG-inrichtingen vanaf 2012, met uitzondering van deze vermeld onder paragraaf 2;<br />- de opbrengsten van de administratieve geldboete vermeld in artikel 13.5.1. van het Energiedecreet van 8 mei 2009.<br /><br />§ 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor :<br />- de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br />- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br />- de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br />- de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br />- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br /><br />§ 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
+§ 1. Er wordt een 'Vlaams Klimaatfonds' opgericht, hierna 'genoemd het Fonds'. Het Fonds is een begrotingsfonds, in de zin van artikel 12 van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof.<br>
+<br>
+§ 2. Met betrekking tot de Kyotoperiode worden aan het Fonds de volgende inkomsten toegewezen :<br>
+- de opbrengsten uit de veiling van emissierechten uit de toewijzingsreserve voor de eerste verbintenisperiode, zoals bedoeld in het besluit van de Vlaamse Regering van 7 december 2007 inzake verhandelbare emissierechten voor broeikasgassen;<br>
+- de opbrengsten van de administratieve geldboete vermeld in artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014.<br>
+<br>
+§ 3. Met betrekking tot de Kyotoperiode mogen de inkomsten van het Fonds aangewend worden voor :<br>
+- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto;<br>
+- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen;<br>
+- de in paragraaf 5 vermelde activiteiten, indien er na de eindafrekening voor de Kyotoperiode nog inkomsten resteren die niet benut werden voor deze eindafrekening.<br>
+<br>
+§ 4. Met betrekking tot de periodes na 2012 worden aan het Fonds de volgende inkomsten toegewezen :<br>
+- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor luchtvaartoperatoren vanaf 2012;<br>
+- de opbrengsten voor Vlaanderen uit de veiling van emissierechten voor BKG-inrichtingen vanaf 2012, met uitzondering van deze vermeld onder paragraaf 2;<br>
+- de opbrengsten van de administratieve geldboete vermeld in artikel 8.5.1. van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid, ingevoegd bij decreet van 14 februari 2014.<br>
+<br>
+§ 5. Met betrekking tot de periodes na 2012 mogen de inkomsten van het Fonds aangewend worden voor :<br>
+- de uitvoering van intern Vlaams klimaatbeleid met het oog op het behalen van de Vlaamse broeikasgasemissiereductiedoelstellingen;<br>
+- de uitvoering van het Vlaamse beleid inzake de flexibiliteitsmechanismen van het Protocol van Kyoto of zoals uitgewerkt in Europese of internationale wetgeving of akkoorden;<br>
+- de uitvoering van Vlaamse bijdrage(n) in het kader van de internationale steun aan ontwikkelingslanden in hun strijd tegen klimaatverandering in overeenstemming met de beslissingen van de United Nations Framework Convention on Climate Change (UNFCCC);<br>
+- de remediëring van competitiviteitsverlies bij de Vlaamse bedrijven ten gevolge van Europees of internationaal klimaatbeleid;<br>
+- alle beleidskosten die verband houden met de voorbereiding, organisatie of bijdragen in het kader van klimaatveilingen.<br>
+<br>
+§ 6. De Vlaamse Regering beschikt over de kredieten van het Fonds voor de financiering van de onder paragraaf 3 en paragraaf 5 vermelde taken.
 
 ## HOOFDSTUK 4. Wijzigingen aan het Energiedecreet van 8 mei 2009
 
