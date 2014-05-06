@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024073,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot wijziging van het besluit van de Vlaamse Regering van 20 april 2012 inzake verhandelbare emissierechten voor broeikasgassen voor vaste installaties en de inzet van flexibele mechanismen, voor wat betreft de uitbreiding tot luchtvaartactiviteiten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024073/VolledigDocument?datum=2014-05-06",
+  "source_sha256": "fd76d0be244ef39b4d0fcb47572004dadf72811dc06260cb41981c439e4311fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024073&param=informatie",
+  "as_of": "2014-05-06",
+  "made": "2014-04-04",
+  "gazette": "2014-05-05",
+  "numac": 2014035429,
+  "document_start": "2014-05-06",
+  "document_end": null,
+  "in_force": "2014-05-06",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2014-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
