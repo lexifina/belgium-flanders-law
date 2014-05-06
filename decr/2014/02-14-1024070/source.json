@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024070,
+  "title": "Decreet van 2014-02-14 tot wijziging van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het Energiedecreet van 8 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024070/VolledigDocument?datum=2014-05-06",
+  "source_sha256": "0f68463e40658458c444d813e0a36cf626a49d232c2c1f1acaa77c63d4a5644d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024070&param=informatie",
+  "as_of": "2014-05-06",
+  "made": "2014-02-14",
+  "gazette": "2014-05-05",
+  "numac": 2014035294,
+  "document_start": "2014-05-06",
+  "document_end": null,
+  "in_force": "2014-05-06",
+  "article_versions": 44,
+  "record_form": "consolidated version as in force on 2014-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
