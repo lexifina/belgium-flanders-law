@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024053,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-21 tot erkenning van de beroepskwalificatie torenkraanbestuurder",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024053/VolledigDocument?datum=2014-05-09",
+  "source_sha256": "ae32809a45c0431d92dd6420ac42638a670dcd49e3364b451e4418000dc3b3d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024053&param=informatie",
+  "as_of": "2014-05-09",
+  "made": "2014-02-21",
+  "gazette": "2014-04-29",
+  "numac": 2014035333,
+  "document_start": "2014-05-09",
+  "document_end": null,
+  "in_force": "2014-05-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
