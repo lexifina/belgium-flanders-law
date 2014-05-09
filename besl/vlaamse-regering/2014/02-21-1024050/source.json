@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024050,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-21 tot erkenning van de beroepskwalificatie ontwerper kleding- en confectieartikelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024050/VolledigDocument?datum=2014-05-09",
+  "source_sha256": "545d2d1dc8fab33326c5e27d1f3ba31b6cca0f16461c06093aa62de8fe71745c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024050&param=informatie",
+  "as_of": "2014-05-09",
+  "made": "2014-02-21",
+  "gazette": "2014-04-29",
+  "numac": 2014035334,
+  "document_start": "2014-05-09",
+  "document_end": "2020-05-24",
+  "in_force": "2014-05-09",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
