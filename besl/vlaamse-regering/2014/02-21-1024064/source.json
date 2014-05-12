@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024064,
+  "title": "Besluit van de Vlaamse Regering van 2014-02-21 tot erkenning van de beroepskwalificatie ontwikkelaar patronen kleding- en confectieartikelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024064/VolledigDocument?datum=2014-05-12",
+  "source_sha256": "bc78b1109ececc1159a7d6f3e0981a125c10ab61c40e4ead264d65df1906b3b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024064&param=informatie",
+  "as_of": "2014-05-12",
+  "made": "2014-02-21",
+  "gazette": "2014-05-02",
+  "numac": 2014035335,
+  "document_start": "2014-05-12",
+  "document_end": null,
+  "in_force": "2014-05-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
