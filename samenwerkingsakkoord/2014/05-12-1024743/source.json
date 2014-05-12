@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024743,
+  "title": "Samenwerkingsakkoord van 2014-05-12 inzake dak- en thuisloosheid",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024743/VolledigDocument?datum=2014-05-12",
+  "source_sha256": "e7532b9d1bf1c163bbf5adefc206adec3549c3b2ff196297a2c98c43cd084a19",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024743&param=informatie",
+  "as_of": "2014-05-12",
+  "made": "2014-05-12",
+  "gazette": "2014-11-10",
+  "numac": 2014206010,
+  "document_start": "2014-05-12",
+  "document_end": null,
+  "in_force": "2014-05-12",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2014-05-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
