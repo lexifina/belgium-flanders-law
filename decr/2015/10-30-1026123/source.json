@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026123,
+  "title": "Decreet van 2015-10-30 houdende instemming met het zetelakkoord tussen het Koninkrijk België en het Internationaal Instituut voor Democratie en Electorale Bijstand, ondertekend te Brussel op 15 mei 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026123/VolledigDocument?datum=2014-05-15",
+  "source_sha256": "185aca4314764f926a69e2f094144af94e329224139e98a9ad03426fed1f0bcc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026123&param=informatie",
+  "as_of": "2014-05-15",
+  "made": "2015-10-30",
+  "gazette": "2015-11-26",
+  "numac": 2015036445,
+  "document_start": "2014-05-15",
+  "document_end": null,
+  "in_force": "2014-05-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-05-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
