@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024076,
+  "title": "Ministerieel besluit van 2014-02-07 betreffende de vaststelling en verdeling van de subsidies voor lokale kinderarmoedebestrijding",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024076/VolledigDocument?datum=2014-05-17",
+  "source_sha256": "dad8b2130b4592a32f0bb5090ff23ca442775c1b4bdffe10469a9f3f1fc468c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024076&param=informatie",
+  "as_of": "2014-05-17",
+  "made": "2014-02-07",
+  "gazette": "2014-05-07",
+  "numac": 2014035368,
+  "document_start": "2014-05-17",
+  "document_end": null,
+  "in_force": "2014-05-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
