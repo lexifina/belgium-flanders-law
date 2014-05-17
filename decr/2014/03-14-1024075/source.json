@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024075,
+  "title": "Decreet van 2014-03-14 houdende instemming met het samenwerkingsakkoord van 24 september 2013 tussen de Federale Staat, de Gemeenschappen en de Gewesten, over de vertegenwoordiging van het Koninkrijk België in het Internationaal Agentschap voor hernieuwbare energie (IRENA) en over de financiële bijdragen aan deze organisatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024075/VolledigDocument?datum=2014-05-17",
+  "source_sha256": "3afe0db933ad4adb25a4e537c344c716aac6372430483ac94f87d6959e8555a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024075&param=informatie",
+  "as_of": "2014-05-17",
+  "made": "2014-03-14",
+  "gazette": "2014-05-07",
+  "numac": 2014035372,
+  "document_start": "2014-05-17",
+  "document_end": null,
+  "in_force": "2014-05-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
