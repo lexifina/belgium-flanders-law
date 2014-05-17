@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024077,
+  "title": "Ministerieel besluit van 2014-02-20 houdende de bepaling van de procedure voor tussentijds instappen voor steden of gemeenten die bij de aanvang van de strategische meerjarenplanning 2014-2019 nog niet in aanmerking kwamen voor een lokale integratiesubsidie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024077/VolledigDocument?datum=2014-05-17",
+  "source_sha256": "00abdd0f230959d761ec5e82af9579908d6471b744b9569241982c55829fc941",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024077&param=informatie",
+  "as_of": "2014-05-17",
+  "made": "2014-02-20",
+  "gazette": "2014-05-07",
+  "numac": 2014035326,
+  "document_start": "2014-05-17",
+  "document_end": null,
+  "in_force": "2014-05-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-05-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
