@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024420,
+  "title": "Samenwerkingsakkoord van 2014-05-22 tussen de Federale Staat, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies tot organisatie van de publicatie van de maandelijkse en de kwartaalbegrotingsgegevens en tot aanduiding van de onafhankelijke instelling belast met de evaluatie van de begrotingsprognoses",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024420/VolledigDocument?datum=2014-05-22",
+  "source_sha256": "16ffafcaeccd32a8504090bb62cf9a56ea1fc3dafd67fc8ddc6440fe287b2f05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024420&param=informatie",
+  "as_of": "2014-05-22",
+  "made": "2014-05-22",
+  "gazette": "2014-08-18",
+  "numac": 2014204146,
+  "document_start": "2014-05-22",
+  "document_end": null,
+  "in_force": "2014-05-22",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
