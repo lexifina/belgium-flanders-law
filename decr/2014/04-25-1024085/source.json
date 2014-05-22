@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024085,
+  "title": "Decreet van 2014-04-25 houdende het rechtsherstel van ruimtelijke uitvoeringsplannen waarvan de planmilieueffectrapportage werd opgesteld met toepassing van het besluit van de Vlaamse Regering van 18 april 2008 betreffende het integratiespoor voor de milieueffectrapportage over een ruimtelijk uitvoeringsplan",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024085/VolledigDocument?datum=2014-05-22",
+  "source_sha256": "625597326c14ac5b3526afa1726b13dbcc4241f822df0e68af45bbb8b70d8ed2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024085&param=informatie",
+  "as_of": "2014-05-22",
+  "made": "2014-04-25",
+  "gazette": "2014-05-12",
+  "numac": 2014035516,
+  "document_start": "2014-05-22",
+  "document_end": null,
+  "in_force": "2014-05-22",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2014-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
