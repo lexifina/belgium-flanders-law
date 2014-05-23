@@ -2,16 +2,16 @@
   "codex_id": 1024094,
   "title": "Ministerieel besluit van 2014-03-17 betreffende de verdeling van de Gewestwaarborg toegestaan in 2014 aan de erkende kredietmaatschappijen voor de aflossing van de hoofdsom en de interesten van de kredieten bestemd voor de financiering van sociale leningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024094/VolledigDocument?datum=2014-03-17",
-  "source_sha256": "6e65302301a1da97e4343068a89dbbf5dc1c2d9d45c34614cc3d404a3ced28a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024094/VolledigDocument?datum=2014-05-23",
+  "source_sha256": "7ad262d8e5365c8b6280044bae8ebba53d5a4e8194a345a2a1f413b8196c66eb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024094&param=informatie",
-  "as_of": "2014-03-17",
+  "as_of": "2014-05-23",
   "made": "2014-03-17",
   "gazette": "2014-05-15",
   "numac": 2014035407,
   "document_start": "2014-03-17",
   "document_end": null,
-  "in_force": "2014-03-17",
+  "in_force": "2014-05-23",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2014-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-05-23; future article versions excluded; article text as the API gives it"
 }
