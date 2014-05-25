@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde wijze, conform de technische normen, ter beschikking gesteld van de gemeente door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, hierna het departement te noemen.
+Alle gemeenten leggen een vergunningenregister aan op geïnformatiseerde   wijze, conform de technische normen, ter beschikking gesteld van de gemeente   door het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed,   hierna het departement te noemen.<BR><BR>Meldingen en vergunningen waarvan de   gegevens, vermeld in artikel 5.1.2 van de Vlaamse Codex Ruimtelijke Ordening,   zijn opgenomen in het uitwisselingsplatform, vermeld in artikel 2 van het   besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van   het ruimtelijke vergunningenbeleid conform de bepalingen van het voormelde   besluit, maken integraal en automatisch deel uit van het   vergunningenregister.
 
 ### ART. 2.
 
@@ -12,7 +12,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, wordt gemachtigd om m
 
 ### ART. 3.
 
-Op verzoek van de ambtenaren van ruimtelijke ordening als vermeld in   artikel 1.4.1, 1.4.3 en 1.4.4 van de Vlaamse Codex Ruimtelijke Ordening drukt de   gemeente uittreksels uit het vergunningenregister af en bezorgt ze   hen.<BR><BR>Voor 15 januari en 15 juli van elk jaar bezorgt de gemeente aan de   gewestelijke stedenbouwkundige ambtenaar ofwel aangetekend, ofwel tegen   ontvangstbewijs een digitaal afschrift van de wijzigingen die gedurende de   voorbije zes maanden in het vergunningenregister aangebracht zijn, conform de   technische normen met betrekking tot het uitwisselingsformaat, ter beschikking   gesteld van de gemeente door het departement. Voor 15 januari bezorgt de   gemeente de wijzigingen van de maanden juli tot en met december. Voor 15 juli   bezorgt de gemeente de wijzigingen van de maanden januari tot en met   juni.
+Op verzoek van de ambtenaren van ruimtelijke ordening als vermeld in   artikel 1.4.1, 1.4.3 en 1.4.4 van de Vlaamse Codex Ruimtelijke Ordening drukt de   gemeente uittreksels uit het vergunningenregister af en bezorgt ze   hen.<BR><BR>Voor 15 januari en 15 juli van elk jaar bezorgt de gemeente aan de   gewestelijke stedenbouwkundige ambtenaar ofwel aangetekend, ofwel tegen   ontvangstbewijs een digitaal afschrift van de wijzigingen die gedurende de   voorbije zes maanden in het vergunningenregister aangebracht zijn, conform de   technische normen met betrekking tot het uitwisselingsformaat, ter beschikking   gesteld van de gemeente door het agentschap. Voor 15 januari bezorgt de gemeente   de wijzigingen van de maanden juli tot en met december. Voor 15 juli bezorgt de   gemeente de wijzigingen van de maanden januari tot en met juni.<BR><BR>Het   eerste en tweede lid zijn niet van toepassing op de meldingen en vergunningen,   vermeld in artikel 1, tweede lid.
 
 ## HOOFDSTUK II DE OPMAAK VAN HET EERSTE VERGUNNINGENREGISTER
 
