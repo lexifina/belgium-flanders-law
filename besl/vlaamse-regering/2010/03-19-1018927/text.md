@@ -12,7 +12,7 @@ Het stedenbouwkundig attest doet een uitspraak op stedenbouwkundig en ruimtelijk
 
 ### ART. 2.
 
-§ 1. Het stedenbouwkundig attest wordt aangevraagd door middel van het formulier, gevoegd als bijlage I bij dit besluit, en de bewijsstukken, vermeld op dit formulier, in tweevoud te bezorgen aan het bevoegde vergunningverlenende bestuursorgaan. Die overheid kan bijkomende exemplaren eisen, om de adviezen, bedoeld in artikel 3, § 1, in te winnen.<br /><br />§ 2. De aanvraag gebeurt per aangetekend schrijven, via afgifte tegen ontvangstbewijs of op de wijze vermeld in paragraaf 3 en 4 van dit artikel.<br /><br />§ 3. Gemeenten kunnen bepalen dat de aanvraagdocumenten geheel of gedeeltelijk elektronisch kunnen worden ingediend.<br /><br />§ 4. Aanvragen bij de Vlaamse Regering, de gedelegeerde stedenbouwkundige ambtenaar of de gewestelijke stedenbouwkundige ambtenaar kunnen elektronisch worden ingediend.<br /><br />De website van het beleidsveld ruimtelijke ordening geeft hierover nadere aanwijzingen.<br /><br />
+§ 1. In dit artikel wordt verstaan onder omgevingsloket: het   omgevingsloket, vermeld in artikel 2 van het besluit van de Vlaamse Regering van   4 april 2014 houdende de digitalisering van het ruimtelijke   vergunningenbeleid.&nbsp;<BR><BR>Het stedenbouwkundig attest wordt aangevraagd   door middel van het formulier, gevoegd als bijlage I bij dit besluit, en de   bewijsstukken, vermeld op dit formulier, in tweevoud te bezorgen aan het   bevoegde vergunningverlenende bestuursorgaan. Die overheid kan bijkomende   exemplaren eisen, om de adviezen, bedoeld in artikel 3, § 1, in te   winnen.<BR><BR>Als de aanvraag ingediend wordt via het omgevingsloket conform de   bepalingen van het besluit van de Vlaamse Regering van 4 april 2014 houdende de   digitalisering van het ruimtelijke vergunningenbeleid, wordt de aanvraag alleen   in enkelvoud ingediend en kunnen geen bijkomende exemplaren worden   geëist.<BR><BR>§ 2. De aanvraag gebeurt per aangetekend schrijven, via afgifte   tegen ontvangstbewijs of via het omgevingsloket conform de bepalingen van het   besluit van de Vlaamse Regering van 4 april 2014 houdende de digitalisering van   het ruimtelijke vergunningenbeleid.<BR><BR>§ 3. ...<BR><BR>§ 4.   ...<BR><BR>
 
 ### ART. 3.
 
@@ -54,7 +54,7 @@ Met behoud van de mogelijkheid om op grond van het decreet van 26 maart 2004 bet
 
 ### ART. 11.
 
-Aan een elektronisch ingediende aanvraag tot stedenbouwkundig attest of projectvergadering worden de aanvraagdocumenten toegevoegd, in PDF-formaat (Portable Document Formaat) (Adobe Systems Incorporated, goedgekeurd door ISO als ISO 15930 en ISO 19005). Alle bestanden moeten virusvrij en kopieerbaar zijn en geopend en gelezen kunnen worden. De resolutie voor de bestanden moet toelaten dat afdrukken op het overeenkomstige papierformaat voldoende scherp zijn. Telkens wanneer dit besluit of zijn bijlagen een handtekening vereisen, moet het betrokken document ofwel een gewone handtekening omvatten en ingescand worden, ofwel een elektronische handtekening omvatten.<br /><br />
+...<BR><BR>
 
 ### ART. 12.
 

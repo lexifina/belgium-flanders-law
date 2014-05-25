@@ -2,16 +2,16 @@
   "codex_id": 1018927,
   "title": "Besluit van de Vlaamse Regering van 2010-03-19 betreffende stedenbouwkundige attesten [...] en stedenbouwkundige inlichtingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018927/VolledigDocument?datum=2013-04-29",
-  "source_sha256": "643cad2d44b864016d8e0b4ac78c92e61a74fba5f181db80b5df39690dc74681",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018927/VolledigDocument?datum=2014-05-25",
+  "source_sha256": "ceb58733ab2a9999b38861a0672d954792e090d3c8207b0be6af0c7ebc450745",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018927&param=informatie",
-  "as_of": "2013-04-29",
+  "as_of": "2014-05-25",
   "made": "2010-03-19",
   "gazette": "2010-04-13",
   "numac": 2010035244,
   "document_start": "2010-04-01",
   "document_end": null,
-  "in_force": "2013-04-29",
+  "in_force": "2014-05-25",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2013-04-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-05-25; future article versions excluded; article text as the API gives it"
 }
