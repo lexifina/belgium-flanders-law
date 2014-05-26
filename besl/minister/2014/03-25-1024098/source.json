@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024098,
+  "title": "Ministerieel besluit van 2014-03-25 houdende nadere regels voor de staalnames van groenteteelten die uitgevoerd moeten worden om de afwijking van het bemestingsverbod, vermeld in artikel 13, § 14, van het Mestdecreet van 22 december 2006, te verkrijgen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024098/VolledigDocument?datum=2014-05-26",
+  "source_sha256": "1d71f93c8bbf841fca1eb2b77f04f6f84ea0a61e75defa8f77e7aa6002ff7797",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024098&param=informatie",
+  "as_of": "2014-05-26",
+  "made": "2014-03-25",
+  "gazette": "2014-05-16",
+  "numac": 2014202525,
+  "document_start": "2014-05-26",
+  "document_end": null,
+  "in_force": "2014-05-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
