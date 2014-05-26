@@ -1,0 +1,81 @@
+# Ministerieel besluit van 2014-05-26 houdende de uitvoering van het besluit van de Vlaamse Regering van 24 april 2009 tot samenstelling van een stakeholdersplatform `stimulering van e-invoicing en e-government bij Vlaamse ondernemers' en projectsubsidiëring aan de leden van het stakeholdersplatform
+
+### Aanhef
+
+<P>De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en   Plattelandsbeleid,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 20;<BR></P>  <P>Gelet op het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid, artikel 25 en 26;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 24 april 2009 tot toekenning   van steun aan projecten ter bevordering van het ondernemerschap, artikel 2 tot   en met 22; gewijzigd bij het besluit van de Vlaamse Regering van 25 mei   2012;<BR></P>  <P>Gelet op het akkoord van de Inspectie van Financiën, gegeven op 1 april   2014;<BR></P>  <P>Gelet op de wetten op de Raad van State, gecoördineerd op 12 januari 1973,   artikel 3, § 1;<BR></P>  <P>Gelet op de dringende noodzakelijkheid;<BR></P>  <P>Overwegende dat Vlaanderen overeenkomstig het Vlaams Regeerakkoord 2009-2014   de ambitie heeft om tegen 2020 een topregio te zijn in Europa, zowel op   economisch, ecologisch als sociaal vlak; dat om die ambitie waar te maken, een   transformatie van ons economisch weefsel en een versterking van onze   maatschappelijke troeven noodzakelijk zijn; dat het beleid van de Vlaamse   Regering zich zal oriënteren op de concrete doelstellingen in het Pact 2020, dat   gesteund wordt door alle maatschappelijke krachten; dat dit plan nu in praktijk   gebracht moet worden met reële projecten en flankerend beleid;<BR></P>  <P>Overwegende dat door de ernstige impact van de mondiale economische crisis op   de Vlaamse economie de bevordering van het ondernemerschap dringend concreet   ingevuld moet worden;<BR></P>  <P>Overwegende dat door de aanhoudende zwakke economische conjunctuur het   aanzwengelen van het ondernemerschap in het algemeen een absolute topprioriteit   is en dat die maatregel past in het perspectief van het actieplan Vlaanderen in   Actie;<BR></P>  <P>Overwegende dat de subsidie in het kader van het besluit van de Vlaamse   Regering van 24 april 2009, gewijzigd bij besluit van de Vlaamse Regering van 25   mei 2012, tot toekenning van steun aan projecten ter bevordering van het   ondernemerschap kan worden toegekend volgens een wedstrijdformule, waarbij via   een oproep die periodiek wordt georganiseerd, een subsidie-enveloppe wordt   verdeeld over de best gerangschikte kandidaten;<BR></P>  <P>Overwegende dat de projecten in het kader van die oproep pas kunnen starten   nadat de subsidieaanvraag ingediend is, en dat er zo snel mogelijk van start   gegaan moet worden met de aanvaarde en gesubsidieerde projecten;<BR></P>  <P>Overwegende dat om die redenen dit besluit dringend in werking moet   treden,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+Voor de toepassing van dit besluit wordt verstaan onder besluit van de   Vlaamse Regering van 24 april 2009: besluit van de Vlaamse Regering van 24 april   2009 tot toekenning van steun aan projecten ter bevordering van het   ondernemerschap.<BR>
+
+### ART. 2.
+
+Ter uitvoering van hoofdstuk III van het besluit van de Vlaamse Regering   van 24 april 2009 bevat dit besluit een oproep tot kandidaatstelling voor   lidmaatschap van het stakeholdersplatform `stimulering van e-invoicing en   e-government bij Vlaamse ondernemers'.<BR>
+
+### ART. 3.
+
+Aan de geselecteerde platformleden zal de mogelijkheid worden geboden   projectvoorstellen in te dienen die via een onderhandelingsprocedure en mits   goedkeuring door het stakeholdersplatform, kunnen leiden tot subsidiabele   projecten.<BR>
+
+### ART. 4.
+
+De specifieke doelstelling van het stakeholdersplatform is gericht op   acties inzake het stimuleren van e-invoicing en e-government bij Vlaamse   ondernemers, waarbij de nadruk wordt gelegd op het elektronisch factureren naar   overheden. De mogelijke acties worden verduidelijkt in de handleiding die als   bijlage 1 bij dit besluit is gevoegd en er integraal deel van   uitmaakt.<BR>
+
+### ART. 5.
+
+Enkel projecten die ten goede komen aan het ondernemerschap in het Vlaamse   Gewest komen in aanmerking voor steun.<BR>
+
+### ART. 6.
+
+<P>§ 1. De datum van de start van de informatiecampagne wordt gezamenlijk door   alle leden van het stakeholdersplatform bepaald. Indien er geen unanimiteit kan   bereikt worden, wordt de datum bepaald door de Adminstrateur-Generaal van het   Agentschap Ondernemen. De informatiecampagne start uiterlijk één jaar na het   begin van de indieningstermijn van deze oproep.<BR></P>  <P>De kosten die door de indiener gemaakt worden voor de datum van de indiening   van het definitieve project komen niet in aanmerking voor subsidie.<BR></P>  <P>§ 2. Twee jaar na de start van de informatiecampagne worden alle   deelprojecten beëindigd en worden er geen leads meer uitbetaald voor ondernemers   die effectief gebruik maken van e-invoicing bij facturatie naar een Vlaamse   administratie.<BR></P>  <P>§ 3. Eén jaar na de start van de informatiecampagne wordt de samenstelling   van het platform, de benutting en toewijzing van de financiële middelen en de   mate waarin de platformwerking heeft bijgedragen tot de uitrol van elektronische   facturatie van bedrijven naar overheden in Vlaanderen   geëvalueerd.<BR></P>
+
+### ART. 7.
+
+<P>§ 1. Het lidmaatschap van het stakeholdersplatform en het bijwonen van de   bijeenkomsten ervan komen niet in aanmerking voor subsidiëring.<BR></P>  <P>Voor de indiening van projectvoorstellen door de leden van het   stakeholdersplatform wordt de subsidie-enveloppe vastgesteld op maximaal 400.000   euro. Dat bedrag wordt vastgelegd op rubriek 33.06 van het Fonds voor Flankerend   Economisch Beleid voor het begrotingsjaar 2013.<BR></P>  <P>§ 2. Daarnaast voorziet het Agentschap Ondernemen de nodige middelen voor het   opmaken van brochures, webteksten en -applicaties en   presentaties.<BR></P>
+
+### ART. 8.
+
+<P>§ 1 De subsidie per aanvrager bedraagt maximaal 200.000 euro.<BR></P>  <P>§ 2. De aanvaardbare kosten worden vermeld in de controlerichtlijnen die als   bijlage 5 gevoegd zijn bij dit besluit en er integraal deel van   uitmaken.<BR></P>  <P>§ 3. Als personeelsleden, van wie kosten worden ingebracht in het project, in   dezelfde periode ook nog werkzaam zijn of zullen zijn op andere gesubsidieerde   projecten van om het even welke overheid of op projecten waarvoor kosten zullen   worden gefactureerd aan derden, moet een overzicht worden toegevoegd van de tijd   die door het personeelslid in die periode aan elk van die andere projecten zal   worden besteed. Er kan slechts maximum 100 % van het loon over de verschillende   projecten heen worden toegewezen. Hetzelfde principe geldt voor de andere   kostenrubrieken, vermeld in artikel 10, § 4 van het besluit van de Vlaamse   Regering van 24 april 2009.<BR></P>
+
+### ART. 9.
+
+<P>Alleen privaatrechtelijke entiteiten komen in aanmerking voor lidmaatschap   aan het stakeholdersplatform.<BR></P>  <P>Publiekrechtelijke entiteiten en erkende Vlaamse onderwijsinstellingen kunnen   geen aanvraag indienen.<BR></P>  <P>In het kader van deze oproep worden entiteiten beschouwd als publiek als ze   worden beschouwd als een administratieve overheid, zoals vermeld in artikel 14   van de wetten op de Raad van State, gecoördineerd op 12 januari 1973. Daarbij   worden volgende criteria en indicaties ter beoordeling gehanteerd:<BR>- het feit   of de indiener opgericht of erkend is door de overheid;<BR>- het feit of de   indiener de bevoegdheid heeft om op éénzijdige wijze voor derden bindende   beslissingen uit te vaardigen;<BR>- het feit of de indiener belast is met een   taak van algemeen belang of een taak van een openbare dienst;<BR>- het feit of   de indiener onder de controle of het toezicht valt van de overheid.<BR></P>  <P>De indiener moet beschikken over rechtspersoonlijkheid en een   inschrijvingsnummer hebben in de Kruispuntbank van Ondernemingen   (KBO).<BR></P>
+
+### ART. 10.
+
+<P>De kandidaatstelling voor het stakeholdersplatform moet ingediend worden op   het specifiek daarvoor ontworpen aanvraagformulier. Aan de kandidaat wordt   gevraagd om in zijn kandidaatstelling onder het luik `visie op zijn engagementen   in het kader van het stakeholderplatform' zijn ideale mix aan betoelaagde   infosessies, tools, sensibiliseringsacties en eventuele andere acties te   duiden.<BR></P>  <P>Zowel de elektronische als papieren versie van de kandidaatstelling als het   projectvoorstel moeten uiterlijk op 23 juli 2014, om 12 uur, in het bezit zijn   van het Agentschap Ondernemen. Bij het indienen van de subsidieaanvraag moet er   rekening gehouden worden met de bepalingen van de handleiding.<BR></P>  <P>Om de indieningsdatum te bepalen, geldt:<BR>1° bij afgifte: de datum en het   uur op het ontvangstbewijs;<BR>2° bij versturing per post: de postdatum;<BR>3°   bij verzending per e-mail: de datum en het uur van ontvangst op de servers van   het Agentschap Ondernemen.<BR></P>  <P>Het ingevulde aanvraagformulier voor de kandidaatstelling en het   projectvoorstel worden elektronisch doorgestuurd via mail naar   bert.stassen@agentschapondernemen.be. De aanvrager bezorgt daarnaast een   afgedrukte en ondertekende versie van deze documenten aan het Agentschap   Ondernemen door deze met de post op te sturen naar of af te geven bij het   Agentschap Ondernemen, Dienst `Contact Center', Vlaams Administratief Centrum   `Dirk Bouts', Diestsepoort 6, bus 31, 3000 Leuven.<BR></P>  <P>Het aanvraagformulier is vanaf de inwerkingtreding van dit besluit   beschikbaar bij het Agentschap Ondernemen, Dienst `Contact Center', Vlaams   Administratief Centrum `Dirk Bouts', Diestsepoort 6, bus 31, 3000   Leuven.<BR>e-mail info@agentschapondernemen.be<BR>website   http://www.agentschapondernemen.be/themas/oproep-ondernemerschap<BR></P>
+
+### ART. 11.
+
+<P>§ 1. Het Agentschap Ondernemen bepaalt de criteria voor de beoordeling van de   ontvankelijkheid van de ingediende kandidaatstellingen. Deze   ontvankelijkheidscriteria worden opgenomen in de handleiding. Alle ingediende   kandidaatstellingen worden getoetst aan deze ontvankelijkheidscriteria.<BR></P>  <P>§ 2. Kandidaatstellingen die niet ontvankelijk zijn, worden uitgesloten van   de verdere selectieprocedure.<BR></P>
+
+### ART. 12.
+
+De ontvankelijke aanvragen worden beoordeeld op basis van hun kwaliteit.   De prioriteitscriteria die hiertoe worden gehanteerd worden opgenomen in de   handleiding.<BR>
+
+### ART. 13.
+
+<P>§ 1. Het Agentschap Ondernemen bepaalt de samenstelling van de jury en de   wijze van jurering.<BR></P>  <P>§ 2. De bij de kandidaatstelling ingediende projectvoorstellen kunnen niet   als definitief beschouwd worden, maar zullen mits onderhandelingen en   goedkeuring door het platform verder uitgewerkt worden tot definitieve   projectvoorstellen. Er is dus geen garantie dat de bij de kandidaatstelling   ingediende projectvoorstellen weerhouden zullen worden voor   subsidiëring.<BR></P>
+
+### ART. 14.
+
+Een project kan negatief beoordeeld worden :<BR>1° indien de indiener in   het project niet voldoet aan andere verplichtingen of vergunningen vanwege de   overheid;<BR>2° indien de indiener in het project blijk heeft gegeven van   niet-correct gedrag naar aanleiding van vorige aanvragen, onder meer inzake   informatieverstrekking, inhoudelijke en financiële verplichtingen of   verslaggeving;<BR>3° indien de indiener op de indieningsdatum van de   steunaanvraag achterstallige schulden bij de Rijksdienst voor Sociale Zekerheid   hebben of een procedure op basis van Europees of nationaal recht lopen heeft   waarbij een toegekende steun wordt teruggevorderd.<BR>
+
+### ART. 15.
+
+<P>§ 1. De subsidie wordt uitbetaald in 4 schijven:<BR></P>  <P>De indieners kunnen een uitbetaling van een schijf vragen op:<BR>a) zes   maanden na de start van de communicatie-acties;<BR>b) bij de tussentijdse   rapportage één jaar na de start van de communicatie-acties;<BR>c) 18 maanden na   de start van de communicatie-acties;<BR>d) bij het afsluiten van de   communicaties-acties en het stakeholdersplatform.<BR>op voorwaarde dat :<BR>a)   de indiener de uitbetaling van de schijf aanvraagt;<BR>b) de indiener een   overzicht van de gemaakte kosten in het kader van in het jaarplan van het   stakeholderplatform opgenomen infosessies, sensibiliseringsacties,   ontwikkelingskosten van gezamenlijk te gebruiken tools of grote gezamenlijke   acties indient;<BR>c) de indiener een voortgangs- of desgevallend eindverslag   indient.<BR></P>  <P>Bij de aanvraag van de laatste schijf wordt ook een financieel rapport   toegevoegd en een positief inspectieverslag van het Agentschap Ondernemen. Het   financieel rapport geeft een overzicht van de inkomsten en uitgaven gemaakt in   het kader van het project.<BR></P>  <P>§ 2. Voor het installeren van aanspreekpunten bij de stakeholders en de   stimulatie van leden om gebruik te maken van e-invoicing wordt een maximaal   subsidiebedrag van 75.000 euro per jaar voor alle platformleden samen voorzien,   met de volgende limieten:<BR>a) Maximaal 150.000 euro voor de volledige periode   van twee jaar;<BR>b) Per stakeholder maximaal 75 euro per ondernemer die:<BR>i.   En effectief een factuur verzend naar een Vlaamse overheidsdienst<BR>ii. En bij   de registratie aangeeft dat hij omtrent het gebruik van e-invoicing geïnformeerd   werd door één van de stakeholders.<BR>c) Per stakeholder maximaal 50 % van het   beschikbare jaarbudget<BR></P>  <P>De factuur moet naar één van de diensten van de Vlaamse overheid of een   Vlaamse instelling worden verzonden in het kader van een overheidsopdracht.   Andere betalingsaanvragen zoals subsidies, zitpenningen, onkostenvergoedingen   voor overheidspersoneel, ... komen niet in aanmerking.<BR></P>  <P>Er zijn geen beperkingen wat betreft de vennootschapsvorm (of éénmanszaak),   grootte of activiteit van de facturerende onderneming.<BR></P>  <P>Het Agentschap Ondernemen zal samen met het Departement Bestuurszaken   regelmatig de voorgang van de registratie van ondernemingen en het elektronisch   factureren rapporteren naar de stakeholders. Op het einde van iedere periode van   zes maanden na de start van de informatiecampagne wordt aan elke stakeholder   gerapporteerd hoeveel ondernemingen bij hun registratie hebben aangegeven   hierbij door hem begeleid te zijn en hoeveel van deze ondernemingen er effectief   gebruik hebben gemaakt van elektronische facturatie naar een Vlaamse   overheidsdienst.<BR></P>
+
+### ART. 16.
+
+De richtlijnen met betrekking tot het gebruik van de namen en logo's van   het Agentschap Ondernemen en `Vlaanderen In Actie' gaan als bijlage 3 bij dit   besluit en maken er integraal deel van uit.<BR>
+
+### ART. 17.
+
+Het Agentschap Ondernemen kan vanaf de indiening van de subsidieaanvraag   op elk moment controleren of de voorwaarden van het decreet van 16 maart 2012,   van het besluit van de Vlaamse Regering van 24 april 2009 en dit   uitvoeringsbesluit worden nageleefd. Die controle kan, afhankelijk van het feit   of de steun al dan niet werd toegekend, het gevolg hebben dat de subsidie wordt   geweigerd, dan wel niet wordt uitbetaald of wordt   teruggevorderd.<BR>
+
+### ART. 18.
+
+<P>De steun kan geheel of gedeeltelijk teruggevorderd worden indien de   uiteindelijke kostprijs van het project kleiner is dan aanvankelijk werd begroot   of aanvaard.<BR></P>  <P>Het Agentschap Ondernemen kan beslissen om niet over te gaan tot de   uitbetaling van de subsidie, dan wel om de uitbetaling van de subsidie stop te   zetten en de terugbetaling te eisen indien één van de volgende gevallen zich   voordoet:<BR>1° het project voldoet niet aan alle bepalingen zoals vermeld in de   oproep;<BR>2° de subsidie wordt niet aangewend voor de doeleinden waarvoor ze is   verleend;<BR>3° de begunstigde verhindert of belemmert de controle;<BR>4° het   project werd onvolledig uitgevoerd of voortijdig stopgezet waardoor het   vooropgestelde resultaat niet werd bereikt.<BR></P>
+
+### ART. 19.
+
+Dit besluit treedt in werking op de datum van de ondertekening   ervan.<BR>
