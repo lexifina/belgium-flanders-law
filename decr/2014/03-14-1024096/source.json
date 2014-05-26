@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024096,
+  "title": "Decreet van 2014-03-14 houdende instemming met de wijziging van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering, aangenomen in Doha op 8 december 2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024096/VolledigDocument?datum=2014-05-26",
+  "source_sha256": "ba92a554822d877cb2a6268a08c42a5c6709ecb6bfb31ca82822730aa6ed75ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024096&param=informatie",
+  "as_of": "2014-05-26",
+  "made": "2014-03-14",
+  "gazette": "2014-05-16",
+  "numac": 2014035385,
+  "document_start": "2014-05-26",
+  "document_end": null,
+  "in_force": "2014-05-26",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
