@@ -118,4 +118,4 @@ Het attest moet volgende gegevens bevatten :<br />1° gegevens over kredietnemer
 
 ### BIJLAGE 5.
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/09/09_1.pdf#page=28">bijlage   5</A>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/11_1.pdf#page=85">Bijlage   5</A></P>
