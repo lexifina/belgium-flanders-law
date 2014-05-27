@@ -48,7 +48,7 @@ Dit besluit treedt in werking op de eerste dag van de maand die volgt op de maan
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:80.8pt">
-			<p>Te onderzoeken alternatieve systemen<!--?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>Te onderzoeken alternatieve systemen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:52.05pt">
 			<p>&nbsp;</p>
@@ -572,7 +572,7 @@ Dit besluit treedt in werking op de eerste dag van de maand die volgt op de maan
 <p>&nbsp;</p>
 
 <p>(1) Stads-/blokverwarming of -koeling wordt geacht beschikbaar te zijn binnen de zones aangegeven door het Vlaams energieagentschap op www.energiesparen.be.<br>
-(2) Indien verschillende gebouwen &gt; 1000 m2 onderwerp uitmaken van dezelfde bouwvergunningsaanvraag, dient men uit te gaan van de totale bruikbare vloeroppervlakte van het gehele bouwproject opgenomen in de bouwvergunningsaanvraag.<br>
+(2) Indien verschillende gebouwen&nbsp;&lt; 1000 m2 onderwerp uitmaken van dezelfde bouwvergunningsaanvraag, dient men uit te gaan van de totale bruikbare vloeroppervlakte van het gehele bouwproject opgenomen in de bouwvergunningsaanvraag.<br>
 <br>
 &nbsp;</p>
 
