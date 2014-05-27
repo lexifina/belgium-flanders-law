@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024395,
+  "title": "Ministerieel besluit van 2014-05-27 tot wijziging van bijlage 5 van het ministerieel besluit van 13 januari 2012 tot uitvoering van bepaalde procedurele aspecten van het Vijfde Waarborgbesluit van 16 december 2011",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024395/VolledigDocument?datum=2014-05-27",
+  "source_sha256": "7b21790b2ddb09f0f33eb160647af08c07252553ff9d923eaea2e62f896300a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024395&param=informatie",
+  "as_of": "2014-05-27",
+  "made": "2014-05-27",
+  "gazette": "2014-08-11",
+  "numac": 2014035766,
+  "document_start": "2014-05-27",
+  "document_end": null,
+  "in_force": "2014-05-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
