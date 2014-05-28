@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024114,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-14 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de aanpassing van de rechtsbescherming van de klokkenluiders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024114/VolledigDocument?datum=2014-05-28",
+  "source_sha256": "ba2959873c8e25972f2f6ce68ee808cf0eaad1aa0dd2b2f982d1e1316ae6656a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024114&param=informatie",
+  "as_of": "2014-05-28",
+  "made": "2014-03-14",
+  "gazette": "2014-05-28",
+  "numac": 2014202084,
+  "document_start": "2014-05-28",
+  "document_end": null,
+  "in_force": "2014-05-28",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-05-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
