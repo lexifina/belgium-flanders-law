@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024103,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot opheffing van de Polder van Stabroek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024103/VolledigDocument?datum=2014-05-30",
+  "source_sha256": "d8db6d8995a6b6bacacd4501a2a4de69e37e541526b9ef0fcc5a79918282d826",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024103&param=informatie",
+  "as_of": "2014-05-30",
+  "made": "2014-03-21",
+  "gazette": "2014-05-20",
+  "numac": 2014035434,
+  "document_start": "2014-05-30",
+  "document_end": null,
+  "in_force": "2014-05-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
