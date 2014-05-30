@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024104,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en tot wijziging van het besluit van de Vlaamse Regering van 10 maart 2006 houdende de vaststelling van de regels voor de scheiding tussen de gemeentelijke en bovengemeentelijke saneringsverplichting en de vaststelling van de zoneringsplannen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024104/VolledigDocument?datum=2014-05-30",
+  "source_sha256": "7d187a4b19892d90d3fbb4d0637be29f19ad98aa481123834d2b929b588e71b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024104&param=informatie",
+  "as_of": "2014-05-30",
+  "made": "2014-03-21",
+  "gazette": "2014-05-20",
+  "numac": 2014202497,
+  "document_start": "2014-05-30",
+  "document_end": null,
+  "in_force": "2014-05-30",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2014-05-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
