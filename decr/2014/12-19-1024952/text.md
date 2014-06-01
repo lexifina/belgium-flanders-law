@@ -62,6 +62,26 @@ Artikel 7, eerste lid, van dezelfde wet, gewijzigd bij de wetten van 21   maart 
 
 ## HOOFDSTUK 6. Bestuurlijke verandering van de inspectiediensten Werk en Sociale Economie
 
+### ART. 19.
+
+In artikel 3, punt 10°, van het decreet van 30 april 2004 tot   uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen   in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse   Gemeenschap en het Vlaamse Gewest bevoegd zijn, gewijzigd bij het decreet van 9   juli 2010, worden de woorden "afdeling Inspectie Werk en Sociale Economie"   vervangen door de woorden "Afdeling Toezicht en Handhaving".
+
+### ART. 20.
+
+In artikel 9, § 4, derde lid, van hetzelfde decreet, gewijzigd bij het   decreet van 9 juli 2010, worden de woorden "afdeling Inspectie Werk en Sociale   Economie" vervangen door de woorden "Afdeling Toezicht en Handhaving van het   Departement Werk en Sociale Economie".
+
+### ART. 21.
+
+In artikel 12, eerste lid, van hetzelfde decreet, gewijzigd bij het   decreet van 9 juli 2010, worden de woorden "afdeling Inspectie Werk en Sociale   Economie" vervangen door de woorden "Afdeling Toezicht en Handhaving van het   Departement Werk en Sociale Economie".
+
+### ART. 22.
+
+In artikel 17 van het decreet van 10 december 2010 betreffende de private   arbeidsbemiddeling, worden de woorden "afdeling Inspectie" vervangen door de   woorden "Afdeling Toezicht en Handhaving".
+
+### ART. 23.
+
+In artikel 20, § 4, van hetzelfde decreet worden de woorden "afdeling   inspectie" vervangen door de woorden "Afdeling Toezicht en Handhaving van het   Departement Werk en Sociale Economie".
+
 ## HOOFDSTUK 7. Pensioenfonds VRT
 
 ## HOOFDSTUK 8. Terugbetalingen van kunstenaarstoelagen
