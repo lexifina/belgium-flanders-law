@@ -106,7 +106,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 25.
 
-§ 1. Voor het beleidsdomein Werk en Sociale Economie wordt het Vlaams ministerie van Werk en Sociale Economie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid Vlaams Subsidieagentschap voor Werk en Sociale Economie. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Werk en Sociale Economie behoren, zijn : <br />1° Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding; <br />2° Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen; <br />3° ESF-Agentschap
+§ 1. Voor het beleidsdomein Werk en Sociale Economie wordt het Vlaams   Ministerie van Werk en Sociale Economie opgericht, dat bestaat uit het   gelijknamige departement. <BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Werk en Sociale Economie   behoren, zijn : <BR>1° Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding; <BR>2° Vlaams Agentschap voor Ondernemersvorming - Syntra   Vlaanderen; <BR>3° ESF-Agentschap
 
 ### ART. 26.
 
