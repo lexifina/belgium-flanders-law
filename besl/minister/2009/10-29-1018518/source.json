@@ -2,16 +2,16 @@
   "codex_id": 1018518,
   "title": "Ministerieel besluit van 2009-10-29 tot toekenning van een aanvullende delegatie aan de administrateur-generaal van het Vlaams Subsidieagentschap voor Werk en Sociale Economie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018518/VolledigDocument?datum=2009-09-15",
-  "source_sha256": "5513f5bb80ed7ea1aa004de1d733efc38f7b95125e0c2e9a371f9a03db334cc4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018518/VolledigDocument?datum=2014-06-01",
+  "source_sha256": "c31c82b84f32f8d6e79b814394c6c27b1622be22ee79c05bd4202a86d46b75a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018518&param=informatie",
-  "as_of": "2009-09-15",
+  "as_of": "2014-06-01",
   "made": "2009-10-29",
   "gazette": "2009-11-13",
   "numac": 2009205014,
   "document_start": "2009-09-15",
   "document_end": "2014-05-31",
-  "in_force": "2009-09-15",
+  "in_force": "2014-06-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2009-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-06-01; future article versions excluded; article text as the API gives it"
 }
