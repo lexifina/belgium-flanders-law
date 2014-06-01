@@ -2,16 +2,16 @@
   "codex_id": 1017142,
   "title": "Ministerieel besluit van 2007-09-10 houdende delegatie van specifieke bevoegdheden inzake de uitvoering van het beleid van evenredige arbeidsdeelname en diversiteit aan het hoofd van het departement Werk en Sociale Economie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017142/VolledigDocument?datum=2007-07-19",
-  "source_sha256": "d6c4c9da1adb2062f1c48022f80e33b2b7120b61be6c0f6e7280655b1c41e997",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017142/VolledigDocument?datum=2014-06-01",
+  "source_sha256": "39537c6067b8cea4e6d947e294ba0dc4677d3ec6aa4a6c16d4027946d1a35d58",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017142&param=informatie",
-  "as_of": "2007-07-19",
+  "as_of": "2014-06-01",
   "made": "2007-09-10",
   "gazette": "2008-10-09",
   "numac": 2008203546,
   "document_start": "2007-07-19",
   "document_end": "2014-05-31",
-  "in_force": "2007-07-19",
+  "in_force": "2014-06-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2007-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-06-01; future article versions excluded; article text as the API gives it"
 }
