@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024111,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 betreffende de toekenning door het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen van een subsidie aan Syntra Provincies Antwerpen en Vlaams-Brabant vzw inzake het verwerven, de nieuwbouw, of de verbouwing van gebouwen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024111/VolledigDocument?datum=2014-06-01",
+  "source_sha256": "3b2caf31d47805b45bb8111d74d2f9374af828c24ec9b34d795e05279fdf3e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024111&param=informatie",
+  "as_of": "2014-06-01",
+  "made": "2014-05-09",
+  "gazette": "2014-05-27",
+  "numac": 2014035541,
+  "document_start": "2014-06-01",
+  "document_end": null,
+  "in_force": "2014-06-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
