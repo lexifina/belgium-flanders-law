@@ -8,7 +8,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 ### ART. 2.
 
-§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1 decreet: het decreet basisonderwijs van 25 februari 1997;<br /><br />2 leerling: leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet of daar op grond van artikel 23 of 24 van afwijkt;<br /><br />3 norm voor de school als geheel: som van de normen voor de types die in de school worden georganiseerd;<br /><br />4 teldag: dag waarop de leerlingen, met toepassing van het decreet, worden geteld voor de programmatie en de rationalisatie;<br /><br />5 telperiode: periode waarin de leerlingen, met toepassing van het decreet, worden geteld voor de programmatie en rationalisatie in de scholen voor buitengewoon basisonderwijs van type 5;<br /><br />6 type van vrije keuze: type dat tegen gunstige programmatienormen kan worden opgericht als het binnen de provincie niet georganiseerd wordt in een school van dezelfde groep voor het type 1, 2, 3, 4 en/of 8, of in een school van dezelfde groep voor het type 6 en/of 7.<br /><br />§ 2. Voor de toepassing van dit besluit zijn de programmatie-, de rationalisatie- en de behoudsnormen voor scholen, types en vestigingsplaatsen in het tweetalig gebied Brussel-Hoofdstad die van gemeenten met minder dan 75 inwoners per km2.
+§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<BR>1   decreet: het decreet basisonderwijs van 25 februari 1997;<BR>2 leerling:   leerling die voldoet aan de bepalingen van de artikelen 20 en 21 van het decreet   of daar op grond van artikel 23 of 24 van afwijkt;<BR>3 norm voor de school als   geheel: som van de normen voor de types die in de school worden   georganiseerd;<BR>4 teldag: dag waarop de leerlingen, met toepassing van het   decreet, worden geteld voor de programmatie en de rationalisatie;<BR>5   telperiode: periode waarin de leerlingen, met toepassing van het decreet, worden   geteld voor de programmatie en rationalisatie in de scholen voor buitengewoon   basisonderwijs van type 5;<BR>6 type van vrije keuze: type dat tegen gunstige   programmatienormen kan worden opgericht als het binnen de provincie niet   georganiseerd wordt in een school van dezelfde groep.<BR><BR>§ 2. Voor de   toepassing van dit besluit zijn de programmatie-, de rationalisatie- en de   behoudsnormen voor scholen, types en vestigingsplaatsen in het tweetalig gebied   Brussel-Hoofdstad die van gemeenten met minder dan 75 inwoners per   km2.
 
 ## HOOFDSTUK 2 PROGRAMMATIE
 
@@ -48,6 +48,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>7</p>
 
 			<p>8</p>
+
+			<p>9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>15</p>
@@ -63,6 +65,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>9</p>
 
 			<p>15</p>
+
+			<p>11</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>20</p>
@@ -78,6 +82,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>12</p>
 
 			<p>20</p>
+
+			<p>14</p>
 
 			<p>&nbsp;</p>
 			</td>
@@ -122,7 +128,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>Type 8</p>
 
-			<p><em>(ing. B.V.R. 13 januari 2006, art. 1, I: 1 september 2005)</em><strong>]</strong></p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>5</p>
@@ -138,8 +144,12 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>5</p>
 
 			<p>5</p>
+
+			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>6</p>
+
 			<p>6</p>
 
 			<p>6</p>
@@ -215,6 +225,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 7</p>
 
 			<p>Type 8</p>
+
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
@@ -232,6 +244,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>30</p>
+
+			<p>21</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
@@ -249,6 +263,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>14</p>
 
 			<p>23</p>
+
+			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
@@ -266,6 +282,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>24</p>
 
 			<p>40</p>
+
+			<p>28</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
@@ -283,6 +301,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>30</p>
+
+			<p>21</p>
 			</td>
 		</tr>
 		<tr>
@@ -302,8 +322,12 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 7</p>
 
 			<p>Type 8</p>
+
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 
 			<p>34</p>
@@ -319,10 +343,14 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>20</p>
 
 			<p>34</p>
+
+			<p>24</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
 
+			<p>&nbsp;</p>
+
 			<p>23</p>
 
 			<p>16</p>
@@ -336,8 +364,12 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>14</p>
 
 			<p>23</p>
+
+			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 
 			<p>45</p>
@@ -353,8 +385,12 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>27</p>
 
 			<p>45</p>
+
+			<p>32</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 
 			<p>30</p>
@@ -370,6 +406,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>30</p>
+
+			<p>21</p>
 			</td>
 		</tr>
 		<tr>
@@ -390,7 +428,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>Type 8</p>
 
-			<p>&nbsp;</p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
@@ -408,6 +446,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>23</p>
 
 			<p>37</p>
+
+			<p>26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>&nbsp;</p>
@@ -425,6 +465,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>14</p>
 
 			<p>23</p>
+
+			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
@@ -442,6 +484,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>30</p>
 
 			<p>50</p>
+
+			<p>35</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
 			<p>&nbsp;</p>
@@ -459,6 +503,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>30</p>
+
+			<p>21</p>
 			</td>
 		</tr>
 	</tbody>
@@ -502,7 +548,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 8</p>
 
-			<p><em>(ing. B.V.R. 13 januari 2006, art. 2, I: 1 september 2005)</em><strong>]</strong></p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>5</p>
@@ -518,8 +564,12 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>5</p>
+
+			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>6</p>
+
 			<p>6</p>
 
 			<p>6</p>
@@ -592,23 +642,31 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 ### ART. 6.
 
-...
+<P>Om een programmatieaanvraag in te dienen voor de oprichting van een nieuw   type in het buitengewoon basisonderwijs moet een oprichtingsdossier samengesteld   worden dat ten minste de volgende elementen bevat:<BR>1° de   identificatiegegevens van het schoolbestuur, de school en de   vestigingsplaats;<BR>2° het schooljaar waarop de programmatie betrekking   heeft;<BR>3° het type waarop de programmatie betrekking heeft;<BR>4° de   motivering van de programmatieaanvraag die ten minste de volgende aspecten   bevat:<BR>a) een omgevingsanalyse waarbij de noodzaak, de doelmatigheid en de   leefbaarheid, met inbegrip van een realistische inschatting van het potentiële   aantal leerlingen die, naargelang het te programmeren aanbod, voldoen aan de   criteria, vermeld in artikel 10 van het decreet basisonderwijs van 25 februari   1997, wordt gemotiveerd en waarbij in de mate van het mogelijke ook rekening   gehouden wordt met het lokale aanbod. De omgevingsanalyse is niet vereist als   een type van vrije keuze wordt opgericht;<BR>b) een beschrijving van de   aangepaste en schoolexterne begeleidingsmogelijkheden, tenzij dat voor de   beoogde doelgroep niet relevant is. Dat laatste wordt gemotiveerd in de   aanvraag;<BR>c) een verantwoording dat de school beschikt over de vereiste   infrastructurele en materiële voorzieningen, onder meer op het gebied van   toegankelijkheid en over de nodige hulpmiddelen voor de doelgroep;<BR>d) een   bewijs van bestaande expertise over de nieuwe doelgroep of de   professionaliseringsinspanningen waarin voorzien is;<BR>5° bewijsstukken,   namelijk:<BR>a) het protocol van de onderhandelingen in het lokaal comité;<BR>b)   het verslag van het overleg binnen de schoolraad;<BR>6° de ondertekening door   het schoolbestuur.</P>
 
 ### ART. 7.
 
-...
+<P>Het formulier dat gebruikt moet worden bij de opmaak van het   oprichtingsdossier, vermeld in artikel 6, is opgenomen in de bijlage die bij dit   besluit is gevoegd.<BR><BR>De Vlaamse minister bevoegd voor onderwijs is bevoegd   om binnen de regels van dit besluit de formulieren aan te   passen.</P>
 
 ## AFDELING 4 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
 ### ART. 8.
 
-...
+<P>§ 1. Een schoolbestuur dient de aanvraag voor een nieuwe programmatie op   elektronische wijze en afzonderlijk per type in bij het Agentschap voor   Onderwijsdiensten van het Vlaams Ministerie van Onderwijs en Vorming, hierna   agentschap te noemen.<BR><BR>§ 2. De aanvraag wordt door het agentschap voor   advies bezorgd aan de Vlaamse Onderwijsraad en aan de Onderwijsinspectie van het   Vlaams Ministerie van Onderwijs en Vorming.<BR><BR>§ 3. De Vlaamse   Onderwijsraad, de Onderwijsinspectie en het agentschap brengen binnen een   redelijke termijn en uiterlijk twee maanden na de ontvangst van de aanvraag,   vakantieperioden niet inbegrepen, een advies uit, dat ze bezorgen aan de Vlaamse   minister bevoegd voor onderwijs en aan het Departement Onderwijs en   Vorming.<BR><BR>De Vlaamse Onderwijsraad baseert zijn advies op het onderzoek   van ten minste de beoordelingscriteria, als vermeld in artikel 9, 1° tot en met   8°.<BR><BR>De Onderwijsinspectie baseert zijn advies op het onderzoek van ten   minste de beoordelingscriteria, als vermeld in artikel 9, 3° tot en met 6° en   8°.<BR><BR>Het agentschap baseert zijn advies op het onderzoek van ten minste de   beoordelingscriteria, als vermeld in artikel 9, 1°, 2° en 7° tot en met   8°.<BR><BR>§ 4. De Vlaamse minister bevoegd voor onderwijs legt een voorstel van   beslissing voor aan de Vlaamse Regering.<BR><BR>§ 5. Het agentschap deelt de   beslissing van de Vlaamse Regering binnen een periode van twee weken   schriftelijk mee aan het schoolbestuur.</P>
 
 ## AFDELING 5 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
 ### ART. 9.
 
-...
+<p>De criteria waarmee de Vlaamse Regering ten minste rekening houdt, om de ontvankelijke aanvragen te beoordelen, zijn de volgende:<br>
+1° worden in het programmatievoorstel de noodzaak, de doelmatigheid en de leefbaarheid, met inbegrip van een realistische inschatting van het potentiële aantal leerlingen die, naargelang het te programmeren aanbod, voldoen aan de criteria, vermeld in artikel 10 van het decreet basisonderwijs van 25 februari 1997, afdoende gemotiveerd in een omgevingsanalyse, waarbij in de mate van het mogelijke ook rekening gehouden wordt met het lokale aanbod;<br>
+2° wordt, in relatie tot het reeds bestaande aanbod van het type of programmatieaanvragen van andere scholen voor hetzelfde type buitengewoon onderwijs, een redelijke spreiding beoogd, rekening houdend met de groep, vermeld in artikel 3, 21°, van het decreet basisonderwijs van 25 februari 1997, met de wetenschappelijk te verwachten prevalentie en met het oog op een optimale organisatie van het leerlingenvervoer;<br>
+3° worden de aangepaste en schoolexterne begeleidingsmogelijkheden voor de te programmeren doelgroep in kaart gebracht, en als dat niet het geval is, wordt dat dan afdoende gemotiveerd;<br>
+4° beschikt de school over de nodige expertise voor het bijkomende type waarop de programmatieaanvraag betrekking heeft;<br>
+5° zijn er recent inspanningen geleverd om het personeel te professionaliseren voor het nieuwe type of zijn dergelijke inspanningen gepland;<br>
+6° heeft de school de vereiste infrastructurele en materiële voorzieningen op het gebied van toegankelijkheid en hulpmiddelen voor het type dat ze wil programmeren;<br>
+7° heeft de oprichting betrekking op het niveau basisonderwijs of op het niveau kleuteronderwijs of lager onderwijs afzonderlijk;<br>
+8° werd er onderhandeld met het lokaal onderhandelingscomité en wat is de inhoud van het protocol en is er overleg gepleegd met de schoolraad en wat is het resultaat van het overleg.</p>
 
 ## AFDELING 6 [... (opgeh. BVR 5 september 2008, I: 1 september 2008)]
 
@@ -661,7 +719,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 7</p>
 
-			<p>Type 8</p>
+			<p>Type 8<br>
+			Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>15</p>
@@ -679,6 +738,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>9</p>
 
 			<p>15</p>
+
+			<p>11</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>20</p>
@@ -696,6 +757,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>12</p>
 
 			<p>20</p>
+
+			<p>14</p>
 			</td>
 		</tr>
 		<tr>
@@ -719,7 +782,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 7</p>
 
-			<p>Type 8</p>
+			<p>Type 8<br>
+			Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>8</p>
@@ -737,6 +801,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>8</p>
+
+			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>10</p>
@@ -754,6 +820,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>6</p>
 
 			<p>10</p>
+
+			<p>7</p>
 			</td>
 		</tr>
 	</tbody>
@@ -817,6 +885,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>Type 7</p>
 
 			<p>Type 8</p>
+
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>5</p>
@@ -832,8 +902,12 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>5</p>
+
+			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
+			<p>6</p>
+
 			<p>6</p>
 
 			<p>6</p>
@@ -870,7 +944,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 8</p>
 
-			<p><em>(ing. B.V.R. 13 januari 2006, art. 3, I: 1 september 2005)</em><strong>]</strong></p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>5</p>
@@ -884,6 +958,10 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>8</p>
+
+			<p>&nbsp;</p>
+
+			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>7</p>
@@ -897,6 +975,10 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>6</p>
 
 			<p>10</p>
+
+			<p>&nbsp;</p>
+
+			<p>7</p>
 			</td>
 		</tr>
 	</tbody>
@@ -938,7 +1020,8 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 
 			<p>Type 7</p>
 
-			<p>Type 8</p>
+			<p>Type 8<br>
+			Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>10</p>
@@ -954,6 +1037,8 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 			<p>6</p>
 
 			<p>10</p>
+
+			<p>7</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>13</p>
@@ -969,6 +1054,8 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 			<p>8</p>
 
 			<p>13</p>
+
+			<p>9</p>
 			</td>
 		</tr>
 	</tbody>
@@ -1019,3 +1106,7 @@ Dit besluit treedt in werking op 1 september 1997.
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.
 
 ## Bijlage
+
+### BIJLAGE Nieuwe versie
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/30_1.pdf#page=25">Bijlage</A>
