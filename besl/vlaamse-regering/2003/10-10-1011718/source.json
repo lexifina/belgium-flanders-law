@@ -2,16 +2,16 @@
   "codex_id": 1011718,
   "title": "Besluit van de Vlaamse Regering van 2003-10-10 houdende organisatie van [de Openbare Vlaamse Afvalstoffenmaatschappij] en de instellingsspecifieke regeling van de rechtspositie van het personeel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011718/VolledigDocument?datum=2012-12-01",
-  "source_sha256": "0b481d196e62447700ebb76f0582343bb853dd69de234594220ba2f1e68c353b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011718/VolledigDocument?datum=2014-06-01",
+  "source_sha256": "6099d24bd7e9e9057046265bb63fac0d6770ec8def00d952b915b1dc585952ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011718&param=informatie",
-  "as_of": "2012-12-01",
+  "as_of": "2014-06-01",
   "made": "2003-10-10",
   "gazette": "2003-11-14",
   "numac": 2003201638,
   "document_start": null,
   "document_end": "2014-05-31",
-  "in_force": "2012-12-01",
+  "in_force": "2014-06-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2012-12-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-06-01; future article versions excluded; article text as the API gives it"
 }
