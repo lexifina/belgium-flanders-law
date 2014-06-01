@@ -28,6 +28,10 @@ In artikel VII 2 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaam
 
 Aan deel VII, titel 2, hoofdstuk 3, afdeling 21, van hetzelfde besluit,   bestaande uit artikel VII 70sexies, ingevoegd bij het besluit van de Vlaamse   Regering van 14 februari 2014, worden de volgende wijzigingen aangebracht   :<BR>1° aan het opschrift van afdeling 21 worden de woorden "of als   schipper-stuurman" toegevoegd;<BR>2° in artikel VII 70sexies worden tussen de   woorden "schipper-bootsman" en "tijdelijk" de woorden "of schipper-stuurman"   toegevoegd.<BR>
 
+### ART. 25.
+
+<P>Deel VII, titel 4, hoofdstuk 11, van hetzelfde besluit, bestaande uit artikel   VII 109, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007,   wordt vervangen door wat volgt :<BR>"Hoofdstuk 11. - Plaats- en   tijdsonafhankelijk werken<BR></P>  <P>Art. VII 109. In geval van plaats- en tijdsonafhankelijk werken stelt de   lijnmanager middelen ter beschikking van het personeelslid. De lijnmanager   bepaalt, afhankelijk van de functie en de behoeften, welke middelen ten laste   worden genomen.<BR></P>  <P>Het personeelslid mag die middelen aanwenden voor persoonlijk gebruik, zoals   bepaald door de Vlaamse minister, bevoegd voor de bestuurszaken.<BR></P>  <P>In het kader van plaats- en tijdonafhankelijk werken heeft het personeelslid   geen recht op andere vergoedingen of de terugbetaling van andere kosten dan die   vermeld in dit artikel.".<BR></P>
+
 ### ART. 26.
 
 In artikel VII 109quater van hetzelfde besluit, ingevoegd bij het besluit   van de Vlaamse Regering van 23 mei 2008, wordt het derde lid   opgeheven.<BR>
