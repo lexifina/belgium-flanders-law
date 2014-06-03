@@ -2,16 +2,16 @@
   "codex_id": 1024127,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van het Energiebesluit van 19 november 2010, wat betreft de instanties bevoegd voor de behandeling van de dossiers inzake de toekenning van groenestroomcertificaten, warmte-krachtcertificaten en garanties van oorsprong",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024127/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "c1e5031a9a22b79f5dfd8092d1eded864610c83ffd546bb7b13f4739f5df2589",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024127/VolledigDocument?datum=2014-06-03",
+  "source_sha256": "083c42d131b8de0098518b276a2823e92cb09e36bd8552734cef832e45d8c7ee",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024127&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2014-06-03",
   "made": "2014-05-09",
   "gazette": "2014-06-03",
   "numac": 2014035570,
   "document_start": "2014-06-03",
   "document_end": null,
-  "in_force": "2014-04-01",
-  "article_versions": 46,
-  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-06-03",
+  "article_versions": 57,
+  "record_form": "consolidated version as in force on 2014-06-03; future article versions excluded; article text as the API gives it"
 }
