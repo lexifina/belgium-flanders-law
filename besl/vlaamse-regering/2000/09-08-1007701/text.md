@@ -24,11 +24,11 @@ Voor de toepassing van Titel II van dit besluit dient te worden verstaan onder:<
 
 ### ART. 4.
 
-De minister kan binnen de perken van het begrotingskrediet ondernemingen erkennen als invoegbedrijf.
+<P>...</P>
 
 ### ART. 5.
 
-Kunnen een aanvraag tot erkenning indienen:<br />1° de personen, natuurlijke of rechtspersonen, die ernstig overwegen een handelsvennootschap op te richten;<br />2° ondernemingen die de rechtsvorm van een handelsvennootschap hebben aangenomen; <br />3° verenigingen zonder winstoogmerk met uitzondering van sociale werkplaatsen, ingeval het gaat om activiteiten zoals bedoeld in artikel 14, 2°, c) en d).<br /><br />Een dienstenchequeonderneming kan geen aanvraag tot erkenning indienen.
+<P>...</P>
 
 ## AFDELING 2 ERKENNING
 
@@ -66,11 +66,11 @@ Onverminderd de bepalingen van artikel 6 van dit besluit moeten, om erkend te wo
 
 ### ART. 12.
 
-De minister kan binnen de perken van het begrotingskrediet invoegafdelingen erkennen.
+<P>...</P>
 
 ### ART. 13.
 
-Kunnen een aanvraag tot erkenning indienen:<br />1° ondernemingen die de rechtsvorm van een handelsvennootschap hebben aangenomen; <br />2° economische samenwerkingsverbanden, bepaald bij de wet van 17 juli 1989, tussen twee of meer ondernemingen zoals bepaald onder artikel 13, 1° van dit besluit;<br />3° verenigingen zonder winstoogmerk met uitzondering van sociale werkplaatsen, gemeenten, openbare centra voor maatschappelijk welzijn en intercommunales ingeval het gaat om activiteiten zoals bedoeld in artikel 14, 2°, c) en d). <br /><br />Een dienstenchequeonderneming kan geen aanvraag tot erkenning indienen.<br />
+<P>...</P>
 
 ## AFDELING 2 ERKENNING
 
@@ -122,43 +122,43 @@ Het Vlaams Subsidieagentschap voor Werk en Sociale Economie staat in voor de bet
 
 ### ART. 23.
 
-De aanvrager of onderneming die invoegwerknemers wenst aan te werven, richt een aanvraag tot het Vlaams Subsidieagentschap voor Werk en Sociale Economie, gebruik makend van een formulier dat ter beschikking wordt gesteld door het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />Bij de aanvraag moeten de volgende stukken gevoegd worden:<br />1° de statuten of ontwerpstatuten van de onderneming;<br />2° een beschrijving van de lopende en geplande activiteiten en van de kenmerken van de goederen en diensten;<br />3° een ondernemingsplan;<br />4° een financieel plan met inbegrip van een begrotings-, een investerings- en een liquiditeitsplan;<br />5° een overzicht van de tewerkstelling gedurende de laatste vier kwartalen;<br />6° een loonkostenberekening op basis van het bevoegde paritair comité;<br />7° het ondertekende charter van de meerwaardeneconomie;<br />8° een actieplan betreffende het incorporeren van MVO in de bedrijfsstrategie van de onderneming;<br />9° een plan voor de opleiding en de begeleiding van de invoegwerknemers. <br /><br />Bij aanvragen ingediend door de rechtspersonen zoals bepaald in artikel 5, 2° en artikel 13 van dit besluit dient een advies van de ondernemingsraad, of bij ontstentenis daarvan van de syndicale afvaardiging bij de aanvraag te worden gevoegd.
+<P>...</P>
 
 ### ART. 24.
 
-§ 1. De aanvraag tot tewerkstelling van invoegwerknemers wordt aan het advies onderworpen van het [Regionaal Sociaal-economisch Overlegcomité.  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ]<br /><br />§ 2. [Het RESOC, in wiens ambtsgebied het merendeel van de invoegwerknemers doorlopend en recurrent activiteiten uitvoert, brengt een op stukken gebaseerd gemotiveerd advies uit ten aanzien van de minister binnen dertig kalenderdagen, te rekenen vanaf de dag waarop de adviesaanvraag werd verstuurd. Dit advies heeft betrekking op de beschikbaarheid van de invoegwerknemers, op het belang van het project in het kader van de regionale werkgelegen-heidspolitiek en op het eventueel samenvallen of de eventuele concurrentie van de werkzaamheden met andere regionale sociale-economie-initiatieven. Als de minister binnen die termijn het advies niet heeft ontvangen, wordt het geacht positief te zijn.  <span class="reference">(verv. B.V.R. 1 juli 2005, art. 13, I: 1 juli 2005)</span> ]
+<P>...</P>
 
 ### ART. 25.
 
-Het Subsidieagentschap onderzoekt de aanvraag en stelt daarover een rapport op binnen een termijn van dertig dagen. <br /><br />Het Subsidieagentschap kan bij de aanvrager noodzakelijke aanvullende informatiegegevens inwinnen. Tot zolang de aanvrager die noodzakelijke informatiegegevens niet verstrekt, wordt de aanvraagprocedure geschorst.
+<P>...</P>
 
 ### ART. 26.
 
-Het Subsidieagentschap legt zijn rapport samen met het advies van het RESOC voor aan de adviescommissie.
+<P>...</P>
 
 ### ART. 27.
 
-De adviescommissie formuleert op basis van het advies van het RESOC en het rapport van het Subsidieagentschap een advies over de erkenningsaanvraag.<br /><br />Het Subsidieagentschap bezorgt dat advies aan de minister.
+<P>...</P>
 
 ### ART. 28.
 
-Aan de hand van de adviezen van het RESOC en van de adviescommissie en op basis van het rapport van het Subsidieagentschap beslist de minister over de erkenning.
+<P>...</P>
 
 ### ART. 29.
 
-De erkenningsbeslissing omvat het aantal toegekende voltijds equivalente invoegwerknemers. Per toegekend voltijds equivalent wordt het bedrag van de premie op jaarbasis vermeld.<br /><br />De erkenningsbeslissing wordt betekend aan de aanvrager.
+<P>...</P>
 
 ### ART. 30.
 
-De minister deelt de erkenningsbeslissing mee aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
+<P>...</P>
 
 ### ART. 31.
 
-De minister betekent zijn beslissing aan de aanvrager. De minister deelt die beslissing mee aan de adviescommissie en het RESOC.
+<P>...</P>
 
 ### ART. 32.
 
-§ 1. De werkgever dient een nieuwe aanvraag in voor elke bijkomende aanwerving van invoegwerknemers, boven het oorspronkelijk aantal toegekende invoegwerknemers.<br /><br />§ 2. De aanvraag wordt ingediend met een formulier dat het Vlaams Subsidieagentschap voor Werk en Sociale Economie ter beschikking stelt en er moeten steeds volgende stukken bijgevoegd worden:<br />1° een beschrijving van de lopende en geplande activiteiten en de kenmerken van de goederen en diensten;<br />2° de meest recente jaarrekening met toelichting;<br />3° een overzicht van de tewerkstelling gedurende de laatste vier kwartalen;<br />4° een plan voor de opleiding en begeleiding van de nieuwe invoegwerknemers;<br />5° een loonkostenberekening op basis van het bevoegde paritair comité;<br />6° een advies van de ondernemingsraad of van de vakbondsafvaardiging als die aanwezig zijn.<br /><br />Aanvragen waarbij een van voormelde stukken ontbreken, worden als niet ontvankelijk beschouwd.<br /><br />Bij aanvragen die formeel ontvankelijk worden verklaard, wordt de procedure toegepast zoals bepaald in artikel 24 tot 28.
+<P>...</P>
 
 ### ART. 33.
 
@@ -184,7 +184,7 @@ De werkgever vult bij de aanwerving van iedere invoegwerknemer een door het Vlaa
 
 ### ART. 37.
 
-Het Vlaams Subsidieagentschap voor Werk en Sociale Economie maakt jaarlijks de nodige relevante informatie omtrent het stelsel van de invoegbedrijven en de invoegafdelingen over aan elk Regionaal Sociaal-economisch Overlegcomité.
+<P>...</P>
 
 ## AFDELING 4 TOEZICHT EN NALEVING
 
@@ -220,53 +220,53 @@ Vanaf 1 juli 2005 wordt titel II opgeheven voor de erkenningen als invoegbedrijf
 
 ### ART. 43.
 
-De minister kan binnen de grenzen van het begrotingskrediet maximaal één regionaal incubatiecen-trum voor de sociale economie per subregio erkennen.<br /><br />Onder subregio wordt begrepen: een groep aanéénsluitende steden of gemeenten binnen het Vlaamse Gewest met een uitgesproken sociaal-economische structuur die de grenzen van een subregionaal tewerkstellingsgebied niet overschrijdt.
+<P>...</P>
 
 ## HOOFDSTUK II [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
 ### ART. 44.
 
-Om erkend te worden als regionaal incubatiecentrum voor de sociale economie moet aan volgende voorwaarden voldaan worden:<br />1° een vennootschapsvorm aannemen;<br />2° de subregio zoals bepaald in artikel 43 van dit besluit waarvoor het regionaal incubatiecentrum voor de sociale economie optreedt moet een voldoende interne sociale en economische samenhang vertonen en een voldoende kritische massa bereiken om vatbaar te zijn voor een sociaal economisch beleid zoals bedoeld in dit besluit;<br />3° de doelstellingen om via een economische aanpak de integratie van kansengroepen via zelfstandige onder-nemingsprojecten en het opstarten van bedrijven in de sociale economie te bevorderen dienen in de statuten te zijn ingeschreven;<br />4° de kapitaalstructuur dient het maatschappelijk draagvlak te weerspiegelen. Minstens de helft van het kapitaal dient afkomstig te zijn uit de privé-sector. Een zelfde verhouding dient weerspiegeld te worden in de Raad van Bestuur;<br />5° een individuele en gemeenschappelijke dienstverlening aanbieden aan ondernemingen, waarbij minstens een tweeledige functie wordt vervuld, namelijk bedrijfsontwikkeling en bedrijfsbegeleiding, binnen de sociale economie.<br /><br />Onder bedrijfsontwikkeling wordt onder meer begrepen:<br />a) het eerste aanspreekpunt zijn voor initiatiefnemers;<br />b) op een proactieve wijze het ontstaan van ondernemingsideeën en -projecten bevorderen;<br />c) ondernemingsideeën en -projecten ontwikkelen in samenwerking met partners.<br /><br />Onder bedrijfsbegeleiding wordt onder meer begrepen:<br />a) het eerste aanspreekpunt zijn voor ondernemers;<br />b) door netwerking de ondernemingen en initiatieven versterken;<br />c) ondernemingen en initiatieven begeleiden en adviseren.<br /><br />Bij al die activiteiten staan de creatie van duurzame tewerkstelling voor mensen met verminderde kansen op de arbeidsmarkt en de procesmatige implementatie van maatschappelijk verantwoord ondernemen centraal; <br /><br />6° het regionaal incubatiecentrum voor de sociale economie heeft een subregionale inbedding en betrekt verschillende partners zoals lokale overheden, derden, sociale partners en ondernemers op een structurele manier;<br />7° het management moet beschikken over de nodige expertise, zowel wat betreft bedrijfseconomische, maatschappelijke als netwerkingcapaciteiten;<br />8° een goed onderbouwd ondernemingsplan dient de leefbaarheid van het regionaal incubatiecentrum voor de sociale economie aan te tonen;<br />9° het regionaal incubatiecentrum voor de sociale economie bezorgt jaarlijks aan het Subsidieagentschap het jaarverslag van het voorbije werkjaar evenals de jaarplanning voor het lopende jaar;<br />10° het jaarverslag bevat de registratie van de activiteiten van het voorbije werkjaar, het aantal ondernemingen die werden opgestart, het aantal arbeidsplaatsen die werden gecreerd, de bereikte doelgroep, de financiële rekeningen, en andere door de minister bepaalde gegevens;<br />11° in de jaarplanning omschrijft het regionaal incubatiecentrum voor de sociale economie de wijze waarop het in het lopende jaar de opdrachten en werkzaamheden zal realiseren en maakt zij een financiële prognose.
+<P>...</P>
 
 ## HOOFDSTUK III [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
 ### ART. 45.
 
-§ 1. Een aanvraag tot erkenning wordt ingediend bij het Subsidieagentschap.<br /><br />§ 2. Deze aanvraag bevat een ondernemingsplan en een motivatie op welke manier aan de erkenningscriteria wordt voldaan.
+<P>...</P>
 
 ### ART. 46.
 
-De aanvraag wordt aan het advies onderworpen van het [Regionaal Sociaal-economisch Overleg-comité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] in wiens ambtsgebied de vestigingsplaats van het regionaal incubatiecentrum voor de sociale economie zich bevindt. Het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] brengt ten aanzien van de minister een gemotiveerd advies uit binnen de dertig kalenderdagen te rekenen vanaf de dag waarop de adviesaanvraag werd verstuurd. Indien de minister binnen deze termijn het advies van het [Regionaal Sociaal-economisch Overlegcomité  <span class="reference">(verv. B.V.R. 10 juni 2005, art. 9, I: 15 juli 2005)</span> ] niet heeft ontvangen wordt het geacht te zijn uitgebracht.
+<P>...</P>
 
 ### ART. 47.
 
-Het Subsidieagentschap onderzoekt aan de hand van de erkenningsaanvraag of de onderneming voldoet aan de voorwaarden, vermeld in artikel 44, en stelt daarover een rapport op binnen een termijn van 30 dagen.
+<P>...</P>
 
 ### ART. 48.
 
-Het Subsidieagentschap legt zijn rapport, samen met het advies van het RESOC, voor aan de adviescommissie.
+<P>...</P>
 
 ### ART. 49.
 
-De adviescommissie formuleert op basis van het advies van het RESOC en het rapport van het Subsidieagentschap een advies over de erkenningsaanvraag.
+<P>...</P>
 
 ### ART. 50.
 
-Aan de hand van de adviezen van het RESOC en van de adviescommissie en op basis van het rapport van het Subsidieagentschap beslist de minister over de erkenning.
+<P>...</P>
 
 ### ART. 51.
 
-De minister betekent zijn beslissing aan de aanvrager. De minister deelt die beslissing mee aan de adviescommissie en het RESOC.
+<P>...</P>
 
 ## HOOFDSTUK IV [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
 ### ART. 52.
 
-Een erkend regionaal incubatiecentrum voor de sociale economie ontvangt jaarlijks een bedrag van maximaal 124.000 EUR ter delging van de loon-en werkingskosten voor de opdracht bedrijfsontwikkeling binnen de sociale economie en voor de intensieve managementondersteuning zoals bepaald in artikel 44, 5° van dit besluit.<br /><br />Het subsidiebedrag evolueert, binnen de perken van de jaarlijkse begrotingskredieten, op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand mei 2005. Het geïndexeerde subsidiebedrag wordt jaarlijks op 1 januari door de minister vastgelegd voor het komende werkingsjaar.
+<P>...</P>
 
 ### ART. 53.
 
-Als wordt vastgesteld dat het erkend regionaal incubatiecentrum voor de sociale economie niet meer aan de vereiste erkenningscriteria voldoet, beroep doet op een dubbele financiering, als misbruiken worden vastgesteld of als blijk wordt gegeven van kennelijke onbekwaamheid, kan de minister de erkenning intrekken en de uitgekeerde subsidies terugvorderen.
+<P>...</P>
 
 ## TITEL IV [... (opgeh. BVR 27 januari 2017, art. 27, I: 27 januari 2017)]
 
@@ -462,19 +462,19 @@ De projecten dienen een belangrijk multiplicatoreffect te hebben, de economie te
 
 ### ART. 80.
 
-Er wordt een adviescommissie sociale economie samengesteld. Deze adviescommissie wordt erkend als adviesorgaan binnen de sector van de sociale economie.
+<P>...</P>
 
 ## HOOFDSTUK II [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
 ### ART. 81.
 
-§ 1. De adviescommissie wordt samengesteld uit stemgerechtigde en niet-stemgerechtigde leden.<br /><br />§ 2. Stemgerechtigde leden zijn een vertegenwoordiger van de minister, een vertegenwoordiger van de Vlaamse minister bevoegd voor het Economisch Beleid, een vertegenwoordiger van de Vlaamse minister bevoegd voor de Financiën en de Begroting, drie vertegenwoordigers van de meest representatieve werkgeversorganisaties en drie vertegenwoordigers van de meest representatieve werknemersorganisaties.<br /><br />§ 3. Niet-stemgerechtigde leden zijn een vertegenwoordiger van VOMEC, een vertegenwoordiger van het Waarborgfonds, een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, een vertegenwoordiger van het Departement Economie, Wetenschap en Innovatie, en een vertegenwoordiger van het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />§ 4. De vertegenwoordiger van de minister neemt het voorzitterschap waar.<br /><br />Een personeelslid van het Subsidieagentschapfungeert als secretaris.<br /><br />§ 5. In de adviescommissie wordt een consensus nagestreefd. Bij ontstentenis hiervan wordt een meerderheids- en minderheidsstandpunt medegedeeld.
+<P>...</P>
 
 ## HOOFDSTUK III [... (opgeh. BVR 4 april 2014, art. 10, I: 9 juni 2014)]
 
 ### ART. 82.
 
-§ 1. De adviescommissie heeft als opdracht, op vraag van het Subsidieagentschap, een advies te verstrekken aan de minister inzake de aanvragen tot erkenning als invoegbedrijf, als invoegafdeling, als regionaal incubatiecentrum voor de sociale economie of als adviesbureau in de sociale economie; zij adviseert de minister met betrekking tot het aanduiden van de kansengroepen zoals bepaald in artikel 2, 3° van dit besluit.<br /><br />§ 2. De minister kan de opdracht van de adviescommissie uitbreiden.
+<P>...</P>
 
 ## TITEL VIII VLAAMS PARTICIPATIEFONDS VOOR DE SOCIALE ECONOMIE
 
