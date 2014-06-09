@@ -20,7 +20,7 @@ Dit besluit is niet van toepassing op ondernemingen, vermeld in artikel 2, binne
 
 ### ART. 4.
 
-§ 1. De minister kan de ondernemingen, vermeld in artikel 2, erkennen als invoegbedrijf.<br /><br />Een erkend invoegbedrijf dat invoegwerknemers tewerkstelt, kan binnen het begrotingskrediet aanspraak maken op een subsidiëring zoals bepaald in hoofdstuk V voor het door de minister in de erkenningsbeslissing bepaalde aantal voltijdse equivalenten.<br /><br />§ 2. De minister bepaalt jaarlijks een programmeringsnorm voor de invoegbedrijven, rekening houdend met het beschikbare begrotingskrediet.<br />
+<P>...</P>
 
 ### ART. 5.
 
@@ -32,7 +32,7 @@ Om erkend te worden als invoegbedrijf zullen reeds bestaande bedrijven, de leden
 
 ### ART. 7.
 
-§ 1. De erkenning als invoegbedrijf wordt verleend voor een periode van acht jaar vanaf de indiensttreding van de eerste invoegwerknemer.<br /><br />§ 2. Aan ieder erkend invoegbedrijf kent de minister een aantal invoegwerknemers toe op basis van het aantal invoegwerknemers dat door de onderneming is opgenomen in de personeelsplanning.<br /><br />Een uitbreiding van het oorspronkelijke aantal toegekende invoegwerknemers kan enkel worden gevraagd binnen een periode van vier jaar vanaf de indiensttreding van de eerste invoegwerknemer.
+<P>...</P>
 
 ### ART. 8.
 
@@ -70,35 +70,35 @@ De Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding betaalt de loonpre
 
 ### ART. 15.
 
-§ 1. De aanvrager of onderneming die een erkenning als invoegbedrijf wenst en die invoegwerknemers wil aanwerven, richt een aanvraag tot de administratie met een formulier dat de administratie ter beschikking stelt.<br /><br />§ 2. Bij de aanvraag moeten steeds de volgende stukken gevoegd worden:<br /><br />1° de statuten of ontwerpstatuten van de onderneming;<br /><br />2° een beschrijving van de lopende en geplande activiteiten en van de kenmerken van de goederen en diensten;<br /><br />3° een plan voor de opleiding en de begeleiding van de invoegwerknemers;<br /><br />4° een actieplan betreffende het incorporeren van MVO in de bedrijfsstrategie van de onderneming;<br /><br />5° een loonkostenberekening op basis van het bevoegde paritair comité;<br /><br />6° een verklaring op erewoord waarin de onderneming aantoont dat ze een grote, middelgrote, kleine of micro-onderne-ming is als vermeld in artikel 1, 5°.<br /><br />§ 3. Bij op te starten ondernemingen moeten bij de aanvraag bovendien de volgende documenten gevoegd worden:<br /><br />1° een ondernemingsplan;<br /><br />2° een financieel plan met inbegrip van een begrotings-, een investerings- en een liquiditeitsplan voor de komende drie jaar.<br /><br />§ 4. Een bestaande onderneming of een onderneming als vermeld in artikel 6 moeten bij de aanvraag bovendien de volgende documenten voegen:<br /><br />1° de meest recente jaarrekening met toelichting;<br /><br />2° een overzicht van de tewerkstelling gedurende de laatste vier kwartalen;<br /><br />3° een advies van de ondernemingsraad of van de vakbondsafvaardiging als die aanwezig is.<br /><br />§ 5. Aanvragen waarbij een van voormelde stukken ontbreken, worden als niet ontvankelijk beschouwd.
+<P>...</P>
 
 ### ART. 16.
 
-§ 1. De aanvraag die formeel ontvankelijk werd verklaard wordt tegelijkertijd onderworpen aan het advies van het RESOC in wiens ambtsgebied het merendeel van de invoegwerknemers doorlopend en recurrent activiteiten uitvoeren en aan het advies van de administratie.<br /><br />§ 2. Het RESOC brengt een op stukken gebaseerd gemotiveerd advies uit ten aanzien van de minister binnen dertig kalenderdagen, te rekenen vanaf de dag waarop de adviesaanvraag werd verstuurd.<br /><br />Dit advies heeft betrekking op de beschikbaarheid van de invoegwerknemers, op het belang van het project in het kader van de regionale werkgelegenheidspolitiek en op het eventueel samenvallen of de eventuele concurrentie van de werkzaamheden met andere regionale sociale-economie-initiatieven.<br /><br />Als de minister binnen die termijn het advies niet heeft ontvangen, wordt het geacht positief te zijn.<br /><br />§ 3. De administratie  brengt een gemotiveerd adviesrapport uit ten aanzien van de minister binnen dertig kalenderdagen, te rekenen vanaf de dag waarop de adviesaanvraag werd verstuurd. Daartoe onderzoekt het de aanvraag op elk van de erkenningscriteria, als vermeld in artikelen 5 en 6, en geeft het op elk punt een exhaustieve uitleg met appreciatie.<br /><br />Als de administratie  aanvullende informatie, die noodzakelijk is voor het onderzoek, aan de onderneming vraagt en niet dadelijk kan verkrijgen; of als de onderneming de administratie  niet kan ontvangen binnen een termijn van veertien dagen na het verzenden van de aanvraag, wordt de adviesperiode op grond van een gemotiveerd verzoek van de administratie  door de administratie geschorst. De schorsing wordt opgeheven zodra de administratie meldt dat de noodzakelijke informatie werd verkregen.
+<P>...</P>
 
 ### ART. 17.
 
-De administratie legt zijn rapport samen met het advies van het RESOC voor aan de adviescommissie.
+<P>...</P>
 
 ### ART. 18.
 
-De adviescommissie formuleert op basis van het advies van het RESOC en het rapport van de administratie een advies over de aanvraag tot erkenning.<br /><br />De administratie bezorgt dat advies aan de minister.
+<P>...</P>
 
 ### ART. 19.
 
-De minister beslist op basis van alle beschikbare informatie om een invoegbedrijf al dan niet te erkennen en om het gevraagde aantal invoegwerknemers geheel of gedeeltelijk toe te kennen.<br /><br />De erkenningsbeslissing omvat naast de eigenlijke erkenning het aantal toegekende voltijdse equivalente invoegwerkne-mers. Per toegekende voltijdse equivalent wordt de loonpremie op jaarbasis vermeld.<br /><br />De erkenningsbeslissing wordt betekend aan de aanvrager.
+<P>...</P>
 
 ### ART. 20.
 
-De minister deelt de erkenningsbeslissing mee aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, die verantwoordelijk is voor de betaling van de loonpremies, als vermeld in artikel 14.
+<P>...</P>
 
 ### ART. 21.
 
-De minister betekent zijn beslissing aan de aanvrager. De minister deelt die beslissing mee aan de adviescommissie en het RESOC.
+<P>...</P>
 
 ### ART. 22.
 
-§ 1. De onderneming die, als vermeld in artikel 7, § 2, tweede lid, een uitbreiding van het oorspronkelijke aantal toegekende invoegwerknemers wenst, richt een aanvraag tot de administratie, gebruikmakend van een formulier dat de administratie ter beschikking stelt.<br /><br />§ 2. Bij de aanvraag moeten steeds de volgende stukken gevoegd worden:<br /><br />1° een beschrijving van de lopende en geplande activiteiten en de kenmerken van de goederen en diensten;<br /><br />2° de meest recente jaarrekening met toelichting;<br /><br />3° een overzicht van de tewerkstelling gedurende de laatste vier kwartalen;<br /><br />4° een plan voor de opleiding en begeleiding van de nieuwe invoegwerknemers;<br /><br />5° een loonkostenberekening op basis van het bevoegde paritaire comité;<br /><br />6° een advies van de ondernemingsraad of van de vakbondsafvaardiging als die aanwezig is.<br /><br />Aanvragen waarbij een van voormelde stukken ontbreken, worden als niet ontvankelijk beschouwd.<br /><br />§ 3. Bij aanvragen die formeel ontvankelijk worden verklaard wordt de procedure toegepast zoals bepaald in artikel 16 tot 22.
+<P>...</P>
 
 ### ART. 23.
 
@@ -116,11 +116,11 @@ De werkgever kan het aantal tewerkgestelde invoegnemers verminderen als dat nood
 
 ### ART. 26.
 
-De administratie bezorgt jaarlijks een verslag over deze maatregel aan de minister.<br /><br />Dat verslag geeft inzicht in het aantal erkenningen en in de aard van de uitgevoerde activiteiten, in het totale subsidiebedrag per bedrijf alsook voor de regio in haar totaliteit, in het aantal arbeidsplaatsen en de aard van de gecreëerde werkgelegenheid en in de inspanningen voor het MVO.
+<P>...</P>
 
 ### ART. 27.
 
-De administratie bezorgt dat verslag tevens aan elk lid van de adviescommissie en aan de RESOC's.
+<P>...</P>
 
 ## HOOFDSTUK VIII TOEZICHT EN NALEVING
 
