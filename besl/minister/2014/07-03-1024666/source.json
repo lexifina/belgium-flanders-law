@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024666,
+  "title": "Ministerieel besluit van 2014-07-03 tot uitvoering van artikel 22, derde lid, van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, wat betreft de verlaging van de subsidiepercentages",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024666/VolledigDocument?datum=2014-06-11",
+  "source_sha256": "e2cce1239be61afa3e26e202e7e4e07ba40b639fc7ca772446c1a4a30158a30d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024666&param=informatie",
+  "as_of": "2014-06-11",
+  "made": "2014-07-03",
+  "gazette": "2014-10-15",
+  "numac": 2014036505,
+  "document_start": "2014-06-11",
+  "document_end": null,
+  "in_force": "2014-06-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
