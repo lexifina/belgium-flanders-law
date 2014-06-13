@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024754,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-10 tot goedkeuring van de wijzigingen van de statuten van de Vlaamse Maatschappij voor Watervoorziening, aangebracht door de Algemene Vergadering van de Vlaamse Maatschappij voor Watervoorziening op 13 juni 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024754/VolledigDocument?datum=2014-06-13",
+  "source_sha256": "2dba3a848701269cc63079767a6c7969709d209e979551d8ca545781844475d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024754&param=informatie",
+  "as_of": "2014-06-13",
+  "made": "2014-10-10",
+  "gazette": "2014-11-20",
+  "numac": 2014036810,
+  "document_start": "2014-06-13",
+  "document_end": null,
+  "in_force": "2014-06-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-06-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
