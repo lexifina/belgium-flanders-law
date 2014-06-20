@@ -2,16 +2,16 @@
   "codex_id": 1022048,
   "title": "Besluit van de Vlaamse Regering van 2012-07-20 tot het opnieuw samenstellen van de Strategische Adviesraad voor Landbouw en Visserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022048/VolledigDocument?datum=2013-11-29",
-  "source_sha256": "9dbb65d8f133ea4c2aec0dc4824b782ee8574d6b27689d24f479617865cbc3fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022048/VolledigDocument?datum=2014-06-20",
+  "source_sha256": "db2fb56947f12f7c43dfd09b36a29bf3428b20a7f030683ef87226cc27df8076",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022048&param=informatie",
-  "as_of": "2013-11-29",
+  "as_of": "2014-06-20",
   "made": "2012-07-20",
   "gazette": "2012-08-08",
   "numac": 2012204330,
   "document_start": "2012-10-12",
   "document_end": null,
-  "in_force": "2013-11-29",
+  "in_force": "2014-06-20",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-11-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-06-20; future article versions excluded; article text as the API gives it"
 }
