@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024137,
+  "title": "Decreet van 2014-04-25 houdende wijziging van artikel 185 van het decreet van 27 maart 2009 betreffende radio-omroep en televisie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024137/VolledigDocument?datum=2014-06-21",
+  "source_sha256": "1480551bab23d615ef3a5c3f1ed11db37aac47da515927464b1db2b5c85f2e8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024137&param=informatie",
+  "as_of": "2014-06-21",
+  "made": "2014-04-25",
+  "gazette": "2014-06-11",
+  "numac": 2014203012,
+  "document_start": "2014-06-21",
+  "document_end": null,
+  "in_force": "2014-06-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
