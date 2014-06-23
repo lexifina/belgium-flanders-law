@@ -10,6 +10,18 @@
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 21 december 2007 betreffende de studiegebieden en structuuronderdelen in het voltijds secundair onderwijs
 
+### ART. 23.
+
+Aan het opschrift van het besluit van de Vlaamse Regering van 21 december   2007 betreffende de studiegebieden en structuuronderdelen in het voltijds   secundair onderwijs worden de woorden "en betreffende de vestigingsplaatsen in   het secundair onderwijs" toegevoegd.<BR>
+
+### ART. 29.
+
+<P>In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van   30 mei 2008, 16 januari 2009, 30 april 2009, 9 oktober 2009, 4 juni 2010, 9   september 2011, 7 september 2012 en 17 januari 2014, worden een artikel 7bis en   7ter ingevoegd, die luiden als volgt:<BR>"Art. 7bis. Een aanvraag van een   school- of centrumbestuur tot ingebruikname van een nieuwe vestigingsplaats door   een school voor voltijds gewoon of buitengewoon secundair onderwijs of door een   centrum voor deeltijds beroepssecundair onderwijs is alleen ontvankelijk als aan   alle volgende voorwaarden is voldaan:<BR>1° bij de aanvraag is een   situatieschets of plattegrond gevoegd waaruit duidelijk blijkt over welke   locatie het gaat;<BR>2° bij de aanvraag is een volledig ingevulde vragenlijst   met bijlagen opgenomen, waarvan het model is opgenomen in bijlage III, die bij   dit besluit is gevoegd.<BR></P>  <P>De bepaling vermeld onder punt 2° is niet van toepassing in het geval van   nieuwbouw die bij indiening van de aanvraag nog niet voltooid is. Onder   nieuwbouw wordt verstaan zowel de oprichting van een nieuw gebouw als de   uitbreiding van een bestaand gebouw, steeds met het doel hierin onderwijs te   organiseren.<BR></P>  <P>Art. 7ter. De Vlaamse minister, bevoegd voor het onderwijs, is ertoe   gemachtigd om te beslissen over de goedkeuring van de aanvragen tot   ingebruikname van nieuwe vestigingsplaatsen, vermeld in artikel 14, § 4, derde   lid, en 15, § 4, derde lid, van de Codex Secundair Onderwijs van 17 december   2010, en artikel 10, § 4, derde lid, en 11, § 4, derde lid, van het decreet van   10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse   Gemeenschap.".<BR></P>
+
+### ART. 31.
+
+Bijlage II bij hetzelfde besluit, vervangen bij het besluit van de Vlaamse   Regering van 30 mei 2008, wordt vervangen door bijlage 3, die bij dit besluit is   gevoegd.<BR>
+
 ## HOOFDSTUK 4 Wijziging van het besluit van de Vlaamse Regering van 18 juli 2008 houdende organisatie van het experimenteel voltijds gewoon secundair onderwijs volgens een modulair stelsel
 
 ## HOOFDSTUK 5 Wijziging van het besluit van de Vlaamse Regering van 19 juni 2009 houdende de voorwaarden tot toekenning van de subsidies en houdende de wijze van selectie, de duur en de evaluatie van kortdurende en langdurige time-out programma's
