@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024173,
+  "title": "Decreet van 2014-03-28 tot wijziging van diverse bepalingen van het decreet van 5 mei 2006 houdende de erkenning van de Vlaamse Gebarentaal",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024173/VolledigDocument?datum=2014-06-23",
+  "source_sha256": "4ce74f112e755a38af2bcc3d10a2479b6c3023fe220670d8ce489a0ed4e004a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024173&param=informatie",
+  "as_of": "2014-06-23",
+  "made": "2014-03-28",
+  "gazette": "2014-06-13",
+  "numac": 2014202553,
+  "document_start": "2014-06-23",
+  "document_end": null,
+  "in_force": "2014-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
