@@ -2,16 +2,16 @@
   "codex_id": 1014674,
   "title": "Decreet van 2006-05-05 houdende de erkenning van de Vlaamse Gebarentaal",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014674/VolledigDocument?datum=2006-07-27",
-  "source_sha256": "addb8ad827cf398a96f71f68d4d6bd441d654b8779aeb46005432b71d72cc603",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014674/VolledigDocument?datum=2014-06-23",
+  "source_sha256": "56efe4185c9ea78e12f72666a3e88af518f7c522f58d10b69780192aa440cd42",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014674&param=informatie",
-  "as_of": "2006-07-27",
+  "as_of": "2014-06-23",
   "made": "2006-05-05",
   "gazette": "2006-07-17",
   "numac": 2006036050,
   "document_start": "2006-07-27",
   "document_end": null,
-  "in_force": "2006-07-27",
+  "in_force": "2014-06-23",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-06-23; future article versions excluded; article text as the API gives it"
 }
