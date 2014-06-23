@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024625,
+  "title": "Ministerieel besluit van 2014-06-23 tot wijziging van artikel 4 van het ministerieel besluit van 18 mei 2010 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024625/VolledigDocument?datum=2014-06-23",
+  "source_sha256": "6f080130d4215b6e70875c79993d87cb446ff69f5302d9e0ff6ce5c94ac11985",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024625&param=informatie",
+  "as_of": "2014-06-23",
+  "made": "2014-06-23",
+  "gazette": "2014-10-02",
+  "numac": 2014035930,
+  "document_start": "2014-06-23",
+  "document_end": null,
+  "in_force": "2014-06-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
