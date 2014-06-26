@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2014-01-30 houdende beperkte technische wijzigingen aan het ministerieel besluit van 7 mei 2011 tot vaststelling van de voorwaarden voor de kenmerken en de kwaliteit van pootringen voor vogels
+
+### Aanhef
+
+<P>DE VLAAMSE MINISTER VAN LEEFMILIEU, NATUUR EN CULTUUR,<BR></P>  <P>Gelet op het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu, artikel 51, § 2, vervangen bij het decreet van 19 juli   2002;<BR></P>  <P>Gelet op het Soortenbesluit van 15 mei 2009, artikel 42, tweede lid;<BR></P>  <P>Gelet op het ministerieel besluit van 7 mei 2011 tot vaststelling van de   voorwaarden voor de kenmerken en de kwaliteit van pootringen voor   vogels;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 30 oktober   2013;<BR></P>  <P>Gelet op het advies 54.670/1 van de Raad van State, gegeven op 30 december   2013, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde   wetten op de Raad van State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Overwegende dat over de inhoud van dit besluit op 7 mei 2013 overleg werd   gevoerd met de conform artikel 45 van het Soortenbesluit van 15 mei 2009 erkende   vogelhoudersverenigingen, <BR></P>  <P>Besluit: </P>
+
+### ART. 1.
+
+In artikel 1, tweede lid, van het ministerieel besluit van 7 mei 2011 tot   vaststelling van de voorwaarden voor de kenmerken en de kwaliteit van pootringen   voor vogels wordt tussen de woorden "van toepassing" en de woorden "zijn in het   bijzonder" het woord "is" ingevoegd.
+
+### ART. 2.
+
+<P>In artikel 2 van hetzelfde besluit worden de volgende wijzigingen   aangebracht: <BR></P>  <P>1° in paragraaf 1 wordt punt 2° vervangen door wat volgt: "2° de pootringen   zijn vervaardigd van verhard aluminium of roestvrij staal met een treksterkte   van ten minste 250 Newton/mm<SUP>2</SUP> en ten hoogste 280   Newton/mm<SUP>2</SUP>, of ze zijn vervaardigd van kunststof;"; <BR></P>  <P>2° in paragraaf 1, 3° worden tussen de woorden "de pootringen zijn" en de   woorden "voorzien van een kleurlaag" de woorden "gekleurd of" ingevoegd;   <BR></P>  <P>3° paragraaf 2 wordt vervangen door wat volgt: " § 2. In afwijking van   paragraaf 1, 3°, moeten pootringen voor roofvogels (Accipitriformes), die   vervaardigd zijn van roestvrij staal, niet voorzien zijn van een kleurlaag.".   </P>
+
+### ART. 3.
+
+In de bijlage bij hetzelfde besluit worden in de tabel de volgende   wijzigingen aangebracht: <BR>1° de rij "Cygnus columbianus kleine zwaan 20.0"   wordt vervangen door de rij "Cygnus columbianus kleine zwaan 24.0";<BR>2° de rij   "Corvus corone kraai 7.0" wordt vervangen door de rij "Corvus corone kraai   9.0";<BR>3° de rij "Ciconia ciconia ooievaar 16.0" wordt vervangen door de rij   "Ciconia ciconia ooievaar 18.0";<BR>4° de rij "Porphyrio porphyrio purperkoet   12.0" wordt vervangen door de rij "Porphyrio porphyrio purperkoet 14.0"; <BR>5°   de rij "Cygnus cygnus wilde zwaan 24.0" wordt vervangen door de rij "Cygnus   cygnus wilde zwaan 27.0";<BR>6° de rij "Loxia leucoptera witbandkruisbek 3.0"   wordt vervangen door de rij "Loxia leucoptera witbandkruisbek 3.2";<BR>7° de rij   "Pterocles alchata witbuikzandhoen 6.5" wordt vervangen door de rij "Pterocles   alchata witbuikzandhoen 7.0";<BR>8° de rij "Pterocles orientalis   zwartbuikzandhoen 6.5" wordt vervangen door de rij "Pterocles orientalis   zwartbuikzandhoen 7.0";<BR>9° de rij "Oenanthe leucura zwarte tapuit 2.5" wordt   vervangen door de rij "Oenanthe leucura zwarte tapuit 3.2".
