@@ -6,11 +6,11 @@ De Vlaamse minister van Leefmilieu, Natuur en Cultuur,<br /><br />Gelet op het d
 
 ### ART. 1.
 
-Dit besluit is enkel van toepassing op pootringen die bestemd zijn voor specimens van vogelsoorten die afkomstig zijn van kweek in het Vlaamse Gewest, conform artikel 41, § 1, 1°, van het Soortenbesluit van 15 mei 2009, en op pootringen voor vinken (Fringilla coelebs ) als vermeld in artikel 41, § 2, van het voormelde besluit.<br /><br />De beschermde vogelsoorten waarop artikel 41, § 1 van het Soortenbesluit van toepassing zijn in het bijzonder de vogelsoorten die van nature in het wild voorkomen op het Europese grondgebied van de lidstaten van de Europese Unie. Een lijst van deze vogelsoorten is te vinden op de website van het directoraatgeneraal voor milieu van de Europese Commissie, meer specifiek op de volgende weblink : http://ec.europa.eu/environment/nature/conservation/wildbirds/eu_species/index_en.htm<br /><br />
+Dit besluit is enkel van toepassing op pootringen die bestemd zijn voor   specimens van vogelsoorten die afkomstig zijn van kweek in het Vlaamse Gewest,   conform artikel 41, § 1, 1°, van het Soortenbesluit van 15 mei 2009, en op   pootringen voor vinken (Fringilla coelebs ) als vermeld in artikel 41, § 2, van   het voormelde besluit.<BR><BR>De beschermde vogelsoorten waarop artikel 41, § 1   van het Soortenbesluit van toepassing is zijn in het bijzonder de vogelsoorten   die van nature in het wild voorkomen op het Europese grondgebied van de   lidstaten van de Europese Unie. Een lijst van deze vogelsoorten is te vinden op   de website van het directoraatgeneraal voor milieu van de Europese Commissie,   meer specifiek op de volgende weblink :   http://ec.europa.eu/environment/nature/conservation/wildbirds/eu_species/index_en.htm<BR><BR>
 
 ### ART. 2.
 
-§ 1. De in het Vlaamse Gewest afgegeven gesloten pootringen, zoals vermeld in artikel 41, § 1, 1°, van het Soortenbesluit van 15 mei 2009, moeten voldoen aan de volgende normen :<br />1° De pootringen moeten van een dergelijke kwaliteit zijn dat de binnendiameter noch langs fysische noch langs chemische weg kan worden veranderd. De pootringen mogen niet uitgevijld, gerekt, doorgezaagd of op enige andere wijze aangepast worden;<br />2° de pootringen zijn vervaardigd van verhard aluminium, met een treksterkte van van minimum 250 Newton/mm2 en maximum 280 Newton/mm2;<br />3° de pootringen zijn voorzien van een kleurlaag die voor elk jaar waarin de ring wordt aangebracht, verschillend is;<br />4° de pootringen moeten cilindervormig zijn en de beide openingen ervan moeten dezelfde diameter bezitten;<br />5° het unieke merkteken op de pootringen moet ten minste de volgende vermeldingen bevatten :<br />a) de laatste twee cijfers van het jaartal waarin de ring mag worden aangebracht;<br />b) de aanduiding van de binnendiameter in millimeter tot op één tiende van een millimeter nauwkeurig;<br />c) de initialen of een hiermee overeenstemmende lettercode van de erkende vereniging die de ring uitgeeft;<br />d) het unieke kweeknummer van de kweker die de pootring heeft aangevraagd bij de in c) vermelde erkende vereniging;<br />e) per ring een uniek nummer.<br />De vermeldingen op de pootringen moeten op zulke wijze zijn aangebracht dat zij leesbaar blijven gedurende de hele gebruiksduur van de ring.<br />6° de pootringen, aangebracht bij vogels van een bepaalde soort, moeten voldoen aan de voor de betrokken soort vastgelegde maximumbinnendiameter, uitgedrukt in millimeter tot op één tiende van een millimeter nauwkeurig, zoals bepaald in de bijlage. Voor soorten waarvoor geen maximumbinnendiameter is bepaald in de bijlage moet de ring passend zijn, conform artikel 42, eerste lid, 4°, van het Soortenbesluit van 15 mei 2009. Voor deze laatste soorten is in de laatste kolom van de bijlage de afkorting « NB » toegevoegd, waarmee wordt aangegeven dat de maximumbinnendiameter « niet bepaald » is.<br /><br />§ 2. In afwijking van paragraaf 1, 2°, kunnen pootringen voor roofvogels (Accipitriformes ) vervaardigd zijn van roestvrij staal. Dergelijke stalen ringen moeten niet voorzien zijn van een kleurlaag zoals vermeld in paragraaf 1, 3°.<br /><br />In afwijking van paragraaf1, 2°, kunnen pootringen voor vogelsoorten, behorend tot een van de volgende ordes, vervaardigd zijn van kunststof of roestvrij staal :<br />1° eendachtigen (Anseriformes );<br />2° ooievaarachtigen (Ciconiiformes );<br />3° hoendervogels (Galliformes );<br />4° kraanvogelachtigen (Gruiformes );<br />5° steltloperachtigen (Charadriiformes );<br />6° duifachtigen (Columbiformes );<br />7° pelikaanachtigen (Pelicaniformes ).<br /><br />
+§ 1. De in het Vlaamse Gewest afgegeven gesloten pootringen, zoals vermeld   in artikel 41, § 1, 1°, van het Soortenbesluit van 15 mei 2009, moeten voldoen   aan de volgende normen :<BR>1° De pootringen moeten van een dergelijke kwaliteit   zijn dat de binnendiameter noch langs fysische noch langs chemische weg kan   worden veranderd. De pootringen mogen niet uitgevijld, gerekt, doorgezaagd of op   enige andere wijze aangepast worden;<BR>2° de pootringen zijn vervaardigd van   verhard aluminium of roestvrij staal met een treksterkte van ten minste 250   Newton/mm<SUP>2</SUP> en ten hoogste 280 Newton/mm<SUP>2</SUP>, of ze zijn   vervaardigd van kunststof;<BR>3° de pootringen zijn gekleurd of voorzien van een   kleurlaag die voor elk jaar waarin de ring wordt aangebracht, verschillend   is;<BR>4° de pootringen moeten cilindervormig zijn en de beide openingen ervan   moeten dezelfde diameter bezitten;<BR>5° het unieke merkteken op de pootringen   moet ten minste de volgende vermeldingen bevatten :<BR>a) de laatste twee   cijfers van het jaartal waarin de ring mag worden aangebracht;<BR>b) de   aanduiding van de binnendiameter in millimeter tot op één tiende van een   millimeter nauwkeurig;<BR>c) de initialen of een hiermee overeenstemmende   lettercode van de erkende vereniging die de ring uitgeeft;<BR>d) het unieke   kweeknummer van de kweker die de pootring heeft aangevraagd bij de in c)   vermelde erkende vereniging;<BR>e) per ring een uniek nummer.<BR>De vermeldingen   op de pootringen moeten op zulke wijze zijn aangebracht dat zij leesbaar blijven   gedurende de hele gebruiksduur van de ring.<BR>6° de pootringen, aangebracht bij   vogels van een bepaalde soort, moeten voldoen aan de voor de betrokken soort   vastgelegde maximumbinnendiameter, uitgedrukt in millimeter tot op één tiende   van een millimeter nauwkeurig, zoals bepaald in de bijlage. Voor soorten   waarvoor geen maximumbinnendiameter is bepaald in de bijlage moet de ring   passend zijn, conform artikel 42, eerste lid, 4°, van het Soortenbesluit van 15   mei 2009. Voor deze laatste soorten is in de laatste kolom van de bijlage de   afkorting « NB » toegevoegd, waarmee wordt aangegeven dat de   maximumbinnendiameter « niet bepaald » is.<BR><BR>§ 2. In afwijking van   paragraaf 1, 3°, moeten pootringen voor roofvogels (Accipitriformes), die   vervaardigd zijn van roestvrij staal, niet voorzien zijn van een   kleurlaag.<BR><BR>
 
 ### ART. 3.
 
@@ -3518,7 +3518,7 @@ v : vrouwtje
 			<p>kleine zwaan</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>20,0</p>
+			<p>24,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -3738,7 +3738,7 @@ v : vrouwtje
 			<p>kraai</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>7,0</p>
+			<p>9,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -4550,7 +4550,7 @@ v : vrouwtje
 			<p>ooievaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>16,0</p>
+			<p>18,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -4880,7 +4880,7 @@ v : vrouwtje
 			<p>purperkoet</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>12,0</p>
+			<p>14,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -6816,7 +6816,7 @@ v : vrouwtje
 			<p>wilde zwaan</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>24,0</p>
+			<p>27,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -6904,7 +6904,7 @@ v : vrouwtje
 			<p>witbandkruisbek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>3,0</p>
+			<p>3,2</p>
 			</td>
 		</tr>
 		<tr>
@@ -6926,7 +6926,7 @@ v : vrouwtje
 			<p>witbuikzandhoen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>6,5</p>
+			<p>7,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -7300,7 +7300,7 @@ v : vrouwtje
 			<p>zwartbuikzandhoen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>6,5</p>
+			<p>7,0</p>
 			</td>
 		</tr>
 		<tr>
@@ -7421,7 +7421,7 @@ v : vrouwtje
 			<p>zwarte tapuit</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>2,5</p>
+			<p>3,2</p>
 			</td>
 		</tr>
 		<tr>
