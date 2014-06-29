@@ -1526,7 +1526,7 @@ De artikel 200 en 20bis tot en met 200quinquies van dit decreet en artikel 119 v
 
 ### ART. 285.
 
-Benevens de beslissingsbevoegdheden waarover de districtsraad beschikt op grond van deze wet heeft de districtsraad ook een algemene adviesbevoegdheid voor alle aangelegenheden die betrekking hebben op het district.
+Benevens de beslissingsbevoegdheden waarover de districtsraad beschikt op   grond van dit decreet, heeft de districtsraad ook een algemene adviesbevoegdheid   voor alle aangelegenheden die betrekking hebben op het district. De   districtsraad kan bij reglement die algemene adviesbevoegdheid of delen ervan   overdragen aan het districtscollege.
 
 ### ART. 286.
 
