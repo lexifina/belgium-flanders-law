@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024190,
+  "title": "Decreet van 2014-03-28 houdende wijziging van artikel 285 van het Gemeentedecreet van 15 juli 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024190/VolledigDocument?datum=2014-06-29",
+  "source_sha256": "949207469a3a116fef86beaff6e716e310ba0234f9f82d94dcb664e30dc37389",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024190&param=informatie",
+  "as_of": "2014-06-29",
+  "made": "2014-03-28",
+  "gazette": "2014-06-19",
+  "numac": 2014202408,
+  "document_start": "2014-06-29",
+  "document_end": null,
+  "in_force": "2014-06-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
