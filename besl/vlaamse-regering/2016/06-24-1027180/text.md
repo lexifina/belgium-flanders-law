@@ -45,3 +45,8 @@ In deel VII, titel 3, hoofdstuk 9 van hetzelfde besluit, ingevoegd bij het beslu
 1° in de titel worden de woorden "en Amsterdam" geschrapt;<br>
 2° in artikel VII 91bis worden de woorden "of tewerkgesteld in de Brakke Grond in Amsterdam," geschrapt.<br>
 &nbsp;
+
+### ART 96.
+
+In artikel VII 109septies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt de zinsnede "samengeordende wetten betreffende de kinderbijslag voor loonarbeiders van 19 december 1939, hierna SWKL te noemen" vervangen door de zinsnede "Algemene kinderbijslagwet (AKBW) van 19 december 1939".<br>
+&nbsp;
