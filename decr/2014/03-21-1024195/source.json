@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024195,
+  "title": "Decreet van 2014-03-21 houdende instemming met het samenwerkingsakkoord van 13 december 2013 tussen de Federale Overheid, de Gemeenschappen, de Gewesten en de Gemeenschapscommissies betreffende de uitvoering van artikel 3, § 1, van het verdrag inzake stabiliteit, coördinatie en bestuur in de Economische en Monetaire Unie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024195/VolledigDocument?datum=2014-06-30",
+  "source_sha256": "e326b5d23cead1ce11d9434a9021db01d31ccc7cfde48a6f01f660e2d2360c5e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024195&param=informatie",
+  "as_of": "2014-06-30",
+  "made": "2014-03-21",
+  "gazette": "2014-06-20",
+  "numac": 2014035419,
+  "document_start": "2014-06-30",
+  "document_end": null,
+  "in_force": "2014-06-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
