@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024107,
+  "title": "Decreet van 2014-04-25 houdende instemming met het samenwerkingsakkoord van 17 december 2013 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap met betrekking tot de uitoefening van de opdrachten van de Justitiehuizen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024107/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "8d23330c3188bac60e7aa42de5795fb0ca1bc1cae3ac904b87c3d496bb9d7157",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024107&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-04-25",
+  "gazette": "2014-05-23",
+  "numac": 2014203104,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
