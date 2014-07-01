@@ -6,8 +6,8 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 4 april 2003 betreffend
 
 ### ART. 1.
 
-De opleiding bachelor in de taal- en letterkunde : combinatie van twee talen te kiezen uit Latijn, de Romaanse talen of de Germaanse talen van de Vrije Universiteit Brussel krijgt een tijdelijke erkenning.<br /><br />De tijdelijke erkenning geldt voor een periode van drie jaar, die ingaat vanaf het begin van het academiejaar 2011-2012 en vervalt op het einde van het academiejaar 2013-2014.<br /><br />
+...
 
 ### ART. 2.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit. <br /><br />
+...
