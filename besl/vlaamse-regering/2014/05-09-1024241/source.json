@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024241,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot rangschikking van onbevaarbare waterlopen op het grondgebied van de provincie Oost-Vlaanderen in een hogere of lagere categorie zoals bedoeld in artikel 4bis, § 3, van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024241/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "81c120fc63019c2dae8a68c8e18f5f2fad649c94d78c54262294b838e34b060f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024241&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-05-09",
+  "gazette": "2014-07-01",
+  "numac": 2014035696,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
