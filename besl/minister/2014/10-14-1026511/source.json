@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026511,
+  "title": "Ministerieel besluit van 2014-10-14 tot wijziging van het ministerieel besluit van 20 juni 2014 tot delegatie van bepaalde bevoegdheden inzake de erkenning van gezondheidszorgberoepen en de tegemoetkoming hulp aan bejaarden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026511/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "2c5c7944a659731a8cf99b7dba121921b42e8d95ec5296e216c939848ead05db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026511&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-10-14",
+  "gazette": "2016-02-26",
+  "numac": 2016200951,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
