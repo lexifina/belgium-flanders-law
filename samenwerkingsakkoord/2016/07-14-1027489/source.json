@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027489,
+  "title": "Samenwerkingsakkoord van 2016-07-14 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende het vaststellen van de aanknopingsfactoren tot vaststelling van het personele toepassingsgebied van de wettelijke en reglementaire bepalingen van de deelentiteiten, de budgettering en verrekening van de voor de deelentiteiten betaalde gezinsbijslagen en de effectieve invoering van gemeenschappelijke wijzigende bepalingen voorgesteld door het Beheerscomité van FAMIFED",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027489/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "7e079ab9b622cf039094110bd150b97ce09590f74cae1fe2b03992d38eaae541",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027489&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2016-07-14",
+  "gazette": "2016-10-20",
+  "numac": 2016021078,
+  "document_start": "2014-07-01",
+  "document_end": "2019-12-31",
+  "in_force": "2014-07-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
