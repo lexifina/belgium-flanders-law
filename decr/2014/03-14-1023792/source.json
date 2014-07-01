@@ -2,16 +2,16 @@
   "codex_id": 1023792,
   "title": "Decreet van 2014-03-14 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de omzetting van de Richtlijn van de Europese Unie 2012/27/EU van 25 oktober 2012 betreffende energie-efficiëntie en de toekenning van groenestroomcertificaten, warmte-krachtcertificaten en garanties van oorsprong",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023792/VolledigDocument?datum=2014-04-07",
-  "source_sha256": "421d7b986a2ee3a075c935ec678ceacdf1aeeb00ef615b9726e0b40cbc077f81",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023792/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "c9037d5afb09a163beef6d0b223f3a011eac9198f02e497b6f8e49a4cf7903aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023792&param=informatie",
-  "as_of": "2014-04-07",
+  "as_of": "2014-07-01",
   "made": "2014-03-14",
   "gazette": "2014-03-28",
   "numac": 2014035292,
   "document_start": "2014-04-07",
   "document_end": null,
-  "in_force": "2014-04-07",
-  "article_versions": 28,
-  "record_form": "consolidated version as in force on 2014-04-07; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-07-01",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }

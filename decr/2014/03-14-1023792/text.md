@@ -20,6 +20,10 @@ In artikel 1.1.3 van hetzelfde decreet worden de volgende wijzigingen   aangebra
 
 Aan artikel 3.1.3 van hetzelfde decreet worden de volgende wijzigingen   aangebracht: <BR>1° in het eerste lid wordt punt 2° vervangen door wat   volgt:<BR>"2° regulerende taken: de regulering van toegang tot en de werking van   de elektriciteits- en gasmarkt, inclusief de distributienettarieven voor   elektriciteit en aardgas of overgangsmaatregelen hierover, overeenkomstig de   bepalingen van dit decreet;";<BR>2° in het eerste lid, 4°, wordt littera f)   vervangen door wat volgt:<BR>"f) het jaarlijks voor 30 juni publiceren van een   rapport over de door elke leverancier gemaakte en doorgerekende kosten om te   voldoen aan de verplichting, vermeld in artikel 7.1.10 en 7.1.11, waarbij de   VREG per elektriciteitsleverancier de gewogen gemiddelde kost per certificaat,   berekend volgens punt d) voor de vorige inleveringsperiode, vergelijkt met de   doorgerekende kost per certificaat voor die inleveringsperiode, zoals door de   elektriciteitsleverancier gerapporteerd in het kader van de V-test voor het   gemiddelde huishoudelijke klantenprofiel;".
 
+### ART. 5.
+
+Aan artikel 3.1.4, § 2, van hetzelfde decreet, gewijzigd bij het decreet   van 8 juli 2011, wordt een punt 12° toegevoegd, dat luidt als volgt:<BR>"12° het   goedkeuren van distributienettarieven voor elektriciteit en aardgas en het   vaststellen van de berekeningsmethodes hiervoor, volgens transparante criteria   of het nemen van overgangsmaatregelen hierover.".
+
 ### ART. 6.
 
 Aan artikel 3.1.4/1 van hetzelfde decreet wordt een punt 9° toegevoegd,   dat luidt als volgt:<BR>"9° het geven van prikkels voor de deelname van   vraagzijdemiddelen aan het aanbod op de Vlaamse elektriciteits- en   gasmarkt.".
