@@ -2,16 +2,16 @@
   "codex_id": 1020450,
   "title": "Besluit van de Vlaamse Regering van 2011-06-24 tot tijdelijke erkenning van de masteropleiding master in de taal- en letterkunde : ten minste één taal te kiezen uit Latijn, de Romaanse talen of de Germaanse talen van de Vrije Universiteit Brussel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020450/VolledigDocument?datum=2011-09-01",
-  "source_sha256": "74a0d72992b591b5edacc3fe23e7ec3cceed151758eecdff92a9c466fc9401d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020450/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "1399c24bde7f09f67b46004c80f9e19032b189d5a47f0370e086def91ee78c4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020450&param=informatie",
-  "as_of": "2011-09-01",
+  "as_of": "2014-07-01",
   "made": "2011-06-24",
   "gazette": "2011-07-22",
   "numac": 2011203713,
   "document_start": "2011-09-01",
   "document_end": "2014-06-30",
-  "in_force": "2011-09-01",
+  "in_force": "2014-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2011-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }
