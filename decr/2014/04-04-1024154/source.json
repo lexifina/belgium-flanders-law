@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024154,
+  "title": "Decreet van 2014-04-04 houdende wijziging van artikel 42, § 1, van het decreet van 20 april 2001 betreffende de organisatie van het personenvervoer over de weg",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024154/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "cfb4f09e0fa13f30d2a1f0b5d4d32a70109df1539cbb4430b9b634692c16a036",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024154&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-04-04",
+  "gazette": "2014-06-12",
+  "numac": 2014035452,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
