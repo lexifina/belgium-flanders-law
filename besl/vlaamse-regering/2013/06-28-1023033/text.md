@@ -22,7 +22,7 @@ Dit besluit wordt aangehaald als : het Jachtopeningsbesluit   2013-2018.<BR>
 
 ### ART. 4.
 
-<P>§ 1. De jacht op klein wild is open in de volgende periodes :<BR>1° voor   patrijs : van 15 september tot en met 14 november;<BR>2° voor haas : van 15   oktober tot en met 31 december;<BR>3° voor fazanthen : van 15 oktober tot en met   31 december;<BR>4° voor fazanthaan : van 15 oktober tot en met 31   januari.<BR></P>  <P>§ 2. De jacht bedoeld in paragraaf 1, 1°, is van 15 oktober tot en met 14   november alleen geopend voor erkende wildbeheereenheden.<BR></P>
+<P>§ 1. De jacht op klein wild is open in de volgende periodes :<BR>1° voor   patrijs : van 15 september tot en met 14 november;<BR>2° voor haas : van 15   oktober tot en met 31 december;<BR>3° voor fazanthen : van 15 oktober tot en met   31 december;<BR>4° voor fazanthaan : van 15 oktober tot en met 31   januari.<BR></P>  <P>§ 2. De jacht bedoeld in paragraaf 1, 1°, is alleen geopend voor erkende   wildbeheereenheden.<BR></P>
 
 ### ART. 5.
 
