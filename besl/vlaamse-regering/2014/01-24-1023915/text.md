@@ -18,6 +18,10 @@ Artikel 3, § 3, van het besluit van de Vlaamse Regering van 29 september   2006
 
 In artikel 9 van bijlage III bij hetzelfde besluit, gewijzigd bij het   besluit van de Vlaamse Regering van 21 december 2012, worden de volgende   wijzigingen aangebracht : <BR>1° paragraaf 3 wordt vervangen door wat volgt :   <BR>« § 3. De sociale huisvestingsmaatschappij investeert het bedrag van de   netto-opbrengst van de verkoop van een woning met toepassing van het kooprecht   opnieuw op de wijze, vermeld in artikel 10 van het Financieringsbesluit van 21   december 2012. »; <BR>2° paragraaf 4 en paragraaf 5 worden   opgeheven.<BR>
 
+### ART. 4.
+
+In artikel 3, § 1, eerste lid, van bijlage VI bij hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 11 oktober 2013, wordt de   zin "Ter uitvoering van artikel 84, § 1, van de Vlaamse Wooncode, worden voor de   bepaling van de wederinkoopprijs de bedragen van de oorspronkelijke verkoopprijs   en de gemaakte kosten van de koop geïndexeerd op de wijze, vermeld in artikel 3,   § 2, van dit besluit." vervangen door de zin "Ter uitvoering van artikel 84, §   1, van de Vlaamse Wooncode worden voor de bepaling van de wederinkoopprijs de   bedragen van de oorspronkelijke verkoopprijs en de gemaakte kosten van de koop   geïndexeerd door ze aan te passen aan de evolutie van de gezondheidsindex (basis   2004) naar het gezondheidsindexcijfer van de maand juni van het vorige jaar en   met als basis het gezondheidsindexcijfer van de maand juni van het jaar dat   voorafgaat aan het jaar waarin de oorspronkelijke verkoop heeft   plaatsgevonden.".<BR>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 23 december 2011 houdende de organisatie van het toezicht, vermeld in artikel 29bis van de Vlaamse Wooncode
 
 ### ART. 5.
