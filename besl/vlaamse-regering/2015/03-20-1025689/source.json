@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025689,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-20 houdende de aanpassing van het kaderdecreet en de besluiten van de Vlaamse Regering bedrijvencentra en doorgangsgebouwen, kmo-portefeuille, ecologiepremie, strategische ecologiesteun en strategische transformatiesteun aan de algemene groepsvrijstellingsverordening, de de-minimisverordening, de richtsnoeren inzake milieu en de richtsnoeren inzake reddings- en herstructureringssteun",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025689/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "b683d8aa9c9903e87ed48b3c0fadbb76285a82c20085b20de245ff195b2038a1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025689&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2015-03-20",
+  "gazette": "2015-08-10",
+  "numac": 2015035989,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
