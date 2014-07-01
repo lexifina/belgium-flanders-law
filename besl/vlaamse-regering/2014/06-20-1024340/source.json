@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024340,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie, wat betreft de verdeling van de bevoegdheden, overgedragen in het kader van de zesde staatshervorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024340/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "6d17876a919c61fb9cc36c0f92b214f9cfbc5a70dd9ce4eb911a5c8ccc778281",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024340&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-06-20",
+  "gazette": "2014-07-30",
+  "numac": 2014035971,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
