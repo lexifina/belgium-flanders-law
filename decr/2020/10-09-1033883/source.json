@@ -1,0 +1,17 @@
+{
+  "codex_id": 1033883,
+  "title": "Decreet van 2020-10-09 houdende diverse bepalingen over het gemeenschappelijk vervoer, het algemeen mobiliteitsbeleid, de weginfrastructuur en het wegenbeleid, en de waterinfrastructuur en het waterbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1033883/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "6c568f13362a71258ed9a538ea62dd1308a781d83343f35346287257bbe766dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1033883&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2020-10-09",
+  "gazette": "2020-11-27",
+  "numac": 2020016108,
+  "document_start": "2020-12-07",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
