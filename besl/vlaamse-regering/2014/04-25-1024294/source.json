@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024294,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 3 juli 2009 betreffende vergoeding van wildschade of van schade door beschermde soorten en tot wijziging van hoofdstuk IV van het besluit van de Vlaamse Regering van 23 juli 1998 tot vaststelling van nadere regels ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijke milieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024294/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "1d651d6cd11323fe96af894c27c5b993a71791431dba64ea08b9243c3e730917",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024294&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-04-25",
+  "gazette": "2014-07-10",
+  "numac": 2014035649,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
