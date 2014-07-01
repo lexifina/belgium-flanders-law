@@ -2,16 +2,16 @@
   "codex_id": 1018276,
   "title": "Ministerieel besluit van 2009-06-02 tot vaststelling van de handleiding en van de formulieren vermeld in artikel 6, § 2, van het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018276/VolledigDocument?datum=2009-09-07",
-  "source_sha256": "e294fe437384891f66cd9551e0292b139fd9d4abb2f74fbb2b313bc1f0a6f413",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018276/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "9dee94ff97aa40b726e9cf63bd09939e9f543b33b60eea3a98bf53d44ede2efb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018276&param=informatie",
-  "as_of": "2009-09-07",
+  "as_of": "2014-07-01",
   "made": "2009-06-02",
   "gazette": "2009-08-28",
   "numac": 2009035758,
   "document_start": "2009-09-07",
   "document_end": "2014-06-30",
-  "in_force": "2009-09-07",
+  "in_force": "2014-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2009-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }
