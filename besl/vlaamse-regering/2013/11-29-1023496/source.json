@@ -2,16 +2,16 @@
   "codex_id": 1023496,
   "title": "Besluit van de Vlaamse Regering van 2013-11-29 tot wijziging van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning en van het Energiebesluit van 19 november 2010, wat betreft de openbaredienstverplichtingen van de distributienetbeheerders of de beheerder van het plaatselijk vervoernet van elektriciteit aangaande de sociale energiemaatregelen en ter stimulering van het rationeel energiegebruik",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023496/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "6e40761438c723d02e465de7190d9725fbf1cadb80bdc512cc1eed85e77d3e1f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023496/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "81855aee992a4ef92078e0aa62861ac06c4d5d7be0e452c254ef661b071f4ec0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023496&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-07-01",
   "made": "2013-11-29",
   "gazette": "2013-12-19",
   "numac": 2013036164,
   "document_start": "2013-12-29",
   "document_end": null,
-  "in_force": "2014-01-01",
-  "article_versions": 27,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-07-01",
+  "article_versions": 35,
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }
