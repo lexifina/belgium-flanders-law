@@ -212,6 +212,10 @@ Een dienst waarvan de sluiting is bevolen of waarvan de vergunning is   ingetrok
 
 ## Afdeling 4 Toezicht
 
+### ART. 47.
+
+Het agentschap en het intern verzelfstandigd agentschap Zorginspectie   oefenen het toezicht uit op de naleving door de diensten voor pleegzorg van de   bepalingen van : <BR>1° het decreet van 29 juni 2012 en de uitvoeringsbesluiten   ervan;<BR>2° het decreet van 17 oktober 2003 betreffende de kwaliteit van de   gezondheids- en welzijnsvoorzieningen en de uitvoeringsbesluiten   ervan.<BR>
+
 ### ART. 48.
 
 Uiterlijk vijf jaar na het verlenen van de vergunning evalueert het   agentschap de werking van elke dienst voor pleegzorg.<BR>In functie van die   evaluatie rapporteert de dienst voor pleegzorg jaarlijks over zijn werking en   zijn kwaliteitsbeleid aan het agentschap. De minister zal daarvoor, in overleg   met het werkveld, nadere richtlijnen opstellen.<BR>
