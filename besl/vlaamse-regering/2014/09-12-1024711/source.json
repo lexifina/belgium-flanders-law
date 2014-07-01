@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024711,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-12 tot wijziging van artikel 3 en 5 van het besluit van de Vlaamse Regering van 4 juli 2008 betreffende de bestaanszekerheidsvergoeding voor busbegeleiders",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024711/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "7fac6ee29f7e66b4cdf6c8b1b3de50d4e91d7de6cb5f160c3ea66152bd11ba7d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024711&param=informatie",
+  "as_of": "2014-07-01",
+  "made": "2014-09-12",
+  "gazette": "2014-10-29",
+  "numac": 2014036674,
+  "document_start": "2014-07-01",
+  "document_end": null,
+  "in_force": "2014-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
