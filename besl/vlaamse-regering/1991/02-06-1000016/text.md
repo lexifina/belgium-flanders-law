@@ -51152,6 +51152,8 @@ Indien het specifiek geluid van de windturbine hoger ligt dan de richtwaarde ver
 4° in punt E2 wordt tussen de kolom « product » en de kolom « per dag » een kolom « stuifcategorie » ingevoegd;<br>
 5° aan deel F « Technische gegevens die bij specifieke aanvragen vereist zijn » wordt een punt F15 toegevoegd, dat luidt als volgt :</p>
 
+<p>&nbsp;</p>
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -51175,12 +51177,14 @@ Indien het specifiek geluid van de windturbine hoger ligt dan de richtwaarde ver
 		</tr>
 	</tbody>
 </table>
-<br>
+
+<p>&nbsp;</p>
+
+<p><br>
 Als u bij vraag F15 een of meer hokjes hebt aangekruist, voeg dan bij dit formulier als bijlage F15 de gegevens en documenten die vermeld worden in de toelichtingsbijlage bij dit formulier in punt F15. »<br>
 6° in punt H6 wordt onder het aankruishokje « «  F14 » een aankruishokje «  F15 » toegevoegd.<br>
 <br>
-(zie BVR 18 januari 2013, art. 2)
-<p>&nbsp;</p>
+(zie BVR 18 januari 2013, art. 2)</p>
 
 <p>6) In bijlage 4A worden met ingang van 29 april 2013 de volgende wijzigingen aangebracht:</p>
 
@@ -51441,9 +51445,34 @@ Geef voor het gebruik van elke stof die valt onder het toepassingsgebied van tit
 </table>
 <br>
 ».<br>
-(zie art. 33 BVR 7 juni 2013)<br>
-&nbsp;
+(zie art. 33 BVR 7 juni 2013)
 <p>&nbsp;</p>
+
+<p>9)&nbsp; Aan bijlage 4.B wordt met ingang van 1 juli 2014&nbsp;een punt F15 toegevoegd, dat luidt als volgt :<br>
+« F15 STUIVENDE STOFFEN<br>
+Een stofrapport dat minstens de volgende gegevens bevat :<br>
+1° de naam en de contactgegevens van de personen die betrokken zijn bij de opmaak van het stofrapport;<br>
+2° de opslagcapaciteit en de overslaghoeveelheid van stuivende stoffen voor de drie voorgaande kalenderjaren, voor zover mogelijk per stuifcategorie vermeld in artikel 4.4.7.2.1 van titel II van het Vlarem; voor nieuwe inrichtingen en uitbreidingen worden de verwachte hoeveelheden vermeld;<br>
+3° een beschrijving van de behandelingsstappen van de stuivende stoffen in de inrichting, met aanduiding van de potentiële bronnen van niet-geleide stofemissies;<br>
+4° een overzicht van de maatregelen die al van kracht zijn om de stofemissies te voorkomen en te beperken, en een toetsing van die maatregelen aan de beschikbare BBT-documenten en BREF's;<br>
+5° een overzicht van mogelijke bijkomende maatregelen om de stofemissies te voorkomen en te beperken;<br>
+6° een indicatief stappenplan voor de invoering van de geselecteerde bijkomende maatregelen, met vermelding van de randvoorwaarden;<br>
+7° een motivatie waarom bepaalde mogelijke bijkomende maatregelen uit punt 5° niet in het stappenplan zijn opgenomen;<br>
+8° een beschrijving van de types procedures en types voorschriften die worden gehanteerd om de stofemissies te beperken, alsook van de wijze waarop die voorschriften aan de betrokken personeelsleden worden meegedeeld; hierbij wordt ook beschreven op welke manier wordt omgegaan met goederen die bij levering tot een andere stuifcategorie behoren dan wat was verwacht;<br>
+9° een beschrijving van de manier waarop en de periodiciteit waarmee de technische installaties, de behoorlijke werking ervan en de correcte opvolging van de procedures en voorschriften zullen worden gecontroleerd.<br>
+<br>
+Bij verandering van de inrichting waarvoor al een stofrapport werd opgesteld die leidt tot een toename van de opslagcapaciteit of de overslaghoeveelheden met 50 % of meer ten opzichte van de toestand in het meest recente stofrapport of addendum, wordt bij de aanvraag van die verandering een addendum bij het bestaande stofrapport gevoegd. Dat addendum bevat de punten die aangepast moeten worden tengevolge van de verandering.<br>
+<br>
+Het stofrapport en het addendum worden goedgekeurd, ondertekend en gedateerd door een erkend MER-deskundige in de discipline lucht en worden ondertekend door de exploitant.<br>
+<br>
+Als de milieuvergunningsaanvraag betrekking heeft op een MER-plichtige inrichting, is een verwijzing naar het milieueffectrapport dat bij de aanvraag gevoegd is, voldoende, voor zover de voormelde gegevens in dat milieueffectrapport zijn opgenomen.<br>
+<br>
+Er kan verwezen worden naar andere bijlagen van de milieuvergunningsaanvraag.<br>
+<br>
+(zie BVR 18 januari 2013, art. 3)</p>
+
+<p><br>
+&nbsp;</p>
 
 ## BIJLAGE 5
 
