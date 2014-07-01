@@ -2,16 +2,16 @@
   "codex_id": 1002880,
   "title": "Ministerieel besluit van 1995-04-10 tot vaststelling van het model van overeenkomst zoals bedoeld in artikel 2 van het besluit van de Vlaamse regering van 13 juli 1994 tot invoering van een afschotplan voor reewild",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002880/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "582ca9b821416cd59ed3ceaac612206bf8dad3b9e2be79409d093103bd794129",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002880/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "f1cc4beff7a58b3d24cb299658a162f001d29900ac87a5d41a90a473f2dec341",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002880&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-07-01",
   "made": "1995-04-10",
   "gazette": "1995-06-23",
   "numac": 0,
   "document_start": null,
   "document_end": "2014-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2014-07-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }
