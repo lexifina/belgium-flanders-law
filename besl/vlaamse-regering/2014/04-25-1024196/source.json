@@ -2,16 +2,16 @@
   "codex_id": 1024196,
   "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid naar aanleiding van de evaluatie van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024196/VolledigDocument?datum=2014-06-30",
-  "source_sha256": "19faf3f1af04eea7a433e6df0a5fcdab1059d6a9c61bbe0d51b26ecaa300eea5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024196/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "de8355d0f43af25cd747d5f61102d5dec6d4ca00c0c628c5a79dfe1ea5d4c6a8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024196&param=informatie",
-  "as_of": "2014-06-30",
+  "as_of": "2014-07-01",
   "made": "2014-04-25",
   "gazette": "2014-06-20",
   "numac": 2014035625,
   "document_start": "2014-06-30",
   "document_end": null,
-  "in_force": "2014-06-30",
-  "article_versions": 61,
-  "record_form": "consolidated version as in force on 2014-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-07-01",
+  "article_versions": 63,
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }

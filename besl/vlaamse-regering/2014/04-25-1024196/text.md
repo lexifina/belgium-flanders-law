@@ -138,6 +138,10 @@ In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Rege
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt bijlage XXI vervangen door bijlage 11, die bij   dit besluit is gevoegd.<BR>
 
+### ART. 35.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt bijlage XXII vervangen door bijlage 12, die   bij dit besluit is gevoegd.<BR>
+
 ### ART. 36.
 
 &nbsp;In hetzelfde besluit, het laatst gewijzigd bij het besluit van de   Vlaamse Regering van 15 maart 2013, wordt bijlage XXIII vervangen door bijlage   13, die bij dit besluit is gevoegd.<BR>
@@ -145,6 +149,10 @@ In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Rege
 ### ART. 37.
 
 Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt een bijlage XXVII toegevoegd, die als bijlage   14 bij dit besluit is gevoegd.<BR>
+
+### ART. 38.
+
+Aan hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt een bijlage XXVIII toegevoegd, die als bijlage   15 bij dit besluit is gevoegd.<BR>
 
 ### ART. 39.
 
