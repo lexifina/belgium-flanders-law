@@ -2,16 +2,16 @@
   "codex_id": 1021923,
   "title": "Ministerieel besluit van 2012-06-14 tot vaststelling van een code van goede praktijk inzake preventieve maatregelen ter voorkoming van belangrijke schade door vossen in uitvoering van artikel 13 van het besluit van de Vlaamse Regering van 23 maart 2012 tot wijziging van het besluit van de Vlaamse Regering van 18 januari 1995 betreffende de organisatie van het jachtexamen, van het besluit van de Vlaamse Regering van 30 mei 2008 betreffende de jachtopeningstijden in het Vlaamse Gewest voor de periode van 1 juli 2008 tot en met 30 juni 2013 en van het besluit van de Vlaamse Regering van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021923/VolledigDocument?datum=2012-07-22",
-  "source_sha256": "59fa2c91e76b9e3fa8b5aaea8876b9c89070b1258f4fea1033b5d3a9d81d184a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021923/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "83744e069a42e6e15ad687340d80f634e1cc9c3975440c1a7af80c3847ec4b50",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021923&param=informatie",
-  "as_of": "2012-07-22",
+  "as_of": "2014-07-01",
   "made": "2012-06-14",
   "gazette": "2012-07-12",
   "numac": 2012203772,
   "document_start": "2012-07-22",
   "document_end": "2014-06-30",
-  "in_force": "2012-07-22",
+  "in_force": "2014-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2012-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }

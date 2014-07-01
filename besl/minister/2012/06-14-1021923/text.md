@@ -6,8 +6,8 @@ De Vlaamse Minister van Leefmilieu, Natuur en Cultuur, <br /><br />Gelet op de b
 
 ### ART. 1.
 
-De preventieve maatregelen vermeld in dit besluit hebben betrekking op schade door vossen aan dieren die onder zich worden gehouden door een eigenaar, bedoeld in artikel 19, tweede lid, 3° van het besluit van 30 mei 2008 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend. <br /><br />Voor lammeren, biggen en jonge geiten gelden die maatregelen alleen gedurende de eerste tien dagen na de geboorte.
+...
 
 ### ART. 2.
 
-Om belangrijke schade door vossen te voorkomen moet op een terrein waar de dieren, vermeld in artikel 1, worden gehouden een van de volgende preventieve maatregelen worden genomen : <br />1° een afsluitbaar nachthok voor de dieren, met een beveiligde bodem. Met een afsluitbaar nachthok wordt bedoeld dat alle openingen waar het lichaam van een vos door kan, dichtgemaakt moeten kunnen worden; <br />2° een omheining rond het verblijf van de dieren, die minimaal voldoet aan elk van de volgende kenmerken : <br />a) een technische maatregel die voorkomt dat de omheining ondergraven wordt;<br />b) de omheining bestaat uit bedrading met mazen van maximaal 3 cm x 3 cm of kippengaas met mazen van maximaal 4 cm;<br />c) de hoogte van de omheining bedraagt minimaal 180 cm. Een hoogte van minimaal 100 cm is toegelaten op voorwaarde dat de omheining bovenaan voorzien is van een stroomdraad; <br />3° het verblijf van de dieren is volledig afgesloten, inclusief met een beveiligde bodem.
+...
