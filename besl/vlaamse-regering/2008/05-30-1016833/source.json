@@ -2,16 +2,16 @@
   "codex_id": 1016833,
   "title": "Besluit van de Vlaamse Regering van 2008-05-30 houdende vaststelling van de voorwaarden waaronder de jacht kan worden uitgeoefend",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016833/VolledigDocument?datum=2013-07-03",
-  "source_sha256": "8963ece62c9f00629eeca48cf9473e8c3bea0185b83881dd4098e9fbdc9360f0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016833/VolledigDocument?datum=2014-07-01",
+  "source_sha256": "719e1d71ad2370f52d93eca9084b130f54f721e8bffa486c5f126724c5927521",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016833&param=informatie",
-  "as_of": "2013-07-03",
+  "as_of": "2014-07-01",
   "made": "2008-05-30",
   "gazette": "2008-06-13",
   "numac": 2008035627,
   "document_start": "2008-06-23",
   "document_end": "2014-06-30",
-  "in_force": "2013-07-03",
+  "in_force": "2014-07-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2013-07-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-01; future article versions excluded; article text as the API gives it"
 }
