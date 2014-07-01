@@ -2627,6 +2627,36 @@ De instellingen kunnen de via het vormingsfonds toegekende   vormingsmiddelen ma
 
 <P style="MARGIN: 0cm 0cm 0pt">Onder de voorwaarden bepaald door de Vlaamse Regering draagt de Vlaamse   Gemeenschap bij in het dekken van de kosten van projecten van internationale   samenwerking op het vlak van het hogescholenonderwijs.<?xml:namespace prefix = o ns   = "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
 
+## [Hoofdstuk 9 Steunpunt Inclusief Hoger Onderwijs (SIHO) (ing. decr. 25 april 2014, art. VI.28, I: 1 juli 2014)]
+
+### ART. III.98/1.
+
+De Vlaamse Regering is ertoe gemachtigd om onder de in volgende artikelen   vermelde voorwaarden over te gaan tot erkenning van het door de verenigde   associaties opgerichte Steunpunt Inclusief Hoger Onderwijs.
+
+### ART. III.98/2.
+
+Het Steunpunt Inclusief Hoger Onderwijs heeft als opdracht het begeleiden   en ondersteunen van de instellingen bij de implementatie van de VN-conventie van   13 december 2006 over de rechten van personen met een handicap. Centraal bij die   implementatie staat het verbeteren van de participatie van studenten met   functiebeperkingen in het Vlaams hoger onderwijs.
+
+### ART. III.98/3.
+
+§ 1. Het Steunpunt Inclusief Hoger Onderwijs bezit geen   rechtspersoonlijkheid.<BR><BR>§ 2. De associaties duiden een administratief   coördinerende instelling of instantie aan. De associaties sluiten met de   administratief coördinerende instelling of instantie een   samenwerkingsovereenkomst waarin de bestuurs- en beheersstructuur wordt   bepaald.
+
+### ART. III.98/4.
+
+De Vlaamse Regering en de associaties sluiten ten aanzien van de   organisatie van het Steunpunt Inclusief Hoger Onderwijs vijfjaarlijks een   convenant waarin ten minste de volgende elementen zijn opgenomen:<BR>1° de   aansturingsmogelijkheden van de Vlaamse Regering;<BR>2° de minimale   resultaatsverbintenissen van het Steunpunt Inclusief Hoger Onderwijs;<BR>3° de   minimale behoorlijkheidsvereisten op het vlak van het financieel management,   evenals de mogelijkheden om een bepaalde financiële reserve aan te leggen van   maximaal 20 procent per jaar van de werkingsenveloppe die in een bepaald jaar is   toegekend. De totale gecumuleerde reserve op basis van de werkingsenveloppe mag   maximaal 50 procent van de jaarlijkse werkingsenveloppe bedragen;<BR>4° de   rapporterings- en controlemechanismen, in het bijzonder de wijze van evaluatie   van het Steunpunt Inclusief Hoger Onderwijs in de tweede helft van het vijfde   kalenderjaar van het lopende convenant;<BR>5° de remediërende en sanctionerende   maatregelen in geval van niet-naleving van het convenant;<BR>6° de gevallen   waarin en de wijze waarop het convenant tijdens de looptijd ervan kan worden   gewijzigd.
+
+### ART. III.98/5.
+
+De administratief coördinerende instelling of instantie bezorgt met   betrekking tot de werking van het Steunpunt Inclusief Hoger Onderwijs jaarlijks   een afzonderlijke begroting, jaarplanning, jaarrekening en jaarverslag aan de   Vlaamse Regering.
+
+### ART. III.98/6.
+
+Het sluiten van een convenant met de Vlaamse Regering doet in hoofde van   de administratief coördinerende instelling of instantie een recht ontstaan op   een jaarlijkse werkingsenveloppe ten behoeve van de werking van het betrokken   Steunpunt Inclusief Hoger Onderwijs.<BR><BR>De Vlaamse Regering bepaalt,   rekening houdend met de beschikbare begrotingskredieten, de grootte van de   jaarlijkse werkingsenveloppe, evenals de wijze van vereffening ervan. De   werkingsenveloppe wordt geïndexeerd volgens de formule vastgesteld voor de   indexering van de werkingsuitkering van de universiteiten en   hogescholen.
+
+### ART. III.98/7.
+
+De partners bij de associaties kunnen personeelsleden met hun instemming   belasten met een taak bij het Steunpunt Inclusief Hoger Onderwijs. De betrokken   personeelsleden blijven gedurende de uitoefening van deze taak juridisch en   administratief behoren tot de terbeschikkingstellende universiteit of   hogeschool.
+
 ## [Hoofdstuk 10. Onderwijskundig beleidsen praktijkgericht wetenschappelijk onderzoek (ing. Decr. 9 juli 2021, art. 220, I: 1 september 2021)]
 
 ## TITEL 3 Financiering van andere instellingen van hoger onderwijs en onderzoek
