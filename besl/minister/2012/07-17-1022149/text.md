@@ -6,36 +6,36 @@ De Vlaamse minister van Energie, Wonen, Steden en Sociale Economie,<br /><br />G
 
 ### ART. 1.
 
-Initiatiefnemers die een of meer onroerende goederen overdragen volgens de voorwaarden van het besluit van de Vlaamse Regering van 29 september 2006 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode, bezorgen de VMSW binnen een termijn van een maand na elke overdracht een volledig ingevuld en ondertekend formulier dat de nodige gegevens voor de berekening van de beheersvergoeding bevat.<br /><br />
+...
 
 ### ART. 2.
 
-Bijlage 1 bij dit besluit bevat het formulier met de minimale gegevens over de overdracht van sociale kavels of middelgrote kavels.<br /><br />
+...
 
 ### ART. 3.
 
-Bijlage 2 bij dit besluit bevat het formulier met de minimale gegevens over de overdracht van sociale koopwoningen of middelgrote koopwoningen.<br /><br />
+...
 
 ### ART. 4.
 
-Bijlage 3 bij dit besluit bevat het formulier met de minimale gegevens over de overdracht van sociale huurwoningen.<br /><br />
+...
 
 ### ART. 5.
 
-Bijlage 4 bij dit besluit bevat het formulier met de minimale gegevens over de overdracht van niet-residentiële ruimten.<br /><br />
+...
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/08/27_1.pdf#page=44" title=" Tabel" target="_blank" class="pdf">Tabel</a>
+...
 
 ### BIJLAGE 2
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/08/27_1.pdf#page=45" title=" Tabel" target="_blank" class="pdf">Tabel</a>
+...
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/08/27_1.pdf#page=46" title=" Bijlage 3" target="_blank" class="pdf">Bijlage 3</a>
+...
 
 ### BIJLAGE 4
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/08/27_1.pdf#page=47" title=" Tabel" target="_blank" class="pdf">Tabel</a>
+...
