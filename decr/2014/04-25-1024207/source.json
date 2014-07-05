@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024207,
+  "title": "Decreet van 2014-04-25 houdende instemming met het akkoord over het wegvervoer tussen de Belgische Regering en de Macedonische Regering, ondertekend in Skopje op 10 september 1998",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024207/VolledigDocument?datum=2014-07-05",
+  "source_sha256": "0055bfe00e480265705a482e4509002ced8339bc5c0abda9b5f7bbc5053231cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024207&param=informatie",
+  "as_of": "2014-07-05",
+  "made": "2014-04-25",
+  "gazette": "2014-06-25",
+  "numac": 2014203225,
+  "document_start": "2014-07-05",
+  "document_end": null,
+  "in_force": "2014-07-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
