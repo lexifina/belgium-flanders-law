@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024205,
+  "title": "Decreet van 2014-04-25 houdende instemming met het akkoord tussen het Koninkrijk België en het Koninkrijk Marokko betreffende het internationaal vervoer over de weg van personen en goederen, en het protocol opgemaakt krachtens artikel 22 van het akkoord tussen het Koninkrijk België en het Koninkrijk Marokko betreffende het internationaal vervoer over de weg van personen en goederen, ondertekend in Rabat op 14 juli 1997",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024205/VolledigDocument?datum=2014-07-05",
+  "source_sha256": "4b0f3a30c3405780d8e250f28473c0ddd973b9c1f19ec16fab176722a0639732",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024205&param=informatie",
+  "as_of": "2014-07-05",
+  "made": "2014-04-25",
+  "gazette": "2014-06-25",
+  "numac": 2014203226,
+  "document_start": "2014-07-05",
+  "document_end": null,
+  "in_force": "2014-07-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
