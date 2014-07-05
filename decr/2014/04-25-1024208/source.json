@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024208,
+  "title": "Decreet van 2014-04-25 houdende instemming met het Europees verdrag inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren (ADN), opgemaakt in Genève op 26 mei 2000, en met de geactualiseerde voorschriften ADN 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024208/VolledigDocument?datum=2014-07-05",
+  "source_sha256": "b6a7e604cdd0c18ada6a0889bf5ad80b23c455d21f041b24dc92639369ceaa05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024208&param=informatie",
+  "as_of": "2014-07-05",
+  "made": "2014-04-25",
+  "gazette": "2014-06-25",
+  "numac": 2014203128,
+  "document_start": "2014-07-05",
+  "document_end": null,
+  "in_force": "2014-07-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
