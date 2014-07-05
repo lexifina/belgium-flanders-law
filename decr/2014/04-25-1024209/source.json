@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024209,
+  "title": "Decreet van 2014-04-25 houdende instemming met het akkoord over het internationaal wegvervoer tussen het Koninkrijk België en de Regering van Montenegro, ondertekend in Podgorica op 16 februari 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024209/VolledigDocument?datum=2014-07-05",
+  "source_sha256": "cd220ce54a1e5ed12eb498652c7db57ed4d4de502edb3ceab7998aef8a0e3f69",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024209&param=informatie",
+  "as_of": "2014-07-05",
+  "made": "2014-04-25",
+  "gazette": "2014-06-25",
+  "numac": 2014203132,
+  "document_start": "2014-07-05",
+  "document_end": null,
+  "in_force": "2014-07-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
