@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024206,
+  "title": "Decreet van 2014-04-25 houdende instemming met het akkoord tussen de Regering van het Koninkrijk België en de Regering van Oekraïne over het wegvervoer, ondertekend in Kiev op 28 juli 1997",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024206/VolledigDocument?datum=2014-07-05",
+  "source_sha256": "58627abdcd51d37d4abcebd97d074341535646dfa790a11341d1c7da43b8d70f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024206&param=informatie",
+  "as_of": "2014-07-05",
+  "made": "2014-04-25",
+  "gazette": "2014-06-25",
+  "numac": 2014203108,
+  "document_start": "2014-07-05",
+  "document_end": null,
+  "in_force": "2014-07-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
