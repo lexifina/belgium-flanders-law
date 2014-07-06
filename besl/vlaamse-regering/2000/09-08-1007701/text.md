@@ -488,7 +488,7 @@ De minister erkent een Vlaams participatiefonds voor de sociale economie.
 
 ### ART. 84.
 
-Om als Vlaams participatiefonds voor de sociale economie te worden erkend, dient aan volgende voorwaarden te worden voldaan:<br /><br />1° het fonds neemt een vennootschapsvorm aan;<br /><br />2° het doel van het fonds is kleine en middelgrote ondernemingen binnen de meerwaardeneconomie een optimale kans te geven om een onderneming op te starten of verder uit te bouwen door hen tijdelijk een eigen vermogen ter beschikking te stellen gekoppeld aan een actieve bestuurdersrol;<br /><br />3° het fonds stelt risicokapitaal ter beschikking in de vorm van tijdelijke minderheidsparticipaties en achtergestelde financieringen;<br /><br />4° in het fonds participeren zowel actoren van de sociale economie, de privé-sector als de Vlaamse overheid. De overheid participeert voor maximaal [670.000 EUR  <span class="reference">(verv. B.V.R. 6 juli 2001, art. 1, I: 1 januari 2002)</span> ] in het kapitaal en voor maximaal één derde van het kapitaal;<br /><br />5° het fonds heeft een regionale inbedding via regionale ankerpunten. Dit kan zich vertalen in een gestructureerde samenwerking met regionale incubatiecentra en andere regionale actoren of overheden;<br /><br />6° de nodige deskundigheid is aanwezig voor het management en financieel beheer van het fonds;
+Om als Vlaams participatiefonds voor de sociale economie te worden erkend,   dient aan volgende voorwaarden te worden voldaan:<BR>1° het fonds neemt een   vennootschapsvorm aan;<BR>2° het doel van het fonds is kleine en middelgrote   ondernemingen binnen de meerwaardeneconomie een optimale kans te geven om een   onderneming op te starten of verder uit te bouwen door hen tijdelijk een eigen   vermogen ter beschikking te stellen gekoppeld aan een actieve   bestuurdersrol;<BR>3° het fonds stelt risicokapitaal ter beschikking in de vorm   van tijdelijke minderheidsparticipaties en achtergestelde financieringen;<BR>4°   In het fonds participeren zowel actoren van de sociale economie, de privésector   als de Vlaamse overheid. De overheid participeert voor maximaal één derde van   het kapitaal ten belope van maximaal € 1.000.000;<BR>5° het fonds heeft een   regionale inbedding via regionale ankerpunten. Dit kan zich vertalen in een   gestructureerde samenwerking met regionale incubatiecentra en andere regionale   actoren of overheden;<BR>6° de nodige deskundigheid is aanwezig voor het   management en financieel beheer van het fonds;
 
 ### ART. 85.
 
@@ -498,7 +498,7 @@ Om als Vlaams participatiefonds voor de sociale economie te worden erkend, dient
 
 ### ART. 86.
 
-Een jaarlijkse subsidie van maximaal 74.400 EUR wordt toegekend ter delging van loon- en werkingskosten van het fonds.<br /><br />Het subsidiebedrag evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand mei 2005. Het geïndexeerde subsidiebedrag wordt jaarlijks op 1 januari door de minister vastgelegd voor het komende werkingsjaar.
+Een jaarlijkse subsidie van maximaal 136.000 euro wordt toegekend voor de   delging van de loon- en werkingskosten van het fonds.<BR><BR>Het subsidiebedrag   evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als   basismaand mei 2005. Het geïndexeerde subsidiebedrag wordt jaarlijks op 1   januari door de minister vastgelegd voor het komende werkingsjaar.
 
 ### ART. 87.
 
