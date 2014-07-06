@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024211,
+  "title": "Decreet van 2014-04-25 houdende wijziging van artikel 80 van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, zoals gewijzigd bij decreet van 30 april 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024211/VolledigDocument?datum=2014-07-06",
+  "source_sha256": "519f1f61e4b321b9b7a1884a1e72e79a46e290167b2dc7cc11d6859a362f8f6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024211&param=informatie",
+  "as_of": "2014-07-06",
+  "made": "2014-04-25",
+  "gazette": "2014-06-26",
+  "numac": 2014203085,
+  "document_start": "2014-07-06",
+  "document_end": null,
+  "in_force": "2014-07-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
