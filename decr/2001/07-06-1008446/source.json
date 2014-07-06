@@ -2,16 +2,16 @@
   "codex_id": 1008446,
   "title": "Decreet van 2001-07-06 houdende de intergemeentelijke samenwerking",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008446/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "d097e20fac356f83eed4bcd43ad9618732372782be480e516a5f3a0098347261",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008446/VolledigDocument?datum=2014-07-06",
+  "source_sha256": "e20580a0a69301df6fc493577b48be3cc9018330fa266ea6ccb48cf55d31bca0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008446&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-07-06",
   "made": "2001-07-06",
   "gazette": "2001-10-31",
   "numac": 2001035984,
   "document_start": null,
   "document_end": "2018-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2014-07-06",
   "article_versions": 88,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-06; future article versions excluded; article text as the API gives it"
 }
