@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024213,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van artikel 84 en 86 van het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024213/VolledigDocument?datum=2014-07-06",
+  "source_sha256": "6770a4409cfa8f5b632d22d23869b78c0d51320e1828ee9366e7ba202614891f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024213&param=informatie",
+  "as_of": "2014-07-06",
+  "made": "2014-04-25",
+  "gazette": "2014-06-26",
+  "numac": 2014203136,
+  "document_start": "2014-07-06",
+  "document_end": null,
+  "in_force": "2014-07-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
