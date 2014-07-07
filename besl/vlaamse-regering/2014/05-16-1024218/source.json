@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024218,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 tot aanwijzing van het interfederaal Centrum voor gelijke kansen en bestrijding van discriminatie en racisme als orgaan overeenkomstig artikel 40 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024218/VolledigDocument?datum=2014-07-07",
+  "source_sha256": "ec96b4345fbf467a3c6f70fa92821cde5245abcff3c25180bcc510b22678eb0c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024218&param=informatie",
+  "as_of": "2014-07-07",
+  "made": "2014-05-16",
+  "gazette": "2014-06-27",
+  "numac": 2014203643,
+  "document_start": "2014-07-07",
+  "document_end": null,
+  "in_force": "2014-07-07",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
