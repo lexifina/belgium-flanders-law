@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024228,
+  "title": "Decreet van 2014-04-25 houdende wijziging van diverse bepalingen van het decreet van 4 april 2003 betreffende de oppervlaktedelfstoffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024228/VolledigDocument?datum=2014-07-10",
+  "source_sha256": "6f511e9a9927c2e540b6f783db42bbf6bc513710bfdca39abc1a63ee91f035b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024228&param=informatie",
+  "as_of": "2014-07-10",
+  "made": "2014-04-25",
+  "gazette": "2014-06-30",
+  "numac": 2014203449,
+  "document_start": "2014-07-10",
+  "document_end": null,
+  "in_force": "2014-07-10",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2014-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
