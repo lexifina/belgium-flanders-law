@@ -34,7 +34,7 @@ De minister organiseert een openbare oproep tot kandidaatstelling. Die oproep wo
 
 ### ART. 6.
 
-§ 1. De minister stelt de commissie samen volgens de criteria, vermeld in artikel 3, § 3 tot en met § 5, van het decreet.<br /><br />Bij de selectie van de leden houdt de minister rekening met hun beleidsadviserende capaciteit.<br /><br />§ 2. Bij de samenstelling van de commissie streeft de minister ernaar om de etnisch-culturele diversiteit in de samenleving te weerspiegelen.<br />
+§ 1. De minister stelt de commissie samen volgens de criteria, vermeld in   artikel 3, § 3 tot en met § 5, van het decreet.<BR><BR>Bij de selectie van de   leden houdt de minister rekening met hun beleidsadviserende capaciteit en wordt   gestreefd naar een diversiteit aan achtergrond en expertise.<BR><BR>§ 2. Bij de   samenstelling van de commissie streeft de minister ernaar om de   etnisch-culturele diversiteit in de samenleving te   weerspiegelen.<BR>
 
 ## Afdeling III. Het secretariaat
 
@@ -100,7 +100,7 @@ Als uit het jaarverslag blijkt dat de vereniging niet meer voldoet aan de erkenn
 
 ### ART. 18.
 
-§ 1. Ter uitvoering van artikel 7 van het decreet kunnen subsidies worden toegekend aan projecten die bijdragen tot een bepaald aspect van de maatschappelijke verankering van de Vlaamse Gebarentaal.<br /><br />De minister bepaalt jaarlijks na advies van de commissie welk aspect in aanmerking komt voor projectsubsidie. Vervolgens lanceert de minister een projectoproep in de maand november.<br /><br />§ 2. De projectaanvragen moeten ingeleverd worden voor 1 februari van het jaar dat volgt op de projectoproep.<br /><br />§ 3. De commissie adviseert de minister over de ingeleverde projectaanvragen.<br /><br />§ 4. De minister neemt uiterlijk op 15 maart een beslissing over de projecten die worden gesubsidieerd en deelt de betrokken subsidieaanvragers zijn beslissing mee.<br />
+§ 1. Ter uitvoering van artikel 7 van het decreet kunnen subsidies worden   toegekend aan projecten die bijdragen tot een bepaald aspect van de   maatschappelijke verankering van de Vlaamse Gebarentaal.<BR><BR>De minister   bepaalt jaarlijks na advies van de commissie welk aspect in aanmerking komt voor   projectsubsidie. Vervolgens lanceert de minister een projectoproep in de maand   november.<BR><BR>§ 2. De projectaanvragen moeten ingeleverd worden voor 1   februari van het jaar dat volgt op de projectoproep.<BR><BR>§ 3. De commissie   adviseert de minister over de ingeleverde projectaanvragen. De wijze waarop over   de projecten beraadslaagd wordt en waarop ze beoordeeld worden, wordt opgenomen   in het huishoudelijk reglement van de adviescommissie.<BR><BR>§ 4. De minister   neemt uiterlijk op 15 maart een beslissing over de projecten die worden   gesubsidieerd en deelt de betrokken subsidieaanvragers zijn beslissing   mee.<BR>
 
 ### ART. 19.
 

@@ -2,16 +2,16 @@
   "codex_id": 1016173,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 tot uitvoering van het decreet van 5 mei 2006 houdende de erkenning van de Vlaamse Gebarentaal",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016173/VolledigDocument?datum=2007-10-08",
-  "source_sha256": "a06ed2e507ce1b32f0f0d302830d81825e10037c9c386c7d054c056408ef7770",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016173/VolledigDocument?datum=2014-07-10",
+  "source_sha256": "d3b3bd86db159a52c97535f21c4d3997d2c97ff1a5b5ac71e68b7ae3a3354cb2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016173&param=informatie",
-  "as_of": "2007-10-08",
+  "as_of": "2014-07-10",
   "made": "2007-09-07",
   "gazette": "2007-09-28",
   "numac": 2007036605,
   "document_start": "2007-10-08",
   "document_end": null,
-  "in_force": "2007-10-08",
+  "in_force": "2014-07-10",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2007-10-08; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-10; future article versions excluded; article text as the API gives it"
 }
