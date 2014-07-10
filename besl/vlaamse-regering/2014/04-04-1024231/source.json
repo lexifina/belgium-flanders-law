@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024231,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot wijziging van artikel 6 en 18 van het besluit van de Vlaamse Regering van 7 september 2007 tot uitvoering van het decreet van 5 mei 2006 houdende de erkenning van de Vlaamse Gebarentaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024231/VolledigDocument?datum=2014-07-10",
+  "source_sha256": "6b1697713e76514cd0fd8ee57c67d9d400ff32b175afe8b6797b217febfa3983",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024231&param=informatie",
+  "as_of": "2014-07-10",
+  "made": "2014-04-04",
+  "gazette": "2014-06-30",
+  "numac": 2014202800,
+  "document_start": "2014-07-10",
+  "document_end": null,
+  "in_force": "2014-07-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
