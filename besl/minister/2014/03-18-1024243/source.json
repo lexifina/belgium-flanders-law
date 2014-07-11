@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024243,
+  "title": "Ministerieel besluit van 2014-03-18 betreffende de samenstelling en de indiening van de dossiers voor subsidies voor gebouwen van de [eredienst en gebouwen] voor de openbare uitoefening van de niet-confessionele morele dienstverlening [...]",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024243/VolledigDocument?datum=2014-07-11",
+  "source_sha256": "a261cf1714481236cee8a86d29f87202f5af7f09105d1109ada18219a65f6a32",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024243&param=informatie",
+  "as_of": "2014-07-11",
+  "made": "2014-03-18",
+  "gazette": "2014-07-01",
+  "numac": 2014035406,
+  "document_start": "2014-07-11",
+  "document_end": null,
+  "in_force": "2014-07-11",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2014-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
