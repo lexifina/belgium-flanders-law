@@ -40,7 +40,27 @@ De gouverneur heeft het recht zijn persoonlijk dossier te raadplegen.<br /><br /
 
 ### ART. 8.
 
-Voor de toegang tot een ambt van gouverneur gelden de volgende algemene toelatingsvoorwaarden:<br /><br />1° Belg zijn;<br /><br />2° een gedrag hebben dat in overeenstemming is met de eisen van het ambt van gouverneur;<br /><br />3° de burgerlijke en politieke rechten genieten;<br /><br />4° aan de dienstplichtwetten voldoen.
+<P>De Vlaamse Regering verklaart de betrekking van gouverneur vacant. De oproep   wordt tenminste in het Belgisch Staatsblad gepubliceerd. De oproep regelt de   wijze van kandidaatstelling en bevat een beknopte weergave van de   functiebeschrijving en van het salaris.<BR><BR>De termijn tussen de publicatie   van de vacature en de uiterste datum van kandidaatstelling bedraagt ten minste   twintig werkdagen.</P>
+
+### ART. 8/1.
+
+Voor de toegang tot een ambt van gouverneur gelden de volgende algemene   toelatingsvoorwaarden:<BR>1° Belg zijn;<BR>2° een gedrag hebben dat in   overeenstemming is met de eisen van het ambt van gouverneur;<BR>3° de   burgerlijke en politieke rechten genieten;<BR>4° aan de dienstplichtwetten   voldoen;<BR>5° tien jaar relevante ervaring kunnen aantonen.
+
+### ART. 8/2.
+
+In de selectieprocedure wordt onderzocht in welke mate de kandidaten   voldoen aan het vereiste competentieprofiel voor de functie.<BR><BR>De Vlaamse   Regering stelt de functiebeschrijving vast.<BR>
+
+### ART. 8/3.
+
+§ 1. De kandidaten worden door een onafhankelijk selectiebureau   geselecteerd op basis van de criteria, vermeld in artikel 8/1 en 8/2.<BR><BR>§   2. Het onafhankelijk selectiebureau stelt aan de minister van Binnenlandse   Aangelegenheden een lijst met geschikte kandidaten voor.
+
+### ART. 8/4.
+
+De Vlaamse Regering kiest de meest geschikte kandidaat uit de lijst,   vermeld in artikel 8/3, § 2.
+
+### ART. 8/5.
+
+Wanneer de geselecteerde kandidaat voor een hoorzitting in de daartoe   bevoegde Commissie van het Vlaams Parlement wordt uitgenodigd, dient hij daaraan   gevolg te geven met het oog op zijn benoeming.
 
 ## DEEL IV HET VERLOF EN DE ADMINISTRATIEVE TOESTAND TIJDENS VERLOF
 
@@ -212,7 +232,7 @@ Het ontslag wordt definitief wanneer de Vlaamse regering dit aanvaardt.
 
 ### ART. 41.
 
-De gouverneur gaat op rust ten laatste wanneer hij de leeftijd van 65 jaar bereikt.
+<P>&nbsp;Ambtshalve wordt een einde gemaakt aan het ambt van gouverneur op de   laatste dag van de maand waarin hij de leeftijd van 65 jaar   bereikt.</P>
 
 ### ART. 41/1.
 
@@ -328,7 +348,15 @@ De gouverneur beschikt voor de uitoefening van zijn taak over een ambtswoning.<b
 
 ### ART. 61/1.
 
-De gouverneurs die door derden gerechtelijk vervolgd worden, krijgen daarvoor rechtsbijstand onder de voorwaarden, bepaald door de minister van Binnenlandse Aangelegenheden.
+De gouverneurs die door derden gerechtelijk vervolgd worden, krijgen   daarvoor rechtsbijstand onder de voorwaarden die gelden voor de personeelsleden   van de diensten van de Vlaamse overheid.
+
+### ART. 61/2.
+
+De gouverneur die schade lijdt aan het eigen voertuig bij   dienstverplaatsingen, krijgt daarvoor een tegemoetkoming overeenkomstig de   voorwaarden die gelden voor de personeelsleden van de diensten van de Vlaamse   overheid.
+
+### ART. 61/3.
+
+De gouverneur die op regelmatige basis in het systeem van telethuiswerk is   ingeschakeld, heeft recht op een internetaansluiting en internetabonnement ten   laste van de werkgever.
 
 ## DEEL VII OPHEFFINGS-, OVERGANGS- EN SLOTBEPALINGEN
 
