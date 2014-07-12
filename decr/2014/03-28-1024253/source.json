@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024253,
+  "title": "Decreet van 2014-03-28 houdende wijziging van artikel 246 van het Gemeentedecreet van 15 juli 2005, wat betreft de samenstelling van de organen van een gemeentelijke vennootschap, vereniging of stichting, belast met beleidsuitvoerende taken van gemeentelijk belang die uitsluitend bevoegdheden van het district betreffen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024253/VolledigDocument?datum=2014-07-12",
+  "source_sha256": "9b503db8682e6986079c8f15b5f15afda754e58154cca65a58ea8b1a5c414bab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024253&param=informatie",
+  "as_of": "2014-07-12",
+  "made": "2014-03-28",
+  "gazette": "2014-07-02",
+  "numac": 2014035439,
+  "document_start": "2014-07-12",
+  "document_end": null,
+  "in_force": "2014-07-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
