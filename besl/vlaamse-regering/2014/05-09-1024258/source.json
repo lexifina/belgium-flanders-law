@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024258,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van artikel 11 en 14 van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen, wat betreft het herstel van de voorwaarden waaronder voorafgaande vergunningen voor lokale dienstencentra, regionale dienstencentra en dagverzorgingscentra kunnen worden verlengd",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024258/VolledigDocument?datum=2014-07-12",
+  "source_sha256": "61bfc1aadfd7f2b1d2d286683eb83ac1969d9e78aff723baf5fe7364c9d6ceb2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024258&param=informatie",
+  "as_of": "2014-07-12",
+  "made": "2014-05-09",
+  "gazette": "2014-07-02",
+  "numac": 2014203448,
+  "document_start": "2014-07-12",
+  "document_end": null,
+  "in_force": "2014-07-12",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
