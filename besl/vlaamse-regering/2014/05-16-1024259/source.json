@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024259,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 tot wijziging van het besluit van de Vlaamse Regering van 5 maart 2004 tot vaststelling van het statuut van de provinciegouverneurs en de adjunct van de gouverneur van de provincie Vlaams-Brabant wat betreft de selectieprocedure en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024259/VolledigDocument?datum=2014-07-12",
+  "source_sha256": "f91c286fe77766fb78b3d2255d0044ae31c8823d61fbe28923b00cecc989e087",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024259&param=informatie",
+  "as_of": "2014-07-12",
+  "made": "2014-05-16",
+  "gazette": "2014-07-02",
+  "numac": 2014203632,
+  "document_start": "2014-07-12",
+  "document_end": null,
+  "in_force": "2014-07-12",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
