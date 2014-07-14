@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024267,
+  "title": "Decreet van 2014-04-25 houdende instemming met het samenwerkingsakkoord tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de gewestgrensoverschrijdende intercommunales",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024267/VolledigDocument?datum=2014-07-14",
+  "source_sha256": "434504ed24a3271de57b24909e7227eaaea7e159edb9af49a3954c8f96af80df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024267&param=informatie",
+  "as_of": "2014-07-14",
+  "made": "2014-04-25",
+  "gazette": "2014-07-04",
+  "numac": 2014035558,
+  "document_start": "2014-07-14",
+  "document_end": null,
+  "in_force": "2014-07-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
