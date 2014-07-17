@@ -8,11 +8,11 @@ De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 1698/2005 van de R
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° besluit van de Vlaamse   Regering van 12 december 2008 : het besluit van de Vlaamse Regering van 12   december 2008 betreffende de biologische productie en de etikettering van   biologische producten;<BR>2° minister : de Vlaamse minister, bevoegd voor het   Landbouwbeleid;<BR>3° departement : het Departement Landbouw en Visserij;<BR>4°   agentschap : het Agentschap voor Landbouw en Visserij;<BR>5°   producentengroepering : de groepering, vermeld in artikel 23, lid 1 van   Verordening 1974/2006;<BR>6° verordening 509/2006 : Verordening (EG) nr.   509/2006 van de Raad van 20 maart 2006 inzake gegarandeerde traditionele   specialiteiten voor landbouwproducten en levensmiddelen; <BR>7° verordening   510/2006 : Verordening (EG) nr. 510/2006 van de Raad van 20 maart 2006 inzake de   bescherming van geografische aanduidingen en oorsprongsbenamingen van   landbouwproducten en levensmiddelen;<BR>8° verordening 65/2011 : Verordening   (EU) nr. 65/2011 van de Commissie van 27 januari 2011 houdende   uitvoeringsbepalingen van Verordening (EG) nr. 1698/2005 van de Raad met   betrekking tot de toepassing van controleprocedures en van de randvoorwaarden in   het kader van de steunmaatregelen voor plattelandsontwikkeling;<BR>9°   verordening 1974/2006 : Verordening (EG) nr. 1974/2006 van de Commissie van 15   december 2006 tot vaststelling van uitvoeringsbepalingen van Verordening (EG)   nr. 1698/2005 van de Raad inzake steun voor plattelandsontwikkeling uit het   Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO);<BR>10° verordening   834/2007 : Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de   biologische productie en de etikettering van biologische producten en tot   intrekking van Verordening (EEG) nr. 2092/91;<BR>11° verzamelaanvraag : de   verzamelaanvraag, vermeld in artikel 1, 4°, van het besluit van de Vlaamse   Regering van 9 februari 2007 houdende bepalingen tot inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid.<BR>12°   overeenkomst: de verbintenis,vermeld in artikel 63, lid 2, van Verordening (EG)   nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van   bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake   de biologische productie en de etikettering van biologische producten, wat de   biologische productie, de etikettering en de controle betreft;<BR>13° landbouwer   : de landbouwer vermeld in artikel 2, 7°, van het decreet van 22 december 2006   houdende inrichting van een gemeenschappelijke identificatie van landbouwers,   exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het   landbouwbeleid.
+In dit besluit wordt verstaan onder : <BR>1° besluit van de Vlaamse   Regering van 12 december 2008 : het besluit van de Vlaamse Regering van 12   december 2008 betreffende de biologische productie en de etikettering van   biologische producten;<BR>2° minister : de Vlaamse minister, bevoegd voor het   Landbouwbeleid;<BR>3° departement : het Departement Landbouw en Visserij;<BR>4°   agentschap : het Agentschap voor Landbouw en Visserij;<BR>5°   <STRONG><EM>...</EM></STRONG>;<BR>6° ...; <BR>7° ...;<BR>8° ...;<BR>9°   ...;<BR>10° verordening 834/2007 : Verordening (EG) nr. 834/2007 van de Raad van   28 juni 2007 inzake de biologische productie en de etikettering van biologische   producten en tot intrekking van Verordening (EEG) nr. 2092/91;<BR>11°   verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 1, 4°, van het   besluit van de Vlaamse Regering van 9 februari 2007 houdende bepalingen tot   inrichting van een gemeenschappelijke identificatie van landbouwers,   exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het   landbouwbeleid.<BR>12° overeenkomst: de verbintenis,vermeld in artikel 63, lid   2, van Verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot   vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van   de Raad inzake de biologische productie en de etikettering van biologische   producten, wat de biologische productie, de etikettering en de controle   betreft;<BR>13° landbouwer : de landbouwer vermeld in artikel 2, 7°, van het   decreet van 22 december 2006 houdende inrichting van een gemeenschappelijke   identificatie van landbouwers, exploitaties en landbouwgrond in het kader van   het meststoffenbeleid en van het landbouwbeleid.
 
 ### ART. 2.
 
-Ter uitvoering van artikel 20, c), ii en iii, van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) en afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die daartoe goedgekeurd zijn, kan de minister steun verlenen aan : <br />1° Landbouwers die deelnemen aan communautaire voedselkwaliteitsregelingen;<br />2° producentengroeperingen voor activiteiten op het gebied van voorlichting over en afzetbevordering voor producten die onder een voedselkwaliteitsregeling vallen.
+Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daartoe goedgekeurd zijn, kan de minister steun verlenen aan : <BR>1°   Landbouwers die deelnemen aan communautaire voedselkwaliteitsregelingen;<BR>2°   ...<BR><BR>De steunregeling, vermeld in dit besluit, valt onder de toepassing   van artikel 14 van verordening (EG) nr. 1857/2006 van de Commissie van 15   december 2006 betreffende de toepassing van de artikelen 87 en 88 van het   Verdrag op staatssteun voor kleine en middelgrote ondernemingen die   landbouwproducten produceren, en tot wijziging van Verordening (EG) nr. 70/2001,   gepubliceerd in het Publicatieblad van de Europese Unie L 358 van 16 december   2006.
 
 ## HOOFDSTUK 2. Steunverlening voor deelname aan communautaire voedselkwaliteitsregelingen
 
@@ -42,67 +42,67 @@ Een landbouwer die gesanctioneerd is met een schorsing van zijn bedrijf als verm
 
 ### ART. 8.
 
-Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die   daartoe goedgekeurd zijn, kan de minister per kalenderjaar steun verlenen aan   landbouwers die voldoen aan de volgende voorwaarden : <BR>1° uiterlijk op de   uiterste indieningsdatum van de verzamelaanvraag van het kalenderjaar in kwestie   als producent deelnemen aan een voedselkwaliteitsregeling die is ingesteld bij   verordening 509/2006 of verordening 510/2006;<BR>2° zich gemeld hebben bij het   departement overeenkomstig artikel 4 van het ministerieel besluit van 7 maart   2008 tot uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2007   betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen   van landbouwproducten en levensmiddelen en de gegarandeerde traditionele   specialiteiten voor landbouwproducten en levensmiddelen;<BR>3° in het Vlaamse   Gewest beschikken over minstens één actieve exploitatie als vermeld in artikel   2, 9°, van het decreet van 22 december 2006 houdende inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid.
+<P>...</P>
 
 ### ART. 9.
 
-De minister bepaalt welke landbouwproducten en levensmiddelen met een beschermde oorsprongsbenaming of met een beschermde geografische aanduiding die geregistreerd zijn overeenkomstig verordening 510/2006, en welke gegarandeerde traditionele specialiteiten die geregistreerd zijn overeenkomstig verordening 509/2006, in aanmerking komen voor de steun, vermeld in artikel 8.<br />
+<P>...</P>
 
 ### ART. 10.
 
-De minister bepaalt het maximumbedrag van de steun, vermeld in artikel 8.
+<P>...</P>
 
 ### ART. 11.
 
-Om in aanmerking te komen voor de steun, vermeld in artikel 8, moet de landbouwer een steunaanvraag en betalingsaanvraag via de jaarlijkse verzamelaanvraag indienen.<br /><br />De landbouwer moet in de verzamelaanvraag het landbouwproduct of het levensmiddel waarvoor steun wordt aangevraagd, opgeven.
+<P>...</P>
 
 ### ART. 12.
 
-Een landbouwer komt gedurende maximaal vijf opeenvolgende jaren in aanmerking voor de steun, vermeld in artikel 8, vanaf de indiening van zijn eerste aanvraag.
+<P>...</P>
 
 ### ART. 13.
 
-Een landbouwer die overeenkomstig artikel 7 van het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen een verbod opgelegd is om de oorsprongsbenaming, de geografische aanduiding of de gegarandeerde traditionele specialiteit te gebruiken, wordt van de steun, vermeld in artikel 8, uitgesloten voor het hele kalenderjaar waarin het verbod is opgelegd.
+<P>...</P>
 
 ## HOOFDSTUK 3. Steunverlening voor activiteiten op het gebied van voorlichting over en afzetbevordering voor producten die onder een voedselkwaliteitsregeling vallen
 
 ### ART. 14.
 
-Afhankelijk van de kredieten op de begroting van het Vlaamse Gewest die daartoe goedgekeurd zijn, kan de minister per kalenderjaar steun verlenen aan producentengroeperingen voor het voeren van activiteiten op de interne markt op het gebied van voorlichting, afzetbevordering en reclame voor de landbouwproducten en levensmiddelen met een beschermde oorsprongsbenaming of met een beschermde geografische aanduiding die geregistreerd zijn overeenkomstig verordening 510/2006, en voor de gegarandeerde traditionele specialiteiten die geregistreerd zijn overeenkomstig verordening 509/2006.<br />
+<P>...</P>
 
 ### ART. 15.
 
-Er kan alleen steun als vermeld in artikel 14, verleend worden voor het voeren van activiteiten op het gebied van voorlichting, afzetbevordering en reclame voor landbouwproducten en levensmiddelen waarvan de productie of een deel van de productie op het grondgebied van het Vlaamse Gewest plaatsvindt. <br /><br />De minister bepaalt voor welke landbouwproducten en levensmiddelen activiteiten op het gebied van voorlichting, afzetbevordering en reclame in aanmerking komen voor de steun, vermeld in artikel 14.
+<P>...</P>
 
 ### ART. 16.
 
-De steun, vermeld in artikel 14, wordt berekend als een percentage van de subsidiabele kosten en bedraagt per producentengroepering maximaal 70 % van de subsidiabele kosten. De minister bepaalt het percentage en het maximumbedrag van de steun.<br /><br />Alleen de activiteiten die voldoen aan de voorwaarden, vermeld in artikel 23 van verordening 1974/2006, komen in aanmerking voor de steun, vermeld in artikel 14 van dit besluit.<br /><br />De minister kan aanvullende regels opleggen voor de kosten die voor subsidiëring in aanmerking komen.
+<P>...</P>
 
 ### ART. 17.
 
-De steunaanvraag kan alleen worden ingediend na een oproep die het departement op verzoek van de minister jaarlijks kan lanceren.<br /><br />De steunaanvraag kan alleen worden ingediend door de producentengroepering, vermeld in de registratieaanvraag tot het bekomen van een beschermde oorsprongsbenaming, een beschermde geografische aanduiding, of een gegarandeerde traditionele specialiteit.<br /><br />Die steunaanvraag bevat minstens de volgende gegevens : <br />1° de identificatiegegevens van de producentengroepering : <br />a) de naam van de vereniging;<br />b) het adres van de maatschappelijke zetel;<br />c) de ledenlijst met de namen van de betrokken producenten;<br />2° een programmavoorstel met een beschrijving van de activiteiten voor het komende kalenderjaar, een toelichting per activiteit en een gedetailleerde begroting voor het komende kalenderjaar.<br /><br />Het departement stelt aanvraagformulierenter beschikking.<br /><br />De minister kan de wijze waarop de aanvraag ingediend moet worden nader bepalen.<br /><br />De steun, vermeld in artikel 14, kan maximaal gedurende drie opeenvolgende jaren worden aangevraagd.
+<P>...</P>
 
 ### ART. 18.
 
-Het departement beoordeelt de programmavoorstellen en stelt op basis van de beoordeling een rangschikking op. <br /><br />De minister neemt een beslissing over de te selecteren programmavoorstellen. <br /><br />De programmavoorstellen worden beoordeeld op basis van de volgende criteria : <br />1° de kwaliteit van de voorgestelde acties, de gebruikte voorlichtingskanalen en de kosteneffectiviteit ervan;<br />2° de impact en de doeltreffendheid van de acties;<br />3° de mate waarin de activiteiten betrekking hebben op de specifieke kenmerken en voordelen die samenhangen met de voedselkwaliteitsregeling in kwestie.
+<P>...</P>
 
 ### ART. 19.
 
-Elke wijziging van het programma moet ten minste vijftien werkdagen voor de aanvang van de activiteit in kwestie door de producentengroepering aan het departement worden meegedeeld. <br /><br />Als die wijziging niet of niet op tijd is meegedeeld, komen de kosten voor de betrokken activiteiten niet in aanmerking voor subsidiëring.
+<P>...</P>
 
 ### ART. 20.
 
-Overeenkomstig artikel 23, lid 4, van verordening 1974/2006 moet het communautaire logo opgenomen worden op het voorlichtings-, afzetbevorderings- of reclamemateriaal.<br /><br />De producentengroepering legt ten minste zeven werkdagen voor de uiteindelijke finalisering alle ontwerpen voor voorlichtings-, afzetbevorderings- of reclamemateriaal die ontwikkeld zijn in het kader van het programma, ter goedkeuring voor aan het departement.<br /><br />Het departement zal het materiaal toetsen aan de communautaire regelgeving overeenkomstig artikel 23, lid 6, van verordening 1974/2006. Ze zal haar beslissing binnen zeven werkdagen nadat ze het materiaal heeft ontvangen, aan de producentengroepering meedelen.<br /><br />Als het materiaal niet of niet op tijd is voorgelegd of in strijd met de beslissing van het departement toch wordt gebruikt, komen de kosten voor de betrokken activiteiten niet in aanmerking voor subsidiëring.
+<P>...</P>
 
 ### ART. 21.
 
-De minister kan nadere regels bepalen voor de wijze waarop de steun, vermeld in artikel 14, wordt uitbetaald, en hij kan bepalen welke bewijsstukken ingediend moeten worden.
+<P>...</P>
 
 ## HOOFDSTUK 4. Controle
 
 ### ART. 22.
 
-De controle op de aanwending van de steun, vermeld in artikelen 3 en 8, wordt uitgeoefend door het agentschap. De controle op de aanwending van de steun, vermeld in artikel 14, wordt uitgeoefend door het departement.<br /><br />De landbouwers en producentengroeperingen moeten alle documenten en inlichtingen verstrekken die noodzakelijk zijn voor de controle.<br /><br />Het agentschapen het departement kunnen de vereiste controlegegevens opvragen bij de controleorganen die erkend zijn overeenkomstig artikel 5 van het besluit van de Vlaamse Regering van 12 december 2008. De controleorganen moeten alle inlichtingen verstrekken die noodzakelijk zijn voor de controle.<br /><br />Het departement en het agentschap kunnen alle gegevens uitwisselen die ze nodig hebben voor de uitvoering van dit besluit en haar uitvoeringsbepalingen.<br /><br />Wanneer blijkt dat de landbouwers en producentengroeperingen niet voldoen aan de voorwaarden, vermeld in dit besluit of haar uitvoeringsbepalingen, wordt de verleende steun door het departement of het agentschap teruggevorderd.
+De controle op de aanwending van de steun, vermeld in artikel 3, wordt   uitgeoefend door het agentschap.<BR><BR>De landbouwers moeten alle documenten en   inlichtingen verstrekken die noodzakelijk zijn voor de controle.<BR><BR>Het   agentschapen het departement kunnen de vereiste controlegegevens opvragen bij de   controleorganen die erkend zijn overeenkomstig artikel 5 van het besluit van de   Vlaamse Regering van 12 december 2008. De controleorganen moeten alle   inlichtingen verstrekken die noodzakelijk zijn voor de controle.<BR><BR>Het   departement en het agentschap kunnen alle gegevens uitwisselen die ze nodig   hebben voor de uitvoering van dit besluit en haar   uitvoeringsbepalingen.<BR><BR>Wanneer blijkt dat de landbouwers niet voldoen aan   de voorwaarden, vermeld in dit besluit of haar uitvoeringsbepalingen, wordt de   verleende steun door&nbsp;het agentschap teruggevorderd.
 
 ## [HOOFDSTUK 4/1. Gegevensverwerking (ing. BVR 28 januari 2022, art. 8, I: 1 januari 2022)]
 
