@@ -39,7 +39,7 @@ b) steunmaatregelen als vermeld in Verordening (EG) nr. 1698/2005 van de Raad va
 <br>
 De ministers kunnen, ieder wat zijn of haar bevoegdheid betreft, bepalen dat de verzamelaanvraag de basis is voor de steunaanvraag en de uitbetalingaanvraag voor oppervlaktegebonden agro-milieumaatregelen als vermeld in artikel 36, punten a),ii), a), iii), a),iv) en b),i) van Verordening (EG) nr. 1698/2005 of voor oppervlaktegebonden milieumaatregelen als vermeld in artikel 13, 23 en 31 van Verordening (EG) nr. 1257/1999.<br>
 <br>
-De verzamelaanvraag is de basis voor de steunaanvraag en de betalingsaanvraag voor maatregelen om steun te verlenen aan landbouwers die deelnemen aan voedselkwaliteitsregelingen als vermeld in artikel 20, punt c), ii), van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).<br>
+De verzamelaanvraag is de basis voor de steunaanvraag en de betalingsaanvraag voor maatregelen om steun te verlenen aan landbouwers die deelnemen aan de voedselkwaliteitsregeling die is ingesteld bij Verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91.<br>
 <br>
 § 2. De landbouwer meldt elke wijziging in het gebruik van de percelen landbouwgrond zoals hij ze in de verzamelaanvraag heeft aangegeven.<br>
 <br>
