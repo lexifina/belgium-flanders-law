@@ -2,16 +2,16 @@
   "codex_id": 1000699,
   "title": "Decreet van 1991-01-23 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000699/VolledigDocument?datum=2007-12-31",
-  "source_sha256": "5783422e0ea2172249b4c79c88afbe350bc59368efde1dd049f4224bc14c811d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000699/VolledigDocument?datum=2014-07-17",
+  "source_sha256": "acdaff0e6d08f3cdf9cb3f3bfa43e566327186149ad447d65024ca237429276a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000699&param=informatie",
-  "as_of": "2007-12-31",
+  "as_of": "2014-07-17",
   "made": "1991-01-23",
   "gazette": "1991-02-28",
   "numac": 1991035274,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2007-12-31",
+  "in_force": "2014-07-17",
   "article_versions": 64,
-  "record_form": "consolidated version as in force on 2007-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-17; future article versions excluded; article text as the API gives it"
 }
