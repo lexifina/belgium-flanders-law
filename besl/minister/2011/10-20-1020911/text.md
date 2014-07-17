@@ -6,32 +6,32 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder besluit van de Vlaamse Regering van 9 september 2011 : het besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor deelname aan Europees erkende voedselkwaliteitsregelingen en voor bijhorende afzetbevorderingsacties.<br /><br />
+...
 
 ### ART. 2.
 
-Binnen de beschikbare begrotingskredieten en met behoud van de toepassing van het tweede lid, bedraagt de steun, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 9 september 2011, per begunstigde maximaal 1.000 euro per kalenderjaar.<br /><br />De steun wordt pro rata berekend als de steun die berekend is op de in aanmerking komende controlekosten van de begunstigden die een aanvraag hebben ingediend en die in aanmerking komen voor steun, het beschikbare budget overschrijdt.<br /><br />Het ministerieel besluit waarin de steun wordt toegekend aan de begunstigden, vermeldt het beschikbare budget, het steunpercentage en het steunbedrag.<br /><br />
+...
 
 ### ART. 3.
 
-De landbouwproducten en de levensmiddelen die in aanmerking komen voor de steun, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 9 september 2011, zijn :<br />1° Vlaams-Brabantse tafeldruif (BOB);<br />2° Brussels grondwitloof (BGA).<br /><br />
+...
 
 ### ART. 4.
 
-De steun, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 9 september 2011, bedraagt per begunstigde maximaal :<br />1° Vlaams-Brabantse tafeldruif : 120 euro per kalenderjaar;<br />2° Brussels grondwitloof : 120 euro per kalenderjaar.<br /><br />De steun wordt pro rata berekend als de steun van de begunstigden die een aanvraag hebben ingediend en die in aanmerking komen voor steun, het beschikbare budget overschrijdt.<br /><br />
+...
 
 ### ART. 5.
 
-Als een begunstigde steun aanvraagt voor deelname aan verschillende voedselkwaliteitsregelingen, bedraagt de steun per begunstigde maximaal 3.000 euro per kalenderjaar overeenkomstig artikel 32, lid 2, van verordening 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO).<br /><br />
+...
 
 ### ART. 6.
 
-De activiteiten op het gebied van voorlichting, afzetbevordering en reclame van producentengroeperingen voor de volgende landbouwproducten en levensmiddelen komen in aanmerking voor de steun, vermeld in artikel 14 van het besluit van de Vlaamse Regering van 9 september 2011 :<br />1° Vlaams-Brabantse tafeldruif;<br />2° Brussels grondwitloof.<br /><br />
+...
 
 ### ART. 7.
 
-De steun, vermeld in artikel 14 van het besluit van de Vlaamse Regering van 9 september 2011, bedraagt per producentengroepering maximaal 50.000 euro per kalenderjaar.<br /><br />Het ministerieel besluit waarin de steun wordt toegekend aan de begunstigden, vermeldt het steunpercentage en het steunbedrag.<br /><br />
+...
 
 ### ART. 8.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2011.<br /><br />
+...
