@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024278,
+  "title": "Decreet van 2014-05-09 tot wijziging van de regelgeving inzake natuur en bos",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024278/VolledigDocument?datum=2014-07-17",
+  "source_sha256": "c13ceae9037d7941a09f8d505f0de49a1ed1a3d9b7bff06b3e45346b4a0613e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024278&param=informatie",
+  "as_of": "2014-07-17",
+  "made": "2014-05-09",
+  "gazette": "2014-07-07",
+  "numac": 2014035694,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2014-07-17",
+  "article_versions": 39,
+  "record_form": "consolidated version as in force on 2014-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
