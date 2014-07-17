@@ -2,16 +2,16 @@
   "codex_id": 1000697,
   "title": "Decreet van 1985-06-28 betreffende de milieuvergunning",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000697/VolledigDocument?datum=2013-04-29",
-  "source_sha256": "d19d7855b10afca795a55a7e70649b99202126d9c5d2dc838dbc1dd00f0d9ab7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000697/VolledigDocument?datum=2014-07-17",
+  "source_sha256": "672506236b97331988bda5b749465c10582d6a5db534b21815e5eeb7da5031f8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000697&param=informatie",
-  "as_of": "2013-04-29",
+  "as_of": "2014-07-17",
   "made": "1985-06-28",
   "gazette": "1985-09-17",
   "numac": 1985024596,
   "document_start": null,
   "document_end": "2017-02-22",
-  "in_force": "2013-04-29",
+  "in_force": "2014-07-17",
   "article_versions": 72,
-  "record_form": "consolidated version as in force on 2013-04-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-17; future article versions excluded; article text as the API gives it"
 }
