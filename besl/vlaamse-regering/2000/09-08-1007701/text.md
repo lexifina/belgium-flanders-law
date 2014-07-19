@@ -510,31 +510,31 @@ Als wordt vastgesteld dat het Vlaams participatiefonds voor de sociale economie 
 
 ### ART. 88.
 
-De minister erkent een Vlaams overlegplatform voor de meerwaardeneconomie (VOMEC) met als doel te komen tot een optimalisering van de uitbouw van een meerwaardeneconomie in Vlaanderen.
+<P>...</P>
 
 ### ART. 89.
 
-Dit Vlaams overlegplatform voor de meerwaardeneconomie moet aan volgende criteria voldoen:<br /><br />1° het telt minimaal 60 leden die actief zijn in de meerwaardeneconomie.<br /><br />Deze omvatten de verschillende actoren in de meerwaardeneconomie: organisaties, ondernemingen, regionale incubatiecentra voor de sociale economie, erkende adviesbureaus in de sociale economie, wetenschappelijk personeel, koepelorganisaties en andere actoren vertrouwd met de specificiteit van de sector;<br /><br />2° de statuten garanderen een democratische werking van het overleg;<br /><br />3° de vorm van een vzw aannemen.
+<P>...</P>
 
 ## HOOFDSTUK II OPDRACHT
 
 ### ART. 90.
 
-Dit Vlaams overlegplatform voor de meerwaardeneconomie neemt minstens volgende taken op zich:<br /><br />1° het verdiepen van de visie omtrent de meerwaardeneconomie;<br /><br />2° het vergroten van het inzicht in de praktijk en impact van de meerwaardeneconomie;<br /><br />3° het aantrekken van de band tussen het regulier circuit en de sociale economie;<br /><br />4° de sensibilisering en verruiming van de kennis op het vlak van de principes van de meerwaardeneconomie naar het bedrijfsleven en de consumenten;<br /><br />5° het signaleren van knelpunten en onderzoeksbehoeften op dit vlak en stimuleren van interdisciplinaire samenwerking;<br /><br />6° de ervaringsuitwisseling en afstemming bevorderen tussen de diverse actoren actief op het vlak van de meerwaardeneconomie;<br /><br />7° het stimuleren en bewaken via zelfregulering van kwaliteitscriteria van de adviesbureaus in de sociale economie, de regionale incubatiecentra voor de sociale economie en de bedrijven actief in de sociale economie;<br /><br />8° het stimuleren van samenwerkingen tussen de verschillende actoren in de meerwaardeneconomie onder meer op het vlak van ervarings- en kennisuitwisseling;<br /><br />9° het formuleren van standpunten inzake problemen met betrekking tot de concrete toepassing van de regelgeving;<br /><br />10° het komen tot gezamelijke inzichten met betrekking tot de betreffende regelgeving die ter kennis worden gebracht aan de Vlaamse regering.
+<P>...</P>
 
 ### ART. 91.
 
-§ 1. Het Vlaams overlegplatform voor de meerwaardeneconomie bezorgt elk jaar [...  <span class="reference">(geschr. B.V.R. 7 december 2001, art. 22, I: 1 november 2001)</span> ] een jaarverslag en jaarplanning aan de minister.<br /><br />§ 2. Het jaarverslag bevat de doelstellingen en statuten van de vzw, de acties die werden ondernomen in het voorbije werkjaar, de ledenlijst, de financiële rekeningen, en andere door de minister bepaalde gegevens.<br /><br />§ 3. De jaarplanning omvat een omschrijving van de wijze waarop het overleg in het lopende jaar de opdrachten en werkzaamheden zal realiseren en een financiële prognose.
+<P>...</P>
 
 ## HOOFDSTUK III SUBSIDIËRING
 
 ### ART. 92.
 
-Het Vlaams overlegplatform voor de meerwaardeneconomie ontvangt jaarlijks op voorlegging van een goedgekeurd actieplan een subsidie ter delging van de loon- en werkingskosten in functie van het vervullen van de taken vermeld in artikel 90 van dit besluit.<br /><br />Hierbij kunnen opdrachten worden uitbesteed zowel aan leden als aan niet-leden.<br /><br />Het actieplan dient aan het Subsidieagentschap voor Werk en Sociale Economie te worden bezorgd uiterlijk op 1 november van het voorgaande jaar.<br /><br />De Vlaamse regering bepaalt jaarlijks het maximale subsidiebedrag op basis van een goedgekeurd actieplan.
+<P>...</P>
 
 ### ART. 93.
 
-Als wordt vastgesteld dat het Vlaams overlegplatform voor de meerwaardeneconomie niet meer aan de vereisten zoals bepaald in artikel 90 van dit besluit, beroep doet op een dubbele financiering, als misbruiken worden vastgesteld of als blijk wordt gegeven van kennelijke onbekwaamheid, kan de minister de erkenning intrekken.
+<P>...</P>
 
 ## TITEL X SLOT- EN OVERGANGSBEPALINGEN
 
