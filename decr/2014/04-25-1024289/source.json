@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024289,
+  "title": "Decreet van 2014-04-25 houdende aanpassing van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024289/VolledigDocument?datum=2014-07-19",
+  "source_sha256": "0bac6bc0880e6628d7eba8c5a824f7acd5e764c4206103c16a5ee0780d2b5fd9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024289&param=informatie",
+  "as_of": "2014-07-19",
+  "made": "2014-04-25",
+  "gazette": "2014-07-09",
+  "numac": 2014035615,
+  "document_start": "2014-07-19",
+  "document_end": null,
+  "in_force": "2014-07-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
