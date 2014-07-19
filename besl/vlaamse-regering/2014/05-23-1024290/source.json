@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024290,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 betreffende de Commissie Sociale Economie en tot opheffing van titel IX van het besluit van de Vlaamse Regering van 8 september 2000 houdende een impuls- en ondersteuningsprogramma van de meerwaardeneconomie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024290/VolledigDocument?datum=2014-07-19",
+  "source_sha256": "8f07520f5e8d730cf1729af6937aa1ba5af3a23839f4175386cba475b5edc142",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024290&param=informatie",
+  "as_of": "2014-07-19",
+  "made": "2014-05-23",
+  "gazette": "2014-07-09",
+  "numac": 2014035737,
+  "document_start": "2014-07-19",
+  "document_end": null,
+  "in_force": "2014-07-19",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-07-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
