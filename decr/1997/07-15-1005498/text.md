@@ -612,7 +612,7 @@ Als de Vlaamse regering een tegemoetkoming verleent voor het bouwen van een woni
 
 ### ART. 86.
 
-Willen twee of meer begunstigden hun recht van voorkoop uitoefenen dan   wordt het goed in de hierna vermelde volgorde toegewezen :<BR>1° de sociale   huisvestingsmaatschappij; <BR>2° de VMSW; <BR>3° Vlabinvest   apb;&nbsp;&nbsp;<BR>4° de gemeente. <BR><BR>Wanneer het goed gelegen is in het   werkgebied van meerdere sociale huisvestingsmaatschappijen bepaalt de Vlaamse   Regering volgens de regels die zij vaststelt, in welke volgorde die sociale   huisvestingsmaatschappijen hun recht van voorkoop kunnen uitoefenen. Deze   volgorde wordt hen door de Vlaamse Grondenbank meegedeeld samen met het aanbod   of melding van openbare verkoop.
+Willen twee of meer begunstigden hun recht van voorkoop uitoefenen dan   wordt het goed in de hierna vermelde volgorde toegewezen :<BR>1° de sociale   huisvestingsmaatschappij; <BR>2° de VMSW; <BR>3° Vlabinvest   apb;&nbsp;&nbsp;<BR>4° de gemeente. <BR><BR>Wanneer het goed gelegen is in het   werkgebied van meerdere sociale huisvestingsmaatschappijen bepaalt de Vlaamse   Regering volgens de regels die zij vaststelt, in welke volgorde die sociale   huisvestingsmaatschappijen hun recht van voorkoop kunnen uitoefenen. Deze   volgorde wordt hen door het e-voorkooploket, bedoeld in artikel 2, 7°, van het   decreet van 25 mei 2007 houdende de harmonisering van de procedures van   voorkooprechten meegedeeld samen met het aanbod of melding van openbare verkoop.
 
 ### ART. 87.
 
