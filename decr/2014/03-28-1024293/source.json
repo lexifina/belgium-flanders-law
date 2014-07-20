@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024293,
+  "title": "Decreet van 2014-03-28 tot wijziging van diverse decreten met het oog op een verdere harmonisering van de procedures van voorkooprechten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024293/VolledigDocument?datum=2014-07-20",
+  "source_sha256": "4f8c67c46d1283867d704ffc5254e62635a88c82628542f80aeb80508e1fde72",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024293&param=informatie",
+  "as_of": "2014-07-20",
+  "made": "2014-03-28",
+  "gazette": "2014-07-10",
+  "numac": 2014035458,
+  "document_start": "2014-07-20",
+  "document_end": null,
+  "in_force": "2014-07-20",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2014-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
