@@ -2,16 +2,16 @@
   "codex_id": 1010686,
   "title": "Decreet van 2002-12-13 houdende de oprichting van de naamloze vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel(BAM)",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010686/VolledigDocument?datum=2012-10-01",
-  "source_sha256": "4c5302975820082719d1fbcc2542ccbfdacb7f497bf95ca701363aa0a33b46e6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010686/VolledigDocument?datum=2014-07-20",
+  "source_sha256": "55ee579d54bac0154b47e36968b999b8ff409a53cc974f9891351232db2680db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010686&param=informatie",
-  "as_of": "2012-10-01",
+  "as_of": "2014-07-20",
   "made": "2002-12-13",
   "gazette": "2003-02-19",
   "numac": 2003035216,
   "document_start": null,
   "document_end": null,
-  "in_force": "2012-10-01",
+  "in_force": "2014-07-20",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2012-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-20; future article versions excluded; article text as the API gives it"
 }
