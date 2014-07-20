@@ -80,7 +80,7 @@ De bepalingen van titel IV, hoofdstukken I, II en VI, van het decreet van 16 jun
 <br>
 § 2. Het recht van voorkoop kan worden uitgeoefend vanaf de bekendmaking in het Belgisch Staatsblad van de goedkeuring van de afbakening van oeverzones en overstromingsgebieden.<br>
 <br>
-Dit recht doet geen afbreuk aan de regelingen die op het ogenblik van de inwerkingtreding van dit decreet al bestaan over het recht van voorkoop en die steeds voorrang hebben. De Vlaamse regering kan de nodige maatregelen nemen om in het geval het recht van voorkoop wordt uitgeoefend op een verpacht perceel, een vrijwillige grondruil mogelijk te maken. Voor die gronden kan slechts een einde worden gemaakt aan de lopende pacht bij het verstrijken van de pachtperiode zoals voorzien in artikel 7, 9°, van de Pachtwet, tenzij de pachter vroeger of vrijwillig afstand doet van zijn pachtrecht.<br>
+De Vlaamse regering kan de nodige maatregelen nemen om in het geval het recht van voorkoop wordt uitgeoefend op een verpacht perceel, een vrijwillige grondruil mogelijk te maken. Voor die gronden kan slechts een einde worden gemaakt aan de lopende pacht bij het verstrijken van de pachtperiode zoals voorzien in artikel 7, 9°, van de Pachtwet, tenzij de pachter vroeger of vrijwillig afstand doet van zijn pachtrecht.<br>
 <br>
 § 3. ...<br>
 <br>
