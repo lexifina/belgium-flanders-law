@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024426,
+  "title": "Ministerieel besluit van 2014-07-22 tot wijziging van artikel 1 en opheffing van artikel 1/1 van het ministerieel besluit van 11 februari 2010 tot aanwijzing van de ambtenaren, vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024426/VolledigDocument?datum=2014-07-22",
+  "source_sha256": "d9345dade11d5661504b3ff9320441855404d58205735572c0425feaedb400e7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024426&param=informatie",
+  "as_of": "2014-07-22",
+  "made": "2014-07-22",
+  "gazette": "2014-08-18",
+  "numac": 2014204862,
+  "document_start": "2014-07-22",
+  "document_end": null,
+  "in_force": "2014-07-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
