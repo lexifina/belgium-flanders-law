@@ -6,11 +6,11 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 ### ART. 1.
 
-De heer Jan Anthonis, adjunct van de directeur, Departement Financiën en Begroting, afdeling Financieel Management, Mevr. Anne-Sofie De Loore, adjunct van de directeur, Departement Financiën en Begroting, afdeling Financieel Management, en Mevr. Nathalie Quintelier, adjunct van de directeur, Departement Financiën en Begroting, afdeling Financieel Management worden aangewezen als Vlaamse instrumenterende ambtenaren als vermeld in artikel 94 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010.
+De volgende personen worden aangewezen als Vlaamse instrumenterende   ambtenaren als vermeld in artikel 94 van het decreet van 18 december 2009   houdende bepalingen tot begeleiding van de begroting 2010 :<BR>1° Nathalie   Quintelier;<BR>2° Anne-Sofie De Loore;<BR>3° Sofie De Wolf;<BR>4° Bert   Janssen;<BR>5° Stijn Menten.
 
 ### ART. 1/1.
 
-Mevr. Sofie De Wolf, adjunct van de directeur, Departement Financiën en   Begroting, afdeling Financieel Management wordt aangewezen als Vlaamse   instrumenterende ambtenaar als vermeld in artikel 94 van het decreet van 18   december 2009 houdende bepalingen tot begeleiding van de begroting   2010.
+<P>...</P>
 
 ### ART. 2.
 
