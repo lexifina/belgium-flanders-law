@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024300,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 houdende de overdracht en de herbestemming van de vastleggingen 00.033.285 en 00.033.286 genomen op de begroting van het Fonds voor Flankerend Economisch Beleid van het begrotingsjaar 2011",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024300/VolledigDocument?datum=2014-07-24",
+  "source_sha256": "edefe048441412adc3862d29c6be933dc8cfbea368214de889d2b7e3379fa36c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024300&param=informatie",
+  "as_of": "2014-07-24",
+  "made": "2014-03-21",
+  "gazette": "2014-07-14",
+  "numac": 2014035463,
+  "document_start": "2014-07-24",
+  "document_end": null,
+  "in_force": "2014-07-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
