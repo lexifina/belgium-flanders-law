@@ -2,16 +2,16 @@
   "codex_id": 1019051,
   "title": "Ministerieel besluit van 2010-05-18 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019051/VolledigDocument?datum=2014-06-23",
-  "source_sha256": "5212feb56394da8edcc9d043180d9ca98bfa3c0760a17dd61402c715df5fef14",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019051/VolledigDocument?datum=2014-07-25",
+  "source_sha256": "fa0c15a7385d2309174f9f6589a3aefcbc0fdb71c9747d5b04d9f0b353fc1aab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019051&param=informatie",
-  "as_of": "2014-06-23",
+  "as_of": "2014-07-25",
   "made": "2010-05-18",
   "gazette": "2010-06-01",
   "numac": 2010202941,
   "document_start": "2009-07-13",
   "document_end": "2014-07-24",
-  "in_force": "2014-06-23",
+  "in_force": "2014-07-25",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2014-06-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-25; future article versions excluded; article text as the API gives it"
 }
