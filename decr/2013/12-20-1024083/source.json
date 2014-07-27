@@ -2,16 +2,16 @@
   "codex_id": 1024083,
   "title": "Decreet van 2013-12-20 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024083/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "265344e3cda9fabf9602956a606f2bc5b15cea8a50c3c171e7edcd85e674fec6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024083/VolledigDocument?datum=2014-07-27",
+  "source_sha256": "8ae4fb874cbece1b8af00ed928c02445893de3515c0d8073fd4fcee92dfa4d9b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024083&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-07-27",
   "made": "2013-12-20",
   "gazette": "2014-05-09",
   "numac": 2014035417,
   "document_start": null,
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2014-07-27",
   "article_versions": 173,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-27; future article versions excluded; article text as the API gives it"
 }
