@@ -2,16 +2,16 @@
   "codex_id": 1021221,
   "title": "Besluit van de Vlaamse Regering van 2011-10-14 betreffende de begroting en de boekhouding van de Vlaamse rechtspersonen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021221/VolledigDocument?datum=2014-02-01",
-  "source_sha256": "1a040a15106bebad9ea95a99743037cb13d2d6d49ed2a5c6157bbb3efb25f53e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021221/VolledigDocument?datum=2014-07-27",
+  "source_sha256": "690ca8a87e15e0e9d4c941cac45f30078c540a73b0e518f2fec637cb7e460f3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021221&param=informatie",
-  "as_of": "2014-02-01",
+  "as_of": "2014-07-27",
   "made": "2011-10-14",
   "gazette": "2012-02-02",
   "numac": 2012035079,
   "document_start": "2012-01-01",
   "document_end": "2019-12-31",
-  "in_force": "2014-02-01",
+  "in_force": "2014-07-27",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2014-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-27; future article versions excluded; article text as the API gives it"
 }

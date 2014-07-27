@@ -33,7 +33,7 @@ In dit besluit wordt verstaan onder :<br>
 
 ### ART. 2.
 
-Dit besluit is van toepassing op alle Vlaamse rechtspersonen als vermeld in artikel 4, § 1, 2°, van het Rekendecreet.<br /><br />Artikelen 5, 14 en 15 van dit besluit zijn ook van toepassing op de Vlaamse rechtspersonen, vermeld in artikel 4, § 2, van het Rekendecreet.<br /><br />
+Dit besluit is van toepassing op alle Vlaamse rechtspersonen, vermeld in   artikel 4, § 1, 2°, van het Rekendecreet.<BR><BR>Artikel 5, § 1, § 3, § 4,   artikel 14 en artikel 15 van dit besluit zijn ook van toepassing op de Vlaamse   rechtspersonen, vermeld in artikel 4, § 2, van het   Rekendecreet.<BR>
 
 ## HOOFDSTUK 2 Bepalingen over de begroting
 
@@ -55,11 +55,11 @@ De Vlaamse minister, bevoegd voor de financiën en de begrotingen, bereidt de in
 
 ### ART. 6.
 
-Het gerealiseerde positieve begrotingssaldo kan gebruikt worden op basis van een aanwendingsplan dat door de inhoudelijk bevoegde minister ter goedkeuring wordt voorgelegd aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Het aanwendingsplan kan in voorkomend geval betrekking hebben op verschillende begrotingsjaren.<br /><br />
+<P>De aanwending uit het reservefonds en de aanwending van het begrotingssaldo   van de Vlaamse rechtspersoon zijn mogelijk op basis van een aanwendingsplan dat   door de Vlaamse rechtspersoon opgemaakt wordt. Het aanwendingsplan omvat ook een   overzicht van de geplande spijziging van het reservefonds of saldo en kan in   voorkomend geval betrekking hebben op verschillende   begrotingsjaren.</P>
 
 ### ART. 7.
 
-Het ontwerp van begroting of de begrotingsaanpassing, met inbegrip van het investeringsplan, wordt ter goedkeuring voorgelegd aan de inhoudelijk bevoegde minister, die het ontwerp van begroting of de begrotingsaanpassing vervolgens bezorgt aan de Vlaamse minister, bevoegd voor de financiën en de begrotingen. De goedkeuring door de inhoudelijk bevoegde minister is afhankelijk van de goedkeuring door de Vlaamse minister, bevoegd voor de financiën en de begrotingen.<br /><br />Als de Vlaamse rechtspersoon beschikt over een raad van bestuur, keurt die het ontwerp van begroting of de begrotingsaanpassing goed voor hij het ontwerp aan de inhoudelijk bevoegde minister bezorgt.<br /><br />
+Het ontwerp van begroting of de begrotingsaanpassing, met inbegrip van het   investeringsplan en het aanwendingsplan, wordt ter goedkeuring voorgelegd aan de   inhoudelijk bevoegde minister, die het ontwerp van begroting of de   begrotingsaanpassing vervolgens voorlegt aan de Vlaamse Regering.<BR><BR>Als de   Vlaamse rechtspersoon beschikt over een raad van bestuur, keurt die het ontwerp   van begroting of de begrotingsaanpassing goed voor hij het ontwerp aan de   inhoudelijk bevoegde minister bezorgt.<BR>
 
 ## Afdeling 3 Machtigingen
 
@@ -75,7 +75,7 @@ Iedere Vlaamse rechtspersoon met een machtiging om investeringen uit te voeren w
 
 ### ART. 9/1.
 
-§ 1. Voor de herverdelingen van kredieten of overschrijdingen van limitatieve kredieten van een Vlaamse rechtspersoon is het akkoord vereist van de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Voor de Vlaamse rechtspersoon die niet onder het toepassingsgebied van artikel 1 van het besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de begrotingscontrole en -opmaak valt, is artikel 6 van hetzelfde besluit overeenkomstig van toepassing.<br /><br />§ 2. De Vlaamse minister, bevoegd voor de begroting, bepaalt de nadere regels voor de indiening van een aanvraag tot begrotingsakkoord houdende herverdeling van kredieten of overschrijding van limitatieve kredieten.<br /><br />§ 3. Als de Vlaamse rechtspersoon beschikt over een raad van bestuur, voegt de bevoegde minister het advies van de regeringsafgevaardigde, de regeringscommissaris, de gemachtigde van Financiën of een persoon met een soortgelijke functie die is aangesteld door de Vlaamse Regering op voordracht van de Vlaamse minister, bevoegd voor de financiën en de begrotingen, bij het verzoek tot het akkoord van de Vlaamse minister, bevoegd voor de begroting.
+§ 1. Voor de herverdelingen van kredieten of overschrijdingen van   limitatieve kredieten van een Vlaamse rechtspersoon is het akkoord vereist van   de Vlaamse minister, bevoegd voor de financiën en de begrotingen. Voor de   Vlaamse rechtspersoon die niet onder het toepassingsgebied van artikel 1 van het   besluit van de Vlaamse Regering van 19 januari 2001 houdende regeling van de   begrotingscontrole en -opmaak valt, is artikel 6 van hetzelfde besluit   overeenkomstig van toepassing.<BR><BR>§ 2. De Vlaamse minister, bevoegd voor de   begroting, bepaalt de nadere regels voor de indiening van een aanvraag tot   begrotingsakkoord houdende herverdeling van kredieten of overschrijding van   limitatieve kredieten.<BR><BR>§ 3. Als de Vlaamse rechtspersoon beschikt over   een raad van bestuur, voegt de bevoegde minister het advies van de   regeringsafgevaardigde, de regeringscommissaris, de gemachtigde van Financiën of   een persoon met een soortgelijke functie die is aangesteld door de Vlaamse   Regering op voordracht van de Vlaamse minister, bevoegd voor de financiën en de   begrotingen, bij het verzoek tot het akkoord van de Vlaamse minister, bevoegd   voor de begroting.<BR><BR>§ 4. De Vlaamse minister, bevoegd voor de begroting,   bevestigt zo snel mogelijk de ontvangst van een aanvraag tot herverdeling van   kredieten of tot overschrijding van limitatieve kredieten en vermeldt daarbij de   datum van ontvangst. Hij doet uitspraak over de herverdeling van kredieten of   over de overschrijding van limitatieve kredieten binnen een periode van twaalf   werkdagen vanaf de ontvangstdatum.<BR><BR>Als de Vlaamse minister, bevoegd voor   de begroting, geen uitspraak doet binnen een periode van twaalf werkdagen, wordt   hij geacht in te stemmen met het voorstel van de functioneel bevoegde   minister.<BR><BR>Als de Vlaamse minister, bevoegd voor de begroting, zijn   akkoord niet verleent, kan de functioneel bevoegde minister zijn voorstel ter   beslissing voorleggen aan de Vlaamse Regering.
 
 ## HOOFDSTUK 3 Bepalingen over de boekhouding
 
