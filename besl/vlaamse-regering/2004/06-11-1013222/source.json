@@ -2,16 +2,16 @@
   "codex_id": 1013222,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot oprichting van het intern verzelfstandigd agentschap [\"agentschap Facilitair Bedrijf\" (verv. BVR 4 juli 2014, art. 7, I: 28 juli 2014)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013222/VolledigDocument?datum=2013-03-22",
-  "source_sha256": "8acf8953f2d010596c9f605c905b7b51bb2cb10221fadc6a1c99f5feddee1e72",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013222/VolledigDocument?datum=2014-07-28",
+  "source_sha256": "b6563d4f62d7ac9063d33fa6e9a8b5ad5e7364494a025305138b8dff96eea146",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013222&param=informatie",
-  "as_of": "2013-03-22",
+  "as_of": "2014-07-28",
   "made": "2004-06-11",
   "gazette": "2004-07-13",
   "numac": 2004036101,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2013-03-22",
+  "in_force": "2014-07-28",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2013-03-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-07-28; future article versions excluded; article text as the API gives it"
 }
