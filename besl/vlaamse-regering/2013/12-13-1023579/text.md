@@ -16,6 +16,10 @@ In artikel 3, eerste lid, 2°, van het besluit van de Vlaamse Regering van   13 
 
 Het besluit van de Vlaamse Regering van 28 oktober 2005 tot oprichting van   het intern verzelfstandigd agentschap Vlaams Agentschap voor Internationale   Samenwerking, gewijzigd bij het besluit van de Vlaamse Regering van 7 december   2012, wordt opgeheven.<BR>
 
+### ART. 3/1.
+
+&nbsp;De vastleggings- en vereffeningskredieten van de algemene   uitgavenbegroting van de Vlaamse Gemeenschap, de genomen reserveringen in de   vorm van vastleggingen en vereffeningen en de beschikbare kredieten op   basisallocaties en begrotingsartikelen van het Vlaams Agentschap voor   Internationale Samenwerking, worden overgeheveld naar de passende   basisallocaties en begrotingsartikelen van het Departement internationaal   Vlaanderen.
+
 ### ART. 4.
 
 Dit besluit treedt in werking op 1 april 2014.<BR>
