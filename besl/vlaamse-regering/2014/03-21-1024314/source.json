@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024314,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 21 december 2012 betreffende de financiering van de Bijzondere Onderzoeksfondsen aan de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024314/VolledigDocument?datum=2014-07-28",
+  "source_sha256": "67e0c929248ca7ad02de1ef6d7e8cbf4f85a0ff5934b23c4097814352939b421",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024314&param=informatie",
+  "as_of": "2014-07-28",
+  "made": "2014-03-21",
+  "gazette": "2014-07-18",
+  "numac": 2014035447,
+  "document_start": "2014-07-28",
+  "document_end": null,
+  "in_force": "2014-07-28",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-07-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
