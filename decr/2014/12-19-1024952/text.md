@@ -84,6 +84,10 @@ In artikel 20, § 4, van hetzelfde decreet worden de woorden "afdeling   inspect
 
 ## HOOFDSTUK 7. Pensioenfonds VRT
 
+### ART. 24.
+
+In artikel 29, tweede lid, 2°, van het decreet van 25 april 2014   betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van   de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de   overlevingspensioenen, toegekend aan de rechtverkrijgenden van die   personeelsleden worden de woorden "uiterlijk op de eerste dag van de tweede   maand die volgt op de datum van de bekendmaking van dit decreet in het Belgisch   Staatsblad." vervangen door de woorden "en dit tot op een specifiek door de   Vlaamse Regering te bepalen datum en uiterlijk op 31 december   2015.".
+
 ## HOOFDSTUK 8. Terugbetalingen van kunstenaarstoelagen
 
 ### ART. 25.
