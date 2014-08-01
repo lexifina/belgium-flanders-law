@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024659,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-04 tot wijziging van diverse besluiten wat betreft de opheffing van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Koninklijk Museum voor Schone Kunsten Antwerpen en de integratie van taken in het departement Cultuur, Jeugd, Sport en Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024659/VolledigDocument?datum=2014-08-01",
+  "source_sha256": "c32b6700382552cf91b695d42e511713ed8caf0fe01483a2306ba30211c38453",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024659&param=informatie",
+  "as_of": "2014-08-01",
+  "made": "2014-07-04",
+  "gazette": "2014-10-13",
+  "numac": 2014036466,
+  "document_start": "2014-08-01",
+  "document_end": null,
+  "in_force": "2014-08-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2014-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
