@@ -102,7 +102,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 24.
 
-§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het gelijknamige departement en drie agentschappen zonder rechtspersoonlijkheid : <br />1° Kunsten en Erfgoed; <br />2° Sociaal-Cultureel Werk voor Jeugd en Volwassenen;<br />3° Koninklijk Museum voor Schone Kunsten Antwerpen. <br /><br />§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren, zijn : <br />1° Bloso; <br />2° Vlaamse Regulator voor de Media.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media.
+§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit   het gelijknamige departement en&nbsp;twee agentschappen zonder   rechtspersoonlijkheid : <BR>1° Kunsten en Erfgoed; <BR>2° Sociaal-Cultureel Werk   voor Jeugd en Volwassenen.&nbsp;<BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media   behoren, zijn : <BR>1° Bloso; <BR>2° Vlaamse Regulator voor de Media.<BR><BR>§   3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en   Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media.
 
 ### ART. 25.
 
