@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1Â° het overgedragen saldo; <br />2Â
 
 ### ART. 8.
 
-De leidend ambtenaar van het agentschap waaronder het Koninklijk Museum voor Schone Kunsten in Antwerpen ressorteert, stelt een ordonnateur aan. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+<P>De lijnmanager van het Departement Cultuur, Jeugd, Sport en Media of zijn   gemandateerde is beheerder en gedelegeerd ordonnateur van het Koninklijk Museum   voor Schone Kunsten in Antwerpen.</P>
 
 ### ART. 9.
 
@@ -92,7 +92,7 @@ De ordonnateur is gemachtigd om alle verbintenissen aan te gaan die noodzakelijk
 
 ### ART. 15.
 
-De Vlaamse Regering zorgt voor de werving en bezoldiging van het statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de structurele werking van het Koninklijk Museum voor Schone Kunsten in Antwerpen. <br /><br />Het Koninklijk Museum voor Schone Kunsten in Antwerpen zorgt voor de indienstneming en bezoldiging van aanvullend contractueel personeel met het oog op behoud, beheer, onderzoek en ontsluiting, en voor tijdelijke projecten. <br /><br />De ordonnateur is gemachtigd om, na de goedkeuring van de leidend ambtenaar van het agentschap waaronder de beheersdienst van het Koninklijk Museum voor Schone Kunsten in Antwerpen ressorteert, arbeidsovereenkomsten te sluiten.
+De Vlaamse Regering zorgt voor de werving en bezoldiging van het   statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de   structurele werking van het Koninklijk Museum voor Schone Kunsten in Antwerpen.   <BR><BR>Het Koninklijk Museum voor Schone Kunsten in Antwerpen zorgt voor de   indienstneming en bezoldiging van aanvullend contractueel personeel met het oog   op behoud, beheer, onderzoek en ontsluiting, en voor tijdelijke projecten.
 
 ### ART. 16.
 
