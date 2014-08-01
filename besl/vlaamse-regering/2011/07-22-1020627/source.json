@@ -2,16 +2,16 @@
   "codex_id": 1020627,
   "title": "Besluit van de Vlaamse Regering van 2011-07-22 betreffende het verlenen van subsidies voor boslandbouwsystemen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling voor de programmeringsperiode 2007-2013",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020627/VolledigDocument?datum=2011-09-19",
-  "source_sha256": "82754a2e50e3d73583ff9f9a34f0fbdaaecda40eeb449b9f7a603819062974f8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020627/VolledigDocument?datum=2014-08-01",
+  "source_sha256": "f625391b22abfcfbcd9b03cdd6b0aef97ffe95b20a5e5c207c19257e3073c2d8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020627&param=informatie",
-  "as_of": "2011-09-19",
+  "as_of": "2014-08-01",
   "made": "2011-07-22",
   "gazette": "2011-09-09",
   "numac": 2011204458,
   "document_start": "2011-09-19",
   "document_end": "2014-07-31",
-  "in_force": "2011-09-19",
+  "in_force": "2014-08-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2011-09-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-08-01; future article versions excluded; article text as the API gives it"
 }
