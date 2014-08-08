@@ -7,3 +7,7 @@
 ### ART. 1.
 
 In artikel 9, § 1, tweede lid, van het samenwerkingsprotocol van 6   december 2005 tussen het Vlaamse Gewest, Waalse Gewest en het Brussels   Hoofdstedelijk Gewest met betrekking tot de heffing in de sector melk en   zuivelproducten, gewijzigd bij het samenwerkingsprotocol van 31 juli 2008 wordt   de zinsnede "en niet hoger dan 30.000 liter wat de leveringen betreft"   opgeheven.<BR>
+
+### ART. 2.
+
+Artikel 1 heeft uitwerking met ingang van 1 april 2014.<BR>
