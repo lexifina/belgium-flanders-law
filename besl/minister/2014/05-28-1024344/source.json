@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024344,
+  "title": "Ministerieel besluit van 2014-05-28 tot hoogdringende onteigening ten algemene nutte van onroerende goederen bestemd voor de bouw van een gecontroleerd overstromingsgebied in de vallei van de Grote Molenbeek tussen de Bontestraat en Breestraeten op de grens van Londerzeel en Merchtem door de Vlaamse Milieumaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024344/VolledigDocument?datum=2014-08-10",
+  "source_sha256": "d619996a13b5384f90bd9917aaeb19817b9eef94ac20993b04f95438990d14f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024344&param=informatie",
+  "as_of": "2014-08-10",
+  "made": "2014-05-28",
+  "gazette": "2014-07-31",
+  "numac": 2014203939,
+  "document_start": "2014-08-10",
+  "document_end": null,
+  "in_force": "2014-08-10",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2014-08-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
