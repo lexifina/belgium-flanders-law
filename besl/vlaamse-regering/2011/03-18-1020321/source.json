@@ -2,16 +2,16 @@
   "codex_id": 1020321,
   "title": "Besluit van de Vlaamse Regering van 2011-03-18 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020321/VolledigDocument?datum=2014-04-25",
-  "source_sha256": "3494d50affe81d60f5c43c360f3f1a1cc35881db77391edf4ad6261fe7914bb1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020321/VolledigDocument?datum=2014-08-14",
+  "source_sha256": "77620d483cd3544ab718da591f2283b1d92b91969525912de55d6bf02c6dc001",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020321&param=informatie",
-  "as_of": "2014-04-25",
+  "as_of": "2014-08-14",
   "made": "2011-03-18",
   "gazette": "2011-06-16",
   "numac": 2011202871,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2014-04-25",
+  "in_force": "2014-08-14",
   "article_versions": 100,
-  "record_form": "consolidated version as in force on 2014-04-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-08-14; future article versions excluded; article text as the API gives it"
 }
