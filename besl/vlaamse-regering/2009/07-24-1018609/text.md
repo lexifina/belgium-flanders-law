@@ -1990,6 +1990,10 @@ De aanvragen tot voorafgaande vergunning voor een rusthuis waarover op de datum 
 
 De stijging van de programmacijfers van de woonzorgcentra, die voor het   jaar 2013 voortvloeit uit de toepassing van artikel 3, gaat pas in op 1 januari   2016.
 
+### ART. 52.
+
+In afwijking van artikel 17 van het besluit van de Vlaamse Regering van 20   december 2013 betreffende de voorafgaande vergunning voor centra voor   kortverblijf en woonzorgcentra en tot wijziging van de regels betreffende de   voorafgaande vergunning en de erkenning van die centra, kan een ontvankelijke   aanvraag tot het verkrijgen van een voorafgaande vergunning worden ingediend om   de bedden in een rust- en verzorgingstehuis die door een reconversieprocedure   van ziekenhuizen ontstaan zijn, om te schakelen tot woongelegenheden in een   woonzorgcentrum met een bijzondere erkenning als rust- en   verzorgingstehuis.<BR><BR>De aanvraag tot het verkrijgen van de voorafgaande   vergunning, vermeld in het eerste lid, wordt geacht te passen in de programmatie   als ze wordt ingediend binnen een maand na de inwerkingtreding van dit   besluit.
+
 ## BIJLAGE XIII Verenigingen van gebruikers en mantelzorgers
 
 ## HOOFDSTUK I Programmatie
