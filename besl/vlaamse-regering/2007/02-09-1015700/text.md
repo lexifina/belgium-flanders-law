@@ -39,7 +39,7 @@ Om voor een investeringswaarborg in aanmerking te komen moet de investering plaa
 
 ### ART. 6.
 
-Met behoud van de toepassing van artikel 5 moet, om voor een investeringswaarborg in aanmerking te komen, de investering in een woonzorgcentrum plaatsvinden overeenkomstig de erkenningsvoorwaarden, vermeld in bijlage XII bij het besluit van de Vlaamse Regering van ... betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers.
+Met behoud van de toepassing van artikel 5 moet, om voor een   investeringswaarborg in aanmerking te komen, de investering in een   woonzorgcentrum plaatsvinden overeenkomstig de erkenningsvoorwaarden, vermeld in   bijlage XII bij het besluit van de Vlaamse Regering van ... betreffende de   programmatie, de erkenningsvoorwaarden en de subsidieregeling voor   woonzorgvoorzieningen en verenigingen van gebruikers en   mantelzorgers.<BR><BR>Innovatieve pilootprojecten, geselecteerd na een oproep   door de minister, kunnen van het Fonds een afwijking krijgen van de   erkenningsvoorwaarden, vermeld in het eerste lid. Afwijkingen worden alleen   verleend als ze tot doel hebben de levenskwaliteit van de bewoners van de   innovatieve pilootprojecten te verhogen. De minister bepaalt daarvoor de   bijkomende selectiecriteria.
 
 ## HOOFDSTUK V Procedure voor het verlenen van een investeringswaarborg
 
