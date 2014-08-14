@@ -2,16 +2,16 @@
   "codex_id": 1006868,
   "title": "Besluit van de Vlaamse Regering van 1999-06-08 tot vaststelling van de totale investeringssubsidie en de bouwtechnische normen voor voorzieningen voor [ouderen (verv. BVR 24 juli 2009, art. 31)] en voorzieningen in de thuiszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006868/VolledigDocument?datum=2014-04-25",
-  "source_sha256": "ed9ae65b5f646a58e583c5217a9987c478bba509fc4459141ccde2686dadf6c0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006868/VolledigDocument?datum=2014-08-14",
+  "source_sha256": "f23c7de6840f2e08923822732c5b6f7be113b9d7151238cbd18e332571023153",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006868&param=informatie",
-  "as_of": "2014-04-25",
+  "as_of": "2014-08-14",
   "made": "1999-06-08",
   "gazette": "1999-08-31",
   "numac": 1999036085,
   "document_start": null,
   "document_end": "2019-12-31",
-  "in_force": "2014-04-25",
+  "in_force": "2014-08-14",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-04-25; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-08-14; future article versions excluded; article text as the API gives it"
 }
