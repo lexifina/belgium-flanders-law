@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024349,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijzing van de bijlage XII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers en betreffende het omschakelen van rust- en verzorgingstehuizen ontstaan uit de reconversie van ziekenhuizen tot woonzorgcentra met een bijzondere erkenning als rust- en verzorgingstehuis",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024349/VolledigDocument?datum=2014-08-14",
+  "source_sha256": "4308b9347f6486d51631701df29f429c92698261acdabbfe9f5d125f3e77dddd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024349&param=informatie",
+  "as_of": "2014-08-14",
+  "made": "2014-05-09",
+  "gazette": "2014-08-04",
+  "numac": 2014035658,
+  "document_start": "2014-08-14",
+  "document_end": null,
+  "in_force": "2014-08-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
