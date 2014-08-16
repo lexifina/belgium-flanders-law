@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024366,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot wijziging van artikel 1, 4 en 6 en van bijlage 2 en 6 van het besluit van de Vlaamse Regering van 11 september 2009 tot vaststelling van de specifieke brandveiligheidsnormen waaraan het toeristische logies moet voldoen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024366/VolledigDocument?datum=2014-08-16",
+  "source_sha256": "dab27e2f94f6dc8c608f02345a6fab5580fa04330bf25b0ea8f2838d974cd45c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024366&param=informatie",
+  "as_of": "2014-08-16",
+  "made": "2014-05-23",
+  "gazette": "2014-08-06",
+  "numac": 2014204335,
+  "document_start": "2014-08-16",
+  "document_end": null,
+  "in_force": "2014-08-16",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
