@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024368,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot erkenning van de onderwijskwalificatie \"Graduaat in het dispatchen van goederenvervoer via de lucht\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024368/VolledigDocument?datum=2014-08-16",
+  "source_sha256": "d91e8c1fb09acafe1c97df7070c5d42f19330d5fdd02d5572e03289dab455038",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024368&param=informatie",
+  "as_of": "2014-08-16",
+  "made": "2014-06-06",
+  "gazette": "2014-08-06",
+  "numac": 2014204480,
+  "document_start": "2014-08-16",
+  "document_end": "2018-07-01",
+  "in_force": "2014-08-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
