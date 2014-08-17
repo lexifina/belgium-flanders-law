@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024373,
+  "title": "Decreet van 2014-03-28 houdende instelling van het Ereteken van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024373/VolledigDocument?datum=2014-08-17",
+  "source_sha256": "108b0f99843ea971666d138272ff5c8920867c80c228e26a6eab71f8626bf52d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024373&param=informatie",
+  "as_of": "2014-08-17",
+  "made": "2014-03-28",
+  "gazette": "2014-08-07",
+  "numac": 2014035459,
+  "document_start": "2014-08-17",
+  "document_end": null,
+  "in_force": "2014-08-17",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
