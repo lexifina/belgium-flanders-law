@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024375,
+  "title": "Ministerieel besluit van 2014-04-04 tot wijziging van het ministerieel besluit van 23 december 2011 tot aanwijzing van de voorzitter, de leden en hun plaatsvervangers van de strategische adviesraad Ruimtelijke Ordening en Onroerend Erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024375/VolledigDocument?datum=2014-08-17",
+  "source_sha256": "37ee91c677dc3dbcabd4b4f452f3e297fec0a593cca58500e4cd4cb5c042d0fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024375&param=informatie",
+  "as_of": "2014-08-17",
+  "made": "2014-04-04",
+  "gazette": "2014-08-07",
+  "numac": 2014204795,
+  "document_start": "2014-08-17",
+  "document_end": null,
+  "in_force": "2014-08-17",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
