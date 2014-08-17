@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024374,
+  "title": "Ministerieel besluit van 2014-07-01 tot opheffing van artikel 2 en tot wijziging van de bijlage bij het ministerieel besluit van 25 juli 2011 houdende de goedkeuring van het eenheidsreglement gerecycleerde granulaten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024374/VolledigDocument?datum=2014-08-17",
+  "source_sha256": "3d83b5427bacbeb578a464396970ff61f51bbbeb1021ca37569ac10f04c266b9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024374&param=informatie",
+  "as_of": "2014-08-17",
+  "made": "2014-07-01",
+  "gazette": "2014-08-07",
+  "numac": 2014035917,
+  "document_start": "2014-08-17",
+  "document_end": null,
+  "in_force": "2014-08-17",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
