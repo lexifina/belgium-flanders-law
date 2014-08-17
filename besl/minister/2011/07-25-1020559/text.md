@@ -10,7 +10,7 @@ Het eenheidsreglement voor de certificatie van de milieuhygiënische kwaliteit v
 
 ### ART. 2.
 
-De Onpartijdige Instelling voor de Controle van de Bouwproducten, afgekort Copro vzw, met zetel te 1731 Zellik, Kranenberg 190, en Certipro, departement van de Vlaamse Instelling voor Technologisch onderzoek, afgekort VITO NV, met zetel te 2400 Mol, Boeretang 200, worden bij aanvang beschouwd als certificatie-instellingen die aan het eenheidsreglement voldoen. Drie maanden na inwerkingtreding van dit reglement moeten zij effectief voldoen aan alle bepalingen van dit reglement.<br /><br />
+<P>...</P>
 
 ### ART. 3.
 
@@ -18,4 +18,4 @@ Dit besluit treedt in werking drie maanden na de bekendmaking ervan in het Belgi
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/08/23_1.pdf#page=64" title=" Bijlage" target="_blank" class="pdf">Bijlage</a>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/08/07_1.pdf#page=129">Bijlage</A></P>
