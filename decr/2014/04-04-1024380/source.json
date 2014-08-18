@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024380,
+  "title": "Decreet van 2014-04-04 houdende instemming met het Samenwerkingsakkoord van 27 februari 2014 tussen de Federale Staat, het Vlaamse Gewest, Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de oprichting van een vergunningscoördinerend en -faciliterend comité voor trans-Europese energie-infrastructuurprojecten, ter uitvoering van verordening (EU) nr. 347/2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024380/VolledigDocument?datum=2014-08-18",
+  "source_sha256": "ad28e66959a547ed5a05342aba7e7a192e7f6e48a5c142baad11433dff26f0d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024380&param=informatie",
+  "as_of": "2014-08-18",
+  "made": "2014-04-04",
+  "gazette": "2014-08-08",
+  "numac": 2014035499,
+  "document_start": "2014-08-18",
+  "document_end": null,
+  "in_force": "2014-08-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
