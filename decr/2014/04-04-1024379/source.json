@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024379,
+  "title": "Decreet van 2014-04-04 houdende instemming met het Aanvullend Protocol van Nagoya-Kuala Lumpur inzake aansprakelijkheid en schadeloosstelling bij het Protocol van Cartagena inzake bioveiligheid, gedaan te Nagoya op 15 oktober 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024379/VolledigDocument?datum=2014-08-18",
+  "source_sha256": "58bb3542790f7a644d6f029ddbb981aebdd45d932331c0ec88735037c2ee0544",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024379&param=informatie",
+  "as_of": "2014-08-18",
+  "made": "2014-04-04",
+  "gazette": "2014-08-08",
+  "numac": 2014035498,
+  "document_start": "2014-08-18",
+  "document_end": null,
+  "in_force": "2014-08-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
