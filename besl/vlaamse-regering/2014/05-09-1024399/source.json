@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024399,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 houdende de overdracht van twee contractuele personeelsleden van de Vlaamse Landmaatschappij aan het Agentschap voor Facilitair Management",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024399/VolledigDocument?datum=2014-08-21",
+  "source_sha256": "7f5ce9993f66269be284ea358d8e32e751bb8c13432419c8a672ec90d6fcb4a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024399&param=informatie",
+  "as_of": "2014-08-21",
+  "made": "2014-05-09",
+  "gazette": "2014-08-11",
+  "numac": 2014035677,
+  "document_start": "2014-08-21",
+  "document_end": null,
+  "in_force": "2014-08-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
