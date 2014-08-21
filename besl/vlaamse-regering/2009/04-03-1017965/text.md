@@ -1597,7 +1597,7 @@ Voor de difosforpentoxide- en stikstofinhoud van de dieren kunnen de volgende fo
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:80.35pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>difosforpentoxide<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>difosforpentoxide</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
 			<p>stikstof</p>
@@ -1664,7 +1664,7 @@ Voor de difosforpentoxide- en stikstofinhoud van de dieren kunnen de volgende fo
 			<p>13,5 g/kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
-			<p>19,2 g/kg</p>
+			<p>29,2 g/kg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1676,7 +1676,7 @@ Voor de difosforpentoxide- en stikstofinhoud van de dieren kunnen de volgende fo
 			<p>13,5 g/kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:82.8pt">
-			<p>19,2 g/kg</p>
+			<p>29,2 g/kg</p>
 			</td>
 		</tr>
 		<tr>
@@ -1793,7 +1793,7 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 			<p>Ruw eiwit gehalte (g RE/kg product)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Fosfaat gehalte<br>
+			<p>Fosforgehalte<br>
 			(g P/kg product)</p>
 			</td>
 		</tr>
