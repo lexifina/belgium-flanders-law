@@ -2,16 +2,16 @@
   "codex_id": 1024393,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van het besluit van de Vlaamse Regering van 3 april 2009 betreffende de nadere regels inzake het nutriëntenbalansstelsel als vermeld in artikel 25 van het Mestdecreet",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024393/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "85e25fe84e0fab4b001b46a1e028357f87a816e694ef235470dd4bdaa44deb82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024393/VolledigDocument?datum=2014-08-21",
+  "source_sha256": "b5511209abfe07d6105736ab305df08aa65c0b569f5c89e92743fffd43ac7301",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024393&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-08-21",
   "made": "2014-05-09",
   "gazette": "2014-08-11",
   "numac": 2014035682,
   "document_start": "2014-08-21",
   "document_end": null,
-  "in_force": "2014-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-08-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-08-21; future article versions excluded; article text as the API gives it"
 }
