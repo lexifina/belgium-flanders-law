@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024402,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot erkenning van de master-na-masteropleiding Master of Digital Humanities als nieuwe opleiding van de Katholieke Universiteit Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024402/VolledigDocument?datum=2014-08-22",
+  "source_sha256": "ca245e116311c0b88b18031f802c2f6d6e9fb33b77e7fac5fdd6877ce4235254",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024402&param=informatie",
+  "as_of": "2014-08-22",
+  "made": "2014-06-06",
+  "gazette": "2014-08-12",
+  "numac": 2014204474,
+  "document_start": "2014-08-22",
+  "document_end": null,
+  "in_force": "2014-08-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
