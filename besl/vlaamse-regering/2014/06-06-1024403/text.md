@@ -39,3 +39,11 @@ In Deel XIII, Titel III, Hoofdstuk XI, Afdeling 2 van hetzelfde besluit   worden
 ### ART. 9.
 
 In Deel XIII, Titel III, Hoofdstuk XI, Afdeling 3 van hetzelfde besluit   worden de volgende wijzigingen aangebracht:<BR>1° artikel XIII 108, gewijzigd   bij de besluiten van de Vlaamse Regering van 19 september 2003, 14 mei 2004 en   20 februari 2009, wordt vervangen als volgt:<BR>"Artikel XIII 108. De   eindejaarstoelage bedraagt 71 % van het brutomaandsalaris van de maand oktober   van het uitbetalingsjaar.<BR>In afwijking van het eerste lid bedraagt voor het   jaar 2013 de eindejaarstoelage 68 % van het brutomaandsalaris van de maand   oktober."<BR>2° artikel XIII 108bis, ingevoegd bij het besluit van de Vlaamse   Regering van 20 februari 2009, wordt opgeheven.<BR>
+
+### ART. 10.
+
+Dit besluit heeft uitwerking met ingang op:<BR>- 1 januari 2012 wat   betreft artikel 1, 1° en de artikelen 2, 3 en 6;<BR>- 1 september 2012 wat   betreft artikel 1, 2°;<BR>- 1 februari 2014 wat betreft de artikelen 4, 5 en   7;<BR>- 1 december 2013 wat betreft de artikelen 8 en 9.<BR>
+
+### ART. 11.
+
+De Vlaamse minister bevoegd voor waterbeheer is belast met de uitvoering   van dit besluit.<BR>
