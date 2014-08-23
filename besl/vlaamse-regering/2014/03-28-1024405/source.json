@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024405,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-28 houdende de herverdeling van begrotingsartikel GB0/1GB-D-2-E/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024405/VolledigDocument?datum=2014-08-23",
+  "source_sha256": "cc55438121ec596af34797acbfbd754b2a56b65f1c8848c027c04ad50653a72e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024405&param=informatie",
+  "as_of": "2014-08-23",
+  "made": "2014-03-28",
+  "gazette": "2014-08-13",
+  "numac": 2014035501,
+  "document_start": "2014-08-23",
+  "document_end": null,
+  "in_force": "2014-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
