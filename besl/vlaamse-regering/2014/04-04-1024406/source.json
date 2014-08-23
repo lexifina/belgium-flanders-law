@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024406,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 betreffende de vaststelling van de noodzaak tot verplichte wijziging van de inplanting van de gasvervoerinstallaties van de NV Fluxys gelegen in het openbaar domein van het Vlaamse Gewest op het grondgebied van Machelen, deelgemeente van Zulte, ten behoeve van de realisatie van het Seine-Schelde-project, inzonderheid de verdieping van de Leie en rekening houdend met de passeerstrook aldaar",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024406/VolledigDocument?datum=2014-08-23",
+  "source_sha256": "1ea0b1c4341d80241e62e334ff84deb750972f4c4d56867262081b2e3e2fe84f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024406&param=informatie",
+  "as_of": "2014-08-23",
+  "made": "2014-04-04",
+  "gazette": "2014-08-13",
+  "numac": 2014035480,
+  "document_start": "2014-08-23",
+  "document_end": null,
+  "in_force": "2014-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
