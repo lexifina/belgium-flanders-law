@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024456,
+  "title": "Ministerieel besluit van 2014-05-14 houdende de uitwerking van de CO2-neutraliteit op de bedrijventerreinen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024456/VolledigDocument?datum=2014-08-25",
+  "source_sha256": "0daeabed29ce969c2faf9b7ac8d5fd129a79402a428759a4e14a8fe888663b2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024456&param=informatie",
+  "as_of": "2014-08-25",
+  "made": "2014-05-14",
+  "gazette": "2014-08-25",
+  "numac": 2014035591,
+  "document_start": "2014-08-25",
+  "document_end": null,
+  "in_force": "2014-08-25",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2014-08-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
