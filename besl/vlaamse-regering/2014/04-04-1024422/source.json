@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024422,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 houdende de gedeeltelijke herverdeling van de relanceprovisie ingeschreven onder begrotingsartikel CB0/1CB-X-2-C/PR - basisallocatie CB0 CB026 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024422/VolledigDocument?datum=2014-08-28",
+  "source_sha256": "34bffba4da433f7dd9bcbcd4853d2b6e5a6b5c04b62d11cfaa9904b2de7f19f3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024422&param=informatie",
+  "as_of": "2014-08-28",
+  "made": "2014-04-04",
+  "gazette": "2014-08-18",
+  "numac": 2014035583,
+  "document_start": "2014-08-28",
+  "document_end": null,
+  "in_force": "2014-08-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
