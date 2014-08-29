@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024432,
+  "title": "Decreet van 2014-04-25 tot instemming met het VN-verdrag inzake handel in conventionele wapens, opgemaakt in New York op 2 april 2013 en ondertekend in New York op 3 juni 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024432/VolledigDocument?datum=2014-08-29",
+  "source_sha256": "d661c1e41e5826d9414d2ebc330d4cea9cd43c06043308c0270874a6497806c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024432&param=informatie",
+  "as_of": "2014-08-29",
+  "made": "2014-04-25",
+  "gazette": "2014-08-19",
+  "numac": 2014035590,
+  "document_start": "2014-08-29",
+  "document_end": null,
+  "in_force": "2014-08-29",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
