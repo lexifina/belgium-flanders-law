@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024431,
+  "title": "Decreet van 2014-04-25 houdende instemming met het Europees verdrag inzake hoofdwaterwegen die van internationaal belang zijn (AGN), opgemaakt in Genève op 19 januari 1996",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024431/VolledigDocument?datum=2014-08-29",
+  "source_sha256": "86c6817726c0cf368aa471b3d7781e70f8ce6ae60c6b0579e00dba6c544d24a9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024431&param=informatie",
+  "as_of": "2014-08-29",
+  "made": "2014-04-25",
+  "gazette": "2014-08-19",
+  "numac": 2014035589,
+  "document_start": "2014-08-29",
+  "document_end": null,
+  "in_force": "2014-08-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
