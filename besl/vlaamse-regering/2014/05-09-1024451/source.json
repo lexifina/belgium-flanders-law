@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024451,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 houdende opheffing van Watering de Moerbeekvallei",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024451/VolledigDocument?datum=2014-08-30",
+  "source_sha256": "4fd14561d0a9263380c8c8b85b8129b29917ac4a40e81b7aa50a6951fb619dd8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024451&param=informatie",
+  "as_of": "2014-08-30",
+  "made": "2014-05-09",
+  "gazette": "2014-08-20",
+  "numac": 2014035686,
+  "document_start": "2014-08-30",
+  "document_end": null,
+  "in_force": "2014-08-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
