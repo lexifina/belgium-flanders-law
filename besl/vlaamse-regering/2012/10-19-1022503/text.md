@@ -30,7 +30,7 @@ In artikel 8bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaams
 
 ### ART. 7.
 
-Als de combinatie van PAB met bijstand verleend door een voorziening voor   opvang, behandeling en begeleiding van personen met een handicap voor 1   september 2012 is gestart, blijft het toegekende PAB-budget behouden tot en met   31 augustus 2014. <BR>
+Als de combinatie van PAB met bijstand verleend door een voorziening voor   opvang, behandeling en begeleiding van personen met een handicap voor 1   september 2012 is gestart, blijft het toegekende PAB-budget behouden tot en met   1 januari 2015. <BR>
 
 ### ART. 8.
 
