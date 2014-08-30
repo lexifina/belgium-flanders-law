@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024444,
+  "title": "Ministerieel besluit van 2014-04-07 tot wijziging van het ministerieel besluit van 3 februari 2014 betreffende de aanwijzing van zwemwateren voor het badseizoen 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024444/VolledigDocument?datum=2014-08-30",
+  "source_sha256": "e4880e422d006963555fbbd2aecb14043e5516367073cf694c3ad9973b2a1460",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024444&param=informatie",
+  "as_of": "2014-08-30",
+  "made": "2014-04-07",
+  "gazette": "2014-08-20",
+  "numac": 2014035492,
+  "document_start": "2014-08-30",
+  "document_end": null,
+  "in_force": "2014-08-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
