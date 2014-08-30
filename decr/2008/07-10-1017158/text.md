@@ -50,6 +50,14 @@ In de periode van 1 januari 2012 tot de Vlaamse Regering een einddatum   bepaalt
 
 ## [HOOFDSTUK IIquater Stopzetting en organieke omzetting van experimenten en tijdelijke projecten (ing. decr. 19 december 2014, art. 2, I: 30 augustus 2014)]
 
+### ART. 8quater.
+
+De Vlaamse Regering kan experimenten bekrachtigd bij artikel 19 van het   decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten   in het onderwijs stopzetten.
+
+### ART. 8quinquies.
+
+Als de Vlaamse Regering een experiment of tijdelijk project beëindigt met   het oog op opname van het opleidingsaanbod in de structuur van het deeltijds   kunstonderwijs zoals bepaald in hoofdstuk II van het besluit van de Vlaamse   Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs,   studierichting `beeldende kunst', en in hoofdstuk II van het besluit van de   Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds   kunstonderwijs, studierichting `muziek', `woordkunst' en `dans', regelt zij voor   de betrokken instellingen en leerlingen de overgang naar de organieke   opleidingenstructuur.<BR><BR>Daarbij kan zij afwijken van artikel 49ter van het   besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het   deeltijds kunstonderwijs, studierichting `beeldende kunst', ingevoegd bij   decreet van 18 december 2009 en gewijzigd bij decreet van 23 december 2010 en   van artikel 57ter van het besluit van de Vlaamse Regering van 31 juli 1990   houdende organisatie van het deeltijds kunstonderwijs, studierichting `muziek',   `woordkunst' en `dans', ingevoegd bij decreet van 18 december 2009 en gewijzigd   bij decreet van 23 december 2010.
+
 ## HOOFDSTUK III Wijzigingen aan het decreet van 31 juli 1990 betreffende het onderwijs II
 
 ### ART. 9.
