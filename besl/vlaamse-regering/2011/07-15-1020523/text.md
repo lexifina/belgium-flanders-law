@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op de Huisvestingscode, gevoegd bij het ko
 
 ### ART. 1.
 
-De naar aanleiding van de experimentenoproep geselecteerde 11 projecten, genoemd en beschreven in de projectfiches die toegevoegd worden als bijlagen bij dit besluit, starten op 1 september 2011 en eindigen ten laatste op 31 augustus 2014.<br /><br />Aan de geselecteerde projecten wordt, gedurende hun looptijd en binnen de perken van de begroting, een jaarlijkse subsidie toegekend als tegemoetkoming in de personeels- en werkingskosten.<br /><br />De Vlaamse minister, bevoegd voor de bijstand aan personen, is gemachtigd om, binnen de perken van de begroting en de bepalingen van dit besluit en de bepalingen en bedragen opgenomen in de als bijlagen bij dit besluit gevoegde projectfiches, de jaarlijkse subsidies toe te kennen aan de begunstigden. Deze delegatie geldt, in afwijking van artikel 7, 2°, van het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, ook voor de subsidies die meer bedragen dan 150.000 euro.
+De naar aanleiding van de experimentenoproep geselecteerde 11 projecten,   genoemd en beschreven in de projectfiches die toegevoegd worden als bijlage bij   dit besluit, starten op 1 september 2011 en eindigen ten laatste op 31 augustus   2015.<BR><BR>Aan de geselecteerde projecten wordt, gedurende hun looptijd en   binnen de perken van de begroting, een jaarlijkse subsidie toegekend als   tegemoetkoming in de personeels- en werkingskosten.<BR><BR>De Vlaamse minister,   bevoegd voor de bijstand aan personen, is gemachtigd om, binnen de perken van de   begroting en de bepalingen van dit besluit en de bepalingen en bedragen   opgenomen in de als bijlage bij dit besluit gevoegde projectfiches, de   jaarlijkse subsidies toe te kennen aan de begunstigden. Deze delegatie geldt, in   afwijking van artikel 7, 2°, van het besluit van de Vlaamse Regering van 13 juli   2009 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering, ook   voor de subsidies die meer bedragen dan 150.000 euro.
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ De subsidie voor de projecten wordt verleend om een kwaliteitsvolle, duurzame en
 
 ### ART. 3.
 
-Binnen de perken van de begroting gelden voor de subsidiëring van de projecten volgende modaliteiten : een voorschot van 90 % van de subsidie wordt uitbetaald in de maand september van elk werkingsjaar; het resterende saldo van 10 % wordt uitbetaald nadat de begunstigde een financieel verslag over het verlopen werkingsjaar, met name de periode 1 september tot 31 augustus, heeft ingediend, uiterlijk twee maanden na het aflopen van het werkingsjaar, en nadat dit door het Departement Welzijn, Volksgezondheid en Gezin is gecontroleerd en goedgekeurd.<br /><br />Daarnaast wordt door de begunstigde een inhoudelijk tussen- en eindverslag ter controle ingediend, ten laatste voor het aflopen van de helft van de projectperiode voor wat het tussentijdse verslag betreft en ten laatste twee maand voor het aflopen van het projectvoor wat het eindverslag betreft.<br /><br />Tijdens de controle, vermeld in het eerste en tweede lid, wordt nagegaan of aan de bepalingen van dit besluit is voldaan en of het project is uitgevoerd conform de projectfiche.
+Binnen de perken van de begroting gelden voor de subsidiëring van de   projecten volgende modaliteiten : een voorschot van 80 % van de subsidie wordt   uitbetaald in de maand september van elk werkingsjaar; het resterende saldo van   20 % wordt uitbetaald nadat de begunstigde een financieel verslag over het   verlopen werkingsjaar, met name de periode 1 september tot 31 augustus, heeft   ingediend, uiterlijk twee maanden na het aflopen van het werkingsjaar, en nadat   dit door het Departement Welzijn, Volksgezondheid en Gezin is gecontroleerd en   goedgekeurd.<BR><BR>Daarnaast worden door de begunstigde twee inhoudelijke   tussentijdse verslagen en een eindverslag ter controle ingediend. Het eerste   tussentijdse verslag wordt ingediend voor het moment waarop het project   anderhalf jaar loopt, het tweede tussentijdse verslag wordt ingediend voor het   moment waarop het project drie jaar loopt. Ten laatste twee maanden voor het   aflopen van het project wordt het eindverslag ingediend.<BR><BR>Tijdens de   controle, vermeld in het eerste en tweede lid, wordt nagegaan of aan de   bepalingen van dit besluit is voldaan en of het project is uitgevoerd conform de   projectfiche.
 
 ### ART. 4.
 
@@ -30,7 +30,7 @@ Een daartoe gemachtigde ambtenaar van de Vlaamse overheid of van het Rekenhof ka
 
 ### ART. 7.
 
-De begunstigden en hun projectpartners wordt geacht te participeren aan eventuele communicatie-initiatievenmet betrekking tot de projecten van de experimentenoproep 'wonen-welzijn.'
+De begunstigden en hun projectpartners worden geacht te participeren aan   eventuele communicatie-initiatievenmet betrekking tot de projecten van de   experimentenoproep 'wonen-welzijn.'
 
 ### ART. 8.
 
