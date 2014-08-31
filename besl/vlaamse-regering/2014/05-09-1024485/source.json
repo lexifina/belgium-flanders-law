@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024485,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van artikel 1, 3 en 7 van het besluit van de Vlaamse Regering tot toekenning van een subsidie aan de geselecteerde projecten naar aanleiding van de experimentenoproep `wonen-welzijn'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024485/VolledigDocument?datum=2014-08-31",
+  "source_sha256": "5833d4ad723d1cadfe39e11aee54329b25a48d08df6d6e743d8a0fd140441370",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024485&param=informatie",
+  "as_of": "2014-08-31",
+  "made": "2014-05-09",
+  "gazette": "2014-08-29",
+  "numac": 2014035760,
+  "document_start": "2014-08-31",
+  "document_end": null,
+  "in_force": "2014-08-31",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
