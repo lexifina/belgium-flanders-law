@@ -280,6 +280,10 @@ In artikel 56 van hetzelfde decreet worden de woorden   "artikel 29, § 2, van h
 
 ## Afdeling II. Decreet betreffende het onderwijs XXIII
 
+### ART. VIII.7.
+
+Artikel   XII.1 en XII.2 van het decreet van 19 juli 2013 betreffende het onderwijs XXIII   worden opgeheven.
+
 ## Afdeling III. Inwerkingtreding
 
 ## HOOFDSTUK IX. Andere bepalingen
