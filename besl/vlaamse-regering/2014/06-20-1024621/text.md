@@ -36,6 +36,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 12 juli 2013   betreffe
 
 ## HOOFDSTUK 8 Wijziging van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de subsidiëring van voortrajecten binnen het stelsel van leren en werken in de Vlaamse Gemeenschap voor het schooljaar 2013-2014
 
+### ART. 39.
+
+&nbsp;In artikel 3 van hetzelfde besluit wordt het jaartal "2014"   vervangen door het jaartal "2015".<BR>
+
 ## HOOFDSTUK 9 Wijziging van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de voortrajecten die in aanmerking komen voor subsidiëring binnen het stelsel van leren en werken in de Vlaamse Gemeenschap
 
 ## HOOFDSTUK 10 Slotbepalingen
