@@ -20,7 +20,9 @@ Dit decreet regelt een aangelegenheid bedoeld in artikel 107quater van de Grondw
 3° het decreet natuurbehoud : het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 4° de wetgeving inzake ruilverkaveling van landeigendommen : de wet van 22 juli 1970 op de ruilverkaveling van landeigendommen uit kracht van de wet, de wet van 10 januari 1978 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen in der minne, de wet van 12 juli 1976 houdende bijzondere maatregelen inzake ruilverkaveling van landeigendommen uit kracht van de wet bij de uitvoering van grote infrastructuurwerken;<br>
 5° het decreet algemene bepalingen milieubeleid : het decreet van 5 april 1995 houdende de algemene bepalingen inzake milieubeleid;<br>
-6° het decreet Vlaamse Grondenbank : het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen.
+6° het decreet Vlaamse Grondenbank : het decreet van 16 juni 2006 betreffende de oprichting van de Vlaamse Grondenbank en houdende wijziging van diverse bepalingen;<br>
+7° het decreet Landinrichting: het decreet van 28 maart 2014 betreffende de landinrichting;<br>
+8° administratieve overheid: het Vlaamse Gewest, de Vlaamse Gemeenschap, de diensten en agentschappen die afhangen van het Vlaamse Gewest of de Vlaamse Gemeenschap, de besturen die onderworpen zijn aan het administratieve toezicht van het Vlaamse Gewest of de Vlaamse Gemeenschap, alsook de publiekrechtelijke en privaatrechtelijke rechtspersonen die belast zijn met taken van openbaar nut.
 
 ## [HOOFDSTUK III STATUUT, KAPITAAL EN AANDELEN, DUUR EN ONTBINDING VAN HET AGENTSCHAP (verv. decr. 7 mei 2004, art. 4)]
 
@@ -110,6 +112,27 @@ De Vlaamse regering kan het agentschap machtigen tot onteigening in de gevallen 
 § 7. Het agentschap voert de verplichte aankoop uit van bebouwde en onbebouwde onroerende goederen die door de regelgeving terzake aan het agentschap zijn opgedragen.<br>
 <br>
 § 8. Het agentschap kan bij de vervreemding van de eigen domeingoederen uitstel van betaling verlenen aan de koper. De koopprijs wordt terugbetaald tegen een door de Vlaamse Regering vast te stellen intrestvoet. De maximale termijn van terugbetaling is 20 jaar.
+
+### ART. 10/1.
+
+De administratieve overheden stellen aan de VLM op eenvoudig verzoek of uit eigen beweging alle informatie, met inbegrip van persoonsgegevens, ter beschikking die nodig is voor de uitoefening van de volgende taken waarmee de VLM is belast:<br>
+1° ter uitvoering van het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen, overdrukken en erfdienstbaarheden tot openbaar nut: de berekening van de gebruikerscompensatie;<br>
+2° ter uitvoering van het decreet van 18 juli 2003 betreffende het integraal waterbeleid: de uitoefening van de aankoopplicht en de vergoedingsplicht;<br>
+3° ter uitvoering van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu:<br>
+a) de opmaak van rapporten, plannen en lijsten in het kader van natuurinrichting en de berekening van vergoedingen in het kader van natuurinrichting;<br>
+b) de uitoefening van de koopplicht;<br>
+c) de berekening van vergoedingen voor de verhoging van het waterpeil in het kader van de natuurrichtplannen;<br>
+4° ter uitvoering van het decreet van 21 december 1988 houdende de oprichting van de Vlaamse Landmaatschappij:<br>
+a) de opmaak van studies met betrekking tot de voorbereiding, de uitvoering, de monitoring en de evaluatie van inrichtingsprojecten, gericht op de ondersteuning van de algemene inrichting van het buitengebied en de open ruimte;<br>
+b) de opmaak van landbouwgevoeligheidsanalyses en landbouweffectenrapporten met betrekking tot de taken van de VLM die bijdragen aan de algemene beleidsondersteuning inzake de open ruimte en het buitengebied en met betrekking tot projecten en programma's die de VLM in samenwerking met andere beleidsdomeinen en de bevoegde lokale besturen voorbereidt, stimuleert en ondersteunt;<br>
+5° ter uitvoering van het decreet van 16 juni 2006 betreffende het oprichten van de Vlaamse Grondenbank en houdende wijzigingen van diverse bepalingen:<br>
+a) de aanleg van grondreserves;<br>
+b) het ruilen van onroerende goederen;<br>
+c) het beheer van onroerende goederen;<br>
+d) de verplaatsing van landbouwbedrijven;<br>
+6° ter uitvoering van het decreet van 28 maart 2014 betreffende de landinrichting.<br>
+<br>
+Het agentschap is verantwoordelijk voor de verwerking van de informatie, vermeld in het eerste lid.
 
 ## [HOOFDSTUK VII DE LANDINRICHTING (verv. decr. 7 mei 2004, art. 19)]
 
