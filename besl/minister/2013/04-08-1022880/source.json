@@ -2,16 +2,16 @@
   "codex_id": 1022880,
   "title": "Ministerieel besluit van 2013-04-08 tot samenstelling van de selectiecommissie die is bevoegd voor het toekennen van topcultuurstatuten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022880/VolledigDocument?datum=2013-04-15",
-  "source_sha256": "e85b3f99cb4c5ecf8af477fbe6a7ffe257f4dbe562358e705bc962a9d21d7ff6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022880/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "134597e7e1f809eaf1062069ec1c87c06046ebf4ccf98349c903f0ccc251b462",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022880&param=informatie",
-  "as_of": "2013-04-15",
+  "as_of": "2014-09-01",
   "made": "2013-04-08",
   "gazette": "2013-04-18",
   "numac": 2013202273,
   "document_start": "2013-04-15",
   "document_end": "2014-08-31",
-  "in_force": "2013-04-15",
+  "in_force": "2014-09-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2013-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
