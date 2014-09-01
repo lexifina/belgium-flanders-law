@@ -2,16 +2,16 @@
   "codex_id": 1017394,
   "title": "Ministerieel besluit van 2008-12-22 tot vaststelling van de modellen van attest, van inburgeringscontract en van bijlage bij het inburgeringscontract in het kader van het inburgeringsbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017394/VolledigDocument?datum=2011-02-01",
-  "source_sha256": "a9c9965f1ed0c99e4599659283cfaf6661adf6274dfb3b39fc507ad6499881b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017394/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "1eb7dace2ff3e5baf07d92471e0afbf67c5e0308e7542f6fd08e7a80ae28d3cd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017394&param=informatie",
-  "as_of": "2011-02-01",
+  "as_of": "2014-09-01",
   "made": "2008-12-22",
   "gazette": "2009-01-02",
   "numac": 2008036474,
   "document_start": "2009-01-05",
   "document_end": "2014-08-31",
-  "in_force": "2011-02-01",
+  "in_force": "2014-09-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2011-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
