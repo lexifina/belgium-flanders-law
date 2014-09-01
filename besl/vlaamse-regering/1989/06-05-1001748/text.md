@@ -13,7 +13,7 @@ Ze zijn echter niet van toepassing op de leden van het bestuurs- en onderwijzend
 
 ### ART. 2.
 
-De ambten die de leden van het bestuurs- en onderwijzend personeel mogen uitoefenen, worden als volgt vastgesteld en ingedeeld:<br /><br />a) wervingsambten:<br /><br />1. leraar;<br /><br />2. godsdienstleraar;<br /><br />3. begeleider;<br /><br />b) selectieambten:<br /><br />4. [technisch adviseur;  <span class="reference">(verv. B.V.R. 27 april 1999, art. 1, I: 1 september 1998)</span> ]<br /><br />5. [adjunct-directeur;  <span class="reference">(verv. B.V.R. 27 april 1999, art. 1, I: 1 september 1998)</span> ]<br /><br />[5bis. coördinator;  <span class="reference">(ing. B.V.R. 24 oktober 1990, art. 3, I: 1 september 1990)</span> ]<br /><br />c) bevorderingsambten:<br /><br />6. [technisch adviseur-coördinator;  <span class="reference">(verv. B.V.R. 27 april 1999, art. 1, I: 1 september 1998)</span> ]<br /><br />7. directeur.
+De ambten die de leden van het bestuurs- en onderwijzend personeel mogen   uitoefenen, worden als volgt vastgesteld en ingedeeld:<BR>a)   wervingsambten:<BR>1. leraar;<BR>2. godsdienstleraar;<BR>3. begeleider;<BR>3bis.   leraar niet-confessionele zedenleer.<BR>b) selectieambten:<BR>4. technisch   adviseur; <BR>5. adjunct-directeur; <BR>5bis. coördinator; <BR>c)   bevorderingsambten:<BR>6. technisch adviseur-coördinator; <BR>7.   directeur.
 
 ### ART. 3.
 
