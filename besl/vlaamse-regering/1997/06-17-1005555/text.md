@@ -404,11 +404,11 @@ De minder gevolgde cursussen worden op dezelfde wijze georganiseerd als de meest
 
 ### ART. 22ter.
 
-De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden uitsluitend aangewend voor de opvang, ondersteuning en begeleiding van anderstalige nieuwkomers en gewezen anderstalige nieuwkomers.
+De aanvullende lestijden, vermeld in artikel 22 en 22bis, worden   uitsluitend aangewend voor de opvang, ondersteuning en begeleiding van   anderstalige nieuwkomers en gewezen anderstalige nieuwkomers of voor de   organisatie van een taalbad, als vermeld in artikel 11ter, § 2, van het   decreet.
 
 ### ART. 22quater.
 
-Met toepassing van artikel 142, § 2, van het decreet kan het aantal aanvullende lestijden, vermeld in artikel 22 en 22bis, gedurende het volledige schooljaar worden overgedragen.
+Met toepassing van artikel 142, § 2, van het decreet kan het aantal   aanvullende lestijden, vermeld in artikel 22 en 22bis, gedurende het volledige   schooljaar worden overgedragen.<BR><BR>Met toepassing van artikel 142, § 2, van   het decreet kunnen de lestijden, vermeld in artikel 131 van het decreet,   gedurende het volledige schooljaar overgedragen worden voor de organisatie van   een taalbad, als vermeld in artikel 11ter, § 2, van het decreet.
 
 ## [ONDERAFDELING 3 AANVULLENDE LESTIJDEN VOOR LICHAMELIJKE OPVOEDING IN HET KLEUTERONDERWIJS (ing. BVR 5 december 2003, art. 2)]
 
