@@ -6,11 +6,11 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied personenzorg, dat behoort tot het   secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met IX, die bij   dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van het   voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het   minimale aantal lestijden van de volgende opleiding: de opleiding Begeleider in   de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij   de module Zorg in de kinderopvang 1 slechts 20 lestijden bedraagt.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied personenzorg, dat behoort tot het   secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met X, die bij   dit besluit zijn gevoegd.<BR><BR>Ter uitvoering van artikel 24, § 2, van het   voormelde decreet wordt voor bijzondere doelgroepen als volgt afgeweken van het   minimale aantal lestijden van de volgende opleiding: de opleiding Begeleider in   de Kinderopvang kan voor snel-lerende cursisten 1260 lestijden bedragen, waarbij   de module Zorg in de kinderopvang 1 slechts 20 lestijden bedraagt.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>In   afwijking van het eerste lid wordt het opleidingsprofiel voor de modulaire   opleiding Begeleider in de kinderopvang uiterlijk tijdens het schooljaar   2008-2009 geëvalueerd. De opleidingsprofielen voor de modulaire opleidingen   jeugd- en gehandicaptenzorg en tandartsassistent worden uiterlijk tijdens het   schooljaar 2011-2012 geëvalueerd. De opleidingsprofielen voor de modulaire   opleidingen Interculturele Medewerker, Logistiek Assistent, Verzorgende en   Zorgkundige worden uiterlijk tijdens het schooljaar 2014-2015 geëvalueerd. Het   opleidingsprofiel voor de modulaire opleiding Begeleider-animator voor Bejaarden   wordt uiterlijk tijdens het schooljaar 2015-2016 geëvalueerd. De   uitbreidingsmodules van de opleidingsprofielen, vermeld in bijlage I tot en met   III en bijlage V tot en met IX, worden uiterlijk tijdens het schooljaar   2016-2017 geëvalueerd.
+De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar   na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die   evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het   decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<BR><BR>De   opleidingsprofielen voor de modulaire opleidingen Interculturele Medewerker,   Logistiek Assistent, Verzorgende en Zorgkundige worden uiterlijk tijdens het   schooljaar 2014-2015 geëvalueerd. Het opleidingsprofiel voor de modulaire   opleiding Begeleider-animator voor Bejaarden wordt uiterlijk tijdens het   schooljaar 2015-2016 geëvalueerd. De uitbreidingsmodules van de   opleidingsprofielen, vermeld in bijlage I tot en met III en bijlage V tot en met   IX, worden uiterlijk tijdens het schooljaar 2016-2017 geëvalueerd.
 
 ### ART. 2/1.
 
@@ -42,7 +42,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE III
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=46">Bijlage   III</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_4.pdf#page=3">Bijlage   III</A></P>
 
 ### BIJLAGE IV
 
@@ -50,7 +50,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE V
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_2.pdf#page=90">Bijlage   V</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=1">Bijlage   V deel 2</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_4.pdf#page=66">Bijlage   V Deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_5.pdf#page=1">Bijlage   V Deel 2</A></P>
 
 ### BIJLAGE VI
 
@@ -58,12 +58,16 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VII
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=39">Bijlage   VII</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_5.pdf#page=8">Bijlage   VII</A></P>
 
 ### BIJLAGE VIII
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_3.pdf#page=73">Bijlage   VIII</A><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_4.pdf#page=1">Bijlage   VIII deel 2</A></P>  <P><BR>&nbsp;</P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_5.pdf#page=52">Bijlage   VIII Deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_6.pdf#page=1">Bijlage   VIII Deel 2</A>&nbsp;</P>
 
 ### BIJLAGE IX
 
 <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/10/08_1_4.pdf#page=12">Bijlage   IX</A></P>
+
+### BIJLAGE X
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_6.pdf#page=3">Bijlage   X</A>
