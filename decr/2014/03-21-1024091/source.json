@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024091,
+  "title": "Decreet van 2014-03-21 tot aanpassing van enkele hogeronderwijsbepalingen die de organisatie en controle van het onderwijs faciliteren en de plan- en implementatielasten verminderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024091/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "44ad000829613b317e74c9951c58b2049726626b38d7af296ddf18be081dd1ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024091&param=informatie",
+  "as_of": "2014-09-01",
+  "made": "2014-03-21",
+  "gazette": "2014-05-15",
+  "numac": 2014035432,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2014-09-01",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
