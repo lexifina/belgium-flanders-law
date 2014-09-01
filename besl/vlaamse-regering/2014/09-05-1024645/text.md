@@ -10,14 +10,58 @@
 
 Aan artikel 4 van het besluit van de Vlaamse Regering van 27 juni 1990   betreffende de bekwaamheidsbewijzen, de salarisschalen en de   bezoldigingsregeling in het gewoon basisonderwijs, gewijzigd bij de besluiten   van de Vlaamse Regering van 14 juli 2004, 30 september 2005 en 14 februari 2014,   wordt een paragraaf 6 toegevoegd, die luidt als volgt:<BR>" § 6. De volgende   diploma's of getuigschriften worden eveneens beschouwd als een bewijs van   pedagogische bekwaamheid, voor zover ze uitgereikt zijn ten laatste in het   academiejaar 2014-2015:<BR>1° het diploma van de voortgezette lerarenopleiding   zorgverbreding en remediërend leren;<BR>2° het diploma van bachelor in het   onderwijs: zorgverbreding en remediërend leren;<BR>3° het diploma van de   voortgezette studie van geaggregeerde voor het buitengewoon onderwijs;<BR>4° het   diploma van de voortgezette studie van geaggregeerde voor het buitengewoon   onderwijs en remedial teaching;<BR>5° het diploma van de voortgezette studie van   remedial teacher;<BR>6° het diploma van de voortgezette lerarenopleiding   buitengewoon onderwijs;<BR>7° het diploma van bachelor in het onderwijs:   buitengewoon onderwijs;<BR>8° het bekwaamheidsgetuigschrift tot het geven van   buitengewoon onderwijs.".<BR>
 
+### ART. 2.
+
+Artikel 12septies van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 14 februari 2014, wordt opgeheven.<BR>
+
+### ART. 3.
+
+Artikel 15bis van hetzelfde besluit ingevoegd bij het besluit van de   Vlaamse Regering van 14 juli 2004 en vervangen bij het besluit van de Vlaamse   Regering van 14 februari 2014, wordt vervangen door wat volgt:<BR>"Art. 15bis.   De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage die bij dit   besluit is gevoegd, treden in werking op 1 september 2014.".<BR>
+
+### ART. 4.
+
+De bijlage I bij hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 14 februari 2014, wordt vervangen door de bijlage, die als   bijlage 1 bij dit besluit is gevoegd.<BR>
+
 ## HOOFDSTUK 2 Wijzigingen van het besluit van de Vlaamse Regering van 31 juli 1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in het buitengewoon onderwijs
+
+### ART. 5.
+
+In artikel 2, § 1, van het besluit van de Vlaamse Regering van 31 juli   1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in   het buitengewoon onderwijs, vervangen bij het besluit van de Vlaamse Regering   van 15 december 1998 en gewijzigd bij de besluiten van de Vlaamse Regering van   28 november 2003 en 29 september 2006, worden de volgende wijzigingen   aangebracht:<BR>1° in punt a) wordt tussen de woorden "bestuurs- en onderwijzend   personeel" en de zinsnede "van het ondersteunend personeel" de zinsnede "van het   beleids- en ondersteunend personeel" ingevoegd;<BR>2° punt c) en punt d) worden   opgeheven.<BR>
 
 ### ART. 8.
 
 Artikel 19bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 28 november 2003 en vervangen bij het besluit van de   Vlaamse Regering van 19 juli 2013, wordt vervangen door wat volgt:<BR>"Art.   19bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, deel   buitengewoon basisonderwijs, die bij dit besluit is gevoegd, treden in werking   op 1 januari 2014. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage I, deel buitengewoon secundair onderwijs, die bij dit besluit is   gevoegd, treden in werking op 1 september 2013.".<BR>
 
+### ART. 9.
+
+Artikel 19bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 28 november 2003 en vervangen bij het besluit van de   Vlaamse Regering van 19 juli 2013, wordt vervangen door wat volgt:<BR>"Art.   19bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, die   bij dit besluit is gevoegd, treden in werking op 1 september   2014.".<BR>
+
 ### ART. 10.
 
 Het deel buitengewoon basisonderwijs van de bijlage I bij hetzelfde   besluit, vervangen bij het besluit van de Vlaamse Regering van 19 juli 2013,   wordt vervangen door de bijlage, die als bijlage 2 bij dit besluit is   gevoegd.<BR>
 
+### ART. 11.
+
+De bijlage I bij hetzelfde besluit, vervangen bij het besluit van de   Vlaamse Regering van 19 juli 2013, wordt vervangen door de bijlage, die als   bijlage 3 bij dit besluit is gevoegd.<BR>
+
 ## HOOFDSTUK 3 Slotbepalingen
+
+### ART. 12.
+
+&nbsp;Dit besluit heeft uitwerking met ingang van 1 september 2014.   Artikel 1 heeft uitwerking met ingang van 15 oktober 2013. Artikel 6 en 7 treden   in werking op 1 september 2015. Artikel 8 en 10 hebben uitwerking met ingang van   1 januari 2014.<BR>
+
+### ART. 13.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
+
+### BIJLAGE 1
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=4">Bijlage   1</A>
+
+### BIJLAGE 2
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=28">Bijlage   2</A>
+
+### BIJLAGE 3
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=71">Bijlage   3</A>
