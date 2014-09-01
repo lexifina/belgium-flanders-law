@@ -26,7 +26,12 @@ De kandidaat-adoptanten dienen de informatiesessie te volgen bij het Steunpunt A
 
 ### ART. 5.
 
-De voorbereiding, vermeld in artikel 346.2, eerste lid, en artikel 361.1, tweede lid, van het Burgerlijk Wetboek wordt gevolgd in het door de Vlaamse Regering erkende Steunpunt Adoptie.<br /><br />Na zijn aanmelding verwijst het Vlaams Centrum voor Adoptie de adoptant, rekening houdende met het principe van instroombeheer, door naar het Steunpunt Adoptie. De voorbereiding wordt gegeven binnen een redelijke termijn nadat de adoptant zich bij het Steunpunt Adoptie aangeboden heeft. Aan het einde van de voorbereiding geeft het Steunpunt Adoptie aan de adoptant een attest waaruit blijkt dat hij de voorbereiding heeft gevolgd. Indien de adoptant niet binnen het jaar het verzoekschrift, vermeld in artikel 1231-27 van het Gerechtelijk Wetboek, ontvankelijk neerlegt op de griffie van de jeugdrechtbank, vervalt het voorbereidingsattest.<br /><br />De Vlaamse Regering legt de principes voor het instroombeheer vast.<br /><br />
+De voorbereiding, vermeld in artikel 346.2, eerste lid, en artikel 361.1, tweede lid, van het Burgerlijk Wetboek wordt gevolgd in het door de Vlaamse Regering erkende Steunpunt Adoptie.<br>
+<br>
+Na zijn aanmelding verwijst het Vlaams Centrum voor Adoptie de adoptant, rekening houdende met het principe van instroombeheer, door naar het Steunpunt Adoptie. De voorbereiding wordt gegeven binnen een redelijke termijn nadat de adoptant zich bij het Steunpunt Adoptie aangeboden heeft. Aan het einde van de voorbereiding geeft het Steunpunt Adoptie aan de adoptant een attest waaruit blijkt dat hij de voorbereiding heeft gevolgd. Indien de adoptant niet binnen het jaar het verzoekschrift, vermeld in artikel 1231-27 van het Gerechtelijk Wetboek, ontvankelijk neerlegt op de griffie van de familierechtbank, vervalt het voorbereidingsattest.<br>
+<br>
+De Vlaamse Regering legt de principes voor het instroombeheer vast.<br>
+&nbsp;
 
 ### ART. 6.
 
@@ -54,7 +59,12 @@ Een deel van de kostprijs van de voorbereiding is ten laste van de adoptant. De 
 
 ### ART. 10.
 
-Het maatschappelijk onderzoek dat krachtens artikel 346.2 van het Burgerlijk Wetboek en artikel 1231.29, eerste lid, van het Gerechtelijk Wetboek door de jeugdrechtbank wordt bevolen, wordt gevoerd door een door de Vlaamse Regering erkende dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie.<br /><br />Nadat de jeugdrechtbank de opdracht tot maatschappelijk onderzoek heeft bevolen, verwijst het Vlaams Centrum voor Adoptie de adoptant door naar een dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie. Deze dienst neemt onverwijld contact op met de adoptant. De dienst meldt elke nieuwe aanvraag aan het Vlaams Centrum voor Adoptie.<br /><br />Het Vlaams Centrum voor Adoptie kan nadere richtlijnen bepalen inzake de wijze waarop het maatschappelijk onderzoek gevoerd wordt conform artikel 1231.29 van het Gerechtelijk Wetboek en de bepalingen van het samenwerkingsakkoord.<br /><br />
+Het maatschappelijk onderzoek dat krachtens artikel 346.2 van het Burgerlijk Wetboek en artikel 1231.29, eerste lid, van het Gerechtelijk Wetboek door de jeugdrechtbank wordt bevolen, wordt gevoerd door een door de Vlaamse Regering erkende dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie.<br>
+<br>
+Nadat de familierechtbank de opdracht tot maatschappelijk onderzoek heeft bevolen, verwijst het Vlaams Centrum voor Adoptie de adoptant door naar een dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie. Deze dienst neemt onverwijld contact op met de adoptant. De dienst meldt elke nieuwe aanvraag aan het Vlaams Centrum voor Adoptie.<br>
+<br>
+Het Vlaams Centrum voor Adoptie kan nadere richtlijnen bepalen inzake de wijze waarop het maatschappelijk onderzoek gevoerd wordt conform artikel 1231.29 van het Gerechtelijk Wetboek en de bepalingen van het samenwerkingsakkoord.<br>
+&nbsp;
 
 ## Afdeling 2 De erkenning van de [dienst (verv. decr. 16 maart 2018, art. 4, I: 1 september 2018)] voor maatschappelijk onderzoek inzake interlandelijke adoptie
 
