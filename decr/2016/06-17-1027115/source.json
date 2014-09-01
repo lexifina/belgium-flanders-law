@@ -2,16 +2,16 @@
   "codex_id": 1027115,
   "title": "Decreet van 2016-06-17 betreffende het onderwijs XXVI",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027115/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "bca2dd60086ca902c00282a743ff11ae935e640d92f3675709b3062218e6697b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027115/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "108745c893bad15e24a2ddcd77b328ee7a681216c4610f49de7664d50d5311db",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027115&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2014-09-01",
   "made": "2016-06-17",
   "gazette": "2016-08-10",
   "numac": 2016036195,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "2013-10-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }

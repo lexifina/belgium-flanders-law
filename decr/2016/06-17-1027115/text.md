@@ -78,6 +78,11 @@
 
 ## Afdeling XI Decreet houdende diverse maatregelen betreffende de rechtspositie van leerlingen in het basis- en secundair onderwijs en betreffende de participatie op school
 
+### ART X.25.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In het decreet van 4 april 2014 houdende diverse maatregelen betreffende de rechtspositie van leerlingen in het basis- en secundair onderwijs en betreffende de participatie op school moet het op basis van artikel V.12, V.13, V.15, V.16, V.17, V.18, V.21, V.22, V.24, V.26, V.27, V.28, V.29, respectievelijk V.31, in de Codex Secundair Onderwijs ingevoerd artikel 123/1, 123/2, 123/3, 123/4, 123/5, 123/6, 123/7, 123/8, 123/9, 123/10, 123/11, 123/12, 123/13, respectievelijk 123/14, qua nummering worden gewijzigd in artikel 123/6, 123/7, 123/8, 123/9, 123/10, 123/11, 123/12, 123/13, 123/14, 123/15, 123/16, 123/17, 123/18, respectievelijk 123/19.</span><br>
+&nbsp;
+
 ## Afdeling XII Onderwijsinfrastructuur
 
 ## Afdeling XIII Decreet betreffende participatie op school en de Vlaamse Onderwijsraad
