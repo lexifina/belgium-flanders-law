@@ -24,7 +24,7 @@ Dit hoofdstuk is van toepassing op het basis- en secundair onderwijs, gefinancie
 
 ### ART. 4.
 
-De schoolgemeenschap heeft de maatschappelijke opdracht om:<br /><br />1° de organisatie en de werking van de participatieorganen te bevorderen en te ondersteunen;<br /><br />2° bij te dragen aan de ontwikkeling van een participatief schoolklimaat.
+De schoolgemeenschap heeft de maatschappelijke opdracht om:<BR>1° de   organisatie, de werking van en de deelname aan de participatieorganen te   bevorderen en te ondersteunen, met inbegrip van het bevorderen van een   representatieve weergave van de schoolpopulatie in de samenstelling van die   organen;<BR>2° bij te dragen aan de ontwikkeling van een participatief   schoolklimaat.
 
 ### ART. 5.
 
@@ -46,7 +46,7 @@ Dit hoofdstuk is van toepassing op het basis- en secundair onderwijs, gesubsidie
 
 ### ART. 8.
 
-§ 1. In iedere school wordt een schoolraad opgericht.<BR><BR>§ 2. De   verplichting tot oprichting van een schoolraad geldt niet voor een inrichtende   macht die voor ten minste twee derde is samengesteld uit rechtstreeks gekozen   vertegenwoordigers van personeel en van ouders. Er bestaat een billijk evenwicht   tussen de vertegenwoordigers van personeel en van ouders. Dit evenwicht is   gewaarborgd indien beide geledingen evenveel stemmen hebben of indien het aantal   stemmen van de grootste geleding kleiner is dan de helft van het totaal aantal   stemmen binnen de inrichtende macht.<BR><BR>In het secundair onderwijs geldt als   bijkomende voorwaarde dat vertegenwoordigers van de leerlingenraad met   raadgevende stem betrokken wordt bij de beslissingen inzake de in artikelen 19   en 21 bedoelde aangelegenheden. Het aantal vertegenwoordigers van de leerlingen   is ten minste gelijk aan dat van de vertegenwoordigers van de   ouders.
+§ 1. In iedere school wordt een schoolraad opgericht.<BR><BR>§ 2. De   verplichting tot oprichting van een schoolraad geldt niet voor een inrichtende   macht die voor ten minste twee derde is samengesteld uit rechtstreeks gekozen   vertegenwoordigers van personeel en van ouders. Er bestaat een billijk evenwicht   tussen de vertegenwoordigers van personeel en van ouders. Dit evenwicht is   gewaarborgd indien beide geledingen evenveel stemmen hebben of indien het aantal   stemmen van de grootste geleding kleiner is dan de helft van het totaal aantal   stemmen binnen de inrichtende macht.<BR><BR>In het secundair onderwijs geldt als   bijkomende voorwaarde dat vertegenwoordigers van de leerlingenraad met   raadgevende stem betrokken wordt bij de beslissingen inzake de in artikel 21   bedoelde aangelegenheden. Het aantal vertegenwoordigers van de leerlingen is ten   minste gelijk aan dat van de vertegenwoordigers van de ouders.
 
 ### ART. 9.
 
@@ -58,7 +58,7 @@ Inrichtende machten kunnen één schoolraad oprichten voor verscheidene scholen 
 
 ### ART. 10.
 
-§ 1. De schoolraad wordt in het basisonderwijs samengesteld uit vertegenwoordigers van de vol-gende geledingen:<br /><br />1° de ouders;<br /><br />2° het personeel;<br /><br />3° de lokale gemeenschap.<br /><br />De schoolraad wordt in het secundair onderwijs samengesteld uit vertegenwoordigers van de volgende geledingen:<br /><br />1° de ouders;<br /><br />2° het personeel;<br /><br />3° de leerlingen. In het buitengewoon onderwijs oordeelt de inrichtende macht in overleg met de pedagogische raad over de opportuniteit van de opname van één of meer leerlingen in de schoolraad, rekening houdend met de mogelijkheden en de draagkracht van de leerlingen. Wanneer de school de opleidingsvorm 4 aanbiedt, is de opname van één of meer leerlingen verplicht;<br /><br />4° de lokale gemeenschap.<br /><br />§ 2. [De schoolraad telt een gelijk aantal leden per geleding. Bij de oprichting van de schoolraad telt elke geleding ten minste twee leden. De schoolraad legt het aantal leden per geleding vast. Dat aantal kan evenwel nooit minder dan twee bedragen.  <span class="reference">(verv. decr. 15 juli 2005, art. IX.2, I: 1 april 2005)</span> ]<br /><br />§ 3. Indien een geleding geen of onvoldoende vertegenwoordigers telt, is de schoolraad desalniettemin regelmatig samengesteld, voor zover de bij of krachtens dit decreet voorziene stappen met het oog op de samenstelling van de schoolraad zijn ondernomen.<br /><br />§ 4. De inrichtende macht kan waarborgen uitwerken opdat geledingen uit verschillende vestigingsplaatsen of - in het geval bedoeld onder artikel 9 - verschillende scholen in de schoolraad zouden worden vertegenwoordigd.<br /><br />§ 5. De directeur woont de vergaderingen van de schoolraad van rechtswege bij met raadgevende stem.
+§ 1. De schoolraad wordt in het basisonderwijs samengesteld uit   vertegenwoordigers van de vol-gende geledingen:<BR>1° de ouders;<BR>2° het   personeel;<BR>3° de lokale gemeenschap.<BR><BR>De schoolraad wordt in het   secundair onderwijs samengesteld uit vertegenwoordigers van de volgende   geledingen:<BR>1° de ouders;<BR>2° het personeel;<BR>3° de leerlingen. In het   buitengewoon onderwijs oordeelt de inrichtende macht in overleg met de   pedagogische raad over de opportuniteit van de opname van één of meer leerlingen   in de schoolraad, rekening houdend met de mogelijkheden en de draagkracht van de   leerlingen. Wanneer de school de opleidingsvorm 4 aanbiedt, is de opname van één   of meer leerlingen verplicht;<BR>4° de lokale gemeenschap.<BR><BR>§ 2. De   schoolraad telt een gelijk aantal leden per geleding. Bij de oprichting van de   schoolraad telt elke geleding ten minste twee leden. De schoolraad legt het   aantal leden per geleding vast. Dat aantal kan evenwel nooit minder dan twee   bedragen. <BR><BR>§ 3. Indien een geleding geen of onvoldoende   vertegenwoordigers telt, is de schoolraad desalniettemin regelmatig   samengesteld, voor zover de bij of krachtens dit decreet voorziene stappen met   het oog op de samenstelling van de schoolraad zijn ondernomen.<BR><BR>§ 4. De   inrichtende macht kan waarborgen uitwerken opdat geledingen uit verschillende   vestigingsplaatsen of - in het geval bedoeld onder artikel 9 - verschillende   scholen in de schoolraad zouden worden vertegenwoordigd.<BR><BR>§ 5. Tenzij de   schoolraad aangeeft afzonderlijk te willen vergaderen voor het formuleren van   een advies op eigen initiatief, worden de vergaderingen van de schoolraad   bijgewoond door het schoolbestuur of zijn gemandateerde.
 
 ### ART. 11.
 
@@ -68,7 +68,7 @@ De schoolraad bepaalt in het huishoudelijk reglement de wijze waarop het mandaat
 
 ### ART. 12.
 
-§ 1. De geledingen in de schoolraad worden samengesteld, als volgt:<br /><br />1° de oudergeleding in de schoolraad bestaat uit leden, rechtstreeks verkozen door en uit de ouders van de leerlingen;<br /><br />2° de personeelsgeleding in de schoolraad bestaat uit leden, rechtstreeks verkozen door en uit de personeelsleden die ef-fectief tewerkgesteld zijn in de school;<br /><br />3° in voorkomend geval bestaat de leerlingengeleding in de schoolraad uit leden, rechtstreeks verkozen door en uit de regelmatige leerlingen.<br /><br />De in het eerste lid bedoelde verkiezing geschiedt bij geheime stemming. De stemming is verplicht voor het personeel.<br /><br />De inrichtende macht bepaalt de nadere regelen inzake de verkiezingsprocedure. Deze procedure waarborgt ten minste de verkiezing, desgevallend tussentijds, van een redelijk aantal plaatsvervangers voor de effectieve vertegenwoordigers van het personeel, de leerlingen en de ouders.<br /><br />§ 2. Indien een pedagogische raad, ouderraad of leerlingenraad bestaat, wordt de betrokken geleding in de schoolraad in afwijking van § 1 uitsluitend samengesteld uit afgevaardigden, aangeduid door en uit deze raad. De betrokken raad kan er evenwel voor opteren om geen gebruik te maken van deze bepaling, in welk geval toch een rechtstreekse verkiezing plaatsvindt.<br /><br />De pedagogische raad, ouderraad of leerlingenraad kan bepalen wanneer deze aanduiding wordt hernieuwd.<br /><br />§ 3. In het buitengewoon secundair onderwijs duidt de inrichtende macht in overleg met de pedagogische raad, in afwijking van de bepalingen van § 1 en § 2, de leerlingengeleding in de schoolraad aan.
+<P>Als een pedagogische raad, ouderraad of leerlingenraad bestaat, wordt de   betrokken geleding in de schoolraad samengesteld uit afgevaardigden, aangeduid   door en uit deze raad. Als een pedagogische raad, ouderraad of leerlingenraad   ervoor opteert om geen gebruik te maken van hun recht om leden voor hun geleding   in de schoolraad aan te duiden, of als er geen pedagogische raad, ouderraad of   leerlingenraad is, zal er voor de samenstelling van die geleding(en) een   verkiezing plaatsvinden. Het schoolbestuur of zijn gemandateerde bepaalt de   verdere uitwerking van de verkiezingsprocedure en waarborgt daarbij dat iedereen   die verkiesbaar is zich kandidaat kan stellen en dat iedereen die stemgerechtigd   is kan stemmen. Indien er minder kandidaten zijn dan het aantal toe te wijzen   mandaten of indien het aantal kandidaten gelijk is aan het aantal toe te wijzen   mandaten, dan zijn de kandidaten die op de kandidatenlijst worden vermeld, van   rechtswege verkozen en wordt de verkiezingsprocedure als beëindigd   beschouwd.<BR><BR>In afwijking van het eerste lid kan het schoolbestuur of zijn   gemandateerde in het buitengewoon secundair onderwijs gemotiveerd beslissen om   in overleg met de pedagogische raad de leerlingengeleding in de schoolraad aan   te duiden.</P>
 
 ### ART. 13.
 
@@ -84,15 +84,15 @@ De schoolraad wordt om de vier jaar opnieuw samengesteld.<br /><br />Bij beëind
 
 ### ART. 15.
 
-De leden van de schoolraad hebben in functie van de uitoefening van de in artikel 18, § 1, laatste lid, 19 en 21 bedoelde aangelegenheden:<br /><br />1° een algemeen informatierecht;<br /><br />2° het recht op eigen verzoek of op vraag te worden gehoord.
+<P>De leden van de schoolraad hebben in functie van de uitoefening van de   bevoegdheden van de schoolraad een algemeen informatierecht.<BR><BR>De   schoolraad heeft ten behoeve van al het personeel, ouders en leerlingen een   communicatie- en informatieplicht over hun activiteiten en standpunten en over   de wijze waarop hij zijn bevoegdheden uitoefent.</P>
 
 ### ART. 16.
 
-Elke inrichtende macht treedt ten aanzien van personeel, ouders en leerlingen op als bestuursin-stantie voor wat betreft de toepassing van het decreet van 18 mei 1999 betreffende de openbaarheid van bestuur.
+<P>...</P>
 
 ### ART. 17.
 
-De schoolraad heeft ten behoeve van al het personeel, leerlingen en ouders een communicatie- en informatieplicht over de wijze waarop hij zijn bevoegdheden uitoefent.
+<P>...</P>
 
 ## ONDERAFDELING 2 ADVIESBEVOEGDHEID
 
@@ -100,27 +100,27 @@ De schoolraad heeft ten behoeve van al het personeel, leerlingen en ouders een c
 
 ### ART. 18.
 
-§ 1. De schoolraad kan aan de inrichtende macht uit eigen beweging een schriftelijk advies uit-brengen over alle aangelegenheden die personeel, leerlingen of ouders aanbelangen.<br /><br />Het schriftelijk advies kan betrekking hebben op een in artikel 19 of 21 bedoelde aangelegenheid. De inrichtende macht brengt in dat geval binnen de dertig dagen een met redenen omklede reactie uit in de vorm van een voorstel.<br /><br />§ 2. De schoolraad kan aan de directeur uit eigen beweging een schriftelijk advies uitbrengen over de algemene organisatie en werking van de school. De directeur brengt na ontvangst van een schriftelijk advies binnen de dertig dagen een met redenen omklede reactie uit in de vorm van een voorstel.
+<P>De schoolraad kan aan het schoolbestuur uit eigen beweging een schriftelijk   advies uitbrengen over alle aangelegenheden opgesomd in artikel 21. Het   schoolbestuur geeft na ontvangst van dit advies binnen dertig kalenderdagen een   met redenen omkleed antwoord.</P>
 
 ## SECTIE 2 VERPLICHT ADVIES
 
 ### ART. 19.
 
-De inrichtende macht vraagt de schoolraad advies over elk ontwerp van beslissing inzake:<br />1° de bepaling van het profiel van de directeur;<br />2° het studieaanbod;<br />3° het aangaan van samenwerkingsverbanden met andere inrichtende machten en met externe instanties;<br />4° de opstapplaatsen en de busbegeleiding in het kader van het door de inrichtende macht aangeboden vervoer;<br />5° de vaststelling van het nascholingsbeleid;<br />6° het beleid inzake experimenten en projecten.<br />7° het niet opnemen in de maximumfactuur van de bijdrage die aan de ouders gevraagd wordt voor verplichte kledij die omwille van een sociale finaliteit aangeboden wordt. Dit punt is enkel van toepassing op het basisonderwijs.
+<P>...</P>
 
 ### ART. 20.
 
-§ 1. Het advies wordt schriftelijk of mondeling uitgebracht en is gemotiveerd.<br /><br />De inrichtende macht kan slechts op gemotiveerde wijze afwijken van het advies van de schoolraad. Deze motivering wordt binnen een termijn van dertig kalenderdagen meegedeeld aan de schoolraad. De termijn gaat in de dag na deze waarop de beslissing van de inrichtende macht wordt genomen.<br /><br />§ 2. Wanneer een advies niet wordt gegeven binnen een termijn van 21 kalenderdagen, die ingaat de dag na die van de adviesaanvraag, wordt het advies geacht gegeven te zijn.<br /><br />De in het eerste lid bedoelde termijn wordt geschorst tijdens de herfst-, kerst-, krokus- en paasvakantie en tijdens de periode van 6 juli tot en met 15 augustus.
+<P>...</P>
 
 ## ONDERAFDELING 3 OVERLEG
 
 ### ART. 21.
 
-De inrichtende macht overlegt met de schoolraad over:<br /><br />1° het opstellen of wijzigen van volgende regelingen:<br /><br />a) het schoolreglement;<br /><br />b) de lijst van bijdragen die aan de ouders kunnen worden gevraagd, evenals de regeling inzake de afwijkingen die op deze bijdrageregeling worden toegekend, voorzover deze regelingen niet zijn opgenomen in het schoolreglement;<br /><br />c) het schoolwerkplan;<br /><br />d) het beleidsplan of het beleidscontract dat de samenwerking regelt tussen de school en het CLB;<br /><br />2° elk ontwerp van beslissing inzake:<br /><br />a) de jaarplanning van extra muros-activiteiten en parascolaire activiteiten;<br /><br />b) de infrastructuurwerken die niet onder het toepassingsgebied vallen van artikel 17, § 2, 1°, a) en c), van de wet van 24 december 1993 betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten;<br /><br />c) de vaststelling van de criteria voor de aanwending van lestijden, uren, uren-leraar en punten;<br /><br />d) het welzijns- en veiligheidsbeleid van de school;<br /><br />e) de duur van de stageactiviteiten van de leerlingen en het tijdstip waarop zij worden georganiseerd.
+<P>Het schoolbestuur of zijn gemandateerde legt ieder ontwerp van beslissing   voor overleg aan de schoolraad voor als dat betrekking heeft op:<BR>1° de   bepaling van het profiel van de directeur;<BR>2° het studieaanbod;<BR>3° het   aangaan van samenwerkingsverbanden met andere schoolbesturen en met externe   instanties;<BR>4° de opstapplaatsen en de busbegeleiding in het kader van het   door het schoolbestuur aangeboden vervoer;<BR>5° de vaststelling van het   nascholingsbeleid;<BR>6° het beleid met betrekking tot experimenten en   projecten;<BR>7° het opstellen of wijzigen van de volgende regelingen:<BR>a) het   schoolreglement;<BR>b) het schoolwerkplan in het basisonderwijs;<BR>c) het   beleidsplan of het beleidscontract dat de samenwerking regelt tussen de school   en het centrum voor leerlingenbegeleiding;<BR>8° de infrastructuurwerken die   niet onder het toepassingsgebied vallen van artikel 26, § 1, 1°, a) en c), van   de wet van 15 juni 2006 betreffende de overheidsopdrachten en bepaalde   opdrachten voor werken, leveringen en diensten;<BR>9° de vaststelling van de   criteria voor de aanwending van lestijden, uren, uren-leraar en punten;<BR>10°   het welzijns-, veiligheids- en gezondheidsbeleid van de school ten aanzien van   de leerlingen, met inbegrip van het in eigen beheer of door derden verstrekken   van gezonde en evenwichtige schoolmaaltijden;<BR>11° het beleid met betrekking   tot interne kwaliteitszorg, met inbegrip van de bespreking van de resultaten van   een schooldoorlichting;<BR>12° het gelijke-onderwijskansenbeleid in het   secundair onderwijs.</P>
 
 ### ART. 22.
 
-Dit overleg heeft plaats in een gezamenlijke vergadering van inrichtende macht en schoolraad.<br /><br />Het overleg leidt tot een akkoord of niet-akkoord tussen de inrichtende macht en de schoolraad.<br /><br />Een akkoord wordt uitgevoerd door de inrichtende macht.<br /><br />In geval van niet-akkoord neemt de inrichtende macht een eindbeslissing.
+<P>Het schoolbestuur informeert tijdig de schoolraad over de geplande   beslissingen die voor overleg zullen worden voorgelegd. Op basis daarvan bepaalt   de raad zijn overlegagenda. Een schoolraad kan afzien van het recht op overleg.   Het overleg heeft plaats in een gezamenlijke vergadering van het schoolbestuur   of zijn gemandateerde en de schoolraad.<BR><BR>Het overleg leidt tot een verslag   waarin alle standpunten worden opgenomen. Het schoolbestuur of zijn   gemandateerde neemt een gemotiveerde eindbeslissing na het overleg of na de   onderhandeling zoals bepaald in artikel 30 en brengt de schoolraad in kennis van   de beslissing.<BR><BR>Wanneer een overleg niet plaatsvindt binnen een termijn   van eenentwintig kalenderdagen, die ingaat de dag nadat een geplande beslissing   voor overleg wordt voorgelegd, wordt het overleg geacht te hebben   plaatsgevonden.</P>
 
 ## AFDELING 5 DE WERKING VAN DE SCHOOLRAAD
 
@@ -128,7 +128,7 @@ Dit overleg heeft plaats in een gezamenlijke vergadering van inrichtende macht e
 
 ### ART. 23.
 
-De werking van de schoolraad wordt geregeld in een huishoudelijk reglement, dat tenminste bepaalt:<br /><br />1° de wijze van bijeenroeping;<br /><br />2° de wijze van besluitvorming, inzonderheid de aanwezigheidsquota en de stemverhoudingen;<br /><br />3° het aantal mandaten per geleding;<br /><br />4° de wijze waarop de in artikel 17 bedoelde communicatie- en informatieplicht gerealiseerd wordt.
+<P>De werking van de schoolraad wordt geregeld in een huishoudelijk   reglement.<BR><BR>Het huishoudelijk reglement bepaalt ten minste:<BR>1° het   aantal mandaten per geleding;<BR>2° de wijze waarop nieuwe leden tijdens de   mandaatperiode kunnen toetreden tot de schoolraad en de redenen en de wijze   waarop mandaten vervroegd beëindigd kunnen worden;<BR>3° de wijze waarop   ervaringsdeskundigen en experten bij de werkzaamheden van de schoolraad kunnen   betrokken worden;<BR>4° de wijze van bijeenroeping en de   vergaderfrequentie;<BR>5° het tijdstip en de wijze waarop de agenda en de   bijbehorende documenten worden bezorgd aan de leden van de schoolraad en aan de   pedagogische raad, de leerlingenraad en de ouderraad;<BR>6° de taken van de   voorzitter;<BR>7° de wijze van besluitvorming, inzonderheid de   aanwezigheidsquota en de stemverhoudingen;<BR>8° de wijze waarop de   communicatie- en informatieplicht gerealiseerd wordt;<BR>9° de modaliteiten rond   het afzien van het recht op overleg;<BR>10° de vakantieperiodes die de termijn   schorsen waarbinnen het advies zoals vermeld in artikel 18 moet beantwoord   worden en waarbinnen het overleg in de schoolraad dient plaats te vinden als   vermeld in artikel 22, derde lid.</P>
 
 ### ART. 24.
 
@@ -146,7 +146,7 @@ De leden van de schoolraad onderschrijven het pedagogisch project van de school.
 
 ### ART. 27.
 
-De directeur, de inrichtende macht en de schoolraad bepalen in een overeenkomst de procedu-reregels die bij het uitoefenen van de participatierechten in acht moeten worden genomen. Inzonderheid wordt het vergaderritme bepaald evenals de wijze waarop de mededeling verzekerd wordt van de verslagen van de schoolraad, de pedagogische raad, de leerlingenraad en/of de ouderraad.<br /><br />De overeenkomst kan bijkomende rechten en bevoegdheden aan de schoolraad toekennen. Adviesbevoegdheid kan in overlegbevoegdheid worden omgezet.
+<P>...</P>
 
 ### ART. 28.
 
@@ -160,7 +160,7 @@ De inrichtende macht verstrekt de schoolraad de nodige infrastructurele onderste
 
 ### ART. 30.
 
-Wanneer een ontwerpbeslissing betrekking heeft op de in artikelen 1, 9 en 21 bedoelde aange-legenheden, wordt de ontwerpbeslissing eerst ter advies of overleg voorgelegd aan de schoolraad. Zij wordt vervolgens onderhandeld binnen het lokaal comité, voor wat betreft de grondregelen ter zake van het administratief statuut, met inbegrip van de vakantie- en verlofregeling, de bezoldigingsregeling, de betrekkingen met de vakorganisaties en de inrichtende machten, de organisatie van de sociale diensten of de verordeningsbepalingen, algemene maatregelen van inwendige orde en algemene richtlijnen met het oog op de latere vaststelling van de personeelsformatie of inzake arbeidsduur en organisatie van het werk.<br /><br />De door de schoolraad uitgeoefende advies- en overlegrechten hebben geen betrekking op de arbeidsvoorwaarden waarover het lokaal comité zich uitspreekt.
+Wanneer een ontwerpbeslissing betrekking heeft op de overlegbevoegdheden   van de schoolraad, wordt de ontwerpbeslissing eerst ter overleg voorgelegd aan   de schoolraad. Zij wordt vervolgens onderhandeld binnen het lokaal comité, voor   wat betreft de grondregelen ter zake van het administratief statuut, met   inbegrip van de vakantie- en verlofregeling, de bezoldigingsregeling, de   betrekkingen met de vakorganisaties en de inrichtende machten, de organisatie   van de sociale diensten of de verordeningsbepalingen, algemene maatregelen van   inwendige orde en algemene richtlijnen met het oog op de latere vaststelling van   de personeelsformatie of inzake arbeidsduur en organisatie van het   werk.<BR><BR>De door de schoolraad uitgeoefende advies- en overlegrechten hebben   geen betrekking op de arbeidsvoorwaarden waarover het lokaal comité zich   uitspreekt.
 
 ## ONDERAFDELING 4 BESCHERMING VAN AFGEVAARDIGDEN
 
@@ -172,7 +172,7 @@ Personeelsleden en leerlingen die deel uitmaken van de schoolraad kunnen voor de
 
 ### ART. 32.
 
-§ 1. Tijdens de besluitvormingsprocedures over aangelegenheden bedoeld in artikel 19 en 21, kan een bemiddelingscommissie op vraag van hetzij de inrichtende macht hetzij de schoolraad optreden.<br /><br />Een bemiddelingscommissie is samengesteld uit drie personen. De inrichtende macht en de schoolraad duiden eik één persoon aan. Deze twee personen kiezen de derde persoon, die optreedt als voorzitter.<br /><br />§ 2. In voorkomend geval wordt de in artikel 20, § 2, eerste lid, bedoelde termijn geschorst tijdens de bemiddelingsprocedure.
+<P>...</P>
 
 ### ART. 33.
 
@@ -186,7 +186,7 @@ Dit hoofdstuk is van toepassing op het basis- en secundair onderwijs, gefinancie
 
 ### ART. 35.
 
-De schoolraden bij scholen die tot dezelfde scholengemeenschap behoren, organiseren in een overeenkomst een medezeggenschapscollege bij de scholengemeenschap.
+<P>De schoolraden bij scholen die tot dezelfde scholengemeenschap behoren,   organiseren in een overeenkomst een medezeggenschapscollege bij de   scholengemeenschap als ten minste één schoolraad daarom vraagt en dit   motiveert.</P>
 
 ### ART. 36.
 
@@ -194,7 +194,7 @@ Het medezeggenschapscollege wordt door de organen van de scholengemeenschap gera
 
 ### ART. 37.
 
-De overeenkomst geldt voor de duur van het mandaat van de betrokken schoolraden. Ze regelt de vertegenwoordiging van de verschillende schoolraden in het medezeggenschapscollege en regelt de wijze waarop de toegewezen bevoegdheden worden uitgeoefend.
+De overeenkomst geldt voor de duur van het mandaat van de betrokken   schoolraden. Ze regelt de vertegenwoordiging van de verschillende schoolraden in   het medezeggenschapscollege, de wijze waarop de toegewezen bevoegdheden worden   uitgeoefend en de voorwaarden waaronder de overeenkomst vroegtijdig beëindigd   kan worden.
 
 ## HOOFDSTUK IV PEDAGOGISCHE RAAD, LEERLINGENRAAD EN OUDERRAAD
 
@@ -216,7 +216,7 @@ In elke school kan een pedagogische raad worden opgericht. De oprichting ervan i
 
 ### ART. 40.
 
-De leden van de pedagogische raad worden verkozen door en uit het personeel dat effectief te-werkgesteld is op school. Ieder personeelslid kan zich verkiesbaar stellen en is kiesgerechtigd. De stemming is geheim en verplicht.
+De zetelende pedagogische raad bepaalt de wijze waarop die raad voor de   volgende mandaatperiode zal samengesteld worden en staat in voor de organisatie   van die samenstelling. Alle personeelsleden worden op de hoogte gebracht en   betrokken bij die samenstelling en kunnen zich kandidaat stellen.<BR><BR>Als de   zetelende pedagogische raad nalaat dit te bepalen of als er geen zetelende   pedagogische raad is, staat het schoolbestuur samen met de schoolraad in voor de   samenstelling van de pedagogische raad via verkiezingen. Ieder personeelslid kan   zich verkiesbaar stellen en is stemgerechtigd. Indien er minder kandidaten zijn   dan het aantal toe te wijzen mandaten of indien het aantal kandidaten gelijk is   aan het aantal toe te wijzen mandaten, dan zijn de kandidaten die op de   kandidatenlijst worden vermeld, van rechtswege verkozen en wordt de   verkiezingsprocedure als beëindigd beschouwd.
 
 ## ONDERAFDELING 3 BESCHERMING VAN AFGEVAARDIGDEN
 
@@ -236,7 +236,7 @@ Het personeel dat deel uitmaakt van de pedagogische raad kunnen voor de meningen
 
 ### ART. 43.
 
-In het secundair onderwijs worden de leden van de leerlingenraad verkozen door en onder de leerlingen. Iedere leerling kan zich verkiesbaar stellen en is stemgerechtigd. De stemming is geheim en verplicht. Het schoolreglement bepaalt hoe een leerlingenraad in het lager onderwijs desgevallend wordt samengesteld.
+<P>&nbsp;In het secundair onderwijs bepaalt de zetelende leerlingenraad de wijze   waarop die raad voor de volgende mandaatperiode zal samengesteld worden en staat   in voor de organisatie van die samenstelling. Alle leerlingen worden op de   hoogte gebracht en betrokken bij die samenstelling en kunnen zich kandidaat   stellen.<BR><BR>Als de zetelende leerlingenraad nalaat dit te bepalen of als er   geen zetelende leerlingenraad is, staat het schoolbestuur samen met de   schoolraad in voor de samenstelling van de leerlingenraad via verkiezingen.   Iedere leerling kan zich verkiesbaar stellen en is stemgerechtigd. Indien er   minder kandidaten zijn dan het aantal toe te wijzen mandaten of indien het   aantal kandidaten gelijk is aan het aantal toe te wijzen mandaten, dan zijn de   kandidaten die op de kandidatenlijst worden vermeld, van rechtswege verkozen en   wordt de verkiezingsprocedure als beëindigd beschouwd.</P>
 
 ## ONDERAFDELING 3 BESCHERMING VAN AFGEVAARDIGDEN
 
@@ -256,7 +256,7 @@ In elke school kan een ouderraad worden opgericht. De oprichting ervan is verpli
 
 ### ART. 46.
 
-De leden van de ouderraad worden verkozen door en uit de ouders. Iedere ouder kan zich ver-kiesbaar stellen en kan één stem uitbrengen. De stemming is geheim.
+<P>De zetelende ouderraad bepaalt de wijze waarop die raad voor de volgende   mandaatperiode zal samengesteld worden en staat in voor de organisatie van die   samenstelling. Alle ouders worden op de hoogte gebracht en betrokken bij die   samenstelling en kunnen zich kandidaat stellen.<BR><BR>Als de zetelende   ouderraad nalaat dit te bepalen of als er geen zetelende ouderraad is, staat het   schoolbestuur samen met de schoolraad in voor de samenstelling van de ouderraad   via verkiezingen. Iedere ouder kan zich verkiesbaar stellen en is   stemgerechtigd. Indien er minder kandidaten zijn dan het aantal toe te wijzen   mandaten of indien het aantal kandidaten gelijk is aan het aantal toe te wijzen   mandaten, dan zijn de kandidaten die op de kandidatenlijst worden vermeld, van   rechtswege verkozen en wordt de verkiezingsprocedure als beëindigd   beschouwd.</P>
 
 ## AFDELING 5 GEMEENSCHAPPELIJKE BEPALINGEN
 
@@ -270,13 +270,13 @@ Een inrichtende macht kan een pedagogische raad, ouderraad en/of leerlingenraad 
 
 ### ART. 48.
 
-De pedagogische raad, leerlingenraad en ouderraad die ten behoeve van hun werking informatie of inzage in een document wensen, spreken daartoe hun vertegenwoordiging in de schoolraad aan.<br /><br />De pedagogische raad, leerlingenraad en ouderraad kunnen op vraag en ten behoeve van de schoolraad advies uitbrengen over de aangelegenheden bedoeld in artikelen 18, 19, 21 en 36. Zij kunnen een advies op eigen initiatief uitbrengen, voorzover het buiten de bevoegdheid van de schoolraad valt en enkel betrekking heeft op respectievelijk personeel, leerlingen of ouders.<br /><br />De pedagogische raad, leerlingenraad en ouderraad hebben over hun activiteiten en standpunten een informatie- en communicatieplicht ten behoeve van respectievelijk al het personeel, alle leerlingen en ouders.
+<P>De pedagogische raad, leerlingenraad en ouderraad kunnen op vraag van de   schoolraad maar ook op eigen initiatief een schriftelijk advies uitbrengen over   alle aangelegenheden opgesomd in artikel 21. Het schoolbestuur geeft na   ontvangst van dit advies binnen dertig kalenderdagen een met redenen omkleed   antwoord. Elk desbetreffend advies van de pedagogische raad, de leerlingenraad   of de ouderraad wordt ter informatie bezorgd aan de overige voormelde raden en   de schoolraad.<BR><BR>De leden van de pedagogische raad, leerlingenraad en   ouderraad hebben in functie van de uitoefening van hun bevoegdheden een algemeen   informatierecht.<BR><BR>Deze raden hebben ten behoeve van al het personeel,   ouders en leerlingen een informatieplicht over hun activiteiten en standpunten   en over de wijze waarop zij hun bevoegdheden uitoefenen.</P>
 
 ## ONDERAFDELING 3 WERKING
 
 ### ART. 49.
 
-De werking van de pedagogische raad, leerlingenraad en ouderraad wordt geregeld in een huis-houdelijk reglement.
+De werking van de pedagogische raad, leerlingenraad en ouderraad wordt   geregeld in een huishoudelijk reglement.<BR><BR>Het huishoudelijk reglement   bepaalt ten minste:<BR>1° de wijze van samenstelling;<BR>2° het aantal   mandaten;<BR>3° de wijze waarop nieuwe leden tijdens de mandaatperiode kunnen   toetreden tot de raad en de redenen en wijze waarop mandaten vervroegd beëindigd   kunnen worden;<BR>4° de wijze waarop zij hun afvaardiging bepalen voor de   schoolraad;<BR>5° de wijze waarop ervaringsdeskundigen en experten bij de   werkzaamheden van de raad kunnen betrokken worden;<BR>6° de wijze van   bijeenroeping en de vergaderfrequentie;<BR>7° de wijze van besluitvorming;<BR>8°   de wijze waarop de communicatie- en informatieplicht gerealiseerd wordt;<BR>9°   de vakantieperiodes die de termijn schorsen waarbinnen het advies zoals vermeld   in artikel 48 moet beantwoord worden.
 
 ### ART. 50.
 
@@ -284,7 +284,7 @@ De leerlingenraad en de ouderraad kunnen vragen dat de directie en/of één of m
 
 ### ART. 51.
 
-De inrichtende macht verstrekt de pedagogische raad, de leerlingenraad en de ouderraad de nodige infrastructurele ondersteuning.
+<P>Het schoolbestuur verstrekt de pedagogische raad, de leerlingenraad en de   ouderraad de nodige logistieke ondersteuning. Het schoolbestuur verstrekt de   leerlingenraad en de vertegenwoordigers van de leerlingen in de schoolraad de   nodige begeleiding.</P>
 
 ## ONDERAFDELING 4 MANDATEN
 
