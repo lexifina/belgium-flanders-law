@@ -2,16 +2,16 @@
   "codex_id": 1016951,
   "title": "Decreet van 2008-06-20 houdende het statuut van de Universiteit Hasselt en de Hoge Raad voor het Hoger Onderwijs in Limburg",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016951/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "7cc099831c0b8fe87373b4ccec71b4ed8cc601fd90a3e887a44a0cacbf3bd769",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016951/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "16d9f3b6f29f561796d8b872903bc1884c5d6fe42a44dd39c97243f9f6183007",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016951&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2014-09-01",
   "made": "2008-06-20",
   "gazette": "2008-08-12",
   "numac": 2008036002,
   "document_start": "2008-08-12",
   "document_end": null,
-  "in_force": "2013-10-01",
+  "in_force": "2014-09-01",
   "article_versions": 41,
-  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
