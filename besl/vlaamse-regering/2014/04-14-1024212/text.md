@@ -8,6 +8,10 @@
 
 In artikel 13 van het besluit van 7 september 2007 betreffende de   studiefinanciering van de Vlaamse Gemeenschap worden de volgende wijzigingen   aangebracht:<BR>1° aan paragraaf 1 wordt een tweede lid toegevoegd, dat luidt   als volgt:<BR>"Van het in aanmerking te nemen jaar vermeld in artikel 11, § 1,   moet ook worden afgeweken als de leerling of student zijn verblijfstitel vermeld   in artikel 9, § 2, 4°, 5° of 6° van het decreet, pas verleend wordt in de loop   van of na het in aanmerking te nemen jaar vermeld in artikel 11, § 1.<BR>In dat   geval wordt rekening gehouden met het referentie-inkomen van het eerste   kalenderjaar dat volgt op het jaar waarin de verblijfstitel is   verkregen.";<BR>2° paragraaf 2 wordt vervangen door wat volgt:<BR>" § 2. Behalve   in geval van de toepassing van hetzij artikel 6 waarbij de twaalfde maand van   het verwerven van inkomen na 31 december van het school- of academiejaar in   kwestie gebeurt, hetzij artikel 13, § 1, tweede lid, waarbij de verblijfstitel   toegekend wordt tijdens het kalenderjaar waarin het school- of academiejaar in   kwestie begint, kan van het in aanmerking te nemen jaar waarin inkomsten worden   verworven, vermeld in artikel 11 en 13, § 1, worden afgeweken, als het inkomen   van het kalenderjaar waarin het school- of academiejaar begint, vermoedelijk   lager ligt dan het normaal in aanmerking te nemen inkomstenjaar. In dat geval   kan rekening worden gehouden met het vermoedelijke inkomen van het kalenderjaar   waarin het school- of academiejaar in kwestie begint.".<BR>
 
+### ART. 2.
+
+Aan artikel 17 van hetzelfde besluit wordt een derde lid toegevoegd dat   luidt als volgt:<BR>"De schooltoelage voor pleegkinderen of pleeggasten die op   31 december van het schooljaar in kwestie langer dan een jaar onafgebroken bij   hetzelfde pleeggezin verblijven als vermeld in artikel 33, tweede lid, van het   decreet, wordt uitbetaald aan deze pleegouder."<BR>
+
 ### ART. 3.
 
 Dit besluit treedt in werking op 1 augustus 2014, met uitzondering van   artikel 2 dat in werking treedt op 1 september 2014.<BR>
