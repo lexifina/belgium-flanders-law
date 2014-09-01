@@ -2,16 +2,16 @@
   "codex_id": 1024020,
   "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot wijziging van artikel 22, 22ter en 22quater van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024020/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "7d181bade562ed5790605278df4bdfc79e82d6baea69283ec06fcb7ae0773c04",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024020/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "7ce4f1a596c3b93e46bbcaddb88ee16806fab679dcc0c50066136d537db84dea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024020&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2014-09-01",
   "made": "2014-03-21",
   "gazette": "2014-04-16",
   "numac": 2014202145,
   "document_start": "2014-09-01",
   "document_end": null,
-  "in_force": "2013-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
