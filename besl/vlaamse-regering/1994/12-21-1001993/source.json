@@ -2,16 +2,16 @@
   "codex_id": 1001993,
   "title": "Besluit van de Vlaamse Regering van 1994-12-21 betreffende de bekwaamheidsbewijzen, [de salarisschalen], het prestatiestelsel en de bezoldigingsregeling in het buitengewoon secundair onderwijs van opleidingsvorm 4",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001993/VolledigDocument?datum=2012-09-01",
-  "source_sha256": "c821357442ef83c749d5ffdb64fa98e0138b708d257c7554ddadc6d56529334b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001993/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "b366aaf306fd758eb79ee9b7a290387c55d3f941e914a42ec97a09ec5cd29dab",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001993&param=informatie",
-  "as_of": "2012-09-01",
+  "as_of": "2014-09-01",
   "made": "1994-12-21",
   "gazette": "1995-03-11",
   "numac": 1995035212,
   "document_start": "1989-09-01",
   "document_end": null,
-  "in_force": "2012-09-01",
+  "in_force": "2014-09-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2012-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }

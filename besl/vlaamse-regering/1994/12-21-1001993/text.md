@@ -10,7 +10,7 @@ Dit besluit is van toepassing op de personeelsleden die behoren tot het bestuurs
 
 ### ART. 3.
 
-De bepalingen van het besluit van de Vlaamse regering van 14 juni 1989 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het secundair onderwijs zijn van toepassing op de personeelsleden bedoeld in artikel 1.
+De bepalingen van het besluit van de Vlaamse regering van 14 juni 1989   betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en   de bezoldigingsregeling in het secundair onderwijs zijn van toepassing op de   personeelsleden bedoeld in artikel 1.<BR><BR>In afwijking van het eerste lid,   gelden voor een directeur van een school voor buitengewoon secundair onderwijs   van opleidingsvorm 4 type 5, die ofwel gehecht is aan een universitair   ziekenhuis als vermeld in artikel 288 van de Codex Secundair Onderwijs van 17   december 2010 en die daar tot 31 augustus 2014 een secundaire afdeling was van   een school voor buitengewoon basisonderwijs type 5, ofwel gehecht is aan een   residentiële setting, die valt onder de toepassing van artikel 289/1 van de   voormelde codex, de bekwaamheidsbewijzen die gelden voor het ambt van directeur   in het buitengewoon secundair onderwijs van een instelling met opleidingsvorm 4   met derde graad en andere opleidingsvormen.
 
 ### ART. 4.
 
