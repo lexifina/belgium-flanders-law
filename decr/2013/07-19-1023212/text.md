@@ -12,6 +12,14 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
 
 In artikel 3 van het decreet Basisonderwijs van 25 februari 1997, het   laatst gewijzigd bij het decreet van 21 december 2012, worden de volgende   wijzigingen aangebracht :<BR>1° punt 24° wordt vervangen door wat volgt :<BR>«   24° huisonderwijs :<BR>- het onderwijs dat verstrekt wordt aan leerplichtigen   van wie de ouders beslist hebben om hen niet in te schrijven in een door de   Vlaamse Gemeenschap, de Franse Gemeenschap of de Duitstalige Gemeenschap   erkende, gefinancierde of gesubsidieerde school;<BR>- onder huisonderwijs wordt   eveneens verstaan het onderwijs dat aan een leerplichtige wordt verstrekt in het   kader van de toepassing van het besluit van de Vlaamse Regering van 27 juni 1990   waarbij de voorwaarden worden vastgesteld waaronder in bepaalde   gemeenschapsinstellingen voor observatie en opvoeding en in onthaal- en   oriëntatiecentra en in de observatiecentra, ressorterend onder de bijzondere   jeugdbijstand aan de leerplicht kan worden voldaan; »;<BR>2° in punt 27° bis   wordt het woord "leefeenheid" vervangen door het woord   "leefentiteit".<BR>
 
+### ART. II.2.
+
+Aan hoofdstuk III van hetzelfde decreet, gewijzigd bij de decreten van 14   juli 1998, 14 februari 2003, 10 juli 2003, 7 juli 2006 en 8 mei 2009, wordt een   afdeling 3bis toegevoegd, die luidt als volgt :<BR>« Afdeling 3bis. - Screening   niveau onderwijstaal, taaltraject en taalbad ».<BR>
+
+### ART. II.3.
+
+<P>In hetzelfde decreet wordt aan afdeling 3bis een artikel 11ter toegevoegd,   dat luidt als volgt :<BR>« Art. 11ter. § 1. Voor elke leerling die voor het   eerst in het gewoon lager onderwijs instroomt, voert de school een verplichte   screening uit, die nagaat wat het niveau van de leerling inzake de onderwijstaal   is. Deze screening kan nooit voor de inschrijving van de leerling uitgevoerd   worden en gebeurt met een valide en betrouwbaar screeningsinstrument. Indien de   resultaten van deze screening daar aanleiding toe geven, voorziet de school een   taaltraject dat aansluit bij de beginsituatie en de specifieke noden van de   betrokken leerling inzake de onderwijstaal.<BR></P>  <P>§ 2. Voor leerlingen die bij de eerste instroom in het gewoon lager onderwijs   de onderwijstaal onvoldoende beheersen om de lessen te kunnen volgen, kunnen   scholen een taalbad organiseren.<BR></P>  <P>Met taalbad wordt bedoeld voltijdse en intensieve onderwijsactiviteiten die   tot doel hebben de leerling door onderdompeling in de onderwijstaal deze   onderwijstaal te laten verwerven in functie van een snelle integratie in de   reguliere onderwijsactiviteiten.<BR></P>  <P>Schoolbesturen kunnen dit taalbad individueel of gezamenlijk organiseren. De   duur van het taalbad voor de leerling is maximaal eenjaar.<BR></P>  <P>§ 3. In het geval scholen het taalbad gezamenlijk organiseren, is er   wederzijdse samenwerking tussen de school van inschrijving en de school die het   taalbad aan de leerling verstrekt. Dat houdt onder andere in het organiseren van   het vervoer van de ingeschreven leerling naar de school waar het taalbad wordt   georganiseerd, de communicatie tussen de school van inschrijving en de school   waar het taalbad wordt georganiseerd, het opvolgen van de leerling die het   taalbad volgt door de school waar de leerling is ingeschreven.<BR></P>  <P>§ 4. De leerkracht die het onderwijs in het taalbad verstrekt, wordt   betrokken bij de beslissing over de duur van het taalbad.<BR></P>  <P>§ 5. Na het taalbad integreert de leerling zich in de school van inschrijving   waar hij de reguliere onderwijsactiviteiten volgt.<BR></P>  <P>§ 6. In afwijking van artikel 3, 22°, a), wordt het inrichten van een taalbad   niet beschouwd als een herstructurering.<BR></P>  <P>§ 7. De leerlingen die een taalbad volgen, tellen alleen mee voor   financiering of subsidiering in de school waar ze zijn ingeschreven op de   teldag. » .<BR></P>
+
 ### ART. II.4.
 
 In artikel 13 van hetzelfde decreet, vervangen bij het decreet van 20   maart 2009 en gewijzigd bij het decreet van 9 juli 2010, worden de volgende   wijzigingen aangebracht :<BR>1° aan paragraaf 1, 2°, wordt een zin toegevoegd,   die luidt als volgt :<BR>« Indien de taalproef niet afgenomen is tegen de eerste   schooldag van september, dan wordt de taalproef afgenomen uiterlijk binnen   dertig kalenderdagen na de eerste dag aanwezigheid in het gewoon lager   onderwijs; »;<BR>2° in paragraaf 1, 3°, worden de woorden "onderwijs heeft   genoten in een Nederlandstalige onderwijsinstelling uit een lidstaat van de   Nederlandse Taalunie" vervangen door de woorden "Nederlandstalig onderwijs heeft   genoten in een onderwijsinstelling buiten België".<BR>
@@ -23,6 +31,10 @@ Aan artikel 18, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij de   decr
 ### ART. II.6.
 
 In artikel 19 van hetzelfde decreet, gewijzigd bij het decreet van 13 juli   2001, wordt in paragraaf 1 de zinsnede "- behoudens, in uitzonderlijke   omstandigheden, afwijking door de Vlaamse Regering -",   opgeheven.<BR>
+
+### ART. II.7.
+
+In artikel 20 van hetzelfde decreet, ingevoegd bij het decreet van 14   februari 2003 en gewijzigd bij de decreten van 10 juli 2003 en 7 juli 2006,   wordt aan punt 2° van paragraaf 2, een zin toegevoegd, die luidt als volgt   :<BR>« Deelnemen aan het taalbad wordt beschouwd als een onderwijsactiviteit die   voor hem of zijn leerlingengroep wordt georganiseerd. » .<BR>
 
 ### ART. II.8.
 
@@ -47,6 +59,10 @@ In hetzelfde decreet wordt een artikel 26quater/l ingevoegd, dat luidt als   vol
 ### ART. II.13.
 
 <P>Aan artikel 34 van hetzelfde decreet, gewijzigd bij de decreten van 15 juli   2005, 8 mei 2009 en 1 juli 2011, wordt een paragraaf 4 toegevoegd, die luidt als   volgt :<BR>« § 4. De regering bepaalt de voorwaarden tot het verkrijgen van   lestijden tijdelijk onderwijs aan huis, alsook het aantal en de wijze van   berekening ervan.<BR></P>  <P>De betrekkingen die worden ingericht op basis van de lestijden, vermeld in   het eerste lid, komen niet in aanmerking voor vacantverklaring en het   schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of   muteren in deze betrekkingen. » .<BR></P>
+
+### ART. II.14.
+
+In artikel 37 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli   2001, 2 april 2004, 20 maart 2009, 8 mei 2009, 1 juli 2011, 25 november 2011 en   21 december 2012, worden de volgende wijzigingen aangebracht :<BR>1° in   paragraaf 2, 3°, tweede lid, worden aan de eerste zin de woorden "en dat de   ouders positief staan ten aanzien van extra initiatieven en maatregelen die de   school neemt om de taalachterstand van hun leerlingen weg te werken"   toegevoegd;<BR>2° in paragraaf 3, 9°, tweede lid, worden aan de eerste zin de   woorden "en dat de ouders positief staan ten aanzien van extra initiatieven en   maatregelen die de school neemt om de taalachterstand van hun leerlingen weg te   werken" toegevoegd.<BR>
 
 ### ART. II.15.
 
@@ -75,6 +91,10 @@ In artikel 37vicies quater, § 2, van hetzelfde decreet, ingevoegd bij het   dec
 ### ART. II.21.
 
 In artikel 37vicies quinquies, § 2, 5°, van hetzelfde decreet, ingevoegd   bij het decreet van 25 november 2011 en vervangen bij het decreet van 8 juni   2012, worden de woorden "kinderen uit één leefeenheid" vervangen door de woorden   "leerlingen die behoren tot dezelfde leefentiteit".<BR>
+
+### ART. II.22.
+
+<P>In artikel 43 van hetzelfde decreet, vervangen bij het decreet van 7 mei 2004   en gewijzigd bij het decreet van 8 mei 2009, worden de volgende wijzigingen   aangebracht :<BR>1° paragraaf 1 wordt vervangen door wat volgt :<BR>« § 1. Het   leergebied Frans is verplicht in het vijfde en zesde jaar gewoon lager   onderwijs.<BR></P>  <P>Het leergebied Frans kan aangeboden worden vanaf het eerste jaar gewoon lager   onderwijs in de scholen van het tweetalige gebied Brussel-Hoofdstad en, op   voorwaarde dat de leerlingen de onderwijstaal voldoende beheersen, vanaf het   derde jaar gewoon lager onderwijs in de scholen buiten het tweetalige gebied   Brussel-Hoofdstad. » ;<BR></P>  <P>2° paragraaf 2 wordt vervangen door wat volgt :<BR>« § 2. Taalinitiaties in   het Frans, Engels en Duits behoren facultatief tot het onderwijsaanbod van het   gewoon basisonderwijs.<BR></P>  <P>Als een taalinitiatie als vermeld in het eerste lid, wordt georganiseerd,   wordt eerst taalinitiatie in het Frans aangeboden. » .<BR></P>
 
 ### ART. II.23.
 
@@ -264,6 +284,10 @@ In dezelfde codex wordt in hoofdstuk 1/3 een artikel 110/32 ingevoegd, dat   lui
 
 In dezelfde codex wordt in hoofdstuk 1/3 een artikel 110/33 ingevoegd, dat   luidt als volgt :<BR>« Art. 110/33. De artikelen 110/28 tot en met 110/32 zijn   niet van toepassing op het huisonderwijs dat wordt verstrekt in het kader van   het besluit van de Vlaamse Regering van 27 juni 1990 waarbij de voorwaarden   worden vastgesteld waaronder in bepaalde gemeenschapsinstellingen voor   observatie en opvoeding en in onthaal- en oriëntatiecentra en in de   observatiecentra, ressorterend onder de bijzondere jeugdbijstand aan de   leerplicht kan worden voldaan, het koninklijk besluit van 1 maart 2002 tot   oprichting van een Centrum voor voorlopige plaatsing van minderjarigen die een   als misdrijf omschreven feit hebben gepleegd en het koninklijk besluit van 12   november 2009 tot oprichting van een gesloten federaal centrum voor   minderjarigen die een als misdrijf omschreven feit hebben gepleegd. »   .<BR>
 
+### ART. III.24.
+
+In artikel 111, § 3, tweede lid, van dezelfde codex, gewijzigd bij het   decreet van 1 juli 2011, worden aan de eerste zin van het tweede lid, de woorden   "en dat ouders positief staan ten aanzien van extra initiatieven en maatregelen   die de school neemt om de taalachterstand van leerlingen weg te werken"   ingevoegd.<BR>
+
 ### ART. III.25.
 
 In artikel 115/3 van dezelfde codex, ingevoegd bij het decreet van 1 juli   2011, wordt een lid toegevoegd, dat luidt als volgt :<BR>« De financiële   bijdrage die de houder van een buitenlands studiebewijs moet betalen aan de   erkenningsautoriteit voor een onderzoek met betrekking tot de erkenning van de   gelijkwaardigheid van het buitenlands studiebewijs bedraagt 90 euro per aanvraag   en per studiebewijs. Indien een onderzoek wordt gevraagd naar de   gelijkwaardigheid met aanduiding van een structuuronderdeel bedraagt de   financiële bijdrage 180 euro per aanvraag en per studiebewijs. Deze bedragen   worden jaarlijks aangepast aan de evolutie van de gezondheidsindex. De   referentiedatum voor de jaarlijkse aanpassing is 1 september 2013. De bedragen   worden afgerond naar het dichtstbijzijnde geheel getal. De Vlaamse Regering kan   de bedragen verminderen voor specifieke doelgroepen. Voor asielzoekers,   vluchtelingen en subsidiair-beschermden is de behandeling van de   erkenningsaanvraag gratis. De Vlaamse Regering kan de voorwaarden bepalen voor   een versnelde procedure tot de erkenning van de individuele gelijkwaardigheid   van buitenlandse studiebewijzen. De Vlaamse Regering kan het bedrag vermeerderen   tot maximaal 500 euro indien de houder van het buitenlands studiebewijs opteert   voor deze versnelde procedure. » .<BR>
@@ -271,6 +295,18 @@ In artikel 115/3 van dezelfde codex, ingevoegd bij het decreet van 1 juli   2011
 ### ART. III.26.
 
 Artikel 121 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   121. Voor leerlingen die wegens ziekte of ongeval het geheel van de vorming van   een schooljaar niet kunnen volgen, kan de klassenraad een spreiding van het   lessenprogramma hetzij van een leerjaar over twee schooljaren hetzij van een   graad over drie schooljaren toestaan. » .<BR>
+
+### ART. III.27.
+
+In dezelfde codex wordt artikel 127 opgeheven.<BR>
+
+### ART. III.28.
+
+In artikel 129, § 1, tweede lid, van dezelfde codex, wordt punt 1°   opgeheven.<BR>
+
+### ART. III.29.
+
+<P>In deel IV, titel 1, hoofdstuk I, afdeling 2, van dezelfde codex, gewijzigd   bij het decreet van 1 juli 2011, wordt een artikel 136/4 ingevoegd, dat luidt   als volgt :<BR>« Art. 136/4. § 1. Een schoolbestuur kan voor leerlingen in het   voltijds gewoon secundair onderwijs die door een onvoldoende kennis van de   onderwijstaal niet in staat zijn om de lessen in voldoende mate te volgen en al   of niet uit het onthaalonderwijs, vermeld in artikel 135, komen, tot maximaal   drie uren extra taallessen Nederlands per week organiseren. Deze extra   taallessen Nederlands komen bovenop het leerprogramma van het structuuronderdeel   waarin de leerling is ingeschreven en beogen de taalachterstand op een zo kort   mogelijke termijn weg te werken.<BR></P>  <P>De toelatingsklassenraad of de begeleidende klassenraad, al naargelang het   geval, beslist om een leerling te verplichten tot maximaal drie uren extra   taallessen Nederlands per week. In afwijking op de geldende regelgeving is die   klassenraad, voor wat het onderwijzend personeel betreft, ten minste   samengesteld uit de leraars belast met de basisvorming.<BR></P>  <P>§ 2. Voor de leerlingen die verplicht worden tot maximaal drie uren extra   taallessen Nederlands per week voorziet de school in een doelgericht aanbod. De   school kan dat aanbod zelf organiseren of daarvoor samenwerken met andere   scholen waarbij leerlingen van verschillende scholen kunnen worden   samengebracht.<BR></P>  <P>De duur van de extra taallessen Nederlands tijdens een schooljaar is   afhankelijk van de evaluatie door de begeleidende klassenraad van de   studievoortgang van de betrokken leerling.<BR></P>  <P>§ 3. De Vlaamse Regering kan verdere voorwaarden bepalen waaronder leerlingen   de extra taallessen Nederlands, vermeld in paragraaf 1, moeten volgen alsook   verdere voorwaarden voor de praktische organisatie van deze extra taallessen. »   .<BR></P>
 
 ### ART. III.30.
 
@@ -280,9 +316,93 @@ Artikel 121 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   121
 
 <P>In artikel 146 van dezelfde codex wordt paragraaf 3 vervangen door wat volgt   :<BR>« § 3. Met het oog op het waarborgen van het studiepeil keurt de Vlaamse   Regering volgens de vooraf door haar bepaalde criteria en op advies van de   onderwijsinspectie, de leerplannen goed.<BR></P>  <P>De leerplannen voor godsdienst, niet-confessionele zedenleer,   cultuurbeschouwing of eigen cultuur en religie dienen niet door de Vlaamse   Regering goedgekeurd te worden. De leerplannen voor godsdienst,   niet-confessionele zedenleer, cultuurbeschouwing of eigen cultuur en religie   zijn in overeenstemming met de internationale en grondwettelijke beginselen   inzake de rechten van de mens en van het kind in het bijzonder en respecteren de   bekrachtigde eindtermen en ontwikkelingsdoelen. » .<BR></P>
 
+### ART. III.32.
+
+Aan artikel 152 van dezelfde codex wordt een tweede lid toegevoegd, dat   luidt als volgt :<BR>« Zijn ook algemene vakken : alle levende talen. »   .<BR>
+
 ### ART. III.33.
 
 <P>Aan artikel 157 van dezelfde codex, gewijzigd bij decreet van 1 juli 2011 en   21 december 2012, wordt een paragraaf 6 toegevoegd, die luidt als volgt :<BR>« §   6. Met behoud van de toepassing van paragraaf 2 tot en met paragraaf 5, omvat   het lessenrooster van het eerste en het tweede leerjaar van de derde graad van   het technisch secundair onderwijs en het eerste, het tweede en het derde   leerjaar van de derde graad van het beroepssecundair onderwijs een aantal uren   aangeduid als "leerlingenstage", gevolgd door een of meer vakbenamingen.<BR></P>  <P>De uren leerlingenstage komen, omgerekend naar schooljaarbasis, overeen met   minimaal achttien halve dagen. Die halve dagen zijn al dan niet   opeenvolgend.<BR></P>  <P>Een leerlingenstage is gebaseerd op een leerlingenstageovereenkomst gesloten   tussen de school, de stagegever en de betrokken personen. De   eindverantwoordelijkheid voor de keuze van de stagegever, de vaststelling van de   stageactiviteiten evenals de begeleiding en beoordeling van de   leerling-stagiair, ligt bij de school.<BR></P>  <P>Elke leerlingenstage is onbezoldigd.<BR></P>  <P>Indien geen of onvoldoende stageplaatsen, moet de school ten aanzien van de   onderwijsinspectie kunnen aantonen dat dit het gevolg is van factoren buiten   haar wil om.<BR></P>  <P>De Vlaamse Regering kan de praktische organisatie van en de minimale   kwaliteitskenmerken voor leerlingenstages nader bepalen.<BR></P>  <P>De Vlaamse Regering bepaalt de datum van de inwerkingtreding van deze   paragraaf, met toepassing van de bepalingen van artikel 70. Deze datum kan   verschillen naargelang van de onderwijsvorm, het studiegebied of het   structuuronderdeel. » .<BR></P>
+
+### ART. III.34.
+
+<P>Aan deel IV, titel 1, hoofdstuk 1, afdeling 4, van dezelfde codex wordt een   artikel 157/1 toegevoegd, dat luidt als volgt :<BR>« Art. 157/1. In het voltijds   secundair onderwijs kan de wekelijkse lessentabel, de vakken moderne vreemde   talen niet meegerekend, voor maximaal 20 % worden aangeboden in het Frans,   Engels of Duits.<BR></P>  <P>Het aanbod, vermeld in het eerste lid, kan worden georganiseerd op voorwaarde   dat :<BR>1° de leerlingen de mogelijkheid hebben om alle niet-taalvakken in het   Nederlands in de school te volgen;<BR>2° een leerling slechts CLIL kan volgen,   indien de betrokken personen er schriftelijk en expliciet voor kiezen het   CLIL-traject gedurende het volledige schooljaar te volgen en na positief advies   van de toelatingsklassenraad dat ten minste is gebaseerd op voldoende kennis en   beheersing door de leerling van de onderwijstaal;<BR>3° het aanbod voldoet aan   de door de Vlaamse Regering bepaalde kwaliteitsstandaard. De kwaliteitsstandaard   omvat enkel voorwaarden op het vlak van :<BR>a) de competenties en vorming van   het personeel dat deze lessen zal geven op het vlak van de CLIL-methodiek in   relatie tot het vak zelf;<BR>b) de vereiste kennis van de doeltaal van de   personeelsleden;<BR>c) tijdige communicatie met ouders en leerlingen met de   expliciete keuzemogelijkheid tussen CLIL of niet-CLIL;<BR>d) de inpassing van   dit aanbod in een coherent talenbeleid zowel voor de onderwijstaal als vreemde   talen, met formulering van expliciete strategische doelstellingen;<BR>e)   monitoring van de resultaten en de leerwinst van de leerlingen in het   vak/onderwerp, in de doeltaal en in het Standaardnederlands;<BR>f) de te volgen   stappen die een school moet ondernemen die een CLIL-project wil organiseren   (beginsituatieanalyse, communicatie, doelen formuleren, actieplan opstellen en   actieplan operationaliseren);<BR>4° de school kan het aanbod slechts effectief   organiseren, als ze beschikt over personeelsleden die op het ogenblik van de   organisatie beantwoorden aan de voorwaarden van 3°, a) en b). Daarbij moet ze   rekening houden met de rechten van de personeelsleden die vast benoemd zijn of   tijdelijk aangesteld zijn voor doorlopende duur in het vak dat ze wil aanbieden,   in het Frans, Engels of Duits. Om het aanbod te organiseren, mag de school een   personeelslid dat vast benoemd is voor het vak dat ze in het Frans, Engels of   Duits wil aanbieden niet ter beschikking stellen wegens ontstentenis van   betrekking voor dat vak. De school mag ook de opdracht van een tijdelijk   personeelslid dat voor doorlopende duur is aangesteld in het vak dat ze in het   Frans, Engels of Duits wil aanbieden voor dat vak, niet verminderen of   beëindigen om het aanbod te organiseren. Dit laatste geldt niet als het   tijdelijk personeelslid wel voldoet aan de voorwaarden van 3°, a) en b), maar   het aanbod weigert om het vak in het Frans, Engels of Duits te geven;<BR>5° de   school ervoor zorgt dat de kennis van de onderwijstaal bij de leerlingen   prioritair blijft en dat het Nederlandstalige karakter van de school behouden   blijft;<BR>6° voorafgaand een plan wordt opgemaakt dat door de bevoegde dienst   van de Vlaamse Gemeenschap is goedgekeurd. » .<BR></P>
+
+### ART. III.35.
+
+In dezelfde codex wordt in deel IV, titel 1, hoofdstuk 3, de afdeling 1,   bestaande uit het artikel 174, opgeheven.<BR>
+
+### ART. III.36.
+
+In deel IV, titel 1, hoofdstuk 3, van dezelfde codex, worden in het   opschrift van afdeling 2 de woorden "die tot een scholengemeenschap behoren"   opgeheven.<BR>
+
+### ART. III.37.
+
+<P>In artikel 175 van dezelfde codex worden de volgende wijzigingen aangebracht   :<BR>1° paragraaf 3 wordt vervangen door wat volgt :<BR>« § 3. Scholen kunnen   ook door splitsing van bestaande scholen ontstaan voor zover de volgende   gezamenlijke voorwaarden zijn vervuld :<BR>1° de splitsing wordt onmiddellijk   voorafgegaan door een fusie van scholen en kadert als dusdanig in een   herstructurering die niet resulteert in een groter aantal scholen;<BR>2° alle   bij de splitsing betrokken scholen moeten, in afwijking van § 1 en § 2, na de   splitsing 100 % bereiken van de toepasbare rationalisatienorm;<BR>3° de   splitsing kan slechts één van de volgende vormen aannemen :<BR>a) hetzij een   afsplitsing van de eerste graad;<BR>b) hetzij een afsplitsing van een of meer   studiegebieden;<BR>c) hetzij een combinatie van beide voorgaande;<BR>4° de   splitsing moet, voor een school die tot een scholengemeenschap behoort, in   overeenstemming zijn met de afspraken die de scholengemeenschap maakt over de   ordening van een rationeel onderwijsaanbod. » ;<BR></P>  <P>2° paragraaf 5 wordt vervangen door wat volgt :<BR>« § 5. De bepalingen van   dit artikel zijn niet van toepassing op scholen met uitsluitend de opleiding   Verpleegkunde van het hoger beroepsonderwijs. » ;<BR></P>  <P>3° paragraaf 6 wordt vervangen door wat volgt :<BR>« § 6. De programmatie van   een school wordt door het schoolbestuur bij de bevoegde diensten van de Vlaamse   Gemeenschap schriftelijk gemeld uiterlijk 1 mei van het voorafgaand   schooljaar.<BR></P>  <P>Indien de school ontstaat door splitsing van een bestaande school, dan gaan   bij die melding, per betrokken school, het protocol van de onderhandeling ter   zake in het bevoegd lokaal comité en, in het geval de school tot een   scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit moet   blijken dat de programmatie in overeenstemming is met de afspraken die binnen de   scholengemeenschap zijn gemaakt. » .<BR></P>
+
+### ART. III.38.
+
+In deel IV, titel 1, hoofdstuk 3, van dezelfde codex, worden in het   opschrift van afdeling 3 de woorden "door scholen die tot een scholengemeenschap   behoren" opgeheven.<BR>
+
+### ART. III.39.
+
+<P>Artikel 176 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   176. Bij programmatie van structuuronderdelen, zoals bepaald in deze afdeling,   wordt volgend onderscheid gemaakt :<BR>1° het structuuronderdeel is niet   programmeerbaar;<BR>2° het structuuronderdeel is vrij programmeerbaar;<BR>3° het   structuuronderdeel is programmeerbaar mits aan bepaalde voorwaarden is   voldaan;<BR>4° het structuuronderdeel is programmeerbaar mits goedkeuring door   de Vlaamse Regering.<BR></P>  <P>De programmatie van een structuuronderdeel voor een school die tot een   scholengemeenschap behoort, moet in overeenstemming zijn met de afspraken die de   scholengemeenschap maakt met het oog op een rationeel geordend   onderwijsaanbod.<BR></P>  <P>De programmatiebepalingen zijn niet van toepassing op de opleiding   Verpleegkunde van het hoger beroepsonderwijs. » .<BR></P>
+
+### ART. III.40.
+
+Artikel 177 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   177. De Vlaamse Regering legt de lijst van structuuronderdelen vast die niet   programmeerbaar zijn, met toepassing van het in artikel 70, eerste en tweede   lid, gestelde. Ze houdt daarbij rekening met volgende criteria :<BR>1° het niet   of in onvoldoende mate aansluiten op de arbeidsmarkt op basis van   tewerkstellingscijfers van schoolverlaters of door het ontbreken van een erkende   beroepskwalificatie binnen de Vlaamse kwalificatiestructuur;<BR>2° het niet of   in onvoldoende mate aansluiten op het hoger onderwijs op basis van slaagcijfers   in het hoger onderwijs.<BR>Met het oog op eventuele actualisering wordt bedoelde   lijst jaarlijks geëvalueerd. » .<BR>
+
+### ART. III.41.
+
+<P>Artikel 178 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   178. De Vlaamse Regering legt de lijst van structuuronderdelen vast die vrij   programmeerbaar zijn, met toepassing van het in artikel 70, eerste en tweede   lid, gestelde. Ze houdt daarbij rekening met beleidsontwikkelingen of   -prioriteiten. De Vlaamse Regering kan aan de programmatie van een dergelijk   structuuronderdeel de voorwaarde koppelen van een reeds bestaand onderwijsaanbod   in de school of scholengemeenschap in kwestie.<BR></P>  <P>Met het oog op eventuele actualisering wordt bedoelde lijst jaarlijks   geëvalueerd.<BR></P>  <P>De programmatie wordt door het schoolbestuur bij de bevoegde diensten van de   Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 mei van het voorafgaand   schooljaar en uiterlijk 30 november van het lopende schooljaar indien het een   Se-n-Se betreft die van start gaat op 1 februari daaropvolgend. Bij die melding   gaan het protocol van de onderhandeling ter zake in het bevoegd lokaal comité   en, indien de school tot een scholengemeenschap behoort, een uittreksel van het   proces-verbaal waaruit moet blijken dat de programmatie in overeenstemming is   met de afspraken die binnen de scholengemeenschap zijn gemaakt. »   </P>
+
+### ART. III.42.
+
+<P>Artikel 179 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   179. De programmatie van een structuuronderdeel dat niet onder toepassing valt   van artikel 177 en 178 is toegelaten onder de volgende gezamenlijke voorwaarden   :<BR>1° in de school of in een andere school van de scholengemeenschap wordt   tegelijkertijd een ander structuuronderdeel opgeheven; dat ander   structuuronderdeel kan niet behoren tot het derde leerjaar van de derde   graad;<BR>2° de programmatie leidt niet tot een voor de school nieuw   studiegebied;<BR>3° de programmatie heeft geen betrekking op een   structuuronderdeel van het derde leerjaar van de derde graad;<BR>4° de   programmatie beantwoordt aan eventueel vigerende regelgeving met betrekking tot   frequentie, inplanting of andere organisatievoorwaarden van het   structuuronderdeel in kwestie.<BR></P>  <P>De programmatie wordt door het schoolbestuur bij de bevoegde diensten van de   Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 mei van het voorafgaand   schooljaar.<BR></P>  <P>Bij die melding gaan, per betrokken school, het protocol van de   onderhandeling ter zake in het bevoegd lokaal comité en, indien de school tot   een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit   moet blijken dat de programmatie in overeenstemming is met de afspraken die   binnen de scholengemeenschap zijn gemaakt. » </P>
+
+### ART. III.43.
+
+<P>In dezelfde codex wordt een artikel 179/1 ingevoegd, dat luidt als volgt   :<BR>« Art. 179/1. De programmatie van een structuuronderdeel dat niet onder   toepassing valt van artikel 177, 178 en 179 wordt door het schoolbestuur bij de   bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd   aangevraagd uiterlijk 30 november van het voorafgaand schooljaar en uiterlijk 30   september van het lopende schooljaar indien het een Se-n-Se betreft die van   start gaat op 1 februari daaropvolgend. Bij die aanvraag gaan het protocol van   de onderhandeling ter zake in het bevoegd lokaal comité en, indien de school tot   een scholengemeenschap behoort, een uittreksel van het proces-verbaal waaruit   moet blijken dat de programmatie in overeenstemming is met de afspraken die   binnen de scholengemeenschap zijn gemaakt.<BR></P>  <P>Na advies van enerzijds de Vlaamse Onderwijsraad en anderzijds de   onderwijsinspectie en de bevoegde diensten van de Vlaamse Gemeenschap, neemt de   Vlaamse Regering een beslissing over de programmatie. De Vlaamse Regering houdt   bij haar beslissing rekening met de volgende gezamenlijke criteria :<BR>1° de   eventueel vigerende regelgeving met betrekking tot frequentie, inplanting of   andere organisatievoorwaarden van het structuuronderdeel in kwestie;<BR>2° het   beantwoorden van de programmatie aan het kwantitatief en kwalitatief aantoonbaar   niet-behoeftedekkend onderwijsaanbod binnen de betrokken onderwijszone en met   respect voor de keuzevrijheid van ouders en leerlingen;<BR>3° a) de aanwezigheid   van een convenant, of;<BR>b) de inhoudelijke aansluiting en de objectief   vastgestelde nood op de arbeidsmarkt, of;<BR>c) de studiecontinuïteit van   leerlingen binnen de school of de scholengemeenschap. » .<BR></P>
+
+### ART. III.44.
+
+<P>In dezelfde codex wordt een artikel 179/2 ingevoegd, dat luidt als volgt   :<BR>« Art. 179/2. Een dossier houdende voorstel van nieuw structuuronderdeel   dat door een schoolbestuur in toepassing van artikel 129 wordt ingediend, kan   tevens expliciet de intentie bevatten tot programmatie van het   structuuronderdeel in één of meer aangeduide scholen van dat schoolbestuur. Het   gemotiveerd dossier wordt door het schoolbestuur bij de bevoegde diensten van de   Vlaamse Gemeenschap ingediend uiterlijk 30 september van het voorafgaand   schooljaar. Bij het dossier gaan, per school, het protocol van de onderhandeling   in het bevoegd lokaal comité met betrekking tot de programmatie en, indien de   school tot een scholengemeenschap behoort, een uittreksel van het proces-verbaal   waaruit moet blijken dat de programmatie in overeenstemming is met de afspraken   die binnen de scholengemeenschap zijn gemaakt.<BR></P>  <P>Uitsluitend in het geval de Vlaamse Regering een positieve beslissing neemt   over het voorstel van nieuw structuuronderdeel, neemt zij tevens een beslissing   over de programmatie met in acht name van de bepalingen van artikel 178, 179 en   179/1. » .<BR></P>
+
+### ART. III.45.
+
+In dezelfde codex wordt in deel IV, titel 1, hoofdstuk 3, de afdeling 4,   bestaande uit het artikel 180, opgeheven.<BR>
+
+### ART. III.46.
+
+In dezelfde codex wordt in deel IV, titel 1, hoofdstuk 3, de afdeling 5,   bestaande uit de artikelen 181 tot en met 188, opgeheven.<BR>
+
+### ART. III.47.
+
+In dezelfde codex wordt artikel 201 opgeheven.<BR>
+
+### ART. III.48.
+
+In dezelfde codex wordt artikel 202 opgeheven.<BR>
+
+### ART. III.49.
+
+In deel IV, titel 1, van dezelfde codex worden in het opschrift van   hoofdstuk 5 de woorden "Omvorming en" opgeheven.<BR>
+
+### ART. III.50.
+
+In dezelfde codex wordt in deel IV, titel 1, hoofdstuk 5, de afdeling 1,   bestaande uit de artikelen 203 en 204, opgeheven.<BR>
+
+### ART. III.51.
+
+In dezelfde codex wordt in deel IV, titel 1, hoofdstuk 5, de afdeling 2,   bestaande uit het artikel 205, opgeheven.<BR>
+
+### ART. III.52.
+
+<P>Artikel 206 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   206. § 1. De volledige eerste graad of een volledig studiegebied zoals   georganiseerd door een school kan door de Vlaamse Gemeenschap gefinancierd of   gesubsidieerd blijven indien het in één keer wordt overgeheveld naar een andere   school van hetzelfde schoolbestuur die gelegen is in dezelfde gemeente of naar   een andere school die behoort tot dezelfde scholengemeenschap.<BR></P>  <P>Indien de overheveling betrekking heeft op alle door de school georganiseerde   studiegebieden van het beroepssecundair onderwijs, moet het derde leerjaar van   de derde graad, ingericht onder de vorm van een naamloos leerjaar, mee worden   overgeheveld; indien de overheveling betrekking heeft op slechts enkele   studiegebieden, kan het mee worden overgeheveld.<BR></P>  <P>§ 2. Voor de toepassing van de omkaderingsnormen van het personeel, de   toepassing van de minimale schoolbevolkingsnormen en de vaststelling van het   werkingsbudget, wordt de overheveling geacht reeds op 1 februari van het   voorafgaand schooljaar te hebben plaats gevonden.<BR></P>  <P>§ 3. De overheveling wordt door het schoolbestuur bij de bevoegde diensten   van de Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 mei van het   voorafgaand schooljaar. Bij die melding gaan, per school die bij de overheveling   is betrokken, het protocol van de onderhandeling ter zake in het bevoegd lokaal   comité en, indien de school tot een scholengemeenschap behoort, een uittreksel   van het proces-verbaal waaruit moet blijken dat de overheveling in   overeenstemming is met de afspraken die binnen de scholengemeenschap zijn   gemaakt. » .<BR></P>
+
+### ART. III.53.
+
+<P>In dezelfde codex wordt een artikel 252/1 ingevoegd, dat luidt als volgt   :<BR>« Art. 252/1. Onverminderd de door de Vlaamse Regering bepaalde   toelatingsvoorwaarden, vermeld in artikel 252, is het voltijds gewoon secundair   onderwijs toegankelijk voor leerlingen die de leeftijd van 25 jaar nog niet   hebben bereikt. Het kan worden gevolgd uiterlijk tot het einde van het   schooljaar waarin de leerlingen de leeftijd van 25 jaar bereiken.<BR>Deze   maximumleeftijd is evenwel niet van toepassing op :<BR></P>  <P>1° leerlingen die tijdens het schooljaar 2013-2014 voltijds gewoon secundair   onderwijs hebben gevolgd en vanaf het schooljaar 2014-2015 hun secundaire studie   verder zetten;<BR>2° de voorbereidende jaren op het hoger onderwijs, de Se-n-Se,   de specialisatiejaren en het naamloos leerjaar van het voltijds gewoon secundair   onderwijs.<BR></P>  <P>Voor de hbo5-opleiding Verpleegkunde geldt evenmin een maximumleeftijd. »   .<BR></P>
 
 ### ART. III.54.
 
@@ -295,6 +415,14 @@ In artikel 256/2 van dezelfde codex, ingevoegd bij het decreet van 29 juni   201
 ### ART. III.56.
 
 In artikel 256/8 van dezelfde codex, ingevoegd bij het decreet van 29 juni   2012, wordt in het eerste lid het punt 1° opgeheven.<BR>
+
+### ART. III.57.
+
+Aan deel IV, titel 2, van dezelfde codex wordt een hoofdstuk 4 ingevoegd,   dat luidt als volgt :<BR>« HOOFDSTUK 4. - Screening niveau   onderwijstaal".<BR>
+
+### ART. III.58.
+
+<P>In deel IV, titel 2, hoofdstuk 4, van dezelfde codex wordt een artikel 256/11   ingevoegd, dat luidt als volgt :<BR>« Art. 256/11. Voor elke leerling die voor   het eerst in het voltijds gewoon secundair onderwijs instroomt, voert de school   een verplichte screening uit die nagaat wat het niveau van de leerling inzake de   onderwijstaal is. Deze screening kan nooit voor de inschrijving van de leerling   uitgevoerd worden en gebeurt met een valide en betrouwbaar   screeningsinstrument.<BR></P>  <P>Indien de resultaten van deze screening daar aanleiding toe geven, treft de   school maatregelen die aansluiten bij de beginsituatie en de specifieke noden   van de betrokken leerling inzake de onderwijstaal. » .<BR></P>
 
 ### ART. III.59.
 
@@ -312,6 +440,10 @@ In artikel 314/3 van dezelfde codex, ingevoegd bij het decreet van 1 juli   2011
 
 In artikel 314/4 van dezelfde codex, ingevoegd bij het decreet van 1 juli   2011, wordt het jaartal "2013" vervangen door het jaartal   "2015".<BR>
 
+### ART. III.63.
+
+In artikel 350 van dezelfde codex, gewijzigd bij het decreet van 1 juli   2011, wordt de zinsnede "157 en 170" vervangen door de zinsnede "157, 157/1 en   170".<BR>
+
 ### ART. III.64.
 
 <P>Artikel 357 van dezelfde codex wordt vervangen door wat volgt :<BR>« Art.   357. § 1. Aan regelmatige leerlingen met specifieke onderwijsbehoeften die   gewoon gefinancierd of gesubsidieerd secundair onderwijs volgen, en voldoen aan   de toelatingsvoorwaarden van het gewoon secundair onderwijs, kunnen speciale   onderwijsleermiddelen ter beschikking worden gesteld.<BR></P>  <P>§ 2. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de   vorm aannemen van tolken Vlaamse Gebarentaal of schrijftolken, dan moet de   leerling om in aanmerking te komen tot de in het volgende lid vermelde doelgroep   behoren.<BR></P>  <P>Tot de doelgroep behoren de leerlingen met een auditieve beperking die   beantwoorden aan een van de onderstaande criteria :<BR>a) via een tonaal   audiometrische test een verlies aantonen van 70 dB of meer aan beide oren, voor   de zuivere toonstimuli van 500, 1000 of 2000 Hz (gemiddelde waarde   Fletcher-index) en/of een verlies van 70 dB of meer aan het beste oor voor de   zuivere toonstimuli van 1000, 2000 en 4000 Hz (gemiddelde waarde);<BR>b) bij een   gemiddeld verlies van minder dan 70 dB, via een vocaal audiometrische test   minder dan 30 % herkende woorden scoren bij optimale versterking (categorie 4 in   de BIAP-classificatie).<BR></P>  <P>Het audiometrisch bewijs of audiogram dient te worden verstrekt door een   erkend revalidatiecentrum of -dienst of door een erkende universitaire dienst   voor audiometrisch onderzoek.<BR></P>  <P>§ 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de   vorm aannemen van tolken Vlaamse Gebarentaal of schrijftolken, dan bepaalt de   Vlaamse Regering :<BR>1° het per schooljaar en academiejaar totaal beschikbaar   urenpakket voor tolken Vlaamse Gebarentaal en voor schrijftolken;<BR>2° de   procedure voor de aanvraag en toekenning van de schrijftolken en tolken Vlaamse   Gebarentaal bij het Agodi, het Agodi zal hiertoe eveneens een intern beroep   voorzien;<BR>3° de diplomavoorwaarden voor de tolken Vlaamse Gebarentaal en   schrijftolken;<BR>4° de te indexeren loonkost voor de tolken Vlaamse Gebarentaal   en de loonkost voor de schrijftolken.<BR></P>  <P>§ 4. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de   vorm aannemen van tolken Vlaamse Gebarentaal, dan verleent de Vlaamse Regering   voor de realisatie van de tolkuren voor tolken Vlaamse Gebarentaal een subsidie   aan een door de Vlaamse Regering te bepalen centraal tolkenbureau, op voorwaarde   dat dat laatste zich engageert om :<BR>1° als bemiddelaar op te treden tussen de   aanvrager en de tolken Vlaamse Gebarentaal, met inbegrip van het verlenen van   bijstand bij het opmaken van het aanvraagdossier, het toewijzen van een tolk,   rekening houdend met de specifieke noden en wensen van de aanvrager en het   aanbod, het opmaken en bijhouden van tolkenlijsten en van prestatiebladen van de   erkende tolken voor doven en slechthorenden, het uitbetalen van de tolken op   basis van hun prestaties, het uitbetalen van de verplaatsingsvergoedingen van de   tolken en het jaarlijks rapporteren omtrent de activiteiten;<BR>2° als   klachtenbemiddelaar op te treden omtrent de tolkendienstverlening in het   algemeen en misbruiken aan de klachtencommissie te signaleren, overeenkomstig   artikel 19 van het besluit van de Vlaamse Regering van 20 juli 1994 houdende   vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen   met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden   ten laste neemt;<BR>3° voldoende uitgerust te zijn om :<BR>- te kunnen voorzien   in optimale bereikbaarheid ten behoeve van gebruikers en hiervoor over een   aangepast oproepsysteem te beschikken;<BR>- te kunnen voorzien in een optimale   dienstverlening ten behoeve van gebruikers en hiervoor een online overzicht voor   opvolging van de beschikbare tolkuren ter beschikking te stellen;<BR>- te kunnen   voorzien in inspraak in de aanwending van de tolkuren door de ouders.<BR></P>  <P>De subsidie van de Vlaamse Regering, vermeld in het eerste lid, bestaat uit   een door de Vlaamse Regering te bepalen aantal werkingsmiddelen voor de   overheadkost voor het door de Vlaamse Regering te bepalen centraal tolkenbureau,   aangevuld met de lonen en verplaatsingskosten, bestemd voor de tolken Vlaamse   Gebarentaal.<BR></P>  <P>§ 5. De procedure voor de aanvraag en toekenning en het intern beroep en de   werking van het door de Vlaamse Regering te bepalen centraal tolkenbureau worden   om de drie jaar geëvalueerd, de eerste evaluatie vindt plaats gedurende het   schooljaar 2015-2016. Tijdens deze evaluatie wordt de betrokkenheid van de   doelgroep verzekerd.<BR></P>  <P>§ 6. Indien deze speciale onderwijsleermiddelen een andere vorm aannemen dan   hetgeen vermeld is onder paragraaf 2 tot en met 5, dan bepaalt de Vlaamse   Regering de procedure voor de aanvraag en de criteria voor toekenning van deze   middelen. » .<BR></P>
@@ -322,9 +454,21 @@ In artikel 314/4 van dezelfde codex, ingevoegd bij het decreet van 1 juli   2011
 
 In artikel 3 van het decreet van 10 juli 2008 betreffende het stelsel van   leren en werken in de Vlaamse Gemeenschap, gewijzigd bij het decreet van 8 mei   2009, wordt een punt 14° /1 ingevoegd, dat luidt als volgt : <BR>« 14° /1   leerlingenstage : een vorm van opleiding binnen de component leren :<BR>a)   buiten een vestigingsplaats van het centrum voor deeltijds beroepssecundair   onderwijs;<BR>b) in een reële arbeidsomgeving bij een werkgever;<BR>c) onder   gelijkaardige omstandigheden als reguliere werknemers van die werkgever;<BR>d)   waarbij effectieve arbeid wordt verricht die aansluit bij de gevolgde   opleiding;<BR>e) met de bedoeling beroepservaring op te doen. »   .<BR>
 
+### ART. III.66.
+
+In artikel 8 van hetzelfde decreet wordt paragraaf 3, toegevoegd bij het   decreet van 18 december 2009 en gewijzigd bij het decreet van 9 juli 2010,   vervangen door wat volgt :<BR>« § 3. De programmatie van een centrum voor   deeltijds beroepssecundair onderwijs wordt door het centrumbestuur bij de   bevoegde diensten van de Vlaamse Gemeenschap schriftelijk gemeld uiterlijk 1 mei   van het voorafgaand schooljaar. » .<BR>
+
+### ART. III.67.
+
+Artikel 20 van hetzelfde decreet, gewijzigd bij de decreten van 18   december 2009, 17 december 2010, 9 juli 2010 en 21 december 2012, wordt   vervangen door wat volgt :<BR>« Art. 20. De programmatie van een opleiding in   het deeltijds beroepssecundair onderwijs is vrij en kan op elk tijdstip van het   schooljaar. De programmatie wordt door het centrumbestuur ten minste één maand   voorafgaandelijk bij de bevoegde diensten van de Vlaamse Gemeenschap   schriftelijk gemeld. Bij die melding gaan het protocol van de onderhandeling ter   zake in het bevoegd lokaal comité, een document waaruit moet blijken dat de   programmatie vooraf is besproken in het regionaal overlegplatform waarin het   centrum voor deeltijds beroepssecundair onderwijs participeert en, in het geval   het centrum tot een scholengemeenschap behoort, een uittreksel van het   proces-verbaal waaruit moet blijken dat de programmatie in overeenstemming is   met de afspraken die binnen de scholengemeenschap zijn gemaakt. »   .<BR>
+
 ### ART. III.68.
 
 In artikel 23, § 2, van hetzelfde decreet worden de woorden "het   Departement Onderwijs en Vorming" telkens vervangen door de woorden "de bevoegde   dienst van de Vlaamse Gemeenschap".<BR>
+
+### ART. III.69.
+
+<P>In hetzelfde decreet wordt een artikel 27/1 ingevoegd, dat luidt als volgt   :<BR>« Art. 27/1. In het deeltijds beroepssecundair onderwijs kan de wekelijkse   lessentabel, de vakken moderne vreemde talen niet meegerekend, voor maximaal 20   % worden aangeboden in het Frans, Engels of Duits.<BR></P>  <P>Het aanbod, vermeld in het eerste lid, kan worden georganiseerd op voorwaarde   dat :<BR>1° de jongere de mogelijkheid heeft om alle niet-taalvakken in het   Nederlands in het centrum te volgen;<BR>2° een jongere slechts CLIL kan volgen,   indien de betrokken personen er schriftelijk en expliciet voor kiezen het   CLIL-traject gedurende het volledige schooljaar te volgen en na positief advies   van de klassenraad dat ten minste is gebaseerd op voldoende kennis en beheersing   door de jongere van de onderwijstaal;<BR>3° het aanbod voldoet aan de door de   Vlaamse Regering bepaalde kwaliteitsstandaard. De kwaliteitsstandaard omvat   enkel voorwaarden op het vlak van :<BR>a) de competenties van het personeel dat   deze lessen zal geven op het vlak van de CLIL-methodiek in relatie tot het vak   zelf;<BR>b) de vereiste kennis van de doeltaal van de personeelsleden;<BR>c)   communicatie met ouders en jongeren; met de expliciete keuzemogelijkheid tussen   CLIL of niet-CLIL;<BR>d) de inpassing van dit aanbod in een coherent talenbeleid   zowel voor de onderwijstaal als vreemde talen, met formulering van expliciete   strategische doelstellingen;<BR>e) monitoring van de resultaten en de leerwinst   van de leerlingen in het vak/onderwerp, in de doeltaal en in het   Standaardnederlands;<BR>f) de te volgen stappen die een school moet ondernemen   die een CLIL-project wil organiseren (beginsituatieanalyse, communicatie, doelen   formuleren, actieplan opstellen en actieplan operationaliseren);<BR>4° het   centrum kan het aanbod slechts effectief organiseren, als ze beschikt over   personeelsleden die op het ogenblik van de organisatie beantwoorden aan de   voorwaarden van 3°, a) en b). Daarbij moet ze rekening houden met de rechten van   de personeelsleden die vast benoemd zijn of tijdelijk aangesteld zijn voor   doorlopende duur in het vak dat ze wil aanbieden in het Frans, Engels of Duits.   Om het aanbod te organiseren mag het centrum een personeelslid dat vast benoemd   is voor het vak dat ze in het Frans, Engels of Duits wil aanbieden niet ter   beschikking stellen wegens ontstentenis van betrekking. Het centrum mag ook de   opdracht van een tijdelijk personeelslid dat voor doorlopende duur is aangesteld   in het vak dat ze in het Frans, Engels of Duits wil aanbieden niet verminderen   of beëindigen om het aanbod te organiseren. Dit laatste geldt niet als het   tijdelijk personeelslid wel voldoet aan de voorwaarden van 3°, a) en b), maar   het aanbod weigert om het vak in het Frans, Engels of Duits te geven;<BR>5° het   centrum ervoor zorgt dat de kennis van de onderwijstaal bij de jongeren   prioritair blijft en dat het Nederlandstalig karakter van het centrum behouden   blijft;<BR>6° voorafgaand een plan wordt opgemaakt dat door de bevoegde dienst   van de Vlaamse Gemeenschap is goedgekeurd. » .<BR></P>
 
 ### ART. III.70.
 
@@ -333,6 +477,10 @@ In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 9 juli   2010
 ### ART. III.71.
 
 <P>In hetzelfde decreet wordt een artikel 28bis ingevoegd, dat luidt als volgt   :<BR>« Art. 28bis. In het deeltijds beroepssecundair onderwijs kunnen stages   worden georganiseerd.<BR></P>  <P>Een leerlingenstage is gebaseerd op een leerlingenstage-overeenkomst gesloten   tussen het centrum voor deeltijds beroepssecundair onderwijs, de stagegever en   de betrokken personen.<BR></P>  <P>Het centrum voor deeltijds beroepssecundair onderwijs draagt de   eindverantwoordelijkheid voor :<BR>1° de keuze van de stagegever;<BR>2° de   vaststelling van de stage-activiteiten;<BR>3° de begeleiding en beoordeling van   de leerling-stagiair, ermee rekening houdend dat de jongere tijdens de stage   wordt begeleid door een personeelslid van het centrum voor deeltijds   beroepssecundair onderwijs dat continu op de stageplaats aanwezig is.<BR></P>  <P>Elke leerlingenstage is onbezoldigd.<BR></P>  <P>De Vlaamse Regering kan de organisatie van en de minimale kwaliteitskenmerken   voor leerlingenstages nader bepalen. » .<BR></P>
+
+### ART. III.72.
+
+<P>In hetzelfde decreet wordt een artikel 31/1 ingevoegd, dat luidt als volgt   :<BR>« Art. 31/1. In de leertijd kan de wekelijkse lessentabel, de vakken   moderne vreemde talen niet meegerekend, voor maximaal 20 % worden aangeboden in   het Frans, Engels of Duits.<BR></P>  <P>Het aanbod, vermeld in het eerste lid, kan worden georganiseerd op voorwaarde   dat :<BR>1° de jongere de mogelijkheid heeft om alle niet-taalvakken in het   Nederlands in het centrum te volgen;<BR>2° een jongere slechts CLIL kan volgen,   indien de betrokken personen er schriftelijk en expliciet voor kiezen het   CLIL-traject gedurende het volledige schooljaar te volgenen na positief advies   van het ter zake bevoegd orgaan dat ten minste is gebaseerd op voldoende kennis   en beheersing door de jongere van de onderwijstaal;<BR>3° het aanbod voldoet aan   de door de Vlaamse Regering bepaalde kwaliteitsstandaard. De kwaliteitsstandaard   omvat enkel voorwaarden op het vlak van :<BR>a) de competenties van het   personeel dat deze lessen zal geven op het vlak de CLIL-methodiek in relatie tot   het vak zelf;<BR>b) de vereiste kennis van de doeltaal van de   personeelsleden;<BR>c) communicatie met ouders en jongeren; met de expliciete   keuzemogelijkheid tussen CLIL of niet-CLIL;<BR>d) de inpassing van dit aanbod in   een coherent talenbeleid zowel voor de onderwijstaal als vreemde talen, met   formulering van expliciete strategische doelstellingen;<BR>e) monitoring van de   resultaten en de leerwinst van de leerlingen in het vak/onderwerp, in de   doeltaal en in het Standaardnederlands;<BR>f) de te volgen stappen die een   school moet ondernemen die een CLIL-project wil organiseren   (beginsituatieanalyse, communicatie, doelen formuleren, actieplan opstellen en   actieplan operationaliseren);<BR>4° het centrum er voor zorgt dat de kennis van   de onderwijstaal bij de jongeren prioritair blijft en dat het Nederlandstalig   karakter van het centrum behouden blijft;<BR>5° voorafgaand een plan wordt   opgemaakt dat door de bevoegde dienst van de Vlaamse Gemeenschap is goedgekeurd.   » .<BR></P>
 
 ### ART. III.73.
 
@@ -748,6 +896,14 @@ In artikel II.24, § 1, van hetzelfde decreet, gewijzigd bij het decreet   van 1
 
 In hetzelfde decreet wordt aan artikel II.37 een vierde lid toegevoegd,   dat luidt als volgt :<BR>« De uitspraak van de Raad wordt bij het secretariaat   ter beschikking gesteld van de partijen op de eerstvolgende werkdag na de   zitting, behoudens een andersluidende beslissing van de Raad. Deze   terbeschikkingstelling geldt als enige kennisgeving van de uitspraak aan alle   partijen. De uitspraak van de Raad wordt ook nog elektronisch meegedeeld aan de   partijen op de eerste werkdag volgend op de zitting van de Raad, behoudens een   andersluidende beslissing van de Raad. » .<BR>
 
+### ART. V.71.
+
+<P>In artikel II.48 van hetzelfde decreet wordt paragraaf 2 vervangen door wat   volgt :<BR>« § 2. De studentenraad op het niveau van de instelling kan beslissen   dat participatiecommissies worden opgericht op het niveau van andere onderdelen   van de instelling. Ten minste voor wat betreft de adviesorganen op het   opleidingsniveau wordt studentenparticipatie geregeld zodat de studenten   minstens een derde van de stemmen binnen dit orgaan hebben. Wanneer onvoldoende   studenten bereid gevonden worden om er deel van uit te maken, kan het   adviesorgaan toch functioneren.<BR></P>  <P>De samenstelling en de functioneringswijze van de participatiecommissies   worden vastgelegd in het in artikel II.66 bedoelde participatiereglement. »   .<BR></P>
+
+### ART. V.72.
+
+<P>In hetzelfde decreet wordt artikel II.68 vervangen door wat volgt :<BR>« Art.   II.68. § 1. Het bestuur maakt in samenspraak met de studentenraad een statuut   van studentenvertegenwoordiger op. Dat statuut bepaalt de nodige faciliteiten   voor de studentenvertegenwoordigers in interne en externe raden en organen om   een goede vertegenwoordiging te garanderen. Deze faciliteiten betreffen ten   minste de wijze waarop in functie van de werking van deze raden en organen   onderwijsactiviteiten en examens op flexibele wijze kunnen worden gepland en   afgeweken kan worden, indien dit de goede werking van de   studentvertegenwoordiging in het gedrang brengt, van de verplichte aanwezigheid,   werk- en examenvormen en indiendata voor bepaalde opleidingsonderdelen.<BR></P>  <P>§ 2. Het instellingsbestuur legt, in samenspraak met de studentenraad, een   lijst vast met de mandaten waarvoor het statuut, vermeld in paragraaf 1, van   toepassing is. Daarbij houdt zij ook rekening met mandaten op   supra-instellingsniveau.<BR></P>  <P>§ 3. Het instellingsbestuur stelt een ombudsdienst aan waar   studentenvertegenwoordigers terechtkunnen indien hun rechten niet worden   gerespecteerd. » .<BR></P>
+
 ### ART. V.73.
 
 Aan artikel II.93, § 1, van hetzelfde decreet, worden de volgende   wijzigingen aangebracht :<BR>1° in het eerste lid worden de woorden "door de   regeringscommissarissen bij de universiteiten en de commissarissen van de   Vlaamse Regering bij de hogescholen" vervangen door de woorden "door de bevoegde   dienst van de Vlaamse Gemeenschap";<BR>2° in het tweede lid worden de woorden   "aan de regeringscommissarissen en de commissarissen van de Vlaamse Regering"   vervangen door de woorden "aan de bevoegde dienst van de Vlaamse   Gemeenschap".<BR>
@@ -770,9 +926,33 @@ In titel III, hoofdstuk III, afdeling 3, van het decreet van 30 april 2004   bet
 
 In artikel 51, § 1, eerste lid, van hetzelfde decreet, gewijzigd bij het   decreet van 9 juli 2010, worden de woorden "zonder dat een inschrijving voor de   betrokken opleiding vereist is", opgeheven.<BR>
 
+### ART. V.78.
+
+In artikel 54 van hetzelfde decreet, gewijzigd bij het decreet van 16 juni   2006, wordt in de eerste zin het woord "mei" vervangen door het woord   "december".<BR>
+
 ### ART. V.79.
 
 Aan artikel 55 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die   luidt als volgt :<BR>« § 3. Wanneer een student wordt ingeschreven in een   opleiding met het oog op het uitreiken van een diploma in overeenstemming met   artikel 51, § 1, eerste lid, van dit decreet of in uitvoering van artikel 94, §   2, van het decreet van 4 april 2003 betreffende de herstructurering van het   hoger onderwijs in Vlaanderen, gebeurt de registratie zonder heffing van   studiegeld, onverminderd de toepassing van artikel 51, § 2. »   .<BR>
+
+### ART. V.80.
+
+<P>Artikel 56 van hetzelfde decreet, gewijzigd bij de decreten van 20 mei 2005,   14 maart 2008 en 9 juli 2010, wordt vervangen door wat volgt :<BR>« Art. 56. §   1. Het studiegeld bedraagt voor studenten die in een academiejaar een   inschrijving nemen onder diploma- of creditcontract :<BR>1° voor het vast   gedeelte : 58 euro, en;<BR>2° voor het variabel gedeelte : 8,7 euro per   opgenomen studiepunt.<BR></P>  <P>§ 2. Een hogeschool of universiteit kan aan een student een bijkomend   studiegeld vragen voor de studiepunten waarvoor de student op het ogenblik van   de inschrijving geen toereikend leerkrediet heeft. Dit bijkomend   inschrijvingsgeld kan ten hoogste 10 euro per opgenomen studiepunt   bedragen.<BR></P>  <P>Onder leerkrediet wordt begrepen het leerkrediet zoals bepaald in hoofdstuk   IV van het decreet van 14 maart 2008 betreffende de financiering van de werking   van de hogescholen en de universiteiten in Vlaanderen. » .<BR></P>
+
+### ART. V.81.
+
+<P>Artikel 57 van hetzelfde decreet, gewijzigd bij de decreten van 16 juni 2006,   14 maart 2008 en 4 juli 2008, wordt vervangen door wat volgt :<BR>« Art. 57. §   1. Voor beurstariefstudenten die in een academiejaar een inschrijving nemen,   bedraagt het studiegeld : <BR>1° voor het vast gedeelte : 58 euro, en;<BR>2°   voor het variabel gedeelte : 0,7 euro per opgenomen studiepunt.<BR></P>  <P>Voor bijna-beursstudenten die in een academiejaar een inschrijving nemen,   bedraagt het studiegeld :<BR>1° voor het vast gedeelte : 58 euro, en;<BR>2° voor   het variabel gedeelte : 5,4 euro per opgenomen studiepunt.<BR></P>  <P>§ 2. Studenten die het laatste jaar secundair onderwijs volgen en die met een   creditcontract voor maximaal 10 studiepunten ingeschreven zijn in het hoger   onderwijs, betalen 50 % van het vast en variabel gedeelte van het studiegeld van   een beurstarief student. » .<BR></P>
+
+### ART. V.82.
+
+In artikel 62, § 1, van hetzelfde decreet, gewijzigd bij het decreet van   14 maart 2008, worden punt 1° en punt 2° vervangen door wat volgt :<BR>« 1° voor   het vast gedeelte van het studiegeld : 58 euro;<BR>2° voor het variabele   gedeelte van het studiegeld : 8,7 euro per opgenomen studiepunt;   ».<BR>
+
+### ART. V.83.
+
+In artikel 65 van hetzelfde decreet wordt de zinsnede ", dan wel het   studiegeld vaststellen onder de in dit hoofdstuk bedoelde minimumgrenzen",   opgeheven.<BR>
+
+### ART. V.84.
+
+<P>Artikel 67 van hetzelfde decreet wordt vervangen door wat volgt :<BR>« Art.   67. § 1. De in dit hoofdstuk bedoelde bedragen worden jaarlijks aangepast aan de   evolutie van de gezondheidsindex. De referentiedatum voor de jaarlijkse   aanpassing is 1 september 2010.<BR></P>  <P>§ 2. De bedragen bedoeld in de artikelen 56 en 62 worden naar het   dichtstbijzijnde decimaal afgerond tot één cijfer na de komma. »   .<BR></P>
 
 ## Afdeling VIII Decreet betreffende de financiering van de werking van de hogescholen en de universiteiten
 
@@ -801,6 +981,10 @@ In artikel 38ter van hetzelfde decreet, ingevoegd bij het decreet van 13   juli 
 In artikel 59, tweede lid, van hetzelfde decreet, wordt na de tweede zin   een zin toegevoegd, die luidt als volgt :<BR>« Deze termijn kan door het college   worden hernieuwd. » .<BR>
 
 ## Afdeling IX Decreet betreffende de studentenvoorzieningen
+
+### ART. V.91.
+
+In het decreet van 29 juni 2012 betreffende de studentenvoorzieningen in   Vlaanderen wordt in artikel 17, het eerste lid vervangen door wat volgt :<BR>«   De stuvoraad is paritair samengesteld uit minstens acht leden. De helft van de   leden is verkozen door en onder de studenten, zoals bepaald in artikel 11.50, §   1, eerste lid, van het decreet van 19 maart 2004 betreffende de   rechtspositieregeling van de student, de medezeggenschap in het hoger onderwijs,   de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale   promotie in de hogescholen en de begeleiding van de herstructurering van het   hoger onderwijs in Vlaanderen, eventueel aangevuld met de leerlingen en   cursisten uit hbo5-opleidingen. De andere helft is aangewezen door het   instellingsbestuur, waarvan minstens één vertegenwoordiger van een Centrum voor   Volwassenenonderwijs of een secundaire school, waarvan de cursisten gebruik   kunnen maken van de studentenvoorzieningen, zoals beschreven in artikel 5 van   dit decreet. De stuvoraad streeft bij zijn samenstelling naar diversiteit.   Maximum twee derde van zijn leden mag van hetzelfde geslacht zijn. »   .<BR>
 
 ## Afdeling X Decreet betreffende de kwaliteitszorg en accreditatie
 
@@ -1079,3 +1263,15 @@ Artikel XI.8 van het decreet van 4 juli 2008 betreffende het onderwijs   XVIII, 
 Dit hoofdstuk treedt in werking op 1 september 2013.<BR>
 
 ## HOOFDSTUK XII Studiefinanciering
+
+### ART. XII.1.
+
+<P>...</P>
+
+### ART. XII.2.
+
+<P>...</P>
+
+### ART. XII.3.
+
+Dit hoofdstuk treedt in werking op 1 september 2014.<BR>

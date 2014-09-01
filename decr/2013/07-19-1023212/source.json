@@ -2,16 +2,16 @@
   "codex_id": 1023212,
   "title": "Decreet van 2013-07-19 betreffende het Onderwijs XXIII",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023212/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "ec393e8c6e1c36d8e914c7d7f96f4ba23972d66b6478e629cd0edb220d3a8121",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023212/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "885057104800c1366120f936d597b4246459dc97dddba184ac0f137fac415b0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023212&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-09-01",
   "made": "2013-07-19",
   "gazette": "2013-08-27",
   "numac": 2013035758,
   "document_start": "2013-09-01",
   "document_end": null,
-  "in_force": "2014-01-01",
-  "article_versions": 251,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-01",
+  "article_versions": 300,
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
