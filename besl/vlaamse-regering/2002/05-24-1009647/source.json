@@ -2,16 +2,16 @@
   "codex_id": 1009647,
   "title": "Besluit van de Vlaamse Regering van 2002-05-24 inzake de organisatie van onthaalonderwijs voor anderstalige nieuwkomers in het gewoon voltijds secundair onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009647/VolledigDocument?datum=2011-07-04",
-  "source_sha256": "741c450278f527c46810b8599e128b9a85c9e92a1b6f30fda404a5f0da54b6dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009647/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "efb05f51ef489af7869af34aeb610391901afbea0f2aeccf64a9765a85d930b4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009647&param=informatie",
-  "as_of": "2011-07-04",
+  "as_of": "2014-09-01",
   "made": "2002-05-24",
   "gazette": "2002-09-11",
   "numac": 2002036142,
   "document_start": null,
   "document_end": null,
-  "in_force": "2011-07-04",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2011-07-04; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
