@@ -24,6 +24,12 @@
 
 ## HOOFDSTUK 12. Wijzigingen van de Codex Hoger Onderwijs van 11 oktober 2013
 
+### ART 109.
+
+In artikel II.210, § 1, van dezelfde codex, gewijzigd bij het decreet van 19 december 2014, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"De bepalingen in het eerste en tweede lid gelden niet voor een inschrijving in een bachelor-na-bacheloropleiding en een master-na-masteropleiding.".
+
 ### ART 110.
 
 In artikel II.261, § 4, van dezelfde codex wordt het woord "met" vervangen door het woord "niet".
