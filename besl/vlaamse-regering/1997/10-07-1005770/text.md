@@ -28,7 +28,7 @@ Voor het bepalen van de tijd die als nuttige ervaring wordt erkend, wordt evenee
 
 ### ART. 6.
 
-De diensten die voldoen aan de voorwaarden bepaald in de artikelen 3, 4 en 5 kunnen slechts als nuttige ervaring erkend worden indien ze wekelijkse prestaties omvatten die ten minste de helft bedragen van een ambt met volledige prestaties.<br /><br />De in het vorige lid bedoelde onvolledige diensten worden als voltijds beschouwd.<br /><br />Diensten kunnen als nuttige ervaring worden erkend ongeacht de leeftijd van het betrokken personeelslid waarop ze gepresteerd werden.<br /><br />De in aanmerking komende diensten worden berekend per dag en geteld van datum tot datum. De som van het aantal dagen wordt gedeeld door dertig. Het quotiënt van deze deling vormt het aantal maanden die als nuttige ervaring kunnen worden erkend.<br /><br />Hierbij vormen twaalf maanden één jaar. Het resterend aantal dagen wordt desgevallend overgedragen naar een volgende periode.
+De diensten die voldoen aan de voorwaarden bepaald in de artikelen 3, 4 en   5 kunnen slechts als nuttige ervaring erkend worden indien ze wekelijkse   prestaties omvatten die ten minste de helft bedragen van een functie met   volledige prestaties.<BR><BR>De in het vorige lid bedoelde onvolledige diensten   worden als voltijds beschouwd.<BR><BR>Diensten kunnen als nuttige ervaring   worden erkend ongeacht de leeftijd van het betrokken personeelslid waarop ze   gepresteerd werden.<BR><BR>De in aanmerking komende diensten worden berekend per   dag en geteld van datum tot datum. De som van het aantal dagen wordt gedeeld   door dertig. Het quotiënt van deze deling vormt het aantal maanden die als   nuttige ervaring kunnen worden erkend.<BR><BR>Hierbij vormen twaalf maanden één   jaar. Het resterend aantal dagen wordt desgevallend overgedragen naar een   volgende periode.
 
 ### ART. 7.
 
@@ -110,4 +110,4 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/03_1.pdf#page=3">Bijlage   III</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/11/06_2.pdf#page=7">Bijlage   III</A></P>
