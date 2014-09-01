@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2014-08-01 tot wijziging van het ministerieel besluit van 27 november 2013 houdende vaststelling van de verboden lijst
+
+### Aanhef
+
+<P>De Vlaamse minister van Economie, Werk, Wetenschapsbeleid, Innovatie en   Sport,<BR></P>  <P>Gelet op het Antidopingdecreet van 25 mei 2012, artikel 9;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 19 oktober 2012 houdende   uitvoering van het decreet van 25 mei 2012 betreffende de preventie en   bestrijding van doping in de sport, artikel 9;<BR></P>  <P>Gelet op het ministerieel besluit van 27 november 2013 houdende vaststelling   van de verboden lijst;<BR></P>  <P>Gelet op het verzoek om spoedbehandeling, gemotiveerd door de omstandigheid   dat, rekening houdend met de aanpassing van de verboden lijst 2014 door het WADA   met ingang van 1 september 2014, de aanpassing van de oorspronkelijke lijst,   vastgesteld bij het ministerieel besluit van 27 november 2013, spoedeisend is in   het kader van de internationale strijd tegen doping; dat, overeenkomstig artikel   9 van het voormelde besluit van de Vlaamse Regering, de Vlaamse minister de   lijst die in de Vlaamse Gemeenschap van toepassing is, minstens jaarlijks moet   aanpassen aan de internationaal erkende lijst; dat het nodig is, in het kader   van de internationale harmonisering, nagestreefd door de Vlaamse Regering in de   strijd tegen doping, dat de lijst wordt aangepast, dat de directeur-generaal van   UNESCO op 2 juni 2014 alle staten die partij zijn bij het internationaal verdrag   van 19 oktober 2005 tegen doping in de sport, op de hoogte heeft gebracht van de   gewijzigde verboden lijst 2014, opgesteld door het WADA, en dat is vastgesteld   dat geen twee derde van de staten bezwaar heeft aangetekend binnen 45 dagen na   die kennisgeving, dat het noodzakelijk is de betrokkenen tijdig op de hoogte te   brengen van de nieuwe aangepaste verboden lijst;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 16 juni   2014;<BR></P>  <P>Gelet op advies 56.596/1/V van de Raad van State, gegeven op 30 juli 2014,   met toepassing van artikel 84, § 1, eerste lid, 3°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+&nbsp;In artikel 1, § 3, 2°, a), van het ministerieel besluit van 27   november 2013 houdende vaststelling van de verboden lijst worden tussen de   woorden "hypoxie-induceerbare factor (HIF) stabilisatoren" en de woorden ",   methoxy polyethyleen glycol-epoëtine beta (CERA)," de woorden "en activatoren   (bv. xenon, argon)" ingevoegd.<BR>
+
+### ART. 2.
+
+Dit besluit treedt in werking op 1 september 2014.<BR>
