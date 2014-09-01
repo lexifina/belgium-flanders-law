@@ -10,6 +10,14 @@
 
 ## Afdeling II Leren en werken
 
+### ART. III.24.
+
+Artikel   68 van hetzelfde decreet wordt opgeheven.
+
+### ART. III.25.
+
+Artikel   79 van hetzelfde decreet wordt opgeheven.
+
 ## Afdeling III Inwerkingtreding
 
 ## HOOFDSTUK IV Hoger onderwijs
@@ -83,6 +91,22 @@ In   dezelfde codex worden de artikelen 173, 174, 175 en 176 vernummerd tot de  
 ## Afdeling II Ouderkoepelverenigingen
 
 ## Afdeling III Decreet betreffende de centra voor leerlingenbegeleiding
+
+### ART. VII.14.
+
+Aan   artikel 86, § 2, van hetzelfde decreet wordt een tweede lid toegevoegd, dat   luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   toewijzing van omkaderingsgewichten vermeld in paragraaf 1 mag er niet toe   leiden dat een of meer personeelsleden ter beschikking gesteld worden wegens   ontstentenis van betrekking, tenzij de terbeschikkinggestelde personeelsleden   voor de hele verdere duur van het schooljaar in een centrum van hetzelfde   bestuur overeenkomstig de geldende reglementering kunnen worden gereaffecteerd   of wedertewerkgesteld.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. VII.15.
+
+Aan   artikel 88, § 2, van hetzelfde decreet, vervangen bij het decreet van 14   februari 2003 en gewijzigd bij het decreet van 17 juni 2011, wordt een vierde   lid toegevoegd, dat luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   overdracht van omkaderingsgewichten mag er ook niet toe leiden dat een of meer   personeelsleden ter beschikking gesteld worden wegens ontstentenis van   betrekking, tenzij de terbeschikkinggestelde personeelsleden voor de hele   verdere duur van het schooljaar in een centrum van hetzelfde bestuur   overeenkomstig de geldende reglementering kunnen worden gereaffecteerd of   wedertewerkgesteld.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. VII.16.
+
+Aan   artikel 90, § 2, van hetzelfde decreet, gewijzigd bij de decreten van 7 juli   2006 en 17 juni 2011, wordt een tweede lid toegevoegd, dat luidt als   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   overdracht van omkaderingsgewichten mag er ook niet toe leiden dat een of meer   personeelsleden ter beschikking gesteld worden wegens ontstentenis van   betrekking, tenzij de terbeschikkinggestelde personeelsleden voor de hele   verdere duur van het schooljaar in een centrum van hetzelfde bestuur   overeenkomstig de geldende reglementering kunnen worden gereaffecteerd of   wedertewerkgesteld.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. VII.17.
+
+Aan   artikel 92, § 3, van hetzelfde decreet, wordt een tweede lid toegevoegd, dat   luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   overdracht van omkaderingsgewichten mag er ook niet toe leiden dat een of meer   personeelsleden ter beschikking gesteld worden wegens ontstentenis van   betrekking, tenzij de terbeschikkinggestelde personeelsleden voor de hele   verdere duur van het schooljaar in een centrum van hetzelfde bestuur   overeenkomstig de geldende reglementering kunnen worden gereaffecteerd of   wedertewerkgesteld.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling IV ICT-coördinatie
 
