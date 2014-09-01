@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024440,
+  "title": "Decreet van 2014-04-04 houdende diverse maatregelen betreffende de rechtspositie van leerlingen in het basis- en secundair onderwijs en betreffende de participatie op school",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024440/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "9236f07db3cd78e1abff748031dc276a3ff2ee90b673c34b0fb7b01158f0877e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024440&param=informatie",
+  "as_of": "2014-09-01",
+  "made": "2014-04-04",
+  "gazette": "2014-08-20",
+  "numac": 2014035565,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2014-09-01",
+  "article_versions": 78,
+  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
