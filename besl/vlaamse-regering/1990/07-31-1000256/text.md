@@ -8,7 +8,7 @@
 
 ### ART. 2.
 
-§ 1. De bepalingen van dit besluit zijn van toepassing op:<br />a) de leden van het bestuurs- en onderwijzend personeel, van het ondersteunend personeel en van het opvoedend hulppersoneel van de instellingen voor buitengewoon basis- en secundair onderwijs met volledig leerplan, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap;<br />b) de leden van het paramedisch personeel, het sociaal personeel, het orthopedagogisch personeel, het psychologisch personeel en het medisch personeel van de instellingen voor buitengewoon basis- en secundair onderwijs, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap; <br />c) de leden van het opvoedend hulppersoneel van het tehuis van het Gemeenschapsonderwijs, dat zorgt voor de opname van jongeren in het kader van de hulp- en bijstandsregeling; <br />d) de leden van het opvoedend hulppersoneel van de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap; <br />e) de leden van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel, het paramedisch personeel, het sociaal, het medisch en het psychologisch personeel van de medisch-pedagogische instituten, de opvangcentra, semi-internaten, en de internaten van de instituten van het buitengewoon secundair onderwijs van het Gemeenschapsonderwijs, georganiseerd door de Vlaamse Gemeenschap. <br /><br />§ 2. ... <br /><br />§ 3. Dit besluit is niet van toepassing op:<br />1° de leermeesters godsdienst en de godsdienstleraars;<br />2° de personeelsleden, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 21 december 1994 betreffende de bekwaamheidsbewijzen, de salarisschalen, het prestatiestelsel en de bezoldigingsregeling in het buitengewoon secundair onderwijs van opleidingsvorm 4.<br />3° ...
+§ 1. De bepalingen van dit besluit zijn van toepassing op:<BR>a) de leden   van het bestuurs- en onderwijzend personeel, van het beleids- en ondersteunend   personeel, van het ondersteunend personeel en van het opvoedend hulppersoneel   van de instellingen voor buitengewoon basis- en secundair onderwijs met volledig   leerplan, georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap;<BR>b) de   leden van het paramedisch personeel, het sociaal personeel, het orthopedagogisch   personeel, het psychologisch personeel en het medisch personeel van de   instellingen voor buitengewoon basis- en secundair onderwijs, georganiseerd of   gesubsidieerd door de Vlaamse Gemeenschap; <BR>c) ...; <BR>d) ...; <BR>e) de   leden van het bestuurs- en onderwijzend personeel, het opvoedend hulppersoneel,   het paramedisch personeel, het sociaal, het medisch en het psychologisch   personeel van de medisch-pedagogische instituten, de opvangcentra,   semi-internaten, en de internaten van de instituten van het buitengewoon   secundair onderwijs van het Gemeenschapsonderwijs, georganiseerd door de Vlaamse   Gemeenschap. <BR><BR>§ 2. ... <BR><BR>§ 3. Dit besluit is niet van toepassing   op:<BR>1° de leermeesters godsdienst en de godsdienstleraars;<BR>2° de   personeelsleden, vermeld in artikel 2 van het besluit van de Vlaamse Regering   van 21 december 1994 betreffende de bekwaamheidsbewijzen, de salarisschalen, het   prestatiestelsel en de bezoldigingsregeling in het buitengewoon secundair   onderwijs van opleidingsvorm 4.<BR>3° ...
 
 ### ART. 3.
 
@@ -144,7 +144,7 @@ Worden opgeheven voorzover zij bekwaamheidsbewijzen vaststellen wat de instellin
 
 ### ART. 19bis.
 
-<P>De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, deel   buitengewoon basisonderwijs, die bij dit besluit is gevoegd, treden in werking   op 1 januari 2014. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage I, deel buitengewoon secundair onderwijs, die bij dit besluit is   gevoegd, treden in werking op 1 september 2013.</P>
+<P>De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, die bij   dit besluit is gevoegd, treden in werking op 1 september 2014.</P>
 
 ### ART. 20.
 
@@ -156,4 +156,4 @@ Onverminderd het bepaalde in artikel 13, § 3 treedt dit besluit in werking op 1
 
 ### BIJLAGE I.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1.pdf#page=8">Bijlage 1   deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_2.pdf#page=1">Bijlage   1 deel 2</A><BR><BR>Met ingang van 1 januari 2014 wordt het deel buitengewoon   basisonderwijs als volgt aangepast:<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=28">Bijlage I   deel buitengewoon basisonderwijs</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/10/08_1.pdf#page=71">Bijlage   I.</A></P>
