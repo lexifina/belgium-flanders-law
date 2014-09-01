@@ -24,6 +24,10 @@ Artikel 1, 2, 3 en 4 van het besluit van de Vlaamse Regering van 26 januari 2007
 
 Bijlage I tot en met XVI bij hetzelfde besluit worden opgeheven.<br /><br />
 
+### ART. 6.
+
+Bijlage 10, 11 en 12 bij dit besluit worden opgeheven op 1 september 2014.<br /><br />
+
 ### ART. 7.
 
 Dit besluit treedt in werking op 1 september 2012, met uitzondering van de bepalingen waarvan de inwerkingtreding bepaald wordt bij artikel 6.<br /><br />
@@ -70,15 +74,15 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 10
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_3.pdf#Page1#page=32" title=" Bijlage 10" target="_blank" class="pdf">Bijlage 10</a>
+...
 
 ### BIJLAGE 11
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_3.pdf#Page1#page=48" title=" Bijlage 11" target="_blank" class="pdf">Bijlage 11</a>
+...
 
 ### BIJLAGE 12
 
-<a href="http://www.ejustice.just.fgov.be/cgi/article.pl?caller=summary&numac=2012035245&pub_date=2012-04-06&language=nl&view_ann=1&urlimage=/mopdf/2012/04/06_1_3.pdf#Page1#page=60" title=" Bijlage 12" target="_blank" class="pdf">Bijlage 12</a>
+...
 
 ### BIJLAGE 13
 
