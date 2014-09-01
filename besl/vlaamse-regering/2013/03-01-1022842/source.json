@@ -2,16 +2,16 @@
   "codex_id": 1022842,
   "title": "Besluit van de Vlaamse Regering van 2013-03-01 tot tijdelijke erkenning van de opleiding master in de industriële wetenschappen : elektromechanica van de Artesis Hogeschool Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022842/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "bb998449178643e140cb062ad76117e59d4a1bde99dc84f70a6ac1f55c53e05e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022842/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "7b960454d3db13b5ffe7fa1275439ae2c6adcfe53c5880a03ac27baa4822bf2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022842&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2014-09-01",
   "made": "2013-03-01",
   "gazette": "2013-04-03",
   "numac": 2013035286,
   "document_start": "2013-09-01",
   "document_end": "2014-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2014-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
