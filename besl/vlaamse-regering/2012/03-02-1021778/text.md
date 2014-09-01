@@ -16,6 +16,10 @@ In de bijlage bij hetzelfde besluit, laatst gewijzigd bij het besluit van de Vla
 
 In de bijlage bij hetzelfde besluit, laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 oktober 2009, bekrachtigd bij het decreet van 23 april 2010, wordt, onder het opschrift « III. Vakgebonden eindtermen tweede graad - bso », punt B. « Project algemene vakken - bso », een punt 6. « Wetenschap en samenleving » toegevoegd, dat luidt als volgt : <br />« 6. Wetenschap en samenleving<br />Leerlingen kunnen : <br />35. onder begeleiding illustreren hoe natuurwetenschappen kunnen bijdragen tot een duurzame globale en lokale leefomgeving;<br />36. onder begeleiding natuurwetenschappelijke verschijnselen verbinden met toepassingen uit de leefwereld;<br />37. de invloed van omgevingsfactoren en micro-organismen op de menselijke gezondheid duiden ». <br /><br />
 
+### ART. 4.
+
+In de bijlage bij hetzelfde besluit, laatst gewijzigd bij het besluit van de Vlaamse Regering van 16 oktober 2009, bekrachtigd bij het decreet van 23 april 2010, wordt, onder het opschrift « VIII. Vakgebonden eindtermen derde graad - bso », punt B. « Project algemene vakken - bso », een punt 7. « Wetenschap en samenleving » toegevoegd, dat luidt als volgt : <br />« 7. Wetenschap en samenleving<br />Leerlingen kunnen : <br />33. illustreren hoe natuurwetenschappen kunnen bijdragen tot een duurzame globale en lokale leefomgeving;<br />34. natuurwetenschappelijke verschijnselen verbinden met toepassingen uit de leefwereld;<br />35. weergeven dat bij de voortplanting van de mens erfelijke kenmerken van generatie op generatie worden overgedragen;<br />36. wetenschappelijk onderbouwde argumenten geven voor biologische evolutie. ». <br /><br />
+
 ### ART. 5.
 
 De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.<br /><br />
