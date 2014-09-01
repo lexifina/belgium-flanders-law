@@ -2,16 +2,16 @@
   "codex_id": 1023412,
   "title": "Besluit van de Vlaamse Regering van 2013-10-25 tot vastlegging van de lijst van de bachelor- en masteropleidingen die per instelling worden aangeboden in het hoger onderwijs in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023412/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "57f97b4d0515b53a7da236abfe55993a6ee171935f19bcec2119adcaf902568e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023412/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "787fbca511e56773744b200675e890e97e7249ea6dd63351031326a1f5a309c2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023412&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2014-09-01",
   "made": "2013-10-25",
   "gazette": "2013-11-29",
   "numac": 2013036073,
   "document_start": "2013-09-01",
   "document_end": "2014-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2014-09-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
