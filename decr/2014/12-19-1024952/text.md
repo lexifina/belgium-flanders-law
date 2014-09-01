@@ -26,6 +26,10 @@ In het decreet van 20 december 2013 houdende bepalingen tot begeleiding   van de
 
 ## Afdeling 3. Volwassenenonderwijs
 
+### ART. 5.
+
+In het decreet van 15 juni 2007 betreffende het volwassenenonderwijs wordt   een artikel 196quinquies ingevoegd, dat luidt als volgt:<BR><BR>"Art.   196quinquies. § 1. Voor het schooljaar 2014-2015 wordt in uitvoering van artikel   29, § 1, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en   inburgeringsbeleid een eenmalige toekenning gedaan van werkingsmiddelen aan de   centra voor basiseducatie voor een totaalbedrag van 312.000 euro ten laste van   de begroting 2014.<BR><BR>§ 2. Deze bijkomende werkingsmiddelen worden op basis   van de referteperiode 2012-2013 verdeeld naar rato van het aantal unieke   cursisten Nederlands als tweede taal in een inburgeringstraject.<BR><BR>§ 3. De   middelen kunnen enkel aangewend worden voor de organisatie van de opleiding   Nederlands tweede taal richtgraad 1 van het leergebied Nederlands als tweede   taal van de basiseducatie voor de centra voor basiseducatie.".
+
 ## Afdeling 4. Contingent detacheringen
 
 ### ART. 6.
