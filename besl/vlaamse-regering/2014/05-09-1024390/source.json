@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024390,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot vaststelling van de maxima voor de toekenning van een bijkomend puntengewicht per vestigingsplaats aan de academische bachelor- en masteropleidingen in het studiegebied Audiovisuele en beeldende kunst van de LUCA School of Arts",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024390/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "d4c09a01bc124d9745943c1649860fe7fc9fc6bb9d4b48130c4775d8a846ee12",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024390&param=informatie",
+  "as_of": "2014-09-01",
+  "made": "2014-05-09",
+  "gazette": "2014-08-11",
+  "numac": 2014035655,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2014-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
