@@ -6,21 +6,20 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-Ter uitvoering van artikel 14 en 15, § 1&nbsp;van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mechanica-elektriciteit, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage I tot en met XXXIV en bijlage XXXVII, die als bijlagen bij dit besluit zijn gevoegd.<br>
+Ter uitvoering van artikel 14 en 15, § 1&nbsp;van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied Mechanica-elektriciteit, dat behoort tot het secundair onderwijs voor sociale promotie, vastgelegd in bijlage II tot en met XXXIV en bijlage XXXVII, die als bijlagen bij dit besluit zijn gevoegd.<br>
 &nbsp;
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd.<br /><br />
+...<BR>
 
 ### ART. 3.
 
-De modulaire opleidingen « Industrieel elektrotechnisch installateur BSO 3 », « Hersteller witgoed BSO 3 », « PLC technieker TSO 3 », « Technieker aandrijfsystemen TSO 3 », « Plaatlasser BSO 3 », « BMBE-lasser BSO 3 », in combinatie met « MIG/MAG-lasser BSO 3 », « BMBE-lasser BSO 3 », in combinatie met « TIG-lasser BSO 3 », « MIG/MAG-lasser BSO 3 », in combinatie met « TIG-lasser BSO 3 », « Lasser-Monteerder BSO 3 », « Buisfitter staal BSO 3 », in combinatie met « Buisfitter kunststof BSO 3 », « Onderhoudsmecanicien TSO 3 », « Draaier frezer BSO 3 », « Productieoperator verspaning TSO 3 », « Matrijzenmaker BSO 3 » en « Podiumtechnicus TSO 3 » leiden tot een diploma secundair onderwijs als aan de voorwaarden, vermeld in artikel 41, §4, 2° of 3°, van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, is voldaan.<br>
-&nbsp;
+<P>...</P>
 
 ### ART. 4.
 
-De hierna vermelde, conform artikel 75 van het decreet van 2 maart 1999 tot regeling van een aantal aangelegenheden van het volwassenenonderwijs, goedgekeurde structuurschema's kunnen bij wijze van overgangsmaatregel nog gedurende twee schooljaren gebruikt worden : <br />1° « Elektricien voor huishoudelijke installaties BSO 3 », goedgekeurd op 3 juni 1991;<br />2° « Elektricien voor industriële installaties BSO 3 », goedgekeurd op 3 november 1999;<br />3° « Audio-, video- en KTV-technieken TSO 3 », goedgekeurd op 31 mei 2001;<br />4° « Elektronica TSO3 », goedgekeurd op 22 december 2000;<br />5° « Elektromechanische onderhoudstechnieken TSO 3 », goedgekeurd op 22 december 2000;<br />6° « Slotenmakerij en beveiliging BSO 3 », goedgekeurd op 1 september 1998;<br />7° « Automatiseringstechnieken TSO 3 », goedgekeurd op 31 mei 2002;<br />8° « Lassen BSO 3 », goedgekeurd op 31 mei 2002;<br />9° « Pijpfitten BSO 3 », goedgekeurd op 31 mei 2002;<br />10 « Mechanica TSO 3 », goedgekeurd op 23 juni 1992.<br /><br />
+<P>...</P>
 
 ### ART. 5.
 
