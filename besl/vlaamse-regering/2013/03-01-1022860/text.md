@@ -16,6 +16,10 @@ In bijlage I van het decreet van 15 juni 2007 betreffende het   volwassenenonder
 
 Aan artikel 3, tweede lid, van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 17 oktober 2008 en gewijzigd bij de   besluiten van de Vlaamse Regering van 23 juli 2010, 1 juni 2012 en 22 juni 2012,   wordt de volgende zin toegevoegd : <BR>« De opleidingsprofielen vastgelegd in   bijlage XXXX tot en met XXXXII en de afwijkingen van het minimale aantal   lestijden per module in de opleidingen van het leergebied Nederlands zoals   vastgelegd in bijlagen XXVI worden uiterlijk tijdens het schooljaar 2016-2017   geëvalueerd. ».<BR>
 
+### ART. 4.
+
+Bijlage IV bij hetzelfde besluit wordt opgeheven.<BR>
+
 ### ART. 5.
 
 Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 17 oktober 2008, 24 juli 2009, 23 juli 2010, 1 juni 2012 en 22 juni 2012,   worden een bijlagen XXXX tot en met XXXXII toegevoegd, die als bijlagen 2 tot en   met 4 bij dit besluit zijn gevoegd.<BR>
