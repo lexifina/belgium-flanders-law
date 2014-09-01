@@ -31,11 +31,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1°de bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />2° groenten en fruit : producten van de sector verse groenten en fruit en de sector bananen, vermeld in verordening (EG) nr. 1234/2007 van de Raad van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (Integrale-GMO-verordening); <br />3° de ministers : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij, en de Vlaamse minister, bevoegd voor het gezondheidsbeleid;<br />4° de onderwijsinstelling : een pedagogisch geheel waar onderwijs georganiseerd wordt en waaraan door het Vlaams Ministerie van Onderwijs en Vorming een uniek instellingsnummer toegekend is;<br />5° de regionale strategie : de strategie opgesteld door het Vlaamse Gewest, vermeld in artikel 3 van de verordening; <br />6° de verordening : verordening (EG) nr. 288/2009 van de Commissie. <br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder : <BR>1°de   bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<BR>2° groenten en   fruit: de producten van de sector verse groenten en fruit en de sector bananen,   vermeld in verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad   van 17 december 2013 tot vaststelling van een gemeenschappelijke ordening van de   markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr.   922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de   Raad;<BR>3° de ministers : de Vlaamse minister, bevoegd voor het afzet- en   uitvoerbeleid van landbouw-, tuinbouw- en visserijproducten, en de Vlaamse   minister, bevoegd voor het gezondheidsbeleid;<BR>4° onderwijsinstelling: een   door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde instelling   voor basisonderwijs of buitengewoon secundair onderwijs;<BR>5° de regionale   strategie : de strategie opgesteld door het Vlaamse Gewest, vermeld in artikel 3   van de verordening; <BR>6° de verordening : verordening (EG) nr. 288/2009 van de   Commissie. <BR><BR>
 
 ### ART. 2.
 
-Afhankelijk van de kredieten op de begroting van de Vlaamse Gemeenschap die daartoe goedgekeurd zijn, kunnen de ministers een subsidie toekennen aan de door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstellingen van het basisonderwijs, vermeld in artikel 4 van het decreet Basisonderwijs van 25 februari 1997 die voldoen aan de voorwaarden, vermeld in artikel 3, 4 en 5 van dit besluit en in artikel 7 van de verordening.<br /><br />
+Afhankelijk van de kredieten op de begroting van de Vlaamse Gemeenschap   die daartoe goedgekeurd zijn, kunnen de ministers een subsidie toekennen aan de   onderwijsinstellingen&nbsp;die voldoen aan de voorwaarden, vermeld in artikel 3,   4 en 5 van dit besluit en in artikel 7 van de verordening.<BR><BR>
 
 ### ART. 3.
 
@@ -75,7 +75,7 @@ Een bezwaarschrift tegen de genomen beslissing tot schorsing, vermeld in artikel
 
 ### ART. 12.
 
-Met behoud van de toepassing van artikel 10 van het besluit, de bepalingen van het koninklijk besluit van 31 mei 1933 betreffende de verklaringen in verband met subsidies, vergoedingen en toelagen, worden overtredingen van de bepalingen van dit besluit opgespoord, vastgesteld en bestraft overeenkomstig de wet van 28 maart 1975 betreffende de handel in landbouw-, tuinbouw- en zeevisserijproducten.<br /><br />
+<P>...</P>
 
 ### ART. 13.
 
