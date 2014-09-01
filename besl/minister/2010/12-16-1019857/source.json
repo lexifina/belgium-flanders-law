@@ -2,16 +2,16 @@
   "codex_id": 1019857,
   "title": "Ministerieel besluit van 2010-12-16 houdende de inwerkingtreding van artikel 4 van het ministerieel besluit van 22 december 2008 tot vaststelling van de modellen van attest, van inburgeringscontract en van bijlage bij het inburgeringscontract in het kader van het inburgeringsbeleid",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019857/VolledigDocument?datum=2011-01-16",
-  "source_sha256": "13d4d2ffbb26b506ea8a65ff649d265a6ad1a9ae02cd413ccec61e628d3a538c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019857/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "f0993fe5014e4ea8abc22bcebc5ac57533c81d189e3a05e4709d289a177fff03",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019857&param=informatie",
-  "as_of": "2011-01-16",
+  "as_of": "2014-09-01",
   "made": "2010-12-16",
   "gazette": "2011-01-06",
   "numac": 2010206580,
   "document_start": "2011-01-16",
   "document_end": "2014-08-31",
-  "in_force": "2011-01-16",
+  "in_force": "2014-09-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2011-01-16; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }

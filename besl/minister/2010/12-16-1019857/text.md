@@ -6,4 +6,4 @@ De Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerism
 
 ### Enig artikel.
 
-Artikel 4 van het ministerieel besluit van 22 december 2008 tot vaststelling van de modellen van attest, van inburgeringscontract en van bijlage bij het inburgeringscontract in het kader van het inburgeringsbeleid treedt in werking op 1 februari 2011.<br /><br />
+...
