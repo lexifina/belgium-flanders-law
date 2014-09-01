@@ -2,16 +2,16 @@
   "codex_id": 1006595,
   "title": "Decreet van 1998-12-01 betreffende de centra voor leerlingenbegeleiding",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006595/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "d46ba0858ba617b95a13fb9a316b0d5f4c4e4dcd9392771c2867ea6363e4825a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006595/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "84cb54cb4cb3b19a854eca7be5e0c803f0592c9eaa4aa7b9773eff3c43877166",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006595&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2014-09-01",
   "made": "1998-12-01",
   "gazette": "1999-04-10",
   "numac": 1999035335,
   "document_start": null,
   "document_end": "2018-08-31",
-  "in_force": "2013-01-01",
+  "in_force": "2014-09-01",
   "article_versions": 212,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
