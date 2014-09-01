@@ -2,16 +2,16 @@
   "codex_id": 1023466,
   "title": "Besluit van de Vlaamse Regering van 2013-11-08 betreffende de subsidiëring van voortrajecten binnen het stelsel van leren en werken in de Vlaamse Gemeenschap [... (opgeh. BVR 7 juli 2017, art. 18, I: 1 september 2017)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023466/VolledigDocument?datum=2014-08-31",
-  "source_sha256": "99968b8cdb5a84064a127cfa9fffb9b81cccae63851e05638e3fb9c08d4fb961",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023466/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "004bb9322cdebcef158e6b5fc606c5794fb46d4ea0fa5c7860286e63ff90c1cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023466&param=informatie",
-  "as_of": "2014-08-31",
+  "as_of": "2014-09-01",
   "made": "2013-11-08",
   "gazette": "2013-12-13",
   "numac": 2013036130,
   "document_start": "2013-09-01",
   "document_end": "2016-08-31",
-  "in_force": "2014-08-31",
+  "in_force": "2014-09-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2014-08-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
