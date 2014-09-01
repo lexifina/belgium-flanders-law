@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024161,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot erkenning van de professioneel gerichte « bacheloropleiding bachelor in Idea & Innovation Management » als nieuwe opleiding van de Erasmushogeschool Brussel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024161/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "f8de1a10ade06deee5777d45fe50d73017db631d9a7e960c4f01d9fafc255ae4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024161&param=informatie",
+  "as_of": "2014-09-01",
+  "made": "2014-04-04",
+  "gazette": "2014-06-12",
+  "numac": 2014202797,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2014-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
