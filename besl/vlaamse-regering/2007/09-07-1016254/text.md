@@ -114,7 +114,7 @@ De aanvraag voor een toelage wordt ingediend door middel van een formulier dat t
 
 ### ART. 17.
 
-De meerderjarige leerling of de wettelijke vertegenwoordiger kan de dienst verzoeken de toelage geheel of gedeeltelijk uit te betalen aan een openbare instelling die de aanvrager begeleidt ter bescherming van diens financiële belangen.<br /><br />De schooltoelage voor een gehuwde, zelfstandige of alleenstaande leerling, wordt steeds uitbetaald aan de leerling zelf.<br />
+De meerderjarige leerling of de wettelijke vertegenwoordiger kan de dienst   verzoeken de toelage geheel of gedeeltelijk uit te betalen aan een openbare   instelling die de aanvrager begeleidt ter bescherming van diens financiële   belangen.<BR><BR>De schooltoelage voor een gehuwde, zelfstandige of   alleenstaande leerling, wordt steeds uitbetaald aan de leerling zelf.<BR><BR>De   schooltoelage voor pleegkinderen of pleeggasten die op 31 december van het   schooljaar in kwestie langer dan een jaar onafgebroken bij hetzelfde pleeggezin   verblijven als vermeld in artikel 33, tweede lid, van het decreet, wordt   uitbetaald aan deze pleegouder.<BR>
 
 ## Afdeling 2. Terugvordering
 
