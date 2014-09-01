@@ -2,16 +2,16 @@
   "codex_id": 1022782,
   "title": "Besluit van de Vlaamse Regering van 2013-02-22 tot tijdelijke erkenning van de opleiding master in de industriële wetenschappen : elektromechanica van de Erasmushogeschool Brussel",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022782/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "b6e0c4edc90059fe18e591fe321664113aa288c940b655aa546c67b62e95b94d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022782/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "b4c07136e0aaa285951ad8a49b45ab8ef1832e0b3a4ec8ae9510a8c7913ec4f3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022782&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2014-09-01",
   "made": "2013-02-22",
   "gazette": "2013-03-12",
   "numac": 2013035235,
   "document_start": "2013-09-01",
   "document_end": "2014-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2014-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }

@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-De opleiding master in de industriële wetenschappen : elektromechanica van   de Erasmushogeschool Brussel krijgt een tijdelijke erkenning.
+...
 
 ### ART. 2.
 
-De tijdelijk erkenning, vermeld in artikel 1, geldt voor een periode van   één jaar, namelijk voor het academiejaar 2013-2014.
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.
+...
