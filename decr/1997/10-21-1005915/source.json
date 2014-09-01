@@ -2,16 +2,16 @@
   "codex_id": 1005915,
   "title": "Decreet van 1997-10-21 betreffende het natuurbehoud en het natuurlijk milieu",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005915/VolledigDocument?datum=2014-07-17",
-  "source_sha256": "9466782e6eb0f7fc53e2e60f62cc741776f028b11c7e356cbaae357339a842b3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005915/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "cbab717fbdc0198896d90af2f7e9bf3c3b476fd9b7ddeb360a0921c75196d54e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005915&param=informatie",
-  "as_of": "2014-07-17",
+  "as_of": "2014-09-01",
   "made": "1997-10-21",
   "gazette": "1998-01-10",
   "numac": 1998036441,
   "document_start": "1998-01-20",
   "document_end": null,
-  "in_force": "2014-07-17",
+  "in_force": "2014-09-01",
   "article_versions": 96,
-  "record_form": "consolidated version as in force on 2014-07-17; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
