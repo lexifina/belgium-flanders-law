@@ -275,7 +275,7 @@ De Vlaamse minister van Onderwijs is belast met de uitvoering van dit besluit.<b
 
 ### BIJLAGE I.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_3.pdf#page=75">Bijlage   1 deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_4.pdf#page=1">Bijlage   1 deel 2</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_3.pdf#page=75">Bijlage   1 deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/08/19_1_4.pdf#page=1">Bijlage   1 deel 2</A><BR><BR>Met ingang van 1 september 2014 worden de volgende   wijzigingen aangebracht:<BR><BR>1° bij de bekwaamheidsbewijzen voor het kunstvak   Begeleidingspraktijk worden in het opmerkingenveld met de opsomming van de   benamingen de woorden "of beiaard" vervangen door de woorden ", beiaard,   bandoneon, saz of ud";<BR>2° bij de bekwaamheidsbewijzen voor het kunstvak   Instrument wordt in het opmerkingenveld met de opsomming van de benamingen   :<BR>a) tussen het woord "altviool" en het woord "bariton" het woord "bandoneon"   ingevoegd;<BR>b) tussen het woord "saxofoon" en het woord "sopraansaxofoon" het   woord "saz" ingevoegd;<BR>c) tussen het woord "tuba" en het woord "viool" het   woord "ud" ingevoegd.<BR><BR>(Zie BVR 3 oktober 2014, art. 27, B.S 18 november   2014)</P>
 
 ### BIJLAGE II.
 
