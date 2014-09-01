@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024650,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 betreffende de uitbreiding van de onderwijsbevoegdheid van centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024650/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "4a68c8acebc1a8ae145caa623d3c555083af699355f5dd78a3bf495890462025",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024650&param=informatie",
+  "as_of": "2014-09-01",
+  "made": "2014-06-20",
+  "gazette": "2014-10-10",
+  "numac": 2014035999,
+  "document_start": "2014-09-01",
+  "document_end": null,
+  "in_force": "2014-09-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
