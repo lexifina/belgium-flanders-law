@@ -186,6 +186,10 @@ Aan artikel 4, § 1, eerste lid, van het decreet van 7 mei 2004 betreffende de i
 
 In artikel 26 van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp worden tussen de woorden "aan wie residentiële jeugdhulpverlening wordt geboden," en "heeft, ten laste van de Vlaams overheid" de volgende woorden ingevoegd :<br />« met uitzondering van pleegzorg als bedoeld in artikel 2, 11°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg,".<br /><br />
 
+### ART. 38.
+
+Aan artikel 33 van het decreet van 8 juni 2007 betreffende de studiefinanciering van de Vlaamse Gemeenschap wordt een tweede lid toegevoegd, dat luidt als volgt :<br />« In afwijking van het eerste lid heeft een pleegkind of een pleeggast, als bedoeld in artikel 2, 8° en 10°, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg recht op een volledige toelage op voorwaarde dat de pleegzorg in het pleeggezin langer dan één jaar duurt. ».<br /><br />
+
 ### ART. 39.
 
 Het opschrift van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin wordt vervangen door wat volgt :<br />« Decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Weizijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzor-gers".<br /><br />
