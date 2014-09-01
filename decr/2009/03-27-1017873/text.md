@@ -40,6 +40,10 @@ Het Vlaamse Gewest voorziet jaarlijks in een bijzondere dotatie aan de VLM voor 
 
 De compensaties voor gebruikersschade kunnen worden toegekend naar aanleiding van ruimtelijke uitvoeringsplannen, plannen van aanleg of beschikkingen tot oplegging van een erfdienstbaarheid tot openbaar nut die vanaf 1 januari 2008 definitief zijn vastgesteld of aangenomen.<br /><br />De vervaltermijn zoals vermeld in artikel 8, § 2, neemt slechts een aanvang vanaf 1 januari 2009.
 
+### ART. 10/1.
+
+Als het perceel is opgenomen in een grondruilplan als vermeld in artikel   2.1.65 van het decreet van 28 maart 2014 betreffende de landinrichting is geen   gebruikerscompensatie van toepassing op dat perceel.
+
 ### ART. 11.
 
 Aan artikel 38, § 1, eerste lid, van het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening, gewijzigd bij decreet van 21 november 2003, wordt een punt 8° toegevoegd, dat luidt als volgt :<br />« 8° in voorkomend geval, een register, al dan niet grafisch, van de percelen waarop een bestemmingswijziging wordt doorgevoerd of een overdruk wordt toegevoegd die aanleiding kan geven tot gebruikerscompensatie, als vermeld, in het decreet van 27 maart 2009 houdende vaststelling van een kader voor de gebruikerscompensatie bij bestemmingswijzigingen. »
