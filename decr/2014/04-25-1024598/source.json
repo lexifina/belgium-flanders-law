@@ -2,16 +2,16 @@
   "codex_id": 1024598,
   "title": "Decreet van 2014-04-25 betreffende het onderwijs XXIV",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024598/VolledigDocument?datum=2014-08-31",
-  "source_sha256": "74bd7b9f7c67eb2c1179b754b46f6f5f11fdaad32585c42946614a9fe6e098fd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024598/VolledigDocument?datum=2014-09-01",
+  "source_sha256": "e08e99ec0bae7de538e3f1f88080612906777fc017b3038138173d8ca13d4097",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024598&param=informatie",
-  "as_of": "2014-08-31",
+  "as_of": "2014-09-01",
   "made": "2014-04-25",
   "gazette": "2014-09-25",
   "numac": 2014035931,
   "document_start": "2014-09-01",
   "document_end": null,
-  "in_force": "2014-08-31",
-  "article_versions": 81,
-  "record_form": "consolidated version as in force on 2014-08-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-01",
+  "article_versions": 261,
+  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
 }
