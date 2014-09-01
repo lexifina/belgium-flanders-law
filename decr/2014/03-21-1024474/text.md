@@ -24,17 +24,49 @@ In artikel 35 van hetzelfde decreet, gewijzigd bij de decreten van 13 juli   200
 
 <P>In artikel 111 van hetzelfde decreet, gewijzigd bij het decreet van 22 juni   2007, wordt een § 3, § 4 en § 5 toegevoegd, die luiden als volgt:<BR>" § 3. In   aanvulling op § 1 en § 2 moet een schoolbestuur dat een nieuw type wil oprichten   een oprichtingsdossier indienen. Dit oprichtingsdossier moet ten minste voldoen   aan onderstaande kwaliteitsvoorwaarden:<BR>1° het schoolbestuur is   verantwoordelijk voor het indienen van het dossier na overleg binnen de   schoolraad en na overleg of na onderhandeling in het lokaal comité;<BR>2° het   dossier bevat een omgevingsanalyse die de noodzaak, de doelmatigheid en de   leefbaarheid van het programmatievoorstel motiveert. Bij de omgevingsanalyse   wordt, waar dit voor de betrokken schoolpopulatie relevant is, de link met   eventuele aangepaste begeleidingsmogelijkheden, met inbegrip van schoolexterne   begeleidingsmoge- lijkheden voor kinderen met bijkomende zorgbehoeften,   expliciet behandeld;<BR>3° de school moet beschikken over de vereiste   infrastructurele en materiële voorzieningen op gebied van toegankelijkheid en   hulpmiddelen nodig voor het nieuwe type;<BR>4° de reeds bestaande expertise of   de inspanningen rond professionalisering van het team met betrekking tot het   nieuwe type worden in het dossier weergegeven.<BR></P>  <P>De regering kan nadere regels bepalen over de inhoud en de vorm van het   oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld.<BR></P>  <P>§ 4. De oprichting vanaf 1 september van een nieuw type kan pas na een   gunstige beslissing van de regering.<BR></P>  <P>Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het   voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan   AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan   de Vlaamse Onderwijsraad bezorgt.<BR></P>  <P>In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1   september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot   uiterlijk 1 juli 2014.<BR></P>  <P>De regering neemt deze beslissing na advies van de Vlaamse Onderwijsraad over   de gegrondheid van de lokale behoefte aan extra aanbod en na advies van AgODi en   de onderwijsinspectie.<BR></P>  <P>§ 5. De scholen voor buitengewoon basisonderwijs die tijdens het schooljaar   2014-2015 een aanbod type 1 of type 8 aanboden, bieden vanaf 1 september 2015   het basisaanbod aan als vermeld in artikel 10, § 1, 1°. Dit wordt niet beschouwd   als een herstructurering.".<BR></P>
 
+### ART. II.17.
+
+In artikel 112bis van hetzelfde decreet, ingevoegd bij het decreet van 8   mei 2009 en laatst gewijzigd bij decreet van 5 juli 2013, worden de woorden "en   2013-2014" vervangen door de woorden ", 2013-2014 en   2014-2015".<BR>
+
+### ART. II.19.
+
+In artikel 155, § 2, van hetzelfde decreet, ingevoegd bij het decreet van   7 juli 2006 en het laatst gewijzigd bij decreet van 5 juli 2013, wordt in het   eerste lid de zinsnede "voor het schooljaar 2013-2014" vervangen door de   zinsnede "voor het schooljaar 2014- 2015.".<BR>
+
 ## HOOFDSTUK III Secundair onderwijs
 
 ## Afdeling 1 Codex Secundair Onderwijs
+
+### ART. III.1.
+
+In artikel 2, § 3, van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° in het eerste lid worden na het woord "onderwijs"   de woorden ", met uitzondering van artikel 357, dat niet van toepassing is op   het buitengewoon secundair onderwijs, maar enkel op het door de Vlaamse   Gemeenschap erkend, gefinancierd of gesubsidieerd voltijds gewoon secundair   onderwijs en het deeltijds beroepssecundair onderwijs" ingevoegd;<BR>2° er wordt   een tweede lid toegevoegd, dat luidt als volgt:<BR>"De artikelen 351 tot en met   356 gelden ook voor het door de Vlaamse Gemeenschap erkend, gefinancierd of   gesubsidieerd voltijds gewoon secundair onderwijs en het deeltijds   beroepssecundair onderwijs.".<BR>
+
+### ART. III.2.
+
+In artikel 3 van de Codex Secundair Onderwijs, het laatst gewijzigd bij   het decreet van19 juli 2013, worden de volgende wijzigingen aangebracht:<BR>1°   er wordt een punt 9° /1 ingevoegd, dat luidt als volgt:<BR>"9° /1 brede   basiszorg: fase in het zorgcontinuüm waarbij de school vanuit een visie op zorg   de ontwikkeling van alle leerlingen stimuleert en problemen tracht te voorkomen   door een krachtige leeromgeving te bieden, de leerlingen systematisch op te   volgen en actief te werken aan het verminderen van risicofactoren en aan het   versterken van beschermende factoren;";<BR>2° er wordt een punt 10° /2   ingevoegd, dat luidt als volgt:<BR>"10° /2 compenserende maatregelen:   maatregelen waarbij de school orthopedagogische of orthodidactische hulpmiddelen   aanbiedt, waaronder technische hulpmiddelen, waardoor de doelen van het   gemeenschappelijk curriculum of de doelen die na dispensatie voor de leerling   bepaald zijn, bereikt kunnen worden;";<BR>3° er wordt een punt 12° /1 ingevoegd,   dat luidt als volgt:<BR>"12° /1 differentiërende maatregelen: maatregelen   waarbij de school, binnen het gemeenschappelijk curriculum, een beperkte   variatie in het onderwijsleerproces aanbrengt om beter tegemoet te komen aan de   behoeften van individuele leerlingen of groepen van leerlingen;";<BR>4° er wordt   een punt 12° /2 ingevoegd, dat luidt als volgt:<BR>"12° /2 dispenserende   maatregelen: maatregelen waarbij de school doelen toevoegt aan het   gemeenschappelijk curriculum of de leerling vrijstelt van doelen van het   gemeenschappelijk curriculum en die, waar mogelijk, vervangt door gelijkwaardige   doelen, in die mate dat ofwel de doelen voor de studiebekrachtiging in functie   van de finaliteit voor het betreffende structuuronderdeel ofwel de doelen voor   het doorstromen naar het beoogde vervolgonderwijs of naar de arbeidsmarkt nog in   voldoende mate kunnen bereikt worden;";<BR>5° er wordt een punt 12° /3   ingevoegd, dat luidt als volgt:<BR>"12° /3   disproportionaliteit/disproportioneel: onredelijkheid van aanpassingen   aangetoond na een proces van afweging met toepassing van de criteria, als   vermeld in artikel 2, § 2 en § 3, van het Protocol van 19 juli 2007 betreffende   het begrip redelijke aanpassingen in België krachtens de wet van 25 februari   2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15   februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor   racismebestrijding;";<BR>6° er wordt een punt 14° /1 ingevoegd, dat luidt als   volgt:<BR>"14° /1 gemeenschappelijk curriculum: de goedgekeurde leerplannen die   ten minste herkenbaar de doelen bevatten die noodzakelijk zijn om de eindtermen   te bereiken of de ontwikkelingsdoelen na te streven en de schoolgebonden   planning voor het nastreven van de vakoverschrijdende eindtermen en   ontwikkelingsdoelen;";<BR>7° er wordt een punt 17° /3 ingevoegd, dat luidt als   volgt:<BR>"17° /3 leerling met specifieke onderwijsbehoeften: leerling met   langdurige en belangrijke participatieproblemen die te wijten zijn aan het   samenspel tussen:<BR>a) één of meerdere functiebeperkingen op mentaal,   psychisch, lichamelijk of zintuiglijk vlak en;<BR>b) beperkingen bij het   uitvoeren van activiteiten en;<BR>c) persoonlijke en externe factoren;";<BR>8°   er wordt een punt 34° /1 ingevoegd, dat luidt als volgt:<BR>"34° /1   preventorium: medische instelling die onder meer in residentieel verband   kuurmogelijkheden biedt aan jongeren waar buitengewoon onderwijs van type 5   gegeven wordt;";<BR>9° er wordt een punt 36° /1 ingevoegd, dat luidt als   volgt:<BR>"36° /1 remediërende maatregelen: maatregelen waarbij de school   effectieve vormen van aangepaste leerhulp verstrekt binnen het gemeenschappelijk   curriculum;";<BR>10° er wordt een punt 44° /1 ingevoegd, dat luidt als   volgt:<BR>"44° /1 uitbreiding van zorg: fase in het zorgcontinuüm waarbij de   school de maatregelen uit de fase van verhoogde zorg onverkort verderzet en het   centrum voor leerlingenbegeleiding een proces van handelingsgerichte diagnostiek   opstart. Het centrum voor leerlingenbegeleiding richt zich daarbij op een   uitgebreide analyse van de onderwijs- en opvoedingsbehoeften van de leerling en   op de ondersteuningsbehoeften van de leerkracht(en) en ouders met het oog op het   formuleren van adviezen voor het optimaliseren van het proces van afstemming van   het onderwijs- en opvoedingsaanbod op de zorgvraag van de leerling. Het centrum   voor leerlingenbegeleiding bepaalt in samenspraak met de school en de ouders   welke bijkomende inzet van middelen, hulp of expertise, hetzij ten aanzien van   de school, de leerling, al dan niet in zijn context, wense- lijk is alsook de   omvang en de duur daarvan;";<BR>11° er wordt een punt 45° /1 ingevoegd, dat   luidt als volgt:<BR>"45° /1 verhoogde zorg: fase in het zorgcontinuüm waarbij de   school extra zorg voorziet onder de vorm van remediërende, differentiërende,   compenserende of dispenserende maatregelen, afgestemd op de specifieke   onderwijsbehoeften van bepaalde leerlingen, en voorafgaand aan de fase van   uitbreiding van zorg;";<BR>12° er wordt een punt 47° /1 ingevoegd, dat luidt als   volgt:<BR>"47° /1 ziekenhuisschool: school voor buitengewoon secundair onderwijs   van type 5, opleidingsvorm 4, verbonden aan een universitair ziekenhuis of een   residentiële setting of een preventorium;";<BR>13° er wordt een punt 47° /2   ingevoegd, dat luidt als volgt:<BR>"47° /2 zorgcontinuüm: opeenvolging van de   fasen in de organisatie van de onderwijsomgeving van brede basiszorg, verhoogde   zorg en uitbreiding van zorg;".<BR>
+
+### ART. III.3.
+
+Het tweede lid van artikel 15, § 1, 14°, van de Codex Secundair Onderwijs   wordt vervangen door:<BR>"Dit punt is niet van toepassing op   ziekenhuisscholen.".<BR>
 
 ### ART. III.4.
 
 In deel III, titel 1, hoofdstuk 5, van de Codex Secundair Onderwijs worden   de volgende wijzigingen aangebracht:<BR>1° afdeling 1, bestaande uit de   artikelen 67 en 68, wordt opgeheven;<BR>2° afdeling 2 wordt afdeling 1;<BR>3°   afdeling 3 wordt afdeling 2;<BR>4° afdeling 4 wordt afdeling   3.<BR>
 
+### ART. III.5.
+
+&nbsp;In artikel 110/9, § 1, derde lid, van de Codex Secundair Onderwijs,   ingevoegd bij het decreet van 25 november 2011 en het laatst gewijzigd bij het   decreet van 19 juli 2013, worden de woorden "in artikel 11 van het koninklijk   besluit van 28 juni 1978 houdende de omschrijving van de types en de organisatie   van het buitengewoon onderwijs" vervangen door de woorden "in artikel   257".<BR>
+
 ### ART. III.9.
 
 <P>In artikel 115, § 1, van de Codex Secundair Onderwijs, gewijzigd bij het   decreet van 21 december 2012, wordt het tweede lid vervangen door wat   volgt:<BR>"Aan de leerlingen, vermeld in artikel 252, § 1, b), worden jaarlijks   attesten van verworven bekwaamheden uitgereikt.<BR></P>  <P>Indien aan de leerlingen, vermeld in artikel 252, § 1, b), toch de reguliere   studiebewijzen worden gegeven, zal voorafgaand aan de uitreiking van deze   studiebewijzen, de overeenkomst van de doelen opgenomen in het individuele   curriculum met de leerplandoelen van het overeenkomstige structuuronderdeel   voorgelegd moeten worden aan de onderwijsinspectie.".<BR></P>
+
+### ART. III.10.
+
+&nbsp;In artikel 116, 3°, van de Codex Secundair Onderwijs worden de   woorden "artikel 294, § 1, en in artikel 10 van het koninklijk besluit van 28   juni 1978 houdende de omschrijving van de types en de organisatie van het   buitengewoon onderwijs en vaststellende de toelatings- en behoudsvoorwaarden in   de diverse niveaus van het buitengewoon onderwijs" vervangen door de woorden   "artikel 291 tot en met 295".<BR>
+
+### ART. III.11.
+
+In artikel 117, § 2, van de Codex Secundair Onderwijs worden tussen de   woorden "een" en "ziekenhuis" de woorden "residentiële setting of een   universitair" ingevoegd.<BR>
 
 ### ART. III.12.
 
@@ -44,9 +76,93 @@ In artikel 118 van de Codex Secundair Onderwijs worden de volgende   wijzigingen
 
 <P>&nbsp;In deel 3, titel 2, hoofdstuk 5, van de Codex Secundair Onderwijs wordt   een artikel 123/1 ingevoegd, dat luidt als volgt:<BR>"Art. 123/1. § 1. Ouders   zijn verplicht ervoor te zorgen dat hun leerplichtig kind daadwerkelijk   onderwijs volgt, dit wil zeggen ingeschreven is in een school en er regelmatig   aanwezig is, of huisonderwijs volgt.<BR></P>  <P>Voor de leerplichtige van vreemde nationaliteit geldt dit vanaf de zestigste   dag na de inschrijving in het vreemdelingen- of in het   bevolkingsregister.<BR></P>  <P>§ 2. Indien het kind in de onmogelijkheid verkeert om onderwijs te volgen,   kan de onderwijsinspectie, op vraag van de ouders, beslissen tot een tijdelijke   of permanente vrijstelling van de leerplicht.".<BR></P>
 
+### ART. III.17.
+
+In artikel 253 van de Codex Secundair Onderwijs worden volgende   wijzigingen aangebracht:<BR>1° het eerste streepje wordt opgeheven;<BR>2° in het   voorlaatste streepje worden de woorden "in de ziekenhuisschool" vervangen door   de woorden "in de school van opleidingsvorm 4, type 5, verbonden aan een   universitair ziekenhuis of aan een residentiële setting";<BR>3° in het laatste   streepje wordt het woord "preventoriumschool" vervangen door de woorden "de   school van opleidingsvorm 4, type 5, verbonden aan een preventorium" en wordt de   zinsnede ", wanneer hij voldoet aan de bepalingen van artikel 10 van het   koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de   organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en   behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs"   opgeheven.<BR>
+
+### ART. III.18.
+
+In deel V, titel 1, van de Codex Secundair Onderwijs wordt het opschrift   van titel 1 vervangen door wat volgt: "Titel 1. Begrippen".<BR>
+
+### ART. III.19.
+
+Artikel 257 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 257. Voor de toepassing van dit deel V wordt verstaan   onder:<BR>1° klassenraad: geheel van leden van het bestuurs- en onderwijzend   personeel, het opvoedend hulppersoneel, het medisch, paramedisch, psychologisch,   orthopedagogisch en sociaal personeel die voorzien in het onderwijs en de   opvoeding van de leerlingen en de verantwoordelijkheid dragen voor de klas. De   klassenraad wordt voorgezeten door de directeur of zijn afgevaardigde;<BR>2°   pedagogische eenheid: leerlingen, behorende tot eenzelfde of tot verschillende   types van buitengewoon onderwijs, tijdelijk of permanent gegroepeerd om   opvoeding en onderwijs te krijgen aangepast aan hun   onderwijsbehoeften.".<BR>
+
+### ART. III.20.
+
+Artikel 258 van de Codex Secundair Onderwijs wordt   opgeheven.<BR>
+
+### ART. III.22.
+
+<P>Artikel 260 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 260. De klassenraad, bijgestaan door het centrum voor   leerlingenbegeleiding, brengt voor iedere leerling gemotiveerd advies uit bij de   overgang van de ene opleidingsvorm naar de andere, maar het centrum voor   leerlingenbegeleiding beslist over een eventuele wijziging van het   verslag.<BR></P>  <P>De klasvorming en de vorming van de pedagogische eenheden gebeurt eveneens   door de klassenraad, bijgestaan door het centrum voor leerlingenbegeleiding,   rekening houdend met de mogelijkheden en de onderwijs- en opvoedingsbehoeften   van de leerlingen.".<BR></P>
+
+### ART. III.23.
+
+Artikel 261 van de Codex Secundair Onderwijs wordt   opgeheven.<BR>
+
+### ART. III.24.
+
+In artikel 263, § 1, van de Codex Secundair Onderwijs worden volgende   wijzigingen aangebracht:<BR>1° in het eerst lid wordt het woord "overleg"   vervangen door het woord "samenspraak" en worden na het woord "ouders" de   woorden "en de leerling" ingevoegd;<BR>2° het laatste lid wordt vervangen door   wat volgt:<BR>"De ontwikkelingsdoelen worden bepaald enerzijds voor   opleidingsvorm 1 en 2 en anderzijds voor opleidingsvorm 3.".<BR>
+
+### ART. III.25.
+
+In artikel 266, § 2, van de Codex Secundair Onderwijs, gewijzigd bij het   decreet van 19 juli 2013, worden volgende wijzigingen aangebracht:<BR>1° in het   derde en het vierde lid worden telkens de woorden "gewoon secundair onderwijs"   vervangen door de woorden "gewoon of buitengewoon secundair onderwijs" en worden   telkens de woorden "van andere types van het buitengewoon secundair onderwijs"   opgeheven;<BR>2° in het laatste lid worden de woorden "indien mogelijk met   diegene die het ouderlijk gezag over de betrokken leerling uitoefent" vervangen   door de woorden "zo mogelijk in samenspraak met de ouders en de   leerling".<BR>
+
+### ART. III.26.
+
+In artikel 268 van de Codex Secundair Onderwijs worden volgende   wijzigingen aangebracht:<BR>1° in paragraaf 1 worden 1° tot en met 3° alsook 5°   en het laatste lid van 6° opgeheven;<BR>2° in paragraaf 1, 4°, worden de woorden   "in functie van zijn opvoedingsbehoeften" vervangen door de woorden ", behoudens   in geval van gewettigde afwezigheid";<BR>3° in paragraaf 1 worden 4° en 6°   hernummerd tot 1° en 2° ;<BR>4° in paragraaf 2 worden de woorden "dit besluit"   vervangen door de woorden "deze afdeling".<BR>
+
+### ART. III.27.
+
+&nbsp;In artikel 271 van de Codex Secundair Onderwijs worden de woorden   "en het koninklijk besluit van 28 juni 1978 houdende de omschrijving van de   types en de organisatie van het buitengewoon onderwijs en vaststellende de   toelatings- en behoudsvoorwaarden in de diverse niveaus van het buitengewoon   onderwijs" opgeheven.<BR>
+
+### ART. III.28.
+
+Artikel 272 en 273 van de Codex Secundair Onderwijs worden   opgeheven.<BR>
+
+### ART. III.29.
+
+In artikel 274 van de Codex Secundair Onderwijs wordt een paragraaf 4   ingevoegd, die luidt als volgt:<BR>" § 4. Voorafgaand aan de vrijwillige fusie   per 1 september, dient het schoolbestuur uiterlijk op 1 mei, een melding in bij   het Agentschap voor Onderwijsdiensten. Bij een gedwongen fusie dient het   schoolbestuur uiterlijk op 30 september voorafgaand aan de gedwongen fusie per 1   oktober een melding in bij het Agentschap voor   Onderwijsdiensten.".<BR>
+
+### ART. III.30.
+
+Artikel 275 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 275. Een school die ontstaat uit fusie kan verschillende   vestigingsplaatsen hebben.".<BR>
+
+### ART. III.31.
+
+In artikel 276 van de Codex Secundair Onderwijs wordt een tweede lid   toegevoegd, dat luidt als volgt:<BR>"Deze bepaling is niet van toepassing op   ziekenhuisscholen.".<BR>
+
+### ART. III.32.
+
+In artikel 277 van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° in paragraaf 1 wordt een tweede lid toegevoegd,   dat luidt als volgt:<BR>"Voor de ziekenhuisscholen wordt de datum bepaald in   artikel 271 gelijkgesteld aan de periode van 12 maanden die voorafgaat aan 1   oktober van het jaar waarin het betrokken schooljaar een aanvang neemt en de   berekeningswijze gebaseerd op de gemiddelde aanwezigheid van de regelmatige   leerlingen.";<BR>2° paragraaf 4 wordt opgeheven en de paragrafen 5 en 6 worden   hernummerd tot paragrafen 4 en 5.<BR>
+
+### ART. III.33.
+
+In artikel 281 van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° in paragraaf 1 wordt het woord "opleidingen"   vervangen door de woorden "opleidingen of samenhangende gehelen van opleidingen"   en wordt het woord "opleiding" vervangen door de woorden "opleiding of   samenhangend geheel van opleidingen";<BR>2° in paragraaf 1 wordt in de eerste   rij in de tabel het woord "opleidingsvorm" vervangen door het woord "opleiding   of samenhangend geheel van opleidingen";<BR>3° in paragraaf 3 wordt het woord   "opleidingen" vervangen door de woorden "opleidingen of samenhangende gehelen   van opleidingen";<BR>4° er wordt een nieuwe paragraaf 4 ingevoegd, die luidt als   volgt:<BR>" § 4. Gedurende de periode van omvorming van de in de vroegere   structuur georganiseerde opleidingen naar de nieuwe structuur van opleidingen en   de samenhangende gehelen van opleidingen worden de bevolkingsminima van de   opleidingen berekend door de leerlingen van de oude opleidingen samen te tellen   met die van de correspon- derende nieuwe opleidingen of het nieuwe samenhangend   geheel van opleidingen.".<BR>
+
+### ART. III.34.
+
+In artikel 282 van de Codex Secundair Onderwijs wordt het woord   "opleiding" vervangen door de woorden "opleiding of samenhangend geheel van   opleidingen".<BR>
+
+### ART. III.35.
+
+&nbsp;In artikel 283 van de Codex Secundair Onderwijs wordt telkens na het   woord "provincie" de woorden "of in het tweetalige gebied Brussel-Hoofdstad"   ingevoegd.<BR>
+
+### ART. III.36.
+
+&nbsp;In artikel 285 van de Codex Secundair Onderwijs wordt het woord   "opleidingen" vervangen door de woorden "opleidingen of samenhangend geheel van   opleidingen".<BR>
+
 ### ART. III.37.
 
 <P>In artikel 286 van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° er wordt een paragraaf 4 toegevoegd, die luidt   als volgt:<BR>" § 4. In afwijking van paragraaf 1 kan een schoolbestuur die een   nieuwe school wil oprichten met enkel opleidingsvorm 4 dit eveneens   doen.";<BR>2° er wordt een paragraaf 5 en een paragraaf 6 toegevoegd, die luiden   als volgt:<BR>" § 5. In aanvulling op paragraaf 1 tot en met paragraaf 4 moet   een schoolbestuur dat een nieuwe school wil oprichten een oprichtingsdossier   indienen. Dit oprichtingsdossier moet ten minste voldoen aan onderstaande   kwaliteitsvoorwaarden:<BR>1° het schoolbestuur is verantwoordelijk voor het   indienen van het dossier;<BR>2° het dossier bevat een omgevingsanalyse die de   noodzaak, de doelmatigheid en de leefbaarheid van het programmatievoorstel   motiveert. Bij de omgevingsanalyse wordt, waar dit voor de betrokken   schoolpopulatie relevant is, de link met eventuele aangepaste   begeleidingsmogelijkheden, met inbegrip van schoolexterne   begeleidingsmogelijkheden voor jongeren met bijkomende zorgbehoeften, expliciet   behandeld. Bij een programmatievoorstel voor opleidingsvorm 4, met uitzondering   van type 5, moet er een samenwerkingsovereenkomst met ten minste één school voor   gewoon voltijds secundair onderwijs met een breed studieaanbod in de buurt   voorgelegd kunnen worden. Er moet telkens advies voorgelegd worden over deze   samenwerkingsovereenkomst tussen één of meerdere scholen van gewoon voltijds   secundair onderwijs en de nieuwe school. Het advies komt tot stand na overleg   binnen de schoolraad en na overleg of na onderhandeling in het bevoegde lokaal   comité in een of meerdere scholen van gewoon voltijds secundair   onderwijs.<BR>Voor de opleiding van de leerlingen in deze opleidingsvorm wordt,   na de eventuele programmatie, indien mogelijk en wenselijk, samengewerkt met   deze scho(o)l(en) van gewoon voltijds secundair onderwijs, zoals bedoeld in   artikel 136/1;<BR>3° de school moet beschikken over de vereiste infrastructurele   en materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig   voor de nieuwe school;<BR>4° de inspanningen rond professionalisering van het   team met betrekking tot de nieuwe school worden in het dossier   weergegeven.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen over de inhoud en de vorm van   het oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld.<BR></P>  <P>§ 6. De oprichting vanaf 1 september van een nieuwe school kan pas na een   gunstige beslissing van de Vlaamse Regering.<BR></P>  <P>Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het   voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan   AgODi, dat de aanvraag voor administratief-technisch en inhoudelijk advies aan   de Vlaamse Onderwijsraad bezorgt.<BR></P>  <P>In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1   september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot   uiterlijk 1 juli 2014.<BR></P>  <P>De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse   Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na   advies van AgODi en de onderwijsinspectie.".<BR></P>
+
+### ART. III.38.
+
+<P>Artikel 287 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 287. § 1. Elke school die voldoet aan de rationalisatienormen,   bepaald bij de artikelen 276 tot en met 278 mag één of meer vestigingsplaatsen   oprichten.<BR></P>  <P>§ 2. In de vestigingsplaatsen bedoeld in paragraaf 1 kunnen uitsluitend al in   de school georganiseerde of in de toelageregeling opgenomen opleidingsvormen,   opleidingen of samenhangende gehelen van opleidingen en types worden opgericht,   tenzij er nieuwe opleidingsvormen, opleidingen of samenhangende gehelen van   opleidingen en types worden opgericht.<BR></P>  <P>§ 3. Onverminderd de bepalingen in paragraaf 1 en paragraaf 2 kan een school   van opleidingsvorm 4, type 5, pas een nieuwe vestigingsplaats oprichten na   goedkeuring door de Vlaamse Regering.".<BR></P>
+
+### ART. III.39.
+
+Artikel 288 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 288. In afwijking van artikel 286 is de financiering of   subsidiering van een school voor buitengewoon secundair onderwijs van   opleidingsvorm 4, type 5, op 1 september 2014 mogelijk, zonder een bijkomende   programmatie of programmatienorm, op voorwaarde dat deze school van   opleidingsvorm 4, type 5:<BR>1° ofwel gehecht is aan een universitair   ziekenhuis, en daar tot 31 augustus 2014 een secundaire afdeling was van een   school voor buitengewoon basisonderwijs type 5;<BR>2° ofwel gehecht is aan een   residentiële setting, die valt onder toepassing van artikel   289/1.".<BR>
 
 ### ART. III.40.
 
@@ -56,13 +172,73 @@ In artikel 118 van de Codex Secundair Onderwijs worden de volgende   wijzigingen
 
 In de Codex Secundair Onderwijs wordt een artikel 289/1 ingevoegd, dat   luidt als volgt:<BR>"Art. 289/1. In afwijking van artikel 289 kan een op 31   augustus 2014 bestaande school van buitengewoon secundair met opleidingsvorm 1,   type 4, die verbonden is aan een revalidatiecentrum, per 1 september 2014 de   gehele opleidingsvorm 1, type 4, omvormen tot een opleidingsvorm 4, type 5. Het   schoolbestuur meldt dit uiterlijk op 1 juli 2014 aan AgODi.".<BR>
 
+### ART. III.42.
+
+In artikel 290 van de Codex Secundair Onderwijs, het laatst gewijzigd bij   het decreet van 5 juli 2013, wordt de zinsnede "en 2013-2014" telkens vervangen   door de zinsnede ", 2013-2014 en 2014-2015".<BR>
+
 ### ART. III.43.
 
 <P>In de Codex Secundair Onderwijs wordt een artikel 290/1 ingevoegd, dat luidt   als volgt:<BR>"Art. 290/1. § 1. In afwijking van de artikelen 286 en 289 wordt   de oprichting van een nieuwe type ook als een programmatie beschouwd.<BR></P>  <P>De school hertelt op de datum, vermeld in artikel 271, indien er effectief   leerlingen van het nieuwe type zijn op die datum en voldaan is aan de   voorwaarden bepaald in paragraaf 2.<BR></P>  <P>Indien simultaan een nieuwe school wordt opgericht met dit nieuwe type, moet   voor de oprichting van dit nieuwe type voldaan zijn aan de voorwaarden, bepaald   in paragraaf 2 van dit artikel en voor de oprichting van de school voldaan zijn   aan de voorwaarden van artikel 286.<BR></P>  <P>Indien simultaan een nieuwe opleidingsvorm of een nieuwe opleiding wordt   opgericht met dit nieuwe type, moet voor de oprichting van dit nieuwe type   voldaan zijn aan de voorwaarden, bepaald in paragraaf 2 van dit artikel en voor   de oprichting van de opleidingsvorm en de opleiding voldaan zijn aan de   voorwaarden van artikel 289.<BR></P>  <P>§ 2. In een school of opleidingsvorm kan een nieuw type worden opgericht als   aan de volgende voorwaarden wordt voldaan:<BR>1° het schoolbestuur dient een   programmatiedossier in dat ten minste voldoet aan onderstaande   kwaliteitsvoorwaarden:<BR>a) het schoolbestuur dient het dossier in na overleg   binnen de schoolraad en in de wettelijk voorziene overlegorganen met het   personeel;<BR>b) het dossier bevat een omgevingsanalyse die de noodzaak, de   doelmatigheid en de leefbaarheid van het programmatievoorstel motiveert. Bij de   omgevingsanalyse wordt, waar dit voor de betrokken schoolpopulatie relevant is,   de link met eventuele aangepaste verblijfmogelijkheden, met inbegrip van   schoolexterne begeleidingsmo- gelijkheden voor jongeren met bijkomende   zorgbehoeften, expliciet behandeld;<BR>c) de school moet beschikken over de   vereiste infrastructurele en materiële voorzieningen op gebied van   toegankelijkheid en hulpmiddelen nodig voor het nieuwe type;<BR>d) de reeds   bestaande expertise of de inspanningen rond professionalisering van het team met   betrekking tot het nieuwe type worden in het dossier weergegeven.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen over de inhoud en de vorm van   het programmatiedossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld;<BR></P>  <P>2° de oprichting vanaf 1 september van het nieuwe type kan pas na een   gunstige beslissing van de Vlaamse Regering.<BR></P>  <P>Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het   voorafgaande schooljaar een gemotiveerde aanvraag met het programmatiedossier   aan AgODi, dat de aanvraag voor advies aan de Vlaamse Onderwijsraad   bezorgt.<BR></P>  <P>In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1   september 2015 van type 9 gemotiveerde aanvragen bij AgODi ingediend worden tot   uiterlijk 1 juli 2014.<BR></P>  <P>De Vlaamse Regering neemt deze beslissing na advies van de Vlaamse   Onderwijsraad over de gegrondheid van de lokale behoefte aan extra aanbod en na   advies van AgODi en de onderwijsinspectie.<BR></P>  <P>§ 3. De scholen voor buitengewoon secundair onderwijs die tijdens het   schooljaar 2014- 2015 een aanbod type 1 aanboden, bieden vanaf 1 september 2015   het basisaanbod aan als vermeld in artikel 259, § 1, 1°. Dit wordt niet   beschouwd als een herstructurering.".<BR></P>
 
+### ART. III.44.
+
+In artikel 292 van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° in het eerste lid en in 2° wordt telkens het   woord "inschrijvingsverslag" vervangen door het woord "verslag";<BR>2° in 3°   worden de woorden "recht hebben op een afwijking zoals bepaald in artikel 293"   vervangen door de woorden "voldoen aan de bepalingen van één van de paragrafen   van artikel 293".<BR>
+
 ### ART. III.45.
 
 <P>Artikel 293 van de Codex Secundair Onderwijs, gewijzigd bij het decreet van 1   juli 2011, wordt vervangen door wat volgt:<BR>"Art. 293. § 1. Een klassenraad   van een leerling aangewezen op opleidingsvorm 1 of opleidingsvorm 2, kan, indien   zij hiertoe een schriftelijke verlengingsaanvraag krijgt van de betrokken   personen, een leerling na het schooljaar waarin hij de leeftijd van eenentwintig   jaar heeft bereikt telkens voor één schooljaar verder laten genieten van het   buitengewoon onderwijs in functie van het behalen van het attest. Dit is   mogelijk indien er voor deze leerling uit opleidingsvorm 1 of opleidingsvorm 2   geen plaats is in een voorziening van het Vlaams Agentschap voor Personen met   een Handicap, niettegenstaande een expliciete vraag hiertoe door de betrokken   personen en dit blijkt uit de verlengingsaanvraag van de betrokken personen. Dit   is eveneens mogelijk indien er geen plaats is voor deze leerling uit   opleidingsvorm 1 of opleidingsvorm 2 in de post-schoolse opvangmogelijkheden op   gebied van tewerkstelling, en deze opvang geweigerd is, niettegenstaande een   expliciete vraag hiertoe door de betrokken personen en dit blijkt uit de   verlengingsaanvraag van de betrokken personen. Deze verlengingsaanvraag moet   uiterlijk op 1 september voorgelegd worden aan de klassenraad. De klassenraad   dient uitspraak te doen over deze aanvraag ten laatste op 15 september van het   schooljaar waarop de verlenging van toepassing is.<BR></P>  <P>Een klassenraad kan deze verlengingsaanvraag, vermeld in het vorige lid,   ofwel accepteren ofwel weigeren. De klassenraad dient bij de eventuele   toekenning van een verlenging voorrang te geven aan de leerlingen met een eerste   aanvraag voor verlenging op leerlingen met een tweede of een nog verdere   verlengingsaanvraag. Leerlingen waarover de klassen- raad een positieve   beslissing neemt, voldoen aan de toelatingsvoorwaarden inzake leeftijd,   leerlingen waarover een negatieve beslissing wordt genomen, voldoen niet aan   deze voorwaarden.<BR></P>  <P>De beslissing met betrekking tot de verlengingsaanvraag wordt in voorkomend   geval besproken met de voorziening waar de leerling residentieel verblijft,   vooraleer deze wordt meegedeeld aan de betrokken personen.<BR></P>  <P>§ 2. In afwijking van de voorgaande paragraaf worden de personen die voldoen   aan één van de voorwaarden, vermeld in deze paragraaf, door de klassenraad van   rechtswege toegelaten tot het buitengewoon secundair onderwijs na de leeftijd   van eenentwintig jaar:<BR>1° een leerling, aangewezen op opleidingsvorm 3 of 4,   die nog ten hoogste twee schooljaren nodig heeft na het schooljaar waarin hij de   leeftijd van eenentwintig jaar bereikt, voor het behalen van een getuigschrift   van opleidingsvorm 3 of het diploma van secundair onderwijs in opleidingsvorm 4   of het getuigschrift van alternerende beroepsoplei- ding;<BR>2° een leerling,   aangewezen op opleidingsvorm 1, 2, 3 of 4, die ingevolge ziekte of ongeval in de   loop van het gewoon of het buitengewoon secundair onderwijs een handicap of een   bijkomende handicap heeft opgelopen als gevolg waarvan zich een ernstige   regressie heeft voorgedaan en waarvoor de termijn waarbinnen de studie zal   beëindigd zijn duidelijk is aangegeven;<BR>3° een persoon met een handicap van   meer dan eenentwintig jaar die voor het eerst in het buitengewoon secundair   onderwijs wenst ingeschreven te worden, als deze persoon door een ongeval of   ziekte hem overkomen in aanmerking kan komen voor een beroepsopleiding of   training in compenserende vaardigheden in het buitengewoon secundair   onderwijs.<BR></P>  <P>§ 3. In afwijking van de voorgaande paragrafen kunnen de leerlingen, die   toegelaten worden tot het geïntegreerd onderwijs op basis van een   inschrijvingsverslag buitengewoon onderwijs of die toegelaten worden tot het   geïntegreerd onderwijs op basis van paragraaf 2 van artikel 110/11, ook na de   leeftijd van eenentwintig jaar van rechtswege genieten van de voordelen van het   geïntegreerd onderwijs.".<BR></P>
+
+### ART. III.48.
+
+In artikel 295 van de Codex Secundair Onderwijs worden volgende   wijzigingen aangebracht:<BR>1° het eerste streepje wordt opgeheven;<BR>2° in het   voorlaatste streepje worden de woorden "in de ziekenhuisschool" vervangen door   de woorden "in de school van opleidingsvorm 4, type 5, verbonden aan een   universitair ziekenhuis of aan een residentiële setting";<BR>3° in het laatste   streepje wordt het woord "preventoriumschool" vervangen door de woorden "de   school van opleidingsvorm 4, type 5, verbonden aan een preventorium" en wordt de   zinsnede ", wanneer hij voldoet aan de bepalingen van artikel 10 van het   koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de   organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en   behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs"   opgeheven.<BR>
+
+### ART. III.49.
+
+In artikel 297, § 2, van de Codex Secundair Onderwijs worden de woorden   "de bepalingen van het koninklijk besluit van 28 juni 1978 houdende de   omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs" vervangen door de woorden "de artikelen 291 tot en met   295".<BR>
+
+### ART. III.50.
+
+Artikel 299, 2°, a) en b), van de Codex Secundair Onderwijs wordt   vervangen door wat volgt:<BR>"a) gedurende de periode van 12 maanden die   voorafgaat aan 1 februari van het jaar waarin het betrokken schooljaar een   aanvang neemt, indien het type gedurende heel deze duur georganiseerd was, of   indien de school valt onder toepassing van artikel 288;<BR>b) in andere   gevallen, gedurende de eerste 30 dagen te rekenen vanaf de openstelling van het   type, of gedurende een periode te bepalen door de Vlaamse   Regering.".<BR>
+
+### ART. III.52.
+
+In artikel 304, § 4, van de Codex Secundair Onderwijs, het laatst   gewijzigd bij het decreet van 5 juli 2013, wordt in het eerste lid de zinsnede   "voor het schooljaar 2013- 2014" vervangen door de zinsnede "voor het schooljaar   2014-2015".<BR>
+
+### ART. III.53.
+
+In artikel 309, § 3, van de Codex Secundair Onderwijs worden de woorden   "de bepalingen van het koninklijk besluit van 28 juni 1978 houdende de   omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs" vervangen door de woorden "de artikelen 291 tot en met   295".<BR>
+
+### ART. III.55.
+
+In artikel 312, § 4, van de Codex Secundair Onderwijs, het laatst   gewijzigd bij het decreet van 5 juli 2013, wordt in het eerste lid de zinsnede   "voor het schooljaar 2013- 2014" vervangen door de zinsnede "voor het schooljaar   2014-2015.".<BR>
+
+### ART. III.60.
+
+Artikel 333 van de Codex Secundair Onderwijs wordt vervangen door wat   volgt:<BR>"Art. 333. Het buitengewoon secundair onderwijs in deze   opleidingsvormen wordt verstrekt naar rata van minimum 32 lesuren en maximum 36   lesuren van 50 minuten per week, gespreid over 9 halve   dagen.".<BR>
+
+### ART. III.61.
+
+In deel V, titel 3, van de Codex Secundair Onderwijs wordt een hoofdstuk   1/1 ingevoegd, dat luidt als volgt:<BR>"Hoofdstuk 1/1. Bepalingen betreffende de   scholen van opleidingsvorm 1".<BR>
+
+### ART. III.62.
+
+In de Codex Secundair Onderwijs wordt in hoofdstuk 1/1, ingevoegd bij   artikel III.61, een afdeling 1 ingevoegd, die luidt als volgt:<BR>"Afdeling 1.   Structuur en organisatie".<BR>
+
+### ART. III.63.
+
+<P>In de Codex Secundair Onderwijs wordt in afdeling 1, ingevoegd bij artikel   III.62, een artikel 334/1 ingevoegd, dat luidt als volgt:<BR>"Art. 334/1. § 1.   In opleidingsvorm 1 beogen de activiteiten vooral het ontwikkelen van de   zelfredzaamheid, de communicatiemogelijkheden, de sensomotoriek en de sociale   vorming van de leerlingen in de contexten wonen, werken en vrije tijd.<BR></P>  <P>§ 2. Opleidingsvorm 1 omvat minstens vier leerjaren. Voor iedere leerling   wordt de duur ervan bepaald door de klassenraad, in samenspraak met het centrum   voor leerlingenbegeleiding.<BR></P>  <P>§ 3. In deze opleidingsvorm kunnen sociaal maatschappelijke trainingen of   leerlingenstages worden ingericht voor leerlingen vanaf 16 jaar, gedurende een   beperkt aantal dagen. De duur en het doel ervan wordt bepaald door de   klassenraad, in samenspraak met het centrum voor leerlingenbegeleiding en zo   mogelijk in samenspraak met de ouders en de leerling. Uitzonderlijk kunnen deze   sociaal maatschappelijke trainingen of leerlingenstages georganiseerd worden   tijdens de vakanties.<BR></P>  <P>§ 4. Iedere leerling die de school verlaat na de duur zoals bepaald in   paragraaf 2, heeft recht op een attest, waarvan het model wordt bepaald door de   Vlaamse Regering, uitgereikt door de directeur op het einde van het schooljaar   of in de loop van het schooljaar.".<BR></P>
+
+### ART. III.64.
+
+&nbsp;In deel V, titel 3, van de Codex Secundair Onderwijs wordt een   hoofdstuk 1/2 ingevoegd, dat luidt als volgt:<BR>"Hoofdstuk 1/2. Bepalingen   betreffende de scholen van opleidingsvorm 2".<BR>
+
+### ART. III.65.
+
+&nbsp;In de Codex Secundair Onderwijs wordt in hoofdstuk 1/2, ingevoegd   bij artikel III.64, een afdeling 1 ingevoegd, die luidt als volgt:<BR>"Afdeling   1. Structuur en organisatie".<BR>
+
+### ART. III.66.
+
+<P>In de Codex Secundair Onderwijs wordt in afdeling 1, ingevoegd bij artikel   III.65, een artikel 334/2 ingevoegd, dat luidt als volgt:<BR>"Art. 334/2. § 1.   Opleidingsvorm 2 omvat twee fasen, elke fase duurt ten minste twee   leerjaren:<BR>1° de eerste fase geeft voorrang aan de algemene en sociale   vorming en waarborgt tevens de arbeidsgerichte vorming. Ten minste vijftien van   de wekelijkse lesuren worden voorbehouden aan de algemene en sociale   vorming;<BR>2° de tweede fase geeft voorrang aan de arbeidsgerichte vorming. Ten   minste negen van de wekelijkse lesuren worden voorbehouden aan de algemene en   sociale vorming.<BR></P>  <P>§ 2. De klassenraad, in samenspraak met het centrum voor   leerlingenbegeleiding, bepaalt voor iedere leerling de respectieve duur van elke   fase.<BR></P>  <P>§ 3. In deze opleidingsvorm kunnen leerlingenstages worden ingericht,   gedurende een beperkt aantal dagen. Deze worden georganiseerd gedurende de   tweede fase, tijdens het schooljaar. Uitzonderlijk kunnen deze leerlingenstages   georganiseerd worden tijdens de vakanties. Een leerling kan tijdens het laatste   jaar van de tweede fase op basis van individuele handelingsplanning, na   beslissing van de klassenraad, en zo mogelijk in samenspraak met de ouders en de   leerling, een leerlingenstage volgen onder een alternerende vorm van   leerlingenstage en vorming op school op weekbasis.<BR></P>  <P>§ 4. Iedere leerling die de school verlaat na de duur zoals bepaald in   paragraaf 2, heeft recht op een attest, waarvan het model wordt bepaald door de   Vlaamse Regering, uitgereikt door de directeur op het einde van het schooljaar   of in de loop van het schooljaar.".<BR></P>
 
 ### ART. III.67.
 
@@ -72,9 +248,25 @@ In de Codex Secundair Onderwijs wordt een artikel 289/1 ingevoegd, dat   luidt a
 
 &nbsp;In de Codex Secundair Onderwijs worden de volgende artikelen   opgeheven:<BR>1° artikel 337;<BR>2° artikel 338, gewijzigd bij het decreet van 1   juli 2011;<BR>3° artikel 339 en 340.<BR>
 
+### ART. III.69.
+
+In artikel 350 van de Codex Secundair Onderwijs, het laatst gewijzigd bij   het decreet van 19 juli 2013, worden volgende wijzigingen aangebracht:<BR>1° in   het eerste lid worden de getallen "125,", "129,", "130,", "131,", "133,",   "135,", "137,", "150,", "155," en "170," opgeheven;<BR>2° op het einde van het   eerste lid wordt de volgende zinsnede ingevoegd: ", behalve voor het   onthaalonderwijs, Se-n-Se, de opleiding verpleegkunde van het hoger   beroepsonderwijs, en de vierde graad, die niet kunnen ingericht worden.";<BR>3°   er wordt een tweede lid ingevoegd, dat luidt als volgt:<BR>"In opleidingsvorm 4   moet een gemeenschappelijk curriculum van het gewoon voltijds secundair   onderwijs gevolgd worden en moeten er eveneens, naargelang de noden van de   leerlingen, gepaste en redelijke aanpassingen genomen worden, waaronder   remediërende, differentiërende, compenserende of dispenserende maatregelen. De   klassenraad werkt hiervoor op een systematische, planmatige en transparante   wijze samen met het centrum voor leerlingenbegeleiding en de   ouders.".<BR>
+
+### ART. III.70.
+
+&nbsp;In deel V, titel 4, van de Codex Secundair Onderwijs wordt een   hoofdstuk 2 ingevoegd, dat luidt als volgt:<BR>"Hoofdstuk 2. Bepalingen   betreffende de scholen van opleidingsvorm 4, in de   ziekenhuisscholen".<BR>
+
+### ART. III.71.
+
+<P>In de Codex Secundair Onderwijs wordt in hoofdstuk 2, ingevoegd bij artikel   III.70, een artikel 350/1 ingevoegd, dat luidt als volgt:<BR>"Art. 350/1. § 1.   In de scholen van opleidingsvorm 4, type 5, verbonden aan een universitair   ziekenhuis en verbonden aan een residentiële setting werken de leerlingen verder   aan het curriculum van de oorspronkelijke school en worden hieromtrent eveneens   afspraken gemaakt met de oorspronkelijke school. De oorspronkelijke school staat   in voor de studiebekrachtiging.<BR></P>  <P>§ 2. In ziekenhuisscholen moeten er, naargelang de noden van de leerlingen,   gepaste en redelijke aanpassingen genomen worden, waaronder het inzetten van   remediërende, differentiërende, compenserende of dispenserende maatregelen. De   ziekenhuisschool werkt hiervoor op een systematische, planmatige en transparante   wijze samen met het centrum voor leerlingenbegeleiding en de ouders en de   oorspronkelijke school, tenzij de leerling voor het verblijf in de   ziekenhuisschool niet in een school ingeschreven was.<BR></P>  <P>§ 3. Op basis van de behoeften van de leerlingen mag men in de school van   opleidingsvorm 4, type 5, verbonden aan het preventorium, op ieder tijdstip van   het schooljaar een structuuronderdeel van het gewoon voltijds secundair   onderwijs inrichten, ook indien de onderliggende structuuronderdelen niet   ingericht zijn. De school kan op die wijze onder- delen van het volledig   studieaanbod van het gewoon voltijds secundair onderwijs inrichten, met inbegrip   van het onthaalonderwijs, Se-n-Se, de opleiding verpleegkunde van het hoger   beroepsonderwijs, en de vierde graad.<BR></P>  <P>§ 4. In de school van opleidingsvorm 4, type 5, verbonden aan het   preventorium worden dezelfde studiebewijzen uitgereikt als in het gewoon   voltijds secundair onderwijs. De school van opleidingsvorm 4, type 5, bij het   preventorium staat zelf in voor de studiebekrachtiging.".<BR></P>
+
 ## Afdeling 2 Decreet betreffende het stelsel van leren en werken
 
 ## Afdeling 3 Inwerkingtreding
+
+### ART. III.77.
+
+Dit hoofdstuk treedt in werking op 1 september 2014, met uitzondering van   de artikelen III.2, 1° tot en met 7°, III.2, 9° tot en met 11° en 13°, III.6,   III.7, III.8, III.14, III.15, III.16, III.21, III.44, 1°, III.46, III.47,   III.56, III.57, III.72, III.73, III.74, III.75 en III.76, die in werking treden   op 1 januari 2015 voor inschrijvingen die betrekking hebben op het schooljaar   2015-2016 en met uitzondering van de artikelen III.4, III.9, III.12, III.13,   III.37, III.40, III.41, III.43, III.44, 2°, III.45, III.67 en III.68, die in   werking treden op 1 april 2014 en met uitzondering van de artikelen III.51,   III.54, III.58, III.59 die in werking treden op 1 september   2015.<BR>
 
 ## HOOFDSTUK IV Decreet betreffende de centra voor leerlingenbegeleiding
 
@@ -115,5 +307,33 @@ Dit hoofdstuk treedt in werking op 1 september 2013.<BR>
 ## Afdeling 3 Overgangsbepaling
 
 ## Afdeling 4 Opheffingen
+
+### ART. VII.5.
+
+&nbsp;Het koninklijk besluit van 27 juli 1971 houdende   organisatiemodaliteiten van de begeleiding der leerlingen die instellingen of   afdelingen voor buitengewoon onderwijs volgen, wordt   opgeheven.<BR>
+
+### ART. VII.8.
+
+Het ministerieel besluit van 31 maart 1980 houdende oprichting van de   overlegcommissie ter uitvoering van artikel 26 van het koninklijk besluit van 28   juni 1978 houdende de omschrijving van de types en de organisatie van het   buitengewoon onderwijs en vaststellende de toelatings- en behoudsvoorwaarden in   de diverse niveaus van het buitengewoon onderwijs, wordt   opgeheven.<BR>
+
+### ART. VII.9.
+
+Het ministerieel besluit van 31 maart 1980 tot oprichting van de   kwalificatiecommissie zoals voorzien in de artikelen 39, 40, 41 en 42, van het   koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de   organisatie van het buitengewoon onderwijs en vaststellende de toelatings- en   behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs, wordt   opgeheven.<BR>
+
+### ART. VII.10.
+
+Het ministerieel besluit van 15 april 1980 houdende vaststelling van het   model van kwalificatiegetuigschrift buitengewoon secundair beroepsonderwijs,   zoals vermeld in artikel 43 van het koninklijk besluit van 28 juni 1978 houdende   de omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs, wordt opgeheven.<BR>
+
+### ART. VII.11.
+
+&nbsp;Het ministerieel besluit van 15 april 1980 houdende vaststelling van   het model van attest voor het buitengewoon secundair beroepsonderwijs, zoals   vermeld in artikel 39, § 2, van het koninklijk besluit van 28 juni 1978 houdende   de omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs, wordt opgeheven.<BR>
+
+### ART. VII.12.
+
+Het ministerieel besluit van 15 april 1980 houdende vaststelling van het   model van attest voor buitengewoon secundair onderwijs tot sociale aanpassing   zoals vermeld in artikel 31 van het koninklijk besluit van 28 juni 1978 houdende   de omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs, wordt opge- heven.<BR>
+
+### ART. VII.13.
+
+&nbsp;Het ministerieel besluit van 15 april 1980 houdende vaststelling van   het model van attest voor het buitengewoon secundair onderwijs tot sociale   aanpassing en arbeidsgeschiktmaking zoals vermeld bij artikel 35 van het   koninklijk besluit van 28 juni 1978 houdende de omschrijving van de types en de   organisatie van het buitengewoon onder- wijs en vaststellende de toelatings- en   behoudsvoorwaarden in de diverse niveaus van het buitengewoon onderwijs, wordt   opgeheven.<BR>
 
 ## Afdeling 5 Inwerkingtreding
