@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024457,
+  "title": "Ministerieel besluit van 2014-07-16 betreffende de inwerkingtreding van diverse bepalingen van het besluit van de Vlaamse Regering van 19 juli 2013 tot regeling van de informatie-, preventie-, inperkings- en herstelplicht inzake milieuschade, het verzoek om maatregelen en de beroepsprocedure",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024457/VolledigDocument?datum=2014-09-04",
+  "source_sha256": "1393da1eabb343311d7a30e95b3fbf93e6d03038ef064ea4c12814bcad6f4e6e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024457&param=informatie",
+  "as_of": "2014-09-04",
+  "made": "2014-07-16",
+  "gazette": "2014-08-25",
+  "numac": 2014204921,
+  "document_start": "2014-09-04",
+  "document_end": null,
+  "in_force": "2014-09-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
