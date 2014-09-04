@@ -2,16 +2,16 @@
   "codex_id": 1020840,
   "title": "Besluit van de Vlaamse Regering van 2011-09-09 tot regeling van het verzoek om maatregelen en de beroepsprocedure in het kader van het voorkomen en herstellen van milieuschade",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020840/VolledigDocument?datum=2011-10-23",
-  "source_sha256": "13d444dca7851a8f2446c16be01bae7aba5a80faf21808afeb2c566fe9d3b583",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020840/VolledigDocument?datum=2014-09-04",
+  "source_sha256": "95143084045d057ade2074591f7549dae433df906fb8102a97b48f2b33a11827",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020840&param=informatie",
-  "as_of": "2011-10-23",
+  "as_of": "2014-09-04",
   "made": "2011-09-09",
   "gazette": "2011-10-13",
   "numac": 2011205047,
   "document_start": "2011-10-23",
   "document_end": "2899-12-31",
-  "in_force": "2011-10-23",
+  "in_force": "2014-09-04",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2011-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-04; future article versions excluded; article text as the API gives it"
 }
