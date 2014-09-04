@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024529,
+  "title": "Ministerieel besluit van 2014-07-24 tot aanduiding van de ambtenaren belast met het toezicht op het Lobroekdok overeenkomstig artikel 3 van het besluit van de Vlaamse Regering van 20 december 2013 houdende het beheer van het Lobroekdok en de vaststelling van een politiereglement ervoor",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024529/VolledigDocument?datum=2014-09-04",
+  "source_sha256": "c4116a00cdf715dcd71de3270db9df7d126844198c46ea9f7998a8b03d3d225c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024529&param=informatie",
+  "as_of": "2014-09-04",
+  "made": "2014-07-24",
+  "gazette": "2014-09-04",
+  "numac": 2014036515,
+  "document_start": "2014-09-04",
+  "document_end": null,
+  "in_force": "2014-09-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+}

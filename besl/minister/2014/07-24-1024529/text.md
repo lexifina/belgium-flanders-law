@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2014-07-24 tot aanduiding van de ambtenaren belast met het toezicht op het Lobroekdok overeenkomstig artikel 3 van het besluit van de Vlaamse Regering van 20 december 2013 houdende het beheer van het Lobroekdok en de vaststelling van een politiereglement ervoor
+
+### Aanhef
+
+DE   VLAAMSE MINISTER VAN MOBILITEIT EN OPENBARE WERKEN,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op de wet van 11 april 1989 houdende goedkeuring en uitvoering van diverse   Internationale Akten inzake de zeevaart, artikel 17, § 1, gewijzigd bij de wet   van 22 januari 1999;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 13 december 2002 houdende de oprichting van de naamloze   vennootschap van publiek recht Beheersmaatschappij Antwerpen Mobiel (BAM),   artikel 22;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het besluit van de Vlaamse Regering van 20 december 2013 houdende het beheer   van het Lobroekdok en de vaststelling van een politiereglement ervoor, artikel   3,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+De volgende ambtenaren van BAM worden belast met het toezicht   op de naleving van het verbod vermeld in artikel 2 van het besluit van de   Vlaamse Regering van 20 december 2013 houdende het beheer van het Lobroekdok en   de vaststelling van een politiereglement ervoor, de vaststelling van   overtredingen van dit verbod, alsook de bevoegdheid tot het vasthouden of in   beslag nemen, overeenkomstig artikel 17, § 1, eerste en derde lid, van de wet   van 11 april 1989 houdende goedkeuring en uitvoering van diverse Internationale   Akten inzake de zeevaart:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Jan   Bernard Hugo Frans Van Rensbergen, algemeen manager, rijksregisternummer   59.07.23 551-47, 2440 Geel, Grotekievit 11.
+
+### ART. 2.
+
+Dit besluit treedt in werking op datum van publicatie in het   Belgisch Staatsblad.
