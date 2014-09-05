@@ -2,16 +2,16 @@
   "codex_id": 1020425,
   "title": "Ministerieel besluit van 2011-06-28 betreffende de keuring van de binneninstallatie en de privéwaterafvoer",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020425/VolledigDocument?datum=2011-07-24",
-  "source_sha256": "e0754cb1af6e8b1446838010fc231ca62bdcfb10295f66cb1c550650c309cf3c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020425/VolledigDocument?datum=2014-09-05",
+  "source_sha256": "8c353e4ce36d3053391a16e7bc0a1b0a2af318711dd2908f73570e5c3f3914df",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020425&param=informatie",
-  "as_of": "2011-07-24",
+  "as_of": "2014-09-05",
   "made": "2011-06-28",
   "gazette": "2011-07-14",
   "numac": 2011203570,
   "document_start": "2011-07-24",
   "document_end": "2023-03-28",
-  "in_force": "2011-07-24",
+  "in_force": "2014-09-05",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2011-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-05; future article versions excluded; article text as the API gives it"
 }
