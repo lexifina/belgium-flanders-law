@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024469,
+  "title": "Decreet van 2014-04-25 betreffende de handhaving van de omgevingsvergunning",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024469/VolledigDocument?datum=2014-09-06",
+  "source_sha256": "901106ffa765166ba0bf3eba1477e52c16d3b574a89d4d35459d21640fb114c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024469&param=informatie",
+  "as_of": "2014-09-06",
+  "made": "2014-04-25",
+  "gazette": "2014-08-27",
+  "numac": 2014035897,
+  "document_start": "2018-03-01",
+  "document_end": null,
+  "in_force": "2014-09-06",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2014-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
