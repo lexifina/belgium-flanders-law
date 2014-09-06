@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024465,
+  "title": "Decreet van 2014-04-25 houdende wijziging van het decreet van 7 mei 2004 houdende omvorming van de v.z.w. \"de Rand\" tot een privaatrechtelijk vormgegeven extern verzelfstandigd agentschap en houdende vaststelling van de bevoegdheden van de provincie Vlaams-Brabant inzake de ondersteuning van de Vlaamse Rand",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024465/VolledigDocument?datum=2014-09-06",
+  "source_sha256": "c1bc9bc9704bd3819a38052faf0a56b52254021d2c43edc59010ffd9390ec7ab",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024465&param=informatie",
+  "as_of": "2014-09-06",
+  "made": "2014-04-25",
+  "gazette": "2014-08-27",
+  "numac": 2014035562,
+  "document_start": "2014-09-06",
+  "document_end": null,
+  "in_force": "2014-09-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
