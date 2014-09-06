@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024470,
+  "title": "Besluit van de Vlaamse Regering van 2014-03-21 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 7 september 2007 houdende de uitvoering van het decreet van 22 december 2000 betreffende de amateurkunsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024470/VolledigDocument?datum=2014-09-06",
+  "source_sha256": "b9157094edcab6481ea9b9b6389f79f574c4d1a2eac75bedc1dd1126d4e1efc0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024470&param=informatie",
+  "as_of": "2014-09-06",
+  "made": "2014-03-21",
+  "gazette": "2014-08-27",
+  "numac": 2014036519,
+  "document_start": "2014-09-06",
+  "document_end": null,
+  "in_force": "2014-09-06",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2014-09-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
