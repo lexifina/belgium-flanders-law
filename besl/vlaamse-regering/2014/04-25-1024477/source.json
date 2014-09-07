@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024477,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot vaststelling van de procedures voor de gezondheidszorgvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024477/VolledigDocument?datum=2014-09-07",
+  "source_sha256": "ae4c332aac6c5bc8cd037fbb7f2829d787c4430c0dd50f764178129a70b72336",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024477&param=informatie",
+  "as_of": "2014-09-07",
+  "made": "2014-04-25",
+  "gazette": "2014-08-28",
+  "numac": 2014036524,
+  "document_start": "2014-09-07",
+  "document_end": null,
+  "in_force": "2014-09-07",
+  "article_versions": 59,
+  "record_form": "consolidated version as in force on 2014-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
