@@ -8,38 +8,38 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 20 maart 2009 houdende 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° administratie : het intern verzelfstandigd agentschap Vlaams Agentschap Zorg en Gezondheid, opgericht bij het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap « Zorg en Gezondheid »;<br />2° administrateur-generaal : hoofd van het intern verzelfstandigd agentschap Vlaams Agentschap Zorg en Gezondheid als vermeld in artikel 12 van het besluit van de Vlaamse Regering van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap « Zorg en Gezondheid »;<br />3° deel van een ziekenhuis : een deel van een ziekenhuis dat niet apart erkend wordt;<br />4° dwingende maatregel : <br />a) een bevel tot staking van een ziekenhuisactiviteit; <br />b) een bevel tot buitengebruikstelling van een deel van een ziekenhuis;<br />c) een verbod tot opname van patiënten;<br />d) een algemeen bevel;<br />5° erkenningsnormen : erkenningsnormen en erkenningsvereisten, ongeacht door welke bevoegde overheid ze zijn bepaald, inclusief de regels die zijn vastgesteld bij of krachtens het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen;<br />6° initiatief beschut wonen : een initiatief beschut wonen als vermeld in artikel 2 van het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de erkenning van initiatieven van beschut wonen ten behoeve van psychiatrische patiënten;<br />7° personen, belast met het toezicht : de ambtenaren, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 7 december 2001 betreffende de aanwijzing van de ambtenaren voor het uitoefenen van het toezicht op de toepassing van de gecoördineerde wet op de ziekenhuizen en van de krachtens die gecoördineerde wet genomen uitvoeringsbesluiten;<br />8° psychiatrisch verzorgingstehuis : een psychiatrisch verzorgingstehuis als vermeld in het koninklijk besluit van 10 juli 1990 houdende vaststelling van de normen voor de bijzondere erkenning van psychiatrische verzorgingstehuizen;<br />9° ziekenhuis : een ziekenhuis als vermeld in artikel 2 van de wet betreffende de ziekenhuizen en andere verzorgingsinstellingen, gecoördineerd op 10 juli 2008;<br />10° ziekenhuisactiviteit : bepaalde activiteit die in het ziekenhuis wordt uitgevoerd.<br /><br />
+...
 
 ## HOOFDSTUK 2 Dwingende maatregelen ten aanzien van delen van ziekenhuizen en ten aanzien van ziekenhuisactiviteiten
 
 ### ART. 2.
 
-Als wordt vastgesteld dat een deel van een ziekenhuis of een ziekenhuisactiviteit niet beantwoordt aan de erkenningsnormen die op dat deel van het ziekenhuis of op de ziekenhuisactiviteit van toepassing zijn, kan de administrateur-generaal het ziekenhuis met een aangetekende brief aanmanen om binnen een bepaalde termijn alle verplichtingen na te komen.<br />Als ondanks die aanmaning de voorwaarden niet worden nageleefd, kan de administrateur-generaal het deel van het ziekenhuis of de ziekenhuisactiviteit een dwingende maatregel opleggen.<br /><br />Een voornemen tot het opleggen van een dwingende maatregel wordt aan het ziekenhuis betekend met een aangetekende brief. Het voornemen wordt gemotiveerd en vermeldt :<br />1° de termijn waarin de dwingende maatregel geldt;<br />2° de voorwaarden die vervuld moeten worden om de vastgestelde inbreuken te verhelpen;<br />3° de mogelijkheid om tegen dat voornemen een bezwaar in te dienen.<br /><br />Het ziekenhuis kan tegen dat voornemen een bezwaarschrift indienen. De procedure, vermeld in artikel 5, 6 en 7 van het besluit van de Vlaamse Regering van 18 februari 1997 tot vaststelling van de procedure voor de erkenning en de sluiting van ziekenhuizen, ziekenhuisdiensten, onderdelen van ziekenhuizen en samenwerkingsvormen, is van overeenkomstige toepassing.<br /><br />
+...
 
 ### ART. 3.
 
-§ 1. Als het deel van het ziekenhuis of de ziekenhuisactiviteit niet beantwoordt aan de erkenningsnormen die op dat deel van het ziekenhuis of op de ziekenhuisactiviteit van toepassing zijn, en als het nemen van een dwingende maatregel om zeer dringende redenen van veiligheid en gezondheid van de gebruiker niet uitgesteld kan worden, kan de persoon, belast met het toezicht, een dwingende maatregel opleggen die maximaal zeven dagen geldt.<br /><br />Die dwingende maatregel wordt door de persoon, belast met het toezicht, in een proces-verbaal neergeschreven en wordt overhandigd aan een persoon die de ziekenhuisdirectie vertegenwoordigt of kan vertegenwoordigen.<br /><br />§ 2. De administrateur-generaal kan de dwingende maatregel die opgelegd is conform paragraaf 1, eerste lid, verlengen. Die verlenging is van onbepaalde duur.<br /><br />De administrateur-generaal brengt het ziekenhuis met een aangetekende brief op de hoogte van de verlenging van de dwingende maatregel. Die beslissing van de administrateur-generaal is met redenen omkleed en bevat de voorwaarden die vervuld moeten worden om aan de dwingende maatregel een einde te maken. <br /><br />Het ziekenhuis brengt de administratie op de hoogte van het vervullen van de voorwaarden. De administrateur-generaal beslist of de dwingende maatregel al dan niet wordt beëindigd.<br /><br />
+...
 
 ### ART. 4.
 
-Zowel in het geval, vermeld in artikel 2, als in het geval, vermeld in artikel 3, informeert het ziekenhuis alle betrokken patiënten over het bestaan en de gevolgen van de opgelegde dwingende maatregel, en neemt het ziekenhuis de nodige maatregel om de continuïteit van de zorg te garanderen.<br /><br />
+...
 
 ## HOOFDSTUK 3 Sluiting van illegaal geëxploiteerde psychiatrische verzorgingstehuizen of van illegaal geëxploiteerde initiatieven beschut wonen
 
 ### ART. 5.
 
-Als wordt vastgesteld dat een psychiatrisch verzorgingstehuis of een initiatief beschut wonen, onder welke benaming ook, wordt geëxploiteerd zonder dat de exploitant beschikt over de planningsvergunning en erkenning die vereist is volgens de wet of het decreet, kan de administrateur-generaal een voornemen tot bevel tot sluiting betekenen.<br /><br />Het voornemen van bevel tot sluiting vermeldt minstens de redenen waarom tot de sluiting wordt bevolen en de mogelijkheid om tegen dat voornemen een bezwaarschrift in te dienen.<br /><br />De exploitant van het psychiatrisch verzorgingstehuis of het initiatief beschut wonen kan een bezwaarschrift indienen tegen het voornemen van bevel tot sluiting.<br /><br />De procedure, vermeld in artikel 5, 6 en 7 van het besluit van de Vlaamse Regering van 18 februari 1997 tot vaststelling van de procedure voor de erkenning en de sluiting van rust- en verzorgingstehuizen, psychiatrische verzorgingstehuizen, initiatieven van beschut wonen en samenwerkingsverbanden van psychiatrische instellingen en diensten, is van overeenkomstige toepassing.<br /><br />
+...
 
 ### ART. 6.
 
-Als het bevel tot sluiting door de exploitant niet wordt nageleefd, kan de administrateur-generaal overgaan tot een gedwongen sluiting van het psychiatrisch verzorgingstehuis of het initiatief beschut wonen.<br /><br />De uitvoering van de beslissing tot gedwongen sluiting, vermeld in het eerste lid, moet het voorwerp uitmaken van een voorafgaand overleg tussen de burgemeester en de voorzitter van de Raad voor Maatschappelijk Welzijn van de gemeente in kwestie en de administratie, nadat de beheersinstantie van het psychiatrisch verzorgingstehuis of het initiatief beschut wonen in kwestie werd gehoord.<br /><br />De administrateur-generaal kan alle bewarende maatregelen opleggen die nodig zijn voor de bescherming van de gebruikers van het psychiatrisch verzorgingstehuis of het initiatief beschut wonen dat het voorwerp uitmaakt van de gedwongen sluiting.<br /><br />De burgemeester van de plaats waar het psychiatrisch verzorgingstehuis of het initiatief beschut wonen is gevestigd, gaat, op schriftelijk verzoek van de administrateur-generaal, over tot de uitvoering van het sluitingsbevel, overeenkomstig artikel 34, § 2, tweede en derde lid, van het decreet van 20 maart 2009 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin.<br /><br />
+...
 
 ## HOOFDSTUK 4 Slotbepalingen
 
 ### ART. 7.
 
-Artikel 31 tot en met 34, en artikel 35, eerste lid, 2° tot 5°, van het decreet van 20 maart 2009 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin treden in werking op de dag van de inwerkingtreding van dit besluit.<br /><br />
+...
 
 ### ART. 8.
 
-De Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
