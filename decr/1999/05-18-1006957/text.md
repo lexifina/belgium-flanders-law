@@ -96,7 +96,7 @@ De ministeriële besluiten van 29 juli 1987 houdende benoeming tot ambtenaar bij
 
 ### ART. 20.
 
-De Vlaamse regering wordt ertoe gemachtigd om toe te treden als stichtend lid tot de v.z.w. "Vlaams Instituut voor de Zee", afgekort: "VLIZ", met ingang van de datum van oprichting van de v.z.w.<br /><br />De doelstellingen van het Vlaams Instituut voor de Zee zijn de volgende:<br /><br />1° optreden als internationaal aanspreekpunt;<br /><br />2° coördinatieplatform voor zeewetenschappelijk onderzoek: informatie en ondersteuning verlenen voor de coördinatie voor onderzoek, zowel regionaal als internationaal;<br /><br />3° optreden als Vlaams Marien Datacentrum;<br /><br />4° coördinatie van logistieke ondersteuning en van sensibilisering rond zeewetenschappelijke activiteiten naar de verschillende doelgroepen toe;<br /><br />5° ondersteuning en coördinatie in het kader van de Vlaams-Nederlandse samenwerking inzake zeewetenschappelijk onderzoek.
+<P>...</P>
 
 ## HOOFDSTUK X MILIEUVERGUNNINGEN
 

@@ -2,16 +2,16 @@
   "codex_id": 1006957,
   "title": "Decreet van 1999-05-18 houdende diverse bepalingen naar aanleiding van de begroting 1999",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006957/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "2f5960b4c2455c648e687efe8a06bbe180bffecc6c5928318d9d7ff563206ba6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006957/VolledigDocument?datum=2014-09-08",
+  "source_sha256": "fb5e6656ad31c5b5d7dccad720d2708bd62c9e43d0d2958b528bc917d670c0e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006957&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-09-08",
   "made": "1999-05-18",
   "gazette": "1999-09-30",
   "numac": 1999036051,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2014-09-08",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-08; future article versions excluded; article text as the API gives it"
 }
