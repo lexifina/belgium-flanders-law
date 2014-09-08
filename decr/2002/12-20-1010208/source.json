@@ -2,16 +2,16 @@
   "codex_id": 1010208,
   "title": "Decreet van 2002-12-20 houdende bepalingen tot begeleiding van de begroting 2003",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010208/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "cf1d2270350dd814666999e31734e32c1092f591af51c8e70582b1f42c80844f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010208/VolledigDocument?datum=2014-09-08",
+  "source_sha256": "a13211d6c981732bad04e7b1646cf00b26264e743b61b49105321e68679432bf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010208&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-09-08",
   "made": "2002-12-20",
   "gazette": "2002-12-31",
   "numac": 2002036637,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2014-09-08",
   "article_versions": 76,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-08; future article versions excluded; article text as the API gives it"
 }
