@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024508,
+  "title": "Ministerieel besluit van 2014-06-05 tot wijziging van artikel 1 en 4 van het ministerieel besluit van 21 december 2007 houdende uitvoering van een aantal bepalingen van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024508/VolledigDocument?datum=2014-09-12",
+  "source_sha256": "cf7bcca66e2dc1f4c6a3c26ef90bac8a2ad338072d14213c42f9f4161fe3335e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024508&param=informatie",
+  "as_of": "2014-09-12",
+  "made": "2014-06-05",
+  "gazette": "2014-09-02",
+  "numac": 2014035905,
+  "document_start": "2014-09-12",
+  "document_end": null,
+  "in_force": "2014-09-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
