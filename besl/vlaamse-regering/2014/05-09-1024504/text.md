@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2014-05-09 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014
+
+### Aanhef
+
+<P>De   Vlaamse Regering,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 8 juli 2011 houdende regeling van de begroting, de   boekhouding, de toekenning van subsidies en de controle op de aanwending ervan,   en de controle door het Rekenhof;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 20 december 2013 houdende de algemene uitgavenbegroting van   de Vlaamse Gemeenschap voor het begrotingsjaar 2014, artikel 59;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 9   mei 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Op   voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Na   beraadslaging,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit:</P>
+
+### ART. 1.
+
+De vastleggingsmachtiging ingeschreven onder het   begrotingsartikel EC0/1EC-A-5-Y/IS van het Fonds Flankerend Economisch Beleid   wordt verhoogd met een bedrag van 1.864Keuro ten laste van het provisioneel   vastleggingskrediet met vastleggingsnummers 00.033.285 en 00.033.286, zoals   omschreven in artikel 127, zesde en zevende lid, van het decreet van 20 december   2013 houdende de algemene uitgavenbegroting van de Vlaamse gemeenschap voor het   begrotingsjaar 2014.
+
+### ART. 2.
+
+De kredieten, ingeschreven onder de begrotingsartikelen van   de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar   2014, worden herverdeeld overeenkomstig de onderstaande tabel:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">(in   EUR)<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD></TD>      <TD></TD>      <TD></TD>      <TD colSpan=2 align=center>van</TD>      <TD colSpan=2 align=center>Naar<BR></TD></TR>    <TR>      <TD>begrotingsartikel</TD>      <TD>basisallocatie</TD>      <TD>Krediet-soort</TD>      <TD>VAK</TD>      <TD>VEK</TD>      <TD>VAK</TD>      <TD>VEK<BR></TD></TR>    <TR>      <TD>EC0/1EC-A-5-Y/IS</TD>      <TD>0ED200 9999</TD>      <TD>MAC(1)</TD>      <TD>1.863.240</TD>      <TD>0</TD>      <TD></TD>      <TD><BR></TD></TR>    <TR>      <TD>GB0/1GF-D-2-Z/IS</TD>      <TD>GB0 GF000 4141</TD>      <TD>VAK</TD>      <TD></TD>      <TD></TD>      <TD>1.863.240</TD>      <TD>0<BR></TD></TR></TBODY></TABLE>
+
+### ART. 3.
+
+Een afschrift van dit besluit wordt ter kennisgeving   toegestuurd aan het Vlaams Parlement, het Rekenhof en het Departement Financiën   en Begroting.
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen en   voor het gezondheidsbeleid, is belast met de uitvoering van dit   besluit.
