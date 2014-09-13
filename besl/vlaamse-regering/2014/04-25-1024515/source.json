@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024515,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot erkenning van de beroepskwalificatie demonteur/monteur carrosserie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024515/VolledigDocument?datum=2014-09-13",
+  "source_sha256": "a95d66033b77aac3af9467f66615d1fa11fbe48a6e92a944be911a87294167fb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024515&param=informatie",
+  "as_of": "2014-09-13",
+  "made": "2014-04-25",
+  "gazette": "2014-09-03",
+  "numac": 2014035878,
+  "document_start": "2014-09-13",
+  "document_end": null,
+  "in_force": "2014-09-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-09-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
