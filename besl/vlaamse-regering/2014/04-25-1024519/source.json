@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024519,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot erkenning van de beroepskwalificatie taxichauffeur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024519/VolledigDocument?datum=2014-09-13",
+  "source_sha256": "274fe55a0c736ecbf58150b307a28553c5d0a9d01354134cb1b7be775fb79040",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024519&param=informatie",
+  "as_of": "2014-09-13",
+  "made": "2014-04-25",
+  "gazette": "2014-09-03",
+  "numac": 2014035775,
+  "document_start": "2014-09-13",
+  "document_end": null,
+  "in_force": "2014-09-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-09-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
