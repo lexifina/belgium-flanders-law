@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025283,
+  "title": "Ministerieel besluit van 2015-03-26 tot wijziging van het ministerieel besluit van 27 mei 2014 houdende de uitvoering van diverse besluiten met betrekking tot het woonbeleid in Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025283/VolledigDocument?datum=2014-09-14",
+  "source_sha256": "bb77edc35a1be1a4db6470b1fcb94231c327bc012bada31119ffa3c085ad3481",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025283&param=informatie",
+  "as_of": "2014-09-14",
+  "made": "2015-03-26",
+  "gazette": "2015-04-16",
+  "numac": 2015035455,
+  "document_start": "2015-04-26",
+  "document_end": null,
+  "in_force": "2014-09-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
