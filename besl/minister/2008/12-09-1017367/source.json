@@ -2,16 +2,16 @@
   "codex_id": 1017367,
   "title": "Ministerieel besluit van 2008-12-09 houdende uitvoering van het besluit van de Vlaamse Regering van 18 juli 2008 houdende de procedure voor de planning, de vaststelling en de goedkeuring van de uitvoeringsprogramma's in het kader van de planmatige realisatie van sociale woonprojecten en houdende de financiering van verrichtingen in het kader van sociale woonprojecten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017367/VolledigDocument?datum=2008-11-23",
-  "source_sha256": "e9ae520d98d2b8d65e43700a1cb9d89ed4f82bc7e7bfeba8c3df1147c6788abc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017367/VolledigDocument?datum=2014-09-14",
+  "source_sha256": "a15c49e6db5faf9e73b3ec8ad57e6393a2c734a6629f152b23a5a04ae1d06924",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017367&param=informatie",
-  "as_of": "2008-11-23",
+  "as_of": "2014-09-14",
   "made": "2008-12-09",
   "gazette": "2008-12-17",
   "numac": 2008036413,
   "document_start": "2008-11-23",
   "document_end": "2014-09-13",
-  "in_force": "2008-11-23",
+  "in_force": "2014-09-14",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2008-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-14; future article versions excluded; article text as the API gives it"
 }
