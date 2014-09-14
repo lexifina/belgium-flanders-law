@@ -10,23 +10,23 @@ In uitvoering van artikel 19, zesde lid, van het besluit van de Vlaamse Regering
 
 ### ART. 2.
 
-§ 1. De SHM's stellen binnen de termijnen, vermeld in § 2, de nodige gegevens voor de berekening van de GSC elektronisch ter beschikking van de Vlaamse Maatschappij voor Sociaal Wonen (VMSW). <br /><br />Op voorstel van de VMSW bepaalt de minister jaarlijks welke gegevens nodig zijn voor de berekening van de GSC en de wijze waarop de gegevens ter beschikking gesteld moeten worden.<br /><br />§ 2. Uiterlijk op 28 februari van elk referentiejaar bezorgen de SHM's de beschikbare gegevens over het referentiejaar.<br /><br />Uiterlijk op 28 februari van het jaar dat volgt op het referentiejaar, bezorgen de SHM's de exacte gegevens over het referentiejaar.
+<P>...</P>
 
 ### ART. 3.
 
-§ 1. In het referentiejaar berekent de VMSW voor elke SHM afzonderlijk het voorschot op de GSC voor dat referentiejaar. <br /><br />Ze houdt hierbij zowel rekening met de beschikbare gegevens van het referentiejaar, als met de evolutie van de inkomsten en de uitgaven en de eventuele toegekende GSC voor de drie voorafgaande referentiejaren, voor zover die ter beschikking zijn. <br /><br />§ 2. In afwijking van § 1 berekent de VMSW geen voorschot op de GSC als de SHM voor het referentiejaar de verplichting, vermeld in artikel 2, § 2, eerste lid, niet heeft nageleefd.<br /><br />Als het eerste lid van toepassing is, brengt de VMSW de SHM in kwestie op de hoogte van de niet-berekening van het voorschot.
+<P>...</P>
 
 ### ART. 4.
 
-§ 1. In het jaar dat volgt op het referentiejaar berekent de VMSW voor elke SHM afzonderlijk de definitieve GSC voor het referentiejaar, op basis van de door de SHM aangereikte gegevens over het referentiejaar. <br /><br />§ 2. In afwijking van § 1 berekent de VMSW geen definitieve GSC als de SHM voor het referentiejaar de verplichting, vermeld in artikel 2, § 2, tweede lid, niet heeft nageleefd.<br /><br />Als het eerste lid van toepassing is, brengt de VMSW de SHM in kwestie op de hoogte van de niet-berekening van de definitieve GSC.<br /><br />§ 3. Uiterlijk op 31 maart van het jaar dat volgt op het referentiejaar, bezorgt de VMSW een afrekening voor elke SHM afzonderlijk aan het intern verzelfstandigd agentschap Wonen-Vlaanderen.<br /><br />De afrekening bevat minstens de volgende gegevens :<br />1°een tabel met een overzicht van de werkelijke inkomsten en uitgaven van de SHM;<br />2° de definitieve GSC voor het referentiejaar, berekend overeenkomstig § 1;<br />3° het effectief uitbetaalde voorschot op de GSC voor het referentiejaar; <br />4° het voorschot op de GSC voor het jaar dat volgt op het referentiejaar, in voorkomend geval verrekend met het bedrag, vermeld in artikel 5, § 1, eerste lid;<br />5° het positieve of negatieve saldo van de bedragen, vermeld in 2°, 3° en 4°.<br /><br />Uiterlijk twintig werkdagen na de ontvangst van de afrekeningen legt het agentschap, vermeld in het eerste lid de afrekeningen samen met zijn eindadvies ter goedkeuring voor aan de minister.<br /><br />De minister neemt een beslissing tot goedkeuring of afkeuring van de afrekeningen. Een goedkeuringsbeslissing vermeldt steeds het globale bedrag van de saldi van de goedgekeurde afrekeningen.
+<P>...</P>
 
 ### ART. 5.
 
-§ 1. Als aanvullende informatie later uitwijst dat de berekening van de definitieve GSC voor een SHM niet correct was, berekent de VMSW het te veel of te weinig betaalde bedrag. <br /><br />De VMSW brengt de SHM in kwestie op de hoogte van de niet-correcte berekening van de definitieve GSC.<br /><br />§ 2. Het te veel of te weinig betaalde bedrag wordt verrekend bij de eerstvolgende vaststelling van het voorschot op de GSC voor de SHM in kwestie, op voorwaarde dat die verrekening maximaal vijf jaar na het oorspronkelijke referentiejaar plaatsvindt.
+<P>...</P>
 
 ### ART. 6.
 
-De toezichthouder voor de sociale huisvesting oefent controle uit op de correctheid van de door de SHM's ter beschikking gestelde gegevens, vermeld in artikel 2.
+<P>...</P>
 
 ### ART. 7.
 
