@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024541,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 tot onderwerping van delen van het grondgebied van de gemeente Asse aan landinrichting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024541/VolledigDocument?datum=2014-09-20",
+  "source_sha256": "8d4bad437dee8382e2ea4263b14f32569913540fab3f5c60e8b91fb286d0abce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024541&param=informatie",
+  "as_of": "2014-09-20",
+  "made": "2014-05-16",
+  "gazette": "2014-09-10",
+  "numac": 2014035741,
+  "document_start": "2014-09-20",
+  "document_end": null,
+  "in_force": "2014-09-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
