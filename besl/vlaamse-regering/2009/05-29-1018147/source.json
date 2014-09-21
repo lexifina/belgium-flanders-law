@@ -2,16 +2,16 @@
   "codex_id": 1018147,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 betreffende de ondersteuning van de Industriële Onderzoeksfondsen en de interfaceactiviteiten van de associaties in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018147/VolledigDocument?datum=2011-05-22",
-  "source_sha256": "fe927e9627576f664adc40d505505c331b2b562b2e6a13205838174b5a3cff0d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018147/VolledigDocument?datum=2014-09-21",
+  "source_sha256": "a1839ad428fe77f3d7b58711f8409035c8fc1fe09d5689c6a0cc11ec8e8cac3a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018147&param=informatie",
-  "as_of": "2011-05-22",
+  "as_of": "2014-09-21",
   "made": "2009-05-29",
   "gazette": "2009-07-23",
   "numac": 2009035683,
   "document_start": "2009-06-05",
   "document_end": null,
-  "in_force": "2011-05-22",
+  "in_force": "2014-09-21",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2011-05-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-21; future article versions excluded; article text as the API gives it"
 }
