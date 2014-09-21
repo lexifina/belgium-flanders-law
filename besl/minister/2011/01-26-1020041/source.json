@@ -2,16 +2,16 @@
   "codex_id": 1020041,
   "title": "Ministerieel besluit van 2011-01-26 tot vaststelling van de voorwaarden en procedures voor de betaling van de retributie, en van de voorwaarden voor de aanvraag van een conformiteitsattest voor vast opgestelde zendantennes van elektromagnetische golven met een frequentie tussen 10 MHz en 10 GHz",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020041/VolledigDocument?datum=2011-02-26",
-  "source_sha256": "4f5088c0d5b312df63da34d73b2b60752d12fd4c9f1f817b92c9e0c8c5e7320f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020041/VolledigDocument?datum=2014-09-21",
+  "source_sha256": "07d0f5720287ce0b2a56d4ec8dd8cdc14b27419cf3a254bca9fcb9da365b711d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020041&param=informatie",
-  "as_of": "2011-02-26",
+  "as_of": "2014-09-21",
   "made": "2011-01-26",
   "gazette": "2011-02-16",
   "numac": 2011035153,
   "document_start": "2011-02-26",
   "document_end": null,
-  "in_force": "2011-02-26",
+  "in_force": "2014-09-21",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-02-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-21; future article versions excluded; article text as the API gives it"
 }
