@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024549,
+  "title": "Ministerieel besluit van 2014-05-12 tot wijziging van diverse bepalingen van het ministerieel besluit van 26 januari 2011 tot vaststelling van de voorwaarden en procedures voor de betaling van de retributie, en van de voorwaarden voor de aanvraag van een conformiteitsattest voor vast opgestelde zendantennes van elektromagnetische golven met een frequentie tussen 10 MHz en 10 GHz",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024549/VolledigDocument?datum=2014-09-21",
+  "source_sha256": "f787cebd3c172935989e27d4243fbeef07f4ec01dff5db43dee33668219661d0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024549&param=informatie",
+  "as_of": "2014-09-21",
+  "made": "2014-05-12",
+  "gazette": "2014-09-11",
+  "numac": 2014035767,
+  "document_start": "2014-09-21",
+  "document_end": null,
+  "in_force": "2014-09-21",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
