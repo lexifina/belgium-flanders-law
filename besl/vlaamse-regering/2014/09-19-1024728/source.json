@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024728,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-19 houdende sluiting van de zitting 2014 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024728/VolledigDocument?datum=2014-09-21",
+  "source_sha256": "22d61331bde1fb6e1da56b3f310320d82ba6d58b12fe80b52013ea8d0ab525c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024728&param=informatie",
+  "as_of": "2014-09-21",
+  "made": "2014-09-19",
+  "gazette": "2014-11-03",
+  "numac": 2014036723,
+  "document_start": "2014-09-21",
+  "document_end": null,
+  "in_force": "2014-09-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
