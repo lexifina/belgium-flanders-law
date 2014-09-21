@@ -52,6 +52,14 @@ Aan deel VII van hetzelfde besluit, het laatst gewijzigd bij het besluit   van d
 
 Aan deel VII van hetzelfde besluit, het laatst gewijzigd bij het besluit   van de Vlaamse Regering van 1 februari 2013, wordt een artikel VII 175   toegevoegd dat luidt als volgt:<BR>"Art. VII 175. § 1. In afwijking van bijlage   11 verkrijgt het van de Nationale Plantentuin van België overgehevelde   personeelslid dat op 1 januari 2014 minstens 50 jaar is, dat aan het maximum   betaald wordt van de Vlaamse salarisschaal vermeld in de eerste kolom van   onderstaande tabel en dat geen loopbaanstap in de functionele loopbaan meer kan   zetten voor de leeftijd van 55 jaar, vanaf de maand volgend op de leeftijd van   55 jaar, de salarisschaal vermeld in de tweede kolom van onderstaande tabel,   onverminderd de toepassing van deel VI van dit besluit. <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Salarisschaal bij de inschaling       <TD>Salarisschaal vanaf 55 jaar <BR>    <TR>      <TD>A 122       <TD>A 122 P <BR>    <TR>      <TD>A 131       <TD>A 131 P <BR>    <TR>      <TD>B 112       <TD>B 112 P <BR>    <TR>      <TD>C 111       <TD>C 111 P <BR>    <TR>      <TD>C 112       <TD>C 112 P <BR>    <TR>      <TD>C 143       <TD>C 143 P <BR>    <TR>      <TD>C 211       <TD>C 211 P <BR>    <TR>      <TD>C 212       <TD>C 212 P <BR>    <TR>      <TD>D 113       <TD>D 113 P<BR></TD></TR></TBODY></TABLE><BR>§ 2. De in de tweede kolom vermelde   salarisschalen worden vermeld in bijlage 12."<BR>
 
+### ART. 13.
+
+In artikel VIII 20 van hetzelfde besluit worden de volgende wijzigingen   aangebracht: <BR>1° in het eerste lid wordt de zin "De strafvordering schorst de   tuchtprocedure en de tuchtuitspraak" opgeheven; <BR>2° in het eerste lid wordt   het woord "eveneens" opgeheven; <BR>3° het tweede lid wordt opgeheven.   <BR>
+
+### ART. 14.
+
+In artikel VIII 22 van hetzelfde besluit wordt het derde lid opgeheven.   <BR>
+
 ### ART. 15.
 
 Aan artikel X 89, § 1 van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 2 december 2011, worden tussen het woord "Financiën" en   de woorden "en dat op het ogenblik" de zinsnede "of op 1 januari 2014 van de   Nationale Plantentuin van België" ingevoegd. <BR>
