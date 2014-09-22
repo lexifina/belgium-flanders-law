@@ -1117,9 +1117,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>De opslag van afgedankte draagbare batterijen, zoals gedefinieerd in het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, op een inzamelpunt waar alleen eindgebuikers ze kunnen inleveren, is geen inrichting voor de verwerking van afvalstoffen als de afvalstoffen regelmatig voor verwerking worden afgevoerd en als dat gekoppeld is aan educatieve acties inzake preventie.</p>
 
-			<p><u>Uitzonderingen:</u></p>
-
-			<p>Kringloopcentra, e.d. met name inrichtingen waar tweedehands huishoudelijke goederen en hiermee vergelijkbare bedrijfsgoederen die in aanmerking komen voor productiegebruik (zoals kleding, boeken, meubelen, huisraad, speelgoed, elektrische en elektronische apparatuur) worden opgeslagen, gesorteerd, gereinigd en/of hersteld, zijn geen inrichtingen voor de verwerking van afvalstoffen.</p>
+			<p><u>Uitzonderingen:</u><br>
+			Hergebruikcentra voor EEA waar uitsluitend afgedankte EEA die een visuele voorselectie op herbruikbaarheid hebben ondergaan, worden opgeslagen, gesorteerd, getest en, als dat nodig is, worden gereinigd en/of hersteld, zijn geen inrichtingen voor de verwerking van afvalstoffen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -1142,23 +1141,28 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.1</p>
+			<p><br>
+			2.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p><u>Opslag en overslag van afvalstoffen</u></p>
+			<p><br>
+			<u>Opslag en overslag van afvalstoffen</u></p>
 
 			<p>Opmerking:</p>
 
 			<p>De opslag en overslag van dierlijke bijproducten die worden beschouwd als afvalstoffen zoals bedoeld in het <em>decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen</em>, zijn ingedeeld onder de subrubriek 2.2.4 en vallen niet onder deze subrubriek 2.1.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p><br>
+			&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>&nbsp;</p>
+			<p><br>
+			&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p><br>
+			&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -1172,10 +1176,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.1.1</p>
+			<p><br>
+			2.1.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag van afvalstoffen niet aan een verwerking van de afvalstoffen verbonden</p>
+			<p><br>
+			Opslag van afvalstoffen niet aan een verwerking van de afvalstoffen verbonden</p>
 
 			<p><em><u>Uitzondering:</u></em></p>
 
@@ -1190,13 +1196,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>Deze opslag kan wel ingedeeld zijn volgens een andere rubriek (zie o.a. rubriek 30).</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
+			<p><br>
+			1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>O, T</p>
+			<p><br>
+			O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p><br>
+			B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -1205,15 +1214,18 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p><br>
+			A</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.1.2</p>
+			<p><br>
+			2.1.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en overslag van afvalstoffen die niet aan verwerking verbonden zijn, met een opslagcapaciteit van (overslag van afvalstoffen is het bijeenvoegen van gelijksoortige afvalstoffen in grotere recipiënten en/of transportmiddelen met het oog op een rendabeler transport ervan):</p>
+			<p><br>
+			Opslag en overslag van afvalstoffen die niet aan verwerking verbonden zijn, met een opslagcapaciteit van (overslag van afvalstoffen is het bijeenvoegen van gelijksoortige afvalstoffen in grotere recipiënten en/of transportmiddelen met het oog op een rendabeler transport ervan):</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -1314,10 +1326,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.1.3</p>
+			<p><br>
+			2.1.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing als vermeld in het Bodemdecreet en Vlarebo.</p>
+			<p><br>
+			Tussentijdse opslagplaats voor uitgegraven bodem die niet voldoet aan een toepassing als vermeld in het Bodemdecreet en Vlarebo.</p>
 
 			<p>Bijhorende beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn inbegrepen in deze rubriek.</p>
 			</td>
@@ -1394,10 +1408,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2</p>
+			<p><br>
+			2.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p><u>Opslag en nuttige toepassing van afvalstoffen</u></p>
+			<p><br>
+			<u>Opslag en nuttige toepassing van afvalstoffen</u></p>
 
 			<p><em>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van het merendeel van de afvalstoffen mogelijk wordt.</em> Het verbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
 			</td>
@@ -1422,10 +1438,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.1</p>
+			<p><br>
+			2.2.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en sortering van:</p>
+			<p><br>
+			Opslag en sortering van:</p>
 
 			<p><em>Sorteren is de afvalstoffen manueel of met lichte gereedschappen soort bij soort voegen. Indien het sorteren deel is van andere ingedeelde handelingen op afvalstoffen valt 2.2.1. weg.</em></p>
 			</td>
@@ -1715,7 +1733,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2° meer dan 1 ton voor afvalstoffen andere dan asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
+			<p>&nbsp;&nbsp;2° meer dan 1 ton voor afvalstoffen andere dan asbestafval bestaande uit asbestcement of andere asbesthoudende bouwmaterialen waarin asbest in gebonden vorm aanwezig is</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -1764,10 +1782,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.2</p>
+			<p><br>
+			2.2.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en mechanische behandeling van:</p>
+			<p><br>
+			Opslag en mechanische behandeling van:</p>
 
 			<p><em>Mechanisch behandelen is het behandelen van de afvalstoffen met werktuigen, zonder de chemische eigenschappen van de afvalstoffen te veranderen. Het is o.m. het breken, demonteren, hakselen, klieven, knippen, kuisen, persen, pletten, scheiden, shredderen, snijbranden, stralen, wassen, zagen, zeven.</em></p>
 
@@ -2061,13 +2081,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p>d) voertuigwrakken of afgedankte voertuigen, met een opslagcapaciteit van:</p>
 
-			<p>Uitzonderingen:</p>
+			<p><em>Uitzonderingen:</em></p>
 
-			<p>1° De opslag en mechanische behandeling van voertuigwrakken of afgedankte voertuigen vallend onder de toepassing van rubriek 15.5, zijn niet ingedeeld in onderhavige rubriek 2.2.2.d).</p>
+			<p><em>1° De opslag en mechanische behandeling van voertuigwrakken of afgedankte voertuigen vallend onder de toepassing van rubriek 15.5, zijn niet ingedeeld in onderhavige rubriek 2.2.2.d).</em></p>
 
-			<p>2° De opslag van voertuigwrakken of afgedankte voertuigen op de plaats van productie is niet ingedeeld in onderhavige rubriek 2.2.2.d) indien de opslag gebeurt in functie van een regelmatige afvoer.</p>
+			<p><em>2° De opslag van voertuigwrakken of afgedankte voertuigen op de plaats van productie is niet ingedeeld in onderhavige rubriek 2.2.2.d) indien de opslag gebeurt in functie van een regelmatige afvoer.</em></p>
 
-			<p>3° De opslag van voertuigwrakken of afgedankte voertuigen ontstaan uit de aanvaardingsplicht, terugnameplicht of de vrijwillige terugname, is niet ingedeeld in onderhavige rubriek 2.2.2.d) indien de opslag gebeurt bij de eindverkoper, tussenhandelaar, producent of invoerder van de stoffen en indien de opslag gebeurt in functie van een regelmatige afvoer.</p>
+			<p><em>3° De opslag van voertuigwrakken of afgedankte voertuigen ontstaan uit de aanvaardingsplicht, terugnameplicht of de vrijwillige terugname, is niet ingedeeld in onderhavige rubriek 2.2.2.d) indien de opslag gebeurt bij de eindverkoper, tussenhandelaar, producent of invoerder van de stoffen en indien de opslag gebeurt in functie van een regelmatige afvoer.</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -2093,7 +2113,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 1° maximaal 25 ton of 25 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
+			<p>1° maximaal 25 ton of 25 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
 
 			<p>en/of</p>
 
@@ -2123,7 +2143,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2° meer dan 25 ton of 25 voertuigwrakken of afgedankte voertuigen tot maximaal 100 ton of 100 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
+			<p>2° meer dan 25 ton of 25 voertuigwrakken of afgedankte voertuigen tot maximaal 100 ton of 100 voertuigwrakken of afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten (deze afgedankte voertuigen zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen),</p>
 
 			<p>en/of</p>
 
@@ -2153,7 +2173,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 3° meer dan 100 ton of 100 voertuigwrakken of afgedankte voertuigen die al dan niet vloeistoffen of andere gevaarlijke onderdelen bevatten (afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen).</p>
+			<p>3° meer dan 100 ton of 100 voertuigwrakken of afgedankte voertuigen die al dan niet vloeistoffen of andere gevaarlijke onderdelen bevatten (afgedankte voertuigen die noch vloeistoffen, noch andere gevaarlijke onderdelen bevatten zijn enkel afkomstig van erkende centra voor depollutie, demontage en vernietiging van afgedankte voertuigen).</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -2380,10 +2400,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.3</p>
+			<p><br>
+			2.2.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en biologische behandeling van:</p>
+			<p><br>
+			Opslag en biologische behandeling van:</p>
 
 			<p>nuttige toepassing op de plaats van productie, inclusief thuiscompostering, alsook boerderijcompostering wanneer er gewerkt wordt met uitsluitend bedrijfseigen uitgangsmateriaal en de compost uitsluitend bestemd is voor de eigen percelen, wordt niet als opslag of behandeling van afvalstoffen beschouwd</p>
 			</td>
@@ -2866,32 +2888,34 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.4</p>
+			<p><br>
+			2.2.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p><em>Dierlijke bijproducten niet bestemd voor menselijke consumptie die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen. Voor dierlijke bijproducten niet bestemd voor menselijke consumptie, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</em></p>
+			<p><br>
+			Dierlijke bijproducten niet bestemd voor menselijke consumptie die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen. Voor dierlijke bijproducten niet bestemd voor menselijke consumptie, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</p>
 
-			<p><em>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU-verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</em></p>
+			<p>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU-verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</p>
 
-			<p><em>1° “dierlijke bijproducten”: hele kadavers of delen van dieren of producten van dierlijke oorsprong, zoals bedoeld in de artikelen 4, 5 en 6 van de EU-verordening nr. 1774/2002, die niet voor menselijke consumptie bestemd zijn, met inbegrip van eicellen, embryo’s en sperma;</em></p>
+			<p>1° “dierlijke bijproducten”: hele kadavers of delen van dieren of producten van dierlijke oorsprong, zoals bedoeld in de artikelen 4, 5 en 6 van de EU-verordening nr. 1774/2002, die niet voor menselijke consumptie bestemd zijn, met inbegrip van eicellen, embryo’s en sperma;</p>
 
-			<p><em>2° “dierlijk afval”: dierlijke bijproducten, voor zover ze voldoen aan de definitie van afval uit het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van keukenafval, etensresten, voormalige voedingsmiddelen, rauwe melk, eierschalen en bijproducten van gebarsten eieren, honing, schalen van schaaldieren, schelpen van schelpdieren, de inhoud van het maagdarmkanaal, in zoverre deze gescheiden is van het maagdarmkanaal, uitwerpselen, eicellen, embryo’s en sperma;</em></p>
+			<p>2° “dierlijk afval”: dierlijke bijproducten, voor zover ze voldoen aan de definitie van afval uit het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van keukenafval, etensresten, voormalige voedingsmiddelen, rauwe melk, eierschalen en bijproducten van gebarsten eieren, honing, schalen van schaaldieren, schelpen van schelpdieren, de inhoud van het maagdarmkanaal, in zoverre deze gescheiden is van het maagdarmkanaal, uitwerpselen, eicellen, embryo’s en sperma;</p>
 
-			<p><em>3° “categorie 1-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 4 van bovenvermelde EU-verordening nr. 1774/2002;</em></p>
+			<p>3° “categorie 1-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 4 van bovenvermelde EU-verordening nr. 1774/2002;</p>
 
-			<p><em>4° “categorie 2-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 5 van bovenvermelde EU-verordening nr. 1774/2002;</em></p>
+			<p>4° “categorie 2-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 5 van bovenvermelde EU-verordening nr. 1774/2002;</p>
 
-			<p><em>5° “categorie 3-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 6 van bovenvermelde EU-verordening nr. 1774/2002;</em></p>
+			<p>5° “categorie 3-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 6 van bovenvermelde EU-verordening nr. 1774/2002;</p>
 
-			<p><em>6° “intermediair categorie 1- of categorie 2-bedrijf”: een bedrijf waar niet verwerkt categorie 1- of categorie 2-materiaal wordt gehanteerd en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming en waar bepaalde voorbereidende activiteiten, zoals het verwijderen van huiden en het verrichten van keuringen na de slacht, kunnen plaatsvinden;</em></p>
+			<p>6° “intermediair categorie 1- of categorie 2-bedrijf”: een bedrijf waar niet verwerkt categorie 1- of categorie 2-materiaal wordt gehanteerd en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming en waar bepaalde voorbereidende activiteiten, zoals het verwijderen van huiden en het verrichten van keuringen na de slacht, kunnen plaatsvinden;</p>
 
-			<p><em>7° “intermediair categorie 3-bedrijf”: een bedrijf waar niet verwerkt categorie 3-materiaal wordt gesorteerd en/of versneden en/of gekoeld of diepgevroren in blokken en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming;</em></p>
+			<p>7° “intermediair categorie 3-bedrijf”: een bedrijf waar niet verwerkt categorie 3-materiaal wordt gesorteerd en/of versneden en/of gekoeld of diepgevroren in blokken en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming;</p>
 
-			<p><em>8° “verwerkingsbedrijf”: een bedrijf waar dierlijke bijproducten worden verwerkt waarbij onder “verwerkte producten” wordt verstaan dierlijke bijproducten die een van de verwerkingsmethoden of een andere behandeling volgens de eisen van bijlage VII of VIII van de EU-verordening hebben ondergaan;</em></p>
+			<p>8° “verwerkingsbedrijf”: een bedrijf waar dierlijke bijproducten worden verwerkt waarbij onder “verwerkte producten” wordt verstaan dierlijke bijproducten die een van de verwerkingsmethoden of een andere behandeling volgens de eisen van bijlage VII of VIII van de EU-verordening hebben ondergaan;</p>
 
-			<p><em>9° “opslagbedrijf”: een bedrijf, met uitzondering van de onder EG-richtlijn 95/69/EG van 22 december 1995 houdende vaststelling van de voorwaarden en bepalingen voor de erkenning en de registratie van bedrijven en tussenpersonen in de sector diervoeding vallende bedrijven en tussenpersonen, waar verwerkte producten tijdelijk worden opgeslagen voordat zij voor hun einddoel worden gebruikt of definitief worden verwijderd;</em></p>
+			<p>9° “opslagbedrijf”: een bedrijf, met uitzondering van de onder EG-richtlijn 95/69/EG van 22 december 1995 houdende vaststelling van de voorwaarden en bepalingen voor de erkenning en de registratie van bedrijven en tussenpersonen in de sector diervoeding vallende bedrijven en tussenpersonen, waar verwerkte producten tijdelijk worden opgeslagen voordat zij voor hun einddoel worden gebruikt of definitief worden verwijderd;</p>
 
-			<p><em>10° “technisch bedrijf”: een bedrijf waar dierlijke bijproducten worden gebruikt voor de vervaardiging van technische producten waarbij onder “technische producten” wordt verstaan rechtstreeks van bepaalde dierlijke bijproducten vervaardigde producten die niet voor menselijke consumptie of diervoeding bestemd zijn, zoals gelooide en behandelde huiden, jachttrofeeën, bewerkte wol, haar, varkenshaar, veren en delen van veren, serum van paardachtigen, bloedproducten, farmaceutische producten, medische hulpmiddelen, cosmetische producten, beenderproducten voor porselein, gelatine en lijm, biologische meststoffen, bodemverbeteraars, gesmolten vet, vetderivaten, verwerkte mest en melk van producten op basis van melk.</em></p>
+			<p>10° “technisch bedrijf”: een bedrijf waar dierlijke bijproducten worden gebruikt voor de vervaardiging van technische producten waarbij onder “technische producten” wordt verstaan rechtstreeks van bepaalde dierlijke bijproducten vervaardigde producten die niet voor menselijke consumptie of diervoeding bestemd zijn, zoals gelooide en behandelde huiden, jachttrofeeën, bewerkte wol, haar, varkenshaar, veren en delen van veren, serum van paardachtigen, bloedproducten, farmaceutische producten, medische hulpmiddelen, cosmetische producten, beenderproducten voor porselein, gelatine en lijm, biologische meststoffen, bodemverbeteraars, gesmolten vet, vetderivaten, verwerkte mest en melk van producten op basis van melk.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -3582,10 +3606,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.6</p>
+			<p><br>
+			2.2.6</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en reiniging van recipiënten (verpakkingen en containers) door inwendig wassen van:</p>
+			<p><br>
+			Opslag en reiniging van recipiënten (verpakkingen en containers) door inwendig wassen van:</p>
 
 			<p><em>Containers zijn laadkisten voor vervoer, maar ook tankwagens, bulkwagens, spoorwegwagens, scheepsruimen.</em></p>
 			</td>
@@ -3740,9 +3766,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.2.7</p>
+			<p><br>
+			2.2.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">...</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm"><br>
+			...</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -3763,9 +3791,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
@@ -3781,9 +3807,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -3825,9 +3849,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -3948,10 +3970,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3</p>
+			<p><br>
+			2.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p><u>Opslag en verwijdering van afvalstoffen</u></p>
+			<p><br>
+			<u>Opslag en verwijdering van afvalstoffen</u></p>
 
 			<p><em>Alle inrichtingen onder 2.3. zijn inrichtingen waarin handelingen gebeuren die leiden tot de vernietiging of de definitieve opslag in of op de bodem van afvalstoffen, met uitzondering van subrubriek 2.3.11.</em></p>
 
@@ -3978,10 +4002,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.1</p>
+			<p><br>
+			2.3.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
+			<p><br>
+			Opslag en mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
 
 			<p><em>Mechanisch behandelen is het behandelen van afvalstoffen met werktuigen, zonder de chemische eigenschappen van de afvalstoffen te veranderen. Het is o.m. het breken, demonteren, hakselen, klieven, knippen, kuisen, persen, pletten, scheiden, shredderen, snijbranden, stralen, wassen, zagen, zeven.</em></p>
 			</td>
@@ -4058,10 +4084,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.2</p>
+			<p><br>
+			2.3.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en fysisch-chemische behandeling, al of niet in combinatie met mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
+			<p><br>
+			Opslag en fysisch-chemische behandeling, al of niet in combinatie met mechanische behandeling, andere dan deze bedoeld in rubriek 2.3.7. van:</p>
 
 			<p><em>Fysisch-chemisch behandelen van afvalstoffen is de chemische eigenschappen, de chemische samenstelling of de aggregatietoestand van de afvalstoffen wijzigen. Het is o.m. het decanteren, distilleren, extraheren, mengen, neerslaan, neutraliseren, ontwateren, oxideren, raffineren, regenereren, reduceren, smelten, solidifiëren.</em></p>
 
@@ -4497,10 +4525,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.4</p>
+			<p><br>
+			2.3.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en verbranding of meeverbranding, al dan niet als experiment, met of zonder energiewinning en met of zonder terugwinning van stoffen van:</p>
+			<p><br>
+			Opslag en verbranding of meeverbranding, al dan niet als experiment, met of zonder energiewinning en met of zonder terugwinning van stoffen van:</p>
 
 			<p><em>Uitzondering:</em></p>
 
@@ -4527,10 +4557,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.4.1</p>
+			<p><br>
+			2.3.4.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en verbranding van:</p>
+			<p><br>
+			Opslag en verbranding van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -4967,10 +4999,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.4.2</p>
+			<p><br>
+			2.3.4.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en verbranding van:</p>
+			<p><br>
+			Opslag en verbranding van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -5251,10 +5285,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.4.3</p>
+			<p><br>
+			2.3.4.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Experimentele verbranding of meeverbranding waar minder dan 50 ton afval per jaar wordt verbrand of meeverbrand. Wanneer minder dan 50 ton afval per jaar wordt verbrand of meeverbrand zijn de rubrieken 2.3.4.1 of 2.3.4.2 niet van toepassing. Wanneer meer dan 50 ton afval per jaar wordt verbrand of meeverbrand, wordt de inrichting ingedeeld onder 2.3.4.1 of 2.3.4.2.</p>
+			<p><br>
+			Experimentele verbranding of meeverbranding waar minder dan 50 ton afval per jaar wordt verbrand of meeverbrand. Wanneer minder dan 50 ton afval per jaar wordt verbrand of meeverbrand zijn de rubrieken 2.3.4.1 of 2.3.4.2 niet van toepassing. Wanneer meer dan 50 ton afval per jaar wordt verbrand of meeverbrand, wordt de inrichting ingedeeld onder 2.3.4.1 of 2.3.4.2.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5277,9 +5313,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.4.4</p>
+			<p><br>
+			2.3.4.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">...</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm"><br>
+			...</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -5299,36 +5337,46 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.5</p>
+			<p><br>
+			2.3.5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag en reiniging van metalen recipiënten door uitbranden</p>
+			<p><br>
+			Opslag en reiniging van metalen recipiënten door uitbranden</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
+			<p><br>
+			1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>M, O, T</p>
+			<p><br>
+			M, O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p><br>
+			B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>P</p>
+			<p><br>
+			P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>J</p>
+			<p><br>
+			J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p><br>
+			B</p>
 			</td>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.6</p>
+			<p><br>
+			2.3.6</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Stortplaatsen, andere dan die vermeld in rubriek 2.3.7, van:</p>
+			<p><br>
+			Stortplaatsen, andere dan die vermeld in rubriek 2.3.7, van:</p>
 
 			<p>het rechtstreeks terugstorten op de plaats van ontginning, van materialen of stoffen in hun natuurlijke staat, voorzover ze afkomstig zijn van geologische afzettingen die tot het tertiaire of het kwartaire tijdperk behoren (zand-, klei-, leem, mergel en grindafzettingen) is geen stortactiviteit.</p>
 			</td>
@@ -5408,7 +5456,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2) monostortplaats voor inerte afvalstoffen</p>
+			<p>&nbsp;&nbsp;2) monostortplaats voor inerte afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5460,7 +5508,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 1) stortplaats voor gemengde niet-gevaarlijke huishoudelijke vaste afvalstoffen met hoog gehalte aan organisch/bioafbreekbaar en anorganisch afval</p>
+			<p>&nbsp;&nbsp;1) stortplaats voor gemengde niet-gevaarlijke huishoudelijke vaste afvalstoffen met hoog gehalte aan organisch/bioafbreekbaar en anorganisch afval</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5486,7 +5534,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 2) stortplaats voor voornamelijk organisch niet-gevaarlijke afvalstoffen</p>
+			<p>&nbsp;&nbsp;2) stortplaats voor voornamelijk organisch niet-gevaarlijke afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5512,7 +5560,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 3) stortplaats voor anorganische niet-gevaarlijke afvalstoffen met laag organisch/bioafbreekbaar gehalte</p>
+			<p>&nbsp;&nbsp;3) stortplaats voor anorganische niet-gevaarlijke afvalstoffen met laag organisch/bioafbreekbaar gehalte</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5538,7 +5586,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 4) monostortplaats voor niet-gevaarlijke afvalstoffen, andere dan inerte afvalstoffen</p>
+			<p>&nbsp;&nbsp;4) monostortplaats voor niet-gevaarlijke afvalstoffen, andere dan inerte afvalstoffen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5564,7 +5612,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 5) stortplaats voor niet-gevaarlijke afvalstoffen van iedere andere oorsprong die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor niet gevaarlijk afval (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
+			<p>&nbsp;&nbsp;5) stortplaats voor niet-gevaarlijke afvalstoffen van iedere andere oorsprong die voldoen aan de criteria voor de aanvaarding van afvalstoffen op stortplaatsen voor niet gevaarlijk afval (criteria: zie afdeling 5.2.4 van titel II van het VLAREM)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5590,7 +5638,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>&nbsp;&nbsp; 6) stortplaats voor stabiele, niet-reactieve gevaarlijke afvalstoffen (bij voorbeeld verharde of verglaasde afvalstoffen) met een uitlooggedrag dat gelijkwaardig is aan dat van de onder 5° vermelde niet gevaarlijke afvalstoffen, en die voldoen aan de relevante aanvaardingscriteria (criteria: zie afdeling 5.2.4 van titel II van het VLAREM); die gevaarlijke afvalstoffen worden niet gestort in cellen die voor biologisch afbreekbare niet gevaarlijke afvalstoffen bestemd zijn</p>
+			<p>&nbsp;&nbsp;6) stortplaats voor stabiele, niet-reactieve gevaarlijke afvalstoffen (bij voorbeeld verharde of verglaasde afvalstoffen) met een uitlooggedrag dat gelijkwaardig is aan dat van de onder 5° vermelde niet gevaarlijke afvalstoffen, en die voldoen aan de relevante aanvaardingscriteria (criteria: zie afdeling 5.2.4 van titel II van het VLAREM); die gevaarlijke afvalstoffen worden niet gestort in cellen die voor biologisch afbreekbare niet gevaarlijke afvalstoffen bestemd zijn</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -5743,10 +5791,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.7</p>
+			<p><br>
+			2.3.7</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Opslag, behandeling en verwijdering van baggerspecie met uitzondering van het ter plaatse uitspreiden van niet-verontreinigde ruimingsspecie</p>
+			<p><br>
+			Opslag, behandeling en verwijdering van baggerspecie met uitzondering van het ter plaatse uitspreiden van niet-verontreinigde ruimingsspecie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -5873,9 +5923,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.8</p>
+			<p><br>
+			2.3.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">...</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm"><br>
+			...</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -6257,9 +6309,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -6277,9 +6327,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -6316,10 +6364,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>2.3.11</p>
+			<p><br>
+			2.3.11</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Het verzamelen of storten van winningsafval op een terrein, ongeacht of dat afval zich in vaste vorm, in een oplossing, in een suspensie, of in vloeibare toestand bevindt, gedurende de volgende termijnen:</p>
+			<p><br>
+			Het verzamelen of storten van winningsafval op een terrein, ongeacht of dat afval zich in vaste vorm, in een oplossing, in een suspensie, of in vloeibare toestand bevindt, gedurende de volgende termijnen:</p>
 
 			<p>Uitzondering: het volgende valt niet onder subrubriek 2.3.11:</p>
 
@@ -6335,7 +6385,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>4° niet-verontreinigde bodem en niet-commercialiseerbare fracties oppervlaktedelfstoffen.</p>
 
-			<p>Opmerking: de definities, vermeld in titel II van het VLAREM onder “Afval van winningsindustrieën”, zijn tevens van toepassing</p>
+			<p><br>
+			Opmerking: de definities, vermeld in titel II van het VLAREM onder “Afval van winningsindustrieën”, zijn tevens van toepassing</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -6491,7 +6542,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>2.3.12</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Dierenbegraafplaatsen</p>
+			<p>Dierenbegraafplaatsen<br>
+			&nbsp;</p>
+
+			<p>Uitzonderingen :<br>
+			De opslag van heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten als vermeld in artikel 1.2.1, § 3/1, 6°, van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van lampen en rookmelders, is geen inrichting voor de verwerking van afvalstoffen als er cumulatief aan de volgende voorwaarden wordt voldaan :<br>
+			1° de opslag vindt plaats in een geschikt recipiënt op een plaats waar maximaal twee maal per jaar gedurende maximaal zeven aansluitende kalenderdagen heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten worden opgeslagen;<br>
+			2° uiterlijk drie werkdagen na de afsluiting van de periode, vermeld in punt 1°, wordt alles opgehaald door een geregistreerd inzamelaar, afvalstoffenhandelaar of -makelaar, die daarover een overeenkomst heeft gesloten met een beheersorganisme ter uitvoering van een milieubeleidsovereenkomst of met een producent die beschikt over een goedgekeurd individueel afvalpreventie- en afvalbeheerplan;<br>
+			3° de inzamelactie werd goedgekeurd door de OVAM of georganiseerd door het beheersorganisme ter uitvoering van een milieubeleidsovereenkomst of van een producent die beschikt over een goedgekeurd individueel afvalpreventie- en afvalbeheerplan als vermeld in artikel 5.2.5.5 van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen;</p>
+
+			<p>4° de actie wordt gekoppeld aan educatieve acties inzake preventie, hergebruik en verwerking van afgedankte elektrische en elektronische apparaten.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -6515,46 +6575,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
 			<p><br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			2.3.13<br>
-			<br>
-			<br>
-			&nbsp;2.4.<br>
+			2.3.13</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2.4.<br>
 			<br>
 			<br>
 			<br>
@@ -6562,7 +6589,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			&nbsp;</p>
 
-			<p>2.4.1.</p>
+			<p><br>
+			<br>
+			2.4.1.</p>
 
 			<p>&nbsp;</p>
 
@@ -6616,7 +6645,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>2.4.2</p>
+			<p><br>
+			2.4.2</p>
 
 			<p>&nbsp;</p>
 
@@ -6630,7 +6660,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>2.4.3.</p>
+			<p><br>
+			2.4.3.</p>
 
 			<p>&nbsp;</p>
 
@@ -6698,7 +6729,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>2.4.4.</p>
+			<p><br>
+			<br>
+			2.4.4.</p>
 
 			<p>&nbsp;</p>
 
@@ -6706,7 +6739,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>2.4.5.</p>
+			<p><br>
+			2.4.5.</p>
 
 			<p>&nbsp;</p>
 
@@ -6722,104 +6756,159 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>2.4.6.</p>
+			<p><br>
+			2.4.6.</p>
 
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>2.4.7.</p>
+			<p><br>
+			2.4.7.</p>
 
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Uitzonderingen :<br>
-			De opslag van heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten als vermeld in artikel 1.2.1, § 2, 94°, van het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van lampen en rookmelders, is geen inrichting voor de verwerking van afvalstoffen als er cumulatief aan de volgende voorwaarden wordt voldaan :<br>
-			1° de opslag vindt plaats in een geschikt recipiënt op een plaats waar maximaal twee maal per jaar gedurende maximaal zeven aansluitende kalenderdagen heel kleine huishoudelijke afgedankte elektrische en elektronische apparaten worden opgeslagen;<br>
-			2° uiterlijk drie werkdagen na de afsluiting van de periode, vermeld in punt 1°, wordt alles opgehaald door een geregistreerd inzamelaar, afvalstoffenhandelaar of -makelaar, die daarover een overeenkomst heeft gesloten met een beheersorganisme ter uitvoering van een milieubeleidsovereenkomst of met een producent die beschikt over een goedgekeurd individueel afvalpreventie- en afvalbeheerplan;<br>
-			3° het afgiftebewijs wordt door de exploitant van de inrichting verzonden aan het beheersorganisme of de producent met een goedgekeurd afvalpreventie- en afvalbeheerplan, waarmee wordt samengewerkt;<br>
+			<p><br>
 			Opslag en behandeling met vochtige hitte en mechanische verkleining van infectieuze afvalstoffen</p>
 
-			<p>4° de actie wordt gekoppeld aan educatieve acties inzake preventie, hergebruik en verwerking van afgedankte elektrische en elektronische apparaten.</p>
-
-			<p>Afvalbeheer in het kader van industriële emissies.<br>
+			<p><br>
+			Afvalbeheer in het kader van industriële emissies.<br>
+			<br>
 			Voor de rubrieken 2.4.1. en 2.4.3 a) en b) wordt de capaciteit bepaald op dit rubrieksniveau en niet op het niveau van de onderliggende opsplitsing van die rubrieken.<br>
 			(Er kan een overlapping zijn met andere subrubrieken van rubriek 2.)<br>
+			<br>
 			De verwijdering of nuttige toepassing van gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag door middel van een of meer van de volgende activiteiten :<br>
 			a) biologische behandeling;&nbsp;<br>
 			b) fysisch-chemische behandeling;&nbsp;<br>
 			c) mengen of vermengen voorafgaand aan een van de onder rubriek 2.4.1 en 2.4.2 vermelde behandelingen;&nbsp;<br>
 			d) herverpakking voorafgaand aan een van de onder rubriek 2.4.1 en 2.4.2 vermelde behandelingen;&nbsp;<br>
-			&nbsp;e) terugwinning/regeneratie van oplosmiddelen;&nbsp;<br>
+			e) terugwinning/regeneratie van oplosmiddelen;&nbsp;<br>
 			f) recycling/terugwinning van andere anorganische materialen dan metalen of metaalverbindingen;&nbsp;<br>
 			g) regeneratie van zuren of basen;&nbsp;<br>
 			h) terugwinning van bestanddelen die worden gebruikt om vervuiling tegen te gaan;&nbsp;<br>
-			&nbsp;i) terugwinning van bestanddelen uit katalysatoren;<br>
+			i) terugwinning van bestanddelen uit katalysatoren;<br>
 			j) herraffinage van olie en ander hergebruik van olie;<br>
 			k) opslag in waterbekkens.</p>
 
-			<p>De verwijdering of nuttige toepassing van afvalstoffen in afvalverbrandings- of afvalmeeverbrandingsinstallaties voor :<br>
+			<p><br>
+			De verwijdering of nuttige toepassing van afvalstoffen in afvalverbrandings- of afvalmeeverbrandingsinstallaties voor :<br>
 			a) niet-gevaarlijke afvalstoffen met een capaciteit van meer dan 3 ton per uur;<br>
 			&nbsp;b) gevaarlijke afvalstoffen met een capaciteit van meer dan 10 ton per dag.</p>
 
-			<p>a) de verwijdering van niet-gevaarlijke afvalstoffen met een capaciteit van meer dan 50 ton per dag door middel van een of meer van de volgende activiteiten, met uitzondering van de activiteiten, vermeld in rubriek 3.6.4 :<br>
+			<p><br>
+			a) de verwijdering van niet-gevaarlijke afvalstoffen met een capaciteit van meer dan 50 ton per dag door middel van een of meer van de volgende activiteiten, met uitzondering van de activiteiten, vermeld in rubriek 3.6.4 :<br>
 			1° biologische behandeling;<br>
 			2° fysisch-chemische behandeling;<br>
 			3° voorbehandeling van afval voor verbranding of meeverbranding;<br>
 			4° behandeling van slakken en as;<br>
 			5° behandeling in shredders van metaalafval, met inbegrip van afgedankte elektrische en elektronische apparatuur en autowrakken en de onderdelen daarvan.<br>
+			<br>
 			b) nuttige toepassing, of een combinatie van nuttige toepassing en verwijdering, van niet-gevaarlijke afvalstoffen met een capaciteit van meer dan 75 ton per dag, door middel van een of meer van de volgende activiteiten, met uitzondering van de activiteiten, vermeld in rubriek 3.6.4 :<br>
 			(Als de behandeling van het afval beperkt blijft tot anaërobe vergisting, bedraagt de capaciteitsdrempelwaarde voor die activiteit 100 ton per dag.)<br>
 			1° biologische behandeling;<br>
-			&nbsp;2° voorbehandeling van afval voor verbranding of meeverbranding;<br>
+			2° voorbehandeling van afval voor verbranding of meeverbranding;<br>
 			3° behandeling van slakken en as;<br>
 			4° behandeling in shredders van metaalafval, met inbegrip van afgedankte elektrische en elektronische apparatuur en autowrakken en de onderdelen daarvan.<br>
+			<br>
 			Stortplaatsen die meer dan 10 ton per dag ontvangen of een totale capaciteit van meer dan 25.000 ton hebben, met uitzondering van stortplaatsen voor inerte afvalstoffen.</p>
 
-			<p>Tijdelijke opslag van gevaarlijke afvalstoffen die niet onder rubriek 2.4.4. vallen, in afwachting van de behandelingen, vermeld onder rubriek 2.4.1, 2.4.2, 2.4.4 en 2.4.6, met een totale capaciteit van meer dan 50 ton, met uitsluiting van tijdelijke opslag op de plaats van productie die aan inzameling voorafgaat.</p>
+			<p><br>
+			Tijdelijke opslag van gevaarlijke afvalstoffen die niet onder rubriek 2.4.4. vallen, in afwachting van de behandelingen, vermeld onder rubriek 2.4.1, 2.4.2, 2.4.4 en 2.4.6, met een totale capaciteit van meer dan 50 ton, met uitsluiting van tijdelijke opslag op de plaats van productie die aan inzameling voorafgaat.</p>
 
-			<p>Ondergrondse opslag van gevaarlijke afvalstoffen met een totale capaciteit van meer dan 50 ton.</p>
+			<p><br>
+			Ondergrondse opslag van gevaarlijke afvalstoffen met een totale capaciteit van meer dan 50 ton.</p>
 
-			<p>De destructie of verwerking van kadavers of dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
+			<p><br>
+			De destructie of verwerking van kadavers of dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag.</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p><br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
 			1<br>
 			<br>
 			<br>
@@ -6834,7 +6923,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
+			<p><br>
+			<br>
+			1</p>
 
 			<p>&nbsp;</p>
 
@@ -6894,27 +6985,29 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
-
-			<p>&nbsp;</p>
-
-			<p>1</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<p><br>
+			1</p>
 
 			<p>&nbsp;</p>
 
 			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			1</p>
 
 			<p>1</p>
 
@@ -6951,7 +7044,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1<br>
+			<p><br>
+			1<br>
 			1<br>
 			<br>
 			1</p>
@@ -6964,7 +7058,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
+			<p><br>
+			1</p>
 
 			<p>&nbsp;</p>
 
@@ -6972,7 +7067,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
+			<p><br>
+			1</p>
 
 			<p>&nbsp;</p>
 
@@ -6988,54 +7084,19 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
+			<p><br>
+			1</p>
 
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>1</p>
+			<p><br>
+			1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
 			<p><br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			&nbsp;</p>
-
-			<p>G,O,M,T<br>
+			G,O,M,T<br>
 			<br>
 			<br>
 			<br>
@@ -7049,7 +7110,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>G, M, O, T, X</p>
+			<p><br>
+			<br>
+			G, M, O, T, X</p>
 
 			<p>&nbsp;</p>
 
@@ -7107,7 +7170,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>E, G, O, M, T, X</p>
+			<p><br>
+			E, G, O, M, T, X</p>
 
 			<p>E, G, O, M, T, X</p>
 
@@ -7123,12 +7187,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>G,M,O,T,X<br>
+			<p><br>
+			G,M,O,T,X<br>
 			G,M,O,T,X<br>
 			G,M,O,T,X</p>
 
-			<p>G,M,O,T,X<br>
+			<p><br>
 			G,M,O,T,X<br>
+			G,M,O,T,X<br>
+			<br>
 			<br>
 			<br>
 			<br>
@@ -7155,12 +7222,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>G,O,T,X<br>
+			<p><br>
+			G,O,T,X<br>
 			&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>G,O,T,X<br>
+			<p><br>
+			<br>
+			G,O,T,X<br>
 			&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -7173,204 +7243,180 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>N,O,W,T,X<br>
+			<p><br>
+			<br>
+			N,O,W,T,X<br>
 			&nbsp;</p>
 
-			<p>G,M,O,T,X<br>
+			<p><br>
+			<br>
+			G,M,O,T,X<br>
 			&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p><br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			A<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>A</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>A</p>
-
-			<p>A</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
 			<p>&nbsp;</p>
 
 			<p>A<br>
 			<br>
 			<br>
 			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			<br>
+			A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			A</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			A</p>
+
+			<p>A</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			A</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			A<br>
+			<br>
+			<br>
+			<br>
+			<br>
 			A<br>
 			<br>
 			<br>
@@ -7379,7 +7425,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
+			<br>
 			A<br>
+			<br>
 			<br>
 			<br>
 			A</p>
@@ -7415,7 +7463,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>&nbsp;</p>
+			<p>P</p>
 
 			<p>&nbsp;</p>
 
@@ -7457,6 +7505,119 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			P</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			P</p>
+
+			<p>P</p>
+
+			<p>P</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
+
+			<p>P</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			P<br>
+			P</p>
+
+			<p>&nbsp;</p>
+
+			<p>P<br>
+			P<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			P<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			P<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			P<br>
+			<br>
+			<br>
+			<br>
+			P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
 
 			<p>J</p>
@@ -7481,7 +7642,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>P</p>
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J, R</p>
 
 			<p>&nbsp;</p>
 
@@ -7541,15 +7708,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>P</p>
+			<p><br>
+			J, R</p>
 
 			<p>&nbsp;</p>
 
-			<p>P</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
+			<p>J, R</p>
 
 			<p>&nbsp;</p>
 
@@ -7561,23 +7725,22 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>P</p>
-
-			<p>P</p>
-
-			<p>P</p>
-
-			<p>&nbsp;</p>
-
-			<p>P</p>
-
-			<p>P</p>
-
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
+			<p><br>
+			J, R</p>
+
+			<p>J, R</p>
+
+			<p>J, R</p>
+
 			<p>&nbsp;</p>
+
+			<p>J, R</p>
+
+			<p>J, R</p>
 
 			<p>&nbsp;</p>
 
@@ -7601,106 +7764,66 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>P<br>
-			P</p>
+			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>P<br>
-			P<br>
-			<br>
-			<br>
-			<br>
-			P<br>
-			<br>
-			<br>
-			<br>
-			P<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			<br>
-			P<br>
-			<br>
-			<br>
-			P</p>
+			<p>&nbsp;</p>
+
+			<p><br>
+			J, R</p>
+
+			<p>J, R</p>
+
+			<p>&nbsp;</p>
+
+			<p>J, R</p>
+
+			<p>J, R</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			J, R</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			J, R</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			J</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p><br>
+			J, R</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 
 			<p>O</p>
@@ -7725,265 +7848,6 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>J, R</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>J, R</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
-			<p>&nbsp;</p>
-
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
@@ -8050,7 +7914,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>A, S</p>
+			<p><br>
+			A, S</p>
 
 			<p>&nbsp;</p>
 
@@ -8070,7 +7935,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>A, S</p>
+			<p><br>
+			A, S</p>
 
 			<p>A, S</p>
 
@@ -8110,7 +7976,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>A, S</p>
+			<p><br>
+			A, S</p>
 
 			<p>A, S</p>
 
@@ -8126,7 +7993,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>B, S</p>
+			<p><br>
+			B, S</p>
 
 			<p>&nbsp;</p>
 
@@ -8134,7 +8002,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>B, S</p>
+			<p><br>
+			B, S</p>
 
 			<p>&nbsp;</p>
 
@@ -8150,13 +8019,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;</p>
 
-			<p>B, S</p>
+			<p><br>
+			B, S</p>
 
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>A, S</p>
+			<p><br>
+			A, S</p>
 			</td>
 		</tr>
 	</tbody>
