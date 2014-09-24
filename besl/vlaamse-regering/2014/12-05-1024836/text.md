@@ -8,6 +8,10 @@
 
 &nbsp;In artikel 4, 10°, van het besluit van   de Vlaamse Regering van 7 oktober 2011 houdende de aanwijzing van de leden van   het Samenwerkingsplatform Eerstelijnsgezondheidszorg, gewijzigd bij het besluit   van de Vlaamse Regering van 16 november 2012, wordt de naam "Peter Bruynooghe"   vervangen door de naam "Stefaan Peeters".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 2.
+
+&nbsp;In artikel 4, 11°, van hetzelfde   besluit, worden de woorden "de heer Michel Foulon" vervangen door de woorden   "Mevr. Ellen De Wandeler".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 6.
 
 &nbsp;In artikel 13 van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2013, worden   de woorden "Federatie Onafhankelijke Seniorenzorg" vervangen door de woorden   "Vlaams Onafhankelijk Zorgnetwerk".
