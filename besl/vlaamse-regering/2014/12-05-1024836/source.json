@@ -2,16 +2,16 @@
   "codex_id": 1024836,
   "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 7 oktober 2011 houdende de aanwijzing van de leden van het Samenwerkingsplatform Eerstelijnsgezondheidszorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024836/VolledigDocument?datum=2014-09-24",
-  "source_sha256": "6a290be1e739f70824953b570df86edb192345a9ac9145494638178cae1c39bc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024836/VolledigDocument?datum=2014-09-25",
+  "source_sha256": "3f56db973b314f91e74f7ab1d3ed181f77ebb3815e19b93d062690cb6e67aed6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024836&param=informatie",
-  "as_of": "2014-09-24",
+  "as_of": "2014-09-25",
   "made": "2014-12-05",
   "gazette": "2015-01-05",
   "numac": 2014036938,
   "document_start": "2015-01-15",
   "document_end": null,
-  "in_force": "2014-09-24",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-09-24; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-09-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-09-25; future article versions excluded; article text as the API gives it"
 }

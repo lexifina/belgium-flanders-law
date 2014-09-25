@@ -12,6 +12,14 @@
 
 &nbsp;In artikel 4, 11°, van hetzelfde   besluit, worden de woorden "de heer Michel Foulon" vervangen door de woorden   "Mevr. Ellen De Wandeler".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 4.
+
+&nbsp;In artikel 4, 15°, van hetzelfde   besluit, wordt de naam "Jonny Peeters" vervangen door de naam "Pierre   Seeuws".
+
 ### ART. 6.
 
 &nbsp;In artikel 13 van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2013, worden   de woorden "Federatie Onafhankelijke Seniorenzorg" vervangen door de woorden   "Vlaams Onafhankelijk Zorgnetwerk".
+
+### ART. 7.
+
+In   artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 16 december 2011, worden de woorden "Mevr. Caroline Verlinde en de   heer Daan Aeyels" vervangen door de woorden "Mevr. Greta De Geest en Mevr. Tine   Dusauchoit".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
