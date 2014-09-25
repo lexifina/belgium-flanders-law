@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024555,
+  "title": "Ministerieel besluit van 2014-05-23 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting en van het Vlaams Infrastructuurfonds van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024555/VolledigDocument?datum=2014-09-25",
+  "source_sha256": "dbee19cd035f82af52cd24f57343e9993dc96de66bd35fe2b4c5b0c9900caf33",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024555&param=informatie",
+  "as_of": "2014-09-25",
+  "made": "2014-05-23",
+  "gazette": "2014-09-15",
+  "numac": 2014035733,
+  "document_start": "2014-09-25",
+  "document_end": null,
+  "in_force": "2014-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
