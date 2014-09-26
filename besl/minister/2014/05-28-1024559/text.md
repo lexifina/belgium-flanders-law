@@ -15,3 +15,7 @@ In artikel 19, eerste lid, van het besluit van de Vlaamse Regering van 17   dece
 ### ART. 3.
 
 &nbsp;In artikel 17, eerste lid, van het besluit van de Vlaamse Regering   van 16 november 2012 tot toekenning van steun aan ondernemingen voor   strategische ecologie-investeringen in het Vlaamse Gewest wordt punt 4°   vervangen door wat volgt:<BR>"4° de ecologie-investeringen, met uitzondering van   oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen, die gratis   of onder bezwarende titel ter beschikking worden gesteld aan   derden;".<BR>
+
+### ART. 4.
+
+Artikel 1 van dit besluit heeft uitwerking met ingang van 17 mei   2007.<BR>Artikel 2 heeft uitwerking met ingang van 1 februari 2011.<BR>Artikel 3   van dit besluit heeft uitwerking met ingang van 20 december   2012.<BR>
