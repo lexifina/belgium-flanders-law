@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024568,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 houdende de overdracht van sommige personeelsleden van de Vlaamse Onderwijsraad aan het Departement Diensten voor het Algemeen Regeringsbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024568/VolledigDocument?datum=2014-09-26",
+  "source_sha256": "bf22f2c5162bc4710b4c3ae538c50816216dd74b657e93a81ab3521a363015e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024568&param=informatie",
+  "as_of": "2014-09-26",
+  "made": "2014-05-09",
+  "gazette": "2014-09-16",
+  "numac": 2014035906,
+  "document_start": "2014-09-26",
+  "document_end": null,
+  "in_force": "2014-09-26",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-09-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
