@@ -2,16 +2,16 @@
   "codex_id": 1018252,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 betreffende sommige aspecten van de planbatenheffing",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018252/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "8c7b2b3dcbfc61fe040e91ddb04996f73acb4b443f7ba931d56e96222838d398",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018252/VolledigDocument?datum=2014-09-27",
+  "source_sha256": "7e16898ce0ab456227281dffe1ea3f5525dd3fcd9dde26a531df632563e61ad4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018252&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2014-09-27",
   "made": "2009-05-29",
   "gazette": "2009-08-24",
   "numac": 2009035780,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2009-09-01",
+  "in_force": "2014-09-27",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2009-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-27; future article versions excluded; article text as the API gives it"
 }
