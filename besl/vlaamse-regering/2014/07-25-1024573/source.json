@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024573,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-25 tot aanpassing van entiteitscodes in de begroting van de Vlaamse Gemeenschap, herlibellering van programma's betrekking hebbend op kabinetsbegrotingen en aanduiding van de kenletter van ordonnancerend minister in begrotingsdocumenten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024573/VolledigDocument?datum=2014-09-27",
+  "source_sha256": "b1ed17a6acb8af4e271f750bfa6d002b49463455b652165a99252f9bf42b3bbe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024573&param=informatie",
+  "as_of": "2014-09-27",
+  "made": "2014-07-25",
+  "gazette": "2014-09-17",
+  "numac": 2014036480,
+  "document_start": "2014-09-27",
+  "document_end": null,
+  "in_force": "2014-09-27",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-09-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
