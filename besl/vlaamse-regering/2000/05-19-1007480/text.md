@@ -16,29 +16,38 @@ Voor de toepassing van dit besluit worden de personen die slaagden in een overga
 
 ### ART. 3.
 
-De leidend ambtenaar van het departement vervult steeds tegelijk de functie van gedelegeerd planologisch ambtenaar en de functie van gedelegeerd stedenbouwkundig ambtenaar voor het volledige grondgebied van het Vlaamse Gewest.<br /><br />De minister stelt minstens drie gedelegeerde planologische ambtenaren en minstens drie gedelegeerde stedenbouwkundige ambtenaren aan door te kiezen uit een lijst van door de leidend ambtenaar op dubbeltal voorgedragen kandidaten. Alleen ambtenaren van niveau A uit het departement kunnen worden voorgedragen en aangesteld.<br /><br />Het aanstellingsbesluit vermeldt het werkgebied van de ambtenaren die met toepassing van het tweede lid zijn aangesteld.<br /><br />
+<p>...</p>
 
 ### ART. 4.
 
-Om aangesteld te kunnen worden als gedelegeerd planologisch of stedenbouwkundig ambtenaar met toepassing van artikel 3, tweede lid, moet de ambtenaar houder zijn van een diploma van een opleiding ruimtelijke ordening. De minister bepaalt, rekening houdend met de kennis en vaardigheden die voor elke functie vereist zijn, welke diploma's van een opleiding ruimtelijke ordening voldoen voor een aanstelling.<br /><br />In afwijking van het eerste lid kunnen ook ambtenaren die niet het vereiste diploma hebben worden aangesteld als gedelegeerd stedenbouwkundig ambtenaar voor zover ze voor 1 juli 2006 aangesteld geweest zijn als gewestelijk stedenbouwkundig ambtenaar.<br /><br />
+<p>...</p>
 
 ### ART. 5.
 
-Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar. De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij na advies van de leidend ambtenaar.<br /><br />
+<p>...</p>
 
 ### ART. 6.
 
-Met behoud van de toepassing van artikel 3, eerste lid, zijn de functies van gedelegeerd planologisch ambtenaar en gedelegeerd stedenbouwkundig ambtenaar onderling onverenigbaar.<br /><br /><br />
+...
 
 ## AFDELING II DE GEWESTELIJKE STEDENBOUWKUNDIGE AMBTENAREN
 
 ### ART. 7.
 
-De leidend ambtenaar van het departement vervult altijd de functie van gewestelijke stedenbouwkundige ambtenaar voor het volledige grondgebied van het Vlaamse Gewest.<br /><br />De leidend ambtenaar van het departement stelt per provincie minstens drie ambtenaren van niveau A uit zijn administratie aan als gewestelijk stedenbouwkundig ambtenaar.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde ambtenaren. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.<br /><br />
+De leidend ambtenaar van het departement vervult altijd de functie van gewestelijke stedenbouwkundige ambtenaar voor het volledige grondgebied van het Vlaamse Gewest.<br>
+<br>
+De leidend ambtenaar van het departement stelt per provincie minstens drie&nbsp;personeelsleden van niveau A uit zijn administratie aan als gewestelijk stedenbouwkundig ambtenaar.<br>
+<br>
+Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde personeelsleden. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.<br>
+&nbsp;
 
 ### ART. 8.
 
-Om aangesteld te kunnen worden als gewestelijk stedenbouwkundig ambtenaar met toepassing van artikel 7 moet de ambtenaar voldoen aan de voorwaarden die overeenkomstig artikel 4 gelden voor de gedelegeerd stedenbouwkundig ambtenaar.<br /><br />In afwijking van het eerste lid kunnen ook ambtenaren die niet het vereiste diploma hebben worden aangesteld voor zover ze voor 1 juli 2006 aangesteld geweest zijn als gewestelijk planologisch ambtenaar, als gewestelijk stedenbouwkundig ambtenaar of als gemachtigde ambtenaar als vermeld in het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996<br />
+<p>Om aangesteld te kunnen worden als gewestelijke stedenbouwkundige ambtenaar met toepassing van artikel 7 moet het personeelslid houder zijn van een diploma van een opleiding ruimtelijke ordening. De minister bepaalt, rekening houdend met de kennis en vaardigheden die voor de functie vereist zijn, welke diploma's van een opleiding ruimtelijke ordening voldoen voor een aanstelling.<br>
+<br>
+In afwijking van het eerste lid kunnen ook personeelsleden die niet het vereiste diploma hebben worden aangesteld voor zover ze voor 1 juli 2006 aangesteld geweest zijn als gewestelijk planologisch ambtenaar, als gewestelijk stedenbouwkundig ambtenaar of als gemachtigde ambtenaar als vermeld in het decreet betreffende de ruimtelijke ordening, gecoördineerd op 22 oktober 1996</p>
 
 ## AFDELING III DE GEWESTELIJKE STEDENBOUWKUNDIGE INSPECTEURS
 
