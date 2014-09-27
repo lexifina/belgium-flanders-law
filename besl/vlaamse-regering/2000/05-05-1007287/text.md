@@ -62,7 +62,7 @@ Als de gemeente het gehele plannenregister of een deel ervan in digitale vorm wi
 
 ### ART. 16.
 
-Het college van burgemeester en schepenen bezorgt de planologische ambtenaar en de gewestelijke stedenbouwkundige ambtenaar een afschrift van het eerste plannenregister in digitale en/of analoge vorm. Het verzendt dit per aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd worden.
+Het college van burgemeester en schepenen bezorgt&nbsp;het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed een afschrift van het   eerste plannenregister in digitale en/of analoge vorm. Het verzendt dit per   aangetekend schrijven of geeft het af tegen ontvangstbewijs. Een kopie van de   originele plannen van aanleg, de ruimtelijke uitvoeringsplannen, de   rooilijnplannen en de onteigeningsplannen moet echter niet bijgevoegd   worden.
 
 ### ART. 17.
 
