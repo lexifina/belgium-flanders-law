@@ -2,16 +2,16 @@
   "codex_id": 1007273,
   "title": "Besluit van de Vlaamse Regering van 2000-05-05 tot bepaling van de werken en handelingen die vrijgesteld zijn van het eensluidend advies van [het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007273/VolledigDocument?datum=2009-09-01",
-  "source_sha256": "a228b47a541e0a07c1a696cefff2a8b8f0d6ea616e9b017773f8963d01656a0e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007273/VolledigDocument?datum=2014-09-27",
+  "source_sha256": "34b7cb5a05e670c8e080fdfd6619548aeba2f07a09dfa6351100ac704d1d8362",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007273&param=informatie",
-  "as_of": "2009-09-01",
+  "as_of": "2014-09-27",
   "made": "2000-05-05",
   "gazette": "2000-05-19",
   "numac": 2000035489,
   "document_start": "2000-05-01",
   "document_end": "2017-02-22",
-  "in_force": "2009-09-01",
+  "in_force": "2014-09-27",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2009-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-27; future article versions excluded; article text as the API gives it"
 }
