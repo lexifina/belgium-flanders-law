@@ -2,16 +2,16 @@
   "codex_id": 1016963,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende de uitvoering van het Kunstendecreet van 2 april 2004, gewijzigd bij de decreten van 3 juni 2005, 22 december 2006 en 20 juni 2008",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016963/VolledigDocument?datum=2010-01-01",
-  "source_sha256": "e9b0921e3f72efff6e13cb33d4b5fbc8f7e846bc608e5a7f0dfadf32895f717b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016963/VolledigDocument?datum=2014-09-29",
+  "source_sha256": "15c9aab4a9d16ae4e325d2d8cf8c80c4537bb3a18cb8f65a4b887eeb1c86197f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016963&param=informatie",
-  "as_of": "2010-01-01",
+  "as_of": "2014-09-29",
   "made": "2008-07-18",
   "gazette": "2008-08-14",
   "numac": 200836004,
   "document_start": "2010-01-01",
   "document_end": "2014-09-28",
-  "in_force": "2010-01-01",
+  "in_force": "2014-09-29",
   "article_versions": 54,
-  "record_form": "consolidated version as in force on 2010-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-09-29; future article versions excluded; article text as the API gives it"
 }
