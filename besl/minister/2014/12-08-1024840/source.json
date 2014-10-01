@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024840,
+  "title": "Ministerieel besluit van 2014-12-08 tot vaststelling van het presentiegeld per vergadering van de Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024840/VolledigDocument?datum=2014-10-01",
+  "source_sha256": "ba89e83db64e618e17edf5ca908f2600ed837f4cc5e6109262ede027da31d5ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024840&param=informatie",
+  "as_of": "2014-10-01",
+  "made": "2014-12-08",
+  "gazette": "2015-01-06",
+  "numac": 2014207626,
+  "document_start": "2014-10-01",
+  "document_end": null,
+  "in_force": "2014-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
