@@ -38,6 +38,16 @@ Het koninklijk besluit van 22 mei 2014 tot wijziging van het koninklijk besluit 
 
 ## HOOFDSTUK 2. Bepalingen betreffende de huisarbeider
 
+### ART 6.
+
+Artikel 15, § 4, eerste alinea, van de Algemene Kinderbijslagwet, ingevoegd bij de wet van 4 april 2014, wordt aangevuld met de bepalingen onder 3°, luidende:<br>
+"3° de huisarbeider.".
+
+### ART 7.
+
+Artikel 102, § 2, tweede alinea, van dezelfde wet, vervangen bij de wet van 27 december 2004, wordt opgeheven.<br>
+&nbsp;
+
 ## HOOFDSTUK 3. Bepalingen betreffende de oninvorderbare betalingen
 
 ## HOOFDSTUK 4. Bepalingen betreffende het begrip meemoeder
