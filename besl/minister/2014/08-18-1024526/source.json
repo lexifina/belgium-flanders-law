@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024526,
+  "title": "Ministerieel besluit van 2014-08-18 houdende wijziging van de refertelijst inzake individuele materiële bijstand",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024526/VolledigDocument?datum=2014-10-01",
+  "source_sha256": "16cfa8f62f53e6e424687f8eb38fb40db38f89bba0ba3fcb4cd9380d587b77bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024526&param=informatie",
+  "as_of": "2014-10-01",
+  "made": "2014-08-18",
+  "gazette": "2014-09-04",
+  "numac": 2014036565,
+  "document_start": "2014-10-01",
+  "document_end": null,
+  "in_force": "2014-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
