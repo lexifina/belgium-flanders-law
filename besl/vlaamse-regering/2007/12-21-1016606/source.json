@@ -2,16 +2,16 @@
   "codex_id": 1016606,
   "title": "Besluit van de Vlaamse Regering van 2007-12-21 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma voor Plattelandsontwikkeling",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016606/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "70a6c011827cb5f01e954c421704ba727e49e0316406f1e8e351b8a72853b247",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016606/VolledigDocument?datum=2014-10-01",
+  "source_sha256": "7b7fba59be5971234b00da5b668664f98c292332386fa4d7e19ac0b6e632c615",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016606&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2014-10-01",
   "made": "2007-12-21",
   "gazette": "2008-02-22",
   "numac": 2007035309,
   "document_start": "2007-01-01",
   "document_end": "2014-09-30",
-  "in_force": "2014-01-01",
+  "in_force": "2014-10-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-01; future article versions excluded; article text as the API gives it"
 }
