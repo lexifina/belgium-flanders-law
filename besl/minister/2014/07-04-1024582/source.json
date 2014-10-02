@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024582,
+  "title": "Ministerieel besluit van 2014-07-04 tot wijziging van diverse bepalingen van het ministerieel besluit van 27 mei 2011 tot vaststelling van productievoorschriften betreffende de biologische productie, wat betreft de konijnenhouderij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024582/VolledigDocument?datum=2014-10-02",
+  "source_sha256": "3c304d461188c80385fde9c9b8d75593f1539997b8be6d92bd66f1bd45c0befb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024582&param=informatie",
+  "as_of": "2014-10-02",
+  "made": "2014-07-04",
+  "gazette": "2014-09-22",
+  "numac": 2014036620,
+  "document_start": "2014-10-02",
+  "document_end": null,
+  "in_force": "2014-10-02",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
