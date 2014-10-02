@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024622,
+  "title": "Ministerieel besluit van 2014-04-29 tot goedkeuring van het huishoudelijk reglement van het Adviescomité Microfinanciering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024622/VolledigDocument?datum=2014-10-02",
+  "source_sha256": "2288e4cdd017bc33a5c4dd4ba8a88490759f10c6b1a0735ad5695f6d98474372",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024622&param=informatie",
+  "as_of": "2014-10-02",
+  "made": "2014-04-29",
+  "gazette": "2014-10-02",
+  "numac": 2014035933,
+  "document_start": "2014-10-02",
+  "document_end": null,
+  "in_force": "2014-10-02",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2014-10-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
