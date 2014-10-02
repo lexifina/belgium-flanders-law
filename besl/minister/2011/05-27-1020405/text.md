@@ -64,7 +64,7 @@ Met toepassing van artikel 10, 4, van verordening 889/2008 is een mobiele pluimv
 
 ### ART. 7.
 
-Met toepassing van artikel 14, 1, van verordening 889/2008 mag maximaal 50 % van de openluchtruimten afgedekt zijn.<br /><br />Met toepassing van artikel 14, 3, van verordening 889/2008 wordt onder wintermaanden de volgende periode verstaan : de periode van 15 oktober tot en met 15 mei van het daaropvolgende jaar.
+Met toepassing van artikel 14, 1, van verordening 889/2008 mag maximaal 50   % van de openluchtruimten afgedekt zijn.<BR><BR>Met toepassing van artikel 14,   3, van verordening 889/2008 wordt onder wintermaanden de volgende periode   verstaan : de periode van 15 oktober tot en met 15 mei van het daaropvolgende   jaar.<BR><BR>Het tweede lid van dit artikel is niet van toepassing op   konijnen.
 
 ## HOOFDSTUK 6. Veebezetting
 
@@ -170,13 +170,13 @@ De omschakelingsperiode bedraagt vier maanden voor konijnen, acht maanden voor s
 
 ### ART. 26.
 
-De omschakelingsperiode van de buitenparken van slakken kan beperkt worden tot twaalf maanden als de grond gedurende het voorbije jaar niet behandeld is met producten die niet voor gebruik in de biologische productie zijn toegestaan.
+De omschakelingsperiode van de buitenparken van slakken kan beperkt worden   tot twaalf maanden als de grond gedurende het voorbije jaar niet behandeld is   met producten die niet voor gebruik in de biologische productie zijn   toegestaan.<BR><BR>De omschakelingsperiode van de weidegrond voor konijnen   bedraagt twaalf maanden. Die periode mag worden beperkt tot zes maanden voor   grond die het vorige jaar niet is behandeld met producten die niet voor gebruik   in de biologische productie zijn toegestaan.
 
 ## HOOFDSTUK 3. Gebruik van niet-biologisch gehouden dieren
 
 ### ART. 27.
 
-De maximale leeftijd voor het binnenbrengen van niet-biologische dieren op een biologische productie-eenheid bedraagt drie dagen voor struisvogels, dertig dagen voor konijnen en drie maanden voor hertachtigen.<br /><br />
+De maximale leeftijd voor het binnenbrengen van niet-biologische dieren op   een biologische productie-eenheid bedraagt drie dagen voor struisvogels,&nbsp;42   dagen voor konijnen en drie maanden voor hertachtigen.<BR><BR>
 
 ### ART. 28.
 
@@ -198,166 +198,96 @@ De minimale oppervlakten voor de binnen- en buitenruimte zijn bepaald in de tabe
 
 ### ART. 32.
 
-Met toepassing van artikel 14 van Verordening 834/2007 mag de gedeeltelijke overdekking van de bewegingsruimte voor konijnen in openlucht 90 % van de oppervlakte bedragen op voorwaarde dat het gebouw een open front naar buiten heeft, waarvan het geopend gedeelte minstens 25 % van de omtrek van het gebouw omvat, en op voorwaarde dat alle konijnen een rechtstreekse en permanente toegang tot het open front hebben.<br /><br />Het sluiten van het open front is alleen toegestaan in geval van ongunstige meteorologische omstandigheden.<br /><br />De konijnen moeten op de grond gehouden worden en beschikken over een donkere nestplaats.<br /><br />De voedsters kunnen apart gehuisvest worden op voorwaarde dat verschillende voedsters elkaar kunnen zien door de omheining. Als de voedsters in groepen gehouden worden, moet iedere voedster minstens over één donkere nestplaats kunnen beschikken.
+<P>De binnenruimte voor konijnen moet over een vaste bodem beschikken. Die mag   verhoogd zijn en er mogen extra niveaus in aangebracht worden. De oppervlakte   van de extra niveaus mag niet meegerekend worden bij de minimaal vereiste   oppervlakte van de binnenruimte.<BR><BR>De minimale hoogte van zowel de binnen-   als de buitenruimtes bedraagt 60 cm.<BR><BR>De voedsters moeten over een donkere   nestplaats beschikken. Het houden van konijnen op roosters, traliewerk of een   bodem zonder strooisel is niet toegelaten.<BR><BR>Als de voedsters apart   gehuisvest worden, moet het mogelijk zijn dat ze elkaar kunnen zien door de   afrastering. Als de voedsters in groepen gehouden worden, moet iedere voedster   minstens over één donkere nestplaats kunnen beschikken.</P>
+
+### ART. 33.
+
+Vleeskonijnen kunnen alleen afgemest worden op weiland waar ze ruwvoeder   kunnen opnemen. Dat mag aangevuld worden met ander ruwvoeder.<BR><BR>Vanaf de   leeftijd van 42 dagen krijgen de vleeskonijnen toegang tot weiland.<BR><BR>De   sanitaire leegstand van de onverharde uitloop bedraagt minstens vier   weken.<BR><BR>De jongen worden niet vroeger gespeend dan op een leeftijd van   minimaal dertig dagen.
 
 ### BIJLAGE
 
-Huisvestingsvoorschriften, vermeld in artikel 31<br>
-&nbsp;
-<table border="1" cellpadding="0">
+<p>Bijlage 1. Huisvestingsvoorschriften als vermeld in artikel 31<br>
+&nbsp;</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>leeftijd<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>binnenruimte</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>buitenruimte</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>leeftijd</td>
+			<td>binnenruimte</td>
+			<td>buitenruimte</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>1° poeljen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>3 dagen tot 6 weken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>maximaal 20 dieren/m<sup>2</sup></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>niet van toepassing</p>
-			</td>
+			<td>1° poeljen</td>
+			<td>3 dagen tot 6 weken</td>
+			<td>maximaal 20 dieren/m²</td>
+			<td>niet van toepassing</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>6 tot 12 weken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>maximaal 13 dieren/m<sup>2</sup></p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>mimimaal 1 m<sup>2</sup>/dier</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>6 tot 12 weken</td>
+			<td>maximaal 13 dieren/m²</td>
+			<td>minimaal 1 m²/dier</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>12 tot 18 weken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>maximaal 10 dieren/m<sup>2</sup></p>
-			</td>
+			<td>&nbsp;</td>
+			<td>12 tot 18 weken</td>
+			<td>maximaal 10 dieren/m²</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>2° struisvogels</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>3 dagen tot 6 weken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 0,75 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>niet van toepassing</p>
-			</td>
+			<td>2° struisvogels</td>
+			<td>3 dagen tot 6 weken</td>
+			<td>minimaal 0,75 m²/dier</td>
+			<td>niet van toepassing</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>6 tot 12 weken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 1,5 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 10 m<sup>2</sup>/dier</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>6 tot 12 weken</td>
+			<td>minimaal 1,5 m²/dier</td>
+			<td>minimaal 10 m²/dier</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>12 weken tot 12 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 2,5 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 125 m<sup>2</sup>/dier</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>12 weken tot 12 maanden</td>
+			<td>minimaal 2,5 m²/dier</td>
+			<td>minimaal 125 m²/dier</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>ouder dan 12 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 4 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 200 m<sup>2</sup>/dier</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>ouder dan 12 maanden</td>
+			<td>minimaal 4 m²/dier</td>
+			<td>minimaal 200 m²/dier</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>3° hertachtigen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>tot 12 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 2 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 4 m<sup>2</sup>/dier</p>
-			</td>
+			<td>3° hertachtigen</td>
+			<td>tot 12 maanden</td>
+			<td>minimaal 2 m²/dier</td>
+			<td>minimaal 4 m²/dier</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>ouder dan 12 maanden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 5 m<sup>2</sup>/dier</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 10 m<sup>2</sup>/dier</p>
-			</td>
+			<td>&nbsp;</td>
+			<td>ouder dan 12 maanden</td>
+			<td>minimaal 5 m²/dier</td>
+			<td>minimaal 10 m²/dier</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>4° slakken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>ouder dan 7 dagen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>maximaal 330 dieren/m<sup>2</sup> en maximaal 4 kg levend gewicht /m<sup>2</sup></p>
-			</td>
+			<td>4° slakken</td>
+			<td>ouder dan 7 dagen</td>
+			<td>niet van toepassing</td>
+			<td>maximaal 330 dieren/m² en maximaal 4 kg levend gewicht /m²</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>5° vleeskonijnen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>30 dagen en ouder</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>maximaal 5 dieren/m<sup>2</sup></p>
-			</td>
+			<td>5° vleeskonijnen</td>
+			<td>vanaf 42 dagen</td>
+			<td>minimaal 0,2 m²/dier</td>
+			<td>minimaal 5 m²/dier of minimaal 0,4 m²/dier als de konijnen worden gehouden in kooien die dagelijks verplaatst worden naar een vers stuk gras, waarvan de bodem van de buitenruimte het eten van gras onder de kooien niet belet</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>6° alle andere konijnen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>niet van toepassing</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
-			<p>minimaal 0,6 m<sup>2</sup>/ dier</p>
-			</td>
+			<td>6° overige konijnen</td>
+			<td>niet van toepassing</td>
+			<td>minimaal 0,6m²/dier</td>
+			<td>minimaal 0,6m²/dier</td>
 		</tr>
 	</tbody>
 </table>
@@ -366,4 +296,4 @@ Huisvestingsvoorschriften, vermeld in artikel 31<br>
 
 ### BIJLAGE 2.
 
-<P>Bijlage 2. - Maximaal aantal dieren per hectare als vermeld in artikel   8<BR></P>  <TABLE border=1>    <TBODY>    <TR>      <TD>categorie of soort       <TD>maximumaantal dieren per ha<BR>dat overeenkomt met 170 kgN/ha/jaar<BR>    <TR>      <TD>1° melkkoeien       <TD>2;<BR>    <TR>      <TD>3° slachtkippen       <TD>580;<BR>    <TR>      <TD>4° vrouwelijke fokkonijnen       <TD>100.<BR></TD></TR></TBODY></TABLE>
+<P>Bijlage 2. Maximaal aantal dieren per hectare als vermeld in artikel   8<BR><BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>categorie of soort       <TD>maximumaantal dieren per ha dat overeenkomt met 170 kgN/ha/jaar<BR>    <TR>      <TD>1° melkkoeien       <TD>2;<BR>    <TR>      <TD>2° slachtkippen       <TD>580;<BR>    <TR>      <TD>3° vrouwelijke fokkonijnen       <TD>100;<BR>    <TR>      <TD>4° vleeskonijnen       <TD>625.<BR></TD></TR></TBODY></TABLE></P>
