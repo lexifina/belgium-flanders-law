@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024586,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 houdende de transcodificatie van de begrotingsartikelen van het IVA Centrale Accounting naar het Departement Financiën en Begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024586/VolledigDocument?datum=2014-10-03",
+  "source_sha256": "b57e418457049c2079f725afe50c00747073104c81b16cbbea980bfa18e5d95f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024586&param=informatie",
+  "as_of": "2014-10-03",
+  "made": "2014-06-06",
+  "gazette": "2014-09-23",
+  "numac": 2014035882,
+  "document_start": "2014-10-03",
+  "document_end": null,
+  "in_force": "2014-10-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-10-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
