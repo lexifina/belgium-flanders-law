@@ -166,7 +166,28 @@ b) in het kader van de tweede verbintenisperiode, emissies van broeikasgassen af
 een document dat bedoeld is voor het bewaken van BKG-emissies en dat opgesteld is overeenkomstig Verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
 86° « emissiejaarrapport » :<br>
 a) in het kader van de eerste verbintenisperiode, een rapport over de BKG-emissies die zijn uitgestoten tijdens het voorgaande kalenderjaar, dat is opgesteld overeenkomstig de sjabloon die op 23 januari 2009 is vastgesteld door de Vlaamse minister, bevoegd voor leefmilieu en het waterbeleid;<br>
-b) in het kader van de tweede verbintenisperiode, een emissieverslag over de BKG-emissies die zijn uitgestoten tijdens het voorgaande kalenderjaar, dat is opgesteld en waarover werd gerapporteerd overeenkomstig verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad.
+b) in het kader van de tweede verbintenisperiode, een emissieverslag over de BKG-emissies die zijn uitgestoten tijdens het voorgaande kalenderjaar, dat is opgesteld en waarover werd gerapporteerd overeenkomstig verordening (EU) nr. 601/2012 van de Commissie van 21 juni 2012 inzake de monitoring en rapportage van de emissies van broeikasgassen overeenkomstig Richtlijn 2003/87/EG van het Europees Parlement en de Raad;<br>
+87° “verordening aquacultuur”: verordening nr. 708/2007 van de Raad van 11 juni 2007 inzake het gebruik van uitheemse en plaatselijk niet-voorkomende soorten in de aquacultuur;<br>
+88° “aquacultuur”: de kweek of teelt van aquatische organismen, waarbij technieken worden gebruikt om de aangroei van de betrokken organismen te verhogen tot boven de natuurlijke capaciteiten van het milieu; deze organismen blijven in de gehele fase van de kweek of de teelt, tot en met de oogst, eigendom van een natuurlijke persoon of rechtspersoon;<br>
+89° “open aquacultuurvoorziening”: een voorziening waar aquacultuur wordt bedreven in een aquatisch systeem dat niet van het natuurlijke watermilieu is gescheiden door barrières die ontsnapping van gekweekte exemplaren of biologisch materiaal die kans maken op overleving en reproductie, voorkomen;<br>
+90° “gesloten aquacultuurvoorziening”:een op het land gelegen voorziening waar:<br>
+a)&nbsp;&nbsp;&nbsp; aquacultuur wordt bedreven in een aquatisch systeem met waterrecirculatie;<br>
+b)&nbsp;&nbsp;&nbsp; de lozingen pas na zeving en filtering of percolatie en behandeling in contact komen met open water teneinde te voorkomen dat vaste afvalstoffen in de aquatische omgeving terechtkomen en dat gekweekte soorten en niet-doelsoorten die kans maken op overleving en reproductie, uit de voorziening ontsnappen;<br>
+c)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en ander biologisch materiaal, met inbegrip van pathogenen, als gevolg van factoren zoals roofdieren en overstroming worden voorkomen; zo moet de voorziening zich overeenkomstig een adequate beoordeling door de bevoegde autoriteiten op een veilige afstand van open water bevinden;<br>
+d)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en ander biologisch materiaal, met inbegrip van pathogenen, als gevolg van diefstal en vandalisme binnen de grenzen van de redelijkheid worden voorkomen; alsmede<br>
+e)&nbsp;&nbsp;&nbsp; de adequate verwijdering van dode organismen wordt gegarandeerd;<br>
+91° “dierlijke bijproducten”: de niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten, vermeld in de verordening dierlijke bijproducten en haar uitvoerende verordening (EU) nr.142/2011;<br>
+92° “verdrag van Helsinki" : het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992;<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->&nbsp;
+<p>93° “afdeling, bevoegd voor milieueffectrapportering”: de afdeling Milieu-, Natuur- en Energiebeleid van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;</p>
+
+<p>94° “ARBIS”: koninklijk besluit van 20 juli 2001 houdende algemeen reglement op de bescherming van de bevolking, van de werknemers en het leefmilieu tegen het gevaar van de ioniserende stralingen.”;</p>
+
+<p>95° “ingrijpende renovatie”: renovatie waarvan de kosten hoger liggen dan 50 % van de investeringskosten voor een nieuwe vergelijkbare eenheid;<br>
+96° “kwalitatieve warmte-krachtkoppeling”: warmte-krachtkoppeling die voldoet aan de voorwaarden voor kwalitatieve warmte-krachtkoppeling, gesteld in bijlage I bij het Energiebesluit van 19 november 2010;<br>
+97° “kosten-batenanalyse”: een financieel-economische vergelijking tussen een installatie zonder benutting van restwarmte of aanwending van kwalitatieve warmtekrachtkoppeling en een gelijkwaardige installatie waarin restwarmte nuttig wordt gebruikt&nbsp; of die uitgebaat wordt als kwalitatieve warmtekrachtkoppeling, zoals beschreven in punt F19 van bijlage 4.B;<br>
+98° “aardgasopslag”: de vaste drukhouders die dienst doen als buffer voor de opslag van aardgas of tot aardgaskwaliteit opgewaardeerd biogas, alsook de vaste drukhouders die dienst doen als aflaatreservoirs voor het aardgas of tot aardgaskwaliteit opgewaardeerd biogas bij aardgasafleverinstallaties;<br>
+99° “aardgasaflevereenheden (homecompressors)”: traagvullende inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, zonder aardgasopslag, bestaande uit één compressor en een of meerdere afleverslang(en);<br>
+100° “aardgasafleverinstallaties”: inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, andere dan aardgasaflevereenheden, bestaande uit een of meerdere compressor(en), een eventuele aardgasopslag, en één of meerdere aflevertoestellen;</p>
 
 ## HOOFDSTUK II DE MELDING
 
@@ -186,7 +207,7 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 ### ART. 5.
 
-<P>§ 1. Niemand mag zonder voorafgaande schriftelijke vergunning van de bevoegde   overheid een als hinderlijk ingedeelde inrichting die behoort tot de eerste of   de tweede klasse exploiteren.<BR><BR>§ 2. De vergunningsaanvraag moet alle   gegevens bevatten die als verplicht zijn aangeduid in het in bijlage 4 bij dit   besluit gevoegde model van vergunningsaanvraagformulier alsook alle   toepasselijke bijlagen die zijn voorgeschreven door dit artikel. <BR><BR>§ 3.   Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 dienen   gevoegd:<BR>1° een situeringsplan op schaal van tenminste 1/1.000, waarop de   ligging van de gebouwen, de produktie-eenheden, de opslagplaatsen, de   stortplaatsen en de lozingspunten ten opzichte van de aanpalende percelen   weergegeven is;<BR>2° een of meer uitvoeringsplannen op schaal van tenminste   1/200 waarop per produktie-eenheid, per opslagplaats, per gebouw en per   verdieping, de schikkingen van de installaties, machines, toestellen, apparaten   (in voorkomend geval met hun bijhorende motoren en opgave van het vermogen   ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de   afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen   aangegeven zijn;<BR>3° een bewijs van betaling van de dossiertaks;<BR>4° wanneer   de aanvraag betrekking heeft op een stortplaats of opslagplaats voor   afvalstoffen in of op de bodem alsmede op het geheel of gedeeltelijk opvullen   met niet-verontreinigde uitgegraven bodem en niet-verontreinigde bagger- en   ruimingsspecie van groeven, graverijen, uitgravingen en andere putten met   inbegrip van waterplassen en vijvers of op een directe of indirecte lozing in   grondwater van gevaarlijke stoffen bedoeld in bijlage 2 B bij dit besluit:<BR>°   een voorstel van werkplan zoals omschreven in titel II van het VLAREM;<BR>° een   opmetingsplan voor putten, laagten en ophogingen met opgave van het maaiveld en   berekening van de nuttige stortcapaciteit;<BR>° een voorstel van   inrichtingsplan, zoals omschreven in titel II van het VLAREM;<BR>° een voorstel   van plan voor afwerking, sluiting en nazorg van de stortplaats, zoals omschreven   in titel II van het VLAREM;<BR>° een verbintenis voor het aangaan van een   financiële zekerheid, zoals omschreven in titel II van het VLAREM; <BR>5°   wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in een   of meer van de subrubrieken 9.3 tot en met 9.8 van de indelingslijst:<BR>a) een   lijst met de aantallen dierplaatsen per ruimte in zover als mogelijk   gespecificeerd volgens de diersoorten vermeld in bijlage 5.9 (« Opslagplaatsen   voor mest) », Hoofdstuk VII (« Richtlijnen voor de opslagcapaciteit voor mest »)   <BR>b) ...<BR>c) ...<BR>6° wanneer de aanvraag betrekking heeft op de winning   van grondwater die behoort tot een grondwaterwinningseenheid met een totale   capaciteit, inclusief de geplande grondwaterwinning, van meer dan 2.500 m3/dag   of meer dan 500.000 m3/jaar:<BR>a) een hydrogeologische studie van het terrein   en omgeving uitgevoerd door een of meer deskundigen die tenminste voldoende   inzicht moet verschaffen inzake:<BR>i) algemene geologische situatie:<BR>- de   geologische opbouw;<BR>- de lithologische kenmerken van de verschillende   formaties;<BR>ii) algemene hydrogeologische situatie:<BR>- een algemene   beschrijving van de waterhuishouding;<BR>- een uitvoerige beschrijving van de   hydrogeologische kenmerken van de watervoerende laag waaruit water zal worden   gewonnen (o.a. hydraulische geleidbaarheid, transmissiviteit,   bergingscapaciteit, enz.);<BR>- bepalen van stromingsrichtingen en   stromingssnelheden van het grondwater;<BR>iii) de fysico-chemische kenmerken van   het grondwater van de watervoerende laag waaruit water zal worden   gewonnen;<BR>iv) een berekening van de afpompingskegel in de watervoerende laag   waaruit water zal worden gewonnen en de effecten op het bodemwater;<BR>v) een   overzicht van de grondwaterwinningen gelegen in een straal van 5 km met hun   debiet;<BR>b) een technisch rapport waarin het effect, met inbegrip van de   gevolgen op de natuur en het natuurlijk milieu, van de geplande   grondwaterwinning op de openbare en private bovengrondse eigendommen is   bestudeerd en omschreven;<BR>7° wanneer de aanvraag betrekking heeft op het   kunstmatig aanvullen van het grondwater:<BR>a) een hydrogeologische studie als   bedoeld in 4°;<BR>b) een technische nota betreffende de infiltratietechniek en   de maatregelen die genomen worden om verontreiniging van de watervoerende lagen   te voorkomen. <BR><BR>§ 4. Bij de vergunningsaanvraag voor een inrichting van de   klasse 1 dient bovendien een uittreksel gevoegd uit het kadastraal plan met de   gehele en gedeeltelijke percelen gelegen in een straal van 100 m rond de   perceelsgrenzen van de inrichting alsmede de lijst van de kadastrale eigenaars   van deze percelen.<BR><BR>§ 5. Bij de vergunningsaanvraag voor een inrichting of   de verandering van een inrichting als bedoeld in de bepalingen van Titel IV,   Hoofdstuk III, van het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid, wordt op straffe van onvolledigheid een van de volgende   documenten gevoegd, overeenkomstig dezelfde bepalingen opgesteld : <BR>1° een   goedgekeurd milieueffectrapport;<BR>2° een gemotiveerd verzoek tot ontheffing   van de rapportageverplichting en de definitieve beslissing daarover; <BR>3° een   project-m.e.r.-screeningsnota.<BR><BR>§ 6. Bij de vergunningsaanvraag voor een   inrichting of de verandering van een inrichting als bedoeld in de bepalingen van   Titel IV, Hoofdstuk V, van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, wordt op straffe van onvolledigheid een   overeenkomstig dezelfde bepalingen opgesteld en goedgekeurd veiligheidsrapport   gevoegd. <BR><BR>§ 7. Bij de vergunningsaanvraag voor een GPBV-installatie,   worden bovendien de volgende stukken gevoegd :<BR>1° een bijlage over   geïntegreerde preventie en bestrijding van verontreiniging die een beschrijving   bevat van :<BR>a) de installatie en de activiteiten die er plaatsvinden;<BR>b)   de grondstoffen en hulpmaterialen, de andere stoffen, en de energie die in de   installatie worden gebruikt of door de installatie worden gegenereerd;<BR>c) de   emissiebronnen van de installatie;<BR>d) de toestand van het terrein van de   installatie;<BR>e) de aard en de omvang van de te verwachten emissies van de   installatie in elk milieucompartiment met een overzicht van de significante   milieueffecten van de emissies;<BR>f) de beoogde technologie en de andere   technieken om de emissies van de installatie te voorkomen of, als dat niet   mogelijk is, te verminderen;<BR>g) de maatregelen voor de preventie, de   voorbereiding voor hergebruik, de recycling en de terugwinning van de door de   installatie voortgebrachte afvalstoffen;<BR>h) de andere maatregelen die worden   getroffen om te voldoen aan de algemene beginselen van de fundamentele   verplichtingen van de exploitant, vermeld in artikel 2.1.1 van titel III van het   VLAREM;<BR>i) de maatregelen die worden getroffen ter controle van de emissies   in het milieu;<BR>j) een schets van de voornaamste door de aanvrager bestudeerde   alternatieven voor de vooropgestelde technologie, technieken en   maatregelen;<BR>k) voor installaties met een rubriek die in de achtste kolom van   de indelingslijst met de kenletter S worden aangeduid : een verslag van   oriënterend bodemonderzoek en een bodemattest van de Openbare Vlaamse   Afvalstoffenmaatschappij waaruit blijkt dat met dat oriënterend bodemonderzoek   voldaan is aan de bodemonderzoeksplicht, vastgesteld door en krachtens artikel   33bis van het decreet van 27 oktober 2006 betreffende de bodemsanering en de   bodembescherming;<BR>2° een niet-technische samenvatting van de gegevens,   vermeld in punt 1°. <BR><BR>Als aan een van de eisen, vermeld in het eerste lid,   kan worden voldaan met gegevens uit het milieueffectrapport of uit het   veiligheidsrapport, of met andere informatie die wordt verstrekt overeenkomstig   andere wetgeving, kunnen die gegevens in de vergunningsaanvraag worden opgenomen   of bij de vergunningsaanvraag worden gevoegd.<BR><BR>§ 8. In de volgende   gevallen wordt bij de vergunningsaanvraag een energiestudie gevoegd als bedoeld   in artikel 6.5.1 tot en met 6.5.8 van het Energiebesluit:<BR>a) een nieuwe   inrichting met een totaal jaarlijks energiegebruik van tenminste 0,1   PetaJoule;<BR>b) een verandering van een inrichting met een totaal jaarlijks   energiegebruik van tenminste 0,1 PetaJoule voorzover de vergunningsaanvraag de   voor het energiegebruik relevante onderdelen van de inrichting betreft, en   waarvoor op grond van artikel 6bis een vergunning overeenkomstig artikel 5 en 6   moet worden aangevraagd;<BR>c) ...<BR><BR>Een inrichting met een totaal   jaarlijks energiegebruik van ten minste 0,1 PetaJoule, voegt bij de   vergunningsaanvraag voor een hernieuwing van een vergunning een energieplan als   vermeld in hoofdstuk V van titel VI van het Energiebesluit van 19 november   2010.<BR><BR>In afwijking van het tweede lid zijn de energie-intensieve   inrichtingen van ondernemingen die zijn toegetreden tot de   energiebeleidsovereenkomsten voor de verankering van en voor blijvende   energie-efficiëntie in de Vlaamse energie-intensieve industrie (niet   VER-bedrijven en VER-bedrijven) vrijgesteld van de verplichtingen vermeld in het   tweede lid.<BR><BR>De maatregelen uit dit energieplan met een interne rentevoet   zoals vermeld in artikel 6.5.4, § 1, 7°, van het Energiebesluit van 19 november   2010, worden uiterlijk drie jaar na het verlenen van de milieuvergunning   uitgevoerd.<BR><BR>De maatregelen uit dit energieplan met een interne rentevoet   van minstens 15 % na belastingen moeten uiterlijk drie jaar na de toekenning van   de milieuvergunning uitgevoerd zijn. <BR><BR>§ 9. Als het om een aanvraag van   een Y-rubriek gaat, wordt bovendien een monitoringplan toegevoegd dat   geverifieerd werd door het verificatiebureau en goedgekeurd werd door de   afdeling, bevoegd voor luchtverontreiniging.<BR><BR>Als het om een aanvraag tot   schrapping van een Y-rubriek gaat, worden bovendien documenten toegevoegd die   aantonen dat de installatie niet langer onder het toepassingsgebied van   emissiehandel valt.&nbsp;<BR><BR>§ 10. Bij een vergunningsaanvraag voor een   inrichting voor het verbranden of meeverbranden van afvalstoffen moeten volgende   stukken worden gevoegd :<BR>1° een beschrijving van de maatregelen die zijn   gepland om te waarborgen dat de installatie zo ontworpen, uitgerust, onderhouden   en geëxploiteerd wordt dat aan de exploitatievoorwaarden en verplichtingen van   de exploitant wordt voldaan zoals vastgesteld in hoofdstuk XI van dit reglement,   rekening houdend met de afvalcategorieën die er zullen worden verbrand of   meeverbrand;<BR>2° een beschrijving van de maatregelen die zijn gepland om te   waarborgen dat de bij het proces opgewekte warmte voor zover mogelijk wordt   teruggewonnen door de productie van warmte, stoom of elektriciteit;<BR>3° een   beschrijving van de maatregelen die zijn gepland om te waarborgen dat het   ontstaan van residuen en de schadelijkheid ervan tot een minimum beperkt worden,   en dat de residuen in voorkomend geval gerecycleerd worden. </P>
+<P>§ 1. Niemand mag zonder voorafgaande schriftelijke vergunning van de bevoegde   overheid een als hinderlijk ingedeelde inrichting die behoort tot de eerste of   de tweede klasse exploiteren.<BR><BR>§ 2. De vergunningsaanvraag moet alle   gegevens bevatten die als verplicht zijn aangeduid in het in bijlage 4 bij dit   besluit gevoegde model van vergunningsaanvraagformulier alsook alle   toepasselijke bijlagen die zijn voorgeschreven door dit artikel. <BR><BR>§ 3.   Bij de vergunningsaanvraag voor een inrichting van de klasse 1 of 2 dienen   gevoegd:<BR>1° een situeringsplan op schaal van tenminste 1/1.000, waarop de   ligging van de gebouwen, de produktie-eenheden, de opslagplaatsen, de   stortplaatsen en de lozingspunten ten opzichte van de aanpalende percelen   weergegeven is;<BR>2° een of meer uitvoeringsplannen op schaal van tenminste   1/200 waarop per produktie-eenheid, per opslagplaats, per gebouw en per   verdieping, de schikkingen van de installaties, machines, toestellen, apparaten   (in voorkomend geval met hun bijhorende motoren en opgave van het vermogen   ervan) en opslagplaatsen (met capaciteit) evenals de lozingspunten van de   afvalwaters weergegeven zijn alsmede de als hinderlijk ingedeelde handelingen   aangegeven zijn;<BR>3° een bewijs van betaling van de dossiertaks;<BR>4° wanneer   de aanvraag betrekking heeft op een stortplaats of opslagplaats voor   afvalstoffen in of op de bodem alsmede op het geheel of gedeeltelijk opvullen   met niet-verontreinigde uitgegraven bodem en niet-verontreinigde bagger- en   ruimingsspecie van groeven, graverijen, uitgravingen en andere putten met   inbegrip van waterplassen en vijvers of op een directe of indirecte lozing in   grondwater van gevaarlijke stoffen bedoeld in bijlage 2 B bij dit besluit:<BR>°   een voorstel van werkplan zoals omschreven in titel II van het VLAREM;<BR>° een   opmetingsplan voor putten, laagten en ophogingen met opgave van het maaiveld en   berekening van de nuttige stortcapaciteit;<BR>° een voorstel van   inrichtingsplan, zoals omschreven in titel II van het VLAREM;<BR>° een voorstel   van plan voor afwerking, sluiting en nazorg van de stortplaats, zoals omschreven   in titel II van het VLAREM;<BR>° een verbintenis voor het aangaan van een   financiële zekerheid, zoals omschreven in titel II van het VLAREM; <BR>5°   wanneer de aanvraag betrekking heeft op een inrichting die ingedeeld is in een   of meer van de subrubrieken 9.3 tot en met 9.8 van de indelingslijst:<BR>a) een   lijst met de aantallen dierplaatsen per ruimte in zover als mogelijk   gespecificeerd volgens de diersoorten vermeld in bijlage 5.9 (« Opslagplaatsen   voor mest) », Hoofdstuk VII (« Richtlijnen voor de opslagcapaciteit voor mest »)   <BR>b) ...<BR>c) ...<BR>6° wanneer de aanvraag betrekking heeft op de winning   van grondwater die behoort tot een grondwaterwinningseenheid met een totale   capaciteit, inclusief de geplande grondwaterwinning, van meer dan 2.500 m3/dag   of meer dan 500.000 m3/jaar:<BR>a) een hydrogeologische studie van het terrein   en omgeving uitgevoerd door een of meer deskundigen die tenminste voldoende   inzicht moet verschaffen inzake:<BR>i) algemene geologische situatie:<BR>- de   geologische opbouw;<BR>- de lithologische kenmerken van de verschillende   formaties;<BR>ii) algemene hydrogeologische situatie:<BR>- een algemene   beschrijving van de waterhuishouding;<BR>- een uitvoerige beschrijving van de   hydrogeologische kenmerken van de watervoerende laag waaruit water zal worden   gewonnen (o.a. hydraulische geleidbaarheid, transmissiviteit,   bergingscapaciteit, enz.);<BR>- bepalen van stromingsrichtingen en   stromingssnelheden van het grondwater;<BR>iii) de fysico-chemische kenmerken van   het grondwater van de watervoerende laag waaruit water zal worden   gewonnen;<BR>iv) een berekening van de afpompingskegel in de watervoerende laag   waaruit water zal worden gewonnen en de effecten op het bodemwater;<BR>v) een   overzicht van de grondwaterwinningen gelegen in een straal van 5 km met hun   debiet;<BR>b) een technisch rapport waarin het effect, met inbegrip van de   gevolgen op de natuur en het natuurlijk milieu, van de geplande   grondwaterwinning op de openbare en private bovengrondse eigendommen is   bestudeerd en omschreven;<BR>7° wanneer de aanvraag betrekking heeft op het   kunstmatig aanvullen van het grondwater:<BR>a) een hydrogeologische studie als   bedoeld in 4°;<BR>b) een technische nota betreffende de infiltratietechniek en   de maatregelen die genomen worden om verontreiniging van de watervoerende lagen   te voorkomen;<BR>8° als de aanvraag betrekking heeft op een lpg-station:<BR>a) een beschrijving van de uitvoering van het   lpg-station;<BR>b) een bewijs waarin aangetoond wordt dat het groepsrisico aanvaardbaar   is door de tabellen ingevoegd in de toelichtingsbijlage F18 in te vullen of door   het toevoegen van een berekening van het groepsrisico opgesteld door een erkend   VR-deskundige, als vermeld in artikel 6, 1°, e), van het VLAREL.<BR><BR>§   4. Bij de vergunningsaanvraag voor een inrichting van de klasse 1 dient   bovendien een uittreksel gevoegd uit het kadastraal plan met de gehele en   gedeeltelijke percelen gelegen in een straal van 100 m rond de perceelsgrenzen   van de inrichting alsmede de lijst van de kadastrale eigenaars van deze   percelen.<BR><BR>§ 5. Bij de vergunningsaanvraag voor een inrichting of de   verandering van een inrichting als bedoeld in de bepalingen van Titel IV,   Hoofdstuk III, van het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid, wordt op straffe van onvolledigheid een van de volgende   documenten gevoegd, overeenkomstig dezelfde bepalingen opgesteld : <BR>1° een   goedgekeurd milieueffectrapport;<BR>2° een gemotiveerd verzoek tot ontheffing   van de rapportageverplichting en de definitieve beslissing daarover; <BR>3° een   project-m.e.r.-screeningsnota.<BR><BR>§ 6. Bij de vergunningsaanvraag voor een   inrichting of de verandering van een inrichting als bedoeld in de bepalingen van   Titel IV, Hoofdstuk V, van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, wordt op straffe van onvolledigheid een   overeenkomstig dezelfde bepalingen opgesteld en goedgekeurd veiligheidsrapport   gevoegd. <BR><BR>§ 7. Bij de vergunningsaanvraag voor een GPBV-installatie,   worden bovendien de volgende stukken gevoegd :<BR>1° een bijlage over   geïntegreerde preventie en bestrijding van verontreiniging die een beschrijving   bevat van :<BR>a) de installatie en de activiteiten die er plaatsvinden;<BR>b)   de grondstoffen en hulpmaterialen, de andere stoffen, en de energie die in de   installatie worden gebruikt of door de installatie worden gegenereerd;<BR>c) de   emissiebronnen van de installatie;<BR>d) de toestand van het terrein van de   installatie;<BR>e) de aard en de omvang van de te verwachten emissies van de   installatie in elk milieucompartiment met een overzicht van de significante   milieueffecten van de emissies;<BR>f) de beoogde technologie en de andere   technieken om de emissies van de installatie te voorkomen of, als dat niet   mogelijk is, te verminderen;<BR>g) de maatregelen voor de preventie, de   voorbereiding voor hergebruik, de recycling en de terugwinning van de door de   installatie voortgebrachte afvalstoffen;<BR>h) de andere maatregelen die worden   getroffen om te voldoen aan de algemene beginselen van de fundamentele   verplichtingen van de exploitant, vermeld in artikel 2.1.1 van titel III van het   VLAREM;<BR>i) de maatregelen die worden getroffen ter controle van de emissies   in het milieu;<BR>j) een schets van de voornaamste door de aanvrager bestudeerde   alternatieven voor de vooropgestelde technologie, technieken en   maatregelen;<BR>k) voor installaties met een rubriek die in de achtste kolom van   de indelingslijst met de kenletter S worden aangeduid : een verslag van   oriënterend bodemonderzoek en een bodemattest van de Openbare Vlaamse   Afvalstoffenmaatschappij waaruit blijkt dat met dat oriënterend bodemonderzoek   voldaan is aan de bodemonderzoeksplicht, vastgesteld door en krachtens artikel   33bis van het decreet van 27 oktober 2006 betreffende de bodemsanering en de   bodembescherming;<BR>2° een niet-technische samenvatting van de gegevens,   vermeld in punt 1°. <BR><BR>Als aan een van de eisen, vermeld in het eerste lid,   kan worden voldaan met gegevens uit het milieueffectrapport of uit het   veiligheidsrapport, of met andere informatie die wordt verstrekt overeenkomstig   andere wetgeving, kunnen die gegevens in de vergunningsaanvraag worden opgenomen   of bij de vergunningsaanvraag worden gevoegd.<BR><BR>§ 8. In de volgende   gevallen wordt bij de vergunningsaanvraag een energiestudie gevoegd als bedoeld   in artikel 6.5.1 tot en met 6.5.8 van het Energiebesluit:<BR>a) een nieuwe   inrichting met een totaal jaarlijks primair energiegebruik van tenminste 0,1   PetaJoule;<BR>b) een verandering van een inrichting met een totaal jaarlijks primair   energiegebruik van ten minste 0,1 PetaJoule voorzover die verandering een   jaarlijks primair meerverbruik van ten minste 10 TJ met zich meebrengt (hierbij   wordt gekeken naar het energieverbruik van de nieuwe installatie(s) op   zich);<BR>c) ...<BR><BR>Een inrichting met een totaal jaarlijks primair   energiegebruik van ten minste 0,1 PetaJoule, voegt bij de vergunningsaanvraag   voor een hernieuwing van een vergunning een energieplan als vermeld in hoofdstuk   V van titel VI van het Energiebesluit van 19 november 2010.<BR><BR>In afwijking   van het tweede lid zijn de energie-intensieve inrichtingen van ondernemingen die   zijn toegetreden tot de energiebeleidsovereenkomsten voor de verankering van en   voor blijvende energie-efficiëntie in de Vlaamse energie-intensieve industrie   (niet VER-bedrijven en VER-bedrijven) vrijgesteld van de verplichtingen vermeld   in het tweede lid.<BR><BR>De maatregelen uit dit energieplan met een interne   rentevoet zoals vermeld in artikel 6.5.4, § 1, 7°, van het Energiebesluit van 19   november 2010, worden uiterlijk drie jaar na het verlenen van de   milieuvergunning uitgevoerd.<BR><BR>De maatregelen uit dit energieplan met een   interne rentevoet van minstens 15 % na belastingen moeten uiterlijk drie jaar na   de toekenning van de milieuvergunning uitgevoerd zijn. <BR><BR>§ 9. Als het om   een aanvraag van een Y-rubriek gaat, wordt bovendien een monitoringplan   toegevoegd dat geverifieerd werd door het verificatiebureau en goedgekeurd werd   door de afdeling, bevoegd voor luchtverontreiniging.<BR><BR>Als het om een   aanvraag tot schrapping van een Y-rubriek gaat, worden bovendien documenten   toegevoegd die aantonen dat de installatie niet langer onder het   toepassingsgebied van emissiehandel valt.&nbsp;<BR><BR>§ 10. Bij een   vergunningsaanvraag voor een inrichting voor het verbranden of meeverbranden van   afvalstoffen moeten volgende stukken worden gevoegd :<BR>1° een beschrijving van   de maatregelen die zijn gepland om te waarborgen dat de installatie zo   ontworpen, uitgerust, onderhouden en geëxploiteerd wordt dat aan de   exploitatievoorwaarden en verplichtingen van de exploitant wordt voldaan zoals   vastgesteld in hoofdstuk XI van dit reglement, rekening houdend met de   afvalcategorieën die er zullen worden verbrand of meeverbrand;<BR>2° een   beschrijving van de maatregelen die zijn gepland om te waarborgen dat de bij het   proces opgewekte warmte voor zover mogelijk wordt teruggewonnen door de   productie van warmte, stoom of elektriciteit;<BR>3° een beschrijving van de   maatregelen die zijn gepland om te waarborgen dat het ontstaan van residuen en   de schadelijkheid ervan tot een minimum beperkt worden, en dat de residuen in   voorkomend geval gerecycleerd worden. <BR><BR></P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpFirst>§11. Bij een vergunningsaanvraag die betrekking heeft op de introductie   van uitheemse soorten of de translocatie van plaatselijk niet-voorkomende   soorten in een aquacultuurvoorziening, ingedeeld in rubriek 62.2 van de   indelingslijst, worden de volgende stukken gevoegd:<BR>1° voor gesloten aquacultuurvoorzieningen: een bijlage waarin wordt   aangetoond dat voldaan wordt aan de definitie van een gesloten   aquacultuurvoorziening, als vermeld in artikel 3 van de verordening   aquacultuur;<BR>2° voor een open aquacultuurvoorziening:<BR>a) voor routinematige verplaatsingen: een aquacultuurdossier als vermeld   in bijlage I van de verordening aquacultuur;<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"   class=MsoNormal>b) voor niet-routinematige verplaatsingen: een aquacultuurdossier en een   milieurisicobeoordelingsdossier als vermeld in bijlage I en bijlage II van de   verordening aquacultuur;</P>  <P style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt"   class=MsoNormal>c) voor niet-routinematige introducties en voor proefuitzettingen   voorafgaand aan het uitzetten van een aquatisch organisme: een noodplan   opgesteld conform artikel 17 van de verordening aquacultuur;<BR>d) een document waarin de exploitant aantoont te kunnen voldoen aan het   koninklijk besluit van 9 november 2009 betreffende veterinairrechtelijke   voorschriften voor aquacultuurdieren en de producten daarvan en betreffende de   preventie en bestrijding van bepaalde ziekten bij waterdieren en het koninklijk   besluit van 10 augustus 2005 betreffende de bestrijding van voor planten en   plantaardige producten schadelijke organismen.</P>
 
 ### ART. 6.
 
@@ -204,7 +225,7 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 ### ART. 6quater.
 
-§ 1. Voor de mededeling van een kleine verandering, bedoeld in artikel   6bis, § 3, geldt de procedure vastgesteld door dit artikel.<BR><BR>§ 2. Het   onderzoek van de ontvankelijkheid en volledigheid gebeurt als volgt:<BR>1° de   bevoegde overheid of de door haar daartoe gemachtigde ambtenaar onderzoekt de   mededeling op volledigheid en ontvankelijkheid overeenkomstig artikel 6bis en   6ter;<BR>2° wordt de mededeling onontvankelijk bevonden, dan wordt de indiener   binnen&nbsp;dertig kalenderdagen na het indienen van de mededeling hiervan door   de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar schriftelijk   in kennis gesteld;<BR>3° wordt de mededeling onvolledig bevonden, dan wordt de   indiener binnen&nbsp;dertig kalenderdagen na het indienen van de mededeling   hiervan door de bevoegde overheid of haar daartoe gemachtigde ambtenaar   schriftelijk in kennis gesteld;<BR>4° wordt de mededeling ontvankelijk en   volledig bevonden, dan wordt de indiener binnen&nbsp;dertig kalenderdagen na de   indiening van de mededeling of na het verstrekken van de aanvullende gegevens   hiervan door de bevoegde overheid of door haar daartoe gemachtigde ambtenaar   schriftelijk in kennis gesteld;<BR>5° als er binnen dertig kalenderdagen na het   indienen van de mededeling of na het verstrekken van de aanvullende gegevens   geen schriftelijke kennisgeving aan de indiener werd verzonden, wordt de   procedure voortgezet. In dat geval doet de bevoegde overheid of de door haar   daartoe gemachtigde ambtenaar uitdrukkelijk uitspraak in haar beslissing of er   een milieueffectrapport over het project moet worden opgesteld. Zo ja dan kan de   beoogde verandering niet bij aktename worden vergund en moet een vergunning   worden aangevraagd volgens de normale procedure.<BR><BR>De kennisgeving, bedoeld   in 2°, vermeldt de reden van de onontvankelijkheid en wijst eventueel de   overheid aan die bevoegd geacht wordt om kennis te nemen van de mededeling of   van een vergunningsaanvraag.<BR><BR>De kennisgeving, bedoeld in 3°, vermeldt de   inlichtingen en gegevens die ontbreken of nadere toelichting   vereisen.<BR><BR>Als bij de mededeling kleine verandering een   project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid of de   door haar daartoe gemachtigde ambtenaar die nota en neemt een beslissing of er   een milieueffectrapport over de beoogde verandering moet worden opgesteld. Er   moet geen milieueffectrapport over de beoogde verandering worden opgesteld als   de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar oordeelt dat   : <BR>1° een toetsing aan de criteria van bijlage II van het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid uitwijst dat de beoogde   verandering geen aanzienlijke gevolgen kan hebben voor het milieu en een   project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2° vroeger al een project-MER werd   goedgekeurd betreffende een project waarvan het voorgenomen initiatief een   herhaling, voortzetting of alternatief is, en een nieuw project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten.<BR><BR>De beslissing dat een milieueffectrapport   moet worden opgesteld, heeft van rechtswege de onvolledigheid van de mededeling   kleine verandering tot gevolg. <BR><BR>De aanvrager kan in dat geval een   gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de   afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure   vermeld in artikel 4.3.3, § 3 tot en met § 9, van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid.<BR><BR>§ 3. De bevoegde   overheid of de door haar daartoe gemachtigde ambtenaar stuurt op de dag van de   verzending van de brief, bedoeld in § 2, 4° een exemplaar van het volledige   mededelingsdossier naar de adviesverlenende overheidsorganen, bedoeld in artikel   20, § 1, 1° en 2°.&nbsp;Als de mededeling betrekking heeft op een aanvraag of   schrapping van een Y-rubriek wordt bovendien een exemplaar gezonden aan de   afdeling, bevoegd voor luchtverontreiniging. Als de mededeling betrekking heeft   op een inrichting die is ingedeeld in de rubrieken 52 tot en met 56 van de   indelingslijst wordt daarenboven een exemplaar gezonden aan de afdeling van de   Vlaamse Milieumaatschappij, bevoegd voor grondwater.<BR><BR>De overheidsorganen,   bedoeld in het eerste lid, brengen hun advies uit overeenkomstig hoofdstuk VI.   Bij gebrek aan advies binnen een termijn van 30 kalenderdagen, wordt aangenomen   dat bedoeld(e) adviesverlenend(e) overheidsorgaan(en) een gunstige beoordeling   over de door haar te onderzoeken aspecten met betrekking tot de meegedeelde   verandering heeft (hebben) uitgebracht. Als de mededeling betrekking heeft op   een verandering in een hogedrempel-Seveso-inrichting, ofwel van de hoeveelheid   of de fysische vorm van de gevaarlijke stoffen, ofwel van de processen of de   installaties waarbij gevaarlijke stoffen worden gebruikt, wordt daarenboven een   exemplaar gestuurd naar de afdeling, bevoegd voor   veiligheidsrapportering.<BR><BR>§ 4. Binnen een termijn van 60 kalenderdagen te   rekenen vanaf de datum van verzending van de brief, bedoeld in § 2, 4°, doet de   bevoegde overheid bij gemotiveerd besluit uitspraak over de mededeling van de   kleine verandering.<BR><BR>Indien deze overheid daarbij vaststelt dat de   verandering van die aard is dat ze:<BR>1° ofwel een bijkomend risico voor de   mens of een aantasting van het leefmilieu inhoudt;<BR>2° ofwel de bestaande   hinder vergroot;<BR>moet voor de beoogde verandering een vergunning worden   aangevraagd; deze vaststelling is niet vatbaar voor beroep.<BR><BR>In het andere   geval wordt de verandering door een aktename vergund voor een bepaalde termijn   waarvan de einddatum die van de lopende vergunning niet mag overschrijden. Deze   aktename is wel vatbaar voor beroep overeenkomstig artikel 49 en 50 wanneer het   gaat om een uitspraak van het college van burgemeester en schepenen,   respectievelijk van artikel 51 en 52 wanneer het gaat om een uitspraak van de   deputatie.<BR>.<BR><BR>§ 5. De aktename, bedoeld in § 4, wordt bekendgemaakt   overeenkomstig artikel 35, 5° wanneer het gaat om een uitspraak van de deputatie   respectievelijk overeenkomstig artikel 36, 5° wanneer het gaat om een uitspraak   van het college van burgemeester en schepenen.
+§ 1. Voor de mededeling van een kleine verandering, bedoeld in artikel   6bis, § 3, geldt de procedure vastgesteld door dit artikel.<BR><BR>§ 2. Het   onderzoek van de ontvankelijkheid en volledigheid gebeurt als volgt:<BR>1° de   bevoegde overheid of de door haar daartoe gemachtigde ambtenaar onderzoekt de   mededeling op volledigheid en ontvankelijkheid overeenkomstig artikel 6bis en   6ter;<BR>2° wordt de mededeling onontvankelijk bevonden, dan wordt de indiener   binnen&nbsp;dertig kalenderdagen na het indienen van de mededeling hiervan door   de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar schriftelijk   in kennis gesteld;<BR>3° wordt de mededeling onvolledig bevonden, dan wordt de   indiener binnen&nbsp;dertig kalenderdagen na het indienen van de mededeling   hiervan door de bevoegde overheid of haar daartoe gemachtigde ambtenaar   schriftelijk in kennis gesteld;<BR>4° wordt de mededeling ontvankelijk en   volledig bevonden, dan wordt de indiener binnen&nbsp;dertig kalenderdagen na de   indiening van de mededeling of na het verstrekken van de aanvullende gegevens   hiervan door de bevoegde overheid of door haar daartoe gemachtigde ambtenaar   schriftelijk in kennis gesteld;<BR>5° als er binnen dertig kalenderdagen na het   indienen van de mededeling of na het verstrekken van de aanvullende gegevens   geen schriftelijke kennisgeving aan de indiener werd verzonden, wordt de   procedure voortgezet. In dat geval doet de bevoegde overheid of de door haar   daartoe gemachtigde ambtenaar uitdrukkelijk uitspraak in haar beslissing of er   een milieueffectrapport over het project moet worden opgesteld. Zo ja dan kan de   beoogde verandering niet bij aktename worden vergund en moet een vergunning   worden aangevraagd volgens de normale procedure.<BR><BR>De kennisgeving, bedoeld   in 2°, vermeldt de reden van de onontvankelijkheid en wijst eventueel de   overheid aan die bevoegd geacht wordt om kennis te nemen van de mededeling of   van een vergunningsaanvraag.<BR><BR>De kennisgeving, bedoeld in 3°, vermeldt de   inlichtingen en gegevens die ontbreken of nadere toelichting   vereisen.<BR><BR>Als bij de mededeling kleine verandering een   project-m.e.r.-screeningsnota is gevoegd, onderzoekt de bevoegde overheid of de   door haar daartoe gemachtigde ambtenaar die nota en neemt een beslissing of er   een milieueffectrapport over de beoogde verandering moet worden opgesteld. Er   moet geen milieueffectrapport over de beoogde verandering worden opgesteld als   de bevoegde overheid of de door haar daartoe gemachtigde ambtenaar oordeelt dat   : <BR>1° een toetsing aan de criteria van bijlage II van het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid uitwijst dat de beoogde   verandering geen aanzienlijke gevolgen kan hebben voor het milieu en een   project-MER redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2° vroeger al een project-MER werd   goedgekeurd betreffende een project waarvan het voorgenomen initiatief een   herhaling, voortzetting of alternatief is, en een nieuw project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten.<BR><BR>De beslissing dat een milieueffectrapport   moet worden opgesteld, heeft van rechtswege de onvolledigheid van de mededeling   kleine verandering tot gevolg. <BR><BR>De aanvrager kan in dat geval een   gemotiveerd verzoek tot ontheffing van de rapportageverplichting indienen bij de   afdeling, bevoegd voor milieueffectrapportage overeenkomstig de procedure   vermeld in artikel 4.3.3, § 3 tot en met § 9, van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid.<BR><BR>§ 3. De bevoegde   overheid of de door haar daartoe gemachtigde ambtenaar stuurt op de dag van de   verzending van de brief, bedoeld in § 2, 4° een exemplaar van het volledige   mededelingsdossier naar de adviesverlenende overheidsorganen, bedoeld in artikel   20, § 1, 1° en 2°.&nbsp;Als de mededeling betrekking heeft op een aanvraag of   schrapping van een Y-rubriek wordt bovendien een exemplaar gezonden aan de   afdeling, bevoegd voor luchtverontreiniging. Als de mededeling betrekking heeft   op een inrichting die is ingedeeld in de rubrieken 52 tot en met 56 van de   indelingslijst wordt daarenboven een exemplaar gezonden aan de afdeling van de   Vlaamse Milieumaatschappij, bevoegd voor grondwater.<BR><BR>De overheidsorganen,   bedoeld in het eerste lid, brengen hun advies uit overeenkomstig hoofdstuk VI.   Bij gebrek aan advies binnen een termijn van 30 kalenderdagen, wordt aangenomen   dat bedoeld(e) adviesverlenend(e) overheidsorgaan(en) een gunstige beoordeling   over de door haar te onderzoeken aspecten met betrekking tot de meegedeelde   verandering heeft (hebben) uitgebracht. <BR><BR>§ 4. Binnen een termijn van 60   kalenderdagen te rekenen vanaf de datum van verzending van de brief, bedoeld in   § 2, 4°, doet de bevoegde overheid bij gemotiveerd besluit uitspraak over de   mededeling van de kleine verandering.<BR><BR>Indien deze overheid daarbij   vaststelt dat de verandering van die aard is dat ze:<BR>1° ofwel een bijkomend   risico voor de mens of een aantasting van het leefmilieu inhoudt;<BR>2° ofwel de   bestaande hinder vergroot;<BR>moet voor de beoogde verandering een vergunning   worden aangevraagd; deze vaststelling is niet vatbaar voor beroep.<BR><BR>In het   andere geval wordt de verandering door een aktename vergund voor een bepaalde   termijn waarvan de einddatum die van de lopende vergunning niet mag   overschrijden. Deze aktename is wel vatbaar voor beroep overeenkomstig artikel   49 en 50 wanneer het gaat om een uitspraak van het college van burgemeester en   schepenen, respectievelijk van artikel 51 en 52 wanneer het gaat om een   uitspraak van de deputatie.<BR>.<BR><BR>§ 5. De aktename, bedoeld in § 4, wordt   bekendgemaakt overeenkomstig artikel 35, 5° wanneer het gaat om een uitspraak   van de deputatie respectievelijk overeenkomstig artikel 36, 5° wanneer het gaat   om een uitspraak van het college van burgemeester en schepenen.
 
 ## HOOFDSTUK IV [PREVENTIE VAN ZWARE ONGEVALLEN (verv. B.V.R. 12 januari 1999, art. 10)]
 
@@ -212,51 +233,47 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 <span class="reference">(ing. B.V.R. 12 januari 1999, art. 11)</span> ] [...  <span class="reference">(opgeh. B.V.R. 29 september 2000, art. 2, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]
 
-### ART. 7.
-
-[§ 1. Voor de toepassing van dit hoofdstuk wordt verstaan onder:<br /><br />1° "inrichting": het gehele gebied dat door een exploitant wordt beheerd, waar gevaarlijke stoffen aanwezig zijn in een of meer installaties, met inbegrip van gemeenschappelijke of bijbehorende infrastructuur of activiteiten;<br /><br />2° "installatie": een technische eenheid binnen een inrichting waar gevaarlijke stoffen worden geproduceerd, gebruikt, behandeld of opgeslagen; die eenheid omvat alle uitrusting, constructies, leidingen, machines, gereedschappen, eigen spoorwegaftakkingen, laad- en loskades, aanlegsteigers voor de installatie, pieren, depots of soortgelijke, al dan niet drijvende constructies, die nodig zijn voor de werking van de installatie;<br /><br />3° "opslag": de aanwezigheid van een hoeveelheid gevaarlijke stoffen voor opslag, veilige bewaring of voorraadbewaring;<br /><br />4° "aanwezigheid van gevaarlijke stoffen": de feitelijke of toegestane aanwezigheid van dergelijke stoffen in de inrichting, dan wel de aanwezigheid van gevaarlijke stoffen waarvan bekend is dat ze kunnen ontstaan als een industrieel chemisch proces buiten controle geraakt, in hoeveelheden gelijk aan of hoger dan de drempelwaarden vermeld in bijlage 6, delen 1 en 2, gevoegd bij dit besluit;<br /><br />5° "schierongeval": ongecontroleerde gebeurtenis die op toevallige wijze tot een zwaar ongeval aanleiding kan geven.<br /><br />§ 2. Dit hoofdstuk is niet van toepassing op:<br /><br />1° militaire inrichtingen, installaties of opslagplaatsen;<br /><br />2° winningindustrieën die zich op het gebied van exploratie en exploitatie van delfstoffen in mijnen en groeven en op dat van boringen bewegen;<br /><br />3° stortplaatsen voor afval.  <span class="reference">(verv. B.V.R. 29 september 2000, art. 3, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]
-
 ### ART. 8.
 
 [§ 1. De exploitant van een inrichting waar gevaarlijke stoffen aanwezig zijn in hoeveelheden gelijk aan of groter dan de hoeveelheid bepaald in bijlage 6, delen 1 en 2, gevoegd bij dit besluit, moet, vooraleer over te gaan tot een vergunningsaanvraag, een veiligheidsrapport indienen. In dit veiligheidsrapport toont hij de volgende zaken aan:<br /><br />1° er wordt een beleid gevoerd ter preventie van zware ongevallen en er is een veiligheidsbeheerssysteem voor het uitvoeren daarvan, overeenkomstig de punten, genoemd in bijlage 5, deel 1, gevoegd bij dit besluit;<br /><br />2° de gevaren van zware ongevallen zijn geïdentificeerd en de nodige maatregelen zijn getroffen om ze te voorkomen en de gevolgen ervan voor mens en milieu te beperken;<br /><br />3° het ontwerp, de constructie, de exploitatie en het onderhoud van alle met de werking samenhangende installaties, opslagplaatsen, apparatuur en infrastructuur die samenhangen met de gevaren van een zwaar ongeval binnen de inrichting zijn voldoende veilig en betrouwbaar;<br /><br />4° de nodige gegevens werden verstrekt voor de opstelling van het externe noodplan om bij een zwaar ongeval de nodige maatregelen te kunnen treffen;<br /><br />5° er wordt gegarandeerd dat de bevoegde overheden voldoende zullen worden geïnformeerd, zodat ze besluiten kunnen nemen over nieuwe activiteiten of over ontwikkelingen rond bestaande inrichtingen.<br /><br />§ 2. De indiening van een veiligheidsrapport, zoals bedoeld in § 1, voorafgaandelijk aan een vergunningsaanvraag, is tevens vereist in geval van een wijziging van een installatie, opslag of proces of van de aard en de hoeveelheden gevaarlijke stoffen die voor de gevaren van zware ongevallen belangrijke gevolgen kunnen hebben.<br /><br />§ 3. In het veiligheidsrapport worden tenminste de inlichtingen opgenomen die vermeld staan in bijlage 5, deel 2.  <span class="reference">(verv. B.V.R. 29 september 2000, art. 4, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]
 
 ### ART. 9.
 
-§ 1. Het veiligheidsrapport dient opgesteld op initiatief en op kosten van de aanvrager van een milieuvergunning voor, of van de exploitant van [een in artikel 8 bedoelde inrichting  <span class="reference">(verv. B.V.R. 29 september 2000, art. 5, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ] door het in artikel 10 bedoelde college van deskundigen van verschillende disciplines.<br /><br />§ 2. De in § 1 bedoelde vergunningsaanvrager en exploitant stelt de nodige informatie ter beschikking van het in artikel 10 bedoelde college van deskundigen.
+<P>...</P>
 
 ### ART. 10.
 
-§ 1. Het college van deskundigen dat door de in artikel 9, § 1 bedoelde vergunningsaanvrager of exploitant met de opstelling van het veiligheidsrapport wordt gelast, is als volgt samengesteld:<br />1° desgewenst één of meer niet-erkende deskundige(n), aangewezen door de vergunningsaanvrager of exploitant, die vertrouwd is (zijn) met de technische en organisatorische maatregelen ter voorkoming en beperking van de veiligheidsrisico's eigen aan de geplande inrichting;<br />2° één of meer erkende deskundige(n), gekozen door de vergunningsaanvrager of exploitant uit de lijst van de door de Vlaamse minister erkende deskundigen inzake de discipline "extrerne veiligheid risico's voor zware ongevallen".<br /><br />§ 2. Het in § 1 bedoelde college van deskundigen kan, met het oog op de opstelling van het veiligheidsrapport, kennisnemen en gebruik maken van alle informatie betreffende de toestand van water, lucht, bodem, fauna, flora, akkers en natuurgebieden e.a. die beschikbaar is bij het departement alsmede bij de Vlaamse publiekrechtelijke rechtspersonen belast met een opdracht inzake milieu en/of natuur. Voormeld departement, maatschappijen en instellingen stellen de in het eerste lid bedoelde informatie ter beschikking op eenvoudige schriftelijke vraag van het college van deskundigen, voor zover dit laatste door de bevoegde inspectie volledig werd bevonden.<br /><br />§ 3. De in artikel 9, § 1 bedoelde vergunningsaanvrager of exploitant waarborgt de opstelling van het veiligheidsrapport overeenkomstig de voorschriften van onderhavig besluit door middel van een schriftelijke overeenkomst af te sluiten met de in § 1 bedoelde deskundigen.<br /><br />§ 4. Het college van deskundigen onderzoekt en evalueert redelijke alternatieve oplossingen, die minder veiligheidsrisico's meebrengen.<br /><br />§ 5. Het college van deskundigen geeft een overzichtelijke samenvatting van het rapport, vermeldt de leemtes in de kennis en informatie, en geeft een duidelijke beoordeling van de voorziene veiligheidsrisico's, en dit tevens voor de eventueel vermelde alternatieven.
+<P>...</P>
 
 ### ART. 11.
 
-§ 1. De Vlaamse minister kan een deskundige, zoals bedoeld in art. 10, § 1, 2°, erkennen voor de discipline "externe veiligheid risico's voor zware ongevallen".<br /><br />§ 2. De aanvraag tot erkenning als deskundige dient per ter post aangetekend schrijven ingediend bij de Vlaamse minister. De aanvrager is ertoe gehouden al de door de Vlaamse minister met het oog op deze erkenning gevraagde gegevens en/of documenten te verstrekken. Indien de aanvrager een rechtspersoon is, dienen de statuten van de vennootschap of vereniging evenals de namen van haar zaakvoerders of beheerders medegedeeld.<br /><br />§ 3. De erkenning als deskundige wordt verleend voor een termijn van maximum vijf jaar. Deze erkenning kan worden verlengd.<br /><br />§ 4. Om erkend te kunnen worden, moet elke deskundige aan de volgende voorwaarden voldoen:<br /><br />1. als het een natuurlijke persoon betreft:<br /><br />a) van Belgische nationaliteit zijn;<br /><br />b) van zijn burgerlijke en politieke rechten genieten;<br /><br />c) voldoen aan de dienstplichtwetten;<br /><br />d) houder zijn van een diploma of getuigschrift van hoger of universitair onderwijs;<br /><br />e) een voldoend geachte ervaring en onderlegdheid bezitten in het domein van de beschouwde discipline(s);<br /><br />f) niet bezoldigd zijn door het Rijk, de Gemeenschappen, de Gewesten, de provincies, de gemeenten, een vereniging van gemeenten of een daarvan afhangende instelling of bestuur, behalve als lid van het onderwijzend personeel;<br /><br />2. als het een rechtspersoon betreft:<br /><br />a) een vennootschap of vereniging zijn naar Belgisch recht met zetel in België wiens statuten geen enkele bepaling bevatten die strijdig is met die van dit besluit;<br /><br />b) erkende deskundigen in dienst hebben die belast zullen worden met de opstelling van de rapporten.<br /><br />§ 5. De erkenning kan door de Vlaamse minister te allen tijde worden opgeheven wanneer niet meer aan de erkenningsvoorwaarden wordt voldaan.<br /><br />§ 6. Het is de erkende deskundigen verboden, zelfs na het beëindigen van hun functie, feiten kenbaar te maken waarvan zij ten gevolge van hun opdrachten kennis zouden hebben gekregen.
+<P>...</P>
 
 ### ART. 12.
 
-Alvorens over te gaan tot de opstelling van een veiligheidsrapport zoals vereist volgens artikel 8, § 1 of § 2, geeft de exploitant per ter post aangetekende zending aan de afdeling, bevoegd voor veiligheidsrapportering kennis van zijn voornemen tot exploitatie van een inrichting waarvoor overeenkomstig dit besluit een veiligheidsrapport is vereist.
+<P>...</P>
 
 ### ART. 13.
 
-Het door een exploitant voorgelegde veiligheidsrapport kan in de zin van onderhavig besluit slechts als dusdanig in aanmerking worden genomen, wanneer dit is opgesteld door een college van deskundigen waarvan de samenstelling overeenkomstig artikel 12 volledig wordt bevonden.
+<P>...</P>
 
 ### ART. 14.
 
-§ 1. Het overeenkomstig de bepalingen van onderhavig besluit opgestelde veiligheidsrapport wordt door de exploitant aan de afdeling bevoegd voor veiligheidsrapportering voorgelegd. De exploitant bezorgt hiertoe vier door het college van deskundigen ondertekende exemplaren van het volledige veiligheidsrapport aan voormelde afdeling.<br /><br />§ 2. De in § 1 voormelde afdeling gaat na of het voorgelegde veiligheidsrapport is opgesteld conform de bepalingen van onderhavig besluit en onderzoekt daarenboven of de volgens artikel 8 vereiste informatie volledig in dit veiligheidsrapport is verstrekt op basis van de door de exploitant ter kennis gegeven summiere omschrijving en ruimtelijke situering van de geplande inrichting.<br /><br />§ 3. De in § 1 voormelde afdeling deelt onverwijld het resultaat van het in § 2 bedoelde onderzoek per ter post aangetekend schrijven mee aan de exploitant evenals aan de overheid bevoegd om in eerste aanleg uitspraak te doen over de aanvraag tot vergunning voor het exploiteren of veranderen van bedoelde inrichting.<br /><br />§ 4. Indien de in § 1 voormelde afdeling het voorgelegde veiligheidsrapport volledig in overeenstemming met onderhavig besluit bevindt, kent deze Administratie een conformiteitscode toe aan het rapport en levert een voor conform gekenmerkt exemplaar van het veiligheidsrapport af aan de exploitant.<br /><br />§ 5. Indien de in § 1 voormelde afdeling het voorgelegde veiligheidsrapport niet of niet volledig in overeenstemming met onderhavig besluit bevindt, motiveert deze Administratie deze bevinding in haar in § 3 bedoelde mededeling aan de exploitant. Elk verbeterd en/of nieuw veiligheidsrapport wordt voorgelegd en behandeld overeenkomstig de procedure voorzien in onderhavig besluit.<br /><br />§ 6. Indien de exploitant de in § 3 bedoelde mededeling niet heeft ontvangen binnen een termijn van dertig dagen, te rekenen vanaf de datum van afgifte van het veiligheidsrapport aan de in § 1 bedoelde administratie, wordt aangenomen dat het voorgelegde veiligheidsrapport conform de bepalingen van onderhavig besluit is opgesteld.
+<P>...</P>
 
 ### ART. 15.
 
-§ 1. De exploitant voegt bij elke aanvraag tot vergunning van een nieuwe inrichting of hernieuwing van een vergunning voor het exploiteren van een inrichting, waarvoor een veiligheidsrapport is vereist evenals bij elke aanvraag tot verandering van een bestaande inrichting die ingevolge de geplande verandering onder toepassing valt van de bepalingen [van artikel 8, § 2  <span class="reference">(verv. B.V.R. 29 september 2000, art. 8, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ] het overeenkomstig artikel 14 voor conform gekenmerkte veiligheidsrapport ofwel een [kopie  <span class="reference">(verv. B.V.R. 23 april 2004, art. 3, I: 31 maart 2004)</span> ] hiervan.<br /><br />§ 2. De overheid, bij wie de vergunningsaanvraag voor de exploitatie of de hernieuwing van een inrichting waarvoor een veiligheidsrapport is vereist alsmede voor de verandering van een vergunde inrichting die ingevolge de geplande verandering onder toepassing valt [van artikel 8, § 2  <span class="reference">(verv. B.V.R. 29 september 2000, art. 8, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ] wordt ingediend, kan de aanvraag niet volledig bevinden indien het bij de aanvraag gevoegde veiligheidsrapport niet is volledig bevonden of geacht overeenkomstig artikel 14.<br /><br />§ 3. De besluiten van het veiligheidsrapport zijn een bijlage die overeenkomstig artikel 17ter inzage dient gelegd.
+<P>...</P>
 
 ### ART. 16.
 
-De in artikel 14, § 1, van dit besluit voormelde afdeling deelt onverwijld na de toekenning van de conformiteitcode aan het veiligheidsrapport, overeenkomstig artikel 14, § 4, of na het verstrijken van de termijn bedoeld in artikel 14, § 6, een exemplaar van het rapport mee aan:<br />1° de betrokken beoordelingsdienst van de federale overheid zoals bedoeld in artikel 5, § 2, 4°, van het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken;<br />2° de algemene directie van de Civiele Bescherming van het federale ministerie van Binnenlandse Zaken.
+<P>...</P>
 
 ## HOOFDSTUK V HET OPENBAAR ONDERZOEK
 
 ### ART. 17.
 
-<P>§ 1. Ongeacht de klasse waartoe de geplande inrichting behoort, omvat het   openbaar onderzoek over een vergunningsaanvraag:<BR>1° het op bevel van de   bevoegde burgemeester ter inzage leggen van te vergunningsaanvraag en zijn   bijlagen gedurende dertig kalenderdagen bij de diensten van het   gemeentebestuur;<BR>2° het op bevel van de bevoegde burgemeester aanplakken   gedurende dezelfde periode op de plaats waar de exploitatie gebeurt of is   gepland en op de plaatsen voorbehouden voor de officiële berichten van een   bekendmaking, <BR>a) ...<BR>b) ...<BR>c) ...<BR>d) ...<BR><BR>§ 2. De   bekendmaking vermeld in § 1 wordt opgesteld volgens het model dat als bijlage 8   bij dit besluit is gevoegd. De volgorde en formulering van de titels en de   vragen in het model moet nageleefd worden. Bij meerkeuzevragen kan het voldoende   zijn om alleen het toepasselijke antwoord te vermelden. De bekendmaking wordt   gedrukt met zwarte letters op geel papier en heeft een grootte van tenminste 35   dm2.&nbsp;De bekendmaking wordt tijdens de gehele duur van de aanplakking in   goed zichtbare en goed leesbare staat gehouden.<BR><BR>Op de plaats waar de   exploitatie gebeurt of is gepland, wordt voormelde bekendmaking aangebracht op   een schutting of op een aan een paal bevestigd bord, op te grens tussen het   perceel en de openbare weg en evenwijdig met deze laatste, en op een   maximumhoogte van 2 m.<BR><BR>De burgemeester waakt erover dat de aanplakking   van voormelde bekendmaking gebeurt binnen een termijn van tien kalenderdagen na   de datum van verklaring tot ontvankelijkheid en volledigheid van het   vergunningsaanvraagdossier.<BR><BR>De in § 1 vermelde termijn van dertig   kalenderdagen van bekendmaking vangt aan de dag volgend op deze dat voormelde   aanplakking is gebeurd.<BR><BR>§ 3. Voor inrichtingen van de eerste klasse omvat   het openbare onderzoek bovendien:<BR>1° het door de bevoegde burgemeester   schriftelijk ter kennis brengen van de aanvraag aan de op de in artikel 5, § 4   bedoelde lijst van de kadastrale eigenaars voorkomende eigenaars alsmede aan de   gebruikers van de gebouwen gelegen in een straal van 100 m rond de   perceelsgrenzen van de inrichting voor zover deze gelegen zijn in dezelfde   gemeente als de inrichting; indien één of meer van de kadastrale percelen of   gebouwen binnen deze straal gelegen zijn op het grondgebied van een naburige   gemeente, wordt de aanvraag schriftelijk ter kennis gebracht van het college van   burgemeester en schepenen van deze gemeente dat op zijn beurt de voormelde   gebruikers van de gebouwen en eigenaars binnen de vermelde straal in kennis   stelt;<BR>2° het door de bevoegde burgemeester schriftelijk ter kennis brengen   van de aanvraag aan&nbsp;het comité voor preventie en bescherming op het werk,   vermeld in het het koninklijk besluit van 3 mei 1999 betreffende de opdrachten   en de werking van de Comités voor Preventie en Bescherming op het Werk van elke   onderneming gelegen in een straal van 100 m rond de inrichting;<BR>3° het door   de bevoegde burgemeester schriftelijk ter kennis brengen van de aanvraag aan de   Algemene Directie Toezicht op het Welzijn op het Werk van de FOD   Werkgelegenheid, Arbeid en Sociaal Overleg;<BR>3bis het door de bevoegde   burgemeester schriftelijk ter kennis brengen van de aanvraag aan de openbare   besturen die belast zijn met het beheer van een verkeersweg, een waterloop of   een instelling binnen een straal van 100 m rond de inrichting;<BR>4° de   bekendmaking van het openbaar onderzoek in opdracht van de bevoegde   burgemeester, in minimum twee dag- en/of weekbladen waarvan één met regionaal   karakter of in minstens een dag- of weekblad met regionaal karakter en op een   voor bekendmakingen geëigende en opvallende plaats op de website van de   gemeente. </P>
+<P>§ 1. Ongeacht de klasse waartoe de geplande inrichting behoort, omvat het   openbaar onderzoek over een vergunningsaanvraag:<BR>1° het op bevel van de   bevoegde burgemeester ter inzage leggen van te vergunningsaanvraag en zijn   bijlagen gedurende dertig kalenderdagen bij de diensten van het   gemeentebestuur;<BR>2° het op bevel van de bevoegde burgemeester aanplakken   gedurende dezelfde periode op de plaats waar de exploitatie gebeurt of is   gepland en op de plaatsen voorbehouden voor de officiële berichten van een   bekendmaking, <BR>a) ...<BR>b) ...<BR>c) ...<BR>d) ...<BR><BR>§ 2. De   bekendmaking vermeld in § 1 wordt opgesteld volgens het model dat als bijlage 8   bij dit besluit is gevoegd. De volgorde en formulering van de titels en de   vragen in het model moet nageleefd worden. Bij meerkeuzevragen kan het voldoende   zijn om alleen het toepasselijke antwoord te vermelden. De bekendmaking wordt   gedrukt met zwarte letters op geel papier en heeft een grootte van tenminste 35   dm2.&nbsp;De bekendmaking wordt tijdens de gehele duur van de aanplakking in   goed zichtbare en goed leesbare staat gehouden.<BR><BR>Op de plaats waar de   exploitatie gebeurt of is gepland, wordt voormelde bekendmaking aangebracht op   een schutting of op een aan een paal bevestigd bord, op te grens tussen het   perceel en de openbare weg en evenwijdig met deze laatste, en op een   maximumhoogte van 2 m.<BR><BR>De burgemeester waakt erover dat de aanplakking   van voormelde bekendmaking gebeurt binnen een termijn van tien kalenderdagen na   de datum van verklaring tot ontvankelijkheid en volledigheid van het   vergunningsaanvraagdossier.<BR><BR>De in § 1 vermelde termijn van dertig   kalenderdagen van bekendmaking vangt aan de dag volgend op deze dat voormelde   aanplakking is gebeurd.<BR><BR>§ 3. Voor inrichtingen van de eerste klasse omvat   het openbare onderzoek bovendien:<BR>1° het door de bevoegde burgemeester   schriftelijk ter kennis brengen van de aanvraag aan de op de in artikel 5, § 4   bedoelde lijst van de kadastrale eigenaars voorkomende eigenaars alsmede aan de   gebruikers van de gebouwen gelegen in een straal van 100 m rond de   perceelsgrenzen van de inrichting voor zover deze gelegen zijn in dezelfde   gemeente als de inrichting; indien één of meer van de kadastrale percelen of   gebouwen binnen deze straal gelegen zijn op het grondgebied van een naburige   gemeente, wordt de aanvraag schriftelijk ter kennis gebracht van het college van   burgemeester en schepenen van deze gemeente dat op zijn beurt de voormelde   gebruikers van de gebouwen en eigenaars binnen de vermelde straal in kennis   stelt;<BR>2° het door de bevoegde burgemeester schriftelijk ter kennis brengen   van de aanvraag aan&nbsp;het comité voor preventie en bescherming op het werk,   vermeld in&nbsp;het koninklijk besluit van 3 mei 1999 betreffende de opdrachten   en de werking van de Comités voor Preventie en Bescherming op het Werk van elke   onderneming gelegen in een straal van 100 m rond de inrichting;<BR>3° ...;<BR>4°   de bekendmaking van het openbaar onderzoek in opdracht van de bevoegde   burgemeester, in minimum twee dag- en/of weekbladen waarvan één met regionaal   karakter of in minstens een dag- of weekblad met regionaal karakter en op een   voor bekendmakingen geëigende en opvallende plaats op de website van de   gemeente. </P>
 
 ### ART. 18.
 
@@ -270,15 +287,19 @@ Bij het afsluiten van het openbaar onderzoek wordt door de burgemeester een doss
 
 § 1. Wanneer om op het even welke wijze door de bevoegde vergunningverlenende overheid wordt vastgesteld dat de exploitatie van de inrichting negatieve en significante effecten op het milieu van een ander Gewest en/of van een andere EU-lidstaat en/of een Verdragspartij bij het Verdrag van Espoo zou kunnen hebben, of wanneer een ander Gewest en/of een EU-lidstaat en/of een Verdragspartij bij het Verdrag van Espoo die daardoor in belangrijke mate getroffen kan worden terzake een verzoek indient, bezorgt deze bevoegde vergunningverlenende overheid een exemplaar van de milieuvergunningsaanvraag en de bijbehorende bijlagen aan de bevoegde autoriteit van het bedoelde Gewest en/of EU-lidstaat en/of een verdragspartij bij het Verdrag van Espoo.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 14, I: 1 mei 1999)</span> ]<br /><br />Daarbij worden de volgende gegevens meegedeeld:<br /><br />1° het feit dat een besluit onderworpen is aan een milieueffectrapportage, of in voorkomend geval, het feit dat het voorgenomen project niet onderworpen is aan de milieueffectrapportage, of aan het hieronder vermelde overleg tussen lidstaten;<br /><br />2° nadere gegevens betreffende de bevoegde overheid voor de milieuvergunningsaanvraag;<br /><br />3° nadere gegevens betreffende de overheid waarbij relevante informatie kan worden verkregen en waaraan opmerkingen of vragen kunnen worden voorgelegd;<br /><br />4° nadere gegevens betreffende de termijnen voor het toezenden van opmerkingen of vragen;<br /><br />5° tijd, plaats en wijze van verstrekking van de relevante informatie;<br /><br />6° nadere gegevens inzake de regelingen betreffende inspraak en raadpleging van het publiek.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 4, I: 1 juli 2005)</span> ]<br /><br />Deze gegevens dienen als basis voor het nodige overleg in het kader van de bilaterale betrekkingen tussen de gewesten en/of EU-lidstaten en/of een Verdragspartij bij het Verdrag van Espoo volgens het beginsel van wederkerigheid en gelijke behandeling.<br /><br />§ 2. De bevoegde vergunningverlenende overheid gaat over tot de toezending, bedoeld in § 1, op het tijdstip waarop zij het vergunningsaanvraagdossier toezendt aan de bevoegde burgemeester met opdracht tot het instellen van het openbaar onderzoek, bedoeld in artikel 17.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 14, I: 1 mei 1999)</span> De bevoegde burgemeester maakt de tijd, plaats en wijze van verstrekking van relevante informatie, in het bijzonder over het openbaar onderzoek, vermeld in artikel 17, aan de bevoegde autoriteit van de andere lid-Staat bekend.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 4, I:1 juli 2005)</span> ]<br /><br />De belanghebbende inwoners van het betrokken Gewest en/of EU-lidstaat en/of een Verdragspartij bij het Verdrag van Espoo kunnen:<br /><br />1° deelnemen aan het openbaar onderzoek, bedoeld in artikel 17;<br /><br />2° deelnemen aan het openbaar onderzoek dat de bevoegde autoriteit van het betrokken Gewest en/of EU-lidstaat en/of een Verdragspartij bij het Verdrag van Espoo op basis van het ontvangen vergunningsaanvraagdossier eventueel op haar eigen grondgebied organiseert.<br /><br />De bevoegde autoriteit van het betrokken Gewest en/of EU-lidstaat en/of een Verdragspartij bij het Verdrag van Espoo kan haar opmerkingen samen met de resultaten van het eventueel door haar georganiseerde openbaar onderzoek aan de bevoegde vergunningverlenende overheid ter kennis brengen binnen een termijn van twee maanden na de datum van de toezending, bedoeld in het eerste lid.<br /><br />§ 3. Wanneer de milieuvergunningsaanvraag betrekking heeft op een MER-plichtige inrichting wordt overeenkomstig de EU-richtlijn 97/11/EG van 3 maart 1997 met het betrokken gewest en/of EU-lidstaat overleg gepleegd over onder andere de potentiële grensoverschrijdende effecten van de inrichting en de maatregelen die worden overwogen om die effecten te beperken of teniet te doen en wordt een redelijke termijn overeengekomen waarbinnen het overleg moet plaatsvinden.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 14, I: 1 mei 1999)</span> ]
 
+### ART. 19ter.
+
+<P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 10pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"   class=MsoNormal>§1. Als op om het even welke wijze door de bevoegde vergunningverlenende   overheid wordt vastgesteld dat de exploitatie van de inrichting ten gevolge van   een zwaar ongeval waarschijnlijk betekenisvolle effecten kan hebben voor mens of   milieu van een ander gewest, een andere EU-lidstaat of een verdragspartij bij   het verdrag van Helsinki, of als een ander gewest, een EU-lidstaat of een   verdragspartij bij het verdrag van Helsinki die daardoor in belangrijke mate   getroffen kan worden ter zake een verzoek indient, bezorgt deze bevoegde   vergunningverlenende overheid een exemplaar van de milieuvergunningsaanvraag en   de bijbehorende bijlagen aan de bevoegde autoriteit van het bedoelde gewest, de   EU-lidstaat of de verdragspartij bij het verdrag van Helsinki.<?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P style="MARGIN: 0cm 0cm 10pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"   class=MsoNormal>Daarbij worden de volgende gegevens meegedeeld:<BR>1° het feit dat het voorgenomen project onderworpen is aan de   omgevingsveiligheidsrapportage, of in voorkomend geval, het feit dat het   voorgenomen project niet onderworpen is aan de omgevingsveiligheidsrapportage,   of aan het overleg tussen lidstaten, vermeld in het tweede lid;<BR>2° de nadere gegevens betreffende de bevoegde overheid voor de   milieuvergunningsaanvraag;<BR>3° de nadere gegevens betreffende de overheid waarbij relevante   informatie kan worden verkregen en waaraan opmerkingen of vragen kunnen worden   voorgelegd;<BR>4° de nadere gegevens betreffende de termijnen voor het toezenden van   opmerkingen of vragen;<BR>5° tijd, plaats en wijze van verstrekking van de relevante   informatie;<BR>6° nadere gegevens over de regelingen betreffende inspraak en   raadpleging van het publiek.<BR><BR>De gegevens, vermeld in het eerste lid, dienen als basis voor het nodige   overleg in het kader van de bilaterale betrekkingen tussen de gewesten, de   EU-lidstaten of verdragspartijen bij het verdrag van Helsinki volgens het   beginsel van wederkerigheid en gelijke behandeling.</P>  <P   style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 10pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"   class=MsoNormal>§2. De bevoegde vergunningverlenende overheid gaat over tot de   toezending, vermeld in paragraaf 1, op het tijdstip waarop ze het   vergunningsaanvraagdossier toezendt aan de bevoegde burgemeester met opdracht   tot het instellen van het openbaar onderzoek, vermeld in artikel 17. De bevoegde   burgemeester maakt de tijd, plaats en wijze van verstrekking van relevante   informatie, in het bijzonder over het openbaar onderzoek, vermeld in artikel 17,   aan de bevoegde autoriteit van de andere lidstaat bekend.<BR><BR>De belanghebbende inwoners van het betrokken gewest, de EU-lidstaat of   de verdragspartij bij het verdrag van Helsinki kunnen:<BR>1° deelnemen aan het openbaar onderzoek, vermeld in artikel   17;<BR>2° deelnemen aan het openbaar onderzoek dat de bevoegde autoriteit van   het betrokken gewest, de EU-lidstaat of de verdragspartij bij het verdrag van   Helsinki op basis van het ontvangen vergunningsaanvraagdossier eventueel op haar   eigen grondgebied organiseert.</P>De bevoegde autoriteit van het betrokken gewest, de EU-lidstaat of de   verdragspartij bij het verdrag van Helsinki kan haar opmerkingen samen met de   resultaten van het eventueel door haar georganiseerde openbaar onderzoek aan de   bevoegde vergunningverlenende overheid ter kennis brengen binnen een termijn van   twee maanden na de datum van de toezending, vermeld in het eerste   lid.
+
 ## HOOFDSTUK VI DE ADVIEZEN
 
 ### ART. 20.
 
-§ 1. De overheidsorganen die advies uitbrengen over een   vergunningsaanvraag, bedoeld in artikel 6, § 1, 1°, alsmede over een beroep   tegen een beslissing van de deputatie of van het college van burgemeester en   schepenen zijn:<BR>1° de afdeling, bevoegd voor milieuvergunningen;<BR>2° wat de   stedenbouwkundige aspecten betreft :<BR>a) als het gaat om een andere   vergunningsaanvraag dan die van openbare besturen of een door hen opgerichte   instelling : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed, behalve als het een inrichting betreft die in een gemeente ligt waarvan   de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden, vermeld   in artikel 7.2.1, § 1, van de Vlaamse Codex Ruimtelijke Ordening, in welk geval   de stedenbouwkundige aspecten worden geadviseerd door het college van   burgemeester en schepenen, dat daarvoor het advies van de gemeentelijke   stedenbouwkundige ambtenaar inwint en dat in zijn advies opneemt; <BR>b) als het   gaat om een vergunningsaanvraag van openbare besturen of van een door hen   opgerichte instelling : het Departement Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed ;<BR>c) als het gaat om een beroep tegen een beslissing van   het college van burgemeester en schepenen : het Departement Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed, behalve als het een inrichting   betreft die in een gemeente ligt waarvan de Vlaamse Regering heeft vastgesteld   dat ze voldoet aan de voorwaarden, vermeld in artikel 7.2.1, § 1, van de Vlaamse   Codex Ruimtelijke Ordening, in welk geval de stedenbouwkundige aspecten worden   geadviseerd door de provinciale stedenbouwkundige ambtenaar; <BR>d) als het gaat   om een beroep tegen een beslissing van de deputatie van de provincieraad : het   Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>3° de   afdeling, bevoegd voor het toezicht volksgezondheid;<BR>4° de afdeling, bevoegd   voor natuurlijke rijkdommen;<BR>5° de Openbare Vlaamse Afvalstoffenmaatschappij;   <BR>6° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor het lozen van   afvalwater en de emissie van afvalgassen in de atmosfeer;<BR>7° ...;<BR>8° de   afdeling van de Vlaamse Milieumaatschappij, bevoegd voor grondwater;<BR>9° de   afdeling, bevoegd voor luchtverontreiniging;<BR>10° het Vlaams   Energieagentschap.<BR><BR>Tenzij anders bepaald, brengen deze overheidsorganen   hun advies uit in de schoot van de milieuvergunningscommissies bedoeld in   hoofstuk VII.<BR><BR>De afdelingen, bedoeld in het eerste lid 1° en 2°, verlenen   advies over alle inrichtingen, de overige organen verlenen advies naar gelang   van de aard van de inrichting, zoals bepaald in § 2, 3° tot en met 11°.   <BR><BR>Tenzij anders bepaald, brengen zij hun advies uit binnen een termijn van   zestig kalenderdagen na ontvangst van het dossier, als het gaat om een   vergunningsaanvraag, en van dertig kalenderdagen na ontvangst van het dossier,   als het gaat om een mededeling kleine verandering of beroep. <BR><BR>§ 2. De   adviesverlenende overheidsorganen die advies uitbrengen over een   vergunningsaanvraag als vermeld in artikel 6, § 1, 2°, zijn : <BR>1° de dienst   van de gemeente die met het onderzoek van milieudossiers is gelast;<BR>2°   wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de   indelingslijst is aangeduid met de letter A : het adviesverlenende   overheidsorgaan<BR>a) de in § 1,1°, vermelde afdeling Milieuvergunningen;<BR>b)   het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, behalve   als het een inrichting betreft die in een gemeente ligt waarvan de Vlaamse   Regering heeft vastgesteld dat ze voldoet aan de voorwaarden, vermeld in artikel   7.2.1, § 1, van de Vlaamse Codex Ruimtelijke Ordening, in welk geval de   stedenbouwkundige aspecten worden geadviseerd door de gemeentelijke   stedenbouwkundige ambtenaar;<BR>3° wanneer het gaat om een inrichting die in de   vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter G :   de afdeling, vermeld in § 1, 3°;<BR>4° wanneer het gaat om een inrichting die in   de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de letter E   : het agentschap, vermeld in § 1, 10°;<BR>5° wanneer het gaat om een inrichting   die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de   letter "O" : de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>6° wanneer het   gaat om een inrichting die in de vierde kolom "bemerkingen" van de   indelingslijst is aangeduid met de letter "M" : de afdeling van de Vlaamse   Milieumaatschappij, vermeld in in § 1, 6;<BR>7° ...<BR>8° wanneer het gaat om   een inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is   aangeduid met de letter "W" : de afdeling van de Vlaamse Milieumaatschappij,   vermeld in § 1, 8°;<BR>9° als het gaat om een inrichting die wordt vermeld onder   artikel 5, § 8 : het agentschap, vermeld in § 1, 10°;<BR>10° als het gaat om een   aanvraag of schrapping van een Y-rubriek : de afdeling, vermeld in paragraaf 1,   9° ;<BR>11° wanneer het gaat om een inrichting die in de vierde kolom   "bemerkingen" van de indelingslijst is aangeduid met de letter "N" : de   afdeling, vermeld in § 1, 4°.<BR><BR>Tenzij anders bepaald, verlenen zij in dit   geval hun advies binnen een termijn van dertig kalenderdagen na ontvangst van   het dossier.<BR><BR>§ 3. De afdeling bedoeld in § 1, eerste lid, 1° kan   desgewenst adviezen inwinnen van de N.V. Aquafin, de beheerders van gewone   oppervlaktewateren, en alle andere overheidsdiensten en overheidsinstellingen   die activiteiten ontwikkelen op het vlak van het leefmilieu, het waterbeleid, de   landinrichting en het natuurbehoud. Tenzij anders bepaald, verlenen deze hun   advies binnen een termijn van twintig kalenderdagen. Wanneer het gevraagde   subadvies niet binnen deze termijn van twintig kalenderdagen is uitgebracht,   wordt dit geacht gunstig te zijn.<BR><BR>§ 4. Wanneer een vergunningsaanvraag   uitgaat van een in dit artikel bedoelde instelling of van een onderneming waarin   zij een participatie heeft, is het advies van deze instelling niet vereist.
+§ 1. De overheidsorganen die advies uitbrengen over een   vergunningsaanvraag, bedoeld in artikel 6, § 1, 1°, alsmede over een beroep   tegen een beslissing van de deputatie of van het college van burgemeester en   schepenen zijn:<BR>1° de afdeling, bevoegd voor milieuvergunningen;<BR>2° wat de   stedenbouwkundige aspecten betreft :<BR>a) als het gaat om een andere   vergunningsaanvraag dan die van openbare besturen of een door hen opgerichte   instelling : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed, behalve als het een inrichting betreft die in een gemeente ligt waarvan   de Vlaamse Regering heeft vastgesteld dat ze voldoet aan de voorwaarden, vermeld   in artikel 7.2.1, § 1, van de Vlaamse Codex Ruimtelijke Ordening, in welk geval   de stedenbouwkundige aspecten worden geadviseerd door het college van   burgemeester en schepenen, dat daarvoor het advies van de gemeentelijke   stedenbouwkundige ambtenaar inwint en dat in zijn advies opneemt; <BR>b) als het   gaat om een vergunningsaanvraag van openbare besturen of van een door hen   opgerichte instelling : het Departement Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed ;<BR>c) als het gaat om een beroep tegen een beslissing van   het college van burgemeester en schepenen : het Departement Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed, behalve als het een inrichting   betreft die in een gemeente ligt waarvan de Vlaamse Regering heeft vastgesteld   dat ze voldoet aan de voorwaarden, vermeld in artikel 7.2.1, § 1, van de Vlaamse   Codex Ruimtelijke Ordening, in welk geval de stedenbouwkundige aspecten worden   geadviseerd door de provinciale stedenbouwkundige ambtenaar; <BR>d) als het gaat   om een beroep tegen een beslissing van de deputatie van de provincieraad : het   Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<BR>3° de   afdeling, bevoegd voor het toezicht volksgezondheid;<BR>4° de afdeling, bevoegd   voor natuurlijke rijkdommen;<BR>5° de Openbare Vlaamse Afvalstoffenmaatschappij;   <BR>6° de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor het lozen van   afvalwater en de emissie van afvalgassen in de atmosfeer;<BR>7° ...;<BR>8° de   afdeling van de Vlaamse Milieumaatschappij, bevoegd voor grondwater;<BR>9° de   afdeling, bevoegd voor luchtverontreiniging;<BR>10° het Vlaams   Energieagentschap;<BR>11° Het Federaal Agentschap voor Nucleaire   Controle.<BR><BR>Tenzij anders bepaald, brengen deze overheidsorganen hun   advies uit in de schoot van de milieuvergunningscommissies bedoeld in hoofstuk   VII.<BR><BR>De afdelingen, bedoeld in het eerste lid 1° en 2°, verlenen advies   over alle inrichtingen, de overige organen verlenen advies naar gelang van de   aard van de inrichting, zoals bepaald in § 2, 3° tot en met 12°. <BR><BR>Tenzij   anders bepaald, brengen zij hun advies uit binnen een termijn van zestig   kalenderdagen na ontvangst van het dossier, als het gaat om een   vergunningsaanvraag, en van dertig kalenderdagen na ontvangst van het dossier,   als het gaat om een mededeling kleine verandering of beroep. <BR><BR>§ 2. De   adviesverlenende overheidsorganen die advies uitbrengen over een   vergunningsaanvraag als vermeld in artikel 6, § 1, 2°, zijn : <BR>1° de dienst   van de gemeente die met het onderzoek van milieudossiers is gelast;<BR>2°   wanneer het gaat om een inrichting die in de vierde kolom "bemerkingen" van de   indelingslijst is aangeduid met de letter A : <BR>a) de in § 1,1°, vermelde   afdeling Milieuvergunningen;<BR>b) het Departement Ruimtelijke Ordening,   Woonbeleid en Onroerend Erfgoed, behalve als het een inrichting betreft die in   een gemeente ligt waarvan de Vlaamse Regering heeft vastgesteld dat ze voldoet   aan de voorwaarden, vermeld in artikel 7.2.1, § 1, van de Vlaamse Codex   Ruimtelijke Ordening, in welk geval de stedenbouwkundige aspecten worden   geadviseerd door de gemeentelijke stedenbouwkundige ambtenaar;<BR>2°bis   wanneer het gaat om een inrichting van de eerste klasse die in de vierde kolom   "bemerkingen" van de indelingslijst is aangeduid met de letter T: de in §1,1°,   vermelde afdeling Milieuvergunningen;<BR>3° wanneer het gaat om een   inrichting die in de vierde kolom "bemerkingen" van de indelingslijst is   aangeduid met de letter G : de afdeling, vermeld in § 1, 3°;<BR>4° wanneer het   gaat om een inrichting die in de vierde kolom "bemerkingen" van de   indelingslijst is aangeduid met de letter E : het agentschap, vermeld in § 1,   10°;<BR>5° wanneer het gaat om een inrichting die in de vierde kolom   "bemerkingen" van de indelingslijst is aangeduid met de letter "O" : de Openbare   Vlaamse Afvalstoffenmaatschappij;<BR>6° wanneer het gaat om een inrichting die   in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de   letter "M" : de afdeling van de Vlaamse Milieumaatschappij, vermeld in in § 1,   6;<BR>7° ...<BR>8° wanneer het gaat om een inrichting die in de vierde kolom   "bemerkingen" van de indelingslijst is aangeduid met de letter "W" : de afdeling   van de Vlaamse Milieumaatschappij, vermeld in § 1, 8°;<BR>9° als het gaat om een   inrichting die wordt vermeld onder artikel 5, § 8 : het agentschap, vermeld in §   1, 10°;<BR>10° als het gaat om een aanvraag of schrapping van een Y-rubriek : de   afdeling, vermeld in paragraaf 1, 9° ;<BR>11° wanneer het gaat om een inrichting   die in de vierde kolom "bemerkingen" van de indelingslijst is aangeduid met de   letter "N" : de afdeling, vermeld in § 1, 4°;<BR>  <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoListParagraphCxSpFirst>12° het Federaal Agentschap, vermeld in paragraaf 1, 11°, als het gaat   om de volgende inrichtingen:<BR>a)&nbsp;&nbsp;&nbsp;   de inrichtingen van klasse I, vermeld in artikel 3.1, a), van het ARBIS;   <BR>b)&nbsp;&nbsp;&nbsp;   de inrichtingen, vermeld in artikel 3.1, b), 1, van het   ARBIS;<BR>c)&nbsp;&nbsp;&nbsp;   de inrichtingen van klasse II, vermeld in artikel 3.1, b), van het ARBIS   waar zich een of meer deeltjesversnellers bevinden die gebruikt worden voor   onderzoek of voor de   productie van radionucliden, met uitzondering van elektronische microscopen,   alsook de inrichtingen waar die deeltjesversnellers worden vervaardigd of getest;<BR>d)&nbsp;&nbsp;&nbsp;   de inrichtingen van klasse II, vermeld in artikel 3.1, b), van het ARBIS   waar zich bestralingsinstallaties bevinden met een bron waarvan de activiteit   gelijk is aan of hoger ligt dan 100 TBq, met uitzondering van   bestralingseenheden voor de behandeling van patiënten, met uitzondering van   bronnen die in alle omstandigheden in hun afscherming blijven; <?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>de inrichtingen van klasse II, vermeld in artikel 3.1, b), van het ARBIS   waar radioactieve stoffen worden verpakt voor verkoop in industriële   hoeveelheden;<BR><BR>Tenzij anders bepaald, verlenen zij in dit geval hun   advies binnen een termijn van dertig kalenderdagen na ontvangst van het   dossier.<BR><BR>§ 3. De afdeling bedoeld in § 1, eerste lid, 1° kan desgewenst   adviezen inwinnen van de N.V. Aquafin, het&nbsp;Federaal Agentschap voor Nucleaire Controle, de   beheerders van gewone oppervlaktewateren, en alle andere overheidsdiensten en   overheidsinstellingen die activiteiten ontwikkelen op het vlak van energie, het   leefmilieu, het waterbeleid, de landinrichting en het natuurbehoud. Tenzij   anders bepaald, verlenen deze hun advies binnen een termijn van twintig   kalenderdagen. Wanneer het gevraagde subadvies niet binnen deze termijn van   twintig kalenderdagen is uitgebracht, wordt dit geacht gunstig te zijn.<BR><BR>§   4. Wanneer een vergunningsaanvraag uitgaat van een in dit artikel bedoelde   instelling of van een onderneming waarin zij een participatie heeft, is het   advies van deze instelling niet vereist.
 
 ### ART. 21.
 
-§ 1. Het advies van de afdeling, bevoegd voor milieuvergunningen bevat   volgende gegevens:<BR>1° een gemotiveerde beoordeling van de verenigbaarheid van   de inrichting waarvoor een vergunning wordt gevraagd met het leefmilieu,   inclusief met de Ramsar- en de EG-vogelrichtlijngebieden, de bescherming van de   oppervlakte- en grondwateren, het algemeen waterzuiveringsprogramma en het   [milieubeleidsplan en de sectorale uitvoeringsplannen alsmede met de externe   veiligheid;<BR>2° indien de inrichting verenigbaar wordt geacht met het   leefmilieu en de externe veiligheid, een gemotiveerd voorstel van de   vergunningstermijn en de vergunningsvoorwaarden, die betrekking hebben op de   bescherming van het leefmilieu en de externe veiligheid;<BR>3° een gemotiveerde   beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat de   bescherming van het grond- en het oppervlaktewater betreft;<BR>4° indien de   inrichting verenigbaar wordt geacht met de voorwaarden inzake de bescherming van   het grond- en oppervlaktewater tegen verontreiniging, een gemotiveerd voorstel   van de vergunningsvoorwaarden, die betrekking hebben op de bescherming van de   grond- en oppervlaktewateren.<BR><BR>§ 2. Het advies van het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, het college van   burgemeester en schepenen of de gemeentelijke of provinciale stedenbouwkundige   ambtenaar bevat volgende gegevens:<BR>1° de voorschriften en verordeningen op   het vlak van de stedebouw en de ruimtelijke ordening die van toepassing zijn op   de percelen, waarop de vergunningsaanvraag slaat en de beschrijving van de   bestemming die, overeenkomstig de plannen van aanleg, in een straal van 500 m   rond de betrokken inrichting, aan de omgeving is gegeven;<BR>2° een gemotiveerde   beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning   wordt gevraagd met de omgeving en de goede plaatselijke ruimtelijke   ordening.<BR><BR>§ 3. Het advies van de afdeling, bevoegd voor het toezicht   volksgezondheid bevat volgende gegevens:<BR>1° een gemotiveerde beoordeling over   de inrichting waarvoor een vergunning wordt gevraagd, wat het gezondheidsaspect   betreft;<BR>2° indien de inrichting verenigbaar wordt geacht met de voorwaarden   inzake de gezondheid, een gemotiveerd voorstel van de vergunningsvoorwaarden die   betrekking hebben op de gezondheid van de mens.<BR><BR>§ 4. Het advies van de de   afdeling, bevoegd voor natuurlijke rijkdommen bevat volgende gegevens:<BR>1° een   gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt   gevraagd wat betreft het beheer van de natuurlijke rijkdommen, het   ontginningsbeleid en het gevaar voor grondverschuivingen en/of   instortingen;<BR>2° indien de inrichting verenigbaar wordt geacht met het   ontginningsbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die   betrekking hebben op het voorkomen van grondverschuivingen en/of instortingen;   <BR>3° ...<BR>4° ...<BR>5° ... <BR><BR>§ 5. Het advies van de Openbare Vlaamse   Afvalstoffenmaatschappij bevat volgende gegevens :<BR>1° een gemotiveerde   beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd wat   betreft het duurzaam beheer van materiaalkringlopen en afvalstoffen.<BR>2°   indien de inrichting verenigbaar wordt geacht met de bepalingen van het   milieubeleidsplan en de sectorale uitvoeringsplannen en met een duurzaam beheer   van afvalstoffen en materialen, een gemotiveerd voorstel van vergunningstermijn   en van vergunningsvoorwaarden, die betrekking hebben op het beheer van   materiaalkringlopen en afvalstoffen. <BR><BR>§ 6. Het advies van de afdeling van   de Vlaamse Milieumaatschappij, bevoegd voor het lozen van afvalwater en de   emissie van afvalgassen in de atmosfeer bevat volgende gegevens:<BR>1. met   betrekking tot het lozen van afvalwater:<BR>a) een gemotiveerde beoordeling over   de herkomst van het afvalwater en de verenigbaarheid van de aangevraagde lozing   met het algemeen waterzuiveringsprogramma en, in geval van rechtstreekse of   onrechtstreekse lozing in oppervlaktewater, met de kwaliteit van het ontvangende   oppervlaktewater en met de geplande investeringen voor de zuivering van bedoeld   oppervlaktewater;<BR>b) indien de aangevraagde lozing verenigbaar wordt geacht   met het algemeen waterzuiveringsprogramma, met de kwaliteit van het ontvangende   oppervlaktewater en met de geplande of reeds bestaande infrastructuur voor de   zuivering van het ontvangende water, een gemotiveerd voorstel van   vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare   vuilvracht;<BR>2. met betrekking tot de emissie van afvalgassen in de   atmosfeer:<BR>a) een gemotiveerde beoordeling over de verenigbaarheid van de   aangevraagde emissie met de kwaliteit van de omgevingslucht;<BR>b) indien de   aangevraagde emissie verenigbaar wordt geacht met de kwaliteit van de   omgevingslucht, een gemotiveerd voorstel van vergunningsvoorwaarden die   betrekking hebben op de maximaal toelaatbare emissie.<BR><BR>§ 7. ...<BR><BR>§   8. Het advies van de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor   grondwater bevat volgende gegevens:<BR>1° een gemotiveerde beoordeling over de   inrichting waarvoor een vergunning wordt aangevraagd, wat betreft de   verenigbaarheid met het grondwaterbeheersbeleid, het aantal aan te leggen   peilputten en filters conform artikel 5.53.4.2 van titel II van het VLAREM, de   kwantitatieve en kwalitatieve effecten op het beheer van de watervoerende en/of   de ontvangende grondwaterlaag en de eventuele effecten op de andere   watervoerende lagen enerzijds en op de openbare en private bovengrondse   eigendommen anderzijds;<BR>2° indien de inrichting verenigbaar wordt geacht met   het grondwaterbeheersbeleid, een gemotiveerd voorstel van de   vergunningsvoorwaarden die betrekking hebben op het grondwaterbeheer en het   voorkomen van schade aan de openbare en private bovengrondse eigendommen.   <BR><BR>§ 9. Het advies van de afdeling, bevoegd voor luchtverontreiniging, over   een vergunningsaanvraag of een beroep tegen een beslissing over een   milieuvergunningsaanvraag bevat de volgende gegevens :<BR>1° een gemotiveerde   beoordeling van het monitoringplan, als het gaat om een aanvraag van een   Y-rubriek;<BR>2° een gemotiveerde beoordeling van de documenten die moeten   aantonen dat de rubriek niet langer van toepassing is, als het gaat om een   aanvraag tot schrapping van een Y-rubriek.<BR><BR>§ 10. Het advies van het   Vlaams Energieagentschap bevat de volgende gegevens :<BR>1°&nbsp;als het om een   GPBV-installatie gaat :&nbsp;een beoordeling van het doelmatig gebruik van   energie in de installatie;<BR>2° in de gevallen, vermeld in artikel 5, § 8 : een   gemotiveerde beoordeling van het energieplan of de energiestudie, vermeld in   artikel 6.5.1 tot en met 6.5.8 van het Energiebesluit.<BR><BR>§ 11. Het advies   van de afdeling, bevoegd voor veiligheidsrapportering, bevat de volgende   gegevens : een gemotiveerde beoordeling van de veiligheidsnota.
+§ 1. Het advies van de afdeling, bevoegd voor milieuvergunningen bevat   volgende gegevens:<BR>1° een gemotiveerde beoordeling van de verenigbaarheid van   de inrichting waarvoor een vergunning wordt gevraagd met het leefmilieu,   inclusief met de Ramsar- en de EG-vogelrichtlijngebieden, de bescherming van de   oppervlakte- en grondwateren, het algemeen waterzuiveringsprogramma en het   [milieubeleidsplan en de sectorale uitvoeringsplannen alsmede met de externe   veiligheid;<BR>2° indien de inrichting verenigbaar wordt geacht met het   leefmilieu en de externe veiligheid, een gemotiveerd voorstel van de   vergunningstermijn en de vergunningsvoorwaarden, die betrekking hebben op de   bescherming van het leefmilieu en de externe veiligheid;<BR>3° een gemotiveerde   beoordeling over de inrichting waarvoor een vergunning wordt gevraagd, wat de   bescherming van het grond- en het oppervlaktewater betreft;<BR>4° indien de   inrichting verenigbaar wordt geacht met de voorwaarden inzake de bescherming van   het grond- en oppervlaktewater tegen verontreiniging, een gemotiveerd voorstel   van de vergunningsvoorwaarden, die betrekking hebben op de bescherming van de   grond- en oppervlaktewateren.<BR><BR>§ 2. Het advies van het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed, het college van   burgemeester en schepenen of de gemeentelijke of provinciale stedenbouwkundige   ambtenaar bevat volgende gegevens:<BR>1° de voorschriften en verordeningen op   het vlak van de stedebouw en de ruimtelijke ordening die van toepassing zijn op   de percelen, waarop de vergunningsaanvraag slaat en de beschrijving van de   bestemming die, overeenkomstig de plannen van aanleg, in een straal van 500 m   rond de betrokken inrichting, aan de omgeving is gegeven;<BR>2° een gemotiveerde   beoordeling van de verenigbaarheid van de inrichting waarvoor een vergunning   wordt gevraagd met de omgeving en de goede plaatselijke ruimtelijke   ordening.<BR><BR>§ 3. Het advies van de afdeling, bevoegd voor het toezicht   volksgezondheid bevat volgende gegevens:<BR>1° een gemotiveerde beoordeling over   de inrichting waarvoor een vergunning wordt gevraagd, wat het gezondheidsaspect   betreft;<BR>2° indien de inrichting verenigbaar wordt geacht met de voorwaarden   inzake de gezondheid, een gemotiveerd voorstel van de vergunningsvoorwaarden die   betrekking hebben op de gezondheid van de mens.<BR><BR>§ 4. Het advies van de de   afdeling, bevoegd voor natuurlijke rijkdommen bevat volgende gegevens:<BR>1° een   gemotiveerde beoordeling over de inrichting waarvoor een vergunning wordt   gevraagd wat betreft het beheer van de natuurlijke rijkdommen, het   ontginningsbeleid en het gevaar voor grondverschuivingen en/of   instortingen;<BR>2° indien de inrichting verenigbaar wordt geacht met het   ontginningsbeleid, een gemotiveerd voorstel van de vergunningsvoorwaarden die   betrekking hebben op het voorkomen van grondverschuivingen en/of instortingen;   <BR>3° ...<BR>4° ...<BR>5° ... <BR><BR>§ 5. Het advies van de Openbare Vlaamse   Afvalstoffenmaatschappij bevat volgende gegevens :<BR>1° een gemotiveerde   beoordeling over de inrichting waarvoor een vergunning wordt aangevraagd wat   betreft het duurzaam beheer van materiaalkringlopen en afvalstoffen.<BR>2°   indien de inrichting verenigbaar wordt geacht met de bepalingen van het   milieubeleidsplan en de sectorale uitvoeringsplannen en met een duurzaam beheer   van afvalstoffen en materialen, een gemotiveerd voorstel van vergunningstermijn   en van vergunningsvoorwaarden, die betrekking hebben op het beheer van   materiaalkringlopen en afvalstoffen. <BR><BR>§ 6. Het advies van de afdeling van   de Vlaamse Milieumaatschappij, bevoegd voor het lozen van afvalwater en de   emissie van afvalgassen in de atmosfeer bevat volgende gegevens:<BR>1. met   betrekking tot het lozen van afvalwater:<BR>a) een gemotiveerde beoordeling over   de herkomst van het afvalwater en de verenigbaarheid van de aangevraagde lozing   met het algemeen waterzuiveringsprogramma en, in geval van rechtstreekse of   onrechtstreekse lozing in oppervlaktewater, met de kwaliteit van het ontvangende   oppervlaktewater en met de geplande investeringen voor de zuivering van bedoeld   oppervlaktewater;<BR>b) indien de aangevraagde lozing verenigbaar wordt geacht   met het algemeen waterzuiveringsprogramma, met de kwaliteit van het ontvangende   oppervlaktewater en met de geplande of reeds bestaande infrastructuur voor de   zuivering van het ontvangende water, een gemotiveerd voorstel van   vergunningsvoorwaarden die betrekking hebben op de maximaal toelaatbare   vuilvracht;<BR>2. met betrekking tot de emissie van afvalgassen in de   atmosfeer:<BR>a) een gemotiveerde beoordeling over de verenigbaarheid van de   aangevraagde emissie met de kwaliteit van de omgevingslucht;<BR>b) indien de   aangevraagde emissie verenigbaar wordt geacht met de kwaliteit van de   omgevingslucht, een gemotiveerd voorstel van vergunningsvoorwaarden die   betrekking hebben op de maximaal toelaatbare emissie.<BR><BR>§ 7. ...<BR><BR>§   8. Het advies van de afdeling van de Vlaamse Milieumaatschappij, bevoegd voor   grondwater bevat volgende gegevens:<BR>1° een gemotiveerde beoordeling over de   inrichting waarvoor een vergunning wordt aangevraagd, wat betreft de   verenigbaarheid met het grondwaterbeheersbeleid, het aantal aan te leggen   peilputten en filters conform artikel 5.53.4.2 van titel II van het VLAREM, de   kwantitatieve en kwalitatieve effecten op het beheer van de watervoerende en/of   de ontvangende grondwaterlaag en de eventuele effecten op de andere   watervoerende lagen enerzijds en op de openbare en private bovengrondse   eigendommen anderzijds;<BR>2° indien de inrichting verenigbaar wordt geacht met   het grondwaterbeheersbeleid, een gemotiveerd voorstel van de   vergunningsvoorwaarden die betrekking hebben op het grondwaterbeheer en het   voorkomen van schade aan de openbare en private bovengrondse eigendommen.   <BR><BR>§ 9. Het advies van de afdeling, bevoegd voor luchtverontreiniging, over   een vergunningsaanvraag of een beroep tegen een beslissing over een   milieuvergunningsaanvraag bevat de volgende gegevens :<BR>1° een gemotiveerde   beoordeling van het monitoringplan, als het gaat om een aanvraag van een   Y-rubriek;<BR>2° een gemotiveerde beoordeling van de documenten die moeten   aantonen dat de rubriek niet langer van toepassing is, als het gaat om een   aanvraag tot schrapping van een Y-rubriek.<BR><BR>§ 10. Het advies van het   Vlaams Energieagentschap bevat de volgende gegevens :<BR>1°&nbsp;als het om een   GPBV-installatie gaat :&nbsp;een beoordeling van het doelmatig gebruik van   energie in de installatie;<BR>2° in de gevallen, vermeld in artikel 5, § 8 : een   gemotiveerde beoordeling van het energieplan of de energiestudie, vermeld in   artikel 6.5.1 tot en met 6.5.8 van het Energiebesluit;<BR>3° in de gevallen waar een kosten-batenanalyse moet worden uitgevoerd:   een gemotiveerde beoordeling van de kosten-batenanalyse, waarin onder meer   rekening gehouden wordt met de globale kosten-batenanalyse voor het grondgebied,   uitgevoerd in omzetting van artikel 14, eerste lid, van richtlijn 2012/27/EU van   het Europees Parlement en de Raad van 25 oktober 2012 betreffende   energie-efficiëntie, tot wijziging van Richtlijnen 2009/125/EG en 2010/30/EU en   houdende intrekking van de Richtlijnen 2004/8/EG en 2006/32/EG.<BR><BR>§   11. Het advies van de afdeling, bevoegd voor veiligheidsrapportering, bevat de   volgende gegevens : een gemotiveerde beoordeling van de veiligheidsnota.<BR><BR>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpFirst>§12. Het advies van het Federaal Agentschap voor de Nucleaire Controle   bevat de volgende gegevens:<BR>1° een gemotiveerde beoordeling van de bescherming tegen gevaren van   ioniserende stralen, vermeld in artikel 1 van het ARBIS, wat de inrichting   waarvoor een milieuvergunning wordt aangevraagd betreft;<?xml:namespace prefix =   o ns = "urn:schemas-microsoft-com:office:office" /></P>2° als de&nbsp; aanvraag   verenigbaar wordt geacht wat betreft de bescherming, vermeld in punt 1°, een   gemotiveerd voorstel van voorwaarden met het oog op de bescherming van mens en   het leefmilieu die ook betrekking hebben op de bescherming tegen de gevaren van   ioniserende stralen.
 
 ## HOOFDSTUK VII DE MILIEUVERGUNNINGSCOMMISSIES
 
@@ -322,7 +343,7 @@ Het in artikel 28 § 5 bedoelde advies van de gewestelijke milieuvergunningscomm
 
 ### ART. 30.
 
-<P>§ 1. De beslissingen over vergunningsaanvragen als bedoeld in artikel 6   worden geformuleerd door middel van besluiten waarvan het respectieve model is   vastgesteld in de subbijlagen van bijlage 9 bij onderhavig besluit en dienen   tenminste de volgende gegevens te vermelden:<BR>1° de datum van de   milieuvergunningsaanvraag;<BR>2° de identificatiegegevens zoals bedoeld in   artikel 5, § 2, 1° en 3° van onderhavig besluit;<BR>3° een verwijzing naar, in   zoverre deze zijn voorgeschreven, de door het college van burgemeester en   schepenen, de adviesverlenende overheidsorganen en de milieuvergunningscommissie   uitgebrachte adviezen alsmede naar de aard van de tijdens het openbaar onderzoek   gemaakte bemerkingen en bezwaren;<BR>4° in voorkomend geval, de motivatie waarom   één of meerdere adviezen of onderdelen van adviezen niet worden gevolgd;<BR>5°   een motivering van de beslissing inzonderheid rekening houdend met de   verschillende uitgebrachte adviezen en in voorkomend geval de evaluatie van de   tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<BR>6° in geval   de vergunning wordt verleend, tevens:<BR>a) de termijn van de vergunning met   vermelding van de data van aanvang en einde ervan met <BR>inachtneming van de   bepalingen van onderhavig artikel;<BR>b) de termijn binnen dewelke de vergunde   inrichting dient in gebruik genomen met inachtneming van de bepalingen van   onderhavig artikel;<BR>c) de voorwaarden waaronder de inrichting mag worden   geëxploiteerd;<BR>d) de vermelding, in zoverre voor de inrichting, voor de   verandering van de inrichting of voor dat gedeelte van de inrichting dat het   voorwerp uitmaakt van de milieuvergunning, er krachtens artikel 44 van de wet   van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de   stedebouw een bouwvergunning is vereist, dat onderhavige milieuvergunning wordt   geschorst zolang deze bouwvergunning niet is verleend en dat in geval deze   bouwvergunning wordt geweigerd de milieuvergunning van rechtswege vervalt op de   dag van de definitieve weigering van de bouwvergunning;<BR>7° in geval de   vergunning wordt geweigerd, de vermelding, inzoverre voor de inrichting, voor de   verandering van de inrichting of voor dat gedeelte van de inrichting dat het   voorwerp uitmaakt van onderhavige weigeringsbeslissing, er krachtens artikel 44   van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en   van de stedebouw een bouwvergunning is vereist, dat deze bouwvergunning is   geschorst en van rechtswege vervalt op de dag van de definitieve weigering van   de milieuvergunning;<BR>8° in voorkomend geval, de verwijzing naar de   mogelijkheid tot indiening van beroep tegen onderhavige beslissing.<BR><BR>De   vergunning voor BKG-installaties bevat minstens:<BR>1° de toelating tot de   emissie van voor de inrichting relevante broeikasgassen;<BR>2° de verplichting   om binnen vier maanden na het einde van elk jaar een hoeveelheid emissierechten   in te leveren. Deze hoeveelheid ingeleverde emissierechten moet overeenkomen met   de hoeveelheid BKG-emissies die deze BKG-installatie in het voorgaande   kalenderjaar heeft veroorzaakt, vermeerderd met de hoeveelheid BKG-emissies die   de BKG-installatie heeft veroorzaakt in voorgaande jaren en waarvoor de   exploitant nog geen emissierechten heeft ingeleverd. <BR><BR>De vergunning die   betrekking heeft op een inrichting die is ingedeeld op basis van rubriek 2.3.11   van de indelingslijst, met uitzondering van wat betrekking heeft op het inert   afval, afval uit de winning, de behandeling en de opslag van turf en het   niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een   afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen   vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, bevat   daarenboven minstens ook nog :<BR>1° het afvalbeheersplan of indien van   toepassing het herziene afvalbeheersplan, vermeld in titel II, subafdeling   5.2.6.2, van het VLAREM;<BR>2° de financiële zekerheid, vermeld in titel II,   subafdeling 5.2.6.8, van het VLAREM;<BR>3° de voorgestelde locatie van de   afvalvoorziening, met inbegrip van eventuele alternatieve locaties;<BR>4° de   categorie van de voorziening. <BR><BR>De vergunning voor stortplaatsen van afval   bevat overeenkomstig de EG-richtlijn 1999/31/EG van 26 april 1999 betreffende   het storten van afvalstoffen daarenboven minstens ook nog :<BR>1° de   stortplaatscategorie;<BR>2° de lijst van de afvalsoorten en de totale   hoeveelheid afvalstoffen die op de stortplaats mogen worden gestort;<BR>3°   voorzover niet begrepen in de toepasselijke algemene en sectorale   milieuvoorwaarden van titel II van het VLAREM :<BR>a) de voorschriften voor de   stortvoorbereidingen, stortwerkzaamheden en toezichts- en controleprocedures,   met inbegrip van urgentieplannen alsmede voorlopige voorschriften voor de   sluitings- en nazorgwerkzaamheden;<BR>b) de bepaling dat de exploitant tenminste   eenmaal per jaar het rapport bedoeld in artikel 5.2.4.6.5 van titel II van het   VLAREM moet bezorgen aan de toezichthoudende overheden en aan de OVAM.<BR><BR>De   vergunning die betrekking heeft op een GPBV-installatie bevat bovendien :<BR>1°   de titel van de BREF's die voor de installatie of activiteit in kwestie relevant   zijn;<BR>2° de manier waarop de vergunningsvoorwaarden, vermeld in artikel   30bis, § 2, waaronder emissiegrenswaarden, zijn vastgesteld in relatie tot de   BBT en de BBT-GEN;<BR>3° als er een afwijking als vermeld in artikel 1.4 van   titel III van het VLAREM, is toegestaan, de specifieke redenen, vermeld in   artikel 1.4, derde lid, van titel III van het VLAREM, en de daaraan verbonden   voorwaarden. <BR><BR>§ 2. De milieuvergunning, met uitzondering van deze voor   een tijdelijke inrichting, wordt verleend voor een bepaalde duur van ten hoogste   twintig jaar, de termijn voorafgaand aan de ingebruikname en de eventuele   proeftijd inbegrepen.<BR><BR>Tenzij langere of kortere termijnen vermeld zijn in   de vergunning wordt aangenomen dat de termijn voorafgaand aan de ingebruikname   respectievelijk tweehonderd kalenderdagen bedraagt wanneer het een nieuwe   inrichting betreft en dertig kalenderdagen in de andere gevallen. De termijn   binnen dewelke de vergunde inrichting moet worden in gebruik genomen mag in geen   geval drie jaar overschrijden. <BR><BR>§ 3. De vergunning voor een tijdelijke   inrichting wordt verleend voor een bepaalde duur van ten hoogste:<BR>- één jaar,   als het een inrichting betreft die verband houdt met een bouwwerf;<BR>- drie   maanden in de andere gevallen.<BR><BR>Deze vergunning kan slechts éénmaal worden   verlengd voor maximaal dezelfde duur als deze die oorspronkelijk werd   toegestaan.<BR><BR>§ 4. Wanneer voor de inrichting, voor de verandering van de   inrichting of voor het gedeelte van de inrichting dat het voorwerp uitmaakt van   de milieuvergunningsaanvraag, krachtens artikel 44 van de wet van 29 maart 1962   houdende organisatie van de ruimtelijke ordening en van de stedebouw geen   bouwvergunning is vereist, mag de in artikel 5 bedoelde vergunning op proef   worden verleend voor een termijn van tenminste zes maanden en ten hoogste twee   jaar.<BR><BR>§ 5. De vergunning voor de verandering van een inrichting wordt   verleend voor een bepaalde duur waarvan de einddatum, deze van de lopende   vergunning niet mag overschrijden.<BR><BR>§ 6. Wanneer voor de inrichting of de   verandering van de inrichting die het voorwerp uitmaakt van de milieuvergunning   krachtens artikel 44 van de wet van 29 maart 1962 houdende organisatie van de   ruimtelijke ordening en van de stedebouw een bouwvergunning is vereist, wordt de   aanvangsdatum van de vergunningstermijn verdaagd tot de dag dat deze   bouwvergunning definitief is verleend.<BR><BR>De exploitant dient de datum   waarop de bouwvergunning werd verleend bij ter post aangetekende zending mee te   delen aan de overheid die de milieuvergunning heeft verleend.<BR><BR>Deze   overheid bezorgt, naargelang het geval, een eensluidend afschrift van deze   mededeling aan de instanties vermeld in respectievelijk artikel, 35, 5°, c) of   36, 5°, b).<BR><BR>De einddatum van de vergunningstermijn wordt overeenstemmend   met de latere aanvangsdatum ervan naar later verschoven, behalve wanneer deze   einddatum samenvalt met de einddatum van een eerder verleende lopende   vergunning, in welk geval de einddatum ongewijzigd blijft. </P>
+<P>§ 1. De beslissingen over vergunningsaanvragen als bedoeld in artikel 6   worden geformuleerd door middel van besluiten waarvan het respectieve model is   vastgesteld in de subbijlagen van bijlage 9 bij onderhavig besluit en dienen   tenminste de volgende gegevens te vermelden:<BR>1° de datum van de   milieuvergunningsaanvraag;<BR>2° de identificatiegegevens zoals bedoeld in   artikel 5, § 2, 1° en 3° van onderhavig besluit;<BR>3° een verwijzing naar, in   zoverre deze zijn voorgeschreven, de door het college van burgemeester en   schepenen, de adviesverlenende overheidsorganen en de milieuvergunningscommissie   uitgebrachte adviezen alsmede naar de aard van de tijdens het openbaar onderzoek   gemaakte bemerkingen en bezwaren;<BR>4° in voorkomend geval, de motivatie waarom   één of meerdere adviezen of onderdelen van adviezen niet worden gevolgd;<BR>5°   een motivering van de beslissing inzonderheid rekening houdend met de   verschillende uitgebrachte adviezen en in voorkomend geval de evaluatie van de   tijdens het openbaar onderzoek gemaakte bemerkingen en bezwaren;<BR>6° in geval   de vergunning wordt verleend, tevens:<BR>a) de termijn van de vergunning met   vermelding van de data van aanvang en einde ervan met <BR>inachtneming van de   bepalingen van onderhavig artikel;<BR>b) de termijn binnen dewelke de vergunde   inrichting dient in gebruik genomen met inachtneming van de bepalingen van   onderhavig artikel;<BR>c) de voorwaarden waaronder de inrichting mag worden   geëxploiteerd;<BR>d) de vermelding, in zoverre voor de inrichting, voor de   verandering van de inrichting of voor dat gedeelte van de inrichting dat het   voorwerp uitmaakt van de milieuvergunning, er krachtens artikel 44 van de wet   van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van de   stedebouw een bouwvergunning is vereist, dat onderhavige milieuvergunning wordt   geschorst zolang deze bouwvergunning niet is verleend en dat in geval deze   bouwvergunning wordt geweigerd de milieuvergunning van rechtswege vervalt op de   dag van de definitieve weigering van de bouwvergunning;<BR>7° in geval de   vergunning wordt geweigerd, de vermelding, inzoverre voor de inrichting, voor de   verandering van de inrichting of voor dat gedeelte van de inrichting dat het   voorwerp uitmaakt van onderhavige weigeringsbeslissing, er krachtens artikel 44   van de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en   van de stedebouw een bouwvergunning is vereist, dat deze bouwvergunning is   geschorst en van rechtswege vervalt op de dag van de definitieve weigering van   de milieuvergunning;<BR>8° in voorkomend geval, de verwijzing naar de   mogelijkheid tot indiening van beroep tegen onderhavige beslissing.<BR><BR>De   vergunning voor BKG-installaties bevat minstens:<BR>1° de toelating tot de   emissie van voor de inrichting relevante broeikasgassen;<BR>2° de verplichting   om binnen vier maanden na het einde van elk jaar een hoeveelheid emissierechten   in te leveren. Deze hoeveelheid ingeleverde emissierechten moet overeenkomen met   de hoeveelheid BKG-emissies die deze BKG-installatie in het voorgaande   kalenderjaar heeft veroorzaakt, vermeerderd met de hoeveelheid BKG-emissies die   de BKG-installatie heeft veroorzaakt in voorgaande jaren en waarvoor de   exploitant nog geen emissierechten heeft ingeleverd. <BR><BR>De vergunning die   betrekking heeft op een inrichting die is ingedeeld op basis van rubriek 2.3.11   van de indelingslijst, met uitzondering van wat betrekking heeft op het inert   afval, afval uit de winning, de behandeling en de opslag van turf en het   niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een   afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen   vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, bevat   daarenboven minstens ook nog :<BR>1° het afvalbeheersplan of indien van   toepassing het herziene afvalbeheersplan, vermeld in titel II, subafdeling   5.2.6.2, van het VLAREM;<BR>2° de financiële zekerheid, vermeld in titel II,   subafdeling 5.2.6.8, van het VLAREM;<BR>3° de voorgestelde locatie van de   afvalvoorziening, met inbegrip van eventuele alternatieve locaties;<BR>4° de   categorie van de voorziening. <BR><BR>De vergunning voor stortplaatsen van afval   bevat overeenkomstig de EG-richtlijn 1999/31/EG van 26 april 1999 betreffende   het storten van afvalstoffen daarenboven minstens ook nog :<BR>1° de   stortplaatscategorie;<BR>2° de lijst van de afvalsoorten en de totale   hoeveelheid afvalstoffen die op de stortplaats mogen worden gestort;<BR>3°   voorzover niet begrepen in de toepasselijke algemene en sectorale   milieuvoorwaarden van titel II van het VLAREM :<BR>a) de voorschriften voor de   stortvoorbereidingen, stortwerkzaamheden en toezichts- en controleprocedures,   met inbegrip van urgentieplannen alsmede voorlopige voorschriften voor de   sluitings- en nazorgwerkzaamheden;<BR>b) de bepaling dat de exploitant tenminste   eenmaal per jaar het rapport bedoeld in artikel 5.2.4.6.5 van titel II van het   VLAREM moet bezorgen aan de toezichthoudende overheden en aan de OVAM.<BR><BR>De   vergunning die betrekking heeft op een GPBV-installatie bevat bovendien :<BR>1°   de titel van de BREF's die voor de installatie of activiteit in kwestie relevant   zijn;<BR>2° de manier waarop de vergunningsvoorwaarden, vermeld in artikel   30bis, § 2, waaronder emissiegrenswaarden, zijn vastgesteld in relatie tot de   BBT en de BBT-GEN;<BR>3° als er een afwijking als vermeld in artikel 1.4 van   titel III van het VLAREM, is toegestaan, de specifieke redenen, vermeld in   artikel 1.4, derde lid, van titel III van het VLAREM, en de daaraan verbonden   voorwaarden. <BR><BR>§ 2. De milieuvergunning, met uitzondering van deze voor   een tijdelijke inrichting, wordt verleend voor een bepaalde duur van ten hoogste   twintig jaar, de termijn voorafgaand aan de ingebruikname en de eventuele   proeftijd inbegrepen.<BR><BR>De   milieuvergunning voor de introductie van een uitheemse soort of een translocatie   van een plaatselijk niet-voorkomende soort in een open aquacultuurvoorziening,   zoals bepaald in de verordening aquacultuur, wordt verleend voor een bepaalde   duur van ten hoogste zeven jaar.<BR><BR>Tenzij langere of kortere   termijnen vermeld zijn in de vergunning wordt aangenomen dat de termijn   voorafgaand aan de ingebruikname respectievelijk tweehonderd kalenderdagen   bedraagt wanneer het een nieuwe inrichting betreft en dertig kalenderdagen in de   andere gevallen. De termijn binnen dewelke de vergunde inrichting moet worden in   gebruik genomen mag in geen geval drie jaar overschrijden. <BR><BR>§ 3. De   vergunning voor een tijdelijke inrichting wordt verleend voor een bepaalde duur   van ten hoogste:<BR>- één jaar, als het een inrichting betreft die verband houdt   met een bouwwerf;<BR>- drie maanden in de andere gevallen.<BR><BR>Deze   vergunning kan slechts éénmaal worden verlengd voor maximaal dezelfde duur als   deze die oorspronkelijk werd toegestaan.<BR><BR>§ 4. Wanneer voor de inrichting,   voor de verandering van de inrichting of voor het gedeelte van de inrichting dat   het voorwerp uitmaakt van de milieuvergunningsaanvraag, krachtens artikel 44 van   de wet van 29 maart 1962 houdende organisatie van de ruimtelijke ordening en van   de stedebouw geen bouwvergunning is vereist, mag de in artikel 5 bedoelde   vergunning op proef worden verleend voor een termijn van tenminste zes maanden   en ten hoogste twee jaar.<BR><BR>§ 5. De vergunning voor de verandering van een   inrichting wordt verleend voor een bepaalde duur waarvan de einddatum, deze van   de lopende vergunning niet mag overschrijden.<BR><BR>§ 6. Wanneer voor de   inrichting of de verandering van de inrichting die het voorwerp uitmaakt van de   milieuvergunning krachtens artikel 44 van de wet van 29 maart 1962 houdende   organisatie van de ruimtelijke ordening en van de stedebouw een bouwvergunning   is vereist, wordt de aanvangsdatum van de vergunningstermijn verdaagd tot de dag   dat deze bouwvergunning definitief is verleend.<BR><BR>De exploitant dient de   datum waarop de bouwvergunning werd verleend bij ter post aangetekende zending   mee te delen aan de overheid die de milieuvergunning heeft verleend.<BR><BR>Deze   overheid bezorgt, naargelang het geval, een eensluidend afschrift van deze   mededeling aan de instanties vermeld in respectievelijk artikel, 35, 5°, c) of   36, 5°, b).<BR><BR>De einddatum van de vergunningstermijn wordt overeenstemmend   met de latere aanvangsdatum ervan naar later verschoven, behalve wanneer deze   einddatum samenvalt met de einddatum van een eerder verleende lopende   vergunning, in welk geval de einddatum ongewijzigd blijft. </P>
 
 ### ART. 30bis.
 
@@ -336,11 +357,15 @@ Als de aanvraag een nieuwe stookinstallatie betreft met een nominaal elektrisch 
 
 ### ART. 31.
 
-§ 1. Elke beslissing over een milieuvergunningsaanvraag bedoeld in artikel   6 alsmede elke akte-name van een mededeling kleine verandering, bedoeld in   artikel 6quater, 3° van onderhavig besluit, dient op bevel van de bevoegde   burgemeester, gedurende een periode van dertig kalenderdagen bekendgemaakt   overeenkomstig het bepaalde in de § 2 hierna.<BR><BR>Voormelde periode van   dertig kalenderdagen vangt aan de dag volgend op deze dat tot het in § 2 hierna   vermelde aanplakken van de bekendmaking werd overgegaan.<BR><BR>§ 2. De in § 1   bedoelde bekendmaking omvat:<BR><BR>1° het op bevel van de bevoegde burgemeester   aanplakken, gedurende bedoelde periode van dertig kalenderdagen, op de plaats   van de exploitatie en op de plaatsen voorbehouden voor de officiële berichten   van een bekendmaking, opgesteld naar het model weergegeven in bijlage 10 bij   onderhavig besluit. De volgorde en formulering van de titels en de vragen moet   nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn enkel het   toepasselijke antwoord te vermelden. <BR>a) ... <BR>b) ...<BR>c) ... <BR><BR>De   bevoegde burgemeester waakt er over dat tot voormelde uitplakking wordt   overgegaan binnen de termijn van tien kalenderdagen te rekenen vanaf de datum   van de beslissing van het college van burgemeester en schepenen of vanaf de   datum van ontvangst door het gemeentebestuur van het besluit wanneer de   beslissing door een andere overheid is getroffen; voormelde bekendmaking, wordt   opgesteld naar het model weergegeven in bijlage 10 bij onderhavig besluit, wordt   gedrukt met zwarte letters op geel papier en heeft een grootte van tenminste 35   dm2; de bekendmaking wordt tijdens de gehele duur van de aanplakking in goed   zichtbare en goed leesbare staat gehouden; op de plaats waar de exploitatie   gebeurt of is gepland, wordt voormelde bekendmaking aangebracht op een schutting   of op een aan een paal bevestigd bord, op de grens tussen het perceel en de   openbare weg en evenwijdig met deze laatste, en op een maximumhoogte van 2   m;<BR><BR>2° het op bevel van de bevoegde burgemeester ter inzage leggen,   gedurende dezelfde periode van dertig kalenderdagen, van de genomen beslissing   bij de diensten van het gemeentebestuur;<BR><BR>3° de beslissing over een   milieuvergunningsaanvraag of een aanvraag tot wijziging of aanvulling van de   vergunningsvoorwaarden voor een GPBV-installatie, een inrichting die   MER-plichtig is of een inrichting die is ingedeeld in rubriek 2.3.11 van de   indelingslijst, moet onverminderd de bepalingen van punt 1° en 2°, in opdracht   van de bevoegde burgemeester worden bekendgemaakt. Die bekendmaking verloopt als   volgt:<BR>a) de bekendmaking bevat de gegevens die aangegeven worden in het   bekendmakingsformulier dat als bijlage 10A of 10B bij dit besluit is   gevoegd;<BR>b) de bekendmaking wordt op een van de volgende wijzen   gepubliceerd:<BR>1) in minstens twee dag- of weekbladen waarvan één met   regionaal karakter;<BR>2) in minstens een dag- of weekblad met regionaal   karakter en op de website van de gemeente op een voor bekendmakingen geëigende   en opvallende plaats. <BR><BR>§ 3. Op de dag dat tot de in § 2 bedoelde   aanplakking van bekendmaking, en in voorkomend geval, tot de in artikel 36, 5°,   b) bedoelde verzending wordt overgegaan, maakt de burgemeester een attest op dat   deze aanplakking en in voorkomend geval, voormelde verzending   bevestigt.<BR><BR>Op eenvoudig verzoek levert het gemeentebestuur een voor   eensluidend verklaard afschrift van dit attest af aan alle personen en   instanties die overeenkomstig de bepalingen van onderhavig besluit gemachtigd   zijn beroep aan te tekenen tegen de bekendgemaakte beslissing.<BR><BR>§ 4. Op de   dag dat tot de in artikel 35, 5°, c) bedoelde verzending wordt overgegaan, maakt   de gouverneur van de provincie een attest op waarin de datum van voormelde   verzending wordt bevestigd.
+§ 1. Elke beslissing over een milieuvergunningsaanvraag bedoeld in artikel   6 alsmede elke akte-name van een mededeling kleine verandering, bedoeld in   artikel 6quater, 3° van onderhavig besluit, dient op bevel van de bevoegde   burgemeester, gedurende een periode van dertig kalenderdagen bekendgemaakt   overeenkomstig het bepaalde in de § 2 hierna.<BR><BR>Voormelde periode van   dertig kalenderdagen vangt aan de dag volgend op deze dat tot het in § 2 hierna   vermelde aanplakken van de bekendmaking werd overgegaan.<BR><BR>§ 2. De in § 1   bedoelde bekendmaking omvat:<BR><BR>1° het op bevel van de bevoegde burgemeester   aanplakken, gedurende bedoelde periode van dertig kalenderdagen, op de plaats   van de exploitatie en op de plaatsen voorbehouden voor de officiële berichten   van een bekendmaking, opgesteld naar het model weergegeven in bijlage 10 bij   onderhavig besluit. De volgorde en formulering van de titels en de vragen moet   nageleefd worden. Bij meerkeuzevragen kan het voldoende zijn enkel het   toepasselijke antwoord te vermelden. <BR>a) ... <BR>b) ...<BR>c) ... <BR><BR>De   bevoegde burgemeester waakt er over dat tot voormelde uitplakking wordt   overgegaan binnen de termijn van tien kalenderdagen te rekenen vanaf de datum   van de beslissing van het college van burgemeester en schepenen of vanaf de   datum van ontvangst door het gemeentebestuur van het besluit wanneer de   beslissing door een andere overheid is getroffen; voormelde bekendmaking, wordt   opgesteld naar het model weergegeven in bijlage 10 bij onderhavig besluit, wordt   gedrukt met zwarte letters op geel papier en heeft een grootte van tenminste 35   dm2; de bekendmaking wordt tijdens de gehele duur van de aanplakking in goed   zichtbare en goed leesbare staat gehouden; op de plaats waar de exploitatie   gebeurt of is gepland, wordt voormelde bekendmaking aangebracht op een schutting   of op een aan een paal bevestigd bord, op de grens tussen het perceel en de   openbare weg en evenwijdig met deze laatste, en op een maximumhoogte van 2   m;<BR><BR>2° het op bevel van de bevoegde burgemeester ter inzage leggen,   gedurende dezelfde periode van dertig kalenderdagen, van de genomen beslissing   bij de diensten van het gemeentebestuur;<BR><BR>3° de beslissing over een   milieuvergunningsaanvraag of een aanvraag tot wijziging of aanvulling van de   vergunningsvoorwaarden voor een GPBV-installatie, een inrichting die   MER-plichtig is of een inrichting die is ingedeeld in rubriek 2.3.11 van de   indelingslijst, moet onverminderd de bepalingen van punt 1° en 2°, in opdracht   van de bevoegde burgemeester worden bekendgemaakt. Die bekendmaking verloopt als   volgt:<BR>a) de bekendmaking bevat de gegevens die aangegeven worden in het   bekendmakingsformulier dat als bijlage 10 of 10bis bij dit besluit is   gevoegd;<BR>b) de bekendmaking wordt op een van de volgende wijzen   gepubliceerd:<BR>1) in minstens twee dag- of weekbladen waarvan één met   regionaal karakter;<BR>2) in minstens een dag- of weekblad met regionaal   karakter en op de website van de gemeente op een voor bekendmakingen geëigende   en opvallende plaats. <BR><BR>§ 3. Op de dag dat tot de in § 2 bedoelde   aanplakking van bekendmaking, en in voorkomend geval, tot de in artikel 36, 5°,   b) bedoelde verzending wordt overgegaan, maakt de burgemeester een attest op dat   deze aanplakking en in voorkomend geval, voormelde verzending   bevestigt.<BR><BR>Op eenvoudig verzoek levert het gemeentebestuur een voor   eensluidend verklaard afschrift van dit attest af aan alle personen en   instanties die overeenkomstig de bepalingen van onderhavig besluit gemachtigd   zijn beroep aan te tekenen tegen de bekendgemaakte beslissing.<BR><BR>§ 4. Op de   dag dat tot de in artikel 35, 5°, c) bedoelde verzending wordt overgegaan, maakt   de gouverneur van de provincie een attest op waarin de datum van voormelde   verzending wordt bevestigd.
 
 ### ART. 31bis.
 
 Elke beslissing over een milieuvergunningsaanvraag waarop artikel 19bis van toepassing is, wordt daarenboven door de bevoegde vergunningverlenende overheid ter kennis gebracht van de bevoegde autoriteit van het betrokken Gewest en/of de betrokken EU-lidstaat en/of een verdragspartij bij het Verdrag van Espoo.<br /><br />Daartoe stuurt de bevoegde vergunningverlenende overheid een kopie van de beslissing naar voormelde bevoegde autoriteit op het tijdstip waarop zij de bekendmaking toestuurt naar de exploitant.  <span class="reference">(ing. B.V.R. 12 januari 1999, art. 29, I: 1 mei 1999)</span> ]<br /><br />[De overheid die door de vergunningverlenende overheid van een ander Gewest of een andere EU-lid-Staat of verdragspartij bij het Verdrag van Espoo op de hoogte wordt gebracht van een beslissing, stuurt de kopie naar de bevoegde burgemeester. De burgemeester zorgt ervoor dat de beslissing conform de bepalingen van artikelen 31 en 32 wordt bekendgemaakt.  <span class="reference">(ing. B.V.R. 3 juni 2005, art. 6, I: 1 juli 2005)</span> ]
+
+### ART. 31ter.
+
+<P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpFirst>Elke beslissing over een milieuvergunningsaanvraag waarop artikel 19ter   van toepassing is, wordt daarenboven door de bevoegde vergunningverlenende   overheid ter kennis gebracht aan de bevoegde autoriteit van het betrokken   gewest, de EU-lidstaat of de verdragspartij bij het Verdrag van   Helsinki.<BR><BR>Daarvoor stuurt de bevoegde vergunningverlenende overheid een kopie van   de beslissing naar voormelde bevoegde autoriteit op het tijdstip waarop ze de   bekendmaking toestuurt naar de exploitant.<BR><BR>De overheid die door de vergunningverlenende overheid van een ander   gewest, een andere EU-lidstaat of een verdragspartij bij het verdrag van   Helsinki op de hoogte wordt gebracht van een beslissing, stuurt de kopie naar de   bevoegde burgemeester. De burgemeester zorgt ervoor dat de beslissing conform   artikel 31, met uitzondering van haar paragraaf 2, 1°, wordt   bekendgemaakt.</P>
 
 ### ART. 32.
 
@@ -370,19 +395,23 @@ Het verslag, vermeld in artikel 2.7.1.3 van titel II van VLAREM, wordt ter   bes
 
 ### ART. 35.
 
-Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 1° verloopt   de procedure als volgt:<BR><BR>1° onderzoek ontvankelijkheid en   volledigheid:<BR>a) de deputatie of de door haar daartoe gemachtigde provinciale   ambtenaar onderzoekt de vergunningsaanvraag en haar bijlagen op haar   ontvankelijkheid en volledigheid overeenkomstig het bepaalde in artikel 5. Het   niet bijvoegen van het bewijs van volledige betaling van de overeenkomstig   artikel 19bis van het decreet verschuldigde dossiertaks bij de   milieuvergunningsaanvraag, heeft van rechtswege de onvolledigheid van de   vergunningsaanvraag tot gevolg; <BR>b) wordt de aanvraag onontvankelijk   bevonden, dan wordt de aanvrager binnen&nbsp;dertig kalenderdagen na de   indiening van de vergunningsaanvraag hiervan door de deputatie of in sub a)   vermelde gemachtigde ambtenaar schriftelijk in kennis gesteld, met vermelding   van de reden van de onontvankelijkheid en gebeurlijk met vermelding van de   overheid die bevoegd geacht wordt kennis te nemen van de   vergunningsaanvraag;<BR>c) wordt de aanvraag onvolledig bevonden dan wordt de   aanvrager binnen&nbsp;dertig kalenderdagen na de indiening van de   vergunningsaanvraag hiervan door de deputatie of de in sub a) vermelde   gemachtigde ambtenaar schriftelijk in kennis gesteld, met vermelding van de   inlichtingen en gegevens die ontbreken of nadere toelichting vereisen;<BR>d)   wordt de aanvraag ontvankelijk en volledig bevonden, dan wordt de aanvrager   binnen&nbsp;dertig kalenderdagen na indiening van de aanvraag hiervan door de   deputatie of de in sub a) vermelde gemachtigde ambtenaar bij ter post   aangetekende brief hiervan in kennis gesteld; de termijn bedoeld in artikel 9   van het decreet vangt aan op de datum van verzending van voormelde brief;<BR>e)   als de deputatie of de door haar daartoe gemachtigde provinciale ambtenaar geen   schriftelijke kennisgeving uiterlijk dertig kalenderdagen na de indiening van de   vergunningsaanvraag aan de aanvrager heeft verzonden, wordt de procedure   voortgezet. In dat geval doet de vergunningverlenende overheid uitdrukkelijk   uitspraak in haar beslissing of er een milieueffectrapport over het project moet   worden opgesteld. Zo ja, dan weigert ze de aangevraagde vergunning toe te   kennen;<BR><BR>1° bis onderzoek project-m.e.r.-screeningsnota :<BR>a) als bij de   vergunningsaanvraag voor een inrichting of de verandering van een inrichting als   vermeld in titel IV, hoofdstuk III, van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, een project-m.e.r.-screeningsnota is   gevoegd, onderzoekt de deputatie of de door haar daartoe gemachtigde provinciale   ambtenaar die nota en neemt een beslissing of er een milieueffectrapport over   het project moet worden opgesteld; <BR>b) Er moet geen milieueffectrapport over   het project worden opgesteld als de deputatie of de door haar daartoe   gemachtigde provinciale ambtenaar oordeelt dat : <BR>1) een toetsing aan de   criteria van bijlage II van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid uitwijst dat het voorgenomen project geen   aanzienlijke gevolgen kan hebben voor het milieu en een project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2) vroeger al een plan-MER werd goedgekeurd   betreffende een plan of programma waarin een project met vergelijkbare effecten   beoordeeld werd of een project-MER werd goedgekeurd betreffende een project   waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief   is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens   over aanzienlijke milieueffecten kan bevatten;<BR>c) de beslissing dat een   milieueffectrapport over het project moet worden opgesteld, heeft van rechtswege   de onvolledigheid van de vergunningsaanvraag tot gevolg;<BR><BR>2° openbaar   onderzoek:<BR>a) een openbaar onderzoek als bedoeld in hoofdstuk V is enkel   vereist voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 1°, a, c,   d, e, en f; <BR>b) in de gevallen dat overeenkomstig in sub a) een openbaar   onderzoek is vereist, zendt deputatie of de onder sub 1°, a) vermelde   gemachtigde ambtenaar op de dag van de verzending van de in artikel 35, 1°, d)   bedoelde brief één exemplaar van de vergunningsaanvraag en haar bijlagen aan de   bevoegde burgemeester met de opdracht tot het instellen van het openbaar   onderzoek bedoeld in hoofdstuk V;<BR>c) de burgemeester zorgt voor de uitvoering   van het openbaar onderzoek overeenkomstig de bepalingen van hoofdstuk V en waakt   inzonderheid over de eerbiediging van de in artikel 17, § 2 vermelde termijn van   aanplakking van de bekendmaking zodat de termijn van dertig kalenderdagen van   het openbaar onderzoek aanvat uiterlijk op de elfde dag na de verklaring tot   ontvankelijkheid en volledigheid van het aanvraagdossier;<BR>d) het in artikel   19 bedoelde dossier wordt door de burgemeester, binnen een termijn van tien   kalenderdagen na het verstrijken van de termijn van dertig kalenderdagen van het   openbaar onderzoek, verzonden aan de in artikel 22 bedoelde provinciale   milieuvergunningscommissie;<BR><BR>3° adviesverlening:<BR>a) de deputatie of de   in sub 1°, a) vermelde gemachtigde ambtenaar zendt op de dag van de verzending   van de in artikel 35, 1°, d) bedoelde brief, zeven exemplaren van het volledige   vergunningsaanvraagdossier met de bijlagen aan de in artikel 22 bedoelde   provinciale milieuvergunningscommissie met verzoek om advies;<BR>b) de deputatie   of de in sub 1°, a vermelde gemachtigde ambtenaar zendt op de dag van de   verzending van de in artikel 35, 1°, d bedoelde brief, een verzoek om advies,   samen met één exemplaar van het volledige vergunningsaanvraagdossier met de   bijlagen, aan het bevoegde College van Burgemeester en Schepenen; dit college   verleent zijn advies over dit dossier binnen een termijn van vijftig   kalenderdagen na ontvangst van voormeld verzoek om advies; de burgemeester zendt   het advies binnen een termijn van tien kalenderdagen, na de datum dat dit advies   door het College van Burgemeester en Schepenen werd uitgebracht, aan de in   artikel 22 bedoelde commissie; bij gebrek aan advies binnen deze gestelde   termijn kan de zaak doorgaan;<BR>c) de overheidsorganen die overeenkomstig   artikel 20 advies dienen te verlenen alsmede de in artikel 22 bedoelde   provinciale milieuvergunningscommissie, brengen hun advies uit overeenkomstig   het bepaalde in de hoofdstukken VI en VII; de voorzitter en de secretaris van   voornoemde commissie zorgen voor de uitvoering van de hen door de artikelen 23   en 24 toebedeelde opdrachten;<BR><BR>4° uitspraak:<BR>a) in voorkomend geval,   beslist de deputatie binnen een termijn van honderdentien kalenderdagen, te   rekenen vanaf de datum van verzending van de in artikel 35, 1°, d) bedoelde   brief, de termijn voor behandeling van de milieuvergunningsaanvraag te verlengen   met een termijn van maximum twee maanden; deze beslissing wordt gemotiveerd; in   dat geval wordt het besluit of een voor eensluidend verklaard afschrift ervan   door de deputatie of de in artikel 35, 1°, a) vermelde gemachtigde ambtenaar   binnen vijf kalenderdagen na het treffen van de beslissing per ter post   aangetekende zending aan de aanvrager gezonden;<BR>b) binnen een termijn van   vier maanden te rekenen vanaf de datum van verzending van de in artikel 35, 1°,   d bedoelde brief of, in voorkomend geval, voor het verstrijken van de   overeenkomstig het besluit bedoeld in sub a) verlengde termijn, doet de   deputatie uitspraak over de milieuvergunningsaanvraag overeenkomstig het   bepaalde in artikel 30;<BR><BR>5° bekendmaking:<BR>a) de deputatie of de in sub   1°, a) vermelde gemachtigde ambtenaar zendt binnen een termijn van tien   kalenderdagen na de datum van de beslissing, deze beslissing of een voor   eensluidend verklaard afschrift ervan per ter post aangetekende zending aan de   bevoegde burgemeester met de opdracht tot bekendmaking ervan;<BR>b) de bevoegde   burgemeester maakt de beslissing over de milieuvergunningsaanvraag bekend   overeenkomstig het bepaalde in hoofdstuk IX;<BR>c) de deputatie of de onder sub   1°, a) vermelde gemachtigde ambtenaar zendt de dezelfde dag als tot de   verzending bedoeld in sub a) wordt overgegaan, per ter post aangetekende zending   of bij afgifte tegen ontvangstbewijs een voor eensluidend verklaard afschrift   van de beslissing alsmede van het in artikel 31, § 4 bedoelde attest ter   kennisgeving aan:<BR>- de exploitant;<BR>- het College van Burgemeester en   Schepenen van de gemeente(n) waarin de exploitatie is gepland of gebeurt;<BR>-   de in artikel 22 bedoelde provinciale milieuvergunningscommissie;<BR>- de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen;<BR>- de   afdeling, bevoegd voor milieuhandhaving;<BR>- de Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>- de Vlaamse Milieumaatschappij;<BR>- de Algemene   Directie Toezicht op het Welzijn op het Werk van de FOD Werkgelegenheid, Arbeid   en Sociaal Overleg;<BR>- de N.V. Aquafin;<BR>- het comité voor preventie en   bescherming op het werk, vermeld in het het koninklijk besluit van 3 mei 1999   betreffende de opdrachten en de werking van de Comités voor Preventie en   Bescherming op het Werk, in zoverre dit bestaat;<BR>- de algemene directie van   de civiele bescherming van de FOD Binnenlandse Zaken; <BR>d) elke beslissing   over een milieuvergunningsaanvraag die betrekking heeft op een nieuwe   veeteeltinrichting of de uitbreiding van de vergunde mestproductie van een   bestaande veeteeltinrichting in combinatie met de volledige stopzetting van een   bestaande veeteeltinrichting als bedoeld in artikel 33ter, § 1, 1°, c), 4), 5)   en 6), van het decreet van 23 januari 1991 inzake de bescherming van het   leefmilieu tegen de verontreiniging door meststoffen, alsmede, in voorkomend   geval, een afschrift van de bijlage bij de vergunningsaanvraag als bedoeld in   artikel 5, § 3, 5°, b), 1°, wordt door de vergunningsverlenende overheid die de   beslissing heeft genomen ter kennis gebracht aan de vergunningsverlenende   overheden die bevoegd zijn voor de stop te zetten bestaande   veeteeltinrichtingen. Daartoe stuurt de vergunningsverlenende overheid die de   beslissing heeft genomen onverwijld een afschrift van die beslissing naar de   vergunningsverlenende overheden die bevoegd zijn voor de stop te zetten   bestaande veeteeltinrichtingen; <BR><BR>6° stilzwijgende weigering:<BR>a) indien   binnen een termijn van vier maanden te rekenen vanaf de datum van verzending van   de in artikel 35, 1°, d bedoelde brief of, in voorkomend geval, bij het   verstrijken van de overeenkomstig het besluit bedoeld in sub 4°, a verlengde   termijn, door de deputatie geen uitspraak is gedaan, wordt de aangevraagde   vergunning geacht te zijn geweigerd ;<BR>b) de deputatie of de in sub 1°, a)   vermelde gemachtigde ambtenaar licht binnen een termijn van tien kalenderdagen   na het verstrijken van de in sub a) vermelde termijn de aanvrager in over   voormelde stilzwijgende weigering met de mededeling dat hiertegen overeenkomstig   artikel 10 van het decreet beroep kan worden aangetekend;<BR>c) de deputatie of   de in sub 1°, a) vermelde gemachtigde ambtenaar maakt een voor eensluidend   verklaard afschrift van het in sub b) bedoelde schrijven ter kennisgeving over   aan de bevoegde burgemeester alsmede aan de instanties vermeld in sub 5°,   c).
+<P>Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 1° verloopt de   procedure als volgt:<BR><BR>1° onderzoek ontvankelijkheid en volledigheid:<BR>a)   de deputatie of de door haar daartoe gemachtigde provinciale ambtenaar   onderzoekt de vergunningsaanvraag en haar bijlagen op haar ontvankelijkheid en   volledigheid overeenkomstig het bepaalde in artikel 5. Het niet bijvoegen van   het bewijs van volledige betaling van de overeenkomstig artikel 19bis van het   decreet verschuldigde dossiertaks bij de milieuvergunningsaanvraag, heeft van   rechtswege de onvolledigheid van de vergunningsaanvraag tot gevolg; <BR>b) wordt   de aanvraag onontvankelijk bevonden, dan wordt de aanvrager binnen&nbsp;dertig   kalenderdagen na de indiening van de vergunningsaanvraag hiervan door de   deputatie of in sub a) vermelde gemachtigde ambtenaar schriftelijk in kennis   gesteld, met vermelding van de reden van de onontvankelijkheid en gebeurlijk met   vermelding van de overheid die bevoegd geacht wordt kennis te nemen van de   vergunningsaanvraag;<BR>c) wordt de aanvraag onvolledig bevonden dan wordt de   aanvrager binnen&nbsp;dertig kalenderdagen na de indiening van de   vergunningsaanvraag hiervan door de deputatie of de in sub a) vermelde   gemachtigde ambtenaar schriftelijk in kennis gesteld, met vermelding van de   inlichtingen en gegevens die ontbreken of nadere toelichting vereisen;<BR>d)   wordt de aanvraag ontvankelijk en volledig bevonden, dan wordt de aanvrager   binnen&nbsp;dertig kalenderdagen na indiening van de aanvraag hiervan door de   deputatie of de in sub a) vermelde gemachtigde ambtenaar bij ter post   aangetekende brief hiervan in kennis gesteld; de termijn bedoeld in artikel 9   van het decreet vangt aan op de datum van verzending van voormelde brief;<BR>e)   als de deputatie of de door haar daartoe gemachtigde provinciale ambtenaar geen   schriftelijke kennisgeving uiterlijk dertig kalenderdagen na de indiening van de   vergunningsaanvraag aan de aanvrager heeft verzonden, wordt de procedure   voortgezet. In dat geval doet de vergunningverlenende overheid uitdrukkelijk   uitspraak in haar beslissing of er een milieueffectrapport over het project moet   worden opgesteld. Zo ja, dan weigert ze de aangevraagde vergunning toe te   kennen;<BR><BR>1° bis onderzoek project-m.e.r.-screeningsnota :<BR>a) als bij de   vergunningsaanvraag voor een inrichting of de verandering van een inrichting als   vermeld in titel IV, hoofdstuk III, van het decreet van 5 april 1995 houdende   algemene bepalingen inzake milieubeleid, een project-m.e.r.-screeningsnota is   gevoegd, onderzoekt de deputatie of de door haar daartoe gemachtigde provinciale   ambtenaar die nota en neemt een beslissing of er een milieueffectrapport over   het project moet worden opgesteld; <BR>b) Er moet geen milieueffectrapport over   het project worden opgesteld als de deputatie of de door haar daartoe   gemachtigde provinciale ambtenaar oordeelt dat : <BR>1) een toetsing aan de   criteria van bijlage II van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid uitwijst dat het voorgenomen project geen   aanzienlijke gevolgen kan hebben voor het milieu en een project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2) vroeger al een plan-MER werd goedgekeurd   betreffende een plan of programma waarin een project met vergelijkbare effecten   beoordeeld werd of een project-MER werd goedgekeurd betreffende een project   waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief   is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens   over aanzienlijke milieueffecten kan bevatten;<BR>c) de beslissing dat een   milieueffectrapport over het project moet worden opgesteld, heeft van rechtswege   de onvolledigheid van de vergunningsaanvraag tot gevolg;<BR><BR>2° openbaar   onderzoek:<BR>a) een openbaar onderzoek als bedoeld in hoofdstuk V is enkel   vereist voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 1°, a, c,   d, e, en f; <BR>b) in de gevallen dat overeenkomstig in sub a) een openbaar   onderzoek is vereist, zendt deputatie of de onder sub 1°, a) vermelde   gemachtigde ambtenaar op de dag van de verzending van de in artikel 35, 1°, d)   bedoelde brief één exemplaar van de vergunningsaanvraag en haar bijlagen aan de   bevoegde burgemeester met de opdracht tot het instellen van het openbaar   onderzoek bedoeld in hoofdstuk V;<BR>c) de burgemeester zorgt voor de uitvoering   van het openbaar onderzoek overeenkomstig de bepalingen van hoofdstuk V en waakt   inzonderheid over de eerbiediging van de in artikel 17, § 2 vermelde termijn van   aanplakking van de bekendmaking zodat de termijn van dertig kalenderdagen van   het openbaar onderzoek aanvat uiterlijk op de elfde dag na de verklaring tot   ontvankelijkheid en volledigheid van het aanvraagdossier;<BR>d) het in artikel   19 bedoelde dossier wordt door de burgemeester, binnen een termijn van tien   kalenderdagen na het verstrijken van de termijn van dertig kalenderdagen van het   openbaar onderzoek, verzonden aan de in artikel 22 bedoelde provinciale   milieuvergunningscommissie;<BR><BR>3° adviesverlening:<BR>a) de deputatie of de   in sub 1°, a) vermelde gemachtigde ambtenaar zendt op de dag van de verzending   van de in artikel 35, 1°, d) bedoelde brief, zeven exemplaren van het volledige   vergunningsaanvraagdossier met de bijlagen aan de in artikel 22 bedoelde   provinciale milieuvergunningscommissie met verzoek om advies;<BR>b) de deputatie   of de in sub 1°, a vermelde gemachtigde ambtenaar zendt op de dag van de   verzending van de in artikel 35, 1°, d bedoelde brief, een verzoek om advies,   samen met één exemplaar van het volledige vergunningsaanvraagdossier met de   bijlagen, aan het bevoegde College van Burgemeester en Schepenen; dit college   verleent zijn advies over dit dossier binnen een termijn van vijftig   kalenderdagen na ontvangst van voormeld verzoek om advies; de burgemeester zendt   het advies binnen een termijn van tien kalenderdagen, na de datum dat dit advies   door het College van Burgemeester en Schepenen werd uitgebracht, aan de in   artikel 22 bedoelde commissie; bij gebrek aan advies binnen deze gestelde   termijn kan de zaak doorgaan;<BR>c) de overheidsorganen die overeenkomstig   artikel 20 advies dienen te verlenen alsmede de in artikel 22 bedoelde   provinciale milieuvergunningscommissie, brengen hun advies uit overeenkomstig   het bepaalde in de hoofdstukken VI en VII; de voorzitter en de secretaris van   voornoemde commissie zorgen voor de uitvoering van de hen door de artikelen 23   en 24 toebedeelde opdrachten;<BR><BR>4° uitspraak:<BR>a) in voorkomend geval,   beslist de deputatie binnen een termijn van honderdentien kalenderdagen, te   rekenen vanaf de datum van verzending van de in artikel 35, 1°, d) bedoelde   brief, de termijn voor behandeling van de milieuvergunningsaanvraag te verlengen   met een termijn van maximum twee maanden; deze beslissing wordt gemotiveerd; in   dat geval wordt het besluit of een voor eensluidend verklaard afschrift ervan   door de deputatie of de in artikel 35, 1°, a) vermelde gemachtigde ambtenaar   binnen vijf kalenderdagen na het treffen van de beslissing per ter post   aangetekende zending aan de aanvrager gezonden;<BR>b) binnen een termijn van   vier maanden te rekenen vanaf de datum van verzending van de in artikel 35, 1°,   d bedoelde brief of, in voorkomend geval, voor het verstrijken van de   overeenkomstig het besluit bedoeld in sub a) verlengde termijn, doet de   deputatie uitspraak over de milieuvergunningsaanvraag overeenkomstig het   bepaalde in artikel 30;<BR><BR>5° bekendmaking:<BR>a) de deputatie of de in sub   1°, a) vermelde gemachtigde ambtenaar zendt binnen een termijn van tien   kalenderdagen na de datum van de beslissing, deze beslissing of een voor   eensluidend verklaard afschrift ervan per ter post aangetekende zending aan de   bevoegde burgemeester met de opdracht tot bekendmaking ervan;<BR>b) de bevoegde   burgemeester maakt de beslissing over de milieuvergunningsaanvraag bekend   overeenkomstig het bepaalde in hoofdstuk IX;<BR>c) de deputatie of de onder sub   1°, a) vermelde gemachtigde ambtenaar zendt de dezelfde dag als tot de   verzending bedoeld in sub a) wordt overgegaan, per ter post aangetekende zending   of bij afgifte tegen ontvangstbewijs een voor eensluidend verklaard afschrift   van de beslissing alsmede van het in artikel 31, § 4 bedoelde attest ter   kennisgeving aan:<BR>- de exploitant;<BR>- het College van Burgemeester en   Schepenen van de gemeente(n) waarin de exploitatie is gepland of gebeurt;<BR>-   de in artikel 22 bedoelde provinciale milieuvergunningscommissie;<BR>- de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen;<BR>- de   afdeling, bevoegd voor milieuhandhaving;<BR>- de Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>- de Vlaamse Milieumaatschappij;<BR>- ...;<BR>- de   N.V. Aquafin;<BR>- het comité voor preventie en bescherming op het werk, vermeld   in het&nbsp;koninklijk besluit van 3 mei 1999 betreffende de opdrachten en de   werking van de Comités voor Preventie en Bescherming op het Werk, in zoverre dit   bestaat;<BR>- de algemene directie van de civiele bescherming van de FOD   Binnenlandse Zaken;<BR>- de afdeling, bevoegd voor veiligheidsrapportering, als het gaat om een   inrichting waarop rubriek 17.2 van de indelingslijst van toepassing is;<BR>-   de afdeling, bevoegd voor milieueffectrapportering, als bij de   milieuvergunningsaanvraag een milieueffectrapport of de definitieve beslissing   over het gemotiveerd verzoek tot ontheffing van de rapportageverplichting werd   gevoegd. <BR>d) elke beslissing over een milieuvergunningsaanvraag die   betrekking heeft op een nieuwe veeteeltinrichting of de uitbreiding van de   vergunde mestproductie van een bestaande veeteeltinrichting in combinatie met de   volledige stopzetting van een bestaande veeteeltinrichting als bedoeld in   artikel 33ter, § 1, 1°, c), 4), 5) en 6), van het decreet van 23 januari 1991   inzake de bescherming van het leefmilieu tegen de verontreiniging door   meststoffen, alsmede, in voorkomend geval, een afschrift van de bijlage bij de   vergunningsaanvraag als bedoeld in artikel 5, § 3, 5°, b), 1°, wordt door de   vergunningsverlenende overheid die de beslissing heeft genomen ter kennis   gebracht aan de vergunningsverlenende overheden die bevoegd zijn voor de stop te   zetten bestaande veeteeltinrichtingen. Daartoe stuurt de vergunningsverlenende   overheid die de beslissing heeft genomen onverwijld een afschrift van die   beslissing naar de vergunningsverlenende overheden die bevoegd zijn voor de stop   te zetten bestaande veeteeltinrichtingen; <BR><BR>6° stilzwijgende   weigering:<BR>a) indien binnen een termijn van vier maanden te rekenen vanaf de   datum van verzending van de in artikel 35, 1°, d bedoelde brief of, in   voorkomend geval, bij het verstrijken van de overeenkomstig het besluit bedoeld   in sub 4°, a verlengde termijn, door de deputatie geen uitspraak is gedaan,   wordt de aangevraagde vergunning geacht te zijn geweigerd ;<BR>b) de deputatie   of de in sub 1°, a) vermelde gemachtigde ambtenaar licht binnen een termijn van   tien kalenderdagen na het verstrijken van de in sub a) vermelde termijn de   aanvrager in over voormelde stilzwijgende weigering met de mededeling dat   hiertegen overeenkomstig artikel 10 van het decreet beroep kan worden   aangetekend;<BR>c) de deputatie of de in sub 1°, a) vermelde gemachtigde   ambtenaar maakt een voor eensluidend verklaard afschrift van het in sub b)   bedoelde schrijven ter kennisgeving over aan de bevoegde burgemeester alsmede   aan de instanties vermeld in sub 5°, c).</P>
 
 ## AFDELING 3 MILIEUVERGUNNINGSAANVRAGEN BEDOELD IN [ARTIKEL 6, § 1, 2° (verv. B.V.R. 12 januari 1999, art. 31)]
 
 ### ART. 36.
 
-Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2° verloopt   de procedure als volgt:<BR><BR>1° onderzoek ontvankelijkheid en   volledigheid:<BR>a) het college van Burgemeester en Schepenen of de door haar   daartoe gemachtigde ambtenaar van de gemeente onderzoekt de vergunningsaanvraag   en haar bijlagen op haar ontvankelijkheid en volledigheid overeenkomstig het   bepaalde in artikel 5. [Het niet bijvoegen van het bewijs van volledige betaling   van de overeenkomstig artikel 19bis van het decreet verschuldigde dossiertaks   bij de milieuvergunningsaanvraag, heeft van rechtswege de onvolledigheid van de   vergunningsaanvraag tot gevolg; <BR>b) wordt de aanvraag onontvankelijk   bevonden, dan wordt de aanvrager binnen&nbsp;dertig kalenderdagen na de   indiening van de vergunningsaanvraag hiervan door het College van Burgemeester   en schepenen of de in sub a) vermelde gemachtigde ambtenaar via het uniek   gemeentelijk loket schriftelijk in kennis gesteld, met vermelding van de reden   van de onontvankelijkheid en gebeurlijk met vermelding van de overheid die   bevoegd geacht wordt kennis te nemen van de vergunningsaanvraag;<BR>c) wordt de   aanvraag onvolledig bevonden dan wordt de aanvrager binnen&nbsp;dertig   kalenderdagen na de indiening van de vergunningsaanvraag hiervan door het   College van Burgemeester en schepenen of de in sub a) vermelde gemachtigde   ambtenaar via het uniek gemeentelijk loket schriftelijk in kennis gesteld, met   vermelding van de inlichtingen en gegevens die ontbreken of nadere toelichting   vereisen;<BR>d) wordt de aanvraag ontvankelijk en volledig bevonden, dan wordt   de aanvrager binnen&nbsp;dertig kalenderdagen na indiening van de aanvraag   hiervan door het College van Burgemeester en schepenen of de in sub a) vermelde   gemachtigde ambtenaar bij ter post aangetekende brief via het uniek gemeentelijk   loket hiervan in kennis gesteld; de termijn bedoeld in artikel 9 van het decreet   vangt aan op de datum van verzending van voormelde brief;<BR>e) als het College   van Burgemeester en schepenen of de door haar daartoe gemachtigde ambtenaar van   de gemeente geen schriftelijke kennisgeving uiterlijk dertig kalenderdagen na de   indiening van de vergunningsaanvraag aan de aanvrager heeft verzonden, wordt de   procedure voortgezet. In dat geval doet de vergunningverlenende overheid   uitdrukkelijk uitspraak in haar beslissing of er een milieueffectrapport over   het project moet worden opgesteld. Zo ja, dan weigert ze de aangevraagde   vergunning toe te kennen;<BR><BR>1° bis onderzoek project-m.e.r.-screeningsnota   :<BR>a) als bij de vergunningsaanvraag voor een inrichting of de verandering van   een inrichting als vermeld in titel IV, hoofdstuk III, van het decreet van 5   april 1995 houdende algemene bepalingen inzake milieubeleid, een   project-m.e.r.-screeningsnota is gevoegd, onderzoekt het college van   burgemeester en schepenen of de door haar daartoe gemachtigde ambtenaar van de   gemeente die nota en neemt een beslissing of er een milieueffectrapport over het   project moet worden opgesteld;<BR>b) er moet geen milieueffectrapport over het   project worden opgesteld als het college van burgemeester en schepenen of de   door haar daartoe gemachtigde ambtenaar van de gemeente oordeelt dat :<BR>1) een   toetsing aan de criteria van bijlage II van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid uitwijst dat het voorgenomen   project geen aanzienlijke gevolgen kan hebben voor het milieu en een project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2) vroeger al een plan-MER werd goedgekeurd   betreffende een plan of programma waarin een project met vergelijkbare effecten   beoordeeld werd of een project-MER werd goedgekeurd betreffende een project   waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief   is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens   over aanzienlijke milieueffecten kan bevatten;<BR>c) de beslissing dat een   milieueffectrapport over het project moet worden opgesteld heeft van rechtswege   de onvolledigheid van de vergunningsaanvraag tot gevolg;<BR><BR>2° openbaar   onderzoek:<BR>a) een openbaar onderzoek als bedoeld in hoofdstuk V is enkel   vereist voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2°, a, en   c; <BR>b) in de gevallen dat overeenkomstig sub a) een openbaar onderzoek is   vereist zorgt de burgemeester voor de uitvoering van het openbaar onderzoek   overeenkomstig de bepalingen van hoofdstuk V en waakt inzonderheid over de   eerbiediging van de in artikel 17, § 2 vermelde termijn van aanplakking van de   bekendmaking zodat de termijn van dertig kalenderdagen van het openbaar   onderzoek aanvat uiterlijk op de elfde dag na de verklaring tot ontvankelijkheid   en volledigheid van het aanvraagdossier;<BR>c) het in artikel 19 bedoelde   dossier wordt door de burgemeester, binnen een termijn van tien kalenderdagen na   het verstrijken van de termijn van dertig kalenderdagen van het openbaar   onderzoek bezorgd aan de dienst van de gemeente gelast met het onderzoek van   milieudossiers;<BR><BR>3° adviesverlening:<BR>a) de burgemeester of de in sub   1°, a vermelde gemachtigde ambtenaar zendt op de dag van de verzending van de in   artikel 36, 1°, d bedoelde brief, een exemplaar van het volledige   vergunningsaanvraagdossier met de bijlagen aan de dienst van de gemeente die met   het onderzoek van milieudossiers is gelast met verzoek om advies;<BR>b) de   burgemeester of zijn in sub 1°, a) gemachtigde ambtenaar stuurt op de dag van de   verzending van de brief, bedoeld in artikel 36, 1°, d), een exemplaar van de   volledige vergunningsaanvraag met verzoek om advies tevens aan de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen; <BR>c) de   dienst van de gemeente die met het onderzoek van milieudossiers is gelast,   brengt zijn advies uit binnen een termijn van dertig kalenderdagen na ontvangst   van het dossier; bij gebrek aan advies binnen de gestelde termijn wordt   aangenomen dat voormelde dienst van oordeel is dat de risico's voor de externe   veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de   natuur en op de mens, veroorzaakt door de inrichting, mits naleving van gepaste   milieuvergunningsvoorwaarden, tot een aanvaardbaar niveau kunnen worden   beperkt;<BR>d) de overheidsorganen die overeenkomstig artikel 20, § 2 advies   dienen te verlenen, brengen hun advies uit overeenkomstig het bepaalde in   hoofdstuk VI; bij gebrek aan advies binnen de gestelde termijn van dertig   kalenderdagen, wordt aangenomen dat bedoeld(e) adviesverlenend(e)   overheidsorgaan(en) een gunstige beoordeling over de door haar te onderzoeken   aspecten met betrekking tot de ingedeelde inrichting heeft (hebben)   uitgebracht;<BR><BR>4° uitspraak :<BR>Binnen een termijn van 105 kalenderdagen   te rekenen vanaf de datum van verzending van de brief, vermeld in artikel 36,   1°, d, doet het college van burgemeester en schepenen uitspraak over de   milieuvergunningsaanvraag overeenkomstig artikel 30.<BR><BR>5°   bekendmaking:<BR>a) de bevoegde burgemeester maakt de beslissing over de   milieuvergunningsaanvraag bekend overeenkomstig het bepaalde in hoofdstuk   IX;<BR>b) de bevoegde burgemeester zendt dezelfde dag als tot de aanplakking van   de bekendmaking bedoeld in artikel 31 wordt overgegaan, per ter post   aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend   verklaard afschrift van de beslissing alsmede van het in artikel 31, § 3   bedoelde attest ter kennisgeving aan:<BR>- de exploitant;<BR>- de Gouverneur van   de provincie waartoe de percelen van de inrichting behoren ;<BR>- de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen;<BR>- de   afdeling, bevoegd voor milieuhandhaving;<BR>- de Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>- de Vlaamse Milieumaatschappij;<BR>- de Algemene   Directie Toezicht op het Welzijn op het Werk van de FOD Werkgelegenheid, Arbeid   en Sociaal Overleg;<BR>- de N.V. Aquafin;<BR>- het comité voor preventie en   bescherming op het werk, vermeld in het het koninklijk besluit van 3 mei 1999   betreffende de opdrachten en de werking van de Comités voor Preventie en   Bescherming op het Werk, in zoverre dit bestaat;<BR><BR>6° stilzwijgende   weigering:<BR>a) indien binnen een termijn van 105 kalenderdagen te rekenen   vanaf de datum van verzending van de in artikel 36, 1°, d bedoelde brief door   het College van Burgemeester en Schepenen geen uitspraak is gedaan, wordt de   aangevraagde vergunning geacht te zijn geweigerd;<BR>b) de burgemeester of de in   sub 1°, a) vermelde gemachtigde ambtenaar licht binnen een termijn van tien   kalenderdagen na het verstrijken van de in sub a) vermelde termijn de aanvrager   in over voormelde stilzwijgende weigering met de mededeling dat hiertegen   overeenkomstig artikel 10 van het decreet beroep kan worden   aangetekend.<BR><BR>7° informatie Vlaamse Landmaatschappij :<BR>de   vergunningverlenende overheid bezorgt aan de Vlaamse Landmaatschappij een   afschrift van de milieuvergunning waarbij één of meer van de rubrieken 9.3 tot   en met 9.8, en/of van de rubrieken 28.2 en 28.3 van de indelingslijst van   toepassing zijn, nadat deze in de zin van artikel 5, § 1, eerste lid, van het   decreet, definitief is verleend.
+Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2° verloopt   de procedure als volgt:<BR><BR>1° onderzoek ontvankelijkheid en   volledigheid:<BR>a) het college van Burgemeester en Schepenen of de door haar   daartoe gemachtigde ambtenaar van de gemeente onderzoekt de vergunningsaanvraag   en haar bijlagen op haar ontvankelijkheid en volledigheid overeenkomstig het   bepaalde in artikel 5. [Het niet bijvoegen van het bewijs van volledige betaling   van de overeenkomstig artikel 19bis van het decreet verschuldigde dossiertaks   bij de milieuvergunningsaanvraag, heeft van rechtswege de onvolledigheid van de   vergunningsaanvraag tot gevolg; <BR>b) wordt de aanvraag onontvankelijk   bevonden, dan wordt de aanvrager binnen&nbsp;dertig kalenderdagen na de   indiening van de vergunningsaanvraag hiervan door het College van Burgemeester   en schepenen of de in sub a) vermelde gemachtigde ambtenaar via het uniek   gemeentelijk loket schriftelijk in kennis gesteld, met vermelding van de reden   van de onontvankelijkheid en gebeurlijk met vermelding van de overheid die   bevoegd geacht wordt kennis te nemen van de vergunningsaanvraag;<BR>c) wordt de   aanvraag onvolledig bevonden dan wordt de aanvrager binnen&nbsp;dertig   kalenderdagen na de indiening van de vergunningsaanvraag hiervan door het   College van Burgemeester en schepenen of de in sub a) vermelde gemachtigde   ambtenaar via het uniek gemeentelijk loket schriftelijk in kennis gesteld, met   vermelding van de inlichtingen en gegevens die ontbreken of nadere toelichting   vereisen;<BR>d) wordt de aanvraag ontvankelijk en volledig bevonden, dan wordt   de aanvrager binnen&nbsp;dertig kalenderdagen na indiening van de aanvraag   hiervan door het College van Burgemeester en schepenen of de in sub a) vermelde   gemachtigde ambtenaar bij ter post aangetekende brief via het uniek gemeentelijk   loket hiervan in kennis gesteld; de termijn bedoeld in artikel 9 van het decreet   vangt aan op de datum van verzending van voormelde brief;<BR>e) als het College   van Burgemeester en schepenen of de door haar daartoe gemachtigde ambtenaar van   de gemeente geen schriftelijke kennisgeving uiterlijk dertig kalenderdagen na de   indiening van de vergunningsaanvraag aan de aanvrager heeft verzonden, wordt de   procedure voortgezet. In dat geval doet de vergunningverlenende overheid   uitdrukkelijk uitspraak in haar beslissing of er een milieueffectrapport over   het project moet worden opgesteld. Zo ja, dan weigert ze de aangevraagde   vergunning toe te kennen;<BR><BR>1° bis onderzoek project-m.e.r.-screeningsnota   :<BR>a) als bij de vergunningsaanvraag voor een inrichting of de verandering van   een inrichting als vermeld in titel IV, hoofdstuk III, van het decreet van 5   april 1995 houdende algemene bepalingen inzake milieubeleid, een   project-m.e.r.-screeningsnota is gevoegd, onderzoekt het college van   burgemeester en schepenen of de door haar daartoe gemachtigde ambtenaar van de   gemeente die nota en neemt een beslissing of er een milieueffectrapport over het   project moet worden opgesteld;<BR>b) er moet geen milieueffectrapport over het   project worden opgesteld als het college van burgemeester en schepenen of de   door haar daartoe gemachtigde ambtenaar van de gemeente oordeelt dat :<BR>1) een   toetsing aan de criteria van bijlage II van het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid uitwijst dat het voorgenomen   project geen aanzienlijke gevolgen kan hebben voor het milieu en een project-MER   redelijkerwijze geen nieuwe of bijkomende gegevens over aanzienlijke   milieueffecten kan bevatten of; <BR>2) vroeger al een plan-MER werd goedgekeurd   betreffende een plan of programma waarin een project met vergelijkbare effecten   beoordeeld werd of een project-MER werd goedgekeurd betreffende een project   waarvan het voorgenomen initiatief een herhaling, voortzetting of alternatief   is, en een nieuw project-MER redelijkerwijze geen nieuwe of bijkomende gegevens   over aanzienlijke milieueffecten kan bevatten;<BR>c) de beslissing dat een   milieueffectrapport over het project moet worden opgesteld heeft van rechtswege   de onvolledigheid van de vergunningsaanvraag tot gevolg;<BR><BR>2° openbaar   onderzoek:<BR>a) een openbaar onderzoek als bedoeld in hoofdstuk V is enkel   vereist voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2°, a, en   c; <BR>b) in de gevallen dat overeenkomstig sub a) een openbaar onderzoek is   vereist zorgt de burgemeester voor de uitvoering van het openbaar onderzoek   overeenkomstig de bepalingen van hoofdstuk V en waakt inzonderheid over de   eerbiediging van de in artikel 17, § 2 vermelde termijn van aanplakking van de   bekendmaking zodat de termijn van dertig kalenderdagen van het openbaar   onderzoek aanvat uiterlijk op de elfde dag na de verklaring tot ontvankelijkheid   en volledigheid van het aanvraagdossier;<BR>c) het in artikel 19 bedoelde   dossier wordt door de burgemeester, binnen een termijn van tien kalenderdagen na   het verstrijken van de termijn van dertig kalenderdagen van het openbaar   onderzoek bezorgd aan de dienst van de gemeente gelast met het onderzoek van   milieudossiers;<BR><BR>3° adviesverlening:<BR>a) de burgemeester of de in sub   1°, a vermelde gemachtigde ambtenaar zendt op de dag van de verzending van de in   artikel 36, 1°, d bedoelde brief, een exemplaar van het volledige   vergunningsaanvraagdossier met de bijlagen aan de dienst van de gemeente die met   het onderzoek van milieudossiers is gelast met verzoek om advies;<BR>b) de   burgemeester of zijn in sub 1°, a) gemachtigde ambtenaar stuurt op de dag van de   verzending van de brief, bedoeld in artikel 36, 1°, d), een exemplaar van de   volledige vergunningsaanvraag met verzoek om advies tevens aan de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen; <BR>c) de   dienst van de gemeente die met het onderzoek van milieudossiers is gelast,   brengt zijn advies uit binnen een termijn van dertig kalenderdagen na ontvangst   van het dossier; bij gebrek aan advies binnen de gestelde termijn wordt   aangenomen dat voormelde dienst van oordeel is dat de risico's voor de externe   veiligheid, de hinder, de effecten op het leefmilieu, op de wateren, op de   natuur en op de mens, veroorzaakt door de inrichting, mits naleving van gepaste   milieuvergunningsvoorwaarden, tot een aanvaardbaar niveau kunnen worden   beperkt;<BR>d) de overheidsorganen die overeenkomstig artikel 20, § 2 advies   dienen te verlenen, brengen hun advies uit overeenkomstig het bepaalde in   hoofdstuk VI; bij gebrek aan advies binnen de gestelde termijn van dertig   kalenderdagen, wordt aangenomen dat bedoeld(e) adviesverlenend(e)   overheidsorgaan(en) een gunstige beoordeling over de door haar te onderzoeken   aspecten met betrekking tot de ingedeelde inrichting heeft (hebben)   uitgebracht;<BR><BR>4° uitspraak :<BR>Binnen een termijn van 105 kalenderdagen   te rekenen vanaf de datum van verzending van de brief, vermeld in artikel 36,   1°, d, doet het college van burgemeester en schepenen uitspraak over de   milieuvergunningsaanvraag overeenkomstig artikel 30.<BR><BR>5°   bekendmaking:<BR>a) de bevoegde burgemeester maakt de beslissing over de   milieuvergunningsaanvraag bekend overeenkomstig het bepaalde in hoofdstuk   IX;<BR>b) de bevoegde burgemeester zendt dezelfde dag als tot de aanplakking van   de bekendmaking bedoeld in artikel 31 wordt overgegaan, per ter post   aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend   verklaard afschrift van de beslissing alsmede van het in artikel 31, § 3   bedoelde attest ter kennisgeving aan:<BR>- de exploitant;<BR>- de Gouverneur van   de provincie waartoe de percelen van de inrichting behoren ;<BR>- de   overheidsorganen die overeenkomstig artikel 20 advies moeten verlenen;<BR>- de   afdeling, bevoegd voor milieuhandhaving;<BR>- de Openbare Vlaamse   Afvalstoffenmaatschappij;<BR>- de Vlaamse Milieumaatschappij;<BR>- ...;<BR>- de   N.V. Aquafin;<BR>- het comité voor preventie en bescherming op het werk, vermeld   in het het koninklijk besluit van 3 mei 1999 betreffende de opdrachten en de   werking van de Comités voor Preventie en Bescherming op het Werk, in zoverre dit   bestaat;<BR>-   de afdeling, bevoegd voor milieueffectrapportering, als bij de   milieuvergunningsaanvraag een milieueffectrapport of de definitieve beslissing   over het gemotiveerd verzoek tot ontheffing van de rapportageverplichting werd   gevoegd.<BR><BR>6° stilzwijgende weigering:<BR>a) indien binnen een   termijn van 105 kalenderdagen te rekenen vanaf de datum van verzending van de in   artikel 36, 1°, d bedoelde brief door het College van Burgemeester en Schepenen   geen uitspraak is gedaan, wordt de aangevraagde vergunning geacht te zijn   geweigerd;<BR>b) de burgemeester of de in sub 1°, a) vermelde gemachtigde   ambtenaar licht binnen een termijn van tien kalenderdagen na het verstrijken van   de in sub a) vermelde termijn de aanvrager in over voormelde stilzwijgende   weigering met de mededeling dat hiertegen overeenkomstig artikel 10 van het   decreet beroep kan worden aangetekend.<BR><BR>7° informatie Vlaamse   Landmaatschappij :<BR>de vergunningverlenende overheid bezorgt aan de Vlaamse   Landmaatschappij een afschrift van de milieuvergunning waarbij één of meer van   de rubrieken 9.3 tot en met 9.8, en/of van de rubrieken 28.2 en 28.3 van de   indelingslijst van toepassing zijn, nadat deze in de zin van artikel 5, § 1,   eerste lid, van het decreet, definitief is verleend.
 
 ## AFDELING 4 BIJZONDERE BEPALINGEN
 
 ### ART. 37.
 
 § 1. In afwijking van de bepalingen van artikel 36, 4° gelden voor de uitspraak over een vergunningsaanvraag als bedoeld in artikel 6, § 1, 2°, d) voor een inrichting van klasse 1 de volgende bepalingen:<br />a) in voorkomend geval, beslist het College van Burgemeester en Schepenen binnen een termijn van vijftig kalenderdagen, te rekenen vanaf de datum van verzending van de in artikel 36, 1°, d) bedoelde brief, de termijn voor behandeling van de milieuvergunningsaanvraag te verlengen met een termijn van maximum 1 maand; deze beslissing wordt gemotiveerd; in dat geval wordt het besluit of een voor eensluidend verklaard afschrift ervan door de burgemeester of de in artikel 36, 1°, a) vermelde gemachtigde ambtenaar binnen vijf kalenderdagen na het treffen van de beslissing per ter post aangetekende zending aan de aanvrager gezonden;<br />b) binnen een termijn van twee maanden te rekenen vanaf de datum van verzending van de in artikel 36, 1°, d bedoelde brief of, in voorkomend geval, vóór het verstrijken van de overeenkomstig het besluit bedoeld in sub a) verlengde termijn, doet het College van Burgemeester en Schepenen uitspraak over de milieuvergunningsaanvraag overeenkomstig het bepaalde in artikel 30.<br /><br />Het college van burgemeester en schepenen beslist binnen een termijn van twee maanden vanaf de datum van verzending van de brief, vermeld in artikel 36, 1°, d), over vergunningsaanvragen, vermeld in artikel 6, § 1, 2°, d), voor een inrichting van klasse 2. Die termijn kan niet worden verlengd.<br /><br />§ 2. In afwijking van de bepalingen van artikel 36, 4° bedraagt voor een vergunningsaanvraag, als bedoeld in artikel 6, § 1, 2°, d), de in artikel 36, 6°, a) bedoelde termijn twee maanden te rekenen vanaf de datum van verzending van de in artikel 36, 1°, d) bedoelde brief, in voorkomend geval verlengd overeenkomstig het besluit bedoeld in § 1, a).
+
+### ART. 37bis.
+
+Artikel 35, 4°, is van toepassing voor de uitspraak over een   vergunningsaanvraag die betrekking heeft op de introductie van uitheemse soorten   of translocatie van plaatselijk niet-voorkomende soorten in open   aquacultuurvoorzieningen zoals bepaald in de verordening aquacultuur, in zoverre   ze niet strijdig zijn met de vermelde verordening.
 
 ### ART. 38.
 
@@ -398,7 +427,7 @@ Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2° verloopt   de
 
 ### ART. 41.
 
-§ 1. In geval de milieuvergunningsaanvraag betrekking heeft op de lozing in gewone oppervlakte-wateren, openbare riolen of kunstmatige afvoerwegen voor regenwater van gevaarlijke stoffen als bedoeld in de EG-richtlijn 76/464/EEG van 4 mei 1976 betreffende de verontreiniging veroorzaakt door bepaalde gevaarlijke stoffen die in het aquatisch milieu van de Gemeenschap worden geloosd en die in de indelingslijst onder [rubrieken nr. 3.4. of 3.6.3.  <span class="reference">(verv. B.V.R. 1 mei 1995, art. 7.1.1.1., I: 1 augustus 1995)</span> ] zijn aangeduid alsmede ingeval de milieuvergunningsaanvraag betrekking heeft op de directe of indirecte lozing in grondwater van gevaarlijke stoffen als bedoeld in de EG-richtlijn 80/68/EEG van 17 december 1979 betreffende de bescherming van het grondwater tegen verontreiniging veroorzaakt door de lozing van bepaalde gevaarlijke stoffen, dient de milieuvergunning, voor wat betreft voornoemde lozing tenminste om de vier jaar aan een nieuw onderzoek onderworpen. [Dit onderzoek en de eventuele aanpassing gebeuren minstens overeenkomstig de programma's opgesteld volgens artikel 2.3.6.1 van titel II van het VLAREM.  <span class="reference">(ing. B.V.R. 20 april 2001, art. 1, I: 10 juli 2001)</span> ]<br /><br />§ 2. Wanneer de termijn van de vergunning voor de in § 1 bedoelde lozing meer dan vier jaar overschrijdt, geschiedt het vierjaarlijkse nieuw onderzoek van deze vergunning ambtshalve overeenkomstig de procedure vermeld in artikel 45. [De bevoegde overheid dient hierbij overeenkomstig artikel 20 van titel I van het VLAREM de in de indelingslijst aangeduide overheidsorganen om advies te verzoeken.  <span class="reference">(ing. B.V.R. 20 april 2001, art. 2, I: 10 juli 2001)</span> ]
+§1. Als de milieuvergunningsaanvraag betrekking heeft op de lozing in   gewone oppervlaktewateren, openbare riolen of kunstmatige afvoerwegen voor   regenwater van gevaarlijke stoffen als vermeld in bijlage 2C, in concentraties   hoger dan de indelingscriteria, vermeld in de kolom “indelingscriterium GS   (gevaarlijke stoffen)” van artikel 3 van bijlage 2.3.1 van titel II van het   VLAREM, of als ingeval de milieuvergunningsaanvraag betrekking heeft op de   directe of indirecte lozing in grondwater van gevaarlijke stoffen als vermeld in   bijlage 2B, kan de milieuvergunning, voor wat betreft voornoemde lozing, aan een   nieuw onderzoek onderworpen en eventueel aangepast worden conform de procedure,   vermeld in artikel 45, en conform het maatregelenprogramma, vermeld in artikel   64 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid. Bij   een ambtshalve onderzoek als vermeld in artikel 20, vraagt de bevoegde overheid   een advies van de in de indelingslijst aangeduide   overheidsorganen.<BR><BR>§ 2. ...
 
 ### ART. 41bis.
 
@@ -408,9 +437,13 @@ Voor de milieuvergunningsaanvragen bedoeld in artikel 6, § 1, 2° verloopt   de
 
 Voor inrichtingen die zijn ingedeeld in rubriek 2.3.11 van de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval, afval uit de winning, de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, dient de overheid die de vergunning heeft verleend de voorwaarden voor een vergunning op gezette tijden opnieuw te bezien en, waar nodig, bij te stellen :<br />1° wanneer zich ingrijpende wijzigingen voordoen in de exploitatie van de voorziening of in het gestorte afval;<br />2° op basis van de resultaten van de monitoring waarover de exploitant uit hoofde van artikel 5.2.6.5.1, § 3 van titel II van het VLAREM, verslag heeft uitgebracht of van de uit hoofde van artikel 5.2.6.9.1 van titel II van het VLAREM uitgevoerde inspecties;<br />3° in het licht van informatie-uitwisseling over aanzienlijke veranderingen in de beste beschikbare technieken.
 
+### ART. 41quater.
+
+<P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpFirst>Voor   afval(mee)verbrandingsinstallaties vermeld in de rubrieken 2.3.4.1, b, c, e, f,   g, h, j, k, l, m; 2.3.4.2, b, c, d, e, f, g en 2.3.5 van de indelingslijst geldt   het volgende:<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpMiddle>&nbsp;De   vergunningsvoorwaarden worden op initiatief en onder coördinatie van de   afdeling, bevoegd voor milieuvergunningen, geregeld getoetst. Als dat   noodzakelijk is, kan de afdeling een verzoek indienen tot wijziging of   aanvulling van de vergunningsvoorwaarden overeenkomstig de procedure, vermeld in   artikel 45. Bij de toetsing van de vergunningsvoorwaarden maakt de afdeling,   bevoegd voor milieuvergunningen, in eerste instantie gebruik van eventuele bij   de monitoring of bij inspecties verkregen gegevens.</P>
+
 ### ART. 42.
 
-§ 1. In geval een vergunde inrichting door een andere exploitant wordt overgenomen, blijven de toegestane vergunningen geldig voor de duur ervan.<br /><br />§ 2. De overnemer moet de overname, bedoeld in § 1, vóór de datum van inwerkingtreding van de overname melden door middel van het meldingsformulier, vastgesteld in bijlage 3.C van bijlage 3 bij dit besluit, dat bij ter post aangetekende zending of bij afgifte tegen ontvangstbewijs moet worden bezorgd aan de overheid die op het tijdstip van de melding overeenkomstig de aard en de klasse in eerste aanleg bevoegd is voor de overgenomen inrichting. Indien het college van burgemeester en schepenen in eerste aanleg bevoegd is voor de overgenomen inrichting, wordt het meldingsformulier gericht aan het college en ingediend bij het uniek gemeentelijk loket van de gemeente waarin de percelen van de overgenomen inrichting liggen, of, indien de inrichting zich over het grondgebied van meer dan één gemeente uitstrekt, bij het uniek gemeentelijk loket van elke gemeente waarin zich percelen bevinden waarop de overgenomen inrichting ligt, voor de respectieve gedeelten van de inrichting op hun ambtsgebied.<br /><br />§ 3. De overheid, bedoeld in § 2, neemt kennis van de melding en gaat na welke lopende vergunningen van toepassing zijn op de voor overname gemelde inrichting.<br /><br />Deze overheid kan hierover het advies inwinnen van de afdeling, bevoegd voor milieuvergunningen. <br /><br />§ 4. De overheid, bedoeld in § 2, stuurt vervolgens aan de overnemer die de melding heeft gedaan een schriftelijke ontvangstmelding.<br /><br />§ 5. De overheid, bedoeld in § 2, stuurt een afschrift van de ontvangstmelding, bedoeld in § 4, aan:<br />1° wanneer het gaat om een inrichting waarvoor de deputatie bevoegd is: het college, de commissie, het comité, de overheidsorganen, diensten en maatschappijen, genoemd in artikel 35, 5°, c);<br />2° wanneer het gaat om een inrichting waarvoor het college van burgemeester en schepenen bevoegd is: de gouverneur, het comité, de overheidsorganen, diensten en maatschappijen, genoemd in artikel 36, 5°, b).
+§ 1. In geval een vergunde inrichting door een andere exploitant wordt   overgenomen, blijven de toegestane vergunningen geldig voor de duur   ervan.<BR><BR>§ 2. De overnemer moet de overname, bedoeld in § 1, vóór de datum   van inwerkingtreding van de overname melden door middel van het   meldingsformulier, vastgesteld in bijlage 3.C van bijlage 3 bij dit besluit, dat   bij ter post aangetekende zending of bij afgifte tegen ontvangstbewijs moet   worden bezorgd aan de overheid die op het tijdstip van de melding overeenkomstig   de aard en de klasse in eerste aanleg bevoegd is voor de overgenomen inrichting.   Indien het college van burgemeester en schepenen in eerste aanleg bevoegd is   voor de overgenomen inrichting, wordt het meldingsformulier gericht aan het   college en ingediend bij het uniek gemeentelijk loket van de gemeente waarin de   percelen van de overgenomen inrichting liggen, of, indien de inrichting zich   over het grondgebied van meer dan één gemeente uitstrekt, bij het uniek   gemeentelijk loket van elke gemeente waarin zich percelen bevinden waarop de   overgenomen inrichting ligt, voor de respectieve gedeelten van de inrichting op   hun ambtsgebied.<BR><BR>§ 3. De overheid, bedoeld in § 2, neemt kennis van de   melding en gaat na welke lopende vergunningen van toepassing zijn op de voor   overname gemelde inrichting.<BR><BR>§ 4. De overheid, bedoeld in § 2, stuurt   vervolgens aan de overnemer die de melding heeft gedaan een schriftelijke   ontvangstmelding.<BR><BR>§ 5. De overheid, bedoeld in § 2, stuurt een afschrift   van de ontvangstmelding, bedoeld in § 4, aan:<BR>1° wanneer het gaat om een   inrichting waarvoor de deputatie bevoegd is: het college, de commissie, het   comité, de overheidsorganen, diensten en maatschappijen, genoemd in artikel 35,   5°, c);<BR>2° wanneer het gaat om een inrichting waarvoor het college van   burgemeester en schepenen bevoegd is: de gouverneur, het comité, de   overheidsorganen, diensten en maatschappijen, genoemd in artikel 36, 5°,   b).
 
 ## HOOFDSTUK XI EXPLOITATIEVOORWAARDEN EN VERPLICHTINGEN VAN DE EXPLOITANT
 
@@ -436,7 +469,7 @@ Voor inrichtingen die zijn ingedeeld in rubriek 2.3.11 van de indelingslijst, me
 
 ### ART. 45.
 
-§ 1. De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende   vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<BR>1°   ambtshalve;<BR>2° op verzoek van de in artikel 20 vermelde adviesorganen in   zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde   inrichting;<BR>3° op verzoek van de exploitant;<BR>4° op verzoek van elke   natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de   exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<BR>5° op   verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld   van het leefmilieu dat door de hinder tengevolge van de vestiging en de   exploitatie van de inrichting kan worden getroffen.<BR>6° op verzoek van de   toezichthouder. <BR><BR>Voor de toepassing van dit artikel wordt onder "bevoegde   overheid" verstaan de overheid die in eerste aanleg bevoegd is.<BR><BR>§ 2. Het   verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid,   bevoegd in § 1, gestuurd te worden. <BR><BR>§ 3. Behoudens wanneer het gaat om   een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden :   <BR>1° de volgende gegevens inzake de identificatie van de inrichting :<BR>a) -   indien het om een natuurlijke persoon gaat : de naam, voornaam, hoedanigheid,   het adres, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant;<BR>- indien   het om een rechtspersoon gaat : de benaming, de rechtsvorm en de   maatschappelijke zetel, telefoon-, R.S.Z.- en B.T.W.-nummer van de exploitant,   evenals de naam, de hoedanigheid van de verantwoordelijke persoon die de   vergunningsaanvraag namens de exploitant ondertekent; <BR>b) de juridische   grondslag op basis waarvan de exploitant de beschikking heeft over de bedoelde   inrichting(en) alsmede het eigendomsstatuut van de percelen waarop de   exploitatie gebeurt of is gepland; <BR>c) het adres van de inrichting die het   voorwerp uitmaakt van de vergunningsaanvraag evenals de gemeenten en provincies   waarin de percelen zijn gelegen waarop de exploitatie of de verandering van de   inrichting gebeurt of gepland is; <BR>d) de vermelding of het gaat om een   inrichting van : <BR>i. de Staat, de Gemeenschap, het Gewest, een provincie of   een door een van hen opgerichte instelling; <BR>ii. een gemeente, een vereniging   van gemeenten of een openbaar centrum voor maatschappelijk welzijn; <BR>iii. een   niet hier voren genoemde openbare instelling.<BR>2° de gevraagde wijziging of   aanvulling van de opgelegde vergunningsvoorwaarden;<BR>3° de motivering van de   gevraagde wijziging of aanvulling;<BR>4° het voorwerp en de datum van de gedane   meldingen, evenals een afschrift van eerdere beslissingen over   vergunningsaanvragen die werden ingediend voor de exploitatie, de lozing van   afvalwaters, de verwerking van afvalstoffen, de winning van grondwater of voor   de bescherming van grondwater met betrekking tot de inrichting of in voorkomend   geval de datum waarop alsmede de overheid bij wie dergelijke vergunning(en)   werd(en) aangevraagd.<BR><BR>Indien het gaat om een ambtshalve beslissing inzake   een GPBV-installatie, of een inrichting die is ingedeeld in rubriek 2.3.11 van   de indelingslijst, met uitzondering van wat betrekking heeft op het inert afval,   afval uit de winning, de behandeling en de opslag van turf en het   niet-gevaarlijk niet-inert afval, tenzij deze worden gestort in een   afvalvoorziening van categorie A, en met uitzondering van de afvalvoorzieningen   vermeld in artikel 5.2.6.10.1, § 3, van titel II van het VLAREM, wordt het   voornemen door de bevoegde overheid omschreven in een brief aan de exploitant,   met vermelding van wat bepaald werd in het eerste lid, punt 1°,2° en 3°.   <BR><BR>§ 4. Tenzij het gaat om een ambtshalve beslissing, gelden met betrekking   tot de adviesverlening, de uitspraak, de stilzwijgende weigering en de   bekendmaking volgend op een verzoek, bedoeld in § 1, de volgende   bepalingen:<BR>1° ...<BR>2° wanneer de bevoegde overheid de deputatie is:   artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de behandelingstermijn   aanvangt op de datum van verzending van het in § 1 bedoelde verzoek in plaats   van op de datum van verklaring tot ontvankelijkheid en volledigheid van de   vergunningsaanvraag;<BR>3° wanneer de bevoegde overheid het College van   Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien verstande   dat de behandelingstermijn aanvangt op de datum van verzending van het in § 1   bedoelde verzoek in plaats van op de datum van verklaring tot ontvankelijkheid   en volledigheid van de vergunningsaanvraag. <BR><BR>Wanneer het in § 1 bedoelde   verzoek niet uitgaat van de exploitant, wordt deze laatste door de in § 1   bedoelde overheid hiervan per ter post aangetekende zending in kennis gesteld   binnen een termijn van tien kalenderdagen na ontvangst van het   verzoek.<BR><BR>Wanneer het om een ambtshalve beslissing gaat inzake een in § 3,   tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde   overheid in een vroeg stadium, per ter post aangetekende zending in kennis   gesteld van het voornemen van de overheid. <BR><BR>§ 4bis. Er wordt een openbaar   onderzoek georganiseerd overeenkomstig de procedure, bepaald in artikel 17, 19,   1° en 3°, artikel 35, 2°, c) en d) en artikel 36, 2°, b) en c), tenzij de   ambtshalve beslissing een inrichting betreft die niet in § 3, tweede lid, is   vermeld. In dit geval is evenwel de schriftelijke kennisgeving van eigenaars en   gebruikers, bedoeld in artikel 17, § 3, 1°, niet vereist<BR><BR>Als een openbaar   onderzoek is vereist, stuurt de overheid die bevoegd is voor de wijziging of   aanvulling van de vergunningsvoorwaarden, het verzoek of een brief waarin het   voornemen wordt geuit samen met de bijlagen aan de bevoegde burgemeester met de   opdracht tot het instellen van een openbaar onderzoek. De bevoegde overheid doet   dit op de dag van de verzending naar de exploitant van het verzoek of het   voornemen, of op de dag dat de ontvangstmelding van het verzoek van de   exploitant aan die exploitant wordt gestuurd.<BR><BR>In afwijking van artikel   17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig het model   dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en formulering van   de titels en de vragen in het model, moeten nageleefd worden. Bij   meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te   vermelden.<BR><BR>In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en   36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van   ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging   of aanvulling van de voorwaarden.<BR><BR>De uitspraak over een verzoek tot   wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing   indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen   aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<BR><BR>De bekendmaking   wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als   bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de   titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen   kan het voldoende zijn alleen het toepasselijke antwoord te vermelden. <BR><BR>§   5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze   bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van   artikel 45, § 4, 1°, c), van artikel 35, 5° of van artikel 36, 5°.<BR><BR>§ 6.   Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of   onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het   leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve   wijzigen of aanvullen.<BR><BR>Deze beslissing wordt bekendgemaakt overeenkomstig   de bepalingen van § 5.
+§ 1. De bevoegde overheid kan bij gemotiveerde beslissing de in de lopende   vergunning(en) opgelegde voorwaarden wijzigen of aanvullen:<BR>1°   ambtshalve;<BR>2° op verzoek van de in artikel 20 vermelde adviesorganen in   zoverre deze bevoegd zijn voor adviesverlening met betrekking tot bedoelde   inrichting;<BR>3° op verzoek van de exploitant;<BR>4° op verzoek van elke   natuurlijke persoon of rechtspersoon die tengevolge van de vestiging en de   exploitatie van de inrichting rechtstreeks hinder kan ondervinden;<BR>5° op   verzoek van elke rechtspersoon die zich de bescherming tot doel heeft gesteld   van het leefmilieu dat door de hinder tengevolge van de vestiging en de   exploitatie van de inrichting kan worden getroffen.<BR>6° op verzoek van de   toezichthouder. <BR><BR>Voor de toepassing van dit artikel wordt onder "bevoegde   overheid" verstaan de overheid die in eerste aanleg bevoegd is.<BR><BR>§ 2. Het   verzoek, bedoeld in § 1, dient per post aangetekende zending naar de overheid,   bevoegd in § 1, gestuurd te worden. <BR><BR>§ 3. Behoudens wanneer het gaat om   een ambtshalve beslissing, dient het in § 1 bedoelde verzoek te vermelden : <BR>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>1° de volgende gegevens van de   verzoeker: </P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>a) naam en voornaam,   hoedanigheid, adres ;</P>b) het telefoonnummer of het email-adres van een   contactpersoon;<BR>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>1°bis° de volgende gegevens van   de betrokken inrichting:</P>naam, adres van de exploitatiezetel;<BR>2° de   gevraagde wijziging of aanvulling van de opgelegde vergunningsvoorwaarden;<BR>3°   de motivering van de gevraagde wijziging of aanvulling;<BR>4° ...<BR><BR>Indien   het gaat om een ambtshalve beslissing inzake een GPBV-installatie, of een   inrichting die is ingedeeld in rubriek 2.3.11 van de indelingslijst, met   uitzondering van wat betrekking heeft op het inert afval, afval uit de winning,   de behandeling en de opslag van turf en het niet-gevaarlijk niet-inert afval,   tenzij deze worden gestort in een afvalvoorziening van categorie A, en met   uitzondering van de afvalvoorzieningen vermeld in artikel 5.2.6.10.1, § 3, van   titel II van het VLAREM, wordt het voornemen door de bevoegde overheid   omschreven in een brief aan de exploitant, met vermelding van wat bepaald werd   in het eerste lid, punt 1°,2° en 3°. <BR><BR>§ 4. Tenzij het gaat om een   ambtshalve beslissing, gelden met betrekking tot de adviesverlening, de   uitspraak, de stilzwijgende weigering en de bekendmaking volgend op een verzoek,   bedoeld in § 1, de volgende bepalingen:<BR>1° ...<BR>2° wanneer de bevoegde   overheid de deputatie is: artikel 35, 3°, 4°, 5° en 6° met dien verstande dat de   behandelingstermijn aanvangt op de datum van verzending van het in § 1 bedoelde   verzoek in plaats van op de datum van verklaring tot ontvankelijkheid en   volledigheid van de vergunningsaanvraag;<BR>3° wanneer de bevoegde overheid het   College van Burgemeester en Schepenen is: artikel 36, 3°, 4°, 5° en 6° met dien   verstande dat de behandelingstermijn aanvangt op de datum van verzending van het   in § 1 bedoelde verzoek in plaats van op de datum van verklaring tot   ontvankelijkheid en volledigheid van de vergunningsaanvraag. <BR><BR>Wanneer het   in § 1 bedoelde verzoek niet uitgaat van de exploitant, wordt deze laatste door   de in § 1 bedoelde overheid hiervan per ter post aangetekende zending in kennis   gesteld binnen een termijn van tien kalenderdagen na ontvangst van het   verzoek.<BR><BR>Wanneer het om een ambtshalve beslissing gaat inzake een in § 3,   tweede lid, bedoelde inrichting, wordt de exploitant door de in § 1 bedoelde   overheid in een vroeg stadium, per ter post aangetekende zending in kennis   gesteld van het voornemen van de overheid. <BR><BR>§ 4bis. Er wordt een openbaar   onderzoek georganiseerd overeenkomstig de procedure, artikel   17, §1, §2, §3, 2° tot en met 4°, artikel 19, 1° en 3°, artikel 35, 2°,   c) en d) en artikel 36, 2°, b) en c), tenzij de ambtshalve beslissing een   inrichting betreft die niet in § 3, tweede lid, is vermeld. <BR><BR>Als een   openbaar onderzoek is vereist, stuurt de overheid die bevoegd is voor de   wijziging of aanvulling van de vergunningsvoorwaarden, het verzoek of een brief   waarin het voornemen wordt geuit samen met de bijlagen aan de bevoegde   burgemeester met de opdracht tot het instellen van een openbaar onderzoek. De   bevoegde overheid doet dit op de dag van de verzending naar de exploitant van   het verzoek of het voornemen, of op de dag dat de ontvangstmelding van het   verzoek van de exploitant aan die exploitant wordt gestuurd.<BR><BR>In afwijking   van artikel 17, § 2, eerste lid, wordt de bekendmaking opgesteld overeenkomstig   het model dat als bijlage 8bis bij dit besluit is gevoegd. De volgorde en   formulering van de titels en de vragen in het model, moeten nageleefd worden.   Bij meerkeuzevragen kan het voldoende zijn alleen het toepasselijke antwoord te   vermelden.<BR><BR>In afwijking van artikel 17, § 2, derde lid, 35, 2°, c), en   36, 2°, b), vangt de daarin vermelde termijn aan de dag na de datum van   ontvangst van het verzoek of van de kennisgeving van het voornemen tot wijziging   of aanvulling van de voorwaarden.<BR><BR>De uitspraak over een verzoek tot   wijziging of aanvulling van de opgelegde voorwaarden en de ambtshalve beslissing   indien het een inrichting vermeld in § 3, tweede lid betreft, dient te voldoen   aan de bepaling en van artikel 30, § 1, 3°, 5° en 8°.<BR><BR>De bekendmaking   wordt, in afwijking van hoofdstuk IX, opgesteld overeenkomstig het model dat als   bijlage 10bis bij dit besluit is gevoegd. De volgorde en formulering van de   titels en de vragen in het model moeten nageleefd worden. Bij meerkeuzevragen   kan het voldoende zijn alleen het toepasselijke antwoord te vermelden. <BR><BR>§   5. Wanneer de in § 1 bedoelde beslissing ambtshalve wordt genomen, wordt deze   bekendgemaakt overeenkomstig, naargelang de inrichting, de bepalingen van   artikel 45, § 4, 1°, c), van artikel 35, 5° of van artikel 36, 5°.<BR><BR>§ 6.   Indien na aanmaning door de Vlaamse minister de bevoegde overheid niet, of   onvolkomen optreedt, of indien er ernstig gevaar dreigt voor de mens en het   leefmilieu, kan de Vlaamse minister de vergunningsvoorwaarden ambtshalve   wijzigen of aanvullen.<BR><BR>Deze beslissing wordt bekendgemaakt overeenkomstig   de bepalingen van § 5.
 
 ## HOOFDSTUK XII VERVAL, SCHORSING EN OPHEFFING VAN DE VERGUNNING
 
@@ -462,7 +495,7 @@ Indien de bevoegde overheid in het geval bedoeld in artikel 47, § 1 niet of onv
 
 ### ART. 50.
 
-Het in artikel 49 bedoelde beroep wordt bekendgemaakt en behandeld als   volgt:<BR><BR>1° onderzoek ontvankelijkheid:<BR>a) de deputatie of de door haar   daartoe gemachtigde provinciale ambtenaar onderzoekt het beroep en zijn bijlagen   op zijn ontvankelijkheid;<BR>b) wordt het beroep onontvankelijk bevonden, dan   wordt de indiener van het beroep door de deputatie of de in sub a) vermelde   gemachtigde ambtenaar binnen veertien kalenderdagen na het verstrijken van de   periode van bekendmaking bedoeld in artikel 31 hiervan per ter post aangetekend   schrijven in kennis gesteld; de procedure voor het niet ontvankelijk bevonden   beroep is hiermee beëindigd;<BR>heeft de onontvankelijkheid, bedoeld in het   eerste lid, evenwel betrekking op het niet bijvoegen van de door het artikel 49,   § 2 voorgeschreven bijlage(n), wordt de indiener van het beroep door de   deputatie of de gemachtigde ambtenaar, bedoeld in a), hiervan in kennis gesteld   bij ter post aangetekend schrijven; indien de indiener van het beroep binnen een   termijn van veertien kalenderdagen na verzending van voormelde kennisgeving, de   ontbrekende bijlage(n) niet heeft toegevoegd aan zijn eerder ingediend   beroepsschrift, wordt het beroep van rechtswege onontvankelijk; <BR>c) wordt het   beroep ontvankelijk bevonden, dan wordt de indiener van het beroep door de   deputatie of de in sub a) vermelde gemachtigde ambtenaar binnen veertien   kalenderdagen na het verstrijken van de periode van bekendmaking bedoeld in   artikel 31 hiervan per ter post aangetekend schrijven in kennis gesteld; in   zoverre het beroep niet door de exploitant is ingediend, wordt deze laatste   binnen dezelfde termijn door voormelde deputatie of gemachtigde ambtenaar per   ter post aangetekend schrijven kennis gegeven van het ontvankelijk   beroep;<BR><BR>2° adviesverlening:<BR>a) de deputatie of de in sub 1°, a)   vermelde gemachtigde ambtenaar zendt op de dag van de verzending van het in sub   1°, c) bedoelde schrijven een afschrift van het ontvankelijk bevonden beroep ter   kennisgeving aan het bevoegde College van Burgemeester en Schepenen; de   burgemeester maakt binnen een termijn van tien kalenderdagen, na ontvangst van   voormeld schrijven één exemplaar van het volledige vergunningsdossier dat het   voorwerp van het beroep uitmaakt aan de in artikel 22 bedoelde commissie   over;<BR>b) de deputatie of de in sub 1°, a) vermelde gemachtigde ambtenaar   zendt op de dag van de verzending van het in sub 1°, c) bedoelde schrijven, vijf   afschriften van het ontvankelijk bevonden beroep aan de in artikel 22 bedoelde   provinciale milieuvergunningscommissie met verzoek om advies;<BR>c) de   overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen alsmede   de in artikel 22 bedoelde provinciale milieuvergunningscommissie, brengen hun   advies uit overeenkomstig het bepaalde in respectievelijk de hoofdstukken VI en   VII; de voorzitter en de secretaris van voornoemde commissie zorgen voor de   uitvoering van de hen door de artikelen 23 en 24 toebedeelde   opdrachten.<BR><BR>3° uitspraak:<BR>a) de deputatie kan bij gemotiveerd besluit   de termijn waarbinnen zij uitspraak moet doen eenmaal verlengen met maximum één   maand; de deputatie of de gemachtigde ambtenaar, bedoeld in 1°, a), deelt deze   beslissing voor het verstrijken van de vastgestelde termijn bij ter post   aangetekende zending mee aan de aanvrager alsmede aan de indiener van het   beroep;<BR>b) binnen een termijn van vier maanden te rekenen vanaf de datum van   ontvangst van het beroep door de deputatie, of in voorkomend geval vóór het   verstrijken van de verlengde termijn, doet de deputatie uitspraak over het   beroep; deze uitspraak omvat een gemotiveerde beslissing over de aanspraken en   bezwaren die door de indiener(s) van het beroep werden gesteld; <BR><BR>4°   bekendmaking:<BR>a) de deputatie of de in sub 1°, a) vermelde gemachtigde   ambtenaar zendt binnen een termijn van tien kalenderdagen na de datum van de   beslissing, deze beslissing of een voor eensluidend verklaard afschrift ervan   per ter post aangetekende zending aan de bevoegde burgemeester met de opdracht   tot bekendmaking ervan;<BR>b) de bevoegde burgemeester maakt de beslissing over   het beroep bekend overeenkomstig het bepaalde in hoofdstuk IX;<BR>c) de   deputatie of de in sub 1°, a) vermelde gemachtigde ambtenaar zendt dezelfde dag   als tot de verzending bedoeld in sub a) wordt overgegaan, per ter post   aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend   verklaard afschrift van de beslissing ter kennisgeving aan:<BR>- de   exploitant;<BR>- de in artikel 22 bedoelde provinciale   milieuvergunningscommissie;<BR>- de overheidsorganen die overeenkomstig artikel   20 advies moeten verlenen;<BR>- de afdeling, bevoegd voor milieuhandhaving;<BR>-   de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>- de Vlaamse   Milieumaatschappij,<BR>- het College van Burgemeester en Schepenen;<BR>- de   Algemene Directie Toezicht op het Welzijn op het Werk van de FOD   Werkgelegenheid, Arbeid en Sociaal Overleg;<BR>-&nbsp;het comité voor preventie   en bescherming op het werk, vermeld in het het koninklijk besluit van 3 mei 1999   betreffende de opdrachten en de werking van de Comités voor Preventie en   Bescherming op het Werk, in zoverre dit bestaat;<BR>- indien het gaat om een   inrichting waarvoor een veiligheidsrapport is vereist, de Algemene Directie van   de Civiele Veiligheid van de Federale Overheidsdienst Binnenlandse   Zaken.<BR><BR>5° ...
+Het in artikel 49 bedoelde beroep wordt bekendgemaakt en behandeld als   volgt:<BR><BR>1° onderzoek ontvankelijkheid:<BR>a) de deputatie of de door haar   daartoe gemachtigde provinciale ambtenaar onderzoekt het beroep en zijn bijlagen   op zijn ontvankelijkheid;<BR>b) wordt het beroep onontvankelijk bevonden, dan   wordt de indiener van het beroep door de deputatie of de in sub a) vermelde   gemachtigde ambtenaar binnen veertien kalenderdagen na het verstrijken van de   periode van bekendmaking bedoeld in artikel 31 hiervan per ter post aangetekend   schrijven in kennis gesteld; de procedure voor het niet ontvankelijk bevonden   beroep is hiermee beëindigd;<BR>heeft de onontvankelijkheid, bedoeld in het   eerste lid, evenwel betrekking op het niet bijvoegen van de door het artikel 49,   § 2 voorgeschreven bijlage(n), wordt de indiener van het beroep door de   deputatie of de gemachtigde ambtenaar, bedoeld in a), hiervan in kennis gesteld   bij ter post aangetekend schrijven; indien de indiener van het beroep binnen een   termijn van veertien kalenderdagen na verzending van voormelde kennisgeving, de   ontbrekende bijlage(n) niet heeft toegevoegd aan zijn eerder ingediend   beroepsschrift, wordt het beroep van rechtswege onontvankelijk; <BR>c) wordt het   beroep ontvankelijk bevonden, dan wordt de indiener van het beroep door de   deputatie of de in sub a) vermelde gemachtigde ambtenaar binnen veertien   kalenderdagen na het verstrijken van de periode van bekendmaking bedoeld in   artikel 31 hiervan per ter post aangetekend schrijven in kennis gesteld; in   zoverre het beroep niet door de exploitant is ingediend, wordt deze laatste   binnen dezelfde termijn door voormelde deputatie of gemachtigde ambtenaar per   ter post aangetekend schrijven kennis gegeven van het ontvankelijk   beroep;<BR><BR>2° adviesverlening:<BR>a) de deputatie of de in sub 1°, a)   vermelde gemachtigde ambtenaar zendt op de dag van de verzending van het in sub   1°, c) bedoelde schrijven een afschrift van het ontvankelijk bevonden beroep ter   kennisgeving aan het bevoegde College van Burgemeester en Schepenen; de   burgemeester maakt binnen een termijn van tien kalenderdagen, na ontvangst van   voormeld schrijven één exemplaar van het volledige vergunningsdossier dat het   voorwerp van het beroep uitmaakt aan de in artikel 22 bedoelde commissie   over;<BR>b) de deputatie of de in sub 1°, a) vermelde gemachtigde ambtenaar   zendt op de dag van de verzending van het in sub 1°, c) bedoelde schrijven, vijf   afschriften van het ontvankelijk bevonden beroep aan de in artikel 22 bedoelde   provinciale milieuvergunningscommissie met verzoek om advies;<BR>c) de   overheidsorganen die overeenkomstig artikel 20 advies dienen te verlenen alsmede   de in artikel 22 bedoelde provinciale milieuvergunningscommissie, brengen hun   advies uit overeenkomstig het bepaalde in respectievelijk de hoofdstukken VI en   VII; de voorzitter en de secretaris van voornoemde commissie zorgen voor de   uitvoering van de hen door de artikelen 23 en 24 toebedeelde   opdrachten.<BR><BR>3° uitspraak:<BR>a) de deputatie kan bij gemotiveerd besluit   de termijn waarbinnen zij uitspraak moet doen eenmaal verlengen met maximum één   maand; de deputatie of de gemachtigde ambtenaar, bedoeld in 1°, a), deelt deze   beslissing voor het verstrijken van de vastgestelde termijn bij ter post   aangetekende zending mee aan de aanvrager alsmede aan de indiener van het   beroep;<BR>b) binnen een termijn van vier maanden te rekenen vanaf de datum van   ontvangst van het beroep door de deputatie, of in voorkomend geval vóór het   verstrijken van de verlengde termijn, doet de deputatie uitspraak over het   beroep; deze uitspraak omvat een gemotiveerde beslissing over de aanspraken en   bezwaren die door de indiener(s) van het beroep werden gesteld; <BR><BR>4°   bekendmaking:<BR>a) de deputatie of de in sub 1°, a) vermelde gemachtigde   ambtenaar zendt binnen een termijn van tien kalenderdagen na de datum van de   beslissing, deze beslissing of een voor eensluidend verklaard afschrift ervan   per ter post aangetekende zending aan de bevoegde burgemeester met de opdracht   tot bekendmaking ervan;<BR>b) de bevoegde burgemeester maakt de beslissing over   het beroep bekend overeenkomstig het bepaalde in hoofdstuk IX;<BR>c) de   deputatie of de in sub 1°, a) vermelde gemachtigde ambtenaar zendt dezelfde dag   als tot de verzending bedoeld in sub a) wordt overgegaan, per ter post   aangetekende zending of bij afgifte tegen ontvangstbewijs een voor eensluidend   verklaard afschrift van de beslissing ter kennisgeving aan:<BR>- de   exploitant;<BR>- de in artikel 22 bedoelde provinciale   milieuvergunningscommissie;<BR>- de overheidsorganen die overeenkomstig artikel   20 advies moeten verlenen;<BR>- de afdeling, bevoegd voor milieuhandhaving;<BR>-   de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>- de Vlaamse   Milieumaatschappij,<BR>- het College van Burgemeester en Schepenen;<BR>-   ...;<BR>-&nbsp;het comité voor preventie en bescherming op het werk, vermeld in   het het koninklijk besluit van 3 mei 1999 betreffende de opdrachten en de   werking van de Comités voor Preventie en Bescherming op het Werk, in zoverre dit   bestaat;<BR>- indien het gaat om een inrichting waarvoor een veiligheidsrapport   is vereist, de Algemene Directie van de Civiele Veiligheid van de Federale   Overheidsdienst Binnenlandse Zaken.<BR><BR>5° ...
 
 ## AFDELING 2 [BEROEPEN TEGEN IN EERSTE AANLEG DOOR DE BESTENDIGE DEPUTATIE VAN DE PROVINCIE GETROFFEN BESLISSINGEN OVER MILIEUVERGUN-NINGSAANVRAGEN EN GEDANE AKTENAMEN VAN MEDEDELINGEN KLEINE VERANDERINGEN (verv. B.V.R. 12 januari 1999, art. 50)]
 
@@ -472,7 +505,7 @@ Het in artikel 49 bedoelde beroep wordt bekendgemaakt en behandeld als   volgt:<
 
 ### ART. 52.
 
-Het in artikel 51 bedoelde beroep wordt bekendgemaakt en behandeld als   volgt:<BR><BR>1° onderzoek ontvankelijkheid:<BR>a) de Vlaamse minister of de   gemachtigde ambtenaar van het afdeling, bevoegd voor milieuvergunningen   onderzoekt het beroep en zijn bijlagen op zijn ontvankelijkheid;<BR>b) heeft de   onontvankelijkheid, bedoeld in het eerste lid, evenwel betrekking op het niet   bijvoegen van de door het artikel 49, § 2 voorgeschreven bijlage(n), wordt de   indiener van het beroep door de Vlaamse minister of de sub a) vermelde   gemachtigde ambtenaar hiervan in kennis gesteld bij ter post aangetekend   schrijven; indien de indiener van het beroep binnen een termijn van veertien   kalenderdagen na verzending van voormelde kennisgeving, de ontbrekende   bijlage(n) niet heeft toegevoegd aan zijn eerder ingediend beroepsschrift, wordt   het beroep van rechtswege onontvankelijk; <BR>c) wordt het beroep ontvankelijk   bevonden, dan wordt de indiener van het beroep door de Vlaamse minister of de in   sub a) vermelde gemachtigde ambtenaar binnen veertien kalenderdagen na het   verstrijken van de periode van bekendmaking bedoeld in artikel 31 hiervan per   ter post aangetekend schrijven in kennis gesteld; in zoverre het beroep niet   door de exploitant is ingediend, wordt deze laatste binnen dezelfde termijn door   voormelde Vlaamse minister of gemachtigde ambtenaar per ter post aangetekend   schrijven kennis gegeven van het ontvankelijk beroep;<BR><BR>2°   adviesverlening:<BR>a) de Vlaamse minister of de in sub 1°, a) vermelde   gemachtigde ambtenaar zendt op de dag van de verzending van het in sub 1°, c)   bedoelde schrijven, een afschrift van het ontvankelijk bevonden beroep ter   kennisgeving aan de bevoegde deputatie alsmede aan de burgemeester van de   gemeente(n) waarin de exploitatie is gepland of gebeurt;<BR>de deputatie of de   door haar daartoe gemachtigde ambtenaar maakt binnen een termijn van tien   kalenderdagen na ontvangst van voormeld schrijven één exemplaar van het   volledige vergunningsdossier dat het voorwerp van het beroep uitmaakt aan de in   artikel 26 bedoelde commissie over;<BR>b) de Vlaamse minister of de in sub 1°,   a) vermelde gemachtigde ambtenaar zendt op de dag van de verzending van het in   sub 1°, c) bedoelde schrijven, vijf afschriften van het ontvankelijk bevonden   beroep aan de in artikel 26 bedoelde gewestelijke milieuvergunningscommissie met   verzoek om advies;<BR>c) de overheidsorganen die overeenkomstig artikel 20   advies dienen te verlenen alsmede de in artikel 26 bedoelde gewestelijke   milieuvergunningscommissie, brengen hun advies uit overeenkomstig het bepaalde   in respectievelijk de hoofdstukken VI en VII; de voorzitter en de secretaris van   voornoemde commissie zorgen voor de uitvoering van de hen door de artikelen 27   en 28 toebedeelde opdrachten;<BR><BR>3° uitspraak:<BR>a) de Vlaamse minister kan   bij gemotiveerd besluit de termijn waarbinnen hij een uitspraak moet doen   eenmaal verlengen met maximum één maand; de Vlaamse minister of de gemachtigde   ambtenaar, bedoeld in 1°, a), deelt deze beslissing voor het verstrijken van de   vastgestelde termijn bij ter post aangetekende zending mee aan de aanvrager   alsmede aan de indiener van het beroep;<BR>b) binnen een termijn van vijf   maanden te rekenen vanaf de datum van ontvangst van het beroep door de Vlaamse   minister, of in voorkomend geval voor het verstrijken van de verlengde termijn,   doet de Vlaamse minister uitspraak over het beroep; deze uitspraak omvat een   gemotiveerde beslissing over de aanspraken en bezwaren die door de indiener(s)   van het beroep werden gesteld; <BR><BR>4° bekendmaking:<BR>a) de Vlaamse   minister of de in sub 1°, a) vermelde gemachtigde ambtenaar zendt binnen een   termijn van tien kalenderdagen na de datum van de beslissing, deze beslissing of   een voor eensluidend verklaard afschrift ervan per ter post aangetekende zending   aan de bevoegde burgemeester met de opdracht tot bekendmaking ervan;<BR>b) de   bevoegde burgemeester maakt de beslissing over het beroep bekend overeenkomstig   het bepaalde in hoofdstuk IX;<BR>c) de Vlaamse minister of de onder sub 1°, a)   vermelde gemachtigde ambtenaar zendt dezelfde dag als tot de verzending bedoeld   in sub a) wordt overgegaan, per ter post aangetekende zending of bij afgifte   tegen ontvangstbewijs een voor eensluidend verklaard afschrift van de beslissing   ter kennisgeving aan:<BR>- de exploitant;<BR>- de in artikel 26 bedoelde   gewestelijke milieuvergunningscommissie;<BR>- de deputatie van de provincie   waartoe de percelen van de inrichting behoren;<BR>- de overheidsorganen die   overeenkomstig artikel 20 advies moeten verlenen;<BR>- de afdeling, bevoegd voor   milieuvergunningen;<BR>- de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>- de   Vlaamse Milieumaatschappij;<BR>- de Algemene Directie Toezicht op het Welzijn op   het Werk van de FOD Werkgelegenheid, Arbeid en Sociaal Overleg;<BR>- het comité   voor preventie en bescherming op het werk, vermeld in het het koninklijk besluit   van 3 mei 1999 betreffende de opdrachten en de werking van de Comités voor   Preventie en Bescherming op het Werk in zoverre dit bestaat;<BR>- indien het   gaat om een inrichting waarvoor een veiligheidsrapport is vereist, de Algemene   Directie van de Civiele Veiligheid van de Federale Overheidsdienst Binnenlandse   Zaken.<BR><BR>5° ...
+Het in artikel 51 bedoelde beroep wordt bekendgemaakt en behandeld als   volgt:<BR><BR>1° onderzoek ontvankelijkheid:<BR>a) de Vlaamse minister of de   gemachtigde ambtenaar van het afdeling, bevoegd voor milieuvergunningen   onderzoekt het beroep en zijn bijlagen op zijn ontvankelijkheid;<BR>b) heeft de   onontvankelijkheid, bedoeld in het eerste lid, evenwel betrekking op het niet   bijvoegen van de door het artikel 49, § 2 voorgeschreven bijlage(n), wordt de   indiener van het beroep door de Vlaamse minister of de sub a) vermelde   gemachtigde ambtenaar hiervan in kennis gesteld bij ter post aangetekend   schrijven; indien de indiener van het beroep binnen een termijn van veertien   kalenderdagen na verzending van voormelde kennisgeving, de ontbrekende   bijlage(n) niet heeft toegevoegd aan zijn eerder ingediend beroepsschrift, wordt   het beroep van rechtswege onontvankelijk; <BR>c) wordt het beroep ontvankelijk   bevonden, dan wordt de indiener van het beroep door de Vlaamse minister of de in   sub a) vermelde gemachtigde ambtenaar binnen veertien kalenderdagen na het   verstrijken van de periode van bekendmaking bedoeld in artikel 31 hiervan per   ter post aangetekend schrijven in kennis gesteld; in zoverre het beroep niet   door de exploitant is ingediend, wordt deze laatste binnen dezelfde termijn door   voormelde Vlaamse minister of gemachtigde ambtenaar per ter post aangetekend   schrijven kennis gegeven van het ontvankelijk beroep;<BR><BR>2°   adviesverlening:<BR>a) de Vlaamse minister of de in sub 1°, a) vermelde   gemachtigde ambtenaar zendt op de dag van de verzending van het in sub 1°, c)   bedoelde schrijven, een afschrift van het ontvankelijk bevonden beroep ter   kennisgeving aan de bevoegde deputatie alsmede aan de burgemeester van de   gemeente(n) waarin de exploitatie is gepland of gebeurt;<BR>de deputatie of de   door haar daartoe gemachtigde ambtenaar maakt binnen een termijn van tien   kalenderdagen na ontvangst van voormeld schrijven één exemplaar van het   volledige vergunningsdossier dat het voorwerp van het beroep uitmaakt aan de in   artikel 26 bedoelde commissie over;<BR>b) de Vlaamse minister of de in sub 1°,   a) vermelde gemachtigde ambtenaar zendt op de dag van de verzending van het in   sub 1°, c) bedoelde schrijven, vijf afschriften van het ontvankelijk bevonden   beroep aan de in artikel 26 bedoelde gewestelijke milieuvergunningscommissie met   verzoek om advies;<BR>c) de overheidsorganen die overeenkomstig artikel 20   advies dienen te verlenen alsmede de in artikel 26 bedoelde gewestelijke   milieuvergunningscommissie, brengen hun advies uit overeenkomstig het bepaalde   in respectievelijk de hoofdstukken VI en VII; de voorzitter en de secretaris van   voornoemde commissie zorgen voor de uitvoering van de hen door de artikelen 27   en 28 toebedeelde opdrachten;<BR><BR>3° uitspraak:<BR>a) de Vlaamse minister kan   bij gemotiveerd besluit de termijn waarbinnen hij een uitspraak moet doen   eenmaal verlengen met maximum één maand; de Vlaamse minister of de gemachtigde   ambtenaar, bedoeld in 1°, a), deelt deze beslissing voor het verstrijken van de   vastgestelde termijn bij ter post aangetekende zending mee aan de aanvrager   alsmede aan de indiener van het beroep;<BR>b) binnen een termijn van vijf   maanden te rekenen vanaf de datum van ontvangst van het beroep door de Vlaamse   minister, of in voorkomend geval voor het verstrijken van de verlengde termijn,   doet de Vlaamse minister uitspraak over het beroep; deze uitspraak omvat een   gemotiveerde beslissing over de aanspraken en bezwaren die door de indiener(s)   van het beroep werden gesteld; <BR><BR>4° bekendmaking:<BR>a) de Vlaamse   minister of de in sub 1°, a) vermelde gemachtigde ambtenaar zendt binnen een   termijn van tien kalenderdagen na de datum van de beslissing, deze beslissing of   een voor eensluidend verklaard afschrift ervan per ter post aangetekende zending   aan de bevoegde burgemeester met de opdracht tot bekendmaking ervan;<BR>b) de   bevoegde burgemeester maakt de beslissing over het beroep bekend overeenkomstig   het bepaalde in hoofdstuk IX;<BR>c) de Vlaamse minister of de onder sub 1°, a)   vermelde gemachtigde ambtenaar zendt dezelfde dag als tot de verzending bedoeld   in sub a) wordt overgegaan, per ter post aangetekende zending of bij afgifte   tegen ontvangstbewijs een voor eensluidend verklaard afschrift van de beslissing   ter kennisgeving aan:<BR>- de exploitant;<BR>- de in artikel 26 bedoelde   gewestelijke milieuvergunningscommissie;<BR>- de deputatie van de provincie   waartoe de percelen van de inrichting behoren;<BR>- de overheidsorganen die   overeenkomstig artikel 20 advies moeten verlenen;<BR>- de afdeling, bevoegd voor   milieuvergunningen;<BR>- de Openbare Vlaamse Afvalstoffenmaatschappij;<BR>- de   Vlaamse Milieumaatschappij;<BR>- ...;<BR>- het comité voor preventie en   bescherming op het werk, vermeld in het het koninklijk besluit van 3 mei 1999   betreffende de opdrachten en de werking van de Comités voor Preventie en   Bescherming op het Werk in zoverre dit bestaat;<BR>- indien het gaat om een   inrichting waarvoor een veiligheidsrapport is vereist, de Algemene Directie van   de Civiele Veiligheid van de Federale Overheidsdienst Binnenlandse   Zaken.<BR><BR>5° ...
 
 ## AFDELING 3 BIJZONDERE BEPALINGEN
 
@@ -803,24 +836,27 @@ Kolom 8&nbsp;&nbsp;<em>"VLAREBO"</em><br>
 <br>
 Onderstaande symbolen zijn gekozen ter uitvoering van het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming (Bodemdecreet) en het besluit van de Vlaamse Regering van 14 december 2007 betreffende de bodemsanering en de bodembescherming (VLAREBO).<br>
 <br>
-O = Inrichting waarvoor conform het&nbsp;Bodemdecreet en VLAREBO&nbsp;een oriënterend onderzoekverplicht is bij overdracht, onteigening, sluiting, faillissement envereffening.<br>
-A = Inrichting waarvoor conform het Bodemdecreet en het Vlarebo een oriënterend onderzoek verplicht is bij overdracht, onteigening, sluiting,faillissement en vereffening, en om de twintig jaar.<br>
-B = Inrichting waarvoor conform het Bodemdecreet en het Vlarebo een oriënterend onderzoek verplicht is bij overdracht, onteigening, sluiting,faillissement en vereffening, en om de tien jaar.<br>
-S = Inrichting waarvoor conform artikel 33bis van het Bodemdecreet en artikel 17 van het decreet van 25 mei 2012 tot wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming met het oog op de omzetting van de Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging), de exploitant onder leiding van een bodemsaneringsdeskundige een oriënterend bodemonderzoek uitvoert en het verslag ervan aan de OVAM bezorgt op het volgende tijdstip :<br>
-1° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid wordt ingediend en de inrichting in gebruik genomen wordt op of na de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen : vóór de milieuvergunningsaanvraag bij de vergunningverlenende overheid wordt ingediend;<br>
-2° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid werd ingediend en de inrichting in gebruik genomen werd vóór de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen, of als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid werd ingediend na 6 januari 2013 en vóór de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen en de inrichting in gebruik genomen wordt op of na de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen : vóór 7 januari 2014. In afwijking daarvan is het oriënterend bodemonderzoek verplicht vóór 7 juli 2015 als het gaat om een inrichting die ingedeeld is onder een van de volgende rubrieken :<br>
-a) 2.4.1. en 2.4.2 voor activiteiten die niet vielen onder de rubrieken 2.2.4.g), 2.2.7, 2.3.4.4, 2.3.8, 2.3.9.b) en c) en 2.3.10 zoals geldig vóór de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen;<br>
+O = Inrichting waarvoor conform het Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht, sluiting en faillissement<br>
+<br>
+A= Inrichting waarvoor conform het Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht,&nbsp; sluiting en faillissement, en om de twintig jaar<br>
+<br>
+B= Inrichting waarvoor conform het Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht,&nbsp; sluiting en faillissement, en om de tien jaar<br>
+<br>
+S= Inrichting waarvoor conform artikel 33bis van het Bodemdecreet en artikel 17 van het decreet van 25 mei 2012 tot wijziging van het decreet van 28 juni 1985 betreffende de milieuvergunning, het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het decreet van 27 oktober 2006 betreffende de bodemsanering en de bodembescherming met het oog op de omzetting van de Richtlijn 2010/75/EU van het Europees Parlement en de Raad van 24 november 2010 inzake industriële emissies (geïntegreerde preventie en bestrijding van verontreiniging), de exploitant onder leiding van een bodemsaneringsdeskundige een oriënterend bodemonderzoek uitvoert en het verslag ervan aan de OVAM bezorgt op het volgende tijdstip:<br>
+1° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid wordt ingediend en de inrichting in gebruik genomen wordt op of na 20 september 2013: vóór de milieuvergunningsaanvraag bij de vergunningverlenende overheid wordt ingediend;<br>
+2° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid werd ingediend en de inrichting in gebruik genomen werd vóór 20 september 2013, of als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag bij de vergunningverlenende overheid&nbsp; na 6 januari 2013 en vóór 20 september 2013 werd ingediend en de inrichting in gebruik genomen wordt op of na 20 september 2013: vóór 7 januari 2014. In afwijking daarvan is het oriënterend bodemonderzoek verplicht vóór 7 juli 2015 als het gaat om een inrichting die ingedeeld is onder een van de volgende rubrieken:<br>
+a) 2.4.1. en 2.4.2 voor activiteiten die niet vielen onder de rubrieken 2.2.4.g), 2.2.7, 2.3.4.4, 2.3.8, 2.3.9.b) en c) en 2.3.10 zoals geldig vóór 20 september 2013;<br>
 b) 2.4.3.a), iii) tot en met v);<br>
 c) 2.4.3.b);<br>
 d) 2.4.5;<br>
 e) 2.4.6;<br>
 f) 3.6.7;<br>
-g) 19.4.4° ;<br>
+g)19.4.4°;<br>
 h) 20.1.3.b);<br>
 i) 5.5. voor activiteiten betreffende productie door biologische omzetting;<br>
 j) 7.11. voor activiteiten betreffende productie door biologische omzetting;<br>
-k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<br>
-3° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag vóór 7 januari 2013 bij de vergunningverlenende overheid werd ingediend en de inrichting nog niet in gebruik genomen werd op de datum van inwerkingtreding van artikel 30 van het besluit van de Vlaamse Regering tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen : vóór de inrichting in gebruik genomen wordt.</p>
+k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;<br>
+3° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag vóór 7 januari 2013 bij de vergunningverlenende overheid werd ingediend en de inrichting nog niet in gebruik genomen werd op 20 september 2013: vóór de inrichting in gebruik genomen wordt.</p>
 
 ### rubriek 1
 
@@ -1091,7 +1127,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><strong>Afvalstoffen</strong></p>
 
-			<p>Inrichtingen voor de verwerking van afvalstoffen overeenkomstig het decreet van 2 juli 1981 betreffende de voorkoming en het beheer van afvalstoffen en zijn uitvoeringsbesluiten.</p>
+			<p>Inrichtingen voor de verwerking van afvalstoffen overeenkomstig het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen (Materialendecreet) en zijn uitvoeringsbesluiten.</p>
 
 			<p><em><u>Opmerkingen:</u></em></p>
 
@@ -1191,9 +1227,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p><em>b) de opslag van inerte bouw- en sloopafval op terreinen of bij installaties waarvoor een geldige milieu- of bouwvergunning werd afgeleverd en voor zover deze opslag bijdraagt tot het realiseren van het voorwerp van de vergunning;</em></p>
 
-			<p><em>c) de opslag van gerecupereerde bouwmaterialen.</em></p>
-
-			<p>Deze opslag kan wel ingedeeld zijn volgens een andere rubriek (zie o.a. rubriek 30).</p>
+			<p><em>c) ...</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p><br>
@@ -1269,7 +1303,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -1415,7 +1449,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><br>
 			<u>Opslag en nuttige toepassing van afvalstoffen</u></p>
 
-			<p><em>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van het merendeel van de afvalstoffen mogelijk wordt.</em> Het verbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder 2.3.</p>
+			<p><em>Alle inrichtingen onder 2.2. zijn inrichtingen waarin handelingen gebeuren waardoor nuttige toepassing van het merendeel van de afvalstoffen mogelijk wordt.</em> Het verbranden en meeverbranden van afvalstoffen, alsook het reinigen van recipiënten door uitbranden, zijn ingedeeld onder rubriek 2.3., ook als die handeling als een nuttige toepassing (terugwinning van energie of stoffen) wordt beschouwd.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -1595,7 +1629,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -1673,7 +1707,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p>A</p>
 			</td>
 		</tr>
 		<tr>
@@ -1725,7 +1759,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -1967,7 +2001,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>B</p>
 			</td>
 		</tr>
 		<tr>
@@ -2295,7 +2329,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p>A</p>
 			</td>
 		</tr>
 		<tr>
@@ -2347,7 +2381,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2364,7 +2398,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>O, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -2407,7 +2441,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><br>
 			Opslag en biologische behandeling van:</p>
 
-			<p>nuttige toepassing op de plaats van productie, inclusief thuiscompostering, alsook boerderijcompostering wanneer er gewerkt wordt met uitsluitend bedrijfseigen uitgangsmateriaal en de compost uitsluitend bestemd is voor de eigen percelen, wordt niet als opslag of behandeling van afvalstoffen beschouwd</p>
+			<p>nuttige&nbsp;aanwending op de plaats van productie, inclusief thuiscompostering, alsook boerderijcompostering wanneer er gewerkt wordt met uitsluitend bedrijfseigen uitgangsmateriaal en de compost uitsluitend bestemd is voor de eigen percelen, wordt niet als opslag of behandeling van afvalstoffen beschouwd</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -2529,7 +2563,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2605,7 +2639,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2631,7 +2665,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2671,7 +2705,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>O, T</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
@@ -2701,7 +2735,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2727,7 +2761,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2831,7 +2865,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2857,7 +2891,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -2893,177 +2927,547 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><br>
-			Dierlijke bijproducten niet bestemd voor menselijke consumptie die worden beschouwd als afvalstoffen zoals bedoeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen. Voor dierlijke bijproducten niet bestemd voor menselijke consumptie, andere dan afvalstoffen: zie inzonderheid indelingsrubriek 45.18. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</p>
+			Dierlijke bijproducten die worden beschouwd als afvalstoffen&nbsp; zoals vermeld in het<strong> </strong>decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen.</p>
 
-			<p>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU-verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</p>
+			<p>Voor de toepassing van deze rubriek gelden de bepalingen conform de verordening dierlijke bijproducten en haar uitvoerende verordening (EU) nr. 142/2011.&nbsp;<br>
+			Voor dierlijke bijproducten, andere dan afvalstoffen: zie inzonderheid rubriek 45.18.<br>
+			Het composteren en vergisten van dierlijk afval valt onder de toepassing van rubriek 2.2.3.<br>
+			De verwijdering van krengen van gezelschapsdieren door begraving valt onder de toepassing van de rubriek 2.3.12.<br>
+			De verwijdering van dierlijk afval door verbranding valt onder de toepassing van de rubriek 2.3.4.<br>
+			De destructie of verwerking van kadavers of dierlijk afval met een verwerkingscapaciteit van meer dan 10 ton per dag valt onder de toepassing van de rubriek 2.4.7.<br>
+			De bewerking en verwerking van dierlijke mest vallen onder de toepassing van de rubriek 28.3.</p>
 
-			<p>1° “dierlijke bijproducten”: hele kadavers of delen van dieren of producten van dierlijke oorsprong, zoals bedoeld in de artikelen 4, 5 en 6 van de EU-verordening nr. 1774/2002, die niet voor menselijke consumptie bestemd zijn, met inbegrip van eicellen, embryo’s en sperma;</p>
+			<p>1° op- en overslag van dierlijke bijproducten</p>
 
-			<p>2° “dierlijk afval”: dierlijke bijproducten, voor zover ze voldoen aan de definitie van afval uit het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen, met uitzondering van keukenafval, etensresten, voormalige voedingsmiddelen, rauwe melk, eierschalen en bijproducten van gebarsten eieren, honing, schalen van schaaldieren, schelpen van schelpdieren, de inhoud van het maagdarmkanaal, in zoverre deze gescheiden is van het maagdarmkanaal, uitwerpselen, eicellen, embryo’s en sperma;</p>
+			<p>2° Opslag en activiteiten van</p>
 
-			<p>3° “categorie 1-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 4 van bovenvermelde EU-verordening nr. 1774/2002;</p>
+			<p>a)&nbsp;&nbsp;&nbsp; categorie 3-materiaal</p>
 
-			<p>4° “categorie 2-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 5 van bovenvermelde EU-verordening nr. 1774/2002;</p>
+			<p>b)&nbsp;&nbsp;&nbsp; categorie 2-materiaal</p>
 
-			<p>5° “categorie 3-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 6 van bovenvermelde EU-verordening nr. 1774/2002;</p>
-
-			<p>6° “intermediair categorie 1- of categorie 2-bedrijf”: een bedrijf waar niet verwerkt categorie 1- of categorie 2-materiaal wordt gehanteerd en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming en waar bepaalde voorbereidende activiteiten, zoals het verwijderen van huiden en het verrichten van keuringen na de slacht, kunnen plaatsvinden;</p>
-
-			<p>7° “intermediair categorie 3-bedrijf”: een bedrijf waar niet verwerkt categorie 3-materiaal wordt gesorteerd en/of versneden en/of gekoeld of diepgevroren in blokken en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming;</p>
-
-			<p>8° “verwerkingsbedrijf”: een bedrijf waar dierlijke bijproducten worden verwerkt waarbij onder “verwerkte producten” wordt verstaan dierlijke bijproducten die een van de verwerkingsmethoden of een andere behandeling volgens de eisen van bijlage VII of VIII van de EU-verordening hebben ondergaan;</p>
-
-			<p>9° “opslagbedrijf”: een bedrijf, met uitzondering van de onder EG-richtlijn 95/69/EG van 22 december 1995 houdende vaststelling van de voorwaarden en bepalingen voor de erkenning en de registratie van bedrijven en tussenpersonen in de sector diervoeding vallende bedrijven en tussenpersonen, waar verwerkte producten tijdelijk worden opgeslagen voordat zij voor hun einddoel worden gebruikt of definitief worden verwijderd;</p>
-
-			<p>10° “technisch bedrijf”: een bedrijf waar dierlijke bijproducten worden gebruikt voor de vervaardiging van technische producten waarbij onder “technische producten” wordt verstaan rechtstreeks van bepaalde dierlijke bijproducten vervaardigde producten die niet voor menselijke consumptie of diervoeding bestemd zijn, zoals gelooide en behandelde huiden, jachttrofeeën, bewerkte wol, haar, varkenshaar, veren en delen van veren, serum van paardachtigen, bloedproducten, farmaceutische producten, medische hulpmiddelen, cosmetische producten, beenderproducten voor porselein, gelatine en lijm, biologische meststoffen, bodemverbeteraars, gesmolten vet, vetderivaten, verwerkte mest en melk van producten op basis van melk.</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; c) categorie 1-materiaal</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>a) opslagbedrijf</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>G, O, T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>b) intermediair categorie 3-bedrijf</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>A, G, O, T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>c) intermediair categorie 1- of categorie 2-bedrijf</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>G, O, T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>d) verwerkingsbedrijf van categorie 3-materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
 			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>A, G, O, T</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>e) verwerkingsbedrijf van categorie 2-materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+
+			<p>1</p>
+
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>G, M, O, T</p>
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G,O,T,A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>G,O,T,A</p>
+
+			<p>G,M,O,T</p>
+
+			<p>G,M,O,T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
+
 			<p>B</p>
+
+			<p>A</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>P</p>
+
 			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J</p>
+
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>A</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
+
+			<p>A</p>
+
+			<p>A</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3071,25 +3475,49 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
-			<p>f) verwerkingsbedrijf van categorie 1-materiaal</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>1</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
-			<p>G, M, O, T</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>P</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
-			<p>J</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:35.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3497,7 +3925,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3575,7 +4003,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -3979,7 +4407,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p><em>Alle inrichtingen onder 2.3. zijn inrichtingen waarin handelingen gebeuren die leiden tot de vernietiging of de definitieve opslag in of op de bodem van afvalstoffen, met uitzondering van subrubriek 2.3.11.</em></p>
 
-			<p><em>Het verbranden en meeverbranden van afvalstoffen al of niet met terugwinning van energie en/of stoffen alsook het reinigen van recipiënten door uitbranden, zijn gerangschikt onder deze rubriek 2.3.</em></p>
+			<p>Het verbranden en meeverbranden van afvalstoffen alsook het reinigen van recipiënten door uitbranden zijn ingedeeld onder deze rubriek 2.3., ook als die handeling als een nuttige toepassing (terugwinning van energie en/of stoffen) wordt beschouwd<em>.</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -4494,7 +4922,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -4530,11 +4958,18 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:7cm">
 			<p><br>
-			Opslag en verbranding of meeverbranding, al dan niet als experiment, met of zonder energiewinning en met of zonder terugwinning van stoffen van:</p>
+			Opslag en verbranding of meeverbranding, al dan niet als experiment, met of zonder energiewinning en met of zonder terugwinning van stoffen van:<br>
+			Uitzondering:<br>
+			De volgende activiteiten zijn niet ingedeeld:<br>
+			1. het verbranden van de hierna vernoemde stoffen in toestellen, voor de verwarming van woonverblijven en werkplaatsen, in sfeerverwarmers en gelijksoortige toestellen met een nominaal thermisch vermogen van maximaal 300 kW: onbehandeld houtafval met een watergehalte van maximaal 20%, uitgezonderd zaagsel, krullen, schaafsel, stof en spanen;<br>
+			2. het maken van vuur in open lucht indien nodig bij het beheer van bossen, als beheersmaatregel, als fytosanitaire maatregel of als onderdeel van een wetenschappelijk experiment, in overeenstemming met de bepalingen van het Bosdecreet van 13 juni 1990;<br>
+			3. het maken van vuur in open lucht in natuurgebieden, als beheermaatregel, wanneer afvoer of verwerking ter plaatse van het biomassa-afval niet mogelijk is, of als fytosanitaire maatregel;<br>
+			4. de verbranding in open lucht van plantaardige afvalstoffen afkomstig van eigen bedrijfslandbouwkundige werkzaamheden, als afvoer of verwerking ter plaatse van het biomassa-afval niet mogelijk is, of &nbsp;als dat vanuit fytosanitair oogpunt noodzakelijk is;<br>
+			5. het verbranden van droog onbehandeld hout bij het maken van een open vuur;<br>
+			6. het verbranden van droog onbehandeld hout of een vaste fossiele brandstof in een sfeerverwarmer;<br>
+			7. het verbranden van dierlijk afval, in overeenstemming met de bepalingen, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 21 juni 2013 betreffende dierlijke bijproducten en afgewerkte producten;</p>
 
-			<p><em>Uitzondering:</em></p>
-
-			<p><em>het verbranden van onbehandeld stukhout in houtkachels voor de verwarming van woonverblijven en werkplaatsen, in sfeerverwarmers en gelijksoortige toestellen met een nominaal thermisch vermogen van maximaal 300 kW, is geen inrichting voor de verwerking van afvalstoffen.</em></p>
+			<p>8. het verbranden van droog onbehandeld hout en onversierde kerstbomen in het kader van folkloristische evenementen<em>.</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -4838,7 +5273,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -4890,7 +5325,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -8310,7 +8745,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>3.4</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; height:11.35pt; vertical-align:top; width:7cm">
-			<p>Het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat al of niet één of meer van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet:</p>
+			<p>Het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat al of niet één of meer van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet:<br>
+			<br>
+			opmerking: indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -8648,7 +9085,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; height:11.35pt; vertical-align:top; width:7cm">
-			<p>3. voor de behandeling van bedrijfsafvalwater dat af of niet één of meer van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met uitzondering van de in rubriek 3.6.5 ingedeelde inrichtingen, met een effluent:</p>
+			<p>3. voor de behandeling van bedrijfsafvalwater dat af of niet één of meer van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met uitzondering van de in rubriek 3.6.5 ingedeelde inrichtingen, met een effluent:<br>
+			<br>
+			opmerking: indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; height:11.35pt; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -9023,8 +9462,6 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 ### rubriek 4
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
@@ -9132,7 +9569,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; height:11.35pt; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -12679,7 +13116,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><strong>9.</strong></p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><strong>Dieren</strong></p>
+			<p><strong>Dieren</strong><br>
+			<br>
+			De gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet-vervallen verkavelingsvergunning.</p>
+
+			<p>Als de bestemming is vastgelegd in een ruimtelijk uitvoeringsplan, wordt onder “woongebied met landelijk karakter” de subcategorie van gebiedsaanduiding “gebied voor wonen en landbouw” verstaan.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -13154,7 +13595,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1. Kippenstal, stal voor pluimvee en/of niet onder rubrieken 9.2.2.f) en 9.3.2. begrepen gevogelte, waaronder verstaan wordt, één of meer gebouwen en/of installaties waarin leghennen en mestkippen respectievelijk pluimvee en/of gevogelte gefokt of gehouden worden, duiventillen met geringde duiven voor wedstrijddoeleinden uitgezonderd (gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>1. Kippenstal, stal voor pluimvee en/of niet onder rubrieken 9.2.2.f) en 9.3.2. begrepen gevogelte, waaronder verstaan wordt, één of meer gebouwen en/of installaties waarin leghennen en mestkippen respectievelijk pluimvee en/of gevogelte gefokt of gehouden worden, duiventillen met geringde duiven voor wedstrijddoeleinden uitgezonderd met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval</p>
 
@@ -13446,7 +13887,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2. Struisvogels, emoes, e.d.</p>
 
-			<p>Inrichtingen waarin struisvogels en/of emoes e.d. worden gefokt of gehouden (gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>Inrichtingen waarin struisvogels en/of emoes e.d. worden gefokt of gehouden&nbsp; met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -13710,7 +14151,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>9.4</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><u>Inheemse zoogdieren, andere dan bedoeld onder de rubrieken 9.6, 9.7, 9.8 en 9.9</u></p>
+			<p><u>Zoogdieren, andere dan&nbsp;vermeld onder de rubrieken 9.2.2°, a), 9.6, 9.7, 9.8 en 9.9</u></p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -13738,7 +14179,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>1. Varkens</p>
 
-			<p>Varkensstal, waaronder verstaan één of meer gebouwen en/of installaties waarin varkens gefokt of gehouden worden (gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>Varkensstal, waaronder verstaan één of meer gebouwen en/of installaties waarin varkens gefokt of gehouden worden&nbsp; met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -14084,7 +14525,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>2. Mestkalveren</p>
 
-			<p>Stallen voor mestkalveren, waaronder verstaan één of meer gebouwen en/of installaties waarin mestkalveren gefokt of gehouden worden (gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>Stallen voor mestkalveren, waaronder verstaan één of meer gebouwen en/of installaties waarin mestkalveren gefokt of gehouden worden&nbsp; met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -14348,9 +14789,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3. Inheemse grote zoogdieren (paard- en runderachtigen)</p>
+			<p>3.&nbsp;Grote zoogdieren (paard- en runderachtigen)</p>
 
-			<p>Stallen voor inheemse grote zoogdieren, inzonderheid paarden, koeien, runderen, waaronder verstaan één of meer gebouwen en/of installaties waarin grote zoogdieren andere dan varkens of mestkalveren gefokt of gehouden worden (gebieden bepaald volgens de begrippen van het koninklijk besluit van 287 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen° met inbegrip van:</p>
+			<p>Stallen voor&nbsp;grote zoogdieren, inzonderheid paarden en runderachtigen, waaronder verstaan één of meer gebouwen en/of installaties waarin grote zoogdieren andere dan varkens of mestkalveren gefokt of gehouden worden&nbsp; met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -14626,9 +15067,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>C. het aantal mestkalveren (cfr. 9.4.2.);</p>
 
-			<p>D. het aantal inheemse grote zoogdieren (cfr. 9.4.3.);</p>
+			<p>D. het aantal&nbsp; grote zoogdieren (cfr. 9.4.3.);</p>
 
-			<p>(gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>&nbsp;met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -14866,15 +15307,53 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; 2° inrichtingen waarbij de som (A/20.000) + (B/1.000) + (C/500) + (D/200) ) &gt; 1</p>
+			<p>&nbsp;&nbsp; 2° inrichtingen waarbij de som (A/20.000) + (B/1.000) + (C/500) + (D/200) ) &gt; 1<br>
+			d) een gemengde inrichting die reeds valt onder punt a), b), of c), met onder andere als onderdeel een intensieve pluimveehouderij met meer dan 40.000 plaatsen voor pluimvee<br>
+			e)&nbsp;&nbsp;&nbsp; een gemengde inrichting die reeds valt onder punt a), b), of c), met onder andere als onderdeel intensieve varkenshouderij met meer dan:</p>
+
+			<p>1° 2.000 plaatsen voor mestvarkens van meer dan 30 kg</p>
+
+			<p>2° 750 plaatsen voor zeugen</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>X</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>X</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>N</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>N</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
@@ -14882,6 +15361,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J,R</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>J,R</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -14894,9 +15383,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p><u>Kleine herkauwers</u></p>
 
-			<p>Stallen voor kleine herkauwers, inzonderheid geiten, schapen, damhert, edelhert, ree, enz. andere dan vermeld onder rubrieken 9.7, waaronder verstaan één of meer gebouwen en/of installaties waarin kleine zoogdieren gefokt of gehouden worden:</p>
+			<p>Stallen voor kleine herkauwers, inzonderheid geiten, schapen, damhert, edelhert, ree, enz. andere dan vermeld onder rubrieken 9.2.2°, a) en e), en 9.7, waaronder verstaan één of meer gebouwen en/of installaties waarin kleine zoogdieren gefokt of gehouden worden:</p>
 
-			<p>(gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>&nbsp;met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -15082,11 +15571,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>9.7</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><u>Inheemse kleine zoogdieren</u></p>
+			<p><u>Kleine zoogdieren</u></p>
 
-			<p>Stallen voor konijnen, knaagdieren, katten e.d., andere dan vermeld onder rubrieken 9.8 en 9.9 waaronder verstaan één of meer gebouwen en/of installaties waarin deze dieren gefokt of gehouden worden:</p>
+			<p>Stallen voor konijnen, knaagdieren, katten e.d., andere dan vermeld onder rubrieken 9.2.2°, a), en e), 9.8 en 9.9 waaronder verstaan één of meer gebouwen en/of installaties waarin deze dieren gefokt of gehouden worden:</p>
 
-			<p>(gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen) met inbegrip van:</p>
+			<p>met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -15350,7 +15839,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>9.8</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><u>Pelsdieren</u>: <em>(vossen, marterachtigen, beverachtigen, chincilla’s e.d.)het houden van:</em> met inbegrip van:</p>
+			<p><u>Pelsdieren, andere dan deze vermeld onder rubrieken 9.2.2.2°, a) en e)</u>: <em>(vossen, marterachtigen, beverachtigen, chincilla’s e.d.)het houden van:</em> met inbegrip van:</p>
 
 			<p>- de installatie(s) voor de bewerking of verwerking van dierlijke mest afkomstig van de op die plaats geproduceerde dierlijke mest, zonder bijmenging van afval;</p>
 
@@ -15527,10 +16016,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:37.05pt">
-			<p>9.10</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><u>Intensieve aquacultuur:</u></p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -15555,11 +16044,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:37.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° intensieve aquacultuur van vis met een jaarproductiecapaciteit aan levend gewicht van 100 tot en met 500 ton</p>
-			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">&nbsp;</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>2</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
@@ -15582,16 +16069,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° intensieve aquacultuur van vis met een jaarproductiecapaciteit aan levend gewicht van meer dan 500 ton</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
-			<p>M</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>N</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -15608,23 +16095,21 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3° intensieve aquacultuur van vis of schelpdieren met een jaarproductiecapaciteit van 1.000 ton of meer</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
-			<p>M</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>N</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>J, R</p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
 			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">&nbsp;</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -15636,11 +16121,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 ### rubriek 10
 
+<p>&nbsp;</p>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:37.05pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -15801,7 +16288,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -15827,7 +16314,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -15853,7 +16340,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -15879,7 +16366,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -15983,7 +16470,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16009,7 +16496,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16035,7 +16522,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16061,7 +16548,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16113,7 +16600,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16139,7 +16626,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -16151,13 +16638,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 ### rubriek 11
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:37.05pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -16266,7 +16751,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16292,7 +16777,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16474,7 +16959,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16500,7 +16985,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16802,7 +17287,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:38.55pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -16859,9 +17344,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>Elektriciteitsproductie</p>
 
-			<p>niet in rubrieken 20.1.5, 20.1.6 en 43.2 bedoelde inrichtingen voor elektriciteitsproductie, uitgezonderd de aspecten die betrekking hebben op de kernbrandstofcyclus, met een geïnstalleerd totaal elektrisch vermogen van:</p>
+			<p>niet in rubrieken 20.1.5 en&nbsp;20.1.6&nbsp;bedoelde inrichtingen voor elektriciteitsproductie, uitgezonderd de aspecten die betrekking hebben op de kernbrandstofcyclus, met een geïnstalleerd totaal elektrisch vermogen van:</p>
 
-			<p><em>Uitzondering: elektriciteitsproductie op basis van zonne-<!--?xml:namespace prefix = st1 ns =         "urn:schemas-microsoft-com:office:smarttags" /-->energie is niet ingedeeld</em></p>
+			<p><em>Uitzondering: elektriciteitsproductie op basis van zonne-energie is niet ingedeeld</em></p>
 
 			<p><em>Opmerkingen:</em></p>
 
@@ -16916,7 +17401,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -16942,7 +17427,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -17362,7 +17847,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -17549,7 +18034,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -17575,7 +18060,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -17601,7 +18086,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -17627,7 +18112,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -17653,7 +18138,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -17900,7 +18385,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -18327,13 +18812,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) wanneer het lozingspunt is gelegen in een gemeente waarvoor het gemeentelijke zoneringsplan definitief is vastgesteld en het lozingspunt is gelegen in een centraal gebied en/of collectief geoptimaliseerd en individueel te optimaliseren buitengebied en/of buiten het zoneringsplan;</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 2 m<sup>3</sup>/h;</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 2 m<sup>3</sup>/h. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd;</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) afvalwaterzuiveringsinstallaties, met inbegrip van het lozen van het effluentwater en het ontwateren van de bijhorende slibproductie voor de behandeling van:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i) huishoudelijk afvalwater, ander dan afkomstig van woongelegenheden, met een debiet van meer dan 600 m<sup>3</sup>/jaar</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 5 m<sup>3</sup>/uur;</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 5 m<sup>3</sup>/uur. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd;</p>
 
 			<p>&nbsp;&nbsp; b) elektrische noodgroep met een geïnstalleerd totaal elektrisch vermogen van maximum 1.000 kW, aangedreven door gas- of dieselmotor met een totaal nominaal vermogen van 100 kW tot en met 300 kW wanneer volledig gelegen in industriegebied;</p>
 
@@ -19658,7 +20143,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>c) aardgas-aflevereenheden (“home compressors”) voor motorvoertuigen met een maximale capaciteit van 20 m<sup>3</sup>/uur</p>
+			<p>c) Niet voor publiek toegankelijke aardgasaflevereenheden ("home compressors") met een totale capaciteit tot en met 20 Nm³/uur aanzuigzijdig debiet</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -19684,16 +20169,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>d) inrichtingen voor de bevoorrading van motorvoertuigen met aardgas, andere dan deze bedoeld in rubriek 16.9.c</p>
+			<p>d) Niet voor publiek toegankelijke aardgasafleverinstallaties met een totale&nbsp; capaciteit tot en met 20 Nm³/uur aanzuigzijdig debiet en een maximale aardgasopslag met een waterinhoud tot en met. 3.000 l</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>A</p>
+			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -19710,11 +20195,19 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>e) commerciële winning van aardgas wanneer de gewonnen hoeveelheid meer dan 500.000 m<sup>3</sup> aardgas per dag bedraagt</p>
-
-			<p>f) Winning van andere dan in 16.9.e) bedoelde gasvormige koolwaterstoffen, zoals gedefinieerd in artikel 2, 2°, van het decreet van 8 mei 2009 betreffende de diepe ondergrond</p>
+			<p>e) Inrichtingen voor de bevoorrading van motorvoertuigen met aardgas, andere dan deze vermeld in rubriek 16.9, c), en 16.9, d)<br>
+			<br>
+			f) Commerciële winning van aardgas wanneer de gewonnen hoeveelheid meer dan 500.000 m³ aardgas per dag bedraagt<br>
+			<br>
+			g) Winning van andere dan in rubriek 16.9, f) vermelde gasvormige koolwaterstoffen, zoals gedefinieerd in artikel 2, 2°, van het decreet van 8 mei 2009 betreffende de diepe ondergrond</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
 
 			<p>&nbsp;</p>
@@ -19724,15 +20217,27 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>1</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>E, N</p>
 
 			<p>&nbsp;</p>
 
 			<p>&nbsp;</p>
 
-			<p>E, N</p>
+			<p>E,N</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>A</p>
 
 			<p>&nbsp;</p>
@@ -19742,6 +20247,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>A</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>E</p>
 
 			<p>&nbsp;</p>
@@ -19751,6 +20262,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>E</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>J</p>
 
 			<p>&nbsp;</p>
@@ -19986,7 +20503,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">J</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
 		</tr>
 		<tr>
@@ -22479,7 +22996,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -22505,7 +23022,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -22531,7 +23048,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -22557,7 +23074,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -23132,13 +23649,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p>&nbsp;&nbsp; b) wanneer het lozingspunt is gelegen in een gemeente waarvoor het gemeentelijke zoneringsplan definitief is vastgesteld en het lozingspunt is gelegen in een centraal gebied en/of een collectief geoptimaliseerd en individueel te optimaliseren buitengebied en/of buiten het zoneringsplan;</p>
 
-			<p>2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de geldende milieukwaliteitsnormen voor het uiteindelijk ontvangende oppervlaktewaterlichaam, met een debiet tot en met 2 m<sup>3</sup>/h:;</p>
+			<p>2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de geldende milieukwaliteitsnormen voor het uiteindelijk ontvangende oppervlaktewaterlichaam, met een debiet tot en met 2 m<sup>3</sup>/h:. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd;</p>
 
 			<p>3) afvalwaterzuiveringsinstallaties, met inbegrip van het lozen van het effluentwater en het ontwateren van de bijhorende slibproductie voor de behandeling van:</p>
 
 			<p>i) huishoudelijk afvalwater, ander dan afkomstig van woongelegenheden, met een debiet van meer dan 600 m3/jaar,;</p>
 
-			<p>ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het VLAREM bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de geldende milieukwaliteitsnormen voor het uiteindelijk ontvangende oppervlaktewater met een effluent tot en met 5 m³/uur</p>
+			<p>ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het VLAREM bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de geldende milieukwaliteitsnormen voor het uiteindelijk ontvangende oppervlaktewater met een effluent tot en met 5 m³/uur. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -24867,7 +25384,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -25206,7 +25723,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>20.3.1</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Installaties voor de productie van cement:</p>
+			<p>Installaties voor de productie van cement en kalk:</p>
 
 			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
 
@@ -26347,7 +26864,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -26373,7 +26890,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -27017,11 +27534,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 ### rubriek 21
 
+<p>&nbsp;</p>
+
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -27468,7 +27987,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -27486,7 +28005,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -27751,7 +28270,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -28342,13 +28861,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 ### rubriek 24
 
-<p>&nbsp;</p>
-
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -28377,7 +28894,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><strong>24.</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Laboratoria </strong>(al dan niet geïntegreerd in een elders ingeddelde inrichting)</p>
+			<p><strong>Laboratoria</strong> (al dan niet geïntegreerd in een elders ingedeelde inrichting)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -28402,11 +28919,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
 			<p>24.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Laboratoria die enige biologische of scheikundige, minerale of organische bedrijvigheid uitoefenen met het oog op opzoekingen, proeven, analyses, toepassing of ontwikkeling van producten, kwaliteitscontrole op producten, of met een didactisch doel, die door hun afvalwater een hoeveelheid gevaarlijke stoffen lozen per maand en per stof die opgenomen is in lijst I van bijlage 2C:</p>
-			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">Laboratoria met een uitsluitend didactisch doel, en waar afvalwater eigen aan de laboratoriumtechnieken gegenereerd wordt</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -28426,10 +28941,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
+			<p>24.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° tot en met 1 kg</p>
+			<p>Geïntegreerde, kleine laboratoria gericht op de interne controle van eigen productieprocessen en bijhorende in- en uitgaande stromen of de eigen waterzuiveringsinstallatie, en waar afvalwater eigen aan de laboratoriumtechnieken gegenereerd wordt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -28452,10 +28967,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
+			<p>24.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° meer dan 1 kg</p>
+			<p>Laboratoria die biologische, scheikundige, of organische bedrijvigheid uitoefenen met het oog op opzoekingen, proeven, analyses, toepassing of ontwikkeling van producten, kwaliteitscontrole op producten, en waar afvalwater eigen aan de laboratoriumtechnieken gegenereerd wordt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -28477,63 +28992,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>24.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opgeheven B.S. 31/07/1995</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>24.3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opgeheven B.S. 31/07/1997</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
 			<p>24.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Laboratoria andere dan bedoeld in rubrieken 24.1, 24.2 en 24.3</p>
+			<p>Laboratoria waar geen afvalwater eigen aan de laboratoriumtechnieken gegenereerd wordt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -29736,7 +30199,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -30225,7 +30688,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -30235,7 +30698,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>Opslagplaats van dierlijke mest, waaronder verstaan door vee uitgescheiden natuurlijke afvalstoffen of een mengsel van strooisel en door vee uitgescheiden natuurlijke afvalstoffen ongeacht of het vee wordt geweid of op intensieve veehouderij wordt gehouden, alsmede de natuurlijke afvalstoffen en visteeltbedrijven:</p>
 
-			<p>(gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen)</p>
+			<p>De gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet-vervallen verkavelingsvergunning.</p>
+
+			<p>Als de bestemming is vastgelegd in een ruimtelijk uitvoeringsplan, wordt onder “woongebied met landelijk karakter” de subcategorie van gebiedsaanduiding “gebied voor wonen en landbouw” verstaan</p>
 
 			<p><em>Uitzondering:</em></p>
 
@@ -32461,7 +32926,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; vertical-align:top; width:212.65pt">
-			<p>1° gehalogeneerde oplosmiddelen of oplosmiddelen met een ontvlammingspunt tot en met 55 °C met een totaal inhoudsvermogen van de baden en spoelbaden of van de opvangrecipiënten voor de opvang van de gebruikte chemicaliën als niet gebruik gemaakt wordt van behandelingsbaden en spoelbaden, van:</p>
+			<p>1° gehalogeneerde oplosmiddelen of oplosmiddelen met een vlampunt tot en met 55 °C met een totaal inhoudsvermogen van de baden en spoelbaden of van de opvangrecipiënten voor de opvang van de gebruikte chemicaliën als niet gebruik gemaakt wordt van behandelingsbaden en spoelbaden, van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#d4d0c8; border-left:#d4d0c8; border-right:windowtext 1pt solid; border-top:#d4d0c8; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -33329,7 +33794,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -33830,7 +34295,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -33856,7 +34321,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -33882,7 +34347,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -33908,7 +34373,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -34622,12 +35087,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
 			<p>Inrichtingen met muziekactiviteiten:<br>
-			&nbsp;(Uitzondering :<br>
-			De volgende inrichtingen vallen niet onder deze indelingsrubriek : inrichtingen met muziekactiviteiten die beschikken over een toelating als vermeld in artikel 5.32.2.2.bis, § 1, 4°, 5.32.3.10, § 4 en artikel 6.7.3, § 3, van titel II van het VLAREM.)<br>
-			1° feestzalen en lokalen waar muziek geproduceerd wordt en het geluidsniveau van muziek in de inrichting &gt; 85 dB(A)L<sub>Aeq</sub><sub>,15min </sub>en &lt;= 95 dB(A)L<sub>Aeq</sub><sub>,15min</sub>;</p>
+			1° feestzalen en andere voor publiek toegankelijke lokalen waar muziek geproduceerd wordt en het maximaal geluidsniveau in de inrichting &gt; 85 dB(A) L<sub>Aeq,15min</sub> en ≤ 95 dB(A) L<sub>Aeq,15min </sub>is<br>
+			Uitzondering: inrichtingen met muziekactiviteiten die beschikken over een toelating als vermeld in artikel 6.7.3, §3, van titel II van het VLAREM, vallen hier niet onder.<br>
+			2° feestzalen, schouwspelzalen en andere voor publiek toegankelijke lokalen waar muziek geproduceerd wordt en het maximaal geluidsniveau in de inrichting &gt; 95 dB(A) L<sub>Aeq,15min</sub> is<br>
+			Uitzondering: inrichtingen met muziekactiviteiten die beschikken over een toelating als vermeld in artikel 5.32.2.2.bis, §1, 4°, artikel 5.32.3.10, §4, en artikel 6.7.3, §3, van titel II van het VLAREM, vallen hier niet onder.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
+
+			<p>3</p>
 
 			<p><br>
 			<br>
@@ -34635,12 +35103,22 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<br>
 			<br>
 			<br>
-			3</p>
+			<br>
+			2</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
 
 			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			T<br>
 			<br>
 			<br>
 			<br>
@@ -34667,32 +35145,14 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		<tr>
 			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">&nbsp;</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° feestzalen, lokalen en schouwspelzalen waar muziek geproduceerd wordt en het geluidsniveau van muziek in de inrichting &gt; 95 dB(A)L<sub>Aeq</sub><sub>,15min </sub>en &lt;= 100 dB(A)L<sub>Aeq</sub><sub>,60min</sub>.</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>2</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>T</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">&nbsp;</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">&nbsp;</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -34711,7 +35171,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>32.2</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Andere schouwspelzalen dan die, vermeld in rubriek 32.1.2°</p>
+			<p>Andere schouwspelzalen dan de schouwspelzalen, vermeld in rubriek 32.1.2°:</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -34737,7 +35197,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° Bioscopen</p>
+			<p>1° bioscopen</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -34763,7 +35223,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° Schouwburgen, variététheaters, andere zalen voor sportmanifestaties dan die, vermeld in punt&nbsp;3°, polyvalente zalen en feestzalen met een speelruimte</p>
+			<p>2° schouwburgen, variététheaters, andere zalen voor sportmanifestaties dan, vermeld in punt 3°, polyvalente zalen en feestzalen met een speelruimte</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -34787,7 +35247,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3° Zalen voor gemotoriseerde sportmanifestaties met gebruik van verbrandingsmotoren , bijvoorbeeld indoor-karting en dergelijke</p>
+			<p>3° zalen voor gemotoriseerde sportmanifestaties met gebruik van verbrandingsmotoren, bijvoorbeeld indoor-karting en dergelijke</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -35359,7 +35819,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>32.9</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Omloop voor wedstrijden, test- en oefenritten, of test- en oefenvaarten, met motorvoertuigen of motorvaartuigen, met inbegrip van recreatief gebruik alsook van waterskiën andere dan bedoeld in subrubriek 32.8.2, in andere dan zeebadzones, niet volledig gelegen op de openbare weg of op openbare waterwegen:</p>
+			<p>Omloop voor wedstrijden, test- en oefenritten, of test- en oefenvaarten, met motorvoertuigen of motorvaartuigen, met verbrandingsmotor, met &nbsp;inbegrip van recreatief gebruik alsook van waterskiën andere dan vermeld in rubriek 32.8.2., in andere dan zeebadzones, niet volledig gelegen op de openbare weg of op openbare waterwegen:</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -35385,10 +35845,25 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° omlopen waarop per jaar hoogstens één wedstrijd plaatsvindt of waarop met maximum één voertuig of boot gelijktijdig wordt gereden respectievelijk gevaren, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
+			<p>1° a) omlopen waarop met maximum één motorvoertuig of motorvaartuig gelijktijdig wordt gereden respectievelijk gevaren;<br>
+			b) omlopen voor motorvaartuigen waarop per jaar hoogstens één wedstrijd plaatsvindt :<br>
+			een wedstrijd, voor boten inclusief bijhorende&nbsp; oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen<br>
+			c)&nbsp;&nbsp; omlopen voor motorvoertuigen waarop per jaar hoogstens één wedstrijd en aansluitende oefenritten plaatsvinden:<br>
+			een wedstrijd, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen, en de bijhorende oefenritten, op&nbsp; andere dagen dan de wedstrijddagen, zijn gespreid over maximum drie dagen&nbsp; en ze vallen binnen de periode 3 dagen voor de wedstrijd en de dag na de wedstrijd</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>3<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			3</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -35411,7 +35886,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° omlopen waarop per jaar twee of drie wedstrijden plaatsvinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
+			<p>2° omlopen voor motorvoertuigen of motorvaartuigen waarop per jaar twee of drie wedstrijden plaatsvinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -35437,7 +35912,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van maximum 98 dB (A) en voor outdoorcartings:</p>
+			<p>3° permanente omlopen voor motorvoertuigen of motorvaartuigen met een geluidsemissie van maximum 98 dB (A) en voor outdoorcartings:</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -35489,7 +35964,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) race en testbanen voor gemotoriseerde voertuigen, met inbegrip van oefenritten</p>
+			<p>&nbsp;&nbsp; b) )&nbsp; race en testbanen voor motorvoertuigen of motorvaartuigen, met inbegrip van oefenritten</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -35515,7 +35990,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>&nbsp; c) waarop meer dan drie wedstrijden per jaar plaatsinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen</p>
+			<p>&nbsp; c) waarop meer dan drie wedstrijden met motorvoertuigen of motorvaartuigen per jaar plaatsvinden; een wedstrijd, inclusief bijhorende oefenritten of oefenvaarten, kan gespreid zijn over maximum twee aaneensluitende kalenderdagen;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -35541,7 +36016,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; d) waarop een combinatie van voormelde activiteiten (a tot en met c) plaatsvindt</p>
+			<p>&nbsp;&nbsp; d) waarop een combinatie van voormelde activiteiten (a) tot en met c)) plaatsvindt</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -35567,7 +36042,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>4° permanente omlopen voor gemotoriseerde vaar- en/of voertuigen met een geluidsemissie van meer dan 98 dB(A), uitgezonderd outdoorcartings</p>
+			<p>4° Permanente omlopen voor motorvoertuigen of motorvaartuigen met een geluidsemissie van meer dan 98 dB (A), uitgezonderd outdoorcartings</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -35593,9 +36068,9 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>5° permanente race- en testbanen voor gemotoriseerde voertuigen met een oppervlakte van 5 ha of meer.</p>
+			<p>5° Permanente race- en testbanen voor motorvoertuigen of motorvaartuigen met een oppervlakte van 5 ha of meer.</p>
 
-			<p>Er kan een overlapping zijn met andere deelrubrieken van subrubriek 32.9</p>
+			<p>Er kan een overlapping zijn met andere deelrubrieken van rubriek 32.9.</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -35631,7 +36106,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -35740,7 +36215,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -35766,7 +36241,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -35792,7 +36267,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -35818,7 +36293,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -35844,7 +36319,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -35870,7 +36345,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -36862,7 +37337,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>39.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Stoomgeneratoren, andere dan lagedruk stoomgeneratoren, met een waterinhoud van:</p>
+			<p>Stoomgeneratoren, andere dan lagedruk stoomgeneratoren, met een&nbsp; individuele inhoud van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -36966,7 +37441,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>39.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Stoomvaten, met inbegrip van warmtewisselaars waarvan de primaire ruimte als stoomvat wordt beschouwd, met een waterinhoud van:</p>
+			<p>Stoomvaten, met inbegrip van warmtewisselaars waarvan de primaire ruimte als stoomvat wordt beschouwd, met een individuele inhoud van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -37044,7 +37519,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>39.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Lagedruk stoomgeneratoren, met een waterinhoud van 300 l of meer</p>
+			<p>Lagedruk stoomgeneratoren, met een individuele inhoud van 300 l of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -37070,7 +37545,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>39.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Warmtewisselaars, andere dan deze vermeld onder rubriek 39.2 en deze voor op een stoomdistributienet aangesloten woningen, met een waterinhoud van de secundaire ruimte van:</p>
+			<p>Warmtewisselaars, andere dan deze vermeld onder rubriek 39.2 en deze voor op een stoomdistributienet aangesloten woningen, met een individuele inhoud van de secundaire ruimte van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -38718,7 +39193,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -38965,7 +39440,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -39204,7 +39679,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -39230,7 +39705,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -39623,75 +40098,72 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		</tr>
 		<tr>
 			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; width:212.65pt">&nbsp;</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; width:212.65pt">&nbsp;</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>43.3</p>
 			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">Het stoken in installaties, inclusief stationaire motoren en gasturbines, met een totaal nominaal thermisch ingangsvermogen van 50 MW of meer<br>
-			(Er kan overlapping zijn met rubriek 2.3.4, 31.1, 43.1 en 43.4.)</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>Het stoken in installaties, inclusief stationaire motoren en gasturbines, met een totaal nominaal thermisch ingangsvermogen van:</p>
+			(Er kan overlapping zijn met rubriek 2.3.4., 31.1., 43.1. en 43.4.)<br>
+			1° meer dan 20 MW tot 50 MW<br>
+			2° 50 MW of meer</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			1<br>
+			1</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>M, X</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			M,E<br>
+			M,E,X</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>B</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			B<br>
+			B</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>P</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			P<br>
+			P</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>J, R</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			J<br>
+			J,R</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>A, S</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			A<br>
+			A,S</p>
 			</td>
 		</tr>
 		<tr>
@@ -39740,7 +40212,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -40231,7 +40703,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -40387,7 +40859,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J, R</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>O,S</p>
 			</td>
 		</tr>
 		<tr>
@@ -41841,7 +42313,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>P</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>R</p>
+			<p>J, R</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -43126,7 +43598,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>45.14</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen met uitzondering van deze bedoeld onder rubriek 48, voor losse granen en voor groenvoeders, met uitsluitsel van groenvoeders zonder sapverliezen (bijv. niet-gemalen bieten, aardappelen en andere knol- en wortelvruchten): <em>(gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen)</em></p>
+			<p>Opslagplaatsen met uitzondering van deze bedoeld onder rubriek 48, voor losse granen en voor groenvoeders, met uitsluitsel van groenvoeders zonder sapverliezen (bijv. niet-gemalen bieten, aardappelen en andere knol- en wortelvruchten): De gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet-vervallen verkavelingsvergunning. Als de bestemming is vastgelegd in een ruimtelijk uitvoeringsplan, wordt onder “woongebied met landelijk karakter” de subcategorie van gebiedsaanduiding “gebied voor wonen en landbouw” verstaan.</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -43475,7 +43947,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>45.16</p>
 			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">De bewerking en verwerking behalve het uitsluitend verpakken, van de volgende grondstoffen, voor de fabricage van levensmiddelen of voeder van :</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">De bewerking en verwerking behalve het uitsluitend verpakken, van de volgende grondstoffen, al dan niet eerder bewerkt of onbewerkt, voor de fabricage van levensmiddelen of voeder van :</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -43787,32 +44259,28 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>45.18</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Dierlijke bijproducten, andere dan afvalstoffen als bedoeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen.</p>
+			<p>Dierlijke bijproducten als vermeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen.<u> </u></p>
 
-			<p>Voor dierlijke bijproducten die voldoen aan de definitie van afvalstof van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen: zie inzonderheid indelingsrubriek 2.2.4. De be- en verwerking van dierlijke mest valt onder de toepassing van de rubriek 28.3.</p>
+			<p>De bewerking en verwerking van dierlijke mest vallen onder de toepassing van de rubriek 28.3.</p>
 
-			<p>Voor de toepassing van deze subrubriek gelden de volgende definities conform de EU- Verordening 1774/2002 van 3 oktober 2002 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten:</p>
-
-			<p>1° “dierlijke bijproducten”: hele kadavers of delen van dieren of producten van dierlijke oorsprong, zoals bedoeld in de artikelen 4, 5 en 6 van de EU- Verordening 1774/2002, die niet voor menselijke consumptie bestemd zijn, met inbegrip van eicellen, embryo's en sperma;</p>
-
-			<p>2° “categorie 1-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 4 van bovenvermelde EUVerordening nr. 1774/2002;</p>
-
-			<p>3° “categorie 2-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 5 van bovenvermelde EUVerordening nr. 1774/2002;</p>
-
-			<p>4° “categorie 3-materiaal”: dierlijke bijproducten zoals bedoeld in artikel 6 van bovenvermelde EUVerordening nr. 1774/2002;</p>
-
-			<p>5° “intermediair categorie 1- of categorie 2-bedrijf”: een bedrijf waar niet verwerkt categorie 1- of categorie 2-materiaal wordt gehanteerd en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming en waar bepaalde voorbereidende activiteiten, zoals het verwijderen van huiden en het verrichten van keuringen na de slacht, kunnen plaatsvinden;</p>
-
-			<p>6° “intermediair categorie 3-bedrijf”: een bedrijf waar niet-verwerkt categorie 3-materiaal wordt gesorteerd en/of versneden en/of gekoeld of diepgevroren in blokken en/of tijdelijk opgeslagen met het oog op verder vervoer naar de eindbestemming;</p>
-
-			<p>7° “verwerkingsbedrijf”: een bedrijf waar dierlijke bijproducten worden verwerkt waarbij onder “verwerkte producten” wordt verstaan dierlijke bijproducten die een van de verwerkingsmethoden of een andere behandeling volgens de eisen van bijlage VII of VIII van de EU-Verordening hebben ondergaan;</p>
-
-			<p>8° “opslagbedrijf”: een bedrijf, met uitzondering van de onder EG-richtlijn 95/69/EG van 22 december 1995 houdende vaststelling van de voorwaarden en bepalingen voor de erkenning en de registratie van bedrijven en tussenpersonen in de sector diervoeding vallende bedrijven en tussenpersonen, waar verwerkte producten tijdelijk worden opgeslagen voordat zij voor hun einddoel worden gebruikt of definitief worden verwijderd;</p>
-
-			<p>9° “technisch bedrijf”: een bedrijf waar dierlijke bijproducten worden gebruikt voor de vervaardiging van technische producten waarbij onder “technische producten” wordt verstaan rechtstreeks van bepaalde dierlijke bijproducten vervaardigde producten die niet voor menselijke consumptie of diervoeding bestemd zijn, zoals gelooide en behandelde huiden, jachttrofeeën, bewerkte wol, haar, varkenshaar, veren en delen van veren, serum van paardachtigen, bloedproducten, farmaceutische producten, medische hulpmiddelen, cosmetische producten, beenderproducten voor porselein, gelatine en lijm, biologische meststoffen, bodemverbeteraars, gesmolten vet, vetderivaten, verwerkte mest en melk en producten op basis van melk.</p>
+			<p>Voor de toepassing van deze subrubriek gelden de bepalingen conform de verordening dierlijke bijproducten en haar uitvoerende verordening (EU) nr. 142/2011.:<br>
+			1° op- en overslag van dierlijke bijproducten<br>
+			2° Opslag en activiteiten van</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p><br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			3</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -43835,39 +44303,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>a) opslagbedrijf</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>3</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>b) intermediair categorie 3-bedrijf</p>
+			<p>a) categorie 3-materiaal</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>A, G, T</p>
+			<p>A,G,T</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -43887,65 +44329,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>c) intermediair categorie 1- of categorie 2-bedrijf</p>
+			<p>b) categorie 2-materiaal</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>G, T</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>N</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>P</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>d) verwerkingsbedrijf en/of technisch bedrijf van categorie 3-materiaal</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>A, G, T</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>e) verwerkingsbedrijf en/of technisch bedrijf van categorie 2-materiaal</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>G, M, T</p>
+			<p>G, M,&nbsp;T</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>B</p>
@@ -43961,26 +44351,48 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			</td>
 		</tr>
 		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>c) categorie 1-materiaal</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>1</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
+			<p>G,M, T</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>A</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>P</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>J</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>f) verwerkingsbedrijf en/of technisch bedrijf van categorie 1-materiaa</p>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">&nbsp;</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">&nbsp;</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>G, M, T</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>P</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>J</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -44580,7 +44992,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -44635,7 +45047,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>49.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Poliklinieken en rust- en verzorgingstehuizen erkend door de Vlaamse Gemeenschap in toepassing van het Koninklijk Besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis</p>
+			<p>Poliklinieken en rust- en verzorgingstehuizen erkend door de Vlaamse Gemeenschap in toepassing van het Koninklijk Besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet-aangeboren hersenletsels</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -44661,7 +45073,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>49.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Ziekenhuizen erkend door de Vlaamse Gemeenschap in toepassing van de artikelen 1 tot en met 4 van de wet op de ziekenhuizen van 7 augustus 1987 en haar uitvoeringsbesluiten</p>
+			<p>Ziekenhuizen erkend door de Vlaamse Gemeenschap met toepassing van het koninklijk besluit van 10 juli 2008 houdende coördinatie van de wet betreffende de ziekenhuizen en andere verzorgingsinrichtingen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -44687,13 +45099,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>49.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Andere poliklinieken, rust- en verzorgingstehuizen en /of ziekenhuizen</p>
+			<p>...</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>G</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45450,7 +45862,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -45487,7 +45899,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 
 			<p><em>a) een grondwaterwinning waaruit het water uitsluitend met een handpomp wordt opgepompt</em></p>
 
-			<p><em>b) een grondwaterwinning van minder dan 500 m<sup>3</sup> per jaar waarvan het water uitsluitend voor huishoudelijke doeleinden wordt gebruikt</em></p>
+			<p><em>b) een grondwaterwinning tot maximum 500 m<sup>3</sup> per jaar waarvan het water uitsluitend voor huishoudelijke doeleinden wordt gebruikt</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45513,7 +45925,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Boren van grondwaterwinningsputten en/of grondwaterwinning voor het uitvoeren van proefpompingen gedurende minder dan een jaar</p>
+			<p>Boren van grondwaterwinningsputten en/of grondwaterwinning voor het uitvoeren van proefpompingen gedurende minder dan&nbsp;drie maanden</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -45539,7 +45951,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Bronbemaling die technisch noodzakelijk is voor ofwel de verwezenlijking van bouwkundige werken, ofwel de aanleg van openbare nutsvoorzieningen:</p>
+			<p>Bronbemaling, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag, die technisch noodzakelijk is voor ofwel de verwezenlijking van bouwkundige werken, ofwel de aanleg van openbare nutsvoorzieningen:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45565,7 +45977,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1° gelegen in beschermde duingebieden, aangeduid op grond van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen of in een groengebied, een natuurontwikkelingsgebied, een parkgebied of een bosgebied (gebieden bepaald volgens de begrippen van het Koninklijk Besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en gewestplannen):</p>
+			<p>1° gelegen in beschermde duingebieden, aangeduid op grond van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen of in een groengebied, een natuurontwikkelingsgebied, een parkgebied of een bosgebied (de gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet-vervallen verkavelingsvergunning):</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45591,7 +46003,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; a) met een debiet van maximum 500 m<sup>3</sup> per dag</p>
+			<p>&nbsp;&nbsp; a) met een debiet van maximum 500 m<sup>3</sup> per dag en 30.000 m³ per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -45617,13 +46029,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; b) met een debiet van meer dan 500 m<sup>3</sup> per dag tot maximum 2.000 m<sup>3</sup> per dag</p>
+			<p>&nbsp;&nbsp; b) met een debiet van meer dan 500 m<sup>3</sup> per dag of meer dan 30.000 m³ per jaar, tot maximum van 2.000 m<sup>3</sup> per dag</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>A, W</p>
+			<p>A, W,T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -45649,7 +46061,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>W</p>
+			<p>W,T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -45669,16 +46081,60 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° gelegen in een ander gebied dan vermeld in 1°</p>
+			<p>2° gelegen in een ander gebied dan vermeld in 1°<br>
+			a) met een netto opgepompt debiet van maximum 30.000&nbsp;m³ per jaar of een maximale verlaging van het grondwaterpeil tot vier meter onder maaiveld<br>
+			b) met een netto opgepompt debiet van meer dan 30.000&nbsp;m³ per jaar en een maximale verlaging van het grondwaterpeil tot meer dan vier meter onder maaiveld</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>W, T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45721,7 +46177,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.4</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Bronbemaling die noodzakelijk is:</p>
+			<p>Bronbemaling, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag, die noodzakelijk is:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45747,7 +46203,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1° voor de exploitatie van tunnels voor openbare wegen en/of openbaar vervoer</p>
+			<p>1° voor de exploitatie van tunnels voor openbare wegen of openbaar vervoer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -45773,7 +46229,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>2° voor de waterbeheersing van mijnverzakkingsgebieden, ook wanneer dit water wordt gebruikt voor de openbare watervoorziening, wanneer de diepte waarop het water wordt gewonnen ten opzichte van het maaiveld:</p>
+			<p>2° voor de waterbeheersing van mijnverzakkingsgebieden, ook als dat water wordt gebruikt voor de openbare watervoorziening, als de diepte waarop het water wordt gewonnen ten opzichte van het maaiveld:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -45799,7 +46255,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; a) minder dan 10 m bedraagt en met een opgepompt volume van minder dan 500 m<sup>3</sup> per jaar</p>
+			<p>&nbsp;&nbsp; a) minder dan 10 m bedraagt en met een opgepompt&nbsp;debiet van maximum&nbsp;500 m<sup>3</sup> per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -45825,7 +46281,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; b) minder dan 10 m bedraagt en met een opgepompt volume van 500 m<sup>3</sup> per jaar tot en met 30.000 m<sup>3</sup> per jaar</p>
+			<p>&nbsp;&nbsp; b) minder dan 10 m bedraagt en met een opgepompt&nbsp;debiet van meer dan&nbsp;500 m<sup>3</sup> per jaar tot en met 30.000 m<sup>3</sup> per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -45851,7 +46307,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; c) 10 m of meer bedraagt, of met een opgepompt volume van meer dan 30.000 m<sup>3</sup> per jaar</p>
+			<p>&nbsp;&nbsp; c) 10 m of meer bedraagt, of met een opgepompt&nbsp;debiet van meer dan 30.000 m<sup>3</sup> per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -45877,16 +46333,72 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Bronbemaling die noodzakelijk is om het gebruik en/of de exploitatie van gebouwen of bedrijfsterreinen mogelijk te maken of houden</p>
+			<p>Bronbemaling, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag,&nbsp; die noodzakelijk is om het gebruik of de exploitatie van gebouwen of bedrijfsterreinen mogelijk te maken of houden<br>
+			1° met een netto opgepompt debiet van maximum 30.000&nbsp;m³ per jaar<br>
+			2° met een netto opgepompt debiet van meer dan 30.000&nbsp;m³ per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>W,T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -46007,7 +46519,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.8</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Boren van grondwaterwinningsputten en grondwaterwinning, andere dan deze bedoeld in rubriek 53.1 tot en met 53.7, met een opgepompt debiet:</p>
+			<p>Boren van grondwaterwinningsputten en grondwaterwinning, andere dan vermeld in rubriek 53.1. tot en met 53.7. en 53.12., waarvan:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -46033,7 +46545,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1° van minder dan 500 m<sup>3</sup>/jaar</p>
+			<p>1° het totaal opgepompte debiet kleiner of gelijk is aan 5000&nbsp;m³ per jaar en alle putten een diepte hebben die kleiner of gelijk is aan het locatie specifieke dieptecriterium zoals weergegeven op de kaart in bijlage 2ter van dit besluit</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -46059,7 +46571,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>2° van 500 m<sup>3</sup>/jaar tot 30.000 m<sup>3</sup>/jaar</p>
+			<p>2° het totaal opgepompt debiet groter is dan 5000 m³ per jaar en kleiner of gelijk is aan 30.000 m³ per jaar of minimaal één put een diepte heeft die groter is dan het locatie specifieke dieptecriterium zoals weergegeven op de kaart in bijlage 2ter van dit besluit waarbij het totaal opgepompte debiet kleiner of gelijk is aan 30.000 m³ per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -46085,7 +46597,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>3° van 30.000 m<sup>3</sup>/jaar of meer</p>
+			<p>3° het totaal opgepompt debiet groter is dan 30.000 m³ per jaar</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -46241,7 +46753,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>53.11</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Werken voor het onttrekken van grondwater: <em>(er kan overlapping zijn met een of meer subrubrieken van de rubriek 53)</em></p>
+			<p>Werken voor het onttrekken van grondwater: Er kan overlapping zijn met een of meer subrubrieken van de rubriek 53</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -46267,7 +46779,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>1° grondwaterwinningen met een capaciteit van 2.500 m<sup>3</sup> per dag of meer</p>
+			<p>1° Onttrekken van grondwater, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag, en met een netto onttrokken debiet van 2500 m<sup>3 </sup>per dag of meer</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -46291,17 +46803,157 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>53.12</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° onttrekken van grondwater met een capaciteit van 1.000 m<sup>3</sup> per dag of meer als de activiteit gelegen is in of een aanzienlijke invloed kan hebben op een gebied zoals aangeduid in uitvoering van het decreet houdende maatregelen ter bescherming van de kustduinen van 14 juli 1993 of als de activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken</p>
+			<p>2° Onttrekken van grondwater met een debiet van 1000 m<sup>3</sup> per dag of meer als de activiteit gelegen is in of een aanzienlijke invloed kan hebben op een gebied zoals aangeduid in uitvoering van het decreet houdende maatregelen ter bescherming van de kustduinen van 14 juli 1993 of als de activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken</p>
+
+			<p>Boren van grondwaterwinningsputten en grondwaterwinning met inbegrip van terugpompingen van belucht grondwater in dezelfde freatische watervoerende laag voor ondergrondse beluchting, waarbij:<br>
+			1° het totaal netto opgepompt debiet kleiner of gelijk is aan 30&nbsp;000&nbsp;m³ per jaar<br>
+			2° het totaal netto opgepompt debiet groter is dan 30&nbsp;000 m³ per jaar&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>W</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>W</p>
+
+			<p>&nbsp;</p>
+
+			<p>W</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>N</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>N</p>
+
+			<p>&nbsp;</p>
+
 			<p>N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -46327,7 +46979,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -46356,7 +47008,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><strong>54.</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Het kunstmatig aanvullen van grondwater</strong> (andere dan deze bedoeld in de rubrieken 52 en 53.7)</p>
+			<p><strong>Het kunstmatig aanvullen van grondwater</strong> (andere dan deze bedoeld in de rubrieken 52., 53.2., 53.4., 53.5., 53.6., 53.7. en 53.12.)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -46400,7 +47052,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -46436,7 +47088,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
@@ -46444,7 +47096,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>54.3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>Werkzaamheden voor het kunstmatig aanvullen van grondwater wanneer het jaarlijkse volume aangevuld water 10 miljoen m<sup>3</sup> of meer, respectievelijk de capaciteit 2.500 m<sup>3</sup> per dag of meer bedraagt (er kan overlapping zijn met de rubrieken 54.1 en 54.2)</p>
+			<p>Werkzaamheden voor het kunstmatig aanvullen van grondwater wanneer het jaarlijkse volume aangevuld water 10 miljoen m<sup>3</sup> of meer, respectievelijk&nbsp;het debiet&nbsp;2.500 m<sup>3</sup> per dag of meer bedraagt (er kan overlapping zijn met de rubrieken 54.1 en 54.2)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -46462,7 +47114,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -46478,7 +47130,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -46533,8 +47185,21 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>55.1.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Verticale boringen, andere dan deze bedoeld in de rubrieken 53, 54 en 55.3 :<br>
-			Uitzondering : peilputten in het kader van bodem- en grondwateranalyses of ter naleving van de milieuvoorwaarden voor de exploitatie van inrichtingen of boringen ter naleving van wettelijke verplichtingen vallen niet onder deze rubriek.</p>
+			<p>Verticale boringen, andere dan vermeld in de rubrieken 53., 54. en 55.3.:</p>
+
+			<p>&nbsp;</p>
+
+			<p>Uitzondering: de volgende boringen vallen niet onder deze rubriek:</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; boringen voor de aanleg van peilputten in het kader van bodem- en grondwateranalyses;</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; boringen voor de aanleg van peilputten ter naleving van de milieuvoorwaarden voor de exploitatie van inrichtingen;</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; boringen ter naleving van wettelijke verplichtingen;</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; geotechnische boringen voor het onderzoek naar de stabiliteit van de grond;</p>
+
+			<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; boringen in het kader van thermische energieopslag in boorgaten waarvan de diepte beperkt blijft tot maximaal het dieptecriterium zoals weergegeven op de kaart in bijlage 2quinquies bij dit besluit en gelegen buiten een beschermingszone type III .</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -46572,7 +47237,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° tot en met een diepte van het dieptecriterium zoals weergegeven op de kaart in bijlage 1<sup>ter</sup> aan dit besluit en gelegen buiten een beschermingszone type III</p>
+			<p>1° tot en met een diepte van het dieptecriterium zoals weergegeven op de kaart in bijlage 2quinquies van dit besluit en gelegen buiten een beschermingszone type III</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -46616,7 +47281,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° dieper dan het dieptecriterium zoals weergegeven op de kaart in bijlage 1<sup>ter</sup> aan dit besluit of gelegen binnen een beschermingszone type III, en met een diepte van minder dan 500 meter ten opzichte van het maaiveld</p>
+			<p>2° dieper dan het dieptecriterium zoals weergegeven op de kaart in bijlage 2quinquies van dit besluit of gelegen binnen een beschermingszone type III, en met een diepte van minder dan 500 meter ten opzichte van het maaiveld</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -46662,7 +47327,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>W</p>
+			<p>W, N</p>
 
 			<p>&nbsp;</p>
 
@@ -46700,7 +47365,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>W</p>
+			<p>W,N</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -49178,7 +49843,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -49207,27 +49872,24 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p><strong>60.</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Geheel of gedeeltelijk opvullen met niet-verontreinigde uitgegraven bodem van groeven, graverijen, uitgravingen en andere putten, met inbegrip van waterplassen en vijvers</strong></p>
+			<p><strong>Geheel of gedeeltelijk opvullen van groeven, graverijen, uitgravingen en andere putten, met inbegrip van waterplassen en vijvers</strong></p>
 
-			<p><em>Het grondverzet en het gebruik van uitgegraven bodem of niet verontreinigde bagger- en ruimingsspecie in het kader van functionele ophogingen en aanvullingen, boven het maaiveld, voor het bouwrijp maken van terreinen of voor de realisatie van een grond- of bouwwerk valt niet onder deze rubriek. </em></p>
+			<table align="left" cellpadding="0" cellspacing="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
+						<p>Opmerking:</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
 
-			<p><em>In deze rubriek wordt onder niet-verontreinigde uitgegraven bodem verstaan: uitgegraven bodem, uitgegraven bodem die een fysische scheiding heeft ondergaan en gereinigde uitgegraven bodem die voldoet aan de volgende voorwaarden:</em></p>
+			<p>Indien afvalstoffen worden gebruikt voor de opvulling geldt rubriek 2</p>
 
-			<p><em>1° inzake fysische samenstelling voldoet hij aan de bepalingen van artikel 162 van het Vlarebo;</em></p>
+			<p><br>
+			Het grondverzet en het gebruik van uitgegraven bodem, niet verontreinigde bagger- en ruimingsspecie of&nbsp; grondstoffen die overeenkomstig het VLAREMA voldoen aan de voorwaarden voor het gebruik als bodem&nbsp; in het kader van functionele ophogingen en aanvullingen, boven het maaiveld, voor het bouwrijp maken van terreinen of voor de realisatie van een grond- of bouwwerk valt niet onder deze rubriek<em>&nbsp;. </em></p>
 
-			<p><em>2° inzake chemische samenstelling voldoet hij aan een van de volgende waarden:</em></p>
-
-			<p><em>a) de waarden voor vrij gebruik van uitgegraven bodem, vermeld in bijlage V van het Vlarebo;</em></p>
-
-			<p><em>b) de waarden van bijlage IV van het Vlarebo voor bestemmingstype III, op voorwaarde dat dit bepaald is in de milieuvergunning en dat, indien nodig, aanvullende milieubeschermende voorwaarden garanties geven met betrekking tot het isoleren, beheren en controleren.</em></p>
-
-			<p><em>In deze rubriek wordt onder “niet-verontreinigde bagger- en ruimingsspecie” verstaan:</em></p>
-
-			<p><em>1° bagger- en ruimingsspecie die inzake chemische samenstelling voldoet aan de waarden voor vrij gebruik van uitgegraven bodem, vermeld in bijlage V van het Vlarebo;</em></p>
-
-			<p><em>2° bagger- en ruimingsspecie die voldoet aan de waarden van bijlage IV van het Vlarebo voor bestemmingstype III, op voorwaarde dat dit bepaald is in de milieuvergunning en dat, indien nodig, aanvullende milieubeschermende voorwaarden garanties geven met betrekking tot het isoleren, beheren en controleren.</em></p>
-
-			<p><em>Beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn begrepen in deze rubriek, en zijn niet vergunningsplichtig volgens rubriek 30.</em></p>
+			<p>Beperkte mechanische activiteiten, zoals het sorteren en/of zeven van uitgegraven bodem zijn begrepen in deze rubriek, en zijn niet vergunningsplichtig volgens rubriek 30.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -49317,7 +49979,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -49460,7 +50122,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 			<p>2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>N, O, W</p>
+			<p>N, O</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>N</p>
@@ -49481,6 +50143,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW<
 <p>&nbsp;</p>
 
 <p>&nbsp;</p>
+
+### rubriek 62
+
+&nbsp;  <P>  <TABLE   style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-COLLAPSE: collapse; BORDER-TOP: medium none; BORDER-RIGHT: medium none; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt"   class=MsoTableGrid border=1 cellSpacing=0 cellPadding=0>    <TBODY>    <TR style="mso-yfti-irow: 0; mso-yfti-firstrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 39.8pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt"       width=53>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Rubriek</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 212.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=284>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Omschrijving en subrubrieken</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Klasse</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 57.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=77>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Bemerkingen</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Coördi-nator</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Audit</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 48.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=64>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Jaarverslag</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: windowtext 1pt solid; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt"       width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>Vlarebo</P></TD></TR>    <TR style="mso-yfti-irow: 1">      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 39.8pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=53>        <P style="MARGIN: 0cm 0cm 0pt"         class=MsoNormal><STRONG>62.<BR><BR></STRONG>62.1.</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 212.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=284>        <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt"         class=MsoNormal><STRONG>Aquacultuur<BR></STRONG><BR>Intensieve         aquacultuur <?xml:namespace prefix = o ns =         "urn:schemas-microsoft-com:office:office" /></P>        <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 10pt" class=MsoNormal>(Er         kan overlapping zijn met rubriek 62.2.)</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 57.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=77>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 48.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=64>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-top-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD></TR>    <TR style="mso-yfti-irow: 2">      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 39.8pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=53>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 212.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       width=284>        <P         style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"         class=MsoNormal>1°. intensieve         aquacultuur van vis met een jaarproductiecapaciteit aan levend gewicht         vanaf 100 ton tot 1000 ton</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>2</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 57.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=77>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>M,A</P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 48.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=64>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: #f0f0f0; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD></TR>    <TR style="mso-yfti-irow: 3; mso-yfti-lastrow: yes">      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 39.8pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=53>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>        <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>62.2.</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 212.65pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       width=284>        <P         style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"         class=MsoNormal>2° intensieve         aquacultuur van vis of schelpdieren met een jaarproductiecapaciteit vanaf         1000 ton of meer</P>        <P         style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"         class=MsoNormal>De         introductie van uitheemse soorten of translocatie         van plaatselijk niet-voorkomende soorten in aquacultuurvoorzieningen zoals         bepaald in de verordening aquacultuur<BR><BR>Uitzondering:         vallen niet onder deze indelingsrubriek:</P>        <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 10pt" class=MsoNormal>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         soorten opgenomen in bijlage IV van de verordening         aquacultuur<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         sierwaterdieren of - planten in dierenwinkels, tuincentra,         afgesloten tuinvijvers of aquaria die voldoen aan artikel 6 van         beschikking 2006/656/EG van de Commissie van 20 september 2006 of in         voorzieningen die zijn uitgerust met effluentbehandelingssystemen die aan         de doelstellingen van artikel 1 van de verordening aquacultuur         voldoen<BR>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         translocaties van plaatselijk niet-voorkomende soorten binnen een         lidstaat, tenzij wetenschappelijk advies duidt op mogelijke gevaren voor         het milieu als gevolg van de translocatie&nbsp;</P>        <P style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 10pt" class=MsoNormal>(Er         kan overlapping zijn met rubriek 62.1.)<BR>1°         in gesloten aquacultuurvoorziening<BR>2°         in open         aquacultuurvoorziening</P>        <P         style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-layout-grid-align: none"         class=MsoNormal>&nbsp;</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>1</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center><BR>2</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>1</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 57.6pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=77>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>M</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>M,A</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>M</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>N</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>N</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center></P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 48.3pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=64>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>J,R</P></TD>      <TD       style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: #f0f0f0; PADDING-BOTTOM: 0cm; BACKGROUND-COLOR: transparent; PADDING-LEFT: 5.4pt; WIDTH: 42.55pt; PADDING-RIGHT: 5.4pt; BORDER-TOP: #f0f0f0; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 0cm; mso-border-left-alt: solid windowtext .5pt; mso-border-right-alt: solid windowtext .5pt; mso-border-bottom-alt: solid windowtext .5pt"       vAlign=top width=57>        <P style="TEXT-ALIGN: center; MARGIN: 0cm 0cm 0pt" class=MsoNormal         align=center>&nbsp;</P></TD></TR></TBODY></TABLE></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal></P>
 
 ### Noot A.
 
@@ -49933,8 +50599,7 @@ INDICATIEVE LIJST VAN DE BELANGRIJKSTE VERONTREINIGENDE STOFFEN IN AFVALWATER<br
 11) Stoffen die bijdragen tot de eutrofiëring (met name nitraten en fosfaten).<br>
 12) Stoffen die een ongunstige invloed uitoefenen op de zuurstofbalans (en die kunnen worden gemeten met behulp van parameters zoals BZV, CZV, enz.).<br>
 <br>
-2B Lijst van gevaarlijke stoffen voor lozing in grondwater (EG-richtlijn 80/68/EEG van 17 december 1979):<br>
-De lijsten I en II hieronder zijn overeenkomstig artikel 22, lid 2, van de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid van kracht tot 22 december 2013.<br>
+2B Lijst van gevaarlijke stoffen voor lozing in grondwater (EG-richtlijn 2000/60/EG van 23 oktober 2000):<br>
 <br>
 Lijst I - Families en groepen van stoffen<br>
 <br>
@@ -50057,128 +50722,26 @@ Lijst II omvat afzonderlijke stoffen en categorieën van stoffen van de ondersta
 <br>
 BIJLAGE 2C.<br>
 LIJST VAN GEVAARLIJKE STOFFEN VOOR LOZING IN AQUATISCH MILIEU<br>
-(EG-richtlijnen 76/464/EEG van 4 mei 1976 en 2000/60/EG van 23 oktober 2000)<br>
-De lijsten I en II hierna zijn overeenkomstig artikel 22, lid 2, van de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid van kracht tot 22 december 2013.<br>
+(EG-richtlijn 2000/60/EG van 23 oktober 2000)<br>
+&nbsp;
+<p>Lijst I. Families en groepen van stoffen<br>
 <br>
-Lijst I van families en groepen van stoffen<br>
-<br>
-Lijst I omvat sommige afzonderlijke stoffen die deel uitmaken van de volgende families en groepen van stoffen die in hoofdzaak moeten worden gekozen op basis van hun toxiciteit, persistentie, bio-accumulatie, met uitzondering van die stoffen welke biologisch onschadelijk zijn of die snel worden omgezet in biologisch onschadelijke stoffen:<br>
-<br>
-1. Organische halogeenverbindingen en stoffen waaruit in water dergelijke verbindingen kunnen ontstaan.<br>
-2. Organische fosforverbindingen.<br>
-3. Organische tinverbindingen.<br>
-4. Stoffen waarvan is aangetoond dat zij in of via het water een kankerverwekkende werking hebben.<br>
-5. Kwik en kwikverbindingen.<br>
-6. Cadmium en cadmiumverbindingen.<br>
-7. Persistente minerale oliën en uit aardolie bereide persistente koolwaterstoffen.<br>
-8 Persistente kunststoffen die in water kunnen drijven, zweven of zinken en die enig gebruik van het water kunnen hinderen.<br>
-<br>
-Lijst II van families en groepen van stoffen<br>
-<br>
-Lijst II omvat de stoffen die deel uitmaken van de families en groepen van stoffen genoemd in lijst I alsmede sommige afzonderlijke stoffen en bepaalde categorieën stoffen die deel uitmaken van onderstaande families en groepen van stoffen die een schadelijke werking op het water hebben, welke echter beperkt kan zijn tot een bepaald gebied en afhangt van de kenmerken van de ontvangende wateren en de plaats daarvan.<br>
-<br>
-1. De volgende metalloïden en metalen alsmede verbindingen daarvan:<br>
+Lijst I omvat sommige afzonderlijke stoffen die deel uitmaken van de volgende families en groepen van stoffen die in hoofdzaak moeten worden gekozen op basis van hun toxiciteit, persistentie, bio-accumulatie, met uitzondering van de stoffen die biologisch onschadelijk zijn of die snel worden omgezet in biologisch onschadelijke stoffen:</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>1. Zink</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
-			<p>11. Tin</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>2. Koper</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>12. Barium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>3. Nikkel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>13. Beryllium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>4. chroom</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>14. Borium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>5. Lood</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>15. Uranium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>6. Selenium</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>16. vanadium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>7. Arsenicum</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>17. Kobalt</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>8. antimoon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>18. Thallium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>9. Molybdeen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>19. Tellurium</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>10. Titaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
-			<p>20. Zilver</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
+<p>1) organische halogeenverbindingen en stoffen die in water dergelijke verbindingen kunnen vormen;<br>
+2) organische fosforverbindingen;<br>
+3) organische tinverbindingen;<br>
+4) stoffen en preparaten, of de afbraakproducten daarvan, waarvan is aangetoond dat ze carcinogene of mutagene eigenschappen hebben, of eigenschappen die in of via het aquatische milieu gevolgen kunnen hebben voor steroïdogene functies, schildklierfuncties, de voortplanting of andere hormonale functies;<br>
+5) persistente koolwaterstoffen en persistente en bioaccumuleerbare organische toxische stoffen;<br>
+6) cyaniden;<br>
+7) metalen en metaalverbindingen;<br>
+8) arseen en arseenverbindingen;<br>
+9) biociden en gewasbeschermingsmiddelen;</p>
+10) stoffen die rechtstreeks of onrechtstreeks schadelijk kunnen zijn voor de gezondheid van de mens, van de flora of de fauna.<br>
 <br>
-2. Biociden en niet in lijst I genoemde derivaten daarvan<br>
+Lijst II. Bij naam genoemde gevaarlijke stoffen<br>
 <br>
-3. Stoffen met een schadelijke werking op de smaak en/of geur van produkten uit het water en bestemd voor de mens, alsmede verbindingen waaruit dergelijke stoffen in het water kunnen ontstaan.<br>
-<br>
-4. Organische siliciumverbindingen die toxisch of persistent zijn en stoffen waaruit dergelijke verbindingen in het water kunnen ontstaan, met uitzondering van die welke biologisch onschadelijk zijn of die in water snel worden omgezet in onschadelijke stoffen.<br>
-<br>
-5. Anorganische fosforverbindingen en elementair fosfor.<br>
-<br>
-6. Niet-persistente minerale oliën en uit aardolie bereide niet-persistente koolwaterstoffen.<br>
-<br>
-7. Cyaniden, fluoriden.<br>
-<br>
-8. Stoffen die ongunstig inwerken op de zuurstofbalans, met name: ammoniak, nitrieten.<br>
+Lijst II omvat de stoffen, vermeld in artikel 3, in de kolom ‘Parameter’, van bijlage 2.3.1 van titel II van het VLAREM.<br>
 <br>
 Lijst III<br>
 <br>
@@ -50920,15 +51483,19 @@ Lijst III. Lijst van prioritaire stoffen op het gebied van het waterbeleid, in g
 
 ### BIJLAGE 2TER
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/09/06_1.pdf#page=38" title=" Kaart" target="_blank" class="pdf">Kaart</a> <br />
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/24_1_6.pdf#page=33">Bijlage   2ter</A>  <P>&nbsp;</P>
 
 ## [BIJLAGE 2QUINQUIES (ing. BVR 16 mei 2014, art. 36, I: 4 oktober 2014)]
+
+### BIJLAGE 2QUINQUIES
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/09/24_1_6.pdf#page=34">Bijlage   2QUINQUIES</A>
 
 ## BIJLAGE 3
 
 ### BIJLAGE 3
 
-<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/07/15_1.pdf#page=9" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> <BR><BR>[nvdr:<BR>- in bijlage 3A wordt aan deel F een punt F5   toegevoegd, dat luidt als volgt :<BR>« Rubriek 17.2.2 van de   VLAREM-indelingslijst (hogedrempel-Seveso-inrichtingen)<BR>F5 Als de mededeling   betrekking heeft op een verandering in een hogedrempel-Seveso-inrichting, ofwel   van de hoeveelheid of de fysische vorm van de gevaarlijke stoffen, ofwel van de   processen of de installaties waarbij gevaarlijke stoffen worden gebruikt, die   het voorwerp heeft uitgemaakt van een veiligheidsnota die door een erkende   VR-deskundige, vermeld in artikel 6, 1°, e), van het VLAREL, en door de   afdeling, bevoegd voor veiligheidsrapportering, is goedgekeurd, voegt u de   voormelde veiligheidsnota als bijlage F5 bij dit formulier. ».<BR>(art. 22 BVR   23 december 2011)<BR>- In bijlage 3.C worden de punten C8 en E2   opgeheven.<BR>(art. 23 BVR 23 december 2011)]</P>  <P>-&nbsp; In bijlage 3A&nbsp;wordt punt F4 vervangen door wat volgt : <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>&nbsp;       <TD>&nbsp;Rubriek waarbij in de vierde kolom van de VLAREM-indelingslijst         een letter 'Y' is vermeld<BR>      <TD><BR>    <TR>      <TD>F4       <TD>Als de mededeling betrekking heeft op een aanvraag van een Y-rubriek         voegt u als bijlage F4 een door het verificatiebureau geverifieerd en door         de afdeling, bevoegd voor luchtverontreiniging, goedgekeurd monitoringplan         toe.<BR>      <TD> F4<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;Als de mededeling betrekking heeft op een aanvraag tot         schrapping van een Y-rubriek voegt u als bijlage F4 documenten toe die         aantonen dat de installatie niet langer onder het toepassingsgebied van         emissiehandel valt.<BR>      <TD>&nbsp;       <TD>&nbsp;<BR></TD></TR></TBODY></TABLE>(zie art. 31 BVR 7 juni   2013)<BR><BR><BR></P>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/07/15_1.pdf#page=9" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> <BR><BR>[nvdr:<BR>- in bijlage 3A wordt aan deel F een punt F5   toegevoegd, dat luidt als volgt :<BR>« Rubriek 17.2.2 van de   VLAREM-indelingslijst (hogedrempel-Seveso-inrichtingen)<BR>F5 Als de mededeling   betrekking heeft op een verandering in een hogedrempel-Seveso-inrichting, ofwel   van de hoeveelheid of de fysische vorm van de gevaarlijke stoffen, ofwel van de   processen of de installaties waarbij gevaarlijke stoffen worden gebruikt, die   het voorwerp heeft uitgemaakt van een veiligheidsnota die door een erkende   VR-deskundige, vermeld in artikel 6, 1°, e), van het VLAREL, en door de   afdeling, bevoegd voor veiligheidsrapportering, is goedgekeurd, voegt u de   voormelde veiligheidsnota als bijlage F5 bij dit formulier. ».<BR>(art. 22 BVR   23 december 2011)<BR><BR>- In bijlage 3.C worden de punten C8 en E2   opgeheven.<BR>(art. 23 BVR 23 december 2011)]</P>  <P>-&nbsp; In bijlage 3A&nbsp;wordt punt F4 vervangen door wat volgt : <BR></P>  <P>  <TABLE border=1>    <TBODY>    <TR>      <TD>&nbsp;       <TD>&nbsp;Rubriek waarbij in de vierde kolom van de VLAREM-indelingslijst         een letter 'Y' is vermeld<BR>      <TD><BR>    <TR>      <TD>F4       <TD>Als de mededeling betrekking heeft op een aanvraag van een Y-rubriek         voegt u als bijlage F4 een door het verificatiebureau geverifieerd en door         de afdeling, bevoegd voor luchtverontreiniging, goedgekeurd monitoringplan         toe.<BR>      <TD> F4<BR>    <TR>      <TD>&nbsp;       <TD>&nbsp;Als de mededeling betrekking heeft op een aanvraag tot         schrapping van een Y-rubriek voegt u als bijlage F4 documenten toe die         aantonen dat de installatie niet langer onder het toepassingsgebied van         emissiehandel valt.<BR>      <TD>&nbsp;       <TD>&nbsp;<BR></TD></TR></TBODY></TABLE></P>  <P>(zie art. 31 BVR 7 juni 2013)<BR><BR>- In bijlage 3.A&nbsp;   worden met ingang van 4 oktober 2014&nbsp;de volgende wijzigingen   aangebracht:<BR>1° het opschrift   “gebruiksrecht van de exploitant” wordt opgeheven;<BR>2° punt B7 tot en met   B9 wordt opgeheven;<BR>3° in punt E4 wordt   het woord “stoffen” vervangen door het woord “producten”;<BR>4° in punt F5 wordt   de zinsnede “die het   voorwerp heeft uitgemaakt van een veiligheidsnota die door een erkend   VR-deskundige, vermeld in artikel 6, 1°, e), van het VLAREL, en door de   afdeling, bevoegd voor veiligheidsrapportering, is goedgekeurd, voegt u de   voormelde veiligheidsnota als bijlage F5 bij dit formulier” vervangen door het   zinsdeel “dan voegt u een veiligheidsnota toe als bijlage F5 bij dit formulier   die door een erkend VR-deskundige als vermeld in artikel 6, 1°, e), van het   VLAREL, is opgesteld en door de afdeling, bevoegd voor veiligheidsrapportering,   is goedgekeurd”;<BR>5° er wordt een punt   F6 toegevoegd, dat luidt als volgt:&nbsp;<BR>“Rubriek 43 van de   VLAREM-indelingslijst<BR>F6 Als de mededeling   ingediend wordt op of na 5 juni 2014 en betrekking heeft op een stookinstallatie   ten behoeve van een nieuw stadsverwarmings- of koelingsnetwerk of op een   ingrijpende renovatie van stookinstallaties met een totaal nominaal thermisch   ingangsvermogen van meer dan 20 MW, voeg dan bij dit formulier als bijlage F6   een kosten-batenanalyse als beschreven in de toelichtingsbijlage bij dit   formulier in punt F6.”;<BR>6° aan de   toelichtingsbijlage, F2, wordt een punt j) toegevoegd, dat luidt als   volgt:<BR>“j) voor   grondwaterwinningen die ingedeeld zijn in rubriek 53.8.1°: een schermafdruk van   de geconsulteerde kaart voor de bepaling van het dieptecriterium op een schaal   van maximaal 1/5000.”;<BR>7° aan de   toelichtingsbijlage wordt een punt F6 toegevoegd, dat luidt als   volgt:<BR>“F6 Kosten-baten   analyse <BR>De minister bevoegd   voor energie kan criteria vastleggen voor het vrijstellen van installaties van   het uitvoeren van de kostenbatenanalyse.<BR><BR>Als   de renovatie van een installatie voor de productie van alleen elektriciteit of   voor de productie van alleen warmte is gepland, wordt in de kosten-batenanalyse   een vergelijking gemaakt tussen de geplande renovatie en een installatie die   dezelfde hoeveelheid elektriciteit of dezelfde hoeveelheid warmte produceert,   maar daarbij optimaal gebruik maakt van kwalitatieve   warmtekrachtkoppeling.<BR><BR>Als   de renovatie van een installatie voor de productie van warmte of elektriciteit   is gepland die afvalwarmte op een bruikbare temperatuur&nbsp; genereert, wordt in de   kosten-batenanalyse een vergelijking gemaakt tussen de geplande renovatie en een   installatie die dezelfde hoeveelheid elektriciteit of dezelfde hoeveelheid   warmte produceert, maar de restwarmte terugwint en warmte levert aan een   stadsverwarmings- en/of koelingsnet.<BR><BR>Als de bouw of   renovatie van een stookinstallatie ten behoeve van een stadsverwarmings- of   koelingsnetwerk is gepland, wordt in de kosten-batenanalyse een vergelijking   gemaakt tussen de geplande installatie of de geplande renovatie en het gebruik   van afvalwarmte uit nabijgelegen industriële installaties.<BR><BR>De systeemgrens omvat   de geplande installatie en de warmtebelastingen, zoals gebouwen en industriële   processen. Binnen deze systeemgrens worden de totale kosten van de warmte- en   elektriciteitsvoorziening voor beide gevallen vastgesteld en   vergeleken.<BR><BR>Warmtebelastingen   omvatten bestaande warmtebelastingen, zoals een industriële installatie of een   bestaand stadsverwarmingssysteem, en ook, in stedelijke gebieden, de   warmtebelasting en kosten die zouden ontstaan indien een groep gebouwen of een   deel van een stad voorzien zou worden van of aangesloten zou worden op een nieuw   stadsverwarmingsnet.<BR><BR>De kostenbatenanalyse   wordt gebaseerd op een beschrijving van de geplande installatie en de   installatie(s) waarmee wordt vergeleken, en heeft betrekking op het elektrisch   en het thermisch vermogen, indien van toepassing de soort brandstof, het   geplande gebruik en het aantal geplande bedrijfsuren op jaarbasis, de plaats en   de vraag naar elektriciteit en warmte.<BR><BR>Ten behoeve van de   vergelijking wordt rekening gehouden met de vraag naar thermische energie en de   soorten verwarming en koeling waarvan de nabije warmtevraagpunten gebruikmaken.   De vergelijking heeft betrekking op de met infrastructuur samenhangende kosten   voor de geplande installatie en de installatie waarmee wordt   vergeleken.<BR><BR>De analyse maakt   gebruik van een cashflowberekening op jaarbasis waarin de werkelijke   cashflowtransacties uit investeringen in en de exploitatie van individuele   installaties worden weergegeven. Projecten met een positief   kosten-batenresultaat zijn die waarbij de som van de verdisconteerde voordelen   groter is dan de som van de verdisconteerde kosten, dus waarbij de netto   contante waarde groter is dan nul.<BR><BR>De minister bevoegd   voor energie bepaalt de basisregels inzake de methode, de aannames en de   berekeningstermijn voor de economische analyse, alsook welke installaties op   basis van de globale kosten-batenanalyse geen gedetailleerde berekening dienen   uit te voeren. Alvorens dergelijk ministerieel besluit ondertekend wordt, dient   het meegedeeld te worden aan de Vlaamse Regering.”.</P>  <P>(Zie art. 37   BVR 16 mei 2014, B.S. 24 september 2014)</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpMiddle><?xml:namespace   prefix = o ns = "urn:schemas-microsoft-com:office:office"   />&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: 0cm; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-list: l0 level1 lfo1; mso-layout-grid-align: none"   class=MsoNormalCxSpMiddle><STRONG>- </STRONG>In   bijlage 3B&nbsp;worden, met ingang van 4 oktober 2014,&nbsp;de volgende   wijzigingen aangebracht:<BR>1° het opschrift   “gebruiksrecht van de exploitant” wordt opgeheven;<BR>2° punt B5 tot en met   B7 worden opgeheven.</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoNormalCxSpMiddle>(Zie art. 38 BVR 16   mei 2014, B.S. 24 september 2014)<BR></P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: 0cm; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-list: l0 level1 lfo1; mso-layout-grid-align: none"   class=MsoNormalCxSpMiddle>- In bijlage   3C&nbsp;worden, met ingang&nbsp;van 4 oktober 2014,&nbsp;de volgende wijzigingen   aangebracht:<BR>1° het opschrift   “gebruiksrecht van de nieuwe exploitant” wordt opgeheven;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; TEXT-AUTOSPACE: ; mso-add-space: auto; mso-layout-grid-align: none"   class=MsoListParagraph>&nbsp;2°   punt A5 tot en met A7 worden opgeheven<BR><BR>(Zie art. 39 BVR 16 mei 2014, B.S   24 september 2014)<BR><BR></P>
 
 ## BIJLAGE 4
 
@@ -51344,10 +51911,17 @@ Er kan verwezen worden naar andere bijlagen van de milieuvergunningsaanvraag.<br
 
 <p>10) in bijlage 4 B, 1, h), wordt de zinsnede "43ter"&nbsp; met ingang van 2 oktober 2014 vervangen door de zinsnede "2.1.1 van titel III van het VLAREM.<br>
 <br>
-(zie BVR 16 mei 2014, art. 4.1.1.8., B.S. 22 september 2014)</p>
+(zie BVR 16 mei 2014, art. 4.1.1.8., B.S. 22 september 2014)<br>
+<br>
+11) in bijlage 4 A worden met ingang van 4 oktober 2014 de volgende wijzigingen aangebracht:</p>
 
-<p><br>
-&nbsp;</p>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2014/09/24_1_2.pdf#page=53">Artikel 40</a><br>
+&nbsp;<br>
+(Zie art. 40 BVR 16 mei 2014, B.S. 24 september 2014)<br>
+<br>
+12)&nbsp;&nbsp;in bijlage 4&nbsp;B worden met ingang van 4 oktober 2014 de volgende wijzigingen aangebracht:<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2014/09/24_1_2.pdf#page=58">Artikel 41</a></p>
 
 ## BIJLAGE 5
 

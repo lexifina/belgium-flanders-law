@@ -2,16 +2,16 @@
   "codex_id": 1000016,
   "title": "Besluit van de Vlaamse Regering van 1991-02-06 houdende vaststelling van het Vlaams Reglement betreffende de milieuvergunning",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000016/VolledigDocument?datum=2014-10-02",
-  "source_sha256": "427e68608b160ea3157cce3c0f2ea4ea5b06f539eb3aea7ca017bb3fb03bb18d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000016/VolledigDocument?datum=2014-10-04",
+  "source_sha256": "1256e8f299edd8e183cfff3068b6b8eb1712127f3f23f251b313d3eb58521703",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000016&param=informatie",
-  "as_of": "2014-10-02",
+  "as_of": "2014-10-04",
   "made": "1991-02-06",
   "gazette": "1991-06-26",
   "numac": 1991035487,
   "document_start": null,
   "document_end": "2017-02-22",
-  "in_force": "2014-10-02",
-  "article_versions": 216,
-  "record_form": "consolidated version as in force on 2014-10-02; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-10-04",
+  "article_versions": 221,
+  "record_form": "consolidated version as in force on 2014-10-04; future article versions excluded; article text as the API gives it"
 }
