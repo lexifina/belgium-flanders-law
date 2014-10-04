@@ -2,16 +2,16 @@
   "codex_id": 1023228,
   "title": "Besluit van de Vlaamse Regering van 2013-06-07 tot wijziging van diverse besluiten inzake leefmilieu houdende omzetting van Europese richtlijnen en andere diverse wijzigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023228/VolledigDocument?datum=2013-09-20",
-  "source_sha256": "30b9e600f711148ed490564538d4e3c5737ae7f4ade79ff593c2e28c750515f3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023228/VolledigDocument?datum=2014-10-04",
+  "source_sha256": "571bc7d93775a9712512025ac72269ab082bc442d964c796a8cdc449d7dc3ab5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023228&param=informatie",
-  "as_of": "2013-09-20",
+  "as_of": "2014-10-04",
   "made": "2013-06-07",
   "gazette": "2013-09-10",
   "numac": 2013035649,
   "document_start": "2013-09-20",
   "document_end": null,
-  "in_force": "2013-09-20",
+  "in_force": "2014-10-04",
   "article_versions": 249,
-  "record_form": "consolidated version as in force on 2013-09-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-04; future article versions excluded; article text as the API gives it"
 }
