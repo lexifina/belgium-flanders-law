@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024591,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 tot wijziging van diverse besluiten inzake leefmilieu, wat betreft een aanpassing aan de evolutie van de techniek en aan de CLP-verordening",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024591/VolledigDocument?datum=2014-10-04",
+  "source_sha256": "c7aa8fdd76f4a454197a12a299c46b2e465c1b1452e1eaa7e9f65297341b2663",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024591&param=informatie",
+  "as_of": "2014-10-04",
+  "made": "2014-05-16",
+  "gazette": "2014-09-24",
+  "numac": 2014036521,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2014-10-04",
+  "article_versions": 653,
+  "record_form": "consolidated version as in force on 2014-10-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
