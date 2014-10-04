@@ -1064,9 +1064,13 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 			<td style="border-color: currentColor black black currentColor; width: 385.3pt; height: 14.2pt;">
 			<p style="text-align: justify;">o) Werken voor het onttrekken of kunstmatig aanvullen van grondwater:</p>
 
-			<p style="text-align: justify;">Grondwaterwinningen of kunstmatige aanvullingen van grondwater als de capaciteit 2.500 m<sup>3</sup> per dag of meer bedraagt.</p>
+			<p style="text-align: justify;">Onttrekken van grondwater, met inbegrip van terugpompingen van onbehandeld en niet-verontreinigd grondwater in dezelfde watervoerende laag, als het netto onttrokken debiet 2500 m³ per dag of meer bedraagt.</p>
 
-			<p style="text-align: justify;">Onttrekken van grondwater als de capaciteit 1.000 m<sup>3</sup> per dag of meer bedraagt en de activiteit gelegen is in of een aanzienlijke invloed kan hebben op een gebied zoals aangeduid in uitvoering van het decreet houdende maatregelen ter bescherming van de kustduinen van 14 juli 1993 of als de activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken.</p>
+			<p style="text-align: justify;">&nbsp;</p>
+
+			<p style="text-align: justify;">Kunstmatige aanvullingen van grondwater als het debiet 2500 m³ per dag of meer bedraagt.&nbsp;</p>
+
+			<p style="text-align: justify;">Onttrekken van grondwater als het debiet 1.000 m<sup>3</sup> per dag of meer bedraagt en de activiteit gelegen is in of een aanzienlijke invloed kan hebben op een gebied zoals aangeduid in uitvoering van het decreet houdende maatregelen ter bescherming van de kustduinen van 14 juli 1993 of als de activiteit een betekenisvolle aantasting van de natuurlijke kenmerken van een speciale beschermingszone kan veroorzaken.</p>
 			</td>
 		</tr>
 		<tr>
@@ -1278,4 +1282,101 @@ De categorieën van projecten die overeenkomstig artikel 4.3.2, § 1 van het dec
 
 ### Tekst
 
-Bijlage III. De categorieën van projecten waarvoor overeenkomstig artikel   4.3.2, § 2bis en § 3bis, van het decreet een project-MER of een   project-m.e.r.-screeningsnota moet worden opgesteld. <BR><BR>1. Landbouw,   bosbouw en aquacultuur<BR>a) ruilverkavelingsprojecten (projecten die niet in   bijlage II zijn opgenomen)<BR>b) projecten voor het gebruik van niet in cultuur   gebrachte gronden of seminatuurlijke gebieden voor intensieve landbouw   (projecten die niet in bijlage II zijn opgenomen)<BR>c)   waterbeheersingsprojecten voor landbouwdoeleinden, met inbegrip van irrigatie-   en droogleggingsprojecten (projecten die niet in bijlage II zijn   opgenomen)<BR>d) eerste bebossing en ontbossing met het oog op omschakeling naar   een ander bodemgebruik (projecten die niet in bijlage II zijn opgenomen)<BR>e)   intensieve veeteeltbedrijven (projecten die niet in bijlage I of II zijn   opgenomen)<BR>f) intensieve aquacultuur van vis (projecten die niet in bijlage   II zijn opgenomen)<BR>2. Extractieve bedrijven<BR>a) steengroeven,   dagbouwmijnen, met inbegrip van ontginningen van oppervlaktedelfstoffen of   grind, en turfwinningen (projecten die niet onder bijlage I of II vallen)<BR>b)   winning van mineralen door afbaggering van de zee- of rivierbodem<BR>c)   diepboringen, voor zover ze geen betrekking hebben op de verwachte effecten op   het leefmilieu die verband houden met de bescherming tegen ioniserende straling,   met name :<BR>- geothermische boringen;<BR>- boringen in verband met de opslag   van kernafval;<BR>- boringen voor watervoorziening<BR>met uitzondering van   boringen voor het onderzoek naar de stabiliteit van de grond<BR>3.   Energiebedrijven<BR>a) industriële installaties voor de productie van   elektriciteit, stoom en warm water met uitzondering van kernenergiecentrales   (projecten die niet onder bijlage I of II vallen)<BR>b) industriële installaties   voor het transport van gas, stoom en warm water; transport van elektrische   energie via bovengrondse leidingen (projecten die niet onder bijlage I of   bijlage II vallen)<BR>c) bovengrondse opslag van aardgas<BR>d) ondergrondse   opslag van gasvormige brandstoffen<BR>e) bovengrondse opslag van fossiele   brandstoffen<BR>f) industrieel briketteren van steenkool en bruinkool<BR>g)   installaties voor de behandeling en de opslag van radioactief afval, voor zover   ze geen betrekking hebben op de verwachte effecten op het leefmilieu die verband   houden met de bescherming tegen ioniserende straling (projecten die niet onder   bijlage I of II vallen)<BR>h) installaties voor de productie van   hydro-elektrische energie (projecten die niet onder bijlage II vallen)<BR>i)   installaties voor de winning van windenergie voor de energieproductie   (windturbineparken) (projecten die niet onder bijlage II vallen)<BR>4. Productie   en verwerking van metalen<BR>a) installaties voor de productie van ruwijzer of   staal (primaire of secundaire smelting), met inbegrip van continugieten   (projecten die niet onder bijlage II vallen)<BR>b) installaties voor de   verwerking van ferrometalen door :<BR>i) warmwalsen;<BR>ii) smeden met   hamers;<BR>iii) het aanbrengen van deklagen van gesmolten metaal<BR>(projecten   die niet onder bijlage II vallen)<BR>c) smelterijen van ferrometalen (projecten   die niet onder bijlage II vallen)<BR>d) installaties voor het smelten, met   inbegrip van het legeren, van non-ferrometalen, met uitzondering van edele   metalen, inclusief terugwinningsproducten (affineren, vormgieten enzovoort)   (projecten die niet onder bijlage II vallen)<BR>e) installaties voor   oppervlaktebehandeling van metalen en plastic materiaal door middel van een   elektrolytisch of chemisch procedé (projecten die niet onder bijlage II   vallen)<BR>f) automobielfabrieken en -assemblagebedrijven en fabrieken van   automobielmotoren (projecten die niet onder bijlage II vallen)<BR>g)   scheepswerven (projecten die niet onder bijlage II vallen)<BR>h) installaties   voor de bouw en reparatie van luchtvaartuigen<BR>i) spoorwegmaterieelfabrieken   (projecten die niet onder bijlage II vallen)<BR>j) uitstampen door middel van   springstoffen (projecten die niet onder bijlage II vallen)<BR>5. Minerale   industrie<BR>a) installaties voor de vervaardiging van cement (projecten die   niet onder bijlage II vallen)<BR>b) installaties voor de winning van asbest en   de fabricage van asbestproducten (projecten die niet onder bijlage I of II   vallen)<BR>c) installaties voor de fabricage van glas, met inbegrip van   glasvezels (projecten die niet onder bijlage II vallen)<BR>d) installaties voor   het smelten van minerale stoffen, met inbegrip van installaties voor de   fabricage van mineraalvezels (projecten die niet onder bijlage II vallen)<BR>e)   fabricage van keramische producten door middel van bakken, namelijk dakpannen,   bakstenen, vuurvaste stenen, tegels, aardewerk of porselein (projecten die niet   onder bijlage II vallen)<BR>6. Chemische industrie (projecten die niet onder   bijlage I of II vallen)<BR>a) behandeling van tussenproducten en vervaardiging   van chemicaliën<BR>b) productie van bestrijdingsmiddelen en farmaceutische   producten, verven en vernissen, elastomeren en peroxiden<BR>c) opslagruimten   voor aardolie, petrochemische en chemische producten<BR>7. Voedings- en   genotmiddelenindustrie (projecten die niet onder bijlage II vallen)<BR>a)   vervaardiging van plantaardige en dierlijke oliën en vetten <BR>b)   conservenfabrieken voor dierlijke en plantaardige producten<BR>c)   zuivelfabrieken<BR>d) bierbrouwerijen en mouterijen<BR>e) suikerwaren- en   siroop- of frisdrankfabrieken<BR>f) installaties voor het slachten van   dieren<BR>g) zetmeelfabrieken<BR>h) vismeel- en visoliefabrieken<BR>i)   suikerfabrieken<BR>8. Textiel-, leder-, hout- en papierindustrie<BR>a)   industriële installaties voor de fabricage van papier en karton (projecten die   niet onder bijlage I of II vallen)<BR>b) installaties voor de voorbehandeling   (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel   (projecten die niet onder bijlage II vallen)<BR>c) installaties voor het looien   van huiden (projecten die niet onder bijlage II vallen)<BR>d) installaties voor   het produceren en bewerken van celstof (projecten die niet onder bijlage II   vallen)<BR>9. Rubberverwerkende industrie (projecten die niet onder bijlage II   vallen)<BR>vervaardiging en behandeling van producten op basis van   elastomeren<BR>10. Infrastructuurprojecten<BR>a) industrieterreinontwikkeling   (projecten die niet onder bijlage II vallen)<BR>b) stadsontwikkelingsprojecten,   met inbegrip van de bouw van winkelcentra en parkeerterreinen (projecten die   niet onder bijlage II vallen)<BR>c) aanleg van spoorwegen en faciliteiten voor   de overlading tussen vervoerswijzen en van overladingsstations (projecten die   niet onder bijlage I of II vallen)<BR>d) aanleg van vliegvelden (projecten die   niet onder bijlage I of II vallen)<BR>e) aanleg van wegen (projecten die niet   onder bijlage I of II vallen)<BR>f) stuwdammen en andere installaties voor het   stuwen of voor de lange termijn opslaan van water (projecten die niet onder   bijlage I of II vallen)<BR>g) trams, boven- en ondergrondse spoorwegen,   zweefspoor en dergelijke bijzondere constructies, welke uitsluitend of   overwegend voor personenvervoer zijn bestemd (projecten die niet onder bijlage   II vallen)<BR>h) aanleg van olie- en gaspijpleidinginstallaties (projecten die   niet onder bijlage I of II vallen)<BR>i) aanleg van aquaducten over lange   afstand (projecten die niet onder bijlage II vallen)<BR>j) werken voor het   onttrekken of kunstmatig aanvullen van grondwater, die niet zijn opgenomen in   bijlage I of II<BR>k) projecten voor de overbrenging van water tussen   stroomgebieden, die niet zijn opgenomen in bijlage I of II<BR>11. Andere   projecten<BR>a) permanente race- en testbanen voor gemotoriseerde voertuigen   (projecten die niet onder bijlage II vallen)<BR>b) installaties voor de   verwijdering van afval (projecten die niet onder bijlage I of II vallen)<BR>c)   rioolwaterzuiveringsinstallaties (projecten die niet onder bijlage I of II   vallen)<BR>d) slibstortplaatsen (projecten die niet onder bijlage II   vallen)<BR>e) opslag van schroot, met inbegrip van autowrakken (projecten die   niet onder bijlage II vallen)<BR>f) testbanken voor motoren, turbines of   reactoren (projecten die niet onder bijlage II vallen)<BR>g) installaties voor   de vervaardiging van kunstmatige minerale vezels (projecten die niet onder   bijlage II vallen)<BR>h) vilderijen (projecten die niet onder bijlage II   vallen)<BR>12. Toerisme en recreatie<BR>a) skihellingen, skiliften,   kabelspoorwegen en bijbehorende voorzieningen (projecten die niet onder bijlage   II vallen)<BR>b) jachthavens (projecten die niet onder bijlage II vallen)<BR>c)   vakantiedorpen en hotelcomplexen buiten stedelijke zones, met bijbehorende   voorzieningen (projecten die niet onder bijlage II vallen)<BR>d) permanente   kampeer- en caravanterreinen (projecten die niet onder bijlage II vallen)<BR>e)   themaparken (projecten die niet onder bijlage II vallen)<BR>13. Wijziging of   uitbreiding van projecten <BR>wijziging of uitbreiding van projecten van bijlage   I, II of III waarvoor reeds een vergunning is afgegeven en die zijn of worden   uitgevoerd (niet in bijlage I of II opgenomen wijziging of   uitbreiding).
+De categorieën van projecten waarvoor overeenkomstig artikel 4.3.2, § 2bis en § 3bis, van het decreet een project-MER of een project-m.e.r.-screeningsnota moet worden opgesteld.<br>
+<br>
+1. Landbouw, bosbouw en aquacultuur<br>
+a) ruilverkavelingsprojecten (projecten die niet in bijlage II zijn opgenomen)<br>
+b) projecten voor het gebruik van niet in cultuur gebrachte gronden of seminatuurlijke gebieden voor intensieve landbouw (projecten die niet in bijlage II zijn opgenomen)<br>
+c) waterbeheersingsprojecten voor landbouwdoeleinden, met inbegrip van irrigatie- en droogleggingsprojecten (projecten die niet in bijlage II zijn opgenomen)<br>
+d) eerste bebossing en ontbossing met het oog op omschakeling naar een ander bodemgebruik (projecten die niet in bijlage II zijn opgenomen)<br>
+e) intensieve veeteeltbedrijven (projecten die niet in bijlage I of II zijn opgenomen)<br>
+f) intensieve aquacultuur van vis (projecten die niet in bijlage II zijn opgenomen)<br>
+2. Extractieve bedrijven<br>
+a) steengroeven, dagbouwmijnen, met inbegrip van ontginningen van oppervlaktedelfstoffen of grind, en turfwinningen (projecten die niet onder bijlage I of II vallen)<br>
+b) winning van mineralen door afbaggering van de zee- of rivierbodem<br>
+c) diepboringen, voor zover ze geen betrekking hebben op de verwachte effecten op het leefmilieu die verband houden met de bescherming tegen ioniserende straling, met name :<br>
+- geothermische boringen;<br>
+- boringen in verband met de opslag van kernafval;<br>
+- boringen voor watervoorziening<br>
+met uitzondering van boringen voor het onderzoek naar de stabiliteit van de grond<br>
+3. Energiebedrijven<br>
+a) industriële installaties voor de productie van elektriciteit, stoom en warm water met uitzondering van kernenergiecentrales (projecten die niet onder bijlage I of II vallen)<br>
+b) industriële installaties voor het transport van gas, stoom en warm water; transport van elektrische energie via bovengrondse leidingen (projecten die niet onder bijlage I of bijlage II vallen)<br>
+c) bovengrondse opslag van aardgas<br>
+d) ondergrondse opslag van gasvormige brandstoffen<br>
+e) bovengrondse opslag van fossiele brandstoffen<br>
+f) industrieel briketteren van steenkool en bruinkool<br>
+g) installaties voor de behandeling en de opslag van radioactief afval, voor zover ze geen betrekking hebben op de verwachte effecten op het leefmilieu die verband houden met de bescherming tegen ioniserende straling (projecten die niet onder bijlage I of II vallen)<br>
+h) installaties voor de productie van hydro-elektrische energie (projecten die niet onder bijlage II vallen)<br>
+i) installaties voor de winning van windenergie voor de energieproductie (windturbineparken) (projecten die niet onder bijlage II vallen)<br>
+4. Productie en verwerking van metalen<br>
+a) installaties voor de productie van ruwijzer of staal (primaire of secundaire smelting), met inbegrip van continugieten (projecten die niet onder bijlage II vallen)<br>
+b) installaties voor de verwerking van ferrometalen door :<br>
+i) warmwalsen;<br>
+ii) smeden met hamers;<br>
+iii) het aanbrengen van deklagen van gesmolten metaal<br>
+(projecten die niet onder bijlage II vallen)<br>
+c) smelterijen van ferrometalen (projecten die niet onder bijlage II vallen)<br>
+d) installaties voor het smelten, met inbegrip van het legeren, van non-ferrometalen, met uitzondering van edele metalen, inclusief terugwinningsproducten (affineren, vormgieten enzovoort) (projecten die niet onder bijlage II vallen)<br>
+e) installaties voor oppervlaktebehandeling van metalen en plastic materiaal door middel van een elektrolytisch of chemisch procedé (projecten die niet onder bijlage II vallen)<br>
+f) automobielfabrieken en -assemblagebedrijven en fabrieken van automobielmotoren (projecten die niet onder bijlage II vallen)<br>
+g) scheepswerven (projecten die niet onder bijlage II vallen)<br>
+h) installaties voor de bouw en reparatie van luchtvaartuigen<br>
+i) spoorwegmaterieelfabrieken (projecten die niet onder bijlage II vallen)<br>
+j) uitstampen door middel van springstoffen (projecten die niet onder bijlage II vallen)<br>
+5. Minerale industrie<br>
+a) installaties voor de vervaardiging van cement (projecten die niet onder bijlage II vallen)<br>
+b) installaties voor de winning van asbest en de fabricage van asbestproducten (projecten die niet onder bijlage I of II vallen)<br>
+c) installaties voor de fabricage van glas, met inbegrip van glasvezels (projecten die niet onder bijlage II vallen)<br>
+d) installaties voor het smelten van minerale stoffen, met inbegrip van installaties voor de fabricage van mineraalvezels (projecten die niet onder bijlage II vallen)<br>
+e) fabricage van keramische producten door middel van bakken, namelijk dakpannen, bakstenen, vuurvaste stenen, tegels, aardewerk of porselein (projecten die niet onder bijlage II vallen)<br>
+6. Chemische industrie (projecten die niet onder bijlage I of II vallen)<br>
+a) behandeling van tussenproducten en vervaardiging van chemicaliën<br>
+b) productie van bestrijdingsmiddelen en farmaceutische producten, verven en vernissen, elastomeren en peroxiden<br>
+c) opslagruimten voor aardolie, petrochemische en chemische producten bij inrichtingen behorend tot de chemische industrie<br>
+7. Voedings- en genotmiddelenindustrie (projecten die niet onder bijlage II vallen)<br>
+a) vervaardiging van plantaardige en dierlijke oliën en vetten<br>
+b) conservenfabrieken voor dierlijke en plantaardige producten<br>
+c) zuivelfabrieken<br>
+d) bierbrouwerijen en mouterijen<br>
+e) suikerwaren- en siroop- of frisdrankfabrieken<br>
+f) installaties voor het slachten van dieren<br>
+g) zetmeelfabrieken<br>
+h) vismeel- en visoliefabrieken<br>
+i) suikerfabrieken<br>
+8. Textiel-, leder-, hout- en papierindustrie<br>
+a) industriële installaties voor de fabricage van papier en karton (projecten die niet onder bijlage I of II vallen)<br>
+b) installaties voor de voorbehandeling (zoals wassen, bleken, merceriseren) of het verven van vezels of textiel (projecten die niet onder bijlage II vallen)<br>
+c) installaties voor het looien van huiden (projecten die niet onder bijlage II vallen)<br>
+d) installaties voor het produceren en bewerken van celstof (projecten die niet onder bijlage II vallen)<br>
+9. Rubberverwerkende industrie (projecten die niet onder bijlage II vallen)<br>
+vervaardiging en behandeling van producten op basis van elastomeren<br>
+10. Infrastructuurprojecten<br>
+a) industrieterreinontwikkeling (projecten die niet onder bijlage II vallen)<br>
+b) stadsontwikkelingsprojecten, met inbegrip van de bouw van winkelcentra en parkeerterreinen (projecten die niet onder bijlage II vallen)<br>
+c) aanleg van spoorwegen en faciliteiten voor de overlading tussen vervoerswijzen en van overladingsstations (projecten die niet onder bijlage I of II vallen)<br>
+d) aanleg van vliegvelden (projecten die niet onder bijlage I of II vallen)<br>
+e) aanleg van wegen (projecten die niet onder bijlage I of II vallen)<br>
+f) stuwdammen en andere installaties voor het stuwen of voor de lange termijn opslaan van water (projecten die niet onder bijlage I of II vallen)<br>
+g) trams, boven- en ondergrondse spoorwegen, zweefspoor en dergelijke bijzondere constructies, welke uitsluitend of overwegend voor personenvervoer zijn bestemd (projecten die niet onder bijlage II vallen)<br>
+h) aanleg van olie- en gaspijpleidinginstallaties (projecten die niet onder bijlage I of II vallen)<br>
+i) aanleg van aquaducten over lange afstand (projecten die niet onder bijlage II vallen)<br>
+j) werken voor het onttrekken of kunstmatig aanvullen van grondwater, die niet zijn opgenomen in bijlage I of II<br>
+k) projecten voor de overbrenging van water tussen stroomgebieden, die niet zijn opgenomen in bijlage I of II<br>
+11. Andere projecten<br>
+a) permanente race- en testbanen voor gemotoriseerde voertuigen (projecten die niet onder bijlage II vallen)<br>
+b) installaties voor de verwijdering van afval (projecten die niet onder bijlage I of II vallen)<br>
+c) rioolwaterzuiveringsinstallaties (projecten die niet onder bijlage I of II vallen)<br>
+d) slibstortplaatsen (projecten die niet onder bijlage II vallen)<br>
+e) opslag van schroot, met inbegrip van autowrakken (projecten die niet onder bijlage II vallen)<br>
+f) testbanken voor motoren, turbines of reactoren (projecten die niet onder bijlage II vallen)<br>
+g) installaties voor de vervaardiging van kunstmatige minerale vezels (projecten die niet onder bijlage II vallen)<br>
+h) vilderijen (projecten die niet onder bijlage II vallen)<br>
+12. Toerisme en recreatie<br>
+a) skihellingen, skiliften, kabelspoorwegen en bijbehorende voorzieningen (projecten die niet onder bijlage II vallen)<br>
+b) jachthavens (projecten die niet onder bijlage II vallen)<br>
+c) vakantiedorpen en hotelcomplexen buiten stedelijke zones, met bijbehorende voorzieningen (projecten die niet onder bijlage II vallen)<br>
+d) permanente kampeer- en caravanterreinen (projecten die niet onder bijlage II vallen)<br>
+e) themaparken (projecten die niet onder bijlage II vallen)<br>
+13. Wijziging of uitbreiding van projecten<br>
+wijziging of uitbreiding van projecten van bijlage I, II of III waarvoor reeds een vergunning is afgegeven en die zijn of worden uitgevoerd (niet in bijlage I of II opgenomen wijziging of uitbreiding).
