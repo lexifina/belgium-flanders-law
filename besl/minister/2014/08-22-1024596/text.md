@@ -1,0 +1,41 @@
+# Ministerieel besluit van 2014-08-22 betreffende de toekenning van een subsidie 2014 aan het Kwaliteitscentrum voor Diagnostiek
+
+### Aanhef
+
+<P>DE VLAAMSE MINISTER VAN WELZIJN, VOLKSGEZONDHEID EN GEZIN,<BR></P>  <P>Gelet op de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen   die gelden voor de begrotingen, de controle op de subsidies en voor de   boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van   de controle door het Rekenhof, artikel 11 tot en met 14;<BR></P>  <P>Gelet op het decreet van 8 juli 2011 houdende regeling van de begroting, de   boekhouding, de toekenning van subsidies en de controle op de aanwending ervan,   en de controle door het Rekenhof, artikel 53 tot en met 57;<BR></P>  <P>Gelet op het decreet van 20 december 2013 houdende de algemene   uitgavenbegroting van de Vlaamse Gemeenschap 2014, artikel 14;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 8 november 2013 betreffende   de algemene regels inzake subsidiëring;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 juli 2009 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, het laatst gewijzigd   bij het besluit van de Vlaamse Regering van 17 januari 2014;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 7 februari 2014 betreffende   het Kwaliteitscentrum voor diagnostiek, artikel 8;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 14 mei   2014;<BR></P>  <P>Gelet op de aanvraag van akkoord die op 15 mei 2014 bij de Vlaamse minister,   bevoegd voor de begroting, werd ingediend;<BR></P>  <P>Overwegende dat de Vlaamse minister, bevoegd voor de begroting, geen   beslissing heeft genomen binnen de gestelde termijn;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 19 januari 2001 houdende   regeling van de begrotingscontrole en -opmaak, artikel 6, § 7;<BR></P>  <P>Besluit:<BR></P>
+
+### ART. 1.
+
+Voor 2014 wordt een subsidie van maximaal 187 500 euro toegekend aan het   Kwaliteitscentrum voor Diagnostiek vzw, op rekeningnummer BE24 3631 3504 3238.   De subsidie wordt aangerekend op basisallocatie GB0 GC074 3300 van   begrotingsartikel GB0/1GC-D-2-A/WT van de algemene uitgavenbegroting van de   Vlaamse Gemeenschap voor het begrotingsjaar 2014.<BR>
+
+### ART. 2.
+
+De subsidie, vermeld in artikel 1, heeft betrekking op de periode van 10   maart 2014 tot en met 30 juni 2015.<BR>
+
+### ART. 3.
+
+§ 1. De subsidie, vermeld in artikel 1, is de financiële ondersteuning   voor de realisatie in de periode, vermeld in artikel 2, van de volgende   activiteiten:<BR>1° het op vraag of op eigen initiatief aanbieden van   wetenschappelijk gefundeerde informatie en documentatie over diagnostiek aan de   Vlaamse overheid en de actoren op het terrein;<BR>2° het op vraag van de Vlaamse   overheid deelnemen aan werkgroepen en vergaderingen;<BR>3° het verlenen van   adviezen, prioritair aan de Vlaamse overheid en daarnaast ook aan de actoren op   het terrein;<BR>4° het bij de actoren op het terrein detecteren van noden inzake   diagnostiek;<BR>5° het op basis van gedetecteerde noden of op vraag van de   Vlaamse overheid ontwikkelen van gepaste oplossingen voor diagnostiek;<BR>6° het   evalueren en bijsturen van ontwikkelde protocollen en andere instrumenten voor   diagnostiek aan de hand van resultaten uit evaluatieonderzoek, relevante   wetenschappelijke inzichten, ervaring uit de praktijk en   registratiegegevens;<BR>7° het ondersteunen van de actoren op het terrein bij de   implementatie van protocollen en andere instrumenten voor diagnostiek;<BR>8° het   bewaken en zo nodig bijsturen van de kwaliteit en uniformiteit bij het gebruik   van protocollen en andere instrumenten voor diagnostiek;<BR>9° het peilen naar   de behoeften aan vorming en opleiding bij de actoren op het terrein rond de   ingebruikname van protocollen en andere instrumenten voor diagnostiek;<BR>10°   het vormen en attesteren van personen of instanties voor het organiseren van een   vormingsaanbod dat de deskundigheid van de actoren op het terrein in het   gebruiken van protocollen en andere instrumenten voor diagnostiek moet   vergroten.<BR>
+
+### ART. 4.
+
+Door de realisatie van de activiteiten, vermeld in artikel 3, wordt   bijgedragen tot de volgende doelstelling van de Vlaamse overheid: het bevorderen   van de kwaliteit van diagnostiek, vooral in de sectoren die gevat zijn door de   Integrale Jeugdhulp. Die kwaliteitsbevordering moet toelaten om de principes en   functie die bouwstenen zijn van kwaliteitsvolle zorg, beter te kunnen   waarmaken:<BR>1° het identificeren van de precieze zorgnood;<BR>2° het   verstrekken van zorg op maat;<BR>3° het matchen van vraag en aanbod;<BR>4° het   betrouwbaar en verantwoord prioriteren van hulpvragen;<BR>5° het monitoren van   het hulpverleningsproces, in functie van bijsturing.<BR>
+
+### ART. 5.
+
+<P>§ 1. Voor de aanwending van de subsidie, vermeld in artikel 1, worden alleen   de volgende kosten aanvaard:<BR>1° personeelskosten;<BR>2° directe   werkingskosten;<BR>3° indirecte werkingskosten.<BR></P>  <P>§ 2. Kosten verbonden aan leningen die betrekking hebben op de kosten,   vermeld in het eerste lid, worden slechts aanvaard indien zij op voorhand door   het Departement Welzijn, Volksgezondheid en Gezin werden   goedgekeurd.<BR></P>
+
+### ART. 6.
+
+<P>Het gedeelte van de toegekende subsidie dat de aanvaarde kosten overschrijdt,   mag worden aangewend voor de aanleg van reserves ten belope van maximaal 20 %   van het maximale subsidiebedrag.<BR></P>  <P>De totale gecumuleerde reserves kunnen maximaal 50 % van het subsidiebedrag   bedragen.<BR></P>
+
+### ART. 7.
+
+<P>§ 1. De subsidie, vermeld in artikel 1, wordt als volgt uitbetaald:<BR>1° 45   % van het subsidiebedrag wordt uitbetaald na goedkeuring van het jaarplan;<BR>2°   45 % van het subsidiebedrag wordt uitbetaald in de maand juli;<BR>3° het saldo,   10 % van het subsidiebedrag, wordt uitbetaald na indiening van het   werkingsverslag en het boekhoudkundig verslag van het betreffende werkingsjaar   en na goedkeuring daarvan door het Departement Welzijn, Volksgezondheid en   Gezin.<BR></P>  <P>§ 2. Als uit de evaluatie blijkt dat de uitvoering van de activiteiten of de   financiële verantwoording onvoldoende is, kan het Departement Welzijn,   Volksgezondheid en Gezin beslissen een deel van de subsidie niet uit te betalen   of terug te vorderen.<BR></P>
+
+### ART. 8.
+
+<P>§ 1. De functionele verantwoording van de subsidie, vermeld in artikel 1,   waarbij de mate van realisatie van de bovenstaande activiteiten wordt   aangetoond, bestaat uit een werkingsverslag. Dat werkingsverslag geeft een   overzicht van de uitvoering van het meerjarenplan in het algemeen en het   jaarplan in het bijzonder.<BR></P>  <P>De functionele verantwoording is ondertekend door de vertegenwoordigers van   de vereniging.<BR></P>  <P>§ 2. De functionele verantwoording, vermeld in paragraaf 1, moet uiterlijk op   1 april 2015 op elektronische wijze worden ingediend bij het Departement   Welzijn, Volksgezondheid en Gezin. Als dit niet mogelijk is, wordt ze per post   of per fax bezorgd.<BR></P>
+
+### ART. 9.
+
+<P>§ 1. De financiële verantwoording van de subsidie, vermeld in artikel 1,   bestaat uit:<BR>1° een resultatenrekening waarin alle kosten en opbrengsten met   betrekking tot de gesubsidieerde periode zijn opgenomen voor de gesubsidieerde   activiteiten. Eventuele bijkomende subsidies van de Vlaamse overheid of andere   overheden voor dezelfde activiteit(en) moeten ook in deze resultatenrekening   opgenomen worden.<BR>2° een balans van activa en passiva.<BR></P>  <P>De financiële verantwoording is ondertekend door de wettelijke   vertegenwoordigers van de vereniging.<BR></P>  <P>§ 2. De financiële verantwoording, vermeld in paragraaf 1, moet uiterlijk op   1 april 2015 op elektronische wijze worden ingediend bij het Departement   Welzijn, Volksgezondheid en Gezin. Als dit niet mogelijk is, wordt ze per post   of per fax bezorgd.<BR></P>  <P>§ 3. De verantwoordingsstukken die betrekking hebben op de subsidieperiode   worden voor controle ter beschikking gehouden. De administratie kan alle   bewijsstukken over de aanwending van de subsidie opvragen of ter plaatse   controleren.<BR></P>

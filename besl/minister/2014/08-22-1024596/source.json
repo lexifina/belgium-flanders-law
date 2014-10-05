@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024596,
+  "title": "Ministerieel besluit van 2014-08-22 betreffende de toekenning van een subsidie 2014 aan het Kwaliteitscentrum voor Diagnostiek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024596/VolledigDocument?datum=2014-10-05",
+  "source_sha256": "51f663269218b95288104cd2e1432a6641557369b363f493a12d4d99fe7f6d6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024596&param=informatie",
+  "as_of": "2014-10-05",
+  "made": "2014-08-22",
+  "gazette": "2014-09-25",
+  "numac": 2014205728,
+  "document_start": "2014-10-05",
+  "document_end": null,
+  "in_force": "2014-10-05",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2014-10-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
