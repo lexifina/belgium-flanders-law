@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024602,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 houdende wijziging van het besluit van de Vlaamse Regering van 19 oktober 2012 houdende uitvoering van het decreet van 25 mei 2012 betreffende de preventie en bestrijding van doping in de sport, wat betreft het biologisch paspoort",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024602/VolledigDocument?datum=2014-10-09",
+  "source_sha256": "77a94f5ea67176f3c8c2efb10ea2675f5806d17431921defc391afd788296569",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024602&param=informatie",
+  "as_of": "2014-10-09",
+  "made": "2014-06-20",
+  "gazette": "2014-09-29",
+  "numac": 2014035924,
+  "document_start": "2014-10-09",
+  "document_end": null,
+  "in_force": "2014-10-09",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
