@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024608,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de digital arts en entertainment als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024608/VolledigDocument?datum=2014-10-10",
+  "source_sha256": "658fd3d2f9c1133f6be662e419d0329b7df79f96693c586870fb1089e9de58af",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024608&param=informatie",
+  "as_of": "2014-10-10",
+  "made": "2014-06-20",
+  "gazette": "2014-09-30",
+  "numac": 2014035967,
+  "document_start": "2014-10-10",
+  "document_end": null,
+  "in_force": "2014-10-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
