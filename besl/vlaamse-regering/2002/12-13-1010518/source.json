@@ -2,16 +2,16 @@
   "codex_id": 1010518,
   "title": "Besluit van de Vlaamse Regering van 2002-12-13 betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke subdoelgroepen van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010518/VolledigDocument?datum=2011-01-01",
-  "source_sha256": "60995c78c76d503778f44c8c836ded3d513e4f1a050316b8471af59a6ad9f559",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010518/VolledigDocument?datum=2014-10-11",
+  "source_sha256": "fcff70c58cfe39b62fd2c6e402c28a05b1c168dd5ec04ef138188dd373ba72b0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010518&param=informatie",
-  "as_of": "2011-01-01",
+  "as_of": "2014-10-11",
   "made": "2002-12-13",
   "gazette": "2003-01-29",
   "numac": 2003035091,
   "document_start": "2002-10-01",
   "document_end": "2017-12-31",
-  "in_force": "2011-01-01",
+  "in_force": "2014-10-11",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2011-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-11; future article versions excluded; article text as the API gives it"
 }
