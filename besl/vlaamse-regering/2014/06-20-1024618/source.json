@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024618,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 1 oktober 2010 tot uitvoering van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs met betrekking tot de wijze waarop sommige bevoegdheden van de inspectie worden uitgevoerd, wat de werking van het paritair college en de controle van de erkenningsvoorwaarde bewoonbaarheid, veiligheid en hygiëne binnen de procedure voor de intrekking van de erkenning betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024618/VolledigDocument?datum=2014-10-11",
+  "source_sha256": "cf1db23d1cb801b5cd15f112a03b67e9aba013424570d515c125a6626c78ca45",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024618&param=informatie",
+  "as_of": "2014-10-11",
+  "made": "2014-06-20",
+  "gazette": "2014-10-01",
+  "numac": 2014035939,
+  "document_start": "2014-10-11",
+  "document_end": null,
+  "in_force": "2014-10-11",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
