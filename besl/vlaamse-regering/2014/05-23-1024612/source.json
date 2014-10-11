@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024612,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken en het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs, wat betreft de vaststelling van de criteria met betrekking tot de controle van het huisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024612/VolledigDocument?datum=2014-10-11",
+  "source_sha256": "bb70df2d41f94fde81d281d8a9ad96a3ab20c361e970dcbef85bed0a613b00ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024612&param=informatie",
+  "as_of": "2014-10-11",
+  "made": "2014-05-23",
+  "gazette": "2014-10-01",
+  "numac": 2014035913,
+  "document_start": "2014-10-11",
+  "document_end": null,
+  "in_force": "2014-10-11",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2014-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
