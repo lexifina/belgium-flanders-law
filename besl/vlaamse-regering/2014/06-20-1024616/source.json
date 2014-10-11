@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024616,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke subdoelgroepen van personen met een handicap, wat betreft de samenstelling van de raad van bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024616/VolledigDocument?datum=2014-10-11",
+  "source_sha256": "36d509fd9dc637c141d69878725032ba3cc8f495c8e6e4bf931be3e18aa362b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024616&param=informatie",
+  "as_of": "2014-10-11",
+  "made": "2014-06-20",
+  "gazette": "2014-10-01",
+  "numac": 2014035937,
+  "document_start": "2014-10-11",
+  "document_end": null,
+  "in_force": "2014-10-11",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-11; oldest version available; future article versions excluded; article text as the API gives it"
+}

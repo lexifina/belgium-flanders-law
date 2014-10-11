@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 13 december 2002 betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke subdoelgroepen van personen met een handicap, wat betreft de samenstelling van de raad van bestuur
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap, artikel 7, eerste lid, en artikel 8, 6°, ingevoegd   bij het decreet van 20 december 2013;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 13 december 2002 betreffende   de erkenning en subsidiëring van een steunpunt voor kennisbeheer en   netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke   subdoelgroepen van personen met een handicap;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 2 april 2014;<BR></P>  <P>Gelet op advies 56.277/1 van de Raad van State, gegeven op 27 mei 2014, met   toepassing van artikel 84, § 3, eerste lid, van de wetten op de Raad van State,   gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+In artikel 2 van het besluit van de Vlaamse Regering van 13 december 2002   betreffende de erkenning en subsidiëring van een steunpunt voor kennisbeheer en   netwerkvorming met betrekking tot de hulp- en dienstverlening aan specifieke   subdoelgroepen van personen met een handicap, gewijzigd bij de besluiten van de   Vlaamse Regering van 14 december 2007 en 7 oktober 2011, worden de volgende   wijzigingen aangebracht:<BR>1° punt 1° wordt vervangen door wat volgt:<BR>"1° de   organisatie is opgericht in de vorm van een vereniging zonder winstoogmerk   waarvan de algemene vergadering minstens vijftien leden telt. Minstens twee   derden van de leden vertegenwoordigen organisaties die werken met of voor   personen met een handicap. De overige leden zijn deskundigen. Twee   personeelsleden die door het agentschap worden aangewezen wonen de vergaderingen   van de raad van bestuur bij zonder stemrecht;";<BR>2° in punt 3° wordt de   zinsnede "punt 1° " telkens vervangen door de zinsnede "artikel 1, §   2".<BR>
+
+### ART. 2.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de uitvoering van dit besluit.<BR>
