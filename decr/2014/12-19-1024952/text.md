@@ -62,7 +62,15 @@ Artikel 7, eerste lid, van dezelfde wet, gewijzigd bij de wetten van 21   maart 
 
 ## Afdeling 1. Fonds Gemeenschappelijk Landbouwbeleid
 
+### ART. 17.
+
+Aan artikel 34, § 2, van het decreet van 29 juni 2007 houdende bepalingen   tot begeleiding van de aanpassing van de begroting 2007 worden een punt 8° en   een punt 9° toegevoegd, die luiden als volgt:<BR>"8° het gedeelte van de   verschuldigde productieheffingen en overschotheffingen in de suikersector dat   het Vlaams Betaalorgaan mag inhouden;<BR>9° bij debiteuren verbeurd verklaarde   zekerheden en het gedeelte van de ELGF debiteuren bij onregelmatigheden of   nalatigheden, waarbij de opbrengst voor het Vlaams Betaalorgaan   is.".
+
 ## Afdeling 2. Vlaams Landbouwinvesteringsfonds
+
+### ART. 18.
+
+In artikel 12 van het decreet van 22 december 1993 houdende bepalingen tot   begeleiding van de begroting 1994, gewijzigd bij de decreten van 24 december   2004, 23 juni 2006 en 28 juni 2013, worden de volgende wijzigingen   aangebracht:<BR><BR>1° er wordt een paragraaf 1/1 ingevoegd, die luidt als   volgt:<BR>" § 1/1. Het VLIF heeft naast de taak vermeld in paragraaf 1 tot taak   de btw-plichtige activiteiten uit te oefenen van het Belgisch Interventie- en   Restitutiebureau die haar toegewezen waren tot voor de overdracht ervan   ingevolge artikel 16 van de bijzondere wet van 6 januari 2014 met betrekking tot   de Zesde Staatshervorming.<BR><BR>De Vlaamse Regering kan het VLIF eveneens   belasten met andere activiteiten die tot voor de overdracht ervan ingevolge   artikel 16 van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde   Staatshervorming aan het Belgisch Interventie- en Restitutiebureau waren   toegewezen.";<BR><BR>2° er wordt een paragraaf 3/1 ingevoegd, die luidt als   volgt:<BR>" § 3/1. Het VLIF is naast het doel vermeld in paragraaf 3, belast   met:<BR>1° de regeling van de particuliere en openbare opslag, vermeld in   verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17   december 2013 tot vaststelling van een gemeenschappelijke ordening van de   markten voor landbouwproducten en tot intrekking van de verordeningen (EEG) nr.   922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de Raad   en in verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van   17 december 2013 inzake de financiering, het beheer en de monitoring van het   gemeenschappelijk landbouwbeleid en tot intrekking van verordeningen (EEG) nr.   352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005   en (EG) nr. 485/2008 van de Raad;<BR>2° de opdrachten die haar door de Vlaamse   Regering worden gegeven in het kader van het landbouwbeleid.";<BR><BR>3° aan   paragraaf 4 wordt een punt f) toegevoegd, dat luidt als volgt:<BR>"f)   retributies die worden opgelegd voor het sluiten van   opslagcontracten.";<BR><BR>4° er wordt een paragraaf 10 toegevoegd, die luidt   als volgt:<BR>" § 10. Het VLIF neemt de in paragraaf 1/1 bedoelde taken op vanaf   16 oktober 2014.".
 
 ## HOOFDSTUK 6. Bestuurlijke verandering van de inspectiediensten Werk en Sociale Economie
 
