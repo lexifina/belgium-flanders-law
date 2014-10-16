@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024635,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 betreffende de delegatie van de bevoegdheid inzake de goedkeuring van het IMKL en het PMKL en betreffende de inwerkingtreding van het decreet van 17 januari 2014 houdende wijziging van het KLIP-decreet van 14 maart 2008, wat betreft de wijze van het afhandelen van een planaanvraag",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024635/VolledigDocument?datum=2014-10-16",
+  "source_sha256": "e0c43f5b9e2b50c04fa00b1013a11f37a5a051027e4dccfe9ac9653184fade4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024635&param=informatie",
+  "as_of": "2014-10-16",
+  "made": "2014-06-06",
+  "gazette": "2014-10-06",
+  "numac": 2014036672,
+  "document_start": "2014-10-16",
+  "document_end": null,
+  "in_force": "2014-10-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
