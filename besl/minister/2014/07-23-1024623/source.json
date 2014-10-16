@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024623,
+  "title": "Ministerieel besluit van 2014-07-23 tot voorlopige erkenning van het Vlaams betaalorgaan voor de Europese landbouwfondsen bij het Agentschap voor Landbouw en Visserij inzake de geregionaliseerde bevoegdheden van het Belgisch Interventie- en Restitutiebureau (BIRB) ingevolge de zesde staatshervorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024623/VolledigDocument?datum=2014-10-16",
+  "source_sha256": "a74ec58668325d5a3d020f78ccad87f14cff340111164886052bd03f113b7610",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024623&param=informatie",
+  "as_of": "2014-10-16",
+  "made": "2014-07-23",
+  "gazette": "2014-10-02",
+  "numac": 2014036533,
+  "document_start": "2014-10-16",
+  "document_end": "2015-08-22",
+  "in_force": "2014-10-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
