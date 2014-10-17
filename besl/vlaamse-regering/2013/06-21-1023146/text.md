@@ -56,6 +56,14 @@ De begrippen en definities, vermeld in verordening (EU) nr. 142/2011 van de Comm
 
 ## HOOFDSTUK 5 De inzameling en het vervoeren van dierlijke bijproducten en afgeleide producten
 
+### ART. 7.
+
+Elke inzameling van dierlijke bijproducten en afgeleide producten gebeurt   door een geregistreerde inzamelaar, handelaar of makelaar die geregistreerd is   voor één of meer van de volgende afvalstoffencategorieën :<BR>1° categorie   1-materiaal met uitzondering van kadavers;<BR>2° categorie 1-materiaal, in het   bijzonder kadavers van gezelschapsdieren;<BR>3° categorie 1-materiaal, in het   bijzonder kadavers van landbouwhuisdieren;<BR>4° categorie 2-materiaal met   uitzondering van kadavers;<BR>5° categorie 2-materiaal, in het bijzonder   kadavers van landbouwhuisdieren;<BR>6° categorie 3-materiaal;<BR>7° afgeleide   producten van categorie 1-materiaal;<BR>8° afgeleide producten van categorie   2-materiaal;<BR>9° afgeleide producten van categorie   3-materiaal.<BR>
+
+### ART. 8.
+
+Elk vervoer van dierlijke bijproducten en afgeleide producten gebeurt door   een geregistreerde vervoerder. Een geregistreerde vervoerder werkt steeds in   opdracht van een geregistreerde inzamelaar, handelaar of   -makelaar.<BR>
+
 ## Afdeling 1 Bewaringsmaatregelen
 
 ### ART. 9.
