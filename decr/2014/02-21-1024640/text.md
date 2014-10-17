@@ -1,5 +1,13 @@
 # Decreet van 2014-02-21 tot bekrachtiging van het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie, instellingsreview en toets nieuwe opleiding ten aanzien van opleidingen, dan wel instellingen in de Vlaamse Gemeenschap
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.<BR>
+
+### ART. 2.
+
+Het reglement van de Nederlands-Vlaamse Accreditatieorganisatie tot   bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming   accreditatie, instellingsreview en toets nieuwe opleiding ten aanzien van   opleidingen, dan wel instellingen in de Vlaamse Gemeenschap, aangenomen door de   Nederlands-Vlaamse Accreditatieorganisatie op 13 mei 2013, gewijzigd na het   advies van de Raad van State van 28 november 2013, en opgenomen in de bijlage   die bij dit decreet is gevoegd, wordt bekrachtigd.<BR>
+
 ## Bijlage Reglement tot bepaling van de bestuursbeginselen die van toepassing zijn bij de besluitvorming inzake accreditatie, instellingsreview en toets nieuwe opleiding ten aanzien van opleidingen, dan wel instellingen in de Vlaamse Gemeenschap
 
 ### Aanhef
