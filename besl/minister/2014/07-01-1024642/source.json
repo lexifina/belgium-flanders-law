@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024642,
+  "title": "Ministerieel besluit van 2014-07-01 betreffende het kwaliteitsborgingssysteem voor inzamelaars, handelaars en makelaars van dierlijke bijproducten van categorie 1 en categorie 2",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024642/VolledigDocument?datum=2014-10-17",
+  "source_sha256": "12f706ca47ffa12d1c5c593c2e271e719ff5f0b682efff0c25180e5ed2d1a409",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024642&param=informatie",
+  "as_of": "2014-10-17",
+  "made": "2014-07-01",
+  "gazette": "2014-10-07",
+  "numac": 2014035997,
+  "document_start": "2014-10-17",
+  "document_end": null,
+  "in_force": "2014-10-17",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
