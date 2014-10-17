@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024744,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-17 tot wijziging van artikel 2 en 3 van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024744/VolledigDocument?datum=2014-10-17",
+  "source_sha256": "8e4d702fa9c0d9e388b8aa36ada0e71bfd0b3d19f86c8bdfd430f6a551fe5bae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024744&param=informatie",
+  "as_of": "2014-10-17",
+  "made": "2014-10-17",
+  "gazette": "2014-11-10",
+  "numac": 2014036770,
+  "document_start": "2014-10-17",
+  "document_end": null,
+  "in_force": "2014-10-17",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
