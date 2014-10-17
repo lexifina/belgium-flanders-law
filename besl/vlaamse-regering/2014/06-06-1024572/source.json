@@ -2,16 +2,16 @@
   "codex_id": 1024572,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot wijziging van diverse besluiten met betrekking tot de ruimtelijke ordening",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024572/VolledigDocument?datum=2014-09-27",
-  "source_sha256": "d344113e654b6501909af68a15665fc7143031fb972bf225858f56378411f1d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024572/VolledigDocument?datum=2014-10-17",
+  "source_sha256": "4c347ba4706b7b0aa4a7eaf8e508132433276b45cf06847f99e083429dd7905e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024572&param=informatie",
-  "as_of": "2014-09-27",
+  "as_of": "2014-10-17",
   "made": "2014-06-06",
   "gazette": "2014-09-17",
   "numac": 2014035902,
   "document_start": "2014-09-27",
   "document_end": null,
-  "in_force": "2014-09-27",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2014-09-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-10-17",
+  "article_versions": 37,
+  "record_form": "consolidated version as in force on 2014-10-17; future article versions excluded; article text as the API gives it"
 }

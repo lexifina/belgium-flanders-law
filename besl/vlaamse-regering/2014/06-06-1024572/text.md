@@ -140,6 +140,26 @@ In artikel 17, tweede lid, van het besluit van de Vlaamse Regering van 10   juli
 
 In artikel 1 van het besluit van de Vlaamse Regering van 29 maart 2013 tot   bepaling van de nadere regels inzake het planologisch attest wordt een punt 6°   toegevoegd, dat luidt als volgt:<BR>"6° het departement: het Departement   Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed.".<BR>
 
+### ART. 30.
+
+&nbsp;In artikel 5, § 1, 2°, van hetzelfde besluit worden de woorden "de   deputatie" vervangen door de woorden "de provincieraad".<BR>
+
+### ART. 31.
+
+&nbsp;In artikel 6, § 1, 2°, van hetzelfde besluit worden de woorden "de   deputatie" vervangen door de woorden "de provincieraad".<BR>
+
+### ART. 32.
+
+In artikel 7, § 1, derde lid, van hetzelfde besluit worden de woorden "de   deputatie" vervangen door de woorden "de provincieraad".<BR>
+
+### ART. 33.
+
+In artikel 9, § 3, tweede lid, van hetzelfde besluit worden de woorden "de   deputatie" vervangen door de woorden "de provincieraad".<BR>
+
+### ART. 34.
+
+&nbsp;In artikel 10 van hetzelfde besluit worden de volgende wijzigingen   aangebracht:<BR>1° paragraaf 5 wordt vervangen door wat volgt:<BR>" § 5. Het   departement verstuurt uiterlijk de laatste dag van het openbaar onderzoek een   advies naar de bevoegde overheid.";<BR>2° in paragraaf 6 worden de woorden "de   deputatie" vervangen door de woorden "de provincieraad";<BR>3° aan paragraaf 6   worden de volgende zinnen toegevoegd:<BR>"Overeenkomstig artikel 4.4.25, § 4,   tweede lid, van de Vlaamse Codex Ruimtelijke Ordening bevat het advies het   integrale advies van het departement. Op hetzelfde ogenblik bezorgt de bevoegde   commissie voor ruimtelijke ordening de gebundelde adviezen, opmerkingen en   bezwaren aan het bevoegde bestuursorgaan.".<BR>
+
 ## HOOFDSTUK 11 Slotbepalingen
 
 ### ART. 35.
