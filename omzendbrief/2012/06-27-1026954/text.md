@@ -168,7 +168,11 @@ De bepalingen van deze omzendbrief zijn van toepassing vanaf 1 juli 2012.
 
 ### BIJLAGE 3
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=237">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=237</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=237">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=237</a><br>
+<br>
+* Bij Vlaamse omzendbrief van 19 mei 2016, B.S. 29 juni 2016&nbsp;worden met ingang van 18 oktober 2014 de volgende wijzigingen aangebracht:<br>
+1° de woorden "de Directeur-generaal van het DGMV" worden telkens vervangen door "het hoofd van het departement";<br>
+2° de woorden "voorgezeten door de Directeur-generaal van het DGMV" worden telkens vervangen door de zinsnede "voorgezeten door een vertegenwoordiger van één van de drie gewesten, aangeduid in onderling overleg,"
 
 ### BIJLAGE 4
 
@@ -176,7 +180,14 @@ De bepalingen van deze omzendbrief zijn van toepassing vanaf 1 juli 2012.
 
 ### BIJLAGE 5
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=251">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=251</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=251">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=251</a><br>
+<br>
+* Bij Vlaamse omzendbrief van 19 mei 2016, B.S. 29 juni 2016&nbsp;worden met ingang van 18 oktober 2014 de volgende wijzigingen aangebracht:<br>
+1° in artikel 8 en artikel 9 van bijlage 5 worden de woorden "inspecteurs van de Federale Overheidsdienst Mobiliteit en Vervoer (DCI - Directie certificatie en inspectie)" telkens vervangen door de woorden "inspecteurs van het departement";<br>
+2° artikel 13 van bijlage 5 wordt vervangen door wat volgt:<br>
+"De huidige samenwerkingsovereenkomst afgesloten voor de duur van 4 jaar neemt aanvang op .../.../2012 en loopt tot en met .../.../2016.".<br>
+3° in artikel 14 van bijlage 5 worden de woorden "Minister van Mobiliteit" vervangen door de woorden "Minister";<br>
+4° in artikel 14 van bijlage 5 worden de woorden "Staatssecretaris voor Mobiliteit" vervangen door de woorden "Minister"
 
 ### BIJLAGE 6
 
@@ -184,4 +195,8 @@ De bepalingen van deze omzendbrief zijn van toepassing vanaf 1 juli 2012.
 
 ### BIJLAGE 7
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=268">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=268</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=268">http://www.ejustice.just.fgov.be/mopdf/2012/07/05_1.pdf#page=268</a><br>
+<br>
+* Bij Vlaamse omzendbrief van 19 mei 2016, B.S. 29 juni 2016&nbsp;worden met ingang van 18 oktober 2014 de volgende wijzigingen aangebracht:<br>
+1° de woorden "de Directeur-generaal van het DGMV" worden vervangen door de woorden "een vertegenwoordiger van één van de drie gewesten, aangeduid in onderling overleg";<br>
+2° de woorden "de dienst DCI (Directie Inspectie en Certificatie)" worden vervangen door de woorden "het departement".
