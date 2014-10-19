@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024647,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-04 tot wijziging van artikel 28 van het besluit van de Vlaamse Regering van 15 mei 2009 tot uitvoering van het decreet van 10 juli 2008 betreffende het toeristische logies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024647/VolledigDocument?datum=2014-10-19",
+  "source_sha256": "bb6d515d9422061f81deca9fc6967c61547577b0ec1841eec5284b3a166ea569",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024647&param=informatie",
+  "as_of": "2014-10-19",
+  "made": "2014-07-04",
+  "gazette": "2014-10-09",
+  "numac": 2014036403,
+  "document_start": "2014-10-19",
+  "document_end": null,
+  "in_force": "2014-10-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
