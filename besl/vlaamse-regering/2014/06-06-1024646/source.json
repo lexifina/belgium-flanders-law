@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024646,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2011 tot uitvoering van het decreet van 8 mei 2009 betreffende de diepe ondergrond en tot wijziging van diverse besluiten, met het oog op het invoegen van nadere regels over de geologische opslag van koolstofdioxide",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024646/VolledigDocument?datum=2014-10-19",
+  "source_sha256": "4b77222404c42b54d91961cf5c877f5f8db863f1d9413b08cd0525d05b3c2f13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024646&param=informatie",
+  "as_of": "2014-10-19",
+  "made": "2014-06-06",
+  "gazette": "2014-10-09",
+  "numac": 2014035962,
+  "document_start": "2014-10-19",
+  "document_end": null,
+  "in_force": "2014-10-19",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
