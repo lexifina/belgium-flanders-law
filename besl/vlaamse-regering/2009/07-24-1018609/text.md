@@ -143,11 +143,11 @@ Om voorlopig erkend te kunnen worden moet een ouderenvoorziening aan de volgende
 
 ### ART. 9.
 
-Op het voldoende gemotiveerde verzoek van de voorziening of vereniging,   kan de administrateur-generaal een afwijking toestaan op sommige van de   specifieke erkenningsvoorwaarden die per soort voorziening of voor de   verenigingen vermeld zijn in bijlage I tot en met XIII, XV en XVI&nbsp;bij dit   besluit. Afwijkingen kunnen slechts worden toegestaan mits het aanbod, de   kwaliteit en de veiligheid van de hulp- en dienstverlening voldoende   gegarandeerd zijn.<BR><BR>Op het gemotiveerde verzoek van een erkend   woonzorgcentrum kan de administrateur-generaal dat centrum toestaan om aan een   gebruiker, jonger dan 65 jaar, ouderenzorg aan te bieden. <BR><BR>
+Op het voldoende gemotiveerde verzoek van de voorziening of vereniging,   kan de administrateur-generaal een afwijking toestaan op sommige van de   specifieke erkenningsvoorwaarden die per soort voorziening of voor de   verenigingen vermeld zijn in bijlage I tot en met XIII, XV en XVI&nbsp;bij dit   besluit. Afwijkingen kunnen slechts worden toegestaan mits het aanbod, de   kwaliteit en de veiligheid van de hulp- en dienstverlening voldoende   gegarandeerd zijn.<BR>
 
 ### ART. 10.
 
-Een erkend dagverzorgingscentrum of centrum voor kortverblijf dat een gebruiker, jonger dan 65 jaar, opneemt, stelt in het centrum een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van de gebruiker geen andere voorzieningen beschikbaar zijn die de zorgvraag gepast kunnen beantwoorden.<br /><br />
+Een erkend woonzorgcentrum, dagverzorgingscentrum of centrum voor   kortverblijf dat een gebruiker, jonger dan 65 jaar, opneemt, stelt in het   centrum een verslag ter beschikking waaruit blijkt dat er in de woonomgeving van   de gebruiker geen andere voorzieningen beschikbaar zijn die de zorgvraag gepast   kunnen beantwoorden.<BR><BR>
 
 ### ART. 10/1.
 
@@ -156,6 +156,10 @@ In afwijking van artikel 10 kan, per erkend dagverzorgingscentrum, aan een   aan
 ### ART. 10/2.
 
 Per erkende groep van assistentiewoningen kan een aantal   assistentiewoningen worden aangeboden aan gebruikers, die jonger zijn dan 65   jaar. Maximaal 25 procent van het totale aantal erkende assistentiewoningen van   de groep kan daarvoor in aanmerking komen. De minister kan nadere voorwaarden   bepalen voor die gebruikers.
+
+### ART. 10/3.
+
+Per erkend woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar,   maximaal 10% van het totale aantal erkende woongelegenheden van dat   woonzorgcentrum bedragen. Hierbij worden het aantal woongelegenheden met een   bijzondere erkenning als centrum voor niet aangeboren hersenletsels niet   meegerekend. De minister kan nadere voorwaarden bepalen voor de gebruikers   gebruikers jonger dan 65 jaar.
 
 ## [HOOFDSTUK III/1 Bijkomende erkenningsvoorwaarden (ing. BVR 30 november 2018, art. 566, I: 1 januari 2019)]
 
