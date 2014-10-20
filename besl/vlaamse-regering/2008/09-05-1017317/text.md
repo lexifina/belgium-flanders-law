@@ -338,7 +338,7 @@ De leden van de adviescommissie worden geacht alle aanvraagdossiers te hebben on
 
 ### ART. 59.
 
-Voor de behandeling van de bezwaarschriften, vermeld in artikelen 6, 18 en 32, wordt een beroepscommissie opgericht.<br /><br />De beroepscommissie is samengesteld uit maximaal vijf deskundigen. De leden van de beroepscommissie worden door de minister aangewezen uit een lijst van personen, voorgesteld door de raad die bevoegd is voor de adviesverstrekking in de sector van het sociaal-cultureel volwassenenwerk.<br /><br />De vergoeding voor de werkzaamheden van de leden van de beroepscommissie bedraagt, op voorwaarde dat ze aanwezig zijn op de bijeenkomsten, 25 euro per dossier, de reiskosten uitgezonderd.
+Voor de behandeling van de bezwaarschriften, vermeld in artikelen   6,&nbsp;20 en 32, wordt een beroepscommissie opgericht.<BR><BR>De   beroepscommissie is samengesteld uit maximaal vijf deskundigen. De leden van de   beroepscommissie worden door de minister aangewezen uit een lijst van personen,   voorgesteld door de raad die bevoegd is voor de adviesverstrekking in de sector   van het sociaal-cultureel volwassenenwerk.<BR><BR>De vergoeding voor de   werkzaamheden van de leden van de beroepscommissie bedraagt, op voorwaarde dat   ze aanwezig zijn op de bijeenkomsten, 25 euro per dossier, de reiskosten   uitgezonderd.
 
 ## TITEL VI. De federatie van organisaties voor volksontwikkelingswerk
 
