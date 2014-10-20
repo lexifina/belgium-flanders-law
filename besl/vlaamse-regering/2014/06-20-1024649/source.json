@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024649,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, wat betreft de opname van bewoners jonger dan 65 jaar in een erkend woonzorgcentrum",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024649/VolledigDocument?datum=2014-10-20",
+  "source_sha256": "439c552b9a5eb3f44b51338c73c737c4d046e53cb68c32105d57bdc6caf43654",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024649&param=informatie",
+  "as_of": "2014-10-20",
+  "made": "2014-06-20",
+  "gazette": "2014-10-10",
+  "numac": 2014035974,
+  "document_start": "2014-10-20",
+  "document_end": null,
+  "in_force": "2014-10-20",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}

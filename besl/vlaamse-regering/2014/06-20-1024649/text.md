@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, wat betreft de opname van bewoners jonger dan 65 jaar in een erkend woonzorgcentrum
+
+### Aanhef
+
+De   Vlaamse Regering,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het Woonzorgdecreet van 13 maart 2009, artikel 40, gewijzigd bij het decreet   van 21 juni 2013;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de   programmatie, de erkenningsvoorwaarden en de subsidieregeling voor   woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het advies van de Inspectie van Financiën, gegeven op 28 maart   2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op advies 56.265/3 van de Raad van State, gegeven op 26 mei 2014, met toepassing   van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State,   gecoördineerd op 12 januari 1973;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Op   voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en   Gezin;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Na   beraadslaging,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+In   artikel 9 van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende   de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor   woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, gewijzigd   bij de besluiten van de Vlaamse Regering van 28 september 2012 en 12 oktober   2012, wordt het tweede lid opgeheven.
+
+### ART. 2.
+
+In   artikel 10 van hetzelfde besluit wordt tussen het woord "erkend" en het woord   "dagverzorgingscentrum" de zinsnede "woonzorgcentrum,"   ingevoegd.
+
+### ART. 3.
+
+In hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 11 december 2009, 2 april 2010, 24 september 2010, 17   december 2010, 23 december 2010, 25 februari 2011, 16 december 2011, 23 december   2011, 22 juni 2012, 14 september 2012, 28 september 2012, 5 oktober 2012, 12   oktober 2012, 7 december 2012, 21 december 2012, 22 maart 2013, 24 mei 2013, 19   juli 2013, 6 december 2013 en 13 december 2013, wordt een artikel 10/3   ingevoegd, dat luidt als volgt :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   10/3. Per erkend woonzorgcentrum mag het aantal gebruikers jonger dan 65 jaar,   maximaal 10% van het totale aantal erkende woongelegenheden van dat   woonzorgcentrum bedragen. Hierbij worden het aantal woongelegenheden met een   bijzondere erkenning als centrum voor niet aangeboren hersenletsels niet   meegerekend. De minister kan nadere voorwaarden bepalen voor de gebruikers   gebruikers jonger dan 65 jaar.".
+
+### ART. 4.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen,   is belast met de uitvoering van dit besluit.
