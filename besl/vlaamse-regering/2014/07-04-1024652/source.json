@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024652,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-04 tot wijziging van het besluit van de Vlaamse Regering van 25 november 2011 houdende toekenning van subsidies met middelen uit het bossencompensatiefonds aan de provincie Oost-Vlaanderen voor de aankoop van te bebossen terreinen te Nazareth, bosuitbreiding Hospicebossen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024652/VolledigDocument?datum=2014-10-20",
+  "source_sha256": "8c85fe8de3fad324e45b5abdf9c55a39511b7a85677f13ca83cf0091fa4df259",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024652&param=informatie",
+  "as_of": "2014-10-20",
+  "made": "2014-07-04",
+  "gazette": "2014-10-10",
+  "numac": 2014036502,
+  "document_start": "2014-10-20",
+  "document_end": null,
+  "in_force": "2014-10-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-10-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
