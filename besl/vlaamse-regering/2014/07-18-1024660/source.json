@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024660,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-18 houdende indeling bij de gemeentewegen van de gewestweg N439 Stationsstraat tussen kilometerpunt 0,000 en 1,974 op het grondgebied van de gemeente Gavere",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024660/VolledigDocument?datum=2014-10-23",
+  "source_sha256": "f6e7b84cc4e45a312b5f9d8c41678b5c122ab0464a5e7f32e9eb7b901cb52da4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024660&param=informatie",
+  "as_of": "2014-10-23",
+  "made": "2014-07-18",
+  "gazette": "2014-10-13",
+  "numac": 2014036462,
+  "document_start": "2014-10-23",
+  "document_end": null,
+  "in_force": "2014-10-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
