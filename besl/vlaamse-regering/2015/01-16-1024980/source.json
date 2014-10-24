@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024980,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-16 tot officiële naamswijziging van de Groep T Internationale Hogeschool Leuven",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024980/VolledigDocument?datum=2014-10-24",
+  "source_sha256": "ed54939a97fbb60f1bd95db94c476d6ca4f2f6830667221b2f68fb18dab476cd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024980&param=informatie",
+  "as_of": "2014-10-24",
+  "made": "2015-01-16",
+  "gazette": "2015-02-12",
+  "numac": 2015035137,
+  "document_start": "2014-10-24",
+  "document_end": null,
+  "in_force": "2014-10-24",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
