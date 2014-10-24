@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024889,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot officiële naamswijziging van de Katholieke Hogeschool Leuven en de Katholieke Hogeschool Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024889/VolledigDocument?datum=2014-10-24",
+  "source_sha256": "5916bc5c12e7219f54b45deb7bb5735c6edf81818a39a0a614cf4a1c38011718",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024889&param=informatie",
+  "as_of": "2014-10-24",
+  "made": "2014-12-19",
+  "gazette": "2015-01-23",
+  "numac": 2015035019,
+  "document_start": "2014-10-24",
+  "document_end": null,
+  "in_force": "2014-10-24",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
