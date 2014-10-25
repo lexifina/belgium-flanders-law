@@ -2,16 +2,16 @@
   "codex_id": 1011561,
   "title": "Besluit van de Vlaamse Regering van 2003-06-27 betreffende de erkenning en de subsidiëring van bosgroepen en de wijze waarop leden van [het Agentschap voor Natuur en Bos] kunnen meewerken in erkende bosgroepen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011561/VolledigDocument?datum=2009-09-12",
-  "source_sha256": "94f1940c2ecc7e11e1a249ea16030ce9f19196e532b0811fce1a4f40e77527d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011561/VolledigDocument?datum=2014-10-25",
+  "source_sha256": "d0b4f1b8033f722ab6ce42a65ad7c29389be43a26d315889fe74932d07c83323",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011561&param=informatie",
-  "as_of": "2009-09-12",
+  "as_of": "2014-10-25",
   "made": "2003-06-27",
   "gazette": "2003-09-10",
   "numac": 2003035992,
   "document_start": null,
   "document_end": "2014-10-24",
-  "in_force": "2009-09-12",
+  "in_force": "2014-10-25",
   "article_versions": 38,
-  "record_form": "consolidated version as in force on 2009-09-12; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-25; future article versions excluded; article text as the API gives it"
 }
