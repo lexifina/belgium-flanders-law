@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024664,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 21 december 2012 betreffende de toekenning van een subsidie voor de tolkuren Vlaamse Gebarentaal voor secundair, hoger en volwassenenonderwijs voor 2012-2013 en 2013-2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024664/VolledigDocument?datum=2014-10-25",
+  "source_sha256": "a6dc9a131fa8b4fa2bbd59f9543304df281504bd967c4531a20a3e9cb0ecc543",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024664&param=informatie",
+  "as_of": "2014-10-25",
+  "made": "2014-06-20",
+  "gazette": "2014-10-15",
+  "numac": 2014036504,
+  "document_start": "2014-10-25",
+  "document_end": null,
+  "in_force": "2014-10-25",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2014-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
