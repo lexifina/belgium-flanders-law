@@ -2,16 +2,16 @@
   "codex_id": 1022691,
   "title": "Besluit van de Vlaamse Regering van 2012-12-14 betreffende het vervoer van gevaarlijke goederen over de binnenwateren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022691/VolledigDocument?datum=2013-02-09",
-  "source_sha256": "0b2de291f6a42b6f4138e71b1a037b1afb363bc73841bc754bbc15f4776a2cbc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022691/VolledigDocument?datum=2014-10-25",
+  "source_sha256": "9fe459e5a5cfb3fab753b400f59c047c2c745c17fdca770282c4b89fa84fcb64",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022691&param=informatie",
-  "as_of": "2013-02-09",
+  "as_of": "2014-10-25",
   "made": "2012-12-14",
   "gazette": "2013-01-30",
   "numac": 2013035070,
   "document_start": "2013-02-09",
   "document_end": "2016-09-08",
-  "in_force": "2013-02-09",
+  "in_force": "2014-10-25",
   "article_versions": 76,
-  "record_form": "consolidated version as in force on 2013-02-09; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-25; future article versions excluded; article text as the API gives it"
 }
