@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024667,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 14 december 2012 betreffende het vervoer van gevaarlijke goederen over de binnenwateren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024667/VolledigDocument?datum=2014-10-25",
+  "source_sha256": "02b3d3c76c6bbee81df3b526856a2bbbf4804af21f4212b5da0164434c7242f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024667&param=informatie",
+  "as_of": "2014-10-25",
+  "made": "2014-06-06",
+  "gazette": "2014-10-15",
+  "numac": 2014036673,
+  "document_start": "2014-10-25",
+  "document_end": null,
+  "in_force": "2014-10-25",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-10-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
