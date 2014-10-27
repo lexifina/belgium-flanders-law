@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024675,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-18 betreffende de subsidiëring in 2015 van de projecten die in 2014 gesubsidieerd werden via het Fonds voor collectieve uitrusting en diensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024675/VolledigDocument?datum=2014-10-27",
+  "source_sha256": "6552c1a3e786bb987c707a218171f5f2f8f782d126da57814c4aaa495087cd88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024675&param=informatie",
+  "as_of": "2014-10-27",
+  "made": "2014-07-18",
+  "gazette": "2014-10-17",
+  "numac": 2014036514,
+  "document_start": "2014-10-27",
+  "document_end": null,
+  "in_force": "2014-10-27",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2014-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
