@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024676,
+  "title": "Besluit van de Vlaamse Regering van 2014-07-18 betreffende de toekenning van een afwijking van de rationalisatienorm aan het Centrum voor Volwassenenonderwijs T.I.K.B.",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024676/VolledigDocument?datum=2014-10-27",
+  "source_sha256": "6ebc55c48223c814549a65fd1b83bfb4ee52ceca68ae208190bb384871cb5307",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024676&param=informatie",
+  "as_of": "2014-10-27",
+  "made": "2014-07-18",
+  "gazette": "2014-10-17",
+  "numac": 2014036517,
+  "document_start": "2014-10-27",
+  "document_end": null,
+  "in_force": "2014-10-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
