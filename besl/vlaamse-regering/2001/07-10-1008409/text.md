@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het Fonds: het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br />2° de werknemers: de personen die in een op 31 december 2000 goedgekeurd DAC project tewerkgesteld zijn of kunnen tewerkgesteld zijn;<br />3° het loon: de reële personeelskosten van de geregulariseerde werknemer zoals vastgesteld door de op de sector van tewerkstelling toepasselijke regels.<br />4° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br />5° het Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het Fonds:   het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<BR>2° de   werknemers: de personen die in een op 31 december 2000 goedgekeurd DAC project   tewerkgesteld zijn of kunnen tewerkgesteld zijn;<BR>3° het loon: de reële   personeelskosten van de geregulariseerde werknemer zoals vastgesteld door de op   de sector van tewerkstelling toepasselijke regels.<BR>4° de VDAB : de Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<BR>5° Departement WSE: het   Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie.
 
 ### ART. 2.
 
@@ -38,7 +38,9 @@ Het Fonds neemt het loon ten laste van de werknemers die tewerkgesteld zijn of k
 
 ### ART. 8.
 
-Het Subsidieagentschap neemt het loon ten laste van de werknemers die tewerkgesteld zijn of kunnen tewerkgesteld zijn in de DAC projecten opgesomd in hoofdstuk III van de bijlage bij dit besluit.<br /><br />De in acht genomen weddeschaal is deze die krachtens de kwalificatie van de werknemer van toepassing is overeenkomstig de loonschalen en de klassificatie die gelden in de sector van de beschutte tewerkstelling.
+Het Departement WSE neemt het loon ten laste van de werknemers die tewerkgesteld zijn of kunnen tewerkgesteld zijn in de DAC projecten opgesomd in hoofdstuk III van de bijlage bij dit besluit.<br>
+<br>
+De in acht genomen weddeschaal is deze die krachtens de kwalificatie van de werknemer van toepassing is overeenkomstig de loonschalen en de klassificatie die gelden in de sector van de beschutte tewerkstelling.
 
 ### ART. 9.
 
