@@ -2,16 +2,16 @@
   "codex_id": 1016363,
   "title": "Besluit van de Vlaamse Regering van 2007-10-05 tot vaststelling van de nadere voorwaarden en regels volgens welke subsidies worden verleend voor permanente vorming en opleiding voor werkenden en bedrijven, luik « Hefboomkrediet - Opleidingen »",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016363/VolledigDocument?datum=2007-11-23",
-  "source_sha256": "4d8bf6e710061749db6084a052b24b8f26b2988ae26d970c5f62846b80c2d044",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016363/VolledigDocument?datum=2014-10-30",
+  "source_sha256": "c6a9d70a0198125955739f64badd33ff4c5b23c58d28df2dfd3356fe942b54a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016363&param=informatie",
-  "as_of": "2007-11-23",
+  "as_of": "2014-10-30",
   "made": "2007-10-05",
   "gazette": "2007-11-23",
   "numac": 2007037029,
   "document_start": "2007-11-23",
   "document_end": null,
-  "in_force": "2007-11-23",
+  "in_force": "2014-10-30",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2007-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
 }
