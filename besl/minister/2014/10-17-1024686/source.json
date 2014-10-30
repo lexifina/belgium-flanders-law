@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024686,
+  "title": "Ministerieel besluit van 2014-10-17 houdende delegatie van sommige bevoegdheden in het kader van de bijzondere vergunningsprocedure aan de leidend ambtenaar van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024686/VolledigDocument?datum=2014-10-30",
+  "source_sha256": "409881300cc314299c51824b3067108b16d157b568e81c47d22ad01539b9dd75",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024686&param=informatie",
+  "as_of": "2014-10-30",
+  "made": "2014-10-17",
+  "gazette": "2014-10-21",
+  "numac": 2014036739,
+  "document_start": "2014-10-30",
+  "document_end": null,
+  "in_force": "2014-10-30",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
