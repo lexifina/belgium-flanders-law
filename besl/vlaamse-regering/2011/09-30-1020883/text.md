@@ -8,7 +8,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houden
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° aankoop : de verwerving van een gebouw dat in aanmerking komt voor een integrale functionele bestemming als werkplaats;<br />2° aanvraagdossier : investeringsdossier zoals voorgelegd door de werkplaats voor het verkrijgen van een investeringssubsidie;<br />3° capaciteit : het aan de werkplaats toebedeelde aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers met een arbeidshandicap als bepaald bij het besluit van de Vlaamse Regering van 9 mei 2008 tot vaststelling van de programmatie van de door het Vlaams Subsidieagentschap voor Werk en Sociale Economie erkende beschutte werkplaatsen;<br />4° nieuwbouw : een nieuwe bouwconstructie met een integrale functionele bestemming als werkplaats;<br />5° Subsidieagentschap : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 4 juni 2004 tot oprichting van het Vlaams Subsidieagentschap voor Werk en Sociale Economie;<br />6° uitbreiding : een nieuwe bouwconstructie die aan een bestaande constructie wordt toegevoegd met een integrale functionele bestemming als werkplaats;<br />7° verbouwing : elke materiële ingreep, met uitzondering van de onderhoudswerkzaamheden en de door slijtage noodzakelijke vervangingswerkzaamheden, en werkzaamheden tot verbetering of vernieuwing van een geëxploiteerd gebouw met een integrale functionele bestemming als werkplaats;<br />8° werkplaats : een beschutte werkplaats die erkend is door het Subsidieagentschap bij het besluit van de Vlaamse Regering van 17 december 1999 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° aankoop : de verwerving van een gebouw dat in aanmerking komt voor een integrale functionele bestemming als werkplaats;<br>
+2° aanvraagdossier : investeringsdossier zoals voorgelegd door de werkplaats voor het verkrijgen van een investeringssubsidie;<br>
+3° capaciteit : het aan de werkplaats toebedeelde aantal voltijds equivalente subsidieerbare arbeidsplaatsen voor werknemers met een arbeidshandicap als bepaald bij het besluit van de Vlaamse Regering van 9 mei 2008 tot vaststelling van de programmatie van de door het Departement Werk en Sociale Economie erkende beschutte werkplaatsen;<br>
+4° nieuwbouw : een nieuwe bouwconstructie met een integrale functionele bestemming als werkplaats;<br>
+5° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+6° uitbreiding : een nieuwe bouwconstructie die aan een bestaande constructie wordt toegevoegd met een integrale functionele bestemming als werkplaats;<br>
+7° verbouwing : elke materiële ingreep, met uitzondering van de onderhoudswerkzaamheden en de door slijtage noodzakelijke vervangingswerkzaamheden, en werkzaamheden tot verbetering of vernieuwing van een geëxploiteerd gebouw met een integrale functionele bestemming als werkplaats;<br>
+8° werkplaats : een beschutte werkplaats die erkend is door het Departement WSE bij het besluit van de Vlaamse Regering van 17 december 1999 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen.<br>
+&nbsp;
 
 ### ART. 2.
 
@@ -43,7 +52,13 @@ De maximale investeringssubsidie bepaald met toepassing van artikel 4 en 5, word
 
 ### ART. 7.
 
-De investeringssubsidie wordt alleen toegekend als : <br />1° de nieuwbouw, aankoop of uitbreiding van de infrastructuur ten minste 350 vierkante meter bedraagt; <br />2° het aandeel van de werknemers met een arbeidshandicap dat werkzaam is in de nieuw aan te kopen, uit te breiden of te verbouwen infrastructuur met productiebestemming ten minste 50 procent omvat; <br />3° bij aanvang en tijdens de uitvoering van de werkzaamheden de werkplaats duidelijk publiek bekendmaakt dat de werkzaamheden medegefinancierd worden door de Vlaamse Overheid. Het Subsidieagentschap kan hierover nadere bepalingen vaststellen; <br />4° de geplande infrastructuur minimaal tien vierkante meter per voorziene capaciteit omvat; <br />5° de werkplaats maximale inspanningen levert inzake duurzaam en ecologisch bouwen. <br /><br />
+De investeringssubsidie wordt alleen toegekend als :<br>
+1° de nieuwbouw, aankoop of uitbreiding van de infrastructuur ten minste 350 vierkante meter bedraagt;<br>
+2° het aandeel van de werknemers met een arbeidshandicap dat werkzaam is in de nieuw aan te kopen, uit te breiden of te verbouwen infrastructuur met productiebestemming ten minste 50 procent omvat;<br>
+3° bij aanvang en tijdens de uitvoering van de werkzaamheden de werkplaats duidelijk publiek bekendmaakt dat de werkzaamheden medegefinancierd worden door de Vlaamse Overheid. Het Departement WSE kan hierover nadere bepalingen vaststellen;<br>
+4° de geplande infrastructuur minimaal tien vierkante meter per voorziene capaciteit omvat;<br>
+5° de werkplaats maximale inspanningen levert inzake duurzaam en ecologisch bouwen.<br>
+&nbsp;
 
 ### ART. 8.
 
@@ -59,33 +74,50 @@ Met behoud van de toepassing van de bepalingen in hoofdstuk 3, is de werkplaats 
 
 ### ART. 10.
 
-De aanvraag voor de investeringssubsidie wordt voorafgegaan door een overleg tussen de werkplaats en het Subsidieagentschap. <br /><br />Dit overleg omvat minimaal : <br />1°de investeringsintenties met betrekking tot de infrastructuur, waaronder de ontwerpen, de kostenramingen en de gemotiveerde noodzaak;<br />2° de onderzochte investeringsmogelijkheden en de behorende opties tot financiering;<br />3° het masterplan van de infrastructuurinvesteringen, dat de geplande investeringen voor de komende jaren en de financieringsmodaliteiten duidt.<br /><br />Het Subsidieagentschap maakt binnen de tien werkdagen een verslag op van het overleg en bezorgt dit aan de werkplaats. Dit verslag bevat voorlopige aanbevelingen.<br /><br />
+De aanvraag voor de investeringssubsidie wordt voorafgegaan door een   overleg tussen de werkplaats en het Departement WSE. <BR><BR>Dit overleg omvat   minimaal : <BR>1°de investeringsintenties met betrekking tot de infrastructuur,   waaronder de ontwerpen, de kostenramingen en de gemotiveerde noodzaak;<BR>2° de   onderzochte investeringsmogelijkheden en de behorende opties tot   financiering;<BR>3° het masterplan van de infrastructuurinvesteringen, dat de   geplande investeringen voor de komende jaren en de financieringsmodaliteiten   duidt.<BR><BR>Het Departement WSE maakt binnen de tien werkdagen een verslag op   van het overleg en bezorgt dit aan de werkplaats. Dit verslag bevat voorlopige   aanbevelingen.<BR><BR>
 
 ### ART. 11.
 
-Het aanvraagdossier wordt aangetekend verstuurd naar het Subsidieagentschap. <br /><br />Het ontvankelijk aanvraagdossier bestaat uit : <br />1° een aanvraagformulier, waarvan het model wordt aangeleverd door het Subsidieagentschap, met daarin : <br />a) een motivering van de investeringen, onder meer in het licht van een langetermijnvisie en met het oog op de tewerkstellingsperspectieven van de huidige en de potentiële werknemers met een arbeidshandicap; <br />b) een gedetailleerde kostenraming van de investeringen, alsook een sluitend financieel plan voor de financiering van de investeringen waarvoor de investeringssubsidie wordt aangevraagd; <br />2° de schriftelijke verbintenis dat de werkplaats de wetgeving inzake de overheidsopdrachten zal toepassen;<br />3° de notulen van de raad van bestuur van de werkplaats waaruit de beslissing tot uitvoering van de infrastructuurwerken waarvoor een subsidieaanvraag wordt aangevraagd, blijkt;<br />4° de informatiegegevens inzake de infrastructuurwerken, in het bijzonder : <br />a) de bouwvergunning, de bodemattesten, en de stedenbouwkundige attesten; <br />b) een algemeen vestigingsplan en een uittreksel uit het kadastraal plan; <br />c) het ontwerp van de plannen;<br />d) het attest van de brandweerdiensten;<br />e) bij nieuwbouw en uitbreiding, een document over de bouwrijpheid en de bodemgeschiktheid van het terrein;<br />f) een veiligheids- en gezondheidsplan, als bepaald in het koninklijk besluit van 25 januari 2001 betreffende de tijdelijke of mobiele bouwplaatsen;<br />g) bij aankoop van een gebouw, een kopie van de aankoopbelofte of van de aankoopakte;<br />5° enig ander nuttig document dat de naleving van de bouwtechnische en bouwfysische normen vermeld in hoofdstuk 2 kan staven. <br /><br />
+Het aanvraagdossier wordt aangetekend verstuurd naar het Departement WSE.<br>
+<br>
+Het ontvankelijk aanvraagdossier bestaat uit :<br>
+1° een aanvraagformulier, waarvan het model wordt aangeleverd door het Departement WSE, met daarin :<br>
+a) een motivering van de investeringen, onder meer in het licht van een langetermijnvisie en met het oog op de tewerkstellingsperspectieven van de huidige en de potentiële werknemers met een arbeidshandicap;<br>
+b) een gedetailleerde kostenraming van de investeringen, alsook een sluitend financieel plan voor de financiering van de investeringen waarvoor de investeringssubsidie wordt aangevraagd;<br>
+2° de schriftelijke verbintenis dat de werkplaats de wetgeving inzake de overheidsopdrachten zal toepassen;<br>
+3° de notulen van de raad van bestuur van de werkplaats waaruit de beslissing tot uitvoering van de infrastructuurwerken waarvoor een subsidieaanvraag wordt aangevraagd, blijkt;<br>
+4° de informatiegegevens inzake de infrastructuurwerken, in het bijzonder :<br>
+a) de bouwvergunning, de bodemattesten, en de stedenbouwkundige attesten;<br>
+b) een algemeen vestigingsplan en een uittreksel uit het kadastraal plan;<br>
+c) het ontwerp van de plannen;<br>
+d) het attest van de brandweerdiensten;<br>
+e) bij nieuwbouw en uitbreiding, een document over de bouwrijpheid en de bodemgeschiktheid van het terrein;<br>
+f) een veiligheids- en gezondheidsplan, als bepaald in het koninklijk besluit van 25 januari 2001 betreffende de tijdelijke of mobiele bouwplaatsen;<br>
+g) bij aankoop van een gebouw, een kopie van de aankoopbelofte of van de aankoopakte;<br>
+5° enig ander nuttig document dat de naleving van de bouwtechnische en bouwfysische normen vermeld in hoofdstuk 2 kan staven.<br>
+&nbsp;
 
 ### ART. 12.
 
-Binnen de tien werkdagen na ontvangst van het aanvraagdossier meldt het Subsidieagentschap aan de werkplaats of het ingediend aanvraagdossier ontvankelijk is. Als het aanvraagdossier niet ontvankelijk wordt verklaard, wordt dit door het Subsidieagentschap gemotiveerd. <br /><br />
+Binnen de tien werkdagen na ontvangst van het aanvraagdossier meldt het   Departement WSE aan de werkplaats of het ingediend aanvraagdossier ontvankelijk   is. Als het aanvraagdossier niet ontvankelijk wordt verklaard, wordt dit door   het Departement WSE gemotiveerd. <BR><BR>
 
 ### ART. 13.
 
-Binnen de 45 kalenderdagen nadat het aanvraagdossier ontvankelijk is verklaard, deelt het Subsidieagentschap zijn beslissing mee over de gegrondheid van de aanvraag tot investeringssubsidie. Het Subsidieagentschap behandelt de aanvraagdossiers chronologisch volgens datum van ontvangst.<br /><br />Het Subsidieagentschap kan inzake het aanvraagdossier aanvullende inlichtingen vragen bij de werkplaats. Tot het ogenblik van de ontvangst van die inlichtingen wordt de termijn,vermeld in het eerste lid, geschorst.<br /><br />
+Binnen de 45 kalenderdagen nadat het aanvraagdossier ontvankelijk is   verklaard, deelt het Departement WSE zijn beslissing mee over de gegrondheid van   de aanvraag tot investeringssubsidie. Het Departement WSE behandelt de   aanvraagdossiers chronologisch volgens datum van ontvangst.<BR><BR>Het   Departement WSE kan inzake het aanvraagdossier aanvullende inlichtingen vragen   bij de werkplaats. Tot het ogenblik van de ontvangst van die inlichtingen wordt   de termijn,vermeld in het eerste lid, geschorst.<BR><BR>
 
 ### ART. 14.
 
-Het Subsidieagentschap deelt zijn beslissing inzake de investeringssubsidie mee aan de werkplaats. De beslissing wordt gemotiveerd en bepaalt de maximaal toegekende investeringssubsidie.<br /><br />
+Het Departement WSE deelt zijn beslissing inzake de investeringssubsidie   mee aan de werkplaats. De beslissing wordt gemotiveerd en bepaalt de maximaal   toegekende investeringssubsidie.<BR><BR>
 
 ### ART. 15.
 
-Als het Subsidieagentschap vaststelt dat de subsidieaanvraag niet past binnen de perken van het begrotingskrediet van het lopende kalenderjaar, kan het Subsidieagentschap er zich naar best vermogen toe verbinden het aanvraagdossier geheel of gedeeltelijk over te dragen naar het begrotingskrediet van het daaropvolgende kalenderjaar. Dergelijke overdracht geschiedt pas na overleg met de werkplaats, en zonder dat het Subsidieagentschap hierbij aansprakelijk kan worden gesteld ten aanzien van het te bereiken resultaat.<br /><br />
+Als het Departement WSE vaststelt dat de subsidieaanvraag niet past binnen   de perken van het begrotingskrediet van het lopende kalenderjaar, kan het   Departement WSE er zich naar best vermogen toe verbinden het aanvraagdossier   geheel of gedeeltelijk over te dragen naar het begrotingskrediet van het   daaropvolgende kalenderjaar. Dergelijke overdracht geschiedt pas na overleg met   de werkplaats, en zonder dat het Departement WSE hierbij aansprakelijk kan   worden gesteld ten aanzien van het te bereiken resultaat.<BR><BR>
 
 ## HOOFDSTUK 6 De uitbetaling en de afrekening van de investeringssubsidie
 
 ### ART. 16.
 
-Voor nieuwbouw, uitbreiding en verbouwingen wordt een eerste schijf van dertig procent van de subsidie uitbetaald na de ontvangst van het bewijs van betaling van de eerste vorderingsstaten door de werkplaats.<br /><br />Een tweede schijf van dertig procent van de toegekende subsidie wordt uitbetaald als bewezen wordt dat meer dan vijftig procent van de totale aanvaarde investeringskosten door de werkplaats is betaald.<br /><br />Een derde schijf van dertig procent van de toegekende subsidie wordt uitbetaald als bewezen wordt dat 75 procent van de totale aanvaarde investeringskosten door de werkplaats is betaald.<br /><br />Het resterende saldo wordt uitbetaald nadat de werkplaats het proces-verbaal van de voorlopige oplevering en de eindafrekening aan het Subsidieagentschap heeft bezorgd.<br /><br />
+Voor nieuwbouw, uitbreiding en verbouwingen wordt een eerste schijf van   dertig procent van de subsidie uitbetaald na de ontvangst van het bewijs van   betaling van de eerste vorderingsstaten door de werkplaats.<BR><BR>Een tweede   schijf van dertig procent van de toegekende subsidie wordt uitbetaald als   bewezen wordt dat meer dan vijftig procent van de totale aanvaarde   investeringskosten door de werkplaats is betaald.<BR><BR>Een derde schijf van   dertig procent van de toegekende subsidie wordt uitbetaald als bewezen wordt dat   75 procent van de totale aanvaarde investeringskosten door de werkplaats is   betaald.<BR><BR>Het resterende saldo wordt uitbetaald nadat de werkplaats het   proces-verbaal van de voorlopige oplevering en de eindafrekening aan het   Departement WSE heeft bezorgd.<BR><BR>
 
 ### ART. 17.
 
@@ -99,7 +131,7 @@ Het gesubsidieerde goed wordt afgeschreven op een minimumperiode van 20 jaar.<br
 
 ### ART. 19.
 
-De ontvangen investeringssubsidies zijn kapitaalssubsidies. Ze worden conform de boekhoudkundige principes en de richtlijnen zoals opgegeven door het Subsidieagentschap ter zake verrekend in de opbrengstenrekening voor het gedeelte naar rata van de afschrijvingstermijn van het gesubsidieerde goed.<br /><br />
+De ontvangen investeringssubsidies zijn kapitaalssubsidies. Ze worden   conform de boekhoudkundige principes en de richtlijnen zoals opgegeven door het   Departement WSE ter zake verrekend in de opbrengstenrekening voor het gedeelte   naar rata van de afschrijvingstermijn van het gesubsidieerde   goed.<BR><BR>
 
 ### ART. 20.
 
@@ -111,7 +143,7 @@ De werkplaats is verplicht alle documenten die verband houden met de investering
 
 ### ART. 22.
 
-De werkplaats mag tijdens de afschrijvingstermijn de bestemming van de gesubsidieerde infrastructuur niet wijzigen, noch de infrastructuur vervreemden of met een zakelijke recht bezwaren, behoudens de voorafgaande en uitdrukkelijke toestemming van het Subsidieagentschap. <br /><br />
+De werkplaats mag tijdens de afschrijvingstermijn de bestemming van de   gesubsidieerde infrastructuur niet wijzigen, noch de infrastructuur vervreemden   of met een zakelijke recht bezwaren, behoudens de voorafgaande en uitdrukkelijke   toestemming van het Departement WSE. <BR><BR>
 
 ## HOOFDSTUK 8 Slotbepalingen
 
