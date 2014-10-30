@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024681,
+  "title": "Samenwerkingsakkoord van 2014-07-15 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de statistiek, van de raad van bestuur en de Wetenschappelijke Comités van het Instituut voor de nationale rekeningen",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024681/VolledigDocument?datum=2014-10-30",
+  "source_sha256": "77ed566b829f0f89f26162963dcb3527d8576af364525db9ce57218f2adb60eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024681&param=informatie",
+  "as_of": "2014-10-30",
+  "made": "2014-07-15",
+  "gazette": "2014-10-20",
+  "numac": 2014205762,
+  "document_start": "2014-10-30",
+  "document_end": null,
+  "in_force": "2014-10-30",
+  "article_versions": 46,
+  "record_form": "consolidated version as in force on 2014-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
