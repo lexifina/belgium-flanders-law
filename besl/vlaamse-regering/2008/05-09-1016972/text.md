@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houden
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de beschutte werkplaatsen die een aanvraag tot erkenning, tot wijziging of uitbreiding van een erkenning indienen bij het Vlaams Subsidieagentschap voor Werk en Sociale Economie overeenkomstig artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot begeleiding van de begroting 2006.<br /><br />
+Dit besluit is van toepassing op de beschutte werkplaatsen die een   aanvraag tot erkenning, tot wijziging of uitbreiding van een erkenning indienen   bij het Departement Werk en Sociale Economie overeenkomstig artikel 79 van het   decreet van 23 december 2005 houdende bepalingen tot begeleiding van de   begroting 2006.<BR><BR>
 
 ### ART. 2.
 
