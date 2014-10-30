@@ -2,16 +2,16 @@
   "codex_id": 1015391,
   "title": "Besluit van de Vlaamse Regering van 2006-11-17 tot aanpassing van de regelgeving met betrekking tot de integratie op de arbeidsmarkt van personen met een handicap binnen het beleidsdomein Werk en Sociale Economie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015391/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "ac7710a641662db3f65f7e18d64a10635ea45d7dff6b07ebcfe2267d3e887d8d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015391/VolledigDocument?datum=2014-10-30",
+  "source_sha256": "299a8a35af8439c2933c70f7fe647983fc3d7edbc857dc06059fda77d332d983",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015391&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2014-10-30",
   "made": "2006-11-17",
   "gazette": "2007-01-25",
   "numac": 2007035043,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-04-01",
+  "in_force": "2014-10-30",
   "article_versions": 93,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
 }
