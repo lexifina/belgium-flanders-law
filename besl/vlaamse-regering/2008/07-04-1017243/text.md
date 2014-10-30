@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° ...<br />2° besluit Lokale Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007 betreffende de lokale diensteneconomie;<br />3° decreet : het decreet van 22 december 2006 houdende de lokale diensteneconomie;<br />4° doelgroepwerknemers : werknemers als vermeld in artikel 2 van het besluit Lokale Diensteneconomie;<br />5° SHM : de erkende sociale huisvestingsmaatschappij, vermeld in artikel 40 van de Vlaamse Wooncode;<br />6° Subsidieagentschap : Vlaams Subsidieagentschap voor Werk en Sociale Economie, als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 21 oktober 2005 tot oprichting van het Vlaams Subsidieagentschap voor Werk en Sociale Economie;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<br />8° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.
+In dit besluit wordt verstaan onder :<BR>1° ...<BR>2° besluit Lokale   Diensteneconomie : het besluit van de Vlaamse Regering van 5 oktober 2007   betreffende de lokale diensteneconomie;<BR>3° decreet : het decreet van 22   december 2006 houdende de lokale diensteneconomie;<BR>4° doelgroepwerknemers :   werknemers als vermeld in artikel 2 van het besluit Lokale   Diensteneconomie;<BR>5° SHM : de erkende sociale huisvestingsmaatschappij,   vermeld in artikel 40 van de Vlaamse Wooncode;<BR>6° Departement WSE: het   Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en   Sociale Economie;<BR>7° toezichthouder : de toezichthouder voor de sociale   huisvesting, vermeld in artikel 29bis van de Vlaamse Wooncode;<BR>8° Vlaamse   Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode.
 
 ## HOOFDSTUK II. Toepassingsgebied
 
@@ -40,7 +40,7 @@ De procedure tot erkenning, hernieuwing of weigering verloopt zoals bepaald in h
 
 ### ART. 7.
 
-Het Subsidieagentschap bezorgt jaarlijks een verslag, overeenkomstig artikel 22 van het besluit Lokale Diensteneconomie, over de initiatieven huisbewaarder in de sociale huisvesting in het kader van de lokale diensteneconomie aan het agentschap, vermeld in artikel 6, tweede lid.
+Het Departement WSE bezorgt jaarlijks een verslag, overeenkomstig artikel   22 van het besluit Lokale Diensteneconomie, over de initiatieven huisbewaarder   in de sociale huisvesting in het kader van de lokale diensteneconomie aan het   agentschap, vermeld in artikel 6, tweede lid.
 
 ## HOOFDSTUK VI. Toezicht
 
