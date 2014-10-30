@@ -2,16 +2,16 @@
   "codex_id": 1006472,
   "title": "Besluit van de Vlaamse Regering van 1998-09-22 houdende instelling van een aanmoedigingspremie voor loopbaanonderbreking voor de personeelsleden van de Vlaamse openbare sector en het Nederlandstalig onderwijs in het raam van de maatregelen tot herverdeling van de arbeid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006472/VolledigDocument?datum=2013-11-01",
-  "source_sha256": "3f1d0f69ada01a36dea0b6a0e4d5dfcd751920a2c8d0ce4db65017e1538356fa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006472/VolledigDocument?datum=2014-10-30",
+  "source_sha256": "6d0159a4bd7c6a87d9f1b5a2eccd2b308ccbbbc1b810ab411582cf1ce2c3ca83",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006472&param=informatie",
-  "as_of": "2013-11-01",
+  "as_of": "2014-10-30",
   "made": "1998-09-22",
   "gazette": "1999-01-30",
   "numac": 1999035099,
   "document_start": "1998-04-01",
   "document_end": "2016-09-02",
-  "in_force": "2013-11-01",
+  "in_force": "2014-10-30",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2013-11-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
 }
