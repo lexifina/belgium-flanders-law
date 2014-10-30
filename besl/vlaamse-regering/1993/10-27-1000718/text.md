@@ -8,7 +8,7 @@ Voor de toepassing van dit besluit dient te worden verstaan onder:<br>
 1° de wet: de programmawet van 30 december 1988;<br>
 2° de minister: de Vlaamse minister tot wiens bevoegdheid het tewerkstellingsbeleid behoort;<br>
 3° de werkgever: de openbare besturen, de instellingen of de verenigingen, zoals bepaald in artikel 2 van dit besluit;<br>
-4° het Vlaams Subsidieagentschap voor Werk en Sociale Economie : het Vlaams Subsidieagentschap voor Werk en Sociale Economie, opgericht bij het besluit van de Vlaamse Regering van 21 oktober 2005 tot oprichting van het Vlaams Subsidieagentschap voor Werk en Sociale Economie;<br>
+4° Departement WSE: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
 5° risicogroepen op de arbeidsmarkt:<br>
 a) langdurig werklozen: de werklozen die op de dag voor de indiensttreding minstens één jaar uitkeringsgerechtigd volledig werkloos zijn;<br>
 b) niet-werkende werkzoekenden: de werkzoekenden die op de dag voor de indiensttreding minstens één jaar als werkzoekende ingeschreven zijn bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en in het bezit zijn van maximum een einddiploma, studiegetuigschrift of getuigschrift van het algemeen, technisch, het kunst- of het beroepssecundair onderwijs. De minister kan de studievoorwaarden beperken of verruimen in functie van de noodwendigheden van de arbeidsmarkt;<br>
@@ -143,7 +143,7 @@ Voor de vaststelling van de loonpremie zoals bepaald in het tweede en het derde 
 <br>
 Bij de definitieve vervanging van een erkende werknemer start de persoonsgebonden, degressieve loonpremie bij jaar 1, in zoverre de sociale werkplaats aantoont dat de te vervangen werknemer tewerkgesteld wordt op de reguliere arbeidsmarkt, in een erkende sociale werkplaats, in het Derde Arbeidscircuit, volgens de bepalingen van dit besluit met uitzondering van een tewerkstelling in het kader van artikel 7bis of volgens de bepalingen van het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van gesubsidieerde contractuelen bij sommige plaatselijke besturen met uitzondering van een tewerkstelling in het kader van artikel 7bis.<br>
 <br>
-Deze regeling is eveneens van toepassing wanneer de uitdiensttreding van de erkende werknemer buiten de wil om van de sociale werkplaats gebeurt. Bij betwistingen beslist de minister. Het Vlaams Subsidieagentschap voor Werk en Sociale Economie brengt ten aanzien van de minister hiertoe, na overleg met de trajectbegeleider, een advies uit.<br>
+Deze regeling is eveneens van toepassing wanneer de uitdiensttreding van de erkende werknemer buiten de wil om van de sociale werkplaats gebeurt. Bij betwistingen beslist de minister. Het Departement WSE brengt ten aanzien van de minister hiertoe, na overleg met de trajectbegeleider, een advies uit.<br>
 <br>
 De loonpremie van de werknemer die met een vervangingscontract wordt tewerkgesteld ter vervanging van een erkende werknemer stemt overeen met het jaarbedrag dat door de titularis zou worden ontvangen.<br>
 <br>
@@ -152,47 +152,46 @@ In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14
 § 1bis. Als aanvulling op de loonpremie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende werknemers, die zeer moeilijk bemiddelbare werkzoekenden moeten zijn, vermeld in § 1.<br>
 <br>
 Het bedrag van deze toelage bedraagt per voltijds equivalent erkende werknemer :<br>
-<br>
 &nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td>
 			<p>2006</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td style="border-color:windowtext windowtext windowtext currentColor">
 			<p>170,90 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2007</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>381,24 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2008</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>591,59 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2009</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>797,55 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>Vanaf 2010</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>1007,89 euro</p>
 			</td>
 		</tr>
@@ -226,54 +225,53 @@ Om aanspraak te kunnen maken op de omkaderingspremie zoals bepaald in het eerste
 6° externe doelgroepbewaking van de arbeidszorgmedewerkers te aanvaarden;<br>
 7° zich in te schakelen in een regionaal netwerk van arbeidszorginitiatieven.<br>
 <br>
-Om aanspraak te kunnen maken op de omkaderingspremie zoals bepaald in het eerste lid dient de sociale werkplaats een aanvraag in op een door het Vlaams Subsidieagentschap voor Werk en Sociale Economie ter beschikking gesteld formulier. Het onderzoek van de aanvraag gebeurt door het Vlaams Subsidieagentschap voor Werk en Sociale Economie die ten aanzien van de minister een advies verleent. De minister bepaalt de maximale omkaderingspremie op basis van het aantal voltijds equivalente arbeidszorgmedewerkers zoals bepaald in het tweede lid.<br>
+Om aanspraak te kunnen maken op de omkaderingspremie zoals bepaald in het eerste lid dient de sociale werkplaats een aanvraag in op een door het Departement WSEter beschikking gesteld formulier. Het onderzoek van de aanvraag gebeurt door het Departement WSE die ten aanzien van de minister een advies verleent. De minister bepaalt de maximale omkaderingspremie op basis van het aantal voltijds equivalente arbeidszorgmedewerkers zoals bepaald in het tweede lid.<br>
 <br>
 De minister kan de toekenning van de omkaderingspremie zoals bepaald in het eerste lid stopzetten, indien de voorwaarden zoals vermeld in deze paragraaf niet vervuld worden. Deze beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld. Onrechtmatig verkregen omkaderingspremies worden ingevorderd of ingehouden op de later aan de sociale werkplaats verschuldigde bedragen.<br>
 <br>
 § 2ter. Als aanvulling op de omkaderingspremie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende omkaderingspersoneelsleden.<br>
 <br>
 Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingspersoneelslid :<br>
-<br>
 &nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td>
 			<p>2006</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td style="border-color:windowtext windowtext windowtext currentColor">
 			<p>139,18 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2007</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>305,75 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2008</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>472,31 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2009</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>637,36 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>Vanaf 2010</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>803,92 euro</p>
 			</td>
 		</tr>
@@ -286,47 +284,46 @@ Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingsp
 § 2quater. In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende werknemers, vermeld in § 1, en omkaderingspersoneelsleden.<br>
 <br>
 Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende werknemer of omkaderingspersoneelslid :<br>
-<br>
 &nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td>
 			<p>2006</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top">
+			<td style="border-color:windowtext windowtext windowtext currentColor">
 			<p>40 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2007</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>80 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2008</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>120 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>2009</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>160 euro</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>Vanaf 2010</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; vertical-align:top">
+			<td style="border-color:currentColor">
 			<p>200 euro</p>
 			</td>
 		</tr>
@@ -341,7 +338,7 @@ Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende 
 <br>
 Het bedrag van de toelage voor de eindejaarspremie en de managementsubsidie evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand januari 2006.<br>
 <br>
-§ 4. In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14 juli 1998 inzake sociale werkplaatsen stelt de minister maandelijks het bedrag vast dat het Vlaams Subsidieagentschap voor Werk en Sociale Economie stort voor de tiende van de lopende kalendermaand.<br>
+§ 4. In toepassing van artikel 94 van de wet en van artikel 20 van het decreet van 14 juli 1998 inzake sociale werkplaatsen stelt de minister maandelijks het bedrag vast dat het Departement WSE stort voor de tiende van de lopende kalendermaand.<br>
 <br>
 Het bedrag van de loonpremie en van de toelage voor de eindejaarspremie, vermeld in § 1bis, wordt binnen het kader van de toegekende premie van de betrokken maand berekend op basis van de effectieve tewerkstelling. Er is slechts recht op een loonpremie en een toelage voor de eindejaarspremie voor de werkelijk verrichte en daarmee gelijkgestelde arbeidsprestaties.<br>
 <br>
@@ -373,7 +370,7 @@ Na de termijn vermeld in de leden 1 tot en met 4 van deze paragraaf vervalt het 
 
 ### ART. 7.
 
-§ 1. In toepassing van artikel 94 van de wet kan de minister een hoger premiebedrag vaststellen voor de aanwerving van personen uit de risicogroepen op de arbeidsmarkt en, binnen de perken van een daartoe bestemd begrotingskrediet, een jongerenpremie voor de aanwerving van langdurig werkloze jongeren, die worden tewerkgesteld in begeleide werkervaringsprojecten.<br /><br />In het kader van deze projecten verbindt de werkgever zich ertoe de betrekkingen te laten bekleden door personen die toegeleid worden via een begeleidingscentra. De minister bepaalt de begeleidingsacties die hiervoor in aanmerking komen.<br /><br />De werkgever moet voor de gesubsidieerde contractuelen, tewerkgesteld in een werkervaringsproject, een begeleidingsplan indienen. Dit begeleidingsplan wordt jaarlijks door het Vlaams Subsidieagentschap voor Werk en Sociale Economie geëvalueerd.<br /><br />§ 2. Voor de tewerkstelling van personen uit risicogroepen in werkervaringsprojecten wordt per individuele tewerkstelling het hoger premiebedrag vastgesteld voor een periode die niet meer bedraagt dan 12 maanden. Enkel wanneer de bevoegde Sociaal-Economische Raad van de Regio dit toestaat, kan deze individuele tewerkstelling met behoud van het hoger premiebedrag voor onbepaalde duur worden verlengd. <br /><br />§ 3. Per bevoegdheidsgebied van een Sociaal-Economische Raad van de Regio moeten de [vrouwen, migranten en arbeidsgehandicapten worden tewerkgesteld in verhouding tot hun aandeel in de beroepsbevolking van dit gebied.<br /><br />Per bevoegdheidsgebied van een subregionaal tewerkstellingscomité moeten langdurig werklozen en leefloongerechtigden tezamen minimum 95 % van het aantal toegekende arbeidsplaatsen bezetten.<br /><br />§ 4. In het kader van de begeleide werkervaringsprojecten en binnen het door de minister vastgestelde contingent wordt een aantal arbeidsplaatsen voorbehouden voor gemeenten erkend door het Vlaams Fonds voor de Integratie van Kansarmen; per gemeente wordt enerzijds 25 % hiervan voorbehouden voor migranten die niet tot de Europese Gemeenschap behoren en anderzijds 25 % voor leefloongerechtigden.<br /><br />§ 5. In de werkervaringsovereenkomst kan door de minister een minimumnorm van vertegenwoordiging van deze doelgroepen worden vastgesteld.<br /><br />§ 6. De minister kent een omkaderingspremie toe aan de werkgever van een project zoals bedoeld in dit artikel. De omkaderingspremie bedraagt maximaal 20 % van de voor de gesubsidieerde contractuelen verschuldigde premiebedragen. Zij kan slechts worden verworven in zoverre het begeleidingsplan werd uitgevoerd en maximaal ten bedrage van de omkaderingsuitgaven. Enkel omkaderingsuitgaven waarvoor een bewijs geleverd wordt en die in hoofde van de werkgever een meerkost vertegenwoordigen die een rechtstreeks gevolg is van de tewerkstelling in het werkervaringsproject, worden aanvaard.<br /><br />De werkgever maakt, op straffe van terugvordering, de bewijzen van de omkaderingsuitgaven van ieder kalenderjaar over aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie vóór 31 januari van het daarop volgende kalenderjaar, indien een overeenkomst van onbepaalde duur gesloten werd, en vóór de laatste dag van de maand, volgend op de beëindiging van het project, indien een overeenkomst van bepaalde duur gesloten werd.
+§ 1. In toepassing van artikel 94 van de wet kan de minister een hoger   premiebedrag vaststellen voor de aanwerving van personen uit de risicogroepen op   de arbeidsmarkt en, binnen de perken van een daartoe bestemd begrotingskrediet,   een jongerenpremie voor de aanwerving van langdurig werkloze jongeren, die   worden tewerkgesteld in begeleide werkervaringsprojecten.<BR><BR>In het kader   van deze projecten verbindt de werkgever zich ertoe de betrekkingen te laten   bekleden door personen die toegeleid worden via een begeleidingscentra. De   minister bepaalt de begeleidingsacties die hiervoor in aanmerking   komen.<BR><BR>De werkgever moet voor de gesubsidieerde contractuelen,   tewerkgesteld in een werkervaringsproject, een begeleidingsplan indienen. Dit   begeleidingsplan wordt jaarlijks door het Departement WSE geëvalueerd.<BR><BR>§   2. Voor de tewerkstelling van personen uit risicogroepen in   werkervaringsprojecten wordt per individuele tewerkstelling het hoger   premiebedrag vastgesteld voor een periode die niet meer bedraagt dan 12 maanden.   Enkel wanneer de bevoegde Sociaal-Economische Raad van de Regio dit toestaat,   kan deze individuele tewerkstelling met behoud van het hoger premiebedrag voor   onbepaalde duur worden verlengd. <BR><BR>§ 3. Per bevoegdheidsgebied van een   Sociaal-Economische Raad van de Regio moeten de [vrouwen, migranten en   arbeidsgehandicapten worden tewerkgesteld in verhouding tot hun aandeel in de   beroepsbevolking van dit gebied.<BR><BR>Per bevoegdheidsgebied van een   subregionaal tewerkstellingscomité moeten langdurig werklozen en   leefloongerechtigden tezamen minimum 95 % van het aantal toegekende   arbeidsplaatsen bezetten.<BR><BR>§ 4. In het kader van de begeleide   werkervaringsprojecten en binnen het door de minister vastgestelde contingent   wordt een aantal arbeidsplaatsen voorbehouden voor gemeenten erkend door het   Vlaams Fonds voor de Integratie van Kansarmen; per gemeente wordt enerzijds 25 %   hiervan voorbehouden voor migranten die niet tot de Europese Gemeenschap behoren   en anderzijds 25 % voor leefloongerechtigden.<BR><BR>§ 5. In de   werkervaringsovereenkomst kan door de minister een minimumnorm van   vertegenwoordiging van deze doelgroepen worden vastgesteld.<BR><BR>§ 6. De   minister kent een omkaderingspremie toe aan de werkgever van een project zoals   bedoeld in dit artikel. De omkaderingspremie bedraagt maximaal 20 % van de voor   de gesubsidieerde contractuelen verschuldigde premiebedragen. Zij kan slechts   worden verworven in zoverre het begeleidingsplan werd uitgevoerd en maximaal ten   bedrage van de omkaderingsuitgaven. Enkel omkaderingsuitgaven waarvoor een   bewijs geleverd wordt en die in hoofde van de werkgever een meerkost   vertegenwoordigen die een rechtstreeks gevolg is van de tewerkstelling in het   werkervaringsproject, worden aanvaard.<BR><BR>De werkgever maakt, op straffe van   terugvordering, de bewijzen van de omkaderingsuitgaven van ieder kalenderjaar   over aan het Departement WSE vóór 31 januari van het daarop volgende   kalenderjaar, indien een overeenkomst van onbepaalde duur gesloten werd, en vóór   de laatste dag van de maand, volgend op de beëindiging van het project, indien   een overeenkomst van bepaalde duur gesloten werd.
 
 ### ART. 7bis.
 
@@ -381,7 +378,7 @@ Na de termijn vermeld in de leden 1 tot en met 4 van deze paragraaf vervalt het 
 
 ### ART. 8.
 
-§ 1. Met toepassing van artikel 94 van de wet kan de minister een hoger premiebedrag vaststellen voor de opleiders tewerkgesteld in projecten die : <br />1° tot doelstelling hebben : <br />a) of voor de cursisten doelgroepgerichte opleidingen te organiseren die een schakelfunctie vervullen naar tewerkstelling;<br />b) of cursisten te begeleiden;<br />c) of cursisten te begeleiden door middel van jobcoaching;<br />2° zich prioritair richten tot werkzoekenden die behoren tot de doelgroepen, vermeld in de beheersovereenkomst die gesloten is tussen de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de Vlaamse Regering;<br />3° aan volgende voorwaarden beantwoorden : <br />a) een resultaatsverbintenis aangaan inzake uitstroom uit de werkloosheid als vermeld in de beheersovereenkomst gesloten tussen de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de Vlaamse Regering. Als de specificiteit van de doelgroep dat vereist, kan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding voorafgaand een afwijking van die verbintenis toestaan. Die afwijking wordt vastgelegd in de overeenkomst tussen de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de werkgever;<br />b) voldoen aan de voorwaarden voor op te leiden, te begeleiden en te coachen personen, zoals vermeld in de overeenkomst tussen de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de werkgever;<br />c) zich inschrijven in het kwaliteitsvoortgangscontrolesysteem zoals opgelegd door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br />4° acties omvatten die beantwoorden aan de jaaractieplannen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding waarin rekening wordt gehouden met de regionale input van de Sociaal-Economische Raad van de Regio of het Regionaal Sociaal-Economisch Overlegcomité;<br />5° zich inschakelen in een lokaal netwerk van organisaties die zich richten op de doelgroepen vermeld in punt 2°;<br />6° de acties registreren in het voortgangscontrolesysteem dat de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding daartoe ter beschikking stelt;<br />7° alle noodzakelijke gegevens over het project bezorgen aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie op de wijze die wordt bepaald door de minister.<br /><br />§ 2. De minister kan binnen de perken van een specifiek begrotingskrediet een werkingspremie toekennen aan de werkgever van een project, die met de minister een opleidingsovereenkomst sluit.<br /> <br />De werkingspremie bedraagt maximaal 20 % van de krachtens de opleidingsovereenkomst verschuldigde premiebedragen, maar kan slechts verworven worden voor de bewezen uitgaven en als de opleidingsovereenkomst werd nageleefd. De werkingspremie kan alleen worden aangewend voor uitgaven om de werkingskosten voor het opleidingsproject te dekken, met uitzondering van de aankoop van uitrustingsgoederen, van door of krachtens de wet aan werkgevers opgelegde uitgaven, van het loon van de gesubsidieerde contractuelen en van premies aan personeel en/of cursisten. <br /><br />De werkgever bezorgt op straffe van terugvordering, en uiterlijk op 31 maart, een overzicht van de werkingsuitgaven van het voorbije kalenderjaar aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie. De bewijzen van die werkingsuitgaven moeten door en bij de werkgever vanaf 31 maart ter inzage ter beschikking worden gesteld.
+§ 1. Met toepassing van artikel 94 van de wet kan de minister een hoger   premiebedrag vaststellen voor de opleiders tewerkgesteld in projecten die :   <BR>1° tot doelstelling hebben : <BR>a) of voor de cursisten doelgroepgerichte   opleidingen te organiseren die een schakelfunctie vervullen naar   tewerkstelling;<BR>b) of cursisten te begeleiden;<BR>c) of cursisten te   begeleiden door middel van jobcoaching;<BR>2° zich prioritair richten tot   werkzoekenden die behoren tot de doelgroepen, vermeld in de beheersovereenkomst   die gesloten is tussen de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding en de Vlaamse Regering;<BR>3° aan volgende voorwaarden   beantwoorden : <BR>a) een resultaatsverbintenis aangaan inzake uitstroom uit de   werkloosheid als vermeld in de beheersovereenkomst gesloten tussen de Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de Vlaamse Regering. Als   de specificiteit van de doelgroep dat vereist, kan de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding voorafgaand een afwijking van die   verbintenis toestaan. Die afwijking wordt vastgelegd in de overeenkomst tussen   de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding en de   werkgever;<BR>b) voldoen aan de voorwaarden voor op te leiden, te begeleiden en   te coachen personen, zoals vermeld in de overeenkomst tussen de Vlaamse Dienst   voor Arbeidsbemiddeling en Beroepsopleiding en de werkgever;<BR>c) zich   inschrijven in het kwaliteitsvoortgangscontrolesysteem zoals opgelegd door de   Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<BR>4° acties   omvatten die beantwoorden aan de jaaractieplannen van de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding waarin rekening wordt gehouden met de   regionale input van de Sociaal-Economische Raad van de Regio of het Regionaal   Sociaal-Economisch Overlegcomité;<BR>5° zich inschakelen in een lokaal netwerk   van organisaties die zich richten op de doelgroepen vermeld in punt 2°;<BR>6° de   acties registreren in het voortgangscontrolesysteem dat de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding daartoe ter beschikking stelt;<BR>7° alle   noodzakelijke gegevens over het project bezorgen aan het Departement WSE op de   wijze die wordt bepaald door de minister.<BR><BR>§ 2. De minister kan binnen de   perken van een specifiek begrotingskrediet een werkingspremie toekennen aan de   werkgever van een project, die met de minister een opleidingsovereenkomst   sluit.<BR><BR>De werkingspremie bedraagt maximaal 20 % van de krachtens de   opleidingsovereenkomst verschuldigde premiebedragen, maar kan slechts verworven   worden voor de bewezen uitgaven en als de opleidingsovereenkomst werd nageleefd.   De werkingspremie kan alleen worden aangewend voor uitgaven om de werkingskosten   voor het opleidingsproject te dekken, met uitzondering van de aankoop van   uitrustingsgoederen, van door of krachtens de wet aan werkgevers opgelegde   uitgaven, van het loon van de gesubsidieerde contractuelen en van premies aan   personeel en/of cursisten. <BR><BR>De werkgever bezorgt op straffe van   terugvordering, en uiterlijk op 31 maart, een overzicht van de werkingsuitgaven   van het voorbije kalenderjaar aan het Departement WSE. De bewijzen van die   werkingsuitgaven moeten door en bij de werkgever vanaf 31 maart ter inzage ter   beschikking worden gesteld.
 
 ### ART. 9.
 
@@ -415,7 +412,7 @@ De aanwerving van gesubsidieerde contractuelen in toepassing van dit besluit mag
 
 ### ART. 16.
 
-§ 1. De werkgever die gesubsidieerde contractuelen wenst aan te werven, richt een aanvraag tot het Vlaams Subsidieagentschap voor Werk en Sociale Economie, gebruik makend van een formulier dat ter beschikking wordt gesteld door het Vlaams Subsidieagentschap voor Werk en Sociale Economie.<br /><br />§ 2. Het onderzoek van de aanvraag geschiedt door de bevoegde dienst van het Vlaams Subsidieagentschap voor Werk en Sociale Economie.
+§ 1. De werkgever die gesubsidieerde contractuelen wenst aan te werven,   richt een aanvraag tot het Departement WSE, gebruik makend van een formulier dat   ter beschikking wordt gesteld door het Departement WSE.<BR><BR>§ 2. Het   onderzoek van de aanvraag geschiedt door de bevoegde dienst van het Departement   WSE.
 
 ### ART. 17.
 
@@ -443,7 +440,7 @@ De werkgever dient een aanvraag in voor elke wijziging aan de overeenkomst en vo
 
 ### ART. 23.
 
-§ 1. In toepassing van artikel 95, § 1 van de wet stelt de minister maandelijks het bedrag vast dat het Vlaams Subsidieagentschap voor Werk en Sociale Economie stort vóór de tiende van de lopende kalendermaand. De premie wordt verrekend op basis van de effectieve tewerkstelling binnen het kader van de toegekende premies voor de betrokken maand. Er is slechts recht op een premie voor de werkelijk verrichte of daarmee gelijkgestelde arbeidsprestaties. De bepalingen van deze § zijn niet van toepassing op de overeenkomst met het Departement Cultuur, Jeugd, Sport en Media. <br /><br />§ 2. Voor gesubsidieerde contractuelen tewerkgesteld in het kader van de artikelen 7 en 8 van dit besluit wordt de omkaderingspremie of de opleidingspremie verrekend op basis van de effectieve tewerkstelling en de werkelijk verrichte of de daarmee gelijkgestelde arbeidsprestaties.
+§ 1. In toepassing van artikel 95, § 1 van de wet stelt de minister   maandelijks het bedrag vast dat het Departement WSE stort vóór de tiende van de   lopende kalendermaand. De premie wordt verrekend op basis van de effectieve   tewerkstelling binnen het kader van de toegekende premies voor de betrokken   maand. Er is slechts recht op een premie voor de werkelijk verrichte of daarmee   gelijkgestelde arbeidsprestaties. De bepalingen van deze § zijn niet van   toepassing op de overeenkomst met het Departement Cultuur, Jeugd, Sport en   Media. <BR><BR>§ 2. Voor gesubsidieerde contractuelen tewerkgesteld in het kader   van de artikelen 7 en 8 van dit besluit wordt de omkaderingspremie of de   opleidingspremie verrekend op basis van de effectieve tewerkstelling en de   werkelijk verrichte of de daarmee gelijkgestelde   arbeidsprestaties.
 
 ### ART. 24.
 
@@ -467,7 +464,7 @@ Om een functie uit te oefenen moet de gesubsidieerde contractueel het overeenste
 
 ### ART. 29.
 
-De werkgever vult bij de aanwerving van iedere gesubsidieerde contractueel een door het Vlaams Subsidieagentschap voor Werk en Sociale Economie ter beschikking gesteld inlichtingenblad in en maakt dit over aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie. Telkens zich een wijziging in de verstrekte gegevens voordoet, dient de werkgever onverwijld een vervangend inlichtingenblad over te maken.
+De werkgever vult bij de aanwerving van iedere gesubsidieerde contractueel   een door het Departement WSE ter beschikking gesteld inlichtingenblad in en   maakt dit over aan het Departement WSE. Telkens zich een wijziging in de   verstrekte gegevens voordoet, dient de werkgever onverwijld een vervangend   inlichtingenblad over te maken.
 
 ## HOOFDSTUK V GARANTIEBEPALINGEN TEN VOORDELE VAN DE WERKNEMERS
 
@@ -483,7 +480,7 @@ De werkgever moet een vacant verklaarde voltijdse of deeltijdse dienstbetrekking
 
 ### ART. 32.
 
-§ 1. De sociaalrechtelijke inspecteurs van de afdeling Inspectie van het departement Werk en Sociale Economie zien toe op de naleving door de werkgever van de tewerkstelling van de gesubsidieerde contractuelen onder de voorwaarden voorzien in de wet en in dit besluit.<br /><br />Zij zien er tevens op toe dat de werkgever de gesubsidieerde contractuelen tewerkstelt voor de taken zoals omschreven in de overeenkomst of de bijzondere overeenkomst.<br /><br />Bij dringende of dwingende omstandigheden kunnen de inspecteurs van de administratie als voorlopig bewarende maatregel beslissen niet-ingenomen arbeidsplaatsen binnen een project niet meer te laten opvullen. Deze maatregel wordt onmiddellijk ter kennis gebracht van de minister en de Sociaal-Economische Raad van de Regio en blijft gelden tot op de datum waarop de minister over de grond van de bewarende maatregel een beslissing neemt.<br /><br />§ 2. De Sociaal-Economische Raad van de Regio onder wiens bevoegdheid de goedgekeurde overeenkomst valt, kan steeds een verzoek tot controle richten tot het Vlaams Subsidieagentschap voor Werk en Sociale Economie. Het Vlaams Subsidieagentschap voor Werk en Sociale Economie informeert de Sociaal-Economische Raad van de Regio over de bevindingen van het onderzoek.
+§ 1. De sociaalrechtelijke inspecteurs van de afdeling Inspectie van het   departement Werk en Sociale Economie zien toe op de naleving door de werkgever   van de tewerkstelling van de gesubsidieerde contractuelen onder de voorwaarden   voorzien in de wet en in dit besluit.<BR><BR>Zij zien er tevens op toe dat de   werkgever de gesubsidieerde contractuelen tewerkstelt voor de taken zoals   omschreven in de overeenkomst of de bijzondere overeenkomst.<BR><BR>Bij   dringende of dwingende omstandigheden kunnen de inspecteurs van de administratie   als voorlopig bewarende maatregel beslissen niet-ingenomen arbeidsplaatsen   binnen een project niet meer te laten opvullen. Deze maatregel wordt   onmiddellijk ter kennis gebracht van de minister en de Sociaal-Economische Raad   van de Regio en blijft gelden tot op de datum waarop de minister over de grond   van de bewarende maatregel een beslissing neemt.<BR><BR>§ 2. De   Sociaal-Economische Raad van de Regio onder wiens bevoegdheid de goedgekeurde   overeenkomst valt, kan steeds een verzoek tot controle richten tot het   Departement WSE. Het Departement WSE informeert de Sociaal-Economische Raad van   de Regio over de bevindingen van het onderzoek.
 
 ### ART. 33.
 
@@ -491,7 +488,7 @@ In uitvoering van artikel 94, § 1 van de wet kan de minister de overeenkomst be
 
 ### ART. 34.
 
-§ 1. De minister kan de overeenkomst beëindigen indien de werkgever de voordelen van de loop-baanonderbreking ingevoerd door de herstelwet van 22 januari 1985 houdende sociale bepalingen op zijn personeel niet toepast of het aantal stagiaires opgelegd bij het koninklijk besluit nr. 230 van 21 december 1983 betreffende de stage en de inschakeling van jongeren in het arbeidsproces niet in dienst heeft.<br /><br />De beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld.<br /><br />§ 2. In toepassing van artikel 94, § 2 van de wet, kan de minister de overeenkomst beëindigen indien de werkgever, zoals bepaald in artikel 2, 1°, 2°, 3° en 4° van dit besluit, de gesubsidieerde contractuelen andere werkzaamheden laat uitvoeren dan om:<br />a) aan uitzonderlijke of tijdelijke personeelsleden te voldoen; het betreft ofwel in de tijd beperkte acties ofwel een buiten-gewone toename van het werk;<br />b) ambtenaren te vervangen die hun betrekking niet of slechts deeltijds bekleden, met inbegrip van de ambtenaren die hun loopbaan onderbreken in de zin van het koninklijk besluit van 3 juli 1985 betreffende de onderbreking van de beroepsloop-baan of de besturen en de andere diensten van de ministeries, onverminderd de reeds voorziene mogelijkheid om een statutair personeelslid door een ander statutair personeelslid te vervangen;<br />c) bijkomende of specifieke opdrachten te vervullen.<br /><br />§ 3. In toepassing van artikel 96, § 1, 3° van de wet, kan de minister de overeenkomst beëindigen of het daarin overeengekomen aantal gesubsidieerde contractuelen verminderen indien de werkgever de gesubsidieerde contractuelen andere werkzaamheden laat verrichten dan werkzaamheden in de niet-commerciële sector.<br /><br />Onder niet-commerciële sector wordt de sector van werkzaamheden verstaan die terzelfdertijd:<br />a) van sociaal of openbaar nut zijn of van cultureel belang;<br />b) geen winst beogen;<br />c) voldoen aan collectieve behoeften waaraan anders niet voldaan had kunnen worden.<br /><br />§ 4. De beëindiging van de overeenkomst, bedoeld in § 2 en 3, kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld. De beslissing tot beëindiging van de overeenkomst of vermindering van het aantal gesubsidieerd contractuelen geldt uitsluitend voor die gesubsidieerde contractuelen die tewerkgesteld worden voor niet toegelaten werkzaamheden.<br /><br />§ 5. De minister kan de overeenkomst beëindigen indien de werkgever nalaat melding te maken van een ontvangen tussenkomst in de loonkost die aan eenzelfde tewerkstelling wordt toegekend. De beslissing kan een aanvang nemen vanaf de dag waarop de arbeidsplaats werd gesubsidieerd.<br /><br />§ 6. De minister kan de overeenkomst beëindigen of het daarin overeengekomen aantal gesubsidieerde contractuelen verminderen indien de werkgever zijn gesubsidieerde contractuelen andere taken laat uitvoeren dan deze toegestaan in de overeenkomst en de bijzondere overeenkomst.<br /><br />De beslissing kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld en geldt uitsluitend voor die gesubsidieerde contractuelen die tewerkgesteld worden voor niet-toegestane werkzaamheden.<br /><br />§ 7. De minister kan de overeenkomst beëindigen indien de werkgever het Vlaams Subsidieagentschap voor Werk en Sociale Economie niet tijdig de nodige gegevens zoals bepaald in artikel 29, meedeelt.<br /><br />§ 8. De minister kan de overeenkomst beëindigen indien vastgesteld werd dat de werkgever zware of herhaalde inbreuken heeft gepleegd tegen de regelen van de arbeids- en sociale wetgeving.<br /><br />§ 9. ...
+§ 1. De minister kan de overeenkomst beëindigen indien de werkgever de   voordelen van de loop-baanonderbreking ingevoerd door de herstelwet van 22   januari 1985 houdende sociale bepalingen op zijn personeel niet toepast of het   aantal stagiaires opgelegd bij het koninklijk besluit nr. 230 van 21 december   1983 betreffende de stage en de inschakeling van jongeren in het arbeidsproces   niet in dienst heeft.<BR><BR>De beslissing kan een aanvang nemen vanaf de dag   waarop de inbreuk werd vastgesteld.<BR><BR>§ 2. In toepassing van artikel 94, §   2 van de wet, kan de minister de overeenkomst beëindigen indien de werkgever,   zoals bepaald in artikel 2, 1°, 2°, 3° en 4° van dit besluit, de gesubsidieerde   contractuelen andere werkzaamheden laat uitvoeren dan om:<BR>a) aan   uitzonderlijke of tijdelijke personeelsleden te voldoen; het betreft ofwel in de   tijd beperkte acties ofwel een buiten-gewone toename van het werk;<BR>b)   ambtenaren te vervangen die hun betrekking niet of slechts deeltijds bekleden,   met inbegrip van de ambtenaren die hun loopbaan onderbreken in de zin van het   koninklijk besluit van 3 juli 1985 betreffende de onderbreking van de   beroepsloop-baan of de besturen en de andere diensten van de ministeries,   onverminderd de reeds voorziene mogelijkheid om een statutair personeelslid door   een ander statutair personeelslid te vervangen;<BR>c) bijkomende of specifieke   opdrachten te vervullen.<BR><BR>§ 3. In toepassing van artikel 96, § 1, 3° van   de wet, kan de minister de overeenkomst beëindigen of het daarin overeengekomen   aantal gesubsidieerde contractuelen verminderen indien de werkgever de   gesubsidieerde contractuelen andere werkzaamheden laat verrichten dan   werkzaamheden in de niet-commerciële sector.<BR><BR>Onder niet-commerciële   sector wordt de sector van werkzaamheden verstaan die terzelfdertijd:<BR>a) van   sociaal of openbaar nut zijn of van cultureel belang;<BR>b) geen winst   beogen;<BR>c) voldoen aan collectieve behoeften waaraan anders niet voldaan had   kunnen worden.<BR><BR>§ 4. De beëindiging van de overeenkomst, bedoeld in § 2 en   3, kan een aanvang nemen vanaf de dag waarop de inbreuk werd vastgesteld. De   beslissing tot beëindiging van de overeenkomst of vermindering van het aantal   gesubsidieerd contractuelen geldt uitsluitend voor die gesubsidieerde   contractuelen die tewerkgesteld worden voor niet toegelaten   werkzaamheden.<BR><BR>§ 5. De minister kan de overeenkomst beëindigen indien de   werkgever nalaat melding te maken van een ontvangen tussenkomst in de loonkost   die aan eenzelfde tewerkstelling wordt toegekend. De beslissing kan een aanvang   nemen vanaf de dag waarop de arbeidsplaats werd gesubsidieerd.<BR><BR>§ 6. De   minister kan de overeenkomst beëindigen of het daarin overeengekomen aantal   gesubsidieerde contractuelen verminderen indien de werkgever zijn gesubsidieerde   contractuelen andere taken laat uitvoeren dan deze toegestaan in de overeenkomst   en de bijzondere overeenkomst.<BR><BR>De beslissing kan een aanvang nemen vanaf   de dag waarop de inbreuk werd vastgesteld en geldt uitsluitend voor die   gesubsidieerde contractuelen die tewerkgesteld worden voor niet-toegestane   werkzaamheden.<BR><BR>§ 7. De minister kan de overeenkomst beëindigen indien de   werkgever het Departement WSE niet tijdig de nodige gegevens zoals bepaald in   artikel 29, meedeelt.<BR><BR>§ 8. De minister kan de overeenkomst beëindigen   indien vastgesteld werd dat de werkgever zware of herhaalde inbreuken heeft   gepleegd tegen de regelen van de arbeids- en sociale wetgeving.<BR><BR>§ 9.   ...
 
 ### ART. 35.
 
@@ -499,7 +496,7 @@ De minister betekent de beslissing tot beëindiging van de overeenkomst of de ve
 
 ### ART. 36.
 
-Onrechtmatig verkregen premies, omkaderingspremies en opleidingspremies worden ingevorderd of ingehouden op de later aan de werkgever verschuldigde bedragen. Zo nodig laat de leidend ambtenaar van het Vlaams Subsidieagentschap voor Werk en Sociale Economie de dossiers van de weerspannige debiteurs overzenden aan het Bestuur van de BTW en van de registratie en domeinen.<br /><br />De door hogergenoemd Bestuur in te stellen vervolgingen geschieden overeenkomstig artikel 3 van de domaniale wet van 22 december 1949, zoals bij decreet van 23 december 1986 toepasbaar gesteld voor het Vlaamse Gewest; de aldus ingevorderde bedragen worden na aftrek van de eventuele kosten aan het Vlaams Subsidieagentschap voor Werk en Sociale Economie terugbetaald.
+Onrechtmatig verkregen premies, omkaderingspremies en opleidingspremies   worden ingevorderd of ingehouden op de later aan de werkgever verschuldigde   bedragen. Zo nodig laat de leidend ambtenaar van het Departement WSE de dossiers   van de weerspannige debiteurs overzenden aan het Bestuur van de BTW en van de   registratie en domeinen.<BR><BR>De door hogergenoemd Bestuur in te stellen   vervolgingen geschieden overeenkomstig artikel 3 van de domaniale wet van 22   december 1949, zoals bij decreet van 23 december 1986 toepasbaar gesteld voor   het Vlaamse Gewest; de aldus ingevorderde bedragen worden na aftrek van de   eventuele kosten aan het Departement WSE terugbetaald.
 
 ## [HOOFDSTUK VII OVERGANGS- EN SLOTBEPALINGEN {$REF ADATE="", ARTNR="", PDATE="", PLACE="", STATUS="", TEXT="(verv. B.V.R. 8 december 1998, art. 5)", TYPE=""}]
 
