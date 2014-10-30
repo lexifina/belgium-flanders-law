@@ -24,11 +24,11 @@ In volgende gevallen kan door de werkgevers en de intermediaire organisaties, zo
 
 ### ART. 5.
 
-§ 1. 1° Het actieplan, zoals bedoeld in artikel 7, § 1, 1° van het decreet, bestaat uit een geheel van maatregelen en acties zoals bedoeld in artikel 3 van dit besluit.<br /><br />§ 2. Het actieplan wordt jaarlijks voor 1 juni bij het Vlaams Subsidieagentschap voor Werk en Sociale Economie ingediend overeenkomstig de administratieve richtlijnen die de minister heeft opgesteld. <br /><br />§ 3. ...
+§ 1. 1° Het actieplan, zoals bedoeld in artikel 7, § 1, 1° van het   decreet, bestaat uit een geheel van maatregelen en acties zoals bedoeld in   artikel 3 van dit besluit.<BR><BR>§ 2. Het actieplan wordt jaarlijks voor 1 juni   bij het Departement Werk en Sociale Economie ingediend overeenkomstig de   administratieve richtlijnen die de minister heeft opgesteld. <BR><BR>§ 3.   ...
 
 ### ART. 6.
 
-§ 1. Het voortgangsrapport, zoals bedoeld in artikel 7, § 1, 2° van het decreet, bevat minimaal, opgesplitst naar elk van de betrokken kansengroepen, een beschrijving van de evolutie in het personeelsbestand van het laatste jaar; een verslag van de ondernomen acties, waarbij de resultaten en de knelpunten worden aangegeven; een stand van zaken over de realisatie van de gestelde doelstellingen en een evaluatie over de uitvoering van het actieplan, waarbij aandachtspunten voor het volgende actieplan worden aangegeven.<br /><br />§ 2. Het voortgangsrapport wordt jaarlijks voor 1 juni bij het Vlaams Subsidieagentschap voor Werk en Sociale Economie ingediend overeenkomstig de administratieve richtlijnen die de minister heeft opgesteld.<br /><br />§ 3. ...
+§ 1. Het voortgangsrapport, zoals bedoeld in artikel 7, § 1, 2° van het   decreet, bevat minimaal, opgesplitst naar elk van de betrokken kansengroepen,   een beschrijving van de evolutie in het personeelsbestand van het laatste jaar;   een verslag van de ondernomen acties, waarbij de resultaten en de knelpunten   worden aangegeven; een stand van zaken over de realisatie van de gestelde   doelstellingen en een evaluatie over de uitvoering van het actieplan, waarbij   aandachtspunten voor het volgende actieplan worden aangegeven.<BR><BR>§ 2. Het   voortgangsrapport wordt jaarlijks voor 1 juni bij het Departement Werk en   Sociale Economie ingediend overeenkomstig de administratieve richtlijnen die de   minister heeft opgesteld.<BR><BR>§ 3. ...
 
 ### ART. 7.
 
@@ -36,13 +36,13 @@ In volgende gevallen kan door de werkgevers en de intermediaire organisaties, zo
 
 ### ART. 8.
 
-Voor het verlenen van bijstand aan de slachtoffers van discriminatie bij de afwikkeling van hun klachten, zoals bedoeld in artikel 9, 1° van het decreet, sluit de Vlaamse regering een overeenkomst af met het Centrum voor Gelijkheid van Kansen en Racismebestrijding.<br /><br />De SERV is bevoegd voor het formuleren van adviezen ter bijsturing van het beleid, zoals bedoeld in artikel 9, 2° van het decreet.<br /><br />De administratie Werkgelegenheid is bevoegd voor het verstrekken van informatie over de rechten op evenredige participatie en gelijke behandeling, zoals bedoeld in artikel 9, 3° van het decreet.
+Voor het verlenen van bijstand aan de slachtoffers van discriminatie bij   de afwikkeling van hun klachten, zoals bedoeld in artikel 9, 1° van het decreet,   sluit de Vlaamse regering een overeenkomst af met het Centrum voor Gelijkheid   van Kansen en Racismebestrijding.<BR><BR>De SERV is bevoegd voor het formuleren   van adviezen ter bijsturing van het beleid, zoals bedoeld in artikel 9, 2° van   het decreet.<BR><BR>Het Departement Werk en Sociale Economie is bevoegd voor het   verstrekken van informatie over de rechten op evenredige participatie en gelijke   behandeling, zoals bedoeld in artikel 9, 3° van het decreet.
 
 ## HOOFDSTUK IV TOEZICHT
 
 ### ART. 9.
 
-De personeelsleden van rang A1 of hoger van de afdeling Inspectie van de administratie Werkgelegen-heid van het departement Economie, Werkgelegenheid, Binnenlandse Aangelegenheden en Landbouw van het Ministerie van de Vlaamse Gemeenschap worden aangewezen als ambtenaren en beambten bevoegd voor het toezicht op de uitvoering van het decreet en de uitvoeringsbesluiten ervan.
+De personeelsleden van rang A1 of hoger van de afdeling Inspectie van het   Departement Werk en Sociale Economie worden aangewezen als ambtenaren en   beambten bevoegd voor het toezicht op de uitvoering van het decreet en de   uitvoeringsbesluiten ervan.
 
 ## HOOFDSTUK V SLOT- EN OVERGANGSBEPALINGEN
 
