@@ -1,0 +1,13 @@
+# Besluit van de Vlaamse Regering van 2014-07-18 houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0 1CBX2C-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op het decreet van 8 juli 2011 houdende regeling van de begroting, de   boekhouding, de toekenning van subsidies en de controle op de aanwending ervan,   en de controle door het Rekenhof, artikel 20; gewijzigd bij het decreet van 9   november 2012;<BR></P>  <P>Gelet op het decreet van 20 december 2013 houdende de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar   2014;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 14 oktober 2011 betreffende   de boekhoudregels en de aanrekeningsregels die van toepassing zijn op de Vlaamse   ministeries en de diensten met afzonderlijk beheer, en betreffende de controle   op de vastleggingskredieten, artikel 2/1;<BR></P>  <P>Gelet op de beslissing van de Vlaamse regering van 15 juli 2011 VR PV 2011/29   punt 0168 document VR 2011 1507 DOC.0836;<BR></P>  <P>Gelet op de beslissing van de Vlaamse Regering van 7 juni 2013 - VR 2013 0706   DOC.0562;<BR></P>  <P>Gelet op het gunstig advies van Inspectie van Financiën, gegeven op 5 mei   2014,<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 14 juli 2014,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+De kredieten, ingeschreven onder de begrotingsartikelen van de algemene   uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014,   worden herverdeeld overeenkomstig de onderstaande tabel:<BR>(in duizend EUR)<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD rowSpan=2>Begrotingsartikel       <TD rowSpan=2>Basisallocatie       <TD rowSpan=2>Krediet-<BR>soort       <TD colSpan=2 align=center>Van       <TD colSpan=2 align=center>Naar<BR>    <TR>      <TD>VAK       <TD>VEK       <TD>VAK       <TD>VEK<BR>    <TR>      <TD>CB0/1CB-X-2-C/PR       <TD>CB0 1CB016 0100       <TD>      <TD>170       <TD>755       <TD>      <TD><BR>    <TR>      <TD>CB0/1CF-G-2D/WT       <TD>CB0 1CC002 1211       <TD>      <TD>      <TD>      <TD>170       <TD>755     <TR>      <TD colSpan=3 align=center>Totaal       <TD>170       <TD>755       <TD>170       <TD>755<BR></TD></TR></TBODY></TABLE><BR>Herverdelingsregels tussen   kredietsoorten:<BR>(1) VEK = correlatief krediet (VAK/VEK);<BR>(2) VAK =   MAC.<BR>
+
+### ART. 2.
+
+Een afschrift van dit besluit wordt ter kennisgeving toegestuurd aan het   Vlaams Parlement, het Rekenhof en het Departement Financiën en   Begroting.<BR>
