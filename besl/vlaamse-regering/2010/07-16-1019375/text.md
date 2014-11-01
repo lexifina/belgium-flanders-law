@@ -74,7 +74,7 @@ Een stedenbouwkundige vergunning is niet nodig voor :<br />1° het vellen van ho
 
 ### ART. 6.2.
 
-Een stedenbouwkundige vergunning is niet nodig voor de handelingen, die opgenomen zijn in een goedgekeurd beheersplan op basis van het Bosdecreet van 13 juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, of in een goedgekeurd natuurinrichtingsproject, of in een goedgekeurd inrichtingsplan in het kader van een landinrichtingsproject, of in een van openbaar nut verklaarde ruilverkaveling voor zover ze niet gepaard gaan met de oprichting van constructies groter dan 40 vierkante meter en voor zover ze niet gepaard gaan met een ontbossing.<br /><br />
+Een stedenbouwkundige vergunning is niet nodig voor de handelingen, die   opgenomen zijn in een goedgekeurd beheersplan op basis van het Bosdecreet van 13   juni 1990 of het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu, of in een goedgekeurd natuurinrichtingsproject, of in een   goedgekeurd landinrichtingsproject, of in een van openbaar nut verklaarde   ruilverkaveling voor zover ze niet gepaard gaan met de oprichting van   constructies groter dan 40 vierkante meter en voor zover ze niet gepaard gaan   met een ontbossing.<BR><BR>
 
 ## HOOFDSTUK 7 Tijdelijke handelingen
 
