@@ -48,7 +48,7 @@ De vestiging van de zetel van [het agentschap (verv. decr. 7 mei 2004, art. 35, 
 
 ### ART. 5.
 
-Het agentschap heeft als missie bij te dragen tot de realisatie van de doelstellingen van :<br />1° het milieubeleid, bedoeld in artikel 1.2.1, § 1, van het decreet algemene bepalingen milieubeleid;<br />2° de ruilverkaveling, bedoeld in de wetgeving inzake ruilverkaveling van landeigendommen;<br />3° de landinrichting, bedoeld in hoofdstuk VII betreffende de landinrichting;<br />4° het decreet natuurbehoud;<br />5° het Mestdecreet van 22 december 2006;<br />6° het geïntegreerd plattelandsbeleid;<br />7° het grondbeleid van het eigen beleidsdomein;<br />8° het decreet Vlaamse Grondenbank.
+Het agentschap heeft als missie bij te dragen tot de realisatie van de   doelstellingen van :<BR>1° het milieubeleid, bedoeld in artikel 1.2.1, § 1, van   het decreet algemene bepalingen milieubeleid;<BR>2° de ruilverkaveling, bedoeld   in de wetgeving inzake ruilverkaveling van landeigendommen;<BR>3° de   landinrichting, vermeld in het decreet van 28 maart 2014 betreffende de   landinrichting;<BR>4° het decreet natuurbehoud;<BR>5° het Mestdecreet van 22   december 2006;<BR>6° het geïntegreerd plattelandsbeleid;<BR>7° het grondbeleid   van het eigen beleidsdomein;<BR>8° het decreet Vlaamse   Grondenbank.
 
 ## HOOFDSTUK V TAKEN VAN HET AGENTSCHAP
 
@@ -138,47 +138,19 @@ Het agentschap is verantwoordelijk voor de verwerking van de informatie, vermeld
 
 ### ART. 11.
 
-Onverminderd de wetgeving op de ruilverkaveling, wordt voor de toepassing van dit decreet onder landinrichting verstaan het bevorderen, voorbereiden, integreren en begeleiden van maatregelen, handelingen en werken die uitgaan van de bevoegde overheden en gericht zijn op het vrijwaren, herwaarderen, en het meer geschikt maken van in artikel 12 opgesomde gebieden conform de bestemmingen toegekend door de wetgeving op de ruimtelijke ordening en de stedebouw.<br /><br />De landinrichting wordt daarenboven ingezet voor de coördinatie van de inrichting en de projectsgewijze integrale inrichting van gebieden in uitvoering van de ruimtelijke ordening.
+<P>...</P>
 
 ### ART. 12.
 
-Landinrichting is uitsluitend van toepassing op de landelijke gebieden en de recreatiegebieden, evenals op de woongebieden met een landelijk karakter en de ontginningsgebieden, en de met een van deze gebieden vergelijkbare bestemmingsgebieden, aangewezen op de plannen van aanleg of ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening.<br /><br />De Vlaamse Regering kan bij wijze van uitzondering gronden in andere gebieden aan landinrichting onderwerpen voorzover het onmisbaar is voor de uitvoering van een landinrichtingsplan opgesteld krachtens artikel 13.<br />
+<P>...</P>
 
 ### ART. 13.
 
-§ 1. De landinrichting wordt tot stand gebracht door een geïntegreerd beleid. Hiertoe worden landinrichtingsplannen opgemaakt.<br>
-<br>
-§ 2. [Voor die zones van een landinrichtingsplan en de bijhorende uitvoeringsprogramma's die geheel of gedeeltelijk gelegen zijn binnen een speciale beschermingszone zoals bedoeld in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, moeten de maatregelen in het richtplan en het inrichtingsplan beantwoorden aan de noodzakelijke maatregelen bedoeld in artikel 36ter , §§ 1 en 2 van het voormelde decreet. (verv. decr. 19 juli 2002, art. 51, I: 10 september 2002) ]<br>
-<br>
-§ 3. De Vlaamse Regering bepaalt de te volgen procedure bij de opmaak van de landinrichtingsplannen, keurt de opgestelde plannen goed, legt een financieringsplan vast en beveelt de uitvoering.<br>
-<br>
-[§ 4. De Vlaamse regering kan (ing. decr. 22 november 1995, art. 16, I: 16 februari 1996) ] [het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] [belasten met de uitvoering van het landinrichtingsplan of gedeelten ervan.<br>
-<br>
-In voorkomend geval kan (ing. decr. 22 november 1995, art. 16, I: 16 februari 1996) ] [het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] [gemachtigd worden tot onteigening ten algemenen nutte, tot verwerving in der minne of tot het afsluiten van overeenkomsten met eigenaars en vruchtgebruikers en met houders van zakelijke rechten van gronden waarop volgens artikel 12 van het decreet, de landinrichting haar toepassing vindt.<br>
-<br>
-Wanneer het landinrichtingsplan nieuwe werken omvat of wanneer bestaande of te wijzigen werken ingevolge het landinrichtingsplan aan het domein van een ander openbaar bestuur dienen toegewezen te worden, onderwerpt de Vlaamse regering het landinrichtingsplan aan een onderzoek de commodo et incommodo in elk van de gemeenten waar deze werken gelegen zijn. Na afsluiting van het onderzoek verstrekken de gemeenteraden een advies over het landinrichtingsplan en over de tijdens het onderzoek ingediende opmerkingen en bezwaren. Wanneer de gemeenteraad niet binnen drie maanden na verzending van het dossier kennis geeft van zijn advies, wordt het advies geacht gunstig te zijn. In voorkomend geval wijzigt de Vlaamse regering het landinrichtingsplan en keurt het definitief goed. Dit besluit tot goedkeuring bepaalt aan het domein van welk openbaar bestuur de werken worden toegewezen.<br>
-<br>
-De Vlaamse regering bepaalt de tussenkomst van het Gewest in de kostprijs van de door (ing. decr. 22 november 1995, art. 16, I: 16 februari 1996) ] [het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] [uitgevoerde werken. (ing. decr. 22 no-vember 1995, art. 16, I: 16 februari 1996) ]<br>
-<br>
-§ 5. [De provincies, gemeenten, polders, wateringen, ruilverkavelingscomités en de door de Vlaamse regering aan te wijzen publiekrechtelijke rechtspersonen kunnen, mits hun instemming, door de Vlaamse regering belast worden met de uitvoering van het landinrichtingsplan of gedeelten ervan.<br>
-<br>
-De Vlaamse regering bepaalt de tussenkomst van het Gewest in de kostprijs van de door in het eerste lid vermelde instellingen en besturen uitgevoerde werken. (verv. decr. 8 december 2000, art. 3, I: 23 januari 2001) ]<br>
-<br>
-[§ 6. Privaatrechtelijke rechtspersonen en natuurlijke personen kunnen met hun instemming door de Vlaamse regering belast worden met de uitvoering van het landinrichtingsplan of gedeelten ervan op hun gronden waarop volgens artikel 12 van het decreet, de landinrichting haar toepassing vindt.<br>
-<br>
-In voorkomend geval dienen zowel de eigenaars en de vruchtgebruikers als de houders van zakelijke rechten hun instemming te betuigen met de uitvoering van de werken.<br>
-<br>
-Deze instemming wordt vastgelegd in een tussen partijen opgestelde overeenkomst, die eveneens de nodige waarborgen omvat betreffende het beheer van de uit te voeren werken. Deze overeenkomst dient goedgekeurd door de Vlaamse regering.<br>
-<br>
-De Vlaamse regering bepaalt de tussenkomst van het Gewest in de kostprijs van de door de in het eerste lid vermelde personen uitgevoerde werken. (ing. decr. 22 november 1995, art. 16, I: 16 februari 1996) ]
+<P>...</P>
 
 ### ART. 14.
 
-[Het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] verleent [zijn medewerking (verv. decr. 7 mei 2004, art. 20, I : 1 april 2006) ] aan de landinrichting.<br>
-<br>
-Bij de uitvoering van de landinrichtingsplannen kan [het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] door de Vlaamse Regering gemachtigd worden controle uit te oefenen op de verrichtingen van de ontwerpers, de aannemers en de technici die belast zijn met de studies, werken op opdrachten die moeten worden uitgevoerd krachtens de bepalingen van dit decreet.<br>
-<br>
-Tevens kan [het agentschap (verv. decr. 7 mei 2004, art. 35, I: 1 april 2006) ] [zijn medewerking (verv. decr. 7 mei 2004, art. 20, I : 1 april 2006) ] verlenen aan het beheer en de nazorg van de uitvoeringswerken.
+<P>...</P>
 
 ## [HOOFDSTUK VIII BESTUUR EN WERKING VAN HET AGENTSCHAP (verv. decr. 7 mei 2004, art. 21)]
 
