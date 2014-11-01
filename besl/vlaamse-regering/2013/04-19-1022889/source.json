@@ -2,16 +2,16 @@
   "codex_id": 1022889,
   "title": "Besluit van de Vlaamse Regering van 2013-04-19 houdende de organisatie van de Raad voor Vergunningsbetwistingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022889/VolledigDocument?datum=2013-05-06",
-  "source_sha256": "562ecc0459f402c2fc82fe7a0a8c71994de435a1e4c6fd880f065e13fae5f083",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022889/VolledigDocument?datum=2014-11-01",
+  "source_sha256": "7e33cd825503ed403ea7ecfdaa7bf9c8385f68818748eded980156f51100fa49",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022889&param=informatie",
-  "as_of": "2013-05-06",
+  "as_of": "2014-11-01",
   "made": "2013-04-19",
   "gazette": "2013-04-26",
   "numac": 2013035395,
   "document_start": "2013-05-06",
   "document_end": "2014-10-31",
-  "in_force": "2013-05-06",
+  "in_force": "2014-11-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2013-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-11-01; future article versions excluded; article text as the API gives it"
 }

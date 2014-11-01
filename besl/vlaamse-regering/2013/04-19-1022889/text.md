@@ -8,19 +8,19 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° beveiligde zending : de   beveiligde zending, vermeld in artikel 1.1.2, eerste lid, 3°, van de Vlaamse   Codex Ruimtelijke Ordening;<BR>2° de Raad : de Raad voor   Vergunningsbetwistingen, vermeld in artikel 4.8.1. van de Vlaamse Codex   Ruimtelijke Ordening.
+...
 
 ### ART. 2.
 
-Voor de toepassing van het VPS :<BR>1° wordt de Raad beschouwd als « de   entiteit »;<BR>2° wordt de Raad, bestaande uit de raadsleden, de aanvullende   raadsleden niet inbegrepen, beschouwd als « benoemende overheid »   respectievelijk « indienstnemende overheid » ten opzichte van de griffiers en de   leden van het ondersteunend personeel;<BR>3° wordt de voorzitter van de Raad   beschouwd als « de lijnmanager »;<BR>4° draagt de Vlaamse Gemeenschap zorg voor   de uitvoering van de statutair geregelde verplichtingen van « de werkgever   ».
+...
 
 ### ART. 3.
 
-<P>§ 1. Er wordt een basisoverlegcomité opgericht voor de Raad,   entiteitsoverlegcomité te noemen.<BR></P>  <P>§ 2. De afvaardiging van de overheid in het entiteitsoverlegcomité wordt als   volgt vastgesteld :<BR>1° voorzitter : de voorzitter van de Raad;<BR>2° de leden   worden door de voorzitter gekozen in functie van de punten van de   dagorde.<BR></P>  <P>De voorzitter van de Raad stelt bij afwezigheid of verhindering zijn   plaatsvervanger aan.</P>
+...
 
 ### ART. 4.
 
-De Raad, de aanvullende raadsleden niet inbegrepen, stelt zijn   arbeidsreglement vast, evenals de hiërarchische lijnen binnen de diensten van de   Raad.
+...
 
 ## HOOFDSTUK 2. Raadsleden
 
@@ -28,138 +28,138 @@ De Raad, de aanvullende raadsleden niet inbegrepen, stelt zijn   arbeidsreglemen
 
 ### ART. 5.
 
-<P>§ 1. De Vlaamse Regering maakt de oproepen tot de kandidaat-raadsleden bekend   in het Belgisch Staatsblad. Kandidaturen worden op straffe van   onontvankelijkheid bezorgd per beveiligde zending, binnen een termijn van dertig   dagen te rekenen vanaf de datum van de bekendmaking.<BR></P>  <P>§ 2. De kandidatuur van kandidaat-raadsleden wordt getoetst aan de   uitsluitingscriteria, vermeld in artikel 4.8.34, § 1, tweede lid, van de Vlaamse   Codex Ruimtelijke Ordening.<BR></P>  <P>Kandidaat-raadsleden worden vergeleken op grond van de volgende   selectiecriteria :<BR>1° de mate van vertrouwdheid met het Vlaamse recht   betreffende de ruimtelijke ordening, gewogen aan de hand van een factor   0,45;<BR>2° de mate van vertrouwdheid met procesvoering en rechtsbescherming in   bestuurlijke aangelegenheden, gewogen aan de hand van een factor 0,45;<BR>3° de   organisatorische capaciteiten, gewogen aan de hand van een factor 0,1.<BR></P>  <P>Kandidaat-raadsleden moeten voor elk selectiecriterium afzonderlijk geschikt   worden bevonden.<BR></P>  <P>§ 3. De beoordeling, vermeld in paragraaf 2 geschiedt door de Raad, de   aanvullende raadsleden niet inbegrepen. De beoordeling bestaat uit de volgende   onderdelen :<BR>1° een vergelijking van de curricula van de kandidaten;<BR>2° in   voorkomend geval, een schriftelijke proef met het oog op de beoordeling op grond   van de selectiecriteria, vermeld in paragraaf 2, tweede lid, 1° en 2° ;<BR>3°   een interview met de batig gerangschikte kandidaat-raadsleden met het oog op de   beoordeling op grond van de selectiecriteria, vermeld in paragraaf 2, tweede   lid, in voorkomend geval voorafgegaan door een screening met het oog op de   vergelijking op grond van het selectiecriterium, vermeld in paragraaf 2, tweede   lid, 3°. <BR></P>  <P>Alleen kandidaat-raadsleden die geslaagd zijn voor een onderdeel, kunnen tot   het volgende onderdeel worden toegelaten.<BR></P>  <P>De beoordelende instantie kan zich laten bijstaan door Jobpunt Vlaanderen met   het oog op de vergelijking op grond van het selectiecriterium, vermeld in   paragraaf 2, tweede lid, 3°.</P>
+...
 
 ## Afdeling 2. Aanstelling van aanvullende raadsleden
 
 ### ART. 6.
 
-<P>§ 1. De Vlaamse Regering maakt de oproep tot kandidaat-aanvullende raadsleden   bekend.<BR></P>  <P>De Vlaamse Regering kan hierbij eerst een oproep richten aan de personen die   in een ander administratief rechtscollege een gelijkaardige functie als raadslid   uitoefenen, en vervolgens een open oproep.<BR></P>  <P>Onder een gelijkaardige functie in een ander administratief rechtscollege,   als vermeld in het tweede lid, wordt verstaan : een voltijdse functie in een   ander administratief rechtscollege.<BR></P>  <P>De oproep wordt bekendgemaakt in het Belgisch Staatsblad.<BR></P>  <P>§ 2. Kandidaturen worden op straffe van onontvankelijkheid bezorgd per   beveiligde zending, binnen een termijn van dertig dagen te rekenen vanaf de   datum van de bekendmaking.</P>
+...
 
 ### ART. 7.
 
-<P>§ 1. De kandidatuur van kandidaat-aanvullende raadsleden wordt getoetst aan   de uitsluitingscriteria, vermeld in artikel 4.8.35, § 2, eerste lid, van de   Vlaamse Codex Ruimtelijke Ordening.<BR></P>  <P>§ 2. Kandidaat-aanvullende raadsleden worden vergeleken op grond van de   volgende selectiecriteria :<BR>1° de mate van vertrouwdheid met het Vlaamse   recht betreffende de ruimtelijke ordening, gewogen aan de hand van een factor   0,5;<BR>2° de mate van vertrouwdheid met procesvoering en rechtsbescherming in   bestuurlijke aangelegenheden, gewogen aan de hand van een factor 0,5.<BR></P>  <P>Kandidaat-aanvullende raadsleden moeten voor elk selectiecriterium   afzonderlijk geschikt worden bevonden.<BR></P>  <P>§ 3. De beoordeling, vermeld in paragraaf 1 en 2 geschiedt door de Raad, de   aanvullende raadsleden niet inbegrepen. De beoordeling bestaat uit de volgende   onderdelen :<BR>1° een vergelijking van de curricula van de kandidaten;<BR>2° in   voorkomend geval, een schriftelijke proef met het oog op de beoordeling op grond   van de selectiecriteria, vermeld in paragraaf 2, eerste lid;<BR>3° een interview   met de batig gerangschikte kandidaat-aanvullende raadsleden met het oog op de   beoordeling op grond van de selectiecriteria, vermeld in paragraaf 2, eerste   lid.<BR></P>  <P>Alleen kandidaat-raadsleden die geslaagd zijn voor een onderdeel, kunnen tot   het volgende onderdeel worden toegelaten.<BR></P>  <P>De kandidaat-aanvullende raadsleden die in een ander administratief   rechtscollege een functie als raadslid uitoefenen of hebben uitgeoefend, zijn   van rechtswege geslaagd voor het onderdeel van de beoordeling dat betrekking   heeft op het selectiecriterium, vermeld in paragraaf 2, eerste lid, 2°.   </P>
+...
 
 ## Afdeling 3. Rechtspositieregeling
 
 ### ART. 8.
 
-<P>Deel VII en deel X van het VPS zijn van toepassing op de raadsleden van de   Raad, in zoverre die bepalingen niet onverenigbaar zijn met de regelingen van   titel IV, hoofdstuk VIII, van de Vlaamse Codex Ruimtelijke Ordening.<BR></P>  <P>De benoemde raadsleden ontvangen de bezoldiging, de toelagen, de vergoedingen   en de sociale voordelen die gelden voor de graad van secretaris-generaal bij de   Vlaamse overheid, met uitzondering van de mandaattoelage en de   managementtoelage.<BR></P>  <P>Met behoud van de toepassing van het eerste lid kan een benoemd raadslid   alleen de volgende langdurige verloven genieten :<BR>1° moederschapsrust en   opvangverlof;<BR>2° loopbaanonderbreking voor palliatieve zorgen, bijstand aan   of verzorging van een zwaar ziek gezins- of familielid of   ouderschapsverlof;<BR>3° verlof wegens ziekte, arbeidsongeval of   beroepsziekte.</P>
+...
 
 ### ART. 9.
 
-<P>De aanvullende raadsleden die in een ander Vlaams administratief   rechtscollege een gelijkaardige functie als raadslid uitoefenen, behouden de   rechtspositieregeling van het rechtscollege waarbij ze eerst aangesteld   zijn.<BR></P>  <P>Onder een gelijkaardige functie in een ander Vlaams administratief   rechtscollege, als vermeld in het eerste lid, wordt verstaan : een voltijdse   functie in een ander Vlaams administratief rechtscollege.</P>
+...
 
 ### ART. 10.
 
-<P>§ 1. Een aanvullend raadslid dat geen gelijkaardige functie als raadslid   uitoefent in een ander Vlaams administratief rechtscollege krijgt een   forfaitaire vergoeding van 1.400 euro per afgehandeld dossier.<BR></P>  <P>Onder afgehandeld dossier, als vermeld in het eerste lid, wordt verstaan :   een dossier waarin het aanvullend raadslid een uitspraak doet waarmee het geding   ten gronde wordt beslecht.<BR></P>  <P>§ 2. De forfaitaire vergoedingen worden betaald binnen dertig dagen na de   datum van de uitspraak waarmee het geding ten gronde wordt beslecht.<BR></P>  <P>Deze vergoedingen worden als uitgaven in de rekeningen ten laste van de   begroting van het Grondfonds geboekt.</P>
+...
 
 ### ART. 11.
 
-De rechten en de plichten van de raadsleden en aanvullende raadsleden   kunnen nader worden toegelicht in een deontologische code die vastgesteld wordt   door de Raad.
+...
 
 ## Afdeling 4. Evaluatie
 
 ### ART. 12.
 
-<P>§ 1. De raadsleden en aanvullende raadsleden worden geëvalueerd op basis van   de evaluatiecriteria, vermeld in paragraaf 2. De evaluatiecriteria worden   volgens hun relatief belang ondergebracht in drie groepen A, B en C waarbij het   belang afneemt van A naar C toe.<BR></P>  <P>Aan de volgorde van de criteria binnen elke groep komt geen specifieke   betekenis toe.<BR></P>  <P>§ 2. Groep A :<BR>1° juridische kennis vereist voor de te behandelen   materies;<BR>2° doeltreffendheid en doelmatigheid;<BR>3°   besluitvaardigheid;<BR>4° communicatie- en uitdrukkingsvaardigheid;<BR>5°   integriteit;<BR>6° samenwerking;<BR>Groep B :<BR>1° collegialiteit;<BR>2°   zelfbeheersing;<BR>Groep C :<BR>1° vormingsbereidheid;<BR>2°   aanpassingsvermogen;<BR>3° openheid van geest en engagement.</P>
+...
 
 ### ART. 13.
 
-<P>§ 1. Voor elk evaluatiecriterium bestaan er een aantal gedragsindicatoren die   het mogelijk maken af te leiden of, en in welke mate, het raadslid of het   aanvullend raadslid aan het criterium beantwoordt.<BR></P>  <P>Aan de volgorde van de indicatoren per evaluatiecriterium komt geen   specifieke betekenis toe.<BR></P>  <P>De relevante indicatoren zijn vermeld in de lijst, opgenomen in bijlage 1,   die bij dit besluit is gevoegd.<BR></P>  <P>§ 2. In het kader van de evaluatie wordt per evaluatiecriterium een   gemotiveerde vermelding "goed" of "onvoldoende" toegekend.<BR></P>  <P>Met het oog op de weging van de evaluatiecriteria stemmen de vermeldingen, in   het eerste lid, overeen met een waarde die verschilt per groep van criteria   :<BR>1° Groep A :<BR>a) goed = + 3;<BR>b) onvoldoende = - 3;<BR>2° Groep B   :<BR>a) goed = + 2;<BR>b) onvoldoende = - 2;<BR>3° Groep C :<BR>a) goed = +   1;<BR>b) onvoldoende = - 1;<BR></P>  <P>§ 3. Na de beoordeling per evaluatiecriterium worden de waarden   opgeteld.<BR></P>  <P>De beoordeling draagt de vermelding :<BR>1° "goed" indien het totaal groter   of gelijk is aan nul;<BR>2° "onvoldoende" indien het totaal kleiner is dan   nul.<BR></P>  <P>De eindbeoordeling wordt met redenen omkleed.</P>
+...
 
 ### ART. 14.
 
-Bij indiensttreding van een nieuw raadslid of aanvullend raadslid wordt er   een functiebeschrijving opgemaakt.
+...
 
 ### ART. 15.
 
-<P>§ 1. De eerste te beoordelen periode wordt bepaald overeenkomstig artikel   4.8.38, § 1, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening.<BR></P>  <P>De tweede te beoordelen periode vangt aan op 1 juni die volgt op de datum van   de indiensttreding en eindigt op 31 mei van :<BR>1° het daaropvolgende jaar bij   de evaluatie van aanvullende raadsleden;<BR>2° het daaropvolgende jaar in het   geval de vorige evaluatie van het te evalueren raadslid leidde tot de   beoordeling 'onvoldoende';<BR>2° het derde daaropvolgende jaar, in de andere   gevallen.<BR></P>  <P>De daaropvolgende te beoordelen periodes vangen telkens aan op 1 juni die   volgt op de datum van de voorafgaande evaluatie en eindigen op 31 mei van het   jaar, vermeld in het tweede lid.<BR></P>  <P>§ 2. Bij de aanvang van de periode waarover het raadslid of aanvullend   raadslid geëvalueerd wordt, vindt er een planningsgesprek plaats tussen dit   raadslid en de voorzitter van de Raad.<BR></P>  <P>De plaats en het tijdstip waarop het planningsgesprek zal doorgaan, worden   uiterlijk acht dagen vooraf ter kennis gebracht van het raadslid of aanvullend   raadslid.<BR></P>  <P>§ 3. Het planningsgesprek strekt ertoe om op basis van de concrete   functiebeschrijving van het raadslid of aanvullend raadslid en rekening houdend   met de organisatorische context de doelstellingen voor de komende   evaluatieperiode vast te stellen. Die doelstellingen moeten specifiek, meetbaar,   aanvaardbaar en realiseerbaar zijn.<BR></P>  <P>§ 4. Het verslag van het planningsgesprek wordt vastgelegd in een   planningsdocument dat bewaard wordt in het evaluatiedossier.<BR></P>  <P>§ 5. In de loop van de evaluatieperiode kan tot een nieuw planningsgesprek   worden overgegaan wanneer er aanleiding bestaat om de functiebeschrijving of de   doelstellingen aan te passen. Dit gebeurt hetzij op initiatief van de voorzitter   van de Raad, hetzij op verzoek van het raadslid of aanvullend   raadslid.</P>
+...
 
 ### ART. 16.
 
-<P>§ 1. De plaats en het tijdstip waarop het evaluatiegesprek zal doorgaan,   worden uiterlijk vijftien dagen vooraf ter kennis gebracht van het raadslid of   aanvullend raadslid.<BR></P>  <P>Bij deze zending wordt het raadslid of aanvullend raadslid verzocht om het   evaluatiegesprek schriftelijk voor te bereiden en deze voorbereiding uiterlijk   drie dagen voor het evaluatiegesprek aan de voorzitter van de Raad te   bezorgen.<BR></P>  <P>De voorzitter van de Raad stelt vervolgens een ontwerp van voorlopige   beoordeling op. Dit ontwerp wordt tijdens het evaluatiegesprek meegedeeld aan en   besproken met het raadslid of aanvullend raadslid. Het kan eventueel nog worden   aangepast in functie van het onderhoud.<BR></P>  <P>§ 2. Het evaluatiegesprek wordt gevolgd door een planningsgesprek voor de   volgende periode.<BR></P>  <P>§ 3. De evaluatiedossiers berusten bij de voorzitter, zijn vertrouwelijk en   kunnen te allen tijde door de betrokkenen ingekeken worden. Ze worden gedurende   ten minste tien jaar bewaard.</P>
+...
 
 ## Afdeling 5. Tucht
 
 ### ART. 17.
 
-De tuchtvordering staat los van de strafvordering en van de burgerlijke   rechtsvordering.
+...
 
 ### ART. 18.
 
-<P>De tuchtprocedure wordt ingesteld binnen zes maanden nadat de bevoegde   tuchtoverheid kennis heeft gekregen van de feiten.<BR></P>  <P>De tuchtoverheid kan alle nuttige onderzoeksdaden stellen.<BR></P>  <P>Het betrokken raadslid of aanvullend raadslid wordt gehoord tijdens het   onderzoek. Hij kan zich laten bijstaan of vertegenwoordigen door een persoon   naar zijn keuze. De tuchtoverheid kan de persoonlijke verschijning van het   betrokken raadslid of aanvullend raadslid bevelen.<BR></P>  <P>Het onderzoeksdossier wordt ten minste vijftien dagen voor de hoorzitting ter   beschikking gesteld van het betrokken raadslid of aanvullend raadslid en de   persoon naar zijn keuze.<BR></P>  <P>De eventuele klacht en de bijlagen worden gevoegd bij het   onderzoeksdossier.<BR></P>  <P>Elk raadslid of aanvullend raadslid van de Raad, griffier en ondersteunend   personeel moet loyaal meewerken aan de tuchtonderzoeken die niet ten laste van   elke griffier of elk lid van het ondersteunend personeel zijn of kunnen worden   ingesteld. Met het oog op de vaststelling van eventuele tuchtinbreuken verleent   elk raadslid of aanvullend raadslid van de Raad, elke griffier en het   ondersteunend personeel zijn medewerking aan de daden van het tuchtrechtelijk   onderzoek die niet ten laste van elke griffier of elk lid van het ondersteunend   personeel zijn of kunnen worden gevoerd, en antwoordt nauwgezet op de gestelde   vragen.</P>
+...
 
 ### ART. 19.
 
-<P>Wanneer het betrokken raadslid of aanvullend raadslid verscheidene   tuchtrechtelijke tekortkomingen worden toegerekend, wordt tegen hem een enkele   tuchtprocedure gevoerd die slechts aanleiding kan geven tot een enkele   tuchtstraf.<BR></P>  <P>Wanneer hem tijdens de tuchtprocedure een nieuwe tekortkoming wordt   toegerekend, wordt een nieuwe tuchtprocedure ingesteld evenwel zonder dat de   reeds lopende procedure wordt onderbroken.<BR></P>  <P>In geval van samenhang wordt deze nieuwe tekortkoming evenwel behandeld en   berecht tijdens de lopende procedure.</P>
+...
 
 ### ART. 20.
 
-<P>§ 1. Ingeval het betrokken raadslid of aanvullend raadslid wordt vervolgd   wegens een misdaad of een wanbedrijf of tuchtrechtelijk wordt vervolgd, kan hij   in het belang van de dienst, op grond van een ordemaatregel in zijn ambt of   mandaat worden geschorst voor de duur van de vervolging en tot de eindbeslissing   is genomen.<BR></P>  <P>De tuchtoverheid spreekt de ordemaatregel uit voor de duur van een maand. De   maatregel kan vervolgens van maand tot maand worden verlengd tot de   eindbeslissing. De maatregel kan een inhouding van maximaal 20 % van de   brutobezoldiging meebrengen.<BR></P>  <P>§ 2. Er kan geen ordemaatregel worden genomen zonder dat het betrokken   raadslid of aanvullend raadslid is gehoord of behoorlijk opgeroepen   overeenkomstig de procedure bedoeld in artikel 21, § 1, eerste lid.<BR></P>  <P>§ 3. In afwijking van het derde lid kan een voorlopige ordemaatregel worden   genomen zonder voorafgaand het betrokken raadslid of aanvullend raadslid te   horen in volgende gevallen :<BR>1° bij uiterst dringende noodzakelijkheid,<BR>2°   als de feiten, op basis waarvan de voorgenomen ordemaatregel wordt overwogen,   vatbaar zijn voor directe, eenvoudige vaststelling door de bevoegde overheid en   er geen appreciatiebevoegdheid bestaat,<BR>3° wanneer het raadslid of aanvullend   raadslid tegen wie de maatregel wordt overwogen niet binnen een redelijke   termijn kan worden bereikt.<BR></P>  <P>Het betrokken raadslid of aanvullend raadslid wordt na het toepassen van de   voorlopige ordemaatregel onverwijld gehoord. Deze voorlopige ordemaatregel   vervalt na tien dagen, tenzij de tuchtoverheid hem binnen deze termijn heeft   bekrachtigd.</P>  <P><BR>§ 4. Het betrokken raadslid of aanvullend raadslid wordt gehoord telkens   een verlenging van de ordemaatregel wordt overwogen. De oproeping hiertoe   vermeldt de gegevens die aanleiding geven tot de maatregel tot   verlenging.<BR></P>  <P>§ 5. Wanneer een tuchtstraf met inhouding van wedde wordt uitgesproken tegen   een raadslid of aanvullend raadslid die het voorwerp is geweest van een   ordemaatregel met vermindering van wedde, heeft de tuchtstraf ten vroegste   uitwerking op de dag waarop de ordemaatregel is ingegaan.<BR></P>  <P>Het tijdens de ordemaatregel ingehouden bedrag van wedde wordt afgetrokken   van het bedrag van verlies van wedde dat voortvloeit uit de tuchtstraf met   inhouding van wedde. Als het bedrag van de ingehouden wedde hoger is dan het   bedrag van het verlies van wedde dat voortvloeit uit de tuchtstraf met inhouding   van wedde, wordt het verschil aan het betrokken raadslid of aanvullend raadslid   uitbetaald.<BR></P>  <P>De ingehouden bedragen worden aan het betrokken raadslid of aanvullend   raadslid uitbetaald wanneer de ordemaatregel niet gevolgd wordt door een   tuchtstraf of een strafrechtelijke veroordeling wegens dezelfde feiten, of   wanneer de strafvordering vervallen is, dan wel aanleiding heeft gegeven tot een   beschikking van buitenvervolgingstelling of tot een   seponering.</P>
+...
 
 ### ART. 21.
 
-<P>§ 1. Het betrokken raadslid of aanvullend raadslid wordt opgeroepen bij   beveiligde zending waarin de reden van de oproeping, de ten laste gelegde   feiten, de plaats waar en de termijn waarbinnen het dossier kan worden   geraadpleegd, alsook de plaats en datum van verschijning zijn vermeld.<BR></P>  <P>§ 2. Het tuchtdossier wordt ten minste vijftien dagen voor de dag van de   verschijning ter beschikking gesteld van het betrokken raadslid of aanvullend   raadslid en van de persoon naar zijn keuze. Een afschrift van het dossier kan   kosteloos worden verkregen.<BR></P>  <P>Het tuchtdossier omvat de eventuele klacht, het onderzoeksdossier, een kopie   van de oproepingsbrief en het bewijs van beveiligde zending.</P>
+...
 
 ### ART. 22.
 
-<P>Het betrokken raadslid of aanvullend raadslid kan zich voor de tuchtoverheid   laten bijstaan of vertegenwoordigen door een persoon naar zijn keuze.<BR></P>  <P>Behalve op uitdrukkelijk andersluidend verzoek van het betrokken raadslid of   aanvullend raadslid vindt het verhoor plaats achter gesloten deuren.<BR></P>  <P>De tuchtoverheid kan de persoonlijke verschijning van het betrokken raadslid   of aanvullend raadslid bevelen.</P>
+...
 
 ### ART. 23.
 
-<P>Een tuchtstraf kan alleen worden opgelegd nadat het betrokken raadslid of   aanvullend raadslid is gehoord of behoorlijk opgeroepen.<BR></P>  <P>De inhouding van salaris wordt toegepast gedurende ten hoogste drie maanden   en mag niet meer bedragen dan één vijfde van de nettobezoldiging.<BR></P>  <P>De schorsing wordt uitgesproken voor een periode van ten minste een maand en   ten hoogste een jaar en heeft zolang zij duurt een verlies van 20 % van de   brutobezoldiging tot gevolg. Gedurende de schorsing kan de betrokkene zijn   aanspraken op bevordering of verhoging in weddeschaal niet doen gelden.<BR></P>  <P>Het ontslag van ambtswege en de afzetting hebben het verlies van de   hoedanigheid van raadslid of aanvullend raadslid tot gevolg.</P>
+...
 
 ### ART. 24.
 
-<P>De griffie bezorgt de met redenen omklede beslissing van de tuchtoverheid aan   het betrokken raadslid of aanvullend raadslid bij beveiligde zending, binnen een   maand te rekenen vanaf de beslissing in kwestie.<BR></P>  <P>De beslissing maakt melding van het recht om beroep in te stellen en de   daarbij te respecteren termijn en procedure.<BR></P>  <P>Wanneer de tuchtstraf het directe gevolg is van een klacht, wordt de klager   in kennis gesteld van het dispositief van de beslissing.</P>
+...
 
 ### ART. 25.
 
-Het beroep, vermeld in artikel 4.8.38, § 2, derde lid, van de Vlaamse   Codex Ruimtelijke Ordening, wordt door het betrokken raadslid of aanvullend   raadslid per beveiligde zending ingesteld binnen een maand te rekenen vanaf de   kennisgeving van de beslissing, vermeld in artikel 24.
+...
 
 ### ART. 26.
 
-<P>Wanneer het betrokken raadslid of aanvullend raadslid niet verschijnt of zich   niet laat vertegenwoordigen wordt bij verstek geoordeeld.<BR></P>  <P>De termijn voor verzet tegen de beslissing bij verstek bedraagt een maand te   rekenen van de kennisgeving, ingeval de niet verschijnende partij bewijst dat   zij onmogelijk kon verschijnen.<BR></P>  <P>Op straffe van nietigheid moeten de redenen waarom het betrokken raadslid of   aanvullend raadslid niet kon verschijnen of zich laten vertegenwoordigen worden   uiteengezet in de beveiligde zending.</P>
+...
 
 ### ART. 27.
 
-<P>Ieder raadslid of aanvullend raadslid gestraft met een tuchtstraf kan een   verzoek tot herziening richten aan de tuchtoverheid die hem heeft gestraft als   hij aantoont over een nieuw element te beschikken.<BR></P>  <P>Het betrokken raadslid of aanvullend raadslid voegt bij zijn verzoek een   volledig verslag over de redenen en de bewijzen waarover hij beschikt om de   herziening van de uitgesproken beslissing te verkrijgen.<BR></P>  <P>Binnen drie maanden vanaf het verzoek neemt de tuchtoverheid een gemotiveerde   beslissing over het verzoek van het raadslid of aanvullend raadslid in   kwestie.<BR></P>  <P>Is de tuchtoverheid van oordeel dat het verzoek niet ontvankelijk is bij   gebrek aan redenen of bewijzen, kan zij beslissen zonder het raadslid of   aanvullend raadslid in kwestie vooraf te hebben gehoord.<BR></P>  <P>Is de tuchtoverheid van oordeel dat het verzoek ontvankelijk is, hoort zij   het raadslid of aanvullend raadslid in kwestie. Deze laatste kan zich laten   bijstaan door een persoon naar zijn keuze.<BR></P>  <P>Een nieuw verzoek kan worden ingediend telkens als het raadslid of aanvullend   raadslid gestraft met een tuchtstraf meent te beschikken over het bewijs dat   zijn dossier herziening verantwoordt.</P>
+...
 
 ## HOOFDSTUK 3. Griffie en ondersteunend personeel
 
 ### ART. 28.
 
-<P>De griffie is samengesteld uit een hoofdgriffier en griffiers.</P>  <P><BR>De hoofdgriffier is belast met de leiding van de griffie en staat daarbij   onder leiding en toezicht van de voorzitter. De Raad stelt de hoofdgriffier aan   onder de griffiers.<BR></P>  <P>De voorzitter wijst na advies van de hoofdgriffier en de betrokken   kamervoorzitter, de griffiers aan die de kamervoorzitter   bijstaan.</P>
+...
 
 ### ART. 29.
 
-Leden van het ondersteunend personeel kunnen tijdelijk de taak van   griffier uitoefenen, als voldaan is aan de volgende voorwaarden :<BR>1° het lid   van het ondersteunend personeel is houder van een masterdiploma in de   rechten;<BR>2° het lid van het ondersteunend personeel kan een nuttige   juridische beroepservaring doen gelden.
+...
 
 ### ART. 30.
 
-De griffiers en de leden van het ondersteunend personeel van de Raad   ontvangen de bezoldiging, de toelagen, de vergoedingen en de sociale voordelen   die gelden voor de graad van adjunct van de directeur, deskundige, medewerker of   assistent bij de Vlaamse overheid, met inbegrip van de   bevorderingsgraden.
+...
 
 ## HOOFDSTUK 4. Beheerder
 
 ### ART. 31.
 
-De beheerder is belast met de operationele en dagelijkse leiding en het   beheer van de Raad en staat daarbij onder leiding en gezag van de voorzitter. De   Raad stelt de beheerder aan onder de griffiers of de leden van het ondersteunend   personeel.
+...
 
 ## HOOFDSTUK 5. Slotbepalingen
 
 ### ART. 32.
 
-Het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van   sommige aspecten van de organisatie en werking van de Raad voor   Vergunningsbetwistingen, gewijzigd bij de besluiten van de Vlaamse Regering van   24 september 2010, 15 juli 2011, 23 maart 2012 en 13 juli 2012, wordt   opgeheven.
+...
 
 ### ART. 33.
 
-<P>In afwijking van artikel 15, eerste en tweede lid, wordt de eerste te   beoordelen periode voor de raadsleden die op het ogenblik van inwerkingtreding   van dit besluit reeds benoemd zijn, bepaald overeenkomstig artikel 10 van het   decreet van 6 juli 2012 houdende wijziging van diverse bepalingen van de Vlaamse   Codex Ruimtelijke Ordening, wat de Raad voor Vergunningsbetwistingen   betreft.<BR></P>  <P>De volgende te beoordelen periode van drie jaar vangt aan op 1 juni   2013.<BR></P>  <P>De daaropvolgende te beoordelen periodes vangen telkens aan op 1 juni die   volgt op de datum van de voorafgaande evaluatie.</P>
+...
 
 ### ART. 34.
 
-De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met   de uitvoering van dit besluit.
+...
 
 ### BIJLAGE
 
-<P>Bijlage 1 bij het besluit van de Vlaamse Regering van 19 april 2013 houdende   de organisatie van de Raad voor Vergunningsbetwistingen<BR></P>  <P>Bijlage 1. - Indicatoren voor de evaluatiecriteria<BR></P>  <P>Groep A :<BR></P>  <P>1° juridische kennis vereist voor de te behandelen materies;<BR>Indicatoren   :<BR>a) beheerst de juridische materies die behandeld worden rekening houdend   met de gegevens, feiten en situaties die de magistraat worden voorgelegd in de   uitoefening van zijn rechtsprekende functie;<BR>b) heeft een grondige en   gespecialiseerde kennis van de behandelde juridische materies;<BR>c) heeft   bijzondere aandacht voor de jurisprudentiële draagwijdte van zijn   arresten;<BR>d) toont belangstelling voor deze materies;<BR>e) motiveert zijn   beslissingen zowel in rechte als in feite;<BR>f)...<BR></P>  <P>2° doeltreffendheid en doelmatigheid;<BR>Indicatoren :<BR>a) geeft blijk van   analytisch vermogen;<BR>b) geeft blijk van organisatorische vaardigheden in de   organisatie van het werk en de leiding van een groep;<BR>c) motiveert collega's   en medewerkers;<BR>d) werkt doeltreffend : is bekwaam om zijn eigen werk te   organiseren en een doeltreffende oplossing te vinden voor de problemen die zich   voordoen;<BR>e) heeft zin voor initiatief, getuigt van gezond verstand en   praktisch inzicht;<BR>f) behoudt een evenwicht tussen :<BR>1) de kwaliteit van   het werk (professionele nauwgezetheid, creativiteit,...)<BR>2) de kwantiteit van   het werk (werkmethode, voortgangscontrole van dossiers,...)<BR>g) is stipt :   respecteert vastgestelde uren en termijnen;<BR>h) is bekwaam om een zitting of   vergadering te leiden;<BR>i)...<BR></P>  <P>3° besluitvaardigheid;<BR>Indicatoren :<BR>a) neemt zijn verantwoordelijkheid   op niettegenstaande de moeilijkheidsgraad van de zaken en situaties waarin   beslissingen moeten worden genomen;<BR>b) neemt beslissingen binnen een   redelijke termijn;<BR>c) vermijdt nutteloze beslissingen of   tussenvonnissen;<BR>d)...<BR></P>  <P>4° communicatie- en uitdrukkingsvaardigheid;<BR>Indicatoren :<BR>a)   luisterbereidheid :<BR>1) achterhaalt uitdrukkelijke en impliciete motieven bij   de gesprekspartners;<BR>2) is in staat om in mondelinge gesprekken belangrijke   informatie te achterhalen, door het stellen van vragen en gepast te reageren op   de verklaringen;<BR>3) kan de meest geschikte communicatievorm kiezen;<BR>4) is   hoffelijk en beleefd;<BR>5)...<BR>b) mondelinge en schriftelijke   uitdrukkingsvaardigheid :<BR>1) drukt zich op een evenwichtige, bedachtzame en   correcte wijze uit;<BR>2) schriftelijke uitdrukkingsvaardigheid : de geschreven   documenten zijn gestructureerd, duidelijk geargumenteerd, grammaticaal correct,   logisch en precies opgesteld, in een begrijpelijke taal;<BR>3) mondelinge   uitdrukkingsvaardigheid : vlot, helder, bondig en precies;<BR>4) synthetisch   vermogen;<BR>5)...<BR>c) professionele relationele vaardigheid :<BR>1) heeft   aandacht voor de kwaliteit van de relaties met advocaten, medewerkers van de   Raad (griffiers, juristen, stagiairs,..), de rechtsonderhorigen en de   collega's;<BR>2) heeft aandacht voor overleg en verzoening;<BR>3)... <BR>d)...   <BR></P>  <P>5° integriteit;<BR>Indicatoren :<BR>a) is onpartijdig in alle beslissingen,   tijdens het hele beslissingsproces;<BR>b) gedraagt zich met respect voor de   algemeen aanvaarde professionele ethiek en deontologie;<BR>c) is bezorgd over de   openbare dienstverlening en bevordert in het bijzonder het vertrouwen van de   rechtsonderhorige in de rechtsbedeling;<BR>d) oefent in alle onafhankelijkheid   zijn bevoegdheden uit en duldt hierbij geen enkele invloed;<BR>e) is bestand   tegen elke druk, provocatie of dwang;<BR>f) heeft aandacht voor de rechten van   de mens en het rechtvaardige verloop van de debatten;<BR>g) neemt een passende   terughoudendheid in acht;<BR>h)...<BR></P>  <P>6° samenwerking;<BR>Indicatoren :<BR>a) komt met ideeën om het gezamenlijk   resultaat te verbeteren<BR>b) moedigt collega's en medewerkers van de Raad aan   om samen te werken, hun ideeën te uiten en onderling van gedachten te   wisselen<BR>c) moedigt collega's en medewerkers van de Raad aan om onderling te   overleggen over zaken die het eigen werk overstijgen<BR>d) betrekt collega's en   medewerkers van de Raad bij het nemen van beslissingen die op hen een impact   hebben<BR>e) bevordert de goede verstandhouding, de teamgeest en het respect   voor verscheidenheid in mensen<BR>f) geeft opbouwende kritiek en feedback<BR>g)   moedigt collega's en medewerkers van de Raad aan om gezamenlijk oplossingen te   vinden<BR>h)...<BR></P>  <P>Groep B :<BR></P>  <P>1° collegialiteit;<BR>Indicatoren :<BR>a) is collegiaal ingesteld : zet zich   in om de gemeenschappelijke doelstellingen van de groep te realiseren;<BR>b)   wisselt professionele knowhow en informatie uit;<BR>c) heeft zin voor groepswerk   : zoekt en neemt verantwoordelijkheid op zich;<BR>d) is loyaal t.o.v. de anderen   en de genomen beslissingen;<BR>e)...<BR></P>  <P>2° zelfbeheersing;<BR>Indicatoren :<BR>a) evenwichtig gedrag :<BR>1) gedraagt   zich naar de genomen beslissingen;<BR>2) overwint de moeilijkheden waarmee hij   geconfronteerd wordt op de zitting, in het kader van de beraadslagingen of in   alle andere omstandigheden;<BR>b) stressbestendigheid :<BR>1) kan de werkdruk   aan;<BR>2) behoudt zijn zelfbeheersing, zelfs als hij uitgedaagd   wordt;<BR>c)...<BR></P>  <P>Groep C :<BR></P>  <P>1° vormingsbereidheid;<BR>Indicatoren :<BR>a) is bekommerd om zijn   bekwaamheid te vervolledigen of te verbeteren;<BR>b) neemt initiatief om zijn   opleiding te verbeteren;<BR>c) behoudt evenwicht tussen werk en   vorming;<BR>d)...<BR></P>  <P>2° aanpassingsvermogen;<BR>Indicatoren :<BR>a) is bereid nieuwe activiteiten   uit te oefenen en toont zich hierin doeltreffend;<BR>b) bekijkt elke verandering   of gevraagde vervanging vanuit een positieve ingesteldheid;<BR>c)...<BR></P>  <P>3° openheid van geest en engagement.<BR>Indicatoren :<BR>a) is beschikbaar   om, zowel binnen zijn jurisdictie als erbuiten, opbouwende initiatieven te nemen   of eraan mee te werken, maar blijft in staat een goed evenwicht te bewaren   tussen de hoofd- en nevenactiviteiten;<BR>b) neemt deel aan activiteiten die   bijdragen tot een beter inzicht in de maatschappelijke   werkelijkheid;<BR>c)...</P>
+...
