@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025092,
+  "title": "Ministerieel besluit van 2015-02-13 tot oprichting en samenstelling van de Vlaamse werkgroep Bevolkingsonderzoek naar borstkanker",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025092/VolledigDocument?datum=2014-11-01",
+  "source_sha256": "2bcbc76e30a44e815af376f994535e8e4f7031bbda8cb8533b5c9cc00fcd54e2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025092&param=informatie",
+  "as_of": "2014-11-01",
+  "made": "2015-02-13",
+  "gazette": "2015-03-11",
+  "numac": 2015035248,
+  "document_start": "2014-11-01",
+  "document_end": null,
+  "in_force": "2014-11-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2014-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
