@@ -65,7 +65,7 @@ Op voordracht van het Vlaams Netwerk van verenigingen waar armen het woord   nem
 
 ### ART. 11.
 
-Op voordracht van het Steunpunt voor Algemeen Welzijnswerk, Diksmuidelaan 36a, 2600 Berchem, worden de volgende personen benoemd tot respectievelijk effectief en plaatsvervangend lid : mevrouw Anita Cautaers en de heer Peter Brepoels.<br /><br />
+Op voordracht van SOM de federatie van sociale ondernemingen vzw,   Potvlietlaan 4, 2° verdieping, 2600 Berchem, worden de volgende personen benoemd   tot respectievelijk effectief en plaatsvervangend lid: Mevr. Anita Cautaers en   Mevr. Lieve Van Den Bossche.<BR>
 
 ### ART. 11/1.
 
