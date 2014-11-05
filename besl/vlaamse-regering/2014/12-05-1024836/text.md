@@ -16,6 +16,10 @@
 
 &nbsp;In artikel 4, 15°, van hetzelfde   besluit, wordt de naam "Jonny Peeters" vervangen door de naam "Pierre   Seeuws".
 
+### ART. 5.
+
+Artikel   11 van hetzelfde besluit wordt vervangen door wat volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   11. Op voordracht van SOM de federatie van sociale ondernemingen vzw,   Potvlietlaan 4, 2° verdieping, 2600 Berchem, worden de volgende personen benoemd   tot respectievelijk effectief en plaatsvervangend lid: Mevr. Anita Cautaers en   Mevr. Lieve Van Den Bossche.".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 6.
 
 &nbsp;In artikel 13 van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 13 december 2013, worden   de woorden "Federatie Onafhankelijke Seniorenzorg" vervangen door de woorden   "Vlaams Onafhankelijk Zorgnetwerk".
