@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024701,
+  "title": "Ministerieel besluit van 2014-09-08 tot vaststelling van de lijst voor het jaar 2015 met generieke afwijkingen van het verbod op het gebruik van pesticiden in uitvoering van artikel 5, paragraaf 2, van het besluit van de Vlaamse Regering van 15 maart 2013 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024701/VolledigDocument?datum=2014-11-07",
+  "source_sha256": "abb7dfdc7658efebdb258f2cf3d35f90d0faf075285e0210e64f4de1258b6e98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024701&param=informatie",
+  "as_of": "2014-11-07",
+  "made": "2014-09-08",
+  "gazette": "2014-10-28",
+  "numac": 2014036689,
+  "document_start": "2014-11-07",
+  "document_end": null,
+  "in_force": "2014-11-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
