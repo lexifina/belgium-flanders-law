@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024708,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de toegepaste gezondheidswetenschappen als nieuwe opleiding van de Hogeschool West-Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024708/VolledigDocument?datum=2014-11-08",
+  "source_sha256": "ec67fcb5c4c211fa95881b70b702bd030a8e0995610da2dd1bfedcba2a3e4564",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024708&param=informatie",
+  "as_of": "2014-11-08",
+  "made": "2014-09-05",
+  "gazette": "2014-10-29",
+  "numac": 2014036660,
+  "document_start": "2014-11-08",
+  "document_end": null,
+  "in_force": "2014-11-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
