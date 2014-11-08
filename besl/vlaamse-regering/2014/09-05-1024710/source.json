@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024710,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot wijziging van artikel 4, 9, 10 en 11 van het besluit van de Vlaamse Regering van 22 maart 2013 betreffende het inzagerecht en de bemiddeling bij interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024710/VolledigDocument?datum=2014-11-08",
+  "source_sha256": "226131207202f458c8178e566519381643c2b24373a83668f1d651e86f35b6db",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024710&param=informatie",
+  "as_of": "2014-11-08",
+  "made": "2014-09-05",
+  "gazette": "2014-10-29",
+  "numac": 2014036705,
+  "document_start": "2014-11-08",
+  "document_end": null,
+  "in_force": "2014-11-08",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
