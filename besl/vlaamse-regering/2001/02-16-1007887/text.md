@@ -16,11 +16,11 @@ De stedenbouwkundige vergunning tot ontbossing kan niet worden verleend vooralee
 
 ### ART. 3.
 
-Door de aanvrager van de stedenbouwkundige vergunning tot ontbossing wordt een voorstel tot compensatie van de ontbossing ingediend, dat bestaat uit:<br /><br />1° hetzij een compenserende bebossing die in overeenstemming is met de bepalingen van artikel 4 en die zal worden uitgevoerd door de houder van de vergunning;<br /><br />2° hetzij een verbintenis van de aanvrager om een compenserende bebossing die in overeenstemming is met de bepalingen van artikel 4 te laten uitvoeren door een derde;<br /><br />3° hetzij een compenserende bebossing die zal worden uitgevoerd door de houder van de vergunning, in combinatie met een verbintenis van de aanvrager om voor het overige gedeelte de compenserende bebossing te laten uitvoeren door een derde, zodat door de combinatie van beide compenserende bebossingen wordt voldaan aan alle bepalingen van artikel 4;<br /><br />4° hetzij een verbintenis van de aanvrager om een bosbehoudsbijdrage als bedoeld in artikel 5, eerste lid, te betalen;<br /><br />5° hetzij een compenserende bebossing die in overeenstemming is met de bepalingen van artikel 4, tweede, derde en vierde lid, doch niet met deze van het eerste lid van artikel 4, in combinatie met een verbintenis om een bosbehoudsbijdrage als bedoeld in artikel 5, tweede lid, te betalen voor het gedeelte van het te ontbossen terrein waarvoor geen compenserende bebossing wordt voorgesteld.
+Door de aanvrager van de stedenbouwkundige vergunning tot ontbossing wordt   een voorstel tot compensatie van de ontbossing ingediend, dat bestaat uit:<BR>1°   hetzij een compenserende bebossing die in overeenstemming is met de bepalingen   van artikel 4 en die zal worden uitgevoerd door de houder van de   vergunning;<BR>2° hetzij een verbintenis van de aanvrager om een compenserende   bebossing die in overeenstemming is met de bepalingen van artikel 4 te laten   uitvoeren door een derde;<BR>3° hetzij een compenserende bebossing die zal   worden uitgevoerd door de houder van de vergunning, in combinatie met een   verbintenis van de aanvrager om voor het overige gedeelte de compenserende   bebossing te laten uitvoeren door een derde, zodat door de combinatie van beide   compenserende bebossingen wordt voldaan aan alle bepalingen van artikel 4;<BR>4°   hetzij een verbintenis van de aanvrager om een bosbehoudsbijdrage als bedoeld in   artikel 5, eerste lid, te betalen;<BR>5° hetzij een compenserende bebossing die   in overeenstemming is met de bepalingen van artikel 4, tweede, derde en vierde   lid, doch niet met deze van het eerste lid van artikel 4, in combinatie met een   verbintenis om een bosbehoudsbijdrage als bedoeld in artikel 5, tweede lid, te   betalen voor het gedeelte van het te ontbossen terrein waarvoor geen   compenserende bebossing wordt voorgesteld.<BR><BR>Als de te ontbossen   oppervlakte aaneensluitend groter is dan drie hectare kan overeenkomstig artikel   90bis, § 4, tweede lid, van het Bosdecreet het voorstel tot compensatie van de   ontbossing alleen een compenserende bebossing omvatten als vermeld in het eerste   lid, 1°, 2° of 3°. Dit geldt ook voor gefaseerde, aaneensluitende ontbossingen,   door eenzelfde initiatiefnemer, waarbij die ontbossingen elk afzonderlijk op een   oppervlakte van minder dan drie hectare betrekking hebben, maar pas vanaf het   moment dat deze ontbossingen samen de grens van drie hectare   overschrijden.
 
 ### ART. 4.
 
-De oppervlakte van de compenserende bebossing moet overeenkomstig artikel 90bis, § 4, tweede lid, van het bosdecreet minstens gelijk zijn aan de te ontbossen oppervlakte.<br /><br />De aan de ontbossing gelijkwaardige compenserende bebossing wordt bepaald overeenkomstig bijlage I, gevoegd bij dit besluit, aan de hand van de oppervlakte van het bos en de boomsoortensamenstelling.<br /><br />Een compenserende bebossing kan slechts, met inachtneming van alle wettelijke en reglementaire bepalingen, worden uitgevoerd op terreinen die nog niet bebost zijn. Deze bebossing moet bovendien worden uitgevoerd in zones met de bestemming groengebied, natuurontwikkelingsgebied, parkgebied, buffergebied, bosgebied, bosuitbreidingsgebied, agrarisch gebied in de ruime zin, recreatiegebied, gebied voor gemeenschapsvoorzieningen en openbare nutsvoorzieningen of de met al deze gebieden vergelijkbare gebieden, aangeduid op de plannen van aanleg of ruimtelijke uitvoeringsplannen.<br /><br />Een compenserende bebossing kan niet gebeuren op terreinen die reeds buiten het kader van artikel 90bis van het bosdecreet dienen bebost of herbebost te worden hetzij ingevolge een gerechtelijke beslissing, hetzij ingevolge een contractuele of eenzijdige verbintenis.<br /><br />De compenserende bebossing dient als bos, zoals bepaald in artikel 3 van het bosdecreet, in stand gehouden te worden voor een periode van tenminste 25 jaar na de datum van aanplanting, behoudens het akkoord van het Agentschap voor Natuur en Bos.
+De oppervlakte van de compenserende bebossing moet overeenkomstig artikel   90bis, § 4, tweede lid, van het bosdecreet minstens gelijk zijn aan de te   ontbossen oppervlakte.<BR><BR>De aan de ontbossing gelijkwaardige compenserende   bebossing wordt bepaald overeenkomstig bijlage I, gevoegd bij dit besluit, aan   de hand van de oppervlakte van het bos en de boomsoortensamenstelling of in   voorkomend geval de aanwezigheid van een Europees te beschermen   boshabitat.<BR><BR>Een compenserende bebossing kan slechts, met inachtneming van   alle wettelijke en reglementaire bepalingen, worden uitgevoerd op terreinen die   nog niet bebost zijn. Deze bebossing moet bovendien worden uitgevoerd in zones   met de bestemming groengebied, natuurontwikkelingsgebied, parkgebied,   buffergebied, bosgebied, bosuitbreidingsgebied, agrarisch gebied in de ruime   zin, recreatiegebied, gebied voor gemeenschapsvoorzieningen en openbare   nutsvoorzieningen of de met al deze gebieden vergelijkbare gebieden, aangeduid   op de plannen van aanleg of ruimtelijke uitvoeringsplannen.<BR><BR>Een   compenserende bebossing kan niet gebeuren op terreinen die reeds buiten het   kader van artikel 90bis van het bosdecreet dienen bebost of herbebost te worden   hetzij ingevolge een gerechtelijke beslissing, hetzij ingevolge een contractuele   of eenzijdige verbintenis.<BR><BR>De compenserende bebossing dient als bos,   zoals bepaald in artikel 3 van het bosdecreet, in stand gehouden te worden voor   een periode van tenminste 25 jaar na de datum van aanplanting, behoudens het   akkoord van het Agentschap voor Natuur en Bos.
 
 ### ART. 5.
 
@@ -116,57 +116,55 @@ De Vlaamse minister, bevoegd voor het natuurbehoud, is belast met de uitvoering 
 
 <p>De grootte van een gelijkwaardige bebossing is gelijk aan de oppervlakte van de ontboste oppervlakte, vermenigvuldigd met de compensatiefactor.<br>
 <br>
-Deze compensatiefactor is afhankelijk van de boomsoortensamenstelling en wordt bepaald aan de hand van de onderstaande tabel.<br>
+Deze compensatiefactor is afhankelijk van de boomsoortensamenstelling en in voorkomend geval de aanwezigheid van één of meerdere Europees te beschermen boshabitats en wordt bepaald aan de hand van de onderstaande tabel.<br>
 <br>
-Compensatiefactor<br>
-&nbsp;</p>
+Compensatiefactor</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:347.4pt">
-			<p>Type bos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:113.2pt">
-			<p>Compensatiefactor</p>
-			</td>
+			<td>Type bos</td>
+			<td>Compensatiefactor</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
-			<p>Inheems loofbos: grondvlak bestaat uit minstens 80 % inheems loofhout</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
-			<p>2</p>
-			</td>
+			<td>Bos dat beantwoordt aan een of meerdere van de volgende habitat-codes:<br>
+			2160: Duinen met Hyppophae rhamnoides<br>
+			2170: Duinen met Salix repens ssp. Argentea (Salicion arenariae)<br>
+			2180: Beboste duinen van het Atlantische, Continentale and Boreale kustgebied<br>
+			9110: Beukenbossen van het type Luzulo-Fagetum<br>
+			9120: Zuurminnende Atlantische beukenbossen met ondergroei van Ilex of soms Taxus (Quercion robori-petraeae if Ilici-Fagion)<br>
+			9130: Beukenbossen van het type Asperulo-Fagetum<br>
+			9150: Midden-Europese kalkminnende beukenbossen behorend tot het Cephalanthero-Fagetum<br>
+			9160: Sub-Atlantische en midden-Europese wintereikenbossen of eikenhaagbeukbossen behorend tot het Carpinion-betuli:<br>
+			9190: Oude zuurminnende eikenbossen met Quercus robur op zandvlakten<br>
+			91D0: Veenbossen<br>
+			91<sup> </sup>E0: Alluviale bossen met Alnion glutinosa en Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae)<br>
+			91 F0: Gemengde eiken-iepen-essenbossen langs de oevers van grote rivieren met Quercus robur, Ulmus laevis, Fraxinus excelsior of Fraxinus angustifolia (Ulmenion minoris)</td>
+			<td>3</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
-			<p>Gemengd bos: grondvlak inheems loofhout ligt tussen 20 en 80 %</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
-			<p>1,5</p>
-			</td>
+			<td>Ander inheems loofbos: grondvlak bestaat uit minstens 80 % inheems loofhout</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:347.4pt">
-			<p>Niet‑inheems loofbos en/of naaldbos: grondvlak bestaat uit minstens 80 % niet‑inheems loofhout, naaldhout of een menging hiervan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:113.2pt">
-			<p>1</p>
-			</td>
+			<td>Gemengd bos: grondvlak inheems loofhout ligt tussen 20 en 80 %</td>
+			<td>1,5</td>
+		</tr>
+		<tr>
+			<td>Niet-inheems loofbos en/of naaldbos: grondvlak bestaat uit minstens 80 % niet-inheems loofhout, naaldhout of een menging hiervan</td>
+			<td>1</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>Het grondvlak wordt gedefinieerd als de som van de gezamenlijke oppervlakte van de stamdoorsneden van de bomen, aanwezig op een perceel, gemeten op 1.5 m hoogte en uitgedrukt in m2 per ha.<br>
+<br>
+Met de habitatcode wordt bedoeld een code die overeenstemt met een van de Europees te beschermen boshabitats vermeld in de bijlage 1, gevoegd bij het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu. Een informatieve boshabitatkaart met aanduiding van de in de tabel genoemde habitat-codes wordt opgesteld door het Instituut voor Natuur- en Bosonderzoek<br>
+<br>
+Het grondvlak wordt gedefinieerd als de som van de gezamenlijke oppervlakte van de stamdoorsneden van de bomen, aanwezig op een perceel, gemeten op 1.5 m hoogte en uitgedrukt in m2 per ha.<br>
 <br>
 Bestanden waarvan de opperetage uit minstens 75 % cultuurpopulier bestaat, vallen in de klasse niet-inheems loofbos.<br>
 <br>
 De loofboomsoorten zoals vermeld in onderstaande tabel worden beschouwd als inheemse loofboomsoorten.<br>
-&nbsp;</p>
-
+&nbsp;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
