@@ -1,0 +1,29 @@
+# Besluit van de Vlaamse Regering van 2014-09-05 tot wijziging van het besluit van de Vlaamse Regering van 16 februari 2001 tot vaststelling van nadere regels inzake compensatie van ontbossing en ontheffing van het verbod op ontbossing
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 20;<BR></P>  <P>Gelet op het Bosdecreet van 13 juni 1990, artikel 90bis, § 4, derde lid,   vervangen bij het decreet van 9 mei 2014;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 16 februari 2001 tot   vaststelling van nadere regels inzake compensatie van ontbossing en ontheffing   van het verbod op ontbossing;<BR></P>  <P>Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting,   gegeven op 22 mei 2014;<BR></P>  <P>Gelet op het advies 2014/025 van de Minaraad, gegeven op 19 juni   2014;<BR></P>  <P>Gelet op advies 56.558/1/V van de Raad van State, gegeven op 30 juli 2014,   met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Omgeving, Natuur en Landbouw;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit :<BR></P>
+
+## HOOFDSTUK 1 Wijzigingsbepalingen
+
+### ART. 1.
+
+&nbsp;In artikel 3 van het besluit van de Vlaamse Regering van 16 februari   2001 tot vaststelling van nadere regels inzake compensatie van ontbossing en   ontheffing van het verbod op ontbossing wordt een tweede lid toegevoegd, dat   luidt als volgt:<BR>"Als de te ontbossen oppervlakte aaneensluitend groter is   dan drie hectare kan overeenkomstig artikel 90bis, § 4, tweede lid, van het   Bosdecreet het voorstel tot compensatie van de ontbossing alleen een   compenserende bebossing omvatten als vermeld in het eerste lid, 1°, 2° of 3°.   Dit geldt ook voor gefaseerde, aaneensluitende ontbossingen, door eenzelfde   initiatiefnemer, waarbij die ontbossingen elk afzonderlijk op een oppervlakte   van minder dan drie hectare betrekking hebben, maar pas vanaf het moment dat   deze ontbossingen samen de grens van drie hectare   overschrijden.".<BR>
+
+### ART. 2.
+
+In artikel 4 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 7 maart 2008, worden aan het tweede lid de woorden "of in   voorkomend geval de aanwezigheid van een Europees te beschermen boshabitat "   toegevoegd.<BR>
+
+### ART. 3.
+
+In hetzelfde besluit worden in bijlage 1 de volgende wijzigingen   aangebracht:<BR>1° in het tweede lid worden de woorden "de   boomsoortensamenstelling" vervangen door de woorden "de boomsoortensamenstelling   en in voorkomend geval de aanwezigheid van één of meerdere Europees te   beschermen boshabitats";<BR>2° de tabel onder de term "compensatiefactor" wordt   vervangen door wat volgt:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Type bos       <TD>Compensatiefactor<BR>    <TR>      <TD>Bos dat beantwoordt aan een of meerdere van de volgende         habitat-codes:<BR>2160: Duinen met Hyppophae rhamnoides<BR>2170: Duinen         met Salix repens ssp. Argentea (Salicion arenariae)<BR>2180: Beboste         duinen van het Atlantische, Continentale and Boreale kustgebied<BR>9110:         Beukenbossen van het type Luzulo-Fagetum<BR>9120: Zuurminnende Atlantische         beukenbossen met ondergroei van Ilex of soms Taxus (Quercion         robori-petraeae if Ilici-Fagion)<BR>9130: Beukenbossen van het type         Asperulo-Fagetum<BR>9150: Midden-Europese kalkminnende beukenbossen         behorend tot het Cephalanthero-Fagetum<BR>9160: Sub-Atlantische en         midden-Europese wintereikenbossen of eikenhaagbeukbossen behorend tot het         Carpinion-betuli:<BR>9190: Oude zuurminnende eikenbossen met Quercus robur         op zandvlakten<BR>91D0: Veenbossen<BR>91<SUP> </SUP>E0: Alluviale bossen         met Alnion glutinosa en Fraxinus excelsior (Alno-Padion, Alnion incanae,         Salicion albae)<BR>91 F0: Gemengde eiken-iepen-essenbossen langs de oevers         van grote rivieren met Quercus robur, Ulmus laevis, Fraxinus excelsior of         Fraxinus angustifolia (Ulmenion minoris)       <TD>3<BR>    <TR>      <TD>Ander inheems loofbos: grondvlak bestaat uit minstens 80 % inheems         loofhout       <TD>2<BR>    <TR>      <TD>Gemengd bos: grondvlak inheems loofhout ligt tussen 20 en 80 %       <TD>1,5<BR>    <TR>      <TD>Niet-inheems loofbos en/of naaldbos: grondvlak bestaat uit minstens 80         % niet-inheems loofhout, naaldhout of een menging hiervan       <TD>1<BR></TD></TR></TBODY></TABLE><BR>3° na de tabel "compensatiefactor" wordt   het volgende lid toegevoegd:<BR>"Met de habitatcode wordt bedoeld een code die   overeenstemt met een van de Europees te beschermen boshabitats vermeld in de   bijlage 1, gevoegd bij het decreet van 21 oktober 1997 betreffende het   natuurbehoud en het natuurlijk milieu. Een informatieve boshabitatkaart met   aanduiding van de in de tabel genoemde habitat-codes wordt opgesteld door het   Instituut voor Natuur- en Bosonderzoek".<BR>
+
+## HOOFDSTUK 2 Slotbepalingen
+
+### ART. 4.
+
+Het besluit van de Vlaamse Regering van 16 februari 2001 tot vaststelling   van nadere regels inzake compensatie van ontbossing en ontheffing van het verbod   op ontbossing, zoals het gold voor de inwerkingtreding van dit besluit, blijft   van toepassing op de aanvragen tot het verkrijgen van een stedenbouwkundige   vergunning tot ontbossing of tot verkaveling van beboste grond en de aanvragen   tot het verkrijgen van een ontheffing van het verbod op ontbossing, die werden   ingediend, maar nog niet zijn afgehandeld voor de inwerkingtreding van dit   besluit .<BR>
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud,   is belast met de uitvoering van dit besluit.<BR>

@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024706,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot wijziging van het besluit van de Vlaamse Regering van 16 februari 2001 tot vaststelling van nadere regels inzake compensatie van ontbossing en ontheffing van het verbod op ontbossing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024706/VolledigDocument?datum=2014-11-08",
+  "source_sha256": "2802b32cc592add89cac795fc39ec95ffbf0a4294f03e2ae89634f235bd28d1f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024706&param=informatie",
+  "as_of": "2014-11-08",
+  "made": "2014-09-05",
+  "gazette": "2014-10-29",
+  "numac": 2014036641,
+  "document_start": "2014-11-08",
+  "document_end": null,
+  "in_force": "2014-11-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
