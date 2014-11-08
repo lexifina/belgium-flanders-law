@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024712,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-12 houdende indeling bij de gemeentewegen van de gewestweg(en) N19 Turnhoutsebaan tussen kilometerpunt 6,7 en 8,140 en N19 Geelsebaan tussen kilometerpunt 8,22 en 10,501 op het grondgebied van de gemeente Kasterlee",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024712/VolledigDocument?datum=2014-11-08",
+  "source_sha256": "f28d8f9192087e2de732d54c08008173dd1530f46fff8cfea0576816b2f4ea2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024712&param=informatie",
+  "as_of": "2014-11-08",
+  "made": "2014-09-12",
+  "gazette": "2014-10-29",
+  "numac": 2014036722,
+  "document_start": "2014-11-08",
+  "document_end": null,
+  "in_force": "2014-11-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-11-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
