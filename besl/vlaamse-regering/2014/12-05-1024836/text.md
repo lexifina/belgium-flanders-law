@@ -12,6 +12,10 @@
 
 &nbsp;In artikel 4, 11°, van hetzelfde   besluit, worden de woorden "de heer Michel Foulon" vervangen door de woorden   "Mevr. Ellen De Wandeler".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 3.
+
+&nbsp;In artikel 4, 12°, van hetzelfde   besluit, wordt de naam "Dominique Franquet" vervangen door de naam "Marlene   Reyns".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 4.
 
 &nbsp;In artikel 4, 15°, van hetzelfde   besluit, wordt de naam "Jonny Peeters" vervangen door de naam "Pierre   Seeuws".
