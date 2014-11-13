@@ -1,0 +1,25 @@
+# Ministerieel besluit van 2014-11-13 tot overschrijving van de vastleggingskredieten en vereffeningskredieten van de begroting van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden voor het begrotingsjaar 2014
+
+### Aanhef
+
+<P>De   Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds   voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap   met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994   inzake de infrastructuur voor persoonsgebonden aangelegenheden;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 20 december 2013 houdende de algemene uitgavenbegroting van   de Vlaamse Gemeenschap voor het begrotingsjaar 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het advies van de Inspectie van Financiën, gegeven op 3 juli 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 26   augustus 2014,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :</P>
+
+### ART. 1.
+
+Het   Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden wordt ertoe   gemachtigd om in zijn begroting voor het jaar 2014 volgende herverdeling van de   dotatie door te voeren:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de dotatie van de alternatieve financiering (GB0/1GI-D-2-Y/IS) wordt verminderd   met 7.000 duizend euro;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de dotatie van de klassieke financiering (GB0/1GI-D-5-Y/IS) wordt vermeerderd   met 7.000 duizend euro.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 2.
+
+Het   Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden wordt ertoe   gemachtigd om in zijn begroting voor het jaar 2014 volgende herverdeling van de   vastleggingskredieten door te voeren:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de vastleggingskredieten van de alternatieve financiering worden verminderd met   7.000 duizend euro;
+
+### ART. 3.
+
+Het   Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden wordt ertoe   gemachtigd om in zijn begroting voor het jaar 2014 volgende herverdeling van de   vereffeningskredieten door te voeren:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het vereffeningskrediet van de alternatieve financiering wordt verminderd met   7.000 duizend euro;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het vereffeningskrediet van de klassieke financiering wordt vermeerderd met   7.000 duizend euro.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 4.
+
+Dit   besluit heeft uitwerking met ingang van de datum van ondertekening van dit   besluit.
+
+### ART. 5.
+
+De   Vlaamse minister, bevoegd voor het Vlaams Infrastructuurfonds voor   Persoonsgebonden Aangelegenheden, is belast met de uitvoering van dit   besluit.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
