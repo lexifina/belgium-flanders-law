@@ -2,16 +2,16 @@
   "codex_id": 1011947,
   "title": "Besluit van de Vlaamse Regering van 2003-11-14 tot aanwijzing van de Vlaamse ambtenaren die belast worden met de controle op de naleving van de wetgeving en reglementering inzake zeevisserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011947/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "8347e3937e72303b86e90394cad317c3c138c3568906810d5c5bd124a23adedf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011947/VolledigDocument?datum=2014-11-13",
+  "source_sha256": "260797911e7af42b7f27c37295756d71f1abbacae0020d55a1a9ed2afeb28146",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011947&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2014-11-13",
   "made": "2003-11-14",
   "gazette": "2003-12-30",
   "numac": 2003036237,
   "document_start": null,
   "document_end": "2014-11-12",
-  "in_force": "2006-06-01",
+  "in_force": "2014-11-13",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-11-13; future article versions excluded; article text as the API gives it"
 }
