@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024725,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden, wat betreft de door het agentschap Jongerenwelzijn erkende voorzieningen en vergunde diensten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024725/VolledigDocument?datum=2014-11-13",
+  "source_sha256": "81eec686494b01c14ec4c728f96eb6155aebeec0ce7dc525f9fe9122dbf5e7dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024725&param=informatie",
+  "as_of": "2014-11-13",
+  "made": "2014-09-05",
+  "gazette": "2014-11-03",
+  "numac": 2014036726,
+  "document_start": "2014-11-13",
+  "document_end": null,
+  "in_force": "2014-11-13",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2014-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
