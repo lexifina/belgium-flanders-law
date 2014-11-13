@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024726,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-12 tot oprichting en samenstelling van het toezichtcomité ter implementatie van het Vlaams Programma voor Plattelandsontwikkeling voor de periode 2014-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024726/VolledigDocument?datum=2014-11-13",
+  "source_sha256": "583e80c63bea65ff6fa2818dfae94ca35335182c44fc5cb5b402d94264c9cc06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024726&param=informatie",
+  "as_of": "2014-11-13",
+  "made": "2014-09-12",
+  "gazette": "2014-11-03",
+  "numac": 2014036704,
+  "document_start": "2014-11-13",
+  "document_end": "2022-12-31",
+  "in_force": "2014-11-13",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2014-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
