@@ -6,24 +6,24 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-§ 1. Binnen het Vlaamse Gewest wordt een toezichtcomité opgericht, hierna het comité te noemen.<br /><br />Het comité ressorteert onder de Vlaamse minister, bevoegd voor het landbouwbeleid, hierna de Vlaamse minister te noemen.<br /><br />§ 2. Het comité heeft tot taak zich er in overeenstemming met artikel 78 van verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO) van te vergewissen dat het Vlaamse Programma voor Plattelandsontwikkeling doeltreffend wordt uitgevoerd.<br />
+...
 
 ### ART. 2.
 
-§ 1. Het comité is samengesteld uit eenentwintig leden, onder voorzitterschap van de Vlaamse minister. De leden hebben de hoedanigheid van stemgerechtigd lid of raadgevend lid.<br /><br />§ 2. De elf stemgerechtigde leden zijn :<br />1° de Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid;<br />2° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbeleid;<br />3° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Innovatie, Overheidsinvesteringen, Media en Armoedebestrijding;<br />4° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerisme en Vlaamse Rand;<br />5° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;<br />6° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Mobiliteit en Openbare Werken;<br />7° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Energie, Wonen, Steden en Sociale Economie;<br />8° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Sport;<br />9° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Leefmilieu, Natuur en Cultuur;<br />10° één vertegenwoordiger, voorgedragen door de Vlaamse minister van Onderwijs, Jeugd, Gelijke Kansen en Brussel;<br />11° de secretaris-generaal van het Departement Landbouw en Visserij, tevens de ondervoorzitter van het comité.<br /><br />§ 3. De tien raadgevende leden zijn :<br />1° één vertegenwoordiger, voorgedragen door de Europese Commissie, directoraat-generaal Landbouw;<br />2° één vertegenwoordiger, voorgedragen door de Milieu- en Natuurraad van Vlaanderen;<br />3° één vertegenwoordiger, voorgedragen door de Sociaal-Economische Raad van Vlaanderen;<br />4° één vertegenwoordiger, voorgedragen door de Vlaamse Land- en Tuinbouwraad, die vervangen zal worden door een vertegenwoordiger van de Strategische Adviesraad Landbouw en Visserij na de oprichting van deze raad;<br />5° één vertegenwoordiger, voorgedragen door het Agentschap voor Natuur en Bos;<br />6° één vertegenwoordiger, voorgedragen door de Vlaamse Landmaatschappij;<br />7° één vertegenwoordiger, voorgedragen door de cel Gelijke Kansen Vlaanderen van de Diensten voor het Algemeen Regeringsbeleid;<br />8° één vertegenwoordiger, voorgedragen door het Vlaams Betaalorgaan;<br />9° één vertegenwoordiger, voorgedragen door de Vereniging van de Vlaamse Provincies vzw;<br />10° één vertegenwoordiger, voorgedragen door de Vereniging van Vlaamse Steden en Gemeenten vzw;<br /><br />§ 4. De Waalse minister, bevoegd voor het landbouwbeleid, kan op verzoek van de Vlaamse minister, bevoegd voor het landbouwbeleid, één vertegenwoordiger voordragen als bijkomend raadgevend lid.<br /><br />§ 5. Het secretariaat wordt waargenomen door een personeelslid van het Departement Landbouw en Visserij, behorende tot de coördinerende cel Europees Plattelandsbeleid.<br />
+...
 
 ### ART. 3.
 
-§ 1. De Vlaamse minister benoemt de stemgerechtigde en raadgevende leden op voordracht van de aangewezen organisaties, die hiervoor aan de Vlaamse minister per mandaat een lijst bezorgen waarop tweemaal zoveel kandidaten voorkomen als er mandaten zijn waarover zij beschikken. Voor elk lid wordt er door de Vlaamse minister een plaatsvervanger aangewezen die, bij afwezigheid van het lid, aan de werkzaamheden van het comité deelneemt en in zijn rechten treedt. Het lidmaatschap is onbezoldigd en er worden geen vergoedingen uitgekeerd.<br /><br />§ 2. Het mandaat van de leden duurt tot 31 december 2013. Een lid dat voortijdig ophoudt zijn mandaat uit te oefenen, wordt vervangen door zijn plaatsvervanger, die zijn mandaat voltooit.<br /><br />Het lidmaatschap van een lid eindigt evenwel op de datum waarop de organisatie die de voordracht deed, aan de Vlaamse minister meldt dat het betrokken lid niet langer haar vertegenwoordiger is. Tezelfdertijd wordt een nieuw lid voorgedragen.<br /><br />§ 3. Het comité stelt een huishoudelijk reglement op dat aan de Vlaamse minister ter goedkeuring wordt voorgelegd.<br /><br />§ 4. Het comité vergadert minstens eenmaal per jaar.<br />
+...
 
 ### ART. 4.
 
-De volgende besluiten worden opgeheven :<br />1° het besluit van de Vlaamse Regering van 18 mei 2001 tot samenstelling van het comité van toezicht ter implementatie van het Vlaams programma voor Plattelandsontwikkeling, periode 2000-2006, gewijzigd bij het besluit van de Vlaamse Regering van 15 juli 2005;<br />2° het besluit van de Vlaamse Regering van 18 mei 2001 tot samenstelling van het managementcomité ter implementatie van het Vlaams Programma voor Plattelandsontwikkeling, periode 2000-2006, gewijzigd bij het besluit van de Vlaamse Regering van 15 juli 2005.<br />
+...
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2007.<br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het Landbouwbeleid, is belast met de uitvoering van dit besluit.<br />
+...
