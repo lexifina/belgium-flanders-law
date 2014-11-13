@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 19 mei 2006 betreffende
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de Raad : de Raad van het Fonds voor Landbouw en Visserij;<br />2° de minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br />3° het Fonds : het Fonds voor Landbouw en Visserij.
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° Raad: de   Raad van het Vlaams Fonds voor Landbouw en Visserij;<BR>2° de minister : de   Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<BR>3°   Vlaams Landbouwfonds: het Vlaams Fonds voor Landbouw en Visserij.
 
 ## HOOFDSTUK II Organisatie, samenstelling en werking
 
@@ -22,7 +22,7 @@ De Raad bestaat uit 26 leden en is samengesteld als volgt :<br />1° de secretar
 
 ### ART. 4.
 
-§ 1. De leden, vermeld in artikel 3, 4° tot 6°, worden aangewezen door de minister.<br /><br />De leden, vermeld in artikel 3, 7° tot 17°, worden benoemd door de minister, op voordracht van elke vertegenwoordigde landbouworganisatie, sectoriële beroepsvereniging, erkende vereniging, of door de verenigingen na onderling overleg. Die bezorgen hiertoe aan de minister een lijst waarop tweemaal zoveel kandidaten voorkomen als er mandaten zijn waarover zij beschikken. Voor elk lid wordt er door de minister een plaatsvervanger aangewezen die aan de werkzaamheden deelneemt bij afwezigheid van het effectieve lid. De plaatsvervanger heeft dezelfde bevoegdheden als het lid.<br /><br />§ 2. De minister wordt belast met de organisatie van het secretariaat van de Raad, onder meer met de aanwijzing van de secretarissen. De secretarissen van de Raad nemen eveneens het secretariaat van de bestendige comités, vermeld in artikel 11, waar.<br /><br />De secretarissen en de rekenplichtige van het Fonds nemen deel aan de vergaderingen van de Raad, zonder dat ze over stemrecht beschikken.
+§ 1. De leden, vermeld in artikel 3, 4° tot 6°, worden aangewezen door de   minister.<BR><BR>De leden, vermeld in artikel 3, 7° tot 17°, worden benoemd door   de minister, op voordracht van elke vertegenwoordigde landbouworganisatie,   sectoriële beroepsvereniging, erkende vereniging, of door de verenigingen na   onderling overleg. Die bezorgen hiertoe aan de minister een lijst waarop   tweemaal zoveel kandidaten voorkomen als er mandaten zijn waarover zij   beschikken. Voor elk lid wordt er door de minister een plaatsvervanger   aangewezen die aan de werkzaamheden deelneemt bij afwezigheid van het effectieve   lid. De plaatsvervanger heeft dezelfde bevoegdheden als het lid.<BR><BR>§ 2. De   minister wordt belast met de organisatie van het secretariaat van de Raad, onder   meer met de aanwijzing van de secretarissen. De secretarissen van de Raad nemen   eveneens het secretariaat van de bestendige comités, vermeld in artikel 11,   waar.<BR><BR>De secretarissen en de rekenplichtige van het Vlaams Landbouwfonds   nemen deel aan de vergaderingen van de Raad, zonder dat ze over stemrecht   beschikken.
 
 ### ART. 5.
 
@@ -58,11 +58,11 @@ De Raad kan voor de opdrachten die hij bepaalt werkgroepen oprichten bestaande u
 
 ### ART. 13.
 
-De leden van de Raad, de secretarissen en de uitgenodigde deskundigen krijgen van het Fonds geen vergoeding voor hun aanwezigheid op de Raadsvergaderingen en de vergaderingen van de bestendige comités en de werkgroepen, noch voor de kosten voor de verplaatsing en de voorbereiding.
+De leden van de Raad, de secretarissen en de uitgenodigde deskundigen   krijgen van het Vlaams Landbouwfonds geen vergoeding voor hun aanwezigheid op de   Raadsvergaderingen en de vergaderingen van de bestendige comités en de   werkgroepen, noch voor de kosten voor de verplaatsing en de   voorbereiding.
 
 ### ART. 14.
 
-De minister stelt het jaarlijkse programma van de geplande projecten vast, op voorstel van de Raad.<br /><br />De Raad ontvangt eenmaal per jaar een verslag over het beheer van het Fonds.
+De minister stelt het jaarlijkse programma van de geplande projecten vast,   op voorstel van de Raad.<BR><BR>De Raad ontvangt eenmaal per jaar een verslag   over het beheer van het Vlaams Landbouwfonds.
 
 ## HOOFDSTUK III Bijzonder reglement
 
@@ -70,13 +70,17 @@ De minister stelt het jaarlijkse programma van de geplande projecten vast, op vo
 
 ### ART. 15.
 
-De verrichtingen van het Fonds, de boekingen in de comptabiliteit en de verantwoording of regularisatie ervan zijn onderworpen aan de algemene bepalingen over de Rijkscomptabiliteit.
+De verrichtingen van het Vlaams Landbouwfonds, de boekingen in de   comptabiliteit en de verantwoording of regularisatie ervan zijn onderworpen aan   de algemene bepalingen over de Rijkscomptabiliteit.
+
+### ART. 15/1.
+
+Het Vlaams Landbouwfonds wordt beheerd door de minister, die zijn   beslissingsbevoegdheden over de inkomsten en de uitgaven kan   delegeren.<BR><BR>De rekenplichtige, vermeld in artikel 6, 3°, van het decreet   van 19 mei 2006 betreffende de oprichting en de werking van het Fonds voor   Landbouw en Visserij, beschikt rechtstreeks over de kredieten.
 
 ## Afdeling II Comptabiliteit
 
 ### ART. 16.
 
-De rekenplichtige heeft als taak de opbrengsten van het Fonds te innen   evenals mogelijke ontvangsten voor orde en de uitgaven te verrichten.<BR><BR>Het   Departement Financiën en Begroting rekent de ontvangsten en uitgaven, uitgevoerd   door de rekenplichtige, budgettair aan op grond van de driemaandelijkse staten   van de ontvangsten en uitgaven die de rekenplichtige voorlegt.
+De rekenplichtige heeft als taak de opbrengsten van het Vlaams   Landbouwfonds te innen evenals mogelijke ontvangsten voor orde en de uitgaven te   verrichten.<BR><BR>Het Departement Financiën en Begroting rekent de ontvangsten   en uitgaven, uitgevoerd door de rekenplichtige, budgettair aan op grond van de   driemaandelijkse staten van de ontvangsten en uitgaven die de rekenplichtige   voorlegt.
 
 ### ART. 17.
 
@@ -84,7 +88,7 @@ De inning van verplichte bijdragen of administratieve geldboeten ter uitvoering 
 
 ### ART. 18.
 
-De minister kan ten laste van het Fonds voorschotten betalen.
+De minister kan ten laste van het Vlaams Landbouwfonds voorschotten   betalen.
 
 ## HOOFDSTUK IV Slotbepalingen
 
