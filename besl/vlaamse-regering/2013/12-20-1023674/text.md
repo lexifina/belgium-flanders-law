@@ -8,28 +8,28 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° het decreet : het decreet van   28 juni 2013 betreffende het landbouw- en visserijbeleid;<BR>2° het agentschap :   het Agentschap voor Landbouw en Visserij;<BR>3° het departement : het   Departement Landbouw en Visserij.<BR>
+...
 
 ### ART. 2.
 
-De statutaire en contractuele personeelsleden van het agentschap en   departement oefenen de toezichtsopdracht uit, vermeld in artikel 44 van het   decreet. <BR>
+...
 
 ### ART. 3.
 
-De waarschuwing, vermeld in artikel 55, eerste lid, van het decreet kan   aan de overtreder worden gericht door : <BR>1° de secretaris-generaal van het   departement : de heer Jules Van Liefferinge;<BR>2° de administrateur-generaal   van het agentschap : de heer Noël Van Ginderachter.<BR>
+...
 
 ### ART. 4.
 
-Het voornemen tot het opleggen van een bestuurlijke sanctie, vermeld in   artikel 56 van het decreet, kan worden geformuleerd door : <BR>1° de   secretaris-generaal van het departement : de heer Jules Van Liefferinge;<BR>2°   de administrateur-generaal van het agentschap : de heer Noël Van   Ginderachter.<BR>
+...
 
 ### ART. 5.
 
-De bestuurlijke sanctie, vermeld in artikel 56 van het decreet, kan worden   opgelegd door : <BR>1° de secretaris-generaal van het departement : de heer   Jules Van Liefferinge;<BR>2° de administrateur-generaal van het agentschap : de   heer Noël Van Ginderachter.<BR>
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 januari 2014. <BR>
+...
 
 ### ART. 7.
 
-De minister is belast met de uitvoering van dit besluit.   <BR>
+...
