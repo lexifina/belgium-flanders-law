@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024734,
+  "title": "Besluit van de Vlaamse Regering van 2014-09-26 houdende opheffing van de Watering van de Gaverbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024734/VolledigDocument?datum=2014-11-14",
+  "source_sha256": "42817ec477a97a589985d91b7bf69a3ace4724d184489e294fa0aa4ed4fa158b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024734&param=informatie",
+  "as_of": "2014-11-14",
+  "made": "2014-09-26",
+  "gazette": "2014-11-04",
+  "numac": 2014036773,
+  "document_start": "2014-11-14",
+  "document_end": null,
+  "in_force": "2014-11-14",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
