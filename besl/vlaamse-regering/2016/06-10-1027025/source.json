@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027025,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-10 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027025/VolledigDocument?datum=2014-11-14",
+  "source_sha256": "9fce84d673bf188801604c3148bbb5b4f0c2ec3f47a01fedd55d9165e728474d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027025&param=informatie",
+  "as_of": "2014-11-14",
+  "made": "2016-06-10",
+  "gazette": "2016-07-13",
+  "numac": 2016036022,
+  "document_start": "2014-11-14",
+  "document_end": null,
+  "in_force": "2014-11-14",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2014-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
