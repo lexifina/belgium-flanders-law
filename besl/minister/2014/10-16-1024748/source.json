@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024748,
+  "title": "Ministerieel besluit van 2014-10-16 tot wijziging van het ministerieel besluit van 4 juni 2009 tot bepaling van de diplomavoorwaarden voor de functies van gedelegeerd planologisch ambtenaar, gedelegeerd stedenbouwkundig ambtenaar en gewestelijk, provinciaal en gemeentelijk stedenbouwkundig ambtenaar en tot aanwijzing van de diploma's die voldoen om te kunnen worden geregistreerd als ruimtelijk planner",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024748/VolledigDocument?datum=2014-11-23",
+  "source_sha256": "5e429bfe8e1b5fada856f427c005af3def319fd1727da8a15ee828cd961e397d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024748&param=informatie",
+  "as_of": "2014-11-23",
+  "made": "2014-10-16",
+  "gazette": "2014-11-13",
+  "numac": 2014036809,
+  "document_start": "2014-11-23",
+  "document_end": null,
+  "in_force": "2014-11-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-11-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
