@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024752,
+  "title": "Ministerieel besluit van 2014-10-31 tot vaststelling van een model voor een digitale kaart",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024752/VolledigDocument?datum=2014-11-24",
+  "source_sha256": "d09fe2ac467a99d7d9cca3143d7af2b84fb67e3c3bb18b9ff2b39d9cd3a98360",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024752&param=informatie",
+  "as_of": "2014-11-24",
+  "made": "2014-10-31",
+  "gazette": "2014-11-14",
+  "numac": 201436794,
+  "document_start": "2014-11-24",
+  "document_end": "2024-06-30",
+  "in_force": "2014-11-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-11-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
