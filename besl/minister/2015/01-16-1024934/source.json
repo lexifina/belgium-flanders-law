@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024934,
+  "title": "Ministerieel besluit van 2015-01-16 tot bepaling van de advies- en overlegprocedure voor de erkenning van kunstinstellingen ter uitvoering van artikel 49 en 50 van het besluit van de Vlaamse Regering van 9 mei 2014 betreffende de uitvoering van het decreet van 13 december 2013 houdende de ondersteuning van de professionele kunsten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024934/VolledigDocument?datum=2014-12-01",
+  "source_sha256": "b86ab3800d4a9c3e975fc6fa2f42d654bb4c83f5376e42b8433275f589574f83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024934&param=informatie",
+  "as_of": "2014-12-01",
+  "made": "2015-01-16",
+  "gazette": "2015-01-29",
+  "numac": 2015035098,
+  "document_start": "2015-01-30",
+  "document_end": null,
+  "in_force": "2014-12-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2014-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
