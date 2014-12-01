@@ -2,16 +2,16 @@
   "codex_id": 1016931,
   "title": "Ministerieel besluit van 2008-06-30 tot aanwijzing van de bevoegde ambtenaren in het Vlaamse Gewest ter uitvoering van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016931/VolledigDocument?datum=2008-07-01",
-  "source_sha256": "cc6a2302349c7b468417de5517abdcdf22dd25f5853d088560dc5e49fe5d0885",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016931/VolledigDocument?datum=2014-12-01",
+  "source_sha256": "66a1f406401c397cfd9161306f23e5751045508ee97a4c4e77b78a862178482b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016931&param=informatie",
-  "as_of": "2008-07-01",
+  "as_of": "2014-12-01",
   "made": "2008-06-30",
   "gazette": "2008-07-25",
   "numac": 2008202582,
   "document_start": "2008-07-01",
   "document_end": "2014-11-30",
-  "in_force": "2008-07-01",
+  "in_force": "2014-12-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2008-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2014-12-01; future article versions excluded; article text as the API gives it"
 }

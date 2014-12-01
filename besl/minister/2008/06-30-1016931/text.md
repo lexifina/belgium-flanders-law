@@ -6,24 +6,24 @@ De Vlaamse minister van Openbare Werken, Energie, Leefmilieu en Natuur,<br /><br
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder "het samenwerkingsakkoord" : het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, zoals gewijzigd door het samenwerkingsakkoord van 1 juni 2006.
+...
 
 ### ART. 2.
 
-Als ambtenaren die zijn belast met de taken van de in het Vlaamse Gewest aangewezen coördinerende dienst als vermeld in artikel 5, § 1, 1°, van het samenwerkingsakkoord, worden aangewezen :<br />1° Carolien Allebosch<br />2° Marc Bogaert<br />3° Vital Debroey<br />4° Kathleen Derbaix<br />5° Griet Goossens<br />6° Lina Grooten<br />7° Karola Imbrechts<br />8° Erwin Mariën<br />9° Jeroen Moernaut<br />10° Leen Torfs<br />11° Maarten Van Leest.
+...
 
 ### ART. 3.
 
-Als ambtenaren die zijn belast met de taken van de in het Vlaamse Gewest aangewezen beoordelingsdienst als vermeld in artikel 5, § 2, 1°, van het samenwerkingsakkoord, worden aangewezen :<br />1° Carolien Allebosch<br />2° Marc Bogaert<br />3° Vital Debroey<br />4° Kathleen Derbaix<br />5° Griet Goossens<br />6° Lina Grooten<br />7° Karola Imbrechts<br />8° Erwin Mariën<br />9° Jeroen Moernaut<br />10° Leen Torfs<br />11° Maarten Van Leest.
+...
 
 ### ART. 4.
 
-Als ambtenaren die zijn belast met de taken van de in het Vlaamse Gewest aangewezen inspectiedienst als vermeld in artikel 5, § 3, 1°, van het samenwerkingsakkoord, worden aangewezen :<br />1° Robert Baert<br />2° Wilfried Biesemans <br />3° Jo De Baerdemaeker <br />4° Inge Delvaux<br />5° Christof De Pauw<br />6° Ingeborg Dils <br />7° Christel Gernay<br />8° André Goossens<br />9° Nele Loos<br />10° Ingrid Roels <br />11° Philip Tanghe <br />12° Leentje Timmerman<br />13° Wilfried Van den Acker<br />14° Gwenny Vanhaecke<br />15° Marc Van Kerckvoorde.
+...
 
 ### ART. 5.
 
-Het ministerieel besluit van 8 oktober 2007 tot aanwijzing van de bevoegde ambtenaren in het Vlaamse Gewest ter uitvoering van het samenwerkingsakkoord van 21 juni 1999 gesloten tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, wordt opgeheven.
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 juli 2008.
+...
