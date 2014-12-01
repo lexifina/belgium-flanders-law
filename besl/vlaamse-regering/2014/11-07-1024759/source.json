@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024759,
+  "title": "Besluit van de Vlaamse Regering van 2014-11-07 tot wijziging van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten, wat de verplichte voorschotten op de heffing betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024759/VolledigDocument?datum=2014-12-01",
+  "source_sha256": "40269d182b1672c39d0eb0d659e431525a5dbe15281455fa73463ff8deb6e74c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024759&param=informatie",
+  "as_of": "2014-12-01",
+  "made": "2014-11-07",
+  "gazette": "2014-11-28",
+  "numac": 2014036842,
+  "document_start": "2014-12-01",
+  "document_end": null,
+  "in_force": "2014-12-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2014-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
