@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024821,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot wijziging van artikel 2 en 3 van het besluit van de Vlaamse Regering van 18 februari 2005 tot aanwijzing van de vertegenwoordiging van de Vlaamse Regering in het Belgisch Interventie- en Restitutiebureau",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024821/VolledigDocument?datum=2014-12-05",
+  "source_sha256": "13f5f6cafa15cff3a30cab27e527a71e856a75bde1b5dde3964b85f6d9fb7d4b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024821&param=informatie",
+  "as_of": "2014-12-05",
+  "made": "2014-12-05",
+  "gazette": "2014-12-24",
+  "numac": 2014036922,
+  "document_start": "2014-12-05",
+  "document_end": null,
+  "in_force": "2014-12-05",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2014-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
