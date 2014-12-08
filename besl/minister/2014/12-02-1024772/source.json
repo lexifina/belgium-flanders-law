@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024772,
+  "title": "Ministerieel besluit van 2014-12-02 houdende de organisatie van een call voor het indienen van steunaanvragen voor nuttige-groenewarmteinstallaties met een bruto thermisch vermogen van meer dan 1 MW, installaties voor de benutting van restwarmte en installaties voor de productie en injectie van biomethaan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024772/VolledigDocument?datum=2014-12-08",
+  "source_sha256": "36a10451d1df01a780e4d480e89bddde31af1f5f4d98dfcbcf4a68f907ff2a20",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024772&param=informatie",
+  "as_of": "2014-12-08",
+  "made": "2014-12-02",
+  "gazette": "2014-12-08",
+  "numac": 2014036899,
+  "document_start": "2014-12-08",
+  "document_end": null,
+  "in_force": "2014-12-08",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2014-12-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
