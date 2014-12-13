@@ -2,16 +2,16 @@
   "codex_id": 1022746,
   "title": "Ministerieel besluit van 2013-01-04 houdende vaststelling van het sjabloon voor het monitoringplan voor BKG-installaties, alsmede vaststelling van richtsnoeren voor het opstellen en wijzigen van het monitoringplan tijdens de tweede verbintenisperiode",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022746/VolledigDocument?datum=2013-02-21",
-  "source_sha256": "84cddd870ca7e22ed6307d0e692bf7a5c06f8773d8688bc9c3debca60bfc0114",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022746/VolledigDocument?datum=2014-12-13",
+  "source_sha256": "415ceddcdbf6f94d001a1730782d4aba95d2519bd9c50c693e1dfa1630ee8502",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022746&param=informatie",
-  "as_of": "2013-02-21",
+  "as_of": "2014-12-13",
   "made": "2013-01-04",
   "gazette": "2013-02-21",
   "numac": 2013035161,
   "document_start": "2013-02-21",
   "document_end": null,
-  "in_force": "2013-02-21",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2013-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2014-12-13",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2014-12-13; future article versions excluded; article text as the API gives it"
 }
