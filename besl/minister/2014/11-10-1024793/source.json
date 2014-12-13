@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024793,
+  "title": "Ministerieel besluit van 2014-11-10 tot wijziging van het ministerieel besluit van 24 januari 2014 houdende vaststelling van het sjabloon en de toelichting bij het emissiejaarrapport voor BKG-installaties tijdens de tweede verbintenisperiode",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024793/VolledigDocument?datum=2014-12-13",
+  "source_sha256": "070ac71be7adfe133bb2c7f47fc14d51830c17d1712d866a403feb16ad744451",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024793&param=informatie",
+  "as_of": "2014-12-13",
+  "made": "2014-11-10",
+  "gazette": "2014-12-12",
+  "numac": 2014207400,
+  "document_start": "2014-12-13",
+  "document_end": null,
+  "in_force": "2014-12-13",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
