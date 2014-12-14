@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024766,
+  "title": "Besluit van de Vlaamse Regering van 2014-11-07 houdende de definitieve vaststelling van het gewestelijk ruimtelijk uitvoeringsplan \"Historisch gegroeid bedrijf 'De Wandeleer' te Keerbergen\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024766/VolledigDocument?datum=2014-12-14",
+  "source_sha256": "480ef9364900c3016bdfec04a8840a179adf6362ed70e05d46a40ddbc8f7df78",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024766&param=informatie",
+  "as_of": "2014-12-14",
+  "made": "2014-11-07",
+  "gazette": "2014-12-04",
+  "numac": 2014207190,
+  "document_start": "2014-12-14",
+  "document_end": null,
+  "in_force": "2014-12-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
