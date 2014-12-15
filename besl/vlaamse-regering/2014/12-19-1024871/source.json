@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024871,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot wijziging van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, wat betreft het contingent doventolkuren en de invoering van enveloppefinanciering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024871/VolledigDocument?datum=2014-12-15",
+  "source_sha256": "398d575b13f788752a95314638996ff70d6bb5ac031f64f1670ced7dd51c0af9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024871&param=informatie",
+  "as_of": "2014-12-15",
+  "made": "2014-12-19",
+  "gazette": "2015-01-22",
+  "numac": 2015035032,
+  "document_start": "2014-12-15",
+  "document_end": null,
+  "in_force": "2014-12-15",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2014-12-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
