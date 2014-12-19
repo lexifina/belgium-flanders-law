@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025298,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 houdende de herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FB0/1FB-E-2-Z/PR basisallocatie FB0 FB004 0100 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025298/VolledigDocument?datum=2014-12-19",
+  "source_sha256": "7717301bb702839298e5025e51afaa1e3620ec5bc9bde4babeafd113931a2055",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025298&param=informatie",
+  "as_of": "2014-12-19",
+  "made": "2014-12-19",
+  "gazette": "2015-04-21",
+  "numac": 2015035477,
+  "document_start": "2014-12-19",
+  "document_end": null,
+  "in_force": "2014-12-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
