@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024781,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-17 houdende de herverdeling van het provisioneel krediet, ingeschreven onder het begrotingsartikel DB0/1DB-C-2-AA/PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024781/VolledigDocument?datum=2014-12-20",
+  "source_sha256": "0b2cd9e68e2b5f52965967b3e6238ebb9f376df0a4b2de29158037b8b565c0e1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024781&param=informatie",
+  "as_of": "2014-12-20",
+  "made": "2014-10-17",
+  "gazette": "2014-12-10",
+  "numac": 2014036840,
+  "document_start": "2014-12-20",
+  "document_end": null,
+  "in_force": "2014-12-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
