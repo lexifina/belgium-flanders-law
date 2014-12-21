@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024788,
+  "title": "Ministerieel besluit van 2014-11-07 houdende de goedkeuring van de benoemingen van prominenten van het Belgische Rode Kruis",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024788/VolledigDocument?datum=2014-12-21",
+  "source_sha256": "6ed0474bf47108274bde3150ecfb659d8d060887c7b6d42509d49d76065e5bb9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024788&param=informatie",
+  "as_of": "2014-12-21",
+  "made": "2014-11-07",
+  "gazette": "2014-12-11",
+  "numac": 2014207350,
+  "document_start": "2014-12-21",
+  "document_end": null,
+  "in_force": "2014-12-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2014-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
