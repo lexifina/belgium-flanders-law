@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024811,
+  "title": "Ministerieel besluit van 2014-12-04 tot wijziging van het ministerieel besluit van 13 juni 2008 betreffende de vastlegging van de vorm en de inhoud van het model van het energieprestatiecertificaat residentiële gebouwen bij verkoop en verhuur en de verklaring op erewoord",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024811/VolledigDocument?datum=2014-12-22",
+  "source_sha256": "2be60987f9231848b7cb29876ef02d162e600f58e6d16544b5d79c4710208464",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024811&param=informatie",
+  "as_of": "2014-12-22",
+  "made": "2014-12-04",
+  "gazette": "2014-12-22",
+  "numac": 2014036911,
+  "document_start": "2014-12-22",
+  "document_end": null,
+  "in_force": "2014-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
