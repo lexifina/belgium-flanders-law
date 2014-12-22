@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024906,
+  "title": "Ministerieel besluit van 2014-12-23 tot toekenning van een dotatie voor 2014 in het kader van het VIA-akkoord aan het Fonds voor Bestaanszekerheid voor collectieve verzekering als aanzet tot latere tweede pensioenpijler",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024906/VolledigDocument?datum=2014-12-22",
+  "source_sha256": "fd57dc00d7af5f7c19249522c94f0c5066182d536486a00acf2e51a90dc7ca93",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024906&param=informatie",
+  "as_of": "2014-12-22",
+  "made": "2014-12-23",
+  "gazette": "2015-01-26",
+  "numac": 2015035076,
+  "document_start": "2014-12-22",
+  "document_end": null,
+  "in_force": "2014-12-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2014-12-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
