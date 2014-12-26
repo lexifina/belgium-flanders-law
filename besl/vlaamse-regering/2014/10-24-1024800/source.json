@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024800,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-24 tot toekenning van conceptsubsidiëring aan stadsvernieuwingsprojecten in het kader van de oproep 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024800/VolledigDocument?datum=2014-12-26",
+  "source_sha256": "d684cdca5eb9c41ba10d82f513760ef3725aa0caa9eb9aad835e054c1e89ea8b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024800&param=informatie",
+  "as_of": "2014-12-26",
+  "made": "2014-10-24",
+  "gazette": "2014-12-16",
+  "numac": 2014036896,
+  "document_start": "2014-12-26",
+  "document_end": null,
+  "in_force": "2014-12-26",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2014-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
