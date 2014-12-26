@@ -1,0 +1,51 @@
+# Ministerieel besluit van 2014-11-26 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
+
+### Aanhef
+
+<P>De Vlaamse minister van Omgeving, Natuur en Landbouw,<BR></P>  <P>Gelet op het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid, artikel 16.3.1, § 1, 1°, en 16.3.8, § 2, gewijzigd bij de decreten   van 30 april 2009 en 23 december 2010;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 12 december 2008 tot   uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid, artikel 1, laatst gewijzigd bij het besluit van   de Vlaamse Regering van 25 april 2014, artikel 3/1, ingevoegd bij het besluit   van de Vlaamse Regering van 30 april 2009, artikel 12, 5°, 5°/1 en 5°/2,   gewijzigd bij het besluit van de Vlaamse Regering van 25 april 2014, artikel   36/1, gewijzigd bij het besluit van de Vlaamse Regering van 30 april 2009 en   artikel 78/2, ingevoegd bij het besluit van de Vlaamse Regering van 25 april   2014;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling   van de bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij het   besluit van de Vlaamse Regering van 17 oktober 2014;<BR></P>  <P>Gelet op het ministerieel besluit van 6 september 2013 betreffende de   aanwijzing van gewestelijke toezichthouders, gewestelijke   milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor   Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie   overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot   uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene   bepalingen inzake milieubeleid,<BR></P>  <P>Besluit :<BR></P>
+
+## HOOFDSTUK I De aanwijzing van gewestelijke toezichthouders bij het Agentschap voor Natuur en Bos
+
+## Afdeling I De personeelsleden van de afdeling, bevoegd voor de handhaving van het milieubeheerrecht
+
+### ART. 1.
+
+De volgende personeelsleden, vermeld in artikel 12, 5°, van het besluit   van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van   het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid,   worden aangewezen als gewestelijke toezichthouder:<BR>Maarten Van Knippenberg,   Jan Lamberts, Koen Van Bavel, Bart Deckers, Bert Boets, Lutgart Froyen, Oznur   Ulgar, Ghislain Mees, Koen Schreurs, Tomas Bogataj, Guido Vervaet, Philippe   Sturbois, Carlo Van der Veen, Marc Fourier, Urbain Merken, Dany Ruysen, Raf   Spelkens, Jan Vandersteegen, Steve Cox, Eddy Ulenaers, Jan Holsters, Marc   Missoorten, Johan Van Hertem, Trudo Scheelen, Geert Coninx, Jozef Agten, Marc   Stouten, Paul Vandenabeele, Patrick Van de Velde, Johnny Cocquyt, Johan Denys,   Philippe Van de Velde, Mark Ysewijn, Veerle Van den Eynde, Jan François,   Brigitte De Wever, Steven Cumps, Tom Brichau, François Bernar, Norbert Mues,   Jean-Pierre Oyen, Berten Vermander, Vicky Van Zeebroeck, Sven Vrielynck, Geert   Claeys, Danny Bauwens, Paul Vandamme, Bram Vlaeminck, Lieven Bossuyt, Vanessa   Vanclooster, Mark Van den Meersschaut, Jos Rutten.<BR>
+
+## Afdeling II De personeelsleden van de afdeling, bevoegd voor het beheer van de bossen en de natuurgebieden van de overheid
+
+### ART. 2.
+
+De volgende personeelsleden, vermeld in artikel 12, 5°/1, van hetzelfde   besluit, worden aangewezen als gewestelijke toezichthouder:<BR>Erik Van Boghout,   Guy Heutz, Patrick Engels, Hildegarde Quintens, Wim De Maeyer, Lucas Bergmans,   Werner De Kinderen, Bart Vanberghen, Harry Thys, Wouter Huygens, Danny   Daelemans, Robert Goyens, Dirk Leyssens, Karel Molenberghs, Jean-Pierre Otten,   Marc Schuermans, Werner Van Hove, Werner Bosman, Jan Brusselaers, Kris Eggers,   Bart Hoeymans, Ludo Lauwen, Paul Meulemans, Kris Rombouts, Luc Van Assche, Eddy   Feyen, Michel Van Buggenhout, Edgard Vercammen, Manuel Vermeulen, Jean Pierre   Adriaenssens, Johan Foque, Bart Govaere, Rafaël Holsters, Hans Van Praet, Dries   Gorissen, Gui Winters, Tom Hoebrechts, Urbain Merken, Jan Appermont, Dany   Ruysen, Raf Spelkens, Stijn Keunen, Jan Vandersteegen, Steve Cox, Eddy Ulenaers,   Jan Holsters, Marc Missoorten, Johan Van Hertem, Leo Lodewyckx, Trudo Scheelen,   Geert Coninx, Jozef Agten, Vanessa Geenens, Marc Stouten, Wout Deferm, Patrick   Reynders, Marcel Van Waerebeke, Johan Agten, Jan Cox, Eliane Verboven, Rudy Van   Uytsel, Rik Creemers, Jan Wellekens, Erwin Vanbriel, Jan Wuytack, Stefan Luyck,   Wim Van Roey, Jos Gorissen, Corina Cools, Wilfried Martens, Michel Broeckmans,   Karel Flipkens, Patrick Schuurmans, Eric Peyskens, Tom Maes, Xavier Coppens,   Jean-Pierre Nicaise, Kurt Vanpoecke, Bjorn Deduytsche, Johan Cordier, Maria   D'hondt, Joris Goossens, Marc Spanhove, Kim Rubben, Kim Dekeyser, Bart Meuleman,   Frank Saey, Patrick Huvenne, Gert Verbruggen, Erwin Ryckmans, Peter Raymaekers,   Johan Bennekens, Jean-Pierre Lanis, Louis Van De Leest, Erik Bartholomees, Dirk   Raes, Pierre Kestemont, Aloïs Scheys, Chris Van denbempt, Marc Struelens, Luc   Briesen, Frank Delbecque, Dominique De Heyn, Wim Pauwels, Theo Vitse, Evy   Dewulf, Mathieu Foré, Koen Maertens, Luc De Cat, Pierre Hubau, Herman Van Den   Bosch, Paul Guillemin, Erik Malfait, Guy Vileyn, Johan Lamaire, Hans   Vansteenbrugge, Koen Maréchal, Frans Van Nevel, Rik Delameillieure, Jan   Allegaert, Yvan Desseyn, Bart Vandaele, Geert Fierens.<BR>
+
+## Afdeling III De personeelsleden van de afdeling, bevoegd voor het beleid inzake het milieubeheerrecht
+
+### ART. 3.
+
+De volgende personeelsleden, vermeld in artikel 12, 5°/2, van hetzelfde   besluit, worden aangewezen als gewestelijke toezichthouder:<BR>Joris Janssens,   Hans De Schryver, Ivan De Smet, Frans De Schutter, Hilde Meurisse, Kaat   Bogaerts, Koen Deheegher, Erwin De Meyer, Karolien Van Kerckhove, Peter   Berghmans, Christel Nossol, Mario De Block, Els Wouters, Kristine Van Baelen,   Rudi Yseboodt, Daniel Josten, Sanne Habets, Jop Hermans, Sus Willems, Jurgen   Melis, Katleen Vandenbergh, Jeroen Casteels, Sehiene Willems, Tim Audenaert,   Frank Buysse, Ivan Schoemans, Kurt Michiels, Katia Nagels, Bart Denayer, Benny   Mathijs, Else De Schryver, Clement Onkelinx, Geert Beckers, Tom Verschraegen, An   Aarts, Marie-Kristine Van der Meersch, Jasper Goffin, Katrien Janssen, Alex   Ballet, Elvira Jacques, Kobe Janssen, Wim Deblier, Myriam Meesters, Frank Van   den Brande, Jeroen Schols, Frans Vaneygen, Maria Bosmans, Viviane Vanden Bil,   Hannelore Van De Wiele, Steven Laureys, Delphine de Hemptinne, Steven Lafort,   Jan Menschaert, Peter Claus, Alain Dillen, Wouter Mewis, Dries Desloover, Ann De   Rycke, Lieven Nachtergale, Dominiek Decleyre, Laurent Vanden Abeele, Elias   Verbanck, Wim Mertens, Kenny Hessel, Katrien Weyn, Jerry Cox, Hubert De Decker,   Viviane Vandenbossche, Karin Zoeter, Geert Flamand, Bart Weyers, Renaat Myny,   Vanessa Reynaert, Maarten Van den Eynde, Bart Van der Aa, Chris Van Liefferinge,   René Meeuwis, Ann Moreau, Werner Verhoeven, Rafael Vanweddingen, Marc Vallons,   Sandro Vanopdenbosch, Etienne Meert, Sara Heerinckx, Anja Delief, Danny   Maddelein, Floris Verhaeghe, Leni Demarest, Caroline Demey, Jeroen Bot, Lieven   Dekoninck, Kate Moermans, Thomas Debonnet, Jan Kino, Klaar Meulebrouck, Nard   Devoghel.<BR>
+
+### ART. 4.
+
+Op grond van artikel 36/1 van hetzelfde besluit beschikken de in artikel 3   vermelde personeelsleden enkel over een recht van toegang zoals bedoeld in   artikel 16.3.12 van het decreet van 5 april 1995 houdende algemene bepalingen   inzake milieubeleid; zij hebben geen bevoegdheid om milieu-inbreuken of   milieumisdrijven vast te stellen, noch om bestuurlijke maatregelen en   veiligheidsmaatregelen op te leggen.<BR>
+
+## HOOFDSTUK II De aanwijzing van officieren van gerechtelijke politie bij het Agentschap voor Natuur en Bos
+
+### ART. 5.
+
+De volgende personeelsleden, vermeld in artikel 78/2 van hetzelfde   besluit, worden aangewezen als officier van gerechtelijke politie:<BR>Jan   Lamberts, Koen Van Bavel, Bart Deckers, Bert Boets, Lutgart Froyen,, Oznur   Ulgar, Koen Schreurs, Tomas Bogataj, Guido Vervaet, Carlo Van der Veen, Philippe   Sturbois, Marc Fourier, Urbain Merken, Dany Ruysen, Raf Spelkens, Jan   Vandersteegen, Steve Cox, Eddy Ulenaers, Jan Holsters, Marc Missoorten, Johan   Van Hertem, Trudo Scheelen, Geert Coninx, Jozef Agten, Marc Stouten, Patrick van   de Velde, Johnny Cocquyt, Johan Denys, Philippe Van de Velde, Mark Ysewijn,   Veerle Van den Eynde, Jan François, Tom Brichau, François Bernar, Norbert Mues,   Jean-Pierre Oyen, Berten Vermander, Steven Cumps, Vicky Van Zeebroeck, Geert   Claeys, Danny Bauwens, Paul Vandamme, Bram Vlaeminck, Vanessa Vanclooster, Jos   Rutten.<BR>
+
+### ART. 6.
+
+&nbsp;De volgende personeelsleden, vermeld in artikel 78/2 van hetzelfde   besluit, worden aangewezen als officier van gerechtelijke politie, hulpofficier   van de procureur des Konings:<BR>Maarten Van Knippenberg, Ghislain Mees, Paul   Vandenabeele, Brigitte De Wever, Sven Vrielynck, Mark Van den   Meersschaut.<BR>
+
+## HOOFDSTUK III De aanwijzing van gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos
+
+### ART. 7.
+
+De volgende personeelsleden, vermeld in artikel 3/1 van hetzelfde besluit,   worden aangewezen als gemachtigd ambtenaar:<BR>Maarten Van Knippenberg, Ghislain   Mees, Paul Vandenabeele, Brigitte De Wever, Sven Vrielynck, Mark Van den   Meersschaut.<BR>
+
+## HOOFDSTUK IV Slotbepalingen
+
+### ART. 8.
+
+Het ministerieel besluit van 6 september 2013 betreffende de aanwijzing   van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en   gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams   ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de   Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het   decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid wordt   opgeheven.<BR>

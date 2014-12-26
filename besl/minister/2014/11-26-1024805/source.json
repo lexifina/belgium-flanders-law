@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024805,
+  "title": "Ministerieel besluit van 2014-11-26 betreffende de aanwijzing van gewestelijke toezichthouders, gewestelijke milieuopsporingsambtenaren en gemachtigde ambtenaren bij het Agentschap voor Natuur en Bos van het Vlaams ministerie van Leefmilieu, Natuur en Energie overeenkomstig het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024805/VolledigDocument?datum=2014-12-26",
+  "source_sha256": "4a4f26cecc779b36a8f432aa6bac6321e0047d114611d81b27f91533dc5dd546",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024805&param=informatie",
+  "as_of": "2014-12-26",
+  "made": "2014-11-26",
+  "gazette": "2014-12-16",
+  "numac": 2014207370,
+  "document_start": "2014-12-26",
+  "document_end": "2016-03-06",
+  "in_force": "2014-12-26",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2014-12-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
