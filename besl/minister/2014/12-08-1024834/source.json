@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024834,
+  "title": "Ministerieel besluit van 2014-12-08 houdende vergoedingen aan sommige elektriciteitsdistributienetbeheerders voor de uitvoering van de openbaredienstverplichtingen inzake geïmmobiliseerde groenestroom- en warmte-krachtcertificaten vermeld in artikel 6.4.14/1 van het Energiebesluit van 19 november 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024834/VolledigDocument?datum=2014-12-30",
+  "source_sha256": "44f650d28b727fa024e9458f450b0e1ecb076bbd8ac061a2328ba2a49126f8c7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024834&param=informatie",
+  "as_of": "2014-12-30",
+  "made": "2014-12-08",
+  "gazette": "2014-12-30",
+  "numac": 2014036949,
+  "document_start": "2014-12-30",
+  "document_end": "2020-12-31",
+  "in_force": "2014-12-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2014-12-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
