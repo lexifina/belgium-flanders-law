@@ -120,6 +120,10 @@ In artikel 4, § 4, eerste lid, van het decreet van 6 juli 2012 houdende de   on
 
 ## HOOFDSTUK 11. Doorbetalingsverbintenis
 
+### ART. 28.
+
+De overeenkomst van 15 juli 2014 met betrekking tot de   doorbetalingsverbintenis, afgesloten tussen enerzijds het Vlaamse Gewest, het   Waalse Gewest en het Brusselse Hoofdstedelijke Gewest en anderzijds de Single   Service Provider en de financier, wordt hierbij bekrachtigd voor wat betreft het   aandeel van het Vlaamse Gewest in alle verplichtingen die ingevolge de   DBFMO-overeenkomst van 25 juli 2014 of artikel 4 van de directe overeenkomst   door de interregionale entiteit Viapass of zijn rechtsopvolger of   rechtsverkrijger aan de Single Service Provider of de financier verschuldigd   zijn, voor zover deze niet vervuld kunnen worden door de interregionale entiteit   Viapass of zijn rechtsopvolger of rechtsverkrijger.
+
 ## HOOFDSTUK 12. Regionale luchthavens
 
 ### ART. 29.
