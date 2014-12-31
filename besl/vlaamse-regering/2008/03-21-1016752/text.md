@@ -30,6 +30,10 @@ In hetzelfde besluit wordt het opschrift van bijlage 2.3.3 vervangen door wat vo
 
 Aan bijlage 2.3.3 van hetzelfde besluit, waarvan de bestaande tekst deel I zal vormen, wordt een nieuw deel II toegevoegd, die bij dit besluit is gevoegd.<br /><br />
 
+### ART. 7.
+
+In bijlage 2.3.3 van hetzelfde besluit wordt deel I opgeheven. <br /><br />
+
 ## HOOFDSTUK II Overige wijzigingen
 
 ### ART. 8.
