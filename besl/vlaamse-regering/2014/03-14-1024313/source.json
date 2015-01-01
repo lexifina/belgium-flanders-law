@@ -2,16 +2,16 @@
   "codex_id": 1024313,
   "title": "Besluit van de Vlaamse Regering van 2014-03-14 met betrekking tot de erkenning en de subsidiëring van ondersteuningsteams",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024313/VolledigDocument?datum=2014-03-01",
-  "source_sha256": "a5c967d1a943115e071b734accf536ff67e74a7bbf9386061fb69afd4bf07c9f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024313/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "dce371ee908c36930e1639c643932b3bb6068de2256bb02e502c48e65a2a9f6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024313&param=informatie",
-  "as_of": "2014-03-01",
+  "as_of": "2015-01-01",
   "made": "2014-03-14",
   "gazette": "2014-07-18",
   "numac": 2014035448,
   "document_start": "2014-03-01",
   "document_end": null,
-  "in_force": "2014-03-01",
+  "in_force": "2015-01-01",
   "article_versions": 32,
-  "record_form": "consolidated version as in force on 2014-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

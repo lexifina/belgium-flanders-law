@@ -100,7 +100,7 @@ Een aanvrager kan alleen een erkenning of een verlenging van een erkenning   ver
 
 ### ART. 20.
 
-<P>Personeelsleden van het agentschap Zorginspectie oefenen ter plaatse of op   stukken toezicht uit op de naleving van de erkenningsvoorwaarden door de   ondersteuningsteams.<BR></P>  <P>De ondersteuningsteams verlenen hun medewerking aan de uitoefening van het   toezicht. Ze bezorgen aan de personeelsleden, vermeld in het eerste lid, op hun   eenvoudig verzoek, de stukken die verband houden met de erkenningsaanvraag of   met de erkenning. De Zorginspectie kan het dossier van een minderjarige   uitsluitend ter plaatse inzien.<BR></P>
+<P>Personeelsleden van Zorginspectie van het Departement Welzijn,   Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit   van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn,   Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot   oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en   Gezin en betreffende de wijziging van regelgeving met betrekking tot dat   beleidsdomein, oefenen ter plaatse of op stukken toezicht uit op de naleving van   de erkenningsvoorwaarden door de ondersteuningsteams.<BR></P>  <P>De ondersteuningsteams verlenen hun medewerking aan de uitoefening van het   toezicht. Ze bezorgen aan de personeelsleden, vermeld in het eerste lid, op hun   eenvoudig verzoek, de stukken die verband houden met de erkenningsaanvraag of   met de erkenning. De Zorginspectie kan het dossier van een minderjarige   uitsluitend ter plaatse inzien.<BR></P>
 
 ### ART. 21.
 
@@ -144,7 +144,50 @@ De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met   de u
 
 ### BIJLAGE 1
 
-Forfaitaire subsidies als vermeld in artikel 23, eerste lid<BR>De   ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire   subsidie.<BR>De subsidie voor de ondersteuningsteams bedraagt jaarlijks 758.000   euro. Dat bedrag wordt toegekend als volgt:<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>voor de werking in de provincie       <TD>bedrag in euro<BR>    <TR>      <TD>Antwerpen       <TD>242.000<BR>    <TR>      <TD>Limburg       <TD>198.000<BR>    <TR>      <TD>Oost-Vlaanderen       <TD>81.000<BR>    <TR>      <TD>West-Vlaanderen       <TD>81.000<BR>    <TR>      <TD>Vlaams-Brabant en Brussels-Hoofdstedelijk Gewest       <TD>156.000<BR>    <TR>      <TD>      <TD><BR>    <TR>      <TD>totaal Vlaanderen       <TD>758.000<BR></TD></TR></TBODY></TABLE>  <P><BR>De subsidie van het ondersteuningsteam wordt vermeerderd met een   supplement van 1,8 % van het basisbedrag voor elk jaar dat de gemiddelde   anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar   overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende   jaar en afgerond op 1 decimaal.<BR></P>  <P>De voormelde bedragen zijn gekoppeld aan de spilindex die van kracht was op 1   maart 2014.<BR></P>
+<p><strong>Forfaitaire subsidies als vermeld in artikel 23, eerste lid</strong><br>
+<br>
+De ondersteuningsteams ontvangen voor het geheel van hun werking een forfaitaire subsidie.<br>
+<br>
+De subsidie voor de ondersteuningsteams bedraagt jaarlijks 753.071 euro. Dat bedrag wordt toegekend als volgt :</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>voor de werking in de provincie</td>
+			<td>bedrag in euro</td>
+		</tr>
+		<tr>
+			<td>Antwerpen</td>
+			<td>240.427</td>
+		</tr>
+		<tr>
+			<td>Limburg</td>
+			<td>196.713</td>
+		</tr>
+		<tr>
+			<td>Oost-Vlaanderen</td>
+			<td>80.474</td>
+		</tr>
+		<tr>
+			<td>West-Vlaanderen</td>
+			<td>80.474</td>
+		</tr>
+		<tr>
+			<td>Vlaams-Brabant en Brussels-Hoofdstedelijk Gewest</td>
+			<td>154.986</td>
+		</tr>
+		<tr>
+			<td>Totaal Vlaanderen</td>
+			<td>753.074</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+De subsidie van het ondersteuningsteam wordt vermeerderd met een supplement van 1,8 % van het basisbedrag voor elk jaar dat de gemiddelde anciënniteit van alle personeelsleden de basisanciënniteit van vijf jaar overschrijdt. Die anciënniteit wordt berekend op 1 januari van het betreffende jaar en afgerond op 1 decimaal.<br>
+<br>
+De voormelde bedragen zijn gekoppeld aan de spilindex van kracht op 1 januari 2015.
+<p>&nbsp;</p>
 
 ### BIJLAGE 2
 
