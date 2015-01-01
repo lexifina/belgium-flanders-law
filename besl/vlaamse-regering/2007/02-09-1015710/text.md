@@ -6,25 +6,23 @@ De Vlaamse Regering,<br /><br />Gelet op de wet van 28 maart 1975 houdende de ha
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 22 december 2006 tot inrichting van een gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond in het kader van het meststoffenbeleid en van het landbouwbeleid;<br />2° de ministers : de Vlaamse minister, bevoegd voor het landbouwbeleid, en de Vlaamse minister, bevoegd voor het leefmilieu;<br />3° het ALV : het Agentschap voor Landbouw en Visserij, vermeld in artikel 1 van het besluit van de Vlaamse Regering van 2 april 2004 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Landbouw en Visserij;<br />4° verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 2, 11°, van Verordening (EG) nr. 796/2004 van de Commissie.
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° het   decreet : het decreet van 22 december 2006 tot inrichting van een   gemeenschappelijke identificatie van landbouwers, exploitaties en landbouwgrond   in het kader van het meststoffenbeleid en van het landbouwbeleid;<BR>2° de   ministers : de Vlaamse minister, bevoegd voor het landbouwbeleid, en de Vlaamse   minister, bevoegd voor het leefmilieu;<BR>3° Departement Landbouw en Visserij:   het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>4° verzamelaanvraag : de verzamelaanvraag, vermeld in artikel 2,   11°, van Verordening (EG) nr. 796/2004 van de Commissie.
 
 ### ART. 2.
 
-§ 1. Het ALV is de bevoegde instantie voor de identificatie en registratie in het GBCS van de landbouwers en van de landbouwgronden, vermeld in artikel 3, § 1, van het decreet.<br>
+§ 1. Het Departement Landbouw en Visserij is de bevoegde instantie voor de identificatie en registratie in het GBCS van de landbouwers en van de landbouwgronden, vermeld in artikel 3, § 1, van het decreet.<br>
+<br>
+Het hoofd van de bevoegde instantie kan de aangelegenheden die conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde instantie vallen, subdelegeren aan personeelsleden van de bevoegde instantie die onder zijn hiërarchisch gezag staan, tot op het meest functionele niveau.<br>
 <br>
 § 2. De ministers bepalen de nadere uitvoeringswijze van de voorwaarde voor het exclusieve gebruik en het exclusieve beheer van de productiemiddelen van een bedrijf als vermeld in artikel 4, § 3, 2°, van het decreet.<br>
 <br>
-§ 3. Bij het overnemen, het opstarten of het stopzetten van een exploitatie maken de betrokken exploitanten, voorafgaandelijk aan respectievelijk het overnemen, het opstarten of het stopzetten, hiervan melding bij het ALV. Het ALV zorgt voor de unieke identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, of past in voorkomend geval, de bestaande identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, aan.<br>
+§ 3. Bij het overnemen, het opstarten of het stopzetten van een exploitatie maken de betrokken exploitanten, voorafgaandelijk aan respectievelijk het overnemen, het opstarten of het stopzetten, hiervan melding bij de bevoegde instantie. De bevoegde instantie zorgt voor de unieke identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, of past in voorkomend geval, de bestaande identificatie van de betrokkenen in het GBCS vermeld in artikel 4, § 1, van het decreet, aan.<br>
 <br>
 De ministers kunnen nadere regels bepalen voor de identificatie bij het overnemen, het opstarten of het stopzetten van een exploitatie.
 
 ### ART. 3.
 
-§ 1. Met toepassing van artikel 5 van het decreet beslist het diensthoofd van de buitendienst van het ALV tot ambtshalve samenvoeging. Hij deelt zijn beslissing aangetekend mee aan de betrokkenen. Zijn beslissing is gemotiveerd en bevat de datum vanaf wanneer de ambtshalve samenvoeging in werking treedt.<br>
-<br>
-§ 2. De betrokkenen kunnen een bezwaar indienen tegen die beslissing. Het bezwaar wordt met redenen omkleed en gericht aan de leidinggevende ambtenaar van het hoofdbestuur van het ALV, uiterlijk binnen dertig dagen na de kennisgeving van de beslissing door de buitendienst van het ALV. Het bezwaar wordt op straffe van niet-ontvankelijkheid aangetekend verstuurd. Een ontvankelijk bezwaar schorst de uitvoering van de ambtshalve samenvoeging.<br>
-<br>
-§ 3. Het hoofdbestuur van het ALV deelt zijn beslissing aangetekend mee binnen zestig dagen na de ontvangst van het bezwaar.
+§ 1. Met toepassing van artikel 5 van het decreet beslist de bevoegde   instantie tot ambtshalve samenvoeging. De beslissing wordt aangetekend   meegedeeld aan de betrokkenen. De beslissing is gemotiveerd en bevat de datum   vanaf wanneer de ambtshalve samenvoeging in werking treedt. <BR><BR>§ 2. De   betrokkenen kunnen een bezwaar indienen tegen die beslissing. Het bezwaar wordt   met redenen omkleed en gericht aan de bevoegde instantie, uiterlijk binnen   dertig dagen na de kennisgeving van de beslissing door de bevoegde instantie.   Het bezwaar wordt op straffe van niet-ontvankelijkheid aangetekend verstuurd.   Een ontvankelijk bezwaar schorst de uitvoering van de ambtshalve   samenvoeging.<BR><BR>§ 3. De bevoegde instantie deelt zijn beslissing   aangetekend mee binnen zestig dagen na de ontvangst van het   bezwaar.
 
 ### ART. 4.
 
