@@ -26,7 +26,7 @@ In dit besluit wordt verstaan onder besluit van de Vlaamse Regering van 8 mei 20
 
 ### ART. 2.
 
-Het Departement Landbouw en Visserij wordt aangewezen als bevoegde dienst   als vermeld in artikel 1, 4°, van het besluit van de Vlaamse Regering van 8 mei   2009, en wordt belast met de taken, vermeld in artikel 50, 1°, 3°, 4°, 5°, 6°,   9°, 15°, 19°, 20° en 21° van het besluit van de Vlaamse Regering van 8 mei   2009.<BR><BR>Het Agentschap voor Landbouw en Visserij wordt aangewezen als   bevoegde dienst als vermeld in artikel 1, 4°, van het besluit van de Vlaamse   Regering van 8 mei 2009, en wordt belast met de taken, vermeld in artikel 50,   2°, 7°, 8°, 11°, 12°, 13°, 14°, 16°, 17° en 18°, van het besluit van de Vlaamse   Regering van 8 mei 2009.<BR><BR>Voor de uitvoering van artikel 50, 10°, van het   besluit van de Vlaamse Regering van 8 mei 2009 wordt het Departement Landbouw en   Visserij belast met de advisering en wordt het Agentschap voor Landbouw en   Visserij belast met de controle op het operationele programma of wijzigingen van   het programma.
+<P>...</P>
 
 ### ART. 3.
 
