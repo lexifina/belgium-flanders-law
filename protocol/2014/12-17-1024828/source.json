@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024828,
+  "title": "Protocol van 2014-12-17 tussen de federale overheid, de gewesten, de gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie betreffende de aanrekening van de door de openbare instellingen van sociale zekerheid voor rekening van de gewesten, de gemeenschappen en de Gemeenschappelijke Gemeenschapscommissie uitgevoerde uitgaven op de middelen die krachtens de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, de bijzondere wet van 12 januari 1989 met betrekking tot de Brusselse instellingen en de wet van 31 december 1983 tot hervorming der instellingen voor de Duitstalige Gemeenschap aan de deelgebieden worden toegekend",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024828/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c2fe9ff9203f34d4d5316ec27c648844c225e8c5212a181f1f5668ea07c5c865",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024828&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-17",
+  "gazette": "2014-12-31",
+  "numac": 2014004074,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
