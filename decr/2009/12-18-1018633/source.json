@@ -2,16 +2,16 @@
   "codex_id": 1018633,
   "title": "Decreet van 2009-12-18 houdende bepalingen tot begeleiding van de begroting 2010",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018633/VolledigDocument?datum=2012-11-27",
-  "source_sha256": "81f18b49381776193094e6d805883f7b8fc095eee3613a0d22b33ab3a1506130",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018633/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "743cef16b947051ecbb27a59dbea438d3a53228f5a430b3bbff7a118ea31749c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018633&param=informatie",
-  "as_of": "2012-11-27",
+  "as_of": "2015-01-01",
   "made": "2009-12-18",
   "gazette": "2009-12-30",
   "numac": 2009036189,
   "document_start": "2010-01-01",
   "document_end": null,
-  "in_force": "2012-11-27",
+  "in_force": "2015-01-01",
   "article_versions": 154,
-  "record_form": "consolidated version as in force on 2012-11-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

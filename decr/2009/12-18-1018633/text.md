@@ -462,19 +462,19 @@ In artikel 140nonies van Wetboek der registratie-, hypotheek- en griffierechten 
 
 ### ART. 94.
 
-De Vlaamse Regering kan ambtenaren aanwijzen die alle bevoegdheden met onroerend karakter uitoefenen in naam en voor rekening van de verzoekende Vlaamse overheid. De Vlaamse Regering kan deze bevoegdheid tot aanwijzing delegeren aan een lid van de Vlaamse Regering.<br />De ambtenaren, als vermeld in het eerste lid, hierna Vlaamse instrumenterende ambtenaren te noemen, mogen overgaan tot het opstellen van :<br />1° akten van aankoop in der minne en vervreemdingen uit de hand;<br />2° akten houdende vestiging van zakelijke rechten zoals erfpacht, opstal, vruchtgebruik en erfdienstbaarheden;<br />3° akten houdende huurovereenkomsten en opheffing van bestaande in- of overschrijvingen.<br />4° akten met betrekking tot openbare verkopingen en de organisatie ervan.<br /><br />In de uitoefening van hun bevoegdheden, zijn de Vlaamse instrumenterende ambtenaren gemachtigd om akten te verlijden, er authenticiteit aan te verlenen en er uitgiften van af te leveren. De Vlaamse instrumenterende ambtenaren zijn eveneens bevoegd om, in naam en voor rekening van de entiteiten die zij vertegenwoordigen, in de authentieke akten geldig kwijting te verlenen en de hypotheekbewaarder te ontslaan van het nemen van een ambtelijke inschrijving bij de overschrijving van de akte.<br /><br />
+<P>...</P>
 
 ### ART. 95.
 
-De Vlaamse instrumenterende ambtenaren mogen hun diensten alleen verlenen als minstens één van de partijen in de akte de volgende entiteit is :<br />1° de Vlaamse Gemeenschap;<br />2° het Vlaamse Gewest;<br />3° of een intern of extern verzelfstandigd agentschap, zoals bedoeld in het kaderdecreet Bestuurlijk Beleid van 18 juli 2003, met uitzondering van de privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen.<br /><br />
+<P>...</P>
 
 ### ART. 96.
 
-De Vlaamse instrumenterende ambtenaren hoeven bij de uitoefening van hun bevoegdheden tegenover derden geen bijzondere lastgeving voor te leggen. Bij de ondertekening van de akten vertegenwoordigen zij eveneens de entiteiten, vermeld in het vorige artikel.<br /><br />
+...<BR>
 
 ### ART. 97.
 
-De Vlaamse instrumenterende ambtenaren oefenen hun ambt uit binnen het volledige Nederlandse taalgebied en het tweetalige gebied Brussel-Hoofdstad.<br /><br />De Dienst Vastgoedakten kan de aanduiding van landmeters en/of experten bij de afhandeling van vastgoeddossiers in het algemeen en minnelijke onteigeningen in het bijzonder coordineren.<br /><br />
+<P>...</P>
 
 ## Afdeling II Fonds Vastgoedakten
 
