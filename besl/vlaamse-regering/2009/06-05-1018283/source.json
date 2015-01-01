@@ -2,16 +2,16 @@
   "codex_id": 1018283,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 betreffende de erkenning van afdelingen Medisch Toezicht of departementen Medisch Toezicht",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018283/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "55962344c326d560916d12597d114a9cada62bbfdfe983a818ab7cc04b688d83",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018283/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "d47ea2a155d59cb3092da4b4ab9b226e3f267b8f054ef8948f6916f2c911a46d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018283&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2009-06-05",
   "gazette": "2009-09-02",
   "numac": 2009203630,
   "document_start": "2009-09-12",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
