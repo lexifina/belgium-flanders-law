@@ -2,16 +2,16 @@
   "codex_id": 1002207,
   "title": "Besluit van de Vlaamse Regering van 1994-10-12 tot het instellen van een onderhoudspremie voor gerangschikte landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002207/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "188f6335a324931648887a4a900fc5bac3544e5e781228429bc8985b13be3980",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002207/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "372e459d41622f069484e84bdd6553fcb3aa3e8b49c08da9efc91c1a25af2fdb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002207&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "1994-10-12",
   "gazette": "1995-04-01",
   "numac": 1995035495,
   "document_start": "1995-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2015-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
