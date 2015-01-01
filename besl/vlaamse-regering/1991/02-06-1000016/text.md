@@ -94,7 +94,7 @@ a) de speciale beschermingszones, de definitief vastgestelde gebieden die in aan
 b) een beschermd duingebied of voor het duingebied belangrijk landbouwgebied zoals aangegeven ter uitvoering van het decreet van 14 juli 1993 houdende maatregelen tot bescherming van de kustduinen;<br>
 c) groengebieden, natuurgebieden, natuurgebieden met wetenschappelijke waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
 d) bosgebieden, valleigebieden, brongebieden, overstromingsgebieden, agrarische gebieden met ecologisch belang of ecologische waarde en de ermee vergelijkbare gebieden, aangewezen op plannen van aanleg en de ruimtelijke uitvoeringsplannen van kracht in de ruimtelijke ordening;<br>
-e) een beschermd landschap, stads- of dorpsgezicht, monument of archeologische zone;<br>
+e) een beschermd cultuurhistorisch landschap, stads- of dorpsgezicht, monument of archeologische zone;<br>
 f) de waterwingebieden en bijhorende beschermingszones type I en II vastgesteld ter uitvoering van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br>
 g) het Vlaams Ecologisch Netwerk overeenkomstig het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
 h) een volgens een plan van aanleg of ruimtelijk uitvoeringsplan vastgesteld erfgoedlandschap.<br>
@@ -177,7 +177,7 @@ c)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en a
 d)&nbsp;&nbsp;&nbsp; verliezen van gekweekte exemplaren of niet-doelsoorten en ander biologisch materiaal, met inbegrip van pathogenen, als gevolg van diefstal en vandalisme binnen de grenzen van de redelijkheid worden voorkomen; alsmede<br>
 e)&nbsp;&nbsp;&nbsp; de adequate verwijdering van dode organismen wordt gegarandeerd;<br>
 91° “dierlijke bijproducten”: de niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten, vermeld in de verordening dierlijke bijproducten en haar uitvoerende verordening (EU) nr.142/2011;<br>
-92° “verdrag van Helsinki" : het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992;<!--?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /-->&nbsp;
+92° “verdrag van Helsinki" : het verdrag betreffende de grensoverschrijdende gevolgen van industriële ongevallen, ondertekend in Helsinki op 17 maart 1992;&nbsp;
 <p>93° “afdeling, bevoegd voor milieueffectrapportering”: de afdeling Milieu-, Natuur- en Energiebeleid van het Departement, zoals thans bepaald met toepassing van artikel 10 van het besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen van de Vlaamse ministeries;</p>
 
 <p>94° “ARBIS”: koninklijk besluit van 20 juli 2001 houdende algemeen reglement op de bescherming van de bevolking, van de werknemers en het leefmilieu tegen het gevaar van de ioniserende stralingen.”;</p>
