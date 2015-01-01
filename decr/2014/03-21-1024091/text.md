@@ -120,6 +120,14 @@ In artikel II.252, § 2, derde lid, van dezelfde codex wordt punt 6°   opgeheve
 
 <P>Artikel II.344, eerste lid, van dezelfde codex wordt vervangen door wat volgt   :<BR></P>  <P>"De stuvoraad is paritair samengesteld uit minstens acht leden. De helft van   de leden wordt aangewezen door het instellingsbestuur. De andere helft wordt   aangeduid door en onder de studenten en de leerlingen en cursisten uit   hbo5-opleidingen die krachtens artikel II.338 toegang hebben tot   studentenvoorzieningen van de instelling. Die aanduiding gebeurt door middel van   rechtstreekse verkiezing of door middel van getrapte verkiezing, in welk geval   de betrokken studenten worden verkozen door de leden van de studentenraad. De   keuze voor de wijze van aanduiding wordt gemaakt door de studentenraad. De   stuvoraad streeft bij zijn samenstelling naar diversiteit. Maximum twee derde   van zijn leden mag van hetzelfde geslacht zijn.".</P>
 
+### ART. 31.
+
+<P>Aan artikel III.34 van dezelfde codex wordt een paragraaf 6 toegevoegd, die   luidt als volgt :<BR></P>  <P>" § 6. Vanaf het begrotingsjaar 2015 ontvangen de hogescholen en de   universiteiten een bedrag van 899.000 euro voor de vorming en opleiding van het   personeel aan de hogescholen en universiteiten. Dat bedrag wordt onder de   universiteiten en hogescholen verdeeld naar rato van het aandeel van elke   instelling in de werkingsuitkering voor het voorgaande begrotingsjaar. Het   bedrag dat zo verkregen wordt, wordt met behoud van de bestemming ervan   toegevoegd aan de werkingsuitkering.<BR></P>  <P>De universiteiten en hogescholen onderhandelen jaarlijks binnen het lokale   medezeggenschapsorgaan met de afgevaardigden van het personeel over de geplande   vormingsinitiatieven en rapporteren over het resultaat van de   vormingsinitiatieven van het voorgaande begrotingsjaar.".</P>
+
+### ART. 32.
+
+In deel 3, titel 2, van dezelfde codex wordt hoofdstuk 7, dat bestaat uit   artikel III.85 tot en met artikel III.96, opgeheven.
+
 ### ART. 33.
 
 <P>In artikel IV.13 van dezelfde codex wordt het tweede lid vervangen door wat   volgt :<BR></P>  <P>"Het universiteitsbestuur stelt een beleidsbegroting op voor het volgende   begrotingsjaar en bezorgt die vóór 15 november aan de Vlaamse Regering. De   regeringscommissaris en de afgevaardigde van financiën bezorgen hun analyse en   advies vóór 31 december aan het universiteitsbestuur en aan de Vlaamse Regering.   Als de regeringscommissaris en de afgevaardigde van financiën vaststellen dat de   begroting is opgesteld conform de meegedeelde cijfers, dat de wettelijke   voorschriften nageleefd zijn en dat de begroting het financiële evenwicht van de   universiteit op korte en lange termijn niet in het gedrang brengt, behoeft de   begroting geen verdere goedkeuring van de Vlaamse Regering.".</P>
