@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Met ingang van 1 april 1995 kunnen restauratiepremies, als bedoeld in artikel 11, § 8, van het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten, toegekend worden voor werken aan beschermde monumenten toebehorende aan de NV Mijnen en rechtsopvolgers. In geval van vervreemding van deze monumenten dienen de premies niet te worden terugbetaald.
+Met ingang van 1 april 1995 kunnen restauratiepremies, als bedoeld in   artikel 10.2.1, 1°, van het Onroerenderfgoeddecreet van 12 juli 2013, toegekend   worden voor werken aan beschermde monumenten toebehorende aan de NV Mijnen en   rechtsopvolgers. In geval van vervreemding van deze monumenten dienen de premies   niet te worden terugbetaald.
 
 ### ART. 2.
 
