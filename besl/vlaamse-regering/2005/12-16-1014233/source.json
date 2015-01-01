@@ -2,16 +2,16 @@
   "codex_id": 1014233,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 houdende de reglementering van de handel in en de keuring van bietenzaad van landbouwrassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014233/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "62c3233ce2df6d4080aa1b278ac2f1353aa3d0f5a46b4ad5eeff1b179e85c515",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014233/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "1467a7491f1c806ebaada130d5fdb06e651add130eab111fdb9fa328d73678d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014233&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "2005-12-16",
   "gazette": "2006-01-27",
   "numac": 2006035060,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
-  "article_versions": 39,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
