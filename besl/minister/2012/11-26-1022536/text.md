@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-Volgende artsen worden erkend voor de periode van 1 januari 2013 tot 31   december 2014 als keuringsarts inzake medisch verantwoorde sportbeoefening :   <BR>Wellekens, Françoise, Gent.<BR>Vandendriessche, Charlotte, Gent.<BR>Van   Puyvelde, Ellen, Merelbeke.<BR>Bex, Steven, Stevoort.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2013.
+...
