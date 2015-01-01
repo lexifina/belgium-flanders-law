@@ -2,16 +2,16 @@
   "codex_id": 1020744,
   "title": "Ministerieel besluit van 2011-07-27 betreffende de teelt van hennep",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020744/VolledigDocument?datum=2011-10-06",
-  "source_sha256": "642c6cb2b6ed3f16497fd1f509ff97605e43fbc87e7b101b26ca504e4cbc340e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020744/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "374771e52b62e02a9b4db8d9a46a9b01ae3d048775ce5100ebd44710ccd50ce1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020744&param=informatie",
-  "as_of": "2011-10-06",
+  "as_of": "2015-01-01",
   "made": "2011-07-27",
   "gazette": "2011-09-26",
   "numac": 2011035767,
   "document_start": "2011-10-06",
   "document_end": "2014-12-31",
-  "in_force": "2011-10-06",
+  "in_force": "2015-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2011-10-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

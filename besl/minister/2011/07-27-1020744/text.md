@@ -6,24 +6,24 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° besluit van de Vlaamse Regering van 8 juli 2005 : het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />2° landbouwer : de landbouwer, vermeld in artikel 1, 6°, van het besluit van de Vlaamse Regering van 8 juli 2005;<br />3° THC-gehalte : gehalte aan delta(9-tetrahydrocannabinol (g/100 g analysemonster);<br />4° hennep : vezelhennep of hennep voor andere industriële doeleinden met een THC-gehalte dat lager of gelijk is aan 0,2 %;<br />5° bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />6° Verordening (EG) nr. 1122/2009 : Verordening (EG) nr. 1122/2009 van de Commissie van 30 november 2009 houdende bepalingen ter uitvoering van Verordening (EG) nr. 73/2009 van de Raad wat betreft de randvoorwaarden, de modulatie en het geïntegreerd beheers- en controlesysteem in het kader van de bij die Verordening ingestelde regelingen inzake rechtstreekse steunverlening aan landbouwers en ter uitvoering van Verordening (EG) nr. 1234/2007 van de Raad wat betreft de randvoorwaarden in het kader van de steunregeling voor de wijnsector.<br /><br />
+...
 
 ### ART. 2.
 
-Een landbouwer die een teelttoestemming voor de teelt van hennep als vermeld in artikel 3bis van het besluit van de Vlaamse Regering van 8 juli 2005 wil krijgen, dient een aanvraag in bij de bevoegde entiteit met het formulier dat als bijlage bij dit besluit gevoegd is.<br /><br />De aanvraag bevat tenminste de volgende gegevens :<br />1° landbouwernummer, voor- en achternaam, adres, telefoonnummer en e-mailadres van de aanvrager;<br />2° het teeltjaar waarvoor de teelttoestemming wordt gevraagd;<br />3° de henneprassen die ingezaaid worden;<br />4° de oppervlakte die ingezaaid wordt en voor ieder gebruikt ras de hoeveelheid hennepzaaizaad in kg per hectare. De minimale dosis zaaizaad bedraagt 30 kg/ha;<br />5° de naam van de gemeente waar het perceel ligt, en een perceelsidentificatie die bestaat uit het identificatienummer. Als verschillende rassen per perceel worden ingezaaid, voegt de landbouwer bij de aanvraag een schets met de ligging van iedere ras;<br />6° een verklaring waarin de aanvrager toestemming geeft aan de bevoegde entiteit om de gegevens van de aanvraag door te geven aan de bevoegde politiediensten.<br /><br />De uiterste datum voor het indienen van de aanvraag voor teelttoestemming is 31 mei van het kalenderjaar in kwestie. De bevoegde entiteit verleent de teelttoestemming in de vorm van de afgestempelde aanvraag. Die afgestempelde aanvraag geldt als vergunningsdocument.<br /><br />De landbouwer mag pas starten met de inzaai nadat hij het vergunningsdocument heeft ontvangen van de bevoegde entiteit. Ter uitvoering van artikel 13, lid 1, van Verordening (EG) nr. 1122/2009 bezorgt de landbouwer onmiddellijk na de inzaai en uiterlijk op 30 juni van het kalenderjaar in kwestie de officiële etiketten van de zaaizaden die gebruikt zijn voor de uitgezaaide percelen aan de bevoegde entiteit. Die etiketten maken integraal deel uit van de verzamelaanvraag.<br /><br />
+...
 
 ### ART. 3.
 
-De landbouwer die hennep teelt, brengt de bevoegde entiteit onverwijld op de hoogte van het begin van de bloei.<br /><br />
+...
 
 ### ART. 4.
 
-Ter uitvoering van artikel 40, lid 4, van Verordening (EG) nr. 1122/2009, moet de landbouwer die hennep teelt het gewas tot tien dagen na het einde van de bloei in normale groeiomstandigheden onderhouden opdat de bevoegde entiteit de controles op het THC-gehalte kan uitvoeren. De bevoegde entiteit kan toestemming geven om hennep te oogsten na het begin van de bloei maar voor het einde van de periode van tien dagen na het einde van de bloei, op voorwaarde dat de controleurs van de bevoegde entiteit aangeven op welke representatieve delen van elk betrokken perceel het gewas gedurende ten minste tien dagen na het einde van de bloei verder moet worden geteeld opdat het THC-gehalte gecontroleerd kan worden.<br /><br />
+...
 
 ### ART. 5.
 
-Artikel 2 van het ministerieel besluit van 13 augustus 2009 betreffende de vaststelling van de modaliteiten tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden wordt opgeheven.<br /><br />
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2011/09/26_1.pdf#page=13" title=" Formulier" target="_blank" class="pdf">Formulier</a>
+...
