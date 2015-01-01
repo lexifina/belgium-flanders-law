@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024859,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-12 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 15 juni 2012 houdende de erkenning en subsidiëring van een Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen, vermeld in de artikels 45/1 en 45/3 van het decreet van 28 april 1998 betreffende het Vlaamse integratiebeleid en houdende de vaststelling van de regels voor de betaling van de te presteren tolkprestaties, vermeld in artikel 45/3, vierde lid, en artikel 45/4, § 1, van het voormelde decreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024859/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "7355163aec2cc8895893b02f285e2941b8463fb9509b0edf59fd8b4da22f6b4d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024859&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-12",
+  "gazette": "2015-01-14",
+  "numac": 2015035004,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
