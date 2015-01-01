@@ -138,7 +138,27 @@ De Vlaamse Grondenbank heeft een recht van voorkeur bij de verkoop door   een ad
 
 ### ART. 20.
 
-§ 1. Alle aanvragen tot vervullen van de decretale koopplicht worden   gericht aan de Vlaamse Grondenbank.<BR><BR>§ 2. De Vlaamse Grondenbank vervult,   in eigen naam en voor eigen rekening, de hierna vermelde koopplichten : 1° de   koopplicht zoals bepaald in het decreet van 23 januari 1991 inzake de   bescherming van het leefmilieu tegen verontreiniging door meststoffen;<BR>2° het   decreet van 21 december 1994 houdende bekrachtiging van het besluit van de   Vlaamse Regering van 16 november 1994 betreffende de definitieve aanwijzing van   de beschermde duingebieden en van de voor het duingebied belangrijke   landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het   natuurbehoud<BR>3° de koopplicht zoals bepaald in het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu;<BR>4° de koopplicht,   vermeld in het decreet van 28 maart 2014 betreffende de landinrichting, voor   goederen die gelegen zijn binnen de in het landinrichtingsplan aangeduide zone   waar de koopplicht geldt conform het voormelde decreet betreffende de   landinrichting;<BR><BR>§ 3. De Vlaamse Regering kan de Vlaamse Grondenbank de   opdracht geven om in naam en voor rekening van de tot aankoop verplichte   entiteit de hierna vermelde koopplichten te vervullen :<BR>1° de koopplicht   zoals bepaald in het decreet van 18 mei 1999 houdende de organisatie van de   ruimtelijke ordening;<BR>2° de koopplicht zoals bepaald in het decreet van 18   juli 2003 betreffende het integraal waterbeleid;<BR>3° de koopplicht zoals   bepaald in het decreet van 16 april 1996 betreffende de landschapszorg;<BR>4° de   koopplicht zoals bepaald in het decreet van 16 april 1996 betreffende de   waterkeringen;<BR>5° de koopplicht, vermeld in het decreet van 28 maart 2014   betreffende de landinrichting, voor goederen die gelegen zijn binnen de in de   inrichtingsnota aangeduide zone waar de koopplicht geldt conform het voormelde   decreet betreffende de landinrichting.<BR><BR>§ 4. de Vlaamse Grondenbank zal de   koopplichten vervullen indien aan de desbetreffende decretale voorwaarden   voldaan is.<BR><BR>§ 5. De Vlaamse Grondenbank zal de toekomstige decretale   koopplichten vervullen, overeenkomstig artikel 10.<BR><BR>§ 6. De Vlaamse   Regering kan nadere regels stellen met betrekking tot een rangorde volgens   dewelke de koopplichten dienen vervuld te worden, in geval van samenloop van   verschillende koopplichten.<BR><BR>
+§ 1. Alle aanvragen tot vervullen van de decretale koopplicht worden gericht aan de Vlaamse Grondenbank.<br>
+<br>
+§ 2. De Vlaamse Grondenbank vervult, in eigen naam en voor eigen rekening, de hierna vermelde koopplichten :<br>
+1° de koopplicht zoals bepaald in het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen verontreiniging door meststoffen;<br>
+2° het decreet van 21 december 1994 houdende bekrachtiging van het besluit van de Vlaamse Regering van 16 november 1994 betreffende de definitieve aanwijzing van de beschermde duingebieden en van de voor het duingebied belangrijke landbouwgebieden, en houdende wijziging van de wet van 12 juli 1973 op het natuurbehoud;<br>
+3° de koopplicht zoals bepaald in het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu;<br>
+4° de koopplicht, vermeld in het decreet van 28 maart 2014 betreffende de landinrichting, voor goederen die gelegen zijn binnen de in het landinrichtingsplan aangeduide zone waar de koopplicht geldt conform het voormelde decreet betreffende de landinrichting;<br>
+<br>
+§ 3. De Vlaamse Regering kan de Vlaamse Grondenbank de opdracht geven om in naam en voor rekening van de tot aankoop verplichte entiteit de hierna vermelde koopplichten te vervullen :<br>
+1° de koopplicht zoals bepaald in het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening;<br>
+2° de koopplicht zoals bepaald in het decreet van 18 juli 2003 betreffende het integraal waterbeleid;<br>
+3° ...;<br>
+4° de koopplicht zoals bepaald in het decreet van 16 april 1996 betreffende de waterkeringen;<br>
+5° de koopplicht, vermeld in het decreet van 28 maart 2014 betreffende de landinrichting, voor goederen die gelegen zijn binnen de in de inrichtingsnota aangeduide zone waar de koopplicht geldt conform het voormelde decreet betreffende de landinrichting.<br>
+<br>
+§ 4. de Vlaamse Grondenbank zal de koopplichten vervullen indien aan de desbetreffende decretale voorwaarden voldaan is.<br>
+<br>
+§ 5. De Vlaamse Grondenbank zal de toekomstige decretale koopplichten vervullen, overeenkomstig artikel 10.<br>
+<br>
+§ 6. De Vlaamse Regering kan nadere regels stellen met betrekking tot een rangorde volgens dewelke de koopplichten dienen vervuld te worden, in geval van samenloop van verschillende koopplichten.<br>
+&nbsp;
 
 ## TITEL V SLOTBEPALINGEN
 
