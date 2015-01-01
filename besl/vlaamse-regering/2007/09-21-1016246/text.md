@@ -27,7 +27,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de onderwijsinstelling : de onderwijsinstelling als dusdanig of het regelende gezag dat de steunaanvraag indient voor de producten die zijn verstrekt aan de tot zijn ressort behorende leerlingen, of de organisatie die de steunaanvraag indient voor rekening van een of meer scholen die afzonderlijk niet erkend zijn;<br />2° de minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br />3° de bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />4° de organisatie : een groepering die opgericht is voor rekening van één of meer onderwijsinstellingen of organisaties om steun aan te vragen.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° de   onderwijsinstelling : de onderwijsinstelling als dusdanig of het regelende gezag   dat de steunaanvraag indient voor de producten die zijn verstrekt aan de tot   zijn ressort behorende leerlingen, of de organisatie die de steunaanvraag   indient voor rekening van een of meer scholen die afzonderlijk niet erkend   zijn;<BR>2° de minister : de Vlaamse minister, bevoegd voor het   Landbouwbeleid;<BR>3° bevoegde entiteit: het Departement Landbouw en Visserij   van het Vlaams Ministerie van Landbouw en Visserij;<BR>4° de organisatie : een   groepering die opgericht is voor rekening van één of meer onderwijsinstellingen   of organisaties om steun aan te vragen.<BR><BR>
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
