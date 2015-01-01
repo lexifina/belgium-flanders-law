@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025126,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-06 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025126/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "47c72a5f2d81fe51641d500dbfec1a3a4a3bebd523f0164f1c451bf07883ab28",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025126&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-02-06",
+  "gazette": "2015-03-20",
+  "numac": 2015035269,
+  "document_start": "2015-03-30",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
