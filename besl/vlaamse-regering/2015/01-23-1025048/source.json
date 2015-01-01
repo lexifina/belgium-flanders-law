@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025048,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-23 tot wijziging van het besluit van de Vlaamse Regering van 5 februari 2010 houdende de uitvoering van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025048/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "26e4d17196b91263b41399bbc27ee32c25bd2ca5035e0557c328971d83761346",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025048&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-01-23",
+  "gazette": "2015-03-03",
+  "numac": 2015035184,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
