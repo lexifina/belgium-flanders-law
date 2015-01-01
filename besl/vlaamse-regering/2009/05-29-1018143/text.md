@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet betreffende het onderwijs X
 
 ### ART. 1.
 
-§ 1. Aan de representatieve vakorganisaties, aangesloten bij een in de Sociaal-Economische Raad van Vlaanderen vertegenwoordigde vakbondsorganisatie, wordt jaarlijks 743.000 euro ter beschikking gesteld voor de ondersteuning van de syndicale werkzaamheden van hun vakbondsafgevaardigden.<br /><br />Vanaf het begrotingsjaar 2010 wordt dat bedrag geïndexeerd. Het volgt 75 % van de ontwikkeling van de gezondheidsindex. <br /><br />§ 2. In afwijking van paragraaf 1 wordt er in 2008 182.000 euro ter beschikking gesteld.
+§ 1. Aan de representatieve vakorganisaties, aangesloten bij een in de   Sociaal-Economische Raad van Vlaanderen vertegenwoordigde vakbondsorganisatie,   wordt jaarlijks 702.000 euro ter beschikking gesteld voor de ondersteuning van   de syndicale werkzaamheden van hun vakbondsafgevaardigden.<BR><BR>Vanaf het   begrotingsjaar 2010 wordt dat bedrag geïndexeerd. Het volgt 75 % van de   ontwikkeling van de gezondheidsindex. <BR><BR>§ 2. In afwijking van paragraaf 1   wordt er in 2008 182.000 euro ter beschikking gesteld.<BR><BR>§ 3. In afwijking   van paragraaf 1 wordt er geen index toegekend in het begrotingsjaar   2015.
 
 ### ART. 2.
 
