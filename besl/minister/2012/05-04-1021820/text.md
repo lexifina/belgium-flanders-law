@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder besluit van de Vlaamse Regering van 17 febru
 
 ### ART. 2.
 
-Met toepassing van artikel 12 van het besluit van de Vlaamse Regering van 17 februari 2012, wordt het Departement Landbouw en Visserij aangewezen als bevoegde entiteit. Het hoofd van het Departement Landbouw en Visserij kan een afdeling aanwijzen als bevoegde entiteit.<br /><br />
+Met toepassing van artikel 12 van het besluit van de Vlaamse Regering van   17 februari 2012, wordt het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij aangewezen als bevoegde entiteit.   <BR>
 
 ### ART. 3.
 
