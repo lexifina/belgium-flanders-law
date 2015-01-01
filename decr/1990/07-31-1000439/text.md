@@ -38,15 +38,79 @@ Dit decreet regelt een aangelegenheid zoals bedoeld, in artikel 59 bis, § 2, 2�
 
 ### ART. 3ter.
 
-<P>§ 1. Dit artikel is van toepassing op de internaten bedoeld in artikel 1 van   het koninklijk besluit nr. 456 van 10 september 1986 houdende rationalisatie en   programmatie van de internaten van het door de staat georganiseerde en   gesubsidieerde onderwijs.<BR><BR>§ 2. Voor de toepassing van dit artikel wordt   verstaan onder:<BR>1° lln1: het aantal internen uit het gewoon en buitengewoon   basis- en secundair onderwijs in de gemeenschapsinternaten respectievelijk   gesubsidieerde internaten op 1 februari van het vorige schooljaar;<BR>2° lln 0:   het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs   in de gemeenschapsinternaten respectievelijk gesubsidieerde internaten op 1   februari van het voorlaatste schooljaar;<BR>3° c1: het geraamde indexcijfer van   de consumptieprijzen op het einde van het volgende begrotingsjaar;<BR>4° c0: het   geraamde indexcijfer van de consumptieprijzen op het einde van het lopende   begrotingsjaar;<BR>5° lk1: het geraamde indexcijfer van de eenheidsloonkosten op   het einde van het volgende begrotingsjaar;<BR>6° lk0: het geraamde indexcijfer   van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<BR><BR>De   werkingsmiddelen van de internaten worden jaarlijks berekend door de kredieten   die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor de   werkingsmiddelen bestemd zijn, te vermenigvuldigen met de coëfficiënten A1 en   A2, die als volgt worden berekend:<BR>A1 = 0,6 + 0,4 (lln1/lln0)<BR>A2 = 0,4   (c1/c0) + 0,6 (lk1/lk0).<BR><BR>§ 3. ...<BR><BR>§ 4. In de gesubsidieerde   internaten zijn de werkingstoelagen per internaat gelijk aan de   vermenigvuldiging van de geldwaarde per punt met het puntengewicht van de   internen en met het aantal internen uit het gewoon en buitengewoon basis- en   secundair onderwijs.<BR><BR>Het puntengewicht per leerling wordt door de Vlaamse   regering vastgesteld. Bij het vaststellen van het puntengewicht kan de Vlaamse   regering slechts rekening houden met het onderwijsniveau, de onderwijsvorm, de   studierichting, het type en de benodigde middelen voor de organisatie van een   internaat.<BR><BR>De geldwaarde per punt is gelijk aan het quotiënt van de   deling van de werkingsmiddelen voor de gesubsidieerde internaten die met   toepassing van § 2 zijn verkregen en verminderd zijn met de som van de   forfaitaire bedragen bedoeld in artikel 32, § 2, eerste lid, van de wet van 29   mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, door   het aantal te verdelen punten. Dit aantal wordt verkregen door in alle   gesubsidieerde internaten het aantal internen met het overeenkomstige   puntengewicht te vermenigvuldigen en van deze producten de som te maken.   <BR><BR>§ 5. In afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2012   gelijk aan 0,4 + 0,6 (lk1/lk0).</P>  <P>§ 6. in afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2013 gelijk   aan 0,4 + 0,6 (lk1/lk0). </P>
+<p>§ 1. Dit artikel is van toepassing op de internaten bedoeld in artikel 1 van het koninklijk besluit nr. 456 van 10 september 1986 houdende rationalisatie en programmatie van de internaten van het door de staat georganiseerde en gesubsidieerde onderwijs.<br>
+<br>
+§ 2. Voor de toepassing van dit artikel wordt verstaan onder:<br>
+1° lln1: het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs in de gemeenschapsinternaten respectievelijk gesubsidieerde internaten op 1 februari van het vorige schooljaar;<br>
+2° lln 0: het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs in de gemeenschapsinternaten respectievelijk gesubsidieerde internaten op 1 februari van het voorlaatste schooljaar;<br>
+3° c1: het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar;<br>
+4° c0: het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
+5° lk1: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar;<br>
+6° lk0: het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar.<br>
+<br>
+De werkingsmiddelen van de internaten worden jaarlijks berekend door de kredieten die in de algemene uitgavenbegroting van het vorige begrotingsjaar voor de werkingsmiddelen bestemd zijn, te vermenigvuldigen met de coëfficiënten A1 en A2, die als volgt worden berekend:<br>
+A1 = 0,6 + 0,4 (lln1/lln0)<br>
+A2 = 0,4 (c1/c0) + 0,6 (lk1/lk0).<br>
+<br>
+§ 3. ...<br>
+<br>
+§ 4. In de gesubsidieerde internaten zijn de werkingstoelagen per internaat gelijk aan de vermenigvuldiging van de geldwaarde per punt met het puntengewicht van de internen en met het aantal internen uit het gewoon en buitengewoon basis- en secundair onderwijs.<br>
+<br>
+Het puntengewicht per leerling wordt door de Vlaamse regering vastgesteld. Bij het vaststellen van het puntengewicht kan de Vlaamse regering slechts rekening houden met het onderwijsniveau, de onderwijsvorm, de studierichting, het type en de benodigde middelen voor de organisatie van een internaat.<br>
+<br>
+De geldwaarde per punt is gelijk aan het quotiënt van de deling van de werkingsmiddelen voor de gesubsidieerde internaten die met toepassing van § 2 zijn verkregen en verminderd zijn met de som van de forfaitaire bedragen bedoeld in artikel 32, § 2, eerste lid, van de wet van 29 mei 1959 tot wijziging van sommige bepalingen van de onderwijswetgeving, door het aantal te verdelen punten. Dit aantal wordt verkregen door in alle gesubsidieerde internaten het aantal internen met het overeenkomstige puntengewicht te vermenigvuldigen en van deze producten de som te maken.<br>
+<br>
+§ 5. In afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2012 gelijk aan 0,4 + 0,6 (lk1/lk0).</p>
+
+<p>§ 6. in afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2013 gelijk aan 0,4 + 0,6 (lk1/lk0).<br>
+<br>
+§ 7. in afwijking van paragraaf 2 is A2 voor het begrotingsjaar 2015 gelijk aan 0,4 + 0,6 (lk1/lk0).</p>
 
 ### ART. 3quater.
 
-§ 1. Dit artikel betreft de gesubsidieerde instellingen van het Deeltijds   Kunstonderwijs.<BR><BR>§ 2. Aan de gesubsidieerde instellingen van het Deeltijds   Kunstonderwijs worden jaarlijks werkingsmiddelen toegekend.<BR><BR>§ 3. De   werkingsmiddelen voor het schooljaar (X, X+1) (begrotingsjaar X+1) worden   jaarlijks berekend als volgt:<BR><BR>Aantal toegekende leraarsuren voor het   schooljaar (X, X+1) * bedrag per leraars-uur.<BR><BR>Het basisbedrag voor de   studierichting Beeldende Kunst bedraagt 86,61 euro.<BR><BR>Het basisbedrag voor   de studierichtingen Muziek, Woordkunst en Dans bedraagt 28,87 euro.<BR><BR>Deze   basisbedragen worden vanaf het schooljaar 2013-2014 jaarlijks vermenigvuldigd   met de aanpassingscoëfficiënt A die als volgt berekend wordt:<BR>A = (Cx+1)/Cx,   waarbij:<BR>1° Cx+1: de consumptie-index van de maand februari van het   begrotingsjaar x+1;<BR>2° Cx: de consumptie-index van de maand februari van het   begrotingsjaar x.<BR><BR>§ 4. De indexformule vermeld in het laatste lid van § 3   wordt voor het begrotingsjaar 2010 (schooljaar 2009-2010) en voor het   begrotingsjaar 2012 (schooljaar 2011-2012) en voor het begrotingsjaar 2013   (schooljaar 2012-2013) niet toegepast.
+§ 1. Dit artikel betreft de gesubsidieerde instellingen van het Deeltijds Kunstonderwijs.<br>
+<br>
+§ 2. Aan de gesubsidieerde instellingen van het Deeltijds Kunstonderwijs worden jaarlijks werkingsmiddelen toegekend.<br>
+<br>
+§ 3. De werkingsmiddelen voor het schooljaar (X, X+1) worden berekend als volgt:<br>
+<br>
+Aantal toegekende leraarsuren voor het schooljaar (X, X+1) * bedrag per leraarsuur.<br>
+<br>
+Het bedrag voor het schooljaar 2014-2015 voor de studierichting Beeldende Kunst bedraagt 79,34 euro.<br>
+<br>
+Het bedrag voor het schooljaar 2014-2015 voor de studierichting Muziek, Woordkunst en Dans bedraagt 26,45 euro.<br>
+<br>
+Vanaf het schooljaar 2015-2016 worden de bedragen van het voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt:<br>
+A = (Cx-1/Cx-2), waarbij:<br>
+1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.
 
 ### ART. 3quinquies.
 
-§ 1. De vereniging zonder winstoogmerk Koninklijk Werk IBIS in Bredene,   heeft : <BR>1° als opdracht basisonderwijs en voltijds secundair   zeevisserijonderwijs te organiseren voor jongeren die wezen zijn van vissers,   zeelieden en binnenschippers of die kansarm zijn, en voor hen een internaat op   te richten; <BR>2° als bijzondere opdracht en in zoverre de ouders of de   personen die in rechte of in feite de ouderlijke macht uitoefenen hierom   verzoeken te zorgen voor de opvoeding en de verzorging, voeding en kleding   inbegrepen, van die jongeren. <BR><BR>§ 2. Onverminderd de gewone subsidiëring   en binnen de perken van de algemene uitgavenbegroting van de Vlaamse Gemeenschap   wordt aan het Koninklijk Werk IBIS per leerling een buitengewone subsidie van   12.460 euro per begrotingsjaar toegekend. <BR><BR>Dit bedrag wordt jaarlijks   geïndexeerd door het bedrag van het voorgaande jaar te vermenigvuldigen met de   aanpassingscoëfficiënt A = 0,4 (C1/C0) + 0,6 (Lkl/Lk0), waarbij : <BR>1° Cl/C0   gelijk is aan de verhouding tussen het geraamde indexcijfer van de   consumptieprijzen op het einde van het volgende begrotingsjaar en het geraamde   indexcijfer van de consumptieprijzen op het einde van het lopende   begrotingsjaar; <BR>2° Lkl/Lk0 gelijk is aan de verhouding tussen het geraamde   indexcijfer van de eenheidsloonkosten op het einde van het volgende   begrotingsjaar en het geraamde indexcijfer van de eenheidsloonkosten op het   einde van het lopende begrotingsjaar;<BR>3° in afwijking van punt 1° is de   verhouding C1/C0 voor het begrotingsjaar 2012 gelijk aan 1.<BR>4° in afwijking   van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2013 gelijk aan   1.<BR><BR>Voor de berekening van die subsidie komen de regelmatige leerlingen   die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in   aanmerking. Er komen niet meer dan 100 leerlingen voor subsidiëring in   aanmerking. <BR><BR>§ 3. Het Koninklijk Werk IBIS kan geen aanspraak maken op   andere subsidies of financiële tegemoetkomingen van de Vlaamse Gemeenschap voor   de opdracht, vermeld in § 1. <BR><BR>§ 4. De subsidie wordt als volgt uitbetaald   : <BR>1° een voorschot van 2/3 van de totale subsidie voor het einde van het   tweede kwartaal; <BR>2° een saldo van 1/3 van de totale subsidie bij het begin   van het vierde kwartaal. <BR><BR>§ 5. Voor 1 juli legt het Koninklijk Werk IBIS   de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring   voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn. <BR><BR>Voor   31 maart wordt de rekening van het voorgaande jaar ter goedkeuring   voorgelegd.<BR>
+§ 1. De vereniging zonder winstoogmerk Koninklijk Werk IBIS in Bredene, heeft :<br>
+1° als opdracht basisonderwijs en voltijds secundair zeevisserijonderwijs te organiseren voor jongeren die wezen zijn van vissers, zeelieden en binnenschippers of die kansarm zijn, en voor hen een internaat op te richten;<br>
+2° als bijzondere opdracht en in zoverre de ouders of de personen die in rechte of in feite de ouderlijke macht uitoefenen hierom verzoeken te zorgen voor de opvoeding en de verzorging, voeding en kleding inbegrepen, van die jongeren.<br>
+<br>
+§ 2. Onverminderd de gewone subsidiëring en binnen de perken van de algemene uitgavenbegroting van de Vlaamse Gemeenschap wordt aan het Koninklijk Werk IBIS per leerling een buitengewone subsidie van 12.460 euro per begrotingsjaar toegekend.<br>
+<br>
+Dit bedrag wordt jaarlijks geïndexeerd door het bedrag van het voorgaande jaar te vermenigvuldigen met de aanpassingscoëfficiënt A = 0,4 (C1/C0) + 0,6 (Lkl/Lk0), waarbij :<br>
+1° Cl/C0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de consumptieprijzen op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de consumptieprijzen op het einde van het lopende begrotingsjaar;<br>
+2° Lkl/Lk0 gelijk is aan de verhouding tussen het geraamde indexcijfer van de eenheidsloonkosten op het einde van het volgende begrotingsjaar en het geraamde indexcijfer van de eenheidsloonkosten op het einde van het lopende begrotingsjaar;<br>
+3° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2012 gelijk aan 1.<br>
+4° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2013 gelijk aan 1.<br>
+5° in afwijking van punt 1° is de verhouding C1/C0 voor het begrotingsjaar 2015 gelijk aan 1.<br>
+<br>
+Voor de berekening van die subsidie komen de regelmatige leerlingen die op 1 februari van het vorige begrotingsjaar in het internaat verblijven in aanmerking. Er komen niet meer dan 100 leerlingen voor subsidiëring in aanmerking.<br>
+<br>
+§ 3. Het Koninklijk Werk IBIS kan geen aanspraak maken op andere subsidies of financiële tegemoetkomingen van de Vlaamse Gemeenschap voor de opdracht, vermeld in § 1.<br>
+<br>
+§ 4. De subsidie wordt als volgt uitbetaald :<br>
+1° een voorschot van 2/3 van de totale subsidie voor het einde van het tweede kwartaal;<br>
+2° een saldo van 1/3 van de totale subsidie bij het begin van het vierde kwartaal.<br>
+<br>
+§ 5. Voor 1 juli legt het Koninklijk Werk IBIS de begroting voor haar internaatswerking van het volgende jaar ter goedkeuring voor aan de Vlaamse Regering. Die begroting moet in evenwicht zijn.<br>
+<br>
+Voor 31 maart wordt de rekening van het voorgaande jaar ter goedkeuring voorgelegd.
 
 ### ART. 4.
 
@@ -989,7 +1053,7 @@ In het deeltijds kunstonderwijs betaalt een leerling voor elke studierichting wa
 
 ### ART. 100ter.
 
-<span class="reference">(ing. decr. 13 juli 2001, art. VI. 4)</span> ] [Voor het schooljaar 2002-2003 bedraagt het inschrijvingsgeld:<br /><br />1° 158 euro;<br /><br />2° 91 euro als de leerling recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel 100quater;<br /><br />3° 48 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie;<br /><br />4° 31 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel 100quater.<br /><br />De inschrijvingsgelden voor het deeltijds kunstonderwijs worden jaarlijks met ingang van 1 september aangepast aan de evolutie van de index der consumptieprijzen. De basisindex is deze van de maand september 2002. De nieuwe index is die van de maand februari van het schooljaar dat voorafgaat aan het schooljaar waarin de nieuwe inschrijvingsgelden van toepassing zijn. Het bedrag wordt afgerond naar de hogere eenheid.  <span class="reference">(verv. decr. 14 februari 2003, art. IV. 1, I: 1 september 2002)</span> ]
+<P>Voor het schooljaar 2015-2016 bedraagt het inschrijvingsgeld:<BR>1° 300   euro;<BR>2° 125 euro als de leerling de leeftijd van 25 jaar niet heeft bereikt   of recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel   100quater;<BR>3° 62 euro als de leerling de leeftijd van 18 jaar niet bereikt   heeft op 31 december van het schooljaar in kwestie;<BR>4° 40 euro als de   leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het   betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld   in artikel 100quater.<BR><BR>De inschrijvingsgelden voor het deeltijds   kunstonderwijs worden jaarlijks vanaf het schooljaar 2015-2016 vermenigvuldigd   met de aanpassingscoëfficiënt A die als volgt berekend wordt:<BR>A =   (Cx-1/Cx-2), waarbij:<BR>1° Cx-1: de gezondheidsindex van de maand januari van   het begrotingsjaar x-1;<BR>2° Cx-2: de gezondheidsindex van de maand januari van   het begrotingsjaar x-2.<BR><BR>Het bedrag wordt afgerond naar de hogere   eenheid.</P>
 
 ### ART. 100quater.
 
