@@ -8,116 +8,116 @@ Gelet op de specifieke bevoegdheden waarover de Federale overheid en de Overhede
 
 ### Tekst
 
-Voorliggend protocolakkoord is geen samenwerkingsakkoord zoals bedoeld in art. 92bis van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br /><br />Voorliggend protocolakkoord biedt een algemeen kader, dat de Gemeenschappen moet toelaten hun preventieprogramma's te realiseren door de ondersteuning van middelen uit de ziekteverzekering met respect voor ieders bevoegdheden. De organisatie van de preventieprogramma's gebeurt uitsluitend door de Gemeenschappen.<br /><br />Eveneens worden concrete toepassingen beschreven in het protocol, dat in de toekomst aangevuld kan worden met andere preventieprogramma's in afzonderlijke protocolakkoorden.<br /><br />De bestaande protocolakkoorden in verband met opsporing en vaccinatie blijven onverminderd van toepassing, voor zover ze niet worden gewijzigd of vervangen door dit akkoord.<br /><br />De Federale Overheid en de Gemeenschappen gaan akkoord met de volgende punten en definities :<br /><br />
+...
 
 ### ART. 1.
 
-Een preventieprogramma wordt in het kader van dit protocolakkoord gedefinieerd als een wetenschappelijk onderbouwd systematisch aanbod ten aanzien van een welomschreven doelgroep, gericht op het voorkomen of tijdig opsporen van gezondheidsrisico's of ziekten, teneinde een zo groot mogelijke gezondheidswinst voor de bevolking te realiseren.<br /><br />
+...
 
 ### ART. 2.
 
-Cofinanciering betekent dat de Gemeenschappen en de Federale Overheid elk een deel van de kosten van het preventieprogramma financieren op grond van de respectievelijke bevoegdheden en regelgeving. De Federale Overheid financiert geheel of gedeeltelijk en conform de federale bevoegdheden en regels, de geneeskundige verstrekkingen die voor ieder preventieprogramma afzonderlijk gedefinieerd worden. De kosten die rechtstreeks gerelateerd zijn aan het uitvoeren van bedoelde geneeskundige verstrekkingen kunnen eveneens geheel of gedeeltelijk gefinancierd worden door de Federale Overheid. <br /><br />De Gemeenschappen financieren alle overige kosten die verbonden zijn aan het preventieprogramma.<br /><br />
+...
 
 ### ART. 3.
 
-Dit akkoord biedt een kader voor<br />1° de uitwisseling van informatie tussen de Federale Overheid en de Gemeenschappen van relevante informatie die gerelateerd is aan preventieprogramma's.<br />2° afspraken voor de implementatie van de preventieprogramma's in één of meer Gemeenschappen voor dewelke afstemming en cofinanciering zijn overeengekomen in de Interministeriële Conferentie Volksgezondheid, voor zover dezelfde of analoge verstrekkingen die gefinancierd worden door het RIZIV toegankelijk blijven voor de gehele bevolking, ook in gebieden waar geen preventieprogramma georganiseerd wordt.<br /><br />
+...
 
 ### ART. 4.
 
-De leden van de Interministeriële Conferentie richten een permanente werkgroep op die als opdracht heeft de goede samenwerking te bevorderen tussen de verschillende overheden voor de organisatie, planning, cofinanciering en individuele gegevensuitwisseling van preventieprogramma's. De voorstellen en adviezen van de werkgroep worden voor beslissing voorgelegd aan de Interministeriële Conferentie Volksgezondheid. Deze werkgroep is samengesteld uit vertegenwoordigers van de administraties, waaronder het RIZIV en het Kankercentrum, en de vertegenwoordigers van de bevoegde ministers van de Federale Overheid en de Gemeenschappen.<br /><br />
+...
 
 ### ART. 5.
 
-De Gemeenschappen verbinden zich ertoe<br />1° de organisatie van de door hun gekozen preventieprogramma's te verzekeren. In voorkomend geval kunnen zij onderling afspraken maken voor de meest doelmatige organisatie;<br />2° de relevante gegevens ter beschikking te stellen;<br />3° de doelgroep op afdoende wijze te informeren en te sensibiliseren voor deelname aan de programma's;<br />4° desgevallend in te staan voor de uitnodigingen van de doelgroep;<br />5° waar nodig, de informatie en opleiding van de betrokken medische, verpleegkundige en paramedische hulpverleners te verzekeren;<br />6° de organisatie van de preventieprogramma's te verzekeren op de voor de ziekteverzekering meest kosten-effectieve wijze;<br />7° de evaluatie van de preventieprogramma's te verzekeren.<br /><br />
+...
 
 ## HOOFDSTUK II Financiering
 
 ### ART. 6.
 
-De kosten voor de organisatie van de preventieprogramma's zijn ten laste van de Gemeenschappen. De kosten voor de geneeskundige verstrekkingen of de medische producten in het kader van de preventieprogramma's kunnen geheel of gedeeltelijk ten laste genomen worden door de ziekteverzekering.<br /><br />Voor elk preventieprogramma wordt het meest geschikte financieringsmechanisme bepaald door de Federale Overheid en de Gemeenschappen, ieder voor wat hun aandeel betreft.<br /><br />
+...
 
 ### ART. 7.
 
-Verbintenissen van de Federale Overheid :<br />1° Cofinanciering van de overeengekomen medische producten of geneeskundige verstrekkingen in het kader van de preventieprogramma's.<br />2° De Federale Overheid stelt een budget ter beschikking voor de cofinanciering van een bepaald programma. Bij de bepaling van dat budget zal de Federale Overheid rekening houden met de verschillende mogelijkheden voor financiering, te preciseren per preventieprogramma naargelang het organisatiesysteem van het programma. De tarieven worden hetzij op individuele basis, hetzij op collectieve basis bepaald.<br />3° Het onder 2° bedoeld budget wordt bepaald door een raming op basis van de reële kost.<br />4° De jaarlijkse kostprijs wordt per Gemeenschap en per programma geraamd, in functie van een inschatting van de participatiegraad en de grootte van de doelgroep.<br />5° Indien de ziekteverzekering buiten het kader van preventieprogramma's reeds voorziet in een tegemoetkoming voor verstrekkingen die identiek of gelijkaardig zijn aan verstrekkingen waarop de preventieprogramma's gebaseerd zijn, dan kan de bijdrage van de federale cofinanciering per verstrekking nooit hoger zijn dan de tegemoetkoming van de ziekteverzekering voor de overeenkomstige verstrekking. De tegemoetkomingen waarnaar hier gerefereerd worden, zij die welke zijn vastgelegd in de laatst afgesloten RIZIV-overeenkomst (akkoorden) tussen zorgverleners en verzekeringsinstellingen.<br />6° De aankoop van de vaccins in het kader van preventieprogramma's met cofinanciering gebeurt via overheidsopdrachten. In geval de federale cofinanciering niet hoger is dan 2/3 wordt de overheidsopdracht aanbesteed door de gemeenschappen. Indien de federale cofinanciering hoger is dan 2/3, wordt de aanbesteding van de overheidsopdracht besproken in de Interministeriële Conferentie Volksgezondheid. Het aandeel van de financiering door de federale overheid wordt, per type vaccin, afgesproken binnen de Interministeriële Conferentie Volksgezondheid. De federale financiering per vaccin kan nooit meer bedragen dan de « prijs buiten bedrijf » voor het vaccin in kwestie.<br />7° De uitbetaling van de bedragen toegekend in het kader van de cofinanciering gebeurt ofwel rechtstreeks aan de Gemeenschap die het preventieprogramma met cofinanciering organiseert, of via de ziekenfondsen en in dat geval steeds met toepassing van de derdebetalersregeling. De concrete betalingsmodaliteiten worden per programma bepaald.<br />De federale minister engageert zich om de derdebetalersregeling aan te passen voor de preventieprogramma's zodat deze werkwijze mogelijk gemaakt wordt.<br />Een veralgemeende toegang tot de preventieprogramma's voor alle personen in de doelgroep, ook zij die niet verzekerd zijn, dient zoveel mogelijk nagestreefd te worden. De tussenkomst van het RIZIV voor de terugbetaling van geneeskundige verstrekkingen in het kader van de preventieprogramma's zal dan ook zowel gelden voor personen die verzekerd zijn in de verplichte ziekteverzekering als voor de niet-verzekerden.<br />8° De budgettering houdt rekening met een tegemoetkoming van de ziekteverzekering voor alle personen die voor deze verstrekkingen in aanmerking komen, hetzij binnen, hetzij buiten een preventieprogramma.<br />9° De Federale Overheid verbindt zich tot het hanteren van het meest adequate financieringsmechanisme voor elk van de programma's, rekening houdend met :<br />- de stand van zaken inzake de verplichte ziekte- en invaliditeitsverzekering;<br />- de structurering van de preventieprogramma's;<br />- de aard van de prestaties die ze ten laste neemt;<br />- de kostprijs die voor die verstrekkingen in aanmerking genomen wordt;<br />- de beste methode voor het budgettair-boekhoudkundig beheer van de uitgaven die voor de ziekteverzekering voortvloeien uit haar tegemoetkoming in de kosten van de verstrekkingen.<br /><br />
+...
 
 ### ART. 8.
 
-§ 1. De Gemeenschappen verbinden zich ertoe om de Federale minister en het RIZIV schriftelijk, tijdig en in voldoende mate te informeren over preventieprogramma's met een mogelijke impact op het RIZIV-budget.<br /><br />Bij voorstellen van preventieprogramma's met een duidelijke impact op het budget wordt een overleg georganiseerd en is afstemming tussen de Federale minister en de Gemeenschapsminister over deze programma's noodzakelijk alvorens zij opgestart worden.<br /><br />§ 2. De federale minister informeert de Gemeenschappen over initiatieven om, al dan niet in het kader van de RIZIV-wetgeving, aspecten van de organisatie of financiering van de gezondheidszorg te regelen of te wijzigen die een rechtstreekse impact hebben op preventieprogramma's, bijvoorbeeld de preventiemodule in het GMD en de homologatie van de betreffende software.<br /><br />Bij voorstellen van initiatieven met een duidelijke impact op preventieprogramma's wordt een overleg georganiseerd en is afstemming tussen de federale minister en de gemeenschapsminister over deze initiatieven noodzakelijk alvorens zij opgestart worden.
+...
 
 ## HOOFDSTUK III Gegevensuitwisseling
 
 ### ART. 9.
 
-Elke gegevensverzameling en -uitwisseling in het kader van de preventieprogramma's gebeurt conform de privacywetgeving. Het betreft hier zowel persoonsgebonden gegevens als andere gegevens die noodzakelijk zijn voor de organisatie, de evaluatie, de kwaliteitsopvolging en de financiering van de preventieprogramma's.<br /><br />De gegevens hebben ondermeer tot doel het budget te ramen dat nodig is voor de financiering, evenals controle en vermijding van dubbele financiering mogelijk te maken.<br /><br />
+...
 
 ### ART. 10.
 
-De federale minister verbindt zich ertoe in overleg met de verzekeringsinstellingen de regels en modaliteiten te bepalen volgens dewelke de gegevens ter beschikking gesteld worden aan de betrokken gemeenschappen om hen toe te laten de preventieprogramma's kwaliteitsvol te organiseren, te monitoren en te evalueren. De gegevens die ter beschikking gesteld worden, hebben onder meer betrekking op de verstrekkingen en eventueel de beschikbare resultaten ervan.<br /><br />
+...
 
 ### ART. 11.
 
-De Gemeenschappen verbinden zich ertoe :<br />1° de beschikbare gegevens te leveren die de basis vormen voor de bepaling van het financieringsmechanisme en de grootte-orde van de financiering;<br />2° in te staan voor de evaluatie van de kwaliteit van het programma en de organisatie;<br />3° de gegevens ter beschikking te stellen die een evidence-based beleid mogelijk maken;<br />4° de gegevens over de preventieprogramma's met cofinanciering te bezorgen aan de Federale Overheid om het RIZIV toe te laten het correcte gebruik van de financiële middelen die door het RIZIV worden ingezet, te evalueren;<br />5° de rapporten die onder de verantwoordelijkheid van de Gemeenschappen worden gemaakt over de preventieprogramma's met federale cofinanciering te bezorgen aan de federale minister en het RIZIV. De rapporten worden opgesteld per programma. De frequentie en de aard van de gegevens in het rapport wordt bepaald per programma volgens de afspraken in de werkgroep van de Interministeriële Conferentie Volksgezondheid, vermeld in artikel 4;<br />6° de gegevens op niveau van de individuele deelnemer aan het preventieprogramma die noodzakelijk zijn voor de continuïteit van het preventief aanbod en de eventuele verdere opvolging uit te wisselen met de andere Gemeenschappen.<br /><br />
+...
 
 ### ART. 12.
 
-De aard van de gegevens en de wijze van doorstroming en registratie worden per programma bepaald in overleg in de werkgroep van de Interministeriële Conferentie die vermeld wordt in artikel 4, waarin ook de organisaties die de gegevens centraliseren en communiceren, waaronder het Kankerregister, vertegenwoordigd zijn.<br /><br />De werkgroep zal per preventieprogramma onder meer bepalen :<br />1° welke de minimale dataset is die verzameld wordt;<br />2° welke de minimale dataset is die uitgewisseld wordt, en tussen wie;<br />3° door wie de gegevens geregistreerd worden en de dataset wordt geleverd;<br />4° volgens welke modaliteiten de uitwisseling gebeurt;<br />5° de aard en frequentie van rapporteringen over de preventieprogramma's met cofinanciering.<br /><br />
+...
 
 ### ART. 13.
 
-Om de gegevensvergelijking mogelijk te maken en te optimaliseren, wordt zoveel mogelijk gestreefd naar harmonisering in de registratie van de gegevens.<br /><br />Waar mogelijk worden de data slechts op een plaats bewaard. In dit geval wordt er gezorgd voor een bidirectionele uitwisseling van de data die nodig zijn voor de organisatie, kwaliteitsbewaking en evaluatie van het preventieprogramma.<br /><br />
+...
 
 ### ART. 14.
 
-De cyto-histo-pathologische gegevens worden enkel geregistreerd in het Kankerregister, dat de relevante gegevens meedeelt aan het verzekeringscomité. Via bidirectionele uitwisseling en koppeling van de gegevens uit preventieprogramma's en het Kankerregister, zal ondermeer de kwaliteit en de efficiëntie van het programma bevorderd kunnen worden.<br /><br />
+...
 
 ## HOOFDSTUK IV Preventieprogramma's
 
 ### Tekst
 
-Dit hoofdstuk bevat een aantal concretiseringen van de voorgaande hoofdstukken, die kunnen aangevuld worden met specifieke protocolakkoorden voor andere preventieprogramma's.<br /><br />1. PREVENTIEPROGRAMMA VOOR BAARMOEDERHALSKANKER<br />De preventie van baarmoederhalskanker vereist een globale strategie, met als basis een efficiënte screening en de vaccinatie tegen HPV.<br /><br />1.A. HPV - VACCINATIE<br />In het kader van de uitvoering van het Nationaal Kankerplan kan de vaccinatie tegen het humaan papillomavirus voor jonge meisjes van 1 schoolcohorte tussen 11 en 13 jaar georganiseerd worden door de betreffende Gemeenschap(pen) ten vroegste vanaf het schooljaar 2010 - 2011.<br /><br />De vaccinatie gebeurt overeenkomstig de vaccinatiekalender aanbevolen door de Hoge Gezondheidsraad en goedgekeurd door de Interministeriële Conferentie.<br /><br />
+...
 
 ### ART. 15.
 
-Doelgroep<br /><br />Een leeftijdscohorte van meisjes tussen 11 en 13 jaar wordt gevaccineerd op basis van leerjaar.<br /><br />
+...
 
 ### ART. 16.
 
-Modaliteiten<br />§ 1. De concrete betalingsmodaliteiten worden in de overeenkomst tussen het RIZIV en de betrokken Gemeenschappen geregeld.<br /><br />§ 2. De tenlasteneming door de Federale Overheid van de kost van het vaccin bedraagt maximum x (x = n x z, waarbij n het aantal personen in de doelgroep is en z de prijs buiten bedrijf van het vaccin). Het aandeel van de tenlasteneming door de Federale Overheid bedraagt 2/3, voor de duur van dit protocolakkoord.<br /><br />§ 3. De kost van het vaccin vermeld in § 2 omvat ook de bijhorende spuiten en naalden en de kosten voor de levering volgens de modaliteiten voorzien in het bestek voor de overheidsopdracht van de betrokken Gemeenschap.<br /><br />
+...
 
 ### ART. 17.
 
-Registratie<br /><br />De Gemeenschappen verbinden zich ertoe om de gegevens in verband met de gevaccineerde populatie te registreren. <br /><br />De registratie van de gegevens gebeurt zo danig dat de gegevens samen met gegevens uit het Kankerregister verwerkt kunnen worden.<br /><br />1.B. OPSPORING VAN BAARMOEDERHALSKANKER<br /><br />De Europese Unie heeft op 2 december 2003 aan de lidstaten aanbevolen om een opsporingsprogramma voor baarmoederhalskanker in te stellen (2003/878/CE).<br /><br />De federale overheid en de Gemeenschappen verbinden zich ertoe om samen te werken op het vlak van een opsporingsprogramma voor baarmoederhalskanker. Indien de Gemeenschappen beslissen tot een bevolkingsonderzoek naar baarmoederhalskanker, zullen de hierna volgende afspraken in acht genomen worden.<br /><br />
+...
 
 ### ART. 18.
 
-Doelgroep<br />Bij vrouwen van 25 tot en met 64 jaar wordt om de 3 jaar een cytologisch onderzoek uitgevoerd ter opsporing van cervixcarcinoom.<br /><br />
+...
 
 ### ART. 19.
 
-Modaliteiten<br />§ 1. De Federale Overheid verbindt zich ertoe<br />1° de vergoeding ten laste te nemen van de technische handeling van de afname van het uitstrijkje;<br />2° de vergoeding ten laste te nemen van het cytologisch onderzoek en de rapportering hieromtrent naar het Kankerregister. De rapportering omvat ook de elementen die toelaten de kwaliteit van het uitstrijkje en het bevolkingsonderzoek te evalueren. Het onderzoek betreft een conventioneel uitstrijkje of dunne laag cytologie;<br />3° initiatieven te nemen om stapsgewijs de deelname aan het bevolkingsonderzoek kosteloos te maken voor de alle technische prestaties, met inbegrip van andere testen zoals de HPV-test, als die toegepast wordt voor welbepaalde indicaties die passen in het bevolkingsonderzoek;<br />4° te onderzoeken of de terugbetaling kan afgestemd worden op de frequentie waarmee een uitstrijkje aangewezen is.<br /><br />§ 2. De Gemeenschappen verbinden zich ertoe een 'fail-safe' call-recall systeem uit te bouwen ter optimalisering van de participatie van de doelpopulatie. Op basis van de beschikbare gegevens, met inbegrip van het cytohistopathologisch register, worden, zo veel als mogelijk, enkel die vrouwen uitgenodigd waarvoor een uitstrijkje echt aangewezen is.
+...
 
 ### ART. 20.
 
-Registratie<br />De Gemeenschappen en de Federale Overheid verbinden zich ertoe om de gegevens in verband met de screening zodanig te registreren dat een bidirectionele overdracht van gegevens mogelijk is. Die overdracht van gegevens moet een optimale organisatie, kwaliteitsbewaking en evaluatie van het bevolkingsonderzoek mogelijk maken.<br /><br />De rapportering over de uitstrijkjes en de eventuele bijkomende testen zullen door de laboratoria pathologische anatomie worden overgedragen aan het Kankerregister, en daar worden opgeslagen in een zogenaamd cyto-histo-pathologie register.<br /><br />2. OPSPORING COLORECTALE KANKER<br /><br />De Europese Unie heeft op 2 december 2003 aan de lidstaten aanbevolen om een opsporingsprogramma voor colorectale kanker in te stellen (2003/878/CE).<br /><br />De Federale Overheid en de Gemeenschappen verbinden zich ertoe om samen te werken op het vlak van een opsporingsprogramma voor colorectale kanker.<br /><br />Indien de Gemeenschappen beslissen tot een bevolkingsonderzoek, zullen de hierna volgende afspraken in acht genomen worden.<br /><br />De Gemeenschappen verbinden zich ertoe om een opsporingsprogramma te organiseren voor colorectale kanker, door middel van een test voor de opsporing van occult bloed in de stoelgang (FOB-test). De test wordt gekozen op een evidence-based manier en de voorkeur wordt gegeven aan de meest kosten-effectieve test.<br /><br />
+...
 
 ### ART. 21.
 
-Doelgroep<br />De doelgroep van het opsporingsprogramma voor colorectale kanker bestaat uit de bevolkingsgroep van mannen en vrouwen van 50 tot en met 74 jaar. Een test voor de opsporing van occult bloed in de stoelgang (FOB-test) wordt twee-jaarlijks aangeboden bij deze bevolkingsgroep. De definitie van de doelgroep kan herzien worden in functie van de wetenschappelijke en internationale richtlijnen terzake, vanaf twee jaar na de inwerkingtreding van dit protocolakkoord.<br /><br />Aan personen met een positieve test wordt voorgesteld een colonoscopie te laten uitvoeren.<br /><br />Aan personen met familiale antecedenten kan een ander, op evidentie gebaseerd, screeningsmodel worden voorgesteld.<br /><br />
+...
 
 ### ART. 22.
 
-Modaliteiten<br />§ 1. De Federale Overheid neemt de vergoeding ten laste van de test ter opsporing van occult bloed in de stoelgang, evenals de lezing van de test. Het aandeel van de tenlasteneming door de Federale Overheid bedraagt 100 %, voor de duur van dit protocolakkoord.<br /><br />§ 2. De Federale Overheid neemt de vergoeding ten laste van het uitvoeren van een colonoscopie na een positief screeningsresultaat. De Federale Overheid onderzoekt de mogelijkheden om stapsgewijs alle kosten verbonden aan de colonoscopie in dit kader op zich te nemen zodat deelname aan het bevolkingsonderzoek kosteloos wordt.<br /><br />§ 3. De Gemeenschappen verbinden zich ertoe :<br />1° de betrokken geneesheren (huisartsen en gastro-enterologen) te informeren en, zo nodig, opleiding te verstrekken in verband met de opsporing;<br />2° in te staan voor een efficiënte verdeling van het materiaal nodig voor de uitvoering van de FOB-test. Bij een negatief screeningsresultaat wordt tweejaarlijks een FOB-test aangeboden.<br />3° de keuze van de aard van de FOB-test te maken onder andere op basis van overwegingen inzake kosten-effectiviteit;<br />4° de lezing van de FOB-testen centraal of in een beperkt aantal centra te organiseren. De keuze van de centra gebeurt door de Gemeenschappen, rekening houdend met de vereiste kwaliteitscriteria, met name op basis van de kwaliteitscontrole georganiseerd door het WIV.<br /><br />
+...
 
 ### ART. 23.
 
-Registratie<br />§ 1. De Federale Overheid staat in voor de registratie in het Kankerregister van de resultaten van de histo-pathologische onderzoeken die eventueel volgen op alle uitgevoerde colonoscopies,<br /><br />§ 2. De Gemeenschappen staan in voor de registratie van de resultaten van de FOB-testen en van de daaropvolgende colonoscopies.<br /><br />§ 3. De Gemeenschappen en de Federale Overheid verbinden zich ertoe om de gegevens in verband met de screening zo danig te registreren dat een bidirectionele overdracht van gegevens mogelijk is. Die overdracht van gegevens moet een optimale organisatie, kwaliteitsbewaking en evaluatie van het bevolkingsonderzoek mogelijk maken.<br /><br />3. OPSPORING BORSTKANKER<br /><br />De Europese Unie heeft op 2 december 2003 aan de lidstaten aanbevolen om een opsporingsprogramma voor borstkanker in te stellen (2003/878/CE).<br /><br />
+...
 
 ### ART. 24.
 
-Het protocolakkoord tot samenwerking tussen de Federale Overheid en de Gemeenschappen inzake mammografische borstkankerscreening van 25/11/2000 bevat de voorwaarden waaronder de borstkankerscreening georganiseerd wordt.<br /><br />Dit protocolakkoord werd verlengd, telkens voor een periode van 5 jaar, door de aanhangsels bij dit akkoord van 13 juni 2006 en van 2 maart 2009.<br /><br />Volgende bepalingen vullen het bedoelde protocolakkoord aan :<br /><br />§ 1. De Federale Overheid staat in voor de registratie in het Kankerregister van de resultaten van alle cyto-histo-pathologische onderzoeken van de borstklier bij vrouwen,<br /><br />De Federale Overheid onderzoekt de mogelijkheid om de resultaten van andere onderzoeken of behandelingen m.b.t. de borstklier centraal te registreren.<br /><br />§ 2. De Gemeenschappen en de Federale Overheid verbinden zich ertoe om de gegevens in verband met borstkanker zo danig te registreren dat een bidirectionele overdracht van gegevens mogelijk is.<br /><br />Die overdracht van gegevens moet onder meer een optimale organisatie, kwaliteitsbewaking en evaluatie van het bevolkingsonderzoek mogelijk maken.<br /><br />
+...
 
 ## HOOFDSTUK V Slotbepalingen
 
 ### ART. 25.
 
-Dit protocolakkoord treedt in werking vanaf 1 maart 2009 tot en met 31 december 2011 en zal herzien worden uiterlijk op 31 december 2011.<br /><br />
+...
