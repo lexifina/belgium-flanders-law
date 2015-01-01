@@ -68,6 +68,10 @@ De personeelssubsidie wordt toegekend op basis van de salarisschalen en de anciÃ
 
 Het gedeelte van de toegekende subsidie dat de verantwoorde kosten   overschrijdt, mag worden aangewend voor de aanleg van reserves tot beloop van   maximaal twintig procent van het subsidiebedrag, met uitzondering van het   sociaal passief. <BR><BR>De totale gecumuleerde reserves, met uitzondering van   het sociaal passief, kunnen maximaal vijftig procent van het subsidiebedrag van   het laatst gesubsidieerde werkingsjaar bedragen.<BR><BR>Het sociaal passief,   vermeld in het eerste en tweede lid, wordt beperkt tot vijfentwintig procent van   de jaarlijkse personeelskosten.<BR><BR>Als het maximum, vermeld in het eerste en   tweede lid, overschreden wordt, wordt het overschreden bedrag teruggestort aan   het agentschap, tenzij het agentschap mits motivering beslist dat er van de   maximumpercentages kan worden afgeweken.<BR><BR>Als de dienst niet verder wordt   gesubsidieerd, moet het gecumuleerde bedrag van de reserves aan het agentschap   worden teruggestort.
 
+### ART. 14/2.
+
+De personeelspunten, verkregen met toepassing van artikel 12, en de   werkingssubsidies, verkregen met toepassing van artikel 14, worden verminderd   met 1,07 %.
+
 ### ART. 15.
 
 De in dit hoofdstuk bepaalde subsidie wordt per&nbsp;maand aan de erkende   dienst uitgekeerd ten belope van 8 procent van het vermoedelijke jaarbedrag. Het   saldo wordt uitgekeerd na het indienen van een financiÃ«le verslag overeenkomstig   het door het agentschap vastgestelde model.<BR><BR>Het agentschap kan die   subsidie verminderen als blijkt dat niet aan de werkingsregels wordt voldaan en   schorsen als blijkt dat niet aan de erkenningsvoorwaarden wordt voldaan,   vastgesteld in de hoofdstukken II en III.
