@@ -63,6 +63,10 @@ Tussen de Vlaamse Regering en de betrokken ouderkoepelverenigingen, vermeld in a
 
 Die beheersovereenkomst bevat tenminste :<br />1° een driejaarlijks werkingsprogramma als vermeld in artikel 4, 1°, van het decreet;<br />2° de prestatie- en resultaatgerichte indicatoren;<br />3° de verplichting tot en de richtlijnen voor tussentijdse- en eindrapportering;<br />4° de voorwaarden voor de uitbetaling van de subsidies;<br />5° de controlebepalingen en sancties betreffende de aangewende subsidies.<br /><br />
 
+### ART. 8/1.
+
+In aansluiting op de bepalingen van artikel 4 en 8 van het decreet worden   met betrekking tot de verlenging voor periode 1 januari tot en met 31 december   2015 bij elke beheersovereenkomst 2012-2014 via een addendum de doelstellingen   en het werkingsprogramma 2015 gevoegd. De verdeling van de beschikbare   begrotingskredieten voor 2015 gebeurt op basis van de bepalingen van artikel 4   van dit besluit, met uitzondering van de teldatum die op 3 februari 2014 wordt   vastgesteld.
+
 ## HOOFDSTUK III Slotbepalingen
 
 ### ART. 9.
