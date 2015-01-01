@@ -47,7 +47,11 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br />2° de beheersdienst : de entiteit van het beleidsdomein Landbouw en Visserij, aangewezen door de minister;<br />3° het land- of tuinbouwbedrijfshoofd : de natuurlijke persoon of rechtspersoon die een land- of tuinbouwbedrijf uitbaat;<br />4° de adviesdienst : een door de minister erkende dienst voor de adviezen in het kader van het bedrijfsadviessysteem.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° de   minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de   Zeevisserij;<BR>2° de beheersdienst : het Departement Landbouw en Visserij van   het Vlaams Ministerie van Landbouw en Visserij;<BR>3° het land- of   tuinbouwbedrijfshoofd : de natuurlijke persoon of rechtspersoon die een land- of   tuinbouwbedrijf uitbaat;<BR>4° de adviesdienst : een door de minister erkende   dienst voor de adviezen in het kader van het   bedrijfsadviessysteem.<BR><BR>
+
+### ART. 1/1.
+
+Het hoofd van de beheersdienst kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de   beheersdienst vallen, subdelegeren aan personeelsleden van het departement die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ## HOOFDSTUK II Adviessubsidie
 
@@ -84,7 +88,7 @@ Bestuursinstanties, zoals omschreven in artikel 3, 1°, van het decreet van 26 m
 
 ### ART. 8.
 
-Om door de minister erkend te worden moet de adviesdienst :<br />1° een aanvraag indienen;<br />2° een zetel of plaats van activiteit in het Vlaamse Gewest hebben of een belangrijk aandeel van de klanten moet zich in het Vlaamse Gewest bevinden;<br />3° de administratieve en financiële controle van het Agentschap voor Landbouw en Visserij en de Europese Commissie aanvaarden;<br />4° ervaren en betrouwbaar zijn;<br />5° over een administratieve uitrusting beschikken die hem in staat stelt alle nodige gegevens op papier en op elektronische drager aan de klant en de Vlaamse beheersdienst ter beschikking te stellen;<br />6° aantonen dat hij over een voldoende technische uitrusting beschikt om over alle modules adviezen te verstrekken;<br />7° aantonen dat hij over voldoende expertise beschikt om alle modules te kunnen adviseren doordat hij adviseurs in dienst heeft die een hogere studie over de adviesonderwerpen hebben gevolgd of die beschouwd kunnen worden als gelijkwaardig door de ervaring die ze hebben opgebouwd of samen met de aanvraag een kopie bezorgen aan de beheersdienst van de overeenkomst die afgesloten werd met een onderaannemer voor de advisering van bepaalde modules.<br /><br />
+Om door de minister erkend te worden moet de adviesdienst :<BR>1° een   aanvraag indienen;<BR>2° een zetel of plaats van activiteit in het Vlaamse   Gewest hebben of een belangrijk aandeel van de klanten moet zich in het Vlaamse   Gewest bevinden;<BR>3° de administratieve en financiële controle van de   beheersdienst en de Europese Commissie aanvaarden;<BR>4° ervaren en betrouwbaar   zijn;<BR>5° over een administratieve uitrusting beschikken die hem in staat   stelt alle nodige gegevens op papier en op elektronische drager aan de klant en   de beheersdienst ter beschikking te stellen;<BR>6° aantonen dat hij over een   voldoende technische uitrusting beschikt om over alle modules adviezen te   verstrekken;<BR>7° aantonen dat hij over voldoende expertise beschikt om alle   modules te kunnen adviseren doordat hij adviseurs in dienst heeft die een hogere   studie over de adviesonderwerpen hebben gevolgd of die beschouwd kunnen worden   als gelijkwaardig door de ervaring die ze hebben opgebouwd of samen met de   aanvraag een kopie bezorgen aan de beheersdienst van de overeenkomst die   afgesloten werd met een onderaannemer voor de advisering van bepaalde   modules.<BR><BR>
 
 ## HOOFDSTUK IV Rapportering van de adviesdiensten aan de beheersdienst
 

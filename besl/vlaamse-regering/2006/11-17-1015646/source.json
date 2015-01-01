@@ -2,16 +2,16 @@
   "codex_id": 1015646,
   "title": "Besluit van de Vlaamse Regering van 2006-11-17 tot instelling van een bedrijfsadviessysteem voor land- en tuinbouwers",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015646/VolledigDocument?datum=2013-10-31",
-  "source_sha256": "4dcae61e93f19b63fdca9c4a4aef57e048b822eb7fd5bb18f253689000a370ee",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015646/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "7b51c39102524b9e270ba123a7334e54171a8f41c9923b483f43cfa767d1566a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015646&param=informatie",
-  "as_of": "2013-10-31",
+  "as_of": "2015-01-01",
   "made": "2006-11-17",
   "gazette": "2007-03-26",
   "numac": 2007035419,
   "document_start": "2007-04-05",
   "document_end": "2023-12-31",
-  "in_force": "2013-10-31",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2013-10-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
