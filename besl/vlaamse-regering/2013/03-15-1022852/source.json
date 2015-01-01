@@ -1,0 +1,17 @@
+{
+  "codex_id": 1022852,
+  "title": "Besluit van de Vlaamse Regering van 2013-03-15 tot wijziging van het besluit van de Vlaamse Regering van 27 maart 1985 houdende reglementering van de handelingen binnen de waterwingebieden en de beschermingszones en het besluit van de Vlaamse Regering van 27 maart 1985 houdende reglementering van de handelingen die het grondwater kunnen verontreinigen, wat pesticidengebruik betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022852/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6c2e50d367fa538aca99490bad06bfd262ca1926a791770061c1db63ca28e5ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022852&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2013-03-15",
+  "gazette": "2013-04-05",
+  "numac": 2013035300,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
