@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025989,
+  "title": "Decreet van 2015-07-03 houdende aanpassing van de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025989/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "ea382c5d9e7235fcef0e299febf98df3550710d31936f6599f4dde75726acf58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025989&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-07-03",
+  "gazette": "2015-10-05",
+  "numac": 2015036150,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
