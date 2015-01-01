@@ -116,6 +116,10 @@ De subsidies voor organisatiegebonden kosten kunnen ingezet worden als   persone
 
 Als de exploiterende voorziening van de erkende dienst, ook een erkend   geïntegreerd woonproject, met toepassing van het besluit van de Vlaamse Regering   van 17 november 2006 betreffende de goedkeuring en subsidiëring van   geïntegreerde woonprojecten voor personen met een handicap, of een erkende   dienst voor beschermd wonen, met toepassing van het besluit van de Vlaamse   Regering van 18 december 1998 betreffende de erkenning en subsidiëring van   diensten voor beschermd wonen voor personen met een handicap, exploiteert,   worden de personeelspunten en de werkingssubsidies van die diensten samengeteld.   <BR><BR>Vijf procent van de personeelspunten kan worden omgezet in een bedrag   per punt. Dat bedrag kan onder meer worden aangewend voor de vergoeding van   vrijwilligers die een structureel engagement opnemen in de ondersteuning van   personen met een handicap in begeleiding. De vergoedingen kunnen worden   toegekend conform artikel 10 van de wet van 3 juli 2005 betreffende de rechten   van vrijwilligers. Het bedrag kan niet worden aangewend om eigen personeel aan   te werven.<BR><BR>Het agentschap bepaalt jaarlijks het bedrag per punt, vermeld   in het tweede lid, door de totale gesubsidieerde personeelskosten van de   voorzieningen te delen door het totale aantal gesubsidieerde   personeelspunten.
 
+### ART. 23/2.
+
+De personeelssubsidies, verkregen met de toepassing van artikel 17, en de   werkingssubsidies, verkregen met toepassing van artikel 20, 21 en 22, worden   verminderd met 1.07 %.
+
 ## Onderafdeling [3. Betaling van de subsidies (verv. BVR 4 februari 2011, art. 69)]
 
 ### ART. 24.
