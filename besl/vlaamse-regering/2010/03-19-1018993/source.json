@@ -2,16 +2,16 @@
   "codex_id": 1018993,
   "title": "Besluit van de Vlaamse Regering van 2010-03-19 betreffende de organisatie van de fokkerij van voor de landbouw nuttige huisdieren (citeeropschrift: \"het Fokkerijbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018993/VolledigDocument?datum=2013-03-11",
-  "source_sha256": "814de31fddda543e7a45ebe064f005f07ce5a2de2c633ece10d9500cfd8114f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018993/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "5c1c89332e37f8e140133193ddf18f212942179476959a08b891caf8d1dab11f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018993&param=informatie",
-  "as_of": "2013-03-11",
+  "as_of": "2015-01-01",
   "made": "2010-03-19",
   "gazette": "2010-05-07",
   "numac": 2010035327,
   "document_start": "2011-01-01",
   "document_end": "2019-09-22",
-  "in_force": "2013-03-11",
+  "in_force": "2015-01-01",
   "article_versions": 66,
-  "record_form": "consolidated version as in force on 2013-03-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
