@@ -6,8 +6,8 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-Om op grasland verstruiking met ongewenste vegetatie tegen te gaan moeten de bloei, zaadvorming en uitzaaiing van akkerdistel voorkomen worden.<br /><br />Op graslanden binnen speciale beschermingszones als vermeld in artikel 2, 43°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu, is dat alleen mogelijk door pleksgewijs te maaien of door een andere geschikte beheerswijze toe te passen.<br /><br />Op historisch permanent grasland als vermeld in artikel 2, 5°, van het voormelde decreet buiten de speciale beschermingszones, vermeld in artikel 2, 43°, van het voormelde decreet, is dat alleen mogelijk door pleksgewijze bestrijding toe te passen, door te maaien of een andere beheerswijze toe te passen.<br /><br />
+...
 
 ### ART. 2.
 
-Aan de norm vermeld in artikel 1, eerste lid, is niet voldaan als op grasland akkerdistelhaarden vastgesteld worden. Onder akkerdistelhaard wordt verstaan : een aaneengesloten oppervlakte van ten minste 10 m2 met akkerdistels in bloei, in zaad of uitgezaaid. <br /><br />
+...
