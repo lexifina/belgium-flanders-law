@@ -4,11 +4,11 @@
 
 ### ART. 1.
 
-De afdeling Heraldiek van de Koninklijke Commissie voor Monumenten en Landschappen, hierna Commissie te noemen, stelt een handleiding op waarin de behandeling van een aanvraag van het recht om een wapen te voeren, toegelicht wordt.<br /><br />Het secretariaat van de Commissie, dat waargenomen wordt door het agentschap van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed dat belast is met het uitvoeren van het beleid inzake onroerend erfgoed stelt die handleiding kostenloos ter beschikking van de geïnteresseerden. <br />
+De Vlaamse Heraldische Raad, hierna Raad te noemen, stelt een handleiding   op waarin de behandeling van een aanvraag van het recht om een wapen te voeren,   toegelicht wordt.<BR><BR>Het secretariaat van de&nbsp;Raad stelt die handleiding   kostenloos ter beschikking van de geïnteresseerden. <BR>
 
 ### ART. 2.
 
-De aanvrager richt zijn verzoekschrift tot het erkennen van een oud wapen of tot het verlenen van een nieuw wapen aan de voorzitter van de Commissie en stuurt dit per aangetekend schrijven naar het secretariaat van de Commissie .
+De aanvrager richt zijn verzoekschrift tot het erkennen van een oud wapen   of tot het verlenen van een nieuw wapen aan de voorzitter van de&nbsp;Raad en   stuurt dit per aangetekend schrijven naar het secretariaat van   de&nbsp;Raad.
 
 ### ART. 3.
 
@@ -16,21 +16,21 @@ De aanvrager richt zijn verzoekschrift tot het erkennen van een oud wapen of tot
 
 ### ART. 4.
 
-De secretaris van de Commissie meldt de ontvangst van het aanvraagdossier aan de aanvrager.
+De secretaris van de Raad meldt de ontvangst van het aanvraagdossier aan   de aanvrager.
 
 ### ART. 5.
 
-Indien de aanvraag door de Commissie ontvankelijk wordt verklaard, vraagt de secretaris om de helft van de vaste dossierrechten te betalen. De behandeling van de aanvraag door de Commissie start pas nadat aan dit verzoek is voldaan.
+Indien de aanvraag door de Raad ontvankelijk wordt verklaard, vraagt de   secretaris om de helft van de vaste dossierrechten te betalen. De behandeling   van de aanvraag door de Raad start pas nadat aan dit verzoek is   voldaan.
 
 ## HOOFDSTUK II REGISTRATIE VAN HET WAPEN
 
 ### ART. 6.
 
-Zodra de Commissie een aanvraag goedgekeurd heeft, legt de secretaris van de Commissie een ontwerpversie van de wapenbrief voor aan de aanvrager voor commentaar.<br /><br />Het begeleidend schrijven bevat:<br />1° het voorlopig advies van de Commissie, hetgeen de aanvrager toelaat te beslissen over het al dan niet handhaven van zijn aanvraag;<br />2° een lijst waaruit de aanvrager een keuze kan maken van door de Commissie geaggregeerde heraldische tekenaars.<br /><br />Na ontvangst van het antwoord en het vereffenen van het verschuldigde saldo van de administratieve kosten, krijgt de gekozen tekenaar de opdracht van de secretaris van de Commissie om de wapenbrief uit te voeren volgens het door de aanvrager gekozen model.<br /><br />De secretaris van de Commissie geeft aan de wapenbrief een volgnummer in het wapenregister.<br /><br />De afgewerkte wapenbrief wordt door de secretaris van de Commissie ter goedkeuring voorgelegd aan de Vlaamse regering en nadien wordt de wapenbrief voor registratie gewaarmerkt door de voorzitter en door de secretaris van de Commissie.<br /><br />De wapenbrief kan vervolgens door de aanvrager bij de secretaris van de Commissie worden afgehaald of wordt op verzoek van de aanvrager bij een per post aangetekende brief toegezonden.
+Zodra de Raad een aanvraag goedgekeurd heeft, legt de secretaris van de   Raad een ontwerpversie van de wapenbrief voor aan de aanvrager voor   commentaar.<BR><BR>Het begeleidend schrijven bevat:<BR>1° het voorlopig advies   van de Raad, hetgeen de aanvrager toelaat te beslissen over het al dan niet   handhaven van zijn aanvraag;<BR>2° een lijst waaruit de aanvrager een keuze kan   maken van door de Raad geaggregeerde heraldische tekenaars.<BR><BR>Na ontvangst   van het antwoord en het vereffenen van het verschuldigde saldo van de   administratieve kosten, krijgt de gekozen tekenaar de opdracht van de secretaris   van de Raad om de wapenbrief uit te voeren volgens het door de aanvrager gekozen   model.<BR><BR>De secretaris van de Raad geeft aan de wapenbrief een volgnummer   in het wapenregister.<BR><BR>De afgewerkte wapenbrief wordt door de secretaris   van de Raad ter goedkeuring voorgelegd aan de Vlaamse regering en nadien wordt   de wapenbrief voor registratie gewaarmerkt door de voorzitter en door de   secretaris van de Raad.<BR><BR>De wapenbrief kan vervolgens door de aanvrager   bij de secretaris van de Raad worden afgehaald of wordt op verzoek van de   aanvrager bij een per post aangetekende brief toegezonden.
 
 ### ART. 7.
 
-Een reproductie in kleur van de wapenbrief, gewaarmerkt door de voorzitter en door de secretaris van de Commissie, wordt in numerieke volgorde ingebonden in een officieel wapenregister.
+Een reproductie in kleur van de wapenbrief, gewaarmerkt door de voorzitter   en door de secretaris van de Raad, wordt in numerieke volgorde ingebonden in een   officieel wapenregister.
 
 ## HOOFDSTUK III VERGOEDING VOOR DE ADMINISTRATIEVE KOSTEN
 
@@ -44,7 +44,7 @@ De vaste dossierrechten dekken de administratieve behandeling van de aanvraag va
 
 ### ART. 10.
 
-De kosten voor het vervaardigen van de wapenbrief dekken het ereloon van de heraldische tekenaar en de kosten verbonden aan het materiaal dat deze hiervoor heeft moeten aanwenden. In het ereloon is eveneens een afstand van auteursrechten op de heraldische tekening vervat.<br /><br />De aanvrager krijgt voor zijn wapenbrief de keuze tussen meerdere uitvoeringswijzen.<br /><br />Een eenvormig tarief voor elk van deze uitvoeringsmogelijkheden, geldig voor één kalenderjaar, wordt jaarlijks door de secretaris van de Commissie onderhandeld met de door de Commissie geaggregeerde heraldische tekenaars en aan de functioneel bevoegde minister ter goedkeuring voorgelegd.
+De kosten voor het vervaardigen van de wapenbrief dekken het ereloon van   de heraldische tekenaar en de kosten verbonden aan het materiaal dat deze   hiervoor heeft moeten aanwenden. In het ereloon is eveneens een afstand van   auteursrechten op de heraldische tekening vervat.<BR><BR>De aanvrager krijgt   voor zijn wapenbrief de keuze tussen meerdere uitvoeringswijzen.<BR><BR>Een   eenvormig tarief voor elk van deze uitvoeringsmogelijkheden, geldig voor één   kalenderjaar, wordt jaarlijks door de secretaris van de Raad onderhandeld met de   door de Raad geaggregeerde heraldische tekenaars en aan de functioneel bevoegde   minister ter goedkeuring voorgelegd.
 
 ### ART. 11.
 
@@ -54,7 +54,7 @@ Ingeval de Vlaamse regering op eigen initiatief een privé-persoon of een instel
 
 ### ART. 12.
 
-Volledige afschriften in kleur uit het wapenregister van de Commissie, gewaarmerkt door de secretaris van de Commissie, kunnen door hem afgegeven worden op schriftelijke aanvraag van belanghebbenden en na voorafgaandelijke vergoeding voor administratieve behandeling.<br /><br />Deze vergoeding wordt driejaarlijks vastgesteld door de Vlaamse regering.<br /><br />Voor de periode gaande van 1 januari 1999 tot en met 31 december 2001 bedraagt ze 2 000 Belgische frank of 50 euro per wapenbrief.
+Volledige afschriften in kleur uit het wapenregister van de Raad,   gewaarmerkt door de secretaris van de Raad, kunnen door hem afgegeven worden op   schriftelijke aanvraag van belanghebbenden en na voorafgaandelijke vergoeding   voor administratieve behandeling.<BR><BR>Deze vergoeding wordt driejaarlijks   vastgesteld door de Vlaamse regering.<BR><BR>Voor de periode gaande van 1   januari 1999 tot en met 31 december 2001 bedraagt ze 2 000 Belgische frank of 50   euro per wapenbrief.
 
 ### ART. 13.
 
