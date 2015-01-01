@@ -93,7 +93,7 @@ Laag-fosforvoeder<br>
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:87.85pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:79.25pt">
 			<p>6</p>
@@ -104,13 +104,13 @@ Laag-fosforvoeder<br>
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.8pt">
-			<p>beugen, inclusief biggen met een gewicht kleiner dan 7 kg</p>
+			<p>zeugen, inclusief biggen met een gewicht kleiner dan 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:87.85pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:79.25pt">
 			<p>6</p>
@@ -128,11 +128,11 @@ Laag-fosforvoeder<br>
 			andere varkens van 40-110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:87.85pt">
-			<p>4,55</p>
+			<p>4,32</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:79.25pt">
 			<p>5<br>
-			4,7</p>
+			4,5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:114.15pt">
 			<p>13,0</p>
@@ -146,7 +146,7 @@ Laag-fosforvoeder<br>
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:87.85pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:79.25pt">
 			<p>6</p>
@@ -233,7 +233,7 @@ Laag-eiwitvoeder<br>
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
@@ -250,7 +250,7 @@ Laag-eiwitvoeder<br>
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
@@ -296,7 +296,7 @@ Laag-eiwitvoeder<br>
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
@@ -387,7 +387,7 @@ Laag-eiwitvoeder<br>
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>(M x 23,50) +<br>
+			<p>(M x 25,75) +<br>
 			(S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
@@ -405,7 +405,7 @@ Laag-eiwitvoeder<br>
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>(M x 23,50) + (S x 24,00)</p>
+			<p>(M x 25,75) + (S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
@@ -450,7 +450,7 @@ Laag-eiwitvoeder<br>
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.5pt">
-			<p>(M x 23,50) +<br>
+			<p>(M x 25,75) +<br>
 			(S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
@@ -545,13 +545,13 @@ Nutriëntenarm voeder<br>
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>6</p>
@@ -565,13 +565,13 @@ Nutriëntenarm voeder<br>
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>6</p>
@@ -591,7 +591,7 @@ Nutriëntenarm voeder<br>
 			<p>180</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">
-			<p>4,55</p>
+			<p>4,32</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>5</p>
@@ -607,7 +607,7 @@ Nutriëntenarm voeder<br>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
-			<p>4,7</p>
+			<p>4,5</p>
 			</td>
 		</tr>
 		<tr>
@@ -618,13 +618,13 @@ Nutriëntenarm voeder<br>
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>23,50</p>
+			<p>25,75</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:88.7pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:85.5pt">
 			<p>6</p>
@@ -720,13 +720,13 @@ Nutriëntenarm voeder<br>
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>(M x 23,50 + (S x 24,00)</p>
+			<p>(M x 25,75 + (S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
 			<p>6</p>
@@ -740,13 +740,13 @@ Nutriëntenarm voeder<br>
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>(M x 23,50) + (S x 24,00)</p>
+			<p>(M x 25,75) + (S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
 			<p>6</p>
@@ -766,7 +766,7 @@ Nutriëntenarm voeder<br>
 			<p>180</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>4,55</p>
+			<p>4,32</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
 			<p>5</p>
@@ -782,7 +782,7 @@ Nutriëntenarm voeder<br>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
-			<p>4,7</p>
+			<p>4,5</p>
 			</td>
 		</tr>
 		<tr>
@@ -793,13 +793,13 @@ Nutriëntenarm voeder<br>
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
-			<p>(M x 23,50) + (S x 24,00)</p>
+			<p>(M x 25,75) + (S x 24,00)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:90.65pt">
 			<p>170</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:83.55pt">
-			<p>12,00</p>
+			<p>13,26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:89.85pt">
 			<p>6</p>
@@ -894,7 +894,7 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:146.2pt">
-			<p>diercategorie<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>diercategorie</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:140.25pt">
 			<p>omschrijving in het convenant</p>
@@ -922,7 +922,7 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 			<p>beren</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>1050</p>
+			<p>1150</p>
 			</td>
 		</tr>
 		<tr>
@@ -933,7 +933,7 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 			<p>zeugen incl. biggen &lt; 7 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>1050</p>
+			<p>1150</p>
 			</td>
 		</tr>
 		<tr>
@@ -956,7 +956,7 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 			<p>andere varkens &gt; 110 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:139.5pt">
-			<p>1050</p>
+			<p>1150</p>
 			</td>
 		</tr>
 		<tr>
@@ -1003,13 +1003,13 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 		</tr>
 		<tr>
 			<td>beren</td>
-			<td>Y = 1,8503 X + 0,3440</td>
-			<td>Y = 0,1330 X - 0,2208</td>
+			<td>Y = 2,28880 X - 2,5326</td>
+			<td>Y = 0,15990 X -5,5152</td>
 		</tr>
 		<tr>
 			<td>zeugen, inclusief biggen met een gewicht kleiner dan 7 kg</td>
-			<td>Y = 1,8503 X + 0,3440</td>
-			<td>Y = 0,1330 X - 0,2208</td>
+			<td>Y = 2,28880 X - 2,5326</td>
+			<td>Y = 0,15990 X -5,5152</td>
 		</tr>
 		<tr>
 			<td>andere varkens van 20 tot 110 kg</td>
@@ -1018,8 +1018,8 @@ Bij ministerieel besluit kan de bevoegde minister bijkomende bewijsstukken vrage
 		</tr>
 		<tr>
 			<td>andere varkens van 110 kg en meer</td>
-			<td>Y = 1,8503 X + 0,3440</td>
-			<td>Y = 0,1330 X - 0,2208</td>
+			<td>Y = 2,28880 X - 2,5326</td>
+			<td>Y = 0,15990 X -5,5152</td>
 		</tr>
 		<tr>
 			<td>legrassen: legkippen</td>
