@@ -2,16 +2,16 @@
   "codex_id": 1014599,
   "title": "Besluit van de Vlaamse Regering van 2006-05-19 betreffende de loontriage van zaden van bepaalde soorten van landbouwgewassen die bestemd zijn om te worden ingezaaid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014599/VolledigDocument?datum=2006-07-02",
-  "source_sha256": "580bd6f5adf292dcabdcb020e62cb29c1ae8f69cd70f05853b7f92c1e9679df1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014599/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "25e5e4484da11bb0efaeb02fe5718d5cef38c2b6e065852139661e2606295d1c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014599&param=informatie",
-  "as_of": "2006-07-02",
+  "as_of": "2015-01-01",
   "made": "2006-05-19",
   "gazette": "2006-06-22",
   "numac": 2006035932,
   "document_start": "2006-07-02",
   "document_end": null,
-  "in_force": "2006-07-02",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-07-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
