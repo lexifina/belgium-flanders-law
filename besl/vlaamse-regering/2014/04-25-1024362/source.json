@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024362,
+  "title": "Besluit van de Vlaamse Regering van 2014-04-25 tot wijziging van de organieke regelgeving naar aanleiding van de fusie van het departement Landbouw en Visserij met het Agentschap voor Landbouw en Visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024362/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "d1ce488ec1e6b744c770d212092cc889570888e3a841b6e39e82b11099555afc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024362&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-04-25",
+  "gazette": "2014-08-06",
+  "numac": 2014035886,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
