@@ -2,16 +2,16 @@
   "codex_id": 1026532,
   "title": "Besluit van de Vlaamse Regering van 2016-01-15 tot wijziging van diverse besluiten inzake de infrastructuur voor persoonsgebonden aangelegenheden en tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen, wat betreft de lokale en regionale dienstencentra",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026532/VolledigDocument?datum=2014-08-01",
-  "source_sha256": "fdb94733b01d0d0c5c153db740bcc8e7db1c522ed35efa96148131d38d63020f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026532/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "9b7cd14bbcffe18b9628c56650ffff3d64b04a06c6309829a3c0af14921114d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026532&param=informatie",
-  "as_of": "2014-08-01",
+  "as_of": "2015-01-01",
   "made": "2016-01-15",
   "gazette": "2016-03-10",
   "numac": 2016035245,
   "document_start": "2016-03-20",
   "document_end": null,
-  "in_force": "2014-08-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2014-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

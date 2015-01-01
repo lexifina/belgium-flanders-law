@@ -30,4 +30,12 @@
 
 ## HOOFDSTUK 11 Wijzigingen van het besluit van de Vlaamse Regering van 18 maart 2011 tot regeling van de alternatieve investeringssubsidies, verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden
 
+### ART. 47.
+
+<P>Artikel   73 van hetzelfde besluit wordt vervangen door wat volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Art.   73. Het bedrag van de gebruikstoelage wordt vastgesteld, naargelang het geval,   conform artikel 12 of 40.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 48.
+
+In   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 14   februari 2014 en 16 mei 2014, worden de artikelen 74 tot en met 83   opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 12 Slotbepalingen
