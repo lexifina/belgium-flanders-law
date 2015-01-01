@@ -2,16 +2,16 @@
   "codex_id": 1012993,
   "title": "Besluit van de Vlaamse Regering van 2004-04-02 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Agentschap voor Landbouw en Visserij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012993/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "24b26e5dbed28b6a9b3b87a8d7ef5b0176ad8683d38116df83bcaf43f0c3b5fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012993/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "40bc785b6f891a905e1d4fbd79f38107ba28cdec8e3f0e02941370fa993e481b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012993&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2004-04-02",
   "gazette": "2004-05-14",
   "numac": 2004035659,
   "document_start": "2006-04-01",
   "document_end": "2014-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
