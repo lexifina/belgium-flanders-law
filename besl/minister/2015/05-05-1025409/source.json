@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025409,
+  "title": "Ministerieel besluit van 2015-05-05 tot wijziging van diverse ministeriële besluiten naar aanleiding van de integratie van het intern verzelfstandigd agentschap Zorginspectie in het Departement Welzijn, Volksgezondheid en Gezin",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025409/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "5e810dc38ff36dc01c71c81ca6e429b2b8fe0ce7fa1030a156c7f1015de029c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025409&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-05-05",
+  "gazette": "2015-06-01",
+  "numac": 2015035641,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
