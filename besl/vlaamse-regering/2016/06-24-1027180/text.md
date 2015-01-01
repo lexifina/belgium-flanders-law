@@ -34,6 +34,31 @@ Besluit :<br>
 In de tabel van artikel VII 31 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt tussen het woord "ambt," en het woord "de" de zinsnede "de toelage voor tijdelijke functieverzwaring," ingevoegd.<br>
 &nbsp;
 
+### ART 91.
+
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel VII 45 van hetzelfde besluit, gewijzigd bij besluit van de Vlaamse Regering van 29 april 2011 en 21 februari 2014, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in paragraaf 1 wordt de inleidende zin vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De volgende toelagen worden toegekend aan het personeelslid van de afdeling Gemeenschapsinstellingen, tewerkgesteld in een gemeenschapsinstelling of in het Vlaams detentiecentrum De Wijngaard :";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 2 wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 2. De volgende toelage wordt toegekend aan het personeelslid dat tewerkgesteld is in de afdeling Ondersteuningscentra en Sociale Diensten bij de Jeugdrechtbank of de afdeling Intersectorale Toegangspoort :</span><br>
+&nbsp;
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>&nbsp;</td>
+			<td>&nbsp;bedrag</td>
+			<td>voorwaarden</td>
+		</tr>
+		<tr>
+			<td>Jeugdzorgtoelage</td>
+			<td>877 euro tegen 100 %<br>
+			per jaar</td>
+			<td>personeelslid van niveau B werkzaam in de buitendiensten van de afdeling Intersectorale Toegangspoort en de afdeling Ondersteuningscentra en Sociale Diensten bij de Jeugdrechtbank, met uitzondering van de administratieve teams.</td>
+		</tr>
+	</tbody>
+</table>
+
 ### ART 93.
 
 In deel VII, titel 3 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt hoofdstuk 4, bestaande uit artikel VII 86, opgeheven.<br>
@@ -49,4 +74,11 @@ In deel VII, titel 3, hoofdstuk 9 van hetzelfde besluit, ingevoegd bij het beslu
 ### ART 96.
 
 In artikel VII 109septies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt de zinsnede "samengeordende wetten betreffende de kinderbijslag voor loonarbeiders van 19 december 1939, hierna SWKL te noemen" vervangen door de zinsnede "Algemene kinderbijslagwet (AKBW) van 19 december 1939".<br>
+&nbsp;
+
+### ART 98.
+
+In artikel X 9 § 3, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 1 februari 2013, worden de volgende wijzigingen aangebracht :<br>
+1° de woorden "een gesloten federaal centrum" worden vervangen door de woorden "het Vlaams detentiecentrum De Wijngaard";<br>
+2° de woorden `of nachtwaker" worden vervangen door de zinsnede ", nachtwaker of bewakingsassistent".<br>
 &nbsp;
