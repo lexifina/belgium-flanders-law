@@ -120,7 +120,8 @@ Elk werkingsjaar wordt aan een Logo een subsidie toegekend. <br /><br />
 
 ### ART. 24.
 
-<p>De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo voor het tweetalige gebied Brussel-Hoofdstad, bedraagt 0,60 euro (zestig cent) per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de volgende tabel:</p>
+<p>De subsidie voor een Logo, vermeld in artikel 23, met uitzondering van het Logo voor het tweetalige gebied Brussel-Hoofdstad, bedraagt 0,5952 euro per inwoner in het werkgebied van een Logo, en een bedrag per Logo als vermeld in de volgende tabel:</p>
+&nbsp;
 
 <table border="1">
 	<tbody>
@@ -194,7 +195,7 @@ Het aantal inwoners in het werkgebied van het Logo wordt, voor de toepassing van
 
 ### ART. 25.
 
-<P>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt   vastgelegd op 260.500 euro.</P>
+<P>De subsidie voor het Logo van het tweetalige gebied Brussel-Hoofdstad wordt   vastgelegd op 259.060 euro.</P>
 
 ### ART. 26.
 
@@ -236,7 +237,7 @@ Voor Logo's met een erkenning die niet ingaat op 1 januari of die niet eindigt o
 
 ### ART. 35.
 
-Het agentschap wordt belast met het toezicht op de Logo's. Om het toezicht uit te oefenen, kan het agentschap : <br />1° gebruikmaken van de registratiegegevens, vermeld in artikel 8, 4°;<br />2° gebruikmaken van gegevens die aangeleverd worden door derden;<br />3° alle aanvullende gegevens die daartoe nodig zijn, vragen aan de Logo's;<br />4° bij aanvragers of bij Logo's een onderzoek verrichten of laten verrichten door het agentschap Zorginspectie, opgericht bij het Besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie. Het inspectieverslag wordt bij het erkenningsdossier gevoegd dat door het agentschap wordt aangelegd en dat wordt bezorgd aan de VZW of het Logo.<br /><br />
+Het agentschap wordt belast met het toezicht op de Logo's. Om het toezicht   uit te oefenen, kan het agentschap : <BR>1° gebruikmaken van de   registratiegegevens, vermeld in artikel 8, 4°;<BR>2° gebruikmaken van gegevens   die aangeleverd worden door derden;<BR>3° alle aanvullende gegevens die daartoe   nodig zijn, vragen aan de Logo's;<BR>4° bij aanvragers of bij Logo's een   onderzoek verrichten of laten verrichten door Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het   besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement   Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van   regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein. Het inspectieverslag wordt bij het   erkenningsdossier gevoegd dat door het agentschap wordt aangelegd en dat wordt   bezorgd aan de VZW of het Logo.<BR><BR>
 
 ### ART. 36.
 
