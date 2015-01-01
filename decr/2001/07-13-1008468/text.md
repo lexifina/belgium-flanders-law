@@ -925,7 +925,18 @@ De bepalingen van dit hoofdstuk treden in werking op 1 september 2001, behalve<b
 
 ### ART. XI. 1.
 
-§ 1. Dit hoofdstuk is van toepassing op:<br />1° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br />2° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding; <br />3° de personeelsleden bedoeld bij het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />4° de personen tewerkgesteld als gesubsidieerde contractuelen in de onderwijsinstellingen en de centra voor leerlingenbegeleiding;<br />5° de contractuelen betaald ten laste van het departement Onderwijs, met uitzondering van deze van de centra voor basiseducatie;<br />6° de contractuelen, betaald met het werkingsbudget van de onderwijsinstellingen;<br />7° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad. <br /><br />§ 2. De bepalingen van dit hoofdstuk zijn niet van toepassing op de personeelsleden van de centra voor basiseducatie.
+§ 1. Dit hoofdstuk is van toepassing op:<br>
+1° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden bedoeld bij het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° ...;<br>
+4° de personen tewerkgesteld als gesubsidieerde contractuelen in de onderwijsinstellingen en de centra voor leerlingenbegeleiding;<br>
+5° de contractuelen betaald ten laste van het departement Onderwijs, met uitzondering van deze van de centra voor basiseducatie;<br>
+6° de contractuelen, betaald met het werkingsbudget van de onderwijsinstellingen;<br>
+7° de personeelsleden van de Brusselse kinderdagverblijven van het gemeenschapsonderwijs gelegen in het tweetalige gebied Brussel-Hoofdstad.<br>
+<br>
+§ 2. De bepalingen van dit hoofdstuk zijn niet van toepassing op de personeelsleden van de centra voor basiseducatie.<br>
+<br>
+§ 3. De bepalingen van dit hoofdstuk zijn van toepassing op de personeelsleden van de hogescholen in de Vlaamse Gemeenschap, met uitzondering van artikel XI.3 voor wat betreft de vervoerskosten en fietsvergoedingen gemaakt vanaf het kalenderjaar 2015.
 
 ### XI.2
 
