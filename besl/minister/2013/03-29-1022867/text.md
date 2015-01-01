@@ -57,19 +57,43 @@ Overwegende dat volgens paragraaf 7.4 van bijlage X van het Energiebesluit van 1
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° tochtsas : een kleine ruimte   zonder menselijke bezetting tussen de buitenomgeving en een gang of een inkomhal   zonder toegangsdeuren naar een andere ruimte.
+In dit besluit wordt verstaan onder : <BR>1° energie-intensieve bewaring   van plantaardige producten: het bewaren van plantaardige producten zoals   aardappelen, wortelen en ajuinen, waarvoor een constante temperatuur vereist   is;<BR>2° energie-intensieve productie van plantaardige producten: het laten   groeien of forceren van plantaardige producten zoals witloof en champignons,   waarvoor een constante temperatuur vereist is;<BR>3° energiescherm: een   beweegbare of vaste flexibele scheidingswand, al dan niet doorzichtig, die in   serres de luchtbeweging tussen de teeltruimte en de ruimte onder het dak van de   serre onderbreekt tijdens de koude periodes;<BR>4° landbouwgebouw met lage   energiebehoefte: elk niet voor bewoning bestemd gebouw van een landbouwbedrijf   dat geen serre voor warme teelten, gebouw voor energie-intensieve productie-,   bewaring en/of primaire behandeling van plantaardige producten, varkensstal of   pluimveestal is;<BR>5° primaire behandeling van plantaardige producten: het   wassen, snijden of inpakken van land- en tuinbouwproducten zoals witloof,   champignons en groenten;<BR>6° warme teelten: teelten met een stooktemperatuur   van minimum 12 ° C, ongeacht de teeltperiode. Het betreft voornamelijk de   vruchtgroenten paprika, tomaat, komkommer en aubergine, warme kasplanten en   snijbloemen.
 
 ## HOOFDSTUK II. Algemene vrijstellingen van bepaalde EPB-eisen
 
 ### ART. 2.
 
-Hoogspanningscabines, ruimtes voor persluchtinstallaties, technische   ruimtes voor luchtgroepen, koelcellen en tochtsassen, worden vrijgesteld van de   ventilatie-eisen, zoals bepaald door bijlage X van het Energiebesluit van 19   november 2010. <BR>Verder dient voor de ruimten en de rest van het gebouw wel te   worden voldaan aan alle geldende EPB-eisen, vermeld in het Energiebesluit van 19   november 2010.
+De volgende ruimtes worden vrijgesteld van de ventilatie-eisen, zoals   bepaald door bijlage X van het Energiebesluit van 19 november 2010:<BR>1°   verblijfsruimtes voor dieren;<BR>2° ruimtes voor energie-intensieve bewaring van   plantaardige producten;<BR>3° ruimtes voor energie-intensieve productie van   plantaardige producten.
+
+### ART. 2/1.
+
+Landbouwgebouwen met lage energiebehoefte zijn vrijgesteld van de geldende   EPB-eisen, vermeld in het Energiebesluit van 19 november 2010.
 
 ## HOOFDSTUK III. Samenloop van algemene vrijstellingen en algemene afwijkingen van bepaalde EPB-eisen
 
 ### ART. 3.
 
 <P>In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19   november 2010, voldoen nieuw op te richten tennishallen vervaardigd uit   zeildoeken enkel aan de volgende eisen : <BR>1° ze beschikken over   ventilatievoorzieningen, vermeld in bijlage X van het Energiebesluit van 19   november 2010;<BR>2° de binnentemperatuur : <BR>a) kan niet hoger ingesteld   worden dan 13 °C;<BR>b) wordt 's nachts automatisch verlaagd naar maximaal 5   °C;<BR>c) wordt automatisch teruggeregeld naar 5 °C door middel van   aanwezigheidsdetectie als er gedurende 15 minuten geen spelers aanwezig zijn op   de terreinen;<BR>3° de wanden zijn minstens dubbelwandig of de U-waarde van de   wanden is kleiner dan of gelijk aan 2,8 W/m2K.<BR></P>  <P>In geval van luchthallen dienen de luchtlekken tussen de verwarmde   binnenruimte en de buitenomgeving beperkt te worden door het verwezenlijken van   een continue verbinding van de zeilen aan de grond.</P>
+
+### ART. 3/1.
+
+In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19   november 2010, gelden bij de nieuwbouw, renovatie en functiewijziging van serres   voor warme teelten, waarbij na de functiewijziging in tegenstelling tot voordien   energie verbruikt wordt om een specifieke binnentemperatuur te verkrijgen, de   volgende eisen:<BR>1° er is minimaal 1 energiescherm geïnstalleerd;<BR>2° het   binnenklimaat wordt automatisch geregeld voor minstens de parameters temperatuur   en luchtvochtigheid.
+
+### ART. 3/2.
+
+In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19   november 2010, voldoen nieuw op te richten gebouwen voor energie-intensieve   productie-, bewaring of primaire behandeling van plantaardige producten en   varkens- en pluimveestallen waarvoor de stedenbouwkundige vergunning wordt   aangevraagd of de melding wordt gedaan vanaf 1 januari 2015, aan de volgende   eisen:<BR>1° daken en plafonds, vermeld in punt 1.2.1 van bijlage VII van het   Energiebesluit van 19 november 2010, hebben een U-waarde die kleiner dan of   gelijk is aan 0,40 W/m²K;<BR>2° muren niet in contact met de grond, vermeld in   punt 1.2.2 van bijlage VII van het Energiebesluit van 19 november 2010, hebben   een U-waarde die kleiner dan of gelijk is aan 0,40 W/m²K;<BR>3° transparante   scheidingsconstructies voldoen aan de eisen zoals vastgelegd in bijlage VII van   het Energiebesluit van 19 november 2010;<BR>4° deuren en poorten voldoen aan de   eisen zoals vastgelegd in bijlage VII van het Energiebesluit van 19 november   2010;<BR>5° de ventilatie-eisen, zoals bepaald door bijlage X van het   Energiebesluit van 19 november 2010.
+
+### ART. 3/3.
+
+&nbsp;In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van   19 november 2010, gelden bij de renovatie van gebouwen voor energie-intensieve   productie-, bewaring of primaire behandeling van plantaardige producten en   varkens- en pluimveestallen waarvoor de stedenbouwkundige vergunning wordt   aangevraagd of de melding wordt gedaan vanaf 1 januari 2015, de volgende   eisen:<BR>1° de nieuwe en vernieuwde daken en plafonds, vermeld in punt 1.2.1   van bijlage VII van het Energiebesluit van 19 november 2010, hebben een U-waarde   die kleiner dan of gelijk is aan 0,40 W/m²K;<BR>2° de nageïsoleerde daken en   plafonds, vermeld in punt 4.1.1 van bijlage VII van het Energiebesluit van 19   november 2010, hebben een U-waarde die kleiner dan of gelijk is aan 0,40   W/m²K;<BR>2° de nieuwe en vernieuwde muren niet in contact met de grond, vermeld   in punt 1.2.2 van bijlage VII van het Energiebesluit van 19 november 2010,   hebben een U-waarde die kleiner dan of gelijk is aan 0,40 W/m²K;<BR>3° de nieuwe   en vernieuwde transparante scheidingsconstructies voldoen aan de eisen zoals   vastgelegd in bijlage VII van het Energiebesluit van 19 november 2010;<BR>4° de   nieuwe en vernieuwde deuren en poorten voldoen aan de eisen zoals vastgelegd in   bijlage VII van het Energiebesluit van 19 november 2010;<BR>5° de   ventilatie-eisen, zoals bepaald door bijlage X van het Energiebesluit van 19   november 2010.
+
+### ART. 3/4.
+
+In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19   november 2010, gelden bij een functiewijziging van gebouwen voor   energie-intensieve productie-, bewaring of primaire behandeling van plantaardige   producten en varkens- en pluimveestallen waarbij na de functiewijziging in   tegenstelling tot voordien energie verbruikt wordt om een specifieke   binnentemperatuur te verkrijgen, en waarvoor de stedenbouwkundige vergunning   wordt aangevraagd of de melding wordt gedaan vanaf 1 januari 2015, de volgende   eisen:<BR>1° de nieuwe en vernieuwde daken en plafonds, vermeld in punt 1.2.1   van bijlage VII van het Energiebesluit van 19 november 2010, hebben een U-waarde   die kleiner dan of gelijk is aan 0,40 W/m²K;<BR>2° de nageïsoleerde daken en   plafonds, vermeld in punt 4.1.1 van bijlage VII van het Energiebesluit van 19   november 2010, hebben een U-waarde die kleiner dan of gelijk is aan 0,40   W/m²K;<BR>2° de nieuwe en vernieuwde muren niet in contact met de grond, vermeld   in punt 1.2.2 van bijlage VII van het Energiebesluit van 19 november 2010,   hebben een U-waarde die kleiner dan of gelijk is aan 0,40 W/m²K;<BR>3° de nieuwe   en vernieuwde transparante scheidingsconstructies voldoen aan de eisen zoals   vastgelegd in bijlage VII van het Energiebesluit van 19 november 2010;<BR>4° de   nieuwe en vernieuwde deuren en poorten voldoen aan de eisen zoals vastgelegd in   bijlage VII van het Energiebesluit van 19 november 2010;<BR>5° de   ventilatie-eisen, zoals bepaald door bijlage X van het Energiebesluit van 19   november 2010.
+
+### ART. 3/5.
+
+De aangifteplichtige zal in de gevallen, vermeld in artikel 3/1 tot en met   artikel 3/4 gebruik kunnen maken van de financiël ondersteuningsmaatregelen   waarvoor hij voor de naleving van de EPB-eisen in aanmerking komt, in het   bijzonder van de steunmaatregelen van het Vlaams Landbouwinvesteringsfonds,   zoals voorzien in het Besluit van de Vlaamse Regering van 24 november 2000   betreffende steun aan de investeringen en aan de installatie in de   landbouw.
 
 ## HOOFDSTUK IV. Slotbepalingen
 
