@@ -6,28 +6,28 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het jaar N : het jaar waarin de niet-naleving van de verplichting wordt vastgesteld;<br />2° het jaar N+1 : het jaar dat volgt op het jaar waarin de niet-naleving van de verplichting wordt vastgesteld.<br />
+...
 
 ### ART. 2.
 
-Een tijdelijke overlater en een tijdelijke overnemer kunnen overeenkomen dat de tijdelijke overnemer voor een minimale periode van vijf jaar een instandhoudingsplicht blijvend grasland overneemt van de tijdelijke overlater.<br />
+...
 
 ### ART. 3.
 
-Uiterlijk op de uiterste datum van indiening van de verzamelaanvraag deelt de tijdelijke overlater aan de bevoegde buitendienst van de afdeling Markt- en Inkomensbeheer van het Agentschap voor Landbouw en Visserij mee voor welke oppervlakte blijvend grasland gedurende hoeveel jaar de instandhoudingsplicht wordt overgedragen aan een tijdelijke overnemer en welke percelen hij zal scheuren of gescheurd heeft.<br /><br />
+...
 
 ### ART. 4.
 
-De tijdelijke overlater heeft de volgende verplichtingen :<br />1° hij vraagt jaarlijks gedurende de duur van de overeenkomst rechtstreekse inkomenssteun aan via de verzamelaanvraag;<br />2° hij mag geen braakleggingstoeslagrechten activeren op hetzelfde areaal blijvend grasland waarvan de instandhoudingsplicht wordt overgedragen en hij vermeldt die percelen en de oppervlakte ervan in de overeenkomst met de tijdelijke overnemer;<br />3° hij mag geen instandhoudingsplicht van een perceel blijvend grasland overlaten dat minder dan vijf jaar in stand werd gehouden;<br />4° op het einde van de tijdelijke overdrachtsperiode zaait hij het door de tijdelijke overnemer tijdelijk overgenomen areaal opnieuw in of sluit hij een andere overeenkomst voor tijdelijke overdracht.<br />
+...
 
 ### ART. 5.
 
-De tijdelijke overnemer heeft de volgende verplichtingen :<br />1° hij vraagt jaarlijks gedurende de duur van de overeenkomst rechtstreekse inkomenssteun aan via de verzamelaanvraag;<br />2° de overgenomen instandhoudingsplicht wordt door de tijdelijke overnemer aan specifieke percelen gekoppeld die een oppervlakte vertegenwoordigen die minstens even groot is als de door de tijdelijke overlater gescheurde oppervlakte blijvend grasland en die vanaf de overname van de tijdelijke instandhoudingsplicht gedurende vijf jaar niet gescheurd mogen worden. De tijdelijke overnemer vermeldt die percelen en de oppervlakte ervan in de overeenkomst met de tijdelijke overlater;<br />3° hij moet jaarlijks op zijn bedrijf zijn totale referentieareaal, vermeerderd met de oppervlakte blijvend grasland waarvan hij de instandhoudingsplicht heeft overgenomen, in standhouden;<br />4° de tijdelijke overnemer mag de oppervlakte blijvend grasland waarvan hij de instandhoudingsplicht heeft overgenomen, niet inzaaien op gepachte percelen waarvan de pacht afloopt binnen vijf jaar of waarvan hij de pacht opzegt voor het einde van de vijfjarige periode;<br />5° de oppervlakte blijvend grasland waarvan de instandhoudingsplicht overgenomen kan worden, wordt beperkt tot het aantal hectare, aangegeven in de verzamelaanvraag van de tijdelijke overnemer.<br />
+...
 
 ### ART. 6.
 
-§ 1. In de volgende gevallen wordt de overeenkomst ontbonden in het jaar N :<br />1° de tijdelijke overnemer of de tijdelijke overlater heeft geen geldige verzamelaanvraag ingediend in het jaar N;<br />2° de overgenomen instandhoudingsplicht is groter dan de in de verzamelaanvraag van het jaar N aangegeven totale oppervlakte van de tijdelijke overnemer.<br /><br />§ 2. Bij onteigening van een perceel van de tijdelijke overlater als vermeld in artikel 4, 2°, of bij onteigening van een perceel van de tijdelijke overnemer als vermeld in artikel 5, 2°, kan de overeenkomst ontbonden worden op zijn vroegst in het jaar van onteigening mits de administratie en de tijdelijke overlater hierover geïnformeerd werden in het jaar dat voorafgaat aan de onteigening.<br /><br />§ 3. In de volgende gevallen wordt de overeenkomst ontbonden in het jaar N+1 :<br />1° de overgenomen instandhoudingsplicht is kleiner dan of gelijk aan de totale aangegeven oppervlakte in de verzamelaanvraag van het jaar N van de tijdelijke overnemer, maar de tijdelijke overnemer voldoet niet aan de instandhoudingsplicht in dat jaar N;<br />2° de tijdelijke overnemer heeft de percelen, vermeld in artikel 5, 2°, niet in gebruik, of hij heeft deze percelen zoals vermeld in artikel 5, 2°, in het jaar N niet aangegeven in zijn verzamelaanvraag, of hij heeft deze percelen aangegeven met een andere teelt dan blijvend grasland.
+...
 
 ### ART. 7.
 
-Bij opzettelijke niet-naleving van de overeenkomst door de tijdelijke overlater respectievelijk overnemer mag de tijdelijke overlater respectievelijk overnemer gedurende drie jaar geen nieuwe overeenkomst sluiten.<br /><br />Als de tijdelijke overlater of de tijdelijke overnemer over een periode van tien jaar driemaal zijn verplichtingen niet respecteert, mag hij geen nieuwe overeenkomst meer sluiten. <br />
+...
