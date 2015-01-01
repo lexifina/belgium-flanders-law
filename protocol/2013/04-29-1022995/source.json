@@ -2,16 +2,16 @@
   "codex_id": 1022995,
   "title": "Protocol van 2013-04-29 Aanhangsel bij het Protocolakkoord van 28 september 2009 tussen de Federale Overheid en de Overheden bedoeld in artikel 128, 130 en 135 van de grondwet inzake preventie",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022995/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "4323c70da46a30bc94e6132dd413dac9de563bd6f26274607402e62142e84fb8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022995/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "31b0ed1b1f8c5d0b311336ac858412d949a2b81a37f9040af5b945c1744afa85",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022995&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2013-04-29",
   "gazette": "2013-06-18",
   "numac": 2013024181,
   "document_start": "2014-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

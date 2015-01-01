@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-De bepalingen in dit protocol die zouden afwijken van nieuwe wetgeving in   het kader van de staatshervorming, worden slechts verlengd tot deze wetgeving in   het kader van de staatshervorming in werking treedt.<BR>
+...
 
 ### ART. 2.
 
-Dit aanhangsel verlengt het protocolakkoord van 28 september 2009 inzake   preventie; treedt in werking vanaf 1 januari 2014 tot en met 31 december 2014 en   zal herzien worden uiterlijk op 31 december 2014.<BR>
+...
