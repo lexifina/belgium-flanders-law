@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025353,
+  "title": "Ministerieel besluit van 2015-04-03 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025353/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "36688d0dc9f6563bfa867e7e84b5051a482a1d480bacfb375364ef5d9b94a323",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025353&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-04-03",
+  "gazette": "2015-05-13",
+  "numac": 2015035606,
+  "document_start": "2015-01-01",
+  "document_end": "2023-08-17",
+  "in_force": "2015-01-01",
+  "article_versions": 146,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
