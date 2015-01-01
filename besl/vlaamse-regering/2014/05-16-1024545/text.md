@@ -514,7 +514,7 @@ De organisator zorgt voor tewerkstelling van laaggeschoolde jongeren als   verme
 
 ### ART. 95.
 
-<P>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het   toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De   organisator verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of   stukken over de werking. <BR></P>  <P>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie. <BR></P>  <P>In het tweede lid wordt verstaan onder Zorginspectie: het intern   verzelfstandigd agentschap Zorginspectie, opgericht bij het besluit van de   Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd   agentschap Zorginspectie.<BR></P>
+<P>Kind en Gezin ziet toe op de naleving van de bepalingen van dit besluit. Het   toezicht op de naleving van de regelgeving wordt op stukken uitgeoefend. De   organisator verstrekt daarvoor de door Kind en Gezin gevraagde inlichtingen of   stukken over de werking. <BR></P>  <P>Het toezicht ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein.</P>
 
 ### ART. 96.
 
