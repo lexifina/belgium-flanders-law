@@ -6,11 +6,15 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° de dienst Zeevisserij : de dienst Zeevisserij van het Departement Landbouw en Visserij van de Vlaamse overheid; <br />2° boekhoudkundige gegevens : de lijst van economische variabelen, vermeld in aanhangsel VI van het besluit van de Commissie 2008/949/EG van 6 november 2008 tot vaststelling van een communautair meerjarenprogramma overeenkomstig Verordening (EG) nr. 199/2008 van de Raad betreffende de instelling van een communautair kader voor de verzameling, het beheer en het gebruik van gegevens in de visserijsector en voor de ondersteuning van wetenschappelijk advies over het gemeenschappelijk visserijbeleid.
+In dit besluit wordt verstaan onder : <BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° boekhoudkundige gegevens : de lijst van economische variabelen,   vermeld in aanhangsel VI van het besluit van de Commissie 2008/949/EG van 6   november 2008 tot vaststelling van een communautair meerjarenprogramma   overeenkomstig Verordening (EG) nr. 199/2008 van de Raad betreffende de   instelling van een communautair kader voor de verzameling, het beheer en het   gebruik van gegevens in de visserijsector en voor de ondersteuning van   wetenschappelijk advies over het gemeenschappelijk visserijbeleid.
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
-De rederijen van vissersvaartuigen die gerechtigd zijn vissoorten aan te landen waarvoor in het kader van het communautaire visserijbeleid vangstbeperkingen gelden, delen jaarlijks hun boekhoudkundige gegevens mee aan de dienst Zeevisserij.
+De rederijen van vissersvaartuigen die gerechtigd zijn vissoorten aan te   landen waarvoor in het kader van het communautaire visserijbeleid   vangstbeperkingen gelden, delen jaarlijks hun boekhoudkundige gegevens mee aan   de bevoegde entiteit.
 
 ### ART. 3.
 
