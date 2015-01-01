@@ -2,16 +2,16 @@
   "codex_id": 1014601,
   "title": "Besluit van de Vlaamse Regering van 2006-04-28 tot invoering van de tewerkstellingspremie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014601/VolledigDocument?datum=2014-10-30",
-  "source_sha256": "3df2a23b568728d2a6f21f68b9816d5f0bb65c420ec23d5b742bc8b2fcc6c147",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014601/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6fff6d922c306ad2cbc528a006380945835978baaa31368692dbdc8b22d02e69",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014601&param=informatie",
-  "as_of": "2014-10-30",
+  "as_of": "2015-01-01",
   "made": "2006-04-28",
   "gazette": "2006-06-23",
   "numac": 2006035922,
   "document_start": "2006-04-01",
   "document_end": "2016-07-01",
-  "in_force": "2014-10-30",
+  "in_force": "2015-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
