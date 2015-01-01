@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026157,
+  "title": "Ministerieel besluit van 2015-04-22 tot wijziging van het ministerieel besluit van 7 september 2012 houdende het instellen van een regelluw kader voor het project Zorgvernieuwing Ganspoel en van het ministerieel besluit van 11 september 2012 houdende het instellen van een regelluw kader voor het project Zorgvernieuwing ACCENT - Spermalie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026157/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "45765bd4345da9e1a90e099855e9c9757c97f7a6d50507232adb6eea66b0eb06",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026157&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-04-22",
+  "gazette": "2015-12-02",
+  "numac": 2015036472,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
