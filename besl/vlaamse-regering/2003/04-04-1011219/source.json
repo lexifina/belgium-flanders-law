@@ -2,16 +2,16 @@
   "codex_id": 1011219,
   "title": "Besluit van de Vlaamse Regering van 2003-04-04 betreffende de oprichting, de samenstelling en de werking van de beheerscommissies voor beschermde landschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011219/VolledigDocument?datum=2011-10-01",
-  "source_sha256": "94573c7b01a32c2087af1a8a6c4fa6947dfb87d3e6157589f44cbd5e3d0f4af3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011219/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "62a3cba295e48b614f979e6c4d0dbb1aab01e0e72ef144186d295ae2b52f2888",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011219&param=informatie",
-  "as_of": "2011-10-01",
+  "as_of": "2015-01-01",
   "made": "2003-04-04",
   "gazette": "2003-06-20",
   "numac": 2003035605,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2011-10-01",
+  "in_force": "2015-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2011-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
