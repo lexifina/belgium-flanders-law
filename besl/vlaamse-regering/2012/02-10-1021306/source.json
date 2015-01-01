@@ -2,16 +2,16 @@
   "codex_id": 1021306,
   "title": "Besluit van de Vlaamse Regering van 2012-02-10 tot bepaling van de nitraatresidudrempelwaarde, vermeld in artikel 14, § 1, tweede lid, van het Mestdecreet van 22 december 2006",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021306/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "c62e4928e109e119e67fe5251f1b1778cbe0e85093fbd7d694c1d3f84798b68e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021306/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "cf88f5538e8ca9fb67de7b9496aa75f99b86cb1546cd2c0f7bc8077e34ddf620",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021306&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2012-02-10",
   "gazette": "2012-03-02",
   "numac": 201235205,
   "document_start": "2011-10-01",
   "document_end": "2017-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
