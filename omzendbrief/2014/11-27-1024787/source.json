@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024787,
+  "title": "Omzendbrief van 2014-11-27 Agentschap Vlaamse Belastingsdienst. - Geïndexeerde tarieflijst vanaf 1 januari 2015 Bericht over de aanpassing van de tarieflijst, bijlage 2, bij de omzendbrief FB/VLABEL/2013/1 van 19 juli 2013 houdende richtlijnen en praktische bepalingen inzake aanhaling en inbeslagneming van voertuigen met toepassing van artikel 33, 36bis en 95 WIGB en artikel 2, tweede lid, Eurovignetwet van 27 december 1994. Tarieven voor de takeling en stalling van voertuigen. Erkenning van de takeldiensten",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024787/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "168a914337c87bb240e13fad3ef44cd500b2427c5ac6c69f02eb4afd47eef773",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024787&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-11-27",
+  "gazette": "2014-12-10",
+  "numac": 2014036853,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
