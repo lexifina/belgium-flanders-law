@@ -106,7 +106,7 @@ Als de onteigenende instantie geen beroep doet op de ambtenaren van de Algemene 
 
 ### ART. 21.
 
-Voor de minnelijke verwervingen kunnen de onteigenende instanties ook een beroep doen op de Vlaamse instrumenterende ambtenaren van de dienst Vastgoedakten zoals bedoeld in hoofdstuk V van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van de begroting 2010.<br /><br />
+...<BR><BR>
 
 ### ART. 22.
 
