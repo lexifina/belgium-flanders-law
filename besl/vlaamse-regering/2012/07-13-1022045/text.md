@@ -16,11 +16,11 @@ Gelet op de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, artikel 4.8.1, t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° advocaat : een persoon die als advocaat ingeschreven is op de lijst van de stagiairs, het tableau van de Orde of de lijst van de advocaten die hun beroep uitoefenen onder de beroepstitel van een andere lidstaat van de Europese Unie;<br />2° departement : het departement binnen het homogene beleidsdomein waaraan de beleidsondersteunende opdrachten inzake ruimtelijke ordening worden toevertrouwd;<br />3° enig verzoekschrift : het verzoekschrift vermeld in artikel 4.8.15. van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009;<br />4° Raad : de Raad voor Vergunningsbetwistingen, vermeld in artikel 4.8.1. van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br /><br />
+...
 
 ### ART. 2.
 
-De zetel van de Raad is gevestigd in het Ellipsgebouw, Koning Albert II-laan 35, 1030 Brussel.<br /><br />
+...
 
 ## TITEL 2 Rechtspleging
 
@@ -30,45 +30,45 @@ De zetel van de Raad is gevestigd in het Ellipsgebouw, Koning Albert II-laan 35,
 
 ### ART. 3.
 
-Partijen kunnen zich in een procedure voor de Raad laten bijstaan of vertegenwoordigen door een raadsman.<br /><br />Een raadsman die advocaat is, treedt voor de Raad op als gevolmachtigde van een partij zonder dat hij van enige volmacht moet doen blijken.<br /><br />Een raadsman die geen advocaat is, kan alleen voor de Raad optreden als gevolmachtigde van een partij, als hij van een volmacht doet blijken. Hij bezorgt die volmacht schriftelijk aan de Raad op het ogenblik dat hij voor de eerste keer in de zaak optreedt of namens een partij ondertekent.<br /><br />Bij afwezigheid van de volmacht, vermeld in het derde lid, wordt de betrokken partij geacht niet bijgestaan of vertegenwoordigd te zijn en wordt het processtuk in kwestie geacht niet te zijn ingediend.<br /><br />
+...
 
 ## Afdeling 2 Termijnen
 
 ### ART. 4.
 
-§ 1. De verzoekschriften en processtukken moeten op straffe van niet-ontvankelijkheid ingediend worden binnen de termijnen, vermeld in hoofdstuk VIII van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en dit besluit.<br /><br />§ 2. De termijnen, vermeld in hoofdstuk VIII van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en dit besluit, gaan in op een van de volgende tijdstippen :<br />1° de dag na de dag van de betekening, als een betekening vereist is;<br />2° de dag na de dag van opname in het vergunningenregister, in het geval van artikel 4.8.11, § 2, 2°, b) of 3°, b) van de voormelde codex;<br />3° de dag na de dag van de startdatum van de aanplakking, in alle andere gevallen.<br /><br />De vervaldag wordt in de termijn begrepen. Als de vervaldag een zaterdag, zondag of wettelijke feestdag is, wordt de termijn verlengd tot de eerstvolgende werkdag.<br /><br />§ 3. In paragraaf 2 wordt verstaan onder betekening : de aanbieding van de beveiligde zending.<br /><br />Als de betekening gebeurt door een aangetekend schrijven, geldt de datum van aanbieding door de postdiensten, niet de feitelijke kennisneming van de beveiligde zending op een later tijdstip.<br /><br />De betekening wordt, behoudens bewijs van het tegendeel door de geadresseerde, geacht plaats te vinden de werkdag na de datum van de poststempel van de aangetekende brief.<br /><br />De datum van de poststempel heeft bewijskracht zowel voor de verzending als voor de ontvangst.<br /><br />Als de betekening gebeurt door afgifte tegen ontvangstbewijs op de zetel van de Raad, geldt de datum van het ontvangstbewijs als datum van de betekening.<br /><br />
+...
 
 ## Afdeling 3 Woonplaatskeuze
 
 ### ART. 5.
 
-§ 1. Met uitzondering van de besturen kiest elke partij in haar eerste processtuk een woonplaats in België die geldt voor alle daaropvolgende proceshandelingen.<br />De griffier doet alle proceshandelingen per beveiligde zending rechtsgeldig op de gekozen woonplaats.<br /><br />§ 2. Elke wijziging van de woonplaatskeuze wordt voor elke procedure afzonderlijk en per beveiligde zending uitdrukkelijk ter kennis gebracht van de griffier, met vermelding van het rolnummer van het beroep waarop de wijziging betrekking heeft.<br /><br />Bij het overlijden van een partij, behalve bij de hervatting van het geding, doet de griffier alle proceshandelingen rechtsgeldig op de gekozen woonplaats van de overledene ter attentie van de gezamenlijke rechtverkrijgenden, zonder vermelding van de namen en hoedanigheden.<br /><br />
+...
 
 ## Afdeling 4 Afschriften van verzoekschrift en processtukken, de overtuigingsstukken en het administratieve dossier
 
 ### ART. 6.
 
-Bij ieder verzoekschrift of processtuk worden vier afschriften gevoegd die door de indiener eensluidend worden verklaard.<br /><br />De griffier kan de neerlegging van bijkomende afschriften bevelen.<br /><br />
+...
 
 ### ART. 7.
 
-De verzoekschriften en processtukken die aan de Raad gericht zijn, bevatten een inventaris van de overtuigingsstukken.<br /><br />Het administratieve dossier bevat de bestreden beslissing en de door de verweerder genummerde en geïnventariseerde stukken op grond waarvan de beslissing is genomen.<br /><br />
+...
 
 ### ART. 8.
 
-De partijen en hun raadslieden kunnen ter griffie kennisnemen van het administratieve dossier en van de overtuigingsstukken.<br /><br />
+...
 
 ## Afdeling 5 Afstand van het geding
 
 ### ART. 9.
 
-Als de verzoeker uitdrukkelijk afstand doet van het door hem ingestelde beroep, stelt de kamer de afstand van het beroep onmiddellijk bij arrest vast en beslist in voorkomend geval over de kosten.<br /><br />
+...
 
 ## Afdeling 6 Samenvoegen van beroepen
 
 ### ART. 10.
 
-Beroepen kunnen samengevoegd worden als ze onderling zo nauw verbonden zijn dat het wenselijk is om er met eenzelfde arrest uitspraak over te doen.<br /><br />Het staat de kamer waar de beroepen aanhangig zijn, vrij om daarover te beslissen.<br /><br />Als de beroepen aanhangig zijn bij verschillende kamers, kan de voorzitter bij beschikking de kamer aanwijzen die de samengevoegde beroepen zal behandelen.<br /><br />
+...
 
 ## HOOFDSTUK 2 Aanhangigmaking
 
@@ -76,41 +76,41 @@ Beroepen kunnen samengevoegd worden als ze onderling zo nauw verbonden zijn dat 
 
 ### ART. 11.
 
-Een beroep wordt bij de Raad ingesteld door een verzoekschrift dat ondertekend is door de partij of door haar raadsman.<br /><br />Het verzoekschrift wordt gedagtekend en bevat :<br />1° het opschrift « verzoek tot vernietiging » dan wel het opschrift « verzoek tot vernietiging met vordering tot schorsing » als het ook een vordering tot schorsing bevat;<br />2° de naam, de hoedanigheid, de woonplaats of de zetel van de verzoeker en de gekozen woonplaats;<br />3° de naam en het adres van de verweerder;<br />4° het voorwerp van het beroep;<br />5° een omschrijving van het belang van de verzoeker;<br />6° een uiteenzetting van de feiten;<br />7° een omschrijving van :<br />a) de geschonden geachte regelgeving, stedenbouwkundige voorschriften of beginselen van behoorlijk bestuur;<br />b) de wijze waarop de regelgeving, voorschriften of beginselen naar het oordeel van de verzoeker geschonden worden;<br />8° een inventaris van de stukken;<br />9° in geval van een enig verzoekschrift, een uiteenzetting van de redenen die aantonen dat de onmiddellijke tenuitvoerlegging van de bestreden beslissing de verzoeker een moeilijk te herstellen ernstig nadeel kan berokkenen.<br /><br />De verzoeker voegt bij het verzoekschrift :<br />1° een afschrift van de bestreden beslissing;<br />2° als hij een rechtspersoon is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daartoe bevoegde orgaan beslist heeft in rechte te treden;<br />3° de schriftelijke volmacht van zijn raadsman als die geen advocaat is;<br />4° de overtuigingsstukken die in de inventaris zijn vermeld, met inbegrip van de overtuigingsstukken die het risico op een moeilijk te herstellen ernstig nadeel aantonen, in geval van een enig verzoekschrift;<br />5° de overtuigingsstukken die de tijdigheid van het verzoekschrift aantonen.<br /><br />
+...
 
 ### ART. 12.
 
-Gelijktijdig met de indiening van het verzoekschrift stuurt de verzoeker een afschrift van het verzoekschrift ter informatie aan de verweerder en aan de begunstigde van de vergunningsbeslissing, de valideringsbeslissing of de registratiebeslissing.<br /><br />Het toesturen van een afschrift van het verzoekschrift als vermeld in het eerste lid, houdt geen definitieve aanwijzing van de verweerder in. Het stelt niet de termijnen in werking die de verweerder in acht moet nemen.<br /><br />
+...
 
 ## Afdeling 2 Het registreren van het verzoekschrift
 
 ### ART. 13.
 
-De griffier schrijft het verzoekschrift niet in het register in als :<br />1° de stukken, vermeld in artikel 11, derde lid, 2°, niet bij het verzoekschrift, uitgaande van een rechtspersoon, gevoegd zijn;<br />2° het verzoekschrift niet is ondertekend door de verzoeker of zijn raadsman;<br />3° het verzoekschrift geen woonplaatskeuze bevat;<br />4° er geen afschrift van de bestreden beslissing bij het verzoekschrift gevoegd is, tenzij de verzoeker verklaart dat hij niet in het bezit is van een dergelijk afschrift;<br />5° de schriftelijke volmacht, vermeld in artikel 11, derde lid, 3°, niet bij het verzoekschrift gevoegd is;<br />6° er geen inventaris bij het verzoekschrift gevoegd is van de overtuigingsstukken, die allemaal overeenkomstig die inventaris genummerd zijn.<br /><br />Als de griffier met toepassing van het eerste lid, het verzoekschrift niet inschrijft, stelt hij de verzoeker in staat om de vormvereisten, vermeld in het eerste lid, te regulariseren binnen een vervaltermijn van acht dagen die ingaat de dag na de dag van de betekening van het verzoek tot regularisatie.<br /><br />De verzoeker die zijn verzoekschrift tijdig regulariseert, wordt geacht het te hebben ingediend op de datum van de eerste verzending.<br /><br />Een verzoekschrift dat niet, onvolledig of laattijdig is geregulariseerd, wordt geacht niet te zijn ingediend.<br /><br />
+...
 
 ### ART. 14.
 
-De voorzitter wijst de zaak, overeenkomstig de bepalingen van het reglement van orde, aan de bevoegde kamer toe.<br /><br />
+...
 
 ### ART. 15.
 
-De griffier bezorgt per beveiligde zending een afschrift van het verzoekschrift aan :<br />1° de verweerder;<br />2° het college van burgemeester en schepenen van de gemeente waar het betrokken onroerend goed gelegen is;<br />3° aan de belanghebbenden bij de zaak, vermeld in artikel 4.8.11, § 1, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, voor zover zij kunnen worden bepaald.<br /><br />De griffier brengt de verzoeker en de verweerder schriftelijk op de hoogte van de samenstelling van de bevoegde kamer.<br /><br />
+...
 
 ## HOOFDSTUK 3 Vereenvoudigde behandeling
 
 ### ART. 16.
 
-Als de voorzitter van de Raad of het door hem aangewezen raadslid na de registratie van het verzoekschrift van oordeel is dat een van de volgende gevallen van toepassing is, stelt hij dat vast, binnen een ordetermijn van dertig dagen na de datum van registratie van het verzoekschrift :<br />1° het beroep is doelloos;<br />2° het beroep is kennelijk niet-ontvankelijk;<br />3° de Raad is kennelijk onbevoegd om kennis te nemen van het beroep.<br /><br />De verzoeker kan bij de verantwoordingsnota, vermeld in artikel 4.8.14, § 2, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, overtuigingsstukken voegen. Die overtuigingsstukken zijn beperkt tot de vaststellingen, vermeld in artikel 4.8.14, § 1, tweede lid, van de voormelde codex.<br /><br />De Raad handelt op de wijze, vermeld in artikel 4.8.14 van de voormelde codex.<br /><br />Als de Raad niet besluit dat het beroep kennelijk niet-ontvankelijk of doelloos is of dat hij kennelijk onbevoegd is, vindt de betekening van het verzoekschrift, vermeld in artikel 15, eerste lid, plaats op het ogenblik dat de uitspraak wordt betekend aan de verzoeker.<br /><br />
+...
 
 ## HOOFDSTUK 4 Tussenkomst
 
 ### ART. 17.
 
-Een verzoek tot tussenkomst wordt ingediend bij verzoekschrift, ondertekend door de verzoeker tot tussenkomst of door zijn raadsman.<br /><br />Het verzoekschrift wordt gedagtekend en bevat :<br />1° het opschrift « verzoek tot tussenkomst » met aanduiding of het verzoek tot tussenkomst alleen geldt in de schorsingsprocedure of in de vernietigingsprocedure, dan wel in beide;<br />2° de naam, de hoedanigheid, de woonplaats of de zetel van de verzoeker tot tussenkomst en de gekozen woonplaats;<br />3° de vermelding van de zaak waarin de verzoeker tot tussenkomst wil tussenkomen, en het rolnummer waaronder de zaak ingeschreven is, als hij dit kent;<br />4° een omschrijving van het belang van de verzoeker tot tussenkomst;<br />5° een inventaris van de overtuigingsstukken;<br />6° in geval van tussenkomst in de procedure van de vordering tot schorsing, de schriftelijke uiteenzetting over de vordering tot schorsing.<br /><br />De verzoeker tot tussenkomst voegt bij het verzoekschrift :<br />1° als hij een rechtspersoon is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daartoe bevoegde orgaan beslist heeft in rechte te treden;<br />2° de schriftelijke volmacht van zijn raadsman als die geen advocaat is;<br />3° de overtuigingsstukken die in de inventaris zijn vermeld.<br /><br />
+...
 
 ### ART. 18.
 
-§ 1. Het verzoekschrift tot tussenkomst wordt ingediend binnen een vervaltermijn van twintig dagen die ingaat de dag na de dag van de betekening, vermeld in artikel 15, eerste lid.<br /><br />Bij ontstentenis van een betekening kan de Raad een latere tussenkomst toelaten, als die tussenkomst de procedure niet vertraagt.<br /><br />§ 2. Een verzoekschrift tot tussenkomst kan geregulariseerd worden indien :<br />1° het verzoekschrift niet is ondertekend door de verzoekende partij tot tussenkomst of zijn raadsman;<br />2° het verzoekschrift geen woonplaatskeuze bevat;<br />3° er geen inventaris bij het verzoekschrift gevoegd is van de overtuigingsstukken, die allemaal overeenkomstig die inventaris genummerd zijn;<br />4° de stukken, vermeld in artikel 17, derde lid, 1°, niet bij het verzoekschrift, uitgaande van een rechtspersoon, gevoegd zijn;<br />5° de schriftelijke volmacht, vermeld in artikel 17, derde lid, 2°, niet bij het verzoekschrift gevoegd is.<br /><br />Deze regularisatie vindt plaats uiterlijk :<br />1° hetzij op het tijdstip van de zitting waarop de vordering tot schorsing wordt behandeld;<br />2° hetzij op het tijdstip waarop de schriftelijke uiteenzetting, vermeld in artikel 29, wordt ingediend.<br /><br />
+...
 
 ## HOOFDSTUK 5 Schorsing
 
@@ -118,47 +118,47 @@ Een verzoek tot tussenkomst wordt ingediend bij verzoekschrift, ondertekend door
 
 ### ART. 19.
 
-De verweerder dient het administratieve dossier in binnen een vervaltermijn van twintig dagen, die ingaat de dag na deze van de betekening, vermeld in artikel 15, eerste lid, van het enig verzoekschrift.<br /><br />Binnen de termijn, vermeld in het eerste lid, kan de verweerder een nota met opmerkingen over de gevorderde schorsing indienen.<br /><br />
+...
 
 ## Afdeling 2 Zitting
 
 ### ART. 20.
 
-De kamervoorzitter bepaalt bij beschikking :<br />1° de plaats, de dag en het tijdstip van de zitting waarop de vordering tot schorsing wordt behandeld;<br />2° de termijn waarbinnen de partijen of hun raadsman ter griffie inzage kunnen nemen van het administratieve dossier en de overtuigingsstukken.<br /><br />De griffier deelt de beschikking, vermeld in het eerste lid, minstens zeven dagen voor de dag van de zitting mee aan de partijen.<br /><br />Tegelijkertijd bezorgt de griffier de volgende stukken :<br />1° de nota met opmerkingen over de gevorderde schorsing aan de verzoeker en aan de eventueel tussenkomende partijen;<br />2° in voorkomend geval, het ontvankelijke verzoekschrift tot tussenkomst aan de verzoeker en de verweerder.<br /><br />
+...
 
 ### ART. 21.
 
-De kamervoorzitter verklaart de zitting voor geopend. Hij leidt de zitting.<br /><br />De griffier stelt een proces-verbaal van de zitting op, dat hij samen met de kamervoorzitter ondertekent.<br /><br />De kamervoorzitter verklaart de debatten voor gesloten en neemt de zaak in beraad.<br /><br />
+...
 
 ## Afdeling 3 Arrest
 
 ### ART. 22.
 
-Het arrest bevat de gronden en het beschikkende gedeelte en vermeldt :<br />1° de namen, de woonplaats of de zetel van de partijen, de door hen gekozen woonplaats en, in voorkomend geval, de naam en de hoedanigheid van de persoon die de partijen bijstaat of vertegenwoordigt;<br />2° de oproeping van partijen, van hun raadsmannen, alsook hun eventuele aanwezigheid op de zitting;<br />3° de uitspraak in openbare zitting, de datum daarvan en de namen van de raadsleden die erover hebben beraadslaagd.<br /><br />
+...
 
 ### ART. 23.
 
-De griffier brengt op de uitgifte, na het beschikkende gedeelte van het arrest, volgende uitvoeringsformulier aan :<br />« De ministers en de besturen, ieder wat hen betreft, zorgen voor de uitvoering van dit arrest ».<br /><br />
+...
 
 ### ART. 24.
 
-De griffier zendt onmiddellijk een afschrift van het arrest waarbij uitspraak wordt gedaan over de vordering tot schorsing, aan de partijen.<br /><br />De griffier deelt tegelijkertijd aan de partijen de tekst mee van artikel 4.8.19, eerste en tweede lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009 en van afdeling 4 van dit besluit mee.<br /><br />
+...
 
 ## Afdeling 4 Verzoek tot voorzetting
 
 ### ART. 25.
 
-Het verzoek tot voortzetting van de rechtspleging, vermeld in artikel 4.8.19 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, wordt per beveiligde zending ingediend.<br /><br />De griffier bezorgt het ingediende verzoek tot voortzetting van de rechtspleging per beveiligde zending aan de andere partijen.<br /><br />
+...
 
 ## Afdeling 5 Versnelde rechtspleging
 
 ### ART. 26.
 
-Als de Raad de tenuitvoerlegging van de bestreden beslissing geschorst heeft en de verweerder of de tussenkomende partij binnen de vervaltermijn, vermeld in artikel 4.8.19, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, geen verzoek tot voortzetting van de procedure heeft ingediend, deelt de griffier de partijen per beveiligde zending mee dat de kamer uitspraak zal doen over de vordering tot vernietiging van de bestreden beslissing.<br /><br />De verweerder of de tussenkomende partij beschikt over een vervaltermijn van vijftien dagen, die ingaat de dag na de dag van de betekening, om te vragen te worden gehoord.<br /><br />Als geen van die partijen vraagt te worden gehoord, kan de kamer de bestreden beslissing onmiddellijk vernietigen.<br /><br />Als een partij vraagt te worden gehoord, roept de kamervoorzitter de partijen bij beschikking, als vermeld in artikel 20, op om spoedig te verschijnen.<br /><br />Nadat de kamer de partijen heeft gehoord, doet ze onmiddellijk uitspraak over de vordering tot vernietiging.<br /><br />
+...
 
 ### ART. 27.
 
-§ 1. Als de Raad de vordering tot schorsing heeft verworpen en de verzoeker binnen de vervaltermijn, vermeld in artikel 4.8.19, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, geen verzoek tot voortzetting van de procedure heeft ingediend, deelt de griffier de partijen per beveiligde zending mee dat de kamer ten aanzien van de verzoeker de afstand van geding zal uitspreken, tenzij de verzoeker binnen een vervaltermijn van vijftien dagen, die ingaat de dag na de dag van de betekening vraagt te worden gehoord.<br /><br />§ 2. Als de verzoeker niet vraagt te worden gehoord, spreekt de kamer de afstand van geding uit.<br /><br />Als de verzoeker vraagt te worden gehoord, roept de kamervoorzitter de partijen bij beschikking, als vermeld in artikel 20, op om spoedig te verschijnen.<br /><br />Nadat de kamer de partijen heeft gehoord, doet ze onmiddellijk uitspraak over de afstand van geding.<br /><br />§ 3. Als verschillende verzoekers gemeenschappelijk een enig verzoekschrift hebben ingediend en een verzoek tot voortzetting van de procedure slechts door sommigen van de verzoekers wordt ingediend, worden de overige verzoekers geacht afstand te doen van geding. De kamer doet uitspraak over de afstand van degenen die geen verzoek tot voortzetting van de procedure hebben ingediend in het arrest over de vordering tot vernietiging.<br /><br />
+...
 
 ## HOOFDSTUK 6 Vernietiging
 
@@ -168,53 +168,53 @@ Als de Raad de tenuitvoerlegging van de bestreden beslissing geschorst heeft en 
 
 ### ART. 28.
 
-§ 1. Als het verzoekschrift alleen een vordering tot vernietiging bevat, beschikt de verweerder over een vervaltermijn van vijfenveertig dagen om een antwoordnota en het administratieve dossier in te dienen.<br /><br />Als het administratieve dossier niet in het bezit is van de verweerder, brengt hij de griffie daarvan onmiddellijk en schriftelijk op de hoogte en geeft hij aan waar het administratieve dossier zich bij zijn weten bevindt.<br /><br />De griffier vordert op verzoek van de Raad de mededeling ervan aan het bestuursorgaan dat het administratieve dossier onder zich heeft. Dat bestuursorgaan zendt het gevorderde dossier onmiddellijk naar de griffie.<br /><br />De termijn van vijfenveertig dagen gaat in :<br />1° als het administratieve dossier in het bezit is van de verweerder : vanaf de dag na de dag van de betekening van het afschrift van het verzoekschrift, vermeld in artikel 15, eerste lid;<br />2° als het administratieve dossier niet in het bezit is van de verweerder : vanaf de betekening door de griffier dat het administratieve dossier is neergelegd.<br /><br />§ 2. Als het verzoekschrift een vordering tot vernietiging en een vordering tot schorsing bevat, beschikt de verweerder over een vervaltermijn van dertig dagen om de antwoordnota in te dienen, die ingaat :<br />1° als de schorsing wordt bevolen : de dag na de dag van de betekening van het arrest waarin de schorsing wordt bevolen;<br />2° als de vordering tot schorsing wordt verworpen : de dag na de dag van de betekening door de griffier van het door de verzoeker ingediende verzoek tot voortzetting van de rechtspleging.<br /><br />
+...
 
 ## Onderafdeling 2 De schriftelijke uiteenzetting van de tussenkomende partij
 
 ### ART. 29.
 
-§ 1. Als het verzoekschrift alleen een vordering tot vernietiging bevat, beschikt de tussenkomende partij over een vervaltermijn van dertig dagen om een schriftelijke uiteenzetting in te dienen.<br /><br />De termijn van dertig dagen gaat in de dag na de dag van de betekening van de uitspraak over de ontvankelijkheid van het verzoek tot tussenkomst.<br /><br />§ 2. Als het verzoekschrift een vordering tot vernietiging en een vordering tot schorsing bevat, gaat de vervaltermijn van dertig dagen om de schriftelijke uiteenzetting in te dienen, in :<br />1° als de schorsing wordt bevolen : de dag na de dag van de betekening van het arrest waarin de schorsing wordt bevolen;<br />2° als de vordering tot schorsing wordt verworpen : de dag na de dag van de betekening door de griffier van het door de verzoeker ingediende verzoek tot voortzetting van de rechtspleging.<br /><br />
+...
 
 ## Onderafdeling 3 De wederantwoordnota of toelichtende nota van de verzoeker
 
 ### ART. 30.
 
-De griffier betekent een afschrift van de antwoordnota aan de verzoeker en brengt die ook op de hoogte van de neerlegging van het administratieve dossier.<br />In geval van een tussenkomst betekent de griffier gelijktijdig een afschrift van de antwoordnota en van de schriftelijke uiteenzetting van de tussenkomende partij aan de verzoeker.<br /><br />
+...
 
 ### ART. 31.
 
-De verzoeker kan een wederantwoordnota indienen binnen een vervaltermijn van dertig dagen.<br /><br />De termijn van dertig dagen, vermeld in het eerste lid, gaat in de dag na de dag van de betekening van het afschrift van de antwoordnota.<br /><br />De griffier bezorgt een afschrift van de wederantwoordnota aan de verweerder en, in geval van een tussenkomst, aan de tussenkomende partij.<br /><br />
+...
 
 ### ART. 32.
 
-Als de verweerder geen tijdige antwoordnota heeft ingediend, stelt de griffier de verzoeker daarvan in kennis. In dat geval mag de verzoeker de wederantwoordnota vervangen door een toelichtende nota.<br /><br />
+...
 
 ## Onderafdeling 4 Getuigen
 
 ### ART. 33.
 
-§ 1. De partij die wil dat een getuige wordt gehoord, dient daarvoor een afzonderlijk gemotiveerd verzoek in tijdens het vooronderzoek.<br /><br />De kamervoorzitter oordeelt over de noodzakelijkheid en relevantie van het horen van een getuige. De griffier brengt de aanvrager op de hoogte van de beslissing of de getuige gehoord zal worden.<br /><br />§ 2. Als de kamervoorzitter beslist een getuige te horen, betaalt de partij die dat verhoor gevraagd heeft, binnen de door de kamervoorzitter bepaalde termijn, een voorschot ten bedrage van het getuigengeld. De kamervoorzitter kan een aanvullend voorschot eisen als daarvoor grond bestaat.<br /><br />Het verschuldigde bedrag wordt gestort op de rekening van het Grondfonds.<br /><br />De betekening, vermeld in paragraaf 1, tweede lid, vermeldt het bedrag van het verschuldigde getuigengeld en de betalingstermijn.<br /><br />§ 3. Als de leidend ambtenaar van het departement vraagt om een getuige te horen, wordt het getuigengeld voorgeschoten vanuit het Grondfonds en als uitgaven in de rekeningen ten laste van de begroting van het Grondfonds geboekt.<br /><br />§ 4. Als de partij het vereiste voorschot niet tijdig betaalt, wordt ze geacht af te zien van het horen van de getuige.<br /><br />
+...
 
 ## Afdeling 2 Zitting
 
 ### ART. 34.
 
-Na afloop van het vooronderzoek bepaalt de kamervoorzitter bij beschikking :<br />1° de plaats, de dag en het tijdstip van de zitting waarop de vordering tot vernietiging wordt behandeld;<br />2° de termijn waarbinnen de partijen of hun raadsman ter griffie inzage kunnen nemen van het administratieve dossier en de overtuigingsstukken;<br />3° de namen van de getuigen en de feiten waarover ze zullen worden gehoord, als de kamervoorzitter heeft beslist een getuige te horen.<br /><br />De griffier deelt die beschikking minstens vijftien dagen voor de dag van de zitting mee aan de partijen en aan de getuigen.<br /><br />Deze beschikking geldt ten aanzien van de getuigen als oproeping.<br /><br />
+...
 
 ### ART. 35.
 
-§ 1. De kamervoorzitter verklaart de zitting voor geopend. Hij leidt de zitting.<br /><br />§ 2. De kamervoorzitter hoort, in voorkomend geval, de getuigen.<br /><br />De griffier stelt een proces-verbaal van het verhoor op dat hij samen met de kamervoorzitter en de gehoorde getuige ondertekent.<br /><br />§ 3. De griffier stelt een proces-verbaal van de zitting op dat hij samen met de kamervoorzitter ondertekent.<br /><br />De kamervoorzitter verklaart de debatten voor gesloten en neemt de zaak in beraad.<br /><br />
+...
 
 ## Afdeling 3 Arrest
 
 ### ART. 36.
 
-Het arrest bevat de gegevens, vermeld in artikel 22.<br /><br />De griffier zendt onmiddellijk een afschrift van het arrest waarbij uitspraak wordt gedaan over de vordering tot vernietiging, aan de partijen.<br /><br />
+...
 
 ### ART. 37.
 
-De griffier brengt op de uitgifte, na het beschikkende gedeelte van het arrest, het uitvoeringsformulier, vermeld in artikel 23, aan.<br /><br />
+...
 
 ## HOOFDSTUK 7 Tussengeschillen
 
@@ -222,61 +222,61 @@ De griffier brengt op de uitgifte, na het beschikkende gedeelte van het arrest, 
 
 ### ART. 38.
 
-De Raad vermeldt in zijn tussenuitspraak op welke wijze en binnen welke termijn de onregelmatigheid kan worden hersteld.<br /><br />
+...
 
 ### ART. 39.
 
-De griffier deelt binnen een ordetermijn van vijftien dagen na de dagtekening van de tussenuitspraak, vermeld in artikel 4.8.4, § 1, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, die tussenuitspraak mee aan de partijen.<br /><br />De griffier brengt de partijen ervan op de hoogte of het vergunningverlenende bestuursorgaan wil gebruikmaken van de mogelijkheid om een onregelmatigheid in de bestreden beslissing te herstellen of te laten herstellen.<br /><br />Als het vergunningverlenende bestuursorgaan overgaat tot herstel van de onregelmatigheid, bezorgt de griffier een afschrift van de mededeling, vermeld in artikel 4.8.4, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, per beveiligde zending aan de andere partijen.<br /><br />Partijen kunnen binnen een vervaltermijn van dertig dagen, die ingaat de dag na de dag van de betekening, vermeld in derde lid, schriftelijk hun zienswijze meedelen over de wijze waarop de onregelmatigheid is hersteld.<br /><br />Ter uitvoering van artikel 4.8.4, § 3, van de voormelde codex beschikt de Raad over een ordetermijn van twintig dagen om de partijen mee te delen op welke wijze het beroep verder wordt behandeld.<br /><br />
+...
 
 ## Afdeling 2 Bemiddeling
 
 ### ART. 40.
 
-§ 1. De partijen kunnen tijdens het vooronderzoek de Raad om een bemiddelingspoging verzoeken met een gemotiveerd verzoek tot bemiddeling, ondertekend door alle partijen of hun raadsman.<br /><br />§ 2. Het verzoek tot bemiddeling, vermeld in paragraaf 1, bevat :<br />1° de naam, de hoedanigheid, de woonplaats of de zetel van de partijen en de gekozen woonplaats;<br />2° de vermelding van de zaak waarin om bemiddeling verzocht wordt, en het rolnummer waaronder de zaak ingeschreven is;<br />3° eventueel de identiteit van de persoon die wordt voorgedragen als externe bemiddelaar.<br /><br />Partijen voegen aan het verzoek tot bemiddeling de overtuigingsstukken toe waaruit blijkt dat een voorgedragen externe bemiddelaar voldoet aan de voorwaarden, vermeld in artikel 4.8.5, § 2, derde lid, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br /><br />Partijen kunnen aan het verzoek alle overtuigingsstukken toevoegen die ze nuttig achten.<br /><br />§ 3. Als niet voldaan is aan de vormvereisten, vermeld in paragraaf 1 en 2, stelt de griffier de partijen in staat om het verzoek tot bemiddeling te regulariseren binnen een vervaltermijn van vijftien dagen, die ingaat de dag na de dag van de betekening van het verzoek tot regularisatie.<br /><br />
+...
 
 ### ART. 41.
 
-De partijen kunnen tijdens een zitting de Raad om een bemiddelingspoging verzoeken.<br /><br />De griffier stelt een proces-verbaal van het gemotiveerde verzoek tot bemiddeling op, dat hij samen met de kamervoorzitter en alle partijen of hun raadsman ondertekent.<br /><br />
+...
 
 ### ART. 42.
 
-De kamer doet bij tussenarrest als vermeld in artikel 4.8.5, § 1, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, uitspraak over het verzoek tot bemiddeling.<br /><br />Het tussenarrest waarbij het verzoek tot bemiddeling wordt ingewilligd, vermeldt uitdrukkelijk :<br />1° het akkoord van de partijen;<br />2° de identiteit van de bemiddelaar;<br />3° de inhoud van de opdracht van de bemiddelaar;<br />4° de termijn van de opdracht die maximaal zes maanden bedraagt en die ingaat de dag na de dag van de betekening, vermeld in het vierde lid;<br />5° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn is.<br /><br />Het tussenarrest waarbij het verzoek tot bemiddeling wordt afgewezen, wordt met redenen omkleed.<br /><br />De griffier zendt onmiddellijk een afschrift van het tussenarrest, vermeld in het eerste lid, aan de partijen en, in voorkomend geval, aan de bemiddelaar.<br /><br />
+...
 
 ### ART. 43.
 
-De bemiddelaar beschikt over een termijn van vijftien dagen, die ingaat de dag na de dag van de betekening van het tussenarrest, vermeld in artikel 42, vierde lid, om de griffier te laten weten of hij zijn opdracht aanvaardt.<br /><br />Als de aangewezen externe bemiddelaar de opdracht aanvaardt, bezorgt de griffier hem een afschrift van het administratieve dossier.<br /><br />
+...
 
 ### ART. 44.
 
-Na de ontvangst van de bemiddelingsopdracht en het administratieve dossier en zodra het nuttig is, nodigt de bemiddelaar de partijen uit binnen een termijn die hij bepaalt.<br /><br />Bij de uitnodiging voegt de bemiddelaar een inventaris van de stukken die al bezorgd zijn aan hem.<br /><br />Partijen kunnen de bemiddelaar bijkomende stukken bezorgen die ze nuttig achten.<br /><br />
+...
 
 ### ART. 45.
 
-§ 1. Uiterlijk tijdens de zitting, vermeld in artikel 42, tweede lid, 5°, informeren de partijen de kamer over het resultaat van de bemiddeling.<br /><br />§ 2. Als de bemiddeling tot een bemiddelingsakkoord leidt, kunnen de partijen of kan een van de partijen de kamer verzoeken om dat akkoord te bekrachtigen.<br /><br />§ 3. Als de partijen niet tot een akkoord zijn gekomen, kunnen ze om een nieuwe bemiddelingstermijn verzoeken.<br /><br />De kamer doet bij tussenarrest uitspraak over het verzoek om een nieuwe bemiddelingstermijn.<br /><br />Het tussenarrest waarbij het verzoek voor een nieuwe bemiddelingstermijn wordt ingewilligd, vermeldt uitdrukkelijk :<br />1° de inhoud van de opdracht van de bemiddelaar;<br />2° de nieuwe termijn van de opdracht die maximaal drie maanden bedraagt en die ingaat de dag na de dag van de betekening van het tussenarrest;<br />3° de datum waarnaar de zaak is verdaagd, die de eerste nuttige datum na het verstrijken van de termijn is.<br /><br />De griffier zendt onmiddellijk een afschrift van het tussenarrest, vermeld in het tweede lid, aan de partijen en aan de bemiddelaar.<br /><br />Met toepassing van deze paragraaf kan de termijn van de opdracht op verzoek van de partijen telkens met maximaal drie maanden verlengd worden.<br /><br />§ 4. Bij het ontbreken van een bemiddelingsakkoord, al dan niet na een verlengde bemiddelingstermijn, wordt bij tussenarrest de voortzetting van de jurisdictionele procedure bevolen.<br /><br />De griffier zendt onmiddellijk een afschrift van het tussenarrest, vermeld in het eerste lid, aan de partijen en aan de bemiddelaar.<br /><br />§ 5. De kamer kan, op basis van de informatie die hij ontvangt op de zitting, vermeld in paragraaf 1, met een tussenarrest vaststellen dat de randvoorwaarden voor een geslaagde bemiddeling niet of niet langer zijn vervuld, en kan een einde stellen aan de bemiddelingspoging.<br /><br />In dat geval zendt de griffier onmiddellijk een afschrift van het tussenarrest, vermeld in het eerste lid, aan de partijen en aan de bemiddelaar.<br /><br />
+...
 
 ## Afdeling 3 Hervatting
 
 ### ART. 46.
 
-Als een van de partijen voor de sluiting van de debatten overlijdt, kan het geding worden hervat.<br /><br />Behalve in een spoedeisend geval wordt de rechtspleging geschorst gedurende de termijn die aan de erfgenamen wordt toegekend om de inventaris op te maken en te beraadslagen.<br /><br />
+...
 
 ### ART. 47.
 
-De rechthebbenden van de overledene hervatten het geding bij een verzoekschrift dat wordt ingediend op de wijze, vermeld in artikel 11, eerste lid.<br /><br />De rechthebbenden voegen bij het verzoekschrift tot hervatting de overtuigingsstukken waaruit hun hoedanigheid van rechthebbende blijkt.<br /><br />De griffier bezorgt een afschrift van dat verzoekschrift aan de partijen.<br /><br />
+...
 
 ### ART. 48.
 
-Zodra een verzoekschrift tot hervatting is ingediend en uiterlijk op het ogenblik dat de termijn voor de opmaak van de inventaris en voor beraad verstreken is, wordt de rechtspleging geldig hervat tegen de rechthebbenden van de overledene, bij verzoekschrift ingediend op de wijze, vermeld in artikel 11, eerste lid.<br /><br />
+...
 
 ### ART. 49.
 
-In de andere gevallen dan de gevallen vermeld in artikel 46, waarin grond bestaat tot hervatting van het rechtsgeding, gebeurt dat door een verklaring ter griffie.<br /><br />
+...
 
 ## HOOFDSTUK 8 Geldboete wegens kennelijk onrechtmatig beroep
 
 ### ART. 50.
 
-Als de kamer vindt dat een geldboete wegens kennelijk onrechtmatig beroep verantwoord kan zijn, bepaalt het arrest waarmee uitspraak wordt gedaan over de vordering tot vernietiging daarvoor een zitting op een nabije datum.<br /><br />Het arrest dat de geldboete oplegt, geldt in elk geval als op tegenspraak gewezen.<br /><br />De griffier zendt onmiddellijk een afschrift van het arrest waarbij uitspraak wordt gedaan over de geldboete wegens kennelijk onrechtmatig beroep, aan de partijen.<br /><br />De bepalingen van het vijfde deel van het Gerechtelijk Wetboek die op het beslag en de tenuitvoerlegging betrekking hebben, zijn van overeenkomstige toepassing op de tenuitvoerlegging van het arrest waarbij een geldboete wegens kennelijk onrechtmatig beroep is opgelegd.<br /><br />
+...
 
 ## HOOFDSTUK 9 Verzoek tot opheffing of verbetering of beroep tot herziening
 
@@ -284,19 +284,19 @@ Als de kamer vindt dat een geldboete wegens kennelijk onrechtmatig beroep verant
 
 ### ART. 51.
 
-§ 1. De vordering tot opheffing wordt ingesteld door een verzoekschrift dat ondertekend is door een partij of door haar raadsman.<br /><br />Het verzoekschrift wordt gedagtekend en bevat :<br />1° de opgave van het arrest waarvan de opheffing wordt gevorderd;<br />2° de naam, de hoedanigheid, de woonplaats of de zetel van de verzoeker tot opheffing en de gekozen woonplaats;<br />3° een uiteenzetting van de feiten en de redenen waaruit blijkt dat de schorsing niet langer gerechtvaardigd is;<br />4° een inventaris van de overtuigingsstukken.<br /><br />De verzoeker tot opheffing voegt bij het verzoekschrift :<br />1° als hij een rechtspersoon is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daartoe bevoegde orgaan beslist heeft in rechte te treden;<br />2° de schriftelijke volmacht van zijn raadsman als die geen advocaat is;<br />3° de overtuigingsstukken die in de inventaris zijn vermeld.<br /><br />§ 2. De griffier bezorgt onmiddellijk een afschrift van het verzoekschrift aan de andere partijen.<br /><br />Iedere partij kan binnen een vervaltermijn van vijftien dagen, die ingaat de dag na de dag van de betekening, vermeld in het eerste lid, een aanvullend dossier en een nota met opmerkingen over de gevorderde opheffing indienen.<br /><br />De griffier bezorgt een afschrift van de nota met opmerkingen over de gevorderde opheffing aan de andere partijen.<br /><br />§ 3. De kamervoorzitter bepaalt bij beschikking de plaats, de dag en het tijdstip van de zitting waarop de vordering tot opheffing wordt behandeld.<br /><br />De griffier deelt die beschikking minstens zeven dagen voor de dag van de zitting mee aan de partijen.<br /><br />§ 4. Als de verzoeker tot opheffing noch verschijnt, noch vertegenwoordigd is op de zitting, wordt zijn vordering afgewezen.<br /><br />De andere partijen die niet verschijnen of niet vertegenwoordigd zijn, worden geacht in te stemmen met de vordering.<br /><br />
+...
 
 ## Afdeling 2 Herziening
 
 ### ART. 52.
 
-§ 1. Een beroep tot herziening is alleen ontvankelijk als het beroep ingesteld wordt binnen een vervaltermijn van vijfenveertig dagen, die ingaat de dag na de dag waarop ontdekt is dat een stuk vals is of dat een achtergehouden stuk bestaat.<br /><br />§ 2. Een beroep tot herziening wordt ingesteld door een verzoekschrift dat ondertekend is door een partij of door haar raadsman.<br /><br />Het verzoekschrift wordt gedagtekend en bevat :<br />1° de naam, de hoedanigheid, de woonplaats of de zetel van de partij en de gekozen woonplaats;<br />2° de opgave van het arrest waarvan de herziening wordt gevorderd;<br />3° een omschrijving van het belang van de verzoeker;<br />4° de vermelding van de teruggevonden doorslaggevende stukken die door toedoen van de tegenpartij waren achtergehouden of van de als vals erkende of vals verklaarde stukken;<br />5° een inventaris van de stukken.<br /><br />De verzoeker tot herziening voegt bij het verzoekschrift :<br />1° als hij een rechtspersoon is, een afschrift van zijn geldende en gecoördineerde statuten en van de akte van aanstelling van zijn organen, alsook het bewijs dat het daartoe bevoegde orgaan beslist heeft in rechte te treden;<br />2° de schriftelijke volmacht van zijn raadsman als die geen advocaat is;<br />3° de overtuigingsstukken die in de inventaris zijn vermeld.<br /><br />De griffier bezorgt een afschrift van het verzoekschrift aan de andere partijen bij het bestreden arrest.<br /><br />Het beroep tot herziening wordt aanhangig gemaakt bij de kamer die het bestreden arrest heeft gewezen.<br /><br />§ 3. Als de verzoeker tot herziening noch verschijnt, noch vertegenwoordigd is op de zitting, wordt zijn vordering afgewezen.<br /><br />
+...
 
 ## Afdeling 3 Verbetering
 
 ### ART. 53.
 
-Als de Raad een verbeterend arrest uitspreekt, overeenkomstig artikel 4.8.32, § 3, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, zendt de griffier onmiddellijk een afschrift van het verbeterende arrest aan de partijen.<br /><br />
+...
 
 ## HOOFDSTUK 10 Kosten
 
@@ -304,42 +304,42 @@ Als de Raad een verbeterend arrest uitspreekt, overeenkomstig artikel 4.8.32, §
 
 ### ART. 54.
 
-De bedragen die verschuldigd zijn overeenkomstig dit hoofdstuk, worden vijfjaarlijks op 1 januari geïndexeerd op basis van de ABEX-index, met als basisindex die van januari 2010, en met een eerste indexatie op 1 januari 2015.<br /><br />De bedragen worden afgerond op de dichtstbijzijnde euro, behalve het bedrag, vermeld in artikel 58, dat afgerond wordt op het dichtstbijzijnde veelvoud van 10 cent.<br /><br />Als dat tot een resultaat leidt dat precies de helft van een euro of van tien cent is, wordt het bedrag naar boven afgerond.<br /><br />
+...
 
 ## Afdeling 2 Rolrechten
 
 ### ART. 55.
 
-§ 1. Het rolrecht dat verschuldigd is per verzoeker bij het aanhangig maken van een vordering tot vernietiging, bedraagt 175 euro.<br /><br />Het rolrecht dat verschuldigd is per verzoeker bij het indienen van een vordering tot schorsing, bedraagt 100 euro.<br /><br />Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro, ongeacht of de tussenkomst geldt voor de vordering tot schorsing of de vordering tot vernietiging.<br /><br />§ 2. De leidend ambtenaar van het departement of bij zijn afwezigheid zijn gemachtigde, die optreedt in de zin van artikel 4.8.11, § 1, eerste lid, 5°, van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, is vrijgesteld van de betaling van enig rolrecht.<br /><br />§ 3. De verzoeker of tussenkomende partij die aantoont dat zijn inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig rolrecht.<br /><br />De verzoeker of tussenkomende partij richt daarvoor een verzoek aan de Raad gelijktijdig met het indienen van zijn verzoekschrift.<br /><br />De ontoereikendheid van de inkomsten wordt beoordeeld op basis van het koninklijk besluit van 18 december 2003 tot vaststelling van de voorwaarden van de volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand en de rechtsbijstand.<br /><br />§ 4. De griffier deelt de verzoeker of tussenkomende partij het verschuldigde bedrag of de beslissing over de vrijstelling van de betaling van het rolrecht mee.<br /><br />
+...
 
 ### ART. 56.
 
-Het verschuldigde rolrecht wordt binnen een termijn van vijftien dagen, die ingaat de dag na de dag van de betekening, vermeld in artikel 55, § 4, gestort op de rekening van het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br /><br />
+...
 
 ## Afdeling 3 Getuigengeld
 
 ### ART. 57.
 
-Aan iedere getuige, ook al verschijnt hij vrijwillig, wordt gevraagd of hij getuigengeld wil.<br /><br />Het getuigengeld bedraagt maximaal 200 euro en wordt door de kamer begroot en toegekend.<br /><br />De kosten voor het vervoer op de voordeligste wijze moeten in het getuigengeld begrepen zijn.<br /><br />
+...
 
 ## Afdeling 4 Vergoeding voor afschriften of uittreksels
 
 ### ART. 58.
 
-Buiten de kosteloze zending van afschriften van de uitspraak van de Raad overeenkomstig artikel 4.8.29 van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, geeft de afgifte door de griffier van een afschrift of uittreksel van een uitspraak aanleiding tot de betaling van een vergoeding van 50 eurocent per bladzijde.<br /><br />Als de griffier het afschrift of uittreksel per post opstuurt, is een aanvullende vergoeding verschuldigd die gelijk is aan de kosten van een niet-aangetekende brief van genormaliseerd formaat.<br /><br />Het verschuldigde bedrag wordt gestort op de rekening van het Grondfonds met de vermelding van het arrestnummer en de naam van de persoon die het afschrift of uittreksel aanvraagt, voor de griffier het afschrift of het uittreksel uitreikt.<br /><br />De gewestelijke stedenbouwkundige ambtenaar of de leidend ambtenaar van het departement of, bij zijn afwezigheid, zijn gemachtigde die om de afgifte van een afschrift of een uittreksel van een uitspraak verzoekt, is vrijgesteld van de betaling van de vergoedingen, vermeld in het eerste lid.<br /><br />
+...
 
 ## TITEL 3 Wijzigingsbepalingen
 
 ### ART. 59.
 
-In het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van sommige aspecten van de organisatie en werking van de Raad voor vergunningsbetwistingen worden de volgende artikelen opgeheven :<br />1° artikel 2, gewijzigd bij het besluit van de Vlaamse Regering van 24 september 2010;<br />2° artikel 9, vervangen bij het besluit van de Vlaamse Regering van 15 juli 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 23 maart 2012;<br />3° artikel 9/1 tot en met 9/3, ingevoegd bij het besluit van de Vlaamse Regering van 15 juli 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 23 maart 2012.<br /><br />
+...
 
 ## TITEL 4 Slotbepalingen
 
 ### ART. 60.
 
-De volgende regelgevende teksten treden in werking op 1 september 2012 :<br />1° het decreet van 6 juli 2012 houdende wijziging van diverse bepalingen van de Vlaamse Codex Ruimtelijke Ordening, wat de Raad voor Vergunningsbetwistingen betreft;<br />2° dit besluit.<br /><br />
+...
 
 ### ART. 61.
 
-De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitvoering van dit besluit.<br /><br />
+...
