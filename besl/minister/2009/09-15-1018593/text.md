@@ -74,6 +74,10 @@ Het Vlaams Energieagentschap kan technische richtsnoeren vastleggen met betrekki
 
 In afwijking van artikel 4/1, § 1, derde lid kan voor dossiers waar op 1   juni 2014 de innovatieve gebouwen reeds in gebruik zijn genomen, maar waarvoor   er nog geen EPB-aangifte is ingediend, of de werken zijn gestart maar de   innovatieve gebouwen zijn nog niet in gebruik genomen, er tot 30 september 2014   toch een aanvraag worden ingediend om te worden behandeld conform de procedure,   vermeld in artikel 4/1.
 
+### ART. 7/2.
+
+In afwijking van bijlage XII van het ministerieel besluit van 2 april 2007   betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het   model van het energieprestatiecertificaat bij de bouw, kunnen de   reductiefactoren voor ventilatie voor vraaggestuurde systemen,   f<SUB>reduc,vent,heat,seci</SUB>, f<SUB>freduc,vent,cool,seci</SUB> en   f<SUB>reduc,vent,overh,seci</SUB>, die zijn vastgesteld op datum van 31 december   2014 conform de procedures beschreven in hoofdstuk II, nog worden gebruikt voor   dossiers met aanvraagdatum van de stedenbouwkundige vergunning of meldingsdatum   tot 31 december 2015.
+
 ### ART. 8.
 
 Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de gelijkwaardigheid van innoverende bouwconcepten en technologieën in het kader van de energieprestatieregelgeving wordt opgeheven.

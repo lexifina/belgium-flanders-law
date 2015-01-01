@@ -2,16 +2,16 @@
   "codex_id": 1018593,
   "title": "Ministerieel besluit van 2009-09-15 betreffende de vaststelling van de gelijkwaardigheid van innovatieve systemen, bouwconcepten of technologieën in het kader van de energieprestatieregelgeving",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018593/VolledigDocument?datum=2014-05-27",
-  "source_sha256": "b716941febbd60082d83a903e07a029cc8b29cb1034177bc4d1b16a774bf3918",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018593/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "df45c217bd2b9fd9eeb4da6588dc18a35ce9cdffaff5d35dd54fe36a9822c99c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018593&param=informatie",
-  "as_of": "2014-05-27",
+  "as_of": "2015-01-01",
   "made": "2009-09-15",
   "gazette": "2009-12-16",
   "numac": 2009205695,
   "document_start": "2009-12-26",
   "document_end": "2018-12-31",
-  "in_force": "2014-05-27",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2014-05-27; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
