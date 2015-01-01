@@ -10,7 +10,7 @@ Om voor subsidiëring in aanmerking te komen, moet een centrum voor kortverblijf
 
 ### ART. 1.
 
-In artikel 3, 1°, a) van het ministerieel besluit van 14 maart 2008 houdende de benoeming van de leden van de sectorraden voor Kunsten en Erfgoed, voor Sociaal-Cultureel Werk voor Jeugd en Volwassenen en voor Sport van de Raad voor Cultuur, Jeugd, Sport en Media wordt de heer Kat, Fatih, vervangen door :<br />« 7) De heer Kempenaers, Farid, Brusselsesteenweg 261, 2800 Mechelen ».<br />Artikel 3, 1°, b) reservepool, wordt aangevuld als volgt :<br />De heer Haudenhuyse, Reinhard, Pleinlaan 2, 1050 Brussel.<br /><br />
+...
 
 ### ART. 2.
 
@@ -18,7 +18,7 @@ Het centrum voor kortverblijf moet het formulier dat beschikbaar wordt gesteld o
 
 ### ART. 2.
 
-Artikel 3, 2°, van het ministerieel besluit van 14 maart 2008 houdende de benoeming van de leden van de sectorraden voor Kunsten en Erfgoed, voor Sociaal-Cultureel Werk voor Jeugd en Volwassenen en voor Sport van de Raad voor Cultuur, Jeugd, Sport en Media wordt gewijzigd als volgt :<br /><br />« 15) Op voordracht van het Vlaams Instituut voor Sportbeheer en Recreatiebeleid : plaatsvervangend lid de heer Johan Van Dijcke, Broekstraat 9, 2820 Rijmenam, wordt effectief lid, voleindigt het mandaat van de heer Mohamed Meftah ».<br /><br />
+...
 
 ### ART. 3.
 
@@ -26,16 +26,16 @@ Artikel 3, 2°, van het ministerieel besluit van 14 maart 2008 houdende de benoe
 
 ### ART. 3.
 
-Dit besluit treedt onmiddellijk in werking.<br /><br />
+...
 
 ### ART. 4.
 
-Het saldo wordt vereffend in de loop van het kalenderjaar, volgend op het jaar van uitbetaling van het voorschot, na goedkeuring door het Vlaams Agentschap Zorg en Gezondheid van het formulier, vermeld in artikel 2.<br /><br />
+...
 
 ### ART. 5.
 
-Het ministerieel besluit van 21 april 2009 tot vaststelling van de subsidiëringswijze van de centra voor kortverblijf wordt opgeheven.<br /><br />
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 januari 2010. <br /><br />
+...
