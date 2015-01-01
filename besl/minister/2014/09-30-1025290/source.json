@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025290,
+  "title": "Ministerieel besluit van 2014-09-30 tot bepaling van het maximaal aantal subsidiabele uren aan nieuw erkende diensten voor oppashulp voor het werkjaar 2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025290/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "829bb68a5401307ff744f9e12b65dc722cf52f4a35e8ce04f1ed2857017c1d52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025290&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-09-30",
+  "gazette": "2015-04-17",
+  "numac": 2015035456,
+  "document_start": "2015-01-01",
+  "document_end": "2014-12-31",
+  "in_force": "2015-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
