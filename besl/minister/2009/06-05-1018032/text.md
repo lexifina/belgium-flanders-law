@@ -54,7 +54,7 @@ Voor zover de belangen van haar leden niet worden geschaad kan een budgethouders
 
 ### ART. 13.
 
-Het intern verzelfstandigd agentschap Zorginspectie, bedoeld in artikel 1   van het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het   intern verzelfstandigd agentschap Zorginspectie, controleert vanaf 1 juni 2010   of de bepalingen van dit besluit worden nageleefd.<BR><BR>
+Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein, controleert   vanaf 1 juni 2010 of de bepalingen van dit besluit worden   nageleefd.<BR><BR>
 
 ### ART. 14.
 
