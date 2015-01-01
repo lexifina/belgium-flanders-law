@@ -2,16 +2,16 @@
   "codex_id": 1014783,
   "title": "Ministerieel besluit van 2000-02-19 tot vaststelling van de schema's met de voorwaarden waaraan teeltmateriaal van fruitgewassen en fruitgewassen die voor de fruitteelt worden gebruikt moeten voldoen, van de uitvoeringsbepalingen met betrekking tot het toezicht op en de controle van leveranciers van deze materialen, van hun bedrijven en van de laboratoria, van de erkenning van de laboratoria en van uitvoeringsbepalingen met betrekking tot de door leveranciers bij te houden lijsten van rassen van bovenvermelde gewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014783/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "7946b137b0c436d5754f604b4ef0bf334b7a08256e0546b8fc14399c739fb85f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014783/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "a65b6e499676a410d5ce24b143097e78a33caad82c57b5eacfca9170829e3112",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014783&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "2000-02-19",
   "gazette": "2000-05-04",
   "numac": 0,
   "document_start": null,
   "document_end": "2016-12-31",
-  "in_force": "2006-06-01",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
