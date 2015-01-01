@@ -750,7 +750,20 @@ Een milieudeskundige in de discipline lucht, erkend volgens titel II van het VLA
 
 ### ART. 103/1.
 
-In afwijking van artikel 32, § 2, eerste lid, 6°, wordt tot uiterlijk 1   januari 2015 een persoon die minstens aan een van de volgende voorwaarden   voldoet, beschouwd als een erkende airco-energiedeskundige :<BR>1° een   certificaat als vermeld in artikel 14, § 1, 1° en 2°, van het besluit van de   Vlaamse Regering van 4 september 2009 inzake de certificering van koeltechnische   bedrijven en hun koeltechnici, behaald hebben;<BR>2° een bachelor in de   elektromechanica, afstudeerrichting klimatisering behaald hebben;<BR>3° een   diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële   koeltechnieken of koeltechnische installaties behaald hebben;<BR>4° een van de   volgende getuigschriften behaald hebben die erkend zijn door de Vlaamse overheid   :<BR>a) een getuigschrift van technicus klimaatbeheersing -   airconditioning;<BR>b) een getuigschrift van installateur airco- en   warmtepompen;<BR>c) een getuigschrift van koeltechnicus;<BR>d) een   modulegetuigschrift airco;<BR>5° in het volwassenenonderwijs het diploma van   koeltechnicus, het certificaat van aircotechnicus of het certificaat van   koeltechnicus behaald hebben;<BR>6° onderdaan zijn van een lidstaat van de   Europese Economische Ruimte en in het bezit zijn van de kwalificatie of   erkenning die in het andere gewest of in de andere lidstaat van de Europese   Economische Ruimte verplicht is voor de keuring van airconditioningsystemen als   vermeld in artikel 15 van Richtlijn 2010/31/EU van het Europees Parlement en de   Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen   (herschikking);<BR>7° minstens drie jaar aantoonbare ervaring hebben in   onderhoud en afregelaspecten van airconditioningsystemen met een nominaal   koelvermogen van meer dan 12 kW.<BR><BR>De persoon is vrijgesteld van de   retributie, vermeld in artikel 34, § 9.
+In afwijking van artikel 32, § 2, eerste lid, 6°, wordt tot uiterlijk 1 januari 2016 een persoon die minstens aan een van de volgende voorwaarden voldoet, beschouwd als een erkende airco-energiedeskundige :<br>
+1° een certificaat als vermeld in artikel 14, § 1, 1° en 2°, van het besluit van de Vlaamse Regering van 4 september 2009 inzake de certificering van koeltechnische bedrijven en hun koeltechnici, behaald hebben;<br>
+2° een bachelor in de elektromechanica, afstudeerrichting klimatisering behaald hebben;<br>
+3° een diploma van het secundair onderwijs in koel- en warmtetechnieken, industriële koeltechnieken of koeltechnische installaties behaald hebben;<br>
+4° een van de volgende getuigschriften behaald hebben die erkend zijn door de Vlaamse overheid :<br>
+a) een getuigschrift van technicus klimaatbeheersing - airconditioning;<br>
+b) een getuigschrift van installateur airco- en warmtepompen;<br>
+c) een getuigschrift van koeltechnicus;<br>
+d) een modulegetuigschrift airco;<br>
+5° in het volwassenenonderwijs het diploma van koeltechnicus, het certificaat van aircotechnicus of het certificaat van koeltechnicus behaald hebben;<br>
+6° onderdaan zijn van een lidstaat van de Europese Economische Ruimte en in het bezit zijn van de kwalificatie of erkenning die in het andere gewest of in de andere lidstaat van de Europese Economische Ruimte verplicht is voor de keuring van airconditioningsystemen als vermeld in artikel 15 van Richtlijn 2010/31/EU van het Europees Parlement en de Raad van 19 mei 2010 betreffende de energieprestatie van gebouwen (herschikking);<br>
+7° minstens drie jaar aantoonbare ervaring hebben in onderhoud en afregelaspecten van airconditioningsystemen met een nominaal koelvermogen van meer dan 12 kW.<br>
+<br>
+De persoon is vrijgesteld van de retributie, vermeld in artikel 34, § 9.
 
 ### ART. 103/2.
 
