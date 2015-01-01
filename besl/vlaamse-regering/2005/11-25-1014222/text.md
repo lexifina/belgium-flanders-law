@@ -4,6 +4,10 @@
 
 In dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br />2° het decreet: het decreet van 3 maart 2004 inzake de subsidiëring van meer duurzame landbouwproductiemethoden en de erkenning van centra voor meer duurzame landbouw;<br />3° 3° de bevoegde entiteit : het Departement Landbouw en visserij;<br />4° het erkende centrum: de vereniging die voldoet aan de voorwaarden, bedoeld in artikel 4 van het decreet, en die voor de opvolging van een welbepaalde voedselkwaliteitsregeling door de minister is erkend als centrum voor duurzame landbouw.
 
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
+
 ### ART. 2.
 
 Een vereniging die wil zorgen voor de inhoudelijke organisatie en de opvolging van een voedselkwaliteitsregeling, en die potentieel in aanmerking komt voor subsidiëring, vraagt bij de bevoegde entiteit een erkenning aan als centrum voor duurzame landbouw.<br /><br />De minister neemt hiertoe een beslissing.
