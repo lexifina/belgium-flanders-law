@@ -120,7 +120,7 @@ Het agentschap is belast met de aansturing van de werking van de erkende   partn
 
 ### ART. 25.
 
-Het agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse   Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd   agentschap Zorginspectie is belast met het toezicht op de werking van de   partnerorganisaties overeenkomstig artikel 72 van het   Woonzorgdecreet.
+Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein, is belast met   het toezicht op de werking van de partnerorganisaties conform artikel 72 van het   Woonzorgdecreet van 13 maart 2009.
 
 ## HOOFDSTUK 10 Procedure voor terugvordering van een subsidie
 
