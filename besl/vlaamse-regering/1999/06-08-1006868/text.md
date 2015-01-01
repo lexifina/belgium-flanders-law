@@ -38,7 +38,7 @@ Het basisbedrag van de investeringssubsidie voor verbouwing is vastgesteld op 60
 
 ### ART. 8.
 
-Behalve bij een lokaal dienstencentrum, een regionaal dienstencentrum of   een dagverzorgingscentrum komt een aankoop alleen in aanmerking voor een   investeringssubsidie als hij gepaard gaat met en wordt gevolgd door   verbouwingswerkzaamheden.<BR><BR>Het basisbedrag van de investeringssubsidie   voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen,   bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld   in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door   het comité van aankoop geschatte venale waarde van het gebouw en de aan de   aankoop verbonden en bewezen notariskosten en registratierechten of btw, in   aanmerking komen voor de investeringssubsidie.
+Behalve bij een lokaal dienstencentrum, een regionaal dienstencentrum of   een dagverzorgingscentrum komt een aankoop alleen in aanmerking voor een   investeringssubsidie als hij gepaard gaat met en wordt gevolgd door   verbouwingswerkzaamheden.<BR><BR>Het basisbedrag van de investeringssubsidie   voor een aankoop met of zonder verbouwing, uitrusting en meubilering inbegrepen,   bedraagt maximaal 75 % van het basisbedrag van de investeringssubsidie, vermeld   in artikel 5, § 1. Voor de aankoop kan ten hoogste 60 % van de som van de door   het comité van aankoop geschatte venale waarde van het gebouw en de aan de   aankoop verbonden en bewezen notariskosten en registratiebelasting of   registratierechten of btw, in aanmerking komen voor de   investeringssubsidie.
 
 ### ART. 9.
 
