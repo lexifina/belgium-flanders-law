@@ -2,16 +2,16 @@
   "codex_id": 1017295,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 betreffende het combineren van agromilieumaatregelen met toepassing van het Vlaams programma voor plattelandsontwikkeling voor de programmeringsperiode 2007-2013",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017295/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "9929c5bbc732ae4a0529d4626f6daf573f5862da2de26cf8a73897f4ce497c9f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017295/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "11c9f6f56a7886ce1682e0a737f4d15c3f76ac8d4f512587d58263b3e5a464a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017295&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2015-01-01",
   "made": "2008-07-18",
   "gazette": "2008-11-17",
   "numac": 2008036299,
   "document_start": "2008-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2008-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
