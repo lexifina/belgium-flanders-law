@@ -6,8 +6,44 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 ## HOOFDSTUK 1. Definities
 
+### ART. 1.
+
+In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   agromilieumaatregelen : de maatregelen, vermeld in artikel 2 van het besluit van   de Vlaamse Regering van 21 december 2007 tot het verlenen van subsidies voor de   uitvoering van agromilieumaatregelen met toepassing van het Vlaams Programma   voor Plattelandsontwikkeling en de maatregelen, vermeld in artikel 2 van het   besluit van de Vlaamse Regering van 5 september 2014 tot het verlenen van   subsidies voor de uitvoering van agromilieu en klimaatmaatregelen met toepassing   van het Vlaams Programma voor Plattelandsontwikkeling voor de periode   2014-2020;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   beheerovereenkomst PDPO II : een beheerovereenkomst die is gesloten met   toepassing van het besluit van de Vlaamse Regering van 6 juni 2008 betreffende   het sluiten van beheersovereenkomsten en het toekennen van vergoedingen ter   uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005   inzake steun voor plattelandsontwikkeling;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   beheerovereenkomst PDPO III : een beheerovereenkomst die is gesloten met   toepassing van het besluit van de Vlaamse Regering van 19 september 2014 tot het   verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening   (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013   inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor   plattelandsontwikkeling;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   biohectaresteun : de hectaresteun voor de biologische productiemethode, vermeld   in artikel 2 van het besluit van de Vlaamse Regering van 4 juli 2014 tot het   verlenen van hectaresteun voor de biologische productiemethode met toepassing   van het Vlaams Programma voor Plattelandsontwikkeling voor de periode   2014-2020.
+
 ## HOOFDSTUK 2. Combinatiemogelijkheden
+
+### ART. 2.
+
+Verbintenissen   voor de agromilieumaatregelen, beheerovereenkomsten PDPO II,   beheerovereenkomsten PDPO III en biohectaresteun zijn onderling op hetzelfde   perceel combineerbaar als die mogelijkheid is opgenomen in bijlage 1. De   vergoedingen zijn geheel of gedeeltelijk cumuleerbaar zoals opgenomen in de   voormelde bijlage.
+
+### ART. 3.
+
+<P>Verbintenissen voor de agromilieumaatregelen,   beheerovereenkomsten PDPO II, beheerovereenkomsten PDPO III en biohectaresteun   enerzijds, en ecologisch aandachtsgebied anderzijds, zijn op hetzelfde perceel   combineerbaar als die mogelijkheid is opgenomen in bijlage 2. In geval van   combinatie wordt de steun voor de agromilieumaatregelen, beheerovereenkomsten   PDPO II, beheerovereenkomsten PDPO III en biohectaresteun op de overlappende   oppervlakte volledig, gedeeltelijk of niet uitbetaald zoals opgenomen in de   voormelde bijlage.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder ecologisch aandachtsgebied : een gebied als   vermeld in artikel 38 van het besluit van de Vlaamse Regering van 24 oktober   2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan   landbouwers in het kader van de steunregelingen van het gemeenschappelijk   landbouwbeleid.</P>
 
 ## HOOFDSTUK 3. Wijziging van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van hectaresteun voor de biologische productiemethode met toepassing van het Vlaams Programma voor Plattelandsontwikkeling 2014-2020
 
+### ART. 4.
+
+<P>Artikel   12 van het besluit van de Vlaamse Regering van 4 juli 2014 tot het verlenen van   hectaresteun voor de biologische productiemethode met toepassing van het Vlaams   Programma voor Plattelandsontwikkeling 2014-2020 wordt vervangen door wat volgt   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   12. Dit besluit heeft uitwerking met ingang van 1 januari   2015.".</P>
+
 ## HOOFDSTUK 4. Slotbepalingen
+
+### ART. 5.
+
+<P>Het   besluit van de Vlaamse Regering van 18 juli 2008 betreffende het combineren van   agromilieumaatregelen met toepassing van het Vlaams programma voor   plattelandsontwikkeling voor de programmeringsperiode 2007-2013 wordt   opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   besluit van de Vlaamse Regering van 18 juli 2008 betreffende het combineren van   agromilieumaatregelen met toepassing van het Vlaams programma voor   plattelandsontwikkeling voor de programmeringsperiode 2007-2013 blijft van   toepassing op de lopende beheerovereenkomsten PDPO II en op verbintenissen,   gesloten met toepassing van het besluit van de Vlaamse Regering van 21 december   2007 tot het verlenen van subsidies voor de uitvoering van agromilieumaatregelen   met toepassing van het Vlaams Programma voor   Plattelandsontwikkeling.</P>
+
+### ART. 6.
+
+Dit besluit heeft uitwerking met ingang van 1 januari   2015.
+
+### ART. 7.
+
+De Vlaamse minister, bevoegd voor de landbouw, en de Vlaamse   minister, bevoegd voor het leefmilieu en het waterbeleid, zijn, ieder wat hem of   haar betreft, belast met de uitvoering van dit besluit.
+
+### BIJLAGE 1.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2015/05/07_1.pdf#page=76">Bijlage 1</a>
+
+### BIJLAGE
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/05/07_1.pdf#page=77">Bijlage   2</A>
