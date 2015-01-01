@@ -6,7 +6,7 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder boekhoudbureaus : BTW-plichtige zelfstandigen of rechtspersonen die dienstverlenende activiteiten inzake het bijhouden van een boekhouding verrichten voor land- en tuinbouwers.<br />
+In dit besluit wordt verstaan onder :<BR>1° boekhoudbureaus :   btw-plichtige zelfstandigen of rechtspersonen die dienstverlenende activiteiten   inzake het bijhouden van een boekhouding verrichten voor land- en   tuinbouwers;<BR>2° bevoegde entiteit : het Departement Landbouw en Visserij van   het Vlaams Ministerie van Landbouw en Visserij.<BR>
 
 ### ART. 2.
 
@@ -14,7 +14,7 @@ De bedrijfseconomische boekhouding in land- en tuinbouw dienstig als basis voor 
 
 ### ART. 3.
 
-De boekhoudbureaus die zich verbinden de bedrijfseconomische boekhouding in land- en tuinbouw bij te houden als beschreven in de bijlage dienen zich kenbaar te maken bij het Agentschap voor Landbouw en Visserij, afdeling Structuur en Investeringen.<br /><br />Voormelde afdeling maakt een lijst op van de aangemelde boekhoudbureaus en voorziet in de openbaarmaking ervan.<br />
+De boekhoudbureaus die zich verbinden de bedrijfseconomische boekhouding   in land- en tuinbouw bij te houden als beschreven in de bijlage dienen zich   kenbaar te maken bij de bevoegde entiteit.<BR><BR>De bevoegde entiteit maakt een   lijst op van de aangemelde boekhoudbureaus en voorziet in de openbaarmaking   ervan.<BR>
 
 ### BIJLAGE
 
