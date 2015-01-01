@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024655,
+  "title": "Ministerieel besluit van 2014-07-10 tot wijziging van diverse bepalingen van het ministerieel besluit van 25 februari 2009 betreffende de controle op de bepaling van de samenstelling van melk en de betaling door de kopers van de melk aan de producenten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024655/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6b0e244ae07482c8272e80750c8ef11f84172c395041145b41dd3d00f8b2b553",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024655&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-07-10",
+  "gazette": "2014-10-10",
+  "numac": 2014036469,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
