@@ -2,16 +2,16 @@
   "codex_id": 1022229,
   "title": "Besluit van de Vlaamse Regering van 2012-07-20 houdende bepaling van de erkennings- en subsidievoorwaarden van sociale verhuurkantoren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022229/VolledigDocument?datum=2014-09-01",
-  "source_sha256": "ff65f004a69f1886068858b9fd8656f40858f3d7fda65343f4ed0000a82fb6ed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022229/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c2a01a006d7d12302866ade5e5cca78b36bdbab116762ec20afe6a39418608e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022229&param=informatie",
-  "as_of": "2014-09-01",
+  "as_of": "2015-01-01",
   "made": "2012-07-20",
   "gazette": "2012-09-07",
   "numac": 2012204713,
   "document_start": "2013-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2014-09-01",
+  "in_force": "2015-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2014-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
