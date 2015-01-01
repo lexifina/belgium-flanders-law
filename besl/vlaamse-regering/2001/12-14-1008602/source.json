@@ -2,16 +2,16 @@
   "codex_id": 1008602,
   "title": "Besluit van de Vlaamse Regering van 2001-12-14 houdende vaststelling van het premiestelsel voor restauratiewerkzaamheden aan beschermde monumenten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008602/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "ac75cf445121a39cfd7c0770135a749ae6025e0139e7e1c43c08a758df37068a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008602/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "3df398e3fabae7eb520fd2ed3a4b303ef97e31f1182cfcb22cb178c68e62a840",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008602&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2001-12-14",
   "gazette": "2002-01-19",
   "numac": 2001036510,
   "document_start": "2002-01-19",
   "document_end": "2014-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 46,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
