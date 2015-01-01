@@ -28,7 +28,7 @@ In dit besluit wordt verstaan onder het besluit van de Vlaamse Regering   van 8 
 
 ### ART. 2.
 
-<P>Het Departement Landbouw en Visserij wordt aangewezen als bevoegde entiteit.   Het hoofd van het departement kan een afdeling van het departement aanwijzen als   bevoegde entiteit.<BR></P>  <P>Het hoofd van het Departement Landbouw en Visserij wordt gemachtigd om de   beslissingen te nemen over de toekenning van de subsidies voor   bedrijfsadvisering in de biologische landbouw. Voor een efficiënte en   resultaatgerichte interne organisatie kan het hoofd van het departement deze   beslissingsbevoegdheid subdelegeren aan personeelsleden van het Departement   Landbouw en Visserij die onder zijn hiërarchisch gezag staan, tot op het meest   functionele niveau.</P>
+<P>De bevoegde entiteit wordt gemachtigd om de beslissingen te nemen over de   toekenning van de subsidies voor bedrijfsadvisering in de biologische   landbouw.</P>
 
 ## HOOFDSTUK 2. Erkenning van adviesdiensten voor bedrijfsadvisering in de biologische landbouw
 
