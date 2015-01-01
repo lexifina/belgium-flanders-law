@@ -6,68 +6,68 @@ De Vlaamse minister van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1°de bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />2° zaaizaden : zaaizaden van vezelvlas (Linum usitatissimum) en spelt (Triticum spelta);<br />3° referentiegegevens : per landbouwer de gegevens over de nettohoeveelheid gecertificeerde zaaizaad (in kwintalen) in de referentieperiode of de oppervlakte noten (in hectare) die in aanmerking genomen wordt in de referentieperiode;<br />4° referentieperiode : de referentieperiode voor de opname in de bedrijfstoeslag van de areaalbetaling voor noten, vermeld in artikel 2sexies, tweede lid, van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden, of de referentieperiode voor de opname in de bedrijfstoeslag van de steun voor zaaizaden, vermeld in artikel 2septies, tweede lid, van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />5° feitelijke vererving : vererving, vastgelegd via de regels van het erfrecht;<br />6° verwachte vererving : overname of voortzetting binnen een familieverband tot derdegraadsverwantschap, binnen een huwelijk, binnen een samenlevingscontract, bij testament of bij schenking onder levenden.
+...
 
 ### ART. 2.
 
-De bevoegde entiteit bezorgt aan de betrokken landbouwer een overzicht van de referentiegegevens voor de integratie van de steun voor zaaizaden en noten in de bedrijfstoeslag met het formulier A, dat als bijlage 1 bij dit besluit is gevoegd.
+...
 
 ### ART. 3.
 
-Als de landbouwer de meegedeelde referentiegegevens betwist, dient hij bij de bevoegde entiteit een aanvraag tot herziening in. Daarvoor gebruikt de landbouwer de formulieren die hem door de bevoegde entiteit ter beschikking worden gesteld, namelijk formulier B of formulier C die respectievelijk als bijlagen 2 en 3 bij dit besluit zijn gevoegd. Hij stuurt de ingevulde formulieren uiterlijk op 31 maart 2010 aangetekend naar de bevoegde entiteit of geeft de ingevulde formulieren er af tegen ontvangstbewijs.<br /><br />De landbouwer vraagt de integratie van de ontkoppelde steun in de bedrijfstoeslagregeling aan door het formulier D in te dienen dat als bijlage 4 bij dit besluit is gevoegd. De aanvrager verstuurt dat formulier uiterlijk op 31 maart 2010 aangetekend naar de bevoegde entiteit of geeft het ingevulde formulier er af tegen ontvangstbewijs.<br />
+...
 
 ### ART. 4.
 
-De bevoegde entiteit staat een herziening van de referentiegegevens toe als voldaan is aan een van de uitzonderingscategorieën, vermeld in het tweede lid.<br /><br />De referentiegegevens kunnen alleen herzien worden bij de volgende uitzonderingscategorieën :<br />1° betwisting van referentiegegevens;<br />2° gevallen van onbillijkheid toepasselijk op de referentieperiode;<br />3° volledige of gedeeltelijke bedrijfsovername.<br /><br />De uitzonderingscategorie, vermeld in het tweede lid, 2° is enkel van toepassing op de herziening van de referentiegegevens zaaizaden.
+...
 
 ### ART. 5.
 
-De landbouwer die de herziening van referentiegegevens van noten of zaaizaden aanvraagt op basis van betwisting van referentiegegevens als vermeld in artikel 4, tweede lid, 1°, dient bij de bevoegde entiteit een aanvraag tot herziening in door het indienen van een formulier B, als vermeld in artikel 3, en vult daarvan de rubriek betwisting van de referentiegegevens in. Bij het formulier worden de bewijsstukken toegevoegd die de betwisting ondersteunen.
+...
 
 ### ART. 6.
 
-De landbouwer kan de herziening van referentiegegevens van zaaizaden aanvragen op basis van de gevallen van onbillijkheid van toepassing op de referentieperiode als vermeld in artikel 4, tweede lid, 2°.<br /><br />Tot de gevallen van onbillijkheid, vermeld in artikel 4, tweede lid, 2°, behoren :<br />1° landbouwers die in de loop van de referentieperiode voor het eerst met een landbouwactiviteit zijn begonnen en die voldoen aan de definitie, vermeld in artikel 2, l), van Verordening (EG) nr. 1120/2009;<br />2° landbouwers met een overmachtsituatie of met uitzonderlijke omstandigheden.<br /><br />
+...
 
 ### ART. 7.
 
-De landbouwers, vermeld in artikel 6, tweede lid, 1°, kunnen een uitzondering op de algemene berekeningsregels aanvragen bij de bevoegde entiteit door in het formulier B, vermeld in artikel 3, in de rubriek gevallen van onbillijkheid toepasselijk op de referentieperiode, het deel landbouwers die tijdens de referentieperiode met een landbouwactiviteit zijn gestart, in te vullen.
+...
 
 ### ART. 8.
 
-§ 1. Ter uitvoering van artikel 31 van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003, behoren de volgende situaties tot overmachtsituaties of uitzonderlijke omstandigheden als vermeld in artikel 6, tweede lid, 2° :<br />1° het overlijden van de landbouwer;<br />2° de langdurige arbeidsongeschiktheid van de landbouwer;<br />3° uitzonderlijke klimatologische omstandigheden die de steunbetaling in de referentieperiode in ernstige mate hebben beïnvloed.<br /><br />De landbouwers die vallen onder een van de overmachtsituaties of uitzonderlijke omstandigheden, vermeld in het eerste lid, kunnen een uitzondering op de algemene berekeningsregels aanvragen door in het formulier B, vermeld in artikel 3, in de rubriek gevallen van onbillijkheid toepasselijk op de referentieperiode, het deel landbouwers met een overmachtsituatie of uitzonderlijke omstandigheden in te vullen.<br /><br />§ 2. Bij het overlijden van de landbouwer, vermeld in paragraaf 1, eerste lid, 1°, kunnen de erfgenamen vragen om de campagne die tijdens de referentieperiode door het overlijden nadelig werd beïnvloed, uit te sluiten uit de referentieperiode als er een nadelige invloed is op de steunbetalingen.<br /><br />Een nadelige invloed op de steunbetalingen als vermeld in het eerste lid, betekent dat tijdens de beïnvloede campagne 80 % of minder van het gemiddelde van de betalingen voor de steunregeling ontvangen werd ten opzichte van het gemiddelde van de betalingen voor die steunregeling van de niet-beïnvloede referentiejaren, rekening houdend met het eenheidsbedrag van de jaarlijkse steun. Als de bevoegde entiteit de herziening toestaat, worden alle steungegevens van de campagne in kwestie voor de berekening buiten beschouwing gelaten.<br /><br />De landbouwer voegt bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid, een bewijs van overlijden van de landbouwer en de akte van bekendheid.<br /><br />§ 3. De landbouwer kan een herziening van de gemiddelde referentiegegevens aanvragen bij de bevoegde entiteit als een langdurige arbeidsongeschiktheid als vermeld in paragraaf 1, eerste lid, 2°, een significante invloed heeft gehad op de steunbetalingen van de referentieperiode.<br /><br />De landbouwer die beschikt over een attest van tijdelijke arbeidsongeschiktheid, afgeleverd door het ziekenfonds, komt in aanmerking voor herziening als hij tijdens een of meer campagnes minder dan 80 % van het gemiddelde van de betalingen voor de beïnvloede steunregelingen van de niet-beïnvloede referentiejaren heeft ontvangen, rekening houdend met het eenheidsbedrag van de jaarlijkse steun. De landbouwer voegt het attest van tijdelijke arbeidsongeschiktheid bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid.<br /><br />De landbouwer die niet beschikt over een attest van het ziekenfonds, komt in aanmerking voor herziening als voor de steunregeling in kwestie 50 % minder bedrijfsoppervlakte aangegeven werd dan het gemiddelde van de niet-beïnvloede referentiejaren. De landbouwer voegt de medische documenten waarover hij beschikt, als bewijs bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid, en hij omschrijft daarbij de precieze gevolgen van de arbeidsongeschiktheid, in het bijzonder de impact ervan op zijn steun.<br /><br />§ 4. De landbouwer die gedurende de referentieperiode werd geconfronteerd metuitzonderlijke klimatologische omstandigheden die de steunbetaling in ernstige mate hebben beïnvloed, als vermeld in paragraaf 1, eerste lid, 3°, kan vragen om daar rekening mee te houden.<br /><br />De herziening kan alleen worden toegestaan als tijdens de beïnvloede campagne minder dan 80 % van het gemiddelde van de steunbetalingen voor de steunregeling in kwestie van de niet-beïnvloede referentiejaren ontvangen werd, rekening houdend met het eenheidsbedrag van de jaarlijkse steun.<br /><br />De landbouwer voegt bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid, kopieën van de geldige verslagen van de commissie tot vaststelling van schade aan teelten. Als de ingeroepen uitzonderlijke omstandigheid aanvaard wordt, bepaalt de bevoegde entiteit voor welke campagne de steun voor de betrokken steunregeling kan worden uitgesloten voor de berekening van de referentiegegevens.
+...
 
 ### ART. 9.
 
-§ 1. De landbouwer die de herziening van referentiegegevens van noten of zaaizaden aanvraagt op basis van een volledige of gedeeltelijke bedrijfsovername als vermeld in artikel 4, tweede lid, 3°, dient bij de bevoegde entiteit een formulier C als vermeld in artikel 3, in. Hierdoor gaan de referentiegegevens volledig of gedeeltelijk over van de overlater op de overnemer.<br /><br />§ 2. Onder volledige bedrijfsovername, als vermeld in paragraaf 1, worden de gevallen verstaan waarbij alle exploitaties van de overlater door een landbouwer zijn overgenomen tijdens of na de referentieperiode en tot en met 21 april 2010, door :<br />1° feitelijke of verwachte vererving;<br />2° naamsverandering of wijziging van juridische status;<br />3° fusie van twee of meer bedrijven.<br /><br />In de gevallen, vermeld in het eerste lid, vult de landbouwer die de referentiegegevens van een steunregeling van de oorspronkelijke uitbater wil overnemen, in het formulier C, vermeld in artikel 3, de rubriek volledige bedrijfsovername in. Zowel de overlater als de overnemer tekenen het formulier C voor akkoord.<br /><br />§ 3. Gedeeltelijke bedrijfsovernames als vermeld in paragraaf 1, tijdens of na de referentieperiode en tot en met 21 april 2010 moeten aan een van de volgende voorwaarden voldoen :<br />1° de overnames of voortzettingen vinden plaats in het kader van feitelijke of verwachte vererving;<br />2° de overlater is actief op minstens een van de oorspronkelijke exploitatienummers of op een deel van de overgedragen exploitatie.<br /><br />Bij een gedeeltelijke bedrijfsovername kunnen de referentiegegevens van de overlater op aanvraag worden opgesplitst en verdeeld over de overnemers. Het overgedragen referentieareaal en het overgedragen referentiebedrag worden opgesplitst in onderlinge afspraak en de opsplitsing wordt aangegeven door in het formulier C, vermeld in artikel 3, de rubriek gedeeltelijke bedrijfsovername in te vullen. Zowel de overlater als de overnemer tekenen het formulier C voor akkoord.
+...
 
 ### ART. 10.
 
-De landbouwer die in de loop van de referentieperiode voor het eerst met een landbouwactiviteit is begonnen als vermeld in artikel 6, tweede lid, 1°, en die deze activiteit heeft opgestart via een overname van een bestaand landbouwbedrijf, kan een aanvraag tot herziening van de referentiegegevens indienen via het formulier C, vermeld in artikel 3.<br /><br />Als de landbouwer in het geval, vermeld in het eerste lid, zowel een formulier B als vermeld in artikel 3, indient, waarin het deel landbouwers die tijdens de referentieperiode is gestart is ingevuld, als een formulier C als vermeld in artikel 3, dan wordt alleen met het formulier C rekening gehouden.
+...
 
 ### ART. 11.
 
-De bevoegde entiteit beslist of de aanvraag tot herziening van de referentiegegevens ontvankelijk en gegrond is.<br /><br />Als de aanvraag van de landbouwer wordt afgewezen, kan hij een gemotiveerd bezwaar richten tot de bevoegde entiteit. De landbouwer stuurt zijn bezwaar uiterlijk binnen twintig dagen na de kennisgeving van de weigering tot herziening aangetekend naar de bevoegde entiteit.<br /><br />
+...
 
 ### ART. 12.
 
-Het ministerieel besluit van 24 maart 2006 tot instelling van een steunregeling voor zaaizaden van de soorten Linum usitatissimum L. en Triticum spelta, gewijzigd bij de ministeriële besluiten van 24 maart 2006 en 13 april 2007, wordt opgeheven.
+...
 
 ### ART. 13.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2010.
+...
 
 ### BIJLAGE
 
-Formulier A<br /><br />Overzicht van de referentiegegevens voor de integratie van steun in de bedrijfstoeslag' als vermeld in artikel 2<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/01/12_1.pdf#page=58" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE
 
-Aanvraag tot herziening van de referentiegegevens : betwisting van de referentiegegevens en gevallen van onbillijkheid, als vermeld in artikel 3<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/01/12_1.pdf#page=60" title=" " target="_blank" class="pdf"></a> <br /><br /><br />
+...
 
 ### BIJLAGE
 
-Document C : Aanvraag tot herziening van de referentiegegevens zaaizaden : volledige of gedeeltelijke bedrijfsovernamen, vermeld in artikel 3<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/01/12_1.pdf#page=65" title=" " target="_blank" class="pdf"></a>
+...
 
 ### BIJLAGE
 
-Document D : Aanvraag tot integratie van ontkoppelde steun zaaizaden in de bedrijfstoeslagregeling, vermeld in artikel 3 <br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2011/01/12_1.pdf#page=70" title=" " target="_blank" class="pdf"></a> <br /><br /><br />
+...
