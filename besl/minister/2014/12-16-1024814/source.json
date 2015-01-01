@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024814,
+  "title": "Ministerieel besluit van 2014-12-16 tot wijziging van diverse ministeriële besluiten met betrekking tot de energieprestatieregelgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024814/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "e57ac8b05aa5f1d2725a56b37450b883fe45924513639be8d7cbc735e3e21219",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024814&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-16",
+  "gazette": "2014-12-23",
+  "numac": 2014036921,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
