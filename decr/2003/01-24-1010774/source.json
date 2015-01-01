@@ -2,16 +2,16 @@
   "codex_id": 1010774,
   "title": "Decreet van 2003-01-24 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010774/VolledigDocument?datum=2009-06-18",
-  "source_sha256": "9e2ecb5de4e85e95a404a2da4187dd3c6c5718ebf7ce8194f16f2c4fe00cb40b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010774/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "92a02ebb417d33674ea7c0c34880c1ce674822f9f2367405238dd7d8c85ed5a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010774&param=informatie",
-  "as_of": "2009-06-18",
+  "as_of": "2015-01-01",
   "made": "2003-01-24",
   "gazette": "2003-03-14",
   "numac": 2003035282,
   "document_start": null,
   "document_end": null,
-  "in_force": "2009-06-18",
+  "in_force": "2015-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2009-06-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
