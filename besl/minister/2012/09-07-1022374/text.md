@@ -22,4 +22,4 @@ De subsidiëring die met toepassing van dit besluit verkregen wordt, kan nooit m
 
 ### ART. 5.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2012 en treedt buiten werking op 31 december 2014.
+<P>Dit besluit heeft uitwerking met ingang van 1 januari 2012 en treedt buiten   werking op 31 december 2017.</P>
