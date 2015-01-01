@@ -2,16 +2,16 @@
   "codex_id": 1019827,
   "title": "Besluit van de Vlaamse Regering van 2010-12-03 betreffende de certificering van hop en hopproducten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019827/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "67bed911919f09168df32a12bbc1c334e979f9522cc6c9c0b9ca5c4c45084bf7",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019827/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c44bd2ccfcbce2917014a9509af6455b3a49572be62dd6df35688dd629c199ea",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019827&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2015-01-01",
   "made": "2010-12-03",
   "gazette": "2010-12-24",
   "numac": 2010206301,
   "document_start": "2010-09-01",
   "document_end": null,
-  "in_force": "2010-09-01",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2010-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
