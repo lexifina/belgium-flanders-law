@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025232,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-27 houdende wijziging van artikel 6 en 7 van het besluit van de Vlaamse Regering van 7 december 2012 tot uitvoering van het kaderdecreet inzake ontwikkelingssamenwerking van 22 juni 2007",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025232/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "4b4371566539686000ec2e147a1a4e3264f1b6e0241b5dee0abe49952c50b2c9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025232&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-03-27",
+  "gazette": "2015-04-09",
+  "numac": 2015035441,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
