@@ -2,16 +2,16 @@
   "codex_id": 1008355,
   "title": "Decreet van 2001-07-13 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008355/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "60fa27c8854a0d0194ec4328e18f453d65e3798138a02ae02154649070ae49ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008355/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "081ccc1facf08e11e205eaf326e504e7a275e19fc4a75eff86340670315eef15",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008355&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2001-07-13",
   "gazette": "2001-09-14",
   "numac": 2001036003,
   "document_start": "2002-01-01",
   "document_end": "2016-07-01",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
