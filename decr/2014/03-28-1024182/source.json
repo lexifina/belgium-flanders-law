@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024182,
+  "title": "Decreet van 2014-03-28 betreffende de preventie-, surveillance en bestrijding van ziekten bij in het wild levende dieren (citeeropschrift:\"Wildedierenziektedecreet van 28 maart 2014\")",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024182/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "28f4d89a656305afdc17104c484dc6bfb5b6d4e9f3a5fc3fd5bb775f185138ff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024182&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-03-28",
+  "gazette": "2014-06-17",
+  "numac": 2014202535,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
