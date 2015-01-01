@@ -14,9 +14,11 @@ Contractuele schoonmaak- en/of cateringfuncties die in het kader van   kabinetso
 
 ### ART. 2.
 
-<p>§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage 1 bij dit besluit.</p>
-
-<p>§ 2. Het contractuele personeelslid met een bijkomende of specifieke opdracht « schoonmaak » en/of « catering », en met één van de salarisschalen die in de bijlage 1 aan een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » zijn verbonden, gaat over naar de eerstvolgende salarisschaal waarop een ambtenaar met dezelfde salarisschaal in het kader van zijn functionele loopbaan recht heeft, na evenveel jaren als voor deze ambtenaar vereist, overeenkomstig artikel VI 109, § 1 van het Vlaams personeelsstatuut zoals dit zal worden gewijzigd of vervangen.</p>
+<p>§ 1. Voor de contractuele betrekkingen, vermeld in de bijlage 1 bij dit besluit, waarvan de geldelijke regeling niet is bepaald door het Vlaams personeelsstatuut, zoals dit zal worden gewijzigd of vervangen, of door een andere reglementering, geldt de geldelijke regeling, zoals bepaald in de bijlage 1 bij dit besluit.<br>
+<br>
+§ 1/1. Voor de contractuele betrekkingen van het instructie en technisch omkaderingspersoneel van de Vlaamse Dienst voor Arbeidsbemiddeling, vermeld in bijlage 1 bij dit besluit geldt de geldelijke regeling, zoals bepaald in bijlage 1 en 2 bij het besluit van de Vlaamse Regering van 9 mei 2014 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.<br>
+<br>
+§ 2. Het contractuele personeelslid met een bijkomende of specifieke opdracht « schoonmaak » en/of « catering », en met één van de salarisschalen die in de bijlage 1 aan een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » zijn verbonden, gaat over naar de eerstvolgende salarisschaal waarop een ambtenaar met dezelfde salarisschaal in het kader van zijn functionele loopbaan recht heeft, na evenveel jaren als voor deze ambtenaar vereist, overeenkomstig artikel VI 109, § 1 van het Vlaams personeelsstatuut zoals dit zal worden gewijzigd of vervangen.</p>
 
 <p>Voor de berekening van het aantal jaren dat nodig is voor de overgang naar de eerstvolgende salarisschaal tellen mee :<br>
 1° voor de personeelsleden die op 1 januari 2013 in dienst zijn met een contract voor een bijkomende of specifieke opdracht « schoonmaak » en/of « catering » : de perioden van tewerkstelling tot en met 31 december 2012 bij een overheid zoals gedefinieerd in artikel VI 8, § 3 van het Vlaams personeelsstatuut van 13 januari 2006, zonder herleiding pro rata van de prestaties, maar berekend aan 1/3 voor de eerste 12 jaar en aan 2/3 voor het aantal jaren boven de 12 jaar;<br>
@@ -1077,183 +1079,246 @@ Dit besluit treedt in werking op 1 juni 2008.
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
+			<td style="background-color:transparent; width:131.4pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>B/S-opdrachten</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
+			<td colspan="2" style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:207pt">
 			<p>Verloning</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td rowspan="9" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
 			<p>7.1 Departement Werk en Sociale Economie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>directeur stuurgroep strategisch arbeidsmarktbeleid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; width:153pt">
 			<p>A211</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>directeur subregionaal arbeidsmarktbeleid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>A211</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>adjunct van de directeur opvolging VESOC-actieplannen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>A111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>adjunct van de directeur Europees Sociaal Fonds</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>A111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>adjunct van de directeur hefboomkredieten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>A111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>deskundige subregionaal arbeidsmarktbeleid</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>B111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>medewerker opvolging VESOC-actieplannen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>C111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>medewerker Europees Sociaal Fonds</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>C111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>medewerker hefboomkredieten</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>C111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
 			<p>7.2 Vlaams Agentschap voor Ondernemersvorming – Syntra Vlaanderen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>schoonmaakpersoneel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
 			<p>D111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
+			<td colspan="1" rowspan="17" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
 			<p>7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>schoonmaak- en bediening in restaurants</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:windowtext #f0f0f0; width:153pt">
 			<p>D111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>kok</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
 			<p>C111</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>opdrachthoud(st)er diversiteit - emancipatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
 			<p>A211</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
 			<p>ICT-manager</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
 			<p>&nbsp;</p>
 			</td>
+		</tr>
+		<tr>
+			<td colspan="2" rowspan="1" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; text-align:center; width:174.2pt">Instructie- en technisch omkaderingspersoneel</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch directeur-coördinator</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A271ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch directeur</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A261ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch adjunct van de directeur</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A161ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Instructeur</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">B161ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Occasionele lesgever</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">B151occ</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Directeur (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A280ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Auditor (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A260ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Hoofdmagazijnier, gereedschapsmaker (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D144to</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Geschoold onderhoudsarbeider (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D143to</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Snijder, magazijnier (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D142to</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Handlanger (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D141to</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Directeur (uitdovend)</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A280ip</td>
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
+&nbsp;
 
 <p>&nbsp;</p>
 
