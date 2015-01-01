@@ -30,7 +30,7 @@ HOOFDSTUK 1. - Algemene bepalingen<br>
 <br>
 1.1 Officiële instanties<br>
 <br>
-1.1.1 de bevoegde entiteit : de afdeling Productkwaliteitsbeheer van het Agentschap voor Landbouw en Visserij, die bevoegd is voor de controle op het keurings- en certificeringsreglement van aardappelpootgoed<br>
+1.1.1 de bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, bevoegd voor de controle op het keurings- en certificeringsreglement van aardappelpootgoed.<br>
 <br>
 1.1.2 procesverantwoordelijke : het personeelslid van de bevoegde entiteit, dat erop toeziet dat een proces verloopt zoals is vastgelegd in het keurings- en certificeringsreglement van aardappelpootgoed. Hij is zowel verantwoordelijk voor het volledige beheer van het proces als voor alle procesgerelateerde dossiers<br>
 <br>
@@ -289,7 +289,7 @@ De percelen worden aangelegd met pootgoed dat behoort tot een van de volgende ca
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:227.55pt">
-			<p>MINIMALE CATEGORIE OF KLASSE VAN HET GEBRUIKTE MATERIAAL <!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>MINIMALE CATEGORIE OF KLASSE VAN HET GEBRUIKTE MATERIAAL</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:227.55pt">
 			<p>VOOR DE PRODUCTIE VAN DE CATEGORIE OF KLASSE</p>
