@@ -6,16 +6,16 @@ De Vlaamse Regering,<br /><br />Gelet op het wetboek der registratie-, hypotheek
 
 ### ART. 1.
 
-Het model van het attest tot het verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant, bedoeld in artikel 161, 14°, tweede lid, van het wetboek der registratie-, hypotheek- en griffierechten, wordt vastgesteld in de bijlage gevoegd bij dit besluit.<br /><br />
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking op de dag van bekendmaking in het Belgisch Staatsblad.<br /><br />
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitvoering van dit besluit.<br />
+...
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2008/02/04_2.pdf#page=11" title=" attest" target="_blank" class="pdf">attest</a>
+...
