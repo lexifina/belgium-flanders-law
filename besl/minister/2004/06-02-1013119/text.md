@@ -800,9 +800,9 @@ Tentoonstellen met het oog op verkoop, te koop aanbieden, verkopen of leveren aa
 <br>
 Elke natuurlijke of rechtspersoon die beroepshalve ten minste één van de volgende activiteiten verricht met betrekking tot teeltmateriaal: oogsten-bereiden, vermeerderen, produceren, beschermen en/of behandelen en in de handel brengen.<br>
 <br>
-1.2.16 Entiteit:<br>
+1.2.16 Entiteit :<br>
 <br>
-De entiteit van het Agentschap voor Landbouw en Visserij, bevoegd voor het toezicht op het in de handel brengen en de kwaliteit van bosbouwkundig teeltmateriaal.<br>
+Het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij is de bevoegde entiteit voor het toezicht op het in de handel brengen en de kwaliteit van bosbouwkundig teeltmateriaal.<br>
 <br>
 1.3 CATEGORIEËN<br>
 <br>
