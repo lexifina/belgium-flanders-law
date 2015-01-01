@@ -2,16 +2,16 @@
   "codex_id": 1016809,
   "title": "Besluit van de Vlaamse Regering van 2008-05-09 tot bepaling van nadere regels voor de zorgplicht betreffende definitief aangeduide ankerplaatsen en erfgoedlandschappen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016809/VolledigDocument?datum=2008-06-15",
-  "source_sha256": "2fc7c673e419f832fcfe1ea3716074d59a805d037a923e32d1ff878e374d354c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016809/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "cae721b73f48c53ca393160250af276d4b9740edff0e9543526e31ff149a4300",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016809&param=informatie",
-  "as_of": "2008-06-15",
+  "as_of": "2015-01-01",
   "made": "2008-05-09",
   "gazette": "2008-06-05",
   "numac": 2008201861,
   "document_start": "2008-06-15",
   "document_end": "2014-12-31",
-  "in_force": "2008-06-15",
+  "in_force": "2015-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2008-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
