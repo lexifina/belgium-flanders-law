@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026218,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-13 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, in het raam van de overheveling vanaf 1 januari 2015 van personeelsleden van de federale overheid naar de Vlaamse overheid naar aanleiding van een staatshervorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026218/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "3f5b468b1c30f630abbbd01da340f80d9750bc376a089c066094e63ad8abde1a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026218&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-11-13",
+  "gazette": "2015-12-17",
+  "numac": 2015036545,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
