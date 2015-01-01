@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° bevoegde dienst : de door de   minister met toepassing van artikel 21 aangewezen dienst;<BR>2° gedelegeerde   verordening (EU) nr. 880/2012 : de gedelegeerde Verordening (EU) Nr. 880/2012   VAN DE COMMISSIE van 28 juni 2012 ter aanvulling van Verordening (EG) nr.   1234/2007 van de Raad wat de grensoverschrijdende samenwerking en de   contractuele onderhandelingen van producentenorganisaties in de sector melk en   zuivelproducten betreft <BR>3° minister : de Vlaamse minister bevoegd voor het   landbouwbeleid en de zeevisserij;<BR>4° uitvoeringsverordening (EU) nr. 511/2012   : de uitvoeringsverordening (EU) nr. 511/2012 van de Commissie van 15 juni 2012   inzake kennisgevingen met betrekking tot producenten- en brancheorganisaties en   betrekkingen als bedoeld in Verordening (EG) nr. 1234/2007 van de Raad in de   sector van melk en melkproducten;<BR>5° verordening (EU) nr. 1308/2013:   verordening (EU) nr. 1308/2013 van het Europees Parlement en de Raad van 17   december 2013 tot vaststelling van een gemeenschappelijke ordening van de   markten voor landbouwproducten en tot intrekking van de Verordeningen (EEG) nr.   922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de   Raad.
+In dit besluit wordt verstaan onder :<BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° gedelegeerde verordening (EU) nr. 880/2012 : de gedelegeerde   Verordening (EU) Nr. 880/2012 VAN DE COMMISSIE van 28 juni 2012 ter aanvulling   van Verordening (EG) nr. 1234/2007 van de Raad wat de grensoverschrijdende   samenwerking en de contractuele onderhandelingen van producentenorganisaties in   de sector melk en zuivelproducten betreft <BR>3° minister : de Vlaamse minister   bevoegd voor het landbouwbeleid en de zeevisserij;<BR>4° uitvoeringsverordening   (EU) nr. 511/2012 : de uitvoeringsverordening (EU) nr. 511/2012 van de Commissie   van 15 juni 2012 inzake kennisgevingen met betrekking tot producenten- en   brancheorganisaties en betrekkingen als bedoeld in Verordening (EG) nr.   1234/2007 van de Raad in de sector van melk en melkproducten;<BR>5° verordening   (EU) nr. 1308/2013: verordening (EU) nr. 1308/2013 van het Europees Parlement en   de Raad van 17 december 2013 tot vaststelling van een gemeenschappelijke   ordening van de markten voor landbouwproducten en tot intrekking van de   Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr. 1037/2001 en (EG) nr.   1234/2007 van de Raad.
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.<BR><BR>De aangelegenheden, vermeld in het eerste lid, omvatten:<BR>1° de   coördinatie van de interpretatie en implementatie van verordening (EU) nr.   1308/2013, uitvoeringsverordening (EU) nr. 511/2012 en gedelegeerde verordening   (EU) nr. 880/2012;<BR>2° het in ontvangst nemen en het onderzoek van de   aanvragen tot erkenning en van de nodige bewijsstukken;<BR>3° de coördinatie van   de controles;<BR>4° het in ontvangst nemen van wijzigingen van de samenstelling   van producentenorganisaties en brancheorganisaties;<BR>5° het verrichten van de   controles op erkenningscriteria en de ledenlijst van producentenorganisaties en   brancheorganisaties;<BR>6° het in ontvangst nemen van de communicatie van   producentenorganisaties en unies van producentenorganisaties over de   productievolumes waarover ze onderhandelen;<BR>7° de mededelingen aan en de   contacten met de Commissie van de Europese Gemeenschappen;<BR>8° het controleren   van de voorwaarden, vermeld in artikel 150 van verordening (EU) nr. 1308/2013,   waaronder de aanbodregulering voor producten met beschermde oorsprongsbenaming   of een beschermde geografische aanduiding door producentenorganisaties of   brancheorganisaties aanvaard kan worden;<BR>9° het controleren van de   voorwaarden voor de erkenning van kopers en de mogelijke intrekking van   erkenningen;<BR>10° het ontvangen en verzamelen van de maandelijkse en   jaarlijkse leveringsgegevens.
 
 ## HOOFDSTUK 2. Producentenorganisaties en unies van erkende producentenorganisaties
 
@@ -26,15 +30,15 @@ Voor de toepassing van artikel 152, derde lid, artikel 154 en artikel 156,   twe
 
 ### ART. 5.
 
-<P>De producentenorganisaties of de unies van erkende producentenorganisaties   bieden bij de aanvraag tot erkenning aan de bevoegde diensten voldoende   garanties ten aanzien van de verwezenlijking, de duur en de doelmatigheid van   hun optreden. </P>  <P>Ze tonen aan dat hun werking bijdraagt tot een meer efficiënte werking en   concentratie van het aanbod overeenkomstig artikel 154, eerste lid, c), van   verordening (EU) nr. 1308/2013.</P>
+<P>De producentenorganisaties of de unies van erkende producentenorganisaties   bieden bij de aanvraag tot erkenning aan de bevoegde&nbsp;entiteit voldoende   garanties ten aanzien van de verwezenlijking, de duur en de doelmatigheid van   hun optreden. </P>  <P>Ze tonen aan dat hun werking bijdraagt tot een meer efficiënte werking en   concentratie van het aanbod overeenkomstig artikel 154, eerste lid, c), van   verordening (EU) nr. 1308/2013.</P>
 
 ### ART. 6.
 
-Wijzigingen van de statuten, het huishoudelijk reglement of het   ledenbestand worden in voorkomend geval jaarlijks meegedeeld aan de bevoegde   dienst voor 31 januari. Daarbij wordt het ledenbestand van 1 januari van   hetzelfde kalenderjaar meegedeeld met de productievolumes van de nieuwe leden   tijdens het afgelopen kalenderjaar.
+Wijzigingen van de statuten, het huishoudelijk reglement of het   ledenbestand worden in voorkomend geval jaarlijks meegedeeld aan de   bevoegde&nbsp;entiteit voor 31 januari. Daarbij wordt het ledenbestand van 1   januari van hetzelfde kalenderjaar meegedeeld met de productievolumes van de   nieuwe leden tijdens het afgelopen kalenderjaar.
 
 ### ART. 7.
 
-De aanvraag tot erkenning wordt ingediend bij de bevoegde dienst.
+De aanvraag tot erkenning wordt ingediend bij de bevoegde entiteit.
 
 ### ART. 8.
 
@@ -56,11 +60,11 @@ Nieuwe brancheorganisaties moeten bij de aanvraag tot erkenning aantonen   dat d
 
 ### ART. 12.
 
-Opdat de bevoegde diensten samenwerking binnen een brancheorganisatie   kunnen goedkeuren, moeten de betrokkenen een verantwoordingsdossier voorleggen   met :<BR>1° een duidelijke identificatie van de partners, die bestaat uit de   naam, het adres en een omschrijving van de activiteit van die partners;<BR>2°   het toepassingsgebied van de samenwerking;<BR>3° een omschrijving van de   doelstellingen van de samenwerking.
+Opdat de bevoegde&nbsp;entiteit samenwerking binnen een brancheorganisatie   kan goedkeuren, moeten de betrokkenen een verantwoordingsdossier voorleggen met   :<BR>1° een duidelijke identificatie van de partners, die bestaat uit de naam,   het adres en een omschrijving van de activiteit van die partners;<BR>2° het   toepassingsgebied van de samenwerking;<BR>3° een omschrijving van de   doelstellingen van de samenwerking.
 
 ### ART. 13.
 
-De aanvraag tot erkenning en alle bewijsstukken worden ingediend bij de   bevoegde dienst.
+De aanvraag tot erkenning en alle bewijsstukken worden ingediend bij de   bevoegde entiteit.
 
 ### ART. 14.
 
@@ -92,13 +96,13 @@ Onderhandelingen voor de afzet van producten kunnen gevoerd worden door   een er
 
 ### ART. 18.
 
-De minister zal regels uitwerken voor een periodieke aanlevering van   leveringsgegevens van individuele melkveehouders om de bevoegde dienst in de   mogelijkheid te stellen de onderhandelingsplafonds, vermeld in artikel 149,   tweede lid, c), van verordening (EU) nr. 1308/2013 te controleren. De periodieke   aanlevering zal maximaal maandelijks en minimaal jaarlijks zijn.
+De minister zal regels uitwerken voor een periodieke aanlevering van   leveringsgegevens van individuele melkveehouders om de bevoegde&nbsp;entiteit in   de mogelijkheid te stellen de onderhandelingsplafonds, vermeld in artikel 149,   tweede lid, c), van verordening (EU) nr. 1308/2013 te controleren. De periodieke   aanlevering zal maximaal maandelijks en minimaal jaarlijks zijn.
 
 ## HOOFDSTUK 5. Aanbodregulering van producten met een beschermde oorsprongsbenaming of een beschermde geografische aanduiding
 
 ### ART. 19.
 
-<P>De minister kan overeenkomstig artikel 150 van verordening (EU) nr. 1308/2013   voor een beperkte periode regels vastleggen om het aanbod van kazen met een   beschermde oorsprongsbenaming of een beschermde geografische aanduiding als   vermeld in artikel 5, eerste en tweede lid, van verordening (EU) nr. 1151/2012   van het Europees Parlement en de Raad van 21 november 2012 inzake   kwaliteitsregelingen voor landbouwproducten en levensmiddelen, of door een   groepering van marktdeelnemers als vermeld in artikel 3, 2 en artikel 49, eerste   lid van verordening (EG) nr. 1151/2012.<BR></P>  <P>Overeenkomstig artikel 4, eerste lid, van uitvoeringsverordening (EU) nr.   511/2012, moeten bij aanbodregulering van de bovenvermelde kazen door de   betrokken organisatie de volgende elementen meegedeeld worden aan de bevoegde   diensten :<BR>1° de naam van de kaas;<BR>2° de naam en het type van de   organisatie die het aanbod van de kaas wil reguleren;<BR>3° de geselecteerde   manier om aan aanbodbeheersing te doen;<BR>4° de startdatum van de   aanbodbeheersing; <BR>5° de periode waarin de aanbodbeheersing zal   plaatsvinden.</P>
+<P>De minister kan overeenkomstig artikel 150 van verordening (EU) nr. 1308/2013   voor een beperkte periode regels vastleggen om het aanbod van kazen met een   beschermde oorsprongsbenaming of een beschermde geografische aanduiding als   vermeld in artikel 5, eerste en tweede lid, van verordening (EU) nr. 1151/2012   van het Europees Parlement en de Raad van 21 november 2012 inzake   kwaliteitsregelingen voor landbouwproducten en levensmiddelen, of door een   groepering van marktdeelnemers als vermeld in artikel 3, 2 en artikel 49, eerste   lid van verordening (EG) nr. 1151/2012.<BR></P>  <P>Overeenkomstig artikel 4, eerste lid, van uitvoeringsverordening (EU) nr.   511/2012, moeten bij aanbodregulering van de bovenvermelde kazen door de   betrokken organisatie de volgende elementen meegedeeld worden aan de bevoegde   entiteit:<BR>1° de naam van de kaas;<BR>2° de naam en het type van de   organisatie die het aanbod van de kaas wil reguleren;<BR>3° de geselecteerde   manier om aan aanbodbeheersing te doen;<BR>4° de startdatum van de   aanbodbeheersing; <BR>5° de periode waarin de aanbodbeheersing zal   plaatsvinden.</P>
 
 ## [HOOFDSTUK 5/1. Erkenningen van kopers en verplichte aangiften in de sector melk en zuivelproducten (ing. BVR 6 juni 2014, art. 15, I: 1 april 2015)]
 
@@ -106,7 +110,7 @@ De minister zal regels uitwerken voor een periodieke aanlevering van   leverings
 
 ### ART. 20.
 
-De minister wijst de bevoegde diensten aan die belast zijn met :<BR>1° de   coördinatie van de interpretatie en implementatie van verordening (EU) nr.   1308/2013, uitvoeringsverordening (EU) nr. 511/2012 en gedelegeerde verordening   (EU) nr. 880/2012;<BR>2° het in ontvangst nemen en het onderzoek van de   aanvragen tot erkenning en van de nodige bewijsstukken;<BR>3° de coördinatie van   de controles;<BR>4° het in ontvangst nemen van wijzigingen van de samenstelling   van producentenorganisaties en brancheorganisaties;<BR>5° het verrichten van de   controles op erkenningscriteria en de ledenlijst van producentenorganisaties en   brancheorganisaties;<BR>6° het in ontvangst nemen van de communicatie van   producentenorganisaties en unies van producentenorganisaties over de   productievolumes waarover ze onderhandelen;<BR>7° de mededelingen aan en de   contacten met de Commissie van de Europese Gemeenschappen;<BR>8° het controleren   van de voorwaarden, vermeld in artikel 150 van verordening (EU) nr. 1308/2013,   waaronder de aanbodregulering voor producten met beschermde oorsprongsbenaming   of een beschermde geografische aanduiding door producentenorganisaties of   brancheorganisaties aanvaard kan worden.
+<P><STRONG><EM>...</EM></STRONG></P>
 
 ## HOOFDSTUK 7. Algemene intrekkings-, en schorsingsbepalingen
 
