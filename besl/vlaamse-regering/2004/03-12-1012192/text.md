@@ -2,7 +2,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° land- of tuinbouwbedrijfshoofd: de natuurlijke persoon of rechtspersoon die een land- of tuinbouwbedrijf uitbaat en die activiteit in hoofdberoep of nevenberoep uitoefent;<br />2° natuurlijke persoon, land- of tuinbouwbedrijfshoofd: de natuurlijke persoon die zelf het land- of tuinbouwbedrijf uitbaat;<br />3° rechtspersoon, land- of tuinbouwbedrijfshoofd: de rechtspersoon waarvan de statuten de uitbating van een land- of tuinbouwbedrijf tot voorwerp hebben en producten verhandelt die in hoofdzaak voortgebracht werden op dit bedrijf;<br />4° minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br />5° de bevoegde entiteit : het Agentschap voor Landbouw en Visserij.
+In dit besluit wordt verstaan onder:<BR><BR>1° land- of   tuinbouwbedrijfshoofd: de natuurlijke persoon of rechtspersoon die een land- of   tuinbouwbedrijf uitbaat en die activiteit in hoofdberoep of nevenberoep   uitoefent;<BR>2° natuurlijke persoon, land- of tuinbouwbedrijfshoofd: de   natuurlijke persoon die zelf het land- of tuinbouwbedrijf uitbaat;<BR>3°   rechtspersoon, land- of tuinbouwbedrijfshoofd: de rechtspersoon waarvan de   statuten de uitbating van een land- of tuinbouwbedrijf tot voorwerp hebben en   producten verhandelt die in hoofdzaak voortgebracht werden op dit bedrijf;<BR>4°   minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<BR>5° de   bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij.
+
+### ART. 1bis.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
@@ -10,7 +14,7 @@ In dit besluit wordt verstaan onder:<br /><br />1° land- of tuinbouwbedrijfshoo
 
 ### ART. 2bis.
 
-Om van de subsidie, bedoeld in artikel 2, te genieten, sluit het land- of tuinbouwbedrijfshoofd een overeenkomst met een erkende bedrijfsleidingsdienst, overeenkomstig het model dat als bijlage III bij dit besluit gaat.<br /><br />Deze overeenkomst, die overeenkomstig artikel 5, § 3, 1°, bezorgd wordt aan de dienst Begeleidende Maatregelen van de administratie Beheer en Kwaliteit Landbouwproductie, geldt als subsidieaanvraag.  <span class="reference">(ing. B.V.R. 16 december 2005, art. 4, I: 1 januari 2005)</span> ]
+Om van de subsidie, bedoeld in artikel 2, te genieten, sluit het land- of   tuinbouwbedrijfshoofd een overeenkomst met een erkende bedrijfsleidingsdienst,   overeenkomstig het model dat als bijlage III bij dit besluit gaat.<BR><BR>Deze   overeenkomst, die overeenkomstig artikel 5, § 3, 1°, bezorgd wordt aan de   bevoegde entiteit, geldt als subsidieaanvraag.
 
 ### ART. 3.
 
