@@ -81,6 +81,10 @@ In artikel 10, § 1, van hetzelfde decreet wordt punt 2° vervangen door wat   v
 
 ## HOOFDSTUK 6 Slotbepalingen
 
+### ART. 16.
+
+Het decreet van 21 december 2001 houdende vermindering van het gebruik van   bestrijdingsmiddelen door openbare diensten in het Vlaamse Gewest wordt   opgeheven.<BR>
+
 ### ART. 17.
 
 Artikel 16 treedt in werking op 1 januari 2015. <BR>
