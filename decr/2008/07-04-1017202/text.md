@@ -586,11 +586,11 @@ Als dat gemiddelde niet wordt bereikt, dan wordt het werkingsbudget evenredig ve
 
 ### ART. 20.
 
-Voor het begrotingsjaar 2009, dat de kredieten omvat voor het schooljaar 2008-2009, is het bedrag dat bestemd is voor het deeltijds kunstonderwijs in het Gemeenschapsonderwijs 1.820.000 euro.<br /><br />Vanaf begrotingsjaar 2009 wordt dit werkingsbudget jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A2 die als volgt berekend wordt :<br />A2 = (Cx-1/Cx-2), waarbij :<br />1° Cx-1 : de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br />2° Cx-2 : de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br /><br />De A2-coëfficiënt wordt voor 100 % in rekening gebracht.
+<P>Voor het begrotingsjaar 2015, dat de kredieten omvat voor het schooljaar   2014-2015, is het bedrag dat bestemd is voor het deeltijds kunstonderwijs in het   Gemeenschapsonderwijs 1.729.877 euro.<BR><BR>Vanaf het schooljaar 2015-2016   wordt het werkingsbudget van het voorgaande schooljaar jaarlijks vermenigvuldigd   met de aanpassingscoëfficiënt A2 die voor een schooljaar (X, X+1) als volgt   berekend wordt:<BR>A2 = (Cx-1/Cx-2), waarbij:<BR>1° Cx-1: de gezondheidsindex   van de maand januari van het begrotingsjaar x-1;<BR>2° Cx-2: de gezondheidsindex   van de maand januari van het begrotingsjaar x-2.<BR><BR>De A2-coëfficiënt wordt   voor 100 % in rekening gebracht.</P>
 
 ### ART. 20/1.
 
-In afwijking van artikel 20 is de A2-coëfficiënt voor het jaar 2010 en   voor het jaar 2012 en voor het jaar 2013 gelijk aan 1.
+<P>...</P>
 
 ## HOOFDSTUK V. Evaluatie
 
