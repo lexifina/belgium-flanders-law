@@ -16,7 +16,7 @@ Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen
 
 ### ART. 1.1.0.0.1.
 
-<P>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in   overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 2   april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen   en/of woningen.</P>  <P><BR>De begrippen, gehanteerd in titel 2, hoofdstuk 6, worden geïnterpreteerd   in overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van   1 juli 1997 tot uitvoering van het decreet van 19 april 1995 houdende   maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van   bedrijfsruimten.</P>
+<P>De begrippen, gehanteerd in titel 2, hoofdstuk 5, worden geïnterpreteerd in   overeenstemming met de bepalingen van het besluit van de Vlaamse Regering van 2   april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen   en/of woningen.<BR><BR>De begrippen, gehanteerd in titel 2, hoofdstuk 6, worden   geïnterpreteerd in overeenstemming met de bepalingen van het besluit van de   Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april   1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten.<BR><BR>In titel 3, hoofdstuk 4, afdeling 3,   van dit besluit wordt verstaan onder : de bijzondere commissie : de bijzondere   commissie, vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de Vlaamse Codex   Fiscaliteit van 13 december 2013.<BR><BR>In titel 3, hoofdstuk 20, van dit   besluit wordt verstaan onder :<BR>1° het Agentschap : het Agentschap voor Natuur   en Bos, vermeld in artikel 27, § 1, 2° van het besluit van de Vlaamse Regering   van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse   administratie;<BR>2° uitgebreid beheerplan van bossen : het beheerplan dat de   gegevens bevat, vermeld in bijlage I bij het besluit van de Vlaamse Regering van   27 juni 2003 betreffende de beheerplannen van bossen</P>
 
 ## TITEL 2. Belastingheffing
 
@@ -320,81 +320,225 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
 
+### ART. 2.7.1.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
+
+### ART. 2.7.2.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
 
+### ART. 2.7.3.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 4. Tarieven (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
+
+### ART. 2.7.4.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
 
+### ART. 2.7.5.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
 
+### ART. 2.7.6.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 28, I: 1 januari 2015)]
+
+### ART. 2.7.7.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [HOOFDSTUK 8. Schenkbelasting (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
 
+### ART. 2.8.1.0.1.
+
+<P>Voorbehouden voor toekomstig gebruik.</P>
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
+
+### ART. 2.8.2.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
 
+### ART. 2.8.3.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 4. Tarieven (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
+
+### ART. 2.8.4.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
 
+### ART. 2.8.5.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
 
+### ART. 2.8.6.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 29, I: 1 januari 2015)]
+
+### ART. 2.8.7.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [HOOFDSTUK 9. Verkooprecht (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
+### ART. 2.9.1.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
+
+### ART. 2.9.2.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
+### ART. 2.9.3.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 4. Tarieven (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
+
+### ART. 2.9.4.0.1.
+
+In het geval, vermeld in artikel 3.6.0.0.6, § 6, eerste lid, 2°, van de   Vlaamse Codex Fiscaliteit van 13 december 2013, wordt het maximum inkomen van   het gebouwd onroerend goed en van zijn aanhorigheden vastgesteld conform artikel   2.9.4.2.1, § 2, 2°, b) en c), van de voormelde codex en volgens het daarin   gemaakte onderscheid, met dien verstande dat de datum waarop het kadastraal   inkomen is vastgesteld na voltooiing van het gebouw, in de plaats komt van de   datum van de akte van verkrijging.
+
+### ART. 2.9.4.0.2.
+
+De coëfficiënt, vermeld in artikel 2.9.4.2.8, § 1, van de Vlaamse Codex   Fiscaliteit van 13 december 2013, wordt vastgesteld op   driehonderdvijftig.
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
+### ART. 2.9.5.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
 
+### ART. 2.9.6.0.1.
+
+De coëfficiënt, vermeld in artikel 2.9.6.0.4 van de Vlaamse Codex   Fiscaliteit van 13 december 2013, wordt bepaald met toepassing van artikel   2.9.4.0.2.
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 30, I: 1 januari 2015)]
+
+### ART. 2.9.7.0.1.
+
+De coëfficiënt, vermeld in artikel 2.9.7.0.2, tweede lid, van de Vlaamse   Codex Fiscaliteit van 13 december 2013, wordt bepaald met toepassing van artikel   2.9.4.0.2..
 
 ## [HOOFDSTUK 10. Verdeelrecht (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.10.1.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.10.2.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.10.3.0.1
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 4. Tarieven (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.10.4.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.10.5.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.10.6.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.10.7.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [HOOFDSTUK 11. Recht op hypotheekvestiging (ing. BVR 19 december 2014, art. 32, I: 1 januari 2015)]
 
 ## [Afdeling 1. Belastbaar voorwerp (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.11.1.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 2. Belastingplichtigen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.11.2.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Belastbare grondslag (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.11.3.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 4. Tarieven (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.11.4.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 5. Verminderingen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.11.5.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 6. Vrijstellingen (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
 
+### ART. 2.11.6.0.1.
+
+Voorbehouden voor toekomstig gebruik.
+
 ## [Afdeling 7. Wijze van heffing (ing. BVR 19 december 2014, art. 31, I: 1 januari 2015)]
+
+### ART. 2.11.7.0.1.
+
+Voorbehouden voor toekomstig gebruik.
 
 ## [HOOFDSTUK 12. Belasting op de spelen en weddenschappen (ing. BVR 14 december 2018, art. 1, I: 1 januari 2019)]
 
@@ -528,6 +672,10 @@ De belastingen en toebehoren worden in elk stadium van de berekening in   euro v
 
 De belastingplichtige geeft elke wijziging van de elementen van de   aangifte aan voordat hij het voertuig in zijn gewijzigde toestand   gebruikt.
 
+### ART. 3.3.1.0.3.
+
+De aangifte van nalatenschap, vermeld in artikel 3.3.1.0.5 of 3.3.1.0.6   van de Vlaamse Codex Fiscaliteit van 13 december 2013, wordt gedaan door middel   van een formulier, dat wordt afgeleverd door de bevoegde entiteit van de Vlaamse   administratie en dat de elementen bevat, vermeld in artikel 3.3.10.8, § 1, van   de Vlaamse Codex Fiscaliteit van 13 december 2013.
+
 ## Afdeling 2. Aanslagjaar en belastbaar tijdperk
 
 ### ART. 3.3.2.0.1.
@@ -575,6 +723,30 @@ Voorbehouden voor toekomstig gebruik.
 ### ART. 3.4.3.0.2.
 
 Belastingen waarvoor een gerechtsdeurwaarder in opdracht van de bevoegde   entiteit van de Vlaamse administratie vervolgingen instelt, kunnen in afwijking   van artikel 3.4.1.0.1 en 3.4.3.0.1 betaald worden in handen van die   gerechtsdeurwaarder.
+
+### ART. 3.4.3.0.3.
+
+§ 1. Als de kunstwerken in hun geheel deel uitmaken van de nalatenschap of   op de dag van het overlijden in hun geheel toebehoren aan de overledene en zijn   overlevende echtgenoot, moet de schattingsaanvraag, vermeld in artikel   3.4.3.0.2, § 1, zevende lid, van de Vlaamse Codex Fiscaliteit van 13 december   2013, worden ingediend voor het verstrijken van hetzij de normale termijn voor   de indiening van de aangifte, vermeld in artikel 3.3.1.0.5, § 2, van de   voormelde codex, hetzij de termijn voor de aangifte die conform artikel   3.3.1.0.7 van de voormelde codex werd verlengd, als de verlenging van de termijn   van indiening werd toegestaan op andere gronden dan de indiening van de   schattingsaanvraag.<BR><BR>Als datum van de schattingsaanvraag geldt de datum   van de afgifte bij de post van de aangetekende brief.<BR><BR>§ 2. Als de   kunstwerken op de dag van het overlijden in hun geheel toebehoren aan de   overlevende echtgenoot of aan de erfgenamen, legatarissen of begiftigden, moet   de schattingsaanvraag, vermeld in artikel 3.4.3.0.2, § 1, zevende lid, van de   Vlaamse Codex Fiscaliteit van 13 december 2013, worden ingediend voor het   verstrijken van de betalingstermijn, vermeld in artikel 3.4.2.0.1, eerste lid,   van de voormelde codex.<BR><BR>Als datum van de schattingsaanvraag geldt de   datum van de afgifte bij de post van de aangetekende brief.<BR><BR>§ 3. Zowel in   het geval, vermeld in paragraaf 1, als in het geval, vermeld in paragraaf 2,   geldt de schattingsaanvraag als aanbod tot inbetalinggeving.<BR><BR>§ 4. De   schattingsaanvraag, vermeld in artikel 3.4.3.0.2, § 1, zevende lid, van de   Vlaamse Codex Fiscaliteit van 13 december 2013, vermeldt :<BR>1° de voornamen,   de achternaam en de laatste fiscale woonplaats van de erflater en de plaats en   de datum van zijn overlijden;<BR>2° de voornamen, de achternaam en de woonplaats   van iedere schattingsaanvrager, de titel krachtens welke ze tot de nalatenschap   komen en de vermelding of ze al dan niet gehouden zijn tot de indiening van de   aangifte van nalatenschap;<BR>3° de keuze van de woonplaats in België van één   van de schattingsaanvragers als plaats waar alle kennisgevingen aan de   schattingsaanvragers naar kunnen worden gestuurd;<BR>4° een nauwkeurige   beschrijving van ieder kunstwerk waarvan de schatting wordt gevraagd met   vermelding van de auteurs ervan, de situering van de kunstwerken in het oeuvre   van de auteurs, de plaatsen waar ze eventueel werden tentoongesteld, de staat   waarin het kunstwerk verkeert en de plaats waar ze zich zullen bevinden   gedurende de procedure van inbetalinggeving als het om moeilijk verplaatsbare   kunstwerken gaat;<BR>5° of de kunstwerken al dan niet verzekerd zijn, en als de   kunstwerken verzekerd zijn, de naam van de verzekeringsmaatschappijen, de datum   en het nummer van de polissen en de verzekerde waarde per kunstwerk als ze   afzonderlijk zijn verzekerd;<BR>6° de uitdrukkelijke bevestiging dat ieder   kunstwerk waarvan de schatting wordt gevraagd voldoet aan de   eigendomsvoorwaarde, vermeld in artikel 3.4.3.0.2, § 1, tweede lid, van de   voormelde codex, met specificatie van de wijze waarop de titel van eigendom van   de schattingsaanvragers tot stand is gekomen.<BR><BR>§ 5. De schattingsaanvraag,   vermeld in artikel 3.4.3.0.2, § 1, zevende lid, van de Vlaamse Codex Fiscaliteit   van 13 december 2013, bevat ook een dossier met daarin :<BR>1° stukken en   elementen die de eigendomstitels van de schattingsaanvragers staven;<BR>2°   recente fotografische of andere afbeeldingen van de kunstwerken;<BR>3° in   voorkomend geval, een kopie van de echtheidscertificaten die de aangevers   bezitten;<BR>4° als de schattingsaanvragers daarover beschikken, alle stukken of   elementen die een indicatie geven van de actuele waarde van de aangeboden   kunstwerken;<BR>5° alle stukken of elementen waaruit blijkt dat de kunstwerken   naar het oordeel van de schattingsaanvragers internationale faam hebben of   waaruit blijkt dat de kunstwerken tot het roerend cultureel erfgoed van het land   behoren;<BR>6° een afschrift van alle verzekeringscontracten die permanent of   occasioneel voor de aangeboden kunstwerken werden gesloten, met de bijgevoegde   expertiseverslagen die eventueel werden opgemaakt om de te verzekeren waarde te   bepalen.<BR><BR>§ 6. De bijzondere commissie reikt een ontvangstbewijs van de   schattingsaanvraag uit aan de schattingsaanvragers.<BR><BR>§ 7. Als de   schattingsaanvraag of het dossier dat bij de aanvraag moet worden gevoegd   onvolledig of onduidelijk is, vraagt de bijzondere commissie de nodige stukken   of bewijzen op bij de schattingsaanvragers.<BR><BR>§ 8. De bijzondere commissie   adviseert conform artikel 3.4.3.0.2, § 2, eerste lid, 2°, van de Vlaamse Codex   Fiscaliteit van 13 december 2013, de Vlaamse minister, bevoegd voor de   fiscaliteit, de financiën en de begrotingen tot de onontvankelijkheid van de   schattingsaanvraag te beslissen als :<BR>1° de aanvraag niet voldoet aan de   vereisten, vermeld in paragraaf 4;<BR>2° de schattingsaanvragers de stukken,   vermeld in paragraaf 7, die de bijzondere commissie heeft opgevraagd niet   leveren binnen een termijn van een maand;<BR>3° de schattingsaanvraag laattijdig   werd ingediend.<BR><BR>In het geval, vermeld in het eerste lid, neemt de Vlaamse   minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen de   beslissing om het aanbod tot afgifte van kunstwerken te verwerpen. Hij stelt de   bijzondere commissie in kennis van zijn beslissing om het aanbod tot afgifte van   kunstwerken te verwerpen.<BR><BR>De bijzondere commissie brengt de bevoegde   entiteit van de Vlaamse administratie op de hoogte van de beslissing van de   Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen,   om het aanbod tot afgifte van kunstwerken te verwerpen. De bevoegde entiteit van   de Vlaamse administratie brengt vervolgens de schattingsaanvragers van deze   beslissing op de hoogte.
+
+### ART. 3.4.3.0.4.
+
+§ 1. De bijzondere commissie kan eisen dat de kunstwerken die ter betaling   van de invorderbare erfbelasting worden aangeboden, worden getoond aan de   bijzondere commissie of aan de experten of instellingen die ze heeft   aangewezen.<BR><BR>De bijzondere commissie kan ook eisen dat de kunstwerken aan   de bijzondere commissie of aan de experten of instellingen die ze heeft   aangewezen, in bruikleen gegeven worden voor nader onderzoek naar de echtheid en   naar de kosten van restauratie of instandhouding ervan.<BR><BR>De voorzitter van   de bijzondere commissie bepaalt de datum en de plaats van de uitvoering van die   verplichtingen in overleg met de schattingsaanvragers. Als een kunstwerk   moeilijk te verplaatsen is, kunnen de schattingsaanvragers verzoeken zich van de   hun opgelegde verplichtingen te kwijten door het kunstwerk op de dagen en uren   die de voorzitter heeft bepaald, toegankelijk te maken voor de bijzondere   commissie of voor de experten die de bijzondere commissie heeft aangewezen of de   vertegenwoordigers van de instellingen die de bijzondere commissie heeft   aangewezen. De plaats waar het kunstwerk toegankelijk wordt gemaakt, moet in   België liggen.<BR><BR>De kunstwerken worden getoond en het in bruikleen gegeven   op risico van de schattingsaanvragers. Met uitzondering van artikel 1883, zijn   artikel 1880 tot en met 1891 van het Burgerlijk Wetboek van toepassing.<BR><BR>§   2. Als de schattingsaanvragers zich niet kunnen of willen kwijten van de   verplichtingen, vermeld in paragraaf 1, adviseert de bijzondere commissie   conform artikel 3.4.3.0.2, § 2, eerste lid, van de Vlaamse Codex Fiscaliteit van   13 december 2013, de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën   en de begrotingen, op grond daarvan tot de onontvankelijkheid van de   schattingsaanvraag te beslissen.<BR><BR>In het geval, vermeld in het eerste lid,   neemt de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en de   begrotingen de beslissing om het aanbod tot afgifte van kunstwerken te   verwerpen. Hij stelt de bijzondere commissie in kennis van zijn beslissing om   het aanbod tot afgifte van kunstwerken te verwerpen.<BR><BR>De bijzondere   commissie brengt de bevoegde entiteit van de Vlaamse administratie op de hoogte   van de beslissing van de Vlaamse minister, bevoegd voor de fiscaliteit, de   financiën en de begrotingen, om het aanbod tot afgifte van kunstwerken te   verwerpen. De bevoegde entiteit van de Vlaamse administratie brengt vervolgens   de schattingsaanvragers van deze beslissing op de hoogte.<BR><BR>§ 3. Als de   bijzondere commissie vaststelt dat geen van de kunstwerken voldoet aan de   kwalitatieve vereisten, vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de   Vlaamse Codex Fiscaliteit van 13 december 2013, geeft ze een negatief advies aan   de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen   conform artikel 3.4.3.0.2, § 2, eerste lid, van de voormelde codex.<BR><BR>In   het geval, vermeld in het eerste lid, neemt de Vlaamse minister, bevoegd voor de   fiscaliteit, de financiën en de begrotingen de beslissing om het aanbod tot   afgifte van kunstwerken te verwerpen. Hij stelt de bijzondere commissie in   kennis van zijn beslissing om het aanbod tot afgifte van kunstwerken te   verwerpen.<BR><BR>De bijzondere commissie brengt de bevoegde entiteit van de   Vlaamse administratie op de hoogte van de beslissing van de Vlaamse minister,   bevoegd voor de fiscaliteit, de financiën en de begrotingen, om het aanbod tot   afgifte van kunstwerken te verwerpen. De bevoegde entiteit van de Vlaamse   administratie brengt vervolgens de schattingsaanvragers van deze beslissing op   de hoogte.<BR><BR>§ 4. Als de bijzondere commissie oordeelt dat sommige van de   kunstwerken wel en andere niet voldoen aan de kwalitatieve vereisten, vermeld in   artikel 3.4.3.0.2, § 1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13   december 2013, brengt de voorzitter van de commissie de schattingsaanvragers   daarvan op de hoogte.<BR><BR>In het geval, vermeld in het eerste lid, hebben de   schattingsaanvragers de mogelijkheid om hun aanvraag te beperken tot de   kunstwerken die voldoen aan de kwalitatieve vereisten, vermeld in het eerste   lid. Ze brengen de voorzitter van de bijzondere commissie daarvan op de hoogte   binnen een maand, te rekenen vanaf de datum van de verzending van de   kennisgeving, vermeld in het eerste lid.<BR><BR>Bij gebrek aan een tijdige   kennisgeving als vermeld in het tweede lid, geeft de bijzondere commissie een   negatief advies aan de Vlaamse minister, bevoegd voor de fiscaliteit, de   financiën en de begrotingen, conform artikel 3.4.3.0.2, § 2, eerste lid, van de   voormelde codex, met betrekking tot de totaliteit van de kunstwerken. Er wordt   dan verder gehandeld conform paragraaf 3, tweede lid.<BR><BR>§ 5. De bijzondere   commissie stelt een verslag op van haar voorlopige bevindingen met betrekking   tot de waarde van de kunstwerken die voldoen aan de kwalitatieve vereisten,   vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de Vlaamse Codex Fiscaliteit   van 13 december 2013.<BR><BR>De bijzondere commissie brengt de   schattingsaanvragers op de hoogte van het verslag, vermeld in het eerste lid. De   schattingsaanvragers beschikken over een termijn van een maand, te rekenen vanaf   de derde dag na de verzending van de voorlopige bevindingen, om hun opmerkingen   kenbaar te maken.<BR><BR>Na het verstrijken van de termijn, vermeld in het   tweede lid, stelt de bijzondere commissie het definitieve schattingsverslag op.   Dat verslag geldt als advies met betrekking tot de vastgestelde waarde van de   kunstwerken.<BR><BR>De bijzondere commissie brengt de schattingsaanvragers op de   hoogte van het definitieve schattingsverslag, vermeld in het derde   lid.
+
+### ART. 3.4.3.0.5.
+
+§ 1. Binnen een termijn van twee maanden, te rekenen vanaf de datum van de   kennisgeving van de beslissing van de Vlaamse minister, bevoegd voor de   fiscaliteit, de financiën en de begrotingen, vermeld in artikel 3.4.3.0.3, § 8,   tweede lid, artikel 3.4.3.0.4, § 2, tweede lid, § 3, tweede lid, en § 4, derde   lid, dienen de schattingsaanvragers de aangifte van nalatenschap in als een   verlenging van de indieningstermijn alleen voor de schattingsaanvraag werd   toegestaan.<BR><BR>Binnen een termijn van twee maanden, te rekenen vanaf de   datum van de kennisgeving van de beslissing van de Vlaamse minister, bevoegd   voor de fiscaliteit, de financiën en de begrotingen, vermeld artikel 3.4.3.0.3,   § 8, tweede lid, artikel 3.4.3.0.4, § 2, tweede lid, en § 3, tweede lid, wordt   een aanvullende aangifte ingediend als de kunstwerken waarvoor een   schattingsaanvraag werd ingediend, in de aangifte zijn aangegeven met een   "pro-memorie"- vermelding. Dat geldt ook voor de goederen die de   schattingsaanvragers met toepassing van artikel 3.4.3.0.4, § 4, hebben   teruggetrokken.<BR><BR>§ 2. Als op het tijdstip van de kennisgeving, vermeld in   artikel 3.4.3.0.4, § 5, vierde lid, de aangifte van nalatenschap al ingediend   is, dan moet geen aanvullende aangifte worden ingediend. Als in de   oorspronkelijke aangifte de waarde van de aangeboden kunstwerken niet als "pro   memorie" werd aangegeven, wordt die waardering gelijkgesteld met een "pro   memorie"-vermelding.<BR><BR>Er moet evenmin een aanvullende aangifte worden   ingediend als het een aangifte betreft waarvoor personen die niet tot indiening   gehouden zijn, een ontvankelijke schattingsaanvraag hebben ingediend. In dat   geval worden de waarden, vermeld in de oorspronkelijke aangifte, gelijkgesteld   met een "pro memorie"-vermelding.<BR><BR>In de gevallen, vermeld in het eerste   en tweede lid, vormen de "pro memorie"-vermeldingen of de daarmee gelijkgestelde   vermelding in de ingediende aangifte samen met de kennisgeving, vermeld in   artikel 3.4.3.0.4, § 5, vierde lid, de aangegeven waarde van de   kunstwerken.<BR><BR>§ 3. Als de aangifte van nalatenschap nog niet ingediend is   op het tijdstip van de kennisgeving, vermeld in artikel 3.4.3.0.4, § 5, vierde   lid, en de schattingsaanvraag ingediend werd door een of meer personen die   gehouden zijn tot de indiening van de aangifte van nalatenschap, dan geven de   aangevers de door de bijzondere commissie geadviseerde waarde van de kunstwerken   conform artikel 3.4.3.0.2, § 2, eerste lid, van de Vlaamse Codex Fiscaliteit van   13 december 2013 op in de aangifte van nalatenschap, met de vermelding dat die   waarde conform artikel 3.4.3.0.2, § 2, eerste lid, van de voormelde codex,werd   geadviseerd door de bijzondere commissie.<BR><BR>§ 4. Als de waarde van de   aangeboden kunstwerken, geadviseerd door de bijzondere commissie conform artikel   3.4.3.0.2, § 2, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december   2013, lager is dan of gelijk is aan het gezamenlijke bedrag van de erfbelasting,   verschuldigd door de schattingsaanvragers, kunnen de schattingsaanvragers het   aanbod alsnog geheel of gedeeltelijk intrekken.<BR><BR>Als de waarde van de   aangeboden kunstwerken, geadviseerd door de bijzondere commissie conform artikel   3.4.3.0.2, § 2, eerste lid, van de voormelde codex, het bedrag van de   erfbelasting dat gezamenlijk door de schattingsaanvragers verschuldigd,   overtreft, hebben ze de keuze om het aanbod te bevestigen, het aanbod aan te   passen door een of meer kunstwerken uit het aanbod terug te trekken zodat de   waarde van de overblijvende kunstwerken minder bedraagt dan of gelijk is aan de   verschuldigde erfbelasting, of het aanbod in te trekken. In geval van   bevestiging van het aanbod zal, als de schattingsaanvragers daarvoor opteren,   het saldo worden toegerekend op de erfbelasting, berekend ten laste van andere   met name genoemde erfgenamen, legatarissen of begiftigden. Als er na die   toerekening nog een saldo overblijft, zal dat worden toegerekend op na te   vorderen erfbelasting ten laste van de schattingsaanvragers en, in voorkomend   geval, op na te vorderen erfbelasting ten laste van de andere met name genoemde   erfgenamen, legatarissen of begiftigden. De bevestiging van het aanbod levert   geen recht op uitkering van het saldo op.<BR><BR>In het geval, vermeld in   artikel 3.4.3.0.3, § 1, blijft bij aanpassing of bij intrekking van het aanbod,   vermeld in het tweede lid, de door de bijzondere commissie geadviseerde waarde   van de kunstwerken conform artikel 3.4.3.0.2, § 2, eerste lid, van de voormelde   codex, die afhangen van de nalatenschap, de waarde die in aanmerking wordt   genomen voor de heffing van de erfbelasting.<BR><BR>§ 5. Binnen een maand na de   verzending van het aanslagbiljet brengen de schattingsaanvragers :<BR>1° in   geval van paragraaf 4, eerste lid, de bijzondere commissie op de hoogte van de   intrekking van het aanbod of van de bedragen ten belope waarvan de erfbelasting,   verschuldigd door de schattingsaanvragers, met de inbetalinggeving kan worden   voldaan als het aanbod tot inbetalinggeving wordt aanvaard door de Vlaamse   minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen;<BR>2° in   geval van paragraaf 4, tweede lid, de bijzondere commissie op de hoogte van de   bevestiging, de aanpassing of de intrekking van het aanbod. Als het aanbod wordt   aangepast vermelden de schattingsaanvragers de bedragen ten belope waarvan de   erfbelasting, verschuldigd door de schattingsaanvragers, met de inbetalinggeving   kan worden voldaan als het aanbod tot inbetalinggeving wordt aanvaard door de   Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen.   Als het aanbod wordt bevestigd, vermelden ze in voorkomend geval de bedragen ten   belope waarvan de erfbelasting, verschuldigd door de schattingsaanvragers en   door de andere met naam genoemde erfgenamen, legatarissen of begiftigden, met de   inbetalinggeving kan worden voldaan als het aanbod tot inbetalinggeving wordt   aanvaard door de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en   de begrotingen.<BR><BR>Bij gebreke van de kennisgeving aan de bijzondere   commissie, vermeld in het eerste lid, 1°, worden de schattingsaanvragers geacht   het aanbod te hebben bevestigd en zal de erfbelasting, verschuldigd door de   schattingsaanvragers, geacht worden te zijn voldaan naar evenredigheid van   ieders aandeel in de gezamenlijk door hen verschuldigde belasting in het geval,   vermeld in artikel 3.4.3.0.3, § 1 en naar evenredigheid van ieders aandeel in de   eigendom van het kunstwerk in het geval, vermeld in artikel 3.4.3.0.3, § 2, als   het aanbod tot inbetalinggeving wordt aanvaard door de Vlaamse minister, bevoegd   voor de fiscaliteit, de financiën en de begrotingen.<BR><BR>Bij gebreke van de   kennisgeving van de bevestiging, aanpassing of intrekking van het aanbod tot   inbetalinggeving aan de bijzondere commissie, vermeld in het eerste lid, 2°,   worden de schattingsaanvragers geacht het aanbod te hebben bevestigd. In dat   geval zal de erfbelasting, verschuldigd door de schattingsaanvragers, geacht   worden te zijn voldaan, als het aanbod tot inbetalinggeving wordt aanvaard door   de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën en de   begrotingen. Het saldo zal niet toegerekend worden.
+
+### ART. 3.4.3.0.6.
+
+§ 1. De voorzitter van de bijzondere commissie bezorgt het advies over de   kwalitatieve vereisten, vermeld in artikel 3.4.3.0.2, § 1, eerste lid, van de   Vlaamse Codex Fiscaliteit van 13 december 2013, en over de vastgestelde waarde   van de kunstwerken aan de Vlaamse minister, bevoegd voor de fiscaliteit, de   financiën en de begrotingen.<BR><BR>Bij het advies wordt een dossier gevoegd dat   de volgende stukken bevat :<BR>1° de schattingsaanvraag, het dossier, vermeld in   artikel 3.4.3.0.3, § 5, en alle stukken of bewijzen die de schattingsaanvragers   met toepassing van artikel 3.4.3.0.3, § 7, hebben voorgelegd;<BR>2° de door de   aanvrager gedane kennisgevingen ter uitvoering van artikel 3.4.3.0.5, § 5,   eerste lid. Bij gebrek aan kennisgevingen vermeldt de voorzitter van de   bijzondere commissie dat toepassing wordt gemaakt van artikel 3.4.3.0.5, § 5,   tweede lid;<BR>3° in voorkomend geval, de door de bijzondere commissie   opgemaakte lijst van de musea of de instellingen die belangstelling tonen om de   kunstwerken in bruikleen te krijgen voor opneming in hun collecties;<BR>4° een   gemotiveerd advies over de meest geschikte bestemming van de aangeboden   kunstwerken.<BR><BR>§ 2. De Vlaamse minister, bevoegd voor de fiscaliteit, de   financiën en de begrotingen, brengt de voorzitter van de bijzondere commissie op   de hoogte van zijn beslissing over het aanbod.<BR><BR>Als de Vlaamse minister,   bevoegd voor de fiscaliteit, de financiën en de begrotingen, niet alle   aangeboden kunstwerken aanvaardt, worden de bedragen, die door de   inbetalinggevers werden meegedeeld conform artikel 3.4.3.0.5, § 5, eerste lid,   en ten belope waarvan ze de erfbelasting die ieder van hen verschuldigd is, met   het aanbod willen voldoen, herleid naar evenredigheid van de waarde van de   kunstwerken die de Vlaamse minister, bevoegd voor de fiscaliteit, de financiën   en de begrotingen, heeft aanvaard.<BR><BR>Voor de kunstwerken die de Vlaamse   minister, bevoegd voor de fiscaliteit, de financiën en de begrotingen,   aanvaardt, vermeldt hij in die kennisgeving de musea of de instellingen waaraan   de kunstwerken moeten worden afgegeven.<BR><BR>De voorzitter van de bijzondere   commissie brengt de inbetalinggevers en de bevoegde entiteit van de Vlaamse   administratie op de hoogte van de beslissing van de Vlaamse minister, bevoegd   voor de fiscaliteit, de financiën en de begrotingen, met vermelding van de   bedragen ten belope waarvan de door ieder van de inbetalinggevers verschuldigde   erfbelasting door de afgifte van de kunstwerken geacht wordt te zijn voldaan en   van de musea of instellingen waaraan de kunstwerken moeten worden afgegeven. De   voorzitter van de bijzondere commissie brengt de musea of instellingen aan wie   de kunstwerken in bruikleen worden gegeven op de hoogte van de uiterste datum   waarop ze de kunstwerken in ontvangst moeten nemen.<BR><BR>§ 3. De   inbetalinggevers moeten de kunstwerken op hun kosten aan de aangewezen musea of   instellingen afgeven binnen twee maanden, te rekenen van de datum van de   kennisgeving door de voorzitter van de bijzondere commissie, vermeld in   paragraaf 2, vierde lid.<BR><BR>De musea of instellingen bevestigen de afgifte   van de kunstwerken binnen de gestelde termijn aan de hand van een   ontvangstbewijs, opgemaakt in tweevoud. De inbetalinggevers sturen onmiddellijk   een exemplaar van het ontvangstbewijs aan de voorzitter van de bijzondere   commissie.<BR><BR>Als de kunstwerken niet binnen de gestelde termijn zijn   afgegeven, brengen de aangewezen musea of instellingen de voorzitter van de   bijzondere commissie daarvan onmiddellijk op de hoogte. De voorzitter van de   bijzondere commissie stelt de inbetalinggevers met een aangetekende brief in   gebreke. Als de inbetalinggevers de kunstwerken niet binnen veertien dagen na de   datum van de verzending van de ingebrekestelling hebben afgegeven, wordt de   inbetalinggeving van rechtswege ontbonden, tenzij de voorzitter van de   bijzondere commissie er de voorkeur aan geeft om de gedwongen tenuitvoerlegging   van de verbintenis tot afgifte van de kunstwerken te eisen.<BR><BR>§ 4. Het   risico van de kunstwerken blijft tot bij de afgifte van de kunstwerken bij de   schattingsaanvragers.<BR><BR>Elke wijziging, verandering of beschadiging van de   kunstwerken tussen het tijdstip van de indiening van de schattingsaanvraag en   het tijdstip van de afgifte brengt de ontbinding van rechtswege van de   inbetalinggeving mee.
+
+### ART. 3.4.3.0.7.
+
+§ 1. De erelonen en expertisevergoedingen en alle andere vergoedingen van   kosten die de bijzondere commissie betaald heeft aan experten en instellingen   waarop ze voor de vervulling van haar taken heeft beroep gedaan, de kosten   verbonden aan de verplaatsingen die de leden van de bijzondere commissie hebben   gedaan om moeilijk verplaatsbare kunstwerken te onderzoeken op de plaats waar ze   door de schattingsaanvragers worden bewaard, en de kosten die verbonden zijn aan   de kennisgevingen en ingebrekestellingen die de bijzondere commissie heeft   gedaan, worden beschouwd als schattingskosten.<BR><BR>§ 2. De voorzitter van de   bijzondere commissie brengt de schattingsaanvragers op de hoogte van het bedrag   dat als voorschot op de schattingskosten bij de bevoegde eniteit van de Vlaamse   administratie moet worden betaald. Binnen een termijn van twee weken, te rekenen   van de kennisgeving, storten de schattingsaanvragers het bedrag van het   voorschot op rekening van de bevoegde entiteit van de Vlaamse Administratie.   Binnen vijf dagen na de storting zendt de bevoegde entiteit van de Vlaamse   adminstratie een eensluidend verklaard afschrift van het ontvangstbewijs aan de   voorzitter van de bijzondere commissie.<BR><BR>Dat voorschot wordt bepaald op   250 euro per kunstwerk waarvoor een schattingsaanvraag wordt   ingediend.<BR><BR>De bijzondere commissie kan in de loop van haar werkzaamheden   beslissen het als voorschot te betalen bedrag voor een of meer kunstwerken te   verhogen als blijkt dat de kosten van schatting van de desbetreffende   kunstwerken meer dan het dubbele van de geldsom, vermeld in het eerste lid,   zullen bedragen.<BR><BR>Bij laattijdige of onvolledige betaling van het   voorschot of van de verhoging ervan, is artikel 3.4.3.0.3, § 8, van   overeenkomstige toepassing.<BR><BR>§ 3. Nadat de Vlaamse minister, bevoegd voor   de fiscaliteit, de financiën en de begrotingen, de inbetalinggeving geheel of   gedeeltelijk aanvaard heeft en na de kennisname van het ontvangstbewijs, vermeld   in artikel 3.4.3.0.6, § 3, tweede lid, zendt de voorzitter van de bijzondere   commissie een attest aan de schattingsaanvragers waarin vermeld wordt dat de   schattingskosten worden gedragen door het Vlaamse Gewest.<BR><BR>Op zicht van   dat attest betaalt de bevoegde entiteit van de Vlaamse administratie het bedrag   van het voorschot terug aan de schattingsaanvragers.<BR><BR>§ 4. Als goederen   uit de schattingsaanvraag of het aanbod tot inbetalinggeving worden   teruggetrokken, als de inbetalinggeving niet wordt aanvaard of als het   ontvangstbewijs, vermeld in artikel 3.4.3.0.6, § 3, tweede lid, niet wordt   afgeleverd, stelt de voorzitter van de bijzondere commissie een staat van de   schattingskosten op. De schattingsaanvragers zijn hoofdelijk en ondeelbaar   gehouden tot betaling van die kosten.<BR><BR>Onderaan op de staat van   schattingskosten wordt het bedrag van het voorschot toegerekend op het bedrag   van de schattingskosten.<BR><BR>Blijft er nog een saldo ten bate van de   schattingsaanvragers over, dan zendt de voorzitter van de bijzondere commissie   een eensluidend verklaard afschrift van de aangevulde staat van schattingskosten   aan de bevoegde entiteit van de Vlaamse administratie en aan de   schattingsaanvragers. De bevoegde entiteit van de Vlaamse adminstratie stort   vervolgens het saldo van het voorschot terug aan de   schattingsaanvragers.<BR><BR>Als het voorschot niet volstaat voor de betaling   van de schattingskosten, zendt de voorzitter van de bijzondere commissie de   aangevulde staat van schattingskosten aan de schattingsaanvragers en een   eensluidend verklaard afschrift ervan aan de bevoegde entiteit van de Vlaamse   administratie. Het bedrag van het saldo zoals dat blijkt uit de d aangevulde   staat van schattingskosten, wordt door de bevoegde entiteit van de Vlaamse   administratie verder ingevorderd.
+
+### ART. 3.4.3.0.8.
+
+&nbsp;§ 1. De bijzondere commissie, vermeld in artikel 3.4.3.0.2, § 2, van   de Vlaamse Codex Fiscaliteit van 13 december 2013, is samengesteld uit :<BR>1°   drie personeelsleden van de bevoegde entiteit van de Vlaamse administratie,   onder wie de voorzitter en de secretaris van de commissie;<BR>2° twee   personeelsleden van de Vlaamse administratie van het beleidsdomein   Cultuur;<BR>3° vijf leden, vertegenwoordigers van de Raad voor het behoud van   het roerend cultureel erfgoed, opgericht bij artikel 4 van het decreet van 24   januari 2003 houdende bescherming van het roerend cultureel erfgoed van   uitzonderlijk belang.<BR><BR>De effectieve leden van de bijzondere commissie,   alsook hun plaatsvervangers, worden benoemd door de Vlaamse minister, bevoegd   voor de fiscaliteit, de financiën en de begrotingen.<BR><BR>Het adres van de   commissie wordt gevestigd op het adres van de bevoegde entiteit van de Vlaamse   administratie.<BR><BR>§ 2. De voorzitter van de bijzondere commissie stelt de   plaats, de dag en het uur van de vergadering vast. Hij stelt eveneens de agenda   vast.<BR><BR>De commissieleden, of hun plaatsvervanger, kunnen een punt op de   agenda laten inschrijven als ze daarvoor vooraf een verzoek aan de voorzitter   hebben gericht.<BR><BR>§ 3. De voorzitter, of, in opdracht, een secretaris,   roept de commissieleden op ten minste zeven dagen voor de datum van de   vergadering. De oproeping vermeldt de agenda.<BR><BR>Bij de oproeping wordt voor   elke schattingsaanvraag, vermeld in artikel 3.4.3.0.3, § 1 en § 2, een afschrift   van het aanvraagdossier gevoegd.<BR><BR>§ 4. Leden die de vergadering niet   kunnen bijwonen, brengen het secretariaat van de bijzondere commissie daarvan op   de hoogte, en verzoeken hun plaatsvervanger om hen op de vergadering te   vertegenwoordigen.<BR><BR>§ 5. De voorzitter opent en sluit de vergaderingen.   Hij leidt de besprekingen en organiseert de stemming als geen consensus wordt   bereikt.<BR><BR>§ 6. De notulen van de vergaderingen van de bijzondere commissie   maken een integrerend deel uit van het door de bijzondere commissie te verlenen   advies. De notulen worden, samen met het ontwerp van advies, ter goedkeuring aan   de commissieleden toegestuurd. De voorzitter van de bijzondere commissie   ondertekent het goedgekeurde advies. Elk commissielid ontvangt een afschrift van   het goedgekeurde en door de voorzitter ondertekende advies.<BR><BR>§ 7. De   voorzitter beslist, op eigen initiatief of in voorkomend geval op vraag van de   commissieleden, of en wanneer de eigenaar, de erfgenamen, legatarissen of   begiftigden, of deskundigen in de vergadering worden uitgenodigd en toegelaten   teneinde nadere inlichtingen over de kwalitatieve hoedanigheden, de toestand en   de waarde van de te schatten werken te verstrekken.<BR><BR>§ 8. De   commissieleden, de plaatsvervangers en de leden van het secretariaat zijn   gehouden tot geheimhouding in verband met de besprekingen.
 
 ## Afdeling 4. Vermeldingen op het betaalformulier
 
@@ -892,6 +1064,10 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [Afdeling 3. Andere verplichtingen in het kader van de registratiebelasting (ing. BVR 19 december 2014, art. 35, I: 1 januari 2015)]
 
+### ART. 3.12.3.0.1.
+
+<P>De beroepsverklaring, vermeld in artikel 2.9.4.2.4, § 2, 1°, van de Vlaamse   Codex Fiscaliteit van 13 december 2013, moet verzonden worden naar de bevoegde   entiteit van de Vlaamse administratie.<BR><BR>De beroepsverklaring, vermeld in   het eerste lid, moet gedagtekend en ondertekend zijn, en vermeldt de volgende   gegevens :<BR>1° de voornamen, de achternaam, het beroep en het domicilie van de   verklaarder, en zijn geboorteplaats en -datum, als het een particulier   betreft;<BR>2° de bedrijfsnaam, de bedrijvigheid, de maatschappelijke zetel, de   datum van de oprichtingsakte en, in voorkomend geval, de openbare ambtenaar voor   wie deze akte verleden werd, als het een vennootschap betreft;<BR>3° de   vermelding dat de beroepsverklaring ter uitvoering van artikel 2.9.4.2.4, § 2,   1°, van de Vlaamse Codex Fiscaliteit van 13 december 2013 gedaan   wordt.</P>
+
 ## [Afdeling 4. ... (opgeh. BVR 20 januari 2023, art. 6, I: 4 mei 2023)]
 
 ## HOOFDSTUK 13. Onderzoek en controle
@@ -908,7 +1084,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.13.1.2.1.
 
-Voorbehouden voor toekomstig gebruik.
+<P>De erfgenamen of de begiftigden moeten, om een melding te doen overeenkomstig   artikel 2.7.4.2.4, § 2, eerste lid, of artikel 2.8.6.0.7, § 2, eerste lid, van   de Vlaamse Codex Fiscaliteit van 13 december 2013, de bevoegde entiteit van de   Vlaamse administratie met het daarvoor bestemde formulier op de hoogte brengen   van wijzigingen inzake de voorwaarden die gesteld worden om het verlaagde tarief   of de vrijstelling te behouden.<BR><BR>Voor het verlaagde tarief inzake de   erfbelasting, moet in die kennisgeving het kohierartikel van het desbetreffende   aanslagbiljet voor de erfbelasting worden opgenomen.<BR><BR>Een afschrift van   het rechtsgeldig aandelenregister dat ondertekend is door alle aandeelhouders   of, bij gebreke daaraan, van de notulen van de algemene vergaderingen vanaf de   datum van het overlijden van de erflater of vanaf de datum van de authentieke   akte van schenking, alsook een afschrift van de stukken waaruit de wijziging   blijkt, moeten bij de kennisgeving worden gevoegd.</P>
 
 ## Onderafdeling 3. Plichten van derden
 
@@ -1006,6 +1182,26 @@ Voorbehouden voor toekomstig gebruik.
 
 ## [HOOFDSTUK 20. Voorafgaande attesten (ing. BVR 19 december 2014, art. 37, I: 1 januari 2015)]
 
+### ART. 3.20.0.0.1.
+
+De schriftelijke bevestiging van het Agentschap van de goedkeuring van het   uitgebreid beheerplan van bossen geldt als attest tot vrijstelling van   erfbelasting als vermeld in artikel 2.7.6.0.3 van de Vlaamse Codex Fiscaliteit   van 13 december 2013.
+
+### ART. 3.20.0.0.2.
+
+Het bevoegde personeelslid van de Vlaamse administratie brengt het   Agentschap op de hoogte van het genoten voordeel per erfgenaam. Die kennisgeving   bevat de volgende informatie :<BR>1° de voornaam, achternaam en het   rijksregisternummer van de erflater;<BR>2° de voornaam, achternaam en de   woonplaats van alle erfgenamen, alsook hun graad van verwantschap;<BR>3° de   ligging en het kadastraal perceelnummer van het onroerend goed in kwestie;<BR>4°   het bedrag van het genoten voordeel per erfgenaam.
+
+### ART. 3.20.0.0.3.
+
+Overeenkomstig artikel 13 van de wet van 16 mei 2003 tot vaststelling van   de algemene bepalingen die gelden voor de begrotingen, de controle op de   subsidies en voor de boekhouding van de gemeenschappen en de gewesten alsook   voor de organisatie van de controle door het Rekenhof, vordert het Agentschap de   subsidie, vermeld in artikel 13bis van het Bosdecreet van 13 juni 1990,   terug.
+
+### ART. 3.20.0.0.4.
+
+Het attest tot het verkrijgen van kosteloze registratie in het kader van   een brownfieldproject dat het voorwerp uitmaakt van een brownfieldconvenant als   vermeld in artikel 2.8.6.0.1, tweede lid, artikel 2.9.6.0.3, derde lid, en   artikel 2.10.6.0.3, tweede lid, van de Vlaamse Codex Fiscaliteit van 13 december   2013, bevat de volgende gegevens :<BR>1° de vermelding dat toepassing wordt   gemaakt van één van de volgende bepalingen :<BR>a) artikel 2.8.6.0.1, eerste   lid, 4°, van de voormelde codex;<BR>b) artikel 2.9.6.0.3., eerste lid, 12°, van   de voormelde codex;<BR>c) artikel 2.10.6.0.3 van de voormelde codex;<BR>2° de   naam en het adres van hetzij de begiftigde, hetzij de verkrijger;<BR>3° het   adres en het kadasternummer van het geschonken of overgedragen onroerend   goed;<BR>4° de verklaring dat het onroerend goed in kwestie verkregen werd door   hetzij een schenking onder de levenden, hetzij een aankoop of een ruil of een   andere overeenkomst tot overdracht onder bezwarende titel van eigendom of   vruchtgebruik, hetzij een gehele of gedeeltelijke verdeling of een afstand onder   bezwarende titel, onder mede-eigenaars, van onverdeelde delen of een omzetting   als vermeld in artikel 745quater en 745quinquies van het Burgerlijk   Wetboek;<BR>5° de verklaring dat de overdracht van het onroerend goed plaats   vond met het oog op de realisatie van een brownfieldproject dat het voorwerp   uitmaakt van een brownfieldconvenant als vermeld in artikel 4 van het decreet   van 30 maart 2007 betreffende de Brownfieldconvenanten;<BR>6° de verklaring dat   het onroerend goed in kwestie deel uitmaakt van een brownfieldproject, met   vermelding van de referentienummer en de projecthandelingen die ten aanzien van   het onroerend goed in kwestie zullen worden gesteld;<BR>7° de datum en plaats   van ondertekening van het attest.<BR><BR>Het attest wordt door hetzij de   begiftigde, hetzij de verkrijger ondertekend.<BR><BR>Het bevoegde personeelslid   van het Agentschap Ondernemen wordt belast met de opmaak en de verzending van de   kennisgeving waarin staat dat de voorwaarden voor het behoud van de vrijstelling   niet langer vervuld zijn. In die kennisgeving wordt de reden vermeld van het   verval van de vrijstelling. De leidend ambtenaar van het Agentschap Ondernemen   bepaalt de vorm van de kennisgeving.
+
+### ART. 3.20.0.0.5.
+
+De leidend ambtenaar van de bevoegde entiteit van de Vlaamse administratie   wordt gemachtigd om de vorm van de formulieren en attesten, vermeld in de   Vlaamse Codex Fiscaliteit van 13 december 2013 en dit besluit, te bepalen en die   formulieren en attesten aan te passen aan de decreet- en   besluitwijzigingen.
+
 ## TITEL 4. Wijzigingsbepalingen
 
 ## HOOFDSTUK 1. Wijziging van het Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen
@@ -1080,7 +1276,7 @@ Kruisverwijzingen naar de bepalingen die naar aanleiding van deze   codificatie 
 
 ### ART. 5.0.0.0.1.
 
-De volgende regelingen worden opgeheven :<BR>1° het Koninklijk besluit van   27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen   1992, zoals van toepassing op de onroerende voorheffing voor wat betreft het   Vlaamse Gewest, het laatst gewijzigd bij het besluit van de Vlaamse Regering van   15 maart 2013;<BR>2° het Koninklijk besluit van 9 januari 1995 ter uitvoering   van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de   heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens,   ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk   België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het   Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van   een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese   Gemeenschappen van 25 oktober 1993, gewijzigd bij de besluiten van de Vlaamse   Regering van 10 december 2010 en 7 december 2012;<BR>3° het Koninklijk besluit   van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van   27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten   voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te   Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het   Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg   en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet,   overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen   van 25 oktober 1993, gewijzigd bij het besluit van de Vlaamse Regering van 18   maart 2011;<BR>4° het besluit van de Vlaamse Regering van 18 juli 2003 tot   regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°,   van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de   onroerende voorheffing worden aangevraagd, gewijzigd bij het besluit van de   Vlaamse Regering van 23 juni 2006;<BR>5° het besluit van de Vlaamse Regering van   10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de   naleving van de wetten op de verkeersbelastingen en houdende wijziging van   diverse bepalingen;<BR>6° het besluit van de Vlaamse Regering van 23 juli 2010   houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de   gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op   materieel en outillage en op energiezuinige gebouwen, gewijzigd bij besluit van   de Vlaamse Regering van 15 maart 2013;<BR>7° het besluit van de Vlaamse Regering   van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete   inzake eurovignet;<BR>8° hoofdstuk I van het ministerieel besluit van 17 juli   1970 tot uitvoering van het Wetboek van de met de inkomstenbelastingen   gelijkgestelde belastingen;<BR>9° het ministerieel besluit van 9 januari 1995   ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag   inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware   vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van   het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland,   het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering   van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de   Europese Gemeenschappen van 25 oktober 1993, het laatst gewijzigd bij het   ministerieel besluit van 20 december 2002.
+De volgende regelingen worden opgeheven :<BR>1° het Koninklijk besluit van   27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen   1992, zoals van toepassing op de onroerende voorheffing voor wat betreft het   Vlaamse Gewest, het laatst gewijzigd bij het besluit van de Vlaamse Regering van   15 maart 2013;<BR>2° het Koninklijk besluit van 9 januari 1995 ter uitvoering   van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de   heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens,   ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk   België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het   Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van   een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese   Gemeenschappen van 25 oktober 1993, gewijzigd bij de besluiten van de Vlaamse   Regering van 10 december 2010 en 7 december 2012;<BR>3° het Koninklijk besluit   van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van   27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten   voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te   Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het   Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg   en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet,   overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen   van 25 oktober 1993, gewijzigd bij het besluit van de Vlaamse Regering van 18   maart 2011;<BR>4° het besluit van de Vlaamse Regering van 18 juli 2003 tot   regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°,   van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de   onroerende voorheffing worden aangevraagd, gewijzigd bij het besluit van de   Vlaamse Regering van 23 juni 2006;<BR>5° het besluit van de Vlaamse Regering van   10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de   naleving van de wetten op de verkeersbelastingen en houdende wijziging van   diverse bepalingen;<BR>6° het besluit van de Vlaamse Regering van 23 juli 2010   houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de   gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op   materieel en outillage en op energiezuinige gebouwen, gewijzigd bij besluit van   de Vlaamse Regering van 15 maart 2013;<BR>7° het besluit van de Vlaamse Regering   van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete   inzake eurovignet;<BR>8° hoofdstuk I van het ministerieel besluit van 17 juli   1970 tot uitvoering van het Wetboek van de met de inkomstenbelastingen   gelijkgestelde belastingen;<BR>9° het ministerieel besluit van 9 januari 1995   ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag   inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware   vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van   het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland,   het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering   van een Eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de   Europese Gemeenschappen van 25 oktober 1993, het laatst gewijzigd bij het   ministerieel besluit van 20 december 2002;<BR>10° het koninklijk besluit van 31   maart 1936 houdende algemeen reglement van de successierechten, het laatst   gewijzigd bij het koninklijk besluit van 13 juli 2001, voor wat betreft het   Vlaamse Gewest, met uitzondering van artikel 2, artikel 2bis, artikel 2ter,   artikel 4, artikel 7, artikel 8ter, artikel 8quater, artikel 13 en 14, bijlage   1, B, bijlage 2, bijlage 3 en bijlage 4;<BR>11° het koninklijk besluit van 11   januari 1940 betreffende de uitvoering van het Wetboek der registratie-,   hypotheek- en griffierechten, het laatst gewijzigd bij het besluit van de   Vlaamse Regering van 14 mei 2004, voor wat betreft het Vlaamse Gewest, met   uitzondering van artikel 1, artikel 9/1, artikel 12, artikel 13, artikel 14 en   artikel 15 en artikel 16 alsook van de bijlagen als die geen betrekking hebben   op de registratiebelasting;<BR>12° het koninklijk besluit van 18 juli 1972   betreffende de uitvoering der artikelen 117 en 120 van het Wetboek der   registratie-, hypotheek- en griffierechten, gewijzigd bij het koninklijk besluit   van 3 oktober 1985, voor wat betreft het Vlaamse Gewest, met uitzondering van   artikel 3;<BR>13° artikel 1 van het het koninklijk besluit van 13 november 1978   tot uitvoering van de wet van 27 april 1978 tot bevordering van de bilaterale en   multilaterale ruil van ongebouwde landeigendommen en bossen, gewijzigd bij het   koninklijk besluit van 13 december 1979, voor wat betreft het Vlaamse   Gewest;<BR>14° het koninklijk besluit van 26 november 1980 tot regeling van de   toepassingsmodaliteiten van artikel 48<SUP>2</SUP> van het Wetboek der   successierechten, voor wat betreft het Vlaamse Gewest;<BR>15° het koninklijk   besluit van 19 april 1999 tot vaststelling van de modaliteiten van de   aandeelhouderschapsovereenkomst bedoeld in artikel 140ter, 3°, van het Wetboek   der registratie, hypotheek- en griffierechten, voor wat betreft het Vlaamse   Gewest;<BR>16° het koninklijk besluit van 26 augustus 2003 houdende aanvullende   regels betreffende de inbetalinggeving van kunstwerken ter voldoening van de   successierechten, tot vaststelling van de nadere regels betreffende de betaling   en de teruggave van de schattingskosten bedoeld in artikel 83-3 van het Wetboek   der successierechten en in artikel 111, vijfde lid, van het Wetboek van de   inkomstenbelastingen 1992 en tot vaststelling van de datum van inwerkingtreding   van elk van de artikelen van de wet van 21 juni 2001 tot wijziging van de   gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot   wijziging van de regeling voor de afgifte van kunstwerken ter betaling van   successierechten, voor wat betreft het Vlaamse Gewest, met uitzondering van   artikel 2, § 3, artikel 22, artikel 23, artikel 24, artikel 31, artikel 32 en   met uitzondering van artikel 6, eerste lid, 4°, en artikel 8, tweede lid, voor   zover die artikelen betrekking hebben op de inkomstenbelastingen;<BR>17° het   besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel   55ter en 55quater van het Wetboek der successierechten, gewijzigd bij de   besluiten van de Vlaamse Regering van 23 juni 2006 en 14 juli 2006 en bij het   ministerieel besluit van 21 december 2006;<BR>18° het besluit van de Vlaamse   Regering van 9 november 2007 betreffende de vorm van het attest tot het   verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat   het voorwerp uitmaakt van een Brownfieldconvenant;<BR>19° het besluit van de   Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies   en 140sexies van het Wetboek der registratie-, hypotheek- en griffierechten en   de artikelen 60/4 en 60/5 van het Wetboek der successierechten;<BR>20° het   ministerieel besluit van 9 maart 2000 betreffende de formulieren voor aangifte   inzake successierechten, voor wat betreft het Vlaamse Gewest;<BR>21° het   ministerieel besluit van 30 januari 2004 houdende de werkwijze en de organisatie   van de bijzondere commissie, belast onder meer met de schatting van kunstwerken   voor de toepassing van sommige fiscale wetten voor wat betreft het Vlaamse   Gewest;<BR>22° het ministerieel besluit van 20 april 2006 tot benoeming van de   leden van de bijzondere commissie belast onder meer met de schatting van   kunstwerken voor de toepassing van sommige fiscale wetten;<BR>23° het   ministerieel besluit van 25 april 2006 tot benoeming van de leden van de   bijzondere commissie belast onder meer met de schatting van kunstwerken voor de   toepassing van sommige fiscale wetten;<BR>24° het ministerieel besluit van 5   oktober 2006 tot benoeming van de leden van de bijzondere commissie belast onder   meer met de schatting van kunstwerken voor de toepassing van sommige fiscale   wetten.
 
 ## TITEL 6. Citeertitel
 
@@ -1104,4 +1300,3614 @@ De Vlaamse minister, bevoegd voor de financiën, is belast met de   uitvoering v
 
 ### BIJLAGE
 
-<P>Concordantietabellen<BR></P>  <P>Concordantietabel 1<BR>Tabel 1 : WIB 92 </P>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling WIB 92       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.12.2.0.4 <BR>    <TR>      <TD>Art. 300       <TD>Art. 3.13.2.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 2 : Koninklijk   besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de   inkomstenbelastingen 1992 (KB/WIB 92) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling KB/WIB 92       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 128       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 129       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 130       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 133, § 1       <TD>Art. 3.2.1.0.3 <BR>    <TR>      <TD>Art. 133, § 2       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 133, § 3       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 134       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 135       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 136       <TD>Art. 3.3.4.0.1 <BR>    <TR>      <TD>Art. 137       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 138       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 139, § 1       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 139, § 2       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 139, § 3       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 141       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 142       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 146       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 147       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 148       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 151       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 153       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 154       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 161       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 162       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 163       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 164       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 165       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 167       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 172       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 173       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 174       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 176       <TD>Art. 3.13.2.0.1 <BR>    <TR>      <TD>Art. 211       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 213       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 214       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 215       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 217       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 218       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 219       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 221       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 222       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 223       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 224       <TD>Art. 3.12.2.0.4<BR></TD></TR></TBODY></TABLE><BR>Tabel 3 : Besluit van de   Vlaamse Regering van 18 juli 2003 tot regeling van de modaliteiten waaronder de   in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de   inkomstenbelastingen 1992 bedoelde vrijstellingen van de onroerende voorheffing   worden aangevraagd <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 18 juli 2003       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 2.1.6.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 2.1.6.0.2 <BR>    <TR>      <TD>Art. 3       <TD>Art. 2.1.6.0.3 <BR>    <TR>      <TD>Art. 4       <TD>Art. 2.1.6.0.4<BR></TD></TR></TBODY></TABLE><BR>Tabel 4 : Besluit van de   Vlaamse Regering van 23 juli 2010 houdende uitvoering van de compensatie voor de   gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de   onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 23 juli 2010       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 3.1.0.0.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.1.0.0.4 <BR>    <TR>      <TD>Art. 4       <TD>Art. 3.1.0.0.5<BR></TD></TR></TBODY></TABLE><BR>Tabel 5 : Wetboek van 23   november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen (WIGB)   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling WIGB       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.13.2.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 6 : Koninklijk   besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de   inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling KB/WIGB       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 3, tweede zinsdeel       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 5       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 6       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 7       <TD>Art. 3.3.4.0.1 <BR>    <TR>      <TD>Art. 10       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 10       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 10       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 10       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 10       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 11       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 13       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 14/1       <TD>Art. 3.13.2.0.1 <BR>    <TR>      <TD>Art. 15, § 3       <TD>Art. 2.2.6.0.1 <BR>    <TR>      <TD>Art. 16       <TD>Art. 2.2.6.0.2 <BR>    <TR>      <TD>Art. 25       <TD>Art. 3.3.1.0.1 <BR>    <TR>      <TD>Art. 26       <TD>Art. 3.3.1.0.2 <BR>    <TR>      <TD>Art. 30       <TD>Art. 2.2.6.0.3<BR></TD></TR></TBODY></TABLE><BR>Tabel 7 : Besluit van de   Vlaamse Regering van 10 december 2010 tot oprichting van een Vlaamse   controle-instantie voor de naleving van de wetten op de verkeersbelastingen en   houdende wijziging van diverse bepalingen <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 10 december 2010       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 3.13.2.0.1 <BR>    <TR>      <TD>Art. 2, eerste lid       <TD>Art. 3.13.2.0.1 <BR>    <TR>      <TD>Art. 4       <TD>Art. 3.13.2.0.2 <BR>    <TR>      <TD>Art. 5       <TD>Art. 3.13.2.0.3 <BR>    <TR>      <TD>Art. 3       <TD>Art. 3.13.2.0.4<BR></TD></TR></TBODY></TABLE><BR>Tabel 8 : Wet van 27   december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor   het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel   op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk   Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het   Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig   Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober   1993 (Eurovignetwet) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Eurovignetwet       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.12.2.0.4 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.13.2.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 9 : Koninklijk   besluit van 9 januari 1995 ter uitvoering van de wet van 27 december 1994 tot   goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van   bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari   1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de   Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der   Nederlanden, en tot invoering van een Eurovignet, overeenkomstig Richtlijn   93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 9 januari 1995       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 3.13.2.0.1 <BR>    <TR>      <TD>Art. 2/1       <TD>Art. 2.4.6.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 10 : Koninklijk   besluit van 8 september 1997 tot bepaling van het wegennet waarop het eurovignet   van toepassing is <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 8 september 1997       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 2.4.7.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 11 : Koninklijk   besluit van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de   wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van   rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend   te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het   Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg   en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet,   overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen   van 25 oktober 1993 <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 19 december 2001       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 1       <TD>Art. 3.4.8.0.1 <BR>    <TR>      <TD>Art. 2       <TD>Art. 3.4.7.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 12 : Besluit van de   Vlaamse Regering van 18 maart 2011 tot vaststelling van de schalen van de   administratieve boete inzake eurovignet <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 18 maart 2011       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 3       <TD>Art. 3.18.0.0.1 <BR>    <TR>      <TD>Bijlage       <TD>Bijlage 1<BR></TD></TR></TBODY></TABLE><BR>Tabel 13 : Decreet van 22   december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet   verkrottingsheffing woningen en gebouwen) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling decreet verkrottingsheffing woningen en gebouwen       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.12.2.0.4 <BR>    <TR>      <TD>Art. 40bis       <TD>Art. 3.13.2.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 14 : Besluit van de   Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van   verkrotting van gebouwen en/of woningen <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 2 april 1996       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 11, eerste lid       <TD>Art. 3.3.4.0.1 <BR>    <TR>      <TD>Art. 12, § 1       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 12, § 2       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 15       <TD>Art. 2.5.6.0.1 <BR>    <TR>      <TD>Art. 19       <TD>Art. 3.1.0.0.2<BR></TD></TR></TBODY></TABLE><BR>Tabel 15 : Decreet van 19   april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten (decreet leegstandsheffing bedrijfsruimten)   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling decreet leegstandsheffing bedrijfsruimten       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.2.1.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.2.1.0.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.2.3.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.2.5.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.1.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.3.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.3.0.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.4.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.5.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.4.6.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.1.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.3 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.4 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.5 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.6 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.2.7 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.3.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.3.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.4.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.4.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.4.3 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.3.5.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.3 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.4 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.5 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.6 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.10.5.1.7 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.12.2.0.1 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.12.2.0.2 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.12.2.0.3 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.12.2.0.4 <BR>    <TR>      <TD>Art. 33       <TD>Art. 3.13.2.0.1<BR></TD></TR></TBODY></TABLE><BR>Tabel 16 : Besluit van de   Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april   1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling besluit 1 juli 1997       <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit <BR>    <TR>      <TD>Art. 14       <TD>Art. 3.1.0.0.1 <BR>    <TR>      <TD>Art. 18       <TD>Art. 2.6.7.0.1 <BR>    <TR>      <TD>Art. 18bis       <TD>Art. 2.6.7.0.2 <BR>    <TR>      <TD>Art. 18ter       <TD>Art. 2.6.7.0.3 <BR>    <TR>      <TD>Art. 19       <TD>Art. 2.6.7.0.4<BR></TD></TR></TBODY></TABLE><BR>Concordantietabel 2<BR>Tabel   1 : WIB 92 <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling WIB 92 <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 300 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 300<BR></TD></TR></TBODY></TABLE><BR>Tabel 2 : Koninklijk besluit van   27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992   (KB/WIB 92) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling KB/WIB 92 <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 128 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 129 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 130 <BR>    <TR>      <TD>Art. 3.2.1.0.3       <TD>Art. 133, § 1 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 133, § 2 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 133, § 3 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 134 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 135 <BR>    <TR>      <TD>Art. 3.3.4.0.1       <TD>Art. 136 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 137 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 138 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 139, § 1 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 141 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 139, § 2 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 139, § 3 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 142 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 146 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 147 <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 148 <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 151 <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 153 <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 154 <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 161 <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 162 <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 163 <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 164 <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 165 <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 172 <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 173 <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 174 <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 167 <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 211 <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 213 <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 214 <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 215 <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 217 <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 218 <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 219 <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 221 <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 222 <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 223 <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 224 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 176<BR></TD></TR></TBODY></TABLE><BR>Tabel 3 : Besluit van de Vlaamse   Regering van 18 juli 2003 tot regeling van de modaliteiten waaronder de in   artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen   1992 bedoelde vrijstellingen van de onroerende voorheffing worden aangevraagd   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 18 juli 2003 <BR>    <TR>      <TD>Art. 2.1.6.0.1       <TD>Art. 1 <BR>    <TR>      <TD>Art. 2.1.6.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 2.1.6.0.3       <TD>Art. 3 <BR>    <TR>      <TD>Art. 2.1.6.0.4       <TD>Art. 4<BR></TD></TR></TBODY></TABLE><BR>Tabel 4 : Besluit van de Vlaamse   Regering van 23 juli 2010 houdende uitvoering van de compensatie voor de   gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de   onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 23 juli 2010 <BR>    <TR>      <TD>Art. 3.1.0.0.3       <TD>Art. 1 <BR>    <TR>      <TD>Art. 3.1.0.0.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.1.0.0.5       <TD>Art. 4<BR></TD></TR></TBODY></TABLE><BR>Tabel 5 : Wetboek van 23 november   1965 van de met inkomstenbelastingen gelijkgestelde belastingen (WIGB) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling WIGB <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 2<BR></TD></TR></TBODY></TABLE><BR>Tabel 6 : Koninklijk besluit van 8   juli 1970 houdende de algemene verordening betreffende de met de   inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling KB/WIGB <BR>    <TR>      <TD>Art. 2.2.6.0.1       <TD>Art. 15, § 3 <BR>    <TR>      <TD>Art. 2.2.6.0.2       <TD>Art. 16 <BR>    <TR>      <TD>Art. 2.2.6.0.3       <TD>Art. 30 <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 3, tweede zinsdeel <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 5 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 6 <BR>    <TR>      <TD>Art. 3.3.1.0.1       <TD>Art. 25 <BR>    <TR>      <TD>Art. 3.3.1.0.2       <TD>Art. 26 <BR>    <TR>      <TD>Art. 3.3.4.0.1       <TD>Art. 7 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 10 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 10 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 10 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 11 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 10 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 10 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 13 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 14/1<BR></TD></TR></TBODY></TABLE><BR>Tabel 7 : Besluit van de Vlaamse   Regering van 10 december 2010 tot oprichting van een Vlaamse controle-instantie   voor de naleving van de wetten op de verkeersbelastingen en houdende wijziging   van diverse bepalingen <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 10 december 2010 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 1 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 2, eerste lid <BR>    <TR>      <TD>Art. 3.13.2.0.2       <TD>Art. 4 <BR>    <TR>      <TD>Art. 3.13.2.0.3       <TD>Art. 5 <BR>    <TR>      <TD>Art. 3.13.2.0.4       <TD>Art. 3<BR></TD></TR></TBODY></TABLE><BR>Tabel 8 : Wet van 27 december 1994   tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik   van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari   1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de   Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der   Nederlanden, en tot invoering van een Eurovignet overeenkomstig Richtlijn   93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993   (Eurovignetwet) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling Eurovignetwet <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 2<BR></TD></TR></TBODY></TABLE><BR>Tabel 9 : Koninklijk besluit van 9   januari 1995 ter uitvoering van de wet van 27 december 1994 tot goedkeuring van   het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen   door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de   Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de   Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der   Nederlanden, en tot invoering van een Eurovignet, overeenkomstig Richtlijn   93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 9 januari 1995 <BR>    <TR>      <TD>Art. 2.4.6.0.1       <TD>Art. 2/1 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 1<BR></TD></TR></TBODY></TABLE><BR>Tabel 10 : Koninklijk besluit van 8   september 1997 tot bepaling van het wegennet waarop het eurovignet van   toepassing is <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 8 september 1997 <BR>    <TR>      <TD>Art. 2.4.7.0.1       <TD>Art. 1<BR></TD></TR></TBODY></TABLE><BR>Tabel 11 : Koninklijk besluit van 19   december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van 27   december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor   het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel   op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk   Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het   Koninkrijk der Nederlanden, en tot invoering van een eurovignet, overeenkomstig   Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober   1993 <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 19 december 2001 <BR>    <TR>      <TD>Art. 3.4.7.0.1       <TD>Art. 2 <BR>    <TR>      <TD>Art. 3.4.8.0.1       <TD>Art. 1<BR></TD></TR></TBODY></TABLE><BR>Tabel 12 : Besluit van de Vlaamse   Regering van 18 maart 2011 tot vaststelling van de schalen van de   administratieve boete inzake eurovignet <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 18 maart 2011 <BR>    <TR>      <TD>Art. 3.18.0.0.1       <TD>Art. 3 <BR>    <TR>      <TD>Bijlage 1       <TD>Bijlage<BR></TD></TR></TBODY></TABLE><BR>Tabel 13 : Decreet van 22 december   1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet   verkrottingsheffing woningen en gebouwen) <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling decreet verkrottingsheffing woningen en gebouwen <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 40bis <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 40bis<BR></TD></TR></TBODY></TABLE><BR>Tabel 14 : Besluit van de   Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van   verkrotting van gebouwen en/of woningen <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 2 april 1996 <BR>    <TR>      <TD>Art. 2.5.6.0.1       <TD>Art. 15 <BR>    <TR>      <TD>Art. 3.1.0.0.2       <TD>Art. 19 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 12, § 1 <BR>    <TR>      <TD>Art. 3.3.4.0.1       <TD>Art. 11, eerste lid <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 12, § 2<BR></TD></TR></TBODY></TABLE><BR>Tabel 15 : Decreet van 19   april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten (decreet leegstandsheffing bedrijfsruimten)   <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling decreet leegstandsheffing bedrijfsruimten <BR>    <TR>      <TD>Art. 3.2.1.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.2.1.0.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.2.3.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.2.5.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.1.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.3.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.3.0.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.4.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.5.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.4.6.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.1.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.3       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.4       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.5       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.6       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.2.7       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.3.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.3.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.4.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.4.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.4.3       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.3.5.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.3       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.4       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.5       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.6       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.10.5.1.7       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.12.2.0.1       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.12.2.0.2       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.12.2.0.3       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.12.2.0.4       <TD>Art. 33 <BR>    <TR>      <TD>Art. 3.13.2.0.1       <TD>Art. 33<BR></TD></TR></TBODY></TABLE><BR>Tabel 16 : Besluit van de Vlaamse   Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april 1995   houdende maatregelen ter bestrijding en voorkoming van leegstand en   verwaarlozing van bedrijfsruimten <BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>Bepaling Besluit Vlaamse Codex Fiscaliteit       <TD>Bepaling besluit 1 juli 1997 <BR>    <TR>      <TD>Art. 2.6.7.0.1       <TD>Art. 18 <BR>    <TR>      <TD>Art. 2.6.7.0.2       <TD>Art. 18bis <BR>    <TR>      <TD>Art. 2.6.7.0.3       <TD>Art. 18ter <BR>    <TR>      <TD>Art. 2.6.7.0.4       <TD>Art. 19 <BR>    <TR>      <TD>Art. 3.1.0.0.1       <TD>Art. 14<BR></TD></TR></TBODY></TABLE><BR>
+<p>Concordantietabellen<br>
+<br>
+Concordantietabel 1<br>
+<br>
+Tabel 1 : WIB 92</p>
+&nbsp;
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling WIB 92</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 300</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 2 : Koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 (KB/WIB 92)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB/WIB 92</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 128</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 129</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 130</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 133, § 1</td>
+			<td>Art. 3.2.1.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 133, § 2</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 133, § 3</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 134</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 135</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 136</td>
+			<td>Art. 3.3.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 137</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 138</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 139, § 1</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 139, § 2</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 139, § 3</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 141</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 142</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 146</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 147</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 148</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 151</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 153</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 154</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 161</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 162</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 163</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 164</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 165</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 167</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 172</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 173</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 174</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 176</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 211</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 213</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 214</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 215</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 217</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 218</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 219</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 221</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 222</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 223</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 224</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 3 : Besluit van de Vlaamse Regering van 18 juli 2003 tot regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de onroerende voorheffing worden aangevraagd<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 18 juli 2003</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 2.1.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 2.1.6.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 2.1.6.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 2.1.6.0.4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 4 : Besluit van de Vlaamse Regering van 23 juli 2010 houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 23 juli 2010</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.1.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.1.0.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 3.1.0.0.5</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 5 : Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen (WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling WIGB</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB/WIGB</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 3, tweede zinsdeel</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Art. 3.3.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 11</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 13</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 14/1</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 15, § 3</td>
+			<td>Art. 2.2.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 16</td>
+			<td>Art. 2.2.6.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 25</td>
+			<td>Art. 3.3.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 26</td>
+			<td>Art. 3.3.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 30</td>
+			<td>Art. 2.2.6.0.3</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 7 : Besluit van de Vlaamse Regering van 10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de naleving van de wetten op de verkeersbelastingen en houdende wijziging van diverse bepalingen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 10 december 2010</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2, eerste lid</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 3.13.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 3.13.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Art. 3.13.2.0.3</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 8 : Wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 (Eurovignetwet)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Eurovignetwet</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 9 : Koninklijk besluit van 9 januari 1995 ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet, overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 9 januari 1995</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2/1</td>
+			<td>Art. 2.4.6.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 10 : Koninklijk besluit van 8 september 1997 tot bepaling van het wegennet waarop het eurovignet van toepassing is
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 8 september 1997</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 2.4.7.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 11 : Koninklijk besluit van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 19 december 2001</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.4.8.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.7.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 12 : Besluit van de Vlaamse Regering van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete inzake eurovignet<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 18 maart 2011</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 3.18.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Bijlage</td>
+			<td>Bijlage 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet verkrottingsheffing woningen en gebouwen)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling decreet verkrottingsheffing woningen en gebouwen</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 40bis</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 14 : Besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 2 april 1996</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 11, eerste lid</td>
+			<td>Art. 3.3.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 12, § 1</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 12, § 2</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 15</td>
+			<td>Art. 2.5.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 19</td>
+			<td>Art. 3.1.0.0.2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 15 : Decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten (decreet leegstandsheffing bedrijfsruimten)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling decreet leegstandsheffing bedrijfsruimten</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.2.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.2.1.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.2.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.2.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.1.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.3.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.5.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.3</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.4</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.5</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.6</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.2.7</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.3.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.3.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.4.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.4.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.4.3</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.3.5.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.3</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.4</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.5</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.6</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.10.5.1.7</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.12.2.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.12.2.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.12.2.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.12.2.0.4</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Art. 3.13.2.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 16 : Besluit van de Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling besluit 1 juli 1997</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 14</td>
+			<td>Art. 3.1.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 18</td>
+			<td>Art. 2.6.7.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 18bis</td>
+			<td>Art. 2.6.7.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 18ter</td>
+			<td>Art. 2.6.7.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 19</td>
+			<td>Art. 2.6.7.0.4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 17 : Wetboek van 31 maart 1936 der successierechten
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling W.Succ.</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 83<sup>4</sup>, tweede lid en derde lid</td>
+			<td>Art. 3.4.3.0.8, § 1, eerste en tweede lid</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 18 : Koninklijk besluit van 31 maart 1936 houdende algemeen reglement van de successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 31/03/1936</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 8bis</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 9</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 11</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 12</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Bijlage 1A</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 19 : Koninklijk besluit van 26 november 1980 tot regeling van de toepassingsmodaliteiten van artikel 48.2 van het Wetboek der Successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 26/11/1980</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 20 : Koninklijk besluit van 26 augustus 2003 houdende aanvullende regels betreffende de inbetalinggeving van kunstwerken ter voldoening van de successierechten, tot vaststelling van de nadere regels betreffende de betaling en de teruggave van de schattingskosten bedoeld in artikel 83-3 van het Wetboek der Successierechten en in artikel 111, vijfde lid, van het Wetboek van de inkomstenbelastingen 1992 en tot vaststelling van de datum van inwerkingtreding van elk van de artikelen van de wet van 21 juni 2001 tot wijziging van de gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot wijziging van de regeling voor de afgifte van kunstwerken ter betaling van successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 26/08/2003</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 1</td>
+			<td>Art. 3.4.3.0.3, § 1, tweede lid en § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 1°, eerste lid, a)</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 1°, eerste lid, b)</td>
+			<td>Art. 3.4.3.0.3, § 1, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 1°, tweede lid</td>
+			<td>Art. 3.4.3.0.3, § 1, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 2°, eerste lid, a)</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 2°, eerste lid, b)</td>
+			<td>Art. 3.4.3.0.3, § 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 2°, tweede lid</td>
+			<td>Art. 3.4.3.0.3, § 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 2, 3°</td>
+			<td>Art. 3.4.3.0.3, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 1, § 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2, § 1 en § 2, met uitzondering van punt 3°</td>
+			<td>Art. 3.4.3.0.3, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 2, § 2, 3°</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3, 1° tot en met 6°</td>
+			<td>Art. 3.4.3.0.3, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3, 7°</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 3.4.3.0.3, § 6</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Art. 3.4.3.0.3, § 7</td>
+		</tr>
+		<tr>
+			<td>Art. 6, eerste lid, 1° tot en met 3°</td>
+			<td>Art. 3.4.3.0.3, § 8, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 6, tweede lid</td>
+			<td>Art. 3.4.3.0.3, § 8, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 6, derde en vierde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Art. 3.4.3.0.4, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 8, eerste en tweede lid</td>
+			<td>Art. 3.4.3.0.4, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 8, derde en vierde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 9, § 1, eerste en tweede lid</td>
+			<td>Art. 3.4.3.0.4, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 9, § 1, derde en vierde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 9, § 2, eerste, tweede lid en vierde lid</td>
+			<td>Art. 3.4.3.0.4, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 9, § 2, derde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 10 met uitzondering van § 1, eerste lid, laatste zinsnede en van § 1, tweede lid, 2°</td>
+			<td>Art. 3.4.3.0.4, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 11</td>
+			<td>Art. 3.4.3.0.5, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 12</td>
+			<td>Art. 3.4.3.0.5, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 13</td>
+			<td>Art. 3.4.3.0.5, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 14</td>
+			<td>Art. 3.4.3.0.5, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 15 met uitzondering van § 2</td>
+			<td>Art. 3.4.3.0.5, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 16</td>
+			<td>Art. 3.4.3.0.5, § 4 en § 5, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 17</td>
+			<td>Art. 3.4.3.0.5, § 5, tweede en derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 18</td>
+			<td>Art. 3.4.3.0.6, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 19</td>
+			<td>Art. 3.4.3.0.6, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 20</td>
+			<td>Art. 3.4.3.0.6, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 21</td>
+			<td>Art. 3.4.3.0.6, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 25</td>
+			<td>Art. 3.4.3.0.7, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 26, eerste lid</td>
+			<td>Art. 3.4.3.0.7, § 2, eerste lid, eerste zin</td>
+		</tr>
+		<tr>
+			<td>Art. 26, tweede en derde lid</td>
+			<td>Art. 3.4.3.0.7, § 2, tweede en derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 27</td>
+			<td>Art. 3.4.3.0.7, § 2, eerste lid, tweede en derde zin</td>
+		</tr>
+		<tr>
+			<td>Art. 28</td>
+			<td>Art. 3.4.3.0.7, § 2, vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 29</td>
+			<td>Art. 3.4.3.0.7, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 30</td>
+			<td>Art. 3.4.3.0.7, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 33</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 34</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 21 : Besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel 55ter en 55quater van het Wetboek der Successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling BVR 04/02/2005</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1, 2° en 6°</td>
+			<td>Art. 1.1.0.0.1, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.20.0.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 3.20.0.0.2</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 3.20.0.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6bis</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6ter</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Bijlage</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 22 : Besluit van de Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies en 140sexies van het Wetboek der registratie-, hypotheek- en griffierechten en de artikelen 60/4 en 60/5 van het Wetboek der Successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling BVR 02/03/2012</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.20.0.0.5</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5, eerste en tweede lid</td>
+			<td>Art. 3.13.1.2.1</td>
+		</tr>
+		<tr>
+			<td>Art. 5, derde en vierde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 23 : Ministerieel Besluit van 9 maart 2000 betreffende de formulieren voor aangifte inzake successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 09/03/2000</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1, eerste lid</td>
+			<td>Art. 3.3.1.0.3</td>
+		</tr>
+		<tr>
+			<td>Art. 1, tweede en derde lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Bijlagen</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 24 : Ministerieel Besluit van 30 januari 2004 houdende de werkwijze en de organisatie van de bijzondere commissie, belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 30/01/2004</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 3.4.3.0.8, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2, eerste lid</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2, tweede lid</td>
+			<td>Art. 3.4.3.0.8, § 1, derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Art. 3.4.3.0.8, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Art. 3.4.3.0.8, § 4</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Art. 3.4.3.0.8, § 5</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Art. 3.4.3.0.8, § 6</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Art. 3.4.3.0.8, § 7</td>
+		</tr>
+		<tr>
+			<td>Art. 9</td>
+			<td>Art. 3.4.3.0.8, § 8</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 25 : Koninklijk besluit van 11 januari 1940 betreffende de uitvoering van het Wetboek der registratie-, hypotheek- en griffierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 11/01/1940</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Art. 3.4.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 2bis</td>
+			<td>Art. 3.4.6.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Art. 2.9.4.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 9</td>
+			<td>Art. 3.12.3.0.1</td>
+		</tr>
+		<tr>
+			<td>Art. 10</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 11</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 12</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 13</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 14</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 15</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 26 : Koninklijk besluit van 18 juli 1972 betreffende de uitvoering der artikelen 117 en 120 van het Wetboek der registratie-, hypotheek en griffierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 18/07/1972</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 27 : Koninklijk besluit van 13 november 1978 tot uitvoering van de wet van 27 april 1978 tot bevordering van de bilaterale en multilaterale ruil van ongebouwde landeigendommen en bossen
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 13/11/1978</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Art. 2.9.4.0.2, art. 2.9.6.0.1, art. 2.9.7.0.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 28 : Koninklijk besluit van 19 april 1999 tot vaststelling van de modaliteiten van de aandeelhouderschapsovereenkomst bedoeld in artikel 140ter, 3°, van het wetboek der registratie-, hypotheek- en griffierechten<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling KB 19/04/1999</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 29 : Besluit van de Vlaamse Regering van 9 november 2007 betreffende de vorm van het attest tot het verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling BVR 09/11/2007</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Bijlage</td>
+			<td>Art. 3.20.0.0.4, eerste en tweede lid</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 30 : Ministerieel besluit van 30 januari 2004 houdende de werkwijze en de organisatie van de bijzondere commissie, belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten voor wat betreft het Vlaamse Gewest<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 30/01/2004</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 5</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 6</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 7</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 8</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 9</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 31 : Ministerieel besluit van 20 april 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten;<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 20/04/2006</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 32 : Ministerieel besluit van 25 april 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten;<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 25/04/2006</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 33 : Ministerieel besluit van 5 oktober 2006 tot benoeming van de leden van de bijzondere commissie belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten.<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling MB 05/10/2006</td>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+		</tr>
+		<tr>
+			<td>Art. 1</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 2</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 3</td>
+			<td>Opgeheven</td>
+		</tr>
+		<tr>
+			<td>Art. 4</td>
+			<td>Opgeheven</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Concordantietabel 2<br>
+<br>
+Tabel 1 : WIB 92<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling WIB 92</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 300</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 300</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 2 : Koninklijk besluit van 27 augustus 1993 tot uitvoering van het Wetboek van de inkomstenbelastingen 1992 (KB/WIB 92)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB/WIB 92</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 128</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 129</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 130</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.3</td>
+			<td>Art. 133, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 133, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 133, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 134</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 135</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.4.0.1</td>
+			<td>Art. 136</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 137</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 138</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 139, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 141</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 139, § 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 139, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 142</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 146</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 147</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 148</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 151</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 153</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 154</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 161</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 162</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 163</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 164</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 165</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 172</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 173</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 174</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 167</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 211</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 213</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 214</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 215</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 217</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 218</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 219</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 221</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 222</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 223</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 224</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 176</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 3 : Besluit van de Vlaamse Regering van 18 juli 2003 tot regeling van de modaliteiten waaronder de in artikel 253, eerste lid, 7° en 8°, van het Wetboek van de inkomstenbelastingen 1992 bedoelde vrijstellingen van de onroerende voorheffing worden aangevraagd<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 18 juli 2003</td>
+		</tr>
+		<tr>
+			<td>Art. 2.1.6.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.1.6.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 2.1.6.0.3</td>
+			<td>Art. 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.1.6.0.4</td>
+			<td>Art. 4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 4 : Besluit van de Vlaamse Regering van 23 juli 2010 houdende uitvoering van de compensatie voor de gederfde opbrengsten uit de gemeentelijke en de provinciale opcentiemen op de onroerende voorheffing op materieel en outillage en op energiezuinige gebouwen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 23 juli 2010</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.3</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.5</td>
+			<td>Art. 4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 5 : Wetboek van 23 november 1965 van de met inkomstenbelastingen gelijkgestelde belastingen (WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling WIGB</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 6 : Koninklijk besluit van 8 juli 1970 houdende de algemene verordening betreffende de met de inkomstenbelastingen gelijkgestelde belastingen (KB/WIGB)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB/WIGB</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.1</td>
+			<td>Art. 15, § 3</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.2</td>
+			<td>Art. 16</td>
+		</tr>
+		<tr>
+			<td>Art. 2.2.6.0.3</td>
+			<td>Art. 30</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 3, tweede zinsdeel</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 6</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.1</td>
+			<td>Art. 25</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.2</td>
+			<td>Art. 26</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.4.0.1</td>
+			<td>Art. 7</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 11</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 10</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 13</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 14/1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 7 : Besluit van de Vlaamse Regering van 10 december 2010 tot oprichting van een Vlaamse controle-instantie voor de naleving van de wetten op de verkeersbelastingen en houdende wijziging van diverse bepalingen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 10 december 2010</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 2, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.2</td>
+			<td>Art. 4</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.3</td>
+			<td>Art. 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.4</td>
+			<td>Art. 3</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 8 : Wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 (Eurovignetwet)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling Eurovignetwet</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 9 : Koninklijk besluit van 9 januari 1995 ter uitvoering van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een Eurovignet, overeenkomstig richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 9 januari 1995</td>
+		</tr>
+		<tr>
+			<td>Art. 2.4.6.0.1</td>
+			<td>Art. 2/1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 10 : Koninklijk besluit van 8 september 1997 tot bepaling van het wegennet waarop het eurovignet van toepassing is
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 8 september 1997</td>
+		</tr>
+		<tr>
+			<td>Art. 2.4.7.0.1</td>
+			<td>Art.1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 11 : Koninklijk besluit van 19 december 2001 ter uitvoering van de artikelen 8, 12 en 13, van de wet van 27 december 1994 tot goedkeuring van het Verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens, ondertekend te Brussel op 9 februari 1994 door de Regeringen van het Koninkrijk België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het Groothertogdom Luxemburg en het Koninkrijk der Nederlanden, en tot invoering van een eurovignet, overeenkomstig Richtlijn 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 19 december 2001</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.7.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.8.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 12 : Besluit van de Vlaamse Regering van 18 maart 2011 tot vaststelling van de schalen van de administratieve boete inzake eurovignet<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 18 maart 2011</td>
+		</tr>
+		<tr>
+			<td>Art. 3.18.0.0.1</td>
+			<td>Art. 3</td>
+		</tr>
+		<tr>
+			<td>Bijlage 1</td>
+			<td>Bijlage</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 13 : Decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996 (decreet verkrottingsheffing woningen en gebouwen)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling decreet verkrottingsheffing woningen en gebouwen</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 40bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 40bis</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 14 : Besluit van de Vlaamse Regering van 2 april 1996 betreffende de heffing ter bestrijding van verkrotting van gebouwen en/of woningen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 2 april 1996</td>
+		</tr>
+		<tr>
+			<td>Art. 2.5.6.0.1</td>
+			<td>Art. 15</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.2</td>
+			<td>Art. 19</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 12, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.4.0.1</td>
+			<td>Art. 11, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 12, § 2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 15 : Decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten (decreet leegstandsheffing bedrijfsruimten)<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling decreet leegstandsheffing bedrijfsruimten</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.1.0.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.3.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.2.5.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.1.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.4.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.5.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.1.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.3</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.4</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.5</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.6</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.2.7</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.3.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.4.3</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.3.5.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.3</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.4</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.5</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.6</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.10.5.1.7</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.2</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.3</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.2.0.4</td>
+			<td>Art. 33</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.2.0.1</td>
+			<td>Art. 33</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 16 : Besluit van de Vlaamse Regering van 1 juli 1997 tot uitvoering van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling besluit 1 juli 1997</td>
+		</tr>
+		<tr>
+			<td>Art. 2.6.7.0.1</td>
+			<td>Art. 18</td>
+		</tr>
+		<tr>
+			<td>Art. 2.6.7.0.2</td>
+			<td>Art. 18bis</td>
+		</tr>
+		<tr>
+			<td>Art. 2.6.7.0.3</td>
+			<td>Art. 18ter</td>
+		</tr>
+		<tr>
+			<td>Art. 2.6.7.0.4</td>
+			<td>Art. 19</td>
+		</tr>
+		<tr>
+			<td>Art. 3.1.0.0.1</td>
+			<td>Art. 14</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 17 : Wetboek van 31 maart 1936 der successierechten
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling W.Succ.</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 1, eerste en tweede lid</td>
+			<td>Art. 83<sup>4</sup>, tweede en derde lid</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 18 : Koninklijk besluit van 31 maart 1936 houdende algemeen reglement van de successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB 31/03/1936</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 8</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 8bis</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 19 : Koninklijk besluit van 26 augustus 2003 houdende aanvullende regels betreffende de inbetalinggeving van kunstwerken ter voldoening van de successierechten, tot vaststelling van de nadere regels betreffende de betaling en de teruggave van de schattingskosten bedoeld in artikel 83-3 van het Wetboek der Successierechten en in artikel 111, vijfde lid, van het Wetboek van de inkomstenbelastingen 1992 en tot vaststelling van de datum van inwerkingtreding van elk van de artikelen van de wet van 21 juni 2001 tot wijziging van de gevolgen voor de inkomstenbelastingen van schenkingen aan de Staat en tot wijziging van de regeling voor de afgifte van kunstwerken ter betaling van successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB 26/08/2003</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 1, eerste lid</td>
+			<td>Art. 1, § 2, 1°, eerste lid, b)</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 1, tweede lid</td>
+			<td>Art. 1, § 2, 1°, tweede lid en art. 1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 2, eerste lid</td>
+			<td>Art. 1, § 2, 2°, eerste lid, b)</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 2, tweede lid</td>
+			<td>Art. 1, § 2, 2°, tweede lid en art. 1, § 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 3</td>
+			<td>Art. 1, § 2, 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 4</td>
+			<td>Art. 2 § 1 en § 2, met uitzondering van punt 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 5</td>
+			<td>Art. 3, 1° tot en met 6°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 6</td>
+			<td>Art. 4</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 7</td>
+			<td>Art. 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 8, eerste lid</td>
+			<td>Art. 6, eerste lid, 1° tot en met 3°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.3, § 8, tweede lid</td>
+			<td>Art. 6, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.4, § 1</td>
+			<td>Art. 7</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.4, § 2</td>
+			<td>Art. 8, eerste lid en tweede lid voor zover dit geen bretkking heeft op de inkomstenbelastingen</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.4, § 3</td>
+			<td>Art. 9, § 1, eerste en tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.4, § 4</td>
+			<td>Art. 9, § 2, eerste, tweede en vierde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.4, § 5</td>
+			<td>Art. 10 met uitzondering van § 1, eerste lid, laatste zinsnede en van § 1, tweede lid, 2°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 1</td>
+			<td>Art. 11</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 2</td>
+			<td>Art. 12</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 3</td>
+			<td>Art. 13</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 4</td>
+			<td>Art. 14 en art. 16</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 5, eerste lid</td>
+			<td>Art. 15 en art. 16</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.5, § 5, tweede en derde lid</td>
+			<td>Art. 15, § 3 en art. 17</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.6, § 1</td>
+			<td>Art. 18</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.6, § 2</td>
+			<td>Art. 19</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.6, § 3</td>
+			<td>Art. 20</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.6, § 4</td>
+			<td>Art. 21</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 1</td>
+			<td>Art. 25</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 2, eerste lid, eerste zin</td>
+			<td>Art. 26, eerste lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 2, tweede en derde lid</td>
+			<td>Art. 26, tweede en derde lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 2, eerste lid, tweede en derde zin</td>
+			<td>Art. 27</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 2, vierde lid</td>
+			<td>Art. 28</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 3</td>
+			<td>Art. 29</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.7, § 4</td>
+			<td>Art. 30</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 20 : Besluit van de Vlaamse Regering van 4 februari 2005 tot uitvoering van artikel 55ter en 55quater van het Wetboek der Successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling BVR 04/02/2005</td>
+		</tr>
+		<tr>
+			<td>Art. 1.1.0.0.1, vierde lid</td>
+			<td>Art. 1, 2° en 6°</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.2</td>
+			<td>Art. 3</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.3</td>
+			<td>Art. 4</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 21 : Besluit van de Vlaamse Regering van 2 maart 2012 tot uitvoering van de artikelen 140quinquies en 140sexies van het Wetboek der registratie-, hypotheek- en griffierechten en de artikelen 60/4 en 60/5 van het Wetboek der Successierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling BVR 02/03/2012</td>
+		</tr>
+		<tr>
+			<td>Art. 3.13.1.2.1</td>
+			<td>Art. 5, eerste en tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.5</td>
+			<td>Art. 2</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 22 : Ministerieel Besluit van 9 maart 2000 betreffende de formulieren voor aangifte inzake successierechten
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling MB 09/03/2000</td>
+		</tr>
+		<tr>
+			<td>Art. 3.3.1.0.3</td>
+			<td>Art. 1, eerste lid</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 23 : Ministerieel Besluit van 30 januari 2004 houdende de werkwijze en de organisatie van de bijzondere commissie, belast onder meer met de schatting van kunstwerken voor de toepassing van sommige fiscale wetten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling MB 30/01/2004</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 1, derde lid</td>
+			<td>Art. 2, tweede lid</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 2</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 3</td>
+			<td>Art. 3</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 4</td>
+			<td>Art. 4</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 5</td>
+			<td>Art. 5</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 6</td>
+			<td>Art. 6</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 7</td>
+			<td>Art. 8</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.8, § 8</td>
+			<td>Art. 9</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 24 : Koninklijk besluit van 11 januari 1940 betreffende de uitvoering van het Wetboek der registratie-, hypotheek- en griffierechten<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB 11/01/1940</td>
+		</tr>
+		<tr>
+			<td>Art. 2.9.4.0.1</td>
+			<td>Art. 8</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.3.0.1</td>
+			<td>Art. 2</td>
+		</tr>
+		<tr>
+			<td>Art. 3.4.6.0.1</td>
+			<td>Art. 2bis</td>
+		</tr>
+		<tr>
+			<td>Art. 3.12.3.0.1</td>
+			<td>Art. 9</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 25 : Koninklijk besluit van 13 november 1978 tot uitvoering van de wet van 27 april 1978 tot bevordering van de bilaterale en multilaterale ruil van ongebouwde landeigendommen en bossen<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling KB 13/11/1978</td>
+		</tr>
+		<tr>
+			<td>Art. 2.9.4.0.2</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.9.6.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+		<tr>
+			<td>Art. 2.9.7.0.1</td>
+			<td>Art. 1</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+Tabel 26 : Besluit van de Vlaamse Regering van 9 november 2007 betreffende de vorm van het attest tot het verkrijgen van kosteloze registratie in het kader van een Brownfieldproject dat het voorwerp uitmaakt van een Brownfieldconvenant
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Bepaling Besluit Vlaamse Codex Fiscaliteit</td>
+			<td>Bepaling BVR 09/11/2007</td>
+		</tr>
+		<tr>
+			<td>Art. 3.20.0.0.4, eerste en tweede lid</td>
+			<td>Bijlage</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
