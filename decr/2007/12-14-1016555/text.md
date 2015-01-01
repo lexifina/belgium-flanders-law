@@ -22,7 +22,7 @@ Een RTC neemt concrete initiatieven inzake :<br />1° de onderlinge afstemming t
 
 ### ART. 4.
 
-§ 1. Elk RTC sluit met de Vlaamse Regering, telkens voor vijf jaar, een overeenkomst, hierna beheersovereenkomst te noemen. De beheersovereenkomst behandelt de bijzondere regels en voorwaarden waaronder het RTC zijn taken vervult. Het is een sturings- en voortgangsbewakingsinstrument, in het bijzonder gericht op een doelmatige uitvoering of dienstverlening, voortgangsbewaking en evaluatie.<br /><br />§ 2. Een beheersovereenkomst bestaat uit algemene voorwaarden, een strategisch plan en een jaaractieplan.<br /><br />Het strategisch plan bevat minstens de volgende elementen :<br />1° de visie en de missie van het RTC;<br />2° een analyse van de omgeving, het beleidsveld en van de eigen organisatie;<br />3° de formulering van de strategische doelstellingen;<br />4° de omschrijving van de kritieke succesfactoren;<br />5° de instrumenten waarmee men de doelstellingen wil bereiken.<br /><br />Het strategisch plan heeft telkens betrekking op vijf werkingsjaren en wordt bij de beheersovereenkomst gevoegd.<br /><br />Een jaaractieplan bevat concrete stappen om de strategische doelstellingen van het strategisch plan te bereiken. Het jaaractieplan bevat tevens een financieel plan waarin de kosten en de opbrengsten van dat jaar begroot worden.<br /><br />§ 3. Tijdens de looptijd van een beheersovereenkomst kunnen de Vlaamse Regering en het betrokken RTC beslissen om eventuele wijzigingen van of addenda bij de beheersovereenkomst aan te brengen.<br /><br />§ 4. De algemene bepalingen kunnen per RTC worden aangevuld met specifieke bepalingen die rekening houden met het regionale of interregionale behoeftenpatroon.<br />
+§ 1. Elk RTC sluit met de Vlaamse Regering telkens voor een periode van   maximum vijf schooljaren een beheersovereenkomst. Mits onderling akkoord tussen   de Vlaamse Regering en het betrokken RTC kan de looptijd van de   beheersovereenkomst worden gewijzigd zonder echter de globale termijn van vijf   schooljaren te overschrijden. De looptijd van de diverse beheersovereenkomsten   is steeds identiek.<BR><BR>De beheersovereenkomst behandelt de bijzondere regels   en voorwaarden waaronder het RTC zijn taken vervult. Het is een sturings- en   voortgangsbewakingsinstrument, in het bijzonder gericht op een doelmatige   uitvoering of dienstverlening, voortgangsbewaking en evaluatie.<BR><BR>§ 2. Een   beheersovereenkomst bestaat uit algemene voorwaarden, een strategisch plan en   een jaaractieplan.<BR><BR>Het strategisch plan bevat minstens de volgende   elementen :<BR>1° de visie en de missie van het RTC;<BR>2° een analyse van de   omgeving, het beleidsveld en van de eigen organisatie;<BR>3° de formulering van   de strategische doelstellingen;<BR>4° de omschrijving van de kritieke   succesfactoren;<BR>5° de instrumenten waarmee men de doelstellingen wil   bereiken.<BR><BR>Het strategisch plan heeft telkens betrekking op de volledige   looptijd van de beheersovereenkomst en wordt bij de beheersovereenkomst   gevoegd.<BR><BR>Een jaaractieplan bevat concrete stappen om de strategische   doelstellingen van het strategisch plan te bereiken. Het jaaractieplan bevat   tevens een financieel plan waarin de kosten en de opbrengsten van dat jaar   begroot worden.<BR><BR>§ 3. Tijdens de looptijd van een beheersovereenkomst   kunnen de Vlaamse Regering en het betrokken RTC beslissen om eventuele   wijzigingen van of addenda bij de beheersovereenkomst aan te brengen.<BR><BR>§   4. De algemene bepalingen kunnen per RTC worden aangevuld met specifieke   bepalingen die rekening houden met het regionale of interregionale   behoeftenpatroon.<BR>
 
 ### ART. 5.
 
@@ -32,7 +32,7 @@ De Vlaamse Regering houdt toezicht op de RTC via gerichte procescontrole   die e
 
 ### ART. 6.
 
-§ 1. Een RTC heeft door het afsluiten van een beheersovereenkomst met de Vlaamse Regering recht op een werkingsenveloppe.<br /><br />§ 2. De werkingsenveloppe voor de periode van vijf jaar wordt, binnen de begrotingskredieten, toegekend door de Vlaamse Gemeenschap. De werkingsenveloppe wordt jaarlijks geïndexeerd en als volgt over de vijf RTC's verdeeld :<br />1° een forfaitair bedrag van 200.000 euro per RTC;<br />2° een variabel bedrag per RTC naar rato van het aantal regelmatige leerlingen op 1 februari voorafgaand aan elk jaar van de beheersovereenkomst in de derde graad van het voltijds gewoon technisch onderwijs en het beroepssecundair onderwijs, het buitengewoon secundair onderwijs, het deeltijds beroepssecundair onderwijs en de leertijd in het werkingsgebied van het betrokken RTC.<br /><br />§ 3. De werkingsenveloppe wordt jaarlijks vereffend volgens de volgende formule :<br />1° een eerste voorschot van 80 percent wordt uitbetaald ten laatste op 28 februari van het betrokken werkingsjaar;<br />2° ...<br />3° het saldo van 20 percent wordt uitbetaald na de indiening en de goedkeuring van het werkings- en activiteitenverslag.<br /><br />§ 4. ...<br /><br />
+<P>§ 1. Een RTC heeft door het afsluiten van een beheersovereenkomst met de   Vlaamse Regering recht op werkingstoelagen met in acht name van de beschikbare   begrotingskredieten. De werkingstoelagen worden geïndexeerd.<BR><BR>§ 2. De   werkingstoelagen worden per schooljaar als volgt per RTC bepaald:<BR>1° een   forfaitair bedrag dat is vastgesteld op:<BR>a) 100.000 euro voor het   kalenderjaar 2015;<BR>b) 125.000 euro vanaf het kalenderjaar 2016;<BR>2° een   variabel bedrag per RTC naar rato van het aantal regelmatige leerlingen in het   werkingsgebied van het betrokken RTC, geteld op 1 februari van het kalenderjaar   dat voorafgaat aan het betrokken schooljaar. Voor de toepassing van deze   bepaling worden de leerlingen van de derde graad van het voltijds gewoon   technisch onderwijs en het beroepssecundair onderwijs, het buitengewoon   secundair onderwijs, het deeltijds beroepssecundair onderwijs en de leertijd in   aanmerking genomen.<BR><BR>§ 3. De toekenning van de werkingstoelagen per RTC   gebeurt als volgt:<BR>1° voor de periode van 1 september tot en met 31   december:<BR>a) een voorschot van 80 percent wordt uitbetaald uiterlijk 31   oktober van die periode;<BR>b) het saldo van 20 percent wordt uitbetaald na de   indiening en de goedkeuring van het werkings- en activiteitenverslag over het   betrokken schooljaar;<BR>2° voor de periode van 1 januari tot en met 31   augustus:<BR>a) een voorschot van 80 percent wordt uitbetaald uiterlijk 28   februari van die periode;<BR>b) het saldo van 20 percent wordt uitbetaald na de   indiening en de goedkeuring van het werkings- en activiteitenverslag over het   betrokken schooljaar.</P>
 
 ## Afdeling III Facilitair kader
 
@@ -58,7 +58,7 @@ De Vlaamse Regering evalueert de werking van de RTC's en brengt daarvan   ten mi
 
 ### ART. 10.
 
-De RTC's bezorgen jaarlijks, ten laatste op 30 april volgend op het werkingsjaar, een werkingsverslag, een financieel verslag, een afschrift van de bewijsstukken en hun jaarrekening aan het Vlaams Ministerie van Onderwijs en Vorming.<br /><br />
+De RTC's bezorgen jaarlijks, ten laatste op 15 november volgend op het   werkingsjaar, een werkingsverslag, een financieel verslag, een afschrift van de   bewijsstukken en hun jaarrekening aan het Vlaams Ministerie van Onderwijs en   Vorming.<BR><BR>
 
 ## HOOFDSTUK VII Opheffingsbepalingen
 
@@ -70,7 +70,11 @@ In het decreet van 13 juli 2001 betreffende het onderwijs-XIII-Mozaïek wordt ho
 
 ### ART. 12.
 
-...<br /><br />
+De beheersovereenkomsten die zijn afgesloten voor de periode van 1 januari   2011 tot en met 31 december 2015 worden vroegtijdig beëindigd op 31 augustus   2015.<BR>
+
+### ART. 12/1.
+
+Toepassing van de bepalingen van artikel 6 kan er nooit toe leiden dat de,   per kalenderjaar begrote, globale werkingstoelagen voor de RTC's worden   overschreden.
 
 ## HOOFDSTUK IX Inwerkingtredingsbepaling
 
