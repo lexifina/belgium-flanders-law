@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024507,
+  "title": "Ministerieel besluit van 2014-05-05 inzake de rapportering van de elektriciteitsdistributienetbeheerders en de beheerder van het plaatselijk vervoernet van elektriciteit betreffende de uitvoering van de REG-openbaredienstverplichtingen vanaf 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024507/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "cf4ab3d79179bd31fb22d7d8cb8900ba0f39a7f4dc129eab12b10159ae98a73e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024507&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-05-05",
+  "gazette": "2014-09-02",
+  "numac": 2014035702,
+  "document_start": "2015-01-01",
+  "document_end": "2017-04-28",
+  "in_force": "2015-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
