@@ -2,16 +2,16 @@
   "codex_id": 1008064,
   "title": "Ministerieel besluit van 2001-06-22 tot bepaling van sommige gegevens die de centra voor leerlingenbegeleiding moeten registreren",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008064/VolledigDocument?datum=2010-09-01",
-  "source_sha256": "29ec59067b7e6adae4dd45ee4bdf55d12a8a8fc07d0d4e010ba68a3c53ee8ae1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008064/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "cd776dfbfdd8f1873e8f725de42efd596437034223a30adaf116c42dca5fe370",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008064&param=informatie",
-  "as_of": "2010-09-01",
+  "as_of": "2015-01-01",
   "made": "2001-06-22",
   "gazette": "2001-07-07",
   "numac": 2001035754,
   "document_start": "2001-09-01",
   "document_end": "2025-09-30",
-  "in_force": "2010-09-01",
+  "in_force": "2015-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2010-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
