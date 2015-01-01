@@ -2,16 +2,16 @@
   "codex_id": 1019722,
   "title": "Besluit van de Vlaamse Regering van 2010-10-15 houdende de vaststelling van algemene maatregelen voor de co-existentie van genetisch gemodificeerde gewassen met conventionele gewassen en biologische gewassen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019722/VolledigDocument?datum=2010-12-10",
-  "source_sha256": "3871c043d31fcddcc20b80ee191c87a9b4ac3c09d26cca9bbb50be71c97087ba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019722/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c2a8159c5df96772c777edcac8fb16c862957126e39940ce8ea73d70d0e159e5",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019722&param=informatie",
-  "as_of": "2010-12-10",
+  "as_of": "2015-01-01",
   "made": "2010-10-15",
   "gazette": "2010-11-30",
   "numac": 2010035913,
   "document_start": "2010-12-10",
   "document_end": null,
-  "in_force": "2010-12-10",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2010-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
