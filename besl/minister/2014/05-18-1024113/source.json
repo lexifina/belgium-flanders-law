@@ -2,16 +2,16 @@
   "codex_id": 1024113,
   "title": "Ministerieel besluit van 2014-05-18 houdende wijziging van het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring, het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw, het ministerieel besluit van 11 januari 2008 houdende het vaststellen van nadere regels met betrekking tot het invoeren van de haalbaarheidsstudie voor alternatieve energiesystemen en het ministerieel besluit van 15 september 2009 betreffende de vaststelling van de gelijkwaardigheid van innovatieve systemen, bouwconcepten of technologieën in het kader van de energieprestatieregelgeving",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024113/VolledigDocument?datum=2014-05-27",
-  "source_sha256": "30068c0b209518317e5036e9c85171e47412194cb984bf95644e9a4e13fbbbba",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024113/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "e5bfc3b7d958c2e67e35e9dea9ec0f168567c9c91a02f69e93a3b35ae8530625",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024113&param=informatie",
-  "as_of": "2014-05-27",
+  "as_of": "2015-01-01",
   "made": "2014-05-18",
   "gazette": "2014-05-27",
   "numac": 2014035543,
   "document_start": "2014-05-27",
   "document_end": null,
-  "in_force": "2014-05-27",
-  "article_versions": 27,
-  "record_form": "consolidated version as in force on 2014-05-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

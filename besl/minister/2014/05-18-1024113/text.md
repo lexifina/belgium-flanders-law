@@ -44,6 +44,10 @@ Bijlage III van hetzelfde ministerieel besluit, vervangen bij ministerieel   bes
 
 Aan bijlage IV van hetzelfde ministerieel besluit, vervangen bij   ministerieel besluit van 1 december 2010, wordt een bijlage H toegevoegd, die   als bijlage 6 bij dit besluit is gevoegd.<BR>
 
+### ART. 10.
+
+Bijlage VI van hetzelfde ministerieel besluit, vervangen bij ministerieel   besluit van 30 november 2012, wordt vervangen door de bijlage 7, die bij dit   besluit is gevoegd.
+
 ### ART. 11.
 
 Aan hetzelfde ministerieel besluit wordt een bijlage X toegevoegd, die als   bijlage 8 bij dit besluit is gevoegd.
@@ -80,7 +84,7 @@ In artikel 7, § 2 van hetzelfde ministerieel besluit wordt na de woorden   "de 
 
 ### ART. 18.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad, behoudens artikel 3 dat voor het eerst van toepassing is op   dossiers waarvan de startverklaring worden ingediend vanaf 1 augustus 2014,   artikel 4, artikel 5, artikel 6, artikel 7 en artikel 8 die voor het eerst van   toepassing zijn op dossiers waarvan de EPB-aangiftes worden ingediend vanaf 1   augustus 2014, artikel 12 dat voor het eerst van toepassing is op dossiers   waarvan de EPB-aangiftes worden ingediend vanaf 1 juni 2014 en artikel 11 dat   van toepassing wordt voor luchtdichtheidstesten uitgevoerd vanaf 1 januari   2015.
+Dit besluit treedt in werking op de dag van de bekendmaking ervan in het   Belgisch Staatsblad, behoudens artikel 3 dat voor het eerst van toepassing is op   dossiers waarvan de startverklaring worden ingediend vanaf 1 augustus 2014,   artikel 4, artikel 5, artikel 6, artikel 7 en artikel 8 die voor het eerst van   toepassing zijn op dossiers waarvan de EPB-aangiftes worden ingediend vanaf 1   augustus 2014, artikel 12 dat voor het eerst van toepassing is op dossiers   waarvan de EPB-aangiftes worden ingediend vanaf 1 juni 2014 en artikel 10 dat   van toepassing wordt voor luchtdichtheidstesten uitgevoerd vanaf 1 januari   2015.
 
 ### BIJLAGE
 
