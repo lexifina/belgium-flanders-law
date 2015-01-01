@@ -78,15 +78,91 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ## Afdeling 1 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)], de Raad voor Vergunningsbetwistingen [, de (verv. decr. 17 maart 2023, art. 15)] Raad voor Verkiezingsbetwistingen [en de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 15)]
 
+### ART. 13.
+
+<P>De partijen kunnen bestuursrechters die zich over het beroep of bezwaar   moeten uitspreken schriftelijk en op gemotiveerde wijze wraken voor de aanvang   van de zitting, tenzij de reden tot wraking later is ontstaan.<BR></P>  <P>De redenen, vermeld in artikel 828 en 830 van het Gerechtelijk Wetboek, zijn   de redenen tot wraking, vermeld in het eerste lid.<BR></P>  <P>De eerste voorzitter of, als die wordt gewraakt, de oudste kamervoorzitter   doet zo spoedig mogelijk uitspraak over het verzoek tot wraking. Als het verzoek   wordt ingewilligd, wordt de gewraakte bestuursrechter vervangen.<BR></P>  <P>De bestuursrechter die weet dat er een reden tot wraking tegen hem bestaat,   onthoudt zich van de zaak en laat zich vervangen.<BR></P>
+
+### ART. 14.
+
+Het beroep of bezwaar heeft geen schorsende werking, tenzij de decreten,   vermeld in artikel 2, 1°, dat anders bepalen.<BR>
+
+### ART. 15.
+
+Een Vlaams bestuursrechtscollege kan zaken over hetzelfde of over een   verwant onderwerp ter behandeling samenvoegen en de behandeling over   samengevoegde zaken achteraf weer splitsen.<BR>
+
+### ART. 16.
+
+<P>De behandeling van het beroep of bezwaar geschiedt schriftelijk en op   tegenspraak.<BR></P>  <P>Partijen kunnen zich laten bijstaan of vertegenwoordigen door een   raadsman.<BR></P>  <P>Een Vlaams bestuursrechtscollege kan, op eigen initiatief of op verzoek van   een partij, getuigen of deskundigen horen en een beroep doen op tolken. Een   Vlaams bestuursrechtscollege kan ook andere onderzoeksmaatregelen bevelen die   door de Vlaamse Regering worden vastgesteld.<BR></P>  <P>De zittingen van een Vlaams bestuursrechtscollege zijn openbaar, behalve als   de kamer in geval van gevaar voor de orde of goede zeden anders beslist.<BR></P>  <P>Bij regelmatige oproeping belet de afwezigheid van een partij de geldigheid   van een zitting niet. De zaak wordt in dat geval geacht op tegenspraak behandeld   te zijn.<BR></P>  <P>Tenzij een Vlaams bestuursrechtscollege anders beslist kunnen partijen in   onderling overleg afzien van de behandeling van het beroep ter zitting.<BR></P>  <P>Een Vlaams bestuursrechtscollege beraadslaagt achter gesloten deuren over   zijn uitspraken.<BR></P>
+
+### ART. 17.
+
+De Vlaamse Regering stelt de nadere regels vast voor de vormvereisten en   ontvankelijkheid van de verzoekschriften en voor de rechtspleging voor de   Vlaamse bestuursrechtscolleges, waaronder de regels betreffende:<BR>1° de   stukken die bij het verzoekschrift moeten worden gevoegd;<BR>2° de registratie   van het verzoekschrift en de voorwaarden waaronder het verzoekschrift kan worden   geregulariseerd;<BR>3° de wijze waarop en de personen aan wie een afschrift van   het verzoekschrift wordt bezorgd;<BR>4° de wijze van toezending en uitwisseling   van de processtukken;<BR>5° de bijstand of vertegenwoordiging door een   raadsman;<BR>6° het beroep op getuigen, deskundigen en tolken, met inbegrip van   de regeling voor het getuigengeld, de kosten en erelonen van de deskundigen en   de kosten van de tolken;<BR>7° de wijze van de berekening van de termijnen,   vermeld in dit hoofdstuk;<BR>8° de voorwaarden waaronder een vergoeding kan   worden gevraagd voor afschriften of uittreksels.<BR>
+
 ## Afdeling 2 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)] [, de (verv. decr. 17 maart 2023, art. 17)] Raad voor Vergunningsbetwistingen [en de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 17)]
 
+### ART. 18.
+
+De decreten, vermeld in artikel 2, 1°, a) en b), stellen de personen vast   die beroep kunnen instellen tegen een bestreden beslissing, alsook de daarvoor   geldende termijnen.<BR>
+
+### ART. 19.
+
+De Vlaamse Regering kan regels vaststellen voor de behandeling van   verzoekschriften die in aanmerking komen voor een vereenvoudigde   procedure.<BR>
+
 ## Afdeling 3 Bepalingen die van toepassing zijn op de Raad voor Vergunningsbetwistingen
+
+### ART. 20.
+
+<P>Elke belanghebbende kan tussenkomen in een hangende procedure.<BR></P>  <P>Het decreet, vermeld in artikel 2, 1°, b), bepaalt welke personen   belanghebbende zijn. De Vlaamse Regering bepaalt de procedure voor   tussenkomst.<BR></P>  <P>De Vlaamse Regering bepaalt de vervaltermijnen die niet korter mogen zijn dan   twintig dagen.<BR></P>
+
+### ART. 21.
+
+<P>§ 1. Het rolrecht dat verschuldigd is per verzoekende partij bij het indienen   van een verzoekschrift tot vernietiging, bedraagt 175 euro.<BR></P>  <P>Het rolrecht dat verschuldigd is per verzoekende partij bij het indienen van   een verzoekschrift tot schorsing of van een verzoekschrift tot schorsing wegens   uiterst dringende noodzakelijkheid, bedraagt 100 euro.<BR></P>  <P>Het rolrecht dat verschuldigd is per tussenkomende partij, bedraagt 100 euro,   ongeacht of de tussenkomst geldt voor de vordering tot schorsing of de vordering   tot vernietiging.<BR></P>  <P>De bedragen die verschuldigd zijn overeenkomstig dit artikel worden   vijfjaarlijks op 1 januari geïndexeerd op basis van de ABEX-index, met als   basisindex die van januari 2014, en met een eerste indexatie op 1 januari 2019.   De bedragen worden afgerond naar de dichtstbijzijnde euro. Als het bedrag   precies de helft van een euro is, wordt het bedrag naar boven afgerond.<BR></P>  <P>§ 2. De leidende ambtenaar van het departement Ruimte Vlaanderen, of bij zijn   afwezigheid zijn gemachtigde, die optreedt, met toepassing van artikel 4.8.11, §   1, eerste lid, 5°, van de Vlaamse Codex Ruimtelijke Ordening, is vrijgesteld van   de betaling van enig rolrecht.<BR></P>  <P>§ 3. De verzoekende partij of tussenkomende partij die aantoont dat haar   inkomsten ontoereikend zijn, is vrijgesteld van de betaling van enig   rolrecht.<BR></P>  <P>De verzoekende partij of tussenkomende partij richt daarvoor een verzoek aan   de Raad voor Vergunningsbetwistingen, gelijktijdig met het indienen van haar   verzoekschrift.<BR></P>  <P>In het geval van het ontbreken van de bewijsstukken, vermeld in het eerste   lid, vraagt de griffier die op bij de verzoekende of tussenkomende   partij.<BR></P>  <P>De bewijsstukken worden bezorgd binnen een termijn van acht dagen, die ingaat   de dag na de betekening van de beveiligde zending, vermeld in het derde   lid.<BR></P>  <P>Bij het niet-tijdig bezorgen van de bewijsstukken, vermeld in het vierde lid,   wordt de verzoekende of tussenkomende partij geacht afstand te doen van haar   vraag tot vrijstelling van het rolrecht.<BR></P>  <P>De ontoereikendheid van de inkomsten wordt beoordeeld conform het koninklijk   besluit van 18 december 2003 tot vaststelling van de voorwaarden van de   volledige of gedeeltelijke kosteloosheid van de juridische tweedelijnsbijstand   en de rechtsbijstand.<BR></P>  <P>§ 4. Collectieve verzoekschriften geven aanleiding tot het betalen van zoveel   malen het recht als er verzoekende partijen zijn.<BR></P>  <P>Collectieve verzoekschriften tot tussenkomst geven aanleiding tot het betalen   van zoveel malen het recht als er tussenkomende partijen zijn.<BR></P>  <P>§ 5. De griffier brengt de verzoekende partij of tussenkomende partij   schriftelijk op de hoogte van het verschuldigde bedrag of de beslissing over de   vrijstelling van de betaling van het rolrecht.<BR></P>  <P>De storting gebeurt binnen een termijn van vijftien dagen, die ingaat de dag   na de betekening van de beveiligde zending, vermeld in het eerste lid.<BR></P>  <P>Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort   door de verzoekende partij, wordt het beroep niet-ontvankelijk   verklaard.<BR></P>  <P>Als het bedrag niet binnen de termijn, vermeld in het tweede lid, is gestort   door de tussenkomende partij, wordt het verzoekschrift tot tussenkomst   niet-ontvankelijk verklaard.<BR></P>  <P>De niet-tijdige betaling kan niet worden geregulariseerd.<BR></P>  <P>§ 6. De rechten die ingevolge paragraaf 1 verschuldigd zijn bij het indienen   van een verzoekschrift tot schorsing wegens uiterst dringende noodzakelijkheid   worden begroot in debet.<BR></P>
 
 ## Afdeling 4 Bepalingen die van toepassing zijn op de Raad voor Verkiezingsbetwistingen
 
 ## Onderafdeling 1 Rechtspleging in de procedures voor bezwaren tegen de verkiezing en bezwaren op grond van de schending van de regelgeving inzake de verkiezingsuitgaven door kandidaten en lijsttrekkers, alsmede de procedures voor de verkiezing en benoeming van de schepenen en de verkiezing van de opvolgers
 
+### ART. 22.
+
+Alleen de kandidaten zijn gerechtigd bij de Raad voor   Verkiezingsbetwistingen bezwaar in te dienen tegen de verkiezing en tegen de   verkiezingsuitgaven die werden gedaan door de lijsttrekkers en de kandidaten.   Het bezwaar wordt ingediend bij wijze van verzoekschrift.<BR>
+
+### ART. 23.
+
+<P>Het bezwaar wordt binnen een termijn van dertig dagen ingediend, te rekenen   vanaf de dagtekening van het proces-verbaal van de verkiezingen.<BR></P>  <P>Een nieuwe termijn van vijftien dagen wordt geopend met ingang van de datum   van de uitspraak van de definitieve veroordeling, gesteund op een klacht die is   ingediend met toepassing van artikel 201 van het Lokaal en Provinciaal   Kiesdecreet van 8 juli 2011.<BR></P>
+
+### ART. 24.
+
+<P>Iedereen die een bezwaar heeft ingediend dat ongegrond blijkt en waarvan   vaststaat dat het is ingediend met het oogmerk om te schaden, wordt gestraft met   een geldboete van 50 tot 500 euro.<BR></P>  <P>De opbrengst van de geldboete wordt gestort op rekening van het fonds voor de   dienst van de Bestuursrechtscolleges.<BR></P>
+
+### ART. 25.
+
+De Raad voor Verkiezingsbetwistingen doet uitspraak over het bezwaar   binnen veertig dagen na de indiening ervan. Als binnen die termijn geen   uitspraak is gedaan, wordt het bezwaar als verworpen beschouwd en is de uitslag   van de verkiezing, zoals die door het hoofdstembureau is afgekondigd,   definitief, met behoud van de toepassing van artikel 23, tweede lid, en de   beroepsmogelijkheid bij de Raad van State.<BR>
+
+### ART. 26.
+
+<P>De griffie geeft binnen drie dagen kennis van de beslissing van de Raad voor   Verkiezingsbetwistingen of van het uitblijven van enige beslissing binnen de   voorgeschreven termijn aan de betreffende gemeente-, stadsdistricts- of   provincieraad. De bezwaarden worden hiervan per aangetekende brief op de hoogte   gebracht. Bovendien wordt:<BR>1° indien de verkiezing geheel of gedeeltelijk   ongeldig verklaard is, van de beslissing van de Raad voor   Verkiezingsbetwistingen op dezelfde wijze kennis gegeven aan de twee aftredende   raadsleden, vermeld in artikel 69 van het Lokaal en Provinciaal Kiesdecreet van   8 juli 2011, of aan de drie ondertekenaars, vermeld in artikel 70 van het Lokaal   en Provinciaal Kiesdecreet van 8 juli 2011;<BR>2° van de beslissing waarbij de   Raad voor Verkiezingsbetwistingen, al dan niet uitspraak doende op een bezwaar,   de zetelverdeling tussen de lijsten, de rangorde van de gekozen raadsleden of   die van de opvolgers wijzigt, op dezelfde wijze kennis gegeven aan de gekozen   raadsleden, die hun hoedanigheid van gekozene verliezen, en aan de gekozen   opvolgers, die hun rang van eerste of tweede opvolger verliezen.<BR></P>  <P>Van de beslissing van de Raad voor Verkiezingsbetwistingen waarbij de   verkiezingen geheel of gedeeltelijk ongeldig worden verklaard of de   zetelverdeling wordt gewijzigd, wordt tegelijkertijd naar de eerste voorzitter   van de Raad van State een eensluidend verklaard afschrift van de uitspraak, van   het administratief dossier en van de procedurestukken gestuurd.<BR></P>  <P>Binnen acht dagen nadat is kennisgegeven van de beslissingen van de Raad voor   Verkiezingsbetwistingen, kunnen de betrokkenen op de griffie inzage nemen in het   dossier.<BR></P>
+
+### ART. 27.
+
+<P>§ 1. Behalve in de gevallen, vermeld in dit decreet, bedraagt de termijn voor   het instellen van een bezwaar bij de Raad voor Verkiezingsbetwistingen dertig   dagen.<BR></P>  <P>§ 2. Artikel 16 en 22 tot en met 26 zijn van overeenkomstige toepassing op de   verkiezing en benoeming van de schepenen, vermeld in artikel 45 van het   Gemeentedecreet van 15 juli 2005, met dien verstande dat alleen de   gemeenteraadsleden een bezwaar mogen indienen en dat een termijn van dertig   dagen begint te lopen vanaf de installatievergadering van de gemeenteraad na de   volledige vernieuwing ervan.<BR></P>  <P>§ 3. Bij gebrek aan opvolgers wordt in een of meer vacatures in de   gemeenteraad of de stadsdistrictsraad voorzien. De aanwijzing van de verkozenen   geschiedt conform de bepalingen van deel 3, titel 5, of artikel 219, eerste lid,   2°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<BR></P>  <P>Als bij de verkiezing van het te vervangen raadslid kandidaten van dezelfde   lijst met toepassing van artikel 169 of 175 van het Lokaal en Provinciaal   Kiesdecreet van 8 juli 2011, tot opvolger zijn gekozen, treedt degene die   volgens deze artikelen de eerste opvolger is, in functie, na onderzoek van zijn   geloofsbrieven.<BR></P>  <P>Als er bezwaren worden ingediend tegen de beslissing van de gemeenteraad of   stadsdistrictsraad of tegen zijn weigering om de opvolger aan te stellen als   gemeenteraadslid, doet de Raad voor Verkiezingsbetwistingen uitspraak met   toepassing van artikel 16 en 25 van dit decreet, en artikel 204, tweede lid, van   het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<BR></P>  <P>De Raad voor Verkiezingsbetwistingen doet uitspraak binnen veertig dagen, te   rekenen vanaf de dag waarop het bezwaarschrift bij de Raad voor   Verkiezingsbetwistingen is aangekomen. De betrokken opvolger en, in voorkomend   geval, degenen die bij de Raad voor Verkiezingsbetwistingen bezwaren hebben   ingediend, worden van die beslissing op de hoogte gebracht. Zij kunnen bij de   Raad van State beroep instellen binnen acht dagen na de kennisgeving.<BR></P>  <P>Het nieuwe raadslid voleindigt het mandaat van zijn   voorganger.<BR></P>
+
+### ART. 28.
+
+<P>De personen die op de hoogte moeten worden gebracht van de beslissing van de   Raad voor Verkiezingsbetwistingen, kunnen binnen acht dagen na de kennisgeving   of de mededeling van het feit dat de termijn van veertig dagen is verstreken   inzage nemen in het dossier op de griffie en binnen diezelfde termijn beroep   instellen bij de Raad van State.<BR></P>  <P>De Raad van State doet uitspraak binnen een termijn van zestig dagen. De   verkiezing kan door de Raad van State alleen geheel of gedeeltelijk ongeldig   worden verklaard op grond van onregelmatigheden die de zetelverdeling tussen de   verschillende lijsten kunnen beïnvloeden.<BR></P>  <P>De gehele ongeldigverklaring van de verkiezing heeft tot gevolg dat de   verkiezingen ab initio hernomen worden met toepassing van de bepalingen   opgenomen in het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011. Als de Raad   van State oordeelt dat de verkiezingen gedeeltelijk worden vernietigd, duidt hij   de bepalingen aan van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 die   bij de herverkiezing opnieuw moeten worden uitgevoerd.<BR></P>  <P>Het raadslid dat door de Raad van State van zijn mandaat vervallen is   verklaard met toepassing van artikel 205 van het Lokaal en Provinciaal   Kiesdecreet van 8 juli 2011, wordt in de gemeenteraad vervangen door de eerste   opvolger van de lijst waarop hij werd verkozen.<BR></P>  <P>Het beroep bij de Raad van State is niet opschortend, behalve als het beroep   gericht is tegen een beslissing van de Raad voor Verkiezingsbetwistingen die een   gehele of gedeeltelijke ongeldigverklaring van de verkiezingen of een wijziging   in de zetelverdeling inhoudt.<BR></P>  <P>Als vóór de uitspraak van de Raad van State de Vlaamse Regering de   burgemeester van de gemeente in kwestie benoemt, heeft die benoeming uitwerking   vanaf de betekening van het arrest van de Raad van State dat de verkiezingen   niet geheel of gedeeltelijk ongeldig verklaart of de zetelverdeling niet   wijzigt.<BR></P>
+
+### ART. 29.
+
+Het arrest van de Raad van State wordt door de zorg van de griffie   onmiddellijk ter kennis gebracht van de provinciegouverneur, de voorzitter van   de Raad voor Verkiezingsbetwistingen en van de gemeente-, stadsdistricts- of   provincieraad in kwestie.<BR>
+
 ## Onderafdeling 2 Rechtspleging voor overige betwistingen
+
+### ART. 30.
+
+<P>Voor de geschillen, vermeld in artikel 13, 44, § 6, 60, 218bis en 273, van   het Gemeentedecreet van 15 juli 2005, doet de Raad voor Verkiezingsbetwistingen   uitspraak binnen veertig dagen na de indiening van het bezwaar, behalve in de   geschillen over het verval van het mandaat, vermeld in artikel 10 en 13 van het   voormelde decreet.<BR></P>  <P>Voor de geschillen, vermeld in artikel 13, 44, § 4, en artikel 211bis van het   Provinciedecreet van 9 december 2005, doet de Raad voor Verkiezingsbetwistingen   uitspraak binnen veertig dagen na de indiening van het bezwaar, behalve in de   geschillen over het verval van het mandaat, vermeld in artikel 10 en 13 van het   voormelde decreet.<BR></P>  <P>Voor de geschillen, vermeld in artikel 22 en 57 van het decreet van 19   december 2008 betreffende de organisatie van de openbare centra voor   maatschappelijk welzijn, doet de Raad voor Verkiezingsbetwistingen uitspraak   binnen veertig dagen na de indiening van het bezwaar, behalve in de geschillen   over het verval van het mandaat, vermeld in artikel 19 en 22 van het voormelde   decreet.<BR></P>
+
+### ART. 31.
+
+<P>§ 1. In de gevallen, vermeld in artikel 15 van het decreet van 19 december   2008 betreffende de organisatie van de openbare centra voor maatschappelijk   welzijn, zijn alleen de gemeenteraadsleden en de personen die voorkomen op de   voordrachtsakte, vermeld in artikel 10, § 1, en in artikel 14 van het voormelde   decreet, gerechtigd om bezwaar in te dienen. Het bezwaarschrift wordt op straffe   van onontvankelijkheid uiterlijk ingediend op de vijfde dag die volgt op de   afkondiging van de verkiezingsuitslag.<BR></P>  <P>Het is verboden, op straffe van een gevangenisstraf van een maand tot twee   jaar, het bewijs van ontvangst van het bezwaarschrift te antidateren.<BR></P>  <P>§ 2. Iedereen die een bezwaar heeft ingediend dat ongegrond blijkt en waarvan   vaststaat dat het is ingediend met het oogmerk om te schaden, wordt gestraft met   een geldboete van 50 tot 500 euro.<BR></P>  <P>De opbrengst van de geldboete wordt gestort op de rekening van het fonds voor   de dienst van de Bestuursrechtscolleges.<BR></P>  <P>§ 3. De Raad voor Verkiezingsbetwistingen doet uitspraak, als er bezwaar   wordt ingediend binnen veertig dagen na de ontvangst van het dossier, over de   geldigheid van de verkiezingen. Hij herstelt, in voorkomend geval, de   vergissingen die begaan zijn bij het vaststellen van de verkiezingsuitslag. Als   binnen die termijn geen uitspraak is gedaan, wordt de verkiezing als regelmatig   beschouwd.<BR></P>  <P>§ 4. De beslissing van het rechtscollege heeft op zijn vroegst uitwerking na   het verstrijken van de termijnen, vermeld in paragraaf 5, om beroep in te   stellen bij de Raad van State.<BR></P>  <P>§ 5. De gemeente, het openbaar centrum voor maatschappelijk welzijn, de   verkozen leden van de raad voor maatschappelijk welzijn, de opvolgers van wie de   verkiezing is vernietigd en de opvolgers van wie de verkiezingsrang is   gewijzigd, alsook de personen die bezwaren hebben ingediend, kunnen bij de Raad   van State beroep instellen binnen acht dagen na de kennisgeving van de   beslissing van de Raad voor Verkiezingsbetwistingen of de mededeling van het   feit dat de termijn van veertig dagen is verstreken. Het beroep schorst de   beslissing van de Raad voor Verkiezingsbetwistingen tot vernietiging of tot   wijziging van de verkiezingsuitslag of van de zetelverdeling.<BR></P>  <P>De hoofdgriffier van de Raad van State deelt het beroep binnen acht dagen na   de ontvangst ervan mee aan de provinciegouverneur, aan het betrokken Openbaar   Centrum voor Maatschappelijk Welzijn, aan de gemeente, aan de voorzitter van de   Raad voor Verkiezingsbetwistingen en aan de verkozenen van wie de verkiezing of   verkiezingsrang wordt betwist. De Raad van State doet uitspraak binnen een   termijn van zestig dagen. Het arrest van de Raad van State wordt door de zorg   van de hoofdgriffier onmiddellijk ter kennis gebracht van de verzoeker, de   provinciegouverneur, het betrokken Openbaar Centrum voor Maatschappelijk   Welzijn, de gemeente en de verkozenen van wie de verkiezing wordt vernietigd of   van wie de verkiezingsrang wordt gewijzigd.<BR></P>  <P>Als een vernietiging definitief geworden is, wordt binnen twintig dagen,   vanaf de dag na de kennisgeving van de vernietiging aan de betrokken gemeente,   tot een nieuwe verkiezing overgegaan op basis van de ontvankelijke   voordrachtsakte voor de vernietigde verkiezing, ingediend conform artikel 10, §   1, en 14, van het decreet van 19 december 2008 betreffende de organisatie van de   openbare centra voor maatschappelijk welzijn. Ingeval van onvoldoende   voordrachten is artikel 14, tweede lid, van het voormelde decreet, met behoud   van artikel 13 van het voormelde decreet, van toepassing, met dien verstande dat   de termijn van twintig dagen geldt.<BR></P>  <P>Tot de installatie van de Raad voor Maatschappelijk Welzijn kunnen alleen   dringende zaken worden behandeld.<BR></P>  <P>Een vernietiging of een herstel van de verkiezingsuitslag tast de geldigheid   niet aan van de beslissingen van de Raad voor Maatschappelijk Welzijn die   genomen zijn voor de kennisgeving van de definitieve   uitspraak.<BR></P>
 
 ## [Afdeling 5 Bepalingen die van toepassing zijn op het (ing. decr. 9 december 2016, art. 8, I: 24 april 2017)] [handhavingscollege (verv. Decr. 25 april 2014, art. 143, I: 1 maart 2018)]
 
@@ -96,17 +172,85 @@ De kredieten die nodig zijn voor de werking van de Vlaamse   bestuursrechtscolle
 
 ## Afdeling 1 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)], de Raad voor Vergunningsbetwistingen [, de (verv. decr. 17 maart 2023, art. 22)] Raad voor Verkiezingsbetwistingen [en de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 22)]
 
+### ART. 32.
+
+<P>Een Vlaams bestuursrechtscollege spreekt zijn arresten uit in openbare   zitting.<BR></P>  <P>Elk arrest van een Vlaams bestuursrechtscollege wordt met redenen   omkleed.<BR></P>  <P>De arresten van een Vlaams bestuursrechtscollege worden ondertekend door de   kamervoorzitter en de griffier.<BR></P>
+
+### ART. 33.
+
+<P>Een Vlaams bestuursrechtscollege legt in zijn arrest het geheel of een deel   van de kosten ten laste van de partij die ten gronde in het ongelijk gesteld   wordt.<BR></P>  <P>Indien toepassing wordt gemaakt van [artikel 34 of <EM>(nvdr: zie info)</EM>]   artikel 42 dan kan een Vlaams bestuursrechtscollege de kosten geheel of   gedeeltelijk ten laste van de verwerende partij leggen.<BR><BR>De kosten   omvatten:<BR>1° het getuigengeld;<BR>2° de kosten en erelonen van het onderzoek   van de deskundigen;<BR>3° de kosten van de bekendmaking conform artikel 47,   uitgezonderd wat de Raad voor Verkiezingsbetwistingen betreft.<BR></P>  <P>Wat de Raad voor Vergunningsbetwistingen betreft, omvatten de kosten ook het   rolrecht, vermeld in artikel 21.<BR></P>
+
 ## Afdeling 2 Bepalingen die van toepassing zijn op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)] en de Raad voor Vergunningsbetwistingen
+
+### ART. 34.
+
+<P>[... <EM>(vernietigd Arrest Grondwettelijk Hof nr. 152/2015 van 29 oktober   2015)</EM><STRONG>]</STRONG></P>
+
+### ART. 35.
+
+Als een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en   b), het beroep gegrond verklaart, vernietigt het de bestreden beslissing geheel   of gedeeltelijk.<BR>
+
+### ART. 36.
+
+<P>Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan   op verzoek van een partij of op eigen initiatief oordelen dat de rechtsgevolgen   van de geheel of gedeeltelijk vernietigde beslissing geheel of gedeeltelijk in   stand blijven of voorlopig in stand blijven voor een termijn die het   bepaalt.<BR></P>  <P>De in het eerste lid voorziene maatregel kan enkel bevolen worden om   uitzonderlijke redenen die een aantasting van het legaliteitsbeginsel   rechtvaardigen, bij een met bijzondere redenen omklede beslissing en na een   tegensprekelijk debat. Deze beslissing kan rekening houden met de belangen van   derden.<BR></P>  <P>De Vlaamse Regering bepaalt de procedureregels betreffende de toepassing van   dit artikel.<BR></P>
+
+### ART. 37.
+
+<P>Na gehele of gedeeltelijke vernietiging kan een Vlaams bestuursrechtscollege   als vermeld in artikel 2, 1°, a) en b), de verwerende partij bevelen om met   inachtneming van de overwegingen opgenomen in zijn uitspraak een nieuwe   beslissing te nemen of een andere handeling te stellen. Het kan een termijn   opleggen voor de uitvoering van dat bevel.<BR></P>  <P>Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), kan   daarbij de volgende voorwaarden opleggen:<BR>1° welbepaalde rechtsregels of   rechtsbeginselen moeten bij de totstandkoming van de nieuwe beslissing worden   betrokken;<BR>2° welbepaalde procedurele handelingen moeten voorafgaand aan de   nieuwe beslissing worden gesteld.<BR></P>
+
+### ART. 38.
+
+<P>§ 1. Een Vlaams bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b),   kan bij ingebreke blijven van de verwerende partij, op verzoek van een partij   bepalen dat de verwerende partij, zolang ze niet voldoet aan een bevel, gegeven   met toepassing van artikel 37, een dwangsom verbeurt ten voordele van de partij   die om de oplegging van een dwangsom heeft verzocht.<BR></P>  <P>Het verzoek is slechts ontvankelijk wanneer de verzoeker de verwerende partij   bij een beveiligde zending tot het nemen van een nieuwe beslissing heeft   aangemaand en ten minste drie maanden vanaf de kennisgeving van het   vernietigingsarrest verlopen zijn. De dwangsom kan niet worden verbeurd alvorens   het arrest waarbij zij is vastgesteld, wordt betekend.<BR></P>  <P>§ 2. Een Vlaams bestuursrechtscollege kan de dwangsom hetzij op een bedrag   ineens, hetzij op een bedrag per tijdseenheid of per overtreding vaststellen. In   de laatste twee gevallen kan een Vlaams bestuursrechtscollege eveneens een   bedrag bepalen waarboven geen dwangsom meer verbeurd wordt.<BR></P>  <P>§ 3. De kamer die de dwangsom heeft opgelegd kan op vordering van de   verwerende partij de dwangsom opheffen, de looptijd ervan opschorten gedurende   een door haar te bepalen termijn of de dwangsom verminderen in geval van   blijvende of tijdelijke of gedeeltelijke onmogelijkheid voor de verwerende   partij om aan het bevel gegeven met toepassing van artikel 37 te voldoen. Voor   zover de dwangsom verbeurd was voordat de onmogelijkheid intrad, kan de kamer   haar niet opheffen of verminderen.<BR></P>  <P>De partij op wiens verzoek reeds een dwangsom werd opgelegd kan vragen om een   bijkomende dwangsom op te leggen of om de opgelegde dwangsom te verhogen als de   verwerende partij manifest in gebreke blijft uitvoering te geven aan het bevel,   gegeven met toepassing van artikel 37.<BR></P>  <P>§ 4. De bepalingen van het vijfde deel van het Gerechtelijk Wetboek die op   het beslag en de tenuitvoerlegging betrekking hebben, zijn van overeenkomstige   toepassing op de tenuitvoerlegging van het arrest waarbij een dwangsom is   opgelegd.<BR></P>
+
+### ART. 39.
+
+<P>§ 1. De arresten van een Vlaamse bestuursrechtscollege als vermeld in artikel   2, 1°, a) en b), zijn vatbaar voor verbetering of herziening.<BR></P>  <P>§ 2. Als een arrest een materiële vergissing bevat, kan een Vlaams   bestuursrechtscollege als vermeld in artikel 2, 1°, a) en b), uit eigen beweging   of op verzoek van een van de betrokken partijen een verbeterend arrest   uitspreken.<BR></P>  <P>Een vergissing met betrekking tot het recht of met betrekking tot de feiten   is nooit een materiële vergissing.<BR></P>  <P>§ 3. Een beroep tot herziening kan worden ingesteld als sinds de uitspraak   van het eindarrest over de vordering tot vernietiging doorslaggevende stukken   zijn teruggevonden die door toedoen van de tegenpartij waren achtergehouden of   als het arrest is uitgesproken op als vals erkende of vals verklaarde   stukken.<BR></P>  <P>Alleen degenen die bij het bestreden arrest partij waren, kunnen bij   verzoekschrift een beroep tot herziening instellen.<BR></P>  <P>Een beroep tot herziening schorst de uitvoering niet, tenzij de   kamervoorzitter er bij beschikking anders over oordeelt.<BR></P>  <P>De partijen worden uitgenodigd om te verschijnen op een zitting waarop het   beroep tot herziening wordt behandeld.<BR></P>  <P>Tegen een eindarrest waarbij uitspraak wordt gedaan over de vordering tot   vernietiging, kan dezelfde partij slechts eenmaal een beroep tot herziening   instellen.<BR></P>  <P>Tegen een arrest waarbij uitspraak wordt gedaan over een beroep tot   herziening, kan geen beroep tot herziening worden ingesteld.<BR></P>  <P>§ 4. De Vlaamse Regering kan nadere regels bepalen voor de toepassing van de   procedureregeling voor de verbetering of herziening van arresten, met inbegrip   van het bepalen van termijnen en de organisatie van de zittingen, vermeld in dit   artikel.<BR></P>
 
 ## Afdeling 3 Bepalingen die van toepassing zijn op de Raad voor Vergunningsbetwistingen
 
+### ART. 40.
+
+<P>§ 1. Met behoud van de toepassing van artikel 14 kan de Raad voor   Vergunningsbetwistingen, op voorwaarde dat de vordering tot schorsing is   ingegeven door hoogdringendheid en op grond van een of meer ernstige middelen,   een bestreden beslissing schorsen bij wijze van voorlopige voorziening.<BR></P>  <P>De Raad voor Vergunningsbetwistingen houdt op verzoek van de verwerende of de   tussenkomende partij rekening met de waarschijnlijke gevolgen van de schorsing   van de tenuitvoerlegging voor alle belangen die kunnen worden geschonden, alsook   met het algemeen belang, en hij kan besluiten de schorsing niet te bevelen   indien de nadelige gevolgen ervan op een klaarblijkelijk onevenredige wijze   zwaarder wegen dan de voordelen.<BR></P>  <P>Een vordering tot schorsing schorst de proceduretermijnen van de vordering   tot vernietiging vanaf de datum van ontvangst van het verzoekschrift door de   Raad voor Vergunningsbetwistingen tot de dag na de betekening van het arrest   waarin de schorsing wordt bevolen of van het door de verzoekende partij   ingediende verzoek tot voortzetting van de rechtspleging.<BR></P>  <P>Het schorsingsarrest wordt op verzoek gewezen, nadat de partijen zijn gehoord   of behoorlijk opgeroepen.<BR></P>  <P>Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de   zitting, wordt de vordering tot schorsing verworpen.<BR></P>  <P>Het verzoekschrift omschrijft in voorkomend geval de redenen op grond   waarvan, bij wijze van voorlopige voorziening, om de schorsing van de   tenuitvoerlegging van een beslissing wordt verzocht.<BR></P>  <P>Wanneer een vordering tot schorsing wordt verworpen wegens het gebrek aan   hoogdringendheid kan een nieuwe vordering slechts worden ingediend indien die   steunt op nieuwe elementen die de hoogdringendheid van deze vordering   rechtvaardigen. De Raad voor Vergunningsbetwistingen kan bovendien een termijn   bepalen waarin geen enkele nieuwe vordering tot schorsing kan worden ingediend   indien het enige nieuw ingeroepen element bestaat uit het verloop van   tijd.<BR></P>  <P>§ 2. In geval van uiterst dringende noodzakelijkheid kan de schorsing op   verzoek bij voorraad worden bevolen zonder dat de partijen of sommige van hen   zijn gehoord. In dit geval worden in het arrest dat de voorlopige schorsing   beveelt, de partijen binnen drie dagen opgeroepen om te verschijnen voor de   kamer die uitspraak doet over de bevestiging van de schorsing.<BR></P>  <P>§ 3. De Vlaamse Regering bepaalt de vervaltermijnen waarbinnen de partijen   het administratief dossier en hun nota's indienen. Deze vervaltermijnen mogen   niet korter zijn dan vijftien dagen, met uitzondering voor het indienen van het   administratief dossier bij de behandeling van de vordering tot schorsing wegens   uiterst dringende noodzakelijkheid.<BR></P>  <P>De Vlaamse Regering bepaalt de wijze waarop de partijen in kennis worden   gesteld van de neerlegging van het administratief dossier en de nota's.<BR></P>  <P>De Vlaamse Regering bepaalt de nadere regels met betrekking tot de   behandeling van de vordering tot schorsing en van de schorsing wegens uiterst   dringende noodzakelijkheid.<BR></P>  <P>§ 4. Het arrest dat de schorsing of de voorlopige schorsing van de   tenuitvoerlegging van de bestreden beslissing beveelt kan op verzoek van een   partij een dwangsom opleggen aan de verwerende partij ten voordele van de partij   die om de oplegging van de dwangsom heeft verzocht. In dat geval is artikel 38,   §§ 2 tot en met 4, van toepassing.<BR></P>  <P>§ 5. De Raad voor Vergunningsbetwistingen kan de arresten waarbij de   schorsing is bevolen, op verzoek van de partijen of op eigen initiatief   opheffen.<BR></P>  <P>De opheffing is alleen mogelijk als nieuwe feiten, hetzij in rechte, hetzij   in feite, zich voordoen of als de omstandigheden zodanig veranderd zijn dat de   schorsing niet langer gerechtvaardigd is.<BR></P>  <P>De partijen worden uitgenodigd om te verschijnen op een zitting waarop de   vordering tot opheffing wordt behandeld.<BR></P>  <P>De Vlaamse Regering kan nadere regels bepalen voor de toepassing van de   procedureregeling voor de opheffing van arresten, met inbegrip van het bepalen   van termijnen en de organisatie van de zittingen, vermeld in dit   artikel.<BR></P>
+
+### ART. 41.
+
+<P>Wanneer bij de Raad voor Vergunningsbetwistingen overeenkomstig artikel 40   een vordering tot schorsing of schorsing wegens uiterst dringende   noodzakelijkheid aanhangig wordt gemaakt kan hij als enige, bij voorraad en   onder de in artikel 40, § 1, eerste en tweede lid, bepaalde voorwaarden, alle   nodige maatregelen bevelen om de belangen van de partijen of van de personen die   belang hebben bij de oplossing van de zaak veilig te stellen, met uitzondering   van de maatregelen die betrekking hebben op de burgerlijke rechten.<BR></P>  <P>Deze maatregelen worden, nadat de partijen gehoord zijn of behoorlijk zijn   opgeroepen, bij een gemotiveerd arrest bevolen.<BR></P>  <P>Als de verzoekende partij noch verschijnt, noch vertegenwoordigd is op de   zitting, wordt de vordering tot het bevelen van voorlopige maatregelen   verworpen.<BR></P>  <P>Wanneer een vordering tot het bevelen van voorlopige maatregelen wordt   verworpen wegens het gebrek aan hoogdringendheid kan een nieuwe vordering   slechts worden ingediend indien die steunt op nieuwe elementen die de   hoogdringendheid van deze vordering rechtvaardigen. De Raad voor   Vergunningsbetwistingen kan bovendien een termijn bepalen waarin geen enkele   nieuwe vordering tot het bevelen van voorlopige maatregelen kan worden ingediend   indien het enige nieuw ingeroepen element bestaat uit het verloop van   tijd.<BR></P>  <P>In geval van uiterst dringende noodzakelijkheid kunnen voorlopige maatregelen   worden bevolen, zonder dat de partijen of sommige van hen gehoord worden. In dat   geval worden in het arrest dat de voorlopige maatregelen beveelt, de partijen   binnen drie dagen opgeroepen om te verschijnen voor de kamer die uitspraak doet   over de handhaving van de maatregelen die niet zouden zijn uitgevoerd.<BR></P>  <P>Artikel 40, §§ 4 en 5, vindt toepassing op de krachtens dit artikel   uitgesproken arresten.<BR></P>  <P>De Vlaamse Regering bepaalt de procedure met betrekking tot de in dit artikel   bedoelde maatregelen.<BR></P>
+
+### ART. 42.
+
+<P>§ 1. Ter oplossing van een voor de Raad voor Vergunningsbetwistingen   gebrachte betwisting kan die op gezamenlijk verzoek van de partijen of op eigen   initiatief maar met akkoord van de partijen met een tussenuitspraak tot   bemiddeling beslissen zolang het beroep niet in beraad is genomen.<BR></P>  <P>§ 2. Bij inwilliging van het verzoek tot bemiddeling zendt de griffier   onmiddellijk een afschrift van het tussenarrest, vermeld in paragraaf 1, aan de   partijen en aan de bemiddelaar.<BR></P>  <P>De volgende personen kunnen door de Raad voor Vergunningsbetwistingen als   bemiddelaar worden aangewezen: bestuursrechters, griffiers, referendarissen of   derden die door de partijen gezamenlijk worden voorgesteld.<BR></P>  <P>De bemiddelaar voldoet aan de volgende voorwaarden:<BR>1° hij heeft een   grondige kennis van en nuttige ervaring in het betreffende domein van het   Vlaamse recht betreffende de ruimtelijke ordening;<BR>2° hij geeft blijk van een   vorming die passend is voor de bemiddelingspraktijk;<BR>3° hij biedt de   noodzakelijke waarborgen voor een onafhankelijke en onpartijdige   bemiddeling;<BR>4° hij heeft geen strafrechtelijke veroordelingen of   tuchtrechtelijke sancties opgelopen die onverenigbaar zijn met de uitoefening   van de functie van bemiddelaar.<BR></P>  <P>Tijdens de bemiddeling probeert de bemiddelaar een directe dialoog tot stand   te brengen tussen de partijen en verleent hij ondersteuning voor een goed   verloop van de dialoog. De bemiddeling verloopt volgens de volgende   principes:<BR>1° vrijwilligheid;<BR>2° onafhankelijkheid en onpartijdigheid van   de bemiddelaar;<BR>3° vertrouwelijkheid.<BR></P>  <P>De bemiddelaar kan ook derden bij de bemiddeling betrekken.<BR></P>  <P>§ 3. Als de bemiddeling tot een bemiddelingsakkoord leidt, kunnen de partijen   of een van hen de Raad voor Vergunningsbetwistingen verzoeken dat akkoord te   bekrachtigen.<BR></P>  <P>De Raad voor Vergunningsbetwistingen kan de bekrachtiging alleen weigeren als   het akkoord strijdig is met de openbare orde, de regelgeving of   stedenbouwkundige voorschriften.<BR></P>  <P>Bij het ontbreken van een bemiddelingsakkoord of als de Raad voor   Vergunningsbetwistingen vaststelt dat de randvoorwaarden voor een geslaagde   bemiddeling niet of niet langer zijn vervuld, wordt bij tussenarrest de   voortzetting van de jurisdictionele procedure bevolen.<BR></P>  <P>§ 4. Een verzoek tot bemiddeling schorst de proceduretermijnen vanaf de datum   van ontvangst van het verzoek door de Raad voor Vergunningsbetwistingen   tot:<BR>1° de datum van bekrachtiging van het bemiddelingsakkoord, vermeld in   paragraaf 3, eerste lid;<BR>2° de dag na de betekening van het tussenarrest,   vermeld in paragraaf 3, derde lid.<BR></P>  <P>§ 5. De Vlaamse Regering stelt de vormvereisten vast waaraan een verzoek tot   bemiddeling moet voldoen, de mogelijkheid tot regularisatie van deze vereisten   en de termijnen van de bemiddeling en alle aanvullende maatregelen betreffende   de organisatie van de bemiddeling.<BR></P>
+
+### ART. 43.
+
+<P>De Raad voor Vergunningsbetwistingen kan ambtshalve een geldboete opleggen   wegens kennelijk onrechtmatig beroep.<BR></P>  <P>De geldboete bedraagt minimaal 125 euro en maximaal 2500 euro, met dien   verstande dat die bedragen door de Vlaamse Regering kunnen worden gewijzigd   ingevolge de evolutie van het indexcijfer van de consumptieprijzen.<BR></P>  <P>De opbrengst van de geldboete wordt gestort op de rekening van het fonds voor   de dienst van de bestuursrechtscolleges.<BR></P>  <P>De Vlaamse Regering stelt de regels vast voor het opleggen en innen van de   geldboete.<BR></P>
+
 ## Afdeling 4 Bepaling die van toepassing is op het [handhavingscollege (verv. decr. 25 april 2014, art. 143)]
+
+### ART. 44.
+
+Na gehele of gedeeltelijke vernietiging kan het Milieuhandhavingscollege   zelf een beslissing nemen over het bedrag van de boete en, in voorkomend geval,   over de voordeelontneming, en bepalen dat zijn uitspraak daarover de vernietigde   beslissing vervangt.<BR>
 
 ## [Afdeling 5 Bepalingen die van toepassing zijn op de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. decr. 17 maart 2023, art. 23)]
 
 ## HOOFDSTUK 5 Uitvoering
 
+### ART. 45.
+
+De arresten van een Vlaams bestuursrechtscollege zijn van rechtswege   uitvoerbaar. De Vlaamse Regering verzekert de uitvoering ervan met inbegrip van   de vaststelling van het uitvoeringsformulier.<BR>
+
 ## HOOFDSTUK 6 Bekendmaking
+
+### ART. 46.
+
+<P>Een Vlaams bestuursrechtscollege zorgt voor een publicatie van de arresten op   de website van de dienst van de Bestuursrechtscolleges.<BR></P>  <P>Bij de publicatie van het arrest kan de identiteit van natuurlijke personen,   op uitdrukkelijk verzoek van een natuurlijke persoon die partij is bij een   geschil voor een Vlaams bestuursrechtscollege, worden weggelaten. Dat verzoek   kan worden ingediend in het verzoekschrift of, in voorkomend geval, tot aan de   sluiting van de debatten. In het bepalend gedeelte van het arrest wordt   uitdrukkelijk melding gemaakt van de depersonalisatie.<BR></P>  <P>In uitzonderlijke omstandigheden kan een natuurlijke persoon die partij was   bij een geschil dat bij een Vlaams bestuursrechtscollege aanhangig was, op grond   van gegevens waarvan hij geen kennis had voor het indienen van het   verzoekschrift of de sluiting van de debatten, verzoeken dat de identiteit van   de natuurlijke personen die hij aanwijst, niet langer wordt vermeld in de   publicatie van de arresten in digitaal formaat.<BR></P>  <P>Een natuurlijke persoon die geen partij was in het geding, maar een belang   heeft bij de weglating van de identiteit bij de publicatie, kan ook een   dergelijk verzoek indienen, als dat belang wordt aangetoond.<BR></P>  <P>Het gemotiveerd verzoek wordt per beveiligde zending aan de eerste voorzitter   bezorgd.<BR></P>  <P>De eerste voorzitter beslist over het gemotiveerde   verzoek.<BR></P>
+
+### ART. 47.
+
+Elk arrest vermeldt in voorkomend geval de beslissing dat het arrest wordt   bekendgemaakt op de wijze die het bepaalt.<BR>
+
+### ART. 48.
+
+De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams Parlement en aan de Vlaamse Regering. Het jaarverslag omvat een overzicht   van de activiteiten van de Vlaamse bestuursrechtscolleges gedurende het   voorgaande jaar.<BR>
 
 ## HOOFDSTUK 7 Rechtspositieregeling van de bestuursrechters
 
@@ -206,6 +350,18 @@ Artikel 16.4.22 van hetzelfde decreet, ingevoegd bij het decreet van 21   decemb
 
 Artikel 16.4.24 van hetzelfde decreet, ingevoegd bij het decreet van 21   december 2007 en vervangen bij het decreet van 23 december 2010, wordt   opgeheven.<BR>
 
+### ART. 69.
+
+In artikel 16.4.39 van hetzelfde decreet, ingevoegd bij het decreet van 21   december 2007 en vervangen bij het decreet van 23 december 2010, worden tussen   het woord "opgelegd" en het woord "beroep" de woorden "binnen een termijn van   dertig dagen na de kennisgeving van de bestreden beslissing"   ingevoegd.<BR>
+
+### ART. 70.
+
+In artikel 16.4.44 van hetzelfde decreet, ingevoegd bij het decreet van 21   december 2007 en vervangen bij het decreet van 23 december 2010, worden tussen   het woord "opgelegd" en de zinsnede ", beroep" de woorden "binnen een termijn   van dertig dagen na de kennisgeving van de bestreden beslissing"   ingevoegd.<BR>
+
+### ART. 71.
+
+Artikel 16.4.62, 16.4.63 en 16.4.65 van hetzelfde decreet, ingevoegd bij   het decreet van 21 december 2007 en vervangen bij het decreet van 23 december   2010, worden opgeheven.<BR>
+
 ## Afdeling 2 Wijzigingen van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn
 
 ### ART. 72.
@@ -218,9 +374,45 @@ In artikel 16, § 2, tweede lid, van hetzelfde decreet wordt de zinsnede   "arti
 
 ## Afdeling 3 Wijzigingen van de Vlaamse Codex Ruimtelijke Ordening
 
+### ART. 74.
+
+Aan artikel 4.2.11, § 2, van de Vlaamse Codex Ruimtelijke Ordening,   gewijzigd bij het decreet van 6 juli 2012, worden de woorden "en het decreet van   4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse   bestuursrechtscolleges" toegevoegd.<BR>
+
 ### ART. 75.
 
 In artikel 4.8.1. van dezelfde codex, vervangen bij het decreet van 6 juli   2012, wordt het tweede lid opgeheven.<BR>
+
+### ART. 76.
+
+In artikel 4.8.2. van dezelfde codex, vervangen bij het decreet van 6 juli   2012, worden het tweede en het derde lid opgeheven.<BR>
+
+### ART. 77.
+
+In titel IV, hoofdstuk VIII, afdeling 2, van dezelfde codex, vervangen bij   het decreet van 6 juli 2012, worden onderafdeling 2, die bestaat uit artikel   4.8.3, onderafdeling 3, die bestaat uit artikel 4.8.4, en onderafdeling 4, die   bestaat uit artikel 4.8.5, opgeheven.<BR>
+
+### ART. 78.
+
+In titel IV, hoofdstuk VIII, afdeling 3, van dezelfde codex, vervangen bij   het decreet van 6 juli 2012, wordt onderafdeling 1, die bestaat uit artikel   4.8.6 tot en met 4.8.10, opgeheven.<BR>
+
+### ART. 79.
+
+&nbsp;In artikel 4.8.11 van dezelfde codex, vervangen bij het decreet van   6 juli 2012, worden de volgende wijzigingen aangebracht:<BR>1° in paragraaf 1,   eerste lid, wordt het woord "belanghebbenden" vervangen door het woord   "personen";<BR>2° in paragraaf 1, tweede lid, wordt het woord "belanghebbende"   vervangen door het woord "persoon";<BR>3° paragraaf 3 wordt   opgeheven.<BR>
+
+### ART. 80.
+
+Artikel 4.8.12 en 4.8.13 van dezelfde codex, vervangen bij het decreet van   6 juli 2012, worden opgeheven.<BR>
+
+### ART. 81.
+
+In titel IV, hoofdstuk VIII, afdeling 3, van dezelfde codex, vervangen bij   het decreet van 6 juli 2012, worden onderafdeling 3, die bestaat uit artikel   4.8.14, en onderafdeling 4, die bestaat uit artikel 4.8.15 tot en met 4.8.20,   opgeheven.<BR>
+
+### ART. 82.
+
+Artikel 4.8.21 van dezelfde codex, vervangen bij het decreet van 6 juli   2012, wordt vervangen door wat volgt:<BR>"Art. 4.8.21. Elk van de personen,   vermeld in artikel 4.8.11, § 1, eerste lid, kan in de zaak   tussenkomen.".<BR>
+
+### ART. 83.
+
+In titel IV, hoofdstuk VIII, afdeling 3, van dezelfde codex, vervangen bij   het decreet van 6 juli 2012, worden onderafdeling 6, die bestaat uit artikel   4.8.22 en 4.8.23, onderafdeling 7, die bestaat uit artikel 4.8.24 tot en met   4.8.27, en onderafdeling 8, die bestaat uit artikel 4.8.28 tot en met 4.8.32,   opgeheven.<BR>
 
 ### ART. 84.
 
@@ -244,6 +436,14 @@ Artikel 202 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011   wordt ve
 
 In deel 4, titel 2, hoofdstuk 1, van hetzelfde decreet wordt afdeling 3,   die bestaat uit artikel 206, opgeheven.<BR>
 
+### ART. 89.
+
+In deel 4, titel 2, hoofdstuk 1, van hetzelfde decreet wordt afdeling 4,   die bestaat uit artikel 207 tot en met 215, opgeheven.<BR>
+
+### ART. 90.
+
+&nbsp;In deel 4, titel 2, van hetzelfde decreet wordt hoofdstuk 2, dat   bestaat uit artikel 216 en 217, opgeheven.<BR>
+
 ## HOOFDSTUK 9 Slotbepalingen
 
 ### ART. 91.
@@ -257,6 +457,14 @@ Voor de effectieve bestuursrechters die op de datum van de   inwerkingtreding va
 ### ART. 93.
 
 <P>De Vlaamse Regering regelt de overdracht van het personeel van het Vlaams   bestuursrechtscollege, vermeld in artikel 2, 1°, b), aan de dienst van de   Bestuursrechtscolleges.<BR></P>  <P>De Vlaamse Regering regelt de overdracht van het personeel van het   Departement Leefmilieu, Natuur en Energie, dat overeenkomstig artikel 16.4.22   van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid ter beschikking is gesteld van het Vlaams bestuursrechtscollege,   vermeld in artikel 2, 1°, a), aan de dienst van de   Bestuursrechtscolleges.<BR></P>  <P>De Vlaamse Regering bepaalt de noodzakelijke maatregelen om de rechten te   waarborgen van het overgedragen personeel wat betreft de anciënniteit en de   bezoldiging.<BR></P>
+
+### ART. 94.
+
+&nbsp;De beroepen die zijn ingediend bij de Vlaamse   bestuursrechtscolleges, vermeld in artikel 2, 1°, a) en c), voor de datum van de   inwerkingtreding van dit decreet worden behandeld volgens de reglementering die   van toepassing was daags voor de inwerkingtreding van dit   decreet.<BR>
+
+### ART. 95.
+
+De beroepen die zijn ingediend bij het Vlaams bestuursrechtscollege,   vermeld in artikel 2, 1°, b), voor de datum van de inwerkingtreding van dit   decreet, worden behandeld volgens de volgende regels:<BR>1° beroepen die zijn   ingediend voor 1 september 2012, worden behandeld volgens de procedureregels die   gelden voor die datum;<BR>2° beroepen die zijn ingediend vanaf 1 september 2012   en voor de datum van inwerkingtreding van dit decreet worden behandeld volgens   de procedureregels vermeld in de Vlaamse Codex Ruimtelijke Ordening en het   besluit van de Vlaamse Regering van 13 juli 2012 houdende de rechtspleging voor   de Raad voor Vergunningsbetwistingen;<BR>3° beroepen die al in beraad zijn   genomen voor de datum van inwerkingtreding van dit decreet worden in dezelfde   samenstelling als op de zitting besproken en uitgesproken.<BR>
 
 ### ART. 96.
 
