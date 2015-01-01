@@ -2,16 +2,16 @@
   "codex_id": 1013287,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 houdende uitvoering van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen in de algemene, [revalidatie-] en universitaire ziekenhuizen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013287/VolledigDocument?datum=2010-09-21",
-  "source_sha256": "4704fb32384772e475b20e3b6d43d3a3cec3a4e44f37341146076bd9697f448f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013287/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "48cf5daafa8f7654bce57a0d9e7c6e427ba867739539c264906d6f34ada8694a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013287&param=informatie",
-  "as_of": "2010-09-21",
+  "as_of": "2015-01-01",
   "made": "2004-05-14",
   "gazette": "2004-07-30",
   "numac": 2004036242,
   "document_start": "2004-08-09",
   "document_end": null,
-  "in_force": "2010-09-21",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2010-09-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
