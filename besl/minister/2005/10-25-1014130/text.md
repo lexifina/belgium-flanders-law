@@ -79,7 +79,7 @@ In de fokkerijsector genetische diversiteit wordt geen leidende vereniging aange
 
 ### ART. 3.
 
-Met toepassing van artikel 3 van het besluit van de Vlaamse Regering wordt de v.z.w. Vlaams Fokkerijcentrum, hierna het VFc te noemen, erkend.<br /><br />Onverminderd de opdrachten, vermeld in het eerste lid van artikel 3 van het besluit van de Vlaamse Regering, waarmee het VFc belast wordt, kan de bevoegde entiteit van het Departement Landbouw en Visserij, hierna de bevoegde entiteit te noemen, het VFc belasten met extra opdrachten.<br /><br />Ter uitvoering van artikel 3, tweede lid, 8°, van het besluit van de Vlaamse Regering moet het VFc voor 30 april zijn activiteitenverslag van het voorbije jaar aan de dienst bezorgen. De bevoegde entiteit kan de voorwaarden vaststellen waaraan het verslag in kwestie moet voldoen.
+Met toepassing van artikel 3 van het besluit van de Vlaamse Regering wordt   de v.z.w. Vlaams Fokkerijcentrum, hierna het VFc te noemen,   erkend.<BR><BR>Onverminderd de opdrachten, vermeld in het eerste lid van artikel   3 van het besluit van de Vlaamse Regering, waarmee het VFc belast wordt, kan de   bevoegde entiteit&nbsp;het VFc belasten met extra opdrachten.<BR><BR>Ter   uitvoering van artikel 3, tweede lid, 8°, van het besluit van de Vlaamse   Regering moet het VFc voor 30 april zijn activiteitenverslag van het voorbije   jaar aan de bevoegde entiteit bezorgen. De bevoegde entiteit kan de voorwaarden   vaststellen waaraan het verslag in kwestie moet voldoen.
 
 ### ART. 4.
 
