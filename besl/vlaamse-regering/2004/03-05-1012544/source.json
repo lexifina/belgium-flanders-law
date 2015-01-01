@@ -2,16 +2,16 @@
   "codex_id": 1012544,
   "title": "Besluit van de Vlaamse Regering van 2004-03-05 betreffende de samenstelling, de organisatie, de bevoegdheden en de werking van de Koninklijke Commissie voor Monumenten en Landschappen van het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012544/VolledigDocument?datum=2013-06-13",
-  "source_sha256": "7ebdff4f4162e5e17be399c2969fcfcc4a8bacc1da511c765bff61ab437109d3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012544/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6359df13552a4514dfe829f9763fa0dc2261bf0bd8ee795775a54b088bd5db5e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012544&param=informatie",
-  "as_of": "2013-06-13",
+  "as_of": "2015-01-01",
   "made": "2004-03-05",
   "gazette": "2004-04-16",
   "numac": 2004035573,
   "document_start": "2004-04-16",
   "document_end": "2014-12-31",
-  "in_force": "2013-06-13",
+  "in_force": "2015-01-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2013-06-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
