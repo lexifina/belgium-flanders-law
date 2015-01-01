@@ -2,16 +2,16 @@
   "codex_id": 1019189,
   "title": "Ministerieel besluit van 2010-06-21 tot vaststelling van een keurings- en certificeringsreglement van zaaizaden van landbouw- en groentegewassen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019189/VolledigDocument?datum=2014-03-31",
-  "source_sha256": "8c41263cc64a6a991a54b553491bb3c1e758f71003285c98a81ecabe6fffbc82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019189/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "b6f141dd2d0bafe080808d96d63baf06d5c73b20385899033be244de56372c33",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019189&param=informatie",
-  "as_of": "2014-03-31",
+  "as_of": "2015-01-01",
   "made": "2010-06-21",
   "gazette": "2010-07-07",
   "numac": 2010035450,
   "document_start": "2010-06-30",
   "document_end": "2017-04-30",
-  "in_force": "2014-03-31",
+  "in_force": "2015-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2014-03-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

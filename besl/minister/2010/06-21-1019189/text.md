@@ -98,7 +98,7 @@ HOOFDSTUK 1. - Algemene bepalingen<br>
 <br>
 1.1.1. I.S.T.A. (International Seed Testing Association) : internationale organisatie die de methoden voor zaadbemonstering en zaadanalyses vastlegt<br>
 <br>
-1.1.2. de bevoegde entiteit : de afdeling Productkwaliteitsbeheer van het Agentschap voor Landbouw en Visserij die bevoegd is voor de controle op het keurings- en certificeringsreglement van zaaizaden van landbouwgewassen<br>
+1.1.2. de bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij, bevoegd voor de controle op het keurings- en certificeringsreglement van zaaizaden van landbouwgewassen.<br>
 <br>
 1.1.3. procesverantwoordelijke : de natuurlijke persoon, in dienst van de bevoegde entiteit, die erop toeziet dat een proces verloopt zoals is vastgelegd in het keurings- en certificeringsreglement van zaaizaden van landbouwgewassen. Hij is zowel verantwoordelijk voor het volledige beheer van het proces als voor alle procesgerelateerde dossiers<br>
 <br>
@@ -825,8 +825,7 @@ Als er geen documenten ter identificatie kunnen worden voorgelegd, wordt het per
 <br>
 Na de veldkeuring wordt de teelt gerangschikt door de bevoegde entiteit op basis van de vaststellingen die gedaan zijn op het vermeerderingsveld. In geval van veldkeuringen die onder officieel toezicht uitgevoerd worden, moeten de officieel erkende keurmeesters de vaststellingen zonder uitstel aan de bevoegde entiteit bezorgen.<br>
 <br>
-De bevoegde entiteit moet de veldkeuringsverslagen uiterlijk op de hiernavolgende data ontvangen hebben :<br>
-</p>
+De bevoegde entiteit moet de veldkeuringsverslagen uiterlijk op de hiernavolgende data ontvangen hebben :</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
