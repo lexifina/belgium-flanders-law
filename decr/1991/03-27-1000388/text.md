@@ -692,7 +692,48 @@ Het personeelslid verkrijgt onder de door de Vlaamse regering bepaalde voorwaard
 
 ### ART. 51quater.
 
-§ 1. Personeelsleden kunnen een verlof wegens bijzondere opdracht of een   verlof wegens opdracht opnemen voor diensten of projecten met belang voor het   onderwijs.<BR><BR>Het betreft diensten of projecten die de werking van het   onderwijs ten goede komen door deelname, ondersteuning en begeleiding te leveren   inzake vernieuwingen of experimenten op onderwijsvlak, inzake het   onderwijsbeleid of inzake het onderwijsonderzoek.<BR><BR>§ 2. Personeelsleden   kunnen onder de voorwaarden bepaald door de Vlaamse regering een verlof wegens   bijzondere op-dracht bekomen, zonder terugbetaling van het salaris, in het kader   van de hiernavolgende diensten of projecten:<BR>1° de pedagogische   begeleidingsdiensten en nascholing op initiatief van het   Gemeenschapsonderwijs;<BR>2° de Europese scholen;<BR>3° de projecten waarbij er   een vervanging is door gesubsidieerde contractuelen, die door het departement   Onderwijs worden bezoldigd, of door personeelsleden bedoeld in artikel X. 57 van   het decreet van 14 februari 2003 betreffende het onderwijs XIV;<BR>4° ...<BR>5°   de functie van secretaris van een reaffectatiecommissie;<BR>6° de   examencommissies van de Vlaamse Gemeenschap;<BR>7° ...<BR>8° ...<BR>9° de   projecten die kaderen in een door de Vlaamse Gemeenschap onderschreven Europese   en bilaterale uitwisselingsprojecten;<BR>10° de door de Europese Unie   ondersteunde Europese onderwijsprojecten; <BR>11° ...<BR>12° ...<BR>13° het   begeleiden en ondersteunen van de inspraakstructuren in het onderwijs.<BR>14°   een opdracht in de internationale school Ferney-Voltaire.<BR>15° de projecten   van de Vlaamse minister, bevoegd voor het onderwijs.<BR><BR>De Vlaamse regering   kan de in het eerste lid bedoelde lijst uitbreiden met initiatieven en projecten   die een bijzonder belang voor het onderwijs vertonen.<BR><BR>De Vlaamse Regering   stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast.   Het totale aantal verloven wegens bijzondere opdracht zoals bepaald in het   eerste lid, punt 15°, wordt voor het gemeenschaps- en het gesubsidieerd   onderwijs samen vastgelegd op maximaal 43 voltijdse equivalenten, waarvan er   minimaal 12 voltijdse equivalenten worden voorbehouden voor het   Gemeenschapsonderwijs en de representatieve groeperingen van inrichtende   machten. <BR><BR>§ 3. De personeelsleden kunnen onder de voorwaarden bepaald   door de Vlaamse regering een verlof wegens opdracht bekomen, mits een   terugbetaling van het salaris, voor een dienst of project in het belang van het   onderwijs.<BR><BR>De Vlaamse regering bepaalt naast de in het eerste lid   bedoelde voorwaarde:<BR>1° ten aanzien van de dienst/het project<BR>- de wijze   waarop het verband tussen de betrokken dienst/project en het belang van het   onderwijs moet worden aangetoond;<BR>- ...<BR>- voor welke diensten en projecten   het verlof wegens opdracht beperkt wordt tot een bepaalde maximumduur;<BR>2° ten   aanzien van het betrokken personeelslid<BR>- voor welke diensten en projecten   het verlof wegens opdracht in hoofde van het personeelslid beperkt wordt tot een   bepaalde maximumduur;<BR>- de gevolgen voor de administratieve en geldelijke   rechtspositie van het betrokken personeelslid;<BR>3° ten aanzien van de   instelling waar het personeelslid geaffecteerd of aangesteld is :<BR>- de wijze   waarop zij in het beslissingsproces wordt betrokken.<BR>
+§ 1. Personeelsleden kunnen een verlof wegens bijzondere opdracht of een verlof wegens opdracht opnemen voor diensten of projecten met belang voor het onderwijs.<br>
+<br>
+Het betreft diensten of projecten die de werking van het onderwijs ten goede komen door deelname, ondersteuning en begeleiding te leveren inzake vernieuwingen of experimenten op onderwijsvlak, inzake het onderwijsbeleid of inzake het onderwijsonderzoek.<br>
+<br>
+§ 2. Personeelsleden kunnen onder de voorwaarden bepaald door de Vlaamse regering een verlof wegens bijzondere op-dracht bekomen, zonder terugbetaling van het salaris, in het kader van de hiernavolgende diensten of projecten:<br>
+1° de pedagogische begeleidingsdiensten en nascholing op initiatief van het Gemeenschapsonderwijs;<br>
+2° de Europese scholen;<br>
+3° de projecten waarbij er een vervanging is door gesubsidieerde contractuelen, die door het departement Onderwijs worden bezoldigd, of door personeelsleden bedoeld in artikel X. 57 van het decreet van 14 februari 2003 betreffende het onderwijs XIV;<br>
+4° een opdracht in de vereniging die de rijdende kleuterschool Vlaanderen organiseert volgens de artikelen 168 en 169 van het decreet basisonderwijs van 25 februari 1997;<br>
+5° de functie van secretaris van een reaffectatiecommissie;<br>
+6° ...;<br>
+7° ...<br>
+8° ...<br>
+9° de projecten die kaderen in een door de Vlaamse Gemeenschap onderschreven Europese en bilaterale uitwisselingsprojecten;<br>
+10° de door de Europese Unie ondersteunde Europese onderwijsprojecten;<br>
+11° ...<br>
+12° ...<br>
+13° het begeleiden en ondersteunen van de inspraakstructuren in het onderwijs.<br>
+14° een opdracht in de internationale school Ferney-Voltaire.<br>
+15° de projecten van de Vlaamse minister, bevoegd voor het onderwijs.<br>
+<br>
+De Vlaamse regering kan de in het eerste lid bedoelde lijst uitbreiden met initiatieven en projecten die een bijzonder belang voor het onderwijs vertonen.<br>
+<br>
+De Vlaamse Regering stelt voor de verloven wegens bijzondere opdracht de nadere modaliteiten vast. Het totale aantal verloven wegens bijzondere opdracht zoals bepaald in het eerste lid, punt 15°, wordt voor het gemeenschaps- en het gesubsidieerd onderwijs samen vastgelegd op maximaal 42 voltijdse equivalenten, waarvan er minimaal 12 voltijdse equivalenten worden voorbehouden voor het Gemeenschapsonderwijs en de representatieve groeperingen van inrichtende machten.<br>
+<br>
+§ 3. De personeelsleden kunnen onder de voorwaarden bepaald door de Vlaamse regering een verlof wegens opdracht bekomen, mits een terugbetaling van het salaris, voor een dienst of project in het belang van het onderwijs.<br>
+<br>
+De Vlaamse regering bepaalt naast de in het eerste lid bedoelde voorwaarde:<br>
+1° ten aanzien van de dienst/het project<br>
+- voor welke diensten en projecten het verlof wegens opdracht beperkt wordt tot een bepaalde maximumduur;<br>
+2° ten aanzien van het betrokken personeelslid<br>
+- voor welke diensten en projecten het verlof wegens opdracht in hoofde van het personeelslid beperkt wordt tot een bepaalde maximumduur;<br>
+- de gevolgen voor de administratieve en geldelijke rechtspositie van het betrokken personeelslid;<br>
+3° ten aanzien van de instelling waar het personeelslid geaffecteerd of aangesteld is :<br>
+- de wijze waarop zij in het beslissingsproces wordt betrokken.<br>
+<br>
+§ 4. De Vlaamse Regering bepaalt de modaliteiten waarbij een financiële bijdrage aan een organisatie kan worden gevraagd voor de administratieve kosten met betrekking tot het aanvragen voor een personeelslid van een verlof wegens opdracht, verlof voor vakbondsopdrachten, verlof om een ambt uit te oefenen in een ministerieel kabinet, of verlof voor prestaties ten behoeve van in de wetgevende vergaderingen erkende politieke groeperingen of hun voorzitters. Deze financiële bijdrage wordt uitsluitend gevraagd aan organisaties die er zich toe verbonden hebben het salaris van het personeelslid, verhoogd met alle vergoedingen en bijslagen die door het Ministerie van Onderwijs en Vorming worden uitbetaald, voor de voormelde periode terug te betalen aan het Ministerie van Onderwijs en Vorming na voorlegging van een schriftelijke betalingsstaat.<br>
+<br>
+§ 5. Als een organisatie in het kader van een verlof wegens opdracht beroep doet op een personeelslid voor een periode die geen volledig schooljaar, met inbegrip van de zomervakantie, omvat, dan wordt aan de organisatie naast de terugbetaling van het salaris van het betrokken personeelslid voor de periode van het genoten verlof een bijkomende salariskost aangerekend. Deze bijkomende salariskost wordt berekend op basis van een aantal kalenderdagen volgens volgende principes:<br>
+1° alle kalenderdagen van het genoten verlof wegens opdracht worden opgeteld met een maximum van driehonderd dagen per schooljaar;<br>
+2° het resultaat van de optelling wordt met 0,2 vermenigvuldigd;<br>
+3° het resultaat wordt naar de lagere eenheid afgerond.
 
 ### ART. 51quinquies.
 
