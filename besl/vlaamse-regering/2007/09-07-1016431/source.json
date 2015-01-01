@@ -2,16 +2,16 @@
   "codex_id": 1016431,
   "title": "Besluit van de Vlaamse Regering van 2007-09-07 houdende de organisatie van de vaststelling van en de controle op de samenstelling van rauwe koemelk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016431/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "75dafa15c246b18f90a19eba2d8ce8fd24eac4fed4c9f85258166ea3c94b81d6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016431/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "1aa206890fb3892b04bb440ebe241c044a087bd7aee63a2a66e033ca2d999921",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016431&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2007-09-07",
   "gazette": "2007-12-21",
   "numac": 2007036620,
   "document_start": "2007-12-31",
   "document_end": null,
-  "in_force": "2014-01-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
