@@ -2,16 +2,16 @@
   "codex_id": 1022878,
   "title": "Besluit van de Vlaamse Regering van 2013-03-15 houdende nadere regels inzake duurzaam gebruik van pesticiden in het Vlaamse Gewest voor niet-land- en tuinbouwactiviteiten en de opmaak van het Vlaams Actieplan Duurzaam Pesticidengebruik",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022878/VolledigDocument?datum=2013-04-28",
-  "source_sha256": "efac422e02c4752c4fb44ade605ca473dd0a7865aedbe0f016c517f436c427ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022878/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "7d45c08d2288b8e8695e3523aa5dc133ca109e06cb3dabb0aef8f93d1898c30e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022878&param=informatie",
-  "as_of": "2013-04-28",
+  "as_of": "2015-01-01",
   "made": "2013-03-15",
   "gazette": "2013-04-18",
   "numac": 2013035318,
   "document_start": "2013-04-28",
   "document_end": null,
-  "in_force": "2013-04-28",
-  "article_versions": 21,
-  "record_form": "consolidated version as in force on 2013-04-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

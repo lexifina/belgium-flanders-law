@@ -88,6 +88,10 @@ Artikel 2 van het besluit van de Vlaamse Regering van 27 juni 1984   houdende ma
 
 ## HOOFDSTUK 7 Slotbepalingen
 
+### ART. 18.
+
+Het besluit van de Vlaamse Regering van 19 december 2008 houdende nadere   regels inzake de reductieprogramma's ter vermindering van het gebruik van   bestrijdingsmiddelen door openbare diensten in het Vlaamse Gewest wordt   opgeheven. <BR>
+
 ### ART. 19.
 
 Artikel 18 treedt in werking op 1 januari 2015.<BR>
