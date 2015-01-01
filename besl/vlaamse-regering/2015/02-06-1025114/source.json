@@ -2,16 +2,16 @@
   "codex_id": 1025114,
   "title": "Besluit van de Vlaamse Regering van 2015-02-06 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025114/VolledigDocument?datum=2014-02-28",
-  "source_sha256": "6e17c196c90c72eb355e8276ece200eaff55debde454bcafcfbe0f105415d776",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025114/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "09c021931937865fa72d902d778aee40a7f80c7ba353e206158ae47be028c5ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025114&param=informatie",
-  "as_of": "2014-02-28",
+  "as_of": "2015-01-01",
   "made": "2015-02-06",
   "gazette": "2015-03-17",
   "numac": 2015035252,
   "document_start": "2015-03-27",
   "document_end": null,
-  "in_force": "2014-02-28",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2014-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
