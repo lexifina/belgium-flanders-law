@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025547,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-05 tot wijziging van het besluit van de Vlaamse Regering van 31 juli 1990 houdende de vaststelling van de erkenningsvoorwaarden, de werkings- en subsidiëringsmodaliteiten voor diensten voor zelfstandig wonen van gehandicapte personen zoals bedoeld in artikel 3, § 1bis van het koninklijk besluit nr. 81 van 10 november 1967 tot instelling van een Fonds voor medische, sociale en pedagogische zorg voor gehandicapten, wat betreft de invoering van het systeem van personeelspunten en besparingsmaatregelen en de wijziging van de voorschottenregeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025547/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "8db51fa8cc82df6b095e814d10364ebcb0e05e025213fbd4445a1bb29043f691",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025547&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-06-05",
+  "gazette": "2015-07-03",
+  "numac": 2015035826,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
