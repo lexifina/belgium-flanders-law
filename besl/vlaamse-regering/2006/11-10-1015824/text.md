@@ -30,7 +30,11 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° de minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de Zeevisserij;<br />2° het Fonds : het Fonds voor de Kwaliteit van de Landbouwproductie;<br />3° de Verordening : Verordening (EG) nr. 1010/2006 betreffende enige buitengewone maatregelen ter ondersteuning van de markt in de sector eieren en slachtpluimvee in sommige lidstaten;<br />4° de bevoegde entiteit : de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij.<br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° de   minister : de Vlaamse minister, bevoegd voor het Landbouwbeleid en de   Zeevisserij;<BR>2° het Fonds : het Fonds voor de Kwaliteit van de   Landbouwproductie;<BR>3° de Verordening : Verordening (EG) nr. 1010/2006   betreffende enige buitengewone maatregelen ter ondersteuning van de markt in de   sector eieren en slachtpluimvee in sommige lidstaten;<BR>4° bevoegde entiteit:   het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij.<BR>
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ## HOOFDSTUK II. Steunmaatregelen
 
