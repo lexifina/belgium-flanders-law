@@ -30,6 +30,14 @@ Elke sportorganisatie werkt mee aan het beleid van de Vlaamse overheid   inzake 
 
 ## Afdeling 1 Algemene bevordering van gezond sporten
 
+### ART. 6.
+
+<P>Elke sportorganisatie bevordert het gezond sporten, rekening houdend met de   aard en de context van de sportbeoefening, onder meer door de omstandigheden en   toestanden die negatief inwerken op de fysieke of psychische integriteit van de   sporter daadwerkelijk te voorkomen en te bestrijden door doelmatige initiatieven   en gepaste maatregelen.<BR></P>  <P>De Vlaamse Regering kan de verplichtingen, vermeld in het eerste lid, nader   preciseren. Ze kan dat doen via algemeen geldende bepalingen of via bepalingen   die specifiek gelden voor een of meer sporten of sportcontexten. De   preciseringen kunnen onder meer betrekking hebben op het voeren van een   gezondsportenbeleid, dat op informatie en expertise is gebaseerd, een of meer   risicoanalyses bevat en keuzes maakt inzake leeftijdsgrenzen en sportmedische   geschiktheid.<BR></P>  <P>De Vlaamse Regering kan aan de sportorganisaties nadere verplichtingen   opleggen om de initiatieven en maatregelen, vermeld in het eerste lid, te   evalueren of erover te rapporteren.<BR></P>  <P>De Vlaamse Regering kan, voor een of meer sporten of sportcontexten,   kwaliteitsstandaarden erkennen of opleggen voor een beleid of een praktijk   inzake gezond sporten dat bijdraagt aan het voldoen van de verplichtingen,   vermeld in het eerste lid.<BR></P>
+
+### ART. 7.
+
+<P>Elke sportorganisatie heeft, rekening houdend met de aard en de context van   de sportbeoefening, de verantwoordelijkheid om voor sporters toegankelijke en   relevante informatie te verschaffen over :<BR>1° de preventie van specifieke   risico's, verbonden aan het beoefenen van de desbetreffende sport;<BR>2° de   initiatieven die genomen zijn om het gezond sporten voor de sporter te   bevorderen ter uitvoering van artikel 6, eerste lid.<BR></P>  <P>Voor de minderjarige sporter wordt de informatie, vermeld in het eerste lid,   ook beschikbaar gesteld aan diens ouders of voogd of de persoon die de bewaring   over de minderjarige heeft.<BR></P>
+
 ## Afdeling 2 Sportmedisch geschiktheidsonderzoek
 
 ### ART. 8.

@@ -2,16 +2,16 @@
   "codex_id": 1023690,
   "title": "Decreet van 2013-12-20 inzake gezond en ethisch sporten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023690/VolledigDocument?datum=2014-04-30",
-  "source_sha256": "2afb201cdfb87d8f732676ad554abcfa11b0f18c62e5ad53fc80d8ca2fd842ca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023690/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "1e0d8319b966b009c16ff3cf532278d9ea80a13e57939f27c1dde95b0298eba4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023690&param=informatie",
-  "as_of": "2014-04-30",
+  "as_of": "2015-01-01",
   "made": "2013-12-20",
   "gazette": "2014-01-31",
   "numac": 2014035090,
   "document_start": "2014-04-30",
   "document_end": "2999-12-31",
-  "in_force": "2014-04-30",
-  "article_versions": 17,
-  "record_form": "consolidated version as in force on 2014-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 19,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
