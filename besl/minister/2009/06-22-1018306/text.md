@@ -104,7 +104,7 @@ De aangeleverde tabellen bevatten kolommen met de benamingen, vermeld tussen haa
 
 ### ART. 16.
 
-Het controleorgaan levert de gegevens, vermeld in artikel 5, § 1, 2°, en in artikel 6, § 1, 4°, aan met behulp van zijn eigen codes. Het controleorgaan meldt aan de afdeling DLO vooraf elke wijziging die het aanbrengt aan zijn codes. Het controleorgaan deelt eveneens aan de afdeling DLO mee wat de betekenis is van elke code die het gebruikt.<br /><br />De indelingen van dierlijke producties, plantaardige producties en bedrijfsactiviteiten van de controleorganen moeten minstens even gedetailleerd zijn als de indelingen, respectievelijk vermeld in bijlage XII, XIII en XIV.
+Het controleorgaan levert de gegevens, vermeld in artikel 5, § 1, 2°, en   in artikel 6, § 1, 4°, aan met behulp van zijn eigen codes. Het controleorgaan   meldt aan de bevoegde entiteit vooraf elke wijziging die het aanbrengt aan zijn   codes. Het controleorgaan deelt eveneens aan de bevoegde entiteit mee wat de   betekenis is van elke code die het gebruikt.<BR><BR>De indelingen van dierlijke   producties, plantaardige producties en bedrijfsactiviteiten van de   controleorganen moeten minstens even gedetailleerd zijn als de indelingen,   respectievelijk vermeld in bijlage XII, XIII en XIV.
 
 ## TITEL III. [... (opgeh. MB 19 februari 2019, art. 8, I: 25 maart 2019)]
 
@@ -116,13 +116,13 @@ De aanvraag, vermeld in artikel 7, § 3, van het besluit van de Vlaamse Regering
 
 ### ART. 18.
 
-§ 1. De melding, vermeld in artikel 11 van het besluit van de Vlaamse Regering van 12 december 2008, moet gedagtekend en ondertekend worden en moet minstens de volgende gegevens bevatten:<br />1° het ondernemingsnummer van het bedrijf;<br />2° de bedrijfsnaam;<br />3° het marktdeelnemersnummer;<br />4° het bedrijfsadres;<br />5° de voor- en achternaam, het telefoonnummer en eventueel het e-mailadres van de bedrijfsverantwoordelijke; <br />6° de naam van het controleorgaan van de invoerder; <br />7° de regeling waaronder de ingevoerde producten vallen: <br />a) invoer van overeenstemmende producten als vermeld in artikel 32 van verordening 834/2007;<br />b) invoer van gelijkwaardige producten als vermeld in artikel 33, 2, van verordening 834/2007;<br />c) invoer van gelijkwaardige producten als vermeld in artikel 33, 3, van verordening 834/2007;<br />d) invoer van gelijkwaardige producten als vermeld in artikel 19, 1, van verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008 houdende bepalingen ter uitvoering van verordening (EG) nr. 834/2007 van de Raad wat de regeling voor de invoer van biologische producten uit derde landen betreft;<br />8° de naam, de GN-code, de hoeveelheid en het derde land van herkomst van de producten;<br />9° het referentienummer van de zending ingevoerde producten;<br />10° de vermoedelijke datum van aankomst of inklaring van de zending; <br />11° de naam van het controleorgaan van de exporteur uit het derde land;<br />12° de bedrijfsnaam en het adres van de eerste ontvanger van de producten.<br /><br />Een model van melding is beschikbaar op de website van de Vlaamse overheid : http://www.vlaanderen.be/landbouw.<br /><br />De melding kan elektronisch ingediend worden via de website, vermeld in het tweede lid.<br /><br />§ 2. Nadat de gegevens, vermeld in paragraaf 1, aan de afdeling DLO zijn bezorgd, krijgt het bedrijf vermeld in paragraaf 1, eerste lid, een bewijs van melding van de afdeling DLO. Dat bewijs van melding moet de producten vergezellen bij de inklaring. Een kopie van het bewijs van melding wordt door de afdeling DLO bezorgd aan het controleorgaan, vermeld in paragraaf 1, eerste lid, 6°.
+§ 1. De melding, vermeld in artikel 11 van het besluit van de Vlaamse   Regering van 12 december 2008, moet gedagtekend en ondertekend worden en moet   minstens de volgende gegevens bevatten:<BR>1° het ondernemingsnummer van het   bedrijf;<BR>2° de bedrijfsnaam;<BR>3° het marktdeelnemersnummer;<BR>4° het   bedrijfsadres;<BR>5° de voor- en achternaam, het telefoonnummer en eventueel het   e-mailadres van de bedrijfsverantwoordelijke; <BR>6° de naam van het   controleorgaan van de invoerder; <BR>7° de regeling waaronder de ingevoerde   producten vallen: <BR>a) invoer van overeenstemmende producten als vermeld in   artikel 32 van verordening 834/2007;<BR>b) invoer van gelijkwaardige producten   als vermeld in artikel 33, 2, van verordening 834/2007;<BR>c) invoer van   gelijkwaardige producten als vermeld in artikel 33, 3, van verordening   834/2007;<BR>d) invoer van gelijkwaardige producten als vermeld in artikel 19,   1, van verordening (EG) nr. 1235/2008 van de Commissie van 8 december 2008   houdende bepalingen ter uitvoering van verordening (EG) nr. 834/2007 van de Raad   wat de regeling voor de invoer van biologische producten uit derde landen   betreft;<BR>8° de naam, de GN-code, de hoeveelheid en het derde land van   herkomst van de producten;<BR>9° het referentienummer van de zending ingevoerde   producten;<BR>10° de vermoedelijke datum van aankomst of inklaring van de   zending; <BR>11° de naam van het controleorgaan van de exporteur uit het derde   land;<BR>12° de bedrijfsnaam en het adres van de eerste ontvanger van de   producten.<BR><BR>Een model van melding is beschikbaar op de website van de   Vlaamse overheid : http://www.vlaanderen.be/landbouw.<BR><BR>De melding kan   elektronisch ingediend worden via de website, vermeld in het tweede   lid.<BR><BR>§ 2. Nadat de gegevens, vermeld in paragraaf 1, aan de bevoegde   entiteit zijn bezorgd, krijgt het bedrijf vermeld in paragraaf 1, eerste lid,   een bewijs van melding van de bevoegde entiteit. Dat bewijs van melding moet de   producten vergezellen bij de inklaring. Een kopie van het bewijs van melding   wordt door de bevoegde entiteit bezorgd aan het controleorgaan, vermeld in   paragraaf 1, eerste lid, 6°.
 
 ## TITEL V. Criteria voor het bepalen van de vergoedingen
 
 ### ART. 19.
 
-§ 1. Bij het nemen van de beslissing, vermeld in artikel 9, § 2, van het besluit van de Vlaamse Regering van 12 december 2008 zal rekening gehouden worden met de volgende criteria:<br />1° er zijn tarieven voor alle marktdeelnemers, vermeld in artikel 1, 8° tot en met 18°, van het besluit van de Vlaamse Regering van 12 december 2008;<br />2° uit de tariefstelling is duidelijk af te leiden dat er voldaan is aan de voorwaarden, vermeld in artikel 9, § 2, derde lid, van het besluit van de Vlaamse Regering van 12 december 2008;<br />3° de tarieven zijn voldoende gedifferentieerd naar de omvang en de complexiteit van de controles. Daarvoor heeft het controleorgaan duidelijk beschreven hoe het de begrippen omvang en complexiteit definieert; <br />4° met toepassing van de bepalingen, vermeld in 3°, staan de tarieven in relatie met te controleren oppervlaktes, aantallen, hoeveelheden of activiteiten;<br />5° de voorgestelde tarieven liggen in de lijn van de tarieven van de andere controleorganen, erkend conform artikel 12 van het besluit van de Vlaamse Regering van 12 december 2008.<br /><br />§ 2. Met toepassing van artikel 9, § 2, van het besluit van de Vlaamse Regering van 12 december 2008 wint de minister advies in bij de volgende organisaties:<br />1° Algemeen Boerensyndicaat;<br />2° BioForum Vlaanderen vzw;<br />3° Boerenbond;<br />4° Certibel;<br />5° Fedis;<br />6° Unizo;<br />7° Vlaams Agrarisch Centrum.<br /><br />De minister belast de afdeling DLO met het inwinnen van het advies. De organisaties worden per aangetekende brief verzocht hun advies te verlenen. De afdeling DLO stelt de termijn vast waarin het advies verleend moet worden. Die termijn moet minstens twintig kalenderdagen bedragen. Het advies moet gebaseerd zijn op de criteria, vermeld in paragraaf 1. Het verlenen van advies is facultatief.
+§ 1. Bij het nemen van de beslissing, vermeld in artikel 9, § 2, van het   besluit van de Vlaamse Regering van 12 december 2008 zal rekening gehouden   worden met de volgende criteria:<BR>1° er zijn tarieven voor alle   marktdeelnemers, vermeld in artikel 1, 8° tot en met 18°, van het besluit van de   Vlaamse Regering van 12 december 2008;<BR>2° uit de tariefstelling is duidelijk   af te leiden dat er voldaan is aan de voorwaarden, vermeld in artikel 9, § 2,   derde lid, van het besluit van de Vlaamse Regering van 12 december 2008;<BR>3°   de tarieven zijn voldoende gedifferentieerd naar de omvang en de complexiteit   van de controles. Daarvoor heeft het controleorgaan duidelijk beschreven hoe het   de begrippen omvang en complexiteit definieert; <BR>4° met toepassing van de   bepalingen, vermeld in 3°, staan de tarieven in relatie met te controleren   oppervlaktes, aantallen, hoeveelheden of activiteiten;<BR>5° de voorgestelde   tarieven liggen in de lijn van de tarieven van de andere controleorganen, erkend   conform artikel 12 van het besluit van de Vlaamse Regering van 12 december   2008.<BR><BR>§ 2. Met toepassing van artikel 9, § 2, van het besluit van de   Vlaamse Regering van 12 december 2008 wint de minister advies in bij de volgende   organisaties:<BR>1° Algemeen Boerensyndicaat;<BR>2° BioForum Vlaanderen   vzw;<BR>3° Boerenbond;<BR>4° Certibel;<BR>5° Fedis;<BR>6° Unizo;<BR>7° Vlaams   Agrarisch Centrum.<BR><BR>De minister belast de bevoegde entiteit met het   inwinnen van het advies. De organisaties worden per aangetekende brief verzocht   hun advies te verlenen. De bevoegde entiteit stelt de termijn vast waarin het   advies verleend moet worden. Die termijn moet minstens twintig kalenderdagen   bedragen. Het advies moet gebaseerd zijn op de criteria, vermeld in paragraaf 1.   Het verlenen van advies is facultatief.
 
 ## TITEL VI. Vitaminen bij herkauwers
 
@@ -159,7 +159,7 @@ KolomtitelDe vormgeving van de tabel Identificatie marktdeelnemers, vermeld in a
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Kolomtitel<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>Kolomtitel</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:127.6pt">
 			<p>Veldtype (maximum aantal karakters)</p>
@@ -187,7 +187,7 @@ KolomtitelDe vormgeving van de tabel Identificatie marktdeelnemers, vermeld in a
 			<p>alfanumeriek (10)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Er mogen geen scheidingstekens voorkomen. Als de naam van het controleorgaan DLO is en het nummer van de marktdeelnemer 5555 is, is het marktdeelnemersnummer D5555.</p>
+			<p>Er mogen geen scheidingstekens voorkomen. Als de naam van het controleorgaan&nbsp;de bevoegde entiteit&nbsp; is en het nummer van de marktdeelnemer 5555 is, is het marktdeelnemersnummer D5555.</p>
 			</td>
 		</tr>
 		<tr>
@@ -198,7 +198,7 @@ KolomtitelDe vormgeving van de tabel Identificatie marktdeelnemers, vermeld in a
 			<p>alfanumeriek (11)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>Dit is het identificatienummer van de landbouwer dat gebruikt wordt door de afdeling MIB voor de aanvraag van subsidies.</p>
+			<p>Dit is het identificatienummer van de landbouwer dat gebruikt wordt door de bevoegde entiteit voor de aanvraag van subsidies.</p>
 			</td>
 		</tr>
 		<tr>
@@ -671,7 +671,7 @@ De vormgeving van de tabel Plantaardige productie, vermeld in artikel 6<br>
 			<p>alfanumeriek (10)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:256.35pt">
-			<p>Dit is een vast volgnummer, toegekend door de afdeling MIB. Het veld is facultatief.</p>
+			<p>Dit is een vast volgnummer, toegekend door de bevoegde entiteit. Het veld is facultatief.</p>
 			</td>
 		</tr>
 		<tr>
@@ -682,11 +682,11 @@ De vormgeving van de tabel Plantaardige productie, vermeld in artikel 6<br>
 			<p>numeriek (5)</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; width:256.35pt">
-			<p>Dit volgnummer is afhankelijk van het teeltjaar en wordt toegekend door de afdeling MIB. Aan de percelen die geen nummer van de afdeling MIB hebben gekregen, kent het controleorgaan een nummer toe. Een nummer mag per landbouwer slechts eenmaal voorkomen. In afwijking daarvan mag een nummer wel meerdere keren voorkomen in de volgende gevallen:</p>
+			<p>Dit volgnummer is afhankelijk van het teeltjaar en wordt toegekend door de bevoegde entiteit. Aan de percelen die geen nummer van de bevoegde entiteit hebben gekregen, kent het controleorgaan een nummer toe. Een nummer mag per landbouwer slechts eenmaal voorkomen. In afwijking daarvan mag een nummer wel meerdere keren voorkomen in de volgende gevallen:</p>
 
-			<p>1° een perceel heeft van de afdeling MIB een nummer gekregen dat bestaat uit meerdere delen die verschillende omschakelingsdata hebben;</p>
+			<p>1° een perceel heeft van de bevoegde entiteit een nummer gekregen dat bestaat uit meerdere delen die verschillende omschakelingsdata hebben;</p>
 
-			<p>2° een perceel heeft van de afdeling MIB een nummer gekregen, maar aan het controleorgaan wordt het perceel doorgegeven als meerdere percelen omdat er verschillende teelten op geteeld worden.</p>
+			<p>2° een perceel heeft van de bevoegde entiteit een nummer gekregen, maar aan het controleorgaan wordt het perceel doorgegeven als meerdere percelen omdat er verschillende teelten op geteeld worden.</p>
 
 			<p>Er mag slechts een code per "MDN<sub>-</sub>NMR" en per "D<sub>-</sub>EKPP" voorkomen.</p>
 			</td>
