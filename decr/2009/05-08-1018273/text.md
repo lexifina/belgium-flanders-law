@@ -50,7 +50,7 @@ Elke instelling stelt jaarlijks een nascholingsplan op. Dat nascholingsplan beva
 
 ### ART. 9.
 
-<P>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter   beschikking van de instellingen om het nascholingsplan uit te voeren.<BR><BR>§   2. De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar 2012 :   <BR>1° voor het basisonderwijs : 4.017.000 euro;<BR>2° voor het secundair   onderwijs : 5.513.000 euro;<BR>3° voor het volwassenenonderwijs, met   uitzondering van de basiseducatie : 420.000 euro;<BR>4° voor het deeltijds   kunstonderwijs : 258.000 euro;<BR>5° voor de CLB's : 182.000 euro;<BR>6° voor de   basiseducatie : 27.000 euro.<BR><BR>Vanaf het begrotingsjaar 2014 worden deze   bedragen aangepast aan de evolutie van de gezondheidsindex. </P>  <P>Vanaf 2013 wordt voor het secundair onderwijs jaarlijks een bijkomend budget   van 845.000 euro voorzien. Vanaf het begrotingsjaar 2014 wordt dit bedrag   aangepast aan de evolutie van de gezondheidsindex. <BR><BR>§ 3. Het aandeel in   de middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis   van het aantal organieke betrekkingen in de instelling op 1 februari van het   voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de   middelen, vermeld in § 2, bestemd zijn.<BR><BR>In afwijking van het eerste lid   worden voor de centra voor basiseducatie de middelen pro rata verdeeld op basis   van het aantal contractuelen Departement Onderwijs en Vorming, uitgedrukt in   voltijdse equivalenten.</P>
+<P>§ 1. De Vlaamse Gemeenschap stelt elk jaar nascholingsmiddelen ter   beschikking van de instellingen om het nascholingsplan uit te voeren.<BR><BR>§   2. De nascholingsmiddelen per niveau bedragen voor het begrotingsjaar   2015:<BR>1° voor het basisonderwijs: 4.007.000 euro;<BR>2° voor het secundair   onderwijs: 6.335.000 euro;<BR>3° voor het volwassenenonderwijs, met uitzondering   van de basiseducatie: 418.000 euro;<BR>4° voor het deeltijds kunstonderwijs:   255.000 euro;<BR>5° voor de CLB's: 178.000 euro;<BR>6° voor de basiseducatie:   28.000 euro.<BR><BR>Vanaf het begrotingsjaar 2016 worden deze bedragen aangepast   aan de evolutie van de gezondheidsindex.. <BR><BR>§ 3. Het aandeel in de   middelen waarop elke instelling recht heeft, wordt pro rata berekend op basis   van het aantal organieke betrekkingen in de instelling op 1 februari van het   voorafgaande begrotingsjaar, rekening houdend met het niveau waarvoor de   middelen, vermeld in § 2, bestemd zijn.<BR><BR>In afwijking van het eerste lid   worden voor de centra voor basiseducatie de middelen pro rata verdeeld op basis   van het aantal contractuelen Departement Onderwijs en Vorming, uitgedrukt in   voltijdse equivalenten.</P>
 
 ### ART. 10.
 
@@ -64,7 +64,7 @@ Nascholingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden
 
 ### ART. 12.
 
-§ 1. De Vlaamse Regering stelt voor scholen, centra, internaten en   instellingen beleidsprioriteiten vast voor de nascholingsinitiatieven die   noodzakelijk zijn om de implementatie van onderwijshervormingen te ondersteunen.   Ze bepaalt eveneens de doelgroepen die kunnen deelnemen aan deze   nascholingsinitiatieven.<BR><BR>Ze bepaalt de wijze waarop die   beleidsprioriteiten worden vastgesteld. Deze beleidsprioriteiten worden   meegedeeld aan het Vlaams Parlement.<BR><BR>§ 2. De Vlaamse Gemeenschap stelt   elk jaar een bedrag ter beschikking voor deze   nascholingsinitiatieven.<BR><BR>Voor het begrotingsjaar 2012 is dit bedrag   gelijk aan 1.066.000 euro. Vanaf het begrotingsjaar 2014 wordt dit bedrag   aangepast aan de evolutie van de gezondheidsindex. <BR><BR>§ 3. De Vlaamse   Regering wijst de uitvoering van de nascholingsinitiatieven projectmatig toe aan   nascholingsorganisaties volgens de regels die ze zelf vaststelt.
+§ 1. De Vlaamse Regering stelt voor scholen, centra, internaten en   instellingen beleidsprioriteiten vast voor de nascholingsinitiatieven die   noodzakelijk zijn om de implementatie van onderwijshervormingen te ondersteunen.   Ze bepaalt eveneens de doelgroepen die kunnen deelnemen aan deze   nascholingsinitiatieven.<BR><BR>Ze bepaalt de wijze waarop die   beleidsprioriteiten worden vastgesteld. Deze beleidsprioriteiten worden   meegedeeld aan het Vlaams Parlement.<BR><BR>§ 2. De Vlaamse Gemeenschap stelt   elk jaar een bedrag ter beschikking voor deze   nascholingsinitiatieven.<BR><BR>Voor het begrotingsjaar 2015 is dit bedrag   gelijk aan 614.000 euro. Vanaf het begrotingsjaar 2016 wordt dit bedrag   aangepast aan de evolutie van de gezondheidsindex. <BR><BR>§ 3. De Vlaamse   Regering wijst de uitvoering van de nascholingsinitiatieven projectmatig toe aan   nascholingsorganisaties volgens de regels die ze zelf vaststelt.
 
 ## [Afdeling IV. Databank Beleidsinformatie Onderwijs en Vorming (ing. Decr. 19 juni 2015, art. VII.25, I: 1 september 2015)]
 
@@ -112,15 +112,19 @@ De pedagogische begeleidingsdiensten ontvangen jaarlijks 84.000 euro aan aanvull
 
 ### ART. 20.
 
-Om nascholings- en begeleidingsactiviteiten te organiseren voor de eigen personeelsleden en voor de personeelsleden van de door hen begeleide instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag van 1.357.000 euro.<br /><br />Voor de organisatie van nascholing op het vlak van functiebeschrijving en evaluatie in de door hen begeleide instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag van 438.000 euro.<br /><br />De middelen, vermeld in het eerste en het tweede lid, worden verdeeld over de pedagogische begeleidingsdiensten naar rato van het aantal organieke betrekkingen.
+Om nascholings- en begeleidingsactiviteiten te organiseren voor de eigen   personeelsleden en voor de personeelsleden van de door hen begeleide   instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag   van 1.221.000 euro.<BR><BR>De middelen worden verdeeld over de pedagogische   begeleidingsdiensten naar rato van het aantal organieke   betrekkingen.
 
 ### ART. 21.
 
-Voor de vorming van directeurs van de door hen begeleide instellingen ontvangen de pedagogische begeleidingsdiensten jaarlijks een bedrag van 405.000 euro.<br /><br />Elke directeur kan gedurende zijn loopbaan een beroep doen op die middelen om kosten te dekken die verbonden zijn aan het volgen van de opleiding.<br /><br />De Vlaamse Regering bepaalt het maximumbedrag per directeur, de aanvraagprocedure, de procedure voor de toekenning en uitbetaling van de middelen, de wijze waarop de voorrangsregeling voor nieuw aangestelde directeurs wordt toegepast en de wijze waarop de representatieve vakorganisaties erbij worden betrokken.
+<P>...</P>
+
+### ART. 21/1.
+
+<P>De pedagogische begeleidingsdiensten die beschikken over een   personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 5.731.000 euro   aan aanvullende werkingsmiddelen.<BR><BR>De werkingsmiddelen, vermeld in het   eerste lid, worden verdeeld over deze pedagogische begeleidingsdiensten naar   rato van het aantal organieke betrekkingen in de instellingen verbonden aan de   pedagogische begeleidingsdienst.</P>
 
 ### ART. 22.
 
-De bedragen in deze afdeling hebben betrekking op het begrotingsjaar 2012.   Vanaf het begrotingsjaar 2014 worden deze bedragen aangepast aan de evolutie van   de gezondheidsindex.
+De bedragen vermeld in de artikelen 18 en 19 in deze afdeling hebben   betrekking op het begrotingsjaar 2012. Vanaf het begrotingsjaar 2014 worden deze   bedragen aangepast aan de evolutie van de gezondheidsindex.<BR><BR>De bedragen   vermeld in de artikelen 20 en 21/1 in deze afdeling hebben betrekking op het   begrotingsjaar 2015. Vanaf het begrotingsjaar 2016 worden deze bedragen   aangepast aan de evolutie van de gezondheidsindex.
 
 ### ART. 23.
 
@@ -136,13 +140,13 @@ Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden te
 
 ### ART. 25.
 
-De vereniging zonder winstoogmerk Samenwerkingsverband Netgebonden   Pedagogische Begeleidingsdiensten wordt gesubsidieerd als ze voldoet aan de   volgende voorwaarden : <BR>1° uit de statuten en de bestuursorganen blijkt dat   ten minste de pedagogische begeleidingsdiensten die een personeelsformatie   hebben als vermeld in artikel 16, vertegenwoordigd zijn;<BR>2° de vzw realiseert   een aantal projecten die netoverschrijdend uitgevoerd worden. De projecten   kaderen binnen de volgende vier speerpunten :<BR>a) zorgbreed en kansrijk   onderwijs;<BR>b) versterken van digitaal leren;<BR>c) optimaliseren van   levenslang en levensbreed leren;<BR>d) versterken van de taalvaardigheid en van   het talenbeleid Nederlands en moderne vreemde talen;<BR>3° de vzw sluit   driejaarlijks een kaderovereenkomst af met de Vlaamse Regering waarin de te   behalen resultaten door de gesubsidieerde projecten tot de realisatie van de   strategische en operationele doelstellingen per speerpunt zoals vermeld in het   punt 2° worden bepaald. In afwijking hiervan zal de eerste subsidieovereenkomst   lopen van 1 januari 2014 tot en met 31 december 2015;<BR>4° de VZW onderwerpt   zich aan het toezicht en de controle van de bevoegde diensten van het Vlaams   Ministerie van Onderwijs en Vorming.
+<P>...</P>
 
 ## [... (opgeh. decr. 20 december 2013, art. 57, I: 1 januari 2014)]
 
 ### ART. 26.
 
-<P>§ 1. Binnen de beschikbare begrotingskredieten ontvangt de vzw jaarlijks   subsidies voor de projecten, vermeld in artikel 25, 2°.<BR> <BR>Het krediet   wordt alleen ter beschikking gesteld als :<BR>- jaarlijks een actieplan wordt   opgesteld, waarin per speerpunt de verdeling van de subsidie-enveloppe over de   verschillende projecten en de planning van de projecten verduidelijkt   wordt;<BR>- jaarlijks een activiteitenverslag, opgedeeld per speerpunt, en een   financieel rapport worden opgesteld.<BR><BR>De toekenning van het krediet wordt   afhankelijk gesteld van de goedkeuring van die documenten door de minister   bevoegd voor Onderwijs.<BR><BR>Maximaal 10% van de toegekende subsidies kan   worden gebruikt voor centrale beheerskosten en algemene exploitatiekosten. <BR>§   2. De subsidie, vermeld in § 1, wordt als volgt uitbetaald :<BR>1° een eerste   schijf van 50 % uiterlijk één maand na de start van het werkjaar;<BR>2° een   tweede schijf van 40 % uiterlijk zes maanden na de start van het werkjaar;<BR>3°   het saldo van 10 %, nadat de verantwoording, vermeld in paragraaf 1, goedgekeurd   is.<BR><BR>§ 3. Vanaf het begrotingsjaar 2014 worden de bedragen die aan de VZW   Samenwerkingsverband Netgebonden Pedagogische Begeleidingsdiensten toegekend   worden jaarlijks geïndexeerd aan de hand van de volgende formule :<BR>1° 80 %   van de bedragen volgen de evolutie van de gezondheidsindex;<BR>2° 20 % van de   bedragen volgen 75 % van de evolutie van de gezondheidsindex. <BR><BR>§ 4. Er   kan een reserve worden opgebouwd ten bedrage van maximaal&nbsp;10 % van de   jaarlijkse subsidies.</P>  <P>§ 5. In afwijking van paragraaf 3 wordt het werkingsgedeelte van de   jaarlijkse subsidie aan de vzw Samenwerkingsverband Netgebonden Pedagogische   Begeleidingsdiensten voor het begrotingsjaar 2013 niet aangepast aan de evolutie   van de index.</P>
+<P>...</P>
 
 ## HOOFDSTUK V. Tijdelijke subsidies
 
@@ -170,7 +174,29 @@ De vereniging zonder winstoogmerk Samenwerkingsverband Netgebonden   Pedagogisch
 
 ### ART. 28.
 
-<P>§ 1. Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten   wordt jaarlijks in een krediet voorzien voor de uitvoering van de volgende   opdrachten :<BR>1° de begeleiding van de centra voor volwassenenonderwijs   :<BR>a) agogische en organisatorische ondersteuning bieden;<BR>b) de   deskundigheid van de personeelsleden bevorderen;<BR>c) onderwijsvernieuwing en   kwaliteitszorg coördineren, stimuleren en faciliteren;<BR>d) centra ondersteunen   bij de realisatie van de eindtermen, specifieke eindtermen en basiscompetenties   bij de cursisten;<BR>2° de uitvoering van de opdrachten, vermeld in artikel 49   van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, samen met   het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<BR><BR>§ 1/1.   Voor 2009, 2010 en 2011 wordt het krediet, vermeld in paragraaf 1,   respectievelijk vastgelegd op 748.000 euro, 692.000 euro en 467.000 euro. Vanaf   het begrotingsjaar 2012 bedraagt het krediet 622.000 euro (exclusief   indexering).<BR><BR>§ 2. Het krediet dat vastgelegd wordt vanaf 2012, vermeld in   paragraaf 1/1, volgt vanaf 2012 de evolutie van de gezondheidsindex.Het wordt   ter beschikking gesteld van de vzw Samenwerkingsverband Netgebonden Pedagogische   Begeleidingsdiensten of van de afzonderlijke pedagogische begeleidingsdiensten   en in voorkomend geval verdeeld naar rato van de organieke betrekkingen in de   centra voor volwassenenonderwijs. <BR><BR>§ 3. Het krediet, vermeld in § 1,   wordt alleen ter beschikking gesteld als :<BR>1° vijfjaarlijks een beleidsplan   en jaarlijks een ondersteuningsplan worden opgesteld, waarin de uitvoering van   de opdracht, vermeld in § 1, verduidelijkt wordt;<BR>2° jaarlijks een   activiteitenverslag en een financieel rapport worden opgesteld.<BR><BR>§ 4. De   Vlaamse Regering sluit met de pedagogische begeleidingsdiensten vijfjaarlijks   een samenwerkingsovereenkomst af over de voorwaarden van de aanwending van de   middelen en de uitvoering van de opdrachten, vermeld in § 1.<BR><BR>De   toekenning van de middelen, vermeld in § 1, wordt afhankelijk gesteld van de   goedkeuring van de samenwerkingsovereenkomst door de Vlaamse Regering.<BR><BR>§   5. De middelen, zoals vermeld in § 1 kunnen teruggevorderd worden, als blijkt   dat ze niet worden aangewend voor de realisatie van de opdrachten, vermeld in §   1 en in artikel 49 van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs.</P>  <P>§ 6. In afwijking van paragraaf 2 wordt het krediet vermeld in paragraaf 1/1   voor het begrotingsjaar 2013 niet aangepast aan de evolutie van de   index.</P>
+<p>§ 1. Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten wordt jaarlijks in een krediet voorzien voor de uitvoering van de volgende opdrachten :<br>
+1° de begeleiding van de centra voor volwassenenonderwijs :<br>
+a) agogische en organisatorische ondersteuning bieden;<br>
+b) de deskundigheid van de personeelsleden bevorderen;<br>
+c) onderwijsvernieuwing en kwaliteitszorg coördineren, stimuleren en faciliteren;<br>
+d) centra ondersteunen bij de realisatie van de eindtermen, specifieke eindtermen en basiscompetenties bij de cursisten;<br>
+2° de uitvoering van de opdrachten, vermeld in artikel 49 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, samen met het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br>
+<br>
+§ 1/1. Vanaf het begrotingsjaar 2015 bedraagt het krediet, vermeld in paragraaf 1, 522.000 euro.<br>
+<br>
+§ 2. Het krediet dat wordt vastgelegd vanaf 2015, vermeld in paragraaf 1/1, volgt vanaf 2015 de evolutie van de gezondheidsindex. Het wordt ter beschikking gesteld van de afzonderlijke begeleidingsdiensten en verdeeld naar rato van de organieke betrekkingen in de centra voor volwassenenonderwijs.<br>
+<br>
+In afwijking van het eerste lid, wordt het krediet, vermeld in paragraaf 1/1, voor het begrotingsjaar 2015 niet aangepast aan de evolutie van de index.<br>
+<br>
+§ 3. Het krediet, vermeld in paragraaf 1, wordt alleen ter beschikking gesteld als :<br>
+1° driejaarlijks een beleidsplan wordt opgesteld, waarin de uitvoering van de opdracht, vermeld in paragraaf 1, verduidelijkt wordt en dit beleidsplan toegevoegd wordt aan het begeleidingsplan, vermeld in artikel 15, § 2, eerste lid;<br>
+2° jaarlijks een activiteitenverslag en een financieel rapport worden opgesteld en worden toegevoegd aan het activiteitenverslag met inbegrip van een financiële verantwoording, vermeld in artikel 15, § 2, tweede lid.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. De middelen, zoals vermeld in § 1 kunnen teruggevorderd worden, als blijkt dat ze niet worden aangewend voor de realisatie van de opdrachten, vermeld in § 1 en in artikel 49 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.</p>
+
+<p>§ 6. ....</p>
 
 ## HOOFDSTUK VII. Permanente ondersteuningscellen in de CLB's
 
@@ -182,7 +208,7 @@ De vereniging zonder winstoogmerk Samenwerkingsverband Netgebonden   Pedagogisch
 
 ### ART. 30.
 
-Ten minste eenmaal om de zes jaar, en voor het eerst tijdens het schooljaar 2012-2013, wordt de werking geëvalueerd van de pedagogische begeleidingsdiensten, de permanente ondersteuningscellen en in voorkomend geval van het samenwerkingsverband, vermeld in artikel 25. De evaluaties worden uitgevoerd door een door de Vlaamse Regering samengestelde commissie.<br>
+Ten minste eenmaal om de zes jaar, en voor het eerst tijdens het schooljaar 2012-2013, wordt de werking geëvalueerd van de pedagogische begeleidingsdiensten en de permanente ondersteuningscellen. De evaluaties worden uitgevoerd door een door de Vlaamse Regering samengestelde commissie.<br>
 <br>
 De Vlaamse Regering richt de commissie op en bepaalt de wijze waarop de leden van de commissie worden vergoed.<br>
 <br>
@@ -280,7 +306,7 @@ Behoudens de mogelijkheden om een advies tot opheffing van de erkenning op   een
 
 ### ART. 43bis.
 
-§ 1. De onderwijsinspectie is belast met het kwaliteitstoezicht op de   diagnostische praktijk van de centra voor leerlingenbegeleiding in functie van   de opmaak van de verslagen, vermeld in de artikelen 15 en 16 van het decreet   basisonderwijs van 25 februari 1997 en in de artikelen 294 en 352 van de Codex   Secundair Onderwijs.<BR><BR>Dit kwaliteitstoezicht kan afzonderlijk van de   doorlichting uitgevoerd worden. Als beide doorlichtingen ingepland zijn tijdens   hetzelfde schooljaar, gebeuren ze geïntegreerd.<BR><BR>De inspectie stemt voor   de uitvoering van deze opdrachten af met het Team Inspectie Personen met een   Handicap van de Zorginspectie, zoals bepaald in het besluit van de Vlaamse   Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd   agentschap Zorginspectie.<BR><BR>De inspectie rapporteert jaarlijks over het   kwaliteitstoezicht aan de Vlaamse Regering.<BR><BR>§ 2. De onderwijsinspectie is   tevens belast met de toekenning van vrijstelling van leerplicht en het adviseren   over aanvragen voor permanent onderwijs aan huis.
+§ 1. De onderwijsinspectie is belast met het kwaliteitstoezicht op de   diagnostische praktijk van de centra voor leerlingenbegeleiding in functie van   de opmaak van de verslagen, vermeld in de artikelen 15 en 16 van het decreet   basisonderwijs van 25 februari 1997 en in de artikelen 294 en 352 van de Codex   Secundair Onderwijs.<BR><BR>Dit kwaliteitstoezicht kan afzonderlijk van de   doorlichting uitgevoerd worden. Als beide doorlichtingen ingepland zijn tijdens   hetzelfde schooljaar, gebeuren ze geïntegreerd.<BR><BR>De inspectie stemt voor   de uitvoering van deze opdrachten af met Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het   besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement   Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van   regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein.<BR><BR>De inspectie rapporteert jaarlijks over   het kwaliteitstoezicht aan de Vlaamse Regering.<BR><BR>§ 2. De   onderwijsinspectie is tevens belast met de toekenning van vrijstelling van   leerplicht en het adviseren over aanvragen voor permanent onderwijs aan   huis.
 
 ## HOOFDSTUK III. Openbaarheid van de verslagen en adviezen
 
