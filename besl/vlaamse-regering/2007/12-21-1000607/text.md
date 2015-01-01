@@ -23,7 +23,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° hogeschool : een instelling als vermeld in artikel 2, 1°, van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />2° boekhoudkundige entiteit : iedere entiteit, vermeld in punt 1°;<br />3° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen;<br />4° begrotingsjaar : het begrotingsjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het boekjaar.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°   hogescholen: de hogescholen, vermeld in artikel II.3 van de Codex Hoger   Onderwijs van 11 oktober 2013;<BR>2° boekhoudkundige entiteit : iedere entiteit,   vermeld in punt 1°;<BR>3° instellingsbestuur : het orgaan van de boekhoudkundige   entiteit dat bevoegd is om de begroting en de personeelsformatie vast te   stellen;<BR>4° begrotingsjaar : het begrotingsjaar vangt aan op 1 januari en   eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het   boekjaar.<BR><BR>
 
 ## Hoofdstuk 2 Begroting
 
@@ -58,6 +58,10 @@ De projectie van het lopende boekjaar, de jaarbegroting en de meerjarenbegroting
 ### ART. 9.
 
 Bij de jaarbegroting en de meerjarenbegroting wordt een commentaar gevoegd die de diverse rubrieken en de gebruikte parameters en hypothesen omstandig toelicht. Een ratioanalyse, met vermelding van commentaar, moet inzicht verschaffen in de begrote financiële positie op het vlak van liquiditeit, solvabiliteit en de resultaten.<br /><br />
+
+### ART. 9/1.
+
+Conform de bepalingen en voorwaarden, vastgelegd door het   instellingsbestuur, worden een aangepaste resultatenbegroting van het   begrotingsjaar en een aangepaste liquiditeitenbegroting aan het   instellingsbestuur voor goedkeuring voorgelegd. Na de goedkeuring daarvan wordt   die beslissing ter informatie medegedeeld aan de Vlaamse minister, bevoegd voor   het onderwijs.
 
 ## Hoofdstuk 3 De personeelsformatie
 
