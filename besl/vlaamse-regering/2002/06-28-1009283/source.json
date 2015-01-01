@@ -2,16 +2,16 @@
   "codex_id": 1009283,
   "title": "Besluit van de Vlaamse Regering van 2002-06-28 houdende de organisatie van de Vlaamse Monumentenprijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009283/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "71cf4470da72d4c968a39b61bd0fdcb73b18290e21fd0a67179f83225e44d7e3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009283/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "316842ead719fd5d373b6dddcd7870f5f41771c7edfe07be35ab21772eb8a524",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009283&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "2002-06-28",
   "gazette": "2002-07-20",
   "numac": 2002035909,
   "document_start": null,
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2015-01-01",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
