@@ -110,7 +110,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 26.
 
-§ 1. Voor het beleidsdomein Landbouw en Visserij wordt het Vlaams ministerie van Landbouw en Visserij opgericht, dat bestaat uit het gelijknamige departement en twee agentschappen zonder rechtspersoonlijkheid : <br />1° Agentschap voor Landbouw en Visserij; <br />2° Instituut voor Landbouw- en Visserijonderzoek. <br /><br />§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Landbouw en Visserij behoort, is het Vlaams Centrum voor Agro- en Visserijmarketing.<br /><br />§ 3. De strategische adviesraad die tot het beleidsdomein Landbouw en Visserij behoort, is de Strategische Adviesraad voor Landbouw en Visserij.
+§ 1. Voor het beleidsdomein Landbouw en Visserij wordt het Vlaams   ministerie van Landbouw en Visserij opgericht, dat bestaat uit het gelijknamige   departement en het agentschap zonder rechtspersoonlijkheid Instituut voor   Landbouw- en Visserijonderzoek. <BR><BR>§ 2. Het agentschap met   rechtspersoonlijkheid dat tot het beleidsdomein Landbouw en Visserij behoort, is   het Vlaams Centrum voor Agro- en Visserijmarketing.<BR><BR>§ 3. De strategische   adviesraad die tot het beleidsdomein Landbouw en Visserij behoort, is de   Strategische Adviesraad voor Landbouw en Visserij.
 
 ### ART. 27.
 
