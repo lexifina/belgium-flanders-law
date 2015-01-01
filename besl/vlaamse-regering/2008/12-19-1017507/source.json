@@ -2,16 +2,16 @@
   "codex_id": 1017507,
   "title": "Besluit van de Vlaamse Regering van 2008-12-19 houdende nadere regels inzake de reductieprogramma's ter vermindering van het gebruik van bestrijdingsmiddelen door openbare diensten in het Vlaamse Gewest",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017507/VolledigDocument?datum=2009-02-02",
-  "source_sha256": "ccb6045c9a3c99c8e21513448374a56b290f82e349b02a6ca1e05da175c4136e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017507/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "bef0cbca797e6f92aa449bc388c19353553ad94958c35afdaf121835ac67a730",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017507&param=informatie",
-  "as_of": "2009-02-02",
+  "as_of": "2015-01-01",
   "made": "2008-12-19",
   "gazette": "2009-01-23",
   "numac": 2009200082,
   "document_start": "2009-02-02",
   "document_end": "2014-12-31",
-  "in_force": "2009-02-02",
+  "in_force": "2015-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2009-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
