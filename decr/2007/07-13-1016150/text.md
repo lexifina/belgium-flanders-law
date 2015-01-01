@@ -80,7 +80,7 @@
 
 ### ART. 16.
 
-De sportmedische keuring heeft tot doel preventief de lichamelijke   geschiktheid van de sporter te evalueren met het oog op deelname aan bepaalde   sportactiviteiten.<BR><BR>De regering kan, rekening houdend met het specifieke   karakter van de sportactiviteiten, de inhoud en de frequentie van de   sportmedische keuring vastleggen.
+<P>...</P>
 
 ## Afdeling III [... (opgeh. decr. 25 mei 2012, art. 61, I: 14 november 2012)]
 
@@ -100,7 +100,7 @@ De sportmedische keuring heeft tot doel preventief de lichamelijke   geschikthei
 
 ### ART. 19.
 
-§ 1. ...<BR><BR>§ 2. ...<BR><BR>§ 3. De regering bepaalt de   erkenningsvoorwaarden die aan keuringsartsen en keuringscentra worden   gesteld.<BR><BR>De regering bepaalt welke erkende keuringscentra bevoegd zijn   voor de sportmedische keuring van getalenteerde sporters, zoals die door de   regering zijn bepaald.<BR><BR>De regering erkent de keuringsartsen en de   keuringscentra.<BR><BR>De regering stelt, in voorkomend geval, nadere regels   voor de werkwijze en de vergoedingen vast.<BR><BR>§ 4. ...<BR>
+<P>...</P>
 
 ## Afdeling II Toezichthoudende artsen
 
