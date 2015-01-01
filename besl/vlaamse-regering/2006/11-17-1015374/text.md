@@ -18,7 +18,7 @@ De Raad wordt opgericht bij het Departement Landbouw en Visserij.
 
 ### ART. 3.
 
-De Raad bestaat uit 26 leden en is samengesteld als volgt :<br />1° de secretaris-generaal van het Departement Landbouw en Visserij;<br />2° de administrateur-generaal van het Agentschap voor Landbouw en Visserij;<br />3° de administrateur-generaal van het Instituut voor Landbouw- en Visserijonderzoek;<br />4° twee ambtenaren van de afdeling Duurzame Landbouwontwikkeling van het Departement Landbouw en Visserij;<br />5° twee ambtenaren van de afdeling Productkwaliteitsbeheer van het Agentschap voor Landbouw en Visserij;<br />6° één ambtenaar van het Instituut voor Landbouw- en Visserijonderzoek (ILVO);<br />7° zes vertegenwoordigers van de algemene landbouworganisaties;<br />8° één vertegenwoordiger van de zaaizaadsector;<br />9° één vertegenwoordiger van de pootgoedsector;<br />10° één vertegenwoordiger van de sierteeltsector;<br />11° één vertegenwoordiger van de tuinbouwveilingen;<br />12° één vertegenwoordiger uit de leidende verenigingen van respectievelijk de fokkerijsectoren rundvee, varkens en pluimvee en konijnen;<br />13° één vertegenwoordiger van de zuivelsector;<br />14° één vertegenwoordiger van de vleesverwerkende nijverheid;<br />15° één vertegenwoordiger van de visserijsector;<br />16° één vertegenwoordiger van de toeleveringssector grondstoffen;<br />17° één vertegenwoordiger van de biologische sector.
+De Raad bestaat uit 26 leden en is samengesteld als volgt :<BR>1° de   secretaris-generaal van het Departement Landbouw en Visserij;<BR>2° ...;<BR>3°   de administrateur-generaal van het Instituut voor Landbouw- en   Visserijonderzoek;<BR>4° vijf personeelsleden van het Departement Landbouw en   Visserij;<BR>5° ...;<BR>6° één ambtenaar van het Instituut voor Landbouw- en   Visserijonderzoek (ILVO);<BR>7° zes vertegenwoordigers van de algemene   landbouworganisaties;<BR>8° één vertegenwoordiger van de zaaizaadsector;<BR>9°   één vertegenwoordiger van de pootgoedsector;<BR>10° één vertegenwoordiger van de   sierteeltsector;<BR>11° één vertegenwoordiger van de tuinbouwveilingen;<BR>12°   één vertegenwoordiger uit de leidende verenigingen van respectievelijk de   fokkerijsectoren rundvee, varkens en pluimvee en konijnen;<BR>13° één   vertegenwoordiger van de zuivelsector;<BR>14° één vertegenwoordiger van de   vleesverwerkende nijverheid;<BR>15° één vertegenwoordiger van de   visserijsector;<BR>16° één vertegenwoordiger van de toeleveringssector   grondstoffen;<BR>17° één vertegenwoordiger van de biologische   sector.
 
 ### ART. 4.
 
@@ -30,7 +30,7 @@ Het mandaat van de leden duurt vier jaar en is hernieuwbaar.<br /><br />Als een 
 
 ### ART. 6.
 
-De Raad wordt voorgezeten door de secretaris-generaal van het Departement Landbouw en Visserij of, bij zijn afwezigheid, door de administrateur-generaal van het Agentschap voor Landbouw en Visserij.
+De Raad wordt voorgezeten door de secretaris-generaal van het Departement   Landbouw en Visserij of, bij zijn afwezigheid, door de administrateur-generaal   van het Instituut voor Landbouw- en Visserijonderzoek.
 
 ### ART. 7.
 

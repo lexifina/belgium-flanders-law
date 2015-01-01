@@ -2,16 +2,16 @@
   "codex_id": 1015374,
   "title": "Besluit van de Vlaamse Regering van 2006-11-17 betreffende de organisatie, de samenstelling [, het beheer] en de werking van de Raad van het [Vlaams] Fonds voor Landbouw en Visserij [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015374/VolledigDocument?datum=2014-11-13",
-  "source_sha256": "168fada8171394a646b690a36e98312e4768cf64aceb3b939e7631f46e69bd1e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015374/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "0b0f4bdd2d5dd888ca9fe8186c61fbd20e678c30689c301f97bcd80951639040",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015374&param=informatie",
-  "as_of": "2014-11-13",
+  "as_of": "2015-01-01",
   "made": "2006-11-17",
   "gazette": "2007-01-18",
   "numac": 2007035013,
   "document_start": "2007-01-28",
   "document_end": null,
-  "in_force": "2014-11-13",
+  "in_force": "2015-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2014-11-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
