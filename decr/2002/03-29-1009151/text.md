@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br />1° varend erfgoed: het nautisch erfgoed, inzonderheid de schepen, de boten en de drijvende inrichtingen met inbegrip van hun uitrusting en van hun voortstuwingsmiddelen, waarvan het behoud van algemeen belang is wegens hun historische, wetenschappelijke, industrieel-archeologische of andere sociaal-culturele waarde;<br />2° het agentschap : de entiteit die door de Vlaamse Regering belast wordt met taken van beleidsuitvoering inzake onroerend erfgoed; <br />3° eigenaar: de natuurlijke persoon of de rechtspersoon, de eigenaar of de naakteromphuurder;<br />4° gebruiker: de natuurlijke persoon of de rechtspersoon, die niet de eigenaar is, maar die een zakelijk of persoonlijk recht kan doen gelden, in zonderheid de hypothecaire schuldeiser en de houder van het pand- of retentierecht.<br />5° de commissie : de afdeling Varend Erfgoed van de Koninklijke Commissie voor Monumenten en Landschappen, vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten.<br />
+In dit decreet wordt verstaan onder:<BR>1° varend erfgoed: het nautisch   erfgoed, inzonderheid de schepen, de boten en de drijvende inrichtingen met   inbegrip van hun uitrusting en van hun voortstuwingsmiddelen, waarvan het behoud   van algemeen belang is wegens hun historische, wetenschappelijke,   industrieel-archeologische of andere sociaal-culturele waarde;<BR>2° het   agentschap : de entiteit die door de Vlaamse Regering belast wordt met taken van   beleidsuitvoering inzake onroerend erfgoed; <BR>3° eigenaar: de natuurlijke   persoon of de rechtspersoon, de eigenaar of de naakteromphuurder;<BR>4°   gebruiker: de natuurlijke persoon of de rechtspersoon, die niet de eigenaar is,   maar die een zakelijk of persoonlijk recht kan doen gelden, in zonderheid de   hypothecaire schuldeiser en de houder van het pand- of retentierecht.<BR>5° de   commissie : de Vlaamse Commissie voor Varend Erfgoed.<BR>
 
 ### ART. 3.
 
@@ -65,3 +65,23 @@ De Vlaamse regering bepaalt de andere faciliteiten en vrijstellingen ter onderst
 De daartoe door de Vlaamse regering aangewezen ambtenaren hebben toegang tot het definitief beschermde varend erfgoed om alle nodige vaststellingen te verrichten met betrekking tot de toepassing van dit decreet.
 
 ## [HOOFDSTUK VI COMMISSIE VOOR VAREND ERFGOED (ing. decr. 12 juli 2013, art. 12.1.25)]
+
+### ART. 14.
+
+Er wordt een Vlaamse adviescommissie voor het varend erfgoed opgericht   onder de benaming Vlaamse Commissie voor Varend Erfgoed.
+
+### ART. 15.
+
+De Vlaamse Regering :<BR>1° bepaalt de samenstelling, organisatie en   werking van de Vlaamse Commissie voor Varend Erfgoed;<BR>2° benoemt de leden en   plaatsvervangers van de Vlaamse Commissie voor Varend Erfgoed;<BR>3° stelt de   nodige middelen ter beschikking van de Vlaamse Commissie voor Varend   Erfgoed.
+
+### ART. 16.
+
+Het secretariaat van de Vlaamse Commissie voor Varend Erfgoed wordt   uitgevoerd door het secretariaat van de strategische adviesraad opgericht bij   het decreet van 10 maart 2006 houdende oprichting van de Strategische Adviesraad   Ruimtelijke Ordening - Onroerend Erfgoed. De Vlaamse Regering kan hierover de   nadere regels bepalen.
+
+### ART. 17.
+
+De Vlaamse Commissie voor Varend Erfgoed stelt haar huishoudelijk   reglement op en legt het ter goedkeuring voor aan de Vlaamse   Regering.
+
+### ART. 18.
+
+De Vlaamse Commissie voor Varend Erfgoed verstrekt adviezen in de gevallen   en rekening houdend met de termijnen, vermeld in dit decreet.
