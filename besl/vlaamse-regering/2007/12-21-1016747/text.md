@@ -23,7 +23,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° universiteiten : de universiteiten, vermeld in artikel 4 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br />2° instellingsbestuur : het orgaan van de boekhoudkundige entiteit dat bevoegd is om de begroting en de personeelsformatie vast te stellen; <br />3° boekhoudkundige entiteit : elke entiteit, vermeld in punt 1°;<br />4° begrotingsjaar : het begrotingsjaar vangt aan op 1 januari en eindigt op 31 december van hetzelfde kalenderjaar en valt samen met het boekjaar.<br /><br />
+In dit besluit wordt verstaan onder :<BR>1° universiteiten : de   universiteiten, vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11   oktober 2013;<BR>2° instellingsbestuur : het orgaan van de boekhoudkundige   entiteit dat bevoegd is om de begroting en de personeelsformatie vast te   stellen; <BR>3° boekhoudkundige entiteit : elke entiteit, vermeld in punt   1°;<BR>4° begrotingsjaar : het begrotingsjaar vangt aan op 1 januari en eindigt   op 31 december van hetzelfde kalenderjaar en valt samen met het   boekjaar.<BR><BR>
 
 ## HOOFDSTUK II Beleidsbegroting
 
@@ -33,7 +33,7 @@ De beleidsbegroting bestaat uit :<br />1° een begrote resultatenrekening;<br />
 
 ### ART. 3.
 
-Het instellingsbestuur keurt de beleidsbegroting goed, uiterlijk op 15 november voorafgaand aan het begin van het begrotingsjaar.<br /><br />De begrote resultatenrekening en de geprojecteerde balans moeten worden opgemaakt op basis van de schema's van de jaarrekening, bepaald bij het besluit van de Vlaamse Regering van 21 december 2007 betreffende de boekhouding, de jaarrekening, het rekeningenstelsel en de controle voor de universiteiten in de Vlaamse Gemeenschap.<br /><br />Voor de begrote resultatenrekening moet het schema van de jaarrekening gevolgd worden tot op het niveau van de eerste drie posities van de codes van de rubrieken.<br /><br />Voor de begrote resultatenrekening van het eerstvolgende begrotingsjaar moet de opdeling in begrotingsafdelingen, vermeld in artikel 8, mee gerapporteerd worden. Voor de meerjarenbegroting is een opdeling in begrotingsafdelingen niet vereist.<br /><br />Voor de geprojecteerde balans moet het schema van de jaarrekening gevolgd worden tot op het niveau van de eerste twee posities van de codes van de rubrieken.<br /><br />
+De begrote resultatenrekening en de geprojecteerde balans moeten worden   opgemaakt op basis van de schema's van de jaarrekening, bepaald bij het besluit   van de Vlaamse Regering van 21 december 2007 betreffende de boekhouding, de   jaarrekening, het rekeningenstelsel en de controle voor de universiteiten in de   Vlaamse Gemeenschap.<BR><BR>Voor de begrote resultatenrekening moet het schema   van de jaarrekening gevolgd worden tot op het niveau van de eerste drie posities   van de codes van de rubrieken.<BR><BR>Voor de begrote resultatenrekening van het   eerstvolgende begrotingsjaar moet de opdeling in begrotingsafdelingen, vermeld   in artikel 8, mee gerapporteerd worden. Voor de meerjarenbegroting is een   opdeling in begrotingsafdelingen niet vereist.<BR><BR>Voor de geprojecteerde   balans moet het schema van de jaarrekening gevolgd worden tot op het niveau van   de eerste twee posities van de codes van de rubrieken.<BR><BR>
 
 ### ART. 4.
 
@@ -57,7 +57,7 @@ Samen met de begrote resultatenrekening voor het eerstvolgende begrotingsjaar wo
 
 ### ART. 9.
 
-De beleidsbegroting, vermeld in artikel 2, wordt uiterlijk op 15 november voorafgaand aan het begin van het boekjaar, bezorgd aan de Vlaamse minister, bevoegd voor het onderwijs, en aan de commissaris van de Vlaamse Regering. De betrokken commissaris en, in voorkomend geval, de afgevaardigde van financiën bij de universiteit bezorgen hun opmerkingen en beschouwingen bij die begroting aan de Vlaamse minister, bevoegd voor het onderwijs.<br /><br />
+...<BR>
 
 ### ART. 10.
 
@@ -71,7 +71,7 @@ De begrotingen worden opgemaakt op basis van dezelfde waarderingsregels als die 
 
 ### ART. 12.
 
-§ 1. De boekhoudkundige entiteiten voegen bij de beleidsbegroting een personeelsformatie.<br /><br />§ 2. De personeelsformatie heeft betrekking op het personeel, vermeld in artikel 158 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.<br /><br />§ 3. De formatiedocumenten worden opgemaakt overeenkomstig het model, dat als bijlage bij dit besluit is gevoegd. Het formatiedocument bevat het aantal formatieplaatsen van het zelfstandig academisch personeel, het assisterend academisch personeel en het administratief en technisch personeel enerzijds en de begrote bezettingsgraad in het desbetreffende begrotingsjaar anderzijds (budgettaire eenheden). De verschillende artikelen personeelskosten van de begrote resultatenrekening van het eerstvolgende begrotingsjaar van de afdeling Werking bevatten de personeelskosten, berekend op basis van de begrote bezettingsgraad, inclusief nieuwe indiensttredingen en bevorderingen. Het formatiedocument vermeldt tevens het aantal formatieplaatsen van gastprofessoren en de begrote bezetting.<br /><br />
+§ 1. De boekhoudkundige entiteiten voegen bij de beleidsbegroting de   globale personeelsformatie vermeld in artikel IV.18 van de Codex Hoger Onderwijs   van 11 oktober 2013.<BR><BR>§ 2. ...<BR><BR>§ 3. ...<BR><BR>
 
 ## HOOFDSTUK IV Slotbepalingen
 

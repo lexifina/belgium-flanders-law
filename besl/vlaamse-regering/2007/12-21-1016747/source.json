@@ -2,16 +2,16 @@
   "codex_id": 1016747,
   "title": "Besluit van de Vlaamse Regering van 2007-12-21 betreffende de begroting en de personeelsformatie van de universiteiten in de Vlaamse Gemeenschap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016747/VolledigDocument?datum=2008-01-01",
-  "source_sha256": "2c293afa0ccb37c2e493abcf212a83b34530e1771c5671198f44fee0b3854a73",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016747/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "d799218569d1830e9f3284c14716633320399db5cc7883758a48effb106cd8cc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016747&param=informatie",
-  "as_of": "2008-01-01",
+  "as_of": "2015-01-01",
   "made": "2007-12-21",
   "gazette": "2008-04-28",
   "numac": 200835505,
   "document_start": "2008-01-01",
   "document_end": "2025-06-30",
-  "in_force": "2008-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2008-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
