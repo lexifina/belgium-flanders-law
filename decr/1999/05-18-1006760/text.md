@@ -138,13 +138,13 @@ De centra voor geestelijke gezondheidszorg kunnen een beroep doen op de aan het 
 
 ### ART. 30.
 
-§ 1. De regering stelt jaarlijks [297 475 euro  <span class="reference">(verv. decr. 6 juli 2001, art. 9, I: 1 juli 2001)</span> ] ter beschikking voor multidisciplinaire wetenschappelijke ondersteuning. Dit bedrag wordt aangepast aan de index.<br /><br />§ 2. Minimum 70 procent van dit bedrag wordt gereserveerd voor permanente en multidisciplinaire wetenschappelijke ondersteuning van de geestelijke gezondheidszorg. De regering stelt deze middelen via overeenkomsten ter beschikking.<br /><br />§ 3. De regering stelt maximum 30 procent van het bedrag vermeld in § 1 ter beschikking voor tijdelijke projecten, die zij omschrijft en waarvan zij de tijdsduur bepaalt, evenals de voorwaarden.
+<P>De Vlaamse Regering stelt jaarlijks een bedrag ter beschikking, binnen de   beschikbare begrotingskredieten, voor de projectmatige wetenschappelijke   ondersteuning van de geestelijke gezondheidszorg. De Vlaamse Regering bepaalt de   subsidiebedragen en de voorwaarden voor de vaststelling, de uitbetaling en de   terugvordering van de subsidies.</P>
 
 ## [HOOFDSTUK VII ... (opgeh. decr. 5 april 2019, art. 46, I: 8 augustus 2024)]
 
 ### ART. 31.
 
-§ 1. De regering stelt jaarlijks [247 900 euro  <span class="reference">(verv. decr. 6 juli 2001, art. 9, I: 1 juli 2001)</span> ] ter beschikking voor ondersteunende of dienstverlenende opdrachten aan de centra voor geestelijke gezondheidszorg door één of meerdere organisaties. De regering stelt deze middelen via overeenkomsten ter beschikking.<br /><br />§ 2. Dit bedrag wordt aangepast aan de index.
+<P>De Vlaamse Regering kan jaarlijks een bedrag ter beschikking stellen voor   ondersteunende of dienstverlenende opdrachten aan de centra voor geestelijke   gezondheidszorg, door één of meerdere organisaties. De regering stelt deze   middelen via overeenkomsten ter beschikking.</P>
 
 ## HOOFDSTUK VIII PERSONEEL EN LEIDING VAN HET CENTRUM VOOR GEESTELIJKE GEZONDHEIDSZORG
 
