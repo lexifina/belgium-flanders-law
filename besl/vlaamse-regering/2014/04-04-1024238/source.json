@@ -2,16 +2,16 @@
   "codex_id": 1024238,
   "title": "Besluit van de Vlaamse Regering van 2014-04-04 tot uitvoering van het vierde Vlaams Intersectoraal Akkoord van 2 december 2011 voor de private sociaal- en non-profitsectoren voor de periode 2011 tot 2015, door middel van de toekenning van een subsidie aan voorzieningen binnen de preventieve gezinsondersteuning, erkend en gesubsidieerd door Kind en Gezin in 2014",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024238/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "d65efdf1076650b7aca044607b3f77da4ef166ef10e43ead8f52a56ad8b08514",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024238/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "d37bf154c71d5db9d3cac666c64cb6a22e276b097ab62d9091cd6bb9aa3f1926",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024238&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2015-01-01",
   "made": "2014-04-04",
   "gazette": "2014-07-01",
   "numac": 2014202856,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2014-04-01",
+  "in_force": "2015-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
