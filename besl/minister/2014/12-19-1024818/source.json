@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024818,
+  "title": "Ministerieel besluit van 2014-12-19 betreffende het Vlaams betaalorgaan voor het Europees Landbouwfonds voor plattelandsontwikkeling en het Europees Landbouwgarantiefonds",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024818/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "31a10738ce4d0736af3026d0931f9ee8165546b264cbe35741545c0eb4e459b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024818&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-19",
+  "gazette": "2014-12-24",
+  "numac": 2014036953,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
