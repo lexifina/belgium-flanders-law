@@ -6,16 +6,16 @@
 
 ### ART. 1.
 
-De lijst van getalenteerde sporters bestaat uit:<BR>1° de   leerling-topsporters aan wie een topsportstatuut of een statuut topsportbelofte   werd toegekend krachtens het globaal topsportconvenant, vermeld in artikel 1,   8°, van het besluit van de Vlaamse Regering van 19 december 2008 tot   vaststelling van de voorwaarden tot het verkrijgen van de subsidies inzake   topsport;<BR>2° de geregistreerde elitesporters en beloftevolle jongeren,   vermeld in artikel 4, 1°, van het besluit van de Vlaamse Regering van 19   december 2008 tot vaststelling van de voorwaarden tot het verkrijgen van de   subsidies inzake topsport;<BR>3° de topsporters die over een arbeidsovereenkomst   beschikken in het kader van het Bloso-tewerkstellingsproject Topsport of het   Bloso-Topsportstudentenproject;<BR>4° de topsporters die een   tewerkstellingscontract hebben gesloten met het Departement Cultuur, Jeugd,   Sport en Media;<BR>5° de Vlaamse topsporters van de Be Gold projecten;<BR>6° de   Vlaamse topsporters ondersteund als Window of Opportunity, conform de uitvoering   van het Topsportactieplan Vlaanderen III: topsporters met kans op   medaille/finale (top-8) op de Olympische Spelen, die evenwel geen deel uitmaken   van een structureel ondersteunde Vlaamse topsportfederatie.<BR>
+...
 
 ### ART. 2.
 
-De variabele toelage voor sportmedische keuring en begeleiding, uitgevoerd   door de erkende keuringscentra, wordt als volgt vastgesteld:<BR>1° 150 euro op   jaarbasis voor elke getalenteerde sporter die jonger is dan veertien jaar;<BR>2°   350 euro op jaarbasis voor elke getalenteerde sporter die veertien jaar of ouder   is.<BR>
+...
 
 ### ART. 3.
 
-Voor de bepaling van de leeftijd geldt de leeftijd die de getalenteerde   sporter bereikt heeft voor 1 januari 2014.<BR>
+...
 
 ### ART. 4.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2014 en houdt op van   kracht te zijn op 31 december 2014.<BR>
+...
