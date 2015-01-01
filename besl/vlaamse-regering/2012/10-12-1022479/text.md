@@ -218,7 +218,7 @@ Kind en Gezin ziet toe op de naleving van de bepalingen in dit besluit en contro
 
 ### ART. 44.
 
-De controle ter plaatse wordt uitgevoerd door de personeelsleden van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Zorginspectie, opgericht bij artikel 1 van het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie. De personeelsleden van Zorginspectie hebben daarvoor toegang tot de boekhouding en tot alle relevante documenten. <br /><br />
+De controle ter plaatse wordt uitgevoerd door de personeelsleden van   Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in   artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart   2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende   de inwerkingtreding van regelgeving tot oprichting van agentschappen in het   beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van   regelgeving met betrekking tot dat beleidsdomein. De voormelde personeelsleden   hebben daarvoor toegang tot de boekhouding en tot alle relevante documenten.   <BR><BR>
 
 ### ART. 45.
 
