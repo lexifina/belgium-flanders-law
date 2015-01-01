@@ -2,16 +2,16 @@
   "codex_id": 1017884,
   "title": "Besluit van de Vlaamse Regering van 2009-03-27 tot uitvoering van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening in de thuiszorg (citeeropschrift: \"besluit betreffende de zorg- en bijstandsverlening in de thuiszorg\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017884/VolledigDocument?datum=2014-05-01",
-  "source_sha256": "4288b5977ef1784a53ebc5032b45309e23fd7913b5db2f52bf35d20ada7237f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017884/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "cb817385ac747091d2b641e3f7e9a5ff5eaec11d638e009fa335de0599535f18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017884&param=informatie",
-  "as_of": "2014-05-01",
+  "as_of": "2015-01-01",
   "made": "2009-03-27",
   "gazette": "2009-05-12",
   "numac": 2009035403,
   "document_start": "2009-05-22",
   "document_end": "2020-12-31",
-  "in_force": "2014-05-01",
+  "in_force": "2015-01-01",
   "article_versions": 26,
-  "record_form": "consolidated version as in force on 2014-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
