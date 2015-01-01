@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025147,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-06 tot opheffing van artikel 29 en 30 van het besluit van de Vlaamse Regering van 2 maart 2007 tot regeling van de werking van het Intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025147/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "a57212402feee4fd6d5f4872e30453ea078d0758d5257359ac2c3e91e22b99d9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025147&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-03-06",
+  "gazette": "2015-03-24",
+  "numac": 2015035316,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
