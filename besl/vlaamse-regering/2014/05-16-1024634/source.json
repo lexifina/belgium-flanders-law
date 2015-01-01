@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024634,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-16 betreffende de samenstelling, organisatie en werking van de Vlaamse Commissie voor Varend Erfgoed",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024634/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "9f5e1781b0d81ef27418b2890b0a2b1435b969e704dafb66ede83057e0116c3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024634&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-05-16",
+  "gazette": "2014-10-06",
+  "numac": 2014036671,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
