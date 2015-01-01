@@ -2,16 +2,16 @@
   "codex_id": 1027169,
   "title": "Besluit van de Vlaamse Regering van 2016-03-18 tot wijziging van diverse besluiten inzake leefmilieu",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027169/VolledigDocument?datum=2013-05-03",
-  "source_sha256": "ba87126372988ed8a38c4fa8b947759bf4dfddd185025d836644621580731e70",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027169/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "a51ad477d88c527e51c38194dbd724144bb6cda31ad6510c48fb5002b1690bd2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027169&param=informatie",
-  "as_of": "2013-05-03",
+  "as_of": "2015-01-01",
   "made": "2016-03-18",
   "gazette": "2016-08-26",
   "numac": 2016036115,
   "document_start": "2016-09-05",
   "document_end": null,
-  "in_force": "2013-05-03",
-  "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-05-03; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

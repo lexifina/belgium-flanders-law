@@ -1365,6 +1365,10 @@ Besluit :
 
 ## HOOFDSTUK 6 Wijzigingen van het VLAREL
 
+### ART 257.
+
+In artikel 103/1 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 1 maart 2013, worden de woorden "tot uiterlijk 1 januari 2015" vervangen door de woorden "tot uiterlijk 1 januari 2016".
+
 ### ART 276.
 
 In bijlage 10, hoofdstuk 1, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 1 maart 2013, wordt punt 8° vervangen door wat volgt :<br>
