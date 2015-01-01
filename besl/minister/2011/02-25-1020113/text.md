@@ -6,12 +6,12 @@ De Vlaamse minister van Financiën, Begroting, Werk, Ruimtelijke Ordening en Spo
 
 ### ART. 1.
 
-<P>...</P>
+...
 
 ### ART. 2.
 
-<P>...</P>
+...
 
 ### ART. 3.
 
-<P>...</P>
+...
