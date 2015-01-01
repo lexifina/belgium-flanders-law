@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024683,
+  "title": "Ministerieel besluit van 2014-07-17 houdende de bepaling van de resultaatgerichte indicatoren en de concretisering van de zorgaspecten voor de regionale instituten voor maatschappelijk opbouwwerk",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024683/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "2103633ceffb7355760f65c5aa2ace4d2911b1ef6fa960f4f985e72e24bbecba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024683&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-07-17",
+  "gazette": "2014-10-21",
+  "numac": 2014036546,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
