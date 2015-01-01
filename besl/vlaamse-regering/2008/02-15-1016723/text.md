@@ -134,6 +134,58 @@ Het verlof voor verminderde prestaties wegens ziekte wordt geschorst zodra het p
 
 ## [HOOFDSTUK III/1 Langdurig verlof voor verminderde prestaties wegens medische redenen (ing. BVR 17 oktober 2014, art. 14, I: 1 januari 2015)]
 
+### ART. 28/2.
+
+Dit hoofdstuk is van toepassing op de personeelsleden, vermeld in artikel   1, § 1, als ze minstens voor vijftig percent van een voltijdse opdracht vast   benoemd of tot de proeftijd toegelaten zijn.<BR><BR>Dit hoofdstuk is ook van   toepassing op de personeelsleden, vermeld in het eerste lid, die aangesteld zijn   in een mandaat.
+
+### ART. 28/3.
+
+Het personeelslid, vermeld in artikel 28/2, dat om medische redenen zijn   ambt niet meer kan uitoefenen voor de omvang van zijn aanstelling en/of   benoeming op het moment van de aanvraag, kan gemachtigd worden om onmiddellijk   aansluitend op een periode van afwezigheid, als vermeld in artikel 28/4, vanwege   een ernstige of langdurige ziekte zijn ambt of ambten met verminderde prestaties   uit te oefenen in de vorm van een langdurig verlof voor verminderde prestaties   wegens medische redenen. Dat verlof kan alleen toegestaan worden aan een   personeelslid voor wie een volledige herneming van de opdracht waarvoor hij is   aangesteld of benoemd op het moment van de aanvraag, niet meer mogelijk   is.
+
+### ART. 28/4.
+
+§ 1. Het langdurig verlof voor verminderde prestaties wegens medische   redenen kan aanvangen na een periode van ten minste dertig dagen ononderbroken   afwezigheid door :<BR>1° ziekteverlof;<BR>2° terbeschikkingstelling wegens   ziekte;<BR>3° verlof voor verminderde prestaties na een arbeidsongeval;<BR>4°   wederaanpassing met een halve dagtaak.<BR><BR>§ 2. In afwijking van paragraaf 1   kunnen personeelsleden die op de vooravond van de aanvraag van het langdurig   verlof voor verminderde prestaties wegens medische redenen minstens halftijds   werken en daarnaast een dienstonderbreking hebben opgenomen, overstappen naar   het langdurig verlof voor verminderde prestaties wegens medische redenen. In dat   geval eindigt de dienstonderbreking op het ogenblik dat het langdurig verlof   voor verminderde prestaties wegens medische redenen ingaat.
+
+### ART. 28/5.
+
+Het personeelslid dat een langdurig verlof voor verminderde prestaties   wegens medische redenen krijgt, neemt zijn ambt of ambten opnieuw op voor het   volume dat goedgekeurd is door de arts van het controleorgaan. Het aantal nog te   verrichten prestaties bedraagt ten minste 50 % en maximaal 75 % van het aantal   prestatie-eenheden die vereist zijn voor een ambt met volledige   prestaties.<BR><BR>Met het volume van de nog te verrichten prestaties wordt de   verhouding bedoeld, uitgedrukt in procenten, tussen het aantal nog te verrichten   prestatie-eenheden en het aantal prestatie-eenheden die vereist zijn voor een   ambt met volledige prestaties.<BR><BR>In afwijking van het eerste lid neemt een   personeelslid dat vast benoemd is in een ambt dat slechts kan toegewezen worden   aan één personeelslid of aan twee personeelsleden die elk met een halve opdracht   worden belasten dat een langdurig verlof voor verminderde prestaties wegens   medische redenen krijgt, zijn ambt opnieuw voor 50 % op.<BR><BR>De nog te   verrichten prestaties worden altijd afgerond naar de hogere eenheid, naargelang   het geval, op een volledige lestijd, een volledig lesuur, een volledig uur of op   een volledige schijf van 10 % voor een ambt met volledige prestaties voor wat de   personeelsleden van de centra voor leerlingenbegeleiding betreft.<BR><BR>Het   volume van de nog te verrichten prestaties blijft ongewijzigd gedurende de   volledige periode, vermeld in artikel 28/6, tweede lid.<BR><BR>In afwijking van   het vorige lid kan het personeelslid, als zijn gezondheidstoestand   achteruitgaat, tijdens een lopende periode van langdurig verlof voor verminderde   prestaties wegens medische redenen een nieuw onderzoek aanvragen bij het   controleorgaan om het percentage van de werkhervatting te verminderen. In dat   geval wordt bij de aanvraag opnieuw een omstandig geneeskundig verslag gevoegd   van een geneesheer-specialist, die ook een voorstel voor een aangepast   percentage doet. Die aanvraag gebeurt dan voor een periode zoals bepaald in   artikel 28/6, tweede lid.<BR><BR>De prestaties, verricht door personeelsleden   die belast zijn met een opdracht aan een hogeschool, als vermeld in artikel   V.80, 21°, van de Codex Hoger Onderwijs, komen alleen in aanmerking om het   volume te bepalen van de nog te verrichten prestaties.<BR><BR>De prestaties,   verricht door de personeelsleden van de centra voor basiseducatie, vermeld in   artikel 127, § 1, 1° van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs komen alleen in aanmerking om het volume te bepalen van de   nog te verrichten prestaties.<BR><BR>Het langdurig verlof voor verminderde   prestaties wegens medische redenen kan alleen worden genomen voor de opdrachten   waarvoor het personeelslid vastbenoemd of tot de proeftijd toegelaten   is.
+
+### ART. 28/6.
+
+Het personeelslid stuurt zijn aanvraag volgens de bepalingen van artikel   20/4 van het besluit van de Vlaamse Regering van 8 december 1993 betreffende de   controle op de afwezigheid wegens ziekte naar het controleorgaan.<BR><BR>Het   langdurig verlof voor verminderde prestaties wegens medische redenen wordt   toegekend tot 31 augustus van het schooljaar dat volgt op het schooljaar waarin   het verlof een aanvang heeft genomen.
+
+### ART. 28/7.
+
+De aanvraag voor het langdurig verlof voor verminderde prestaties wegens   medische redenen wordt door de controlearts<BR>1° toegestaan;<BR>2° toegestaan   maar met aanpassing van het percentage van de nog te verrichten   prestaties;<BR>3° geweigerd.
+
+### ART. 28/8.
+
+Het langdurig verlof voor verminderde prestaties wegens medische redenen   kan pas aanvangen na de voorafgaande goedkeuring door de controlearts of de   arts-scheidsrechter ingeval van een beroepsprocedure.
+
+### ART. 28/9.
+
+Het langdurig verlof voor verminderde prestaties wegens medische redenen   kan meermaals worden verlengd, telkens voor een periode van twaalf maanden. In   dat geval moet telkens een nieuwe aanvraag ingediend worden bij het   controleorgaan.
+
+### ART. 28/10.
+
+Aan het langdurig verlof voor verminderde prestaties wegens medische   redenen wordt een einde gesteld in de volgende gevallen :<BR>1° als niet meer   voldaan is aan het volume van de werkhervatting, vermeld in artikel 28/5;<BR>2°   als de duur van de goedgekeurde periode van het langdurig verlof voor   verminderde prestaties wegens medische redenen verstrijkt;<BR>3° als de   controlearts bij een aanvraag zoals vermeld in artikel 28/5, zesde lid, beslist   dat het personeelslid niet meer in aanmerking komt voor langdurig verlof voor   verminderde prestaties wegens medische redenen;
+
+### ART. 28/11.
+
+Een dienstonderbreking waarvoor het personeelslid een salaris of wachtgeld   ontvangt, maakt geen einde aan het langdurig verlof voor verminderde prestaties   wegens medische redenen.<BR><BR>Het langdurig verlof voor verminderde prestaties   wegens medische redenen wordt geschorst zodra het personeelslid, een   dienstonderbreking opneemt waarvoor het personeelslid geen salaris of wachtgeld   ontvangt.
+
+### ART. 28/12.
+
+Een terbeschikkingstelling wegens ontstentenis van betrekking maakt geen   einde aan het langdurig verlof voor verminderde prestaties wegens medische   redenen.<BR><BR>Het langdurig verlof voor verminderde prestaties wegens medische   redenen wordt eerst genomen op de opdracht waarvoor een terbeschikkingstelling   wegens ontstentenis van betrekking wordt uitgesproken en waarvoor het   personeelslid niet gereaffecteerd of wedertewerkgesteld is.
+
+### ART. 28/13.
+
+Het langdurig verlof voor verminderde prestaties wegens medische redenen   wordt gelijkgesteld met een periode van dienstactiviteit.<BR><BR>Het langdurig   verlof voor verminderde prestaties wegens medische redenen wordt niet   aangerekend op het aantal dagen bezoldigd ziekteverlof waarop het personeelslid   nog recht heeft.
+
+### ART. 28/14.
+
+Tijdens het langdurig verlof voor verminderde prestaties wegens medische   redenen heeft het personeelslid recht op een salaris of salaristoelage voor de   uitgeoefende prestaties. Voor de niet-verrichte prestaties waarvoor het   personeelslid het langdurig verlof voor verminderde prestaties wegens medische   redenen opneemt, ontvangt het personeelslid 60 % van zijn salaris of   salaristoelage.<BR><BR>Het personeelslid heeft geen recht op salaris of   salaristoelage voor opdrachten of delen van opdrachten die het ambt met   volledige prestaties overschrijden.
+
 ## HOOFDSTUK IV Terbeschikkingstelling wegens ziekte
 
 ### ART. 29.
