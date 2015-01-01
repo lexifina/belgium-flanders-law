@@ -2,16 +2,16 @@
   "codex_id": 1007957,
   "title": "Ministerieel besluit van 2000-11-24 betreffende steun aan de investeringen en aan de installatie in de landbouw",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007957/VolledigDocument?datum=2011-08-02",
-  "source_sha256": "e306fbf082ed6485a4d938c247644343e04198fec9c8ff3982e8b154e9397ae9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007957/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "7ed28a8ba6abeecc415488aa672b8d3cb08744cf7d2deb7f6c88264a8c920a64",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007957&param=informatie",
-  "as_of": "2011-08-02",
+  "as_of": "2015-01-01",
   "made": "2000-11-24",
   "gazette": "2001-05-12",
   "numac": 2001035453,
   "document_start": "2000-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2011-08-02",
+  "in_force": "2015-01-01",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2011-08-02; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
