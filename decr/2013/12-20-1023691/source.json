@@ -2,16 +2,16 @@
   "codex_id": 1023691,
   "title": "Decreet van 2013-12-20 houdende wijziging van het Energiedecreet van 8 mei 2009, wat betreft de aansprakelijkheid van netbeheerders",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023691/VolledigDocument?datum=2014-01-31",
-  "source_sha256": "a90a1da4b9c99c67ad2802dd2368955732bcc814fc004536377bc7bb9ccf26f4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023691/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "933379cc06aeacf07c85f14142b3963397ce69f51ec649fcaf9e1c5a58ca865d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023691&param=informatie",
-  "as_of": "2014-01-31",
+  "as_of": "2015-01-01",
   "made": "2013-12-20",
   "gazette": "2014-01-31",
   "numac": 2014035103,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2014-01-31",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2014-01-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
