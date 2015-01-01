@@ -34,7 +34,11 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />a) het koninklijk besluit : het koninklijk besluit van 21 december 1999 betreffende het in de handel brengen van teeltmateriaal van siergewassen;<br />b) de bevoegde entiteit: het Agentschap voor Landbouw en Visserij;<br />c) de Minister : de Minister die de landbouw onder zijn bevoegdheid heeft;<br />d) ...<br />e) referentielaboratoria : de laboratoria die door het Instituut voor Landbouw en Visserijonderzoek aangewezen worden;<br />f) erkend laboratorium : elk op basis van hoofdstuk III van huidig besluit erkend laboratorium;<br />g) schadelijke organismen : zijn organismen vermeld in bijlage I van huidig besluit;<br />h) EG-kwaliteit : de categorie van teeltmateriaal en plantgoed van groentengewassen, met uitzondering van zaad, die voldoet aan de minimumeisen opgesteld op basis van de in dit besluit behandelde schema's en voorschriften;<br /><br />
+In dit besluit wordt verstaan onder :<BR>a) het koninklijk besluit : het   koninklijk besluit van 21 december 1999 betreffende het in de handel brengen van   teeltmateriaal van siergewassen;<BR>b) de bevoegde entiteit: het Departement   Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<BR>c)   de Minister : de Minister die de landbouw onder zijn bevoegdheid heeft;<BR>d)   ...<BR>e) referentielaboratoria : de laboratoria die door het Instituut voor   Landbouw en Visserijonderzoek aangewezen worden;<BR>f) erkend laboratorium : elk   op basis van hoofdstuk III van huidig besluit erkend laboratorium;<BR>g)   schadelijke organismen : zijn organismen vermeld in bijlage I van huidig   besluit;<BR>h) EG-kwaliteit : de categorie van teeltmateriaal en plantgoed van   groentengewassen, met uitzondering van zaad, die voldoet aan de minimumeisen   opgesteld op basis van de in dit besluit behandelde schema's en   voorschriften;<BR><BR>
+
+### ART. 1/1.
+
+Het hoofd van het Departement Landbouw en Visserij van het Vlaams   Ministerie van Landbouw en Visserij kan de aangelegenheden die conform dit   besluit onder de bevoegdheid van het voormelde departement vallen, subdelegeren   aan personeelsleden van het voormelde departement die onder zijn hiërarchisch   gezag staan, tot op het meest functionele niveau.
 
 ### ART. 2.
 
