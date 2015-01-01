@@ -8,13 +8,13 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° TSE : transmissibele spongiforme encefalopathieën;<br />2° randvoorwaarden : de beheerseisen die voortvloeien uit de Europese richtlijnen en verordeningen, vermeld in bijlage II van Verordening (EG) nr. 73/2009 van de Raad, en de normen inzake goede landbouw- en milieuconditie, vermeld in het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden;<br />3° de beheersdienst : de afdeling Structuur en Investeringen van het Agentschap voor Landbouw en Visserij;<br />4° SWOT-analyse : een analyse van de sterktes en zwaktes van het bedrijf, van de kansen die het bedrijf kan grijpen en de bedreigingen waarmee het geconfronteerd wordt.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° TSE :   transmissibele spongiforme encefalopathieën;<BR>2° randvoorwaarden : de   beheerseisen die voortvloeien uit de Europese richtlijnen en verordeningen,   vermeld in bijlage II van Verordening (EG) nr. 73/2009 van de Raad, en de normen   inzake goede landbouw- en milieuconditie, vermeld in het besluit van de Vlaamse   Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot   vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van   de randvoorwaarden;<BR>3° de bevoegde entiteit : het Departement Landbouw en   Visserij van het Vlaams Ministerie van Landbouw en Visserij;<BR>4° SWOT-analyse   : een analyse van de sterktes en zwaktes van het bedrijf, van de kansen die het   bedrijf kan grijpen en de bedreigingen waarmee het geconfronteerd   wordt.<BR><BR>
 
 ## HOOFDSTUK II Adviesmodules en adviesinhoud
 
 ### ART. 2.
 
-In het kader van het bedrijfsadviessysteem worden de volgende adviesmodules en submodules ingesteld :<br />1° module 1 : milieu, goede landbouw- en milieuconditie;<br />2° module 2 : planten- en volksgezondheid;<br />3° module 3 : dierengezondheid en -welzijn, volksgezondheid;<br />4° module 4 : arbeidsveiligheid;<br />5° module 5 : bedrijfsoptimalisatie :<br />a) submodule 5.1 : bedrijfseconomische en milieuparameters;<br />b) submodule 5.2 : vermarktingsadvies.<br /><br />Een land- of tuinbouwbedrijfshoofd dat een adviessubsidie wil aanvragen, is verplicht advies in te winnen over module 1, 2, 3, 4 en 5.1, voor zover die voor zijn bedrijfsvoering relevant zijn. Als er geen advies ingewonnen hoeft te worden over module 2 of 3, aangezien die niet relevant zijn voor de bedrijfsvoering, moet dat in artikel 1 van het bij het Agentschap voor Landbouw en Visserij ter beschikking gestelde aanvraagformulier vermeld worden en wordt dat gemotiveerd in de adviezen.<br /><br />
+In het kader van het bedrijfsadviessysteem worden de volgende   adviesmodules en submodules ingesteld :<BR>1° module 1 : milieu, goede landbouw-   en milieuconditie;<BR>2° module 2 : planten- en volksgezondheid;<BR>3° module 3   : dierengezondheid en -welzijn, volksgezondheid;<BR>4° module 4 :   arbeidsveiligheid;<BR>5° module 5 : bedrijfsoptimalisatie :<BR>a) submodule 5.1   : bedrijfseconomische en milieuparameters;<BR>b) submodule 5.2 :   vermarktingsadvies.<BR><BR>Een land- of tuinbouwbedrijfshoofd dat een   adviessubsidie wil aanvragen, is verplicht advies in te winnen over module 1, 2,   3, 4 en 5.1, voor zover die voor zijn bedrijfsvoering relevant zijn. Als er geen   advies ingewonnen hoeft te worden over module 2 of 3, aangezien die niet   relevant zijn voor de bedrijfsvoering, moet dat in artikel 1 van het bij de   bevoegde entiteit ter beschikking gestelde aanvraagformulier vermeld worden en   wordt dat gemotiveerd in de adviezen.<BR><BR>
 
 ### ART. 3.
 
@@ -36,11 +36,11 @@ De adviessubsidie bedraagt tachtig procent van de totale advieskosten en nooit m
 
 ### ART. 6.
 
-Het land- of tuinbouwbedrijfshoofd bezorgt een door hemzelf en de adviesdienst ondertekend aanvraagformulier binnen een maand na de ondertekening ervan met een aangetekende brief of tegen afgifte van een ontvangstbewijs aan de beheersdienst.<br /><br />
+Het land- of tuinbouwbedrijfshoofd bezorgt een door hemzelf en de   adviesdienst ondertekend aanvraagformulier binnen een maand na de ondertekening   ervan met een aangetekende brief of tegen afgifte van een ontvangstbewijs aan de   bevoegde entiteit.<BR><BR>
 
 ### ART. 7.
 
-De subsidie, vermeld in artikel 5, wordt betaald nadat het land- of tuinbouwbedrijfshoofd aan de beheersdienst de facturen en betalingsbewijzen van alle nodige adviezen heeft voorgelegd. Op die facturen staan ten minste de volgende gegevens vermeld :<br />1° de naam, het adres en het unieke identificatienummer van het land- of tuinbouwbedrijfshoofd;<br />2° de modules waarover geadviseerd werd;<br />3° de adviseur per module;<br />4° de datum van het plaatsbezoek;<br />5° de datum waarop het advies per module bezorgd is aan de landbouwer;<br />6° de totale advieskosten;<br />7° het boekhoudkundig tijdvak of de periode waarop het advies betrekking heeft.<br /><br />
+De subsidie, vermeld in artikel 5, wordt betaald nadat het land- of   tuinbouwbedrijfshoofd aan de bevoegde entiteit de facturen en betalingsbewijzen   van alle nodige adviezen heeft voorgelegd. Op die facturen staan ten minste de   volgende gegevens vermeld :<BR>1° de naam, het adres en het unieke   identificatienummer van het land- of tuinbouwbedrijfshoofd;<BR>2° de modules   waarover geadviseerd werd;<BR>3° de adviseur per module;<BR>4° de datum van het   plaatsbezoek;<BR>5° de datum waarop het advies per module bezorgd is aan de   landbouwer;<BR>6° de totale advieskosten;<BR>7° het boekhoudkundig tijdvak of de   periode waarop het advies betrekking heeft.<BR><BR>
 
 ## [HOOFDSTUK IV Adviesdienst (ing. MB 20 mei 2010, art. 7)]
 
@@ -50,7 +50,7 @@ De adviesdienst informeert voorafgaandelijk aan het advies het land- of tuinbouw
 
 ### ART. 9.
 
-De adviesdienst bezorgt jaarlijks uiterlijk op 30 september aan de beheersdienst informatie over de geplande activiteiten van het volgende jaar. Die informatie omvat het geschatte aantal BAS- en subsidieaanvragen die de adviesdienst of de bij de adviesdienst betrokken landbouwers zullen indienen.
+De adviesdienst bezorgt jaarlijks uiterlijk op 30 september aan de   bevoegde entiteit informatie over de geplande activiteiten van het volgende   jaar. Die informatie omvat het geschatte aantal BAS- en subsidieaanvragen die de   adviesdienst of de bij de adviesdienst betrokken landbouwers zullen   indienen.
 
 ## Bijlage
 
