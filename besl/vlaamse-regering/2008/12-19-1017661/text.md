@@ -22,7 +22,7 @@ De minister bepaalt de aanvullende voorwaarden van de definities, vermeld   in a
 
 ### ART. 2.
 
-<P>De grootte van de onderneming, bepaald in de definitie van kleine en   middelgrote ondernemingen, vermeld in bijlage I van de verordening (EG) nr.   800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun   op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke   markt verenigbaar worden verklaard ("de algemene   groepsvrijstellingsverordening"), wordt vastgesteld op basis van een verklaring   op erewoord van de onderneming en op basis van de bepalingen van artikelen 3 en   4.</P>
+<P>De grootte van de onderneming, bepaald in de definitie van kleine en   middelgrote ondernemingen, vermeld in bijlage I van de verordening (EU) nr.   651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op   grond van de artikelen 107 en 108 van het Verdrag met de interne markt   verenigbaar worden verklaard, wordt vastgesteld op basis van een verklaring op   erewoord van de onderneming en op basis van de bepalingen van artikel 3 en   4.</P>
 
 ### ART. 3.
 
@@ -36,7 +36,7 @@ De gegevens voor de berekening van het aantal werkzame personen in   onderneming
 
 ### ART. 5.
 
-Deze regelgeving valt onder de toepassing van de de-minimissteun, vermeld in verordening (EG) nr. 1998/2006 van de Commissie van 15 december 2006 betreffende de toepassing van de artikelen 87 en 88 van het EG-Verdrag op de-minimissteun (PB L 379 van 28 december 2006, blz. 5 - 10), en de latere wijzigingen ervan.
+<P>Deze regelgeving valt onder de toepassing van de de-minimissteun, vermeld in   de verordening (EU) nr. 1407/2013 van de Commissie van 18 december 2013   betreffende de toepassing van de artikelen 107 en 108 van het Verdrag   betreffende de werking van de Europese Unie op de-minimissteun (Publicatieblad   van 24 december 2013, L 352, blz. 1 - 8), en de latere wijzigingen   ervan.</P>
 
 ## Afdeling IV. Algemene voorwaarden
 
