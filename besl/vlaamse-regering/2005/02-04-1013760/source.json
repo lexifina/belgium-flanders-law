@@ -2,16 +2,16 @@
   "codex_id": 1013760,
   "title": "Besluit van de Vlaamse Regering van 2005-02-04 tot uitvoering van artikel 55ter en 55quater van het Wetboek der Successierechten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013760/VolledigDocument?datum=2007-01-18",
-  "source_sha256": "fd0c105334d55f228ff64d379a69aa4cabd117cc953d1034a7a1c970b7a8571d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013760/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "87afbb3544f50cf2c782bb197e599ca6b94f1e9518210c15bdb9521255c9f1a6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013760&param=informatie",
-  "as_of": "2007-01-18",
+  "as_of": "2015-01-01",
   "made": "2005-02-04",
   "gazette": "2005-05-02",
   "numac": 2005035481,
   "document_start": "2003-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2007-01-18",
+  "in_force": "2015-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2007-01-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
