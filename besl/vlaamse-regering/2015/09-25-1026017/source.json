@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026017,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-25 tot wijziging van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, van het besluit van de Vlaamse Regering van 8 november 2013 houdende de organisatie van pleegzorg en van het besluit van de Vlaamse Regering van 14 maart 2014 betreffende de erkenning en subsidiëring van ondersteuningsteams",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026017/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c485c9fdfc3f50eeaee2abe07d1eb9caea6a3d177b2d5d72090b2bf0274164b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026017&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-09-25",
+  "gazette": "2015-10-21",
+  "numac": 2015036250,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
