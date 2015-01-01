@@ -20,7 +20,7 @@ Voor de toepassing van dit decreet wordt verstaan onder:<br />1° expertisecentr
 
 ### ART. 4.
 
-[Binnen de grenzen van de beschikbare begrotingskredieten verleent de Vlaamse regering driejaarlijks subsidie-enveloppes aan ouderkoepelverenigingen voorzover:<br /><br />1° zij driejaarlijks een werkingsprogramma opstellen, dat wordt goedgekeurd door de Vlaamse regering;<br /><br />2° ten minste honderd ouderraden en/of ouderverenigingen aangesloten zijn uit ten minste vier Vlaamse provincies. Het tweetalige gebied Brussel-Hoofdstad wordt voor de toepassing van deze bepaling als een Vlaamse provincie beschouwd. De aansluiting van een ouderraad of oudervereniging blijkt uit de betaling van een financiële bijdrage.  <span class="reference">(verv. decr. 2 april 2004, art. 98, I: 1 januari 2005)</span> ]
+Binnen de grenzen van de beschikbare begrotingskredieten verleent de   Vlaamse regering driejaarlijks subsidie-enveloppes aan ouderkoepelverenigingen   voorzover:<BR>1° zij driejaarlijks een werkingsprogramma opstellen, dat wordt   goedgekeurd door de Vlaamse regering;<BR>2° ten minste honderd ouderraden en/of   ouderverenigingen aangesloten zijn uit ten minste vier Vlaamse provincies. Het   tweetalige gebied Brussel-Hoofdstad wordt voor de toepassing van deze bepaling   als een Vlaamse provincie beschouwd. De aansluiting van een ouderraad of   oudervereniging blijkt uit de betaling van een financiële bijdrage. <BR><BR>De   subsidie-enveloppes die zijn toegekend voor de periode van 1 januari 2012 tot en   met 31 december 2014 worden, binnen de beschikbare begrotingskredieten, verlengd   voor de periode van 1 januari tot en met 31 december 2015. Voor die periode   stellen de ouderkoepelverenigingen een werkingsprogramma op, dat wordt   goedgekeurd door de Vlaamse Regering.
 
 ### ART. 5.
 
@@ -42,7 +42,7 @@ In afwijking van artikel 5 houdt de Vlaamse Regering bij het vastleggen van de b
 
 ### ART. 8.
 
-[Elke ouderkoepelvereniging legt driejaarlijks een werkingsverslag voor waaruit blijkt dat de activitei-ten zoals bepaald in het werkingsprogramma werden gerealiseerd.  <span class="reference">(verv. decr. 2 april 2004, art. 98, I: 1 januari 2005)</span> ]
+Elke ouderkoepelvereniging legt driejaarlijks een werkingsverslag voor   waaruit blijkt dat de activitei-ten zoals bepaald in het werkingsprogramma   werden gerealiseerd. <BR><BR>Elke ouderkoepelvereniging legt voor de periode van   1 januari tot en met 31 december 2015 een werkingsverslag voor waaruit blijkt   dat de activiteiten zoals bepaald in het werkingsprogramma werden   gerealiseerd.
 
 ## HOOFDSTUK V [INWERKINGTREDING (verv. decr. 2 april 2004, art. 98)]
 
