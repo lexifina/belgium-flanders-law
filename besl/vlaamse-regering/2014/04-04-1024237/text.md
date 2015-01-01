@@ -40,7 +40,15 @@ In dit besluit wordt verstaan onder:<BR>1° administratie: het Departement   Cul
 
 ## Afdeling 1 Bevorderen van gezond sporten
 
+### ART. 2.
+
+<P>Om het gezond sporten te bevorderen, voert elke sportorganisatie een beleid   dat minstens:<BR>1° een keuze bevat over het al dan niet aanbevelen of opleggen   van een sportmedisch geschiktheidsonderzoek;<BR>2° een keuze bevat over het al   dan niet toepassen van leeftijdsgrenzen;<BR>3° een analyse bevat van de   sportspecifieke risico's die zich kunnen voordoen bij de beoefening van de   betreffende sport, alsook de maatregelen en initiatieven die zijn genomen ter   voorkoming en bestrijding ervan;<BR>4° voorziet in een continue doorstroming van   informatie erover bij haar leden;<BR>5° beschikbaar is in een vorm waarin, in   voorkomend geval, schriftelijk of digitaal gerapporteerd kan worden aan de   administratie.<BR></P>  <P>Met behoud van de toepassing van het eerste lid bevordert een erkende   sportfederatie het gezond sporten door een beleid te voeren dat minstens:<BR>1°   informatie in geanonimiseerde en statistische vorm bevat van sportspecifieke   risico's en lichamelijke schade met een weergave van de evolutie daarvan in de   tijd;<BR>2° voorziet in een duurzame betrokkenheid van minstens één arts in de   totstandkoming en uitwerking ervan.<BR></P>
+
 ## Afdeling 2 Rapporteren over gezond sporten
+
+### ART. 3.
+
+<P>Elke sportorganisatie die daartoe door de administratie wordt verzocht,   brengt de administratie binnen een periode van dertig dagen na dat verzoek   schriftelijk of digitaal op de hoogte van alle initiatieven en maatregelen die   genomen zijn om te voldoen aan de verplichting, vermeld in artikel 6, eerste   lid, van het decreet.<BR></P>  <P>De informatie, vermeld in het eerste lid, bevat minstens een beschrijving   van:<BR>1° de toepasselijke reglementen over het beleid voor gezond sporten van   de sportorganisatie;<BR>2° het beleid van de sportorganisatie, en de   doorstroming van informatie daarover bij haar leden;<BR>3° de sportmedische   geschiktheidsonderzoeken en, in voorkomend geval, de soorten sportmedische   geschiktheidsonderzoeken die worden aanbevolen of opgelegd, en de sporters of   sportcontexten waarvoor die gelden.<BR></P>
 
 ## HOOFDSTUK 3 Ethisch sporten
 
@@ -147,6 +155,10 @@ Het decreet treedt in werking op 30 april 2014, met uitzondering van   artikel 6
 ### ART. 25.
 
 Het besluit van de Vlaamse Regering van 20 juni 2008 houdende uitvoering   van het decreet van 13 juli 2007 inzake medisch en ethisch verantwoorde   sportbeoefening, gewijzigd bij het besluit van de Vlaamse Regering van 19   december 2008, wordt opgeheven, met uitzondering van de artikelen 1, 8°, 9° en   18°, artikel 4, artikel 5, artikel 6, artikel 7, artikel 78, artikel 85 en   artikel 87, die worden opgeheven op 1 januari 2015.<BR>
+
+### ART. 26.
+
+Het besluit van de Vlaamse Regering van 3 april 2009 ter oprichting van de   expertencommissie risicovechtsporten wordt opgeheven.<BR>
 
 ### ART. 27.
 
