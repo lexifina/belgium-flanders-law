@@ -2,16 +2,16 @@
   "codex_id": 1022888,
   "title": "Besluit van de Vlaamse Regering van 2013-02-08 tot bepaling van de nadere regels voor het vervoer van meststoffen en houdende uitwerking van de uitzonderingen voor educatieve demonstraties en wetenschappelijke proefnemingen in het kader van het Mestdecreet van 22 december 2006",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022888/VolledigDocument?datum=2013-05-04",
-  "source_sha256": "8498363715940e5ca19594a02dc3e49dc0a5e57643ab9a87aeede521ad326622",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022888/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "2487907fc465d9354184091225f498652ecced929afbc7ccd5ef7b7c62cb6d6d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022888&param=informatie",
-  "as_of": "2013-05-04",
+  "as_of": "2015-01-01",
   "made": "2013-02-08",
   "gazette": "2013-04-24",
   "numac": 2013035349,
   "document_start": "2013-05-04",
   "document_end": "2017-12-31",
-  "in_force": "2013-05-04",
+  "in_force": "2015-01-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2013-05-04; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
