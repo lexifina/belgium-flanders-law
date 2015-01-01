@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br />1° privé-personen: ieder natuurlijk persoon;<br />2° instellingen : de privaat- en publiekrechtelijke rechtspersonen andere dan natuurlijke personen, en met uitzondering van de Vlaamse Gemeenschapscommissie, gemeenten, provincies en districten, waarvan de zetel gevestigd is in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke Gewest, die wegens hun activiteiten beschouwd moeten worden uitsluitend tot de Vlaamse Gemeenschap te behoren;<br />3° oud wapen: een heraldisch wapen waarvan kan worden bewezen dat het ten minste honderd jaar geleden publiekelijk werd gevoerd;<br />4° nieuw wapen: een heraldisch wapen waarvan niet kan worden bewezen dat het gedurende ten minste honderd jaar publiekelijk werd gevoerd;<br />5° de commissie : de afdeling Heraldiek van de Koninklijke Commissie voor Monumenten en Landschappen, vermeld in het decreet van 3 maart 1976 tot bescherming van monumenten en stads- en dorpsgezichten;<br />6° de lijst: de lijst van erkende en verleende wapens zoals opgesteld en bijgehouden door de Vlaamse regering.
+In dit decreet wordt verstaan onder:<BR>1° privé-personen: ieder   natuurlijk persoon;<BR>2° instellingen : de privaat- en publiekrechtelijke   rechtspersonen andere dan natuurlijke personen, en met uitzondering van de   Vlaamse Gemeenschapscommissie, gemeenten, provincies en districten, waarvan de   zetel gevestigd is in het Vlaamse Gewest of in het Brusselse Hoofdstedelijke   Gewest, die wegens hun activiteiten beschouwd moeten worden uitsluitend tot de   Vlaamse Gemeenschap te behoren;<BR>3° oud wapen: een heraldisch wapen waarvan   kan worden bewezen dat het ten minste honderd jaar geleden publiekelijk werd   gevoerd;<BR>4° nieuw wapen: een heraldisch wapen waarvan niet kan worden bewezen   dat het gedurende ten minste honderd jaar publiekelijk werd gevoerd;<BR>5° de   commissie : de Vlaamse Heraldische Raad;<BR>6° de lijst: de lijst van erkende en   verleende wapens zoals opgesteld en bijgehouden door de Vlaamse   regering.
 
 ## HOOFDSTUK II BIJZONDERE BEPALINGEN
 
@@ -43,6 +43,22 @@ Om voor de erkenning of verlening in aanmerking te komen moeten de wapens in ove
 Aan de erkenning of verlening van een wapen zijn geen andere voordelen of voorrechten verbonden dan het recht om het wapen te voeren.
 
 ## [HOOFDSTUK III/1 VLAAMSE HERALDISCHE RAAD (ing. decr. 12 juli 2013, art. 12.1.18)]
+
+### ART. 8/1.
+
+&nbsp;Er wordt een Vlaamse adviescommissie voor heraldiek opgericht onder   de benaming Vlaamse Heraldische Raad.
+
+### ART. 8/2.
+
+De Vlaamse Regering :<BR>1° bepaalt de samenstelling, organisatie en   werking van de Vlaamse Heraldische Raad;<BR>2° benoemt de leden en   plaatsvervangers van de Vlaamse Heraldische Raad;<BR>3° stelt de nodige middelen   ter beschikking van de Vlaamse Heraldische Raad;<BR>4° stelt een huishoudelijk   reglement vast na de Vlaamse Heraldische Raad te hebben gehoord.
+
+### ART. 8/3.
+
+Het secretariaat van de Vlaamse Heraldische Raad wordt uitgevoerd door het   secretariaat van de strategische adviesraad opgericht bij het decreet van 10   maart 2006 houdende oprichting van de Strategische Adviesraad Ruimtelijke   Ordening - Onroerend Erfgoed. De Vlaamse Regering kan daarover nadere regels   bepalen.
+
+### ART. 8/4.
+
+&nbsp;De Vlaamse Heraldische Raad verstrekt adviezen in de gevallen en   rekening houdend met de termijnen, vermeld in dit decreet.
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
