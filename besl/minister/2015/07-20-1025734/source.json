@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025734,
+  "title": "Ministerieel besluit van 2015-07-20 tot bepaling van de diensten voor logistieke hulp die in aanmerking komen voor subsidiëring en tot bepaling van het aantal vte per functiecategorie en per dienst voor het jaar 2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025734/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "b4e019c8476af5a8890c81a2eb3fbbb120466179f32d4114eefba3cbd2a8721a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025734&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-07-20",
+  "gazette": "2015-08-24",
+  "numac": 2015036065,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
