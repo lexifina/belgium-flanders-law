@@ -2,16 +2,16 @@
   "codex_id": 1017857,
   "title": "Besluit van de Vlaamse Regering van 2009-03-27 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van het publiekrechtelijk vormgegeven extern verzelfstandigde agentschap Waterwegen en Zeekanaal, naamloze vennootschap van publiek recht",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017857/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "0eef91981ab19d95e5aba273649152f65437eb13f5e346cf76acbf2efe083c31",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017857/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "e464e843bbe9a7bf0071636f725a97eeb532587fdb7e58a160d5be24102580e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017857&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2009-03-27",
   "gazette": "2009-04-30",
   "numac": 200935309,
   "document_start": "2009-04-30",
   "document_end": "2020-04-16",
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
