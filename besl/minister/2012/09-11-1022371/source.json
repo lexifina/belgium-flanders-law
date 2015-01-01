@@ -2,16 +2,16 @@
   "codex_id": 1022371,
   "title": "Ministerieel besluit van 2012-09-11 houdende het instellen van een regelluw kader voor het project Zorgvernieuwing ACCENT - Spermalie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022371/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "e4a8a559da00aac979afc30b6b527102d86a10107be39767fd476ad4680e4a62",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022371/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "0b8ec30561f61cb2fec14a796565fc4e5c8234e83c15a888cb66e9c2aeac7eda",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022371&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2015-01-01",
   "made": "2012-09-11",
   "gazette": "2012-10-11",
   "numac": 2012205601,
   "document_start": "2012-01-01",
   "document_end": "2017-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
