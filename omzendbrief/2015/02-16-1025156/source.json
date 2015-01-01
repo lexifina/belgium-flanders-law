@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025156,
+  "title": "Omzendbrief van 2015-02-16 Omzendbrief 2015/1 betreffende art. 3.17.0.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013, zoals gewijzigd door het decreet van 19 december 2014. - Antimisbruikbepaling. - Fiscaal misbruik. - Registratiebelasting en erfbelasting",
+  "type": "Omzendbrief",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025156/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "9d67c5c7b8711469ad2bc82857bd738e636bc0c618739fb9cac29ea50b89e3ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025156&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-02-16",
+  "gazette": "2015-03-25",
+  "numac": 2015035311,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
