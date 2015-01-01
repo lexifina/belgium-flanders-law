@@ -2,16 +2,16 @@
   "codex_id": 1022891,
   "title": "Ministerieel besluit van 2013-04-11 houdende vaststelling van de vergoeding van de controlelaboratoria, controleartsen en chaperons",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022891/VolledigDocument?datum=2013-05-06",
-  "source_sha256": "0136ecb3a9b7646a5459e2b6c5f3e2549ef351d27abb1c8fa69c05df55472d05",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022891/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "ea42a080ae2f60310e6fd8bc1a3617339b4da058f9d83db523652e2ae9ab1d98",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022891&param=informatie",
-  "as_of": "2013-05-06",
+  "as_of": "2015-01-01",
   "made": "2013-04-11",
   "gazette": "2013-04-26",
   "numac": 2013035392,
   "document_start": "2013-05-06",
   "document_end": null,
-  "in_force": "2013-05-06",
+  "in_force": "2015-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2013-05-06; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
