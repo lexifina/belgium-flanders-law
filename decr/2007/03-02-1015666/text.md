@@ -26,7 +26,7 @@ De VZW Sociale Dienst heeft als doelstelling, door middel van individuele en col
 
 ### ART. 7.
 
-De Vlaamse Regering verleent een subsidie aan de VZW Sociale Dienst voor de sociale hulp- en dienstverlening zoals bepaald in artikel 4, wat betreft de begunstigden van de Vlaamse ministeries, op basis van een parameter die de kostprijs per gerechtigde van de Vlaamse ministeries weergeeft.<br /><br />De agentschappen met rechtspersoonlijkheid, de instellingen en de strategische adviesraden die toetreden tot de VZW Sociale Dienst betalen een bijdrage zoals vermeld in het eerste lid, op basis van het aantal gerechtigden van het agentschap, de instelling of de raad in kwestie.<br /><br />De Vlaamse Regering stelt personeel en materiële middelen ter beschikking van de VZW Sociale Dienst.<br /><br />
+De Vlaamse Regering verleent een subsidie aan de vzw Sociale Dienst voor   de sociale hulp- en dienstverlening zoals bepaald in artikel 4, wat betreft de   begunstigden van de Vlaamse ministeries en de verplicht aan te sluiten   agentschappen met rechtspersoonlijkheid, op basis van een parameter die de   kostprijs per gerechtigde van de Vlaamse ministeries weergeeft.<BR><BR>De   agentschappen met rechtspersoonlijkheid, de instellingen en de strategische   adviesraden die op vrijwillige basis toetreden tot de vzw Sociale Dienst betalen   een bijdrage zoals vermeld in het eerste lid, op basis van het aantal   gerechtigden van het agentschap, de instelling of de raad in kwestie.<BR><BR>De   Vlaamse Regering stelt personeel en materiële middelen ter beschikking van de   vzw Sociale Dienst.<BR>
 
 ### ART. 8.
 
