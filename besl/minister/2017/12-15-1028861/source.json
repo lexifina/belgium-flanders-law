@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028861,
+  "title": "Ministerieel besluit van 2017-12-15 tot wijziging van artikel 2 en 3 van het ministerieel besluit van 3 januari 2012 houdende vaststelling van de vergoeding van de visitatoren die de prestaties van sociale huisvestingsmaatschappijen beoordelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028861/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "0715433a8942994c8765b324d84da1b45bce498b96874b2d2edc21316f4c77d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028861&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2017-12-15",
+  "gazette": "2018-01-09",
+  "numac": 2017206930,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
