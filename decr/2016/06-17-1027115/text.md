@@ -20,6 +20,23 @@
 
 ## HOOFDSTUK V Volwassenenonderwijs
 
+### ART V.2.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 46 van hetzelfde decreet wordt punt 3° vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"3° driejaarlijks een beleidsplan wordt opgesteld, waarin de uitvoering van de opdrachten, vermeld in artikel 45, verduidelijkt worden;".</span><br>
+&nbsp;
+
+### ART V.3.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 47 van hetzelfde decreet, gewijzigd bij de decreten van 1 juni 2012, 21 december 2012 en 19 december 2014, wordt paragraaf 2 opgeheven.</span><br>
+&nbsp;
+
+### ART V.4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 19 juni 2015, wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. 50. De middelen, vermeld in artikel 49, kunnen enkel aangewend worden, als het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs enerzijds en de pedagogische begeleidingsdiensten anderzijds driejaarlijks een protocol tot samenwerking over de aanwending van de middelen en de uitvoering van de opdrachten afsluiten en dit protocol meedelen aan de centra en aan de Vlaamse Regering.".</span><br>
+&nbsp;
+
 ## HOOFDSTUK VI Secundair na secundair onderwijs en het hoger beroepsonderwijs
 
 ## HOOFDSTUK VII Hoger onderwijs
@@ -48,7 +65,17 @@
 
 ## Afdeling I Decreet betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
 
+### ART VIII.2.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 77quater, § 2, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, wordt het punt 6° opgeheven.</span><br>
+&nbsp;
+
 ## Afdeling II Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
+
+### ART VIII.5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 51quater, § 2, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, wordt het punt 6° opgeheven.</span><br>
+&nbsp;
 
 ## Afdeling III Inwerkingtreding
 
@@ -73,6 +100,15 @@
 ## Afdeling VIII Decreet Kwalificatiestructuur
 
 ## Afdeling IX Decreet Kwaliteit van onderwijs
+
+### ART X.18.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 18 december 2009, 21 december 2012 en 19 december 2014, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° paragraaf 3 wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 3. Het krediet, vermeld in paragraaf 1, wordt alleen ter beschikking gesteld als :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° driejaarlijks een beleidsplan wordt opgesteld, waarin de uitvoering van de opdracht, vermeld in paragraaf 1, verduidelijkt wordt en dit beleidsplan toegevoegd wordt aan het begeleidingsplan, vermeld in artikel 15, § 2, eerste lid;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° jaarlijks een activiteitenverslag en een financieel rapport worden opgesteld en worden toegevoegd aan het activiteitenverslag met inbegrip van een financiële verantwoording, vermeld in artikel 15, § 2, tweede lid.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 4 wordt opgeheven.</span>
 
 ## Afdeling X Decreet betreffende de integrale jeugdhulp
 
