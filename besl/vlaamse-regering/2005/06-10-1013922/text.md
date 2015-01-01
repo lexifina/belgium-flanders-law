@@ -42,7 +42,7 @@ Binnen de perken en volgens de voorwaarden, bepaald in dit besluit draagt de Vla
 
 ### ART. 7.
 
-De Beiaardschool ontvangt voor het schooljaar (X, X+1) (begrotingsjaar   X+1) een werkingsbudget dat jaarlijks als volgt berekend wordt:<BR>Basisbedrag *   aanpassingscoëfficiënt A<BR><BR>Het basisbedrag bedraagt 27.951 euro. Vanaf het   schooljaar 2013-2014 wordt de aanpassingscoëfficiënt A als volgt berekend:<BR>A   = (Cx+1)/Cx, waarbij:<BR>1° Cx+1: de consumptie-index van de maand februari van   het begrotingsjaar x+1;<BR>2° Cx: de consumptie-index van de maand februari van   het begrotingsjaar x.<BR><BR>Het bedrag wordt afgerond naar de hogere eenheid.   Van de werkingsmiddelen wordt 60% uitbetaald in februari en 40% na voorlegging   van de financiële rapportering met jaarrekening en balans, zoals bepaald in   artikel 9.
+<P>De Beiaardschool ontvangt voor het schooljaar X, X+1 een werkingsbudget dat   als volgt berekend wordt:<BR><BR>Het basisbedrag bedraagt 25.606 euro voor het   schooljaar 2014-2015. Vanaf het schooljaar 2015-2016 wordt het bedrag van het   voorgaande schooljaar jaarlijks vermenigvuldigd met de aanpassingscoëfficiënt A   die als volgt wordt berekend:<BR>A = (Cx-1/Cx-2), waarbij:<BR>1° Cx-1: de   gezondheidsindex van de maand januari van het begrotingsjaar x-1;<BR>2° Cx-2: de   gezondheidsindex van de maand januari van het begrotingsjaar x-2.<BR><BR>Het   bedrag wordt afgerond naar de hogere eenheid. Van de werkingsmiddelen wordt 60 %   uitbetaald in februari en 40 % na voorlegging van de financiële rapportering met   jaarrekening en balans, zoals bepaald in artikel 9.</P>
 
 ### ART. 8.
 
