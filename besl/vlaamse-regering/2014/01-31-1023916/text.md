@@ -8,7 +8,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° bevoegde dienst: de met   toepassing van artikel 26 door de minister aangewezen dienst;<BR>2° minister: de   Vlaamse minister bevoegd voor het landbouwbeleid en de zeevisserij;<BR>3°   Verordening (EU) nr. 1308/2013: de Verordening (EU) nr. 1308/2013 van het   Europees Parlement en de Raad van 17 december 2013 tot vaststelling van een   gemeenschappelijke ordening van de markten voor landbouwproducten en tot   intrekking van de Verordeningen (EEG) nr. 922/72, (EEG) nr. 234/79, (EG) nr.   1037/2001 en (EG) nr. 1234/2007 van de Raad.<BR>
+In dit besluit wordt verstaan onder:<BR>1° bevoegde entiteit: het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>2° minister: de Vlaamse minister bevoegd voor het landbouwbeleid en   de zeevisserij;<BR>3° Verordening (EU) nr. 1308/2013: de Verordening (EU) nr.   1308/2013 van het Europees Parlement en de Raad van 17 december 2013 tot   vaststelling van een gemeenschappelijke ordening van de markten voor   landbouwproducten en tot intrekking van de Verordeningen (EEG) nr. 922/72, (EEG)   nr. 234/79, (EG) nr. 1037/2001 en (EG) nr. 1234/2007 van de   Raad.<BR>
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.<BR><BR>De aangelegenheden, vermeld in het eerste lid, omvatten:<BR>1°   het in ontvangst nemen en het onderzoek van de aanvragen tot erkenning, tot   uitbreiding van de regels en van de aanvragen van de verplichte betalingen door   niet-leden, en van de nodige bewijsstukken;<BR>2° de coördinatie van de   controles;<BR>3° het in ontvangst nemen van wijzigingen in de samenstelling van   producentenorganisaties, unies van producentenorganisaties en   brancheorganisaties;<BR>4° het verrichten van controles op de erkenningscriteria   en de ledenlijst van producentenorganisaties, unies van producentenorganisaties   en brancheorganisaties;<BR>5° de mededelingen aan en de contacten met de   Commissie van de Europese Gemeenschappen.
 
 ### ART. 2.
 
@@ -34,7 +38,7 @@ Producentenorganisaties kunnen alleen erkend worden en blijven als ze de   jurid
 
 ### ART. 7.
 
-De aanvraag tot erkenning van een producentenorganisatie of een unie van   producentenorganisaties wordt ingediend bij de bevoegde   dienst.<BR>
+De aanvraag tot erkenning van een producentenorganisatie of een unie van   producentenorganisaties wordt ingediend bij de bevoegde   entiteit.<BR>
 
 ### ART. 8.
 
@@ -42,7 +46,7 @@ De aanvraag tot erkenning van een producentenorganisatie of een unie van   produ
 
 ### ART. 9.
 
-De producentenorganisaties en unies van producentenorganisaties bieden bij   de aanvraag tot erkenning aan de bevoegde diensten voldoende garanties ten   aanzien van de verwezenlijking, de duur en de doelmatigheid van hun optreden. Ze   tonen aan dat hun werking bijdraagt tot een meer efficiënte werking en   concentratie van het aanbod.<BR>
+De producentenorganisaties en unies van producentenorganisaties bieden bij   de aanvraag tot erkenning aan de bevoegde entiteit voldoende garanties ten   aanzien van de verwezenlijking, de duur en de doelmatigheid van hun optreden. Ze   tonen aan dat hun werking bijdraagt tot een meer efficiënte werking en   concentratie van het aanbod.<BR>
 
 ### ART. 10.
 
@@ -50,7 +54,7 @@ De minister neemt, overeenkomstig artikel 154, vierde lid, a), van   Verordening
 
 ### ART. 11.
 
-Wijzigingen van de statuten, het huishoudelijk reglement of het   ledenbestand van producentenorganisaties of unies van producentenorganisaties   worden in voorkomend geval jaarlijks meegedeeld aan de bevoegde dienst vóór 31   januari. Daarbij wordt het ledenbestand van 1 januari van hetzelfde kalenderjaar   meegedeeld met de productiehoeveelheden van de nieuwe leden tijdens het   afgelopen kalenderjaar.<BR>
+Wijzigingen van de statuten, het huishoudelijk reglement of het   ledenbestand van producentenorganisaties of unies van producentenorganisaties   worden in voorkomend geval jaarlijks meegedeeld aan de bevoegde entiteit vóór 31   januari. Daarbij wordt het ledenbestand van 1 januari van hetzelfde kalenderjaar   meegedeeld met de productiehoeveelheden van de nieuwe leden tijdens het   afgelopen kalenderjaar.<BR>
 
 ## HOOFDSTUK 3 Erkenning van brancheorganisaties
 
@@ -70,11 +74,11 @@ De minister kan de procedure van de erkenningsaanvraag en de elementen en   bewi
 
 ### ART. 15.
 
-&nbsp;De brancheorganisatie die een erkenningsaanvraag indient, legt een   verantwoordingsdossier voor aan de bevoegde diensten dat bestaat uit:<BR>1° een   duidelijke identificatie van de partners, die bestaat uit de naam, het adres en   een omschrijving van de activiteit van die partners;<BR>2° het toepassingsgebied   van de samenwerking;<BR>3° een omschrijving van de doelstellingen van de   samenwerking.<BR>
+&nbsp;De brancheorganisatie die een erkenningsaanvraag indient, legt een   verantwoordingsdossier voor aan de bevoegde entiteit dat bestaat uit:<BR>1° een   duidelijke identificatie van de partners, die bestaat uit de naam, het adres en   een omschrijving van de activiteit van die partners;<BR>2° het toepassingsgebied   van de samenwerking;<BR>3° een omschrijving van de doelstellingen van de   samenwerking.<BR>
 
 ### ART. 16.
 
-&nbsp;De erkenningsaanvraag en alle bewijsstukken worden ingediend bij de   bevoegde dienst.<BR>
+&nbsp;De erkenningsaanvraag en alle bewijsstukken worden ingediend bij de   bevoegde entiteit.<BR>
 
 ### ART. 17.
 
@@ -120,13 +124,13 @@ Als de voorschriften van een erkende producentenorganisatie, een erkende   unie 
 
 ### ART. 25.
 
-<P>Op verzoek van de bevoegde diensten legt de organisatie die op grond van een   besluit als vermeld in artikel 24, bijdragen ontvangt van niet-leden, de   boekhouding ter controle voor. De bevoegde diensten kunnen bijkomende stukken   opvragen om te controleren of de voorwaarden, vermeld in artikel 23, nageleefd   worden.<BR></P>  <P>De minister kan de procedurele aspecten van de controle   bepalen.<BR></P>
+<P>Op verzoek van de bevoegde entiteit legt de organisatie die op grond van een   besluit als vermeld in artikel 24, bijdragen ontvangt van niet-leden, de   boekhouding ter controle voor. De bevoegde entiteit kan bijkomende stukken   opvragen om te controleren of de voorwaarden, vermeld in artikel 23, nageleefd   worden.<BR></P>  <P>De minister kan de procedurele aspecten van de controle   bepalen.<BR></P>
 
 ## HOOFDSTUK 5 [... (opgeh. BVR 19 december 2014, art. 178, I: 1 januari 2015)]
 
 ### ART. 26.
 
-De minister wijst de bevoegde diensten aan die belast zijn met een of meer   van de volgende opdrachten:<BR>1° het in ontvangst nemen en het onderzoek van de   aanvragen tot erkenning, tot uitbreiding van de regels en van de aanvragen van   de verplichte betalingen door niet-leden, en van de nodige bewijsstukken;<BR>2°   de coördinatie van de controles;<BR>3° het in ontvangst nemen van wijzigingen in   de samenstelling van producentenorganisaties, unies van producentenorganisaties   en brancheorganisaties;<BR>4° het verrichten van controles op de   erkenningscriteria en de ledenlijst van producentenorganisaties, unies van   producentenorganisaties en brancheorganisaties;<BR>5° de mededelingen aan en de   contacten met de Commissie van de Europese Gemeenschappen.<BR>
+<P>...</P>
 
 ## HOOFDSTUK 6 Algemene intrekkings- en schorsingsbepalingen
 
