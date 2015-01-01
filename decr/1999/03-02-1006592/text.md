@@ -223,7 +223,7 @@ De Vlaamse Regering wordt ertoe gemachtigd binnen de perken van de begroting toe
 
 ### ART. 31.
 
-De Vlaamse regering wordt ertoe gemachtigd binnen de perken van de begroting de instandhouding, met inbegrip van het verwerken van specie, en het onderhoud voor het gedeelte van de maritieme toegangsweg waaraan aanmeerinfrastructuur voor zee- en binnenschepen met het oog op de overslag van goederen of het vervoer van personen is gelegen mede te financieren.
+<P>...</P>
 
 ### ART. 32.
 
