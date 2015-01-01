@@ -2,16 +2,16 @@
   "codex_id": 1018055,
   "title": "Ministerieel besluit van 2009-06-18 houdende de vastlegging van de toelage per prestatie voor de keuring of begeleiding van getalenteerde sporters inzake medisch verantwoorde sportbeoefening",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018055/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "e807d382059a33b2f5eb7cc0726bb104caaa2f979ddbde5a561a85a97f63ebca",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018055/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "78963bf02548f5e02b52a9c3b851ff3d948d709e892855d8a8b0e4b844073774",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018055&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2015-01-01",
   "made": "2009-06-18",
   "gazette": "2009-06-29",
   "numac": 2009035581,
   "document_start": "2009-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2013-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
