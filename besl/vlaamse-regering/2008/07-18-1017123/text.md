@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<br />1° VDAB : de Vlaamse Dienst voor Arb
 
 ### ART. 2.
 
-De krachtens dit besluit aan de werkgevers terugbetaalde kosten of uitgekeerde tegemoetkomingen zijn vrijgesteld van de aanmeldingsverplichting, vermeld in artikel 88, § 3, van het EG-verdrag krachtens de bepalingen van de Verordening (EG) nr. 800/2008 van de Commissie van 6 augustus 2008 waarbij bepaalde categorieën steun op grond van de artikelen 87 en 88 van het Verdrag met de gemeenschappelijke markt verenigbaar worden verklaard ("de algemene groepsvrijstellingsverordening").
+<P>De kosten of uitgekeerde tegemoetkomingen die krachtens dit besluit aan de   werkgevers worden terugbetaald, zijn vrijgesteld van de aanmeldingsverplichting,   vermeld in artikel 108, lid 3, van het verdrag betreffende de werking van de   Europese Unie, krachtens de bepalingen van de verordening (EU) nr. 651/2014 van   de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de   artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden   verklaard.</P>
 
 ## HOOFDSTUK II. Bepaling van de personen met een arbeidshandicap
 
