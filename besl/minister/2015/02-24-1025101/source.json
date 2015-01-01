@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025101,
+  "title": "Ministerieel besluit van 2015-02-24 houdende aanpassing van de sectorale regelgeving naar aanleiding van de integratie van het Departement Landbouw en Visserij en het Agentschap voor Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025101/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "d4cd019bf088c502a4e35a703a4f8990336c858671827d5490bec1e19b3b528d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025101&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-02-24",
+  "gazette": "2015-03-13",
+  "numac": 2015035284,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 66,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
