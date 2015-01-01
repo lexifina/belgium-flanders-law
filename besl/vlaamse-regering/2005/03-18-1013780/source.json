@@ -2,16 +2,16 @@
   "codex_id": 1013780,
   "title": "Besluit van de Vlaamse Regering van 2005-03-18 houdende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van groentezaad",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013780/VolledigDocument?datum=2014-03-31",
-  "source_sha256": "b89fbc4626b918a22d8991a3885d0ff857812d3d18605636bb38d5be119011dd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013780/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c75742e5cb50c5ace292451fb4d27eecf65353555f5c2f161bbb3a920aea9217",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013780&param=informatie",
-  "as_of": "2014-03-31",
+  "as_of": "2015-01-01",
   "made": "2005-03-18",
   "gazette": "2005-05-12",
   "numac": 2005035495,
   "document_start": "2005-05-12",
   "document_end": null,
-  "in_force": "2014-03-31",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2014-03-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
