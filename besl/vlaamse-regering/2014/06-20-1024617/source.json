@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024617,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van het besluit van de Vlaamse Regering van 21 december 2007 betreffende de begroting en de personeelsformatie van de hogescholen in de Vlaamse Gemeenschap wat de procedure voor aanpassing van de begroting betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024617/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "ade5e6173eb36670974189f0031af9666ef0609bef7b0fa5cb775a26a8d96d0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024617&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-06-20",
+  "gazette": "2014-10-01",
+  "numac": 2014035938,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
