@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025517,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-29 houdende besparingen in verschillende zorgvormen van de sector personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025517/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6794c08eee62ad43fbe8d8d0c1fd0d04608268c2c3ea030e847958275dd3a086",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025517&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-05-29",
+  "gazette": "2015-06-25",
+  "numac": 2015035776,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
