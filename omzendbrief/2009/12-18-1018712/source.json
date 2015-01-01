@@ -2,16 +2,16 @@
   "codex_id": 1018712,
   "title": "Omzendbrief van 2009-12-18 VLABEL/2009.1 betreffende de wijziging van de vrijstellingsregeling van onroerende voorheffing voor investeringen in nieuw materieel en outillage",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018712/VolledigDocument?datum=2010-02-01",
-  "source_sha256": "1aafc957a4d787f30e1693eb13517dae8b3ac3b152bc0466fd6c5ca51e804fc5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018712/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "2fd6cc17878169de26bf5872e37eb56bf5c9baf1211bbedcba1ec229c786c650",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018712&param=informatie",
-  "as_of": "2010-02-01",
+  "as_of": "2015-01-01",
   "made": "2009-12-18",
   "gazette": "2010-01-22",
   "numac": 2010035007,
   "document_start": "2010-02-01",
   "document_end": "2014-12-31",
-  "in_force": "2010-02-01",
+  "in_force": "2015-01-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2010-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
