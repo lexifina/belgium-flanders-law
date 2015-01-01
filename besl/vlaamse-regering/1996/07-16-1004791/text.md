@@ -1,8 +1,16 @@
 # Besluit van de Vlaamse Regering van 1996-07-16 houdende vaststelling van de regelen tot de werking en het beheer van het Vlaams Landbouwinvesteringsfonds
 
+### ART. 1.
+
+In dit besluit wordt verstaan onder bevoegde entiteit: het Departement   Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij.
+
 ### ART. 1/1.
 
-De Leidend Ambtenaar van het Agentschap voor Landbouw en Visserij wordt overdracht van bevoegdheid verleend om namens de Vlaamse regering nota's, ambtsberichten, briefwisseling en documenten met betrekking tot het dagelijks beheer en de organisatie van het Vlaams Landbouwinvesteringsfonds, hierna het Fonds genoemd, te ondertekenen.<br /><br />Hij voert hierbij de titel van directeur-generaal van het fonds.<br /><br />De directeur-generaal staat in voor de afhandeling van de dossiers op grond van de richtlijnen die door de Vlaamse regering worden vastgesteld voor de toepassing van artikel 12 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994.<br /><br />Hij verzekert de dagelijkse werking van het Fonds.
+De Leidend Ambtenaar van de bevoegde entiteit wordt overdracht van   bevoegdheid verleend om namens de Vlaamse regering nota's, ambtsberichten,   briefwisseling en documenten met betrekking tot het dagelijks beheer en de   organisatie van het Vlaams Landbouwinvesteringsfonds, hierna het Fonds genoemd,   te ondertekenen.<BR><BR>Hij voert hierbij de titel van directeur-generaal van   het fonds.<BR><BR>De directeur-generaal staat in voor de afhandeling van de   dossiers op grond van de richtlijnen die door de Vlaamse regering worden   vastgesteld voor de toepassing van artikel 12 van het decreet van 22 december   1993 houdende bepalingen tot begeleiding van de begroting 1994.<BR><BR>Hij   verzekert de dagelijkse werking van het Fonds.
+
+### ART. 1/2.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
@@ -14,7 +22,7 @@ Driemaandelijks brengt de in artikel 1 aangeduide ambtenaar verslag uit over de 
 
 ### ART. 4.
 
-Het personeel, de uitrusting en de installaties van het Agentschap voor Landbouw en Visserij, worden ter beschikking gesteld van het Fonds.
+Het personeel, de uitrusting en de installaties van de bevoegde entiteit,   worden ter beschikking gesteld van het Fonds.
 
 ### ART. 5.
 
