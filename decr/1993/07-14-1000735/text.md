@@ -70,7 +70,7 @@ Het onderzoekscomité is samengesteld uit tien leden: de voorzitter en   negen g
 
 ### ART. 13.
 
-§ 1. Onverminderd het bepaalde in § 2 doen het grindcomité en de subcomités een beroep op de GOM wat de materiële voorbereiding en uitvoering van hun beslissingen betreft.<br /><br />De GOM wordt voor haar werkingskosten vergoed. Deze vergoeding is ten laste van het grindfonds.<br /><br />§ 2. Het grindcomité kan bij overeenkomst een aantal deeltaken toevertrouwen aan de personen of verenigingen of publieke rechtspersonen die het aanwijst.<br /><br />§ 3. De in § 1 en § 2 bedoelde overeenkomst wordt ter goedkeuring voorgelegd aan de Vlaamse regering.
+§ 1. Met behoud van toepassing van paragraaf 2 doen het grindcomité en de   subcomités een beroep op de POM of de provincie Limburg voor de materiële   voorbereiding en uitvoering van hun beslissingen.<BR><BR>De POM en de provincie   Limburg worden voor hun werkingskosten vergoed. Deze vergoedingen zijn ten laste   van het grindfonds.<BR><BR>§ 2. Het grindcomité kan bij overeenkomst een aantal   deeltaken toevertrouwen aan de personen of verenigingen of publieke   rechtspersonen die het aanwijst.<BR><BR>§ 3. De in § 1 en § 2 bedoelde   overeenkomst wordt ter goedkeuring voorgelegd aan de Vlaamse   regering.
 
 ## HOOFDSTUK III MAATREGELEN BETREFFENDE DE GRINDWINNING
 
