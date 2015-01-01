@@ -2,16 +2,16 @@
   "codex_id": 1013073,
   "title": "Decreet van 2004-05-07 betreffende de investeringsmaatschappijen van de Vlaamse overheid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013073/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "d5559038ab73b99d58cf10445420946c97d7414506a002b680e3c550e0fabfb6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013073/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "a9be000d79ad06e32fef7adfd7343fb25c76989ef79bb89a600d5917965e13ba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013073&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2015-01-01",
   "made": "2004-05-07",
   "gazette": "2004-06-08",
   "numac": 2004035858,
   "document_start": "2008-05-19",
   "document_end": null,
-  "in_force": "2012-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
