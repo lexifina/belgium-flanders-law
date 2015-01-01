@@ -28,6 +28,10 @@ Artikel 10.1.3 van hetzelfde decreet wordt vervangen door wat   volgt:<BR>"Art. 
 
 In artikel 10.1.4 van hetzelfde decreet, ingevoegd bij het decreet van 18   november 2011, worden de volgende wijzigingen aangebracht:<BR>1° in het eerste   lid worden tussen het woord "energiedeskundigen" en de woorden "of de aannemers"   de woorden ", de verslaggevers" ingevoegd;<BR>2° in het derde lid worden tussen   het woord "energiedeskundigen" en de woorden "en de aannemers" de woorden ", de   verslaggevers" ingevoegd.
 
+### ART. 8.
+
+In artikel 11.1.1, § 1, vijfde lid, van hetzelfde decreet, ingevoegd bij   het decreet van 18 november 2011, worden de woorden "ten behoeve van mensen"   telkens opgeheven.<BR>
+
 ### ART. 9.
 
 Aan artikel 11.1.4, eerste lid, van hetzelfde decreet, gewijzigd bij   decreet van 18 november 2011, worden een punt 8° en een punt 9° toegevoegd, die   luiden als volgt:<BR>"8° voor niet voor bewoning bestemde gebouwen van   landbouwbedrijven met een lage energiebehoefte en niet voor bewoning bestemde   gebouwen van landbouwbedrijven die in gebruik zijn bij een sector die onder een   energiebeleidsovereenkomst inzake energieprestatie valt;<BR>9° voor de niet voor   bewoning bestemde gedeelten met een maximale bruikbare vloeroppervlakte van 50   m<SUP>2</SUP> met een andere functie dan industrie of landbouw, gelegen in   industriegebouwen, niet voor bewoning bestemde gebouwen van landbouwbedrijven   met een lage energiebehoefte en niet voor bewoning bestemde gebouwen van   landbouwbedrijven die in gebruik zijn bij een sector die onder een   energiebeleidsovereenkomst inzake energieprestatie valt.".
