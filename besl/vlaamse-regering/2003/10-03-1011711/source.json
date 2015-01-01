@@ -2,16 +2,16 @@
   "codex_id": 1011711,
   "title": "Besluit van de Vlaamse Regering van 2003-10-03 betreffende de procedure tot erkenning van bosbouwkundig uitgangsmateriaal en het in de handel brengen van bosbouwkundig teeltmateriaal",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011711/VolledigDocument?datum=2008-05-21",
-  "source_sha256": "598116c575f9171d6762fe0d9ea7af5748a92eb38b06363b68d2413f7fbcc0a3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011711/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "e9b44642d972f66beafbf1a17aa7d87acad7370579100cb9647076a3b383a772",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011711&param=informatie",
-  "as_of": "2008-05-21",
+  "as_of": "2015-01-01",
   "made": "2003-10-03",
   "gazette": "2003-11-13",
   "numac": 2003036096,
   "document_start": "2003-11-13",
   "document_end": null,
-  "in_force": "2008-05-21",
-  "article_versions": 46,
-  "record_form": "consolidated version as in force on 2008-05-21; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 47,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
