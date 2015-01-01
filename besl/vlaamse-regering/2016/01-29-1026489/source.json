@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026489,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-29 tot wijziging van artikel 15octies van het besluit van de Vlaamse Regering van 25 maart 1997 tot uitvoering van het decreet van 24 juli 1996 houdende regeling tot erkenning en subsidiëring van de instellingen voor schuldbemiddeling en tot subsidiëring van een Vlaams Centrum Schuldenlast",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026489/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "b9ff19d4309d397a9f9884260159cc8ff14d8a6d82655fcbd102bdfa01e46645",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026489&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2016-01-29",
+  "gazette": "2016-02-17",
+  "numac": 2016035172,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
