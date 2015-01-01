@@ -8,7 +8,209 @@ Dit besluit voorziet in de omzetting van :<br />1° de Richtlijn 66/402/EEG van 
 
 ### ART. 1/1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° granen : planten van de volgende soorten, die voor de landbouw of de tuinbouw zijn bestemd, met uitzondering van sierdoeleinden:<br /> <html xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20100521-q07-art1_bestanden/filelist.xml&quote;><title>Avena nuda L</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>decockge</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>decockge</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>2</o:TotalTime>  <o:Created>2010-06-25T07:01:00Z</o:Created>  <o:LastSaved>2010-06-25T07:03:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>138</o:Words>  <o:Characters>759</o:Characters>  <o:Company>MVG</o:Company>  <o:Lines>6</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>896</o:CharactersWithSpaces>  <o:Version>11.9999</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;span.SpellE	&lftaco;mso-style-name:&quote;&quote;;	mso-spl-e:yes;&rgtaco;span.GramE	&lftaco;mso-style-name:&quote;&quote;;	mso-gram-e:yes;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoNormalTable border=1 cellpadding=0 style='mso-cellspacing:1.5pt; border:outset 1.0pt;mso-border-alt:outset windowtext .25pt;mso-border-insideh: .25pt outset windowtext;mso-border-insidev:.25pt outset windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Avena  <span class=SpellE>nuda</span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>naakte  haver<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Avena  <span class=SpellE>sativa</span> L. (omvat A. <span class=SpellE>byzantina</span>  K. Koch)<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>haver<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>Avena  <span class=SpellE>strigosa</span> <span class=SpellE>Schreb</span>.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>evene</span></span><span style='font-size:10.0pt'><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Hordeum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>vulgare</span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>gerst<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Oryza</span></span><span style='font-size:10.0pt'> <span  class=SpellE>sativa</span><o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>rijst<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:5'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Phalaris</span></span><span style='font-size:10.0pt'>  <span class=SpellE><span class=GramE>canariensis</span></span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>kanariezaad<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:6'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Secale</span></span><span style='font-size:10.0pt'> <span  class=SpellE>cereale</span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>rogge<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:7'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=GramE><span  style='font-size:10.0pt'>Sorghum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>bicolor</span> (L.) <span class=SpellE>Moench</span><o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>sorgho</span></span><span style='font-size:10.0pt'><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:8'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=GramE><span  style='font-size:10.0pt'>Sorghum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>sudanense</span> (Piper) <span class=SpellE>Stapf</span><o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>soedangras</span></span><span style='font-size:10.0pt'><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:9'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>xTriticosecale</span></span><span style='font-size:  10.0pt'> <span class=SpellE>Wittm</span>. ex A. <span class=SpellE>Camus</span><o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>hybriden  die het gevolg zijn van de kruising van een soort van het geslacht <span  class=SpellE>Triticum</span> met een soort van het geslacht <span  class=SpellE>Secale</span><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:10'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Triticum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>aestivum</span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>zachte  tarwe<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:11'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Triticum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>durum</span> <span class=SpellE>Desf</span>.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>harde  tarwe<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:12'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Triticum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>spelta</span> L.<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>spelt<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:13'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Zea</span></span><span style='font-size:10.0pt'> <span  class=SpellE>mais</span> L.(<span class=SpellE>partim</span>)<o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=SpellE><span  style='font-size:10.0pt'>Mais</span></span><span style='font-size:10.0pt'>,  met uitzondering van popcorn en <span class=SpellE>suikermais</span><o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:14'>  <td width=607 colspan=2 style='width:455.6pt;border:inset 1.0pt;mso-border-alt:  inset windowtext .25pt;padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>De  definitie geldt ook voor de volgende hybriden die het product zijn van een  kruising van de hierboven vermelde soorten.<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:15;mso-yfti-lastrow:yes'>  <td width=228 style='width:171.25pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span class=GramE><span  style='font-size:10.0pt'>Sorghum</span></span><span style='font-size:10.0pt'>  <span class=SpellE>bicolor</span> (L.) <span class=SpellE>Moench</span> x  Sorghum <span class=SpellE>sudanense</span> (Piper) <span class=SpellE>Stapf</span><o:p></o:p></span></p>  </td>  <td width=377 style='width:282.85pt;border:inset 1.0pt;mso-border-alt:inset windowtext .25pt;  padding:.75pt .75pt .75pt .75pt'>  <p class=MsoNormal style='text-align:justify'><span style='font-size:10.0pt'>hybriden  die het product zijn van een kruising van Sorghum <span class=SpellE>bicolor</span>  en Sorghum <span class=SpellE>sudanense</span><o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><o:p>&nbsp;</o:p></p></div></body></html> <br /><br />Tenzij het anders bepaald is, gelden voor zaad van de vermelde hybriden de normen of andere voorwaarden die van toepassing zijn voor zaad van elk van de soorten waaruit ze zijn verkregen. <br /><br />2° rassen, hybriden en inteeltlijnen van maïs en Sorghum spp.:<br />a) vrij bestoven ras: voldoende homogeen en bestendig ras;<br />b) ingeteelde stam: voldoende homogene en bestendige lijn, die gedurende verscheidene opeenvolgende generaties door kunstmatige zelfbevruchting onder gelijktijdige selectie of door gelijkwaardige maatregelen is verkregen;<br />c) enkele hybride: eerste generatie uit een door de kweker bepaalde kruising van twee ingeteelde stammen;<br />d) dubbele hybride: eerste generatie uit een door de kweker bepaalde kruising van twee enkele hybriden;<br />e) drieweg-hybride: eerste generatie uit een door de kweker bepaalde kruising van een ingeteelde stam en van een enkele hybride;<br />f) inteelt-rassen-hybride (topkruising): eerste generatie uit een door de kweker bepaalde kruising van een ingeteelde stam of van een enkele hybride en van een vrij bestoven ras;<br />g) rassen-hybride: eerste generatie uit een door de kweker bepaalde kruising van planten uit basiszaad van twee vrij bestoven rassen;<br /><br />3° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br /><br />4° basiszaad (haver, gerst, rijst, tarwe, spelt, rogge, kanariezaad, triticale en harde tarwe, andere dan hybriden wat elk van de voornoemde soorten betreft):<br />a) zaad dat is voortgebracht onder verantwoordelijkheid van de kweker volgens de regels voor de stelselmatige instandhouding met betrekking tot het ras;<br />b) zaad dat is bestemd voor de voortbrenging van zaad hetzij van de categorie gecertificeerd zaad, hetzij van de categorieën gecertificeerd zaad van de eerste vermeerdering of gecertificeerd zaad van de tweede vermeerdering. Die vermeerdering kan gebeuren in één of meerdere vermeerderingscycli. In dat geval wordt de categorie basiszaad onderverdeeld in basiszaad E2 voor de eerste generatie afkomstig van prebasiszaad, en basiszaad E3 voor ten hoogste de tweede generatie vanaf prebasiszaad;<br />c) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br /><br />5° basiszaad (hybriden van haver, gerst, rijst, tarwe, spelt, rogge, harde tarwe en zelfbestuivende rassen van triticale):<br />a) zaad dat is bestemd voor de voortbrenging van hybriden;<br />b) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />c) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a) en b), voldoet;<br /><br />6° basiszaad (maïs en Sorghum spp.):<br />a) van vrij bestoven rassen:<br />1) zaad dat is voortgebracht onder verantwoordelijkheid van de kweker volgens de regels voor de stelselmatige instandhouding met betrekking tot het ras;<br />2) zaad dat is bestemd voor de voortbrenging van zaad van de categorie gecertificeerd zaad van dit ras, van een inteelt-rassen-hybride of een rassen-hybride;<br />3) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />4) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1), 2) en 3), voldoet;<br />b) van ingeteelde stammen:<br />1) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />2) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1), voldoet;<br />c) van enkele hybriden:<br />1) zaad dat is bestemd voor de voortbrenging van dubbele hybriden, drieweg-hybriden of inteelt-rassen-hybriden;<br />2) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />3) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1) en 2), voldoet;<br /><br />7° gecertificeerd zaad (kanariezaad, ander dan hybriden, rogge, sorgho, soedangras, maïs en hybriden van haver, gerst, rijst, tarwe, spelt, harde tarwe en zelfbestuivende rassen van triticale):<br />a) zaad dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />b) zaad dat is bestemd voor de voortbrenging van andere granen dan zaaigranen;<br />c) zaad dat behoudens het bepaalde in artikel 4, § 2, voldoet aan de in bijlage I en II voor gecertificeerd zaad opgesomde voorwaarden;<br />d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden vastgesteld in a), b) en c) voldoet;<br /><br />8° gecertificeerd zaad van de eerste vermeerdering (haver, gerst, rijst, tarwe, spelt, triticale en harde tarwe, ander zaad dan hybriden wat elk van de voornoemde soorten betreft):<br />a) zaad dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in de bijlagen I en II voor basiszaad opgesomde voorwaarden;<br />b) zaad dat is bestemd voor de voortbrenging van zaad van de categorie gecertificeerd zaad van de tweede vermeerdering of voor de voortbrenging van andere granen dan zaaigranen;<br />c) zaad dat voldoet aan de in bijlage I en II voor gecertificeerd zaad van de eerste vermeerdering opgesomde voorwaarden;<br />d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br /><br />9° gecertificeerd zaad van de tweede vermeerdering (haver, gerst, rijst, tarwe, spelt, triticale en harde tarwe, andere dan hybriden wat elk van de voornoemde soorten betreft):<br />a) zaad dat rechtstreeks afkomstig is van basiszaad, van gecertificeerd zaad van de eerste vermeerdering of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br />b) zaad dat is bestemd voor de voortbrenging van andere granen dan zaaigranen;<br />c) zaad dat voldoet aan de in bijlage I en II voor gecertificeerd zaad van de tweede vermeerdering opgesomde voorwaarden;<br />d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br /><br />10° gemeenschappelijke rassenlijst voor landbouwgewassen: de lijst van alle rassen waarvan het zaaizaad of pootgoed op grond van artikel 16, § 1, van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen, niet aan handelsbeperkingen ten aanzien van het ras is onderworpen;<br /><br />11° officiële maatregelen: maatregelen die uitgaan van of verricht worden:<br />a) door autoriteiten van een staat;<br />b) door publiekrechtelijke of privaatrechtelijke rechtspersonen die handelen onder de verantwoordelijkheid van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregelen;<br />c) voor hulpwerkzaamheden door beëdigde natuurlijke personen die handelen onder het toezicht van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van die maatregelen;<br /><br />12° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br /><br />13° bevoegde entiteit: het Agentschap voor Landbouw en Visserij van het Vlaams ministerie van Landbouw en Visserij;<br /><br />14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik.<br /><br />Onder "in de handel brengen" wordt niet verstaan de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals het beschikbaar stellen van zaaizaad aan officiële onderzoeks- en controle-instantie of de levering van zaaizaad aan verleners van diensten voor verwerking of verpakking, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft.<br /><br />Onder "in de handel brengen" wordt niet verstaan het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van diensten voor de productie van bepaalde landbouwgrondstoffen voor industriële doeleinden, of voor vermeerdering van zaaizaad voor dat doel, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft, noch op het product van de oogst. De leverancier van het zaaizaad verstrekt de certificeringsdienst een afschrift van de delen in kwestie van het contract met de dienstverlener, en daarin wordt vermeld aan welke normen en voorwaarden het verstrekte zaaizaad op dat moment voldoet.<br /><br />De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.
+Avena nuda L<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>2</o:TotalTime><br>  <o:Created>2010-06-25T07:01:00Z</o:Created><br>  <o:LastSaved>2010-06-25T07:03:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>138</o:Words><br>  <o:Characters>759</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>6</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>896</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->
+<p>Voor de toepassing van dit besluit wordt verstaan onder:<br>
+<br>
+1° granen : planten van de volgende soorten, die voor de landbouw of de tuinbouw zijn bestemd, met uitzondering van sierdoeleinden:</p>
+
+<div>
+<table border="1" cellpadding="0" class="MsoNormalTable" style="border-bottom:1pt outset; border-left:1pt outset; border-right:1pt outset; border-top:1pt outset; mso-border-alt:outset windowtext .25pt; mso-border-insideh:.25pt outset windowtext; mso-border-insidev:.25pt outset windowtext; mso-cellspacing:1.5pt">
+	<tbody>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Avena nuda L.<!--?xml:namespace prefix = o ns =         ""e;urn:schemas-microsoft-com:office:office"e;xmlns:w="e;urn:schemas-microsoft-com:office:word"e;xmlns="e;http://www.w3.org/TR/REC-html40"e;"         /--></p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">naakte haver</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Avena sativa L. (omvat A. byzantina K. Koch)</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">haver</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Avena strigosa Schreb.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">evene</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Hordeumvulgare L.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">gerst</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Oryza sativa</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">rijst</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Phalariscanariensis L.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">kanariezaad</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Secale cereale L.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">rogge</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Sorghumbicolor (L.) Moench</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">sorgho</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Sorghumsudanense (Piper) Stapf</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">soedangras</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">xTriticosecale Wittm. ex A. Camus</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">hybriden die het gevolg zijn van de kruising van een soort van het geslacht Triticum met een soort van het geslacht Secale</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Triticumaestivum L.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">zachte tarwe</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Triticumdurum Desf.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">harde tarwe</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Triticumspelta L.</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">spelt</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Zea mais L.(partim)</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">Mais, met uitzondering van popcorn en suikermais</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" style="width:455.6pt">
+			<p style="text-align:justify">&nbsp;</p>
+
+			<p style="text-align:justify">De definitie geldt ook voor de volgende hybriden die het product zijn van een kruising van de hierboven vermelde soorten.</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:171.25pt">
+			<p style="text-align:justify">Sorghumbicolor (L.) Moench x Sorghum sudanense (Piper) Stapf</p>
+			</td>
+			<td style="width:282.85pt">
+			<p style="text-align:justify">hybriden die het product zijn van een kruising van Sorghum bicolor en Sorghum sudanense</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+Tenzij het anders bepaald is, gelden voor zaad van de vermelde hybriden de normen of andere voorwaarden die van toepassing zijn voor zaad van elk van de soorten waaruit ze zijn verkregen.<br>
+2° rassen, hybriden en inteeltlijnen van maïs en Sorghum spp.:<br>
+a) vrij bestoven ras: voldoende homogeen en bestendig ras;<br>
+b) ingeteelde stam: voldoende homogene en bestendige lijn, die gedurende verscheidene opeenvolgende generaties door kunstmatige zelfbevruchting onder gelijktijdige selectie of door gelijkwaardige maatregelen is verkregen;<br>
+c) enkele hybride: eerste generatie uit een door de kweker bepaalde kruising van twee ingeteelde stammen;<br>
+d) dubbele hybride: eerste generatie uit een door de kweker bepaalde kruising van twee enkele hybriden;<br>
+e) drieweg-hybride: eerste generatie uit een door de kweker bepaalde kruising van een ingeteelde stam en van een enkele hybride;<br>
+f) inteelt-rassen-hybride (topkruising): eerste generatie uit een door de kweker bepaalde kruising van een ingeteelde stam of van een enkele hybride en van een vrij bestoven ras;<br>
+g) rassen-hybride: eerste generatie uit een door de kweker bepaalde kruising van planten uit basiszaad van twee vrij bestoven rassen;<br>
+3° prebasiszaad: kwekerszaad van generaties die aan het basiszaad voorafgaan, dat door een tot keuring bevoegde bevoegde entiteit officieel is onderzocht en goedgekeurd volgens de voor de keuring van basiszaad geldende voorschriften;<br>
+4° basiszaad (haver, gerst, rijst, tarwe, spelt, rogge, kanariezaad, triticale en harde tarwe, andere dan hybriden wat elk van de voornoemde soorten betreft):<br>
+a) zaad dat is voortgebracht onder verantwoordelijkheid van de kweker volgens de regels voor de stelselmatige instandhouding met betrekking tot het ras;<br>
+b) zaad dat is bestemd voor de voortbrenging van zaad hetzij van de categorie gecertificeerd zaad, hetzij van de categorieën gecertificeerd zaad van de eerste vermeerdering of gecertificeerd zaad van de tweede vermeerdering. Die vermeerdering kan gebeuren in één of meerdere vermeerderingscycli. In dat geval wordt de categorie basiszaad onderverdeeld in basiszaad E2 voor de eerste generatie afkomstig van prebasiszaad, en basiszaad E3 voor ten hoogste de tweede generatie vanaf prebasiszaad;<br>
+c) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br>
+5° basiszaad (hybriden van haver, gerst, rijst, tarwe, spelt, rogge, harde tarwe en zelfbestuivende rassen van triticale):<br>
+a) zaad dat is bestemd voor de voortbrenging van hybriden;<br>
+b) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+c) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a) en b), voldoet;<br>
+6° basiszaad (maïs en Sorghum spp.):<br>
+a) van vrij bestoven rassen:<br>
+1) zaad dat is voortgebracht onder verantwoordelijkheid van de kweker volgens de regels voor de stelselmatige instandhouding met betrekking tot het ras;<br>
+2) zaad dat is bestemd voor de voortbrenging van zaad van de categorie gecertificeerd zaad van dit ras, van een inteelt-rassen-hybride of een rassen-hybride;<br>
+3) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+4) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1), 2) en 3), voldoet;<br>
+b) van ingeteelde stammen:<br>
+1) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+2) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1), voldoet;<br>
+c) van enkele hybriden:<br>
+1) zaad dat is bestemd voor de voortbrenging van dubbele hybriden, drieweg-hybriden of inteelt-rassen-hybriden;<br>
+2) zaad dat, behoudens het bepaalde in artikel 4, voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+3) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in 1) en 2), voldoet;<br>
+7° gecertificeerd zaad (kanariezaad, ander dan hybriden, rogge, sorgho, soedangras, maïs en hybriden van haver, gerst, rijst, tarwe, spelt, harde tarwe en zelfbestuivende rassen van triticale):<br>
+a) zaad dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+b) zaad dat is bestemd voor de voortbrenging van andere granen dan zaaigranen;<br>
+c) zaad dat behoudens het bepaalde in artikel 4, § 2, voldoet aan de in bijlage I en II voor gecertificeerd zaad opgesomde voorwaarden;<br>
+d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden vastgesteld in a), b) en c) voldoet;<br>
+8° gecertificeerd zaad van de eerste vermeerdering (haver, gerst, rijst, tarwe, spelt, triticale en harde tarwe, ander zaad dan hybriden wat elk van de voornoemde soorten betreft):<br>
+a) zaad dat rechtstreeks afkomstig is van basiszaad of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in de bijlagen I en II voor basiszaad opgesomde voorwaarden;<br>
+b) zaad dat is bestemd voor de voortbrenging van zaad van de categorie gecertificeerd zaad van de tweede vermeerdering of voor de voortbrenging van andere granen dan zaaigranen;<br>
+c) zaad dat voldoet aan de in bijlage I en II voor gecertificeerd zaad van de eerste vermeerdering opgesomde voorwaarden;<br>
+d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br>
+9° gecertificeerd zaad van de tweede vermeerdering (haver, gerst, rijst, tarwe, spelt, triticale en harde tarwe, andere dan hybriden wat elk van de voornoemde soorten betreft):<br>
+a) zaad dat rechtstreeks afkomstig is van basiszaad, van gecertificeerd zaad van de eerste vermeerdering of, op verzoek van de kweker, van prebasiszaad waarvan bij een officieel onderzoek is gebleken dat het voldoet aan de in bijlage I en II voor basiszaad opgesomde voorwaarden;<br>
+b) zaad dat is bestemd voor de voortbrenging van andere granen dan zaaigranen;<br>
+c) zaad dat voldoet aan de in bijlage I en II voor gecertificeerd zaad van de tweede vermeerdering opgesomde voorwaarden;<br>
+d) zaad waarvan bij een officieel onderzoek of een onderzoek onder officieel toezicht is gebleken dat het aan de voorwaarden, vastgesteld in a), b) en c), voldoet;<br>
+10° gemeenschappelijke rassenlijst voor landbouwgewassen: de lijst van alle rassen waarvan het zaaizaad of pootgoed op grond van artikel 16, § 1, van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen, niet aan handelsbeperkingen ten aanzien van het ras is onderworpen;<br>
+11° officiële maatregelen: maatregelen die uitgaan van of verricht worden:<br>
+a) door autoriteiten van een staat;<br>
+b) door publiekrechtelijke of privaatrechtelijke rechtspersonen die handelen onder de verantwoordelijkheid van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregelen;<br>
+c) voor hulpwerkzaamheden door beëdigde natuurlijke personen die handelen onder het toezicht van een lidstaat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van die maatregelen;<br>
+12° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
+13° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
+14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik.<br>
+Onder "in de handel brengen" wordt niet verstaan de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals het beschikbaar stellen van zaaizaad aan officiële onderzoeks- en controle-instantie of de levering van zaaizaad aan verleners van diensten voor verwerking of verpakking, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft.<br>
+Onder "in de handel brengen" wordt niet verstaan het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van diensten voor de productie van bepaalde landbouwgrondstoffen voor industriële doeleinden, of voor vermeerdering van zaaizaad voor dat doel, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft, noch op het product van de oogst. De leverancier van het zaaizaad verstrekt de certificeringsdienst een afschrift van de delen in kwestie van het contract met de dienstverlener, en daarin wordt vermeld aan welke normen en voorwaarden het verstrekte zaaizaad op dat moment voldoet.<br>
+De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+### ART. 1/2.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
