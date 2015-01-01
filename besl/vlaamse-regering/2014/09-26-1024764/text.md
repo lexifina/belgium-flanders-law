@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2014-09-26 tot wijziging van artikel 69 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges
+
+### Aanhef
+
+<P>De Vlaamse Regering,<BR></P>  <P>Gelet op de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, artikel 20;<BR></P>  <P>Gelet op het decreet van 4 april 2014 betreffende de organisatie en de   rechtspleging van sommige Vlaamse bestuursrechtcolleges, artikel 40, § 1, derde   lid;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 16 mei 2014 houdende de   rechtspleging voor sommige Vlaamse bestuursrechtscolleges;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 10 juli   2014;<BR></P>  <P>Gelet op advies nr. 56.600/1/V van de Raad van State, gegeven op 22 augustus   2014, met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de   Raad van State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Overwegende dat bij arrest nr. 98/2014 van 30 juni 2014 van het   Grondwettelijk Hof in artikel 4.8.19, eerste, tweede en derde lid, van de   Vlaamse Codex Ruimtelijke Ordening, vervangen bij artikel 5 van het decreet van   het Vlaamse Gewest van 6 juli 2012 houdende wijziging van diverse bepalingen van   de Vlaamse Codex Ruimtelijke Ordening, wat de Raad voor Vergunningsbetwistingen   betreft, de woorden "vijftien dagen" vernietigd zijn; dat die vernietiging het   principe van de vervaltermijn waarin een verzoek tot voortzetting ingediend moet   worden overeind laat, maar het Hof alleen de te korte duur van die termijn   vernietigt; dat een dergelijke termijn uit proceseconomische redenen gewenst   is;<BR></P>  <P>Overwegende dat het hernemen van een aangepaste termijn in de Vlaamse Codex   Ruimtelijke Ordening een decretale oplossing behoeft;<BR></P>  <P>Overwegende dat het decreet van 4 april 2014 betreffende de organisatie en de   rechtspleging van sommige Vlaamse bestuursrechtcolleges een overkoepelende   structuur voorziet waarin bestaande en toekomstige Vlaamse bestuurlijke   rechtscolleges worden geïncorporeerd, waaronder ook de procedureregeling wat de   Raad voor Vergunningsbetwistingen betreft;<BR></P>  <P>Overwegende dat het decreet van 4 april 2014 geen bepaling bevat waarin de   vervaltermijn wordt vastgesteld voor het indienen van een verzoek tot   voortzetting van de rechtspleging nadat over de vordering tot schorsing   uitspraak is gedaan, maar dat deze termijn wordt geregeld in het besluit van de   Vlaamse Regering van 16 mei 2014 houdende de rechtspleging voor sommige Vlaamse   bestuursrechtscolleges; dat dit besluit dan ook aangepast dient te worden aan   arrest nr. 98/2014 van 30 juni 2014 van het Grondwettelijk Hof;<BR></P>  <P>Op voorstel van de Vlaamse minister van Binnenlands Bestuur, Inburgering,   Wonen, Gelijke Kansen en Armoedebestrijding en van de Vlaamse minister van   Omgeving, Natuur en Landbouw;<BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit :<BR></P>
+
+### ART. 1.
+
+In artikel 69 van het besluit van de Vlaamse Regering van 16 mei 2014   houdende de rechtspleging voor sommige Vlaamse bestuursrechtscolleges worden de   woorden "vijftien dagen" telkens vervangen door de woorden "dertig   dagen".<BR>
+
+### ART. 2.
+
+&nbsp;Dit besluit treedt in werking op 1 januari 2015.<BR>
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor bestuurszaken, is belast met de   uitvoering van dit besluit.<BR>
