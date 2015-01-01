@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024416,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft het instructiepersoneel en het technisch omkaderingspersoneel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024416/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "312f7007ae82858923db372e924a67d25b3e977f55507900bc16c8b8269e867e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024416&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-05-09",
+  "gazette": "2014-08-14",
+  "numac": 2014035669,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
