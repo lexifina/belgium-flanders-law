@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024835,
+  "title": "Decreet van 2014-12-19 houdende wijziging van de Codex Secundair Onderwijs, wat het recht op inschrijving betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024835/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c51dda727b38a7aed58030cf700ddb11e6edb43466adff129bae0e046927ef2c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024835&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-19",
+  "gazette": "2014-12-30",
+  "numac": 2014036951,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
