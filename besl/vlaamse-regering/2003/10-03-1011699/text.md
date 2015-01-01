@@ -13,7 +13,7 @@
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
-			<p>a) Arachis hypogaea <!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>a) Arachis hypogaea</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
 			<p>aardnoot;</p>
@@ -189,7 +189,7 @@ a) door autoriteiten van een staat;<br>
 b) door publiekrechtelijke of privaatrechtelijke rechtspersonen handelend onder de verantwoordelijkheid van een lid-Staat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregel;<br>
 c) voor hulpwerkzaamheden, door beÙdigde natuurlijke personen handelend onder het toezicht van een lid-Staat, op voorwaarde dat ze geen bijzonder voordeel ontlenen aan de resultaten van deze maatregel;<br>
 16° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
-17° de bevoegde entiteit : het Agentschap voor Landbouw en visserij;<br>
+17° de bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
 18° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden met het oog op commercieel gebruik, al of niet tegen vergoeding.<br>
 <br>
 Onder "in de handel brengen" wordt niet verstaan de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals het beschikbaar stellen van zaaizaad aan officiële onderzoeks- en controle-instanties of de levering van zaaizaad aan verleners van diensten voor verwerking of verpakking, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft.<br>
@@ -203,6 +203,10 @@ De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de
 § 3. Wijzigingen in § 1, onder 3° en 4°, met het oog op de opneming in de werkingssfeer van dit besluit van hybriden van oliehoudende planten en vezelgewassen, die niet tot de zonnebloemhybriden behoren, worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Unie.<br>
 <br>
 § 4. ...</p>
+
+### ART. 1bis.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
