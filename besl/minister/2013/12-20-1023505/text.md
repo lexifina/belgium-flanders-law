@@ -30,21 +30,21 @@ In dit besluit wordt verstaan onder :<BR>1° besluit van de Vlaamse   Regering v
 
 ### ART. 6.
 
-De land- of tuinbouwer of de voorziening die een zorgboerderijovereenkomst   voortijdig beëindigt, meldt dat aan het agentschap via het   e-loket.<BR>
+De land- of tuinbouwer of de voorziening die een zorgboerderijovereenkomst   voortijdig beëindigt, meldt dat aan de bevoegde entiteit via het   e-loket.<BR>
 
 ## HOOFDSTUK 3 Aanmeldingsprocedure voor een subsidie
 
 ### ART. 7.
 
-<P>De land- of tuinbouwer dient de aanmelding voor de subsidie, vermeld in   artikel 15 van het besluit van de Vlaamse Regering van 20 december 2013, in via   het e-loket.<BR></P>  <P>De aanmelding bevat de volgende gegevens :<BR>1° de identificatiegegevens van   de land- of tuinbouwer;<BR>2° het meest recente aanslagbiljet van de   belastingen, tenzij het agentschap die gegevens rechtstreeks verkrijgt van de   bevoegde overheid;<BR>3° een bewijs van verzekering voor burgerlijke   aansprakelijkheid waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in   artikel 5, eerste lid, 4°, van het besluit van de Vlaamse Regering van 20   december 2013.<BR></P>  <P>De land- of tuinbouwer geeft de vereiste documenten elektronisch in via het   e-loket.<BR></P>  <P>De aanmelding wordt elektronisch ondertekend door de land- of   tuinbouwer.<BR></P>
+<P>De land- of tuinbouwer dient de aanmelding voor de subsidie, vermeld in   artikel 15 van het besluit van de Vlaamse Regering van 20 december 2013, in via   het e-loket.<BR></P>  <P>De aanmelding bevat de volgende gegevens :<BR>1° de identificatiegegevens van   de land- of tuinbouwer;<BR>2° het meest recente aanslagbiljet van de   belastingen, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt van   de bevoegde overheid;<BR>3° een bewijs van verzekering voor burgerlijke   aansprakelijkheid waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in   artikel 5, eerste lid, 4°, van het besluit van de Vlaamse Regering van 20   december 2013.<BR></P>  <P>De land- of tuinbouwer geeft de vereiste documenten elektronisch in via het   e-loket.<BR></P>  <P>De aanmelding wordt elektronisch ondertekend door de land- of   tuinbouwer.<BR></P>
 
 ### ART. 8.
 
-Het agentschap bepaalt het bruto bedrijfsresultaat van het land- of   tuinbouwbedrijf van de land- of tuinbouwer, vermeld in artikel 5, eerste lid,   2°, van het besluit van de Vlaamse Regering van 20 december 2013, op een van de   volgende wijzen :<BR>1° op basis van de beschikbare gegevens bij het   agentschap;<BR>2° met controleerbare boekhoudkundige gegevens van het laatste   boekjaar aangeleverd door de land- of tuinbouwer. De land- of tuinbouwer   verstrekt op vraag van het agentschap alle boekhoudkundige gegevens die   noodzakelijk zijn voor het onderzoek.<BR>
+De bevoegde entiteit bepaalt het bruto bedrijfsresultaat van het land- of   tuinbouwbedrijf van de land- of tuinbouwer, vermeld in artikel 5, eerste lid,   2°, van het besluit van de Vlaamse Regering van 20 december 2013, op een van de   volgende wijzen :<BR>1° op basis van de beschikbare gegevens bij de bevoegde   entiteit;<BR>2° met controleerbare boekhoudkundige gegevens van het laatste   boekjaar aangeleverd door de land- of tuinbouwer. De land- of tuinbouwer   verstrekt op vraag van de bevoegde entiteit alle boekhoudkundige gegevens die   noodzakelijk zijn voor het onderzoek.<BR>
 
 ### ART. 9.
 
-Het agentschap onderzoekt de inkomensvoorwaarden, vermeld in artikel 5,   eerste lid, 3°, van het besluit van de Vlaamse Regering van 20 december 2013, op   basis van het meest recente aanslagbiljet van de belastingen. De land- of   tuinbouwer dient jaarlijks het aanslagbiljet van de belastingen in via het   e-loket, tenzij het agentschap die gegevens rechtstreeks verkrijgt van de   bevoegde overheid.<BR>
+De bevoegde entiteit&nbsp;onderzoekt de inkomensvoorwaarden, vermeld in   artikel 5, eerste lid, 3°, van het besluit van de Vlaamse Regering van 20   december 2013, op basis van het meest recente aanslagbiljet van de belastingen.   De land- of tuinbouwer dient jaarlijks het aanslagbiljet van de belastingen in   via het e-loket, tenzij de bevoegde entiteit die gegevens rechtstreeks verkrijgt   van de bevoegde overheid.<BR>
 
 ### ART. 10.
 
@@ -52,7 +52,7 @@ Bij wijziging of vernieuwing van de verzekering, vermeld in artikel 5,   eerste 
 
 ### ART. 11.
 
-De land- of tuinbouwer meldt elke wijziging die gevolgen heeft voor de   subsidievoorwaarden, vermeld in artikel 5 van het besluit van de Vlaamse   Regering van 20 december 2013, via het e-loket aan het   agentschap.<BR>
+De land- of tuinbouwer meldt elke wijziging die gevolgen heeft voor de   subsidievoorwaarden, vermeld in artikel 5 van het besluit van de Vlaamse   Regering van 20 december 2013, via het e-loket aan de bevoegde   entiteit.<BR>
 
 ## HOOFDSTUK 4 Registratie van de aanwezigheid van de zorgvrager en subsidieaanvraag
 

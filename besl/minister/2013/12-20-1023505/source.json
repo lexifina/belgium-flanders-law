@@ -2,16 +2,16 @@
   "codex_id": 1023505,
   "title": "Ministerieel besluit van 2013-12-20 tot uitvoering van artikel 11, 12, 15, 16, 17 en 18 van het besluit van de Vlaamse Regering van 20 december 2013 tot toekenning van subsidies aan land- of tuinbouwers voor de diversificatie naar zorgboerderijactiviteiten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023505/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "1b3eb144cdd189fbdde7a24d233de062523aafac4aa21e9b92030de7031acc72",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023505/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "dfda7ce4ced740791dd7eabbf0c3ca4ceee2d01fe4b1f7ad109adcde2a6960a2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023505&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2013-12-20",
   "gazette": "2013-12-27",
   "numac": 2013036183,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
