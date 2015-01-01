@@ -19,7 +19,7 @@
 			<p>- inspecteur-adviseur voor het lager onderwijs:</p>
 			</td>
 			<td style="vertical-align:top; width:60pt">
-			<p>12</p>
+			<p>11,5</p>
 			</td>
 		</tr>
 		<tr>
@@ -42,7 +42,7 @@
 			<td colspan="2" style="vertical-align:top; width:401.4pt">
 			<p><br>
 			2°&nbsp;voor de niet-confessionele zedenleer :<br>
-			a) inspecteur-adviseur voor het lager onderwijs : 4,5;<br>
+			a) inspecteur-adviseur voor het lager onderwijs : 4;<br>
 			b) inspecteur-adviseur coördinator voor het lager onderwijs : 1;<br>
 			c) inspecteur-adviseur voor het secundair en het pedagogisch hoger onderwijs : 3.<br>
 			<br>
