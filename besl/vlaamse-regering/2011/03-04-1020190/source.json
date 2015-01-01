@@ -2,16 +2,16 @@
   "codex_id": 1020190,
   "title": "Besluit van de Vlaamse Regering van 2011-03-04 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de [kinderopvang]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020190/VolledigDocument?datum=2014-11-13",
-  "source_sha256": "26eabde64cdbb6305ad2be8bd59d10f357f8fe4a749f3a26ff7b43dea736e324",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020190/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "ae118c17e26bce2c955e55f549c82dce557b990a6913d4f02093e6286bd5373c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020190&param=informatie",
-  "as_of": "2014-11-13",
+  "as_of": "2015-01-01",
   "made": "2011-03-04",
   "gazette": "2011-03-28",
   "numac": 2011201331,
   "document_start": "2011-04-07",
   "document_end": null,
-  "in_force": "2014-11-13",
+  "in_force": "2015-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-11-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
