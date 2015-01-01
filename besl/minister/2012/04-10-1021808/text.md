@@ -6,68 +6,68 @@ De Vlaamse minister Van Economie, Buitenlands Beleid, Landbouw en Plattelandsbel
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br />2° eiwithoudende gewassen : de gewassen, vermeld in artikel 79, tweede lid, van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003;<br />3° referentiegegevens : de gegevens per landbouwer over de geconstateerde oppervlakte eiwithoudende gewassen (in hectare) in de referentieperiode;<br />4° referentieperiode : de referentieperiode voor de opname in de bedrijfstoeslag van de steun voor eiwithoudende gewassen, vermeld in artikel 2ter, tweede lid, van het besluit van de Vlaamse Regering van 8 juli 2005 tot instelling van een bedrijfstoeslagregeling en tot vaststelling van bepaalde steunregelingen voor landbouwers en tot toepassing van de randvoorwaarden.
+...
 
 ### ART. 2.
 
-De bevoegde entiteit bezorgt aan de betrokken landbouwer een overzicht van de referentiegegevens voor de integratie van de steun voor eiwithoudende gewassen in de bedrijfstoeslag met het formulier 'Overzicht van de referentiegegevens voor de integratie van de premie voor eiwithoudende gewassen in de bedrijfstoeslag', dat als bijlage 1 bij dit besluit is gevoegd.
+...
 
 ### ART. 3.
 
-De landbouwer vraagt de integratie van de ontkoppelde steun in de bedrijfstoeslagregeling aan door het formulier 'Aanvraag tot integratie van de premie voor eiwithoudende gewassen in de bedrijfstoeslag' in te dienen, dat als bijlage 4 bij dit besluit is gevoegd. De aanvrager stuurt dat formulier uiterlijk op 31 maart 2012 aangetekend naar de bevoegde entiteit of geeft het ingevulde formulier er af tegen ontvangstbewijs.
+...
 
 ### ART. 4.
 
-Als de landbouwer de meegedeelde referentiegegevens betwist, dient hij bij de bevoegde entiteit een aanvraag tot herziening in. Daarvoor gebruikt de landbouwer de formulieren die hem door de bevoegde entiteit ter beschikking worden gesteld. Hij stuurt de ingevulde formulieren uiterlijk op 31 maart 2012 aangetekend naar de bevoegde entiteit of geeft de ingevulde formulieren er af tegen ontvangstbewijs.<br />
+...
 
 ### ART. 5.
 
-De bevoegde entiteit staat een herziening van de referentiegegevens toe als voldaan is aan een van de uitzonderingscategorieën, vermeld in het tweede lid.<br /><br />De referentiegegevens kunnen alleen herzien worden bij de volgende uitzonderingscategorieën :<br />1° betwisting van referentiegegevens;<br />2° gevallen van onbillijkheid die toepasselijk zijn op de referentieperiode;<br />3° volledige of gedeeltelijke bedrijfsovername.
+...
 
 ### ART. 6.
 
-De landbouwer die de herziening van referentiegegevens van de steun voor eiwithoudende gewassen aanvraagt op basis van betwisting van referentiegegevens als vermeld in artikel 5, tweede lid, 1°, dient bij de bevoegde entiteit een aanvraag tot herziening in met het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij betwisting van de referentiegegevens en in gevallen van onbillijkheid', dat als bijlage 2 bij dit besluit is gevoegd, en hij vult daarvan de rubriek 'Betwisting van de referentiegegevens' in. Bij het formulier worden de bewijsstukken gevoegd die de betwisting ondersteunen.
+...
 
 ### ART. 7.
 
-De landbouwer kan de herziening van referentiegegevens van de steun voor eiwithoudende gewassen aanvragen op basis van de gevallen van onbillijkheid die van toepassing zijn op de referentieperiode,vermeld in artikel 5, tweede lid, 2°. <br /><br />Tot de gevallen van onbillijkheid, vermeld in artikel 5, tweede lid, 2°, behoren :<br />1° de landbouwer die in de loop van de referentieperiode voor het eerst met een landbouwactiviteit is begonnen en die voldoet aan de definitie, vermeld in artikel 2, l), van verordening (EG) nr. 1120/2009 van de Commissie van 29 oktober 2009 houdende bepalingen voor de uitvoering van de bedrijfstoeslagregeling waarin is voorzien bij titel III van Verordening (EG) nr. 73/2009 van de Raad tot vaststelling van gemeenschappelijke voorschriften inzake rechtstreekse steunverlening in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers;<br />2° de landbouwer die tijdens de referentieperiode te maken had met een overmachtsituatie of met uitzonderlijke omstandigheden.
+...
 
 ### ART. 8.
 
-De landbouwer, vermeld in artikel 7, tweede lid, 1°, kan een uitzondering op de algemene berekeningsregels aanvragen bij de bevoegde entiteit door in het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij betwisting van de referentiegegevens en in gevallen van onbillijkheid', dat als bijlage 2 bij dit besluit is gevoegd, in de rubriek 'Gevallen van onbillijkheid' het deel 'Bent u tijdens de referentieperiode 2005-2006 gestart met een landbouwactiviteit?' in te vullen.
+...
 
 ### ART. 9.
 
-§ 1. Ter uitvoering van artikel 31 van Verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van Verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van Verordening (EG) nr. 1782/2003 behoren de volgende situaties tot overmachtsituaties of uitzonderlijke omstandigheden als vermeld in artikel 7, tweede lid, 2° :<br />1° het overlijden van de landbouwer;<br />2° de langdurige arbeidsongeschiktheid van de landbouwer;<br />3° een ernstige natuurramp die het landbouwareaal in ernstige mate heeft beïnvloed.<br /><br />De landbouwer die valt onder een van de overmachtsituaties of uitzonderlijke omstandigheden, vermeld in het eerste lid, kan een uitzondering op de algemene berekeningsregels aanvragen door in het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij betwisting van de referentiegegevens en in gevallen van onbillijkheid', dat als bijlage 2 bij dit besluit gevoegd, in de rubriek 'Gevallen van onbillijkheid' het deel 'Bevond u zich tijdens de referentieperiode 2005-2006 in een situatie van overmacht of in uitzonderlijke omstandigheden?' en het deel 'Met welk geval van overmacht werd u geconfronteerd?' in te vullen.<br /><br />§ 2. Bij het overlijden van de landbouwer, vermeld in paragraaf 1, eerste lid, 1°, kunnen de erfgenamen vragen om de campagne die tijdens de referentieperiode door het overlijden nadelig werd beïnvloed, uit te sluiten uit de referentieperiode als er een nadelige invloed is op de steunbetalingen.<br /><br />Een nadelige invloed op de steunbetalingen als vermeld in het eerste lid, betekent dat tijdens de beïnvloede campagne 80 % of minder van de steun voor eiwithoudende gewassen ontvangen werd ten opzichte van de betalingen van de steun voor het niet-beïnvloede referentiejaar, rekening houdend met het eenheidsbedrag van de jaarlijkse steun. Als de bevoegde entiteit de herziening toestaat, worden alle steungegevens van de campagne in kwestie voor de berekening buiten beschouwing gelaten.<br /><br />De landbouwer voegt de akte van bekendheid bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid.<br /><br />§ 3. De landbouwer kan een herziening van de gemiddelde referentiegegevens aanvragen bij de bevoegde entiteit als een langdurige arbeidsongeschiktheid als vermeld in paragraaf 1, eerste lid, 2°, een significante invloed heeft gehad op de steunbetalingen van de referentieperiode.<br /><br />De landbouwer die beschikt over een attest van arbeidsongeschiktheid komt in aanmerking voor herziening als hij tijdens een campagne minder dan 50 % van de steun voor de eiwithoudende gewassen van het niet-beïnvloede referentiejaar heeft ontvangen, rekening houdend met het eenheidsbedrag van de jaarlijkse steun. De landbouwer voegt het attest van arbeidsongeschiktheid van het ziekenfonds of andere relevante medische attesten bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid.<br /><br />§ 4. De landbouwer die gedurende de referentieperiode werd geconfronteerd met een ernstige natuurramp die het landbouwareaal in ernstige mate heeft beïnvloed, als vermeld in paragraaf 1, eerste lid, 3°, kan vragen om daar rekening mee te houden.<br /><br />De herziening kan alleen worden toegestaan als tijdens de beïnvloede campagne minder dan 80 % van de steun voor eiwithoudende gewassen van het niet-beïnvloede referentiejaar ontvangen werd, rekening houdend met het eenheidsbedrag van de jaarlijkse premie.<br /><br />De landbouwer voegt bij de aanvraag die hij indient overeenkomstig paragraaf 1, tweede lid, kopieën van de geldige verslagen van de commissie tot vaststelling van schade aan teelten. Als de ingeroepen uitzonderlijke omstandigheid aanvaard wordt, bepaalt de bevoegde entiteit voor welke campagne de steun voor eiwithoudende gewassen kan worden uitgesloten voor de berekening van de referentiegegevens.
+...
 
 ### ART. 10.
 
-§ 1. De landbouwer die de herziening van referentiegegevens van eiwithoudende gewassen aanvraagt op basis van een volledige of gedeeltelijke bedrijfsovername als vermeld in artikel 5, tweede lid, 3°, dient bij de bevoegde entiteit het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername' in, dat als bijlage 3 bij dit besluit is gevoegd. Daardoor gaan de referentiegegevens volledig of gedeeltelijk over van de overlater op de overnemer.<br /><br />§ 2. Voor de toepassing van dit artikel wordt verstaan onder<br />1° feitelijke vererving : vererving, vastgelegd via de regels van het erfrecht;<br />2° verwachte vererving : overname of voortzetting binnen een familieverband tot derdegraadsverwantschap, binnen een huwelijk, binnen een samenlevingscontract, bij testament of bij schenking onder levenden.<br /><br />§ 3. Onder volledige bedrijfsovername als vermeld in paragraaf 1, worden de gevallen verstaan waarbij alle exploitaties van de overlater door een landbouwer zijn overgenomen tijdens of na de referentieperiode en tot en met 21 april 2012 door :<br />1° feitelijke of verwachte vererving;<br />2° naamsverandering of wijziging van juridische status;<br />3° fusie van twee of meer bedrijven.<br /><br />In de gevallen, vermeld in het eerste lid, vult de landbouwer die de referentiegegevens van de premie voor eiwithoudende gewassen van de oorspronkelijke uitbater wil overnemen, in het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername', dat als bijlage 3 bij dit besluit is gevoegd, de rubriek 'Volledige bedrijfsovername' in. Zowel de overlater als de overnemer ondertekent het formulier voor akkoord.<br /><br />§ 4. Gedeeltelijke bedrijfsovernames als vermeld in paragraaf 1, tijdens of na de referentieperiode en tot en met 21 april 2012 moeten aan een van de volgende voorwaarden voldoen :<br />1° de overnames of voortzettingen vinden plaats in het kader van feitelijke of verwachte vererving;<br />2° de overlater is actief op minstens een van de oorspronkelijke exploitatienummers of op een deel van de overgedragen exploitatie.<br /><br />Bij een gedeeltelijke bedrijfsovername kunnen de referentiegegevens van de overlater op aanvraag worden opgesplitst en verdeeld over de overnemers. Het overgedragen referentieareaal en het overgedragen referentiebedrag worden opgesplitst in onderlinge afspraak en de opsplitsing wordt aangegeven door in het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername', dat als bijlage 3 bij dit besluit is gevoegd, de rubriek 'Gedeeltelijke bedrijfsovername' in te vullen. Zowel de overlater als de overnemer ondertekent het formulier voor akkoord.
+...
 
 ### ART. 11.
 
-De landbouwer die in de loop van de referentieperiode voor het eerst met een landbouwactiviteit is begonnen als vermeld in artikel 7, tweede lid, 1°, en die de activiteit heeft opgestart via een overname van een bestaand landbouwbedrijf, kan een aanvraag tot herziening van de referentiegegevens indienen met het formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername', dat als bijlage 3 bij dit besluit is gevoegd.<br /><br />Als de landbouwer in het geval, vermeld in het eerste lid, zowel een formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij betwisting van de referentiegegevens en in gevallen van onbillijkheid' indient, waarin hij het deel 'Bent u tijdens de referentieperiode 2005-2006 gestart met een landbouwactiviteit?' invult, als een formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername' wordt alleen met het laatstgenoemde formulier rekening gehouden.
+...
 
 ### ART. 12.
 
-De bevoegde entiteit beslist of de aanvraag tot herziening van de referentiegegevens ontvankelijk en gegrond is.<br /><br />Als de aanvraag van de landbouwer wordt afgewezen, kan hij een gemotiveerd bezwaar richten tot de bevoegde entiteit. De landbouwer stuurt zijn bezwaar uiterlijk twintig dagen na de kennisgeving van de weigering tot herziening aangetekend naar de bevoegde entiteit.
+...
 
 ### ART. 13.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2012.
+...
 
 ### BIJLAGE
 
-Formulier 'Overzicht van de referentiegegevens voor de integratie van de premie voor eiwithoudende gewassen in de bedrijfstoeslag' als vermeld in artikel 2<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/06/11_1.pdf#page=34" title=" formulier referentiegegevens" target="_blank" class="pdf">formulier referentiegegevens</a>
+...
 
 ### BIJLAGE
 
-Formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie<br />voor eiwithoudende gewassen bij betwisting van de referentiegegevens en in gevallen van onbillijkheid'<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/06/11_1.pdf#page=35" title=" formulier herziening referentiegegevens" target="_blank" class="pdf">formulier herziening referentiegegevens</a> <br />
+...
 
 ### BIJLAGE
 
-Formulier 'Aanvraag tot herziening van de referentiegegevens voor de premie voor eiwithoudende gewassen bij volledige of gedeeltelijke bedrijfsovername'<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/06/11_1.pdf#page=38" title=" formulier herziening referentiegegevens" target="_blank" class="pdf">formulier herziening referentiegegevens</a>
+...
 
 ### BIJLAGE
 
-Formulier 'Aanvraag tot integratie van de premie<br />voor eiwithoudende gewassen in de bedrijfstoeslagregeling' als vermeld in artikel 3<br /><br /> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/06/11_1.pdf#page=41" title=" formulier integratie van de premie" target="_blank" class="pdf">formulier integratie van de premie</a>
+...
