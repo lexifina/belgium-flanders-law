@@ -2,36 +2,36 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° werken:<br /><br />a) de algehele beveiliging en stabiliteit van het monument, inzonderheid onderstuttingen, afschermingen, schoringen, verstevigingen, consolideringen, onderkappingen;<br /><br />b) de beveiliging van het monument tegen ongunstige weersomstandigheden en natuurrampen door: het dichten van daken, sluiten van muuropeningen, aanbrengen en herstellen van voorzieningen voor afwatering, goten en aflopen en rioleringen, beveiliging tegen insijpelingen, bestrijding van opstijgend grondwater, beveiliging tegen blikseminslag en stormschade;<br /><br />c) de behandeling van waardevolle elementen van het monument onder meer door verharding, houtworm- en zwambestrijding;<br /><br />d) het herstel van nog aanwezige waardevolle elementen van het monument;<br /><br />e) de vervanging van nog aanwezige elementen van het monument, die niet meer hersteld kunnen worden;<br /><br />f) het opnieuw aanbrengen van niet meer aanwezige waardevolle elementen;<br /><br />g) verwijderen van storende elementen, wegwerken van onoordeelkundige uitgevoerde ingrepen, wegwerken of aan het zicht onttrekken van misplaatste toevoegsels;<br /><br />h) beschermen van een publiek toegankelijk monument tegen intens gebruik door versteviging van vloerplaten, bijkomende stabiliteitswerken, aanbrengen van detectiesysteem, aanbrengen van isolatie ter voorkoming van condensatie;<br /><br />i) de beveiliging tegen brand, vandalisme en diefstal van het eventueel aanwezige kunstbezit eigen aan het monument;<br /><br />j) ingrepen die niet anders dan naar aanleiding van restauratie- en instandhoudingswerken kunnen uitgevoerd worden, die meerkosten met zich meebrengen omdat ze met omzichtigheid ten overstaan van het monument moeten uitgevoerd worden, mogelijke oorzaken van vernietiging, verval of abnormale slijtage wegnemen, inzonderheid het vervangen of aanbrengen van installaties voor centrale verwarming en elektriciteit en het uitvoeren van schilderwerken.<br /><br />Voor werken in verband met centrale verwarming en elektriciteit kunnen enkel de bouwkundige werken en de basisinstallatie gesubsidieerd worden, met uitsluiting van toestellen en armaturen;<br /><br />k) dringende voorlopige instandhouding van het monument, wanneer gevaar bestaat voor verder en snel verval, in afwachting dat kan begonnen worden met de eigenlijke werken;<br /><br />l) de studie(s) vereist voor het opmaken van een definitief dossier, inzonderheid historisch onderzoek, stabiliteitsberekeningen, geo-technisch onderzoek, proefkappingen, laboratoriumproeven, drukkings- en weerstandproeven plaatsen van voorlopige stellingen.<br /><br />2° regionale of lokale besturen: een gemeente, een vereniging van gemeenten, een openbaar centrum voor maatschappelijk welzijn, een intercommunaal centrum voor maatschappelijk welzijn, een provincie, een polder, een watering, een vereniging van polders en wateringen, een bisschoppelijk seminarie, een kerkfabriek en elke andere rechtspersoon die voor de uitoefening van een openbare eredienst of voor verenigingen van vrijzinnigen onroerende goederen beheert;<br /><br />3° subsidie: de bijdragen in de kostenverdeling overeenkomstig het besluit van de Vlaamse regering van 1 juli 1982 tot bepaling voor het Nederlandse taalgebied van de verdeling der kosten voor werken aan beschermde monumenten, andere dan gebouwen bestemd voor een erkende eredienst, seminaries en pastorieën of het besluit van de Vlaamse regering van 4 juli 1984 tot bepaling voor het Nederlandse taalgebied van de verdeling der kosten voor werken aan beschermde monumenten bestemd voor een erkende eredienst, seminaries en pastorieën.
+...
 
 ### ART. 2.
 
-§ 1. Om in aanmerking te komen voor een subsidie voor werken aan beschermde monumenten, uitgevoerd door of op initiatief van regionale of lokale besturen, moeten de subsidie-aanvragen voor werken waarvan het ontwerpdossier werd ingediend vóór 1 januari 1992 en waarvoor op deze datum nog geen subsidie werd vastgelegd, geactualiseerd worden en opnieuw als ontwerpdossier ingediend.<br /><br />§ 2. Bij de actualisering dient ondermeer gestreefd te worden naar:<br /><br />a) het faseren van de werken waarbij prioriteit moet worden verleend aan die fasen en ingrepen die het verval van het monument stopzetten;<br /><br />b) het toepassen van zachte restauratietechnieken;<br /><br />c) de aanwending van hydrofuge en verhardingstechnieken in de plaats van de vervanging van oude materialen;<br /><br />d) de aanwending van bijzonder kunstambachtelijk vakmanschap voor de behandeling van het cultuurbezit van de monumenten.
+...
 
 ### ART. 3.
 
-Voor de bepaling van de maximumwaarde van de subsidieerbare uitgaven worden de prijsherzieningen die het gevolg zijn van de stijging van lonen, sociale lasten en materialenprijzen, de bijkomende werken en het positief saldo van de meer- en minwerken uitgesloten.<br /><br />De toegekende subsidie wordt forfaitair vastgesteld en kan niet verhoogd worden.
+...
 
 ### ART. 4.
 
-§ 1. Voor de uitkering van de subsidies, kunnen voorschotten worden verstrekt.<br /><br />§ 2. De voorschotten worden betaalbaar gesteld ten belope van:<br /><br />a) een eerste schijf van 25 % van de subsidies bij de aanvang der werken zoals bepaald in het aanvangsbevel;<br /><br />b) een tweede schijf van 50 % van de subsidies bij het voorleggen van de stavingsstukken dat het gesubsidieerde gedeelte van de werken is uitgevoerd voor een bedrag (exclusief prijsherzieningen) dat 50 % overschrijdt van het subsidieerbaar gedeelte van de goedgekeurde inschrijving van de aannemer;<br /><br />§ 3. Het saldo van de subsidie (maximaal 25 %) wordt uitbetaald op zicht van het proces-verbaal van voorlopige oplevering en van de eindafrekening, wanneer is vastgesteld dat de werken volgens de regels van de kunst zijn uitgevoerd.<br /><br />De uitbetaling van het saldo van de subsidie wordt, voor wat betreft het Vlaamse Gewest, onderworpen aan het voorafgaande visum van het Rekenhof, met mededeling van de reeds verleende voorschotten.<br /><br />§ 4. De krachtens dit artikel verleende voorschotten mogen niet aangewend worden voor enig ander oogmerk dan dit waarvoor de subsidie werd verleend. Bij niet-naleving van deze bepaling wordt de subsidie vervallen verklaard en wordt overgegaan tot de terugvordering van de reeds uitbetaalde voorschotten, vermeerderd met de wettelijke interest.
+...
 
 ### ART. 5.
 
-§ 1. Dit besluit is van toepassing op werken waarvoor de subsidiëringskredieten werden vastgelegd na de inwerkingtreding van dit besluit.<br /><br />§ 2. De subsidies voor de werken waarvoor de kredieten werden vastgelegd vóór de inwerkingtreding van dit besluit en waarvoor op dat ogenblik nog geen betalingsaanvragen ingediend zijn, kunnen eveneens met de toepassing van in artikel 3 van dit besluit bepaalde regeling worden uitbetaald mits het betrokken regionaal of lokaal bestuur daarom verzoekt en afziet van de subsidiëring van meerwerken, bijkomende werken en contractuele herzieningen zoals bedoeld in artikel 4, § 4, a van het besluit van de Vlaamse regering van 1 juli 1982 en artikel 3, § 5, a van het besluit van de Vlaamse regering van 4 juli 1984 en mits de provincie die bijdraagt in de kostenverdeling, zich akkoord verklaart.
+...
 
 ### ART. 6.
 
-De aanvragen tot het bekomen van de voorschotten en het saldo worden ingediend bij het betrokken provinciebestuur, die ze na nazicht doorstuurt naar het bestuur Monumenten en Landschappen.
+...
 
 ### ART. 7.
 
-(niet opgenomen)<br /><br />(Wijzigt art. 4 van het besluit van de Vlaamse regering van 18 december 1991 houdende vaststelling van de procedure inzake de subsidiëring van werken aan beschermde monumenten, die door of op initiatief van regionale of lokale besturen worden uitgevoerd)
+...
 
 ### ART. 8.
 
-Dit besluit treedt in werking de dag waarop het in het Belgisch Staatsblad wordt bekendgemaakt.
+...
 
 ### ART. 9.
 
-De Vlaamse minister van Verkeer, Buitenlandse Handel en Staatshervorming is belast met de uitvoering van dit besluit.
+...

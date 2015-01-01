@@ -2,16 +2,16 @@
   "codex_id": 1001840,
   "title": "Besluit van de Vlaamse Regering van 1992-07-08 tot vaststelling van de modaliteiten voor de toekenning en uitbetaling van de subsidies voor werken aan beschermde monumenten die door of op initiatief van regionale of lokale besturen worden uitgevoerd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001840/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "1e62d3fd12f864035a8d2b6642cfdb2b0df3855b9be30b9ab421ed7a4ed0158b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001840/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "8c135f1cf9a838ad948e1bab1b5df2a2e22be622f119465902e804676ad2a36a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001840&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "1992-07-08",
   "gazette": "1992-08-13",
   "numac": 1992035847,
   "document_start": "1992-08-13",
   "document_end": "2014-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2015-01-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
