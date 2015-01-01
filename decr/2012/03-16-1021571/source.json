@@ -2,16 +2,16 @@
   "codex_id": 1021571,
   "title": "Decreet van 2012-03-16 betreffende het economisch ondersteuningsbeleid",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021571/VolledigDocument?datum=2012-08-26",
-  "source_sha256": "c99786e3c6c3f3cd8b61802e51bff01d1ce861634acecdc4b35b822e19d7cf86",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021571/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "405fe120d8d9675096cb844d6c9aa6c51a32df96d66b33cdc7f97aeca45d66e9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021571&param=informatie",
-  "as_of": "2012-08-26",
+  "as_of": "2015-01-01",
   "made": "2012-03-16",
   "gazette": "2012-04-27",
   "numac": 2012202237,
   "document_start": "2012-05-07",
   "document_end": null,
-  "in_force": "2012-08-26",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2012-08-26; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 43,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
