@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024929,
+  "title": "Ministerieel besluit van 2015-01-09 tot wijziging van het ministerieel besluit van 18 mei 2010 houdende delegatie van sommige bevoegdheden inzake onderwijs aan de inspecteur-generaal, wat betreft enkele aspecten naar aanleiding van een ongunstig advies en de rapportering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024929/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "419600c98dc5cdb6b54e3988a061e6fc0b04e175b1894d16a3b3ac92af2f9ec3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024929&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-01-09",
+  "gazette": "2015-01-28",
+  "numac": 2015035075,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
