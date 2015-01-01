@@ -8,7 +8,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° besluit van de Vlaamse Regering   van 4 juli 2014: het besluit van de Vlaamse Regering van 4 juli 2014 houdende de   voorwaarden voor de erkenning en de subsidie van gemandateerde voorzieningen,   coördinatiepunten en flexibele opvangpools van doelgroepwerknemers, en de   voorwaarden voor de toestemming en de subsidie van lokale diensten buurtgerichte   buitenschoolse opvang, en de voorwaarden voor een aanvullende subsidie voor   organisatoren met een vergunning groepsopvang en een plussubsidie;<BR>2°   ministerieel besluit van 23 mei 2014: het ministerieel besluit van 23 mei 2014   tot uitvoering van het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014   en tot wijziging van artikel 5 van het ministerieel besluit van 27 februari 2014   ter uitvoering van artikel 8, 11, 40, 43 en 73, van het Vergunningsbesluit van   22 november 2013, wat betreft de kwalificatiebewijzen en   attesten.<BR>
+...
 
 ## HOOFDSTUK 2 Lokale dienst
 
@@ -16,26 +16,26 @@ In dit besluit wordt verstaan onder:<BR>1° besluit van de Vlaamse Regering   va
 
 ### ART. 2.
 
-Het kwalificatiebewijs, vermeld in artikel 58, eerste lid, 3°, van het   besluit van de Vlaamse Regering van 4 juli 2014, is een van de   kwalificatiebewijzen, vermeld in artikel 3 van het ministerieel besluit van 23   mei 2014.<BR>
+...
 
 ## Afdeling 2 Kinderbegeleider
 
 ### ART. 3.
 
-Het attest van kennis van levensreddend handelen bij kinderen, vermeld in   artikel 60, eerste lid, 4°, van het besluit van de Vlaamse Regering van 4 juli   2014, is een attest als vermeld in artikel 2 van het ministerieel besluit van 23   mei 2014.<BR>
+...
 
 ### ART. 4.
 
-Het kwalificatiebewijs, vermeld in artikel 60, eerste lid, 5°, van het   besluit van de Vlaamse Regering van 4 juli 2014, is een kwalificatiebewijs als   vermeld in artikel 5 van het ministerieel besluit van 23 mei   2014.<BR>
+...
 
 ## Afdeling 3 Doelgroepwerknemer
 
 ### ART. 5.
 
-&nbsp;Het attest van kennis van levensreddend handelen bij kinderen,   vermeld in artikel 62, eerste lid, 3°, van het besluit van de Vlaamse Regering   van 4 juli 2014, is het attest, vermeld in artikel 3 van dit   besluit.<BR>
+...
 
 ## HOOFDSTUK 3 Slotbepaling
 
 ### ART. 6.
 
-Dit besluit heeft uitwerking met ingang van 1 april 2014 en houdt op   uitwerking te hebben op 31 december 2014.<BR>
+...
