@@ -115,11 +115,11 @@ De administrateur-generaal kent aan een SEL een jaarlijkse subsidie toe binnen d
 
 ### ART. 20.
 
-§ 1. De subsidie voor een SEL, vermeld in artikel 19 bedraagt 60.000 euro per werkingsjaar, vermeerderd met 0,20 euro per inwoner van het werkgebied van een SEL.<br /><br />§ 2. Het aantal inwoners van het werkgebied van een SEL wordt, voor de toepassing van dit besluit, bepaald volgens de gegevens van het agentschap over het werkingsjaar dat voorafgaat aan het werkingsjaar waarop de subsidie betrekking heeft.<br /><br />Voor het tweetalig gebied Brussel-Hoofdstad worden 300.000 inwoners in rekening gebracht.<br /><br />
+§ 1. De subsidie voor een SEL, vermeld in artikel 19 bedraagt 69.031,87   euro (negenenzestigduizend eenendertig euro zevenentachtig cent) per   werkingsjaar, vermeerderd met 0,2133 euro per inwoner van het werkgebied van een   SEL.<BR><BR>§ 2. Het aantal inwoners van het werkgebied van een SEL wordt, voor   de toepassing van dit besluit, bepaald volgens de gegevens van het agentschap   over het werkingsjaar dat voorafgaat aan het werkingsjaar waarop de subsidie   betrekking heeft.<BR><BR>Voor het tweetalig gebied Brussel-Hoofdstad worden   300.000 inwoners in rekening gebracht.<BR><BR>
 
 ### ART. 21.
 
-Het bedrag, vermeld in artikel 20, § 1, wordt vanaf het werkingsjaar 2011 jaarlijks op 1 januari geïndexeerd volgens de volgende formule : <br />geïndexeerd bedrag = subsidiebedrag X gezondheidsindex november x-1 / gezondheidsindex januari 2010<br />waarbij : <br />1° x = het werkingsjaar waarop de subsidie betrekking heeft;<br />2° subsidiebedrag = subsidie, vermeld in artikel 20, § 1.<br /><br />
+De bedragen, vermeld in artikel 20, § 1, worden vanaf het werkingsjaar   2016 jaarlijks op 1 januari geïndexeerd volgens de volgende formule   :<BR>geïndexeerd bedrag = subsidiebedrag X gezondheidsindex november x-1 /   gezondheidsindex november x-2,<BR>waarbij:<BR>1° x = het werkingsjaar waarop de   subsidie betrekking heeft;<BR>2° subsidiebedrag = de bedragen, vermeld in   artikel 20, § 1;<BR>3° gezondheidsindex: het prijsindexcijfer dat berekend en   benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende   sociale bepalingen.<BR>
 
 ### ART. 22.
 
@@ -171,7 +171,7 @@ De minister bepaalt welke gegevens minstens geregistreerd moeten worden om de op
 
 ### ART. 30.
 
-Het agentschap wordt belast met het toezicht op een SEL. Om het toezicht uit te oefenen, kan het agentschap : <br />1° indien nodig, aanvullende gegevens aan een SEL vragen;<br />2° bij een SEL of een kleinstedelijke afdeling van een SEL een inspectie laten verrichten door het Agentschap Zorginspectie, opgericht bij het besluit van de Vlaamse Regering van 26 maart 2004 tot oprichting van het intern verzelfstandigd agentschap Zorginspectie.<br /><br />
+Het agentschap wordt belast met het toezicht op een SEL. Om het toezicht   uit te oefenen, kan het agentschap : <BR>1° indien nodig, aanvullende gegevens   aan een SEL vragen;<BR>2° bij een SEL of een kleinstedelijke afdeling van een   SEL een inspectie laten verrichten door Zorginspectie van het Departement   Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het   besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement   Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van   regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn,   Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met   betrekking tot dat beleidsdomein.<BR><BR>
 
 ## HOOFDSTUK X Wijzigingsbepalingen
 
