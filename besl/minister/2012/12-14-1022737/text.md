@@ -16,7 +16,7 @@ In afwijking van het eerste lid wordt het minimum aantal leden voor producenteng
 
 ### ART. 3.
 
-<P>Het Departement Landbouw en Visserij wordt aangewezen als bevoegde dienst   voor het vervullen van de taken, vermeld in artikel 20, 1° en 7°, van het   besluit van de Vlaamse Regering van 14 december 2012. Het hoofd van het   departement kan een afdeling aanwijzen als bevoegde entiteit voor het vervullen   van de taken.<BR></P>  <P>Het Agentschap voor Landbouw en Visserij wordt aangewezen als bevoegde dienst   voor het vervullen van de taken, vermeld in artikel 20, 2°, 3°, 4°, 5 °, 6° en   8°, van het voormelde besluit.</P>
+<P>...</P>
 
 ### ART. 4.
 
