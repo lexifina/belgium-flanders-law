@@ -2,16 +2,16 @@
   "codex_id": 1014231,
   "title": "Besluit van de Vlaamse Regering van 2005-12-16 houdende de reglementering van de handel in en van de keuring van groentezaad en zaad van cichorei voor de industrie",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014231/VolledigDocument?datum=2014-03-31",
-  "source_sha256": "31e31f787baf0fa1974d2f4577838328871184c0b6ae85506c12e223594d1ac2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014231/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "54ccc17a9d3c1361d304c502f7f3f766af91db28093c9582bbd5fdb4322c4c79",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014231&param=informatie",
-  "as_of": "2014-03-31",
+  "as_of": "2015-01-01",
   "made": "2005-12-16",
   "gazette": "2006-01-27",
   "numac": 2006035044,
   "document_start": null,
   "document_end": null,
-  "in_force": "2014-03-31",
-  "article_versions": 41,
-  "record_form": "consolidated version as in force on 2014-03-31; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

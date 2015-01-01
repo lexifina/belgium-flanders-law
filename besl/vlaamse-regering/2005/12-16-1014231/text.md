@@ -409,7 +409,7 @@ c) 100 g voor alle andere groentesoorten en cichorei voor de industrie;<br>
 <br>
 9° minister: de Vlaamse minister, bevoegd voor het Landbouwbeleid;<br>
 <br>
-10° bevoegde entiteit: het Agentschap voor Landbouw en Visserij van het Vlaams ministerie van Landbouw en Visserij;<br>
+10° bevoegde entiteit: het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
 <br>
 11° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik.<br>
 <br>
@@ -418,6 +418,10 @@ Onder « in de handel brengen » wordt niet verstaan de handel in zaaizaad die n
 Onder « in de handel brengen » wordt niet verstaan het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van diensten voor de productie van bepaalde landbouwgrondstoffen voor industriële doeleinden, of voor vermeerdering van zaaizaad voor dat doel, voorzover de verlener van diensten geen rechten op het geleverde zaaizaad verwerft, noch op het product van de oogst. De leverancier van het zaaizaad verstrekt de certificeringsdienst een afschrift van de delen in kwestie van het contract met de dienstverlener, en daarin wordt vermeld aan welke normen en voorwaarden het verstrekte zaaizaad op dat moment voldoet.<br>
 <br>
 De voorwaarden voor de uitvoering van deze bepalingen worden vastgesteld door de minister overeenkomstig de beslissingen van de instellingen van de Europese Gemeenschap.</p>
+
+### ART. 1/1.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde   entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
@@ -429,7 +433,7 @@ Dit besluit is niet van toepassing op:<br /><br />1° zaaizaad, bestemd voor uit
 
 ### ART. 3.
 
-§ 1. Zaad van industriële cichorei mag alleen in de handel worden gebracht als:<br /><br />1° het gaat om officieel goedgekeurd prebasiszaad, basiszaad of gecertificeerd zaad;<br /><br />2° het voldoet aan de voorwaarden, gesteld in bijlage II van dit besluit;<br /><br />3° het behoort tot een ras dat voorkomt in de nationale catalogi voor landbouwgewassen en groentegewassen, vastgesteld ter uitvoering van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen, of op de gemeenschappelijke rassenlijst voor landbouwgewassen.<br /><br />§ 2. Zaad van andere groentegewassen dan industriële cichorei mag alleen in de handel worden gebracht als:<br /><br />1° het gaat om officieel goedgekeurd prebasiszaad, basiszaad of gecertificeerd zaad, of als het behoort tot de categorie standaardzaad;<br /><br />2° het voldoet aan de voorwaarden, gesteld in bijlage II van dit besluit;<br /><br />3° het behoort tot een ras dat voorkomt in de nationale catalogi voor landbouwgewassen en groentegewassen, vastgesteld ter uitvoering van het koninklijk besluit van 8 juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en groentegewassen, of op de gemeenschappelijke rassenlijst voor landbouwgewassen.<br /><br />§ 3. In afwijking van de bepalingen van § 1 en § 2 is de handel in niet-bewerkt zaad met het oog op zijn bewerking toegestaan, voorzover de identiteit ervan officieel gewaarborgd is.
+§ 1. Zaad van industriële cichorei mag alleen in de handel worden gebracht   als:<BR>1° het gaat om officieel goedgekeurd prebasiszaad, basiszaad of   gecertificeerd zaad;<BR>2° het voldoet aan de voorwaarden, gesteld in bijlage II   van dit besluit;<BR>3° het behoort tot een ras dat voorkomt in de nationale   catalogi voor landbouwgewassen en groentegewassen, vastgesteld ter uitvoering   van het koninklijk besluit van 8 juli 2001 betreffende de nationale   rassencatalogi voor landbouwgewassen en groentegewassen, of op de   gemeenschappelijke rassenlijst voor groentegewassen.<BR><BR>§ 2. Zaad van andere   groentegewassen dan industriële cichorei mag alleen in de handel worden gebracht   als:<BR>1° het gaat om officieel goedgekeurd prebasiszaad, basiszaad of   gecertificeerd zaad, of als het behoort tot de categorie standaardzaad;<BR>2°   het voldoet aan de voorwaarden, gesteld in bijlage II van dit besluit;<BR>3° het   behoort tot een ras dat voorkomt in de nationale catalogi voor landbouwgewassen   en groentegewassen, vastgesteld ter uitvoering van het koninklijk besluit van 8   juli 2001 betreffende de nationale rassencatalogi voor landbouwgewassen en   groentegewassen, of op de gemeenschappelijke rassenlijst voor   groentegewassen.<BR><BR>§ 3. In afwijking van de bepalingen van § 1 en § 2 is de   handel in niet-bewerkt zaad met het oog op zijn bewerking toegestaan, voorzover   de identiteit ervan officieel gewaarborgd is.
 
 ### ART. 4.
 
