@@ -2,16 +2,16 @@
   "codex_id": 1021797,
   "title": "Besluit van de Vlaamse Regering van 2012-03-16 betreffende aspecten van het Vlaams bevolkingsonderzoek naar borstkanker",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021797/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "c08a798457d5cfb24e8c44771121bd7e7b76b15e25592d652ff80b787c85e424",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021797/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "6240df9fb682f1dedf8bab37383ae81ea7fa3d7e8c10df6fabdc910e9c8dd7b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021797&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2012-03-16",
   "gazette": "2012-06-07",
   "numac": 2012035563,
   "document_start": "2012-04-02",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 51,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
