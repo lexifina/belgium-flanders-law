@@ -66,6 +66,10 @@ De verbindingsdienst of het bevoegde personeelslid die of dat een verzoek   om s
 
 ## [Onderafdeling 1 Verplichte automatische uitwisseling van inlichtingen voor de bevoegde autoriteit (ing. decr. 26 juni 2020, art. 8, I: 1 juli 2020)]
 
+### ART. 11.
+
+<P>Met betrekking tot belastbare tijdperken vanaf 1 januari 2014 verstrekt de   bevoegde autoriteit alle buitenlandse autoriteiten automatisch de inlichtingen   waarover zij ten aanzien van de ingezetenen van die andere lidstaat beschikt   inzake de volgende specifieke inkomsten- en vermogenscategorieën, op te vatten   in de zin van de Belgische wetgeving :<BR>a) bezoldigingen van werknemers;<BR>b)   bezoldigingen van bedrijfsleiders;<BR>c) levensverzekeringsproducten die niet   vallen onder andere uniale rechtsinstrumenten inzake de uitwisseling van   inlichtingen noch onder soortgelijke voorschriften;<BR>d) pensioenen;<BR>e)   eigendom en inkomen van onroerende goederen.<BR></P>  <P>De inlichtingen worden ten minste eenmaal per jaar verstrekt, binnen zes   maanden na het verstrijken van het kalenderjaar in de loop waarvan de   inlichtingen beschikbaar zijn geworden.<BR></P>
+
 ## [Onderafdeling 2 Verplichte automatische uitwisseling van inlichtingen over meldingsplichtige grensoverschrijdende constructies voor intermediairs of relevante belastingplichtigen (ing. decr. 26 juni 2020, art. 10, I: 1 juli 2020)]
 
 ## Afdeling 3 Spontane uitwisseling van inlichtingen
