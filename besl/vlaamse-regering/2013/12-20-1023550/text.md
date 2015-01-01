@@ -146,9 +146,17 @@ In artikel 14/2 van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaams
 
 In artikel 4, § 1, van het besluit van de Vlaamse Regering van 5 juni 2009   betreffende de procedures voor woonzorgvoorzieningen en verenigingen van   gebruikers en mantelzorgers, gewijzigd bij het besluit van de Vlaamse Regering   van 12 oktober 2012, wordt tussen het eerste en het tweede lid een lid   ingevoegd, dat luidt als volgt:<BR>"Een aanvraag voor de erkenning van een   centrum voor kortverblijf of voor een woonzorgcentrum, of voor een onderdeel   ervan, is bovendien alleen ontvankelijk als de aanvraag wordt ingediend in het   trimester waarin ze moet worden ingediend volgens de voorafgaande vergunning   voor het centrum.".
 
+### ART. 21.
+
+Aan artikel 7 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 25 februari 2011 en 21 december 2012, wordt een vijfde lid   toegevoegd, dat luidt als volgt:<BR>"Een centrum voor kortverblijf of een   woonzorgcentrum, of een onderdeel ervan, kan alleen worden erkend als het past   binnen de voorziene begrotingskredieten. De Vlaamse Regering bepaalt jaarlijks   het maximaal aantal te erkennen woongelegenheden in die centra.".
+
 ### ART. 22.
 
 Aan artikel 10 van hetzelfde besluit wordt een tweede lid toegevoegd, dat   luidt als volgt:<BR>"Een aanvraag tot voorlopige erkenning van een centrum voor   kortverblijf of van een woonzorgcentrum, of van een onderdeel ervan, is   bovendien alleen ontvankelijk als de aanvraag wordt ingediend in het trimester   waarin ze moet worden ingediend volgens de voorafgaande vergunning voor het   centrum.".
+
+### ART. 23.
+
+Aan artikel 12 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse Regering van 25 februari 2011, wordt een derde lid toegevoegd, dat luidt   als volgt:<BR>"Een centrum voor kortverblijf of een woonzorgcentrum, of een   onderdeel ervan, kan alleen voorlopig worden erkend als het past binnen de   voorziene begrotingskredieten. De Vlaamse Regering bepaalt jaarlijks het   maximale aantal te erkennen woongelegenheden in die centra.".
 
 ## HOOFDSTUK 5. Slotbepalingen
 
