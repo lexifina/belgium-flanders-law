@@ -2,16 +2,16 @@
   "codex_id": 1013277,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot oprichting van het agentschap Vlaamse Belastingdienst",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013277/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "36aa201487bf522235977c9b68bc28b1f1b94814d3a2c3fd13e82e1bdc47838d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013277/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "58ba917846c87942466c41ee8966c7a0d55c0ba48e5a747f6076439cd26f3512",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013277&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2015-01-01",
   "made": "2004-06-11",
   "gazette": "2004-07-27",
   "numac": 2004036227,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2006-07-01",
+  "in_force": "2015-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
