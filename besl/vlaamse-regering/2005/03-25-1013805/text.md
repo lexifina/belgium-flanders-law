@@ -7,7 +7,8 @@
 <p>§ 1. Voor de toepassing van dit besluit, wordt verstaan onder:<br>
 <br>
 1° groenvoedergewassen : de gewassen en kiemen van de volgende geslachten en soorten :<br>
-&nbsp;</p>
+<br>
+</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
@@ -751,7 +752,7 @@ De personen, genoemd onder 11°, b) en c), mogen geen bijzonder voordeel ontlene
 <br>
 12° de minister: de Vlaamse minister, bevoegd voor het landbouwbeleid;<br>
 <br>
-13° bevoegde entiteit : het Agentschap voor Landbouw en Visserij;<br>
+13° bevoegde entiteit : het Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij;<br>
 <br>
 14° in de handel brengen: de verkoop, het bezit met het oog op de verkoop, het aanbieden voor verkoop en iedere beschikbaarstelling, levering of overdracht van zaaizaad aan derden, tegen of zonder vergoeding, met het oog op commercieel gebruik. Onder in de handel brengen, wordt niet verstaan:<br>
 a) de handel in zaaizaad die niet is gericht op commercieel gebruik van het ras, zoals de volgende handelingen:<br>
@@ -762,6 +763,10 @@ b) het leveren van zaaizaad onder bepaalde voorwaarden aan verleners van dienste
 De voorwaarden voor de uitvoering van de bepalingen, bedoeld in het tweede lid, b) worden vastgesteld door de minister, overeenkomstig de beslissingen van de instellingen van de Europese Unie.<br>
 <br>
 § 2. ...</p>
+
+### ART. 1/2.
+
+Het hoofd van de bevoegde entiteit kan de aangelegenheden die conform dit besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van de bevoegde entiteit vallen, subdelegeren aan personeelsleden van de bevoegde entiteit die onder zijn hiërarchisch gezag staan, tot op het meest functionele niveau.
 
 ### ART. 2.
 
