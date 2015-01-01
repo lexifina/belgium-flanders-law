@@ -98,6 +98,10 @@ In artikel 63 van hetzelfde besluit, gewijzigd bij het besluit van de   Vlaamse 
 
 <P>In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt een hoofdstuk VII/2, dat bestaat uit artikel   78/2, ingevoegd, dat luidt als volgt:<BR>Hoofdstuk VII/2 Opsporing van   misdrijven.<BR></P>  <P>Art. 78/2. De minister kan personeelsleden van de afdeling, bevoegd voor de   handhaving van het milieubeheerrecht, aanwijzen als officier van gerechtelijke   politie of als officier van gerechtelijke politie, hulpofficier van de procureur   des Konings.<BR></P>  <P>De minister kan aan personeelsleden van de afdeling, bevoegd voor   milieuhandhaving, de hoedanigheid toekennen van officier van gerechtelijke   politie, hulpofficier van de procureur des Konings, voor zover ze niet werden   aangewezen als gewestelijke toezichthouders overeenkomstig artikel 12.<BR></P>  <P>De gewestelijke milieuopsporingsambtenaren van de afdeling, bevoegd voor de   handhaving van het milieubeheerrecht, zijn bevoegd om milieumisdrijven op te   sporen en vast te stellen met betrekking tot de regelgeving vermeld in artikel   25 van dit besluit.".<BR></P>
 
+### ART. 24.
+
+&nbsp;In hetzelfde besluit, het laatst gewijzigd bij het besluit van de   Vlaamse Regering van 15 maart 2013, wordt bijlage III vervangen door bijlage 1,   die bij dit besluit is gevoegd.<BR>
+
 ### ART. 25.
 
 In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse   Regering van 15 maart 2013, wordt bijlage VII vervangen door bijlage 2, die bij   dit besluit is gevoegd.<BR>
