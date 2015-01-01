@@ -2,16 +2,16 @@
   "codex_id": 1021587,
   "title": "Ministerieel besluit van 2012-03-16 houdende het instellen van een regelluw kader voor het project Zorgvernieuwing Pegode",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021587/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "b8cffd5e2be808909a2d51979999c3f90d409e12261f59163236c176cf06e12d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021587/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "38a4dfd904fd6360cf71b4595e943176a2e4a19666a0ace4659b77ae1046c4bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021587&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2015-01-01",
   "made": "2012-03-16",
   "gazette": "2012-04-27",
   "numac": 2012202140,
   "document_start": "2012-01-01",
   "document_end": "2014-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2012-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
