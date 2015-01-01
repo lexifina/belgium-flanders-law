@@ -40,7 +40,7 @@ De Vlaamse regering zal een overeenkomst afsluiten met de BEVAK waarin deze laat
 
 ### ART. 9.
 
-De erkende vennootschap houdt onder toezicht van het Vlaamse Gewest een register bij van de houders van haar maatschappelijke rechten. Dit register bevat minstens de volgende gegevens:<br /><br />- volledige identiteit (naam en adres) van de houder (inschrijver/volstorter, of latere verkrijger);<br /><br />- volledige identiteit van de echtgenoot;<br /><br />- bedrag van de volstorting;<br /><br />- datum van onderschrijving, volstorting of latere verkrijging;<br /><br />- gekapitaliseerd bedrag van de periodieke inkomsten toegekend aan de gehouden rechten;<br /><br />- datum en bedrag waarvoor een onder artikel 11 bedoeld attest uitgereikt werd.
+De erkende vennootschap houdt onder toezicht van het Vlaamse Gewest een   register bij van de houders van haar maatschappelijke rechten. Dit register   bevat minstens de volgende gegevens:<BR>- volledige identiteit (naam en adres)   van de houder (inschrijver/volstorter, of latere verkrijger);<BR>- volledige   identiteit van de echtgenoot;<BR>- bedrag van de volstorting;<BR>- datum van   onderschrijving, volstorting of latere verkrijging;<BR>- gekapitaliseerd bedrag   van de periodieke inkomsten toegekend aan de gehouden rechten;<BR>- datum en   bedrag waarvoor een onder artikel 2.7.6.0.1, § 4, van de Vlaamse Codex   Fiscaliteit van 13 december 2013 bedoeld attest uitgereikt werd.
 
 ### ART. 10.
 
@@ -48,21 +48,21 @@ In afwijking van artikel 9 kan, mits de overeenkomst als bedoeld in artikel 8 da
 
 ### ART. 11.
 
-[Op verzoek van de houder of van zijn rechtverkrijgenden, wordt een attest uitgereikt dienstig voor het verkrijgen van de vrijstellling van de successierechten. Dit attest wordt - in de vorm vastgesteld bij de in artikel 8 genoemde overeenkomst - slechts uitgereikt voor maatschappelijke rechten waarop, op de datum van het openvallen van de nalatenschap wegens het overlijden van de houder van de rechten of zijn echtgenoot, minstens vijf jaar vóór het overlijden van de houder ingeschreven werd en die reeds drie jaar volgestort werden.<br /><br />Met inschrijving wordt gelijkgesteld de verwerving op een andere wijze uiterlijk in het jaar 2005, van maatschappelijke rechten in een door de Vlaamse regering erkende BEVAK. Dit houdt tevens in dat een verwerving na het jaar 2005, met uitzondering van verkrijiging onder echtgenoten en erfgenamen in de eerste graad waarbij geen vrijkstelling van de successierechten verworven werd, nooit aanleiding kan geven tot vrijstelling van de successierechten.<br /><br />Het attest vermeldt de bedragen waarvan sprake in artikiel 12 met betrekking tot het geheel van de maatschappelijke rechten die voor een hele of gedeeltelijke vrijstelling in aanmerking komen.<br /> <span class="reference">(verv. B.V.R. 10 oktober 1995, art.2, I: 10 oktober 1995)</span> ]
+<P>...</P>
 
 ## HOOFDSTUK IV BEPALINGEN MET BETREKKING TOT DE BEREKENING VAN HET VRIJSTELBAAR BEDRAG EN MET BETREKKING TOT HET VERLENEN EN VERKRIJGEN VAN DE VRIJSTELLING
 
 ### ART. 12.
 
-[Het vrijstelbare bedrag in de successierechten is gelijk aan het kleinste van de volgende bedragen:<br /><br />- de beurswaarde van de maatschappelijke rechten waarvoor een attest gevraagd wordt, verhoogd met het gekapitaliseerde bedrag van de periodieke netto inkomsten (na belasting) toegewezen aan de rechten die voor de vrijstelling in aanmerking komen met betrekking tot de periode waarvoor de Vlaamse regering de emitterende BEVAK erkende.<br /><br />- het bedrag van de volstorting van de maatschappelijke rechten waarvoor een attest gevraagd wordt, verhoogd met het gekapitaliseerde bedrag van de periodieke netto inkomsten (na belasting) toegewezen aan de rechten die voor de vrijstelling in aanmerking komen met betrekking tot de periode waarvoor de Vlaamse regering de emitterende BEVAK erkende.<br /><br />Het in vorig lid bedoeld gekapitaliseerd bedrag bevat enkel de inkomsten toegekend aan de maatschappelijke rechten waarvoor, gelet op de artikelen 9 en 10, aangetoond is dat de overledene of zijn echtgenoot er houder van was.<br /><br />Als slechts een gedeelte van de beurswaarde of van het bedrag van de volstorting van de maatschappelijke rechten voor effectieve vrijstelling in aanmerking komt, zal bovendien het gekapitaliseerd bedrag van de periodieke netto inkomsten slechts in verhouding worden bijgeteld.  <span class="reference">(verv. B.V.R. 10 oktober 1995, art.3, I: 10 oktober 1995)</span> ]
+<P>...</P>
 
 ### ART. 13.
 
-[De in het vorige artikel bedoelde kapitalisatie staat gelijk met de som van de effectief uitgekeerde dividenden, tijdens de periode zoals bepaald in het voorlaatste lid van dat artikel.  <span class="reference">(verv. B.V.R. 10 oktober 1995, art.4,I: 10 oktober 1995)</span> ]
+<P>...</P>
 
 ### ART. 14.
 
-[Op straffe van verval is de vrijstelling slechts toepasselijk voor zover de volgende voorwaarden zijn vervuld:<br /><br />1° De bedoelde maatschappelijke rechten moeten worden vermeld in de aangifte van de nalatenschap en deel uitmaken van de nalatenschap van de inschrijver, of belastbaar zijn met toepassing van artikel 5 van het Wetboek der Successierechten;<br /><br />2° In de aangifte dient uitdrukkelijk om de vrijstelling van de successierechten te worden verzocht;<br /><br />3° Het in artikel 11 bedoelde attest dient bij de aangifte te worden gevoegd.  <span class="reference">(verv. B.V.R. 10 oktober 1995, art.5, I: 10 oktober 1995)</span> ]
+<P>...</P>
 
 ### ART. 15.
 
