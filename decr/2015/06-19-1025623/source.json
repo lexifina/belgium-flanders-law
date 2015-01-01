@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025623,
+  "title": "Decreet van 2015-06-19 tot wijziging van sectorale decreten naar aanleiding van de integratie van het intern verzelfstandigd agentschap Zorginspectie in het Departement Welzijn, Volksgezondheid en Gezin",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025623/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "f88c175c2adda35aee4da2bd2d08675f8d6546953f9bde82b0a17291c6bb38e0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025623&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2015-06-19",
+  "gazette": "2015-07-17",
+  "numac": 2015035904,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
