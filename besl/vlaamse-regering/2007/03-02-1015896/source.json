@@ -2,16 +2,16 @@
   "codex_id": 1015896,
   "title": "Besluit van de Vlaamse Regering van 2007-03-02 tot regeling van de werking van het Intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015896/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "2cd2c103fd5cc2edd4c93ea3f4d35f5336fd417df8163ae786f4764c8d6c5d77",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015896/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "534325b30d196c708dd0d2d01bf8b27c0721b935c0e8a20936914a93ce0319ff",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015896&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "2007-03-02",
   "gazette": "2007-06-28",
   "numac": 2007035898,
   "document_start": "2007-07-08",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 35,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
