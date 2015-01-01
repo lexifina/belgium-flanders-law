@@ -2,24 +2,24 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder "de Vlaamse minister": het lid van de Vlaamse regering tot wiens bevoegdheid de bescherming van het leefmilieu behoort.
+...
 
 ### ART. 2.
 
-Voor het opsporen en het vaststellen van de inbreuken op de regelen ter bestrijding van de geluidshinder zijn bevoegd:<br /><br />1° de hierna vermelde ambtenaren van het Ministerie van de Vlaamse Gemeenschap:<br /><br />- de technische ambtenaren van het Bestuur voor Leefmilieu van de Administratie voor Ruimtelijke Ordening en Leefmilieu;<br /><br />- de geneesheren van de Gezondheidsinspectie van de Administratie voor Gezondheidszorg;<br /><br />2° die technische ambtenaren van de provincies en de gemeenten alsmede die agenten van de gemeentelijke politie welke ofwel in het bezit zijn van een bekwaamheidsbewijs waaruit blijkt dat zij een opleiding hebben genoten overeenkomstig de bepalingen van dit besluit, ofwel overeenkomstig deze bepalingen van het in artikel 3, § 1, 1° en 2°, vermeld onderricht zijn vrijgesteld.
+...
 
 ### ART. 3.
 
-§ 1. De in artikel 2, 2° bedoelde opleiding omvat:<br /><br />1° twaalf uren theoretisch onderricht aangaande de grondbeginselen inzake:<br /><br />- elementaire fysische begrippen in verband met de geluidsleer;<br /><br />- geluidsgrootheden en -begrippen;<br /><br />- gehoor, gehoorschade, effecten van lawaai, geluidshinder;<br /><br />- begrippen van lawaaibeheersing;<br /><br />- meettechnieken en apparatuur;<br /><br />- geluidsreglementering;<br /><br />2° twaalf uren practisch onderricht over het meten van het geluidsniveau afkomstig van geluidsbronnen, ondermeer van die bronnen die gereglementeerd zijn met het oog op de bestrijding van de geluidshinder;<br /><br />3° een bekwaamheidsproef over het theoretisch en practisch onderricht nadat dit onderricht volledig gegeven is.<br /><br />§ 2. De Vlaamse minister kan op gemotiveerde aanvraag van de betrokkene geheel of gedeeltelijk vrijstelling verlenen van het theoretisch en het practisch onderricht.
+...
 
 ### ART. 4.
 
-§ 1. De in artikel 2, 2° bedoelde opleiding mag enkel gegeven worden door de instellingen die daartoe erkend zijn door de Vlaamse minister, na gemotiveerd advies van de Administratie voor Ruimtelijke Ordening en Leefmilieu van het Ministerie van de Vlaamse Gemeenschap.<br /><br />§ 2. De instellingen moeten afhangen van een openbaar bestuur of van een Vlaamse universiteit of instelling voor hoger technisch onderwijs van het lange type.<br /><br />§ 3. Met oog op hun erkenning richten de instellingen een ter post aangetekend schrijven tot de Vlaamse minister waarin zij aantonen:<br /><br />1° over gekwalificeerde medewerkers te beschikken die, hetzij houder zijn van een diploma van burgerlijk ingenieur, industrieel ingenieur of licentiaat in de wetenschappen en ten minste één jaar practische ervaring kunnen bewijzen in verband met de in artikel 3, § 1, 1° vermelde beginselen; hetzij minstens vijf jaar practische ervaring kunnen bewijzen in verband met deze beginselen;<br /><br />2° over de nodige lokalen en materiële uitrusting te beschikken.<br /><br />§ 4. De instellingen moeten zich onderwerpen aan de controle die wordt uitgevoerd door de in artikel 2, 1°, eerste lid, vermelde ambtenaren die worden uitgenodigd tot het bijwonen van de bekwaamheidsproef.<br /><br />§ 5. Wanneer de in § 4 van dit artikel genoemde ambtenaren vaststellen dat een erkende instelling niet meer voldoet aan de in § 3 van dit artikel bepaalde voorwaarden, dan stellen zij de instelling hiervan door middel van een ter post aangetekend schrijven in kennis. Indien de instelling binnen dertig dagen na verzending van vermeld schrijven niet aan de in § 3 van dit artikel bepaalde voorwaarden voldoet, dan kan de Vlaamse minister, op gemotiveerd advies van de Administratie voor Ruimtelijke Ordening en Leefmilieu van het Ministerie van de Vlaamse Gemeenschap, de erkenning opheffen.<br /><br />§ 6. De besluiten van de Vlaamse minister in verband met het in § 1, en § 5 van dit artikel bepaalde worden bij uittreksel gepubliceerd in het Belgisch Staatsblad.
+...
 
 ### ART. 5.
 
-§ 1. Het in artikel 2, 2° bedoelde bekwaamheidsbewijs wordt na waarmerking door de Administratie voor Ruimtelijke Ordening en Leefmilieu van het Ministerie van de Vlaamse Gemeenschap uitgereikt door de instelling die voor de opleiding heeft ingestaan.<br /><br />Deze administratie zendt binnen vijftien dagen na waarmerking een voor eensluidend verklaard afschrift van het bekwaamheidsbewijs aan de procureur des Konings van het gerechtelijk arrondissement waar de houder van dit bekwaamheidsbewijs de hem krachtens dit besluit toegekende bevoegdheden uitoefent.<br /><br />Het in artikel 2, 2° bedoelde bekwaamheidsbewijs is geldig voor een periode van tien jaar na datum van waarmerking. Na het verstrijken van deze periode wordt een nieuw bekwaamheidsbewijs uitgereikt aan diegenen die slagen in een bekwaamheidsproef, ingericht door een erkende instelling.
+...
 
 ### ART. 6.
 
-De Vlaamse minister is belast met de uitvoering van dit besluit.
+...
