@@ -1,12 +1,16 @@
 # Besluit van de Vlaamse Regering van 1985-03-27 houdende reglementering van de handelingen die het grondwater kunnen verontreinigen
 
+### ART. 1.
+
+Dit besluit voorziet in de gedeeltelijke omzetting van Richtlijn   2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot   vaststelling van een kader voor communautaire actie ter verwezenlijking van een   duurzaam gebruik van pesticiden.
+
 ### ART. 1/1.
 
 Voor toepassing van onderhavig besluit wordt verstaan onder:<br /><br />"handelingen": alle zaken, bedoeld in art. 3, § 1-1° van het decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer;<br /><br />"stoffen van lijst I of II": produkten of stoffen, die stoffen bevatten, behorend tot de families en groepen van stoffen, opgenomen in de lijsten I of II, gevoegd in bijlage bij dit besluit.
 
 ### ART. 2.
 
-Dit besluit is niet van toepassing op:<br />1° lozingen van huishoudelijk afvalwater van alleenstaande woningen die niet aangesloten zijn op een kollektief rioleringssysteem en gelegen zijn buiten de waterwingebieden;<br />2° het direkt of indirekt lozen, het deponeren of opslaan op of in de bodem van produkten en stoffen, die in zulk een geringe hoeveelheid en koncentratie stoffen van lijst I en II bevatten, dat elk gevaar voor een verontreiniging van het ontvangende grondwater nu of in de toekomst is uitgesloten;<br />3° de injectie van kooldioxidestromen met het oog op opslag in geologische formaties die door hun aard blijvend ongeschikt zijn voor andere doeleinden, op voorwaarde dat dergelijke injecties plaatsvinden overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond dan wel op grond van artikel 37, tweede lid, van voormeld decreet buiten de werkingssfeer ervan vallen.<br /><br />De Vlaamse regering kan voor elke stof van lijst I en II deze hoeveelheid en koncentratie vaststellen.
+Dit besluit is niet van toepassing op :<BR>1° lozingen van huishoudelijk   afvalwater van alleenstaande woningen die niet aangesloten zijn op een   collectief rioleringssysteem en die buiten de waterwingebieden liggen;<BR>2° het   direct of indirect lozen, het deponeren of opslaan op of in de bodem van   producten en stoffen die in zulke geringe hoeveelheid en concentratie stoffen   van lijst I, II en III bevatten dat elk gevaar voor een verontreiniging nu of in   de toekomst is uitgesloten;<BR>3° de injectie van kooldioxidestromen met het oog   op opslag in geologische formaties die door hun aard blijvend ongeschikt zijn   voor andere doeleinden, op voorwaarde dat dergelijke injecties plaatsvinden   overeenkomstig het decreet van 8 mei 2009 betreffende de diepe ondergrond dan   wel op grond van artikel 37, tweede lid, van voormeld decreet buiten de   werkingssfeer ervan vallen.<BR><BR>Op advies van de afdeling van de Vlaamse   Milieumaatschappij, bevoegd voor het operationele waterbeheer, kan de Vlaamse   minister, bevoegd voor het leefmilieu en het waterbeleid, voor elke stof van   lijst I, II en III de hoeveelheid en de concentratie vaststellen.
 
 ### ART. 3.
 
@@ -56,13 +60,13 @@ De Vlaamse minister van Leefmilieu, Waterbeleid en Onderwijs is belast met de ui
 
 ### Tekst
 
-<p>LIJST I. - Families en groepen van stoffen<br>
+LIJST I. - Families en groepen van stoffen<br>
 <br>
 Lijst I omvat de afzonderlijke stoffen van onderstaande families of groepen van stoffen.<br>
 <br>
 1. Organische halogeenverbindingen en stoffen waaruit in water dergelijke verbindingen kunnen ontstaan.<br>
 <br>
-2. Organische fosforverbindingen.<br>
+2. Organische fosforverbindingen met uitzondering van pesticiden.<br>
 <br>
 3. Organische tinverbindingen.<br>
 <br>
@@ -80,99 +84,93 @@ LIJST II. - Families en groepen van stoffen<br>
 <br>
 Lijst II omvat de afzonderlijke stoffen en kategorieën van stoffen van de onderstaande families en groepen die schadelijk zijn voor het grondwater.<br>
 <br>
-1. De volgende metalloïden en metalen alsmede verbindingen daarvan:<br>
-&nbsp;</p>
-
+1. De volgende metalloïden en metalen alsmede verbindingen daarvan:
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
 			<p>1. zink</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:230.3pt">
 			<p>11. tin</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>2. koper</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>12. borium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>3. nikkel</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>13. beryllium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>4. chroom</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>14. barium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>5. lood</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>15. uranium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>6. selenium</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>16. vanadium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>7. arsenicum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>17. kobalt</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>8. antimoon</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>18. thallium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>9. molybdeen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>19. tellurium</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>10. titaan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:230.3pt">
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:230.3pt">
 			<p>20. zilver</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>2. Biociden en derivaten daarvan, die niet in lijst I genoemd zijn.<br>
+<br>
+2. ...<br>
 <br>
 3. Stoffen met een schadelijke werking op de smaak en/of geur van het grondwater alsmede verbindingen waaruit dergelijke stoffen in het water kunnen ontstaan en die het water ongeschikt voor menselijke consumptie kunnen maken.<br>
 <br>
@@ -182,4 +180,8 @@ Lijst II omvat de afzonderlijke stoffen en kategorieën van stoffen van de onder
 <br>
 6. Fluoriden, chloriden.<br>
 <br>
-7. Ammoniak, nitrieten en nitraten.</p>
+7. Ammoniak, nitrieten en nitraten.<br>
+<br>
+LIJST III FAMILIES EN GROEPEN VAN STOFFEN<br>
+<br>
+Lijst III omvat alle pesticiden als vermeld in artikel 3 van het decreet van 8 februari 2013 houdende duurzaam gebruik van pesticiden in het Vlaamse Gewest.

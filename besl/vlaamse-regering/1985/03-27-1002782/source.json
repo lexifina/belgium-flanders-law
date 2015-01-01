@@ -2,16 +2,16 @@
   "codex_id": 1002782,
   "title": "Besluit van de Vlaamse Regering van 1985-03-27 houdende reglementering van de handelingen die het grondwater kunnen verontreinigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002782/VolledigDocument?datum=2011-09-06",
-  "source_sha256": "9d747cf7fde44af58cb6065ce37767e4aea4714e711cb4f129fbc2cb75febc24",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1002782/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "c5133a7fa7565a899c0c38b6d2db92d0b86ca16a4073463e0e66178eec5e3072",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1002782&param=informatie",
-  "as_of": "2011-09-06",
+  "as_of": "2015-01-01",
   "made": "1985-03-27",
   "gazette": "1985-07-20",
   "numac": 1985024448,
   "document_start": null,
   "document_end": "2099-12-31",
-  "in_force": "2011-09-06",
-  "article_versions": 14,
-  "record_form": "consolidated version as in force on 2011-09-06; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
