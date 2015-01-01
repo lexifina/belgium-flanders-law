@@ -6,7 +6,11 @@ De Vlaamse Regering,<br /> <br />Gelet op verordening (EG) nr. 320/2006 van de R
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1°minister : de Vlaamse minister, bevoegd voor het landbouwbeleid en de zeevisserij;<br />2° betaalorgaan : het Agentschap Landbouw en Visserij van het beleidsdomein Landbouw en Visserij van het Vlaamse Gewest;<br />3° suikerbietteler : de landbouwer die in de referentieperiode suikerbieten heeft geteeld en die, voor die referentieperiode, beschikte over suikerbietquotum van ISCAL Sugar of van de Tiense Suikerraffinaderij. Suikerbietquota zijn leveringsrechten;<br />4° loonwerker : onderneming die in de referentieperiode zaai- of oogstwerkzaamheden heeft verricht voor suikerbiettelers die suikerbietquota hebben afgestaan in het verkoopseizoen dat volgde op de referentieperiode;<br />5° GBCS-verzamelaanvraag : steunaanvraag, ingediend in het kader van het Geïntegreerd Beheers- en Controlesysteem, vermeld in titel II, hoofdstuk 4 van verordening (EG) nr. 73/2009 van de Raad van 19 januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde steunregelingen voor landbouwers, tot wijziging van verordeningen (EG) nr. 1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van verordening (EG) nr. 1782/2003.
+In dit besluit wordt verstaan onder :<BR>1°minister : de Vlaamse minister,   bevoegd voor het landbouwbeleid en de zeevisserij;<BR>2° betaalorgaan : het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij;<BR>3° suikerbietteler : de landbouwer die in de referentieperiode   suikerbieten heeft geteeld en die, voor die referentieperiode, beschikte over   suikerbietquotum van ISCAL Sugar of van de Tiense Suikerraffinaderij.   Suikerbietquota zijn leveringsrechten;<BR>4° loonwerker : onderneming die in de   referentieperiode zaai- of oogstwerkzaamheden heeft verricht voor   suikerbiettelers die suikerbietquota hebben afgestaan in het verkoopseizoen dat   volgde op de referentieperiode;<BR>5° GBCS-verzamelaanvraag : steunaanvraag,   ingediend in het kader van het Geïntegreerd Beheers- en Controlesysteem, vermeld   in titel II, hoofdstuk 4 van verordening (EG) nr. 73/2009 van de Raad van 19   januari 2009 tot vaststelling van gemeenschappelijke voorschriften voor   regelingen inzake rechtstreekse steunverlening aan landbouwers in het kader van   het gemeenschappelijk landbouwbeleid en tot vaststelling van bepaalde   steunregelingen voor landbouwers, tot wijziging van verordeningen (EG) nr.   1290/2005, (EG) nr. 247/2006, (EG) nr. 378/2007 en tot intrekking van   verordening (EG) nr. 1782/2003.
+
+### ART. 1/1.
+
+Het hoofd van het betaalorgaan kan de aangelegenheden die conform dit   besluit en de uitvoeringsbepalingen ervan onder de bevoegdheid van het   betaalorgaan vallen, subdelegeren aan personeelsleden van het betaalorgaan die   onder zijn hiërarchisch gezag staan, tot op het meest functionele   niveau.
 
 ### ART. 2.
 
@@ -34,7 +38,7 @@ Het betaalorgaan wordt belast met de betaling van de steun, alsook met de terugv
 
 ### ART. 8.
 
-De administrateur-generaal van het Agentschap voor Landbouw en Visserij van het beleidsdomein Landbouw en Visserij van het Vlaamse Gewest, of zijn plaatsvervanger bij afwezigheid of verhindering, wordt gemachtigd om de uitgaven voor de compensaties, vermeld in dit besluit, vast te leggen, goed te keuren en te ordonneren.
+Het hoofd van het betaalorgaan&nbsp;wordt gemachtigd om de uitgaven voor   de compensaties, vermeld in dit besluit, vast te leggen, goed te keuren en te   ordonneren.
 
 ### ART. 9.
 
