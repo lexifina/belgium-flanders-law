@@ -2,16 +2,16 @@
   "codex_id": 1013747,
   "title": "Ministerieel besluit van 2005-03-17 betreffende de erkenning van gespecialiseerde pluimveebedrijven",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013747/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "125363d1aa52ddc90dff2d60cec6e7964e92b5c55dbdf5c844cba427d4da898b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013747/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "00c56f82242b3441d218502c63b270fc11a73eabb73b68ac968504cc9c6562a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013747&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-01-01",
   "made": "2005-03-17",
   "gazette": "2005-04-22",
   "numac": 2005035437,
   "document_start": "2005-04-22",
   "document_end": "2019-09-22",
-  "in_force": "2006-06-01",
+  "in_force": "2015-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }

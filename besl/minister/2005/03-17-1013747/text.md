@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br /><br />1° de bevoegde entiteit: de entiteit van het Departement Landbouw en Visserij, belast met de fokkerij;<br /><br />2° het koninklijk besluit: het koninklijk besluit van 2 juni 1998 betreffende de zoötechnische en genealogische voorschriften voor de verbetering en de instandhouding van de pluimvee- en konijnenrassen.
+In dit besluit wordt verstaan onder:<BR>1° bevoegde entiteit : het   Departement Landbouw en Visserij van het Vlaams Ministerie van Landbouw en   Visserij<BR>2° het koninklijk besluit: het koninklijk besluit van 2 juni 1998   betreffende de zoötechnische en genealogische voorschriften voor de verbetering   en de instandhouding van de pluimvee- en konijnenrassen.
 
 ### ART. 2.
 
