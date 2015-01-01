@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder het besluit van 19 oktober 2007: het besluit
 
 ### ART. 2.
 
-De bevoegde entiteit, vermeld in artikel 1, 1°, van het besluit van 19 oktober 2007 en vermeld in dit besluit, is het Departement Landbouw en Visserij. Het hoofd van het departement kan een afdeling van het departement aanwijzen als bevoegde entiteit.
+<P>...</P>
 
 ### ART. 3.
 
