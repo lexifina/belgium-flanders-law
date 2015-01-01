@@ -58,6 +58,41 @@ Artikel 7, eerste lid, van dezelfde wet, gewijzigd bij de wetten van 21   maart 
 
 ## HOOFDSTUK 4. Winwinlening
 
+### ART. 11.
+
+Aan artikel 2 van het decreet van 19 mei 2006 betreffende de Winwinlening,   gewijzigd bij het decreet van 10 december 2010, worden een punt 9°, 10° en 11°   toegevoegd, die luiden als volgt:<BR>"9° Wetboek van de Inkomstenbelastingen   1992: Wetboek van de Inkomstenbelastingen 1992 van 10 april 1992, met inbegrip   van alle latere wijzigingen;<BR>10° Bijzondere Financieringswet: bijzondere wet   van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de   Gewesten, met inbegrip van alle latere wijzigingen;<BR>11° federale   belastingadministratie: de administratie die instaat voor de dienst van de   inkomstenbelastingen.".
+
+### ART. 12.
+
+In artikel 4 van hetzelfde decreet, gewijzigd bij de decreten van 10   december 2010 en 5 juli 2013, worden de volgende wijzigingen   aangebracht:<BR><BR>1° in paragraaf 1, vijfde lid, wordt de zinsnede ", vermeld   in artikel 5, § 1, eerste lid" vervangen door de zinsnede "van de   Winwinlening";<BR><BR>2° in paragraaf 2, eerste lid, 5°, wordt de zinsnede   "vermeld in artikel 5, § 4," opgeheven;<BR><BR>3° er wordt een paragraaf 3   toegevoegd, die luidt als volgt:<BR>" § 3. De Vlaamse Regering bepaalt de   vormvoorwaarden en de procedure van registratie en schrapping van de   Winwinlening.".
+
+### ART. 13.
+
+Artikel 5 van hetzelfde decreet, gewijzigd bij de decreten van 10 december   2010 en 12 juli 2013, wordt opgeheven.
+
+### ART. 14.
+
+In artikel 7 van hetzelfde decreet worden het eerste en tweede lid   vervangen door wat volgt:<BR><BR>"Te rekenen vanaf het jaar dat volgt op het   jaar waarin een Winwinlening is gesloten, houdt de kredietgever het bewijs, dat   hij in het belastbare tijdperk een of meer Winwinleningen heeft uitstaan, ter   beschikking van de federale belastingadministratie.<BR><BR>De Vlaamse Regering   bepaalt de vormgeving van het bewijs, vermeld in het eerste lid.".
+
+### ART. 15.
+
+In hoofdstuk 6, afdeling 1, van hetzelfde decreet, gewijzigd bij het decreet van 10 december 2010, worden de volgende wijzigingen aangebracht:<br>
+1° het opschrift van afdeling 1 wordt vervangen door wat volgt:<br>
+"Afdeling 1. Jaarlijks belastingkrediet";<br>
+2° in artikel 8 wordt het woord "belastingvermindering" telkens vervangen door het woord "belastingkrediet";<br>
+3° in artikel 8 wordt de zinsnede "de belastingvermindering" telkens vervangen door "het belastingkrediet";<br>
+4° in artikel 8, paragraaf 1, eerste lid, wordt de zinsnede "en inwoner is van het Vlaamse Gewest," vervangen door de zinsnede ", zoals gelokaliseerd in het Vlaamse Gewest overeenkomstig artikel 5/1, § 2, van de Bijzondere Financieringswet";<br>
+5° in artikel 8, paragraaf 1, wordt het tweede lid opgeheven;<br>
+6° in artikel 8, paragraaf 5, wordt het tweede lid vervangen door wat volgt:<br>
+"Het belastingkrediet wordt alleen verleend, als de kredietgever per aanslagjaar conform artikel 7, eerste en tweede lid, het bewijs ter beschikking houdt van de federale belastingadministratie.";<br>
+7° in artikel 8, paragraaf 5, zesde lid, wordt de zinsnede "overeenkomstig artikel 5, § 4," opgeheven;<br>
+8° in artikel 8 wordt paragraaf 6 opgeheven;<br>
+9° in artikel 8 wordt paragraaf 7 opgeheven.
+
+### ART. 16.
+
+In hoofdstuk 6, afdeling 2, van hetzelfde decreet, gewijzigd bij het   decreet van 10 december 2010, worden de volgende wijzigingen aangebracht:<BR>1°   het opschrift van afdeling 2 wordt vervangen door wat volgt:<BR>"Afdeling 2.   Eenmalig belastingkrediet";<BR>2° in artikel 9 wordt de zinsnede "een eenmalige   belastingvermindering" telkens vervangen door het woord "een eenmalig   belastingkrediet";<BR>3° in artikel 9 wordt de zinsnede "de eenmalige   belastingvermindering" telkens vervangen door "het eenmalig   belastingkrediet";<BR>4° in artikel 9 wordt paragraaf 1 vervangen door wat   volgt:<BR>" § 1. Aan de kredietgever wordt een eenmalig belastingkrediet onder   de volgende voorwaarden toegekend:<BR>a) tijdens of binnen maximaal zes maanden   na de looptijd van de lening doet zich een van de gevallen, vermeld in artikel   4, § 2, 1°, voor;<BR>b) de kredietnemer kan een deel of het geheel van de   Winwinlening niet terugbetalen;<BR>c) de kredietgever is onderworpen aan de   personenbelasting, zoals gelokaliseerd in het Vlaamse Gewest overeenkomstig   artikel 5/1, § 2, van de Bijzondere Financieringswet;<BR>d) de kredietgever   heeft de Winwinlening opeisbaar gesteld.";<BR>5° in artikel 9 wordt paragraaf 2   vervangen door wat volgt:<BR>" § 2. Het bedrag van de hoofdsom dat tijdens het   belastbaar tijdperk definitief verloren is gegaan, wordt genomen als   berekeningsgrondslag van het eenmalig belastingkrediet.";<BR>6° in artikel 9,   paragraaf 5, vierde lid, wordt de zinsnede "overeenkomstig artikel 5, § 4,"   opgeheven;<BR>7° in artikel 9 wordt paragraaf 6 opgeheven.
+
 ## HOOFDSTUK 5. Landbouw
 
 ## Afdeling 1. Fonds Gemeenschappelijk Landbouwbeleid
