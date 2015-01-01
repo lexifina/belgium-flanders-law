@@ -2,16 +2,16 @@
   "codex_id": 1021148,
   "title": "Besluit van de Vlaamse Regering van 2011-12-09 houdende de installatie van de satellietvolgapparatuur en het elektronische registratie- en meldsysteem op vissersvaartuigen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021148/VolledigDocument?datum=2012-01-19",
-  "source_sha256": "61866b145db73a1ecbe370fbcf3fcd7de40de0b043b3f8f8eff107c26a95903f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021148/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "48bb175c42d130ad028db8547d08c0dfe606800ef23e5b449a085c8e6bd9e919",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021148&param=informatie",
-  "as_of": "2012-01-19",
+  "as_of": "2015-01-01",
   "made": "2011-12-09",
   "gazette": "2012-01-09",
   "numac": 2011206453,
   "document_start": "2012-01-19",
   "document_end": null,
-  "in_force": "2012-01-19",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2012-01-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-01-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
