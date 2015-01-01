@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024894,
+  "title": "Ministerieel besluit van 2014-12-16 betreffende de regels voor de erkenning en de subsidiëring van groepsgericht aanbod opvoedingsondersteuning door vrijwilligers",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024894/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "bd9bd3fcbb9a4dc24ecbdaa6cc03dad511ff0b27bba6a52d433bf61e898984f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024894&param=informatie",
+  "as_of": "2015-01-01",
+  "made": "2014-12-16",
+  "gazette": "2015-01-23",
+  "numac": 2015035052,
+  "document_start": "2015-01-01",
+  "document_end": null,
+  "in_force": "2015-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
