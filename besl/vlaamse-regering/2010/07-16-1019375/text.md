@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder :<br />1° achtergevel : gevel die geen voor
 
 ### ART. 1.2.
 
-De bepalingen van dit besluit zijn van toepassing, onverminderd andere regelgeving, inzonderheid de regelgeving inzake beschermde monumenten, beschermde stads- en dorpsgezichten, landschappen en archeologische sites, waarvoor een apart systeem van toelatingen geldt.<br /><br />
+De bepalingen van dit besluit zijn van toepassing, onverminderd andere   regelgeving, inzonderheid de regelgeving inzake beschermde monumenten,   beschermde stads- en dorpsgezichten, cultuurhistorische&nbsp;landschappen en   archeologische sites, waarvoor een apart systeem van toelatingen   geldt.<BR><BR>
 
 ### ART. 1.3.
 
@@ -188,7 +188,7 @@ Een stedenbouwkundige vergunning is niet nodig voor het slopen of verwijderen va
 
 ### ART. 13.2.
 
-Een stedenbouwkundige vergunning is niet nodig voor de volledige afbraak van vrijstaande bouwwerken of constructies, op voorwaarde dat aan al de volgende vereisten voldaan is :<br />1° het betreft geen kleine elementen en constructies, geïsoleerd of deel uitmakend van een geheel, die van belang zijn voor de kwaliteit van de leefomgeving, een volkskundige, historische of esthetische waarde hebben, als referentie dienen voor de bevolking van een buurt of wijk, of bijdragen tot het gevoel van een plaatselijke bevolking tot een bepaalde plek te behoren, zoals fonteinen, kiosken, pompen, putten, kruisen, calvaries, veldkapellen, standbeelden, wegwijzers, schandpalen, grenspalen, mijlpalen, lantaarnpalen, uurwerken, klokkenspelen, zonnewijzers, hekkens, omheiningsmuren, luifels, graven, herkenningstekens van merkwaardige gebeurtenissen uit het verleden, balies, straatmeubilair, waterkunstwerkjes, bakhuizen, houtskeletbouw, koetshuizen, oranjerieën, priëlen, ijskelders;<br />2° het betreft geen gebouwen of constructies die opgenomen zijn in de inventaris van het bouwkundig erfgoed, opgesteld met toepassing van artikel 12/1 van het decreet van 3 maart 1976 tot bescherming van monumenten, stads- en dorpsgezichten;<br />3° de grondoppervlakte bedraagt minder dan 100 vierkante meter.<br /><br />
+Een stedenbouwkundige vergunning is niet nodig voor de volledige afbraak   van vrijstaande bouwwerken of constructies, op voorwaarde dat aan al de volgende   vereisten voldaan is :<BR>1° het betreft geen kleine elementen en constructies,   geïsoleerd of deel uitmakend van een geheel, die van belang zijn voor de   kwaliteit van de leefomgeving, een volkskundige, historische of esthetische   waarde hebben, als referentie dienen voor de bevolking van een buurt of wijk, of   bijdragen tot het gevoel van een plaatselijke bevolking tot een bepaalde plek te   behoren, zoals fonteinen, kiosken, pompen, putten, kruisen, calvaries,   veldkapellen, standbeelden, wegwijzers, schandpalen, grenspalen, mijlpalen,   lantaarnpalen, uurwerken, klokkenspelen, zonnewijzers, hekkens, omheiningsmuren,   luifels, graven, herkenningstekens van merkwaardige gebeurtenissen uit het   verleden, balies, straatmeubilair, waterkunstwerkjes, bakhuizen, houtskeletbouw,   koetshuizen, oranjerieën, priëlen, ijskelders;<BR>2° het betreft geen gebouwen   of constructies die opgenomen zijn in de inventaris van het bouwkundig erfgoed,   opgesteld met toepassing van artikel 4.1.1 van het decreet van 12 juli 2013   betreffende het onroerend erfgoed;<BR>3° de grondoppervlakte bedraagt minder dan   100 vierkante meter.<BR><BR>
 
 ## [HOOFDSTUK 13/1 Tijdelijke regeling voor terrassen voor de horeca (ing. BVR 2 april 2021, art. 1, I: 3 mei 2021)]
 
