@@ -2,16 +2,16 @@
   "codex_id": 1020416,
   "title": "Besluit van de Vlaamse Regering van 2011-05-27 houdende vaststelling van de rechtspleging voor het Milieuhandhavingscollege",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020416/VolledigDocument?datum=2011-07-22",
-  "source_sha256": "c496e36b8dd8a78997cea4d93ba9a8eb37a1e34da6e29a1daf6e9b95f927da56",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020416/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "554ca12f731f372e9ceff0313a82f6adff4137810ed0df1c8e15bc1acbfe0675",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020416&param=informatie",
-  "as_of": "2011-07-22",
+  "as_of": "2015-01-01",
   "made": "2011-05-27",
   "gazette": "2011-07-12",
   "numac": 2011203358,
   "document_start": "2011-07-22",
   "document_end": "2014-12-31",
-  "in_force": "2011-07-22",
+  "in_force": "2015-01-01",
   "article_versions": 47,
-  "record_form": "consolidated version as in force on 2011-07-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
