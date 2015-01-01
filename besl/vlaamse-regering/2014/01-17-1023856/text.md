@@ -12,6 +12,10 @@
 
 <P>De Vlaamse Regering,<BR></P>  <P>Gelet op de Vlaamse Codex Ruimtelijke Ordening, artikel 4.2.3;<BR></P>  <P>Gelet op het besluit van de Vlaamse Regering van 16 juli 2010 tot bepaling   van handelingen waarvoor geen stedenbouwkundige vergunning nodig is;<BR></P>  <P>Gelet op het advies van de Inspectie van Financiën, gegeven op 10 december   2013; <BR></P>  <P>Gelet op advies nr. 54.826/1 van de Raad van State, gegeven op 14 januari   2014, met toepassing van artikel 84, § 1, eerste lid, 1°, van de wetten op de   Raad van State, gecoördineerd op 12 januari 1973;<BR></P>  <P>Op voorstel van de Vlaamse minister van Financiën, Begroting, Werk,   Ruimtelijke Ordening en Sport; <BR></P>  <P>Na beraadslaging,<BR></P>  <P>Besluit : <BR></P>
 
+### ART. 1.
+
+&nbsp;In artikel 1.2 van het besluit van de Vlaamse Regering van 16 juli   2010 tot bepaling van handelingen waarvoor geen stedenbouwkundige vergunning   nodig is wordt tussen de zinsnede "dorpsgezichten," en het woord "landschappen"   het woord "cultuurhistorische" ingevoegd.<BR>
+
 ### ART. 2.
 
 In artikel 2.1 van hetzelfde besluit worden de volgende wijzigingen   aangebracht :<BR>1° punt 8° wordt vervangen door wat volgt : <BR>"8°   niet-overdekte constructies tot maximaal 80 vierkante meter per goed, met   inbegrip van alle bestaande niet-overdekte constructies in zijtuin en achtertuin   voor zover ze worden geplaatst op minstens 1 meter van de perceelsgrenzen of tot   tegen een bestaande scheidingsmuur op de perceelsgrens;";<BR>2° in punt 11°   wordt de zin "De hoogte is beperkt tot 3 meter;" vervangen door de zin "De   maximale hoogte is beperkt tot 3,5 meter;".<BR>
@@ -47,6 +51,10 @@ In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 2
 ### ART. 10.
 
 In hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 26 november 2010 en 9 september 2011, wordt een artikel 8.5 ingevoegd, dat   luidt als volgt :<BR>"Art. 8.5 Een stedenbouwkundige vergunning is niet nodig   voor het plaatsen of verplaatsen van één of meer woonwagens, als vermeld in   artikel 2, § 1, 33°, van het decreet van 15 juli 1997 houdende de Vlaamse   Wooncode, op een residentieel woonwagenterrein of doortrekkersterrein voor   woonwagenbewoners, als vermeld in artikel 1, 4° en 5°, van het besluit van de   Vlaamse Regering van 12 mei 2000 houdende de subsidiëring van de verwerving, de   inrichting, de renovatie en de uitbreiding van woonwagenterreinen voor   woonwagenbewoners, op voorwaarde dat het terrein in kwestie vergund of   hoofdzakelijk vergund is.".<BR>
+
+### ART. 11.
+
+In artikel 13.2, 2°, van hetzelfde besluit wordt de zinsnede "12/1 van het   decreet van 3 maart 1976 tot bescherming van monumenten, stads- en   dorpsgezichten" vervangen door de zinsnede "4.1.1 van het decreet van 12 juli   2013 betreffende het onroerend erfgoed".<BR>
 
 ### ART. 12.
 
