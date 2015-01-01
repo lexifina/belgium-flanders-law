@@ -2,16 +2,16 @@
   "codex_id": 1000308,
   "title": "Besluit van de Vlaamse Regering van 1983-12-14 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000308/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "2aa3b21d9f5ccf8463f78c0852937b38e2aecd0889cac88207f1b79345b4be13",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000308/VolledigDocument?datum=2015-01-01",
+  "source_sha256": "453cfa73ca0223994a72bbfe099ffef66d02f98dd81f9ded9ddddabe0cfc9c65",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000308&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-01-01",
   "made": "1983-12-14",
   "gazette": "1984-04-20",
   "numac": 1984023208,
   "document_start": "1984-01-01",
   "document_end": null,
-  "in_force": "2014-01-01",
+  "in_force": "2015-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
 }
