@@ -302,10 +302,6 @@ Met behoud van de toepassing van de besluiten die ter uitvoering van   artikel 4
 
 <P>...</P>
 
-### ART. 60.
-
-<P>§ 1. De Adviesraad is minimaal samengesteld uit :<BR>1° drie   vertegenwoordigers van minderjarigen;<BR>2° drie vertegenwoordigers van   ouders;<BR>3° een vertegenwoordiger van etnisch-culturele minderheden;<BR>4° een   vertegenwoordiger van mensen in armoede;<BR>5° een vertegenwoordiger van mensen   met een handicap;<BR>6° per sector een of meer vertegenwoordigers die zijn   voorgedragen door de representatieve organisaties van het   jeugdhulpaanbod.<BR></P>  <P>Geen van die vertegenwoordigingen kan uit meer dan twee derde van het aantal   leden van de Adviesraad bestaan.<BR></P>  <P>§ 2. De Adviesraad wordt voorgezeten door een onafhankelijke   deskundige.<BR></P>  <P>§ 3. De Vlaamse Regering regelt de nadere samenstelling en de werking van de   Adviesraad en benoemt de voorzitter en de leden.</P>
-
 ## Afdeling 2. [... (opgeh. decr. 15 maart 2019, art. 31, I: 14 april 2019)]
 
 ### ART. 61.
