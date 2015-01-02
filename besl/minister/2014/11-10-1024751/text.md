@@ -6,8 +6,8 @@ De Vlaamse minister van Omgeving, Natuur en Landbouw,<BR><BR>Gelet op het   decr
 
 ### ART. 1.
 
-Aan artikel 15, § 2, van het ministerieel besluit van 18 december 2013   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, gewijzigd bij de ministeriële besluiten van 20 juni 2014 en 27 oktober   2014, wordt een vierde lid toegevoegd, dat luidt als volgt:<BR><BR>"De in § 2,   tweede lid, en in § 3, derde lid, toegekende hoeveelheden schol voor een   vissersvaartuig in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor   de periode vanaf 1 november 2014 tot en met 10 december 2014 worden met 10.000kg   verhoogd."
+...
 
 ### ART. 2.
 
-Dit besluit treedt in werking de dag na publicatie en houdt op van kracht   te zijn op 1 januari 2015.
+...
