@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-In het artikel 15, § 2, van het ministerieel besluit van 18 december 2013   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, gewijzigd bij de ministeriële besluiten van 20 juni 2014, 27 oktober   2014 en 10 november 2014, worden de volgende wijzigingen aangebracht:<BR>1° in   het tweede lid worden de woorden "10 december" vervangen door de woorden "17   december";<BR>2° in het derde lid worden de woorden "11 december" vervangen door   de woorden "18 december";<BR>3° in het vierde lid worden de woorden "10   december" vervangen door de woorden "17 december".<BR>
+...
 
 ### ART. 2.
 
-In het artikel 15, § 3, van hetzelfde besluit, worden de volgende   wijzigingen aangebracht:<BR>1° in het derde lid worden de woorden "10 december"   vervangen door de woorden "17 december";<BR>2° in het vierde lid worden de   woorden "11 december" vervangen door de woorden "18 december".<BR>
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 10 december 2014 en houdt op van kracht   te zijn op 1 januari 2015.<BR>
+...
