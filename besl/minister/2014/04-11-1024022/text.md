@@ -6,24 +6,24 @@
 
 ### ART. 1.
 
-Aan het artikel 10, § 1, van het ministerieel besluit van 18 december 2013   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, wordt een zesde lid toegevoegd:<BR>"Van het aantal toegekende dagen   onder lid 3 mogen de vaartuigen met maximaal 70 GT, die volgens de officiële   lijst der Belgische vissersvaartuigen 2014 niet zijn uitgerust met de boomkor,   met een motorvermogen van 221 kW of minder, ten hoogste 15 zeedagen met   bodemtrawls (TR 1) presteren."<BR>
+...
 
 ### ART. 2.
 
-<P>Aan artikel 23 § 1 van hetzelfde besluit, worden volgende wijzigingen   aangebracht:<BR>1° het woord "december" wordt vervangen door het woord   "maart",<BR>2° een derde en vierde lid worden toegevoegd:<BR>"In de periode van   1 april 2014 tot en met 31 december 2014 is het in de ICES-gebieden VIId, e voor   een vissersvaartuig met een motorvermogen van 221 kW of minder verboden bij de   scholvangsten per zeereis een hoeveelheid te overschrijden die gelijk is aan 250   kg, vermenigvuldigd met het aantal vaartdagen gerealiseerd tijdens die zeereis   in de desbetreffende ICES-gebieden.<BR></P>  <P>In de periode van 1 april 2014 tot en met 31 december 2014 is het in de   ICES-gebieden VIId, e voor een vissersvaartuig met een motorvermogen van meer   dan 221 kW verboden bij de scholvangsten per zeereis een hoeveelheid te   overschrijden die gelijk is aan 500 kg, vermenigvuldigd met het aantal   vaartdagen gerealiseerd tijdens die zeereis in de desbetreffende   ICES-gebieden."<BR></P>
+...
 
 ### ART. 3.
 
-In artikel 24 § 5 van hetzelfde besluit wordt met ingang van 13 maart 2014   het getal "50" vervangen door het getal "25".<BR>
+...
 
 ### ART. 4.
 
-In artikel 26 § 2 van hetzelfde besluit wordt met ingang van 1 april 2014   het getal "100" vervangen door het getal "50" en het getal "200" vervangen door   het getal "100".<BR>
+...
 
 ### ART. 5.
 
-<P>In artikel 27 van hetzelfde besluit worden met ingang van 1 april 2014   volgende wijzigingen aangebracht:<BR>1° aan § 4 worden een tweede en derde lid   toegevoegd, die luiden als volgt:<BR>"In afwijking van het eerste lid is het   voor een vissersvaartuig, in de periode van 1 april 2014 tot en met 31 december   2014 zolang geen 80 % van het quotum is benut, verboden bij de bot- en   scharvangsten per zeereis in de ICES-gebieden II, IV (Noordzee en   Schelde-estuarium) een hoeveelheid te overschrijden die gelijk is aan 2.000 kg,   vermenigvuldigd met het aantal vaartdagen, gerealiseerd tijdens die zeereis in   de desbetreffende ICES-gebieden.<BR></P>  <P>In afwijking van het eerste lid kan een vissersvaartuig met TR 1 tuig, in de   periode 1 juni 2014 tot en met 30 september 2014 zolang geen 67 % van het quotum   is benut, vrij vissen op bot en schar."<BR></P>  <P>2° aan § 5 wordt een derde lid toegevoegd dat luidt als volgt:<BR>"In   afwijking van de leden één en twee is het in de periode van 1 april 2014 tot en   met 31 december 2014 in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium)   voor een vissersvaartuig verboden bij de tongschar en witjevangst per zeereis   een hoeveelheid te overschrijden die gelijk is aan 1.000 kg, vermenigvuldigd met   het aantal vaartdagen, gerealiseerd tijdens die zeereis in de desbetreffende   ICES-gebieden."<BR></P>  <P>3° in § 6 wordt het getal "500" vervangen door het getal "1.000" en wordt het   getal "250" vervangen door het getal "500";<BR></P>  <P>4° aan § 8 wordt een vierde lid toegevoegd dat luidt als volgt:<BR>"In   afwijking van de leden 1 en 2 worden de hoeveelheden vermeld in die leden   gehalveerd van zodra 70 % van het quotum is opgevist."<BR></P>
+...
 
 ### ART. 6.
 
-Dit besluit treedt in werking op 1 april 2014, met uitzondering van   artikel 3 dat in werking treedt op 13 maart 2014. Dit besluit houdt op van   kracht te zijn op 1 januari 2015.<BR>
+...
