@@ -6,44 +6,44 @@
 
 ### ART. 1.
 
-<P>Aan artikel 10 van het ministerieel besluit van 18 december 2013 houdende   tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee,   gewijzigd bij de ministeriële besluiten van 11 april 2014 en 20 juni 2014, wordt   een § 4 toegevoegd :<BR>" § 4. Vissersvaartuigen krijgen 24 vereveningsdagen die   kunnen opgeteld worden bij de maximum aantallen zeedagen, namelijk 180 en 160,   vermeld in § 1.<BR></P>  <P>In aanvulling van § 1 krijgen vissersvaartuigen met een motorvermogen, groter   dan 221 kW met vistuig bodemtrawls en zegen (TR 2) of boomkor (BT 2) in de   periode van 1 februari 2014 tot 31 januari 2015, 20 vereveningsdagen te   presteren in het ICES-gebied VIIa."<BR></P>
+...
 
 ### ART. 2.
 
-Aan het artikel 14 van hetzelfde besluit, gewijzigd bij ministerieel   besluit van 20 juni 2014, worden volgende wijzigingen aangebracht :<BR>1° § 2   wordt aangevuld met een tweede lid :<BR>"Vanaf 1 november 2014 tot en met 31   december 2014 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium)   voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden   bij de tongvangst een hoeveelheid te overschrijden die gelijk is aan 4.500 kg   verhoogd met een hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van deze hoeveelheid   mag maximaal een hoeveelheid van 5 kg per kW vermenigvuldigd met het   motorvermogen van het vaartuig, uitgedrukt in kW, opgevist worden in de periode   20 oktober 2014 - 31 oktober 2014."<BR>2° § 3 wordt aangevuld met een vierde lid   :<BR>"Vanaf 1 november 2014 tot en met 31 december 2014 is het in de   ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig   met een motorvermogen van meer dan 221 kW, verboden bij de tongvangst een   hoeveelheid te overschrijden die gelijk is aan 4.500 kg verhoogd met een   hoeveelheid die gelijk is aan 15 kg, vermenigvuldigd met het motorvermogen van   het vissersvaartuig, uitgedrukt in kW. Van deze hoeveelheid mag maximaal een   hoeveelheid van 5 kg per kW vermenigvuldigd met het motorvermogen van het   vaartuig, uitgedrukt in kW, opgevist worden in de periode 20 oktober 2014 - 31   oktober 2014."<BR>
+...
 
 ### ART. 3.
 
-<P>Aan artikel 15 van hetzelfde besluit, gewijzigd bij ministerieel besluit van   20 juni 2014, worden volgende wijzigingen aangebracht :<BR>1° de § 2 wordt   aangevuld met een tweede en derde lid :<BR>"Vanaf 1 november 2014 tot en met 10   december 2014 is het in de ICES-gebieden II, IV (Noordzee en Schelde-estuarium)   voor een vissersvaartuig met een motorvermogen van 221 kW of minder, verboden   bij de scholvangst een hoeveelheid te overschrijden die gelijk is aan 45 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in kW.   Van deze hoeveelheid mag maximaal een hoeveelheid van 10 kg, vermenigvuldigd met   het motorvermogen van het vissersvaartuig, uitgedrukt in kW, reeds opgevist   worden in de periode 20 oktober 2014 - 31 oktober 2014.<BR>Vanaf 11 december   2014 tot en met 31 december 2014 is het in de ICES-gebieden II, IV (Noordzee en   Schelde-estuarium) voor een vissersvaartuig met een motorvermogen van 221 kW of   minder, verboden bij de scholvangst een hoeveelheid te overschrijden die gelijk   is aan 3.000 kg."<BR>2° de § 3 wordt aangevuld met een derde en vierde lid   :<BR>"Vanaf 1 november 2014 tot en met 10 december 2014 is het in de   ICES-gebieden II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig   met een motorvermogen van meer dan 221 kW, verboden bij de scholvangst een   hoeveelheid te overschrijden die gelijk is aan 90 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW. Van deze hoeveelheid   mag maximaal een hoeveelheid van 20 kg, vermenigvuldigd met het motorvermogen   van het vissersvaartuig, uitgedrukt in kW, reeds opgevist worden in de periode   20 oktober 2014 - 31 oktober 2014.<BR></P>  <P>Vanaf 11 december 2014 tot en met 31 december 2014 is het in de ICES-gebieden   II, IV (Noordzee en Schelde-estuarium) voor een vissersvaartuig met een   motorvermogen van meer dan 221 kW, verboden bij de scholvangst een hoeveelheid   te overschrijden die gelijk is aan 7.500 kg."<BR></P>
+...
 
 ### ART. 4.
 
-Aan artikel 16, § 3, van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 20 juni 2014, wordt een vierde lid toegevoegd :<BR>"Vanaf 1 november   2014 tot en met 31 december 2014 is het in de ICES-gebieden VIIf,g voor een   vissersvaartuig met een motorvermogen van meer dan 221 kW, verboden bij de   tongvangst een hoeveelheid te overschrijden die gelijk is aan 3.000   kg."<BR>
+...
 
 ### ART. 5.
 
-Aan artikel 17, § 1, van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 20 juni 2014, wordt een derde lid toegevoegd :<BR>"Vanaf 1 november   2014 tot en met 31 december 2014 is het in de ICES-gebieden VIIh,j,k voor een   vissersvaartuig met een motorvermogen van 221 kW of meer, verboden bij de   tongvangst een hoeveelheid te overschrijden die gelijk is aan 500   kg."<BR>
+...
 
 ### ART. 6.
 
-<P>Het artikel 19 van hetzelfde besluit, wordt met ingang van 1 november 2014   aangevuld met een derde en vierde lid :<BR>"Vanaf 1 november 2014 tot en met 31   december 2014 is het in de ICES-gebieden VIIb-c, VIIe-k, VIII voor een   vissersvaartuig verboden bij de kabeljauwvangst een hoeveelheid te overschrijden   die gelijk is aan 3.000 kg, verhoogd met een hoeveelheid die gelijk is aan 8 kg,   vermenigvuldigd met het motorvermogen van het vissersvaartuig, uitgedrukt in   kW.<BR></P>  <P>De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een   vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen   2014 uitsluitend uitgerust is met de planken."<BR></P>
+...
 
 ### ART. 7.
 
-<P>Het artikel 20 van hetzelfde besluit, wordt aangevuld met een derde en vierde   lid :<BR>"Vanaf 1 november 2014 tot en met 31 december 2014 is het in de   ICES-gebieden VIId voor een vissersvaartuig verboden bij de kabeljauwvangst een   hoeveelheid te overschrijden die gelijk is aan 500 kg vermeerderd met een   hoeveelheid van 1 kg, vermenigvuldigd met het motorvermogen van het   vissersvaartuig, uitgedrukt in kW.<BR></P>  <P>De hoeveelheid vermeld in het derde lid wordt verdubbeld voor een   vissersvaartuig dat volgens de officiële lijst der Belgische vissersvaartuigen   2014 uitsluitend uitgerust is met de planken of met passief   tuig."<BR></P>
+...
 
 ### ART. 8.
 
-Aan het artikel 23, § 1, van hetzelfde besluit, gewijzigd bij de   ministeriele besluiten van 11 april 2014 en 15 mei 2014 wordt met ingang van 1   november 2014 een zesde lid toegevoegd :<BR>"In afwijking met vorig lid is het   in de periode van 1 november 2014 tot en met 31 december 2014 in de   ICES-gebieden VIId,e voor een vissersvaartuig met een motorvermogen van 221 kW   of minder, verboden bij de scholvangst per zeereis een hoeveelheid te   overschrijden, die gelijk is aan 100 kg, vermenigvuldigd met het aantal   vaartdagen die tijdens die zeereis in het desbetreffend ICES-gebied wordt   gerealiseerd."<BR>
+...
 
 ### ART. 9.
 
-In artikel 24 van hetzelfde besluit, gewijzigd bij de ministeriele   besluiten van 11 april 2014, 15 mei 2014 en 20 juni 2014 worden volgende   wijzigingen aangebracht vanaf de datum dat er geen 120 ton kabeljauw meer   beschikbaar is en dit voor 30 november 2014 :<BR>1° in § 1 lid 4 wordt het getal   "300" vervangen door het getal "150",<BR>2° in § 2 lid 4 wordt het getal "600"   vervangen door het getal "300",<BR>3° in § 3 lid 4 wordt het getal "700"   vervangen door het getal "400",<BR>4° in § 6 lid 3 wordt het getal "240"   vervangen door het getal "0".<BR>
+...
 
 ### ART. 10.
 
-In artikel 26, § 1, van hetzelfde besluit, gewijzigd bij het ministerieel   besluit van 11 april 2014 wordt het getal "100" vervangen door het getal "50" en   wordt het getal "200" vervangen door het getal "100".<BR>
+...
 
 ### ART. 11.
 
-<P>Dit besluit treedt in werking op 1 november 2014 met uitzondering van   artikelen 2 en 3, die in werking treden op 20 oktober 2014.<BR></P>  <P>Dit besluit houdt op van kracht te zijn op 1 januari   2015.<BR></P>
+...
