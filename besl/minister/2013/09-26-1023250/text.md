@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-Het artikel 10 van het ministerieel besluit van 21 december 2012 houdende   tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee,   gewijzigd bij ministerieel besluit van 29 januari 2013, wordt met ingang van 1   oktober 2013 aangevuld met een § 4 luidend als volgt : <BR>« § 4.   Vissersvaartuigen krijgen 20 vereveningsdagen, die opgeteld kunnen worden bij de   maximum aantallen zeedagen, namelijk 180 en 160, vermeld in § 1.   »<BR>
+...
 
 ### ART. 2.
 
