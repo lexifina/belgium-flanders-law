@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-Aan het artikel 18 van het ministerieel besluit van 18 december 2013   houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden   in zee, worden volgende wijzigingen aangebracht :<BR>1° de § 2 wordt aangevuld   met volgend lid :<BR>"In afwijking met vorig lid kunnen eigenaars van   vissersvaartuigen, die uitsluitend de passieve visserij beoefenen, een   toewijzing van vangstmogelijkheden voor de kabeljauw uit de ICES-gebieden II, IV   in functie van het motorvermogen en de toepassing van de paragraaf 4 aanvragen.   Daartoe dienen ze voor 10 februari 2014 een verzoek in bij de dienst. Als er   geen geldige aanvraag wordt ingediend, is artikel 24 van toepassing.";<BR>2° de   § 4 wordt aangevuld met volgend lid :<BR>"In afwijking met vorig lid is het voor   een vissersvaartuig met een motorvermogen van meer dan 221 kW en die uitsluitend   de passieve visserij beoefent, van 1 januari 2014 tot en met 31 oktober 2014 in   de ICES-gebieden II, IV verboden bij de kabeljauwvangst een hoeveelheid te   overschrijden die gelijk is aan 12 kg, vermenigvuldigd met het motorvermogen van   het vissersvaartuig, uitgedrukt in kW.".<BR>
+...
 
 ### ART. 2.
 
-<P>Aan artikel 22 § 1 van hetzelfde besluit, worden volgende wijzigingen   aangebracht :<BR>1° het woord "december" wordt vervangen door het woord   "januari",<BR>2° een tweede, derde, vierde en vijfde lid worden toegevoegd   :<BR>"Er wordt een wetenschappelijk quotum voor de gerichte tongvisserij van 16   ton tong VIIa voorbehouden.<BR></P>  <P>In de periode van 1 februari 2014 tot en met 31 augustus 2014 is het in het   ICES-gebied VIIa voor een vissersvaartuig verboden een totale tongvangst in het   desbetreffende ICES-gebied te realiseren die groter is dan 1.000 kg.<BR></P>  <P>Ingeval het beschikbare quotum verminderd met het wetenschappelijk quotum is   benut, wordt de visserij op tong in VIIa gesloten.<BR></P>  <P>Onverminderd de bepaling van lid 3 kunnen vier vaartuigen die in 2013 goed   meegewerkt hebben aan wetenschappelijk onderzoek een extra quotum van 4 ton tong   VIIa voor de gerichte tongvisserij gedurende één zeereis bekomen. Dit volume   wordt enkel beschikbaar gesteld indien deze zeereis door een bevoegde   wetenschapper van het ILVO wordt gevolgd. De vier vaartuigen die hiervoor in   aanmerking komen, zijn O.231, Z.483, Z.548 en Z.576. De reder maakt hiertoe   tijdig een afspraak met het ILVO.".<BR></P>
+...
 
 ### ART. 3.
 
-&nbsp;Dit besluit treedt in werking op 1 februari 2014 en houdt op van   kracht te zijn op 1 januari 2015.<BR>
+...
