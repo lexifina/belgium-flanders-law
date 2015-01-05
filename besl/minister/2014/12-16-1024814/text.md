@@ -6,6 +6,10 @@
 
 ## Hoofdstuk I Wijziging aan het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring
 
+### ART. 1.
+
+De bijlage van het ministerieel besluit van 13 januari 2006 betreffende de   vorm en inhoud van de startverklaring, vervangen bij ministerieel besluit van 18   mei 2014, wordt vervangen door de bijlage 1, die bij dit besluit is   gevoegd.<BR>
+
 ## Hoofdstuk II Wijziging aan het ministerieel besluit van 20 oktober 2006 over het vaststellen van minimale voorwaarden bij de opname van gegevens in de Energieprestatiedatabank
 
 ## Hoofdstuk III Wijzigingen aan het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw
@@ -17,6 +21,22 @@ In artikel 3 van het ministerieel besluit van 2 april 2007 betreffende de   vast
 ### ART. 4.
 
 Aan artikel 6 van hetzelfde ministerieel besluit wordt een lid toegevoegd,   dat luidt als volgt:<BR>"De verslaggever onderschrijft op de website voor het   indienen van de elektronische versies van de EPB-aangifte eenmalig een   verklaring op eer, die als bijlage XIII is gevoegd.".<BR>
+
+### ART. 5.
+
+Bijlage I van hetzelfde ministerieel besluit, vervangen bij ministerieel   besluit van 18 mei 2014, wordt vervangen door de bijlage 2, die bij dit besluit   is gevoegd.<BR>
+
+### ART. 6.
+
+&nbsp;Bijlage II van hetzelfde ministerieel besluit, vervangen bij   ministerieel besluit van 18 mei 2014, wordt vervangen door de bijlage 3, die bij   dit besluit is gevoegd.<BR>
+
+### ART. 7.
+
+Bijlage IIbis van hetzelfde ministerieel besluit, vervangen bij   ministerieel besluit van 18 mei 2014, wordt vervangen door de bijlage 4, die bij   dit besluit is gevoegd.<BR>
+
+### ART. 8.
+
+Bijlage III van hetzelfde ministerieel besluit, vervangen bij ministerieel   besluit van 18 mei 2014, wordt vervangen door de bijlage 5, die bij dit besluit   is gevoegd.<BR>
 
 ### ART. 9.
 
