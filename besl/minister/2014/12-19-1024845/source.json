@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024845,
+  "title": "Ministerieel besluit van 2014-12-19 houdende wijziging van de lijst van bedrijfstakken en deeltakken die worden geacht te zijn blootgesteld aan een significant CO2-weglekrisico, voor de periode 2015-2019 en tot het opleggen van een rapporteringsplicht aan bepaalde exploitanten van een BKG-installatie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024845/VolledigDocument?datum=2015-01-08",
+  "source_sha256": "990722939c73630cb576f19c2d54dbb385705cecc76d0b964258a1a45b881850",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024845&param=informatie",
+  "as_of": "2015-01-08",
+  "made": "2014-12-19",
+  "gazette": "2015-01-07",
+  "numac": 2014036959,
+  "document_start": "2015-01-08",
+  "document_end": null,
+  "in_force": "2015-01-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
