@@ -3537,636 +3537,606 @@ Bijlage 3.4 : Carbon leakage factoren<br>
 
 ### BIJLAGE 4
 
-Bijlage 4. - Lijst met bedrijfstakken en deeltakken die geacht worden te zijn blootgesteld aan een significant weglekrisico<br>
+<p>Bijlage 4. - Lijst met bedrijfstakken en deeltakken die geacht worden te zijn blootgesteld aan een significant CO<sub>2</sub>-weglekrisico voor de periode 2015-2019.<br>
 <br>
-Onderstaande NACE-codes verwijzen naar NACE indeling rev. 1.1. De Prodcom codes verwijzen naar Prodcom lijst 2007.<br>
-&nbsp;
-<table border="1">
-	<tbody>
-		<tr>
-			<td>NACE-code</td>
-			<td>Omschrijving</td>
-		</tr>
-		<tr>
-			<td>1010</td>
-			<td>Winning van steenkool en vervaardiging van steenkoolbriketten</td>
-		</tr>
-		<tr>
-			<td>1430</td>
-			<td>Winning van mineralen voor de chemische en kunstmestindustrie</td>
-		</tr>
-		<tr>
-			<td>1597</td>
-			<td>Vervaardiging van mout</td>
-		</tr>
-		<tr>
-			<td>1711</td>
-			<td>Bewerken en spinnen van katoen- of katoenachtige vezels</td>
-		</tr>
-		<tr>
-			<td>1810</td>
-			<td>Vervaardiging van kleding van leer</td>
-		</tr>
-		<tr>
-			<td>2310</td>
-			<td>Vervaardiging van cokesovenproducten</td>
-		</tr>
-		<tr>
-			<td>2413</td>
-			<td>Vervaardiging van overige anorganische chemische basisproducten</td>
-		</tr>
-		<tr>
-			<td>2414</td>
-			<td>Vervaardiging van overige organische chemische basisproducten</td>
-		</tr>
-		<tr>
-			<td>2415</td>
-			<td>Vervaardiging van kunstmeststoffen en stikstofverbindingen</td>
-		</tr>
-		<tr>
-			<td>2417</td>
-			<td>Vervaardiging van synthetische rubber in primaire vormen</td>
-		</tr>
-		<tr>
-			<td>2710</td>
-			<td>Vervaardiging van ijzer en staal en van ferrolegeringen</td>
-		</tr>
-		<tr>
-			<td>2731</td>
-			<td>Koudtrekken</td>
-		</tr>
-		<tr>
-			<td>2742</td>
-			<td>Productie van aluminium</td>
-		</tr>
-		<tr>
-			<td>2744</td>
-			<td>Productie van koper</td>
-		</tr>
-		<tr>
-			<td>2745</td>
-			<td>Productie van overige non-ferrometalen</td>
-		</tr>
-		<tr>
-			<td>2931</td>
-			<td>Vervaardiging van landbouwtractoren</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
+Onderstaande NACE-codes verwijzen naar NACE indeling rev. 2.<br>
+<br>
+De Prodcom codes verwijzen naar Prodcom lijst 2010.<br>
+&nbsp;</p>
 
 <table border="1">
 	<tbody>
 		<tr>
-			<td>NACE-code</td>
+			<td>NACE-<br>
+			code</td>
 			<td>Omschrijving</td>
 		</tr>
 		<tr>
-			<td>1440</td>
-			<td>Productie van zout</td>
+			<td>0510</td>
+			<td>Winning van steenkool</td>
 		</tr>
 		<tr>
-			<td>1562</td>
-			<td>Vervaardiging van zetmeel en zetmeelproducten</td>
+			<td>0610</td>
+			<td>Winning van aardolie</td>
 		</tr>
 		<tr>
-			<td>1583</td>
-			<td>Vervaardiging van suiker</td>
+			<td>0620</td>
+			<td>Winning van aardgas</td>
 		</tr>
 		<tr>
-			<td>1595</td>
-			<td>Vervaardiging van andere niet-gedistilleerde gegiste dranken</td>
-		</tr>
-		<tr>
-			<td>1592</td>
-			<td>Productie van ethylalcohol door gisting</td>
-		</tr>
-		<tr>
-			<td>2112</td>
-			<td>Vervaardiging van papier en karton</td>
-		</tr>
-		<tr>
-			<td>2320</td>
-			<td>Vervaardiging van geraffineerde aardolieproducten</td>
-		</tr>
-		<tr>
-			<td>2611</td>
-			<td>Vervaardiging van vlakglas</td>
-		</tr>
-		<tr>
-			<td>2613</td>
-			<td>Vervaardiging van holglas</td>
-		</tr>
-		<tr>
-			<td>2614</td>
-			<td>Vervaardiging van glasvezels</td>
-		</tr>
-		<tr>
-			<td>2630</td>
-			<td>Vervaardiging van keramische tegels en plavuizen</td>
-		</tr>
-		<tr>
-			<td>2721</td>
-			<td>Vervaardiging van gietijzeren buizen</td>
-		</tr>
-		<tr>
-			<td>2743</td>
-			<td>Productie van lood, zink en tin</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td>NACE-code</td>
-			<td>Omschrijving</td>
-		</tr>
-		<tr>
-			<td>2651</td>
-			<td>Vervaardiging van cement</td>
-		</tr>
-		<tr>
-			<td>2652</td>
-			<td>Vervaardiging van kalk</td>
-		</tr>
-	</tbody>
-</table>
-&nbsp;
-
-<table border="1">
-	<tbody>
-		<tr>
-			<td>NACE-code</td>
-			<td>Omschrijving</td>
-		</tr>
-		<tr>
-			<td>1110</td>
-			<td>Winning van aardolie en aardgas</td>
-		</tr>
-		<tr>
-			<td>1310</td>
+			<td>0710</td>
 			<td>Winning van ijzererts</td>
 		</tr>
 		<tr>
-			<td>1320</td>
-			<td>Winning van non-ferrometaalertsen, exclusief uranium- en thoriumerts</td>
+			<td>0729</td>
+			<td>Winning van andere non-ferrometaalertsen</td>
 		</tr>
 		<tr>
-			<td>1411</td>
-			<td>Winning van bouw- en siersteen</td>
+			<td>0891</td>
+			<td>Winning van mineralen voor de chemische en de kunstmestindustrie</td>
 		</tr>
 		<tr>
-			<td>1422</td>
-			<td>Winning van klei en kaolien</td>
+			<td>0893</td>
+			<td>Zoutwinning</td>
 		</tr>
 		<tr>
-			<td>1450</td>
+			<td>0899</td>
 			<td>Overige winning van delfstoffen, n.e.g.</td>
 		</tr>
 		<tr>
-			<td>1520</td>
-			<td>Verwerking en conservering van vis en visproducten</td>
+			<td>1020</td>
+			<td>Verwerking en conservering van vis en van schaal- en weekdieren</td>
 		</tr>
 		<tr>
-			<td>1541</td>
-			<td>Vervaardiging van ruwe oliën en vetten</td>
+			<td>1041</td>
+			<td>Vervaardiging van oliën en vetten</td>
 		</tr>
 		<tr>
-			<td>1591</td>
-			<td>Vervaardiging van gedistilleerde alcoholische dranken</td>
+			<td>1062</td>
+			<td>Vervaardiging van zetmeel en zetmeelproducten</td>
 		</tr>
 		<tr>
-			<td>1593</td>
-			<td>Vervaardiging van wijnen</td>
+			<td>1081</td>
+			<td>Vervaardiging van suiker</td>
 		</tr>
 		<tr>
-			<td>1712</td>
-			<td>Bewerken en spinnen van kaardwol- of kaardwolachtige vezels</td>
+			<td>1086</td>
+			<td>Vervaardiging van gehomogeniseerde voedingspreparaten en dieetvoeding</td>
 		</tr>
 		<tr>
-			<td>1713</td>
-			<td>Bewerken en spinnen van kamwol- of kamwolachtige vezels</td>
+			<td>1101</td>
+			<td>Vervaardiging van gedistilleerde dranken door distilleren, rectificeren en mengen</td>
 		</tr>
 		<tr>
-			<td>1714</td>
-			<td>Bewerken en spinnen van vlas- of vlasachtige vezels</td>
+			<td>1102</td>
+			<td>Vervaardiging van wijn uit druiven</td>
 		</tr>
 		<tr>
-			<td>1715</td>
-			<td>Twijnen en voorbewerken van zijde, met inbegrip van chappezijde, en twijnen en textureren van synthetisch of kunstmatig vezelgaren</td>
+			<td>1104</td>
+			<td>Vervaardiging van andere niet-gedistilleerde gegiste dranken</td>
 		</tr>
 		<tr>
-			<td>1716</td>
-			<td>Vervaardiging van naaigarens</td>
+			<td>1310</td>
+			<td>Bewerken en spinnen van textielvezels</td>
 		</tr>
 		<tr>
-			<td>1717</td>
-			<td>Bewerken en spinnen van overige textielvezels</td>
+			<td>1320</td>
+			<td>Weven van textiel</td>
 		</tr>
 		<tr>
-			<td>1721</td>
-			<td>Vervaardiging van katoenen of katoenachtige weefsels</td>
-		</tr>
-		<tr>
-			<td>1722</td>
-			<td>Vervaardiging van kaardwollen of kaardwolachtige weefsels</td>
-		</tr>
-		<tr>
-			<td>1723</td>
-			<td>Vervaardiging van kamwollen of kamwolachtige weefsels</td>
-		</tr>
-		<tr>
-			<td>1724</td>
-			<td>Vervaardiging van zijden of zijdeachtige weefsels</td>
-		</tr>
-		<tr>
-			<td>1725</td>
-			<td>Vervaardiging van overige weefsels</td>
-		</tr>
-		<tr>
-			<td>1740</td>
-			<td>Vervaardiging van geconfectioneerde artikelen van textiel, exclusief kleding</td>
-		</tr>
-		<tr>
-			<td>1751</td>
-			<td>Vervaardiging van vloerkleden en tapijt</td>
-		</tr>
-		<tr>
-			<td>1752</td>
-			<td>Vervaardiging van koord, bindgaren, touw en netten</td>
-		</tr>
-		<tr>
-			<td>1753</td>
-			<td>Vervaardiging van gebonden textielvlies en van artikelen van gebonden textielvlies, exclusief kleding</td>
-		</tr>
-		<tr>
-			<td>1754</td>
-			<td>Vervaardiging van overige textielproducten, n.e.g.</td>
-		</tr>
-		<tr>
-			<td>1760</td>
+			<td>1391</td>
 			<td>Vervaardiging van gebreide en gehaakte stoffen</td>
 		</tr>
 		<tr>
-			<td>1771</td>
-			<td>Vervaardiging van gebreide en gehaakte kousen en sokken</td>
+			<td>1392</td>
+			<td>Vervaardiging van geconfectioneerde artikelen van textiel, exclusief kleding</td>
 		</tr>
 		<tr>
-			<td>1772</td>
-			<td>Vervaardiging van gebreide en gehaakte pullovers, vesten en dergelijke artikelen</td>
+			<td>1393</td>
+			<td>Vervaardiging van vloerkleden en tapijt</td>
 		</tr>
 		<tr>
-			<td>1821</td>
+			<td>1394</td>
+			<td>Vervaardiging van koord, bindgaren, touw en netten</td>
+		</tr>
+		<tr>
+			<td>1395</td>
+			<td>Vervaardiging van gebonden textielvlies en van artikelen van gebonden textielvlies, exclusief kleding</td>
+		</tr>
+		<tr>
+			<td>1396</td>
+			<td>Vervaardiging van ander technisch en industrieel textiel</td>
+		</tr>
+		<tr>
+			<td>1399</td>
+			<td>Vervaardiging van andere textielproducten, n.e.g.</td>
+		</tr>
+		<tr>
+			<td>1411</td>
+			<td>Vervaardiging van kleding van leer</td>
+		</tr>
+		<tr>
+			<td>1412</td>
 			<td>Vervaardiging van werkkleding</td>
 		</tr>
 		<tr>
-			<td>1822</td>
-			<td>Vervaardiging van overige bovenkleding</td>
+			<td>1413</td>
+			<td>Vervaardiging van andere bovenkleding</td>
 		</tr>
 		<tr>
-			<td>1823</td>
+			<td>1414</td>
 			<td>Vervaardiging van onderkleding</td>
 		</tr>
 		<tr>
-			<td>1824</td>
-			<td>Vervaardiging van overige kleding en toebehoren, n.e.g.</td>
+			<td>1419</td>
+			<td>Vervaardiging van andere kleding en toebehoren</td>
 		</tr>
 		<tr>
-			<td>1830</td>
-			<td>Bereiden en verven van bont; vervaardiging van artikelen van bont</td>
+			<td>1420</td>
+			<td>Vervaardiging van artikelen van bont</td>
 		</tr>
 		<tr>
-			<td>1910</td>
-			<td>Looien en bereiden van leer</td>
+			<td>1431</td>
+			<td>Vervaardiging van gebreide en gehaakte kousen en sokken</td>
 		</tr>
 		<tr>
-			<td>1920</td>
-			<td>Vervaardiging van koffers, tassen en dergelijke, zadel- en tuigmakerswerk</td>
+			<td>1439</td>
+			<td>Vervaardiging van andere gebreide en gehaakte kleding</td>
 		</tr>
 		<tr>
-			<td>1930</td>
+			<td>1511</td>
+			<td>Looien en bereiden van leer; bereiden en verven van bont</td>
+		</tr>
+		<tr>
+			<td>1512</td>
+			<td>Vervaardiging van koffers, tassen en dergelijke en van zadel- en tuigmakerswerk</td>
+		</tr>
+		<tr>
+			<td>1520</td>
 			<td>Vervaardiging van schoeisel</td>
 		</tr>
 		<tr>
-			<td>2010</td>
-			<td>Zagen en schaven van hout, impregneren van hout</td>
+			<td>1622</td>
+			<td>Vervaardiging van parketvloeren</td>
 		</tr>
 		<tr>
-			<td>2052</td>
-			<td>Vervaardiging van artikelen van kurk en riet en van vlechtwerk</td>
+			<td>1629</td>
+			<td>Vervaardiging van andere artikelen van hout; vervaardiging van artikelen van kurk, riet of vlechtwerk</td>
 		</tr>
 		<tr>
-			<td>2111</td>
+			<td>1711</td>
 			<td>Vervaardiging van pulp</td>
 		</tr>
 		<tr>
-			<td>2124</td>
-			<td>Vervaardiging van behangselpapier</td>
+			<td>1712</td>
+			<td>Vervaardiging van papier en karton</td>
 		</tr>
 		<tr>
-			<td>2215</td>
-			<td>Overige uitgeverijen</td>
+			<td>1724</td>
+			<td>Vervaardiging van behangpapier</td>
 		</tr>
 		<tr>
-			<td>2330</td>
-			<td>Bewerking van splijt- en kweekstoffen</td>
+			<td>1910</td>
+			<td>Vervaardiging van cokesovenproducten</td>
 		</tr>
 		<tr>
-			<td>2412</td>
+			<td>1920</td>
+			<td>Vervaardiging van geraffineerde aardolieproducten</td>
+		</tr>
+		<tr>
+			<td>2012</td>
 			<td>Vervaardiging van kleurstoffen en pigmenten</td>
 		</tr>
 		<tr>
-			<td>2420</td>
+			<td>2013</td>
+			<td>Vervaardiging van andere anorganische chemische basisproducten</td>
+		</tr>
+		<tr>
+			<td>2014</td>
+			<td>Vervaardiging van andere organische chemische basisproducten</td>
+		</tr>
+		<tr>
+			<td>2015</td>
+			<td>Vervaardiging van kunstmeststoffen en stikstofverbindingen</td>
+		</tr>
+		<tr>
+			<td>2016</td>
+			<td>Vervaardiging van kunststoffen in primaire vormen</td>
+		</tr>
+		<tr>
+			<td>2017</td>
+			<td>Vervaardiging van synthetische rubber in primaire vormen</td>
+		</tr>
+		<tr>
+			<td>2020</td>
 			<td>Vervaardiging van verdelgingsmiddelen en van andere chemische producten voor de landbouw</td>
 		</tr>
 		<tr>
-			<td>2441</td>
-			<td>Vervaardiging van farmaceutische grondstoffen</td>
+			<td>2042</td>
+			<td>Vervaardiging van parfums en toiletartikelen</td>
 		</tr>
 		<tr>
-			<td>2442</td>
-			<td>Vervaardiging van farmaceutische producten</td>
-		</tr>
-		<tr>
-			<td>2452</td>
-			<td>Vervaardiging van parfums en cosmetische artikelen</td>
-		</tr>
-		<tr>
-			<td>2463</td>
+			<td>2053</td>
 			<td>Vervaardiging van etherische oliën</td>
 		</tr>
 		<tr>
-			<td>2464</td>
-			<td>Vervaardiging van fotochemische producten</td>
+			<td>2059</td>
+			<td>Vervaardiging van andere chemische producten, n.e.g.</td>
 		</tr>
 		<tr>
-			<td>2465</td>
-			<td>Vervaardiging van informatiedragers waarop niet is opgenomen</td>
-		</tr>
-		<tr>
-			<td>2466</td>
-			<td>Vervaardiging van overige chemische producten, n.e.g.</td>
-		</tr>
-		<tr>
-			<td>2470</td>
+			<td>2060</td>
 			<td>Vervaardiging van synthetische en kunstmatige vezels</td>
 		</tr>
 		<tr>
-			<td>2511</td>
-			<td>Vervaardiging van binnen- en buitenbanden van rubber</td>
+			<td>2110</td>
+			<td>Vervaardiging van farmaceutische grondstoffen</td>
 		</tr>
 		<tr>
-			<td>2615</td>
-			<td>Vervaardiging en bewerking van overig glas, inclusief technisch glaswerk</td>
+			<td>2120</td>
+			<td>Vervaardiging van farmaceutische producten</td>
 		</tr>
 		<tr>
-			<td>2621</td>
+			<td>2211</td>
+			<td>Vervaardiging van binnen- en buitenbanden van rubber; loopvlakvernieuwing</td>
+		</tr>
+		<tr>
+			<td>2219</td>
+			<td>Vervaardiging van andere producten van rubber</td>
+		</tr>
+		<tr>
+			<td>2311</td>
+			<td>Vervaardiging van vlakglas</td>
+		</tr>
+		<tr>
+			<td>2313</td>
+			<td>Vervaardiging van holglas</td>
+		</tr>
+		<tr>
+			<td>2314</td>
+			<td>Vervaardiging van glasvezels</td>
+		</tr>
+		<tr>
+			<td>2319</td>
+			<td>Vervaardiging en bewerking van ander glas (inclusief technisch glaswerk)</td>
+		</tr>
+		<tr>
+			<td>2320</td>
+			<td>Vervaardiging van vuurvaste producten</td>
+		</tr>
+		<tr>
+			<td>2331</td>
+			<td>Vervaardiging van keramische tegels en plavuizen</td>
+		</tr>
+		<tr>
+			<td>2341</td>
 			<td>Vervaardiging van huishoudelijk en sieraardewerk</td>
 		</tr>
 		<tr>
-			<td>2622</td>
+			<td>2342</td>
 			<td>Vervaardiging van sanitair aardewerk</td>
 		</tr>
 		<tr>
-			<td>2623</td>
+			<td>2343</td>
 			<td>Vervaardiging van isolatoren en isolatiemateriaal, van keramische stoffen</td>
 		</tr>
 		<tr>
-			<td>2624</td>
-			<td>Vervaardiging van overig technisch aardewerk</td>
+			<td>2344</td>
+			<td>Vervaardiging van ander technisch aardewerk</td>
 		</tr>
 		<tr>
-			<td>2625</td>
+			<td>2349</td>
 			<td>Vervaardiging van andere keramische producten</td>
 		</tr>
 		<tr>
-			<td>2626</td>
-			<td>Vervaardiging van vuurvaste keramische producten</td>
+			<td>2351</td>
+			<td>Vervaardiging van cement</td>
 		</tr>
 		<tr>
-			<td>2681</td>
+			<td>2352</td>
+			<td>Vervaardiging van kalk en gips</td>
+		</tr>
+		<tr>
+			<td>2370</td>
+			<td>Houwen, bewerken en afwerken van natuursteen</td>
+		</tr>
+		<tr>
+			<td>2391</td>
 			<td>Vervaardiging van schuur-, slijp- en polijstmiddelen</td>
 		</tr>
 		<tr>
-			<td>2722</td>
-			<td>Vervaardiging van stalen buizen</td>
+			<td>2410</td>
+			<td>Vervaardiging van ijzer en staal en van ferrolegeringen</td>
 		</tr>
 		<tr>
-			<td>2741</td>
-			<td>Productie van edele metalen</td>
+			<td>2420</td>
+			<td>Vervaardiging van buizen, pijpen, holle profielen en fittings daarvoor, van staal</td>
 		</tr>
 		<tr>
-			<td>2861</td>
-			<td>Vervaardiging van scharen, messen, bestekken enzovoort</td>
+			<td>2431</td>
+			<td>Koudtrekken van staven</td>
 		</tr>
 		<tr>
-			<td>2862</td>
-			<td>Vervaardiging van gereedschap</td>
+			<td>2441</td>
+			<td>Productie van edelmetalen</td>
 		</tr>
 		<tr>
-			<td>2874</td>
-			<td>Vervaardiging van bouten, schroeven, moeren, kettingen en veren</td>
+			<td>2442</td>
+			<td>Productie van aluminium</td>
 		</tr>
 		<tr>
-			<td>2875</td>
-			<td>Vervaardiging van overige producten van metalen, n.e.g.</td>
+			<td>2443</td>
+			<td>Productie van lood, zink en tin</td>
 		</tr>
 		<tr>
-			<td>2911</td>
-			<td>Vervaardiging van motoren en turbines, exclusief motoren voor luchtvaartuigen, motorvoertuigen en bromfietsen</td>
+			<td>2444</td>
+			<td>Productie van koper</td>
 		</tr>
 		<tr>
-			<td>2912</td>
-			<td>Vervaardiging van pompen en compressoren</td>
+			<td>2445</td>
+			<td>Productie van andere non-ferrometalen</td>
 		</tr>
 		<tr>
-			<td>2913</td>
-			<td>Vervaardiging van kranen en dergelijke artikelen</td>
+			<td>2446</td>
+			<td>Bewerking van splijt- en kweekstoffen</td>
 		</tr>
 		<tr>
-			<td>2914</td>
-			<td>Vervaardiging van tandwielen, lagers en andere drijfwerkelementen</td>
-		</tr>
-		<tr>
-			<td>2921</td>
-			<td>Vervaardiging van ovens en branders</td>
-		</tr>
-		<tr>
-			<td>2923</td>
-			<td>Vervaardiging van machines en apparaten voor de koeltechniek en klimaatregeling, voor niet-huishoudelijk gebruik</td>
-		</tr>
-		<tr>
-			<td>2924</td>
-			<td>Vervaardiging van overige machines en apparaten voor algemeen gebruik, n.e.g.</td>
-		</tr>
-		<tr>
-			<td>2932</td>
-			<td>Vervaardiging van overige machines en werktuigen voor de landbouw en de bosbouw</td>
-		</tr>
-		<tr>
-			<td>2941</td>
-			<td>Vervaardiging van motorisch aangedreven handgereedschap</td>
-		</tr>
-		<tr>
-			<td>2942</td>
-			<td>Vervaardiging van overige gereedschapswerktuigen voor de metaalbewerking</td>
-		</tr>
-		<tr>
-			<td>2943</td>
-			<td>Vervaardiging van andere gereedschapswerktuigen, n.e.g.</td>
-		</tr>
-		<tr>
-			<td>2951</td>
-			<td>Vervaardiging van machines voor de metallurgie</td>
-		</tr>
-		<tr>
-			<td>2952</td>
-			<td>Vervaardiging van machines voor de winning van delfstoffen en voor de bouw</td>
-		</tr>
-		<tr>
-			<td>2953</td>
-			<td>Vervaardiging van machines voor de productie van voedings- en genotmiddelen</td>
-		</tr>
-		<tr>
-			<td>2954</td>
-			<td>Vervaardiging van machines voor de productie van textiel, kleding en leer</td>
-		</tr>
-		<tr>
-			<td>2955</td>
-			<td>Vervaardiging van machines van papier of karton</td>
-		</tr>
-		<tr>
-			<td>2956</td>
-			<td>Vervaardiging van overige machines, apparaten en werktuigen voor specifieke doeleinden, n.e.g.</td>
-		</tr>
-		<tr>
-			<td>2960</td>
+			<td>2540</td>
 			<td>Vervaardiging van wapens en munitie</td>
 		</tr>
 		<tr>
-			<td>2971</td>
-			<td>Vervaardiging van elektrische huishoudapparaten</td>
+			<td>2571</td>
+			<td>Vervaardiging van scharen, messen, bestekken, enz.</td>
 		</tr>
 		<tr>
-			<td>3001</td>
-			<td>Vervaardiging van kantoormachines</td>
+			<td>2572</td>
+			<td>Vervaardiging van hang- en sluitwerk</td>
 		</tr>
 		<tr>
-			<td>3002</td>
-			<td>Vervaardiging van computers en andere apparatuur voor de verwerking van informatie</td>
+			<td>2573</td>
+			<td>Vervaardiging van gereedschap</td>
 		</tr>
 		<tr>
-			<td>3110</td>
-			<td>Vervaardiging van elektromotoren en van elektrische generatoren en transformatoren</td>
+			<td>2594</td>
+			<td>Vervaardiging van bouten, schroeven en moeren</td>
 		</tr>
 		<tr>
-			<td>3120</td>
-			<td>Vervaardiging van schakel- en verdeelinrichtingen</td>
+			<td>2599</td>
+			<td>Vervaardiging van andere producten van metaal, n.e.g.</td>
 		</tr>
 		<tr>
-			<td>3130</td>
-			<td>Vervaardiging van geïsoleerde kabels en draad</td>
+			<td>2611</td>
+			<td>Vervaardiging van elektronische onderdelen</td>
 		</tr>
 		<tr>
-			<td>3140</td>
-			<td>Vervaardiging van accumulatoren, elektrische elementen en elektrische batterijen</td>
+			<td>2612</td>
+			<td>Vervaardiging van elektronische printplaten</td>
 		</tr>
 		<tr>
-			<td>3150</td>
-			<td>Vervaardiging van verlichtingsbenodigdheden en van elektrische lampen en buizen</td>
+			<td>2620</td>
+			<td>Vervaardiging van computers en randapparatuur</td>
 		</tr>
 		<tr>
-			<td>3162</td>
-			<td>Vervaardiging van overige elektrische benodigdheden, n.e.g.</td>
+			<td>2630</td>
+			<td>Vervaardiging van communicatieapparatuur</td>
 		</tr>
 		<tr>
-			<td>3210</td>
-			<td>Vervaardiging van elektronenbuizen en andere elektronische onderdelen</td>
+			<td>2640</td>
+			<td>Vervaardiging van consumentenelektronica</td>
 		</tr>
 		<tr>
-			<td>3220</td>
-			<td>Vervaardiging van zendapparatuur voor televisie en radio en van apparatuur voor lijntelefonie en voor lijntelegrafie</td>
+			<td>2651</td>
+			<td>Vervaardiging van meet-, controle- en navigatie-instrumenten en -apparatuur</td>
 		</tr>
 		<tr>
-			<td>3230</td>
-			<td>Vervaardiging van televisie- en radio-ontvangers, audio- of video-opnameapparatuur of -reproductietoestellen</td>
-		</tr>
-		<tr>
-			<td>3310</td>
-			<td>Vervaardiging van medische apparatuur en instrumenten en van orthopedische artikelen</td>
-		</tr>
-		<tr>
-			<td>3320</td>
-			<td>Vervaardiging van meet-, regel- en controleapparatuur en van apparatuur voor het navigeren of voor andere doeleinden, exclusief apparaten voor de bewaking van industriële processen</td>
-		</tr>
-		<tr>
-			<td>3340</td>
-			<td>Vervaardiging van optische instrumenten en van foto- en filmapparatuur</td>
-		</tr>
-		<tr>
-			<td>3350</td>
+			<td>2652</td>
 			<td>Vervaardiging van uurwerken</td>
 		</tr>
 		<tr>
-			<td>3511</td>
-			<td>Scheepsbouw en -reparatie</td>
+			<td>2660</td>
+			<td>Vervaardiging van bestralingsapparatuur en van elektromedische en elektrotherapeutische apparatuur</td>
 		</tr>
 		<tr>
-			<td>3512</td>
-			<td>Bouw en reparatie van plezier- en sportvaartuigen</td>
+			<td>2670</td>
+			<td>Vervaardiging van optische instrumenten en van foto- en filmapparatuur</td>
 		</tr>
 		<tr>
-			<td>3530</td>
-			<td>Vervaardiging van lucht- en ruimtevaartuigen</td>
+			<td>2680</td>
+			<td>Vervaardiging van magnetische en optische media</td>
 		</tr>
 		<tr>
-			<td>3541</td>
+			<td>2711</td>
+			<td>Vervaardiging van elektromotoren en van elektrische generatoren en transformatoren</td>
+		</tr>
+		<tr>
+			<td>2712</td>
+			<td>Vervaardiging van schakel- en verdeelinrichtingen</td>
+		</tr>
+		<tr>
+			<td>2720</td>
+			<td>Vervaardiging van batterijen en accumulatoren</td>
+		</tr>
+		<tr>
+			<td>2731</td>
+			<td>Vervaardiging van kabels van optische vezels</td>
+		</tr>
+		<tr>
+			<td>2732</td>
+			<td>Vervaardiging van andere elektrische en elektronische kabels</td>
+		</tr>
+		<tr>
+			<td>2733</td>
+			<td>Vervaardiging van schakelaars, stekkers, stopcontacten e.d.</td>
+		</tr>
+		<tr>
+			<td>2740</td>
+			<td>Vervaardiging van elektrische verlichtingsbenodigdheden</td>
+		</tr>
+		<tr>
+			<td>2751</td>
+			<td>Vervaardiging van elektrische huishoudapparaten</td>
+		</tr>
+		<tr>
+			<td>2752</td>
+			<td>Vervaardiging van niet-elektrische huishoudapparaten</td>
+		</tr>
+		<tr>
+			<td>2790</td>
+			<td>Vervaardiging van andere elektrische apparatuur</td>
+		</tr>
+		<tr>
+			<td>2811</td>
+			<td>Vervaardiging van motoren en turbines, exclusief motoren voor luchtvaartuigen, motorvoertuigen en bromfietsen</td>
+		</tr>
+		<tr>
+			<td>2812</td>
+			<td>Vervaardiging van hydraulische apparatuur</td>
+		</tr>
+		<tr>
+			<td>2813</td>
+			<td>Vervaardiging van andere pompen en compressoren</td>
+		</tr>
+		<tr>
+			<td>2814</td>
+			<td>Vervaardiging van andere kranen en dergelijke artikelen</td>
+		</tr>
+		<tr>
+			<td>2815</td>
+			<td>Vervaardiging van tandwielen, lagers en andere drijfwerkelementen</td>
+		</tr>
+		<tr>
+			<td>2821</td>
+			<td>Vervaardiging van ovens en branders</td>
+		</tr>
+		<tr>
+			<td>2822</td>
+			<td>Vervaardiging van hijs-, hef- en transportwerktuigen</td>
+		</tr>
+		<tr>
+			<td>2823</td>
+			<td>Vervaardiging van kantoormachines en -uitrusting (exclusief computers en randapparatuur)</td>
+		</tr>
+		<tr>
+			<td>2824</td>
+			<td>Vervaardiging van elektrisch handgereedschap</td>
+		</tr>
+		<tr>
+			<td>2825</td>
+			<td>Vervaardiging van machines en apparaten voor de koeltechniek en de klimaatregeling, voor niet-huishoudelijk gebruik</td>
+		</tr>
+		<tr>
+			<td>2829</td>
+			<td>Vervaardiging van andere machines en apparaten voor algemeen gebruik, n.e.g.</td>
+		</tr>
+		<tr>
+			<td>2830</td>
+			<td>Vervaardiging van machines en werktuigen voor de landbouw en de bosbouw</td>
+		</tr>
+		<tr>
+			<td>2841</td>
+			<td>Vervaardiging van machines voor de metaalbewerking</td>
+		</tr>
+		<tr>
+			<td>2849</td>
+			<td>Vervaardiging van andere gereedschapswerktuigen</td>
+		</tr>
+		<tr>
+			<td>2891</td>
+			<td>Vervaardiging van machines voor de metallurgie</td>
+		</tr>
+		<tr>
+			<td>2892</td>
+			<td>Vervaardiging van machines voor de winning van delfstoffen en voor de bouw</td>
+		</tr>
+		<tr>
+			<td>2893</td>
+			<td>Vervaardiging van machines voor de productie van voedings- en genotmiddelen</td>
+		</tr>
+		<tr>
+			<td>2894</td>
+			<td>Vervaardiging van machines voor de productie van textiel, kleding en leer</td>
+		</tr>
+		<tr>
+			<td>2895</td>
+			<td>Vervaardiging van machines voor de productie van papier en karton</td>
+		</tr>
+		<tr>
+			<td>2896</td>
+			<td>Vervaardiging van machines voor de kunststof- en rubberindustrie</td>
+		</tr>
+		<tr>
+			<td>2899</td>
+			<td>Vervaardiging van andere machines, apparaten en werktuigen voor specifieke doeleinden, n.e.g.</td>
+		</tr>
+		<tr>
+			<td>2910</td>
+			<td>Vervaardiging van auto's</td>
+		</tr>
+		<tr>
+			<td>2931</td>
+			<td>Vervaardiging van elektrische en elektronische benodigdheden voor auto's</td>
+		</tr>
+		<tr>
+			<td>3011</td>
+			<td>Bouw van schepen en drijvend materieel</td>
+		</tr>
+		<tr>
+			<td>3012</td>
+			<td>Bouw van plezier- en sportvaartuigen</td>
+		</tr>
+		<tr>
+			<td>3030</td>
+			<td>Vervaardiging van lucht- en ruimtevaartuigen en van toestellen in verband daarmee</td>
+		</tr>
+		<tr>
+			<td>3091</td>
 			<td>Vervaardiging van motorfietsen</td>
 		</tr>
 		<tr>
-			<td>3542</td>
-			<td>Vervaardiging van rijwielen</td>
+			<td>3092</td>
+			<td>Vervaardiging van fietsen en invalidenwagens</td>
 		</tr>
 		<tr>
-			<td>3543</td>
-			<td>Vervaardiging van invalidenwagens</td>
-		</tr>
-		<tr>
-			<td>3550</td>
+			<td>3099</td>
 			<td>Vervaardiging van andere transportmiddelen, n.e.g.</td>
 		</tr>
 		<tr>
-			<td>3621</td>
-			<td>Slaan van munten en medailles</td>
+			<td>3109</td>
+			<td>Vervaardiging van andere meubelen</td>
 		</tr>
 		<tr>
-			<td>3622</td>
-			<td>Bewerken van edelstenen en vervaardiging van juwelen en dergelijke artikelen, n.e.g.</td>
+			<td>3211</td>
+			<td>Slaan van munten</td>
 		</tr>
 		<tr>
-			<td>3630</td>
+			<td>3212</td>
+			<td>Bewerken van edelstenen en vervaardiging van sieraden en dergelijke artikelen</td>
+		</tr>
+		<tr>
+			<td>3213</td>
+			<td>Vervaardiging van imitatiesieraden en dergelijke artikelen</td>
+		</tr>
+		<tr>
+			<td>3220</td>
 			<td>Vervaardiging van muziekinstrumenten</td>
 		</tr>
 		<tr>
-			<td>3640</td>
+			<td>3230</td>
 			<td>Vervaardiging van sportartikelen</td>
 		</tr>
 		<tr>
-			<td>3650</td>
+			<td>3240</td>
 			<td>Vervaardiging van spellen en speelgoed</td>
 		</tr>
 		<tr>
-			<td>3661</td>
-			<td>Vervaardiging van imitatiesieraden</td>
+			<td>3250</td>
+			<td>Vervaardiging van medische en tandheelkundige instrumenten en benodigdheden</td>
 		</tr>
 		<tr>
-			<td>3662</td>
+			<td>3291</td>
 			<td>Vervaardiging van borstelwaren</td>
 		</tr>
 		<tr>
-			<td>3663</td>
+			<td>3299</td>
 			<td>Overige industrie, n.e.g.</td>
 		</tr>
 	</tbody>
@@ -4176,89 +4146,97 @@ Onderstaande NACE-codes verwijzen naar NACE indeling rev. 1.1. De Prodcom codes 
 <table border="1">
 	<tbody>
 		<tr>
-			<td>Prodcom-<br>
-			code</td>
+			<td>CPA of<br>
+			Prodcom</td>
 			<td>Omschrijving</td>
 		</tr>
 		<tr>
-			<td>15311230</td>
-			<td>Aardappelmeel, -gries en -vlokken</td>
+			<td>081221</td>
+			<td>Kaolien en andere kaolienhoudende klei</td>
 		</tr>
 		<tr>
-			<td>15311250</td>
-			<td>Aardappelen, op andere wijze verduurzaamd dan in azijn of azijnzuur, bevroren</td>
+			<td>08122250</td>
+			<td>Gewone klei en schalie, voor het bouwbedrijf (excl. bentoniet, vuurvaste klei, geëxpandeerde klei, kaolien en kaolienhoudende klei); andalusiet, kyaniet en sillimaniet; mulliet; chamotte- en dinasaardemulliet</td>
 		</tr>
 		<tr>
-			<td>15331427</td>
-			<td>Geconcentreerde tomatenpuree</td>
+			<td>10311130</td>
+			<td>Aardappelen, bereid of verduurzaamd, bevroren (incl. aardappelen, voorgebakken of gebakken in olie en vervolgens bevroren) (excl. bereid of verduurzaamd in azijn of azijnzuur)</td>
 		</tr>
 		<tr>
-			<td>155120</td>
-			<td>Melk en room in vaste vorm</td>
+			<td>10311300</td>
+			<td>Meel, gries, poeder, vlokken, korrels en pellets, van gedroogde aardappelen</td>
 		</tr>
 		<tr>
-			<td>155153</td>
+			<td>10391725</td>
+			<td>Tomatenpuree en tomatenpasta, geconcentreerd</td>
+		</tr>
+		<tr>
+			<td>105121</td>
+			<td>Mageremelkpoeder</td>
+		</tr>
+		<tr>
+			<td>105122</td>
+			<td>Vollemelkpoeder</td>
+		</tr>
+		<tr>
+			<td>105153</td>
 			<td>Caseïne</td>
 		</tr>
 		<tr>
-			<td>155154</td>
+			<td>105154</td>
 			<td>Lactose (melksuiker) en melksuikerstroop</td>
 		</tr>
 		<tr>
-			<td>15515533</td>
-			<td>Wei in poeder, in korrels of in andere vaste vorm</td>
+			<td>10515530</td>
+			<td>Wei en gewijzigde wei, in poeder, in korrels of in andere vaste vorm, ook indien ingedikt of met toegevoegde zoetstoffen</td>
 		</tr>
 		<tr>
-			<td>15841100</td>
-			<td>Cacaopasta</td>
+			<td>108211</td>
+			<td>Cacaopasta, ook indien ontvet</td>
 		</tr>
 		<tr>
-			<td>15841200</td>
+			<td>108212</td>
 			<td>Cacaoboter, cacaovet en cacao-olie</td>
 		</tr>
 		<tr>
-			<td>15841300</td>
-			<td>Cacaopoeder, zonder toegevoegde suiker of andere zoetstoffen.</td>
+			<td>108213</td>
+			<td>Cacaopoeder, zonder toegevoegde suiker of andere zoetstoffen</td>
 		</tr>
 		<tr>
-			<td>15891333</td>
-			<td>Droge bakkersgist</td>
+			<td>10891344</td>
+			<td>Bakkersgist</td>
 		</tr>
 		<tr>
-			<td>24111150</td>
-			<td>Waterstof (inclusief de productie van waterstof in combinatie met syngas)</td>
+			<td>20111150</td>
+			<td>Waterstof</td>
 		</tr>
 		<tr>
-			<td>24111160</td>
+			<td>20111160</td>
 			<td>Stikstof</td>
 		</tr>
 		<tr>
-			<td>24111170</td>
+			<td>20111170</td>
 			<td>Zuurstof</td>
 		</tr>
 		<tr>
-			<td>243021</td>
-			<td>Bereide pigmenten, opacifeermiddelen en verfstoffen, verglaasbare samenstellingen, engobes, vloeibare glansmiddelen en dergelijke preparaten; glasfritten</td>
+			<td>203021</td>
+			<td>Bereide pigmenten, opacifieermiddelen en verfstoffen, verglaasbare samenstellingen, engobes, vloeibare glansmiddelen en dergelijke preparaten; glasfritten</td>
 		</tr>
 		<tr>
-			<td>24621030</td>
-			<td>Gelatine en derivaten daarvan, vislijm (exclusief caseïne- en beenderlijm)</td>
+			<td>239914</td>
+			<td>Kunstmatig grafiet; colloïdaal en semi-colloïdaal grafiet; preparaten op basis van grafiet of van andere koolstof, in de vorm van halffabrikaten</td>
 		</tr>
 		<tr>
-			<td>26821400</td>
-			<td>Kunstmatig grafiet, colloïdaal en semi-colloïdaal grafiet en preparaten</td>
+			<td>23991910</td>
+			<td>Slakkenwol, steenwol en dergelijke minerale wol, ook indien onderling vermengd, in bulk, in bladen of op rollen</td>
 		</tr>
 		<tr>
-			<td>26821610</td>
-			<td>Slakkenwol, steenwol ... (ook vermengd), in bulk, in bladen of op rollen</td>
+			<td>23991920</td>
+			<td>Geëxpandeerd vermiculiet, geëxpandeerde klei, slakkenschuim en dergelijke geëxpandeerde minerale producten, ook indien onderling vermengd</td>
 		</tr>
 		<tr>
-			<td>26821620</td>
-			<td>Geëxpandeerd vermiculiet, geëxpandeerde klei, slakkenschuim en dergelijke geëxpandeerde minerale producten en mengsels daarvan</td>
-		</tr>
-		<tr>
-			<td>28401133</td>
-			<td>Vrije vorm smeedwerk van staal : drijfwerkassen en krukken</td>
+			<td>25501134</td>
+			<td>Gesmede delen van ijzer of van staal, voor drijfwerkassen, nokkenassen, krukassen en krukken enz.</td>
 		</tr>
 	</tbody>
 </table>
@@ -4267,43 +4245,38 @@ Onderstaande NACE-codes verwijzen naar NACE indeling rev. 1.1. De Prodcom codes 
 <table border="1">
 	<tbody>
 		<tr>
-			<td>NACE-code</td>
+			<td>NACE-<br>
+			code</td>
 			<td>Omschrijving</td>
 		</tr>
 		<tr>
-			<td>1730</td>
-			<td>Textielverwerking</td>
+			<td>1106</td>
+			<td>Vervaardiging van mout</td>
 		</tr>
 		<tr>
-			<td>2020</td>
-			<td>Vervaardiging van fineer; vervaardiging van duplex-, triplex- en multiplexhout, meubelplaat, spaanderplaat, vezelplaat en andere panelen en platen</td>
+			<td>1330</td>
+			<td>Textielveredeling</td>
 		</tr>
 		<tr>
-			<td>2416</td>
-			<td>Vervaardiging van kunststoffen in primaire vormen</td>
-		</tr>
-		<tr>
-			<td>2640</td>
+			<td>2332</td>
 			<td>Vervaardiging van bakstenen, tegels en producten voor de bouw, van gebakken klei</td>
 		</tr>
 		<tr>
-			<td>2653</td>
-			<td>Vervaardiging van gips</td>
-		</tr>
-		<tr>
-			<td>2662</td>
+			<td>2362</td>
 			<td>Vervaardiging van artikelen van gips voor de bouw</td>
 		</tr>
 		<tr>
-			<td>2751</td>
+			<td>2451</td>
 			<td>Gieten van ijzer</td>
 		</tr>
 		<tr>
-			<td>2753</td>
+			<td>2453</td>
 			<td>Gieten van lichte metalen</td>
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
 
 ### Bijlage 5
 
