@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025118,
+  "title": "Ministerieel besluit van 2015-01-12 tot aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025118/VolledigDocument?datum=2015-01-12",
+  "source_sha256": "3dafb388d7a4d3487115ee8c6edb264780c481a9444f6863895d7dcb7af521c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025118&param=informatie",
+  "as_of": "2015-01-12",
+  "made": "2015-01-12",
+  "gazette": "2015-03-18",
+  "numac": 2015035275,
+  "document_start": "2015-01-12",
+  "document_end": null,
+  "in_force": "2015-01-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-01-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
