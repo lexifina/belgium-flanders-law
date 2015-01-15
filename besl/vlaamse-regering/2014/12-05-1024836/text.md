@@ -31,3 +31,11 @@ Artikel   11 van hetzelfde besluit wordt vervangen door wat volgt:<BR   style="T
 ### ART. 7.
 
 In   artikel 15 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 16 december 2011, worden de woorden "Mevr. Caroline Verlinde en de   heer Daan Aeyels" vervangen door de woorden "Mevr. Greta De Geest en Mevr. Tine   Dusauchoit".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 8.
+
+Artikel   1 heeft uitwerking met ingang van 22 september 2014. Artikel 2 heeft uitwerking   met ingang van 24 september 2014. Artikel 3 heeft uitwerking met ingang van 10   november 2014. Artikel 4 heeft uitwerking met ingang van 25 september 2014.   Artikel 5 heeft uitwerking met ingang van 5 november 2014. Artikel 6 heeft   uitwerking met ingang van 3 mei 2013. Artikel 7 heeft uitwerking met ingang van   25 september 2014.
+
+### ART. 9.
+
+&nbsp;De Vlaamse minister, bevoegd voor het   gezondheidsbeleid, is belast met de uitvoering van dit   besluit.
