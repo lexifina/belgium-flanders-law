@@ -10,7 +10,7 @@ Dit besluit is alleen van toepassing op de vergunningsaanvragen en   beroepen di
 
 ### ART. 2.
 
-Met toepassing van artikel 11 van de wet van 13 augustus 2004 betreffende   de vergunning van handelsvestigingen, zal het Interministerieel Comité voor de   Distributie bestaan uit de volgende afgevaardigden van de Vlaamse   Regering:<BR>1° Steven Van Muylder of zijn plaatsvervanger Tom De Saegher<BR>2°   Roel Bruyninckx of zijn plaatsvervanger Michiel Boodts<BR>3° Gaëtane Maes of   haar plaatsvervanger Helena Muyldermans<BR>4° Mehdi Koocheki of zijn   plaatsvervanger Greg Verhoeven<BR>
+Met toepassing van artikel 11 van de wet van 13 augustus 2004 betreffende   de vergunning van handelsvestigingen, zal het Interministerieel Comité voor de   Distributie bestaan uit de volgende afgevaardigden van de Vlaamse   Regering:<BR>1° Steven Van Muylder of zijn plaatsvervanger Tom De Saegher<BR>2°   Roel Bruyninckx of zijn plaatsvervanger Michiel Boodts<BR>3° Gaëtane Maes of   haar plaatsvervanger Helena Muyldermans<BR>4° Myriam Parys of zijn   plaatsvervanger Johan Hanssens<BR>
 
 ### ART. 3.
 
