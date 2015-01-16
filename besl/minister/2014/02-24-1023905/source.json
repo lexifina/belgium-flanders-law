@@ -2,16 +2,16 @@
   "codex_id": 1023905,
   "title": "Ministerieel besluit van 2014-02-24 met betrekking tot het cliëntoverleg in de integrale jeugdhulp",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023905/VolledigDocument?datum=2014-03-22",
-  "source_sha256": "3bc0c56baeb5ed6cbd9d61c342f8321bf38dcf3a805f2ea64df40faecbb38e53",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023905/VolledigDocument?datum=2015-01-16",
+  "source_sha256": "9e236b7b72b2761b35e0c0065a1200183d0ef99529d48d946d3c97e78434f0cf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023905&param=informatie",
-  "as_of": "2014-03-22",
+  "as_of": "2015-01-16",
   "made": "2014-02-24",
   "gazette": "2014-03-12",
   "numac": 2014035243,
   "document_start": "2014-03-22",
   "document_end": "2015-01-15",
-  "in_force": "2014-03-22",
+  "in_force": "2015-01-16",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-03-22; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-01-16; future article versions excluded; article text as the API gives it"
 }

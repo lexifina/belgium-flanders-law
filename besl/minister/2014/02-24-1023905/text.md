@@ -6,36 +6,36 @@
 
 ### ART. 1.
 
-<P>Ten laste van programma GB0/1GE-D-2-A/WT van de algemene uitgavenbegroting   van de Vlaamse Gemeenschap voor het begrotingsjaar 2014 wordt aan de provincies   Antwerpen, Vlaams-Brabant, West-Vlaanderen, Oost-Vlaanderen, Limburg en de   Vlaamse Gemeenschapscommissie in Brussel een subsidie toegekend van in totaal   83.332 euro (drieëntachtigduizend driehonderdtweeëndertig euro) voor de   organisatie van Cliëntoverleg Integrale Jeugdhulp.<BR></P>  <P>De middelen worden over de verschillende regio's verdeeld op basis van het   aantal uitgevoerde cliëntoverlegmomenten in de regio in de periode van 1 januari   2013 tot en met 31 oktober 2013. Een groeiratio van minstens 25 % is daarop   toegepast voor alle regio's. De middelen worden als volgt verdeeld:<BR>1°   Antwerpen: 26.677 euro (zesentwintigduizend zeshonderdzevenenzeventig   euro);<BR>2° Oost-Vlaanderen: 27.251 euro (zevenentwintigduizend   tweehonderdeenenvijftig euro);<BR>3° Vlaams-Brabant: 10.835 euro (tienduizend   achthonderdvijfendertig euro);<BR>4° West-Vlaanderen: 12.887 euro (twaalfduizend   achthonderdzevenentachtig euro);<BR>5° Brussel: 2.923 euro (tweeduizend   negenhonderddrieëntwintig euro);<BR>6° Limburg: 2.759 euro (tweeduizend   zevenhonderdnegenenvijftig euro).<BR></P>
+...
 
 ### ART. 2.
 
-<P>Het Cliëntoverleg Integrale Jeugdhulp komt in aanmerking voor subsidiëring   als dat overleg overeenkomstig artikel 1, 4°, van het besluit van de Vlaamse   Regering van 21 februari 2014 betreffende de integrale jeugdhulp, plaatsvindt   onder leiding van een externe voorzitter en in aanwezigheid van de minderjarige,   zijn ouders en, in voorkomend geval, zijn opvoedingsverantwoordelijken,   betrokken personen uit de leefomgeving van de minderjarige en de betrokken   jeugdhulpaanbieders, en als doel heeft in complexe situaties de   jeugdhulpverlening aan een minderjarige te coördineren en de continuïteit ervan   te bewaken. De hulpvraag van de minderjarige en zijn context staan daarbij   centraal en die personen worden maximaal betrokken bij het overleg.<BR></P>  <P>Het Cliëntoverleg Integrale Jeugdhulp kan ingezet worden op voorwaarde dat er   verschillende jeugdhulpaanbieders of andere personen en voorzieningen die   jeugdhulpverlening aanbieden, betrokken zijn bij de jeugdhulpverlening. <BR></P>  <P>Het Cliëntoverleg Integrale Jeugdhulp voldoet aan de voorwaarden en de   kwaliteitseisen, vermeld in artikel 30, tweede lid en derde lid, van het decreet   van 12 juli 2013 betreffende de integrale jeugdhulp, en verloopt volgens de   deontologische code Cliëntoverleg Integrale Jeugdhulp, die is goedgekeurd door   het Managementcomité Integrale Jeugdhulp.<BR></P>  <P>Een Cliëntoverleg Integrale Jeugdhulp resulteert altijd in een werkplan   volgens een sjabloon die is goedgekeurd door het Managementcomité Integrale   Jeugdhulp en wordt opgevolgd en geëvalueerd door een hulpcoördinator die is   aangesteld in samenspraak met de cliënt, zijn ouders en in voorkomend geval, de   opvoedingsverantwoordelijken. Elke jeugdhulpaanbieder die betrokken is bij de   jeugdhulpverlening aan de minderjarige, kan de rol van hulpcoördinator   opnemen.<BR></P>  <P>Met de instemming van de minderjarige, zijn ouders en, in voorkomend geval,   zijn opvoedingsverantwoordelijken kunnen deskundigen, die niet betrokken zijn   bij de lopende hulpverlening, uitgenodigd worden. Zij adviseren de deelnemers   aan het overleg.<BR></P>
+...
 
 ### ART. 3.
 
-Om vergoed te worden, moeten de voorzitters naast het leiden van het   Cliëntoverleg Integrale Jeugdhulp:<BR>1° met succes een door de Vlaamse overheid   georganiseerde vorming tot voorzitter van het Cliëntoverleg Integrale   Jeugdhulp;<BR>2° een anonieme registratie bijhouden per Cliëntoverleg Integrale   Jeugdhulp, in een systeem dat de Vlaamse overheid daarvoor ter beschikking   stelt;<BR>3° een aannemingscontract met de provinciale overheid ondertekend   hebben, alsook met de Vlaamse overheid;<BR>4° minimaal één keer per jaar   deelnemen aan een intervisiemoment in het kader van het Cliëntoverleg Integrale   Jeugdhulp.<BR>
+...
 
 ### ART. 4.
 
-Het subsidiebedrag wordt als volgt besteed;<BR>1° voor de vergoeding van   de externe voorzitters Cliëntoverleg Integrale Jeugdhulp:<BR>a) een forfaitaire   onkostenvergoeding van 25 euro per overleg voor de voorbereiding, administratie   en registratie van het overleg, op voorwaarde dat de voorzitter effectief   handelingen in het dossier gesteld heeft;<BR>b) een ereloon van 105 euro   (inclusief btw) en een forfaitaire onkostenvergoeding van 70 euro (inclusief   btw) per overleg om een cliëntoverleg voor te zitten;<BR>c) een ereloon van 50   euro (inclusief btw) en een forfaitaire onkostenvergoeding van 50 euro   (inclusief btw) per dossier om ondersteuning te bieden als co-voorzitter;<BR>d)   een forfaitaire onkostenvergoeding van 70 euro (inclusief btw) per   intervisiemoment voor de deelname aan intervisie voor de voorzitters van het   Cliëntoverleg Integrale Jeugdhulp;<BR>2° voor de ondersteuning door de   provincies voor elke provincie en voor de Vlaamse Gemeenschapscommissie een   forfait van 100 euro per ingediend aanvraagformulier Cliëntoverleg Integrale   Jeugdhulp dat voldoet aan de ontvankelijkheidsvereisten vastgelegd door het   Managementcomité Integrale Jeugdhulp.<BR>
+...
 
 ### ART. 5.
 
-Het forfait, vermeld in artikel 4, eerste lid, 2°, vergoedt het   provinciebestuur of het bestuur van de Vlaamse Gemeenschapscommissie voor de   volgende opdrachten:<BR>1° het verstrekken van informatie en advies aan   minderjarigen, ouders, opvoedingsverantwoordelijken en jeugdhulpaanbieders en   andere personen en voorzieningen die jeugdhulpverlening aanbieden;<BR>2° de   beoordeling van de aanmeldingen en de dispatching ervan aan de   voorzitters;<BR>3° de mandatering van voorzitters op basis van een uniform   aannemingscontract;<BR>4° de administratieve opvolging van de aanmeldingen, met   name het opvolgen en controleren van registratie en de bijbehorende   gegevensverwerking;<BR>5° een eenvormige jaarlijkse rapportage aan het   Managementcomité Integrale Jeugdhulp en het Intersectoraal Regionaal Overleg   Jeugdhulp voor Vlaanderen en Brussel op basis van een sjabloon die aangeleverd   is door de Vlaamse overheid;<BR>6° de vergoeding van de externe voorzitters op   een eenvormige wijze voor Vlaanderen en Brussel volgens de bepalingen, vermeld   in artikel 4, eerste lid, 1° ; <BR>7° de bekendmaking van het Cliëntoverleg   Integrale Jeugdhulp in de provincie en in Brussel;<BR>8° de organisatie van   intervisie voor de voorzitters van het Cliëntoverleg Integrale Jeugdhulp;<BR>9°   de ondersteuning van de voorzitter bij de praktische organisatie van het   Cliëntoverleg Integrale Jeugdhulp.<BR>
+...
 
 ### ART. 6.
 
-&nbsp;De middelen die worden toegekend op basis van dit besluit, kunnen   besteed worden van 1 maart 2014 tot en met 31 december 2014. Het subsidiebedrag   wordt uitbetaald in één schijf na de ondertekening van dit besluit door de   minister. <BR>
+...
 
 ### ART. 7.
 
-Het provinciebestuur of de Vlaamse Gemeenschapscommissie is   verantwoordelijk voor de afrekening en rechtvaardiging van de aangewende   middelen en legt de nodige bewijsstukken voor om de aanwending van de subsidie   te staven.<BR>
+...
 
 ### ART. 8.
 
-De provincie en de Vlaamse Gemeenschapscommissie richten uiterlijk eind   maart 2015 een verantwoording voor de ontvangen subsidie met betrekking tot het   uitgevoerde Cliëntoverleg Integrale Jeugdhulp en de opdrachten, vermeld in   artikel 5, aan het afdelingshoofd van de afdeling Beleidsontwikkeling van het   Departement Welzijn, Volksgezondheid en Gezin. Die verantwoording bestaat uit   een kopie van het financieel verslag, de bewijsstukken van de vergoeding van de   voorzitters en een overzicht van de activiteiten die met de middelen zijn   gefinancierd. De Vlaamse Gemeenschap zal de middelen die niet binnen de termijn   of die niet correct besteed zijn en de middelen die niet verantwoord kunnen   worden, terugvorderen bij de provincie of de Vlaamse   Gemeenschapscommissie.<BR>
+...
 
 ### ART. 9.
 
-De subsidiebedragen worden uitbetaald op de volgende rekeningnummers:   <BR>1° voor de provincie Antwerpen: provinciebestuur Antwerpen, dienst Welzijn   en Gezondheid, Boomgaardstraat 22, bus 101, 2600 Antwerpen-Berchem,   rekeningnummer 776-5956722-49;<BR>2° voor de provincie Oost-Vlaanderen:   provinciebestuur Oost-Vlaanderen, Ontvangerij, Gouvernementstraat 1, 9000 Gent,   rekeningnummer 091-0005494-91;<BR>3° voor de provincie Vlaams-Brabant: provincie   Vlaams-Brabant, directie Financiën, Provincieplein 1, 3010 Leuven,   rekeningnummer 091-0106177-88;<BR>4° voor de provincie West-Vlaanderen:   provinciebestuur West-Vlaanderen, Koning Leopold III-laan 41, 8200 Brugge   (Sint-Andries), rekeningnummer 091-0005483-80;<BR>5° voor de Vlaamse   Gemeenschapscommissie: Vlaamse Gemeenschapscommissie, Emile Jacqmainlaan 135,   1000 Brussel, rekeningnummer 091-00015599-11;<BR>6° voor de provincie Limburg:   provincie Limburg, Decentrale Ontvangsten, Universiteitslaan 1, 3500 Hasselt,   rekeningnummer 091-01361280-68.<BR>
+...
