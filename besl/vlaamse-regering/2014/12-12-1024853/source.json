@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024853,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-12 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 20 juli 2006 tot vaststelling van nadere regels voor de toepassing van de watertoets, tot aanwijzing van de adviesinstantie en tot vaststelling van nadere regels voor de adviesprocedure bij de watertoets, vermeld in het artikel 8 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, en van het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024853/VolledigDocument?datum=2015-01-22",
+  "source_sha256": "c726dd8a9f2a2ec06512f03ab319f52caafe410a50e66541119f49351571df90",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024853&param=informatie",
+  "as_of": "2015-01-22",
+  "made": "2014-12-12",
+  "gazette": "2015-01-12",
+  "numac": 2015035020,
+  "document_start": "2015-01-22",
+  "document_end": null,
+  "in_force": "2015-01-22",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
