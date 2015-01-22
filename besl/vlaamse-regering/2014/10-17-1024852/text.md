@@ -54,6 +54,10 @@ Aan   artikel 3, § 2, tweede lid, van het besluit van de Vlaamse Regering van 2
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 31 maart 2006 tot regeling van sommige verloven en terbeschikkingstellingen voor de personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool
 
+### ART. 12.
+
+In   artikel 8, § 1, 2°, van het besluit van de Vlaamse Regering van 31 maart 2006   tot regeling van sommige verloven en terbeschikkingstellingen voor de   personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere   Zeevaartschool, gewijzigd bij het besluit van de Vlaamse Regering van 9   september 2011, worden de woorden "dertig kalenderdagen" vervangen door de   woorden "vier maanden".
+
 ## HOOFDSTUK 4 Wijziging van het besluit van de Vlaamse Regering van 15 februari 2008 betreffende het ziekteverlof, het verlof voor verminderde prestaties wegens ziekte en de terbeschikkingstelling wegens ziekte voor bepaalde personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding
 
 ### ART. 13.
