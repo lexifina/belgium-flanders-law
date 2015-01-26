@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024863,
+  "title": "Decreet van 2014-12-19 houdende instemming met het samenwerkingsakkoord tussen de federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijke Gewest met betrekking tot de Coördinatiestructuur voor patrimoniuminformatie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024863/VolledigDocument?datum=2015-01-26",
+  "source_sha256": "ef76e9ad56239ff5c10ca3454cacb91c6854172931ded70fc47e06b97df90f2f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024863&param=informatie",
+  "as_of": "2015-01-26",
+  "made": "2014-12-19",
+  "gazette": "2015-01-16",
+  "numac": 2015035040,
+  "document_start": "2015-01-26",
+  "document_end": null,
+  "in_force": "2015-01-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-01-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
