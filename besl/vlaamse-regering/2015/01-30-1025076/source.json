@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025076,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-30 tot bepaling van de organisaties die in aanmerking komen voor erkenning als Kunstinstelling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025076/VolledigDocument?datum=2015-01-30",
+  "source_sha256": "162bf3071608e96daec2d713f3ae073a5368c54c275ea3863f21e8f67124612e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025076&param=informatie",
+  "as_of": "2015-01-30",
+  "made": "2015-01-30",
+  "gazette": "2015-03-04",
+  "numac": 2015035244,
+  "document_start": "2015-01-30",
+  "document_end": null,
+  "in_force": "2015-01-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
