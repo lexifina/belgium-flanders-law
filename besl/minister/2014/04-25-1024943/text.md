@@ -8,7 +8,7 @@ De Minister van Volksgezondheid,<BR><BR>Gelet op de wet van 14 augustus   1986 b
 
 ### ART. 1.
 
-Het bedrag van de forfaitaire bijdragen bedoeld in artikel 42 van het   koninklijk besluit van 25 april 2014 betreffende de identificatie en registratie   van honden, wordt vastgesteld op :<BR>1° voor paspoorten : 0,75 euro;<BR>2° voor   identificatiecertificaten : 10,20 euro, met inbegrip van de bijdrage voorzien in   artikel 7 van de wet van 14 augustus 1986 betreffende de bescherming en het   welzijn der dieren;<BR>3° voor fiches "Vervanging paspoort" : 4,25   euro.
+Het bedrag van de forfaitaire bijdragen bedoeld in artikel 41 van het   koninklijk besluit van 25 april 2014 betreffende de identificatie en registratie   van honden, wordt vastgesteld op :<BR>1° ...<BR>2° voor   identificatiecertificaten :&nbsp;11,64 euro, met inbegrip van de bijdrage   voorzien in artikel 7 van de wet van 14 augustus 1986 betreffende de bescherming   en het welzijn der dieren;<BR>3° voor fiches "Vervanging paspoort" : 4,25   euro.
 
 ## HOOFDSTUK II. Het identificatiecertificaat
 
@@ -24,17 +24,17 @@ Elk identificatiecertificaat heeft een uniek nummer dat wordt herhaald op de ver
 
 ### ART. 4.
 
-Het paspoort beantwoordt aan het model en de aanvullende eisen vastgelegd   in beschikking 2003/803/EG van de Commissie van 26 november 2003 tot   vaststelling van een modelpaspoort voor het intracommunautair verkeer van   honden, katten en fretten.
+<P>...</P>
 
 ## HOOFDSTUK IV. Het registratiecertificaat
 
 ### ART. 5.
 
-Het registratiecertificaat beantwoordt aan de voorschriften voor de   overeenkomstige delen van het paspoort, met name :<BR>1° de rubriek "I.   Eigenaar";<BR>2° de rubriek "II. Beschrijving van het dier";<BR>3° de rubriek   "III. Identificatie van het dier".
+<P>Het registratiecertificaat, vermeld in artikel 22 van het koninklijk besluit   van 25 april 2014 betreffende de identificatie en registratie van honden,   vermeldt de volgende gegevens:<BR>1° het opschrift "Registratie van een   hond";<BR>2° het identificatienummer van de hond;<BR>3° de naam en het adres van   de verantwoordelijke;<BR>4° het nummer van het paspoort, vermeld op het document   op basis waarvan de laatste registratie is gedaan.</P>
 
 ### ART. 6.
 
-Op elk onderdeel van het registratiecertificaat wordt het nummer van het   bijbehorende paspoort zoals vermeld op het identificatiecertificaat   overgenomen.
+<P>...</P>
 
 ## HOOFDSTUK V. De kaart "Wijziging gegevens"
 
