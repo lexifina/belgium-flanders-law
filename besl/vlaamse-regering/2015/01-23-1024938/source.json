@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024938,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-23 tot wijziging van de regelgeving betreffende de identificatie en registratie van honden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024938/VolledigDocument?datum=2015-01-30",
+  "source_sha256": "32feae6c868accc9121e617879623fe06df07aec5ae7a97bc8b01ac29ef8f8b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024938&param=informatie",
+  "as_of": "2015-01-30",
+  "made": "2015-01-23",
+  "gazette": "2015-01-30",
+  "numac": 2015035104,
+  "document_start": "2015-01-30",
+  "document_end": null,
+  "in_force": "2015-01-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-01-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
