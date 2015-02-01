@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025031,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-16 betreffende de uitbreiding van de onderwijsbevoegdheid van centra voor volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025031/VolledigDocument?datum=2015-02-01",
+  "source_sha256": "b86b0e052968298cfc8eac36ecdc1b4d59755a1cb6687b8486c852ca77b46072",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025031&param=informatie",
+  "as_of": "2015-02-01",
+  "made": "2015-01-16",
+  "gazette": "2015-02-26",
+  "numac": 2015035153,
+  "document_start": "2015-02-01",
+  "document_end": null,
+  "in_force": "2015-02-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2015-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
