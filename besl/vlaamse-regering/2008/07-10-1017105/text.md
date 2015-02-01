@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van de studiegebieden die behoren tot het hoger   beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit   zijn gevoegd.<BR><BR>Ter uitvoering van artikel 179ter van hetzelfde decreet   worden de modulaire opleidingsprofielen voor de modulaire structuur van de   studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage   V tot en met XIII, die bij dit besluit zijn gevoegd <BR><BR>Ter uitvoering van   artikel 161/2 van het decreet van 30 april 2009 betreffende het secundair na   secundair onderwijs en het hoger beroepsonderwijs, worden de opleidingsprofielen   vastgelegd in bijlage XIV tot en met XVIII.<BR><BR>
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van de studiegebieden die behoren tot het hoger   beroepsonderwijs, vastgelegd in bijlage I tot en met IV, die bij dit besluit   zijn gevoegd.<BR><BR>Ter uitvoering van artikel 179ter van hetzelfde decreet   worden de modulaire opleidingsprofielen voor de modulaire structuur van de   studiegebieden die behoren tot het hoger beroepsonderwijs, vastgelegd in bijlage   V tot en met XIII, die bij dit besluit zijn gevoegd <BR><BR>Ter uitvoering van   artikel 161/2 van het decreet van 30 april 2009 betreffende het secundair na   secundair onderwijs en het hoger beroepsonderwijs, worden de opleidingsprofielen   vastgelegd in bijlage XIX tot en met XXII.<BR><BR>
 
 ### ART. 2.
 
@@ -107,3 +107,19 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE XVIII
 
 <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_2.pdf#page=71">Bijlage   XVIII deel 1</A></P>  <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/05_1_3.pdf#page=1">Bijlage   XVIII deel 2</A></P>
+
+### BIJLAGE XIX
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1.pdf#page=42">Bijlage   XIX</A>
+
+### BIJLAGE XX
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1.pdf#page=63">Bijlage   XX</A>
+
+### BIJLAGE XXI
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1.pdf#page=88">Bijlage   XXI deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_2.pdf#page=1">Bijlage   XXI deel 2</A>
+
+### BIJLAGE XXII
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_2.pdf#page=30">Bijlage   XXII</A>
