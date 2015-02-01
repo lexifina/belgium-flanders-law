@@ -1,0 +1,21 @@
+# Ministerieel besluit van 2015-01-29 tot vastlegging van de algemene gelijkwaardigheid van het "International Baccalaureate Diploma"/"Diplôme du Baccalauréat International" en het "Europees baccalaureaatsdiploma" met het diploma van secundair onderwijs
+
+### Aanhef
+
+<P>De   Vlaamse minister van Onderwijs,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op de Codex Secundair Onderwijs van 17 december 2010, bekrachtigd bij het   decreet van 27 mei 2011, artikel 115/2, ingevoegd bij het decreet van 1 juli   2011;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het besluit van de Vlaamse Regering van 14 juni 2013 betreffende de   voorwaarden en procedure tot de erkenning van de gelijkwaardigheid van   buitenlandse studiebewijzen met Vlaamse studiebewijzen uitgereikt in het   basisonderwijs en secundair onderwijs, en sommige Vlaamse studiebewijzen   uitgereikt in het volwassenenonderwijs, artikel 4, § 1;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het ministerieel besluit van 25 oktober 1973 tot vaststelling van de   gelijkwaardigheid van het "diplôme du baccalauréat international" met het   Belgisch bekwaamheidsdiploma dat toegang verleent tot het hoger   onderwijs;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het advies van het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming,   als erkenningsautoriteit, van 31 juli 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 20   november 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op advies 56.957/1 van de Raad van State, gegeven op 22 januari 2015, met   toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 1.
+
+&nbsp;Het "International Baccalaureate   Diploma"/"Diplôme du Baccalauréat International", ingesteld door de   International Baccalaureate Organization in Genève, is gelijkwaardig met het   diploma van secundair onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 2.
+
+Het   "Europees baccalaureaatsdiploma", vermeld in het verdrag houdende het Statuut   van de Europese Scholen van 21 juni 1994, is gelijkwaardig met het diploma van   secundair onderwijs.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 3.
+
+Het   ministerieel besluit van 25 oktober 1973 tot vaststelling van de   gelijkwaardigheid van het "diplôme du baccalauréat international" met het   Belgisch bekwaamheidsdiploma dat toegang verleent tot het hoger onderwijs, wordt   opgeheven.
+
+### ART. 4.
+
+&nbsp;Dit besluit treedt in werking op 1   februari 2015.

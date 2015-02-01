@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025091,
+  "title": "Ministerieel besluit van 2015-01-29 tot vastlegging van de algemene gelijkwaardigheid van het \"International Baccalaureate Diploma\"/\"Diplôme du Baccalauréat International\" en het \"Europees baccalaureaatsdiploma\" met het diploma van secundair onderwijs",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025091/VolledigDocument?datum=2015-02-01",
+  "source_sha256": "147880fa844d8537693ecb724a26b5e3b179b90a535cca4a4a7e3d47e1684d6a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025091&param=informatie",
+  "as_of": "2015-02-01",
+  "made": "2015-01-29",
+  "gazette": "2015-03-11",
+  "numac": 2015035250,
+  "document_start": "2015-02-01",
+  "document_end": null,
+  "in_force": "2015-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
