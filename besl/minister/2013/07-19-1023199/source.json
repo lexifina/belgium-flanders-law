@@ -2,16 +2,16 @@
   "codex_id": 1023199,
   "title": "Ministerieel besluit van 2013-07-19 tot goedkeuring van de algemene reisvoorwaarden en de tarieven van de Vlaamse Vervoermaatschappij",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023199/VolledigDocument?datum=2014-02-01",
-  "source_sha256": "5f42082819ad59e30975f00c713a49e9160e3ecb8a9d6993ad33cd84eda8512c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023199/VolledigDocument?datum=2015-02-01",
+  "source_sha256": "57af2ab3708c7f10d5b49978de4ea3c7aada48bb669f027f8ff705f29c8fd8b3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023199&param=informatie",
-  "as_of": "2014-02-01",
+  "as_of": "2015-02-01",
   "made": "2013-07-19",
   "gazette": "2013-08-19",
   "numac": 2013035720,
   "document_start": "2013-08-29",
   "document_end": "2015-01-31",
-  "in_force": "2014-02-01",
+  "in_force": "2015-02-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-02-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-02-01; future article versions excluded; article text as the API gives it"
 }
