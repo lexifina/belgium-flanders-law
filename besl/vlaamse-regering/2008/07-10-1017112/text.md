@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied voeding, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in bijlage I tot en met XL, die bij dit besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied voeding, dat behoort tot het secundair   volwassenenonderwijs, vastgelegd in bijlage I tot en met XLVI, die bij dit   besluit zijn gevoegd.
 
 ### ART. 2.
 
@@ -14,15 +14,15 @@ De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de i
 
 ### ART. 3.
 
-§ 1. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotel TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hotel, hotelbedrijf, hulpkelner, hulpkok, kelner, kok, keukenverantwoordelijke en zaalverantwoordelijke.<br /><br />§ 2. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotelbedrijf BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen bierkenner, hotelbedrijf, hotelonthaal, hulpkelner, hulpkok, kelner, kelner brasserie taverne bistro, kok, keukenverantwoordelijke, medewerker brasserie taverne bistro, verantwoordelijke brasserie taverne bistro, wijnkenner en zaalverantwoordelijke.<br /><br />§ 3. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding traiteur BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hulpkelner, hulpkok, kelner banketdienst, keukenverantwoordelijke, kok, traiteur-banketaannemer, traiteurkok en wijnkenner.<br /><br />§ 4. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3, vermeld in bijlage V bij hetzelfde decreet, heeft vanaf 1 september 2010 ook onderwijsbevoegdheid voor de modulaire opleiding Ambachtelijk brood- en banketbakker.
+§ 1. Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding hotel TSO 3, vermeld in   bijlage III bij het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook   onderwijsbevoegdheid voor de modulaire opleidingen hotel, hotelbedrijf,   hulpkelner, hulpkok, kelner, kok, keukenverantwoordelijke en   zaalverantwoordelijke.<BR><BR>§ 2. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   hotelbedrijf BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf   het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen   bierkenner, hotelbedrijf, hotelonthaal, hulpkelner, hulpkok, kelner, kelner   brasserie taverne bistro, kok, keukenverantwoordelijke, medewerker brasserie   taverne bistro, verantwoordelijke brasserie taverne bistro, wijnkenner en   zaalverantwoordelijke.<BR><BR>§ 3. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   traiteur BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het   schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen   hulpkelner, hulpkok, kelner banketdienst, keukenverantwoordelijke, kok,   traiteur-banketaannemer, traiteurkok en wijnkenner.<BR><BR>§ 4. Het bestuur van   een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3, vermeld in   bijlage V bij hetzelfde decreet, heeft vanaf 1 september 2010 ook   onderwijsbevoegdheid voor de modulaire opleiding Ambachtelijk brood- en   banketbakker.<BR><BR>§ 5. Het bestuur van een Centrum voor Volwassenenonderwijs   dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bakkersgast, heeft   vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding   Medewerker Bakkerij.<BR><BR>§ 6. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de   modulaire opleidingen Broodbakker, Banketbakker, Brood en banket of Ambachtelijk   brood- en banketbakker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid   voor de modulaire opleidingen Bakker en Banketbakker.<BR><BR>§ 7. Het bestuur   van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Confiseur-chocoladebewerker of Ambachtelijk   chocoladebewerker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de   modulaire opleidingen Chocoladebewerker en Suiker- en   Marsepeinbewerker.<BR><BR>§ 8. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   Bereider van consumptie-ijs en tearoomspecialiteiten of Ambachtelijk   ijsbereider, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de   modulaire opleiding IJsbereider.
 
 ### ART. 4.
 
-De hierna vermelde modulaire opleidingen kunnen, bij wijze van overgangsmaatregel, nog gedurende het schooljaar 2008-2009 gebruikt worden :<br />1° slager-vleeswarenbereider-fijnkosttraiteur BSO 3;<br />2° culinair traiteur-slager BSO 3;<br />3° bakkersgast BSO 3;<br />4° ambachtelijk brood- en banketbakker BSO 3.<br /><br />De modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3 kan, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2010-2011 en 2011-2012 georganiseerd worden.
+<P>...</P>
 
 ### ART. 5.
 
-De hierna vermelde modulaire opleidingen kunnen, bij wijze van overgangsmaatregel, nog gedurende de schooljaren 2008-2009 en 2009-2010 gebruikt worden :<br />1° hotel TSO 3;<br />2° hotelbedrijf BSO 3;<br />3° traiteur BSO 3.
+<P>...</P>
 
 ### ART. 6.
 
@@ -195,3 +195,27 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE XL
 
 <P><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_10.pdf#page=62">Bijlage   XL</A></P>
+
+### BIJLAGE XLI
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_6.pdf#page=85">Bijlage   XLI deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_7.pdf#page=1">Bijlage   XLI deel 2</A>
+
+### BIJLAGE XLII
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_7.pdf#page=7">Bijlage   XLII</A>
+
+### BIJLAGE XLIII
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_7.pdf#page=38">Bijlage   XLIII</A>
+
+### BIJLAGE XLIV
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_7.pdf#page=68">Bijlage   XLIV</A>
+
+### BIJLAGE XLV
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_7.pdf#page=89">Bijlage   XLV deel 1</A><BR><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_8.pdf#page=1">Bijlage   XLV deel 2</A>
+
+### BIJLAGE XLVI
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_8.pdf#page=7">Bijlage   XLVI</A>
