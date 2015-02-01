@@ -304,7 +304,7 @@ Het is niet toegestaan :<br />1° de infrastructuur, de installaties of de appar
 
 ### ART. 66.
 
-§ 1. Zodra de reiziger in het voertuig plaatsneemt, moet hij in het bezit zijn van een van de vervoerbewijzen, vermeld in artikel 72, dat geldig is of geldig is gemaakt voor de rit, of van een vervoerbewijs of bewijsstuk dat hem recht geeft op gratis vervoer als vermeld in artikel 75. Het vervoerbewijs moet geldig zijn voor de volledige rit die hij ermee aflegt.<br /><br />De reiziger moet dat vervoerbewijs of bewijsstuk tijdens de reis steeds tonen aan de personen die met de controle zijn belast.<br /><br />De reiziger die een tariefvermindering geniet en daartoe over een verminderingskaart moet beschikken overeenkomstig artikel 76, moet die verminderingskaart steeds tonen aan de personen die met de controle zijn belast.<br /><br />De reiziger moet steeds zijn identiteit kunnen bewijzen.<br /><br />§ 2. De reiziger zonder geld of zonder gepast geld moet dat aan de bestuurder melden als hij in het voertuig stapt. De reiziger moet het voor die rit verschuldigde bedrag en de administratiekosten betalen aan de VVM binnen een termijn van veertien dagen. Als hij niet betaalt binnen die termijn, wordt dat gelijkgesteld met een overtreding van § 1, eerste lid.<br /><br />De minister bepaalt vanaf welk bedrag de bestuurder bankbiljetten mag weigeren als het onmogelijk is om ervan terug te geven.
+§ 1. Zodra de reiziger in het voertuig plaatsneemt, moet hij in het bezit   zijn van een vervoerbewijs dat geldig is of geldig is gemaakt voor de rit, of   van een vervoerbewijs of bewijsstuk dat hem recht geeft op gratis vervoer. Het   vervoerbewijs moet geldig zijn voor de volledige rit die hij ermee   aflegt.<BR><BR>De reiziger moet dat vervoerbewijs of bewijsstuk tijdens de reis   steeds tonen aan de personen die met de controle zijn belast.<BR><BR>De reiziger   die een tariefvermindering geniet en daartoe over een verminderingskaart moet   beschikken, moet die verminderingskaart steeds tonen aan de personen die met de   controle zijn belast.<BR><BR>De reiziger moet steeds zijn identiteit kunnen   bewijzen.<BR><BR>§ 2. De reiziger zonder geld of zonder gepast geld moet dat aan   de bestuurder melden als hij in het voertuig stapt. De reiziger moet het voor   die rit verschuldigde bedrag en de administratiekosten betalen aan de VVM binnen   een termijn van veertien dagen. Als hij niet betaalt binnen die termijn, wordt   dat gelijkgesteld met een overtreding van § 1, eerste lid.<BR><BR>De minister   bepaalt vanaf welk bedrag de bestuurder bankbiljetten mag weigeren als het   onmogelijk is om ervan terug te geven.
 
 ### ART. 67.
 
@@ -324,67 +324,67 @@ Het is niet toegestaan :<br />1° in of uit het voertuig te stappen voor het vol
 
 ### ART. 70.
 
-§ 1. De tarieven worden op voorstel van de raad van bestuur van de VVM ter goedkeuring aan de minister voorgelegd.<br /><br />De VVM hanteert een logische verhouding tussen de prijs van de verschillende soorten vervoerbewijzen.<br /><br />§ 2. De VVM int de vervoerprijzen op basis van de door de minister goedgekeurde tarieven.
+<P>...</P>
 
 ### ART. 71.
 
-De VVM zal maximaal één algemene tariefwijziging per begrotingsjaar doorvoeren. Die wijziging wordt bij voorkeur doorgevoerd op 1 februari of gelijktijdig met die van de andere vervoermaatschappijen.<br /><br />De VVM legt het voorstel voor tariefaanpassing uiterlijk twee maanden vóór de geplande inwerkingtreding aan de minister voor.<br /><br />Als de gemiddelde prijsverhoging maximaal gelijk is aan de stijging van het gewone indexcijfer van de consumptieprijzen, zal de minister deze verhoging goedkeuren, voorzover het voorstel in overeenstemming is met het gevoerde beleid van de Vlaamse regering.
+<P>...</P>
 
 ### ART. 72.
 
-De VVM verschaft enkel de volgende soorten vervoerbewijzen:<br /><br />1° een vervoerbewijs voor één reis;<br /><br />2° een vervoerbewijs voor een beperkt aantal reizen;<br /><br />3° een gepersonaliseerd of niet-gepersonaliseerd vervoerbewijs voor een onbeperkt aantal reizen gedurende een bepaalde periode op het hele net van de VVM.<br /><br />De VVM hanteert eenvoudige gebruiksvoorwaarden voor de vervoerbewijzen.
+<P>...</P>
 
 ### ART. 73.
 
-De VVM verschaft de vervoerbewijzen, bedoeld in artikel 72, overeenkomstig de door de minister nader te bepalen beginselen.
+<P>...</P>
 
 ### ART. 74.
 
-De minister kan voor de vervoerbewijzen, bedoeld in artikel 72, 1° en 2°, Vlaanderen indelen in tariefzones. De vervoerprijs wordt berekend op basis van het tijdstarief. Het tijdstarief laat de reiziger toe zijn reis zonder meerkosten te vervolledigen binnen dezelfde tariefzone. De nadere regels van het tijdstarief worden op voorstel van de raad van bestuur van de VVM ter goedkeuring aan de minister voorgelegd.
+<P>...</P>
 
 ## AFDELING 2 GRATIS VERVOER EN VERMINDERDE TARIEVEN
 
 ### ART. 75.
 
-De minister bepaalt de categorieën van reizigers die recht hebben op gratis vervoer.<br /><br />Minstens de volgende categorieën van personen hebben recht op gratis vervoer:<br />1° de leden van de Belgische Kamer van volksvertegenwoordigers en van de Senaat;<br />2° de leden van de Gewest- en Gemeenschapsraden van België;<br />3° de leden van de regeringen, de staatssecretarissen en de regeringscommissarissen van België;<br />4° de Belgische leden van het Europees Parlement;<br />5° kinderen jonger dan zes jaar;<br />6° maximaal vier kinderen ouder dan zes jaar en jonger dan twaalf jaar, vergezeld van een reiziger van minstens twaalf jaar die reist met een gepersonaliseerd vervoerbewijs dat geldig is voor een onbeperkt aantal reizen gedurende een bepaalde periode op het hele net van de VVM, verschaft door de VVM of door een andere vervoermaatschappij;<br />7° kinderen ouder dan zes jaar en jonger dan twaalf jaar, die beschikken over een door de VVM erkende verminderingskaart;<br />8° personen die de leeftijd van vijfenzestig jaar hebben bereikt, als ze inwoner zijn van het Vlaamse Gewest;<br />9° oud-strijders, militaire oorlogsinvaliden, politieke gevangenen en daarmee gelijkgestelde invaliden;<br />10° blinden en hun begeleider;<br />11° personen met een handicap, erkend door het Vlaams Fonds voor de Sociale Integratie van Personen met een Handicap;<br />12° personen met een handicap die een uitkering krijgen van de Federale Overheidsdienst voor Sociale Zekerheid, als ze inwoner zijn van het Vlaamse Gewest;<br />13° personen die in het bezit zijn van een kaart voor begeleider en die een persoon met een handicap vergezellen tijdens de reis;<br />14° beroepsjournalisten, die in het bezit zijn van een nationale perskaart;<br />16° de personeelsleden van de VVM en hun inwonende gezinsleden;<br />16° de bevoegde ambtenaren, bedoeld in artikel 37 van het besluit van de Vlaamse regering van 19 juli 2002 betreffende het geregeld vervoer, de bijzondere vormen van geregeld vervoer, het vervoer voor eigen rekening en het ongeregeld vervoer;<br />17° de ambtenaren, belast met het toezicht op de VVM.<br /><br />De minister bepaalt welke categorieën van reizigers als bedoeld in het eerste en tweede lid, over een door de VVM afgegeven vervoerbewijs voor gratis vervoer moeten beschikken en de nadere regels voor het verkrijgen van die vervoerbewijzen.<br /><br />Voor het vervoer van de personen, bedoeld in het tweede lid, 8°, sluiten de minister en de VVM een derdebetalersovereenkomst waarin de financiële compensatie door het Vlaamse Gewest voor de ontvangstenderving van de VVM wordt bepaald.
+<P>...</P>
 
 ### ART. 76.
 
-De minister bepaalt de categorieën van reizigers die recht hebben op een tariefvermindering.<br /><br />Een vermindering wordt minstens toegestaan aan:<br /><br />1° kinderen ouder dan zes jaar en jonger dan twaalf jaar, tenzij ze overeenkomstig artikel 75 recht hebben op gratis ver-voer;<br /><br />2° personen met een leefloon, personen die verblijven in een lokaal opvanginitiatief en gelijkgestelde categorieën;<br /><br />3° personen met een gewaarborgd inkomen voor bejaarden of inkomensgarantie voor ouderen;<br /><br />4° personen met een WIGW-statuut.<br /><br />Voor elk van de categorieën van reizigers, bedoeld in het eerste en tweede lid, worden de vermindering en de vervoerbewijzen waarvoor de vermindering in kwestie geldt, op voorstel van de raad van bestuur van de VVM ter goedkeuring aan de minister voorgelegd.<br /><br />De minister bepaalt welke categorieën van reizigers, als bedoeld in het tweede lid, over een door de VVM afgegeven verminderingskaart moeten beschikken en de nadere regels voor het verkrijgen van die verminderingskaarten en het afgeven van die vervoerbewijzen.
+<P>...</P>
 
 ## AFDELING 3 VERVOERBEWIJZEN VOOR SPECIFIEKE GELEGENHEDEN
 
 ### ART. 77.
 
-Op de tarieven die door de minister zijn goedgekeurd, zijn enkel uitzonderingen mogelijk in de volgende specifieke gevallen:<br /><br />1° voor specifieke gelegenheden die georganiseerd of erkend worden door de Vlaamse overheid, kan de VVM een vervoerbewijs tegen verminderd tarief<br /><br />verkopen;<br /><br />2° voor specifieke gelegenheden die georganiseerd worden door derden en een eenmalig of cyclisch karakter hebben, kan de VVM een gecombineerd vervoerbewijs verkopen dat het tarief voor het vervoer en de toegangsprijs van deze gelegenheid omvat. Voor het vervoer wordt het goedkoopste tarief aangerekend zoals voor een overeenkomstige reis met een vervoerbewijs als bedoeld in artikel 72, 2°°;<br /><br />3° voor specifieke gelegenheden kan de VVM vervoerbewijzen tegen een verminderd tarief verschaffen als ze dat commercieel opportuun vindt en hiervoor zelf het financiële risico draagt.
+<P>...</P>
 
 ## AFDELING 4 GEMEENSCHAPPELIJKE BEPALINGEN
 
 ### ART. 78.
 
-De minister bepaalt de gegevens die minstens op de vervoerbewijzen, bedoeld in artikelen 72 en 75, en op de verminderingskaarten, bedoeld in artikel 76, moeten staan.
+<P>...</P>
 
 ### ART. 79.
 
-De minister kan de nadere regels bepalen voor het gebruik en de ontwaarding van de vervoer-bewijzen en verminderingskaarten.
+<P>...</P>
 
 ### ART. 80.
 
-De VVM kan met een overheid of een privé-instantie derdebetalersovereenkomsten sluiten waar-mee ze aan welbepaalde categorieën van reizigers gratis vervoer of vervoer tegen een verminderd tarief toestaat. De minister stelt de nadere regels vast voor het sluiten van die overeenkomsten.
+<P>...</P>
 
 ### ART. 81.
 
-De VVM kan overeenkomsten sluiten met een andere vervoermaatschappij tot wederzijdse er-kenning van de vervoerbewijzen of van de toegepaste verminderingen of tot creatie van gemeenschappelijke vervoer-bewijzen, als de andere vervoermaatschappij daartoe de nodige beheersinformatie bezorgt.<br /><br />Als deze overeenkomsten een budgettaire impact hebben, worden ze voorafgaandelijk ter goedkeuring aan de minister voorgelegd.<br /><br />De minister kan eventueel de VVM de opdracht geven om onderhandelingen op te starten tot het sluiten van een overeenkomst met één of meer vervoermaatschappijen.
+<P>...</P>
 
 ## AFDELING 5 VERVOER VAN NIET-BEGELEIDE PAKJES, FIETSEN, HANDBAGAGE EN DIEREN
 
 ### ART. 82.
 
-De VVM kan niet-begeleide pakjes vervoeren van ten hoogste 30 kg, als die de reizigers niet storen. Het tarief en de nadere regels voor het vervoer van die niet-begeleide pakjes worden op voorstel van de raad van bestuur van de VVM ter goedkeuring aan de minister voorgelegd.<br /><br />Het tarief en de nadere regels voor het vervoer van fietsen worden op voorstel van de raad van bestuur van de VVM ter goedkeuring aan de minister voorgelegd.<br /><br />De VVM vervoert gratis de handbagage die de reiziger bij zich heeft, met inbegrip van een rolstoel, kinderwagen of boodschappenwagentje.
+<P>...</P>
 
 ### ART. 83.
 
-De VVM vervoert gratis:<br /><br />1° de hondjes en andere kleine dieren die de reizigers vergezellen als ze niet gevaarlijk zijn en op de schoot kunnen worden gehouden;<br /><br />2° de geleidehonden van de blinden en de honden die een politieagent vergezellen.<br /><br />De minister bepaalt de nadere voorwaarden waaronder de VVM aan vervoer van dieren mag doen.
+<P>...</P>
 
 ## [HOOFDSTUK IV/1 KLACHTEN EN HANDHAVINGSINSTANTIE (ing. BVR 20 september 2013, art. 2, I: 12 oktober 2013)]
 
