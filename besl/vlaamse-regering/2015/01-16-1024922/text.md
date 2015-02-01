@@ -1,0 +1,21 @@
+# Besluit van de Vlaamse Regering van 2015-01-16 houdende opheffing van artikel 70 tot en met 83 van het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de exploitatie en de tarieven van de VVM
+
+### Aanhef
+
+<P>De   Vlaamse Regering,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op artikel 20 van de bijzondere wet van 8 augustus 1980 tot hervorming der   instellingen, gewijzigd bij de bijzondere wet van 16 juli 1993;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het besluit van de Vlaamse Regering van 14 mei 2004 betreffende de   exploitatie en de tarieven van de VVM;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het advies van de Inspectie van Financiën, gegeven op 24 november   2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op advies nr. 56.842/3 van de Raad van State, gegeven op 17 december 2014, met   toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Op   voorstel van de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand,   Toerisme en Dierenwelzijn;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Na   beraadslaging,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :</P>
+
+### ART. 1.
+
+In   artikel 66, § 1, van het besluit van de Vlaamse Regering van 14 mei 2004   betreffende de exploitatie en de tarieven van de VVM, ingevoegd bij het besluit   van de Vlaamse Regering van 26 januari 2007, worden de volgende wijzigingen   aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid wordt de zinsnede "van een van de vervoerbewijzen, vermeld in   artikel 72," vervangen door de woorden "van een vervoerbewijs";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het eerste lid wordt de zinsnede "als vermeld in artikel 75"   opgeheven;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in het derde lid wordt de zinsnede "overeenkomstig artikel 76'"   opgeheven.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 2.
+
+In   hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 26   januari 2007, 24 april 2009 en 20 september 2013, wordt hoofdstuk IV, dat   bestaat uit artikel 70 tot en met 83, opgeheven.
+
+### ART. 3.
+
+Dit   besluit treedt in werking op 1 februari 2015.
+
+### ART. 4.
+
+De   Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de openbare werken en het   vervoer, is belast met de uitvoering van dit besluit.
