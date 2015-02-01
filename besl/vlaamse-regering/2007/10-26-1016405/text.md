@@ -514,7 +514,7 @@ Besluit :<br>
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° Aanvullingsdecreet : het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen;<br />2° associatie : de vereniging zonder winstoogmerk als vermeld in artikel 97 van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen;<br />3° Herculesstichting : het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, als vermeld in artikel VI.9.9, § 1, van het Aanvullingsdecreet;<br />4° hogeschool : een hogeschool in de Vlaamse Gemeenschap;<br />5° middelzware onderzoeksinfrastructuur : onderzoeksinfrastructuur met een totale financieringskost van ten minste 150.000 euro en ten hoogste 1.500.000 euro;<br />6° minister : de Vlaamse minister, bevoegd voor het wetenschaps- en innovatiebeleid;<br />7° onderzoeksinfrastructuur : faciliteiten en bronnen die het verrichten van grensverleggend en strategisch basisonderzoek bevorderen, daaronder ondermeer begrepen wetenschappelijke infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met inbegrip van de digitale ontsluiting ervan;<br />8° strategisch onderzoekscentrum : één van de volgende onderzoekscentra :<br />a) het Interuniversitair Micro-Elektronica Centrum,<br />b) het Vlaams Instituut voor Biotechnologie,<br />c) het Vlaams Instituut voor Technologisch Onderzoek,<br />d) het Interdisciplinair instituut voor BreedBand Technologie;<br />9° universiteit : een universiteit in de Vlaamse Gemeenschap;<br />10° zware onderzoeksinfrastructuur : onderzoeksinfrastructuur met een totale financieringskost van meer dan 1.500.000 euro.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°   associatie: de vereniging zonder winstoogmerk, vermeld in deel 2, titel 1,   hoofdstuk 2, van de Codex Hoger Onderwijs van 11 oktober 2013;<BR>2° decreet van   30 april 2009: het decreet van 30 april 2009 betreffende de organisatie en   financiering van het wetenschaps- en innovatiebeleid;<BR>3° Herculesstichting :   het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in   artikel 22/1 van het decreet van 30 april 2009;<BR>4° hogeschool : een   hogeschool in de Vlaamse Gemeenschap;<BR>5° middelzware   onderzoeksinfrastructuur: de infrastructuur, vermeld in artikel 2, 16°, van het   decreet van 30 april 2009;<BR>6° minister : de Vlaamse minister, bevoegd voor   het wetenschaps- en innovatiebeleid;<BR>7° onderzoeksinfrastructuur :   faciliteiten en bronnen die het verrichten van grensverleggend en strategisch   basisonderzoek bevorderen, daaronder ondermeer begrepen wetenschappelijke   infrastructuur, collecties, natuurlijke habitats, corpora en databanken, met   inbegrip van de digitale ontsluiting ervan;<BR>8° strategisch onderzoekscentrum   : één van de volgende onderzoekscentra :<BR>a) het Interuniversitair   Micro-Elektronica Centrum,<BR>b) het Vlaams Instituut voor Biotechnologie,<BR>c)   het Vlaams Instituut voor Technologisch Onderzoek,<BR>d) het Interdisciplinair   instituut voor BreedBand Technologie;<BR>9° universiteit : een universiteit in   de Vlaamse Gemeenschap;<BR>10° zware onderzoeksinfrastructuur: de   infrastructuur, vermeld in artikel 2, 17°, van het decreet van 30 april   2009.<BR><BR>
 
 ## TITEL II Herculesfinanciering
 
@@ -522,7 +522,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° Aanvullingsde
 
 ### ART. 2.
 
-Deze titel is van toepassing op de investeringsinitiatieven die in aanmerking wensen te komen voor subsidiëring door de Herculesstichting overeenkomstig deel VI, titel IVter, van het Aanvullingsdecreet.<br /><br />
+Deze titel is van toepassing op de investeringsinitiatieven die in   aanmerking wensen te komen voor subsidiëring door de Herculesstichting   overeenkomstig artikel 22/1, § 1, eerste lid, 1°, van het decreet van 30 april   2009.<BR><BR>
 
 ## HOOFDSTUK 2 Selectie van investeringsinitiatieven inzake middelzware onderzoeksinfrastructuur
 
@@ -530,21 +530,22 @@ Deze titel is van toepassing op de investeringsinitiatieven die in aanmerking we
 
 ### ART. 3.
 
-<p>De Herculesverdeelsleutel, als vermeld in artikel VI.9.11, van het Aanvullingsdecreet, wordt bepaald als volgt :<br>
-<br>
-</p>
+<p>De Herculesverdeelsleutel, als vermeld in artikel 22/3, § 1, van het decreet van 30 april 2009, wordt bepaald als volgt :<br>
+&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>(Σ BOF/ Σ BOF + Σ IOF&nbsp; x&nbsp; (BOF-sleutel))&nbsp; +&nbsp; (Σ IOF/ Σ BOF + Σ IOF&nbsp; x&nbsp; (IOF-sleutel)<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<p>(Σ BOF/ Σ BOF + Σ IOF&nbsp; x&nbsp; (BOF-sleutel))&nbsp; +&nbsp; (Σ IOF/ Σ BOF + Σ IOF&nbsp; x&nbsp; (IOF-sleutel)</p>
 
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
+
+<p>&nbsp;</p>
 
 <p>waarbij :<br>
 <br>
@@ -565,15 +566,15 @@ De subsidieaanvragen betreffende investeringsinitiatieven inzake middelzware ond
 
 ### ART. 5.
 
-§ 1. De associatiebesturen organiseren associatiebrede oproepen voor investeringsinitiatieven voor middelzware onderzoeksinfrastructuur.<br /><br />§ 2. - Bij de oproepen en het verdere selectieproces wordt een onderscheid gemaakt tussen Hercules 1-investeringsinitiatieven en Hercules 2-investeringsinitiatieven.<br />- Hercules 1-investeringsinitiatieven zijn initiatieven ten bedrage van ten minste 150.000 euro en ten hoogste 600.000 euro.<br />- Hercules 2-investeringsinitiatieven zijn initiatieven ten bedrage van meer dan 600.000 euro en ten hoogste 1.500.000 euro.<br /><br />
+§ 1. De associatiebesturen organiseren associatiebrede oproepen voor   investeringsinitiatieven voor middelzware onderzoeksinfrastructuur.<BR><BR>§ 2.   ...<BR>
 
 ### ART. 6.
 
-§ 1. - De selectiecriteria worden vastgesteld in het algemeen onderzoeks- en samenwerkingsreglement van de associatie, als vermeld in artikel 101bis van het decreet van 4 april 2003 betreffende de herstructurering van het hoger onderwijs in Vlaanderen.<br />- De selectiecriteria, evenals alle wijzigingen daarvan, worden aan de minister en de Herculesstichting meegedeeld.<br /><br />§ 2. Voor de toetsing aan het selectiecriterium, als vermeld in artikel VI.9, 11, § 2, 3°, van het Aanvullingsdecreet, wordt erop toegezien dat het voor de voorgenomen investering opgemaakte investeringsplan ten minste volgende elementen omvat :<br />1° een beschrijving van de voorgenomen investering;<br />2° een beschrijving van de kwaliteit van de infrastructuur waarin de onderzoeksinfrastructuur desgevallend wordt gehuisvest;<br />3° een schatting van de financiële, personele en materiële kosten;<br />4° een gedetailleerd gebruiksplan dat betrekking heeft op de afschrijvingsperiode van de onderzoeksinfrastructuur;<br />5° een redelijke inschatting van de mate waarin de onderzoeksinfrastructuur bijdraagt tot belangrijke wetenschappelijke, technologische of maatschappelijke ontwikkelingen of innovatie;<br />6° een beschrijving van de kostenstructuur en een opgave van de financieringswijzen en de desbetreffende waarborgen.<br /><br />
+§ 1. - De selectiecriteria worden vastgesteld in het algemeen onderzoeks-   en samenwerkingsreglement van de associatie, als vermeld in artikel II.12, van   de Codex Hoger Onderwijs van 20 december 2013.<BR>- De selectiecriteria, evenals   alle wijzigingen daarvan, worden aan de minister en de Herculesstichting   meegedeeld.<BR><BR>§ 2. Voor de toetsing aan het selectiecriterium, vermeld in   artikel 22/3, § 2, tweede lid, 3°, van het decreet van 30 april 2009, wordt erop   toegezien dat het voor de voorgenomen investering opgemaakte investeringsplan   ten minste volgende elementen omvat :<BR>1° een beschrijving van de voorgenomen   investering;<BR>2° een beschrijving van de kwaliteit van de infrastructuur   waarin de onderzoeksinfrastructuur desgevallend wordt gehuisvest;<BR>3° een   schatting van de financiële, personele en materiële kosten;<BR>4° een   gedetailleerd gebruiksplan dat betrekking heeft op de afschrijvingsperiode van   de onderzoeksinfrastructuur;<BR>5° een redelijke inschatting van de mate waarin   de onderzoeksinfrastructuur bijdraagt tot belangrijke wetenschappelijke,   technologische of maatschappelijke ontwikkelingen of innovatie;<BR>6° een   beschrijving van de kostenstructuur en een opgave van de financieringswijzen en   de desbetreffende waarborgen.<BR><BR>
 
 ### ART. 7.
 
-§ 1. De investeringsinitiatieven worden geselecteerd overeenkomstig de in de hiernavolgende paragrafen chronologisch beschreven procedure.<br /><br />§ 2. Het associatiebestuur evalueert de aanvragen en rangschikt deze op grond van de selectiecriteria op een indicatieve lijst.<br /><br />§ 3. - De raad van bestuur van de Herculesstichting stelt een beoordelingspanel samen, bestaande uit :<br />1° deskundigen uit de associaties, waaronder ten minste drie vertegenwoordigers uit de hogescholensector;<br />2° ten minste twee vertegenwoordigers uit de industriële sector.<br />- Het beoordelingspanel stelt een advies op omtrent de rangschikking van de voorgestelde investeringsinitiatieven en de subsidiepercentages.<br />- Het oordeel van het beoordelingspanel steunt op :<br />1° een beoordeling, per associatie, van de in § 2 vermelde indicatieve lijsten, met inachtneming van de in artikel 6 vermelde selectiecriteria;<br />2° een toetsing van de voorgestelde investeringsinitiatieven op macroniveau waarbij wordt nagegaan of er zich geen noden of opportuniteiten aandienen op het vlak van instellings- of associatieoverschrijdende samenwerking of samenwerking met instellingen voor postinitieel onderwijs, strategische onderzoekscentra, wetenschappelijke instellingen, of bedrijven.<br /><br />§ 4. - De raad van bestuur van de Herculesstichting bezorgt elk associatiebestuur bij aangetekend schrijven de onderdelen van het oordeel van het beoordelingspanel die van toepassing zijn op de betrokken associatie.<br />- De associatiebesturen beschikken over een vervaltermijn van dertig kalenderdagen om aan de raad van bestuur van de Herculesstichting een reactie of een verbetervoorstel over te maken. De dertigdagentermijn gaat in de dag na deze van de betekening van het in het eerste lid vermelde aangetekend schrijven.<br /><br />§ 5. De raad van bestuur van de Herculesstichting neemt een eindbeslissing op grond van :<br />1° het oordeel van het beoordelingspanel;<br />2° de tijdig overgemaakte reacties of verbetervoorstellen van de associatiebesturen.<br /><br />
+<P>De investeringsinitiatieven worden geselecteerd als volgt:<BR>1°   selectieprocedure op het niveau van elke associatie:<BR>a) aanvragers dienen hun   aanvraag in bij een associatie op een daartoe door de associatie ter beschikking   gesteld elektronisch formulier;<BR>b) de associaties plegen overleg om te komen   tot een maximale samenwerking;<BR>c) de aanvragen worden beoordeeld   overeenkomstig de regeling van het algemeen onderzoeks- en   samenwerkingsreglement van de associatie;<BR>d) elke associatie stelt een   indicatieve lijst met voor subsidiëring voorgestelde aanvragen op, met dien   verstande dat:<BR>1) de indicatieve lijst het bedrag waarover de associatie   beschikt kan overschrijden met ten hoogste twee aanvragen of met ten hoogste 15   %;<BR>2) aan de indicatieve lijst een kort motiveringsverslag betreffende elke   behandelde aanvraag wordt toegevoegd, met daarbij in voorkomend geval een   verantwoording van wijzigingen aan voor subsidiëring voorgestelde aanvragen ten   opzichte van hetgeen initieel werd ingediend;<BR>2° selectieprocedure op het   niveau van de Herculesstichting:<BR>a) de raad van bestuur van de   Herculesstichting beoordeelt, per associatie, de indicatieve lijsten, met   inachtneming van de selectiecriteria, vermeld in artikel 6, waarbij ook acht   wordt geslagen op mogelijke noden of opportuniteiten op het vlak van   instellings- of associatieoverschrijdende samenwerking of samenwerking met   derden;<BR>b) de raad van bestuur van de Herculesstichting bezorgt elk   associatiebestuur bij aangetekend schrijven de onderdelen van de beoordeling die   van toepassing zijn op de betrokken associatie;<BR>c) de associatiebesturen   beschikken over een vervaltermijn van dertig dagen, die de dag na de betekening   van het aangetekend schrijven ingaat, om aan de raad van bestuur van de   Herculesstichting een reactie of een verbetervoorstel over te maken;<BR>d) de   raad van bestuur van de Herculesstichting neemt een eindbeslissing op grond van   de beoordeling, vermeld in punt b), en de eventueel tijdig overgemaakte reacties   of verbetervoorstellen van de associatiebesturen.</P>
 
 ## Afdeling 4 Overdraagbaarheid van onbestemde middelen
 
@@ -607,7 +608,7 @@ De aan een associatie toekomende middelen voor middelzware onderzoeksinfrastruct
 
 ### ART. 13.
 
-De Herculesstichting organiseert een oproep voor initiatieven betreffende zware onderzoeksinfrastructuur, verder Hercules 3-initiatieven genoemd.<br />- De oproep wordt gericht tot :<br />1° de associatiebesturen en alle besturen van de universiteiten en hogescholen die partner zijn bij een associatie;<br />2° de strategische onderzoekscentra;<br />3° de instellingen voor postinitieel onderwijs.<br /><br />
+De Herculesstichting organiseert een oproep voor initiatieven betreffende   zware onderzoeksinfrastructuur.<BR>- De oproep wordt gericht tot :<BR>1° de   associatiebesturen en alle besturen van de universiteiten en hogescholen die   partner zijn bij een associatie;<BR>2° de strategische onderzoekscentra;<BR>3°   de instellingen voor postinitieel onderwijs.<BR><BR>
 
 ### ART. 14.
 
@@ -619,17 +620,17 @@ De Herculesstichting organiseert een oproep voor initiatieven betreffende zware 
 
 ### ART. 15.
 
-De subsidiabele kosten zijn deze als vermeld in artikel VI.9.13, met dien verstande dat over de afschrijvingsperiode van de onderzoeksinfrastructuur ten hoogste 15 procent van de subsidiëring besteed kan worden aan :<br />1° herstellingskosten met betrekking tot de onderzoeksinfrastructuur;<br />2° kosten voor aanpassingen aan gebouwen en aansluitingskosten ten behoeve van de onderzoeksinfrastructuur;<br />3° personele kosten voor het permanente onderhoud en het bedienen van de onderzoeksinfrastructuur.<br /><br />
+De subsidiabele kosten zijn deze als vermeld in artikel 22/5 van het   decreet van 30 april 2009, met dien verstande dat over de afschrijvingsperiode   van de onderzoeksinfrastructuur ten hoogste 15 procent van de subsidiëring   besteed kan worden aan :<BR>1° herstellingskosten met betrekking tot de   onderzoeksinfrastructuur;<BR>2° kosten voor aanpassingen aan gebouwen en   aansluitingskosten ten behoeve van de onderzoeksinfrastructuur;<BR>3° personele   kosten voor het permanente onderhoud en het bedienen van de   onderzoeksinfrastructuur.<BR><BR>
 
 ## Afdeling 2 Subsidiepercentage
 
 ### ART. 16.
 
-Geselecteerde Hercules 1-initiatieven ontvangen onder de voorwaarden als vermeld in artikel VI.9.14, van het Aanvullingsdecreet een subsidiëring ten belope van 100 % van de subsidiabele kosten.<br /><br />
+Geselecteerde initiatieven voor middelzware onderzoeksinfrastructuur   ontvangen onder de voorwaarden, vermeld in artikel 22/6 van het decreet van 30   april 2009, een subsidiëring ten bedrage van 100 % van de subsidiabele   kosten.<BR>
 
 ### ART. 17.
 
-- Geselecteerde Hercules 2- en 3-initiatieven ontvangen onder de voorwaarden als vermeld in artikel VI.9.14, van het Aanvullingsdecreet een subsidiëring ten belope van 70 % van de subsidiabele kosten.<br />- De subsidiëring wordt echter verhoogd tot 90 % in het geval het investeringsinitiatief uitgaat van een onderzoeksgroep of onderzoeksgroepen in de schoot van meer dan één aanvrager, voor zover in het aanvraagdossier wordt aangetoond dat alle aanvragers ten minste de helft dragen van het bedrag dat zij zouden moeten betalen, mocht de resterende 10 % van de subsidiabele kosten naar evenredigheid worden verdeeld. <br />- Indien ten minste 25 % van de in aanmerking komende kosten ten laste worden genomen door een andere instantie dan een universiteit of een hogeschool, wordt het door de universiteit of de hogeschool zelf te financieren gedeelte voor 100 % gesubsidieerd.<br /><br />
+- Geselecteerde initiatieven voor zware onderzoeksinfrastructuur ontvangen   onder de voorwaarden, vermeld in artikel 22/6 van het decreet van 30 april 2009,   een subsidiëring ten bedrage van 70 % van de subsidiabele kosten.<BR>- De   subsidiëring wordt echter verhoogd tot 90 % in het geval het   investeringsinitiatief uitgaat van een onderzoeksgroep of onderzoeksgroepen in   de schoot van meer dan één aanvrager, voor zover in het aanvraagdossier wordt   aangetoond dat alle aanvragers ten minste de helft dragen van het bedrag dat zij   zouden moeten betalen, mocht de resterende 10 % van de subsidiabele kosten naar   evenredigheid worden verdeeld. <BR>- Indien ten minste 25 % van de in aanmerking   komende kosten ten laste worden genomen door een andere instantie dan een   universiteit of een hogeschool, wordt het door de universiteit of de hogeschool   zelf te financieren gedeelte voor 100 % gesubsidieerd.<BR><BR>
 
 ## Afdeling 3 Betalingsmodaliteiten
 
@@ -651,7 +652,7 @@ De raad van bestuur van de Herculesstichting en de ontvangers van de subsidie sl
 
 ### ART. 21.
 
-Indien de regeringscommissaris bij een universiteit, de commissaris bij een hogeschool, of de regeringscommissaris of commissaris, belast met het toezicht op de associatie, een overtreding vaststelt van de in artikel 17 vermelde aanwendingsvereisten of van de in artikel 19 en 20 vermelde subsidiëringsvoorwaarden, voegt hij bij het beroepschrift een advies om toepassing te maken van artikel 57 van de wetten op de Rijkscomptabiliteit, gecoördineerd op 17 juli 1991, dan wel artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof.<br /><br />
+Indien de regeringscommissaris bij een universiteit, de commissaris bij   een hogeschool, of de regeringscommissaris of commissaris, belast met het   toezicht op de associatie, een overtreding vaststelt van de in artikel 17   vermelde aanwendingsvereisten of van de in artikel 19 en 20 vermelde   subsidiëringsvoorwaarden, voegt hij bij het beroepschrift een advies om   toepassing te maken van&nbsp;artikel 13 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het   Rekenhof.<BR><BR>
 
 ## HOOFDSTUK 5 Evaluatie
 
