@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024869,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-12 tot wijziging van het besluit van de Vlaamse Regering van 21 december 2012 tot toekenning van een tijdelijke subsidie van de Vlaamse Gemeenschap voor de uitbouw van een hulplijn/aanspreekpunt en een aansluitend en rechtstreeks toegankelijk en vindplaatsgericht aanbod van informatie, advies, ondersteuning en begeleiding, evenals de uitbreiding van het aanbod aan preventieve gezinsondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024869/VolledigDocument?datum=2015-02-01",
+  "source_sha256": "c4789f28495b6cb180e67379891d85292ad85a38f7a93f1c881781fdce14f1d4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024869&param=informatie",
+  "as_of": "2015-02-01",
+  "made": "2014-12-12",
+  "gazette": "2015-01-22",
+  "numac": 2015035030,
+  "document_start": "2015-02-01",
+  "document_end": null,
+  "in_force": "2015-02-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
