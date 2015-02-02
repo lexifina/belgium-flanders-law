@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024946,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-09 tot wijziging van diverse bepalingen van het ministerieel besluit van 12 augustus 2005 houdende bijzondere bepalingen inzake prijzen voor de sector van de instellingen voor bejaardenopvang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024946/VolledigDocument?datum=2015-02-02",
+  "source_sha256": "7cee41b8caf05a60a43cd996c3a5f653d7d27d4b682e19118a7bc67c2571b877",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024946&param=informatie",
+  "as_of": "2015-02-02",
+  "made": "2015-01-09",
+  "gazette": "2015-02-02",
+  "numac": 2015035073,
+  "document_start": "2015-02-02",
+  "document_end": null,
+  "in_force": "2015-02-02",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
