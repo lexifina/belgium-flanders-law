@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024899,
+  "title": "Ministerieel besluit van 2014-12-09 tot wijziging van artikel 1 van het ministerieel besluit van 17 augustus 2011 tot erkenning van centra voor rundvee ter uitvoering van artikel 35 en 59, § 2, van het Fokkerijbesluit van 19 maart 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024899/VolledigDocument?datum=2015-02-02",
+  "source_sha256": "992a62436c9e90521e19af334e856436406dd8a69dbde0520da050d1a6960780",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024899&param=informatie",
+  "as_of": "2015-02-02",
+  "made": "2014-12-09",
+  "gazette": "2015-01-23",
+  "numac": 2015035031,
+  "document_start": "2015-02-02",
+  "document_end": null,
+  "in_force": "2015-02-02",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
