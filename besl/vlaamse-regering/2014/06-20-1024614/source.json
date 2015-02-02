@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024614,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 betreffende de nadere voorwaarden en procedure om subsidies toe te kennen voor projecten die cultuureducatie van onderwijsinstellingen stimuleren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024614/VolledigDocument?datum=2015-02-02",
+  "source_sha256": "48482bc51700e9927cb906368eaf978496212881cee853325f2314909f231fc3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024614&param=informatie",
+  "as_of": "2015-02-02",
+  "made": "2014-06-20",
+  "gazette": "2014-10-01",
+  "numac": 2014035935,
+  "document_start": "2015-02-02",
+  "document_end": null,
+  "in_force": "2015-02-02",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2015-02-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
