@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024909,
+  "title": "Ministerieel besluit van 2014-11-26 houdende vaststelling van de data en de locatie van het toelatingsexamen arts en tandarts in 2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024909/VolledigDocument?datum=2015-02-05",
+  "source_sha256": "c86b036d054b3cc910d92caae04d665f5b53b48930d0f6daafe4d210fc3e2306",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024909&param=informatie",
+  "as_of": "2015-02-05",
+  "made": "2014-11-26",
+  "gazette": "2015-01-26",
+  "numac": 2015035096,
+  "document_start": "2015-02-05",
+  "document_end": null,
+  "in_force": "2015-02-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
