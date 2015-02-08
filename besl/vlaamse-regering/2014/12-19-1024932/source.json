@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024932,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 15 juli 2005 betreffende de erkenning en financiering van de invoegbedrijven en het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024932/VolledigDocument?datum=2015-02-08",
+  "source_sha256": "d081009d803176a0400539b1e00711410c35e0213a1560716b04735627b8bb31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024932&param=informatie",
+  "as_of": "2015-02-08",
+  "made": "2014-12-19",
+  "gazette": "2015-01-29",
+  "numac": 2015035092,
+  "document_start": "2015-02-08",
+  "document_end": null,
+  "in_force": "2015-02-08",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
