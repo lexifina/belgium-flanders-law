@@ -2,16 +2,16 @@
   "codex_id": 1018390,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018390/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "be61072ce8676c379a9f869cf8c149e9d851ee8b9260cc77e295186a6c25b19c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018390/VolledigDocument?datum=2015-02-08",
+  "source_sha256": "581e93815a25e4a245836f44f93423ab0287f6b20a134f2126f017f004441b33",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018390&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2015-02-08",
   "made": "2009-06-05",
   "gazette": "2009-09-23",
   "numac": 2009035886,
   "document_start": "2009-10-01",
   "document_end": null,
-  "in_force": "2013-10-01",
+  "in_force": "2015-02-08",
   "article_versions": 120,
-  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-02-08; future article versions excluded; article text as the API gives it"
 }
