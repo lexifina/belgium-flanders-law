@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025739,
+  "title": "Ministerieel besluit van 2015-07-23 tot bepaling van de vergoeding voor beoordelaars ter uitvoering van artikel 58 en 107 van het besluit van de Vlaamse Regering van 9 mei 2014 betreffende de uitvoering van het decreet van 13 december 2013 houdende de ondersteuning van de professionele kunsten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025739/VolledigDocument?datum=2015-02-18",
+  "source_sha256": "df1f4fef3ef03a94f8fe7ce2f2bcfdde170c6d7d73e2cb47d757a768507ba0bc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025739&param=informatie",
+  "as_of": "2015-02-18",
+  "made": "2015-07-23",
+  "gazette": "2015-08-25",
+  "numac": 2015036072,
+  "document_start": "2015-09-04",
+  "document_end": null,
+  "in_force": "2015-02-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-02-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
