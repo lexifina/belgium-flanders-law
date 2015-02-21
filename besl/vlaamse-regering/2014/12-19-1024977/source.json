@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024977,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 houdende de toekenning van de subsidies voor 2014 aan de levensbeschouwelijke verenigingen en een organisatie die de belangen van gezinnen behartigt, die erkend zijn om radioprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024977/VolledigDocument?datum=2015-02-21",
+  "source_sha256": "10b2d5bc4263b975260c56ce8c892f30a61b97815a3b605ef3ebbbae8c443ec4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024977&param=informatie",
+  "as_of": "2015-02-21",
+  "made": "2014-12-19",
+  "gazette": "2015-02-11",
+  "numac": 2015035122,
+  "document_start": "2015-02-21",
+  "document_end": null,
+  "in_force": "2015-02-21",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
