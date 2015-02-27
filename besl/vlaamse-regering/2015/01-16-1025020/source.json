@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025020,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-16 tot wijziging van artikel 46 en 47 van het besluit van de Vlaamse Regering van 1 maart 2002 tot bepaling van de voorwaarden en de procedureregels inzake erkenning en subsidiëring van de consultatiebureaus voor het jonge kind",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025020/VolledigDocument?datum=2015-02-27",
+  "source_sha256": "0a82b034b6589098c17ec48902bada39ca03cc058421a9253d754502d81351fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025020&param=informatie",
+  "as_of": "2015-02-27",
+  "made": "2015-01-16",
+  "gazette": "2015-02-17",
+  "numac": 2015035146,
+  "document_start": "2015-02-27",
+  "document_end": null,
+  "in_force": "2015-02-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-02-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
