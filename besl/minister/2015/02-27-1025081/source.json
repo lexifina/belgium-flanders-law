@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025081,
+  "title": "Ministerieel besluit van 2015-02-27 tot verlenging van de periode waarin gedurende de winter 2014-2015 de toevoer van elektriciteit en aardgas niet mag worden afgesloten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025081/VolledigDocument?datum=2015-02-28",
+  "source_sha256": "72445992351397a2fcb76b7dc9411ce5481f0cad124230fda018bfb8a5d1148c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025081&param=informatie",
+  "as_of": "2015-02-28",
+  "made": "2015-02-27",
+  "gazette": "2015-03-05",
+  "numac": 2015035267,
+  "document_start": "2015-02-28",
+  "document_end": null,
+  "in_force": "2015-02-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
