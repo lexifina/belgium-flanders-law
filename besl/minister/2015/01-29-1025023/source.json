@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025023,
+  "title": "Ministerieel besluit van 2015-01-29 houdende de vaststelling van het Compendium voor Monsterneming en Analyse",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025023/VolledigDocument?datum=2015-02-28",
+  "source_sha256": "a2a516e1bf2000b532f9add85d65ade2d4a71410c0adf5a059e2d9ebe640b585",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025023&param=informatie",
+  "as_of": "2015-02-28",
+  "made": "2015-01-29",
+  "gazette": "2015-02-18",
+  "numac": 2015035147,
+  "document_start": "2015-02-28",
+  "document_end": "2016-04-03",
+  "in_force": "2015-02-28",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-02-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
