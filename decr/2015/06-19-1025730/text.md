@@ -50,6 +50,10 @@ Artikel   79 van hetzelfde decreet wordt opgeheven.
 
 ## Afdeling II Decreet betreffende het secundair na secundair onderwijs en het hoger beroepsonderwijs
 
+### ART. IV.36.
+
+Aan   artikel 53 van hetzelfde decreet, vervangen bij het decreet van 13 juli 2013,   wordt een zesde lid toegevoegd, dat luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"De   betrekking die een school van het voltijds secundair onderwijs inricht met   uren-leraar of die een Centrum voor Volwassenenonderwijs inricht met   leraars-uren, als vermeld in dit artikel, komt niet in aanmerking voor   vacantverklaring en het schoolbestuur of het centrumbestuur kan in geen geval   een personeelslid in deze betrekking affecteren, muteren of vast   benoemen.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling III Codex Hoger Onderwijs
 
 ### ART. IV.38.
