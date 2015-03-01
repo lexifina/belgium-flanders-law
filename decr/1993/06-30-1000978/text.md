@@ -84,7 +84,7 @@ Een vergoeding kan worden gevorderd voor eventuele schade, voor zover door de sc
 
 ### ART. 19.
 
-...
+De Vlaamse Regering besluit, na advies van de commissie, tot opheffing van   de inschrijving op de ontwerpen van lijst of tot inschrijving op de lijst van de   beschermde archeologische monumenten en zones. <BR><BR>Wanneer de opheffing   kadert in het decreet van 25 april 2014 betreffende complexe projecten, wordt de   commissie niet om advies gevraagd.
 
 ### ART. 20.
 
@@ -100,7 +100,7 @@ Een vergoeding kan worden gevorderd voor eventuele schade, voor zover door de sc
 
 ### ART. 23.
 
-...
+De Vlaamse Regering besluit, na advies van de commissie, tot het geheel of   gedeeltelijk opheffen of wijzigen van de lijsten van beschermde archeologische   monumenten en zones. <BR><BR>Wanneer de opheffing of wijziging kadert in het   decreet van 25 april 2014 betreffende complexe projecten, wordt commissie niet   om advies gevraagd.
 
 ## AFDELING 2 RECHTSGEVOLGEN
 
