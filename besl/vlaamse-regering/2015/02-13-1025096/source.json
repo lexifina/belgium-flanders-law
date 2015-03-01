@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025096,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot wijziging van het besluit van de Vlaamse regering van 18 juli 2003 betreffende de opleidingscheques voor werknemers en het besluit van de Vlaamse Regering van 17 mei 2013 betreffende de loopbaanbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025096/VolledigDocument?datum=2015-03-01",
+  "source_sha256": "9b9b2656e3029bcaac32716694ca282abfe5621a63508616b766c2868947eb1c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025096&param=informatie",
+  "as_of": "2015-03-01",
+  "made": "2015-02-13",
+  "gazette": "2015-03-12",
+  "numac": 2015035263,
+  "document_start": "2015-03-01",
+  "document_end": null,
+  "in_force": "2015-03-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
