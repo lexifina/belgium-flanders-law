@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025891,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-24 betreffende het Ereteken van de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025891/VolledigDocument?datum=2015-03-01",
+  "source_sha256": "6077b0e420ed6999efb64a799949a9768177130bbe180c0be618960cca2eaae8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025891&param=informatie",
+  "as_of": "2015-03-01",
+  "made": "2015-04-24",
+  "gazette": "2015-09-15",
+  "numac": 2015036131,
+  "document_start": "2015-03-01",
+  "document_end": null,
+  "in_force": "2015-03-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
