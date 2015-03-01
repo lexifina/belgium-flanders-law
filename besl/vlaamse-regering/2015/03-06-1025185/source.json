@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025185,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-06 tot wijziging van het koninklijk besluit van 12 december 2001 betreffende de dienstencheques en het koninklijk besluit van 7 juni 2007 betreffende het opleidingsfonds dienstencheques",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025185/VolledigDocument?datum=2015-03-01",
+  "source_sha256": "b90099604bedc285eda001813029eab55e22ebe4302376640d70f3f83cd2f26f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025185&param=informatie",
+  "as_of": "2015-03-01",
+  "made": "2015-03-06",
+  "gazette": "2015-04-02",
+  "numac": 2015035318,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-03-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
