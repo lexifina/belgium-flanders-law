@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2015-01-28 tot aanpassing van de termijn waarbinnen de overeenkomst van lidmaatschap tussen de niet-professionele sportbeoefenaar en de sportvereniging kan worden beëindigd voor wat BRSF Vlaanderen vzw betreft
+
+### Aanhef
+
+De   Vlaamse minister van Werk, Economie, Innovatie en Sport,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 24 juli 1996 tot vaststelling van het statuut van de   niet-professionele sportbeoefenaar, artikel 3;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de   bevoegdheden van de leden van de Vlaamse Regering, laatst gewijzigd bij het   besluit van de Vlaamse Regering van 17 oktober 2014;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het verzoek van 17 november 2014 van BRSF Vlaanderen vzw om de data voor de   opzegging van de overeenkomst van lidmaatschap tussen de niet-professionele   sportbeoefenaar en de sportvereniging aan te passen aan de behoeften van haar   sporttakken en dat niets zich tegen de inwilliging van dit verzoek   verzet,<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+<P>De in artikel 3, § 1, derde lid, van het decreet van 24 juli   1996 tot vaststelling van het statuut van de niet-professionele sportbeoefenaar   bepaalde data voor de opzegging van de overeenkomst tussen de niet-professionele   sportbeoefenaar en de sportvereniging worden voor BRSF Vlaanderen vzw,   Lieve-Heerstraat 6 te 2800 Mechelen, als volgt bepaald:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1   augustus - 31 augustus</P>  <P><BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   vrijheidsaanvraag heeft uitwerking op 1 september.</P>
+
+### ART. 2.
+
+Dit besluit treedt in werking op de dag van de bekendmaking   ervan in het Belgisch Staatsblad.
