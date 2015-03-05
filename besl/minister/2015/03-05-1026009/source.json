@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026009,
+  "title": "Ministerieel besluit van 2015-03-05 houdende vaststelling van de Herculessleutel voor het begrotingsjaar 2014",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026009/VolledigDocument?datum=2015-03-05",
+  "source_sha256": "398e037118bbc034c452050e02bae63a4f07c9339be4dfbe66e55c05baf27a3d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026009&param=informatie",
+  "as_of": "2015-03-05",
+  "made": "2015-03-05",
+  "gazette": "2015-10-13",
+  "numac": 2015036240,
+  "document_start": "2015-03-05",
+  "document_end": null,
+  "in_force": "2015-03-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
