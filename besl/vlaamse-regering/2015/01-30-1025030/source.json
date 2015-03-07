@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025030,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-30 waarbij de overvloedige regenval die heeft plaatsgevonden op 27, 28 en 29 juli 2014 op het grondgebied van de provincies Limburg, Oost-Vlaanderen, Vlaams-Brabant en West-Vlaanderen en op 3 augustus 2014 op het grondgebied van de provincie Limburg als een algemene ramp wordt beschouwd en waarbij de geografische uitgestrektheid van deze ramp wordt afgebakend",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025030/VolledigDocument?datum=2015-03-07",
+  "source_sha256": "285afc34ee52c735a84f4c0e9c116627026893e6e966b2f85e89b6c723267599",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025030&param=informatie",
+  "as_of": "2015-03-07",
+  "made": "2015-01-30",
+  "gazette": "2015-02-25",
+  "numac": 2015035164,
+  "document_start": "2015-03-07",
+  "document_end": null,
+  "in_force": "2015-03-07",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-03-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
