@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025052,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-06 houdende de regeling van de toekenning van subsidies aan de organisatoren van kinderopvang, buitenschoolse opvang en adoptiebemiddeling die personeelsleden te werk stellen in een gewezen DAC-statuut",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025052/VolledigDocument?datum=2015-03-13",
+  "source_sha256": "c71221fb6aa6cda1a96538af0f7ba176f6876f7bbf3534b3be191c169da36f0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025052&param=informatie",
+  "as_of": "2015-03-13",
+  "made": "2015-02-06",
+  "gazette": "2015-03-03",
+  "numac": 2015035230,
+  "document_start": "2015-03-13",
+  "document_end": "2016-12-31",
+  "in_force": "2015-03-13",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2015-03-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
