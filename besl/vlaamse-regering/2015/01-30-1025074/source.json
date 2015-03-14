@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025074,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-30 houdende bekrachtiging van de beslissing van het Gemeentelijk Autonoom Havenbedrijf Gent om de aanleg van nieuwe waterweginfrastructuur niet te realiseren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025074/VolledigDocument?datum=2015-03-14",
+  "source_sha256": "08bb53505925bd273ed0b96e8781d5a9a9ce231de3dd308a2cd36bf4fc8a43b0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025074&param=informatie",
+  "as_of": "2015-03-14",
+  "made": "2015-01-30",
+  "gazette": "2015-03-04",
+  "numac": 2015035243,
+  "document_start": "2015-03-14",
+  "document_end": null,
+  "in_force": "2015-03-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
