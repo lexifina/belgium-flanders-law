@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025075,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot aanwijzing van de Vlaamse en provinciale projecten ter uitvoering van het decreet van 25 april 2014 betreffende de omgevingsvergunning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025075/VolledigDocument?datum=2015-03-14",
+  "source_sha256": "a5bd3a41bf2bb5a2fd2d49fb4429ea5db2529231437c08f98ed2bef1e2c8501e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025075&param=informatie",
+  "as_of": "2015-03-14",
+  "made": "2015-02-13",
+  "gazette": "2015-03-04",
+  "numac": 2015035251,
+  "document_start": "2015-03-14",
+  "document_end": null,
+  "in_force": "2015-03-14",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-03-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
