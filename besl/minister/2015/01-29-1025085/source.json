@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025085,
+  "title": "Ministerieel besluit van 2015-01-29 tot het bepalen van het vaccinatieschema voor Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025085/VolledigDocument?datum=2015-03-16",
+  "source_sha256": "fe97c61ae3e72143e9d3732b3a19ae769f208acef5b2d1e5874c7bc7577c8a34",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025085&param=informatie",
+  "as_of": "2015-03-16",
+  "made": "2015-01-29",
+  "gazette": "2015-03-06",
+  "numac": 2015035232,
+  "document_start": "2015-03-16",
+  "document_end": "2026-01-14",
+  "in_force": "2015-03-16",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-03-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
