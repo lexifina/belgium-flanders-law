@@ -154,7 +154,7 @@ De volgende bijzondere erkenningsvoorwaarden gelden voor een   bodemsaneringsdes
 
 ### ART. 25/3.
 
-De hierna vermelde bijzondere erkenningsvoorwaarden gelden voor een   boorbedrijf als vermeld in artikel 6, 7° :<BR>1° een rechtspersoon zijn;<BR>2°   voor elk operationeel boortoestel voor het uitvoeren van de werken in het kader   van de gewenste erkenning een natuurlijke persoon in dienst hebben die aan   minstens een van de volgende voorwaarden voldoet :<BR>a) over minstens drie jaar   praktische ervaring beschikken in het uitvoeren van werken in het kader van de   gewenste erkenning, verworven binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag;<BR>b) over een attest beschikken dat een algemene opleiding   als vermeld in bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg   werd gevolgd binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag.
+De hierna vermelde bijzondere erkenningsvoorwaarde geldt voor een   boorbedrijf als vermeld in artikel 6, 7° :<BR>1° ...;<BR>2° voor elk   operationeel boortoestel voor het uitvoeren van de werken in het kader van de   gewenste erkenning een natuurlijke persoon in dienst hebben die aan minstens een   van de volgende voorwaarden voldoet :<BR>a) over minstens drie jaar praktische   ervaring beschikken in het uitvoeren van werken in het kader van de gewenste   erkenning, verworven binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag;<BR>b) over een attest beschikken dat een algemene opleiding   als vermeld in bijlage 16, die bij dit besluit is gevoegd, met gunstig gevolg   werd gevolgd binnen vijf jaar, voorafgaand aan de   erkenningsaanvraag.
 
 ## [Onderafdeling 8 Erkenningsvoorwaarden voor keuringsinstellingen (ing. BVR 18 maart 2016, art. 224, I: 5 september 2016)]
 
