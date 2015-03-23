@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025100,
+  "title": "Besluit van de Vlaamse Regering van 2014-06-20 tot wijziging van sommige eindtermen van het besluit van de Vlaamse Regering van 23 juni 2000 tot vaststelling van de vakgebonden eindtermen van de tweede en de derde graad van het gewoon secundair onderwijs, wat de natuurwetenschappen of fysica en/of chemie en/of biologie betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025100/VolledigDocument?datum=2015-03-23",
+  "source_sha256": "7ce1c44f49a4442535ee72456040df882eaa8be2e75411434cc8dbb9c3624ec4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025100&param=informatie",
+  "as_of": "2015-03-23",
+  "made": "2014-06-20",
+  "gazette": "2015-03-13",
+  "numac": 2014036402,
+  "document_start": "2015-03-23",
+  "document_end": null,
+  "in_force": "2015-03-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-03-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
