@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027977,
+  "title": "Ministerieel besluit van 2017-01-23 tot bepaling van de betalingswijze van de retributies, bepaald in het koninklijk besluit van 23 maart 1998 betreffende het rijbewijs, het koninklijk besluit van 11 mei 2004 betreffende de voorwaarden voor erkenning van scholen voor het besturen van motorvoertuigen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027977/VolledigDocument?datum=2015-03-26",
+  "source_sha256": "aee09dce723d36d62f6dbc4ef9cb80a8b15726e4309cb94ab4b446bd7060ec52",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027977&param=informatie",
+  "as_of": "2015-03-26",
+  "made": "2017-01-23",
+  "gazette": "2017-03-03",
+  "numac": 2017011019,
+  "document_start": "2015-03-26",
+  "document_end": null,
+  "in_force": "2015-03-26",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
