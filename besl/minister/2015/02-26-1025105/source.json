@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025105,
+  "title": "Ministerieel besluit van 2015-02-26 houdende vastlegging van de specificaties van het systeem waarmee de digitale communicatie in het kader van het bestuurlijk toezicht verloopt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025105/VolledigDocument?datum=2015-03-26",
+  "source_sha256": "e8625f13a7dfcd93bf19ca763662b23fe8b4b7794314b702119c76f37ad925ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025105&param=informatie",
+  "as_of": "2015-03-26",
+  "made": "2015-02-26",
+  "gazette": "2015-03-16",
+  "numac": 2015035281,
+  "document_start": "2015-03-26",
+  "document_end": null,
+  "in_force": "2015-03-26",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
