@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025115,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot vaststelling van de aanwijzingsborden voor de afbakening van het toepassingsgebied van de verordeningen voor het verkeer van havenvoertuigen tussen de laad- en loskaaien, de opslagplaatsen, de hangars en de magazijnen die binnen het havengebied liggen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025115/VolledigDocument?datum=2015-03-27",
+  "source_sha256": "2cde759215c1880025fe40740f1dad941c1f6e94241e616882e374cddba48fa1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025115&param=informatie",
+  "as_of": "2015-03-27",
+  "made": "2015-02-13",
+  "gazette": "2015-03-17",
+  "numac": 2015035242,
+  "document_start": "2015-03-27",
+  "document_end": null,
+  "in_force": "2015-03-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-03-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
