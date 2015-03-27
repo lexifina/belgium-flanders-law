@@ -35,3 +35,15 @@ In   artikel 93, § 2, van hetzelfde besluit worden de volgende wijzigingen   aa
 ### ART. 8.
 
 In   hetzelfde besluit wordt een artikel 143/1 ingevoegd, dat luidt als   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   143/1. Zolang de Intersectorale Regionale Prioriteitencommissie niet is   samengesteld conform artikel 49, § 1, komt, in afwijking van artikel 49, § 3,   tweede lid, die commissie rechtsgeldig samen als minstens de leden, vermeld in   artikel 49, § 1, eerste lid, 4° tot en met 6°, aanwezig zijn.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 9.
+
+&nbsp;In de bijlage bij hetzelfde besluit,   wordt aan de lijst een punt 15° toegevoegd, dat luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"15°   adoptiediensten.".
+
+### ART. 10.
+
+<P>Artikel   1 tot en met 6 van dit besluit hebben uitwerking met ingang van 28 februari   2014.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   7 en 8 van dit besluit hebben uitwerking met ingang van 1 januari   2015.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 11.
+
+De   Vlaamse minister, bevoegd voor het onderwijs, en de Vlaamse minister, bevoegd   voor de bijstand aan personen, en de Vlaamse minister, bevoegd voor het   gezondheidsbeleid, zijn, ieder wat hem of haar betreft, belast met de uitvoering   van dit besluit.
