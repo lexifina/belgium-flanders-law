@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025143,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie daktimmerman",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025143/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "b338f7493fc397791d97231d836370d0948d7ffd94dc071b4337b258b283e846",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025143&param=informatie",
+  "as_of": "2015-03-30",
+  "made": "2014-12-05",
+  "gazette": "2015-03-20",
+  "numac": 2015035179,
+  "document_start": "2015-03-30",
+  "document_end": null,
+  "in_force": "2015-03-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
