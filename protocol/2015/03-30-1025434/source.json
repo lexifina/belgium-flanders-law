@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025434,
+  "title": "Protocol van 2015-03-30 Huishoudelijk Reglement van de Interministeriële Conferentie Volksgezondheid",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025434/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "9b2c71b148aaacad5e21008f8c19b458095ccd9ca9f6b2ef5feae6fecc21321d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025434&param=informatie",
+  "as_of": "2015-03-30",
+  "made": "2015-03-30",
+  "gazette": "2015-06-04",
+  "numac": 2015024116,
+  "document_start": "2015-03-30",
+  "document_end": null,
+  "in_force": "2015-03-30",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
