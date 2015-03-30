@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025136,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie productieverantwoordelijke kleding- en confectieartikelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025136/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "e60d8676b0049e852cb7a5c52b8812fb5439b8512931c1df5fec3e3fbe1de791",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025136&param=informatie",
+  "as_of": "2015-03-30",
+  "made": "2014-12-05",
+  "gazette": "2015-03-20",
+  "numac": 2015035174,
+  "document_start": "2015-03-30",
+  "document_end": null,
+  "in_force": "2015-03-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
