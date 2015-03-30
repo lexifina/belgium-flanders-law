@@ -2,16 +2,16 @@
   "codex_id": 1018932,
   "title": "Protocol van 2010-01-25 Protocolakkoord betreffende het huishoudelijk reglement van de Interministeriële Conferentie Drugs",
   "type": "Protocol",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018932/VolledigDocument?datum=2010-01-25",
-  "source_sha256": "8889f40f353f0c0c82669ba9ace2f99933180f1d5407d9f4f8f0eae26f7ac6e8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018932/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "01c1d9af2a93d144a68b7f7e40ac250978caa544ca454426252ebbf5239d9a4f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018932&param=informatie",
-  "as_of": "2010-01-25",
+  "as_of": "2015-03-30",
   "made": "2010-01-25",
   "gazette": "2010-04-15",
   "numac": 201024094,
   "document_start": "2010-01-25",
   "document_end": "2015-03-29",
-  "in_force": "2010-01-25",
+  "in_force": "2015-03-30",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2010-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-03-30; future article versions excluded; article text as the API gives it"
 }
