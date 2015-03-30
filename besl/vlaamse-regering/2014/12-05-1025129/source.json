@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025129,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie betonmixerchauffeur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025129/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "fd9ab59878f0414c66e388eebba7f8a34a7306786572eeb0ab9342c54f1d1b00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025129&param=informatie",
+  "as_of": "2015-03-30",
+  "made": "2014-12-05",
+  "gazette": "2015-03-20",
+  "numac": 2015035167,
+  "document_start": "2015-03-30",
+  "document_end": null,
+  "in_force": "2015-03-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
