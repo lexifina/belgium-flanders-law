@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025142,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-05 tot erkenning van de beroepskwalificatie koeltechnicus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025142/VolledigDocument?datum=2015-03-30",
+  "source_sha256": "e269cb3bd266c9a3e5a0878f667305d668310377f90a47293386492596ca561f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025142&param=informatie",
+  "as_of": "2015-03-30",
+  "made": "2014-12-05",
+  "gazette": "2015-03-20",
+  "numac": 2015035180,
+  "document_start": "2015-03-30",
+  "document_end": "2020-05-17",
+  "in_force": "2015-03-30",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
