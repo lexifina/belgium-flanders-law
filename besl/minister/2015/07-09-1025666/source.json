@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025666,
+  "title": "Ministerieel besluit van 2015-07-09 tot vastlegging van de vergoedingen van de voorzitter, de leden, de plaatsvervangende voorzitter en de plaatsvervangende leden van de disciplinaire commissie en de disciplinaire raad voor niet-elitesporters",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025666/VolledigDocument?datum=2015-03-31",
+  "source_sha256": "aafdd892693840359b6efc1a459a169ba04f1899a295322c2753ac23e693cc2a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025666&param=informatie",
+  "as_of": "2015-03-31",
+  "made": "2015-07-09",
+  "gazette": "2015-07-24",
+  "numac": 2015035928,
+  "document_start": "2015-03-31",
+  "document_end": null,
+  "in_force": "2015-03-31",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
