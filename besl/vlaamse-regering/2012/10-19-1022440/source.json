@@ -2,16 +2,16 @@
   "codex_id": 1022440,
   "title": "Besluit van de Vlaamse Regering van 2012-10-19 houdende uitvoering van het decreet van 25 mei 2012 betreffende de preventie en bestrijding van doping in de sport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022440/VolledigDocument?datum=2014-10-09",
-  "source_sha256": "aeb3075a6543efe67532e0540fd13ca3972cfd68bc6345151c46933450a2d407",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022440/VolledigDocument?datum=2015-03-31",
+  "source_sha256": "4ab3c92c614f56646e0b370153ac473f2c5106b4647aaabaa501541ed58d3cb9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022440&param=informatie",
-  "as_of": "2014-10-09",
+  "as_of": "2015-03-31",
   "made": "2012-10-19",
   "gazette": "2012-11-07",
   "numac": 2012036157,
   "document_start": "2012-11-14",
   "document_end": "2015-03-30",
-  "in_force": "2014-10-09",
+  "in_force": "2015-03-31",
   "article_versions": 119,
-  "record_form": "consolidated version as in force on 2014-10-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-03-31; future article versions excluded; article text as the API gives it"
 }
