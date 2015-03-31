@@ -38,4 +38,4 @@ Het ministerieel besluit van 6 november 2008 houdende de wijze van   oproeping v
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/05/31_1.pdf#page=97">Bijlage</A>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=87">Bijlage</A></P>
