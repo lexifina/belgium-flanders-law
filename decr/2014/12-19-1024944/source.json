@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024944,
+  "title": "Decreet van 2014-12-19 houdende aanpassing van het Antidopingdecreet van 25 mei 2012 aan de Code 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024944/VolledigDocument?datum=2015-03-31",
+  "source_sha256": "96e429da3fdf2573de5ff055ab0eafcd50154cfa4c773db4e2bfa3d2fa3f640a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024944&param=informatie",
+  "as_of": "2015-03-31",
+  "made": "2014-12-19",
+  "gazette": "2015-02-02",
+  "numac": 2015035048,
+  "document_start": "2015-03-31",
+  "document_end": null,
+  "in_force": "2015-03-31",
+  "article_versions": 57,
+  "record_form": "consolidated version as in force on 2015-03-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
