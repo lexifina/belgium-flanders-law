@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025359,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot wijziging van hoofdstuk III van het koninklijk besluit van 23 juli 1985 tot uitvoering van afdeling 6 - toekenning van betaald educatief verlof in het kader van de voortdurende vorming van de werknemers - van hoofdstuk IV van de herstelwet van 22 januari 1985 houdende sociale bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025359/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "c9f35c62fb815169984200a85bce1b25255aef257da6bd064dd4f4f37c724b11",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025359&param=informatie",
+  "as_of": "2015-04-01",
+  "made": "2015-03-13",
+  "gazette": "2015-05-22",
+  "numac": 2015035649,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-04-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
