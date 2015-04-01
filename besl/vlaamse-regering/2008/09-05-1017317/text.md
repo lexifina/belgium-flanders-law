@@ -26,7 +26,7 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° het decreet : het decreet van 4 april 2003 betreffende het sociaal-cultureel volwassenenwerk;<br />2° de minister : de Vlaamse minister, bevoegd voor de culturele aangelegenheden;<br />3° de administratie : het agentschap van de Vlaamse overheid dat bevoegd is voor het sociaal-cultureel volwassenenwerk;<br />4° het voortgangsrapport : een document dat jaarlijks een stand van zaken geeft over de uitvoering van het beleidsplan in het voorbije jaar en een vooruitblik op de geplande uitvoering van het beleidsplan in het lopende jaar; <br />5° het jaarplan : het document dat door een nieuw erkende of nieuw gesubsidieerde organisatie wordt ingediend in het eerste jaar van de beleidsperiode en dat een vooruitblik geeft op de geplande uitvoering van het beleidsplan in het lopende jaar.
+In dit besluit wordt verstaan onder : <BR>1° het decreet : het decreet van   4 april 2003 betreffende het sociaal-cultureel volwassenenwerk;<BR>2° de   minister : de Vlaamse minister, bevoegd voor de culturele aangelegenheden;<BR>3°   de administratie : het&nbsp;departement van de Vlaamse overheid dat bevoegd is   voor het sociaal-cultureel volwassenenwerk;<BR>4° het voortgangsrapport : een   document dat jaarlijks een stand van zaken geeft over de uitvoering van het   beleidsplan in het voorbije jaar en een vooruitblik op de geplande uitvoering   van het beleidsplan in het lopende jaar; <BR>5° het jaarplan : het document dat   door een nieuw erkende of nieuw gesubsidieerde organisatie wordt ingediend in   het eerste jaar van de beleidsperiode en dat een vooruitblik geeft op de   geplande uitvoering van het beleidsplan in het lopende jaar.
 
 ## TITEL II. De sociaal-culturele verenigingen
 
