@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025518,
+  "title": "Ministerieel besluit van 2015-04-29 tot definitieve erkenning van de Vlaamse cel van de Intergewestelijke Coördinerende Instantie van de Belgische Betaalorganen voor de Europese Landbouwfondsen als vermeld in artikel 7, lid 4, van verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring van het Gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2005 en (EG) nr. 485/2008 van de Raad bij het departement Landbouw en Visserij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025518/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "f530deb177695323561fb52a5ec13f889c040728bb7a1fe2e0b933d56641682e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025518&param=informatie",
+  "as_of": "2015-04-01",
+  "made": "2015-04-29",
+  "gazette": "2015-06-25",
+  "numac": 2015035783,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-04-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
