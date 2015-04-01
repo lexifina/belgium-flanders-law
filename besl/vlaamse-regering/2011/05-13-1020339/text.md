@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op decreet van 19 november 2010 tot oprich
 
 ### ART. 1.
 
-De VZW die wordt opgericht ter uitvoering van het decreet van 19 november 2010 tot oprichting van een Vlaams communicatiehuis in Brussel onder de vorm van het extern verzelfstandigd agentschap Muntpunt VZW behoort tot het beleidsdomein Diensten voor het Algemeen Regeringsbeleid.
+De VZW die wordt opgericht ter uitvoering van het decreet van 19 november   2010 tot oprichting van een Vlaams communicatiehuis in Brussel onder de vorm van   het extern verzelfstandigd agentschap Muntpunt VZW behoort tot het beleidsdomein   Kanselarij en Bestuur.
 
 ### ART. 2.
 
