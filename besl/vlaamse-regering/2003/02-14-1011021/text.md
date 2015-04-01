@@ -4,7 +4,7 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002;<br /><br />2° het Fonds: het Vlaams-Brussel Fonds, bedoeld in artikel 65 van het decreet;<br /><br />3° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor Brusselse aangelegenheden;<br /><br />4° [de leidend ambtenaar: het hoofd van de cel Coördinatie Brussel van het departement "Diensten voor het Algemeen Regeringsbeleid";  <span class="reference">(verv. B.V.R. 10 maart 2006, art. 7, I: 1 april 2006)</span> ]<br /><br />5° het besluit van de Vlaamse regering van 21 mei 1997: het besluit van de Vlaamse regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de Vlaamse openbare instellingen.
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het   decreet: het decreet van 21 december 2001 houdende bepalingen tot begeleiding   van de begroting 2002;<BR>2° het Fonds: het Vlaams-Brussel Fonds, bedoeld in   artikel 65 van het decreet;<BR>3° de Vlaamse minister: het lid van de Vlaamse   regering, bevoegd voor Brusselse aangelegenheden;<BR>4° de leidend ambtenaar: de   leidend ambtenaar van het Agentschap Binnenlands Bestuur;<BR>5° het besluit van   de Vlaamse regering van 21 mei 1997: het besluit van de Vlaamse regering van 21   mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire   rapportering voor de Vlaamse openbare instellingen.
 
 ## HOOFDSTUK II BEHEER EN WERKING VAN HET FONDS
 
@@ -26,7 +26,7 @@ De leidend ambtenaar kan de taken, genoemd in artikel 4, geheel of gedeeltelijk 
 
 ### ART. 6.
 
-De secretaris-generaal van het departement van de Diensten voor het Algemeen Regeringsbeleid beslist welke personeelsleden, uitrusting en installaties ter beschikking worden gesteld van het Fonds.
+De administrateur-generaal van het Agentschap Binnenlands Bestuur beslist   welke personeelsleden, uitrusting en installaties ter beschikking van het Fonds   worden gesteld.
 
 ### ART. 7.
 
