@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   22 december 2000 betreffende de amateurkunsten;<BR>2° de minister : de Vlaamse   minister, bevoegd voor de Culturele Aangelegenheden;<BR>3° de administratie :   het agentschap van de Vlaamse overheid dat bevoegd is voor de   amateurkunsten;<BR>4° de organisatie : de organisatie voor amateurkunsten,   vermeld in artikel 4 van het decreet;<BR>5° forum: een forum voor   amateurkunsten, zoals opgericht door de erkende organisaties voor   amateurkunsten;<BR>6° ...;<BR>7° de beleidsperiode : de vijfjaarlijkse periode,   vermeld in artikel 9, § 1, van het decreet.<BR>
+In dit besluit wordt verstaan onder :<BR>1° het decreet : het decreet van   22 december 2000 betreffende de amateurkunsten;<BR>2° de minister : de Vlaamse   minister, bevoegd voor de Culturele Aangelegenheden;<BR>3° de administratie :   het&nbsp;departement van de Vlaamse overheid dat bevoegd is voor de   amateurkunsten;<BR>4° de organisatie : de organisatie voor amateurkunsten,   vermeld in artikel 4 van het decreet;<BR>5° forum: een forum voor   amateurkunsten, zoals opgericht door de erkende organisaties voor   amateurkunsten;<BR>6° ...;<BR>7° de beleidsperiode : de vijfjaarlijkse periode,   vermeld in artikel 9, § 1, van het decreet.<BR>
 
 ## TITEL II. Erkenningen
 
