@@ -6,6 +6,10 @@
 
 ## HOOFDSTUK 3 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtcolleges
 
+### ART. 7.
+
+In   artikel 50 van hetzelfde decreet wordt de zinsnede "de Vlaamse minister, bevoegd   voor bestuurszaken," vervangen door de woorden "de functioneel bevoegde Vlaamse   minister".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 8.
 
 In   artikel 91, § 2, van hetzelfde decreet worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de woorden "met behoud van de bezoldigingsregeling die ze genoten overeenkomstig   de regeling die van toepassing was voor de datum van inwerkingtreding van dit   decreet" worden opgeheven;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de volgende zin wordt toegevoegd:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Ze   ontvangen een salaris in de schaal A311, alsook de toelagen, vergoedingen en   sociale voordelen, vermeld in deel VII van het Vlaams personeelsstatuut van 13   januari 2006, met uitzondering van de prestatietoelagen.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
