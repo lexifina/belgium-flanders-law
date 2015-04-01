@@ -262,7 +262,7 @@ De eerste voorzitter bezorgt het jaarverslag aan de voorzitter van het   Vlaams 
 
 ### ART. 50.
 
-De bestuursrechters nemen hun ambt op nadat ze in handen van de Vlaamse   minister, bevoegd voor bestuurszaken, de volgende eed hebben afgelegd: "Ik zweer   de verplichtingen van mijn ambt na te komen".<BR>
+De bestuursrechters nemen hun ambt op nadat ze in handen van de   functioneel bevoegde Vlaamse minister de volgende eed hebben afgelegd: "Ik zweer   de verplichtingen van mijn ambt na te komen".<BR>
 
 ### ART. 51.
 
