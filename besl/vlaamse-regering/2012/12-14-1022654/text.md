@@ -106,6 +106,14 @@ De minister zal regels uitwerken voor een periodieke aanlevering van   leverings
 
 ## [HOOFDSTUK 5/1. Erkenningen van kopers en verplichte aangiften in de sector melk en zuivelproducten (ing. BVR 6 juni 2014, art. 15, I: 1 april 2015)]
 
+### ART. 19/1.
+
+Een koper moet erkend zijn door de bevoegde entiteit in het Vlaamse Gewest   of door de bevoegde dienst van het Waalse Gewest om melk te mogen aankopen bij   producenten.<BR><BR>Om erkend te worden in het Vlaamse Gewest moet een koper   voldoen aan de volgende voorwaarden:<BR>1° voldoen aan de definitie van koper,   vermeld in artikel 1, 3°, van het besluit van de Vlaamse Regering van 7   september 2007 houdende de organisatie van de vaststelling van en de controle op   de samenstelling van rauwe koemelk;<BR>2° handelaar zijn en beschikken over een   ondernemingsnummer;<BR>3° zijn maatschappelijke zetel in het Vlaamse Gewest   hebben.<BR>
+
+### ART. 19/2.
+
+De koper moet maandelijks aan de bevoegde entiteit alle gevraagde gegevens   over de leveringen bezorgen voor de twintigste van de maand die volgt op de   maand waarin de leveringen plaatsgevonden hebben, met name het totaal aantal   liters van alle betrokken producenten en het gewogen gemiddelde van vet- en   eiwitgehalte.<BR><BR>Voor 31 januari van elk kalenderjaar moet de koper de   individuele leveringsgegevens van alle producenten waar hij melk heeft opgehaald   in het afgelopen kalenderjaar doorgeven aan de bevoegde entiteit.
+
 ## HOOFDSTUK 6. [... (opgeh. BVR 19 december 2014, art. 156, I: 1 januari 2015)]
 
 ### ART. 20.
