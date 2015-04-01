@@ -36,7 +36,7 @@ Bij ontslag van een effectief lid beëindigt de plaatsvervanger het mandaat. De 
 
 ### ART. 8.
 
-De Beroepscommissie wordt bijgestaan door een griffier, die ter zitting het verslag opmaakt en de Beroepscommissie in al zijn taken administratief ondersteunt. <br /><br />De griffier en een plaatsvervangend griffier worden aangewezen door de leidinggevende ambtenaar van het agentschap dat bevoegd is voor het binnenlands bestuur binnen het Vlaams Ministerie van Bestuurszaken.<br /><br />
+De Beroepscommissie wordt bijgestaan door een griffier, die ter zitting   het verslag opmaakt en de Beroepscommissie in al zijn taken administratief   ondersteunt. <BR><BR>De griffier en een plaatsvervangend griffier worden   aangewezen door de leidinggevende ambtenaar van het agentschap dat bevoegd is   voor het binnenlands bestuur binnen het Vlaams Ministerie Kanselarij en   Bestuur.<BR><BR>
 
 ### ART. 9.
 
