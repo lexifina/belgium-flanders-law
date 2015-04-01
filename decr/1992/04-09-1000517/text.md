@@ -286,6 +286,40 @@ De Vlaamse regering bepaalt de organisatie, de ambten, de bekwaamheidsbewijzen e
 
 Voor de periode 1 september 2014 tot en met 31 augustus 2015 sluit de   Vlaamse Regering een convenant af met de Raad van het   Gemeenschapsonderwijs.<BR><BR>Deze convenant heeft tot doel de start, op 1   september 2015, van de internaten buitengewoon onderwijs van het   gemeenschapsonderwijs die verblijf en begeleiding van hun internen tijdens de   schoolvrije dagen organiseren, voor te bereiden.<BR><BR>De Vlaamse Regering   stelt hiervoor 350.000 euro werkingsmiddelen ter beschikking.
 
+### ART. 29/3.
+
+§ 1. In afwijking van artikel 10 wordt er, ten gevolge van de reorganisatie van verblijf en begeleiding tijdens schoolvrije dagen, een herplaatsingscommissie opgericht die instaat voor de herplaatsing van de personeelsleden, bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs die instaan voor verblijf en begeleiding tijdens schoolvrije dagen die vastbenoemd zijn, tot de proeftijd toegelaten zijn of tijdelijk aangesteld zijn in een vacante betrekking.<br>
+<br>
+§ 2. De herplaatsingscommissie herplaatst zowel de vastbenoemde, de tot de proeftijd toegelaten als de tijdelijke personeelsleden in vacante betrekkingen voor de volledige opdracht waarvan ze op 30 april 2015 titularis zijn.<br>
+<br>
+§ 3. De Vlaamse Regering bepaalt de bevoegdheden, de samenstelling en de werkwijze van deze herplaatsingscommissie. Zij houdt daarbij minstens rekening met volgende criteria:<br>
+- de herplaatsing gaat in op 1 september, tenzij de betrekking vacant wordt in de loop van het schooljaar. In dat geval gaat de herplaatsing zo snel mogelijk in;<br>
+- het personeelslid kan zijn voorkeur uitspreken voor een plaats van tewerkstelling.<br>
+<br>
+§ 4. De herplaatsingscommissie treedt in werking op 30 april 2015 en houdt op te bestaan als de reorganisatie bedoeld in paragraaf 1 volledig afgerond is.
+
+### ART. 29/4.
+
+§ 1. Elke scholengroep is verplicht om de hem toegewezen personeelsleden in dienst te nemen.<br>
+<br>
+§ 2. De scholengroep kan tegen de herplaatsing geen bezwaar indienen.
+
+### ART. 29/5.
+
+§&nbsp;1. De herplaatste personeelsleden zijn verplicht om de toegewezen herplaatsing te aanvaarden en deze op te nemen op 1 september van elk schooljaar of op de datum waarop de vacante betrekking kan worden ingenomen.<br>
+<br>
+§ 2. Het personeelslid kan tegen de herplaatsing enkel bezwaar indienen op grond van het niet volgen van de criteria die de Vlaamse Regering vastlegt.
+
+### ART. 29/6.
+
+De personeelsleden verkrijgen door de definitieve herplaatsing de hoedanigheid van personeelslid van het internaat dat in verblijf en begeleiding tijdens schoolvrije dagen voorziet, ten belope van de opdracht waarvoor ze er tewerkgesteld worden. Deze personeelsleden gaan, al naargelang ze vastbenoemd, tot de proeftijd toegelaten of tijdelijk aangesteld zijn, over als vastbenoemde, tot de proeftijd toegelaten of tijdelijk aangestelde personeelsleden. De personeelsleden die voor de herplaatsing recht hadden op een tijdelijke aanstelling van doorlopende duur, zoals bedoeld in artikel 21, § 3, en artikel 21bis, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs behouden dit recht na de herplaatsing.<br>
+<br>
+De diensten die het personeelslid volgens de bepalingen van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs heeft gepresteerd in een ambt of betrekking worden geacht na de herplaatsing ook gepresteerd te zijn in hetzelfde ambt of dezelfde betrekking.
+
+### ART. 29/7.
+
+Personeelsleden die geen keuze voor een plaats van tewerkstelling indienen of die een herplaatsing volgens de geldende regelgeving weigeren, worden ambtshalve ontslagen.
+
 ## HOOFDSTUK III INWERKINGTREDING
 
 ### ART. 30.
