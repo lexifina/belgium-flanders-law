@@ -2,16 +2,16 @@
   "codex_id": 1013298,
   "title": "Decreet van 2004-04-30 tot uniformisering van de toezichts-, sanctie- en strafbepalingen die zijn opgenomen in de regelgeving van de sociaalrechtelijke aangelegenheden, waarvoor de Vlaamse Gemeenschap en het Vlaamse Gewest bevoegd zijn (citeeropschrift: \"decreet houdende sociaalrechtelijk toezicht\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013298/VolledigDocument?datum=2014-06-01",
-  "source_sha256": "73e52b082f56bfc58c598e3cc4edaa3c13eb7815f6dfabb9de8648acf4003e48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013298/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "09df8d38bd4c4f1e8fbac664be375a1ba166a590792f67bd6ff4d45bc8b4347e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013298&param=informatie",
-  "as_of": "2014-06-01",
+  "as_of": "2015-04-01",
   "made": "2004-04-30",
   "gazette": "2004-08-05",
   "numac": 2004036200,
   "document_start": "2004-08-15",
   "document_end": null,
-  "in_force": "2014-06-01",
+  "in_force": "2015-04-01",
   "article_versions": 48,
-  "record_form": "consolidated version as in force on 2014-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
