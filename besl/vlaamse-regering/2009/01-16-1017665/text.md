@@ -40,7 +40,7 @@ De ontvangsten hebben betrekking op : <br />1° het overgedragen saldo;<br />2°
 
 ### ART. 8.
 
-Het hoofd van het intern verzelfstandigd agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen stelt een ordonnateur aan. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+<P>De lijnmanager van het Departement Cultuur, Jeugd, Sport en Media van het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is   beheerder en gedelegeerd ordonnateur van de ULDK.</P>
 
 ### ART. 9.
 

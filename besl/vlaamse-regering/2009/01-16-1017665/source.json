@@ -2,16 +2,16 @@
   "codex_id": 1017665,
   "title": "Besluit van de Vlaamse Regering van 2009-01-16 betreffende het financiële en materiële beheer van de dienst afzonderlijk beheer Uitleendienst Kampeermateriaal voor de Jeugd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017665/VolledigDocument?datum=2012-01-01",
-  "source_sha256": "8b1935d605b5c5393a3937f3d5379c686e5b7735b7978c22ac514b1f8bba5c85",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017665/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "f71205d9b70efc917665b97894c42028a167e5cd9ccbed23591c87034dfaadd2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017665&param=informatie",
-  "as_of": "2012-01-01",
+  "as_of": "2015-04-01",
   "made": "2009-01-16",
   "gazette": "2009-03-11",
   "numac": 2009200927,
   "document_start": "2009-01-01",
   "document_end": "2011-12-31",
-  "in_force": "2012-01-01",
+  "in_force": "2015-04-01",
   "article_versions": 24,
-  "record_form": "consolidated version as in force on 2012-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
