@@ -2,16 +2,16 @@
   "codex_id": 1006334,
   "title": "Besluit van de Vlaamse Regering van 1998-07-23 houdende oprichting van het Vlaams Cultureel Centrum Voeren",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006334/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "b11cec59fd2fb81d15cc91f222ead9a556d21149a6a869759ed3a59fec69040e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006334/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "ba4c63abbf0e288c4cbe3e0f08453e16b9a9404f4d895072e155a5efcfbba547",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006334&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-04-01",
   "made": "1998-07-23",
   "gazette": "1998-09-19",
   "numac": 1998036049,
   "document_start": null,
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2015-04-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }

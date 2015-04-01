@@ -10,7 +10,7 @@ De doelstellingen van het Vlaams Cultureel Centrum Voeren zijn:<br /><br />1° r
 
 ### ART. 3.
 
-Het personeel dat in het Vlaams Cultureel Centrum Voeren tewerkgesteld is, ressorteert onder intern verzelfstandigd agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen.<br />
+Het personeel dat in het Vlaams Cultureel Centrum Voeren tewerkgesteld is, ressorteert onder het Departement Cultuur, Jeugd, Sport&nbsp;en Media van het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media.
 
 ### ART. 4.
 
