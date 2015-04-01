@@ -2,16 +2,16 @@
   "codex_id": 1014349,
   "title": "Besluit van de Vlaamse Regering van 2005-10-28 tot oprichting van het intern verzelfstandigd agentschap [\"Agentschap Binnenlands Bestuur\" ]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014349/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "d881965f967a2932d0a9d10ebc46ac966e288cea04fa2b4e3969a8ea0957e240",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014349/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "bdc43a87247b0634f2be6a60a52152d1adf3ddcd02fdbb05230689ec5cf5f781",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014349&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-04-01",
   "made": "2005-10-28",
   "gazette": "2006-03-13",
   "numac": 2006035331,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2015-04-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
