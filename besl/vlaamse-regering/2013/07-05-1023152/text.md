@@ -6,7 +6,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° administratie : de afdeling   Jeugd van het agentschap Sociaal-Cultureel Werk voor Jeugd en Volwassenen;<BR>2°   decreet van 7 mei 2004 : het decreet van 7 mei 2004 houdende aanvullende   subsidies voor tewerkstelling in de culturele sector;<BR>3° jeugdhuis : een vorm   van sociaal-cultureel werk op basis van niet-commerciële doelen, in de vrije   tijd, ter bevordering van de algemene en integrale ontwikkeling van de jongeren   die eraan deelnemen op vrijwillige basis en waarvan de activiteiten plaatsvinden   in een aangepaste accommodatie;<BR>4° jongeren : de personen van veertien tot   dertig jaar. <BR>
+In dit besluit wordt verstaan onder : <BR>1° administratie : het   Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van   Cultuur, Jeugd, Sport en Media;<BR>2° decreet van 7 mei 2004 : het decreet van 7   mei 2004 houdende aanvullende subsidies voor tewerkstelling in de culturele   sector;<BR>3° jeugdhuis : een vorm van sociaal-cultureel werk op basis van   niet-commerciële doelen, in de vrije tijd, ter bevordering van de algemene en   integrale ontwikkeling van de jongeren die eraan deelnemen op vrijwillige basis   en waarvan de activiteiten plaatsvinden in een aangepaste accommodatie;<BR>4°   jongeren : de personen van veertien tot dertig jaar. <BR>
 
 ### ART. 2.
 
