@@ -88,7 +88,7 @@ De kabinetschef of de adjunct-kabinetschef zendt de instructies en nota's van he
 
 ### ART. 15/2.
 
-De secretaris-generaal van het departement Diensten voor het Algemeen Regeringsbeleid neemt de juridische beslissing met betrekking tot de erkenning van arbeidsongevallen en van ongevallen op de weg naar en van het werk, en met betrekking tot de toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector, wat betreft de personeelsleden van de kabinetten van de leden van de Vlaamse Regering. Hij kan de bevoegdheden, die hem in dit besluit zijn toegewezen inzake arbeidsongevallen, ongevallen op de weg naar en van het werk en beroepsziekten delegeren aan een andere lijnmanager van een entiteit van een Vlaams ministerie.
+De secretaris-generaal van het departement Kanselarij en Bestuur neemt de   juridische beslissing met betrekking tot de erkenning van arbeidsongevallen en   van ongevallen op de weg naar en van het werk, en met betrekking tot de   toekenning van schadevergoeding voor arbeidsongevallen, voor ongevallen op de   weg naar en van het werk en voor beroepsziekten in de overheidssector, wat   betreft de personeelsleden van de kabinetten van de leden van de Vlaamse   Regering. Hij kan de bevoegdheden, die hem in dit besluit zijn toegewezen inzake   arbeidsongevallen, ongevallen op de weg naar en van het werk en beroepsziekten   delegeren aan een andere lijnmanager van een entiteit van een Vlaams   ministerie.
 
 ## HOOFDSTUK IV Financieel statuut
 
