@@ -42,6 +42,10 @@ De   exploitant stelt minstens de volgende gegevens ter beschikking over afsluit
 
 <P>De in de artikelen 2 tot en met 6 beschreven gegevens worden   jaarlijks voor 31 maart aan de Vlaamse Milieumaatschappij ter beschikking   gesteld en hebben betrekking op de periode van 1 januari tot 31 december uit het   vorige kalenderjaar tenzij anders vermeld.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de periode 1 januari 2014 tot en met 31 december 2014 wordt gerapporteerd op   basis van de bepalingen van het ministerieel besluit van 12 december 2011 en op   basis van beschikbaarheid van gegevens voor gegevens die nog niet opgenomen   werden in het ministerieel besluit van 12 december 2011.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   voorkomend geval worden de gegevens aangeleverd via één of meerdere door de VMM   ter beschikking gestelde rapporteringsjablonen.</P>
 
+### ART. 8.
+
+Het ministerieel besluit van 12 december 2011 wordt op 1   april 2015 opgeheven.
+
 ### ART. 9.
 
 Dit besluit treedt in werking op 1 januari   2015.
