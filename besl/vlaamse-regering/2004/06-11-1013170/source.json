@@ -2,16 +2,16 @@
   "codex_id": 1013170,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot oprichting van het intern verzelfstandigd agentschap Kunsten en Erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013170/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "08cb5e9984c5765661fa9f24274ace1e6cdd01166210aeb42262639cb9fec1ae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013170/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "1ffbe76ef864494ffe2d69c46f430a1e32cc8e45b28bed8229d8575f8265ed4a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013170&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2015-04-01",
   "made": "2004-06-11",
   "gazette": "2004-07-02",
   "numac": 2004036041,
   "document_start": "2006-04-01",
   "document_end": "2015-03-31",
-  "in_force": "2009-01-01",
+  "in_force": "2015-04-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
