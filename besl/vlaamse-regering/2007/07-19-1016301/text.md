@@ -40,7 +40,7 @@ De afdeling openbaarheid van bestuur oefent haar opdracht als beroepsinstantie u
 
 ### ART. 8.
 
-Het secretariaat van beide afdelingen van de beroepsinstantie is gevestigd bij de afdeling Kanselarij van het Departement Diensten voor het Algemeen Regeringsbeleid.<br /><br />Alle briefwisseling en communicatie met de beroepsinstantie wordt gericht aan het adres van het secretariaat.<br /><br />
+Het secretariaat van beide afdelingen van de beroepsinstantie is gevestigd   bij de afdeling Kanselarij van het Departement Kanselarij en   Bestuur.<BR><BR>Alle briefwisseling en communicatie met de beroepsinstantie   wordt gericht aan het adres van het secretariaat.<BR><BR>
 
 ### ART. 9.
 
