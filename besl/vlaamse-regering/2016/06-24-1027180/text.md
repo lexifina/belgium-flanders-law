@@ -76,6 +76,20 @@ In deel VII, titel 3, hoofdstuk 9 van hetzelfde besluit, ingevoegd bij het beslu
 In artikel VII 109septies van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 29 april 2011 en gewijzigd bij het besluit van de Vlaamse Regering van 2 december 2011, wordt de zinsnede "samengeordende wetten betreffende de kinderbijslag voor loonarbeiders van 19 december 1939, hierna SWKL te noemen" vervangen door de zinsnede "Algemene kinderbijslagwet (AKBW) van 19 december 1939".<br>
 &nbsp;
 
+### ART 97.
+
+In deel VII, titel 5 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007 en laatst gewijzigd bij het besluit van de Vlaamse Regering van 4 maart 2016, worden volgende wijzigingen aangebracht :<br>
+<br>
+1° Aan artikel VII 164, § 1, wordt tussen het eerste en het tweede lid een nieuw lid toegevoegd, dat luidt als volgt :<br>
+"De in het eerste lid vermelde toelage blijft eveneens behouden voor de 4 statutaire personeelsleden vermeld in bijlage 1, punt 1.3. van het besluit van de Vlaamse Regering van 27 maart 2015 houdende overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de omvorming van de beleidsdomeinen Diensten voor het Algemeen Regeringsbeleid en Bestuurszaken tot het beleidsdomein Kanselarij en Bestuur, die worden overgedragen van het FIT naar het departement Kanselarij en Bestuur."<br>
+2° Er wordt een hoofdstuk 4, dat bestaat uit artikel VII 196, toegevoegd, dat luidt als volgt :<br>
+HOOFDSTUK 4 Overgangsbepalingen voor de in het kader van de herstructureringen binnen de diensten van de Vlaamse overheid overgedragen personeelsleden<br>
+<br>
+Art. VII 196. De 4 statutaire personeelsleden vermeld in bijlage 1, punt 1.3. van het besluit van de Vlaamse Regering van 27 maart 2015 houdende overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de omvorming van de beleidsdomeinen Diensten voor het Algemeen Regeringsbeleid en Bestuurszaken tot het beleidsdomein Kanselarij en Bestuur, die worden overgedragen van het FIT naar het departement Kanselarij en Bestuur, behouden :<br>
+1° de specifieke salarisschalen die zij op het ogenblik van de overdracht genoten en opgenomen zijn in bijlage 2 bij het besluit van de Vlaamse Regering van 28 februari 2014 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van het Vlaams Agentschap voor Internationaal Ondernemen, zoals eventueel later gewijzigd, alsook de daaraan verbonden functionele loopbaan;<br>
+2° de jaartoelage zoals vastgesteld in de artikelen 10 en 11 van hetzelfde besluit van 28 februari 2014.".<br>
+&nbsp;
+
 ### ART 98.
 
 In artikel X 9 § 3, van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 1 februari 2013, worden de volgende wijzigingen aangebracht :<br>
