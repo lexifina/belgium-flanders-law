@@ -2,16 +2,16 @@
   "codex_id": 1017852,
   "title": "Besluit van de Vlaamse Regering van 2009-03-06 betreffende de uitvoering van het decreet van 21 november 2008 betreffende de ondersteuning van de circuskunsten in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017852/VolledigDocument?datum=2009-05-10",
-  "source_sha256": "aaaf14b53152f7dcd981a4ebff34e2440bc9d71d5e3eed9321e2f8086d1a7d55",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017852/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "30c2b859b4e0f0be9ac14a1644876b44b7c9bc3c7469907378b57d1486fb38b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017852&param=informatie",
-  "as_of": "2009-05-10",
+  "as_of": "2015-04-01",
   "made": "2009-03-06",
   "gazette": "2009-04-30",
   "numac": 2009201799,
   "document_start": "2009-05-10",
   "document_end": null,
-  "in_force": "2009-05-10",
+  "in_force": "2015-04-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2009-05-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
