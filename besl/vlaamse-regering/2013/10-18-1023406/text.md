@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder het agentschap : het intern   verzelfstandig
 
 ### ART. 2.
 
-<P>Binnen het Vlaams Ministerie Diensten voor het Algemeen Regeringsbeleid wordt   een intern verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht   onder de benaming Audit Vlaanderen.<BR></P>  <P>Het agentschap behoort tot het beleidsdomein Diensten voor het Algemeen   Regeringsbeleid.<BR></P>
+<P>Binnen het Vlaams Ministerie Kanselarij en Bestuur wordt een intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid opgericht onder de   benaming Audit Vlaanderen.<BR></P>  <P>Het agentschap behoort tot het beleidsdomein Kanselarij en   Bestuur.<BR></P>
 
 ### ART. 3.
 
