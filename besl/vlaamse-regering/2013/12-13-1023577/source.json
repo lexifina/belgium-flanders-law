@@ -2,16 +2,16 @@
   "codex_id": 1023577,
   "title": "Besluit van de Vlaamse Regering van 2013-12-13 tot uitvoering van hoofdstuk 3 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023577/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "4839ff31adfa4120e1ed8342815e2be6853e70fa6185ec47b826d8a065a3315c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023577/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "5388f48e88cb76b462ea1b270286cfc25a2baae9cab9fb3eb885d8d45582b0e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023577&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-04-01",
   "made": "2013-12-13",
   "gazette": "2014-01-16",
   "numac": 2013036223,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2015-04-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
