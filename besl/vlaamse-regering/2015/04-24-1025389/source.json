@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025389,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-24 tot wijziging van artikel 12 van het besluit van de Vlaamse Regering van 27 februari 2015 houdende regularisatie van de gesubsidieerde contractuelen die zijn tewerkgesteld met een contingentovereenkomst als vermeld in artikel 1, 12°, van het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde contractuelen bij sommige plaatselijke besturen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025389/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "8d0b33191dbc4cf1834db92a89f2b1ebb1d346a9ce235eeb3e45caeea4be9326",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025389&param=informatie",
+  "as_of": "2015-04-01",
+  "made": "2015-04-24",
+  "gazette": "2015-05-28",
+  "numac": 2015035620,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-04-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
