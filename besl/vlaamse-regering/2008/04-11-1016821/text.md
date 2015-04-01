@@ -62,7 +62,7 @@ De ontvangsten hebben betrekking op : <br />1Â° het overgedragen saldo; <br />2Â
 
 ### ART. 8.
 
-Het afdelingshoofd van de afdeling waaronder het C.C.V.G. Alden Biesen ressorteert, stelt een ordonnateur aan. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+<P>De lijnmanager van het Departement Cultuur, Jeugd, Sport en Media van het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media of zijn gemandateerde, is   beheerder en gedelegeerd ordonnateur van het C.C.V.G. Alden   Biesen.</P>
 
 ### ART. 9.
 
@@ -92,7 +92,7 @@ De ordonnateur is gemachtigd om alle verbintenissen aan te gaan die noodzakelijk
 
 ### ART. 15.
 
-De Vlaamse Regering zorgt voor de werving en bezoldiging van het statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de structurele werking van het C.C.V.G. Alden Biesen. <br /><br />Het C.C.V.G. Alden Biesen zorgt voor de indienstneming en bezoldiging van aanvullend contractueel personeel met het oog op behoud, beheer, onderzoek en ontsluiting, en voor tijdelijke projecten.<br /><br />De ordonnateur is gemachtigd om, na goedkeuring van het bevoegde afdelingshoofd, arbeidsovereenkomsten te sluiten.
+De Vlaamse Regering zorgt voor de werving en bezoldiging van het   statutaire en contractuele personeel, noodzakelijk voor de ondersteuning van de   structurele werking van het C.C.V.G. Alden Biesen. <BR><BR>Het C.C.V.G. Alden   Biesen zorgt voor de indienstneming en bezoldiging van aanvullend contractueel   personeel met het oog op behoud, beheer, onderzoek en ontsluiting, en voor   tijdelijke projecten.
 
 ### ART. 16.
 
