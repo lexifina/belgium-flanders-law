@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025397,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 tot wijziging van de bijlagen bij het besluit van de Vlaamse Regering van 13 februari 2015 houdende overdracht van de personeelsleden van de intern verzelfstandigde agentschappen zonder rechtspersoonlijkheid Kunsten en Erfgoed en Sociaal-Cultureel Werk voor Jeugd en Volwassenen aan het Departement Cultuur, Jeugd, Sport en Media",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025397/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "9a75954a7e462044f6e0eedbe24f688bb73cd94ab53f88b1faf80c711b9a6f98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025397&param=informatie",
+  "as_of": "2015-04-01",
+  "made": "2015-04-03",
+  "gazette": "2015-05-29",
+  "numac": 2015035636,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-04-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
