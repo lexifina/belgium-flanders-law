@@ -2,16 +2,16 @@
   "codex_id": 1013450,
   "title": "Besluit van de Vlaamse Regering van 2004-06-11 tot oprichting van het intern verzelfstandigd agentschap [\"Agentschap Overheidspersoneel\" (verv. BVR 13 maart 2015, art. 17, I: 1 april 2015)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013450/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "0a118eb68bd7471177a1e00500aec1aaddbb852d9ad84dc7d18049788ec1ef2b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013450/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "fd79a87d38745d3767e499f926db2b2e884b48c1648a917fe9450fd4183803a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013450&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-04-01",
   "made": "2004-06-11",
   "gazette": "2004-07-12",
   "numac": 2004036071,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2015-04-01",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
 }
