@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026005,
+  "title": "Ministerieel besluit van 2015-09-15 tot toekenning van een subsidie voor testing van het zorgzwaarte-instrument voor minderjarigen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026005/VolledigDocument?datum=2015-04-01",
+  "source_sha256": "6fba315e848c78ed99c454d548eff2c08ae03b93d880b2f6d77d23a1e8f708bd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026005&param=informatie",
+  "as_of": "2015-04-01",
+  "made": "2015-09-15",
+  "gazette": "2015-10-12",
+  "numac": 2015036180,
+  "document_start": "2015-04-01",
+  "document_end": null,
+  "in_force": "2015-04-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
