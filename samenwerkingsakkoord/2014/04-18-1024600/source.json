@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024600,
+  "title": "Samenwerkingsakkoord van 2014-04-18 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijk Gewest met betrekking tot de Coördinatiestructuur voor patrimoniuminformatie",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024600/VolledigDocument?datum=2015-04-02",
+  "source_sha256": "1b1a2058a452f5c16e5b21e501f72d5f1ae6fdbacfe66e9eae07178aaae902f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024600&param=informatie",
+  "as_of": "2015-04-02",
+  "made": "2014-04-18",
+  "gazette": "2014-09-25",
+  "numac": 2014205552,
+  "document_start": "2015-04-02",
+  "document_end": null,
+  "in_force": "2015-04-02",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2015-04-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
