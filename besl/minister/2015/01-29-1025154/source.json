@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025154,
+  "title": "Ministerieel besluit van 2015-01-29 betreffende de hulpcoördinatie in de integrale jeugdhulp",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025154/VolledigDocument?datum=2015-04-04",
+  "source_sha256": "211c12d72d6345306e2e1fa73a9081739663bf77e1eef8e92c3def458b830723",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025154&param=informatie",
+  "as_of": "2015-04-04",
+  "made": "2015-01-29",
+  "gazette": "2015-03-25",
+  "numac": 2015035315,
+  "document_start": "2015-04-04",
+  "document_end": null,
+  "in_force": "2015-04-04",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
