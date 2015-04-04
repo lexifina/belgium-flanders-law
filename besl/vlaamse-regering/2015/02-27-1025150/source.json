@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025150,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-27 tot wijziging van het besluit van de Vlaamse Regering van 16 maart 2007 betreffende de subsidiëring van stadsvernieuwingsprojecten, wat betreft de verhoging van het bedrag van de conceptsubsidie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025150/VolledigDocument?datum=2015-04-04",
+  "source_sha256": "a3d416d70c1180d0596cba419995ac6cca9c7744794cef3c775427ff57c78e56",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025150&param=informatie",
+  "as_of": "2015-04-04",
+  "made": "2015-02-27",
+  "gazette": "2015-03-25",
+  "numac": 2015035307,
+  "document_start": "2015-04-04",
+  "document_end": null,
+  "in_force": "2015-04-04",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
