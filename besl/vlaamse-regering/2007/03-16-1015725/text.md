@@ -107,7 +107,7 @@ De door de Vlaamse Regering gemachtigde ambtenaren kunnen bij de steden controle
 
 ### ART. 18.
 
-De conceptsubsidie bedraagt maximaal 60.000 euro per project. Ze moet aangewend worden voor de betaling van het multidisciplinaire team van dienstverleners, dat voor de conceptbegeleiding door de stad is aangesteld, na overleg met het Regieteam.<br />
+De conceptsubsidie bedraagt maximaal 90.000 euro per project. Ze moet   aangewend worden voor de betaling van het multidisciplinaire team van   dienstverleners, dat voor de conceptbegeleiding door de stad is aangesteld, na   overleg met het Regieteam.<BR>
 
 ### ART. 19.
 
