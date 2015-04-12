@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025186,
+  "title": "Ministerieel besluit van 2015-03-04 betreffende de aanwijzing van zwemwateren voor het badseizoen 2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025186/VolledigDocument?datum=2015-04-12",
+  "source_sha256": "a073684d4a039254c16f6fe05e6ead7b8940dd3ac511b888e018ac3823a3ac42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025186&param=informatie",
+  "as_of": "2015-04-12",
+  "made": "2015-03-04",
+  "gazette": "2015-04-02",
+  "numac": 2015035421,
+  "document_start": "2015-04-12",
+  "document_end": null,
+  "in_force": "2015-04-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
