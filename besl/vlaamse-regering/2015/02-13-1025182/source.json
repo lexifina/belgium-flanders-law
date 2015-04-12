@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025182,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 houdende indeling bij de gemeentewegen van de Klaverbladstraat (580 m.) en de Golfweg (390 m.) te Lummen op het grondgebied van de gemeente Lummen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025182/VolledigDocument?datum=2015-04-12",
+  "source_sha256": "f1036ac0477948f79863f659de2cc65e897996deadafe426230b0e9fa3db3a22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025182&param=informatie",
+  "as_of": "2015-04-12",
+  "made": "2015-02-13",
+  "gazette": "2015-04-02",
+  "numac": 2015035380,
+  "document_start": "2015-04-12",
+  "document_end": null,
+  "in_force": "2015-04-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
