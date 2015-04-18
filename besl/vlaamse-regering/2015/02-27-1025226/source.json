@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025226,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-27 tot wijziging van het besluit van de Vlaamse Regering van 26 maart 2004 houdende regels tot uitvoering van het oppervlaktedelfstoffendecreet, wat betreft het wijzigen van de nadere regels over de oppervlaktedelfstoffenplanning en over de natuurlijke samenstelling van oppervlaktedelfstoffen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025226/VolledigDocument?datum=2015-04-18",
+  "source_sha256": "b454831ffbaa1f73181ddc6c79073eec2a0a31b320958ae6294745114c08d049",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025226&param=informatie",
+  "as_of": "2015-04-18",
+  "made": "2015-02-27",
+  "gazette": "2015-04-08",
+  "numac": 2015035329,
+  "document_start": "2015-04-18",
+  "document_end": null,
+  "in_force": "2015-04-18",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-04-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
