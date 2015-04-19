@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025230,
+  "title": "Decreet van 2015-03-20 houdende wijziging van het decreet van 3 mei 1989 houdende erkenning van adoptiediensten en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025230/VolledigDocument?datum=2015-04-19",
+  "source_sha256": "c427c9545cb85a67ffa7aa4aee77fd812a2db4b947963a9a595e2161c1d1296c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025230&param=informatie",
+  "as_of": "2015-04-19",
+  "made": "2015-03-20",
+  "gazette": "2015-04-09",
+  "numac": 2015035426,
+  "document_start": "2015-04-19",
+  "document_end": null,
+  "in_force": "2015-04-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
