@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025229,
+  "title": "Decreet van 2015-03-06 houdende instemming met het Protocol van Nagoya inzake toegang tot genetische rijkdommen en de eerlijke en billijke verdeling van voordelen voortvloeiende uit hun gebruik bij het Verdrag inzake biologische diversiteit, gedaan te Nagoya op 29 oktober 2010, alsmede met zijn bijlage",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025229/VolledigDocument?datum=2015-04-19",
+  "source_sha256": "60267f9492c8be87aba4c2fed7584507d8d95ac20a5bd62a2427a6c04b470f3c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025229&param=informatie",
+  "as_of": "2015-04-19",
+  "made": "2015-03-06",
+  "gazette": "2015-04-09",
+  "numac": 2015035414,
+  "document_start": "2015-04-19",
+  "document_end": null,
+  "in_force": "2015-04-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
