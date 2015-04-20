@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025242,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot erkenning van de beroepskwalificatie microbrouwer",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025242/VolledigDocument?datum=2015-04-20",
+  "source_sha256": "8487e63faf84bdc3555c55bb059faa7f858882b335a7bd4cf478b34c019b86be",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025242&param=informatie",
+  "as_of": "2015-04-20",
+  "made": "2015-02-13",
+  "gazette": "2015-04-10",
+  "numac": 2015035370,
+  "document_start": "2015-04-20",
+  "document_end": null,
+  "in_force": "2015-04-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
