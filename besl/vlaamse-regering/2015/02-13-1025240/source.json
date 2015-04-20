@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025240,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-13 tot erkenning van de beroepskwalificatie zytholoog",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025240/VolledigDocument?datum=2015-04-20",
+  "source_sha256": "4c18a6cc4c1e32a83266d370c4eb5a0fe57160a88c7c510987c349be00abb74c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025240&param=informatie",
+  "as_of": "2015-04-20",
+  "made": "2015-02-13",
+  "gazette": "2015-04-10",
+  "numac": 2015035368,
+  "document_start": "2015-04-20",
+  "document_end": null,
+  "in_force": "2015-04-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
