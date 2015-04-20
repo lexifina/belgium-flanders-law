@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025254,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-27 houdende houdende indeling bij de gemeentewegen van de gewestweg N14 tussen kilometerpunt 0.588 en 2.940 op het grondgebied van de stad Mechelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025254/VolledigDocument?datum=2015-04-20",
+  "source_sha256": "d1e3ad0ea8153e423ca2713902f8f400362d217212ff26ae7c1c8e93f0bb55f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025254&param=informatie",
+  "as_of": "2015-04-20",
+  "made": "2015-02-27",
+  "gazette": "2015-04-10",
+  "numac": 2015035410,
+  "document_start": "2015-04-20",
+  "document_end": null,
+  "in_force": "2015-04-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
