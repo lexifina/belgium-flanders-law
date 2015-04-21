@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025297,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-24 tot vaststelling van de luchthaveninfrastructuur en de daaraan verbonden goederen, rechten en verplichtingen die door het Vlaamse Gewest worden ingebracht in de LOM Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025297/VolledigDocument?datum=2015-04-21",
+  "source_sha256": "4b9837c366bd8057d3e3a50e680d6f1e41c69b2197239ba2b6481a0b4e2281f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025297&param=informatie",
+  "as_of": "2015-04-21",
+  "made": "2014-10-24",
+  "gazette": "2015-04-21",
+  "numac": 2015035474,
+  "document_start": "2015-04-21",
+  "document_end": null,
+  "in_force": "2015-04-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-04-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
