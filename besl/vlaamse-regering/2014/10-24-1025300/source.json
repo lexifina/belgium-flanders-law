@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025300,
+  "title": "Besluit van de Vlaamse Regering van 2014-10-24 tot vaststelling van de luchthaveninfrastructuur en de daaraan verbonden goederen, rechten en verplichtingen die door het Vlaamse Gewest worden ingebracht in de LOM Oostende-Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025300/VolledigDocument?datum=2015-04-22",
+  "source_sha256": "f5c5eaca42da3acb36352731034a52b34cfb746858888c2a88ce30f94491149d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025300&param=informatie",
+  "as_of": "2015-04-22",
+  "made": "2014-10-24",
+  "gazette": "2015-04-22",
+  "numac": 2015035467,
+  "document_start": "2015-04-22",
+  "document_end": null,
+  "in_force": "2015-04-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-04-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
