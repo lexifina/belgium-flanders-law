@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025262,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-27 houdende indeling bij de gemeentewegen van de gewestweg(en) R11a tussen kilometerpunt 0,00 en 0,30 op het grondgebied van de stad Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025262/VolledigDocument?datum=2015-04-23",
+  "source_sha256": "5b1e43f373d1257208391ba8bf25bf06e1c9cd387e120d0592c799094b33b541",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025262&param=informatie",
+  "as_of": "2015-04-23",
+  "made": "2015-02-27",
+  "gazette": "2015-04-13",
+  "numac": 2015035411,
+  "document_start": "2015-04-23",
+  "document_end": null,
+  "in_force": "2015-04-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
