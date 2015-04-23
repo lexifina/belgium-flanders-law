@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025264,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-06 houdende indeling bij de gemeentewegen van de gewestweg N793 Millenstraat - Toleikstraat tussen kilometerpunt 0.000 en kilometerpunt 0.940 op het grondgebied van de stad Bree",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025264/VolledigDocument?datum=2015-04-23",
+  "source_sha256": "c040e47fa6566bf8714b543d39dfd9028c5fd3f72efdfe0966d22a39be0033e9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025264&param=informatie",
+  "as_of": "2015-04-23",
+  "made": "2015-03-06",
+  "gazette": "2015-04-13",
+  "numac": 2015035451,
+  "document_start": "2015-04-23",
+  "document_end": null,
+  "in_force": "2015-04-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
