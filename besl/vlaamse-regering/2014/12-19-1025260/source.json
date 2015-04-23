@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025260,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 tot wijziging van het besluit van 14 september 2007 betreffende de opleiding, de kwalificatie en de aansprakelijkheid van de personeelsleden die belast zijn met de begeleiding van de scheepvaart op de maritieme toegangswegen buiten het havengebied en het personeel van het MRCC",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025260/VolledigDocument?datum=2015-04-23",
+  "source_sha256": "31cfad6a08affb77d297a9f18503990df17cfbfc151d36eee85d8b8804cf6b0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025260&param=informatie",
+  "as_of": "2015-04-23",
+  "made": "2014-12-19",
+  "gazette": "2015-04-13",
+  "numac": 2015035432,
+  "document_start": "2015-04-23",
+  "document_end": null,
+  "in_force": "2015-04-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-04-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
