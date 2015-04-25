@@ -2,16 +2,16 @@
   "codex_id": 1020991,
   "title": "Ministerieel besluit van 2011-09-27 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020991/VolledigDocument?datum=2014-02-09",
-  "source_sha256": "8a0247680d39ded4845b34a24b54b25e18356dd3f083d010539a1937ba5db25d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020991/VolledigDocument?datum=2015-04-25",
+  "source_sha256": "7711504f319ce4834bc98c06ba03e82bb65f43287b2c5365aeec1d4e7c18adcf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020991&param=informatie",
-  "as_of": "2014-02-09",
+  "as_of": "2015-04-25",
   "made": "2011-09-27",
   "gazette": "2011-12-02",
   "numac": 2011205913,
   "document_start": "2011-07-01",
   "document_end": null,
-  "in_force": "2014-02-09",
+  "in_force": "2015-04-25",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2014-02-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-25; future article versions excluded; article text as the API gives it"
 }
