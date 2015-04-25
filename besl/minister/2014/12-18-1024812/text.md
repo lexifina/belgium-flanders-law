@@ -40,7 +40,7 @@ Ter uitvoering van de herstelplannen worden de havens van Oostende en   Zeebrugg
 
 ### ART. 8.
 
-Het is voor zeehengelaars die vissen vanuit vaartuigen die niet beschikken   over een visvergunning verboden om in totaal meer dan 20 kg kabeljauw en   zeebaars, waarvan maximaal 15 kg kabeljauw, per ingescheepte persoon en per   zeereis aan boord te houden, over te laden en te lossen. De vis moet in hele   staat worden aangevoerd en mag ontdaan zijn van ingewanden.<BR>
+Het is voor zeehengelaars die vissen vanuit vaartuigen die niet beschikken   over een visvergunning verboden om in totaal meer dan 15 kg kabeljauw, per   ingescheepte persoon en per zeereis aan boord te houden, over te laden en te   lossen. De vis moet in hele staat worden aangevoerd en mag ontdaan zijn van   ingewanden.<BR>
 
 ### ART. 9.
 
@@ -122,7 +122,7 @@ Zodra een vissersvaartuig het maximum aantal toegelaten vaartdagen,   vermeld in
 
 ### ART. 21.
 
-De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIII a, b is   verboden in de periode van 1 januari 2015 tot en met 31 december   2015.<BR>
+§ 1. De aanwezigheid van een vissersvaartuig in de ICES-gebieden VIII a, b   is verboden in de periode van 1 januari 2015 tot en met 31 december   2015.<BR><BR>§ 2. In afwijking van paragraaf 1 is het vanaf 1 juni 2015, om   00:00 uur, alleen voor de vissersvaartuigen die op de lijst "Visvergunningen   Golf van Gascogne 2015" voorkomen, toegestaan om in de ICES-gebieden VIIIa, b   aanwezig te zijn.<BR><BR>Om aan de lijst, vermeld in het eerste lid, toegevoegd   te kunnen worden, richten de eigenaars van vissersvaartuigen vóór 15 mei 2015   met een aangetekende brief of per fax een aanvraag tot het departement Landbouw   en Visserij.<BR><BR>Ingeval het aantal ingeschreven vaartuigen te hoog is in   verhouding tot de beschikbare tongquota of beschikbare brutotonnage, zal via   loting dat aantal worden beperkt.<BR><BR>§ 3. Vanaf 1 juni 2015 tot en met 30   september 2015 is het verboden dat in de ICES-gebieden VIIIa, b de tongvangst   van een vissersvaartuig, dat voorkomt op de lijst vermeld in paragraaf 2, een   hoeveelheid overschrijdt die gelijk is aan 15 kg, vermenigvuldigd met het   motorvermogen van het vissersvaartuig, uitgedrukt in kW. Als uitgangspunt wordt   de situatie op 1 mei 2015 genomen.<BR><BR>De hoeveelheid vermeld in het eerste   lid kan door het departement Landbouw en Visserij worden herzien.<BR><BR>§ 4.   Ingeval de hoeveelheden tong, vermeld in paragraaf 3, worden overschreden,   worden de door dat vissersvaartuig overschreden hoeveelheden tong in tweevoud in   mindering gebracht op de hoeveelheid tong die aan het vissersvaartuig wordt   toegekend voor 2016.<BR><BR>§ 5. Voor de vissersvaartuigen die op de lijst   "Visvergunningen Golf van Gascogne 2015 voorkomen, wordt het aantal dagen in de   ICES-gebieden IV, VIId en VIIa vermeld in artikel 10, § 1, verminderd met 30.   Bovendien wordt voor de vissersvaartuigen in kwestie de geen hoeveelheid tong   VIIf, g overeenkomstig artikel 16, voor de periode 1 november 2015 tot 31   december 2015 toegekend.<BR><BR>§ 6. Voor de vissersvaartuigen die de bepalingen   van paragraaf 1 of paragraaf 2 niet naleven, wordt het aantal dagen, vermeld in   artikel 10, § 1, en in artikel 12, verminderd met 10. Bovendien mogen de   vissersvaartuigen in kwestie niet aanwezig in de ICES-gebieden VIIIa, b   gedurende het jaar 2016.
 
 ## Afdeling 2 Toewijzing van vangstmogelijkheden per zeereis
 
@@ -186,4 +186,4 @@ Het ministerieel besluit van 21 december 2012 houdende tijdelijke   aanvullende 
 
 ### ART. 32.
 
-Dit besluit treedt in werking op 1 januari 2015. Het houdt op van kracht   te zijn op 1 januari 2016 met uitzondering van de artikelen 3, 10, 11, 13, 29 en   30.<BR>
+Dit besluit treedt in werking op 1 januari 2015. Het houdt op van kracht   te zijn op 1 januari 2016 met uitzondering van de artikelen 3, 10, 11, 13, 21, §   4; 21, § 6, tweede zin; 29 en 30.<BR>
