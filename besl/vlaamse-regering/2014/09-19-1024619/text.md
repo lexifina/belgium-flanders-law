@@ -40,7 +40,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° Agentschap voor Natuur en Bos:   het agentschap opgericht bij besluit van de Vlaamse Regering van 23 december   2005 tot oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid Agentschap voor Natuur en Bos.<BR>2° basisnormen: de   dwingende voorschriften, vermeld in artikel 28, derde lid van de Verordening   (EU) nr. 1305/2013;<BR>3° beheerder: degene die een beheerovereenkomst heeft   gesloten;<BR>4° beheergebied: de ruimtelijk afgebakende delen van het Vlaamse   Gewest waarin beheerovereenkomsten kunnen worden gesloten op basis van dit   besluit;<BR>5° beheerpakket: een geheel van basisnormen, instapvoorwaarden en   beheervoorwaarden die tegemoetkomen aan een specifieke beheerdoelstelling;<BR>6°   beheervoorwaarde: het werk dat of de handeling die de beheerder verricht of laat   verrichten of achterwege laat, afhankelijk van de beheerdoelstelling, waarvoor   een beheervergoeding wordt toegekend;<BR>7° beheervoorwerp: het perceel, het   deel van het perceel of het voorwerp waarop de beheerovereenkomst zich   richt;<BR>8° betaalorgaan: het orgaan dat conform artikel 7 van de Verordening   (EU) nr. 1306/2013 is erkend als betaalorgaan;<BR>9° decreet van 21 oktober   1997: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu;<BR>10° departement: het Departement Leefmilieu, Natuur en   Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<BR>11°   GBCS: het geïntegreerd beheers- en controlesysteem, vermeld in titel V,   hoofdstuk II, van de Verordening (EU) nr. 1306/2013;<BR>12° instapvoorwaarden:   de voorwaarden waaraan voldaan moet zijn om in aanmerking te komen voor het   sluiten van een beheerovereenkomst;<BR>13° landbouwer: een landbouwer als   vermeld in artikel 4, eerste lid, a), van de Verordening (EU) nr. 1307/2013 die   conform artikel 9 van de Verordening (EU) nr. 1307/2013 wordt beschouwd als een   actieve landbouwer;<BR>14° landbouwgrond: een landbouwareaal dat conform artikel   32, tweede lid, van de Verordening (EU) nr. 1307/2013 als subsidiabel wordt   beschouwd;<BR>15° maatschappij: de Vlaamse Landmaatschappij, opgericht bij het   decreet van 21 december 1988 houdende oprichting van de Vlaamse   Landmaatschappij;<BR>16° minister: de Vlaamse minister, bevoegd voor het   leefmilieu en het waterbeleid, en de Vlaamse minister, bevoegd voor de   landinrichting en het natuurbehoud, ieder wat zijn of haar bevoegdheden   betreft;<BR>17° programmeringsperiode 2014-2020: de programmeringsperiode voor   de programma's voor plattelandsontwikkeling, vermeld in artikel 6 van   Verordening (EU) nr. 1305/2013, die de periode van 1 januari 2014 tot en met 31   december 2020 behelst;<BR>18° vergroeningspraktijken: de klimaat- en   milieuvriendelijke landbouwpraktijken of gelijkwaardige praktijken, vermeld in   artikel 43 van de Verordening (EU) nr. 1307/2013;<BR>19° Verordening (EU) nr.   1305/2013: de Verordening (EU) nr. 1305/2013 van het Europees Parlement en de   Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het   Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) en tot intrekking   van Verordening (EG) nr. 1698/2005 van de Raad;<BR>20° Verordening (EU) nr.   1306/2013: de Verordening (EU) nr. 1306/2013 van het Europees Parlement en de   Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring   van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen   (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr.   1290/2005 en (EG) nr. 485/2008 van de Raad;<BR>21° Verordening (EU) nr.   1307/2013: de Verordening (EU) nr. 1307/2013 van het Europees Parlement en de   Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse   betalingen aan landbouwers in het kader van de steunregelingen van het   gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr.   637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de   Raad.<BR>
+In dit besluit wordt verstaan onder:<BR>1° Agentschap voor Natuur en Bos:   het agentschap opgericht bij besluit van de Vlaamse Regering van 23 december   2005 tot oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid Agentschap voor Natuur en Bos.<BR>2° basisnormen: de   dwingende voorschriften, vermeld in artikel 28, derde lid van de Verordening   (EU) nr. 1305/2013;<BR>3° beheerder: degene die een beheerovereenkomst heeft   gesloten;<BR>4° beheergebied: de ruimtelijk afgebakende delen van het Vlaamse   Gewest waarin beheerovereenkomsten kunnen worden gesloten op basis van dit   besluit;<BR>5° beheerpakket: een geheel van basisnormen, instapvoorwaarden en   beheervoorwaarden die tegemoetkomen aan een specifieke beheerdoelstelling;<BR>6°   beheervoorwaarde: het werk dat of de handeling die de beheerder verricht of laat   verrichten of achterwege laat, afhankelijk van de beheerdoelstelling, waarvoor   een beheervergoeding wordt toegekend;<BR>7° beheervoorwerp: het perceel, het   deel van het perceel of het voorwerp waarop de beheerovereenkomst zich   richt;<BR>8° betaalorgaan: het orgaan dat conform artikel 7 van de Verordening   (EU) nr. 1306/2013 is erkend als betaalorgaan;<BR>9° decreet van 21 oktober   1997: het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu;<BR>10° departement: het Departement Leefmilieu, Natuur en   Energie van het Vlaams Ministerie van Leefmilieu, Natuur en Energie;<BR>11°   GBCS: het geïntegreerd beheers- en controlesysteem, vermeld in titel V,   hoofdstuk II, van de Verordening (EU) nr. 1306/2013;<BR>12° instapvoorwaarden:   de voorwaarden waaraan in het jaar vóór de aanvangsdatum van de   beheerovereenkomst voldaan moet zijn om in aanmerking te komen voor het sluiten   van een beheerovereenkomst en waaraan voldaan moet zijn gedurende de volledige   looptijd van de beheerovereenkomst;<BR>13° landbouwer: een landbouwer als   vermeld in artikel 4, eerste lid, a), van de Verordening (EU) nr. 1307/2013 die   conform artikel 9 van de Verordening (EU) nr. 1307/2013 wordt beschouwd als een   actieve landbouwer;<BR>14° landbouwgrond: een landbouwareaal dat conform artikel   32, tweede lid, van de Verordening (EU) nr. 1307/2013 als subsidiabel wordt   beschouwd;<BR>15° maatschappij: de Vlaamse Landmaatschappij, opgericht bij het   decreet van 21 december 1988 houdende oprichting van de Vlaamse   Landmaatschappij;<BR>16° minister: de Vlaamse minister, bevoegd voor het   leefmilieu en het waterbeleid, en de Vlaamse minister, bevoegd voor de   landinrichting en het natuurbehoud, ieder wat zijn of haar bevoegdheden   betreft;<BR>17° programmeringsperiode 2014-2020: de programmeringsperiode voor   de programma's voor plattelandsontwikkeling, vermeld in artikel 6 van   Verordening (EU) nr. 1305/2013, die de periode van 1 januari 2014 tot en met 31   december 2020 behelst;<BR>18° vergroeningspraktijken: de klimaat- en   milieuvriendelijke landbouwpraktijken of gelijkwaardige praktijken, vermeld in   artikel 43 van de Verordening (EU) nr. 1307/2013;<BR>19° Verordening (EU) nr.   1305/2013: de Verordening (EU) nr. 1305/2013 van het Europees Parlement en de   Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het   Europees Landbouwfonds voor plattelandsontwikkeling (ELFPO) en tot intrekking   van Verordening (EG) nr. 1698/2005 van de Raad;<BR>20° Verordening (EU) nr.   1306/2013: de Verordening (EU) nr. 1306/2013 van het Europees Parlement en de   Raad van 17 december 2013 inzake de financiering, het beheer en de monitoring   van het gemeenschappelijk landbouwbeleid en tot intrekking van Verordeningen   (EEG) nr. 352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr.   1290/2005 en (EG) nr. 485/2008 van de Raad;<BR>21° Verordening (EU) nr.   1307/2013: de Verordening (EU) nr. 1307/2013 van het Europees Parlement en de   Raad van 17 december 2013 tot vaststelling van voorschriften voor rechtstreekse   betalingen aan landbouwers in het kader van de steunregelingen van het   gemeenschappelijk landbouwbeleid en tot intrekking van Verordening (EG) nr.   637/2008 van de Raad en Verordening (EG) nr. 73/2009 van de   Raad.<BR>
 
 ## HOOFDSTUK 2 Algemene bepalingen over de beheerovereenkomsten
 
@@ -128,7 +128,7 @@ De beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen,   ver
 
 ### ART. 21.
 
-<P>§ 1. De minister bepaalt voor elke beheerdoelstelling, vermeld in artikel 11,   de beheergebieden. De beheergebieden worden afgebakend conform de bepalingen van   paragraaf 2.<BR></P>  <P>§ 2. In afwijking van § 1 wordt voor de beheerdoelstellingen   perceelsrandenbeheer en onderhoud van kleine landschapselementen het gehele   grondgebied van het Vlaamse Gewest ingesteld als beheergebied.<BR></P>  <P>De beheergebieden voor de beheerdoelstellingen soortenbescherming, botanisch   beheer en bijdragen aan de realisatie van instandhoudingsdoelstellingen worden   afgebakend op voorstel van het Instituut voor Natuur- en Bosonderzoek.<BR></P>  <P>De beheergebieden voor de beheerdoelstelling bijdragen aan de realisatie van   de instandhoudingsdoelen worden afgebakend op voorstel van het Agentschap van   Natuur en Bos.<BR></P>  <P>De beheergebieden voor de beheerdoelstelling verbetering van de   waterkwaliteit worden afgebakend op voorstel van de maatschappij.<BR></P>  <P>De beheergebieden voor de beheerdoelstelling erosiebestrijding worden   afgebakend op voorstel van het departement en liggen binnen gebieden die   erosiegevoelig zijn volgens het GBCS.<BR></P>
+<P>§ 1. De minister bepaalt voor elke beheerdoelstelling, vermeld in artikel 11,   de beheergebieden. De beheergebieden worden afgebakend conform de bepalingen van   paragraaf 2.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 wordt voor de beheerdoelstelling   perceelsrandenbeheer de beheerdoelstelling onderhoud van kleine   landschapselementen en de beheerdoelstelling botanisch beheer, voor wat het   beheerpakket instandhouding soortenrijk grasland betreft, het volledige   grondgebied van het Vlaamse Gewest ingesteld als beheergebied.<BR><BR>De   beheergebieden voor de beheerdoelstelling soortenbescherming en de   beheerdoelstelling botanisch beheer, voor wat het beheerpakket ontwikkeling   soortenrijk grasland betreft, worden afgebakend op voorstel van het Instituut   voor Natuur- en Bosonderzoek.<BR><BR>De beheergebieden voor de   beheerdoelstelling bijdragen aan de realisatie van de instandhoudingsdoelen   worden afgebakend op voorstel van het Agentschap van Natuur en Bos.<BR><BR>De   beheergebieden voor de beheerdoelstelling verbetering van de waterkwaliteit   worden afgebakend op voorstel van de maatschappij.<BR><BR>De beheergebieden voor   de beheerdoelstelling erosiebestrijding worden afgebakend op voorstel van het   departement en liggen binnen gebieden die erosiegevoelig zijn volgens het   GBCS.<BR></P>
 
 ## HOOFDSTUK 6 Bijzondere bepalingen over de beheerovereenkomsten
 
@@ -228,4 +228,128 @@ De Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, en de   Vla
 
 ### BIJLAGE
 
-Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als   vermeld in artikel 19<BR>  <TABLE border=1>    <TBODY>    <TR>      <TD>beheerdoelstelling       <TD>beheerpakket     <TR>      <TD rowSpan=2>het botanisch beheer       <TD>ontwikkeling soortenrijk grasland<BR>    <TR>      <TD>instandhouding soortenrijk grasland     <TR>      <TD rowSpan=8>de erosiebestrijding       <TD>aanleg en onderhoud grasstrook<BR>    <TR>      <TD>aanleg en onderhoud grasstrook 15 juni<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook<BR>    <TR>      <TD>onderhoud gemengde grasstrook<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>aanleg en onderhoud erosiedam<BR>    <TR>      <TD>aanleg en onderhoud strategisch grasland     <TR>      <TD rowSpan=6>het onderhoud van kleine landschapselementen       <TD>onderhoud haag<BR>    <TR>      <TD>onderhoud kaphaag<BR>    <TR>      <TD>onderhoud heg<BR>    <TR>      <TD>onderhoud houtkant<BR>    <TR>      <TD>omvormingsbeheer houtkant<BR>    <TR>      <TD>onderhoud knotbomenrij     <TR>      <TD rowSpan=6>het perceelsrandenbeheer       <TD>aanleg en onderhoud grasstrook 15 juni<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook<BR>    <TR>      <TD>onderhoud gemengde grasstrook<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>aanleg en onderhoud bloemenstrook     <TR>      <TD rowSpan=10>de soortenbescherming       <TD>faunabeheer grasland uitgestelde maaidatum<BR>    <TR>      <TD>faunabeheer grasland beweiden 20 mei<BR>    <TR>      <TD>faunabeheer grasland standweide 15 juni<BR>    <TR>      <TD>faunabeheer grasland kuikenweide<BR>    <TR>      <TD>faunabeheer akkerland voedselgewas<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook<BR>    <TR>      <TD>onderhoud gemengde grasstrook<BR>    <TR>      <TD>aanleg en onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>onderhoud gemengde grasstrook plus<BR>    <TR>      <TD>aanleg en onderhoud vluchtstrook 15 juni     <TR>      <TD rowSpan=3>het bijdragen aan de realisatie van         instandhoudingsdoelstellingen       <TD>verminderde bemesting grasland<BR>    <TR>      <TD>verminderde bemesting akkerland<BR>    <TR>      <TD>fosfaatuitmijning akkerland<BR>    <TR>      <TD>de verbetering van de waterkwaliteit       <TD>waterkwaliteit<BR></TD></TR></TBODY></TABLE><BR>
+Beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen als vermeld in artikel 19<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>beheerdoelstelling</td>
+			<td>beheerpakket</td>
+		</tr>
+		<tr>
+			<td rowspan="2">het botanisch beheer</td>
+			<td>ontwikkeling soortenrijk grasland</td>
+		</tr>
+		<tr>
+			<td>instandhouding soortenrijk grasland</td>
+		</tr>
+		<tr>
+			<td rowspan="8">de erosiebestrijding</td>
+			<td>aanleg en onderhoud grasstrook</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud grasstrook 15 juni</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud erosiedam</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud strategisch grasland</td>
+		</tr>
+		<tr>
+			<td rowspan="6">het onderhoud van kleine landschapselementen</td>
+			<td>onderhoud haag</td>
+		</tr>
+		<tr>
+			<td>onderhoud kaphaag</td>
+		</tr>
+		<tr>
+			<td>onderhoud heg</td>
+		</tr>
+		<tr>
+			<td>onderhoud houtkant</td>
+		</tr>
+		<tr>
+			<td>omvormingsbeheer houtkant</td>
+		</tr>
+		<tr>
+			<td>onderhoud knotbomenrij</td>
+		</tr>
+		<tr>
+			<td rowspan="6">het perceelsrandenbeheer</td>
+			<td>aanleg en onderhoud grasstrook 15 juni</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud bloemenstrook</td>
+		</tr>
+		<tr>
+			<td rowspan="10">de soortenbescherming</td>
+			<td>faunabeheer grasland uitgestelde maaidatum</td>
+		</tr>
+		<tr>
+			<td>faunabeheer grasland beweiden 20 mei</td>
+		</tr>
+		<tr>
+			<td>faunabeheer grasland standweide 15 juni</td>
+		</tr>
+		<tr>
+			<td>faunabeheer grasland kuikenweide</td>
+		</tr>
+		<tr>
+			<td>faunabeheer akkerland voedselgewas</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>onderhoud gemengde grasstrook plus</td>
+		</tr>
+		<tr>
+			<td>aanleg en onderhoud vluchtstrook</td>
+		</tr>
+		<tr>
+			<td rowspan="3">het bijdragen aan de realisatie van instandhoudingsdoelstellingen</td>
+			<td>verminderde bemesting grasland</td>
+		</tr>
+		<tr>
+			<td>verminderde bemesting akkerland</td>
+		</tr>
+		<tr>
+			<td>fosfaatuitmijning akkerland</td>
+		</tr>
+		<tr>
+			<td>de verbetering van de waterkwaliteit</td>
+			<td>waterkwaliteit</td>
+		</tr>
+	</tbody>
+</table>
