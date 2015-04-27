@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025675,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 houdende de indexering van subsidies, forfaits en tegemoetkomingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025675/VolledigDocument?datum=2015-04-27",
+  "source_sha256": "ecaf248c8ec4d63a14e83eb4dee7fce12483c27559f3d17a01c3a87545bde3a8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025675&param=informatie",
+  "as_of": "2015-04-27",
+  "made": "2015-07-17",
+  "gazette": "2015-07-31",
+  "numac": 2015035965,
+  "document_start": "2015-04-27",
+  "document_end": null,
+  "in_force": "2015-04-27",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
