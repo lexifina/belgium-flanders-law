@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027593,
+  "title": "Besluit van de Vlaamse Regering van 2016-10-21 tot wijziging van het Vergunningsbesluit van 22 november 2013, het Subsidiebesluit van 22 november 2013, het Kwaliteitsbesluit Buitenschoolse Opvang van 16 mei 2014, het Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014 en het Procedurebesluit Buitenschoolse Opvang van 19 december 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027593/VolledigDocument?datum=2015-04-27",
+  "source_sha256": "9a99eb7de2063d91dc1c53582c8afb66a18cfa38e2949b9c6fd28b26e44407c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027593&param=informatie",
+  "as_of": "2015-04-27",
+  "made": "2016-10-21",
+  "gazette": "2016-11-24",
+  "numac": 2016036542,
+  "document_start": "2016-12-04",
+  "document_end": null,
+  "in_force": "2015-04-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-04-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
