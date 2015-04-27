@@ -12,6 +12,11 @@
 
 ## Afdeling 2 Invoeren van de afgevlakte/geblokkeerde gezondheidsindex in het decreet Sociale Werkplaatsen
 
+### ART 7.
+
+<p>Aan artikel 89 van afdeling 2 `Toepassing afgevlakte gezondheidsindex' van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt een punt 78° toegevoegd, dat luidt als volgt :<br>
+"78° artikel 12, § 3, van het decreet van 14 juli 1998 inzake sociale werkplaatsen.".</p>
+
 ## HOOFDSTUK 5 Mobiliteit en Openbare Werken
 
 ## HOOFDSTUK 6 Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed
