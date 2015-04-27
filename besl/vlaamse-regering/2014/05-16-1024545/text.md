@@ -64,7 +64,13 @@ De subsidies worden toegekend met inachtneming van het besluit 2012/21/EU   van 
 
 ### ART. 9.
 
-De bedragen van de subsidies, vermeld in dit besluit, worden aangepast aan   de evolutie van de levensduurte met toepassing van de wet van 1 maart 1977   houdende inrichting van een stelsel waarbij sommige uitgaven in de   overheidssector aan het indexcijfer van de consumptieprijzen van het Rijk worden   gekoppeld. De aanpassing gebeurt telkens twee maanden nadat het viermaandelijks   voortschrijdend gemiddelde van de gezondheidsindex een bepaalde drempelwaarde   overschrijdt.<BR>
+De bedragen van de subsidies, vermeld in dit besluit, worden aangepast aan de afgevlakte gezondheidsindex.<br>
+<br>
+Overeenkomstig artikel 89, eerste lid, 28° en 58°, van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt verstaan onder afgevlakte gezondheidsindex: het prijsindexcijfer, vermeld in artikel 2, § 2, van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van `s lands concurrentievermogen, dat wordt berekend en toegepast conform artikel 2 tot en met 2quater van het voormelde besluit.<br>
+<br>
+De toepassing van het eerste lid mag niet leiden tot een nominale vermindering van de subsidies, vermeld in het eerste lid, in de periode van 1 april tot aan de referentiemaand, vermeld in artikel 2, § 4, van het voormelde besluit.<br>
+<br>
+Deze aanpassing gebeurt telkens twee maanden nadat de afgevlakte gezondheidsindex een bepaalde drempelwaarde overschrijdt.
 
 ## Afdeling 5 Betalingsregeling en bezorgen van gegevens
 
