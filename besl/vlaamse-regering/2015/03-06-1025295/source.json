@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025295,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-06 tot wijziging van diverse bepalingen van het Winwinleningbesluit van 20 juli 2006",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025295/VolledigDocument?datum=2015-04-30",
+  "source_sha256": "a0744bb0094ab89ec38d501981a2305f7655c9a0ce799e8fa4390a3795a0dbec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025295&param=informatie",
+  "as_of": "2015-04-30",
+  "made": "2015-03-06",
+  "gazette": "2015-04-20",
+  "numac": 2015035452,
+  "document_start": "2015-04-30",
+  "document_end": null,
+  "in_force": "2015-04-30",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
