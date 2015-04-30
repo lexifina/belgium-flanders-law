@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025327,
+  "title": "Samenwerkingsakkoord van 2015-04-03 tussen de Federale Staat en het Vlaamse Gewest betreffende de uitvoering van artikel 16 van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025327/VolledigDocument?datum=2015-04-30",
+  "source_sha256": "7b583895977fc2adc5a38e885d6b035ba05c02009771f8e7cc5f5b351508ee9d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025327&param=informatie",
+  "as_of": "2015-04-30",
+  "made": "2015-04-03",
+  "gazette": "2015-04-30",
+  "numac": 2015201817,
+  "document_start": "2015-04-30",
+  "document_end": null,
+  "in_force": "2015-04-30",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2015-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
