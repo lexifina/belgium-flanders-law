@@ -2,16 +2,16 @@
   "codex_id": 1021187,
   "title": "Besluit van de Vlaamse Regering van 2011-12-16 betreffende bepaalde procedurele aspecten van de groene waarborgregeling voor kleine, middelgrote en grote ondernemingen (citeeropschrift: \"het Vijfde Waarborgbesluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021187/VolledigDocument?datum=2012-11-22",
-  "source_sha256": "e23410d9e1a9fe1c908915d20e018da2904f62cdc889eedc015ab5d51453537c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021187/VolledigDocument?datum=2015-04-30",
+  "source_sha256": "3e4e0129d73ad33f9a8596b71a7b2bd90d42e91155517d6f97b86d65bac23539",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021187&param=informatie",
-  "as_of": "2012-11-22",
+  "as_of": "2015-04-30",
   "made": "2011-12-16",
   "gazette": "2012-01-19",
   "numac": 2012035052,
   "document_start": "2012-01-29",
   "document_end": "2015-04-29",
-  "in_force": "2012-11-22",
+  "in_force": "2015-04-30",
   "article_versions": 40,
-  "record_form": "consolidated version as in force on 2012-11-22; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-30; future article versions excluded; article text as the API gives it"
 }
