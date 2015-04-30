@@ -2,16 +2,16 @@
   "codex_id": 1021238,
   "title": "Ministerieel besluit van 2012-01-13 tot uitvoering van bepaalde bepalingen van het Vijfde Waarborgbesluit van 16 december 2011",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021238/VolledigDocument?datum=2014-05-27",
-  "source_sha256": "4b5638d31636419784945e872b718e8270dda3ea6fcee4b6cc374163eb2aaeef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021238/VolledigDocument?datum=2015-04-30",
+  "source_sha256": "5529a46b30cecfdea855bb49a0e7b5690172da56a4d2f526f39f161dd9d9daf6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021238&param=informatie",
-  "as_of": "2014-05-27",
+  "as_of": "2015-04-30",
   "made": "2012-01-13",
   "gazette": "2012-02-07",
   "numac": 201235108,
   "document_start": "2012-01-29",
   "document_end": "2015-04-29",
-  "in_force": "2014-05-27",
+  "in_force": "2015-04-30",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-05-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-04-30; future article versions excluded; article text as the API gives it"
 }
