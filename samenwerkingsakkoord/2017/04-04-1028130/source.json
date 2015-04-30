@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028130,
+  "title": "Samenwerkingsakkoord van 2017-04-04 tot wijziging van het samenwerkingsakkoord van 3 april 2015 tussen de Federale Staat en het Vlaamse Gewest betreffende de uitvoering van artikel 16 van de wet van 15 mei 2014 houdende uitvoering van het pact voor competitiviteit, werkgelegenheid en relance",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028130/VolledigDocument?datum=2015-04-30",
+  "source_sha256": "8fa8d24cb93df9a4e456726dcfe058c96c3f444971fb76bbde60ff39185a0276",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028130&param=informatie",
+  "as_of": "2015-04-30",
+  "made": "2017-04-04",
+  "gazette": "2017-04-12",
+  "numac": 2017011586,
+  "document_start": "2017-04-12",
+  "document_end": null,
+  "in_force": "2015-04-30",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
