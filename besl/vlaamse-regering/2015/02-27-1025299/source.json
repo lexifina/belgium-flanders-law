@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025299,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-27 tot aanpassing van diverse besluiten aan een aantal nieuwe begrippen in het decreet van 18 juli 2003 betreffende het integraal waterbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025299/VolledigDocument?datum=2015-05-01",
+  "source_sha256": "cb815903ce1a75aa9581dbac2f000feb9618b5375b543242d38d857fafd55497",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025299&param=informatie",
+  "as_of": "2015-05-01",
+  "made": "2015-02-27",
+  "gazette": "2015-04-21",
+  "numac": 2015035470,
+  "document_start": "2015-05-01",
+  "document_end": null,
+  "in_force": "2015-05-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
