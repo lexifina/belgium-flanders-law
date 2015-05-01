@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026330,
+  "title": "Ministerieel besluit van 2015-04-30 tot uitvoering van artikel 82 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling en het artikel 38 van het besluit van 19 december 2014 tot uitvoering van het decreet lokale diensteneconomie van 22 november 2013",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026330/VolledigDocument?datum=2015-05-01",
+  "source_sha256": "573a74fee947cc1f472141725f48865ca60378899cb627276dca63e20124b990",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026330&param=informatie",
+  "as_of": "2015-05-01",
+  "made": "2015-04-30",
+  "gazette": "2016-01-19",
+  "numac": 2016200085,
+  "document_start": "2015-05-01",
+  "document_end": null,
+  "in_force": "2015-05-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
