@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025806,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot overdracht van contractuele personeelsleden van Jobpunt Vlaanderen aan het Agentschap Overheidspersoneel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025806/VolledigDocument?datum=2015-05-01",
+  "source_sha256": "6c8fb3320f9db6176632a44589dfa1612efca97ac8d8190d91db1876cd4610ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025806&param=informatie",
+  "as_of": "2015-05-01",
+  "made": "2015-07-17",
+  "gazette": "2015-08-26",
+  "numac": 2015036076,
+  "document_start": "2015-05-01",
+  "document_end": null,
+  "in_force": "2015-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
