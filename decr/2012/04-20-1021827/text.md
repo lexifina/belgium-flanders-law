@@ -24,7 +24,20 @@ De Vlaamse Gemeenschap beoogt met kinderopvang een dienstverlening aan gezinnen 
 
 ### ART. 4.
 
-Een organisator moet over een of meer van de volgende vergunningen van Kind en Gezin beschikken om kinderopvang te kunnen organiseren :<br />1° vergunning voor gezinsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht tegelijk aanwezige kinderen;<br />2° vergunning voor groepsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, en er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br />3° vergunning voor opvang aan huis, als de organisator van kinderopvang uitsluitend kinderen in hun eigen gezinswoning opvangt.<br /><br />Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij Kind en Gezin.<br /><br />Een vergunning wordt toegekend door Kind en Gezin als uit passend onderzoek door een toezichthouder of door Kind en Gezin, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br /><br />Als de organisator voldoet aan de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan, geldt een vergunning voor onbepaalde duur, met behoud van de toepassing van artikel 19.<br /><br />De organisator meldt tijdig de tijdelijke of definitieve stopzetting van de kinderopvang of elke wijziging die gevolgen heeft voor de vergunning aan Kind en Gezin en aan de gezinnen van de op te vangen kinderen.<br /><br />De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning, de wijziging, de schorsing en de opheffing van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen, evenals de procedure om een sanctie op te leggen als een stopzetting of een wijziging die gevolgen heeft voor de vergunning, niet of niet tijdig wordt gemeld.
+Een organisator moet over een of meer van de volgende vergunningen van Kind en Gezin beschikken om kinderopvang te kunnen organiseren :<br>
+1° vergunning voor gezinsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, voor maximaal acht tegelijk aanwezige kinderen;<br>
+2° vergunning voor groepsopvang, als de kinderopvang plaatsvindt buiten de gezinswoning van het kind, en er minimaal negen tegelijk aanwezige kinderen kunnen zijn;<br>
+3° vergunning voor opvang aan huis, als de organisator van kinderopvang uitsluitend kinderen in hun eigen gezinswoning opvangt.<br>
+<br>
+Een natuurlijke persoon die kinderopvang organiseert in een kinderopvanglocatie in het tweetalige gebied Brussel-Hoofdstad, kan vrijwillig een vergunning aanvragen bij Kind en Gezin.<br>
+<br>
+Een vergunning wordt toegekend door Kind en Gezin als uit passend onderzoek door een toezichthouder of door Kind en Gezin, zoals vermeld in artikel 16, blijkt dat de organisator van de kinderopvanglocatie voldoet aan de startvoorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan.<br>
+<br>
+Als de organisator voldoet aan de voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten ervan, geldt een vergunning voor onbepaalde duur, met behoud van de toepassing van artikel 19.<br>
+<br>
+De organisator meldt tijdig de tijdelijke of definitieve stopzetting van de kinderopvang of elke wijziging die gevolgen heeft voor de vergunning aan Kind en Gezin en aan de gezinnen van de op te vangen kinderen.<br>
+<br>
+De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning en&nbsp;de wijziging, de schorsing en de opheffing van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen, evenals de procedure om een sanctie op te leggen als een stopzetting of een wijziging die gevolgen heeft voor de vergunning, niet of niet tijdig wordt gemeld.
 
 ### ART. 5.
 
