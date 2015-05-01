@@ -2,16 +2,16 @@
   "codex_id": 1024026,
   "title": "Ministerieel besluit van 2014-02-27 ter uitvoering van artikel 8, 11, 40, 43 en 73, van het Vergunningsbesluit van 22 november 2013, wat betreft de kwalificatiebewijzen en attesten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024026/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "ff940e49b8019bbc53c11d303845fc14b4e6e8cc28bee4c582f77faacba2b322",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024026/VolledigDocument?datum=2015-05-01",
+  "source_sha256": "4a1ecee6ddbefa19d3e8450661fea64b0a1a223b1a4172ff794e63774c5d11b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024026&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2015-05-01",
   "made": "2014-02-27",
   "gazette": "2014-04-17",
   "numac": 2014201948,
   "document_start": "2014-04-01",
   "document_end": "2017-01-27",
-  "in_force": "2014-04-01",
+  "in_force": "2015-05-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2014-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-05-01; future article versions excluded; article text as the API gives it"
 }
