@@ -88,9 +88,38 @@ In   artikel 72quater, § 2, van hetzelfde decreet, ingevoegd bij het decreet va
 
 &nbsp;In artikel 72sexies van hetzelfde   decreet, ingevoegd bij het decreet van 8 mei 2009, wordt de zinsnede "en het   consortium volwassenenonderwijs waarbij het centrumbestuur is aangesloten en   waarvan de hoofdvestigingsplaats van het centrum in het werkingsgebied ligt,"   opgeheven.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 20.
+
+&nbsp;In titel IV, hoofdstuk I, van hetzelfde decreet wordt een afdeling IX ingevoegd, die luidt als volgt:<br>
+"Afdeling IX. - De coördinatie en ondersteuning van het onderwijs aan gedetineerden".
+
+### ART. 21.
+
+<p>&nbsp;In hetzelfde decreet wordt in afdeling IX, ingevoegd bij artikel 20, een artikel 72octies ingevoegd, dat luidt als volgt:<br>
+"Art. 72octies. § 1. De Vlaamse Regering stelt jaarlijks een globale subsidie van ten minste 800.000 euro ter beschikking van een organisatie of organisaties voor de coördinatie en ondersteuning van de centra voor volwassenonderwijs en de centra voor basiseducatie bij de uitwerking van een onderwijs- en vormingsbeleid voor gedetineerden, de organisatie van het detecteren van de onderwijs- en vormingsbehoeften van gedetineerden en de begeleiding van het onderwijstraject van gedetineerden.</p>
+
+<p>Opdat een organisatie of organisaties hiervoor in aanmerking kan of kunnen komen, beantwoordt of beantwoorden zij ten minste aan volgende gezamenlijke voorwaarden:<br>
+1° de organisatie moet of de organisaties moeten aantonen dat zij in staat zijn om in elke penitentiaire inrichting gelegen in de werkingsgebieden van de centra voor basiseducatie en de centra voor volwassenenonderwijs de opdracht, bepaald in het eerste lid, op een efficiënte wijze uit te voeren;<br>
+2° de organisatie moet of de organisaties moeten aantonen dat zij een draagvlak vinden bij de centra voor basiseducatie en de centra voor volwassenenonderwijs;<br>
+3° een subsidieovereenkomst wordt gesloten met de Vlaamse Regering;<br>
+4° vijfjaarlijks legt de organisatie of leggen de organisaties een werkingsverslag voor, waaruit blijkt dat de bepalingen uit de subsidieovereenkomst werden gerealiseerd;<br>
+5° jaarlijks legt de organisatie of leggen de organisaties een jaarplan, een begroting, een jaarverslag en een jaarrekening voor.</p>
+
+<p>§ 2. De subsidie zoals bepaald in paragraaf 1 kan geheel of gedeeltelijk teruggevorderd worden, indien blijkt dat deze middelen niet worden aangewend voor de realisatie van de opdracht bepaald in paragraaf 1.</p>
+
+<p>§ 3. De subsidie wordt vanaf het begrotingsjaar 2015 aangepast aan de evolutie van de gezondheidsindex.".</p>
+
+### ART. 22.
+
+Artikel 73 en artikel 74 van hetzelfde decreet worden opgeheven.
+
 ### ART. 23.
 
 &nbsp;In artikel 75, § 1, van hetzelfde   decreet, gewijzigd bij het decreet van 23 december 2011, worden de punten 1° tot   en met 7° en het punt 9° opgeheven.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 24.
+
+Artikel 75 van hetzelfde decreet, gewijzigd bij het decreet van 23 december 2011, wordt opgeheven.
 
 ### ART. 25.
 
@@ -100,9 +129,28 @@ Artikel   75bis van hetzelfde decreet, ingevoegd bij het decreet van 12 juli 201
 
 &nbsp;In artikel 76 van hetzelfde decreet,   gewijzigd bij het decreet van 12 juli 2013, worden de punten 5° en 6°   opgeheven.<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 27.
+
+Artikel 76 van hetzelfde decreet, gewijzigd bij het decreet van 12 juli 2013, wordt opgeheven.
+
+### ART. 28.
+
+<p>Artikel 77 van hetzelfde decreet, gewijzigd bij de decreten van 18 december 2009, 23 december 2010, 1 juni 2012 en 21 december 2012, wordt vervangen door wat volgt:<br>
+"Art. 77. § 1. De Vlaamse Regering stelt in het begrotingsjaar 2015 een enveloppe ter beschikking voor alle consortia volwassenenonderwijs van maximum 469.000 euro. Die subsidie omvat middelen voor de afbouw van de opdrachten verbonden aan de doelstellingen, vermeld in artikel 74.</p>
+
+<p>Voor de uitvoering van de opdracht, vermeld in artikel 75, § 1, 8°, stelt de Vlaamse Regering een bijkomende subsidie ter beschikking aan de consortia volwassenenonderwijs met minstens één penitentiaire inrichting in het werkingsgebied. Indien deze opdracht gedurende het volledig begrotingsjaar 2015 wordt uitgevoerd, bedraagt de bijkomende subsidie 800.000 euro. Indien deze opdracht gedurende een deel van het begrotingsjaar 2015 wordt uitgevoerd, wordt de bijkomende subsidie overeenkomstig verminderd.</p>
+
+<p>§ 2. De subsidie, vermeld in § 1, tweede lid, wordt verdeeld op basis van het aantal gedetineerden in het werkingsgebied van de consortia volwassenenonderwijs. Het aantal gedetineerden in het werkingsgebied van de consortia volwassenenonderwijs wordt vastgesteld op 1 januari 2015.</p>
+
+<p>§ 3. De subsidie zoals bepaald in paragraaf 1 kan geheel of gedeeltelijk teruggevorderd worden, indien blijkt dat deze middelen niet worden aangewend voor de realisatie van de opdracht, vermeld in artikel 75, § 1, 8°, en voor de afbouw van de opdrachten verbonden aan de doelstellingen, vermeld in artikel 74.".</p>
+
 ### ART. 30.
 
 &nbsp;Artikel 79 van hetzelfde decreet wordt   opgeheven.
+
+### ART. 31.
+
+In titel IV van hetzelfde decreet wordt hoofdstuk III, dat bestaat uit artikel 80, opgeheven.
 
 ### ART. 32.
 
