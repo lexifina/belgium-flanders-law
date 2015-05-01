@@ -12,6 +12,10 @@ Het statutaire personeelslid van het Departement Financiën en   Begroting, opge
 
 De statutaire personeelsleden van het Departement Financiën   en Begroting, opgenomen in bijlage 2 die bij dit besluit is gevoegd, worden   overgedragen aan het Agentschap Facilitair Bedrijf.
 
+### ART. 3.
+
+Het statutaire personeelslid van het Agentschap Facilitair   Bedrijf, opgenomen in bijlage 3 die bij dit besluit is gevoegd, wordt   overgedragen aan het Departement Financiën en Begroting.
+
 ### BIJLAGE
 
 Lijst   van de statutaire personeelsleden, vermeld in artikel 1<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Naam</TD>      <TD>Graad</TD>      <TD>Salarisschaal<BR></TD></TR>    <TR>      <TD>KELDER Richard</TD>      <TD>Stagedoend adviseur</TD>      <TD>A211<BR></TD></TR></TBODY></TABLE>
@@ -19,3 +23,7 @@ Lijst   van de statutaire personeelsleden, vermeld in artikel 1<BR   style="WIDO
 ### BIJLAGE
 
 Lijst   van de statutaire personeelsleden, vermeld in artikel 2<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Naam</TD>      <TD>Graad</TD>      <TD>Salarisschaal<BR></TD></TR>    <TR>      <TD>DE LOORE Anne-Sofie</TD>      <TD>Adjunct van de directeur</TD>      <TD>A111<BR></TD></TR>    <TR>      <TD>De SUTTER Lutgart</TD>      <TD>Hoofdmedewerker</TD>      <TD>C211<BR></TD></TR></TBODY></TABLE>
+
+### BIJLAGE
+
+Lijst   van de statutaire personeelsleden, vermeld in artikel 3<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Naam</TD>      <TD>Graad</TD>      <TD>Salarisschaal<BR></TD></TR>    <TR>      <TD>DE WAELE Dirk</TD>      <TD>Medewerker</TD>      <TD>C113<BR></TD></TR></TBODY></TABLE>
