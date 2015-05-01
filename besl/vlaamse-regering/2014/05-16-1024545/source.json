@@ -2,16 +2,16 @@
   "codex_id": 1024545,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 houdende de subsidievoorwaarden voor buitenschoolse gezinsopvang en groepsopvang [citeeropschrift: \"Subsidiebesluit Buitenschoolse Opvang van 16 mei 2014\"]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024545/VolledigDocument?datum=2015-04-27",
-  "source_sha256": "efecc7a8e37d7ba12b1d634f24a48500ac768ea9277677f37ff7a445c8dd5573",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024545/VolledigDocument?datum=2015-05-01",
+  "source_sha256": "b9294e12ecb3d15b6dcb740509e2d0d6eb85fc304a24db9f8eb2b87f38a67b5c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024545&param=informatie",
-  "as_of": "2015-04-27",
+  "as_of": "2015-05-01",
   "made": "2014-05-16",
   "gazette": "2014-09-11",
   "numac": 2014035771,
   "document_start": "2014-04-01",
   "document_end": "2021-12-31",
-  "in_force": "2015-04-27",
+  "in_force": "2015-05-01",
   "article_versions": 103,
-  "record_form": "consolidated version as in force on 2015-04-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-05-01; future article versions excluded; article text as the API gives it"
 }
