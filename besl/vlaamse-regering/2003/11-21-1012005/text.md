@@ -116,7 +116,7 @@ De bepalingen van hoofdstuk III en V van het besluit en artikel 25, § 3,   2° 
 
 ### ART. 22.
 
-De waterloopbeheerder krijgt een algemene ontheffing op de bepalingen van artikel 25, § 3, 2°, 2), 3), 4) en 5) voor het aanbrengen van wijzigingen aan een waterloop en de oever in het geval van een activiteit met het oog op de verhoging van de structuurdiversiteit van de waterloop of de oever van de waterloop in functie van natuurontwikkeling of -herstel en voor de realisatie van projecten inzake de aanleg van overstromingsgebieden in combinatie met aanzienlijke natuurontwikkeling in zoverre deze projecten ofwel zijn goedgekeurd door de Vlaamse regering ofwel zijn opgenomen in een goedgekeurd bekkenbeheerplan zoals bedoeld in (titel I van) het decreet betreffend het integraal waterbeleid.
+De waterloopbeheerder krijgt een algemene ontheffing op de bepalingen van   artikel 25, § 3, 2°, 2), 3), 4) en 5) voor het aanbrengen van wijzigingen aan   een waterloop en de oever in het geval van een activiteit met het oog op de   verhoging van de structuurdiversiteit van de waterloop of de oever van de   waterloop in functie van natuurontwikkeling of -herstel en voor de realisatie   van projecten inzake de aanleg van overstromingsgebieden in combinatie met   aanzienlijke natuurontwikkeling in zoverre deze projecten ofwel zijn goedgekeurd   door de Vlaamse regering ofwel zijn opgenomen in een goedgekeurd   bekkenbeheerplan of een goedgekeurd bekkenspecifiek deel van een   stroomgebiedbeheerplan zoals bedoeld in (titel I van) het decreet betreffend het   integraal waterbeleid.
 
 ### ART. 23.
 
