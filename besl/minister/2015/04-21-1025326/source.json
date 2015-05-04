@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025326,
+  "title": "Ministerieel besluit van 2015-04-21 houdende wijziging van het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring en het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025326/VolledigDocument?datum=2015-05-04",
+  "source_sha256": "06e8b5442d6793d253d06f3e669b4dfa5b412cfb34dd2d3b35989535709b407b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025326&param=informatie",
+  "as_of": "2015-05-04",
+  "made": "2015-04-21",
+  "gazette": "2015-04-30",
+  "numac": 2015035550,
+  "document_start": "2015-05-04",
+  "document_end": null,
+  "in_force": "2015-05-04",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-05-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
