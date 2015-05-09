@@ -1,0 +1,29 @@
+# Besluit van de Vlaamse Regering van 2015-03-27 tot wijziging van het koninklijk besluit van 8 november 2007 betreffende de preventie en het herstel van milieuschade ten gevolge van het vervoer over de weg, per spoor, over de binnenwateren of in de lucht van: uitheemse plantensoorten evenals van uitheemse diersoorten en hun krengen, naar aanleiding van de in-, de uit- en de doorvoer ervan; alsook van afvalstoffen bij hun doorvoer, wat betreft de opheffing van de regeling rond de doorvoer van afvalstoffen
+
+### Aanhef
+
+De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op de wet van 9 juli 1984 betreffende de doorvoer van afvalstoffen, artikel 7,   gewijzigd bij de wet van 12 mei 2011;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het koninklijk besluit van 8 november 2007 betreffende de preventie en het   herstel van milieuschade ten gevolge van het vervoer over de weg, per spoor,   over de binnenwateren of in de lucht van: uitheemse plantensoorten evenals van   uitheemse diersoorten en hun krengen, naar aanleiding van de in-, de uit- en de   doorvoer ervan; alsook van afvalstoffen bij hun doorvoer;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het advies van de Inspectie van Financiën, gegeven op 28 januari   2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op advies 57.101/1 van de Raad van State, gegeven op 11 maart 2015, met   toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Overwegende   dat sinds 1 juli 2014 de doorvoer van afvalstoffen een gewestelijke bevoegdheid   is, als gevolg van artikel 14 van de bijzondere wet van 6 januari 2014 met   betrekking tot de zesde staatshervorming;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Overwegende   dat milieuschade, veroorzaakt door beroepsactiviteiten, opgenomen in punt 2 en   punt 12 van bijlage III van Richtlijn 2004/35/EG al opgenomen is in de lijst van   beroepsactiviteiten, die vervat ligt in bijlage IV van het decreet van 5 april   1995 houdende algemene bepalingen inzake milieubeleid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Overwegende   dat het koninklijk besluit van 8 november 2007 een aantal bepalingen bevat over   milieuschade, veroorzaakt door doorvoer van afvalstoffen als beroepsactiviteit   en dat die bepalingen bijgevolg opgeheven kunnen worden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Op   voorstel van de Vlaamse minister van Omgeving, Natuur en Landbouw;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Na   beraadslaging,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+In artikel 2, 8°, van het koninklijk besluit van 8 november   2007 betreffende de preventie en het herstel van milieuschade ten gevolge van   het vervoer over de weg, per spoor, over de binnenwateren of in de lucht van:   uitheemse plantensoorten evenals van uitheemse diersoorten en hun krengen, naar   aanleiding van de in-, de uit- en de doorvoer ervan; alsook van afvalstoffen bij   hun doorvoer wordt de zinsnede "; alsook van afvalstoffen bij hun doorvoer"   opgeheven.
+
+### ART. 2.
+
+In artikel 3 van hetzelfde besluit wordt punt 2   opgeheven.
+
+### ART. 3.
+
+In artikel 5, § 1, van hetzelfde besluit wordt de zinsnede ";   alsook uit de doorvoer van afvalstoffen" opgeheven.
+
+### ART. 4.
+
+In artikel 7 van hetzelfde besluit wordt de zinsnede ";   alsook van afvalstoffen bij hun doorvoer" opgeheven.
+
+### ART. 5.
+
+In punt 12° van bijlage IV bij het decreet van 5 april 1995   houdende algemene bepalingen inzake milieubeleid wordt tussen het woord "Elke"   en de woorden "grensoverschrijdende overbrenging van afvalstoffen" de woorden   "doorvoer of" ingevoegd.
+
+### ART. 6.
+
+De Vlaamse minister, bevoegd voor het leefmilieu en het   waterbeleid, is belast met de uitvoering van dit besluit.
