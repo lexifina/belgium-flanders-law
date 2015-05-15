@@ -6,6 +6,10 @@
 
 ## HOOFDSTUK 1 Wijziging van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten
 
+### ART. 1.
+
+Artikel 18 van het besluit van de Vlaamse Regering van 15 april 2005   betreffende de toepassing van de heffing in de sector melk en zuivelproducten,   gewijzigd bij het besluit van de Vlaamse Regering van 22 juni 2007, wordt   opgeheven.<BR>
+
 ## HOOFDSTUK 2 Wijziging van het besluit van de Vlaamse Regering van 14 december 2012 betreffende contractuele betrekkingen en samenwerking in de sector melk en zuivelproducten
 
 ### ART. 2.

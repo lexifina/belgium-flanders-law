@@ -2,16 +2,16 @@
   "codex_id": 1024587,
   "title": "Besluit van de Vlaamse Regering van 2014-06-06 tot opheffing van artikel 18 van het besluit van de Vlaamse Regering van 15 april 2005 betreffende de toepassing van de heffing in de sector melk en zuivelproducten en tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 14 december 2012 betreffende contractuele betrekkingen en samenwerking in de sector melk en zuivelproducten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024587/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "d0ad555cc8c6a8265792bd68e836993c43e23ba0b504a4c654ad4c464e3a180f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024587/VolledigDocument?datum=2015-05-15",
+  "source_sha256": "c200ae344eacaee9ad1084ed417e4cfb89a0f2ae7253c07003e1aa248c62c722",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024587&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2015-05-15",
   "made": "2014-06-06",
   "gazette": "2014-09-23",
   "numac": 2014035898,
   "document_start": "2014-10-03",
   "document_end": null,
-  "in_force": "2015-04-01",
-  "article_versions": 20,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-05-15",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2015-05-15; future article versions excluded; article text as the API gives it"
 }
