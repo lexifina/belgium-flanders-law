@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026173,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-13 tot wijziging van het besluit van de Vlaamse Regering van 14 juni 2013 betreffende de voorwaarden en de procedure tot de erkenning van buitenlandse studiebewijzen uitgereikt in het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026173/VolledigDocument?datum=2015-05-18",
+  "source_sha256": "834fd1221bd7be911f9824a81e472d5d335975a8b7e4c31b30dd60d7a6981336",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026173&param=informatie",
+  "as_of": "2015-05-18",
+  "made": "2015-11-13",
+  "gazette": "2015-12-07",
+  "numac": 2015036488,
+  "document_start": "2015-05-18",
+  "document_end": null,
+  "in_force": "2015-05-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-05-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
