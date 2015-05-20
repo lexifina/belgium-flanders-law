@@ -11,3 +11,7 @@
 ### ART. 2.
 
 In   artikel 13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse   Regering van 13 december 2013 en 5 december 2014, worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   woorden "de heer Tarsi Windey" worden vervangen door de woorden "mevrouw   Klaartje Theunis";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de naam "Jean-Luc Griep" wordt vervangen door de naam "Frank Foucart".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 3.
+
+In   artikel 14 van hetzelfde besluit worden de woorden "de heer Johan Pauwels"   vervangen door de woorden "mevrouw Hilde De Nutte".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
