@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025347,
+  "title": "Ministerieel besluit van 2015-04-09 tot wijziging van de bijlage bij het ministerieel besluit van 25 juli 2011 houdende de goedkeuring van het eenheidsreglement gerecycleerde granulaten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025347/VolledigDocument?datum=2015-05-21",
+  "source_sha256": "2838974d3309102372af001ff81a25a56db030b2d92ecb4bad49de27fd86e278",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025347&param=informatie",
+  "as_of": "2015-05-21",
+  "made": "2015-04-09",
+  "gazette": "2015-05-11",
+  "numac": 2015035557,
+  "document_start": "2015-05-21",
+  "document_end": null,
+  "in_force": "2015-05-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-05-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
