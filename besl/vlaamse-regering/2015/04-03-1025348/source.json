@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025348,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 houdende indeling bij de gemeentewegen van de gewestweg N440 tussen kilometerpunt 0,000 en 5,180 op het grondgebied van de stad Deinze",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025348/VolledigDocument?datum=2015-05-22",
+  "source_sha256": "58fe0df822a70c90024644ca98378ad7d0dd4b789d1a6325d0c3a3a12e55c3dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025348&param=informatie",
+  "as_of": "2015-05-22",
+  "made": "2015-04-03",
+  "gazette": "2015-05-12",
+  "numac": 2015035558,
+  "document_start": "2015-05-22",
+  "document_end": null,
+  "in_force": "2015-05-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-05-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
