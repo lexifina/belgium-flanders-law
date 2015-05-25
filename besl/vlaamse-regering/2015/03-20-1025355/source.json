@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025355,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-20 houdende indeling bij de gemeentewegen van de gewestwegen N19 Pas van kilometerpunt 17.8 tot kilometerpunt 18.8, N19 Dr. Vandeperrestraat van kilometerpunt 14.9 tot kilometerpunt 16.5 en N71 Rijn van kilometerpunt 0.8 tot kilometerpunt 3.0",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025355/VolledigDocument?datum=2015-05-25",
+  "source_sha256": "fc189fdbb9d37f007bf4d194b732bec199dc65d7eeaaf096d48852d6f0c64fa3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025355&param=informatie",
+  "as_of": "2015-05-25",
+  "made": "2015-03-20",
+  "gazette": "2015-05-15",
+  "numac": 2015035600,
+  "document_start": "2015-05-25",
+  "document_end": null,
+  "in_force": "2015-05-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-05-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
