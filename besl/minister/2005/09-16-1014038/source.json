@@ -2,16 +2,16 @@
   "codex_id": 1014038,
   "title": "Ministerieel besluit van 2005-09-16 tot vaststelling van de voorschriften betreffende uitzonderingsbepalingen voor zaaizaad en pootaardappelen in de biologische productiemethode",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014038/VolledigDocument?datum=2006-12-31",
-  "source_sha256": "710b72b70a9e7b251b31ce30ea4bb78f367178594debda62d75e3e520127529a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014038/VolledigDocument?datum=2015-05-29",
+  "source_sha256": "34d351a3ee7057905e007135693570bdc94a9fab5fd879073afefa3d42a080c4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014038&param=informatie",
-  "as_of": "2006-12-31",
+  "as_of": "2015-05-29",
   "made": "2005-09-16",
   "gazette": "2005-10-25",
   "numac": 2005036268,
   "document_start": "2005-10-25",
   "document_end": "2015-05-28",
-  "in_force": "2006-12-31",
+  "in_force": "2015-05-29",
   "article_versions": 17,
-  "record_form": "consolidated version as in force on 2006-12-31; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-05-29; future article versions excluded; article text as the API gives it"
 }
