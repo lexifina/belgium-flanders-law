@@ -41,8 +41,8 @@ een vaste technische eenheid waarin een of meer van de activiteiten en processen
 een schriftelijke machtiging om een inrichting, dan wel een deel ervan, te exploiteren en waarbij een vergunning betrekking kan hebben op een of meer inrichtingen die zich op dezelfde locatie bevinden en die door dezelfde exploitant worden geëxploiteerd;<br>
 18° « belangrijke wijziging van een GPBV-installatie » : een wijziging van de&nbsp;aard of de werking, of een uitbreiding van de installatie die gevolgen voor het milieu kan hebben en die volgens de vergunningverlenende overheid&nbsp;significante negatieve&nbsp;effecten kan hebben op mens of milieu; In de zin van deze definitie wordt elke wijziging of uitbreiding van een exploitatie geacht belangrijk te zijn, indien de wijziging of uitbreiding op zich voldoet aan de drempelwaarden, voorzover deze bestaan, van een rubriek of subrubriek uit de indelingslijst die in de vierde kolom van de indelingslijst is aangeduid met het symbool X, voor zover deze indelingscriteria bestaan;<br>
 19° ...<br>
-20° "gevaar": de intrinsieke eigenschap van een gevaarlijke stof of van een fysische situatie die potentieel tot schade voor de gezondheid van de mens en/of het milieu kan leiden;<br>
-21° "risico": de waarschijnlijkheid dat een bepaald effect zich binnen een bepaalde periode of onder bepaalde omstandigheden voordoet;<br>
+20° ...;<br>
+21° ...;<br>
 22° "Verdrag van Espoo": Verdrag inzake milieu-effectenrapportage in grensoverschrijdend verband en van de aanhangsels I, II, III, IV, V, VI en VII ondertekend in Espoo op 25 februari 1991;<br>
 23° « gebied » : tenzij anders gepreciseerd in de indelingslijst van titel I van het VLAREM of de desbetreffende hoofdstukken, afdelingen of subafdelingen van titel II van het VLAREM :<br>
 a) ofwel, gebied bepaald in de plannen van aanleg of de behoorlijk vergunde, niet vervallen verkavelingsvergunningen, vastgesteld in uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, met bestemmingsvoorschriften zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, en de ermee vergelijkbare gebieden;<br>
@@ -59,7 +59,7 @@ b) ofwel, als er een categorie van gebiedsaanduiding voor een gebied is aangegev
 10) ontginning en waterwinning.<br>
 Voor de toepassing van dit besluit worden de categorieën van gebiedsaanduiding bedoeld sub b) gelijkgesteld met de overeenkomstige gebieden bedoeld sub a);<br>
 c) ofwel, als er geen categorie van gebiedsaanduiding is aangegeven, door de stedenbouwkundige voorschriften van een ruimtelijk uitvoeringsplan, vastgesteld in uitvoering van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009, een gebied, bepaald in het gewestelijk, provinciaal of gemeentelijk ruimtelijk uitvoeringsplan, met een met de bestemmingsvoorschriften, zoals bepaald in het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van ontwerp-gewestplannen en gewestplannen, vergelijkbare hoofdbestemming;<br>
-24° "zwaar ongeval": een gebeurtenis, zoals een zware emissie, brand of explosie als gevolg van onbeheerste ontwikkelingen tijdens de bedrijfsuitoefening in een inrichting, waardoor onmiddellijk of na verloop van tijd ernstig gevaar voor de gezondheid van de mens binnen of buiten de inrichting en/of voor het milieu ontstaat en waarbij een of meer gevaarlijke stoffen betrokken zijn;<br>
+24°...;<br>
 25° "grondwater": al het water dat zich onder het bodemoppervlak in de verzadigde zone bevindt en dat in direct contact met bodem of ondergrond staat;<br>
 25bis ° « watervoerende laag »: een of meer ondergrondse rotslagen of andere geologische lagen die voldoende poreus en doorlatend zijn voor een belangrijke grondwaterstroming of de onttrekking van aanzienlijke hoeveelheden grondwater;<br>
 26° "directe lozing in grondwater": de inleiding van stoffen van bijlage 2 B bij dit besluit in het grondwater zonder doorsijpeling door bodem of ondergrond;<br>
@@ -187,7 +187,22 @@ e)&nbsp;&nbsp;&nbsp; de adequate verwijdering van dode organismen wordt gegarand
 97° “kosten-batenanalyse”: een financieel-economische vergelijking tussen een installatie zonder benutting van restwarmte of aanwending van kwalitatieve warmtekrachtkoppeling en een gelijkwaardige installatie waarin restwarmte nuttig wordt gebruikt&nbsp; of die uitgebaat wordt als kwalitatieve warmtekrachtkoppeling, zoals beschreven in punt F19 van bijlage 4.B;<br>
 98° “aardgasopslag”: de vaste drukhouders die dienst doen als buffer voor de opslag van aardgas of tot aardgaskwaliteit opgewaardeerd biogas, alsook de vaste drukhouders die dienst doen als aflaatreservoirs voor het aardgas of tot aardgaskwaliteit opgewaardeerd biogas bij aardgasafleverinstallaties;<br>
 99° “aardgasaflevereenheden (homecompressors)”: traagvullende inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, zonder aardgasopslag, bestaande uit één compressor en een of meerdere afleverslang(en);<br>
-100° “aardgasafleverinstallaties”: inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, andere dan aardgasaflevereenheden, bestaande uit een of meerdere compressor(en), een eventuele aardgasopslag, en één of meerdere aflevertoestellen;</p>
+100° “aardgasafleverinstallaties”: inrichtingen voor de bevoorrading van motorvoertuigen met samengeperst aardgas of tot aardgaskwaliteit opgewaardeerd biogas, andere dan aardgasaflevereenheden, bestaande uit een of meerdere compressor(en), een eventuele aardgasopslag, en één of meerdere aflevertoestellen;<br>
+101° ”CLP-verordening“: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 en haar wijzigingen;<br>
+102° “gevaarlijke producten”: stoffen en mengsels als vermeld in artikel 3 van de CLP-verordening<br>
+103° “gevaarlijke gassen”: samengeperste, vloeibaar gemaakte, in oplossing gehouden of sterk gekoelde vloeibare gassen volgens de CLP-verordening;<br>
+104° “brandbare vloeistoffen”: vloeistoffen op basis van etikettering niet gekenmerkt door een gevarenpictogram volgens de CLP-verordening met een vlampunt hoger dan 60 °C tot en met 250 °C of vloeibare brandstoffen op basis van etikettering niet gekenmerkt door gevarenpictogram GHS02 volgens de CLP-verordening met een vlampunt hoger dan 60 °C tot en met 250 °C.<br>
+105° “gevarenklasse”: de aard van het fysische, gezondheids- of&nbsp; milieugevaar volgens de CLP-verordening;<br>
+106° “gevarencategorie”: onderverdeling naar de ernst van het gevaar binnen elke gevarenklasse aan de hand van criteria volgens de CLP-verordening;<br>
+107° “gevarenpictogram”: grafische voorstelling bestaande uit een symbool en andere grafische elementen zoals een kader, een achtergrondpatroon of -kleur, bedoeld om specifieke informatie over het betrokken gevaar te verstrekken volgens de CLP-verordening;<br>
+108° "opslagplaats": de ruimten of plaatsen in gebouwen, ondergronds of in open lucht, waarin de in dit reglement bedoelde gevaarlijke producten in vaste houders of in verplaatsbare recipiënten zijn opgeslagen in een hoeveelheid die het dagverbruik (24 uur) overschrijdt; hierbij wordt verstaan onder:<br>
+a)&nbsp;&nbsp;&nbsp; “vaste houders”: houders welke worden gevuld of bijgevuld op de plaats van gebruik;<br>
+b)&nbsp;&nbsp;&nbsp; “verplaatsbare recipiënten”: houders welke worden gevuld of bijgevuld op een plaats andere dan de plaats van gebruik;<br>
+worden niet als opslagplaats beschouwd:<br>
+a)&nbsp;&nbsp;&nbsp; transportvoertuigen;<br>
+b)&nbsp;&nbsp;&nbsp; fabricagetoestellen waarin de producten een bewerking moeten ondergaan en de pompen en buffervaten, gekoppeld aan de productie;<br>
+c)&nbsp;&nbsp;&nbsp; winkelruimten, voor het publiek toegankelijk, voor de verkoop van gevaarlijke producten in verpakkingen met een inhoudsvermogen van maximaal 30 l of 30 kg;<br>
+geïntegreerde brandstoftanks bij vast opgestelde motoren zoals bij aggregaten, pompen, noodgeneratoren, en dergelijke, met een maximale waterinhoud van 1000 l.</p>
 
 ## HOOFDSTUK II DE MELDING
 
@@ -233,9 +248,13 @@ De exploitant van een niet als hinderlijk ingedeelde inrichting die na haar inbe
 
 <span class="reference">(ing. B.V.R. 12 januari 1999, art. 11)</span> ] [...  <span class="reference">(opgeh. B.V.R. 29 september 2000, art. 2, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]
 
+### ART. 7.
+
+<P>De   definities in artikel 4.1.1 van titel IV van het decreet algemene bepalingen   milieubeleid gelden voor alle bepalingen in dit   hoofdstuk.</P>
+
 ### ART. 8.
 
-[§ 1. De exploitant van een inrichting waar gevaarlijke stoffen aanwezig zijn in hoeveelheden gelijk aan of groter dan de hoeveelheid bepaald in bijlage 6, delen 1 en 2, gevoegd bij dit besluit, moet, vooraleer over te gaan tot een vergunningsaanvraag, een veiligheidsrapport indienen. In dit veiligheidsrapport toont hij de volgende zaken aan:<br /><br />1° er wordt een beleid gevoerd ter preventie van zware ongevallen en er is een veiligheidsbeheerssysteem voor het uitvoeren daarvan, overeenkomstig de punten, genoemd in bijlage 5, deel 1, gevoegd bij dit besluit;<br /><br />2° de gevaren van zware ongevallen zijn geïdentificeerd en de nodige maatregelen zijn getroffen om ze te voorkomen en de gevolgen ervan voor mens en milieu te beperken;<br /><br />3° het ontwerp, de constructie, de exploitatie en het onderhoud van alle met de werking samenhangende installaties, opslagplaatsen, apparatuur en infrastructuur die samenhangen met de gevaren van een zwaar ongeval binnen de inrichting zijn voldoende veilig en betrouwbaar;<br /><br />4° de nodige gegevens werden verstrekt voor de opstelling van het externe noodplan om bij een zwaar ongeval de nodige maatregelen te kunnen treffen;<br /><br />5° er wordt gegarandeerd dat de bevoegde overheden voldoende zullen worden geïnformeerd, zodat ze besluiten kunnen nemen over nieuwe activiteiten of over ontwikkelingen rond bestaande inrichtingen.<br /><br />§ 2. De indiening van een veiligheidsrapport, zoals bedoeld in § 1, voorafgaandelijk aan een vergunningsaanvraag, is tevens vereist in geval van een wijziging van een installatie, opslag of proces of van de aard en de hoeveelheden gevaarlijke stoffen die voor de gevaren van zware ongevallen belangrijke gevolgen kunnen hebben.<br /><br />§ 3. In het veiligheidsrapport worden tenminste de inlichtingen opgenomen die vermeld staan in bijlage 5, deel 2.  <span class="reference">(verv. B.V.R. 29 september 2000, art. 4, I: op de datum van inwerkingtreding van het samenwerkingsakkoord van 21 juni 1999 tussen de Federale Staat, het Vlaams Gewest, het Waals Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken)</span> ]
+§ 1. De   exploitant van een inrichting waar gevaarlijke stoffen aanwezig zijn in   hoeveelheden gelijk aan of groter dan de hoeveelheid bepaald in bijlage 6, kolom   3 van de delen 1 en 2, gevoegd bij dit besluit, dient, vooraleer over te gaan   tot een vergunningsaanvraag, een veiligheidsrapport opgesteld door een erkende   VR-deskundige, in, bij de afdeling, bevoegd voor veiligheidsrapportering. Het   opstellen van een veiligheidsrapport gebeurt volgens artikelen 4.5.5 en 4.5.6   van het decreet van 5 april 1995 houdende algemene bepalingen inzake   milieubeleid. In dit veiligheidsrapport toont hij de volgende zaken   aan:<BR>1°   Er wordt een beleid gevoerd ter preventie van zware ongevallen en dit beleid   staat neergeschreven in een document. Dit document wordt ter beschikking   gehouden van de toezichthouder. Er is een veiligheidsbeheerssysteem voor het   uitvoeren van het preventiebeleid, overeenkomstig de beginselen, vermeld in   bijlage 5, deel 1, gevoegd bij dit besluit;<BR>2° de gevaren van zware   ongevallen zijn geïdentificeerd en de nodige maatregelen zijn getroffen om ze te   voorkomen en de gevolgen ervan voor mens en milieu te beperken;<BR>3° het   ontwerp, de constructie, de exploitatie en het onderhoud van alle met de werking   samenhangende installaties, opslagplaatsen, apparatuur en infrastructuur die   samenhangen met de gevaren van een zwaar ongeval binnen de inrichting zijn   voldoende veilig en betrouwbaar;<BR>4° de nodige gegevens werden verstrekt voor   de opstelling van het externe noodplan om bij een zwaar ongeval de nodige   maatregelen te kunnen treffen;<BR>5° er wordt gegarandeerd dat de bevoegde   overheden voldoende zullen worden geïnformeerd, zodat ze besluiten kunnen nemen   over nieuwe activiteiten of over ontwikkelingen rond bestaande   inrichtingen.<BR><BR>§2.   De exploitant van een inrichting waar gevaarlijke stoffen aanwezig zijn in   hoeveelheden gelijk aan of groter dan de hoeveelheid, vermeld in bijlage 6,   kolom 2 van de delen 1 en 2, bij dit besluit, stelt een document betreffende   zijn preventiebeleid op. Dit document wordt ter beschikking gehouden van de   toezichthouder. Het preventiebeleid wordt uitgevoerd, overeenkomstig de   beginselen, vermeld in bijlage 5, deel 1, bij dit besluit.<BR><BR>§ 3.   ...
 
 ### ART. 9.
 
@@ -856,7 +875,15 @@ h) 20.1.3.b);<br>
 i) 5.5. voor activiteiten betreffende productie door biologische omzetting;<br>
 j) 7.11. voor activiteiten betreffende productie door biologische omzetting;<br>
 k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;<br>
-3° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag vóór 7 januari 2013 bij de vergunningverlenende overheid werd ingediend en de inrichting nog niet in gebruik genomen werd op 20 september 2013: vóór de inrichting in gebruik genomen wordt.</p>
+3° als het gaat om een inrichting waarvoor de milieuvergunningsaanvraag vóór 7 januari 2013 bij de vergunningverlenende overheid werd ingediend en de inrichting nog niet in gebruik genomen werd op 20 september 2013: vóór de inrichting in gebruik genomen wordt.<br>
+<br>
+A*= Inrichting waarvoor:<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij uitsluitend bovengrondse opslag conform het Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend bodemonderzoek verplicht is bij overdracht, onteigening, sluiting en failissement;<br>
+b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag conform the Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht, sluiting en failissement en om de twintig jaar.<br>
+<br>
+B*= Inrichting waarvoor:<br>
+a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; bij uitsluitend bovengrondse opslag conform the Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht, sluiting en failissement en om de twintig jaar;<br>
+b) bij ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag conform het Bodemdecreet van 27 oktober 2006 en het VLAREBO van 14 december 2007 een oriënterend onderzoek verplicht is bij overdracht, sluiting en failissement en om de tien jaar.</p>
 
 ### rubriek 1
 
@@ -10380,7 +10407,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:34pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<p>Rubriek</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
 			<p>Omschrijving en subrubrieken</p>
@@ -10409,7 +10436,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p><strong>6.</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Brandstoffen</strong></p>
+			<p><strong>Brandstoffen en brandbare vloeistoffen</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -10627,7 +10654,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>6.2</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor vaste brandstoffen, met uitzondering van deze bedoeld onder rubriek 48: gebieden bepaald volgens de begrippen van het koninklijk besluit van 28 december 1972 betreffende de inrichting en de toepassing van de ontwerpgewestplannen en de gewestplannen</p>
+			<p>Opslagplaatsen voor vaste brandstoffen, met uitzondering van deze bedoeld onder rubriek 48: De gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet-vervallen verkavelingsvergunning.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -10807,19 +10834,227 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:34pt">
 			<p>6.3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>6.4</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>6.5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
 			<p>Bovengrondse opslag van fossiele brandstoffen met een oppervlakte van 25 ha of meer.</p>
 
 			<p>Er kan overlapping zijn met de rubrieken 1 en 6.2.</p>
+
+			<p>Opslagplaatsen voor brandbare vloeistoffen&nbsp; met een totale opslagcapaciteit van:</p>
+
+			<p>1° 200 l tot en met 50.000 l</p>
+
+			<p>uitgezonderd de gezamenlijke opslag van minder dan 5 ton gasolie, diesel, lichte stookolie en gelijkaardige brandstoffen bij de woonfunctie van een onroerend goed dat hoofdzakelijk als woongelegenheid wordt gebruikt</p>
+
+			<p>2° Meer dan 50.000 l tot en met 5.000.000 l</p>
+
+			<p>3° Meer dan 5.000.000 l</p>
+
+			<p>Brandstofverdeelinstallaties voor motorvoertuigen, zijnde installaties voor het vullen van brandstoftanks van motorvoertuigen met vloeibare koolwaterstoffen bestemd voor de voeding van de erop geïnstalleerde motor(en):</p>
+
+			<p>1° Inrichtingen voor de verdeling van vloeistoffen,&nbsp; vermeld in rubriek 17.3.2.1.1. of&nbsp; 6.4., met maximaal 1 verdeelslang</p>
+
+			<p>2° Inrichtingen voor de verdeling van vloeistoffen, vermeld in rubriek 17.3.2.1., 17.3.2.2. of 6.4., met maximaal 2 verdeelslangen waarmee uitsluitend eigen bedrijfsvoertuigen worden bevoorraad</p>
+
+			<p>3° Overige inrichtingen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:56.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -10830,6 +11065,84 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>&nbsp;</p>
+
+			<p>B*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 	</tbody>
@@ -18764,7 +19077,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>15.5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Standaardgarages en carrosseriebedrijven</p>
+			<p>Standaardgarages en carrosseriebedrijven<br>
+			Voor de toepassing van deze rubriek worden als “gevaarlijke producten” beschouwd, de stoffen en mengsels zoals bedoeld in de CLP-verordening.<br>
+			Onder de toepassing van de onderdelen i, j, k, m, n, p en v, van de rubriek 15.5.2° vallen de gevaarlijke producten die gekenmerkt worden door minstens één gevarenpictogram als etiketterings­element volgens de CLP-verordening. Onder “gekenmerkt zijn van een gevaarlijk product door minstens één gevarenpictogram” wordt verstaan:<br>
+			a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; het voorkomen van één of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement op het etiket, of</p>
+
+			<p>b) het voorkomen van één of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement in hoofdstuk 2 van het veiligheidsinformatieblad.<br>
+			Voor een gevaarlijke vloeistof of vaste stof die op basis van etikettering gekenmerkt wordt door meerdere gevarenpictogrammen, moet met ieder gevarenpictogram rekening gehouden worden. Voor vloeibare brandstoffen moet evenwel uitsluitend met het gevarenpictogram GHS02 rekening gehouden worden, bv. voor gasolie, diesel en lichte stookolie is uitsluitend onderdeel k), 1), van rubriek 15.5.2° van toepassing.</p>
+
+			<p>Binnen het onderdeel j van de rubriek 15.5.2° wordt de opslagcapaciteit voor een gevaarlijk product slechts eenmaal in rekening gebracht ongeacht het product binnen het betrokken onderdeel gekenmerkt wordt door meerdere gevarenpictogrammen.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -18812,13 +19133,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) wanneer het lozingspunt is gelegen in een gemeente waarvoor het gemeentelijke zoneringsplan definitief is vastgesteld en het lozingspunt is gelegen in een centraal gebied en/of collectief geoptimaliseerd en individueel te optimaliseren buitengebied en/of buiten het zoneringsplan;</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 2 m<sup>3</sup>/h. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd;</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) het, zonder behandeling in een afvalwaterzuiveringsinstallatie, lozen van bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 2 m<sup>3</sup>/h; Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd.</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) afvalwaterzuiveringsinstallaties, met inbegrip van het lozen van het effluentwater en het ontwateren van de bijhorende slibproductie voor de behandeling van:</p>
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; i) huishoudelijk afvalwater, ander dan afkomstig van woongelegenheden, met een debiet van meer dan 600 m<sup>3</sup>/jaar</p>
 
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 5 m<sup>3</sup>/uur. Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd;</p>
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ii) bedrijfsafvalwater dat geen van de in bijlage 2C bij titel I van het Vlarem bedoelde gevaarlijke stoffen bevat in concentraties hoger dan de indelingscriteria, vermeld in de kolom « indelingscriterium GS (gevaarlijke stoffen) » van artikel 3 van bijlage 2.3.1 van titel II van het Vlarem, met een debiet tot en met 5 m<sup>3</sup>/uur; Indien het indelingscriterium GS voor een lozingsparameter lager ligt dan de rapportagegrens, vermeld in artikel 4 van bijlage 4.2.5.2 van titel II van het VLAREM, wordt voor deze parameter de rapportagegrens gehanteerd.</p>
 
 			<p>&nbsp;&nbsp; b) elektrische noodgroep met een geïnstalleerd totaal elektrisch vermogen van maximum 1.000 kW, aangedreven door gas- of dieselmotor met een totaal nominaal vermogen van 100 kW tot en met 300 kW wanneer volledig gelegen in industriegebied;</p>
 
@@ -18838,23 +19159,32 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 
 			<p>&nbsp;&nbsp; h) luchtcompressoren en airconditioninginstallaties met een koelmiddelinhoud &lt; 30 kg met een totale geïnstalleerde drijfkracht van 5 kW tot en met 200 kW;</p>
 
-			<p>&nbsp;&nbsp; i) opslagplaatsen voor samengeperste, vloeibaar gemaakte of in oplossing gehouden gassen in vaste reservoirs met een gezamenlijk waterinhoudsvermogen tot en met 3.000 liter;</p>
+			<p>&nbsp;&nbsp; i) opslagplaatsen voor&nbsp;gevaarlijke gassen in vaste reservoirs met een gezamenlijk waterinhoudsvermogen tot en met 3.000 liter;</p>
 
-			<p>&nbsp;&nbsp; j) opslagplaatsen voor corrosieve, irriterende, schadelijke of oxiderende stoffen met een totaal inhoudsvermogen van 200 tot en met 1.000 kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk 200 tot en met 10.000 kg wanneer volledig gelegen in industriegebied;</p>
+			<p>&nbsp;&nbsp; j) opslagplaatsen voor oxiderende, bijtende, en schadelijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door respectievelijk het gevarenpictogram GHS03&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ),<br>
+			GHS05 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ), of GHS07 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ),<br>
+			met een gezamenlijke opslagcapaciteit van 200 tot en met 2000 kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk 200 tot en met<br>
+			20.000 kg wanneer volledig gelegen in industriegebied;</p>
 
-			<p>&nbsp;&nbsp; k) opslagplaatsen voor P1-producten in andere recipiënten dan vaste houders met een totaal inhoudsvermogen van 50 liter tot en met 500 liter wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk van 50 liter tot en met 1.000 liter wanneer volledig gelegen in industriegebied;</p>
+			<p>&nbsp;&nbsp; k) opslagplaatsen voor brandgevaarlijke vloeistoffen&nbsp; op basis van etikettering gekenmerkt door het gevaren­pictogram GHS02 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>
 
-			<p>&nbsp;&nbsp; l) opslagplaatsen voor P2-producten in andere recipiënten dan vaste houders met een totaal inhoudsvermogen van 100 liter tot en met 5.000 liter;</p>
+			<p>1) voor gasolie, diesel, lichte stookolie en gelijkaardige brandstoffen met een vlampunt ≥ 55 °C, behorende tot de ontvlambare vloeistoffen van gevarencategorie 3, met een gezamenlijke opslagcapaciteit van 100 kg tot en met 20 ton.</p>
 
-			<p>&nbsp;&nbsp; m) opslagplaatsen voor P3-producten met een totaal inhoudsvermogen van 100 liter tot en met 20.000 liter;</p>
+			<p>2) voor de overige ontvlambare vloeistoffen van gevarencategorie 3, andere dan vermeld in punt 1, met een gezamenlijke opslagcapaciteit van 100 kg tot en met 10 ton.</p>
 
-			<p>&nbsp;&nbsp; n) opslagplaatsen voor P4-producten met een totaal inhoudsvermogen van 200 liter tot en met 50.000 liter;</p>
+			<p>3) voor ontvlambare vloeistoffen van gevarencategorie 1 en 2, met een gezamenlijke opslagcapaciteit van 50 kg tot en met 2 ton in verplaatsbare recipiënten;</p>
 
-			<p>&nbsp;&nbsp; o) opslagplaatsen voor milieugevaarlijke stoffen met een opslagcapaciteit van meer dan 100 kg tot en met 1.000 kg;</p>
+			<p>&nbsp;&nbsp; l) opslagplaatsen voor brandbare vloeistoffen met een totaal inhoudsvermogen van 200&nbsp;liter tot en met 50.000&nbsp;liter;</p>
 
-			<p>&nbsp;&nbsp; p) brandstofverdeelinstallaties voor motorvoertuigen voor de verdeling van P3-producten waarmee uitsluitend eigen voertuigen worden bevoorraad met maximaal één verdeelslang;</p>
+			<p>&nbsp;&nbsp; m) opslagplaatsen voor het aquatisch milieu gevaarlijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door het gevarenpictogram GHS09 (&nbsp;&nbsp;&nbsp;&nbsp; ) met een opslagcapaciteit van meer dan 100 kg tot en met 2000 kg ;</p>
 
-			<p>&nbsp;&nbsp; q) opslagplaatsen voor gevaarlijke stoffen (volgens EG-richtlijn 67/548/EEG) in verpakkingen van maximaal 25 liter of 25 kg voor zover de maximale opslag begrepen is tussen 50 kg of 50 liter en 5.000 kg of 5.000 liter;</p>
+			<p>&nbsp;&nbsp; n) opslagplaatsen voor op lange termijn gezondheidsgevaarlijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door het gevarenpictogram GHS08 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van 100 kg tot en met 2000 kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk van 100 kg tot en met 20.000 kg wanneer volledig gelegen in industriegebied;</p>
+
+			<p>&nbsp;&nbsp; o) brandstofverdeelinstallaties voor motorvoertuigen, zijnde installaties voor het vullen van brandstoftanks van motorvoertuigen met vloeistoffen zoals vermeld in punt k, 1, bestemd voor de voeding van de erop geïnstalleerde motor(en), met maximaal 1 verdeelslang;</p>
+
+			<p>&nbsp;&nbsp; p) opslagplaatsen voor gevaarlijke vloeistoffen en vaste stoffen in verpakkingen van maximaal 30 liter of 30 kg voor zover de maximale opslag begrepen is tussen 50 kg of 50 liter en 5000 kg of 5000 liter;</p>
+
+			<p>&nbsp;&nbsp; q) ...;</p>
 
 			<p>&nbsp;&nbsp; r) installaties voor het mechanisch behandelen van metalen met een geïnstalleerde totale drijfkracht van 5 kW tot en met 100 kW wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk van 5 kW tot en met 200 kW wanneer volledig gelegen in industriegebied;</p>
 
@@ -18872,7 +19202,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 
 			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) 300 kW tot en met 500 kW in de gevallen andere dan vermeld sub 1);</p>
 
-			<p>&nbsp;&nbsp; v) opslagplaatsen voor samengeperste vloeibaar gemaakte of in oplossing gehouden gassen in verplaatsbare recipiënten met uitzondering van deze bedoeld in rubriek 48 met een gezamenlijk waterinhoudsvermogen van 300 l tot en met 1.000 l;</p>
+			<p>&nbsp;&nbsp; v) opslagplaatsen voor&nbsp;gevaarlijke gassen in verplaatsbare recipiënten met uitzondering van deze bedoeld in rubriek 48 met een gezamenlijk waterinhoudsvermogen van 300 l tot en met 1.000 l;</p>
 
 			<p>&nbsp;&nbsp; w) vast opgestelde batterijen waarvan het product van het vermogen, uitgedrukt in Ah, met de klemspanning, uitgedrukt in V, meer bedraagt dan 10.000</p>
 			</td>
@@ -19019,7 +19349,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p><strong>16.</strong></p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><strong>Gassen </strong></p>
+			<p><strong>Behandelen van gassen </strong></p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -19589,7 +19919,8 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° samengeperste, vloeibaar gemaakte of in oplossing gehouden giftige, ontplofbare of ontvlambare gassen</p>
+			<p>1° gevaarlijke gassen op basis van de etikettering gekenmerkt door het<br>
+			gevarenpictogram GHS02 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) of GHS06&nbsp;(&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; )</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -19615,7 +19946,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° andere dan onder 1 vermelde gassen</p>
+			<p>2° andere dan gevaarlijke gassen, vermeld in punt 1°</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -19641,7 +19972,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p><em>Opmerking: voor de definitie, van “giftig”, “ontplofbaar” en “ontvlambaar”: zie deel II van de bijlage 7 bij titel I van het Vlarem</em></p>
+			<p><em>Opmerking</em></p>
+
+			<p><em>Onder “gekenmerkt zijn door een gevarenpictogram” wordt verstaan: </em></p>
+
+			<p><em>a)&nbsp;&nbsp;&nbsp; het voorkomen van een of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement op het etiket, of<br>
+			b) het voorkomen van een of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement in hoofdstuk&nbsp;2 van het veiligheidsinformatieblad.</em></p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -19770,15 +20106,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>16.7</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor samengeperste, vloeibaar gemaakte of in oplossing gehouden gassen, in verplaatsbare recipiënten, met uitzondering van deze bedoeld in rubriek 48, met een gezamenlijk inhoudsvermogen van:</p>
-
-			<p><em>Opmerking: de opslagplaatsen vallend onder de toepassing van rubriek 15.5 en rubriek 19.8, zijn niet ingedeeld in onderhavige rubriek 16.7</em></p>
-
-			<p>De gebruikte verplaatsbare recipiënten dienen te worden meegeteld voor de bepaling van het gezamenlijke waterinhoudsvermogen.</p>
-
-			<p>Verplaatsbare recipiënten aangeschakeld aan verplaatsbare verbruikstoestellen worden niet meegeteld. Verplaatsbare recipiënten aangeschakeld aan verplaatsbare verbruikstoestellen worden eveneens niet meegeteld, wanneer het waterinhoudsvermogen van het recipiënt of van de aangeschakelde flessenbatterij minder dan 300 liter bedraagt.</p>
-			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">...</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -19787,84 +20115,6 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° 300 l tot en met 1.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>3</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° meer dan 1.000 l tot en met 10.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>T</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3° meer dan 10.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>T</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>B</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -19880,11 +20130,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
 			<p>16.8</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor samengeperste, vloeibaar gemaakte of in oplossing gehouden gassen, in vaste reservoirs, uitgezonderd deze van drukvaten deel uitmakend van compressoren en uitgezonderd buffervaten (reserve aan koelmiddel in een opslagtank waarvan de afnameleiding afgesloten is van het koelcircuit valt hier niet onder), met een gezamenlijk waterinhoudsvermogen:</p>
-
-			<p><em>Opmerking: de opslagplaatsen vallend onder de toepassing van rubriek 15.5 en rubriek 19.8, zijn niet ingedeeld in onderhavige rubriek 16.8.</em></p>
-			</td>
+			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">...</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
@@ -19893,84 +20139,6 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>1° tot en met 3.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>3</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>2° van meer dan 3.000 l tot en met 10.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>T</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>3° meer dan 10.000 l</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:57.6pt">
-			<p>T</p>
-			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>B</p>
 			</td>
 			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -20532,10 +20700,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.05pt">
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:213.4pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
@@ -20558,30 +20726,227 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p><strong>17.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><strong>Gevaarlijke stoffen</strong></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Gevaarlijke producten</p>
 
-			<p>Opmerkingen</p>
+			<p>Voor de toepassing van deze rubriek worden als “gevaarlijke producten” beschouwd, de stoffen en mengsels zoals bedoeld in de CLP-verordening. Als uitzondering hierop vallen alle aerosolen waarop minstens een gevarenpictogram is aangebracht echter steeds onder deze rubriek.<br>
+			Deze aerosolen worden alleen ingedeeld in rubriek 17.1.1. en in voorkomend geval ook in rubriek 17.2.</p>
 
-			<p>Deze rubriek betreft zowel vaste stoffen als vloeistoffen. Gassen zijn ingedeeld in rubriek 16. De opslagplaatsen en verdeelinstallaties vallend onder de toepassing van rubriek 15.5 en rubriek 19.8, zijn niet ingedeeld in onderhavige rubriek 17.</p>
+			<p>Met uitzondering van rubriek&nbsp;17.2. vallen onder de toepassing van deze rubriek alleen die ge­vaarlijke producten die gekenmerkt worden door minstens een gevarenpictogram als etiketteringselement volgens de CLP-verordening. Onder “gekenmerkt zijn van een gevaarlijk product door minstens één gevarenpictogram” wordt verstaan:</p>
 
-			<p>De in deze rubriek vermelde gebieden betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingvergunning.</p>
+			<p>a) het voorkomen van één of meerdere van de gevarenpictogrammen</p>
+
+			<p>a)&nbsp;&nbsp;&nbsp; GHS01 tot en met GHS09, als etiketteringselement op het etiket, of</p>
+
+			<p>b)&nbsp;&nbsp;&nbsp; het voorkomen van één of meerdere van de gevarenpictogrammen GHS01 tot en met GHS09, als etiketteringselement in hoofdstuk&nbsp;2 van het veiligheidsinformatieblad.</p>
+
+			<p>Uitgesloten van deze rubriek zijn de opslagplaatsen die vallen onder een van de volgende rubrieken:</p>
+
+			<p>1) rubriek 15.5.</p>
+
+			<p>2) rubriek 19.8.</p>
+
+			<p>Voor een gevaarlijke vloeistof of vaste stof die op basis van etikettering gekenmerkt wordt door meerdere gevarenpicto­grammen, geldt in rubriek 17.3. een meervoudige subrubricering. Voor de subrubricering van vloeibare brandstoffen moet evenwel uitsluitend met het gevarenpictogram GHS02 rekening gehouden worden. Vloeibare brandstoffen die niet gekenmerkt worden door gevarenpictogram GHS02 worden ingedeeld in rubriek 6.4. in plaats van in rubriek 17.3.</p>
+
+			<p>De &nbsp;gebieden, vermeld in deze rubriek, betreffen de gebieden zoals bepaald door de stedenbouwkundige voorschriften van een goedgekeurd plan van&nbsp;</p>
+
+			<p>aanleg, een ruimtelijk uitvoeringsplan of een behoorlijk vergunde, niet vervallen verkavelingsvergunning.</p>
 
 			<p>Als de bestemming is vastgelegd in een ruimtelijk uitvoeringsplan, wordt onder “industriegebied” de categorie van gebiedsaanduiding “bedrijvigheid” verstaan, met uitzondering van de volgende gebiedsaanduidingen die onder deze categorie vallen:</p>
 
-			<p>- specifiek regionaal bedrijventerrein voor kantoren;</p>
+			<p>&nbsp;</p>
 
-			<p>- specifiek regionaal bedrijventerrein voor kleinhandel;</p>
+			<table border="0" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.6pt; vertical-align:top">
+						<p>-</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.6pt">
+						<p>specifiek regionaal bedrijventerrein voor kantoren;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
+						<p>-</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>specifiek regionaal bedrijventerrein voor kleinhandel;</p>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top">
+						<p>-</p>
+						</td>
+						<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+						<p>buffer voor bedrijventerreinen</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			&nbsp;
 
-			<p>- buffer voor bedrijventerreinen.</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -20598,20 +20963,460 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.1.1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.1.2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.1.2.1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.1.2.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opgeheven (B.S. 31/07/1995)</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Opslagplaatsen voor aerosolen waarop minstens één gevarenpictogram is aangebracht, en opslagplaatsen voor gevaarlijke gassen</p>
+
+			<p>Opslagplaatsen voor aerosolen waarop minstens één gevarenpictogram is aangebracht, met uitzondering van deze vermeld in rubriek&nbsp;48., met een gezamenlijke netto inhoud van:</p>
+
+			<p>1° 300 liter tot en met 3000 liter</p>
+
+			<p>2° meer dan 3000 liter tot en met 30.000 liter</p>
+
+			<p>3° meer dan 30.000 liter</p>
+
+			<p>Opslagplaatsen voor gevaarlijke gassen met uitzondering van de opslagplaatsen vermeld in rubriek 17.1.1.&nbsp;</p>
+
+			<p>Opslagplaatsen voor gevaarlijke gassen in ver­plaatsbare recipiënten, met uitzondering van deze vermeld in rubriek&nbsp;48., met een gezamen­lijk water­inhoudsvermogen van:</p>
+
+			<p>Opmerking:</p>
+
+			<p>De gebruikte verplaatsbare recipiënten dienen te worden meegeteld voor de bepaling van het gezamenlijke waterinhoudsvermogen.</p>
+
+			<p>Verplaatsbare recipiënten aangeschakeld aan verplaatsbare verbruikstoestellen worden niet meegeteld. Verplaatsbare recipiënten aange­schakeld aan vaste verbruikstoestellen worden eveneens niet meegeteld, wanneer het water­inhoudsvermogen van het recipiënt of van de aangeschakelde flessenbatterij minder dan 300 liter bedraagt:</p>
+
+			<p>1° 300 liter tot en met 1000 liter</p>
+
+			<p>2° meer dan 1000 liter tot en met 10.000 liter</p>
+
+			<p>3° meer dan 10.000 liter</p>
+
+			<p>Opslagplaatsen voor gevaarlijke gassen in vaste reservoirs, uitgezonderd deze van druk­vaten deeluitmakend van compressoren en uit­gezonderd buffervaten (reserve aan koel­middel in een opslagtank waarvan de afname­leiding af­gesloten is van het koelcircuit, is wel ingedeeld), met een gezamenlijk water­inhouds­vermogen:</p>
+
+			<p>1° tot en met 3000 liter</p>
+
+			<p>2° van meer dan 3000 liter tot en met 10.000 liter</p>
+
+			<p>3° van meer dan 10.000 liter</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
+
+			<p>&nbsp;</p>
+
+			<p>T</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -20624,11 +21429,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><u>Industriële activiteiten en opslagplaatsen met risico’s van zware ongevallen</u> (EU-richtlijn 96/82/EG van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken):</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Inrichtingen met risico’s voor zware ongevallen waarbij gevaarlijke stoffen zijn betrokken (EU-richtlijn 2012/18/EU van 4 juli 2012<em> </em>actueel?betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken):</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -20650,11 +21455,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Inrichting waar gevaarlijke producten in hoeveelheden gelijk aan of groter dan de in bijlage 6, delen 1 en 2, kolom 2, gevoegd bij titel I van het VLAREM vermelde hoeveelheid aanwezig zijn</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>inrichting waar gevaarlijke producten in hoeveelheden gelijk aan of groter dan de hoeveelheid, vermeld in bijlage 6, delen 1 en 2, kolom 2, bij dit besluit, aanwezig zijn, in voorkomend geval gebruikmakend van de sommatieregel als vermeld in noot 4 bij bijlage 6, deel 1 en deel 2<br>
+			<em>noot: lagedrempelinrichting</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -20676,11 +21482,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.2.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>VR-plichtige inrichting waar gevaarlijke producten in hoeveelheden gelijk aan of groter dan de in bijlage 6, delen 1 en 2, kolom 3, gevoegd bij titel I van het VLAREM vermelde hoeveelheid aanwezig zijn</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>VR-plichtige inrichting waar gevaarlijke producten in hoeveelheden gelijk aan of groter dan de hoeveelheid, vermeld in bijlage 6, delen 1 en 2, kolom 3, bij dit besluit, aanwezig zijn, in voorkomend geval gebruikmakend van de sommatieregel als vermeld in noot 4 bij bijlage 6, deel 1 en deel 2<br>
+			<em>noot: hogedrempelinrichting</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -20702,17 +21509,15 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><u>Niet onder 17.2 en 17.4 vallende inrichtingen of opslagplaatsen voor gevaarlijke producten</u></p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Opslagplaatsen voor gevaarlijke vloeistoffen en vaste stoffen, met uitzon­de­ring van deze vermeld in rubriek 17.1., 17.4. en ru­briek&nbsp;48.</p>
 
-			<p><em>Voor de toepassing van deze rubriek worden als “gevaarlijke producten” beschouwd, de stoffen bedoeld in bijlage 7 bij titel I van het VLAREM</em></p>
+			<p>Opmerking</p>
 
-			<p>Opmerking: Voor de toepassing van de indelingscriteria van deze subrubriek moet zowel met de hoofdeigenschap als met het ontvlammingspunt rekening worden gehouden. Voor de vloeibare brandstoffen dient evenwel enkel rekening te worden gehouden met het ontvlammingspunt.</p>
-
-			<p>Daarbij wordt onder “hoofdeigenschap” verstaan: de catalogering volgens EG-richtlijn 67/548/EEG van 27 juni 1967 betreffende de indeling, verpakking en het kenmerken van gevaarlijke stoffen en de EG-richtlijn 88/379/EEG van 7 juni 1988 betreffende de indeling, verpakking en het kenmerken van gevaarlijke preparaten; indien een product wordt gekenmerkt met twee of meer gevaarsymbolen, moet het meest relevante risico in aanmerking worden genomen; indien dit niet wordt gepreciseerd in de EG-richtlijn hiervoor vermeld moet de indeling worden gevolgd van de ADR-reglementering, vastgesteld door het koninklijk besluit van 16 september 1991 betreffende het vervoer van gevaarlijke goederen over de weg met uitzondering van ontplofbare en radioactieve stoffen zoals bekendgemaakt in het Belgisch Staatsblad van 18 juni 1997.</p>
+			<p>De omschrijving van de rubrieken wordt telkens voorafgegaan door een titel die de rubriek zo accuraat mogelijk duidt. Deze titel geeft een eerste indicatie van de draagwijdte van de subrubriek maar moet steeds nader gespecificeerd worden aan de hand van het betrokken gevarenpictogram GHS01 tot en met GHS09.</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -20734,117 +21539,30 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Inrichtingen voor de industriële productie van zeer giftige, giftige, zeer licht ontvlambare, licht ontvlambare, ontplofbare of milieugevaarlijke stoffen met een jaarcapaciteit:</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Ontploffingsgevaarlijke vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS01 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
+
+			<p>1° 10 kg tot en met 100 kg</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+
 			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+
 			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° tot en met 10 ton</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>J</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° van meer dan 10 ton</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>G</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>P</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>J</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>17.3.2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Inrichtingen voor de opslag voor zeer giftige, giftige en ontplofbare stoffen met uitzondering van deze bedoeld onder rubriek 48, met een opslagcapaciteit van:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° meer dan 10 kg tot en met 100 kg</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+
 			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
@@ -20864,10 +21582,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
 			<p>2° meer dan 100 kg tot en met 1 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -20890,11 +21608,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° meer dan 1 ton</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3°&nbsp;meer dan 1 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -20916,13 +21634,509 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>17.3.2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Brandgevaarlijke vloeistoffen en vaste stoffen. Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS02 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ):</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>17.3.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Ontvlambare vloeistoffen van gevarencategorie 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>17.3.2.1.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Gasolie, diesel, lichte stookolie en gelijkaardige vloeistoffen met een vlampunt ≥ 55 °C met een gezamenlijke opslagcapaciteit van:</p>
+
+			<p>1°&nbsp;a) 5&nbsp;ton tot en met 20&nbsp;ton als de inrichting behoort bij de woonfunctie van een onroerend goed dat hoofdzakelijk als woongelegenheid wordt gebruikt<br>
+			b) 100&nbsp;kg tot en met 20&nbsp;ton voor andere inrichtingen dan vermeld in punt a<br>
+			2° meer dan 20 ton tot en met 500 ton<br>
+			3° meer dan 500 ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>B*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>17.3.2.1.2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.3.2.2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>17.3.2.3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Overige ontvlambare vloeistoffen van gevarencategorie 3 met een gezamenlijke opslagcapaciteit van:<br>
+			1° 100 kg tot en met 10 ton<br>
+			2° meer dan 10 ton tot en met 200 ton<br>
+			3° meer dan 200 ton<br>
+			Ontvlambare vloeistoffen van gevarencategorie 1 en 2 met een gezamenlijke opslagcapaciteit van:<br>
+			1° a) 50 kg tot en met 2 ton, als de inrichting volledig is gelegen in industriegebied<br>
+			b) 50 kg tot en met 1 ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied<br>
+			2° a) meer dan 2 ton tot en met 50 ton, wanneer de inrichting volledig is gelegen in industriegebied</p>
+
+			<p>b) meer dan 1&nbsp;ton tot en met 50&nbsp;ton, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied<br>
+			3°&nbsp; meer dan 50&nbsp;ton</p>
+
+			<p>Overige brandgevaarlijke vloeistoffen en vaste stoffen niet vermeld in rubriek 17.3.2.1. en 17.3.2.2. met een gezamenlijke opslagcapaciteit van:<br>
+			1° a) 50 kg tot en met 1 ton, als de inrichting volledig is gelegen in industriegebied</p>
+
+			<p>b) 50 kg tot en met 500 kg, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+
+			<p>2° a) meer dan 1 ton tot en met 50 ton, als de inrichting volledig is gelegen in industriegebied<br>
+			b) meer dan 500 kg&nbsp; tot en met 50 ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied<br>
+			3°&nbsp; meer dan 50 ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>2</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>2</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A</p>
+
+			<p>B</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>A*</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>B*</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor oxiderende, schadelijke, corrosieve en irriterende stoffen, met uitzondering van deze bedoeld onder rubriek 48, met een totaal inhoudsvermogen van:</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Oxiderende vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS03 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:<br>
+			1° a) 200 kg tot en met 20&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
+			<p>3</p>
+
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
@@ -20942,11 +22156,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° a) 200 kg tot en met 10.000 kg, wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b) 200 kg tot en met 2&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -20968,14 +22182,14 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) 200 kg tot en met 1.000 kg, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>&nbsp;&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>3</p>
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -20994,11 +22208,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) meer dan 10.000 kg tot en met 50.000 kg wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2° a) meer dan 20&nbsp;ton tot en met 50&nbsp;ton, als de inrichting volledig is gelegen in industriegebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21020,11 +22234,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp; b) meer dan 1.000 kg tot en met 50.000 kg, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>&nbsp;&nbsp; b) meer dan 2&nbsp;ton tot en met 50&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21046,11 +22260,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° meer dan 50.000 kg</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3° meer dan 50 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -21072,11 +22286,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor zeer licht ontvlambare en licht ontvlambare vloeistoffen, met uitzondering van deze bedoeld onder rubriek 48, met een totaal inhoudsvermogen van :</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Bijtende vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS05 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -21098,11 +22313,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° a) 50 l tot en met 1 000 l, wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>1° a) 200 kg tot en met 20 ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -21124,11 +22339,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp; b) 50 l tot en met 500 l, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>&nbsp;&nbsp;&nbsp;&nbsp; b) 200 kg tot en met 2&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -21150,36 +22365,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) meer dan 1 000 l tot en met 30 000 l wanneer de inrichting volledig is gelegen in een industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2° a) meer dan 20&nbsp;ton tot en met 100&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
+
+			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -21195,14 +22390,16 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>A</p>
+
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 500 l tot en met 30 000 l, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b)meer dan 2&nbsp;ton tot en met 100&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21222,11 +22419,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) meer dan 30 000 l</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3°&nbsp;meer dan 100 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -21238,115 +22435,22 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; b) bij uitsluitend bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;1) meer dan 1 000 l tot en met 30 000 l wanneer de inrichting volledig is gelegen in een industriegebied</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) meer dan 500 l tot en met 30 000 l, wanneer de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan industriegebied</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) meer dan 30 000 l</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
+			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor ontvlambare vloeistoffen, met uitzondering van deze bedoeld onder rubriek 48, met een totaal inhoudsvermogen van :</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Giftige vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS06 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -21368,13 +22472,20 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° 100 l tot en met 5 000 l</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>1° a) 10 kg tot en met 2&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied<br>
+			b) 10 kg tot en met 200&nbsp;kg, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
@@ -21394,11 +22505,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) meer dan 5 000 l tot en met 100 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2°a) meer dan 2&nbsp;ton tot en met 5&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21420,11 +22531,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) meer dan 5 000 l tot en met 100 000 l bij uitsluitend bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b) meer dan 200&nbsp;kg tot en met 5&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21440,67 +22551,42 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° a) meer dan 100 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) meer dan 100 000 l bij uitsluitend bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3° meer dan 5&nbsp;ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>G</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>J</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor vloeistoffen met een ontvlammingspunt hoger dan 55° C, maar dat 100° C niet overtreft, met uitzondering van deze bedoeld onder rubriek 48, met een totaal inhoudsvermogen van :</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Schadelijke vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS07 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -21522,11 +22608,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° a) 5 000 l tot en met 20 000 l indien de inrichting behoort bij de woonfunctie van een onroerend goed dat hoofdzakelijk als woongelegenheid wordt gebruikt</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>1° a) 200 kg tot en met 20&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -21548,11 +22634,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) 100 l tot en met 20 000 l voor andere dan sub a) bedoelde inrichtingen</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b) 200 kg tot en met 2&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -21574,11 +22660,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) meer dan 20 000 l tot en met 500 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2° a) meer dan 20&nbsp;ton tot en met 100&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21600,11 +22686,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) meer dan 20 000 l tot en met 500 000 l bij uitsluitend bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b) meer dan 2&nbsp;ton tot en met 100&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21620,67 +22706,42 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>O</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° a) meer dan 500 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b)meer dan 500 000 l bij uitsluitend bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>A</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3° meer dan 100&nbsp;ton</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>P</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>J</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>B</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor vloeistoffen met een ontvlammingspunt hoger dan 100° C, met uitzondering van deze bedoeld onder rubriek 48, met een totaal inhoudsvermogen van :</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Op lange termijn gezondheidsgevaarlijke vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS08 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -21702,13 +22763,20 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° 200 l tot en met 50 000 l</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>1° a) 100 kg tot en met 20&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied<br>
+			b) 100 kg tot en met 2&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
+			<p>3</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+
 			<p>3</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
@@ -21728,11 +22796,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° a) meer dan 50 000 l tot en met 5 000 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2° a) meer dan 20&nbsp;ton tot en met 50&nbsp;ton, als de inrichting volledig is gelegen in in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21754,11 +22822,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) meer dan 50 000 l tot en met 5 000 000 l bij uitsluitend bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>b) meer dan 2&nbsp;ton tot en met 50&nbsp;ton, als de inrichting volledig of gedeeltelijk is gelegen in een gebied ander dan in­dustrie­gebied</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21778,63 +22846,38 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° a) meer dan 5 000 000 l bij uitsluitend ondergrondse opslag of bij combinatie van ondergrondse of bovengrondse opslag</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3° meer dan 50&nbsp;ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
+			<p>G</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>P</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
+			<p>J</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>B</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>b) meer dan 5 000 000 l bij uitsluitend bovengrondse opslag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.3.8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Opslagplaatsen voor milieugevaarlijke stoffen, met uitzondering van deze bedoeld onder rubriek 48, met een opslagcapaciteit van:</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Voor het aquatisch milieu gevaarlijke vloeistoffen en vaste stoffen.<br>
+			Opslagplaatsen voor vloeistoffen en vaste stoffen op basis van etikettering gekenmerkt door het gevarenpictogram GHS09 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) met een gezamenlijke opslagcapaciteit van:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -21856,11 +22899,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° meer dan 100 kg tot en met 1 ton</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>1° 100 kg tot en met&nbsp;2 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -21882,11 +22925,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° meer dan 1 ton tot en met 100 ton</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>2° meer dan&nbsp;2 ton tot en met 200 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -21908,11 +22951,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° meer dan 100 ton</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>3° meer dan 200 ton</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -21921,7 +22964,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>A</p>
+			<p>B</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>E</p>
@@ -21934,113 +22977,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>17.3.9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>Brandstofverdeelinstallaties voor motorvoertuigen, zijnde installaties voor het vullen van brandstoftanks van motorvoertuigen met vloeibare koolwaterstoffen bestemd voor de voeding van de erop geïnstalleerde motor(en):</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° inrichtingen voor de verdeling van de in rubriek 17.3.6. of in rubriek 17.3.7 bedoelde vloeistoffen met maximaal 1 verdeelslang</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>2° inrichtingen voor de verdeling van de in rubriek 17.3.4, in rubriek 17.3.5 , in rubriek 17.3.6 of in rubriek 17.3.7 bedoelde vloeistoffen met maximaal 2 verdeelslangen waarmee uitsluitend eigen bedrijfsvoertuigen worden bevoorraad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>3° overige inrichtingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
-			<p>B</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.05pt">
 			<p>17.4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p><u>Opslagplaatsen</u>, met uitzondering van deze bedoeld onder rubriek 48, en/of verkoopspunten van in bijlage 7 bij titel I van het VLAREM bedoelde gevaarlijke stoffen, in verpakkingen met een inhoudsvermogen van maximaal 25 liter of 25 kilogram, voor zover de maximale opslag begrepen is tussen 50 kg of 50 l en 5.000 kg of 5.000 l (EG-richtlijn 67/548/EEG van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen).</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:213.4pt">
+			<p>Opslagplaatsen voor gevaarlijke vloeistoffen en vaste stoffen, met uitzondering van deze vermeld onder rubriek 48., in verpakkingen met een inhoudsvermogen van maximaal 30 liter of 30 kilogram, voor zover de maximale opslag begrepen is tussen 50 kg of 50 l en 5000 kg of 5000 l</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>3</p>
@@ -23605,7 +24546,17 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>19.8</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>STANDAARDHOUTBEWERKINGSBEDRIJVEN</p>
+			<p>STANDAARDHOUTBEWERKINGSBEDRIJVEN<br>
+			<br>
+			Voor de toepassing van deze rubriek worden als “gevaarlijke producten” beschouwd, de stoffen en mengsels zoals bedoeld in de CLP-verordening.<br>
+			<br>
+			Onder de toepassing van de onderdelen i, j, k, m, n en p van de rubriek 19.8.2° vallen de gevaarlijke producten die gekenmerkt worden door minstens één gevarenpictogram als etiketterings­element volgens de CLP-verordening. Onder “gekenmerkt zijn van een gevaarlijk product door minstens één gevarenpictogram” wordt verstaan:<br>
+			a)&nbsp;&nbsp;&nbsp; het voorkomen van één of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement op het etiket, of<br>
+			b)&nbsp;&nbsp;&nbsp; het voorkomen van één of meerdere van de gevarenpictogrammen GHS01 t.e.m. GHS09, als etiketteringselement in hoofdstuk&nbsp;2 van het veiligheidsinformatieblad.<br>
+			<br>
+			Voor een gevaarlijke vloeistof of vaste stof die op basis van etikettering gekenmerkt wordt door meerdere gevarenpictogrammen, moet met ieder gevarenpictogram rekening gehouden worden. Voor vloeibare brandstoffen moet evenwel uitsluitend met het gevarenpictogram GHS02&nbsp; rekening gehouden worden, bijvoorbeeld voor gasolie, diesel en lichte stookolie is uitsluitend onderdeel&nbsp;k)1) van rubriek&nbsp;19.8.2° van toepassing.</p>
+
+			<p>Binnen het onderdeel j van de rubriek 19.8.2° wordt de opslagcapaciteit voor een gevaarlijk product slechts eenmaal in rekening gebracht ongeacht het product binnen het be­trokken onderdeel gekenmerkt wordt door meerdere gevarenpictogrammen.</p>
 
 			<p>Houtbewerkingsbedrijven die:</p>
 
@@ -23893,7 +24844,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>i) opslagplaatsen voor samengeperste, vloeibaar gemaakte of in oplossing gehouden gassen in vaste reservoirs met een gezamenlijk waterinhoudsvermogen tot en met 3.000 liter respectievelijk in verplaatsbare recipienten met een gezamenlijk waterinhoudsvermogen van 300 liter tot en met 1.000 liter</p>
+			<p>i) opslagplaatsen voor gevaarlijke gassen in vaste reservoirs met een gezamenlijk waterinhoudsvermogen tot en met 3.000 liter respectievelijk in verplaatsbare recipienten met een gezamenlijk waterinhoudsvermogen van 300 liter tot en met 1.000 liter</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -23919,11 +24870,39 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>j) opslagplaatsen voor corrosieve, irriterende, schadelijke of oxyderende stoffen met een totaal inhoudsvermogen:</p>
+			<p>j) opslagplaatsen voor oxiderende, bijtende, en schadelijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door respectievelijk het gevarenpictogram GHS03 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ), GHS05 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) of GHS07 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ),met een gezamenlijke opslagcapaciteit van 200 kg tot en met 2000 kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk 200 kg tot en met 20.000 kg wanneer volledig gelegen in industriegebied</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:37.05pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
+			<p>k) opslagplaatsen voor brandgevaarlijke vloeistoffen, op basis van etikettering gekenmerkt door het gevaren­pictogram GHS02 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ) :</p>
 
-			<p>- van 200 tot en met 1.000 kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied,</p>
+			<p>1) voor gasolie, diesel, lichte stookolie en gelijkaardige brandstoffen met een vlampunt ≥ 55 °C, behorende tot de ontvlambare vloeistoffen van gevarencategorie 3, met een gezamenlijke opslagcapaciteit van 100 kg tot en met 20 ton</p>
 
-			<p>- respectievelijk 200 tot en met 10.000 kg wanneer volledig gelegen in industriegebied</p>
+			<p>2) voor de overige ontvlambare vloeistoffen van&nbsp; gevarencategorie 3, andere dan vermeld in punt 1, met een gezamenlijke opslagcapaciteit van 100 kg tot en met 10 ton.<br>
+			<br>
+			3) voor ontvlambare vloeistoffen van gevarencategorie 1 en 2, met een gezamenlijke opslagcapaciteit van 50 kg tot en met 2 ton in verplaatsbare recipiënten</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -23949,11 +24928,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>k) opslagplaatsen voor P1-producten in andere recipienten dan vaste houders met een totaal inhoudsvermogen:</p>
-
-			<p>- van 50 liter tot en met 500 liter wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied,</p>
-
-			<p>- respectievelijk van 50 liter tot en met 1.000 liter wanneer volledig gelegen in industriegebied</p>
+			<p>l) opslagplaatsen voor brandbare vloeistoffen met een totaal inhoudsvermogen van 200 liter tot en met 50.000 liter</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -23979,7 +24954,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>l) opslagplaatsen voor P2-producten in andere recipienten dan vaste houders met een totaal inhoudsvermogen van 100 liter tot en met 5.000 liter</p>
+			<p>m) opslagplaatsen voor het aquatisch milieu gevaarlijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door het gevarenpictogram GHS09 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ),&nbsp; met een opslagcapaciteit van meer dan 100 kg tot en met 2000 kg</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -24005,7 +24980,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>m) opslagplaatsen voor P3-producten met een totaal inhoudsvermogen van 100 liter tot en met 20.000 liter</p>
+			<p>n) opslagplaatsen voor op lange termijn gezondheidsgevaarlijke vloeistoffen en vaste stoffen, op basis van etikettering gekenmerkt door het gevarenpictogram GHS08 (&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ), met een gezamenlijke opslagcapaciteit van 100&nbsp;kg tot en met 2000&nbsp;kg wanneer volledig of gedeeltelijk gelegen in gebied ander dan industriegebied, respectievelijk van 100&nbsp;kg tot en met 20.000&nbsp;kg wanneer volledig gelegen in industriegebied</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -24031,7 +25006,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>n) opslagplaatsen voor P4-producten met een totaal inhoudsvermogen van 200 liter tot en met 50.000 liter</p>
+			<p>o) brandstofverdeelinstallaties voor motorvoertuigen, zijnde installaties voor het vullen van brandstoftanks van motorvoertuigen met vloeistoffen zoals vermeld in punt k, 1,&nbsp; bestemd voor de voeding van de erop geïnstalleerde motor(en), met maximaal 1 verdeelslang</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -24057,7 +25032,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>o) opslagplaatsen voor milieugevaarlijke stoffen met een opslagcapaciteit van meer dan 100 kg tot en met 1.000 kg</p>
+			<p>p) opslagplaatsen voor gevaarlijke vloeistoffen en vaste stoffen in verpakkingen van maximaal 30 liter of 30 kg voor zover de maximale opslag begrepen is tussen 50 kg of 50 liter en 5000 kg of 5000 liter</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -24083,35 +25058,7 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			<p>&nbsp;</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>p) brandstofverdeelinstallaties voor motorvoertuigen voor de verdeling van P3-producten waarmee uitsluitend eigen</p>
-
-			<p>voertuigen worden bevoorraad met maximaal 1 verdeelslang</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:56.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:48.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-bottom:medium none; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:37.05pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:212.65pt">
-			<p>q) opslagplaatsen voor gevaarlijke stoffen in kleine verpakkingen van maximaal 25 liter of 25 kg voor zover de maximale opslag begrepen is tussen 50 kg of 50 liter en 5.000 kg of 5.000 liter</p>
+			<p>q) ...</p>
 			</td>
 			<td style="border-bottom:medium none; border-left:medium none; border-right:windowtext 1pt solid; border-top:medium none; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -44704,10 +45651,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:39.8pt">
-			<p>Rubriek<!--?xml:namespace prefix =         o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:38.3pt">
+			<p>Rubriek</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:214.15pt">
 			<p>Omschrijving en subrubrieken</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; width:42.55pt">
@@ -44730,10 +45677,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p><strong>48.</strong></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p><strong>Zeehavengebieden en havens</strong></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44756,10 +45703,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>48.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p>Doorvoeropslagplaatsen gelegen in zeehavengebieden, met uitsluiting van de doorvoeropslagplaatsen op de voorkaaien die uitsluitend worden benut voor kortstondige opslag in afwachting van de verscheping of van de uiteindelijke bestemming na lossing:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44782,10 +45729,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>48.1.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p>IMDG (International Maritime Dangerous Goods Code) – goederen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44808,11 +45755,11 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
-			<p>1° opslagplaatsen voor IMDG-goederen, waaronder gevaarlijke stoffen als bedoeld in bijlage 6 (delen I en II) bij titel I van het Vlarem, in minimale hoeveelheden:</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
+			<p>1° opslagplaatsen voor IMDG-goederen, waarbij gevaarlijke producten:</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>&nbsp;</p>
@@ -44834,11 +45781,12 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; a) zoals vermeld in kolom 2 van deze bijlage 6 (opslagplaatsen waarop artikel 7, § 1 van titel I van het Vlarem van toepassing is)</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:214.15pt">
+			<p>&nbsp;&nbsp; a) in hoeveelheden gelijk aan of groter dan de hoeveelheid, vermeld in bijlage 6, delen 1 en 2, kolom 2, bij dit besluit, aanwezig zijn, in voorkomend geval gebruikmakend van de sommatieregel als vermeld in noot 4 bij bijlage 6, deel 1 en deel 2<br>
+			<em>noot: lagedrempelinrichting</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>2</p>
@@ -44860,11 +45808,13 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:212.65pt">
-			<p>&nbsp;&nbsp; b) zoals vermeld in kolom 3 van deze bijlage 6 (VR-plichtige opslagplaats overeenkomstig artikel 7, § 3 van titel I van het Vlarem)</p>
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:214.15pt">
+			<p>&nbsp;&nbsp; b) in hoeveelheden gelijk aan of groter dan de hoeveelheid, vermeld in bijlage 6, delen 1 en 2, kolom 3, bij dit besluit, aanwezig zijn , in voorkomend geval gebruikmakend van de sommatieregel als vermeld in noot 4 bij bijlage 6, deel 1 en deel 2</p>
+
+			<p><em>noot: hogedrempelinrichting</em></p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
 			<p>1</p>
@@ -44886,10 +45836,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p>2° overige opslagplaatsen voor IMDG-goederen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44912,10 +45862,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>48.1.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p>Opslagplaatsen voor andere dan IMDG-goederen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44938,10 +45888,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>48.2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">
+			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">
 			<p>Zeehandelshavens, met het land verbonden en buiten havens gelegen pieren voor lossen en laden (met uitzondering van pieren voor veerboten) die schepen van meer dan 1.350 ton kunnen ontvangen</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">
@@ -44964,10 +45914,10 @@ k) 43.3. voor activiteiten met een nominaal thermisch ingangsvermogen van 50 MW;
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:39.8pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:38.3pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.65pt">&nbsp;</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:214.15pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:42.55pt">&nbsp;</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:57.6pt">
 			<p>&nbsp;</p>
@@ -51927,862 +52877,1138 @@ Er kan verwezen worden naar andere bijlagen van de milieuvergunningsaanvraag.<br
 
 ### BIJLAGE 5
 
-[Gegevens en minimuminlichtingen die aan de orde moeten komen in het veiligheidsbeheerssysteem en het veiligheidsrapport, bedoeld in artikel 8 van titel I van het VLAREM<br /><br />Deel 1. Gegevens van het veiligheidsbeheerssysteem die in het veiligheidsrapport bedoeld in artikel 8 opgenomen moeten worden.<br /><br />Het veilgheidsbeheerssysteem omvat het gedeelte van het volledige beheerssysteem van de inrichting dat betrekking heeft op de organisatorische structuur, de verantwoordelijkheden, de praktijken, de procedures, de processen en de hulpmiddelen die het mogelijk maken om het preventiebeleid voor zware ongevallen vast te leggen en uit te voeren.<br /><br />De volgende punten komen aan bod in het veilgheidsbeheerssysteem:<br />1° de organisatie en het personeel:<br />a) de taken en verantwoordelijkheden van het personeel dat betrokken is bij het beheer van de gevaren van zware ongevallen op alle niveaus van de organisatie;<br />b) het beheer van de procedures voor het identificeren van de opleidingsbehoeften van dit personeel en voor het organiseren van die opleiding;<br />c) de betrokkenheid van het personeel;<br />d) het beheer van de procedures voor het werken met derden;<br />2° de identificatie en evaluatie van gevaren van zware ongevallen: het beheer van de procedures voor systematische identificatie van de gevaren van zware ongevallen die zich bij normale en abnormale werking kunnen voordoen, alsook voor de evaluatie van de daaraan verbonden risico’s;<br />3° de operationele controle: het beheer van de operationele procedures en werkinstructies voor het verzekeren van de veilige exploitatie in alle omstandigheden (zowel ondermeer bij normale werking als bij opstarting, tijdelijke stilstand, onderhoud) van de installaties, processen, apparatuur en opslagplaatsen in kwestie;<br />4° ontwerpbeheersing: het beheer van de procedures voor het ontwerpen van nieuwe installaties, processen of opslagplaatsen en voor het plannen en uitvoeren van wijzigingen aan bestaande installaties, processen of opslagplaatsen;<br />5° de planning van noodsituaties: het beheer van de procedures om door een systematische analyse de voorzienbare noodsituaties te onderkennen en om de noodplannen uit te werken, te testen en te herzien, zodat het hoof kan worden geboden aan dergelijke noodsituaties;<br />6° het toezicht: het beheer van de procedures voor het verzekeren van een permanent toezicht op de naleving van de doelstellingen die door de exploitant werden vastgelegd in zijn preventiebeleid en in zijn veiligheidsbeheerssysteem en voor het uitvoeren van de nodige correctieve acties indien tekortkomingen worden vastgesteld;<br />7° de audit en de herzieningen:<br />a) het beheer van de procedures voor een periodieke en systematische evaluatie van het preventiebeleid voor zware ongevallen en van de doeltreffendheid en geschiktheid van het veiligheidsbeheerssysteem;<br />b) het beheer van de procedures voor de periodieke herziening en actualisering van het preventiebeleid en het veiligheidsbeheerssysteem door de exploitant.<br /><br />De procedures, bedoeld in het eerste lid, 6°, omvatten eveneens:<br />1° het opstellen en uitvoeren van periodieke inspectie- en onderhoudsprogramma’s;<br />2° het melden van zware ongevallen;<br />3° het melden van schierongevallen, inzonderheid die waarbij de beschermingsmaatregelen hebben gefaald;<br />4° het onderzoek van deze ongevallen of schierongevallen en het consequent rekening houden met de conclusies die daaruit kunnen worden getrokken.   <br /><br />Deel 2. Gegevens die in het veiligheidsrapport, bedoeld in artikel 8, moet opgenomen worden<br /><br />I. Inlichtingen over het beheerssysteem en de organisatie van de inrichting met het oog op de preventie van zware ongevallen<br /><br />Deze inlichtingen dienen de in deel 1 (het veiligheidsbeheersysteem) vervatte punten te bestrijken.<br /> <br />II. Presentatie van de omgeving van de inrichting<br /><br />A. Beschrijving van de plaats en zijn omgeving, met inbegrip van de geografische ligging, de meteorologische, geologische en hydrografische gegevens en, in voorkomend geval, de voorgeschiedenis.<br />B. Identificatie van de installaties en andere activiteiten binnen de inrichting die een gevaar van een zwaar ongeval met zich kunnen brengen.<br />C. Beschrijving van de zones die door een zwaar ongeval zouden kunnen worden getroffen.<br /><br />III. Beschrijving van de installatie<br />A. Beschrijving van de voornaamste werkzaamheden en producten uit de gedeelten van de inrichting die belangrijk zijn vanuit het oogpunt van de veiligheid, van de mogelijke oorzaken van risico’s van zware ongevallen en van de omstandigheden waarin zo’n zwaar ongeval zich zou kunnen voordoen, vergezeld van een beschrijving van de genomen preventieve maatregelen.<br />B. Beschrijving van procédés, meer bepaald van de werkwijzen.<br />C. Beschrijving van de gevaarlijke stoffen:<br />1. lijst van de gevaarlijke stoffen die bestaat uit:<br />- de beschrijving van de gevaarlijke stoffen: chemische naam, CAS-nummer, naam volgens de IUPAC-nomenclatuur,<br />- de maximale hoeveelheid van de gevaarlijke stoffen die aanwezig zijn of kunnen zijn,<br />2. fysische, chemische en toxicologische kenmerken en gegevens zowel over de onmiddellijk als over later optredende gevaren voor mens en milieu.<br />3. het fysische of chemische gedrag onder normale gebruiksvoorwaarden of bij voorzienbare ongevallen<br /><br />IV. Identificatie en analyse van de ongevallen en de preventiemiddelen<br />A.Gedetailleerde beschrijving van de scenario’s voor mogelijke zware ongevallen, en de omstandigheden waarin deze zich kunnen voordien, inclusief een samenvatting van de voorvallen die bij het op gang brengen van deze scenario’s een belangrijke rol kunnen spelen, ongeacht of de oorzaken binnen of buiten de installatie liggen.<br />B. Beoordeling van de omvang en de ernst van de gevolgen van de geïdentificeerde zware ongevallen.<br />C. Beschrijving van de technische parameters van de uitrusting die van belang zijn voor de veiligheid van de in de installaties aangebrachte apparatuur.<br /><br />V. Beschermings- en interventiemaatregelen om de gevolgen van een ongeval te beperken<br />A. Beschrijving van de apparatuur die op de installatie is aangebracht om de gevolgen van zware ongevallen te beperken.<br />B. Organisatie van het alarm en de interventie.<br />C. Beschrijving van de inzetbare interne of externe middelen. (verv. B.V.R. 29 juni 2000, art. 13, I: 26 juni 2001)] <br /><br />
+<P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpFirst>Bijlage 5. Gegevens en minimuminlichtingen die aan de orde moeten komen   in het veiligheidsbeheerssyteem, vermeld in artikel 8 van titel I van   VLAREM.<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"   /></P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpMiddle>Bij het door de exploitant uitgewerkte veiligheidsbeheerssysteem wordt   rekening gehouden met onderstaande factoren:</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: auto auto 0pt; mso-add-space: auto"   class=MsoNormalCxSpLast>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1"   class=MsoListParagraphCxSpFirst>a)&nbsp;&nbsp;&nbsp;   het veiligheidsbeheerssysteem dient afgestemd te zijn op de gevaren, de   industriële werkzaamheden en de complexiteit van de organisatie in de inrichting   en moet op de evaluatie van de risico's gebaseerd zijn; in het   veiligheidsbeheerssysteem moet dat gedeelte van het algemene beheerssysteem zijn   opgenomen waartoe de organisatorische structuur, de verantwoordelijkheden, de   gebruiken, de procedures, de procedés en de hulpmiddelen welke het mogelijk   maken het preventiebeleid voor zware ongevallen te bepalen en uit te voeren,   behoren;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt 53.25pt; mso-add-space: auto"   class=MsoListParagraphCxSpMiddle>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 18pt; mso-add-space: auto; mso-list: l0 level1 lfo1"   class=MsoListParagraphCxSpLast>b)&nbsp;&nbsp;&nbsp;   de volgende punten komen aan de orde in het   veiligheidsbeheerssysteem:</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>1.&nbsp;&nbsp;&nbsp;   de organisatie en het personeel – de taken en verantwoordelijkheden van   het personeel dat op alle organisatorische niveaus bij het beheersen van de   gevaren van zware ongevallen wordt betrokken, samen met de maatregelen die   werden genomen om het bewustzijn te doen toenemen dat voortdurende verbetering   nodig is. Het onderkennen van de behoeften aan opleiding van dit personeel en   het organiseren van die opleiding. De deelneming van het personeel en eventueel   van de (onder) aannemers die in de inrichting werken en die vanuit   veiligheidsopzicht belangrijk zijn;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>2.&nbsp;&nbsp;&nbsp;   de identificatie en beoordeling van de gevaren van zware ongevallen –   aanneming en toepassing van procedures voor de systematische identificatie van   de gevaren van zware ongevallen die zich bij normale of abnormale werking kunnen   voordoen, in voorkomend geval met inbegrip van in onderaanneming verrichte   activiteiten, alsook de beoordeling van de waarschijnlijkheid en de ernst van   die ongevallen;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>3.&nbsp;&nbsp;&nbsp;   de controle op de exploitatie – aanneming en toepassing van procedures   en instructies voor veilige werking, ook met betrekking tot het onderhoud, van   de installatie, de processen en de apparatuur, en voor het alarmbeheer en   tijdelijke onderbrekingen; rekening houdend met de beschikbare informatie   betreffende beste praktijken op het vlak van monitoring en controle met het oog   op de vermindering van het risico op systeemfalen; beheer en controle van de   risico's die samenhangen met verouderende apparatuur die geïnstalleerd is in de   inrichting en corrosie; inventarisatie van de apparatuur in de inrichting,   strategie en methodologie voor het houden van toezicht op en de controle van de   staat van de apparatuur; passende follow-upmaatregelen en noodzakelijke   tegenmaatregelen;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>4.&nbsp;&nbsp;&nbsp;   de wijze waarop wordt gehandeld bij wijzigingen – aanneming en   toepassing van procedures voor de planning van wijzigingen aan bestaande   installaties of opslagplaatsen, dan wel voor het ontwerpen van een nieuw procedé   of een nieuwe installatie of opslagplaats;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>5.&nbsp;&nbsp;&nbsp;   de planning voor noodsituaties – aanneming en toepassing van procedures   om door een systematische analyse de voorzienbare noodsituaties te onderkennen   en om de noodplannen voor dergelijke noodsituaties uit te werken, te beproeven   en te toetsen, en om specifieke opleiding voor het betrokken personeel te   verzorgen. Dergelijke opleiding wordt gegeven aan al het personeel dat in de   installatie werkt, inclusief eventuele onderaannemers;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>6.&nbsp;&nbsp;&nbsp;   het toezicht op de prestaties – aanneming en toepassing van procedures   voor een permanente beoordeling van de inachtneming van de doelstellingen die   door de exploitant zijn bepaald als onderdeel van het preventiebeleid voor zware   ongevallen en van het veiligheidsbeheerssysteem, en invoering van regelingen   voor onderzoek en correctie bij nietinachtneming. Tot deze procedures moet   behoren het systeem voor de melding van zware ongevallen of bijna-ongevallen,   met name die waarbij de beschermende maatregelen hebben gefaald, alsook het   onderzoek daarnaar en de follow-up, een en ander op basis van de ervaringen uit   het verleden. Tot de procedures kunnen ook prestatie-indicatoren behoren zoals   veiligheidsprestatie-indicatoren (safety performance indicators, SPIs) en/of   andere relevante indicatoren;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; MARGIN: 0cm 0cm 0pt; mso-add-space: auto"   class=MsoNormal>&nbsp;</P>  <P   style="TEXT-ALIGN: justify; LINE-HEIGHT: normal; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 0pt 36pt; mso-add-space: auto; mso-list: l1 level1 lfo2"   class=MsoListParagraph>7.&nbsp;&nbsp;&nbsp;   controle en analyse – aanneming en toepassing van procedures om het   preventiebeleid voor zware ongevallen en de doeltreffendheid en de   deugdelijkheid van het veiligheidsbeheerssysteem systematisch periodiek te   beoordelen. De met documenten gestaafde analyse door de directie van de   resultaten van het gevoerde beleid, van het veiligheidsbeheerssysteem en van de   bijwerking daarvan, inclusief het overwegen en opnemen van noodzakelijke   wijzigingen die door de controle en analyse aangegeven   worden.</P>
 
 ## BIJLAGE 6
 
 ### BIJLAGE 6
 
-<p>BIJLAGE 6.<br>
-INRICHTINGEN ALS BEDOELD IN VLAREM-INDELINGSRUBRIEK 17.2<br>
-(bijlage I bij de EG-richtlijn 96/82/EG van 9 december 1996 betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken, zoals die is gewijzigd door de EG-richtlijn 2003/105/EG van 16 december 2003)<br>
-INLEIDING<br>
-1° Deze bijlage handelt over de aanwezigheid van gevaarlijke stoffen in een inrichting, zoals omschreven in artikel 7 van titel I van Vlarem, en stelt de toepassing van artikel 8 ervan vast.<br>
-2° Mengsels en preparaten worden behandeld als zuivere stoffen, mits zij binnen de in deel 2, voetnoot 1, vermelde concentratiegrenzen blijven welke aan de hand van hun eigenschappen krachtens de desbetreffende richtlijn en/of de meest recente aanpassing daarvan aan de technische vooruitgang zijn vastgesteld, tenzij specifiek een samenstellingspercentage of een andere beschrijving wordt gegeven.<br>
-3° De onderstaande drempelwaarden gelden per inrichting.<br>
-4° De voor de toepassing van de artikelen in aanmerking te nemen hoeveelheden zijn de maximumhoeveelheden die op enig moment aanwezig zijn of kunnen zijn. Gevaarlijke stoffen die slechts in hoeveelheden van 2 % of minder van de vermelde drempelwaarde in een inrichting aanwezig zijn, worden bij de berekening van de totale aanwezige hoeveelheden buiten beschouwing gelaten, indien zij zich op een zodanige plaats in de inrichting bevinden dat deze niet de oorzaak van een zwaar ongeval elders op het bedrijfsterrein kan zijn.<br>
-5° De in deel 2, voetnoot 4, vermelde regels voor het optellen van gevaarlijke stoffen of categorieën gevaarlijke stoffen zijn eventueel van toepassing.<br>
-6° In deze richtlijn wordt onder een gas een stof verstaan die bij een temperatuur van 20 °C een absolute dampspanning van ten minste 101,3 kPa heeft.<br>
-7° In deze richtlijn wordt onder een vloeistof een stof verstaan die niet als gas gedefinieerd is en die bij een temperatuur van 20 °C en een standaarddruk van 101,3 kPa niet in vaste toestand is.<br>
-DEEL 1<br>
-Met name genoemde stoffen<br>
-Wanneer een in deel I genoemde stof of groep stoffen ook in een categorie van deel 2 valt, moeten de in deel 1 vermelde drempelwaarden worden gehanteerd.<br>
-</p>
+<p>Bijlage 6 bij het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning</p>
+
+<p>Bijlage 6. Inrichtingen als bedoeld in VLAREM-indelingsrubriek 17.2 of 48.1.1.1°</p>
+
+<p>&nbsp;</p>
+
+<p>Voor gevaarlijke stoffen die vallen onder de gevarencategorieën opgenomen in kolom 1 van deel 1 van deze bijlage, gelden de in de kolommen 2 en 3 van deel 1 opgenomen drempelwaarden.</p>
+
+<p>&nbsp;</p>
+
+<p>Wanneer een gevaarlijke stof onder deel 1 van deze bijlage valt en ook is opgenomen in deel 2, zijn de in de kolommen 2 en 3 van deel 2 opgenomen drempelwaarden van toepassing.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>DEEL 1</strong></p>
+
+<p><strong>Categorieën gevaarlijke stoffen</strong></p>
+
+<p>Dit deel beslaat alle gevaarlijke stoffen die in de in kolom 1 vermelde gevarencategorieën vallen:</p>
+
+<p>&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:203.4pt">
-			<p>Kolom 1<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:243.75pt">
+			<p>Kolom 1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:99.25pt">
 			<p>Kolom 2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:98.6pt">
 			<p>Kolom 3</p>
 			</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Gevaarlijke stof</p>
+			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Gevarencategorieën overeenkomstig Verordening (EG) nr. 1272/2008</p>
 			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:257.2pt">
-			<p>Drempelwaarde (in ton) voor de toepassing van:</p>
+			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:197.85pt">
+			<p>Drempelwaarden (in ton) van toepassing voor :</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
 			<p>VLAREM-rubriek 17.2.1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
 			<p>VLAREM-rubriek 17.2.2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ammoniumnitraat (zie noot 1)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Rubriek „H” — GEZONDHEIDSGEVAREN</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>5 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>10 000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ammoniumnitraat (zie noot 2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>1 250</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>5 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ammoniumnitraat (zie noot 3)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>H1 ACUUT TOXISCH</p>
+
+			<p>&nbsp;Categorie 1, alle blootstellingsroutes</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>350</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>2 500</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ammoniumnitraat (zie noot 4)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>H2 ACUUT TOXISCH</p>
+
+			<p>&nbsp;— Categorie 2, alle blootstellingsroutes</p>
+
+			<p>— Categorie 3, inademingblootstellingsroute (zie noot 7)</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>H3 SPECIFIEKE DOELORGAANTOXICITEIT (SPECIFIC TARGET ORGAN TOXICITY, STOT) — EENMALIGE BLOOTSTELLING</p>
+
+			<p>&nbsp;</p>
+
+			<p>STOT SE Categorie 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Rubriek „P” — FYSISCHE GEVAREN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P1a ONTPLOFBARE STOFFEN (zie aantekening 8)</p>
+
+			<p>— Instabiele ontplofbare stoffen, of</p>
+
+			<p>— Ontplofbare stoffen van de subklassen 1.1, 1.2, 1.3, 1.5 of 1.6, of</p>
+
+			<p>— Stoffen of mengsels met explosieve eigenschappen volgens methode A.14 van Verordening (EG) nr. 440/2008 (zie aantekening 9) die niet behoren tot de gevarenklassen organische peroxiden of zelfontledende stoffen en mengsels</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Kaliumnitraat (zie noot 5)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P1b ONTPLOFBARE STOFFEN (zie aantekening 8) Ontplofbare stoffen van subklasse 1.4 (zie aantekening 10)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>5 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>10 000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Kaliumnitraat (zie noot 6)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>1 250</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>5 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Diarseenpentoxide, arseen, (V)zuur, en/of zouten daarvan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P2 ONTVLAMBARE GASSEN</p>
+
+			<p>Ontvlambare gassen van categorie 1 of 2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P3a ONTVLAMBARE AEROSOLEN (zie aantekening 11.1) „Ontvlambare” aerosolen van categorie 1 of 2, die ontvlambare gassen van categorie 1 of 2 of ontvlambare vloeistoffen van categorie 1 bevatten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>150 (<em>netto</em>)</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>500 (<em>netto</em>)</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P3b ONTVLAMBARE AEROSOLEN (zie aantekening 11.1) „Ontvlambare” aerosolen van categorie 1 of 2, die geen ontvlambare gassen van categorie 1 of 2, noch ontvlambare vloeistoffen van categorie 1 bevatten (zie aantekening 11.2)</p>
+
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>5000 (<em>netto</em>)</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>50.000 (<em>netto</em>)</p>
+
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P4 OXIDERENDE GASSEN</p>
+
+			<p>Oxiderende gassen van categorie 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P5a ONTVLAMBARE VLOEISTOFFEN</p>
+
+			<p>&nbsp;— Ontvlambare vloeistoffen van categorie 1 of</p>
+
+			<p>— Ontvlambare vloeistoffen van categorie 2 of 3 die bij een temperatuur hoger dan hun kookpunt worden gehouden, of — Overige vloeistoffen met een vlampunt ≤ 60 °C, die bij een temperatuur hoger dan hun kookpunt worden gehouden (zie aantekening 12)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P5b ONTVLAMBARE VLOEISTOFFEN</p>
+
+			<p>— Ontvlambare vloeistoffen van categorie 2 of 3 waarbij bijzondere procescondities, zoals een hoge druk of hoge temperatuur, gevaren voor zware ongevallen kunnen doen ontstaan, of</p>
+
+			<p>— Overige vloeistoffen met een vlampunt ≤ 60 °C waarbij bijzondere verwerkingsomstandigheden, zoals een hoge druk of hoge temperatuur, gevaren voor zware ongevallen kunnen geven (zie aantekening 12)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P5c ONTVLAMBARE VLOEISTOFFEN</p>
+
+			<p>Ontvlambare vloeistoffen van categorie 2 of 3 die niet onder P5a en P5b vallen</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>5000</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>50.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P6a ZELFONTLEDENDE STOFFEN EN MENGSELS en ORGANISCHE PEROXIDEN</p>
+
+			<p>Zelfontledende stoffen en mengsels van type A of B of organische peroxiden van type A of B</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P6b ZELFONTLEDENDE STOFFEN EN MENGSELS en ORGANISCHE PEROXIDEN</p>
+
+			<p>Zelfontledende stoffen en mengsels van type C, D, E of F of organische peroxiden van type C, D, E of F</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P7 PYROFORE VLOEISTOFFEN EN VASTE STOFFEN Pyrofore vloeistoffen van categorie 1</p>
+
+			<p>Pyrofore vaste stoffen van categorie 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>P8 OXIDERENDE VLOEISTOFFEN EN VASTE STOFFEN Oxiderende vloeistoffen van categorie 1, 2 of 3, of Oxiderende vaste stoffen van categorie 1, 2 of 3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Rubriek „E” — MILIEUGEVAREN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>E1 Gevaar voor het aquatisch milieu in de categorie Acuut 1 of chronisch 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>E2 Gevaar voor het aquatisch milieu in de categorie Chronisch 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Rubriek „O” — OVERIGE GEVAREN</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>O1 Stoffen of mengsels met gevarenaanduiding EUH014</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>O2 Stoffen en mengsels die in contact met water ontvlambare gassen ontwikkelen, categorie 1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>O3 Stoffen of mengsels met gevarenaanduiding EUH029</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:99.25pt">
+			<p>50</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:98.6pt">
+			<p>200</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><strong>&nbsp;</strong></p>
+
+<p><strong>DEEL 2</strong></p>
+
+<p><strong>Met naam genoemde gevaarlijke stoffen </strong></p>
+
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:243.75pt">
+			<p>Kolom 1</p>
+			</td>
+			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:63.8pt">
+			<p>&nbsp;</p>
+
+			<p>CAS-nummer</p>
+
+			<p>(ter indicatie)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:66.15pt">
+			<p>Kolom 2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:68.15pt">
+			<p>Kolom 3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:134.3pt">
+			<p>Drempelwaarden (in ton) voor toepassing van :</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>Gevaarlijke stoffen</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>VLAREM-rubriek 17.2.1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>VLAREM-rubriek 17.2.2</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>1. Ammoniumnitraat (zie aantekening 13)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>5000</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>10.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>2. Ammoniumnitraat (zie aantekening 14)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>1250</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>5000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>3. Ammoniumnitraat (zie aantekening 15)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>350</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2500</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>4. Ammoniumnitraat (zie aantekening 16)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>10</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>50</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>5. Kaliumnitraat (zie aantekening 17)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>5000</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>10.000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>6. Kaliumnitraat (zie aantekening 18)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>1250</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>5000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>7. Diarseenpentoxide, arseen(V)zuur en/of zouten daarvan</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>1303-28-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Diarseentrioxide, arseen(III)zuur en/of zouten daarvan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>8. Diarseentrioxide, arseen(III)zuur en/of zouten daarvan</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>1327-53-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>0,1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>0.1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Broom</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>9. Broom</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7726-95-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>20</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Chloor</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>10. Chloor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7782-50-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Inhaleerbare poedevormige nikkelverbindingen (nikkel-monoxide, nikkeldioxide, nikkelsulfide, trinikkeldisulfide, dinikkeltrioxide)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>11. Inhaleerbare poedervormige nikkelverbindingen: nikkelmonoxide, nikkeldioxide, nikkelsulfide, trinikkeldisulfide, dinikkeltrioxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ethyleenimine</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>12.Ethyleenimine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>151-56-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Fluor</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>13. Fluor</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7782-41-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Formaldehyde (concentratie ≥ 90 %)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>14. Formaldehyde (concentratie ≥ 90 %)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>50-00-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Waterstof</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>15.Waterstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>1333-74-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Zoutzuur (vloeibaar gas)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>16. Chloorwaterstof (vloeibaar gas)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7647-01-0</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>250</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Loodalkylen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>17. Loodalkylen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Zeer licht ontvlambare vloeibare gassen (inclusief LPG) en aardgas</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>18. Ontvlambare vloeibare gassen, categorie 1 of 2 (inclusief lpg) en aardgas (zie aantekening 19)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Acetyleen</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>19. Acetyleen</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>74-86-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Ethyleenoxide</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>20. Ethyleenoxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>75-21-8</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Propyleenoxide</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>21.Propyleenoxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>75-56-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>50</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Methanol</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>22. Methanol</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>67-56-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>5 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>5000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Poedervormige 4,4-methyleenbis (2-chlooraniline) en/of zouten daarvan</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>23. 4,4′-Methyleen bis(2-chlooraniline) en/of zouten daarvan, poedervormig</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>101-14-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>0,01</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Methylisocynaat</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>24. Methylisocyanaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>624-83-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>0,15</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Zuurstof</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>25. Zuurstof</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>20</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7782-44-7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>2 000</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>200</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Tolueendiisocyanaat</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>26. 2,4-Tolueendiisocyanaat</p>
+
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2,6- Tolueendiisocyanaat</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>584-84-9</p>
+
+			<p>91-08-7</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>100</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Carbonylchloride (fosgeen)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.75pt; vertical-align:top; width:243.75pt">
+			<p>27. Carbonylchloride (fosgeen)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.75pt; vertical-align:top; width:63.8pt">
+			<p>75-44-5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.75pt; vertical-align:top; width:66.15pt">
 			<p>0,3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:13.75pt; vertical-align:top; width:68.15pt">
 			<p>0,75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Arseentrihydride (arsine)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>28. Arsine (arseentrihydride)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7784-42-1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>0,2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Fosfortrihydride (fosfine)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>29. Fosfine (fosfortrihydride)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7803-51-2</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>0,2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Zwaveldichloride</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>30. Zwaveldichloride</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>10545-99-0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>1</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Zwaveltrioxide</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>31. Zwaveltrioxide</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7446-11-9</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>75</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Polychloordibenzofuranen en polychloordibenzodioxinen (inclusief TCDD uitgedrukt in TCDD-equivalent</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>32.Polychloordibenzofuranen en polychloordibenzodioxinen (inclusief TCDD) uitgedrukt in TCDD-equivalent (zie aantekening 20)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>0,001</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>0.001</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>De volgende CARCINOGENEN in concentraties van meer dan 5 gewichtspercenten:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>33. De volgende CARCINOGENEN of de mengsels die de volgende carcinogenen in concentraties van meer dan 5 gewichtsprocent bevatten:</p>
 
-			<p>- 4-aminobifenyl en/of zouten daarvan, benzotrichloride, benzidine en/of zouten daarvan, di(chloormethyl)-ether, chloormethylether, 1,2-dibroomethaan, diethylsulfaat, dimethylsulfaat, dimethylcarbamoylchloride, 1,2-dibroom-3-chloorpropaan,</p>
-
-			<p>1,2-dimethylhydrazine, dimethylnitrosamine, hexamethylfosforzuurtriamide, hydrazine, 2-naftylamine en/of zouten daarvan, 4-nitrodifenyl en 1,3 propaansulton</p>
+			<p>4-aminobifenyl en/of zouten daarvan, benzotrichloride, benzidine en/of zouten daarvan, di(chloormethyl)ether, chloormethylether, 1,2-dibroomethaan, diethylsulfaat, dimethylsulfaat, dimethylcarbamoylchloride, 1,2-dibroom-3- chloorpropaan, 1,2-dimethylhydrazine, dimethylnitrosamine, hexamethylfosforzuurtriamide, hydrazine, 2-naftylamine en/of zouten daarvan, 4-nitrodifenyl en 1,3-propaansulton</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>0,5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.4pt">
-			<p>Aardolieproducten:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>34. Aardolieproducten en alternatieve brandstoffen</p>
 
-			<p>a) Benzines en nafta’s</p>
+			<p>a) benzines en nafta's,</p>
 
-			<p>b) Petroleum (met inbegrip van kerosines en luchtvaartbrandstoffen)</p>
+			<p>b) kerosines (inclusief vliegtuigbrandstoffen),</p>
 
-			<p>c) Gasoliën (met inbegrip van diesel, huisbrandolie en gasolie mengstromen)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:135pt">
-			<p>2 500</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>25 000</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
+			<p>c) gasoliën (inclusief diesel, huisbrandolie en gasoliemengstromen)</p>
 
-<p>&nbsp;</p>
+			<p>d) zware stookolie</p>
 
-<p>&nbsp;</p>
-
-<p>VOETNOTEN<br>
-1. Ammoniumnitraat (5 000/10 000) : meststoffen die in staat zijn tot zelfonderhoudende ontleding<br>
-Dit is van toepassing op gemengde/samengestelde ammoniumnitraatmeststoffen (een gemengde/samengestelde meststof bevat ammoniumnitraat met fosfaat en/of kaliumcarbonaat) waarin het stikstofgehalte afkomstig van het ammoniumnitraat<br>
-a) 15,75 (1) - 24,5 (2) gewichtsprocent of minder is en die niet meer dan 0,4 % in totaal aan brandbare/organische stoffen bevatten of die voldoen aan de voorschriften van bijlage II van Richtlijn 80/876/EEG,<br>
-b) 15,75 (3) gewichtsprocent of minder en een onbeperkte hoeveelheid brandbare stoffen, en die in staat zijn tot zelfonderhoudende ontleding overeenkomstig de VN-goottest (zie United Nations Recommendations on the Transport of Dangerous Goods : Manual of Tests and Criteria, Part III, sub-section 38.2) (Aanbevelingen van de Verenigde Naties inzake het vervoer van gevaarlijke goederen : Handboek beproevingen en criteria, deel III, onderafdeling 38.2).<br>
-2. Ammoniumnitraat (1 250/5 000) : meststofkwaliteit<br>
-Dit is van toepassing op enkelvoudige ammoniumnitraatmeststoffen en op gemengde/samengestelde ammoniumnitraatmeststoffen waarin het stikstofgehalte afkomstig van het ammoniumnitraat<br>
-a) hoger is dan 24,5 gewichtsprocent, met uitzondering van mengsels van ammoniumnitraat en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %,<br>
-b) hoger is dan 15,75 gewichtsprocent voor mengsels van ammoniumnitraat en ammoniumsulfaat,<br>
-c) hoger is dan 28 (4) gewichtsprocent voor mengsels van ammoniumnitraat en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %, en die voldoen aan de voorschriften van bijlage II bij Richtlijn 80/876/EEG.<br>
-3. Ammoniumnitraat (350/2 500) : technisch zuivere stof<br>
-Dit is van toepassing op<br>
-a) ammoniumnitraat en ammoniumnitraatpreparaten waarin het stikstofgehalte, afkomstig van het ammoniumnitraat,<br>
-- gelegen is tussen 24,5 en 28 gewichtsprocent en die maximaal 0,4 % aan brandbare stoffen bevatten,<br>
-- hoger is dan 28 gewichtsprocent en die maximaal 0,2 % aan brandbare stoffen bevatten,<br>
-b) waterige ammoniumnitraatoplossingen met een ammoniumnitraatconcentratie van meer dan 80 gewichtsprocent.<br>
-4. Ammoniumnitraat (10/50) : « off-specs-materiaal » en meststoffen die niet voldoen aan de eisen van de detonatietest<br>
-Dit is van toepassing op :<br>
-a) afgekeurd materiaal afkomstig uit het fabricageproces en op ammoniumnitraat en ammoniumnitraatpreparaten, enkelvoudige ammoniumnitraatmeststoffen en gemengde/samengestelde ammoniumnitraatmeststoffen als bedoeld in de voetnoten 2 en 3, die van de eindgebruiker zijn of worden geretourneerd aan een fabrikant, een installatie voor tijdelijke opslag of een herverwerkingsinstallatie voor herverwerking, recycling of behandeling met het oog op een veilig gebruik omdat de stoffen niet langer voldoen aan de specificaties van de voetnoten 2 en 3,<br>
-b) meststoffen als bedoeld in de voetnoot 1, eerste streepje, en voetnoot 2 die niet voldoen aan de voorschriften van bijlage II bij Richtlijn 80/876/EEG.<br>
-5. Kaliumnitraat (5 000/10 000) : samengestelde meststoffen op basis van kaliumnitraat bestaande uit kaliumnitraat in de vorm van prills of granules.<br>
-6. Kaliumnitraat (1 250/5 000) : samengestelde meststoffen op basis van kaliumnitraat bestaande uit kaliumnitraat in kristalvorm.<br>
-7. Polychloordibenzofuranen en polychloordibenzodioxinen<br>
-De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden berekend aan de hand van de volgende wegingsfactoren :<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:460.6pt">
-			<p>International toxic Equivalent (ITEF) for the congeners of concern (NATO/CCMS)</p>
+			<p>e) alternatieve brandstoffen met dezelfde toepassing en met gelijkaardige eigenschappen op het vlak van ontvlambaarheid en milieugevaren als de onder a) tot en met d) bedoelde producten</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>-</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>2500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>25.000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2, 3, 7, 8-TCDD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>35. Watervrije ammoniak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7664-41-7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2, 3, 7, 8-TCDF</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,1</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 7, 8-PeDD</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>36. Boortrifluoride</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,5</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7637-07-2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2, 3, 4, 7, 8-PeCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,5</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 7, 8-PeCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,05</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 7, 8-HxCDD</p>
-			</td>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4,&nbsp; 7, 8-HxCDF</p>
-			</td>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,1</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 6, 7, 8-HxCDD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 7, 8, 9-HxCDF</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 7, 8, 9-HxCDD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 6,&nbsp; 7, 8-HxCDF</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>2, 3, 4, 6,&nbsp; 7, 8-HxCDF</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 6, 7, 8-HpCDD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 6, 7, 8-HpCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,01</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>1, 2, 3, 4, 7, 8, 9-HpCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>OCDD</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,001</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>OCDF</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.15pt">
-			<p>0,001</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>(T = tetra, P = penta, Hx = hexa, HP = hepta, O = octa)<br>
-DEEL 2<br>
-Categorieën stoffen en preparaten die niet uitdrukkelijk in deel 1 worden genoemd<br>
-</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:221.4pt">
-			<p>Kolom 1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:117pt">
-			<p>Kolom 2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:122.2pt">
-			<p>Kolom 3</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:221.4pt">
-			<p>Gevaarlijke stof</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:239.2pt">
-			<p>Drempelwaarde (in ton) voor de toepassing van:</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>VLAREM-rubriek 17.2.1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>VLAREM-rubriek 17.2.2</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>1.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Zeer giftig</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>20</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>2.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>37. Waterstoffluoride</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Giftig</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>7783-06-4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>5</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>20</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>38. Piperidine</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>110-89-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>3.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>39. Bis(2-dimethylaminoethyl) (methyl)amine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>OXIDEREND</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>3030-47-5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>4.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>40. 3-(2-Ethylhexyloxy)propylamine</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ONTPLOFBAAR (zie voetnoot 2) wanneer de stof, het preparaat of het voorwerp onder VN/ADR-subklasse 1.4 valt</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>5397-31-9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>50</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>200</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>5.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>41. Mengsels (*) van natriumhypochloriet die zijn ingedeeld als aquatisch acuut categorie 1 [H400] die minder dan 5 % actief chloor bevatten en niet vallen onder de in deel 1 van bijlage I opgenomen andere gevarencategorieën. _____________</p>
+
+			<p>(*) Mits het mengsel zonder natriumhypochloriet niet zou worden ingedeeld als aquatisch acuut categorie 1 [H400].</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ONTPLOFBAAR (zie voetnoot 2) wanneer de stof, het preparaat of het voorwerp onder één of meer van de VN/ADR-subklassen 1.1, 1.2, 1.3, 1.5 en 1.6, dan wel onder waarschuwingszin R 2 of R 3 valt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>50</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>6.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 1 a) vermelde definitie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>5 000</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>50 000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>7a.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>LICHT ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 3 b) 1 vermelde definitie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>50</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>200</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>7b.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>LICHT ONTVLAMBARE VLOEISTOFFEN (als de stof of het preparaat voldoet aan de in voetnoot 3 b) 2 vermelde definitie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>5 000</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>50 000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>8.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ZEER LICHT ONTVLAMBAAR (als de stof of het preparaat voldoet aan de in voetnoot 3 c) vermelde definitie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>50</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>9.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>GEVAARLIJK VOOR HET MILIEU, waarschuwingszinnen:</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>i) R50: “zeer giftig voor in het water levende organismen” (inclusief R50/53)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>100</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
 			<p>200</p>
 			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ii)) R51/53: “giftige voor in het water levende organismen; kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken”</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>200</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>10.</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>42. Propylamine (zie aantekening 21)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>IEDERE INDELING die niet valt onder de bovenstaande in combinatie met de volgende waarschuwingszinnen:</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>107-10-8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>43. Tert-butylacrylaat (zie aantekening 21)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>i) R14 – reageert heftig in contact met water (inclusief R 14/15)</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>1663-39-4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>100</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>200</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>500</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:32.4pt">
-			<p>&nbsp;</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>44. 2-Methyl-3-buteennitrile (zie aantekening 21)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>ii)) R29 – vormt giftig gas in contact met water</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>16529-56-9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:117pt">
-			<p>50</p>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:122.2pt">
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>45. Tetrahydro-3,5-dimethyl-1,3,5-thiadiazine-2-thion (Dazomet) (zie aantekening 21)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>533-74-4</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>100</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
 			<p>200</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>46. Methylacrylaat (zie aantekening 21)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>96-33-3</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>47. 3-Methylpyridine (zie aantekening 21)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>108-99-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:243.75pt">
+			<p>48. 1-Broom-3-chloorpropaan (zie aantekening 21)</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:63.8pt">
+			<p>109-70-6</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:66.15pt">
+			<p>500</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:68.15pt">
+			<p>2000</p>
 			</td>
 		</tr>
 	</tbody>
@@ -52790,1099 +54016,340 @@ Categorieën stoffen en preparaten die niet uitdrukkelijk in deel 1 worden genoe
 
 <p>&nbsp;</p>
 
+<p>NOTEN BIJ BIJLAGE 6, deel 1 en deel 2</p>
+
+<p>1. Stoffen en mengsels worden overeenkomstig Verordening (EG) nr. 1272/2008 ingedeeld.</p>
+
+<p>2. Mengsels worden behandeld als zuivere stoffen, mits zij binnen de concentratiegrenzen blijven die zijn vastgesteld aan de hand van hun eigenschappen krachtens de in aantekening 1 vermelde Verordening (EG) nr. 1272/2008 of de meest recente aanpassing daarvan aan de technische vooruitgang, tenzij specifiek een samenstellingspercentage of een andere beschrijving wordt gegeven.</p>
+
+<p>3. De bovenstaande drempelwaarden gelden per inrichting.</p>
+
+<p>De voor de toepassing van de betreffende artikelen in aanmerking te nemen hoeveelheden zijn de maximumhoeveelheden die op enig moment aanwezig zijn of kunnen zijn. Gevaarlijke stoffen die slechts in hoeveelheden van 2 % of minder van de vermelde drempelwaarde in een inrichting aanwezig zijn, worden bij de berekening van de totale aanwezige hoeveelheid buiten beschouwing gelaten, indien zij zich op een zodanige plaats in de inrichting bevinden dat deze niet de oorzaak van een zwaar ongeval elders binnen die inrichting kan zijn.4. De onderstaande regels voor het optellen van gevaarlijke stoffen of categorieën gevaarlijke stoffen zijn eventueel van toepassing:</p>
+
+<p>In het geval van een inrichting waar geen afzonderlijke gevaarlijke stof aanwezig is in een hoeveelheid van meer dan of gelijk aan de vermelde drempelwaarden, wordt de onderstaande regel toegepast om te bepalen of de inrichting onder de bepalingen van deze richtlijn valt.</p>
+
+<p>Deze richtlijn is van toepassing op hogedrempelinrichtingen indien de som:</p>
+
+<p>q 1 /Q U1 + q 2 /Q U2 + q 3 /Q U3 + q 4 /Q U4 + q 5 /Q U5 + … groter is dan of gelijk is aan 1,</p>
+
+<p>waarbij q x = de hoeveelheid van gevaarlijke stof x of de hoeveelheid gevaarlijke stoffen van categorie x uit deel 1 of deel 2 van deze bijlage,</p>
+
+<p>en Q UX = de voor gevaarlijke stof x of categorie x in kolom 3 van deel 1 of van deel 2 van deze bijlage relevante drempelwaarde.</p>
+
+<p>Deze richtlijn is van toepassing op lagedrempelinrichtingen indien de som:</p>
+
+<p>q 1 /Q L1 + q 2 /Q L2 + q 3 /Q L3 + q 4 /Q L4 + q 5 /Q L5 + … groter is dan of gelijk is aan 1,</p>
+
+<p>waarbij q x = de hoeveelheid van gevaarlijke stof x of de hoeveelheid gevaarlijke stoffen van categorie x uit deel 1 of deel 2 van deze bijlage,</p>
+
+<p>en Q LX = de voor gevaarlijke stof x of categorie x in kolom 2 van deel 1 of van deel 2 van deze bijlage relevante drempelwaarde.</p>
+
+<p>Deze regel wordt gebruikt ter beoordeling van de gezondheidsgevaren, fysische gevaren en milieugevaren. De regel moet daarom driemaal worden toegepast:</p>
+
+<p>a) eenmaal voor de optelling van in deel 2 opgenomen gevaarlijke stoffen welke in acute toxiciteitscategorie 1, 2 of 3 (inademingblootstellingsroutes) of STOT SE categorie 1 zijn ingedeeld, samen met gevaarlijke stoffen die onder rubriek H, posten H1 tot en met H3 van deel 1, vallen;</p>
+
+<p>b) eenmaal voor de optelling van in deel 2 opgenomen gevaarlijke stoffen welke ontplofbare stoffen, ontvlambare gassen, ontvlambare aerosolen, oxiderende gassen, ontvlambare vloeistoffen, zelfontledende stoffen en mengsels, organische peroxiden, pyrofore vloeistoffen en vaste stoffen, oxiderende vloeistoffen en vaste stoffen zijn, samen met gevaarlijke stoffen die onder rubriek P, posten P1 tot en met P8 van deel 1, vallen;</p>
+
+<p>c) eenmaal voor de optelling van in deel 2 opgenomen gevaarlijke stoffen die onder gevaarlijk voor het aquatisch milieu, acute categorie 1, chronische categorie 1 of chronische categorie 2 vallen, samen met gevaarlijke stoffen die onder rubriek E, posten E1 en E2 van deel 1, vallen.</p>
+
+<p>De desbetreffende bepalingen van deze richtlijn zijn van toepassing zodra het sommeringsresultaat van a), b) of c) groter is dan of gelijk is aan 1.</p>
+
+<p>5. Gevaarlijke stoffen die niet onder Verordening (EG) nr. 1272/2008 vallen, waaronder afvalstoffen, maar niettemin in een inrichting aanwezig zijn of kunnen zijn en onder de in de inrichting heersende omstandigheden gelijkwaardige eigenschappen hebben of kunnen hebben wat de mogelijkheden van een zwaar ongeval betreft, worden voorlopig toegewezen aan de meest gelijkende categorie of met naam genoemde gevaarlijke stof die onder het toepassingsgebied van deze verordening valt.</p>
+
+<p>6. Voor gevaarlijke stoffen die zodanige eigenschappen hebben dat ze op verscheidene wijzen kunnen worden ingedeeld, is voor de toepassing van deze richtlijn de laagste drempelwaarde van toepassing. Wat evenwel de toepassing van de in aantekening 4 bedoelde regel betreft, wordt de laagste drempelwaarde voor elke groep categorieën in aantekening 4, onder a), b) en c), welke met de indeling in kwestie overeenkomt, gebruikt.</p>
+
+<p>7. Gevaarlijke stoffen die vallen onder acuut toxisch categorie 3 (orale blootstellingsroutes, H 301), vallen onder de rubriek H2 ACUUT TOXISCH wanneer noch de indeling acute toxiciteit bij inademing noch de indeling acute dermale toxiciteit kunnen worden afgeleid, bijvoorbeeld door een gebrek aan concluderende gegevens betreffende toxiciteit bij inademing en dermale toxiciteit.</p>
+
+<p>8. Onder de gevarenklasse ontplofbare stoffen vallen ontplofbare voorwerpen (zie punt 2.1 van bijlage I bij Verordening (EG) nr. 1272/2008). Indien de hoeveelheid van ontplofbare stoffen of mengsels in het voorwerp bekend is, wordt met die hoeveelheid rekening gehouden voor de toepassing van deze richtlijn. Indien de hoeveelheid van ontplofbare stoffen of mengsels in het voorwerp niet bekend is, wordt het gehele voorwerp voor de toepassing van deze richtlijn als ontplofbaar aangemerkt.</p>
+
+<p>9. Testen naar de ontplofbare eigenschappen van stoffen en mengsels is alleen nodig indien de screeningprocedure volgens aanhangsel 6, deel 3, van de United Nations Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria („UN Manual of Tests and Criteria”) uitwijst dat de stof of het mengsel mogelijk ontplofbare eigenschappen heeft. Verdere richtsnoeren voor het afzien van de test zijn beschikbaar in de beschrijving van methode A.14, zie Verordening (EG) nr. 440/2008 van de Commissie van 30 mei 2008 houdende vaststelling van testmethoden uit hoofde van Verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH)</p>
+
+<p>10. Indien ontplofbare stoffen van subklasse 1.4 uitgepakt of opnieuw ingepakt zijn, worden ze in rubriek P1a ingedeeld, tenzij aangetoond wordt dat het gevaar nog overeenstemt met subklasse 1.4 overeenkomstig Verordening (EG) nr. 1272/2008.</p>
+
+<p>11.1. Ontvlambare aerosolen worden ingedeeld overeenkomstig de Richtlijn 75/324/EEG van de Raad van 20 mei 1975 inzake onderlinge aanpassing van de wetgevingen van de lidstaten betreffende aërosols&nbsp; (Richtlijn aerosolhouders, PB L 147 van 9.6.1975, blz. 40.). „Zeer licht ontvlambare” en „ontvlambare” aerosolen volgens Richtlijn 75/324/EEG komen overeen met ontvlambare aerosolen van respectievelijk categorie 1 of 2 volgens Verordening (EG) nr. 1272/2008.</p>
+
+<p>11.2. Om deze vermelding te kunnen gebruiken, moet geregistreerd worden dat de aerosolhouder geen ontvlambaar gas van categorie 1 of 2, noch ontvlambare vloeistof van categorie 1 bevat.</p>
+
+<p>12. Overeenkomstig punt 2.6.4.5 in bijlage I bij Verordening (EG) nr. 1272/2008 behoeven vloeistoffen met een vlampunt hoger dan 35 °C niet in categorie 3 te worden ingedeeld indien negatieve resultaten werden behaald bij de test inzake onderhouden verbrandbaarheid L.2, Part III, section 32 van de UN Manual of Tests and Criteria. Dit geldt echter niet onder omstandigheden als verhoogde temperatuur of druk en daarom vallen dergelijke vloeistoffen onder deze vermelding.</p>
+
+<p>13. Ammoniumnitraat (5 000/10 000): meststoffen die in staat zijn tot zelfonderhoudende ontleding</p>
+
+<p>Dit is van toepassing op gemengde/samengestelde ammoniumnitraatmeststoffen (een gemengde/samengestelde meststof bevat ammoniumnitraat met fosfaat en/of kaliumcarbonaat) die in staat zijn tot zelfonderhoudende ontleding overeenkomstig de VN-goottest (Manual of Tests and Criteria, Part III, sub-section 38.2) en waarin het stikstofgehalte afkomstig van het ammoniumnitraat</p>
+
+<p>— gelegen is tussen 15,75 en 24,5 gewichtsprocent is en die niet meer dan 0,4 % in totaal aan brandbare/organische stoffen bevatten of die voldoen aan de voorschriften van bijlage III-2 bij Verordening (EG) nr. 2003/2003 van het Europees Parlement en de Raad van 13 oktober 2003 inzake meststoffen) (Een stikstofgehalte van 15,75 gewichtsprocent, afkomstig van het ammoniumnitraat, komt overeen met 45 % ammoniumnitraat en een stikstofgehalte van 24,5 gewichtsprocent komt overeen met 70 % ammoniumnitraat);</p>
+
+<p>— 15,75 gewichtsprocent of minder en een onbeperkte hoeveelheid brandbare stoffen.</p>
+
+<p>14. Ammoniumnitraat (1 250/5 000): meststofkwaliteit</p>
+
+<p>Dit is van toepassing op enkelvoudige ammoniumnitraatmeststoffen en op gemengde/samengestelde ammoniumnitraatmeststoffen die voldoen aan de eisen van bijlage III-2 bij Verordening (EG) nr. 2003/2003, waarin het stikstofgehalte afkomstig van het ammoniumnitraat</p>
+
+<p>— hoger is dan 24,5 gewichtsprocent, met uitzondering van mengsels van enkelvoudige ammoniumnitraatmeststoffen en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %;</p>
+
+<p>— hoger is dan 15,75 gewichtsprocent voor mengsels van ammoniumnitraat en ammoniumsulfaat;</p>
+
+<p>— hoger is dan 28 gewichtsprocent voor mengsels van enkelvoudige ammoniumnitraatmeststoffen en dolomiet, kalksteen en/of calciumcarbonaat met een zuiverheidsgraad van ten minste 90 %.(Een stikstofgehalte van 28 gewichtsprocent, afkomstig van het ammoniumnitraat, komt overeen met 80 % ammoniumnitraat)</p>
+
+<p>15. Ammoniumnitraat (350/2 500): technisch zuivere stof</p>
+
+<p>Dit is van toepassing op ammoniumnitraat en ammoniumnitraatmengsels waarin het stikstofgehalte, afkomstig van het ammoniumnitraat</p>
+
+<p>— gelegen is tussen 24,5 en 28 gewichtsprocent en die maximaal 0,4 % aan brandbare stoffen bevatten;</p>
+
+<p>— hoger is dan 28 gewichtsprocent en die maximaal 0,2 % aan brandbare stoffen bevatten.</p>
+
+<p>Dit is ook van toepassing op waterige ammoniumnitraatoplossingen met een ammoniumnitraatconcentratie van meer dan 80 gewichtsprocent.</p>
+
+<p>16. Ammoniumnitraat (10/50): „off-specs-materiaal” en meststoffen die niet voldoen aan de eisen van de detonatietest</p>
+
+<p>Dit is van toepassing op:</p>
+
+<p>— afgekeurd materiaal afkomstig uit het fabricageproces en op ammoniumnitraat en ammoniumnitraatmengsels, enkelvoudige ammoniumnitraatmeststoffen en gemengde/samengestelde ammoniumnitraatmeststoffen als bedoeld in de aantekeningen 14 en 15, die van de eindgebruiker zijn of worden teruggestuurd aan een fabrikant, een installatie voor tijdelijke opslag of een herverwerkingsinstallatie voor herverwerking, recycling of behandeling met het oog op een veilig gebruik omdat de stoffen niet langer voldoen aan de specificaties van de aantekeningen 14 en 15;</p>
+
+<p>— meststoffen als bedoeld in de aantekening 13, eerste streepje, en aantekening 14 bij deze bijlage die niet voldoen aan de voorschriften van bijlage III-2 bij Verordening (EG) nr. 2003/2003.</p>
+
+<p>17. Kaliumnitraat (5 000/10 000)</p>
+
+<p>Dit is van toepassing op samengestelde meststoffen op basis van kaliumnitraat (in de vorm van prills of granules) die dezelfde gevaarlijke eigenschappen als zuiver kaliumnitraat hebben.</p>
+
+<p>18. Kaliumnitraat (1 250/5 000)</p>
+
+<p>Dit is van toepassing op samengestelde meststoffen op basis van kaliumnitraat (in kristalvorm) die dezelfde gevaarlijke eigenschappen als zuiver kaliumnitraat hebben.</p>
+
+<p>19. Opgewaardeerd biogas</p>
+
+<p>Voor de toepassing van deze richtlijn kan opgewaardeerd biogas worden ingedeeld onder rubriek 18 van deel 2 van bijlage 6 wanneer het verwerkt is in overeenstemming met de toepasselijke normen voor gezuiverd en opgewaardeerd biogas waardoor een kwaliteit gewaarborgd is die overeenkomt met die van aardgas, met inbegrip van de hoeveelheid methaan, en het ten hoogste 1 % zuurstof bevat.</p>
+
+<p>20. Polychloordibenzofuranen en polychloordibenzodioxinen</p>
+
+<p>De hoeveelheden polychloordibenzofuranen en polychloordibenzodioxinen worden berekend aan de hand van de volgende wegingsfactoren:</p>
+
 <p>&nbsp;</p>
 
-<p>VOETNOTEN<br>
-1. Stoffen en preparaten worden ingedeeld volgens de volgende richtlijnen en de meest recente aanpassing daarvan aan de technische vooruitgang :<br>
-Richtlijn 67/548/EEG van de Raad van 27 juni 1967 betreffende de aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de indeling, de verpakking en het kenmerken van gevaarlijke stoffen (5),<br>
-Richtlijn 1999/45/EG van het Europees Parlement en de Raad van 31 mei 1999 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen van de lidstaten inzake de indeling, de verpakking en het kenmerken van gevaarlijke preparaten(6)<br>
-Voor stoffen en preparaten die niet volgens één van de bovenstaande richtlijnen als gevaarlijk zijn ingedeeld, bijvoorbeeld afvalstoffen, maar in een inrichting aanwezig zijn of kunnen zijn en onder de in de inrichting heersende omstandigheden gelijkwaardige eigenschappen hebben of kunnen hebben wat de mogelijkheden van een zwaar ongeval betreft, worden de procedures voor de voorlopige indeling overeenkomstig het desbetreffende artikel van de toepasselijke richtlijn gevolgd.<br>
-Voor stoffen en preparaten die zodanige eigenschappen hebben dat ze op verscheidene wijzen kunnen worden ingedeeld, is in het kader van deze richtlijn de laagste drempelwaarde van toepassing. Wat evenwel de toepassing van de in voetnoot 4 bedoelde sommatieregel betreft, wordt altijd de drempelwaarde gebruikt welke met de indeling in kwestie overeenkomt.<br>
-Voor de toepassing van deze richtlijn stelt de Commissie een lijst op van stoffen die in overeenstemming met Richtlijn 67/548/EEG bij geharmoniseerd besluit in de bovenstaande categorieën zijn ingedeeld; zij werkt deze lijst geregeld bij.<br>
-2. Onder « ontplofbare stof » wordt verstaan :<br>
-a) een stof of preparaat die (dat) ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarschuwingszin R 2),<br>
-b) een stof of preparaat die (dat) ernstig ontploffingsgevaar oplevert door schok, wrijving, vuur of andere ontstekingsoorzaken (waarschuwingszin R 3), of<br>
-c) een stof, preparaat of voorwerp van klasse 1 van de Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (VN/ADR), gesloten op 30 september 1957, zoals gewijzigd, als omgezet bij Richtlijn 94/55/EG van de Raad van 21 november 1994 betreffende de onderlinge aanpassing van de wetgevingen der lidstaten inzake het vervoer van gevaarlijke goederen over de weg (7)<br>
-Deze definitie strekt zich uit tot pyrotechnische stoffen, die voor de toepassing van deze richtlijn omschreven worden als stoffen (of mengsels van stoffen) die tot doel hebben warmte, licht, geluid, gas of rook dan wel een combinatie van dergelijke verschijnselen te produceren door middel van zichzelf onderhoudende exotherme chemische reacties. Wanneer een stof of preparaat zowel onder de VN/ADR-indeling als onder waarschuwingszin R 2 of R 3 valt, prevaleert de VN/ADR-indeling boven die van de waarschuwingszinnen.<br>
-Stoffen en voorwerpen van klasse 1 worden volgens het VN/ADR-indelingsschema ingedeeld in de subklassen 1.1 tot en met 1.6. De subklassen zijn :<br>
-- Subklasse 1.1 : « Stoffen en voorwerpen met gevaar voor massa explosie (een massa-explosie is een explosie die praktisch op hetzelfde ogenblik plaatsvindt in nagenoeg de gehele lading) ».<br>
-- Subklasse 1.2 : « Stoffen en voorwerpen met gevaar voor scherfwerking, zonder gevaar voor massa-explosie ».<br>
-- Subklasse 1.3 : « Stoffen en voorwerpen met gevaar voor brand en met een gering gevaar voor luchtdruk- of scherfwerking of met gevaar voor beide, maar niet met gevaar voor massa-explosie :<br>
-a) waarvan de verbranding aanleiding geeft tot een aanzienlijke warmtestraling,<br>
-of<br>
-b) die één voor één uitbranden, waarbij een geringe luchtdruk- of scherfwerking, of beide optreden ».<br>
-- Subklasse 1.4 : « Stoffen en voorwerpen die slechts gering gevaar opleveren indien zij tijdens het vervoer tot ontsteking of inleiding komen. De gevolgen blijven in hoofdzaak beperkt tot het collo en leiden niet tot scherfwerking van enige omvang of reikwijdte. Een van buitenaf inwerkende brand mag niet leiden tot een explosie op praktisch hetzelfde ogenblik van nagenoeg de gehele inhoud van het collo ».<br>
-- Subklasse 1.5 : « Zeer weinig gevoelige stoffen met gevaar voor massaexplosie, die zo weinig gevoelig zijn dat er onder normale vervoersomstandigheden een zeer geringe kans bestaat op inleiding of op de overgang van verbranding naar detonatie. Als minimumvoorwaarde geldt dat ze niet mogen exploderen bij de uitwendige brandproef ».<br>
-- Subklasse 1.6 : « Extreem weinig gevoelige voorwerpen, zonder gevaar voor massa-explosie. Deze voorwerpen bevatten alleen extreem weinig gevoelige springstoffen en vertonen een verwaarloosbare kans op een onbedoelde inleiding of voortplanting. Het gevaar is beperkt tot de explosie van één enkel voorwerp. ».<br>
-Deze definitie behelst ook in voorwerpen aanwezige ontplofbare of pyrotechnische stoffen of preparaten. In het geval van voorwerpen met ontplofbare of pyrotechnische stoffen of preparaten is de hoeveelheid van de stof of het preparaat, indien bekend, bepalend voor de toepassing van deze richtlijn. Indien de hoeveelheid niet bekend is, wordt het gehele voorwerp voor de toepassing van deze richtlijn als ontplofbaar aangemerkt.<br>
-3. Onder ONTVLAMBAAR, LICHT ONTVLAMBAAR en ZEER LICHT ONTVLAMBAAR (categorieën 6, 7 en 8) wordt verstaan :<br>
-a) ONTVLAMBARE vloeistoffen :<br>
-stoffen en preparaten met een vlampunt van minimaal 21° C en maximaal 55° C (waarschuwingszin R10), die blijven branden;<br>
-b) LICHT ONTVLAMBARE vloeistoffen :<br>
-1. - stoffen en preparaten die warm kunnen worden en tenslotte in contact met de lucht bij de omgevingstemperatuur zonder toevoer van energie vlam kunnen vatten (waarschuwingszin R17);<br>
-- stoffen en preparaten die een vlampunt hebben dat lager ligt dan 55° C en die onder druk vloeibaar blijven wanneer onder bepaalde procescondities, zoals hoge druk en hoge temperatuur, gevaar voor een zwaar ongeval kan ontstaan;<br>
-2. stoffen en preparaten met een vlampunt dat lager ligt dan 21° C en die niet zeer licht ontvlambaar zijn (waarschuwingszin R11, tweede streepje);<br>
-c) zeer licht ontvlambare gassen en vloeistoffen :<br>
-1. vloeibare stoffen en preparaten die een vlampunt hebben dat lager ligt dan 0° C en een kookpunt (of in geval van een kooktraject een eerste kookpunt) dat bij normale druk maximaal 35° C is (waarschuwingszin R12, eerste streepje), en<br>
-2. gassen die in contact met de lucht bij kamertemperatuur en normale druk ontvlambaar zijn (waarschuwingszin R 12, tweede streepje), ongeacht of zij in gasvormige toestand dan wel in superkritische toestand verkeren, en<br>
-3. ontvlambare en licht ontvlambare vloeibare stoffen en preparaten die op een temperatuur worden gehouden die hoger ligt dan hun kookpunt.<br>
-4. In het geval van een inrichting waar geen afzonderlijke stoffen of preparaten aanwezig zijn in een hoeveelheid, groter dan of gelijk aan de toepasselijke drempelwaarden, wordt de volgende regel gehanteerd om te bepalen of de inrichting onder de desbetreffende voorschriften van deze richtlijn valt.<br>
-Deze richtlijn is van toepassing indien de som q1/QH1 + q2/QH2 + q3/QH3 + q4/QH4 + q5/QH5 +... groter is dan of gelijk is aan 1,<br>
-waarin qx = de hoeveelheid gevaarlijke stof x (of categorie van gevaarlijke stoffen) die onder deel 1 of deel 2 van deze bijlage valt,<br>
-en QHx = de desbetreffende drempelwaarde voor stof of categorie x in kolom 3 van deel 1 of deel 2.<br>
-Deze richtlijn is met uitzondering van de artikelen 9, 11 en 13 van toepassing indien de som q1/QL1 + q2/QL2 + q3/QL3 + q4/QL4 + q5/QL5 +... groter is dan of gelijk is aan 1, waarin qx = de hoeveelheid van gevaarlijke stof x (of categorie van gevaarlijke stoffen) die onder deel 1 of deel 2 van deze bijlage valt, en QLx = de desbetreffende drempelwaarde voor stof of categorie x in kolom 2 van deel 1 of deel 2.<br>
-Deze optellingsregel wordt gebruikt ter beoordeling van de algemeen met toxiciteit, ontvlambaarheid en ecotoxiciteit samenhangende gevaren. De regel moet daarom driemaal worden toegepast :<br>
-a) eenmaal voor de optelling van in deel 1 genoemde stoffen en preparaten welke als giftig of zeer giftig zijn ingedeeld, tezamen met stoffen en preparaten die tot categorie 1 of 2 behoren;<br>
-b) eenmaal voor de optelling van in deel 1 genoemde stoffen en preparaten die als oxiderend, ontplofbaar, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar zijn ingedeeld, tezamen met stoffen en preparaten die tot categorie 3, 4, 5, 6, 7a, 7b of 8 behoren;<br>
-c) eenmaal voor de optelling van de in deel 1 genoemde en als gevaarlijk voor het milieu ingedeelde stoffen en preparaten (R 50 (met inbegrip van R 50/53) of R 51/53), tezamen met stoffen en preparaten die tot categorie 9) i) of 9) ii) behoren.<br>
-De desbetreffende bepalingen van deze richtlijn zijn van toepassing indien het sommeringsresultaat in ten minste één van de drie gevallen groter is dan of gelijk is aan 1.<br>
-_______<br>
-Nota's<br>
-(1) Een stikstofgehalte van 15,75 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 45 % ammoniumnitraat.<br>
-(2) ) Een stikstofgehalte van 24,5 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 70 % ammoniumnitraat.<br>
-(3) Een stikstofgehalte van 15,75 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 45 % ammoniumnitraat.<br>
-(4) Een stikstofgehalte van 28 gewichtsprocent, alfkomstig van het ammoniumnitraat, komst overeen met 80 % ammoniumnitraat.<br>
-(5) PB 196 van 16.8.1967, blz. l. Richtlijn laatstelijk gewijzigd bij Verordening (EG) nr. 807/2003 (PB L 122 van 16.5.2003, blz. 36).<br>
-(6) PB L 200 van 30.7.1999, blz. 1. Richtlijn gewijzigd bij Richtlijn 2001/60/EG van de Commissie (PB L 226 van 22.8.2001, blz. 5).<br>
-(7) PB L 319 van 12.12.1994, blz. 7. Richtlijn laatstelijk gewijzigd bij Richtlijn 2003/28/EG van de Commissie (PB L 90 van 8.4.2003, blz. 45).</p>
+<p>&nbsp;</p>
+
+<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+	<tbody>
+		<tr>
+			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:441.6pt">
+			<p>WHO 2005 Toxic Equivalency Factors</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>2,3,7,8-TCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>2,3,7,8-TCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,7,8-PeCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>2,3,4,7,8-PeCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,3</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3, 7,8-PeCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,03</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,4,7,8-HxCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,6,7,8-HxCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,4,7,8-HxCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,7,8,9-HxCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,7,8,9-HxCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,6,7,8-HxCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,4,6,7,8-HpCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,01</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>2,3,4,6,7,8-HxCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,1</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>OCDD</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,0003</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,4,6,7,8-HpCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,01</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>1,2,3,4, 7,8,9-HpCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,01</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>&nbsp;</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>OCDF</p>
+			</td>
+			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:110.4pt">
+			<p>0,0003</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p>(T=tetra, P=penta, Hx=hexa, Hp=hepta, O=octa)</p>
+
+<p>&nbsp;</p>
+
+<p>21. Wanneer deze gevaarlijke stof eveneens onder categorie P5a ontvlambare vloeistoffen of P5b ontvlambare vloeistoffen valt, geldt voor de toepassing van deze richtlijn de laagste drempelwaarde.</p>
+
+
+<p>&nbsp;</p>
 
 ## BIJLAGE 7
 
 ### BIJLAGE 7
 
-BIJLAGE 7 Lijst van gevaarlijke producten (rubriek 17.3 van de indelingslijst)<br>
-<br>
-<br>
-DEEL I: LIJST VAN DE GEVAARLIJKE PRODUCTEN (STOFFEN EN PREPARATEN) VERMELD IN DE EG-RICHTLIJN 96/82/EG VAN 9 DECEMBER 1996 BETREFFENDE DE BEHEERSING VAN DE GEVAREN VAN ZWARE ONGEVALLEN WAARBIJ GEVAARLIJKE STOFFEN ZIJN BETROKKEN<br>
-Deze lijst omvat de gevaarlijke stoffen en ingedeelde categorieën van stoffen en preparaten zoals vermeld in de bijlage 6 bij titel I van het VLAREM.<br>
-<br>
-DEEL II: GEVAARLIJKE STOFFEN EN PREPARATEN BEDOELD IN DE EG-RICHTLIJN 67/548/EEG VAN 27 JUNI 1967 EN DE EG-RICHTLIJN 1999/45/EG VAN 31 MEI 1999 BETREFFENDE DE AANPASSING VAN DE WETTELIJKE EN BESTUURSRECHTELIJKE BEPALINGEN INZAKE DE INDELING, DE VERPAKKING EN HET KENMERKEN VAN GEVAARLIJKE STOFFEN<br>
-<br>
-A. DEFINITIES<br>
-In de zin deze bijlage wordt verstaan onder<br>
-1) “stoffen”: chemische elementen en hun verbindingen, zoals zij voorkomen in natuurlijke toestand of bij de produktie ontstaan, met inbegrip van alle additieven die nodig zijn voor het behoud van de stabiliteit van het produkt en alle onzuiverheden ten gevolge van het produktieprocédé, doch met uitzondering van elk oplosmiddel dat kan worden afgescheiden zonder dat de stabiliteit van de stof wordt aangetast of de samenstelling ervan wordt gewijzigd;<br>
-2) “preparaten”: mengsels of oplossingen die bestaan uit twee of meer stoffen;<br>
-3) “polymeer”: een stof die bestaat uit moleculen welke worden gekenmerkt door een opeenvolging van een of meer soorten monomeereenheden, en die een gewichtsmeerderheid van moleculen bevat die bestaan uit ten minste drie monomeereenheden die op covalente wijze aan ten minste een andere monomeereenheid of andere reactieve stof zijn gebonden en bestaat uit minder dan een gewichtsmeerderheid aan moleculen van hetzelfde molecuul-gewicht. Die moleculen moeten over een reeks molecuul-gewichten verdeeld zijn, waarbij de verschillen in molecuul-gewicht op de eerste plaats het gevolg zijn van verschillen in aantal monomeereenheden. “Monomeereenheden” in de zin van deze definitie betekent de gereageerde vorm van een monomeer in een polymeer;<br>
-4) “gevaarlijk”: de volgende stoffen en preparaten:<br>
-a. ontplofbare: stoffen en preparaten in vaste, vloeibare, pasta- of gelatineachtige toestand, die ook zonder de inwerking van zuurstof in de lucht exotherm kunnen reageren, hierbij snel gassen ontwikkelen en onder bepaalde (proef)voorwaarden detoneren, snel explosief verbranden of door verhitting bij gedeeltelijke afsluiting ontploffen;<br>
-b. oxyderende: stoffen en preparaten die bij aanraking met andere stoffen, met name ontvlambare stoffen, sterk exotherm reageren;<br>
-c. zeer licht ontvlambare stoffen: stoffen en preparaten in vloeibare toestand met een uiterst laag vlampunt en een laag kookpunt, alsmede gasvormige stoffen en preparaten die bij normale temperatuur en druk aan de lucht blootgesteld kunnen ontbranden;<br>
-d. licht ontvlambare:<br>
-- stoffen en preparaten die bij normale temperatuur aan de lucht blootgesteld, zonder toevoer van enrgie, in temperatuur kunnen stijgen en tenslotte kunnen ontbranden, of<br>
-- vaste stoffen en preparaten die na kortstondige inwerking van een ontstekingsbron gemakkelijk kunnen ontbranden en na verwijdering van de ontstekingsbron blijven branden of gloeien, of<br>
-- vloeibare stoffen en preparaten met een zeer laag vlampunt, of<br>
-- stoffen en preparaten die bij aanraking met water of vochtige lucht een gevaarlijke hoeveelheid van zeer licht ontvlambare gassen ontwikkelen;<br>
-e) ontvlambare: vloeibare vloeistoffen en preparaten met een laag vlampunt;<br>
-f) zeer giftige: stoffen en preparaten waarvan reeds een zeer geringe hoeveelheid bij inademing of opneming via de mond of via de huid acute of chronische aandoeningen en zelfs de dood kan veroorzaken;<br>
-g. giftige: stoffen en preparaten waarvan reeds een geringe hoeveelheid bij inademing of opneming via de mond of via de huid acute of chronische aandoeningen en zelfs de dood kan veroorzaken;<br>
-h. schadelijke: stoffen en preparaten die bij inademing of opneming via de mond of via de huid acute of chronische gevaren en zelfs de door kunnen veroorzaken;<br>
-i. bijtende: stoffen en preparaten die bij aanraking met levend weefsels daarop een vernietigende werking kunnen uitoefenen;<br>
-j. irriterende: niet-bijtende stoffen en preparaten die bij directe, langdurige of herhaalde aanraking met de huid of de slijmvliezen een ontsteking kunnen veroorzaken;<br>
-k. sensibiliserende: stoffen en preparaten die bij inademing of bij opneming via de huid aanleiding kunnen geven tot een zodanige reactie van hypersensibilisatie dat latere blootstelling aan de stof of het preparaat karakteristieke nadelige effecten veroorzaakt;<br>
-l. kankerverwekkende: stoffen en preparaten die bij inademing of bij opneming via de mond of via de huid kanker kunnen veroorzaken of de frequentie daarvan doen toenemen;<br>
-m. mutagene: stoffen en preparaten die bij inademing of bij opneming via de mond of via de huid erfelijke genetische afwijkingen kunnen veroorzaken of de frequentie daarvan doen toenemen;<br>
-n. voor de voortplanting giftige: stoffen of preparaten die bij inademing of bij opneming via de mond of via de huid niet-erfelijke afwijkingen bij het nageslacht en/of aantasting van de mannelijke of vrouwelijke voortplantingsfuncties of -vermogens veroorzaken, dan wel de frequentie daarvan doen toenemen;<br>
-o. milieugevaarlijke: stoffen en preparaten die, wanneer zij in het milieu terechtkomen, onmiddellijk of na verloop van tijd gevaar voor een of meer milieucompartimenten opleveren of kunnen opleveren.<br>
-<br>
-B. INDELING DER GEVAARLIJKE STOFFEN EN PREPARATEN<br>
-1. De algemene indeling gebeurt op elk moment volgens de meest recente bepalingen van de richtlijn 67/548/EEG dd. 27/6/67 zoals herhaaldelijk gewijzigd en ook zoals deze in de toekomst nog verder zal worden aangepast;<br>
-2. Voor de preparaten gelden de meest recente bepalingen van de richtlijn 88/379/EEG dd. 7/6/88 zoals herhaaldelijk gewijzigd en ook zoals deze in de toekomst nog verder zal worden aangepast;<br>
-3. De bepalingen van voornoemde richtlijnen en hun later nog komende aanpassingen worden tegen kostprijs ter beschikking gesteld door de afdeling bevoegd voor veiligheidsrapportering.<br>
-Deze administratie is ermee belast elke aanpassing bij uittreksel bekend te maken in het Belgisch Staatsblad onder de volgende vorm:<br>
-<br>
-VLAREM I, BIJLAGE 7, DEEL II, B, INDELING DER GEVAARLIJKE STOFFEN EN PREPARATEN<br>
-<br>
-Ingevolge de wijziging van de richtlijn ….. door richtlijn ….. (PB …..), wijzigt de bijlage 7, deel II, B van titel I van het Vlarem van rechtswege vanaf de eerste dag van de maand volgend op onderhavige publikatie. De gewijzigde tekst en/of de aanvullingen worden ter beschikking gesteld door de afdeling, bevoegd voor veiligheidsrapportering (volgt het adres en het telefoon- en telefaxnummer)<br>
-<br>
-De aanpassing geldt vanaf de eerste dag van de maand volgend op deze bekendmaking.<br>
-<br>
-C. GEVAARSYMBOLEN EN -AANDUIDINGEN: (niet opgenomen: bevat pictogramman)<br>
-<br>
-D. AARD DER BIJZONDERE GEVAREN TOEGESCHREVEN AAN GEVAARLIJKE STOFFEN EN PREPARATEN<br>
-<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
-			<p>R 1<!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:401.2pt">
-			<p>In droge toestand ontplofbaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontploffingsgebaar door schok, vuur of andere ontstekingsoorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ernstig ontploffingsgevaar door schok, wrijving, vuur of andere ontstekingsoorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt met metalen zeer gemakkelijk ontplofbare verbindingen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontploffingsgevaar door verwarming</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontplofbaar met en zonder lucht</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan brand veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Bevordert de ontbranding van brandbare stoffen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontploffingsgevaar bij menging met brandbare stoffen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 10</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontvlambaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 11</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Licht ontvlambaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 12</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer licht ontvlambaar</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 14</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Reageert heftig met water</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 15</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt zeer licht ontvlambaar gas in contact met water</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 16</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontploffingsgevaar bij menging met oxyderende stoffen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 17</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Spontaan ontvlambaar in lucht</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 18</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan bij gebruik een ontvlambaar/ontplofbaar damp-luchtmengsel vormen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 19</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan ontplofbare peroxiden vormen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 23</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 26</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 29</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt giftig gas in contact met water</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 30</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan bij gebruik licht ontvlambaar worden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 31</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt giftige gassen in contact met zuren</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 32</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt zeer giftige gassen in contact met zuren</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 33</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gevaar voor cumulatieve effecten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 34</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Veroorzaakt brandwonden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 35</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Veroorzaakt ernstige brandwonden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 36</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ogen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 37</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ademhalingswegen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 38</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gevaar voor ernstige onherstelbare effecten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Onherstelbare effecten zijn niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 41</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gevaar voor ernstig oogletsel</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 42</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan overgevoeligheid veroorzaken bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 43</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan overgevoeligheid veroorzaken bij contact met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 44</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Ontploffingsgevaar bij verwarming in afgesloten toestand</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 45</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan kanker veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 46</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan erfelijke genetische schade veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 49</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan kanker veroorzaken bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 50</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig voor in het water levende organismen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 51</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor in het water levende organismen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 52</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk voor in het water levende organismen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 53</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 54</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor planten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 55</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor dieren</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 56</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor bodemorganismen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 57</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor bijen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 58</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan in het milieu op lange termijn schadelijke effecten veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 59</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gevaarlijk voor de ozonlaag</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 60</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan de vruchtbaarheid schaden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 61</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan het ongeboren kind schaden</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 62</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Mogelijk gevaar voor verminderde vruchtbaarheid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 63</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Mogelijk gevaar voor beschadiging van de ongeboren kind</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 64</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan schadelijk zijn via de borstvoeding</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:460.6pt">
-			<p>Combinatie van R-zinnen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 14/15</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Reageert heftig met water en vormt daarbij zeer ontvlambaar gas</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 15/29</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Vormt giftig en zeer ontvlambaar gas in contact met water</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 20/21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij inademing en bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 20/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 20/21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij inademing, opname door de mond en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk bij aanraking met de huid en bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 23/24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij inademing en bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 23/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 23/24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij inademing, opname door de mond en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig bij aanraking met de huid en bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 26/27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij inademing en bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 26/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 26/27/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij inademing, opname door de mond en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 27/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig bij aanraking met de huid en bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 36/37</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ogen en de ademhalingswegen</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 36/38</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ogen en de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 36/37/38</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ogen, de ademhalingswegen en de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 37/38</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Irriterend voor de ademhalingswegen en de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/23</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/23/24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/23/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/23/24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige onherstelbare effecten bij inademing, aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/26</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstig onherstelbare effecten bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstig onherstelbare effecten bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/26/27</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/26/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/27/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstige onherstelbare effecten bij aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 39/26/27/28</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig: gevaar voor ernstige onherstelbare effecten bij inademing, aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij inademing zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij aanraking met de huid zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij opname door de mond zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/20/21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij inademing en aanraking met de huid zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/20/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij inademing en opname door de mond zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij aanraking met de huid en opname door de mond zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 40/20/21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: bij inademing, aanraking met de huid en opname door de mond zijn onherstelbare effecten niet uitgesloten</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 42/43</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Kan overgevoeligheid veroorzaken bij inademing of contact met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/20</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/20/21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/20/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/20/21/22</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing, aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/23</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/23/24</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstig schade aan de gezondheid bij langdurige blootstelling bij inademing en aanraking met de huid</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/23/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 48/23/24/25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig: gevaar voor ernstige schade aan de gezondheid bij langdurige blootstelling bij inademing, aanraking met de huid en opname door de mond</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 50/53</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Zeer giftig voor in het water levende organismen; kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 51/53</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Giftig voor in het water levende organismen; kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>R 52/53</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Schadelijk voor in het water levende organismen; kan in het aquatisch milieu op lange termijn schadelijke effecten veroorzaken</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-<br>
-E. LIJST VAN DE INGEDEELDE GEVAARLIJKE STOFFEN<br>
-<br>
-Als lijst van de ingedeelde gevaarlijke stoffen geldt de meest recente lijst zoals bepaald door de richtlijn 67/548/EEG van 27 juni 1967 (bijlage I), zoals herhaaldelijk gewijzigd en ook zoals deze in de toekomst nog verder zal worden aangepast.<br>
-<br>
-Wanneer stoffen nog niet in bijlage I zijn ingedeeld volgens voormelde EG-richtlijn, gelden de algemene beginselen volgens de criteria van bijlage VI van deze richtlijn.<br>
-<br>
-De overeenkomstig voornoemde richtlijn vastgestelde lijst en criteria en de later nog komende aanpassingen worden tegen kostprijs ter beschikking gesteld door de afdeling, bevoegd voor veiligheidsrapportering.<br>
-<br>
-Deze administratie is ermee belast elke aanpassing bij uittreksel bekend te maken in het Belgisch Staatsblad onder de volgende vorm:<br>
-<br>
-VLAREM I, BIJLAGE 7, DEEL II, E, LIJST VAN DE INGEDEELDE GEVAARLIJKE STOFFEN<br>
-<br>
-Ingevolge de wijziging van de richtlijn 67/548/EEG dd. 27 juni 1967 door richtlijn …. (Pb ….), wijzigt de bijlage 7, Deel II, E van titel I van het Vlarem van rechtswege vanaf de eerste dag van de maand volgend op onderhavige publikatie. De gewijzigde lijst en/of de aanvulling worden ter beschikking gesteld door de afdeling, bevoegd voor veiligheidsrapportering(volgt het adres en het telefoonnummer en faxnummer)<br>
-<br>
-De aanpassing geldt vanaf de eerste dag van de maand volgend op deze bekendmaking.<br>
-<br>
-<br>
-DEEL III: ...
+<p>...</p>
 
 ## BIJLAGE 8
 
