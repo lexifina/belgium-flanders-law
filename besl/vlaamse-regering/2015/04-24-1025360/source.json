@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025360,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-24 houdende de toekenning van de subsidies voor 2015 aan de levensbeschouwelijke verenigingen die erkend zijn om televisieprogramma's op de VRT te verzorgen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025360/VolledigDocument?datum=2015-06-01",
+  "source_sha256": "6f29b3a60725ebe519f43bd1f7278e35cacbdb146545a03ec2f29d06906f4eb8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025360&param=informatie",
+  "as_of": "2015-06-01",
+  "made": "2015-04-24",
+  "gazette": "2015-05-22",
+  "numac": 2015035619,
+  "document_start": "2015-06-01",
+  "document_end": null,
+  "in_force": "2015-06-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
