@@ -118,7 +118,23 @@ In   dezelfde codex worden de artikelen 173, 174, 175 en 176 vernummerd tot de  
 
 ## Afdeling I Decreet betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs
 
+### ART. V.2.
+
+In   artikel 21, § 5, van hetzelfde decreet, vervangen door de decreten van 14   februari 2003 en 2 juli 2008 en gewijzigd bij het decreet van 15 juni 2007,   wordt de zinsnede "uiterlijk op 31 augustus van het schooljaar waarin hij het   recht inroept" overal vervangen door de zinsnede "uiterlijk op 1 september van   het schooljaar waarin hij het recht wil laten gelden".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. V.3.
+
+In   artikel 21bis, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 18 mei   1999 en vervangen bij de decreten van 14 februari 2003 en 4 juli 2008, wordt de   zinsnede "uiterlijk op 31 augustus van het schooljaar waarin hij het recht   inroept" overal vervangen door de zinsnede "uiterlijk op 1 september van het   schooljaar waarin hij het recht wil laten gelden".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling II Decreet betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding
+
+### ART. V.11.
+
+&nbsp;In artikel 23, § 5, van hetzelfde   decreet, vervangen door de decreten van 14 februari 2003 en 2 juli 2008 en   gewijzigd bij het decreet van 15 juni 2007, wordt de zinsnede "uiterlijk op 31   augustus van het schooljaar waarin hij het recht inroept" overal vervangen door   de zinsnede "uiterlijk op 1 september van het schooljaar waarin hij het recht   wil laten gelden".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. V.12.
+
+In   artikel 23bis, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 14 juni   1998 en vervangen bij de decreten van 14 februari 2003 en 4 juli 2008, wordt de   zinsnede "uiterlijk op 31 augustus van het schooljaar waarin hij het recht   inroept" overal vervangen door de zinsnede "uiterlijk op 1 september van het   schooljaar waarin hij het recht wil laten gelden".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling III Decreet van 9 april 1992 betreffende het onderwijs-III
 
