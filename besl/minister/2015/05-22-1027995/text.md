@@ -28,3 +28,15 @@ Besluit :
 
 In artikel 2 van het ministerieel besluit van 14 mei 2008 houdende vaststelling van de bijkomende of specifieke opdrachten bij de diensten van de Vlaamse overheid, gewijzigd bij de ministeriële besluiten van 16 januari 2009 en 2 mei 2013, wordt een paragraaf 1/1 ingevoegd, die luidt als volgt:<br>
 " § 1/1. Voor de contractuele betrekkingen van het instructie en technisch omkaderingspersoneel van de Vlaamse Dienst voor Arbeidsbemiddeling, vermeld in bijlage 1 bij dit besluit geldt de geldelijke regeling, zoals bepaald in bijlage 1 en 2 bij het besluit van de Vlaamse Regering van 9 mei 2014 houdende de agentschapspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.".
+
+### ART 2.
+
+Bijlage 1 bij hetzelfde besluit, vervangen bij het ministerieel besluit van 2 mei 2013, wordt vervangen door de bijlage die bij dit besluit is gevoegd.
+
+### ART 3.
+
+Dit besluit treedt in werking op de eerste dag van de maand die volgt op de datum van goedkeuring ervan, met uitzondering van artikel 1 en de kwalificatie als bijkomende of specifieke opdracht van de betrekkingen van het instructie- en technisch omkaderingspersoneel van de Vlaamse Dienst voor Arbeidsbemiddeling dat uitwerking heeft met ingang van 1 januari 2015.
+
+### BIJLAGE
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2017/03/09_1.pdf#page=124">http://www.ejustice.just.fgov.be/mopdf/2017/03/09_1.pdf#page=124</a>
