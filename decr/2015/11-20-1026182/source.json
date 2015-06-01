@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026182,
+  "title": "Decreet van 2015-11-20 tot wijziging van het Cultureel-erfgoeddecreet van 6 juli 2012 en het decreet van 20 december 2013 betreffende de Cultuurprijzen van de Vlaamse Gemeenschap",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026182/VolledigDocument?datum=2015-06-01",
+  "source_sha256": "6b4f913d6fedb1151c06aea7227f2bee291fbdb3c691ef8abc660bb57c6dd9ea",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026182&param=informatie",
+  "as_of": "2015-06-01",
+  "made": "2015-11-20",
+  "gazette": "2015-12-09",
+  "numac": 2015036507,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2015-06-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2015-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
