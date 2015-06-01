@@ -2,16 +2,16 @@
   "codex_id": 1000387,
   "title": "Decreet van 1991-03-27 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs (citeeropschrift: \"decreet rechtspositie personeelsleden gemeenschapsonderwijs\")",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000387/VolledigDocument?datum=2015-05-01",
-  "source_sha256": "45a5e9c97e7860acd14a7f67e54b1fdbe6d2e7093a9a3088376f85c8ec87691e",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000387/VolledigDocument?datum=2015-06-01",
+  "source_sha256": "a59f847da4324f715c623be05ff00df4f27017c79f17e80942f0816dd2f82c6f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000387&param=informatie",
-  "as_of": "2015-05-01",
+  "as_of": "2015-06-01",
   "made": "1991-03-27",
   "gazette": "1991-05-25",
   "numac": 1991035535,
   "document_start": "1991-04-01",
   "document_end": null,
-  "in_force": "2015-05-01",
+  "in_force": "2015-06-01",
   "article_versions": 235,
-  "record_form": "consolidated version as in force on 2015-05-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-06-01; future article versions excluded; article text as the API gives it"
 }
