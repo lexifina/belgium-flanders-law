@@ -44,1871 +44,1055 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<strong>1) BELEIDSDOMEIN KANSELARIJ EN BESTUUR</strong>
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:104.2pt">
-			<p>Verloning</p>
-			</td>
+			<td style="width:203px">&nbsp;</td>
+			<td style="width:279px"><strong>B/S-opdrachten</strong></td>
+			<td style="width:122px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>1.1 Departement Bestuurszaken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>opdrachthoud(st)er voor emancipatiezaken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>A214</p>
-			</td>
+			<td style="width:203px">&nbsp;1.1. Departement Kanselarij en Bestuur</td>
+			<td style="width:279px">Vlaamse bouwmeester</td>
+			<td style="width:122px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>Vlaams bouwmeester</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:203px">&nbsp;1.2. Agentschap Overheidspersoneel</td>
+			<td style="width:279px">Vlaams diversiteitsambtenaar</td>
+			<td style="width:122px">A214</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">IT-adviseur e-IB</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">A286</td>
+			<td colspan="1" rowspan="9" style="width:203px">1.3. Agentschap Facilitair Bedrijf</td>
+			<td style="width:279px">Schoonmaakpersoneel (uitvoerende functie</td>
+			<td style="width:122px">D111</td>
 		</tr>
 		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>1.2 Agentschap voor Facilitair Management</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>schoonmaakpersoneel (uitvoerende functie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>D111</p>
-			</td>
+			<td style="width:279px">Schoonmaakpersoneel werf- en sectorverantwoordelijke</td>
+			<td style="width:122px">D211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>schoonmaakpersoneel werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>D211</p>
-			</td>
+			<td style="width:279px">Backup werf- en sectorverantwoordelijken schoonmaak</td>
+			<td style="width:122px">D112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>backup werf- en sectorverantwoordelijken schoonmaak</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>D112</p>
-			</td>
+			<td style="width:279px">Cateringpersoneel (keukenhulp)</td>
+			<td style="width:122px">D111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>cateringpersoneel&nbsp; (keukenhulp)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>D111</p>
-			</td>
+			<td style="width:279px">Cateringpersoneel (kok)</td>
+			<td style="width:122px">D132</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>cateringpersoneel (kok)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>D132</p>
-			</td>
+			<td style="width:279px">Cateringpersoneel (back up chef catering grote keuken)</td>
+			<td style="width:122px">C111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>cateringpersoneel (chef catering)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>C121</p>
-			</td>
+			<td style="width:279px">Cateringpersoneel (chef catering kleine keuken)</td>
+			<td style="width:122px">C123</td>
+		</tr>
+		<tr>
+			<td style="width:279px">Cateringpersoneel (chef catering middelgrote keuken)</td>
+			<td style="width:122px">C211</td>
+		</tr>
+		<tr>
+			<td style="width:279px">Cateringpersoneel (chef catering grote keuken)</td>
+			<td style="width:122px">C221</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:225pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:104.2pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>2.1 Departement Financiën en Begroting</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>programma-manager financieel hervormingstraject</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>projectmanager Vlaams Fiscaal Platform</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>2.2 Vlaamse Belastingdienst</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:225pt">
-			<p>projectmanager migratie gewestbelastingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:104.2pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>3.1 Departement Internationaal Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>ondersteunend personeel van de vertegenwoordigers van de Vlaamse regering in het buitenland</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="12" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>3.2 Vlaams Agentschap voor Internationaal Ondernemen</p>
-			</td>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>Vlaams economisch vertegenwoordiger A1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 12 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A113</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 9 jaar effectieve of daarmee gelijkgestelde prestaties in de derde salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A114</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>Vlaams economisch vertegenwoordiger A2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A212</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>handelssecretaris Belgische en lokale nationaliteit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>geldelijke regeling vastgesteld door het hoofd van de entiteit</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>buitenlands ondersteunend personeelslid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adviseur exportvaardigheid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cöordinator marketing en kennisbeheer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>technologisch attaché</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A212</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="22" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>3.3 Toerisme Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>chauffeur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>directeur buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior persverantwoordelijke buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior verantwoordelijke reisindustrie buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior MICE-verantwoordelijke buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior MICE-verantwoordelijke buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior verantwoordelijke reisindustrie buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior persverantwoordelijke buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>verantwoordelijke administratie van het buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B211 of B111 of C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior assistent reisindustrie buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior persassistent buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>senior MICE-assistent buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior MICE-assistent buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior persassistent buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>junior assistent reisindustrie buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>consumenteninfo buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111 of C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>baliebediende buitenlandkantoor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>inhoudelijk administratief medewerker vzw Info Toerisme (uitdovend stelsel)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111 of B111 of C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>inhoudelijk logistiek medewerker vzw Info Toerisme (uitdovend stelsel)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>baliemedewerker vzw Info Toerisme (uitdovend stelsel)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111 of C111 of D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>PPS-expert</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>3.4 Vlaams Agentschap voor Internationale Samenwerking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adjunct van de directeur buitenland</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>ondersteunend personeel van de vertegenwoordigers in het buitenland die belast zijn met de uitvoering van het Vlaams beleid inzake internationale&nbsp;samenwerking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B111</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>4.1 Departement Onderwijs en Vorming</p>
-			</td>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adjunct van de directeur bij de afdeling strategische beleidsondersteuning</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A113</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>4.2 Agentschap voor Infrastructuur in het Onderwijs</p>
-			</td>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adjunct van de directeur</p>
-
-			<p>(informatieambtenaar)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A113</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaak- en cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>4.3 Agentschap voor Onderwijscommunicatie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>hoofdredacteur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A214</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>redacteur</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>5.1 Kind en Gezin</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>provinciaal adviserend arts</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>A121 P</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A122 P</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>restaurantpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>IT manager</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A221</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>marketing en PR verantwoordelijke K&amp;G academie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>de contractuele betrekkingen van gezinsondersteuner</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>zonder diploma niveau C</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>met diploma niveau C</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>C111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na opleiding overeenkomstig functie profiel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D121</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>5.2 Vlaams Agentschap voor Personen met een Handicap</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>chauffeur beheer en directie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D232</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">5.3 Zorg en Gezondheid</td>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
-			<p>B111</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 8 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B112</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 10 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B211</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">5.4 OPZ Rekem</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">project coördinator Forensich kenniscentrum (KeFor)</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
-			<p>A285</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">wetenschappelijk medewerker senior&nbsp;Forensich kenniscentrum (KeFor)</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
-			<p>A211</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>wetenschappelijk medewerker junior&nbsp; Forensich kenniscentrum (KeFor)</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:228.75pt">
-			<p>A111</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>6.1 Departement Cultuur, jeugd, Sport en Media</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cultuurprogrammator VCC De Brakke Grond</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A112</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="11" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>6.2 Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>boekhouder afdeling Financiën en Begroting</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>expert sportinfrastructuur afdeling Infrastructuur en Logistiek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>landschapsexpert Infrastructuur en Logistiek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>B111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>specialist ruiterij</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>C121</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>specialist topsporthal Gent</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>redder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>C121</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>assistent redder</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D121</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">assistent kok</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D131</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">kok</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">C121</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:67pt; vertical-align:top; width:174.2pt">
-			<p>occasioneel medewerker met&nbsp;sporttechnische, sportpedagogische of sportorganisatorische kwalificatie afdelingen Sportkader-opleiding, Sportpromotie en Inspectie en Bloso-centra</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:67pt; vertical-align:top; width:153pt">
-			<p>verloning overeenkomstig de assimilatietabel als bijlage 3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; height:67pt; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>6.3 Sociaal-Cultureel Werk voor jeugd en Volwassenen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">6.4 KMSKA</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">beeldbeheerder</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">C211</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">6.5 Agentschap Kunsten en Erfgoed</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">schoonmaak- en cateringpersoneel</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-### BIJLAGE
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:207pt">
-			<p>Verloning</p>
-			</td>
-		</tr>
-		<tr>
-			<td rowspan="9" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
-			<p>7.1 Departement Werk en Sociale Economie</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>directeur stuurgroep strategisch arbeidsmarktbeleid</p>
-			</td>
-			<td style="background-color:transparent; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>directeur subregionaal arbeidsmarktbeleid</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>adjunct van de directeur opvolging VESOC-actieplannen</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>adjunct van de directeur Europees Sociaal Fonds</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>adjunct van de directeur hefboomkredieten</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>deskundige subregionaal arbeidsmarktbeleid</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>B111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>medewerker opvolging VESOC-actieplannen</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>medewerker Europees Sociaal Fonds</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>medewerker hefboomkredieten</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
-			<p>7.2 Vlaams Agentschap voor Ondernemersvorming – Syntra Vlaanderen</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0 #f0f0f0; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext #f0f0f0 #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="1" rowspan="17" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:131.4pt">
-			<p>7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>schoonmaak- en bediening in restaurants</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext #f0f0f0; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
-			<p>C111</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>opdrachthoud(st)er diversiteit - emancipatie</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">
-			<p>ICT-manager</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" rowspan="1" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; text-align:center; width:174.2pt">Instructie- en technisch omkaderingspersoneel</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch directeur-coördinator</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A271ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch directeur</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A261ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Technisch-pedagogisch adjunct van de directeur</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A161ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Instructeur</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">B161ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Occasionele lesgever</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">B151occ</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Directeur (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A280ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Auditor (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A260ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Hoofdmagazijnier, gereedschapsmaker (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D144to</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Geschoold onderhoudsarbeider (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D143to</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Snijder, magazijnier (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D142to</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Handlanger (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">D141to</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:174.2pt">Directeur (uitdovend)</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 #f0f0f0 windowtext; width:153pt">A280ip</td>
-			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:54pt">&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
+&nbsp;<br>
 &nbsp;
 
-<p>&nbsp;</p>
-
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<strong>2) BELEIDSDOMEIN FINANCIEN EN BEGROTING</strong>
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:131.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
+			<td style="width: 201px;">&nbsp;</td>
+			<td style="width: 280px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 122px;"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:131.4pt">
-			<p>Instituut voor Landbouw en Visserijonderzoek</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width: 201px;" rowspan="2" colspan="1">2.1. Departement Financiën en Begroting</td>
+			<td style="width: 280px;">Programma-manager financieel hervormingstraject</td>
+			<td style="width: 122px;">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width: 280px;">Projectmanager Vlaams Fiscaal Platform</td>
+			<td style="width: 122px;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 201px;">2.2. Vlaamse Belastingdienst</td>
+			<td style="width: 280px;">Projectmanager migratie gewestbelastingen</td>
+			<td style="width: 122px;">&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+&nbsp;<br>
+&nbsp;
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<strong>3) BELEIDSDOMEIN INTERNATIONAAL VLAANDEREN</strong>
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:136.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
+			<td style="width:180px">&nbsp;</td>
+			<td style="width:246px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="3" style="width:155px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.1 Departement Leefmilieu, Natuur en Energie</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
+			<td colspan="1" rowspan="3" style="width:180px">3.1. Departement Internationaal Vlaanderen<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:246px">Ondersteunend personeel van de vertegenwoordigers van de Vlaamse regering in het buitenland</td>
+			<td colspan="3" style="width:155px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
+			<td style="width:246px">Adjunct van de directeur buitenland</td>
+			<td colspan="3" style="width:155px">A112</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D132</p>
-			</td>
+			<td style="width:246px">Ondersteunend personeel van de vertegenwoordigers in het buitenland die belat zijn met de uitvoering van het Vlaams beleid inzake internationale samenwerking</td>
+			<td colspan="3" style="width:155px">B111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>keukenpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
+			<td colspan="1" rowspan="12" style="width:180px">3.2. Vlaams Agentschap voor Internationaal Ondernemen<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="1" rowspan="4" style="width:246px">Vlaams economisch vertegenwoordiger A1<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="2" style="width:96px">&nbsp;</td>
+			<td style="width:59px">A111</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.2 Instituut voor Natuur- en Bosonderzoek</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td colspan="2" style="width:96px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:59px">A112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+			<td colspan="2" style="width:96px">Na 12 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td style="width:59px">A113</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.3 Vlaamse Landmaatschappij</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaak- en cateringpersoneel (uitvoerende functie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">D111</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td colspan="2" style="width:96px">Na 9 jaar effectieve of daarmee gelijkgestelde prestaties in de derde salarisschaal</td>
+			<td style="width:59px">A114</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.4 Vlaamse Milieumaatschappij</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
+			<td colspan="1" rowspan="2" style="width:246px">Vlaams economisch vertegenwoordiger A2<br>
+			&nbsp;</td>
+			<td colspan="2" style="width:96px">&nbsp;</td>
+			<td style="width:59px">A211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
+			<td colspan="2" style="width:96px">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:59px">A212</td>
 		</tr>
 		<tr>
-			<td rowspan="9" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>9.5 Vlaamse Regulator van de Electriciteits- en Gasmarkt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>directeur organisatie en beleidsondersteuning</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A224</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:246px">Handelssecretaris Belgische en lokale nationaliteit</td>
+			<td colspan="3" style="width:155px">Geldelijke regeling vastgesteld door het hoofd van de entiteit</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>directeur netbeheer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A224</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:246px">Buitenlands ondersteunen personeelslid</td>
+			<td colspan="3" style="width:155px">&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>directeur marktwerking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A224</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:246px">Adviseur exportvaardigheid</td>
+			<td colspan="3" style="width:155px">A211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>toezichthouder netbeheer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A255</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:246px">Coördinator marketing en kennisbeheer</td>
+			<td colspan="3" style="width:155px">A211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>toezichthouder marktwerking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A255</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td colspan="1" rowspan="2" style="width:246px">Technologisch attaché<br>
+			&nbsp;</td>
+			<td style="width:77px">&nbsp;</td>
+			<td colspan="2" style="width:78px">A211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>toezichthouder groene stroom en WKK</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A255</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:77px">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td colspan="2" style="width:78px">A212</td>
 		</tr>
 		<tr>
-			<td rowspan="3" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>celhoofd personeel en financiën</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B101</p>
-			</td>
+			<td colspan="1" rowspan="23" style="width:180px">3.3 Toerisme Vlaanderen<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:246px">Schoonmaakpersoneel</td>
+			<td colspan="3" style="width:155px">D111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 10 jaar prestatie in B101</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B102</p>
-			</td>
+			<td style="width:246px">Chauffeur</td>
+			<td colspan="3" style="width:155px">D111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 4 jaar effectieve of daarmee gelijkgestelde prestaties in B102, bij beslissing van de gedelegeerd bestuurder na advies van de directieraad</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B103</p>
-			</td>
+			<td style="width:246px">Directeur buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A112</td>
 		</tr>
 		<tr>
-			<td rowspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top">
-			<p>9.7 Vlaams Energie Agentschap</p>
-			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>uitvoerende functie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
+			<td style="width:246px">Senior persverantwoordelijke buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>werf- en sectorverantwoordelijke</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D211</p>
-			</td>
+			<td style="width:246px">Senior verantwoordelijke reisindustrie buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A112</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>cateringpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>kok</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D132</p>
-			</td>
+			<td style="width:246px">Senior MICE-verantwoordelijke buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>keukenpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>D111</p>
-			</td>
+			<td style="width:246px">Junior MICE-verantwoordelijke buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Junior verantwoordelijke reisindustrie buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Junior persverantwoordelijke buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">A111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Verantwoordelijke administratie van het buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B211 of B111 of C111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Senior assistent reisindustrie buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B211</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Senior persassistent buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B211</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Senior MICE-assistent buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B211</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Junior MICE-assistent buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Junior persassistent buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Junior assistent reisindustrie buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Consumenteninfo buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">B111 of C111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Baliebediende buitenlandkantoor</td>
+			<td colspan="3" style="width:155px">C111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Inhoudelijk administratief medewerker vzw Info toerisme (uitdovend stelsel)</td>
+			<td colspan="3" style="width:155px">A111 of B111 of C111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Inhoudelijk logistiek medewerker vzw Info Toerisme (uitdovend stelsel)</td>
+			<td colspan="3" style="width:155px">C111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">Baliemedewerker vzw Info Toerisme (uitdovend stelsel)</td>
+			<td colspan="3" style="width:155px">B111 of C111 of D111</td>
+		</tr>
+		<tr>
+			<td style="width:246px">PPS-expert</td>
+			<td colspan="3" style="width:155px">A211</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<strong>4) BELEIDSDOMEIN ONDERWIJS EN VORMING</strong>
+<table border="1" cellpadding="0" cellspacing="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:136.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
+			<td style="width:192px">&nbsp;</td>
+			<td style="width:196px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="2" style="width:191px"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="5" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>10.1 Departement Mobiliteit en Openbare Werken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel luchthavens (uitvoerende functie)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td colspan="1" rowspan="5" style="width:192px">4.1 Departement Onderwijs en Vorming<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="1" rowspan="3" style="width:196px">Adjunct van de directeur bij de afdeling strategische beleidsondersteuning<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:96px">&nbsp;</td>
+			<td style="width:95px">A111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaakpersoneel luchthavens (werf- en sectorverantwoordelijke)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>D211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:96px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:95px">A112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>gewestelijk havencommissaris</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A311</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:96px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td style="width:95px">A113</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>adviseur afdeling Mobiliteit en Verkeersveiligheid</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A211</p>
-			</td>
+			<td style="width:196px">Hoofdredacteur</td>
+			<td colspan="2" style="width:191px">A212</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>A252</p>
-			</td>
+			<td style="width:196px">Redacteur</td>
+			<td colspan="2" style="width:191px">A211</td>
 		</tr>
 		<tr>
-			<td rowspan="8" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>10.2 Waterwegen en Zeekanaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaak- en restaurantpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td colspan="1" rowspan="4" style="width:192px">4.2 Agentschap voor Infrastructuur in het Onderwijs<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="1" rowspan="3" style="width:196px">Adjunct van de directeur (informatieambtenaar)<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:96px">&nbsp;</td>
+			<td style="width:95px">A111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>commercieel medewerker (A2)afdeling commercieel beheer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:96px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:95px">A112</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>strategisch planner</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:windowtext 1pt solid; vertical-align:top; width:153pt">
-			<p>A111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:96px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td style="width:95px">A113</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>financieel expert (A2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>ICT-manager (A2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A221</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>regieverantwoordelijke (A2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>A211</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>conciërge (D1)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>grondspecialist technische dienst (B1)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>B111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width:196px">Schoonmaak- en cateringpersoneel</td>
+			<td colspan="2" style="width:191px">D111</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;
 
 ### BIJLAGE
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<strong>5) BELEIDSDOMEIN WLEZIJN, VOLKSGEZONDHEID EN GEZIN</strong>
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:136.8pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:174.2pt">
-			<p>B/S-opdrachten</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:207pt">
-			<p>Verloning</p>
-			</td>
+			<td style="width: 185px;">&nbsp;</td>
+			<td style="width: 191px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 204px;" colspan="2"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">
-			<p>11.1Vlaamse Maatschappij voor Sociaal Wonen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">
-			<p>schoonmaak- en restaurantpersoneel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>D111</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>&nbsp;</p>
-			</td>
+			<td style="width: 185px;" rowspan="8" colspan="1">5.1 Kind en Gezin<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 191px;" rowspan="2" colspan="1">Provinciaal adviserend arts<br>
+			&nbsp;</td>
+			<td style="width: 111px;">&nbsp;</td>
+			<td style="width: 94px;">A121P</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">algemeen coördinator SVK-ondersteuning (uitdovend)</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">A112</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+			<td style="width: 111px;">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties</td>
+			<td style="width: 94px;">A122P</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">stafmedewerker</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">B114</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">&nbsp;</td>
+			<td style="width: 191px;">Restaurantpersoneel</td>
+			<td style="width: 204px;" colspan="2">D111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">na 14 jaar geldelijke anciënniteit</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">B222</td>
+			<td style="width: 191px;">IT manager</td>
+			<td style="width: 204px;" colspan="2">A221</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">SVK-sectorcoördinator (uitdovend)</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">
-			<p>organiek</p>
-
-			<p>in overgang</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">
-			<p>B311</p>
-
-			<p>A111</p>
-			</td>
+			<td style="width: 191px;">Marketing en PR verantwoordelijke K&amp;G academie</td>
+			<td style="width: 204px;" colspan="2">A211</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">na 23 jaar geldelijke anciënniteit</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">A112</td>
+			<td style="width: 191px;" rowspan="3" colspan="1">De contractuele betrekkingen van gezinsondersteuner<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 111px;">Zonder diploma niveau C</td>
+			<td style="width: 94px;">D111</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.8pt">11.2 Agentschap Wonen Vlaanderen</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:174.2pt">stafmedewerker Woonkwaliteit (uitdovend)</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">&nbsp;</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">B114</td>
+			<td style="width: 111px;">Met diploma niveau C</td>
+			<td style="width: 94px;">C111</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; vertical-align:top; width:153pt">na&nbsp;14 jaar geldelijke anciënniteit</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:54pt">B222</td>
+			<td style="width: 111px;">Na opleiding overeenkomstig functie profiel</td>
+			<td style="width: 94px;">D121</td>
+		</tr>
+		<tr>
+			<td style="width: 185px;">5.2 Vlaams Agentschap voor Personen met een Handicap</td>
+			<td style="width: 191px;">Chauffeur beheer en directie</td>
+			<td style="width: 204px;" colspan="2">D232</td>
+		</tr>
+		<tr>
+			<td style="width: 185px;" rowspan="3" colspan="1">&nbsp;5.3. Zorg en Gezondheid<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 191px;" rowspan="3" colspan="1">Deskundige (gezondheidswerker of verpleegkundige – VRGT-taken)<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 204px;" colspan="2">B111</td>
+		</tr>
+		<tr>
+			<td style="width: 111px;">Na 8 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width: 94px;">B112</td>
+		</tr>
+		<tr>
+			<td style="width: 111px;">Na 10 jaar effectieve of daarmee gelijkgestelde prestaties in de tweede salarisschaal</td>
+			<td style="width: 94px;">B211</td>
+		</tr>
+		<tr>
+			<td style="width: 185px;" rowspan="3" colspan="1">5.4 OPZ Rekem<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 191px;">Project coördinator forensisch Kenniscentrum (KeFor)</td>
+			<td style="width: 204px;" colspan="2">A285</td>
+		</tr>
+		<tr>
+			<td style="width: 191px;">Wetenschappelijk medewerker senior Forensisch kenniscentrum (KeFor)</td>
+			<td style="width: 204px;" colspan="2">A211</td>
+		</tr>
+		<tr>
+			<td style="width: 191px;">Wetenschappelijk medewerker junior Forensisch kenniscentrum (KeFor)</td>
+			<td style="width: 204px;" colspan="2">A111</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;
 
 ### BIJLAGE
 
-<table style="width: 100%;" border="1" cellspacing="2" cellpadding="1">
+<strong>6) BELEIDSDOMEIN CULTUUR, JEUGD, SPORT EN MEDIA</strong>
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td>&nbsp;</td>
-			<td>
-			<p>B/S-opdrachten</p>
-			</td>
-			<td>
-			<p>Verloning</p>
-			</td>
+			<td style="width: 191px;">&nbsp;</td>
+			<td style="width: 276px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 113px;"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td rowspan="3">12.1. Agentschap voor Innovatie door Wetenschap en Technologie</td>
-			<td>wetenschappelijk adviseur (uitdovend)</td>
-			<td>
-			<p>A282</p>
-			</td>
+			<td style="width: 191px;" rowspan="3" colspan="1">6.1 Departement Cultuur, jeugd, Sport en Media<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 276px;">Cultuurprogrammator VCC De Brakke Grond</td>
+			<td style="width: 113px;">A112</td>
 		</tr>
 		<tr>
-			<td>directeur financiën en logistiek (uitdovend)</td>
-			<td>
-			<p>A212</p>
-			</td>
+			<td style="width: 276px;">Beeldbeheerder</td>
+			<td style="width: 113px;">C211</td>
 		</tr>
 		<tr>
-			<td>directeur personeel en juridische zaken (uitdovend)</td>
-			<td>
-			<p>A212</p>
-			</td>
+			<td style="width: 276px;">Schoonmaak en cateringpersoneel</td>
+			<td style="width: 113px;">D111</td>
 		</tr>
 		<tr>
-			<td>12.2 Agentschap Plantentuin Meise</td>
-			<td>Schoonmaak- en cateringpersoneel</td>
-			<td>D111</td>
+			<td style="width: 191px;" rowspan="11" colspan="1">6.2 Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 276px;">Boekhouder afdeling financiën en Begroting</td>
+			<td style="width: 113px;">A111</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Expert sportinfrastructuur afdeling Infrastructuur en Logistiek</td>
+			<td style="width: 113px;">A111</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Landschapsexpert Infrastructuur en Logistiek</td>
+			<td style="width: 113px;">B111</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Specialist ruiterij</td>
+			<td style="width: 113px;">C121</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Specialist topsporthal Gent</td>
+			<td style="width: 113px;">C111</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Redder</td>
+			<td style="width: 113px;">C121</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Assistent redder</td>
+			<td style="width: 113px;">D121</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Assistent kok</td>
+			<td style="width: 113px;">D131</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Kok</td>
+			<td style="width: 113px;">C121</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Schoonmaak- en cateringpersoneel</td>
+			<td style="width: 113px;">D111</td>
+		</tr>
+		<tr>
+			<td style="width: 276px;">Occasioneel medewerker met sporttechnische, sportpedagogische of sportorganisatorische kwalificatie afdelingen Sportkader-opleiding, Sportpromotie en Inspectie en Bloso-centra</td>
+			<td style="width: 113px;">Verloning overeenkomstig de assimilatietabel als bijlage 3</td>
 		</tr>
 	</tbody>
 </table>
 
 ### BIJLAGE
 
-<TABLE border=1 cellSpacing=2 cellPadding=1 width="100%" cols=3>    <TBODY>    <TR>      <TD></TD>      <TD>B/S-opdrachten</TD>      <TD>        <P align=center>Verloning</P></TD></TR>    <TR>      <TD>Administratieve diensten van het Gemeenschapsonderwijs</TD>      <TD>schoonmaak- en restaurantpersoneel</TD>      <TD>        <P align=center>D111</P></TD></TR></TBODY></TABLE>
+<strong>7) BELEIDSDOMEIN WERK EN SOCIALE ECONOMIE</strong>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 191px;">&nbsp;</td>
+			<td style="width: 267px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 122px;"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 191px;" rowspan="9" colspan="1">7.1 Departement Werk en Sociale Economie<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 267px;">Directeur stuurgroep strategisch arbeidsmarktbeleid</td>
+			<td style="width: 122px;">A211</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Directeur subregionaal arbeidsmarktbeleid</td>
+			<td style="width: 122px;">A211</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Adjunct van de directeur opvolging VESOC-actieplannen</td>
+			<td style="width: 122px;">A111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Adjunct van de directeur Europees Sociaal Fonds</td>
+			<td style="width: 122px;">A111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Adjunct van de directeur hefboomkredieten</td>
+			<td style="width: 122px;">A111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Deskundige subregionaal arbeidsmarktbeleid</td>
+			<td style="width: 122px;">B111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Medewerker opvolging VESOC-actieplannen</td>
+			<td style="width: 122px;">C111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Medewerker Europees Sociaal Fonds</td>
+			<td style="width: 122px;">C111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Medewerker hefboomkredieten</td>
+			<td style="width: 122px;">C111</td>
+		</tr>
+		<tr>
+			<td style="width: 191px;">7.2 Vlaams Agentschap voor Ondernemersvorming – Syntra Vlaanderen</td>
+			<td style="width: 267px;">Schoonmaakpersoneel</td>
+			<td style="width: 122px;">D111</td>
+		</tr>
+		<tr>
+			<td style="width: 191px;" rowspan="17" colspan="1">7.3 Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 267px;">Schoonmaak- een bediening in restaurants</td>
+			<td style="width: 122px;">D111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Kok</td>
+			<td style="width: 122px;">C111</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Opdrachthoud(st)er diversiteit – emancipatie</td>
+			<td style="width: 122px;">A211</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">ICT-manager</td>
+			<td style="width: 122px;">&nbsp;</td>
+		</tr>
+		<tr>
+			<td style="width: 389px; text-align: center;" colspan="2">Instructie- en technisch omkaderingspersoneel</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Technisch-pedagogisch directeur-coördinator</td>
+			<td style="width: 122px;">A271ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Technisch-pedagogisch directeur</td>
+			<td style="width: 122px;">A261ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Technisch-pedagogisch adjunct van de directeur</td>
+			<td style="width: 122px;">A161ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Instructeur</td>
+			<td style="width: 122px;">B161ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Occasionele lesgever</td>
+			<td style="width: 122px;">B151occ</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Directeur (uitdovend)</td>
+			<td style="width: 122px;">A280ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Auditor (uitdovend)</td>
+			<td style="width: 122px;">A260ip</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Hoofdmagazijnier, gereedschapsmaker (uitdovend)</td>
+			<td style="width: 122px;">D144to</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Geschoold onderhoudsarbeider (uitdovend)</td>
+			<td style="width: 122px;">D143to</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Snijder, magazijnier (uitdovend)</td>
+			<td style="width: 122px;">D142to</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Handlanger (uitdovend)</td>
+			<td style="width: 122px;">D141to</td>
+		</tr>
+		<tr>
+			<td style="width: 267px;">Directeur (uitdovend)</td>
+			<td style="width: 122px;">A280ip</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+<br>
+&nbsp;<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>8) BELEIDSDOMEIN LANDBOUW EN VISSERIJ</strong>
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:191px">&nbsp;</td>
+			<td style="width:276px"><strong>B/S-opdrachten</strong></td>
+			<td style="width:113px"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="width:191px">Instituut voor Landbouw en Visserijonderzoek<br>
+			&nbsp;</td>
+			<td style="width:276px">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
+			<td style="width:113px">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
+		</tr>
+		<tr>
+			<td style="width:276px">Schoonmaakpersoneel</td>
+			<td style="width:113px">D111</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>9) BELEIDSDOMEIN LEEFMILIEU, NATUUR EN ENERGIE</strong>
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:135px">&nbsp;</td>
+			<td style="width:163px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="2" style="text-align:center; width:283px"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="4" style="width:135px">9.1 Agentschap voor Natuur en Bos<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
+			&nbsp;</td>
+			<td style="width:160px">Uitvoerende functie</td>
+			<td style="width:123px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
+			<td style="width:123px">D211</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="width:163px">Cateringpersoneel<br>
+			&nbsp;</td>
+			<td style="width:160px">Kok</td>
+			<td style="width:123px">D132</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Keukenpersoneel</td>
+			<td style="width:123px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:135px">9.2 Instituut voor Natuur- en Bosonderzoek</td>
+			<td style="width:163px">Gespecialiseerde betrekkingen uitgeoefend door het wetenschappelijk personeel voor de uitvoering van onderzoeksprogramma’s</td>
+			<td colspan="2" style="width:283px">A165, tenzij voldaan is aan de voorwaarden vermeld in artikel VI109, § 2 van het Vlaams personeelsstatuut van 13.01.2006</td>
+		</tr>
+		<tr>
+			<td style="width:135px">9.3 Vlaamse Landmaatschappij</td>
+			<td style="width:163px">Schoonmaak- en cateringpersoneel (uitvoerende functie)</td>
+			<td colspan="2" style="width:283px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:135px">9.4 Vlaamse Milieumaatschappij</td>
+			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
+			&nbsp;</td>
+			<td style="width:160px">Uitvoerende functie</td>
+			<td style="width:123px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:135px">&nbsp;</td>
+			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
+			<td style="width:123px">D211</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="9" style="width:135px">9.5 Vlaamse Regulator van de Electriciteits- en Gasmarkt<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:163px">Directeur organisatie en beleidsondersteuning</td>
+			<td colspan="2" style="width:283px">A224</td>
+		</tr>
+		<tr>
+			<td style="width:163px">Directeur netbeheer</td>
+			<td colspan="2" style="width:283px">A224</td>
+		</tr>
+		<tr>
+			<td style="width:163px">Directeur marktwerking</td>
+			<td colspan="2" style="width:283px">A224</td>
+		</tr>
+		<tr>
+			<td style="width:163px">Toezichthouder netbeheer</td>
+			<td colspan="2" style="width:283px">A255</td>
+		</tr>
+		<tr>
+			<td style="width:163px">Toezichthouder marktwerking</td>
+			<td colspan="2" style="width:283px">A255</td>
+		</tr>
+		<tr>
+			<td style="width:163px">Toezichthouder groen stroom en WKK</td>
+			<td colspan="2" style="width:283px">A255</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="3" style="width:163px">Celhoofd personeel en financiën<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:160px">&nbsp;</td>
+			<td style="width:123px">B101</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Na 10 jaar prestatie in B101</td>
+			<td style="width:123px">B102</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Na 4 jaar effectieve of daarmee gelijkgestelde prestaties in B102, bij beslissing van de gedelegeerd bestuurder na advies van de directieraad</td>
+			<td style="width:123px">B103</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="4" style="width:135px">9.6 Vlaams Energie Agentschap<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td colspan="1" rowspan="2" style="width:163px">Schoonmaakpersoneel<br>
+			&nbsp;</td>
+			<td style="width:160px">Uitvoerende functie</td>
+			<td style="width:123px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Werf- en sectorverantwoordelijke</td>
+			<td style="width:123px">D211</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="width:163px">Cateringpersoneel<br>
+			&nbsp;</td>
+			<td style="width:160px">Kok</td>
+			<td style="width:123px">D132</td>
+		</tr>
+		<tr>
+			<td style="width:160px">Keukenpersoneel</td>
+			<td style="width:123px">D111</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>10) BELEIDSDOMEIN MOBILITEIT EN OPENBARE WERKEN</strong>
+<table border="1" cellpadding="0" cellspacing="0">
+	<tbody>
+		<tr>
+			<td style="width:178px">&nbsp;</td>
+			<td style="width:242px"><strong>B/S-opdrachten</strong></td>
+			<td colspan="2" style="width:160px"><strong>verloning</strong></td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="5" style="width:178px">10.1 Departement Mobiliteit en Openbare Werken<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:242px">Schoonmaakpersoneel luchthavens (uitvoerende functie)</td>
+			<td colspan="2" style="width:160px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Schoonmaakpersoneel luchthavens (werf- en sectorverantwoordelijke)</td>
+			<td colspan="2" style="width:160px">D211</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Gewestelijk havencommissaris</td>
+			<td colspan="2" style="width:160px">A311</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="2" style="width:242px">&nbsp;<br>
+			Adviseur afdeling Mobiliteit en Verkeersveiligheid</td>
+			<td colspan="2" style="width:160px">A211</td>
+		</tr>
+		<tr>
+			<td style="width:110px">Na 6 jaar effectieve of daarmee gelijkgestelde prestaties in deze betrekking</td>
+			<td style="width:50px">A252</td>
+		</tr>
+		<tr>
+			<td colspan="1" rowspan="8" style="width:178px">10.2 Waterwegen en Zeekanaal<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width:242px">Schoonmaak- en restaurantpersoneel</td>
+			<td colspan="2" style="width:160px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Commercieel medewerker (A2) afdeling commercieel beheer</td>
+			<td colspan="2" style="width:160px">A211</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Strategisch planner</td>
+			<td colspan="2" style="width:160px">A111</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Financieel expert (A2)</td>
+			<td colspan="2" style="width:160px">A211</td>
+		</tr>
+		<tr>
+			<td style="width:242px">ICT-manager (A2)</td>
+			<td colspan="2" style="width:160px">A221</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Regieverantwoordelijke (A2)</td>
+			<td colspan="2" style="width:160px">A211</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Conciërge (D1)</td>
+			<td colspan="2" style="width:160px">D111</td>
+		</tr>
+		<tr>
+			<td style="width:242px">Grondspecialist technische dienst (B1)</td>
+			<td colspan="2" style="width:160px">B111</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>11) BELEIDSDOMEIN RUIMTELIJKE ORDENING, WONEN EN ONROEREND ERFGOED</strong>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 174px;">&nbsp;</td>
+			<td style="width: 244px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 162px;" colspan="4"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 174px;" rowspan="6" colspan="1">11.1 Vlaamse Maatschappij voor Sociaal Wonen<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;<br>
+			&nbsp;</td>
+			<td style="width: 244px;">Schoonmaak- en restaurantpersoneel</td>
+			<td style="width: 162px;" colspan="4">D111</td>
+		</tr>
+		<tr>
+			<td style="width: 244px;">Algemeen coördinator SVK-ondersteuning (uitdovend)</td>
+			<td style="width: 162px;" colspan="4">A112</td>
+		</tr>
+		<tr>
+			<td style="width: 244px;" rowspan="2" colspan="1">Stafmedewerker (uitdovend)<br>
+			&nbsp;</td>
+			<td style="width: 162px;" colspan="4">B114</td>
+		</tr>
+		<tr>
+			<td style="width: 104px;" colspan="3">Na 14 jaar geldelijke anciënniteit</td>
+			<td style="width: 58px;">B222</td>
+		</tr>
+		<tr>
+			<td style="width: 244px;" rowspan="2" colspan="1">SVK-sectorcoördinator<br>
+			&nbsp;</td>
+			<td style="width: 162px;" colspan="4">Organiek B311<br>
+			In overgang A111</td>
+		</tr>
+		<tr>
+			<td style="width: 92px;" colspan="2">Na 23 jaar geldelijke anciënniteit</td>
+			<td style="width: 70px;" colspan="2">A112</td>
+		</tr>
+		<tr>
+			<td style="width: 174px;" rowspan="3" colspan="1">11.2 Agentschap Wonen Vlaanderen<br>
+			&nbsp;</td>
+			<td style="width: 244px;" rowspan="2" colspan="1">Stafmedewerker Woonkwaliteit (uitdovend)<br>
+			&nbsp;</td>
+			<td style="width: 162px;" colspan="4">B114</td>
+		</tr>
+		<tr>
+			<td style="width: 85px;">Na 14 jaar geldelijke anciënniteit</td>
+			<td style="width: 77px;" colspan="3">B222</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>12) BELEIDSDOMEIN ECONOMIE, WERK EN INNVOATIE</strong>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 193px;">&nbsp;</td>
+			<td style="width: 246px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 141px;"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 193px;" rowspan="3" colspan="1">12.1. Agentschap voor Innovatie door Wetenschap en Technologie</td>
+			<td style="width: 246px;">Wetenschappelijk adviseur (uitdovend)</td>
+			<td style="width: 141px;">A282</td>
+		</tr>
+		<tr>
+			<td style="width: 246px;">Directeur financiën en logistiek (uitdovend)</td>
+			<td style="width: 141px;">A212</td>
+		</tr>
+		<tr>
+			<td style="width: 246px;">Directeur personeel en juridische zaken (uitdovend)</td>
+			<td style="width: 141px;">A212</td>
+		</tr>
+		<tr>
+			<td style="width: 193px;" colspan="1">12.2 Agentschap Plantentuin Meise</td>
+			<td style="width: 246px;">Schoonmaak- en cateringpersoneel</td>
+			<td style="width: 141px;">D111</td>
+		</tr>
+	</tbody>
+</table>
+&nbsp;&nbsp;<br>
+<br>
+&nbsp;
+
+### BIJLAGE
+
+<strong>13) ADMINISTRATIEVE DIENSTEN VAN HET GEMEENSCHAPSONDERWIJS</strong>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 191px;">&nbsp;</td>
+			<td style="width: 267px;"><strong>B/S-opdrachten</strong></td>
+			<td style="width: 122px;"><strong>Verloning</strong></td>
+		</tr>
+		<tr>
+			<td style="width: 191px;">Administratieve diensten van het Gemeenschapsonderwijs</td>
+			<td style="width: 267px;">Schoonmaak- en restaurantpersoneel</td>
+			<td style="width: 122px;">D111</td>
+		</tr>
+	</tbody>
+</table>
 
 ## Bijlage 2: barema's salarisschalen
 
