@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025365,
+  "title": "Ministerieel besluit van 2015-04-20 houdende uitvoering van artikel 2 en 4 van het besluit van de Vlaamse Regering van 31 januari 2014 betreffende erkenningen van producenten- en brancheorganisaties, voor de sector varkensvlees",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025365/VolledigDocument?datum=2015-06-05",
+  "source_sha256": "985f0ac2f6d55481ffe942c95ee5a195436cd5522a0feb41063e0950b0c191ca",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025365&param=informatie",
+  "as_of": "2015-06-05",
+  "made": "2015-04-20",
+  "gazette": "2015-05-26",
+  "numac": 2015035628,
+  "document_start": "2015-06-05",
+  "document_end": null,
+  "in_force": "2015-06-05",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
