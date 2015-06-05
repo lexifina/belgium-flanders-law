@@ -376,7 +376,7 @@
 
 ### ART. 73ter.
 
-§ 1. In afwijking van artikel 72 wordt de subsidieperiode die van start   gaat op 1 januari 2013 uitzonderlijk beperkt tot twee werkjaren.<BR><BR>§ 2. In   afwijking van artikel 72 wordt er een subsidieperiode voorzien die van start   gaat op 1 januari 2015 en eindigt op 31 december 2016.<BR><BR>§ 3. Voor de   subsidieperiode 2015-2016 kan er slechts één organisatie worden aangeduid als   steunpunt, zoals bedoeld in artikel 3,6°. <BR><BR>§ 4. In afwijking van artikel   73, wordt een aanvraag tot subsidiëring voor de periode 2015-2016 uiterlijk op   31 maart van het jaar voorafgaand aan de subsidieperiode.
+§ 1. In afwijking van artikel 72 wordt de subsidieperiode die van start   gaat op 1 januari 2013 uitzonderlijk beperkt tot twee werkjaren.<BR><BR>§ 2. In   afwijking van artikel 72 wordt er een subsidieperiode voorzien die van start   gaat op 1 januari 2015 en eindigt op 31 december 2016.<BR><BR>§ 3. Voor de   subsidieperiode 2015-2016 kan er slechts één organisatie worden aangeduid als   steunpunt, zoals bedoeld in artikel 3,6°. <BR><BR>§ 4. In afwijking van artikel   73, wordt een aanvraag voor de periode 2015-2016 uiterlijk op 31 maart van het   jaar voorafgaand aan de subsidieperiode ingediend.<BR><BR>§ 5. De bepalingen als   vermeld in § 1 en § 2 zijn eveneens van toepassing op organisaties die in de   periode 2015-2016 niet langer als steunpunt zijn aangeduid en waarvan de werking   niet is overgenomen door het steunpunt als vermeld in § 3.
 
 ### ART. 74.
 
