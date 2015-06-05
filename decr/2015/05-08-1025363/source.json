@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025363,
+  "title": "Decreet van 2015-05-08 houdende wijziging van het Kunstendecreet van 13 december 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025363/VolledigDocument?datum=2015-06-05",
+  "source_sha256": "31fb4109fa3ae38fdad19a748aa6313ef19413aeadf9b384e97c3d0b5eaf33f6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025363&param=informatie",
+  "as_of": "2015-06-05",
+  "made": "2015-05-08",
+  "gazette": "2015-05-26",
+  "numac": 2015035617,
+  "document_start": "2015-06-05",
+  "document_end": null,
+  "in_force": "2015-06-05",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2015-06-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
