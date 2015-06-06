@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025376,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie uitvaartmedewerker",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025376/VolledigDocument?datum=2015-06-06",
+  "source_sha256": "57b5a430ab2586126fda58dfbd281f6897a937beafa67aaf7389331a5a75829b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025376&param=informatie",
+  "as_of": "2015-06-06",
+  "made": "2015-03-13",
+  "gazette": "2015-05-27",
+  "numac": 2015035517,
+  "document_start": "2015-06-06",
+  "document_end": null,
+  "in_force": "2015-06-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
