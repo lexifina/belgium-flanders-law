@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025368,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie bibliotheekdeskundige-informatiedeskundige",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025368/VolledigDocument?datum=2015-06-06",
+  "source_sha256": "ba0c50ba719ce9046f43c649345ce410cfaaee0eaf25dd615341f02ae3dc6212",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025368&param=informatie",
+  "as_of": "2015-06-06",
+  "made": "2015-03-13",
+  "gazette": "2015-05-27",
+  "numac": 2015035615,
+  "document_start": "2015-06-06",
+  "document_end": null,
+  "in_force": "2015-06-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
