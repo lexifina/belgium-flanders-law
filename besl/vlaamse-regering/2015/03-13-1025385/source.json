@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025385,
+  "title": "Besluit van de Vlaamse Regering van 2015-03-13 tot erkenning van de beroepskwalificatie florist",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025385/VolledigDocument?datum=2015-06-06",
+  "source_sha256": "66f932ef8000e10e2770b84f376ff77d76f43d24d89b5cbf2c7dc6ab0fae4d88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025385&param=informatie",
+  "as_of": "2015-06-06",
+  "made": "2015-03-13",
+  "gazette": "2015-05-27",
+  "numac": 2015035534,
+  "document_start": "2015-06-06",
+  "document_end": null,
+  "in_force": "2015-06-06",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-06-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
