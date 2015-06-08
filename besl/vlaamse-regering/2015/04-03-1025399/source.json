@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025399,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 houdende indeling bij de gemeentewegen van de gewestweg N357-Holstraat, F. Rooseveltlaan tussen kilometerpunt 25,880 en 27,231 op het grondgebied van de stad Waregem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025399/VolledigDocument?datum=2015-06-08",
+  "source_sha256": "88d7caa53f346ad8bc28f554077bd08e33cac7e8c4d94046d3a5dde0e8d8ed84",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025399&param=informatie",
+  "as_of": "2015-06-08",
+  "made": "2015-04-03",
+  "gazette": "2015-05-29",
+  "numac": 2015035655,
+  "document_start": "2015-06-08",
+  "document_end": null,
+  "in_force": "2015-06-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
