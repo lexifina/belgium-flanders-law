@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025407,
+  "title": "Protocol van 2015-03-30 Aanhangsel tot wijziging van het protocolakkoord tussen de federale regering en de in artikel 128, 130, 135 en 138 van de grondwet bedoelde overheden inzake de organisatie en financiering van een nationaal contactpunt grensoverschrijdende gezondheidszorg, gesloten te Brussel op 24 juni 2013",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025407/VolledigDocument?datum=2015-06-08",
+  "source_sha256": "63fdce7d297711ac91d6a008adc9c172658746a557e3ded9b31e5393807a912b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025407&param=informatie",
+  "as_of": "2015-06-08",
+  "made": "2015-03-30",
+  "gazette": "2015-05-29",
+  "numac": 2015024121,
+  "document_start": "2015-06-08",
+  "document_end": null,
+  "in_force": "2015-06-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-06-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
