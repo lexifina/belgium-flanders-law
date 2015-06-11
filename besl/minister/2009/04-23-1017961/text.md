@@ -6,8 +6,8 @@ De Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<br /><br />Gelet op d
 
 ### ART. 1.
 
-De heer dr. Marc Servaes, arts-psychiater bij het intern verzelfstandigd agentschap Zorginspectie, wordt aangewezen om het toezicht, vermeld in artikel 33 van de wet van 26 juni 1990 betreffende de bescherming van de persoon van de geesteszieke, uit te oefenen.
+...
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2009.
+...
