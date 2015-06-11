@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025411,
+  "title": "Ministerieel besluit van 2015-04-27 tot oprichting van de Vlaamse werkgroep Bedrijfsgezondheidszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025411/VolledigDocument?datum=2015-06-11",
+  "source_sha256": "34448a696d4ed720057003e7345e10ad7aad2f7a650c3046b0ccc5161caf9c38",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025411&param=informatie",
+  "as_of": "2015-06-11",
+  "made": "2015-04-27",
+  "gazette": "2015-06-01",
+  "numac": 2015035646,
+  "document_start": "2015-06-11",
+  "document_end": null,
+  "in_force": "2015-06-11",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-06-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
