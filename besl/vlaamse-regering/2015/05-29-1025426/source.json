@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025426,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-29 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft de representatieve projectcategorieën voor groene stroom en kwalitatieve warmte-krachtkoppeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025426/VolledigDocument?datum=2015-06-14",
+  "source_sha256": "aa5d4f005988260844146a54c1e7d0c3e9060e935dff8b0ff58bbf65f30ac474",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025426&param=informatie",
+  "as_of": "2015-06-14",
+  "made": "2015-05-29",
+  "gazette": "2015-06-04",
+  "numac": 2015035709,
+  "document_start": "2015-06-14",
+  "document_end": null,
+  "in_force": "2015-06-14",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
