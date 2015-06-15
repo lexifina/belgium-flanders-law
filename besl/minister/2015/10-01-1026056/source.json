@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026056,
+  "title": "Ministerieel besluit van 2015-10-01 houdende de procedurele aspecten bij aanvragen, beoordeling, subsidietoekenning, voorschotten, betaling en toezicht in het kader van het decreet van 13 december 2013 houdende de ondersteuning van de professionele kunsten",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026056/VolledigDocument?datum=2015-06-15",
+  "source_sha256": "3455056fbf3e85da31e68a19182a2a4719e7845f0fc263ac8af21666fe0ae827",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026056&param=informatie",
+  "as_of": "2015-06-15",
+  "made": "2015-10-01",
+  "gazette": "2015-10-27",
+  "numac": 2015036257,
+  "document_start": "2015-06-15",
+  "document_end": null,
+  "in_force": "2015-06-15",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
