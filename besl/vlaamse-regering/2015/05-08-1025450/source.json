@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025450,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-08 tot erkenning van de opleiding van het hoger beroepsonderwijs \"winkelmanagement\" als nieuwe opleiding van Thomas More Kempen en CVO Hoger Instituut der Kempen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025450/VolledigDocument?datum=2015-06-19",
+  "source_sha256": "6c151320ac0489e7651a0e8ebe67acd28fad4ef49fab195d1813e1b50c937c09",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025450&param=informatie",
+  "as_of": "2015-06-19",
+  "made": "2015-05-08",
+  "gazette": "2015-06-09",
+  "numac": 2015035668,
+  "document_start": "2015-06-19",
+  "document_end": null,
+  "in_force": "2015-06-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
