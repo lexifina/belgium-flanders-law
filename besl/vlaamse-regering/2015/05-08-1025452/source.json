@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025452,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-08 tot erkenning van de opleiding van het hoger beroepsonderwijs \"winkelmanagement\" als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid en CVO HITEK",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025452/VolledigDocument?datum=2015-06-19",
+  "source_sha256": "409391a1ff0d7579e2c8a95135801fd6c75edb9e193944aa26a9c28489f21825",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025452&param=informatie",
+  "as_of": "2015-06-19",
+  "made": "2015-05-08",
+  "gazette": "2015-06-09",
+  "numac": 2015035698,
+  "document_start": "2015-06-19",
+  "document_end": null,
+  "in_force": "2015-06-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
