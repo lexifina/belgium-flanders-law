@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025451,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-08 tot erkenning van de opleiding van het hoger beroepsonderwijs \"winkelmanagement\" als nieuwe opleiding van Thomas More Mechelen-Antwerpen en CVO LBC-NVK `Antwerpen'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025451/VolledigDocument?datum=2015-06-19",
+  "source_sha256": "22b949d55da4e5190d53bac67b19e1521651b68ae8d5daa930564f105b91764a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025451&param=informatie",
+  "as_of": "2015-06-19",
+  "made": "2015-05-08",
+  "gazette": "2015-06-09",
+  "numac": 2015035669,
+  "document_start": "2015-06-19",
+  "document_end": null,
+  "in_force": "2015-06-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
