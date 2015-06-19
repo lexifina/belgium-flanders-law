@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025550,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-19 tot wijziging van de artikelen 1 en 2 van het besluit van de Vlaamse Regering van 20 juli 2012 tot het opnieuw samenstellen van de Strategische Adviesraad voor Landbouw en Visserij",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025550/VolledigDocument?datum=2015-06-19",
+  "source_sha256": "7d1bd1af463f8f92e3e6966fb5b080ba27a748107cb209e95d6a6263867f0199",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025550&param=informatie",
+  "as_of": "2015-06-19",
+  "made": "2015-06-19",
+  "gazette": "2015-07-03",
+  "numac": 2015035827,
+  "document_start": "2015-06-19",
+  "document_end": null,
+  "in_force": "2015-06-19",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
