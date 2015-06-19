@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025445,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-08 tot erkenning van de opleiding van het hoger beroepsonderwijs \"winkelmanagement\" als nieuwe opleiding van Odisee en CVO Kisp-VTI Aalst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025445/VolledigDocument?datum=2015-06-19",
+  "source_sha256": "0133ca5b30dafe148532c553ba4eac743194b2af268fbbeef9b72523d0af325b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025445&param=informatie",
+  "as_of": "2015-06-19",
+  "made": "2015-05-08",
+  "gazette": "2015-06-09",
+  "numac": 2015035692,
+  "document_start": "2015-06-19",
+  "document_end": null,
+  "in_force": "2015-06-19",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
