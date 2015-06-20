@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025453,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-24 betreffende steun aan investeringen in de agrovoedingssector tot verhoging van de toegevoegde waarde, de kwaliteit en de voedselveiligheid van landbouwproducten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025453/VolledigDocument?datum=2015-06-20",
+  "source_sha256": "30fedf09167d0556176f93bd9e4d02d3a69954464156acde060bc98b66052947",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025453&param=informatie",
+  "as_of": "2015-06-20",
+  "made": "2015-04-24",
+  "gazette": "2015-06-10",
+  "numac": 2015035701,
+  "document_start": "2015-06-20",
+  "document_end": "2023-11-25",
+  "in_force": "2015-06-20",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2015-06-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
