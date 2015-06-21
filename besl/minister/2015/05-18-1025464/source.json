@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025464,
+  "title": "Ministerieel besluit van 2015-05-18 houdende vaststelling van de sjablonen en de toelichtingen van de logboeken en meldingsformulieren voor wijzigingen CO2-emissies en tonkilometergegevens en abnormale omstandigheden CO2-emissies en tonkilometergegevens voor vliegtuigexploitanten voor de periode 2013-2020",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025464/VolledigDocument?datum=2015-06-21",
+  "source_sha256": "dbd4dba88786ad6aedc737402d4a727ce0d085932d4a993fda8e519227676c49",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025464&param=informatie",
+  "as_of": "2015-06-21",
+  "made": "2015-05-18",
+  "gazette": "2015-06-11",
+  "numac": 2015035703,
+  "document_start": "2015-06-21",
+  "document_end": null,
+  "in_force": "2015-06-21",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2015-06-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
