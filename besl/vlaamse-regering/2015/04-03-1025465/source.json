@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025465,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in de zorgtechnologie als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025465/VolledigDocument?datum=2015-06-22",
+  "source_sha256": "4ae1a53d1749d4e93199ce369cc85432c3192dfdea58971fb2cd00a08ec008b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025465&param=informatie",
+  "as_of": "2015-06-22",
+  "made": "2015-04-03",
+  "gazette": "2015-06-12",
+  "numac": 2015035746,
+  "document_start": "2015-06-22",
+  "document_end": null,
+  "in_force": "2015-06-22",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
