@@ -64,7 +64,7 @@ Voor de berekening van de totale duur tijdens welke een personeelslid gedurende 
 
 ### ART. 12.
 
-Het personeelslid dat voor de uitoefening van zijn functie gebruik maakt van een dienstwagen en per maand gemiddeld minstens 34 uur prestaties verricht buiten de diensturen, heeft recht op een maandelijkse forfaitaire toelage van 392 euro (100 %).<br /><br />De toelage is niet cumuleerbaar met andere toelagen voor overuren en zaterdag-, zondag- en nachtprestaties.<br /><br />De toelage volgt de evolutie van de gezondheidsindex overeenkomstig artikel VII 9 van het Vlaams personeelsstatuut.<br /><br />
+<P>...</P>
 
 ## Afdeling IV Verhoogde rente bij een arbeidsongeval en bij een ongeval op de weg naar en van het werk
 

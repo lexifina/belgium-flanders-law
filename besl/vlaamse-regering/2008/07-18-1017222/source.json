@@ -2,16 +2,16 @@
   "codex_id": 1017222,
   "title": "Besluit van de Vlaamse Regering van 2008-07-18 houdende de agentschapsspecifieke regeling van de rechtspositie van het personeel van de Vlaamse Landmaatschappij",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017222/VolledigDocument?datum=2013-10-01",
-  "source_sha256": "42fa73a0a960cb4ccd7aceff56a10bc804b0638f92e8da79cb0c37793391aa89",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017222/VolledigDocument?datum=2015-06-22",
+  "source_sha256": "6a6ab722d879fca143315eddf2f5e9b8ca3dc995a487ff9e40d893eafdccef54",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017222&param=informatie",
-  "as_of": "2013-10-01",
+  "as_of": "2015-06-22",
   "made": "2008-07-18",
   "gazette": "2008-10-23",
   "numac": 2008203728,
   "document_start": "2008-10-23",
   "document_end": null,
-  "in_force": "2013-10-01",
+  "in_force": "2015-06-22",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2013-10-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-06-22; future article versions excluded; article text as the API gives it"
 }
