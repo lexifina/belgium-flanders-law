@@ -2,16 +2,16 @@
   "codex_id": 1025494,
   "title": "Besluit van de Vlaamse Regering van 2015-05-08 houdende installatie van het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025494/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "91b57ba0097277b2e4d4ef4d349e641f8c0121fa0696909bcec4af49c4531fef",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025494/VolledigDocument?datum=2015-06-27",
+  "source_sha256": "2d644d5bd2b1508716bc61af846ded784c91f151e1e97bbc5b4f50494f4a2487",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025494&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2015-06-27",
   "made": "2015-05-08",
   "gazette": "2015-06-17",
   "numac": 2015035732,
   "document_start": "2015-06-27",
   "document_end": "2020-12-31",
-  "in_force": "2014-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-06-27",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-06-27; future article versions excluded; article text as the API gives it"
 }
