@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025500,
+  "title": "Ministerieel besluit van 2015-03-26 tot wijziging van artikel 1 en 2 van het ministerieel besluit van 27 september 2011 tot erkenning van verenigingen, organisaties en ondernemingen ter uitvoering van artikelen 4, 5, 6, 7 en 59, § 1, van het Fokkerijbesluit van 19 maart 2010, wat betreft de erkenning van Vlaamse Piétrain Fokkerij vzw",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025500/VolledigDocument?datum=2015-06-28",
+  "source_sha256": "5f09cf411588024538cab21ffa68ce01a029e77e8155f20f8d83731ae29fdb39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025500&param=informatie",
+  "as_of": "2015-06-28",
+  "made": "2015-03-26",
+  "gazette": "2015-06-18",
+  "numac": 2015035742,
+  "document_start": "2015-06-28",
+  "document_end": null,
+  "in_force": "2015-06-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-06-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
