@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025683,
+  "title": "Protocol van 2015-06-29 tussen de Federale Regering en de in artikel 128, 130, 135 en 138 van de grondwet bedoelde overheden inzake het creëren van een uniek digitaal loket bestemd voor de gezondheidsactoren",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025683/VolledigDocument?datum=2015-06-29",
+  "source_sha256": "e5d4edba9708149c771db1ef908ce92481a3f54cfb85ff12756aaef34ab18410",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025683&param=informatie",
+  "as_of": "2015-06-29",
+  "made": "2015-06-29",
+  "gazette": "2015-08-04",
+  "numac": 2015024177,
+  "document_start": "2015-06-29",
+  "document_end": null,
+  "in_force": "2015-06-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
