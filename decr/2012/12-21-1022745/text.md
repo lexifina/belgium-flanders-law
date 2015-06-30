@@ -876,6 +876,10 @@ In hetzelfde decreet wordt een artikel 53/2 ingevoegd, dat luidt als volgt   :<B
 
 In artikel 58 van hetzelfde decreet wordt na het woord « bedrag » de   woorden « op verzoek van de studentenvoorziening » ingevoegd en wordt telkens na   het woord « studentenvoorziening » de woorden « of OCMW »   ingevoegd.<BR>
 
+### ART. IX.10.
+
+In hetzelfde decreet wordt artikel 65, gewijzigd bij decreet van 4 juli   2008, opgeheven.<BR>
+
 ### ART. IX.11.
 
 <P>Dit hoofdstuk treedt in werking op 1 september 2013. <BR></P>  <P>Artikel IX.10 treedt in werking op een datum te bepalen door de Vlaamse   Regering. <BR></P>
