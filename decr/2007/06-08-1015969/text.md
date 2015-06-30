@@ -346,7 +346,7 @@ De Vlaamse Regering bepaalt de voorwaarden voor de terug te vorderen sommen en d
 
 ### ART. 65.
 
-Het Bestuur van de Registratie en Domeinen is ambtshalve belast met het vervolgen, overeenkomstig de bepalingen van artikel 3 van de domaniale wet van 22 december 1949, van de volledige of gedeeltelijke invordering van de school- en studietoelagen.<br /><br />
+<P>...</P>
 
 ## Afdeling II [... (opgeh. decr. 22 maart 2019, art. 35, I: 1 september 2019)]
 
