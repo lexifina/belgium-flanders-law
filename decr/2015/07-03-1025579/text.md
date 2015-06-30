@@ -104,6 +104,10 @@ In   het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 ma
 
 ## Afdeling 2 Egalisatiefonds Responsabiliseringsbijdrage van de Vlaamse Gemeenschap
 
+### ART. 22.
+
+In   geval van ontbinding van het Egalisatiefonds Responsabiliseringsbijdrage van de   Vlaamse Gemeenschap - Vlaams Pensioenfonds vzw, wordt het actief, na   aanzuivering van het passief, overgedragen aan de Vlaamse Gemeenschap.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling 3 Spelen en weddenschappen
 
 ## Afdeling 4 Erfbelasting
