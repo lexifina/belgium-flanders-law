@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025998,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 16 mei 1995 betreffende de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025998/VolledigDocument?datum=2015-06-30",
+  "source_sha256": "aec23d6bfdbb0722fac4bba783a9c4f2001e7bedd43a1186a8e527599187e594",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025998&param=informatie",
+  "as_of": "2015-06-30",
+  "made": "2015-07-10",
+  "gazette": "2015-10-08",
+  "numac": 2015036170,
+  "document_start": "2015-06-30",
+  "document_end": null,
+  "in_force": "2015-06-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
