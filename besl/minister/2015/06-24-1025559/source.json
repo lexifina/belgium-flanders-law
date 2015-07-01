@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025559,
+  "title": "Ministerieel besluit van 2015-06-24 tot vaststelling van de coëfficiënt voor het berekenen van de geactualiseerde kostprijs van sociale huurwoningen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025559/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "ca440b80f456cd8d3cb111a5162a4de4ac553ddc3bdfedb37b9b4c4534249e30",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025559&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-06-24",
+  "gazette": "2015-07-06",
+  "numac": 2015035851,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
