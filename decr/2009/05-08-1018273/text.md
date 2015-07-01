@@ -322,7 +322,7 @@ De doorlichtingsverslagen, de opvolgingsverslagen en de adviezen met betrekking 
 
 ### ART. 45.
 
-Bij de Vlaamse Regering wordt een inspectie opgericht, onder leiding van een inspecteur-generaal. Deze inspectie wordt met het oog op de uitoefening van haar opdrachten door de Vlaamse Regering ter beschikking gesteld van een door de Vlaamse Regering aangeduide dienst.
+Bij de Vlaamse Regering wordt een inspectie opgericht, onder leiding van   een inspecteur-generaal. De onderwijsinspectie kan voor de uitoefening van haar   opdracht beschikken over de leden van de onderwijsinspectie, ondersteunende   personeelsleden van de diensten van de Vlaamse Regering en middelen ingeschreven   in de Vlaamse begroting.<BR>De Vlaamse Regering kan personeelsleden van het   Agentschap Kwaliteit in Onderwijs en Vorming overdragen naar de   onderwijsinspectie.
 
 ## Afdeling II. Organisatie van de inspectie
 
