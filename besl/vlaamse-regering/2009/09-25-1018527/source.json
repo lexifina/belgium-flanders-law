@@ -1,0 +1,17 @@
+{
+  "codex_id": 1018527,
+  "title": "Besluit van de Vlaamse Regering van 2009-09-25 houdende machtiging van [...] de strategische adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, [...] de strategische adviesraad Sociaal-Economische Raad van Vlaanderen [...] en de strategische adviesraad Milieu- en Natuurraad van Vlaanderen tot deelname aan de pensioenregeling, ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018527/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "0cb0f069ff389f16120835f2b77d1a74a8a18c7b2fa92387287e5db08cefe57d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018527&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2009-09-25",
+  "gazette": "2009-11-24",
+  "numac": 2009036058,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
