@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026064,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-25 houdende de overdracht van de personeelsleden van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen naar het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen en van het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen naar de Onderwijsinspectie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026064/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "17987b80a77ca31d72f9277b2218b0f8552a4b8bcec8058dea6bbeece1c9a3d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026064&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-09-25",
+  "gazette": "2015-11-03",
+  "numac": 2015036296,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
