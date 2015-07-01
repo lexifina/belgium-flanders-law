@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025697,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-03 houdende de overdracht van de personeelsleden en activa en passiva van de Strategische Adviesraad internationaal Vlaanderen aan het departement internationaal Vlaanderen en van een personeelslid en activa en passiva van de Vlaamse Adviesraad voor Bestuurszaken aan het agentschap Binnenlands Bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025697/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "b6b4c2e51a87e10441e9fec624b377893797a5162356951b4eb5ae0d1ee556b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025697&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-07-03",
+  "gazette": "2015-08-12",
+  "numac": 2015036004,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
