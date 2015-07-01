@@ -80,7 +80,7 @@ Het conformiteitsattest vermeldt de redenen waarom de aanvrager voldoet aan de v
 
 ### ART. 8.
 
-De aanvragers die houder zijn van een beroepskwalificatie als vermeld in artikel 11, a), b) en c) van de richtlijn dienen hun aanvraag in bij het Agentschap voor Onderwijsdiensten. <br /><br />De aanvragers die houder zijn van een beroepskwalificatie als vermeld in artikel 11, d) en e) van de richtlijn dienen hun aanvraag in bij het Agentschap voor Hoger onderwijs, Volwassenenonderwijs en Studietoelagen.
+De aanvragers die houder zijn van een beroepskwalificatie als vermeld in   artikel 11, a), b) en c) van de richtlijn dienen hun aanvraag in bij het   Agentschap voor Onderwijsdiensten. <BR><BR>De aanvragers die houder zijn van een   beroepskwalificatie als vermeld in artikel 11, d) en e) van de richtlijn dienen   hun aanvraag in bij het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs,   Kwalificaties en Studietoelagen.
 
 ### ART. 9.
 
@@ -88,15 +88,15 @@ De aanvragers die houder zijn van een beroepskwalificatie als vermeld in artikel
 
 ### ART. 10.
 
-De aanvraag van de houder van een beroepskwalificatie als vermeld in artikel 11, a), b) en c) van de richtlijn wordt beoordeeld door de administrateur-generaal van het Agentschap voor Onderwijsdiensten. De aanvraag van de houder van een beroepskwalificatie als vermeld in artikel 11), d) en e) van de richtlijn wordt beoordeeld door de administrateur-generaal van het Agentschap voor Hoger onderwijs, Volwassenenonderwijs en Studietoelagen.
+De aanvraag van de houder van een beroepskwalificatie als vermeld in   artikel 11, a), b) en c) van de richtlijn wordt beoordeeld door de   administrateur-generaal van het Agentschap voor Onderwijsdiensten. De aanvraag   van de houder van een beroepskwalificatie als vermeld in artikel 11), d) en e)   van de richtlijn wordt beoordeeld door de administrateur-generaal van het   Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en   Studietoelagen.
 
 ### ART. 11.
 
-De administrateur-generaal van het Agentschap voor Onderwijsdiensten of de administrateur-generaal van het Agentschap voor Hoger onderwijs, Volwassenenonderwijs en Studietoelagen kan slechts één van de volgende beslissingen nemen :<br />1° een conformiteitsattest wordt afgeleverd;<br />2° een conformiteitsattest wordt niet afgeleverd omdat de aanvrager nog aangeduide tekorten moet wegwerken via compenserende maatregelen als vermeld in artikel 14. Deze beslissing wordt gemotiveerd;<br />3° een conformiteitsattest wordt niet afgeleverd omdat de toepassingsvoorwaarden van de richtlijn niet vervuld zijn. Deze beslissing wordt gemotiveerd.
+De administrateur-generaal van het Agentschap voor Onderwijsdiensten of de   administrateur-generaal van het Agentschap voor Hoger Onderwijs,   Volwassenenonderwijs, Kwalificaties en Studietoelagen kan slechts één van de   volgende beslissingen nemen :<BR>1° een conformiteitsattest wordt   afgeleverd;<BR>2° een conformiteitsattest wordt niet afgeleverd omdat de   aanvrager nog aangeduide tekorten moet wegwerken via compenserende maatregelen   als vermeld in artikel 14. Deze beslissing wordt gemotiveerd;<BR>3° een   conformiteitsattest wordt niet afgeleverd omdat de toepassingsvoorwaarden van de   richtlijn niet vervuld zijn. Deze beslissing wordt gemotiveerd.
 
 ### ART. 12.
 
-De beslissing van de administrateur-generaal van het Agentschap voor Onderwijsdiensten of van de administrateur-generaal van het Agentschap voor Hoger onderwijs, Volwassenenonderwijs en Studietoelagen, in uitvoering van artikel 10, wordt genomen binnen een termijn van dertig kalenderdagen die aanvangt op het moment dat het dossier volledig is.
+De beslissing van de administrateur-generaal van het Agentschap voor   Onderwijsdiensten of van de administrateur-generaal van het Agentschap voor   Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen, in   uitvoering van artikel 10, wordt genomen binnen een termijn van dertig   kalenderdagen die aanvangt op het moment dat het dossier volledig   is.
 
 ### ART. 13.
 
@@ -104,7 +104,7 @@ De tekorten, vermeld in artikel 11, 2°, kunnen, conform artikel 14 van de richt
 
 ### ART. 14.
 
-De tekorten, vermeld in artikel 11, kunnen, volgens de modaliteiten van artikel 14 van de richtlijn, gecompenseerd worden op een van de volgende wijzen :<br />1° succesvol een proeve van bekwaamheid afleggen;<br />2° succesvol een aanpassingsstage van ten hoogste drie jaar doorlopen.<br /><br />Indien de aanvrager ten minste drie jaar relevante beroepservaring bezit, dan wordt betrokkene geacht aan deze compenserende maatregelen te voldoen.<br /><br />De examencommissies van de Vlaamse Gemeenschap of de onderwijsinstellingen voor hoger onderwijs nemen de proeve van bekwaamheid, vermeld in 1°, af.<br /><br />De administrateur-generaal van het Agentschap voor Onderwijsdiensten of de administrateur-generaal van het Agentschap voor Hoger onderwijs, Volwassenenonderwijs en Studietoelagen beslist op basis van het stageverslag van de instelling waar de stage doorlopen is of deze aanpassingsstage heeft voldaan als compenserende maatregel om de vastgestelde tekorten weg te werken.
+De tekorten, vermeld in artikel 11, kunnen, volgens de modaliteiten van   artikel 14 van de richtlijn, gecompenseerd worden op een van de volgende wijzen   :<BR>1° succesvol een proeve van bekwaamheid afleggen;<BR>2° succesvol een   aanpassingsstage van ten hoogste drie jaar doorlopen.<BR><BR>Indien de aanvrager   ten minste drie jaar relevante beroepservaring bezit, dan wordt betrokkene   geacht aan deze compenserende maatregelen te voldoen.<BR><BR>De examencommissies   van de Vlaamse Gemeenschap of de onderwijsinstellingen voor hoger onderwijs   nemen de proeve van bekwaamheid, vermeld in 1°, af.<BR><BR>De   administrateur-generaal van het Agentschap voor Onderwijsdiensten of de   administrateur-generaal van het Agentschap voor Hoger Onderwijs,   Volwassenenonderwijs, Kwalificaties en Studietoelagen beslist op basis van het   stageverslag van de instelling waar de stage doorlopen is of deze   aanpassingsstage heeft voldaan als compenserende maatregel om de vastgestelde   tekorten weg te werken.
 
 ### ART. 15.
 
