@@ -2,16 +2,16 @@
   "codex_id": 1014579,
   "title": "Decreet van 2006-04-28 houdende de oprichting van de Vlaamse Adviesraad voor Bestuurszaken",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014579/VolledigDocument?datum=2007-07-20",
-  "source_sha256": "08f7487ea923dd38ac12eaa56ad191bd5fe3daeda3bf70063324c27b975af3a2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014579/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "818dc160bc49f4139a68f35ae5182198bd1d8dde0eb20d977c9ef5f7df35660c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014579&param=informatie",
-  "as_of": "2007-07-20",
+  "as_of": "2015-07-01",
   "made": "2006-04-28",
   "gazette": "2006-06-16",
   "numac": 2006035835,
   "document_start": "2007-07-20",
   "document_end": "2015-06-30",
-  "in_force": "2007-07-20",
+  "in_force": "2015-07-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2007-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
 }
