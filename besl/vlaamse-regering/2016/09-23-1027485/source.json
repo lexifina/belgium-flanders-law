@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027485,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-23 houdende vrijstelling van bepaalde werknemersbijdragen voor ondernemingen die behoren tot de koopvaardijsector en tot wijziging van artikel 1 van het besluit van de Vlaamse Regering van 13 november 2015 houdende vrijstelling van bepaalde werkgeversbijdragen voor ondernemingen die behoren tot de koopvaardijsector en de zeesleepvaartsector en tot wijziging van artikel 14bis, eerste lid, van het koninklijk besluit van 16 mei 2003 tot uitvoering van het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I), betreffende de harmonisering en vereenvoudiging van de regelingen inzake verminderingen van de sociale zekerheidsbijdragen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027485/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "982036b67ff76990c6c46d0cf01f06865af0e44a54728fa0a144c6df2cc55fbb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027485&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2016-09-23",
+  "gazette": "2016-10-18",
+  "numac": 2016036468,
+  "document_start": "2015-07-01",
+  "document_end": "2032-12-31",
+  "in_force": "2015-07-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
