@@ -129,9 +129,9 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 
 ### ART. 22.
 
-§ 1. Het maximale bedrag van de subsidie wordt bepaald op basis van de ecoklasse, op basis van de aard van de ecologie-investering en op basis vande grootte van de onderneming op de indieningsdatum van de steunaanvraag overeenkomstig de volgende tabel :<br>
-<br>
+<p>§ 1. Het maximale bedrag van de subsidie wordt bepaald op basis van de ecoklasse, op basis van de aard van de ecologie-investering en op basis vande grootte van de onderneming op de indieningsdatum van de steunaanvraag overeenkomstig de volgende tabel :</p>
 &nbsp;
+
 <table border="1">
 	<tbody>
 		<tr>
@@ -140,37 +140,35 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		<tr>
 			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en<br>
-			middelgrote ondernemingen</td>
-			<td>grote<br>
-			ondernemingen</td>
+			<td>kleine en middelgrote ondernemingen</td>
+			<td>grote ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
-			<td>35 %</td>
 			<td>25 %</td>
+			<td>12,5 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>25 %</td>
-			<td>15 %</td>
+			<td>10 %</td>
+			<td>5 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
-			<td>15 %</td>
-			<td>5 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
 			<td>1</td>
-			<td>5 %</td>
+			<td>0 %</td>
 			<td>0 %</td>
 		</tr>
 		<tr>
-			<td colspan="4">2° investering op energiegebied :</td>
+			<td colspan="4">2° investering op energiegebied:</td>
 		</tr>
 		<tr>
 			<td colspan="4">a) investering ten behoeve van energiebesparende maatregelen</td>
@@ -178,33 +176,31 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		<tr>
 			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en<br>
-			middelgrote ondernemingen</td>
-			<td>grote<br>
-			ondernemingen</td>
+			<td>kleine en middelgrote ondernemingen</td>
+			<td>grote ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
-			<td>60 %</td>
-			<td>50 %</td>
+			<td>25 %</td>
+			<td>12,5 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>40 %</td>
-			<td>30 %</td>
+			<td>10 %</td>
+			<td>5 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
-			<td>20 %</td>
-			<td>10 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
 			<td>1</td>
-			<td>5 %</td>
+			<td>0 %</td>
 			<td>0 %</td>
 		</tr>
 		<tr>
@@ -213,37 +209,36 @@ De subsidie wordt berekend als een percentage van de subsidiabele   investeringe
 		<tr>
 			<td>ecoklasse</td>
 			<td>ecologiegetal</td>
-			<td>kleine en<br>
-			middelgrote ondernemingen</td>
-			<td>grote<br>
-			ondernemingen</td>
+			<td>kleine en middelgrote ondernemingen</td>
+			<td>grote ondernemingen</td>
 		</tr>
 		<tr>
 			<td>A</td>
 			<td>9 - 6</td>
-			<td>45 %</td>
-			<td>35 %</td>
+			<td>25 %</td>
+			<td>12,5 %</td>
 		</tr>
 		<tr>
 			<td>B</td>
 			<td>4 - 3</td>
-			<td>30 %</td>
-			<td>20 %</td>
+			<td>10 %</td>
+			<td>5 %</td>
 		</tr>
 		<tr>
 			<td>C</td>
 			<td>2</td>
-			<td>15 %</td>
-			<td>5 %</td>
+			<td>0 %</td>
+			<td>0 %</td>
 		</tr>
 		<tr>
 			<td>D</td>
 			<td>1</td>
-			<td>5 %</td>
+			<td>0 %</td>
 			<td>0 %</td>
 		</tr>
 	</tbody>
 </table>
+<br>
 <br>
 § 2. Het subsidiepercentage kan verhoogd worden met een subsidiebonus. De maximale hoogte van de subsidiebonus wordt bepaald op basis van het feit of de onderneming beschikt over een milieu-, energie- of eco-efficiëntiescan, een milieucertificaat of een milieumanagementsysteem op de indieningsdatum van de steunaanvraag, en op basis van de grootte van de onderneming op de indieningsdatum van de steunaanvraag overeenkomstig de volgende tabel :<br>
 &nbsp;
