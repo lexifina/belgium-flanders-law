@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025567,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-19 houdende goedkeuring van het kader van de instellingsreview 2015-2017 hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025567/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "13b16046e1e9398b4d670b5557e9b84924355e5d2613ee27b979143108f68cc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025567&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-06-19",
+  "gazette": "2015-07-09",
+  "numac": 2015035854,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
