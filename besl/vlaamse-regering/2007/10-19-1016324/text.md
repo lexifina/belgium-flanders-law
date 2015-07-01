@@ -6,16 +6,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 16 mei 2007 tot opricht
 
 ### ART. 1.
 
-De strategische adviesraad internationaal Vlaanderen behoort tot het beleidsdomein internationaal Vlaanderen, zoals vastgelegd in artikel 6 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie.<br />
+...
 
 ### ART. 2.
 
-De bepalingen van het besluit van de Vlaamse Regering van 9 maart 2007 tot regeling van de presentiegelden en vergoedingen van strategische adviesraden en van raadgevende comités bij intern verzelfstandigde agentschappen zijn van toepassing op de voorzitter, de effectieve leden van de strategische adviesraad internationaal Vlaanderen en hun plaatsvervangers, tenzij het anders bepaald is in dit artikel.<br /><br />Het presentiegeld per vergadering bedraagt 100 euro. Aan de voorzitter wordt een presentiegeld van 150 euro toegekend. Er wordt voor maximaal 24 vergaderingen per jaar een presentiegeld toegekend. Aan de leden wordt eveneens een reiskostenvergoeding toegekend, overeenkomstig de regeling die geldt voor de vergoeding van reiskosten van personeelsleden van de Vlaamse overheid. Tenslotte wordt aan de voorzitter een vaste forfaitaire vergoeding toegekend van 1.500 euro per jaar.<br />
+...
 
 ### ART. 3.
 
-Het decreet van 16 mei 2007 tot oprichting van de strategische adviesraad internationaal Vlaanderen treedt in werking op de datum van inwerkingtreding van dit besluit.<br />
+...
 
 ### ART. 4.
 
-De Vlaamse minister bevoegd voor Buitenlandse Handel, en de Vlaamse minister, bevoegd voor Buitenlands Beleid en Toerisme, zijn, ieder wat hem of haar betreft, belast met de uitvoering van dit besluit.<br />
+...
