@@ -1,0 +1,54 @@
+# Ministerieel besluit van 2015-06-17 tot vaststelling van buitengewone productievoorschriften voor het gebruik van niet-biologisch vegetatief teeltmateriaal
+
+### Aanhef
+
+De Vlaamse minister van Omgeving, Natuur en Landbouw,<br>
+Gelet op verordening (EG) nr. 834/2007 van de Raad van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91, het laatst gewijzigd bij de verordening (EU) nr. 517/2013 van de Raad van 13 mei 2013;<br>
+Gelet op verordening (EG) nr. 889/2008 van de Commissie van 5 september 2008 tot vaststelling van bepalingen ter uitvoering van Verordening (EG) nr. 834/2007 van de Raad inzake de biologische productie en de etikettering van biologische producten, wat de biologische productie, de etikettering en de controle betreft, het laatst gewijzigd bij de uitvoeringsverordening (EU) nr. 1358/2014 van de Commissie van 18 december 2014;<br>
+Gelet op het decreet van 28 juni 2013 betreffende het landbouw- en visserijbeleid, artikel 4, 1° en 2° ;<br>
+Gelet op het besluit van de Vlaamse Regering van 12 december 2008 betreffende de biologische productie en de etikettering van biologische producten, artikel 10, § 3, vervangen bij het besluit van de Vlaamse Regering van 6 februari 2015;<br>
+Gelet op het advies van de Inspectie van Financiën, gegeven op 11 maart 2015;<br>
+Gelet op advies 57.466/3 van de Raad van State, gegeven op 1 juni 2015, met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973,<br>
+Besluit :
+
+## HOOFDSTUK 1. Definities en algemene bepalingen
+
+### ART. 1.
+
+In   dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   biologische stekgrond : de stekgrond die is samengesteld conform bijlage I van   verordening 889/2008 of grond die afkomstig is van percelen die de   omschakelperiode hebben doorlopen of een combinatie daarvan;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   niet-toegelaten middelen : de middelen die niet opgenomen zijn in bijlage I of   II van verordening 889/2008;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   stek : het plantenonderdeel dat nog geen wortels heeft en dat bedoeld is om   gestekt te worden met het oog op het uitgroeien tot een volwaardige   productieplant;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   plugplant : de plant die ontstaat nadat een stek gestekt werd in stekgrond. Een   plugplant wordt ook wel minitray, misted tip of plante motte genoemd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   verse plant : volledig ontwikkelde plant die op het moederveld ontstaan is uit   een stek die ter plaatse ingeworteld is. Een verse plant wordt ook wel groene   plant of plant met naakte wortel genoemd.
+
+### ART. 2.
+
+Dit besluit is van toepassing op het gebruik van vegetatief   teeltmateriaal in de biologische productiemethode, met uitzondering van   pootaardappelen.
+
+### ART. 3.
+
+<P>Conform artikel 45, lid 1, b), van verordening 889/2008 moet er   gebruikgemaakt worden van biologisch vegetatief teeltmateriaal voor een bepaald   ras als er voor dat ras vegetatief teeltmateriaal in de biologische vorm   beschikbaar is.</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Biologisch   vegetatief teeltmateriaal wordt als beschikbaar beschouwd als het ras   geregistreerd is in de databank, vermeld in artikel 48 van verordening   889/2008.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   rassen waarvan biologisch geproduceerd vegetatief teeltmateriaal beschikbaar is,   worden op verzoek van de leverancier in de databank   opgenomen.</P>
+
+### ART. 4.
+
+Als er voor een bepaald ras geen biologisch vegetatief   teeltmateriaal beschikbaar is, is het gebruik van vegetatief teeltmateriaal dat   niet overeenkomstig de biologische productiemethode is verkregen, alleen   toegestaan als aan de bepalingen van dit besluit, het besluit van de Vlaamse   Regering 12 december 2008 betreffende de biologische productie en de   etikettering van biologische producten en aan de bepalingen van verordening   834/2007 en de uitvoeringsbepalingen ervan is voldaan.
+
+### ART. 5.
+
+<P>De marktdeelnemer die niet-biologisch vegetatief teeltmateriaal   wil gebruiken, meldt dat voor het gebruik ervan aan zijn   controleorgaan.</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">De   melding, vermeld in het eerste lid, bevat minstens de volgende gegevens   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de contactgegevens van de marktdeelnemer;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de naam van het gewenste gewas, en het ras en de hoeveelheid   ervan.</P>
+
+## HOOFDSTUK 2. Bijkomende specifieke bepalingen voor het gebruik van niet-biologisch vegetatief teeltmateriaal voor de productie van biologische aardbeien
+
+### ART. 6.
+
+De   marktdeelnemer die niet-biologische stekken van aardbeiplanten of   niet-biologische verse aardbeiplanten aankoopt, moet de melding, vermeld in   artikel 5, doen.
+
+### ART. 7.
+
+<P>In dit artikel wordt verstaan onder junidrager : de   kortedagaardbeiplant waarvan de bloemaanleg vanaf september gebeurt en de oogst   onder natuurlijke groeiomstandigheden in juni valt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   geval van junidragers is het gebruik van niet-biologische stekken alleen   toegelaten onder de volgende voorwaarden :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de stekken werden gestekt in biologische stekgrond en werden vervolgens niet   behandeld met niet-toegelaten middelen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de daaruit voortgekomen plugplanten worden vervolgens voor 1 september geplant   op een perceel dat de omschakelingsperiode heeft doorlopen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de verdere productie gebeurt volledig conform de biologische   productiemethode.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   geval van junidragers is het gebruik van niet-biologische verse planten alleen   toegelaten onder de volgende voorwaarden :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de verse planten worden voor 1 september geplant op een perceel dat de   omschakelingsperiode doorlopen heeft;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   na het planten gebeurt de verdere productie volledig conform de biologische   productiemethode.</P>
+
+### ART. 8.
+
+<P>In geval van doordragers is het gebruik van niet-biologische   stekken van het desbetreffende ras alleen toegelaten onder de volgende   voorwaarden :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de stekken werden gestekt in biologische stekgrond en werden vervolgens niet   behandeld met niet-toegelaten middelen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de daaruit voortgekomen plugplanten worden vervolgens voor 1 november geplant op   een perceel dat de omschakelingsperiode doorlopen heeft;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   de plugplanten worden vanaf het moment dat ze geplant zijn, volledig conform de   biologische productiemethode geteeld.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het eerste lid wordt verstaan onder doordrager : de dagneutrale aardbeiplant die   bloemen aanlegt bij een minimale temperatuur van 12 ° C, waardoor de oogst over   een langere periode valt.</P>
+
+## HOOFDSTUK 3. Slotbepalingen
+
+### ART. 9.
+
+Dit besluit treedt in werking op 1 juli 2015.
