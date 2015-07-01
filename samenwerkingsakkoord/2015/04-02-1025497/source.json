@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025497,
+  "title": "Samenwerkingsakkoord van 2015-04-02 tot wijziging van het samenwerkingsakkoord van 4 november 2008 betreffende de preventie en het beheer van verpakkingsafval",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025497/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "a3249f9a30a4909bd20162b3fc59d443e6f038030e875b8e51bf9fa94b831cb6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025497&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-04-02",
+  "gazette": "2015-06-16",
+  "numac": 2015202746,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
