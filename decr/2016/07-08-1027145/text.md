@@ -39,6 +39,17 @@
 
 ## Afdeling 5 Fonds Dienstverlening AHOVOKS
 
+### ART 21.
+
+<p>In het decreet van 21 december 2012 houdende bepalingen tot begeleiding van de begroting 2013 worden in hoofdstuk 2 `Onderwijs' de volgende wijzigingen aangebracht :<br>
+1° in de titel van afdeling 7 worden de woorden "Fonds Dienstverlening AKOV" vervangen door de woorden "Begrotingsfonds Dienstverlening AHOVOKS";<br>
+2° aan artikel 26, § 1, wordt een tweede lid toegevoegd, dat luidt als volgt :<br>
+"In afwijking van het eerste lid draagt het begrotingsfonds met ingang van 1 juli 2015 de naam "Begrotingsfonds Dienstverlening AHOVOKS".".</p>
+
+### ART 22.
+
+<p>Artikel 69 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt opgeheven.</p>
+
 ## Afdeling 6 Aanpassing timing indiening begroting
 
 ## Afdeling 7 Aanpassing timing indiening jaarrekeningen
