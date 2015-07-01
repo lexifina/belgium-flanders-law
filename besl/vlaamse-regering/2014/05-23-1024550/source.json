@@ -2,16 +2,16 @@
   "codex_id": 1024550,
   "title": "Besluit van de Vlaamse Regering van 2014-05-23 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning, het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 14 december 2007 houdende vaststelling van het Vlaams reglement betreffende de bodemsanering en de bodembescherming, het besluit van de Vlaamse Regering van 12 december 2008 tot uitvoering van titel XVI van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid en het besluit van de Vlaamse Regering van 17 februari 2012 tot vaststelling van het Vlaams reglement betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024550/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "4675330c1d757aad5f387646e8e1df174068f713aa00dc0175e82c8840204e59",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024550/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "29e896d5d1a97360bb91b537ce55d85d6a4cf4d540157436a163b0996eccd4e6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024550&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-07-01",
   "made": "2014-05-23",
   "gazette": "2014-09-12",
   "numac": 2014036575,
   "document_start": "2014-09-22",
   "document_end": null,
-  "in_force": "2015-01-01",
-  "article_versions": 74,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-07-01",
+  "article_versions": 75,
+  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
 }
