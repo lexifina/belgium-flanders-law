@@ -3244,7 +3244,7 @@ De partners bij de associaties kunnen personeelsleden met hun instemming   belas
 
 ### ART. IV.12.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Ieder   jaar vóór 1 oktober deelt de Vlaamse Regering aan elke universiteit mee welke   uitkeringen voor werkings-, sociale en investeringsuitgaven zij krachtens de   artikelen III.32 en III.51, III.52, III.53 en III.54, kunnen verwachten voor het   volgend begrotingsjaar en op welke wijze deze uitkeringen zijn   berekend.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Vóór   1 juli bezorgt de Vlaamse Regering aan elke universiteit een raming van de   werkingsmiddelen, de sociale toelage en de investeringsmiddelen nodig voor het   opmaken van de begroting, vermeld in artikel   IV.13.</P>
+<P>Ieder jaar vóór 1 oktober deelt de Vlaamse Regering aan elke universiteit   mee:<BR>1° het bedrag van de werkingsuitkering dat de universiteit krachtens   deel 3, titel 1, hoofdstuk 1, kan verwachten;<BR>2° het bedrag van de sociale   toelage dat de universiteit krachtens deel 3, titel 2, hoofdstuk 1, kan   verwachten;<BR>3° het bedrag van de aanvullende middelen dat de universiteit   krachtens deel 3, titel 1, hoofdstuk 2, mag verwachten.<BR><BR>De Vlaamse   Regering deelt ook mee op welke wijze de bedragen werden berekend.<BR><BR>Ieder   jaar vóór 1 juli deelt de Vlaamse Regering aan elke universiteit een raming mee   van de in het eerste lid genoemde bedragen met het oog op het opmaken van de   begroting, bedoeld in artikel IV.13.</P>
 
 ### ART. IV.13.
 
@@ -3278,7 +3278,7 @@ De partners bij de associaties kunnen personeelsleden met hun instemming   belas
 
 ### ART. IV.20.
 
-<P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Ieder jaar voor 1 oktober deelt de Vlaamse Regering aan elke hogeschool   de geraamde werkingsuitkering voor het volgende begrotingsjaar mee met inbegrip   van de berekeningswijze.<?xml:namespace prefix = o ns =   "urn:schemas-microsoft-com:office:office" /></P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>&nbsp;</P>  <P style="MARGIN: 0cm 0cm 0pt" class=MsoNormal>Vóór 1 juli bezorgt de Vlaamse Regering aan elke hogeschool een raming   van de werkingsmiddelen en de sociale toelage nodig voor het opmaken van de   begroting, vermeld in artikel IV.21.</P>
+<P>Ieder jaar vóór 1 oktober deelt de Vlaamse Regering aan elke hogeschool   mee:<BR>1° het bedrag van de werkingsuitkering dat de hogeschool krachtens deel   3, titel 1, hoofdstuk 1, kan verwachten;<BR>2° het bedrag van de sociale toelage   dat de hogeschool krachtens deel 3, titel 2, hoofdstuk 1, kan verwachten;<BR>3°   het bedrag van de aanvullende middelen dat de hogeschool krachtens deel 3, titel   1, hoofdstuk 2, mag verwachten.<BR><BR>De Vlaamse Regering deelt ook mee op   welke wijze de bedragen werden berekend.<BR><BR>Ieder jaar vóór 1 juli deelt de   Vlaamse Regering aan elke hogeschool een raming mee van de in het eerste lid   genoemde bedragen met het oog op het opmaken van de begroting, bedoeld in   artikel IV.21.</P>
 
 ### ART. IV.21.
 
