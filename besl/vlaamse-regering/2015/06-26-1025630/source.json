@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025630,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-26 tot wijziging van het besluit van de Vlaamse Regering van 25 april 2014 betreffende de samenstelling en de werking van het Nationaal Sociaal-Economisch Comité voor de Distributie en van het Interministerieel Comité voor de Distributie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025630/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "a33bd826931b57555a68cbcf5dd10c8da0881dbe7373a0eb0352f3d2a7da5fcd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025630&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-17",
+  "numac": 2015035880,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
