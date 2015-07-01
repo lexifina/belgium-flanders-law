@@ -2,16 +2,16 @@
   "codex_id": 1023267,
   "title": "Omzendbrief van 2013-06-28 LNE/2013/1 : Richtlijnen voor de toepassing van de watertoets voor de vrijwaring van het waterbergend vermogen in signaalgebieden",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023267/VolledigDocument?datum=2013-10-14",
-  "source_sha256": "a1dad5a6406cb51c1665f0604485bd429fa3f8668a343a482ac2a9c00ec27c54",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023267/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "5591e7857a398d9dce0f65e4cd97fdfe1e994585b0163e0c8c8a0f7f03441e5d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023267&param=informatie",
-  "as_of": "2013-10-14",
+  "as_of": "2015-07-01",
   "made": "2013-06-28",
   "gazette": "2013-10-04",
   "numac": 2013035834,
   "document_start": "2013-10-14",
   "document_end": "2015-06-30",
-  "in_force": "2013-10-14",
+  "in_force": "2015-07-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2013-10-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
 }
