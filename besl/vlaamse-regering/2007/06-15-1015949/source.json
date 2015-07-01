@@ -2,16 +2,16 @@
   "codex_id": 1015949,
   "title": "Besluit van de Vlaamse Regering van 2007-06-15 tot inwerkingtreding van het decreet van 28 april 2006 houdende de oprichting van de Vlaamse Adviesraad voor Bestuurszaken en tot regeling van de presentiegelden van de leden van de Vlaamse Adviesraad voor Bestuurszaken",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015949/VolledigDocument?datum=2007-07-20",
-  "source_sha256": "9af42ebfc677a51ab9be81594140d2d5914caaae5a9b5c4f020bca10fb8c9662",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015949/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "ca3c6b2ab2b130a3be2d9416eb7a238f05c1c903342385cb3dbd6fe90f6c02d9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015949&param=informatie",
-  "as_of": "2007-07-20",
+  "as_of": "2015-07-01",
   "made": "2007-06-15",
   "gazette": "2007-07-10",
   "numac": 2007036047,
   "document_start": "2007-07-20",
   "document_end": "2015-06-30",
-  "in_force": "2007-07-20",
+  "in_force": "2015-07-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2007-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
 }
