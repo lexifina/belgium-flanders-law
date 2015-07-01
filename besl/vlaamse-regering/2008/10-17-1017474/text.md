@@ -57,7 +57,7 @@ De ramingen van de ontvangsten hebben betrekking op : <br />1° het over te drag
 
 ### ART. 8.
 
-De administrateur-generaal van het Agentschap voor het Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen, of zijn plaatsvervanger, wordt aangesteld als beheerder en ordonnateur van het Fonds. De bevoegdheden en verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de regels die gelden voor de diensten van de Vlaamse Regering.
+De administrateur-generaal van het Agentschap voor Hoger Onderwijs,   Volwassenenonderwijs, Kwalificaties en Studietoelagen, of zijn plaatsvervanger,   wordt aangesteld als beheerder en ordonnateur van het Fonds. De bevoegdheden en   verantwoordelijkheden van de ordonnateur worden vastgesteld overeenkomstig de   regels die gelden voor de diensten van de Vlaamse Regering.
 
 ### ART. 9.
 
