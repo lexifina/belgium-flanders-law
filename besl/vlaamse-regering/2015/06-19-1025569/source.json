@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025569,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-19 houdende goedkeuring van het kader voor de opleidingsaccreditatie 2015-2021 in het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025569/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "b147c2abc5e40e0c04f7010b745d8cf36caf3e7ad37e0e231330571accc7d3fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025569&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-06-19",
+  "gazette": "2015-07-09",
+  "numac": 2015035861,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
