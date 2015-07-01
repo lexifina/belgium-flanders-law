@@ -30,7 +30,7 @@ De examencommissies vermeld in artikel 56 van het decreet engageren zich   om vi
 
 ### ART. 8.
 
-Het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming laat elk   schooljaar vóór 15 mei een mededeling van het examen verschijnen, met de   vermelding van de twee schooladressen per provincie, in het Belgisch Staatsblad   en ten minste op de website van dit agentschap.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen laat elk schooljaar vóór 15 mei een mededeling van het examen   verschijnen, met de vermelding van de twee schooladressen per provincie, in het   Belgisch Staatsblad en ten minste op de website van dit   agentschap.
 
 ### ART. 9.
 
@@ -46,7 +46,7 @@ Het getuigschrift basisonderwijs dat aan de deelnemer wordt uitgereikt, wordt [.
 
 ### ART. 12.
 
-De schoolbesturen van de in artikel 6 bedoelde scholen ontvangen jaarlijks vanwege het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming een vergoeding van € 125,00 in het jaar dat zij fungeren als examencommissie.
+De schoolbesturen van de in artikel 6 bedoelde scholen ontvangen jaarlijks vanwege het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen een vergoeding van € 125,00 in het jaar dat zij fungeren als examencommissie.
 
 ### ART. 13.
 
