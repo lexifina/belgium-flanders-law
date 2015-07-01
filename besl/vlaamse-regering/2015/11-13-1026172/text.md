@@ -12,13 +12,11 @@ De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT:
 
 <p>§ 1. De reders, vermeld in artikel 3, § 1, 2°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij, worden vrijgesteld van de betaling van bepaalde werkgeversbijdragen aan de Hulp- en Voorzorgskas voor Zeevarenden.</p>
 
-<p>§ 2. De reders worden vrijgesteld van de betaling van werkgeversbijdragen bepaald in:<br>
-1° artikelen 3, § 3, 1°, 2°, 3°, 4°, 5° en 7°, § 3quater van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij;<br>
-2° artikelen 121 en 122 van de herstelwet van 22 januari 1985 houdende sociale bepalingen;<br>
-3° artikel 57 van de wetten betreffende de preventie van beroepsziekten en de vergoeding van de schade die uit ziekten voortvloeit, gecoördineerd op 3 juni 1970;<br>
-4° artikelen 59, 1°, en 59ter, § 1, van de arbeidsongevallenwet van 10 april 1971;<br>
-5° artikel 58 en 60 van de wet van 26 juni 2002 betreffende de sluiting van de ondernemingen;<br>
-6° artikelen 1, 2 en 3 van het koninklijk besluit van 27 november 1996 tot instelling van een bijzondere werkgeversbijdrage ter financiering van het stelsel van de tijdelijke werkloosheid en de anciënniteitstoeslag voor oudere werklozen, in toepassing van artikel 3, § 1, 4°, van de wet van 26 juli 1996 strekkende tot realisatie van de budgettaire voorwaarden tot deelname van België aan de europese Economische en Monetaire Unie.</p>
+<p>§ 2. ...</p>
+
+<p>§ 3. De reders worden vrijgesteld van de betaling van werkgeversbijdragen voor:<br>
+1° 26,99 % van de totale basiswerkgeversbijdragen, vermeld in artikel 3, § 3, 1°, van de besluitwet van 7 februari 1945 betreffende de maatschappelijke veiligheid van de zeelieden ter koopvaardij;<br>
+2° de bijdrage aan het Fonds tot vergoeding van de in geval van sluiting van ondernemingen ontslagen werknemers, vermeld in artikel 58 en 60 van de wet van 26 juni 2002 betreffende de sluiting van ondernemingen.</p>
 
 ### ART. 3.
 
