@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025568,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-19 houdende goedkeuring van het kader voor de Toets Nieuwe Opleiding 2015-2021 in het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025568/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "d1fa9670860f77f6ac0d9f985e6ed0b9a61732bee573b20ffb6267e5ef5ce22e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025568&param=informatie",
+  "as_of": "2015-07-01",
+  "made": "2015-06-19",
+  "gazette": "2015-07-09",
+  "numac": 2015035860,
+  "document_start": "2015-07-01",
+  "document_end": null,
+  "in_force": "2015-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
