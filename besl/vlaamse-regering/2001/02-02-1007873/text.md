@@ -52,7 +52,7 @@ Een kandidaat die deelneemt aan het toelatingsexamen maar op het einde van het k
 
 ### ART. 11.
 
-De zetel van de examencommissie is gevestigd op het adres van het Agentschap voor Kwaliteitszorg in Onderwijs en Vorming. De voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een andere plaats te laten doorgaan.
+De zetel van de examencommissie is gevestigd op het adres van Agentschap   voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen. De   voorzitter kan nochtans beslissen de vergaderingen van de examencommissie op een   andere plaats te laten doorgaan.
 
 ### ART. 12.
 
