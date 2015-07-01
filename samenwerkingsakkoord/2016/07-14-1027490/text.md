@@ -118,6 +118,18 @@ In artikel 8, § 1, tweede lid, van het koninklijk besluit van 25 oktober 1971 t
 
 ## HOOFDSTUK 5. Bepalingen betreffende de inkomensgrensbedragen
 
+### ART 16.
+
+In artikel 2, eerste lid, van het koninklijk besluit van 26 oktober 2004 tot uitvoering van de artikelen 42bis en 56, § 2, van de Algemene Kinderbijslagwet, gewijzigd bij de koninklijke besluiten van 28 september 2008 en 5 februari 2014, worden de woorden "voortvloeiend uit de toepassing van de artikelen 212, zesde lid, en 213, eerste lid, eerste zin," vervangen door de woorden "voortvloeiend uit de toepassing van de artikelen 212, zevende lid, en 213, eerste lid, eerste zin,".
+
+### ART 17.
+
+In artikel 41, tweede streepje, van de Algemene Kinderbijslagwet van 19 december 1939, hersteld bij de wet van 27 april 2007 en gewijzigd bij de koninklijke besluiten van 28 september 2008 en 5 februari 2014, worden de woorden "voortvloeiend uit de toepassing van de artikelen 212, zesde lid, en 213, eerste lid, eerste zin," vervangen door de woorden "voortvloeiend uit de toepassing van de artikelen 212, zevende lid, en 213, eerste lid, eerste zin,".
+
+### ART 18.
+
+In artikel 42bis, § 4, tweede lid, a), van dezelfde wet, vervangen bij de wet van 27 december 2006 en gewijzigd bij de wet van 22 december 2008 en het koninklijk besluit van 5 februari 2014, worden de woorden "voortvloeiend uit de toepassing van artikelen 212, zesde lid en 213, eerste lid, eerste zin," vervangen door de woorden "voortvloeiend uit de toepassing van de artikelen 212, zevende lid, en 213, eerste lid, eerste zin,".
+
 ## HOOFDSTUK 6. Inwerkingtreding van het samenwerkingsakkoord
 
 ### ART 19.

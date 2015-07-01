@@ -2,16 +2,16 @@
   "codex_id": 1027490,
   "title": "Samenwerkingsakkoord van 2016-07-14 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap betreffende de aan de kinderbijslagregelgeving aan te brengen wijzigingen",
   "type": "Samenwerkingsakkoord",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027490/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "20c03ba767fd77e9faf43274161a8dd34d5726498dedb37bd93c462ee40c8cfe",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027490/VolledigDocument?datum=2015-07-01",
+  "source_sha256": "01138bae98436c5fcc4863d0c892e9c6cff0707cb0fcc90fbcef146ddadaacc8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027490&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-07-01",
   "made": "2016-07-14",
   "gazette": "2016-10-20",
   "numac": 2016021079,
   "document_start": null,
   "document_end": null,
-  "in_force": "2015-01-01",
-  "article_versions": 19,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-07-01",
+  "article_versions": 22,
+  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
 }
