@@ -216,6 +216,10 @@ In   artikel 37 van hetzelfde decreet wordt paragraaf 9   opgeheven.
 
 ## Afdeling 8 Schenkbelasting
 
+### ART. 96.
+
+In   artikel 2.8.4.3.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013,   ingevoegd bij het decreet van 19 december 2014, worden de volgende wijzigingen   aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1, eerste lid, wordt tussen de zinsnede "wordt de schenkbelasting   voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest" en de   zinsnede "berekend volgens het tarief" de zinsnede "en gedaan met ingang van 1   juli 2015," ingevoegd;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 2, eerste lid, wordt tussen de zinsnede "wordt de schenkbelasting   voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest" en de   zinsnede "berekend volgens het tarief" de zinsnede "en gedaan met ingang van 1   juli 2015," ingevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling 9 Onroerende voorheffing
 
 ### ART. 99.
