@@ -12,6 +12,10 @@ De bijlage van het ministerieel besluit van 13 januari 2006 betreffende de   vor
 
 ## Hoofdstuk II Wijziging aan het ministerieel besluit van 20 oktober 2006 over het vaststellen van minimale voorwaarden bij de opname van gegevens in de Energieprestatiedatabank
 
+### ART. 2.
+
+Aan artikel 1, tweede lid van het ministerieel besluit van 20 oktober 2006   over het vaststellen van minimale voorwaarden bij de opname van gegevens in de   Energieprestatiedatabank, gewijzigd bij ministerieel besluit van 1 december   2010, wordt een punt 12 toegevoegd, dat luidt als volgt:<BR>"12° de   startdatum/data en einddatum/data van de werkzaamheden."<BR>
+
 ## Hoofdstuk III Wijzigingen aan het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw
 
 ### ART. 3.
