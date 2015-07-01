@@ -172,7 +172,7 @@ De personeelsleden verstrekken uiterlijk op het ogenblik waarop het ouderschapsv
 
 ### ART. 35.
 
-Het Agentschap Hoger onderwijs, Volwassenenonderwijs en Studietoelagen betaalt de premie maandelijks uit. Het personeelslid verliest het recht op de premie vanaf de eerste dag van de maand, volgend op de datum waarop niet meer voldaan is aan de voorwaarden tot het verkrijgen van de premie. Elke wijziging in de persoonlijke situatie moet onmiddellijk aan het Agentschap Hoger Onderwijs, Volwassenenonderwijs en Studietoelagen meegedeeld worden. De onrechtmatig verkregen premies worden teruggevorderd.
+Het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties   en Studietoelagen betaalt de premie maandelijks uit. Het personeelslid verliest   het recht op de premie vanaf de eerste dag van de maand, volgend op de datum   waarop niet meer voldaan is aan de voorwaarden tot het verkrijgen van de premie.   Elke wijziging in de persoonlijke situatie moet onmiddellijk aan het Agentschap   voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen   meegedeeld worden. De onrechtmatig verkregen premies worden   teruggevorderd.
 
 ## HOOFDSTUK VI. Slotbepalingen
 
