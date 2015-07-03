@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025512,
+  "title": "Ministerieel besluit van 2015-05-07 tot vaststelling van het model voor de beslissing over de aanvraag van een planologisch attest",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025512/VolledigDocument?datum=2015-07-03",
+  "source_sha256": "537ac3942f5c7e824b08c7a23b262111b20276fe30e852ca86c88c4adba1b0d6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025512&param=informatie",
+  "as_of": "2015-07-03",
+  "made": "2015-05-07",
+  "gazette": "2015-06-23",
+  "numac": 2015035755,
+  "document_start": "2015-07-03",
+  "document_end": null,
+  "in_force": "2015-07-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
