@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025511,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-29 tot wijziging van het artikel 22 van het besluit van de Vlaamse Regering van 20 juli 2006 tot regeling van de steun aan projecten van innovatiestimulering, technologisch advies en collectief onderzoek op verzoek van Vlaamse Innovatiesamenwerkingsverbanden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025511/VolledigDocument?datum=2015-07-03",
+  "source_sha256": "e737c7d5e38be1392f0541608204c8caf5d51a8ef5f3fca32d6af074c93fa505",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025511&param=informatie",
+  "as_of": "2015-07-03",
+  "made": "2015-05-29",
+  "gazette": "2015-06-23",
+  "numac": 2015035750,
+  "document_start": "2015-07-03",
+  "document_end": null,
+  "in_force": "2015-07-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
