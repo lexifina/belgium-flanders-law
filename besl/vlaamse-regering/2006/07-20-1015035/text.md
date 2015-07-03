@@ -148,7 +148,11 @@ Het besluit van de Vlaamse Regering van 24 mei 2002 tot regeling van de steun aa
 
 ### ART. 22.
 
-Dit besluit treedt in werking op 1 juli 2006 en houdt op van kracht te zijn op 31 december 2015.<br /><br />
+Dit besluit treedt in werking op 1 juli 2006 en houdt op van kracht te   zijn op 31 december 2017.<BR><BR>
+
+### ART. 22bis.
+
+In afwijking op artikel 22 van dit besluit zullen de bepalingen van dit   besluit ook na de in artikel 22 van dit besluit genoemde datum van toepassing   zijn op steun die vóór het verstrijken van de geldigheidsduur van dit besluit   wordt toegekend doch waarvan de contractuele voorwaarden zoals bedoeld in   artikel 15 van dit besluit een geldingsduur hebben die langer loopt dan de in   artikel 22 van dit besluit genoemde datum.
 
 ### ART. 23.
 
