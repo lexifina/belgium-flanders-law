@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025510,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot overdracht van de onderwijsbevoegdheid van de Katholieke Universiteit Leuven van de vestiging Oostende naar de vestiging Brugge",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025510/VolledigDocument?datum=2015-07-03",
+  "source_sha256": "7f8bcfe2f7d61143e8abc7a5f9a23aede8df4cbfbfc60abaef0bea0813ce099b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025510&param=informatie",
+  "as_of": "2015-07-03",
+  "made": "2015-05-22",
+  "gazette": "2015-06-23",
+  "numac": 2015035751,
+  "document_start": "2015-07-03",
+  "document_end": null,
+  "in_force": "2015-07-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
