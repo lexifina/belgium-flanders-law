@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025514,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-29 houdende indeling bij de gemeentewegen van het weggedeelte \"Parking Didden\" langsheen de gewestweg N76 te Opglabbeek tussen kmp. 29,300 en kmp. 29,400 op het grondgebied van de gemeente Opglabbeek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025514/VolledigDocument?datum=2015-07-03",
+  "source_sha256": "a31075d66d06c2dcd0183b9f74e3f0f421a2c40833ea70c9207dc09434dd4ed9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025514&param=informatie",
+  "as_of": "2015-07-03",
+  "made": "2015-05-29",
+  "gazette": "2015-06-23",
+  "numac": 2015035767,
+  "document_start": "2015-07-03",
+  "document_end": null,
+  "in_force": "2015-07-03",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
