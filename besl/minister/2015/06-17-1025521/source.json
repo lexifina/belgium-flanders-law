@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025521,
+  "title": "Ministerieel besluit van 2015-06-17 houdende actualisatie van de huidige bandingfactoren en vastlegging van de bandingfactoren van groenestroomcertificaten voor groenestroomprojecten die gebruik maken van zonne-energie met een startdatum vanaf 1 juli 2015",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025521/VolledigDocument?datum=2015-07-05",
+  "source_sha256": "6b76a5f2375ce1f2e83dce773a599cadc61fdfb4e3174bd4bab2cbaeaada0e31",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025521&param=informatie",
+  "as_of": "2015-07-05",
+  "made": "2015-06-17",
+  "gazette": "2015-06-25",
+  "numac": 2015035782,
+  "document_start": "2015-07-05",
+  "document_end": null,
+  "in_force": "2015-07-05",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
