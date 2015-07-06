@@ -134,7 +134,7 @@ Publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen verpl
 
 ### ART. 26.
 
-Publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen kunnen door de Vlaamse regering verplicht worden verzekeringen aan te gaan bij een of meer door de Vlaamse regering aan te wijzen instellingen.
+<P>&nbsp;De Vlaamse Regering kan publiekrechtelijk vormgegeven extern   verzelfstandigde agentschappen, rekening houdend met hun autonomie in het   dagelijks functioneren, verplichten om gemeenschappelijke dienstverlening af te   nemen zoals vastgesteld door de Vlaamse Regering of om verzekeringen aan te gaan   bij een of meer door de Vlaamse Regering aan te wijzen   instellingen.</P>
 
 ## ONDERAFDELING 6 DIVERSE BEPALINGEN
 
