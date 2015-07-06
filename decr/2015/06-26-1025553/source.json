@@ -2,16 +2,16 @@
   "codex_id": 1025553,
   "title": "Decreet van 2015-06-26 tot wijziging van het kaderdecreet bestuurlijk beleid van 18 juli 2003, wat betreft de organisatie van de beleidsuitvoering en de beleidsvoorbereiding, de ondernemingsplannen en de gemeenschappelijke dienstverlening",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025553/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "9956ab75ab70d0cf7c30cc4859a82eca646afe2c5941c7a402833d28bd3fa1ac",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025553/VolledigDocument?datum=2015-07-06",
+  "source_sha256": "f6b0ac1b9368e6828e948c454d3a3c7cef38cf2092055c471b9a6f493a5f24c0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025553&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-07-06",
   "made": "2015-06-26",
   "gazette": "2015-07-06",
   "numac": 2015035857,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
-  "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-07-06",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-07-06; future article versions excluded; article text as the API gives it"
 }
