@@ -22,7 +22,7 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 
 ### BIJLAGE
 
-<p>De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie zijn :</p>
+<p>De sociaalrechtelijke inspecteurs van de afdeling Inspectie Werk en Sociale Economie van het Departement Werk en Sociale Economie zijn:</p>
 &nbsp;
 
 <table border="1">
@@ -36,15 +36,11 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 			<td>Ann Lambrechts</td>
 		</tr>
 		<tr>
-			<td>Willy Bieseman</td>
 			<td>Thalassa Marchand</td>
-		</tr>
-		<tr>
 			<td>Kristof Botteldoorn</td>
-			<td>Evi Martens</td>
 		</tr>
 		<tr>
-			<td>Charles Brees</td>
+			<td>Evi Martens</td>
 			<td>David Matthys</td>
 		</tr>
 		<tr>
@@ -94,6 +90,30 @@ Het ministerieel besluit van 2 februari 2009 tot aanwijzing van sociaalrechtelij
 		<tr>
 			<td>Raymond Graindor</td>
 			<td>Marc Willems</td>
+		</tr>
+		<tr>
+			<td>Nele Dumeez</td>
+			<td>Nick Van Duppen</td>
+		</tr>
+		<tr>
+			<td>David Feremans</td>
+			<td>Sofie Carlier</td>
+		</tr>
+		<tr>
+			<td>Frank Haerinck</td>
+			<td>Alexander Heirman</td>
+		</tr>
+		<tr>
+			<td>Katrien Herman</td>
+			<td>Bart Nollet</td>
+		</tr>
+		<tr>
+			<td>Jan Boeykens</td>
+			<td>Liesbet De Koster</td>
+		</tr>
+		<tr>
+			<td>Johanna Paternoster</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
