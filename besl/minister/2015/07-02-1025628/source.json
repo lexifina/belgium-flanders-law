@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025628,
+  "title": "Ministerieel besluit van 2015-07-02 tot wijziging van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, wat betreft de in aanmerking komende ecologie-investeringen van diepe aardwarmte-installaties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025628/VolledigDocument?datum=2015-07-06",
+  "source_sha256": "25a27a32b31b6f7cffb8c3a6cce55b8cd8c645ab927051ef23e5baa835532a99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025628&param=informatie",
+  "as_of": "2015-07-06",
+  "made": "2015-07-02",
+  "gazette": "2015-07-17",
+  "numac": 2015035907,
+  "document_start": "2015-07-06",
+  "document_end": null,
+  "in_force": "2015-07-06",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
