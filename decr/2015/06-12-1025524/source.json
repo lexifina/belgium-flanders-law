@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025524,
+  "title": "Decreet van 2015-06-12 tot wijziging van het decreet van 27 april 2007 betreffende het hergebruik van overheidsinformatie en het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer, bl. 37664",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025524/VolledigDocument?datum=2015-07-10",
+  "source_sha256": "34a298f5c01e4158b3abbf1cb1e151048d5d1517696104815412c3387c4bec87",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025524&param=informatie",
+  "as_of": "2015-07-10",
+  "made": "2015-06-12",
+  "gazette": "2015-06-30",
+  "numac": 2015035784,
+  "document_start": "2015-07-10",
+  "document_end": null,
+  "in_force": "2015-07-10",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
