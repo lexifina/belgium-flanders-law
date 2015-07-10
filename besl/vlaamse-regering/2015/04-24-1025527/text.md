@@ -16,6 +16,14 @@ De statutaire personeelsleden van het Departement Financiën   en Begroting, opg
 
 Het statutaire personeelslid van het Agentschap Facilitair   Bedrijf, opgenomen in bijlage 3 die bij dit besluit is gevoegd, wordt   overgedragen aan het Departement Financiën en Begroting.
 
+### ART. 4.
+
+De artikelen 1 en 2 van dit besluit treden in werking vanaf 1   april 2015, het artikel 3 heeft uitwerking met ingang van 1 mei   2015.
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor de financiën en de   begroting en de Vlaamse minister, bevoegd voor de bestuurszaken, zijn ieder wat   hem of haar betreft, belast met de uitvoering van dit   besluit.
+
 ### BIJLAGE
 
 Lijst   van de statutaire personeelsleden, vermeld in artikel 1<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">  <TABLE   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT-FAMILY: 'Times New Roman'; WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"   border=1>    <TBODY>    <TR>      <TD>Naam</TD>      <TD>Graad</TD>      <TD>Salarisschaal<BR></TD></TR>    <TR>      <TD>KELDER Richard</TD>      <TD>Stagedoend adviseur</TD>      <TD>A211<BR></TD></TR></TBODY></TABLE>
