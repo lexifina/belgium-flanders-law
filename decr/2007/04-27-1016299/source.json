@@ -2,16 +2,16 @@
   "codex_id": 1016299,
   "title": "Decreet van 2007-04-27 betreffende het hergebruik van overheidsinformatie",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016299/VolledigDocument?datum=2010-10-17",
-  "source_sha256": "770ae0106fb6f761e76be78b762fa47924f9aa08adc6cde31a94b7cb8f2a704c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016299/VolledigDocument?datum=2015-07-10",
+  "source_sha256": "0b63b2baa9573ae16fdfc053e15d9820cf03ac37b706e7e3258c634f5ad7559c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016299&param=informatie",
-  "as_of": "2010-10-17",
+  "as_of": "2015-07-10",
   "made": "2007-04-27",
   "gazette": "2007-11-05",
   "numac": 2007036006,
   "document_start": "2007-11-05",
   "document_end": "2018-12-31",
-  "in_force": "2010-10-17",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2010-10-17; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-07-10",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2015-07-10; future article versions excluded; article text as the API gives it"
 }
