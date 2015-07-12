@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025540,
+  "title": "Ministerieel besluit van 2015-06-05 tot vaststelling van de werkzaamheden, beheersmaatregelen en diensten die op forfaitaire basis in aanmerking komen voor een erfgoedpremie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025540/VolledigDocument?datum=2015-07-12",
+  "source_sha256": "5d0e7e2016841ba7400311bb5009da32a30b5281a7b861d9da0e98abc488f177",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025540&param=informatie",
+  "as_of": "2015-07-12",
+  "made": "2015-06-05",
+  "gazette": "2015-07-02",
+  "numac": 2015035818,
+  "document_start": "2015-07-12",
+  "document_end": null,
+  "in_force": "2015-07-12",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
