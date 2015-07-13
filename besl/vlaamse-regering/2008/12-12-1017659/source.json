@@ -2,16 +2,16 @@
   "codex_id": 1017659,
   "title": "Besluit van de Vlaamse Regering van 2008-12-12 tot regeling van de steun aan projecten van onderzoek en ontwikkeling van het bedrijfsleven in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017659/VolledigDocument?datum=2009-03-10",
-  "source_sha256": "1c1835045b9b3d2ae86e835aa566d3515c2c0d9a922d8b5fd05bbf44d7b50d48",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017659/VolledigDocument?datum=2015-07-13",
+  "source_sha256": "fdaf35d01f10b427ca10fea06651188b5c3b70e093a5acc4b06979c745dfee23",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017659&param=informatie",
-  "as_of": "2009-03-10",
+  "as_of": "2015-07-13",
   "made": "2008-12-12",
   "gazette": "2009-03-10",
   "numac": 2009200846,
   "document_start": "2009-03-10",
   "document_end": "2017-09-30",
-  "in_force": "2009-03-10",
+  "in_force": "2015-07-13",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2009-03-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-13; future article versions excluded; article text as the API gives it"
 }
