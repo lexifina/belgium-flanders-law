@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025548,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-12 houdende beslissing om over te gaan tot vereenvoudigde ruilverkaveling op delen van het grondgebied van de gemeente Knokke-Heist en de stad Damme (vereenvoudigde ruilverkaveling A11, traject Leopoldkanaal-N49)",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025548/VolledigDocument?datum=2015-07-13",
+  "source_sha256": "f4568b4a34dd4ea3cfd4be30d394a5f3f6eb5f6b34d78f9d3b591cf2afde19ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025548&param=informatie",
+  "as_of": "2015-07-13",
+  "made": "2015-06-12",
+  "gazette": "2015-07-03",
+  "numac": 2015035828,
+  "document_start": "2015-07-13",
+  "document_end": null,
+  "in_force": "2015-07-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
