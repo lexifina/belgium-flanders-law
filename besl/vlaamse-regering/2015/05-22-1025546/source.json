@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025546,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 12 december 2008 tot regeling van de steun aan projecten van onderzoek en ontwikkeling van het bedrijfsleven in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025546/VolledigDocument?datum=2015-07-13",
+  "source_sha256": "a2ee91235740b3fda2a1739a9bbefd5417c749b823d1d6a7f2776ccfef4db091",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025546&param=informatie",
+  "as_of": "2015-07-13",
+  "made": "2015-05-22",
+  "gazette": "2015-07-03",
+  "numac": 2015035829,
+  "document_start": "2015-07-13",
+  "document_end": null,
+  "in_force": "2015-07-13",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-07-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
