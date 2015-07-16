@@ -122,7 +122,7 @@ De beheerpakketten die ingezet kunnen worden voor de beheerdoelstellingen,   ver
 
 ### ART. 20.
 
-<P>&nbsp;In de beheerpakketten worden de basisnormen, de instapvoorwaarden en de   beheervoorwaarden opgenomen. Met de beheervoorwaarden wordt een hogere kwaliteit   voor natuur en milieu bereikt dan de basiskwaliteit voor natuur en   milieu.<BR></P>  <P>In het eerste lid wordt verstaan onder basiskwaliteit voor natuur en milieu:   de kwaliteit die wordt bereikt door de basisnormen en het standstill-beginsel na   te leven.<BR></P>  <P>Met behoud van de toepassing van dit besluit wordt de naleving van de   voorschriften vastgesteld in de Vlaamse regelgeving over natuur en milieu, ook   als basiskwaliteit voor natuur en milieu beschouwd.<BR></P>  <P>De minister bepaalt voor elk beheerpakket de basisnormen, de   instapvoorwaarden en de beheervoorwaarden<BR></P>
+<P>In de beheerpakketten worden de basisnormen, de instapvoorwaarden en de   beheervoorwaarden opgenomen. Met de beheervoorwaarden wordt een hogere kwaliteit   voor natuur en milieu bereikt dan de basiskwaliteit voor natuur en   milieu.<BR><BR>In het eerste lid wordt verstaan onder basiskwaliteit voor natuur   en milieu: de kwaliteit die wordt bereikt door de basisnormen en het   standstill-beginsel na te leven.<BR><BR>Met behoud van de toepassing van dit   besluit wordt de naleving van de voorschriften vastgesteld in de Vlaamse   regelgeving over natuur en milieu, ook als basiskwaliteit voor natuur en milieu   beschouwd.<BR><BR>De minister bepaalt voor elk beheerpakket de basisnormen, de   instapvoorwaarden en de beheervoorwaarden, alsook de   beheervergoedingen.</P>
 
 ## HOOFDSTUK 5 De beheergebieden
 
