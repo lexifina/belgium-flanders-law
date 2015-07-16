@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025557,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-19 tot wijziging van artikel 20 van het besluit van de Vlaamse Regering van 19 september 2014 tot het verlenen van subsidies voor beheerovereenkomsten met toepassing van Verordening (EU) nr. 1305/2013 van het Europees Parlement en de Raad van 17 december 2013 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor plattelandsontwikkeling",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025557/VolledigDocument?datum=2015-07-16",
+  "source_sha256": "2d58bc89e4d6620e6ceb175fde6762f67475d186fbfb81785ad33906dec075e5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025557&param=informatie",
+  "as_of": "2015-07-16",
+  "made": "2015-06-19",
+  "gazette": "2015-07-06",
+  "numac": 2015035850,
+  "document_start": "2015-07-16",
+  "document_end": null,
+  "in_force": "2015-07-16",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
