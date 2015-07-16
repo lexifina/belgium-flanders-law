@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025554,
+  "title": "Besluit van de Vlaamse Regering van 2014-12-19 houdende de herverdeling van begrotingsartikelen van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025554/VolledigDocument?datum=2015-07-16",
+  "source_sha256": "a7acbc4cbc426838e826fa0899d0ab2e9e6a0b97f448ac47492659ddc2213c8f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025554&param=informatie",
+  "as_of": "2015-07-16",
+  "made": "2014-12-19",
+  "gazette": "2015-07-06",
+  "numac": 2015035840,
+  "document_start": "2015-07-16",
+  "document_end": null,
+  "in_force": "2015-07-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
