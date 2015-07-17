@@ -60,6 +60,10 @@ In artikel 67 van hetzelfde decreet wordt het eerste lid vervangen door   wat vo
 
 ## HOOFDSTUK 6 Vestiging van een recht van erfpacht voor de openbare psychiatrische zorgcentra
 
+### ART. 26.
+
+<P>Artikel 16bis van het decreet van 30 april 2004 tot oprichting van de   publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen Openbaar   Psychiatrisch Zorgcentrum Geel en Openbaar Psychiatrisch Zorgcentrum Rekem,   ingevoegd bij het decreet van 31 maart 2006, wordt vervangen door wat volgt :   <BR>"Art. 16bis. De Vlaamse Gemeenschap verleent een zakelijk recht van erfpacht   aan respectievelijk het Openbaar Psychiatrisch Zorgcentrum Geel en het Openbaar   Psychiatrisch Zorgcentrum Rekem, voor een termijn van vijftig jaar, betreffende   de onroerende goederen die op 1 januari 2013 ter beschikking gesteld zijn door   de Vlaamse Gemeenschap aan respectievelijk het Openbaar Psychiatrisch   Zorgcentrum Geel en het Openbaar Psychiatrisch Zorgcentrum Rekem.<BR></P>  <P>De erfpachter betaalt een jaarlijkse canon van vijfentwintig euro aan de   Vlaamse Gemeenschap voor de vestiging van het recht van erfpacht. De Vlaamse   Gemeenschap betaalt bij de beëindiging van het recht van erfpacht geen   vergoeding aan de erfpachter voor de door de erfpachter opgerichte   opstallen.<BR></P>  <P>De Vlaamse Gemeenschap geeft, binnen de beschikbare begrotingskredieten,   jaarlijks een dotatie aan de openbare psychiatrische zorgcentra, vermeld in het   eerste lid, die bestemd is voor de onderhoudskosten en de herstellingwerken van   de gebouwen en installaties die opgericht werden op de betrokken onroerende   goederen vóór 1 januari 2013. Deze gebouwen en installaties worden door de   openbare psychiatrische zorgcentra, vermeld in het eerste lid, beheerd als een   goed huisvader.<BR></P>  <P>De inventaris van de overgedragen onroerende goederen, vermeld in het eerste   lid, wordt vastgesteld bij besluit van de Vlaamse Regering.<BR></P>  <P>De Vlaamse Regering kan de nadere regels bepalen voor de toepassing en   uitwerking van dit artikel en zorgt voor de concrete uitvoering   ervan.".<BR></P>
+
 ## HOOFDSTUK 7 Zorgverzekering
 
 ### ART. 27.
