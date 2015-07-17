@@ -2,16 +2,16 @@
   "codex_id": 1001293,
   "title": "Besluit van de Vlaamse Regering van 1991-06-19 tot uitvoering van sommige bepalingen van Titel I, hoofdstuk 4 van het decreet van 12 december 1990 betreffende het bestuurlijk beleid inzake de openbare psychiatrische ziekenhuizen te Geel en te Rekem",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001293/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "959091ef030d5aa91d0b9dfc349b264ccb617e7d2840b7755ef0f9fa2fae2e87",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001293/VolledigDocument?datum=2015-07-17",
+  "source_sha256": "a1e635a444ad4a4e98e7ba73d22e991d7a7c4b6becb5abda07c431be7833137e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001293&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2015-07-17",
   "made": "1991-06-19",
   "gazette": "1991-09-06",
   "numac": 1991036041,
   "document_start": "1991-07-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2015-07-17",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-17; future article versions excluded; article text as the API gives it"
 }
