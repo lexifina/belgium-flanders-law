@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025629,
+  "title": "Ministerieel besluit van 2015-07-10 houdende delegatie van de beslissingsbevoegdheid inzake de prijzen voor dagverzorgingscentra, centra voor kortverblijf, groepen van assistentiewoningen, woonzorgcentra en rust- en verzorgingstehuizen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025629/VolledigDocument?datum=2015-07-20",
+  "source_sha256": "59c350091717450eebad436ad0887260046d0551502aafb2e275831474c1ea9b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025629&param=informatie",
+  "as_of": "2015-07-20",
+  "made": "2015-07-10",
+  "gazette": "2015-07-17",
+  "numac": 2015035949,
+  "document_start": "2015-07-20",
+  "document_end": null,
+  "in_force": "2015-07-20",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
