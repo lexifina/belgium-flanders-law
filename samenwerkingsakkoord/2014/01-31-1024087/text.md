@@ -10,7 +10,27 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit samenwerkingsakkoord, wordt verstaan onder   :<BR>1° het Akkoord : het huidige samenwerkingsakkoord;<BR>2° de Partijen : de   partijen bij dit Akkoord;<BR>3° Viapass : het publiekrechtelijk vormgegeven   Interregionaal Samenwerkingsverband opgericht bij wijze van vereniging als   bedoeld in artikel 18 van dit Akkoord;<BR>4° de Concessiehouder : de publieke of   private rechtspersoon die het beheer van de weg of een gedeelte van de weg van   de wegbeheerder in concessie heeft;<BR>5° het Concessietolgeld : de   kilometerheffing geheven door een publiekrechtelijke of privaatrechtelijke   concessiehouder;<BR>6° de Beschikking van 6 oktober 2009 : de Beschikking   2009/750/EG van de Europese Commissie van 6 oktober 2009 tot definiëring van de   Europese elektronische tolheffingsdienst en de bijbehorende technische   onderdelen;<BR>7° de DBFMO-overeenkomst : de overeenkomst die door Viapass,   optredende in naam en voor rekening van het Vlaamse Gewest, het Waalse Gewest,   het Brussels Hoofdstedelijk Gewest en, gebeurlijk, hun concessiehouder(s), in   uitvoering van de Samenvoegingsovereenkomst bedoeld in 16°, wordt gesloten met   de Single Service Provider;<BR>8° de Dienstverlener : elke door een tolheffende   instantie op haar tolgebied toegelaten juridische entiteit die een dienst   aanbiedt van facturatie aan gebruikers, inning, en afdracht aan de gewesten of   aan de door hen aangeduide concessiehouders, van kilometerheffing op basis van   door een elektronische registratievoorziening geregistreerde gegevens;<BR>9° de   Elektronische registratievoorziening : de elektronische boordapparatuur bestemd   voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst   en dat, al dan niet met behulp van elektronische apparatuur op afstand, data   uitwisselt om te komen tot de registratie van afgelegde kilometers of gedeelten   van afgelegde kilometers, evenals de berekening van de kilometerheffing op deze   geregistreerde afstand;<BR>10° de Geconcedeerde weg : de weg of het gedeelte van   de weg waarvan het beheer door de wegbeheerder in concessie is gegeven;<BR>11°   het Gegarandeerde betaalmiddel : betaalmiddel waarmee de dienstverlener de   kilometerheffing en, in voorkomend geval, de aan de houder van het voertuig   gefactureerde inningskosten op eerste verzoek kan innen, zonder verdere   toelating van de houder van het voertuig en zonder dat deze de betaling die met   het betaalmiddel werd verricht, kan annuleren;<BR>12° de Single Service Provider   : de dienstverlener waarmee in uitvoering van de overeenkomst betreffende de   realisatie van een gezamenlijke opdracht, vermeld in 16°, een DBFMO-overeenkomst   wordt gesloten en die, onder zijn verantwoordelijkheid de vaste en mobiele   handhavingsapparatuur ter beschikking stelt aan de met de handhaving van de   kilometerheffing belaste gewesten;<BR>13° Tolgebied : een deel van het wegennet   met inbegrip van structuren zoals een tunnel, een brug, of een veerpont waarvoor   door een tolheffende instantie kilometerheffing wordt geïnd of waarop   kilometerheffing kan worden geïnd, maar het tarief nul eurocent bedraagt;<BR>14°   de Tolgebiedverklaring : verklaring waarmee een tolheffende instantie de   algemene voorwaarden bepaalt als bedoeld in artikel 5, 2° van de Beschikking van   6 oktober 2009 en waaraan de dienstverleners moeten voldoen om toegang tot het   betrokken tolgebied te verkrijgen;<BR>15° de Tolrichtlijn : de Richtlijn   1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende   het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen   aan zware vrachtvoertuigen, zoals gewijzigd door de Richtlijnen 2006/38/EG en   2011/76/EU;<BR>16° de Samenvoegingsovereenkomst : de overeenkomst betreffende de   realisatie van een gezamenlijke opdracht in de zin van artikel 19 van wet van 24   december 1993 betreffende de overheidsopdrachten en sommige opdrachten voor   aanneming van werken, leveringen en diensten, gesloten tussen het Vlaamse   Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest en SOFICO;<BR>17°   de Tolheffende instantie : het gewest ingeval van de kilometerheffing als   belasting op de niet-geconcedeerde wegen, of de concessiehouder ingeval van de   kilometerheffing als concessietolgeld op de geconcedeerde wegen;<BR>18° het   Voertuig : een motorvoertuig of een samenstel van voertuigen bedoeld of   gebruikt, al dan niet uitsluitend, voor het vervoer over de weg van goederen en   waarvan het maximaal toegestane totaalgewicht meer dan 3,5 ton bedraagt; bij een   samenstel van voertuigen is de heffing enkel verschuldigd indien het   motorvoertuig bestemd is voor het vervoer van goederen over de weg;<BR>19° de   Weg : de landwegenis en haar aanhorigheden.
+Voor de toepassing van dit samenwerkingsakkoord, wordt verstaan onder :<br>
+1° het Akkoord : het huidige samenwerkingsakkoord;<br>
+2° de Partijen : de partijen bij dit Akkoord;<br>
+3° Viapass : het publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband opgericht bij wijze van vereniging als bedoeld in artikel 18 van dit Akkoord;<br>
+4° de Concessiehouder : de publieke of private rechtspersoon die het beheer van de weg of een gedeelte van de weg van de wegbeheerder in concessie heeft;<br>
+5° het Concessietolgeld : de kilometerheffing geheven door een publiekrechtelijke of privaatrechtelijke concessiehouder;<br>
+6° de Beschikking van 6 oktober 2009 : de Beschikking 2009/750/EG van de Europese Commissie van 6 oktober 2009 tot definiëring van de Europese elektronische tolheffingsdienst en de bijbehorende technische onderdelen;<br>
+7° de DBFMO-overeenkomst : de overeenkomst die door Viapass, optredende in naam en voor rekening van het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest en, gebeurlijk, hun concessiehouder(s), in uitvoering van de Samenvoegingsovereenkomst bedoeld in 16°, wordt gesloten met de Single Service Provider;<br>
+8° de Dienstverlener : elke door een tolheffende instantie op haar tolgebied toegelaten juridische entiteit die een dienst aanbiedt van facturatie aan gebruikers, inning, en afdracht aan de gewesten of aan de door hen aangeduide concessiehouders, van kilometerheffing op basis van door een elektronische registratievoorziening geregistreerde gegevens;<br>
+9° de Elektronische registratievoorziening : de elektronische boordapparatuur bestemd voor de plaatsbepaling van het voertuig waarin de boordapparatuur is geplaatst en dat, al dan niet met behulp van elektronische apparatuur op afstand, data uitwisselt om te komen tot de registratie van afgelegde kilometers of gedeelten van afgelegde kilometers, evenals de berekening van de kilometerheffing op deze geregistreerde afstand;<br>
+10° de Geconcedeerde weg : de weg of het gedeelte van de weg waarvan het beheer door de wegbeheerder in concessie is gegeven;<br>
+11° het Gegarandeerde betaalmiddel : betaalmiddel waarmee de dienstverlener de kilometerheffing en, in voorkomend geval, de aan de houder van het voertuig gefactureerde inningskosten op eerste verzoek kan innen, zonder verdere toelating van de houder van het voertuig en zonder dat deze de betaling die met het betaalmiddel werd verricht, kan annuleren;<br>
+12° de Single Service Provider : de dienstverlener waarmee in uitvoering van de overeenkomst betreffende de realisatie van een gezamenlijke opdracht, vermeld in 16°, een DBFMO-overeenkomst wordt gesloten en die, onder zijn verantwoordelijkheid de vaste en mobiele handhavingsapparatuur ter beschikking stelt aan de met de handhaving van de kilometerheffing belaste gewesten;<br>
+13° Tolgebied : een deel van het wegennet met inbegrip van structuren zoals een tunnel, een brug, of een veerpont waarvoor door een tolheffende instantie kilometerheffing wordt geïnd of waarop kilometerheffing kan worden geïnd, maar het tarief nul eurocent bedraagt;<br>
+14° de Tolgebiedverklaring : verklaring waarmee een tolheffende instantie de algemene voorwaarden bepaalt als bedoeld in artikel 5, 2° van de Beschikking van 6 oktober 2009 en waaraan de dienstverleners moeten voldoen om toegang tot het betrokken tolgebied te verkrijgen;<br>
+15° de Tolrichtlijn : de Richtlijn 1999/62/EG van het Europees Parlement en de Raad van 17 juni 1999 betreffende het in rekening brengen van het gebruik van bepaalde infrastructuurvoorzieningen aan zware vrachtvoertuigen, zoals gewijzigd door de Richtlijnen 2006/38/EG en 2011/76/EU;<br>
+16° de Samenvoegingsovereenkomst : de overeenkomst betreffende de realisatie van een gezamenlijke opdracht in de zin van artikel 19 van wet van 24 december 1993 betreffende de overheidsopdrachten en sommige opdrachten voor aanneming van werken, leveringen en diensten, gesloten tussen het Vlaamse Gewest, het Waalse Gewest, het Brussels Hoofdstedelijk Gewest en SOFICO;<br>
+17° de Tolheffende instantie : het gewest ingeval van de kilometerheffing als belasting op de niet-geconcedeerde wegen, of de concessiehouder ingeval van de kilometerheffing als concessietolgeld op de geconcedeerde wegen;<br>
+18° het voertuig : een motorvoertuig of een samenstel van voertuigen, bedoeld of gebruikt, al dan niet uitsluitend, voor het vervoer over de weg van goederen en waarvan het maximaal toegestane totaalgewicht meer dan 3,5 ton bedraagt;<br>
+19° de Weg : de landwegenis en haar aanhorigheden;<br>
+20° de tariefzone : een begrensd wegsegment met een vast begin- en eindpunt waarop bij gebruik in een welbepaalde rijrichting op elk moment een eenduidig bepaald en afstands-gerelateerd tarief TZ van toepassing is.
 
 ## Voorwerp van het akkoord
 
@@ -30,25 +50,143 @@ Voor de toepassing van dit samenwerkingsakkoord, wordt verstaan onder   :<BR>1°
 
 ### ART. 4.
 
-<P>§ 1. - De kilometerheffing is verschuldigd door de houder van het voertuig   per kilometer of gedeelte van een kilometer door een welbepaald voertuig   afgelegd, op het ogenblik dat de kilometer of het gedeelte van de kilometer   wordt afgelegd en geregistreerd.<BR></P>  <P>De registratie geschiedt met behulp van een elektronische   registratievoorziening. <BR></P>  <P>§ 2. - Elk voertuig dat niet volgens artikel 9 is vrijgesteld, wordt,   voorafgaand aan het gebruik van enige weg, verplicht uitgerust met een daartoe   ter beschikking gestelde elektronische registratievoorziening. De houder van het   voertuig sluit daartoe de in artikel 5 bedoelde overeenkomst met een   dienstverlener.<BR></P>  <P>§ 3. - Bij gebrek aan registratie, om welke reden ook, is de kilometerheffing   door de houder van het voertuig verschuldigd in de vorm van een forfaitair   bedrag. Het bedrag is verschuldigd wanneer het gebruik van de weg door een   observatiesysteem of een daartoe bevoegd personeelslid van een gewest wordt   vastgesteld en geldt voor een periode van 24 uur, ongeacht het gewest waarin de   weg is gelegen.<BR></P>  <P>§ 4. - De houder van het voertuig is degene, hetzij :<BR>a. op wiens naam het   kenteken van het voertuig is ingeschreven bij de overheid die belast is met de   inschrijving van de voertuigen;<BR>b. op wiens naam het kenteken van het   voertuig is ingeschreven bij het buitenlands geldende equivalent van de overheid   die belast is met de inschrijving van de voertuigen;<BR>c. die het voertuig   waarvoor geen kenteken is ingeschreven bij de overheid die belast is met de   inschrijving van de voertuigen of zijn equivalent in het buitenland, feitelijk   ter beschikking heeft.<BR></P>  <P>Voor de toepassing van hetgeen is bepaald in het vorige lid, onder c), wordt   de bestuurder van het voertuig beschouwd als degene die het voertuig feitelijk   ter beschikking heeft.<BR></P>  <P>Voor de toepassing van het eerste lid wordt, in geval van een samenstel van   voertuigen, het kenteken van het motorvoertuig bedoeld.<BR></P>  <P>In afwijking van hetgeen is bepaald in het eerste lid a) en b), kan de houder   van het voertuig, indien het voertuig door de houder ervan bestendig of   gewoonlijk ter beschikking is gesteld van een derde door verhuur, leasing of   enige andere overeenkomst, die derde na hun gezamenlijk akkoord, aanduiden als   de houder van het voertuig. De initiële houder van het voertuig blijft solidair   aansprakelijk voor de goede uitvoering van de verplichtingen van de voormelde   derde. </P>
+<p>§ 1. - De kilometerheffing is verschuldigd door de houder van het voertuig per kilometer of gedeelte van een kilometer door een welbepaald voertuig afgelegd, op het ogenblik dat de kilometer of het gedeelte van de kilometer wordt afgelegd en geregistreerd.</p>
+
+<p>De registratie geschiedt met behulp van een elektronische registratievoorziening.</p>
+
+<p>§ 2. - Elk voertuig dat niet volgens artikel 9 is vrijgesteld, wordt, voorafgaand aan het gebruik van enige weg, verplicht uitgerust met een daartoe ter beschikking gestelde elektronische registratievoorziening. De houder van het voertuig sluit daartoe de in artikel 5 bedoelde overeenkomst met een dienstverlener.</p>
+
+<p>§ 3. - De houder van het voertuig is degene, hetzij :<br>
+1° op wiens naam het kenteken van het voertuig is ingeschreven bij de overheid die belast is met de inschrijving van de voertuigen;<br>
+2° op wiens naam het kenteken van het voertuig is ingeschreven bij het buitenlands geldende equivalent van de overheid die belast is met de inschrijving van de voertuigen;<br>
+3° die het voertuig waarvoor geen kenteken is ingeschreven bij de overheid die belast is met de inschrijving van de voertuigen of zijn equivalent in het buitenland, feitelijk ter beschikking heeft.<br>
+<br>
+Voor de toepassing van het eerste lid wordt, in geval van een samenstel van voertuigen, het kenteken van het motorvoertuig bedoeld.<br>
+<br>
+In geval van niet-betaling door de houder van het voertuig, is degene die het voertuig feitelijk ter beschikking heeft hoofdelijk gehouden tot betaling van de kilometerheffing en van de administratieve geldboeten, onder voorbehoud van zijn verhaal tegen de houder van het voertuig.<br>
+<br>
+Voor de toepassing van deze paragraaf wordt de bestuurder van het voertuig beschouwd als een persoon die het voertuig feitelijk ter beschikking heeft.<br>
+<br>
+In afwijking van het eerste lid, 1° en 2°, kan de houder van het voertuig, indien het voertuig door de houder ervan bestendig of gewoonlijk ter beschikking is gesteld van een derde door verhuur, leasing of enige andere overeenkomst die derde na hun gezamenlijk akkoord, aanduiden als de houder van het voertuig. De initiële houder van het voertuig blijft solidair aansprakelijk voor de goede uitvoering van de verplichtingen van de voormelde derde.</p>
+
+<p>§ 4.&nbsp;...</p>
 
 ## De inning, de invordering en de handhaving van de kilometerheffing en de overeenkomst tussen de houder van het voertuig en zijn dienstverlener
 
 ### ART. 5.
 
-De gewesten werken bij decreet respectievelijk ordonnantie en hun   uitvoeringsbesluiten een innings-, invorderings- en handhavingssysteem uit dat   onder meer is gesteund op de hiernavolgende principes :<BR>1° voorafgaand aan   het gebruik van enige weg, sluit de houder van het voertuig een overeenkomst   naar burgerlijk recht met een dienstverlener naar zijn keuze die aan de houder   van het voertuig een elektronische registratievoorziening voor zijn voertuig ter   beschikking stelt. De houder van het voertuig is verantwoordelijk voor de   correctheid van de gegevens die hij aanlevert betreffende het voertuig waarvoor   hij een overeenkomst sluit met de dienstverlener;<BR>2° de Single Service   Provider is ertoe gehouden om, zonder discriminatie, met elke houder van een   voertuig die daar om verzoekt, een overeenkomst zoals bedoeld in 1° te   sluiten;<BR>3° binnen het kader van deze overeenkomst int de dienstverlener in   naam en voor rekening van de tolheffende instantie de volgens artikel 4, § 1,   verschuldigde heffing bij de houder van het voertuig waarmee hij de overeenkomst   is aangegaan;<BR>4° de dienstverlener stort de volgens artikel 4, § 1,   verschuldigde heffing aan de tolheffende instantie;<BR>5° de dienstverlener   beschikt over de mogelijkheid om de houder van het voertuig contractueel te   verplichten tot het gebruik van gegarandeerde betaalmiddelen tot een door het   gewest nader te bepalen bedrag;<BR>6° door het sluiten van de in 1° bedoelde   overeenkomst en zolang deze bestaat en de rechtmatige schorsing van de   uitvoering ervan door de dienstverlener niet is meegedeeld aan de tolheffende   instantie, kan de door de houder van het voertuig verschuldigde heffing waarop   de overeenkomst betrekking heeft enkel worden ingevorderd bij de dienstverlener   voor zover het bedrag van de verschuldigde heffing per houder van het voertuig   kan worden bepaald;<BR>7° de uitvoering van de in 1° bedoelde overeenkomst kan   door de dienstverlener enkel worden geschorst wanneer de houder van het voertuig   :<BR>a) niet voldoet aan zijn betalingsverplichtingen jegens de dienstverlener,   zoals die in de in 1° bedoelde overeenkomst zijn bepaald;<BR>b) in voorkomend   geval, geen of een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft   gesteld;<BR>c) een gebruik maakt van de elektronische registratievoorziening dat   strijdig is met de gebruiksaanwijzing die door de dienstverlener ter beschikking   is gesteld;<BR>d) nalaat een defect aan de elektronische registratievoorziening   te melden;<BR>e) de instructies van de dienstverlener niet opvolgt met het oog   op de vervanging of de herstelling van de defecte elektronische   registratievoorziening;<BR>8° de verschuldigde heffing wordt direct invorderbaar   bij de houder van het voertuig vanaf het ogenblik van de in 6° bedoelde   mededeling tot schorsing aan de tolheffende instantie;<BR>9° bij niet of   onvoldoende storting van de verschuldigde heffing als bedoeld in 6° door de   dienstverlener, zal dit bedrag bij de dienstverlener bij dwangbevel of, in   voorkomend geval, voor de hoven en rechtbanken worden ingevorderd, voor zover de   tolheffende instantie, al naargelang van het geval, hetzij op basis van de   overeenkomst met de dienstverlener, hetzij op basis van de DBFMO-overeenkomst   met de Single Service Provider voor deze niet of onvoldoende storting hetzij   geheel, hetzij gedeeltelijk niet is gecompenseerd;<BR>10° elk gewest is, met   toepassing van het verticaliteitsbeginsel, onverminderd de in dit Akkoord   overeengekomen wederzijdse rechtshulp, bevoegd voor de handhaving van de   kilometerheffing op zijn grondgebied.
+De gewesten werken bij decreet respectievelijk ordonnantie en hun uitvoeringsbesluiten een innings-, invorderings- en handhavingssysteem uit dat onder meer is gesteund op de hiernavolgende principes :<br>
+1° voorafgaand aan het gebruik van enige weg, sluit de houder van het voertuig een overeenkomst naar burgerlijk recht met een dienstverlener naar zijn keuze die aan de houder van het voertuig een elektronische registratievoorziening voor zijn voertuig ter beschikking stelt. De houder van het voertuig is verantwoordelijk voor de correctheid van de gegevens die hij aanlevert betreffende het voertuig waarvoor hij een overeenkomst sluit met de dienstverlener;<br>
+2° de Single Service Provider is ertoe gehouden om, zonder discriminatie, met elke houder van een voertuig die daar om verzoekt, een overeenkomst zoals bedoeld in 1° te sluiten;<br>
+3° binnen het kader van deze overeenkomst int de dienstverlener in naam en voor rekening van de tolheffende instantie de volgens artikel 4, § 1, verschuldigde heffing bij de houder van het voertuig waarmee hij de overeenkomst is aangegaan;<br>
+4° de dienstverlener stort de volgens artikel 4, § 1, verschuldigde heffing aan de tolheffende instantie;<br>
+5° de dienstverlener beschikt over de mogelijkheid om de houder van het voertuig contractueel te verplichten tot het gebruik van gegarandeerde betaalmiddelen tot een door het gewest nader te bepalen bedrag;<br>
+6° door het sluiten van de in 1° bedoelde overeenkomst en zolang deze bestaat en de schorsing van de uitvoering ervan door de dienstverlener niet is meegedeeld aan de tolheffende instantie, kan de heffing waarop de overeenkomst betrekking heeft enkel worden ingevorderd bij de dienstverlener voor zover het bedrag van de verschuldigde heffing per houder van het voertuig kan worden bepaald;<br>
+7° de uitvoering van de in 1° bedoelde overeenkomst kan door de dienstverlener enkel worden geschorst als :<br>
+a) de houder van het voertuig niet voldoet aan zijn betalingsverplichtingen jegens de dienstverlener, zoals bepaald in de overeenkomst, vermeld in punt 1°;<br>
+b) de houder van het voertuig, in voorkomend geval, geen of een ontoereikend gegarandeerd betaalmiddel ter beschikking heeft gesteld;<br>
+c) de houder of de bestuurder van het voertuig een gebruik maakt van de elektronische registratievoorziening dat strijdig is met de gebruiksaanwijzing die door de dienstverlener ter beschikking is gesteld;<br>
+d) de houder of de bestuurder van het voertuig nalaat een defect aan de elektronische registratievoorziening te melden; e) de houder of de bestuurder van het voertuig de instructies van de dienstverlener niet opvolgt met het oog op de vervanging of de herstelling van de defecte elektronische registratievoorziening;<br>
+8° de verschuldigde heffing wordt direct invorderbaar bij de houder van het voertuig vanaf het ogenblik van de in 6° bedoelde mededeling tot schorsing aan de tolheffende instantie;<br>
+9° bij niet of onvoldoende storting van de verschuldigde heffing als bedoeld in 6° door de dienstverlener, zal dit bedrag bij de dienstverlener bij dwangbevel of, in voorkomend geval, voor de hoven en rechtbanken worden ingevorderd, voor zover de tolheffende instantie, al naargelang van het geval, hetzij op basis van de overeenkomst met de dienstverlener, hetzij op basis van de DBFMO-overeenkomst met de Single Service Provider voor deze niet of onvoldoende storting hetzij geheel, hetzij gedeeltelijk niet is gecompenseerd;<br>
+10° elk gewest is, onverminderd de in dit akkoord overeengekomen wederzijdse rechtshulp, bevoegd voor de handhaving van de kilometerheffing op zijn grondgebied. Als evenwel voor een bepaald voertuig al een overtreding werd vastgesteld ingevolge de regelgeving van een gewest, wordt in geen enkel gewest een administratieve geldboete opgelegd voor overtredingen begaan met hetzelfde voertuig gedurende een ononderbroken tijdvak van drie uur dat aanvangt vanaf vaststelling van eerstgenoemde overtreding, voor zover voor deze overtreding een administratieve boete wordt opgelegd. De duurtijd van het ononderbroken tijdvak kan worden gewijzigd bij een uitvoerend samenwerkingsakkoord als vermeld in artikel 92bis, § 1, derde lid van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.
 
 ## Tariefmethodologie voor de kilometerheffing als concessietolgeld
 
 ### ART. 6.
 
-<P>§ 1. - Het tarief van de kilometerheffing zal worden bepaald in   overeenstemming met de bepalingen van de Tolrichtlijn.<BR></P>  <P>§ 2. - De kilometerheffing zal bij decreet respectievelijk ordonnantie worden   vastgesteld met toepassing van de volgende berekeningsformule :<BR></P>  <P>&#931; TW x KW / W<BR></P>  <P>waarbij :<BR>1° TW = het in § 3 bedoeld tarief, dat geldt voor het gebruik   van een in § 3, 3°, van dit artikel bedoeld wegtype, exclusief B.T.W.;<BR>2° KW   = het in § 4 bedoeld aantal kilometers of gedeelte van kilometers dat voor het   gebruik van een in § 3, 3°, van dit artikel bedoeld wegtype aangerekend   wordt;<BR>3° W = de in § 3, 3° bedoelde wegtypes.<BR></P>  <P>§ 3. - De hoogte van het tarief TW, uitgedrukt in eurocenten, zal als volgt   worden bepaald : <BR></P>  <P>TW = F x (BT + a X A + b X G + c X EN) <BR></P>  <P>waarbij :<BR>1° F = factor, die 1 is voor de in 3° bedoelde wegtypes, en 0   voor alle andere wegtypes.<BR>2° BT = basistarief van de kilometerheffing.<BR>3°   A = variatie in functie van wegtype W met een tarief hoger dan nul   eurocent.<BR>De wegtypes op basis waarvan kan worden gedifferentieerd zijn   :<BR>- autosnelwegen en autosnelwegrings;<BR>- overige gewestwegen met een   tarief hoger dan nul eurocent.<BR>De wegen die onder één van de voorgaande   wegtypes vallen, worden door of krachtens de decreten respectievelijk   ordonnantie aangeduid.<BR>4° G = variatie in functie van gewichtsklasse van het   voertuig, gedifferentieerd volgens volgende categorieën :<BR>- MTM hoger dan 3,5   ton tot en met 12 ton;<BR>- MTM hoger dan 12 ton tot en met 32 ton;<BR>- MTM   hoger dan 32 ton.<BR>5° EN = variatie in functie van EURO-emissieklasse.<BR>6°   a, b en c = factoren die de waarde van A, G en EN bepalen.</P>  <P><BR>In het geval F gelijk is aan 1, mag het tarief nooit lager zijn dan nul   eurocent.<BR></P>  <P>§ 4. - Het in § 2 aantal aan te rekenen kilometers KW wordt bepaald volgens   volgende formule : <BR></P>  <P>KW = KM x C<BR></P>  <P>waarbij :<BR>1° KM = het aantal per kalenderdag geregistreerde kilometers,   gereden op het in § 3, 3° bedoelde wegtype;<BR>2° C = correctiefactor ter   compensatie van onnauwkeurige registratie, met waarde 0, 985.</P>
+<p>Tariefmethodologie voor de kilometerheffing als retributie.<br>
+<br>
+§ 1. Het tarief van de kilometerheffing wordt vastgesteld bij of krachtens decreet respectievelijk ordonnantie, in overeenstemming met de bepalingen van de Tolrichtlijn.<br>
+<br>
+§ 2. De kilometerheffing wordt vastgesteld met toepassing van de volgende berekeningsformule :<br>
+ΣzTZ x KZ<br>
+waarbij :<br>
+1° TZ = het tarief, exclusief BTW, van toepassing in een bepaalde tariefzone voor kilometers afgelegd in een welbepaalde rijrichting, op een welbepaald moment, uitgedrukt in eurocent per kilometer;<br>
+2° KZ = het aan te rekenen aantal kilometers afgelegd in elk dezer tariefzones, dat wordt vastgesteld met toepassing van de volgende berekeningsformule :<br>
+KZ = KM x(100 % - Corr)<br>
+met daarbij :<br>
+1° KM = het aantal geregistreerde kilometers in de betreffende tariefzone waar op dat ogenblik een tarief TZ van toepassing is, gedurende een bepaalde kalenderdag;<br>
+2° Corr = een correctiefactor met waarde 1,5 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
+3° Z = de onderscheiden tariefzones zoals gedefinieerd in artikel 1, 20°.<br>
+<br>
+Gezien het tarief TZ mogelijk kan variëren in de tijd en per rijrichting zal KZ voor elke tijdens het gebruik van het betreffend wegsegment voorgekomen waarde van TZ afzonderlijk worden berekend.<br>
+<br>
+Naargelang de technologische vooruitgang, kan de waarde van de correctiefactor, vermeld in deze paragraaf, worden gewijzigd bij een uitvoerend samenwerkingsakkoord als vermeld in artikel 92bis, § 1, derde lid van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+<br>
+§ 3. Het tarief TZ uitgedrukt in eurocenten per kilometer :<br>
+- is opgebouwd uit een infrastructuurheffing;<br>
+- en wordt bepaald volgens volgende formule :<br>
+TZ = F x (BT + a x A + b x G + c x EN + d x ET + e x EP)<br>
+waarbij :<br>
+1° F = een factor gelijk aan :<br>
+- 1 voor de tariefzones die betrekking hebben op de wegen of wegsegmenten, voor het gebruik waarvan een kilometerheffing verschuldigd is; en<br>
+- 0 voor alle andere wegen of wegsegmenten;<br>
+2° BT = basistarief van de kilometerheffing;<br>
+3° A = variabele in functie van het wegtype : - de autosnelwegen en ringautosnelwegen; - overige gewestwegen.<br>
+4° G = variabele in functie van gewichtsklasse van het voertuig, bepaald volgens de maximaal toegelaten massa :<br>
+- maximaal toegelaten massa hoger dan 3,5 ton en lager dan 12 ton;<br>
+- maximaal toegelaten massa hoger dan of gelijk aan 12 ton, en lager dan of gelijk aan 32 ton;<br>
+- maximaal toegelaten massa hoger dan 32 ton;<br>
+5° EN = variabele in functie van de Euro-emissieklasse van het voertuig (indeling volgens Euronorm-klasse);<br>
+6° ET = variabele in functie van het tijdstip;<br>
+7° EP = variabele in functie van de plaats;<br>
+8° a, b, c, d en e = factoren die een invloed uitoefenen op het gewicht van A, G, EN, ET en EP in het kader van de berekening van TZ.<br>
+<br>
+§ 4. De tarieven worden geïndexeerd in functie van de index van de consumptieprijzen en worden aangepast aan de technologische evolutie.<br>
+<br>
+§ 5. Elk gewest kan een afwijkend tarief voorzien voor het gebruik van de overige gewestwegen, vermeld in paragraaf 3, 3°, tweede streepje, door een voertuig waarvan de maximaal toegelaten massa meer dan 32 ton bedraagt.</p>
 
 ## Tariefmethodologie voor de kilometerheffing als belasting
 
 ### ART. 7.
 
-<P>§ 1. - Het tarief van de kilometerheffing zal worden bepaald in   overeenstemming met de bepalingen van de Tolrichtlijn.<BR></P>  <P>§ 2. - De kilometerheffing zal bij decreet respectievelijk ordonnantie worden   vastgesteld met toepassing van de volgende berekeningsformule :<BR></P>  <P>&#931; TW x KW / W<BR></P>  <P>waarbij :<BR>1° TW = het in § 3 bedoeld tarief, dat geldt voor het gebruik   van een in § 3, 3°, van dit artikel bedoeld wegtype;<BR>2° KW = het in § 4   bedoeld aantal kilometers of gedeelte van kilometer dat voor het gebruik van een   in § 3, 3°, van dit artikel bedoeld wegtype aangerekend wordt;<BR>3° W = de in §   3, 3° bedoelde wegtypes.<BR></P>  <P>§ 3. - De hoogte van het tarief TW, uitgedrukt in eurocenten, zal als volgt   worden bepaald :<BR></P>  <P>TW = F x (BT + a X A + b X G + c X EN + Ex) <BR></P>  <P>waarbij :<BR>1° F = factor, die 1 is voor de in 3° bedoelde wegtypes, en 0   voor alle andere wegtypes.<BR>2° BT = basistarief van de kilometerheffing.<BR>3°   A = variatie in functie van wegtype W met een tarief hoger dan nul   eurocent.<BR>De wegtypes op basis waarvan kan worden gedifferentieerd zijn   :<BR>- autosnelwegen en autosnelwegrings;<BR>- overige gewestwegen met een   tarief hoger dan nul eurocent;<BR>- gemeentewegen met een tarief hoger dan nul   eurocent.<BR>De wegen die onder één van de voorgaande wegtypes vallen, worden   door of krachtens de decreten respectievelijk ordonnantie aangeduid.<BR>4° G =   variatie in functie van gewichtsklasse van het voertuig, gedifferentieerd   volgens volgende categorieën :<BR>- MTM hoger dan 3,5 ton tot en met 12   ton;<BR>- MTM hoger dan 12 ton tot en met 32 ton;<BR>- MTM hoger dan 32   ton.<BR>5° EN = variatie in functie van EURO-emissieklasse.<BR>6° a, b en c =   factoren die de waarde van A, G en EN bepalen.<BR>In het geval F gelijk is aan   1, mag het tarief nooit lager zijn dan nul eurocent.<BR>7° Ex = toeslag in   functie van de externe kosten, veroorzaakt door het voertuig.<BR></P>  <P>De tarieven worden geïndexeerd in functie van de index van de   consumptieprijzen en technologische evolutie.<BR></P>  <P>§ 4. - Het in § 2 aantal aan te rekenen kilometers KW wordt bepaald volgens   volgende formule :<BR></P>  <P>KW = KM x C <BR></P>  <P>waarbij :<BR>1° KM = het aantal per kalenderdag geregistreerde kilometers,   gereden op het in § 3, 3° bedoeld wegtype;<BR>2° C = correctiefactor ter   compensatie van onnauwkeurige registratie, met waarde 0, 985.</P>
+<p>Tariefmethodologie voor de kilometerheffing als belasting.<br>
+<br>
+§ 1. Het tarief van de kilometerheffing wordt vastgesteld in overeenstemming met de bepalingen van de Tolrichtlijn.<br>
+<br>
+§ 2. De kilometerheffing wordt bij decreet respectievelijk ordonnantie vastgesteld met toepassing van de volgende berekeningsformule :<br>
+ΣzTZ x KZ<br>
+waarbij :<br>
+1° TZ = het tarief van toepassing in een bepaalde tariefzone voor kilometers afgelegd in een welbepaalde rijrichting, op een welbepaald moment, uitgedrukt in eurocent/ kilometer;<br>
+2° KZ = het aan te rekenen aantal kilometers afgelegd in elk dezer tariefzones, dat wordt vastgesteld met toepassing van de volgende berekeningsformule : KZ = KM x (100 % - Corr)<br>
+met daarbij :<br>
+1° KM = het aantal geregistreerde kilometers in de betreffende tariefzone waar op dat ogenblik een tarief TZ van toepassing is, gedurende een bepaalde kalenderdag;<br>
+2° Corr = een correctiefactor met waarde 1,5 % die compenseert voor een eventueel onnauwkeurige registratie;<br>
+3° z = de onderscheiden tariefzones zoals gedefinieerd in artikel 1, 20°;<br>
+<br>
+Gezien het tarief TZ mogelijk kan variëren in de tijd en per rijrichting zal KZ voor elke tijdens het gebruik van het betreffend wegsegment voorgekomen waarde van TZ afzonderlijk worden berekend.<br>
+<br>
+Naargelang de technologische vooruitgang, kan de waarde van de correctiefactor, vermeld in deze paragraaf, worden gewijzigd bij een uitvoerend samenwerkingsakkoord als vermeld in artikel 92bis, § 1, derde lid van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+<br>
+§ 3. Het tarief TZ uitgedrukt in eurocenten per kilometer :<br>
+- houdt rekening met de kost van onderhoud van de infrastructuur en met de externe kosten;<br>
+- en wordt bepaald volgens volgende formule :<br>
+Tz = F x (BT + a x A + b x G + c x EN + d x ET + e x EP + f x EX) waarbij<br>
+1° F = een factor gelijk aan :<br>
+- 1 voor de tariefzones die betrekking hebben op de wegen of wegsegmenten voor het gebruik waarvan een<br>
+kilometerheffing verschuldigd is; en<br>
+- 0 voor alle andere wegen of wegsegmenten;<br>
+2° BT = basistarief van de kilometerheffing;<br>
+3° A = variabele in functie van het wegtype :<br>
+- de autosnelwegen en ringautosnelwegen;<br>
+- overige gewestwegen;<br>
+- gemeentewegen;<br>
+4° G = variabele in functie van gewichtsklasse van het voertuig, bepaald volgens de maximaal toegelaten massa :<br>
+- maximaal toegelaten massa hoger dan 3,5 ton en lager dan 12 ton;<br>
+- maximaal toegelaten massa hoger dan of gelijk aan 12 ton, en lager dan of gelijk aan 32 ton;<br>
+- maximaal toegelaten massa hoger dan 32 ton;<br>
+5° EN = variabele in functie van de Euro-emissieklasse van het voertuig (indeling volgens Euronorm-klasse);<br>
+6° ET = variabele in functie van de tijd;<br>
+7° EP = variabele in functie van de plaats;<br>
+8° a, b, c, d, e en f = factoren die een invloed uitoefenen op het gewicht van A, G, EN, ET,EP en EX in het kader van de berekening van TZ;<br>
+9° EX = een toeslag in functie van de door het voertuig veroorzaakte externe kosten.<br>
+<br>
+Indien geen externe kost, vermeld in het eerste lid, punt 9°, wordt in rekening gebracht, moet de infrastructuurheffing gedifferentieerd worden in functie van de milieukarakteristieken van het voertuig, middels EN.<br>
+<br>
+§ 4. De tarieven worden geïndexeerd in functie van de index van de consumptieprijzen en worden aangepast aan de technologische evolutie.<br>
+<br>
+§ 5. Elk gewest kan een afwijkend tarief voorzien voor het gebruik van de overige gewestwegen en voor het gebruik van de gemeentewegen, vermeld in paragraaf 3, eerste lid, 3°, tweede en derde streepje, door een voertuig, waarvan de maximaal toegelaten massa meer dan 32 ton bedraagt.</p>
 
 ## Tariefwijzigingen
 
@@ -60,7 +198,37 @@ Wijzigingen aan het tarief door een gewest moeten ten minste vier maanden   vó�
 
 ### ART. 9.
 
-<P>§ 1. - Zijn vrijgesteld van de kilometerheffing :<BR>1° de voertuigen die   uitsluitend gebruikt worden voor en door defensie, bescherming burgerbevolking,   brandweer en politie en als zodanig uiterlijk herkenbaar zijn;<BR>2° de   voertuigen die speciaal en uitsluitend voor medische doeleinden zijn uitgerust   en als zodanig uiterlijk herkenbaar zijn;<BR>3° de voertuigen die slechts af en   toe op de openbare weg in België rijden en die uitsluitend worden gebruikt voor   landbouw, tuinbouw, visteelt en bosbouwwerkzaamheden.<BR></P>  <P>§ 2. - De houder van het voertuig die om vrijstelling verzoekt, kan het   voordeel ervan slechts verkrijgen of behouden indien hij de vervulling van de   vrijstellingsvoorwaarden bewijst.<BR></P>  <P>§ 3. - De houder van het in paragraaf 1 bedoelde voertuig richt de aanvraag   voor een vrijstelling aan het gewest waar de natuurlijke persoon of   rechtspersoon gevestigd is op wiens naam het voertuig ingeschreven is of moet   zijn. Voor de overige als in paragraaf 1 bedoelde voertuigen, richt de houder de   aanvraag voor een vrijstelling tot Viapass. Viapass verstuurt de aanvraag aan   het meest gerede gewest, dat een beslissing neemt over de aanvraag.<BR></P>  <P>Elk Gewest draagt er zorg voor dat zijn beslissingen inzake vrijstellingen,   in toepassing van het vorige lid, onmiddellijk kenbaar worden gemaakt aan   Viapass.<BR></P>  <P>Voertuigen waarvoor een gewest op basis van het vorige lid een vrijstelling   verleent, worden door de andere gewesten van rechtswege vrijgesteld.<BR></P>  <P>§ 4. - Een gewest kan na overleg met de overige gewesten bijkomende   vrijstellingen invoeren. De wijziging treedt in werking ten vroegste vier   maanden na de notificatie ervan aan de andere gewesten.<BR></P>  <P>Elk Gewest draagt er zorg voor dat zijn beslissingen inzake vrijstellingen,   in toepassing van het vorige lid, onmiddellijk kenbaar worden gemaakt aan   Viapass.</P>
+<p>§ 1. - Zijn vrijgesteld van de kilometerheffing :<br>
+1° de voertuigen die uitsluitend gebruikt worden voor en door defensie, bescherming burgerbevolking, brandweer en politie en als zodanig uiterlijk herkenbaar zijn;<br>
+2° de voertuigen die speciaal en uitsluitend voor medische doeleinden zijn uitgerust en als zodanig uiterlijk herkenbaar zijn;<br>
+3° de voertuigen die de aard hebben van een landbouw- tuinbouw- of bosbouwvoertuig, die slechts in beperkte mate worden gebruikt op de openbare weg in België en die uitsluitend worden gebruikt voor landbouw, tuinbouw, visteelt en bosbouwwerkzaamheden.</p>
+
+<p>§ 2. - De houder van het voertuig die om vrijstelling verzoekt, kan het voordeel ervan slechts verkrijgen of behouden indien hij de vervulling van de vrijstellingsvoorwaarden bewijst.</p>
+
+<p>§ 3. De houder van een voertuig als vermeld in paragraaf 1 richt de aanvraag voor een vrijstelling aan de bevoegde administratie van het gewest of aan de door dat gewest aangeduide entiteit, waar het adres gelegen is dat voorkomt op het kentekenbewijs van het voertuig, zoals vastgesteld krachtens de Belgische wetgeving betreffende de inschrijving van voertuigen.<br>
+<br>
+Als een voertuig als vermeld in paragraaf 1 niet over een kentekenbewijs als vermeld in het eerste lid beschikt, richt de houder van het voertuig de aanvraag voor een vrijstelling aan de bevoegde administratie van het gewest waar de houder van het voertuig gevestigd is, of aan de door dat gewest aangeduide entiteit.<br>
+<br>
+Als het betreffende voertuig niet in België moet zijn ingeschreven, richt de houder van het voertuig de aanvraag voor een vrijstelling tot Viapass. Viapass verstuurt de aanvraag aan de bevoegde administratie van een gewest of aan de door een gewest aangeduide entiteit, die een beslissing neemt over de aanvraag.<br>
+<br>
+Elke bevoegde administratie of door een gewest aangeduide entiteit maakt onmiddellijk aan Viapass de voertuigen kenbaar die van een vrijstelling genieten ingevolge dit artikel.<br>
+<br>
+Voertuigen die zijn vrijgesteld in een Gewest, worden van rechtwege vrijgesteld in de andere gewesten.<br>
+<br>
+§ 4. - Een gewest kan na overleg met de overige gewesten bijkomende vrijstellingen invoeren. De wijziging treedt in werking ten vroegste vier maanden na de notificatie ervan aan de andere gewesten.<br>
+<br>
+Elk Gewest draagt er zorg voor dat zijn beslissingen inzake vrijstellingen, in toepassing van het vorige lid, onmiddellijk kenbaar worden gemaakt aan Viapass.</p>
+
+### ART. 9/1.
+
+Wijziging van de verkeersbelasting verschuldigd door vennootschappen, autonome overheidsbedrijven of VZW's met leasingactiviteiten, voor voertuigen die onderworpen zijn aan de kilometerheffing.<br>
+<br>
+Zonder afbreuk te doen aan de Europese minimumtarieven, vermeld in bijlage I van de Tolrichtlijn, kan elk gewest bij decreet respectievelijk ordonnantie de verkeersbelasting, vermeld in artikel 3, 10° van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten, vervangen door de bijzondere wet van 13 juli 2001, wijzigen als voldaan is aan volgende cumulatieve voorwaarden :<br>
+1° het belastbaar voorwerp betreft een voertuig als bedoeld in artikel 1, 18°;<br>
+2° de belastingplichtige is een vennootschap als vermeld in de wet van 7 mei 1999 houdende het Wetboek van vennootschappen, een autonoom overheidsbedrijf of een vereniging zonder winstgevend doel met leasingactiviteiten;<br>
+3° de aanpassingen kunnen pas uitwerking hebben vanaf de datum van inwerkingtreding van de kilometerheffing, bepaald overeenkomstig artikel 3.<br>
+<br>
+Het eerste lid beperkt geenszins de bevoegdheden die werden toegekend aan de gewesten door de eerste zin van artikel 4, § 3 van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en Gewesten.
 
 ## Afzien van de heffing van het Eurovignet
 
@@ -72,19 +240,43 @@ Met het oog op het beëindigen van het gemeenschappelijk gebruiksrecht   bedoeld
 
 ### ART. 11.
 
-<P>§ 1. - De bevoegde overheden van de Partijen en de lokale overheden die onder   hun toezicht staan, wisselen spontaan de inlichtingen uit die naar verwachting   relevant zullen zijn voor de uitvoering van de bepalingen van dit Akkoord of   voor de toepassing of de tenuitvoerlegging van de deelstatelijke regelgeving met   betrekking tot de kilometerheffing, en zulks ongeacht de aard of de benaming die   aan deze heffing wordt gegeven.<BR></P>  <P>De door Partijen ingevolge het vorige lid verkregen inlichtingen worden, in   het licht van de openbaarheid van bestuur, op dezelfde wijze geheim gehouden of   behandeld als inlichtingen die onder de betrokken deelstatelijke regelgeving   zijn verkregen en worden alleen ter kennis gebracht van personen of overheden   (daaronder begrepen rechterlijke instanties en administratieve lichamen) die   betrokken zijn bij de vestiging of invordering van de in het eerste lid bedoelde   heffing, bij de tenuitvoerlegging of vervolging terzake van die heffingen, bij   de beslissing in beroepszaken die betrekking hebben op die heffingen, of bij het   toezicht daarop. Deze personen of overheden gebruiken die inlichtingen slechts   voor die doeleinden. Zij mogen van deze inlichtingen melding maken tijdens   openbare rechtszitting, in administratieve beroepsprocedures of in rechterlijke   beslissingen.<BR></P>  <P>De bepalingen van het eerste en tweede lid gelden ook voor de uitwisseling en   het gebruik van gegevens die naar verwachting relevant zullen zijn voor de   toepassing of de tenuitvoerlegging van de regelgeving op de verkeersbelasting op   de autovoertuigen en de belasting op de inverkeerstelling.<BR></P>  <P>§ 2. - De Partijen verlenen elkaar spontaan bijstand voor de invordering van   de kilometerheffing en de administratieve geldboeten die in voorkomend geval van   toepassing zijn.<BR></P>  <P>Viapass staat in voor de coördinatie van deze wederzijdse bijstand.<BR></P>  <P>Wanneer de kilometerheffing in een gewest ingevolge de regelgeving van dat   gewest verschuldigd is, aanvaardt de bevoegde handhavingsautoriteit van het   daartoe aangezochte gewest om de kilometerheffing, evenals de gebeurlijke   administratieve geldboete, op verzoek van de bevoegde handhavingsautoriteit van   eerstgenoemde gewest, voor rekening van dat gewest, voorlopig in consignatie te   ontvangen overeenkomstig de bepalingen van zijn regelgeving die de handhaving   van de kilometerheffing regelen. </P>
+<p>Uitwisseling van inlichtingen en bijstand bij de inning van de heffing en administratieve geldboetes.<br>
+<br>
+§ 1. De tolheffende instanties en desgevallend de lokale overheden die onder hun toezicht staan, wisselen spontaan de inlichtingen uit die naar verwachting relevant kunnen zijn voor de uitvoering van de bepalingen van dit akkoord of voor de toepassing of tenuitvoerlegging van de gewestelijke regelgeving met betrekking tot de kilometerheffing en de administratieve geldboete, en zulks ongeacht de aard of de benaming van deze heffing.<br>
+<br>
+De inlichtingen die verkregen worden met toepassing van het eerste lid worden op dezelfde wijze geheim gehouden of behandeld als inlichtingen die zijn verkregen ingevolge de regelgeving van het gewest waar de rechtspersoon die de inlichtingen ontvangt is gevestigd en worden alleen ter kennis gebracht van personen of overheden, waaronder rechterlijke instanties en administratieve lichamen, die belast zijn bij een van volgende taken met betrekking tot de kilometerheffing of de administratieve geldboete :<br>
+1° de vestiging, de invordering of de facturatie;<br>
+2° de tenuitvoerlegging of de vervolging;<br>
+3° de beslissing in beroepszaken;<br>
+4° het toezicht op hetgeen voorafgaat.<br>
+<br>
+De personen of overheden, vermeld in het tweede lid, gebruiken de inlichtingen die verkregen worden met toepassing van het eerste lid enkel voor de taken, vermeld in het tweede lid, waarmee zij belast zijn. Ze mogen van deze inlichtingen melding maken tijdens een openbare rechtszitting, in administratieve beroepsprocedures of in rechterlijke beslissingen.<br>
+<br>
+Het eerste, tweede en derde lid gelden ook voor de uitwisseling en het gebruik van gegevens die naar verwachting relevant kunnen zijn voor de toepassing of de tenuitvoerlegging van de regelgeving op de verkeersbelasting op de autovoertuigen of van deze op de belasting op de inverkeerstelling.<br>
+<br>
+§ 2. De partijen verlenen elkaar spontaan bijstand voor de inning van de administratieve geldboetes.<br>
+<br>
+Wanneer bij de controle op de weg van een voertuig blijkt dat er in hoofde van de houder van het gecontroleerde voertuig niet-betaalde administratieve geldboetes bestaan voor een of meerdere gewesten, dan mag de bevoegde handhavingsautoriteit al deze openstaande administratieve geldboetes innen. Het bedrag van de administratieve geldboetes die betrekking hebben op overtredingen gepleegd in een ander gewest, wordt onverwijld en integraal doorgestort aan dat gewest.</p>
 
 ## Storten van de opbrengst van de kilometerheffing
 
 ### ART. 12.
 
-<P>De dienstverlener dient de door de houder van het voertuig volgens artikel 4,   § 1, verschuldigde kilometerheffing aan de betrokken tolheffende instantie te   storten in functie van de lokalisatie ervan.<BR></P>  <P>De kilometerheffing en de gebeurlijke interest die zij heeft opgebracht   worden gelokaliseerd op de plaats waar de gereden kilometer of het gedeelte van   de gereden kilometer door de elektronische voorziening werd   geregistreerd.<BR></P>  <P>Op de bedragen die een dienstverlener ontvangt van de houder van het voertuig   tot betaling van de kilometerheffing kan geen zekerheid, in welke vorm ook,   gevestigd worden.</P>
+<p>De dienstverlener dient de volgens artikel 4, § 1, verschuldigde kilometerheffing aan de betrokken tolheffende instantie te storten in functie van de lokalisatie ervan.<br>
+<br>
+De kilometerheffing en de gebeurlijke interest die zij heeft opgebracht worden gelokaliseerd op de plaats waar de gereden kilometer of het gedeelte van de gereden kilometer door de elektronische voorziening werd geregistreerd.<br>
+<br>
+Op de bedragen die een dienstverlener ontvangt tot betaling van de kilometerheffing kan geen zekerheid, in welke vorm ook, gevestigd worden.</p>
 
 ## Doorstorten van de opbrengst van de kilometerheffing in de vorm van een forfaitair bedrag en de administratieve geldboeten
 
 ### ART. 13.
 
-<P>§ 1. - Wanneer de kilometerheffing, bij gebrek aan registratie, verschuldigd   is in de vorm van een forfaitair bedrag zoals bedoeld in artikel 4, § 3, van dit   Akkoord, wordt de opbrengst verdeeld volgens de verdeelsleutel die is bepaald in   artikel 14, § 1, tweede lid.<BR></P>  <P>§ 2. - In die gevallen waarin door een gewest tot handhaving wordt   overgegaan, komt de opbrengst van de verschuldigde administratieve geldboete   waartoe de handhaving aanleiding geeft, toe aan het gewest dat de   administratieve geldboete heeft opgelegd en geïnd.</P>
+<p>De administratieve geldboeten.<br>
+<br>
+Behoudens in geval van een onzichtbaar defect van de elektronische registratievoorziening of een defect van de elektronische registratievoorziening dat werd gemeld aan de dienstverlener, kan een gewest een administratieve geldboete opleggen als een gebrek aan registratie van de verreden kilometers wordt vastgesteld door een observatiesysteem of een daartoe bevoegd personeelslid van een gewest.<br>
+<br>
+In de gevallen waarin door een gewest een administratieve geldboete wordt opgelegd, komt de opbrengst van de administratieve geldboete toe aan het gewest dat de boete heeft opgelegd. Overeenkomstig artikel 5, 10°, kan geen enkel gewest voor dezelfde tijdspanne van drie uur nog een bijkomende administratieve geldboete opleggen voor een overtreding met hetzelfde voertuig.</p>
 
 ## Bijdrage van de gewesten in de aan de Single Service Provider verschuldigde beschikbaarheidsvergoeding, de eventuele mijlpaalvergoeding en in de gewestspecifieke kosten voor handhavingsvoertuigen en -personeel
 
