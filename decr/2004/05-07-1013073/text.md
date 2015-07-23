@@ -14,7 +14,19 @@ In dit decreet wordt verstaan onder:<br /><br />1° LRM: de naamloze vennootscha
 
 ### ART. 3.
 
-§ 1. Het Vlaamse Gewest wordt gemachtigd om onder de in dit decreet bepaalde voorwaarden deel te nemen in elk van de investeringsmaatschappijen.<br /><br />Het deelnemen in elk van de investeringsmaatschappijen als bedoeld in het eerste lid, is onderworpen aan de voorwaarde dat het Vlaamse Gewest over elk van de investeringsmaatschappijen te allen tijde de rechtstreekse vennootschapsrechte-lijke controle blijft voeren.<br /><br />§ 2. De aandelenparticipatie van de VPM in de GIMV bedraagt te allen tijde ten minste vijfentwintig procent, vermeerderd met één aandeel, van het aandelenkapitaal van GIMV.<br /><br />§ 3. De investeringsmaatschappijen zijn privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen als bedoeld in artikel 29 van het kaderdecreet.<br /><br />De bepalingen van het kaderdecreet zijn van toepassing op de investeringsmaatschappijen.<br /><br />§ 4. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein elk der investeringsmaatschappijen behoort.
+§ 1. Het Vlaamse Gewest wordt gemachtigd om onder de in dit decreet bepaalde voorwaarden deel te nemen in elk van de investeringsmaatschappijen.<br>
+<br>
+Het deelnemen in elk van de investeringsmaatschappijen als bedoeld in het eerste lid, is onderworpen aan de voorwaarde dat het Vlaamse Gewest over elk van de investeringsmaatschappijen te allen tijde de rechtstreekse vennootschapsrechtelijke controle blijft voeren.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. De investeringsmaatschappijen zijn privaatrechtelijk vormgegeven extern verzelfstandigde agentschappen als bedoeld in artikel 29 van het kaderdecreet.<br>
+<br>
+De bepalingen van het kaderdecreet zijn van toepassing op de investeringsmaatschappijen.<br>
+<br>
+§ 4. De Vlaamse regering bepaalt tot welk homogeen beleidsdomein elk der investeringsmaatschappijen behoort.<br>
+<br>
+§ 5. De Vlaamse Regering kan aan de Vlaamse Participatiemaatschappij machtiging verlenen om haar aandelen in de Gimv te verkopen.
 
 ## HOOFDSTUK III MISSIE, TAKEN EN MAATSCHAPPELIJK DOEL VAN DE INVESTERINGSMAATSCHAPPIJEN
 
