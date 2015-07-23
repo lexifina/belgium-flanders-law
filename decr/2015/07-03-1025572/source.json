@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025572,
+  "title": "Decreet van 2015-07-03 houdende wijziging van het decreet van 7 mei 2004 betreffende de investeringsmaatschappijen van de Vlaamse overheid, wat betreft de machtigingen en het doel van de Vlaamse Participatiemaatschappij",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025572/VolledigDocument?datum=2015-07-23",
+  "source_sha256": "1b6c74530ac79a73878705015c57935b150d30251b72b096ec099ca015f1dc77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025572&param=informatie",
+  "as_of": "2015-07-23",
+  "made": "2015-07-03",
+  "gazette": "2015-07-13",
+  "numac": 201535873,
+  "document_start": "2015-07-23",
+  "document_end": null,
+  "in_force": "2015-07-23",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
