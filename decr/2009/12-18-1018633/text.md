@@ -486,7 +486,7 @@ Bij het departement Financiën en Begroting wordt een fonds, het « Fonds Vastgo
 
 ### ART. 99.
 
-§ 1. De Vlaamse Regering wordt gemachtigd de waarborg van het Vlaamse Gewest te verlenen voor leningen die door het Fonds ter reductie van de globale energiekost (hierna FRGE) worden toegestaan aan :<br />1° Lokale Entiteiten, die optreden als kredietgever, zoals vermeld in het koninklijk besluit van 6 juli 2009 tot vaststelling van het beheerscontract van het « Fonds ter reductie van de globale energiekost »;<br />2° door de Vlaamse Regering aangewezen rechtspersonen, die optreden als kredietgever, zoals vermeld in het koninklijk besluit van 6 juli 2009 tot vaststelling van het beheerscontract van het « Fonds ter reductie van de globale energiekost »;<br />en die een samenwerkingsverband wensen aan te gaan met het FRGE.<br /><br />§ 2. De Vlaamse Regering bepaalt de voorwaarden en modaliteiten waaronder deze waarborg kan worden toegekend en uitgekeerd. In afwijking van artikel 8 van het decreet van 7 mei 2004 houdende bepalingen inzake kas-, schuld- en waarborgbeheer van de Vlaamse Gemeenschap en het Vlaamse Gewest kan de Vlaamse Regering bepalen om de toekenning van de waarborg niet afhankelijk te maken van de betaling van een bijdrage. Bij de uitwinning van een verleende waarborg, als vermeld in § 1, wordt, per dossier waarvoor de waarborg wordt uitgewonnen, aan de Lokale Entiteit een franchise aangerekend van 250 euro.<br /><br />§ 3. De Vlaamse Regering bepaalt voor ieder begrotingsjaar de maximale omloop van de uitstaande verbintenissen waarop de waarborg van het Vlaamse Gewest betrekking heeft.<br /><br />
+<P>...</P>
 
 ## HOOFDSTUK VII Datum indienstname installaties voor zonne-energie
 
