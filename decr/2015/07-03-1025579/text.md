@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1 Algemeen
 
+### ART. 1.
+
+Dit   decreet regelt een gemeenschaps- en gewestaangelegenheid.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 2 Onderwijs
 
 ## Afdeling 1 Expertisenetwerken
@@ -98,9 +102,17 @@ In   het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 ma
 
 ## Afdeling 11 Consortia volwassenenonderwijs
 
+### ART. 20.
+
+In   artikel 28 van het decreet van 19 december 2014 houdende diverse bepalingen   onderwijs wordt het bedrag "900.000 euro" vervangen door de zinsnede "maximum   469.000 euro".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 3 Financiën en Begroting
 
 ## Afdeling 1 Fonds voor Economische Impulsprogramma's
+
+### ART. 21.
+
+Het   Fonds voor Economische Impulsprogramma's, opgericht bij artikel 74 van het   decreet van 20 december 1996 houdende bepalingen tot begeleiding van de   begroting 1997, gewijzigd bij het decreet van 20 december 2002 houdende   bepalingen tot begeleiding van de begroting 2003, artikel 52 en artikel 53,   wordt opgeheven. De saldi beschikbaar op 31 december 2014 op basisallocaties   1CC008 (cofinanciering EFRO-projecten) en 1CC016 (voor eenmalige investeringen)   van het begrotingsartikel CB0-1CEB4AB-WT (werking en toelagen - actief   risicomanagement) worden gedesaffecteerd naar de algemene middelen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 2 Egalisatiefonds Responsabiliseringsbijdrage van de Vlaamse Gemeenschap
 
@@ -109,6 +121,10 @@ In   het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 ma
 In   geval van ontbinding van het Egalisatiefonds Responsabiliseringsbijdrage van de   Vlaamse Gemeenschap - Vlaams Pensioenfonds vzw, wordt het actief, na   aanzuivering van het passief, overgedragen aan de Vlaamse Gemeenschap.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 3 Spelen en weddenschappen
+
+### ART. 23.
+
+Artikel   44 van het Wetboek van de met de Inkomstenbelastingen Gelijgestelde Belastingen,   vervangen bij het decreet van 23 december 2010, wordt vervangen door wat volgt   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   44. In afwijking van artikel 43 wordt de belasting betreffende weddenschappen op   paardenwedrennen, hondenwedstrijden en sportevenementen, die zowel in België als   in het buitenland plaatsvinden, vastgesteld op 15 pct. van de werkelijke   brutomarge die ter gelegenheid van de weddenschap wordt bereikt.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 4 Erfbelasting
 
@@ -154,13 +170,33 @@ In   artikel 3.18.0.0.11, eerste lid, van hetzelfde decreet, ingevoegd bij het  
 
 ## Afdeling 1 Planlastendecreet
 
+### ART. 33.
+
+Aan   artikel 12/1 van het decreet van 15 juli 2011 houdende vaststelling van de   algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest   periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen   worden opgelegd, ingevoegd bij het decreet van 20 december 2013 houdende   bepalingen tot begeleiding van de begroting 2014, wordt een punt 8° toegevoegd,   dat luidt als volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"8°   de subsidies toegekend krachtens artikel 25, § 2, van het decreet van 7 juni   2013 betreffende het Vlaamse integratie- en inburgeringsbeleid.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling 2 Overdrachten onroerende domeingoederen
+
+### ART. 34.
+
+<P>In   afwijking van de wet van 31 mei 1923 betreffende de vervreemding van onroerende   domeingoederen, gewijzigd bij de wetten van 2 juli 1969 en 6 juli 1989 en van   overeenkomstige toepassing verklaard op de Vlaamse Gemeenschap en het Vlaamse   Gewest bij artikel 22 van het decreet van 20 december 1989 houdende bepalingen   tot uitvoering van de begroting van de Vlaamse Gemeenschap, wordt de Vlaamse   Regering ertoe gemachtigd onroerende domeingoederen, ongeacht de geschatte   waarde ervan, uit de hand of bij wijze van ruiling te vervreemden of er   zakelijke rechten op te vestigen. Deze afwijking blijft van toepassing op de   beslissingen tot vervreemding van onroerende domeingoederen die gedurende het   jaar 2015 zijn getroffen en die op 31 december 2015 nog niet zijn   uitgevoerd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   voorwaarden tot overdracht worden bepaald door de Vlaamse Regering.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
 
 ## HOOFDSTUK 5 Leefmilieu, Natuur en Energie
 
 ## Afdeling 1 Vlaams Dierenwelzijnsfonds
 
+### ART. 35.
+
+&nbsp;In artikel 107 van het decreet van 19   december 2014 houdende bepalingen tot begeleiding van de begroting 2015 worden   de volgende wijzigingen aangebracht :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   paragraaf 2 wordt vervangen door wat volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. Het fonds wordt gespijsd met :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de opbrengsten voortvloeiend uit de bepalingen van de wet van 14 augustus 1986   betreffende de bescherming en het welzijn der dieren, met name :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-de   retributie voor de aanvragen tot erkenning bedoeld in artikel 3bis, § 2, 3°, b),   tweede lid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-de   retributie voor de aanvragen tot erkenning bedoeld in artikel 5, § 3, tweede   lid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-de   bijdrage voor de identificatie en registratie van honden en katten bedoeld in   artikel 7;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">-de   administratieve boetes bedoeld in artikel 41bis;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   schenkingen, legaten en sponsoring.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   aan paragraaf 3 wordt de zinsnede ", alsook het verlenen van subsidies voor het   dekken van de kosten voortvloeiend uit het gesubsidieerd wetenschappelijk   onderzoek in het kader van dierenwelzijn toegekend voor 1 juli 2014 door de FOD   Volksgezondheid." toegevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling 2 Energie
+
+### ART. 36.
+
+Artikel   99 van het decreet van 18 december 2009 houdende bepalingen tot begeleiding van   de begroting 2010, alsook het besluit van de Vlaamse Regering van 10 september   2010 houdende de vaststelling van de voorwaarden waaronder een waarborg kan   worden verleend voor de terugbetaling van de leningen, toegestaan door het Fonds   ter reductie van de globale energiekost en het besluit van de Vlaamse Regering   van 23 maart 2012 houdende verlening van de waarborg van het Vlaamse Gewest voor   de leningen die door het Fonds ter reductie van de globale energiekost worden   toegestaan aan diverse Lokale Entiteiten, worden opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 37.
+
+<P>Aan   artikel 8.2.2 van het Energiedecreet van 8 mei 2009, ingevoegd bij het decreet   van 19 december 2014, waarvan de bestaande tekst paragraaf 1 zal vormen, worden   een paragraaf 2 en 3 toegevoegd, die luiden als volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de lokale   entiteiten, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het   Vlaamse Gewest en elke lokale entiteit wordt een samenwerkingsovereenkomst   gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en   werkingskosten van de lokale entiteiten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De Vlaamse Regering kan op voorstel van de Vlaamse minister bevoegd voor   Energie schulden die door een lokale entiteit ten aanzien van het Vlaamse Gewest   in het kader van de uitvoering van dit artikel werden gemaakt geheel of   gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met   betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding   kan geschieden.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
 
 ### ART. 38.
 
@@ -198,6 +234,42 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 ## HOOFDSTUK 7 Welzijn, Volksgezondheid en Gezin
 
+### ART. 43.
+
+Artikel   7ter van het decreet van 23 februari 1994 inzake de infrastructuur voor   persoonsgebonden aangelegenheden, ingevoegd bij het decreet van 2 juni 2006 en   vervangen bij het decreet van 21 juni 2013, wordt vervangen door wat volgt   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   7ter. Het Fonds kan een investeringswaarborg verlenen aan aanvragers die een   investering doen die past in de programmatie, waarbij voor die investering geen   investeringssubsidies of alternatieve vormen van investeringssubsidies worden   gevraagd aan het Fonds. De Vlaamse Regering bepaalt de extra voorwaarden. Die   voorwaarden kunnen verschillend zijn naargelang de sector en kunnen onder meer   elementen bevatten van zorgstrategische, financiële, bouwfysische en technische   aard. De Vlaamse Regering kan beperkingen bepalen voor de investeringswaarborg.   Tot dekking van de investeringswaarborg worden er bijdragen vastgesteld op de   gewaarborgde sommen volgens de voorwaarden, bepaald door de Vlaamse Regering.   Tot dekking van de investeringswaarborg kan het Fonds op elk moment een   wettelijke hypotheek nemen of een hypothecair mandaat eisen voor de onroerende   goederen die betrekking hebben op de investering, voor een bedrag dat   vastgesteld wordt door het Fonds. De wettelijke hypotheek wordt ingeschreven op   verzoek van het Fonds.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 44.
+
+In   artikel 2 van hetzelfde decreet, gewijzigd bij de decreten van 20 december 1996,   16 maart 1999, 2 juni 2006 en 12 februari 2010, worden punt 9° en punt 11°   opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 45.
+
+In   artikel 6 van hetzelfde decreet wordt paragraaf 2 vervangen door wat volgt   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. De investeringswaarborg kan enkel worden verleend als de aanvrager een   subsidiebelofte heeft verkregen. De Regering bepaalt de bijkomende voorwaarden   waaronder de investeringswaarborg wordt verleend en stelt de wijze van betaling   vast van de bijdragen op de gewaarborgde sommen tot dekking van de   investeringswaarborg.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 46.
+
+&nbsp;In artikel 7bis, § 2, van hetzelfde   decreet, ingevoegd bij het decreet van 17 maart 2006, wordt de zinsnede "artikel   12, § 1, derde lid" vervangen door de zinsnede "artikel 12".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 47.
+
+In   artikel 8 van hetzelfde decreet, hersteld bij het decreet van 12 februari 2010   en gewijzigd bij de decreten van 15 juli 2011 en 20 december 2013, worden de   volgende wijzigingen aangebracht :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid wordt de zinsnede "aan aanvragers uit de sector van de   ouderenvoorzieningen en thuiszorgvoorzieningen, uit de sector van de   verzorgingsinstellingen en uit de sector van de voorzieningen voor personen met   een handicap die een investering volledig financieren" vervangen door de woorden   "aan aanvragers die een investering volledig autofinancieren";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het eerste lid, 4°, wordt het woord "financiering" vervangen door het woord   "autofinanciering";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het tweede tot en met het vierde lid worden opgeheven.
+
+### ART. 48.
+
+In   hetzelfde decreet, gewijzigd bij de decreten van 20 december 1996, 16 maart   1999, 2 juni 2006 en 12 februari 2010, wordt een artikel 8/1 ingevoegd, dat   luidt als volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   8/1. Het totale bedrag van de investeringswaarborgen die overeenkomstig artikel   7ter en artikel 8 kunnen worden toegekend, wordt jaarlijks bepaald in het   decreet dat de algemene uitgavenbegroting van de Vlaamse Gemeenschap vastlegt of   aanpast.".
+
+### ART. 49.
+
+Artikel   12 van hetzelfde decreet, gewijzigd bij de decreten van 16 maart 1999, 12   februari 2010 en 20 december 2013, wordt vervangen door wat volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   12. De aanvrager moet minstens over een genotsrecht beschikken op het project   waarvoor de aanvraag voor een investeringssubsidie wordt gedaan, voor een   periode die voor onroerende goederen in elk geval minstens vijfentwintig jaar   bedraagt en voor roerende goederen in elk geval minstens vijf jaar bedraagt. De   Vlaamse Regering kan een langere periode bepalen. Als de aanvrager en de   eigenaar of de houder van de zakelijke rechten op de grond waarop een project   wordt voorzien, twee verschillende personen zijn, mag er geen ongeoorloofde   verwantschap bestaan tussen hen. De Vlaamse Regering legt de voorwaarden vast   waaronder er sprake is van een ongeoorloofde verwantschap.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 50.
+
+In   artikel 14 van hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006 en   23 juni 2006, worden de woorden "en subsidiebeslissingen" opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 51.
+
+Voor   de dossiers waarvoor een subsidiebelofte werd verleend voor de datum van   inwerkingtreding van de desbetreffende bepalingen van artikel 43 tot en met 50   gelden de bepalingen van het decreet van 23 februari 1994 inzake de   infrastructuur voor persoonsgebonden aangelegenheden die van toepassing waren   voor de datum van inwerkingtreding van de desbetreffende bepalingen van artikel   43 tot en met 50.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 8 Economie, Wetenschap en Innovatie
 
 ## Afdeling 1 Economisch ondersteuningsbeleid
@@ -224,6 +296,10 @@ Aan   artikel 92bis van het decreet van 19 december 2008 houdende bepalingen tot
 
 ## Afdeling 1 Topstukkendecreet
 
+### ART. 56.
+
+Aan   artikel 19, § 3, eerste lid, van het decreet van 24 januari 2003 houdende   bescherming van het roerend cultureel erfgoed van uitzonderlijk belang,   gewijzigd bij het decreet van 30 april 2009, wordt een punt 8° toegevoegd, dat   luidt als volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"8°   inkomsten uit sponsoring.".
+
 ## Afdeling 2 Pensioenen VRT
 
 ### ART. 57.
@@ -231,6 +307,10 @@ Aan   artikel 92bis van het decreet van 19 december 2008 houdende bepalingen tot
 In   artikel 29 van het decreet van 25 april 2014 betreffende de rustpensioenen,   toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en   Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend   aan de rechtverkrijgenden van die personeelsleden, wordt in het tweede lid, 2°,   eerste zin, het woord "tot" opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 3 Vernieuwd jeugd- en kinderbeleid
+
+### ART. 58.
+
+In   artikel 17, § 5, van het decreet van 20 januari 2012 houdende een vernieuwd   jeugd- en kinderrechtenbeleid worden de volgende wijzigingen aangebracht   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid wordt het getal "22,5" vervangen door het getal   "17,5";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het tweede lid wordt het getal "12.375" vervangen door het getal   "9625".
 
 ## HOOFDSTUK 10 Onroerend erfgoed
 
@@ -242,4 +322,12 @@ In   hoofdstuk 12, afdeling 3, onderafdeling 3, van het Onroerenderfgoeddecreet 
 
 ## Afdeling 2 Restauratie Van Peteghemorgel
 
+### ART. 60.
+
+Het   saldo, groot 64.211,40 euro, van de aan de kerkfabriek Sint-Martinus Gijzegem,   Gijzegem-Dorp 18 te 9308 Gijzegem, op 15 april 2009 toegekende restauratiepremie   voor de restauratie van het Van Peteghemorgel in de Sint-Martinuskerk te   Gijzegem wordt uitbetaald.
+
 ## HOOFDSTUK 11 Inwerkingtreding
+
+### ART. 61.
+
+Dit   decreet treedt in werking vanaf de tiende dag na de publicatie in het Belgisch   Staatsblad, met uitzondering van :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de artikelen 2, 3, 4, 5, 6, 7, 8, 9, 10, 42, 52, 53, 54, 55 en 59, die   uitwerking hebben met ingang van 1 januari 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de artikelen 11, 12, 13, 14, 15, 16, 17, 18 en 19, die uitwerking hebben met   ingang van 1 mei 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   artikel 22, dat uitwerking heeft met ingang van 30 juni 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   de artikelen 24, 25 tot en met 32, 38, 39, 40 en 41, die uitwerking hebben met   ingang van 1 juli 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   artikel 57, dat uitwerking heeft met ingang van 1 augustus   2014.
