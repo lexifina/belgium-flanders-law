@@ -2,16 +2,16 @@
   "codex_id": 1020511,
   "title": "Decreet van 2011-07-15 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020511/VolledigDocument?datum=2014-01-13",
-  "source_sha256": "182d1932db7b72516cf932ee9900836a6b71d91c953275268d645c03f2c140ab",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020511/VolledigDocument?datum=2015-07-25",
+  "source_sha256": "77f2d0868ecbc92b113c5984b2cbcc0d72aa4a6b1a6672e325a2a4a8a49df73c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020511&param=informatie",
-  "as_of": "2014-01-13",
+  "as_of": "2015-07-25",
   "made": "2011-07-15",
   "gazette": "2011-08-11",
   "numac": 2011203932,
   "document_start": "2014-01-01",
   "document_end": null,
-  "in_force": "2014-01-13",
+  "in_force": "2015-07-25",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-01-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-25; future article versions excluded; article text as the API gives it"
 }
