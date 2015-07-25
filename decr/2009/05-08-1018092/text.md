@@ -1046,7 +1046,19 @@ De Vlaamse Regering kan een steunprogramma opstellen met tegemoetkomingen ten vo
 
 ### ART. 8.2.2.
 
-De Vlaamse Regering kan leningen verstrekken ter ondersteuning van   investeringen in het kader van de bevordering van het rationeel energieverbruik,   door:<BR>1° via lokale entiteiten leningen aan eindafnemers te verstrekken voor   de financiering van investeringen in privéwoningen die dienen als   hoofdverblijfplaats;<BR>2° het rechtstreeks verstrekken van deze leningen aan   eindafnemers.<BR><BR>De Vlaamse Regering kan de modaliteiten voor de leningen   bepalen evenals de procedure voor aanvraag en toekenning. De volgende   koninklijke besluiten worden gehandhaafd tot de datum van opheffing door de   Vlaamse Regering:<BR>1° koninklijk besluit van 2 juni 2006 houdende de definitie   van de doelgroep van de meest behoeftigen van het Fonds ter reductie van de   globale energiekost;<BR>2° koninklijk besluit van 1 juli 2006 tot vaststelling   van het beheerscontract van het Fonds ter reductie van de globale   energiekost.<BR><BR>De Vlaamse Regering kan bij het verstrekken van de leningen,   vermeld in het eerste lid, gebruikmaken van de diensten van het   Participatiefonds-Vlaanderen.
+§1. De Vlaamse Regering kan leningen verstrekken ter ondersteuning van investeringen in het kader van de bevordering van het rationeel energieverbruik, door:<br>
+1° via lokale entiteiten leningen aan eindafnemers te verstrekken voor de financiering van investeringen in privéwoningen die dienen als hoofdverblijfplaats;<br>
+2° het rechtstreeks verstrekken van deze leningen aan eindafnemers.<br>
+<br>
+De Vlaamse Regering kan de modaliteiten voor de leningen bepalen evenals de procedure voor aanvraag en toekenning. De volgende koninklijke besluiten worden gehandhaafd tot de datum van opheffing door de Vlaamse Regering:<br>
+1° koninklijk besluit van 2 juni 2006 houdende de definitie van de doelgroep van de meest behoeftigen van het Fonds ter reductie van de globale energiekost;<br>
+2° koninklijk besluit van 1 juli 2006 tot vaststelling van het beheerscontract van het Fonds ter reductie van de globale energiekost.<br>
+<br>
+De Vlaamse Regering kan bij het verstrekken van de leningen, vermeld in het eerste lid, gebruikmaken van de diensten van het Participatiefonds-Vlaanderen.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de minimale voorwaarden waaraan de lokale entiteiten, vermeld in § 1, eerste lid, 1°, dienen te voldoen. Tussen het Vlaamse Gewest en elke lokale entiteit wordt een samenwerkingsovereenkomst gesloten. De Vlaamse Regering kan een tegemoetkoming geven in de personeels- en werkingskosten van de lokale entiteiten.<br>
+<br>
+§ 3. De Vlaamse Regering kan op voorstel van de Vlaamse minister bevoegd voor Energie schulden die door een lokale entiteit ten aanzien van het Vlaamse Gewest in het kader van de uitvoering van dit artikel werden gemaakt geheel of gedeeltelijk kwijtschelden. De Vlaamse Regering bepaalt nadere regels met betrekking tot de modaliteiten en de voorwaarden waaronder deze kwijtschelding kan geschieden.
 
 ## HOOFDSTUK III. Steunprogramma's voor ondernemingen
 
@@ -1507,7 +1519,10 @@ De inkomsten die voortvloeien uit de opbrengst van de administratieve   geldboet
 
 ### ART. 14.1.2.
 
-<P>Het tarief van de heffing bedraagt 15 eurocent per afnamepunt per maand dat   de afnemer in het heffingsjaar is aangesloten geweest op een van de netten   vermeld in § 1.</P>
+<p>Het tarief van de heffing bedraagt per afnamepunt per maand dat de afnemer in het heffingsjaar is aangesloten geweest op een van de netten, vermeld in artikel 14.1.1, § 1 :<br>
+- van 1 januari tot en met 30 juni 2015 : 15 eurocent;<br>
+- van 1 juli 2015 tot en met 31 december 2015 : 34 eurocent;<br>
+- vanaf 1 januari 2016 : 25 eurocent.</p>
 
 ### ART. 14.1.3.
 
