@@ -2,16 +2,16 @@
   "codex_id": 1021736,
   "title": "Besluit van de Vlaamse Regering van 2012-03-23 houdende verlening van de waarborg van het Vlaamse Gewest voor de leningen die door het Fonds ter reductie van de globale energiekost worden toegestaan aan diverse Lokale Entiteiten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021736/VolledigDocument?datum=2012-05-26",
-  "source_sha256": "9640b7e6ea9451eff7ee04b786cb0d193e535af4eef0007cfe540238183802a0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021736/VolledigDocument?datum=2015-07-25",
+  "source_sha256": "51fcac8b94b3ea3ac383b1ac19acb51aae401a8fc86ac1b0db5b6918ac54d20b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021736&param=informatie",
-  "as_of": "2012-05-26",
+  "as_of": "2015-07-25",
   "made": "2012-03-23",
   "gazette": "2012-05-16",
   "numac": 2012035507,
   "document_start": "2012-05-26",
   "document_end": "2015-07-24",
-  "in_force": "2012-05-26",
+  "in_force": "2015-07-25",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2012-05-26; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-25; future article versions excluded; article text as the API gives it"
 }
