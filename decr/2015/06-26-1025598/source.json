@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025598,
+  "title": "Decreet van 2015-06-26 houdende instemming met het Benelux-Verdrag inzake grensoverschrijdende en interterritoriale samenwerking, ondertekend te 's-Gravenhage op 20 februari 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025598/VolledigDocument?datum=2015-07-26",
+  "source_sha256": "aac48147c38b438d2ff88c08560b423770841d82ac86f00b3e1a69f2ef92b381",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025598&param=informatie",
+  "as_of": "2015-07-26",
+  "made": "2015-06-26",
+  "gazette": "2015-07-16",
+  "numac": 2015035912,
+  "document_start": "2015-07-26",
+  "document_end": null,
+  "in_force": "2015-07-26",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-07-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
