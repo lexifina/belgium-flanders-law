@@ -15,3 +15,11 @@ In   artikel 13 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse
 ### ART. 3.
 
 In   artikel 14 van hetzelfde besluit worden de woorden "de heer Johan Pauwels"   vervangen door de woorden "mevrouw Hilde De Nutte".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 4.
+
+Artikel   1 heeft uitwerking met ingang van 1 december 2014. Artikel 2, 1°, heeft   uitwerking met ingang van 20 mei 2015. Artikel 2, 2°, heeft uitwerking met   ingang van 6 februari 2015. Artikel 3 heeft uitwerking met ingang van 20 mei   2015.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 5.
+
+De   Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de   uitvoering van dit besluit.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
