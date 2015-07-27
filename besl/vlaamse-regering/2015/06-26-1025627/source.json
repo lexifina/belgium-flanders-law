@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025627,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-26 houdende goedkeuring van nieuwe programmaties voor het schooljaar 2015-2016 in het deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025627/VolledigDocument?datum=2015-07-27",
+  "source_sha256": "aec4ab50fa90309c6f88e2c6a3985daf550f326e34a69e5f66e15f27c107b314",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025627&param=informatie",
+  "as_of": "2015-07-27",
+  "made": "2015-06-26",
+  "gazette": "2015-07-17",
+  "numac": 2015035894,
+  "document_start": "2015-07-27",
+  "document_end": null,
+  "in_force": "2015-07-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-07-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
