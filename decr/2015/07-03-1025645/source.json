@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025645,
+  "title": "Decreet van 2015-07-03 houdende de wijziging van diverse bepalingen van het Jachtdecreet van 24 juli 1991",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025645/VolledigDocument?datum=2015-07-30",
+  "source_sha256": "f957f62e2787714ec61a03d7f230265b10c92c63f2eabc118a6369a8e9312052",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025645&param=informatie",
+  "as_of": "2015-07-30",
+  "made": "2015-07-03",
+  "gazette": "2015-07-20",
+  "numac": 2015035920,
+  "document_start": "2015-07-30",
+  "document_end": null,
+  "in_force": "2015-07-30",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2015-07-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
