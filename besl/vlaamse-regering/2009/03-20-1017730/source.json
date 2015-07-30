@@ -2,16 +2,16 @@
   "codex_id": 1017730,
   "title": "Besluit van de Vlaamse Regering van 2009-03-20 betreffende de uitgifte van Vlaamse schuldbewijzen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017730/VolledigDocument?datum=2009-03-01",
-  "source_sha256": "ee8a39d49ae6f3e08d9c09144c9eb2376278a8db563cf05b895595b87a56aad4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017730/VolledigDocument?datum=2015-07-30",
+  "source_sha256": "fb9d180df0ccb37c542c4e98b13bb5e3253dfa6b24e4c3602770775ef0f6c14d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017730&param=informatie",
-  "as_of": "2009-03-01",
+  "as_of": "2015-07-30",
   "made": "2009-03-20",
   "gazette": "2009-03-26",
   "numac": 2009035271,
   "document_start": "2009-03-01",
   "document_end": null,
-  "in_force": "2009-03-01",
+  "in_force": "2015-07-30",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2009-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-07-30; future article versions excluded; article text as the API gives it"
 }

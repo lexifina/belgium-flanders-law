@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 13 maart 2009 betreffen
 
 ### ART. 1.
 
-De Vlaamse minister, bevoegd voor Financiën en Begroting, wordt gemachtigd om over te gaan tot de uitgifte van Vlaamse schuldbewijzen, op de internationale kapitaal- en geldmarkten, van financiële instrumenten die internationaal worden gecatalogeerd als « Euro Medium Term Notes ».<br /><br />In uitvoering van de mogelijkheid daartoe voorzien in artikel 3, § 1, eerste lid van het decreet van 13 maart 2009 betreffende de al dan niet in effecten belichaamde schuld van het Vlaamse Gewest en de Vlaamse Gemeenschap, wordt de uitgifte van deze « Euro Medium Term Notes » onderworpen aan de wet van 2 januari 1991 betreffende de markt van de effecten van de overheidsschuld en het monetair beleidsinstrumentarium, en de bij of krachtens deze wet vastgestelde voorwaarden, vormen en rechten.
+<P>De Vlaamse minister, bevoegd voor de financiën en de begrotingen, wordt   gemachtigd om over te gaan tot de uitgifte van Vlaamse schuldbewijzen op de   internationale kapitaal- en geldmarkten.<BR><BR>In uitvoering van artikel 3, §   1, eerste lid van het decreet van 13 maart 2009 betreffende de al dan niet in   effecten belichaamde schuld van het Vlaamse Gewest en de Vlaamse Gemeenschap,   wordt de uitgifte van de gedematerialiseerde effecten, vermeld in het eerste   lid, onderworpen aan de wet van 2 januari 1991 betreffende de markt van de   effecten van de overheidsschuld en het monetair beleidsinstrumentarium, en de   voorwaarden, vormen en rechten die krachtens de voormelde wet zijn   vastgesteld.</P>
 
 ### ART. 2.
 
@@ -18,7 +18,7 @@ Het totaal uit te geven bedrag van de Vlaamse schuldbewijzen is onbeperkt.
 
 ### ART. 4.
 
-De looptijd van deze Vlaamse schuldbewijzen bedraagt minimum een maand en maximum vijftig jaar.
+De looptijd van deze Vlaamse schuldbewijzen bedraagt minimum een&nbsp;dag   en maximum vijftig jaar.
 
 ### ART. 5.
 
