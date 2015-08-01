@@ -2,16 +2,16 @@
   "codex_id": 1024280,
   "title": "Ministerieel besluit van 2014-05-09 tot bepaling van nadere regels voor het verlenen van steun voor deelname aan Europees erkende voedselkwaliteitsregelingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024280/VolledigDocument?datum=2014-07-17",
-  "source_sha256": "3c5749b4238eb206beb70535e6e18f73f4a0b474c46d4c5a5d7d4350f637a9a5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024280/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "bf32dd682258fa30441d4c00fd3d0bb5d0d34c9b1573ff88173c3fbf60bd1fba",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024280&param=informatie",
-  "as_of": "2014-07-17",
+  "as_of": "2015-08-01",
   "made": "2014-05-09",
   "gazette": "2014-07-07",
   "numac": 2014203615,
   "document_start": "2014-07-17",
   "document_end": "2015-07-31",
-  "in_force": "2014-07-17",
+  "in_force": "2015-08-01",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2014-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-08-01; future article versions excluded; article text as the API gives it"
 }
