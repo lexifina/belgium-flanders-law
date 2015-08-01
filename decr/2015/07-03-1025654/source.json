@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025654,
+  "title": "Decreet van 2015-07-03 houdende instemming met het samenwerkingsakkoord van 24 april 2015 tot wijziging van het samenwerkingsakkoord van 31 januari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de invoering van de kilometerheffing op het grondgebied van de drie gewesten en tot oprichting van een publiekrechtelijk vormgegeven Interregionaal Samenwerkingsverband Viapass onder de vorm van een gemeenschappelijke instelling zoals bedoeld in artikel 92bis, § 1, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025654/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "c89f3c61ef7101b0b8cf659bf244f7fb4c2e06fc3691e2c4ed7dbc259aaaef94",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025654&param=informatie",
+  "as_of": "2015-08-01",
+  "made": "2015-07-03",
+  "gazette": "2015-07-22",
+  "numac": 2015035919,
+  "document_start": "2015-08-01",
+  "document_end": null,
+  "in_force": "2015-08-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
