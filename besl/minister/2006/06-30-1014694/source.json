@@ -2,16 +2,16 @@
   "codex_id": 1014694,
   "title": "Ministerieel besluit van 2006-06-30 houdende de delegatie van sommige bevoegdheden inzake financiën en begroting aan de leidende ambtenaren van het Vlaams ministerie van Financiën en Begroting",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014694/VolledigDocument?datum=2012-05-29",
-  "source_sha256": "51c7ac7a26a56e07a189be7b832bcc6a08ac6e800d0212a3fcf8ffe68d292d6d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014694/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "8742725c08aef74bee1b219ee18fd93b8f7586c42f1eab70359bbc72cf863e3d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014694&param=informatie",
-  "as_of": "2012-05-29",
+  "as_of": "2015-08-01",
   "made": "2006-06-30",
   "gazette": "2006-07-25",
   "numac": 2006036127,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2012-05-29",
-  "article_versions": 15,
-  "record_form": "consolidated version as in force on 2012-05-29; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-08-01",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-08-01; future article versions excluded; article text as the API gives it"
 }
