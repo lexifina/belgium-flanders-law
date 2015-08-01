@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025649,
+  "title": "Decreet van 2015-06-26 houdende instemming met het verdrag tot oprichting van het Internationaal Instituut voor Democratie en Verkiezingsondersteuning, en de slotakte, gedaan te Stockholm op 27 februari 1995, zoals gewijzigd op 24 januari 2006",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025649/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "6bc7eea21227737a162513c8355b27e594aa289795d4c71a8fdffb158983063c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025649&param=informatie",
+  "as_of": "2015-08-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-22",
+  "numac": 2015035917,
+  "document_start": "2015-08-01",
+  "document_end": null,
+  "in_force": "2015-08-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
