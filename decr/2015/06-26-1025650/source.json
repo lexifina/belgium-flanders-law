@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025650,
+  "title": "Decreet van 2015-06-26 houdende instemming met de associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, ondertekend te Brussel op 27 juni 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025650/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "81e22c6a93850b712e78cf3ce6816f458c29bfb3ebd6d0d5c9f334c491ac90b4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025650&param=informatie",
+  "as_of": "2015-08-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-22",
+  "numac": 2015035921,
+  "document_start": "2015-08-01",
+  "document_end": null,
+  "in_force": "2015-08-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
