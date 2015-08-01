@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025652,
+  "title": "Decreet van 2015-06-26 houdende instemming met de associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en Oekraïne, anderzijds, ondertekend te Brussel op 21 maart 2014 en op 27 juni 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025652/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "5888dd51c92447750d1679d6a3384ae8ac8a5fed0977d2a7f317be7138750715",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025652&param=informatie",
+  "as_of": "2015-08-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-22",
+  "numac": 2015035931,
+  "document_start": "2015-08-01",
+  "document_end": null,
+  "in_force": "2015-08-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
