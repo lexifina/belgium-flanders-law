@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025655,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 9 september 2011 tot het verlenen van steun voor deelname aan Europees erkende voedselkwaliteitsregelingen en tot opheffing van het ministerieel besluit van 9 mei 2014 tot bepaling van nadere regels voor het verlenen van steun voor deelname aan Europees erkende voedselkwaliteitsregelingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025655/VolledigDocument?datum=2015-08-01",
+  "source_sha256": "2d554901e023fb32f7fa696675e059cc521f584910fae1e02947ad406bf0a5dc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025655&param=informatie",
+  "as_of": "2015-08-01",
+  "made": "2015-05-22",
+  "gazette": "2015-07-22",
+  "numac": 2015035885,
+  "document_start": "2015-08-01",
+  "document_end": null,
+  "in_force": "2015-08-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
