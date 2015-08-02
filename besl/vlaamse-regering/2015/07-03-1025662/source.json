@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025662,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-03 tot uitvoering van de ruilverkaveling Schelde-Leie en tot oprichting van het ruilverkavelingscomité Schelde-Leie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025662/VolledigDocument?datum=2015-08-02",
+  "source_sha256": "af85720f137fb811816ca205b9e6e45736d5c39906764009fc15b19311765c04",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025662&param=informatie",
+  "as_of": "2015-08-02",
+  "made": "2015-07-03",
+  "gazette": "2015-07-23",
+  "numac": 2015035930,
+  "document_start": "2015-08-02",
+  "document_end": null,
+  "in_force": "2015-08-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-08-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
