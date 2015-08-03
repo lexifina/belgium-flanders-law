@@ -2,16 +2,16 @@
   "codex_id": 1014437,
   "title": "Ministerieel besluit van 2006-03-15 betreffende het autonome beheer van land- en tuinbouwbedrijven en het kunstmatig creëren van betalingsvoorwaarden",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014437/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "df69defcb31e82f6bbe017d040303719d96ab0a54c33b3af48e8a2f17f0c50da",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014437/VolledigDocument?datum=2015-08-03",
+  "source_sha256": "f1a9b5f5f6531aabce3a9bc82b3f669917888ec2254a81f8ff63977fad2145e4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014437&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-08-03",
   "made": "2006-03-15",
   "gazette": "2006-04-19",
   "numac": 2006035523,
   "document_start": null,
   "document_end": "2015-08-02",
-  "in_force": "2015-01-01",
+  "in_force": "2015-08-03",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-08-03; future article versions excluded; article text as the API gives it"
 }
