@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025667,
+  "title": "Ministerieel besluit van 2015-06-15 betreffende het autonome beheer van land- en tuinbouwbedrijven en het kunstmatig creëren van voorwaarden om voordeel te verkrijgen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025667/VolledigDocument?datum=2015-08-03",
+  "source_sha256": "2552c90602223cebc8cdb0da2e68a1b7942731c0f8fa09502663fb37ee59698e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025667&param=informatie",
+  "as_of": "2015-08-03",
+  "made": "2015-06-15",
+  "gazette": "2015-07-24",
+  "numac": 2015035906,
+  "document_start": "2015-08-03",
+  "document_end": null,
+  "in_force": "2015-08-03",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-08-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
