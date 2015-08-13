@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025677,
+  "title": "Ministerieel besluit van 2015-07-17 tot vaststelling van de inventarismethodologie voor de inventaris van archeologische zones",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025677/VolledigDocument?datum=2015-08-13",
+  "source_sha256": "17a1e06beefd9ed144fb399ca8976c500cbac347d0b1fb96b613808c51cd38e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025677&param=informatie",
+  "as_of": "2015-08-13",
+  "made": "2015-07-17",
+  "gazette": "2015-08-03",
+  "numac": 2015035969,
+  "document_start": "2015-08-13",
+  "document_end": null,
+  "in_force": "2015-08-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
