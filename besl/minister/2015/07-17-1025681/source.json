@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025681,
+  "title": "Ministerieel besluit van 2015-07-17 tot vaststelling van de inventarismethodologie voor de landschapsatlas",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025681/VolledigDocument?datum=2015-08-13",
+  "source_sha256": "e3990ba55805e7160946268c9b9ad7ab114b7426756180fb95a4493623d5c153",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025681&param=informatie",
+  "as_of": "2015-08-13",
+  "made": "2015-07-17",
+  "gazette": "2015-08-03",
+  "numac": 2015035973,
+  "document_start": "2015-08-13",
+  "document_end": null,
+  "in_force": "2015-08-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
