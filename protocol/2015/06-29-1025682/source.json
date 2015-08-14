@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025682,
+  "title": "Protocol van 2015-06-29 tussen de Federale Regering en de in artikelen 128, 130, 135 en 138 van de Grondwet bedoelde overheden houdende afspraken tussen de Federale Overheid en de Gemeenschappen inzake de uitvoering van de Richtlijn 2013/55/EG betreffende beroepskwalificaties",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025682/VolledigDocument?datum=2015-08-14",
+  "source_sha256": "17bbff78739ab5be40e2205a17554345c9f9db6cfd3f4c1d78d23e4f9336fab9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025682&param=informatie",
+  "as_of": "2015-08-14",
+  "made": "2015-06-29",
+  "gazette": "2015-08-04",
+  "numac": 2015024176,
+  "document_start": "2015-08-14",
+  "document_end": null,
+  "in_force": "2015-08-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
