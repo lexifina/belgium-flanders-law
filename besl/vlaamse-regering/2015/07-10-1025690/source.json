@@ -1,0 +1,33 @@
+{
+  "codex_id": 1025690,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot vaststelling van het huishoudelijk reglement van de landcommissies, vermeld in artikel 2.2.3, § 3, van het decreet van 28 maart 2014 betreffende de landinrichting, en tot oprichting van de programmacommissie, vermeld in artikel 3.2.1 van het voormelde decreet",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025690/VolledigDocument?datum=2015-08-20",
+  "source_sha256": "01a79234d65e686e45d5c1cf82fda010bb30ffc8afa4b92ffc31a888206e7da6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025690&param=informatie",
+  "as_of": "2015-08-20",
+  "made": "2015-07-10",
+  "gazette": "2015-08-10",
+  "numac": 2015035990,
+  "document_start": "2015-08-20",
+  "document_end": null,
+  "in_force": "2015-08-20",
+  "article_versions": 16,
+  "table_of_contents_notes": [
+    "article version 1272313 (Art. 1., start 2015-08-20, no end date) is not in the table of contents, which lists a later version of Art. 1.: not placed",
+    "article version 1272314 (Art. 2., start 2015-08-20, no end date) is not in the table of contents, which lists a later version of Art. 2.: not placed",
+    "article version 1272315 (Art. 3., start 2015-08-20, no end date) is not in the table of contents, which lists a later version of Art. 3.: not placed",
+    "article version 1272316 (Art. 4., start 2015-08-20) is not in the Codex table of contents: placed after Art. 3.",
+    "article version 1272317 (Art. 5., start 2015-08-20) is not in the Codex table of contents: placed after Art. 4.",
+    "article version 1272318 (Art. 6., start 2015-08-20) is not in the Codex table of contents: placed after Art. 5.",
+    "article version 1272319 (Art. 7., start 2015-08-20) is not in the Codex table of contents: placed after Art. 6.",
+    "article version 1272320 (Art. 8., start 2015-08-20) is not in the Codex table of contents: placed after Art. 7.",
+    "article version 1272321 (Art. 9., start 2015-08-20) is not in the Codex table of contents: placed after Art. 8.",
+    "article version 1272322 (Art. 10., start 2015-08-20) is not in the Codex table of contents: placed after Art. 9.",
+    "article version 1272323 (Art. 11., start 2015-08-20) is not in the Codex table of contents: placed after Art. 10.",
+    "article version 1272324 (Art. 12., start 2015-08-20) is not in the Codex table of contents: placed after Art. 11.",
+    "article version 1272325 (Art. 13., start 2015-08-20) is not in the Codex table of contents: placed after Art. 12.",
+    "article version 1272326 (Art. 14., start 2015-08-20) is not in the Codex table of contents: placed after Art. 13."
+  ],
+  "record_form": "consolidated version as in force on 2015-08-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
