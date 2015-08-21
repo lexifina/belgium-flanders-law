@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025693,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot wijziging van artikel 10/3 van het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers, wat betreft de opname van bewoners jonger dan 65 jaar in een erkend woonzorgcentrum",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025693/VolledigDocument?datum=2015-08-21",
+  "source_sha256": "940fb892ba19f28718f20e99580491c88459c36f77bcb66085ec42aac1861147",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025693&param=informatie",
+  "as_of": "2015-08-21",
+  "made": "2015-07-17",
+  "gazette": "2015-08-11",
+  "numac": 2015036006,
+  "document_start": "2015-08-21",
+  "document_end": null,
+  "in_force": "2015-08-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
