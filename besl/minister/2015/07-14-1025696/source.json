@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025696,
+  "title": "Ministerieel besluit van 2015-07-14 betreffende de uitvaardiging van bepalingen met betrekking voor de oproep 2015 om aanvragen voor investerings- en projectsubsidies voor toeristische hefboomprojecten in te dienen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025696/VolledigDocument?datum=2015-08-22",
+  "source_sha256": "d52b5aa8719181726458713ee90860ad217a409ad850baf717a422669654652f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025696&param=informatie",
+  "as_of": "2015-08-22",
+  "made": "2015-07-14",
+  "gazette": "2015-08-12",
+  "numac": 2015035967,
+  "document_start": "2015-08-22",
+  "document_end": null,
+  "in_force": "2015-08-22",
+  "article_versions": 17,
+  "record_form": "consolidated version as in force on 2015-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
