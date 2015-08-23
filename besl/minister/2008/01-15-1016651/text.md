@@ -6,7 +6,11 @@ De Vlaamse minister van Institutionele Hervormingen, Havens, Landbouw, Zeevisser
 
 ### ART. 1.
 
-Het Vlaams betaalorgaan, dat deel uitmaakt van&nbsp;het Departement   Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij dat   uitgaven verricht uit hoofde van het Europees Landbouwgarantiefonds (ELGF) en   het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO), wordt   definitief erkend als betaalorgaan conform de bepalingen van artikel 6 van   Verordening (EG) nr. 1290/2005 van de Raad van 21 juni 2005 betreffende de   financiering van het gemeenschappelijk landbouwbeleid. <BR>
+Het Vlaams betaalorgaan, dat deel uitmaakt van&nbsp;het Departement   Landbouw en Visserij van het Vlaams Ministerie van Landbouw en Visserij dat   uitgaven verricht uit hoofde van het Europees Landbouwgarantiefonds (ELGF) en   het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO), wordt   definitief erkend als betaalorgaan conform de bepalingen van artikel 7 van   verordening (EU) nr. 1306/2013 van het Europees Parlement en de Raad van 17   december 2013 inzake de financiering, het beheer en de monitoring van het   gemeenschappelijk landbouwbeleid en tot intrekking van verordening (EEG) nr.   352/78, (EG) nr. 165/94, (EG) nr. 2799/98, (EG) nr. 814/2000, (EG) nr. 1290/2006   en (EG) nr. 485/2008 van de Raad. <BR>
+
+### ART. 1/1.
+
+De definitieve erkenning van het Vlaams betaalorgaan, vermeld in artikel   1, strekt zich uit tot de uitgaven die verricht zijn uit hoofde van het Europees   Landbouwgarantiefonds (ELGF) voor de met ingang van 1 juli 2014   geregionaliseerde bevoegdheden, namelijk steun voor particuliere opslag, steun   voor de bijenteeltsector, openbare opslag, uitvoer- en   productierestituties.
 
 ### ART. 2.
 
