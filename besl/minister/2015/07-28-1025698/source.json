@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025698,
+  "title": "Ministerieel besluit van 2015-07-28 tot wijziging van het ministerieel besluit van 15 januari 2008 tot definitieve erkenning van het Vlaams betaalorgaan voor het Europees Landbouwgarantiefonds (ELGF) en voor het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO), wat betreft de definitieve erkenning van het Vlaams betaalorgaan voor de geregionaliseerde bevoegdheden van het Belgisch Interventie- en Restitutiebureau (BIRB), en tot opheffing van het ministerieel besluit van 23 juli 2014 tot voorlopige erkenning van het Vlaams betaalorgaan voor de Europese landbouwfondsen bij het Agentschap voor Landbouw en Visserij inzake de geregionaliseerde bevoegdheden van het Belgisch Interventie- en Restitutiebureau (BIRB) ingevolge de zesde staatshervorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025698/VolledigDocument?datum=2015-08-23",
+  "source_sha256": "cb15a74803a995050ba9a04ba567c609b058095a3923071c2c7767928dc830eb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025698&param=informatie",
+  "as_of": "2015-08-23",
+  "made": "2015-07-28",
+  "gazette": "2015-08-13",
+  "numac": 2015036008,
+  "document_start": "2015-08-23",
+  "document_end": null,
+  "in_force": "2015-08-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-08-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
