@@ -146,7 +146,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitv
 
 ### BIJLAGE III.
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/08/05_1.pdf#page=28" title=" bijlage III" target="_blank" class="pdf">bijlage III</a>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2009/08/05_1.pdf#page=28" title=" bijlage   III" target="_blank" class="pdf">bijlage   III</a> <BR><BR>* Bij BVR van 17 juli 2015 werd met ingang van 24   augustus 2015 bijlage III als volgt gewijzigd:<BR>"1° in punt 11 worden de   woorden "een sociale last of" en de zinsnede "12a en" ingetrokken;<BR>2° punt   12a wordt ingetrokken".</P>
 
 ### BIJLAGE IV
 
