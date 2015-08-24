@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025700,
+  "title": "Decreet van 2015-07-17 houdende instemming met het samenwerkingsakkoord van 15 juli 2014 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest, de Vlaamse Gemeenschap, de Franse Gemeenschap, de Duitstalige Gemeenschap, de Gemeenschappelijke Gemeenschapscommissie van Brussel-Hoofdstad en de Franse Gemeenschapscommissie betreffende de nadere regels voor de werking van het Interfederaal Instituut voor de Statistiek, van de raad van bestuur en de wetenschappelijke comités van het instituut voor de Nationale Rekeningen",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025700/VolledigDocument?datum=2015-08-24",
+  "source_sha256": "9fae35011da0d7bfb9c936e2194dfdfc2656e5091ebd08e186e843ff463e9da9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025700&param=informatie",
+  "as_of": "2015-08-24",
+  "made": "2015-07-17",
+  "gazette": "2015-08-14",
+  "numac": 2015036007,
+  "document_start": "2015-08-24",
+  "document_end": null,
+  "in_force": "2015-08-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
