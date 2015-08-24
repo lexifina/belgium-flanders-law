@@ -72,4 +72,4 @@ De Vlaamse minister, bevoegd voor ruimtelijke ordening, is belast met de uitvoer
 
 ### BIJLAGE II
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2009/08/05_1.pdf#page=48" title=" Bijlage II" target="_blank" class="pdf">Bijlage II</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2009/08/05_1.pdf#page=48" title=" Bijlage   II" target="_blank" class="pdf">Bijlage   II</a> <BR><BR>* Bij art. 32 van het BVR van 17 juli 2015, B.S. 14   augustus 2015 worden aan bijlage II de volgende wijzigingen aangebracht:<BR>1°   in punt 11 wordt de zinsnede "12a en" ingetrokken;<BR>2° punt 12a wordt   ingetrokken.<BR>
