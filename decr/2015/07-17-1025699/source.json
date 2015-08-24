@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025699,
+  "title": "Decreet van 2015-07-17 houdende instemming met het Verdrag over de Benelux Interparlementaire Assemblee, ondertekend te Brussel op 20 januari 2015",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025699/VolledigDocument?datum=2015-08-24",
+  "source_sha256": "921fea3dea68e2c317787b42d4df38ba1196f1a4aa20126658fab357221a1a05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025699&param=informatie",
+  "as_of": "2015-08-24",
+  "made": "2015-07-17",
+  "gazette": "2015-08-14",
+  "numac": 2015036000,
+  "document_start": "2015-08-24",
+  "document_end": null,
+  "in_force": "2015-08-24",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
