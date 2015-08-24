@@ -442,13 +442,33 @@ Onverminderd andersluidende bepalingen worden de terugbetalingen van   subsidie 
 
 ## AFDELING 1 ALGEMENE BEPALINGEN
 
+### ART. 60.
+
+§ 1. Om het recht op wonen te bevorderen, kan de Vlaamse regering,   afhankelijk van de kredieten die daartoe op de begroting van het Vlaamse Gewest   worden ingeschreven, subsidie verlenen voor een aantal verrichtingen die   betrekking hebben op sociale huurwoningen en die passen in:<BR>1° de verwerving   van bebouwde of onbebouwde onroerende goederen;<BR>2° de aanleg of de aanpassing   van wooninfrastructuur;<BR>3° ...;<BR>4° de verhuring van sociale huurwoningen.   <BR><BR>Rekening houdend met de bepalingen van dit hoofdstuk stelt de Vlaamse   regering de bijzondere voorwaarden vast waaronder ze subsidie verleent.<BR><BR>§   2. Onverminderd de uitzonderingen die in dit hoofdstuk en in artikel 4.1.15 van   het decreet&nbsp;Grond- en Pandenbeleid zijn bepaald en rekening houdend met de   bepalingen van artikel 29, kan subsidie, zoals bedoeld in § 1, worden verleend   aan de volgende initiatiefnemers:<BR>1° de VMSW en de sociale   huisvestingsmaatschappijen;<BR>2° het VWF;<BR>3° de gemeenten;<BR>4° de   intergemeentelijke samenwerkingsverbanden, evenwel beperkt tot de subsidie voor   wooninfrastructuur;<BR>5° de openbare centra voor maatschappelijk welzijn en   OCMW-verenigingen.<BR><BR>§ 3. Wanneer de uitvoering van een verrichting,   bedoeld in deze titel, de ontruiming van woningen vereist, is de   initia-tiefnemer verplicht de bewoners die voldoen aan de voorwaarden die worden   vastgesteld op grond van artikel 95 en de bewoners van een woning die toebehoort   aan een sociale woonorganisatie of de initiatiefnemer, te herhuisvesten onder de   door de Vlaamse regering gestelde voorwaarden.
+
+### ART. 61.
+
+De Vlaamse regering bepaalt het bedrag van de subsidies, vermeld in dit   hoofdstuk. Behoudens een andersluidende decretale bepaling, mag dit bedrag nooit   hoger zijn dan 85 % van het subsidiabele bedrag.<BR><BR>Behoudens andersluidende   decretale bepaling, is elk ander voordeel dat de Vlaamse regering eventueel voor   dezelfde verrichting toekent op grond van haar gewest- of   gemeenschapsbevoegdheden in deze percentages begrepen.<BR><BR>In afwijking van   het derde lid kan de subsidie, vermeld in dit hoofdstuk, voor het   niet-gesubsidieerde gedeelte gecombineerd worden met de andere middelen die de   initiatiefnemers, vermeld in artikel 60, § 2, op grond van dit decreet kunnen   verkrijgen voor de financiering van hun   investeringsverrichtingen.<BR>
+
+### ART. 62.
+
+§ 1. De toezichthouder is bevoegd om namens de Vlaamse regering controle uit te oefenen op de aanwending van de subsidies, vermeld in dit hoofdstuk.<br /><br />§ 2. De Vlaamse regering stelt de bijzondere regels vast voor de eventuele terugbetaling van de ontvangen subsidie in de gevallen waarin, bij de realisatie van het sociaal woonproject, één of meer elementen werden gewijzigd, in het bijzonder de bestemming van gronden of gebouwen.
+
 ## AFDELING 2 [SUBSIDIE VOOR DE VERWERVING VAN ONROERENDE GOEDEREN (verv. Decr. 31 mei 2013, art. 27, I: 21 juli 2013)]
+
+### ART. 63.
+
+<P>...</P>
 
 ## AFDELING 3 SUBSIDIE VOOR WOONINFRASTRUCTUUR
 
 ### ART. 64.
 
 § 1. De Vlaamse regering kan subsidie verlenen om initiatiefnemers in   staat te stellen:<BR>1° gronden bouwrijp te maken, in voorkomend geval door   sloping van de aanwezige constructies;<BR>2° infrastructuurwerken uit te voeren,   met name de wegenuitrusting, de nutsvoorzieningen en de inrichtingen voor afvoer   en zuivering van afvalwater die voor de woningen in kwestie noodzakelijk   zijn;<BR>3° gemeenschapsvoorzieningen op te richten;<BR>4°   aanpassingswerkzaamheden aan de woonomgeving uit te voeren.<BR><BR>§ 2.   ...<BR><BR>§ 3. In deze paragraaf wordt verstaan onder : <BR>1° Algemene   Overeenkomst : de Algemene Overeenkomst tussen de Vlaamse Gemeenschap en het   Vlaamse Gewest, vertegenwoordigd door de Vlaamse Regering, en Serviceflats   Invest nv, gesloten op 18 oktober 1995 en gewijzigd door een addendum van 3   december 1996 en 22 juli 2008;<BR>2° serviceflats : individuele wooneenheden in   een serviceflatgebouw als vermeld in artikel 2, 5°, van de gecoördineerde   decreten van 18 december 1991 inzake voorzieningen voor bejaarden; <BR>3°   Serviceflats Invest nv : de bij besluit van de Vlaamse Regering van 18 oktober   1995 erkende vastgoedbeleggingsvennootschap met vast kapitaal.<BR><BR>Zolang   Serviceflats Invest nv de in de Algemene Overeenkomst opgenomen doelstelling om   2 000 serviceflats te realiseren niet heeft bereikt, kan in afwijking van   artikel 60 de subsidie voor verrichtingen als vermeld in paragraaf 1, 1°, 2° en   3°, ook worden verleend aan een OCMW of een vereniging zonder winstoogmerk als   er serviceflats worden opgericht in het kader van een onroerende   leasingovereenkomst tussen Serviceflats Invest nv en het OCMW of de vereniging   zonder winstoogmerk. <BR><BR>§ 4. In afwijking van artikel 60 kunnen subsidies,   vermeld in dit artikel, ook worden verleend aan initiatiefnemers, opgericht in   de vorm van een vereniging zonder winstoogmerk, overeenkomstig de wet van 27   juni 1921, waarbij aan verenigingen zonder winstgevend doel en aan instellingen   van openbaar nut rechtspersoonlijkheid wordt verleend.<BR><BR>§ 5. In afwijking   van artikel 60 kunnen de subsidies, vermeld in dit artikel, ook worden verleend   voor de verrichtingen in het kader van een renovatieproject voor woningen van   een wijk of buurt, waaraan een in artikel 60 vermelde initiatiefnemer   deelneemt.
+
+### ART. 65.
+
+De subsidiëring van infrastructuurwerken en van aanpassingswerkzaamheden aan de woonomge-ving, vermeld in artikel 64, § 1, eerste lid, 2° en 4°, is slechts mogelijk als de initiatiefnemer er zich toe verbindt de wooninfrastructuur in kwestie, samen met de grond waarin of waarop ze wordt uitgevoerd, binnen de termijn die door de Vlaamse regering wordt bepaald aan de gemeente over te dragen om in het gemeentelijke openbare domein te worden ingelijfd.<br /><br />De initiatiefnemer kan de gemeenschapsvoorzieningen die niet uitsluitend bedoeld zijn voor de bewoners van de woningen van het sociaal woonproject, aan de gemeente overdragen om in het gemeentelijke openbare domein te worden ingelijfd.<br /><br />De initiatiefnemer mag voor de overdracht aan de gemeente, bedoeld in dit artikel, een vergoeding vragen die niet meer mag bedragen dan het niet-gesubsidieerde deel van de kostprijs van de werkzaamheden, verrichtingen en voorzieningen.<br /><br />De overdracht gebeurt overeenkomstig een procedure die de Vlaamse regering uitwerkt en die voor de gemeente de nodige waarborgen biedt inzake overleg bij het ontwerp en de uitvoering van de verrichtingen.<br /><br />De gemeente is onderhoudsplichtig voor de infrastructuur en gemeenschapsvoorzieningen die aan haar werden overgedragen.
 
 ### ART. 66.
 
@@ -457,6 +477,10 @@ Onverminderd andersluidende bepalingen worden de terugbetalingen van   subsidie 
 ### ART. 67.
 
 ...
+
+### ART. 68.
+
+In afwijking van artikel 61, eerste en tweede lid kan de subsidie die   overeenkomstig deze afdeling wordt verleend, tot 100 % bedragen van het   subsidiabele bedrag.
 
 ## AFDELING 4 [SUBSIDIE VOOR BOUW VAN EN RENOVATIE TOT SOCIALE KOOPWONINGEN (verv. Decr. 31 mei 2013, art. 31, I: 21 juli 2013)]
 
