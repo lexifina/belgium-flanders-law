@@ -2,16 +2,16 @@
   "codex_id": 1025702,
   "title": "Besluit van de Vlaamse Regering van 2015-07-17 houdende wijziging van diverse bepalingen met betrekking tot het grond- en pandenbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025702/VolledigDocument?datum=2009-12-31",
-  "source_sha256": "3b7a1371c2421e0abf6d33863f679a15e82fa77d9a12db85b5a392688ca22dfb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025702/VolledigDocument?datum=2015-08-24",
+  "source_sha256": "1af947b04b76dc7ba55af32379eb15afa03ff70526d92240283397a8aea05032",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025702&param=informatie",
-  "as_of": "2009-12-31",
+  "as_of": "2015-08-24",
   "made": "2015-07-17",
   "gazette": "2015-08-14",
   "numac": 2015036017,
   "document_start": "2015-08-24",
   "document_end": null,
-  "in_force": "2009-12-31",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2009-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-08-24",
+  "article_versions": 68,
+  "record_form": "consolidated version as in force on 2015-08-24; future article versions excluded; article text as the API gives it"
 }
