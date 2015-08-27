@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025706,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 betreffende de regels voor steun voor de oprichting van producentenorganisaties",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025706/VolledigDocument?datum=2015-08-27",
+  "source_sha256": "68cc24dd3daee3f4309e880450a2c072ad53c5d313e45a0d29c92dc3f4193d96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025706&param=informatie",
+  "as_of": "2015-08-27",
+  "made": "2015-07-10",
+  "gazette": "2015-08-17",
+  "numac": 2015036013,
+  "document_start": "2015-08-27",
+  "document_end": null,
+  "in_force": "2015-08-27",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2015-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
