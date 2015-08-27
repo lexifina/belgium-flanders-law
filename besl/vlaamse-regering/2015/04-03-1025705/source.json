@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025705,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 tot wijziging van artikel 19 van het besluit van de Vlaamse Regering van 21 december 2012 betreffende de financiering van de Bijzondere Onderzoeksfondsen aan de universiteiten in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025705/VolledigDocument?datum=2015-08-27",
+  "source_sha256": "45f42ad8222bbeadfe46438a6b62fa3161f88a6ea4bc22891c5f8df9c36af858",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025705&param=informatie",
+  "as_of": "2015-08-27",
+  "made": "2015-04-03",
+  "gazette": "2015-08-17",
+  "numac": 2015036003,
+  "document_start": "2015-08-27",
+  "document_end": null,
+  "in_force": "2015-08-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
