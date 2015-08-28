@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025714,
+  "title": "Ministerieel besluit van 2015-07-20 tot bepaling van de voorwaarden voor langdurige arbeidsongeschiktheid, vermeld in artikel 20 van het besluit van de Vlaamse Regering van 19 december 2014 tot uitvoering van het decreet van 22 november 2013 betreffende de lokale diensteneconomie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025714/VolledigDocument?datum=2015-08-28",
+  "source_sha256": "b1299f9d0902035ba0009383eb46d29a1a23a65bf77c9c12a6f8b3a5656d601e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025714&param=informatie",
+  "as_of": "2015-08-28",
+  "made": "2015-07-20",
+  "gazette": "2015-08-18",
+  "numac": 2015035993,
+  "document_start": "2015-08-28",
+  "document_end": null,
+  "in_force": "2015-08-28",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-08-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
