@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025720,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-05 tot wijziging van artikel 2 en van de bijlage van het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025720/VolledigDocument?datum=2015-08-29",
+  "source_sha256": "666851298015321222f26a96ea7fa599b701c7b8916ac935440bcdea52545c86",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025720&param=informatie",
+  "as_of": "2015-08-29",
+  "made": "2015-06-05",
+  "gazette": "2015-08-19",
+  "numac": 2015035832,
+  "document_start": "2015-08-29",
+  "document_end": null,
+  "in_force": "2015-08-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
