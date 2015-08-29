@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025719,
+  "title": "Decreet van 2015-07-17 tot bekrachtiging van het besluit van de Vlaamse Regering van 5 juni 2015 tot wijziging van artikel 2 en van de bijlage van het besluit van de Vlaamse Regering van 27 mei 1997 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025719/VolledigDocument?datum=2015-08-29",
+  "source_sha256": "e664779a947e2ee2fd9472941a2a014a381ec7a1a7cb1b98b5df61c093be9a8d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025719&param=informatie",
+  "as_of": "2015-08-29",
+  "made": "2015-07-17",
+  "gazette": "2015-08-19",
+  "numac": 2015036020,
+  "document_start": "2015-08-29",
+  "document_end": null,
+  "in_force": "2015-08-29",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
