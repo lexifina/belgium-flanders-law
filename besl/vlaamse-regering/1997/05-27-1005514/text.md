@@ -6,7 +6,7 @@ Artikel 44 van het decreet basisonderwijs van 25 februari 1997 treedt in werking
 
 ### ART. 2.
 
-De ontwikkelingsdoelen en eindtermen in de bijlage van dit besluit zijn de eindtermen voor het gewoon kleuteronderwijs en lager onderwijs, zoals bedoeld in artikel 44 van het decreet basisonderwijs van 25 februari 1997.<br /><br />De in de bijlage vastgestelde eindtermen taal Frans gelden enkel voor de scholen waar het onderricht van de tweede taal wordt ingericht.
+De ontwikkelingsdoelen en eindtermen in de bijlage van dit besluit zijn de   eindtermen voor het gewoon kleuteronderwijs en lager onderwijs, zoals bedoeld in   artikel 44 van het decreet basisonderwijs van 25 februari 1997.
 
 ### ART. 3.
 

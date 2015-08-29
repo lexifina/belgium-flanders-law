@@ -2,16 +2,16 @@
   "codex_id": 1005514,
   "title": "Besluit van de Vlaamse Regering van 1997-05-27 tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005514/VolledigDocument?datum=2009-07-13",
-  "source_sha256": "3b18fb049ae0130664714e407f19c3b06a55eb82bc80c2c31889eb4e8fe5ccbf",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005514/VolledigDocument?datum=2015-08-29",
+  "source_sha256": "e18d044eb353b1e78a50686eb45925d21c6667eb140298c1260c91bd55be1557",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005514&param=informatie",
-  "as_of": "2009-07-13",
+  "as_of": "2015-08-29",
   "made": "1997-05-27",
   "gazette": "1997-08-28",
   "numac": 1997035859,
   "document_start": null,
   "document_end": null,
-  "in_force": "2009-07-13",
+  "in_force": "2015-08-29",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2009-07-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-08-29; future article versions excluded; article text as the API gives it"
 }
