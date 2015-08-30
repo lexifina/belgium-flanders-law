@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025725,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot vaststelling van een code van goede natuurpraktijk voor het beheer van waterlopen als vermeld in artikel 14, § 2, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het natuurlijk milieu",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025725/VolledigDocument?datum=2015-08-30",
+  "source_sha256": "91aca49210404cf850d464ad20d6f46d93975094d26bb0127eef0d9280e294df",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025725&param=informatie",
+  "as_of": "2015-08-30",
+  "made": "2015-07-10",
+  "gazette": "2015-08-20",
+  "numac": 2015035966,
+  "document_start": "2015-08-30",
+  "document_end": null,
+  "in_force": "2015-08-30",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-08-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
