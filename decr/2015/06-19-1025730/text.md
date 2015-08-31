@@ -156,6 +156,10 @@ In   artikel 23bis, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 1
 
 ## Afdeling I Deeltijds kunstonderwijs
 
+### ART. VII.2.
+
+In   artikel 34 van het besluit van de Vlaamse Regering van 3 oktober 2014 tot   wijziging van diverse besluiten betreffende het deeltijds kunstonderwijs met het   oog op een aantal maatregelen voor de inhoudelijke vernieuwing worden de   volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in het eerste lid wordt de datum "31 augustus 2015" vervangen door de datum "31   augustus 2016";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in het tweede lid worden de woorden "vanaf het schooljaar 2015-2016" vervangen   door de woorden "vanaf het schooljaar 2016-2017".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling II Ouderkoepelverenigingen
 
 ### ART. VII.8.
