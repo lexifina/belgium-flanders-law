@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025729,
+  "title": "Ministerieel besluit van 2015-07-20 tot vaststelling van de urencontingenten gezinszorg 2015 van de openbare diensten voor gezinszorg en aanvullende thuiszorg",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025729/VolledigDocument?datum=2015-08-31",
+  "source_sha256": "86f2b326c0a04ab38fe61eeb35548d4f7fa7ed25ab6e0d0c04ea50a611a0c33c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025729&param=informatie",
+  "as_of": "2015-08-31",
+  "made": "2015-07-20",
+  "gazette": "2015-08-21",
+  "numac": 2015036068,
+  "document_start": "2015-08-31",
+  "document_end": null,
+  "in_force": "2015-08-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-08-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
