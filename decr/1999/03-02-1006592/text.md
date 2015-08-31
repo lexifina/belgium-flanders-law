@@ -157,6 +157,10 @@ Het havenbedrijf, bevoegd voor het havengebied van Gent, is, ongeacht de   recht
 
 ## [AFDELING 1QUINQUIES BIJZONDERE BEPALING MET BETREKKING TOT HET HAVENGEBIED VAN ANTWERPEN (ing. decr. 17 juli 2015, art. 6, I: 31 augustus 2015)]
 
+### ART. 19undecies.
+
+Onverminderd de toepassing van de wet van 19 juni 1978 betreffende het   beheer van het Linkerscheldeoevergebied ter hoogte van Antwerpen en houdende   maatregelen voor het beheer en de exploitatie van de haven van Antwerpen, oefent   het havenbedrijf, bevoegd voor het havengebied van Antwerpen, ongeacht de   rechtsvorm van dat havenbedrijf, haar bevoegdheden uit binnen het gehele   havengebied van Antwerpen, met inbegrip van die gedeelten van het havengebied   die op het grondgebied van de gemeenten Beveren en Zwijndrecht zijn   gelegen.
+
 ## AFDELING 2 TOEZICHT, CONTROLE EN FINANCIELE BEPALINGEN
 
 ### ART. 20.
