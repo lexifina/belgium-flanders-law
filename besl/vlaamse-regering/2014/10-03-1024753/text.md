@@ -194,7 +194,7 @@ Het experiment bandoneon toegestaan door de Vlaamse minister, bevoegd voor   het
 
 ### ART. 34.
 
-De tijdelijke projecten aangepaste beeldende vorming, ortho-agogische   muzikale vorming en inclusief muziekonderricht, vermeld in artikel 3 van het   decreet van 10 juli 2008 houdende enkele dringende maatregelen voor het   deeltijds kunstonderwijs en verlengd bij artikel IV.1. van het decreet   betreffende het Onderwijs XXIII van 19 juli 2013 worden op 31 augustus 2015   stopgezet.<BR><BR>De leerlingen van de tijdelijke projecten, vermeld in het   eerste lid, worden vanaf het schooljaar 2015-2016 op basis van hun individueel   aangepast curriculum in de organieke leertrajecten ingeschaald.
+De tijdelijke projecten aangepaste beeldende vorming, ortho-agogische   muzikale vorming en inclusief muziekonderricht, vermeld in artikel 3 van het   decreet van 10 juli 2008 houdende enkele dringende maatregelen voor het   deeltijds kunstonderwijs en verlengd bij artikel IV.1. van het decreet   betreffende het Onderwijs XXIII van 19 juli 2013 worden op 31 augustus 2016   stopgezet.<BR><BR>De leerlingen van de tijdelijke projecten, vermeld in het   eerste lid, worden vanaf het schooljaar 2016-2017 op basis van hun individueel   aangepast curriculum in de organieke leertrajecten ingeschaald.
 
 ## Hoofdstuk 8 Slotbepalingen
 
