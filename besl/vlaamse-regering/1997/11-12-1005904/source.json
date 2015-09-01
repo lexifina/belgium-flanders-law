@@ -2,16 +2,16 @@
   "codex_id": 1005904,
   "title": "Besluit van de Vlaamse Regering van 1997-11-12 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005904/VolledigDocument?datum=2014-10-11",
-  "source_sha256": "1e85ff3d7ed3990b5922020bf0d94393b2284a610a5a44d69aca9608ca42f0c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005904/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "d0202250632908ec57c707682e33dda77de924374b3b7ac233e02076349ac0da",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005904&param=informatie",
-  "as_of": "2014-10-11",
+  "as_of": "2015-09-01",
   "made": "1997-11-12",
   "gazette": "1998-01-06",
   "numac": 1997036490,
   "document_start": "1997-11-01",
   "document_end": null,
-  "in_force": "2014-10-11",
+  "in_force": "2015-09-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2014-10-11; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
