@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027192,
+  "title": "Decreet van 2016-07-15 houdende de verschuiving en aanwending van werkingsmiddelen als gevolg van de toepassing van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften, en houdende de verlenging van de aanwendingstermijn voor de extra werkingstoelage voor de stijging van het aantal anderstalige kleuters",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027192/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "a8f0e52df24d955f83703c42da74a427f25cfd41ab951f94e48f9be7c44b97ba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027192&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2016-07-15",
+  "gazette": "2016-09-06",
+  "numac": 2016036319,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
