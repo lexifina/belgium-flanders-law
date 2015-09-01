@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025694,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot wijziging, wat het opleidingenaanbod betreft, van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025694/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "8ea63cfeba2ef68b6d7f32122cd03ffeaa2b96d7bc44da128781f94e74e39bfe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025694&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-07-10",
+  "gazette": "2015-08-12",
+  "numac": 2015035981,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
