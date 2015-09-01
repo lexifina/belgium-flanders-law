@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-Voor de toepassing van dit decreet wordt verstaan onder:<br />1° Universiteitendecreet: decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap;<br />2° zelfstandig academisch personeel: de personeelsleden, bedoeld in artikelen 64 en 65 van het Universiteitendecreet;<br />3° assisterend academisch personeel: benevens de personeelsleden, bedoeld in artikel 64 en artikelen 66 tot en met 69, van het Universiteitendecreet, ook alle bursalen en wetenschappelijke medewerkers, id est bijzonder academisch personeel, ongeacht de aard van de aanstelling of de herkomst van de bezoldiging;<br />4° administratief en technisch personeel: benevens de personeelsleden, bedoeld in artikel 107 en volgende van het Universiteitendecreet, ook de beleidsondersteunende, administratieve en technische medewerkers die niet ten laste van de werkingsuitkeringen bezoldigd worden;<br />5° schools: de onderwijsorganisatorische entiteiten van de transnationale Universiteit Limburg.
+Voor de toepassing van dit decreet wordt verstaan onder:<BR>1° ...<BR>2°   zelfstandig academisch personeel: de personeelsleden, vermeld in de artikelen   V.3 en V.4 van de Codex Hoger Onderwijs;<BR>3° assisterend academisch personeel:   benevens de personeelsleden, vermeld in artikel V.3 en artikel V.5 tot en met   V.8, van de Codex Hoger Onderwijs, ook alle bursalen en wetenschappelijke   medewerkers, id est bijzonder academisch personeel, ongeacht de aard van de   aanstelling of de herkomst van de bezoldiging;<BR>4° administratief en technisch   personeel: benevens de personeelsleden, artikel V.47 tot en met V.63, van de   Codex Hoger Onderwijs, ook de beleidsondersteunende, administratieve en   technische medewerkers die niet ten laste van de werkingsuitkeringen bezoldigd   worden;<BR>5° schools: de onderwijsorganisatorische entiteiten van de   transnationale Universiteit Limburg.
 
 ## TITEL II. De Universiteit Hasselt
 
@@ -44,7 +44,7 @@ De raad van bestuur is samengesteld uit:<BR>1° de voorzitter en de   ondervoorz
 
 ### ART. 7.
 
-De leden, bedoeld in artikel 6, eerste lid, 4°, worden als volgt   aangesteld:<BR>1° de zetelende voorzitter neemt het initiatief om drie   vertegenwoordigers van de sociale sector en drie vertegenwoordigers van de   economische sector te laten voordragen waarbij ten hoogste twee leden van elke   sector van hetzelfde geslacht zijn;<BR>2° de voorgedragen vertegenwoordigers   worden vervolgens aangesteld door de zetelende raad van bestuur, uiterlijk in de   maand september van het academiejaar waarin de zetelende leden van de sociale en   economische sectoren hun mandaat beëindigen.<BR><BR>De leden, bedoeld in artikel   6, eerste lid, 5°, 6° en 7°, worden bij geheime stemming verkozen door   respectievelijk de algemene vergadering van het zelfstandig academisch   personeel, de algemene vergadering van het assisterend academisch personeel en   de algemene vergadering van het administratief en technisch personeel. Voor de   verkiezing van die leden beschikken de kiezers telkens over één stem. De   kandidaten die het hoogste aantal stemmen behalen, zijn gekozen.<BR><BR>De   leden, bedoeld in artikel 6, eerste lid, 8°, worden aangesteld met inachtneming   van artikel II.61 van het decreet van 19 maart 2004 betreffende de   rechtspositieregeling van de student, de participatie in het hoger onderwijs, de   integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie   in de hogescholen en de begeleiding van de herstructurering van het hoger   onderwijs in Vlaanderen.<BR><BR>Voor de toepassing van dit artikel worden   :<BR>1° de leden van het onderwijzend personeel van groep 3 die opgenomen zijn   in het integratiekader bedoeld in artikel 171decies van het decreet van 13 juli   1994 betreffende de hogescholen in de Vlaamse Gemeenschap, ingedeeld in de   categorie van het zelfstandig academisch personeel;<BR>2° de leden van het   onderwijzend personeel van groep 1 en 2 die opgenomen zijn in het   integratiekader bedoeld in artikel 171decies van het decreet van 13 juli 1994   betreffende de hogescholen in de Vlaamse Gemeenschap, ingedeeld in de categorie   van het assisterend academisch personeel;<BR>3° de leden van het administratief   en technisch personeel die opgenomen zijn in het integratiekader bedoeld in   artikel 171decies van het decreet van 13 juli 1994 betreffende de hogescholen in   de Vlaamse Gemeenschap, ingedeeld in de categorie van het administratief en   technisch personeel.
+De leden, bedoeld in artikel 6, eerste lid, 4°, worden als volgt   aangesteld:<BR>1° de zetelende voorzitter neemt het initiatief om drie   vertegenwoordigers van de sociale sector en drie vertegenwoordigers van de   economische sector te laten voordragen waarbij ten hoogste twee leden van elke   sector van hetzelfde geslacht zijn;<BR>2° de voorgedragen vertegenwoordigers   worden vervolgens aangesteld door de zetelende raad van bestuur, uiterlijk in de   maand september van het academiejaar waarin de zetelende leden van de sociale en   economische sectoren hun mandaat beëindigen.<BR><BR>De leden, bedoeld in artikel   6, eerste lid, 5°, 6° en 7°, worden bij geheime stemming verkozen door   respectievelijk de algemene vergadering van het zelfstandig academisch   personeel, de algemene vergadering van het assisterend academisch personeel en   de algemene vergadering van het administratief en technisch personeel. Voor de   verkiezing van die leden beschikken de kiezers telkens over één stem. De   kandidaten die het hoogste aantal stemmen behalen, zijn gekozen.<BR><BR>De   leden, bedoeld in artikel 6, eerste lid, 8°, worden aangesteld met inachtneming   van artikel II.327 van de Codex Hoger Onderwijs.<BR><BR>Voor de toepassing van   dit artikel worden :<BR>1° de leden van het onderwijzend personeel van groep 3   die opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het zelfstandig academisch   personeel;<BR>2° de leden van het onderwijzend personeel van groep 1 en 2 die   opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het assisterend academisch   personeel;<BR>3° de leden van het administratief en technisch personeel die   opgenomen zijn in het integratiekader vermeld in artikel V.209 van de Codex   Hoger Onderwijs, ingedeeld in de categorie van het administratief en technisch   personeel.
 
 ### ART. 8.
 
@@ -56,7 +56,7 @@ De duur van de mandaten, bedoeld in artikel 6, eerste lid, 3°, 4°, 5°, 6° en
 
 ### ART. 10.
 
-Alle stemgerechtigde leden in de raad van bestuur hebben gelijke rechten en plichten. <br /><br />De studenten oefenen hun bevoegdheden als lid van de raad van bestuur uit, rekening houdend met de bepalingen van artikel II.51, § 2, eerste lid, 1°, juncto artikel II.93, § 2, van het decreet van 19 maart 2004 betreffende de rechtspositieregeling van de student, de participatie in het hoger onderwijs, de integratie van bepaalde afdelingen van het hoger onderwijs voor sociale promotie in de hogescholen en de begeleiding van de herstructurering van het hoger onderwijs in Vlaanderen.
+Alle stemgerechtigde leden in de raad van bestuur hebben gelijke rechten   en plichten. <BR><BR>De studenten oefenen hun bevoegdheden als lid van de raad   van bestuur uit, rekening houdend met de bepalingen van II.317, § 2, eerste lid,   1°, en artikel II.355, § 2, van de Codex Hoger Onderwijs.
 
 ## Onderafdeling 2. Bevoegdheid
 
@@ -136,7 +136,7 @@ Het bestuurscollege stelt een huishoudelijk reglement op waarin het zijn werking
 
 ### ART. 25.
 
-De rector en de vicerectoren hebben recht op een vergoeding, overeenkomstig de bepalingen van artikel 100 van het Universiteitendecreet.
+De rector en de vicerectoren hebben recht op een vergoeding,   overeenkomstig de bepalingen van artikel V.39 van de Codex Hoger   Onderwijs.
 
 ## Afdeling 5. De voorzitter en ondervoorzitter
 
@@ -160,7 +160,7 @@ De raad van bestuur bepaalt het salaris en de omvang en inhoud van de functie va
 
 ### ART. 29.
 
-De voorzitter en de ondervoorzitter hebben recht op een vergoeding, overeenkomstig de bepalingen van artikel 100 van het Universiteitendecreet.
+De voorzitter en de ondervoorzitter hebben recht op een vergoeding,   overeenkomstig de bepalingen van artikel V.39 van de Codex Hoger   Onderwijs.
 
 ## Afdeling 6. Vertegenwoordiging in de transnationale Universiteit Limburg
 
@@ -190,7 +190,7 @@ De beheerder coördineert de dagelijkse werking van de administratieve, financi�
 
 ### ART. 34.
 
-De raad van bestuur stelt het salaris van de beheerder vast in de salarisschaal van het zelfstandig academisch personeel. De raad van bestuur kan hem een vergoeding toekennen, overeenkomstig artikel 100 van het Universiteitendecreet.<br /><br />Personeelsleden van een universiteit of hogeschool die bezoldigd worden op de werkingsuitkeringen of ambtenaren van de Vlaamse Gemeenschap die het mandaat van beheerder opnemen, krijgen voor de duur van het mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen belang erkend wordt. Het verlof wordt gelijkgesteld met dienstanciënniteit. Het wordt niet bezoldigd.
+De raad van bestuur stelt het salaris van de beheerder vast in de   salarisschaal van het zelfstandig academisch personeel. De raad van bestuur kan   hem een vergoeding toekennen, overeenkomstig artikel V.39 van de Codex Hoger   Onderwijs.<BR><BR>Personeelsleden van een universiteit of hogeschool die   bezoldigd worden op de werkingsuitkeringen of ambtenaren van de Vlaamse   Gemeenschap die het mandaat van beheerder opnemen, krijgen voor de duur van het   mandaat een verlof voor de uitoefening van een mandaat waarvan het algemeen   belang erkend wordt. Het verlof wordt gelijkgesteld met dienstanciënniteit. Het   wordt niet bezoldigd.
 
 ## HOOFDSTUK III. Academische entiteiten
 
