@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025827,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-10 tot wijziging van sommige besluiten van de Vlaamse Regering betreffende de organisatie van het secundair onderwijs en de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025827/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "66c96898d96ef59586beebcf14948bae6c923df7e85336fe22590fa11a96a295",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025827&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-07-10",
+  "gazette": "2015-08-28",
+  "numac": 2015036084,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 34,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
