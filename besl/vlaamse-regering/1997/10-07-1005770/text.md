@@ -110,4 +110,4 @@ niet opgenomen<br /><br />stelt formulier vast
 
 ### BIJLAGE III
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1.pdf#page=4">Bijlage   III</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1.pdf#page=4">Bijlage   III</A></P>  <P>[nvdr: <BR>Wijziging bij artikel 1 BVR 25 september 2015:<BR>Tussen de module   Kelderconstructies en riolering B en de module Keperbindingen wordt&nbsp;de   module Kennismaken met de gezinsopvang ingevoegd.]<BR></P>
