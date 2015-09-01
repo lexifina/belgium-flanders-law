@@ -2,16 +2,16 @@
   "codex_id": 1022983,
   "title": "Besluit van de Vlaamse Regering van 2013-05-03 tot tijdelijke erkenning van de opleidingen bachelor in de architectuur en master in de architectuur van de Artesis Hogeschool Antwerpen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022983/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "45aca6cad5fa2c62ecdf09299494328140a536b4e542b984d5900fe46fffad3d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022983/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "5a413e98664353202165e34c2f1a7d505d9d178793d4cdfc18b2b3b58480f8ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022983&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2015-09-01",
   "made": "2013-05-03",
   "gazette": "2013-06-13",
   "numac": 2013035496,
   "document_start": "2013-09-01",
   "document_end": "2015-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2015-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }

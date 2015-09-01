@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-De opleidingen bachelor in de architectuur en master in de architectuur   van de Artesis Hogeschool Antwerpen krijgen een tijdelijke   erkenning.<BR>
+...
 
 ### ART. 2.
 
-De tijdelijke erkenningen, vermeld in artikel 1, gelden voor een periode   van twee jaar, die ingaat vanaf het begin van het academiejaar 2013-2014 en   vervalt op het einde van het academiejaar 2014-2015.<BR>
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
+...
