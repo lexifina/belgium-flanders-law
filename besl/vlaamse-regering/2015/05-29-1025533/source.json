@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025533,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-29 tot erkenning van de professioneel gerichte bacheloropleiding bachelor in wellbeing- en vitaliteitsmanagement als nieuwe opleiding van de Katholieke Hogeschool Vives Zuid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025533/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "6ce9159ce21f639a4162353e9e67e93985529bb078d9f2dfc53da231ffe50bba",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025533&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-05-29",
+  "gazette": "2015-07-01",
+  "numac": 2015035825,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
