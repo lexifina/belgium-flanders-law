@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025960,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 betreffende de aanrekening van administratieve kosten bij een verlof wegens opdracht, verlof voor vakbondsopdrachten, verlof om een ambt uit te oefenen in een ministerieel kabinet, of verlof voor prestaties ten behoeve van politieke groeperingen die in de wetgevende vergaderingen erkend zijn of hun voorzitters, voor de personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025960/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "15df052bcab429efcbc2e4359a46aad9e738b633e255058e453d752fd95031d8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025960&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-09-11",
+  "gazette": "2015-09-25",
+  "numac": 2015036153,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
