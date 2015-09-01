@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026019,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-02 tot wijziging van het koninklijk besluit van 5 maart 1990 betreffende de tegemoetkoming voor hulp aan bejaarden, wat betreft de aanpassing van de inkomensgrenzen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026019/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "06b774073ea24d779d4a99eb4d95f3823fa167fc652734f552a5085a18e557f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026019&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-10-02",
+  "gazette": "2015-10-21",
+  "numac": 2015036246,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
