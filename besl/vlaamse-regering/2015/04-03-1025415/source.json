@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025415,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-03 tot erkenning van de bachelor-na-bacheloropleiding bachelor in de eerstelijnszorg als nieuwe opleiding van de UC Leuven en de UC Limburg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025415/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "43738352a520b727d29db62feb970f3292d6a48d2268e954f23b6d0856d67c9c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025415&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-04-03",
+  "gazette": "2015-06-02",
+  "numac": 2015035660,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
