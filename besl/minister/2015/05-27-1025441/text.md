@@ -20,6 +20,10 @@ Bij   de overname van een veebedrijf moet de nieuwe eigenaar abonnementskosten b
 
 &nbsp;Het niet betalen van de   abonnementsfactuur binnen de 8 weken na facturatie door de erkende ophaler wordt   aanzien als een afstand doen ten opzichte van de aanbieder van het abonnement.   De ophaling en verwerking door de erkende ophaler zullen dan automatisch   verricht worden tegen een vergoeding per prestatie. Daarbij kan het   maximumtarief worden toegepast dat bepaald is in de erkenning van de   ophaler.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 4/1.
+
+De bijdrageplichtige veebedrijven die in 2015 een abonnement zoals bedoeld   in artikel 1 hebben betaald, krijgen een korting van 44 %.
+
 ### ART. 5.
 
 Dit   besluit treedt in werking op 1 januari 2015 en is geldig tot 31 december   2015.
