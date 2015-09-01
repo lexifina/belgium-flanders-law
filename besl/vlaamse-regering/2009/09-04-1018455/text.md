@@ -40,7 +40,7 @@ Ambt
 	<tbody>
 		<tr>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
-			<p>Ambt<!--?xml:namespace prefix = o         ns = "urn:schemas-microsoft-com:office:office" /--></p>
+			<p>Ambt</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:#f0f0f0 1pt inset; border-left:#f0f0f0 1pt inset; border-right:#f0f0f0 1pt inset; border-top:#f0f0f0 1pt inset; height:11.35pt">
 			<p>salarisschaal</p>
@@ -116,7 +116,7 @@ Ambt
 1° een beslissing van Medex als vermeld in artikel 5, § 1bis en § 1ter, van het decreet van 9 april 1992 betreffende het onderwijs-III;<br>
 2° een procedure voor reïntegratie als vermeld in artikel 5, § 1quater van het decreet van 9 april 1992 betreffende het onderwijs-III.<br>
 <br>
-§ 3. Als een personeelslid wordt aangesteld in een niet-vacante betrekking in een ambt van het ondersteunend personeel als vervanger van de titularis van deze betrekking, behoudt deze betrekking de puntenwaarde die er bij de oprichting volgens paragraaf 1 of paragraaf 2 werd aan toegekend.</p>
+&nbsp;§ 3. Als een personeelslid wordt aangesteld in een niet-vacante betrekking in een ambt van het ondersteunend personeel als vervanger van de titularis van deze betrekking, mag de vervanger geen hogere salarisschaal hebben dan de titularis van de betrekking, tenzij de inrichtende macht de puntenwaarde van de betrekking verhoogt.</p>
 
 ### ART. 7.
 
