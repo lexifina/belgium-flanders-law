@@ -2,16 +2,16 @@
   "codex_id": 1025555,
   "title": "Besluit van de Vlaamse Regering van 2015-06-12 houdende diverse personeelsmaatregelen in het onderwijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025555/VolledigDocument?datum=2015-05-01",
-  "source_sha256": "4c86e288009f8e0658fd0a79e592265f6b67ce8dda21cfe89d5cadc77752b798",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025555/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "c4cfcfa9832a1d60e939c74f961082e04be0ff29fe8cc686f904c31990f15461",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025555&param=informatie",
-  "as_of": "2015-05-01",
+  "as_of": "2015-09-01",
   "made": "2015-06-12",
   "gazette": "2015-07-06",
   "numac": 2015035841,
   "document_start": "2015-09-01",
   "document_end": null,
-  "in_force": "2015-05-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2015-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
