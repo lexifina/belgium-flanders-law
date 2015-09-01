@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026127,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-23 tot wijziging van het besluit van de Vlaamse Regering van 27 februari 2015 tot vaststelling van de vorm van het deelcertificaat en het diploma van het hoger beroepsonderwijs, en de inhoud van het bijbehorende diplomasupplement wat betreft het modulebewijs en het deelcertificaat",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026127/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "14d1efe187cd73263eb2806fd156dce8396f2e59bc9eeb596a1e6ffbe9aff0c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026127&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-10-23",
+  "gazette": "2015-11-27",
+  "numac": 2015036426,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
