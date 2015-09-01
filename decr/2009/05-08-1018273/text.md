@@ -68,6 +68,14 @@ Nascholingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden
 
 ## [Afdeling IV. Databank Beleidsinformatie Onderwijs en Vorming (ing. Decr. 19 juni 2015, art. VII.25, I: 1 september 2015)]
 
+### ART. 12/1.
+
+Deze afdeling is ook van toepassing op de universiteiten en   hogescholen.
+
+### ART. 12/2.
+
+De Vlaamse Regering regelt de uitbouw en het beheer van een databank   Beleidsinformatie Onderwijs en Vorming, met informatie rond onderwijs en vorming   in Vlaanderen.<BR><BR>Die databank heeft de volgende doelstellingen:<BR>1° het   ondersteunen van de voorbereiding en evaluatie van het Vlaamse   onderwijsbeleid;<BR>2° het ondersteunen van het beleidsvoerend vermogen en de   interne en externe kwaliteitszorg van en over de onderwijsinstellingen door een   aanbod van informatierijke omgevingen;<BR>3° het aanleveren van data voor   wetenschappelijk onderzoek rond onderwijs en vorming;<BR>4° het beantwoorden van   informatievragen van derden rond onderwijs en vorming;<BR>5° het genereren van   officiële onderwijsstatistieken voor historische en beleidsdoeleinden.<BR><BR>Om   de doelstellingen, vermeld in het eerste lid, te bereiken, worden in de databank   Beleidsinformatie Onderwijs en Vorming de volgende categorieën van gegevens   verzameld over het Vlaamse onderwijsbeleid:<BR>1° gegevens over de instroom,   doorstroom en uitstroom van lerenden, hun socio-economische situatie en hun   prestaties, met inbegrip van hun identificatiegegevens, financiële   bijzonderheden, persoonlijke kenmerken, gezinssamenstelling, opleiding en   vorming, beroep en betrekking;<BR>2° gegevens over de instroom, doorstroom en   uitstroom van personeelsleden en hun prestaties, met inbegrip van hun   identificatiegegevens, financiële bijzonderheden, persoonlijke kenmerken,   gezinssamenstelling, opleiding en vorming, beroep en betrekking;<BR>3° gegevens   over de werking en organisatie van de instellingen.<BR><BR>De entiteiten van het   beleidsdomein Onderwijs en Vorming en de onderwijsinspectie verstrekken daarvoor   de voor het Vlaamse onderwijsbeleid noodzakelijke gegevens waarover ze   beschikken, op voorwaarde van machtiging van de mededeling van persoonsgegevens   op basis van de wet van 8 december 1992 tot bescherming van de persoonlijke   levenssfeer ten opzichte van de verwerking van persoonsgegevens of van het   decreet van 18 juli 2008 betreffende het elektronische bestuurlijke   gegevensverkeer. De entiteit die door de Vlaamse Regering wordt belast met de   voorbereiding van het Vlaamse onderwijsbeleid is verantwoordelijk voor de   verwerking van de gegevens.<BR><BR>De gecodeerde persoonsgegevens kunnen onder   contractuele voorwaarden ook doorgegeven worden met het oog op wetenschappelijk   onderzoek.<BR><BR>Met het oog op statistische verwerkingen die de tijdsevolutie   van het onderwijs in Vlaanderen weergeven, worden een aantal gegevens permanent   bewaard, maar gegevens die niet langer nuttig zijn voor de doeleinden worden   verwijderd.<BR><BR>De Vlaamse Regering kan de voorwaarden voor de raadpleging,   het gebruik en de verkrijging van de verwerkte gegevens bepalen. Ze kan ook de   algemene organisatorische en technische maatregelen bepalen die genomen moeten   worden om de kwaliteit, de vertrouwelijkheid en de veiligheid van de gegevens te   garanderen.
+
 ## TITEL III. De pedagogische [begeleiding (verv. Decr. 23 december 2021, art. 60, I: 1 september 2022)]
 
 ## HOOFDSTUK I. Algemene bepalingen
@@ -92,7 +100,26 @@ Deze titel is niet van toepassing op de basiseducatie en de Centra voor Volwasse
 
 ### ART. 16.
 
-§ 1. De personeelsformatie van de pedagogische begeleidingsdiensten wordt per schooljaar vastgesteld, afzonderlijk voor :<br />1° het basisonderwijs;<br />2° het secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs samen;<br />3° de CLB's.<br /><br />§ 2. Per 350 organieke betrekkingen in elk van de niveaus, vermeld in § 1, heeft een pedagogische begeleidingsdienst recht op een halftijdse betrekking van pedagogisch adviseur.<br /><br />Aanvullend wordt per pedagogische begeleidingsdienst in een halftijdse betrekking van pedagogisch adviseur voor de centra voor leerlingenbegeleiding voorzien.<br /><br />§ 3. De berekening gebeurt op basis van het aantal organieke betrekkingen, vastgesteld op 1 februari van het voorafgaande schooljaar in de onderwijsinstellingen en CLB's die verbonden zijn aan de pedagogische begeleidingsdienst.<br /><br />§ 4. Als een pedagogische begeleidingsdienst recht heeft op twintig halftijdse betrekkingen van pedagogisch adviseur, kunnen twee halftijdse betrekkingen van pedagogisch adviseur worden omgezet in één voltijdse of twee halftijdse betrekkingen van adviseur-coördinator. Per aanvullende schijf van 35 halftijdse betrekkingen van pedagogisch adviseur waarop een pedagogische begeleidingsdienst recht heeft, kan een halftijdse betrekking van pedagogisch adviseur worden omgezet in één bijkomende halftijdse betrekking van adviseur-coördinator. <br /><br />Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halftijdse betrekkingen, heeft het recht om één halftijdse betrekking van pedagogisch adviseur om te zetten in één halftijdse betrekking van adviseur-coördinator.<br /><br />§ 5. Maximaal 85 % van de vastgestelde personeelsformatie van elke pedagogische begeleidingsdienst kan worden ingenomen door personeelsleden die vastbenoemd zijn in een betrekking van pedagogisch adviseur of adviseur-coördinator.<br /><br />§ 6. Binnen iedere pedagogische begeleidingsdienst kan, met het oog op de uitoefening van bestuurlijke en organisatorische taken ten behoeve van deze pedagogische begeleidingsdienst, aan maximum drie voltijdse of zes halftijdse vastbenoemde pedagogische adviseurs een verlof wegens opdracht worden toegekend, zoals vermeld in artikel 51quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.
+§ 1. De personeelsformatie van de pedagogische begeleidingsdiensten wordt per schooljaar vastgesteld, afzonderlijk voor :<br>
+1° het basisonderwijs;<br>
+2° het secundair onderwijs, het volwassenenonderwijs en het deeltijds kunstonderwijs samen;<br>
+3° de CLB's.<br>
+<br>
+§ 2. Per 350 organieke betrekkingen in een van de niveaus, vermeld in § 1, heeft een pedagogische begeleidingsdienst recht op een halftijdse betrekking van pedagogisch adviseur.<br>
+<br>
+Per pedagogische begeleidingsdienst die overeenkomstig het eerste lid over een personeelsformatie beschikt, wordt in een halftijdse betrekking van pedagogisch adviseur voor de centra voor leerlingenbegeleiding voorzien.<br>
+<br>
+§ 3. De berekening gebeurt op basis van het aantal organieke betrekkingen, vastgesteld op 1 februari van het voorafgaande schooljaar in de onderwijsinstellingen en CLB's die verbonden zijn aan de pedagogische begeleidingsdienst.<br>
+<br>
+§ 4. Als een pedagogische begeleidingsdienst recht heeft op twintig halftijdse betrekkingen van pedagogisch adviseur, kunnen twee halftijdse betrekkingen van pedagogisch adviseur worden omgezet in één voltijdse of twee halftijdse betrekkingen van adviseur-coördinator. Per aanvullende schijf van 35 halftijdse betrekkingen van pedagogisch adviseur waarop een pedagogische begeleidingsdienst recht heeft, kan een halftijdse betrekking van pedagogisch adviseur worden omgezet in één bijkomende halftijdse betrekking van adviseur-coördinator.<br>
+<br>
+Een pedagogische begeleidingsdienst die recht heeft op minder dan twintig halftijdse betrekkingen, heeft het recht om één halftijdse betrekking van pedagogisch adviseur om te zetten in één halftijdse betrekking van adviseur-coördinator.<br>
+<br>
+§ 5. Maximaal 85 % van de vastgestelde personeelsformatie van elke pedagogische begeleidingsdienst kan worden ingenomen door personeelsleden die vastbenoemd zijn in een betrekking van pedagogisch adviseur of adviseur-coördinator.<br>
+<br>
+§ 6. Binnen iedere pedagogische begeleidingsdienst kan, met het oog op de uitoefening van bestuurlijke en organisatorische taken ten behoeve van deze pedagogische begeleidingsdienst, aan maximum drie voltijdse of zes halftijdse vastbenoemde pedagogische adviseurs een verlof wegens opdracht worden toegekend, zoals vermeld in artikel 51quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding of artikel 77quater, § 3, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs.<br>
+<br>
+§ 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016 en voor het schooljaar 2016-2017 niet over een personeelsformatie beschikken.
 
 ## Afdeling II. Verloven wegens bijzondere opdracht
 
@@ -158,15 +185,15 @@ Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden te
 
 ### ART. 27/1.
 
-<P>Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten kunnen   voor de schooljaren 2013-2014 en 2014-2015 subsidies worden toegekend voor de   loonkosten van de personeelsleden en de werkingskosten van de vzw   Voorrangsbeleid Brussel voor de opdracht, vermeld in artikel 27/2, als ze   voldoet aan de volgende voorwaarden :<BR>1° de vzw realiseert een aantal   projecten als vermeld in afdeling II;<BR>2° de vzw stelt zich tot doel het   ontwikkelen van expertise en het ondersteunen van scholen op het vlak van   Nederlandstalig onderwijs in een meertalige omgeving;<BR>3° de vzw maakt   jaarlijks een jaarplan op dat door de Vlaamse minister bevoegd voor onderwijs   moet goedgekeurd worden;<BR>4° de vzw bezorgt aan de Vlaamse minister bevoegd   voor het onderwijs jaarlijks en per project een financieel en inhoudelijk   verslag.</P>
+<P>Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten wordt   jaarlijks in een krediet voorzien van 609.000 euro voor de werkingskosten van de   entiteit Onderwijscentrum Brussel van de Vlaamse Gemeenschapscommissie voor de   uitvoering van volgende opdrachten ten aanzien van de scholen en de centra van   het basisonderwijs en secundair onderwijs die erkend, gefinancierd of   gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het tweetalige   gebied Brussel-Hoofdstad:<BR>1° het taalvaardigheidsonderwijs van het Nederlands   en het talenbeleid verbreden en verdiepen;<BR>2° de toepassing van het Brede   Schoolconcept ondersteunen.</P>
 
 ### ART. 27/2.
 
-<P>§ 1. De vzw Voorrangsbeleid Brussel heeft als opdracht ten aanzien van de   scholen van het basisonderwijs die erkend, gefinancierd of gesubsidieerd zijn   door de Vlaamse Gemeenschap en gelegen zijn in het tweetalige gebied   Brussel-Hoofdstad, het uitbouwen van een netoverschrijdende   ondersteuningsstructuur op het vlak van :<BR>1° het uitwerken en implementeren   van een talenbeleid;<BR>2° het uitwerken en implementeren van   taalvaardigheidsonderwijs;<BR>3° het invoeren van talenportfolio's;<BR>4° het   omgaan met talen diversiteit.<BR><BR>Initiatieven op deze vier vlakken moeten   ertoe leiden dat bij de leerlingen de kennis van de onderwijstaal   geoptimaliseerd wordt.<BR><BR>§ 2. In het kader van de opdracht, vermeld in § 1,   sluit de vzw Voorrangsbeleid Brussel een samenwerkingsovereenkomst met de   Vlaamse Gemeenschapscommissie met het oog op de functionele samenwerking met   Onderwijscentrum Brussel.</P>
+<P>De pedagogische begeleidingsdiensten die beschikken over een   personeelsformatie als vermeld in artikel 16, ontvangen jaarlijks 609.000 euro   aan aanvullende werkingsmiddelen voor de uitvoering van volgende   opdrachten:<BR>1° de competentieontwikkeling ondersteunen voor de implementatie   van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met   specifieke onderwijsbehoeften in een hoofdstedelijke context ten aanzien van de   scholen van het basisonderwijs en secundair onderwijs die erkend, gefinancierd   of gesubsidieerd zijn door de Vlaamse Gemeenschap en gelegen zijn in het   tweetalige gebied Brussel-Hoofdstad;<BR>2° een transfer voorzien van de   inzichten opgedaan onder 1° naar het Vlaamse onderwijs en de ontsluiting van de   kennis op het gebied van taalvaardigheidsonderwijs met prioriteit naar de   scholen van de Vlaamse Rand realiseren.<BR><BR>De pedagogische   begeleidingsdiensten werken nauw samen met het Onderwijscentrum Brussel van de   Vlaamse Gemeenschapscommissie teneinde deze opdrachten te kunnen vervullen. Een   protocol tussen deze actoren teneinde vorm te geven aan deze samenwerking wordt   afgesloten. In hun regulier werkingsverslag/jaarverslag rapporteren de   pedagogische begeleidingsdiensten en het Onderwijscentrum Brussel van de Vlaamse   Gemeenschapscommissie op welke wijze invulling wordt gegeven aan de opdrachten,   welke goede voorbeelden evenals andere multiplicatoreffecten gerealiseerd   werden.<BR><BR>De werkingsmiddelen, vermeld in het eerste lid, worden verdeeld   over deze pedagogische begeleidingsdiensten naar rato van het aantal organieke   betrekkingen in het Nederlandstalig onderwijs in Brussel in de instellingen   verbonden aan de pedagogische begeleidingsdiensten.</P>
 
 ### ART. 27/3.
 
-<P>...</P>
+<P>&nbsp;De bedragen vermeld in dit hoofdstuk hebben betrekking op   begrotingsjaar 2015. Vanaf begrotingsjaar 2016 worden deze bedragen aangepast   aan de evolutie van de gezondheidsindex.</P>
 
 ## [HOOFDSTUK V/2. Extra financiering en subsidiëring in het kader van de maatregelen VV15 Digisprong en VV17 Van kwetsbaar naar weerbaar, van het Vlaams relanceplan voor schooljaren 2021-2022 en 2022-2023 (ing. decr. 9 juli 2021, art. 35, I: 1 september 2021)]
 
@@ -175,16 +202,24 @@ Werkingsmiddelen die niet tijdig aangewend worden, moeten onmiddellijk worden te
 ### ART. 28.
 
 <p>§ 1. Binnen de door de Vlaamse Gemeenschap vastgelegde begrotingskredieten wordt jaarlijks in een krediet voorzien voor de uitvoering van de volgende opdrachten :<br>
-1° de begeleiding van de centra voor volwassenenonderwijs :<br>
-a) agogische en organisatorische ondersteuning bieden;<br>
-b) de deskundigheid van de personeelsleden bevorderen;<br>
-c) onderwijsvernieuwing en kwaliteitszorg coördineren, stimuleren en faciliteren;<br>
-d) centra ondersteunen bij de realisatie van de eindtermen, specifieke eindtermen en basiscompetenties bij de cursisten;<br>
+1° de begeleiding van de centra voor volwassenenonderwijs:<br>
+a) ondersteunen bij de realisatie van hun eigen agogisch project;<br>
+b) ondersteunen bij het bevorderen van hun onderwijskwaliteit en bij hun ontwikkeling tot professionele lerende organisatie door:<br>
+1) netwerkvorming te bevorderen en netwerken te ondersteunen;<br>
+2) leidinggevenden te ondersteunen of te vormen;<br>
+3) de beroepsbekwaamheid van de personeelsleden te ondersteunen binnen een centrum en centrumoverstijgend met bijzondere aandacht voor beginnende personeelsleden, personeelsleden met specifieke opdrachten;<br>
+4) het beleidsvoerend vermogen van centra te versterken;<br>
+5) de kwaliteitszorg van centra te ondersteunen;<br>
+c) op verzoek van het centrumbestuur het centrum ondersteunen en begeleiden bij de uitwerking van de aangegeven actiepunten na een doorlichting;<br>
+d) onderwijsinnovaties aanreiken, stimuleren en ondersteunen;<br>
+e) aanbodgerichte nascholingsactiviteiten aanreiken en aansturen met inbegrip van de nascholing van directies;<br>
+f) met verscheidene onderwijsactoren op verschillende niveaus overleggen over onderwijskwaliteit;<br>
+g) participeren aan de aansturing of opvolging van ondersteuningsinitiatieven georganiseerd of gesubsidieerd door de Vlaamse Regering die als doelstelling het ondersteunen van centra of hun leerkrachten of begeleiders hebben;";<br>
 2° de uitvoering van de opdrachten, vermeld in artikel 49 van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, samen met het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs.<br>
 <br>
 § 1/1. Vanaf het begrotingsjaar 2015 bedraagt het krediet, vermeld in paragraaf 1, 522.000 euro.<br>
 <br>
-§ 2. Het krediet dat wordt vastgelegd vanaf 2015, vermeld in paragraaf 1/1, volgt vanaf 2015 de evolutie van de gezondheidsindex. Het wordt ter beschikking gesteld van de afzonderlijke begeleidingsdiensten en verdeeld naar rato van de organieke betrekkingen in de centra voor volwassenenonderwijs.<br>
+§ 2. Het krediet dat wordt vastgelegd vanaf 2015, vermeld in paragraaf 1/1, volgt vanaf 2015 de evolutie van de gezondheidsindex. Het wordt ter beschikking gesteld van de afzonderlijke begeleidingsdiensten die beschikken over een personeelsformatie als vermeld in artikel 16&nbsp;en verdeeld naar rato van de organieke betrekkingen in de centra voor volwassenenonderwijs.<br>
 <br>
 In afwijking van het eerste lid, wordt het krediet, vermeld in paragraaf 1/1, voor het begrotingsjaar 2015 niet aangepast aan de evolutie van de index.<br>
 <br>
@@ -228,6 +263,10 @@ De permanente ondersteuningscellen, de pedagogische begeleidingsdiensten en in v
 
 Deze titel is niet van toepassing op :<br />1° de specifieke lerarenopleidingen in het volwassenenonderwijs;<br />2° het hoger beroepsonderwijs.
 
+### ART. 31/1.
+
+In titel IV wordt verstaan onder kalenderdag: elke dag van het jaar,   uitgezonderd de dagen tijdens de herfst-, de kerst-, de krokus-, de paas- en de   zomervakantie.
+
 ## HOOFDSTUK II. Opdrachten en bevoegdheden van de inspectie
 
 ## Afdeling I. Algemene bepalingen
@@ -254,15 +293,15 @@ Bij iedere aanvraag tot erkenning van een nieuwe instelling of een structuuronde
 
 ### ART. 35bis.
 
-Voorafgaand aan de oprichting van een nieuwe, al dan niet tijdelijke,   vestigingsplaats zoals bedoeld in artikel 3, 56°, van het decreet basisonderwijs   van 25 februari 1997, onderzoekt de onderwijsinspectie of de gebouwen en lokalen   beantwoorden aan de voorwaarden betreffende hygiëne, veiligheid en   bewoonbaarheid zoals is bepaald in artikel 62, § 1, 2°, van het decreet   basisonderwijs.
+<P>§ 1. Een instelling die een nieuwe, al dan niet tijdelijke, vestigingsplaats   als vermeld in artikel 3, 56°, en artikel 108 van het decreet basisonderwijs van   25 februari 1997, in gebruik wil nemen, doet hiervan melding bij de bevoegde   dienst, aangewezen door de Vlaamse Regering.<BR><BR>De melding, vermeld in het   eerste lid, wordt uiterlijk op het tijdstip van ingebruikname ingediend bij de   bevoegde dienst, aangewezen door de Vlaamse Regering. In de melding wordt   verklaard dat:<BR>1° de vestigingsplaats beantwoordt aan de voorwaarden   betreffende hygiëne, veiligheid en bewoonbaarheid zoals is bepaald in artikel   62, § 1, 2°, van het decreet basisonderwijs;<BR>2° de instelling, indien zij een   vestigingsplaats in gebruik neemt waar een andere instelling gevestigd is of   voordien was, kennis heeft van aanbevelingen of tekorten die de   onderwijsinspectie in het meest recente doorlichtingsverslag heeft geformuleerd   met betrekking tot de bewoonbaarheid, veiligheid en hygiëne van de betreffende   gebouwen. De instelling vermeldt in dat geval eveneens of het advies van de   onderwijsinspectie met betrekking tot de bewoonbaarheid, veiligheid en hygiëne   van de nieuwe vestigingsplaats gunstig, beperkt gunstig of ongunstig   was.<BR><BR>§ 2. De Vlaamse Regering, legt het model van het meldingsformulier   vast. De melding wordt digitaal ingediend.</P>
 
 ### ART. 35ter.
 
-Voorafgaand aan de oprichting van een vestigingsplaats zoals bedoeld in de   Codex Secundair Onderwijs respectievelijk het decreet van 10 juli 2008   betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap,   onderzoekt de onderwijsinspectie of de gebouwen en lokalen beantwoorden aan de   voorwaarden betreffende hygiëne, veiligheid en bewoonbaarheid, zoals bepaald in   dezelfde codex, respectievelijk hetzelfde decreet.
+<P>§ 1. Een instelling die een nieuwe vestigingsplaats als vermeld in de   artikelen 14, § 4, en 15, § 4, van de Codex Secundair Onderwijs, respectievelijk   de artikelen 10, § 4, 11, § 4, en 19, § 1/1, van het decreet van 10 juli 2008   betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, in   gebruik wil nemen, doet hiervan melding bij de bevoegde dienst, aangewezen door   de Vlaamse Regering.<BR><BR>De melding, vermeld in het eerste lid, wordt   uiterlijk op het tijdstip van de ingebruikname ingediend bij de bevoegde dienst,   aangewezen door de Vlaamse Regering. In de melding wordt verklaard dat:<BR>1° de   vestigingsplaats beantwoordt aan de voorwaarden betreffende hygiëne, veiligheid   en bewoonbaarheid zoals bepaald is in dezelfde codex, respectievelijk hetzelfde   decreet;<BR>2° de instelling, indien zij een vestigingsplaats in gebruik neemt   waar een andere instelling gevestigd is of voordien was, kennis heeft van   aanbevelingen of tekorten die de onderwijsinspectie in het meest recente   doorlichtingsverslag heeft geformuleerd met betrekking tot de bewoonbaarheid,   veiligheid en hygiëne van de betreffende gebouwen. De instelling vermeldt in dat   geval eveneens of het advies van de onderwijsinspectie met betrekking tot de   bewoonbaarheid, veiligheid en hygiëne van de nieuwe vestigingsplaats gunstig,   beperkt gunstig of ongunstig was.<BR><BR>§ 2. De Vlaamse Regering legt het model   van het meldingsformulier vast. De melding wordt digitaal   ingediend.</P>
 
 ### ART. 35quater.
 
-<P>De onderwijsinspectie bezorgt het advies aan de Vlaamse Regering.<BR><BR>Het   advies, vermeld in het eerste lid, kan op drie manieren worden   uitgebracht:<BR>1° een gunstig advies: dat houdt in dat de erkenning van de   vestigingsplaats gunstig wordt geadviseerd;<BR>2° een gunstig advies met   voorwaarden: dat houdt in dat de erkenning van de vestigingsplaats gunstig wordt   geadviseerd als binnen een bepaalde periode voldaan wordt aan de voorwaarden,   vermeld in het advies;<BR>3° een ongunstig advies: dat houdt in dat geadviseerd   wordt om de erkenning van de vestigingsplaats te weigeren.</P>
+<P>...</P>
 
 ## Afdeling III. Doorlichtingen
 
@@ -550,7 +589,9 @@ De Vlaamse Regering kan binnen de toegekende enveloppe een personeelslid tijdeli
 
 ### ART. 90.
 
-§ 1. Voor de aanstelling van bepaalde duur wordt de selectieprocedure gevolgd zoals vermeld in artikel 63 tot en met artikel 65.<br /><br />§ 2. Het eerste jaar van de tijdelijke aanstelling van bepaalde duur volgt het tijdelijk personeelslid een opleidingsprogramma, indien het voor de tijdelijke aanstelling van bepaalde duur nog niet was aangesteld bij de inspectie.
+§ 1. Voor de aanstelling van bepaalde duur wordt de selectieprocedure gevolgd zoals vermeld in artikel 63 tot en met artikel 65/1.<br>
+<br>
+§ 2. Het eerste jaar van de tijdelijke aanstelling van bepaalde duur volgt het tijdelijk personeelslid een opleidingsprogramma, indien het voor de tijdelijke aanstelling van bepaalde duur nog niet was aangesteld bij de inspectie.
 
 ### ART. 91.
 
@@ -584,7 +625,9 @@ De Vlaamse Regering kan binnen de toegekende enveloppe een personeelslid tijdeli
 
 ### ART. 98.
 
-§ 1. Voor de tijdelijke aanstelling van onbepaalde duur wordt de selectieprocedure gevolgd zoals vermeld in artikel 63 tot en met artikel 65.<br /><br />§ 2. Het eerste jaar van de tijdelijke aanstelling van onbepaalde duur volgt het tijdelijk personeelslid een opleidingsprogramma, indien het voor de tijdelijke aanstelling van onbepaalde duur nog niet was aangesteld bij de inspectie.
+§ 1. Voor de tijdelijke aanstelling van onbepaalde duur wordt de selectieprocedure gevolgd zoals vermeld in artikel 63 tot en met artikel 65/1.<br>
+<br>
+§ 2. Het eerste jaar van de tijdelijke aanstelling van onbepaalde duur volgt het tijdelijk personeelslid een opleidingsprogramma, indien het voor de tijdelijke aanstelling van onbepaalde duur nog niet was aangesteld bij de inspectie.
 
 ### ART. 99.
 
