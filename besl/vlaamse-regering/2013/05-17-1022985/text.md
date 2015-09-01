@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-De master in de internationale bedrijfseconomie en het bedrijfsbeleid en   de Master of International Business Economics and Management van de HUB-EHSAL   krijgen een tijdelijke erkenning.<BR>
+...
 
 ### ART. 2.
 
-De tijdelijke erkenningen, vermeld in artikel 1, gelden voor een periode   van twee jaar, die ingaat vanaf het begin van het academiejaar 2013-2014 en   vervalt op het einde van het academiejaar 2014-2015.<BR>
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
+...
