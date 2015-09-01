@@ -2,16 +2,16 @@
   "codex_id": 1000708,
   "title": "Besluit van de Vlaamse Regering van 1990-07-31 tot vastlegging van het pakket \"uren-leraar\" in het voltijds secundair onderwijs [...]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000708/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "b4eb06c81f65341f3f8252f623ea47e43961fbbc68f5beea288f5be760df0bd8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1000708/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "087db043149ae331c1db2846ef58c703c3cd638a5944eafa3cebef3c7b6bfddf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1000708&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2015-09-01",
   "made": "1990-07-31",
   "gazette": "1990-10-20",
   "numac": 1990030208,
   "document_start": "1990-09-01",
   "document_end": null,
-  "in_force": "2015-07-01",
+  "in_force": "2015-09-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
