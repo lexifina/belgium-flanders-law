@@ -110,11 +110,31 @@ Aan   artikel 3quinquies, § 2, van hetzelfde decreet, ingevoegd bij het decreet
 
 In   artikel 109 van het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs, het laatst gewijzigd bij het decreet van 19 juli 2013,   wordt in paragraaf 1 het bedrag "1,15 euro" vervangen door het bedrag "1,50   euro".
 
+### ART. 23.
+
+In   artikel 109 van hetzelfde decreet wordt paragraaf 2 vervangen door wat   volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. In afwijking van paragraaf 1 wordt het inschrijvingsgeld begrensd op 600   euro per opleiding per schooljaar.".
+
 ### ART. 24.
 
 &nbsp;In artikel 110 van hetzelfde decreet,   gewijzigd bij het decreet van 21 december 2012, worden de volgende wijzigingen   aangebracht:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 3 wordt het punt 3° vervangen door wat volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"3°   een vordering op de ontvangen inschrijvingsgelden van de Centra voor   Volwassenenonderwijs. Die vordering bedraagt per 1,15 euro inschrijvingsgeld,   zoals bepaald in artikel 109, § 1, voor de periode van 1 september 2014 tot en   met 31 december 2014 0,40 euro. Die vordering bedraagt per 1,50 euro   inschrijvingsgeld, zoals bepaald in artikel 109, § 1, voor de periode van 1   januari 2015 tot en met 31 augustus 2015 0,75 euro en vanaf het schooljaar   2015-2016 0,70 euro;";<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 4, punt 1°, worden de onderverdelingen a) tot en met d) vervangen   door wat volgt:<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"a)   een bedrag per lesuurcursist gegenereerd door cursisten die geen   inschrijvingsgeld betalen, dat 0,75 euro bedraagt in het schooljaar 2014-2015 en   0,80 euro vanaf het schooljaar 2015-2016;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   een bedrag per lesuurcursist waarvoor geen inschrijvingsgeld betaald werd op   basis van artikel 109, § 2, dat 0,75 euro bedraagt in het schooljaar 2014-2015   en 0,80 euro vanaf het schooljaar 2015-2016;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   een bedrag per lesuurcursist gegenereerd door cursisten die verminderd   inschrijvingsgeld van 0,30 euro per lesuur betalen, dat 0,45 euro bedraagt in   het schooljaar 2014-2015 en 0,50 euro vanaf het schooljaar 2015-2016;<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   een bedrag per lesuurcursist gegenereerd door cursisten die verminderd   inschrijvingsgeld van 0,60 euro per lesuur betalen, dat 0,15 euro bedraagt in   het schooljaar 2014-2015 en 0,20 euro vanaf het schooljaar   2015-2016.".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 10 Contingent detacheringen
+
+### ART. 25.
+
+In   artikel 77quater, § 2, derde lid, van het decreet van 27 maart 1991 betreffende   de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs,   ingevoegd bij het decreet van 14 februari 2003 en het laatst gewijzigd bij het   decreet van 19 december 2014 houdende bepalingen tot begeleiding van de tweede   aanpassing van de begroting 2014, wordt het getal "43" vervangen door het getal   "42".
+
+### ART. 26.
+
+Artikel   VII.20, 2°, van het decreet van 25 april 2014 betreffende het onderwijs XXIV   wordt opgeheven.
+
+### ART. 27.
+
+&nbsp;In artikel 51quater, § 2, derde lid,   van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige   personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor   leerlingenbegeleiding, ingevoegd bij het decreet van 14 februari 2003 en het   laatst gewijzigd bij het decreet van 25 april 2014, wordt het getal "43"   vervangen door het getal "42".<BR   style="TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 28.
+
+Artikel   VII.31, 2°, van het decreet van 25 april 2014 betreffende het onderwijs XXIV   wordt opgeheven.
 
 ## Afdeling 11 Hoger Onderwijs
 
