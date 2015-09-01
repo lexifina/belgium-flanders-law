@@ -2,16 +2,16 @@
   "codex_id": 1023164,
   "title": "Besluit van de Vlaamse Regering van 2013-07-12 tot tijdelijke erkenning van de professioneel gerichte bacheloropleiding bachelor in het sociaal werk van de XIOS Hogeschool Limburg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023164/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "ba38bd58e5a6e7e0216475bda8e93e8aa252c27b29c285d85471b658e091ea82",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023164/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "db4e1903bb709e1884821411248be622d20ae88785e1747a4671dbbd2932042e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023164&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2015-09-01",
   "made": "2013-07-12",
   "gazette": "2013-08-09",
   "numac": 2013204506,
   "document_start": "2013-09-01",
   "document_end": "2015-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2015-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
