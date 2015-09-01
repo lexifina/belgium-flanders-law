@@ -192,7 +192,7 @@ Als een verrichting op de kortetermijnplanning is opgenomen, voert de   initiati
 
 ### ART. 33.
 
-In afwijking van artikel 27, 28 en 29 spreekt de VMSW zich uit over de   conformiteit van het voorstel van prijsberekening met de prijsnormen waaraan   sociale woningen moesten voldoen voor 1 januari 2013 als op die datum een   aanvraag tot afgifte van deelattest nummer 1 aan de VMSW is   bezorgd.<BR>
+<P>...</P>
 
 ## Afdeling 2 Storting van een bijdrage aan de gemeente ter uitvoering van een last inzake bescheiden woonaanbod
 
