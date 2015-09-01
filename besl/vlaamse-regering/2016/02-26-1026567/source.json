@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026567,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-26 tot wijziging van het besluit van de Vlaamse Regering van 24 oktober 2008 houdende uitvoering van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, wat betreft de brugprojecten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026567/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "aa9eeb93192279718788be7facdbe284f8afe1ebd43cc0fbfe41736360ab248f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026567&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2016-02-26",
+  "gazette": "2016-03-22",
+  "numac": 2016035299,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
