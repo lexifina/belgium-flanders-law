@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025578,
+  "title": "Ministerieel besluit van 2015-07-02 tot wijziging van artikel 5 van het ministerieel besluit van 6 februari 2015 houdende delegatie van sommige bevoegdheden inzake onderwijs aan ambtenaren van het Vlaams Ministerie van Onderwijs en Vorming",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025578/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "f8263cc838ab6b9ae02d0f81f8b5c4a75ea982dffa79bef9a9bd7270871b8006",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025578&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-07-02",
+  "gazette": "2015-07-14",
+  "numac": 2015035883,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
