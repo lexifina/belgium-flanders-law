@@ -2,16 +2,16 @@
   "codex_id": 1024769,
   "title": "Besluit van de Vlaamse Regering van 2014-09-05 tot wijziging van de indeling van studiegebieden in opleidingen van het hoger beroepsonderwijs en van de regelgeving betreffende de studiebekrachtiging, het gecombineerd onderwijs en de modulaire structuur van het hoger beroepsonderwijs en van het secundair volwassenenonderwijs voor de studiegebieden mechanica-elektriciteit, Nederlands tweede taal en personenzorg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024769/VolledigDocument?datum=2014-09-01",
-  "source_sha256": "741a32cffb1ea2c35346afe7ba6fc115bdfc97f2b6daa373e46e062a148ca968",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024769/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "d000170498a19f50b1f9fb8096f558fa9277f15a5aabf0eb1f2da331fef91640",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024769&param=informatie",
-  "as_of": "2014-09-01",
+  "as_of": "2015-09-01",
   "made": "2014-09-05",
   "gazette": "2014-12-05",
   "numac": 2014036816,
   "document_start": "2014-09-01",
   "document_end": null,
-  "in_force": "2014-09-01",
-  "article_versions": 36,
-  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-09-01",
+  "article_versions": 38,
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }

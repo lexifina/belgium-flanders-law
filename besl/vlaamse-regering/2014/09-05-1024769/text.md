@@ -48,6 +48,10 @@ In artikel 1, eerste lid, van het besluit van de Vlaamse Regering van 10   juli 
 
 In artikel 2, tweede lid, van hetzelfde besluit, gewijzigd bij de   besluiten van de Vlaamse Regering van 24 juli 2009, 7 oktober 2011, 27 april   2012, 1 maart 2013 en 6 september 2013, worden de eerste twee zinnen   opgeheven.<BR>
 
+### ART. 10.
+
+Bijlage IV bij hetzelfde besluit wordt opgeheven.<BR>
+
 ### ART. 11.
 
 Bijlage III bij hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 24 juli 2009 en vervangen bij de besluiten van de Vlaamse   Regering van 1 maart 2013 en 6 september 2013, wordt vervangen door bijlage 10   die bij dit besluit is gevoegd.<BR>
@@ -85,6 +89,10 @@ In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006   betr
 ### ART. 19.
 
 Artikel 2 tot en met 4 van hetzelfde besluit worden   opgeheven.<BR>
+
+### ART. 20.
+
+Bijlage I bij hetzelfde besluit wordt opgeheven.<BR>
 
 ## HOOFDSTUK 6 Slotbepalingen
 
