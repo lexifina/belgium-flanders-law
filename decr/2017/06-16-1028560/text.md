@@ -14,6 +14,27 @@
 
 ## HOOFDSTUK 4 Deeltijds kunstonderwijs
 
+### ART IV.1.
+
+In het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen `Muziek', `Woordkunst' en `Dans' wordt een artikel 26quater ingevoegd, dat luidt als volgt :<br>
+"Art. 26quater. § 1. Een instelling kan voor een leerling die beschikt over een verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997 of een verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs of voor een leerling die erkend is als persoon met een handicap krachtens een Vlaamse, een andere Belgische of een buitenlandse wetgeving, na overleg met de leerling of zijn ouders, binnen het gemeenschappelijk curriculum afwijken van de volgende bepalingen :<br>
+1° de bepalingen over lessenroosters, vermeld in artikel 7 tot en met 10;<br>
+2° de bepalingen over groeperingsvoorwaarden, vermeld in artikel 11;<br>
+3° de bepalingen over de evaluatie, de proeven en de bekrachtiging van de studies, vermeld in artikel 29 tot en met 39.<br>
+<br>
+De directeur en leerkrachten motiveren de afwijkingen in functie van de leerwinst met het oog op het behalen van het attest, eindattest of getuigschrift. De inspectie en de verificatie kunnen de motivering op elk moment inkijken in de instelling.<br>
+<br>
+§ 2. De Vlaamse Regering wordt gemachtigd om wijzigingen in dit artikel uit te voeren via een besluit van de Vlaamse Regering.".
+
+### ART IV.2.
+
+Artikel 26quater van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting `Beeldende kunst' wordt opgeheven.
+
+### ART IV.4.
+
+Dit hoofdstuk treedt in werking op 1 september 2015<br>
+Artikel IV.3 treedt in werking op 1 september 2016.
+
 ## HOOFDSTUK 5 Volwassenenonderwijs
 
 ## HOOFDSTUK 6 Hoger onderwijs
