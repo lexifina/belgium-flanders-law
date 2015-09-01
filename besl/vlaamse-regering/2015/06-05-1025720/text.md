@@ -8,6 +8,10 @@
 
 &nbsp;In artikel 2 van het besluit van de Vlaamse Regering van 27 mei 1997   tot bepaling van de ontwikkelingsdoelen en de eindtermen van het gewoon   basisonderwijs wordt het tweede lid opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 2.
+
+&nbsp;In de bijlage bij hetzelfde besluit,   gewijzigd bij de besluiten van 15 juli 1997, 15 december 2006 en 13 februari   2009, worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de "ontwikkelingsdoelen wereldoriëntatie" worden vervangen door de   ontwikkelingsdoelen, opgenomen in bijlage 1, die bij dit besluit is   gevoegd;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de "eindtermen wereldoriëntatie" worden vervangen door de eindtermen, opgenomen   in bijlage 2, die bij dit besluit is gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 3.
 
 Artikel   2 treedt in werking op 1 september 2015.
