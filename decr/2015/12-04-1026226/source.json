@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026226,
+  "title": "Decreet van 2015-12-04 houdende wijziging van artikel 173 van het Kunstendecreet van 13 december 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026226/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "3d149743c49aacb2f2f0f9c25ae5c9671217c6c2d2b16d20fa6d2a478bc602c4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026226&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-12-04",
+  "gazette": "2015-12-21",
+  "numac": 2015036559,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
