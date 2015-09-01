@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029669,
+  "title": "Besluit van de Vlaamse Regering van 2018-07-20 tot wijziging van diverse besluiten van de Vlaamse Regering en tot bepaling van de berekeningswijze van de waarborgregeling ter uitvoering van het decreet van 21 maart 2014 betreffende maatregelen voor leerlingen met specifieke onderwijsbehoeften",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029669/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "b2667df9935d41620d22ee6e8358ce18acdda98bffbb580464354fab3e9007c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029669&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2018-07-20",
+  "gazette": "2018-08-27",
+  "numac": 2018031748,
+  "document_start": "2018-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
