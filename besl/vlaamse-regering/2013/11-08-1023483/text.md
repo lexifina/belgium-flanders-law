@@ -49,7 +49,7 @@ nr. 4681 Vokans - Halle-Vilvoorde.
 
 ### ART. 2.
 
-Dit besluit heeft uitwerking met ingang van 1 september 2013 en houdt op   uitwerking te hebben op 1 september 2015.<BR>
+Dit besluit heeft uitwerking met ingang van 1 september 2013 en houdt op   uitwerking te hebben op 1 september 2016.<BR>
 
 ### ART. 3.
 
