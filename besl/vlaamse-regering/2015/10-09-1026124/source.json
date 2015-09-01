@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026124,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-09 tot wijziging van het Vergunningsbesluit van 22 november 2013, het Subsidiebesluit van 22 november 2013 en het Procedurebesluit van 9 mei 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026124/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "a90a4635a0b2fa6c386c0f954823b9b5a5097bbb138c20eeb5957779162e12e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026124&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-10-09",
+  "gazette": "2015-11-26",
+  "numac": 2015036400,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 66,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
