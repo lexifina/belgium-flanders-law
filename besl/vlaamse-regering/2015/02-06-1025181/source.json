@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025181,
+  "title": "Besluit van de Vlaamse Regering van 2015-02-06 houdende de goedkeuring van programmaties van type 9 in het buitengewoon basisonderwijs en in het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025181/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "a28f4d5b06d869c3ea49a8dc49f29c1e3d5c421664b74dd031a8320585cf30d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025181&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-02-06",
+  "gazette": "2015-04-02",
+  "numac": 2015035317,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
