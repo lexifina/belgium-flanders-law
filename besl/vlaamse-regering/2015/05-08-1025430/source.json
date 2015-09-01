@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025430,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-08 houdende de goedkeuring van programmaties van type 3 in het buitengewoon secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025430/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "6cb288562a1df7dc8bfce96fc2e6a28c9ffa1f76bcf7ea93fa23af0aaae682ad",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025430&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-05-08",
+  "gazette": "2015-06-04",
+  "numac": 2015035672,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
