@@ -12,11 +12,62 @@
 
 ## Afdeling I Codex Secundair Onderwijs
 
+### ART III.3.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 30 van dezelfde codex, gewijzigd bij het decreet van 17 juni 2011, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in paragraaf 1, eerste lid, wordt aan de opsomming in punt 2° een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel, vermeld in § 1, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 1, tweede lid, wordt aan de opsomming een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"- als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 2, eerste lid, wordt aan de opsomming een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel, vermeld in § 1, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° in paragraaf 2, tweede lid, wordt aan de opsomming een punt 3° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"3° als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de scholengemeenschap de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.".</span><br>
+&nbsp;
+
+### ART III.4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 31, § 1, van dezelfde codex worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in het eerste lid wordt aan de opsomming in punt 2°, een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt van het ondersteunend personeel waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in het tweede lid wordt aan de opsomming een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"- als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan de school de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.".</span><br>
+&nbsp;
+
+### ART III.5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 32, § 2, van dezelfde codex wordt aan het tweede lid een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De betrekking is onderhevig aan de regelgeving die van kracht is op het ambt van administratief medewerker in het gewoon secundair onderwijs.".</span><br>
+&nbsp;
+
+### ART III.21.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel 123/20 van dezelfde codex, ingevoegd door het decreet van 19 juni 2015, worden de volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° aan het derde lid wordt de volgende zin toegevoegd :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De aansprakelijkheid van de vader en de moeder in de zin van artikel 1384, tweede lid van het burgerlijk wetboek geldt enkel wanneer de minderjarige leerling-stagiair overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het vierde lid wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De stagegever is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° tussen het vierde en het vijfde lid wordt een nieuw lid ingevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Alle met de bepalingen van dit artikel strijdige bedingen zijn nietig.".</span><br>
+&nbsp;
+
 ## Afdeling II Leren en werken
 
 ## Afdeling III Inwerkingtreding
 
 ## HOOFDSTUK IV Deeltijds kunstonderwijs
+
+### ART IV.3.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 2, § 1, 7°, van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichting "Beeldende Kunst" worden de woorden "of die conform artikel 1, § 4ter, een aangepast curriculum volgt" vervangen door de woorden "of artikel 7, § 4quater, of die conform artikel 7, § 4ter, een individueel aangepast curriculum volgt".</span><br>
+&nbsp;
+
+### ART IV.4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. In artikel 2, § 1, 8°, b), van het besluit van de Vlaamse Regering van 31 juli 1990 houdende organisatie van het deeltijds kunstonderwijs, studierichtingen "Muziek", "Woordkunst" en "Dans" worden de woorden "of die conform artikel 26ter een aangepast curriculum volgt" vervangen door de woorden "of artikel 26quater, of die conform artikel 26ter een individueel aangepast curriculum volgt".</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. In artikel 2, § 1, 11°, van hetzelfde besluit worden aan het vijfde lid van de opsomming de woorden "of artikel 26quater" toegevoegd.</span><br>
+&nbsp;
 
 ## HOOFDSTUK V Volwassenenonderwijs
 
@@ -35,6 +86,14 @@
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 50 van hetzelfde decreet, gewijzigd bij het decreet van 19 juni 2015, wordt vervangen door wat volgt :</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. 50. De middelen, vermeld in artikel 49, kunnen enkel aangewend worden, als het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs enerzijds en de pedagogische begeleidingsdiensten anderzijds driejaarlijks een protocol tot samenwerking over de aanwending van de middelen en de uitvoering van de opdrachten afsluiten en dit protocol meedelen aan de centra en aan de Vlaamse Regering.".</span><br>
+&nbsp;
+
+### ART V.7.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 105, § 5, van hetzelfde decreet, gewijzigd bij de decreten van 4 juli 2008, 1 juli 2011, 29 juni 2012 en 19 juli 2013, wordt het laatste lid vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Als het centrumbestuur na de voormelde verplichting nog punten over heeft, dan kan het die punten aanwenden :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">- voor de oprichting van betrekkingen in de ambten, vermeld in § 3, eerste lid, rekening houdende met de criteria waarover wordt onderhandeld in het lokale comité;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">- voor de tijdelijke verhoging van de puntenwaarde van een betrekking in een ambt, vermeld in paragraaf 3, waarvan de titularis een dienstonderbreking heeft, zodat aan de vervanger een hogere salarisschaal kan worden toegekend. Als een titularis van een betrekking in een ambt van het ondersteunend personeel bij een dienstonderbreking niet of gedeeltelijk wordt vervangen, kan het centrumbestuur ook de puntenwaarde van de niet-ingevulde opdracht van de titularis gebruiken om aan een vervanger in een betrekking in een ambt van het ondersteunend personeel een hogere salarisschaal toe te kennen.".</span><br>
 &nbsp;
 
 ## HOOFDSTUK VI Secundair na secundair onderwijs en het hoger beroepsonderwijs
@@ -101,6 +160,11 @@
 
 ## Afdeling IX Decreet Kwaliteit van onderwijs
 
+### ART X.16.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel 16 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, gewijzigd door de decreten van 9 juli 2010 en 19 juni 2015, wordt een paragraaf 7 toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 7. De pedagogische begeleidingsdienst die op 1 februari 2015 voor het eerst 350 of meer organieke betrekkingen telt in een van de niveaus, vermeld in § 1, zal voor het schooljaar 2015-2016 en voor het schooljaar 2016-2017 niet over een personeelsformatie beschikken.".</span>
+
 ### ART X.18.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 28 van hetzelfde decreet, gewijzigd bij de decreten van 18 december 2009, 21 december 2012 en 19 december 2014, worden de volgende wijzigingen aangebracht :</span><br>
@@ -109,6 +173,11 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° driejaarlijks een beleidsplan wordt opgesteld, waarin de uitvoering van de opdracht, vermeld in paragraaf 1, verduidelijkt wordt en dit beleidsplan toegevoegd wordt aan het begeleidingsplan, vermeld in artikel 15, § 2, eerste lid;</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° jaarlijks een activiteitenverslag en een financieel rapport worden opgesteld en worden toegevoegd aan het activiteitenverslag met inbegrip van een financiële verantwoording, vermeld in artikel 15, § 2, tweede lid.";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 4 wordt opgeheven.</span>
+
+### ART X.21.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 90, § 1, en in artikel 98, § 1, van hetzelfde decreet wordt de zinsnede "artikel 63 tot en met artikel 65." vervangen door de zinsnede "artikel 63 tot en met artikel 65/1.".</span><br>
+&nbsp;
 
 ## Afdeling X Decreet betreffende de integrale jeugdhulp
 
