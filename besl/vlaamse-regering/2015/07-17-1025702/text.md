@@ -198,6 +198,10 @@ Artikel   33/1 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse R
 
 In   artikel 4/1, tweede lid, van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 11 oktober 2013, worden de woorden "en de private actoren   die een sociale last uitvoeren in natura" ingetrokken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 45.
+
+In   artikel 9, § 1, van hetzelfde besluit wordt het derde lid opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 46.
 
 &nbsp;In artikel 17 van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 25 oktober 2013, wordt   paragraaf 4 ingetrokken.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
