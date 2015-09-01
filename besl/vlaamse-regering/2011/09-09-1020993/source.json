@@ -2,16 +2,16 @@
   "codex_id": 1020993,
   "title": "Besluit van de Vlaamse Regering van 2011-09-09 betreffende de loopbaanonderbreking van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020993/VolledigDocument?datum=2015-07-01",
-  "source_sha256": "7bb8c91cda9f573937ea3e9f7c90091e33b1365cc594bfa52af989776520c589",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020993/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "bbe5d68c1e6c7d33e2266ee018d60f5f1f2c6afca6efafa3c23029c23efbef6b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020993&param=informatie",
-  "as_of": "2015-07-01",
+  "as_of": "2015-09-01",
   "made": "2011-09-09",
   "gazette": "2011-12-05",
   "numac": 2011205980,
   "document_start": "2011-09-01",
   "document_end": null,
-  "in_force": "2015-07-01",
+  "in_force": "2015-09-01",
   "article_versions": 49,
-  "record_form": "consolidated version as in force on 2015-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
