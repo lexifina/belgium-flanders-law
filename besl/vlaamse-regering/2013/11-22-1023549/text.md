@@ -86,7 +86,7 @@ De basissubsidie voor groepsopvang bedraagt 578,37 euro per gesubsidieerde   kin
 
 ### ART. 13.
 
-<P>Het bedrag, vermeld in artikel 11 en 12, wordt verhoudingsgewijs verminderd   :<BR>1° voor een gesubsidieerde kinderopvangplaats die geen volledig   kalenderjaar toegekend wordt;<BR>2° als het aantal opgevangen kinderen, in de   kinderopvanglocaties binnen de subsidiegroep die werken volgens de specifieke   dienstverlening van de basissubsidie, in het kalenderjaar lager ligt dan het   aantal gesubsidieerde kinderopvangplaatsen.<BR></P>  <P>De minister bepaalt de nadere regels voor de berekening van die   verhouding.<BR></P>
+<P>Het bedrag, vermeld in artikel 11 en 12, wordt verhoudingsgewijs verminderd   voor een gesubsidieerde kinderopvangplaats die geen volledig kalenderjaar   toegekend wordt.<BR></P>  <P>De minister bepaalt de nadere regels voor de berekening van die   verhouding.<BR></P>
 
 ## HOOFDSTUK 2 Voorwaarden specifieke dienstverlening
 
@@ -100,7 +100,7 @@ De basissubsidie voor groepsopvang bedraagt 578,37 euro per gesubsidieerde   kin
 
 ### ART. 16.
 
-&nbsp;De organisator zorgt voor het gebruik van het Nederlands in de   werking door een taalbeleid te realiseren dat de Nederlandse taalverwerving   stimuleert en dat verantwoordelijken en de kinderbegeleiders ondersteunt, met   daarnaast positieve aandacht voor de taal die het kind in zijn thuismilieu   spreekt.<BR>
+<P>De organisator zorgt ervoor dat er minstens evenveel verschillende kinderen   opgevangen worden op jaarbasis als het aantal gesubsidieerde plaatsen op het   niveau van de subsidiegroep.</P>
 
 ## TITEL 3 Subsidie voor inkomenstarief
 
@@ -108,7 +108,24 @@ De basissubsidie voor groepsopvang bedraagt 578,37 euro per gesubsidieerde   kin
 
 ### ART. 17.
 
-<P>De subsidie voor inkomenstarief voor gezinsopvang is opgebouwd uit :<BR>1°   een deel op basis van kinderopvangprestaties;<BR>2° een deel op basis van de   leeftijd van de verantwoordelijken en van de medewerkers die in de   kinderopvanglocatie instaan voor de systematische ondersteuning van de   verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het   Nederlands en over de kwalificatie waaraan de verantwoordelijke moet   voldoen.<BR></P>  <P>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°,   wordt als volgt berekend :<BR>1° de subsidie bedraagt 21,90 euro voor een   kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag   voor een kinderopvangprestatie die minder dan vijf uur duurt;<BR>2° alle   kinderopvangprestaties, met uitzondering van kinderopvangprestaties 's nachts en   van kinderopvangprestaties voor de kinderen die tot het thuismilieu van de   kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de   verantwoordelijkheid draagt, van elke kinderopvanglocatie gezinsopvang uit de   subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met   36, tellen mee;<BR>3° er worden niet meer kinderopvangprestaties gesubsidieerd   dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met   het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de   berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur   duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren,   voor 60%.<BR></P>  <P>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid,   2°, wordt als volgt berekend :<BR>1° de subsidie bedraagt 431,42 euro per   gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd   van die personen twintig jaar is;<BR>2° voor elk jaar boven op de gemiddelde   leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per   gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van   zestig jaar;<BR>3° de gemiddelde leeftijd wordt berekend op basis van alle   leeftijden en de werkregeling van deze personen.<BR></P>  <P>De minister bepaalt de nadere regels, onder meer op welke wijze de   verantwoordelijken en de medewerkers, vermeld in het eerste lid, 2°, meetellen   voor de berekening van de gemiddelde leeftijd en hoe hun werkregeling in   rekening gebracht wordt.<BR></P>
+<p>De subsidie voor inkomenstarief voor gezinsopvang is opgebouwd uit :<br>
+1° een deel op basis van kinderopvangprestaties;<br>
+2° een deel op basis van de leeftijd van de verantwoordelijken en van de medewerkers die in de kinderopvanglocatie instaan voor de systematische ondersteuning van de verantwoordelijke en die voldoen aan de voorwaarden over de kennis van het Nederlands en over de kwalificatie waaraan de verantwoordelijke moet voldoen.</p>
+
+<p>Het deel op basis van kinderopvangprestaties, vermeld in het eerste lid, 1°, wordt als volgt berekend :<br>
+1° de subsidie bedraagt 21,90 euro voor een kinderopvangprestatie die vijf tot elf uur duurt, en bedraagt 60% van dat bedrag voor een kinderopvangprestatie die minder dan vijf uur duurt;<br>
+2° alle kinderopvangprestaties van elke kinderopvanglocatie gezinsopvang uit de subsidiegroep die voldoet aan de voorwaarden, vermeld in artikel 20 tot en met 36, tellen mee, met uitzondering van de volgende kinderopvangprestaties :<br>
+a) de kinderopvangprestaties 's nachts;<br>
+b) de kinderopvangprestaties voor de kinderen die tot het thuismilieu van de kinderbegeleider gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid draagt;<br>
+c) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met het systeem inkomenstarief te werken als vermeld in artikel 27, tweede lid;<br>
+3° er worden niet meer kinderopvangprestaties gesubsidieerd dan 120% van het aantal gesubsidieerde kinderopvangplaatsen, vermenigvuldigd met het minimum aantal verplichte openingsdagen, vermeld in artikel 14. Voor de berekening van dat percentage tellen kinderopvangprestaties die vijf tot elf uur duren, mee voor 100%, en kinderopvangprestaties die minder dan vijf uur duren, voor 60%.</p>
+
+<p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
+1° de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
+2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
+3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.</p>
+
+<p>De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordelijken en de medewerkers, vermeld in het eerste lid, 2°, meetellen voor de berekening van de gemiddelde leeftijd en hoe hun werkregeling in rekening gebracht wordt.</p>
 
 ### ART. 18.
 
@@ -174,7 +191,7 @@ De organisator met meer dan achttien subsidieerbare plaatsen op het niveau   van
 
 ### ART. 27.
 
-<P>De organisator werkt met het systeem inkomenstarief, vermeld in artikel 28   tot en met 36, voor alle kinderopvangplaatsen van de kinderopvanglocatie,   uitgezonderd voor de kinderen die tot het thuismilieu van de kinderbegeleider   gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid   draagt.</P>
+<P>De organisator werkt met het systeem inkomenstarief, vermeld in artikel 28   tot en met 36, voor alle kinderopvangplaatsen van de kinderopvanglocatie,   uitgezonderd voor de kinderen die tot het thuismilieu van de kinderbegeleider   gezinsopvang behoren, en voor wie de kinderbegeleider de verantwoordelijkheid   draagt.<BR><BR>De organisator kan ervoor kiezen om niet met het systeem   inkomenstarief te werken voor :<BR>1° de kinderen die met de kinderbegeleider   gezinsopvang of met de partner van de kinderbegeleider gezinsopvang verwant zijn   tot en met de vierde graad;<BR>2° de gereserveerde kinderopvangdagen binnen het   recht van het gezin op wennen met toepassing van artikel 29/1.</P>
 
 ## [Onderafdeling 2 Betalen voor gereserveerde kinderopvangdagen (verv. BVR 4 april 2014, art. 22, I: 1 april 2014)]
 
@@ -185,6 +202,10 @@ De organisator met meer dan achttien subsidieerbare plaatsen op het niveau   van
 ### ART. 29.
 
 <P>In afwijking van artikel 28 betaalt de contracthouder niets voor:<BR>1° de   gereserveerde kinderopvangdagen die vallen op sluitingsdagen van de   kinderopvanglocatie;<BR>2° de gerechtvaardigde afwezigheidsdagen.   Gerechtvaardigde afwezigheidsdagen zijn in het opvangplan gereserveerde   kinderopvangdagen boven op de sluitingsdagen, vermeld in punt 1°, waarop de   contracthouder het kind niet naar de kinderopvang laat gaan en waarvan de   organisator er minstens een minimumaantal moet toestaan per kalenderjaar,   ongeacht de reden. De organisator neemt dat aantal op in het huishoudelijk   reglement en in de schriftelijke overeenkomst.<BR><BR>De minister bepaalt het   minimumaantal gerechtvaardigde afwezigheidsdagen per kalenderjaar waarover de   contracthouder beschikt.<BR></P>
+
+### ART. 29/1.
+
+In afwijking van artikel 28 kan de organisator ervoor kiezen dat er niet   betaald hoeft te worden voor de gereserveerde kinderopvangdagen binnen het recht   van de gezinnen op wennen. De organisator vermeldt die afwijking expliciet in   het huishoudelijk reglement en in de schriftelijke overeenkomst.
 
 ### ART. 30.
 
@@ -298,7 +319,7 @@ De organisator zorgt voor minstens 440 uur kinderopvang op flexibele   openingst
 
 ### ART. 40/7.
 
-De subsidie flexibele urenpakketten groepsopvang bedraagt 2660,41 euro per   urenpakket.
+De subsidie flexibele urenpakketten groepsopvang bedraagt 2660,41 euro per   urenpakket.<BR><BR>In afwijking van artikel 17, tweede lid, 2°, tellen alle   kinderopvangprestaties mee, met inbegrip van de kinderopvangprestaties 's   nachts.
 
 ### ART. 40/8.
 

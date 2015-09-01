@@ -2,16 +2,16 @@
   "codex_id": 1023549,
   "title": "Besluit van de Vlaamse Regering van 2013-11-22 houdende de subsidies en de eraan gekoppelde voorwaarden voor de realisatie van specifieke dienstverlening door gezinsopvang en groepsopvang van baby's en peuters (citeeropschrift: \"Subsidiebesluit van 22 november 2013\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023549/VolledigDocument?datum=2015-05-01",
-  "source_sha256": "7729d084b5b0d86cf45d83fa886152baf20846a9fcabb5fb432c6d3a1e77bbc0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023549/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "6f3fc6ee855135f8a983fde29be401a1ee14c5e21d0e5403c50b1ba1b7783237",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023549&param=informatie",
-  "as_of": "2015-05-01",
+  "as_of": "2015-09-01",
   "made": "2013-11-22",
   "gazette": "2014-01-13",
   "numac": 2013036186,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2015-05-01",
-  "article_versions": 94,
-  "record_form": "consolidated version as in force on 2015-05-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-09-01",
+  "article_versions": 95,
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
