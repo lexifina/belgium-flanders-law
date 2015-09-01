@@ -73,7 +73,7 @@ In het gewoon basisonderwijs :<br />1° worden de wervingsambten van administrat
 
 ### BIJLAGE V.
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1.pdf#page=40">Bijlage   V</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1_2.pdf#page=1">Bijlage   V deel 2</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1.pdf#page=40">Bijlage   V</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/06_1_2.pdf#page=1">Bijlage   V deel 2</A></P>  <P>Met ingang van 1 september 2015 wordt de opleiding informatica:   toepassingssoftware verkort ambtshalve geconcordeerd naar de opleiding   informatica: toepassingssoftware.</P>
 
 ## BIJLAGE VI
 
