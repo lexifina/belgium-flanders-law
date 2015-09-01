@@ -54,6 +54,14 @@ Aan artikel 2 van hetzelfde besluit wordt een tweede lid toegevoegd, dat   luidt
 
 Aan hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering   van 24 juli 2009, worden een bijlage II tot en met V toegevoegd, die als bijlage   5 tot en met 8 bij dit besluit zijn gevoegd.<BR>
 
+### ART. 13.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 18 november 2005   betreffende de modulaire structuur van het secundair onderwijs voor sociale   promotie voor het studiegebied Nederlands tweede taal, gewijzigd bij de   besluiten van de Vlaamse Regering van 1 september 2006 en 24 juli 2009, worden   de punten 1° tot en met 4° opgeheven.<BR>
+
+### ART. 14.
+
+Bijlage I tot en met IV bij hetzelfde besluit worden   opgeheven.<BR>
+
 ## HOOFDSTUK 4 Wijziging van de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied personenzorg
 
 ### ART. 15.
@@ -77,6 +85,10 @@ Aan hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering   van 
 ### ART. 19.
 
 In artikel 1 van het besluit van de Vlaamse Regering van 1 september 2006   betreffende de modulaire structuur van het secundair onderwijs voor sociale   promotie voor het studiegebied Mechanica-elektriciteit wordt de zinsnede   "bijlage I tot en met XXXVII" vervangen door de zinsnede "bijlage I tot en met   XXXIV en bijlage XXXVII".<BR>
+
+### ART. 20.
+
+Bijlage XXXV bij hetzelfde besluit wordt opgeheven.<BR>
 
 ## HOOFDSTUK 6 Wijziging van de modulaire structuur van het secundair volwassenenonderwijs voor het studiegebied land- en tuinbouw
 
