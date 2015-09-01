@@ -2,16 +2,16 @@
   "codex_id": 1022787,
   "title": "Besluit van de Vlaamse Regering van 2013-02-08 tot tijdelijke erkenning van de opleiding master in de industriële wetenschappen : bouwkunde van de XIOS Hogeschool Limburg",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022787/VolledigDocument?datum=2013-09-01",
-  "source_sha256": "ffd99010193904b390b20431ae6c123bdf7f076de40973969843c32af89dd8c4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022787/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "85a3b441a92a701e2324ce920c34c1d21495e59f1fd27b665b1ef39d9d6a987f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022787&param=informatie",
-  "as_of": "2013-09-01",
+  "as_of": "2015-09-01",
   "made": "2013-02-08",
   "gazette": "2013-03-13",
   "numac": 2013201366,
   "document_start": "2013-09-01",
   "document_end": "2015-08-31",
-  "in_force": "2013-09-01",
+  "in_force": "2015-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
 }
