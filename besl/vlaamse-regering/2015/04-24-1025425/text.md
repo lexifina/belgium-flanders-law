@@ -44,6 +44,10 @@ In   artikel 11quinquies van hetzelfde besluit, ingevoegd bij het besluit van de
 
 Bijlage   I bij hetzelfde besluit wordt vervangen door bijlage 3, die bij dit besluit is   gevoegd.
 
+### ART. 10.
+
+Bijlage   IV bij hetzelfde besluit wordt opgeheven.
+
 ## Hoofdstuk 3 Wijzigingen van de modulaire structuur van het hoger beroepsonderwijs
 
 ### ART. 11.
