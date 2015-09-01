@@ -1302,7 +1302,9 @@ Voor de toepassing van dit besluit wordt verstaan onder :<br />1° centrum : een
 
 <p>&nbsp;</p>
 
-<p>§ 4. De som van het aantal punten van de betrekkingen die per ambt worden ingericht, bedraagt nooit meer dan het aantal punten dat vereist is voor een betrekking die bestaat uit de som van de uren die in het betrokken ambt worden opgericht.</p>
+<p>§ 4. De som van het aantal punten van de betrekkingen die per ambt worden ingericht, bedraagt nooit meer dan het aantal punten dat vereist is voor een betrekking die bestaat uit de som van de uren die in het betrokken ambt worden opgericht.<br>
+<br>
+&nbsp;§ 5. Als een personeelslid wordt aangesteld in een niet-vacante betrekking in een ambt van het ondersteunend personeel als vervanger van de titularis van deze betrekking, mag de vervanger geen hogere salarisschaal hebben dan de titularis van de betrekking, tenzij de inrichtende macht de puntenwaarde van de betrekking verhoogt.</p>
 
 ### ART. 6.
 
