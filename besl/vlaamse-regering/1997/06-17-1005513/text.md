@@ -22,7 +22,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° cursus: 
 
 ### ART. 4.
 
-§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur belast met een onderwijsopdracht van:<br />- 14 lestijden in scholen met minder dan 20 leerlingen;<br />- 8 lestijden in scholen met 20 tot en met 39 leerlingen;<br /><br />§ 2. Voor de toepassing van § 1 wordt rekening gehouden met de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in aanmerking komen voor de berekening van de lestijden volgens de schalen van het lopende schooljaar.<br /><br />§ 3. Voor de toepassing van § 1, komen de leerlingen van opleidingsvorm 4 van de afdelingen voor buitengewoon secundair onderwijs van het type 5 die verbonden zijn aan een school voor buitengewoon basisonderwijs van het type 5, eveneens in aanmerking.<br /><br />§ 4. In scholen die minimaal tien leerlingen in het geïntegreerd onderwijs begeleiden, komen de leerlingen die op de eerste schooldag van oktober van het voorafgaande schooljaar in het kader van geïntegreerd onderwijs door de school begeleid werden eveneens in aanmerking voor de toepassing van § 1.
+§ 1. Met toepassing van artikel 130 § 2 van het decreet wordt de directeur   belast met een onderwijsopdracht van:<BR>- 14 lestijden in scholen met minder   dan 20 leerlingen;<BR>- 8 lestijden in scholen met 20 tot en met 39   leerlingen;<BR><BR>§ 2. Voor de toepassing van § 1 wordt rekening gehouden met   de leerlingen uit het kleuteronderwijs en uit het lager onderwijs die in   aanmerking komen voor de berekening van de lestijden volgens de schalen van het   lopende schooljaar.<BR><BR>§ 3. ...<BR><BR>§ 4. In scholen die minimaal tien   leerlingen in het geïntegreerd onderwijs begeleiden, komen de leerlingen die op   de eerste schooldag van oktober van het voorafgaande schooljaar in het kader van   geïntegreerd onderwijs door de school begeleid werden eveneens in aanmerking   voor de toepassing van § 1.
 
 ## AFDELING C BIJZONDERE BEPALINGEN INZAKE VRIJWILLIGE FUSIES
 
@@ -56,7 +56,7 @@ Voor de toepassing van artikel 137bis, § 5&nbsp;van het decreet is het   gemidd
 
 ### ART. 11.
 
-§ 1. Het aantal cursussen van de meest gekozen godsdienst, niet-confessionele zedenleer of cultuur-beschouwing wordt berekend door het aantal leerlingen van de meest gekozen godsdienst, niet-confessionele zedenleer of cultuurbeschouwing op de teldag of in de telperiode:<br /><br />- voor de types 1, 8 te delen door 9 voor de eerste 49 leerlingen, en door 10 vanaf de vijftigste leerling;<br /><br />- voor de types 2, 3, 4 en 5 te delen door 6 voor de eerste 34 leerlingen, en door 7 vanaf de vijfendertigste leerling;<br /><br />- voor de types 6 en 7 te delen door 5 voor de eerste 34 leerlingen, en door 6 vanaf de vijfendertigste leerling.<br /><br />§ 2. De aldus verkregen quotiënten worden opgeteld en het resultaat wordt steeds naar beneden afgerond. Het resultaat van deze berekening is het aantal te organiseren cursussen.<br /><br />§ 3. Elke cursus omvat ten minste 2 en ten hoogste 3 lestijden.
+§ 1. Het aantal cursussen van de meest gekozen godsdienst,   niet-confessionele zedenleer of cultuur-beschouwing wordt berekend door het   aantal leerlingen van de meest gekozen godsdienst, niet-confessionele zedenleer   of cultuurbeschouwing op de teldag of in de telperiode:<BR><BR>- voor de types   1, basisaanbod en 8 te delen door 9 voor de eerste 49 leerlingen, en door 10   vanaf de vijftigste leerling;<BR><BR>- voor de types 2, 3, 4, 5 en 9 te delen   door 6 voor de eerste 34 leerlingen, en door 7 vanaf de vijfendertigste   leerling;<BR><BR>- voor de types 6 en 7 te delen door 5 voor de eerste 34   leerlingen, en door 6 vanaf de vijfendertigste leerling.<BR><BR>§ 2. De aldus   verkregen quotiënten worden opgeteld en het resultaat wordt steeds naar beneden   afgerond. Het resultaat van deze berekening is het aantal te organiseren   cursussen.<BR><BR>§ 3. Elke cursus omvat ten minste 2 en ten hoogste 3   lestijden.
 
 ## AFDELING B AANVULLENDE LESTIJDEN
 
@@ -118,7 +118,7 @@ Met toepassing van artikel 138, § 1, 4° van het decreet worden, aanvullend bij
 
 ### ART. 17.
 
-§ 1. Met toepassing van artikel 148 van het decreet worden de uren volgens de richtgetallen bepaald door het aantal regelmatige leerlingen, de leerlingen die vallen onder de toepassing van het koninklijk besluit nr. 184 van 30 december 1982 uitgezonderd, per type te vermenigvuldigen met de volgende richtgetallen:<br /><br />- type 1: 1;<br /><br />- type 2: 3,9;<br /><br />- [type 3: 2,1;  <span class="reference">(verv. B.V.R. 8 november 2002, art. 2, I: 1 september 2002)</span> ]<br /><br />- type 4: 5;<br /><br />- [type 6: 2,1;  <span class="reference">(verv. B.V.R. 8 november 2002, art. 2, I: 1 september 2002)</span> ]<br /><br />- type 7: 2,9;<br /><br />- type 8: 1.<br /><br />§ 2. De som van de producten verkregen op grond van § 1 wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier. [...  <span class="reference">(geschr. B.V.R. 8 november 2002, art. 2, I: 1 september 2002)</span> ]
+§ 1. Met toepassing van artikel 148 van het decreet worden de uren volgens   de richtgetallen bepaald door het aantal regelmatige leerlingen, de leerlingen   die vallen onder de toepassing van het koninklijk besluit nr. 184 van 30   december 1982 uitgezonderd, per type te vermenigvuldigen met de volgende   richtgetallen:<BR>- type 1: 1;<BR>- type basisaanbod : 1<BR>- type 2: 3,9;<BR>-   type 3: 2,1;&nbsp;<BR>- type 4: 5;<BR>- type 6: 2,1;&nbsp;<BR>- type 7:   2,9;<BR>- type 8: 1;<BR>- type 9 : 2,1.<BR><BR>§ 2. De som van de producten   verkregen op grond van § 1 wordt afgerond naar de hogere eenheid als het eerste   cijfer achter de komma groter is dan vier.
 
 ### ART. 18.
 
@@ -150,7 +150,7 @@ Met toepassing van artikel 150, § 2 van het decreet worden uit het urenpakket z
 
 ### ART. 25.
 
-§ 1. Met toepassing van artikel 149 komen de leerlingen die vóór type 5 verbonden aan een preven-torium al ingeschreven waren in een school voor buitengewoon onderwijs van type 1, 2, 3, 4, 6, 7 of 8 in aanmerking voor de berekening van een urenpakket logopedie.<br /><br />§ 2. Het urenpakket wordt bepaald door per type de gemiddelde aanwezigheid van deze leerlingen tijdens de telperiode te berekenen.<br /><br />§ 3. De gemiddelde aanwezigheid wordt vermenigvuldigd met de richtgetallen bepaald in artikel 17, § 1. De som van de producten wordt afgerond naar de hogere eenheid als het eerste cijfer achter de komma groter is dan vier. [...  <span class="reference">(geschr. B.V.R. 8 november 2002, art. 5, I: 1 september 2002)</span> ]
+§ 1. Met toepassing van artikel 149 komen de leerlingen die vóór type 5   verbonden aan een preven-torium al ingeschreven waren in een school voor   buitengewoon onderwijs van type 1, basisaanbod, 2, 3, 4, 6, 7, 8 of 9 in   aanmerking voor de berekening van een urenpakket logopedie.<BR><BR>§ 2. Het   urenpakket wordt bepaald door per type de gemiddelde aanwezigheid van deze   leerlingen tijdens de telperiode te berekenen.<BR><BR>§ 3. De gemiddelde   aanwezigheid wordt vermenigvuldigd met de richtgetallen bepaald in artikel 17, §   1. De som van de producten wordt afgerond naar de hogere eenheid als het eerste   cijfer achter de komma groter is dan vier.
 
 ## [HOOFDSTUK IVBIS BELEIDS- EN ONDERSTEUNEND PERSONEEL (ing. B.V.R. 5 maart 2004, art. 1)]
 
@@ -586,7 +586,7 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-LESTIJDENSCHAAL VOOR HET BUITENGEWOON BASISONDERWIJS : Type&nbsp; 1,&nbsp; 8<br>
+LESTIJDENSCHAAL VOOR HET BUITENGEWOON BASISONDERWIJS : type 1, basisaanbod, 8<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
@@ -1419,7 +1419,7 @@ LESTIJDENSCHAAL VOOR HET BUITENGEWOON BASISONDERWIJS : Type&nbsp; 1,&nbsp; 8<br>
 
 ### BIJLAGE 2
 
-LESTIJDENSCHAAL VOOR HET BUITENGEWOON BASISONDERWIJS : TYPE 2, 3, 4 en 5<br>
+LESTIJDENSCHAAL VOOR HET BUITENGEWOON BASISONDERWIJS : type 2, 3, 4, 5 en 9<br>
 &nbsp;
 <table cellspacing="0" style="border-collapse:collapse">
 	<tbody>
