@@ -28,6 +28,10 @@ In artikel 8 van hetzelfde decreet wordt het tweede lid aangevuld met de   volge
 
 <P>Artikel 16 van hetzelfde decreet, gewijzigd bij het decreet van 7 mei 2004,   wordt vervangen door wat volgt:<BR>"Art. 16. § 1. Naast de toelatingsvoorwaarden   bepaald in de artikelen 12 en 13 is voor de toelating van een leerling tot het   geïntegreerd onderwijs een gemotiveerd verslag van een CLB vereist, waaruit   blijkt:<BR>1° dat, met toepassing van de principes van artikel 8, tweede lid,   het inzetten van de ondersteuning in het kader van het geïntegreerd onderwijs,   in combinatie met compenserende of dispenserende maatregelen, nodig en voldoende   geacht wordt om de leerling het gemeenschappelijk curriculum te laten   volgen;<BR>2° dat de leerling voldoet aan de criteria van een van de punten van   artikel 10, § 1, 1° tot 8°, met uitzondering van 5° ;<BR>3° dat de leerling ten   minste negen maanden voltijds buitengewoon onderwijs in het betreffende type   heeft gevolgd, onmiddellijk voorafgaand aan zijn toelating tot het geïntegreerd   basisonderwijs, indien blijkt dat hij voldoet aan de criteria van artikel 10, §   1, 1°.<BR></P>  <P>De regering bepaalt de inhoud van het gemotiveerd verslag en kan in   uitvoering van artikel 173septies de bepaling van artikel 16, § 1, 3°,   opheffen.<BR></P>  <P>§ 2. In afwijking van paragraaf 1 wordt voor een leerling, die toegelaten   werd tot het geïntegreerd onderwijs op basis van een inschrijvingsverslag voor   het buitengewoon onderwijs, slechts een gemotiveerd verslag opgemaakt bij   wijziging van het onderwijsniveau, van het type, de aard van de integratie, of   de aard en de ernst van de handicap.<BR></P>  <P>§ 3. Om in aanmerking te komen voor aanvullende financiering of subsidiëring   van een leerling in het geïntegreerd onderwijs is nog een integratieplan   vereist.<BR></P>  <P>De regering bepaalt de inhoud van het integratieplan en legt de samenstelling   van het integratieteam, dat het integratieplan zal opstellen, vast.<BR></P>  <P>Een nieuw integratieplan wordt opgesteld bij de wijziging van: de aard van de   integratie, de aard en de ernst van de handicap of het onderwijsniveau, met   inbegrip van het beroepenveld, de studierichting, de afdeling of de opties. Bij   wijziging van het integratieteam kan het bestaande integratieplan bevestigd   worden.<BR></P>  <P>§ 4. Wanneer voor een leerling die beschikt over een verslag als vermeld in   artikel 15 een gemotiveerd verslag wordt opgemaakt, vervalt het verslag als   vermeld in artikel 15.".<BR></P>
 
+### ART. II.6.
+
+&nbsp;In artikel 19 van hetzelfde decreet, gewijzigd bij het decreet van   13 juli 2001 wordt aan § 2, een derde lid toegevoegd, dat luidt als   volgt:<BR>"Een inschrijving in het type basisaanbod is maximaal twee schooljaren   geldig. Aan het einde van deze periode volgt een evaluatie door de klassenraad   en het CLB. Wanneer de klassenraad en het CLB op basis van deze evaluatie   beslissen dat de aanpassingen, waaronder remediërende, differentiërende,   compenserende of dispenserende maatregelen, disproportioneel of onvoldoende   zullen zijn om de leerling het gemeenschappelijk curriculum te laten volgen in   een school voor gewoon onderwijs en een verder verblijf in het basisaanbod nodig   is, bevestigt het CLB dit door de opmaak van een nieuw verslag, als vermeld in   artikel 15, dat de inschrijving verlengt met maximaal twee schooljaren. Ten   laatste na twee schooljaren volgt opnieuw een evaluatie. Wanneer de klassenraad   en het CLB op basis van de evaluatie beslissen dat de aanpassingen, waaronder   remediërende, differentiërende, compenserende of dispenserende maatregelen wel   proportioneel zullen zijn om de leerling het gemeenschappelijk curriculum te   laten volgen in een school voor gewoon onderwijs dan:<BR>1° ondersteunen de   school voor buitengewoon onderwijs en het CLB de ouders bij het vinden van een   school voor gewoon onderwijs waar de leerling kan ingeschreven worden;<BR>2°   maken de betrokken scholen, de CLB's en de ouders afspraken in functie van een   vlotte overgang van de leerling van de school voor buitengewoon onderwijs naar   de school voor gewoon onderwijs.".<BR>
+
 ### ART. II.7.
 
 Artikel 25bis van hetzelfde decreet, ingevoegd bij het decreet van 7 juli   2006, wordt opgeheven.<BR>
@@ -56,6 +60,10 @@ In artikel 37quindecies, § 1, van hetzelfde decreet, ingevoegd bij het   decree
 
 In artikel 37sedecies van hetzelfde decreet, ingevoegd bij het decreet van   25 november 2011, wordt een § 4 toegevoegd, die luidt als volgt:<BR>" § 4.   Onverminderd de toepassing van § 1 tot § 3, kan de CLR het dossier aanhangig   maken bij het orgaan dat in toepassing van artikel 33, § 2, van het VN-verdrag   van 13 december 2006 inzake de Rechten van Personen met een Handicap en in   toepassing van artikel 40 van het decreet van 10 juli 2008 houdende een kader   voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid het mandaat heeft   van onafhankelijk mechanisme.".<BR>
 
+### ART. II.14.
+
+&nbsp;In artikel 85quater van hetzelfde decreet, ingevoegd bij het decreet   van 4 juli 2008, worden in 1° de volgende wijzigingen aangebracht:<BR>1° in de   zesde rij wordt de zinsnede "type 1, 2 en 8" vervangen door de zinsnede "type   basisaanbod en type 2";<BR>2° in de zevende rij van de tabel wordt de zinsnede   "type 3, 4, 6 of 7" vervangen door de zinsnede "type 4, 6 of 7";<BR>3° in de   achtste rij van de tabel wordt de zinsnede "type 3" vervangen door zinsnede   "type 3 of 9".<BR>
+
 ### ART. II.15.
 
 <P>In artikel 101 van hetzelfde decreet worden de volgende wijzigingen   aangbracht:<BR>1° § 1 wordt vervangen door wat volgt:<BR>" § 1. In elke   gefinancierde of gesubsidieerde school voor buitengewoon onderwijs die voldoet   aan de door de regering vastgelegde rationalisatienormen kunnen per 1 september   types van vrije keuze, met uitzondering van type 5, worden gefinancierd of   gesubsidieerd indien het type binnen de provincie niet georganiseerd wordt in   een school van dezelfde groep.";<BR></P>  <P>2° er wordt een § 4 en een § 5 toegevoegd, die luiden als volgt:<BR>" § 4. In   aanvulling op § 1 tot § 3 moet een schoolbestuur dat een nieuw type van vrije   keuze wil oprichten een oprichtingsdossier indienen. Dit oprichtingsdossier moet   ten minste voldoen aan onderstaande kwaliteitsvoorwaarden:<BR>1° het   schoolbestuur is verantwoordelijk voor het indienen van het dossier na overleg   binnen de schoolraad en na overleg of na onderhandeling in het lokaal   comité;<BR>2° de school moet beschikken over de vereiste infrastructurele en   materiële voorzieningen op gebied van toegankelijkheid en hulpmiddelen nodig   voor het nieuwe type;<BR>3° de reeds bestaande expertise of de inspanningen rond   professionalisering van het team met betrekking tot het nieuwe type worden in   het dossier weergegeven.<BR></P>  <P>De regering kan nadere regels bepalen over de inhoud en de vorm van het   oprichtingsdossier en over de wijze waarop de kwaliteitsvoorwaarden worden   beoordeeld.<BR></P>  <P>§ 5. De oprichting vanaf 1 september van een nieuw type van vrije keuze kan   pas na een gunstige beslissing van de regering.<BR></P>  <P>Het schoolbestuur stuurt daartoe uiterlijk op 30 november van het   voorafgaande schooljaar een gemotiveerde aanvraag met het oprichtingsdossier aan   AgODi.<BR></P>  <P>In afwijking van het voorgaande lid, kunnen voor de oprichting vanaf 1   september 2015 van een type 9 van vrije keuze gemotiveerde aanvragen bij AgODi   ingediend worden tot uiterlijk 1 juli 2014.<BR></P>  <P>De regering neemt deze beslissing na advies van AgODi en de   onderwijsinspectie.".<BR></P>
@@ -67,6 +75,10 @@ In artikel 37sedecies van hetzelfde decreet, ingevoegd bij het decreet van   25 
 ### ART. II.17.
 
 In artikel 112bis van hetzelfde decreet, ingevoegd bij het decreet van 8   mei 2009 en laatst gewijzigd bij decreet van 5 juli 2013, worden de woorden "en   2013-2014" vervangen door de woorden ", 2013-2014 en   2014-2015".<BR>
+
+### ART. II.18.
+
+In artikel 139duodecies van hetzelfde decreet, ingevoegd bij het decreet   van 8 mei 2009, wordt in § 1, 1°, de zinsnede "type 1" vervangen door de   zinsnede "type basisaanbod".<BR>
 
 ### ART. II.19.
 
@@ -288,6 +300,10 @@ In artikel 297, § 2, van de Codex Secundair Onderwijs worden de woorden   "de b
 
 Artikel 299, 2°, a) en b), van de Codex Secundair Onderwijs wordt   vervangen door wat volgt:<BR>"a) gedurende de periode van 12 maanden die   voorafgaat aan 1 februari van het jaar waarin het betrokken schooljaar een   aanvang neemt, indien het type gedurende heel deze duur georganiseerd was, of   indien de school valt onder toepassing van artikel 288;<BR>b) in andere   gevallen, gedurende de eerste 30 dagen te rekenen vanaf de openstelling van het   type, of gedurende een periode te bepalen door de Vlaamse   Regering.".<BR>
 
+### ART. III.51.
+
+In artikel 302 van de Codex Secundair Onderwijs worden de volgende   wijzigingen aangebracht:<BR>1° in 1° opleidingsvorm 1 wordt een zesde lid   toegevoegd, dat luidt als volgt: "Type 9: richtgetal 6";<BR>2° in 2°   opleidingsvorm 2 wordt een zesde lid toegevoegd, dat luidt als volgt: "Type 9:   richtgetal 7";<BR>3° in 3° opleidingsvorm 3 wordt in het eerst lid de zinsnede   "Type 1" vervangen door de zinsnede "Type basisaanbod";<BR>4° in 3°   opleidingsvorm 3 wordt een zesde lid toegevoegd, dat luidt als volgt: "Type 9:   richtgetal 7";<BR>5° in 4° opleidingsvorm 4 wordt in het vijfde lid het woord   "4,75." vervangen door het woord "4,75";<BR>6° in 4° opleidingsvorm 4 wordt een   zesde lid toegevoegd, dat luidt als volgt: "Type 9: richtgetal   4,75.".<BR>
+
 ### ART. III.52.
 
 In artikel 304, § 4, van de Codex Secundair Onderwijs, het laatst   gewijzigd bij het decreet van 5 juli 2013, wordt in het eerste lid de zinsnede   "voor het schooljaar 2013- 2014" vervangen door de zinsnede "voor het schooljaar   2014-2015".<BR>
@@ -295,6 +311,10 @@ In artikel 304, § 4, van de Codex Secundair Onderwijs, het laatst   gewijzigd b
 ### ART. III.53.
 
 In artikel 309, § 3, van de Codex Secundair Onderwijs worden de woorden   "de bepalingen van het koninklijk besluit van 28 juni 1978 houdende de   omschrijving van de types en de organisatie van het buitengewoon onderwijs en   vaststellende de toelatings- en behoudsvoorwaarden in de diverse niveaus van het   buitengewoon onderwijs" vervangen door de woorden "de artikelen 291 tot en met   295".<BR>
+
+### ART. III.54.
+
+&nbsp;In artikel 311 van de Codex Secundair Onderwijs worden in paragraaf   2 de volgende wijzigingen aangebracht:<BR>1° in het eerste streepje wordt de   zinsnede "type 1" vervangen door de zinsnede "type basisaanbod";<BR>2° in het   zesde streepje wordt de aanduiding "1,6." vervangen door de aanduiding "1,6"; 3°   er wordt een zevende streepje toegevoegd, dat luidt als volgt: "- type 9:   1,3.".<BR>
 
 ### ART. III.55.
 
@@ -307,6 +327,14 @@ In deel V, titel 2, hoofdstuk 3, van de Codex Secundair Onderwijs wordt   een on
 ### ART. III.57.
 
 <P>In de Codex Secundair Onderwijs wordt in onderafdeling 3/2, ingevoegd bij   artikel III.56, een artikel 314/5 ingevoegd dat luidt als volgt:<BR>"Art. 314/5.   § 1. Bij het realiseren van een relatieve minderkost in het buitengewoon   secundair onderwijs ten opzichte van het referentieschooljaar 2014-2015, worden   per schooljaar de vrijgekomen middelen, via enveloppefinanciering, ingezet voor   de ondersteuning van leerlingen met specifieke onderwijsbehoeften in het gewoon   of buitengewoon secundair onderwijs.<BR></P>  <P>§ 2. De Vlaamse Regering bepaalt de procedure voor de berekening van de   enveloppe en houdt voor de verdeling van de enveloppe over het gewoon en   buitengewoon secundair onderwijs en over de scholen minstens rekening met de   volgende principes:<BR>1° de vastgestelde verschuivingen van leerlingen van het   buitengewoon naar het gewoon secundair onderwijs als gevolg van effectieve   terugkeer uit of verminderde instroom in het buitengewoon secundair onderwijs   voor de verdeling van de enveloppe over het gewoon en buitengewoon secundair   onderwijs. De regering houdt hierbij ook rekening met de demografie;<BR>2° de   relatieve aanwezigheid van leerlingen met een verslag als vermeld in artikel 352   of 294 voor de verdeling van de enveloppe over de scholen voor gewoon secundair   onderwijs;<BR>3° de vastgestelde verschuivingen in de leerlingenpopulaties van   de opleidingsvormen en types voor de verdeling van de enveloppe over de scholen   voor buitengewoon secundair onderwijs.<BR></P>  <P>§ 3. De Vlaamse Regering bepaalt tevens de wijze waarop en de ambten waarin   de middelen uit de enveloppe kunnen worden ingezet voor uitbreiding van zorg in   de scholen voor gewoon secundair onderwijs of voor versterking van het onderwijs   en de zorg in scholen voor buitengewoon secundair onderwijs en voor welke   leerlingen deze middelen kunnen worden aangewend.".<BR></P>
+
+### ART. III.58.
+
+&nbsp;In artikel 318 van de Codex Secundair Onderwijs wordt in paragraaf   1, 1°, de zinsnede "type 1" vervangen door de zinsnede "type   basisaanbod".<BR>
+
+### ART. III.59.
+
+&nbsp;In artikel 326 van de Codex Secundair Onderwijs worden in 1° de   volgende wijzigingen aangebracht:<BR>1° in de vierde rij van de tabel wordt de   zinsnede "type 1" vervangen door de zinsnede "type basisaanbod";<BR>2° in de   vijfde rij van de tabel wordt de zinsnede "type 3, 4, 6 of 7" vervangen door de   zinsnede "type 4, 6 of 7";<BR>3° in de zesde rij van de tabel wordt de zinsnede   "type 3" vervangen door de zinsnede "type 3 of 9".<BR>
 
 ### ART. III.60.
 
@@ -430,6 +458,10 @@ Dit hoofdstuk treedt in werking op 1 september 2013.<BR>
 
 ## Afdeling 1 Koninklijk besluit tot vaststelling van de wijze waarop voor de Rijksinstituten voor buitengewoon onderwijs en de tehuizen van het Rijk de ambten worden bepaald van het paramedisch personeel en van het personeel toegekend in het kader van het internaat
 
+### ART. VII.1.
+
+In artikel 7 van het koninklijk besluit nr. 184 van 30 december 1982 tot   vaststelling van de wijze waarop voor de Rijksinstituten voor buitengewoon   onderwijs en de tehuizen van het Rijk de ambten worden bepaald van het   paramedisch personeel en van het personeel toegekend in het kader van het   internaat, gewijzigd bij het besluit van de Vlaamse Regering van 8 november   2002, worden de volgende wijzigingen aangebracht:<BR>1° in de tweede rij van de   tabel wordt de zinsnede "1." vervangen door "basisaanbod.";<BR>2° de vijftiende   rij van de tabel wordt vervangen door wat volgt:<BR>"9. basisonderwijs:   8,1";<BR>3° er wordt een zestiende rij in de tabel toegevoegd, die luidt als   volgt: "secundair onderwijs: 6,3".<BR>
+
 ### ART. VII.2.
 
 &nbsp;In artikel 9 van hetzelfde koninklijk besluit worden de paragrafen   4, 5 en 6 opgeheven.<BR>
@@ -451,6 +483,14 @@ De leerlingen met een inschrijvingsverslag voor type 1 of 8, of   opleidingsvorm
 ### ART. VII.5.
 
 &nbsp;Het koninklijk besluit van 27 juli 1971 houdende   organisatiemodaliteiten van de begeleiding der leerlingen die instellingen of   afdelingen voor buitengewoon onderwijs volgen, wordt   opgeheven.<BR>
+
+### ART. VII.6.
+
+Het koninklijk besluit van 28 juni 1978 houdende de omschrijving van de   types en de organisatie van het buitengewoon onderwijs en vaststellende de   toelatings- en behoudsvoorwaarden in de diverse niveaus van het buitengewoon   onderwijs, wordt opgeheven.<BR>
+
+### ART. VII.7.
+
+Het ministerieel besluit van 19 september 1978 tot omschrijving van de   inhoud en de bestemmelingen van het inschrijvingsverslag voorzien bij artikel   294 van de Codex Secundair Onderwijs, wordt opgeheven.<BR>
 
 ### ART. VII.8.
 
