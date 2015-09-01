@@ -67,11 +67,11 @@ Het aanbod van de optie Onthaal en recreatie is aan de volgende beperking onderw
 
 ### ART. 7bis.
 
-Een aanvraag van een school- of centrumbestuur tot ingebruikname van een   nieuwe vestigingsplaats door een school voor voltijds gewoon of buitengewoon   secundair onderwijs of door een centrum voor deeltijds beroepssecundair   onderwijs is alleen ontvankelijk als aan alle volgende voorwaarden is   voldaan:<BR>1° bij de aanvraag is een situatieschets of plattegrond gevoegd   waaruit duidelijk blijkt over welke locatie het gaat;<BR>2° bij de aanvraag is   een volledig ingevulde vragenlijst met bijlagen opgenomen, waarvan het model is   opgenomen in bijlage III, die bij dit besluit is gevoegd.<BR><BR>De bepaling   vermeld onder punt 2° is niet van toepassing in het geval van nieuwbouw die bij   indiening van de aanvraag nog niet voltooid is. Onder nieuwbouw wordt verstaan   zowel de oprichting van een nieuw gebouw als de uitbreiding van een bestaand   gebouw, steeds met het doel hierin onderwijs te organiseren.<BR>
+<P>...</P>
 
 ### ART. 7ter.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is ertoe gemachtigd om te   beslissen over de goedkeuring van de aanvragen tot ingebruikname van nieuwe   vestigingsplaatsen, vermeld in artikel 14, § 4, derde lid, en 15, § 4, derde   lid, van de Codex Secundair Onderwijs van 17 december 2010, en artikel 10, § 4,   derde lid, en 11, § 4, derde lid, van het decreet van 10 juli 2008 betreffende   het stelsel van leren en werken in de Vlaamse Gemeenschap.
+<P>...</P>
 
 ### ART. 8.
 
