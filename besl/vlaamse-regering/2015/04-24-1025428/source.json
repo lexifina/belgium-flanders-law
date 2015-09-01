@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025428,
+  "title": "Besluit van de Vlaamse Regering van 2015-04-24 tot wijziging van het besluit van de Vlaamse Regering van 16 september 1997 betreffende de controle op de inschrijvingen van leerlingen in het secundair onderwijs of in het stelsel van leren en werken en van het besluit van de Vlaamse Regering van 12 november 1997 betreffende de controle op de inschrijvingen van leerlingen in het basisonderwijs, wat de van rechtswege gewettigde afwezigheden betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025428/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "a0770924532724156b35941c7a4ceea88706c56462f56454cda8abf5fc5bbefc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025428&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-04-24",
+  "gazette": "2015-06-04",
+  "numac": 2015035676,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
