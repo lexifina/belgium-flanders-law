@@ -34,7 +34,7 @@ Een personeelslid dat in het schooljaar 2007-2008 als ervaringsdeskundige aanges
 
 ### ART. 6bis.
 
-In bijlage I wordt met code d.d. bedoeld :<br />1 : met ingang van 1 september 2000;<br />2 : met ingang van 1 september 2002;<br />3 : met ingang van 1 september 2006;<br />4 : met ingang van 1 september 2007;<br />5 : met ingang van 1 september 2000 tot en met 31 augustus 2007;<br />6 : met ingang van 1 september 2002 tot en met 31 augustus 2007;<br />7 : met ingang van 1 september 2006 tot en met 31 augustus 2007;<br />8 : met ingang van 1 september 2002, met de beperking evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus 2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende machten met betrekking tot bezoldiging en terbeschikkingstelling wegens ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<br />9 : met ingang van 1 september 2008;<br />10 : met ingang van 1 september 2006 tot en met 31 augustus 2008;<br />11: met ingang van 1 september 2010;<br />12 : met ingang van 1 september 2000 tot en met 31 augustus 2011;<br />13 : met ingang van 1 september 2007 tot en met 31 augustus 2011;<br />14 : met ingang van 1 september 2011.
+In bijlage I wordt met code d.d. bedoeld :<BR>1 : met ingang van 1   september 2000;<BR>2 : met ingang van 1 september 2002;<BR>3 : met ingang van 1   september 2006;<BR>4 : met ingang van 1 september 2007;<BR>5 : met ingang van 1   september 2000 tot en met 31 augustus 2007;<BR>6 : met ingang van 1 september   2002 tot en met 31 augustus 2007;<BR>7 : met ingang van 1 september 2006 tot en   met 31 augustus 2007;<BR>8 : met ingang van 1 september 2002, met de beperking   evenwel dat hieruit voor de periode van 1 september 2002 tot en met 31 augustus   2007 geen gevolgen kunnen voortvloeien voor de personeelsleden en de inrichtende   machten met betrekking tot bezoldiging en terbeschikkingstelling wegens   ontstentenis van betrekking, reaffectatie en wedertewerkstelling;<BR>9 : met   ingang van 1 september 2008;<BR>10 : met ingang van 1 september 2006 tot en met   31 augustus 2008;<BR>11: met ingang van 1 september 2010;<BR>12 : met ingang van   1 september 2000 tot en met 31 augustus 2011;<BR>13 : met ingang van 1 september   2007 tot en met 31 augustus 2011;<BR>14 : met ingang van 1 september   2011;<BR>15: met ingang van 1 september 2000 tot en met 31 december 2012;<BR>16:   met ingang van 1 januari 2013;<BR>17: met ingang van 1 september 2007 tot en met   31 augustus 2013;<BR>18: met ingang van 1 september 2013;<BR>19: met ingang van   1 september 2015.
 
 ### ART. 7.
 
@@ -50,7 +50,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=55">1.   Afkortingen</A></P>
+<P><A href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=104">1.   Afkortingen</A></P>
 
 ## 2. Overzicht
 
@@ -60,7 +60,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=56">2.1.   Directeur</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=105">2.1.   Directeur</A></P>
 
 ## [2.2. Coordinator (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -68,7 +68,7 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=67">2.9.   Medewerker</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=117">2.9.   Medewerker</A></P>
 
 ## [Technisch personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -76,49 +76,49 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=57">2.2.   Arts</A></P>
+<p><a href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=106">2.2. Arts</a></p>
 
 ## 3.2. Consulent
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=58">2.3.   Consulent</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=108">2.3.   Consulent</A></P>
 
 ## 3.3. Psychopedagogisch consulent
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=59">2.4.   Psychopedagogisch consulent</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=109">2.4.   Psychopedagogisch consulent</A></P>
 
 ## 3.4. Maatschappelijk werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=60">2.5.   Maatschappelijk werker</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=110">2.5.   Maatschappelijk werker</A></P>
 
 ## 3.5. Psychopedagogisch werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=61">2.6.   Psychopedagogisch werker</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=111">2.6.   Psychopedagogisch werker</A></P>
 
 ## 3.6. Paramedisch werker
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=63">2.7.   Paramedisch werker</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=113">2.7.   Paramedisch werker</A></P>
 
 ## 3.7. Intercultureel bemiddelaar
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=68">2.10.   Intercultureel bemiddelaar</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=119">2.10.   Intercultureel bemiddelaar</A></P>
 
 ## 3.8. Ervaringsdeskundige
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=69">2.11.   Ervaringsdeskundige</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=121">2.11.   Ervaringsdeskundige</A></P>
 
 ## [Ondersteunend personeel (ing. BVR 15 juni 2018, art. 7, I: 1 september 2018)]
 
@@ -126,4 +126,4 @@ De Vlaamse minister, bevoegd voor het Gezondheidsbeleid, en de Vlaamse minister,
 
 ### Tekst
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2013/04/19_3.pdf#page=65">2.8.   Administratief werker</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/07/23_1.pdf#page=115">2.8.   Administratief werker</A></P>
