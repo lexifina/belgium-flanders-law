@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026909,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-04 tot vaststelling van de lijst van de bachelor- en masteropleidingen en afstudeerrichtingen binnen een masteropleiding met een bijkomende titel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026909/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "1a05ee367a39b5d90908291347ee70c645a128e3775732d6c3bc1b653696964f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026909&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2016-05-04",
+  "gazette": "2016-06-21",
+  "numac": 2016035914,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
