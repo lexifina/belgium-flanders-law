@@ -114,7 +114,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -125,8 +125,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -144,12 +142,8 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>5</p>
 
 			<p>5</p>
-
-			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>6</p>
-
 			<p>6</p>
 
 			<p>6</p>
@@ -212,7 +206,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Eerste bestaansjaar</p>
 
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -223,8 +217,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -243,8 +235,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>18</p>
 
-			<p>30</p>
-
 			<p>21</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
@@ -262,8 +252,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>14</p>
 
-			<p>23</p>
-
 			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -281,8 +269,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>24</p>
 
-			<p>40</p>
-
 			<p>28</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -299,8 +285,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>18</p>
-
-			<p>30</p>
 
 			<p>21</p>
 			</td>
@@ -309,7 +293,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Tweede bestaansjaar</p>
 
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -320,8 +304,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -342,8 +324,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>20</p>
 
-			<p>34</p>
-
 			<p>24</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
@@ -363,8 +343,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>14</p>
 
-			<p>23</p>
-
 			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -384,8 +362,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>27</p>
 
-			<p>45</p>
-
 			<p>32</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -405,8 +381,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>18</p>
 
-			<p>30</p>
-
 			<p>21</p>
 			</td>
 		</tr>
@@ -414,7 +388,7 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
 			<p>Derde bestaansjaar</p>
 
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -425,8 +399,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -445,8 +417,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>23</p>
 
-			<p>37</p>
-
 			<p>26</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
@@ -464,8 +434,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>14</p>
 
-			<p>23</p>
-
 			<p>16</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -483,8 +451,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 
 			<p>30</p>
 
-			<p>50</p>
-
 			<p>35</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
@@ -501,8 +467,6 @@ Dit besluit is van toepassing op het buitengewoon basisonderwijs gefinancierd of
 			<p>18</p>
 
 			<p>18</p>
-
-			<p>30</p>
 
 			<p>21</p>
 			</td>
@@ -534,7 +498,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -545,8 +509,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -564,12 +526,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>5</p>
-
-			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>6</p>
-
 			<p>6</p>
 
 			<p>6</p>
@@ -705,7 +663,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -719,8 +677,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 7</p>
 
-			<p>Type 8<br>
-			Type 9</p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>15</p>
@@ -736,8 +693,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>9</p>
 
 			<p>9</p>
-
-			<p>15</p>
 
 			<p>11</p>
 			</td>
@@ -755,8 +710,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>12</p>
 
 			<p>12</p>
-
-			<p>20</p>
 
 			<p>14</p>
 			</td>
@@ -768,7 +721,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -782,8 +735,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>Type 7</p>
 
-			<p>Type 8<br>
-			Type 9</p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>8</p>
@@ -799,8 +751,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>5</p>
-
-			<p>8</p>
 
 			<p>5</p>
 			</td>
@@ -818,8 +768,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>6</p>
 
 			<p>6</p>
-
-			<p>10</p>
 
 			<p>7</p>
 			</td>
@@ -872,7 +820,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -883,8 +831,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -902,12 +848,8 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>5</p>
 
 			<p>5</p>
-
-			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
-			<p>6</p>
-
 			<p>6</p>
 
 			<p>6</p>
@@ -930,7 +872,7 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -941,8 +883,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>Type 6</p>
 
 			<p>Type 7</p>
-
-			<p>Type 8</p>
 
 			<p>Type 9</p>
 			</td>
@@ -959,8 +899,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 
 			<p>8</p>
 
-			<p>&nbsp;</p>
-
 			<p>5</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
@@ -975,8 +913,6 @@ In het tweede en derde bestaansjaar moet daarenboven per type de programmatienor
 			<p>6</p>
 
 			<p>10</p>
-
-			<p>&nbsp;</p>
 
 			<p>7</p>
 			</td>
@@ -1008,7 +944,7 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 		</tr>
 		<tr>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.5pt">
-			<p>Type 1</p>
+			<p>Type basisaanbod</p>
 
 			<p>Type 2</p>
 
@@ -1020,8 +956,7 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 
 			<p>Type 7</p>
 
-			<p>Type 8<br>
-			Type 9</p>
+			<p>Type 9</p>
 			</td>
 			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:153.55pt">
 			<p>10</p>
@@ -1035,8 +970,6 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 			<p>6</p>
 
 			<p>6</p>
-
-			<p>10</p>
 
 			<p>7</p>
 			</td>
@@ -1052,8 +985,6 @@ Met toepassing van de artikelen 116 en 121 van het decreet kan een gefinancierde
 			<p>8</p>
 
 			<p>8</p>
-
-			<p>13</p>
 
 			<p>9</p>
 			</td>
@@ -1089,7 +1020,7 @@ Binnen een termijn van drie maanden na de betekening van de in artikel 15 bedoel
 
 ### ART. 18.
 
-...
+<P>In scholen van buitengewoon basisonderwijs die, in toepassing van artikel   111, § 5 van het decreet, het type basisaanbod aanbieden vanaf 1 september 2015,   worden voor het bereiken van de normen voor het type basisaanbod de leerlingen   met een attest type 1 of type 8 bij de leerlingen van het type basisaanbod   geteld.</P>
 
 ## HOOFDSTUK 7 OPHEFFINGSBEPALINGEN
 
