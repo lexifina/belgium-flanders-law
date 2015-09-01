@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025657,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-26 tot wijziging van de regelgeving betreffende de bekwaamheidsbewijzen van de personeelsleden van de onderwijsinstellingen voor deeltijds kunstonderwijs en van de centra voor leerlingenbegeleiding",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025657/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "ee830c982e931cc24a6574987df3641f06b14b83c44e9f257b2135c48727fcc5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025657&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-23",
+  "numac": 2015035886,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
