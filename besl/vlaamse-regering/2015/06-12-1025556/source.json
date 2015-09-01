@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025556,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-12 tot wijziging van artikel 4 en 5 en de bijlagen van het besluit van de Vlaamse Regering van 24 november 1998 betreffende de regels voor het uitreiken van het getuigschrift van basisonderwijs en het vastleggen van de vorm ervan",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025556/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "a4a0ac26957d791e28e1325a81865e8bab11682d25f84666ea70c94b347a0032",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025556&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-06-12",
+  "gazette": "2015-07-06",
+  "numac": 2015035838,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
