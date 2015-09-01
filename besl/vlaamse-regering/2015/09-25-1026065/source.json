@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026065,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-25 tot wijziging van de personeelsregelgeving en de regelgeving betreffende de studiebekrachtiging, de organisatie van het opleidingsaanbod en de modulaire structuur van het hoger beroepsonderwijs en het secundair volwassenenonderwijs voor het studiegebied personenzorg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026065/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "2885f4d4ba7eef471725c4023daf8e937591fa207ae5dd2fe3a59a4c6930c864",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026065&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-09-25",
+  "gazette": "2015-11-05",
+  "numac": 2015036291,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 27,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
