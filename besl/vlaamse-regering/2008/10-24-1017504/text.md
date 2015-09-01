@@ -34,7 +34,7 @@ De lijst van de centra voor deeltijds beroepssecundair onderwijs die bij de inwe
 
 ### ART. 6.
 
-De lijst van opleidingen van het deeltijds beroepssecundair onderwijs   respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen   : <BR>1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is   gevoegd;<BR>2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit   besluit is gevoegd;<BR>3° voor het schooljaar 2010-2011 : in bijlage III/2, die   bij dit besluit is gevoegd;<BR>4° voor het schooljaar 2011-2012 : in bijlage   III/3, die bij dit besluit is gevoegd;<BR>5° voor het schooljaar 2012-2013 : in   bijlage III/4, die bij dit besluit is gevoegd. <BR>6° voor het schooljaar   2013-2014 : idem schooljaar 2012-2013, evenwel aangevuld met volgende   opleidingen voor de leertijd : <BR>a) rubriek land- en tuinbouw : <BR>1°   hovenier;<BR>2° hovenier-aanleg;<BR>3° hovenier-onderhoud;<BR>b) rubriek   personenzorg : <BR>1° logistiek assistent in de ziekenhuizen;<BR>2° logistiek   helper in de zorginstellingen;<BR>3° verzorgende;<BR>4°   verzorgende/zorgkundige;<BR>5° begeleider in de kinderopvang;<BR>c) rubriek   schoonheidszorg : <BR>1° assistent kapper;<BR>2° kapper;<BR>d) rubriek sport en   vrije tijd : <BR>1° sportbegeleider;<BR>2° animator in de   evenementensector.<BR><BR>Als de lijst, vermeld in het eerste lid, een indeling   in rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld   in artikel 23, § 1, van het decreet, mogelijk te maken.
+De lijst van opleidingen van het deeltijds beroepssecundair onderwijs   respectievelijk de leertijd, vermeld in artikel 22 van het decreet, is opgenomen   : <BR>1°voor het schooljaar 2008-2009 : in bijlage III, die bij dit besluit is   gevoegd;<BR><BR>2° voor het schooljaar 2009-2010 : in bijlage III/1, die bij dit   besluit is gevoegd;<BR><BR>3° voor het schooljaar 2010-2011 : in bijlage III/2,   die bij dit besluit is gevoegd;<BR><BR>4° voor het schooljaar 2011-2012 : in   bijlage III/3, die bij dit besluit is gevoegd;<BR><BR>5° voor het schooljaar   2012-2013 : in bijlage III/4, die bij dit besluit is gevoegd. <BR><BR>6° voor   het schooljaar 2013-2014 : idem schooljaar 2012-2013, evenwel aangevuld met   volgende opleidingen voor de leertijd : <BR>a) rubriek land- en tuinbouw :   <BR>1° hovenier;<BR>2° hovenier-aanleg;<BR>3° hovenier-onderhoud;<BR>b) rubriek   personenzorg : <BR>1° logistiek assistent in de ziekenhuizen;<BR>2° logistiek   helper in de zorginstellingen;<BR>3° verzorgende;<BR>4°   verzorgende/zorgkundige;<BR>5° begeleider in de kinderopvang;<BR>c) rubriek   schoonheidszorg : <BR>1° assistent kapper;<BR>2° kapper;<BR>d) rubriek sport en   vrije tijd : <BR>1° sportbegeleider;<BR>2° animator in de   evenementensector.<BR><BR>7° voor het schooljaar 2014-2015 : idem schooljaar   2013-2014;<BR><BR>8° voor het schooljaar 2015-2016 : idem schooljaar 2014-2015,   maar :<BR>a)met aanvulling van de volgende opleidingen voor het deeltijds   beroepssecundair onderwijs die modulair georganiseerd zijn op basis van een   beroepskwalificatie :<BR>1) Behandelaar luchtvracht en bagage;<BR>2)   Kapper;<BR>3) Kapper-salonverantwoordelijke;<BR>b) met aanvulling van de   volgende opleidingen voor de leertijd die georganiseerd zijn op basis van een   beroepskwalificatie :<BR>1) Behandelaar luchtvracht en bagage;<BR>2)   Kapper;<BR>3) Kapper-salonverantwoordelijke;<BR>c) met opheffing van alle   opleidingen van de rubriek schoonheidszorg voor het deeltijds beroepssecundair   onderwijs;<BR>d) met opheffing van de volgende opleidingen van de rubriek   schoonheidszorg voor de leertijd :<BR>1) Assistent-kapper;<BR>2)   Kapper.<BR><BR>Als de lijst, vermeld in het eerste lid, een indeling in   rubrieken bevat, strekt die indeling er alleen toe om de screening, vermeld in   artikel 23, § 1, van het decreet, mogelijk te maken.
 
 ### ART. 7.
 
@@ -46,7 +46,34 @@ Een voorstel kan alleen worden goedgekeurd als voor de opleiding een beroepskwal
 
 ### ART. 8.
 
-<P>§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt   ingevoerd : <BR>1° per 1 september 2009 : voor de opleidingen die behoren tot de   rubrieken bouw, decoratie, hout;<BR>2° per 1 september 2010 : voor de   opleidingen die behoren tot de rubrieken handel en administratie,   voeding-horeca;<BR>3° per 1 september 2011 : alleszins voor de opleidingen die   behoren tot de rubrieken distributie, elektriciteit-elektronica;<BR>4° per 1   september 2012 : alleszins voor de opleidingen die behoren tot de rubriek metaal   en kunststoffen, transport;<BR>5° ...;<BR>6° per 1 september 2014 : in elk geval   voor de opleidingen waarvoor een beroepskwalificatie bestaat en die behoren tot   een nog niet omgeschakelde rubriek.</P>  <P><BR>Met het oog op die invoering vindt een screening plaats van de bestaande   opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van   alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1,   van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit   is gevoegd.<BR><BR>§ 2. In bijlage V tot en met V/4, die bij dit besluit zijn   gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde   opleidingsaanbod van het deeltijds beroepssecundair onderwijs de volgende   elementen bepaald : <BR>1° de overeenstemmende referentiekaders, geput uit de   bijlage IV, die bij dit besluit is gevoegd;<BR>2° de opleidingenstructuur,   vermeld in artikel 28, § 1, van het decreet;<BR>3° de doelen voor de   beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel   30, § 1, van het decreet.<BR><BR>§ 3. In bijlage VI, die bij dit besluit is   gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde   opleidingsaanbod van de leertijd de volgende elementen bepaald : <BR>1° de   overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit   is gevoegd;<BR>2° de doelen voor de beroepsgerichte vorming, afgeleid van de   referentiekaders, vermeld in artikel 32, § 1, van het decreet.   </P>
+<p>§ 1. Het geactualiseerde opleidingsaanbod, vermeld in artikel 23, § 1, wordt ingevoerd :<br>
+1° per 1 september 2009 : voor de opleidingen die behoren tot de rubrieken bouw, decoratie, hout;<br>
+2° per 1 september 2010 : voor de opleidingen die behoren tot de rubrieken handel en administratie, voeding-horeca;<br>
+3° per 1 september 2011 : alleszins voor de opleidingen die behoren tot de rubrieken distributie, elektriciteit-elektronica;<br>
+4° per 1 september 2012 : alleszins voor de opleidingen die behoren tot de rubriek metaal en kunststoffen, transport;<br>
+5° ...;<br>
+6°&nbsp;vanaf 1 september 2014 : in elk geval voor de opleidingen waarvoor een beroepskwalificatie bestaat en die behoren tot een nog niet omgeschakelde rubriek.</p>
+
+<p><br>
+Met het oog op die invoering vindt een screening plaats van de bestaande opleidingen, als vermeld in artikel 23, § 1, van het decreet, op basis van alleszins de referentiekaders, vermeld in artikel 30, § 1, en artikel 32, § 1, van het decreet, die volledig zijn opgenomen in bijlage IV, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. In bijlage V tot en met V/4, die bij dit besluit zijn gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs die niet gebaseerd is op een beroepskwalificatie de volgende elementen bepaald :<br>
+1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br>
+2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
+3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
+<br>
+§ 3. In bijlage VI, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd&nbsp;die niet gebaseerd is op een beroepskwalificatie de volgende elementen bepaald :<br>
+1° de overeenstemmende referentiekaders, geput uit de bijlage IV, die bij dit besluit is gevoegd;<br>
+2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.<br>
+<br>
+§ 4. In bijlage V/7, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van het deeltijds beroepssecundair onderwijs die gebaseerd is op een beroepskwalificatie, de volgende elementen bepaald :<br>
+1° de overeenstemmende referentiekaders, geput uit bijlage IV, die bij dit besluit is gevoegd;<br>
+2° de opleidingenstructuur, vermeld in artikel 28, § 1, van het decreet;<br>
+3° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 30, § 1, van het decreet.<br>
+<br>
+§ 5. In bijlage VI/1, die bij dit besluit is gevoegd, worden voor elke afzonderlijke opleiding van het geactualiseerde opleidingsaanbod van de leertijd die gebaseerd is op een beroepskwalificatie, de volgende elementen bepaald :<br>
+1° de overeenstemmende referentiekaders, geput uit bijlage IV, die bij dit besluit is gevoegd;<br>
+2° de doelen voor de beroepsgerichte vorming, afgeleid van de referentiekaders, vermeld in artikel 32, § 1, van het decreet.</p>
 
 ### ART. 8bis.
 
@@ -83,6 +110,14 @@ Ter uitvoering van artikel 58, derde lid, en artikel 59, tweede lid, van het dec
 
 Het model en de invulonderrichtingen, vermeld in artikel 74 van het decreet, van de volgende studiebewijzen van het deeltijds beroepssecundair onderwijs, zijn opgenomen in bijlage VII tot en met XIII, die bij dit besluit zijn gevoegd :<br />1° attest van verworven competenties;<br />2° deelcertificaat;<br />3° certificaat;<br />4° getuigschrift van de tweede graad van het secundair onderwijs;<br />5° studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs;<br />6° diploma van secundair onderwijs;<br />7° getuigschrift over de basiskennis van het bedrijfsbeheer.
 
+### ART. 12bis.
+
+Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   certificaat als bewijs van beroepskwalificatie. Op het model van het certificaat   dat wordt uitgereikt na voltooiing van de opleidingen die gebaseerd zijn op een   beroepskwalificatie, wordt vermeld dat het een bewijs van beroepskwalificatie   betreft en welk niveau dat bewijs heeft binnen de Vlaamse kwalificatiestructuur   en het Europese kwalificatiekader.
+
+### ART. 12ter.
+
+De volgende certificaten gelden als een bewijs van beroepskwalificatie   :<BR>1° van niveau 2 : Behandelaar luchtvracht en bagage;<BR>2° van niveau 3 :   Kapper;<BR>3° van niveau 4 : Kapper-salonverantwoordelijke.
+
 ## HOOFDSTUK X. Studiebekrachtiging leertijd
 
 ### ART. 13.
@@ -107,6 +142,14 @@ Het model en de invulonderrichtingen, vermeld in artikel 84 van het decreet, van
 5° diploma van secundair onderwijs;<br>
 6° getuigschrift over de basiskennis van het bedrijfsbeheer.
 
+### ART. 16bis.
+
+Voor opleidingen die gebaseerd zijn op een beroepskwalificatie, geldt het   certificaat als bewijs van beroepskwalificatie. Op het model van het certificaat   dat wordt uitgereikt na voltooiing van de opleidingen die gebaseerd zijn op een   beroepskwalificatie, wordt vermeld dat het een bewijs van beroepskwalificatie   betreft en welk niveau dat bewijs heeft binnen de Vlaamse kwalificatiestructuur   en het Europese kwalificatiekader.
+
+### ART. 16ter.
+
+De volgende certificaten gelden als een bewijs van beroepskwalificatie   :<BR>1° van niveau 2 : Behandelaar luchtvracht en bagage;<BR>2° van niveau 3 :   Kapper;<BR>3° van niveau 4 : Kapper-salonverantwoordelijke.
+
 ## HOOFDSTUK XI. Financiering en subsidiëring deeltijds beroepssecundair onderwijs
 
 ### ART. 17.
@@ -130,6 +173,18 @@ De aanvullende werkingsmiddelen toegekend aan Syntra Vlaanderen, vermeld in arti
 Het subsidiebedrag per deelnemersuur dat een centrum voor deeltijdse vorming organiseert, vermeld in artikel 95, § 4, van het decreet, wordt vastgesteld op 12,50 euro. Vanaf het schooljaar 2010-2011 wordt dat bedrag, binnen de perken van de beschikbare begrotingskredieten, geïndexeerd aan de hand van de volgende formule : 1° 85% van het bedrag volgt de evolutie van de gezondheidsindex, zoals vermeld in de begrotingsinstructies; 2° 15% van het bedrag volgt 75% van de evolutie van de gezondheidsindex.
 
 ## HOOFDSTUK XIIIbis. [... (opgeh. BVR 16 juli 2021, art. 43, I: 1 september 2021)]
+
+### ART. 20bis.
+
+De volgende organisaties met rechtspersoonlijkheid komen in aanmerking als   organisator van een brugproject, als ze bereid zijn om netoverschrijdend en   structureel volledig onafhankelijk te werken van de centra voor deeltijds   beroepssecundair onderwijs : een vzw, OCMW, een gemeente, een maatwerkbedrijf   zoals bedoeld in artikel 3, 5°, van het decreet van 12 juli 2013 `betreffende   maatwerk bij collectieve inschakeling', of lokale diensteneconomieonderneming   zoals bedoeld in artikel 3, 5°, van het decreet van het decreet van 22 november   2013 `betreffende de lokale diensteneconomie'.<BR><BR>Voor de toepassing van dit   besluit wordt met maatwerkbedrijf, vermeld in het eerste lid, gelijkgesteld   :<BR>1° de beschutte werkplaats : de beschutte werkplaats, erkend overeenkomstig   artikel 79 van het decreet van 23 december 2005 houdende bepalingen tot   begeleiding van de begroting 2006;<BR>2° de sociale werkplaats : de sociale   werkplaats erkend overeenkomstig het decreet van 14 juli 1998 inzake sociale   werkplaatsen.
+
+### ART. 20ter.
+
+Voor een brugproject wordt een opleidingsovereenkomst gesloten tussen de   organisator, het centrum voor deeltijds beroepssecundair onderwijs en de   jongere.<BR><BR>Het model van de overeenkomst wordt vastgelegd door de bevoegde   dienst van het Vlaams Ministerie van Onderwijs en Vorming.<BR><BR>Als een   organisator voor een brugproject een beroep doet op een derde partij om in een   werkplaats te voorzien, wordt vooraf een samenwerkingsovereenkomst gesloten   waarin de wederzijdse verplichtingen, de opvolging en de evaluatie van het   brugproject worden vastgelegd.
+
+### ART. 20quater.
+
+Aan de organisator wordt een vergoeding toegekend van 4.5 euro per   effectief gepresteerd begeleidingsuur.<BR><BR>De organisator betaalt de jongere   een forfaitaire vergoeding van 1 euro per effectief gepresteerd uur, uitsluitend   bedoeld voor het dekken van verplaatsings- en telefoonkosten.
 
 ## HOOFDSTUK XIV. Wijzigingsbepalingen
 
@@ -1313,7 +1368,7 @@ Visbereider
 
 ### BIJLAGE IV
 
-<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=18" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> </P>
+<P> <a href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1.pdf#page=18" title=" Bijlage   3" target="_blank" class="pdf">Bijlage   3</a> </P>  <P>&nbsp;</P>  <P>* Bij BVR van 10 juli 2015, B.S. 12/8/2015 worden in bijlage IV de volgende   wijzigingen aangebracht:<BR>"1° rubriek b) wordt vervangen door wat volgt   :<BR>"b) Met betrekking tot opleidingen die gebaseerd zijn op een   beroepskwalificatie :<BR>1° besluit van de Vlaamse Regering van 31 januari 2014   tot erkenning van de beroepskwalificatie kapper;<BR>2° besluit van de Vlaamse   Regering van 31 januari 2014 tot erkenning van de beroepskwalificatie   kapper-salonverantwoordelijke;<BR>3° besluit van de Vlaamse Regering van 13   maart 2015 tot erkenning van de beroepskwalificatie behandelaar luchtvracht en   bagage.";<BR>2° rubriek c) tot en met f) worden opgeheven".</P>
 
 ### BIJLAGE V
 
@@ -1367,6 +1422,10 @@ Visbereider
 <br>
 <a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_11.pdf#page=1" target="_blank" title=" vervolg   bijlage 11">vervolg bijlage V/7</a>
 
+### BIJLAGE V/7
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2015/08/12_1.pdf#page=37">Bijlage V/7</a>
+
 ### BIJLAGE VI
 
 <p><a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_11.pdf#page=80" target="_blank" title=" Bijlage   12">Bijlage 12</a><br>
@@ -1382,9 +1441,13 @@ Visbereider
 <a class="pdf" href="http://www.ejustice.just.fgov.be/mopdf/2012/11/23_1_16.pdf#page=1" target="_blank" title=" vervolg   bijlage 12">vervolg bijlage 12</a><br>
 Voor de opleidingen in de leertijd, limitatief vermeld in artikel 6, eerste lid, 6°, a) tot en met d) gelden als referentiekader en afgeleide doelen voor de beroepsgerichte vorming, de door de Vlaamse Regering, na advies van de Vlaamse Onderwijsraad, goedgekeurde opleidingskaarten voor de gelijknamige opleidingen van het deeltijds beroepssecundair onderwijs.</p>
 
+### BIJLAGE VI/1
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2015/08/12_1.pdf#page=86">Bijlage VI/1</a>
+
 ### BIJLAGE VII
 
-Attest van verworven competenties (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=23">Bijlage   VII</A>
+Attest van verworven competenties (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=23">Bijlage   VII</A><BR><BR>* Bij BVR van 10 juli 2015, B.S. 12 augustus 2015, wordt bijlage   VII met ingang van 1 september 2015 als volgt gewijzigd:<BR>"aan de rubriek   "Aandacht"&nbsp; wordt de volgende bepaling toegevoegd :<BR>"als het certificaat   wordt uitgereikt in een opleiding die gebaseerd is op een beroepskwalificatie,   wordt onder het opschrift "Certificaat" de volgende bepaling toegevoegd en   wordt, naargelang van het geval, 2, 3 dan wel 4 als niveau vermeld :<BR>Bewijs   van beroepskwalificatie niveau ... van de Vlaamse kwalificatiestructuur en   niveau ... van het Europese kwalificatiekader" "<BR><BR>* Bij BVR van 10 juli   2015, B.S. 28 augustus 2015, wordt aan bijlage VII een rubriek toegevoegd die   luidt als volgt:<BR>"Aandacht: als het certificaat wordt uitgereikt in de   opleiding Zorgkundige, dan wordt de zin "Hij/zij bevestigt dat al de wettelijke,   decretale en reglementaire voorschriften werden nageleefd" vervangen door de zin   "Hij/zij bevestigt dat al de wettelijke, decretale en reglementaire   voorschriften werden nageleefd met inbegrip van het KB nr. 78 van 10 november   1967 betreffende de uitoefening van de gezondheidszorgberoepen.".
 
 ### BIJLAGE VIII
 
@@ -1404,11 +1467,11 @@ Studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair
 
 ### BIJLAGE XII
 
-Diploma van secundair onderwijs (derde graad) (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=33">Bijlage   XII</A>
+Diploma van secundair onderwijs (derde graad) (deeltijds beroepssecundair   onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=33">Bijlage   XII</A><BR><BR>*Bij BVR van 10 juli 2015, B.S. 12 augustus 2015, wordt   bijlage&nbsp;XII met ingang van 1 september 2015 als volgt gewijzigd:<BR>"aan de   rubriek "Aandacht"&nbsp; wordt de volgende bepaling toegevoegd :<BR>"als het   certificaat wordt uitgereikt in een opleiding die gebaseerd is op een   beroepskwalificatie, wordt onder het opschrift "Certificaat" de volgende   bepaling toegevoegd en wordt, naargelang van het geval, 2, 3 dan wel 4 als   niveau vermeld :<BR>Bewijs van beroepskwalificatie niveau ... van de Vlaamse   kwalificatiestructuur en niveau ... van het Europese kwalificatiekader"   "<BR><BR>*Bij BVR van 10 juli 2015, B.S. 28 augustus 2015, wordt aan bijlage XII   met ingang van 1 september volgende rubriek toegevoegd:<BR>"Aandacht: als het   certificaat wordt uitgereikt in de opleiding Zorgkundige dan wordt de zin "Zij   bevestigen dat al de wettelijke, decretale en reglementaire voorschriften werden   nageleefd" vervangen door de zin "Zij bevestigen dat al de wettelijke, decretale   en reglementaire voorschriften werden nageleefd met inbegrip van het KB nr. 78   van 10 november 1967 betreffende de uitoefening van de   gezondheidszorgberoepen.".
 
 ### BIJLAGE XIII
 
-Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssecundair onderwijs)<BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=35">Bijlage   XIII</A>
+Getuigschrift over de basiskennis van het bedrijfsbeheer (deeltijds   beroepssecundair onderwijs)<BR><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2009/01/23_2.pdf#page=35">Bijlage   XIII</A><BR><BR>*Bij BVR van 10 juli 2015, B.S. 28 augustus 2015, wordt aan   bijlage XIII met ingang van 1 september volgende rubriek   toegevoegd:<BR>"Aandacht: als het&nbsp;getuigschrift leertijd&nbsp;wordt   uitgereikt in de opleiding Zorgkundige dan wordt de zin "Zij bevestigen dat al   de wettelijke, decretale en reglementaire voorschriften werden nageleefd"   vervangen door de zin "Zij bevestigen dat al de wettelijke, decretale en   reglementaire voorschriften werden nageleefd met inbegrip van het KB nr. 78 van   10 november 1967 betreffende de uitoefening van de   gezondheidszorgberoepen.".
 
 ### BIJLAGE XIV
 
