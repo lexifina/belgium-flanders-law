@@ -58,6 +58,14 @@ Aan artikel 16, § 1, van het koninklijk besluit van 15 april 1958 houdende   be
 
 ## HOOFDSTUK 5 Wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 17 juni 1997 betreffende programmatie-, rationalisatie- en behoudsnormen in het buitengewoon basisonderwijs
 
+### ART. 12.
+
+In het besluit van de Vlaamse Regering van 17 juni 1997 betreffende   programmatie-, rationalisatie- en behoudsnormen in het buitengewoon   basisonderwijs worden de woorden "type 1" telkens vervangen door de woorden   "type basisaanbod" en worden telkens de woorden "type 8" en de bijhorende normen   opgeheven.<BR>
+
+### ART. 13.
+
+Artikel 18 van hetzelfde besluit, opgeheven door het besluit van de   Vlaamse Regering van 5 september 2008, wordt opnieuw opgenomen in de volgende   lezing:<BR>"Art. 18. In scholen van buitengewoon basisonderwijs die, in   toepassing van artikel 111, § 5 van het decreet, het type basisaanbod aanbieden   vanaf 1 september 2015, worden voor het bereiken van de normen voor het type   basisaanbod de leerlingen met een attest type 1 of type 8 bij de leerlingen van   het type basisaanbod geteld."<BR>
+
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART. 14.
