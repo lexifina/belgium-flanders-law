@@ -196,7 +196,7 @@ Het gerichte consult, vermeld in artikel 33, § 1, 3°, omvat de anamnese, de in
 
 ### ART. 37.
 
-Het centrum biedt aan leerlingen uit het buitengewoon onderwijs een bijzonder consult aan voor ze starten in het buitengewoon onderwijs of onmiddellijk daarna, en vervolgens om de twee jaar.<br /><br />Het bijzondere consult omvat minstens dezelfde aandachtsgebieden als die welke vastgelegd zijn voor het algemene consult, vermeld in artikel 29 tot en met 32.<br /><br />Om de frequentie te bepalen van de tweejaarlijkse bijzondere consulten, vermeld in het eerste lid, worden de algemene consulten beschouwd als bijzondere consulten.<br /><br />Bijzondere consulten worden bij voorkeur in de school uitgevoerd.
+<P>...</P>
 
 ## Afdeling V Andere opdrachten
 
