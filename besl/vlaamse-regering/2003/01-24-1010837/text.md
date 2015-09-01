@@ -50,7 +50,7 @@ De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in de m
 
 ### ART. 11.
 
-§ 1. De ambten die de leden van het paramedisch en sociaal personeel kunnen uitoefenen in de opvangcentra, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) ergotherapeut;<br /><br />b) kinderverzorger;<br /><br />c) kinesitherapeut;<br /><br />d) logopedist;<br /><br />e) verpleger;<br /><br />f) maatschappelijk werker in een opvangcentrum;<br /><br />2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten:<br /><br />nihil.<br /><br />§ 2. De ambten die de leden van het psychologisch en medisch personeel kunnen uitoefenen in de opvangcentra, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) orthopedagoog in een opvangcentrum;<br /><br />2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten:<br /><br />nihil.<br /><br />§ 3. De ambten die de leden van het opvoedend hulppersoneel kunnen uitoefenen in de opvangcentra, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) studiemeester-opvoeder internaat;<br /><br />2° selectieambten:<br /><br />nihil;<br /><br />3° bevorderingsambten:<br /><br />a) hoofdopvoeder in een opvangcentrum.<br /><br />§ 4. De ambten die de leden van het administratief personeel kunnen uitoefenen in de opvangcentra, worden als volgt vastgesteld en ingedeeld:<br /><br />1° wervingsambten:<br /><br />a) rekenplichtig correspondent;<br /><br />b) opsteller;<br /><br />2° selectieambten:<br /><br />a) eerstaanwezend rekenplichtig correspondent;<br /><br />3° bevorderingsambten:<br /><br />nihil.
+<P>...</P>
 
 ## HOOFDSTUK III AMBTEN IN HET BUITENGEWOON SECUNDAIR ONDERWIJS
 
