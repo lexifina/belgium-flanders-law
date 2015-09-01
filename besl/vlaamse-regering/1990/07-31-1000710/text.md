@@ -8,7 +8,49 @@ Dit besluit is toepasselijk op de instellingen voor deeltijds kunstonderwijs, in
 
 ### ART. 2.
 
-<P>§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<BR>1°   kunstonderwijs: onderwijs in de muziek, in de woord- en in de danskunst;<BR>2°   hoofdinstelling: de vestigingsplaats van een instelling die als administratieve   zetel door de inrichtende macht is aangeduid;<BR>3° filiaal: een   vestigingsplaats van een onderwijsinstelling, gevestigd op het grondgebied van   een andere gemeente;<BR>4° graad: een geheel van leerjaren, tijdens dewelke een   bepaald opleidingsniveau dient bereikt en dat wordt afgesloten met een   getuigschrift of een eindattest; <BR>5° studierichting: het geheel van opties   betreffende één van de expressievormen "Dans", "Muziek" of "Woordkunst";<BR>6°   optie: een samenhangend geheel van vakken dat tot doel heeft een specifieke   opleiding te verschaffen;<BR>7° sectie: het geheel van leerjaren van een   studierichting, enkel toegankelijk voor jongeren of voor volwassen   leerlingen;<BR>8° regelmatige leerling : de leerling die :<BR>a) voldoet aan de   toelatingsvoorwaarden vermeld in artikel 14 tot en met 25 en artikel 27, 27bis   en 28, of die conform artikel 26ter een individueel aangepast curriculum   volgt;<BR>b) een geheel van vakken van een bepaald leerjaar volgt of daarvan   afwijkt met toepassing van artikel 26 of artikel 26bis, of die conform artikel   26ter een individueel aangepast curriculum volgt; <BR>9° jongere: de leerling   die op 31 december van het schooljaar waarvoor hij inschrijft, jonger is dan 15   jaar of die een schooljaar voordien als dusdanig werd ingeschreven en sedertdien   zijn studies niet onderbrak;<BR>10° volwassene: de leerling die niet voldoet aan   de definitie van "jongere" zoals vermeld in 9°;<BR>11° financierbare leerling :   de leerling die voldoet aan de volgende voorwaarden :<BR>- regelmatige leerling   zijn in een optie of in een tijdelijk project, dat goedgekeurd is door de   Vlaamse Regering, en decretaal bekrachtigd;<BR>- het vereiste inschrijvingsgeld   hebben betaald voor de gevolgde studierichting;<BR>- ten hoogste in één leerjaar   in dezelfde optie van dezelfde graad van dezelfde studierichting hebben   overgezeten;<BR>- op 1 februari ten minste twee derde van de lessen hebben   bijgewoond van het leerjaar waarvoor hij zich in dat schooljaar heeft   ingeschreven; gewettigde afwezigheid wordt hierbij beschouwd als de lessen   hebben bijgewoond;<BR>- overeenkomstig de bepalingen van dit besluit   ingeschreven zijn in de hogere graad of hierna vermelde vakken volgen behoudens   toepassing van artikel 26ter:<BR>In de studierichting muziek :<BR>lagere graad :   algemene muzikale vorming<BR>middelbare graad : algemene muziekcultuur of   muziekcultuur/volksmuziek, behoudens vrijstelling verleend met toepassing van   artikel 26 of 26bis<BR>in de studierichting woordkunst :<BR>lagere graad :   algemene verbale vorming<BR>middelbare graad : als jongere : voordracht, als   volwassene : verbale vorming<BR>in de studierichting dans :<BR>lagere graad :   dansinitiatie of algemene artistieke bewegingsleer<BR>middelbare graad :   artistieke training;<BR>in een tijdelijk project :<BR>de vakken van het   tijdelijk project.<BR>12° vestigingsplaats : een gebouw of gebouwencomplex   waarin een instelling of een gedeelte van een instelling gehuisvest is en waar   leerlingen les volgen;<BR>13° redelijke aanpassingen : maatregelen die genomen   zijn op basis van de principes en indicatoren vermeld in artikel 2 van het   Protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in   België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie   en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum   voor gelijkheid van kansen en voor racismebestrijding.<BR><BR>§ 2. Voor de   toepassing van dit besluit wordt de hoofdinstelling met haar filialen als een   pedagogische en administratieve eenheid beschouwd.<BR><BR>§ 3. De inrichtende   macht legt voor elk van haar academies een schoolreglement vast dat de   betrekkingen tussen de inrichtende macht en de ouders/leerlingen regelt. Dat   schoolreglement wordt bij een eerste inschrijving en bij elke wijziging aan de   ouders/leerling meegedeeld.<BR><BR>§ 4. Voor iedere leerling wordt een   individuele fiche opgemaakt waarop tenminste de volgende gegevens worden   vermeld:<BR>1° naam, voornaam en adres;<BR>2° geboortedatum;<BR>3° reeds   gevolgde studies in een instelling voor deeltijds kunstonderwijs en   resultaten;<BR>4° huidige studies in het deeltijds kunstonderwijs;<BR>5°   rijksregisternummer. </P>
+<p>§ 1. Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° kunstonderwijs: onderwijs in de muziek, in de woord- en in de danskunst;<br>
+2° hoofdinstelling: de vestigingsplaats van een instelling die als administratieve zetel door de inrichtende macht is aangeduid;<br>
+3° filiaal: een vestigingsplaats van een onderwijsinstelling, gevestigd op het grondgebied van een andere gemeente;<br>
+4° graad: een geheel van leerjaren, tijdens dewelke een bepaald opleidingsniveau dient bereikt en dat wordt afgesloten met een getuigschrift of een eindattest;<br>
+5° studierichting: het geheel van opties betreffende één van de expressievormen "Dans", "Muziek" of "Woordkunst";<br>
+6° optie: een samenhangend geheel van vakken dat tot doel heeft een specifieke opleiding te verschaffen;<br>
+7° sectie: het geheel van leerjaren van een studierichting, enkel toegankelijk voor jongeren of voor volwassen leerlingen;<br>
+8° regelmatige leerling : de leerling die :<br>
+a) voldoet aan de toelatingsvoorwaarden vermeld in artikel 14 tot en met 25 en artikel 27, 27bis en 28, of die conform artikel 26ter een individueel aangepast curriculum volgt;<br>
+b) een geheel van vakken van een bepaald leerjaar volgt of daarvan afwijkt met toepassing van artikel 26 of artikel 26bis, of artikel 26quater, of die conform artikel 26ter een individueel aangepast curriculum volgt;<br>
+9° jongere: de leerling die op 31 december van het schooljaar waarvoor hij inschrijft, jonger is dan 15 jaar of die een schooljaar voordien als dusdanig werd ingeschreven en sedertdien zijn studies niet onderbrak;<br>
+10° volwassene: de leerling die niet voldoet aan de definitie van "jongere" zoals vermeld in 9°;<br>
+11° financierbare leerling : de leerling die voldoet aan de volgende voorwaarden :<br>
+- regelmatige leerling zijn in een optie of in een tijdelijk project, dat goedgekeurd is door de Vlaamse Regering, en decretaal bekrachtigd;<br>
+- het vereiste inschrijvingsgeld hebben betaald voor de gevolgde studierichting;<br>
+- ten hoogste in één leerjaar in dezelfde optie van dezelfde graad van dezelfde studierichting hebben overgezeten;<br>
+- op 1 februari ten minste twee derde van de lessen hebben bijgewoond van het leerjaar waarvoor hij zich in dat schooljaar heeft ingeschreven; gewettigde afwezigheid wordt hierbij beschouwd als de lessen hebben bijgewoond;<br>
+- overeenkomstig de bepalingen van dit besluit ingeschreven zijn in de hogere graad of hierna vermelde vakken volgen behoudens toepassing van artikel 26ter of artikel 26quater:<br>
+In de studierichting muziek :<br>
+lagere graad : algemene muzikale vorming<br>
+middelbare graad : algemene muziekcultuur of muziekcultuur/volksmuziek, behoudens vrijstelling verleend met toepassing van artikel 26 of 26bis<br>
+in de studierichting woordkunst :<br>
+lagere graad : algemene verbale vorming<br>
+middelbare graad : als jongere : voordracht, als volwassene : verbale vorming<br>
+in de studierichting dans :<br>
+lagere graad : dansinitiatie of algemene artistieke bewegingsleer<br>
+middelbare graad : artistieke training;<br>
+in een tijdelijk project :<br>
+de vakken van het tijdelijk project.<br>
+12° vestigingsplaats : een gebouw of gebouwencomplex waarin een instelling of een gedeelte van een instelling gehuisvest is en waar leerlingen les volgen;<br>
+13° redelijke aanpassingen : maatregelen die genomen zijn op basis van de principes en indicatoren vermeld in artikel 2 van het Protocol van 19 juli 2007 betreffende het begrip redelijke aanpassingen in België krachtens de wet van 25 februari 2003 ter bestrijding van discriminatie en tot wijziging van de wet van 15 februari 1993 tot oprichting van een Centrum voor gelijkheid van kansen en voor racismebestrijding.<br>
+<br>
+§ 2. Voor de toepassing van dit besluit wordt de hoofdinstelling met haar filialen als een pedagogische en administratieve eenheid beschouwd.<br>
+<br>
+§ 3. De inrichtende macht legt voor elk van haar academies een schoolreglement vast dat de betrekkingen tussen de inrichtende macht en de ouders/leerlingen regelt. Dat schoolreglement wordt bij een eerste inschrijving en bij elke wijziging aan de ouders/leerling meegedeeld.<br>
+<br>
+§ 4. Voor iedere leerling wordt een individuele fiche opgemaakt waarop tenminste de volgende gegevens worden vermeld:<br>
+1° naam, voornaam en adres;<br>
+2° geboortedatum;<br>
+3° reeds gevolgde studies in een instelling voor deeltijds kunstonderwijs en resultaten;<br>
+4° huidige studies in het deeltijds kunstonderwijs;<br>
+5° rijksregisternummer.</p>
 
 ## HOOFDSTUK II STRUCTUUR
 
@@ -125,6 +167,17 @@ Een leerling heeft recht op een vrijstelling voor het vak algemene   muzikale vo
 ### ART. 26ter.
 
 Een instelling kan voor een leerling die beschikt over een verslag als   vermeld in artikel 15 van het decreet basisonderwijs van 25 februari 1997 of een   verslag als vermeld in artikel 294 van de Codex Secundair Onderwijs van 17   december 2010, of voor een leerling die ingeschreven is in het Vlaams Agentschap   voor Personen met een Handicap een individueel aangepast curriculum ontwikkelen   als de directeur en betrokken leerkrachten na overleg met de leerling en zijn   ouders motiveren dat de leerling ondanks redelijke aanpassingen onvoldoende   leerwinst kan boeken in het gemeenschappelijke curriculum.<BR><BR>Voor een   leerling met een individueel aangepast curriculum kan de instelling afwijken van   een of meer van de volgende bepalingen :<BR>1° de bepalingen over lessenroosters   vermeld in artikelen 7 tot en met 10;<BR>2° de bepalingen over   groeperingsvoorwaarden, vermeld in artikel 11;<BR>3° de bepaling over   minimumleerplannen, vermeld in artikel 12;<BR>4° de bepalingen over toelatings-   en overgangsvereisten, vermeld in artikel 14 tot en met 23, op voorwaarde dat   een leerling die de studierichting muziek of woordkunst volgt, minstens acht   jaar is of minstens drie volledige schooljaren ingeschreven is in het lager   onderwijs en dat een leerling die de studierichting dans volgt minstens zes jaar   is of minstens één volledig schooljaar ingeschreven is in het lager   onderwijs;<BR>5° de bepalingen over evaluatie en proeven en bekrachtiging van de   studiën, vermeld in artikel 29 tot en met 39.<BR><BR>De instelling ontwikkelt   het individueel aangepast curriculum in samenspraak met de leerling of zijn   ouders, bewaakt de ontwikkelingsgerichtheid en neemt de nodige pedagogische,   didactische en organisatorische maatregelen. De instelling kan een beroep doen   op externe deskundigen of op de pedagogische begeleidingsdienst.<BR><BR>Een   individueel aangepast curriculum duurt maximaal één leerjaar langer dan de   desbetreffende graad waarin de leerling is ingeschreven. De leerling kan niet   overzitten. Bij het beëindigen van de graad reikt de instelling aan de leerling   een leerbewijs uit. Een leerbewijs geeft aan dat de leerling een opleiding   gevolgd heeft en dat er door middel van een evaluatie werd nagegaan welke van de   vooraf bepaalde doelen verworven zijn.<BR><BR>De inspectie en de verificatie   kunnen het individueel aangepast curriculum op elk moment inkijken in de   instelling.
+
+### ART 26quater.
+
+§ 1. Een instelling kan voor een leerling die beschikt over een verslag als vermeld in artikel 16 van het decreet basisonderwijs van 25 februari 1997 of een verslag als vermeld in artikel 352 van de Codex Secundair Onderwijs of voor een leerling die erkend is als persoon met een handicap krachtens een Vlaamse, een andere Belgische of een buitenlandse wetgeving, na overleg met de leerling of zijn ouders, binnen het gemeenschappelijk curriculum afwijken van de volgende bepalingen :<br>
+1° de bepalingen over lessenroosters, vermeld in artikel 7 tot en met 10;<br>
+2° de bepalingen over groeperingsvoorwaarden, vermeld in artikel 11;<br>
+3° de bepalingen over de evaluatie, de proeven en de bekrachtiging van de studies, vermeld in artikel 29 tot en met 39.<br>
+<br>
+De directeur en leerkrachten motiveren de afwijkingen in functie van de leerwinst met het oog op het behalen van het attest, eindattest of getuigschrift. De inspectie en de verificatie kunnen de motivering op elk moment inkijken in de instelling.<br>
+<br>
+§ 2. De Vlaamse Regering wordt gemachtigd om wijzigingen in dit artikel uit te voeren via een besluit van de Vlaamse Regering.
 
 ### ART. 27.
 
