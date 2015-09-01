@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025625,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-26 houdende de vastlegging van de maximale groei voor de centra voor basiseducatie en voor de centra voor volwassenenonderwijs per indeling voor het schooljaar 2015-2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025625/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "868af81f7e79f7d8661b8af4ece6b322a7e228d41d1aeb2782e68d8af7798cfd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025625&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-06-26",
+  "gazette": "2015-07-17",
+  "numac": 2015035882,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
