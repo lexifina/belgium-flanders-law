@@ -26,7 +26,7 @@ De Vlaamse Regering,<br /><br />Gelet op de Richtlijn 2005/36/EG van het Europee
 
 ### ART. 6.
 
-In afwijking van het besluit van de Vlaamse Regering van 11 juni 2004 tot vaststelling van de vorm van de diploma's en de inhoud van het bijhorend diplomasupplement uitgereikt door de instellingen voor hoger onderwijs in Vlaanderen, gewijzigd bij het besluit van de Vlaamse Regering van 2 maart 2007, 11 april 2008 en 24 juli 2009 wordt op het diploma bachelor in de verpleegkunde uitdrukkelijk de titel van 'verantwoordelijk algemeen ziekenverpleger' vermeld en wordt er geen specialisatie of afstudeerrichting vermeld op het diploma.<br /><br />
+...
 
 ### ART. 7.
 
