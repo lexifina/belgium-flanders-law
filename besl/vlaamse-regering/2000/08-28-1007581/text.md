@@ -26,7 +26,7 @@ Om het urenpakket bedoeld in artikel 2 te berekenen wordt:<br /><br />1. het gem
 
 ### ART. 6.
 
-De bekwaamheidsbewijzen, de weddenschalen, de bezoldigingsregeling en de vakantieregeling voor de ambten bepaald in artikel 4 van dit besluit zijn dezelfde als deze vastgesteld krachtens het besluit van de Vlaamse regering van 13 mei 1992 betreffende de opvangcentra.
+De bekwaamheidsbewijzen, de weddenschalen, de bezoldigingsregeling en de   vakantieregeling voor de ambten bepaald in artikel 4 van dit besluit zijn   dezelfde als deze vastgesteld krachtens het besluit van de Vlaamse Regering van   21 november 2014 betreffende verblijf en begeleiding tijdens de schoolvrije   dagen in de internaten van het Gemeenschapsonderwijs.
 
 ### ART. 7.
 
