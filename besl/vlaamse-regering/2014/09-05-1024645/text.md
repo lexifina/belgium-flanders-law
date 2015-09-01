@@ -28,6 +28,14 @@ De bijlage I bij hetzelfde besluit, vervangen bij het besluit van de   Vlaamse R
 
 In artikel 2, § 1, van het besluit van de Vlaamse Regering van 31 juli   1990 betreffende de bekwaamheidsbewijzen, de salarisschalen en de bezoldiging in   het buitengewoon onderwijs, vervangen bij het besluit van de Vlaamse Regering   van 15 december 1998 en gewijzigd bij de besluiten van de Vlaamse Regering van   28 november 2003 en 29 september 2006, worden de volgende wijzigingen   aangebracht:<BR>1° in punt a) wordt tussen de woorden "bestuurs- en onderwijzend   personeel" en de zinsnede "van het ondersteunend personeel" de zinsnede "van het   beleids- en ondersteunend personeel" ingevoegd;<BR>2° punt c) en punt d) worden   opgeheven.<BR>
 
+### ART. 6.
+
+Aan artikel 4 van hetzelfde besluit, gewijzigd bij de besluiten van de   Vlaamse Regering van 28 juli 2003, 9 november 2007, 17 december 2010 en 19 juli   2013, wordt een paragraaf 5 toegevoegd, die luidt als volgt:<BR>" § 5. De   volgende diploma's of getuigschriften worden eveneens beschouwd als bewijs van   pedagogische bekwaamheid, voor zover ze uitgereikt zijn ten laatste in het   academiejaar 2014-2015:<BR>1° het diploma van de voortgezette lerarenopleiding   zorgverbreding en remediërend leren;<BR>2° het diploma van bachelor in het   onderwijs: zorgverbreding en remediërend leren;<BR>3° het diploma van de   voortgezette studie van geaggregeerde voor het buitengewoon onderwijs;<BR>4° het   diploma van de voortgezette studie van geaggregeerde voor het buitengewoon   onderwijs en remedial teaching;<BR>5° het diploma van de voortgezette studie van   remedial teacher;<BR>6° het diploma van de voortgezette lerarenopleiding   buitengewoon onderwijs;<BR>7° het diploma van bachelor in het onderwijs:   buitengewoon onderwijs;<BR>8° het bekwaamheidsgetuigschrift tot het geven van   buitengewoon onderwijs.".<BR>
+
+### ART. 7.
+
+Artikel 14duodecies van hetzelfde besluit, ingevoegd bij het besluit van   de Vlaamse Regering van 19 juli 2013, wordt opgeheven.<BR>
+
 ### ART. 8.
 
 Artikel 19bis van hetzelfde besluit, ingevoegd bij het besluit van de   Vlaamse Regering van 28 november 2003 en vervangen bij het besluit van de   Vlaamse Regering van 19 juli 2013, wordt vervangen door wat volgt:<BR>"Art.   19bis. De bekwaamheidsbewijzen en salarisschalen, vermeld in de bijlage I, deel   buitengewoon basisonderwijs, die bij dit besluit is gevoegd, treden in werking   op 1 januari 2014. De bekwaamheidsbewijzen en salarisschalen, vermeld in de   bijlage I, deel buitengewoon secundair onderwijs, die bij dit besluit is   gevoegd, treden in werking op 1 september 2013.".<BR>
