@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024928,
+  "title": "Besluit van de Vlaamse Regering van 2015-01-09 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de Master of Epidemiology",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024928/VolledigDocument?datum=2015-09-01",
+  "source_sha256": "147b2ebcacdde5c63bd8c14bc43327a87a0b9db6d71b2184f71590905016ea7a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024928&param=informatie",
+  "as_of": "2015-09-01",
+  "made": "2015-01-09",
+  "gazette": "2015-01-28",
+  "numac": 2015035078,
+  "document_start": "2015-09-01",
+  "document_end": null,
+  "in_force": "2015-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
