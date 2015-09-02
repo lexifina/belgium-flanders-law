@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025708,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot wijziging van het besluit van de Vlaamse Regering van 15 juli 2002 betreffende de bepaling van het aanwendingspercentage van het aantal uren-leraar in het deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025708/VolledigDocument?datum=2015-09-02",
+  "source_sha256": "ccf8099f7d65f3dfd99f42342e6e4eb3ae4e848163699612c50c19f5510cbc99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025708&param=informatie",
+  "as_of": "2015-09-02",
+  "made": "2015-07-17",
+  "gazette": "2015-08-17",
+  "numac": 2015036048,
+  "document_start": "2015-09-02",
+  "document_end": null,
+  "in_force": "2015-09-02",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+}
