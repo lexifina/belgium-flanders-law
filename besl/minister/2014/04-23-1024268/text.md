@@ -46,7 +46,15 @@ Het berekende en individueel verminderde inkomenstarief, vermeld in   artikel 33
 
 ### ART. 8.
 
-<P>§ 1. De saldoafrekening, zijnde de betaling of de terugvordering van het   saldo, gebeurt uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar   in kwestie. Voor de organisator die geen kinderopvang meer aanbiedt en niet   gebruikmaakt van het voorbehoud, vermeld in artikel 4, gebeurt de betaling of   terugvordering in het kwartaal dat volgt op de maand waarin de organisator de   gegevens, vermeld in artikel 7, § 1, tweede lid, bezorgt aan Kind en Gezin, op   voorwaarde dat de organisator de gegevens tijdig bezorgd heeft. Als de   organisator de gegevens niet tijdig bezorgd heeft, gebeurt de betaling of   terugvordering van het saldo op een later moment, nadat de gegevens bezorgd   zijn.<BR></P>  <P>Het bedrag van het saldo is gebaseerd op de gegevens, vermeld in artikel 7, §   1, tweede lid.<BR></P>  <P>Voor de saldoafrekening kan schuldvergelijking op organisatieniveau toegepast   worden, waardoor terug te vorderen subsidies van Kind en Gezin verrekend kunnen   worden.<BR></P>  <P>§ 2. In afwijking van paragraaf 1, eerste lid, gebeurt de saldoafrekening   uiterlijk op 1 april 2015 voor de organisator die geen kinderopvang meer   aanbiedt en niet gebruikmaakt van het voorbehoud in 2014.<BR></P>
+<p>De saldoafrekening en de betaling of de terugvordering van het saldo, gebeurt op basis van de gegevens, vermeld in artikel 7, § 1, tweede lid, 1° en 2°, die de organisator bezorgd heeft voor het afgelopen jaar.<br>
+<br>
+Overeenkomstig artikel 9, eerste lid, van het Subsidiebesluit van 22 november 2013 gebeurt de saldoafrekening uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie, op voorwaarde dat de organisator de gegevens tijdig bezorgd heeft.<br>
+<br>
+In afwijking van het eerste en tweede lid bezorgt de organisator die geen kinderopvang meer aanbiedt en niet gebruikmaakt van het voorbehoud, vermeld in artikel 4, de gegevens onmiddellijk na de stopzetting aan Kind en Gezin. Kind en Gezin maakt op basis daarvan zo vlug mogelijk een saldoafrekening.<br>
+<br>
+Als de organisator nalaat alle gegevens te bezorgen, kan Kind en Gezin beslissen om de saldoafrekening te maken op basis van de beschikbare gegevens die Kind en Gezin wel ter beschikking heeft.<br>
+<br>
+Voor de saldoafrekening kan schuldvergelijking op organisatieniveau toegepast worden, waardoor terug te vorderen subsidies van Kind en Gezin verrekend kunnen worden.</p>
 
 ### ART. 9.
 
@@ -185,10 +193,17 @@ De organisator wijst de contracthouder erop dat hij hem het meest actuele   bere
 ### ART. 30.
 
 De organisator geeft voor elke maand kinderopvang een factuur aan de contracthouder, die de volgende vermeldingen bevat:<br>
-1° het aantal dagen en uren dat het kind van de contracthouder in de kinderopvanglocatie opgevangen werd, gerechtvaardigd afwezig was en ongerechtvaardigd afwezig was;<br>
+1° het aantal halve en het aantal volle dagen dat het kind van de contracthouder in de kinderopvanglocatie opgevangen werd, gerechtvaardigd afwezig was en ongerechtvaardigd afwezig was;<br>
 2° het inkomenstarief van de contracthouder;<br>
 3° het tarief voor ongerechtvaardigde afwezigheidsdagen;<br>
-4° de gedetailleerde opgave van alle bijkomende tarieven die boven op het inkomenstarief in rekening zijn gebracht, met vermelding van de aard, het aantal en het bedrag.
+4° de gedetailleerde opgave van alle bijkomende tarieven die boven op het inkomenstarief in rekening zijn gebracht, met vermelding van de aard, het aantal en het bedrag.<br>
+<br>
+In geval het kind wordt opgevangen in een kinderopvanglocatie waarvoor de organisator subsidie voor kinderopvang met flexibele openingstijden ontvangt, bevat de factuur naast de gegevens, vermeld in het eerste lid, ook de vermelding van het aantal flexibele dagen dat het kind van de contracthouder in de kinderopvanglocatie opgevangen werd.<br>
+<br>
+In het eerste lid, 1°, en het tweede lid wordt verstaan onder:<br>
+1° volle dagen: dagen met kinderopvangprestaties die vijf tot elf uur duren;<br>
+2° halve dagen: dagen met kinderopvangprestaties die minder dan vijf uur duren;<br>
+3° flexibele dagen: dagen met kinderopvangprestaties die meer dan elf uur duren.
 
 ## Onderafdeling 4 [... (opgeh. MB 24 april 2015, art. 10, I: 1 mei 2015)]
 
