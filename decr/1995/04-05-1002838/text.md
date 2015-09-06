@@ -1772,7 +1772,7 @@ Tenzij het uitdrukkelijk anders bepaald is, wordt, voor de toepassing van   deze
 
 ### ART. 16.2.4.
 
-De Vlaamse Hoge Raad voor de Milieuhandhaving coördineert de opmaak van   een vijfjaarlijks milieuhandhavingsprogramma dat de handhavingsprioriteiten van   de handhavingsinstanties, vermeld in dit decreet, bundelt. De   handhavingsinstanties stellen daarvoor zelf een individueel vijfjaarlijks   handhavingsprogramma op dat op eenvoudig verzoek wordt bezorgd aan de Vlaamse   Hoge Raad voor de Milieuhandhaving.<BR><BR>In het milieuhandhavingsprogramma   worden ook de strategische en operationele doelstellingen van de Vlaamse Hoge   Raad voor de Milieuhandhaving vermeld die jaarlijks worden geëvalueerd in het   milieuhandhavingsrapport.<BR><BR>De Vlaamse Hoge Raad voor de Milieuhandhaving   legt het milieuhandhavingsprogramma ter goedkeuring voor aan de Vlaamse   Regering.<BR><BR>De Vlaamse Regering kan de nadere regels vaststellen voor de   inhoud, de opstelling, de verspreiding en de actualisering van het   milieuhandhavingsprogramma. De Vlaamse Regering kan eveneens nadere regels   vaststellen voor de afstemming van het milieuhandhavingsprogramma met andere   beleidsdocumenten.
+De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu coördineert de   opmaak van een vijfjaarlijks milieuhandhavingsprogramma dat de   handhavingsprioriteiten van de handhavingsinstanties, vermeld in dit decreet,   bundelt. De handhavingsinstanties stellen daarvoor zelf een individueel   vijfjaarlijks handhavingsprogramma op dat op eenvoudig verzoek wordt bezorgd aan   de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu.<BR><BR>In het   milieuhandhavingsprogramma worden ook de strategische en operationele   doelstellingen van de&nbsp;Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu   vermeld die jaarlijks worden geëvalueerd in het   milieuhandhavingsrapport.<BR><BR>De Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu legt het milieuhandhavingsprogramma ter goedkeuring voor aan de Vlaamse   Regering.<BR><BR>De Vlaamse Regering kan de nadere regels vaststellen voor de   inhoud, de opstelling, de verspreiding en de actualisering van het   milieuhandhavingsprogramma. De Vlaamse Regering kan eveneens nadere regels   vaststellen voor de afstemming van het milieuhandhavingsprogramma met andere   beleidsdocumenten.
 
 ### ART. 16.2.5.
 
@@ -1790,7 +1790,7 @@ De Vlaamse Hoge Raad voor de Milieuhandhaving coördineert de opmaak van   een v
 
 ### ART. 16.2.8.
 
-De Vlaamse Hoge Raad voor de Milieuhandhaving kan om bijzondere vraagstukken te onderzoeken een beroep doen op externe deskundigen en kan werkgroepen oprichten, onder de voorwaarden, bepaald in het huishoudelijk reglement.
+De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu kan om bijzondere   vraagstukken te onderzoeken een beroep doen op externe deskundigen en kan   werkgroepen oprichten, onder de voorwaarden, bepaald in het huishoudelijk   reglement.
 
 ### ART. 16.2.9.
 
@@ -1798,11 +1798,11 @@ De Vlaamse Hoge Raad voor de Milieuhandhaving kan om bijzondere vraagstukken te 
 
 ### ART. 16.2.10.
 
-De Vlaamse Regering stelt de Vlaamse Hoge Raad voor de Milieuhandhaving een permanent secretariaat en de nodige middelen ter beschikking. Ze stelt eveneens de vergoedingen vast die aan de leden van de Vlaamse Hoge Raad voor de Milieuhandhaving worden toegekend.
+De Vlaamse Regering stelt de Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu een permanent secretariaat en de nodige middelen ter beschikking. Ze   stelt eveneens de vergoedingen vast die aan de leden van de Vlaamse Hoge   Handhavingsraad voor Ruimte en Milieu worden toegekend.
 
 ### ART. 16.2.11.
 
-De Vlaamse Regering kan nadere regels vaststellen voor de organisatie en de werking van de Vlaamse Hoge Raad voor de Milieuhandhaving.
+De Vlaamse Regering kan nadere regels vaststellen voor de organisatie en   de werking van de Vlaamse Hoge Handhavingsraad voor Ruimte en   Milieu.
 
 ## [HOOFDSTUK III TOEZICHT (ing. decr. 21 december 2007, art. 9, I: 1 mei 2009)]
 
