@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025509,
+  "title": "Decreet van 2015-05-29 houdende wijziging van diverse bepalingen van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025509/VolledigDocument?datum=2015-09-07",
+  "source_sha256": "d2a8765423ceb3936638c653a566b13dd69fa19d1979b8b74bfa02818b2f4d5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025509&param=informatie",
+  "as_of": "2015-09-07",
+  "made": "2015-05-29",
+  "gazette": "2015-06-23",
+  "numac": 2015035758,
+  "document_start": "3000-01-01",
+  "document_end": null,
+  "in_force": "2015-09-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-09-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
