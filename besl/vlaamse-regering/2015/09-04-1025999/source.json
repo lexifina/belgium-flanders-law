@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025999,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-04 tot wijziging van artikel 4 en 8 van het besluit van de Vlaamse Regering van 1 oktober 2010 betreffende de organisatie van examencommissies door een Centrum voor Volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025999/VolledigDocument?datum=2015-09-10",
+  "source_sha256": "8a2395fcaa847d092fd7e2f94a7993c1ce4dda0ca2981fbe2659027e0fc48932",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025999&param=informatie",
+  "as_of": "2015-09-10",
+  "made": "2015-09-04",
+  "gazette": "2015-10-08",
+  "numac": 2015036172,
+  "document_start": "2015-09-10",
+  "document_end": null,
+  "in_force": "2015-09-10",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-09-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
