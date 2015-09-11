@@ -2,16 +2,16 @@
   "codex_id": 1024296,
   "title": "Besluit van de Vlaamse Regering van 2014-03-21 tot toekenning van taken en kerntaken aan een lokaal bestuur als vermeld in artikel 25, § 1, eerste lid, 1°, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024296/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "a8666ce9e3002349916aac0c4ca7992770403ba0c21e50c05ecf50d61ea3398d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024296/VolledigDocument?datum=2015-09-11",
+  "source_sha256": "5ec0b2bcb5d1be35a6e26a1eb619cb501d2e6a76a20fcc827600106cbf345620",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024296&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2015-09-11",
   "made": "2014-03-21",
   "gazette": "2014-07-11",
   "numac": 2014035451,
   "document_start": "2014-07-21",
   "document_end": null,
-  "in_force": "2015-04-01",
+  "in_force": "2015-09-11",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-09-11; future article versions excluded; article text as the API gives it"
 }
