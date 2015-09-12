@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025871,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot wijziging van het besluit van de Vlaamse Regering van 16 februari 2001 tot vaststelling van nadere regels inzake compensatie van ontbossingen en ontheffing van het verbod op ontbossing",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025871/VolledigDocument?datum=2015-09-12",
+  "source_sha256": "2f9f41762cb948cdd6b1e48d498415e9409036806cd58b1200ce7735b87cfe8e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025871&param=informatie",
+  "as_of": "2015-09-12",
+  "made": "2015-07-17",
+  "gazette": "2015-09-02",
+  "numac": 2015036080,
+  "document_start": "2015-09-12",
+  "document_end": null,
+  "in_force": "2015-09-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
