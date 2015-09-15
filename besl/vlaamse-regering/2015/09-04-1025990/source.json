@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025990,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-04 houdende vaststelling van de tarieven voor de uitvoering van een instellingsreview in het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025990/VolledigDocument?datum=2015-09-15",
+  "source_sha256": "90de6d57d17ad7ede16c1f92608dc59529f95c891fad26fd34814941be96857d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025990&param=informatie",
+  "as_of": "2015-09-15",
+  "made": "2015-09-04",
+  "gazette": "2015-10-05",
+  "numac": 2015204410,
+  "document_start": "2015-09-15",
+  "document_end": null,
+  "in_force": "2015-09-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
