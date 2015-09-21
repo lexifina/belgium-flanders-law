@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025887,
+  "title": "Ministerieel besluit van 2015-07-22 tot goedkeuring van het bijzonder waterverkoopreglement van De Watergroep van 15 mei 2015 in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025887/VolledigDocument?datum=2015-09-21",
+  "source_sha256": "097612f537b2c01abd0f62e06929ed451f85a06feec30723808c26b8f75c0e7e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025887&param=informatie",
+  "as_of": "2015-09-21",
+  "made": "2015-07-22",
+  "gazette": "2015-09-11",
+  "numac": 2015036110,
+  "document_start": "2015-09-21",
+  "document_end": null,
+  "in_force": "2015-09-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
