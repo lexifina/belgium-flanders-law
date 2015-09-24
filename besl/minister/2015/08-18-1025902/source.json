@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025902,
+  "title": "Ministerieel besluit van 2015-08-18 houdende wijziging van het ministerieel besluit van 18 mei 2006 houdende oprichting van het orgaan dat de bevoegdheden uitoefent inzake de rechtspositie van het personeel voor het extern verzelfstandigd agentschap Vlaamse Landmaatschappij",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025902/VolledigDocument?datum=2015-09-24",
+  "source_sha256": "a70894f012e9657ca20fc1d661be35b2345e0bd19f0b50dae0643b31d1bf58fc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025902&param=informatie",
+  "as_of": "2015-09-24",
+  "made": "2015-08-18",
+  "gazette": "2015-09-24",
+  "numac": 2015204259,
+  "document_start": "2015-09-24",
+  "document_end": null,
+  "in_force": "2015-09-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
