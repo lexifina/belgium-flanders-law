@@ -10,7 +10,7 @@ In het extern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaamse Landm
 
 ### ART. 2.
 
-De directieraad, voorgezeten door de gedelegeerd bestuurder van de Vlaamse Landmaatschappij, is samengesteld uit :<br />1° de gedelegeerd bestuurder;<br />2° de algemene directeur;<br />3° de afdelingshoofden en de projectleiders N-1 (incl. waarnemende managementfuncties van N-1 niveaus);<br />4° de staffunctie Interne controle. <br /><br />De staffunctie Interne controle woont de vergaderingen van de directieraad bij met raadgevende stem.<br /><br />De Directieraad kan bovendien op eigen initiatief of op verzoek van een lid ten allen tijde deskundigen uitnodigen met het oog op een technische of inhoudelijke toelichting bij de bespreking van een specifiek probleem.<br /><br />
+De directieraad, voorgezeten door de gedelegeerd bestuurder van de Vlaamse   Landmaatschappij, is samengesteld uit :<BR>1° de gedelegeerd bestuurder;<BR>2°   de adjunct-directeur-generaal;<BR>3° de afdelingshoofden en de projectleiders   N-1 (incl. waarnemende managementfuncties van N-1 niveaus);<BR><BR>De   Directieraad kan bovendien op eigen initiatief of op verzoek van een lid ten   allen tijde deskundigen uitnodigen met het oog op een technische of inhoudelijke   toelichting bij de bespreking van een specifiek probleem.<BR><BR>
 
 ### ART. 3.
 
