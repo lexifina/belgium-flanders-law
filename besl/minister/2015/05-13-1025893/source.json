@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025893,
+  "title": "Ministerieel besluit van 2015-05-13 tot goedkeuring van het bijzonder waterverkoopreglement van Pidpa in uitvoering van artikel 16, § 2 van het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025893/VolledigDocument?datum=2015-09-25",
+  "source_sha256": "44eb7dd418cd38eb8e61fe648e93756c914bdc09c28d1cc76ea98fc6f5e7c7f0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025893&param=informatie",
+  "as_of": "2015-09-25",
+  "made": "2015-05-13",
+  "gazette": "2015-09-15",
+  "numac": 2015036132,
+  "document_start": "2015-09-25",
+  "document_end": null,
+  "in_force": "2015-09-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-09-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
