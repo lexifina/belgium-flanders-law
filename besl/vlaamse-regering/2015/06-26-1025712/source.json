@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025712,
+  "title": "Besluit van de Vlaamse Regering van 2015-06-26 houdende sluiting van de zitting 2014-2015 van het Vlaams Parlement",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025712/VolledigDocument?datum=2015-09-27",
+  "source_sha256": "8b63674c1cf13445ba9a3f534a0204b09e3cd5aebd9dc6c98e3df359f942d153",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025712&param=informatie",
+  "as_of": "2015-09-27",
+  "made": "2015-06-26",
+  "gazette": "2015-08-18",
+  "numac": 2015036061,
+  "document_start": "2015-09-27",
+  "document_end": null,
+  "in_force": "2015-09-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-09-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
