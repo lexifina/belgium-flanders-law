@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025963,
+  "title": "Ministerieel besluit van 2015-09-18 houdende de organisatie van een call voor het indienen van steunaanvragen voor nuttige-groenewarmte-installaties voor de productie van nuttige groene warmte uit biomassa en uit aardwarmte uit de diepe ondergrond, installaties voor de benutting van restwarmte en installaties voor de productie van biomethaan",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025963/VolledigDocument?datum=2015-09-29",
+  "source_sha256": "b86b6635aa359043382587e9653699a06c21496a0933a6335587345b1d129f73",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025963&param=informatie",
+  "as_of": "2015-09-29",
+  "made": "2015-09-18",
+  "gazette": "2015-09-29",
+  "numac": 2015036176,
+  "document_start": "2015-09-29",
+  "document_end": null,
+  "in_force": "2015-09-29",
+  "article_versions": 16,
+  "record_form": "consolidated version as in force on 2015-09-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
