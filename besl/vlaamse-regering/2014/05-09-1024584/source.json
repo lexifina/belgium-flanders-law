@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024584,
+  "title": "Besluit van de Vlaamse Regering van 2014-05-09 betreffende de kadervormingstrajecten, vermeld in artikel 17/1 van het decreet van 20 januari 2012 houdende een vernieuwd jeugd- en kinderrechtenbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024584/VolledigDocument?datum=2015-10-01",
+  "source_sha256": "b264c5db1f606558c722454dfd72b73ef3f97cab4f68eb7b4976529cded133cc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024584&param=informatie",
+  "as_of": "2015-10-01",
+  "made": "2014-05-09",
+  "gazette": "2014-09-23",
+  "numac": 2014036572,
+  "document_start": "2015-10-01",
+  "document_end": "2023-12-31",
+  "in_force": "2015-10-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2015-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
