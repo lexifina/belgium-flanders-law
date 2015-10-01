@@ -116,6 +116,14 @@ In   artikel 1, 1° van het besluit van de Vlaamse Regering van 5 juli 2013   be
 
 &nbsp;In artikel 27, tweede lid, van het   besluit van de Vlaamse Regering van 21 maart 2014 tot regeling van het   archiefbeheer wordt punt 3° vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"3°   het Departement Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van   Cultuur, Jeugd, Sport en Media.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 29.
+
+&nbsp;In artikel 1 van het besluit van de   Vlaamse Regering van 9 mei 2014 betreffende de kadervormingstrajecten, vermeld   in artikel 17/1 van het decreet van 20 januari 2012 houdende een vernieuwd   jeugd- en kinderrechtenbeleid wordt punt 1° vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"1°   administratie: de administratie, bevoegd voor het sociaal-cultureel werk voor de   Jeugd;".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 30.
+
+&nbsp;In artikel 2, 4, § 5, artikel 5, § 3,   tweede lid, en artikel 7, van hetzelfde besluit worden de woorden "afdeling   Jeugd" telkens vervangen door het woord "administratie".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 31.
 
 In   artikel 3, 10°, van het besluit van de Vlaamse Regering van 25 juli 2014 tot   bepaling van de bevoegdheden van de leden van de Vlaamse Regering worden punt a)   en punt b) opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
