@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026206,
+  "title": "Ministerieel besluit van 2015-11-05 betreffende de erkenning van de vzw De Sapstroom als centrum voor hobbylandbouwvorming bij toepassing van het besluit van de Vlaamse Regering betreffende de toekenning van subsidies voor naschoolse opleidingsinitiatieven in de landbouwsector",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026206/VolledigDocument?datum=2015-10-01",
+  "source_sha256": "4aa794ad7a1ba61c7519d321022bc80de2677c3b587dbb86f8bde907c980615f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026206&param=informatie",
+  "as_of": "2015-10-01",
+  "made": "2015-11-05",
+  "gazette": "2015-12-14",
+  "numac": 2015036525,
+  "document_start": "2015-10-01",
+  "document_end": null,
+  "in_force": "2015-10-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
