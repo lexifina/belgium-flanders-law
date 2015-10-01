@@ -2,16 +2,16 @@
   "codex_id": 1024423,
   "title": "Ministerieel besluit van 2014-05-23 tot delegatie van bepaalde bevoegdheden aan de leidend ambtenaar van het departement werk en sociale economie",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024423/VolledigDocument?datum=2014-06-01",
-  "source_sha256": "4ddbb6e118c7f4788f401537dbd8c62646031314c0356d8139b577e50fb0ffa6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024423/VolledigDocument?datum=2015-10-01",
+  "source_sha256": "7e0a47d205b4320c3b5914c3336485d7d0cdd9b482c1f643a77fc317b82a15be",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024423&param=informatie",
-  "as_of": "2014-06-01",
+  "as_of": "2015-10-01",
   "made": "2014-05-23",
   "gazette": "2014-08-18",
   "numac": 2014204237,
   "document_start": "2014-06-01",
   "document_end": "2015-09-30",
-  "in_force": "2014-06-01",
+  "in_force": "2015-10-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2014-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-10-01; future article versions excluded; article text as the API gives it"
 }
