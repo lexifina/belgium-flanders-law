@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025962,
+  "title": "Ministerieel besluit van 2015-02-17 tot wijziging van artikel 6, 7 en 12 van het ministerieel besluit van 26 oktober 2007 betreffende de bevoegde diensten in het kader van de begeleiding van de scheepvaart en het MRCC en bepalingen over de bevoegdheden van bepaalde personeelsleden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025962/VolledigDocument?datum=2015-10-09",
+  "source_sha256": "a963b5a8662d5f30e84b3d54c1a24e25709b1b09010138977b9597acdc06d481",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025962&param=informatie",
+  "as_of": "2015-10-09",
+  "made": "2015-02-17",
+  "gazette": "2015-09-29",
+  "numac": 2015036160,
+  "document_start": "2015-10-09",
+  "document_end": null,
+  "in_force": "2015-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
