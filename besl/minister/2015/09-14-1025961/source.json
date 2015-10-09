@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025961,
+  "title": "Ministerieel besluit van 2015-09-14 tot wijziging van diverse bepalingen van het ministerieel besluit van 7 maart 2008 tot uitvoering van het besluit van de Vlaamse Regering van 19 oktober 2007 betreffende de bescherming van geografische aanduidingen en oorsprongsbenamingen van landbouwproducten en levensmiddelen en de gegarandeerde traditionele specialiteiten voor landbouwproducten en levensmiddelen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025961/VolledigDocument?datum=2015-10-09",
+  "source_sha256": "bf6fbd4c23ff11f7f1a0082a30c15671f563c88b3d9c2043a2bc13985bc0c9ae",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025961&param=informatie",
+  "as_of": "2015-10-09",
+  "made": "2015-09-14",
+  "gazette": "2015-09-29",
+  "numac": 2015036164,
+  "document_start": "2015-10-09",
+  "document_end": null,
+  "in_force": "2015-10-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
