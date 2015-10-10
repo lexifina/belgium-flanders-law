@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025965,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot erkenning van de beroepskwalificatie dentaaltechnicus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025965/VolledigDocument?datum=2015-10-10",
+  "source_sha256": "04de88a8e8617743d94368e73b2f18698fad785d5aa84f9c83a995d86c8e18f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025965&param=informatie",
+  "as_of": "2015-10-10",
+  "made": "2015-05-22",
+  "gazette": "2015-09-30",
+  "numac": 2015035785,
+  "document_start": "2015-10-10",
+  "document_end": null,
+  "in_force": "2015-10-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
