@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025968,
+  "title": "Besluit van de Vlaamse Regering van 2015-05-22 tot erkenning van de beroepskwalificatie rioollegger",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025968/VolledigDocument?datum=2015-10-10",
+  "source_sha256": "0c6c46084715bc171250249724633b8ed25767004cdcef538732e6a5778dcaf9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025968&param=informatie",
+  "as_of": "2015-10-10",
+  "made": "2015-05-22",
+  "gazette": "2015-09-30",
+  "numac": 2015035876,
+  "document_start": "2015-10-10",
+  "document_end": null,
+  "in_force": "2015-10-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-10-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
