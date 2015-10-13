@@ -2,16 +2,16 @@
   "codex_id": 1026008,
   "title": "Besluit van de Vlaamse Regering van 2015-10-02 houdende wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 2 december 2011 houdende de subsidiëring van sociale huisvestingsmaatschappijen voor uitgaven met betrekking tot rationeel energiegebruik en groene warmte",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026008/VolledigDocument?datum=2011-11-01",
-  "source_sha256": "44f3beb7dc44368c968fcdc6c4dc3c1b6cb83632a019e50839e2b44019bf48f5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026008/VolledigDocument?datum=2015-10-13",
+  "source_sha256": "0104e6852e22cb1da0b457b704b11b8b04bbb7477662f28e92726e1a70882194",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026008&param=informatie",
-  "as_of": "2011-11-01",
+  "as_of": "2015-10-13",
   "made": "2015-10-02",
   "gazette": "2015-10-13",
   "numac": 2015036241,
   "document_start": "2015-10-13",
   "document_end": null,
-  "in_force": "2011-11-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2011-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-10-13",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2015-10-13; future article versions excluded; article text as the API gives it"
 }
