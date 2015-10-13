@@ -2,16 +2,16 @@
   "codex_id": 1021796,
   "title": "Ministerieel besluit van 2012-05-02 tot bepaling van de inhoud en de vorm van de installatiestudie, vermeld in artikel 5, eerste lid, 2°, van het besluit van de Vlaamse Regering van 2 december 2011 houdende de subsidiëring van sociale huisvestingsmaatschappijen voor uitgaven met betrekking tot rationeel energiegebruik en groene warmte",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021796/VolledigDocument?datum=2012-05-02",
-  "source_sha256": "24472fe361b796759baf854e8906c3973840ea254df77a77cbb24763bddae4f3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021796/VolledigDocument?datum=2015-10-13",
+  "source_sha256": "c9e1ec7b8375c26d2b83d7f91e41d54d85e525c93b397f107853599dfdd8b7a4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021796&param=informatie",
-  "as_of": "2012-05-02",
+  "as_of": "2015-10-13",
   "made": "2012-05-02",
   "gazette": "2012-06-06",
   "numac": 201235566,
   "document_start": "2012-05-02",
   "document_end": "2015-10-12",
-  "in_force": "2012-05-02",
+  "in_force": "2015-10-13",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2012-05-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-10-13; future article versions excluded; article text as the API gives it"
 }
