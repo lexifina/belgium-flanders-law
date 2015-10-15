@@ -16,7 +16,144 @@ Dit hoofdstuk verdeelt de bevoegdheden binnen de Vlaamse Regering, met het   oog
 
 ### ART. 3.
 
-Het bestuur van of het toezicht op de hieronder vermelde diensten,   instellingen of rechtspersonen wordt als volgt verdeeld:<BR>1° de   minister-president van de Vlaamse Regering is bevoegd voor:<BR>a) de   Studiedienst van de Vlaamse Regering;<BR>b) Audit Vlaanderen, met behoud van de   toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober   2013 tot oprichting van het intern verzelfstandigd agentschap Audit Vlaanderen   en tot wijziging van diverse besluiten, en met dien verstande dat die   bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de binnenlandse   aangelegenheden;<BR>c) ...<BR>d) de Sociaal-Economische Raad van   Vlaanderen;<BR><BR>2° de Vlaamse minister van Buitenlands Beleid en Onroerend   Erfgoed is bevoegd voor:<BR>a) het Vlaams Agentschap voor Internationaal   Ondernemen;<BR>b) ...<BR>c) Onroerend Erfgoed;<BR>d) Inspectie RWO, met dien   verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd   voor het woonbeleid en voor de ruimtelijke ordening;<BR>e) de Strategische   Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die   bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de ruimtelijke   ordening;<BR><BR>3° de Vlaamse minister van Onderwijs is bevoegd voor:<BR>a) het   Agentschap voor Onderwijsdiensten;<BR>b) ...;<BR>c) het Agentschap voor Hoger   Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<BR>d) het   Agentschap voor Infrastructuur in het Onderwijs;<BR>e) de Vlaamse   Onderwijsraad;<BR>f) het Gemeenschapsonderwijs;<BR>g) het Universitair   Ziekenhuis Gent;<BR><BR>4° de Vlaamse minister van Begroting, Financiën en   Energie is bevoegd voor:<BR>a) de Vlaamse Belastingdienst;<BR>b) het Vlaams   Toekomstfonds;<BR>c) het Vlaams Fonds voor de Lastendelging;<BR>d) het   Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven;<BR>e)   het Vlaams Energieagentschap;<BR>f) de Vlaamse Regulator van de Elektriciteits-   en Gasmarkt;<BR><BR>5° de Vlaamse minister van Binnenlands Bestuur, Inburgering,   Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<BR>a) het   Agentschap&nbsp;Overheidspersoneel;<BR>b) het Agentschap Facilitair   Bedrijf;<BR>c) het Agentschap Binnenlands Bestuur, met dien verstande dat die   bevoegdheid wordt gedeeld met de Vlaamse minister van Mobiliteit, Openbare   Werken, Vlaamse Rand, Toerisme en Dierenwelzijn, en met de Vlaamse minister van   Cultuur, Media, Jeugd en Brussel;<BR>d) Audit Vlaanderen, met behoud van de   toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober   2013 tot oprichting van het intern verzelfstandigd agentschap Audit Vlaanderen   en tot wijziging van diverse besluiten, en met dien verstande dat die   bevoegdheid wordt gedeeld met de minister-president;<BR>e) Jobpunt   Vlaanderen;<BR>f) de Vlaamse Vereniging voor ICT-personeel ("Vlaanderen   connect.");<BR>g) het Agentschap Integratie en Inburgering;<BR>h) ...<BR>i)   Wonen-Vlaanderen;<BR>j) Inspectie RWO, met dien verstande dat die bevoegdheid   wordt gedeeld met de Vlaamse ministers, bevoegd voor de ruimtelijke ordening en   voor het onroerend erfgoed;<BR>k) de Vlaamse Maatschappij voor Sociaal   Wonen;<BR>l) de Vlaamse Woonraad;<BR>m) het Vlaams Financieringsfonds voor   Grond- en Woonbeleid voor Vlaams-Brabant ("Vlabinvest");<BR>n) het Garantiefonds   voor de Huisvesting;<BR>o) Toegankelijk Vlaanderen;<BR>p) het Agentschap voor   Geografische Informatie Vlaanderen;<BR><BR>6° de Vlaamse minister van   Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn is bevoegd   voor:<BR>a) het Agentschap Wegen en Verkeer;<BR>b) het Agentschap voor Maritieme   Dienstverlening en Kust;<BR>c) de Vlaamse Vervoermaatschappij - De Lijn;<BR>d)   De Scheepvaart;<BR>e) Waterwegen en Zeekanaal;<BR>f) Vlaamse Havens;<BR>g) de   Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<BR>h) de   Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<BR>i) de   Luchthavenontwikkelingsmaatschappij Antwerpen;<BR>j) de Mobiliteitsraad van   Vlaanderen;<BR>k) het Pendelfonds;<BR>l) het Eigen Vermogen Flanders   Hydraulics;<BR>m) de Rand;<BR>n) Toerisme Vlaanderen;<BR>o)&nbsp;...<BR>p) het   Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt   gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen,   Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Cultuur,   Media, Jeugd en Brussel;<BR><BR>7° de Vlaamse minister van Welzijn,   Volksgezondheid en Gezin is bevoegd voor:<BR>a) Zorg en Gezondheid;<BR>b)   Jongerenwelzijn;<BR>c) Zorginspectie;<BR>d) het Openbaar Psychiatrisch   Zorgcentrum Geel;<BR>e) het Openbaar Psychiatrisch Zorgcentrum Rekem;<BR>f) Kind   en Gezin;<BR>g) het Vlaams Agentschap voor Personen met een Handicap;<BR>h) het   Vlaams Zorgfonds;<BR>i) het Fonds Jongerenwelzijn;<BR>j) het Vlaams   Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<BR>k) het Vlaams   Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de   Zorg;<BR>l) de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids-   en Gezinsbeleid;<BR><BR>8° de Vlaamse minister van Werk, Economie, Innovatie en   Sport is bevoegd voor:<BR>a) het Agentschap Ondernemen;<BR>b) de   Participatiemaatschappij Vlaanderen;<BR>c) het Vlaams Energiebedrijf;<BR>d) de   Limburgse Reconversiemaatschappij;<BR>e) de Vlaamse   Participatiemaatschappij;<BR>f) de Herculesstichting;<BR>g) het Agentschap voor   Innovatie door Wetenschap en Technologie ("IWT");<BR>h) het Fonds voor   Wetenschappelijk Onderzoek-Vlaanderen ("FWO");<BR>i) het Agentschap Plantentuin   Meise;<BR>j) de Vlaamse Raad voor Wetenschap en Innovatie ("VRWI");<BR>k) de   Vlaamse Instelling voor Technologisch onderzoek;<BR>l) het Fonds voor het   Flankerend Economisch Beleid ("Hermesfonds");<BR>m) Gimvindus;<BR>n) de Vlaamse   Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<BR>o) het Vlaams Agentschap   voor Ondernemersvorming - Syntra Vlaanderen;<BR>p) het ESF-Agentschap;<BR>q)   Bloso;<BR>r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat   die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur,   de jeugd en de media;<BR><BR>9° de Vlaamse minister van Omgeving, Natuur en   Landbouw is bevoegd voor:<BR>a) Inspectie RWO, met dien verstande dat die   bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor het woonbeleid   en voor het onroerend erfgoed;<BR>b) de Strategische Adviesraad Ruimtelijke   Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt   gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<BR>c) het   Rubiconfonds;<BR>d) het Agentschap voor Natuur en Bos;<BR>e) het Instituut voor   Natuur- en Bosonderzoek;<BR>f) de Vlaamse Milieumaatschappij;<BR>g) de Openbare   Vlaamse Afvalstoffenmaatschappij;<BR>h) de Vlaamse Landmaatschappij;<BR>i) de   Milieu- en Natuurraad van Vlaanderen;<BR>j) de Vlaamse Milieuholding;<BR>k) de   Vlaamse Maatschappij voor Watervoorziening ("De Watergroep");<BR>l) het   Ondersteunend Centrum van het Agentschap voor Natuur en Bos;<BR>m) het Eigen   Vermogen van het Instituut voor Natuur- en Bosonderzoek;<BR>n) het   Grindfonds;<BR>o) het Agentschap voor Landbouw en Visserij;<BR>p) het Instituut   voor Landbouw- en Visserijonderzoek;<BR>q) het Vlaams Centrum voor Agro- en   Visserijmarketing;<BR>r) de Strategische Adviesraad voor Landbouw en   Visserij;<BR>s) het Vlaams Landbouwinvesteringsfonds;<BR>t) het   Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<BR>u) het   Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;<BR><BR>10°   de Vlaamse minister van Cultuur, Media, Jeugd en Brussel is bevoegd voor:<BR>a)   ...;<BR>b) ...;<BR>c) de Raad voor Cultuur, Jeugd, Sport en Media, met dien   verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor   de sport;<BR>d) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten   Antwerpen;<BR>e) het Fonds Culturele Infrastructuur;<BR>f) het Vlaams Fonds voor   de Letteren;<BR>g) het Topstukkenfonds;<BR>h) de Vlaamse Radio- en   Televisieomroep;<BR>i) de Vlaamse Regulator voor de Media;<BR>j) het   Vlaams-Brusselfonds;<BR>k) Muntpunt;<BR>l) het Agentschap Binnenlands Bestuur,   met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van   Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding,   en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand,   Toerisme en Dierenwelzijn;
+Het bestuur van of het toezicht op de hieronder vermelde diensten, instellingen of rechtspersonen wordt als volgt verdeeld:<br>
+1° de minister-president van de Vlaamse Regering is bevoegd voor:<br>
+a) ...;<br>
+b) Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap Audit Vlaanderen en tot wijziging van diverse besluiten, en met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de binnenlandse aangelegenheden;<br>
+c) ...<br>
+d) de Sociaal-Economische Raad van Vlaanderen;<br>
+<br>
+2° de Vlaamse minister van Buitenlands Beleid en Onroerend Erfgoed is bevoegd voor:<br>
+a) het Vlaams Agentschap voor Internationaal Ondernemen;<br>
+b) ...<br>
+c) Onroerend Erfgoed;<br>
+d) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor het woonbeleid en voor de ruimtelijke ordening;<br>
+e) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+<br>
+3° de Vlaamse minister van Onderwijs is bevoegd voor:<br>
+a) het Agentschap voor Onderwijsdiensten;<br>
+b) ...;<br>
+c) het Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen;<br>
+d) het Agentschap voor Infrastructuur in het Onderwijs;<br>
+e) de Vlaamse Onderwijsraad;<br>
+f) het Gemeenschapsonderwijs;<br>
+g) het Universitair Ziekenhuis Gent;<br>
+<br>
+4° de Vlaamse minister van Begroting, Financiën en Energie is bevoegd voor:<br>
+a) de Vlaamse Belastingdienst;<br>
+b) het Vlaams Toekomstfonds;<br>
+c) het Vlaams Fonds voor de Lastendelging;<br>
+d) het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven;<br>
+e) het Vlaams Energieagentschap;<br>
+f) de Vlaamse Regulator van de Elektriciteits- en Gasmarkt;<br>
+<br>
+5° de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding is bevoegd voor:<br>
+a) het Agentschap&nbsp;Overheidspersoneel;<br>
+b) het Agentschap Facilitair Bedrijf;<br>
+c) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn, en met de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
+d) Audit Vlaanderen, met behoud van de toepassing van artikel 16 van het besluit van de Vlaamse Regering van 18 oktober 2013 tot oprichting van het intern verzelfstandigd agentschap Audit Vlaanderen en tot wijziging van diverse besluiten, en met dien verstande dat die bevoegdheid wordt gedeeld met de minister-president;<br>
+e) ...<br>
+f) de Vlaamse Vereniging voor ICT-personeel ("Vlaanderen connect.");<br>
+g) het Agentschap Integratie en Inburgering;<br>
+h) ...<br>
+i) Wonen-Vlaanderen;<br>
+j) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor de ruimtelijke ordening en voor het onroerend erfgoed;<br>
+k) de Vlaamse Maatschappij voor Sociaal Wonen;<br>
+l) de Vlaamse Woonraad;<br>
+m) het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant ("Vlabinvest");<br>
+n) het Garantiefonds voor de Huisvesting;<br>
+o) Toegankelijk Vlaanderen;<br>
+p) het agentschap Informatie Vlaanderen;<br>
+q) het Eigen Vermogen Informatie Vlaanderen;<br>
+<br>
+6° de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn is bevoegd voor:<br>
+a) het Agentschap Wegen en Verkeer;<br>
+b) het Agentschap voor Maritieme Dienstverlening en Kust;<br>
+c) de Vlaamse Vervoermaatschappij - De Lijn;<br>
+d) De Scheepvaart;<br>
+e) Waterwegen en Zeekanaal;<br>
+f) Vlaamse Havens;<br>
+g) de Luchthavenontwikkelingsmaatschappij Oostende-Brugge;<br>
+h) de Luchthavenontwikkelingsmaatschappij Kortrijk-Wevelgem;<br>
+i) de Luchthavenontwikkelingsmaatschappij Antwerpen;<br>
+j) de Mobiliteitsraad van Vlaanderen;<br>
+k) het Pendelfonds;<br>
+l) het Eigen Vermogen Flanders Hydraulics;<br>
+m) de Rand;<br>
+n) Toerisme Vlaanderen;<br>
+o)&nbsp;...<br>
+p) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Cultuur, Media, Jeugd en Brussel;<br>
+<br>
+7° de Vlaamse minister van Welzijn, Volksgezondheid en Gezin is bevoegd voor:<br>
+a) Zorg en Gezondheid;<br>
+b) Jongerenwelzijn;<br>
+c) Zorginspectie;<br>
+d) het Openbaar Psychiatrisch Zorgcentrum Geel;<br>
+e) het Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
+f) Kind en Gezin;<br>
+g) het Vlaams Agentschap voor Personen met een Handicap;<br>
+h) het Vlaams Zorgfonds;<br>
+i) het Fonds Jongerenwelzijn;<br>
+j) het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden;<br>
+k) het Vlaams Agentschap voor Samenwerking rond Gegevensdeling tussen de Actoren in de Zorg;<br>
+l) de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid;<br>
+<br>
+8° de Vlaamse minister van Werk, Economie, Innovatie en Sport is bevoegd voor:<br>
+a) het Agentschap Innoveren en Ondernemen;<br>
+b) de Participatiemaatschappij Vlaanderen;<br>
+c) het Vlaams Energiebedrijf;<br>
+d) de Limburgse Reconversiemaatschappij;<br>
+e) de Vlaamse Participatiemaatschappij;<br>
+f) de Herculesstichting;<br>
+g) het Agentschap voor Innovatie door Wetenschap en Technologie ("IWT");<br>
+h) het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen ("FWO");<br>
+i) het Agentschap Plantentuin Meise;<br>
+j) de Vlaamse Raad voor Wetenschap en Innovatie ("VRWI");<br>
+k) de Vlaamse Instelling voor Technologisch onderzoek;<br>
+l) het Fonds voor het Flankerend Economisch Beleid ("Hermesfonds");<br>
+m) Gimvindus;<br>
+n) de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+o) het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
+p) het ESF-Agentschap;<br>
+q) Bloso;<br>
+r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
+<br>
+9° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
+a) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor het woonbeleid en voor het onroerend erfgoed;<br>
+b) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
+c) het Rubiconfonds;<br>
+d) het Agentschap voor Natuur en Bos;<br>
+e) het Instituut voor Natuur- en Bosonderzoek;<br>
+f) de Vlaamse Milieumaatschappij;<br>
+g) de Openbare Vlaamse Afvalstoffenmaatschappij;<br>
+h) de Vlaamse Landmaatschappij;<br>
+i) de Milieu- en Natuurraad van Vlaanderen;<br>
+j) de Vlaamse Milieuholding;<br>
+k) de Vlaamse Maatschappij voor Watervoorziening ("De Watergroep");<br>
+l) het Ondersteunend Centrum van het Agentschap voor Natuur en Bos;<br>
+m) het Eigen Vermogen van het Instituut voor Natuur- en Bosonderzoek;<br>
+n) het Grindfonds;<br>
+o) het Agentschap voor Landbouw en Visserij;<br>
+p) het Instituut voor Landbouw- en Visserijonderzoek;<br>
+q) het Vlaams Centrum voor Agro- en Visserijmarketing;<br>
+r) de Strategische Adviesraad voor Landbouw en Visserij;<br>
+s) het Vlaams Landbouwinvesteringsfonds;<br>
+t) het Financieringsinstrument voor Vlaamse visserij- en aquicultuursector;<br>
+u) het Eigen Vermogen van het Instituut voor Landbouw- en Visserijonderzoek;<br>
+<br>
+10° de Vlaamse minister van Cultuur, Media, Jeugd en Brussel is bevoegd voor:<br>
+a) ...;<br>
+b) ...;<br>
+c) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister bevoegd voor de sport;<br>
+d) het Eigen Vermogen van het Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
+e) het Fonds Culturele Infrastructuur;<br>
+f) het Vlaams Fonds voor de Letteren;<br>
+g) het Topstukkenfonds;<br>
+h) de Vlaamse Radio- en Televisieomroep;<br>
+i) de Vlaamse Regulator voor de Media;<br>
+j) het Vlaams-Brusselfonds;<br>
+k) Muntpunt;<br>
+l) het Agentschap Binnenlands Bestuur, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister van Binnenlands Bestuur, Inburgering, Wonen, Gelijke Kansen en Armoedebestrijding, en met de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand, Toerisme en Dierenwelzijn;
 
 ### ART. 4.
 
