@@ -8,9 +8,32 @@ Dit   decreet regelt een gemeenschaps- en gewestaangelegenheid.<BR   style="WIDO
 
 Aan   het opschrift van het decreet van 2 maart 1999 tot machtiging van de Vlaamse   Regering om een coöperatieve vennootschap met beperkte aansprakelijkheid op te   richten voor de uitvoering van opdrachten met betrekking tot de werving en   selectie van overheidspersoneel, worden de volgende wijzigingen aangebracht   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de woorden "tot machtiging van de Vlaamse regering om" worden vervangen door de   woorden "houdende machtiging tot deelneming in";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   de woorden "op te richten" worden vervangen door de woorden "bevoegd".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 3.
+
+Artikel 1bis van hetzelfde decreet, ingevoegd bij het decreet van 7 mei 2004 en gewijzigd bij het decreet van 12 december 2008, wordt vervangen door wat volgt :<br>
+"Art. 1bis. In dit decreet wordt verstaan onder Jobpunt Vlaanderen : de coöperatieve vennootschap met beperkte aansprakelijkheid Vlaams Selectiecentrum voor het overheidspersoneel - Jobpunt Vlaanderen, ingeschreven in de Kruispuntbank voor Ondernemingen onder nummer 0466.540.504.".
+
+### ART. 4.
+
+<p>In hetzelfde decreet wordt hoofdstuk II, gewijzigd bij de decreten van 7 mei 2004 en 12 december 2008, dat bestaat uit artikel 2, vervangen door wat volgt :<br>
+"Hoofdstuk II. - Machtiging tot deelneming</p>
+
+<p>Art. 2. De instellingen, verenigingen of bedrijven die afhangen van of gecontroleerd worden door de Vlaamse Gemeenschap of het Vlaamse Gewest, maar die niet behoren tot de diensten van de Vlaamse overheid, vermeld in artikel I 2, 1°, van het Vlaams personeelsstatuut van 13 januari 2006, alsook het Vlaams Parlement, de Vlaamse Gemeenschapscommissie, een of meer provincies, een of meer gemeenten, een of meer OCMW's, een of meer intergemeentelijke samenwerkingsverbanden, een of meer instellingen, verenigingen of bedrijven die van de voormelde overheden afhangen of door minstens één van hen gecontroleerd worden, kunnen rechtstreeks of onrechtstreeks deelnemen in Jobpunt Vlaanderen.".</p>
+
 ### ART. 5.
 
 <P>Artikel   3 van hetzelfde decreet, vervangen bij het decreet van 12 december 2008, wordt   vervangen door wat volgt :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   3. § 1. Jobpunt Vlaanderen heeft de taak om zijn vennoten en derden bij te staan   in hun personeelsbeleid en organisatiebeleid, met uitzondering van de diensten   van de Vlaamse overheid, vermeld in artikel I 2, 1°, van het Vlaams   personeelsstatuut van 13 januari 2006.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Jobpunt Vlaanderen kan alle handelingen stellen die rechtstreeks of   onrechtstreeks bijdragen tot de realisatie van zijn taak.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 6.
+
+<p>Artikel 4 van hetzelfde decreet, gewijzigd bij de decreten van 7 mei 2004 en 12 december 2008, wordt vervangen door wat volgt :<br>
+"Art. 4. Jobpunt Vlaanderen zal de door zijn vennoten toevertrouwde opdrachten uitvoeren overeenkomstig de voorwaarden en modaliteiten die worden bepaald in een beheersreglement, vastgesteld door zijn raad van bestuur.</p>
+
+<p>In het beheersreglement zal ook worden bepaald op welke wijze en met behulp van welke berekeningsmethode de werkings- en personeelskosten over de deelnemende vennoten worden verdeeld.".</p>
+
+### ART. 7.
+
+Artikel 5 van hetzelfde decreet, gewijzigd bij de decreten van 7 mei 2004 en 12 december 2008, wordt opgeheven.
 
 ### ART. 8.
 
