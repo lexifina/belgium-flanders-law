@@ -74,7 +74,23 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 17.
 
-<P>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie   met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement   "Kanselarij en Bestuur", het departement "Informatie Vlaanderen", de Dienst van   de Bestuursrechtscolleges en vijf agentschappen zonder rechtspersoonlijkheid   :<BR>1° Studiedienst van de Vlaamse Regering;<BR>2° Audit Vlaanderen.<BR>3°   Agentschap Overheidspersoneel;<BR>4° Agentschap Facilitair Bedrijf;<BR>5°   Agentschap Binnenlands Bestuur.<BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Kanselarij en Bestuur behoren,   zijn :<BR>1° Agentschap voor Geografische Informatie Vlaanderen;<BR>2° de   Rand;<BR>3° Muntpunt;<BR>4° Toegankelijk Vlaanderen;<BR>5° Jobpunt   Vlaanderen;<BR>6° Vlaamse Vereniging voor ICT-personeel (Vlaanderen   connect.);<BR>7° Agentschap Integratie en Inburgering.<BR><BR>§ 3. De   strategische adviesraad die tot het beleidsdomein Kanselarij en Bestuur behoort,   is de Sociaal-Economische Raad van Vlaanderen, onverminderd de opdrachten van de   Sociaal-Economische Raad van Vlaanderen als strategische adviesraad voor andere   beleidsdomeinen en beleidsvelden.</P>
+<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur", het departement "Informatie Vlaanderen", de Dienst van de Bestuursrechtscolleges en vijf agentschappen zonder rechtspersoonlijkheid :<br>
+1° Studiedienst van de Vlaamse Regering;<br>
+2° Audit Vlaanderen.<br>
+3° Agentschap Overheidspersoneel;<br>
+4° Agentschap Facilitair Bedrijf;<br>
+5° Agentschap Binnenlands Bestuur.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij en Bestuur behoren, zijn :<br>
+1° Agentschap voor Geografische Informatie Vlaanderen;<br>
+2° de Rand;<br>
+3° Muntpunt;<br>
+4° Toegankelijk Vlaanderen;<br>
+5° ...<br>
+6° Vlaamse Vereniging voor ICT-personeel (Vlaanderen connect.);<br>
+7° Agentschap Integratie en Inburgering.<br>
+<br>
+§ 3. De strategische adviesraad die tot het beleidsdomein Kanselarij en Bestuur behoort, is de Sociaal-Economische Raad van Vlaanderen, onverminderd de opdrachten van de Sociaal-Economische Raad van Vlaanderen als strategische adviesraad voor andere beleidsdomeinen en beleidsvelden.</p>
 
 ### ART. 18.
 
