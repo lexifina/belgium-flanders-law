@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025991,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-04 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 22 december 1993 houdende oprichting van een cultureel centrum van de Vlaamse Gemeenschap in Bilzen, genaamd \"Landcommanderij Alden Biesen\"",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025991/VolledigDocument?datum=2015-10-16",
+  "source_sha256": "9d9f95774ecd90fd29d977c6e3c73e7e6c05d4aae4a7f6b2bcb233a8e3df9f99",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025991&param=informatie",
+  "as_of": "2015-10-16",
+  "made": "2015-09-04",
+  "gazette": "2015-10-06",
+  "numac": 2015036168,
+  "document_start": "2015-10-16",
+  "document_end": null,
+  "in_force": "2015-10-16",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-10-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
