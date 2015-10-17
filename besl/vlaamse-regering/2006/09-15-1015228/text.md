@@ -56,6 +56,10 @@ De procedure tot aanvraag van een erkenning en van een vaste werkingsenveloppe w
 
 De Vlaamse Regering sluit omtrent elk steunpunt een beheersovereenkomst af   met het bestuur of de besturen van de initiërende instelling of instellingen.   <BR><BR>De beheersovereenkomst is een contract over de bijzondere regels en   voorwaarden waaronder het steunpunt zijn beleidsondersteunende opdracht moet   uitvoeren.<BR><BR>Deze beheersovereenkomst heeft een looptijd van vijf jaar en   omschrijft tenminste :<BR>1° de minimale vereisten inzake de beheersstructuur   van het steunpunt en de aansturingsmogelijkheden van de Vlaamse Regering binnen   deze beheersstructuur; <BR>2° de minimale resultaatsverbintenissen van het   steunpunt; <BR>3° de minimale behoorlijkheidsvereisten op het vlak van het   financieel management, evenals de mogelijkheden om een bepaalde financiële   reserve aan te leggen; <BR>4° de rapporterings- en controlemechanismen,   inzonderheid de wijze van evaluatie van het steunpunt in de tweede helft van   het&nbsp;voorlaatste kalenderjaar van de periode van erkenning; <BR>5° de   remediërende en sanctionerende maatregelen in geval van niet-naleving van de   beheersovereenkomst;<BR>6° de gevallen waarin en de wijze waarop de   beheersovereenkomst tijdens de looptijd ervan kan worden gewijzigd.<BR><BR>In   afwijking van het derde lid hebben de beheersovereenkomsten van de steunpunten   die in 2012 van start zijn gegaan, een looptijd van vier   jaar.<BR><BR>
 
+### ART. 9/1.
+
+De beheersovereenkomsten met de bestaande steunpunten kunnen voor een   duurtijd van ten hoogste zes maanden worden verlengd, ter wille van de afronding   van bepaalde opdrachten van beleidsrelevant onderzoek, en rekening houdend met   de beschikbare financiële reserves.<BR><BR>De aldus verlengde   beheersovereenkomsten blijven ressorteren onder de reglementering die tijdens de   erkenningstermijn op hen van toepassing was.<BR><BR>De verlenging van de   beheersovereenkomsten geeft nimmer aanleiding tot meeruitgaven in hoofde van de   Vlaamse overheid.
+
 ## TITEL III Meta-evaluatie
 
 ### ART. 10.
@@ -82,7 +86,7 @@ De steunpunten die in 2006 werden erkend met het oog op het uitvoeren van beleid
 
 ### ART. 15.
 
-De op 31 december 2006 aflopende beheersovereenkomsten met de op dat ogenblik bestaande steunpunten kunnen voor een duurtijd van ten hoogste vier maanden worden verlengd, ter wille van de afronding van bepaalde opdrachten van beleidsrelevant onderzoek, en rekening houdend met de beschikbare financiële reserves.<br /><br />De aldus verlengde beheersovereenkomsten blijven ressorteren onder de reglementering die op 31 december 2006 op hen van toepassing was. <br /><br />De verlenging van de beheersovereenkomsten geeft nimmer aanleiding tot meeruitgaven in hoofde van de Vlaamse overheid.<br /><br />
+<P>...</P>
 
 ### ART. 16.
 
