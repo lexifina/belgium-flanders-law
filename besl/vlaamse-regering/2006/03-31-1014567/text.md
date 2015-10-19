@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-Het ledenaantal van de representatieve werkgevers- en werknemersorganisaties in de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding wordt vastgesteld op telkens acht.<br /><br />
+Het ledenaantal van de representatieve werknemersorganisaties in de raad   van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding   wordt vastgesteld op tien. Het ledenaantal van de representatieve   werkgeversorganisaties in de raad van bestuur van de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding wordt eveneens vastgesteld op   tien.<BR><BR>
 
 ### ART. 2.
 

@@ -2,16 +2,16 @@
   "codex_id": 1014567,
   "title": "Besluit van de Vlaamse Regering van 2006-03-31 houdende vaststelling van het ledenaantal en de samenstelling van de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014567/VolledigDocument?datum=2006-04-01",
-  "source_sha256": "aaee9b4ec523ff544a6c3acd12961e1eb4795ce2b2cec03ef767a3fd3152a9d0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014567/VolledigDocument?datum=2015-10-19",
+  "source_sha256": "d69e388923513472448ee1f2236ffa096c6fef5a7679e582d967260e842d9426",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014567&param=informatie",
-  "as_of": "2006-04-01",
+  "as_of": "2015-10-19",
   "made": "2006-03-31",
   "gazette": "2006-06-15",
   "numac": 2006035794,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2006-04-01",
+  "in_force": "2015-10-19",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2006-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-10-19; future article versions excluded; article text as the API gives it"
 }
