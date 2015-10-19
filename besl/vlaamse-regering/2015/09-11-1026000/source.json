@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026000,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 tot wijziging van het besluit van de Vlaamse Regering van 31 maart 2006 houdende vaststelling van het ledenaantal en de samenstelling van de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, wat betreft het ledenaantal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026000/VolledigDocument?datum=2015-10-19",
+  "source_sha256": "3f0b775ebb6cfc40aae9a45eb4d81371fc826d82fa3de07f1f0fb8818642054f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026000&param=informatie",
+  "as_of": "2015-10-19",
+  "made": "2015-09-11",
+  "gazette": "2015-10-09",
+  "numac": 2015036185,
+  "document_start": "2015-10-19",
+  "document_end": null,
+  "in_force": "2015-10-19",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
