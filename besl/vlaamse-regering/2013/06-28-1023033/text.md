@@ -8,17 +8,17 @@
 
 ### ART. 1.
 
-<P>Dit besluit bepaalt de data van de opening en de sluiting van de jacht in het   Vlaamse Gewest voor de periode vanaf de dag waarop dit besluit in het Belgisch   Staatsblad wordt bekendgemaakt tot en met 30 juni 2018.<BR></P>  <P>De periode omvat vijf jachtseizoenen die telkens aanvangen op 1 juli en   eindigen op 30 juni van het volgende kalenderjaar. In 2013 zal het jachtseizoen   aanvangen op de dag waarop dit besluit in het Belgisch Staatsblad wordt   bekendgemaakt.<BR></P>
+<P>Dit besluit bepaalt de data van de opening en de sluiting van de jacht in het   Vlaamse Gewest.</P>
 
 ### ART. 2.
 
-Dit besluit wordt aangehaald als : het Jachtopeningsbesluit   2013-2018.<BR>
+Dit besluit wordt aangehaald als : het   Jachtopeningsbesluit.<BR>
 
 ## HOOFDSTUK 2 Openingstijden voor de gewone jacht
 
 ### ART. 3.
 
-<P>De jacht op grof wild is open in de volgende periodes : <BR>1° voor wild   zwijn : van 1 januari tot en met 14 juli en van 1 augustus tot en met 31   december;<BR>2° voor reegeit en reekalf : van 1 januari tot en met 31   maart;<BR>3° voor reebok : van 1 mei tot en met 14 september;<BR>4° voor   edelhert, damhert, en moeflon : van 1 oktober tot en met 31 december.<BR></P>  <P>Voor het jaar 2013 beginnen de periodes, vermeld in de punten 1° en 3° van   het eerste lid, te lopen vanaf de dag waarop dit besluit in het Belgisch   Staatsblad wordt bekendgemaakt. Voor het jaar 2018 lopen de periodes, vermeld in   de punten 1° en 3° van het eerste lid, tot en met 30 juni.<BR></P>
+<P>De jacht op grof wild is open in de volgende periodes : <BR>1° voor wild   zwijn : van 1 januari tot en met 14 juli en van 1 augustus tot en met 31   december;<BR>2° voor reegeit en reekalf : van 1 januari tot en met 31   maart;<BR>3° voor reebok : van 1 mei tot en met 14 september;<BR>4° voor   edelhert, damhert, en moeflon : van 1 oktober tot en met 31 december.<BR></P>  <P>Voor het jaar 2013 beginnen de periodes, vermeld in de punten 1° en 3° van   het eerste lid, te lopen vanaf de dag waarop dit besluit in het Belgisch   Staatsblad wordt bekendgemaakt. </P>
 
 ### ART. 4.
 
@@ -30,13 +30,13 @@ De jacht op waterwild is open in de volgende periodes :<BR>1° voor grauwe   gan
 
 ### ART. 6.
 
-<P>De jacht op overig wild is open in de volgende periodes :<BR>1° voor konijn :   van 15 augustus tot en met 28 of 29 februari;<BR>2° voor houtduif : van 15   september tot en met 28 of 29 februari;<BR>3° voor vos : van 15 oktober tot en   met 28 of 29 februari;<BR>4° voor verwilderde kat : van 1 januari tot en met 31   december.<BR></P>  <P>Voor het jaar 2013 begint de periode, vermeld in punt 4° van het eerste lid,   te lopen vanaf de dag waarop dit besluit in het Belgisch Staatsblad wordt   bekendgemaakt. Voor het jaar 2018 loopt de periode, vermeld in punt 4° van het   eerste lid, tot en met 30 juni.<BR></P>
+<P>De jacht op overig wild is open in de volgende periodes :<BR>1° voor konijn :   van 15 augustus tot en met 28 of 29 februari;<BR>2° voor houtduif : van 15   september tot en met 28 of 29 februari;<BR>3° voor vos : van 15 oktober tot en   met 28 of 29 februari;<BR>4° voor verwilderde kat : van 1 januari tot en met 31   december.<BR></P>  <P>Voor het jaar 2013 begint de periode, vermeld in punt 4° van het eerste lid,   te lopen vanaf de dag waarop dit besluit in het Belgisch Staatsblad wordt   bekendgemaakt. </P>
 
 ## HOOFDSTUK 3 Openingstijden voor de bijzondere bejaging
 
 ### ART. 7.
 
-<P>[... <EM>(vernietigd RvSt, arrest nr. 230.938 van 23 april   2015)</EM><STRONG>]</STRONG></P>
+<P>Bijzondere jacht kan worden uitgeoefend in de gevallen waarbij dat   noodzakelijk is in één of meerdere van de volgende gevallen, overeenkomstig de   voorwaarden vermeld in artikel 4, vierde lid, van het Jachtdecreet van 24 juli   1991 :<BR>1° ter voorkoming van belangrijke schade aan gewassen, vee, bossen,   visserij of wateren;<BR>2° ter voorkoming van belangrijke schade aan andere   goederen in eigendom of gebruik. Deze reden geldt niet ten aanzien van de   vogelsoorten die tot het jachtwild behoren;<BR>3° ter bescherming van de wilde   fauna of flora, of ter instandhouding van de natuurlijke habitats;<BR>4° voor de   veiligheid van het luchtverkeer.<BR><BR>De bijzondere bejaging kan worden   uitgeoefend ten aanzien van de volgende soorten :<BR>1° wild zwijn : van 1   januari tot en met 31 december;<BR>2° edelhert, damhert en moeflon : van 1   januari tot en met 30 september;<BR>3° grauwe gans : van 15 juli tot en met 14   augustus en van 1 oktober tot en met 31 januari;<BR>4° Canadese gans : van 1   april tot en met 14 augustus;<BR>5° wilde eend : van 15 juli tot en met 14   augustus;<BR>6° smient : van 15 oktober tot en met 14 november, voor zover op de   bejaagde percelen door de jachtrechthouder schade kan worden aangetoond aan de   andere landbouwteelten dan permanent grasland;<BR>7° kievit : van 1 januari tot   en met 31 december;<BR>8° konijn : van 1 maart tot en met 14 augustus;<BR>9° vos   : van 15 mei tot en met 14 oktober;<BR>10° houtduif : van 1 maart tot en met 14   september.<BR><BR>De bijzondere jacht moet worden uitgeoefend volgens de   relevante bepalingen van het Jachtvoorwaardenbesluit van 25 april   2014.</P>
 
 ## HOOFDSTUK 4 Wijzigingsbepalingen
 
@@ -52,7 +52,7 @@ In artikel 17 van hetzelfde besluit wordt tussen het derde en vierde lid   een l
 
 ### ART. 10.
 
-Dit besluit treedt in werking op de dag waarop dit besluit in het Belgisch   Staatsblad wordt bekendgemaakt en treedt buiten werking op 30 juni   2018.<BR>
+Dit besluit treedt in werking op de dag waarop dit besluit in het Belgisch   Staatsblad wordt bekendgemaakt.<BR>
 
 ### ART. 11.
 
