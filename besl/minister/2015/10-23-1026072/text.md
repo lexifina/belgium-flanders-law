@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2015-10-23 houdende wijziging van de samenstelling van de adviescommissie voor uitzendactiviteiten
+
+### Aanhef
+
+<P>De   Vlaamse minister van Werk, Economie, Innovatie en Sport,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 13 juli 2007 houdende bevordering van een meer evenwichtige   participatie van vrouwen en mannen in advies- en bestuursorganen van de Vlaamse   overheid, gewijzigd bij decreet van 28 maart 2014;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling,   artikel 20;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het   decreet betreffende de private arbeidsbemiddeling, artikel 16 en 17;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de   bevoegdheden van de leden van de Vlaamse Regering, gewijzigd bij de besluiten   van de Vlaamse Regering van 17 oktober 2014, 27 februari 2015, 13 maart 2015 en   3 juli 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het ministerieel besluit van 6 februari 2015 houdende samenstelling van de   adviescommissie voor uitzendactiviteiten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op de voordracht van de representatieve werkgeversorganisaties,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 1.
+
+De   heer Joeri Van Meenen wordt tot effectief lid van de adviescommissie voor   uitzendactiviteiten benoemd als vertegenwoordiger van de representatieve   werkgeversorganisaties in vervanging van de heer Simon November, die eervol   ontslag wordt verleend.
+
+### ART. 2.
+
+Mevr.   Nicola Loxham wordt tot plaatsvervangend lid van de adviescommissie voor   uitzendactiviteiten benoemd als vertegenwoordiger van de representatieve   werkgeversorganisaties in vervanging van Mevr. Kelly Oerlemans, die eervol   ontslag wordt verleend.
+
+### ART. 3.
+
+Dit   besluit heeft uitwerking met ingang van 23 oktober 2015.
