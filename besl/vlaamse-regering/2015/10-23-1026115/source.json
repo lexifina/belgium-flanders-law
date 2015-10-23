@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026115,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-23 tot uitvoering van de tweede begrotingsaanpassing van het begrotingsjaar 2015 aangaande het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026115/VolledigDocument?datum=2015-10-23",
+  "source_sha256": "86d46ea28cad36ebe8358278849d3d490e314ab39ab851791b02fd06737d1643",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026115&param=informatie",
+  "as_of": "2015-10-23",
+  "made": "2015-10-23",
+  "gazette": "2015-11-25",
+  "numac": 2015036423,
+  "document_start": "2015-10-23",
+  "document_end": null,
+  "in_force": "2015-10-23",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
