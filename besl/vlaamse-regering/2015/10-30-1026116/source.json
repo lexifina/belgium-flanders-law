@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026116,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026116/VolledigDocument?datum=2015-10-23",
+  "source_sha256": "aa97d1a43ce2c590f49f89831707fd12f0db06b0e130b3be02da87e4fd15ef60",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026116&param=informatie",
+  "as_of": "2015-10-23",
+  "made": "2015-10-30",
+  "gazette": "2015-11-25",
+  "numac": 2015036419,
+  "document_start": null,
+  "document_end": null,
+  "in_force": "2015-10-23",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2015-10-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
