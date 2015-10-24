@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026012,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 houdende indeling bij de gemeentewegen van de parallelweg Kareelstraat van de gewestweg N45 tussen kilometerpunt 0,075 en 0,859 op het grondgebied van de stad Aalst",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026012/VolledigDocument?datum=2015-10-24",
+  "source_sha256": "34ce5216d971ed55f6024717fbf60ce2ceaa2045ab5ac26085d6c7db42cba5d7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026012&param=informatie",
+  "as_of": "2015-10-24",
+  "made": "2015-09-11",
+  "gazette": "2015-10-14",
+  "numac": 2015036184,
+  "document_start": "2015-10-24",
+  "document_end": null,
+  "in_force": "2015-10-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
