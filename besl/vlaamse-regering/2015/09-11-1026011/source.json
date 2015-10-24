@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026011,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 houdende indeling bij de gemeentewegen van de gewezen op- en afrit te Brecht langs de A1-E19 tussen kilometerpunt 52.4 en 52.8 op het grondgebied van de gemeente Brecht",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026011/VolledigDocument?datum=2015-10-24",
+  "source_sha256": "73d5c876f64dac20d3656856e0e79c527c4e4b9cb83bc5176596f776bfbfd2e3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026011&param=informatie",
+  "as_of": "2015-10-24",
+  "made": "2015-09-11",
+  "gazette": "2015-10-14",
+  "numac": 2015036183,
+  "document_start": "2015-10-24",
+  "document_end": null,
+  "in_force": "2015-10-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
