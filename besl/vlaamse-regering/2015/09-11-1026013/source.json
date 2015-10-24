@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026013,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 houdende indeling bij de gemeentewegen van de gewestweg N754-0 Herk-de-Stad - Borgloon (Russeltstraat) tussen mp. 14.488 en mp. 14.565 en mp. 15.810 en mp. 15.866 op het grondgebied van de gemeente Wellen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026013/VolledigDocument?datum=2015-10-24",
+  "source_sha256": "60146e58f7981257397b0f1c46f8f1cd1294d6bf9711e1d09ba4891c42b0db77",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026013&param=informatie",
+  "as_of": "2015-10-24",
+  "made": "2015-09-11",
+  "gazette": "2015-10-14",
+  "numac": 2015036191,
+  "document_start": "2015-10-24",
+  "document_end": null,
+  "in_force": "2015-10-24",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-10-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
