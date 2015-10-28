@@ -78,3 +78,13 @@ Aan artikel 1, § 1, eerste lid, van het besluit van de Vlaamse Regering van 13 
 ## HOOFDSTUK 2. Doelgroepverminderingen
 
 ## HOOFDSTUK 3. Slotbepalingen
+
+### ART 8.
+
+Hoofdstuk 1 van dit besluit heeft uitwerking met ingang van 1 juli 2015 en treedt buiten werking op 31 december 2022.<br>
+<br>
+Hoofdstuk 2 van dit besluit treedt inwerking op 1 januari 2019, met uitzondering van artikel 6 dat uitwerking heeft op 2 juli 2016.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid, is belast met de uitvoering van dit besluit.
