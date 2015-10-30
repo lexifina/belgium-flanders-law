@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026221,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 houdende herverdeling van de provisie apparaatskredieten overgedragen bevoegdheden in het kader van de 6de staatshervorming begrotings-artikel JB0 1JBG2AA PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026221/VolledigDocument?datum=2015-10-30",
+  "source_sha256": "159d7b596cb10ea5f65161d345657b7b8f00618e07d0951b81494acf7a83f0c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026221&param=informatie",
+  "as_of": "2015-10-30",
+  "made": "2015-10-30",
+  "gazette": "2015-12-18",
+  "numac": 2015036524,
+  "document_start": "2015-10-30",
+  "document_end": null,
+  "in_force": "2015-10-30",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-10-30; oldest version available; future article versions excluded; article text as the API gives it"
+}
