@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025872,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot rangschikking van onbevaarbare waterlopen op het grondgebied van de provincie West-Vlaanderen in een hogere of lagere categorie zoals bedoeld in artikel 4bis, § 3, van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025872/VolledigDocument?datum=2015-11-01",
+  "source_sha256": "e14d0a5b6ab43844cde226848386395552b034d367abec93c82bd00069982b74",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025872&param=informatie",
+  "as_of": "2015-11-01",
+  "made": "2015-07-17",
+  "gazette": "2015-09-02",
+  "numac": 2015036081,
+  "document_start": "2015-11-01",
+  "document_end": null,
+  "in_force": "2015-11-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
