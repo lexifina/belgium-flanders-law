@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026108,
+  "title": "Decreet van 2015-11-13 houdende dringende tijdelijke maatregelen in het kader van een stijgend aantal anderstalige kleuters en inzake flexibilisering van de programmatiemogelijkheden onthaalonderwijs voor anderstalige nieuwkomers in het secundair onderwijs",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026108/VolledigDocument?datum=2015-11-01",
+  "source_sha256": "70db3b441e21a533a7438ce40e28fd8fc25617a3af7e5a483df2238190e28315",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026108&param=informatie",
+  "as_of": "2015-11-01",
+  "made": "2015-11-13",
+  "gazette": "2015-11-23",
+  "numac": 2015036436,
+  "document_start": "2015-11-01",
+  "document_end": null,
+  "in_force": "2015-11-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
