@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025873,
+  "title": "Besluit van de Vlaamse Regering van 2015-07-17 tot rangschikking van onbevaarbare waterlopen in eerste categorie op het grondgebied van de provincie Antwerpen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025873/VolledigDocument?datum=2015-11-01",
+  "source_sha256": "b10b80523b6fbdba96e77ae85f9d64a0674e2bf79d07b6c51a3e9edfe58de8ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025873&param=informatie",
+  "as_of": "2015-11-01",
+  "made": "2015-07-17",
+  "gazette": "2015-09-02",
+  "numac": 2015036082,
+  "document_start": "2015-11-01",
+  "document_end": null,
+  "in_force": "2015-11-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
