@@ -406,9 +406,10 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 	</tbody>
 </table>
-&nbsp;<br>
+&nbsp;&nbsp;<br>
 <br>
 &nbsp;<br>
+<br>
 &nbsp;
 
 ### BIJLAGE
