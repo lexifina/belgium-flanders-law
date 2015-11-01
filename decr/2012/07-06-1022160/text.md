@@ -748,11 +748,11 @@ De doelstelling van de werkingssubsidie, vermeld in artikel 169, is het stimuler
 
 ### ART. 171.
 
-De beleidsperiode slaat op een periode van maximaal vijf jaar, die eindigt op 31 december van het tweede volledige jaar van de legislatuur van het Vlaams Parlement.<br /><br />
+De beleidsperiode slaat op een periode van maximaal vijf jaar, die eindigt   op 31 december van het&nbsp;eerste volledige jaar van de legislatuur van het   Vlaams Parlement.<BR><BR>
 
 ### ART. 172.
 
-Om in aanmerking te komen voor een werkingssubsidie, moet de Vlaamse Gemeenschapscommissie een aanvraag opstellen voor de beleidsperiode, in overleg met de lokale besturen en belanghebbenden van het tweetalig gebied Brussel-Hoofdstad.<br /><br />
+Om in aanmerking te komen voor een werkingssubsidie, moet de Vlaamse   Gemeenschapscommissie een aanvraag opstellen voor de beleidsperiode, in overleg   met de lokale besturen en belanghebbenden van het tweetalig gebied   Brussel-Hoofdstad.<BR><BR>De aanvraag, vermeld in het eerste lid, wordt   ingediend op 1 april van het eerste jaar van de   beleidsperiode.<BR>
 
 ### ART. 173.
 
@@ -899,3 +899,7 @@ Met behoud van de toepassing van artikel 195 worden aanvragen voor een projectsu
 ### ART. 205.
 
 De pool van deskundigen voor het samenstellen van een visitatiecommissie, de adviescommissie en de beoordelingscommissies die aangesteld zijn op basis van het Cultureel-erfgoeddecreet van 23 mei 2008 behouden die aanstelling voor de toepassing van hoofdstuk 8 van dit decreet, voor de duur waarvoor deze aanstelling was verleend.<br /><br />De duur van de aanstelling, vermeld in het eerste lid kan vroegtijdig ingekort worden, door op basis van dit decreet een nieuwe pool van deskundigen, adviescommissie of beoordelingscommissie samen te stellen die de werking van de in het eerste lid vermelde pool van deskundigen, adviescommissie of beoordelingscommissie overneemt.<br /><br />
+
+### ART. 206.
+
+De volgende beleidsperiodes, die lopen op 1 januari 2015, worden   verlengd:<BR>1° de beleidsperiodes, vermeld in artikel 22, derde lid, artikel 79   en artikel 86, worden verlengd met een termijn van één jaar;<BR>2° de   beleidsperiodes, vermeld in artikel 45, artikel 57, artikel 63 en artikel 101,   worden verlengd met een termijn van twee jaar.<BR><BR>De beleidsperiode, vermeld   in artikel 51, die start op 1 januari 2016, wordt ingekort met een termijn van   twee jaar.<BR><BR>De einddatum van de beleidsperiodes, vermeld in het eerste   lid, wordt verlaat met de termijn, vermeld in het eerste lid. De einddatum van   de beleidsperiode, vermeld in het tweede lid, wordt vervroegd met de termijn,   vermeld in het tweede lid.<BR><BR>De begindatum van de beleidsperiodes die   volgen op de beleidsperiodes, vermeld in het eerste lid, wordt verlaat met de   termijn, vermeld in het eerste lid, en de periode ervan wordt ingekort met die   termijn. De begindatum van de beleidsperiode die volgt op de beleidsperiode,   vermeld in het tweede lid, wordt vervroegd met de termijn, vermeld in het tweede   lid, en de periode ervan wordt verlengd met die termijn.
