@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026263,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 tot wijziging van het besluit van de Vlaamse regering van 17 juni 1997 betreffende de personeelsformatie in het gewoon basisonderwijs en het besluit van de Vlaamse regering van 24 mei 2002 inzake de organisatie van onthaalonderwijs voor anderstalige nieuwkomers in het gewoon voltijds secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026263/VolledigDocument?datum=2015-11-01",
+  "source_sha256": "166e39dd10a2bbf278014c81c4bb94f0ca5583cfcf535849569f1d54a04adc47",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026263&param=informatie",
+  "as_of": "2015-11-01",
+  "made": "2015-12-04",
+  "gazette": "2015-12-29",
+  "numac": 2015036593,
+  "document_start": "2015-11-01",
+  "document_end": null,
+  "in_force": "2015-11-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
