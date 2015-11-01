@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026109,
+  "title": "Decreet van 2015-11-13 houdende wijziging van artikel 110/5 van de Codex Secundair Onderwijs, wat het recht op inschrijving betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026109/VolledigDocument?datum=2015-11-01",
+  "source_sha256": "4d484ed5cdc01d5ba3cfa4a52f7e88f5d93a91528ad786ed655dbb1135ac1d2d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026109&param=informatie",
+  "as_of": "2015-11-01",
+  "made": "2015-11-13",
+  "gazette": "2015-11-23",
+  "numac": 2015036425,
+  "document_start": "2015-11-01",
+  "document_end": null,
+  "in_force": "2015-11-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
