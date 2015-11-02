@@ -2,16 +2,16 @@
   "codex_id": 1026052,
   "title": "Decreet van 2015-10-16 houdende invoering van een overgangsmaatregel inzake het eurovignet en houdende wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013 in dat verband",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026052/VolledigDocument?datum=2015-11-01",
-  "source_sha256": "b804569f735b9f99e71b4fce49293ee9706ab51726aa2d834c3b4eadd26b0bf2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026052/VolledigDocument?datum=2015-11-02",
+  "source_sha256": "40591765c3873b6833956659569a9b511d7bf2e256b09119495227b9c44c2175",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026052&param=informatie",
-  "as_of": "2015-11-01",
+  "as_of": "2015-11-02",
   "made": "2015-10-16",
   "gazette": "2015-10-23",
   "numac": 2015036283,
   "document_start": "2015-11-02",
   "document_end": null,
-  "in_force": "2015-11-01",
-  "article_versions": 1,
-  "record_form": "consolidated version as in force on 2015-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-11-02",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-11-02; future article versions excluded; article text as the API gives it"
 }
