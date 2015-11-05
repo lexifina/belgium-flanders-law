@@ -2,16 +2,16 @@
   "codex_id": 1025716,
   "title": "Ministerieel besluit van 2015-07-14 betreffende de verdeling van de Gewestwaarborg toegestaan in de periode van 1 juli 2015 tot 30 december 2015 aan de erkende kredietmaatschappijen voor de aflossing van de hoofdsom en de interesten van de kredieten bestemd voor de financiering van sociale leningen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025716/VolledigDocument?datum=2015-07-14",
-  "source_sha256": "88d346c296f2c795feb220482b4df1a8ba0b0e123cc4b03666c43dc451cbe393",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025716/VolledigDocument?datum=2015-11-05",
+  "source_sha256": "0a04905eb7caf943f8eb4e5e8ebc7db4ac80f548ae127bd77d29308ae404b31a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025716&param=informatie",
-  "as_of": "2015-07-14",
+  "as_of": "2015-11-05",
   "made": "2015-07-14",
   "gazette": "2015-08-18",
   "numac": 2015036005,
   "document_start": "2015-07-14",
   "document_end": null,
-  "in_force": "2015-07-14",
+  "in_force": "2015-11-05",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2015-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-11-05; future article versions excluded; article text as the API gives it"
 }
