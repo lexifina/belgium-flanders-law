@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026059,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-02 houdende indeling bij de gemeentewegen van de gewestweg N10a tussen kilometerpunt 0,000 en 0,400 op het grondgebied van de stad Aarschot",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026059/VolledigDocument?datum=2015-11-07",
+  "source_sha256": "15401f454fceb291fc2b64007d2dd8567f6a3e8392f2f82270542d50607a3cdc",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026059&param=informatie",
+  "as_of": "2015-11-07",
+  "made": "2015-10-02",
+  "gazette": "2015-10-28",
+  "numac": 2015036285,
+  "document_start": "2015-11-07",
+  "document_end": null,
+  "in_force": "2015-11-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-11-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
