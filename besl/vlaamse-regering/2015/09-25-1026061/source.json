@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026061,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-25 tot wijziging van het besluit van de Vlaamse Regering van 21 december 2012 betreffende toerismesubsidies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026061/VolledigDocument?datum=2015-11-09",
+  "source_sha256": "8214e4537e80d135a82e2ced83c21a048160202fbc22ef7f6037f2c460ef391f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026061&param=informatie",
+  "as_of": "2015-11-09",
+  "made": "2015-09-25",
+  "gazette": "2015-10-30",
+  "numac": 2015036286,
+  "document_start": "2015-11-09",
+  "document_end": null,
+  "in_force": "2015-11-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-11-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
