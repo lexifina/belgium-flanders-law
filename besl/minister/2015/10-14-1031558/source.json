@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031558,
+  "title": "Ministerieel besluit van 2015-10-14 houdende instelling van het natuurinrichtingsproject Vrieselhof",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031558/VolledigDocument?datum=2015-11-13",
+  "source_sha256": "f5cea43cf539b5019b20b642ef124c20e3d5bf1b52bbc0f9f7b724461e3f26cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031558&param=informatie",
+  "as_of": "2015-11-13",
+  "made": "2015-10-14",
+  "gazette": "2015-11-03",
+  "numac": 2015204912,
+  "document_start": "2015-11-13",
+  "document_end": null,
+  "in_force": "2015-11-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
