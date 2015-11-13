@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026171,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-13 tot uitvoering van de eerste aanpassing van de algemene uitgavenbegroting voor het begrotingsjaar 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026171/VolledigDocument?datum=2015-11-13",
+  "source_sha256": "efcd229381183dcd4fd0db26e5366e785dbb8a739ce5bbe5fb4d9dbde2c3a622",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026171&param=informatie",
+  "as_of": "2015-11-13",
+  "made": "2015-11-13",
+  "gazette": "2015-12-07",
+  "numac": 2015036489,
+  "document_start": "2015-11-13",
+  "document_end": null,
+  "in_force": "2015-11-13",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-11-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
