@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026014,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-11 tot wijziging van het besluit van de Vlaamse Regering van 14 december 1983 houdende sommige maatregelen tot harmonisatie van de werking en van de presentiegelden en vergoedingen van adviesorganen en het besluit van de Vlaamse Regering van 5 december 2003 ter uitvoering van het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026014/VolledigDocument?datum=2015-11-14",
+  "source_sha256": "12fa0de42c397ac81177017e49ab8cc94ac6a4380abbda7f21c1e288d84ba665",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026014&param=informatie",
+  "as_of": "2015-11-14",
+  "made": "2015-09-11",
+  "gazette": "2015-10-15",
+  "numac": 2015036178,
+  "document_start": "2015-11-14",
+  "document_end": null,
+  "in_force": "2015-11-14",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2015-11-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
