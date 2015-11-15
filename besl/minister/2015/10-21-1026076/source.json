@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026076,
+  "title": "Ministerieel besluit van 2015-10-21 houdende vastlegging van de tabel betreffende de hoeveelheid aardgas die de huishoudelijke afnemer nodig heeft om tot het einde van de winterperiode te beschikken over een minimale verwarming van de woning",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026076/VolledigDocument?datum=2015-11-15",
+  "source_sha256": "8dd8fd0110dd4625c4a0d1f9c0dc962957148453bc788e3947007f2b9272e4b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026076&param=informatie",
+  "as_of": "2015-11-15",
+  "made": "2015-10-21",
+  "gazette": "2015-11-10",
+  "numac": 2015036333,
+  "document_start": "2015-11-15",
+  "document_end": null,
+  "in_force": "2015-11-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-11-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
