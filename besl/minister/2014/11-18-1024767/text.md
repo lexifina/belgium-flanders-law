@@ -6,16 +6,16 @@
 
 ### ART. 1.
 
-De tabel, vermeld in artikel 5.4.7, derde lid van het Energiebesluit van   19 november 2010 gaat als bijlage 1 bij dit besluit.<BR>
+...
 
 ### ART. 2.
 
-Het ministerieel besluit van 13 september 2013 houdende vastlegging van de   tabel betreffende de hoeveelheid aardgas die de huishoudelijke afnemer nodig   heeft om tot het einde van de winterperiode te beschikken over een minimale   verwarming van de woning wordt opgeheven.<BR>
+...
 
 ### ART. 3.
 
-Dit besluit treedt in werking op 15 november 2014.<BR>
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2014/12/04_2.pdf#page=39">Bijlage</A>
+...
