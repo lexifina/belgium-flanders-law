@@ -128,7 +128,7 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen voldoet, 
 
 ### ART. 25.
 
-Het erkende Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de begrotingskredieten, een subsidie van 500.000 euro voor personeels- en werkingskosten.<br /><br />Het Steunpunt Adoptie behoudt zijn recht op subsidie zolang het erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikelen 27 tot en met 31.<br /><br />
+Het erkende Steunpunt Adoptie ontvangt jaarlijks, binnen de marge van de   begrotingskredieten, een subsidie van 495.000 euro voor personeels- en   werkingskosten.<BR><BR>Het Steunpunt Adoptie behoudt zijn recht op subsidie   zolang het erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften,   vermeld in artikelen 27 tot en met 31.<BR><BR>
 
 ### ART. 26.
 
@@ -182,7 +182,7 @@ Om de kwaliteit van de dienstverlening te garanderen en te bestendigen voldoen d
 
 ### ART. 36.
 
-§ 1. Elke erkende dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie ontvangt jaarlijks vanaf 2014, binnen de marge van de begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van 286.000 euro.<br /><br />De basissubsidie wordt vermeerderd met 3250 euro per bijkomend gerealiseerd maatschappelijk onderzoek, te tellen vanaf 88 gerealiseerde maatschappelijke onderzoeken als vermeld in artikel 1231-29 van het Gerechtelijk Wetboek. <br /><br />§ 2. De volgende onderzoeken tellen mee voor 75 % van een gerealiseerd maatschappelijk onderzoek als vermeld in artikel 1231-29 van het Gerechtelijk Wetboek : <br />1° een actualisering van het verslag van maatschappelijk onderzoek als vermeld in artikel 1231-33/3 van het Gerechtelijk Wetboek;<br />2° maatschappelijke onderzoeken bij personen die al een kind interlandelijk hebben geadopteerd;<br />3° bijkomende maatschappelijke onderzoeken.<br /><br />§ 3. De dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie behoudt zijn recht op subsidie zolang hij erkend is door Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikelen 38 tot en met 42.<br /><br />
+§ 1. Elke erkende dienst voor maatschappelijk onderzoek inzake   interlandelijke adoptie ontvangt jaarlijks vanaf 2014, binnen de marge van de   begrotingskredieten, een basissubsidie voor personeels- en werkingskosten van   283.000 euro.<BR><BR>De basissubsidie wordt vermeerderd met 3250 euro per   bijkomend gerealiseerd maatschappelijk onderzoek, te tellen vanaf 88   gerealiseerde maatschappelijke onderzoeken als vermeld in artikel 1231-29 van   het Gerechtelijk Wetboek. <BR><BR>§ 2. De volgende onderzoeken tellen mee voor   75 % van een gerealiseerd maatschappelijk onderzoek als vermeld in artikel   1231-29 van het Gerechtelijk Wetboek : <BR>1° een actualisering van het verslag   van maatschappelijk onderzoek als vermeld in artikel 1231-33/3 van het   Gerechtelijk Wetboek;<BR>2° maatschappelijke onderzoeken bij personen die al een   kind interlandelijk hebben geadopteerd;<BR>3° bijkomende maatschappelijke   onderzoeken.<BR><BR>§ 3. De dienst voor maatschappelijk onderzoek inzake   interlandelijke adoptie behoudt zijn recht op subsidie zolang hij erkend is door   Kind en Gezin en voldoet aan de subsidievoorschriften, vermeld in artikelen 38   tot en met 42.<BR><BR>
 
 ### ART. 37.
 
@@ -200,7 +200,7 @@ De dienst voor maatschappelijk onderzoek inzake interlandelijke adoptie houdt ee
 
 ### ART. 40.
 
-Ten minste 70 % van de subsidie-enveloppe moet besteed worden aan personeelskosten.<br /><br />Onder personeelskosten worden verstaan : <br />1° brutosalaris met inbegrip van wettelijk verplichte werkgeversbijdragen;<br />2° vakantiegeld;<br />3° eindejaarspremie;<br />4° woon-werkverkeer;<br />5° eventueel de volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche : maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm, laptop, internet;<br />6° opleidingen, als het gaat om opleidingen die rechtstreeks verband houden met de werking van het Steunpunt Adoptie;<br />7° andere kosten, zoals arbeidsongevallenverzekering, bedrijfsgeneeskundige dienst.<br /><br />
+Ten minste 70 % van de subsidie-enveloppe moet besteed worden aan   personeelskosten.<BR><BR>Onder personeelskosten worden verstaan : <BR>1°   brutosalaris met inbegrip van wettelijk verplichte werkgeversbijdragen;<BR>2°   vakantiegeld;<BR>3° eindejaarspremie;<BR>4° woon-werkverkeer;<BR>5° eventueel de   volgende extralegale voordelen, als ze opgenomen zijn in de loonfiche :   maaltijdcheques, bedrijfswagen, groeps- en hospitalisatieverzekering, gsm,   laptop, internet;<BR>6° opleidingen, als het gaat om opleidingen die   rechtstreeks verband houden met de werking van de dienst voor maatschappelijk   onderzoek;<BR>7° andere kosten, zoals arbeidsongevallenverzekering,   bedrijfsgeneeskundige dienst.<BR><BR>
 
 ### ART. 41.
 
