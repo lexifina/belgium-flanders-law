@@ -150,6 +150,10 @@ Aan de vertrouwenscentra kindermishandeling wordt vanaf 2011 jaarlijks een subsi
 
 § 1. Aan het Vertrouwenscentrum Kindermishandeling Antwerpen in Antwerpen   wordt vanaf 2014 jaarlijks een aanvullende subsidie toegekend van 184.561,67   euro (honderd vierentachtigduizend vijfhonderd eenenzestig euro zevenenzestig   cent) als investering in de provinciale werking.<BR><BR>§ 2. Aan het   Vertrouwenscentrum Kindermishandeling West-Vlaanderen in Brugge wordt vanaf 2014   jaarlijks een aanvullende subsidie toegekend van 27.663,16 euro   (zevenentwintigduizend zeshonderd drieënzestig euro zestien cent) als   investering in de provinciale werking.<BR><BR>§ 3. De bedragen, vermeld in   paragraaf 1 en 2, worden jaarlijks gekoppeld aan het indexcijfer dat berekend en   benoemd wordt voor de toepassing van artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van   het concurrentievermogen.<BR><BR>De bedragen, vermeld in paragraaf 1, zijn   vastgesteld op basis van de gezondheidsindex van december 2012 met basisjaar   2004, namelijk 120,06.
 
+### ART. 30septies.
+
+De subsidies vermeld in artikel 30, § 1 en § 2 en in artikel 30quinquies   worden verminderd met 0,75 % ten opzichte van 2014.
+
 ### ART. 31.
 
 Elk centrum besteedt 70 % tot 85 % van het totale subsidiebedrag, bedoeld in artikel 30, § 1 en § 2, aan personeelskosten en 15 % tot 30 % aan werkingskosten.
