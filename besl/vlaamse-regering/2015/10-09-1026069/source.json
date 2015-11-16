@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026069,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-09 tot wijziging van een aantal subsidiebepalingen in de sectorale regelgeving van de vertrouwenscentra kindermishandeling en de interlandelijke adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026069/VolledigDocument?datum=2015-11-16",
+  "source_sha256": "9df2867af50a30719fa7589e42d1a5359dcf8528273f9221791752de5d21b97e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026069&param=informatie",
+  "as_of": "2015-11-16",
+  "made": "2015-10-09",
+  "gazette": "2015-11-06",
+  "numac": 2015036298,
+  "document_start": "2015-11-16",
+  "document_end": null,
+  "in_force": "2015-11-16",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-11-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
