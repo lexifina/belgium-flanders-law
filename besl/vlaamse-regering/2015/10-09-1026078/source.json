@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026078,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-09 tot wijziging van artikel 3 en artikel 3/1 van het besluit van de Vlaamse Regering van 5 mei 2000 tot aanwijzing van de handelingen in de zin van artikel 4.1.1, 5°, artikel 4.4.7, § 2, en artikel 4.7.1, § 2, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening en tot regeling van het vooroverleg met de Vlaamse Bouwmeester",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026078/VolledigDocument?datum=2015-11-22",
+  "source_sha256": "baa66718235a746137cc037a8790b4875b51c38d75a7e856a72a7bbd377e9222",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026078&param=informatie",
+  "as_of": "2015-11-22",
+  "made": "2015-10-09",
+  "gazette": "2015-11-12",
+  "numac": 2015036320,
+  "document_start": "2015-11-22",
+  "document_end": null,
+  "in_force": "2015-11-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-11-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
