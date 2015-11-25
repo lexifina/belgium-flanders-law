@@ -34,7 +34,7 @@ II 1. De Maatschappij wordt bestuurd door een raad van bestuur. De samenstelling
 
 ### ART. II 2.
 
-II 2. In de Maatschappij is er een directieraad die bestaat uit:<br /><br />1° de leidend ambtenaar;<br /><br />2° de adjunct-leidend ambtenaren.<br /><br />De directieraad wordt voorgezeten door de leidend ambtenaar. De voorzitter wijst het lid van de directieraad aan dat hem in geval van afwezigheid of verhindering vervangt.
+In de Maatschappij is er een directieraad waarvan de samenstelling wordt   bepaald door de Raad van Bestuur.
 
 ### ART. II 3.
 
@@ -698,7 +698,7 @@ VIII 39. [ ...  <span class="reference">(opgeh. B.V.R. 3 februari 2006, art. 19,
 
 ### ART. VIII 40.
 
-VIII 40. Het vergelijkend examen voor overgang naar het hogere niveau staat open:<br /><br />1° voor bevordering tot een graad van rang K1:<br /><br />a) voor alle statutaire personeelsleden van niveau Mb van de Maatschappij die ten minste vier jaar anciënniteit tellen in dat niveau;<br /><br />b) voor alle statutaire personeelsleden van niveau Ma van de Maatschappij die ten minste drie jaar anciënniteit tellen in dat niveau;<br /><br />2° voor bevordering tot een graad van rang Ma1, voor de statutaire personeelsleden van niveau Mb van de Maatschappij die in het bezit zijn van het vereiste diploma;<br /><br />3° voor bevordering tot een graad van rang Mb1, voor alle statutaire personeelsleden van niveau U van de Maatschappij die ten minste twee jaar anciënniteit tellen in dat niveau;<br /><br />4° voor bevordering tot een graad van rang U1, voor alle statutaire personeelsleden van niveau W van de Maatschappij en die tenminste twee jaar anciënniteit tellen in dat niveau.
+Het vergelijkend examen voor overgang naar het hogere niveau staat   open:<BR>1° voor bevordering tot een graad van rang K1:<BR>a) voor alle   statutaire personeelsleden van niveau Mb van de Maatschappij die ten minste vier   jaar anciënniteit tellen in dat niveau;<BR>b) voor alle statutaire   personeelsleden van niveau Ma van de Maatschappij die ten minste drie jaar   anciënniteit tellen in dat niveau;<BR>2° voor bevordering tot een graad van rang   Ma1, voor alle statutaire personeelsleden van niveau Mb van de Maatschappij die   ten minste drie jaar anciënniteit tellen in dat niveau;;<BR>3° voor bevordering   tot een graad van rang Mb1, voor alle statutaire personeelsleden van niveau U   van de Maatschappij die ten minste twee jaar anciënniteit tellen in dat   niveau;<BR>4° voor bevordering tot een graad van rang U1, voor alle statutaire   personeelsleden van niveau W van de Maatschappij en die tenminste twee jaar   anciënniteit tellen in dat niveau.
 
 ### ART. VIII 41.
 
@@ -1156,7 +1156,7 @@ XI 8. In afwijking van het voorgaande artikel is het statutaire personeelslid da
 
 ### ART. XI 9.
 
-§ 1. De statutaire personeelsleden genieten jaarlijkse vakantiedagen   waarvan vijf werkdagen op-eenvolgend genomen dienen te worden en waarvan het   aantal naar gelang van hun leeftijd als volgt wordt bepaald:<BR>1° minder dan   vijfenveertig jaar: 26&nbsp;werkdagen;<BR>2° van vijfenveertig tot   negenenveertig jaar: 27&nbsp;werkdagen;<BR>3° vanaf vijftig jaar:   28&nbsp;werkdagen.<BR><BR>Voor het bepalen van het aantal vakantiedagen wordt de   leeftijd in aanmerking genomen die het statutaire personeelslid bereikt in de   loop van het dienstjaar.<BR><BR>§ 2. Onverminderd § 1 worden de vakantiedagen   genomen naar keuze van het statutaire personeelslid doch met inachtneming van de   behoeften van de dienst.
+§ 1. De statutaire personeelsleden genieten jaarlijkse vakantiedagen   waarvan vijf werkdagen op-eenvolgend genomen dienen te worden en waarvan het   aantal naar gelang van hun leeftijd als volgt wordt bepaald:<BR>1° minder dan   vijfenveertig jaar: 26&nbsp;werkdagen;<BR>2° van vijfenveertig tot   negenenveertig jaar: 27&nbsp;werkdagen;<BR>3° vanaf vijftig jaar:   28&nbsp;werkdagen.<BR><BR>Voor het bepalen van het aantal vakantiedagen wordt de   leeftijd in aanmerking genomen die het statutaire personeelslid bereikt in de   loop van het dienstjaar.<BR><BR>§ 2. Onverminderd § 1 worden de vakantiedagen   genomen naar keuze van het statutaire personeelslid doch met inachtneming van de   behoeften van de dienst.<BR><BR>§ 3. De jaarlijkse vakantiedagen moeten worden   opgenomen voor het einde van de kerstvakantie in het onderwijs, met uitzondering   van vijf vakantiedagen die mogen worden overgedragen naar het volgende   dienstjaar, op voorwaarde dat zij worden opgenomen voor het einde van de   paasvakantie in het onderwijs.<BR><BR>Onverminderd de toepassing van het eerste   lid, worden de vakantiedagen die niet konden worden opgenomen in het lopend   dienstjaar ingevolge ziekte, beroepsziekte of arbeidsongeval van het statutaire   personeelslid, volledig overgedragen naar het volgend dienstjaar.<BR><BR>Ingeval   het statutaire personeelslid door ziekte, beroepsziekte of arbeidsongeval zijn   vakantiedagen niet heeft kunnen opnemen vóór de pensionering, worden de   bepalingen van artikel XIII 41bis toegepast.
 
 ### ART. XI 10.
 
@@ -1861,6 +1861,10 @@ XIII 40. De regeling inzake de indexkoppeling van de salarissen zoals bepaald in
 XIII 41. Hoofdstuk IV van deze titel is niet van toepassing op de stagedoende statutaire personeelsleden.
 
 ## [HOOFDSTUK IXBIS VERGOEDING VOOR NIET-OPGENOMEN VAKANTIEDAGEN (ing. BVR 30 oktober 2015, art. 16, I: 25 november 2015)]
+
+### ART. XIII 41bis.
+
+§ 1. Als een personeelslid het vakantieverlof waarop hij recht heeft, niet   heeft kunnen opnemen voor het einde van de arbeidsrelatie(s) bij de   Maatschappij, worden de niet opgenomen vakantiedagen uitbetaald.<BR><BR>In geval   van overlijden van het personeelslid worden de niet opgenomen vakantiedagen   uitbetaald aan de erfgenamen.<BR><BR>§ 2. Voor de toepassing van § 1 is het   salaris dat in aanmerking moet worden genomen voor de uitbetaling, gelijk aan   het salaris zoals vastgesteld in de salarisschaal, voor volledige prestaties en   eventueel aangevuld met de haard- en standplaatstoelage.
 
 ## TITEL II VASTSTELLING VAN DE SALARISSCHALEN
 
@@ -3113,6 +3117,10 @@ XIV 33. De regeling inzake verlof voor de opvang met het oog op adoptie of pleeg
 
 ## [AFDELING 4BIS ONBETAALD VERLOF (ing. BVR 30 oktober 2015, art. 17, I: 25 november 2015)]
 
+### ART. XIV 33bis.
+
+Voor het contractuele personeelslid is de in artikel XI 20 van dit besluit   vermelde regeling inzake onbetaald verlof, van toepassing.
+
 ## AFDELING 5 [STUDIEVERLOF (verv. B.V.R. 3 februari 2006, art. 92)]
 
 ### ART. XIV 34.
@@ -3206,6 +3214,10 @@ XIV 48. Het contractuele personeelslid ontvangt [de weddecomplementen  <span cla
 XIV 49. De jaarlijkse bezoldiging van het contractuele personeelslid dat 21 jaar oud is, bedraagt nooit minder dan [14.265 EUR  <span class="reference">(verv. B.V.R. 3 februari 2006, art. 98, I: 1 januari 2006)</span> ] (100 %).
 
 ## [AFDELING 4BIS VERGOEDING VOOR NIET-OPGENOMEN VAKANTIEDAGEN (ing. BVR 30 oktober 2015, art. 19, I: 25 november 2015)]
+
+### ART. XIV 49bis.
+
+Het contractuele personeelslid ontvangt de uitbetaling van vakantiedagen   die niet werden opgenomen vóór het einde van de arbeidsrelatie(s) bij de   Maatschappij, volgens dezelfde regeling als het statutaire   personeelslid.
 
 ## AFDELING 5 DE GETROUWHEIDSPREMIE
 
