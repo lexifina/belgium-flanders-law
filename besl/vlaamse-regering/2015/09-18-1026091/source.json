@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026091,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-18 houdende de goedkeuring van het huishoudelijk reglement van de raad van bestuur van het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026091/VolledigDocument?datum=2015-11-26",
+  "source_sha256": "b3f900fbe9307a608b00b9db10d3a88f6b33e8fe858068d6dd17eaaffd9681c1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026091&param=informatie",
+  "as_of": "2015-11-26",
+  "made": "2015-09-18",
+  "gazette": "2015-11-16",
+  "numac": 2015036304,
+  "document_start": "2015-11-26",
+  "document_end": "2020-12-31",
+  "in_force": "2015-11-26",
+  "article_versions": 93,
+  "record_form": "consolidated version as in force on 2015-11-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
