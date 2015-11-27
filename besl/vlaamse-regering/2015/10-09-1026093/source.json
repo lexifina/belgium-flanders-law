@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026093,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-09 betreffende het intersectorale zorgnetwerk en tot wijziging van het besluit van de Vlaamse Regering van 21 februari 2014 betreffende de integrale jeugdhulp, wat betreft de prioritair toe te wijzen hulpvragen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026093/VolledigDocument?datum=2015-11-27",
+  "source_sha256": "8d131f0cb901fe999881c32a3e8d26eba07fc4e8a21260026134ed964797537d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026093&param=informatie",
+  "as_of": "2015-11-27",
+  "made": "2015-10-09",
+  "gazette": "2015-11-17",
+  "numac": 2015036408,
+  "document_start": "2015-11-27",
+  "document_end": null,
+  "in_force": "2015-11-27",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2015-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
