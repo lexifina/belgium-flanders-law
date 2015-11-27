@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026139,
+  "title": "Ministerieel besluit van 2015-11-05 houdende de vastlegging van de modellen van voordrachtsakte en van verbeteringsakte voor de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek, met inbegrip van de individuele geschreven en te ondertekenen verklaring van de niet-Belgische kandidaten die onderdaan zijn van een lidstaat van de europese Unie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026139/VolledigDocument?datum=2015-11-27",
+  "source_sha256": "390120646266ce0c0531c107e29cf93983e99c699e5f082cfcdf2c9eddb5e01e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026139&param=informatie",
+  "as_of": "2015-11-27",
+  "made": "2015-11-05",
+  "gazette": "2015-11-27",
+  "numac": 2015036455,
+  "document_start": "2015-11-27",
+  "document_end": null,
+  "in_force": "2015-11-27",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
