@@ -51,7 +51,7 @@ De vertegenwoordiger van de handel en distributie, vermeld in artikel 5, § 2, 1
 
 ### ART. 12.
 
-De vertegenwoordiger van de verbruikersorganisaties, vermeld in artikel 5, § 2, 11°, van het oprichtingsdecreet, wordt voorgedragen door het Onderzoeks- en Informatiecentrum van de Verbruikersorganisaties, stichting van openbaar nut.<br /><br />
+De vertegenwoordiger van de verbruikersorganisaties, vermeld in artikel 5,   § 2, 11°, van het oprichtingsdecreet, wordt voorgedragen door de Belgische   Vereniging voor Onderzoek en Expertise voor de Consumentenorganisaties   vzw.<BR><BR>
 
 ### ART. 13.
 
