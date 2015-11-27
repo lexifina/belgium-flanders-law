@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026134,
+  "title": "Ministerieel besluit van 2015-11-09 tot vaststelling van het model en de afmetingen van de stembiljetten bij de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026134/VolledigDocument?datum=2015-11-27",
+  "source_sha256": "e9fa739bb4c6f1e29d25ad88b87f3b7b3000e52da6cc2dab86d483b1c8258f08",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026134&param=informatie",
+  "as_of": "2015-11-27",
+  "made": "2015-11-09",
+  "gazette": "2015-11-27",
+  "numac": 2015036450,
+  "document_start": "2015-11-27",
+  "document_end": null,
+  "in_force": "2015-11-27",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2015-11-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
