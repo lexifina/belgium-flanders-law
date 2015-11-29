@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026098,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 houdende wijziging van artikel 2 van het besluit van de Vlaamse Regering van 14 april 2000 tot bepaling van de vergunningsplichtige functiewijzigingen en van diverse bepalingen van het besluit van de Vlaamse Regering van 28 november 2003 tot vaststelling van de lijst van toelaatbare zonevreemde functiewijzigingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026098/VolledigDocument?datum=2015-11-29",
+  "source_sha256": "bd75e6b22aab7c5102e233aa2109ec963137ce0048fa723fcc7ad5ea682e2ee0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026098&param=informatie",
+  "as_of": "2015-11-29",
+  "made": "2015-10-30",
+  "gazette": "2015-11-19",
+  "numac": 2015036424,
+  "document_start": "2015-11-29",
+  "document_end": null,
+  "in_force": "2015-11-29",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-11-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
