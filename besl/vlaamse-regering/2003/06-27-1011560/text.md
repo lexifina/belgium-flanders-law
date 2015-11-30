@@ -8,7 +8,7 @@ In dit besluit wordt verstaan onder:<br />1° aanbevolen herkomst: herkomst van 
 
 ### ART. 2.
 
-§ 1. Binnen de perken van de begrotingskredieten verleent de minister subsidies aan bosbeheerders voor herbebossing, openstelling, voor de bevordering van de ecologische functie of voor het opstellen van een beheerplan dat voldoet aan de criteria voor duurzaam bosbeheer of aan natuurlijke personen of rechtspersonen die een bebossing willen uitvoeren.<br /><br />§ 2. De subsidies worden toegekend aan de aanvrager volgens de volgorde van registratie door het Agentschap.
+§ 1. Binnen de perken van de begrotingskredieten verleent de minister   subsidies aan bosbeheerders voor, openstelling, voor de bevordering van de   ecologische functie of voor het opstellen van een beheerplan dat voldoet aan de   criteria voor duurzaam bosbeheer.<BR><BR>§ 2. De subsidies worden toegekend aan   de aanvrager volgens de volgorde van registratie door het   Agentschap.
 
 ### ART. 3.
 
@@ -18,31 +18,31 @@ Een subsidie wordt alleen toegekend op voorwaarde dat:<br /><br />1° aan de ver
 
 ### ART. 4.
 
-§ 1. Aan elke bosbeheerder kan een subsidie worden verleend voor de beplanting of bezaaiing met houtachtige gewassen waarvan de lijst is opgenomen in bijlage I, gevoegd bij dit besluit. De totale oppervlakte moet ten minste 0,5 hectare beslaan. Bij de beplanting moeten de minimale stamtallen per hectare, zoals vermeld in bijlage II bij dit besluit gerespecteerd worden. Bij een bezaaiing moeten minstens 2500 planten per hectare aanwezig zijn op het ogenblik van de eerste controle.<br /><br />De subsidie wordt niet verleend voor de herbebossing met grove den van percelen die voorheen met inheems loofhout begroeid waren.<br /><br />§ 2. Een subsidie voor bosverjonging door natuurlijke verjonging kan worden toegekend wanneer er voldoende individuen van boomsoorten, vermeld in bijlage I bij dit besluit, aanwezig zijn op een gezamenlijke oppervlakte van minstens 0,5 hectare. Het aantal individuen moet minstens 2500 planten per hectare, regelmatig verspreid over de volledige oppervlakte van het perceel, bedragen. De natuurlijke verjonging moet voor minstens 90 procent van het grondvlak uit bomen of struiken van minder dan 10 jaar oud bestaan. De natuurlijke verjonging kan gecombineerd worden met beplanting of bezaaiing.<br /><br />§ 3. Een extra subsidie van 500 euro per hectare wordt toegekend wanneer 10 tot 25 procent van het stamtal van de aan te planten hoofdboomsoort stams- of groepsgewijs gemengd wordt met andere boom- of struiksoorten uit bijlage I en/of bijlage III. De extra subsidie wordt alleen verleend als het vereiste advies van het Instituut voor Natuur- en Bosonderzoek voor de in bijlage III opgesomde soorten gunstig is.<br /><br />Onder voorbehoud van de toepassing van het eerste lid, mag minder dan 10 %van het stamtal van de aan te planten hoofdboomsoort vervangen worden door andere boom- of struiksoorten van de klassen I, II, III en IV van bijlage I en/of bijlage III, zonder dat het subsidiebedrag per klasse en per hectare, overeenkomstig de bepalingen van het eerste lid, gewijzigd wordt.<br /><br />§ 4. De in § 1 en § 2 vermelde oppervlakten kunnen uit ruimtelijk gescheiden deeloppervlaktes van minstens 10 are bestaan, op voorwaarde dat die maximaal 1 kilometer in vogelvlucht van elkaar liggen verwijderd.<br /><br />§ 5. Een extra subsidie van 250,00 euro per hectare wordt toegekend wanneer de beplanting met aanbevolen herkomsten uitgevoerd wordt.<br /><br />§ 6. Het bedrag van de subsidie wordt berekend pro rata van de boomsoortensamenstelling, afgerond tot een oppervlakte-eenheid van 1 are, op basis van de in bijlage I vastgestelde bedragen.<br /><br />§ 7. Voor beplantingen die als maatregel tot herstel door de rechtbank worden bevolen of voor compenserende bebossingen met toepassing van artikel 90bis van het decreet, kunnen geen subsidies worden toegekend.
+<P>...</P>
 
 ### ART. 5.
 
-§ 1. Om een subsidie voor bebossing en herbebossing te verkrijgen dient de aanvrager een aanvraagformulier in waarvan het model ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap voor Natuur en Bos bij het Agentschap in de provincie waar het onroerend goed in kwestie gelegen is, uiterlijk drie maanden vóór de aanvang van de werkzaamheden. In het geval van natuurlijke verjonging kan de aanvraag op elk moment ingediend worden zolang over 90 % van het grondvlak de bomen of struiken minder dan 10 jaar oud zijn.<br /><br />De aanvraag kan ingediend worden door de bosbeheerder of door de erkende bosgroep voor zijn leden.<br /><br />§ 2. De aanvraag bevat:<br />1° de identiteit van de bosbeheerder;<br />2° als de aanvraag ingediend wordt door een gevolmachtigde: de identiteit en hoedanigheid van de aanvrager en een verklaring dat de aanvrager gevolmachtigd is om de subsidie aan te vragen;<br />3° een volledige beschrijving van de werkzaamheden, met opgave van de oppervlakteverdeling per boomsoort, stamtallen, plantverbanden, leeftijd en grootte van de planten. Wanneer planten uit eigen kweek gebruikt worden, moet dat gemeld worden;<br />4° een gedagtekende verbintenis om het bos noch kaal te slaan, noch te rooien, noch te ontbossen binnen een periode van twintig jaar na de toekenning van de subsidie;<br />5° een verklaring dat voor de percelen in kwestie geen andere subsidies werden verkregen of zullen worden gevraagd voor de onder 3° bedoelde werkzaamheden;<br />6° een duidelijk liggingsplan [schaal 1/10.000 tot 1/25.000] met aanduiding van de beplantingen;<br />7° eventuele wettelijk vereiste vergunningen, toestemmingen en machtigingen en adviezen voor de bebossing of een verwijzing naar het registratienummer van de kapmachtiging of het goedgekeurde bosbeheerplan waaruit blijkt dat de eventuele kapping, voorafgaand aan de herbebossing, conform de bepalingen van het decreet gebeurd is.<br /><br />§ 3. De aanvrager krijgt een ontvangstmelding. Als de aanvraag volledig is en voor verdere behandeling aanvaard wordt, wordt ook het registratienummer meegedeeld. Zo niet wordt opgave gedaan van eventuele ontbrekende gegevens of een met reden omklede beslissing van de onontvankelijkheid van de aanvraag. Zodra de ontbrekende gegevens aan het Agentschap bezorgd zijn, wordt het registratienummer meegedeeld. In geval van natuurlijke verjonging wordt het registratienummer pas meegedeeld na plaatsbezoek van het Agentschap.<br /><br />§ 4. Elke aanvraag wordt binnen drie maanden na de mededeling van het registratienummer afgehandeld.
+<P>...</P>
 
 ### ART. 6.
 
-De geregistreerde aanvraag wordt met het advies van het Agentschap en, in voorkomend geval, de adviezen die vermeld zijn in artikel 87 van het decreet, ter beslissing aan de minister voorgelegd. Het Agentschap stelt de aanvrager op de hoogte van deze toekenning of weigering.
+<P>...</P>
 
 ### ART. 7.
 
-Wanneer planten uit eigen kweek gebruikt worden, moeten die planten minstens twee maanden voor de aanvang van de werkzaamheden door het Agentschap gecontroleerd worden op herkomst en kwaliteit. De aanvrager moet alle informatie met betrekking tot de herkomst van zaadgoed of stekken ter beschikking stellen van het Agentschap. De controle gebeurt binnen een maand na ontvangst van de aanvraag. Zonder goedkeuring door het Agentschap van het zelf gekweekte plantsoen kan de uitbetaling van de subsidie geweigerd worden.<br /><br />Op de beplanting en de werkzaamheden ter voorbereiding hiervan, kan toezicht uitgeoefend worden door het Agentschap.
+<P>...</P>
 
 ### ART. 8.
 
-§ 1. Na het beëindigen van de werkzaamheden stuurt de aanvrager een betalingsformulier, dat door het Agentschap ter beschikking gesteld wordt, ter uitbetaling van een eerste schijf van 60 % van de subsidie naar het Agentschap.<br /><br />Na de ontvangst van deze aanvraag, wordt door het Agentschap een controle uitgevoerd voor 31 oktober van hetzelfde jaar. Voor de aanvragen, ingediend tussen 30 september en 31 oktober, wordt de controle voor 31 oktober van het jaar daarna uitgevoerd. Bij ontstentenis hiervan worden de werkzaamheden als aanvaard beschouwd.<br /><br />Bij bosaanleg door beplanting of bezaaiing moet als bijlage van het betalingsformulier een attest van herkomst van het plantsoen geleverd worden voor de boomsoorten waarvoor deze attesten wettelijk vereist zijn en voor zover het geen planten uit eigen kweek zijn.<br /><br />Als het Agentschap na de controle beslist dat de werkzaamheden voorlopig aanvaard worden, wordt de eerste schijf van 60 % uitbetaald. Zo niet, krijgt de aanvrager een brief met vermelding van de redenen waarom de werkzaamheden voorlopig niet aanvaard kunnen worden. De aanvrager moet zelf binnen het jaar na de eerste controle een nieuwe controle aanvragen bij het Agentschap.<br /><br />§ 2. Als het Agentschap het betalingsformulier niet binnen drie jaar na de toekenning van de subsidie ontvangen heeft, stuurt het Agentschap een herinnering naar de aanvrager. Als 6 maand na het versturen van deze herinnering nog steeds geen betalingsformulier ontvangen werd, vervalt de subsidie.
+<P>...</P>
 
 ### ART. 9.
 
-§ 1. De resterende 40 % van de subsidie wordt zonder betalingsaanvraag van de aanvrager uitbetaald na de definitieve aanvaarding van de werkzaamheden. De aanvrager wordt per brief op de hoogte gebracht van de definitieve aanvaarding van de werkzaamheden. Dat gebeurt na een 2e controle die ambtshalve wordt uitgevoerd door het Agentschap op zijn vroegst drie jaar en uiterlijk 4 jaar na uitbetaling van de eerste subsidieschijf. Bij ontstentenis hiervan worden de werkzaamheden als aanvaard beschouwd.<br /><br />§ 2. Als uit deze tweede controle blijkt dat de bosaanleg geheel of gedeeltelijk mislukt is, is het bedrag van de tweede schijf gelijk aan het verschil tussen enerzijds het volledige subsidiebedrag dat bij een geheel geslaagde bosaanleg uitbetaald zou worden, maar verminderd tot het niveau dat overeenstemt met het percentage van de geslaagde oppervlakte, en anderzijds het bedrag dat werd uitbetaald na de voorlopige aanvaarding van de werkzaamheden.<br /><br />§ 3. Als in voorgaand geval uit de controle blijkt dat de geslaagde oppervlakte minder dan 60 % van de geplande oppervlakte bedraagt, moet het gedeelte van de reeds uitgekeerde subsidie dat te veel betaald is in verhouding tot de geslaagde oppervlakte, vermeerderd met de wettelijke intresten, gestort worden op een door het Agentschap aan te wijzen rekening van het Vlaamse Gewest, binnen een maand nadat de aanvrager per aangetekende brief in gebreke werd gesteld.
+<P>...</P>
 
 ### ART. 10.
 
-De subsidie wordt teruggevorderd, vermeerderd met de wettelijke intresten, als de voorwaarden voor toekenning van de subsidies niet nageleefd worden.<br /><br />De teruggevorderde bedragen moeten gestort worden op een door het Agentschap aan te wijzen rekening van het Vlaamse Gewest, binnen een maand nadat de aanvrager per aangetekende brief in gebreke werd gesteld.
+<P>...</P>
 
 ## HOOFDSTUK III SUBSIDIE VOOR OPENSTELLING
 
@@ -110,7 +110,7 @@ De subsidie wordt uitbetaald zodra het beheerplan is goedgekeurd.
 
 ### ART. 25.
 
-Enkel de subsidies, bepaald in hoofdstuk II en III van dit besluit zijn te cumuleren met de jaarlijkse vergoeding voor de erkenning als bosreservaat zoals vastgesteld ter uitvoering van artikel 24 van het decreet.
+Enkel de subsidies, bepaald in hoofdstuk III van dit besluit zijn te   cumuleren met de jaarlijkse vergoeding voor de erkenning als bosreservaat zoals   vastgesteld ter uitvoering van artikel 24 van het decreet.
 
 ### ART. 26.
 
@@ -126,7 +126,7 @@ De subsidieaanvragen, ingediend onder gelding van het besluit van de Vlaamse reg
 
 ### ART. 29.
 
-De minister kan bijlage II en III aanpassen.
+<P>De minister kan de bijlage aanpassen.</P>
 
 ### ART. 29bis.
 
@@ -140,370 +140,89 @@ De Vlaamse minister, bevoegd voor het natuurbehoud, is belast met de uitvoering 
 
 ### BIJLAGE I.
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+<p>Bijlage 1<br>
+<br>
+Lijst van boomsoorten voor de subsidie ecologische bosfunctie<br>
+&nbsp;</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:257.4pt">
-			<p>Klasse I.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:203.2pt">
-			<p>Subsidiebedrag 3200,00 euro/ha</p>
-			</td>
+			<td>beuk (Fagus sylvatica)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Zomereik (Quercus robur)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>es (Fraxinus excelsior)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Wintereik (quercus petraea)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>fladderiep (Ulmus laevis)</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:257.4pt">
-			<p>Klasse II.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>Subsidiebedrag 2500,00 euro/ha</p>
-			</td>
+			<td>gewone esdoorn (Acer pseudoplatanus)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Es (Fraxinus excelsior)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>gladde iep (Ulmus minor)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Beuk (Fagus sylvatica)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>grauwe abeel (Populus canescens)</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:257.4pt">
-			<p>Klasse III.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>Subsidiebedrag 2000,00 euro/ha</p>
-			</td>
+			<td>grove den (Pinus sylvestris)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Zoete kers (Prunus avium)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>haagbeuk (Carpinus betulus)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Haagbeuk (Carpinus betulus)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>Hollandse linde (Tilia x vulgaris)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Linde (Tilia cordata, Tilia platyphyllos)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>ratelpopulier (Populus tremula)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Zwarte els (Alnus glutinosa)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>ruwe berk (Betula pendula)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Berk (Betula pendula en Betula pubescens)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>ruwe iep (Ulmus glabra)</td>
 		</tr>
 		<tr>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:257.4pt">
-			<p>Klasse IV.</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>Subsidiebedrag 1500,00 euro/ha</p>
-			</td>
+			<td>wilg (Salix alba, Salix fragilis en Salix x rubens)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Olm (Ulmus glabra (syn. U. scabra), Ulmus minor (syn. U. campestris)) (*)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>wintereik (quercus petraea)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Gewone esdoorn (Acer pseudoplatanus)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>winterlinde (Tilia cordata)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Wilg (Salix alba, Salix fragilis en Salix x rubens) (*)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>zachte berk (Betula pubescens)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Ratelpopulier (Populus tremula)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>zoete kers (Prunus avium)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Grauwe abeel (Populus canescens)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>zomereik (Quercus robur)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:41.4pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:216pt">
-			<p>Grove den (Pinus sylvestris)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:203.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>zomerlinde (Tilia platyphyllos)</td>
+		</tr>
+		<tr>
+			<td>zwarte els (Alnus glutinosa)</td>
 		</tr>
 	</tbody>
 </table>
 
 <p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>(*) Deze soorten komen alleen in aanmerking voor subsidie op voorwaarde dat het Instituut voor Natuur- en Bosonderzoek voorafgaandelijk een gunstig advies verleent.</p>
 
 ## Bijlage II Minimale stamtallen per hectare voor het verkrijgen van een subsidie voor bebossing of herbebossing
 
 ### BIJLAGE II
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:293.4pt">
-			<p>Boomsoort<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:167.2pt">
-			<p>Minimaal stamtal per hectare</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Zomereik (Quercus robur)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Wintereik (quercus petraea)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Es (Fraxinus excelsior)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>1600</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Beuk (Fagus sylvatica)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>1600</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Zoete kers (Prunus avium)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>1600</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Haagbeuk (Carpinus betulus)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Linde (Tilia cordata, Tilia platyphyllos en Tilia x vulgaris)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Zwarte els (Alnus glutinosa)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Berk (Betula pendula en Betula pubescens)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Olm (Ulmus glabra (syn. U. scabra), Ulmus minor (syn. U. campestris)) (*)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Gewone esdoorn (Acer pseudoplatanus)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>1600</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Wilg (Salix alba, Salix fragilis en Salix x rubens) (*)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Ratelpopulier (Populus tremula) (*)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>1600</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Grauwe abeel (Populus canescens)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>123</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Grove den (Pinus sylvestris)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2500</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:293.4pt">
-			<p>Alle soorten uit bijlage III</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:167.2pt">
-			<p>2000</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>* behoudens andersluidend advies van het Instituut voor Natuur- en Bosonderzoek</p>
+<p>...</p>
 
 ## Bijlage III Boom- en struiksoorten die in aanmerking komen voor subsidiëring als onderetage
 
 ### BIJLAGE III.
 
-1. soorten waarbij geen advies van het Instituut voor Natuur- en Bosonderzoek vereist is:<br />- vlier (Sambucus nigra)<br />- lijsterbes (Sorbus aucuparia)<br />- hazelaar (Corylus avellana)<br />- vuilboom (Frangula alnus)<br />- Gelderse roos (Viburnum opulus)<br /><br />2. soorten die alleen in aanmerking komen voor subsidie op vooraarde dat het Instituut voor Natuur- en Bosonderzoek voorafgaandelijk een gunstig advies verleent. Dit advies doet uitspraak over het voorkomen van de voorgestelde soort in de betreffende fytogeografische regio, over de standplaatsgeschiktheid voor de voorgestelde soort en over de autochtoniteit van het plantmateriaal:<br />- wilg (Salix spp.)<br />- kardinaalsmuts (Euonymus europaeus)<br />- rode kornoelje (Cornus sanguinea)<br />- vogelkers (Prunus padus)<br />- Spaanse aak (Acer campestre)<br />- eenstijlige meidoorn (Crataegus monogyna)<br />- sleedoorn (Prunus spinosa)<br />- wilde rozen (Rosa spp.)<br /><br />3. soorten die alleen uitzonderlijk in aanmerking komen voor subsidie op voorwaarde dat het Instituut voor Natuur- en Bosonderzoek voorafgaandelijk een gunstig advies verleent en op voorwaarde dat de in het advies vastgelegde voorwaarden nageleefd worden:<br />- hulst (Ilex aquifolium)<br />- wegedoorn (Rhamnus catharticus)<br />- andere meidoornsoorten (Crataegus spp.)<br />- duindoorn (Hippophae rhamnoides)<br />- wilde appel (Malus sylvestris)<br />- wilde peer (Pyrus pyraster)<br />- mispel (Mespilus germanica)<br />- taxus (Taxus baccata)<br />- jeneverbes (Juniperus communis)<br />- fladderiep (Ulmus laevis)
+<P>...</P>
 
 ## Bijlage IV tot en met bijlage VII
 
