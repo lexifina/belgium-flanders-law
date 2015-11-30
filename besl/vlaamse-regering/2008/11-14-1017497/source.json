@@ -2,16 +2,16 @@
   "codex_id": 1017497,
   "title": "Besluit van de Vlaamse Regering van 2008-11-14 betreffende de subsidiëring van de bebossing van landbouwgronden ter uitvoering van Verordening (EG) nr. 1698/2005 van de Raad van 20 september 2005 inzake steun voor plattelandsontwikkeling uit het Europees Landbouwfonds voor Plattelandsontwikkeling (ELFPO)",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017497/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "c237c71912707dcc852e06149e7120904bdc61a70e19686a5406c21227b58d10",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017497/VolledigDocument?datum=2015-11-30",
+  "source_sha256": "e9fc01c93576ad02dbcfdadab2caff610565761db929b86b4d048a5b78203478",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017497&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-11-30",
   "made": "2008-11-14",
   "gazette": "2009-01-22",
   "numac": 2009035038,
   "document_start": "2009-02-01",
   "document_end": "2015-11-29",
-  "in_force": "2015-01-01",
+  "in_force": "2015-11-30",
   "article_versions": 25,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-11-30; future article versions excluded; article text as the API gives it"
 }
