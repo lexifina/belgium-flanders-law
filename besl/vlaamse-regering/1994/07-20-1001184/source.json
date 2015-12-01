@@ -2,16 +2,16 @@
   "codex_id": 1001184,
   "title": "Besluit van de Vlaamse Regering van 1994-07-20 houdende vaststelling van de regels volgens dewelke het [Vlaams Agentschap voor Personen met een Handicap] de kosten van bijstand door [tolken voor doven en slechthorenden] ten laste nemen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001184/VolledigDocument?datum=2014-12-15",
-  "source_sha256": "b6e4f02512ef06600b81a618e7a0527aeb4dfec8282d134afb36987ad537cd18",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1001184/VolledigDocument?datum=2015-12-01",
+  "source_sha256": "f2f4082af1d57093065670d3531231bfd9f13fd523ed7da94c89c30840fa6584",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1001184&param=informatie",
-  "as_of": "2014-12-15",
+  "as_of": "2015-12-01",
   "made": "1994-07-20",
   "gazette": "1994-10-22",
   "numac": 1994036206,
   "document_start": "1994-01-01",
   "document_end": "2015-11-30",
-  "in_force": "2014-12-15",
+  "in_force": "2015-12-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2014-12-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-01; future article versions excluded; article text as the API gives it"
 }
