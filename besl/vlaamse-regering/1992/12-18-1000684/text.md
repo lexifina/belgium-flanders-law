@@ -44,7 +44,7 @@ Onder voorbehoud van de bepaling van artikel 4 wordt het bedrag van de aanpassin
 
 ### ART. 10.
 
-Voor dezelfde woning kan geen verbeteringspremie als vermeld in artikel 2, eerste lid, 2°, a), worden verleend binnen een periode van tien jaar na de uitbetaling van een tegemoetkoming in de kosten van werkzaamheden als vermeld in :<br />1° het besluit van de Vlaamse Regering van 23 februari 2001 tot instelling van een tegemoetkoming bij het bouwen van een nieuwe woning of bij het uitvoeren van werken aan een woning;<br />2° het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een woning.
+<P>Voor dezelfde woning kan geen verbeteringspremie als vermeld in artikel 2,   eerste lid, 2°, a), worden verleend binnen een periode van tien jaar na de   aanvraag die geleid heeft tot de uitbetaling van een tegemoetkoming in de kosten   van werkzaamheden als vermeld in:<BR>1° het besluit van de Vlaamse Regering van   2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie   van een woning;<BR>2° het besluit van de Vlaamse Regering van 30 oktober 2015   tot instelling van een tegemoetkoming in de kosten bij de renovatie van een   bestaande woning of bij de realisatie van een nieuwe woning.</P>
 
 ### ART. 11.
 
