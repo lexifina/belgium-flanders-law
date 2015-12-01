@@ -2,16 +2,16 @@
   "codex_id": 1024299,
   "title": "Ministerieel besluit van 2014-05-19 tot bepaling van de werkzaamheden die in aanmerking komen voor een tegemoetkoming als vermeld in artikel 2, tweede lid, van het besluit van de Vlaamse Regering van 2 maart 2007 tot instelling van een tegemoetkoming in de kosten bij de renovatie van een bestaande woning of bij het realiseren van een nieuwe woning",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024299/VolledigDocument?datum=2014-07-21",
-  "source_sha256": "4450168b14a2455116ead9487db8916549326a717f0506fe7c80697e4c7921d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024299/VolledigDocument?datum=2015-12-01",
+  "source_sha256": "c515429497ec47d6106dce12003e82ecd977a1d6e4982074a9915adafffe2ddf",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024299&param=informatie",
-  "as_of": "2014-07-21",
+  "as_of": "2015-12-01",
   "made": "2014-05-19",
   "gazette": "2014-07-11",
   "numac": 2014035714,
   "document_start": "2014-07-21",
   "document_end": "2015-11-30",
-  "in_force": "2014-07-21",
+  "in_force": "2015-12-01",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-07-21; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-01; future article versions excluded; article text as the API gives it"
 }
