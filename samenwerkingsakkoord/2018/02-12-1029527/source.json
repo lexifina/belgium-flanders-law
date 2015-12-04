@@ -1,0 +1,17 @@
+{
+  "codex_id": 1029527,
+  "title": "Samenwerkingsakkoord van 2018-02-12 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de verdeling van de Belgische klimaat- en energiedoelstellingen voor de periode 2013-2020",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1029527/VolledigDocument?datum=2015-12-04",
+  "source_sha256": "404b35a7f976f8ca24fd7885267f0ef2452fc9764808061823bef300f251fd63",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1029527&param=informatie",
+  "as_of": "2015-12-04",
+  "made": "2018-02-12",
+  "gazette": "2018-07-12",
+  "numac": 2018031303,
+  "document_start": "2015-12-04",
+  "document_end": null,
+  "in_force": "2015-12-04",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2015-12-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
