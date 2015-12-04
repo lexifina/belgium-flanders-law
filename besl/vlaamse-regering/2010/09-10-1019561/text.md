@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het GDI-decreet van 20 februari 2009, a
 
 ### ART. 1.
 
-Dit besluit regelt de toegang tot en het gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI door de deelnemers aan GDI-Vlaanderen met het oog op de vervulling van taken van algemeen belang. <br /><br />Dit besluit is niet van toepassing op grootschalige referentiegegevens als vermeld in artikel 2, 2° van het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand (GRB).
+Dit besluit regelt de toegang tot en het gebruik van geografische   gegevensbronnen en geografische diensten toegevoegd aan de GDI door de   deelnemers aan GDI-Vlaanderen met het oog op de vervulling van taken van   algemeen belang.
 
 ## HOOFDSTUK II. Verstrekking van toegang tot de geografische gegevens en diensten
 
