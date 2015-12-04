@@ -2,16 +2,16 @@
   "codex_id": 1020931,
   "title": "Besluit van de Vlaamse Regering van 2011-10-21 tot bepaling van de nadere regels voor de toegang tot en het gebruik door instanties die geen deelnemer zijn aan GDI-Vlaanderen van de geografische gegevensbronnen en geografische diensten, toegevoegd aan de GDI, en de vergoedingsregeling voor de publieke toegang",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020931/VolledigDocument?datum=2011-12-01",
-  "source_sha256": "51d6dbcbf8c39e27ecbcab5bf90c609763ccde61d4aae522ec246296e2d1b573",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020931/VolledigDocument?datum=2015-12-04",
+  "source_sha256": "9e1038fa8a57065f0cbd570c92d31b1aed8ad737fa95e262ff4096340739a9b9",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020931&param=informatie",
-  "as_of": "2011-12-01",
+  "as_of": "2015-12-04",
   "made": "2011-10-21",
   "gazette": "2011-11-21",
   "numac": 2011205613,
   "document_start": "2011-12-01",
   "document_end": null,
-  "in_force": "2011-12-01",
+  "in_force": "2015-12-04",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2011-12-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-04; future article versions excluded; article text as the API gives it"
 }
