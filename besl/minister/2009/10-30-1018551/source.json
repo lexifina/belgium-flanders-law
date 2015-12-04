@@ -2,16 +2,16 @@
   "codex_id": 1018551,
   "title": "Ministerieel besluit van 2009-10-30 houdende vaststelling van het model van licentieovereenkomst voor toegang tot het Grootschalig Referentie Bestand (GRB) en de vergoedingen die verschuldigd zijn voor de toegang tot het GRB",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018551/VolledigDocument?datum=2009-12-14",
-  "source_sha256": "bb6df81193daedd4a90574ef089fec66ba89312c9670908c4cab29bcff372ac4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018551/VolledigDocument?datum=2015-12-04",
+  "source_sha256": "eb6c2d3bf84590fc0fd0450851a0aea5512f711c4b285268f3dc3ea48c2625b7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018551&param=informatie",
-  "as_of": "2009-12-14",
+  "as_of": "2015-12-04",
   "made": "2009-10-30",
   "gazette": "2009-12-04",
   "numac": 2009036072,
   "document_start": "2009-12-14",
   "document_end": "2015-12-03",
-  "in_force": "2009-12-14",
+  "in_force": "2015-12-04",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2009-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-04; future article versions excluded; article text as the API gives it"
 }
