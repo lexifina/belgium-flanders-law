@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026113,
+  "title": "Ministerieel besluit van 2015-10-22 houdende de indeling van ATD Vierde Wereld Vlaanderen vzw bij de subsidiecategorie bovenlokale vereniging waar armen het woord nemen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026113/VolledigDocument?datum=2015-12-04",
+  "source_sha256": "cfa3cd093f175c0861dcccc77c70af66685ca85263e7476bee716b0862e98f62",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026113&param=informatie",
+  "as_of": "2015-12-04",
+  "made": "2015-10-22",
+  "gazette": "2015-11-24",
+  "numac": 2015036412,
+  "document_start": "2015-12-04",
+  "document_end": null,
+  "in_force": "2015-12-04",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-04; oldest version available; future article versions excluded; article text as the API gives it"
+}
