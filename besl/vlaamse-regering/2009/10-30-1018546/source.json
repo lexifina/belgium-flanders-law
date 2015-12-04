@@ -2,16 +2,16 @@
   "codex_id": 1018546,
   "title": "Besluit van de Vlaamse Regering van 2009-10-30 houdende vaststelling van de wijze waarop toegang wordt verleend tot het Grootschalig Referentie Bestand (GRB), de voorwaarden voor het gebruik van de in het GRB opgenomen grootschalige referentiegegevens en de vergoedingen die verschuldigd zijn voor de toegang tot het GRB",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018546/VolledigDocument?datum=2010-10-17",
-  "source_sha256": "8f94797919015dd4edab919e55ecef7f1e0d6acc8f2ee02b69b097424350f9d9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018546/VolledigDocument?datum=2015-12-04",
+  "source_sha256": "310c41dbb64e5944cb2dde8ce7bd4edeb49cdd25895f810f994c23fcc570e1a7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018546&param=informatie",
-  "as_of": "2010-10-17",
+  "as_of": "2015-12-04",
   "made": "2009-10-30",
   "gazette": "2009-12-04",
   "numac": 2009205478,
   "document_start": "2010-10-17",
   "document_end": "2015-12-03",
-  "in_force": "2010-10-17",
+  "in_force": "2015-12-04",
   "article_versions": 16,
-  "record_form": "consolidated version as in force on 2010-10-17; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-04; future article versions excluded; article text as the API gives it"
 }
