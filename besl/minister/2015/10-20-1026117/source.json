@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026117,
+  "title": "Ministerieel besluit van 2015-10-20 betreffende de aanduiding van de bevoegde autoriteit in de zin van punt 1.5.1 van de Bijlage bij het Europees verdrag van 26 mei 2000 inzake het internationaal vervoer van gevaarlijke goederen over de binnenwateren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026117/VolledigDocument?datum=2015-12-05",
+  "source_sha256": "d2163da8314b0ea635688e73901eba4c0389e80860a2c4b87403c6268e1e3a05",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026117&param=informatie",
+  "as_of": "2015-12-05",
+  "made": "2015-10-20",
+  "gazette": "2015-11-25",
+  "numac": 2015036422,
+  "document_start": "2015-12-05",
+  "document_end": "2018-12-31",
+  "in_force": "2015-12-05",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
