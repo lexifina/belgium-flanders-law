@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026121,
+  "title": "Decreet van 2015-10-30 houdende instemming met de Overeenkomst tussen de Europese Unie en haar lidstaten, enerzijds, en IJsland, anderzijds, betreffende de deelname van IJsland aan de gezamenlijke nakoming van de verbintenissen van de Europese Unie, haar lidstaten en IJsland voor de tweede verbintenisperiode van het Protocol van Kyoto bij het Raamverdrag van de Verenigde Naties inzake klimaatverandering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026121/VolledigDocument?datum=2015-12-06",
+  "source_sha256": "54024551c2fadcfb48805192a77d687beba7e6576ece2612c8bafa7d9be5e197",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026121&param=informatie",
+  "as_of": "2015-12-06",
+  "made": "2015-10-30",
+  "gazette": "2015-11-26",
+  "numac": 2015036446,
+  "document_start": "2015-12-06",
+  "document_end": null,
+  "in_force": "2015-12-06",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
