@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026141,
+  "title": "Ministerieel besluit van 2015-11-10 tot vaststelling van het model van de oproepingsbrieven voor de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026141/VolledigDocument?datum=2015-12-07",
+  "source_sha256": "fc7b9c38cbf345baa52a9a14a2e499c55e83fb34fd9e4790167ea53cc054dea1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026141&param=informatie",
+  "as_of": "2015-12-07",
+  "made": "2015-11-10",
+  "gazette": "2015-11-27",
+  "numac": 2015036457,
+  "document_start": "2015-12-07",
+  "document_end": null,
+  "in_force": "2015-12-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2015-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
