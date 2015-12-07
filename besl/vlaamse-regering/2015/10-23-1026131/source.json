@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026131,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-23 houdende indeling bij de gemeentewegen van de gewestweg N19 Turnhoutseweg - Dr. Vandeperrestraat tussen kilometerpunt 10,50 en 14.90 op het grondgebied van de stad Geel",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026131/VolledigDocument?datum=2015-12-07",
+  "source_sha256": "c411fca5b9eb7bc01ae30aaaad6de37a53fdd24f19933629d9ab15de64982d83",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026131&param=informatie",
+  "as_of": "2015-12-07",
+  "made": "2015-10-23",
+  "gazette": "2015-11-27",
+  "numac": 2015036427,
+  "document_start": "2015-12-07",
+  "document_end": null,
+  "in_force": "2015-12-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
