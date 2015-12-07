@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026135,
+  "title": "Ministerieel besluit van 2015-11-05 tot vaststelling van de onderrichtingen voor de kiezer van de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026135/VolledigDocument?datum=2015-12-07",
+  "source_sha256": "efef8d837547476aee644d60d6f0193f56df65651ef1b1c3f93148612f7c894b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026135&param=informatie",
+  "as_of": "2015-12-07",
+  "made": "2015-11-05",
+  "gazette": "2015-11-27",
+  "numac": 2015036451,
+  "document_start": "2015-12-07",
+  "document_end": null,
+  "in_force": "2015-12-07",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
