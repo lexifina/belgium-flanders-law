@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2015-11-10 houdende de vaststelling van het formulier waarmee kiezers bij de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek de terugbetaling van hun reiskosten kunnen aanvragen
+
+### Aanhef
+
+<P>DE   VLAAMSE MINISTER VAN BINNENLANDS BESTUUR, INBURGERING, WONEN, GELIJKE KANSEN EN   ARMOEDEBESTRIJDING,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011, artikel 261;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het besluit van de Vlaamse Regering van 25 mei 2012 tot regeling van de   kosten voor de organisatie van de lokale en provinciale verkiezingen, artikel 3,   § 3, tweede lid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Overwegende   dat de gemeenteraad van Linkebeek op 26 oktober 2015 heeft beslist om een   buitengewone gemeenteraadsverkiezing te houden op basis van artikel 218, § 1,   1°, van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### Enig artikel.
+
+Bij de buitengewone gemeenteraadsverkiezing van 13 december 2015 in   Linkebeek gebruiken de rechthebbenden, vermeld in artikel 3, § 3, eerste lid,   van het besluit van de Vlaamse Regering van 25 mei 2012 tot regeling van de   kosten voor de organisatie van de lokale en provinciale verkiezingen, het   formulier A98, opgenomen in de bijlage die bij dit besluit is gevoegd, om hun   schuldvordering naar de provincie Vlaams-Brabant te sturen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### BIJLAGE 1
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/11/27_1.pdf#page=40">Bijlage   1</A>

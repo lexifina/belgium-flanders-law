@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026137,
+  "title": "Ministerieel besluit van 2015-11-10 houdende de vaststelling van het formulier waarmee kiezers bij de buitengewone gemeenteraadsverkiezing van 13 december 2015 in Linkebeek de terugbetaling van hun reiskosten kunnen aanvragen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026137/VolledigDocument?datum=2015-12-07",
+  "source_sha256": "ec8b518132d356fe58016a830b13e4e4c953019d96b81ce075f75a7887828020",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026137&param=informatie",
+  "as_of": "2015-12-07",
+  "made": "2015-11-10",
+  "gazette": "2015-11-27",
+  "numac": 2015036453,
+  "document_start": "2015-12-07",
+  "document_end": null,
+  "in_force": "2015-12-07",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-12-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
