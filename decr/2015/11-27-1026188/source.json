@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026188,
+  "title": "Decreet van 2015-11-27 houdende diverse bepalingen inzake energie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026188/VolledigDocument?datum=2015-12-10",
+  "source_sha256": "2228aa4ddede9b5463d7ac38e62b9d98e8ead61bce4753ec76766279540e2395",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026188&param=informatie",
+  "as_of": "2015-12-10",
+  "made": "2015-11-27",
+  "gazette": "2015-12-10",
+  "numac": 2015036535,
+  "document_start": "2015-12-10",
+  "document_end": null,
+  "in_force": "2015-12-10",
+  "article_versions": 48,
+  "record_form": "consolidated version as in force on 2015-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
