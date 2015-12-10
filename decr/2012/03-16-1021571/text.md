@@ -164,13 +164,13 @@ De steunintensiteit wordt berekend als een percentage van de in aanmerking komen
 
 ### ART. 27.
 
-...
+<P>De Vlaamse Regering kan steun verlenen aan projecten ter bevordering van de   innovatie :<BR>1° aan ondernemingen onder de voorwaarden, vermeld in dit   decreet, de algemene groepsvrijstellingsverordening en de   uitvoeringsbesluiten;<BR>2° aan entiteiten, die geen onderneming zijn, onder de   voorwaarden, vermeld in dit decreet en de uitvoeringsbesluiten.<BR><BR>De   Vlaamse Regering kan de begunstigden, vermeld in het eerste lid, verder   concretiseren in functie van de noodzakelijkheden en de   beleidsprioriteiten.</P>
 
 ## [Afdeling 2. Steunintensiteit (verv. decr. 20 november 2015, art. 29, I: 10 december 2015)]
 
 ### ART. 28.
 
-...
+<P>De steunintensiteit wordt berekend als een percentage van de in aanmerking   komende kosten.<BR><BR>De Vlaamse Regering bepaalt de in aanmerking komende   kosten en de steunintensiteit.<BR><BR>De Vlaamse Regering bepaalt in welke mate   er cumulatie van steun is toegelaten, ongeacht de bron en in welke vorm ook   verleend, met betrekking tot dezelfde kosten.</P>
 
 ### ART. 29.
 
