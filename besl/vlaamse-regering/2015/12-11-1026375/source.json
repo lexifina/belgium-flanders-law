@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026375,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-11 houdende de herverdeling van het provisionele krediet ingeschreven onder begrotingsartikel FC0-1FBE2ZZ-PR basisallocatie 1FB101 van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026375/VolledigDocument?datum=2015-12-11",
+  "source_sha256": "b474ec923f76a8bf50e0f7ebeaafd143b64e627c2df4bf403010b817ed443d66",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026375&param=informatie",
+  "as_of": "2015-12-11",
+  "made": "2015-12-11",
+  "gazette": "2016-02-01",
+  "numac": 2016035059,
+  "document_start": "2015-12-11",
+  "document_end": null,
+  "in_force": "2015-12-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
