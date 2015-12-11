@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026147,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-16 tot wijziging van het besluit van de Vlaamse Regering van 6 februari 1991 houdende vaststelling van het Vlaams reglement betreffende de milieuvergunning, het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, het besluit van de Vlaamse Regering van 9 september 2005 betreffende de geografische indeling van watersystemen en de organisatie van het integraal waterbeleid in uitvoering van Titel I van het decreet van 18 juli 2003 betreffende het integraal waterbeleid en het besluit van de Vlaamse Regering van 26 april 2013 tot vaststelling van het geactualiseerde monitoringprogramma van de watertoestand ter uitvoering van artikel 67 en 69 van het decreet van 18 juli 2003 betreffende het integraal waterbeleid, wat betreft de omzetting van richtlijn 2013/39/EU en richtlijn 2009/90/EG",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026147/VolledigDocument?datum=2015-12-11",
+  "source_sha256": "177236eb85dd4308e3a3e5863332d36498f23260987c25432c1f24b36798806d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026147&param=informatie",
+  "as_of": "2015-12-11",
+  "made": "2015-10-16",
+  "gazette": "2015-12-01",
+  "numac": 2015036465,
+  "document_start": "2015-12-11",
+  "document_end": null,
+  "in_force": "2015-12-11",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2015-12-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
