@@ -32,8 +32,8 @@ Afvalwaterstromen van verzorgingsinstellingen die voldoen aan de voorwaarden van
 a) in toepassing van artikel 38, § 6, artikel 41, § 1, en bijlage 2 van dit besluit, de afdelingen 2.4.3, 4.2.2, 4.2.3, 4.2.5 en 4.3.1, de artikels 2.3.6.1, 5.3.2.4, § 7, 5BIS.15.5.4.3.4, 5BIS.15.5.4.3.5, 5BIS.19.8.4.5.4 en 5BIS.19.8.4.5.5, artikel 3 van bijlage 2.3.1 en bijlage 5.3.2, 21 van titel II van het VLAREM : toxische, persistente en bioaccumuleerbare stoffen of groepen van stoffen en andere stoffen of groepen van stoffen die aanleiding geven tot evenveel bezorgdheid;<br>
 b) in toepassing van artikel 6quater, § 3, artikel 7, § 1, artikel 8, § § 1 en 2, artikel 16, 1°, bijlage 5, deel 2, III en bijlage 6 van dit besluit en artikel 5.2.6.3.1 van titel II van het VLAREM : stoffen, mengsels of preparaten als vermeld in bijlage 6, deel 1, gevoegd bij dit besluit of beantwoordend aan de criteria, vermeld in bijlage 6, deel 2, gevoegd bij dit besluit en aanwezig als grondstof, product, bijproduct, residu of tussenproduct, met inbegrip van die stoffen waarvan redelijkerwijs mag worden verwacht dat ze bij een ongeval ontstaan;<br>
 c) in toepassing van artikel 30bis, § 2, 14°, van dit besluit&nbsp;en in uitvoering van de Verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 inzake de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 : stoffen of mengsels als vermeld in artikel 3 van Verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels »;<br>
-14° « prioritaire stoffen » : stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in lijst III van bijlage 2C bij dit besluit; hiertoe behoren prioritaire gevaarlijke stoffen op gebied van waterbeleid' waarvoor maatregelen moeten worden getroffen;<br>
-14bis ° « verontreinigende stoffen »: iedere stof die tot verontreiniging kan leiden, met name de stoffen waarvan de lijst overeenkomstig de EG-richtlijn 2000/60/EG is vastgesteld in bijlage 2A bij dit besluit;<br>
+14° "prioritaire stoffen": de stoffen die conform artikel 3, § 2, 19°, van het decreet van 18 juli 2003 betreffende het integraal waterbeleid zijn opgesomd in lijst III van bijlage 2C bij dit besluit. Tot deze stoffen behoren prioritaire gevaarlijke stoffen waarvoor maatregelen moeten worden getroffen overeenkomstig artikel 5, eerste lid, 2°, van het voormelde decreet;<br>
+14bis ° « verontreinigende stoffen »: iedere stof die tot verontreiniging kan leiden, met name de stoffen waarvan de lijst overeenkomstig het decreet van 18 juli 2003 betreffende het integraal waterbeleid is vastgesteld in bijlage 2A bij dit besluit;<br>
 15° afvalstoffen : afvalstoffen als vermeld in het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen en de uitvoeringsbesluiten ervan. De definities, als vermeld in voormeld decreet en de uitvoeringsbesluiten ervan, gelden ook voor de toepassing van dit besluit;<br>
 16° « GPBV-installatie » :<br>
 een vaste technische eenheid waarin een of meer van de activiteiten en processen, vermeld in de indelingslijst, en aangeduid met de letter X in de vierde kolom van de indelingslijst, alsook andere op dezelfde locatie ten uitvoer gebrachte en daarmee rechtstreeks samenhangende activiteiten plaatsvinden die technisch in verband staan met de voormelde activiteiten en die gevolgen kunnen hebben voor de emissies en de verontreiniging;<br>
@@ -51693,735 +51693,353 @@ Lijst II. Bij naam genoemde gevaarlijke stoffen<br>
 <br>
 Lijst II omvat de stoffen, vermeld in artikel 3, in de kolom ‘Parameter’, van bijlage 2.3.1 van titel II van het VLAREM.<br>
 <br>
-Lijst III<br>
-<br>
-Lijst III. Lijst van prioritaire stoffen op het gebied van het waterbeleid, in gedeeltelijke uitvoering van richtlijn 2008/105/EG van het Europees Parlement en de Raad van 16 december 2008 inzake milieukwaliteitsnormen op het gebied van het waterbeleid tot wijziging en vervolgens intrekking van de richtlijn 82/176/EEG, 83/513/EEG, 84/156/EEG, 84/491/EEG en 86/280/EEG van de Raad, en tot wijziging van richtlijn 2000/EG (bijlage X bij de EG-richtlijn 2000/60/EG van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid, gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001, en gewijzigd bij EG-richtlijn 200/105/EG van 16 december 2008)<br>
-
-<p>&nbsp;</p>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+Lijst III&nbsp; Lijst van prioritaire stoffen op het gebied van het waterbeleid, in gedeeltelijke omzetting van richtlijn 2013/39/EU van het Europees Parlement en de Raad van 12 augustus 2013 tot wijziging van Richtlijn 2000/60/EG en Richtlijn 2008/105/EG wat betreft prioritaire stoffen op het gebied van het waterbeleid<br>
+LIJST VAN PRIORITAIRE STOFFEN OP HET GEBIED VAN HET WATERBELEID
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:33.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:118pt">
-			<p><strong>CAS-nummer (1)</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:90.9pt">
-			<p><strong>EU-nummer (2)</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:136.1pt">
-			<p><strong>Naam van de prioritaire stof (*)</strong></p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:black 1pt solid; vertical-align:top; width:86.1pt">
-			<p><strong>Aangewezen als prioritaire gevaarlijke stof</strong></p>
-			</td>
+			<td>Nummer</td>
+			<td>CAS- nummer <sup>(1)</sup></td>
+			<td>EU-nummer <sup>(2)</sup></td>
+			<td>Naam van de prioritaire stof <sup>(3)</sup></td>
+			<td>Aangewezen<br>
+			als prioritair<br>
+			gevaarlijke stof</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(1)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>15972-60-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>240-110-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Alachlor</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(1)</td>
+			<td>15972-60-8</td>
+			<td>240-110-8</td>
+			<td>Alachloor</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(2)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>120-12-7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>204-371-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Anthraceen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(2)</td>
+			<td>120-12-7</td>
+			<td>204-371-1</td>
+			<td>Antraceen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(3)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>1912-24-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>217-617-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Atrazine</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(3)</td>
+			<td>1912-24-9</td>
+			<td>217-617-8</td>
+			<td>Atrazine</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(4)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>71-43-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>200-753-7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Benzeen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(4)</td>
+			<td>71-43-2</td>
+			<td>200-753-7</td>
+			<td>Benzeen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(5)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Gebromeerde difenylethers (**)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X (***)</p>
-			</td>
+			<td>(5)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Gebromeerde difenylethers</td>
+			<td>X <sup>(4)</sup></td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>32534-81-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Pentabroomdifenylethers (congeneren 28, 47, 99, 100, 153 en 154)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(6)</td>
+			<td>7440-43-9</td>
+			<td>231-152-8</td>
+			<td>Cadmium en cadmiumverbindingen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(6)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>7440-43-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>231-152-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Cadmium en zijn verbindingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(7)</td>
+			<td>85535-84-8</td>
+			<td>287-476-5</td>
+			<td>Chlooralkanen C <sub>10-13</sub></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(7)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>85535-84-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>287-476-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>C10-13-chlooralkanen (**)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(8)</td>
+			<td>470-90-6</td>
+			<td>207-432-0</td>
+			<td>Chloorfenvinfos</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(8)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>470-90-6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>207-432-0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Chlorfenvinphos</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(9)</td>
+			<td>2921-88-2</td>
+			<td>220-864-4</td>
+			<td>Chloorpyrifos (chloorpyrifosethyl)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(9)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>2921-88-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>220-864-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Chlorpyrifos (chlorpyrifos-ethyl)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(10)</td>
+			<td>107-06-2</td>
+			<td>203-458-1</td>
+			<td>1,2-dichloorethaan</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(10)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>107-06-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>203-458-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>1,2-dichloorethaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(11)</td>
+			<td>75-09-2</td>
+			<td>200-838-9</td>
+			<td>Dichloormethaan</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(11)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>75-09-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>200-838-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Dichloormethaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(12)</td>
+			<td>117-81-7</td>
+			<td>204-211-0</td>
+			<td>Di(2-ethylhexyl)ftalaat (DEHP)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(12)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>117-81-7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>204-211-0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Di(2-ethylhexyl)-ftalaat (DEHP°</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(13)</td>
+			<td>330-54-1</td>
+			<td>206-354-4</td>
+			<td>Diuron</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(13)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>330-54-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>206-354-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Diuron</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(14)</td>
+			<td>115-29-7</td>
+			<td>204-079-4</td>
+			<td>Endosulfan</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(14)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>115-29-7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>204-079-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Endosulfan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(15)</td>
+			<td>206-44-0</td>
+			<td>205-912-4</td>
+			<td>Fluoranteen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(15)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>206-44-0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>205-912-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Fluoranteen (****)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(16)</td>
+			<td>118-74-1</td>
+			<td>204-273-9</td>
+			<td>Hexachloorbenzeen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(16)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>118-74-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>204-273-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Hexachloorbenzeen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(17)</td>
+			<td>87-68-3</td>
+			<td>201-765-5</td>
+			<td>Hexachloorbutadieen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(17)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>87-68-3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>201-765-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Hexachloorbutadieen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(18)</td>
+			<td>608-73-1</td>
+			<td>210-168-9</td>
+			<td>Hexachloorcyclohexaan</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(18)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>608-73-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>210-158-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Hexachloorcyclohexaan</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(19)</td>
+			<td>34123-59-6</td>
+			<td>251-835-4</td>
+			<td>Isoproturon</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(19)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>34123-59-6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>251-835-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Isoproturon</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(20)</td>
+			<td>7439-92-1</td>
+			<td>231-100-4</td>
+			<td>Lood en loodverbindingen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(20)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>7439-92-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>231-100-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Lood en zijn verbindingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(21)</td>
+			<td>7439-97-6</td>
+			<td>231-106-7</td>
+			<td>Kwik en kwikverbindingen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(21)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>7439-97-6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>231-106-7</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Kwik en zijn verbindingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(22)</td>
+			<td>91-20-3</td>
+			<td>202-049-5</td>
+			<td>Naftaleen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(22)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>91-20-3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>202-049-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Naftaleen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(23)</td>
+			<td>7440-02-0</td>
+			<td>231-111-4</td>
+			<td>Nikkel en nikkelverbindingen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(23)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>7440-02-0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>231-111-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Nikkel en zijn verbindingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(24)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Nonylfenolen</td>
+			<td>X <sup>(5)</sup></td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(24)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>25154-52-3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>246-672-0</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Nonylfenol</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(25)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Octylfenolen <sup>(6)</sup></td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>104-40-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>203-199-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>(4nonylfenol)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(26)</td>
+			<td>608-93-5</td>
+			<td>210-172-0</td>
+			<td>Pentachloorbenzeen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td rowspan="2" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(25)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>1806-26-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>217-302-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Octylfenol</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(27)</td>
+			<td>87-86-5</td>
+			<td>201-778-6</td>
+			<td>Pentachloorfenol</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>140-66-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>(4-(1, 1’, 3, 3’-tetramethylbutyl)fenol)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(28)</td>
+			<td>Nvt</td>
+			<td>Nvt</td>
+			<td>Polycyclische aromatische koolwaterstoffen (PAK) <sup>(7)</sup></td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(26)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>608-93-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>210-172-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Pentachloorbenzeen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(29)</td>
+			<td>122-34-9</td>
+			<td>204-535-2</td>
+			<td>Simazine</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(27)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>87-86-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>201-778-6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Pentachloorfenol</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(30)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Tributyltinverbindingen</td>
+			<td>X <sup>(8)</sup></td>
 		</tr>
 		<tr>
-			<td rowspan="6" style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(28)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Polycyclische aromatische koolwaterstoffen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(31)</td>
+			<td>12002-48-1</td>
+			<td>234-413-4</td>
+			<td>Trichloorbenzenen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>50-32-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>200-028-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Benzo(a)pyreen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(32)</td>
+			<td>67-66-3</td>
+			<td>200-663-8</td>
+			<td>Trichloormethaan (chloroform)</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>205-99-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>205-911-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Benzo(b)fluoranteen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(33)</td>
+			<td>1582-09-8</td>
+			<td>216-428-8</td>
+			<td>Trifluraline</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>191-24-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>205-883-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Benzo(g, h, i)peryleen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(34)</td>
+			<td>115-32-2</td>
+			<td>204-082-0</td>
+			<td>Dicofol</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>207-08-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>205-916-6</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Benzo(k)fluoranteen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(35)</td>
+			<td>1763-23-1</td>
+			<td>217-179-8</td>
+			<td>Perfluoroctaansulfonzuur en zijn derivaten (PFOS)</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>193-39-5</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>205-893-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Indeno(1, 2, 3-cd)pyreen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(36)</td>
+			<td>124495-18-7</td>
+			<td>N.v.t.</td>
+			<td>Quinoxyfen</td>
+			<td>X</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(29)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>122-34-9</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>204-535-2</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Simazine</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(37)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Dioxinen en dioxineachtige verbindingen</td>
+			<td>X <sup>(9)</sup></td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(30)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>688-73-3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>211-704-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Tributyltinverbindingen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(38)</td>
+			<td>74070-46-5</td>
+			<td>277-704-1</td>
+			<td>Aclonifen</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>36643-28-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>Niet van toepassing</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Tributylinkation</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>X</p>
-			</td>
+			<td>(39)</td>
+			<td>42576-02-3</td>
+			<td>255-894-7</td>
+			<td>Bifenox</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(31)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>12002-48-1</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>234-413-4</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Trichloorbenzenen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(40)</td>
+			<td>28159-98-0</td>
+			<td>248-872-3</td>
+			<td>Cybutryne</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(32)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>67-66-3</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>200-663-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>Trichloormethaan (chloroform)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(41)</td>
+			<td>52315-07-8</td>
+			<td>257-842-9</td>
+			<td>Cypermethrin <sup>(10)</sup></td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:black 1pt solid; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:33.3pt">
-			<p>(33)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:118pt">
-			<p>1582-09-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:90.9pt">
-			<p>216-428-8</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:136.1pt">
-			<p>trifluralin</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:black 1pt solid; border-left:#f0f0f0; border-right:black 1pt solid; border-top:#f0f0f0; vertical-align:top; width:86.1pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>(42)</td>
+			<td>62-73-7</td>
+			<td>200-547-7</td>
+			<td>Dichloorvos</td>
+			<td>&nbsp;</td>
+		</tr>
+		<tr>
+			<td>(43)</td>
+			<td>N.v.t.</td>
+			<td>N.v.t.</td>
+			<td>Hexabroomcyclododecaan (HBCDD)</td>
+			<td>X <sup>(11)</sup></td>
+		</tr>
+		<tr>
+			<td>(44)</td>
+			<td>76-44-8/1024-57-3</td>
+			<td>200-962-3/213-831-0</td>
+			<td>Heptachloor en heptachloorepoxide</td>
+			<td>X</td>
+		</tr>
+		<tr>
+			<td>(45)</td>
+			<td>886-50-0</td>
+			<td>212-950-5</td>
+			<td>Terbutryn</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
-(*) Als groepen stoffen zijn geselecteerd, zijn typische voorbeelden daarvan als indicatieve parameter vermeld (tussen haakjes en zonder nummer). Voor die groepen stoffen moeten de indicatieve parameters worden bepaald door de analysemethoden.<br>
 <br>
-(**) Deze groepen stoffen omvatten meetal een groot aantal verschillende verbindingen. Adequater indicatieve parameters kunnen op dit moment niet worden vermeld.<br>
-<br>
-(***) Alleen pentabroomdifenylether (CAS-nummer 32534-81-9)<br>
-<br>
-(****) Fluoranteen is in de lijst opgenomen als een indicator voor andere, gevaarlijker polycyclische aromatische koolwaterstoffen.<br>
-<br>
-(1) CAS: Chemical Abstract Services<br>
-(2) nummer in de Europese inventaris van bestaande chemische handelsstoffen (European Inventory of Existing Commercial Chemical Substances: EINECS) of de Europese lijst van chemische stoffen waarvan kennisgeving is gedfaan (European List of Notified Chemical Substances: ELINCS)
+_______<br>
+Nota<br>
+<sup>(1)</sup> CAS: Chemical Abstract Services.<br>
+<sup>(2)</sup> EU-nummer: Europese inventaris van bestaande chemische handelsstoffen (EINECS) of de Europese lijst van chemische stoffen waarvan kennisgeving is gedaan (ELINCS).<br>
+<sup>(3)</sup> Als groepen van stoffen zijn geselecteerd, worden, tenzij anders vermeld, typische voorbeelden daarvan gebruikt bij het bepalen van de milieukwaliteitsnormen.<br>
+<sup>(4)</sup> Alleen tetra-, penta-, hexa- en heptabroomdifenylether (respectievelijk CAS-nummers 40088-47-9, 32534-81-9, 364863-60-0, 68928-80-3).<br>
+<sup>(5)</sup> Nonylfenol (CAS 25154-52-3, EU 246-672-0) met inbegrip van isomeren 4-nonylfenol (CAS 104-40-5, EU 203-199-4) en 4-nonylfenol (vertakt) (CAS 84852-15-3, EU 284-325-5).<br>
+<sup>(6)</sup> Octylfenol (CAS 1806-26-4, EU 217-302-5) met inbegrip van isomeer 4-(1,1',3,3'-tetramethylbutyl)-fenol (CAS 140-66-9, EU 205-426-2).<br>
+<sup>(7)</sup> Met inbegrip van benzo(a)pyreen (CAS 50-32-8), EU 200-028-5), benzo(b)fluoranteen (CAS 205-99-2, EU 205-911-9), benzo(g,h,i)peryleen (CAS 191-24-2, EU 205-883-8), benzo(k)fluoranteen, (CAS 207-08-9, EU 205-916-6), indeno(1,2,3-cd)pyreen (CAS 193-39-5, EU 205-893-2) en met uitzondering van antraceen, fluoranteen, en naftaleen, die afzonderlijk worden vermeld.<br>
+<sup>(8)</sup> Met inbegrip van tributyltin-kation (CAS 36643-28-4).<br>
+<sup>(9)</sup> Dioxinen en dioxineachtige verbindingen betreft de volgende verbindingen:<br>
+-7 polychloordibenzo-p-dioxinen (PCDD's): 2,3,7,8-T4CDD (CAS 1746-01-6), 1,2,3,7,8-P5CDD (CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (CAS 5765-85-7), 1,2,3,7,8,9-H6CDD (CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (CAS 3268-87-9);<br>
+-10 polychloordibenzofuranen (PCDF's): 2,3,7,8-T4CDF (CAS 51207-31-9), 1,2,3,7,8-P5CDF (CAS 57117-41-6), 2,3,4,7,8-P5CDF (CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (CAS 39001-02-0);<br>
+-12 dioxineachtige polychloorbifenylen (DL-PCB): 3,3',4,4'-T4CB (PCB 77, CAS 32598-13-3), 3,3',4',5-T4CB (PCB 81, CAS 70362-50-4), 2,3,3',4,4'-P5CB (PCB 105, CAS 32598-14-4), 2,3,4,4',5-P5CB (PCB 114 CAS 74472-37-0), 2,3'4,4',5-P5CB (PCB 118, CAS 31508-00-6), 2,3'4,4',5'-P5CB (PCB 123, CAS 65510-44-3), 3,3',4,4',5-P5CB (PCB 126 CAS 57465-28-8), 2,3,3',4,4',5-H6CB (PCB 156 CAS 38380-08-4), 2,3,3',4,4',5'-H6CB (PCB 157, CAS 69782-90-7), 2,3',4,4',5,5'-H6CB (PCB 167 CAS 52663-72-6), 3,3'4,4'5,5'-H6CB (PCB 169 CAS 32774-16-6), 2,3,3'4,4'5,5'-H7CB (PCB 189 CAS 39635-31-9).<br>
+<sup>(10)</sup> CAS 52315-07-8 betreft een mengsel van isomeren van cypermethrin, alpha- cypermethrin (CAS 67375-30-8), bèta-cypermethrin (CAS 65731-84-2), theta- cypermethrin (CAS 71697-59-1) en zèta-cypermethrin (CAS 52315-07-8).<br>
+<sup>(11)</sup> Dit betreft 1,3,5,7,9,11-hexabroomcyclodecaan, (CAS 25637-99-4), 1,2,5,6,9,10-hexabroomcyclododecaan (CAS 3194-55-6), alpha-hexabroomcyclodecaan (CAS 134237-50-6), beta-hexabroomcyclodecaan (CAS 134237-51-7) en gamma-hexabroomcyclodecaan (CAS 134237-52-8).
 
 ## BIJLAGE 2BIS
 
