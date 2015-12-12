@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026156,
+  "title": "Ministerieel besluit van 2015-11-18 houdende vaststelling van de data van het toelatingsexamen arts en tandarts in 2016",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026156/VolledigDocument?datum=2015-12-12",
+  "source_sha256": "cbdbddc3d90a330e575098a560c32ae34f4934825fe70704cc96b4affb329038",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026156&param=informatie",
+  "as_of": "2015-12-12",
+  "made": "2015-11-18",
+  "gazette": "2015-12-02",
+  "numac": 2015036466,
+  "document_start": "2015-12-12",
+  "document_end": null,
+  "in_force": "2015-12-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
