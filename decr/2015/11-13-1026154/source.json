@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026154,
+  "title": "Decreet van 2015-11-13 houdende instemming met het Internationaal Verdrag van Hongkong voor het veilig en milieuvriendelijk recycleren van schepen, gedaan te Hongkong op 15 mei 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026154/VolledigDocument?datum=2015-12-12",
+  "source_sha256": "a5d7459ba9c6752cf2420ae374802feab5eb5d0f5d1cb5b1c8787782275dbf3a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026154&param=informatie",
+  "as_of": "2015-12-12",
+  "made": "2015-11-13",
+  "gazette": "2015-12-02",
+  "numac": 2015036493,
+  "document_start": "2015-12-12",
+  "document_end": null,
+  "in_force": "2015-12-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
