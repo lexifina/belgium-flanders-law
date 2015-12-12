@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026152,
+  "title": "Decreet van 2015-11-13 houdende instemming met het Verdrag nr. 170 van de Internationale Arbeidsorganisatie betreffende de veiligheid bij het gebruik van chemische producten op het werk, aangenomen te Genève op 25 juni 1990",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026152/VolledigDocument?datum=2015-12-12",
+  "source_sha256": "57c85af55a5174e5b831fae35b1ef24f63fe70109ee366fc257bad3e57470dfe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026152&param=informatie",
+  "as_of": "2015-12-12",
+  "made": "2015-11-13",
+  "gazette": "2015-12-02",
+  "numac": 2015036461,
+  "document_start": "2015-12-12",
+  "document_end": null,
+  "in_force": "2015-12-12",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
