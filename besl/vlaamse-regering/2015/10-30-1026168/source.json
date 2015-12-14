@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026168,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot wijziging van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden en het besluit van de Vlaamse Regering van 4 maart 2011 tot vaststelling van de investeringssubsidie en de bouwtechnische en bouwfysische normen voor de sector van de voorzieningen voor gezinnen met kinderen, wat betreft de centra voor kinderzorg en gezinsondersteuning",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026168/VolledigDocument?datum=2015-12-14",
+  "source_sha256": "a3afaad14dd801cc22f92574a8478be83f804994b5736048a814714294f21e1d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026168&param=informatie",
+  "as_of": "2015-12-14",
+  "made": "2015-10-30",
+  "gazette": "2015-12-04",
+  "numac": 2015036460,
+  "document_start": "2015-12-14",
+  "document_end": null,
+  "in_force": "2015-12-14",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2015-12-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
