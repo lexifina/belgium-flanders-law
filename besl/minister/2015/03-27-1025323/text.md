@@ -10,7 +10,7 @@ In dit besluit wordt verstaan onder :<BR   style="WIDOWS: 1; TEXT-TRANSFORM: non
 
 ### ART. 2.
 
-Het maximale plafond voor de subsidie van de loonkosten wordt   voor het dienstjaar 2015 vastgelegd op de vastgestelde loonkosten van het   dienstjaar 2004, verhoogd met 23%.
+Het maximale plafond voor de subsidie van de loonkosten wordt voor het   dienstjaar 2015 vastgelegd op de vastgestelde loonkosten van het dienstjaar   2004, verhoogd met 27%.
 
 ### ART. 3.
 

@@ -2,16 +2,16 @@
   "codex_id": 1025323,
   "title": "Ministerieel besluit van 2015-03-27 houdende de vaststelling van het loon- en werkingsplafond voor de projecten die in 2014 gesubsidieerd werden via het Fonds voor Collectieve Uitrustingen en Diensten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025323/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "6c826bab590caa10352b02719591c6e2d96dd3e603ed2db45917c93e9da2d8c9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025323/VolledigDocument?datum=2015-12-15",
+  "source_sha256": "53c8b10d33f7fa5d23f399f9fce79e63372761aa322f09c5bf8d81dccf988937",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025323&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2015-12-15",
   "made": "2015-03-27",
   "gazette": "2015-04-29",
   "numac": 2015035525,
   "document_start": "2015-01-01",
   "document_end": null,
-  "in_force": "2015-01-01",
+  "in_force": "2015-12-15",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2015-12-15; future article versions excluded; article text as the API gives it"
 }
