@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026534,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-18 tot uitvoering van de algemene uitgavenbegroting voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026534/VolledigDocument?datum=2015-12-18",
+  "source_sha256": "74b985e89755afd067e99c53bcf4130d6549c42946da37bcbdd011c30ff4f7f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026534&param=informatie",
+  "as_of": "2015-12-18",
+  "made": "2015-12-18",
+  "gazette": "2016-03-10",
+  "numac": 2016035249,
+  "document_start": "2015-12-18",
+  "document_end": null,
+  "in_force": "2015-12-18",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
