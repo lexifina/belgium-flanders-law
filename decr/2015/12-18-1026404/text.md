@@ -1,0 +1,13 @@
+# Decreet van 2015-12-18 houdende wijziging van artikel 76 van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, wat de regularisatie van gesubsidieerde contractuelen betreft
+
+### ART. 1.
+
+Dit   decreet regelt een gewestaangelegenheid.
+
+### ART. 2.
+
+In   artikel 76 van het decreet van 19 december 2014 houdende bepalingen tot   begeleiding van de begroting 2015 worden de volgende wijzigingen aangebracht   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in het tweede lid wordt punt 1° vervangen door wat volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"1°   de tewerkstelling regulariseren via de toekenning van een subsidie;";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   er wordt een vierde lid toegevoegd, dat luidt als volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Met   behoud van de toepassing van het tweede lid kan de Vlaamse Regering, voor wat   betreft de gesubsidieerde contractuelen die zijn tewerkgesteld met een   overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van   de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van   gesubsidieerde contractuelen, en artikel 1, 13°, van het besluit van de Vlaamse   Regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr.   474 van 28 oktober 1986 tot opzetting van een stelsel van door de Staat   gesubsidieerde contractuelen bij sommige plaatselijke besturen, een regeling   treffen die gericht is op de beëindiging van de tewerkstelling in zoverre de   aard, de omvang en de doelstelling van de overeenkomst niet langer   overeenstemmen met de beleidsdoelstellingen van de Vlaamse Regering, en in   zoverre wordt voorzien in een gepaste beëindigingsregeling. De Vlaamse Regering   stelt de beëindigingsregeling vast.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 3.
+
+&nbsp;Dit decreet treedt in werking op 18   december 2015.

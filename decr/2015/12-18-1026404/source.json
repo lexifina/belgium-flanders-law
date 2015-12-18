@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026404,
+  "title": "Decreet van 2015-12-18 houdende wijziging van artikel 76 van het decreet van 19 december 2014 houdende bepalingen tot begeleiding van de begroting 2015, wat de regularisatie van gesubsidieerde contractuelen betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026404/VolledigDocument?datum=2015-12-18",
+  "source_sha256": "30d088d1d35b2d09b474ff090e85d7e480671fe8558de52deae92c40c824f48c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026404&param=informatie",
+  "as_of": "2015-12-18",
+  "made": "2015-12-18",
+  "gazette": "2016-02-05",
+  "numac": 2016035076,
+  "document_start": "2015-12-18",
+  "document_end": null,
+  "in_force": "2015-12-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
