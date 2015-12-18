@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026181,
+  "title": "Ministerieel besluit van 2015-11-05 houdende vaststelling van de algemene code van goede praktijk inzake bagger- en ruimingsspecie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026181/VolledigDocument?datum=2015-12-18",
+  "source_sha256": "13dacadd8563f07909bd7046376b894e35add13856a92da24b2115ee4f6aed5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026181&param=informatie",
+  "as_of": "2015-12-18",
+  "made": "2015-11-05",
+  "gazette": "2015-12-08",
+  "numac": 2015036500,
+  "document_start": "2015-12-18",
+  "document_end": "2019-03-31",
+  "in_force": "2015-12-18",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-12-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
