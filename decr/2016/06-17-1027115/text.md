@@ -6,6 +6,22 @@
 
 ## Afdeling I Decreet basisonderwijs
 
+### ART II.22.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 91 van hetzelfde decreet, vervangen bij het decreet van 19 juli 2013, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° paragraaf 2 wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 3 tot en met 6 worden hernummerd tot paragraaf 2 tot en met 5;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 3, die hernummerd wordt tot paragraaf 2, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) punt 1° wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) punt 2° tot en met 4° worden hernummerd tot punt 1° tot en met 3° ;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) er wordt een punt 4° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"4° de definitie van de doelgroep.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° paragraaf 4, die hernummerd wordt tot paragraaf 3, wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° in paragraaf 6, die hernummerd wordt tot paragraaf 5, wordt het cijfer "5" vervangen door het cijfer "4".</span><br>
+&nbsp;
+
 ## Afdeling II Inwerkingtreding
 
 ## HOOFDSTUK III Secundair onderwijs
@@ -49,6 +65,22 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De stagegever is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° tussen het vierde en het vijfde lid wordt een nieuw lid ingevoegd dat luidt als volgt :</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Alle met de bepalingen van dit artikel strijdige bedingen zijn nietig.".</span><br>
+&nbsp;
+
+### ART III.48.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 357 van dezelfde codex, vervangen bij het decreet van 19 juli 2013, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° paragraaf 2 wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 3 tot en met 6 worden hernummerd tot paragraaf 2 tot en met 5;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 3, die hernummerd wordt tot paragraaf 2, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) punt 1° wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) punt 2° tot en met 4° worden hernummerd tot punt 1° tot en met 3° ;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) er wordt een punt 4° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"4° de definitie van de doelgroep.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° paragraaf 4, die hernummerd wordt tot paragraaf 3, wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° in paragraaf 6, die hernummerd wordt tot paragraaf 5, wordt het cijfer "5" vervangen door het cijfer "4".</span><br>
 &nbsp;
 
 ## Afdeling II Leren en werken
@@ -143,6 +175,21 @@
 ## HOOFDSTUK X Diverse decreten
 
 ## Afdeling I Decreten betreffende het onderwijs
+
+### ART X.1.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 67 van het decreet van 8 juli 1996 betreffende het onderwijs VII, vervangen bij het decreet van 19 juli 2013 en gewijzigd bij het decreet van 25 april 2014, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° paragraaf 2 wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 3 tot en met 6 worden hernummerd tot paragraaf 2 tot en met 5;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 3, die hernummerd wordt tot paragraaf 2, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) punt 1° wordt opgeheven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) punt 2° tot en met 4° worden hernummerd tot punt 1° tot en met 3° ;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) er wordt een punt 4° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"4° de definitie van de doelgroep.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° paragraaf 4, die hernummerd wordt tot paragraaf 3, wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 3. Indien deze speciale onderwijsleermiddelen, vermeld in paragraaf 1, de vorm aannemen van tolken Vlaamse gebarentaal of schrijftolken, dan verleent de Vlaamse Regering voor de realisatie van deze tolkuren een subsidie aan een centraal tolkenbureau, die bestaat uit enerzijds werkingsmiddelen voor dit tolkenbureau en anderzijds lonen en verplaatsingskosten voor de tolken. De Vlaamse Regering bepaalt de verdere voorwaarden voor de werking van dit tolkenbureau.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° in paragraaf 6, die hernummerd wordt tot paragraaf 5, wordt het cijfer "5" vervangen door het cijfer "4".</span><br>
+&nbsp;
 
 ## Afdeling II Decreet betreffende de centra voor leerlingenbegeleiding
 
