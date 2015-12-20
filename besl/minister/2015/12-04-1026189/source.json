@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026189,
+  "title": "Ministerieel besluit van 2015-12-04 houdende wijziging van het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw en van het ministerieel besluit van 15 september 2009 betreffende de vaststelling van de gelijkwaardigheid van innovatieve systemen, bouwconcepten of technologieën in het kader van de energieprestatieregelgeving",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026189/VolledigDocument?datum=2015-12-20",
+  "source_sha256": "82f661527e5bd0b5a61155ae654435cca73baf6c54b47e004dc6a5c1c513231d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026189&param=informatie",
+  "as_of": "2015-12-20",
+  "made": "2015-12-04",
+  "gazette": "2015-12-10",
+  "numac": 2015036533,
+  "document_start": "2015-12-20",
+  "document_end": null,
+  "in_force": "2015-12-20",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2015-12-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
