@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026195,
+  "title": "Protocol van 2015-10-19 van de ministers, die de volksgezondheid onder hun bevoegdheden hebben, betreffende de registratie van de behandelingsaanvragen betreffende drugs en alcohol door middel van de Europese Treatment Demand Indicator, bl. 73454",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026195/VolledigDocument?datum=2015-12-21",
+  "source_sha256": "12e0318cc1976ff2c9a2242fc8d64f31e65e893e39ccde9f5de929d17a17f5a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026195&param=informatie",
+  "as_of": "2015-12-21",
+  "made": "2015-10-19",
+  "gazette": "2015-12-11",
+  "numac": 2015024274,
+  "document_start": "2015-12-21",
+  "document_end": null,
+  "in_force": "2015-12-21",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2015-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
