@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026199,
+  "title": "Protocol van 2015-10-19 betreffende de ontwikkeling en de implementatie van het BelRAI-instrument",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026199/VolledigDocument?datum=2015-12-21",
+  "source_sha256": "0926f5ca9bd0e9d3f01baa52d1c4230cba787a7af9e44f33dc9c44d26acbc44f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026199&param=informatie",
+  "as_of": "2015-12-21",
+  "made": "2015-10-19",
+  "gazette": "2015-12-11",
+  "numac": 2015024271,
+  "document_start": "2015-12-21",
+  "document_end": null,
+  "in_force": "2015-12-21",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
