@@ -1,0 +1,17 @@
+# Besluit van de Vlaamse Regering van 2015-10-30 houdende indeling bij de gemeentewegen van de gewestwegen N473A Zelestraat en Brugstraat tussen kilometerpunt 0,000 en 1,170 en N473B tussen kilometerpunt 0,000 en 0,118 op het grondgebied van de stad Lokeren
+
+### Aanhef
+
+De   Vlaamse Regering,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het Gemeentedecreet van 15 juli 2005, art. 192, gewijzigd bij Decreet van 29   juni 2012 tot wijziging van het Gemeentedecreet van 15 juli 2005;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op de beslissing van 1 september 2014 van de gemeenteraad van de stad   Lokeren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het advies van de Inspectie van Financiën, gegeven op 18 mei 2015;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Overwegende   dat de betrokken weggedeelten enkel nog van plaatselijk nut zijn en aldus niet   langer als gewestweg dienen behouden te worden;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Overwegende   dat de betrokken weggedeelten in goede staat zullen gebracht worden door de stad   Lokeren, mits een financiële tussenkomst van het Vlaamse Gewest, volgens de   modaliteiten van de overeenkomst die zal worden afgesloten tussen het Vlaamse   Gewest en de stad Lokeren;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Op   voorstel van de Vlaamse minister van Mobiliteit, Openbare Werken, Vlaamse Rand,   Toerisme en Dierenwelzijn;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Na   beraadslaging,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+De N473A Zelestraat en Brugstraat tussen kilometerpunt 0,000   en 1,170 en N473B Zand tussen kilometerpunt 0,000 en 0,118, gelegen op het   grondgebied van de stad Lokeren, worden ingedeeld bij de   gemeentewegen.
+
+### ART. 2.
+
+De stad Lokeren ontvangt voor deze overdracht een   investeringssubsidie voor het in goede staat brengen van de weg, volgens de   modaliteiten van de overeenkomst die zal afgesloten worden tussen de Vlaamse   overheid en de stad Lokeren.
+
+### ART. 3.
+
+De Vlaamse minister, bevoegd voor het mobiliteitsbeleid, de   openbare werken en het vervoer is belast met de uitvoering van dit   besluit.
