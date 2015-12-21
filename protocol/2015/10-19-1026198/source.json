@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026198,
+  "title": "Protocol van 2015-10-19 tussen de Federale Regering en de in artikel 128, 130, 135 en 138 van de Grondwet bedoelde overheden inzake travel clinics",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026198/VolledigDocument?datum=2015-12-21",
+  "source_sha256": "22e4e23b252896cdb1ad17b9638e19630d12f2d14fe8ea2fb9afa0d8c7de8be0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026198&param=informatie",
+  "as_of": "2015-12-21",
+  "made": "2015-10-19",
+  "gazette": "2015-12-11",
+  "numac": 2015024279,
+  "document_start": "2015-12-21",
+  "document_end": null,
+  "in_force": "2015-12-21",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2015-12-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
