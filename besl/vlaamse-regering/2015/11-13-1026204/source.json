@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026204,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-13 houdende opheffing van de Watering Overbroek",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026204/VolledigDocument?datum=2015-12-24",
+  "source_sha256": "e5d56c1a24fcf02e3f8a5c08b0b65b73db47a2302dcd3c947609c835a2626d13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026204&param=informatie",
+  "as_of": "2015-12-24",
+  "made": "2015-11-13",
+  "gazette": "2015-12-14",
+  "numac": 2015036526,
+  "document_start": "2015-12-24",
+  "document_end": null,
+  "in_force": "2015-12-24",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-12-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
