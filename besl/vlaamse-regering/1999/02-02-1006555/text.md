@@ -2,15 +2,15 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° het decreet: het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de begroting 1999;<br /><br />2° het Fonds: het Fonds culturele infrastructuur, bedoeld in artikel 49 van het decreet;<br /><br />3° de Vlaamse minister: het lid van de Vlaamse regering, bevoegd voor de cultuur;<br /><br />4° de leidend ambtenaar van het departement van het beleidsdomein Cultuur, Jeugd, Sport en Media : de leidend ambtenaar, bedoeld in artikel 2;<br /><br />5° het besluit van de Vlaamse regering van 21 mei 1997: het besluit van de Vlaamse regering van 21 mei 1997 betreffende een geïntegreerde economische boekhouding en budgettaire rapportering voor de Vlaamse openbare instellingen;<br /><br />6° het ministerieel besluit van 16 december 1998: het ministerieel besluit van 16 december 1998 houdende delegatie van sommige bevoegdheden inzake cultuur aan ambtenaren van het ministerie van de Vlaamse Gemeenschap;<br /><br />7° subsidiebeslissing: verbintenis om voor een investering een investeringssubsidie toe te kennen.
+<P>Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het decreet:   het decreet van 19 december 1998 houdende bepalingen tot begeleiding van de   begroting 1999;<BR>2° het Fonds: het Fonds culturele infrastructuur, bedoeld in   artikel 49 van het decreet;<BR>3° de Vlaamse minister: het lid van de Vlaamse   regering, bevoegd voor de cultuur;<BR>4° de leidend ambtenaar : de leidend   ambtenaar van het Departement Cultuur, Jeugd, Sport en Media, opgericht bij   artikel 24 van het besluit van de Vlaamse Regering van 3 juni 2005 met   betrekking tot de organisatie van de Vlaamse administratie.</P>
 
 ### ART. 2.
 
-De leidend ambtenaar van het departement van het beleidsdomein Cultuur, Jeugd, Sport en Media wordt namens de Vlaamse regering belast met de leiding, het dagelijkse en het financiële beheer van het Fonds.
+De leidend ambtenaar wordt namens de Vlaamse regering belast met de   leiding, het dagelijkse en het financiële beheer van het Fonds.
 
 ### ART. 3.
 
-Onder het dagelijkse en het financiële beheer van het Fonds wordt verstaan:<br /><br />1° het ondertekenen van de dagelijkse briefwisseling, de nota's, de ambtberichten en de documenten met betrekking tot het Fonds;<br /><br />2° het ontvangen van de gewone en de aangetekende zendingen, inclusief de dagvaardingen betekend aan het Fonds;<br /><br />3° het eensluidend verklaren van uittreksels en afschriften van documenten;<br /><br />4° het geven van alle goedkeuringen en het nemen van alle beslissingen die voor de afhandeling van de dossiers investeringssubsidies als bedoeld in artikel 51, 1°, van het decreet noodzakelijk zijn, met inbegrip van het ontvangen, het nazien, het doorsturen en de voortgangsbewaking van de dossiers, maar met uitzondering van het nemen van de subsidiebeslissing;<br /><br />5° het nemen van de beslissingen die nodig zijn voor de uitvoering van artikel 51, 2°, van het decreet conform artikel 8 van het ministerieel besluit van 16 december 1998, dat van overeenkomstige toepassing is;<br /><br />6° de terugvordering van ten onrechte gedane betalingen.
+<P>De leidend ambtenaar van het Fonds heeft delegatie van beslissingsbevoegdheid   voor de aangelegenheden vermeld in artikel 8, 9, 13,14, 14bis, 15 en 16, van het   besluit van de Vlaamse Regering van 10 oktober 2003 tot regeling van de   delegatie van beslissingsbevoegdheden aan de hoofden van de intern   verzelfstandigde agentschappen van de Vlaamse overheid.<BR><BR>Naast de   delegaties voor de aangelegenheden, vermeld in het eerste lid, wordt aan de   leidend ambtenaar van het Fonds culturele infrastructuur ook de specifieke   delegatie verleend om bij financiële instellingen rekeningen te openen en te   beheren.</P>
 
 ### ART. 4.
 
@@ -30,7 +30,7 @@ Het Fonds maakt jaarlijks een begroting op conform de richtlijnen van de Vlaamse
 
 ### ART. 8.
 
-Teneinde de Vlaamse regering in staat te stellen te voldoen aan de verplichting, haar opgelegd bij artikel 53 van het decreet, stelt de leidend ambtenaar jaarlijks een verslag op over de werking en het beheer van het Fonds. Conform artikel 10 van het besluit van de Vlaamse regering van 21 mei 1997 wordt het verslag uiterlijk 30 juni van het jaar volgend op het boekjaar bezorgd aan de Vlaamse minister en aan de Vlaamse minister, bevoegd voor de financiën en de begroting.
+Teneinde de Vlaamse regering in staat te stellen te voldoen aan de   verplichting, haar opgelegd bij artikel 53 van het decreet, stelt de leidend   ambtenaar jaarlijks een verslag op over de werking en het beheer van het Fonds.   Het verslag wordt uiterlijk 30 juni van het jaar dat volgt op het boekjaar,   bezorgd aan de Vlaamse minister en aan de Vlaamse minister, bevoegd voor de   financiën en de begrotingen.
 
 ### ART. 9.
 
