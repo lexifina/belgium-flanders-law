@@ -631,23 +631,23 @@ Artikel 33 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding v
 
 ### ART. 93.
 
-Bij het beleidsdomein Financiën en Begroting wordt een intern verzelfstandigd agentschap met rechtspersoonlijkheid opgericht als bedoeld in artikel 10bis van het kaderdecreet bestuurlijk beleid van 18 juli 2003. Dit agentschap draagt als naam « het Vlaams Toekomstfonds » en hierna het Fonds te noemen.<br /><br />
+...<BR>
 
 ### ART. 94.
 
-In afwijking van artikel 10, § 4, en artikel 39 van het kaderdecreet bestuurlijk beleid van 18 juli 2003, wordt het hoofd van het departement van het beleidsdomein Financiën en Begroting met de algemene leiding, de werking en vertegenwoordiging van het Vlaams Toekomstfonds belast.<br /><br />In afwijking van artikel 10, § 4, wordt er tussen het hoofd van het Vlaams Toekomstfonds en de Vlaamse Regering geen beheersovereenkomst afgesloten.<br /><br />De Vlaamse Regering regelt de werking van het Fonds.<br />
+<P>...</P>
 
 ### ART. 95.
 
-De middelen van het Fonds zijn :<br />1° een dotatie ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° alle inkomsten voortvloeiend uit activiteiten en beleggingen van het Fonds;<br />3° het gebeurlijke saldo op het einde van het voorgaande begrotingsjaar op het Fonds;<br />4° de terugvorderingen voortvloeiend uit ten onrechte gedane betalingen.<br /><br />
+...<BR>
 
 ### ART. 96.
 
-Behoudens andersluidende bepalingen, worden de begroting en de rekening opgemaakt en goedgekeurd en de controle door het Rekenhof uitgevoerd overeenkomstig de bepalingen van de wet van 16 maart 1954 betreffende de controle op de instellingen van openbaar nut van categorie A.
+<P>...</P>
 
 ### ART. 97
 
-De middelen van het Fonds kunnen aangewend worden om uitgaven te financieren verbonden aan :<br />1° de afbouw van de directe en indirecte schuld van de Vlaamse Gemeenschap of het Vlaamse Gewest;<br />2° de door de Vlaamse Regering, op voorstel van de Vlaamse minister, bevoegd voor de begroting, vast te stellen bestemmingen;<br />3° de werkingskosten eigen aan het Fonds.
+<P>...</P>
 
 ## HOOFDSTUK XXXIV Inwerkingtreding van Comptabiliteitsdecreet
 
