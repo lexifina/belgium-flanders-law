@@ -2,16 +2,16 @@
   "codex_id": 1026712,
   "title": "Decreet van 2016-03-25 houdende wijziging van diverse bepalingen betreffende de pensioenen van de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en hun rechtverkrijgenden",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026712/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "70accb100592867c85134d9ea1b58e8b8ddedfe1b19a1fac2ef1ba9eacd6b809",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026712/VolledigDocument?datum=2015-12-31",
+  "source_sha256": "830225164615070a1342d1a7254fb6451fbec99863f12bd616c9a2ab281e3c18",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026712&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2015-12-31",
   "made": "2016-03-25",
   "gazette": "2016-04-14",
   "numac": 2016035674,
   "document_start": "2016-04-24",
   "document_end": null,
-  "in_force": "2013-01-01",
-  "article_versions": 24,
-  "record_form": "consolidated version as in force on 2013-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-12-31",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2015-12-31; future article versions excluded; article text as the API gives it"
 }

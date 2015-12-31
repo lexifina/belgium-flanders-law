@@ -4,6 +4,14 @@
 
 ## Hoofdstuk 2 Wijzigingen van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch orkest en het VRT-koor
 
+### ART. 2.
+
+In   artikel 4, § 1, tweede lid, van het decreet van 13 april 1999 tot regeling van   de rechtspositie van het statutair en het contractueel personeel van het   VRT-Filharmonisch orkest en het VRT-koor, gewijzigd bij het decreet van 5 juli   2013, worden de woorden "aan het Pensioenfinancieringsorganisme Statutairen VRT"   vervangen door de woorden "voor de pensioenen van de statutaire   personeelsleden".
+
+### ART. 3.
+
+&nbsp;In artikel 6 van hetzelfde decreet,   gewijzigd bij het decreet van 5 juli 2013, worden de woorden "voor de statutaire   personeelsleden aan het Pensioenfinancieringsorganisme Statutairen VRT"   vervangen door de woorden "voor de pensioenen van de statutaire   personeelsleden".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## Hoofdstuk 3 Wijzigingen van het decreet van 25 april 2014 betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de overlevingspensioenen, toegekend aan de rechtverkrijgenden van die personeelsleden
 
 ### ART. 4.
