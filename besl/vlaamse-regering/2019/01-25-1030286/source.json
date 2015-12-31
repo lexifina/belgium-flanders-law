@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030286,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-25 tot wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie en het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de aanpassing aan het Bestuursdecreet van 7 december 2018",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030286/VolledigDocument?datum=2015-12-31",
+  "source_sha256": "db71128501e430b653863b61910a26eba589413566ae39c18207044bf4a12aed",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030286&param=informatie",
+  "as_of": "2015-12-31",
+  "made": "2019-01-25",
+  "gazette": "2019-02-22",
+  "numac": 2019010865,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2015-12-31",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2015-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
