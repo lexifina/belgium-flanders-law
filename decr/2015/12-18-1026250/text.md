@@ -218,9 +218,25 @@ In   artikel 100quater, eerste lid, van het decreet van 31 juli 1990 betreffende
 
 ## Afdeling 3 Hervorming Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven (FFEU)
 
+### ART. 90.
+
+<P>Het   decreet van 22 december 2000 houdende oprichting van een Financieringsfonds voor   Schuldafbouw en Eenmalige Investeringsuitgaven wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   gehele vermogen, met inbegrip van alle rechten en plichten, openstaande   vastleggingen en vorderingen, activa en passiva, van het ontbonden   Financieringsfonds voor schuldafbouw en eenmalige uitgaven wordt van rechtswege   overgedragen aan de Vlaamse Gemeenschap op 31 december 2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering wordt gemachtigd om de verdeling van de overgekomen kredieten   te bepalen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering wordt gemachtigd om de vereffening van het Financieringsfonds   voor Schuldafbouw en Eenmalige Investeringsuitgaven af te handelen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 91.
+
+De   Vlaamse Regering wordt gemachtigd om jaarlijks de op het einde van het   begrotingsjaar beschikbare vastleggingskredieten op de begroting van de Vlaamse   Gemeenschap, beperkt tot de som van de niet-gebruikte vereffeningskredieten te   herverdelen over de programma's heen naar de provisie investeringsmiddelen. Deze   provisie kan voor investeringsgerelateerde uitgaven en schuldafbouw worden   aangewend.
+
 ## Afdeling 4 Opheffing DAB Veiling Emissierechten
 
+### ART. 92.
+
+<P>Artikel   20 van het decreet van 9 november 2012 houdende diverse bepalingen betreffende   financiën en begroting wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   gehele vermogen, met inbegrip van alle rechten en plichten, openstaande   vastleggingen en vorderingen, activa en passiva van de ontbonden Dienst met   Afzonderlijk Beheer Veiling Emissierechten wordt van rechtswege overgedragen aan   de Vlaamse Gemeenschap op 31 december 2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
 ## Afdeling 5 Opheffing Vlaams Toekomstfonds
+
+### ART. 93.
+
+<P>Artikel   93 tot en met 97 van het decreet van 22 december 2006 houdende bepalingen tot   begeleiding van de aanpassing van de begroting 2007 worden opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   gehele vermogen, met inbegrip van alle rechten en plichten, openstaande   vastleggingen en vorderingen en activa en passiva, van het ontbonden Vlaams   Toekomstfonds wordt van rechtswege overgedragen aan de Vlaamse Gemeenschap op 31   december 2015.</P>
 
 ## Afdeling 6 Erfbelasting
 
@@ -233,6 +249,10 @@ In   artikel 100quater, eerste lid, van het decreet van 31 juli 1990 betreffende
 In   artikel 2.8.4.3.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013,   ingevoegd bij het decreet van 19 december 2014, worden de volgende wijzigingen   aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1, eerste lid, wordt tussen de zinsnede "wordt de schenkbelasting   voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest" en de   zinsnede "berekend volgens het tarief" de zinsnede "en gedaan met ingang van 1   juli 2015," ingevoegd;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 2, eerste lid, wordt tussen de zinsnede "wordt de schenkbelasting   voor schenkingen van onroerende goederen gelegen in het Vlaamse Gewest" en de   zinsnede "berekend volgens het tarief" de zinsnede "en gedaan met ingang van 1   juli 2015," ingevoegd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 9 Onroerende voorheffing
+
+### ART. 97.
+
+Artikel   3 van het decreet van 17 juli 2015 tot wijziging van de Vlaamse Codex   Fiscaliteit van 13 december 2013 wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ### ART. 99.
 
