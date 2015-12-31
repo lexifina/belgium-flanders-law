@@ -102,7 +102,7 @@ Aan artikel 97 van het decreet van 18 december 2009 houdende bepalingen tot bege
 
 ### ART. 20.
 
-Er wordt een dienst met afzonderlijk beheer opgericht, zoals bedoeld in artikel 3, § 1, van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof, met als naam 'Veiling Emissierechten'. De dienst met afzonderlijk beheer Veiling Emissierechten is belast met de overdracht van emissierechten uit de toewijzingsreserve voor de eerste verbintenisperiode, zoals bedoeld in het besluit van de Vlaamse Regering van 20 april 2012 inzake verhandelbare emissierechten voor broeikasgassen voor vaste installaties en de inzet van flexibele mechanismen. In dit kader zal zij autonoom veilingen van voormelde emissierechten organiseren.<br /><br />De inkomsten van de veilingen van de dienst met afzonderlijk beheer Veiling Emissierechten worden na verrekening van de kosten, verbonden aan de veilingen en de eigen werking, als opbrengst van de veilingen doorgestort aan het Vlaams Klimaatfonds, zoals bedoeld in artikel 14 van het decreet van 13 juli 2012 houdende bepalingen tot begeleiding van de tweede aanpassing van de begroting 2012.<br /><br />De Vlaamse Regering stelt de uitvoeringsbepalingen vast van het veilingprocedé en bepaalt de regels aangaande het materieel beheer van de dienst met afzonderlijk beheer Veiling Emissierechten.<br /><br />
+...<BR>
 
 ## HOOFDSTUK 7 Slotbepalingen
 
