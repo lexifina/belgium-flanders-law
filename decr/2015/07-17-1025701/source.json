@@ -2,16 +2,16 @@
   "codex_id": 1025701,
   "title": "Decreet van 2015-07-17 tot wijziging van de Vlaamse Codex Fiscaliteit van 13 december 2013",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025701/VolledigDocument?datum=2015-08-14",
-  "source_sha256": "8f70df3e3458b4779f9fea3e4020576321e4cdad0b86b1baca542f9cc99816b5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025701/VolledigDocument?datum=2015-12-31",
+  "source_sha256": "8806ab98e53cc937f5f1a937a6f6c979bf9b1b287b7aa69d5ff0ed5330c32b0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025701&param=informatie",
-  "as_of": "2015-08-14",
+  "as_of": "2015-12-31",
   "made": "2015-07-17",
   "gazette": "2015-08-14",
   "numac": 2015036040,
   "document_start": "2015-08-14",
   "document_end": null,
-  "in_force": "2015-08-14",
-  "article_versions": 39,
-  "record_form": "consolidated version as in force on 2015-08-14; future article versions excluded; article text as the API gives it"
+  "in_force": "2015-12-31",
+  "article_versions": 40,
+  "record_form": "consolidated version as in force on 2015-12-31; future article versions excluded; article text as the API gives it"
 }
