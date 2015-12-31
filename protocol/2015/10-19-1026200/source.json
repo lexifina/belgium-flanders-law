@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026200,
+  "title": "Protocol van 2015-10-19 Aanhangsel bij het protocol gesloten op 15 mei 2014 tussen de Federale Staat, de Vlaamse Gemeenschap, de Franse Gemeenschap, het Waals Gewest, de Duitstalige Gemeenschap, de Franse Gemeenschapscommissie en de Gemeenschappelijke Gemeenschapscommissie, met betrekking tot de uitoefening van de aan de deelstaten toegewezen bevoegdheden op het vlak van volksgezondheid en gezondheidszorg tijdens de overgangsperiode in het kader van de bijzondere wet van 6 januari 2014 met betrekking tot de Zesde Staatshervorming",
+  "type": "Protocol",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026200/VolledigDocument?datum=2015-12-31",
+  "source_sha256": "c9ff367f76692ad17b6e761a35a12d2f321c7c86af1caca82bb77b3086699a42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026200&param=informatie",
+  "as_of": "2015-12-31",
+  "made": "2015-10-19",
+  "gazette": "2015-12-11",
+  "numac": 2015024277,
+  "document_start": "2015-12-31",
+  "document_end": null,
+  "in_force": "2015-12-31",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2015-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
