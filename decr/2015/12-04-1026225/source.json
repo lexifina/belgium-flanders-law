@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026225,
+  "title": "Decreet van 2015-12-04 houdende instemming met het samenwerkingsakkoord van 15 mei 2014 tussen de Vlaamse Gemeenschap, de Franse Gemeenschap en de Duitstalige Gemeenschap over de toetreding tot het Uitgebreid gedeeltelijk akkoord over sport (EPAS), ingevoerd door de resolutie van de Raad van Europa van 11 mei 2007, zoals gewijzigd op 13 oktober 2010",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026225/VolledigDocument?datum=2015-12-31",
+  "source_sha256": "cfa2507804d86c2691576d16db1944079ca94e7d8861016c0c6b5efaff647ae4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026225&param=informatie",
+  "as_of": "2015-12-31",
+  "made": "2015-12-04",
+  "gazette": "2015-12-21",
+  "numac": 2015036560,
+  "document_start": "2015-12-31",
+  "document_end": null,
+  "in_force": "2015-12-31",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2015-12-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
