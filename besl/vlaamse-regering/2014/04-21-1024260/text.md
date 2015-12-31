@@ -112,7 +112,7 @@ Als met een zelfde installatie producten worden vervaardigd waarvoor een   produ
 
 ### ART. 15.
 
-<P>De begunstigde moet aan het Agentschap Ondernemen het bewijs voorleggen dat   aan de criteria voor een aanzienlijke capaciteitsuitbreiding is voldaan en dat   de aanzienlijke capaciteitsuitbreiding door het verificatiebureau werd   geverifieerd en bevredigend werd bevonden. De verificatie heeft betrekking op de   betrouwbaarheid, geloofwaardigheid en nauwkeurigheid van de met betrekking tot   de installatie verstrekte gegevens en resulteert in een verificatieadvies dat   met een redelijke mate van zekerheid aangeeft dat de overgelegde gegevens vrij   zijn van beduidende onjuiste opgaven.<BR></P>  <P>In geval van een aanzienlijke capaciteitsuitbreiding wordt het   basisproductievolume of het basiselektriciteitsverbruik voor de berekening van   het subsidiebedrag vanaf het kalenderjaar dat volgt op de aanzienlijke   capaciteitsuitbreiding, verhoogd in verhouding tot die   capaciteitsuitbreiding.<BR></P>  <P>De nadere regels in verband met de bepaling van de capaciteit en   capaciteitsuitbreiding worden door de minister en de Vlaamse minister, bevoegd   voor het leefmilieu, verder uitgewerkt.<BR></P>
+<P>De begunstigde moet aan het Agentschap Innoveren en Ondernemen het bewijs   voorleggen dat aan de criteria voor een aanzienlijke capaciteitsuitbreiding is   voldaan en dat de aanzienlijke capaciteitsuitbreiding door het verificatiebureau   werd geverifieerd en bevredigend werd bevonden. De verificatie heeft betrekking   op de betrouwbaarheid, geloofwaardigheid en nauwkeurigheid van de met betrekking   tot de installatie verstrekte gegevens en resulteert in een verificatieadvies   dat met een redelijke mate van zekerheid aangeeft dat de overgelegde gegevens   vrij zijn van beduidende onjuiste opgaven.<BR></P>  <P>In geval van een aanzienlijke capaciteitsuitbreiding wordt het   basisproductievolume of het basiselektriciteitsverbruik voor de berekening van   het subsidiebedrag vanaf het kalenderjaar dat volgt op de aanzienlijke   capaciteitsuitbreiding, verhoogd in verhouding tot die   capaciteitsuitbreiding.<BR></P>  <P>De nadere regels in verband met de bepaling van de capaciteit en   capaciteitsuitbreiding worden door de minister en de Vlaamse minister, bevoegd   voor het leefmilieu, verder uitgewerkt.<BR></P>
 
 ## Onderafdeling 4 Gereduceerde capaciteitsbenutting
 
@@ -124,23 +124,23 @@ Als met een zelfde installatie producten worden vervaardigd waarvoor een   produ
 
 ### ART. 17.
 
-<P>De onderneming dient een subsidieaanvraag in overeenkomstig de instructies,   vermeld op de website van het Agentschap Ondernemen, en uiterlijk op 31 maart   van het kalenderjaar dat volgt op het kalenderjaar waarin de kosten zijn   gemaakt.<BR></P>  <P>In afwijking van het eerste lid kan de onderneming in het kalenderjaar 2014   een subsidieaanvraag indienen uiterlijk op 30 juni 2014.<BR></P>  <P>De subsidieaanvraag kan voor het eerst ingediend worden op 1 januari 2014   voor het kalenderjaar 2013 en daarna jaarlijks tot en met 31 maart   2021.<BR></P>
+<P>De onderneming dient een subsidieaanvraag in overeenkomstig de instructies,   vermeld op de website van het Agentschap Innoveren en Ondernemen, en uiterlijk   op 31 maart van het kalenderjaar dat volgt op het kalenderjaar waarin de kosten   zijn gemaakt.<BR></P>  <P>In afwijking van het eerste lid kan de onderneming in het kalenderjaar 2014   een subsidieaanvraag indienen uiterlijk op 30 juni 2014.<BR></P>  <P>De subsidieaanvraag kan voor het eerst ingediend worden op 1 januari 2014   voor het kalenderjaar 2013 en daarna jaarlijks tot en met 31 maart   2021.<BR></P>
 
 ### ART. 18.
 
-Het verificatiebureau verifieert de cijfers die ingevuld zijn in de   subsidieaanvraag, en geeft in een verslag aan het Agentschap Ondernemen aan of   met redelijke mate van zekerheid aangegeven kan worden dat de gerapporteerde   gegevens vrij zijn van beduidend onjuiste opgaven.<BR>
+Het verificatiebureau verifieert de cijfers die ingevuld zijn in de   subsidieaanvraag, en geeft in een verslag aan het Agentschap Innoveren en   Ondernemen aan of met redelijke mate van zekerheid aangegeven kan worden dat de   gerapporteerde gegevens vrij zijn van beduidend onjuiste   opgaven.<BR>
 
 ### ART. 19.
 
-Het Agentschap Ondernemen beoordeelt of de onderneming voldoet aan de   voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de   uitvoeringsbesluiten ervan, en bepaalt de hoogte van het   subsidiebedrag.<BR>
+Het Agentschap Innoveren en Ondernemen beoordeelt of de onderneming   voldoet aan de voorwaarden, vermeld in het decreet van 16 maart 2012, dit   besluit en de uitvoeringsbesluiten ervan, en bepaalt de hoogte van het   subsidiebedrag.<BR>
 
 ### ART. 20.
 
-De minister beslist over de subsidieverlening op voorstel van het   Agentschap Ondernemen.<BR>
+De minister beslist over de subsidieverlening op voorstel van het   Agentschap Innoveren en Ondernemen.<BR>
 
 ### ART. 21.
 
-De onderneming wordt schriftelijk op de hoogte gebracht van de beslissing   door het Agentschap Ondernemen.<BR>
+De onderneming wordt schriftelijk op de hoogte gebracht van de beslissing   door het Agentschap Innoveren en Ondernemen.<BR>
 
 ### ART. 22.
 
