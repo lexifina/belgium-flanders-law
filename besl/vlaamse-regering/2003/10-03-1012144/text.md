@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<br />1° het agentschap: het Vlaams Agentschap voor Basisonderzoek;<br />2° de raad van bestuur: de raad van bestuur van het agentschap;<br />3° de minister: de Vlaamse minister belast met het toezicht op het agentschap;<br />4° O&O-actor: rechtspersoon die actief is in het domein van onderzoek en technologische innovatie;<br />5° Vlaamse universiteit: de instellingen vermeld in artikel 3 van het decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap;<br />6° Vlaamse hogeschool: de instellingen bedoeld artikel 2, 1° van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br />7° Vlaamse O&O-actor: een in het Vlaamse Gewest gevestigde O&O-actor evenals een in het Brussels Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse hogeschool;<br />8° Hoger-onderwijsinstelling : een Vlaamse universiteit of een Vlaamse hogeschool; <br />9° Onderzoekscentrum : een entiteit, ongeacht haar rechtsvorm (publiek- of privaatrechtelijke organisatie) of financieringswijze, die zich in hoofdzaak bezighoudt met het verrichten van fundamenteel onderzoek, industrieel onderzoek of experimentele ontwikkeling en het verspreiden van de resultaten daarvan door middel van onderwijs, publicaties of technologieoverdracht, buiten de hoger-onderwijsinstellingen; alle winst wordt opnieuw geïnvesteerd in die activiteiten, in de verspreiding van de resultaten daarvan, of in onderwijs. Ondernemingen die invloed over dergelijke entiteit kunnen uitoefenen door middel van bijvoorbeeld aandeelhouders of leden, genieten geen preferente toegang tot de onderzoekscapaciteit van een dergelijke entiteit of tot de resultaten van haar onderzoek.
+In dit besluit wordt verstaan onder:<BR>1° het agentschap: het Fonds voor   Wetenschappelijk Onderzoek, afgekort FWO;<BR>2° de raad van bestuur: de raad van   bestuur van het agentschap;<BR>3° de minister: de Vlaamse minister belast met   het toezicht op het agentschap;<BR>4° ...<BR>5° Vlaamse universiteit: de   instellingen vermeld in artikel II.2 van de Codex Hoger Onderwijs van 11 oktober   2013;<BR>6° Vlaamse hogeschool: de instellingen vermeld in artikel II.3 van de   Codex Hoger Onderwijs van 11 oktober 2013;<BR>7° Vlaams onderzoekscentrum: een   Vlaamse universiteit, een Vlaamse hogeschool of elk ander onderzoekscentrum dat   gevestigd is in het Vlaamse Gewest;<BR>8° Hoger-onderwijsinstelling : een   Vlaamse universiteit of een Vlaamse hogeschool; <BR>9° Onderzoekscentrum: een   organisatie voor onderzoek en kennisverspreiding als vermeld in artikel 2, punt   83 van de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014   waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het   Verdrag met de interne markt verenigbaar worden verklaard.
+
+### ART. 1/1.
+
+In afwijking van artikel 1 wordt in geval van toepassing van dit besluit,   in uitvoering van artikel 32 § 3. Van het decreet houdende diverse maatregelen   inzake de herstructurering van het beleidsdomein Economie, Wetenschap en   Innovatie, verstaan onder:<BR>1° het agentschap: het Agentschap Innoveren en   Ondernemen dat optreedt in naam en voor rekening van het Hermesfonds;<BR>2° de   raad van bestuur: het beslissingscomité bij het Hermesfonds.
 
 ## HOOFDSTUK II KARAKTERISTIEKEN VAN HET FINANCIERINGSKANAAL VOOR HET BASISONDERZOEK
 
@@ -16,25 +20,17 @@ Strategisch basisonderzoek is kwalitatief hoogwaardig op langere termijn gericht
 
 ### ART. 3.
 
-Voor het verlenen van steun aan op projectmatige basis uitgevoerd strategisch basisonderzoek op initiatief van Vlaamse O&amp;O-actoren, wordt een financieringskanaal ingesteld. Binnen de perken van de begrotingskredieten worden hiervoor middelen voorzien.
+Voor het verlenen van steun aan op projectmatige basis uitgevoerd   strategisch basisonderzoek op initiatief van Vlaamse onderzoekscentra, wordt een   financieringskanaal ingesteld. Binnen de perken van de begrotingskredieten   worden hiervoor middelen voorzien.
 
 ## AFDELING 2 KENMERKEN VAN PROJECTVOORSTELLEN EN PROJECTAANVRAGERS
 
 ### ART. 4.
 
-Een projectvoorstel wordt ingediend door minstens één Vlaamse O&amp;O-actor.<br>
-<br>
-Het Interuniversitair Instituut voor Micro-Electronica, de Vlaamse Instelling voor Technologisch Onderzoek, het Vlaams Interuniversitair Instituut voor Biotechnologie, het Vlaams Instituut voor de Zee en de Vlaamse wetenschappelijke instellingen met een dotatie van de Vlaamse overheid, dienen steeds een projectvoorstel in, in samenwerking met minstens één andere Vlaamse O&amp;O-actor.<br>
-<br>
-Een Vlaamse hogeschool dient steeds een projectvoorstel in, in samenwerking met of na advies van de associatie waarmee ze verbonden is, volgens artikel 97 van het decreet betreffende de herstructurering van het hoger onderwijs in Vlaanderen goedgekeurd door het Vlaams Parlement op 2 april 2003. Vlaamse hogescholen dienen steeds een projectvoorstel in, in samenwerking met minstens één andere Vlaamse O&amp;O-actor.<br>
-<br>
-Indien in het projectvoorstel wordt aangetoond dat de inbreng noodzakelijk is voor het uitvoeren van het onderzoek en binnen de beperkingen vastgelegd in artikel 5, kan een Vlaamse O&amp;O-actor in samenwerking met één of meerdere O&amp;O-actoren van buiten Vlaanderen een projectvoorstel indienen.<br>
-<br>
-In een projectvoorstel dat door twee of meer O&amp;O-actoren, verder projectaanvragers genoemd samen, verder een consortium genoemd, wordt ingediend, wordt één van de Vlaamse O&amp;O-actoren als projectcoördinator aangeduid.
+Een projectvoorstel wordt ingediend door minstens één Vlaamse   onderzoekscentrum.<BR><BR>Het Interuniversitair Instituut voor   Micro-Electronica, de Vlaamse Instelling voor Technologisch Onderzoek, het   Vlaams Interuniversitair Instituut voor Biotechnologie, het Vlaams Instituut   voor de Zee en de Vlaamse wetenschappelijke instellingen met een dotatie van de   Vlaamse overheid, dienen steeds een projectvoorstel in, in samenwerking met   minstens één andere Vlaamse onderzoekscentrum.<BR><BR>Indien in het   projectvoorstel wordt aangetoond dat de inbreng noodzakelijk is voor het   uitvoeren van het onderzoek en binnen de beperkingen vastgelegd in artikel 5,   kan een Vlaamse onderzoekscentrum in samenwerking met één of meerdere   onderzoekscentra van buiten Vlaanderen een projectvoorstel indienen.<BR><BR>In   een projectvoorstel dat door twee of meer onderzoekscentra, verder   projectaanvragers genoemd samen, verder een consortium genoemd, wordt ingediend,   wordt één van de Vlaamse onderzoekscentra als projectcoördinator   aangeduid.
 
 ### ART. 5.
 
-De uitvoeringstijd van een projectvoorstel bedraagt vier jaar. Mits een grondige motivering kan in een projectvoorstel een kortere uitvoeringstijd worden voorzien.<br /><br />In het projectvoorstel wordt aangegeven of het onderzoek primair een maatschappelijke of een economische finaliteit heeft.<br /><br />Een projectvoorstel bevat een voorstel van projectbegroting met een overzicht van de kosten verbonden aan de uitvoering van het project. In geval van een consortium wordt voor elke projectaanvrager een voorstel van deelprojectbegroting opgesteld. Bij de opstelling van het voorstel van projectbegroting worden de richtlijnen gevolgd die zijn opgenomen als bijlage bij dit besluit.<br /><br />De voorgestelde projectbegroting bedraagt ten hoogste 500.000 euro per jaar. Indien het project in consortiumverband wordt uitgevoerd kan de projectbegroting worden verhoogd tot een maximum van 500.000 euro per jaar vermenigvuldigd met het aantal rechtspersonen die als projectaanvrager optreden op voorwaarde dat de deelprojectbegroting van deze projectaanvragers minimaal 15 % van de totale projectbegroting bedraagt.<br /><br />De voorgestelde deelbegroting van de niet in Vlaanderen gevestigde O&O-actoren die deel uitmaken van een consortium of die als derden specifieke deeltaken uitvoeren, kan cumulatief niet meer dan 20 procent van de voorgestelde projectbegroting bedragen<br /><br />Voor het uitvoeren van specifieke deeltaken, kan in het projectvoorstel worden voorzien dat beroep wordt gedaan op de diensten van derden, verder contractant(en) genoemd. De totale kostprijs van de taken die worden voorgesteld om aan contractanten toe te vertrouwen, kan niet meer dan 30 % van de voorgestelde projectbegroting bedragen.<br /><br />Indien een projectvoorstel wordt ingediend door een consortium bestaande uit ten minste drie projectaanvragers kan ongeacht de eerder in dit artikel vermelde maximumbedragen de voorgestelde projectbegroting, worden vermeerderd met een forfaitaire toeslag van 5 % voor het dekken van de coördinatiekosten.
+De uitvoeringstijd van een projectvoorstel bedraagt vier jaar. Mits een   grondige motivering kan in een projectvoorstel een kortere uitvoeringstijd   worden voorzien.<BR><BR>In het projectvoorstel wordt aangegeven of het onderzoek   primair een maatschappelijke of een economische finaliteit heeft.<BR><BR>Een   projectvoorstel bevat een voorstel van projectbegroting met een overzicht van de   kosten verbonden aan de uitvoering van het project. In geval van een consortium   wordt voor elke projectaanvrager een voorstel van deelprojectbegroting   opgesteld. Bij de opstelling van het voorstel van projectbegroting worden de   richtlijnen gevolgd die zijn opgenomen als bijlage bij dit besluit.<BR><BR>De   voorgestelde projectbegroting bedraagt ten hoogste 500.000 euro per jaar. Indien   het project in consortiumverband wordt uitgevoerd kan de projectbegroting worden   verhoogd tot een maximum van 500.000 euro per jaar vermenigvuldigd met het   aantal rechtspersonen die als projectaanvrager optreden op voorwaarde dat de   deelprojectbegroting van deze projectaanvragers minimaal 15 % van de totale   projectbegroting bedraagt.<BR><BR>De voorgestelde deelbegroting van de niet in   Vlaanderen gevestigde onderzoekscentra die deel uitmaken van een consortium of   die als derden specifieke deeltaken uitvoeren, kan cumulatief niet meer dan 20   procent van de voorgestelde projectbegroting bedragen<BR><BR>Voor het uitvoeren   van specifieke deeltaken, kan in het projectvoorstel worden voorzien dat beroep   wordt gedaan op de diensten van derden, verder contractant(en) genoemd. De   totale kostprijs van de taken die worden voorgesteld om aan contractanten toe te   vertrouwen, kan niet meer dan 30 % van de voorgestelde projectbegroting   bedragen.<BR><BR>Indien een projectvoorstel wordt ingediend door een consortium   bestaande uit ten minste drie projectaanvragers kan ongeacht de eerder in dit   artikel vermelde maximumbedragen de voorgestelde projectbegroting, worden   vermeerderd met een forfaitaire toeslag van 5 % voor het dekken van de   coördinatiekosten.
 
 ## HOOFDSTUK III MAXIMALE STEUNPERCENTAGE EN CUMULATIE MET ANDERE STEUN
 
@@ -42,13 +38,13 @@ De uitvoeringstijd van een projectvoorstel bedraagt vier jaar. Mits een grondige
 
 ### ART. 6.
 
-Met toepassing van de Communautaire kaderregeling inzake staatssteun voor onderzoek, ontwikkeling en innovatie (2006/C 323/01), bedraagt de steun voor een projectvoorstel of een gedeelte van een projectvoorstel uitgevoerd door een hoger-onderwijsinstelling of een onderzoekscentrum 100 % van de kosten die overeenkomstig de bijlage, die bij dit besluit is gevoegd, aanvaard worden, op voorwaarde dat de kosten en financiering van de door hen eventueel uitgeoefende economische activiteiten duidelijk worden afgescheiden.<br /><br />Voor het bepalen van de steun aan een projectvoorstel of gedeelte van een projectvoorstel uitgevoerd door een andere projectaanvrager dan deze vermeld in het eerste lid, gelden de regels voor de ondersteuning van het industrieel onderzoek zoals vastgelegd in het besluit van de Vlaamse Regering van 5 oktober 2002 tot regeling van de steun aan projecten van onderzoek en ontwikkeling van het bedrijfsleven in Vlaanderen of het besluit dat dit laatste zal vervangen.
+Met toepassing van de Communautaire kaderregeling inzake staatssteun voor   onderzoek, ontwikkeling en innovatie (2006/C 323/01), bedraagt de steun voor een   projectvoorstel of een gedeelte van een projectvoorstel uitgevoerd door een   hoger-onderwijsinstelling of een onderzoekscentrum 100 % van de kosten die   overeenkomstig de bijlage, die bij dit besluit is gevoegd, aanvaard worden, op   voorwaarde dat de kosten en financiering van de door hen eventueel uitgeoefende   economische activiteiten duidelijk worden afgescheiden.
 
 ## AFDELING 2 CUMULATIE MET ANDERE STEUN
 
 ### ART. 7.
 
-Inzake de cumulatie van steun toegekend in het kader van dit besluit met andere steun gelden de regels vastgelegd in artikel 7 van het in artikel 6, § 2 vermeld O&amp;O besluit.
+<P>...</P>
 
 ## HOOFDSTUK IV PROCEDURE VOOR HET BEHANDELEN VAN PROJECTVOORSTELLEN
 
@@ -110,15 +106,11 @@ De raad van bestuur legt jaarlijks omstandig verantwoording af bij de Vlaamse re
 
 ### ART. 21.
 
-In geval de projectaanvrager een universitaire onderzoeksgroep betreft gelden de bepalingen van art. 169ter van het Decreet van 12 juni 1991 betreffende de universiteiten in de Vlaamse Gemeenschap.
+<P>In geval de projectaanvrager een universitaire onderzoeksgroep betreft gelden   de bepalingen van artikel IV. 48, § 6. Van de Codex Hoger Onderwijs van 11   oktober 2013.</P>
 
 ### ART. 22.
 
-De projectaanvragers verbinden zich ertoe alle inspanningen te leveren die redelijker wijze mogen verwacht worden om de projectresultaten in het Vlaams Gewest te valoriseren.<br>
-<br>
-Ingeval van valorisatie van de projectresultaten buiten het Vlaams Gewest, dienen de projectaanvragers zich te verbinden tot een valorisatie van de projectresultaten in het Vlaams Gewest met een bruto toegevoegde waarde die minimaal gelijk is aan het tienvoud van het bedrag van de steun gemeten over een valorisatietijd van maximum tien jaar te meten vanaf datum van de valorisatie van de projectresultaten.<br>
-<br>
-De in artikel 13 bedoelde overeenkomst regelt de nadere verplichtingen inzake valorisatie.
+De projectaanvragers verbinden zich ertoe alle inspanningen te leveren die   redelijker wijze mogen verwacht worden om de projectresultaten in het Vlaams   Gewest te valoriseren.<BR><BR>De in artikel 13 bedoelde overeenkomst regelt de   nadere verplichtingen inzake valorisatie.
 
 ## HOOFDSTUK VII TOEZICHT
 
@@ -152,7 +144,7 @@ De personeelsleden van het agentschap, de leden van de raad van bestuur, de lede
 
 ### ART. 29.
 
-In afwachting van de oprichting van het Vlaams Agentschap voor Basisonderzoek, wordt het woord "Agentschap" gelezen als "Instituut voor de aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen", verder IWT-Vlaanderen genoemd, en "de raad van bestuur" als "de raad van bestuur van het IWT-Vlaanderen".
+<P>...</P>
 
 ### ART. 30.
 

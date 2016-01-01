@@ -2,16 +2,16 @@
   "codex_id": 1012144,
   "title": "Besluit van de Vlaamse Regering van 2003-10-03 houdende de instelling van een financieringskanaal voor het strategisch basisonderzoek in Vlaanderen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012144/VolledigDocument?datum=2009-03-08",
-  "source_sha256": "fa4a8635822ef1b913894fc642b7eec0bc7e2d1ffb9a7fcce79593df364aa109",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012144/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "12e885884b095266a8533406bf68a0c005d8e281386b26a75734c8a17307730b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012144&param=informatie",
-  "as_of": "2009-03-08",
+  "as_of": "2016-01-01",
   "made": "2003-10-03",
   "gazette": "2004-03-04",
   "numac": 2004035327,
   "document_start": "2003-10-03",
   "document_end": null,
-  "in_force": "2009-03-08",
-  "article_versions": 32,
-  "record_form": "consolidated version as in force on 2009-03-08; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
