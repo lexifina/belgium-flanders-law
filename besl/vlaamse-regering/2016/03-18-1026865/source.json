@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026865,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-18 houdende de overdracht van de personeelsleden van het Agentschap voor Geografische Informatie Vlaanderen en het Departement Informatie Vlaanderen aan het agentschap Informatie Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026865/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "fe37af91aceeb1c4a7ec4f9a9928777323267fd3939448b030dab31824e22dfa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026865&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-03-18",
+  "gazette": "2016-06-02",
+  "numac": 2016035823,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
