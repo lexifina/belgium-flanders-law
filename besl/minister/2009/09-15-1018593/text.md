@@ -84,7 +84,7 @@ Het ministerieel besluit van 10 april 2007 betreffende de vaststelling van de ge
 
 ### BIJLAGE 1
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/06_1.pdf#page=97">Bijlage   1</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2014/01/06_1.pdf#page=97">Bijlage   1</A></P>  <P>* In Bijlage 1 worden de volgende wijzigingen aangebracht bij artikel 2 van   het MB van 4 december 2015, B.S. 10 december 2015. Deze wijzigingen zijn van   toepassing op dossiers waarvan de melding of de aanvraag van een   stedenbouwkundige vergunning wordt ingediend vanaf 1 januari 2016. <A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/10_1.pdf#page=58">Wijzigingen   aan Bijlage 1</A></P>
 
 ### BIJLAGE 2
 
