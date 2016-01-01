@@ -94,7 +94,7 @@ Voor de onderneming een subsidieaanvraag kan indienen of het   subsidiedossier k
 
 ### ART. 19.
 
-<P>Ter uitvoering van artikel 8, eerste lid, van het besluit van de Vlaamse   Regering van 19 december 2008 kunnen de ondernemerschapbevorderende diensten   aanvangen vanaf de subsidieaanvraag.<BR></P>  <P>Dat betekent dat de subsidieaanvraag wordt ingediend binnen 14 kalenderdagen   na de start van de ondernemerschapsbevorderende diensten. <BR></P>
+<P>Ter uitvoering van artikel 8, eerste lid, van het besluit van de Vlaamse   Regering van 19 december 2008 kunnen de ondernemerschapbevorderende diensten   aanvangen vanaf de subsidieaanvraag.<BR></P>  <P>Dat betekent dat de subsidieaanvraag wordt ingediend binnen&nbsp;veertig   kalenderdagen na de start van de ondernemerschapsbevorderende diensten.   <BR></P>
 
 ### ART. 20.
 

@@ -2,16 +2,16 @@
   "codex_id": 1023145,
   "title": "Ministerieel besluit van 2013-06-21 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023145/VolledigDocument?datum=2013-11-27",
-  "source_sha256": "aa28c4aa4af5886b54b750bbba7445abbbc08392d157ca1f6dfc49beaee8023c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023145/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "83cf3b4a0438db57dadf381617d89f59e0f50334ce8fbc23f761f95922f17d21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023145&param=informatie",
-  "as_of": "2013-11-27",
+  "as_of": "2016-01-01",
   "made": "2013-06-21",
   "gazette": "2013-08-02",
   "numac": 2013204353,
   "document_start": "2013-07-01",
   "document_end": "2016-03-31",
-  "in_force": "2013-11-27",
+  "in_force": "2016-01-01",
   "article_versions": 63,
-  "record_form": "consolidated version as in force on 2013-11-27; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
