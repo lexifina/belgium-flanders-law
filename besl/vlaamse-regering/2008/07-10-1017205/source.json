@@ -2,16 +2,16 @@
   "codex_id": 1017205,
   "title": "Besluit van de Vlaamse Regering van 2008-07-10 [tot bepaling van het bedrag, de voorwaarden voor de toekenning en de wijze van vereffening van een vrij besteedbaar bedrag voor minderjarigen aan wie residentiële jeugdhulpverlening wordt geboden in voorzieningen die erkend zijn en gesubsidieerd worden door het Vlaams Agentschap voor Personen met een Handicap (verv. BVR 14 maart 2014, art. 1, I: 1 maart 2014)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017205/VolledigDocument?datum=2014-03-01",
-  "source_sha256": "a75f6f12dd67d7640505da2c677855311557123e5791b7704baa4079bbcfe413",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017205/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "789596188f9f8f306b33ff3b65da8f6d160885b815cdb25035bfdaaf84e47510",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017205&param=informatie",
-  "as_of": "2014-03-01",
+  "as_of": "2016-01-01",
   "made": "2008-07-10",
   "gazette": "2008-10-21",
   "numac": 2008203687,
   "document_start": "2008-07-01",
   "document_end": null,
-  "in_force": "2014-03-01",
+  "in_force": "2016-01-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-03-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
