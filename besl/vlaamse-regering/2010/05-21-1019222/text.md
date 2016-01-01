@@ -170,6 +170,10 @@ In artikel 16 van het besluit van de Vlaamse Regering van 17 november 2006 betre
 
 ## HOOFDSTUK 5. Slotbepalingen
 
+### ART. 34.
+
+Het besluit van de Vlaamse Regering van 18 december 1998 betreffende de erkenning en subsidiëring van diensten voor beschermd wonen voor personen met een handicap, gewijzigd bij het besluit van de Vlaamse Regering van 10 oktober 2003, wordt opgeheven.
+
 ### ART. 35.
 
 <P>Dit besluit heeft uitwerking met ingang van 1 januari 2010, met uitzondering   van :<BR>1° artikel 29 en 30 die in werking treden op 1 januari 2011;<BR>2°   artikel 34 dat in werking treedt op 1 januari 2016.</P>
