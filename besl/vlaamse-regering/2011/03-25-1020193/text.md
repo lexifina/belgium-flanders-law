@@ -58,7 +58,7 @@ Het Centraal Referentieadressenbestand wordt erkend vanaf 1 juni 2011 als authen
 
 ### ART. 12.
 
-Het AGIV wordt aangewezen als beheersinstantie en staat in voor de taken vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
+Het agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen, hierna agentschap Informatie Vlaanderen te noemen wordt aangewezen als beheersinstantie en staat in voor de taken vermeld in artikel 3 van het besluit van de Vlaamse Regering van 15 mei 2009 houdende uitvoering van het decreet van 18 juli 2008 betreffende het elektronische bestuurlijke gegevensverkeer.
 
 ## HOOFDSTUK 5. Slotbepalingen
 
