@@ -6,7 +6,13 @@
 
 ### ART. 1.
 
-<P>In dit artikel wordt verstaan onder:<BR>1° IMKL: Informatiemodel Kabels en   Leidingen als vermeld in artikel 2, § 1, 13°, van het KLIP-decreet van 14 maart   2008;<BR>2° PMKL: Presentatiemodel Kabels en Leidingen als vermeld in artikel 2,   § 1, 15°, van het KLIP-decreet van 14 maart 2008.<BR></P>  <P>De Vlaamse minister, bevoegd voor de uitbouw van een geografische   informatie-infrastructuur, keurt, na het vaststellen ervan door het AGIV, het   IMKL en het PMKL goed.<BR></P>  <P>Het IMKL en het PMKL worden door het AGIV op zijn website   bekendgemaakt.<BR></P>
+<p>In dit artikel wordt verstaan onder:<br>
+1° IMKL: Informatiemodel Kabels en Leidingen als vermeld in artikel 2, § 1, 13°, van het KLIP-decreet van 14 maart 2008;<br>
+2° PMKL: Presentatiemodel Kabels en Leidingen als vermeld in artikel 2, § 1, 15°, van het KLIP-decreet van 14 maart 2008.</p>
+
+<p>De Vlaamse minister, bevoegd voor de uitbouw van een geografische informatie-infrastructuur, keurt, na het vaststellen ervan door het agentschap, het IMKL en het PMKL goed.</p>
+
+<p>Het IMKL en het PMKL worden door het&nbsp;agentschap op zijn website bekendgemaakt.</p>
 
 ### ART. 2.
 
