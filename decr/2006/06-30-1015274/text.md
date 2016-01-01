@@ -374,7 +374,7 @@ Aan artikel 93 van het decreet van 22 december 1993 houdende bepalingen tot bege
 
 ### ART. 33.
 
-Artikel 93 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994 wordt op 1 januari 2007 opgeheven.<br /><br />De op die datum nog openstaande vorderingen, verbintenissen en verplichtingen welke voorkomen bij elk Fonds voor het beheer en de vervreemding van onroerende goederen, zoals bepaald in artikel 93 van het decreet van 22 december 1993 houdende bepalingen tot begeleiding van de begroting 1994, worden overgedragen naar het Fonds Onroerende Goederen, zoals bepaald in artikel 19 van het decreet van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de bepalingen tot begeleiding van de begroting 1991.<br /><br />Het beheer van het researchpark Zellik wordt onttrokken aan het Fonds Onroerende Goederen en alle openstaande vorderingen, verbintenissen en verplichtingen welke voorkomen bij het Fonds worden overgedragen aan het Agentschap Ondernemen.
+Artikel 93 van het decreet van 22 december 1993 houdende bepalingen tot   begeleiding van de begroting 1994 wordt op 1 januari 2007 opgeheven.<BR><BR>De   op die datum nog openstaande vorderingen, verbintenissen en verplichtingen welke   voorkomen bij elk Fonds voor het beheer en de vervreemding van onroerende   goederen, zoals bepaald in artikel 93 van het decreet van 22 december 1993   houdende bepalingen tot begeleiding van de begroting 1994, worden overgedragen   naar het Fonds Onroerende Goederen, zoals bepaald in artikel 19 van het decreet   van 21 december 1990 houdende begrotingstechnische bepalingen alsmede de   bepalingen tot begeleiding van de begroting 1991.
 
 ## HOOFDSTUK VI Afvalstoffen
 
