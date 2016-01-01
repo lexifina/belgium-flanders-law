@@ -10,19 +10,19 @@ De Vlaamse Regering,<br /><br />Gelet op het Kaderdecreet bestuurlijk beleid van
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° Vlaams personeelsstatuut : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br />2° het agentschap : het Agentschap voor Geografische Informatie Vlaanderen.<br /><br />
+...
 
 ## Afdeling II Toepassingsgebied
 
 ### ART. 2.
 
-Dit besluit is van toepassing op het personeel van het Agentschap voor Geografische Informatie Vlaanderen.<br /><br />
+...
 
 ## HOOFDSTUK II Verhoogde rente bij een arbeidsongeval en bij een ongeval op de weg naar en van het werk
 
 ### ART. 3.
 
-Voor de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de schadevergoeding voor arbeidsongevallen, voor ongevallen op de weg naar en van het werk en voor beroepsziekten in de overheidssector, wordt de rente in geval van blijvende invaliditeit of van overlijden, toegekend ingevolge een arbeidsongeval of een ongeval op weg naar en van het werk, berekend op basis van de jaarlijkse bezoldiging, beperkt tot 123.947 euro per jaar en per persoon.<br /><br />
+...
 
 ## HOOFDSTUK III Slotbepalingen
 
@@ -30,14 +30,14 @@ Voor de toepassing van de wet van 3 juli 1967 betreffende de preventie van of de
 
 ### ART. 4.
 
-De ambtenaren die vóór 24 juni 1970 in dienst waren bij de Nationale Landmaatschappij en die overgedragen werden naar het agentschap hebben recht op een forfaitaire toelage. De toelage is gelijk aan het bedrag van de voordelen van alle aard van de maand december 1975, vastgesteld ter uitvoering van het koninklijk besluit van 23 december 1975 betreffende het geldelijk statuut van de ambtenaren van de Nationale Landmaatschappij.<br /><br />De toelage wordt maandelijks en na verlopen termijn uitbetaald. Zij wordt verminderd overeenkomstig artikel VII 6 van het Vlaams personeelsstatuut.<br /><br />De toelage volgt de evolutie van de gezondheidsindex overeenkomstig artikel VII 9 van het Vlaams personeelsstatuut.<br /><br />Dit artikel is van toepassing op elke ambtenaar die vóór 24 juni 1970 deel uitmaakte en zonder onderbreking deel bleef uitmaken van het personeel van de Nationale Landmaatschappij, de Vlaamse Landmaatschappij en het agentschap.<br /><br />
+...
 
 ## Afdeling II Inwerkingtreding
 
 ### ART. 5.
 
-Dit besluit treedt in werking op de dag van de bekendmaking ervan in het Belgisch Staatsblad.<br /><br />
+...
 
 ### ART. 6.
 
-De Vlaamse minister, bevoegd voor het Algemeen Regeringsbeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
