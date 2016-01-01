@@ -176,7 +176,7 @@ De vergoeding voor de aanvullende bestuursrechter van de Raad voor   Verkiezings
 
 ### ART. 34/1.
 
-§ 1. De aanvullende bestuursrechter, vermeld in artikel 91, § 3, van het   decreet, die geen gelijkaardige functie als bestuursrechter uitoefent in een   ander Vlaams bestuursrechtscollege, krijgt een forfaitaire vergoeding van 1.400   euro per afgehandeld dossier.<BR><BR>In het eerste lid wordt verstaan onder   afgehandeld dossier: een dossier waarin de aanvullende bestuursrechter een   uitspraak doet waarmee het geding ten gronde wordt beslecht.<BR><BR>§ 2. De   forfaitaire vergoedingen worden betaald binnen dertig dagen na de datum van de   uitspraak waarmee het geding ten gronde wordt beslecht.<BR><BR>Deze vergoedingen   worden als uitgaven in de rekeningen ten laste van de begroting van het   Grondfonds geboekt.
+<P>...</P>
 
 ## [Afdeling 9. Beschikbaarheid van de bijzitter van de Raad voor betwistingen inzake studievoortgangsbeslissingen (ing. BVR 12 mei 2023, art. 17, I: 1 september 2023)]
 
