@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026461,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-15 betreffende [de erkenning van de beoefenaars van de verpleegkunde,] de erkenning van de bijzondere beroepstitels en bijzondere beroepsbekwaamheden voor de beoefenaars van de verpleegkunde en de registratie als zorgkundige",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026461/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "1d9c27390ad3118eacdccc719f671cbcfeeee62a137ba94955694d4327696206",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026461&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-01-15",
+  "gazette": "2016-02-11",
+  "numac": 2016035126,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
