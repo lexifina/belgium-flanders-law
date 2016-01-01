@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 december 2005 houden
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het Fonds Vlaanderen-Azië: het Fonds Vlaanderen-Azië, opgericht bij artikel 23 van het decreet van 20 december 1996 houdende bepalingen tot begeleiding van de begroting 1997, en opgeheven bij artikel 40 van het decreet van 21 december 2001 houdende bepalingen tot begeleiding van de begroting 2002;<br />2° de administrateur-generaal: de administrateur-generaal van het Agentschap Ondernemen;<br />3° het bedrijf-schuldenaar: het bedrijf, verplicht tot terugbetaling van de achtergestelde lening.<br /><br />
+Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° het Fonds   Vlaanderen-Azië: het Fonds Vlaanderen-Azië, opgericht bij artikel 23 van het   decreet van 20 december 1996 houdende bepalingen tot begeleiding van de   begroting 1997, en opgeheven bij artikel 40 van het decreet van 21 december 2001   houdende bepalingen tot begeleiding van de begroting 2002;<BR>2° de   administrateur-generaal: de administrateur-generaal van het&nbsp;Agentschap   Innoveren en Ondernemen;<BR>3° het bedrijf-schuldenaar: het bedrijf, verplicht   tot terugbetaling van de achtergestelde lening.<BR><BR>
 
 ## HOOFDSTUK II Aanvraag tot schuldherschikking
 
@@ -40,7 +40,7 @@ De aanvrager krijgt een ontvangstmelding van de administrateur-generaal met een 
 
 ### ART. 8.
 
-De aanvraag wordt door het Agentschap Ondernemen onderzocht op volledigheid en op inhoud.<br /><br />
+De aanvraag wordt door het Agentschap Innoveren en Ondernemen onderzocht   op volledigheid en op inhoud.<BR><BR>
 
 ### ART. 9.
 
