@@ -28,17 +28,47 @@ Besluit :
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° het Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br />4° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br />5° de sportfederatie : de Vlaamse unisportfederatie die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die een beleid inzake topsport voert dat past in het topsportbeleid, vermeld in artikel 2, 9°, van het decreet;<br />6° de topsporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 9°, van het decreet, die als bijlage I, bij dit besluit is gevoegd;<br />7° olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br />8° het globaal topsportconvenant : de overeenkomst, gesloten op 25 maart 1998, aangepast op 25 juni 2004 en 1 mei 2007, die een doorgedreven topsportopleiding voor jongeren in combinatie met een volwaardige schoolse vorming tot voorwerp heeft;<br />9° het bijzonder convenant : onderdeel van het topsportconvenant, afgesloten tussen de Vlaamse minister, bevoegd voor het onderwijs, de betrokken sportfederatie en de betrokken school, dat de in overleg afgesproken modaliteiten ter uitvoering van het globaal topsportconvenant bevat, alsook de wederzijdse rechten en plichten van alle ondertekende partijen;<br />10° de selectiecommissie : de commissie die krachtens het globaal topsportconvenant de leerling-topsporter selecteert met het oog op de toekenning van een topsportstatuut;<br />11° de leerling-topsporter : de topsporter aan wie, op basis van de normen die de selectiecommissie bepaalt, een topsportstatuut wordt toegekend en die is ingeschreven in een topsportschool;<br />12° de keuringscentra : de medische keuringscentra, vermeld in artikel 19 van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening;<br />13° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />14° de Stuurgroep Topsport : de stuurgroep voor het integrale Vlaamse topsportbeleid, vermeld in artikel 9 van het decreet van 7 mei 2004 tot omvorming van de Vlaamse Openbare Instelling Commisariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid Bloso;<br />15° het BOIC : het Belgisch Olympisch en Interfederaal Comité dat de topsporters selecteert die deelnemen aan de Olympische Spelen, de Paralympische Spelen, de Europese Jeugd Olympische dagen (EYOD) en de Wereldspelen;<br />16° topsportpiramide : de populatie (huidige en toekomstige) topsporters binnen een bepaalde sporttak, op wie het topsportbeleid van de sportfederatie gericht is. Het gaat om elitesporters, beloftevolle jongeren en jonge topsporttalenten.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen", meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br>
+4° de Vlaamse Trainersschool : het samenwerkingsverband tussen Sport Vlaanderen,&nbsp;de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br>
+5° de sportfederatie : de Vlaamse unisportfederatie die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die een beleid inzake topsport voert dat past in het topsportbeleid, vermeld in artikel 2, 9°, van het decreet;<br>
+6° de topsporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 9°, van het decreet, die als bijlage I, bij dit besluit is gevoegd;<br>
+7° olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br>
+8° het globaal topsportconvenant : de overeenkomst, gesloten op 25 maart 1998, aangepast op 25 juni 2004 en 1 mei 2007, die een doorgedreven topsportopleiding voor jongeren in combinatie met een volwaardige schoolse vorming tot voorwerp heeft;<br>
+9° het bijzonder convenant : onderdeel van het topsportconvenant, afgesloten tussen de Vlaamse minister, bevoegd voor het onderwijs, de betrokken sportfederatie en de betrokken school, dat de in overleg afgesproken modaliteiten ter uitvoering van het globaal topsportconvenant bevat, alsook de wederzijdse rechten en plichten van alle ondertekende partijen;<br>
+10° de selectiecommissie : de commissie die krachtens het globaal topsportconvenant de leerling-topsporter selecteert met het oog op de toekenning van een topsportstatuut;<br>
+11° de leerling-topsporter : de topsporter aan wie, op basis van de normen die de selectiecommissie bepaalt, een topsportstatuut wordt toegekend en die is ingeschreven in een topsportschool;<br>
+12° de keuringscentra : de medische keuringscentra, vermeld in artikel 19 van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening;<br>
+13° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+14° de Stuurgroep Topsport : de stuurgroep voor het integrale Vlaamse topsportbeleid;<br>
+15° het BOIC : het Belgisch Olympisch en Interfederaal Comité dat de topsporters selecteert die deelnemen aan de Olympische Spelen, de Paralympische Spelen, de Europese Jeugd Olympische dagen (EYOD) en de Wereldspelen;<br>
+16° topsportpiramide : de populatie (huidige en toekomstige) topsporters binnen een bepaalde sporttak, op wie het topsportbeleid van de sportfederatie gericht is. Het gaat om elitesporters, beloftevolle jongeren en jonge topsporttalenten.
 
 ## HOOFDSTUK II. De sporttakken die voor topsport in aanmerking komen en de indeling in categorieën
 
 ### ART. 2.
 
-§ 1. De sporttakken die zijn opgenomen in het topsportbeleid, vermeld in artikel 2, 9°, van het decreet, worden per olympiade op voorstel van het Bloso na advies van de Stuurgroep Topsport, vastgelegd door de Vlaamse Regering en ingedeeld in vier categorieën, als vermeld in artikel 18 van het decreet.<br /><br />Deze indeling geschiedt op basis van de volgende criteria : <br />1° de mate van uitbouw van de topsportstructuur, de begeleiding en het topsportbeleid die worden beoordeeld op basis van :<br />a) de uitbouw van de sporttechnische, medische, paramedische en sportpsychologische omkadering en begeleiding;<br />b) de invulling van de topsportpiramide;<br />c) het vastleggen van een leer- en begeleidingsmethodiek, het technische, tactische, conditionele en mentale niveau en het trainingsvolume per leeftijdscategorie;<br />d) de uitgewerkte trainingsopleiding en bijscholing, die beantwoordt aan de kwaliteitseisen en de noden inzake topsport;<br />2° de door de elitesporters en de beloftevolle jongeren op internationaal vlak geleverde sportprestaties, die worden geëvalueerd op basis van hetzij de behaalde medailles, finaleplaatsen en halve finaleplaatsen op Olympische Spelen, Paralympische Spelen, Wereldspelen, Wereldkampioenschappen en Europese kampioenschappen, hetzij de rangschikking op wereldniveau;<br />3° de uitstraling van de sporttak in het binnenland, meer bepaald de mate van beoefening en populariteit van de sporttak, alsook de mate van bekendheid van de topsporters bij het grote publiek;<br />4° de uitstraling van de sporttak in het buitenland, meer bepaald de mate van beoefening van de sporttak, wereldwijd.<br /><br />§ 2. Er wordt voor topsporters met een handicap in een aparte categorie voorzien.<br /><br />§ 3. Voor de sporttakken die niet behoren tot de categorieën, vermeld in paragraaf 1 en paragraaf 2, maar die wel beoefend worden door topsporters die aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen deelnemen, wordt in een afzonderlijke categorie voorzien.
+§ 1. De sporttakken die zijn opgenomen in het topsportbeleid, vermeld in artikel 2, 9°, van het decreet, worden per olympiade op voorstel van Sport Vlaanderen na advies van de Stuurgroep Topsport, vastgelegd door de Vlaamse Regering en ingedeeld in vier categorieën, als vermeld in artikel 18 van het decreet.<br>
+<br>
+Deze indeling geschiedt op basis van de volgende criteria :<br>
+1° de mate van uitbouw van de topsportstructuur, de begeleiding en het topsportbeleid die worden beoordeeld op basis van :<br>
+a) de uitbouw van de sporttechnische, medische, paramedische en sportpsychologische omkadering en begeleiding;<br>
+b) de invulling van de topsportpiramide;<br>
+c) het vastleggen van een leer- en begeleidingsmethodiek, het technische, tactische, conditionele en mentale niveau en het trainingsvolume per leeftijdscategorie;<br>
+d) de uitgewerkte trainingsopleiding en bijscholing, die beantwoordt aan de kwaliteitseisen en de noden inzake topsport;<br>
+2° de door de elitesporters en de beloftevolle jongeren op internationaal vlak geleverde sportprestaties, die worden geëvalueerd op basis van hetzij de behaalde medailles, finaleplaatsen en halve finaleplaatsen op Olympische Spelen, Paralympische Spelen, Wereldspelen, Wereldkampioenschappen en Europese kampioenschappen, hetzij de rangschikking op wereldniveau;<br>
+3° de uitstraling van de sporttak in het binnenland, meer bepaald de mate van beoefening en populariteit van de sporttak, alsook de mate van bekendheid van de topsporters bij het grote publiek;<br>
+4° de uitstraling van de sporttak in het buitenland, meer bepaald de mate van beoefening van de sporttak, wereldwijd.<br>
+<br>
+§ 2. Er wordt voor topsporters met een handicap in een aparte categorie voorzien.<br>
+<br>
+§ 3. Voor de sporttakken die niet behoren tot de categorieën, vermeld in paragraaf 1 en paragraaf 2, maar die wel beoefend worden door topsporters die aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen deelnemen, wordt in een afzonderlijke categorie voorzien.
 
 ### ART. 3.
 
-De Vlaamse Regering kan jaarlijks, op voorstel van het Bloso, na advies van de Stuurgroep Topsport, een sporttak die door een sportfederatie wordt aangeboden, toevoegen aan de topsporttakkenlijst en indelen in een categorie. De sporttak wordt toegevoegd voor de resterende duur van de lopende olympiade.
+De Vlaamse Regering kan jaarlijks, op voorstel van Sport Vlaanderen, na advies van de Stuurgroep Topsport, een sporttak die door een sportfederatie wordt aangeboden, toevoegen aan de topsporttakkenlijst en indelen in een categorie. De sporttak wordt toegevoegd voor de resterende duur van de lopende olympiade.
 
 ### ART. 4.
 
@@ -62,7 +92,13 @@ Om in aanmerking te komen voor de subsidies voor topsport moet de sportfederatie
 
 ### ART. 8.
 
-De coördinator topsport beschikt minimaal over het diploma van hoger secundair onderwijs, uitgereikt door een instelling die door het Ministerie van Onderwijs en Vorming werd erkend, en het getuigschrift/diploma Trainer A in de betrokken sporttak, uitgereikt of geassimileerd door de VTS. <br /><br />Als de sportfederatie een coördinator topsport met een diploma of getuigschrift wil laten subsidiëren dat niet binnen de Vlaamse Gemeenschap is verworven, moet de sportfederatie de gelijkwaardigheid van de verworven beroepskwalificatie laten vaststellen door de daartoe bevoegde diensten van de Vlaamse Gemeenschap. De gelijkwaardigheid kan worden vastgesteld uit een vergelijking van de bekwaamheden die blijken uit de diploma's, certificaten en andere titels en de relevante ervaring.<br /><br />Als de sportfederatie een coördinator topsport wil laten subsidiëren, moet dat personeelslid over een positief advies van het Bloso beschikken. Daarbij zal het Bloso rekening houden met de topsportervaring, met de pedagogische ervaring, met elders verworven competenties en met de behaalde resultaten inzake topsport.<br /><br />Voor de berekening van de geldelijke anciënniteit van de coördinator topsport wordt de anciënniteit vastgelegd door het Bloso die hierbij rekening houdt met de topsportervaring, met elders verworven competenties en met de behaalde resultaten inzake topsport.
+De coördinator topsport beschikt minimaal over het diploma van hoger secundair onderwijs, uitgereikt door een instelling die door het Ministerie van Onderwijs en Vorming werd erkend, en het getuigschrift/diploma Trainer A in de betrokken sporttak, uitgereikt of geassimileerd door de VTS.<br>
+<br>
+Als de sportfederatie een coördinator topsport met een diploma of getuigschrift wil laten subsidiëren dat niet binnen de Vlaamse Gemeenschap is verworven, moet de sportfederatie de gelijkwaardigheid van de verworven beroepskwalificatie laten vaststellen door de daartoe bevoegde diensten van de Vlaamse Gemeenschap. De gelijkwaardigheid kan worden vastgesteld uit een vergelijking van de bekwaamheden die blijken uit de diploma's, certificaten en andere titels en de relevante ervaring.<br>
+<br>
+Als de sportfederatie een coördinator topsport wil laten subsidiëren, moet dat personeelslid over een positief advies van Sport Vlaanderen beschikken. Daarbij zal Sport Vlaanderen rekening houden met de topsportervaring, met de pedagogische ervaring, met elders verworven competenties en met de behaalde resultaten inzake topsport.<br>
+<br>
+Voor de berekening van de geldelijke anciënniteit van de coördinator topsport wordt de anciënniteit vastgelegd door Sport Vlaanderen die hierbij rekening houdt met de topsportervaring, met elders verworven competenties en met de behaalde resultaten inzake topsport.
 
 ## Afdeling II. Bijzondere voorwaarden, opgelegd aan de sportfederaties voor het verkrijgen van subsidies voor de voorbereiding en de deelname aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen
 
@@ -88,31 +124,58 @@ Om voor subsidies voor het organiseren van Europese kampioenschappen, Wereldkamp
 
 ### ART. 12.
 
-§ 1. De subsidies voor de voorbereiding en deelname aan internationale wedstrijden, de structurele topsportwerking, de begeleiding en omkadering van geregistreerde elitesporters, beloftevolle jongeren en jonge topsporttalenten en voor programma's van talentdetectie en talentontwikkeling aanvullend op de werking van de topsportschool worden overeenkomstig de beoordelingscriteria, vermeld in artikel 26, § 2, van het decreet, als volgt toegekend aan de sportfederaties :<br />1° voor elke sporttak, ingedeeld in categorie I : maximaal een bedrag van 350.000 euro (driehonderdvijftigduizend euro);<br />2° voor elke sporttak, ingedeeld in categorie II : maximaal een bedrag van 225.000 euro (tweehonderdvijfentwintigduizend euro);<br />3° voor elke sporttak, ingedeeld in categorie III : maximaal een bedrag van 120.000 euro (honderdtwintigduizend euro);<br />4° voor elke sporttak, ingedeeld in categorie IV : maximaal een bedrag van 65.000 euro (vijfenzestigduizend euro);<br />5° voor de gehandicaptensport : maximaal een bedrag van 350.000 euro (driehonderdvijftigduizend euro).<br /><br />De kosten die in aanmerking komen voor subsidiëring, worden vermeld in bijlage II, deel I, die bij dit besluit is gevoegd.<br /><br />§ 2. Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel I, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Het Bloso legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
+§ 1. De subsidies voor de voorbereiding en deelname aan internationale wedstrijden, de structurele topsportwerking, de begeleiding en omkadering van geregistreerde elitesporters, beloftevolle jongeren en jonge topsporttalenten en voor programma's van talentdetectie en talentontwikkeling aanvullend op de werking van de topsportschool worden overeenkomstig de beoordelingscriteria, vermeld in artikel 26, § 2, van het decreet, als volgt toegekend aan de sportfederaties :<br>
+1° voor elke sporttak, ingedeeld in categorie I : maximaal een bedrag van 350.000 euro (driehonderdvijftigduizend euro);<br>
+2° voor elke sporttak, ingedeeld in categorie II : maximaal een bedrag van 225.000 euro (tweehonderdvijfentwintigduizend euro);<br>
+3° voor elke sporttak, ingedeeld in categorie III : maximaal een bedrag van 120.000 euro (honderdtwintigduizend euro);<br>
+4° voor elke sporttak, ingedeeld in categorie IV : maximaal een bedrag van 65.000 euro (vijfenzestigduizend euro);<br>
+5° voor de gehandicaptensport : maximaal een bedrag van 350.000 euro (driehonderdvijftigduizend euro).<br>
+<br>
+De kosten die in aanmerking komen voor subsidiëring, worden vermeld in bijlage II, deel I, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel I, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Sport Vlaanderen legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
 
 ## Afdeling II. Tegemoetkoming in de kosten voor de voorbereiding en deelname van topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen
 
 ### ART. 13.
 
-§ 1. Voor de financiering van de voorbereiding van topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen komt het Bloso jaarlijks voor een totaal bedrag van maximaal 175.000 euro (honderdvijfenzeventigduizend euro) tegemoet in de door de sportfederaties gedragen kosten.<br /><br />§ 2. Voor de voorbereiding van topsporters die deelnemen aan de wedstrijden, vermeld in paragraaf 1, komen dezelfde kosten voor voorbereiding in aanmerking als vermeld in bijlage II, deel I, die bij dit besluit is gevoegd.<br /><br />§ 3. Voor de financiering van de voorbereiding en deelname van topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen komt het Bloso in een niet-Olympisch jaar voor een totaal bedrag van maximaal 400.000 euro (vierhonderdduizend euro) tegemoet in de hiervoor door het BOIC gedragen kosten. In een Olympisch jaar wordt dat bedrag opgetrokken tot maximaal 800.000 euro (achthonderdduizend euro). Die financiering kan pas worden toegekend na het afsluiten van een samenwerkingsakkoord tussen de Vlaamse Gemeenschap en het BOIC.<br /><br />§ 4. De kosten die in aanmerking komen voor de financiering, vermeld in paragraaf 3, worden vermeld in bijlage II, deel II, die bij dit besluit is gevoegd.<br /><br />§ 5. Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel I, respectievelijk deel II, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Het Bloso legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
+§ 1. Voor de financiering van de voorbereiding van topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen komt Sport Vlaanderen jaarlijks voor een totaal bedrag van maximaal 175.000 euro (honderdvijfenzeventigduizend euro) tegemoet in de door de sportfederaties gedragen kosten.<br>
+<br>
+§ 2. Voor de voorbereiding van topsporters die deelnemen aan de wedstrijden, vermeld in paragraaf 1, komen dezelfde kosten voor voorbereiding in aanmerking als vermeld in bijlage II, deel I, die bij dit besluit is gevoegd.<br>
+<br>
+§ 3. Voor de financiering van de voorbereiding en deelname van topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen komt Sport Vlaanderen in een niet-Olympisch jaar voor een totaal bedrag van maximaal 400.000 euro (vierhonderdduizend euro) tegemoet in de hiervoor door het BOIC gedragen kosten. In een Olympisch jaar wordt dat bedrag opgetrokken tot maximaal 800.000 euro (achthonderdduizend euro). Die financiering kan pas worden toegekend na het afsluiten van een samenwerkingsakkoord tussen de Vlaamse Gemeenschap en het BOIC.<br>
+<br>
+§ 4. De kosten die in aanmerking komen voor de financiering, vermeld in paragraaf 3, worden vermeld in bijlage II, deel II, die bij dit besluit is gevoegd.<br>
+<br>
+§ 5. Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel I, respectievelijk deel II, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Sport Vlaanderen legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
 
 ## Afdeling III. Toekenning van subsidies aan de sportfederaties die participeren in een topsportschool
 
 ### ART. 14.
 
-Jaarlijks wordt aan de sportfederaties een subsidie voor de participatie in een topsportschool toegekend naar rato van het beschikbare bedrag in de goedgekeurde Bloso-begroting :<br />1° maximaal 25 percent van dat bedrag wordt toegekend naar rato van het aantal leerlingen-topsporters in een topsportschool;<br />2° minimaal 75 percent van dat bedrag wordt toegekend naar rato van de kosten, vermeld in bijlage II, deel III.<br /><br />Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel III, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Het Bloso legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
+Jaarlijks wordt aan de sportfederaties een subsidie voor de participatie in een topsportschool toegekend naar rato van het beschikbare bedrag in de goedgekeurde de begroting van Sport Vlaanderen:<br>
+1° maximaal 25 percent van dat bedrag wordt toegekend naar rato van het aantal leerlingen-topsporters in een topsportschool;<br>
+2° minimaal 75 percent van dat bedrag wordt toegekend naar rato van de kosten, vermeld in bijlage II, deel III.<br>
+<br>
+Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel III, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Sport Vlaanderen legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.
 
 ## Afdeling IV. Tegemoetkoming in de kosten voor het organiseren van Europese kampioenschappen, Wereldkampioenschappen en Wereldbekerwedstrijden
 
 ### ART. 15.
 
-De voor subsidiëring in aanmerking komende kosten voor het organiseren van Europese kampioenschappen, Wereldkampioenschappen en Wereldbekerwedstrijden voor junioren en senioren in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, worden vermeld in bijlage II, deel IV, die bij dit besluit is gevoegd.<br /><br />Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel IV, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Het Bloso legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden. <br /><br />Voor de financiering van de organisatie van deze wedstrijden komt het Bloso tegemoet in de door de sportfederatie gedragen kosten, vermeld in het eerste lid, voor een bedrag van maximaal 30.000 euro (dertigduizend euro) voor Wereldkampioenschappen, maximaal 15.000 euro (vijftienduizend euro) voor Europese Kampioenschappen en maximaal 7.500 euro (zevenduizendvijfhonderd euro) voor Wereldbekerwedstrijden.
+De voor subsidiëring in aanmerking komende kosten voor het organiseren van Europese kampioenschappen, Wereldkampioenschappen en Wereldbekerwedstrijden voor junioren en senioren in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad, worden vermeld in bijlage II, deel IV, die bij dit besluit is gevoegd.<br>
+<br>
+Voor de berekening van de subsidies komen alleen de kosten, vermeld in bijlage II, deel IV, die bij dit besluit is gevoegd, in aanmerking, die zijn vastgelegd in het convenant tussen de sportfederatie en de Vlaamse Gemeenschap. Sport Vlaanderen legt de wijze vast waarop die kosten voor de berekening van de subsidies in het rekeningstelsel opgenomen moeten worden.<br>
+<br>
+Voor de financiering van de organisatie van deze wedstrijden komt Sport Vlaanderen tegemoet in de door de sportfederatie gedragen kosten, vermeld in het eerste lid, voor een bedrag van maximaal 30.000 euro (dertigduizend euro) voor Wereldkampioenschappen, maximaal 15.000 euro (vijftienduizend euro) voor Europese Kampioenschappen en maximaal 7.500 euro (zevenduizendvijfhonderd euro) voor Wereldbekerwedstrijden.
 
 ## HOOFDSTUK V. Procedure voor de aanvraag van subsidies
 
 ### ART. 16.
 
-De subsidiëringsprocedure verloopt conform de procedure, vermeld in hoofdstuk V, afdeling I, II en III, van het algemeen erkennings- en subsidiëringsbesluit.<br /><br />De sportfederatie stuurt de documenten, vermeld in artikel 5, § 1 en § 2, samen met de subsidiëringsaanvraag uiterlijk op 1 september aangetekend naar het Bloso.
+De subsidiëringsprocedure verloopt conform de procedure, vermeld in hoofdstuk V, afdeling I, II en III, van het algemeen erkennings- en subsidiëringsbesluit.<br>
+<br>
+De sportfederatie stuurt de documenten, vermeld in artikel 5, § 1 en § 2, samen met de subsidiëringsaanvraag uiterlijk op 1 september aangetekend naar Sport Vlaanderen.
 
 ## HOOFDSTUK VI. Verificatie en afrekening, en inspectie
 
@@ -126,13 +189,23 @@ De verificatie en afrekening verloopt conform de procedure, vermeld in hoofdstuk
 
 ### ART. 18.
 
-Het Bloso kan op elk ogenblik een inspectie uitvoeren over de wijze waarop het convenant, vermeld in artikel 5, § 3, wordt uitgevoerd tijdens het werkingsjaar.
+Sport Vlaanderen kan op elk ogenblik een inspectie uitvoeren over de wijze waarop het convenant, vermeld in artikel 5, § 3, wordt uitgevoerd tijdens het werkingsjaar.
 
 ## HOOFDSTUK VII. Wijze en tijdstip van uitbetaling
 
 ### ART. 19.
 
-§ 1. De subsidies, vermeld in artikel 12 en 14, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 22,5 percent van de subsidies die toegekend werden voor het voorlaatste werkjaar, voorafgaand aan het begrotingsjaar.<br /><br />Voor sportfederaties die tijdens het voorlaatste werkjaar, voorafgaand aan het begrotingsjaar, geen subsidies hebben ontvangen, bedraagt elk voorschot 20 percent van de subsidies waarop de sportfederatie aanspraak kan maken op basis van de ingediende subsidiëringsaanvraag voor het begrotingsjaar.<br /><br />Het saldo van de subsidies wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde activiteitenjaar, nadat het Bloso de uitgaven die in het voorbije jaar gedaan werden en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br /><br />§ 2. De subsidies, vermeld in artikel 13, § 1, en artikel 15, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 20 percent van de toegekende subsidies.<br /><br />Het saldo van de subsidies wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde activiteitenjaar, nadat het Bloso de uitgaven die in het voorbije werkjaar gedaan werden en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br /><br />§ 3. De financiering van de kosten, vermeld in artikel 13, § 3, wordt jaarlijks aan het BOIC uitbetaald na voorlegging en controle van de afrekeningsstukken van de door het Bloso aanvaarde uitgaven betreffende de voorbereiding en deelname aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen.
+§ 1. De subsidies, vermeld in artikel 12 en 14, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 22,5 percent van de subsidies die toegekend werden voor het voorlaatste werkjaar, voorafgaand aan het begrotingsjaar.<br>
+<br>
+Voor sportfederaties die tijdens het voorlaatste werkjaar, voorafgaand aan het begrotingsjaar, geen subsidies hebben ontvangen, bedraagt elk voorschot 20 percent van de subsidies waarop de sportfederatie aanspraak kan maken op basis van de ingediende subsidiëringsaanvraag voor het begrotingsjaar.<br>
+<br>
+Het saldo van de subsidies wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde activiteitenjaar, nadat Sport Vlaanderen de uitgaven die in het voorbije jaar gedaan werden en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br>
+<br>
+§ 2. De subsidies, vermeld in artikel 13, § 1, en artikel 15, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 20 percent van de toegekende subsidies.<br>
+<br>
+Het saldo van de subsidies wordt uitbetaald vóór 1 juli van het jaar dat volgt op het gesubsidieerde activiteitenjaar, nadat Sport Vlaanderen de uitgaven die in het voorbije werkjaar gedaan werden en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br>
+<br>
+§ 3. De financiering van de kosten, vermeld in artikel 13, § 3, wordt jaarlijks aan het BOIC uitbetaald na voorlegging en controle van de afrekeningsstukken van de door Sport Vlaanderen aanvaarde uitgaven betreffende de voorbereiding en deelname aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen.
 
 ## HOOFDSTUK VIII. Communicatie
 
@@ -171,11 +244,11 @@ Deel I. Kosten die in aanmerking komen voor subsidiëring voor de voorbereiding 
 - de verblijfkosten van elitesporters, beloftevolle jongeren en jonge topsporttalenten, de coördinator topsport, de sporttechnisch coördinator, trainers, gasttrainers, medici, paramedici, sportpsychologen en vaste begeleiders;<br>
 - de kosten voor personeel, verplaatsing, verblijf en materiaal verbonden aan het programma van talentdetectie en talentontwikkeling buiten de topsportschool;<br>
 - de huurgelden van de sportaccommodaties;<br>
-- de kosten voor materiaal en sportmateriaal, ten belope van maximum 20 percent van de totaal toegekende subsidies, waarvan de afschrijvingstermijn vooraf in het convenant met het Bloso is vastgelegd. Voor de sporttakken met uitzonderlijk hoge materiaalkosten eigen aan de sporttak, kan een hoger percentage worden vastgelegd op basis van een gemotiveerde aanvraag en schriftelijk akkoord van het Bloso;<br>
+- de kosten voor materiaal en sportmateriaal, ten belope van maximum 20 percent van de totaal toegekende subsidies, waarvan de afschrijvingstermijn vooraf in het convenant met Sport Vlaanderen is vastgelegd. Voor de sporttakken met uitzonderlijk hoge materiaalkosten eigen aan de sporttak, kan een hoger percentage worden vastgelegd op basis van een gemotiveerde aanvraag en schriftelijk akkoord van Sport Vlaanderen;<br>
 - het subsidieerbare gedeelte van de bezoldiging van de vaste sporttechnische medewerkers in voltijds dienstverband, die niet gesubsidieerd worden via de basissubsidies, genoemd in artikel 9, 1°, van het decreet, bedraagt ten hoogste 50 percent van de bezoldiging berekend overeenkomstig artikel 28 en 29 het algemeen erkennings- en subsidiëringsbesluit.<br>
 De bezoldiging van de occasionele medewerkers wordt bepaald overeenkomstig de categorie waartoe de betrokkene behoort volgens de in deel V opgenomen bezoldigingstabel. De uurlonen tegen 100 percent vermeld in de als bijlage opgenomen bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Deze uurlonen worden jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br>
 Alle sporttechnische medewerkers dienen in het bezit te zijn van een sporttechnische kwalificatie : minimaal het VTS-getuigschrift/diploma van trainer B of geassimileerd, in de betrokken sporttak. De medici en de paramedici worden vergoed volgens de geldende RIZIV-nomenclatuur;<br>
-- de specifieke kosten eigen aan de sporttak, die worden opgenomen in het convenant tussen de sportfederatie en het Bloso.<br>
+- de specifieke kosten eigen aan de sporttak, die worden opgenomen in het convenant tussen de sportfederatie en Sport Vlaanderen.<br>
 - inschrijvingsgelden of bijdragen om te kunnen deelnemen aan internationale wedstrijden.<br>
 <br>
 Deel II. Kosten die in aanmerking komen voor de financiering van de kosten van de voorbereiding en deelname van geselecteerde topsporters aan Olympische Spelen, Paralympische Spelen, Europese Jeugd Olympische dagen (EYOD) en Wereldspelen via het BOIC :<br>
@@ -193,7 +266,7 @@ Deel III. Kosten die in aanmerking komen voor subsidiëring voor de participatie
 - het huurgeld voor de sportinfrastructuur die niet beschikbaar is in de school en die van derden wordt afgehuurd;<br>
 - de verplaatsingskosten van de leerlingen-topsporters van de school naar de sportinfrastructuur en de verplaatsingskosten van de lesgevers;<br>
 - de kosten voor de medische en paramedische begeleiding en voor de begeleiding door de sportpsychologen;<br>
-- de specifieke kosten eigen aan de sporttak waarvoor met het Bloso een overeenkomst werd bereikt.<br>
+- de specifieke kosten eigen aan de sporttak waarvoor met Sport Vlaanderen een overeenkomst werd bereikt.<br>
 <br>
 Deel IV. Kosten die in aanmerking komen voor subsidiëring voor het organiseren van Europese kampioenschappen, Wereldkampioenschappen en Wereldbekerwedstrijden voor junioren en senioren in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad :<br>
 - publiciteitskosten : zoals kosten voor de aanmaak en verspreiding van affiches, brochures, strooibrieven, speciaal voor de manifestatie gerealiseerde persmappen, briefomslagen, aankondigingen in kranten, weekbladen en reclamebladen, publiciteitsspots op radio en televisie en andere publiciteitskosten;<br>
@@ -203,32 +276,33 @@ Deel IV. Kosten die in aanmerking komen voor subsidiëring voor het organiseren 
 - kosten voor het verblijf, te rekenen vanaf de avond voor de sportmanifestatie tot en met de middag na de sportmanifestatie : overnachtingskosten voor atleten, juryleden en scheidsrechters, restaurantkosten voor atleten, juryleden en scheidsrechters en andere kosten voor het verblijf;<br>
 - kosten voor medische hulpposten.<br>
 <br>
-Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de subsidiëring van de facultatieve opdracht topsport</p>
+Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de subsidiëring van de facultatieve opdracht topsport<br>
+</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; width:92.1pt">
 			<p>CATEGORIE<!--?xml:namespace prefix         = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>II</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>III</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>IV</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>V</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:92.1pt">
 			<p>Voor de occasionele medewerker met de specifieke functie van lesgever of trainer die in het bezit is van één van de volgende diploma’s of getuigschriften:</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>• VTS-Instructeur B/Trainer B in de betrokken sporttak (of geassimileerd*)</p>
 
 			<p>• Regent/bachelor L.O.</p>
@@ -237,7 +311,7 @@ Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de su
 
 			<p>Kinesitherapie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>• VTS-Trainer A in de betrokken sporttak (of geassimileerd*)</p>
 
 			<p>• Regent/bachelor L.O. met Instructeur B/Trainer B diploma in de betrokken sporttak (of geassimileerd*)</p>
@@ -246,7 +320,7 @@ Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de su
 
 			<p>• Bijkomend voor de gehandicaptensport: gegradueerde/bachelor Kinesitherapie met Instructeur B/Trainer B diploma in de betrokken sporttak (of geassimileerd*) en de licentiaat / master Kinesitherapie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>• VTS-Toptrainer in de betrokken sporttak (of geassimileerd*)</p>
 
 			<p>• Regent/bachelor L.O. met Trainer A diploma in de betrokken sporttak (of geassimileerd*)</p>
@@ -255,7 +329,7 @@ Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de su
 
 			<p>• Bijkomend voor de gehandicaptensport: gegradueerde/bachelor Kinesitherapie met Trainer A diploma in de betrokken sporttak (of geassimileerd*) en&nbsp; licentiaat / master Kinesitherapie met Instructeur B/Trainer B diploma in de betrokken sporttak (of geassimileerd*)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>• Licentiaat / master L.O. met Trainer A diploma in de betrokken sporttak (of geassimileerd*)</p>
 
 			<p>• Licentiaat / master L.O. met sporttechnisch postgraduaat in de betrokken sporttak</p>
@@ -264,61 +338,61 @@ Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de su
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:92.1pt">
 			<p>Voor de occasionele medewerker met de specifieke functie van</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>* Licentiaat / master in de psychologie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:92.1pt">
 			<p>Brutojaarloon tegen 100 % **</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>€ 16.900,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>€ 19.100,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>€ 21.100,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>€ 23.150,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:92.1pt">
 			<p>Geïndexeerd bruto-uurloon *** (sinds 1 oktober 2008)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>€ 12,7084</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.1pt">
 			<p>€ 14,3627</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>€ 15,8666</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.15pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:92.15pt">
 			<p>€ 17,4082</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:92.1pt">
+			<td style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext; width:92.1pt">
 			<p>Reisvergoeding per km (sinds 1 juli 2008)</p>
 			</td>
-			<td colspan="4" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; width:368.5pt">
+			<td colspan="4" style="background-color:transparent; border-color:#f0f0f0 windowtext windowtext #f0f0f0; width:368.5pt">
 			<p>€ 0,3093</p>
 			</td>
 		</tr>
@@ -329,7 +403,7 @@ Deel V. Bezoldigingstabel voor de occasionele medewerkers in het kader van de su
 
 <p>&nbsp;</p>
 
-<p>* Zie de geactualiseerde assimilatietabel van de Vlaamse Trainersschool op de Bloso - website<br>
+<p>* Zie de geactualiseerde assimilatietabel van de Vlaamse Trainersschool op de Sport Vlaanderen - website<br>
 ** Het brutojaarloon tegen 100% is gebaseerd op de categorieën en de salarisschalen, vermeld in bijlage 2 van het besluit van de Vlaamse Regering van 17 februari 2006 houdende organisatie van het Commissariaat-generaal voor de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie en de instellingsspecifieke regeling van de rechtspositie van het personeel (Belgisch Staatsblad 23 maart 2006).<br>
 Het brutojaarloon tegen 100% is gekoppeld aan de spilindex 138,01 (1 januari 1990).<br>
 Het brutojaarloon tegen 100% wordt verhoogd met de lineaire loonsverhogingen die toegekend worden aan de ambtenaren van de Vlaamse overheid.<br>
