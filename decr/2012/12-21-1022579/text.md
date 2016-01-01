@@ -120,7 +120,7 @@ Aan artikel 10 van het decreet van 29 juni 2012 betreffende de   studentenvoorzi
 
 ### ART. 26.
 
-<p>§ 1. Er wordt een begrotingsfonds Dienstverlening AKOV opgericht, hierna genoemd 'het fonds'.<br>
+<p>§ 1. Er wordt een begrotingsfonds Dienstverlening&nbsp;AKOV opgericht, hierna genoemd 'het fonds'.<br>
 <br>
 In afwijking van het eerste lid draagt het begrotingsfonds met ingang van 1 juli 2015 de naam "Begrotingsfonds Dienstverlening AHOVOKS".</p>
 
