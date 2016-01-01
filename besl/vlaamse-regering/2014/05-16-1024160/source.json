@@ -2,16 +2,16 @@
   "codex_id": 1024160,
   "title": "Besluit van de Vlaamse Regering van 2014-05-16 tot bepaling van de nadere regels met betrekking tot de beheeraspecten van sociale huisvestingsmaatschappijen en tot wijziging van het besluit van de Vlaamse Regering van 22 oktober 2010 tot vaststelling van de aanvullende voorwaarden en de procedure voor de erkenning als sociale huisvestingsmaatschappij en tot vaststelling van de procedure voor de beoordeling van de prestaties van sociale huisvestingsmaatschappijen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024160/VolledigDocument?datum=2014-08-01",
-  "source_sha256": "2c2410c3d22b4833339ef560da09d11a07703967da07fa3af5dd1b19c7858cdc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024160/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "b09e44b3f2f656cfd0bb7bdb4c1e852947fe0884a66751dfa613fdd1f272be16",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024160&param=informatie",
-  "as_of": "2014-08-01",
+  "as_of": "2016-01-01",
   "made": "2014-05-16",
   "gazette": "2014-06-12",
   "numac": 2014035594,
   "document_start": "2014-08-01",
   "document_end": "2020-12-31",
-  "in_force": "2014-08-01",
-  "article_versions": 23,
-  "record_form": "consolidated version as in force on 2014-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-01",
+  "article_versions": 24,
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
