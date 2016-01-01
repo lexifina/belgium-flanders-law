@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026079,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-09 betreffende controle en single audit die van toepassing is op de universiteiten, hogescholen en een aantal andere ambtshalve geregistreerde instellingen voor hoger onderwijs in de Vlaamse Gemeenschap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026079/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "b8296e1f2131b8984c619e2806a38fe2f1f78a9b68beac8df1f00df09199942d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026079&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-10-09",
+  "gazette": "2015-11-12",
+  "numac": 2015036318,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
