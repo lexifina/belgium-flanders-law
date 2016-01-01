@@ -2,16 +2,16 @@
   "codex_id": 1013590,
   "title": "Besluit van de Vlaamse Regering van 2004-10-22 betreffende erkenning en subsidiëring van regionale samenwerkingsverbanden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013590/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "ebf9e3b2e00bdcf8df344adbec2c3d485270d0c74b2c16aafa7769bb7a399b07",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013590/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "6f03aba7b6bbdca20e4b82939b2a8ec859642b885f96810f0d5858dd99a5f628",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013590&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2016-01-01",
   "made": "2004-10-22",
   "gazette": "2004-12-14",
   "numac": 2004036796,
   "document_start": "2004-10-22",
   "document_end": null,
-  "in_force": "2009-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 11,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
