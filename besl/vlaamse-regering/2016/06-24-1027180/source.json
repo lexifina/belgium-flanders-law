@@ -2,16 +2,16 @@
   "codex_id": 1027180,
   "title": "Besluit van de Vlaamse Regering van 2016-06-24 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de hervorming van de selectieprocedures en andere bepalingen, en tot opheffing van het APKB",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027180/VolledigDocument?datum=2015-04-01",
-  "source_sha256": "de1d21f87d1a2df4a94bf087b7bb38e21fd682c8c0d5c31aacfe2f20b143eab4",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027180/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "f067c55737987e4efd8c2d0746cc4515158d42871d331e31c2e799946c9da529",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027180&param=informatie",
-  "as_of": "2015-04-01",
+  "as_of": "2016-01-01",
   "made": "2016-06-24",
   "gazette": "2016-09-01",
   "numac": 2016036158,
   "document_start": "2016-07-01",
   "document_end": null,
-  "in_force": "2015-04-01",
-  "article_versions": 8,
-  "record_form": "consolidated version as in force on 2015-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

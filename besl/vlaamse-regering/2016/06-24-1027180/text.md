@@ -29,6 +29,11 @@ Na beraadslaging,<br>
 Besluit :<br>
 &nbsp;
 
+### ART 20.
+
+Aan artikel IV 4, eerste lid, van hetzelfde besluit wordt de volgende zin toegevoegd :<br>
+"Het gesprek kan plaatsvinden in de laatste maand van de periode waarover geëvalueerd wordt. De tijdsspanne tussen twee jaarlijkse evaluatiegesprekken moet minstens tien kalendermaanden bedragen."
+
 ### ART 89.
 
 In de tabel van artikel VII 31 van hetzelfde besluit, ingevoegd bij het besluit van de Vlaamse Regering van 16 maart 2007, wordt tussen het woord "ambt," en het woord "de" de zinsnede "de toelage voor tijdelijke functieverzwaring," ingevoegd.<br>
