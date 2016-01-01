@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026580,
+  "title": "Ministerieel besluit van 2016-02-22 houdende vaststelling van het premiebedrag ter vergoeding van de regularisatie van de gesubsidieerde contractuelen in de centra voor kinderzorg en gezinsondersteuning en de consultatiebureaus voor het jonge kind",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026580/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "b87d5d6619bf1d0a2e9fc551ee6e61d3d91d5ea89dda5611057350797880f92f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026580&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-02-22",
+  "gazette": "2016-03-25",
+  "numac": 2016035317,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
