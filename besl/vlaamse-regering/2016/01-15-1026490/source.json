@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026490,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-15 houdende de overdracht van twee personeelsleden van het agentschap Kind en Gezin aan het Departement Welzijn, Volksgezondheid en Gezin",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026490/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "e271593102c4ac8f7d618c91204cc6adb3902e31381b25ca39125937531dc6d1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026490&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-01-15",
+  "gazette": "2016-02-17",
+  "numac": 2016035161,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
