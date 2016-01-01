@@ -2,16 +2,16 @@
   "codex_id": 1018296,
   "title": "Besluit van de Vlaamse Regering van 2009-05-29 tot regeling van de toekenning van doctoraatsbeurzen voor de uitvoering van projecten van strategisch basisonderzoek",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018296/VolledigDocument?datum=2009-09-04",
-  "source_sha256": "ad61e184fda2a5f963bf342a087d538067133d6631f37b2ea970f348778c3802",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018296/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "19c2bb71aef56753671599b18580dbea8ef44a954954e24f872fd24894cb5061",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018296&param=informatie",
-  "as_of": "2009-09-04",
+  "as_of": "2016-01-01",
   "made": "2009-05-29",
   "gazette": "2009-09-04",
   "numac": 2009035734,
   "document_start": "2009-09-04",
   "document_end": null,
-  "in_force": "2009-09-04",
+  "in_force": "2016-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2009-09-04; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
