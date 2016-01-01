@@ -547,13 +547,23 @@ Bij het verlaten van het Markiesgebouw en het North-Plazagebouw wordt niet-herbr
 
 ### ART. 79.
 
-§ 1. Er wordt een Dienst met Afzonderlijk Beheer Informatie Vlaanderen opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />§ 2. De DAB Informatie Vlaanderen wordt als interne ICT-dienstverlener belast met de inrichting, de innovatie en de exploitatie van de gemeenschappelijk bruikbare ICT-omgevingen van de Vlaamse overheid, met het uitwerken van een vraaggericht en vraaggestuurd aanbod, en met het uitvoeren van de daarop betrekking hebbende programma's en projecten.<br /><br />§ 2bis. De DAB Informatie Vlaanderen wordt belast met de ondersteuning van het Vlaams e-governmentbeleid ten aanzien van de Vlaamse overheid en de lokale besturen.<br /><br />Hij zorgt voor de coördinatie en de opvolging van de e-government beleidsuitvoering en voor het beheer, de begeleiding en de coördinatie van projecten, acties en initiatieven op het vlak van e-government, met inbegrip van het ontwerp, de bouw en het beheer van gemeenschappelijk bruikbare ICT diensten en infrastructuur op het vlak van gegevensuitwisseling en applicatiekoppeling. Hij biedt op dat vlak advies, ondersteuning en diensten aan de entiteiten van de Vlaamse overheid en aan de lokale overheden. Hij vervult de functie van dienstenintegrator overeenkomstig het decreet houdende de oprichting en organisatie van een Vlaamse dienstenintegrator.<br /><br />§ 3. De begroting van de DAB Informatie Vlaanderen wordt gestijfd door :<br />1° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° alle ontvangsten voortvloeiend uit het beheer en de exploitatie door de DAB Informatie Vlaanderen.<br /><br />Het decreet houdende de begroting van de Vlaamse Overheid bepaalt elk jaar het bedrag van de dotaties die toegekend worden aan de DAB Informatie Vlaanderen.
+§ 1. Er wordt een Dienst met Afzonderlijk Beheer ICT opgericht, zoals bedoeld in artikel 140 van de gecoördineerde wetten op de rijkscomptabiliteit.<br>
+<br>
+§ 2. De DAB ICT wordt als interne ICT-dienstverlener belast met het aanbieden van diensten inzake informatie- en communicatietechnologie ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen.<br>
+<br>
+§ 2bis. ....<br>
+<br>
+§ 3. De begroting van de DAB ICT wordt gestijfd door :<br>
+1° dotaties ten laste van de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+2° alle ontvangsten voortvloeiend uit het beheer en de exploitatie door de DAB ICT.<br>
+<br>
+Het decreet houdende de begroting van de Vlaamse Overheid bepaalt elk jaar het bedrag van de dotaties die toegekend worden aan de DAB ICT.
 
 ## HOOFDSTUK XXIV [... (opgeh. decr. 18 december 2015, art. 7, I: 1 januari 2016)]
 
 ### ART. 80.
 
-Er wordt een fonds opgericht voor de IVA Studiedienst van de Vlaamse Regering. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit.<br /><br />Het fonds wordt gestijfd met ontvangsten uit contracten voor wetenschappelijke ondersteuning van onderzoeksprojecten, de inkomsten van studiedagen en opleidingen die door de Studiedienst worden georganiseerd, de verkoop van publicaties van de Studiedienst.<br /><br />Het fonds is gemachtigd uitgaven te doen die verband houden met het uitvoeren van wetenschappelijke onderzoeksopdrachten, de organisatie van studiedagen en opleidingen, het drukken en verspreiden van publicaties. De uitgaven kunnen betrekking hebben op allerlei werkingskosten, het tijdelijke in dienst nemen van personeel in het kader van de projecten waarvoor inkomsten worden verworven, het realiseren van investeringen nodig voor het uitvoeren van de opdrachten.<br /><br />De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
+<P>...</P>
 
 ## HOOFDSTUK XXV Vlaams Provinciefonds
 
