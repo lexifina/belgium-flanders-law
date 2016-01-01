@@ -1,0 +1,17 @@
+# Ministerieel besluit van 2015-11-17 tot wijziging van artikel 1 van het ministerieel besluit van 12 januari 2015 tot aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex
+
+### Aanhef
+
+De   Vlaamse minister van Begroting, Financiën en Energie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het besluit van de Vlaamse Regering van 19 december 2014 houdende de   uitvoering van het decreet van 19 december 2014 houdende de Vlaamse   vastgoedcodex;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Gelet   op het ministerieel besluit van 12 januari 2015 tot aanwijzing van de Vlaamse   commissarissen, vermeld in het decreet van 19 december 2014 houdende de Vlaamse   vastgoedcodex, zoals gewijzigd bij het ministerieel besluit van 2 maart   2015,<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+In artikel 1, 13° van het besluit van 12 januari 2015 tot   aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december   2014 houdende de Vlaamse vastgoedcodex worden de woorden "Jozef Grieten"   opgeheven.
+
+### ART. 2.
+
+In artikel 1 van het besluit van 12 januari 2015 tot   aanwijzing van de Vlaamse commissarissen, vermeld in het decreet van 19 december   2014 houdende de Vlaamse vastgoedcodex worden een punt 43°, een punt 44°, een   punt 45°, een punt 46° en een punt 47° ingevoegd, die luiden als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"43°   Carine Bogaert;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">44°   Roeland Eysackers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">45°   Lieve Verfaillie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">46°   Jan Mertens;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">47°   Johan Reymen;"
+
+### ART. 3.
+
+Dit besluit treedt in werking op 1 januari   2016.
