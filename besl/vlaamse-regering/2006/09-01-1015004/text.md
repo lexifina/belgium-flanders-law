@@ -63,13 +63,37 @@ Het Fonds betaalt voor de tiende dag van elke maand een voorschot op de subsidie
 
 ## Onderafdeling I Bepaling van de subsidie voor werkingskosten
 
+### ART 9quater.
+
+Het Fonds kent aan de erkende zorgkassen een aanvullende subsidie voor werkingskosten voor het basisondersteuningsbudget toe. De aanvullende subsidie bedraagt voor 2016 118.750 euro.<br>
+<br>
+Dat bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een basisondersteuningsbudget per zorgkas ten opzichte van alle erkende zorgkassen. Het gaat om het percentage personen met een basisondersteuningsbudget op 31 december 2016.
+
 ### ART. 8.
 
-De jaarlijkse subsidie voor werkingskosten voor alle erkende zorgkassen is   gelijk aan 8.788.306 euro. Dat bedrag wordt verdeeld onder de zorgkassen volgens   de bepalingen, vermeld in artikel 9.<BR><BR>Als een zorgkas in de loop van een   jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten   stopzet of haar erkenning verliest, wordt de subsidie pro rata   berekend.<BR><BR>
+De jaarlijkse subsidie voor werkingskosten&nbsp;voor de tenlastenemingen in de residentiële zorg en de mantel- en thuiszorg voor alle erkende zorgkassen is gelijk aan 8.788.962 euro. Dat bedrag wordt verdeeld onder de zorgkassen volgens de bepalingen, vermeld in artikel 9.<br>
+<br>
+Als een zorgkas in de loop van een jaar erkend wordt of als een erkende zorgkas vrijwillig haar activiteiten stopzet of haar erkenning verliest, wordt de subsidie pro rata berekend.<br>
+&nbsp;
 
 ### ART. 9.
 
-Het Fonds betaalt jaarlijks een forfaitaire vergoeding van 71.257 euro aan   elke erkende zorgkas die meer dan 20.000 leden en 400 lopende dossiers heeft op   31 december van het voorgaande jaar.<BR><BR>Het Fonds betaalt aan elke erkende   zorgkas een forfaitaire vergoeding van 3 euro per dossier voor een   tenlasteneming voor mantel- en thuiszorg die nog loopt op 31 december van het   voorgaande jaar en waarvoor de zorgkas de gegevens van de mantelzorger of   mantelzorgers van de gebruiker geregistreerd heeft. Het Fonds heeft voor het   verstrekken van die vergoeding een maximaal budget van 200.000 euro. Als het   vastgestelde budget overschreden wordt, wordt de forfaitaire vergoeding van elke   erkende zorgkas evenredig verminderd. De minister kan de nadere regels bepalen   waaraan de registratie van de mantelzorg moet voldoen en bepaalt op welke wijze   de zorgkassen rapporteren over de registratie van de mantelzorg.<BR><BR>Van het   bedrag, vermeld in artikel 8, eerste lid, wordt na de voorafname van het   gedeelte, vermeld in artikel 9, eerste en tweede lid, het resterende bedrag   onder de erkende zorgkassen verdeeld aan de hand van de volgende formule :<BR>S   = (0,5 * (R * a/A)) + (0,25 * (R * b/B)) + (0,25 * (R * c/C))<BR>In de formule,   vermeld in het derde lid, wordt verstaan onder :<BR>1° S = resterende subsidie   per erkende zorgkas;<BR>2° R= resterend bedrag na aftrek van de voorafname dat   verdeeld wordt onder de erkende zorgkassen;<BR>3° a = het gemiddelde van de drie   voorgaande jaren van de lopende dossiers van de erkende zorgkas op 31   december;<BR>4° A = het gemiddelde van de drie voorgaande jaren van de som van   de lopende dossiers van de erkende zorgkassen op 31 december;<BR>5° b = het   gemiddelde van de drie voorgaande jaren van het aantal leden van de erkende   zorgkas op 31 december;<BR>6° B = het gemiddelde van de drie voorgaande jaren   van de som van het aantal leden van de erkende zorgkassen op 31 december;<BR>7°   c = het gemiddelde van de drie voorgaande jaren van het aantal leden van de   erkende zorgkas dat de jaarlijkse bijdrage uiterlijk op 31 december betaald   heeft;<BR>8° C = het gemiddelde van de drie voorgaande jaren van de som van het   aantal leden van de erkende zorgkassen dat de jaarlijkse bijdrage uiterlijk op   31 december betaald heeft;<BR><BR>
+Het Fonds betaalt jaarlijks een forfaitaire vergoeding van 71.262 euro aan elke erkende zorgkas die meer dan 20.000 leden en 400 lopende dossiers heeft op 31 december van het voorgaande jaar.<br>
+<br>
+Het Fonds betaalt aan elke erkende zorgkas een forfaitaire vergoeding van 3 euro per dossier voor een tenlasteneming voor mantel- en thuiszorg die nog loopt op 31 december van het voorgaande jaar en waarvoor de zorgkas de gegevens van de mantelzorger of mantelzorgers van de gebruiker geregistreerd heeft. Het Fonds heeft voor het verstrekken van die vergoeding een maximaal budget van 200.000 euro. Als het vastgestelde budget overschreden wordt, wordt de forfaitaire vergoeding van elke erkende zorgkas evenredig verminderd. De minister kan de nadere regels bepalen waaraan de registratie van de mantelzorg moet voldoen en bepaalt op welke wijze de zorgkassen rapporteren over de registratie van de mantelzorg.<br>
+<br>
+Van het bedrag, vermeld in artikel 8, eerste lid, wordt na de voorafname van het gedeelte, vermeld in artikel 9, eerste en tweede lid, het resterende bedrag onder de erkende zorgkassen verdeeld aan de hand van de volgende formule :<br>
+S = (0,5 * (R * a/A)) + (0,25 * (R * b/B)) + (0,25 * (R * c/C))<br>
+In de formule, vermeld in het derde lid, wordt verstaan onder :<br>
+1° S = resterende subsidie per erkende zorgkas;<br>
+2° R= resterend bedrag na aftrek van de voorafname dat verdeeld wordt onder de erkende zorgkassen;<br>
+3° a = het gemiddelde van de drie voorgaande jaren van de lopende dossiers van de erkende zorgkas op 31 december;<br>
+4° A = het gemiddelde van de drie voorgaande jaren van de som van de lopende dossiers van de erkende zorgkassen op 31 december;<br>
+5° b = het gemiddelde van de drie voorgaande jaren van het aantal leden van de erkende zorgkas op 31 december;<br>
+6° B = het gemiddelde van de drie voorgaande jaren van de som van het aantal leden van de erkende zorgkassen op 31 december;<br>
+7° c = het gemiddelde van de drie voorgaande jaren van het aantal leden van de erkende zorgkas dat de jaarlijkse bijdrage uiterlijk op 31 december betaald heeft;<br>
+8° C = het gemiddelde van de drie voorgaande jaren van de som van het aantal leden van de erkende zorgkassen dat de jaarlijkse bijdrage uiterlijk op 31 december betaald heeft;<br>
+&nbsp;
 
 ### ART. 9bis.
 
@@ -83,13 +107,29 @@ Het Fonds kent aan de zorgkassen een aanvullende subsidie toe voor werkingskoste
 
 ### ART. 10.
 
-Het Fonds betaalt voor de vijftiende dag van de eerste maand van elk kwartaal een voorschot van 25 procent van de forfaitaire vergoeding, vermeld in artikel 9, eerste lid, aan elke erkende zorgkas met meer dan 20 000 leden en 400 lopende dossiers op 31 december van het tweede jaar dat voorafgaat aan het jaar waarop het voorschot betrekking heeft.<br /><br />Het Fonds verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de erkende zorgkassen een voorschot van 20 procent van het bedrag, vermeld in artikel 8, eerste lid, verminderd met de forfaitaire vergoeding, vermeld in het eerste lid. Het voorschot wordt verdeeld volgens de formule, vermeld in artikel 9, derde lid, op basis van het gemiddelde van het tweede, het derde en het vierde jaar, voorafgaand aan het jaar waarop de subsidie betrekking heeft.<br /><br />
+Het Fonds betaalt voor de vijftiende dag van de eerste maand van elk kwartaal een voorschot van 25 procent van de forfaitaire vergoeding, vermeld in artikel 9, eerste lid, aan elke erkende zorgkas met meer dan 20 000 leden en 400 lopende dossiers op 31 december van het tweede jaar dat voorafgaat aan het jaar waarop het voorschot betrekking heeft.<br>
+<br>
+Het Fonds verdeelt voor de vijftiende dag van de eerste maand van elk kwartaal verhoudingsgewijs over de erkende zorgkassen een voorschot van 20 procent van het bedrag, vermeld in artikel 8, eerste lid, verminderd met de forfaitaire vergoeding, vermeld in het eerste lid. Het voorschot wordt verdeeld volgens de formule, vermeld in artikel 9, derde lid, op basis van het gemiddelde van het tweede, het derde en het vierde jaar, voorafgaand aan het jaar waarop de subsidie betrekking heeft.<br>
+<br>
+Het Fonds verdeelt 80 % van het bedrag, vermeld in artikel 9quater vóór de datum van 15 juni 2016.<br>
+<br>
+Het bedrag wordt verdeeld onder de erkende zorgkassen op basis van het percentage personen met een basisondersteuningsbudget per zorgkas ten opzichte van alle erkende zorgkassen.<br>
+&nbsp;
 
 ## Afdeling IV Definitieve vaststelling van de subsidies en verrekening van de voorschotten
 
 ### ART. 11.
 
-Uiterlijk op 15 juni van het daaropvolgende jaar gaat het Fonds over tot de uitbetaling van het saldo of tot de terugvordering van de te veel uitbetaalde voorschotten, zowel wat de subsidies voor tenlastenemingen betreft, als wat de subsidies voor werkingskosten, vermeld in artikel 8, betreft. Het Fonds bezorgt aan elke zorgkas een gedetailleerd overzicht van de vaststelling van de subsidies en het saldo dat het Fonds zal uitbetalen aan of terugvorderen van de zorgkas.<br /><br />De zorgkassen zijn verplicht om het saldo dat het Fonds terugvordert binnen vijftien dagen na het ontvangen van het overzicht, vermeld in het eerste lid, aan het Fonds terug te storten.<br /><br />Als basis voor de subsidies voor tenlastenemingen wordt het overzicht, vermeld in artikel 6, eerste lid, gebruikt.<br /><br />Als basis voor de subsidie voor werkingskosten worden de databankgegevens van de zorgkassen van 31 december van de jaren in kwestie gebruikt.<br /><br />
+Uiterlijk op 15 juni van het daaropvolgende jaar gaat het Fonds over tot de uitbetaling van het saldo of tot de terugvordering van de te veel uitbetaalde voorschotten, zowel wat de subsidies voor tenlastenemingen betreft, als wat de subsidies voor werkingskosten, vermeld in artikel 8 en 9quater, betreft. Het Fonds bezorgt aan elke zorgkas een gedetailleerd overzicht van de vaststelling van de subsidies en het saldo dat het Fonds zal uitbetalen aan of terugvorderen van de zorgkas.<br>
+<br>
+De zorgkassen zijn verplicht om het saldo dat het Fonds terugvordert binnen vijftien dagen na het ontvangen van het overzicht, vermeld in het eerste lid, aan het Fonds terug te storten.<br>
+<br>
+Als basis voor de subsidies voor tenlastenemingen wordt het overzicht, vermeld in artikel 6, eerste lid, gebruikt.<br>
+<br>
+Als basis voor de subsidie voor werkingskosten voor de tenlastenemingen in de residentiële zorg en de mantel- en thuiszorg worden de databankgegevens van de zorgkassen van 31 december van de jaren in kwestie gebruikt.<br>
+<br>
+Als basis voor de aanvullende subsidie voor werkingskosten voor het basisondersteuningsbudget worden de databankgegevens van het Fonds gebruikt.<br>
+&nbsp;
 
 ## HOOFDSTUK III Vergoeding voor indicatiestellingen
 
@@ -101,7 +141,7 @@ Uiterlijk op 15 juni van het daaropvolgende jaar gaat het Fonds over tot de uitb
 
 ### ART. 13.
 
-<P>De bedragen, vermeld in artikel 8, eerste lid, en in artikel 9, eerste lid,   worden, met ingang van het kalenderjaar 2016, ieder jaar op 1 januari aangepast   aan de ontwikkeling van het gezondheidsindexcijfer van de consumptieprijzen van   de maand april van het voorgaande jaar ten opzichte van het   gezondheidsindexcijfer van de consumptieprijzen van de maand april in   2014.</P>
+<p>De bedragen, vermeld in artikel 8, eerste lid en in artikel 9, eerste lid, worden, met ingang van het kalenderjaar 2017, ieder jaar op 1 januari aangepast aan de ontwikkeling van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april van het voorgaande jaar ten opzichte van het afgevlakte gezondheidsindexcijfer van de consumptieprijzen van de maand april in 2015.</p>
 
 ## HOOFDSTUK V Toezicht op de subsidiëring
 
