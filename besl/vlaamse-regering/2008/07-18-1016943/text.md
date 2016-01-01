@@ -8,7 +8,24 @@ De Vlaamse Regering,<br /><br />Gelet op de artikelen 20 en 87, § 1, van de bij
 
 ### ART. 1.
 
-Met behoud van toepassing van de definities, vermeld in artikel 2 van het decreet, wordt in dit besluit verstaan onder :<br />1° minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />2° koepelorganisatie : de koepelorganisatie, erkend op basis van artikel 40 van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />3° BLOSO : het intern verzelfstandigd agentschap met rechtspersoonlijkheid, vermeld in het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid BLOSO;<br />4° Vlaams Kenniscentrum PPS : de dienst voor het algemeen Regeringsbeleid, vermeld in artikel 4, § 1, van het decreet van 18 juli 2003 betreffende publiek-private samenwerking;<br />5° PMV : de naamloze vennootschap ParticipatieMaatschappij Vlaanderen;<br />6° ontvangsttermijn : termijn waarbinnen de subsidieaanvraag moet zijn ingediend; <br />7° aanvraagformulier : document dat opgemaakt is door de minister ter uitvoering van dit besluit, en dat de subsidieaanvrager moet invullen om de subsidie aan te vragen;<br />8° datum van ontvangst : hetzij de datum van het bewijs van afgifte van de subsidieaanvraag, hetzij de postdatum bij verzending van de subsidieaanvraag;<br />9° decreet : het decreet van 23 mei 2008 betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering;<br />10° model van DBFM(O)-overeenkomst : typeovereenkomst als vermeld in artikel 4, 3°, van het decreet, opgemaakt door de minister ter uitvoering van dit besluit;<br />11° subsidiegenieter : de subsidietrekker die met de subsidieverstrekkende overheid een subsidieovereenkomst heeft gesloten, en die een subsidie ontvangt van de subsidieverstrekkende overheid overeenkomstig de bepalingen van het decreet en dit besluit;<br />12° subsidieverstrekkende overheid : de Vlaamse Gemeenschap;<br />13° subsidieovereenkomst : de overeenkomst tussen de subsidieverstrekkende overheid en de subsidietrekker, vermeld in artikel 13 van het decreet;<br />14° model van subsidieovereenkomst : typeovereenkomst als vermeld in artikel 13, § 2, van het decreet, opgemaakt door de minister ter uitvoering van dit besluit; <br />15° subsidiabel gedeelte van de beschikbaarheidsvergoeding : het gedeelte van de beschikbaarheidsvergoeding dat betrekking heeft op werken en diensten die door de Vlaamse Regering in aanmerking worden genomen voor de subsidiëring;<br />16° subsidiepercentage : percentage ten opzichte van het subsidiabel gedeelte van de beschikbaarheidsvergoeding dat als subsidie wordt uitgekeerd door de Vlaamse Gemeenschap;<br />17° basisbouwprogramma : de omschrijving van het type, de aard en de omvang van de werken en diensten die overeenkomstig het decreet en dit besluit in aanmerking komen voor subsidiëring.
+Met behoud van toepassing van de definities, vermeld in artikel 2 van het decreet, wordt in dit besluit verstaan onder :<br>
+1° minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+2° koepelorganisatie : de koepelorganisatie, erkend op basis van artikel 40 van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+3° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
+4° Vlaams Kenniscentrum PPS : de dienst voor het algemeen Regeringsbeleid, vermeld in artikel 4, § 1, van het decreet van 18 juli 2003 betreffende publiek-private samenwerking;<br>
+5° PMV : de naamloze vennootschap ParticipatieMaatschappij Vlaanderen;<br>
+6° ontvangsttermijn : termijn waarbinnen de subsidieaanvraag moet zijn ingediend;<br>
+7° aanvraagformulier : document dat opgemaakt is door de minister ter uitvoering van dit besluit, en dat de subsidieaanvrager moet invullen om de subsidie aan te vragen;<br>
+8° datum van ontvangst : hetzij de datum van het bewijs van afgifte van de subsidieaanvraag, hetzij de postdatum bij verzending van de subsidieaanvraag;<br>
+9° decreet : het decreet van 23 mei 2008 betreffende een inhaalbeweging in sportinfrastructuur via alternatieve financiering;<br>
+10° model van DBFM(O)-overeenkomst : typeovereenkomst als vermeld in artikel 4, 3°, van het decreet, opgemaakt door de minister ter uitvoering van dit besluit;<br>
+11° subsidiegenieter : de subsidietrekker die met de subsidieverstrekkende overheid een subsidieovereenkomst heeft gesloten, en die een subsidie ontvangt van de subsidieverstrekkende overheid overeenkomstig de bepalingen van het decreet en dit besluit;<br>
+12° subsidieverstrekkende overheid : de Vlaamse Gemeenschap;<br>
+13° subsidieovereenkomst : de overeenkomst tussen de subsidieverstrekkende overheid en de subsidietrekker, vermeld in artikel 13 van het decreet;<br>
+14° model van subsidieovereenkomst : typeovereenkomst als vermeld in artikel 13, § 2, van het decreet, opgemaakt door de minister ter uitvoering van dit besluit;<br>
+15° subsidiabel gedeelte van de beschikbaarheidsvergoeding : het gedeelte van de beschikbaarheidsvergoeding dat betrekking heeft op werken en diensten die door de Vlaamse Regering in aanmerking worden genomen voor de subsidiëring;<br>
+16° subsidiepercentage : percentage ten opzichte van het subsidiabel gedeelte van de beschikbaarheidsvergoeding dat als subsidie wordt uitgekeerd door de Vlaamse Gemeenschap;<br>
+17° basisbouwprogramma : de omschrijving van het type, de aard en de omvang van de werken en diensten die overeenkomstig het decreet en dit besluit in aanmerking komen voor subsidiëring.
 
 ## HOOFDSTUK II. De selectieadviescommissie
 
@@ -16,7 +33,37 @@ Met behoud van toepassing van de definities, vermeld in artikel 2 van het decree
 
 ### ART. 2.
 
-§ 1. Er wordt een selectieadviescommissie opgericht die wordt samengesteld als volgt :<br />1° een vertegenwoordiger van de minister;<br />2° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begroting;<br />3° een vertegenwoordiger van de koepelorganisatie;<br />4° een vertegenwoordiger van BLOSO;<br />5° een vertegenwoordiger van het Vlaams Kenniscentrum PPS;<br />6° een vertegenwoordiger van PMV;<br />7° een vertegenwoordiger van het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse Overheid; <br />8° de Vlaams Bouwmeester of een persoon uit zijn dienst die daarvoor is aangewezen.<br /><br />§ 2. De volgende personen kunnen geen deel uitmaken van de selectieadviescommissie :<br />1° de provinciegouverneurs, de leden van de Bestendige Deputatie of van de provincieraad, en de leden van de verzelfstandigde agentschappen van de provincies;<br />2° de burgemeesters en schepenen, de gemeenteraadsleden, O.C.M.W.-raadsleden, en leden van de verzelfstandigde agentschappen van de gemeenten en de O.C.M.W.'s;<br />3° de leden van een districtscollege, de voorzitter van een districtsraad en de leden van een districtsraad;<br />4° de statutaire of contractuele personeelsleden van de provincie of de gemeenten, en de provinciale en gemeentelijke verzelfstandigde agentschappen, met uitzondering van de vrijwillige brandweerlieden en de vrijwillige ambulancediensten;<br />5° de leden van het operationele, administratieve of logistieke kader van de politiezone waar de gemeente toe behoort;<br />6° de leden van parlementaire vergaderingen en de leden van de Vlaamse Regering;<br />7° de leden van de Vlaamse Gemeenschapscommissie;<br />8° de statutaire of contractuele personeelsleden van de Vlaamse Gemeenschapscommissie.<br /><br />§ 3. De leden van de selectieadviescommissie worden door de minister aangesteld op voordracht van de entiteiten die gerechtigd zijn om een vertegenwoordiger aan te wijzen in de selectieadviescommissie. Als tijdens de duurtijd van het lidmaatschap van een lid van de selectieadviescommissie een onverenigbaarheid ontstaat als vermeld in § 2, leidt dat tot de ambtshalve en onmiddellijke beëindiging van het lidmaatschap van het commissielid door de minister.<br /><br />§ 4. Het lidmaatschap van de leden van de selectieadviescommissie eindigt van rechtswege bij de voltooiing van de opdracht waarvoor de selectieadviescommissie is samengesteld.<br /><br />§ 5. De minister kan op verzoek van het betrokken commissielid een eind maken aan zijn lidmaatschap. <br /><br />§ 6. Met behoud van de toepassing van de bepalingen in § 3, kan de minister in de volgende gevallen ambtshalve een einde stellen aan het lidmaatschap van een lid van de selectieadviescommissie :<br />1° als het commissielid driemaal na elkaar zonder voorafgaande kennisgeving de vergadering van de selectieadviescommissie niet bijwoont;<br />2° als het commissielid activiteiten verricht of functies vervult die een strijdigheid van belangen tot gevolg hebben. <br /><br />§ 7. Bij beëindiging van het lidmaatschap van een lid van de selectieadviescommissie door de minister draagt de entiteit die het betrokken lid had voorgedragen, onverwijld een nieuwe kandidaat voor aan de minister, die beslist over de aanstelling van de nieuw voorgedragen kandidaat als lid van de selectieadviescommissie.
+§ 1. Er wordt een selectieadviescommissie opgericht die wordt samengesteld als volgt :<br>
+1° een vertegenwoordiger van de minister;<br>
+2° een vertegenwoordiger van de Vlaamse minister, bevoegd voor de financiën en de begroting;<br>
+3° een vertegenwoordiger van de koepelorganisatie;<br>
+4° een vertegenwoordiger van Sport Vlaanderen;<br>
+5° een vertegenwoordiger van het Vlaams Kenniscentrum PPS;<br>
+6° een vertegenwoordiger van PMV;<br>
+7° ...;<br>
+8° de Vlaams Bouwmeester of een persoon uit zijn dienst die daarvoor is aangewezen.<br>
+<br>
+§ 2. De volgende personen kunnen geen deel uitmaken van de selectieadviescommissie :<br>
+1° de provinciegouverneurs, de leden van de Bestendige Deputatie of van de provincieraad, en de leden van de verzelfstandigde agentschappen van de provincies;<br>
+2° de burgemeesters en schepenen, de gemeenteraadsleden, O.C.M.W.-raadsleden, en leden van de verzelfstandigde agentschappen van de gemeenten en de O.C.M.W.'s;<br>
+3° de leden van een districtscollege, de voorzitter van een districtsraad en de leden van een districtsraad;<br>
+4° de statutaire of contractuele personeelsleden van de provincie of de gemeenten, en de provinciale en gemeentelijke verzelfstandigde agentschappen, met uitzondering van de vrijwillige brandweerlieden en de vrijwillige ambulancediensten;<br>
+5° de leden van het operationele, administratieve of logistieke kader van de politiezone waar de gemeente toe behoort;<br>
+6° de leden van parlementaire vergaderingen en de leden van de Vlaamse Regering;<br>
+7° de leden van de Vlaamse Gemeenschapscommissie;<br>
+8° de statutaire of contractuele personeelsleden van de Vlaamse Gemeenschapscommissie.<br>
+<br>
+§ 3. De leden van de selectieadviescommissie worden door de minister aangesteld op voordracht van de entiteiten die gerechtigd zijn om een vertegenwoordiger aan te wijzen in de selectieadviescommissie. Als tijdens de duurtijd van het lidmaatschap van een lid van de selectieadviescommissie een onverenigbaarheid ontstaat als vermeld in § 2, leidt dat tot de ambtshalve en onmiddellijke beëindiging van het lidmaatschap van het commissielid door de minister.<br>
+<br>
+§ 4. Het lidmaatschap van de leden van de selectieadviescommissie eindigt van rechtswege bij de voltooiing van de opdracht waarvoor de selectieadviescommissie is samengesteld.<br>
+<br>
+§ 5. De minister kan op verzoek van het betrokken commissielid een eind maken aan zijn lidmaatschap.<br>
+<br>
+§ 6. Met behoud van de toepassing van de bepalingen in § 3, kan de minister in de volgende gevallen ambtshalve een einde stellen aan het lidmaatschap van een lid van de selectieadviescommissie :<br>
+1° als het commissielid driemaal na elkaar zonder voorafgaande kennisgeving de vergadering van de selectieadviescommissie niet bijwoont;<br>
+2° als het commissielid activiteiten verricht of functies vervult die een strijdigheid van belangen tot gevolg hebben.<br>
+<br>
+§ 7. Bij beëindiging van het lidmaatschap van een lid van de selectieadviescommissie door de minister draagt de entiteit die het betrokken lid had voorgedragen, onverwijld een nieuwe kandidaat voor aan de minister, die beslist over de aanstelling van de nieuw voorgedragen kandidaat als lid van de selectieadviescommissie.
 
 ### ART. 3.
 
@@ -38,7 +85,7 @@ De leden van de selectieadviescommissie streven in hun besluitvorming naar conse
 
 ### ART. 7.
 
-Het secretariaat wordt waargenomen door het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid. De minister wijst een personeelslid van het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid als secretaris aan. De minister wijst eveneens een plaatsvervanger aan.<br>
+Het secretariaat wordt waargenomen door Sport Vlaanderen. De minister wijst een personeelslid van Sport Vlaanderen als secretaris aan. De minister wijst eveneens een plaatsvervanger aan.<br>
 <br>
 De secretaris of zijn plaatsvervanger woont de zittingen van de selectieadviescommissie bij en maakt van elke vergadering de notulen op.
 
@@ -134,7 +181,9 @@ De minister stelt voor elk type van sportinfrastructuur een model van DBFM(O)-ov
 
 ### ART. 23.
 
-Bij het Departement Cultuur, Jeugd, Sport en Media wordt een cel opgericht, Sportfacilitator, die ermee wordt belast de door de Vlaamse Regering opgenomen taken, vermeld in het decreet en in dit besluit, voor te bereiden, te coördineren, te beheren, te faciliteren en te ondersteunen. De Sportfacilitator zal optreden als kennisverzamelaar en -beheerder met betrekking tot de alternatieve financiering van sportinfrastructuur, al dan niet door middel van een DBFM(O)-overeenkomst. De minister wordt belast met de nadere operationalisering van de Sportfacilitator.<br /><br />Tussen de minister, PMV en het Vlaams Kenniscentrum PPS wordt een samenwerkingsprotocol gesloten. In dit samenwerkingsprotocol worden nadere afspraken gemaakt over de kennisondersteuning en -overdracht vanuit PMV en het Kenniscentrum PPS naar de Sportfacilitator, de samenwerking met betrekking tot de taken van de Sportfacilitator. <br /><br />De minister zal met BLOSO een addendum aan zijn beheersovereenkomst sluiten omtrent de diensten die BLOSO zal verrichten in het kader van het decreet en dit besluit.
+Bij Sport Vlaanderen wordt een cel opgericht, Sportfacilitator, die ermee wordt belast de door de Vlaamse Regering opgenomen taken, vermeld in het decreet en in dit besluit, voor te bereiden, te coördineren, te beheren, te faciliteren en te ondersteunen. De Sportfacilitator zal optreden als kennisverzamelaar en -beheerder met betrekking tot de alternatieve financiering van sportinfrastructuur, al dan niet door middel van een DBFM(O)-overeenkomst. De minister wordt belast met de nadere operationalisering van de Sportfacilitator.<br>
+<br>
+Tussen de minister, PMV en het Vlaams Kenniscentrum PPS wordt een samenwerkingsprotocol gesloten. In dit samenwerkingsprotocol worden nadere afspraken gemaakt over de kennisondersteuning en -overdracht vanuit PMV en het Kenniscentrum PPS naar de Sportfacilitator, de samenwerking met betrekking tot de taken van de Sportfacilitator.
 
 ## HOOFDSTUK IX. Slotbepalingen
 
