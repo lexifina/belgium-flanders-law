@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026497,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026497/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "ab1e3498cc230e0a4d03f8da43e7ceec15ea436c682a99bfb4c77c2629ba8508",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026497&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-18",
+  "gazette": "2016-02-24",
+  "numac": 2016035185,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
