@@ -346,7 +346,7 @@ Aan artikel 253 van het Wetboek van de inkomstenbelastingen wordt een punt 9° t
 
 ### ART. 53.
 
-§ 1. Er wordt een fonds opgericht binnen het departement DAR voor het Elektronisch bestelloket voor publicaties. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit, hierna het fonds te noemen.<br /><br />§ 2. Het fonds wordt gespijsd met de inkomsten van publicaties van het Elektronisch bestelloket voor publicaties.<br /><br />§ 3. De inkomsten van het fonds mogen aangewend worden voor het onderhoud en de exploitatie van het Elektronisch bestelloket voor publicaties.<br /><br />
+...<BR>
 
 ## HOOFDSTUK 8 Jeugd
 
