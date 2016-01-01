@@ -8,7 +8,17 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° BLOSO : het agentschap voor   de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de   Openluchtrecreatie;<BR>2° decreet van 15 juli 2011 : het decreet van 15 juli   2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse   Gemeenschap en het Vlaamse Gewest periodieke plan- en   rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<BR>3°   decreet van 6 juli 2012 : het decreet van 6 juli 2012 houdende het stimuleren en   subsidiëren van een lokaal sportbeleid;<BR>4° jeugdsportcoördinator : een   sportgekwalificeerde jeugdsportbegeleider die het jeugdsportbeleid in een   sportvereniging coördineert op het sporttechnische, beleidsmatige en   organisatorische vlak;<BR>5° lokale beleidscyclus : een beleidscyclus als   vermeld in artikel 2, 3°, van het decreet van 15 juli 2011;<BR>6° minister : de   Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het   openluchtleven;<BR>7° organisatie voor de begeleiding van de besturen : een   organisatie voor de begeleiding van de gemeenten, de Vlaamse   Gemeenschapscommissie en de provincies in het kader van de Vlaamse   beleidsprioriteiten Sport voor Allen;<BR>8° ...;<BR>9° VGC : de Vlaamse   Gemeenschapscommissie;<BR>10° VGC-beleidscyclus : een beleidscyclus van vijf   jaar die gekoppeld is aan de VGC-bestuursperiode en die begint het tweede jaar   dat volgt op de verkiezingen van het Brussels Hoofdstedelijk Parlement en   eindigt op het einde van het jaar na de daaropvolgende verkiezingen.   <BR>
+In dit besluit wordt verstaan onder :<br>
+1° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
+2° decreet van 15 juli 2011 : het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<br>
+3° decreet van 6 juli 2012 : het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid;<br>
+4° jeugdsportcoördinator : een sportgekwalificeerde jeugdsportbegeleider die het jeugdsportbeleid in een sportvereniging coördineert op het sporttechnische, beleidsmatige en organisatorische vlak;<br>
+5° lokale beleidscyclus : een beleidscyclus als vermeld in artikel 2, 3°, van het decreet van 15 juli 2011;<br>
+6° minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+7° organisatie voor de begeleiding van de besturen : een organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen;<br>
+8° ...;<br>
+9° VGC : de Vlaamse Gemeenschapscommissie;<br>
+10° VGC-beleidscyclus : een beleidscyclus van vijf jaar die gekoppeld is aan de VGC-bestuursperiode en die begint het tweede jaar dat volgt op de verkiezingen van het Brussels Hoofdstedelijk Parlement en eindigt op het einde van het jaar na de daaropvolgende verkiezingen.
 
 ### ART. 2.
 
@@ -26,7 +36,18 @@ De bestedingspercentages, vermeld in hoofdstuk 2, en de invulling van de   indic
 
 ### ART. 5.
 
-<P>Ten minste 35 % van de door de Vlaamse Regering toegekende subsidie voor de   uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen wordt door het   gemeentebestuur, respectievelijk de VGC, aangewend voor het stimuleren van   sportverenigingen tot professionalisering, zoals voorzien in de Vlaamse   beleidsprioriteit, vermeld in artikel 5, 2°, artikel 11, eerste lid, 2°, en   artikel 6, tweede lid, van het decreet van 6 juli 2012.<BR></P>  <P>Om voor subsidiëring voor de uitvoering van de Vlaamse beleidsprioriteit,   vermeld in het eerste lid, in aanmerking te komen, moet aan de volgende   voorwaarden worden voldaan : <BR>1° de subsidie kan verantwoord worden door   kosten die verbonden zijn aan de organisatie van eigen initiatieven van de   gemeente, respectievelijk van de VGC, die uitgevoerd worden in de   sportverenigingen, of door de subsidiëring van sportverenigingen;<BR>2° de   subsidie wordt aangewend voor sportverenigingen die aangesloten zijn bij een   erkende Vlaamse sportfederatie;<BR>3° de subsidie wordt geheel of gedeeltelijk   aangewend voor de kwaliteitsverhoging van de jeugdsportbegeleiders en   jeugdsportcoördinatoren. Enerzijds wordt daarbij de kwaliteitsverhoging van de   jeugdsportbegeleiders en de jeugdsportcoördinatoren beoogd op het   sporttechnische, tactische of sociaal-pedagogische vlak, en voor de   jeugdsportcoördinatoren ook op het beleidsmatige en organisatorische vlak.   Anderzijds wordt de verhoging van het aantal sportgekwalificeerde   jeugdsportbegeleiders en jeugdsportcoördinatoren en van hun sportkwalificatie   beoogd. De sportkwalificaties hebben betrekking op sportspecifieke   diploma's/getuigschriften of attesten, uitgereikt door de VTS, of daarmee   geassimileerd;<BR>4° de subsidie kan bijkomend aangewend worden voor :<BR>a) de   gehele of gedeeltelijke vergoeding van de loonkosten voor functies inzake de   coördinatie van het beleid op het sporttechnische, beleidsmatige,   sociaal-pedagogische of organisatorische vlak in de sportverenigingen. De   coördinatoren oefenen de functie actief uit in een of meer sportverenigingen en   beschikken over de nodige competenties voor de coördinatieopdracht;<BR>b) de   kosten van sportverenigingen in het kader van structurele samenwerkingsverbanden   of fusies tussen sportverenigingen met het oog op de uitbouw van een ruimere en   kwaliteitsvolle werkingsbasis voor de betrokken sportverenigingen; <BR>5° de   subsidie kan niet besteed worden aan materiaal, aan infrastructuur en aan   evenementen.<BR></P>  <P>In het tweede lid, 3°, wordt verstaan onder VTS : de Vlaamse Trainersschool,   het samenwerkingsverband, vermeld in artikel 2, 2°, van het decreet van 7 mei   2004 tot omvorming van de Vlaamse openbare instelling Commissariaat- generaal   voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de   Openluchtrecreatie tot het intern verzelfstandigd agentschap met   rechtspersoonlijkheid BLOSO.<BR></P>
+<p>Ten minste 35 % van de door de Vlaamse Regering toegekende subsidie voor de uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen wordt door het gemeentebestuur, respectievelijk de VGC, aangewend voor het stimuleren van sportverenigingen tot professionalisering, zoals voorzien in de Vlaamse beleidsprioriteit, vermeld in artikel 5, 2°, artikel 11, eerste lid, 2°, en artikel 6, tweede lid, van het decreet van 6 juli 2012.</p>
+
+<p>Om voor subsidiëring voor de uitvoering van de Vlaamse beleidsprioriteit, vermeld in het eerste lid, in aanmerking te komen, moet aan de volgende voorwaarden worden voldaan :<br>
+1° de subsidie kan verantwoord worden door kosten die verbonden zijn aan de organisatie van eigen initiatieven van de gemeente, respectievelijk van de VGC, die uitgevoerd worden in de sportverenigingen, of door de subsidiëring van sportverenigingen;<br>
+2° de subsidie wordt aangewend voor sportverenigingen die aangesloten zijn bij een erkende Vlaamse sportfederatie;<br>
+3° de subsidie wordt geheel of gedeeltelijk aangewend voor de kwaliteitsverhoging van de jeugdsportbegeleiders en jeugdsportcoördinatoren. Enerzijds wordt daarbij de kwaliteitsverhoging van de jeugdsportbegeleiders en de jeugdsportcoördinatoren beoogd op het sporttechnische, tactische of sociaal-pedagogische vlak, en voor de jeugdsportcoördinatoren ook op het beleidsmatige en organisatorische vlak. Anderzijds wordt de verhoging van het aantal sportgekwalificeerde jeugdsportbegeleiders en jeugdsportcoördinatoren en van hun sportkwalificatie beoogd. De sportkwalificaties hebben betrekking op sportspecifieke diploma's/getuigschriften of attesten, uitgereikt door de VTS, of daarmee geassimileerd;<br>
+4° de subsidie kan bijkomend aangewend worden voor :<br>
+a) de gehele of gedeeltelijke vergoeding van de loonkosten voor functies inzake de coördinatie van het beleid op het sporttechnische, beleidsmatige, sociaal-pedagogische of organisatorische vlak in de sportverenigingen. De coördinatoren oefenen de functie actief uit in een of meer sportverenigingen en beschikken over de nodige competenties voor de coördinatieopdracht;<br>
+b) de kosten van sportverenigingen in het kader van structurele samenwerkingsverbanden of fusies tussen sportverenigingen met het oog op de uitbouw van een ruimere en kwaliteitsvolle werkingsbasis voor de betrokken sportverenigingen;<br>
+5° de subsidie kan niet besteed worden aan materiaal, aan infrastructuur en aan evenementen.</p>
+
+<p>In het tweede lid, 3°, wordt verstaan onder VTS : de Vlaamse Trainersschool, het samenwerkingsverband, vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen".</p>
 
 ### ART. 6.
 
@@ -54,21 +75,93 @@ Om voor subsidiëring voor de uitvoering van de Vlaamse   beleidsprioriteiten, v
 
 ### ART. 11.
 
-<P>Het BLOSO onderzoekt de subsidieaanvraag en de lokale invulling van de   Vlaamse beleidsprioriteiten Sport voor Allen die de gemeenten en de provincies   ingediend hebben met toepassing van artikel 7 van het decreet van 15 juli 2011   om tijdens de lokale beleidscyclus gesubsidieerd te worden voor de uitvoering   van de Vlaamse beleidsprioriteiten Sport voor Allen. Het BLOSO onderzoekt   daarbij of de gemeente, respectievelijk de provincie, inhoudelijk en financieel   voldoende invulling geeft aan de Vlaamse beleidsprioriteiten Sport voor Allen,   rekening houdend met de voorwaarden, vermeld in het decreet van 6 juli 2012 en   dit besluit.<BR></P>  <P>Het BLOSO brengt bij de minister advies uit over de subsidieaanvraag en de   lokale invulling van de Vlaamse beleidsprioriteiten Sport voor Allen en over de   hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag.<BR></P>  <P>Na de kennisname van dat advies aanvaardt de minister al dan niet de   subsidieaanvraag.<BR></P>  <P>Ter uitvoering van artikel 8 van het decreet van 15 juli 2011 deelt het BLOSO   uiterlijk op 30 april van het eerste jaar van de lokale beleidscyclus de   beslissing van de minister mee aan de gemeente, respectievelijk de provincie, om   de subsidieaanvraag al dan niet te aanvaarden, en de hoogte van het principieel   toe te kennen jaarlijkse subsidiebedrag.<BR></P>
+<p>Sport Vlaanderen onderzoekt de subsidieaanvraag en de lokale invulling van de Vlaamse beleidsprioriteiten Sport voor Allen die de gemeenten en de provincies ingediend hebben met toepassing van artikel 7 van het decreet van 15 juli 2011 om tijdens de lokale beleidscyclus gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen. Sport Vlaanderen onderzoekt daarbij of de gemeente, respectievelijk de provincie, inhoudelijk en financieel voldoende invulling geeft aan de Vlaamse beleidsprioriteiten Sport voor Allen, rekening houdend met de voorwaarden, vermeld in het decreet van 6 juli 2012 en dit besluit.</p>
+
+<p>Sport Vlaanderen brengt bij de minister advies uit over de subsidieaanvraag en de lokale invulling van de Vlaamse beleidsprioriteiten Sport voor Allen en over de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag.</p>
+
+<p>Na de kennisname van dat advies aanvaardt de minister al dan niet de subsidieaanvraag.</p>
+
+<p>Ter uitvoering van artikel 8 van het decreet van 15 juli 2011 deelt Sport Vlaanderen uiterlijk op 30 april van het eerste jaar van de lokale beleidscyclus de beslissing van de minister mee aan de gemeente, respectievelijk de provincie, om de subsidieaanvraag al dan niet te aanvaarden, en de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag.</p>
 
 ### ART. 12.
 
-Als de minister de subsidieaanvraag heeft aanvaard en als voldaan wordt   aan alle subsidievoorwaarden, vermeld in het decreet van 6 juli 2012 en dit   besluit, keert het BLOSO, met toepassing van artikel 9 van het decreet van 15   juli 2011, het voor een bepaald jaar toegekende subsidiebedrag voor de   uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen in twee gelijke   delen uit aan de gemeente, respectievelijk de provincie, uiterlijk op 30 juni en   30 november van elk jaar.<BR>
+Als de minister de subsidieaanvraag heeft aanvaard en als voldaan wordt aan alle subsidievoorwaarden, vermeld in het decreet van 6 juli 2012 en dit besluit, keert Sport Vlaanderen, met toepassing van artikel 9 van het decreet van 15 juli 2011, het voor een bepaald jaar toegekende subsidiebedrag voor de uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen in twee gelijke delen uit aan de gemeente, respectievelijk de provincie, uiterlijk op 30 juni en 30 november van elk jaar.
 
 ### ART. 13.
 
-<P>§ 1. Het BLOSO onderzoekt de rapportering die de gemeenten en provincies   ingediend hebben met toepassing van artikel 10 van het decreet van 15 juli 2011,   en gaat na of de gemeente, respectievelijk de provincie, inhoudelijk en   financieel voldoende invulling heeft gegeven aan de Vlaamse beleidsprioriteiten   Sport voor Allen, rekening houdend met de voorwaarden vermeld in het decreet van   6 juli 2012 en dit besluit. Het BLOSO brengt bij de minister advies uit over de   rapportering.<BR></P>  <P>Na de kennisname van dat advies aanvaardt de minister al dan niet de   rapportering. Het BLOSO deelt de beslissing van de minister mee aan de gemeente,   respectievelijk de provincie.<BR></P>  <P>§ 2. Als de rapportering door de minister niet wordt aanvaard, maakt de   minister, met toepassing van artikel 11 van het decreet van 15 juli 2011,   uiterlijk drie maanden na de ontvangst van de rapportering per aangetekende   brief bezwaar bij de gemeente, respectievelijk de provincie.<BR></P>  <P>Binnen twee maanden na de ontvangst van het bezwaar bezorgt de gemeente,   respectievelijk de provincie aan het BLOSO een aangepaste rapportering of een   motiverende nota waarom bepaalde engagementen niet zijn nagekomen. Het BLOSO   onderzoekt de aangepaste rapportering of motiverende nota en brengt advies uit   aan de minister over de aanvaarding ervan en over de uitkering van verdere   toegezegde subsidies of de terugvordering van reeds toegekende   subsidies.<BR></P>  <P>Na de kennisname van dat advies beslist de minister over de aangepaste   rapportering of motiverende nota en over de uitkering van verdere toegezegde   subsidies in eerste instantie en over de terugvordering van reeds toegekende   subsidies in tweede instantie.<BR></P>  <P>Het BLOSO deelt de beslissing van de minister mee aan de gemeente,   respectievelijk de provincie binnen twee maanden na de indiening van de   aangepaste rapportering of motiverende nota.<BR></P>
+<p>§ 1. Sport Vlaanderen onderzoekt de rapportering die de gemeenten en provincies ingediend hebben met toepassing van artikel 10 van het decreet van 15 juli 2011, en gaat na of de gemeente, respectievelijk de provincie, inhoudelijk en financieel voldoende invulling heeft gegeven aan de Vlaamse beleidsprioriteiten Sport voor Allen, rekening houdend met de voorwaarden vermeld in het decreet van 6 juli 2012 en dit besluit. Sport Vlaanderen brengt bij de minister advies uit over de rapportering.</p>
+
+<p>Na de kennisname van dat advies aanvaardt de minister al dan niet de rapportering. Sport Vlaanderen deelt de beslissing van de minister mee aan de gemeente, respectievelijk de provincie.</p>
+
+<p>§ 2. Als de rapportering door de minister niet wordt aanvaard, maakt de minister, met toepassing van artikel 11 van het decreet van 15 juli 2011, uiterlijk drie maanden na de ontvangst van de rapportering per aangetekende brief bezwaar bij de gemeente, respectievelijk de provincie.</p>
+
+<p>Binnen twee maanden na de ontvangst van het bezwaar bezorgt de gemeente, respectievelijk de provincie aan Sport Vlaanderen een aangepaste rapportering of een motiverende nota waarom bepaalde engagementen niet zijn nagekomen. Sport Vlaanderen onderzoekt de aangepaste rapportering of motiverende nota en brengt advies uit aan de minister over de aanvaarding ervan en over de uitkering van verdere toegezegde subsidies of de terugvordering van reeds toegekende subsidies.</p>
+
+<p>Na de kennisname van dat advies beslist de minister over de aangepaste rapportering of motiverende nota en over de uitkering van verdere toegezegde subsidies in eerste instantie en over de terugvordering van reeds toegekende subsidies in tweede instantie.</p>
+
+<p>Sport Vlaanderen deelt de beslissing van de minister mee aan de gemeente, respectievelijk de provincie binnen twee maanden na de indiening van de aangepaste rapportering of motiverende nota.</p>
 
 ### ART. 14.
 
-Het BLOSO kan een controle ter plaatse uitoefenen in het kader van de   plannings- en rapporteringsdocumenten of op de aanwending van de subsidies in   het kader van de Vlaamse beleidsprioriteiten Sport voor Allen.<BR>
+Sport Vlaanderen kan een controle ter plaatse uitoefenen in het kader van de plannings- en rapporteringsdocumenten of op de aanwending van de subsidies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen.
 
 ## HOOFDSTUK 5 Subsidiëringsprocedure voor de VGC
+
+### ART. 15.
+
+<p>Uiterlijk op 15 januari van het eerste jaar van de VGC-beleidscyclus dient de VGC haar subsidieaanvraag in bij Sport Vlaanderen om tijdens de VGC-beleidscyclus gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen.</p>
+
+<p>De subsidieaanvraag bestaat uit :<br>
+1° een sportbeleidsplan : het meerjarenbeleidsdocument met betrekking tot het sportbeleid dat goedgekeurd is door de Nederlandse taalgroep van het Brussels Hoofdstedelijk Parlement en dat tot stand komt, uitgevoerd en geëvalueerd wordt op basis van een interactieve bestuursstijl. Het sportbeleidsplan bevat minstens de volgende elementen in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen :<br>
+a) een beschrijving van de huidige structuren van de VGC met betrekking tot sport en een inventarisatie van de externe sportactoren die een rol spelen bij het sportbeleid van de VGC;<br>
+b) de doelstellingen, met per doelstelling de vermelding van het beoogde resultaat en de indicatoren;<br>
+c) de aanpak om de doelstellingen te realiseren, met per doelstelling de vermelding van de maatregelen, de timing en de financiële prognose;<br>
+2° de subsidiereglementen ter uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen;<br>
+3° het erkenningbesluit van de sportraad van de VGC;<br>
+4° het advies van de sportraad van de VGC over het sportbeleidsplan en de subsidiereglementen.</p>
+
+### ART. 16.
+
+<p>Sport Vlaanderen onderzoekt de subsidieaanvraag en de lokale invulling van de Vlaamse beleidsprioriteiten Sport voor Allen om tijdens de VGC-beleidscyclus gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteiten Sport voor Allen. Sport Vlaanderen onderzoekt daarbij of de VGC inhoudelijk en financieel voldoende invulling geeft aan de Vlaamse beleidsprioriteiten Sport voor Allen, rekening houdend met de voorwaarden, vermeld in het decreet van 6 juli 2012 en dit besluit.</p>
+
+<p>Sport Vlaanderen brengt bij de minister advies uit over de subsidieaanvraag en de lokale invulling van de Vlaamse beleidsprioriteiten Sport voor Allen en over de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag voor de volledige vijf jaar van de VGC-beleidscyclus.</p>
+
+<p>Na de kennisname van dat advies aanvaardt de minister al dan niet de subsidieaanvraag.</p>
+
+<p>Sport Vlaanderen deelt uiterlijk op 30 april van het eerste jaar van de VGC-beleidscyclus de beslissing van de minister mee aan de VGC om de subsidieaanvraag al dan niet te aanvaarden, en de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag voor de volledige vijf jaar van de VGC-beleidscyclus.</p>
+
+### ART. 17.
+
+Als de minister de subsidieaanvraag heeft aanvaard en als voldaan wordt aan alle subsidievoorwaarden, vermeld in het decreet van 6 juli 2012 en dit besluit, keert Sport Vlaanderen het voor een bepaald jaar toegekende subsidiebedrag in twee gelijke delen uit aan de VGC, uiterlijk op 30 juni en 30 november van elk jaar.
+
+### ART. 18.
+
+<p>Uiterlijk op 31 juli van elk jaar rapporteert de VGC via een jaarlijks verslag over de effectieve invulling van de Vlaamse beleidsprioriteiten Sport voor Allen in het voorafgaande jaar. Het jaarlijkse verslag wordt, na advies van de sportraad, goedgekeurd door het College van de VGC. Sport Vlaanderen stelt de formulieren voor het jaarlijkse verslag ter beschikking.</p>
+
+<p>Het jaarlijkse verslag bestaat uit :<br>
+1° de informatiefiche over de dienst die verantwoordelijk is voor sport;<br>
+2° in voorkomend geval, de gewijzigde onderdelen van het sportbeleidsplan en de gewijzigde subsidiereglementen;<br>
+3° een inhoudelijk overzicht van de realisatie van de maatregelen en de timing ervan, opgenomen in het sportbeleidsplan per Vlaamse beleidsprioriteit Sport voor Allen;<br>
+4° de financiële middelen die besteed zijn per Vlaamse beleidsprioriteit Sport voor Allen;<br>
+5° de goedgekeurde rekening en een bijbehorende financiële nota op basis waarvan de uitgaven, vermeld in punt 4°, gestaafd worden.</p>
+
+### ART. 19.
+
+<p>§ 1. Sport Vlaanderen onderzoekt het jaarlijkse verslag en gaat na of de VGC inhoudelijk en financieel voldoende invulling heeft gegeven aan de Vlaamse beleidsprioriteiten Sport voor Allen, rekening houdend met de voorwaarden, vermeld in het decreet van 6 juli 2012 en dit besluit. Sport Vlaanderen brengt bij de minister advies uit over het jaarlijkse verslag.</p>
+
+<p>Na de kennisname van dat advies aanvaardt de minister al dan niet het jaarlijkse verslag. Sport Vlaanderen deelt de beslissing van de minister mee aan de VGC.</p>
+
+<p>§ 2. Als het jaarlijkse verslag door de minister niet wordt aanvaard, maakt de minister uiterlijk drie maanden na de ontvangst van het jaarlijkse verslag per aangetekende brief bezwaar bij de VGC.</p>
+
+<p>Binnen twee maanden na de ontvangst van het bezwaar bezorgt de VGC aan Sport Vlaanderen een aangepast jaarlijks verslag of een motiverende nota waarom bepaalde engagementen niet zijn nagekomen. Sport Vlaanderen onderzoekt het aangepaste jaarlijkse verslag of de motiverende nota en brengt advies uit aan de minister over de aanvaarding ervan en over de uitkering van verdere toegezegde subsidies of de terugvordering van reeds toegekende subsidies.</p>
+
+<p>Na de kennisname van dat advies beslist de minister over het aangepaste jaarlijkse verslag of de motiverende nota en over de uitkering van verdere toegezegde subsidies in eerste instantie, of de terugvordering van reeds toegekende subsidies in tweede instantie.</p>
+
+<p>Sport Vlaanderen deelt de beslissing van de minister mee aan de VGC binnen twee maanden na de indiening van het aangepaste jaarlijkse verslag of de motiverende nota.</p>
+
+### ART. 20.
+
+&nbsp;Sport Vlaanderen kan een controle uitoefenen in het kader van de plannings- en rapporteringsdocumenten of op de aanwending van de subsidies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen.
 
 ## HOOFDSTUK 6 Erkenning en subsidiëring van een organisatie voor de begeleiding van de besturen [... (geschr. BVR 20 december 2013, art. 23, I: 1 januari 2014)]
 
@@ -76,11 +169,40 @@ Het BLOSO kan een controle ter plaatse uitoefenen in het kader van de   planning
 
 ### ART. 21.
 
-<P>De aanvraag tot erkenning als organisatie voor de begeleiding van de   besturen, vermeld in artikel 22 van het decreet van 6 juli 2012,&nbsp;moet   ingediend worden bij het BLOSO uiterlijk op 1 september voorafgaand aan het jaar   van de lokale beleidscyclus. De aanvraag wordt ingediend met het formulier dat   BLOSO ter beschikking stelt.<BR></P>  <P>Het BLOSO brengt voor 15 september voorafgaand aan het jaar van de lokale   beleidscyclus per aangetekende brief de organisatie op de hoogte als haar   erkenningsaanvraag onontvankelijk is. De reden van de onontvankelijkheid wordt   vermeld in de brief. Een aanvraag is onontvankelijk als ze niet tijdig is   ingediend of als blijkt dat de organisatie niet kan voldoen aan de   erkenningsvoorwaarden. <BR></P>  <P>Het BLOSO onderzoekt de aanvraag tot erkenning en brengt voor 1 oktober   voorafgaand aan het jaar van de lokale beleidscyclus bij de minister advies uit   over de erkenning.</P>  <P><BR>Voor 1 november voorafgaand aan het jaar van de lokale beleidscyclus   deelt de minister per aangetekende brief aan de organisatie zijn beslissing mee   om ze te erkennen of zijn voornemen om ze niet te erkennen voor de volgende   beleidscyclus.<BR></P>  <P>De organisatie die het bericht krijgt van het voornemen van de minister om   haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd   bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht   aangetekend verstuurd moet worden naar het BLOSO. Als de organisatie daarom   verzoekt, kan ze gehoord worden.<BR></P>  <P>Het BLOSO stelt binnen dertig dagen na de ontvangst van het bezwaarschrift   een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de   ontvangst van dat advies om de organisatie al dan niet te erkennen.   <BR></P>
+<p>De aanvraag tot erkenning als organisatie voor de begeleiding van de besturen, vermeld in artikel 22 van het decreet van 6 juli 2012,&nbsp;moet ingediend worden bij&nbsp;Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het jaar van de lokale beleidscyclus. De aanvraag wordt ingediend met het formulier dat Sport Vlaanderen ter beschikking stelt.</p>
+
+<p>Sport Vlaanderen brengt voor 15 september voorafgaand aan het jaar van de lokale beleidscyclus per aangetekende brief de organisatie op de hoogte als haar erkenningsaanvraag onontvankelijk is. De reden van de onontvankelijkheid wordt vermeld in de brief. Een aanvraag is onontvankelijk als ze niet tijdig is ingediend of als blijkt dat de organisatie niet kan voldoen aan de erkenningsvoorwaarden.</p>
+
+<p>Sport Vlaanderen onderzoekt de aanvraag tot erkenning en brengt voor 1 oktober voorafgaand aan het jaar van de lokale beleidscyclus bij de minister advies uit over de erkenning.</p>
+
+<p><br>
+Voor 1 november voorafgaand aan het jaar van de lokale beleidscyclus deelt de minister per aangetekende brief aan de organisatie zijn beslissing mee om ze te erkennen of zijn voornemen om ze niet te erkennen voor de volgende beleidscyclus.</p>
+
+<p>De organisatie die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen. Als de organisatie daarom verzoekt, kan ze gehoord worden.</p>
+
+<p>Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te erkennen.</p>
 
 ### ART. 22.
 
-<P>§ 1. Als het BLOSO vaststelt dat de organisatie niet meer voldoet aan een of   meer erkenningsvoorwaarden, brengt het BLOSO de organisatie op de hoogte van de   vastgestelde overtredingen.<BR></P>  <P>§ 2. De organisatie krijgt de mogelijkheid om haar standpunt over die   overtredingen schriftelijk mee te delen. Daarna stelt het BLOSO een gemotiveerd   advies op over de mogelijke sancties.<BR></P>  <P>§ 3. De minister beslist, na de kennisname van het advies, vermeld in   paragraaf 2, en, in voorkomend geval, van het meegedeelde standpunt van de   organisatie, om ofwel de erkenning te schorsen en de organisatie een termijn toe   te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de   erkenning in te trekken. De minister houdt daarbij rekening met de aard van de   vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing   wordt aan de organisatie meegedeeld per aangetekende brief.<BR></P>  <P>§ 4. De erkenning van de organisatie wordt geschorst vanaf de datum waarop de   brief met de beslissing tot schorsing naar haar is verstuurd. In de brief wordt   ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet   regulariseren.<BR></P>  <P>Als het BLOSO vaststelt dat de organisatie, na afloop van de in de brief   gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de   minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.   <BR></P>  <P>De beslissing tot intrekking van de erkenning heeft uitwerking met   terugwerkende kracht vanaf de datum waarop de erkenning van de organisatie is   geschorst. <BR></P>  <P>Als het BLOSO vaststelt dat de organisatie tijdig de vastgestelde   overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De   organisatie wordt op de hoogte gebracht van de beslissing van de minister over   de datum van de opheffing van de schorsing.<BR></P>  <P>§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning   onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is   van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt   verantwoord. In dergelijk geval wordt de organisatie per aangetekende brief op   de hoogte gebracht van de beslissing van de minister om haar erkenning   onmiddellijk in te trekken.<BR></P>  <P>De organisatie die het bericht krijgt van de beslissing van de minister om   haar erkenning onmiddellijk in te trekken, kan daartegen een gemotiveerd bezwaar   indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend   verstuurd moet worden naar het BLOSO.<BR></P>  <P>Het BLOSO stelt binnen dertig dagen na de ontvangst van het bezwaarschrift   een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de   ontvangst van dat advies om de intrekking van de organisatie al dan niet te   bevestigen. <BR></P>
+<p>§ 1. Als Sport Vlaanderen vaststelt dat de organisatie niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt Sport Vlaanderen de organisatie op de hoogte van de vastgestelde overtredingen.</p>
+
+<p>§ 2. De organisatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.</p>
+
+<p>§ 3. De minister beslist, na de kennisname van het advies, vermeld in paragraaf 2, en, in voorkomend geval, van het meegedeelde standpunt van de organisatie, om ofwel de erkenning te schorsen en de organisatie een termijn toe te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing wordt aan de organisatie meegedeeld per aangetekende brief.</p>
+
+<p>§ 4. De erkenning van de organisatie wordt geschorst vanaf de datum waarop de brief met de beslissing tot schorsing naar haar is verstuurd. In de brief wordt ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet regulariseren.</p>
+
+<p>Als Sport Vlaanderen vaststelt dat de organisatie, na afloop van de in de brief gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.</p>
+
+<p>De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de organisatie is geschorst.</p>
+
+<p>Als Sport Vlaanderen vaststelt dat de organisatie tijdig de vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De organisatie wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.</p>
+
+<p>§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de organisatie per aangetekende brief op de hoogte gebracht van de beslissing van de minister om haar erkenning onmiddellijk in te trekken.</p>
+
+<p>De organisatie die het bericht krijgt van de beslissing van de minister om haar erkenning onmiddellijk in te trekken, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen.</p>
+
+<p>Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de intrekking van de organisatie al dan niet te bevestigen.</p>
 
 ## Afdeling 2 Subsidiëring van een erkende organisatie voor de begeleiding van de besturen [... (opgeh. BVR 20 december 2013, art. 24, I: 1 januari 2014)]
 
@@ -102,15 +224,35 @@ Het jaarlijkse actieplan, vermeld in artikel 24, derde lid, van het   decreet va
 
 ### ART. 26.
 
-<P>De organisatie stuurt uiterlijk op 15 november van het jaar dat voorafgaat   aan de lokale beleidscyclus, het beleidsplan dat de algemene vergadering heeft   goedgekeurd naar het BLOSO.<BR></P>  <P>Voor 15 januari brengt het BLOSO bij de minister advies uit over de   subsidiëring van de organisatie.<BR></P>  <P>Voor 15 februari deelt de minister per aangetekende brief aan de organisatie   zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te   subsidiëren. <BR></P>  <P>De organisatie die het bericht krijgt van het voornemen van de minister om   haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat   binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd   moet worden naar het BLOSO. Als de organisatie daarom verzoekt, kan ze gehoord   worden.<BR></P>  <P>Het BLOSO stelt binnen dertig dagen na de ontvangst van het bezwaarschrift   een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de   ontvangst van dat advies om de organisatie al dan niet te subsidiëren.   <BR></P>
+<p>De organisatie stuurt uiterlijk op 15 november van het jaar dat voorafgaat aan de lokale beleidscyclus, het beleidsplan dat de algemene vergadering heeft goedgekeurd naar Sport Vlaanderen.</p>
+
+<p>Voor 15 januari brengt Sport Vlaanderen bij de minister advies uit over de subsidiëring van de organisatie.</p>
+
+<p>Voor 15 februari deelt de minister per aangetekende brief aan de organisatie zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te subsidiëren.</p>
+
+<p>De organisatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen. Als de organisatie daarom verzoekt, kan ze gehoord worden.</p>
+
+<p>Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de organisatie al dan niet te subsidiëren.</p>
 
 ### ART. 27.
 
-<P>Het beleidsplan, vermeld in artikel 23, wordt telkens vertaald in een   jaarlijks actieplan. Het jaarlijkse actieplan, vermeld in artikel 24, wordt voor   15 november van het voorafgaande jaar aan het BLOSO bezorgd.<BR></P>  <P>BLOSO kan eventueel bijkomende informatie opvragen. Voor 15 januari brengt   BLOSO bij de minister advies uit over het jaarlijkse actieplan. Voor 15 februari   beslist de minister over de goedkeuring van het jaarlijkse actieplan.   <BR></P>
+<p>Het beleidsplan, vermeld in artikel 23, wordt telkens vertaald in een jaarlijks actieplan. Het jaarlijkse actieplan, vermeld in artikel 24, wordt voor 15 november van het voorafgaande jaar aan Sport Vlaanderen bezorgd.</p>
+
+<p>Sport Vlaanderen kan eventueel bijkomende informatie opvragen. Voor 15 januari brengt Sport Vlaanderen bij de minister advies uit over het jaarlijkse actieplan. Voor 15 februari beslist de minister over de goedkeuring van het jaarlijkse actieplan.</p>
 
 ### ART. 28.
 
-<P>§ 1. Het jaarlijkse verslag over de uitvoering van het beleidsplan, vermeld   in artikel 26&nbsp;van het decreet van 6 juli 2012, bestaat uit twee delen :   <BR>1° een werkingsverslag dat een overzicht bevat van de werking en de behaalde   resultaten van de organisatie op basis van de gestelde doelstellingen in het   voorgaande jaar, alsook de evaluatie van het beleidsplan op basis van   effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het   werkingsverslag wordt elke opdracht van de organisatie afzonderlijk behandeld   met verwijzing naar de Vlaamse beleidsprioriteiten Sport voor Allen;<BR>2° een   financieel verslag dat de volgende elementen omvat : <BR>a) de goedgekeurde   jaarrekening;<BR>b) een gedetailleerde afrekeningsstaat van de werkings- en   personeelsuitgaven per opdracht van de organisatie met vermelding van de Vlaamse   beleidsprioriteit Sport voor Allen in het kader waarvan de uitgaven gedaan zijn.   Uit de afrekeningsstaat moet blijken dat is voldaan aan artikel 25, tweede   lid,&nbsp;van het voormelde decreet.<BR><BR>§ 2. Het jaarlijkse verslag moet   door de raad van bestuur van de organisatie worden goedgekeurd.<BR></P>  <P>Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar na het jaar   waarop het verslag betrekking heeft, aan het BLOSO worden bezorgd. <BR></P>  <P>Voor 1 juni van het jaar dat volgt op het jaar waarop het verslag betrekking   heeft, brengt BLOSO bij de minister advies uit over het jaarlijkse   verslag.<BR></P>
+<p>§ 1. Het jaarlijkse verslag over de uitvoering van het beleidsplan, vermeld in artikel 26&nbsp;van het decreet van 6 juli 2012, bestaat uit twee delen :<br>
+1° een werkingsverslag dat een overzicht bevat van de werking en de behaalde resultaten van de organisatie op basis van de gestelde doelstellingen in het voorgaande jaar, alsook de evaluatie van het beleidsplan op basis van effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het werkingsverslag wordt elke opdracht van de organisatie afzonderlijk behandeld met verwijzing naar de Vlaamse beleidsprioriteiten Sport voor Allen;<br>
+2° een financieel verslag dat de volgende elementen omvat :<br>
+a) de goedgekeurde jaarrekening;<br>
+b) een gedetailleerde afrekeningsstaat van de werkings- en personeelsuitgaven per opdracht van de organisatie met vermelding van de Vlaamse beleidsprioriteit Sport voor Allen in het kader waarvan de uitgaven gedaan zijn. Uit de afrekeningsstaat moet blijken dat is voldaan aan artikel 25, tweede lid,&nbsp;van het voormelde decreet.<br>
+<br>
+§ 2. Het jaarlijkse verslag moet door de raad van bestuur van de organisatie worden goedgekeurd.</p>
+
+<p>Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar na het jaar waarop het verslag betrekking heeft, aan Sport Vlaanderen worden bezorgd.</p>
+
+<p>Voor 1 juni van het jaar dat volgt op het jaar waarop het verslag betrekking heeft, brengt BLOSO bij de minister advies uit over het jaarlijkse verslag.</p>
 
 ### ART. 29.
 
@@ -118,11 +260,15 @@ Het jaarlijkse actieplan, vermeld in artikel 24, derde lid, van het   decreet va
 
 ### ART. 30.
 
-Het BLOSO kan op elk moment controle uitoefenen op de uitvoering van de   opdrachten van de organisatie en op de aanwending van de   subsidies.<BR>
+Sport Vlaanderen kan op elk moment controle uitoefenen op de uitvoering van de opdrachten van de organisatie en op de aanwending van de subsidies.
 
 ### ART. 31.
 
-<P>Als het BLOSO vaststelt dat de organisatie niet meer voldoet aan de   subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de   subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het   BLOSO de organisatie op de hoogte van de vastgestelde overtredingen.<BR></P>  <P>De organisatie krijgt de mogelijkheid om haar standpunt over die   overtredingen schriftelijk mee te delen. Daarna stelt het BLOSO een gemotiveerd   advies op over de mogelijke sancties.<BR></P>  <P>De minister beslist, na de kennisname van dat advies en, in voorkomend geval,   van het meegedeelde standpunt van de organisatie, om de subsidiëring geheel of   gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te   vorderen. De beslissing wordt aan de organisatie meegedeeld per aangetekende   brief.<BR></P>
+<p>Als Sport Vlaanderen vaststelt dat de organisatie niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt Sport Vlaanderen de organisatie op de hoogte van de vastgestelde overtredingen.</p>
+
+<p>De organisatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.</p>
+
+<p>De minister beslist, na de kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de organisatie, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen. De beslissing wordt aan de organisatie meegedeeld per aangetekende brief.</p>
 
 ## HOOFDSTUK 7 Slotbepalingen
 
