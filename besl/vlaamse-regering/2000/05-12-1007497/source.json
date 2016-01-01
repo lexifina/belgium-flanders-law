@@ -2,16 +2,16 @@
   "codex_id": 1007497,
   "title": "Besluit van de Vlaamse Regering van 2000-05-12 houdende de subsidiëring van de verwerving, de inrichting, de renovatie en de uitbreiding van woonwagenterreinen voor woonwagenbewoners",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007497/VolledigDocument?datum=2006-07-01",
-  "source_sha256": "f3709c6d7dadc873c1aee7bafbe18faf2a930c3d9ddbc4e3056e9155f89f5df9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007497/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "cdc28b8ccf5b979bf5d8acd61e18a4e2412306231848026a4783802ec9c93a23",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007497&param=informatie",
-  "as_of": "2006-07-01",
+  "as_of": "2016-01-01",
   "made": "2000-05-12",
   "gazette": "2000-08-10",
   "numac": 2000035752,
   "document_start": null,
   "document_end": "2015-12-31",
-  "in_force": "2006-07-01",
+  "in_force": "2016-01-01",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2006-07-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
