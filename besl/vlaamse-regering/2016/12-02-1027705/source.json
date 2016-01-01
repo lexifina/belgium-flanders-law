@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027705,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-02 tot vaststelling van het totale aantal subsidiabele uren logistieke hulp voor de diensten voor logistieke hulp voor het jaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027705/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "2d34d3ccef5bf932b9227363d4d2c6a6f0c455f0f1ef776a1399a0802971b946",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027705&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-12-02",
+  "gazette": "2017-01-03",
+  "numac": 2016036681,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
