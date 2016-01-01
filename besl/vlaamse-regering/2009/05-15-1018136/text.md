@@ -8,7 +8,39 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 21 maart 2003 betreffen
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° het decreet van 21 maart 2003   : het decreet van 21 maart 2003 betreffende de armoedebestrijding; <BR>2° de   coördinerende minister : de Vlaamse minister, bevoegd voor de coördinatie van   het armoedebeleid;<BR>2°/1 de Minister : de Vlaamse minister, bevoegd voor de   bijstand aan personen; <BR>3° administratie: de functioneel bevoegde afdeling   van het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie   van Welzijn, Volksgezondheid en Gezin of Zorginspectie van het voormelde   departement;<BR>4° actieplan : het Vlaams Actieplan Armoedebestrijding, vermeld   in artikel 5 van het decreet van 21 maart 2003; <BR>5° permanent armoedeoverleg   : het instrument om in alle beleidsdomeinen het armoedebestrijdingsbeleid op   elkaar af te stemmen, te bewaken en te evalueren; <BR>6° Vlaams Netwerk : het   Vlaams Netwerk van verenigingen waar armen het woord nemen;<BR>7° vereniging :   een vereniging waar armen het woord nemen; <BR>8° meerjarenplan : het document   waarin het Vlaams Netwerk beschrijft hoe het zijn opdrachten zal uitvoeren;   <BR>9° ervaringsdeskundige : een opgeleide ervaringsdeskundige in de armoede en   de sociale uitsluiting; <BR>10° project : een planmatig opgezet en samenhangend   geheel van activiteiten, gericht op het realiseren van nieuwe benaderingen en   oplossingen in de bestrijding van armoede en bestaansonzekerheid, en in de   bevordering van sociale inclusie. Een project heeft concrete doelstellingen, is   afgebakend in de tijd en wordt uitgevoerd met betrokkenheid van de armen;   <BR>11° Algemeen Verslag over de Armoede : het verslag, opgesteld in 1994 in   opdracht van de minister van Sociale Integratie en in samenwerking met de   doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en   voorstellen inzake armoedebestrijding formuleert; <BR>12° opleidingsorganisatie   : een organisatie voor de coördinatie van of de toeleiding tot de opleiding en   tewerkstelling van ervaringsdeskundigen in de armoede en sociale   uitsluiting;<BR>13° beleidsdomein : een homogeen beleidsdomein als vermeld in   artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<BR>14°   secretaris-generaal : het personeelslid dat belast is met de leiding van het   Departement Welzijn, Volksgezondheid en Gezin;<BR>15° besluit van 13 januari   2006 : het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de   boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren   van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<BR>16° zorgregio : een   geografisch omschreven gebied, op het niveau van de regionale stad, als bepaald   in de bijlage bij het decreet van 28 november 2008 tot wijziging van het decreet   van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de   samenwerking en programmatie van gezondheidsvoorzieningen en   welzijnsvoorzieningen;<BR>17° werkingsgebied : een zorgregio op   regionaalstedelijk niveau of het tweetalige gebied Brussel-Hoofdstad.<BR>18°   programmatieregio : een samenvoeging van werkingsgebieden die als basis dient   voor de programmatie van het aantal te erkennen verenigingen. Er worden zes   programmatieregio's afgebakend :<BR>a) programmatieregio West-Vlaanderen omvat   de zorgregio's op regionaalstedelijk niveau Oostende, Brugge, Roeselare en   Kortrijk;<BR>b) programmatieregio Vlaams-Brabant omvat de zorgregio's op   regionaalstedelijk niveau Brussel en Leuven;<BR>c) programmatieregio Limburg   omvat de zorgregio's op regionaalstedelijk niveau Hasselt en Genk;<BR>d)   programmatieregio Oost-Vlaanderen omvat de zorgregio's op regionaalstedelijk   niveau Gent, Aalst en Sint-Niklaas;<BR>e) programmatieregio Antwerpen omvat de   zorgregio's op regionaalstedelijk niveau Antwerpen, Mechelen en Turnhout;<BR>f)   programmatieregio Brussel omvat het tweetalige gebied Brussel-Hoofdstad;<BR>19°   actoren : alle bij de armoedebestrijding betrokken overheden, particuliere   organisaties en armenverenigingen;<BR>20° lokale besturen: de gemeenten en   OCMW's uit het Nederlandse taalgebied en de Vlaamse   Gemeenschapscommissie;<BR>21° decreet van 15 juli 2011: het decreet van 15 juli   2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse   Gemeenschap en het Vlaamse Gewest periodieke plan- en   rapporteringsverplichtingen aan lokale besturen worden opgelegd;<BR>22° Vlaamse   beleidsprioriteit: een Vlaamse beleidsprioriteit als vermeld in artikel 2, 1°   van het decreet van 15 juli 2011;<BR>23° VGC: de Vlaamse   Gemeenschapscommissie;<BR>24° VGC-beleidscyclus: een beleidscyclus van vijf jaar   die gekoppeld is aan de VGC-bestuursperiode en die begint het tweede jaar na de   verkiezingen van het Brussels Hoofdstedelijk Parlement en eindigt op het einde   van het jaar na de daaropvolgende verkiezingen;<BR>25° gezin: de primaire   leefvormen of samenlevingsvormen, waarin verschillende personen min of meer   duurzame relaties onderhouden.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° het decreet van 21 maart 2003 : het decreet van 21 maart 2003 betreffende de armoedebestrijding;<br>
+2° de coördinerende minister : de Vlaamse minister, bevoegd voor de coördinatie van het armoedebeleid;<br>
+2°/1 de Minister : de Vlaamse minister, bevoegd voor de bijstand aan personen;<br>
+3° administratie: de functioneel bevoegde afdeling van het Departement Welzijn, Volksgezondheid en Gezin van het Vlaams Ministerie van Welzijn, Volksgezondheid en Gezin of Zorginspectie van het voormelde departement;<br>
+4° actieplan : het Vlaams Actieplan Armoedebestrijding, vermeld in artikel 5 van het decreet van 21 maart 2003;<br>
+5° permanent armoedeoverleg : het instrument om in alle beleidsdomeinen het armoedebestrijdingsbeleid op elkaar af te stemmen, te bewaken en te evalueren;<br>
+6° Vlaams Netwerk : het Vlaams Netwerk van verenigingen waar armen het woord nemen;<br>
+7° vereniging : een vereniging waar armen het woord nemen;<br>
+8° meerjarenplan : het document waarin het Vlaams Netwerk beschrijft hoe het zijn opdrachten zal uitvoeren;<br>
+9° ervaringsdeskundige : een opgeleide ervaringsdeskundige in de armoede en de sociale uitsluiting;<br>
+10° project : een planmatig opgezet en samenhangend geheel van activiteiten, gericht op het realiseren van nieuwe benaderingen en oplossingen in de bestrijding van armoede en bestaansonzekerheid, en in de bevordering van sociale inclusie. Een project heeft concrete doelstellingen, is afgebakend in de tijd en wordt uitgevoerd met betrokkenheid van de armen;<br>
+11° Algemeen Verslag over de Armoede : het verslag, opgesteld in 1994 in opdracht van de minister van Sociale Integratie en in samenwerking met de doelgroepen, dat de armoede in België beschrijft en dat aanbevelingen en voorstellen inzake armoedebestrijding formuleert;<br>
+12° opleidingsorganisatie : een organisatie voor de coördinatie van of de toeleiding tot de opleiding en tewerkstelling van ervaringsdeskundigen in de armoede en sociale uitsluiting;<br>
+13° beleidsdomein : een homogeen beleidsdomein als vermeld in artikel 2 van het kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+14° secretaris-generaal : het personeelslid dat belast is met de leiding van het Departement Welzijn, Volksgezondheid en Gezin;<br>
+15° besluit van 13 januari 2006 : het besluit van de Vlaamse Regering van 13 januari 2006 betreffende de boekhouding en het financieel verslag voor de voorzieningen in bepaalde sectoren van het beleidsdomein Welzijn, Volksgezondheid en Gezin;<br>
+16° zorgregio : een geografisch omschreven gebied, op het niveau van de regionale stad, als bepaald in de bijlage bij het decreet van 28 november 2008 tot wijziging van het decreet van 23 mei 2003 betreffende de indeling in zorgregio's en betreffende de samenwerking en programmatie van gezondheidsvoorzieningen en welzijnsvoorzieningen;<br>
+17° werkingsgebied : een zorgregio op regionaalstedelijk niveau of het tweetalige gebied Brussel-Hoofdstad.<br>
+18° programmatieregio : een samenvoeging van werkingsgebieden die als basis dient voor de programmatie van het aantal te erkennen verenigingen. Er worden zes programmatieregio's afgebakend :<br>
+a) programmatieregio West-Vlaanderen omvat de zorgregio's op regionaalstedelijk niveau Oostende, Brugge, Roeselare en Kortrijk;<br>
+b) programmatieregio Vlaams-Brabant omvat de zorgregio's op regionaalstedelijk niveau Brussel en Leuven;<br>
+c) programmatieregio Limburg omvat de zorgregio's op regionaalstedelijk niveau Hasselt en Genk;<br>
+d) programmatieregio Oost-Vlaanderen omvat de zorgregio's op regionaalstedelijk niveau Gent, Aalst en Sint-Niklaas;<br>
+e) programmatieregio Antwerpen omvat de zorgregio's op regionaalstedelijk niveau Antwerpen, Mechelen en Turnhout;<br>
+f) programmatieregio Brussel omvat het tweetalige gebied Brussel-Hoofdstad;<br>
+19° actoren : alle bij de armoedebestrijding betrokken overheden, particuliere organisaties en armenverenigingen;<br>
+20° lokale besturen : de lokale besturen, vermeld in artikel 2, 11°, van het decreet van 21 maart 2003;;<br>
+21° decreet van 15 juli 2011: het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen worden opgelegd;<br>
+22° Vlaamse beleidsprioriteit: een Vlaamse beleidsprioriteit als vermeld in artikel 2, 1° van het decreet van 15 juli 2011;<br>
+23° VGC: de Vlaamse Gemeenschapscommissie;<br>
+24° VGC-beleidscyclus: een beleidscyclus van vijf jaar die gekoppeld is aan de VGC-bestuursperiode en die begint het tweede jaar na de verkiezingen van het Brussels Hoofdstedelijk Parlement en eindigt op het einde van het jaar na de daaropvolgende verkiezingen;<br>
+25° gezin: de primaire leefvormen of samenlevingsvormen, waarin verschillende personen min of meer duurzame relaties onderhouden.
 
 ## HOOFDSTUK II Coördinatie en organisatie
 
@@ -24,7 +56,19 @@ Het actieplan komt tot stand met participatie van de doelgroepen, in partnerscha
 
 ### ART. 4.
 
-§ 1. De Vlaamse Regering deelt ieder jaar aan het Vlaams Parlement een rapport mee over de voortgang van de uitvoering van het actieplan. Dat voortgangsrapport bevat : <br />1° per beleidsdomein, de opgave van de voortgang van de beleidsacties; <br />2° het jaarverslag van de werking van het permanente armoedeoverleg.<br /><br />De coördinerende minister legt het voortgangsrapport jaarlijks voor 1 april voor aan de Vlaamse Regering. De Vlaamse Regering bezorgt het voortgangsrapport jaarlijks voor 1 mei aan het Vlaams Parlement.<br /><br />§ 2. Twee jaar na de inwerkingtreding van het actieplan wordt het actieplan geëvalueerd en zo nodig bijgestuurd. Die bijsturing omvat : <br />1° het voortgangsrapport, vermeld in paragraaf 1;<br />2° een analyse van gewijzigde maatschappelijke ontwikkelingen die relevant zijn voor het armoedebestrijdingsbeleid;<br />3° de nieuwe initiatieven binnen elk beleidsdomein, met opgave van het tijdpad en de indicatoren om de voortgang te meten.<br /><br />De coördinerende minister legt het bijgestuurde actieplan samen met het voortgangsrapport, vermeld in paragraaf 1, voor aan de Vlaamse Regering. De Vlaamse Regering bezorgt het bijgestuurde actieplan samen met het voortgangsrapport aan het Vlaams Parlement.<br /><br />
+§ 1. De Vlaamse Regering deelt tweejaarlijks aan het Vlaams Parlement een rapport mee over de voortgang van de uitvoering van het actieplan. Dat voortgangsrapport bevat :<br>
+1° per beleidsdomein, de opgave van de voortgang van de beleidsacties;<br>
+2° het jaarverslag van de werking van het permanente armoedeoverleg.<br>
+<br>
+De coördinerende minister legt het voortgangsrapport tweejaarlijks voor 1 april voor aan de Vlaamse Regering. De Vlaamse Regering bezorgt het voortgangsrapport tweejaarlijks voor 1 mei aan het Vlaams Parlement.<br>
+<br>
+§ 2. Twee jaar na de inwerkingtreding van het actieplan wordt het actieplan geëvalueerd en zo nodig bijgestuurd. Die bijsturing omvat :<br>
+1° het voortgangsrapport, vermeld in paragraaf 1;<br>
+2° een analyse van gewijzigde maatschappelijke ontwikkelingen die relevant zijn voor het armoedebestrijdingsbeleid;<br>
+3° de nieuwe initiatieven binnen elk beleidsdomein, met opgave van het tijdpad en de indicatoren om de voortgang te meten.<br>
+<br>
+De coördinerende minister legt het bijgestuurde actieplan samen met het voortgangsrapport, vermeld in paragraaf 1, voor aan de Vlaamse Regering. De Vlaamse Regering bezorgt het bijgestuurde actieplan samen met het voortgangsrapport aan het Vlaams Parlement.<br>
+&nbsp;
 
 ### ART. 5.
 
@@ -282,7 +326,7 @@ Om voor subsidiëring in aanmerking te komen, ontwikkelen en implementeren   de 
 
 ### ART. 57/2.
 
-De subsidiebedragen, vermeld in dit hoofdstuk, worden geïndexeerd conform   de wet van 1 maart 1977 houdende inrichting van een stelsel waarbij sommige   uitgaven in de overheidssector aan het indexcijfer van de consumptieprijzen van   het Rijk worden gekoppeld. Die koppeling aan het indexcijfer wordt berekend en   toegepast conform artikel 2 van het koninklijk besluit van 24 december 1993 ter   uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands   concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale   bepalingen.
+...
 
 ### ART. 57/3.
 
@@ -294,7 +338,7 @@ De Vlaamse beleidsprioriteit kinderarmoedebestrijding omvat de   ontwikkeling en
 
 ### ART. 57/5.
 
-Van het beschikbare begrotingskrediet voor lokale kinderarmoedebestrijding   wordt jaarlijks een voorafname gereserveerd van vijf procent als subsidie voor   het kinderarmoedebestrijdingsbeleid van de VGC.<BR>
+Binnen de beschikbare begrotingskredieten wordt jaarlijks een subsidie van 220.500 euro toegekend aan de VGC voor het ontwikkelen en implementeren van een kinderarmoedebestrijdingsbeleid.
 
 ### ART. 57/6
 
@@ -314,7 +358,7 @@ Het subsidiebedrag, vermeld in artikel 57/7, § 1, eerste lid, 1°, kan   worden
 
 ### ART. 57/9.
 
-&nbsp;Deze onderafdeling van toepassing op de lokale besturen, met   uitzondering van de VGC.
+&nbsp;Deze onderafdeling is van toepassing op de lokale besturen, met uitzondering van de VGC.
 
 ### ART. 57/10.
 
@@ -344,7 +388,7 @@ Uiterlijk op 30 april van het tweede jaar van de VGC-beleidscyclus brengt   de c
 
 ### ART. 57/16.
 
-Het subsidiebedrag dat toegekend is voor een bepaald wordt uitgekeerd in   twee gelijke delen, uiterlijk op 30 juni en 30 november van elk   jaar.
+Het subsidiebedrag dat toegekend is voor een bepaald jaar wordt uitgekeerd in twee gelijke delen, uiterlijk op 30 juni en 30 november van elk jaar.
 
 ### ART. 57/17.
 
@@ -384,7 +428,27 @@ Voor de verenigingen die op de datum van de inwerkingtreding van artikel 28/1 al
 
 ### ART. 61/3.
 
-Voor de subsidiëring van de lokale besturen, met uitzondering van de VGC,   voor de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding gelden, voor   de lokale beleidsperiode 2014-2019, de volgende afwijkende bepalingen:<BR>1° in   afwijking van de datum, vermeld in artikel 57/6, § 4, maakt de coördinerende   minister uiterlijk op 14 februari 2014 een lijst bekend met de   kinderarmoedebarometer per gemeente en de gemeenten die in aanmerking komen voor   subsidiëring;<BR>2° in afwijking van de datum, vermeld in artikel 57/7, § 2,   maakt de coördinerende minister uiterlijk op 14 februari 2014 een lijst bekend   met de bedragen van de subsidie voor lokale kinderarmoedebestrijding per   gemeente;<BR>3° in afwijking van artikel 57/10, 57/11, 57/12 en 57/13 verloopt   de subsidiëringsprocedure voor de lokale besturen, met uitzondering van de VGC,   als volgt:<BR>a) de lokale besturen dienen uiterlijk op 31 mei 2014 een   subsidieaanvraag in bij de coördinerende minister. De subsidieaanvraag sluit zo   nauw mogelijk aan bij de structuur van de strategische meerjarenplanning en   bevat de doelstellingen en geplande acties in het kader van een integraal   kinderarmoedebestrijdingsbeleid, met per actie de vermelding van het plan van   aanpak, de timing en, voor de acties waarvoor een subsidie wordt aangevraagd, de   financiële prognose;<BR>b) het lokale bestuur neemt uiterlijk op 31 december   2014 de doelstellingen en acties vermeld in de subsidieaanvraag, vermeld in punt   a), op in een wijziging van de strategische meerjarenplanning die het heeft   ingediend met toepassing van artikel 7 van het decreet van 15 juli 2011;<BR>c)   de coördinerende minister deelt uiterlijk op 31 augustus 2014 de beslissing om   de subsidieaanvraag al dan niet te aanvaarden, mee aan het lokale bestuur;<BR>d)   in 2014 keert de administratie uiterlijk op 30 september 2014 aan het lokale   bestuur het eerste deel uit van het subsidiebedrag dat toegekend is voor de   uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor 2014.   Het tweede deel van het subsidiebedrag dat toegekend is voor 2014, alsook de   toegekende subsidiebedragen vanaf 2015 worden uitgekeerd conform artikel 9 van   het decreet van 15 juli 2011;<BR>e) in 2015 rapporteert het lokale bestuur over   de uitvoering van zijn engagementen op het vlak van kinderarmoedebestrijding in   het jaar 2014 door een verantwoording in te dienen bij de coördinerende   minister. Die sluit zo nauw mogelijk aan bij de structuur van de strategische   meerjarenplanning en bevat de relevante onderdelen van de door de raad   goedgekeurde jaarrekening van 2014. In zijn rapportering geeft het lokale   bestuur aan welke activiteiten en prestaties zijn verricht of welke effecten   zijn bereikt in het kader van de Vlaamse beleidsprioriteit lokale   kinderarmoedebestrijding.<BR><BR>Vanaf het jaar 2016 rapporteert het lokale   bestuur conform artikel 10 van het decreet van 15 juli 2011.<BR><BR>In het   eerste lid, 3°, wordt verstaan onder strategische meerjarenplanning: de   meerjarenplanning van de gemeenten en openbare centra voor maatschappelijk   welzijn, vermeld in het Gemeentedecreet van 15 juli 2005 en het decreet van 19   december 2008 betreffende de organisatie van de openbare centra voor   maatschappelijk welzijn.<BR><BR>Voor de subsidiëring van de VGC voor de Vlaamse   beleidsprioriteit lokale kinderarmoedebestrijding gelden tijdens de   overgangsjaren 2014 en 2015 de volgende afwijkende bepalingen:<BR>1° in   afwijking van artikel 57/14, eerste lid, dient de VGC, uiterlijk op 31 mei 2014   een subsidieaanvraag in bij de administratie om tijdens 2014 en 2015   gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteit   kinderarmoedebestrijding;<BR>2° in afwijking van artikel 57/14, eerste lid,   omvat deze aanvraag de resterende jaren van de lopende VGC-beleidscyclus;<BR>3°   in afwijking van artikel 57/14, tweede lid, wordt het   kinderarmoedebestrijdingsplan goedgekeurd door het college van de VGC;<BR>4° in   afwijking van artikel 57/15 deelt de administratie uiterlijk op 31 augustus 2014   de beslissing van de minister mee aan de VGC om de subsidieaanvraag al dan niet   te aanvaarden, en de hoogte van het principieel toe te kennen jaarlijkse   subsidiebedrag voor 2014 en 2015;<BR>5° in 2014 keert, in afwijking van de   datum, vermeld in artikel 57/16, de administratie uiterlijk op 30 september 2014   aan de VGC het eerste deel uit van het subsidiebedrag dat toegekend is voor de   uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor   2014.
+Voor de subsidiëring van de lokale besturen, met uitzondering van de VGC, voor de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding gelden, voor de lokale beleidsperiode 2014-2019, de volgende afwijkende bepalingen:<br>
+1° in afwijking van de datum, vermeld in artikel 57/6, § 4, maakt de coördinerende minister uiterlijk op 14 februari 2014 een lijst bekend met de kinderarmoedebarometer per gemeente en de gemeenten die in aanmerking komen voor subsidiëring;<br>
+2° in afwijking van de datum, vermeld in artikel 57/7, § 2, maakt de coördinerende minister uiterlijk op 14 februari 2014 een lijst bekend met de bedragen van de subsidie voor lokale kinderarmoedebestrijding per gemeente;<br>
+3° in afwijking van artikel 57/10, 57/11, 57/12 en 57/13 verloopt de subsidiëringsprocedure voor de lokale besturen, met uitzondering van de VGC, als volgt:<br>
+a) de lokale besturen dienen uiterlijk op 31 mei 2014 een subsidieaanvraag in bij de coördinerende minister. De subsidieaanvraag sluit zo nauw mogelijk aan bij de structuur van de strategische meerjarenplanning en bevat de doelstellingen en geplande acties in het kader van een integraal kinderarmoedebestrijdingsbeleid, met per actie de vermelding van het plan van aanpak, de timing en, voor de acties waarvoor een subsidie wordt aangevraagd, de financiële prognose;<br>
+b) het lokale bestuur neemt uiterlijk op 31 december 2014 de doelstellingen en acties vermeld in de subsidieaanvraag, vermeld in punt a), op in een wijziging van de strategische meerjarenplanning die het heeft ingediend met toepassing van artikel 7 van het decreet van 15 juli 2011;<br>
+c) de coördinerende minister deelt uiterlijk op 31 augustus 2014 de beslissing om de subsidieaanvraag al dan niet te aanvaarden, mee aan het lokale bestuur;<br>
+d) in 2014 keert de administratie uiterlijk op 30 september 2014 aan het lokale bestuur het eerste deel uit van het subsidiebedrag dat toegekend is voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor 2014. Het tweede deel van het subsidiebedrag dat toegekend is voor 2014, alsook de toegekende subsidiebedragen vanaf 2015 worden uitgekeerd conform artikel 9 van het decreet van 15 juli 2011;<br>
+e) in 2015 rapporteert het lokale bestuur over de uitvoering van zijn engagementen op het vlak van kinderarmoedebestrijding in het jaar 2014 door een verantwoording in te dienen bij de coördinerende minister. Die sluit zo nauw mogelijk aan bij de structuur van de strategische meerjarenplanning en bevat de relevante onderdelen van de door de raad goedgekeurde jaarrekening van 2014. In zijn rapportering geeft het lokale bestuur aan welke activiteiten en prestaties zijn verricht of welke effecten zijn bereikt in het kader van de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding;<br>
+4° in afwijking van artikel 57/6 en 57/7, wordt aan een lokaal bestuur voor elk van de jaren 2016 tot en met 2019 eenzelfde subsidiebedrag toegekend als voor het jaar 2015.<br>
+<br>
+Vanaf het jaar 2016 rapporteert het lokale bestuur conform artikel 10 van het decreet van 15 juli 2011.<br>
+<br>
+In het eerste lid, 3°, wordt verstaan onder strategische meerjarenplanning: de meerjarenplanning van de gemeenten en openbare centra voor maatschappelijk welzijn, vermeld in het Gemeentedecreet van 15 juli 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn.<br>
+<br>
+Voor de subsidiëring van de VGC voor de Vlaamse beleidsprioriteit lokale kinderarmoedebestrijding gelden tijdens de overgangsjaren 2014 en 2015 de volgende afwijkende bepalingen:<br>
+1° in afwijking van artikel 57/14, eerste lid, dient de VGC, uiterlijk op 31 mei 2014 een subsidieaanvraag in bij de administratie om tijdens 2014 en 2015 gesubsidieerd te worden voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding;<br>
+2° in afwijking van artikel 57/14, eerste lid, omvat deze aanvraag de resterende jaren van de lopende VGC-beleidscyclus;<br>
+3° in afwijking van artikel 57/14, tweede lid, wordt het kinderarmoedebestrijdingsplan goedgekeurd door het college van de VGC;<br>
+4° in afwijking van artikel 57/15 deelt de administratie uiterlijk op 31 augustus 2014 de beslissing van de minister mee aan de VGC om de subsidieaanvraag al dan niet te aanvaarden, en de hoogte van het principieel toe te kennen jaarlijkse subsidiebedrag voor 2014 en 2015;<br>
+5° in 2014 keert, in afwijking van de datum, vermeld in artikel 57/16, de administratie uiterlijk op 30 september 2014 aan de VGC het eerste deel uit van het subsidiebedrag dat toegekend is voor de uitvoering van de Vlaamse beleidsprioriteit kinderarmoedebestrijding voor 2014.
 
 ### ART. 62.
 
