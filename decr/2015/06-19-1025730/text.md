@@ -336,6 +336,10 @@ In   artikel 161/2, van hetzelfde decreet, ingevoegd bij het decreet van 12 juli
 
 In   artikel I.2, § 5, van de Codex Hoger Onderwijs, gecodificeerd op 11 oktober   2013, worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   de zinsnede "deel 3, titel 1, hoofdstuk 2, afdeling 2, artikel III.45," wordt   vervangen door de zinsnede "artikel III.34 tot en met III.36, artikel III.39 tot   en met III.43,";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   aan het eerste lid, laatste zin, wordt de zinsnede ", artikel III.38, III.44 en   III.45" toegevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. IV.39.
+
+In   artikel II.3 van dezelfde codex wordt punt 4° opgeheven.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. IV.40.
 
 Artikel   II.48 van dezelfde codex wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   II.48. De hogescholen, bedoeld in artikel II.3, richten onder de benaming   Vlaamse Hogescholenraad, afgekort VLHORA, een stichting van openbaar nut op   waarvan de statuten voldoen aan de voorwaarden bepaald in dit   hoofdstuk.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
@@ -420,6 +424,13 @@ In   artikel II.346 van dezelfde codex wordt het tweede lid geschrapt.<BR   styl
 
 In   artikel II.353 van dezelfde codex, vervangen bij het decreet van 25 april 2014,   worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1 wordt punt 4° vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"4°   het feit of de student behoort tot een of meer ondervertegenwoordigde groepen in   het hoger onderwijs. Hieronder worden onder meer begrepen de beursstudenten   vermeld in artikel I.3, 13°, de studenten met een functiebeperking vermeld in   artikel I.3, 62°, en de werkstudenten vermeld in artikel I.3, 78° ;";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   paragraaf 2 wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 2. Ten minste 25% van de mobiliteitsbeurzen wordt toegekend aan studenten uit   ondervertegenwoordigde groepen, bedoeld in 4° van de vorige   paragraaf.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. IV.61.
+
+&nbsp;In artikel III.46, § 1, tweede lid, van dezelfde codex, worden volgende wijzigingen aangebracht:<br>
+1° bij de UC Leuven wordt het bedrag van "953.896" vervangen door het bedrag "1.483.747";<br>
+2° de volgende rij wordt opgeheven:<br>
+"UC Leuven Comenius Lerarenopleidingen: 529.851".
+
 ### ART. IV.62.
 
 In   artikel III.19, § 4, 1°, a), b) en c), en 2°, a), b), c) en d), van dezelfde   codex, wordt de zinsnede "artikel III.13, § 3" vervangen door de zinsnede   "artikel III.13, § 4".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
@@ -431,6 +442,10 @@ In   artikel III.116, eerste lid, 2°, derde alinea, van dezelfde codex, worden 
 ### ART. IV.64.
 
 <P>Artikel   IV.12 van dezelfde codex wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   IV.12. Ieder jaar vóór 1 oktober deelt de Vlaamse Regering aan elke universiteit   mee:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het bedrag van de werkingsuitkering dat de universiteit krachtens deel 3, titel   1, hoofdstuk 1, kan verwachten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het bedrag van de sociale toelage dat de universiteit krachtens deel 3, titel 2,   hoofdstuk 1, kan verwachten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het bedrag van de aanvullende middelen dat de universiteit krachtens deel 3,   titel 1, hoofdstuk 2, mag verwachten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   Vlaamse Regering deelt ook mee op welke wijze de bedragen werden   berekend.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Ieder   jaar vóór 1 juli deelt de Vlaamse Regering aan elke universiteit een raming mee   van de in het eerste lid genoemde bedragen met het oog op het opmaken van de   begroting, bedoeld in artikel IV.13.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. IV.65.
+
+&nbsp;In artikel IV.16 van dezelfde codex   wordt in de eerste zin de zinsnede "met uitzondering van de maand december   waarvoor de betaling gebeurt tegen uiterlijk 10 januari van het volgend jaar"   geschrapt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ### ART. IV.66.
 
@@ -542,7 +557,15 @@ In   artikel 51ter van hetzelfde decreet, ingevoegd bij het decreet van 14 febru
 
 ## Afdeling III Decreet van 9 april 1992 betreffende het onderwijs-III
 
+### ART. V.15.
+
+Aan artikel 29/2 van het decreet van 9 april 1992 betreffende het   onderwijs-III, ingevoegd bij het decreet van 25 april 2014, wordt een vierde lid   toegevoegd, dat luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"In   afwijking van het eerste lid heeft een vaste benoeming voor een personeelslid   van een internaat dat voorziet in verblijf en begeleiding tijdens schoolvrije   dagen, wel uitwerking ten aanzien van de overheid als het gaat om een   personeelslid dat vóór 1 september 2015 werd toegelaten tot de proeftijd in het   ambt van hoofdopvoeder in een opvangcentrum en is opgenomen op de nominatieve   lijst die op 30 april 2015 door de herplaatsingscommissie is vastgelegd. In   afwijking van artikel 48, § 1, van het decreet rechtspositie personeelsleden   gemeenschapsonderwijs moet het betrokken personeelslid tijdens zijn proeftijd   effectief presteren in het ambt van hoofdopvoeder in een opvangcentrum of in een   internaat dat in verblijf en begeleiding tijdens schoolvrije dagen voorziet voor   het volume waarin het werd toegelaten tot de proeftijd.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling IV Regularisatie DAC-werknemers in internaten
+
+### ART. V.16.
+
+Aan   artikel 32 van hoofdstuk VI van de wet van 29 mei 1959 tot wijziging van sommige   bepalingen van de onderwijswetgeving, het laatst gewijzigd bij het decreet van   25 april 2014, wordt een paragraaf 3 toegevoegd, die luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"   § 3. De Vlaamse Regering legt een regeling vast om de bestaande   DAC-arbeidsplaatsen in de gesubsidieerde vrije internaten te   regulariseren.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling V Inwerkingtreding.
 
