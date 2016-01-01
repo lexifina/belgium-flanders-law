@@ -28,7 +28,7 @@ Contractuele schoonmaak- en/of cateringfuncties die in het kader van   kabinetso
 
 <p>§ 3. De barema's verbonden aan de salarisschalen A121P, A122P, A255, B101, B102 en B103 zijn de barema's zoals gedefinieerd in de bijlage 2 bij dit besluit.<br>
 <br>
-§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit besluit verwezen wordt met betrekking tot de betrekkingen van occasionele medewerker met een sporttechnische, -pedagogische of -organisatorische kwalificatie bij het Agentschap voor de Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, is de tabel zoals opgenomen in de bijlage 3 bij dit besluit.<br>
+§ 4. De assimilatietabel waarnaar in de bijlage 1 bij dit besluit verwezen wordt met betrekking tot de betrekkingen van occasionele medewerker met een sporttechnische, -pedagogische of -organisatorische kwalificatie bij het agentschap Sport Vlaanderen, is de tabel zoals opgenomen in de bijlage 3 bij dit besluit.<br>
 <br>
 § 5. Voor een contractueel personeelslid met een bijkomende of specifieke opdracht schoonmaak en/of catering dat op 1 januari 2014 overgeheveld is van de Nationale Plantentuin van België naar de Plantentuin Meise, wordt voor de berekening van het aantal jaren dat nodig is voor de overgang naar de eerstvolgende salarisschaal, voor de periode van tewerkstelling tot en met 31 december 2013, toepassing gemaakt van de berekeningswijze, vermeld in paragraaf 2, tweede lid, 1°. Voor de periode van tewerkstelling vanaf 1 januari 2014 wordt toepassing gemaakt van de berekeningswijze, vermeld in paragraaf 2, tweede lid, 2°.</p>
 
@@ -514,6 +514,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>6) BELEIDSDOMEIN CULTUUR, JEUGD, SPORT EN MEDIA</strong>
+
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
@@ -537,7 +538,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<td style="width: 113px;">D111</td>
 		</tr>
 		<tr>
-			<td style="width: 191px;" rowspan="11" colspan="1">6.2 Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie<br>
+			<td style="width: 191px;" rowspan="11" colspan="1">6.2 Agentschap&nbsp;Sport Vlaanderen<br>
 			&nbsp;<br>
 			&nbsp;<br>
 			&nbsp;<br>
@@ -1046,6 +1047,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 ### BIJLAGE
 
 <strong>12) BELEIDSDOMEIN ECONOMIE, WERK EN INNVOATIE</strong>
+
 <table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
@@ -1054,7 +1056,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 			<td style="width: 141px;"><strong>Verloning</strong></td>
 		</tr>
 		<tr>
-			<td style="width: 193px;" rowspan="3" colspan="1">12.1. Agentschap voor Innovatie door Wetenschap en Technologie</td>
+			<td style="width: 193px;" rowspan="3" colspan="1">12.1. Agentschap Innoveren en Ondernemen</td>
 			<td style="width: 246px;">Wetenschappelijk adviseur (uitdovend)</td>
 			<td style="width: 141px;">A282</td>
 		</tr>
@@ -1073,8 +1075,7 @@ Dit besluit treedt in werking op 1 juni 2008.
 		</tr>
 	</tbody>
 </table>
-&nbsp;&nbsp;<br>
-<br>
+&nbsp;&nbsp;&nbsp;<br>
 &nbsp;
 
 ### BIJLAGE
@@ -1818,6 +1819,8 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 ### BIJLAGE
 
+Assimilatietabel occasionele medewerkers agentschap Sport Vlaanderen met een sporttechnische, -pedagogische of -organisatorische kwalificatie<br>
+&nbsp;
 <p>Assimilatietabel occasionele medewerkers BLOSO met een sporttechnische, -pedagogische of -organisatorische kwalificatie van toepassing gedurende de periode van 1 juni 2008 tot en met 31 december 2008<br>
 <br>
 </p>
@@ -1825,1264 +1828,1264 @@ Dit besluit treedt in werking op 1 juni 2008.
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>categorie (1)<!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"         /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>I</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>II</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>III</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>IV</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VI</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VII</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VIII</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>IX</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>Aantal<br>
 			frequentie<br>
 			bedrag</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>geldelijke<br>
 			anciënniteit</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>14</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>16</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>18</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>20</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>22</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>24</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>26</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>27</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>28</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>29</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12.800</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.050</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.100</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.300</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.350</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.400</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.500</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>36.600</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>40.650</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>48.750</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>60.950</p>
 			</td>
 		</tr>
@@ -3095,1269 +3098,1269 @@ Dit besluit treedt in werking op 1 juni 2008.
 
 <p>2. Assimilatietabel occasionele medewerkers BLOSO met een sporttechnische, -pedagogische of -organisatorische kwalificatie van toepassing vanaf 1 januari 2009<br>
 <br>
-<!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>1</o:Revision><br>  <o:TotalTime>1</o:TotalTime><br>  <o:Created>2009-03-16T09:05:00Z</o:Created><br>  <o:LastSaved>2009-03-16T09:06:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>405</o:Words><br>  <o:Characters>2229</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>18</o:Lines><br>  <o:Paragraphs>5</o:Paragraphs><br>  <o:CharactersWithSpaces>2629</o:CharactersWithSpaces><br>  <o:Version>11.8132</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;2050"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
+</p>
 
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>categorie (2)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>I</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>II</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>III</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>IV</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VI</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VII</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>VIII</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>IX</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>X</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>aantal<br>
 			frequentie<br>
 			bedrag</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
-			<td rowspan="2" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td rowspan="2" style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>-</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>geldelijke<br>
 			anciënniteit</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>0</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>1</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>2</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>3</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>4</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>5</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>6</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>7</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>8</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>9</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>10</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>11</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>12</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>14</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>16</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>18</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>20</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>22</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>24</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>25</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>26</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>27</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>28</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>29</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>30</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>13.060</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>15.360</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>17.450</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>19.690</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>21.780</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>23.830</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>32.930</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>37.030</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>41.080</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>49.180</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0; height:11.35pt; width:2cm">
+			<td style="background-color:transparent; height:11.35pt; width:2cm">
 			<p>61.380</p>
 			</td>
 		</tr>
