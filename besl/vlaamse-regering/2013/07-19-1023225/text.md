@@ -220,7 +220,7 @@ Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op   basis
 
 ### ART. 42.
 
-Met toepassing van artikel 39 van het decreet van 16 maart 2012 worden de   aanvragen tot uitbetaling ingediend binnen zes maanden na het beëindigen van het   totale transformatieproject voor de basissteun of na realisatie van de   vooropgestelde tewerkstellingsvooruitzichten voor de   bonussteun.<BR>
+Met toepassing van artikel 39 van het decreet van 16 maart 2012 worden de aanvragen tot uitbetaling ingediend binnen&nbsp;twaalf maanden na het beëindigen van het totale transformatieproject voor de basissteun of na realisatie van de vooropgestelde tewerkstellingsvooruitzichten voor de bonussteun.
 
 ## HOOFDSTUK 5 Terugvordering
 
