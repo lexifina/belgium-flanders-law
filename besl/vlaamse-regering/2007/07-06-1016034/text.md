@@ -70,13 +70,13 @@ De rentetoelage wordt alleen toegekend voor kredieten die aan al de volgende ext
 
 ### ART. 10.
 
-De rentetoelage wordt door de onderneming, uiterlijk binnen zes maanden na het beëindigen van de openbare werken, aangevraagd via een modelaanvraagformulier dat op de website van het Agentschap Ondernemen staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Ondernemen.<br />
+De rentetoelage wordt door de onderneming, uiterlijk binnen zes maanden na   het beëindigen van de openbare werken, aangevraagd via een   modelaanvraagformulier dat op de website van het Agentschap Innoveren en   Ondernemen staat. Dat formulier wordt elektronisch ingediend bij het Agentschap   Innoveren en Ondernemen.<BR>
 
 ## Afdeling II. Stavingsstukken
 
 ### ART. 11.
 
-De onderneming moet uiterlijk binnen veertien kalenderdagen na de datum van de steunaanvraag de volgende stavingsstukken opsturen naar het Agentschap Ondernemen :<br />1° de ondertekende verklaring op erewoord van het modelaanvraagformulier;<br />2° eventueel een kopie van het financieel plan, opgesteld bij de oprichting van de onderneming, waarbij het balanstotaal en de jaaromzet, en het aantal werkzame personen, vermeld in artikel 3 en 4, worden aangetoond;<br />3° een kopie van de financieringsovereenkomst, vermeld in artikel 9, 5°;<br />4° als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema : een kopie van de aflossingstabel.<br /><br />De start van de openbare werken, de duur van de openbare werken op de datum van de steunaanvraag en de verstoorde bereikbaarheid worden aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Ondernemen.<br /><br />De naleving van de overige voorwaarden van het decreet en dit besluit wordt aangetoond door de gegevens die ter beschikking gesteld worden via een centrale databank en die worden opgevraagd door het Agentschap Ondernemen.
+De onderneming moet uiterlijk binnen veertien kalenderdagen na de datum   van de steunaanvraag de volgende stavingsstukken opsturen naar het Agentschap   Innoveren en Ondernemen:<BR>1° de ondertekende verklaring op erewoord van het   modelaanvraagformulier;<BR>2° eventueel een kopie van het financieel plan,   opgesteld bij de oprichting van de onderneming, waarbij het balanstotaal en de   jaaromzet, en het aantal werkzame personen, vermeld in artikel 3 en 4, worden   aangetoond;<BR>3° een kopie van de financieringsovereenkomst, vermeld in artikel   9, 5°;<BR>4° als het een krediet betreft met een vaste rentevoet, hoogstens   jaarlijks herzienbaar, en met een vast aflossingsschema : een kopie van de   aflossingstabel.<BR><BR>De start van de openbare werken, de duur van de openbare   werken op de datum van de steunaanvraag en de verstoorde bereikbaarheid worden   aangetoond door een verklaring van de gemeente die wordt opgevraagd door het   Agentschap Innoveren en Ondernemen.<BR><BR>De naleving van de overige   voorwaarden van het decreet en dit besluit wordt aangetoond door de gegevens die   ter beschikking gesteld worden via een centrale databank en die worden   opgevraagd door het Agentschap Innoveren en Ondernemen.
 
 ## Afdeling III. Ontvankelijkheid
 
@@ -98,7 +98,7 @@ Als het krediet wordt afgesloten vanaf de start van de openbare werken en als he
 
 ### ART. 15.
 
-De uitbetaling van de rentetoelage wordt aangevraagd via een standaarddocument dat op de website van het Agentschap Ondernemen staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Ondernemen.<br /><br />De rentetoelage wordt alleen uitbetaald aan een onderneming die een aanvraag tot uitbetaling als vermeld in het eerste lid heeft ingediend.
+De uitbetaling van de rentetoelage wordt aangevraagd via een   standaarddocument dat op de website van het Agentschap Innoveren en Ondernemen   staat. Dat formulier wordt elektronisch ingediend bij het Agentschap Innoveren   en Ondernemen.<BR><BR>De rentetoelage wordt alleen uitbetaald aan een   onderneming die een aanvraag tot uitbetaling als vermeld in het eerste lid heeft   ingediend.
 
 ### ART. 16.
 
@@ -112,7 +112,7 @@ De aanvragen tot uitbetaling moeten ingediend worden uiterlijk binnen één jaar
 
 ### ART. 17.
 
-§ 1. Als het een krediet betreft met een vaste rentevoet, hoogstens jaarlijks herzienbaar, en met een vast aflossingsschema, wordt de beslissing tot toekenning van steun in de volgende gevallen op de volgende manier herzien : <br />1° de openbare werken hebben minstens twaalf maanden geduurd : de rentetoelage wordt met terugwerkende kracht verhoogd tot 100 % van de totale rentekosten;<br />2° de rentevoet wordt aangepast : de rentetoelage wordt herberekend;<br />3° de terugbetaling van het krediet wordt uitgesteld : de rentetoelage wordt maximaal drie jaar verlengd.<br /><br />§ 2. De onderneming deelt de gevallen van herziening, vermeld in § 1, mee aan het Agentschap Ondernemen. Die mededeling bevat de stukken waaruit het geval van herziening blijkt.<br /><br />De duur van de openbare werken, vermeld in § 1, 1°, wordt aangetoond door een verklaring van de gemeente die wordt opgevraagd door het Agentschap Ondernemen.<br />
+§ 1. Als het een krediet betreft met een vaste rentevoet, hoogstens   jaarlijks herzienbaar, en met een vast aflossingsschema, wordt de beslissing tot   toekenning van steun in de volgende gevallen op de volgende manier herzien :   <BR>1° de openbare werken hebben minstens twaalf maanden geduurd : de   rentetoelage wordt met terugwerkende kracht verhoogd tot 100 % van de totale   rentekosten;<BR>2° de rentevoet wordt aangepast : de rentetoelage wordt   herberekend;<BR>3° de terugbetaling van het krediet wordt uitgesteld : de   rentetoelage wordt maximaal drie jaar verlengd.<BR><BR>§ 2. De onderneming deelt   de gevallen van herziening, vermeld in § 1, mee aan het Agentschap Innoveren en   Ondernemen. Die mededeling bevat de stukken waaruit het geval van herziening   blijkt.<BR><BR>De duur van de openbare werken, vermeld in § 1, 1°, wordt   aangetoond door een verklaring van de gemeente die wordt opgevraagd door het   Agentschap Ondernemen.<BR>
 
 ## HOOFDSTUK V. Stopzetting
 
@@ -128,13 +128,13 @@ De rentetoelage kan geheel of gedeeltelijk teruggevorderd worden binnen vijf jaa
 
 ### ART. 19bis.
 
-Het Agentschap Ondernemen kan vanaf de indiening van de aanvraag controleren of het decreet, het besluit van de Vlaamse Regering en de uitvoeringsbesluiten ervan worden nageleefd. <br /><br />Die controle kan, afhankelijk van het feit of de rentetoelage al dan niet werd toegekend, het volgende tot gevolg hebben : <br />1° onontvankelijkheid van de aanvraag van de rentetoelage of weigering van de toekenning van de rentetoelage;<br />2° niet-uitbetaling van de toegekende rentetoelage of terugvordering van de uitbetaalde rentetoelage.
+Het Agentschap Innoveren en Ondernemen kan vanaf de indiening van de   aanvraag controleren of het decreet, het besluit van de Vlaamse Regering en de   uitvoeringsbesluiten ervan worden nageleefd. <BR><BR>Die controle kan,   afhankelijk van het feit of de rentetoelage al dan niet werd toegekend, het   volgende tot gevolg hebben : <BR>1° onontvankelijkheid van de aanvraag van de   rentetoelage of weigering van de toekenning van de rentetoelage;<BR>2°   niet-uitbetaling van de toegekende rentetoelage of terugvordering van de   uitbetaalde rentetoelage.
 
 ## HOOFDSTUK VII. Delegatie
 
 ### ART. 20.
 
-De minister heeft beslissingsbevoegdheid over het volgende :<br />1° de toekenning van de rentetoelage;<br />2° de herziening van de beslissing tot toekenning van de rentetoelage;<br />3° de stopzetting van de uitbetaling van de rentetoelage;<br />4° de terugvordering van de rentetoelage.<br /><br />De minister kan die beslissingsbevoegdheid delegeren aan het Agentschap Ondernemen.<br />
+De minister heeft beslissingsbevoegdheid over het volgende :<BR>1° de   toekenning van de rentetoelage;<BR>2° de herziening van de beslissing tot   toekenning van de rentetoelage;<BR>3° de stopzetting van de uitbetaling van de   rentetoelage;<BR>4° de terugvordering van de rentetoelage.<BR><BR>De minister   kan die beslissingsbevoegdheid delegeren aan het Agentschap Innoveren en   Ondernemen.<BR>
 
 ## HOOFDSTUK VIII. Inwerkingtreding
 
