@@ -2,16 +2,16 @@
   "codex_id": 1017847,
   "title": "Decreet van 2009-02-20 betreffende de Hogere Zeevaartschool",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017847/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "6f920b7fb98b4033469f9e2192f35a14086b328b86e7c47608dff4984c287597",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017847/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "45643725796461b5d14c788ac0164ccf86a6d3b028b7653a8a5d1a96429da786",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017847&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2016-01-01",
   "made": "2009-02-20",
   "gazette": "2009-04-29",
   "numac": 2009201461,
   "document_start": "2009-01-01",
   "document_end": null,
-  "in_force": "2015-09-01",
+  "in_force": "2016-01-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
