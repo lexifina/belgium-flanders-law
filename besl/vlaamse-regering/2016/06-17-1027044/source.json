@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027044,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 betreffende de subsidiëring van de uitrusting en apparatuur van de medisch-technische diensten van de ziekenhuizen en tot wijziging van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wat de financiering van de lasten van de voormelde uitrusting en apparatuur betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027044/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "069dc719016dc58beeb7287ed40e8c5830c894a0436a0c64bd7302aa9abf1fdd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027044&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-06-17",
+  "gazette": "2016-07-20",
+  "numac": 2016036107,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
