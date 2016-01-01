@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026217,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 houdende overdracht van personeelsleden van het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap v.z.w. ESF-Agentschap aan het Departement Werk en Sociale Economie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026217/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "e86019b4e2a8a9c87f06aaa80dd7706e7fa0f1d084f263e8b2886b33f917fcf8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026217&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-04",
+  "gazette": "2015-12-16",
+  "numac": 2015036556,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
