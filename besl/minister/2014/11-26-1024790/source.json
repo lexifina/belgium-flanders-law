@@ -2,16 +2,16 @@
   "codex_id": 1024790,
   "title": "Ministerieel besluit van 2014-11-26 houdende vaststelling van de verboden lijst, vermeld in artikel 9 van het besluit van de Vlaamse Regering van 19 oktober 2012 houdende uitvoering van het decreet van 25 mei 2012 betreffende de preventie en bestrijding van doping in de sport",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024790/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "37447b3e421f888952c36d7f8e4fc4343094d4bbfd4eed8367f1dc377ce30c03",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024790/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "cc631b2be3f3878c07f53518a32b78482a33d0dfd8a87b770808253f5fb401fa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024790&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-01-01",
   "made": "2014-11-26",
   "gazette": "2014-12-12",
   "numac": 2014036902,
   "document_start": "2015-01-01",
   "document_end": "2015-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
