@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027849,
+  "title": "Besluit van de Vlaamse Regering van 2016-12-16 tot wijziging van het besluit van de Vlaamse Regering van 13 december 2013 houdende de regels voor de toekenning van een projectsubsidie aan pedagogische en taalondersteunende organisaties voor de pedagogische en taalondersteuning van kinderdagopvangvoorzieningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027849/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "9db82e113df42eea047e045a0bc6af906ad78e2ec894160b7d7db3570c74c0dd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027849&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-12-16",
+  "gazette": "2017-02-09",
+  "numac": 2017040045,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
