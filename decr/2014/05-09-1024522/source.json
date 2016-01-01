@@ -1,0 +1,17 @@
+{
+  "codex_id": 1024522,
+  "title": "Decreet van 2014-05-09 houdende wijziging van het decreet van 29 maart 2002 tot bescherming van varend erfgoed en het decreet van 24 januari 2003 houdende bescherming van het roerend cultureel erfgoed van uitzonderlijk belang",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024522/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "70a98b20269b14b0f76fea1d7586b7643d0481789d393e37d2db0e3871bf2763",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024522&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2014-05-09",
+  "gazette": "2014-09-04",
+  "numac": 2014035753,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
