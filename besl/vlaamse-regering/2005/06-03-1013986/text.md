@@ -16,7 +16,7 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt   gestructur
 
 ### ART. 3.
 
-<P>§ 1. Het beleidsdomein Kanselarij en Bestuur heeft betrekking op de volgende   aangelegenheden:<BR>1° het algemeen regeringsbeleid, met inbegrip van:<BR>a) de   algemene leiding van relaties met andere overheden;<BR>b) het beleid op   regeringsniveau voor maatschappelijk gerichte beleidsinitiatieven of   organisatiegerichte items die beleidsdomeinen overstijgen. Het betreft:<BR>1) de   publiek-private samenwerking;<BR>2) de coördinatie van het beleid met betrekking   tot Brussel-Hoofdstad;<BR>3) de coördinatie van het beleid met betrekking tot de   Vlaamse Rand rond Brussel;<BR>4) de toekomstvisie voor Vlaanderen;<BR>5) de   duurzame ontwikkeling;<BR>6) de planning en de statistiek;<BR>7) de werking van   de Vlaamse Regering;<BR>8) de staatshervorming en de institutionele   aangelegenheden;<BR>9) het gebruik van de talen in de Vlaamse   administratie;<BR>10) de gewestelijke aspecten inzake de overheidsopdrachten en   de erkenning van aannemers;<BR>11) het reguleringsmanagement;<BR>12) de   modaliteiten voor onteigening ten algemenen nutte, vermeld in artikel 79, § 1,   van de bijzondere wet;<BR>13) het algemeen communicatiebeleid, zowel intern als   extern;<BR>14) de audit van de lokale besturen en de Vlaamse   administratie;<BR>c) het justitieel beleid:<BR>1) de deelname aan het algemeen   beleid inzake strafrecht, vermeld in artikel 11bis van de bijzondere wet;<BR>2)   de ondersteuning van de dienst van de bestuursrechtscolleges;<BR>d) de   financiële tegemoetkoming naar aanleiding van schade, veroorzaakt door algemene   rampen, vermeld in artikel 6, § 1, II, 5°, van de bijzondere wet;<BR>2° de   bestuurszaken:<BR>a) het algemeen beleid inzake personeel en   organisatieontwikkeling in de Vlaamse administratie, inclusief het interne   diversiteitsbeleid inzake personeel;<BR>b) het algemeen beleid inzake de   facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse   administratie;<BR>c) het algemeen beleid inzake informatie- en   communicatietechnologie in de Vlaamse administratie;<BR>d) de binnenlandse   aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere   wet, met inbegrip van het stedenbeleid, alsook de bestuurlijke organisatie van   en het administratief toezicht op de openbare centra voor maatschappelijk   welzijn, en het gebruik van de talen in de lokale besturen;<BR>e) het   e-government;<BR>f) de informatiemaatschappij, het structureren, opslaan,   uitwisselen en ontsluiten van informatie, en de infolijn;<BR>g) de uitbouw van   een geografische-informatie-infrastructuur;<BR>3° het gelijkekansen- en   integratiebeleid:<BR>a) het gelijkekansenbeleid, gericht op de   genderproblematiek, de holebi's en de thema's toegankelijkheid en   handicap;<BR>b) het beleid inzake onthaal en integratie van inwijkelingen,   vermeld in artikel 5, § 1, II, 3°, van de bijzondere wet;<BR><BR>§ 2. Dit   beleidsdomein omvat de volgende beleidsvelden :<BR>1° ondersteuning Vlaamse   Regering;<BR>2° ondersteuning organisatiegerichte en   beleidsdomeinoverschrijdende thema's;<BR>3° gelijke kansen;<BR>4° coördinatie   Brussel;<BR>5° coördinatie Vlaamse Rand;<BR>6° audit;<BR>7° rampenschade;<BR>8°   informatiemanagement<BR>9° facilitaire dienstverlening en vastgoed;<BR>10°   ICT;<BR>11° binnenland;<BR>12° stedenbeleid;<BR>13° integratie en   inburgering;<BR>14° personeel en organisatie.</P>
+<P>§ 1. Het beleidsdomein Kanselarij en Bestuur heeft betrekking op de volgende   aangelegenheden:<BR>1° het algemeen regeringsbeleid, met inbegrip van:<BR>a) de   algemene leiding van relaties met andere overheden;<BR>b) het beleid op   regeringsniveau voor maatschappelijk gerichte beleidsinitiatieven of   organisatiegerichte items die beleidsdomeinen overstijgen. Het betreft:<BR>1) de   publiek-private samenwerking;<BR>2) de coördinatie van het beleid met betrekking   tot Brussel-Hoofdstad;<BR>3) de coördinatie van het beleid met betrekking tot de   Vlaamse Rand rond Brussel;<BR>4) de toekomstvisie voor Vlaanderen;<BR>5) de   duurzame ontwikkeling;<BR>6) de planning en de statistiek;<BR>7) de werking van   de Vlaamse Regering;<BR>8) de staatshervorming en de institutionele   aangelegenheden;<BR>9) het gebruik van de talen in de Vlaamse   administratie;<BR>10) de gewestelijke aspecten inzake de overheidsopdrachten en   de erkenning van aannemers;<BR>11) het reguleringsmanagement;<BR>12) de   modaliteiten voor onteigening ten algemenen nutte, vermeld in artikel 79, § 1,   van de bijzondere wet;<BR>13) het algemeen communicatiebeleid, zowel intern als   extern;<BR>14) de audit van de lokale besturen en de Vlaamse   administratie;<BR>15) het bouwmeesterschap;<BR>c) het justitieel beleid:<BR>1)   de deelname aan het algemeen beleid inzake strafrecht, vermeld in artikel 11bis   van de bijzondere wet;<BR>2) de ondersteuning van de dienst van de   bestuursrechtscolleges;<BR>d) de financiële tegemoetkoming naar aanleiding van   schade, veroorzaakt door algemene rampen, vermeld in artikel 6, § 1, II, 5°, van   de bijzondere wet;<BR>2° de bestuurszaken:<BR>a) het algemeen beleid inzake   personeel en organisatieontwikkeling in de Vlaamse administratie, inclusief het   interne diversiteitsbeleid inzake personeel;<BR>b) het algemeen beleid inzake de   facilitaire dienstverlening en het vastgoedbeheer in de Vlaamse   administratie;<BR>c) het algemeen beleid inzake informatie- en   communicatietechnologie in de Vlaamse administratie;<BR>d) de binnenlandse   aangelegenheden, vermeld in artikel 6, § 1, VIII, en artikel 7 van de bijzondere   wet, met inbegrip van het stedenbeleid, alsook de bestuurlijke organisatie van   en het administratief toezicht op de openbare centra voor maatschappelijk   welzijn, en het gebruik van de talen in de lokale besturen;<BR>e) het   e-government;<BR>f) de informatiemaatschappij, het structureren, opslaan,   uitwisselen en ontsluiten van informatie, en de infolijn;<BR>g) de uitbouw van   een geografische-informatie-infrastructuur;<BR>3° het gelijkekansen- en   integratiebeleid:<BR>a) het gelijkekansenbeleid, gericht op de   genderproblematiek, de holebi's en de thema's toegankelijkheid en   handicap;<BR>b) het beleid inzake onthaal en integratie van inwijkelingen,   vermeld in artikel 5, § 1, II, 3°, van de bijzondere wet;<BR><BR>§ 2. Dit   beleidsdomein omvat de volgende beleidsvelden :<BR>1° ondersteuning Vlaamse   Regering;<BR>2° ondersteuning organisatiegerichte en   beleidsdomeinoverschrijdende thema's;<BR>3° gelijke kansen;<BR>4° coördinatie   Brussel;<BR>5° coördinatie Vlaamse Rand;<BR>6° audit;<BR>7° rampenschade;<BR>8°   informatiemanagement<BR>9° facilitaire dienstverlening en vastgoed;<BR>10°   ICT;<BR>11° binnenland;<BR>12° stedenbeleid;<BR>13° integratie en   inburgering;<BR>14° personeel en organisatie.</P>
 
 ### ART. 4.
 
@@ -74,15 +74,15 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 17.
 
-<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur", het departement "Informatie Vlaanderen", de Dienst van de Bestuursrechtscolleges en vijf agentschappen zonder rechtspersoonlijkheid :<br>
-1° Studiedienst van de Vlaamse Regering;<br>
-2° Audit Vlaanderen.<br>
-3° Agentschap Overheidspersoneel;<br>
-4° Agentschap Facilitair Bedrijf;<br>
-5° Agentschap Binnenlands Bestuur.<br>
+<p>§ 1. Voor het beleidsdomein Kanselarij en Bestuur wordt het Vlaams ministerie met de naam "Kanselarij en Bestuur" opgericht, dat bestaat uit het departement "Kanselarij en Bestuur", het departement "Informatie Vlaanderen", de Dienst van de Bestuursrechtscolleges en&nbsp;vijf agentschappen zonder rechtspersoonlijkheid:<br>
+1° Audit Vlaanderen.<br>
+2° Agentschap Overheidspersoneel;<br>
+3° Agentschap Facilitair Bedrijf;<br>
+4° Agentschap Binnenlands Bestuur.<br>
+5° agentschap Informatie Vlaanderen.<br>
 <br>
 § 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Kanselarij en Bestuur behoren, zijn :<br>
-1° Agentschap voor Geografische Informatie Vlaanderen;<br>
+1° ...;<br>
 2° de Rand;<br>
 3° Muntpunt;<br>
 4° Toegankelijk Vlaanderen;<br>
@@ -108,7 +108,19 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 21.
 
-§ 1. Voor het beleidsdomein Economie, Wetenschap en Innovatie wordt het   Vlaams ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat   uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid   Agentschap Ondernemen. <BR><BR>§ 2. De agentschappen met rechtspersoonlijkheid   die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn :   <BR>1° Participatiemaatschappij Vlaanderen; <BR>2° Limburgse   Reconversiemaatschappij; <BR>3° Vlaamse Participatiemaatschappij;<BR>3° bis   Vlaams Energiebedrijf; <BR>4° Herculesstichting;<BR>5° Agentschap voor Innovatie   door Wetenschap en Technologie;<BR>6° Fonds voor Wetenschappelijk   Onderzoek-Vlaanderen;<BR>7° Agentschap Plantentuin Meise.<BR><BR>§ 3.De   strategische adviesraad die tot het beleidsdomein Economie, Wetenschap en   Innovatie behoort voor wat het gedeelte wetenschap en innovatie betreft, is de   Vlaamse Raad voor Wetenschap en Innovatie.<BR>
+§ 1. Voor het beleidsdomein Economie, Wetenschap en Innovatie wordt het Vlaams ministerie van Economie, Wetenschap en Innovatie opgericht, dat bestaat uit het gelijknamige departement en het agentschap zonder rechtspersoonlijkheid&nbsp;Agentschap Innoveren en Ondernemen.<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein economie, wetenschap en innovatie behoren, zijn :<br>
+1° Participatiemaatschappij Vlaanderen;<br>
+2° Limburgse Reconversiemaatschappij;<br>
+3° Vlaamse Participatiemaatschappij;<br>
+3° bis Vlaams Energiebedrijf;<br>
+4° ...;<br>
+5° ...;<br>
+6° Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<br>
+7° Agentschap Plantentuin Meise.<br>
+<br>
+§ 3.De strategische adviesraad die tot het beleidsdomein Economie, Wetenschap en Innovatie behoort voor wat het gedeelte wetenschap en innovatie betreft, is de Vlaamse Raad voor Wetenschap en Innovatie.
 
 ### ART. 22.
 
@@ -120,7 +132,17 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 24.
 
-§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het   Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit   het gelijknamige departement.&nbsp;<BR><BR>§ 2. De agentschappen met   rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media   behoren, zijn : <BR>1° Bloso; <BR>2° Vlaamse Regulator voor de Media.<BR><BR>§   3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en   Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media.
+§ 1. Voor het beleidsdomein Cultuur, Jeugd, Sport en Media wordt het Vlaams Ministerie van Cultuur, Jeugd, Sport en Media opgericht, dat bestaat uit het gelijknamige departement.&nbsp;<br>
+<br>
+§ 2. De agentschappen met rechtspersoonlijkheid die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren, zijn :<br>
+1° Sport Vlaanderen;<br>
+2° Vlaamse Regulator voor de Media.<br>
+<br>
+§ 3. De strategische adviesraad die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoort, is de Raad voor Cultuur, Jeugd, Sport en Media bij het Departement Cultuur, Jeugd, Sport en Media.<br>
+<br>
+§ 4. Met toepassing van artikel 4, § 1, tweede lid, van het kaderdecreet is Sport Vlaanderen, vermeld in paragraaf 2, 1°, belast met de beleidsondersteunende taken voor het beleidsveld sport, vermeld in artikel 10, § 2, 6°, van dit besluit.<br>
+<br>
+De taken die conform artikel 30 aan de departementen worden toevertrouwd, behoren, met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30, § 2, eerste lid, 1°, d), tot het takenpakket van Sport Vlaanderen wat het beleidsveld sport betreft.
 
 ### ART. 25.
 
@@ -140,7 +162,7 @@ De aangelegenheden die krachtens artikel 3 tot en met 15 zijn toegewezen   aan d
 
 ### ART. 29.
 
-§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed wordt het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en   drie agentschappen zonder rechtspersoonlijkheid : <BR>1° Wonen-Vlaanderen;   <BR>2° Onroerend Erfgoed; <BR>3° Inspectie RWO.<BR><BR>Het departement, vermeld   in het eerste lid, wordt aangehaald als Ruimte Vlaanderen.<BR><BR>§ 2. Het   agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij   voor Sociaal Wonen.<BR><BR>§ 3. De strategische adviesraden die tot het   beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn   : <BR>1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<BR>2°   Vlaamse Woonraad.<BR><BR>§ 4. Met toepassing van artikel 4, § 1, tweede lid, van   het kaderdecreet is het agentschap Wonen-Vlaanderen, vermeld in paragraaf 1, 1°,   belast met de beleidsondersteunende taken voor het beleidsveld woonbeleid,   vermeld in artikel 15, § 2, 2°, en is het agentschap Onroerend Erfgoed, vermeld   in paragraaf 1, 2°, belast met de beleidsondersteunende taken voor het   beleidsveld beheer en bescherming onroerend erfgoed, vermeld in artikel 15, § 2,   3°. <BR><BR>De taken die overeenkomstig artikel 30 aan de departementen worden   toevertrouwd, behoren, met uitzondering van het secretariaat van de beleidsraad,   vermeld in artikel 30, § 2, 1°, d), tot het takenpakket van Wonen-Vlaanderen wat   het beleidsveld woonbeleid betreft en tot het takenpakket van Onroerend Erfgoed   wat het beleidsveld beheer en bescherming onroerend erfgoed   betreft.
+§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed wordt het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en   drie agentschappen zonder rechtspersoonlijkheid : <BR>1° Wonen-Vlaanderen;   <BR>2° Onroerend Erfgoed; <BR>3° Inspectie RWO.<BR><BR>Het departement, vermeld   in het eerste lid, wordt aangehaald als Ruimte Vlaanderen.<BR><BR>§ 2. Het   agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij   voor Sociaal Wonen.<BR><BR>§ 3. De strategische adviesraden die tot het   beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn   : <BR>1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<BR>2°   Vlaamse Woonraad bij het agentschap Wonen-Vlaanderen.<BR><BR>§ 4. Met toepassing   van artikel 4, § 1, tweede lid, van het kaderdecreet is het agentschap   Wonen-Vlaanderen, vermeld in paragraaf 1, 1°, belast met de   beleidsondersteunende taken voor het beleidsveld woonbeleid, vermeld in artikel   15, § 2, 2°, en is het agentschap Onroerend Erfgoed, vermeld in paragraaf 1, 2°,   belast met de beleidsondersteunende taken voor het beleidsveld beheer en   bescherming onroerend erfgoed, vermeld in artikel 15, § 2, 3°. <BR><BR>De taken   die overeenkomstig artikel 30 aan de departementen worden toevertrouwd, behoren,   met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30,   § 2, 1°, d), tot het takenpakket van Wonen-Vlaanderen wat het beleidsveld   woonbeleid betreft en tot het takenpakket van Onroerend Erfgoed wat het   beleidsveld beheer en bescherming onroerend erfgoed betreft.
 
 ## HOOFDSTUK IV Taakstelling van de departementen, agentschappen en wisselwerking tussen departementen en agentschappen
 
