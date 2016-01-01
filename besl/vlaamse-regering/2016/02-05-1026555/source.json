@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026555,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-05 houdende goedkeuring van de wijziging van het organiek reglement tot vaststelling van de regeling inzake het personeel van de Sociaal-Economische Raad van Vlaanderen en van de personeelsformatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026555/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "90545f6d1a0c49f8d33cfb495ef84336bfafa9ba6db8591cfef3a53fc3aac109",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026555&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-02-05",
+  "gazette": "2016-03-16",
+  "numac": 2016035283,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
