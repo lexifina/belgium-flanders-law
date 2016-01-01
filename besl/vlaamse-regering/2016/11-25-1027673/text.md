@@ -29,3 +29,14 @@ Besluit :<br>
 
 In artikel XIII 66 van hetzelfde besluit wordt de zinsnede "van 1/1976" vervangen door de zinsnede "van 1/1924".<br>
 &nbsp;
+
+### ART 7.
+
+In artikel XIII 82 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 19 september 2003, wordt het bedrag "1 EUR" vervangen door het bedrag "2 euro".<br>
+&nbsp;
+
+### ART 9.
+
+Artikel XIII 108 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 6 juni 2014, wordt vervangen door wat volgt:<br>
+"Art. XIII 108. De eindejaarstoelage bedraagt 74% van het brutomaandsalaris van de maand oktober van het uitbetalingsjaar.".<br>
+&nbsp;

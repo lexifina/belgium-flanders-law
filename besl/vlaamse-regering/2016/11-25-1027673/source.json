@@ -2,16 +2,16 @@
   "codex_id": 1027673,
   "title": "Besluit van de Vlaamse Regering van 2016-11-25 tot wijziging van het besluit van de Vlaamse Regering van 1 december 2000 houdende organisatie van de Vlaamse Maatschappij voor Watervoorziening en de regeling van de rechtspositie van het personeel, wat betreft de uitvoering van het sociaal akkoord 2015-2016 en de vereenvoudiging van het ziektekrediet, de uitbetaling van het gedeeltelijk verschuldigd maandloon in RSZ-dagen, de uurdeler voor het berekenen van de forfaitaire toelage voor wacht- en piketdienst en de berekening van het vakantiegeld",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027673/VolledigDocument?datum=2006-01-01",
-  "source_sha256": "f3018a43cdba457adfe405477fa664a4452a3855d1f054d57381996eac1bf2f9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027673/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "74acbead89a499456eae1e7f4c6b728363debc846ee506fa40c79a4b7a51537a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027673&param=informatie",
-  "as_of": "2006-01-01",
+  "as_of": "2016-01-01",
   "made": "2016-11-25",
   "gazette": "2016-12-23",
   "numac": 216036653,
   "document_start": "2017-01-01",
   "document_end": null,
-  "in_force": "2006-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
