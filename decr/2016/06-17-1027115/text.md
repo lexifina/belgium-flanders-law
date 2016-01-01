@@ -67,6 +67,14 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Alle met de bepalingen van dit artikel strijdige bedingen zijn nietig.".</span><br>
 &nbsp;
 
+### ART III.29.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 179/3 van dezelfde codex, ingevoegd bij het decreet van 25 april 2014 en gewijzigd bij het decreet van 13 november 2015, wordt in het derde lid het punt 1° vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"1° de programmatie wordt voorafgaand bij de bevoegde diensten van de Vlaamse Gemeenschap schriftelijk en gemotiveerd aangevraagd :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) hetzij per scholengemeenschap; in dat geval wordt bij de aanvraag het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité van de scholengemeenschap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) hetzij door het schoolbestuur per school die niet tot een scholengemeenschap behoort; in dat geval wordt bij de aanvraag het protocol gevoegd van de onderhandeling ter zake in het bevoegde lokaal comité;".</span><br>
+&nbsp;
+
 ### ART III.48.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 357 van dezelfde codex, vervangen bij het decreet van 19 juli 2013, worden volgende wijzigingen aangebracht :</span><br>
@@ -133,6 +141,12 @@
 ## HOOFDSTUK VII Hoger onderwijs
 
 ## Afdeling I Codex Hoger Onderwijs
+
+### ART VII.21.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel III.6, § 2, van dezelfde codex wordt een negende lid toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De opgenomen studiepunten in een door de Vlaamse Regering conform artikel II.153 van de Codex Hoger Onderwijs nieuwe erkende opleiding, aangeboden door een universiteit in een studiegebied dat met ingang van het academiejaar 2013-2014 geïntegreerd is in de universiteiten, worden meegerekend voor het variabel onderwijsdeel VOWun.".</span><br>
+&nbsp;
 
 ### ART VII.25.
 
