@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<BR>1° decreet van 8 november   2013 : het decreet van 8 november 2013 houdende het stimuleren, het coördineren   en het subsidiëren van de tewerkstelling in de sportsector;<BR>2° minister : de   Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het   openluchtleven;<BR>3° Vlaamse Trainersschool, afgekort VTS : het   samenwerkingsverband, vermeld in artikel 2, 2°, van het decreet van 7 mei 2004   tot omvorming van de Vlaamse openbare instelling Commissariaat - Generaal voor   de Bevordering van de Lichamelijke Ontwikkeling, Sport en de Openluchtrecreatie   tot het intern verzelfstandigd agentschap met rechtspersoonlijkheid   BLOSO.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° decreet van 8 november 2013 : het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector;<br>
+2° minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° Vlaamse Trainersschool, afgekort VTS : het samenwerkingsverband, vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen".
 
 ## HOOFDSTUK 2 Specifieke bepalingen met betrekking tot de subsidiëring van een organisatie voor de coördinatie en de tewerkstelling van een pool van sportbegeleiders en sportondersteuners
 
