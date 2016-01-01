@@ -10,7 +10,7 @@ De opbrengst van de leningen zal door de vennootschap worden geboekt op een reke
 
 ### ART. 3.
 
-[Het Vlaamse Gewest neemt de jaarlijkse intrest van de leningen voor zijn rekening ten belope van het aandeel, vastgesteld in het machtigingsbesluit tot het aangaan van de lening, voorzover het Vlaams Woningfonds van de Grote Gezinnen:<br /><br />1° slechts hypothecaire leningen toekent overeenkomstig de bij besluit van de Vlaamse regering vastgestelde voorwaarden, en aan de reserve voor de aflossing van dubieuze vorderingen niet meer besteedt dan 0,20 pct. van het bedrag dat door de hypothecaire schuldenaars op 31 december van het dienstjaar verschuldigd is, behoudens uitdrukkelijke en schriftelijke toestemming van de in artikel 2, vierde lid bedoelde Vlaamse ministers;<br /><br />2° slechts woningen bouwt, koopt, ruilt of in huur neemt voor meer dan negen jaar of er andere zakelijke rechten op verwerft, om die woningen, eventueel na de renovatie, verbetering of aanpassing ervan, te verkopen, te verhuren of onder te verhuren overeenkomstig de bij besluit van de Vlaamse regering vastgestelde voorwaarden.  <span class="reference">(verv. B.V.R. 11 mei 1999, art. 19, I: 1 juni 1999)</span> ]
+...
 
 ### ART. 4.
 
