@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-In   artikel 18, § 4, van het besluit van de Vlaamse Regering van 15 december 2000   houdende vaststelling van de voorwaarden van toekenning van een   persoonlijke-assistentiebudget aan personen met een handicap, ingevoegd bij het   besluit van de Vlaamse Regering van 19 juli 2007 en gewijzigd bij het besluit   van de Vlaamse Regering van 19 oktober 2012, worden de woorden "de daarop   volgende erkenningsperiode" vervangen door de woorden "de twee daarop volgende   erkenningsperioden".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-Dit   besluit heeft uitwerking met ingang van 30 juni 2014 en loopt tot 31 december   2015.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-De   Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de   uitvoering van dit besluit.
+...

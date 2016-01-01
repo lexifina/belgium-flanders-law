@@ -2,16 +2,16 @@
   "codex_id": 1025279,
   "title": "Besluit van de Vlaamse Regering van 2015-03-27 houdende wijziging van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, wat betreft de forfaitaire subsidie voor budgethoudersverenigingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025279/VolledigDocument?datum=2014-06-30",
-  "source_sha256": "ca3ffe53248031214791253f269aecb6100a9344068f0c97cc5d1306b6b76b30",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025279/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "c73bdb71f8e62ef19bdcab2a01be73e4efee3f6c6829b46916f425ebb97b2826",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025279&param=informatie",
-  "as_of": "2014-06-30",
+  "as_of": "2016-01-01",
   "made": "2015-03-27",
   "gazette": "2015-04-16",
   "numac": 2015035459,
   "document_start": "2014-06-30",
   "document_end": "2015-12-31",
-  "in_force": "2014-06-30",
+  "in_force": "2016-01-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-06-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
