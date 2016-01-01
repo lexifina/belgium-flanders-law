@@ -14,7 +14,37 @@ Met het oog op de operationalisering van het beleidsdomein Cultuur, Jeugd, Sport
 
 ### ART. 3.
 
-Het departement heeft volgende taken :<BR>1° de taken waarmee het   departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse   Regering van 3 juni 2005 met betrekking tot organisatie van de Vlaamse   administratie voor wat betreft de bevoegdheden opgesomd in artikel 10 van   hetzelfde besluit;<BR>2° de taken van beleidsuitvoering betreffende materies die   tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren die niet werden   toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein;<BR>3° het   organiseren van de managementondersteunende dienstverlening voor het   departement, en het extern verzelfstandigd agentschap Vlaamse Regulator voor de   Media;<BR>4° het beheer van de wetenschappelijke instelling Koninklijk Museum   voor Schone Kunsten Antwerpen;<BR>5° de uitvoering van het beleid inzake   professionele kunsten en cultureel erfgoed:<BR>a) erkennen, subsidiëren,   adviseren, inspecteren, controleren en evalueren van actoren;<BR>b) ondersteunen   van de beleidsuitvoerende commissies die een niet-bindend advies geven over de   inhoudelijke beoordeling van individuele dossiers;<BR>c) aansturen van   gemeentebesturen en provinciebesturen;<BR>d) aansturen en evalueren van   sectorale steunpunten;<BR>e) aansturen van particuliere voorzieningen die   overheidstaken uitvoeren;<BR>f) aansturen van   cultuurspreidingsinitiatieven;<BR>g) zorgen voor het uitbouwen en onderhouden   van internationale sectorale contacten;<BR>h) beheren van het Masereelcentrum,   het domein Gaasbeek en de landcommanderij Alden Biesen;<BR>i) beheren van de   erfgoed- en kunstcollecties van en toevertrouwd aan de Vlaamse   Gemeenschap;<BR>j) beheren van het Topstukkenfonds;<BR>k) beschermen,   subsidiëren, inspecteren, controleren en verwerven van topstukken;<BR>l)   beslissen over het buiten de Vlaamse Gemeenschap brengen van topstukken en   cultuurgoederen;<BR>m) borgen van het immaterieel roerend cultureel   erfgoed;<BR>6° de uitvoering van het beleid inzake jeugdwerk en   sociaal-cultureel werk voor Jeugd en Volwassenen:<BR>a) erkennen, subsidiëren,   adviseren, inspecteren, controleren en evalueren van actoren;<BR>b) ondersteunen   van de beleidsuitvoerende commissies die een niet-bindend advies geven over de   inhoudelijke beoordeling van individuele dossiers;<BR>c) aansturen van   gemeentebesturen en provinciebesturen;<BR>d) aansturen en evalueren van   sectorale steunpunten;<BR>e) aansturen van particuliere voorzieningen die   overheidstaken uitvoeren;<BR>f) organiseren van   cultuurspreidingsinitiatieven;<BR>g) zorgen voor het uitbouwen en onderhouden   van internationale sectorale contacten;<BR>h) beheren van het Vlaams Cultureel   Centrum Voeren;<BR>i) coördineren van het jeugd- en kinderrechtenbeleid;<BR>j)   uitlenen van kampeermateriaal voor de jeugd.<BR><BR>
+Het departement heeft volgende taken :<br>
+1° de taken waarmee het departement is belast overeenkomstig artikel 30 van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot organisatie van de Vlaamse administratie voor wat betreft de bevoegdheden opgesomd in artikel 10, § 1, 1°, 3°, 4° en 5°, van hetzelfde besluit;<br>
+2° de taken van beleidsuitvoering betreffende materies die tot het beleidsdomein Cultuur, Jeugd, Sport en Media behoren die niet werden toevertrouwd aan een verzelfstandigd agentschap van dat beleidsdomein;<br>
+3° het organiseren van de managementondersteunende dienstverlening voor het departement, en het extern verzelfstandigd agentschap Vlaamse Regulator voor de Media;<br>
+4° het beheer van de wetenschappelijke instelling Koninklijk Museum voor Schone Kunsten Antwerpen;<br>
+5° de uitvoering van het beleid inzake professionele kunsten en cultureel erfgoed:<br>
+a) erkennen, subsidiëren, adviseren, inspecteren, controleren en evalueren van actoren;<br>
+b) ondersteunen van de beleidsuitvoerende commissies die een niet-bindend advies geven over de inhoudelijke beoordeling van individuele dossiers;<br>
+c) aansturen van gemeentebesturen en provinciebesturen;<br>
+d) aansturen en evalueren van sectorale steunpunten;<br>
+e) aansturen van particuliere voorzieningen die overheidstaken uitvoeren;<br>
+f) aansturen van cultuurspreidingsinitiatieven;<br>
+g) zorgen voor het uitbouwen en onderhouden van internationale sectorale contacten;<br>
+h) beheren van het Masereelcentrum, het domein Gaasbeek en de landcommanderij Alden Biesen;<br>
+i) beheren van de erfgoed- en kunstcollecties van en toevertrouwd aan de Vlaamse Gemeenschap;<br>
+j) beheren van het Topstukkenfonds;<br>
+k) beschermen, subsidiëren, inspecteren, controleren en verwerven van topstukken;<br>
+l) beslissen over het buiten de Vlaamse Gemeenschap brengen van topstukken en cultuurgoederen;<br>
+m) borgen van het immaterieel roerend cultureel erfgoed;<br>
+6° de uitvoering van het beleid inzake jeugdwerk en sociaal-cultureel werk voor Jeugd en Volwassenen:<br>
+a) erkennen, subsidiëren, adviseren, inspecteren, controleren en evalueren van actoren;<br>
+b) ondersteunen van de beleidsuitvoerende commissies die een niet-bindend advies geven over de inhoudelijke beoordeling van individuele dossiers;<br>
+c) aansturen van gemeentebesturen en provinciebesturen;<br>
+d) aansturen en evalueren van sectorale steunpunten;<br>
+e) aansturen van particuliere voorzieningen die overheidstaken uitvoeren;<br>
+f) organiseren van cultuurspreidingsinitiatieven;<br>
+g) zorgen voor het uitbouwen en onderhouden van internationale sectorale contacten;<br>
+h) beheren van het Vlaams Cultureel Centrum Voeren;<br>
+i) coördineren van het jeugd- en kinderrechtenbeleid;<br>
+j) uitlenen van kampeermateriaal voor de jeugd.<br>
+&nbsp;
 
 ### ART. 4.
 
