@@ -52,75 +52,331 @@ De overdrachten, vermeld in artikel 5, § 3, worden   onmiddellijk aan derden te
 
 ## Afdeling 1 Wijzigingen van het decreet van 7 mei 2004 houdende vaststelling van het kader tot oprichting van de provinciale ontwikkelingsmaatschappijen (POM)
 
+### ART. 10.
+
+<P>In   artikel 2 van het decreet van 7 mei 2004 houdende vaststelling van het kader tot   oprichting van de provinciale ontwikkelingsmaatschappijen (POM), gewijzigd bij   het decreet van 18 december 2009, wordt punt 2° vervangen door wat   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"2°   Agentschap Innoveren en Ondernemen: het Agentschap Innoveren en Ondernemen,   vermeld in artikel 2, § 1 van het besluit van de Vlaamse Regering van 18   december 2015 inzake de ontbinding zonder vereffening van het Agentschap voor   Innovatie door Wetenschap en Technologie en tot regeling van de overdracht van   zijn activiteiten aan het Agentschap Innoveren en   Ondernemen;".</P>
+
+### ART. 11.
+
+In artikel 9, § 2, eerste lid, artikel 10, § 1, § 2, eerste   lid, tweede lid en derde lid, § 3 en § 4, 3°, en artikel 11, § 1, vierde lid,   van hetzelfde decreet, gewijzigd bij het decreet van 18 december 2009, worden de   woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
+
 ## Afdeling 2 Wijziging van het decreet van 30 maart 2007 betreffende de Brownfieldconvenanten
+
+### ART. 12.
+
+In   artikel 12, tweede lid, van het decreet van 30 maart 2007 betreffende de   Brownfieldconvenanten, gewijzigd bij het decreet van 18 december 2009, wordt de   zinsnede "het Agentschap Ondernemen, vermeld in artikel 2, § 1, van het besluit   van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Ondernemen"   vervangen door de zinsnede "het Agentschap Innoveren en Ondernemen, vermeld in   artikel 2, § 1, van het besluit van de Vlaamse Regering van 18 december 2015   inzake de ontbinding zonder vereffening van het Agentschap voor Innovatie door   Wetenschap en technologie en tot regeling van de overdracht van zijn   activiteiten aan het Agentschap Innoveren en Ondernemen".
 
 ## Afdeling 3 Wijziging van het decreet van 8 juli 2011 houdende regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof
 
+### ART. 13.
+
+In   artikel 4, § 1, 2°, van het decreet van 8 juli 2011 houdende regeling van de   begroting, de boekhouding, de toekenning van subsidies en de controle op de   aanwending ervan, en de controle door het Rekenhof, gewijzigd bij de decreten   van 9 november 2012, 6 december 2013 en 31 januari 2014, wordt de bepaling   "Agentschap voor Innovatie door Wetenschap en Technologie - IWT"   opgeheven.
+
 ## Afdeling 4 Wijziging van de decreten betreffende het hoger onderwijs, gecoördineerd op 11 oktober 2013
+
+### ART. 14.
+
+<P>In artikel III.22, § 2, derde lid, van de Codex Hoger Onderwijs   van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013, wordt   punt 2° vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"2°   worden alleen aanstellingen of benoemingen van ten minste 80% aan de   universiteit in rekening genomen, inclusief gemengde aanstellingen aan enerzijds   de universiteit en anderzijds:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">a)   het daaraan verbonden academisch ziekenhuis. Voor de toepassing van deze   bepaling wordt het Universitair Ziekenhuis Gent respectievelijk het Universitair   Ziekenhuis Antwerpen beschouwd als verbonden met de Universiteit Gent   respectievelijk de Universiteit Antwerpen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">b)   het Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">c)   het Agentschap Innoveren en Ondernemen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">d)   de strategische onderzoekscentra (iMinds, IMEC, VITO, VIB en Flanders   Make)."</P>
 
 ## Afdeling 5 Wijzigingen van het koninklijk besluit van 10 oktober 1983 ter uitvoering van artikel 11bis, van de wet van 22 januari 1945 betreffende de economische reglementering en de prijzen, artikel 1
 
+### ART. 15.
+
+In   artikel 1 van het koninklijk besluit van 10 oktober 1983 ter uitvoering van   artikel 11bis, van de wet van 22 januari 1945 betreffende de economische   reglementering en de prijzen, worden de woorden "de directeur-generaal van de   Economische Algemene Inspectie van het Ministerie van Economische Zaken"   vervangen door de woorden "het hoofd van het Agentschap Innoveren en Ondernemen   of door diens gedelegeerde".
+
 ## Afdeling 6 Wijzigingen van het besluit van de Vlaamse Regering van 9 december 1997 betreffende het toekennen van een financiële tegemoetkoming ten behoeve van kleine ondernemingen die een beroep doen op erkende externe bedrijfsadviseurs en betreffende de erkenning van die bedrijfsadviseurs
+
+### ART. 16.
+
+In artikel 1, 7°, van het besluit van de Vlaamse Regering van   9 december 1997 betreffende het toekennen van een financiële tegemoetkoming ten   behoeve van kleine ondernemingen die een beroep doen op erkende externe   bedrijfsadviseurs en betreffende de erkenning van die bedrijfsadviseurs,   vervangen bij het besluit van de Vlaamse Regering van 20 juli 2006 en gewijzigd   bij het besluit van de Vlaamse Regering van 30 januari 2009, worden de woorden   "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
+
+### ART. 17.
+
+In artikel 3, § 1, en in artikel 7, eerste lid, van hetzelfde   besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 juli 2006 en   30 januari 2009, worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen".
 
 ## Afdeling 7 Wijzigingen van het koninklijk besluit van 5 februari 1999 tot aanwijzing van de ambtenaren en agenten die worden belast met het toezicht op de toepassing van Hoofdstuk I van Titel II van de programmawet van 10 februari 1998 tot bevordering van het zelfstandig ondernemerschap en tot regeling van de minnelijke schikking, artikel 1
 
+### ART. 18.
+
+<P>In   artikel 1 van het koninklijk besluit van 5 februari 1999 tot aanwijzing van de   ambtenaren en agenten die worden belast met het toezicht op de toepassing van   Hoofdstuk I van Titel II van de programmawet van 10 februari 1998 tot   bevordering van het zelfstandig ondernemerschap en tot regeling van de   minnelijke schikking worden volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   de bepaling onder 1° wordt vervangen als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"1°   de ambtenaren van de dienst Inspectie van het Agentschap Innoveren en   Ondernemen"<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   de bepaling onder 2° wordt opgeheven.</P>
+
+### ART. 19.
+
+Artikel 5, derde lid, van hetzelfde besluit wordt   opgeheven.
+
 ## Afdeling 8 Wijziging van het besluit van de Vlaamse Regering van 28 april 2000 tot aanwijzing van de entiteiten van de Vlaamse administratie die advies uitbrengen over een ontwerp van provinciaal ruimtelijk structuurplan
+
+### ART. 20.
+
+<P>In   artikel 1 van het besluit van de Vlaamse Regering van 28 april 2000 tot   aanwijzing van de entiteiten van de Vlaamse administratie die advies uitbrengen   over een ontwerp van provinciaal ruimtelijk structuurplan, vervangen bij het   besluit van de Vlaamse Regering van 23 juni 2006 en gewijzigd bij de besluiten   van de Vlaamse regering van 30 januari 2009 en 10 juni 2011, wordt punt 7°   vervangen door wat volgt:</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"7°   het "Agentschap Innoveren en Ondernemen";".</P>
 
 ## Afdeling 9 Wijziging van het besluit van de Vlaamse Regering van 11 mei 2001 tot aanwijzing van de instellingen en administraties die adviseren over voorontwerpen van ruimtelijke uitvoeringsplannen
 
+### ART. 21.
+
+In   artikel 2, 7°, van het besluit van de Vlaamse Regering van 11 mei 2001 tot   aanwijzing van de instellingen en administraties die adviseren over   voorontwerpen van ruimtelijke uitvoeringsplannen, gewijzigd bij de besluiten van   de Vlaamse Regering van 23 juni 2006, 30 januari 2009 en 12 juli 2013, worden de   woorden "het Agentschap Ondernemen" vervangen door de woorden "het Agentschap   Innoveren en Ondernemen".
+
 ## Afdeling 10 Wijziging van het besluit van de Vlaamse Regering van 10 oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen voor investeringen in het Vlaamse Gewest
+
+### ART. 22.
+
+<P>In artikel 1 van het besluit van de Vlaamse Regering van 10   oktober 2003 tot toekenning van steun aan kleine en middelgrote ondernemingen   voor investeringen in het Vlaamse Gewest, gewijzigd bij de besluiten van de   Vlaamse Regering van 20 juli 2006, 17 november 2006 en 30 januari 2009 en het   ministerieel besluit van 13 juni 2007, worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in punt 3° worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in punt 12° worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen".</P>
+
+### ART. 23.
+
+In artikel 22, 3°, b), van hetzelfde besluit, gewijzigd bij   de besluiten van de Vlaamse Regering van 17 december 2004, 20 juli 2006, 17   november 2006 en 30 januari 2009, worden de woorden "het Agentschap Ondernemen"   vervangen door de woorden "het Agentschap Innoveren en   Ondernemen".
 
 ## Afdeling 11 Wijziging van het besluit van de Vlaamse Regering van 12 december 2003 tot toekenning van steun aan grote ondernemingen voor investeringen in de regionale steungebieden
 
+### ART. 24.
+
+<P>In   artikel 1 van het besluit van de Vlaamse Regering van 12 december 2003 tot   toekenning van steun aan grote ondernemingen voor investeringen in de regionale   steungebieden, gewijzigd bij de besluiten van de Vlaamse Regering van 20 juli   2006 en 30 januari 2009, worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in punt 3° worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in punt 12° worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen".</P>
+
+### ART. 25.
+
+In artikel 22, 3°, b), van hetzelfde besluit, gewijzigd bij   de besluiten van de Vlaamse Regering van 17 december 2004, 20 juli 2006 en 30   januari 2009, worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen".
+
 ## Afdeling 12 Wijzigingen van het besluit van de Vlaamse Regering van 11 juni 2004 houdende het toekennen van een gewestbijdrage aan grijswaterleveranciers voor de uitbouw van grijswatercircuits ter bescherming van de kwetsbare watervoerende lagen
+
+### ART. 26.
+
+In   artikel 1, 1°, van het besluit van de Vlaamse Regering van 11 juni 2004 houdende   het toekennen van een gewestbijdrage aan grijswaterleveranciers voor de uitbouw   van grijswatercircuits ter bescherming van de kwetsbare watervoerende lagen,   vervangen bij het besluit van de Vlaamse Regering van 5 maart 2010, worden de   woorden "het Agentschap Ondernemen" vervangen door de woorden "het Agentschap   Innoveren en Ondernemen".
 
 ## Afdeling 13 Wijziging van het besluit van de Vlaamse Regering van 1 oktober 2004 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest
 
+### ART. 27.
+
+<P>In artikel 1 van het besluit van de Vlaamse Regering van 1   oktober 2004 tot toekenning van steun aan ondernemingen voor   ecologie-investeringen in het Vlaamse Gewest, gewijzigd bij de besluiten van de   Vlaamse Regering van 20 juli 2006 en 16 mei 2007, worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in punt 3° worden de woorden "het "Agentschap Economie" vervangen door de   woorden "het Agentschap Innoveren en Ondernemen";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in punt 6° worden de woorden "het Agentschap Economie" vervangen door de woorden   "het Agentschap Innoveren en Ondernemen" .</P>
+
 ## Afdeling 14 Wijzigingen van het besluit van de Vlaamse Regering van 22 oktober 2004 betreffende de erkenning en subsidiëring van regionale samenwerkingsverbanden
+
+### ART. 28.
+
+In   artikel 2 en 9, eerste lid, van het besluit van de Vlaamse Regering van 22   oktober 2004 betreffende de erkenning en subsidiëring van regionale   samenwerkingsverbanden, gewijzigd bij de besluiten van de Vlaamse Regering van   20 juli 2006 en 30 januari 2009, worden de woorden "Agentschap Ondernemen"   vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
 
 ## Afdeling 15 Wijziging van het besluit van de Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de Vlaamse administratie
 
+### ART. 29.
+
+<P>&nbsp;In artikel 21 van het besluit van de   Vlaamse Regering van 3 juni 2005 met betrekking tot de organisatie van de   Vlaamse administratie, gewijzigd bij de besluiten van de Vlaamse Regering van 24   april 2009, 13 november 2009, 20 december 2013 en 25 juli 2014, worden de   volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in paragraaf 1 worden de woorden "het Agentschap Ondernemen" vervangen door de   woorden "Agentschap Innoveren en Ondernemen";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in paragraaf 2 wordt punt 5° opgeheven.</P>
+
 ## Afdeling 16 Wijzigingen van het besluit van de Vlaamse Regering van 7 oktober 2005 aangaande het Agentschap Ondernemen
+
+### ART. 30.
+
+In   het opschrift van het besluit van de Vlaamse Regering van 7 oktober 2005   aangaande het Agentschap Ondernemen, gewijzigd bij het besluit van de Vlaamse   Regering van 30 januari 2009, wordt het woord "Ondernemen' vervangen door de   woorden "Innoveren en Ondernemen".
+
+### ART. 31.
+
+In artikel 2, § 1, eerste lid, van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009, worden de   woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
+
+### ART. 32.
+
+<P>Artikel 3 van hetzelfde besluit, vervangen bij het besluit van   de Vlaamse Regering van 30 januari 2009, wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   3. Gedreven door de noden van de ondernemingen en de economische en   maatschappelijke uitdagingen draagt het Agentschap Innoveren en Ondernemen bij   tot een versterkt klimaat van duurzame economische groei en jobcreatie in   Vlaanderen via:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het stimuleren van alle vormen van ondernemerschap;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het verhogen van het groeipotentieel en het innoverend vermogen van de Vlaamse   ondernemingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het creëren van stimulerende omgevingsfactoren voor het ondernemen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>In   het kader van de vervulling van de missie, vermeld in het eerste lid, vervult   het agentschap essentieel een regisseursrol en treedt het slechts op als actor   in complementariteit met de activiteiten van de private sector en intermediaire   organisaties."</P>
+
+### ART. 33.
+
+<P>In   artikel 4 van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse   Regering van 30 januari 2009, worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   paragraaf 1 wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"1.   Om de missie, vermeld in artikel 3, waar te maken, voert het agentschap, op het   grondgebied van het Vlaamse Gewest, de volgende taken uit:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   het informeren van ondernemers en kandidaat-ondernemers over ondernemerschap en   innovatie;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   het creëren van een cultuur van ondernemerschap en innovatie bij ondernemers en   kandidaat-ondernemers;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   het stimuleren en ondersteunen van andere bestuurslagen en beleidsdomeinen   binnen de Vlaamse overheid tot het voeren van een innovatiegericht en   ondernemingsvriendelijk beleid;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   het aansturen en organiseren van een front-office als universele toegangspoort   voor de ondernemingsvragen aan de overheid en voor specifieke vragen over het   overheidsinstrumentarium gericht op ondernemingen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   het selecteren en financieel steunen van projecten en activiteiten van   ondernemingen, maar ook van andere instellingen, organisaties en personen, ter   bevordering van het innoverend vermogen en ondernemerschap;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">6°   het regisseren en coördineren van een actief en transparant netwerk van actoren   die middelen ontvangen van het agentschap voor de uitvoering van projecten en   activiteiten ter bevordering en ondersteuning van het innoverend vermogen en   ondernemerschap in Vlaanderen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">7°   het ontwikkelen en uitvoeren van het ruimtelijk-economisch beleid, met inbegrip   van het brownfieldconvenantenbeleid en bemiddelingsopdrachten;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">8°   het coördineren en uitvoeren van de taken met betrekking tot `toegang tot het   beroep' in het algemeen en in het bijzonder de taken met betrekking tot   ondernemersvaardigheden, ambulante en kermisactiviteiten en   beenhouwer-spekslager;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">9°   het ontwikkelen en uitvoeren van een integraal handelsvestigingenbeleid,   waaronder in het bijzonder het behandelen van socio-economische   vergunningen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   het gericht faciliteren en financieel ondersteunen van de deelname aan   "ondernemings-georiënteerde" internationale programma's;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">11°   het uitvoeren van opdrachten voor de Europese Commissie, waaronder het beheer   van de EFRO-fondsen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">12°   Het Agentschap voert de promotie en draagt bij tot het belang van design en   productontwikkeling;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">13°   het administratieve en inhoudelijke en financiële beheer en de opvolging van   initiatieven en opdrachten, opgedragen door de Vlaamse Regering;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">14°   het uitvoeren van taken van beleidsondersteuning.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   Paragraaf 2 wordt vervangen als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 2. Het Agentschap beschikt over een eigen inspectiedienst die toeziet op de   correcte aanwending van de financiële stimuli en belast is met de controle en   het toezicht op en voorstelling van minnelijke schikking inzake alle   bevoegdheden toegewezen aan het Agentschap Innoveren en Ondernemen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   minister duidt de ambtenaren aan die:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   met behoud van de ambtsbevoegdheid van de officieren van de gerechtelijke   politie, bevoegd zijn om zelfs individueel de in artikel 5, 8, 9 en 11 van de   wet van 22 januari 1945 betreffende de economische reglementering en de prijzen,   gewijzigd bij de wetten van 14 januari 2002, 27 december 2005, 20 juli 2006, 29   december 2010, 3 april 2013, 20 november 2013 en 27 maart 2014, bedoelde   inbreuken op te sporen en door middel van proces-verbaal vast te   stellen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   na inzage van de processen-verbaal waarin een overtreding tegen de bepalingen   van de wet van 22 januari 1945 betreffende de economische reglementering en de   prijzen, gewijzigd bij de wetten van 14 januari 2002; 27 december 2005, 20 juli   2006, 29 december 2010, 3 april 2013, 20 november 2013 en 27 maart 2014, of haar   uitvoeringsbesluiten wordt vastgesteld en die opgemaakt zijn door de in artikel   6, § 1, van dezelfde wet bedoelde ambtenaren, aan de overtreders een som kunnen   voorstellen waarvan de betaling de strafvordering doet vervallen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   na inzage van de processen-verbaal waarin een in artikel 13, § 1, 1° tot met 5°,   van de wet van 25 juni 1993 betreffende de uitoefening en de organisatie van   ambulante en kermisactiviteiten, gewijzigd bij de wetten van 4 juli 2005, 20   juli 2006, 22 december 2009 en 21 januari 2013, bepaalde overtreding wordt   vastgesteld, en die opgemaakt zijn door de in artikel 11, § 1, van dezelfde wet,   gewijzigd bij de wet van 4 juli 2005, bedoelde ambtenaren, aan de overtreders   een som kunnen voorstellen waarvan de betaling de strafvordering doet   vervallen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   na inzage van de processen-verbaal waarin een overtreding tegen de bepalingen   van hoofdstuk I van titel II van de wet van 10 februari 1998 tot bevordering van   het zelfstandig ondernemerschap, gewijzigd bij arrest van het Arbitragehof van   29 april 1999, gewijzigd bij de wetten van 30 december 2002, 16 januari 2003, 11   mei 2003, 22 december 2003, 4 juli 2004, 28 april 2010 en 15 december 2013,   wordt vastgesteld en die opgemaakt zijn door de in artikel 15, § 1, van dezelfde   wet, gewijzigd bij wet van 11 mei 2003, bedoelde ambtenaren, aan de overtreders   een som kunnen voorstellen waarvan de betaling de strafvordering doet   vervallen;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">5°   na inzage van de processen-verbaal waarin een overtreding tegen de bepalingen   van de wet van 3 december 2005 betreffende de uitkering van een   inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van   hinder ten gevolge van werken op het openbaar domein, gewijzigd bij de wetten   van 22 december 2008 en 8 april 2010, of haar uitvoeringsbesluiten wordt   vastgesteld en die opgemaakt zijn door de in artikel 11, § 1, van dezelfde wet   bedoelde ambtenaren, aan de overtreders een som kunnen voorstellen waarvan de   betaling de strafvordering doet vervallen.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3°   paragraaf 3 tot en met 6 worden opgeheven.</P>
+
+### ART. 34.
+
+<P>Artikel 7 van hetzelfde besluit wordt vervangen door wat   volgt:</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   7. De minister stuurt het agentschap aan conform de modaliteiten, vermeld in   artikel 8 van het kaderdecreet bestuurlijk beleid van 18 juli   2003."</P>
+
+### ART. 35.
+
+Hoofdstuk V/1 Raadgevend comité, bestaande uit het opschrift   van het hoofdstuk en artikel 12/1 tot en met 12/3, ingevoegd door het besluit   van de Vlaamse Regering van 30 januari 2009, wordt   opgeheven.
 
 ## Afdeling 17 Wijziging van het besluit van de Vlaamse Regering van 10 februari 2006 tot vaststelling van de voorwaarden en de regels inzake de toekenning van subsidies voor activiteiten ter bevordering van de uitvoer door bedrijfsgroeperingen en gemengde kamers
 
+### ART. 36.
+
+In   artikel 1, 8°, van het besluit van de Vlaamse Regering van 10 februari 2006 tot   vaststelling van de voorwaarden en de regels inzake de toekenning van subsidies   voor projecten ter bevordering van de uitvoer door bedrijfsgroeperingen en   gemengde kamers, gewijzigd bij het besluit van de Vlaamse Regering van 30   januari 2009, worden de woorden "Agentschap Ondernemen" vervangen door de   woorden "Agentschap Innoveren en Ondernemen".
+
 ## Afdeling 18 Wijziging van het koninklijk besluit van 10 juni 2006 betreffende de aanstelling van de in artikel 11, § 1, eerste lid en in het artikel 6, § 2, achtste lid, van de wet van 3 december 2005 bedoelde ambtenaren betreffende de uitkering van een inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van hinder ten gevolge van werken op het openbaar domein, artikel 1
+
+### ART. 37.
+
+<P>Artikel   1 van het koninklijk besluit van 10 juni 2006 betreffende de aanstelling van de   in artikel 11, § 1, eerste lid en in het artikel 6, § 2, achtste lid, van de wet   van 3 december 2005 bedoelde ambtenaren betreffende de uitkering van een   inkomenscompensatievergoeding aan zelfstandigen die het slachtoffer zijn van   hinder ten gevolge van werken op het openbaar domein wordt vervangen door wat   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"De   ambtenaren van de dienst Inspectie van het Agentschap innoveren en Ondernemen   die aangesteld worden voor de uitvoering van inspectieopdrachten, zijn bevoegd   om de inbreuken op de bepalingen van de wet van 3 december 2005 betreffende de   uitkering van een inkomenscompensatievergoeding aan zelfstandigen die het   slachtoffer zijn van hinder ten gevolge van werken op het openbaar domein op te   sporen en vast te stellen."</P>
 
 ## Afdeling 19 Wijzigingen van het besluit van de Vlaamse Regering van 7 juli 2006 tot vaststelling van nadere regels inzake de rechtsopvolging van de gewestelijke ontwikkelingsmaatschappijen door de provinciale ontwikkelingsmaatschappijen
 
+### ART. 38.
+
+In   artikel 1 van het besluit van de Vlaamse Regering van 7 juli 2006 tot   vaststelling van nadere regels inzake de rechtsopvolging van de gewestelijke   ontwikkelingsmaatschappijen door de provinciale ontwikkelingsmaatschappijen,   gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009, worden   punt 2° en 3° opgeheven.
+
 ## Afdeling 20 Wijzigingen van het besluit van de Vlaamse Regering van 20 juli 2006 tot wijziging van de besluiten van de Vlaamse Regering die inhoudelijk betrekking hebben op de werking van het Agentschap Ondernemen
+
+### ART. 39.
+
+In   het opschrift van het besluit van de Vlaamse Regering van 20 juli 2006 tot   wijziging van de besluiten van de Vlaamse Regering die inhoudelijk betrekking   hebben op de werking van het Agentschap Ondernemen, gewijzigd bij het besluit   van de Vlaamse Regering van 30 januari 2009, worden de woorden "het Agentschap   Ondernemen" vervangen door de woorden "het Agentschap Innoveren en   Ondernemen".
+
+### ART. 40.
+
+In artikel 54/1 van hetzelfde besluit, ingevoegd bij het   besluit van de Vlaamse Regering van 30 januari 2009, worden de woorden "het   Agentschap Ondernemen" telkens vervangen door de woorden "het Agentschap   Innoveren en Ondernemen".
 
 ## Afdeling 21 Wijziging van het besluit van de Vlaamse Regering van 15 september 2006 betreffende voorwaarden van schuldherschikking in het kader van achtergestelde leningen van het Fonds Vlaanderen-Azië
 
+### ART. 41.
+
+In   artikel 1, 2°, en artikel 8 van het besluit van de Vlaamse Regering van 15   september 2006 betreffende voorwaarden van schuldherschikking in het kader van   achtergestelde leningen van het Fonds Vlaanderen-Azië, gewijzigd bij het besluit   van de Vlaamse Regering van 30 januari 2009, worden de woorden "het Agentschap   Ondernemen" vervangen door de woorden "het Agentschap Innoveren en   Ondernemen".
+
 ## Afdeling 22 Wijzigingen van het besluit van de Vlaamse Regering van 15 september 2006 voor de financiering van toegepast biomedisch onderzoek met een primair maatschappelijke finaliteit
+
+### ART. 42.
+
+<P>In   artikel 1 van het besluit van de Vlaamse Regering van 15 september 2006 voor de   financiering van toegepast biomedisch onderzoek met een primair maatschappelijke   finaliteit, gewijzigd bij het besluit van de Vlaamse Regering van 16 februari   2007, worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   punt 1° en punt 2° worden opgeheven<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   punt 3°, punt 4° en punt 5° worden vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"3°   wet op de ziekenhuizen: gecoördineerde wet van 10 juli 2008;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">4°   FWO: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap,   vermeld in artikel 15, § 2, van het decreet van 30 april 2009 betreffende de   organisatie en financiering van het wetenschaps- en innovatiebeleid, en   opgericht bij de notariële akte van 21 juni 2005 in de vorm van de   privaatrechtelijke stichting van openbaar nut Fonds voor Wetenschappelijk   Onderzoek-Vlaanderen;"<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"5°   raad van bestuur: de raad van bestuur van het FWO, vermeld in artikel 17, § 2,   van het decreet van 30 april 2009 betreffende de organisatie en financiering van   het wetenschaps- en innovatiebeleid;";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3°   punt 9° en punt 10° worden vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"9°   Vlaamse universiteit: de instellingen vermeld in artikel II.2 van de Codex Hoger   Onderwijs van 11 oktober 2013;<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">10°   Vlaamse hogeschool: de instellingen vermeld in artikel II.3 van de Codex Hoger   Onderwijs van 11 oktober 2013;".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>4°   in punt 14° en 17° wordt het woord "IWT" telkens vervangen door het woord   "FWO".</P>
+
+### ART. 43.
+
+In artikel 5, derde lid, artikel 8, eerste en vierde lid,   artikel 10, 13, 14, 19, 22, 23, 24, eerste lid, artikel 25, 26, derde en vierde   lid, artikel 27 en 28, eerste, tweede en vierde lid, van hetzelfde besluit wordt   het woord "IWT" telkens vervangen door het woord "FWO".
 
 ## Afdeling 23 Wijzingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van ambulante activiteiten, artikel 45 en 49, derde lid,
 
+### ART. 44.
+
+In   artikel 45 van het koninklijk besluit van 24 september 2006 betreffende de   uitoefening en de organisatie van ambulante activiteiten worden de woorden "De   ambtenaren en de beambten aangesteld door de Algemene Directie Controle en   Bemiddeling van de Federale Overheidsdienst Economie, K.M.O., Middenstand en   Energie" vervangen door de woorden "De ambtenaren van de dienst Inspectie van   het Agentschap Innoveren en Ondernemen".
+
+### ART. 45.
+
+Artikel 49, derde lid, van hetzelfde besluit wordt   opgeheven.
+
 ## Afdeling 24 Wijzigingen van het koninklijk besluit van 24 september 2006 betreffende de uitoefening en de organisatie van kermisactiviteiten en ambulante activiteiten in kermisgastronomie, artikel 25 en 29, derde lid,
+
+### ART. 46.
+
+In   artikel 25 van het koninklijk besluit van 24 september 2006 betreffende de   uitoefening en de organisatie van kermisactiviteiten en ambulante activiteiten   in kermisgastronomie worden de woorden "De ambtenaren en beambten aangesteld   door de Algemene Directie Controle en Bemiddeling van de Federale   Overheidsdienst Economie, K.M.O., Middenstand en Energie" vervangen door de   woorden "De ambtenaren van de dienst Inspectie van het Agentschap Innoveren en   Ondernemen".
+
+### ART. 47.
+
+Artikel 29, derde lid, van hetzelfde besluit wordt   opgeheven.
 
 ## Afdeling 25 Wijzigingen van het besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen
 
+### ART. 48.
+
+In   artikel 1, 4°, en artikel 4, tweede lid, van het besluit van de Vlaamse Regering   van 11 mei 2007 houdende subsidiëring van bedrijvencentra en doorgangsgebouwen,   gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009, worden de   woorden "het Agentschap Ondernemen" vervangen door de woorden "het Agentschap   Innoveren en Ondernemen".
+
 ## Afdeling 26 Wijzigingen van het besluit van de Vlaamse Regering van 6 juli 2007 tot uitvoering van het decreet van 7 juli 2006 houdende toekenning van een rentetoelage voor ondernemingen die lijden onder de verstoorde bereikbaarheid ten gevolge van hinder door openbare werken
+
+### ART. 49.
+
+In   artikel 10, 17, § 2, en artikel 20, tweede lid, van het besluit van de Vlaamse   Regering van 6 juli 2007 tot uitvoering van het decreet van 7 juli 2006 houdende   toekenning van een rentetoelage voor ondernemingen die lijden onder de   verstoorde bereikbaarheid ten gevolge van hinder door openbare werken, gewijzigd   bij het besluit van de Vlaamse Regering van 23 januari 2009, worden de woorden   "Agentschap Ondernemen" telkens vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
+
+### ART. 50.
+
+In artikel 11 en 15, eerste lid, van hetzelfde besluit,   vervangen bij het besluit van de Vlaamse Regering van 17 december 2010, worden   de woorden "Agentschap Ondernemen" telkens vervangen door de woorden "Agentschap   Innoveren en Ondernemen".
+
+### ART. 51.
+
+In artikel 19bis, eerste lid, van hetzelfde besluit,   ingevoegd bij het besluit van de Vlaamse Regering van 23 januari 2009, worden de   woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
 
 ## Afdeling 27. Wijzigingen van het besluit van de Vlaamse Regering van 7 september 2007 betreffende de informatieplichten in het kader van Brownfieldconvenanten
 
+### ART. 52.
+
+In   artikel 2, eerste lid, 1°, van het besluit van de Vlaamse Regering van 7   september 2007 betreffende de informatieplichten in het kader van   Brownfieldconvenanten, gewijzigd bij het besluit van de Vlaamse Regering van 30   januari 2009, worden de woorden "Agentschap Ondernemen" vervangen door de   woorden "Agentschap Innoveren en Ondernemen".
+
+### ART. 53.
+
+In het opschrift van hoofdstuk 3 van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009, worden de   woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
+
+### ART. 54.
+
+In artikel 3, § 1, eerste lid en § 2, van hetzelfde besluit,   gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009, worden de   woorden " Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren   en Ondernemen".
+
 ## Afdeling 28. Wijziging van het besluit van de Vlaamse Regering van 15 februari 2008 tot oprichting van een stuurgroep van de provinciale ontwikkelingsmaatschappijen
+
+### ART. 55.
+
+In   artikel 3, § 1, 6°, en in artikel 3, § 2, van het besluit van de Vlaamse   Regering van 15 februari 2008 tot oprichting van een stuurgroep van de   provinciale ontwikkelingsmaatschappijen, gewijzigd bij het besluit van de   Vlaamse Regering van 30 januari 2009, worden de woorden "Agentschap Ondernemen"   telkens vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
 
 ## Afdeling 29. Wijzigingen van het besluit van de Vlaamse Regering van 22 februari 2008 tot toekenning van strategische investerings- en opleidingssteun aan ondernemingen in het Vlaamse Gewest
 
+### ART. 56.
+
+&nbsp;In artikel 1, 4° en 10°, van het   besluit van de Vlaamse Regering van 22 februari 2008 tot toekenning van   strategische investerings- en opleidingssteun aan ondernemingen in het Vlaamse   Gewest, gewijzigd bij het besluit van de Vlaamse Regering van 30 januari 2009,   worden de woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap   Innoveren en Ondernemen".
+
+### ART. 57.
+
+In artikel 45, § 1, 3°, b), van hetzelfde besluit, vervangen   bij het besluit van de Vlaamse Regering van 17 december 2010, worden de woorden   "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
+
 ## Afdeling 30. Wijzigingen van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten
+
+### ART. 58.
+
+In   artikel 1, 7°, van het besluit van de Vlaamse Regering van 19 december 2008 tot   toekenning van steun aan kleine en middelgrote ondernemingen voor   ondernemerschapsbevorderende diensten, gewijzigd bij het besluit van de Vlaamse   Regering van 30 januari 2009, worden de woorden "Agentschap Ondernemen"   vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
+
+### ART. 59.
+
+In artikel 31, eerste lid, van hetzelfde besluit, vervangen   bij het besluit van de Vlaamse Regering van 26 april 2013, worden de woorden   "Agentschap Ondernemen" vervangen door de woorden "Agentschap Innoveren en   Ondernemen".
 
 ## Afdeling 31. Wijzigingen van het besluit van de Vlaamse Regering van 24 april 2009 tot toekenning van steun aan projecten ter bevordering van het ondernemerschap
 
+### ART. 60.
+
+In   artikel 1, 3°, artikel 14, 15, § 2, in artikel 18, tweede lid, artikel 19,   eerste lid, artikel 20, eerste lid, artikel 23, eerste lid, 2°, en tweede lid,   en artikel 24 van het besluit van de Vlaamse Regering van 24 april 2009 tot   toekenning van steun aan projecten ter bevordering van het ondernemerschap   worden de woorden "Agentschap Ondernemen" vervangen door de woorden "Agentschap   Innoveren en Ondernemen".
+
 ## Afdeling 32. Wijzigingen van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling van de toekenning van doctoraatsbeurzen voor de uitvoering van projecten van strategisch basisonderzoek
+
+### ART. 61.
+
+<P>In   artikel 1 van het besluit van de Vlaamse Regering van 29 mei 2009 tot regeling   van de toekenning van doctoraatsbeurzen voor de uitvoering van projecten van   strategisch basisonderzoek worden de volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   punt 1° wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"1°   FWO: het privaatrechtelijk vormgegeven extern verzelfstandigd agentschap,   vermeld in artikel 15, § 2, van het decreet van 30 april 2009 betreffende de   organisatie en financiering van het wetenschaps- en innovatiebeleid, en   opgericht bij de notariële akte van 21 juni 2005 in de vorm van de   privaatrechtelijke stichting van openbaar nut Fonds voor Wetenschappelijk   Onderzoek - Vlaanderen;";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in punt 2° wordt het woord "IWT" vervangen door het woord "FWO";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3°   punt 6° wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"6°   onderzoekscentrum: een organisatie voor onderzoek en kennisverspreiding als   vermeld in artikel 2, punt 83 van de verordening (EU) nr. 651/2014 van de   Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de   artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden   verklaard.'.</P>
+
+### ART. 62.
+
+In artikel 2, § 1 en § 2, artikel 8, artikel 14, 16, 17,   eerste lid, en artikel 18 van hetzelfde besluit wordt het woord "IWT" telkens   vervangen door het woord "FWO".
+
+### ART. 63.
+
+<P>Artikel   4 van hetzelfde besluit wordt vervangen door wat volgt:</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   4. De aanvragers moeten houder zijn van een diploma dat minstens evenwaardig is   aan een Master-diploma dat aansluit op een Bachelordiploma en uitgereikt werd in   België. Buitenlandse diploma's dienen als gelijkwaardig te worden erkend met een   Vlaams Master-diploma overeenkomstig de Codex Hoger Onderwijs van 11 oktober   2013, de Europese richtlijnen of een bilateraal   akkoord.".</P>
+
+### ART. 64.
+
+<P>Artikel 7 van hetzelfde besluit wordt vervangen door wat   volgt:</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   7. De Raad van Bestuur van het FWO legt in een uitvoerend reglement de nadere   regels vast betreffende de vorm en de inhoud, de behandeling en selectie van de   beursaanvragen, binnen de selectievoorwaarden vastgelegd in dit   besluit."</P>
+
+### ART. 65.
+
+<P>Artikel   9 van hetzelfde besluit wordt vervangen door wat volgt:</P>  <P><BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   9. De voorwaarden en bepalingen voor toekenning en behoud van de beurs die de   raad van bestuur, binnen de beperkingen naar toelatings- en selectievoorwaarden   vastgelegd in dit besluit, heeft bepaald worden opgenomen in een overeenkomst   die het FWO sluit met de bursaal. Het betreft een typeovereenkomst, goedgekeurd   door de raad van bestuur. De beurs gaat van start op 1 januari van hetzelfde   academiejaar. De beurs wordt beëindigd van zodra de bursaal deze voorwaarden   niet meer naleeft. Indien de bursaal zijn doctoraatsproefschrift heeft verdedigd   voor het einde van de termijn, loopt de beurs toch door tot het einde van de   termijn.</P>
+
+### ART. 66.
+
+<P>Artikel 10 van hetzelfde besluit wordt vervangen door wat   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"De   doctoraatsbeurzen voor strategisch basisonderzoek worden toegekend als twee   aaneensluitende beurstermijnen van twee jaar. In de loop van de eerste   beurstermijn dient de bursaal bij het beslissingscomité bij het Hermesfonds voor   beurzen gestart voor 1/1/2016 en bij de raad van bestuur van het FWO voor   beurzen gestart na 1/1/2016 een beursaanvraag voor een 2e beurstermijn in, samen   met een voortgangsverslag en het advies van de promotor over de aangevraagde   verlenging van de beurs. Op basis van deze documenten beslist het   beslissingscomité bij het Hermesfonds voor beurzen gestart voor 1/1/2016 en de   raad van bestuur van het FWO voor beurzen gestart na 1/1/2016 over de toekenning   van de tweede beurstermijn. Bij deze beslissing volgt het beslissingscomité bij   het Hermesfonds of de raad van bestuur van het FWO het advies van de promotor   maar heeft het beslissingscomité bij het Hermesfonds of de raad van bestuur van   het FWO het recht om promotor en/of bursaal op gelijk welk ogenblik op te roepen   om toelichtingen te verschaffen over het verloop van de   doctoraatswerkzaamheden.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   bursaal heeft het recht, ongeacht het advies van de promotor, om het   beslissingscomité bij het Hermesfonds of de raad van bestuur van het FWO te   verzoeken voor een commissie van externe deskundigen te kunnen verschijnen voor   de verdediging van zijn beursaanvraag.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Het   oordeel over al dan niet toekenning van de beursverlenging van de commissie   heeft steeds voorrang op het advies van de promotor."</P>
+
+### ART. 67.
+
+<P>Artikel   11 van hetzelfde besluit wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"Art.   11. Jaarlijks vóór 1 oktober stelt het beslissingscomité bij het Hermesfonds   voor wat betreft de overeenkomsten afgesloten voor 1 januari 2016 de nieuwe   bedragen van de doctoraatsbeurzen eerste en tweede beurstermijn voor het komende   academiejaar vast zodat de globale evolutie van hun nettobedrag gelijke tred   houdt met de globale evolutie van het netto-salaris van de leden van het   assisterend academisch personeel van de universiteiten in de Vlaamse   Gemeenschap. Het beslissingscomité bij het Hermesfonds houdt rekening met het   indexcijfer van de salarissen van het assisterend academisch personeel op 1   oktober (WB1).<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Van   het netto-bedrag van de beurs wordt per maand een bedrag van 24,79 euro   ingehouden. Het gecumuleerde bedrag van deze inhoudingen wordt uitbetaald aan de   bursaal in de vorm van een premie indien de betrokken bursaal zijn   doctoraatsproefschrift heeft verdedigd voor de afloop van de tweede beurstermijn   of binnen de zes maanden na het einde van de tweede beurstermijn.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Voor   de beurzen die starten vanaf 1 januari 2016 via het FWO is het bedrag van de   beurs beperkt tot het nettoloon dat de begunstigde zou ontvangen als assistent   aan een universiteit van de Vlaamse Gemeenschap (salarisschalen van toepassing   op het Assisterend Academisch Personeel van de universiteiten in de Vlaamse   Gemeenschap volgens het Besluit van de Vlaamse Regering van 4 mei 2011). De   beurs wordt aangepast aan de toegekende geldelijke anciënniteit van de   betrokkene. De beurs houdt rekening met de gezinstoestand en is onderworpen aan   de Sociale Zekerheid. Het vakantiegeld en de eindejaarstoelage stemt overeen met   het vakantiegeld en de eindejaarstoelage dat de begunstigde zou ontvangen als   een assistent aan een universiteit van de Vlaamse   Gemeenschap.".</P>
+
+### ART. 68.
+
+<P>In   artikel 12 van hetzelfde besluit worden volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in paragraaf 2 worden de woorden "de raad van bestuur van het IWT" vervangen   door de woorden "het beslissingscomité bij het Hermesfonds";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in paragraaf 4, tweede lid wordt het woord `IWT" vervangen door de woorden "het   beslissingscomité bij het Hermesfonds";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>3°   paragraaf 6 wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 6. De gemachtigde van de universiteit verklaart er zich tevens toe bereid om   tegenover het beslissingscomité bij het Hermesfonds of zijn aangestelde de   toepassing van de gebruiksvoorwaarden, vermeld in voorgaande paragraaf, te   bewijzen volgens de modaliteiten die het beslissingscomité bij het Hermesfonds   per universiteit bepaalt.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>4°   paragraaf 7 wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 7. Indien het beslissingscomité bij het Hermesfonds vaststelt dat aan de   voorwaarden, vermeld in paragraaf 5, 1° niet is voldaan zal de universiteit zich   onmiddellijk in regel stellen met dit voorschrift voor alle projecten die op dat   ogenblik lopen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Indien   blijkt dat niet aan de voorwaarden, vermeld in paragraaf 5, 2° en 3°, wordt   voldaan, zal de aanrekening op de projectkostenvergoeding van elk op dat   ogenblik lopend project beperkt worden tot de betalingen op de originele   facturen van de leveranciers, die de terechte aanrekening als specifieke uitgave   voor het project kunnen verantwoorden en betaalt de universiteit aan het   Hermesfonds voor elk project het verschil terug tussen die aanrekeningen en de   ontvangen projectkostenvergoedingen.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>5°   paragraaf 8 wordt vervangen door wat volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 8. In geval de universiteit niet meewerkt aan de bewijsregeling, vermeld in   paragraaf 6 of in gebreke blijft ten opzichte van de regeling, vermeld in   paragraaf 7, kan het beslissingscomité bij het Hermesfonds de verdere   uitbetaling van de projectkostenvergoeding geheel of gedeeltelijk opschorten   voor alle of een gedeelte van de lopende projecten bij die   universiteit.";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>6°   er wordt een paragraaf 11 ingevoegd dat luidt als volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>"   § 11. Voor de beurzen die starten vanaf 1 januari 2016 via het FWO gelden   paragraaf 1 tot en met 10 niet. De begunstigde van de beurs toegekend vanaf 1   januari 2016 ontvangt een werkingstoelage. De Raad van Bestuur van het FWO legt   de modaliteiten vast in een intern reglement.".</P>
+
+### ART. 69.
+
+In artikel 6, tweede lid, en artikel 10, tweede lid, derde   lid, vierde lid en zesde lid, van de bijlage bij hetzelfde besluit wordt het   woord "IWT" vervangen door het woord "FWO".
 
 ## Afdeling 33. Wijzigingen van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest
 
+### ART. 70.
+
+In   artikel 1, 6° en 21°, van het besluit van de Vlaamse Regering van 17 december   2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in   het Vlaamse Gewest worden de woorden "Agentschap Ondernemen" vervangen door de   woorden "Agentschap Innoveren en Ondernemen".
+
 ## Afdeling 34. Wijzigingen van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest
+
+### ART. 71.
+
+In   artikel 1, 21°, artikel 26, 27, 28, 29, eerste lid, en artikel 43, eerste lid,   van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van   steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse   Gewest worden de woorden "Agentschap Ondernemen" vervangen door de woorden   "Agentschap Innoveren en Ondernemen".
 
 ## Afdeling 35. Wijzigingen van het besluit van de Vlaamse Regering van 9 november 2012 tot toekenning van steun aan audiovisuele werken van het type lange fictie-, documentaire- of animatiefilm, of van animatiereeksen
 
+### ART. 72.
+
+In   artikel 1, 1°, artikel 6, derde lid, artikel 14, § 1 en § 3, artikel 18, vierde   lid, artikel 19, 3°, b), en artikel 21, derde lid, van het besluit van de   Vlaamse Regering van 9 november 2012 tot toekenning van steun aan audiovisuele   werken van het type lange fictie-, documentaire- of animatiefilm, of van   animatiereeksen worden de woorden "Agentschap Ondernemen" vervangen door de   woorden "Agentschap Innoveren en Ondernemen".
+
 ## Afdeling 36. Wijzigingen in het besluit van de Vlaamse Regering van 24 mei 2013 houdende subsidiëring van bedrijventerreinen
+
+### ART. 73.
+
+<P>In   artikel 1 van het besluit van de Vlaamse Regering van 24 mei 2013 houdende   subsidiëring van bedrijventerreinen worden de volgende wijzigingen   aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>1°   in punt 1° worden de woorden "Agentschap Ondernemen" vervangen door de woorden   "Agentschap Innoveren en Ondernemen";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>2°   in punt 2° worden de woorden "Agentschap Ondernemen" vervangen door de woorden   "Agentschap Innoveren en Ondernemen".</P>
 
 ## Afdeling 37. Wijzigingen van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest
 
