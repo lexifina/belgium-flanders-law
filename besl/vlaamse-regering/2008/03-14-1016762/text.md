@@ -10,7 +10,7 @@ De Vlaamse Regering,<br /><br />Gelet op het kaderdecreet bestuurlijk beleid van
 
 ### ART. 1.
 
-Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende de vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, is dit besluit van toepassing op het personeel van Bloso.
+Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende de vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid, is dit besluit van toepassing op het personeel van Sport Vlaanderen.
 
 ## Hoofdstuk 2 Algemene bepalingen
 
@@ -18,7 +18,7 @@ Onverminderd de bepalingen van het besluit van de Vlaamse Regering van 13 januar
 
 In aanvulling op artikel 12 van het Vlaams Personeelsstatuut wordt voor de toepassing van dit besluit verstaan onder :<br>
 1° VPS : het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse overheid;<br>
-2° het agentschap : Bloso.
+2° het agentschap : Sport Vlaanderen.
 
 ## DEEL II DE ADMINISTRATIEVE LOOPBAAN
 
@@ -26,7 +26,15 @@ In aanvulling op artikel 12 van het Vlaams Personeelsstatuut wordt voor de toepa
 
 ### ART. 3.
 
-§ 1. Onder de ambtenaren van rang A1 van het agentschap kunnen tijdelijk centrumverantwoordelijken en provinciale inspecteurs worden aangesteld. De lijnmanager duidt deze functiehouders aan.<br /><br />§ 2. De duur van de tijdelijke aanstelling bedraagt maximum zes jaar, meermaals verlengbaar met dezelfde duur. De verlenging gebeurt stilzwijgend.<br /><br />§ 3. De te begeven functies, de voorwaarden voor de tijdelijke aanstelling en de wijze waarop zij hun interesse kunnen kenbaar maken, worden meegedeeld aan alle in aanmerking komende ambtenaren.<br /><br />§ 4. Alleen de ambtenaar die beantwoordt aan de functiebeschrijving en het competentieprofiel van de functie waarvoor hij zich kandidaat stelt kan als centrumverantwoordelijke of provinciaal inspecteur worden aangesteld. De functiebeschrijving en het competentieprofiel worden vastgesteld door de lijnmanager, na advies van het managementcomité van het Bloso.<br /><br />§ 5. De beslissing tot aanwijzing omvat de omschrijving, de begindatum en de motivering van de tijdelijke aanstelling.
+§ 1. Onder de ambtenaren van rang A1 van het agentschap kunnen tijdelijk centrumverantwoordelijken en provinciale inspecteurs worden aangesteld. De lijnmanager duidt deze functiehouders aan.<br>
+<br>
+§ 2. De duur van de tijdelijke aanstelling bedraagt maximum zes jaar, meermaals verlengbaar met dezelfde duur. De verlenging gebeurt stilzwijgend.<br>
+<br>
+§ 3. De te begeven functies, de voorwaarden voor de tijdelijke aanstelling en de wijze waarop zij hun interesse kunnen kenbaar maken, worden meegedeeld aan alle in aanmerking komende ambtenaren.<br>
+<br>
+§ 4. Alleen de ambtenaar die beantwoordt aan de functiebeschrijving en het competentieprofiel van de functie waarvoor hij zich kandidaat stelt kan als centrumverantwoordelijke of provinciaal inspecteur worden aangesteld. De functiebeschrijving en het competentieprofiel worden vastgesteld door de lijnmanager, na advies van het managementcomité van Sport Vlaanderen.<br>
+<br>
+§ 5. De beslissing tot aanwijzing omvat de omschrijving, de begindatum en de motivering van de tijdelijke aanstelling.
 
 ### ART. 4.
 
@@ -40,7 +48,13 @@ De personeelsleden die op 17 februari 2006 met een arbeidsovereenkomst van onbep
 
 ### ART. 6.
 
-De personeelsleden van het agentschap die vóór 17 februari 2006 tot centrumverantwoordelijke of provinciaal inspecteur zijn aangesteld, behouden hun tijdelijke aanstelling.<br /><br />De aanstelling van de personeelsleden bedoeld in het eerste lid wordt echter ambtshalve beëindigd bij een functioneringsevaluatie die met onvoldoende wordt besloten of bij een beslissing tot loopbaanvertraging.<br /><br />De lijnmanager kan eveneens een einde stellen aan de tijdelijke aanstelling van de personeelsleden bedoeld in het eerste lid hetzij om functionele redenen, hetzij op vraag van het personeelslid zelf.<br /><br />In dit geval wordt voor het betrokken personeelslid een gepaste dienstaanwijzing vastgesteld door de lijnmanager, na advies van het managementcomité van het Bloso.
+De personeelsleden van het agentschap die vóór 17 februari 2006 tot centrumverantwoordelijke of provinciaal inspecteur zijn aangesteld, behouden hun tijdelijke aanstelling.<br>
+<br>
+De aanstelling van de personeelsleden bedoeld in het eerste lid wordt echter ambtshalve beëindigd bij een functioneringsevaluatie die met onvoldoende wordt besloten of bij een beslissing tot loopbaanvertraging.<br>
+<br>
+De lijnmanager kan eveneens een einde stellen aan de tijdelijke aanstelling van de personeelsleden bedoeld in het eerste lid hetzij om functionele redenen, hetzij op vraag van het personeelslid zelf.<br>
+<br>
+In dit geval wordt voor het betrokken personeelslid een gepaste dienstaanwijzing vastgesteld door de lijnmanager, na advies van het managementcomité van Sport Vlaanderen.
 
 ## DEEL III DE VERLONING
 
@@ -48,7 +62,7 @@ De personeelsleden van het agentschap die vóór 17 februari 2006 tot centrumver
 
 ### ART. 7.
 
-§ 1. Aan de ambtenaren die tijdelijk aangesteld worden als centrumverantwoordelijke in een Bloso-centrum wordt een jaarlijkse toelage van 3.842,35 euro (100 %) toegekend.<br>
+§ 1. Aan de ambtenaren die tijdelijk aangesteld worden als centrumverantwoordelijke in een eigen centrum van Sport Vlaanderen wordt een jaarlijkse toelage van 3.842,35 euro (100 %) toegekend.<br>
 <br>
 § 2. De toelage is gekoppeld aan het gezondheidsindexcijfer overeenkomstig de regeling vastgesteld in artikel VII 9 van het Vlaams personeelsstatuut.
 
