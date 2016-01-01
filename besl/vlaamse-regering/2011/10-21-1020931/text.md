@@ -42,7 +42,16 @@ Als een instantie de uitvoering van haar taak van algemeen belang geheel of gede
 
 ### ART. 8.
 
-§ 1. De toegang tot en het gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI en in eigendom van een deelnemer is kosteloos in de volgende gevallen : <br />1° voor de hulp -en nooddiensten, zoals politie, brandweer, spoeddiensten en civiele crisiscentra;<br />2° wanneer het Agentschap voor Geografische Informatie Vlaanderen hieromtrent een overeenkomst, in uitvoering van artikel 13, § 2 van het GDI-decreet van 20 februari 2009, heeft afgesloten; <br />3° wanneer de Vlaamse Regering hieromtrent een overeenkomst, in uitvoering van artikel 16 of 17 van het GDI-decreet van 20 februari 2009, heeft afgesloten. <br /><br />§ 2. Buiten de gevallen, vermeld in paragraaf 1, 1°, 2° en 3°, kan de toegang tot en het gebruik door instanties van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI afhankelijk worden gemaakt van de betaling van een vergoeding. <br /><br />Overeenkomstig artikel 19, § 2, derde lid, eerste zin van het GDI-decreet van 20 februari 2009 bestaan de vergoedingen uit het minimumbedrag dat nodig is om de noodzakelijke kwaliteit en beschikbaarheid te garanderen, eventueel vermeerderd met een redelijk rendement op de investering.<br /><br />§ 3. Als een vergoeding wordt gevraagd, moet de berekeningswijze van de vergoeding en de factoren die bij de berekening in aanmerking worden genomen, worden gespecificeerd.
+§ 1. De toegang tot en het gebruik van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI en in eigendom van een deelnemer is kosteloos in de volgende gevallen :<br>
+1° voor de hulp -en nooddiensten, zoals politie, brandweer, spoeddiensten en civiele crisiscentra;<br>
+2° wanneer het agentschap&nbsp;hieromtrent een overeenkomst, in uitvoering van artikel 13, § 2 van het GDI-decreet van 20 februari 2009, heeft afgesloten;<br>
+3° wanneer de Vlaamse Regering hieromtrent een overeenkomst, in uitvoering van artikel 16 of 17 van het GDI-decreet van 20 februari 2009, heeft afgesloten.<br>
+<br>
+§ 2. Buiten de gevallen, vermeld in paragraaf 1, 1°, 2° en 3°, kan de toegang tot en het gebruik door instanties van geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI afhankelijk worden gemaakt van de betaling van een vergoeding.<br>
+<br>
+Overeenkomstig artikel 19, § 2, derde lid, eerste zin van het GDI-decreet van 20 februari 2009 bestaan de vergoedingen uit het minimumbedrag dat nodig is om de noodzakelijke kwaliteit en beschikbaarheid te garanderen, eventueel vermeerderd met een redelijk rendement op de investering.<br>
+<br>
+§ 3. Als een vergoeding wordt gevraagd, moet de berekeningswijze van de vergoeding en de factoren die bij de berekening in aanmerking worden genomen, worden gespecificeerd.
 
 ## HOOFDSTUK V. Beëindiging van de toegang en gebruik
 
