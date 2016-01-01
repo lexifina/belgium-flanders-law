@@ -8,27 +8,31 @@ Binnen het Vlaams Ministerie van [Welzijn, Volksgezondheid en Gezin  <span class
 
 ### ART. 2.
 
-Het agentschap heeft als missie voorwaarden te scheppen om het welzijn en de gezondheid van de huidige en toekomstige Vlaamse bevolking te bevorderen, te behoeden, of te herstellen met het oog op een optimaal welzijns- en gezondheidsniveau van de burger.
+Het agentschap heeft als missie om samen te werken met alle belanghebbenden aan een betere zorg en meer gezondheid. Het agentschap voert zijn missie uit door:<br>
+1° mensen te stimuleren om gezond te leven, hen te beschermen tegen besmettelijke ziektes of een ongezond milieu en aandoeningen sneller op te sporen of te voorkomen;<br>
+2° de uitbouw te bevorderen van kwaliteitsvolle zorg door voorzieningen en zorgverstrekkers;<br>
+3° relevante gegevens te produceren en beschikbaar te stellen om het beleid en de samenleving te ondersteunen.
 
 ### ART. 3.
 
 Het agentschap heeft tot taak:<br>
-1° de programmatie, erkenning en subsidiëring van voorzieningen die vallen binnen de categorieën ouderenzorg, algemene gezondheidszorg en geestelijke gezondheidszorg in het beleidsdomein beleidsdomein Welzijn, Volksgezondheid en Gezin, met uitzondering van diensten voor pleegzorg als bedoeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
-2° in het kader van de uitvoering van het preventieve gezondheidsbeleid:<br>
-a) het opzetten en uitvoeren van projecten en programma's;<br>
-b) het erkennen en subsidiëren van initiatieven voor de uitvoering van projecten en programma's;<br>
-c) de coördinatie en opvolging van vaccinatieprogramma's, en de profylaxe van infectieziekten;<br>
+1° de taken van beleid met betrekking tot de persoonsgebonden aangelegenheden op het vlak van het gezondheidsbeleid, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, met inbegrip van de prijsbepaling in de oudereninstellingen en met uitzondering van:<br>
+a) de investeringskosten voor de infrastructuur en de medisch-technische diensten van de ziekenhuizen;<br>
+b) het medisch schooltoezicht;<br>
+c) de medisch verantwoorde sportbeoefening;<br>
+d) de diensten voor pleegzorg, vermeld in artikel 7 van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg;<br>
+e) de taken van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden, vermeld in het decreet van 2 juni 2006 tot omvorming van het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden tot een intern verzelfstandigd agentschap met rechtspersoonlijkheid, en tot wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
+f) de taken van de openbare psychiatrische zorgcentra Geel en Rekem, vermeld in het decreet van 30 april 2004 tot oprichting van de publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen Openbaar Psychiatrisch Zorgcentrum Geel en Openbaar Psychiatrisch Zorgcentrum Rekem;<br>
+2° de taken van beleid met betrekking tot de persoonsgebonden aangelegenheden op het vlak van de bijstand aan personen, vermeld in artikel 5, § 1, II, 5°, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
 3° in het kader van de volksgezondheid het uitvoeren van inspecties, de advisering over milieuvergunningen en het behandelen van klachten en incidenten;<br>
 4° het beheren van het Vlaams Zorgfonds;<br>
 5° het ter beschikking stellen van personeel aan de zorgkas, vermeld in artikel 14, derde lid, van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering.<br>
 <br>
-Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.<br>
-<br>
-De voorzieningen, bedoeld in het eerste lid, 1°, zijn de voorzieningen die door het agentschap kunnen worden erkend, geattesteerd, vergund en/of gesubsidieerd of anderszins ondersteund of zich bij het agentschap moeten melden.
+Het agentschap kan infrastructuur en uitrusting ter beschikking stellen van de zorgkas, vermeld in het eerste lid, 5°.
 
 ### ART. 4.
 
-Overeenkomstig artikel 9, § 1er, 1°, van het Kaderdecreet bestuurlijk beleid van 18 juli 2003, regelt de beheersovereenkomst de concretisering van de kwalitatieve en kwantitatieve wijze waarop het agentschap zijn taken moet vervullen, met strategische en operationele doelstellingen, beschreven aan de hand van meetbare criteria.
+...
 
 ### ART. 5.
 
@@ -58,7 +62,7 @@ Het agentschap ressorteert onder het hiërarchisch gezag van de minister.
 
 ### ART. 11.
 
-De minister stuurt het agentschap aan, inzonderheid via de beheersovereenkomst.
+De minister stuurt het agentschap aan.
 
 ### ART. 12.
 
@@ -68,21 +72,37 @@ Het hoofd van het agentschap is belast met de algemene leiding, de werking en de
 
 ### ART. 13.
 
-Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid   voor de aangelegenheden die zijn vastgesteld in het besluit van de Vlaamse   regering van 10 oktober 2003 tot regeling van de delegatie van   beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde   agentschappen van de Vlaamse overheid.<BR><BR>Met betrekking tot de in het   eerste lid vermelde aangelegenheden worden aan het hoofd van het agentschap   volgende aanvullende delegaties verleend:<BR>1° het verlenen van   gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt in   hoofde van de mogelijke begunstigden;<BR>2° het afleveren van attesten of   verklaringen die betrekking hebben op de aanvragen tot erkenning of de erkenning   van voorzieningen in de sectoren die onder zijn bevoegdheid   ressorteren.<BR><BR>De algemene delegatie aan het hoofd van het agentschap   betreffende de toezichts-, controle- en inspectietaken, bedoeld in artikel 16,   6° van het in het eerste lid bedoelde besluit, wordt, in uitvoering van artikel   17 van het in het eerste lid bedoelde besluit, beperkt tot:<BR>1° de taken   vermeld in artikel 3, eerste lid, 3°;<BR>2° de taken die niet uitgeoefend worden   door Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin,   vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering   van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin,   betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen   in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de   wijziging van regelgeving met betrekking tot dat beleidsdomein.
+Het hoofd van het agentschap heeft delegatie van beslissingsbevoegdheid voor de aangelegenheden die zijn vastgesteld in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen.<br>
+<br>
+Met betrekking tot de in het eerste lid vermelde aangelegenheden worden aan het hoofd van het agentschap volgende aanvullende delegaties verleend:<br>
+1° het verlenen van gereglementeerde subsidies waarvoor de reglementering geen vast recht instelt in hoofde van de mogelijke begunstigden;<br>
+2° het afleveren van attesten of verklaringen die betrekking hebben op de aanvragen tot erkenning of de erkenning van voorzieningen in de sectoren die onder zijn bevoegdheid ressorteren.<br>
+<br>
+De algemene delegatie aan het hoofd van het agentschap betreffende de toezichts-, controle- en inspectietaken, vermeld in artikel 17, eerste lid, 6°, van het voormelde besluit, wordt, ter uitvoering van artikel 18 van het voormelde besluit, beperkt tot:<br>
+1° de taken vermeld in artikel 3, eerste lid, 3°;<br>
+2° de taken die niet uitgeoefend worden door Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ### ART. 14.
 
-Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden aan het hoofd van het agentschap volgende specifieke delegaties verleend:<br />1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br />2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een maximum bedrag van 150.000 euro;<br />3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br />4° het afleveren van inschrijvingsbewijzen aan het verzorgend personeel van de diensten voor gezinszorg en aanvullende thuiszorg; <br />5° het beheren van het Vlaams Zorgfonds;<br />6° ...
+Naast de delegaties betreffende de aangelegenheden bedoeld in artikel 13, worden aan het hoofd van het agentschap volgende specifieke delegaties verleend:<br>
+1° het verlenen van afwijkingen inzake brandveiligheidsnormen en erkenningsnormen;<br>
+2° het verlenen van niet-gereglementeerde subsidies, die niet nominatim in de begroting zijn vermeld, tot een&nbsp;maximaal bedrag van 150.000 euro;<br>
+3° het verlenen van subsidies die nominatim in de begroting zijn vermeld;<br>
+4° het afleveren van inschrijvingsbewijzen aan het verzorgend personeel van de diensten voor gezinszorg en aanvullende thuiszorg;<br>
+5° het beheren van het Vlaams Zorgfonds;<br>
+6° ...
 
 ### ART. 15.
 
-Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, zoals vervat in het besluit van de Vlaamse regering van 10 oktober 2003 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.<br /><br />Daarnaast geldt inzake het gebruik van de delegaties nog dat voor de delegatie inzake het verlenen van niet-gereglementeerde subsidies, vermeld in artikel 14, 2°, de minister vooraf zijn principiële goedkeuring moet verlenen.
+Bij het gebruik van de delegaties gelden de algemene regelingen, voorwaarden en beperkingen, zoals vervat in het besluit van de Vlaamse Regering van 30 oktober 2015 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen, met inbegrip van de bepalingen inzake subdelegatie, de regeling bij vervanging en de verantwoording.<br>
+<br>
+Daarnaast geldt inzake het gebruik van de delegaties nog dat voor de delegatie inzake het verlenen van niet-gereglementeerde subsidies, vermeld in artikel 14, 2°, de minister vooraf zijn principiële goedkeuring moet verlenen.
 
 ## HOOFDSTUK IV CONTROLE, OPVOLGING EN TOEZICHT
 
 ### ART. 16.
 
-Onverminderd de artikelen 9, 33 en 34 van het Kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
+Onverminderd artikel 5/1, 33 en 34 van het Kaderdecreet bestuurlijk beleid van 18 juli 2003 met betrekking tot informatieverstrekking, rapportering, interne controle en interne audit, is de minister verantwoordelijk voor de opvolging van en het toezicht op het agentschap.
 
 ### ART. 17.
 
