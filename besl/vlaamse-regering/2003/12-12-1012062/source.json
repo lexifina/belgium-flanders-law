@@ -2,16 +2,16 @@
   "codex_id": 1012062,
   "title": "Besluit van de Vlaamse Regering van 2003-12-12 tot toekenning van steun aan grote ondernemingen voor investeringen in de regionale steungebieden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012062/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "57cf7a8d8a3c2b7f53b7e2c35af25e2bd1f5966099aae363cd5e07a876f7b23a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1012062/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "810b1431a0415d78c13584a1e60876235871e58c230e71a35d459877b14a703a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1012062&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2016-01-01",
   "made": "2003-12-12",
   "gazette": "2004-02-13",
   "numac": 2004035202,
   "document_start": null,
   "document_end": null,
-  "in_force": "2009-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
