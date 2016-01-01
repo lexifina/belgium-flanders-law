@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026771,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-15 houdende de [planning van bedden met een bijzondere erkenning als rust- en verzorgingstehuis en van woongelegenheden erkend als woonzorgcentrum met een bijkomende erkenning (verv. BVR 1 maart 2019, art. 1, I: 28 februari 2019)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026771/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "fe19983804f0463c508ca02dc9d751090cb727e4e5ad5a14d3e57af2dc5f14de",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026771&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-04-15",
+  "gazette": "2016-05-10",
+  "numac": 2016035736,
+  "document_start": "2016-01-01",
+  "document_end": "2019-12-31",
+  "in_force": "2016-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
