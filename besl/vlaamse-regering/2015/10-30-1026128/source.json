@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026128,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot wijziging van het besluit van de Vlaamse Regering van 19 januari 2007 houdende de reglementering van de handel in en de keuring van pootaardappelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026128/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "d5c1d7f270c30efaffa5aada3b09c0f8c37a1c44f96da445bbe26f222cd372a3",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026128&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-10-30",
+  "gazette": "2015-11-27",
+  "numac": 2015036416,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
