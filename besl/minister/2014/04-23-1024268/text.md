@@ -178,7 +178,15 @@ Voor de berekening van het inkomenstarief wordt het inkomen als volgt   vermenig
 
 ### ART. 27.
 
-<P>Het individueel verminderd inkomenstarief bedraagt:<BR>1° in de situatie,   vermeld in artikel 34, § 1, 1°, a), b) en c) van het Subsidiebesluit van 22   november 2013: een vermindering van 25% op het laatst berekende inkomenstarief   met als minimum het standaard minimumtarief. Er is maximaal één vermindering van   25% per gezin;<BR>2° in de situatie, vermeld in artikel 34, § 1, 1°, d), van het   Subsidiebesluit van 22 november 2013: het standaard minimumtarief;<BR>3° in de   situatie, vermeld in artikel 34, § 1, 1°, e), 2°, a) en b), van het   Subsidiebesluit van 22 november 2013: het uitzonderlijk minimumtarief;<BR>4° in   de situatie, vermeld in artikel 34, § 1, 2°, c), en 3°, van het Subsidiebesluit   van 22 november 2013: het laagst mogelijke inkomenstarief;<BR>5° in de situatie,   vermeld in artikel 34/1 van het Subsidiebesluit van 22 november 2013, een van de   volgende tarieven:<BR>a) een vermindering van 50% op het laatst bepaalde   individueel verminderde inkomenstarief of op het laatst berekende inkomenstarief   met als minimum het standaard minimumtarief;<BR>b) het standaard   minimumtarief;<BR>c) het laagst mogelijke inkomenstarief.</P>
+<p>Het individueel verminderd inkomenstarief bedraagt:<br>
+1° in de situatie, vermeld in artikel 34, § 1, 1°, a), b) en c) van het Subsidiebesluit van 22 november 2013: een vermindering van 25% op het berekende inkomenstarief met als minimum het standaard minimumtarief. Er is maximaal één vermindering van 25% per gezin;<br>
+2° in de situatie, vermeld in artikel 34, § 1, 1°, d), van het Subsidiebesluit van 22 november 2013: het standaard minimumtarief;<br>
+3° in de situatie, vermeld in artikel 34, § 1, 1°, e), 2°, a) en b), van het Subsidiebesluit van 22 november 2013: het uitzonderlijk minimumtarief;<br>
+4° in de situatie, vermeld in artikel 34, § 1, 2°, c), en 3°, van het Subsidiebesluit van 22 november 2013: het laagst mogelijke inkomenstarief;<br>
+5° in de situatie, vermeld in artikel 34/1 van het Subsidiebesluit van 22 november 2013, een van de volgende tarieven:<br>
+a) een vermindering van 50% op het&nbsp;berekende individueel verminderde inkomenstarief of op het&nbsp;berekende inkomenstarief met als minimum het standaard minimumtarief;<br>
+b) het standaard minimumtarief;<br>
+c) het laagst mogelijke inkomenstarief.</p>
 
 ### ART. 28.
 
