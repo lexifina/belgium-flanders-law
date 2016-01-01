@@ -2,16 +2,16 @@
   "codex_id": 1023620,
   "title": "Ministerieel besluit van 2013-12-16 houdende erkenning van chaperons",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023620/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "cc980c9e71e711872e1eb924c2becc503543c27d3268adcfee7dc409f2f20920",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023620/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "c48b479dd860d11f393079a03b57562c6fc1d614f43d5b0a2078495735746f3b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023620&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2016-01-01",
   "made": "2013-12-16",
   "gazette": "2014-01-20",
   "numac": 2013207268,
   "document_start": "2014-01-01",
   "document_end": "2015-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
