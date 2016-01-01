@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026329,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-18 tot wijziging van het koninklijk besluit van 25 april 2002 betreffende de vaststelling en de vereffening van het budget van financiële middelen van de ziekenhuizen, wat betreft de investeringslasten en de aanloopkosten die voor de vaststelling van het voormelde budget in aanmerking worden genomen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026329/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "a87be64e77c806fcc9eaf65be8fc38db17a8fec50082c75830be73fd9ac3f7ec",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026329&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-18",
+  "gazette": "2016-01-19",
+  "numac": 2016035026,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
