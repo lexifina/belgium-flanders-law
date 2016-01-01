@@ -2,16 +2,16 @@
   "codex_id": 1024337,
   "title": "Besluit van de Vlaamse Regering van 2014-05-09 houdende de procedures voor de aanvraag en de toekenning van de vergunning en de subsidies voor gezinsopvang en groepsopvang van baby's en peuters (citeeropschrift: \"Procedurebesluit van 9 mei 2014\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024337/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "69a8fa5afbdace24caaea2b9e73c7802ed172f01134983779829d4df50243c0c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024337/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "10565b6e92fa7173ad116e2678a47d1eba6492c84ce3d6e6386d1227b657831b",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024337&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2016-01-01",
   "made": "2014-05-09",
   "gazette": "2014-07-25",
   "numac": 2014035893,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2015-09-01",
+  "in_force": "2016-01-01",
   "article_versions": 130,
-  "record_form": "consolidated version as in force on 2015-09-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

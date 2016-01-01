@@ -136,7 +136,13 @@ De vergunning bevat minstens de volgende gegevens:<BR>1° de naam en het   onder
 
 ### ART. 24.
 
-<P>Kind en Gezin bezorgt op de volgende wijze de beslissing tot toekenning of   tot weigering van de vergunning, vermeld in artikel 20 en 22, uiterlijk vijftien   kalenderdagen na de datum van de beslissing aan de organisator:<BR>1° in geval   van toekenning: elektronisch;<BR>2° in geval van weigering of in geval van   toekenning van een lager aantal vergunde kinderopvangplaatsen dan gevraagd:   elektronisch en met een aangetekende brief.<BR></P>  <P>In geval van toekenning wordt de vergunning, vermeld in artikel 23, samen met   de beslissing, vermeld in artikel 22, elektronisch   verstuurd.<BR></P>
+<p>Kind en Gezin bezorgt op de volgende wijze de beslissing tot toekenning of tot weigering van de vergunning, vermeld in artikel 20 en 22, uiterlijk vijftien kalenderdagen na de datum van de beslissing aan de organisator:<br>
+1° in geval van toekenning: elektronisch;<br>
+2° in geval van weigering of in geval van toekenning van een lager aantal vergunde kinderopvangplaatsen dan gevraagd: elektronisch en met een aangetekende brief.<br>
+<br>
+In geval van toekenning wordt de vergunning, vermeld in artikel 23, samen met de beslissing, vermeld in artikel 22, elektronisch verstuurd.<br>
+<br>
+De gegevens van de vergunning, vermeld in artikel 5, eerste lid, 2° en 3°, van het decreet van 20 april 2012, worden vermeld op de website van Kind en Gezin.</p>
 
 ### ART. 25.
 
