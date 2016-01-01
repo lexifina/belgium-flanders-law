@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026913,
+  "title": "Ministerieel besluit van 2016-05-15 houdende de overdracht van de activiteiten en de daarvoor bestemde vermogensbestanddelen van het ontbonden Agentschap voor Geografische Informatie Vlaanderen aan het agentschap Informatie Vlaanderen en het Eigen Vermogen Informatie Vlaanderen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026913/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "ccc71496763d30a87b1cb5112b3d0ccc177942e21ec40a76cb226828a0212d22",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026913&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-05-15",
+  "gazette": "2016-06-22",
+  "numac": 2016035937,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
