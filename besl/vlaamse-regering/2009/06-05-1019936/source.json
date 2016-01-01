@@ -2,16 +2,16 @@
   "codex_id": 1019936,
   "title": "Besluit van de Vlaamse Regering van 2009-06-05 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019936/VolledigDocument?datum=2015-12-10",
-  "source_sha256": "50428805ea8c903cf7b9380111660d6a2d4dd1bf57d147d74d8b1458ab1d8aaa",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019936/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "d8631a72668a6cdb176494add5907533a8a300bc474847cab4792351e38a41ca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019936&param=informatie",
-  "as_of": "2015-12-10",
+  "as_of": "2016-01-01",
   "made": "2009-06-05",
   "gazette": "2009-09-04",
   "numac": 2009203709,
   "document_start": "2010-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2015-12-10",
+  "in_force": "2016-01-01",
   "article_versions": 21,
-  "record_form": "consolidated version as in force on 2015-12-10; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

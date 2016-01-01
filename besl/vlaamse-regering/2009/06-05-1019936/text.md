@@ -99,7 +99,7 @@ Tot en met 31 december 2011 wordt, in afwijking van artikel 1, 2°, voor de toep
 
 ### ART. 14/2.
 
-<P>In afwijking van artikel 7, § 7, komende de volgende opnamemogelijkheden in   centra voor kortverblijf en in woonzorgcentra op 1 januari 2016 opnieuw in het   programma van die voorzieningen :<BR>1° de opnamemogelijkheden die vervat liggen   in een voorafgaande vergunning waarvan de initiatiefnemer vrijwillig volledig of   gedeeltelijk afstand doet, als de beslissing over de volledige of gedeeltelijke   opheffing van de voorafgaande vergunning in de periode van 1 januari 2012 tot en   met 31&nbsp;december 2015 in het Belgisch Staatsblad verschenen is;<BR>2° de   opnamemogelijkheden die vervat liggen in een voorafgaande vergunning die van   rechtswege vervalt in de periode van 1 januari 2013 tot en met 31&nbsp;december   2015.</P>
+<P>In afwijking van artikel 7, § 7, komende de volgende opnamemogelijkheden in   centra voor kortverblijf en in woonzorgcentra op 1 januari 2020 opnieuw in het   programma van die voorzieningen :<BR>1° de opnamemogelijkheden die vervat liggen   in een voorafgaande vergunning waarvan de initiatiefnemer vrijwillig volledig of   gedeeltelijk afstand doet, als de beslissing over de volledige of gedeeltelijke   opheffing van de voorafgaande vergunning in de periode van 1 januari 2012 tot en   met 31&nbsp;december 2019 in het Belgisch Staatsblad verschenen is;<BR>2° de   opnamemogelijkheden die vervat liggen in een voorafgaande vergunning die van   rechtswege vervalt in de periode van 1 januari 2013 tot en met 31&nbsp;december   2019.</P>
 
 ### ART. 14/3.
 
