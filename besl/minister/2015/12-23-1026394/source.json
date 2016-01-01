@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026394,
+  "title": "Ministerieel besluit van 2015-12-23 tot wijziging van het ministerieel besluit van 21 juni 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten, wat betreft de tijdelijke verlenging van de indieningstermijn van de subsidieaanvraag",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026394/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "72260764e0478f4d8ee6f7ca516660918994c20bbc141499f5f86bdd41ead65d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026394&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-23",
+  "gazette": "2016-02-03",
+  "numac": 2016035085,
+  "document_start": "2016-01-01",
+  "document_end": "2016-02-01",
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
