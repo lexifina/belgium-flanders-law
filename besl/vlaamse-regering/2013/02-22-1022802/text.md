@@ -12,7 +12,7 @@ In dit besluit wordt verstaan onder :<BR>1° agentschap : het Vlaams   Agentscha
 
 ### ART. 2.
 
-<P>Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen   van de kredieten die daarvoor ingeschreven zijn op zijn begroting, de volgende   voorzieningen die al door het agentschap zijn erkend en worden gesubsidieerd,   voor de uitbouw van rechtstreeks toegankelijke hulp erkennen en subsidiëren :   <BR>1° tehuizen;<BR>2° dagcentra;<BR>3° internaten;<BR>4° semi-internaten;<BR>5°   centra voor observatie, oriëntering en medische, psychologische en pedagogische   behandeling;<BR>6° diensten voor beschermd wonen;<BR>7° diensten voor   geïntegreerd wonen; <BR>8° diensten inclusieve ondersteuning;<BR>9° diensten   voor begeleid wonen;<BR>10° thuisbegeleidingsdiensten;<BR>11° diensten voor   zelfstandig wonen.</P>
+<P>Het agentschap kan conform de bepalingen van dit besluit en binnen de grenzen   van de kredieten die daarvoor ingeschreven zijn op zijn begroting, de volgende   voorzieningen die al door het agentschap zijn erkend en worden gesubsidieerd,   voor de uitbouw van rechtstreeks toegankelijke hulp erkennen en subsidiëren :   <BR>1° tehuizen;<BR>2° dagcentra;<BR>3° internaten;<BR>4° semi-internaten;<BR>5°   centra voor observatie, oriëntering en medische, psychologische en pedagogische   behandeling;<BR>6° diensten voor beschermd wonen;<BR>7° diensten voor   geïntegreerd wonen; <BR>8° diensten inclusieve ondersteuning;<BR>9° diensten   voor begeleid wonen;<BR>10° thuisbegeleidingsdiensten;<BR>11° diensten voor   zelfstandig wonen;<BR>12° flexibele aanbodcentra voor meerderjarige personen met   een handicap;<BR>13° multifunctionele centra.</P>
 
 ## HOOFDSTUK 2 Rechtstreeks toegankelijke hulp
 
@@ -20,7 +20,7 @@ In dit besluit wordt verstaan onder :<BR>1° agentschap : het Vlaams   Agentscha
 
 ### ART. 3.
 
-De erkenning wordt uitgedrukt in een aantal personeelspunten die moeten   worden verantwoord door de effectief aangeboden ondersteuning.<BR>
+De erkenning wordt uitgedrukt in een aantal personeelspunten, met een   minimum van vijfendertig personeelspunten, die moeten worden verantwoord door de   effectief aangeboden ondersteuning.<BR>
 
 ### ART. 4.
 
@@ -34,7 +34,7 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 
 ### ART. 6.
 
-<P>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per   mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per   ambulante outreach, 0,087 personeelspunten per dag dagopvang en 0,13   personeelspunten per nacht verblijf.<BR></P>  <P>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen   aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in   opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of   ambulante outreach, dagopvang of verblijf verstrekt.<BR></P>  <P>Als de som van de toegekende personeelspunten op basis van de geleverde   prestaties meer dan negentig procent bedraagt van het aantal personeelspunten   binnen de erkenning, ontvangt de voorziening, in afwijking van het eerste lid,   het aantal personeelspunten volgens erkenning.<BR></P>
+<P>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per   mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per   ambulante outreach, 0,087 personeelspunten per dag dagopvang en 0,13   personeelspunten per nacht verblijf.<BR></P>  <P>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen   aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in   opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of   ambulante outreach, dagopvang of verblijf verstrekt.<BR></P>  <P>Als de som van de personeelspunten die op basis van de geleverde prestaties   worden toegekend, meer dan 90% bedraagt van het aantal personeelspunten waarvoor   de voorziening is erkend en er maximaal 75 personeelspunten minder worden   gepresteerd dan het aantal personeelspunten waarvoor de voorziening is erkend,   ontvangt de voorziening, in afwijking van het eerste lid, het aantal   personeelspunten waarvoor de voorziening is erkend.<BR></P>
 
 ### ART. 7.
 
@@ -64,11 +64,11 @@ Als de persoon met een handicap&nbsp;met uitzondering van minderjarigen en   van
 
 ### ART. 13.
 
-<P>Ambulante en mobiele begeleidingen zijn rechtstreeks toegankelijk voor   maximaal twaalf begeleidingen per jaar. Gedurende de eerste twee jaar samen   kunnen er maximaal 48 begeleidingen plaatsvinden.<BR></P>  <P>Dagopvang is rechtstreeks toegankelijk voor maximaal 24 dagen per   jaar.<BR></P>  <P>Verblijf is rechtstreeks toegankelijk voor maximaal twaalf dagen per   jaar.<BR></P>
+<P>De persoon met een handicap kan ambulante begeleiding, mobiele begeleiding,   dagopvang en verblijf die worden verleend met toepassing van dit besluit en   ambulante begeleiding en mobiele begeleiding die worden verleend met toepassing   van artikel 19 van het besluit van de Vlaamse Regering van 17 december 1996   betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor   personen met een handicap, combineren tot maximaal acht personeelspunten per   persoon per kalenderjaar.<BR><BR>Voor de berekening van het maximum aantal   personeelspunten per persoon per kalenderjaar, als vermeld in het eerste lid,   wordt rekening gehouden met het aantal personeelspunten, vermeld in artikel 6,   per mobiele begeleiding of per ambulante begeleiding of per dag dagopvang of per   nacht verblijf.</P>
 
 ### ART. 14.
 
-De persoon met een handicap kan mobiele of ambulante begeleiding,   dagopvang en verblijf combineren tot het maximale aantal begeleidingen en dagen   per jaar, vermeld in artikel 14.<BR>
+<P>...</P>
 
 ## HOOFDSTUK 3 Financiële bijdrage van de persoon met een handicap
 
