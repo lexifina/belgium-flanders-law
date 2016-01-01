@@ -1210,7 +1210,7 @@ XI 19. § 1. Het statutaire personeelslid krijgt op zijn aanvraag een opvangverl
 
 ### ART. XI 20.
 
-XI 20. De leidend ambtenaar kan aan de statutaire personeelsleden verlof om dwingende redenen van familiaal belang toestaan voor een maximum duur van twee maanden of 45 werkdagen per jaar.<br /><br />Over de hele loopbaan van het statutaire personeelslid mag dat verlof evenwel 24 maanden of 540 werkdagen niet overschrijden.<br /><br />Met de verloven toegestaan vóór 1 januari 1982 wordt geen rekening gehouden.
+<P>De leidend ambtenaar kan aan de statutaire personeelsleden onbetaald verlof   toestaan voor maximum 26 werkdagen per jaar, te nemen in volledige of halve   dagen en al dan niet aaneensluitende periodes.</P>
 
 ### ART. XI 21.
 
@@ -1250,7 +1250,7 @@ Het statutaire personeelslid kan een verlof voor deeltijdse prestaties krijgen.<
 
 ### ART. XI 29.
 
-XI 29. Het statutaire personeelslid dat de in artikel XI 28, § 1 vermelde toestemming krijgt, dient ofwel 50 procent ofwel 60 procent ofwel 75 procent ofwel 80 procent ofwel 90 procent van de duur der prestaties die hem normaal worden opgelegd, te volbrengen. Deze prestaties worden ofwel elke dag ofwel volgens een andere verdeling over de week of over de maand verricht.
+Het statutaire personeelslid dat de in artikel XI 28, § 1 vermelde   toestemming krijgt, dient ofwel 50 procent ofwel 80 procent ofwel 90 procent van   de duur der prestaties die hem normaal worden opgelegd, te volbrengen. Deze   prestaties worden ofwel elke dag ofwel volgens een andere verdeling over de week   of over de maand verricht.
 
 ### ART. XI 30.
 
@@ -2513,7 +2513,7 @@ XIII 81. Voor de toepassing van dit hoofdstuk bepaalt de raad van bestuur wat on
 
 ### ART. XIII 82.
 
-XIII 82. Deze toelage bedraagt [1 EUR  <span class="reference">(verv. B.V.R. 19 september 2003, art. 40, I: 1 januari 2002)</span> ] per uur dat men daadwerkelijk in ongezonde omstandigheden werkt.
+Deze toelage bedraagt&nbsp;2&nbsp;euro per uur dat men daadwerkelijk in ongezonde omstandigheden werkt.
 
 ### ART. XIII 83.
 
@@ -2698,7 +2698,7 @@ XIII 107. § 1. Het statutaire personeelslid ontvangt het volledige bedrag van d
 
 ### ART. XIII 108.
 
-<P>De eindejaarstoelage bedraagt 71 % van het brutomaandsalaris van de maand   oktober van het uitbetalingsjaar.<BR><BR>In afwijking van het eerste lid   bedraagt voor het jaar 2013 de eindejaarstoelage 68 % van het brutomaandsalaris   van de maand oktober.</P>
+De eindejaarstoelage bedraagt 74% van het brutomaandsalaris van de maand oktober van het uitbetalingsjaar.
 
 ### ART. XIII 108bis.
 
