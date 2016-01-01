@@ -1,0 +1,13 @@
+# Ministerieel besluit van 2016-04-06 tot wijziging van artikel 1 van het ministerieel besluit van 20 juli 2015 betreffende de huisartsenzones
+
+### Aanhef
+
+De   Vlaamse minister van Welzijn, Volksgezondheid en Gezin,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de   samenwerking tussen de zorgaanbieders, artikel 7, § 1 en § 2;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het besluit van de Vlaamse Regering van 26 juni 2015 betreffende de   huisartsenkringen, artikel 3, eerste lid;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het ministerieel besluit van 20 juli 2015 betreffende de   huisartsenzones,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+In artikel 1 van het ministerieel besluit van 20 juli 2015   betreffende de huisartsenzones worden de volgende wijzigingen aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in het punt 1° wordt de zinsnede ", Affligem" ingevoegd;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   het punt 2° wordt opgeheven;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   in het punt 3° wordt de zinsnede ", Ranst, Schilde" opgeheven;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">4°   een punt 86° wordt toegevoegd, dat luidt als volgt: "86° Voorkempen: Schilde,   Wijnegem;".
+
+### ART. 2.
+
+Dit besluit heeft uitwerking met ingang van 1 januari   2016.
