@@ -2,16 +2,16 @@
   "codex_id": 1011798,
   "title": "Besluit van de Vlaamse Regering van 2003-10-10 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de intern verzelfstandigde agentschappen van de Vlaamse overheid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011798/VolledigDocument?datum=2008-07-18",
-  "source_sha256": "ac56089d1197af56a7c2e516e09c4ebdbe990ed1614fdf1fe282873a2a05dfae",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011798/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "dc2cbfc658fc50317e29f264c203cc79019ff713574cbb53147b63aa6f19083e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011798&param=informatie",
-  "as_of": "2008-07-18",
+  "as_of": "2016-01-01",
   "made": "2003-10-10",
   "gazette": "2003-12-01",
   "numac": 2003202028,
   "document_start": null,
   "document_end": "2015-12-31",
-  "in_force": "2008-07-18",
+  "in_force": "2016-01-01",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2008-07-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
