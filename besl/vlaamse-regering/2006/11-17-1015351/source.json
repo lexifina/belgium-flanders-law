@@ -2,16 +2,16 @@
   "codex_id": 1015351,
   "title": "Besluit van de Vlaamse Regering van 2006-11-17 betreffende de goedkeuring en subsidiëring van geïntegreerde woonprojecten voor personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015351/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "faba6375f64b0ee1dd4b4a91841832ce392a0d2a79d5eb78dab3ff39a3979c44",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015351/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "5e9d93ccb3dab98f443f3dce5734027b8c29ab27dce0da8e89b4ca4c65dc23aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015351&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-01-01",
   "made": "2006-11-17",
   "gazette": "2007-01-10",
   "numac": 2006037015,
   "document_start": "2006-09-01",
   "document_end": "2013-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
