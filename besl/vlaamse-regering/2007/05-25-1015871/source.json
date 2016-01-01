@@ -2,16 +2,16 @@
   "codex_id": 1015871,
   "title": "Besluit van de Vlaamse Regering van 2007-05-25 houdende de voorwaarden voor en de modaliteiten van recuperatie van grootschalige geografische gegevens die door of in opdracht van andere personen dan het Agentschap [Digitaal (verv. BVR 7 mei 2021, art. 37, I: 10 mei 2021)] Vlaanderen zijn opgemeten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015871/VolledigDocument?datum=2007-06-29",
-  "source_sha256": "da0c2786fd9fcb76235446a14ce9712465e910909e4d61ae086000aa2baaf78d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015871/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "0f846c0d39edfcbced345fa4c1de521968aaecc8e1d1ccaefe89f4b89e9856e2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015871&param=informatie",
-  "as_of": "2007-06-29",
+  "as_of": "2016-01-01",
   "made": "2007-05-25",
   "gazette": "2007-06-19",
   "numac": 2007035931,
   "document_start": "2007-06-29",
   "document_end": null,
-  "in_force": "2007-06-29",
+  "in_force": "2016-01-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2007-06-29; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
