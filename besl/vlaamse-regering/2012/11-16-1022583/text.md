@@ -28,7 +28,7 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <BR>1° decreet van 16 maart 2012 :   het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid;<BR>2° algemene groepsvrijstellingsverordening: verordening   (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën   steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt   verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 -   78), en de latere wijzigingen ervan;<BR>3° onderneming : een onderneming als   vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<BR>4° kleine,   middelgrote en grote ondernemingen : ondernemingen als vermeld in artikel 3, 2°,   3° en 4°, van het decreet van 16 maart 2012;<BR>5° ecologie-investeringen :   milieu-investeringen en investeringen op energiegebied;<BR>6°   milieu-investeringen : de investeringen, gericht op milieubescherming als   vermeld in artikel 2, punt 101, van de algemene   groepsvrijstellingsverordening;<BR>7° investeringen op energiegebied : de   investeringen, vermeld in artikel 15, § 4, van het decreet 16 maart 2012; <BR>8°   minister : de Vlaamse minister, bevoegd voor de economie;<BR>9° steun : de   steun, vermeld in artikel 3, 5°, van het decreet 16 maart 2012;<BR>10°   energiebeleidsovereenkomst : de overeenkomst, vermeld in artikel 7.7.1 van het   Energiedecreet;<BR>11° start van de ecologie-investeringen : de vroegste datum,   hetzij van de eerste factuur, hetzij van de akte bij verwerving van een   onroerend goed, hetzij van de leasingovereenkomst;<BR>12° beëindiging van de   ecologie-investeringen : de laatste datum, hetzij van de laatste factuur, hetzij   van de akte bij verwerving van een onroerend goed, hetzij van de   leasingovereenkomst;<BR>13° Vlaamse normen : de regelgeving die van toepassing   is in het Vlaamse Gewest, met uitzondering van de Europese normen;<BR>14°   Europese norm : de communautaire norm, vermeld in artikel 2, punt 103, van de   algemene groepsvrijstellingsverordening;<BR>15° Energiedecreet : het decreet van   8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid;<BR>16°   bedrijvencentrum : het bedrijvencentrum, vermeld in artikel 1, 1°, van het   besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van   bedrijvencentra en doorgangsgebouwen;<BR>17° doorgangsgebouw : het   doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse   Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en   doorgangsgebouwen;<BR>18° steunintensiteit : de intensiteit, vermeld in artikel   3, 6°, van het decreet van 16 maart 2012;<BR>19° ecoklassen : de klassen die de   ecologie-investeringen indelen op basis van het ecologiegetal;<BR>20°   ecologiegetal : het getal dat de performantie uitdrukt van de   ecologie-investering;<BR>21° website : de website van het Agentschap   Ondernemen.
+In dit besluit wordt verstaan onder : <BR>1° decreet van 16 maart 2012 :   het decreet van 16 maart 2012 betreffende het economisch   ondersteuningsbeleid;<BR>2° algemene groepsvrijstellingsverordening: verordening   (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën   steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt   verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 -   78), en de latere wijzigingen ervan;<BR>3° onderneming : een onderneming als   vermeld in artikel 3, 1°, van het decreet van 16 maart 2012;<BR>4° kleine,   middelgrote en grote ondernemingen : ondernemingen als vermeld in artikel 3, 2°,   3° en 4°, van het decreet van 16 maart 2012;<BR>5° ecologie-investeringen :   milieu-investeringen en investeringen op energiegebied;<BR>6°   milieu-investeringen : de investeringen, gericht op milieubescherming als   vermeld in artikel 2, punt 101, van de algemene   groepsvrijstellingsverordening;<BR>7° investeringen op energiegebied : de   investeringen, vermeld in artikel 15, § 4, van het decreet 16 maart 2012; <BR>8°   minister : de Vlaamse minister, bevoegd voor de economie;<BR>9° steun : de   steun, vermeld in artikel 3, 5°, van het decreet 16 maart 2012;<BR>10°   energiebeleidsovereenkomst : de overeenkomst, vermeld in artikel 7.7.1 van het   Energiedecreet;<BR>11° start van de ecologie-investeringen : de vroegste datum,   hetzij van de eerste factuur, hetzij van de akte bij verwerving van een   onroerend goed, hetzij van de leasingovereenkomst;<BR>12° beëindiging van de   ecologie-investeringen : de laatste datum, hetzij van de laatste factuur, hetzij   van de akte bij verwerving van een onroerend goed, hetzij van de   leasingovereenkomst;<BR>13° Vlaamse normen : de regelgeving die van toepassing   is in het Vlaamse Gewest, met uitzondering van de Europese normen;<BR>14°   Europese norm : de communautaire norm, vermeld in artikel 2, punt 103, van de   algemene groepsvrijstellingsverordening;<BR>15° Energiedecreet : het decreet van   8 mei 2009 houdende algemene bepalingen betreffende het energiebeleid;<BR>16°   bedrijvencentrum : het bedrijvencentrum, vermeld in artikel 1, 1°, van het   besluit van de Vlaamse Regering van 11 mei 2007 houdende subsidiëring van   bedrijvencentra en doorgangsgebouwen;<BR>17° doorgangsgebouw : het   doorgangsgebouw, vermeld in artikel 1, 2°, van het besluit van de Vlaamse   Regering van 11 mei 2007 houdende subsidiëring van bedrijvencentra en   doorgangsgebouwen;<BR>18° steunintensiteit : de intensiteit, vermeld in artikel   3, 6°, van het decreet van 16 maart 2012;<BR>19° ecoklassen : de klassen die de   ecologie-investeringen indelen op basis van het ecologiegetal;<BR>20°   ecologiegetal : het getal dat de performantie uitdrukt van de   ecologie-investering;<BR>21° website : de website van het Agentschap Innoveren   en Ondernemen.
 
 ## Afdeling 2. Definitie van kleine, middelgrote en grote ondernemingen
 
@@ -152,25 +152,25 @@ De subsidieaanvraag wordt op basis van de volgende criteria beoordeeld :   <BR>1
 
 ### ART. 26.
 
-Het Agentschap Ondernemen beoordeelt de strategische waarde van de   ecologie-investeringen op basis van de criteria, vermeld in hoofdstuk   2.
+Het Agentschap Innoveren en Ondernemen beoordeelt de strategische waarde   van de ecologie-investeringen op basis van de criteria, vermeld in hoofdstuk   2.
 
 ## Onderafdeling 3. Beoordeling van de naleving van de algemene voorwaarden
 
 ### ART. 27.
 
-Het Agentschap Ondernemen beoordeelt of de subsidieaanvraag voldoet aan de   algemene voorwaarden vermeld in hoofdstukken 3 en 4, en de andere algemene   voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en de   uitvoeringsbesluiten.
+Het Agentschap Innoveren en Ondernemen beoordeelt of de subsidieaanvraag   voldoet aan de algemene voorwaarden vermeld in hoofdstukken 3 en 4, en de andere   algemene voorwaarden, vermeld in het decreet van 16 maart 2012, dit besluit en   de uitvoeringsbesluiten.
 
 ## Onderafdeling 4. Beoordeling van de naleving van de voorwaarden met betrekking tot de ecologie-investeringen
 
 ### ART. 28.
 
-De Vlaamse Instelling voor Technologisch Onderzoek geeft advies aan het   Agentschap Ondernemen met betrekking tot de naleving van de voorwaarden, vermeld   in hoofdstuk 6 en 7, en de toekenning van het ecologiegetal aan de   ecologie-investeringen.
+De Vlaamse Instelling voor Technologisch Onderzoek geeft advies aan het   Agentschap Innoveren en Ondernemen met betrekking tot de naleving van de   voorwaarden, vermeld in hoofdstuk 6 en 7, en de toekenning van het ecologiegetal   aan de ecologie-investeringen.
 
 ## Onderafdeling 5. De beslissing tot steuntoekenning
 
 ### ART. 29.
 
-<P>De minister beslist over de steuntoekenning op voorstel van het Agentschap   Ondernemen als het steunbedrag minder is dan of gelijk is aan 500.000 euro. Als   de minister afwijkt van het advies, vermeld in artikel 28, moet deze afwijking   gemotiveerd worden.<BR></P>  <P>De Vlaamse Regering beslist over de steuntoekenning als het steunbedrag hoger   is dan 500.000 euro.</P>
+<P>De minister beslist over de steuntoekenning op voorstel van het Agentschap   Innoveren en Ondernemen als het steunbedrag minder is dan of gelijk is aan   500.000 euro. Als de minister afwijkt van het advies, vermeld in artikel 28,   moet deze afwijking gemotiveerd worden.<BR></P>  <P>De Vlaamse Regering beslist over de steuntoekenning als het steunbedrag hoger   is dan 500.000 euro.</P>
 
 ### ART. 30.
 
@@ -214,7 +214,7 @@ Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op   basis
 
 ### ART. 38.
 
-Overeenkomstig artikel 39 van het decreet van 16 maart 2012 moeten de   aanvragen tot uitbetaling ingediend worden binnen zes maanden na de beëindiging   van de investeringen. Als de investeringen al voor de beslissing tot toekenning   van de subsidie beëindigd werden, moeten de aanvragen tot uitbetaling ingediend   worden binnen zes maanden na de beslissing tot toekenning van de   subsidie.
+Overeenkomstig artikel 39 van het decreet van 16 maart 2012 moeten de aanvragen tot uitbetaling ingediend worden binnen&nbsp;twaalf maanden na de beëindiging van de investeringen. Als de investeringen al voor de beslissing tot toekenning van de subsidie beëindigd werden, moeten de aanvragen tot uitbetaling ingediend worden binnen&nbsp;twaalf maanden na de beslissing tot toekenning van de subsidie.
 
 ### ART. 39.
 
@@ -240,7 +240,7 @@ Alle aanpassingen aan dit besluit door de minister op basis van de   delegaties 
 
 ### ART. 43.
 
-<P>Het Agentschap Ondernemen kan vanaf het ogenblik dat de subsidieaanvraag is   ingediend, controleren of de voorwaarden van het decreet van 16 maart 2012, van   dit besluit en van de uitvoeringsbesluiten worden nageleefd.<BR></P>  <P>Die controle kan, afhankelijk van het feit of de steun al dan niet werd   toegekend, het volgende tot gevolg hebben : <BR>1° beslissing tot weigering van   de subsidie;<BR>2° niet-uitbetaling of terugvordering van de toegekende   subsidie.</P>
+<P>Het Agentschap Innoveren en Ondernemen kan vanaf het ogenblik dat de   subsidieaanvraag is ingediend, controleren of de voorwaarden van het decreet van   16 maart 2012, van dit besluit en van de uitvoeringsbesluiten worden   nageleefd.<BR></P>  <P>Die controle kan, afhankelijk van het feit of de steun al dan niet werd   toegekend, het volgende tot gevolg hebben : <BR>1° beslissing tot weigering van   de subsidie;<BR>2° niet-uitbetaling of terugvordering van de toegekende   subsidie.</P>
 
 ## HOOFDSTUK 13. Strategische ecologie-investeringen met een bijzondere impact voor de Vlaamse economie
 
