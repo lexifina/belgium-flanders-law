@@ -29,7 +29,16 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° het Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br />4° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br />5° de sportfederatie : de Vlaamse sportfederatie, vermeld in artikel 2, 2°, van het decreet;<br />6° de sporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 8°, van het decreet, die als bijlage V bij dit besluit is gevoegd;<br />7° olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br />8° meetplan : de informatie die nodig is om de strategische en operationele doelstellingen die zijn opgenomen in het beleidsplan, te kunnen meten.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen", meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br>
+4° de Vlaamse Trainersschool : het samenwerkingsverband tussen Sport Vlaanderen, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br>
+5° de sportfederatie : de Vlaamse sportfederatie, vermeld in artikel 2, 2°, van het decreet;<br>
+6° de sporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 8°, van het decreet, die als bijlage V bij dit besluit is gevoegd;<br>
+7° olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br>
+8° meetplan : de informatie die nodig is om de strategische en operationele doelstellingen die zijn opgenomen in het beleidsplan, te kunnen meten.<br>
+&nbsp;
 
 ## HOOFDSTUK II Erkenningsvoorwaarden voor de Vlaamse sportfederaties
 
@@ -49,13 +58,34 @@ Om voor erkenning in aanmerking te komen overeenkomstig artikel 5, 10°, van het
 
 ### ART. 4.
 
-Om voor erkenning in aanmerking te komen, moet het vierjaarlijkse beleidsplan, opgesteld overeenkomstig artikel 5, 15°, en artikel 6 van het decreet, de volgende elementen bevatten :<br />1° de informatie van de sportfederatie :<br />a) de structuur van de sportfederatie met organogram, taken van alle organen en hun betrokkenheid bij de basisopdrachten;<br />b) het organogram en het statuut van de sporttechnische en administratieve medewerkers van de sportfederatie en hun betrokkenheid bij de basisopdrachten;<br />2° de missie van de sportfederatie;<br />3° een gegevensverzameling met het oog op het opstellen van het beleidsplan;<br />4° de conclusies van de gegevensverzameling;<br />5° de strategische en operationele doelstellingen en het bijbehorende meetplan;<br />6° het actieplan voor de duur van het beleidsplan, met de concrete maatregelen om de strategische en operationele doelstellingen te realiseren en de bijbehorende begroting voor de duur van het beleidsplan;<br />7° een beschrijving, waarbij de sportfederatie aantoont dat ze voldoet aan alle op haar van toepassing zijnde bepalingen van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening en de desbetreffende uitvoeringsbesluiten. De beschrijving wordt in een afzonderlijk onderdeel van het plan opgenomen en wordt bezorgd aan de bevoegde dienst van de Vlaamse overheid.<br /><br />Het beleidsplan wordt opgesteld volgens een leidraad die ter beschikking wordt gesteld door het Bloso.<br /><br />
+Om voor erkenning in aanmerking te komen, moet het vierjaarlijkse beleidsplan, opgesteld overeenkomstig artikel 5, 15°, en artikel 6 van het decreet, de volgende elementen bevatten :<br>
+1° de informatie van de sportfederatie :<br>
+a) de structuur van de sportfederatie met organogram, taken van alle organen en hun betrokkenheid bij de basisopdrachten;<br>
+b) het organogram en het statuut van de sporttechnische en administratieve medewerkers van de sportfederatie en hun betrokkenheid bij de basisopdrachten;<br>
+2° de missie van de sportfederatie;<br>
+3° een gegevensverzameling met het oog op het opstellen van het beleidsplan;<br>
+4° de conclusies van de gegevensverzameling;<br>
+5° de strategische en operationele doelstellingen en het bijbehorende meetplan;<br>
+6° het actieplan voor de duur van het beleidsplan, met de concrete maatregelen om de strategische en operationele doelstellingen te realiseren en de bijbehorende begroting voor de duur van het beleidsplan;<br>
+7° een beschrijving, waarbij de sportfederatie aantoont dat ze voldoet aan alle op haar van toepassing zijnde bepalingen van het decreet van 13 juli 2007 inzake medisch verantwoorde sportbeoefening en de desbetreffende uitvoeringsbesluiten. De beschrijving wordt in een afzonderlijk onderdeel van het plan opgenomen en wordt bezorgd aan de bevoegde dienst van de Vlaamse overheid.<br>
+<br>
+Het beleidsplan wordt opgesteld volgens een leidraad die ter beschikking wordt gesteld door Sport Vlaanderen.<br>
+&nbsp;
 
 ## Afdeling IV Erkenningsvoorwaarden inzake de bijkomend in te dienen documenten die ingediend moeten worden overeenkomstig artikel 6 van het decreet
 
 ### ART. 5.
 
-§ 1. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 april het financiële verslag van het voorgaande werkingsjaar naar het Bloso.<br /><br />Voor de erkende en niet-gesubsidieerde sportfederatie omvat het financiële verslag de jaarrekening.<br /><br />§ 2. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 april het werkingsverslag van het voorgaande werkingsjaar naar het Bloso.<br /><br />Voor de erkende en niet-gesubsidieerde sportfederatie bestaat dat werkingsverslag uit een overzicht van de werking van de sportfederatie in het voorgaande jaar, alsmede uit de resultaten van de evaluatie van het beleidsplan op basis van effectmeting en in voorkomend geval de bijsturing van het beleidsplan.<br /><br />§ 3. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 december de begroting van het volgende werkingsjaar op naar het Bloso.<br /><br />
+§ 1. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 april het financiële verslag van het voorgaande werkingsjaar naar Sport Vlaanderen.<br>
+<br>
+Voor de erkende en niet-gesubsidieerde sportfederatie omvat het financiële verslag de jaarrekening.<br>
+<br>
+§ 2. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 april het werkingsverslag van het voorgaande werkingsjaar naar Sport Vlaanderen.<br>
+<br>
+Voor de erkende en niet-gesubsidieerde sportfederatie bestaat dat werkingsverslag uit een overzicht van de werking van de sportfederatie in het voorgaande jaar, alsmede uit de resultaten van de evaluatie van het beleidsplan op basis van effectmeting en in voorkomend geval de bijsturing van het beleidsplan.<br>
+<br>
+§ 3. Jaarlijks stuurt de sportfederatie uiterlijk tegen 1 december de begroting van het volgende werkingsjaar op naar Sport Vlaanderen.<br>
+&nbsp;
 
 ## HOOFDSTUK III Erkenningsprocedure
 
@@ -63,19 +93,46 @@ Om voor erkenning in aanmerking te komen, moet het vierjaarlijkse beleidsplan, o
 
 ### ART. 6.
 
-§ 1. Een aanvraag tot erkenning als vermeld in artikel 3 van het decreet moet ingediend worden bij het Bloso uiterlijk op 1 september voorafgaand aan het jaar van de erkenning. De aanvraag moet per aangetekende brief verstuurd worden naar het Bloso of tegen ontvangstmelding bezorgd worden aan het Bloso. De aanvraag wordt ingediend met het formulier dat door het Bloso ter beschikking wordt gesteld.<br /><br />§ 2. Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt het Bloso per aangetekende brief de aanvullende gegevens op.<br /><br />§ 3. Het Bloso brengt voor 1 oktober per aangetekende brief de sportfederaties op de hoogte als hun aanvraag tot erkenning onontvankelijk is. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd, of als blijkt dat de betrokken sportfederatie niet kan voldoen aan de algemene erkenningsvoorwaarden.<br /><br />
+§ 1. Een aanvraag tot erkenning als vermeld in artikel 3 van het decreet moet ingediend worden bij Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het jaar van de erkenning. De aanvraag moet per aangetekende brief verstuurd worden naar Sport Vlaanderen of tegen ontvangstmelding bezorgd worden aan Sport Vlaanderen. De aanvraag wordt ingediend met het formulier dat door Sport Vlaanderen ter beschikking wordt gesteld.<br>
+<br>
+§ 2. Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt Sport Vlaanderen per aangetekende brief de aanvullende gegevens op.<br>
+<br>
+§ 3. Sport Vlaanderen brengt voor 1 oktober per aangetekende brief de sportfederaties op de hoogte als hun aanvraag tot erkenning onontvankelijk is. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd, of als blijkt dat de betrokken sportfederatie niet kan voldoen aan de algemene erkenningsvoorwaarden.<br>
+&nbsp;
 
 ## Afdeling II Begeleiding en controle
 
 ### ART. 7.
 
-§ 1. Het Bloso begeleidt de sportfederatie en onderzoekt de aanvraag tot erkenning ervan. Voor 15 december brengt het Bloso bij de minister advies uit over de sportfederaties die erkend kunnen worden.<br /><br />§ 2. Voor 15 januari deelt de minister per aangetekende brief aan de aanvragende sportfederatie zijn beslissing mee om de sportfederatie te erkennen of zijn voornemen mee om de sportfederatie niet te erkennen.<br /><br />§ 3. Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar het Bloso. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br /><br />Het Bloso stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de erkenning al dan niet toe te kennen.<br /><br />
+§ 1. Sport Vlaanderen begeleidt de sportfederatie en onderzoekt de aanvraag tot erkenning ervan. Voor 15 december brengt Sport Vlaanderen bij de minister advies uit over de sportfederaties die erkend kunnen worden.<br>
+<br>
+§ 2. Voor 15 januari deelt de minister per aangetekende brief aan de aanvragende sportfederatie zijn beslissing mee om de sportfederatie te erkennen of zijn voornemen mee om de sportfederatie niet te erkennen.<br>
+<br>
+§ 3. Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar Sport Vlaanderen. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de erkenning al dan niet toe te kennen.<br>
+&nbsp;
 
 ## Afdeling III Procedure voor schorsing en intrekking van een erkenning
 
 ### ART. 8.
 
-§ 1. Als het Bloso vaststelt dat een erkende sportfederatie niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt het Bloso de erkende sportfederatie op de hoogte van de vastgestelde overtredingen.<br /><br />§ 2. De erkende sportfederatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt het Bloso een gemotiveerd advies op over de mogelijke sancties.<br /><br />§ 3. De minister beslist, na kennisname van het advies, vermeld in paragraaf 2 en, in voorkomend geval, van het meegedeelde standpunt van de erkende sportfederatie, om ofwel de erkenning van de betrokken sportfederatie te schorsen en haar een termijn toe te staan waarbinnen ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing wordt aan de betrokken erkende sportfederatie meegedeeld per aangetekende brief.<br /><br />§ 4. De erkenning van de sportfederatie wordt geschorst vanaf de datum waarop de gemotiveerde brief met de beslissing tot schorsing naar haar werd verstuurd. In de brief wordt tevens de termijn meegedeeld waarbinnen ze de vastgestelde overtredingen moet regulariseren.<br /><br />Als het Bloso vaststelt dat de sportfederatie, na afloop van de in de brief gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.<br /><br />De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de betrokken erkende sportfederatie werd geschorst.<br /><br />Als het Bloso vaststelt dat de sportfederatie tijdig de vastgestelde overtredingen heeft geregulariseerd, dan wordt de schorsing opgeheven. De betrokken sportfederatie wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.<br /><br />§ 5. In afwijking van paragraaf 1 tot en met 4, mag de minister een erkenning onmiddellijk intrekken als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de betrokken erkende sportfederatie per aangetekende brief op de hoogte gebracht van de gemotiveerde beslissing van de minister om haar erkenning onmiddellijk in te trekken.<br /><br />
+§ 1. Als Sport Vlaanderen vaststelt dat een erkende sportfederatie niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt Sport Vlaanderen de erkende sportfederatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+§ 2. De erkende sportfederatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+§ 3. De minister beslist, na kennisname van het advies, vermeld in paragraaf 2 en, in voorkomend geval, van het meegedeelde standpunt van de erkende sportfederatie, om ofwel de erkenning van de betrokken sportfederatie te schorsen en haar een termijn toe te staan waarbinnen ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing wordt aan de betrokken erkende sportfederatie meegedeeld per aangetekende brief.<br>
+<br>
+§ 4. De erkenning van de sportfederatie wordt geschorst vanaf de datum waarop de gemotiveerde brief met de beslissing tot schorsing naar haar werd verstuurd. In de brief wordt tevens de termijn meegedeeld waarbinnen ze de vastgestelde overtredingen moet regulariseren.<br>
+<br>
+Als Sport Vlaanderen vaststelt dat de sportfederatie, na afloop van de in de brief gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.<br>
+<br>
+De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de betrokken erkende sportfederatie werd geschorst.<br>
+<br>
+Als Sport Vlaanderen vaststelt dat de sportfederatie tijdig de vastgestelde overtredingen heeft geregulariseerd, dan wordt de schorsing opgeheven. De betrokken sportfederatie wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 tot en met 4, mag de minister een erkenning onmiddellijk intrekken als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de betrokken erkende sportfederatie per aangetekende brief op de hoogte gebracht van de gemotiveerde beslissing van de minister om haar erkenning onmiddellijk in te trekken.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Subsidiëringsvoorwaarden voor de Vlaamse sportfederaties
 
@@ -83,15 +140,49 @@ Om voor erkenning in aanmerking te komen, moet het vierjaarlijkse beleidsplan, o
 
 ### ART. 9.
 
-Overeenkomstig artikel 13, 1°, en artikel 28, 2°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, de volgende verplichtingen nakomen :<br />1° de volgende activiteiten aanbieden :<br />a) voor de unisportfederaties van categorie A en B : via de sportclubs activiteiten aanbieden waarbij de aangesloten leden wekelijks gedurende minstens dertig weken de sporttak kunnen beoefenen;<br />b) voor de unisportfederatie van categorie C en voor de recreatieve sportfederaties voor gehandicapte personen : via de sportclubs die sporttakken aanbieden voor gehandicapte personen, activiteiten aanbieden waarbij de aangesloten leden tweewekelijks gedurende minstens dertig weken een of meer sporttakken kunnen beoefenen;<br />c) voor de recreatieve sportfederaties met uitzondering van de sportfederaties vermeld in punt b) : via de sportclubs activiteiten aanbieden waarbij de aangesloten leden wekelijks gedurende minstens dertig weken een of meer sporttakken kunnen beoefenen;<br />2° de programmering van de sportactiviteiten van de sportclubs inventariseren waarbij de controle van de gegevens door het Bloso steekproefsgewijs kan plaatsvinden bij de aangesloten leden en sportclubs.<br /><br />
+Overeenkomstig artikel 13, 1°, en artikel 28, 2°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, de volgende verplichtingen nakomen :<br>
+1° de volgende activiteiten aanbieden :<br>
+a) voor de unisportfederaties van categorie A en B : via de sportclubs activiteiten aanbieden waarbij de aangesloten leden wekelijks gedurende minstens dertig weken de sporttak kunnen beoefenen;<br>
+b) voor de unisportfederatie van categorie C en voor de recreatieve sportfederaties voor gehandicapte personen : via de sportclubs die sporttakken aanbieden voor gehandicapte personen, activiteiten aanbieden waarbij de aangesloten leden tweewekelijks gedurende minstens dertig weken een of meer sporttakken kunnen beoefenen;<br>
+c) voor de recreatieve sportfederaties met uitzondering van de sportfederaties vermeld in punt b) : via de sportclubs activiteiten aanbieden waarbij de aangesloten leden wekelijks gedurende minstens dertig weken een of meer sporttakken kunnen beoefenen;<br>
+2° de programmering van de sportactiviteiten van de sportclubs inventariseren waarbij de controle van de gegevens door Sport Vlaanderen steekproefsgewijs kan plaatsvinden bij de aangesloten leden en sportclubs.<br>
+&nbsp;
 
 ### ART. 10.
 
-§ 1. Overeenkomstig artikel 13, 2°, en artikel 28, 3°, van het decreet, moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, op elektronische wijze de volgende bestanden bijhouden :<br />1° een up-to-date ledenbestand met betrekking tot de aangesloten sportclubs;<br />2° een bestand met betrekking tot de aangesloten leden.<br /><br />In beide bestanden worden minimaal de gegevens geregistreerd die voorkomen in het model, opgenomen in bijlage I, die bij dit besluit is gevoegd.<br /><br />Beide bestanden moeten permanent geactualiseerd zijn. Na het einde van het lidmaatschap van een sportclub of lid moeten de gegevens minstens zes jaar in het desbetreffende bestand worden bewaard.<br /><br />Zowel met het oog op de controle en de inspectie voor de berekening van de werkingssubsidies als met het oog op statistische verwerking kan het Bloso op elk ogenblik de volledige bestanden, gedeeltelijke bestanden of geaggregeerde gegevens opvragen. De sportfederatie moet die informatie bezorgen volgens het model, opgenomen in bijlage I, die bij dit besluit is gevoegd.<br /><br />§ 2. De sportfederatie moet in het kader van de opmaak van de sportdatabank Vlaanderen de gegevens met betrekking tot de sportfederatie, de sportclubs en haar aangesloten leden digitaal in de sportdatabank invoeren en up-to-date houden op de wijze die het Bloso bepaalt.<br /><br />
+§ 1. Overeenkomstig artikel 13, 2°, en artikel 28, 3°, van het decreet, moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, op elektronische wijze de volgende bestanden bijhouden :<br>
+1° een up-to-date ledenbestand met betrekking tot de aangesloten sportclubs;<br>
+2° een bestand met betrekking tot de aangesloten leden.<br>
+<br>
+In beide bestanden worden minimaal de gegevens geregistreerd die voorkomen in het model, opgenomen in bijlage I, die bij dit besluit is gevoegd.<br>
+<br>
+Beide bestanden moeten permanent geactualiseerd zijn. Na het einde van het lidmaatschap van een sportclub of lid moeten de gegevens minstens zes jaar in het desbetreffende bestand worden bewaard.<br>
+<br>
+Zowel met het oog op de controle en de inspectie voor de berekening van de werkingssubsidies als met het oog op statistische verwerking kan Sport Vlaanderen op elk ogenblik de volledige bestanden, gedeeltelijke bestanden of geaggregeerde gegevens opvragen. De sportfederatie moet die informatie bezorgen volgens het model, opgenomen in bijlage I, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. De sportfederatie moet in het kader van de opmaak van de sportdatabank Vlaanderen de gegevens met betrekking tot de sportfederatie, de sportclubs en haar aangesloten leden digitaal in de sportdatabank invoeren en up-to-date houden op de wijze die Sport Vlaanderen bepaalt.<br>
+&nbsp;
 
 ### ART. 11.
 
-§ 1. Overeenkomstig artikel 13, 3°, en artikel 28, 4°, van het decreet, moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, een volledige boekhouding voeren, rekening houdend met de aard en de omvang van haar opdrachten.<br /><br />§ 2. Elke boekhouding wordt door middel van een stelsel van rekeningen gevoerd met inachtneming van de regels van het dubbelboekhouden.<br /><br />Het rekeningstelsel moet worden opgesteld en genummerd overeenkomstig de indeling, vastgesteld door het Bloso. De sportfederatie kan het rekeningstelsel verder uitbouwen naargelang van de aard en de omvang van haar opdrachten.<br /><br />§ 3. Het boekjaar vangt aan op 1 januari en eindigt op 31 december.<br /><br />§ 4. De boekhoudkundige bescheiden worden bewaard op het secretariaat van de sportfederatie, of bij de organisatie die de boekhouding voert voor de sportfederatie en waarvan voorafgaandelijk de identiteit en het adres aan het Bloso worden meegedeeld. De boekhoudkundige bescheiden moeten beschikbaar gehouden worden voor een eventuele controle in aanwezigheid van de persoon die financieel verantwoordelijk is voor de boekhouding van de sportfederatie.<br /><br />§ 5. Voor de overige bepalingen inzake het voeren van een boekhouding wordt verwezen naar de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen en naar het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen.<br /><br />§ 6. Het financiële verslag, vermeld in artikel 5, § 1, moet voor de gesubsidieerde sportfederatie bestaan uit de volgende onderdelen :<br />1° de jaarrekening (balans, resultatenrekening en toelichting);<br />2° het ondertekende verslag van de algemene vergadering waarin de voormelde jaarrekening werd goedgekeurd;<br />3° de saldibalans (klasse 1 tot en met 7) met vermelding van alle gebruikte rekeningen;<br />4° de inventaris van de vaste activa en de bijbehorende afschrijvingstabellen.<br /><br />
+§ 1. Overeenkomstig artikel 13, 3°, en artikel 28, 4°, van het decreet, moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, een volledige boekhouding voeren, rekening houdend met de aard en de omvang van haar opdrachten.<br>
+<br>
+§ 2. Elke boekhouding wordt door middel van een stelsel van rekeningen gevoerd met inachtneming van de regels van het dubbelboekhouden.<br>
+<br>
+Het rekeningstelsel moet worden opgesteld en genummerd overeenkomstig de indeling, vastgesteld door Sport Vlaanderen. De sportfederatie kan het rekeningstelsel verder uitbouwen naargelang van de aard en de omvang van haar opdrachten.<br>
+<br>
+§ 3. Het boekjaar vangt aan op 1 januari en eindigt op 31 december.<br>
+<br>
+§ 4. De boekhoudkundige bescheiden worden bewaard op het secretariaat van de sportfederatie, of bij de organisatie die de boekhouding voert voor de sportfederatie en waarvan voorafgaandelijk de identiteit en het adres aan Sport Vlaanderen worden meegedeeld. De boekhoudkundige bescheiden moeten beschikbaar gehouden worden voor een eventuele controle in aanwezigheid van de persoon die financieel verantwoordelijk is voor de boekhouding van de sportfederatie.<br>
+<br>
+§ 5. Voor de overige bepalingen inzake het voeren van een boekhouding wordt verwezen naar de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen en naar het koninklijk besluit van 19 december 2003 betreffende de boekhoudkundige verplichtingen en de openbaarmaking van de jaarrekening van bepaalde verenigingen zonder winstoogmerk, internationale verenigingen zonder winstoogmerk en stichtingen.<br>
+<br>
+§ 6. Het financiële verslag, vermeld in artikel 5, § 1, moet voor de gesubsidieerde sportfederatie bestaan uit de volgende onderdelen :<br>
+1° de jaarrekening (balans, resultatenrekening en toelichting);<br>
+2° het ondertekende verslag van de algemene vergadering waarin de voormelde jaarrekening werd goedgekeurd;<br>
+3° de saldibalans (klasse 1 tot en met 7) met vermelding van alle gebruikte rekeningen;<br>
+4° de inventaris van de vaste activa en de bijbehorende afschrijvingstabellen.<br>
+&nbsp;
 
 ### ART. 12.
 
@@ -99,11 +190,21 @@ Overeenkomstig artikel 13, 5°, en artikel 28, 6°, van het decreet moet de spor
 
 ### ART. 13.
 
-§ 1. Overeenkomstig artikel 13, 6°, en artikel 28, 7°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, die basisopdrachten per punt als vermeld in artikel 4, 3° tot en met 6°, afzonderlijk aan bod laten komen in het vierjaarlijkse beleidsplan.<br /><br />§ 2. De sportfederatie moet, om in aanmerking te komen voor subsidies voor de facultatieve opdrachten, de desbetreffende facultatieve opdrachten per punt als vermeld in artikel 4, 3° tot en met 6° afzonderlijk aan bod laten komen in het vierjaarlijkse beleidsplan.<br /><br />§ 3. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan waarin voor alle basisopdrachten en in voorkomend geval voor de facultatieve opdrachten de concrete activiteiten en timing, die gerealiseerd zullen worden om de strategische en operationele doelstellingen te verwezenlijken, en de bijbehorende gedetailleerde begroting aan bod komen.<br /><br />Dat jaarlijkse actieplan moet bij het Bloso worden ingediend uiterlijk op 1 september voorafgaand aan het desbetreffende werkingsjaar.<br /><br />
+§ 1. Overeenkomstig artikel 13, 6°, en artikel 28, 7°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, die basisopdrachten per punt als vermeld in artikel 4, 3° tot en met 6°, afzonderlijk aan bod laten komen in het vierjaarlijkse beleidsplan.<br>
+<br>
+§ 2. De sportfederatie moet, om in aanmerking te komen voor subsidies voor de facultatieve opdrachten, de desbetreffende facultatieve opdrachten per punt als vermeld in artikel 4, 3° tot en met 6° afzonderlijk aan bod laten komen in het vierjaarlijkse beleidsplan.<br>
+<br>
+§ 3. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan waarin voor alle basisopdrachten en in voorkomend geval voor de facultatieve opdrachten de concrete activiteiten en timing, die gerealiseerd zullen worden om de strategische en operationele doelstellingen te verwezenlijken, en de bijbehorende gedetailleerde begroting aan bod komen.<br>
+<br>
+Dat jaarlijkse actieplan moet bij Sport Vlaanderen worden ingediend uiterlijk op 1 september voorafgaand aan het desbetreffende werkingsjaar.<br>
+&nbsp;
 
 ### ART. 14.
 
-Overeenkomstig artikel 13, 7°, en artikel 28, 8°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, voldoen aan de volgende voorwaarden inzake opleiding en bijscholing van de verantwoordelijke personen :<br />1° de sporttechnische coördinator(en) en de coördinator topsport van de sportfederatie volgen jaarlijks een sport- of managementgerelateerde bijscholing van minstens zes uur, die georganiseerd of erkend wordt door de VTS, die daarvoor een deelnameattest uitreikt;<br />2° de administratieve coördinator van de sportfederatie volgt jaarlijks een administratieve bijscholing van minstens zes uur, die door het Bloso georganiseerd of erkend wordt. Een deelnameattest wordt door het Bloso uitgereikt.<br /><br />
+Overeenkomstig artikel 13, 7°, en artikel 28, 8°, van het decreet moet de sportfederatie, om in aanmerking te komen voor subsidies voor de basisopdrachten, voldoen aan de volgende voorwaarden inzake opleiding en bijscholing van de verantwoordelijke personen :<br>
+1° de sporttechnische coördinator(en) en de coördinator topsport van de sportfederatie volgen jaarlijks een sport- of managementgerelateerde bijscholing van minstens zes uur, die georganiseerd of erkend wordt door de VTS, die daarvoor een deelnameattest uitreikt;<br>
+2° de administratieve coördinator van de sportfederatie volgt jaarlijks een administratieve bijscholing van minstens zes uur, die door het Bloso georganiseerd of erkend wordt. Een deelnameattest wordt door Sport Vlaanderen uitgereikt.<br>
+&nbsp;
 
 ## Afdeling II Subsidiëringsvoorwaarden in verband met de basisopdrachten
 
@@ -143,25 +244,51 @@ De sportfederatie maakt promotie voor de eigen sporttak of sporttakken, als verm
 
 ### ART. 22.
 
-§ 1. Een aanvraag tot subsidiëring voor de basisopdrachten en, in voorkomend geval, voor de facultatieve opdrachten als vermeld in artikel 4 van het decreet, moet ingediend worden bij het Bloso uiterlijk op 1 september voorafgaand aan het jaar waarvoor subsidies gevraagd worden. De aanvraag moet per aangetekende brief verstuurd worden naar het Bloso of tegen ontvangstmelding bezorgd worden aan het Bloso. De aanvraag wordt ingediend met het formulier dat door het Bloso ter beschikking wordt gesteld.<br /><br />§ 2. Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt het Bloso per aangetekende brief de aanvullende gegevens op.<br /><br />§ 3. Het Bloso brengt voor 1 oktober per aangetekende brief de sportfederaties op de hoogte als hun aanvraag tot subsidiëring onontvankelijk is. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd of als, na onderzoek door het Bloso, uit de aanvraag tot subsidiëring blijkt dat de betrokken sportfederatie niet kan voldoen aan de subsidiëringsvoorwaarden.<br /><br />
+§ 1. Een aanvraag tot subsidiëring voor de basisopdrachten en, in voorkomend geval, voor de facultatieve opdrachten als vermeld in artikel 4 van het decreet, moet ingediend worden bij Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het jaar waarvoor subsidies gevraagd worden. De aanvraag moet per aangetekende brief verstuurd worden naar Sport Vlaanderen of tegen ontvangstmelding bezorgd worden aan Sport Vlaanderen. De aanvraag wordt ingediend met het formulier dat door Sport Vlaanderen ter beschikking wordt gesteld.<br>
+<br>
+§ 2. Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt Sport Vlaanderen per aangetekende brief de aanvullende gegevens op.<br>
+<br>
+§ 3. Sport Vlaanderen brengt voor 1 oktober per aangetekende brief de sportfederaties op de hoogte als hun aanvraag tot subsidiëring onontvankelijk is. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd of als, na onderzoek door Sport Vlaanderen, uit de aanvraag tot subsidiëring blijkt dat de betrokken sportfederatie niet kan voldoen aan de subsidiëringsvoorwaarden.<br>
+&nbsp;
 
 ## Afdeling II Begeleiding en controle
 
 ### ART. 23.
 
-§ 1. Het Bloso begeleidt de sportfederatie en onderzoekt de subsidiëringsaanvraag van de sportfederatie. Voor 15 december brengt het Bloso bij de minister advies uit over de sportfederaties die gesubsidieerd kunnen worden.<br /><br />§ 2. Voor 15 januari deelt de minister per aangetekende brief aan de aanvragende sportfederatie zijn beslissing mee om de sportfederatie te subsidiëren of zijn voornemen om de sportfederatie niet te subsidiëren. De subsidiëring wordt voor één jaar toegestaan.<br /><br />§ 3. Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar het Bloso. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br /><br />Het Bloso stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de sportfederatie al dan niet te subsidiëren.<br /><br />
+§ 1. Sport Vlaanderen begeleidt de sportfederatie en onderzoekt de subsidiëringsaanvraag van de sportfederatie. Voor 15 december brengt Sport Vlaanderen bij de minister advies uit over de sportfederaties die gesubsidieerd kunnen worden.<br>
+<br>
+§ 2. Voor 15 januari deelt de minister per aangetekende brief aan de aanvragende sportfederatie zijn beslissing mee om de sportfederatie te subsidiëren of zijn voornemen om de sportfederatie niet te subsidiëren. De subsidiëring wordt voor één jaar toegestaan.<br>
+<br>
+§ 3. Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar Sport Vlaanderen. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de sportfederatie al dan niet te subsidiëren.<br>
+&nbsp;
 
 ## Afdeling III Procedure voor intrekking van de subsidiëring
 
 ### ART. 24.
 
-§ 1. Als het Bloso vaststelt dat een sportfederatie niet meer voldoet aan de subsidiëringsvoorwaarden, een of meerdere basisopdrachten of een facultatieve opdracht waarvoor ze wordt gesubsidieerd niet uitvoert, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het Bloso de sportfederatie op de hoogte van de vastgestelde overtredingen.<br /><br />§ 2. De sportfederatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt het Bloso een gemotiveerd advies op over de mogelijke sancties.<br /><br />§ 3. De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de sportfederatie, om de subsidiëring geheel of gedeeltelijk in te trekken en terug te vorderen.<br /><br />De beslissing wordt aan de betrokken sportfederatie meegedeeld per aangetekende brief.<br /><br />
+§ 1. Als Sport Vlaanderen vaststelt dat een sportfederatie niet meer voldoet aan de subsidiëringsvoorwaarden, een of meerdere basisopdrachten of een facultatieve opdracht waarvoor ze wordt gesubsidieerd niet uitvoert, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt Sport Vlaanderen de sportfederatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+§ 2. De sportfederatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+§ 3. De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de sportfederatie, om de subsidiëring geheel of gedeeltelijk in te trekken en terug te vorderen.<br>
+<br>
+De beslissing wordt aan de betrokken sportfederatie meegedeeld per aangetekende brief.<br>
+&nbsp;
 
 ## Afdeling IV Verificatie en afrekening
 
 ### ART. 25.
 
-§ 1. Uiterlijk tegen 1 april dient elke sportfederatie het financiële verslag, overeenkomstig artikel 11, § 6, en het werkingsverslag als vermeld in artikel 5, 14°, artikel 14, § 2, en artikel 29, § 2, van het decreet, over het voorbije werkingsjaar bij het Bloso in.<br /><br />§ 2. Het financiële verslag wordt ingediend met de formulieren die het Bloso ter beschikking stelt.<br /><br />§ 3. Voor de gesubsidieerde sportfederatie bestaat het werkingsverslag uit een overzicht van de werking en de behaalde resultaten van de sportfederatie met het oog op de gestelde doelstellingen in het voorgaande jaar, alsmede de evaluatie van het beleidsplan op basis van effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het werkingsverslag wordt een onderscheid gemaakt tussen de basisopdrachten en zo nodig de facultatieve opdrachten, waarbij elke opdracht afzonderlijk behandeld wordt.<br /><br />Het werkingsverslag wordt opgesteld overeenkomstig het model dat het Bloso ter beschikking stelt.<br /><br />
+§ 1. Uiterlijk tegen 1 april dient elke sportfederatie het financiële verslag, overeenkomstig artikel 11, § 6, en het werkingsverslag als vermeld in artikel 5, 14°, artikel 14, § 2, en artikel 29, § 2, van het decreet, over het voorbije werkingsjaar bij Sport Vlaanderen in.<br>
+<br>
+§ 2. Het financiële verslag wordt ingediend met de formulieren die Sport Vlaanderen ter beschikking stelt.<br>
+<br>
+§ 3. Voor de gesubsidieerde sportfederatie bestaat het werkingsverslag uit een overzicht van de werking en de behaalde resultaten van de sportfederatie met het oog op de gestelde doelstellingen in het voorgaande jaar, alsmede de evaluatie van het beleidsplan op basis van effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het werkingsverslag wordt een onderscheid gemaakt tussen de basisopdrachten en zo nodig de facultatieve opdrachten, waarbij elke opdracht afzonderlijk behandeld wordt.<br>
+<br>
+Het werkingsverslag wordt opgesteld overeenkomstig het model dat Sport Vlaanderen ter beschikking stelt.<br>
+&nbsp;
 
 ### ART. 26.
 
@@ -173,7 +300,7 @@ De inhoudelijke en financiële controles kunnen enerzijds tijdens het betreffend
 
 ### ART. 27.
 
-§ 1. De kosten die in het kader van de subsidiëring van de basisopdrachten van toepassing zijn, worden vermeld in bijlage II, die bij dit besluit is gevoegd. De wijze waarop de kosten voor de berekening van de subsidiëring per basisopdracht in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door het Bloso.<br>
+§ 1. De kosten die in het kader van de subsidiëring van de basisopdrachten van toepassing zijn, worden vermeld in bijlage II, die bij dit besluit is gevoegd. De wijze waarop de kosten voor de berekening van de subsidiëring per basisopdracht in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door Sport Vlaanderen.<br>
 <br>
 § 2. De bezoldiging van de occasionele sporttechnische en administratieve medewerkers, als subsidieerbare kosten opgenomen in de bijlage, vermeld in § 1, vindt plaats op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de basisopdrachten, opgenomen in bijlage III, die bij dit besluit is gevoegd. De uurlonen tegen 100 percent, vermeld in die bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Die uurlonen worden jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br>
 <br>
@@ -188,11 +315,37 @@ De inhoudelijke en financiële controles kunnen enerzijds tijdens het betreffend
 
 ### ART. 29.
 
-§ 1. Voor de berekening van de geldelijke anciënniteit van de sporttechnische coördinator, de administratieve coördinator en de sporttechnische coördinator voor recreatieve sportbeoefening, wordt de door de sportfederatie aan het personeelslid toegekende geldelijke anciënniteit op basis van effectieve en aantoonbare functierelevante ervaring, gepresteerd in zowel de openbare als de privésector, in aanmerking genomen, voor zover het werkelijke bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden.<br /><br />§ 2. Voor de berekening van de geldelijke anciënniteit van de andere personeelsleden dan de personeelsleden, vermeld in paragraaf 1, die na de inwerkingtreding van dit decreet in dienst treden, worden de bezoldigde arbeidsprestaties in aanmerking genomen, tot maximaal vier jaar, uitgedrukt in volledige maanden, als :<br />1° leerkracht Lichamelijke Opvoeding in het onderwijs;<br />2° ambtenaar of contractueel personeelslid bij het Bloso of de cel Sport binnen het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid;<br />3° personeelslid bij een sportdienst als vermeld in het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid;<br />4° personeelslid bij de Stichting Vlaamse Schoolsport, het Vlaams Instituut voor Sportbeheer en Recreatiebeleid, het Vlaams Bureau voor Sportbegeleiding.<br /><br />§ 3. Voor de berekening van de geldelijke anciënniteit van de andere personeelsleden dan de personeelsleden, vermeld in paragraaf 1, die na de inwerkingtreding van dit decreet in dienst treden, wordt de door de sportfederatie aan het personeelslid toegekende effectieve en aantoonbare ervaring, gepresteerd als gesubsidieerd personeelslid bij een andere erkende Vlaamse sportfederatie of bij de koepelorganisatie, in aanmerking genomen, voor zover het bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden. De ervaring, opgedaan sinds 1 januari 2002 als niet-gesubsidieerd personeelslid bij een erkende Vlaamse sportfederatie, bij de koepelorganisatie of bij een erkende organisatie voor de sportieve vrijetijdsbesteding, komt in aanmerking.<br /><br />§ 4. Het sporttechnische personeelslid dat houder is van het getuigschrift Trainer A in de sporttak of sporttakken van de sportfederatie, uitgevaardigd door de VTS of daarmee geassimileerd, krijgt voor de berekening van de subsidiëring een aanvullende geldelijke anciënniteit van twee jaar.<br /><br />§ 5. Het administratieve personeelslid dat houder is van het diploma sportfunctionaris, uitgevaardigd door de VTS of daarmee geassimileerd, krijgt voor de berekening van de subsidiëring een aanvullende geldelijke anciënniteit van twee jaar.<br /><br />§ 6. De aanvullende geldelijke anciënniteit, vermeld in paragraaf 4 en paragraaf 5, wordt alleen toegekend voor zover het personeelslid nog geen aanvullende geldelijke anciënniteit van vier jaar genoten heeft in het kader van het decreet van 2 maart 1977 houdende de regeling van de erkenning en subsidiëring van de landelijk georganiseerde sportverenigingen.<br /><br />§ 7. De sportfederatie is verplicht de collectieve arbeidsovereenkomsten na te leven die in het Paritair Comité voor de socio-culturele sector zijn gesloten.<br /><br />§ 8. Een personeelslid moet zijn betrekking ofwel volledig als sporttechnisch personeelslid ofwel volledig als administratief personeelslid invullen.<br /><br />
+§ 1. Voor de berekening van de geldelijke anciënniteit van de sporttechnische coördinator, de administratieve coördinator en de sporttechnische coördinator voor recreatieve sportbeoefening, wordt de door de sportfederatie aan het personeelslid toegekende geldelijke anciënniteit op basis van effectieve en aantoonbare functierelevante ervaring, gepresteerd in zowel de openbare als de privésector, in aanmerking genomen, voor zover het werkelijke bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden.<br>
+<br>
+§ 2. Voor de berekening van de geldelijke anciënniteit van de andere personeelsleden dan de personeelsleden, vermeld in paragraaf 1, die na de inwerkingtreding van dit decreet in dienst treden, worden de bezoldigde arbeidsprestaties in aanmerking genomen, tot maximaal vier jaar, uitgedrukt in volledige maanden, als :<br>
+1° leerkracht Lichamelijke Opvoeding in het onderwijs;<br>
+2° ambtenaar of contractueel personeelslid bij het Bloso, Sport Vlaanderen&nbsp;of de cel Sport binnen het Departement Cultuur, Jeugd, Sport en Media van de Vlaamse overheid;<br>
+3° personeelslid bij een sportdienst als vermeld in het decreet van 9 maart 2007 houdende de subsidiëring van gemeente- en provinciebesturen en de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid;<br>
+4° personeelslid bij de Stichting Vlaamse Schoolsport, het Vlaams Instituut voor Sportbeheer en Recreatiebeleid, het Vlaams Bureau voor Sportbegeleiding.<br>
+<br>
+§ 3. Voor de berekening van de geldelijke anciënniteit van de andere personeelsleden dan de personeelsleden, vermeld in paragraaf 1, die na de inwerkingtreding van dit decreet in dienst treden, wordt de door de sportfederatie aan het personeelslid toegekende effectieve en aantoonbare ervaring, gepresteerd als gesubsidieerd personeelslid bij een andere erkende Vlaamse sportfederatie of bij de koepelorganisatie, in aanmerking genomen, voor zover het bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden. De ervaring, opgedaan sinds 1 januari 2002 als niet-gesubsidieerd personeelslid bij een erkende Vlaamse sportfederatie, bij de koepelorganisatie of bij een erkende organisatie voor de sportieve vrijetijdsbesteding, komt in aanmerking.<br>
+<br>
+§ 4. Het sporttechnische personeelslid dat houder is van het getuigschrift Trainer A in de sporttak of sporttakken van de sportfederatie, uitgevaardigd door de VTS of daarmee geassimileerd, krijgt voor de berekening van de subsidiëring een aanvullende geldelijke anciënniteit van twee jaar.<br>
+<br>
+§ 5. Het administratieve personeelslid dat houder is van het diploma sportfunctionaris, uitgevaardigd door de VTS of daarmee geassimileerd, krijgt voor de berekening van de subsidiëring een aanvullende geldelijke anciënniteit van twee jaar.<br>
+<br>
+§ 6. De aanvullende geldelijke anciënniteit, vermeld in paragraaf 4 en paragraaf 5, wordt alleen toegekend voor zover het personeelslid nog geen aanvullende geldelijke anciënniteit van vier jaar genoten heeft in het kader van het decreet van 2 maart 1977 houdende de regeling van de erkenning en subsidiëring van de landelijk georganiseerde sportverenigingen.<br>
+<br>
+§ 7. De sportfederatie is verplicht de collectieve arbeidsovereenkomsten na te leven die in het Paritair Comité voor de socio-culturele sector zijn gesloten.<br>
+<br>
+§ 8. Een personeelslid moet zijn betrekking ofwel volledig als sporttechnisch personeelslid ofwel volledig als administratief personeelslid invullen.<br>
+&nbsp;
 
 ### ART. 30.
 
-§ 1. Bij indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van een gesubsidieerd personeelslid wordt het Bloso onverwijld op de hoogte gebracht. De sportfederatie deelt in voorkomend geval aan het Bloso de volgende gegevens mee :<br />1° de datum van indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van het personeelslid;<br />2° de persoonlijke gegevens, gegevens van de diensten die het personeelslid gepresteerd heeft, met bijgevoegd een kopie van het diploma of getuigschrift en een kopie van de arbeidsovereenkomst van het personeelslid.<br /><br />§ 2. De sportfederatie moet bij uitdiensttreding van een personeelslid als vermeld in artikel 23, § 1, en artikel 37, § 1, van het decreet, dat personeelslid vervangen binnen vier maanden.<br /><br />§ 3. De sportfederatie moet bij schorsing van de arbeidsovereenkomst van een personeelslid als vermeld in artikel 23, § 1, en artikel 37, § 1, van het decreet, in de functie van dat personeelslid binnen vier maanden een personeelslid aanstellen dat aan de diplomavereisten voldoet.<br /><br />
+§ 1. Bij indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van een gesubsidieerd personeelslid wordt Sport Vlaanderen onverwijld op de hoogte gebracht. De sportfederatie deelt in voorkomend geval aan Sport Vlaanderen de volgende gegevens mee :<br>
+1° de datum van indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van het personeelslid;<br>
+2° de persoonlijke gegevens, gegevens van de diensten die het personeelslid gepresteerd heeft, met bijgevoegd een kopie van het diploma of getuigschrift en een kopie van de arbeidsovereenkomst van het personeelslid.<br>
+<br>
+§ 2. De sportfederatie moet bij uitdiensttreding van een personeelslid als vermeld in artikel 23, § 1, en artikel 37, § 1, van het decreet, dat personeelslid vervangen binnen vier maanden.<br>
+<br>
+§ 3. De sportfederatie moet bij schorsing van de arbeidsovereenkomst van een personeelslid als vermeld in artikel 23, § 1, en artikel 37, § 1, van het decreet, in de functie van dat personeelslid binnen vier maanden een personeelslid aanstellen dat aan de diplomavereisten voldoet.<br>
+&nbsp;
 
 ## HOOFDSTUK VII Erkenning en subsidiëring van een koepelorganisatie
 
@@ -204,7 +357,8 @@ In dit hoofdstuk worden in de artikelen waarnaar verwezen wordt, de woorden spor
 
 ### ART. 32.
 
-Om voor erkenning in aanmerking te komen overeenkomstig artikel 41 van het decreet, moeten de eerste twee voltijdse equivalenten die aan 90 percent gesubsidieerd worden, jaarlijks een administratieve bijscholing volgen van minstens zes uur die door het Bloso georganiseerd of erkend wordt. Een deelnameattest wordt door het Bloso uitgereikt.<br /><br />
+Om voor erkenning in aanmerking te komen overeenkomstig artikel 41 van het decreet, moeten de eerste twee voltijdse equivalenten die aan 90 percent gesubsidieerd worden, jaarlijks een administratieve bijscholing volgen van minstens zes uur die door Sport Vlaanderen georganiseerd of erkend wordt. Een deelnameattest wordt door Sport Vlaanderen uitgereikt.<br>
+&nbsp;
 
 ### ART. 33.
 
@@ -220,7 +374,14 @@ De bepalingen van artikel 4, 1° tot en met 7°, inzake het opstellen van het be
 
 ### ART. 36.
 
-§ 1. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 april van het daaropvolgende jaar een financieel verslag naar het Bloso in de vorm, vermeld in artikel 11, § 6.<br /><br />§ 2. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 april van het daaropvolgende jaar een werkingsverslag naar het Bloso.<br /><br />Voor de koepelorganisatie bestaat dat werkingsverslag uit een overzicht van de werking en de behaalde resultaten van de koepelorganisatie in het voorgaande jaar, alsmede de resultaten van de evaluatie van het beleidsplan op basis van effectmeting en in voorkomend geval de bijsturing van het beleidsplan.<br /><br />§ 3. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 december de begroting van het volgende werkingsjaar naar het Bloso.<br /><br />
+§ 1. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 april van het daaropvolgende jaar een financieel verslag naar Sport Vlaanderen in de vorm, vermeld in artikel 11, § 6.<br>
+<br>
+§ 2. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 april van het daaropvolgende jaar een werkingsverslag naar Sport Vlaanderen.<br>
+<br>
+Voor de koepelorganisatie bestaat dat werkingsverslag uit een overzicht van de werking en de behaalde resultaten van de koepelorganisatie in het voorgaande jaar, alsmede de resultaten van de evaluatie van het beleidsplan op basis van effectmeting en in voorkomend geval de bijsturing van het beleidsplan.<br>
+<br>
+§ 3. Jaarlijks stuurt de koepelorganisatie, overeenkomstig artikel 41 van het decreet, uiterlijk tegen 1 december de begroting van het volgende werkingsjaar naar Sport Vlaanderen.<br>
+&nbsp;
 
 ## Afdeling II Erkenningsprocedure
 
@@ -232,7 +393,8 @@ Overeenkomstig artikel 45 van het decreet, zijn de bepalingen van hoofdstuk III 
 
 ### ART. 38.
 
-Om in aanmerking te komen voor subsidiëring, moet de koepelorganisatie overeenkomstig artikel 40, § 1, 9°, van het decreet, in het vierjaarlijkse beleidsplan de opdrachten, vermeld in artikel 42 van het decreet, afzonderlijk aan bod laten komen. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan met de concrete activiteiten en timing en een daaraan gekoppelde jaarlijkse begroting waarin alle opdrachten, vermeld in artikel 42 van het decreet, aan bod komen. Dat jaarlijkse actieplan moet bij het Bloso worden ingediend uiterlijk op 1 september, voorafgaand aan het desbetreffende werkingsjaar.<br /><br />
+Om in aanmerking te komen voor subsidiëring, moet de koepelorganisatie overeenkomstig artikel 40, § 1, 9°, van het decreet, in het vierjaarlijkse beleidsplan de opdrachten, vermeld in artikel 42 van het decreet, afzonderlijk aan bod laten komen. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan met de concrete activiteiten en timing en een daaraan gekoppelde jaarlijkse begroting waarin alle opdrachten, vermeld in artikel 42 van het decreet, aan bod komen. Dat jaarlijkse actieplan moet bij Sport Vlaanderen worden ingediend uiterlijk op 1 september, voorafgaand aan het desbetreffende werkingsjaar.<br>
+&nbsp;
 
 ### ART. 39.
 
@@ -248,7 +410,12 @@ Overeenkomstig artikel 45 van het decreet, zijn de bepalingen van hoofdstuk V, a
 
 ### ART. 41.
 
-Uiterlijk tegen 1 april dient de koepelorganisatie het financiële verslag overeenkomstig artikel 11, § 6, en het werkingsverslag als vermeld in artikel 40, § 1, 8°, van het decreet, over het voorbije werkingsjaar bij het Bloso in.<br /><br />Het financiële verslag wordt ingediend met de formulieren die het Bloso daartoe ter beschikking stelt.<br /><br />Het werkingsverslag wordt opgesteld overeenkomstig het model dat het Bloso ter beschikking stelt.<br /><br />
+Uiterlijk tegen 1 april dient de koepelorganisatie het financiële verslag overeenkomstig artikel 11, § 6, en het werkingsverslag als vermeld in artikel 40, § 1, 8°, van het decreet, over het voorbije werkingsjaar bij Sport Vlaanderen in.<br>
+<br>
+Het financiële verslag wordt ingediend met de formulieren die Sport Vlaanderen daartoe ter beschikking stelt.<br>
+<br>
+Het werkingsverslag wordt opgesteld overeenkomstig het model dat Sport Vlaanderen ter beschikking stelt.<br>
+&nbsp;
 
 ### ART. 42.
 
@@ -258,7 +425,14 @@ De inhoudelijke en financiële controles kunnen enerzijds tijdens het betreffend
 
 ### ART. 43.
 
-De bepalingen van hoofdstuk VI over de aard en de wijze van subsidiëring zijn van toepassing op de koepelorganisatie, met uitzondering van artikel 27 en artikel 29, § 1, § 4, § 5, § 6 en § 8.<br /><br />Voor de berekening van de geldelijke anciënniteit van de eerste twee voltijdse equivalenten die voor 90 percent gesubsidieerd worden, wordt de door de koepelorganisatie aan het personeelslid toegekende geldelijke anciënniteit op basis van effectieve en aantoonbare functierelevante ervaring, gepresteerd in zowel de openbare als de privésector, in aanmerking genomen, voor zover het werkelijke, bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden.<br /><br />De kosten die in het kader van de subsidiëring van toepassing zijn, worden vermeld in bijlage IV, die bij dit besluit is gevoegd. De wijze waarop die kosten voor de berekening van de subsidiëring per opdracht in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door het Bloso.<br /><br />De bezoldiging van de occasionele medewerkers, als subsidieerbare kosten opgenomen in bijlage IV, die bij dit besluit is gevoegd, vindt plaats op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de basisopdrachten, opgenomen in bijlage III, die bij dit besluit is gevoegd. De uurlonen tegen 100 percent, vermeld in de bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Die uurlonen worden jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br /><br />
+De bepalingen van hoofdstuk VI over de aard en de wijze van subsidiëring zijn van toepassing op de koepelorganisatie, met uitzondering van artikel 27 en artikel 29, § 1, § 4, § 5, § 6 en § 8.<br>
+<br>
+Voor de berekening van de geldelijke anciënniteit van de eerste twee voltijdse equivalenten die voor 90 percent gesubsidieerd worden, wordt de door de koepelorganisatie aan het personeelslid toegekende geldelijke anciënniteit op basis van effectieve en aantoonbare functierelevante ervaring, gepresteerd in zowel de openbare als de privésector, in aanmerking genomen, voor zover het werkelijke, bezoldigde arbeidsprestaties betreft, uitgedrukt in volledige maanden.<br>
+<br>
+De kosten die in het kader van de subsidiëring van toepassing zijn, worden vermeld in bijlage IV, die bij dit besluit is gevoegd. De wijze waarop die kosten voor de berekening van de subsidiëring per opdracht in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door Sport Vlaanderen.<br>
+<br>
+De bezoldiging van de occasionele medewerkers, als subsidieerbare kosten opgenomen in bijlage IV, die bij dit besluit is gevoegd, vindt plaats op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de basisopdrachten, opgenomen in bijlage III, die bij dit besluit is gevoegd. De uurlonen tegen 100 percent, vermeld in de bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Die uurlonen worden jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br>
+&nbsp;
 
 ## HOOFDSTUK VIII Erkenning en subsidiëring van organisaties voor de sportieve vrijetijdsbesteding
 
@@ -286,11 +460,15 @@ Overeenkomstig artikel 52 van het decreet zijn de bepalingen van hoofdstuk III m
 
 ### ART. 48.
 
-De bepalingen van artikel 4 inzake het opstellen van het beleidsplan zijn van toepassing op de organisaties voor de sportieve vrijetijdsbesteding.<br /><br />Om in aanmerking te komen voor subsidiëring, moeten de organisaties voor de sportieve vrijetijdsbesteding overeenkomstig artikel 49, 2°, van het decreet, in het vierjaarlijkse beleidsplan de functies, vermeld in artikel 49, 1°, van het decreet, afzonderlijk aan bod laten komen. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan met de concrete activiteiten en timing en een daaraan gekoppelde jaarlijkse begroting waarin alle functies, vermeld in artikel 49, 1°, van het decreet, afzonderlijk aan bod komen. Dat jaarlijkse actieplan moet bij het Bloso worden ingediend uiterlijk op 1 september, voorafgaand aan het desbetreffende werkingsjaar.<br /><br />
+De bepalingen van artikel 4 inzake het opstellen van het beleidsplan zijn van toepassing op de organisaties voor de sportieve vrijetijdsbesteding.<br>
+<br>
+Om in aanmerking te komen voor subsidiëring, moeten de organisaties voor de sportieve vrijetijdsbesteding overeenkomstig artikel 49, 2°, van het decreet, in het vierjaarlijkse beleidsplan de functies, vermeld in artikel 49, 1°, van het decreet, afzonderlijk aan bod laten komen. Het vierjaarlijkse beleidsplan moet aangevuld worden met een jaarlijks actieplan met de concrete activiteiten en timing en een daaraan gekoppelde jaarlijkse begroting waarin alle functies, vermeld in artikel 49, 1°, van het decreet, afzonderlijk aan bod komen. Dat jaarlijkse actieplan moet bij Sport Vlaanderen worden ingediend uiterlijk op 1 september, voorafgaand aan het desbetreffende werkingsjaar.<br>
+&nbsp;
 
 ### ART. 49.
 
-Jaarlijks sturen de organisaties voor de sportieve vrijetijdsbesteding uiterlijk tegen 1 december de begroting van het volgende werkingsjaar naar het Bloso.<br /><br />
+Jaarlijks sturen de organisaties voor de sportieve vrijetijdsbesteding uiterlijk tegen 1 december de begroting van het volgende werkingsjaar naar Sport Vlaanderen.<br>
+&nbsp;
 
 ### ART. 50.
 
@@ -298,7 +476,12 @@ Het personeelslid, vermeld in artikel 49, 3°, van het decreet, moet minstens be
 
 ### ART. 51.
 
-§ 1. Overeenkomstig artikel 49, 4°, van het decreet, moet de organisatie voor de sportieve vrijetijdsbesteding op elektronische wijze een bestand met betrekking tot de aangesloten sportieve vrijetijdsbeoefenaars bijhouden waarin minimaal de gegevens geregistreerd worden die voorkomen in het model, opgenomen in bijlage VI, die bij dit besluit is gevoegd.<br /><br />Zowel met het oog op de controle en de inspectie voor de berekening van de subsidies als met het oog op statistische verwerking kan het Bloso op elk ogenblik de volledige bestanden, gedeeltelijke bestanden of geaggregeerde gegevens opvragen. De organisatie voor de sportieve vrijetijdsbesteding moet die informatie bezorgen volgens het model, opgenomen in bijlage VI, die bij dit besluit is gevoegd.<br /><br />§ 2. De organisatie voor de sportieve vrijetijdsbesteding moet in het kader van de opmaak van de sportdatabank Vlaanderen de gegevens met betrekking tot de organisatie voor de sportieve vrijetijdsbesteding, de bij haar aangesloten verenigingen en clubs en aangesloten sportieve vrijetijdsbeoefenaars digitaal in de sportdatabank invoeren en up-to-date houden op de wijze die het Bloso bepaalt.<br /><br />
+§ 1. Overeenkomstig artikel 49, 4°, van het decreet, moet de organisatie voor de sportieve vrijetijdsbesteding op elektronische wijze een bestand met betrekking tot de aangesloten sportieve vrijetijdsbeoefenaars bijhouden waarin minimaal de gegevens geregistreerd worden die voorkomen in het model, opgenomen in bijlage VI, die bij dit besluit is gevoegd.<br>
+<br>
+Zowel met het oog op de controle en de inspectie voor de berekening van de subsidies als met het oog op statistische verwerking kan Sport Vlaanderen op elk ogenblik de volledige bestanden, gedeeltelijke bestanden of geaggregeerde gegevens opvragen. De organisatie voor de sportieve vrijetijdsbesteding moet die informatie bezorgen volgens het model, opgenomen in bijlage VI, die bij dit besluit is gevoegd.<br>
+<br>
+§ 2. De organisatie voor de sportieve vrijetijdsbesteding moet in het kader van de opmaak van de sportdatabank Vlaanderen de gegevens met betrekking tot de organisatie voor de sportieve vrijetijdsbesteding, de bij haar aangesloten verenigingen en clubs en aangesloten sportieve vrijetijdsbeoefenaars digitaal in de sportdatabank invoeren en up-to-date houden op de wijze die Sport Vlaanderen bepaalt.<br>
+&nbsp;
 
 ## Afdeling IV Subsidiëringsprocedure
 
@@ -310,7 +493,8 @@ Overeenkomstig artikel 52 van het decreet, zijn de bepalingen van hoofdstuk V, a
 
 ### ART. 53.
 
-Uiterlijk tegen 1 april dienen de organisaties voor de sportieve vrijetijdsbesteding het financiële verslag en het werkingsverslag, vermeld in artikel 48, 12°, van het decreet, over het voorbije werkingsjaar bij het Bloso in.<br /><br />
+Uiterlijk tegen 1 april dienen de organisaties voor de sportieve vrijetijdsbesteding het financiële verslag en het werkingsverslag, vermeld in artikel 48, 12°, van het decreet, over het voorbije werkingsjaar bij Sport Vlaanderen in.<br>
+&nbsp;
 
 ### ART. 54.
 
@@ -355,57 +539,57 @@ De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het ope
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp; <!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;verplicht<sup>1</sup></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>opmerking</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>sportclub</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>aansluitingsnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Volledige benaming.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>juridisch statuut</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden :<br>
 			- vzw<br>
 			- feitelijke vereniging<br>
@@ -414,244 +598,244 @@ De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het ope
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>straat en nummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>postnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>gemeente</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>provincie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>telefoonnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>faxnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>E-mail adres</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>website</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>URL</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>bank- of postrekeningnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>aansluitingsdatum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Aansluitingsdatum bij de sportfederatie.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>andere sportfederatie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Is de sportclub tevens lid van een andere sportfederatie?<br>
 			De mogelijke waarden worden beperkt tot : ja/nee.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>sporttak-discipline<br>
 			(1 sportclub kan meerdere sporttakken-disciplines aanbieden)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>De mogelijke waarden zijn opgenomen in de sporttakkenlijst in bijlage V.<br>
 			Desgevallend kunnen andere waarden toegevoegd worden.</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td colspan="3" style="background-color:transparent">
 			<p>bestuurlijke en sporttechnische omkadering<br>
 			(1 sportclub kan meerdere bestuursleden of trainers/lesgevers hebben)<br>
 			Is van toepassing op de voorzitter, de secretaris, de penningmeester, andere bestuursleden en trainers/lesgevers.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>geslacht</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden : M/V</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>nationaliteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Nationaliteitsaanduiding op basis van ISO 3166-1-alpha-2 code (www.iso.org/iso/country_codes/<br>
 			iso_3166_code_lists.htm)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>geboortedatum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>straat en nummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>postnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>gemeente</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>functie (een bestuurslid of trainer/lesgever kan meerdere functies uitoefenen, 1 functie kan door meerdere bestuursleden of trainers/lesgevers uitgeoefend worden)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden :<br>
 			- voorzitter<br>
 			- secretaris<br>
@@ -662,59 +846,59 @@ De Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het ope
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>telefoonnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Enkel indien functie = voorzitter, secretaris of penningmeester.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>faxnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Enkel indien functie = voorzitter, secretaris of penningmeester.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>GSM nummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Enkel indien functie = voorzitter, secretaris of penningmeester.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>E-mail adres</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Enkel indien functie = voorzitter, secretaris of penningmeester.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>diploma of getuigschrift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Enkel indien functie = trainer/lesgever.<br>
-			Het hoogste sporttechnisch diploma of getuigschrift in de betrokken sporttak. De mogelijke waarden worden beperkt tot een lijst die opgemaakt is door het Bloso.</p>
+			Het hoogste sporttechnisch diploma of getuigschrift in de betrokken sporttak. De mogelijke waarden worden beperkt tot een lijst die opgemaakt is door Sport Vlaanderen.</p>
 			</td>
 		</tr>
 	</tbody>
@@ -730,236 +914,236 @@ Model voor het bestand met betrekking tot de aangesloten leden :</p>
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;verplicht (1)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Opmerking</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td colspan="3" style="background-color:transparent">
 			<p>Lid</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>naam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>voornaam</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>straat en nummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>postnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>gemeente</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>provincie</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>telefoonnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>F</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>faxnummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>F</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>GSM nummer</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>F</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>e-mailadres</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>F</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>geboortedatum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>geslacht</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden : M/V</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>nationaliteit</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Nationaliteitsaanduiding op basis van ISO 3166-1-alpha-2 code (www.iso.org/iso/<br>
 			country_codes/iso_3166_<br>
 			code_lists.htm)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>aansluitingsnummer sportclub</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Moet eenduidig gerelateerd worden aan het bestand met betrekking tot de aangesloten sportclubs.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>aansluitingsdatum</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Aansluitingsdatum van het lid bij de sportclub.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>datum einde lidmaatschap</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Datum van het einde van het lidmaatschap bij de sportclub.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>jaarlijks lidgeld betaald</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Heeft het lid voor het huidige jaar zijn/haar lidgeld betaald?<br>
 			Mogelijke waarden : ja/nee.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>andere sportclub</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Is het lid tevens lid van een andere sportclub die dezelfde sporttak(ken)aanbiedt?<br>
 			De mogelijke waarden worden beperkt tot : ja/nee.</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td colspan="3" style="background-color:transparent">
 			<p>statuut (1 lid kan meerdere statuten hebben)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>statuut</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden :<br>
 			- topsporter<br>
 			- competitief lid<br>
@@ -971,30 +1155,30 @@ Model voor het bestand met betrekking tot de aangesloten leden :</p>
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td colspan="3" style="background-color:transparent">
 			<p>beoefende sporttak (1 lid kan meerdere sporttakken beoefenen)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>sporttak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>De mogelijke waarden zijn opgenomen in de sporttakkenlijst in bijlage V.<br>
 			Desgevallend kunnen andere waarden toegevoegd worden.</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>medisch getuigschrift</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Mogelijke waarden : ja/nee.</p>
 			</td>
 		</tr>
@@ -1010,44 +1194,44 @@ Model voor het bestand met betrekking tot de aangesloten leden :</p>
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Voetnoot 1 :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>V</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>=</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>verplicht op te nemen</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;T</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>=</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>op te nemen indien het gegeven van toepassing is (bijvoorbeeld : indien de sportclub over een E-mail adres beschikt, is het verplicht dit op te nemen)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>&nbsp;F</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>=</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>facultatief op te nemen</p>
 			</td>
 		</tr>
@@ -1062,7 +1246,34 @@ Model voor het bestand met betrekking tot de aangesloten leden :</p>
 
 ### BIJLAGE 2
 
-- brutosalaris occasionele sporttechnische en administratieve medewerkers<br />- rsz/werkgeversbijdrage occasionele sporttechnische en administratieve medewerkers<br />- eindejaarstoelage en vakantiegeld occasionele sporttechnische en administratieve medewerkers<br />- kosten inzake dienstverlening door zelfstandigen in de functie van occasionele sporttechnische medewerker of occasionele administratieve medewerker<br />- verplaatsingskosten sporttechnische medewerkers<br />- verplaatsingskosten administratieve medewerkers en bestuursleden<br />- verplaatsingskosten deelnemers<br />- verblijfskosten sporttechnische medewerkers<br />- verblijfskosten administratieve medewerkers en bestuursleden<br />- verblijfskosten deelnemers<br />- kosten voor vervoer van sportmateriaal<br />- aankoop, huur of afschrijving van sportmateriaal<br />- aankoop, huur of afschrijving van technologisch materiaal<br />- aankoop, huur of afschrijving van didactisch materiaal<br />- aankoop van bureelbenodigdheden<br />- huur van sportaccommodaties, vergader- en leslokalen<br />- huur van voertuigen, reddings- en volgboten<br />- drukwerken<br />- kosten voor informatie- en promotiemateriaal<br />- verbruikskosten voor interne en externe communicatie<br />- kosten voor kwaliteits- en effectmeting<br />- bijdrage aan de erkende koepelorganisatie<br />- kosten aangerekend door verenigingen ter bescherming van auteursrechten<br />- kosten voor medische hulpposten<br />- kosten voor financiële verslaggeving (opmaak, neerlegging en controle van de jaarrekening)<br />- inschrijvingsgeld cursussen<br />- andere kosten waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven<br /><br />
+- brutosalaris occasionele sporttechnische en administratieve medewerkers<br>
+- rsz/werkgeversbijdrage occasionele sporttechnische en administratieve medewerkers<br>
+- eindejaarstoelage en vakantiegeld occasionele sporttechnische en administratieve medewerkers<br>
+- kosten inzake dienstverlening door zelfstandigen in de functie van occasionele sporttechnische medewerker of occasionele administratieve medewerker<br>
+- verplaatsingskosten sporttechnische medewerkers<br>
+- verplaatsingskosten administratieve medewerkers en bestuursleden<br>
+- verplaatsingskosten deelnemers<br>
+- verblijfskosten sporttechnische medewerkers<br>
+- verblijfskosten administratieve medewerkers en bestuursleden<br>
+- verblijfskosten deelnemers<br>
+- kosten voor vervoer van sportmateriaal<br>
+- aankoop, huur of afschrijving van sportmateriaal<br>
+- aankoop, huur of afschrijving van technologisch materiaal<br>
+- aankoop, huur of afschrijving van didactisch materiaal<br>
+- aankoop van bureelbenodigdheden<br>
+- huur van sportaccommodaties, vergader- en leslokalen<br>
+- huur van voertuigen, reddings- en volgboten<br>
+- drukwerken<br>
+- kosten voor informatie- en promotiemateriaal<br>
+- verbruikskosten voor interne en externe communicatie<br>
+- kosten voor kwaliteits- en effectmeting<br>
+- bijdrage aan de erkende koepelorganisatie<br>
+- kosten aangerekend door verenigingen ter bescherming van auteursrechten<br>
+- kosten voor medische hulpposten<br>
+- kosten voor financiële verslaggeving (opmaak, neerlegging en controle van de jaarrekening)<br>
+- inschrijvingsgeld cursussen<br>
+- andere kosten waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
+&nbsp;
 
 ## Bijlage III Bezoldigingstabel voor de occasionele medewerkers in het kader van de subsidiëring van de basisopdrachten van de sportfederaties
 
@@ -1211,67 +1422,67 @@ BIJSCHOLINGEN
 <table border="1" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Categorie <!--?xml:namespace         prefix = o ns = "urn:schemas-microsoft-com:office:office"       /--></p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>VI</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>VII</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>VIII</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Voor de occasionele medewerker met de specifieke functie van docent in :</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>- Door de VTS erkende bijscholingen voor VTS-Initiator en de eventueel andersbenoemde opleidingen van het eerste VTS-niveau* in de betrokken sporttak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>- Door de VTS erkende bijscholingen voor VTS-Trainer B / Instructeur B en de eventueel andersbenoemde opleidingen van het tweede VTS-niveau* in de betrokken sporttak</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>- Door de VTS erkende bijscholingen voor VTS-Trainer A en de eventueel andersbenoemde opleidingen van het derde VTS-niveau* in de betrokken sporttak<br>
 			- Administratieve opleidingen voor clubbestuurders (Sportac)</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Brutojaarloon aan 100 %**</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 32.150,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 36.200,00</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 40.200,00</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Geïndexeerd bruto-uurloon*** (vanaf 1 oktober 2008)</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 24,1760</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 27,2214</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>euro 30,2293</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td style="background-color:transparent">
 			<p>Reisvergoeding per km (d.d. 1 juli 2008)</p>
 			</td>
-			<td colspan="3" style="background-color:transparent; border-bottom:#f0f0f0; border-left:#f0f0f0; border-right:#f0f0f0; border-top:#f0f0f0">
+			<td colspan="3" style="background-color:transparent">
 			<p>euro 0,3093</p>
 			</td>
 		</tr>
@@ -1282,18 +1493,41 @@ BIJSCHOLINGEN
 
 <p>&nbsp;</p>
 
-<p>* Zie de geactualiseerde assimilatietabel van de Vlaamse Trainersschool op de Bloso website.<br>
+<p>* Zie de geactualiseerde assimilatietabel van de Vlaamse Trainersschool op de Sport Vlaanderen website.<br>
 ** Het brutojaarloon tegen 100 % is gebaseerd op de categorieën en de salarisschalen, vermeld in bijlage 2 van het besluit van de Vlaamse Regering van 17 februari 2006 houdende organisatie van het Commissariaat-generaal voor de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie en de instellingsspecifieke regeling van de rechtspositie van het personeel (Belgisch Staatsblad 23 maart 2006).<br>
 Het brutojaarloon tegen 100 % is gekoppeld aan de spilindex 138,01 (1 januari 1990).<br>
 Het brutojaarloon tegen 100 % wordt verhoogd met de lineaire loonsverhogingen die toegekend worden aan de ambtenaren van de Vlaamse overheid.<br>
-*** Geïndexeerd bruto-uurloon = (Het brutojaarloon tegen 100 % + lineaire loonsverhogingen) x indexcoëfficiënt / 1976)<br>
-&nbsp;</p>
+*** Geïndexeerd bruto-uurloon = (Het brutojaarloon tegen 100 % + lineaire loonsverhogingen) x indexcoëfficiënt / 1976)</p>
 
 ## Bijlage IV Subsidieerbare kosten m.b.t. de opdrachten van de erkende koepelorganisatie
 
 ### BIJLAGE 4
 
-- honorarium gastsprekers<br />- brutosalaris occasionele medewerkers<br />- rsz/werkgeversbijdrage occasionele medewerkers<br />- eindejaarstoelage en vakantiegeld occasionele medewerkers<br />- verplaatsingskosten bestuursleden<br />- verplaatsingskosten gastsprekers<br />- verplaatsingskosten personeelsleden in vaste dienst<br />- verblijfskosten binnenland gastsprekers<br />- kosten inzake dienstverlening door occasionele medewerkers in een zelfstandig statuut<br />- kosten voor vervoer van materiaal<br />- aankoop, huur of afschrijving van didactisch materiaal<br />- aankoop, huur of afschrijving van technologisch materiaal<br />- aankoop van bureelbenodigdheden<br />- huur van voertuigen<br />- huur van lokalen<br />- drukwerken<br />- kosten voor kwaliteits- en effectmeting<br />- kosten aangerekend door verenigingen ter bescherming van auteursrechten<br />- kosten voor informatie- en promotiemateriaal<br />- kosten voor juridisch advies<br />- kosten voor vorming<br />- verbruikskosten voor interne en externe communicatie<br />- kosten voor financiële verslaggeving (opmaak, neerlegging en controle van de jaarrekening)<br />- andere kosten waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven<br /><br />
+- honorarium gastsprekers<br>
+- brutosalaris occasionele medewerkers<br>
+- rsz/werkgeversbijdrage occasionele medewerkers<br>
+- eindejaarstoelage en vakantiegeld occasionele medewerkers<br>
+- verplaatsingskosten bestuursleden<br>
+- verplaatsingskosten gastsprekers<br>
+- verplaatsingskosten personeelsleden in vaste dienst<br>
+- verblijfskosten binnenland gastsprekers<br>
+- kosten inzake dienstverlening door occasionele medewerkers in een zelfstandig statuut<br>
+- kosten voor vervoer van materiaal<br>
+- aankoop, huur of afschrijving van didactisch materiaal<br>
+- aankoop, huur of afschrijving van technologisch materiaal<br>
+- aankoop van bureelbenodigdheden<br>
+- huur van voertuigen<br>
+- huur van lokalen<br>
+- drukwerken<br>
+- kosten voor kwaliteits- en effectmeting<br>
+- kosten aangerekend door verenigingen ter bescherming van auteursrechten<br>
+- kosten voor informatie- en promotiemateriaal<br>
+- kosten voor juridisch advies<br>
+- kosten voor vorming<br>
+- verbruikskosten voor interne en externe communicatie<br>
+- kosten voor financiële verslaggeving (opmaak, neerlegging en controle van de jaarrekening)<br>
+- andere kosten waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
+&nbsp;
 
 ## Bijlage V Sporttakkenlijst : sporttakken met hun disciplines die voor subsidiëring in aanmerking komen in het kader van het sporttakkenbeleid zoals bepaald in artikel 2, 8° van het decreet
 
