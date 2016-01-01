@@ -28,7 +28,18 @@ De kerntaken van het VIPA omvatten :<br />1° de financiering, in welke vorm ook
 
 ### ART. 6.
 
-De taken. vermeld in artikel 5, omvatten in elk geval :<br />1° binnen de perken van de in het begrotingsdecreet vermelde gespecificeerde machtigingen en met toepassing van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden :<br />a) aan een initiatiefnemer investeringssubsidies en investeringswaarborgen verstrekken;<br />b) bij wijze van investeringssubsidie, die niet gecumuleerd kan worden met de subsidies, vermeld in a), bijdragen in de kosten van leasing voor de nieuwbouw, uitbreiding en verbouwing van voorzieningen voor bejaarden, van voorzieningen in de preventieve en ambulante gezondheidszorg, van voorzieningen in de kinderdagopvangsector en van voorzieningen voor de sociale integratie van personen met een handicap;<br />2° voorzien in een bouwtechnische en financiële kenniscel met onder andere de volgende opdrachten :<br />a) het sensibiliseren en stimuleren van de initiatiefnemers ten aanzien van kostenefficiëntie;<br />b) informatieverstrekking, adviesverlening, ondersteuning en begeleiding van de initiatief-nemers op conceptueel, financieel en bouw-technisch vlak;<br />3° het aanleggen en beheren van financiële reserves met het oog op de dekking van toekomstige en onvoorziene uitgaven.<br /><br />
+De taken. vermeld in artikel 5, omvatten in elk geval :<br>
+1° binnen de perken van de in het begrotingsdecreet vermelde gespecificeerde machtigingen en met toepassing van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden :<br>
+a) aan een initiatiefnemer investeringssubsidies en investeringswaarborgen verstrekken;<br>
+b) bij wijze van investeringssubsidie, die niet gecumuleerd kan worden met de subsidies, vermeld in a), bijdragen in de kosten van leasing voor de nieuwbouw, uitbreiding en verbouwing van voorzieningen voor bejaarden, van voorzieningen in de preventieve en ambulante gezondheidszorg, van voorzieningen in de kinderdagopvangsector en van voorzieningen voor de sociale integratie van personen met een handicap;<br>
+1° /1 het ten laste nemen, binnen de gespecificeerde machtigingen, vermeld in het begrotingsdecreet, van de financiering van de investeringen in de infrastructuur en de medisch-technische diensten van de ziekenhuizen, vermeld in artikel 5, § 1, I, eerste lid, 1°, a), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° voorzien in een bouwtechnische en financiële kenniscel met onder andere de volgende opdrachten :<br>
+a) het sensibiliseren en stimuleren van de initiatiefnemers ten aanzien van kostenefficiëntie;<br>
+b) informatieverstrekking, adviesverlening, ondersteuning en begeleiding van de initiatief-nemers op conceptueel, financieel en bouw-technisch vlak;<br>
+3° het aanleggen en beheren van financiële reserves met het oog op de dekking van toekomstige en onvoorziene uitgaven.<br>
+<br>
+De Vlaamse Regering kan, na advies van het raadgevend comité dat is opgericht bij het intern verzelfstandigd agentschap Zorg en Gezondheid, de regels bepalen voor het bedrag, de voorwaarden, de toekenning en de vereffening van de financiering van de investeringen in de infrastructuur en de medisch-technische diensten van de ziekenhuizen, vermeld in artikel 5, § 1, I, eerste lid, 1°, a), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.<br>
+&nbsp;
 
 ### ART. 7.
 
