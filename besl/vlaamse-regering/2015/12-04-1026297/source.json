@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026297,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 betreffende de integratie van het intern verzelfstandigd agentschap Studiedienst van de Vlaamse Regering in het departement Kanselarij en Bestuur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026297/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "cb64c2a12573af8ed0d3c0573ccf38b6c9a7e17c4c8cb4444198bcb3e94d4832",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026297&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-04",
+  "gazette": "2016-01-13",
+  "numac": 2015036650,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
