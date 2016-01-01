@@ -34,7 +34,17 @@
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder:<BR>1° administratie: het Departement   Cultuur, Jeugd, Sport en Media van het Vlaams Ministerie van Cultuur, Jeugd,   Sport en Media;<BR>2° het decreet: het decreet van 20 december 2013 inzake   gezond en ethisch sporten;<BR>3° erkende sportfederatie: de sportorganisatie die   erkend is als Vlaamse sportfederatie met toepassing van het decreet van 13 juli   2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse   sportfederaties, de koepelorganisatie en de organisaties voor de sportieve   vrijetijdsbesteding;<BR>4° kwaliteitsstandaard: de kwaliteitsstandaard, vermeld   in artikel 2, 5°, van het decreet.<BR>5° lerend netwerk: het lerend netwerk,   vermeld in artikel 2, 7°, van het decreet;<BR>6° minister: de Vlaamse minister,   bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<BR>7°   risicovechtsporten: de sporten waarbij het toegestaan is bepaalde technieken te   gebruiken met de intentie de fysieke of psychische integriteit van de   tegenstander te verminderen;<BR>8° sporter: de sporter, vermeld in artikel 2,   3°, van het decreet;<BR>9° sportmedisch geschiktheidsonderzoek: het   sportmedische geschiktheidsonderzoek, vermeld in artikel 2,6°, van het   decreet;<BR>10° sportorganisatie: de sportorganisatie, vermeld in artikel 2, 4°,   van het decreet.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° administratie: het agentschap Sport Vlaanderen, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
+2° het decreet: het decreet van 20 december 2013 inzake gezond en ethisch sporten;<br>
+3° erkende sportfederatie: de sportorganisatie die erkend is als Vlaamse sportfederatie met toepassing van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+4° kwaliteitsstandaard: de kwaliteitsstandaard, vermeld in artikel 2, 5°, van het decreet.<br>
+5° lerend netwerk: het lerend netwerk, vermeld in artikel 2, 7°, van het decreet;<br>
+6° minister: de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+7° risicovechtsporten: de sporten waarbij het toegestaan is bepaalde technieken te gebruiken met de intentie de fysieke of psychische integriteit van de tegenstander te verminderen;<br>
+8° sporter: de sporter, vermeld in artikel 2, 3°, van het decreet;<br>
+9° sportmedisch geschiktheidsonderzoek: het sportmedische geschiktheidsonderzoek, vermeld in artikel 2,6°, van het decreet;<br>
+10° sportorganisatie: de sportorganisatie, vermeld in artikel 2, 4°, van het decreet.
 
 ## HOOFDSTUK 2 Gezond sporten
 
@@ -60,7 +70,14 @@ In dit besluit wordt verstaan onder:<BR>1° administratie: het Departement   Cul
 
 ### ART. 5.
 
-De minister richt een lerend netwerk voor ethisch sporten op   overeenkomstig de modaliteiten, vermeld in artikel 4, waartoe minstens de   vertegenwoordigers behoren van:<BR>1° de administratie;<BR>2° het agentschap ter   Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie,   opgericht bij het decreet van 7 mei 2004 tot omvorming van de Vlaamse openbare   instelling Commissariaat-generaal voor de Bevordering van de Lichamelijke   Ontwikkeling, de Sport en de Openluchtrecreatie tot het intern verzelfstandigd   agentschap met rechtspersoonlijkheid BLOSO;<BR>3° de koepelorganisatie, erkend   en gesubsidieerd conform het decreet van 13 juli 2001 houdende de regeling van   de erkenning en subsidiëring van de Vlaamse sportfederaties, de   koepelorganisatie en de organisaties voor de sportieve   vrijetijdsbesteding;<BR>4° de organisatie voor de begeleiding van de gemeenten,   de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse   beleidsprioriteiten Sport voor Allen, erkend en gesubsidieerd conform het   decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal   sportbeleid;<BR>5° de vereniging voor de organisatie van schoolsport,   gesubsidieerd conform het decreet van 13 februari 2009 houdende de organisatie   van schoolsport;<BR>6° de organisatie voor de coördinatie en tewerkstelling van   een pool van sportbegeleiders en sportondersteuners, erkend en gesubsidieerd   conform het decreet van 8 november 2013 houdende het stimuleren, het coördineren   en het subsidiëren van de tewerkstelling in de sportsector;<BR>7° in voorkomend   geval, een organisatie voor beleidsondersteuning en praktijkontwikkeling op het   gebied van ethisch sporten, erkend en gesubsidieerd conform artikel 14 van het   decreet.<BR>
+De minister richt een lerend netwerk voor ethisch sporten op overeenkomstig de modaliteiten, vermeld in artikel 4, waartoe minstens de vertegenwoordigers behoren van:<br>
+1° de administratie;<br>
+2° ...;<br>
+3° de koepelorganisatie, erkend en gesubsidieerd conform het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+4° de organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen, erkend en gesubsidieerd conform het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid;<br>
+5° de vereniging voor de organisatie van schoolsport, gesubsidieerd conform het decreet van 13 februari 2009 houdende de organisatie van schoolsport;<br>
+6° de organisatie voor de coördinatie en tewerkstelling van een pool van sportbegeleiders en sportondersteuners, erkend en gesubsidieerd conform het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector;<br>
+7° in voorkomend geval, een organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van ethisch sporten, erkend en gesubsidieerd conform artikel 14 van het decreet.
 
 ## Afdeling 2 Richtsnoeren
 
@@ -74,7 +91,26 @@ De minister richt een lerend netwerk voor ethisch sporten op   overeenkomstig de
 
 ### ART. 7.
 
-<P>§ 1. Expertencommissies voor gezond of ethisch sporten, vermeld in artikel 13   van het decreet, worden gerealiseerd op de wijze en onder de voorwaarden,   vermeld in de paragrafen twee tot en met zeven.<BR></P>  <P>§ 2. De minister benoemt de leden van een expertencommissie op basis van hun   deskundigheid voor een hernieuwbare termijn van maximaal vijf jaar en wijst   onder hen een voorzitter aan.<BR></P>  <P>§ 3. De minister kan op verzoek van de betrokkene een einde maken aan het   mandaat van voorzitter of lid. Bovendien kan de minister in de volgende gevallen   ambtshalve een einde stellen aan een mandaat:<BR>1° als de mandaathouder drie   keer na elkaar zonder voorafgaande kennisgeving de vergaderingen van de   expertencommissie niet bijwoont;<BR>2° als de mandaathouder het vertrouwelijke   karakter van de beraadslagingen van de expertencommissie niet eerbiedigt of   vertrouwelijke documenten verspreidt;<BR>3° als de mandaathouder zijn   persoonlijke belangen voorrang geeft bij de uitoefening van zijn   mandaat.<BR></P>  <P>§ 4. Elke expertencommissie stelt na haar samenstelling een huishoudelijk   reglement op dat haar werking regelt. Het reglement, alsook elke latere   wijziging ervan, wordt unaniem aangenomen en binnen een maand na de aanname ter   goedkeuring aan de minister voorgelegd. Het is pas toepasselijk na de   goedkeuring door de minister.<BR></P>  <P>§ 5. De vergaderingen zijn niet openbaar en de besprekingen zijn   vertrouwelijk.<BR></P>  <P>§ 6. Een vertegenwoordiger van de minister kan de vergaderingen   bijwonen.<BR></P>  <P>§ 7. Elke expertencommissie kan een beroep doen op deskundigen. Deze   deskundigen hebben recht op een vergoeding zoals bepaald in paragraaf 8.<BR></P>  <P>§ 8. De leden van een expertencommissie, met uitzondering van de leden die   personeelslid zijn van de Vlaamse overheid, hebben ten laste van de begroting   van de Vlaamse Gemeenschap recht op:<BR>1° een presentiegeld dat voor de   voorzitter 150 euro en voor de andere leden 100 euro bedraagt, met dien   verstande dat jaarlijks aan de voorzitter niet meer dan 2250 euro en aan de   andere leden niet meer dan 1500 euro uitgekeerd kan worden;<BR>2° de   terugbetaling van de reis- en verblijfkosten onder dezelfde voorwaarden als de   voorwaarden die gelden voor de personeelsleden van het Departement Cultuur,   Jeugd, Sport en Media.<BR></P>
+<p>§ 1. Expertencommissies voor gezond of ethisch sporten, vermeld in artikel 13 van het decreet, worden gerealiseerd op de wijze en onder de voorwaarden, vermeld in de paragrafen twee tot en met zeven.</p>
+
+<p>§ 2. De minister benoemt de leden van een expertencommissie op basis van hun deskundigheid voor een hernieuwbare termijn van maximaal vijf jaar en wijst onder hen een voorzitter aan.</p>
+
+<p>§ 3. De minister kan op verzoek van de betrokkene een einde maken aan het mandaat van voorzitter of lid. Bovendien kan de minister in de volgende gevallen ambtshalve een einde stellen aan een mandaat:<br>
+1° als de mandaathouder drie keer na elkaar zonder voorafgaande kennisgeving de vergaderingen van de expertencommissie niet bijwoont;<br>
+2° als de mandaathouder het vertrouwelijke karakter van de beraadslagingen van de expertencommissie niet eerbiedigt of vertrouwelijke documenten verspreidt;<br>
+3° als de mandaathouder zijn persoonlijke belangen voorrang geeft bij de uitoefening van zijn mandaat.</p>
+
+<p>§ 4. Elke expertencommissie stelt na haar samenstelling een huishoudelijk reglement op dat haar werking regelt. Het reglement, alsook elke latere wijziging ervan, wordt unaniem aangenomen en binnen een maand na de aanname ter goedkeuring aan de minister voorgelegd. Het is pas toepasselijk na de goedkeuring door de minister.</p>
+
+<p>§ 5. De vergaderingen zijn niet openbaar en de besprekingen zijn vertrouwelijk.</p>
+
+<p>§ 6. Een vertegenwoordiger van de minister kan de vergaderingen bijwonen.</p>
+
+<p>§ 7. Elke expertencommissie kan een beroep doen op deskundigen. Deze deskundigen hebben recht op een vergoeding zoals bepaald in paragraaf 8.</p>
+
+<p>§ 8. De leden van een expertencommissie, met uitzondering van de leden die personeelslid zijn van de Vlaamse overheid, hebben ten laste van de administratie recht op:<br>
+1° een presentiegeld dat voor de voorzitter 150 euro en voor de andere leden 100 euro bedraagt, met dien verstande dat jaarlijks aan de voorzitter niet meer dan 2250 euro en aan de andere leden niet meer dan 1500 euro uitgekeerd kan worden;<br>
+2° de terugbetaling van de reis- en verblijfkosten onder dezelfde voorwaarden als de voorwaarden die gelden voor de personeelsleden van de administratie.</p>
 
 ### ART. 8.
 
@@ -122,7 +158,39 @@ Het beleidsplan, vermeld in artikel 14, § 4, van het decreet, omvat de   volgen
 
 ### ART. 18.
 
-<P>§ 1. In dit artikel wordt verstaan onder getalenteerde sporter: de sporter   die talent heeft voor topsport volgens de sportspecifieke ontwikkelingslijn, of   die al topsporter is vanwege zijn prestaties.<BR></P>  <P>§ 2. De minister stelt de lijst vast van getalenteerde sporters. De minister   kan beslissen om die sporters in te delen in verschillende niveaus.<BR></P>  <P>Ter uitvoering van artikel 15, eerste lid, 2°, van het decreet voorziet de   minister binnen de begrotingskredieten in een financiële tegemoetkoming voor het   sportmedische geschiktheidsonderzoek van de getalenteerde sporters op de wijzen,   vermeld in paragraaf 3 tot en met 6.<BR></P>  <P>§ 3. Aan de getalenteerde sporter wordt een toelage toegekend op basis van   een bij hem uitgevoerd sportmedisch geschiktheidsonderzoek door een arts die aan   de volgende voorwaarden voldoet:<BR>1° houder zijn van een van de volgende   diploma's:<BR>a) licentie in de lichamelijke opvoeding;<BR>b) master in de   lichamelijke opvoeding en de bewegingswetenschappen;<BR>c) bijzondere licentie   in de lichamelijke opvoeding en de sportgeneeskunde;<BR>d) licentie in de   sportgeneeskunde;<BR>e) getuigschrift van aanvullend onderwijs in de   sportgeneeskunde;<BR>f) master in de sportgeneeskunde;<BR>Gelijkwaardige   diploma's, toegekend door een andere gemeenschap binnen België, door een andere   lidstaat van de Europese Unie of door een staat waarmee een overeenkomst is   gesloten waarbij de erkenning van een gelijkwaardige beroepskwalificatie wordt   opgelegd, komen eveneens in aanmerking.<BR>2° houder zijn van een   elektrocardiografiegetuigschrift (EKG-getuigschrift);<BR>3° het   Antidopingcharter voor de Arts onderschrijven en naleven, dat ondertekend is   door NADO Vlaanderen;<BR>4° beschikken over de nodige apparatuur en ruimte om de   absolute en relatieve sportmedische geschiktheidscriteria bij sporters te kunnen   vaststellen. Daartoe behoort minstens de volgende apparatuur:<BR>a)   ergometrie-installatie met fietsergometer, alsook de nodige apparatuur om een   inspanningselektrocardiogram af te nemen;<BR>b) apparatuur voor   longfunctietests;<BR>c) apparatuur voor antropometrisch onderzoek en bepaling   van het vetgehalte;<BR>d) reanimatieapparatuur, minimaal een   defibrillator;<BR>5° de verbintenis aangaan om vormingsactiviteiten in de   sportgeneeskunde bij te wonen, minstens zes uur per kalenderjaar, en de   administratie daarover te informeren als ze dat vraagt;<BR>6° de verbintenis   aangaan om mee te werken aan de totstandkoming en de toepassing van   gestandaardiseerde onderzoeksprotocollen voor het sportmedische   geschiktheidsonderzoek, waarvan de inhoudelijke basis en minimale frequentie   zijn vastgelegd op basis van het specifieke karakter van de sportactiviteit, de   intensiteit ervan en de leeftijdscategorie waartoe de sporter behoort.<BR></P>  <P>§ 4. Jaarlijks stelt de minister voor elke getalenteerde sporter een toelage   vast voor het sportmedische geschiktheidsonderzoek van maximaal 350 euro op   jaarbasis. In voorkomend geval kan de minister daarbij een onderscheid maken   volgens de verschillende niveaus waarin de getalenteerde sporters zijn   ingedeeld.<BR></P>  <P>§ 5. Nadat de administratie een overzicht van de uitgevoerde sportmedische   geschiktheidsonderzoeken heeft ontvangen, betaalt ze de toelage aan de   getalenteerde sporter zelf of, met zijn toestemming, aan de sportfederatie   waaronder hij ressorteert of aan de arts onder de verantwoordelijkheid van wie   zijn sportmedische geschiktheidsonderzoek is uitgevoerd. De minister kan een   betalingsprocedure opleggen of uitsluiten.<BR></P>  <P>Op eenvoudig verzoek van de arts van de administratie legt de getalenteerde   sporter zelf of, met zijn toestemming, de sportfederatie waaronder hij   ressorteert of de arts onder de verantwoordelijkheid van wie zijn sportmedische   geschiktheidsonderzoek is uitgevoerd, een bewijs voor van de betalingen die hij   heeft verricht voor de sportmedische onderzoeken die in aanmerking komen voor   subsidiëring, alsook de bewijsstukken van de prestaties die daarvoor uitgevoerd   zijn.<BR></P>  <P>§ 6. De minister kan de nodige maatregelen treffen ter uitvoering van deze   bepaling,<BR>zoals onder meer het bepalen van aanvraagmodaliteiten of het   bepalen van de manier waarop de lijst van getalenteerde sporters wordt opgesteld   en bekendgemaakt.<BR></P>
+<p>§ 1. In dit artikel wordt verstaan onder getalenteerde sporter: de sporter die talent heeft voor topsport volgens de sportspecifieke ontwikkelingslijn, of die al topsporter is vanwege zijn prestaties.</p>
+
+<p>§ 2. De minister stelt de lijst vast van getalenteerde sporters. De minister kan beslissen om die sporters in te delen in verschillende niveaus.</p>
+
+<p>Ter uitvoering van artikel 15, eerste lid, 2°, van het decreet voorziet de minister binnen de begrotingskredieten in een financiële tegemoetkoming voor het sportmedische geschiktheidsonderzoek van de getalenteerde sporters op de wijzen, vermeld in paragraaf 3 tot en met 6.</p>
+
+<p>§ 3. Aan de getalenteerde sporter wordt een toelage toegekend op basis van een bij hem uitgevoerd sportmedisch geschiktheidsonderzoek door een arts die aan de volgende voorwaarden voldoet:<br>
+1° houder zijn van een van de volgende diploma's:<br>
+a) licentie in de lichamelijke opvoeding;<br>
+b) master in de lichamelijke opvoeding en de bewegingswetenschappen;<br>
+c) bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde;<br>
+d) licentie in de sportgeneeskunde;<br>
+e) getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br>
+f) master in de sportgeneeskunde;<br>
+Gelijkwaardige diploma's, toegekend door een andere gemeenschap binnen België, door een andere lidstaat van de Europese Unie of door een staat waarmee een overeenkomst is gesloten waarbij de erkenning van een gelijkwaardige beroepskwalificatie wordt opgelegd, komen eveneens in aanmerking.<br>
+2° houder zijn van een elektrocardiografiegetuigschrift (EKG-getuigschrift);<br>
+3° het Antidopingcharter voor de Arts onderschrijven en naleven, dat ondertekend is door NADO Vlaanderen;<br>
+4° beschikken over de nodige apparatuur en ruimte om de absolute en relatieve sportmedische geschiktheidscriteria bij sporters te kunnen vaststellen. Daartoe behoort minstens de volgende apparatuur:<br>
+a) ergometrie-installatie met fietsergometer, alsook de nodige apparatuur om een inspanningselektrocardiogram af te nemen;<br>
+b) apparatuur voor longfunctietests;<br>
+c) apparatuur voor antropometrisch onderzoek en bepaling van het vetgehalte;<br>
+d) reanimatieapparatuur, minimaal een defibrillator;<br>
+5° de verbintenis aangaan om vormingsactiviteiten in de sportgeneeskunde bij te wonen, minstens zes uur per kalenderjaar, en de administratie daarover te informeren als ze dat vraagt;<br>
+6° de verbintenis aangaan om mee te werken aan de totstandkoming en de toepassing van gestandaardiseerde onderzoeksprotocollen voor het sportmedische geschiktheidsonderzoek, waarvan de inhoudelijke basis en minimale frequentie zijn vastgelegd op basis van het specifieke karakter van de sportactiviteit, de intensiteit ervan en de leeftijdscategorie waartoe de sporter behoort.</p>
+
+<p>§ 4. Jaarlijks stelt de minister voor elke getalenteerde sporter een toelage vast voor het sportmedische geschiktheidsonderzoek van maximaal 350 euro op jaarbasis. In voorkomend geval kan de minister daarbij een onderscheid maken volgens de verschillende niveaus waarin de getalenteerde sporters zijn ingedeeld.</p>
+
+<p>§ 5. Nadat de administratie een overzicht van de uitgevoerde sportmedische geschiktheidsonderzoeken heeft ontvangen, betaalt ze de toelage aan de getalenteerde sporter zelf of, met zijn toestemming, aan de sportfederatie waaronder hij ressorteert of aan de arts onder de verantwoordelijkheid van wie zijn sportmedische geschiktheidsonderzoek is uitgevoerd. De minister kan een betalingsprocedure opleggen of uitsluiten.</p>
+
+<p>Op eenvoudig verzoek van de arts aangewezen door de administratie legt de getalenteerde sporter zelf of, met zijn toestemming, de sportfederatie waaronder hij ressorteert of de arts onder de verantwoordelijkheid van wie zijn sportmedische geschiktheidsonderzoek is uitgevoerd, een bewijs voor van de betalingen die hij heeft verricht voor de sportmedische onderzoeken die in aanmerking komen voor subsidiëring, alsook de bewijsstukken van de prestaties die daarvoor uitgevoerd zijn.</p>
+
+<p>§ 6. De minister kan de nodige maatregelen treffen ter uitvoering van deze bepaling,<br>
+zoals onder meer het bepalen van aanvraagmodaliteiten of het bepalen van de manier waarop de lijst van getalenteerde sporters wordt opgesteld en bekendgemaakt.</p>
 
 ## HOOFDSTUK 6 Handhaving
 
@@ -132,7 +200,15 @@ Het beleidsplan, vermeld in artikel 14, § 4, van het decreet, omvat de   volgen
 
 ### ART. 20.
 
-Voor het toezicht op de artsen die getalenteerde sporters onderzoeken   zoals vermeld in artikel 18, hebben de ambtenaren van de administratie het recht   om ter plaatse controle te doen uitoefenen op de aanwending van de toegekende   gelden. Die ambtenaren moeten evenwel aan de twee onderstaande voorwaarden   voldoen:<BR>1° ze zijn arts of master in de geneeskunde;<BR>2° ze zijn houder   van een van de volgende diploma's:<BR>a) licentie in de lichamelijke   opvoeding;<BR>b) master in de lichamelijke opvoeding en de   bewegingswetenschappen;<BR>c) bijzondere licentie in de lichamelijke opvoeding   en de sportgeneeskunde;<BR>d) licentie in de sportgeneeskunde;<BR>e)   getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<BR>f) master in   de sportgeneeskunde.<BR>
+Voor het toezicht op de artsen die getalenteerde sporters onderzoeken zoals vermeld in artikel 18, hebben de artsen, daarvoor aangewezen door de administratie, het recht om ter plaatse controle te doen uitoefenen op de aanwending van de toegekende gelden. Die artsen moeten evenwel aan de twee onderstaande voorwaarden voldoen:<br>
+1° ze zijn arts of master in de geneeskunde;<br>
+2° ze zijn houder van een van de volgende diploma's:<br>
+a) licentie in de lichamelijke opvoeding;<br>
+b) master in de lichamelijke opvoeding en de bewegingswetenschappen;<br>
+c) bijzondere licentie in de lichamelijke opvoeding en de sportgeneeskunde;<br>
+d) licentie in de sportgeneeskunde;<br>
+e) getuigschrift van aanvullend onderwijs in de sportgeneeskunde;<br>
+f) master in de sportgeneeskunde.
 
 ## HOOFDSTUK 7 Overgangs- en slotbepalingen
 

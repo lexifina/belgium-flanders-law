@@ -2,16 +2,16 @@
   "codex_id": 1024237,
   "title": "Besluit van de Vlaamse Regering van 2014-04-04 houdende uitvoering van het decreet van 20 december 2013 inzake gezond en ethisch sporten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024237/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "cd598e52ea71252bf3e55fb5df0e413e6e34e93ff5757f5108ed194827db2044",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024237/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "eb2e12593535e5576eb2a92649fd31041705ff463e0c1a816251970814c452cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024237&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-01-01",
   "made": "2014-04-04",
   "gazette": "2014-07-01",
   "numac": 2014035628,
   "document_start": "2014-04-30",
   "document_end": "2024-08-31",
-  "in_force": "2015-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
