@@ -6,8 +6,8 @@
 
 ### ART. 1.
 
-&nbsp;In het ministerieel besluit van 27 mei   2015 houdende de bepaling van de klassen van bijdrageplichtige veebedrijven en   nadere bepalingen over het abonnement voor de financiering van de ophaling en   verwerking van krengen voor 2015 wordt een artikel 4/1 ingevoegd, dat luidt als   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"Art.   4/1. De bijdrageplichtige veebedrijven die in 2015 een abonnement zoals bedoeld   in artikel 1 hebben betaald, krijgen een korting van 44 %.".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-&nbsp;Dit besluit treedt in werking op 1   september 2015 en is geldig tot 31 december 2015.
+...
