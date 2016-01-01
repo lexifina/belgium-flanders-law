@@ -1,0 +1,17 @@
+{
+  "codex_id": 1031695,
+  "title": "Decreet van 2019-03-29 houdende diverse bepalingen in het beleidsveld cultuur",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1031695/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "72ca368f55b6f228e284b17ccfeabdf19e85b4477cbf3441a4f8b9d6fe588b24",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1031695&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2019-03-29",
+  "gazette": "2019-05-17",
+  "numac": 2019012343,
+  "document_start": "2019-05-27",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
