@@ -6,7 +6,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 2 mei 1985 betreffende 
 
 ### ART. 1.
 
-De hierna vermelde strategische adviesraden worden ertoe gemachtigd om   deel te nemen aan de pensioenregeling, ingesteld bij de wet van 28 april 1958   betreffende het pensioen van het personeel van zekere organismen van openbaar   nut alsmede van hun rechthebbenden :<BR>1° <STRONG><EM>...<BR></EM></STRONG>2°   Vlaamse Woonraad;<BR>3° Ruimtelijke Ordening - Onroerend Erfgoed;<BR>4°   Sociaal-Economische Raad van Vlaanderen;<BR>5° Raad voor Cultuur, Jeugd, Sport   en Media;<BR>6° Milieu- en Natuurraad van Vlaanderen.
+De hierna vermelde strategische adviesraden worden ertoe gemachtigd om   deel te nemen aan de pensioenregeling, ingesteld bij de wet van 28 april 1958   betreffende het pensioen van het personeel van zekere organismen van openbaar   nut alsmede van hun rechthebbenden :<BR>1° <STRONG><EM>...<BR></EM></STRONG>2°   ...<BR>3° Ruimtelijke Ordening - Onroerend Erfgoed;<BR>4° Sociaal-Economische   Raad van Vlaanderen;<BR>5° ...<BR>6° Milieu- en Natuurraad van   Vlaanderen.
 
 ### ART. 2.
 
