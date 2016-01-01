@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026261,
+  "title": "Decreet van 2015-12-18 houdende de middelenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026261/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "bc25d566aaf9a8a0c0148ea590b47753f2b0907bf7bcf2645c5b5d606dfac33b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026261&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-18",
+  "gazette": "2015-12-30",
+  "numac": 2015036623,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 18,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
