@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026001,
+  "title": "Besluit van de Vlaamse Regering van 2015-09-18 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 tot vaststelling van de regels voor het verlenen van de voorafgaande vergunning voor sommige woonzorgvoorzieningen, bijlage XI en XII bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers en het besluit van de Vlaamse Regering van 20 december 2013 betreffende de voorafgaande vergunning voor centra voor kortverblijf en woonzorgcentra en tot wijziging van de regels betreffende de voorafgaande vergunning en de erkenning van die centra, wat betreft de verlenging van de tijdelijke opschorting van het verlenen van voorafgaande vergunningen voor centra voor kortverblijf en woonzorgcentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026001/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "04cb873806db77511c09bd2db008c414897508d9d8573c6aa3fb7a6b2a39b408",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026001&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-09-18",
+  "gazette": "2015-10-09",
+  "numac": 2015036187,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
