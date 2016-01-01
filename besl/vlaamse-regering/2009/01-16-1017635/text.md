@@ -29,7 +29,17 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° het Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br />4° de sportfederatie : de Vlaamse sportfederatie, vermeld in artikel 2, 2°, van het decreet, die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die sportkampen organiseert conform artikel 2, 10°, van het decreet;<br />5° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />6° de sporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 8°, van het decreet;<br />7° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br />8° personen met een handicap : personen die jonger zijn dan vijfenzestig jaar met een lichamelijke, verstandelijke of zintuiglijke handicap (visuele en auditieve handicap) en personen met psychische beperkingen;<br />9° mensen die leven in armoede : mensen die door een complex van oorzaken van zowel sociaal-economische, sociaal-pedagogische als sociaal-culturele aard niet, niet meer of nog niet in staat zijn om volwaardig te participeren (deelnemen, deelhebben) aan het maatschappelijke aanbod en daardoor in een situatie van onwelzijn verkeren.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen", meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br>
+4° de sportfederatie : de Vlaamse sportfederatie, vermeld in artikel 2, 2°, van het decreet, die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die sportkampen organiseert conform artikel 2, 10°, van het decreet;<br>
+5° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+6° de sporttakkenlijst : de nominatieve lijst van sporttakken, opgesteld conform artikel 2, 8°, van het decreet;<br>
+7° de Vlaamse Trainersschool : het samenwerkingsverband tussen Sport Vlaanderen, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS;<br>
+8° personen met een handicap : personen die jonger zijn dan vijfenzestig jaar met een lichamelijke, verstandelijke of zintuiglijke handicap (visuele en auditieve handicap) en personen met psychische beperkingen;<br>
+9° mensen die leven in armoede : mensen die door een complex van oorzaken van zowel sociaal-economische, sociaal-pedagogische als sociaal-culturele aard niet, niet meer of nog niet in staat zijn om volwaardig te participeren (deelnemen, deelhebben) aan het maatschappelijke aanbod en daardoor in een situatie van onwelzijn verkeren.<br>
+&nbsp;
 
 ## HOOFDSTUK II Subsidiëringsvoorwaarden
 
@@ -57,33 +67,78 @@ Sportkampen worden georganiseerd onder de verantwoordelijkheid van de sportfeder
 
 ### ART. 6.
 
-De sportfederatie dient haar aanvraag tot subsidiëring uiterlijk in op 1 september van het jaar dat voorafgaat aan het jaar waarvoor de subsidies gevraagd worden. Ze stuurt die aanvraag aangetekend of tegen ontvangstbewijs naar het Bloso.<br /><br />Het Bloso zal de sportfederaties voor 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief informeren als de aanvraag tot subsidiëring niet ontvankelijk is. Een aanvraag is onontvankelijk als ze niet op tijd is ingediend, niet op tijd werd vervolledigd of als, na onderzoek door het Bloso, uit de aanvraag blijkt dat de sportfederatie in kwestie niet kan voldoen aan de gestelde voorwaarden.<br /><br />Het Bloso beoordeelt de binnengekomen dossiers aan de hand van de subsidiëringsvoorwaarden en bezorgt daarover een advies aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden.<br /><br />De beslissing van de minister om de sportfederatie te subsidiëren of zijn voornemen om niet te subsidiëren van de ingediende sportkampen wordt voor 15 januari van het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief aan de sportfederaties meegedeeld.<br /><br />Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar het Bloso. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br /><br />Het Bloso stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de sportfederatie al dan niet te subsidiëren.<br /><br />
+De sportfederatie dient haar aanvraag tot subsidiëring uiterlijk in op 1 september van het jaar dat voorafgaat aan het jaar waarvoor de subsidies gevraagd worden. Ze stuurt die aanvraag aangetekend of tegen ontvangstbewijs naar Sport Vlaanderen.<br>
+<br>
+Sport Vlaanderen zal de sportfederaties voor 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief informeren als de aanvraag tot subsidiëring niet ontvankelijk is. Een aanvraag is onontvankelijk als ze niet op tijd is ingediend, niet op tijd werd vervolledigd of als, na onderzoek door Sport Vlaanderen, uit de aanvraag blijkt dat de sportfederatie in kwestie niet kan voldoen aan de gestelde voorwaarden.<br>
+<br>
+Sport Vlaanderen beoordeelt de binnengekomen dossiers aan de hand van de subsidiëringsvoorwaarden en bezorgt daarover een advies aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden.<br>
+<br>
+De beslissing van de minister om de sportfederatie te subsidiëren of zijn voornemen om niet te subsidiëren van de ingediende sportkampen wordt voor 15 januari van het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief aan de sportfederaties meegedeeld.<br>
+<br>
+Een sportfederatie die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na verzending van dit bericht aangetekend moet verstuurd worden naar Sport Vlaanderen. Indien de sportfederatie hierom verzoekt kan zij gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen de dertig dagen na ontvangst van het bezwaarschrift een gemotiveerd advies op, de minister beslist uiterlijk dertig dagen na ontvangst van dit advies om de sportfederatie al dan niet te subsidiëren.<br>
+&nbsp;
 
 ### ART. 7.
 
-De sportfederatie moet voor 1 februari van het jaar waarvoor de subsidie wordt aangevraagd, de promotiebrochure samen met een inlichtingsfiche per sportkamp bij het Bloso indienen. De inlichtingsfiche omvat de concrete inlichtingen over het sportkamp, vermeld in artikel 2, § 2. Bovendien moet per sportkamp de periode, de duur uitgedrukt in dagen, het aantal uren sport, het nummer van het sportkamp dat bij de promotie wordt gebruikt en de eventueel toegestane kortingen worden vermeld.<br /><br />Om het sportkamp in aanmerking te laten komen voor subsidiëring, vindt de promotie ervoor plaats onder de benaming sportkamp' met de vermelding van de sporttakken of disciplines. De promotie vermeldt per sportkamp het aantal uren sport per sporttak als vermeld op de sporttakkenlijst die op het sportkamp door gekwalificeerde lesgevers wordt aangeboden. Andere activiteiten kunnen worden opgesomd als nevenactiviteiten.<br /><br />De subsidiëringsaanvraag moet bovendien uiterlijk tien dagen voor de aanvang van het sportkamp vervolledigd worden met het gedetailleerde programma, vermeld in artikel 5, 4°.<br /><br />
+De sportfederatie moet voor 1 februari van het jaar waarvoor de subsidie wordt aangevraagd, de promotiebrochure samen met een inlichtingsfiche per sportkamp bij Sport Vlaanderen indienen. De inlichtingsfiche omvat de concrete inlichtingen over het sportkamp, vermeld in artikel 2, § 2. Bovendien moet per sportkamp de periode, de duur uitgedrukt in dagen, het aantal uren sport, het nummer van het sportkamp dat bij de promotie wordt gebruikt en de eventueel toegestane kortingen worden vermeld.<br>
+<br>
+Om het sportkamp in aanmerking te laten komen voor subsidiëring, vindt de promotie ervoor plaats onder de benaming sportkamp' met de vermelding van de sporttakken of disciplines. De promotie vermeldt per sportkamp het aantal uren sport per sporttak als vermeld op de sporttakkenlijst die op het sportkamp door gekwalificeerde lesgevers wordt aangeboden. Andere activiteiten kunnen worden opgesomd als nevenactiviteiten.<br>
+<br>
+De subsidiëringsaanvraag moet bovendien uiterlijk tien dagen voor de aanvang van het sportkamp vervolledigd worden met het gedetailleerde programma, vermeld in artikel 5, 4°.<br>
+&nbsp;
 
 ## HOOFDSTUK IV Aard en wijze van subsidiëring
 
 ### ART. 8.
 
-De subsidies voor de sportkampen worden jaarlijks als volgt berekend en toegekend :<br />1° het jaarlijks beschikbare krediet wordt in eerste instantie toegekend naar rato van de bezoldiging van de gekwalificeerde lesgevers tot maximaal 7 uur 36 minuten per dag. Het resterende krediet wordt uitgekeerd naar evenredigheid van het aantal gesubsidieerde deelnemers aan de gesubsidieerde sportkampen tot maximaal 25 % van het totale subsidiebedrag;<br />2° er kan maximaal één lesgever per zeven deelnemers in aanmerking komen voor subsidiëring. Voor de sportkampen voor personen met een handicap kan er maximaal één lesgever per vier deelnemers in aanmerking komen voor subsidiëring;<br />3° als een sportfederatie bijzondere initiatieven neemt voor de toeleiding van kansengroepen (mensen met een handicap of mensen die leven in armoede) naar hun sportkampen, tellen die deelnemers dubbel voor subsidiëring. De sportfederatie moet die bijzondere initiatieven in het beleidsplan, in het jaarlijkse actieplan en in de rapportering opnemen;<br />4° voor de berekening van de subsidies, vermeld in punt 1°, komen de brutosalarissen van de lesgevers in aanmerking overeenkomstig de bezoldigingstabel, die als bijlage bij dit besluit is gevoegd. De uurlonen tegen 100 percent, vermeld in de bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Voor de berekening van de subsidies worden de uurlonen jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer;<br />5° de wijze waarop de salariskosten voor subsidiëring in het rekeningstelsel dienen opgenomen te worden, wordt vastgelegd door het Bloso.<br /><br />
+De subsidies voor de sportkampen worden jaarlijks als volgt berekend en toegekend :<br>
+1° het jaarlijks beschikbare krediet wordt in eerste instantie toegekend naar rato van de bezoldiging van de gekwalificeerde lesgevers tot maximaal 7 uur 36 minuten per dag. Het resterende krediet wordt uitgekeerd naar evenredigheid van het aantal gesubsidieerde deelnemers aan de gesubsidieerde sportkampen tot maximaal 25 % van het totale subsidiebedrag;<br>
+2° er kan maximaal één lesgever per zeven deelnemers in aanmerking komen voor subsidiëring. Voor de sportkampen voor personen met een handicap kan er maximaal één lesgever per vier deelnemers in aanmerking komen voor subsidiëring;<br>
+3° als een sportfederatie bijzondere initiatieven neemt voor de toeleiding van kansengroepen (mensen met een handicap of mensen die leven in armoede) naar hun sportkampen, tellen die deelnemers dubbel voor subsidiëring. De sportfederatie moet die bijzondere initiatieven in het beleidsplan, in het jaarlijkse actieplan en in de rapportering opnemen;<br>
+4° voor de berekening van de subsidies, vermeld in punt 1°, komen de brutosalarissen van de lesgevers in aanmerking overeenkomstig de bezoldigingstabel, die als bijlage bij dit besluit is gevoegd. De uurlonen tegen 100 percent, vermeld in de bezoldigingstabel, zijn gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Voor de berekening van de subsidies worden de uurlonen jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer;<br>
+5° de wijze waarop de salariskosten voor subsidiëring in het rekeningstelsel dienen opgenomen te worden, wordt vastgelegd door Sport Vlaanderen.<br>
+&nbsp;
 
 ## HOOFDSTUK V Afrekening en controle
 
 ### ART. 9.
 
-§ 1. Voor een controle op de kampplaats voorziet de sportfederatie in de volgende documenten :<br />1° het reëel uitgevoerde programma;<br />2° de lijst van de effectieve deelnemers, met vermelding van hun woonplaats, de geboortedatum en de kansengroep waartoe ze behoren;<br />3° de lijst met de lesgevers en hun kwalificaties;<br />4° kopieën van de diploma's of getuigschriften van de niet bij het Bloso geregistreerde lesgevers;<br />5° de lesvoorbereidingen per lesgever;<br />6° het permanentieschema van de begeleiding.<br /><br />Als er geen controle op de kampplaats heeft plaatsgevonden, stuurt de sportfederatie de documenten binnen een week na het kamp naar het Bloso. De sportfederatie neemt in samenspraak met het Bloso de nodige schikkingen om een efficiënte controle ter plaatse mogelijk te maken.<br /><br />§ 2. Met behoud van de toepassing van de bepalingen in hoofdstuk III, stuurt de sportfederatie uiterlijk twee maanden na afloop van de kampperiode de volgende stukken naar het Bloso :<br />1° het afrekeningsformulier;<br />2° de grootboekfiches van de rekeningen over de bezoldiging van de lesgevers. De kosten moeten boekhoudkundig per kampnummer en per lesgever geregistreerd worden;<br />3° de RSZ-aangiftestaten met betrekking tot de bezoldiging van de lesgevers;<br />4° de bewijsstukken waaruit blijkt dat de deelnemer behoort tot een kansengroep.<br /><br />
+§ 1. Voor een controle op de kampplaats voorziet de sportfederatie in de volgende documenten :<br>
+1° het reëel uitgevoerde programma;<br>
+2° de lijst van de effectieve deelnemers, met vermelding van hun woonplaats, de geboortedatum en de kansengroep waartoe ze behoren;<br>
+3° de lijst met de lesgevers en hun kwalificaties;<br>
+4° kopieën van de diploma's of getuigschriften van de niet bij Sport Vlaanderen geregistreerde lesgevers;<br>
+5° de lesvoorbereidingen per lesgever;<br>
+6° het permanentieschema van de begeleiding.<br>
+<br>
+Als er geen controle op de kampplaats heeft plaatsgevonden, stuurt de sportfederatie de documenten binnen een week na het kamp naar Sport Vlaanderen. De sportfederatie neemt in samenspraak met Sport Vlaanderen de nodige schikkingen om een efficiënte controle ter plaatse mogelijk te maken.<br>
+<br>
+§ 2. Met behoud van de toepassing van de bepalingen in hoofdstuk III, stuurt de sportfederatie uiterlijk twee maanden na afloop van de kampperiode de volgende stukken naar Sport Vlaanderen:<br>
+1° het afrekeningsformulier;<br>
+2° de grootboekfiches van de rekeningen over de bezoldiging van de lesgevers. De kosten moeten boekhoudkundig per kampnummer en per lesgever geregistreerd worden;<br>
+3° de RSZ-aangiftestaten met betrekking tot de bezoldiging van de lesgevers;<br>
+4° de bewijsstukken waaruit blijkt dat de deelnemer behoort tot een kansengroep.<br>
+&nbsp;
 
 ### ART. 10.
 
-De verificatie en afrekening verlopen conform de procedure, vermeld in het algemeen erkennings- en subsidiëringsbesluit.<br /><br />Het Bloso kan op elk moment toezicht en controle uitoefenen op de wijze waarop de sportkampen worden uitgevoerd.<br /><br />
+De verificatie en afrekening verlopen conform de procedure, vermeld in het algemeen erkennings- en subsidiëringsbesluit.<br>
+<br>
+Sport Vlaanderen kan op elk moment toezicht en controle uitoefenen op de wijze waarop de sportkampen worden uitgevoerd.<br>
+&nbsp;
 
 ## HOOFDSTUK VI Wijze en tijdstip van uitbetaling
 
 ### ART. 11.
 
-De subsidies, vermeld in artikel 6, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 22,5 % van de subsidies die toegekend werden voor het voorlaatste werkjaar voorafgaand aan het begrotingsjaar.<br /><br />Voor de sportfederatie die geen sportkampen heeft georganiseerd in het voorlaatste werkjaar voorafgaand aan het begrotingsjaar, bedraagt elk voorschot 10 % van de subsidies waarop de sportfederatie aanspraak kan maken op basis van de ingediende subsidiëringsaanvraag van het lopende begrotingsjaar.<br /><br />Het saldo van de subsidie wordt uitbetaald voor 1 juli van het jaar dat volgt op het gesubsidieerde werkjaar, nadat het Bloso de uitgaven die in het voorbije jaar gedaan werden, en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br /><br />
+De subsidies, vermeld in artikel 6, worden als volgt uitbetaald : per trimester wordt een voorschot uitbetaald. Elk voorschot bedraagt 22,5 % van de subsidies die toegekend werden voor het voorlaatste werkjaar voorafgaand aan het begrotingsjaar.<br>
+<br>
+Voor de sportfederatie die geen sportkampen heeft georganiseerd in het voorlaatste werkjaar voorafgaand aan het begrotingsjaar, bedraagt elk voorschot 10 % van de subsidies waarop de sportfederatie aanspraak kan maken op basis van de ingediende subsidiëringsaanvraag van het lopende begrotingsjaar.<br>
+<br>
+Het saldo van de subsidie wordt uitbetaald voor 1 juli van het jaar dat volgt op het gesubsidieerde werkjaar, nadat Sport Vlaanderen de uitgaven die in het voorbije jaar gedaan werden, en de voorgelegde betalingsbewijzen heeft goedgekeurd.<br>
+&nbsp;
 
 ## HOOFDSTUK VII Communicatie
 
