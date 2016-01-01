@@ -1,0 +1,17 @@
+{
+  "codex_id": 1025665,
+  "title": "Decreet van 2015-07-03 tot wijziging van diverse decreten houdende de subsidiëring aan de lokale besturen en tot wijziging van het decreet van 5 juli 2002 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025665/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "03e1475e4103c1b97c468b893155b2101bfccea7e575b2e5712132a9c90d151e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025665&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-07-03",
+  "gazette": "2015-07-24",
+  "numac": 2015035947,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 42,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
