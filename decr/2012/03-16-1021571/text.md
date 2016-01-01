@@ -244,7 +244,7 @@ De Vlaamse Regering wordt gemachtigd om het decreet aan te passen aan de   toeko
 
 ### ART. 39.
 
-Met behoud van de toepassing van artikel 15 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof zijn de schuldvorderingen ten aanzien van het Vlaamse Gewest die uit dit decreet en de uitvoeringsbesluiten ervan voortvloeien, verjaard en voorgoed ten voordele van het Vlaamse Gewest vervallen als ze niet overgelegd zijn binnen een termijn van zes maanden na de beëindiging van het project.
+Met behoud van de toepassing van artikel 15 van de wet van 16 mei 2003 tot   vaststelling van de algemene bepalingen die gelden voor de begrotingen, de   controle op de subsidies en voor de boekhouding van de gemeenschappen en de   gewesten, alsook voor de organisatie van de controle door het Rekenhof zijn de   schuldvorderingen ten aanzien van het Vlaamse Gewest die uit dit decreet en de   uitvoeringsbesluiten ervan voortvloeien, verjaard en voorgoed ten voordele van   het Vlaamse Gewest vervallen als ze niet overgelegd zijn binnen een termijn   van&nbsp;twaalf maanden na de beëindiging van het project.
 
 ## HOOFDSTUK 15. Terugvordering
 
