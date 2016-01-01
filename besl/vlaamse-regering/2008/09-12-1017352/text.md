@@ -28,7 +28,15 @@ Besluit :
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° het Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, genoemd in het decreet;<br />4° de sportfederatie : de Vlaamse sportfederatie die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die een beleid inzake jeugdsport voert, zoals bepaald in artikel 15, 1°, en artikel 30, 1°, van het decreet;<br />5° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br />6° de olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br />7° de jeugdsportcommissie : de adviserende jeugdsportcommissie, vermeld in artikel 16 en 31 van het decreet, die onder meer als taak heeft de sportfederatie te adviseren over het jeugdsportproject dat ze in het kader van de facultatieve opdracht jeugdsport indient;<br />8° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS.
+Voor de toepassing van dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen", meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet;<br>
+4° de sportfederatie : de Vlaamse sportfederatie die in het kader van het decreet gesubsidieerd wordt voor de uitvoering van de basisopdrachten en die een beleid inzake jeugdsport voert, zoals bepaald in artikel 15, 1°, en artikel 30, 1°, van het decreet;<br>
+5° het algemeen erkennings- en subsidiëringsbesluit : het besluit van de Vlaamse Regering van 31 mei 2002 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+6° de olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische Zomerspelen;<br>
+7° de jeugdsportcommissie : de adviserende jeugdsportcommissie, vermeld in artikel 16 en 31 van het decreet, die onder meer als taak heeft de sportfederatie te adviseren over het jeugdsportproject dat ze in het kader van de facultatieve opdracht jeugdsport indient;<br>
+8° de Vlaamse Trainersschool : het samenwerkingsverband tussen Sport Vlaanderen,&nbsp;de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse Hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS.
 
 ## HOOFDSTUK II. Subsidiëringsvoorwaarden
 
@@ -60,15 +68,19 @@ Om na te gaan of de sportfederatie voor subsidiëring in aanmerking komt, wordt 
 
 ### ART. 7.
 
-De sportfederatie bezorgt haar aanvraag tot subsidiëring, vermeld in artikel 3, uiterlijk op 1 september van het jaar dat voorafgaat aan het jaar waarvoor de subsidies gevraagd worden. Ze stuurt die aanvraag aangetekend of tegen ontvangstbewijs in twee exemplaren aan het Bloso.
+De sportfederatie bezorgt haar aanvraag tot subsidiëring, vermeld in artikel 3, uiterlijk op 1 september van het jaar dat voorafgaat aan het jaar waarvoor de subsidies gevraagd worden. Ze stuurt die aanvraag aangetekend of tegen ontvangstbewijs in twee exemplaren aan Sport Vlaanderen.
 
 ### ART. 8.
 
-Het Bloso zal de sportfederaties voor 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief informeren als de aanvraag tot subsidiëring niet ontvankelijk is. Een aanvraag is onontvankelijk indien ze niet tijdig werd ingediend, niet tijdig werd vervolledigd of indien, na onderzoek door het Bloso, uit de aanvraag blijkt dat de betrokken sportfederatie niet kan voldoen aan de gestelde voorwaarden.
+Sport Vlaanderen zal de sportfederaties voor 1 oktober van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden, met een aangetekende brief informeren als de aanvraag tot subsidiëring niet ontvankelijk is. Een aanvraag is onontvankelijk indien ze niet tijdig werd ingediend, niet tijdig werd vervolledigd of indien, na onderzoek door Sport Vlaanderen, uit de aanvraag blijkt dat de betrokken sportfederatie niet kan voldoen aan de gestelde voorwaarden.
 
 ### ART. 9.
 
-Een beoordelingscommissie zal de ontvankelijke jeugdsportprojecten inhoudelijk beoordelen aan de hand van de ingediende aanvraag tot subsidiëring vermeld in artikel 5, 3°, en de beoordelingscriteria, vermeld in artikel 6. Die beoordelingscommissie bestaat uit minimaal vijf en maximaal negen leden die een specifieke expertise hebben inzake jeugdsport. De minister benoemt de leden van de beoordelingscommissie voor de duur van de olympiade.<br /><br />Het Bloso bereidt de dossiers voor, licht ze toe en neemt het secretariaat waar van de beoordelingscommissie.<br /><br />De beoordelingscommissie beoordeelt de inhoudelijke aspecten van de ontvankelijke aanvraag en adviseert de minister over het maximale subsidiebedrag. De beoordelingscommissie brengt een advies uit aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden. Het Bloso beoordeelt de zakelijke en financiële aspecten en brengt daarover advies uit aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden.
+Een beoordelingscommissie zal de ontvankelijke jeugdsportprojecten inhoudelijk beoordelen aan de hand van de ingediende aanvraag tot subsidiëring vermeld in artikel 5, 3°, en de beoordelingscriteria, vermeld in artikel 6. Die beoordelingscommissie bestaat uit minimaal vijf en maximaal negen leden die een specifieke expertise hebben inzake jeugdsport. De minister benoemt de leden van de beoordelingscommissie voor de duur van de olympiade.<br>
+<br>
+Sport Vlaanderen bereidt de dossiers voor, licht ze toe en neemt het secretariaat waar van de beoordelingscommissie.<br>
+<br>
+De beoordelingscommissie beoordeelt de inhoudelijke aspecten van de ontvankelijke aanvraag en adviseert de minister over het maximale subsidiebedrag. De beoordelingscommissie brengt een advies uit aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden. Sport Vlaanderen beoordeelt de zakelijke en financiële aspecten en brengt daarover advies uit aan de minister uiterlijk op 15 december van het jaar dat voorafgaat aan het jaar waarvoor subsidies gevraagd worden.
 
 ### ART. 10.
 
@@ -84,19 +96,25 @@ De subsidies worden verleend binnen de jaarlijks uitgetrokken begroting voor de 
 
 ### ART. 13.
 
-Een inhoudelijk verslag met een grondige evaluatie en een gedetailleerde financiële afrekening van de inkomsten en uitgaven van het jeugdsportproject moet uiterlijk tegen 1 april van het jaar dat volgt op het jaar van subsidiëring, ingediend worden bij het Bloso. Het saldo zal worden uitgekeerd na controle van de afrekening en evaluatie, en voor 1 juli van het jaar dat volgt op het jaar van subsidiëring. Voor de meerjarige jeugdsportprojecten moet naast een inhoudelijk verslag tevens aangegeven worden op welke manier het jeugdsportproject eventueel werd bijgestuurd.
+Een inhoudelijk verslag met een grondige evaluatie en een gedetailleerde financiële afrekening van de inkomsten en uitgaven van het jeugdsportproject moet uiterlijk tegen 1 april van het jaar dat volgt op het jaar van subsidiëring, ingediend worden bij Sport Vlaanderen. Het saldo zal worden uitgekeerd na controle van de afrekening en evaluatie, en voor 1 juli van het jaar dat volgt op het jaar van subsidiëring. Voor de meerjarige jeugdsportprojecten moet naast een inhoudelijk verslag tevens aangegeven worden op welke manier het jeugdsportproject eventueel werd bijgestuurd.
 
 ## HOOFDSTUK IV. Aard en wijze van subsidiëring
 
 ### ART. 14.
 
-De kosten die in het kader van de subsidiëring van de facultatieve opdracht jeugdsport van toepassing zijn, worden vermeld in de lijst die als bijlage II bij dit besluit is gevoegd. De wijze waarop die kosten, voor de berekening van de subsidiëring in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door het Bloso.<br /><br />De bezoldiging van de occasionele medewerkers, als subsidieerbare kost als vermeld in het eerste lid, vindt plaats op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de facultatieve opdracht jeugdsport, opgenomen als bijlage I, die bij dit besluit is gevoegd. Het bruto jaarloon tegen 100 %, vermeld in de bezoldigingstabel die als bijlage I, bij dit besluit is gevoegd, is gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Voor de berekening van de subsidies worden de uurlonen jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br /><br />Occasionele medewerkers die beschikken over sporttechnische diploma's, certificaten en titels die niet binnen de Vlaamse Gemeenschap zijn verworven, dienen bij de bevoegde diensten van de Vlaamse Gemeenschap de gelijkwaardigheid daarvan te laten vaststellen.<br /><br />De gelijkwaardigheid kan worden vastgesteld uit een vergelijking van de bekwaamheden die blijken uit de diploma's, certificaten en andere titels en de relevante ervaring.
+De kosten die in het kader van de subsidiëring van de facultatieve opdracht jeugdsport van toepassing zijn, worden vermeld in de lijst die als bijlage II bij dit besluit is gevoegd. De wijze waarop die kosten, voor de berekening van de subsidiëring in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door Sport Vlaanderen.<br>
+<br>
+De bezoldiging van de occasionele medewerkers, als subsidieerbare kost als vermeld in het eerste lid, vindt plaats op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de facultatieve opdracht jeugdsport, opgenomen als bijlage I, die bij dit besluit is gevoegd. Het bruto jaarloon tegen 100 %, vermeld in de bezoldigingstabel die als bijlage I, bij dit besluit is gevoegd, is gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Voor de berekening van de subsidies worden de uurlonen jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br>
+<br>
+Occasionele medewerkers die beschikken over sporttechnische diploma's, certificaten en titels die niet binnen de Vlaamse Gemeenschap zijn verworven, dienen bij de bevoegde diensten van de Vlaamse Gemeenschap de gelijkwaardigheid daarvan te laten vaststellen.<br>
+<br>
+De gelijkwaardigheid kan worden vastgesteld uit een vergelijking van de bekwaamheden die blijken uit de diploma's, certificaten en andere titels en de relevante ervaring.
 
 ## HOOFDSTUK V. Controle
 
 ### ART. 15.
 
-Het Bloso kan te allen tijde toezicht en controle uitvoeren over de wijze waarop het jeugdsportproject wordt uitgevoerd.
+Sport Vlaanderen kan te allen tijde toezicht en controle uitvoeren over de wijze waarop het jeugdsportproject wordt uitgevoerd.
 
 ## HOOFDSTUK VI. Communicatie
 
@@ -281,4 +299,19 @@ Het bruto jaarloon aan 100 % wordt verhoogd met de lineaire loonsverhogingen die
 
 ### BIJLAGE
 
-Subsidieerbare kosten m.b.t. de facultatieve opdracht jeugdsport van de sportfederaties<br /><br />overheadkosten van de sportfederatie voor de ontwikkeling, de begeleiding en de opvolging van het jeugdsportproject<br />- brutosalaris occasionele sporttechnische en administratieve medewerkers<br />- rsz/werkgeversbijdrage occasionele sporttechnische en administratieve medewerkers<br />- eindejaarstoelage en vakantiegeld occasionele sporttechnische en administratieve medewerkers<br />- dienstverhuringskosten voor occasionele sporttechnische en andere medewerkers<br />- verplaatsingskosten sporttechnische en andere medewerkers<br />- huur van lokalen<br />- drukwerken<br />- kosten voor informatie- en promotiemateriaal<br />- kosten voor het uitvoeren van wetenschappelijke begeleiding met betrekking tot kwaliteitszorg en kwaliteitsbewaking van de jeugdsportwerking in de sportclubs<br />- andere kosten waarvoor Bloso voorafgaand een schriftelijk akkoord heeft gegeven<br /><br />subsidies aan de clubs<br />- subsidies aan de clubs om de kwaliteit van de jeugdsportwerking in de sportclubs te verhogen, volgens de bestedingsverplichting opgegeven in het goedgekeurde reglement
+Subsidieerbare kosten m.b.t. de facultatieve opdracht jeugdsport van de sportfederaties<br>
+<br>
+overheadkosten van de sportfederatie voor de ontwikkeling, de begeleiding en de opvolging van het jeugdsportproject<br>
+- brutosalaris occasionele sporttechnische en administratieve medewerkers<br>
+- rsz/werkgeversbijdrage occasionele sporttechnische en administratieve medewerkers<br>
+- eindejaarstoelage en vakantiegeld occasionele sporttechnische en administratieve medewerkers<br>
+- dienstverhuringskosten voor occasionele sporttechnische en andere medewerkers<br>
+- verplaatsingskosten sporttechnische en andere medewerkers<br>
+- huur van lokalen<br>
+- drukwerken<br>
+- kosten voor informatie- en promotiemateriaal<br>
+- kosten voor het uitvoeren van wetenschappelijke begeleiding met betrekking tot kwaliteitszorg en kwaliteitsbewaking van de jeugdsportwerking in de sportclubs<br>
+- andere kosten waarvoor Sport Vlaanderen voorafgaand een schriftelijk akkoord heeft gegeven<br>
+<br>
+subsidies aan de clubs<br>
+- subsidies aan de clubs om de kwaliteit van de jeugdsportwerking in de sportclubs te verhogen, volgens de bestedingsverplichting opgegeven in het goedgekeurde reglement

@@ -2,16 +2,16 @@
   "codex_id": 1017352,
   "title": "Besluit van de Vlaamse Regering van 2008-09-12 tot vaststelling van de voorwaarden voor het verkrijgen van een subsidie voor de facultatieve opdracht jeugdsport",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017352/VolledigDocument?datum=2008-12-10",
-  "source_sha256": "29d5c957a3c6946f43d4163868c9567ed1b572a8fd3e3d769d73005f7a55da72",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1017352/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "3bd20887ad9e0d90a44e528fa075fb0e93cef15312c4086721e7c64c826a58cb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1017352&param=informatie",
-  "as_of": "2008-12-10",
+  "as_of": "2016-01-01",
   "made": "2008-09-12",
   "gazette": "2008-12-10",
   "numac": 2008036380,
   "document_start": "2008-12-10",
   "document_end": "2016-10-01",
-  "in_force": "2008-12-10",
+  "in_force": "2016-01-01",
   "article_versions": 23,
-  "record_form": "consolidated version as in force on 2008-12-10; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
