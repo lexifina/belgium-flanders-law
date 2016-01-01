@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026235,
+  "title": "Ministerieel besluit van 2015-12-11 tot vaststelling van de code van goede praktijk voor de uitvoering van en rapportering over archeologisch vooronderzoek en archeologische opgravingen en het gebruik van metaaldetectoren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026235/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "e9f6910eeac69038dcad9bc5b5769dc231928984ffdf5d99e8a7a7ece68ed379",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026235&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-11",
+  "gazette": "2015-12-23",
+  "numac": 2015036548,
+  "document_start": "2016-01-01",
+  "document_end": "2016-12-31",
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
