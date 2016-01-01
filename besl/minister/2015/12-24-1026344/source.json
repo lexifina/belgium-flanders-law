@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026344,
+  "title": "Ministerieel besluit van 2015-12-24 houdende bepaling van de coëfficiënt voor de berekening van het bedrag van de gebruikstoelage verstrekt door het Vlaams Infrastructuurfonds voor Persoonsgebonden Aangelegenheden",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026344/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "86eae324bb0923e768836a8178b180bb49350c6e8c9e4539b7c291187bd19fce",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026344&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-24",
+  "gazette": "2016-01-25",
+  "numac": 2016200180,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
