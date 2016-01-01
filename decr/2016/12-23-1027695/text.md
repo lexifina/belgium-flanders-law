@@ -16,6 +16,14 @@
 
 ## HOOFDSTUK 8 Wijzigingen van de Vlaamse Codex Fiscaliteit van 13 december 2013
 
+### ART 22.
+
+Aan artikel 2.3.6.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. Er wordt een vrijstelling van de belasting verleend voor de op afstand bestuurde luchtvaartuigsystemen.<br>
+<br>
+In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsystemen, afgekort als `RPAS': luchtvaartuigsystemen als vermeld in artikel 1, eerste lid, 5°, van het koninklijk besluit van 10 april 2016 met betrekking tot het gebruik van op afstand bestuurde luchtvaartuigen in het Belgisch luchtruim.".<br>
+&nbsp;
+
 ### ART 56.
 
 In artikel 5.0.0.0.1, 5°, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
