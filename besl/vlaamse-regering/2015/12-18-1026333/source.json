@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026333,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende de overdracht van personeelsleden ingevolge de herstructurering van het beleidsdomein Economie, Wetenschap en Innovatie en ingevolge de rationalisatie van managementondersteunende functies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026333/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "f31c08f047eabbeac380284fbf20b09fb828b6a6c82a3364754390fee66110a4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026333&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-18",
+  "gazette": "2016-01-20",
+  "numac": 2016035041,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
