@@ -110,7 +110,18 @@ De kandidaten voor opname in een voorziening worden in de centrale gegevensbank 
 
 ### ART. 18/1.
 
-De regionale prioriteitencommissie kan, binnen het quotum dat het   agentschap heeft vastgesteld, aan de zorgvraag van een persoon met een handicap,   die in de provincie van de regionale prioriteitencommissie gedomicilieerd is, de   status van prioritair te bemiddelen zorgvraag toekennen als aan de volgende   voorwaarden voldaan is:<BR>1° het gaat om een actieve zorgvraag waarbij de   persoon met een handicap aangeeft dat hij bereid is om in te gaan op een gepast   aanbod van een voorziening of het hem toegekende persoonlijke-assistentiebudget   te activeren;<BR>2° er is een duidelijke kloof tussen de zorg en ondersteuning   die hij nu ontvangt en de zorg en ondersteuning die noodzakelijk is;<BR>3° de   huidige situatie wordt op korte termijn onhoudbaar;<BR>4° de draagkracht van   zijn sociaal netwerk is overschreden;<BR>5° een intensief bemiddelingstraject   kan geen antwoord bieden op de zorgvraag;<BR>6° de geestelijke en lichamelijke   integriteit van de persoon met een handicap of van zijn sociale context is in   het gedrang of is geschonden;<BR>7° er is geen perspectief op gepaste zorg en   ondersteuning.<BR><BR>De regionale prioriteitencommissie voert een   intersubjectieve vergelijkende beoordeling uit van de verschillende kandidaten   om de zorgvragen vast te stellen die de status prioritair te bemiddelen   krijgen.<BR><BR>Het agentschap kan, na advies van de permanente cel, de   criteria, vermeld in het eerste lid, verder concretiseren in een protocol   prioriteiten bij opname en kan categorieën van personen met een handicap   vaststellen die zich kunnen richten tot een regionale prioriteitencommissie   buiten de provincie waar zij gedomicilieerd zijn.
+De regionale prioriteitencommissie kan&nbsp;aan de zorgvraag van een persoon met een handicap, die in de provincie van de regionale prioriteitencommissie gedomicilieerd is, de status van prioritair te bemiddelen zorgvraag toekennen als aan de volgende voorwaarden voldaan is:<br>
+1° het gaat om een actieve zorgvraag waarbij de persoon met een handicap aangeeft dat hij bereid is om in te gaan op een gepast aanbod van een voorziening of het hem toegekende persoonlijke-assistentiebudget te activeren;<br>
+2° er is een duidelijke kloof tussen de zorg en ondersteuning die hij nu ontvangt en de zorg en ondersteuning die noodzakelijk is;<br>
+3° de huidige situatie wordt op korte termijn onhoudbaar;<br>
+4° de draagkracht van zijn sociaal netwerk is overschreden;<br>
+5° een intensief bemiddelingstraject kan geen antwoord bieden op de zorgvraag;<br>
+6° de geestelijke en lichamelijke integriteit van de persoon met een handicap of van zijn sociale context is in het gedrang of is geschonden;<br>
+7° er is geen perspectief op gepaste zorg en ondersteuning.<br>
+<br>
+De regionale prioriteitencommissie voert een intersubjectieve vergelijkende beoordeling uit van de verschillende kandidaten om de zorgvragen vast te stellen die de status prioritair te bemiddelen krijgen.<br>
+<br>
+Het agentschap kan, na advies van de permanente cel, de criteria, vermeld in het eerste lid, verder concretiseren in een protocol prioriteiten bij opname en kan categorieën van personen met een handicap vaststellen die zich kunnen richten tot een regionale prioriteitencommissie buiten de provincie waar zij gedomicilieerd zijn.
 
 ### ART. 18/2.
 
