@@ -2,16 +2,16 @@
   "codex_id": 1015035,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot regeling van de steun aan projecten van innovatiestimulering, technologisch advies en collectief onderzoek op verzoek van Vlaamse Innovatiesamenwerkingsverbanden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015035/VolledigDocument?datum=2015-07-03",
-  "source_sha256": "0d0d7a4ed7b74e966c63b67b9712f6bf7de20f60c0dec82684b690ee9f16dfa0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015035/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "a0d6c98ae118fcdcdbc0070a8e31a26ce5be6f6aa902b44178a269edb60de1e3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015035&param=informatie",
-  "as_of": "2015-07-03",
+  "as_of": "2016-01-01",
   "made": "2006-07-20",
   "gazette": "2006-10-16",
   "numac": 2006036589,
   "document_start": "2006-07-01",
   "document_end": "2017-12-31",
-  "in_force": "2015-07-03",
+  "in_force": "2016-01-01",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2015-07-03; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
