@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028266,
+  "title": "Decreet van 2017-05-12 houdende diverse bepalingen in de beleidsvelden cultuur en jeugd",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028266/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "583a530863cbbcb7f3a31dac5dc55c06588cef95aedfd3a52c07f2ecd64fc44b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028266&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2017-05-12",
+  "gazette": "2017-05-31",
+  "numac": 2017012207,
+  "document_start": "2017-06-10",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
