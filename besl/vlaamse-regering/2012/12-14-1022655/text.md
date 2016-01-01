@@ -8,19 +8,38 @@
 
 ### ART. 1.
 
-<P>Dit besluit regelt voor derde partijen de nadere voorwaarden waaronder   geografische gegevensbronnen en geografische diensten, in beheer van die derde   partijen, kunnen gekoppeld worden aan het netwerk, vermeld in artikel 26   GDI-decreet. </P>  <P>Tevens regelt dit besluit de voorwaarden voor de toegang tot en het gebruik   door instanties van deze geografische gegevensbronnen en geografische diensten   gekoppeld aan het netwerk. <BR></P>  <P>Derde partijen zijn iedere natuurlijke persoon, rechtspersoon of een   groepering ervan als vermeld in artikel 3, 2°, van het GDI-decreet van 20   februari 2009. <BR></P>  <P>Instanties zijn elke instantie als vermeld in artikel 3, 1°, van het   GDI-decreet van 20 februari 2009. <BR></P>  <P>AGIV is het Agentschap voor Geografische Informatie Vlaanderen, opgericht bij   het decreet van 7 mei 2004 houdende de oprichting van het publiekrechtelijk   vormgegeven extern verzelfstandigde agentschap "Agentschap voor Geografische   Informatie Vlaanderen".</P>
+<p>Dit besluit regelt voor derde partijen de nadere voorwaarden waaronder geografische gegevensbronnen en geografische diensten, in beheer van die derde partijen, kunnen gekoppeld worden aan het netwerk, vermeld in artikel 26 GDI-decreet.</p>
+
+<p>Tevens regelt dit besluit de voorwaarden voor de toegang tot en het gebruik door instanties van deze geografische gegevensbronnen en geografische diensten gekoppeld aan het netwerk.</p>
+
+<p>Derde partijen zijn iedere natuurlijke persoon, rechtspersoon of een groepering ervan als vermeld in artikel 3, 2°, van het GDI-decreet van 20 februari 2009.</p>
+
+<p>Instanties zijn elke instantie als vermeld in artikel 3, 1°, van het GDI-decreet van 20 februari 2009.</p>
 
 ## HOOFDSTUK 2. Voorwaarden voor de koppeling van de geografische gegevensbronnen en geografische diensten aan het netwerk
 
 ### ART. 2.
 
-<P>Elke derde partij die een geografische gegevensbron en geografische dienst   beheert, kan die koppelen aan het netwerk als ze de volgende voorwaarden in acht   neemt : <BR>1° de metagegevens worden ingediend met de toepassing die het AGIV   ter beschikking stelt;<BR>2° de geografische gegevensbron en de geografische   dienst voldoen aan de technische voorwaarden, overeenkomstig artikel 28 van het   decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur   Vlaanderen. <BR></P>  <P>De stuurgroep GDI-Vlaanderen oordeelt of de koppeling van de geografische   gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is   voor de taken van algemeen belang van de instanties. <BR></P>  <P>De geografische gegevensbronnen en geografische diensten in beheer van een   derde partij, moeten voor een periode van minstens drie jaar gekoppeld worden   aan het netwerk. <BR></P>  <P>De derde partij die haar geografische gegevensbron en geografische dienst wil   koppelen aan het netwerk, moet daarvoor met het AGIV een overeenkomst sluiten   waarvan het model is opgenomen in de bijlage die bij dit besluit is gevoegd. De   derde partij dient daarvoor een aanvraag in met het formulier dat het AGIV ter   beschikking stelt. <BR></P>  <P>De geografische gegevensbronnen en geografische diensten die gekoppeld zijn   aan het netwerk, worden opgenomen in de GDI-catalogus die AGIV   bijhoudt.</P>
+<p>Elke derde partij die een geografische gegevensbron en geografische dienst beheert, kan die koppelen aan het netwerk als ze de volgende voorwaarden in acht neemt :<br>
+1° de metagegevens worden ingediend m<br>
+et de toepassing die het agentschap ter beschikking stelt;<br>
+2° de geografische gegevensbron en de geografische dienst voldoen aan de technische voorwaarden, overeenkomstig artikel 28 van het decreet van 20 februari 2009 betreffende de Geografische Data-Infrastructuur Vlaanderen.</p>
+
+<p>De stuurgroep GDI-Vlaanderen oordeelt of de koppeling van de geografische gegevensbron en de geografische dienst in beheer van een derde partij, nuttig is voor de taken van algemeen belang van de instanties.</p>
+
+<p>De geografische gegevensbronnen en geografische diensten in beheer van een derde partij, moeten voor een periode van minstens drie jaar gekoppeld worden aan het netwerk.</p>
+
+<p>De derde partij die haar geografische gegevensbron en geografische dienst wil koppelen aan het netwerk, moet daarvoor met het agentschap een overeenkomst sluiten waarvan het model is opgenomen in de bijlage die bij dit besluit is gevoegd. De derde partij dient daarvoor een aanvraag in met het formulier dat het agentschap ter beschikking stelt.</p>
+
+<p>De geografische gegevensbronnen en geografische diensten die gekoppeld zijn aan het netwerk, worden opgenomen in de GDI-catalogus die het agentschap bijhoudt.</p>
 
 ## HOOFDSTUK 3. Verstrekking van toegang tot de geografische gegevensbronnen en geografische diensten, gekoppeld aan het netwerk, aan instanties
 
 ### ART. 3.
 
-<P>Het AGIV zorgt ervoor dat de instantie de geografische diensten, gekoppeld   aan het netwerk, kan gebruiken binnen twintig werkdagen na de aanvraag. </P>  <P><BR>In het eerste lid wordt verstaan onder werkdag : alle dagen van het jaar,   exclusief zaterdag, zondag en feestdagen. Ook de periode van 25 december tot en   met 31 december telt niet mee bij de berekening van de   werkdagen.</P>
+<p>Het&nbsp;agentschap zorgt ervoor dat de instantie de geografische diensten, gekoppeld aan het netwerk, kan gebruiken binnen twintig werkdagen na de aanvraag.</p>
+
+<p>In het eerste lid wordt verstaan onder werkdag : alle dagen van het jaar, exclusief zaterdag, zondag en feestdagen. Ook de periode van 25 december tot en met 31 december telt niet mee bij de berekening van de werkdagen.</p>
 
 ## HOOFDSTUK 4. Voorwaarden voor de toegang en het gebruik
 
@@ -50,7 +69,17 @@ De toegang tot en het gebruik van geografische gegevensbronnen en   geografische
 
 ### ART. 9.
 
-<P>§ 1. De geografische gegevensbron en geografische dienst, gekoppeld aan het   netwerk, zullen worden ontkoppeld als de derde partij, die de geografische   gegevensbron en geografische dienst beheert, daarom verzoekt. De derde partij   moet het AGIV daarvan minstens drie maanden voor de ontkoppeling op de hoogte   brengen.<BR></P>  <P>§ 2. De geografische gegevensbron en geografische dienst, gekoppeld aan het   netwerk, zullen worden ontkoppeld op verzoek van de derde partij, wanneer het   AGIV zijn verplichtingen niet nakomt. <BR></P>  <P>De derde partij zal het AGIV op de hoogte brengen van haar verzoek. Indien   AGIV niet binnen drie maanden zijn verplichtingen nakomt, zal de ontkoppeling   effectief plaatsvinden.<BR></P>  <P>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het   netwerk, zullen worden ontkoppeld op voorstel van de stuurgroep GDI-Vlaanderen   in de volgende gevallen : <BR>1° als de geografische gegevensbron of   geografische dienst niet langer voldoet aan de technische vereisten, vermeld in   artikel 27 van het GDI-decreet van 20 februari 2009;<BR>2° als de metagegevens   niet worden bijgehouden. <BR></P>  <P>De derde partij, die de geografische gegevensbron en geografische dienst   beheert, zal daarvan op de hoogte worden gebracht. Als de derde partij niet   binnen drie maanden alle verplichtingen nakomt, zal de ontkoppeling effectief   plaatsvinden. </P>
+<p>§ 1. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld als de derde partij, die de geografische gegevensbron en geografische dienst beheert, daarom verzoekt. De derde partij moet het agentschap daarvan minstens drie maanden voor de ontkoppeling op de hoogte brengen.</p>
+
+<p>§ 2. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op verzoek van de derde partij, wanneer het agentschap zijn verplichtingen niet nakomt.</p>
+
+<p>De derde partij zal het agentschap op de hoogte brengen van haar verzoek. Indien het agentschap niet binnen drie maanden zijn verplichtingen nakomt, zal de ontkoppeling effectief plaatsvinden.</p>
+
+<p>§ 3. De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, zullen worden ontkoppeld op voorstel van de stuurgroep GDI-Vlaanderen in de volgende gevallen :<br>
+1° als de geografische gegevensbron of geografische dienst niet langer voldoet aan de technische vereisten, vermeld in artikel 27 van het GDI-decreet van 20 februari 2009;<br>
+2° als de metagegevens niet worden bijgehouden.</p>
+
+<p>De derde partij, die de geografische gegevensbron en geografische dienst beheert, zal daarvan op de hoogte worden gebracht. Als de derde partij niet binnen drie maanden alle verplichtingen nakomt, zal de ontkoppeling effectief plaatsvinden.</p>
 
 ## HOOFDSTUK 7. Slotbepaling
 
@@ -60,4 +89,53 @@ De Vlaamse minister, bevoegd voor het algemeen regeringsbeleid, is belast   met 
 
 ### BIJLAGE
 
-<P>Bijlage<BR></P>  <P>Model overeenkomst tot koppeling van een geografische gegevensbron en   geografische dienst, in beheer van een derde partij, aan het netwerk als vermeld   in artikel 2<BR></P>  <P>LICENTIEOVEREENKOMST <BR></P>  <P>Tussen<BR></P>  <P>Agentschap voor Geografische Informatie Vlaanderen, Gebroeders Van Eyckstraat   16, 9000 Gent, vertegenwoordigd door de heer Armand De Troyer,   administrateur-generaal, hierna AGIV te noemen, en </P>  <P><BR>(...), met officieel adres (...), vertegenwoordigd door (...), hierna de   licentienemer te noemen, <BR></P>  <P>wordt het volgende overeengekomen : <BR></P>  <P>Artikel 1. Voorwerp van de licentie<BR></P>  <P>Het AGIV verleent aan de licentienemer, die aanvaardt, het recht om zijn   geografische gegevensbron en geografische dienst te koppelen aan het netwerk,   vermeld in artikel 26 van het GDI-decreet. <BR></P>  <P>(Omschrijving van de geografische gegevensbron en geografische dienst)   <BR></P>  <P>Art. 2. Verplichtingen van de licentienemer<BR></P>  <P>De licentienemer verbindt zich ertoe om voor minstens drie jaar in de   koppeling te voorzien.<BR></P>  <P>Art. 3. Verplichtingen van het AGIV <BR></P>  <P>Het AGIV neemt de geografische gegevensbron en geografische dienst, gekoppeld   aan het netwerk, op in zijn GDI-catalogus. <BR></P>  <P>De geografische gegevensbron en geografische dienst, gekoppeld aan het   netwerk, worden door AGIV toegankelijk gemaakt via de e-commercedienst.<BR></P>  <P>Art. 4. Intellectuele-eigendomsrechten<BR></P>  <P>De licentienemer behoudt alle intellectuele-eigendomsrechten op de   geografische gegevensbron en geografische dienst, gekoppeld aan het   netwerk.<BR></P>  <P>Art. 5. Termijn<BR></P>  <P>Deze licentie is gesloten voor een periode van (aantal) jaar, vanaf (datum)   tot en met (datum). <BR></P>  <P>Deze licentie wordt stilzwijgend verlengd, tenzij een van beide partijen de   licentie opzegt drie maanden voor het verstrijken van de duur ervan.<BR></P>  <P>Art. 6. Beëindiging<BR></P>  <P>Voor het einde van de periode waarvoor ze is gesloten, kan elke partij deze   licentie eenzijdig beëindigen, zonder schadevergoeding en met een opzegtermijn   van drie maanden, als de tegenpartij zijn verplichtingen niet nakomt.<BR></P>  <P>Art. 7. Aansprakelijkheid <BR></P>  <P>Het AGIV kan niet aansprakelijk worden gesteld voor foutieve, ontbrekende of   onregelmatige gegevens in de geografische gegevensbron en geografische dienst,   gekoppeld aan het netwerk.<BR></P>  <P>Art. 8. Toepasselijk recht en bevoegde rechtbank <BR></P>  <P>Deze overeenkomst moet worden geïnterpreteerd in overeenstemming met het   Belgisch recht. Voor elk conflict over de inhoud of de uitvoering van deze   overeenkomst zijn alleen de rechtbanken van Gent (België) bevoegd.<BR></P>  <P>Deze overeenkomst is in tweevoud opgesteld op... Elke partij verklaart één   origineel exemplaar ontvangen te hebben.<BR></P>  <P>Voor het AGIV,<BR>de administrateur-generaal, <BR>A. DE   TROYER</P>
+Modelovereenkomst tot koppeling van een geografische gegevensbron en geografische dienst, in beheer van een derde partij, aan het netwerk als vermeld in artikel 2<br>
+<br>
+LICENTIEOVEREENKOMST<br>
+<br>
+Tussen<br>
+Agentschap Informatie Vlaanderen, (...), met officieel adres (...), vertegenwoordigd door (...), hierna het agentschap te noemen, en<br>
+<br>
+(...), met officieel adres (...), vertegenwoordigd door (...), hierna de licentienemer te noemen,<br>
+<br>
+Wordt het volgende overeengekomen:<br>
+<br>
+Artikel 1. Voorwerp van de licentie<br>
+<br>
+Het agentschap verleent aan de licentienemer, die aanvaardt, het recht om zijn geografische gegevensbron en geografische dienst te koppelen aan het netwerk, vermeld in artikel 26 van het GDI-decreet.<br>
+<br>
+(Omschrijving van de geografische gegevensbron en geografische dienst)<br>
+<br>
+Art. 2. Verplichtingen van de licentienemer<br>
+<br>
+De licentienemer verbindt zich ertoe om voor minstens drie jaar in de koppeling te voorzien.<br>
+<br>
+Art. 3. Verplichtingen van het agentschap<br>
+<br>
+Het agentschap neemt de geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, op in zijn GDI-catalogus.<br>
+<br>
+De geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk, worden door het agentschap toegankelijk gemaakt via de e-commercedienst.<br>
+<br>
+Art. 4. Intellectuele-eigendomsrechten<br>
+<br>
+De licentienemer behoudt alle intellectuele-eigendomsrechten op de geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk.<br>
+<br>
+Art. 5. Termijn<br>
+<br>
+Deze licentie is gesloten voor een periode van (aantal) jaar, vanaf (datum) tot en met (datum).<br>
+<br>
+Deze licentie wordt stilzwijgend verlengd, tenzij een van beide partijen de licentie opzegt drie maanden voor het verstrijken van de duur ervan.<br>
+<br>
+Art. 6. Beëindiging<br>
+<br>
+Voor het einde van de periode waarvoor ze is gesloten, kan elke partij deze licentie eenzijdig beëindigen, zonder schadevergoeding en met een opzegtermijn van drie maanden, als de tegenpartij zijn verplichtingen niet nakomt.<br>
+<br>
+Art. 7. Aansprakelijkheid<br>
+<br>
+Het agentschap kan niet aansprakelijk worden gesteld voor foutieve, ontbrekende of onregelmatige gegevens in de geografische gegevensbron en geografische dienst, gekoppeld aan het netwerk.<br>
+<br>
+Art. 8. Toepasselijk recht en bevoegde rechtbank<br>
+<br>
+Deze overeenkomst moet worden geïnterpreteerd in overeenstemming met het Belgisch recht. Voor elk conflict over de inhoud of de uitvoering van deze overeenkomst zijn alleen de rechtbanken van Brussel (België) bevoegd.<br>
+<br>
+Deze overeenkomst is in tweevoud opgesteld op... Elke partij verklaart één origineel exemplaar ontvangen te hebben.
