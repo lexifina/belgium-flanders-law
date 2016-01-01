@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026470,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-22 houdende de vaststelling van de verplichte bijdrage van de reders van Belgische vissersvaartuigen voor het jaar 2016 aan het Fonds voor Scheepsjongens",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026470/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "f6f63c46db6ba334418a37b785960cb8fa5c3d85fa8155d81eed3262ad260b84",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026470&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-01-22",
+  "gazette": "2016-02-11",
+  "numac": 2016035128,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
