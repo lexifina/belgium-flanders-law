@@ -148,6 +148,12 @@ Artikel 76 van hetzelfde decreet, gewijzigd bij het decreet van 12 juli 2013, wo
 
 <p>§ 3. De subsidie zoals bepaald in paragraaf 1 kan geheel of gedeeltelijk teruggevorderd worden, indien blijkt dat deze middelen niet worden aangewend voor de realisatie van de opdracht, vermeld in artikel 75, § 1, 8°, en voor de afbouw van de opdrachten verbonden aan de doelstellingen, vermeld in artikel 74.".</p>
 
+### ART. 29.
+
+&nbsp;In hetzelfde decreet worden volgende artikelen opgeheven:<br>
+1° artikel 77, gewijzigd bij de decreten van 18 december 2009, 23 december 2010, 1 juni 2012 en 21 december 2012;<br>
+2° artikel 78.
+
 ### ART. 30.
 
 &nbsp;Artikel 79 van hetzelfde decreet wordt   opgeheven.
