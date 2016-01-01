@@ -188,21 +188,21 @@ De Vlaamse Regering,<br /><br />Gelet op artikel 20 van de bijzondere wet van 8 
 
 ### ART. 32.
 
-§ 1. Het sportbeleidsplan van de VGC is, overeenkomstig artikel 2, 6° en artikel 20, tweede lid, van het decreet een meerjarenbeleidsdocument met betrekking tot het sportbeleid, dat goedgekeurd is door de Nederlandse taalgroep van het Brussels Hoofdstedelijk Parlement en dat tot stand komt, wordt uitgevoerd en geëvalueerd op basis van een interactieve bestuursstijl. Het bevat alle doelstellingen, inspanningen, voorzieningen en instrumenten voor het voeren van een sportbeleid en informatie over de wijze waarop de sportraad wordt begeleid en betrokken. Het beschrijft tevens op welke wijze aandacht wordt besteed aan de kwaliteit van de sportbeoefening.<br /><br />§ 2. Het sportbeleidsplan van de VGC bevat, in aanvulling op artikel 20 en 21, en artikel 24 van het decreet, de volgende elementen :<br />1° generieke elementen :<br />a) de missie van het sportbeleid; <br />b) 1) een inventarisatie en beschrijving van de huidige structuren van de VGC met betrekking tot sport en de onderlinge samenhang ervan, en een inventarisatie van de externe sportactoren die een rol spelen in het sportbeleid van de VGC; <br />2) de voor het sportbeleid van de VGC verzamelde relevante noden en behoeften die onder andere blijken uit de bevraging van de belanghebbenden, uit een evaluatie van het huidige sportbeleid en uit de brede maatschappelijke context.<br />2° elementen die in elk van de hoofdstukken, vermeld in artikel 21 en 24 van het decreet, afzonderlijk aan bod moeten komen :<br />a) de analyse en duiding van de gegevens, vermeld in punt b), 1) en 2), met het oog op de te formuleren doelstellingen; <br />b) de strategische doelstellingen en de bijhorende operationele doelstellingen, met per doelstelling de vermelding van het beoogde resultaat en de eventuele indicatoren;<br />c) de aanpak om de operationele doelstellingen te realiseren met vermelding van de maatregelen, de timing en de financiële prognose.<br /><br />§ 3. De subsidiereglementen maken integraal deel uit van het sportbeleidsplan. Als die subsidiereglementen wijzigen, moeten ze bij het jaarlijkse verslag worden gevoegd. Er moet in een vlotte en regelmatige uitbetaling van de subsidies voorzien worden.<br /><br />§ 4. Bij de subsidiereglementen en ondersteuningssystemen, vermeld in hoofdstuk één en de initiatieven, vermeld in hoofdstuk twee, drie, vier en zes van het sportbeleidsplan wordt het Nederlandstalig karakter als expliciete voorwaarde en opschortend criterium gesteld <br /><br />§ 5. In het sportbeleidsplan van de VGC dient aangetoond te worden op welke manier een optimale afstemming wordt gerealiseerd op het sportbeleidsplan van de gemeenten uit het tweetalig gebied Brussel-Hoofdstad. <br /><br />§ 6. Folders en ander promotiemateriaal geven duidelijk blijk van de steun van de Vlaamse Gemeenschap.<br /><br />§ 7. De minister kan de vorm van het sportbeleidsplan van de VGC en de bijkomende criteria inzake de voorwaarden zoals vastgelegd in § 4, § 5 en § 6, nader bepalen.<br /><br />
+...
 
 ## Onderafdeling II Subsidiëringsprocedure voor de Vlaamse Gemeenschapscommissie
 
 ### ART. 33.
 
-Ter uitvoering van artikel 10, § 2, van het decreet worden de bestedingspercentages met betrekking tot de vijf hoofdstukken per bestuursperiode gemotiveerd in een aanvraag tot goedkeuring van de voorgestelde bestedingspercentages aan de minister. De minister deelt zijn beslissing mee uiterlijk dertig dagen nadat hij de aanvraag van de VGC heeft ontvangen.<br /><br />Ter uitvoering van artikel 10, § 3, van het decreet wordt het resterende gedeelte van de beleidssubsidie, dat volgens § 1 niet moet worden aangewend voor de uitvoering van een welbepaald hoofdstuk in het sportbeleidsplan, door de VGC verdeeld over de vijf hoofdstukken in het sportbeleidsplan.<br /><br />
+...
 
 ### ART. 34.
 
-Voor 31 december van het planningsjaar legt het college van de VGC het ontwerp van sportbeleidsplan, samen met het advies van de sportraad van de VGC, ter goedkeuring voor aan de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement.<br />Het college van de VGC stuurt het door de Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement goedgekeurde sportbeleidsplan uiterlijk tien dagen na de goedkeuring ervan naar het Bloso, bezorgt een kopie ervan aan de sportraad van de VGC en maakt het bekend aan de bevolking.<br /><br />De minister aanvaardt of weigert het sportbeleidsplan van de VGC voor subsidiëring en deelt zijn beslissing uiterlijk zestig dagen nadat het Bloso het sportbeleidsplan heeft ontvangen, aan het college van de VGC en aan de sportraad van de VGC mee. De klachtenprocedure, vermeld in artikel 38, schort die termijn op. Als binnen die termijn geen beslissing aan het college van de VGC is verstuurd, wordt ervan uitgegaan dat de minister het sportbeleidsplan van de VGC voor subsidiëring aanvaardt. <br /><br />Als de VGC tijdens de periode van uitvoering van het sportbeleidsplan een deel of het geheel van strategische doelstellingen wil wijzigen die in het sportbeleidsplan werden opgenomen, dan zijn de voorwaarden, vermeld in artikel 32, en de procedure, vermeld in het eerste lid tot en met het derde lid, van toepassing.<br /><br /><br />
+...
 
 ### ART. 35.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan de VGC het subsidiebedrag mee waarop de VGC recht heeft op basis van artikel 3 en 10 van het decreet.<br /><br />
+...
 
 ## Onderafdeling III Het jaarlijkse verslag van de Vlaamse Gemeenschapscommissie
 
@@ -226,7 +226,7 @@ Als de minister het sportbeleidsplan van de VGC voor subsidiëring heeft aanvaar
 
 ### ART. 39.
 
-<P>§ 1. De tussentijdse evaluatie van het sportbeleidsplan van de VGC, vermeld   in artikel 21 en 25 van het decreet, vindt in overleg met de sportraad van de   VGC plaats in het derde jaar van de sportbeleidsplanperiode en wordt ingediend   voor 1 september van het daaropvolgende jaar samen met het jaarlijkse verslag.   <BR><BR>De tussentijdse evaluatie moet goedgekeurd worden door de   Nederlandstalige taalgroep van het Brussels Hoofdstedelijk Parlement.<BR><BR>...   </P>
+<P>... </P>
 
 ## Afdeling III Het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
@@ -234,17 +234,17 @@ Als de minister het sportbeleidsplan van de VGC voor subsidiëring heeft aanvaar
 
 ### ART. 40.
 
-Het aanvullend sportbeleidsplan is een afzonderlijk hoofdstuk in het sportbeleidsplan van de VGC. In dat hoofdstuk moeten voor de gemeenten van het tweetalige gebied Brussel-Hoofdstad, die geen gemeentelijk sportbeleidsplan indienen voor subsidiëring of een sportbeleidsplan hebben ingediend dat niet voldoet aan de gestelde criteria, minstens de vier inhoudelijke hoofdstukken, overeenkomstig artikel 15 van het decreet, globaal worden omschreven.<br /><br />Ter uitvoering van artikel 11 van het decreet mag de toegekende beleidssubsidie voor het aanvullend sportbeleidsplan enkel verantwoord worden door maatregelen die betrekking hebben op de gemeenten van het tweetalige gebied Brussel-Hoofdstad, die geen gemeentelijk sportbeleidsplan indienen voor subsidiëring.<br /><br />De bepalingen van artikel 32 zijn van overeenkomstige toepassing op het aanvullend sportbeleidsplan van de VGC, met dien verstande dat het sportbeleidsplan en de hoofdstukken, vermeld in artikel 32, § 2, bepaald zijn krachtens artikel 2, 6°, artikel 15 en artikel 22 van het decreet.<br /><br />
+...
 
 ## Onderafdeling II Subsidiëringsprocedure voor het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
 ### ART. 41.
 
-De bepalingen van artikel 34 zijn van overeenkomstige toepassing op het aanvullend sportbeleidsplan van de VGC.<br /><br />
+...
 
 ### ART. 42.
 
-De minister deelt jaarlijks tijdens het tweede trimester aan de VGC het subsidiebedrag mee waarop de VGC recht heeft op basis van artikelen 3, 9 en 11 van het decreet en artikel 24 van dit besluit.<br /><br />
+...
 
 ## Onderafdeling III Het jaarlijkse verslag m.b.t. het aanvullend sportbeleidsplan van de Vlaamse Gemeenschapscommissie
 
