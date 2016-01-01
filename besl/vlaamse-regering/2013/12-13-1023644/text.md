@@ -8,7 +8,10 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder :<BR>1° Kind en Gezin : het   intern verzelfstandigd agentschap Kind en Gezin, opgericht bij artikel 3 van het   decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd   agentschap met rechtspersoonlijkheid Kind en Gezin;<BR>2° pedagogische en   taalondersteunende organisatie : een project dat voldoet aan de voorwaarden van   dit besluit en dat daarvoor een subsidie krijgt;<BR>3° voorziening : een   zelfstandige onthaalouder en een zelfstandig kinderdagverblijf met een attest   van toezicht van Kind en Gezin als vermeld in artikel 4 van het besluit van de   Vlaamse Regering van 13 februari 2009 houdende de regeling van het attest van   toezicht voor zelfstandige opvangvoorzieningen.<BR>
+In dit besluit wordt verstaan onder :<br>
+1° Kind en Gezin : het intern verzelfstandigd agentschap Kind en Gezin, opgericht bij artikel 3 van het decreet van 30 april 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Kind en Gezin;<br>
+2° pedagogische en taalondersteunende organisatie : een project dat voldoet aan de voorwaarden van dit besluit en dat daarvoor een subsidie krijgt;<br>
+3° voorziening: een vergunde gezinsopvang of groepsopvang waarvan de organisator een zelfstandig statuut heeft.
 
 ### ART. 2.
 
@@ -107,6 +110,34 @@ Als er voor de toekenning keuzes gemaakt moeten worden tussen   verschillende aa
 Kind en Gezin beslist over de toekenning van de subsidie uiterlijk   vijftien werkdagen na de uiterste indieningsdatum voor het aanvraagdossier en   brengt de aanvrager binnen vijf dagen op de hoogte van de   beslissing.<BR>
 
 ## [HOOFDSTUK 5/1 Verlenging van de projectsubsidie (ing. BVR 16 december 2016, art. 2, I: 1 januari 2016)]
+
+### ART 23/1.
+
+De pedagogische en taalondersteunende organisatie die een projectsubsidie ontving, kan een verlenging van de projectsubsidie krijgen tot en met 31 december 2017, volgens de voorwaarden van dit besluit.<br>
+<br>
+De verlenging van de projectsubsidie kan gevraagd worden via een melding aan Kind en Gezin. Die melding gebeurt elektronisch en volgens de administratieve richtlijnen van Kind en Gezin.
+
+### ART 23/2.
+
+Voor de verlenging van de projectsubsidie bedraagt de subsidie 5130 euro per volledige kalendermaand per actieve voltijdsequivalent pedagogische ondersteuner voor wie de organisatie het voorgaande kalenderjaar gesubsidieerd werd.
+
+### ART 23/3.
+
+De projectsubsidie, vermeld in artikel 23/2, wordt betaald met voorschotten per kwartaal en een saldoafrekening uiterlijk op 1 april van het kalenderjaar dat volgt op het kalenderjaar in kwestie.
+
+### ART 23/4.
+
+De voorschotten op de projectsubsidies worden als volgt berekend en betaald:<br>
+1° het voorschot bedraagt maximaal 80% van de geraamde projectsubsidie voor dat kwartaal;<br>
+2° het voorschot wordt betaald de eerste maand van elk kwartaal. In afwijking daarvan gebeurt de eerste betaling na de toekenning van de verlenging van de projectsubsidie de eerste maand die volgt op die toekenning.<br>
+<br>
+In afwijking van het eerste lid kan Kind en Gezin, bij ernstige problemen bij de organisator PO, en minstens als er een risico is op plotse stopzetting van de pedagogische ondersteuning of bij vermoeden van fraude door de organisator PO, beslissen om specifieke maatregelen te nemen voor de uitbetaling van de voorschotten.
+
+### ART 23/5.
+
+De saldoafrekening, zijnde de betaling of de terugvordering van het saldo, gebeurt uiterlijk op 1 april van het jaar dat volgt op het kalenderjaar in kwestie.<br>
+<br>
+Voor de saldoafrekening kan schuldvergelijking op organisatieniveau toegepast worden, waardoor terug te vorderen projectsubsidies van Kind en Gezin verrekend kunnen worden.
 
 ## HOOFDSTUK 6 Slotbepalingen
 
