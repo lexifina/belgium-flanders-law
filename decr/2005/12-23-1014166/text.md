@@ -58,11 +58,11 @@ Het besluit van de Vlaamse Regering van 22 juli 2005 tot wijziging van het beslu
 
 ### ART. 11.
 
-(niet opgenomen)<br /><br />(Heft de artikelen 3 en 5 van het decreet van 18 juli 2003 betreffende publiek-private samenwerking op)
+<P><STRONG><EM>...</EM></STRONG></P>
 
 ### ART. 12.
 
-Er wordt een fonds opgericht voor het Vlaams Kenviscentrum publiek-private samenwerking. Dit fonds is een begrotingsfonds als bedoeld in artikel 45 van de gecoördineerde wetten op de rijkscomptabiliteit. Het wordt gestijfd met ontvangsten uit de organisatie van PPS-opleidingen en de verkoop van publicaties. Het fonds is gemachtigd uitgaven te doen die verband houden met de organisatie van opleidingen en de verkoop van publicaties.<br /><br />De rekenplichtige die de ontvangsten gedaan heeft, beschikt rechtstreeks over de kredieten van het fonds.
+<P>...</P>
 
 ## HOOFDSTUK IX Waarborg als verliesgarantie voor het verstrekken van risicokapitaal
 
