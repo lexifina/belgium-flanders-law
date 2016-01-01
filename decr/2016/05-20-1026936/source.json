@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026936,
+  "title": "Decreet van 2016-05-20 houdende diverse bepalingen in de beleidsvelden cultuur, jeugd en Brussel",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026936/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "e8a44a3aa48a9d83e0860e54fbac8087b5fa009fd45173edab5db743ec7dfd6f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026936&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-05-20",
+  "gazette": "2016-06-29",
+  "numac": 2016035891,
+  "document_start": "2016-07-09",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
