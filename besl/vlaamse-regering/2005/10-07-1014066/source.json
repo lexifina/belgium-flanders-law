@@ -2,16 +2,16 @@
   "codex_id": 1014066,
   "title": "Besluit van de Vlaamse Regering van 2005-10-07 [aangaande het Agentschap Innoveren en Ondernemen (verv. BVR 18 december 2015, art. 30)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014066/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "43430a62f04ec45793a55be8eb48244a2adcc52dfccb6d86cdbb61bf340bbeed",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014066/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "3e007be659444b79059bf23e353e79f1e500e36a17dc7d2458a685c6fd9055d6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014066&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2016-01-01",
   "made": "2005-10-07",
   "gazette": "2005-11-16",
   "numac": 2005036383,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2009-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
