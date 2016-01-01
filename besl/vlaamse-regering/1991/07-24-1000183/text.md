@@ -16,7 +16,7 @@
 
 ### ART. 3.
 
-§ 1. Het indienen van de aanvraag houdt in dat de aanvrager aan het agentschap de machtiging verleent, alle nodige inlichtingen betreffende de toestand van de persoon met een handicap bij de sociaalrechtelijke organismen op te vragen.<br /><br />De aanvrager gaat de verbintenis aan, op straffe van terugvordering van de ten onrechte genoten ondersteuning het agentschap op de hoogte te houden van iedere wijziging in zijn toestand zoals deze omschreven is in de aanvraag, inzonderheid wat betreft het indienen van een aanvraag tot sociale bijstand ten laste van een andere Gemeenschap dan de Vlaamse.<br /><br />De aanvrager moet de volle medewerking verlenen aan het multidisciplinaire onderzoek, uitgevoerd door een instantie die door het agentschap wordt erkend om een multidisciplinair verslag af te leveren, en moet op verzoek van het agentschap alle inlichtingen verschaffen die voor het onderzoek van de aanvraag nodig zijn.<br /><br />De aanvrager kan bij het aanvraagformulier alle documenten voegen tot staving of aanvulling van zijn aanvraag.<br /><br />Deze gegevens en documenten zijn vertrouwelijk.<br /><br />§ 2. De toekenning van tegemoetkomingen, vermeld in artikel 14, derde lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, is op straffe van terugvordering van ten onrechte genoten tegemoetkomingen afhankelijk van de voorwaarde dat de aanvrager het agentschap het volgende meedeelt : <br />1° dat de schade waarvoor de aanvraag wordt gedaan, gedekt kan worden door andere wettelijke, decretale, ordonnantiële of reglementaire bepalingen of krachtens gemeen recht;<br />2° alle gegevens of omstandigheden waardoor kan worden uitgemaakt of de schadeloosstelling geheel of gedeeltelijk kan gebeuren krachtens de in 1° vermelde regelingen, met inbegrip van de gerechtelijke informatie of handelingen waarvan de persoon met een handicap in verband met de schade het voorwerp zou zijn;<br />3° de ingestelde vordering of andere procedure om de schadeloosstelling te verkrijgen krachtens de in 1° bedoelde regeling.<br /><br />De persoon met een handicap is verplicht, op straffe van terugvordering van ten onrechte genoten tegemoetkomingen, om alle onderzoeken, inzonderheid geneeskundige, administratieve, fiscale, gerechtelijke onderzoeken, toe te staan als die noodzakelijk zijn met het oog op de vaststelling of het behoud van zijn rechten in de andere wettelijke, decretale, ordonnantiële of reglementaire bepalingen of krachtens het gemeenrecht.<br /><br />Eveneens op straffe van terugvordering van ten onrechte genoten tegemoetkomingen, brengt de aanvrager het agentschap op de hoogte van de schadeloosstellingen die hij op grond van dezelfde handicap als die welke de aanleiding vormt voor zijn aanvraag heeft verkregen, krachtens andere wettelijke, decretale, ordonnantiële of reglementaire bepalingen of krachtens gemeen recht.
+§ 1. Het indienen van de aanvraag houdt in dat de aanvrager aan het   agentschap de machtiging verleent, alle nodige inlichtingen betreffende de   toestand van de persoon met een handicap bij de sociaalrechtelijke organismen op   te vragen.<BR><BR>De aanvrager gaat de verbintenis aan, op straffe van   terugvordering van de ten onrechte genoten ondersteuning het agentschap op de   hoogte te houden van iedere wijziging in zijn toestand zoals deze omschreven is   in de aanvraag, inzonderheid wat betreft het indienen van een aanvraag tot   sociale bijstand ten laste van een andere Gemeenschap dan de Vlaamse.<BR><BR>De   aanvrager moet de volle medewerking verlenen aan het multidisciplinaire   onderzoek, uitgevoerd door een instantie die door het agentschap wordt erkend om   een multidisciplinair verslag af te leveren, en moet op verzoek van het   agentschap alle inlichtingen verschaffen die voor het onderzoek van de aanvraag   nodig zijn.<BR><BR>De aanvrager kan bij het aanvraagformulier alle documenten   voegen tot staving of aanvulling van zijn aanvraag.<BR><BR>Deze gegevens en   documenten zijn vertrouwelijk.<BR><BR>§ 2. ...
 
 ## AFDELING 2 HET BEHANDELEN VAN DE AANVRAAG
 
@@ -193,27 +193,30 @@ d) beantwoordt aan de door het agentschap vastgestelde vormvereisten;<br>
 
 ### ART. 28.
 
-§ 1. Het agentschap betaalt volgende vergoedingen aan de multidisciplinaire teams voor het opmaken en afleveren van verslagen.<br>
+§ 1. Het agentschap betaalt in de volgende gevallen aan de multidisciplinaire teams een vergoeding ten bedrage van 190 euro voor het aanleveren van informatie die toelaat te beoordelen of de aanvrager van ondersteuning of de persoon voor wie ondersteuning wordt gevraagd, al dan niet een persoon is met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap met in voorkomend geval een positief of negatief advies daarover:<br>
+1° bij een eerste vraag om ondersteuning die wordt ingediend bij het agentschap;<br>
+2° bij de eerste vraag om ondersteuning die na de leeftijd van achttien jaar wordt ingediend bij het agentschap of de eerste vraag naar ondersteuning voor meerderjarige personen met een handicap, behalve als het agentschap voordien al heeft vastgesteld dat de persoon die ondersteuning vraagt of voor wie ondersteuning gevraagd wordt, een persoon is met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+3° bij een vraag om ondersteuning van of voor een persoon die door het agentschap al als een persoon met een handicap werd erkend, als de gevraagde nood aan ondersteuning het gevolg is van een andere handicap dan de handicap waarvoor die persoon al werd erkend.<br>
 <br>
-De vergoeding voor het afleveren van een multidisciplinair verslag naar aanleiding van een eerste vraag tot ondersteuning die ingediend is bij het agentschap bedraagt 315,59 euro.<br>
+§ 2. Het agentschap betaalt aan de multidisciplinaire teams een vergoeding ten bedrage van 300 euro voor elk van de volgende prestaties:<br>
+1° het duidelijk en omstandig afbakenen van de toestand en de behoeften van de aanvrager op medisch, psycho-pedagogisch en sociaal gebied, met een voorstel van hulpverlening en zorgtoewijzing en een voorstel van beslissing als vermeld in artikel 24, § 1, 1°, b) en c), van dit besluit;<br>
+2° het aanleveren van de informatie, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap.<br>
 <br>
-De vergoeding voor het afleveren van een gespecialiseerd multidisciplinair verslag, als vermeld in artikel 2, 8°, en artikel 13, § 1, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, eventueel met inbegrip van het adviesrapport, vermeld in artikel 9, § 3, 6°, van voormeld besluit, naar aanleiding van een eerste vraag tot ondersteuning die ingediend is bij het agentschap bedraagt 315,59 euro.<br>
-<br>
-§ 2. De vergoeding voor het afleveren van een multidisciplinair verslag naar aanleiding van de volgende vragen tot ondersteuning die ingediend zijn bij het agentschap, bedraagt 290 euro.<br>
-<br>
-De vergoeding voor het afleveren van een gespecialiseerd multidisciplinair verslag, als vermeld in artikel 2, 8°, en artikel 13, § 1, van het voornoemde besluit van de Vlaamse Regering van 13 juli 2001, eventueel met inbegrip van het adviesrapport, vermeld in artikel 9, § 3, 6°, van voormeld besluit, naar aanleiding van de volgende vragen tot ondersteuning die ingediend zijn bij het agentschap, bedraagt 290 euro.<br>
+Als een multidisciplinair team zowel de informatie, vermeld in het eerste lid, 1°, als de informatie, vermeld in het eerste lid, 2°, moet aanleveren, betaalt het agentschap maar één keer de vergoeding ten bedrage van 300 euro.<br>
 <br>
 § 3. De vergoeding voor het afleveren van de gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap, bedraagt 290 euro.<br>
 <br>
-§ 4. De vergoeding voor het afleveren van het zorgzwaarte-instrument bedraagt 290 euro. Het zorgzwaarte-instrument is een set van schalen, instructies en beslissingsbomen die toelaat om eenduidig en objectiveerbaar de zorgzwaarte van iedere meerderjarige persoon met een handicap uit te drukken in een aantal parameters. Hierbij worden de ondersteuningsnoden van de persoon met een handicap gemeten, ongeacht door wie deze ondersteuning geboden wordt. De parameters die worden bekomen zijn de nood aan ondersteuning door personen of de begeleidingsintensiteit, de nood aan aanwezigheid van en toezicht door personen overdag of permanentie en de nood aan aanwezigheid van en toezicht door personen 's nachts of nachtpermanentie.<br>
+§ 4. In geval van een aanvraag om individuele materiële bijstand als vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap, betaalt het agentschap een vergoeding ten bedrage van 335 euro voor de opmaak van een adviesrapport als vermeld in artikel 9, § 3, 6°, van het voormelde besluit.<br>
 <br>
-§ 5. De bedragen, vermeld in paragraaf 1, 2, 3 en 4, zijn gekoppeld aan de referte- index 110,96 (basis 2004 = 100) van december 2009. Ze worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
+Met behoud van de toepassing van paragraaf 1 blijft de vergoeding die betaald kan worden door het agentschap, in afwijking van paragraaf 2, eerste lid, 1°, beperkt tot de vergoeding, vermeld in het eerste lid, als in het kader van een aanvraag om individuele materiële bijstand een gespecialiseerd multidisciplinair verslag moet worden opgemaakt als vermeld in artikel 9, 2°, van het besluit van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiële bijstand voor de sociale integratie van personen met een handicap.<br>
 <br>
-basisbedrag x G-index december 20XX/110,96<br>
+Bij de combinatie van een vraag naar individuele materiële bijstand met een vraag naar een andere ondersteuningsvorm, ontvangt het multidisciplinair team in alle gevallen de vergoeding, vermeld in het eerste lid, samen met de vergoeding, vermeld in paragraaf 2.<br>
 <br>
-§ 6. Het agentschap neemt de vergoedingen, vermeld in paragraaf 1, 2, 3 en 4 ten laste op voorwaarde dat het multidisciplinair verslag, het gespecialiseerd multidisciplinair verslag, het adviesrapport, de gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven of het zorgzwaarte-instrument voldoen aan de kwaliteitseisen vermeld in artikel 24, § 1, 2°, § 2, 3°, en § 3, 3°.<br>
+§ 5. De bedragen, vermeld in paragraaf 1, 2, 3 en 4, zijn gekoppeld aan de referte-index 99,98 (basis 2013 = 100) van december 2014. Ze worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule: basisbedrag x G-index december 20XX/99,98.<br>
 <br>
-§ 7. Noch het team of zijn inrichtende macht, noch de eraan verbonden medewerkers mogen voor het opstellen van een multidisciplinair verslag, een gespecialiseerd multidisciplinair verslag, een adviesrapport, een gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven of voor de aflevering van het zorgzwaarte-instrument een andere vergoeding of beloning vragen of aanvaarden dan de vergoedingen, vermeld in dit artikel, die door het agentschap worden betaald.
+§ 6. Het agentschap betaalt de vergoedingen, vermeld in paragraaf 1, 2, 1° en 2°, en paragraaf 4, op voorwaarde dat het multidisciplinair team voldoet aan de minimale kwaliteitseisen voor het verslag, vermeld in artikel 24, § 1, 2°, § 2, 3°, en § 3, 3°.<br>
+<br>
+§ 7. Noch het team of zijn inrichtende macht, noch de eraan verbonden medewerkers mogen voor het verrichten van de prestaties, vermeld in paragraaf 1 tot en met 4, een andere vergoeding of beloning vragen of aanvaarden dan de vergoedingen van het agentschap, vermeld in dit artikel.
 
 ### ART. 28bis.
 
@@ -221,78 +224,15 @@ basisbedrag x G-index december 20XX/110,96<br>
 
 ### ART. 28ter.
 
-Het agentschap kent jaarlijks een werkingstoelage toe aan de multidisciplinaire teams.
+<P>...</P>
 
 ### ART. 28quater.
 
-§ 1. Voor het jaar 2011 wordt het bedrag van de werkingstoelage vastgesteld in functie van het aantal verslagen dat het multidisciplinair team in de periode van 1 januari 2010 tot en met 31 december 2010 heeft afgeleverd aan het agentschap en dat door het agentschap werd vergoed voor 30 november 2011.<br /><br />Bij de vaststelling van het aantal verslagen wordt rekening gehouden met volgende documenten :<br />1° multidisciplinaire verslagen als vermeld in artikel 2, § 2bis, van dit besluit;<br />2° gespecialiseerde multidisciplinaire verslagen als vermeld in artikel 2, 8°, van het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiele bijstand voor de sociale integratie van personen met een handicap;<br />3° adviesrapporten als vermeld in artikel 9, § 3, 6°, van besluit, vermeld in punt 2° ;<br />4° de gemotiveerde inschaling van de beperkingen en behoeften op het vlak van algemene en instrumentele assistentie bij de handelingen van het dagelijkse leven, vermeld in artikel 6 van het besluit van de Vlaamse Regering van 15 december 2000 houdende vaststelling van de voorwaarden van toekenning van een persoonlijke-assistentiebudget aan personen met een handicap; <br />5° het zorgzwaarte-instrument, vermeld in artikel 28, § 4, van dit besluit.<br /><br />Met uitzondering van de documenten, vermeld in het tweede lid, 4° en 5°, worden de documenten die verband houden met dezelfde vraag naar ondersteuning of met verschillende vragen naar ondersteuning die op hetzelfde moment worden ingediend als één verslag gerekend.<br /><br />§ 2. Afhankelijk van het totaal aantal verslagen als vermeld in paragraaf 1 wordt voor de berekening van de werkingstoelage uitgegaan van de volgende bedragen per verslag :<br />1° meer dan 200 verslagen : 70 euro;<br />2° meer dan 100 en minder dan 200 verslagen : 64 euro;<br />3° meer dan 50 en minder dan 100 verslagen : 57 euro;<br />4° meer dan 25 en minder dan 50 verslagen : 44 euro;<br />5° minder dan 25 verslagen : 40 euro.<br /><br />De werkingstoelage per team wordt berekend door het totaal aantal verslagen van een team te vermenigvuldigen met het bedrag dat van toepassing is als vermeld in het eerste lid.
+<P>...</P>
 
 ### ART. 28quinquies
 
-§ 1. Voor het jaar 2012 en 2013 wordt de werkingstoelage vastgesteld aan de hand van een bedrag per verslag dat wordt vastgesteld in functie van het totale aantal verslagen, vermeld in artikel 28quater, § 1, tweede en derde lid, dat het team of, voor het jaar 2013, het geformaliseerd samenwerkingsverband waarvan het team deel uitmaakt in het voorafgaande kalenderjaar heeft bezorgd aan het agentschap en aan de hand van een bedrag per verslag dat kan worden toegekend als het team voldoet aan de voorwaarden vermeld in paragraaf 3 of paragraaf 4.<br>
-<br>
-De minister bevoegd voor de bijstand van personen stelt de voorwaarden vast waaraan het geformaliseerd samenwerkingsverband moet voldoen.<br>
-<br>
-Als een team een geformaliseerd samenwerkingsverband aangaat in de loop van het voorafgaande kalenderjaar wordt bij de vaststelling van het bedrag per verslag als vermeld in paragraaf 2, eerste lid, voor het team rekening gehouden met het totale aantal verslagen dat de verschillende teams die deel uitmaken van het samenwerkingsverband samen hebben afgeleverd in het voorafgaande kalenderjaar.<br>
-<br>
-Voor de vaststelling van het totale aantal verslagen wordt alleen rekening gehouden met de verslagen die voldoen aan minimale kwaliteitseisen inzake het verslag, vermeld in artikel 3 van het ministerieel besluit van 12 november 2010 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap.<br>
-<br>
-§ 2. In functie van het totale aantal verslagen wordt voor de berekening van de werkingstoelage uitgegaan van de volgende bedragen per verslag :<br>
-1° meer dan 200 verslagen : 40 euro;<br>
-2° meer dan 100 en minder dan 200 verslagen : 36 euro;<br>
-3° meer dan 50 maar minder dan 100 verslagen : 32 euro;<br>
-4° meer dan 25 maar minder dan 50 verslagen : 25 euro;<br>
-5° minder dan 25 verslagen : 23 euro.<br>
-<br>
-Als het team voldoet aan de voorwaarden, vermeld in respectievelijk paragraaf 3 of paragraaf 4 kan het bedrag per verslag vermeerderd worden met de volgende bedragen :<br>
-1° meer dan 200 verslagen : 30 euro;<br>
-2° meer dan 100 en minder dan 200 verslagen : 28euro;<br>
-3° meer dan 50 en minder dan 100 verslagen : 25 euro;<br>
-4° meer dan 25 en minder dan 50 verslagen : 19 euro;<br>
-5° minder dan 25 verslagen : 17 euro.<br>
-<br>
-§ 3. Voor de toekenning van de bedragen, vermeld in paragraaf 2, tweede lid, moet het multidisciplinair team voor het jaar 2012 aan de volgende voorwaarden voldoen :<br>
-1° als een multidisciplinair verslag wordt afgeleverd in het kader van een eerste aanvraag tot ondersteuning bij het agentschap, bedraagt de termijn, vermeld in artikel 2, 8°, d), van het ministerieel besluit van 12 november 2010 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap in minstens 80 % van de gevallen 120 dagen of minder;<br>
-2° als er verslagen worden afgeleverd voor aanvragen van individuele materiële bijstand als vermeld in de refertelijst bij het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiele bijstand voor de sociale integratie van personen met een handicap onder 3. Aanvulling onderste ledematen of 4. Vervanging onderste ledematen, domein 1 ombouwen/aanbouwen van de woning en aanvullende uitrusting, subdomein ombouwen/aanbouwen van de woning, wordt in 80 % een huisbezoek bij de persoon met een handicap afgelegd.<br>
-<br>
-§ 4. Voor de toekenning van de bedragen, vermeld in paragraaf 2, tweede lid, moet het multidisciplinair team lid voor het jaar 2013 aan de volgende voorwaarden voldoen :<br>
-1° als een multidisciplinair verslag wordt afgeleverd in het kader van een eerste aanvraag tot ondersteuning bij het agentschap bedraagt de termijn, vermeld in artikel 2, 8°, d), van het ministerieel besluit van 12 november 2010 houdende vaststelling van de minimale kwaliteitseisen voor de multidisciplinaire teams die erkend zijn door het Vlaams Agentschap voor Personen met een Handicap in minstens 80 % van de gevallen 90 dagen of minder;<br>
-2° als er verslagen worden afgeleverd voor aanvragen om individuele materiële bijstand als vermeld in het besluit van de Vlaamse Regering van 13 juli 2001 tot vaststelling van de criteria, voorwaarden en refertebedragen van de tussenkomsten in de individuele materiele bijstand voor de sociale integratie van personen met een handicap, wordt in 60 % van de gevallen een huisbezoek bij de persoon met een handicap afgelegd; voor aanvragen individuele materiële bijstand die vallen onder 3. Aanvulling onderste ledematen of 4. Vervanging onderste ledematen, domein 1 ombouwen/aanbouwen van de woning en aanvullende uitrusting, subdomein ombouwen/aanbouwen van de woning, wordt in alle gevallen een huisbezoek bij de persoon met een handicap afgelegd;<br>
-3° het multidisciplinair team beschikt over een jaarlijks vormingsplan voor alle leden van het team en brengt dat vormingsplan tot uitvoering. Het vormingsplan wordt voor 1 maart 2013 aan het agentschap bezorgd en bevat volgende informatie :<br>
-a) de wijze waarop vorming afgestemd wordt op de werking van het team en de opdrachten voor het agentschap;<br>
-b) de doelstelling en de specificatie van de vorming voor alle personeelsleden, individueel of per groep;<br>
-c) de eventuele bijkomende vormingsactiviteiten per personeelslid.<br>
-<br>
-Het team maakt voor 1 februari van het volgende kalenderjaar een verslag op waarin aangetoond wordt dat het vormingsplan werd uitgevoerd.<br>
-<br>
-§ 5. De werkingstoelage per team wordt berekend door het totale aantal verslagen van een team te vermenigvuldigen met de van toepassing zijnde bedragen, vermeld in paragraaf 2, eerste lid, en als aan de voorwaarden vermeld in paragraaf 3 of paragraaf 4, is voldaan met de van toepassing zijnde bedragen, vermeld in paragraaf 2, tweede lid.<br>
-<br>
-§ 6. De bedragen, vermeld in paragraaf 2, zijn gekoppeld aan de referte-index 113,84 (basis 2004 = 100) van december 2010. Ze worden jaarlijks op 1 januari aangepast, rekening houdend met het indexcijfer van de consumptieprijzen, vermeld in hoofdstuk II van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, hierna G-index te noemen, volgens de formule :<br>
-<br>
-
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
-	<tbody>
-		<tr>
-			<td style="border-bottom:solid black 1.0pt; border-style:none; vertical-align:top; width:189.7pt">
-			<p>basisbedrag x G-index december 20XX</p>
-			</td>
-		</tr>
-		<tr>
-			<td style="border-style:none; vertical-align:top; width:189.7pt">
-			<p>113,84</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-<br>
-<br>
-De jaarlijkse werkingstoelage wordt uitbetaald in twee schijven :<br>
-1° een eerste schijf van 80 % wordt uitbetaald in het derde kwartaal van het kalenderjaar, waarop de werkingstoelage betrekking heeft;<br>
-2° een tweede schijf van 20 % wordt uitbetaald voor 31 mei van het kalenderjaar dat volgt op het kalenderjaar waarop de werkingstoelage betrekking heeft als het agentschap heeft vastgesteld dat het team voldaan heeft aan de voorwaarden, vermeld in artikel paragraaf 3 of paragraaf 4 en na de goedkeuring van het verslag als vermeld in paragraaf 3, 3° of paragraaf 4, 3°.<br>
-<br>
-In afwijking van het tweede lid wordt de werkingstoelage voor het jaar 2011 in één keer uitbetaald in het tweede kwartaal van 2012.
+<p>...</p>
 
 ## HOOFDSTUK IV [DE ADVIESCOMMISSIE (verv. B.V.R. 16 september 1997, art. 1)]
 
