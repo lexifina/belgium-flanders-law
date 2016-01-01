@@ -42,7 +42,7 @@ Het bestuur vertegenwoordigt de Academie, het beheert haar algemene belangen en 
 
 ### ART. 11.
 
-De voorzitter en de ondervoorzitter worden verkozen voor één jaar. De verkiezing heeft plaats in de maand november; de verkozenen nemen het ambt waar te beginnen per 1 januari die erop volgt. Na het neerleggen van hun ambt zijn zij niet onmiddellijk herkiesbaar.
+De voorzitter en de ondervoorzitter worden verkozen voor één jaar. De verkiezing heeft plaats in de maand november; de verkozenen nemen het ambt waar te beginnen per 1 januari die erop volgt. Ze kunnen maximaal gedurende drie opeenvolgende jaren hetzelfde mandaat uitoefenen.
 
 ### ART. 12.
 
