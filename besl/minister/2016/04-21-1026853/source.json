@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026853,
+  "title": "Ministerieel besluit van 2016-04-21 tot bepaling van de diensten voor logistieke hulp die in aanmerking komen voor subsidiëring en tot bepaling van het aantal vte per functiecategorie en per dienst voor het jaar 2016",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026853/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "6ae2683eb05062d65fbd2be1a3ef9150d06fbcc3da5bac7498acb6dd57cb138a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026853&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-04-21",
+  "gazette": "2016-05-31",
+  "numac": 2016035809,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
