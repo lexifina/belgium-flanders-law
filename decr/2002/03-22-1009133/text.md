@@ -10,7 +10,7 @@ Dit decreet regelt een aangelegenheid als bedoeld in artikel 39 en de artikelen 
 
 ### ART. 2.
 
-Lastens de algemene uitgavenbegroting van de Vlaamse Gemeenschap en het Financieringsfonds voor Schuldafbouw en Eenmalige Investeringsuitgaven kunnen uitgaven voor stadsvernieuwing worden aangerekend.
+Lastens de algemene uitgavenbegroting van de Vlaamse   Gemeenschap&nbsp;kunnen uitgaven voor stadsvernieuwing worden aangerekend. Deze   uitgaven kunnen een projectsubsidie of een conceptsubsidie   betreffen.
 
 ### ART. 3.
 
@@ -22,7 +22,7 @@ Dit decreet beoogt de bovengenoemde steden en de Vlaamse Gemeenschapscommissie t
 
 ### ART. 5.
 
-De projecten worden beoordeeld op basis van de volgende criteria:<br /><br />1° de projecten zijn totaalprojecten die verschillende functies omvatten. Ze richten zich op de multifunctionaliteit van een bepaald stadsdeel. De projecten hebben enerzijds betrekking op wonen, winkelen, recreëren en werken en anderzijds op de inrichting van het publieke domein en de groene ruimten;<br /><br />2° er ligt een deugdelijke analyse aan de grondslag van de projecten, die resulteert in een strategische visie op het stadsdeel in kwestie;<br /><br />3° het project dient tot stand te komen in samenspraak met de buurtbewoners en maatschappelijke groepen, die in het betrokken stadsdeel actief zijn;<br /><br />4° de projecten monden uit in structurele ingrepen en ze brengen zichtbare veranderingen teweeg in de fysische omgeving;<br /><br />5° de steden en de Vlaamse Gemeenschapscommissie werken samen met de private sector en ze voorzien in cofinanciering. Ook samenwerking met andere overheden is mogelijk. De private sector brengt minimaal dertig procent van de middelen in. De regiefunctie van het ganse project ligt bij de steden;<br /><br />6° bij de beoordeling van de projecten wordt rekening gehouden met de vooropgestelde timing en de uitvoerbaarheid van het project.
+De projecten worden beoordeeld op basis van de volgende criteria:<BR>1° de   projecten zijn totaalprojecten die verschillende functies omvatten. Ze richten   zich op de multifunctionaliteit van een bepaald stadsdeel. De projecten hebben   enerzijds betrekking op wonen, winkelen, recreëren en werken en anderzijds op de   inrichting van het publieke domein en de groene ruimten;<BR>2° er ligt een   deugdelijke analyse aan de grondslag van de projecten, die resulteert in een   strategische visie op het stadsdeel in kwestie;<BR>3° het project dient tot   stand te komen in samenspraak met de buurtbewoners en maatschappelijke groepen,   die in het betrokken stadsdeel actief zijn;<BR>4° de projecten monden uit in   structurele ingrepen en ze brengen zichtbare veranderingen teweeg in de fysische   omgeving;<BR>5° de steden en de Vlaamse Gemeenschapscommissie werken samen met   de private sector en ze voorzien in cofinanciering. Ook samenwerking met andere   overheden is mogelijk. De private sector brengt bij een   projectsubsidie&nbsp;minimaal dertig procent van de middelen in. De regiefunctie   van het ganse project ligt bij de steden;<BR>6° bij de beoordeling van de   projecten wordt rekening gehouden met de vooropgestelde timing en de   uitvoerbaarheid van het project.
 
 ### ART. 6.
 
