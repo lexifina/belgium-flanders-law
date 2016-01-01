@@ -4,6 +4,13 @@
 
 ## HOOFDSTUK 2 Kanselarij en Bestuur
 
+### ART 2.
+
+<p>In artikel 79 van het decreet van 22 december 2006 houdende bepalingen tot begeleiding van de begroting 2007 worden de volgende wijzigingen aangebracht :<br>
+1° paragraaf 2, gewijzigd bij de decreten van 13 juli 2012 en 18 december 2015, wordt vervangen door wat volgt :<br>
+" § 2. De DAB ICT wordt als interne ICT-dienstverlener belast met het aanbieden van diensten inzake informatie- en communicatietechnologie ter ondersteuning van de entiteiten van de Vlaamse overheid en van de lokale en provinciale besturen.";<br>
+2° paragraaf 2bis, ingevoegd bij het decreet van 19 december 2008 en gewijzigd bij de decreten van 13 juli 2012 en 18 december 2015, wordt opgeheven.</p>
+
 ## HOOFDSTUK 3 Cultuur, Jeugd, Sport en Media
 
 ## HOOFDSTUK 4 Werk en Sociale Economie
@@ -33,6 +40,58 @@
 
 ## Afdeling 2 Sociale toelage hogeronderwijsinstellingen - aanpassing regelgeving
 
+### ART 14.
+
+<p>Artikel III.67 van de Codex Hoger Onderwijs van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013, gewijzigd bij het decreet van 19 december 2014, wordt vervangen door wat volgt :<br>
+"Art. III.67. § 1. De sociale toelage voor de hogescholen en de universiteiten bedraagt in totaal respectievelijk 24.455.616,52 euro en 22.142.976,89 euro op prijsniveau 2015. Het bedrag van de sociale toelage voor de universiteiten wordt vanaf 2016 verhoogd met 1.000.000 euro.<br>
+<br>
+Die bedragen worden binnen de perken van de jaarlijkse begrotingskredieten jaarlijks geïndexeerd aan de hand van de volgende formule :<br>
+I = 0,50 x (L1/L0) + 0,50 x (Cl/CO), waarbij<br>
+1° I : de indexformule;<br>
+2° L1/L0 : de verhouding tussen de geraamde index van de eenheidsloonkosten op het einde van het betreffende begrotingsjaar n en de index van de eenheidsloonkosten op het einde van begrotingsjaar n-1;<br>
+3° Cl/CO : de verhouding tussen de geraamde index van de consumptieprijzen op het einde van het betreffende begrotingsjaar n en de index van de consumptieprijzen op het einde van begrotingsjaar n-1.<br>
+<br>
+§ 2. De bedragen voor de sociale toelage, berekend overeenkomstig dit artikel, worden vanaf het begrotingsjaar 2016 met 2 % verminderd.".</p>
+
+### ART 15.
+
+<p>In artikel III.68 van dezelfde codex wordt het laatste lid vervangen door wat volgt :<br>
+"De opgenomen studiepunten, vermeld in dit artikel, zijn de studiepunten berekend overeenkomstig artikel III.7 van deze codex, met behoud van artikel III.30, § 1.".</p>
+
+### ART 16.
+
+<p>Artikel III.70 van dezelfde codex wordt vervangen door wat volgt :<br>
+"Art. III.70. § 1. Het bedrag van de totale sociale toelage voor de universiteiten, vermeld in artikel III.67, wordt onder de universiteiten verdeeld op basis van het aandeel van elke universiteit in het totale aantal opgenomen studiepunten van alle universiteiten.<br>
+<br>
+De sociale toelage die een universiteit ontvangt in het begrotingsjaar t kan echter niet lager zijn dan 98 % van de sociale toelage die haar in het begrotingsjaar t-1 is toegekend.<br>
+<br>
+Daarbij wordt de volgende berekeningswijze gehanteerd :<br>
+1° stap 1 : voor iedere universiteit wordt het bedrag berekend op basis van haar aandeel in het aantal opgenomen studiepunten;<br>
+2° stap 2 : voor iedere universiteit wordt in het begrotingsjaar t 98 % van het bedrag dat de universiteit als sociale toelage ontvangen heeft in begrotingsjaar t-1, als referentiepunt vastgeklikt;<br>
+3° stap 3 : als voor een universiteit het bedrag berekend in stap 1 kleiner is dan het bedrag berekend in stap 2, dan ontvangt die universiteit als sociale toelage het bedrag dat als referentiepunt is vastgeklikt overeenkomstig stap 2;<br>
+4° stap 4 : als voor een universiteit het bedrag berekend in stap 1 groter is dan het bedrag berekend in stap 2, dan ontvangt die universiteit als sociale toelage het bedrag berekend in stap 2, vermeerderd met het procentueel aandeel van de instelling in het positieve verschil tussen de som van de bedragen, berekend conform stap 1 en de som van de bedragen, berekend conform stap 2.<br>
+<br>
+§ 2. In afwijking van paragraaf 1 wordt voor het begrotingsjaar 2016 het bijkomende bedrag van 1.000.000 euro, vermeld in artikel III.67, § 1, niet meegenomen in de berekeningen. Dit bedrag van 1.000.000 euro wordt in het begrotingsjaar 2016 verdeeld op basis van het aandeel van elke universiteit in het totale aantal opgenomen studiepunten van alle universiteiten.<br>
+<br>
+De universiteiten hebben in het begrotingsjaar 2015 de volgende bedragen ontvangen als sociale toelage, uitgedrukt in euro :<br>
+Universiteit Gent : . . . . . 6.536.766,28<br>
+Universiteit Hasselt : . . . . . 1.024.879,72<br>
+Universiteit Antwerpen : . . . . . 2.988.564,34<br>
+Katholieke Universiteit Leuven : . . . . . 8.319.535,83<br>
+Vrije Universiteit Brussel : . . . . . 2.157.495,12.<br>
+<br>
+Deze bedragen gelden als basis voor de berekeningen, vermeld in paragraaf 1.<br>
+<br>
+§ 3. De opgenomen studiepunten, vermeld in dit artikel, zijn de studiepunten, berekend overeenkomstig artikel III.7 van deze codex, met behoud van artikel III.30, § 1.".</p>
+
+### ART 17.
+
+<p>Artikel III.71 van dezelfde codex wordt opgeheven.</p>
+
+### ART 18.
+
+<p>Artikel III.71/1 van dezelfde codex, ingevoegd bij het decreet van 18 december 2015, wordt opgeheven.</p>
+
 ## Afdeling 3 Verdeling middelen hogere taalvereiste NT2 voor schooljaar 2016-2017
 
 ## Afdeling 4 Begrotingsfonds Departement Onderwijs en Vorming - verbreding van de projectenscope
@@ -51,6 +110,14 @@
 <p>Artikel 69 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting 2016 wordt opgeheven.</p>
 
 ## Afdeling 6 Aanpassing timing indiening begroting
+
+### ART 23.
+
+<p>In artikel IV.13 van de Codex Hoger Onderwijs van 11 oktober 2013, bekrachtigd bij het decreet van 20 december 2013, gewijzigd bij het decreet van 21 maart 2014, wordt in het eerste lid de datum "15 september" vervangen door de datum "10 september".</p>
+
+### ART 24.
+
+<p>In artikel IV.21 van dezelfde codex, gewijzigd bij het decreet van 21 maart 2014, wordt in het eerste lid de datum "15 september" vervangen door de datum "10 september".</p>
 
 ## Afdeling 7 Aanpassing timing indiening jaarrekeningen
 
@@ -76,6 +143,13 @@ De definitieve jaarrekening gaat vergezeld van een door het instellingsbestuur o
 ## Afdeling 2 Het Fonds voor het Beheer, Uitrusting, Geschiktmaking, Onderhoud van gronden wordt opgeheven
 
 ## Afdeling 3 Onroerende voorheffing
+
+### ART 28.
+
+<p>Artikel 3.2.1.0.2 van de Vlaamse Codex Fiscaliteit van 13 december 2013 wordt vervangen door wat volgt :<br>
+"Art. 3.2.1.0.2. Aanslagen inzake de onroerende voorheffing die betrekking hebben op onroerende goederen die samen een kadastraal inkomen hebben van minder dan 15 euro, worden niet in een kohier opgenomen.<br>
+<br>
+Een aanslag heeft betrekking op de onroerende goederen die gelegen zijn in eenzelfde gemeente en waarvan de zakelijke rechten van een belastingplichtige of groep van belastingplichtigen voor elk van die onroerende goederen identiek zijn.".</p>
 
 ## HOOFDSTUK 9 Leefmilieu, Natuur en Energie
 
