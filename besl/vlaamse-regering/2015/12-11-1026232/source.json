@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026232,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-11 tot rangschikking van onbevaarbare waterlopen op het grondgebied van de provincie Limburg in een hogere of lagere categorie zoals bedoeld in artikel 4bis, § 3, van de wet van 28 december 1967 betreffende de onbevaarbare waterlopen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026232/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "1c38aaaa9bd474f1294eb4d36345aa0d691344fb69cd85dd140553a0ac2e5f27",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026232&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-11",
+  "gazette": "2015-12-22",
+  "numac": 2015036563,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
