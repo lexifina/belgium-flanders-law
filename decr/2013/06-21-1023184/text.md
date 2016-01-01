@@ -8,6 +8,38 @@ Artikel 53 regelt een gewestaangelegenheid. Voor het overige regelt dit   decree
 
 ## HOOFSTUK 2 Meldpunten "Geweld, Misbruik en Kindermishandeling"
 
+### ART. 2.
+
+In dit hoofdstuk wordt verstaan onder : <BR>1° centrum voor algemeen   welzijnswerk : een centrum dat door de Vlaamse overheid erkend is met toepassing   van de regelgeving betreffende het algemeen welzijnswerk, met uitzondering van   een centrum voor teleonthaal;<BR>2° vertrouwenscentrum kindermishandeling : een   centrum dat door de Vlaamse overheid erkend is met toepassing van de regelgeving   betreffende de erkenning en de subsidiëring van de vertrouwenscentra   kindermishandeling;<BR>3° Meldpunt : een meldpunt "Geweld, Misbruik en   Kindermishandeling" als vermeld in artikel 3, eerste lid;<BR>4°   kindermishandeling : elke vorm van lichamelijk, psychisch of seksueel geweld   waarvan een natuurlijke persoon die jonger is dan achttien jaar, het slachtoffer   is, actief door het schadelijke optreden of passief door een ernstige   nalatigheid van zijn ouders of van iedere andere persoon ten opzichte van wie de   eerstgenoemde natuurlijke persoon in een relatie van afhankelijkheid   staat;<BR>5° geweld : elke vorm van fysiek, seksueel, psychisch of economisch   geweld waarvan een natuurlijke persoon het slachtoffer is, met uitsluiting van   kindermishandeling;<BR>6° misbruik : elke vorm van grensoverschrijdend gedrag   waardoor de fysieke of psychische integriteit van een natuurlijke persoon wordt   aangetast, met uitsluiting van geweld en kindermishandeling;<BR>7° aanmelding :   elke contactname met het Meldpunt door een persoon die direct of indirect   betrokken is bij een situatie van geweld, misbruik of kindermishandeling;<BR>8°   aanmelder : een persoon als vermeld in punt 7°.<BR>
+
+### ART. 3.
+
+<P>In elke provincie van het Nederlandse taalgebied en in het tweetalige gebied   Brussel-Hoofdstad organiseren centra voor algemeen welzijnswerk en het   vertrouwenscentrum kindermishandeling, waarvan het werkgebied in die provincie   of in dat tweetalige gebied ligt, samen een meldpunt "Geweld, Misbruik en   Kindermishandeling". Het vertrouwenscentrum kindermishandeling en de centra voor   algemeen welzijnswerk die mee zorgen voor de organisatie van het Meldpunt,   sluiten daarvoor een samenwerkingsovereenkomst.<BR></P>  <P>In afwijking van het eerste lid kan de Vlaamse Regering bepalen dat in een of   meer provincies of in het tweetalige gebied Brussel-Hoofdstad twee Meldpunten   kunnen worden georganiseerd.<BR></P>  <P>De werking van de Meldpunten is aanvullend ten aanzien van de reguliere   werking van de centra voor algemeen welzijnswerk en van de vertrouwenscentra   kindermishandeling die verloopt volgens de regelgeving, vermeld in artikel 2, 1°   of 2°.<BR></P>
+
+### ART. 4.
+
+<P>Een Meldpunt vervult de volgende opdrachten : <BR>1° kennisnemen van alle   aanmeldingen die via de telefoon of via een ander communicatiemiddel dat de   Vlaamse Regering kan bepalen, aan het Meldpunt worden gericht met betrekking tot   geweld, misbruik of kindermishandeling, of een vermoeden ervan;<BR>2° passend   gevolg geven aan een aanmelding als vermeld in punt 1°, onder de vorm van   vraagverheldering die kan leiden tot directe hulp aan de aanmelder;<BR>3° als   dat nodig is, de gegevens die zijn verstrekt tijdens een aanmelding als vermeld   in punt 1°, ter kennis brengen van het vertrouwenscentrum kindermishandeling of   van een centrum voor algemeen welzijnswerk, of van een andere voorziening die   een meer passende hulpverlening kan verstrekken.<BR></P>  <P>De Vlaamse Regering kan bepalen tot welke categorieën van voorzieningen de   andere voorzieningen, vermeld in het eerste lid, 3°,   behoren.<BR></P>
+
+### ART. 5.
+
+<P>De samenwerkingsovereenkomst, vermeld in artikel 3, eerste lid, regelt   minstens : <BR>1° de organisatie, de vestigingsplaats en de werking van het   Meldpunt;<BR>2° het aantal medewerkers dat het vertrouwenscentrum   kindermishandeling en de centra voor algemeen welzijnswerk elk inzetten voor de   werking van het Meldpunt en de taken die elke medewerker zal vervullen;<BR>3° de   verantwoordelijkheid voor de werking van het Meldpunt;<BR>4° de verwerking van   persoonsgegevens door de medewerkers van het Meldpunt, met behoud van de   toepassing van artikel 6;<BR>5° een klachtenprocedure;<BR>6° de wijze waarop de   kwaliteit van de dienstverlening van het Meldpunt wordt bewaakt, alsook de wijze   waarop de veiligheid van de personen die betrokken zijn of vermoedelijk   betrokken zijn bij een aangemelde situatie van geweld, misbruik of   kindermishandeling, optimaal wordt ingeschat en passende maatregelen worden   genomen;<BR>7° het maken of voortzetten van samenwerkingsafspraken met   voorzieningen die hulpverlening aanbieden, met de politie en met het   parket.<BR></P>  <P>De Vlaamse Regering kan de inhoud van de samenwerkingsovereenkomst, vermeld   in het eerste lid, nader regelen of aanvullen.<BR></P>
+
+### ART. 6.
+
+<P>Met het oog op de afhandeling van aanmeldingen conform artikel 4, eerste lid,   verwerkt het Meldpunt persoonsgegevens, inclusief gegevens als vermeld in   artikel 6 en 7 van de wet van 8 december 1992 betreffende de bescherming van de   persoonlijke levens- sfeer ten opzichte van de verwerking van persoonsgegevens.   Het Meldpunt bezorgt persoonsgegevens, inclusief gegevens als vermeld in artikel   6 en 7 van de voormelde wet, aan de actoren, vermeld in artikel 4, eerste lid,   3°. Op die verwerking en mededeling van persoonsgegevens zijn de bepalingen van   de voormelde wet van toepassing.<BR></P>  <P>De Vlaamse Regering bepaalt welke gegevens worden verwerkt en de wijze waarop   ze worden verwerkt. Met behoud van de toepassing van artikel 9, eerste lid,   hebben die gegevens voor elke aanmelding betrekking op de aanmelder, de aard van   de problematiek waarop een aanmelding betrekking heeft, de persoon of de   personen die betrokken zijn of vermoedelijk betrokken zijn bij die problematiek   en het gevolg dat aan de aanmelding is gegeven.<BR></P>  <P>De mededeling van persoonsgegevens met toepassing van het eerste lid is   onderworpen aan de volgende voorwaarden : <BR>1° de meegedeelde gegevens zijn   noodzakelijk voor de verdere passende afhandeling van de aanmelding;<BR>2° de   gegevens worden alleen meegedeeld in het belang van de persoon op wie de   aanmelding betrekking heeft.<BR></P>  <P>De medewerkers die bij het Meldpunt worden ingezet conform artikel 5, eerste   lid, 2°, wisselen onder elkaar de persoonsgegevens uit die nuttig zijn voor de   uitoefening van de opdrachten, vermeld in artikel 4, eerste lid.<BR></P>  <P>De gegevensverwerking en -uitwisseling, vermeld in het eerste tot en met het   vierde lid, kunnen betrekking hebben op persoonsgegevens van personen die in de   aanmelding worden genoemd, zonder dat aan die personen onmiddellijk kennis   daarvan wordt gegeven.<BR></P>  <P>Het Meldpunt bewaart de persoonsgegevens van een aanmelder en van personen   die betrokken of vermoedelijk betrokken zijn bij geweld, misbruik of   kindermishandeling, op wie een aanmelding betrekking heeft, tot maximaal vijf   jaar na de aanmelding of, als voormelde personen betrokken zijn bij meerdere   aanmeldingen, tot maximaal vijf jaar na de laatste aanmelding. Persoonsgegevens   van personen die jonger zijn dan achttien jaar, worden bewaard tot maximaal vijf   jaar na de datum waarop die personen achttien jaar zijn   geworden.<BR></P>
+
+### ART. 7.
+
+<P>Met het oog op de beleidsvoering worden door het Meldpunt aan de Vlaamse   overheid geanonimiseerde registratiegegevens aangeleverd.<BR></P>  <P>De Vlaamse Regering bepaalt welke registratiegegevens worden aangeleverd,   alsook de wijze waarop en de periodiciteit waarmee die gegevens worden   aangeleverd.<BR></P>
+
+### ART. 8.
+
+Met behoud van de toepassing van artikel 4, eerste lid, 3°, en artikel 6,   eerste en vierde lid, zijn de medewerkers van het Meldpunt gebonden door de   geheimhoudingsplicht met betrekking tot de gegevens waarvan ze bij de   uitoefening van hun opdracht als vermeld in artikel 4, eerste lid, kennis   krijgen en die daarmee verband houden.<BR>
+
+### ART. 9.
+
+<P>Elk contact met het Meldpunt is gratis voor de persoon die contact opneemt   met het Meldpunt. Die persoon heeft de mogelijkheid om bij dat contact anoniem   te blijven.<BR></P>  <P>Binnen de beschikbare begrotingskredieten subsidieert de Vlaamse Regering de   uitgaven voor de werking van het Meldpunt, inclusief de uitgaven voor het   gebruik van een communicatiemiddel als vermeld in artikel 4, eerste lid, 1°,   door een persoon die contact opneemt met het Meldpunt. De Vlaamse Regering   bepaalt de subsidieregels.<BR></P>
+
 ## HOOFDSTUK 3 Centrum voor kwaliteitsbewaking voor het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
 ### ART. 10.
@@ -115,6 +147,10 @@ Artikel 10bis van hetzelfde decreet, ingevoegd bij het decreet van 10 juli   200
 ### ART. 37.
 
 Aan artikel 8 van het decreet van 7 mei 2004 tot oprichting van het intern   verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor   Personen met een Handicap wordt een punt 6° toegevoegd, dat luidt als volgt :   <BR>"6° het vergunnen, erkennen en subsidiëren van organisaties die   kennisontwikkeling, kennisdoorstroming, kennisuitdraging en expertise   ondersteunen om de deskundigheid van professionelen van de voorzieningen te   bevorderen.".<BR>
+
+### ART. 38.
+
+Aan artikel 14, tweede lid, van hetzelfde decreet worden de volgende   zinnen toegevoegd : <BR>"De Vlaamse Regering kan bepalen dat sommige delen van   de schadeloosstelling niet of slechts gedeeltelijk in aanmerking worden genomen   om het verschil bij te passen. De Vlaamse Regering houdt daarbij in het   bijzonder rekening met de aard en de duur van de materiële of immateriële hulp-   en dienstverlening aan de persoon met een handicap en kan daarvoor de   voorwaarden vaststellen.".<BR>
 
 ### ART. 39.
 
