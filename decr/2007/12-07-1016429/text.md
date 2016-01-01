@@ -62,7 +62,19 @@ Inzake de programmering en de verslaggeving van de werkzaamheden van de Raad is 
 
 ### ART. 12.
 
-<P>Er wordt een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid   en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de commissie te   noemen.<BR><BR>De commissie heeft als opdracht aan de Vlaamse minister, bevoegd   voor de bijstand aan personen en voor het gezondheidsbeleid, advies uit te   brengen over het bezwaar tegen een van de volgende beslissingen die, met   betrekking tot een voorziening van welzijn, volksgezondheid en gezin of een   onderdeel ervan, door het departement of een agentschap van het beleidsdomein   zijn genomen, of tegen het voornemen om een van de volgende beslissingen te   nemen, dat door het departement of door het agentschap wordt geuit en formeel   wordt betekend :<BR>1° de weigering om een toelating, een vergunning of een   erkenning te verlenen, te verlengen of te wijzigen;<BR>2° de gedwongen   wijziging, de schorsing, de opheffing of de intrekking van een toelating, een   vergunning of een erkenning;<BR>3° de sluiting;<BR>4° de weigering,   vermindering, stopzetting of terugvordering van een subsidie voor   kinderopvanglocaties.<BR><BR>De commissie behandelt het bezwaar tegen de   weigering van een attest naar aanleiding van een herscreening als bedoeld in   artikel 14, § 5, van het decreet van 29 juni 2012 houdende de organisatie van   pleegzorg.</P>
+<p>Er wordt een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers opgericht, hierna de commissie te noemen.<br>
+<br>
+De commissie heeft als opdracht aan de Vlaamse minister, bevoegd voor de bijstand aan personen en voor het gezondheidsbeleid, advies uit te brengen over het bezwaar tegen een van de volgende beslissingen die, met betrekking tot een voorziening van welzijn, volksgezondheid en gezin of een onderdeel ervan, door het departement of een agentschap van het beleidsdomein zijn genomen, of tegen het voornemen om een van de volgende beslissingen te nemen, dat door het departement of door het agentschap wordt geuit en formeel wordt betekend :<br>
+1° de weigering om een toelating, een vergunning of een erkenning te verlenen, te verlengen of te wijzigen;<br>
+2° de gedwongen wijziging, de schorsing, de opheffing of de intrekking van een toelating, een vergunning of een erkenning;<br>
+3° de sluiting;<br>
+4° de weigering, vermindering, stopzetting of terugvordering van een subsidie voor kinderopvanglocaties.<br>
+<br>
+De commissie heeft daarnaast ook als opdracht aan de Vlaamse minister, bevoegd voor het gezondheidsbeleid, advies uit te brengen over het bezwaar tegen een voornemen van beslissing over:<br>
+1° de erkenning van arts-specialisten en huisartsen;<br>
+2° de erkenning van de beoefenaars van de tandheelkunde, houders van een bijzondere beroepstitel.<br>
+<br>
+De commissie behandelt het bezwaar tegen de weigering van een attest naar aanleiding van een herscreening als bedoeld in artikel 14, § 5, van het decreet van 29 juni 2012 houdende de organisatie van pleegzorg.</p>
 
 ## Afdeling II. Samenstelling en werking
 
