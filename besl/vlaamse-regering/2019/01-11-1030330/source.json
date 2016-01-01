@@ -1,0 +1,17 @@
+{
+  "codex_id": 1030330,
+  "title": "Besluit van de Vlaamse Regering van 2019-01-11 houdende de wijziging van diverse besluiten van de Vlaamse Regering die verband houden met de ondersteuning van personen met een handicap, wat betreft reservevorming, en maatregelen ter beheersing van de uitgaven voor werkingssubsidies in de sector voor personen met een handicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1030330/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "f3d325155ba30e002c722ed6219265b0c4ffa54df7d16ef97706f5cd774e0f8c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1030330&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2019-01-11",
+  "gazette": "2019-03-04",
+  "numac": 2019040424,
+  "document_start": "2019-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
