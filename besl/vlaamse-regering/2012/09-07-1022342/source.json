@@ -2,16 +2,16 @@
   "codex_id": 1022342,
   "title": "Besluit van de Vlaamse Regering van 2012-09-07 tot vaststelling van de voorwaarden tot het verkrijgen van een subsidie voor de facultatieve opdracht prioriteitenbeleid 2013-2016 voor de gesubsidieerde sportfederaties",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022342/VolledigDocument?datum=2013-01-01",
-  "source_sha256": "6cb00b2e7417b325a60a15ce824942e7d7f92f4dcda1709dd9beba056a1b4916",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022342/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "7fcdb08c0b77355ae656853c8d98d492a81dc3ac5875cbb6993fbd25513a7f9a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022342&param=informatie",
-  "as_of": "2013-01-01",
+  "as_of": "2016-01-01",
   "made": "2012-09-07",
   "gazette": "2012-10-05",
   "numac": 2012036065,
   "document_start": "2013-01-01",
   "document_end": "2016-10-01",
-  "in_force": "2013-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 22,
-  "record_form": "consolidated version as in force on 2013-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

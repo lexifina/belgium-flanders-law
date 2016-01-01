@@ -29,16 +29,16 @@ Besluit :</p>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
+<div>In dit besluit wordt verstaan onder :<br>
 1° besluit van de Vlaamse Regering van 5 december 2008 : het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden<br>
 van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
-2° Bloso : het Agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie, meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet van 13 juli 2001;<br>
-3° decreet van 13 juli 2001 : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+2° Sport Vlaanderen: het agentschap, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen", meer bepaald de bevoegde dienst van de Vlaamse Gemeenschap, vermeld in het decreet van 13 juli 2001;<br>
+3° decreet van 13 juli 2001 : het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve<br>
+vrijetijdsbesteding;<br>
 4° minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
 5° olympiade : de periode van vier jaar die begint op 1 januari van het jaar na de Olympische Zomerspelen, en die eindigt op 31 december van het jaar van de Olympische<br>
 Zomerspelen;<br>
-6° sportfederatie : de Vlaamse erkende en gesubsidieerde sportfederatie, die een project realiseert dat past in het prioriteitenbeleid;<br>
-&nbsp;
+6° sportfederatie : de Vlaamse erkende en gesubsidieerde sportfederatie, die een project realiseert dat past in het prioriteitenbeleid;</div>
 
 ### ART. 2.
 
@@ -165,7 +165,7 @@ De subsidiëringsaanvraag wordt ingediend en behandeld conform artikelen 22 en 2
 
 ### ART. 10.
 
-De subsidies worden verleend binnen de jaarlijks uitgetrokken begroting voor de facultatieve opdracht prioriteitenbeleid. De subsidies worden toegekend door de minister op basis van het advies van het Bloso gebaseerd op de criteria, vermeld in artikel 8.<br>
+De subsidies worden verleend binnen de jaarlijks uitgetrokken begroting voor de facultatieve opdracht prioriteitenbeleid. De subsidies worden toegekend door de minister op basis van het advies van Sport Vlaanderen gebaseerd op de criteria, vermeld in artikel 8.<br>
 &nbsp;
 
 ### ART. 11.
@@ -175,14 +175,14 @@ De subsidies worden verleend binnen de jaarlijks uitgetrokken begroting voor de 
 
 ### ART. 12.
 
-Een inhoudelijk verslag met een grondige evaluatie en een gedetailleerde financiële afrekening van de inkomsten en uitgaven van het project prioriteitenbeleid moet uiterlijk tegen 1 april van het jaar dat volgt op het jaar van de subsidiëring, ingediend worden bij het Bloso. Het saldo zal worden uitgekeerd na controle van de afrekening en na evaluatie, en vóór 1 juli van het jaar dat volgt op het jaar van de subsidiëring. Voor de meerjarige projecten prioriteitenbeleid moet naast een inhoudelijk verslag ook aangegeven worden op welke manier het project prioriteitenbeleid eventueel is bijgestuurd.<br>
+Een inhoudelijk verslag met een grondige evaluatie en een gedetailleerde financiële afrekening van de inkomsten en uitgaven van het project prioriteitenbeleid moet uiterlijk tegen 1 april van het jaar dat volgt op het jaar van de subsidiëring, ingediend worden bij Sport Vlaanderen. Het saldo zal worden uitgekeerd na controle van de afrekening en na evaluatie, en vóór 1 juli van het jaar dat volgt op het jaar van de subsidiëring. Voor de meerjarige projecten prioriteitenbeleid moet naast een inhoudelijk verslag ook aangegeven worden op welke manier het project prioriteitenbeleid eventueel is bijgestuurd.<br>
 &nbsp;
 
 ## HOOFDSTUK 4 Aard en wijze van subsidiëring
 
 ### ART. 13.
 
-<p>De aanvaardbare uitgaven die voor subsidiëring van de facultatieve opdracht prioriteitenbeleid in aanmerking komen overeenkomstig artikel 26, § 1, tweede lid en artikel 39, § 1, tweede lid, van het decreet van 13 juli 2001 worden vermeld in de lijst, opgenomen in bijlage 2, die bij dit besluit is gevoegd. De wijze waarop die uitgaven voor de berekening van de subsidiëring in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door het Bloso.<br>
+<p>De aanvaardbare uitgaven die voor subsidiëring van de facultatieve opdracht prioriteitenbeleid in aanmerking komen overeenkomstig artikel 26, § 1, tweede lid en artikel 39, § 1, tweede lid, van het decreet van 13 juli 2001 worden vermeld in de lijst, opgenomen in bijlage 2, die bij dit besluit is gevoegd. De wijze waarop die uitgaven voor de berekening van de subsidiëring in het rekeningstelsel opgenomen moeten worden, wordt vastgesteld door Sport Vlaanderen.<br>
 <br>
 De bezoldiging van de occasionele medewerkers, als aanvaardbare uitgave die voor subsidiëring in aanmerking komt als vermeld in het eerste lid, gebeurt op basis van de bezoldigingstabel voor occasionele medewerkers in het kader van de subsidiëring van de facultatieve opdracht prioriteitenbeleid, opgenomen in bijlage 1, die bij dit besluit is gevoegd. Het brutojaarloon tegen 100 %, vermeld in de bezoldigingstabel, is gekoppeld aan het spilindexcijfer 138,01 van 1 januari 1990. Voor de berekening van de subsidies worden de uurlonen jaarlijks op 1 januari van het kalenderjaar aangepast aan het spilindexcijfer.<br>
 <br>
@@ -193,7 +193,7 @@ vergelijken.</p>
 
 ### ART. 14.
 
-Het Bloso kan op elk moment toezicht en controle uitoefenen op de wijze waarop het project prioriteitenbeleid wordt uitgevoerd.<br>
+Sport Vlaanderen kan op elk moment toezicht en controle uitoefenen op de wijze waarop het project prioriteitenbeleid wordt uitgevoerd.<br>
 &nbsp;
 
 ## HOOFDSTUK 6 Communicatie
@@ -335,7 +335,7 @@ Het brutojaarloon tegen 100% is gekoppeld aan de spilindex 138,01 (1 januari 199
 Aanvaardbare uitgaven die voor subsidiëring in aanmerking komen van de facultatieve opdracht prioriteitenbeleid : het bevorderen van de sportparticipatie van de jeugd en hun aansluiting bij een sportclub via het stimuleren en activeren van gezond sporten in de sportclubs<br>
 - aankoop van sportmateriaal<br>
 - aankoop van didactisch materiaal<br>
-- andere aankopen waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
+- andere aankopen waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
 - huur van sportmateriaal<br>
 - huur van didactisch materiaal<br>
 - huur van sportaccommodaties, vergaderzalen en leslokalen<br>
@@ -348,13 +348,13 @@ Aanvaardbare uitgaven die voor subsidiëring in aanmerking komen van de facultat
 - kosten inzake de sport(para)medische begeleiding van het project<br>
 - kosten inzake dienstverlening door zelfstandigen in de functie van occasionele sporttechnische medewerker<br>
 - inschrijvingsgeld cursussen voor specifieke opleidingen<br>
-- andere goederen, diensten en leveringen waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
+- andere goederen, diensten en leveringen waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
 - brutosalaris occasionele sporttechnische medewerkers<br>
 - rsz/werkgeversbijdrage occasionele sporttechnische medewerkers<br>
 - vakantiegeld occasionele sporttechnische medewerkers<br>
 - eindejaarstoelage occasionele sporttechnische medewerkers<br>
-- andere personeelskosten waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
+- andere personeelskosten waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven<br>
 - afschrijvingen sportmateriaal<br>
 - afschrijvingen didactisch materiaal<br>
-- andere afschrijvingen waarvoor Bloso voorafgaandelijk een schriftelijk akkoord heeft gegeven.<br>
+- andere afschrijvingen waarvoor Sport Vlaanderen voorafgaandelijk een schriftelijk akkoord heeft gegeven.<br>
 &nbsp;
