@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026233,
+  "title": "Decreet van 2015-12-11 tot wijziging van de wet van 26 maart 1971 op de bescherming van oppervlaktewateren tegen verontreiniging en het decreet van 24 mei 2002 betreffende water bestemd voor menselijke aanwending, wat betreft de aanpassing van de aanrekening van de kosten voor publieke drinkwatervoorziening en de kosten voor gemeentelijke en bovengemeentelijke sanering",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026233/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "6416ca1cc95870a93a16ed9abb1a1799e0aea4a5d7cb889b3bc0ffec9ac90350",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026233&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-11",
+  "gazette": "2015-12-22",
+  "numac": 2015036583,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
