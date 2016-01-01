@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027488,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-24 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra en tot wijziging van bijlage 2 van het besluit van de Vlaamse Regering van 18 december 2015 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027488/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "4c475b2fb7c0cb3e91e3da047311841dcc4addef1bb0e989ee5e52f71d8ce5a0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027488&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-06-24",
+  "gazette": "2016-10-19",
+  "numac": 2016036459,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
