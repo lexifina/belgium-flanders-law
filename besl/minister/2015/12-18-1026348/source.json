@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026348,
+  "title": "Ministerieel besluit van 2015-12-18 tot vaststelling van het lidgeld dat bijstandsorganisaties aanrekenen aan budgethouders in het kader van persoonsvolgende financiering",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026348/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "996316f6c34848e0aebd853e45c0f16b861dc39e070fb38361b285ef0a6b2535",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026348&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-18",
+  "gazette": "2016-01-26",
+  "numac": 2016035016,
+  "document_start": "2016-01-01",
+  "document_end": "2016-01-01",
+  "in_force": "2016-01-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
