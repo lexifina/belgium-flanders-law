@@ -115,7 +115,7 @@ m) Gimvindus;<br>
 n) de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
 o) het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen;<br>
 p) het ESF-Agentschap;<br>
-q) Bloso;<br>
+q) Sport Vlaanderen;<br>
 r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
 <br>
 9° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
@@ -191,7 +191,11 @@ In de rechtsgedingen van de Vlaamse Gemeenschap of het Vlaamse Gewest met   betr
 
 ### ART. 12.
 
-§ 1. De Vlaamse minister, bevoegd voor de financiën en de begrotingen,   heeft delegatie om vorderingen waarvan de hoofdsom niet meer dan 25.000 euro   bedraagt, te erkennen als last als vermeld in artikel 53, § 2, tweede lid, 2°,   van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de   begroting 1995.<BR><BR>§ 2. De Vlaamse minister, bevoegd voor de financiën en de   begroting, heeft met betrekking tot het Financieringsfonds voor Schuldafbouw en   Eenmalige Investeringsuitgaven delegatie om:<BR>1° de saldi die voor de   berekening van de dotatie aan het Fonds in aanmerking komen te beperken;<BR>2°   de kredieten vast te stellen die worden overgeschreven naar de basisallocatie   "Dotatie aan het Financieringsfonds voor Schuldafbouw en Eenmalige   Investeringsuitgaven".
+§ 1. De Vlaamse minister, bevoegd voor de financiën en de begrotingen, heeft delegatie om vorderingen waarvan de hoofdsom niet meer dan 25.000 euro bedraagt, te erkennen als last als vermeld in artikel 53, § 2, tweede lid, 2°, van het decreet van 21 december 1994 houdende bepalingen tot begeleiding van de begroting 1995.<br>
+<br>
+§ 2. De Vlaamse minister, bevoegd voor de financiën en de begroting, heeft delegatie om ter uitvoering van artikel 91 van het decreet van 18 december 2015 houdende bepalingen tot begeleiding van de begroting:<br>
+1° de saldi die voor de berekening van het bedrag van de herverdeling naar de provisie investeringsmiddelen in aanmerking komen, te beperken;<br>
+2° de kredieten vast te stellen die herverdeeld kunnen worden naar de provisie, vermeld in punt 1°.
 
 ### ART. 13.
 
