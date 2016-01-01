@@ -2,7 +2,12 @@
 
 ### ART. 1.
 
-Dit besluit is van toepassing op de subsidies afkomstig van de verdeelde winst van de Nationale Loterij die bestemd zijn voor de in de algemene uitgavenbegroting bepaalde doeleinden van openbaar nut, met uitzondering van de subsidies die worden toegekend aan:<br /><br />1° BLOSO, wat het Vlaams Sportfonds betreft;<br /><br />2° Fonds voor Wetenschappelijk Onderzoek - Vlaanderen;<br /><br />3° Kind en Gezin;<br /><br />4° Toerisme Vlaanderen;<br /><br />5° Vlaams Fonds voor Sociale Integratie van Personen met een Handicap.
+Dit besluit is van toepassing op de subsidies afkomstig van de verdeelde winst van de Nationale Loterij die bestemd zijn voor de in de algemene uitgavenbegroting bepaalde doeleinden van openbaar nut, met uitzondering van de subsidies die worden toegekend aan:<br>
+1° Sport Vlaanderen;<br>
+2° Fonds voor Wetenschappelijk Onderzoek - Vlaanderen;<br>
+3° Kind en Gezin;<br>
+4° Toerisme Vlaanderen;<br>
+5° Vlaams Fonds voor Sociale Integratie van Personen met een Handicap.
 
 ### ART. 2.
 
