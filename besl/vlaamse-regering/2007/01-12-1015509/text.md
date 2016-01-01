@@ -12,7 +12,7 @@ De hierna vermelde agentschappen en het permanent secretariaat van de strategisc
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:77.4pt">
+			<td style="background-color:transparent; width:77.4pt">
 			<p>1°</p>
 
 			<p>2°</p>
@@ -47,7 +47,7 @@ De hierna vermelde agentschappen en het permanent secretariaat van de strategisc
 
 			<p>17°</p>
 			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:383.2pt">
+			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #f0f0f0; width:383.2pt">
 			<p>Toerisme Vlaanderen</p>
 
 			<p>Vlaams Agentschap voor Internationaal Ondernemen</p>
@@ -60,7 +60,7 @@ De hierna vermelde agentschappen en het permanent secretariaat van de strategisc
 
 			<p>Agentschap voor Infrastructuur in het Onderwijs</p>
 
-			<p>BLOSO</p>
+			<p>Sport Vlaanderen</p>
 
 			<p>Kind en Gezin</p>
 

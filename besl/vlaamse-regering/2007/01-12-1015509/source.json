@@ -2,16 +2,16 @@
   "codex_id": 1015509,
   "title": "Besluit van de Vlaamse Regering van 2007-01-12 houdende machtiging van agentschappen, die afhangen van de Vlaamse Gemeenschap of het Vlaamse Gewest en van de strategische adviesraad Vlaamse Onderwijsraad tot deelname aan de pensioenregeling ingesteld bij de wet van 28 april 1958 betreffende het pensioen van het personeel van zekere organismen van openbaar nut alsmede van hun rechthebbenden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015509/VolledigDocument?datum=2002-05-01",
-  "source_sha256": "20d4a8868aa78bc270637d0c45ac4994a852864904d1ce3d2ab1b6708a70c72f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015509/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "627640659d7e4ee2e18d8e7cf91a93598d6cbae6da894d68bebaecdbe30b58ae",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015509&param=informatie",
-  "as_of": "2002-05-01",
+  "as_of": "2016-01-01",
   "made": "2007-01-12",
   "gazette": "2007-02-09",
   "numac": 2007035159,
   "document_start": null,
   "document_end": null,
-  "in_force": "2002-05-01",
+  "in_force": "2016-01-01",
   "article_versions": 5,
-  "record_form": "consolidated version as in force on 2002-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
