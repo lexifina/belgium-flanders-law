@@ -690,6 +690,10 @@ De   volgende beheervoorwaarde geldt voor alle beheerpakketten als vermeld in   
 
 Voor   beheerpakketten die gecombineerd kunnen worden met de vergroeningspraktijken   waardoor een dubbelfinanciering ontstaat, wordt in de tabel, opgenomen in   bijlage 10 die bij dit besluit is gevoegd, aangegeven hoeveel de verlaagde   beheervergoeding bedraagt.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 130/1.
+
+Voor beheerpakketten die gecombineerd kunnen worden met de erosiebestrijdingsmaatregelen, vermeld in artikel 59 van het besluit van de Vlaamse Regering van 24 oktober 2014, waardoor een dubbelfinanciering ontstaat, wordt in de tabel, opgenomen in bijlage 10 die bij dit besluit is gevoegd, aangegeven hoeveel de verlaagde beheervergoeding bedraagt.
+
 ## HOOFDSTUK 6 Slotbepalingen
 
 ### ART. 131.
