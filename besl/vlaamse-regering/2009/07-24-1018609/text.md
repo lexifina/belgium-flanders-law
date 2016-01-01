@@ -607,7 +607,18 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp   jaa
 
 ### ART. 14.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld   van 3.754.686,59 euro tussen de erkende private diensten voor gezinszorg en   aanvullende thuiszorg.<BR><BR>§ 2. Het budget, vermeld in paragraaf 1, wordt   evenredig verdeeld tussen de private diensten op basis van de gegevens in   verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de   gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop   dat budget betrekking heeft. <BR><BR>De minister kan de wijze bepalen waarop de   private diensten moeten bewijzen dat ze het bedrag dat ze door die verdeling   ontvangen, gebruiken voor de financiering van vervangend personeel binnen de   dienst, voor wie geen andere middelen worden verkregen.<BR><BR>§ 3. Het budget,   vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het   agentschap de gegevens van het afgelopen jaar die nodig zijn voor die verdeling,   bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap   bezorgd worden. <BR><BR>Het subsidiebedrag wordt aan de private diensten   toegekend samen met hun voorschot van het derde trimester. <BR><BR>Het bedrag,   vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat berekend en   toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24   december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's   lands concurrentievermogen. De basisindex is de spilindex die van toepassing is   op 1 januari 2010. Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het   prijsindexcijfer op 1 januari van het jaar dat volgt op de   indexsprong.<BR><BR>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld van 3.684.487,46 euro tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
+<br>
+De minister kan de wijze bepalen waarop de private diensten moeten bewijzen dat ze het bedrag dat ze door die verdeling ontvangen, gebruiken voor de financiering van vervangend personeel binnen de dienst, voor wie geen andere middelen worden verkregen.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+<br>
+Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer dat berekend en toegepast wordt overeenkomstig artikel 2 van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen. De basisindex is de spilindex die van toepassing is op 1 januari 2010. Het bedrag, vermeld in paragraaf 1, is gekoppeld aan het prijsindexcijfer op 1 januari van het jaar dat volgt op de indexsprong.<br>
+&nbsp;
 
 ### ART. 15.
 
@@ -619,11 +630,41 @@ De dienst of coördinerende dienst bezorgt in het kader van meerlingenhulp   jaa
 
 ### ART. 15/2.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 1.431.368,69   euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende   thuiszorg. Vanaf 1 januari 2015 stijgt dat budget jaarlijks met hetzelfde   percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd   wordt.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen   door 5.827.783,73 euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in het   eerste lid, vervangen door 6.134.893,67 euro.<BR><BR>Vanaf 2015 wordt het   bedrag, vermeld in het eerste lid, vervangen door 6.175.507,39 euro.<BR><BR>§ 2.   Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private   diensten op basis van de gegevens in verband met de eindejaarspremie die ze   bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking   genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking   heeft.<BR><BR>§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en   toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar   die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk   op 1 april aan het agentschap bezorgd worden.<BR><BR>Het subsidiebedrag wordt   aan de private diensten toegekend samen met hun voorschot van het derde   trimester.<BR><BR>Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform   artikel 22.
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 1.431.368,69 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Vanaf 1 januari 2015 stijgt dat budget jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<br>
+Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 5.827.783,73 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.134.893,67 euro.<br>
+<br>
+Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.175.507,39 euro.<br>
+<br>
+Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 6.116.196,04 euro.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens in verband met de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+<br>
+Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot van het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 15/3.
 
-§ 1. Voor de maatregel managementsondersteuning wordt een budget van   183.065,44 euro verdeeld tussen de erkende private diensten voor gezinszorg en   aanvullende thuiszorg. Vanaf 1 januari 2014 stijgt dat budget jaarlijks met   hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar   verhoogd wordt.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid,   vervangen door 461.777,19 euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in   het eerste lid, vervangen door 911.397,36 euro.<BR><BR>Vanaf 2015 wordt het   bedrag, vermeld in het eerste lid, vervangen door 917.517,00 euro.<BR><BR>§ 2.   Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private   diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat   voorafgaat aan het jaar waarop dat budget betrekking heeft.<BR><BR>§ 3. Het   subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot van het   derde trimester.<BR><BR>Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd   conform artikel 14, § 3, derde lid.
+§ 1. Voor de maatregel managementsondersteuning wordt een budget van 183.065,44 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg. Vanaf 1 januari 2014 stijgt dat budget jaarlijks met hetzelfde percentage als het percentage waarmee het urencontingent voor dat jaar verhoogd wordt.<br>
+<br>
+Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 461.777,19 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 911.397,36 euro.<br>
+<br>
+Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 917.517,00 euro.<br>
+<br>
+Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 907.869,47 euro.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van het toegewezen urencontingent gezinszorg van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
+<br>
+§ 3. Het subsidiebedrag wordt aan de diensten toegekend samen met hun voorschot van het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde lid.
 
 ### ART. 15/4.
 
@@ -717,11 +758,38 @@ De bedragen, vermeld in artikel 25, § 2, eerste lid, en artikel 26 tot en met 2
 
 ### ART. 30/1.
 
-§ 1. Voor de maatregel eindejaarspremie wordt een budget van 414.644,36   euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende   thuiszorg.<BR><BR>Vanaf 2013 wordt het bedrag, vermeld in het eerste lid,   vervangen door 1.492.479,80 euro.<BR><BR>Vanaf 2014 wordt het bedrag, vermeld in   het eerste lid, vervangen door 1.574.730,83 euro.<BR><BR>Vanaf 2015 wordt het   bedrag, vermeld in het eerste lid, vervangen door 1.647.378,56 euro.<BR><BR>§ 2.   Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private   diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan   de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het   jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<BR><BR>§ 3.   Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG   aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de   verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het   agentschap bezorgd worden.<BR><BR>Het subsidiebedrag wordt aan de private   diensten toegekend samen met hun voorschot voor het derde trimester.<BR><BR>Het   bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel   22.
+§ 1. Voor de maatregel eindejaarspremie wordt een budget van 414.644,36 euro verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg.<br>
+<br>
+Vanaf 2013 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.492.479,80 euro.<br>
+<br>
+Vanaf 2014 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.574.730,83 euro.<br>
+<br>
+Vanaf 2015 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.647.378,56 euro.<br>
+<br>
+Vanaf 2016 wordt het bedrag, vermeld in het eerste lid, vervangen door 1.706.689,90 euro.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten op basis van de gegevens over de eindejaarspremie die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop het budget betrekking heeft.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor de verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+<br>
+Het subsidiebedrag wordt aan de private diensten toegekend samen met hun voorschot voor het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 22.
 
 ### ART. 31.
 
-§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld   tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en   de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat   budget bedraagt 1.956.493,00 euro.<BR><BR>§ 2. Het budget, vermeld in paragraaf   1, wordt evenredig verdeeld tussen de private diensten, vermeld in paragraaf 1,   op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG.   Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat   voorafgaat aan het jaar waarop dat budget betrekking heeft.<BR><BR>De minister   kan de wijze bepalen waarop de private diensten, vermeld in paragraaf 1, moeten   bewijzen dat ze het bedrag dat ze ontvangen door die verdeling, gebruiken voor   de financiering van vervangend personeel binnen hun dienst, voor wie geen andere   middelen worden verkregen. <BR><BR>§ 3. Het budget, vermeld in paragraaf 1,   wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het   afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens   moeten uiterlijk op 1 april aan het agentschap bezorgd worden. <BR><BR>Het   subsidiebedrag wordt aan de private diensten, vermeld in paragraaf 1, toegekend   samen met hun voorschot van het derde trimester. <BR><BR>Het bedrag, vermeld in   paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde   lid.<BR><BR>
+§ 1. Voor de maatregel werkdrukvermindering wordt er een budget verdeeld tussen de erkende private diensten voor gezinszorg en aanvullende thuiszorg en de erkende private diensten voor logistieke hulp, vermeld in bijlage II. Dat budget bedraagt 2.026.692,13 euro.<br>
+<br>
+§ 2. Het budget, vermeld in paragraaf 1, wordt evenredig verdeeld tussen de private diensten, vermeld in paragraaf 1, op basis van de gegevens in verband met werkdruk die ze bezorgen aan de VVDG. Voor die verdeling worden de gegevens in aanmerking genomen van het jaar dat voorafgaat aan het jaar waarop dat budget betrekking heeft.<br>
+<br>
+De minister kan de wijze bepalen waarop de private diensten, vermeld in paragraaf 1, moeten bewijzen dat ze het bedrag dat ze ontvangen door die verdeling, gebruiken voor de financiering van vervangend personeel binnen hun dienst, voor wie geen andere middelen worden verkregen.<br>
+<br>
+§ 3. Het budget, vermeld in paragraaf 1, wordt verdeeld en toegekend nadat de VVDG aan het agentschap de gegevens van het afgelopen jaar die nodig zijn voor die verdeling, bezorgd heeft. Die gegevens moeten uiterlijk op 1 april aan het agentschap bezorgd worden.<br>
+<br>
+Het subsidiebedrag wordt aan de private diensten, vermeld in paragraaf 1, toegekend samen met hun voorschot van het derde trimester.<br>
+<br>
+Het bedrag, vermeld in paragraaf 1, wordt geïndexeerd conform artikel 14, § 3, derde lid.<br>
+&nbsp;
 
 ### ART. 32.
 
@@ -1717,7 +1785,7 @@ De minister legt de nadere subsidievoorwaarden en de overgangsbepalingen vast.
 
 ### ART. 19.
 
-De stijging van de programmacijfers van de centra voor kortverblijf, die   voor het jaar 2013 voortvloeit uit de toepassing van artikel 2, gaat pas in op 1   januari 2016.
+De stijging van de programmacijfers van de centra voor kortverblijf, die   voor het jaar 2013 voortvloeit uit de toepassing van artikel 2, gaat pas in op 1   januari 2020.
 
 ## BIJLAGE XII Woonzorgcentra
 
@@ -2000,7 +2068,7 @@ De aanvragen tot voorafgaande vergunning voor een rusthuis waarover op de datum 
 
 ### ART. 51.
 
-De stijging van de programmacijfers van de woonzorgcentra, die voor het   jaar 2013 voortvloeit uit de toepassing van artikel 3, gaat pas in op 1 januari   2016.
+De stijging van de programmacijfers van de woonzorgcentra, die voor het   jaar 2013 voortvloeit uit de toepassing van artikel 3, gaat pas in op 1 januari   2020.
 
 ### ART. 52.
 
@@ -2052,6 +2120,10 @@ De aanvragen tot erkenning van verenigingen van gebruikers en mantelzorgers waar
 
 ## [HOOFDSTUK I. Definitie (ing. BVR 8 januari 2016, art. 2, I: 1 januari 2016)]
 
+### ART. 1.
+
+In deze bijlage wordt verstaan onder gesco : de gesubsidieerde   contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1,   12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober   1993 tot veralgemening van het stelsel van gesubsidieerde   contractuelen.
+
 ## [HOOFDSTUK I/1 (verv. BVR 8 januari 2016, art. 2, I: 1 januari 2016)] Subsidiëring van de animatiewerking
 
 ### ART. 1/1.
@@ -2086,25 +2158,41 @@ Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen word
 
 ## [HOOFDSTUK II/1 Subsidiëring van de gewezen gescoprojecten in de ouderenvoorzieningen (ing. BVR 8 januari 2016, art. 3, I: 1 januari 2016)]
 
+### ART. 7/1.
+
+Binnen de beschikbare begrotingskredieten kan de administrateur-generaal   volgens de bepalingen van dit hoofdstuk subsidies voor gewezen gescoprojecten   toekennen aan de ouderenvoorzieningen die beheerd worden door een vereniging   zonder winstoogmerk.
+
+### ART. 7/2.
+
+§ 1. Aan de ouderenvoorzieningen, vermeld in artikel 7/1, wordt jaarlijks   een subsidie-enveloppe toegekend voor de tewerkgestelde personeelsleden met een   gewezen gescostatuut.<BR><BR>Als basis voor die subsidie-enveloppe geldt :<BR>1°   95 % van de gescopremie, toegekend voor het jaar 2014 met toepassing van het   besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het   stelsel van gesubsidieerde contractuelen;<BR>2° 95 % van de vermindering van de   sociale zekerheidsbijdrage voor het jaar 2014, toegekend conform artikel 9,   9bis, 14 en 28/11 van het koninklijk besluit van 16 mei 2003 tot uitvoering van   het Hoofdstuk 7 van Titel IV van de programmawet van 24 december 2002 (I),   betreffende de harmonisering en vereenvoudiging van de regelingen inzake   verminderingen van de sociale zekerheidsbijdragen;<BR>3° het aantal nog in   aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld   met een gewezen gescostatuut op 1 januari van het desbetreffende   werkingsjaar.<BR><BR>De subsidiebedragen per ouderenvoorziening worden   proportioneel verminderd bij definitieve vermindering van de arbeidsduur als   vermeld in artikel 10, § 3.<BR><BR>De middelen die vrijkomen als gevolg van een   vermindering als vermeld in artikel 10, § 3 worden ingezet voor de financiering   van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het   kader van het ministerieel besluit van 6 november 2003 tot vaststelling van het   bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in   artikel 37, § 12, van de wet betreffende de verplichte verzekering voor   geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de   rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<BR><BR>§ 2. De   administrateur-generaal bepaalt jaarlijks de ouderenvoorzieningen en, per   ouderenvoorziening, het aantal voltijdse equivalenten aan personeelsleden,   tewerkgesteld in een gewezen gescostatuut, die in aanmerking komen voor de   subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per   ouderenvoorziening.
+
+### ART. 7/3.
+
+Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen   wordt voor de subsidiëring, bezorgt de initiatiefnemer van de ouderenvoorziening   aan het agentschap de bewijsvoering van de effectieve tewerkstelling van de   personeelsleden die tewerkgesteld zijn met een vroeger gescostatuut. De minister   bepaalt de vorm en de inhoud van die bewijsvoering.
+
 ## HOOFDSTUK III Algemene bepalingen
 
 ### ART. 8.
 
-Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van het subsidiebedrag, vastgesteld met toepassing van artikelen 3 en 6.
+Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van   het subsidiebedrag, vastgesteld met toepassing van artikelen 3, 6 en   7/2.
 
 ### ART. 9.
 
-§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd na goedkeuring door het agentschap van de bewijsvoering, vermeld in artikelen 4 en 7.<br /><br />§ 2. Als blijkt dat het woonzorgcentrum, in afwijking van artikel 2, 2°, gedurende het in aanmerking genomen werkingsjaar niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, wordt het definitieve subsidiebedrag als volgt berekend :<br />1° als de effectieve tewerkstelling gelijk is aan of hoger is dan 90 % van de geldende personeelsnorm, wordt het maximale subsidiebedrag, vastgesteld op basis van artikel 3, proportioneel verminderd;<br />2° als de effectieve tewerkstelling lager is dan 90 % van de geldende personeelsnorm wordt het maximale subsidiebedrag, vastgesteld op basis van artikel 4, verminderd met 100 %.<br /><br />§ 3. Als blijkt dat het woonzorgcentrum meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het verschil terug. Als ten tijde van de uitkering van de voorschotten, vermeld in artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet werd betaald, wordt dat bedrag in mindering gebracht van de uit te betalen voorschotten.<br /><br />§ 4. Als drie opeenvolgende werkingsjaren voorschotten werden teruggevorderd omdat niet voldaan was aan artikel 2, 4 of 7, worden er geen voorschotten uitbetaald voor het werkjaar dat volgt op die drie werkjaren.<br /><br />§ 5. De initiatiefnemer van het woonzorgcentrum wordt op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of van de terug te vorderen voorschotten.<br /><br />§ 6. In afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in artikel 3, eerste lid, 3°, en artikel 6, § 1, 2°, uitgedrukt tegen 100 % op basis van de spilindex die van toepassing is op 1 januari 2003.
+§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en   gesaldeerd na goedkeuring door het agentschap van de bewijsvoering, vermeld in   artikelen 4, 7 en 7/3.<BR><BR>§ 2. Als blijkt dat het woonzorgcentrum, in   afwijking van artikel 2, 2°, gedurende het in aanmerking genomen werkingsjaar   niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, wordt   het definitieve subsidiebedrag als volgt berekend :<BR>1° als de effectieve   tewerkstelling gelijk is aan of hoger is dan 90 % van de geldende   personeelsnorm, wordt het maximale subsidiebedrag, vastgesteld op basis van   artikel 3, proportioneel verminderd;<BR>2° als de effectieve tewerkstelling   lager is dan 90 % van de geldende personeelsnorm wordt het maximale   subsidiebedrag, vastgesteld op basis van artikel 4, verminderd met 100   %.<BR><BR>§ 3. Als blijkt dat het woonzorgcentrum meer voorschotten heeft   ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het   verschil terug. Als ten tijde van de uitkering van de voorschotten, vermeld in   artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet werd   betaald, wordt dat bedrag in mindering gebracht van de uit te betalen   voorschotten.<BR><BR>§ 4. Als drie opeenvolgende werkingsjaren voorschotten   werden teruggevorderd omdat niet voldaan was aan artikel 2, 4, 7 of 7/3, worden   er geen voorschotten uitbetaald voor het werkjaar dat volgt op die drie   werkjaren.<BR><BR>§ 5. De initiatiefnemer van het woonzorgcentrum wordt op de   hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit   te betalen saldo of van de terug te vorderen voorschotten.<BR><BR>§ 6. In   afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in artikel 3,   eerste lid, 3°, en artikel 6, § 1, 2°, uitgedrukt tegen 100 % op basis van de   spilindex die van toepassing is op 1 januari 2003.
 
 ## HOOFDSTUK IV Overgangsbepalingen
 
 ### ART. 10.
 
-§ 1. Met toepassing van artikel 6, § 1, 1°, komen met ingang van 1 januari 2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het desbetreffende werkingsjaar :<br />1° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de datum van hun uitdiensttreding;<br />2° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de datum van definitieve vermindering van hun arbeidsduur ten belope van de doorgevoerde vermindering van hun arbeidsduur.<br /><br />§ 2. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, moet binnen 30 kalenderdagen gemeld worden aan het agentschap. Daarbij moeten de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld worden.
+§ 1. Met toepassing van artikel 6, § 1, 1°, komen met ingang van 1 januari   2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van   het aantal nog in aanmerking te nemen voltijdse equivalenten aan   personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het   desbetreffende werkingsjaar :<BR>1° de mandatarissen die op 31 december 2002   tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de   datum van hun uitdiensttreding;<BR>2° de mandatarissen die op 31 december 2002   tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de   datum van definitieve vermindering van hun arbeidsduur ten belope van de   doorgevoerde vermindering van hun arbeidsduur.<BR><BR>§ 2. Elke definitieve   vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, moet binnen   30 kalenderdagen gemeld worden aan het agentschap. Daarbij moeten de identiteit   van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de   vermindering duidelijk vermeld worden.<BR><BR>§ 3. Met toepassing van artikel   7/2 komen met ingang van 1 januari 2016 de volgende personeelsleden niet meer in   aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse   equivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut, op   1 januari van het desbetreffende werkingsjaar :<BR>1° de mandatarissen die op 31   december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger   gescoproject, vanaf de datum van hun uitdiensttreding;<BR>2° de mandatarissen   die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger   gescoproject, vanaf de datum van definitieve vermindering van hun arbeidsduur,   ten belope van de doorgevoerde vermindering van hun arbeidsduur.<BR><BR>§ 4.   Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 3, 1° en   2°, moet binnen dertig kalenderdagen gemeld worden aan het agentschap. Daarbij   moeten de identiteit van de mandataris, de doorgevoerde vermindering en de   ingangsdatum van de vermindering duidelijk vermeld worden.
 
 ### ART. 11.
 
 Voor de personeelsleden, tewerkgesteld in de vroegere DAC-projecten met de nummers 2776, 8436, 15003, 50110 en 70274, kan verder nog een subsidiëring verkregen worden volgens de bepalingen, opgenomen in artikel 6, § 1, 1° en 2°, en § 2, en artikel 7 tot en met 10.
+
+### ART. 11/2.
+
+Voor de personeelsleden, tewerkgesteld in de vroegere gescoprojecten met   de conventienummers 3167, 3171 en 3998, kan verder nog een subsidiëring   verkregen worden conform artikel 7/2 tot en met 9, en artikel 10, § 3 en §   4.
 
 ### ART. 12.
 
