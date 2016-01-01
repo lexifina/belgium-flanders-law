@@ -2,7 +2,7 @@
 
 ### ART. 1.
 
-[§ 1. Het aantal bedden in rust- en verzorgingstehuizen mag op 30   september 2005 maximum 47.903 bedden voor het Rijk bedragen.<BR><BR>Met ingang   van respectievelijk :<BR>&nbsp;&nbsp;- 1 oktober 2005;<BR>&nbsp;&nbsp;- 1   oktober 2006;<BR>&nbsp;&nbsp;- 1 oktober 2007;<BR>&nbsp;&nbsp;- 1 oktober   2008;<BR>&nbsp;&nbsp;- 1 oktober 2009;<BR>&nbsp;&nbsp;- 1 oktober   2010;<BR>&nbsp;&nbsp;mag het maximum aantal bedden in rust- en   verzorgingstehuizen voor het Rijk respectievelijk :<BR>&nbsp;&nbsp;- 49.818   bedden;<BR>&nbsp;&nbsp;- 52.359 bedden;<BR>&nbsp;&nbsp;- 55.183   bedden;<BR>&nbsp;&nbsp;- 58.205 bedden;<BR>&nbsp;&nbsp;- 62.944   bedden;<BR>&nbsp;&nbsp;- 69.631 bedden bedragen.<BR>&nbsp;<BR>§ 2. In afwijking   van het in § 1 bepaalde maximum aantal bedden in rust- en verzorgingstehuizen   voor de perioden 1 oktober 2005 tot en met 1 oktober 2008, mag, voor zover het   maximum aantal bedden in rust- en verzorgingstehuizen op 1 oktober 2010 (zijnde   69.631) bedden niet wordt overschreden, het maximum aantal bedden in rust- en   verzorgingstehuizen respectievelijk bedragen :<BR><BR>Met ingang van   respectievelijk :<BR>&nbsp;&nbsp;- 1 oktober 2005;<BR>&nbsp;&nbsp;- 1 oktober   2006;<BR>&nbsp;&nbsp;- 1 oktober 2007;<BR>&nbsp;&nbsp;- 50.367;<BR>&nbsp;&nbsp;-   53.568;<BR>&nbsp;&nbsp;- 57.200. <EM>(verv. MB 15 mei 2007, art. 1, I: 1 oktober   2006)</EM>]
+<P>...</P>
 
 ### ART. 1bis.
 
