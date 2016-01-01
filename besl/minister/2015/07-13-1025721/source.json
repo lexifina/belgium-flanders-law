@@ -2,16 +2,16 @@
   "codex_id": 1025721,
   "title": "Ministerieel besluit van 2015-07-13 houdende uitvoering van het besluit van de Vlaamse Regering van 24 oktober 2014 tot vaststelling van de voorschriften voor de rechtstreekse betalingen aan landbouwers in het kader van de steunregelingen van het gemeenschappelijk landbouwbeleid, wat betreft de specifieke regels voor vergroening binnen de rechtstreekse betalingen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025721/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "465db396d8540a1524c94bb7a2bf4c2b8676949885b6ef06bcc69fe3fd6bbfd1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1025721/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "39711cb74ebdccdf6e6d90f455374142b1f6d2a70e1b4b0cbd91b48c5331dece",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1025721&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-01-01",
   "made": "2015-07-13",
   "gazette": "2015-08-19",
   "numac": 2015035999,
   "document_start": "2015-01-01",
   "document_end": "2023-12-31",
-  "in_force": "2015-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2015-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
