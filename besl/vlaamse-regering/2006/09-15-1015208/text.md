@@ -8,25 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 23 januari 1991 betreff
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br>
-1° decreet van 23 januari 1991 : het decreet van 23 januari 1991 betreffende de oprichting van het Instituut voor de aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen;<br>
-2° decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid « Instituut voor Innovatie door Wetenschap en Technologie »;<br>
-3° wet op de ziekenhuizen : de bij koninklijk besluit van 7 augustus 1987 gecoördineerde wet;<br>
-4° IWT : het Instituut voor de aanmoediging van Innovatie door Wetenschap en Technologie in Vlaanderen opgericht door het decreet van 23 januari 1991, of het Instituut voor Innovatie door Wetenschap en Technologie opgericht als rechtsopvolger door het decreet van 7 mei 2004, vanaf zijn inwerkingstelling;<br>
-5° raad van bestuur : de raad van bestuur van het IWT voorzien in hoofdstuk III, afdeling I van het decreet van 23 januari 1991 of het raadgevend comité van het IWT voorzien in hoofdstuk VI van het decreet van 7 mei 2004, vanaf zijn inwerkingstelling;<br>
-6° de minister : de Vlaamse minister bevoegd voor het wetenschaps- en innovatiebeleid;<br>
-7° O&amp;O actor : rechtspersoon met activiteiten in het domein van onderzoek en innovatie;<br>
-8° non-profit actor : een rechtspersoon met een doelstelling van niet-industriële of niet-commerciële aard;<br>
-9° Vlaamse universiteit : de instellingen vermeld in artikel 3&nbsp;van het decreet van 12 juni 1991 betreffende de universiteiten van de Vlaamse Gemeenschap;<br>
-10° Vlaamse hogeschool : de instellingen bedoeld in artikel 2, 1° van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap;<br>
-11° Vlaamse non-profit O&amp;O actor : een in het Vlaamse Gewest gevestigde non-profit O&amp;O actor evenals een in het Brussels Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse hogeschool;<br>
-12° Vlaams universitair ziekenhuis : de ziekenhuisinstellingen die in uitvoering van de wet op de ziekenhuizen aangewezen zijn als universitair ziekenhuis, en of in het Vlaamse Gewest, of als deel van een Vlaamse universiteit in het Brussels Hoofdstedelijk Gewest gevestigd zijn;<br>
-13° Vlaams ziekenhuis : ziekenhuisinstellingen met de hoedanigheid van non-profit actor gevestigd in het Vlaamse Gewest, waarop de wet op de ziekenhuizen van toepassing is zonder tezelfdertijd een Vlaams universitair ziekenhuis te zijn;<br>
-14° coördinator : lid van een consortium dat ten overstaan van het IWT instaat als vertegenwoordiger van de aanvragers en daarnaast ook instaat voor de coördinatie van de activiteiten van de toegekende projectsteun;<br>
-15° medeaanvrager : aanvrager-lid van een consortium van aanvragers dat niet de coördinator is;<br>
-16° onderaannemer : derde door de aanvragers voorzien om in hun opdracht specifieke uitvoerende projectactiviteiten te realiseren, en die niet de hoedanigheid heeft van aanvrager;<br>
-17° begunstigde : aanvrager van een projectvoorstel aan wie het IWT als contractant de projectsteun toekent;<br>
-18° het Instituut voor Tropische Geneeskunde : het Prins Leopold Instituut voor Tropische Geneeskunde, gelegen te Antwerpen.
+In dit besluit wordt verstaan onder :<BR>1° ...;<BR>2° ...;<BR>3° wet op   de ziekenhuizen: gecoördineerde wet van 10 juli 2008;<BR>4° FWO: het   privaatrechtelijk vormgegeven extern verzelfstandigd agentschap, vermeld in   artikel 15, § 2, van het decreet van 30 april 2009 betreffende de organisatie en   financiering van het wetenschaps- en innovatiebeleid, en opgericht bij de   notariële akte van 21 juni 2005 in de vorm van de privaatrechtelijke stichting   van openbaar nut Fonds voor Wetenschappelijk Onderzoek-Vlaanderen;<BR>5° raad   van bestuur: de raad van bestuur van het FWO, vermeld in artikel 17, § 2, van   het decreet van 30 april 2009 betreffende de organisatie en financiering van het   wetenschaps- en innovatiebeleid;<BR>6° de minister : de Vlaamse minister bevoegd   voor het wetenschaps- en innovatiebeleid;<BR>7° O&amp;O actor : rechtspersoon   met activiteiten in het domein van onderzoek en innovatie;<BR>8° non-profit   actor : een rechtspersoon met een doelstelling van niet-industriële of   niet-commerciële aard;<BR>9° Vlaamse universiteit: de instellingen vermeld in   artikel II.2 van de Codex Hoger Onderwijs van 11 oktober 2013;<BR>10° Vlaamse   hogeschool: de instellingen vermeld in artikel II.3 van de Codex Hoger Onderwijs   van 11 oktober 2013;<BR>11° Vlaamse non-profit O&amp;O actor : een in het   Vlaamse Gewest gevestigde non-profit O&amp;O actor evenals een in het Brussels   Hoofdstedelijk Gewest gevestigde Vlaamse universiteit of Vlaamse   hogeschool;<BR>12° Vlaams universitair ziekenhuis : de ziekenhuisinstellingen   die in uitvoering van de wet op de ziekenhuizen aangewezen zijn als universitair   ziekenhuis, en of in het Vlaamse Gewest, of als deel van een Vlaamse   universiteit in het Brussels Hoofdstedelijk Gewest gevestigd zijn;<BR>13° Vlaams   ziekenhuis : ziekenhuisinstellingen met de hoedanigheid van non-profit actor   gevestigd in het Vlaamse Gewest, waarop de wet op de ziekenhuizen van toepassing   is zonder tezelfdertijd een Vlaams universitair ziekenhuis te zijn;<BR>14°   coördinator : lid van een consortium dat ten overstaan van het&nbsp;FWO instaat   als vertegenwoordiger van de aanvragers en daarnaast ook instaat voor de   coördinatie van de activiteiten van de toegekende projectsteun;<BR>15°   medeaanvrager : aanvrager-lid van een consortium van aanvragers dat niet de   coördinator is;<BR>16° onderaannemer : derde door de aanvragers voorzien om in   hun opdracht specifieke uitvoerende projectactiviteiten te realiseren, en die   niet de hoedanigheid heeft van aanvrager;<BR>17° begunstigde : aanvrager van een   projectvoorstel aan wie het&nbsp;FWO als contractant de projectsteun   toekent;<BR>18° het Instituut voor Tropische Geneeskunde : het Prins Leopold   Instituut voor Tropische Geneeskunde, gelegen te Antwerpen.
 
 ## HOOFDSTUK II Karakteristieken van het financieringskanaal voor het onderzoek
 
@@ -56,7 +38,7 @@ Een projectvoorstel bevat een voorstel van begroting met een overzicht van de ko
 <br>
 Met betrekking tot de kosten die in aanmerking kunnen worden genomen gelden de bepalingen van bijlage 1 bij dit besluit.<br>
 <br>
-Het voorstel van begroting wordt opgesteld volgens de richtlijnen van het IWT.<br>
+Het voorstel van begroting wordt opgesteld volgens de richtlijnen van het FWO.<br>
 <br>
 Bij een consortium van aanvragers dient de voorgestelde begroting voor Vlaamse universitaire ziekenhuizen, Vlaamse ziekenhuizen, respectievelijk het Instituut voor Tropische Geneeskunde gecumuleerd minimaal 10 % van de totale voorgestelde begroting te bedragen.<br>
 <br>
@@ -82,11 +64,15 @@ Projectkosten komen enkel in aanmerking voor de toekenning van steun wanneer ze 
 
 ### ART. 8.
 
-De projectvoorstellen moeten worden geformuleerd overeenkomstig de handleiding voor aanvraagprocedure en -modaliteiten die het IWT vastlegt en bekendmaakt. Hierbij wordt tevens voorzien in een uiterste indiendatum in de loop van elk kalenderjaar.<br /><br />De raad van bestuur oordeelt over de ontvankelijkheid van een projectvoorstel met het oog op een grondige behandeling op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld hierboven in dit artikel.<br /><br />Een projectvoorstel dat niet ontvankelijk verklaard wordt, wordt uitgesloten van verdere behandeling.<br /><br />Ten laatste 30 kalenderdagen na de uiterste indiendatum deelt het IWT aan de projectaanvrager, of in geval van een consortium van aanvragers aan de coördinator van het projectvoorstel, de gemotiveerde beslissing over de ontvankelijkheid van het projectvoorstel mee. Naast de ontvankelijkheidanalyse kan de raad van bestuur een preselectie doorvoeren op basis van de mate waarin de operationele doelstellingen tegemoet komen aan de doelstellingen van het programma.
+De projectvoorstellen moeten worden geformuleerd overeenkomstig de   handleiding voor aanvraagprocedure en -modaliteiten die het FWO vastlegt en   bekendmaakt. Hierbij wordt tevens voorzien in een uiterste indiendatum in de   loop van elk kalenderjaar.<BR><BR>De raad van bestuur oordeelt over de   ontvankelijkheid van een projectvoorstel met het oog op een grondige behandeling   op basis van de formele indieningsvoorwaarden en instructies zoals bedoeld   hierboven in dit artikel.<BR><BR>Een projectvoorstel dat niet ontvankelijk   verklaard wordt, wordt uitgesloten van verdere behandeling.<BR><BR>Ten laatste   30 kalenderdagen na de uiterste indiendatum deelt het FWO aan de   projectaanvrager, of in geval van een consortium van aanvragers aan de   coördinator van het projectvoorstel, de gemotiveerde beslissing over de   ontvankelijkheid van het projectvoorstel mee. Naast de ontvankelijkheidanalyse   kan de raad van bestuur een preselectie doorvoeren op basis van de mate waarin   de operationele doelstellingen tegemoet komen aan de doelstellingen van het   programma.
 
 ### ART. 9.
 
 De raad van bestuur stelt een expertencollege samen. De raad van bestuur kan bovendien additionele materiedeskundigen aanstellen die voor specifieke aspecten van individuele dossiers schriftelijk een advies dienen uit te brengen. Het expertencollege stelt een gemotiveerd advies op naar de finale beslissing toe.
+
+### ART. 10.
+
+De beslissing tot steun door het FWO wordt gebaseerd op het advies van het   expertencollege. Het FWO beslist tevens over de omvang van de goedgekeurde   begroting, de startdatum van de projectuitvoering en over eventuele specifieke   voorwaarden.
 
 ### ART. 11.
 
@@ -98,13 +84,15 @@ Bij beslissing voor steunverlening wordt voorzien in een steunovereenkomst, opge
 
 ### ART. 13.
 
-In geval een project in consortiumverband wordt uitgevoerd sluiten de projectaanvragers een consortiumovereenkomst af die als bijlage bij de overeenkomst vermeld in artikel 12 wordt gevoegd. De coördinator maakt deze consortiumovereenkomst ter goedkeuring over aan het IWT ten laatste na 4 maanden na het uitsturen van de overeenkomst bedoeld in artikel 12.
+In geval een project in consortiumverband wordt uitgevoerd sluiten de projectaanvragers een consortiumovereenkomst af die als bijlage bij de overeenkomst vermeld in artikel 12 wordt gevoegd. De coördinator maakt deze consortiumovereenkomst ter goedkeuring over aan het FWO ten laatste na 4 maanden na het uitsturen van de overeenkomst bedoeld in artikel 12.<br>
+<br>
+.
 
 ## HOOFDSTUK V Beslissingsbepalingen en -criteria
 
 ### ART. 14.
 
-Het IWT kan een negatieve beslissing nemen of bijkomende voorwaarden stellen :<br />1° indien een projectaanvrager niet voldoet aan verplichtingen of vergunningen vanwege de overheid;<br />2° indien een projectaanvrager blijk heeft gegeven van niet-correct gedrag naar aanleiding van vorige projectvoorstellen, onder meer inzake informatieverstrekking, inhoudelijke of financiële verplichtingen of verslaggeving.
+Het FWO kan een negatieve beslissing nemen of bijkomende voorwaarden   stellen :<BR>1° indien een projectaanvrager niet voldoet aan verplichtingen of   vergunningen vanwege de overheid;<BR>2° indien een projectaanvrager blijk heeft   gegeven van niet-correct gedrag naar aanleiding van vorige projectvoorstellen,   onder meer inzake informatieverstrekking, inhoudelijke of financiële   verplichtingen of verslaggeving.
 
 ### ART. 15.
 
@@ -124,7 +112,7 @@ Voor elk criterium wordt een score uitgebracht door het expertencollege. De twee
 
 ### ART. 19.
 
-Het IWT legt jaarlijks verantwoording af bij de Vlaamse Regering inzake het beheer van het financieringskanaal.
+Het FWO legt jaarlijks verantwoording af bij de Vlaamse Regering inzake   het beheer van het financieringskanaal.
 
 ## HOOFDSTUK VI Eigendomsrechten en valorisatie
 
@@ -140,19 +128,19 @@ De begunstigde verbindt zich ertoe alle inspanningen te leveren die redelijkerwi
 
 ### ART. 22.
 
-Het IWT wordt belast met het toezicht op de aanwending door de begunstigde van de steun die krachtens dit besluit wordt toegekend.
+Het FWO wordt belast met het toezicht op de aanwending door de begunstigde   van de steun die krachtens dit besluit wordt toegekend.
 
 ### ART. 23.
 
-De begunstigde levert op geregelde tijdstippen schriftelijk verslag aan het IWT betreffende de vordering van het project en de geleverde prestaties. Hij brengt ook na afloop een eindverslag uit over het verloop en de resultaten van het project, de aanwending van de steun en de vooruitzichten voor maatschappelijke utilisatie in Vlaanderen.
+De begunstigde levert op geregelde tijdstippen schriftelijk verslag aan   het FWO betreffende de vordering van het project en de geleverde prestaties. Hij   brengt ook na afloop een eindverslag uit over het verloop en de resultaten van   het project, de aanwending van de steun en de vooruitzichten voor   maatschappelijke utilisatie in Vlaanderen.
 
 ### ART. 24.
 
-De begunstigde die de voorwaarden en de bepalingen waaronder de steun werd toegekend niet naleeft, wordt in gebreke gesteld. Vanaf de ingebrekestelling wordt elke verdere steun aan het project geschorst. Het IWT vordert terugbetaling van de oneigenlijk aangewende steun.<br /><br />Indien het project in consortiumverband wordt uitgevoerd, is de terugvordering beperkt tot de steun die de in gebreke gestelde begunstigde heeft ontvangen.
+De begunstigde die de voorwaarden en de bepalingen waaronder de steun werd   toegekend niet naleeft, wordt in gebreke gesteld. Vanaf de ingebrekestelling   wordt elke verdere steun aan het project geschorst. Het FWO vordert   terugbetaling van de oneigenlijk aangewende steun.<BR><BR>Indien het project in   consortiumverband wordt uitgevoerd, is de terugvordering beperkt tot de steun   die de in gebreke gestelde begunstigde heeft ontvangen.
 
 ### ART. 25.
 
-De begunstigde kan een herziening vragen van de beslissing van het IWT inzake de ingebrekestelling of vordering van terugbetaling overeenkomstig artikel 24 van dit besluit. Het beroep moet aangetekend bezorgd worden binnen een termijn van 30 werkdagen na betekening van de beslissing. Het beroep moet door de raad van bestuur worden behandeld binnen een termijn van 30 werkdagen na ontvangst, waarna een nieuwe beslissing kan bepaald worden.
+De begunstigde kan een herziening vragen van de beslissing van het FWO inzake de ingebrekestelling of vordering van terugbetaling overeenkomstig artikel 24 van dit besluit. Het beroep moet aangetekend bezorgd worden binnen een termijn van 30 werkdagen na betekening van de beslissing. Het beroep moet door de raad van bestuur worden behandeld binnen een termijn van 30 werkdagen na ontvangst, waarna een nieuwe beslissing kan bepaald worden.
 
 ### ART. 26.
 
@@ -160,9 +148,9 @@ De toekenning van de steun en het recht op het behoud ervan is afhankelijk van d
 <br>
 De niet naleving van de informatie- en raadplegingprocedures wordt door de Vlaamse Regering vastgesteld. De datum van haar beslissing geldt als uitgangspunt voor het bepalen van de periode van vijf jaar waarbinnen alle steun zal worden teruggevorderd, zoals bepaald in artikel 35, § 1 van het eerder in dit artikel vermeld decreet.<br>
 <br>
-Met ingang van de datum van de in het eerste lid vermelde beslissing van de Vlaamse Regering is het IWT bevrijd van elke verdere verplichting tot uitbetaling waarin de contractuele bepalingen van op dat ogenblik lopende overeenkomsten waarvan de begunstigde één van de partijen is, zouden voorzien.<br>
+Met ingang van de datum van de in het eerste lid vermelde beslissing van de Vlaamse Regering is het FWO bevrijd van elke verdere verplichting tot uitbetaling waarin de contractuele bepalingen van op dat ogenblik lopende overeenkomsten waarvan de begunstigde één van de partijen is, zouden voorzien.<br>
 <br>
-Het recht op terugvorderen door het IWT betreft het geheel van de in voormelde periode van vijf jaar door de begunstigde ontvangen betalingen, ongeacht het aantal projecten of het aantal aparte overeenkomsten en hun stand van uitvoering in de periode van vijf jaar voorafgaand aan de in het tweede lid bedoelde beslissing van de Vlaamse Regering.<br>
+Het recht op terugvorderen door het FWO betreft het geheel van de in voormelde periode van vijf jaar door de begunstigde ontvangen betalingen, ongeacht het aantal projecten of het aantal aparte overeenkomsten en hun stand van uitvoering in de periode van vijf jaar voorafgaand aan de in het tweede lid bedoelde beslissing van de Vlaamse Regering.<br>
 <br>
 Indien projecten in consortiumverband worden uitgevoerd, is de terugvordering beperkt tot de steun die de begunstigde in kwestie heeft ontvangen.
 
@@ -170,13 +158,13 @@ Indien projecten in consortiumverband worden uitgevoerd, is de terugvordering be
 
 ### ART. 27.
 
-De personeelsleden van het IWT, de leden van de raad van bestuur en de leden van het expertencollege alsmede alle andere personen die ambtshalve kennis krijgen van een dossier zoals bedoeld in dit besluit zullen de gegevens in kwestie als strikt vertrouwelijk behandelen, ze niet mededelen aan derden, noch in hun eigen voordeel aanwenden. Ter waarborging van de vertrouwelijkheid dienen de leden van het expertencollege alsook de deskundigen die deelnemen aan de schriftelijke evaluatie een confidentialiteitsnota te ondertekenen waarin de condities en periode van vertrouwelijkheid geregeld worden.
+De personeelsleden van het FWO, de leden van de raad van bestuur en de   leden van het expertencollege alsmede alle andere personen die ambtshalve kennis   krijgen van een dossier zoals bedoeld in dit besluit zullen de gegevens in   kwestie als strikt vertrouwelijk behandelen, ze niet mededelen aan derden, noch   in hun eigen voordeel aanwenden. Ter waarborging van de vertrouwelijkheid dienen   de leden van het expertencollege alsook de deskundigen die deelnemen aan de   schriftelijke evaluatie een confidentialiteitsnota te ondertekenen waarin de   condities en periode van vertrouwelijkheid geregeld worden.
 
 ## HOOFDSTUK IX Verzoek tot herziening
 
 ### ART. 28.
 
-De aanvrager kan een herziening vragen van de beslissing van het IWT tot weigering van steunverlening, zonder evenwel de opportuniteit van de beslissing in vraag te kunnen stellen. De herziening wordt, op straffe van verval, gevraagd per aangetekend schrijven, binnen een termijn van 20 werkdagen na afgifte bij de post van de betekening van de beslissing.<br /><br />Het verzoekschrift tot herziening bevat, op straffe van onontvankelijkheid, een opgave van de objectief apprecieerbare wetenschappelijke of utilisatiegeoriënteerde elementen van het dossier, dat aan het IWT wordt voorgelegd, waarvan de aanvrager beweert dat de incorrecte appreciatie kennelijk bepalend is geweest voor het nemen van de bestreden beslissing, alsmede de argumenten ter weerlegging van de bedoelde appreciatie.<br /><br />De aanvrager beschikt daartoe over het recht op inzage van het dossier zoals dat ter beslissing is voorgelegd.<br /><br />Het IWT beslist binnen 30 werkdagen na ontvangst van het verzoekschrift tot herziening. De raad van bestuur bepaalt de te volgen procedure voor uitvoering van deze beslissing.
+De aanvrager kan een herziening vragen van de beslissing van het FWO tot   weigering van steunverlening, zonder evenwel de opportuniteit van de beslissing   in vraag te kunnen stellen. De herziening wordt, op straffe van verval, gevraagd   per aangetekend schrijven, binnen een termijn van 20 werkdagen na afgifte bij de   post van de betekening van de beslissing.<BR><BR>Het verzoekschrift tot   herziening bevat, op straffe van onontvankelijkheid, een opgave van de objectief   apprecieerbare wetenschappelijke of utilisatiegeoriënteerde elementen van het   dossier, dat aan het FWO wordt voorgelegd, waarvan de aanvrager beweert dat de   incorrecte appreciatie kennelijk bepalend is geweest voor het nemen van de   bestreden beslissing, alsmede de argumenten ter weerlegging van de bedoelde   appreciatie.<BR><BR>De aanvrager beschikt daartoe over het recht op inzage van   het dossier zoals dat ter beslissing is voorgelegd.<BR><BR>Het FWO beslist   binnen 30 werkdagen na ontvangst van het verzoekschrift tot herziening. De raad   van bestuur bepaalt de te volgen procedure voor uitvoering van deze   beslissing.
 
 ## HOOFDSTUK X Slotbepalingen
 

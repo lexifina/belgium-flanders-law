@@ -2,16 +2,16 @@
   "codex_id": 1015208,
   "title": "Besluit van de Vlaamse Regering van 2006-09-15 voor de financiering van toegepast biomedisch onderzoek met een primair maatschappelijke finaliteit",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015208/VolledigDocument?datum=2007-01-01",
-  "source_sha256": "e3a1c1dd2594855ce92d5d08e7b7aaab18873c51fc50d030530d36e1399820f1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015208/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "34347cb4aa3285bbaf6b166a67c3c2fd8401979c7ef0609274a82027f70e37b3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015208&param=informatie",
-  "as_of": "2007-01-01",
+  "as_of": "2016-01-01",
   "made": "2006-09-15",
   "gazette": "2006-11-28",
   "numac": 2006036873,
   "document_start": "2006-06-01",
   "document_end": null,
-  "in_force": "2007-01-01",
-  "article_versions": 31,
-  "record_form": "consolidated version as in force on 2007-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-01",
+  "article_versions": 32,
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
