@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br />
 
 ### ART. 2.
 
-Er wordt een strategische adviesraad opgericht als vermeld in artikel 2 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden. De strategische adviesraad draagt de naam « Raad voor Cultuur, Jeugd, Sport en Media » en heeft tot taak om het Vlaams Parlement, de Vlaamse Regering of de individuele ministers te adviseren over strategische beleidsaangelegenheden die behoren tot het beleidsdomein Cultuur, Jeugd, Sport en Media. Overeenkomstig artikel 3 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden heeft de adviesraad rechtspersoonlijkheid.<br /><br />
+Bij het Departement Cultuur, Jeugd en Media wordt een strategische adviesraad opgericht als vermeld in artikel 2 van het decreet van 18 juli 2003 tot regeling van strategische adviesraden. De strategische adviesraad draagt de naam "Raad voor Cultuur, Jeugd, Sport en Media, afgekort SARC" en heeft tot taak om het Vlaams Parlement, de Vlaamse Regering of de individuele ministers te adviseren over strategische beleidsaangelegenheden die behoren tot het beleidsdomein Cultuur, Jeugd, Sport en Media. In afwijking van artikel 3, eerste lid, van het decreet van 18 juli 2003 tot regeling van strategische adviesraden heeft de adviesraad geen rechtspersoonlijkheid.
 
 ## HOOFDSTUK II Taakomschrijving
 

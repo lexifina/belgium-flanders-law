@@ -2,16 +2,16 @@
   "codex_id": 1016498,
   "title": "Decreet van 2007-11-30 houdende de oprichting van de Raad voor Cultuur, Jeugd, Sport en Media",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016498/VolledigDocument?datum=2008-01-25",
-  "source_sha256": "629a68018a2b78a600b62bb8861c9a6e599c041a747219a93837bd644f9bcc76",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1016498/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "9e4742fc2793cca0a96c9062f6aa11693c41a4f4ede11b5afac7515844754a21",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1016498&param=informatie",
-  "as_of": "2008-01-25",
+  "as_of": "2016-01-01",
   "made": "2007-11-30",
   "gazette": "2008-01-15",
   "numac": 2008037385,
   "document_start": "2008-01-25",
   "document_end": null,
-  "in_force": "2008-01-25",
+  "in_force": "2016-01-01",
   "article_versions": 29,
-  "record_form": "consolidated version as in force on 2008-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
