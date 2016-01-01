@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026112,
+  "title": "Besluit van de Vlaamse Regering van 2015-10-30 tot regeling van de delegatie van beslissingsbevoegdheden aan de hoofden van de departementen en van de intern verzelfstandigde agentschappen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026112/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "cc513e515a7198d6069b13fe5a0ac9a53f566fd36ae046be9e1fac8ee9c00341",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026112&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-10-30",
+  "gazette": "2015-11-24",
+  "numac": 2015036338,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
