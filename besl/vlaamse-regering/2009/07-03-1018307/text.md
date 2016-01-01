@@ -8,7 +8,10 @@ De Vlaamse Regering,<br /><br />Gelet op de bijzondere wet van 8 augustus 1980 t
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<br />1° het decreet : het decreet van 3 april 2009 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de studentensportvoorzieningen van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende studentensportvereniging;<br />2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br />3° de Vlaamse Trainersschool : het samenwerkingsverband tussen het Bloso, de topsportmanager, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 3 april 2009 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de studentensportvoorzieningen van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende studentensportvereniging;<br>
+2° de minister : de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
+3° de Vlaamse Trainersschool : het samenwerkingsverband tussen Sport Vlaanderen, de universitaire opleidingsinstituten Lichamelijke Opvoeding, de Vlaamse hogescholen Lichamelijke Opvoeding en de erkende Vlaamse sportfederaties, dat sportkaderopleidingen organiseert in Vlaanderen, afgekort VTS.
 
 ## HOOFDSTUK II Subsidiëring van de uitvoering van het sportbeleidsplan van de associaties
 
@@ -26,7 +29,15 @@ De personeelsleden waarover het overlegplatform moet kunnen beschikken, vermeld 
 
 ### ART. 4.
 
-De raad van bestuur van de associatie stuurt uiterlijk op 31 december van het jaar dat voorafgaat aan de olympiade de volgende documenten naar het Bloso :<br />1° het door de raad van bestuur goedgekeurde sportbeleidsplan, samen met het advies van de sportraad;<br />2° een lijst van de studentensportvoorzieningen die worden beheerd binnen de associatie, en de documenten waaruit blijkt dat de studentensportvoorzieningen voldoen aan de voorwaarden, vermeld in artikel 5 van het decreet;<br />3° een lijst van de sportinfrastructuur per studentensportvoorziening;<br />4° de samenstelling van het overlegplatform, vermeld in artikel 6 van het decreet;<br />5° de lijst van de personeelsleden tewerkgesteld binnen de studentensportvoorzieningen, samen met de kopieën van de arbeidsovereenkomsten en de diploma's, waaruit blijkt dat voldaan wordt aan artikel 7 van het decreet en aan artikel 3 van dit besluit;<br />6° een verklaring, conform artikel 8 van het decreet, waarbij de raad van bestuur het engagement aangaat dat de associatie, haar onderliggende partnerinstellingen en studentensportvoorzieningen hun eigen werkingsmiddelen voor sport, jaarlijks en voor de duur van het sportbeleidsplan, niet zullen verminderen ten opzichte van het werkingsjaar dat voorafgaat aan de olympiade.<br /><br />De minister beslist om de associatie te subsidiëren of niet te subsidiëren, op advies van het Bloso, en deelt zijn beslissing mee aan de raad van bestuur van de associatie uiterlijk zestig dagen nadat het Bloso de documenten, vermeld in het eerste lid, ontvangen heeft.
+De raad van bestuur van de associatie stuurt uiterlijk op 31 december van het jaar dat voorafgaat aan de olympiade de volgende documenten naar Sport Vlaanderen:<br>
+1° het door de raad van bestuur goedgekeurde sportbeleidsplan, samen met het advies van de sportraad;<br>
+2° een lijst van de studentensportvoorzieningen die worden beheerd binnen de associatie, en de documenten waaruit blijkt dat de studentensportvoorzieningen voldoen aan de voorwaarden, vermeld in artikel 5 van het decreet;<br>
+3° een lijst van de sportinfrastructuur per studentensportvoorziening;<br>
+4° de samenstelling van het overlegplatform, vermeld in artikel 6 van het decreet;<br>
+5° de lijst van de personeelsleden tewerkgesteld binnen de studentensportvoorzieningen, samen met de kopieën van de arbeidsovereenkomsten en de diploma's, waaruit blijkt dat voldaan wordt aan artikel 7 van het decreet en aan artikel 3 van dit besluit;<br>
+6° een verklaring, conform artikel 8 van het decreet, waarbij de raad van bestuur het engagement aangaat dat de associatie, haar onderliggende partnerinstellingen en studentensportvoorzieningen hun eigen werkingsmiddelen voor sport, jaarlijks en voor de duur van het sportbeleidsplan, niet zullen verminderen ten opzichte van het werkingsjaar dat voorafgaat aan de olympiade.<br>
+<br>
+De minister beslist om de associatie te subsidiëren of niet te subsidiëren, op advies van Sport Vlaanderen, en deelt zijn beslissing mee aan de raad van bestuur van de associatie uiterlijk zestig dagen nadat Sport Vlaanderen de documenten, vermeld in het eerste lid, ontvangen heeft.
 
 ### ART. 5.
 
@@ -34,19 +45,33 @@ Het jaarlijkse verslag over de uitvoering van het sportbeleidsplan, vermeld in a
 
 ### ART. 6.
 
-Het jaarlijkse verslag wordt voor advies voorgelegd aan de sportraad. De sportraad krijgt ten minste dertig dagen tijd om zijn advies te formuleren.<br /><br />Het jaarlijkse verslag moet samen met het advies van de sportraad en, bij negatief advies, samen met het gemotiveerde antwoord van de raad van bestuur, jaarlijks voor 1 september van het jaar na het jaar waarop het verslag betrekking heeft, aan het Bloso worden bezorgd.
+Het jaarlijkse verslag wordt voor advies voorgelegd aan de sportraad. De sportraad krijgt ten minste dertig dagen tijd om zijn advies te formuleren.<br>
+<br>
+Het jaarlijkse verslag moet samen met het advies van de sportraad en, bij negatief advies, samen met het gemotiveerde antwoord van de raad van bestuur, jaarlijks voor 1 september van het jaar na het jaar waarop het verslag betrekking heeft, aan Sport Vlaanderen worden bezorgd.
 
 ## Afdeling III Uitbetaling en regularisatie of terugvordering van subsidies
 
 ### ART. 7.
 
-§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br /><br />Het voorschot bedraagt 80 % van het bedrag waarop de associatie recht heeft overeenkomstig artikel 3 van het decreet.<br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar na het begrotingsjaar.<br /><br />§ 2. Overeenkomstig artikel 57 en 58 van de wetten op de Rijkscomptabiliteit is de associatie gehouden tot de onmiddellijke terugbetaling van de subsidie of wordt de uitkering van de subsidie onmiddellijk opgeschort in de in deze artikelen bepaalde gevallen.<br /><br />Het Bloso kan op elk moment ter plaatse controle uitoefenen op de uitvoering van de opdracht en de aanwending van de subsidies.
+§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br>
+<br>
+Het voorschot bedraagt 80 % van het bedrag waarop de associatie recht heeft overeenkomstig artikel 3 van het decreet.<br>
+<br>
+Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 31 december van het jaar na het begrotingsjaar.<br>
+<br>
+§ 2. Overeenkomstig artikel 57 en 58 van de wetten op de Rijkscomptabiliteit is de associatie gehouden tot de onmiddellijke terugbetaling van de subsidie of wordt de uitkering van de subsidie onmiddellijk opgeschort in de in deze artikelen bepaalde gevallen.<br>
+<br>
+Sport Vlaanderen kan op elk moment ter plaatse controle uitoefenen op de uitvoering van de opdracht en de aanwending van de subsidies.
 
 ## Afdeling IV Procedure voor de intrekking van de subsidiëring
 
 ### ART. 8.
 
-Als het Bloso vaststelt dat een associatie niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het Bloso de associatie op de hoogte van de vastgestelde overtredingen.<br /><br />De associatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt het Bloso een gemotiveerd advies op over de mogelijke sancties.<br /><br />De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de associatie, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen. De beslissing wordt aan de betrokken associatie meegedeeld per aangetekende brief.
+Als Sport Vlaanderen vaststelt dat een associatie niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt Sport Vlaanderen de associatie op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+De associatie krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de associatie, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen. De beslissing wordt aan de betrokken associatie meegedeeld per aangetekende brief.
 
 ## HOOFDSTUK III Erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie (verv. BVR 6 juli 2018, art. 10, I: 1 september 2018)]
 
@@ -54,17 +79,45 @@ Als het Bloso vaststelt dat een associatie niet meer voldoet aan de subsidiërin
 
 ### ART. 9.
 
-Een aanvraag tot erkenning als overkoepelende studentensportvereniging moet ingediend worden bij het Bloso uiterlijk op 1 september voorafgaand aan het jaar van de erkenning. De aanvraag moet per aangetekende brief verstuurd worden naar het Bloso of tegen ontvangstmelding bezorgd worden aan het Bloso.<br /><br />Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt het Bloso per aangetekende brief de aanvullende gegevens op.<br /><br />Het Bloso brengt voor 1 oktober per aangetekende brief de overkoepelende studentensportvereniging die een onontvankelijke aanvraag tot erkenning heeft ingediend, daarvan op de hoogte. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd, of als blijkt dat de overkoepelende studentensportvereniging niet kan voldoen aan de erkenningsvoorwaarden.
+Een aanvraag tot erkenning als overkoepelende studentensportvereniging moet ingediend worden bij Sport Vlaanderen uiterlijk op 1 september voorafgaand aan het jaar van de erkenning. De aanvraag moet per aangetekende brief verstuurd worden naar Sport Vlaanderen of tegen ontvangstmelding bezorgd worden aan Sport Vlaanderen.<br>
+<br>
+Als vastgesteld wordt dat een aanvraag onvolledig is en nog vervolledigd kan worden, vraagt Sport Vlaanderen per aangetekende brief de aanvullende gegevens op.<br>
+<br>
+Sport Vlaanderen brengt voor 1 oktober per aangetekende brief de overkoepelende studentensportvereniging die een onontvankelijke aanvraag tot erkenning heeft ingediend, daarvan op de hoogte. De reden van de onontvankelijkheid wordt in de brief vermeld. Een aanvraag is onontvankelijk als ze niet tijdig werd ingediend, niet tijdig werd vervolledigd, of als blijkt dat de overkoepelende studentensportvereniging niet kan voldoen aan de erkenningsvoorwaarden.
 
 ### ART. 10.
 
-Voor 15 oktober brengt het Bloso bij de minister advies uit over de erkenning van de overkoepelende studentensportvereniging.<br /><br />Voor 15 november deelt de minister per aangetekende brief aan de overkoepelende studentensportvereniging zijn beslissing mee om ze te erkennen of zijn voornemen om ze niet te erkennen.<br /><br />De overkoepelende studentensportvereniging die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar het Bloso. Als de overkoepelende studentensportvereniging daarom verzoekt, kan zij gehoord worden.<br /><br />Het Bloso stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de overkoepelende studentensportvereniging al dan niet te erkennen.
+Voor 15 oktober brengt Sport Vlaanderen bij de minister advies uit over de erkenning van de overkoepelende studentensportvereniging.<br>
+<br>
+Voor 15 november deelt de minister per aangetekende brief aan de overkoepelende studentensportvereniging zijn beslissing mee om ze te erkennen of zijn voornemen om ze niet te erkennen.<br>
+<br>
+De overkoepelende studentensportvereniging die het bericht krijgt van het voornemen van de minister om haar erkenning niet in aanmerking te nemen, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen. Als de overkoepelende studentensportvereniging daarom verzoekt, kan zij gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de overkoepelende studentensportvereniging al dan niet te erkennen.
 
 ## Afdeling II Procedure voor schorsing en intrekking van de erkenning
 
 ### ART. 11.
 
-§ 1. Als het Bloso vaststelt dat de erkende overkoepelende studentensportvereniging niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt het Bloso de erkende overkoepelende studentensportvereniging op de hoogte van de vastgestelde overtredingen.<br /><br />§ 2. De erkende overkoepelende studentensportvereniging krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt het Bloso een gemotiveerd advies op over de mogelijke sancties.<br /><br />§ 3. De minister beslist, na kennisname van het advies, vermeld in paragraaf 2 en, in voorkomend geval, van het meegedeelde standpunt van de erkende overkoepelende studentensportvereniging, om ofwel de erkenning te schorsen en haar een termijn toe te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing wordt aan de erkende overkoepelende studentensportvereniging meegedeeld per aangetekende brief.<br /><br />§ 4. De erkenning van de overkoepelende studentensportvereniging wordt geschorst vanaf de datum waarop de brief met de beslissing tot schorsing naar haar werd verstuurd. In de brief wordt ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet regulariseren.<br /><br />Als het Bloso vaststelt dat de overkoepelende studentensportvereniging, na afloop van de in de brief gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.<br /><br />De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de overkoepelende studentensportvereniging werd geschorst.<br /><br />Als het Bloso vaststelt dat de overkoepelende studentensportvereniging tijdig de vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De overkoepelende studentensportvereniging wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.<br /><br />§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de overkoepelende studentensportvereniging per aangetekende brief op de hoogte gebracht van de beslissing van de minister om haar erkenning onmiddellijk in te trekken.<br /><br />De overkoepelende studentensportvereniging die het bericht krijgt van de beslissing van de minister om haar erkenning onmiddellijk in te trekken, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar het Bloso. Als de overkoepelende studentensportvereniging daarom verzoekt, kan zij gehoord worden.<br /><br />Het Bloso stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de intrekking van de overkoepelende studentensportvereniging al dan niet te bevestigen.
+§ 1. Als Sport Vlaanderen vaststelt dat de erkende overkoepelende studentensportvereniging niet meer voldoet aan een of meer erkenningsvoorwaarden, brengt Sport Vlaanderen de erkende overkoepelende studentensportvereniging op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+§ 2. De erkende overkoepelende studentensportvereniging krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+§ 3. De minister beslist, na kennisname van het advies, vermeld in paragraaf 2 en, in voorkomend geval, van het meegedeelde standpunt van de erkende overkoepelende studentensportvereniging, om ofwel de erkenning te schorsen en haar een termijn toe te staan waarin ze de vastgestelde overtredingen moet regulariseren, ofwel de erkenning in te trekken. De minister houdt daarbij rekening met de aard van de vastgestelde overtreding en de mogelijkheid tot regularisatie. De beslissing wordt aan de erkende overkoepelende studentensportvereniging meegedeeld per aangetekende brief.<br>
+<br>
+§ 4. De erkenning van de overkoepelende studentensportvereniging wordt geschorst vanaf de datum waarop de brief met de beslissing tot schorsing naar haar werd verstuurd. In de brief wordt ook de termijn meegedeeld waarin ze de vastgestelde overtredingen moet regulariseren.<br>
+<br>
+Als Sport Vlaanderen vaststelt dat de overkoepelende studentensportvereniging, na afloop van de in de brief gestelde termijn, niet opnieuw voldoet aan alle erkenningsvoorwaarden, mag de minister onmiddellijk een beslissing nemen tot intrekking van de erkenning.<br>
+<br>
+De beslissing tot intrekking van de erkenning heeft uitwerking met terugwerkende kracht vanaf de datum waarop de erkenning van de overkoepelende studentensportvereniging werd geschorst.<br>
+<br>
+Als Sport Vlaanderen vaststelt dat de overkoepelende studentensportvereniging tijdig de vastgestelde overtredingen heeft geregulariseerd, wordt de schorsing opgeheven. De overkoepelende studentensportvereniging wordt op de hoogte gebracht van de beslissing van de minister over de datum van de opheffing van de schorsing.<br>
+<br>
+§ 5. In afwijking van paragraaf 1 tot en met 4 mag de minister de erkenning onmiddellijk intrekken in geval van hoogdringendheid als dat in het belang is van de Vlaamse Gemeenschap en als dat door zwaarwegende feiten wordt verantwoord. In dergelijk geval wordt de overkoepelende studentensportvereniging per aangetekende brief op de hoogte gebracht van de beslissing van de minister om haar erkenning onmiddellijk in te trekken.<br>
+<br>
+De overkoepelende studentensportvereniging die het bericht krijgt van de beslissing van de minister om haar erkenning onmiddellijk in te trekken, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen. Als de overkoepelende studentensportvereniging daarom verzoekt, kan zij gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de intrekking van de overkoepelende studentensportvereniging al dan niet te bevestigen.
 
 ## Afdeling III Bijzondere subsidiëringsvoorwaarden
 
@@ -86,13 +139,29 @@ Om in aanmerking te komen voor de subsidies, moet het sportbeleidsplan van de er
 
 ### ART. 16.
 
-§ 1. Bij indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van een gesubsidieerd personeelslid wordt het Bloso onverwijld op de hoogte gebracht. De overkoepelende studentensportvereniging deelt in voorkomend geval aan het Bloso de volgende gegevens mee :<br />1° de datum van indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van het personeelslid;<br />2° de naam, de voornaam, de gegevens van de diensten die het personeelslid gepresteerd heeft, met bijgevoegd een kopie van het diploma of getuigschrift en een kopie van de arbeidsovereenkomst van het personeelslid.<br /><br />§ 2. De overkoepelende studentensportvereniging moet bij uitdiensttreding of schorsing van de arbeidsovereenkomst van een gesubsidieerd personeelslid dat personeelslid vervangen binnen vier maanden.
+§ 1. Bij indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van een gesubsidieerd personeelslid wordt Sport Vlaanderen onverwijld op de hoogte gebracht. De overkoepelende studentensportvereniging deelt in voorkomend geval aan Sport Vlaanderen de volgende gegevens mee :<br>
+1° de datum van indiensttreding, schorsing van de arbeidsovereenkomst of uitdiensttreding van het personeelslid;<br>
+2° de naam, de voornaam, de gegevens van de diensten die het personeelslid gepresteerd heeft, met bijgevoegd een kopie van het diploma of getuigschrift en een kopie van de arbeidsovereenkomst van het personeelslid.<br>
+<br>
+§ 2. De overkoepelende studentensportvereniging moet bij uitdiensttreding of schorsing van de arbeidsovereenkomst van een gesubsidieerd personeelslid dat personeelslid vervangen binnen vier maanden.
 
 ## Afdeling IV Subsidiëringsprocedure
 
 ### ART. 17.
 
-De erkende overkoepelende studentensportvereniging stuurt uiterlijk op 1 september van het jaar dat voorafgaat aan de olympiade de volgende documenten naar het Bloso :<br />1° het door de algemene vergadering goedgekeurde sportbeleidsplan;<br />2° de lijst van de personeelsleden die voor de overkoepelende studentensportvereniging werken, samen met de kopieën van de arbeidsovereenkomsten en de diploma's, waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 15, § 2, van het decreet en in artikel 13 van dit besluit.<br /><br />De documenten moeten aangetekend verstuurd worden naar het Bloso of tegen ontvangstmelding bezorgd worden aan het Bloso.<br /><br />Voor 15 oktober brengt het Bloso bij de minister advies uit over de subsidiëring van de overkoepelende studentensportvereniging.<br /><br />Voor 15 november deelt de minister per aangetekende brief aan de overkoepelende studentensportvereniging zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te subsidiëren.<br /><br />De overkoepelende studentensportvereniging die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar het Bloso. Als de overkoepelende studentensportvereniging daarom verzoekt, kan ze gehoord worden.<br /><br />Het Bloso stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de overkoepelende studentensportvereniging al dan niet te subsidiëren.
+De erkende overkoepelende studentensportvereniging stuurt uiterlijk op 1 september van het jaar dat voorafgaat aan de olympiade de volgende documenten naar Sport Vlaanderen:<br>
+1° het door de algemene vergadering goedgekeurde sportbeleidsplan;<br>
+2° de lijst van de personeelsleden die voor de overkoepelende studentensportvereniging werken, samen met de kopieën van de arbeidsovereenkomsten en de diploma's, waaruit blijkt dat voldaan is aan de voorwaarden, vermeld in artikel 15, § 2, van het decreet en in artikel 13 van dit besluit.<br>
+<br>
+De documenten moeten aangetekend verstuurd worden naar Sport Vlaanderen of tegen ontvangstmelding bezorgd worden aan Sport Vlaanderen.<br>
+<br>
+Voor 15 oktober brengt Sport Vlaanderen bij de minister advies uit over de subsidiëring van de overkoepelende studentensportvereniging.<br>
+<br>
+Voor 15 november deelt de minister per aangetekende brief aan de overkoepelende studentensportvereniging zijn beslissing mee om haar te subsidiëren of zijn voornemen om haar niet te subsidiëren.<br>
+<br>
+De overkoepelende studentensportvereniging die het bericht krijgt van het voornemen van de minister om haar niet te subsidiëren, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijftien dagen na de verzending van het bericht aangetekend verstuurd moet worden naar Sport Vlaanderen. Als de overkoepelende studentensportvereniging daarom verzoekt, kan ze gehoord worden.<br>
+<br>
+Sport Vlaanderen stelt binnen dertig dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk dertig dagen na de ontvangst van dat advies om de overkoepelende studentensportvereniging al dan niet te subsidiëren.
 
 ### ART. 18.
 
@@ -100,19 +169,33 @@ Het jaarlijkse verslag over de uitvoering van het sportbeleidsplan, vermeld in a
 
 ### ART. 19.
 
-Het jaarlijkse verslag moet door de algemene vergadering van de overkoepelende studentensportvereniging worden goedgekeurd.<br /><br />Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar na het jaar waarop het verslag betrekking heeft, aan het Bloso worden bezorgd.
+Het jaarlijkse verslag moet door de algemene vergadering van de overkoepelende studentensportvereniging worden goedgekeurd.<br>
+<br>
+Het jaarlijkse verslag moet jaarlijks voor 1 april van het jaar na het jaar waarop het verslag betrekking heeft, aan Sport Vlaanderen worden bezorgd.
 
 ## Afdeling V Uitbetaling en regularisatie of terugvordering van subsidies
 
 ### ART. 20.
 
-§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br /><br />Het voorschot bedraagt 80 % van de geraamde subsidie waarop de overkoepelende studentensportvereniging recht zal hebben voor het betrokken jaar. De geraamde subsidie wordt berekend op basis van de personeelssituatie op 1 januari van het betrokken jaar.<br /><br />Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 1 juli van het jaar na het betreffende begrotingsjaar van de olympiade.<br /><br />§ 2. Overeenkomstig artikel 57 en 58 van de wetten op de Rijkscomptabiliteit is de erkende overkoepelende studentensportvereniging gehouden tot de onmiddellijke terugbetaling van de subsidie of wordt de uitkering van de subsidie onmiddellijk opgeschort in de in deze artikelen bepaalde gevallen.<br /><br />Het Bloso kan op elk moment ter plaatse controle uitoefenen op de uitvoering van de opdracht en de aanwending van de subsidies.
+§ 1. Als de minister het sportbeleidsplan voor subsidiëring heeft aanvaard en als voldaan is aan alle subsidiëringsvoorwaarden, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar van de olympiade.<br>
+<br>
+Het voorschot bedraagt 80 % van de geraamde subsidie waarop de overkoepelende studentensportvereniging recht zal hebben voor het betrokken jaar. De geraamde subsidie wordt berekend op basis van de personeelssituatie op 1 januari van het betrokken jaar.<br>
+<br>
+Nadat de minister het jaarlijkse verslag aanvaard heeft, wordt het saldo van de subsidies uitbetaald voor 1 juli van het jaar na het betreffende begrotingsjaar van de olympiade.<br>
+<br>
+§ 2. Overeenkomstig artikel 57 en 58 van de wetten op de Rijkscomptabiliteit is de erkende overkoepelende studentensportvereniging gehouden tot de onmiddellijke terugbetaling van de subsidie of wordt de uitkering van de subsidie onmiddellijk opgeschort in de in deze artikelen bepaalde gevallen.<br>
+<br>
+Sport Vlaanderen kan op elk moment ter plaatse controle uitoefenen op de uitvoering van de opdracht en de aanwending van de subsidies.
 
 ## Afdeling VI Procedure voor intrekking van de subsidiëring
 
 ### ART. 21.
 
-Als het Bloso vaststelt dat de overkoepelende studentensportvereniging niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt het Bloso de overkoepelende studentensportvereniging op de hoogte van de vastgestelde overtredingen.<br /><br />De overkoepelende studentensportvereniging krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt het Bloso een gemotiveerd advies op over de mogelijke sancties.<br /><br />De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de overkoepelende studentensportvereniging, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen. De beslissing wordt aan de overkoepelende studentensportvereniging meegedeeld per aangetekende brief.
+Als Sport Vlaanderen vaststelt dat de overkoepelende studentensportvereniging niet meer voldoet aan de subsidiëringsvoorwaarden, of als zwaarwegende feiten de intrekking van de subsidiëring in het belang van de Vlaamse Gemeenschap verantwoorden, brengt Sport Vlaanderen de overkoepelende studentensportvereniging op de hoogte van de vastgestelde overtredingen.<br>
+<br>
+De overkoepelende studentensportvereniging krijgt de mogelijkheid om haar standpunt over die overtredingen schriftelijk mee te delen. Daarna stelt Sport Vlaanderen een gemotiveerd advies op over de mogelijke sancties.<br>
+<br>
+De minister beslist, na kennisname van dat advies en, in voorkomend geval, van het meegedeelde standpunt van de overkoepelende studentensportvereniging, om de subsidiëring geheel of gedeeltelijk in te trekken en het voorschot in voorkomend geval terug te vorderen. De beslissing wordt aan de overkoepelende studentensportvereniging meegedeeld per aangetekende brief.
 
 ## HOOFDSTUK IV Slotbepalingen
 
