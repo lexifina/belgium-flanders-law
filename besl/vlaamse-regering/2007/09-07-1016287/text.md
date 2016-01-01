@@ -14,13 +14,13 @@ Dit besluit heeft betrekking op Brownfieldconvenanten als bedoeld in het decreet
 
 ### ART. 2.
 
-Binnen een termijn van veertien kalenderdagen na de ondertekening van het Brownfieldconvenant, bezorgt het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed een afschrift van het Brownfieldconvenant aan :<br />1° het Agentschap Ondernemen;<br />2° de gemeente(n) op wiens grondgebied het Brownfieldconvenant betrekking heeft.<br /><br />Voor de toepassing van het eerste lid wordt onder « afschrift » verstaan :<br />1° hetzij een fotokopie;<br />2° hetzij een digitale kopie.<br /><br />
+Binnen een termijn van veertien kalenderdagen na de ondertekening van het   Brownfieldconvenant, bezorgt het departement Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed een afschrift van het Brownfieldconvenant aan :<BR>1° het   Agentschap Innoveren en Ondernemen;<BR>2° de gemeente(n) op wiens grondgebied   het Brownfieldconvenant betrekking heeft.<BR><BR>Voor de toepassing van het   eerste lid wordt onder « afschrift » verstaan :<BR>1° hetzij een   fotokopie;<BR>2° hetzij een digitale kopie.<BR><BR>
 
 ## HOOFDSTUK 3 Informatieplichten van het [Agentschap Innoveren en Ondernemen (verv. BVR 18 december 2015, art. 53, I: 1 januari 2016)]
 
 ### ART. 3.
 
-§ 1. Het  Agentschap Ondernemen houdt een digitale inventaris van de Brownfieldconvenanten bij.<br />De inventaris bevat per Brownfieldconvenant ten minste de volgende informatie :<br />1° de titel, datum en referentienummer van het Brownfieldconvenant;<br />2° het adres en de kadastrale omschrijving van de gronden die het voorwerp uitmaken van het Brownfieldconvenant;<br />3° het overzicht van de actoren en regisseurs die bij het Brownfieldconvenant betrokken zijn;<br />4° de duurtijd van het Brownfieldconvenant.<br /><br />§ 2. De inventaris van afgesloten Brownfieldconvenanten is te allen tijde raadpleegbaar via de website van het Agentschap Ondernemen.<br /><br />
+§ 1. Het Agentschap Innoveren en Ondernemen houdt een digitale inventaris   van de Brownfieldconvenanten bij.<BR>De inventaris bevat per Brownfieldconvenant   ten minste de volgende informatie :<BR>1° de titel, datum en referentienummer   van het Brownfieldconvenant;<BR>2° het adres en de kadastrale omschrijving van   de gronden die het voorwerp uitmaken van het Brownfieldconvenant;<BR>3° het   overzicht van de actoren en regisseurs die bij het Brownfieldconvenant betrokken   zijn;<BR>4° de duurtijd van het Brownfieldconvenant.<BR><BR>§ 2. De inventaris   van afgesloten Brownfieldconvenanten is te allen tijde raadpleegbaar via de   website van het Agentschap Innoveren en Ondernemen.<BR><BR>
 
 ## HOOFDSTUK 4 Informatieplichten van de instrumenterende ambtenaar
 
