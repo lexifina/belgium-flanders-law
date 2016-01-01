@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026102,
+  "title": "Ministerieel besluit van 2015-10-14 tot vaststelling van minimumeisen voor prebasispootgoed van aardappelen en tot vaststellingen van EU-klassen voor prebasispootgoed, basispootgoed en gecertificeerd pootgoed van aardappelen en van de daarvoor geldende eisen en aanduidingen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026102/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "6296d286cbe27a46ad3ced2887346c187f41c4691f10d95a1fc79b991a720416",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026102&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-10-14",
+  "gazette": "2015-11-20",
+  "numac": 2015036401,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
