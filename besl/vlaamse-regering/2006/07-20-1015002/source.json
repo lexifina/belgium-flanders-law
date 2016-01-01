@@ -2,16 +2,16 @@
   "codex_id": 1015002,
   "title": "Besluit van de Vlaamse Regering van 2006-07-20 tot wijziging van de besluiten van de Vlaamse Regering die inhoudelijk betrekking hebben op de werking van [het Agentschap Innoveren en Ondernemen (verv. BVR 18 december 2016, art. 39)]",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015002/VolledigDocument?datum=2009-01-01",
-  "source_sha256": "b26a40ff809fc5b9b9ea7374bcfd0bc7951d4419a9cee666358e30b8df1183b1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015002/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "c0787a53a62ca2e5d8dbbe8053179906ff8cce5148e73326229bf27a4bad7d87",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015002&param=informatie",
-  "as_of": "2009-01-01",
+  "as_of": "2016-01-01",
   "made": "2006-07-20",
   "gazette": "2006-10-03",
   "numac": 2006036477,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2009-01-01",
+  "in_force": "2016-01-01",
   "article_versions": 57,
-  "record_form": "consolidated version as in force on 2009-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

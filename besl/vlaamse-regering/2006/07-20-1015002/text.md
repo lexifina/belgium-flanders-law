@@ -262,7 +262,7 @@ Dit besluit treedt in werking op de datum waarop het besluit van 7 oktober 2005 
 
 ### ART. 54/1.
 
-Voor de toepassing van dit besluit moet, met ingang van 1 januari 2009 : <br />1° overal waar in dit besluit taken of bevoegdheden zijn opgelegd, respectievelijk toegewezen aan het Agentschap Economie, worden gelezen dat die taken en bevoegdheden toekomen aan het Agentschap Ondernemen;<br />2° overal waar in dit besluit taken of bevoegdheden zijn opgelegd, respectievelijk toegewezen aan het hoofd van het Agentschap Economie, worden gelezen dat die taken en bevoegdheden toekomen aan het hoofd van het Agentschap Ondernemen.
+Voor de toepassing van dit besluit moet, met ingang van 1 januari 2009 :   <BR>1° overal waar in dit besluit taken of bevoegdheden zijn opgelegd,   respectievelijk toegewezen aan het Agentschap Economie, worden gelezen dat die   taken en bevoegdheden toekomen aan het Agentschap Innoveren en Ondernemen;<BR>2°   overal waar in dit besluit taken of bevoegdheden zijn opgelegd, respectievelijk   toegewezen aan het hoofd van het Agentschap Economie, worden gelezen dat die   taken en bevoegdheden toekomen aan het hoofd van het Agentschap Innoveren en   Ondernemen.
 
 ### ART. 55.
 
