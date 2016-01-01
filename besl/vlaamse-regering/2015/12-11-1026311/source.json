@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026311,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-11 houdende de overdracht van de personeelsleden van de afdeling Sport van het Departement Cultuur, Jeugd, Sport en Media aan het agentschap Sport Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026311/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "b3950528ab1bba48778c5c69f80d5fe2208fdb39d13070a8b2f02244f4ea6b0f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026311&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2015-12-11",
+  "gazette": "2016-01-15",
+  "numac": 2015036647,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
