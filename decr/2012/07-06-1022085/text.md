@@ -75,6 +75,22 @@ De Vlaamse Regering bepaalt de procedure en de taken van het Bloso in het kader 
 
 ## Afdeling 2 De subsidiëring van de Vlaamse Gemeenschapscommissie voor het voeren van een Sport voor Allen-beleid
 
+### ART. 11.
+
+De Vlaamse beleidsprioriteiten Sport voor Allen voor de Vlaamse Gemeenschapscommissie zijn : <br />1° het ondersteunen van de kwalitatieve uitbouw van de sportverenigingen via een doelgericht subsidiebeleid; <br />2° het stimuleren van sportverenigingen tot professionalisering met een bijzonder accent op kwaliteitsvolle jeugdsportbegeleiding en eventueel tot onderlinge samenwerking;<br />3° het voeren van een activeringsbeleid met het oog op een levenslange sportparticipatie via een anders georganiseerd laagdrempelig beweeg- en sportaanbod;<br />4° het voeren van een beweeg- en sportbeleid met aandacht voor transversale samenwerking zodat kansengroepen gelijke kansen krijgen om actief te participeren in sport en met bijzondere aandacht voor het stimuleren van personen met een handicap tot sportbeoefening.<br /><br />De doelstellingen van de Vlaamse beleidsprioriteiten Sport voor Allen als vermeld in artikel 6, zijn van overeenkomstige toepassing op de Vlaamse beleidsprioriteiten Sport voor Allen van de Vlaamse Gemeenschapscommissie.<br /><br />
+
+### ART. 12.
+
+De Vlaamse Regering bepaalt de bestedingspercentages voor de Vlaamse   beleidsprioriteiten, vermeld in artikel 11, en de nadere voorwaarden waaraan   moet worden voldaan om voor subsidiëring in aanmerking te komen.<BR><BR>De   Vlaamse Regering bepaalt de procedure en de taken van het agentschap Sport   Vlaanderen in het kader van de aanvraag en behandeling van de subsidiëring, van   de controle op de aanwending van de subsidies, van de planning en de   rapportering en van de wijze waarop de subsidies worden uitbetaald.<BR><BR>De   subsidiëring wordt verleend, geheel of gedeeltelijk geweigerd of ingetrokken   onder de voorwaarden, binnen de termijnen en volgens de vorm en de procedure die   door de Vlaamse Regering wordt bepaald.<BR><BR>
+
+### ART. 13.
+
+Binnen de perken van de begroting subsidieert de Vlaamse Regering de uitvoering van de Vlaamse beleidsprioriteiten, vermeld in artikel 11, met een bedrag van in totaal 750.000 euro per jaar als voldaan is aan de voorwaarden, vermeld in dit decreet, en aan de voorwaarden bepaald door de Vlaamse Regering.<br /><br />
+
+### ART. 14.
+
+De subsidie die de Vlaamse Regering toekent op basis van de Vlaamse beleidsprioriteiten, vermeld in artikel 11, wordt door de Vlaamse Gemeenschapscommissie met minstens 30 procent vermeerderd. De Vlaamse Gemeenschapscommissie besteedt dat bedrag aan de Vlaamse beleidsprioriteiten, vermeld in artikel 11.<br /><br />
+
 ## Afdeling 3 De sportraad [van de Vlaamse Gemeenschapscommissie (ing. decr. 22 december 2017, art. 35, I: 1 januari 2018)]
 
 ### ART. 15.
@@ -105,7 +121,7 @@ Binnen de perken van de begroting subsidieert de Vlaamse Regering de uitvoering 
 
 ### ART. 21.
 
-De Vlaamse Regering bepaalt de procedure en de taken van het Bloso in het kader van de beoordeling en goedkeuring van de aanvragen, van de wijze waarop de provincies op de hoogte gebracht worden van het jaarlijks toegekende subsidiebedrag, van de controle op de aanwending van de subsidies en van de behandeling van bezwaar.<br /><br />
+De Vlaamse Regering bepaalt de procedure en de taken van het agentschap   Sport Vlaanderen in het kader van de beoordeling en goedkeuring van de   aanvragen, van de wijze waarop de provincies op de hoogte gebracht worden van   het jaarlijks toegekende subsidiebedrag, van de controle op de aanwending van de   subsidies en van de behandeling van bezwaar.<BR><BR>
 
 ## HOOFDSTUK 4 Begeleiding, coördinatie en monitoring van de besturen in het kader van [het lokaal Sport voor Allen-beleid (verv. decr. 22 december 2017, art. 37, I: 1 januari 2018)]
 
@@ -113,7 +129,17 @@ De Vlaamse Regering bepaalt de procedure en de taken van het Bloso in het kader 
 
 ### ART. 22.
 
-§ 1. Om als organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen erkend te worden en te blijven, moet zij voldoen aan de volgende voorwaarden : <br />1° opgericht zijn volgens de wet waarbij aan de verenigingen zonder winstgevend doel rechtspersoonlijkheid wordt verleend;<br />2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br />3° in haar statuten de ondersteuning van lokale besturen in de uitvoering van het lokale sportbeleid als hoofddoelstelling hebben;<br />4° zich richten tot alle lokale besturen, opgenomen in dit decreet, voor de ondersteuning in de uitvoering van het lokale sportbeleid.<br /><br />§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden, de vorm, de termijnen en de te volgen procedure voor de aanvraag tot erkenning en de behandeling ervan door het Bloso.<br /><br />De erkenning van een organisatie voor de begeleiding van de besturen wordt verleend, geweigerd, geschorst of ingetrokken onder de voorwaarden, binnen de termijnen en volgens de vorm en de procedure die door de Vlaamse Regering wordt bepaald. <br /><br />De erkenning wordt voor de duur van de lokale beleidscyclus van de gemeenten en provincies, vermeld in artikel 2, 3°, van het Planlastendecreet, toegestaan.<br /><br />
+§ 1. Om als organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van het lokaal Sport voor Allen-beleid erkend te worden en te blijven, moet zij voldoen aan de volgende voorwaarden : 1° opgericht zijn volgens de wet waarbij aan de verenigingen zonder winstgevend doel rechtspersoonlijkheid wordt verleend;<br>
+2° haar zetel hebben in het Nederlandse taalgebied of in het tweetalige gebied Brussel-Hoofdstad;<br>
+3° in haar statuten de ondersteuning van lokale besturen in de uitvoering van het lokale sportbeleid als hoofddoelstelling hebben;<br>
+4° zich richten tot alle lokale besturen, opgenomen in dit decreet,&nbsp;voor de ondersteuning in de uitvoering van het lokale sportbeleid.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de nadere voorwaarden, de vorm, de termijnen en de te volgen procedure voor de aanvraag tot erkenning en de behandeling ervan door het agentschap Sport Vlaanderen.<br>
+<br>
+De erkenning van een organisatie voor de begeleiding van de besturen wordt verleend, geweigerd, geschorst of ingetrokken onder de voorwaarden, binnen de termijnen en volgens de vorm en de procedure die door de Vlaamse Regering wordt bepaald.<br>
+<br>
+De erkenning wordt voor de duur van de lokale beleidscyclus van de gemeenten en provincies, vermeld in artikel 2, 3°, van het Planlastendecreet, toegestaan.<br>
+&nbsp;
 
 ### ART. 23.
 
@@ -152,7 +178,10 @@ De Vlaamse Regering bepaalt de nadere voorwaarden waaraan het werkingsverslag en
 
 ### ART. 27.
 
-De Vlaamse Regering bepaalt de nadere voorwaarden, de vorm, de termijnen en de te volgen procedure voor de subsidiëring van een erkende organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen en de behandeling ervan door het Bloso.<br /><br />De subsidiëring van een organisatie voor de begeleiding van de besturen wordt verleend, geweigerd, geschorst of ingetrokken onder de voorwaarden, binnen de termijnen en volgens de vorm en de procedure die door de Vlaamse Regering worden bepaald. <br /><br />
+De Vlaamse Regering bepaalt de nadere voorwaarden, de vorm, de termijnen en de te volgen procedure voor de subsidiëring van een erkende organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen en de behandeling ervan door het agentschap Sport Vlaanderen.<br>
+<br>
+De subsidiëring van een organisatie voor de begeleiding van de besturen wordt verleend, geweigerd, geschorst of ingetrokken onder de voorwaarden, binnen de termijnen en volgens de vorm en de procedure die door de Vlaamse Regering worden bepaald.<br>
+&nbsp;
 
 ## Afdeling 2 Erkenning en subsidiëring van een organisatie voor de coördinatie en de begeleiding van een pool van professionele begeleiders in de sport voor de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen
 
