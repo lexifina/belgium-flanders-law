@@ -166,6 +166,10 @@ De opname van een onroerend goed in een vastgestelde inventaris vormt,   uitgezo
 
 ## Afdeling 3 Code van goede praktijk
 
+### ART. 5.3.1.
+
+De Vlaamse Regering stelt een code van goede praktijk vast voor de   uitvoering van en rapportering over archeologisch vooronderzoek en   archeologische opgravingen en voor het gebruik van   metaaldetectoren.<BR>
+
 ## Afdeling 4 Archeologisch onderzoek bij vergunningsplichtige ingrepen in de bodem
 
 ## Onderafdeling 1 Verplichtingen vergunningsaanvrager
