@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027101,
+  "title": "Ministerieel besluit van 2016-06-22 tot delegatie van bepaalde bevoegdheden inzake het Asiel, Migratie en Integratie Fonds aan de leidend ambtenaar van het Departement Werk en Sociale Economie",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027101/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "901a31ea2135e73b4c2561186ae796ea3075625fde9126f1d32452fc02b8fa25",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027101&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-06-22",
+  "gazette": "2016-08-04",
+  "numac": 2016036120,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
