@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026469,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-22 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 13 juli 1994 inzake de erkenningsvoorwaarden en de subsidienormen voor de voorzieningen van de bijzondere jeugdbijstand, wat betreft de voorzieningen van categorie 8 en 9",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026469/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "2160a9696a45fddfb75b34a7f6cccdd57af2e4590a0d462dc64d2a99b9d12895",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026469&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-01-22",
+  "gazette": "2016-02-11",
+  "numac": 2016035122,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
