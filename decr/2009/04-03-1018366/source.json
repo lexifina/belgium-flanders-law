@@ -2,16 +2,16 @@
   "codex_id": 1018366,
   "title": "Decreet van 2009-04-03 houdende de toekenning van subsidies voor de uitbouw, de coördinatie en de promotie van het sportaanbod van de [studentensportvoorzieningen] van de Vlaamse universiteiten en hogescholen en de erkenning en subsidiëring van een Vlaamse overkoepelende [studentensportorganisatie]",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018366/VolledigDocument?datum=2009-09-18",
-  "source_sha256": "8e376602dbb61f37bc8ee81eb991c30c29ffb981b17a95a4638efd120fc44f76",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018366/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "5eceebc8eebfce73b2dfc27226dbf674ab08e10f72298774e57d596557d54c72",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018366&param=informatie",
-  "as_of": "2009-09-18",
+  "as_of": "2016-01-01",
   "made": "2009-04-03",
   "gazette": "2009-09-18",
   "numac": 2009035897,
   "document_start": "2009-09-18",
   "document_end": null,
-  "in_force": "2009-09-18",
+  "in_force": "2016-01-01",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2009-09-18; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }
