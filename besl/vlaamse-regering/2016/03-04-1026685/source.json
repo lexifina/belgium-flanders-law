@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026685,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-04 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de fusie van het Agentschap Ondernemen en het Agentschap voor Innovatie door Wetenschap en Technologie tot het Agentschap Innoveren en Ondernemen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026685/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "ed76ee2a36c6301f8e6aae0e9a49ac9b7bbf4112500c6c7f4158baccaf2db5c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026685&param=informatie",
+  "as_of": "2016-01-01",
+  "made": "2016-03-04",
+  "gazette": "2016-04-07",
+  "numac": 2016035406,
+  "document_start": "2016-01-01",
+  "document_end": null,
+  "in_force": "2016-01-01",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
