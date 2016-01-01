@@ -2,16 +2,16 @@
   "codex_id": 1014154,
   "title": "Besluit van de Vlaamse Regering van 2005-12-02 houdende [de] aangifte voor de vestiging en de invordering van de GRB-heffingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014154/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "81486a081c65c3720b133d7668004e21bca6fc2d97850c40f337118004f43d76",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014154/VolledigDocument?datum=2016-01-01",
+  "source_sha256": "4525938c31c6dc713ef2bede1dccbf805532b51733d80a71bf9067ce3f4e6d25",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014154&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-01-01",
   "made": "2005-12-02",
   "gazette": "2005-12-28",
   "numac": 2005036555,
   "document_start": "2005-12-28",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2016-01-01",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
 }

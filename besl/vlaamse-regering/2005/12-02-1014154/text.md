@@ -2,15 +2,18 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° het decreet: het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br />2° GRB-product: een digitaal extract van de in het GRB opgenomen grootschalige referentiegegevens, toegankelijk gemaakt in een gestandaardiseerde vorm conform de GRB-specificaties, vermeld in artikel 6 van het decreet;<br />3° het Agentschap voor Geografische Informatie Vlaanderen, hierna het Agentschap te noemen : het publiekrechtelijk vormgegeven extern verzelfstandigde Agentschap voor Geografische Informatie Vlaanderen, vermeld in artikel 2, 4°, van het decreet.<br />
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° het decreet: het decreet van 16 april 2004 houdende het Grootschalig Referentie Bestand;<br>
+2° GRB-product: een digitaal extract van de in het GRB opgenomen grootschalige referentiegegevens, toegankelijk gemaakt in een gestandaardiseerde vorm conform de GRB-specificaties, vermeld in artikel 6 van het decreet;<br>
+3° agentschap: het intern verzelfstandigd agentschap Informatie Vlaanderen, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016 houdende de oprichting van het intern verzelfstandigd agentschap Informatie Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder vereffening van het AGIV, de regeling van de overdracht van de activiteiten en het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen Informatie Vlaanderen.
 
 ### ART. 2.
 
-Ieder heffingsjaar verstuurt het&nbsp;Agentschap een aangifteformulier aan de netbeheerders van fysieke leidingnetten die aanwezig zijn in projectzones waarvoor een GRB-product beschikbaar is. Het aangifteformulier bestaat uit een identificatieformulier, een aangiftetabel detailnet en een aangiftetabel vervoersnet. Het model van aangifteformulier is als bijlage bij dit besluit gevoegd.
+Ieder heffingsjaar verstuurt het&nbsp;agentschap een aangifteformulier aan de netbeheerders van fysieke leidingnetten die aanwezig zijn in projectzones waarvoor een GRB-product beschikbaar is. Het aangifteformulier bestaat uit een identificatieformulier, een aangiftetabel detailnet en een aangiftetabel vervoersnet. .
 
 ### ART. 3.
 
-De netbeheerder van een fysiek leidingnet vult het aangifteformulier juist   en volledig in en dient zijn ondertekende aangifte in bij het&nbsp;Agentschap   binnen de termijnen vermeld in artikel 32, § 2 van het decreet.
+De netbeheerder van een fysiek leidingnet vult het aangifteformulier juist en volledig in en dient zijn ondertekende aangifte in bij het&nbsp;agentschap binnen de termijnen vermeld in artikel 32, § 2 van het decreet.
 
 ### ART. 4.
 
@@ -30,4 +33,4 @@ De Vlaamse minister, bevoegd voor de Landinrichting en het Natuurbehoud, is bela
 
 ### BIJLAGE
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2005/12/28_1.pdf#page=169">http://www.ejustice.just.fgov.be/mopdf/2005/12/28_1.pdf#page=169</a>
+...
