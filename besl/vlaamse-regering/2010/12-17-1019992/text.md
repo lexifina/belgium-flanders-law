@@ -6,16 +6,16 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 2009 betreffen
 
 ### ART. 1.
 
-De volgende verenigingen, die tot doel hebben radioprogramma's te verzorgen die rechtstreeks zijn afgestemd op het verschaffen van opiniëring vanuit representatieve levensbeschouwelijke stromingen in Vlaanderen, worden erkend : <br />1° VZW Katholieke Televisie- en Radio-omroep, Abdij Vlierbeek 3, 3010 Kessel-Lo;<br />2° VZW Humanistisch Vrijzinnige Radio-omroep, Lange Leemstraat 57, 2018 Antwerpen;<br />3° VZW Pro-Erts, Brogniezstraat 44, 1070 Brussel;<br />4° Israëlitisch-Godsdienstige Uitzendingen VZW, J. Dupontstraat 2, 1000 Brussel;<br />5° Orthodoxe Kerk in België, Charbolaan 71, 1030 Brussel;<br />6° Moslim Televisie- en Radio Omroep VZW, Lakensestraat 166, 1000 Brussel.<br /><br />
+...
 
 ### ART. 2.
 
-De volgende organisatie die de belangen van de gezinnen behartigt in Vlaanderen en Brussel wordt erkend : <br />VZW Gezinsbond, Troonstraat 125, 1050 Brussel.<br /><br />
+...
 
 ### ART. 3.
 
-De erkenning geldt voor een duur van vijf jaar.<br /><br />
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 januari 2011.<br /><br />
+...
