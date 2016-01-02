@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-In   het artikel 24 van het ministerieel besluit van 18 december 2014 houdende   tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee,   gewijzigd bij de ministeriële besluiten van 30 maart 2015 en 15 juni 2015,   worden volgende wijzigingen aangebracht:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1, derde lid, wordt het getal "300" vervangen door het getal   "400";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 2, derde lid, wordt het getal "600" vervangen door het getal   "800";<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">3°   in paragraaf 3, derde lid, wordt het getal "700" vervangen door het getal   "800".<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-Aan   het artikel 27, paragraaf 8 van hetzelfde besluit, gewijzigd bij ministerieel   besluit van 30 maart 2015, wordt een vierde lid toegevoegd, dat luidt als   volgt:<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">"In   afwijking van het bepaalde in het tweede en het derde lid, worden de maximaal   toegelaten vangsthoeveelheden, die gerealiseerd zijn door een vissersvaartuig   dat volgens de Officiële lijst der Belgische vissersvaartuigen 2015 uitsluitend   is uitgerust met de zegen, verviervoudigd."<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-Dit   besluit treedt in werking op 16 november 2015 en houdt op van kracht te zijn op   1 januari 2016.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+...
