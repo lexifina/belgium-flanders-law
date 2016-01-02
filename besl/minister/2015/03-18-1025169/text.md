@@ -18,7 +18,7 @@ Het   dopingcontroleformulier vermeld in artikel 37, § 1, eerste lid van het be
 
 ### ART. 2.
 
-Elke   onregelmatigheid die een controlearts in het kader van een dopingcontrole   vaststelt, met inbegrip van een vermoedelijke dopingpraktijk, aangifteverzuim,   gemiste dopingtest of niet-nakoming van de verblijfsgegevensverplichtingen,   wordt gerapporteerd in het aanvullend verslag waarvan het model opgenomen is in   bijlage 2, die bij dit besluit is gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+<P>Elke onregelmatigheid die een controlearts in het kader van een   dopingcontrole vaststelt, wordt gerapporteerd in het aanvullend verslag waarvan   het model opgenomen is in bijlage 2, die bij dit besluit is gevoegd.<BR><BR>Van   elke mislukte poging om een monster af te nemen bij een sporter die deel   uitmaakt van de nationale doelgroep, wordt een rapport van mislukte poging   opgemaakt waarvan het model opgenomen is in bijlage 7, die bij dit besluit is   gevoegd.</P>
 
 ### ART. 3.
 
@@ -46,11 +46,11 @@ Het   ministerieel besluit van 11 april 2013 tot vaststelling van het oproepings
 
 ### BIJLAGE 3
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=54">Bijlage   3</A>
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/23_1.pdf#page=164">Bijlage   3</A>
 
 ### BIJLAGE 4
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=57">Bijlage   4</A>
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/23_1.pdf#page=165">Bijlage   4</A>
 
 ### BIJLAGE 5
 
@@ -59,3 +59,7 @@ Het   ministerieel besluit van 11 april 2013 tot vaststelling van het oproepings
 ### BIJLAGE 6
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=65">Bijlage   6</A>
+
+### BIJLAGE 7.
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/23_1.pdf#page=166">Bijlage   7</A>
