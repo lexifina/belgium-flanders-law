@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026243,
+  "title": "Ministerieel besluit van 2015-12-11 tot wijziging van het ministerieel besluit van 17 november 2014 betreffende de opleiding tot verslaggever en de opleidingsinstellingen bedoeld in artikel 8.6.1 en 8.6.3 van het Energiebesluit van 19 november 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026243/VolledigDocument?datum=2016-01-03",
+  "source_sha256": "c4def169b930b3951ad7ae84e97c29dd3d1e81889e0af3905610d8d022ea7e91",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026243&param=informatie",
+  "as_of": "2016-01-03",
+  "made": "2015-12-11",
+  "gazette": "2015-12-24",
+  "numac": 2015036600,
+  "document_start": "2016-01-03",
+  "document_end": null,
+  "in_force": "2016-01-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-03; oldest version available; future article versions excluded; article text as the API gives it"
+}
