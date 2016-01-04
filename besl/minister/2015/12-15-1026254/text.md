@@ -6,6 +6,10 @@ De   Vlaamse minister van Begroting, Financiën en Energie,<BR   style="WIDOWS: 
 
 ## HOOFDSTUK I. Wijziging aan het ministerieel besluit van 13 januari 2006 betreffende de vorm en inhoud van de startverklaring
 
+### ART. 1.
+
+De bijlage van het ministerieel besluit van 13 januari 2006 betreffende de   vorm en inhoud van de startverklaring, vervangen bij ministerieel besluit van 21   april 2015, wordt vervangen door de bijlage 1, die bij dit besluit is   gevoegd.
+
 ## HOOFDSTUK II. Wijziging aan het ministerieel besluit van 20 oktober 2006 over het vaststellen van minimale voorwaarden bij de opname van gegevens in de Energieprestatiedatabank
 
 ### ART. 2.
@@ -13,6 +17,18 @@ De   Vlaamse minister van Begroting, Financiën en Energie,<BR   style="WIDOWS: 
 <P>Aan   artikel 1, tweede lid van het ministerieel besluit van 20 oktober 2006 over het   vaststellen van minimale voorwaarden bij de opname van gegevens in de   Energieprestatiedatabank, gewijzigd bij ministerieel besluit van 1 december 2010   en 16 december 2014, wordt een punt 13 toegevoegd, dat luidt als   volgt:</P>  <P>"13°   in voorkomend geval, het geldende E-peil en het geldende K-peil, indien voor de   vergunning strengere gemeentelijke eisen gelden."</P>
 
 ## HOOFDSTUK III. Wijzigingen aan het ministerieel besluit van 2 april 2007 betreffende de vastlegging van de vorm en de inhoud van de EPB-aangifte en het model van het energieprestatiecertificaat bij de bouw
+
+### ART. 3.
+
+Bijlage   1 van het ministerieel besluit van 2 april 2007 betreffende de vastlegging van   de vorm en de inhoud van de EPB-aangifte en het model van het   energieprestatiecertificaat bij de bouw, vervangen bij ministerieel besluit van   21 april 2015, wordt vervangen door de bijlage 2, die bij dit besluit is   gevoegd.
+
+### ART. 4.
+
+Bijlage 2ter van hetzelfde ministerieel besluit, vervangen   bij ministerieel besluit van 18 mei 2014, wordt vervangen door de bijlage 3, die   bij dit besluit is gevoegd.
+
+### ART. 5.
+
+Bijlage 3 van hetzelfde ministerieel besluit, vervangen bij   ministerieel besluit van 16 december 2014, wordt vervangen door de bijlage 4,   die bij dit besluit is gevoegd.
 
 ## HOOFDSTUK IV. Slotbepaling
 
