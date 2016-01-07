@@ -2,16 +2,16 @@
   "codex_id": 1026256,
   "title": "Besluit van de Vlaamse Regering van 2015-12-18 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft aanpassingen aan diverse bepalingen inzake de energieprestatieregelgeving",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026256/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "3048c5ab7cd3df37506e83938c3329688074c6b0d64f2f349f790fbd56ba8b38",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026256/VolledigDocument?datum=2016-01-07",
+  "source_sha256": "5b1532a5d25ad7d9226a1ec8d5e8b7bb1109b0343a8a291eed8299cf8273615f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026256&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-01-07",
   "made": "2015-12-18",
   "gazette": "2015-12-28",
   "numac": 2015036588,
   "document_start": "2016-01-07",
   "document_end": null,
-  "in_force": "2016-01-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-07",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2016-01-07; future article versions excluded; article text as the API gives it"
 }
