@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026246,
+  "title": "Decreet van 2015-11-27 houdende instemming met de overeenkomst tussen de regering van het Koninkrijk België en de regering van het Eiland Man tot het vermijden van dubbele belasting en tot het voorkomen van het ontduiken van belasting inzake belastingen naar het inkomen, en het protocol, beide ondertekend te Brussel op 16 juli 2009",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026246/VolledigDocument?datum=2016-01-08",
+  "source_sha256": "6851f41ec070a67115f6285c4b8700b223bbd7634122f19017b3b0a3e349bbf0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026246&param=informatie",
+  "as_of": "2016-01-08",
+  "made": "2015-11-27",
+  "gazette": "2015-12-29",
+  "numac": 2015036571,
+  "document_start": "2016-01-08",
+  "document_end": null,
+  "in_force": "2016-01-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
