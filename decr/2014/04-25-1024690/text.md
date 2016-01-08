@@ -16,6 +16,12 @@
 
 ## Afdeling 7 Rapportage naleving beslissingstermijnen
 
+## [Afdeling 8 Digitalisering (ing. decr. 18 december 2015, art. 127, I: 8 januari 2016)]
+
+### ART. 14/1.
+
+De procedures, vermeld in dit decreet, en de procedures die door dit   decreet in andere decreten gewijzigd of ingevoerd worden, kunnen geheel of   gedeeltelijk digitaal verlopen, conform de regels die de Vlaamse Regering   bepaalt.<BR><BR>Zij kan ook nadere regels uitwerken in geval van   onbeschikbaarheid wegens technische storingen van het door Vlaanderen ter   beschikking gestelde digitaal systeem, en hierbij de termijnen van de   procedures, vermeld in dit decreet, opschorten of verlengen voor de duur van de   technische storingen.
+
 ## Afdeling 1 Algemene bepalingen
 
 ## Afdeling 1 Algemene bepalingen
@@ -72,6 +78,14 @@
 
 ## Afdeling 8 Wijzigingen van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid
 
+### ART. 203.
+
+<P>...</P>
+
+### ART. 220.
+
+<P>...</P>
+
 ## Afdeling 9 Wijzigingen van het decreet van 19 april 1995 houdende maatregelen ter bestrijding en voorkoming van leegstand en verwaarlozing van bedrijfsruimten
 
 ## Afdeling 10 Wijzigingen van het decreet van 22 december 1995 houdende bepalingen tot begeleiding van de begroting 1996
@@ -121,6 +135,10 @@
 ## Afdeling 1 Opheffingsbepalingen
 
 ## Afdeling 2 Overgangsmaatregelen voor vergunningen, meldingen of erkenningen met toepassing van het decreet van 28 juni 1985 betreffende de milieuvergunning
+
+### ART. 390/1.
+
+§ 1. De vergunningstermijn van een milieuvergunning verleend voor de   exploitatie van een inrichting met een stikstofdepositie, die overeenkomstig   artikel 388, § 1, verstrijkt voor 31 december 2018, wordt verlengd tot uiterlijk   31 december 2018, mits voldaan wordt aan paragraaf 2, tenzij bij het ontbreken   van een operationele programmatische aanpak stikstofdeposities deze laatste   datum wordt vervangen door een latere datum die wordt vastgesteld door de   Vlaamse Regering.<BR><BR>Onder inrichting met een stikstofdepositie, vermeld in   het eerste lid, wordt verstaan een inrichting waarvan de stikstofdepositie   volgens de depositiescan een risico inhoudt op een betekenisvolle aantasting van   de natuurlijke kenmerken van een speciale beschermingszone, vermeld in artikel   2, 43°, van het decreet van 21 oktober 1997 betreffende het natuurbehoud en het   natuurlijk milieu.<BR><BR>Deze depositiescan, zoals aanvaard door de Vlaamse   Regering, geeft als onderdeel van de online-voortoets aan of er een risico is op   een betekenisvolle aantasting van de natuurlijke kenmerken van de speciale   beschermingszones, vermeld in artikel 2, 43°, van het decreet van 21 oktober   1997 betreffende het natuurbehoud en het natuurlijk milieu, voor wat betreft de   gevolgen van stikstofneerslag via de lucht onder vorm van verzuring en   vermesting in de betrokken speciale beschermingszone. In dit artikel wordt   verstaan onder de online-voortoets: een via het internet beschikbaar gesteld   instrument dat op een gestandaardiseerde en geautomatiseerde wijze een   berekening maakt van de milieudruk vanuit een voorgenomen vergunningsplichtige   activiteit en deze milieudruk onder vorm van mathematische grootheden uitzet ten   opzichte van de gevoeligheid van de habitats en soorten waarvoor   instandhoudingsdoelstellingen voor de betreffende speciale beschermingszone zijn   vastgesteld volgens artikel 36ter, § 1, van het decreet van 21 oktober 1997   betreffende het natuurbehoud en het natuurlijk milieu. De online-voortoets   levert levert een rapport af waarin de ingevoerde gegevens en de beoordeling van   het hierboven vermelde risico vermeld worden. Dit gebeurt in termen van het al   dan niet uitsluiten van een betekenisvolle aantasting van de natuurlijke   kenmerken van de speciale beschermingszone, met name in de zone waar het voor de   berekende milieudruk gevoelige habitat of leefgebied van een soort voorkomt, of   gecreëerd wordt of tot doel kan worden gesteld in het kader van de   instandhoudingsdoelen overeenkomstig de daartoe in het kader van de   instandhoudingsdoelstellingen toe te passen zoekzone. De toetsing gebeurt vanuit   de locatie van de voorgenomen vergunningsplichtige activiteit.<BR><BR>§ 2. Voor   de verlenging van de vergunning, vermeld in paragraaf 1, moet de   vergunninghouder vóór het verstrijken van de vergunningstermijn een verzoek   indienen bij de bevoegde vergunningverlenende overheid.<BR><BR>De bevoegde   vergunningverlenende overheid neemt akte van het verzoek als aan de   toepassingsvoorwaarden van paragraaf 1 en 2 is voldaan.<BR><BR>De aktename geldt   als bevestiging dat de milieuvergunning is verlengd overeenkomstig paragraaf   1.<BR><BR>Tegen die akte kan geen administratief beroep worden ingediend als aan   de toepassingsvoorwaarden vermeld in paragraaf 1 en 2 is voldaan.<BR><BR>Het   ingediende verzoek, bevat het rapport van de uitgevoerde depositiescan op datum   van het indienen van het verzoek, met daarin minstens vermeld, de ingevoerde   gegevens en het eindresultaat van deze depositiescan. De invoer van de gegevens   is in overeenstemming met de milieuvergunning vigerend op datum van het indienen   van het verzoek.<BR><BR>§ 3. Deze bepalingen laten het verval van de vergunning,   vermeld in artikel 99, § 2 en § 3, onverkort bestaan.
 
 ### ART 391/1.
 
