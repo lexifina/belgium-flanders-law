@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026247,
+  "title": "Decreet van 2015-11-27 houdende instemming met het samenwerkingsakkoord van 2 april 2015 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest tot wijziging van het samenwerkingsakkoord van 4 november 2008 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de preventie en het beheer van verpakkingsafval",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026247/VolledigDocument?datum=2016-01-08",
+  "source_sha256": "e6d1eb0a5e1322083e80c825370b6c31d09d51597c21157c584fd60533665fd4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026247&param=informatie",
+  "as_of": "2016-01-08",
+  "made": "2015-11-27",
+  "gazette": "2015-12-29",
+  "numac": 2015036572,
+  "document_start": "2016-01-08",
+  "document_end": null,
+  "in_force": "2016-01-08",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
