@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026249,
+  "title": "Decreet van 2015-12-04 houdende wijziging van het Kunstendecreet van 13 december 2013, wat de voorwaarden van de Algemene Groepsvrijstellingsverordening betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026249/VolledigDocument?datum=2016-01-08",
+  "source_sha256": "c6ebbfb41d3355ef78c4d83829103b080d5f1b3864d9ce66b2a919870993ae48",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026249&param=informatie",
+  "as_of": "2016-01-08",
+  "made": "2015-12-04",
+  "gazette": "2015-12-29",
+  "numac": 2015036574,
+  "document_start": "2016-01-08",
+  "document_end": null,
+  "in_force": "2016-01-08",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
