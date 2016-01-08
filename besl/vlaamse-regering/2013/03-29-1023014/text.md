@@ -86,4 +86,4 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met   de ui
 
 ### BIJLAGE 3
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/07/02_1.pdf#page=41">Bijlage   3</A>
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2013/07/02_1.pdf#page=41">Bijlage   3</A><BR><BR>* Met ingang van 8 januari 2016 worden in bijlage 3 de woorden   "aangetekend versturen naar of afgeven bij" vervangen door de woorden   "schriftelijk of digitaal bezorgen aan" (Zie MB 22 januari 2016, art. 1, I: 8   januari 2016).
