@@ -2,16 +2,16 @@
   "codex_id": 1018245,
   "title": "Gecodificeerd Decreet van 2009-05-15 Vlaamse Codex Ruimtelijke Ordening [citeeropschrift: \"Vlaamse Codex Ruimtelijke Ordening\", afgekort \"VCRO\"]",
   "type": "Gecodificeerd Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018245/VolledigDocument?datum=2015-03-01",
-  "source_sha256": "df0cc31401cd24446be6c1cd807df636306971125b770ea66416a34ecee5496f",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1018245/VolledigDocument?datum=2016-01-08",
+  "source_sha256": "fce26b64990609ee8803bdd8c753ea88a61cdd61f04c2158cd1ff71dfed4ccb4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1018245&param=informatie",
-  "as_of": "2015-03-01",
+  "as_of": "2016-01-08",
   "made": "2009-05-15",
   "gazette": "2009-08-20",
   "numac": 2009035738,
   "document_start": "2009-09-01",
   "document_end": null,
-  "in_force": "2015-03-01",
-  "article_versions": 390,
-  "record_form": "consolidated version as in force on 2015-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-01-08",
+  "article_versions": 391,
+  "record_form": "consolidated version as in force on 2016-01-08; future article versions excluded; article text as the API gives it"
 }
