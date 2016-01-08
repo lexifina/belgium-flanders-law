@@ -206,7 +206,7 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 ### ART. 39.
 
-[... (vernietigd arrest 58/2017 van het Grondwettelijk Hof van 18 mei 2017)]
+<p>[... (vernietigd arrest 58/2017 van het Grondwettelijk Hof van 18 mei 2017)]</p>
 
 ### ART. 40.
 
