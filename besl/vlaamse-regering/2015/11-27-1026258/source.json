@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026258,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-27 houdende definitieve vaststelling van de kaarten van de historisch permanente graslanden in de landbouwstreek de Polders en houdende vaststelling van bijhorende beschermingsbepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026258/VolledigDocument?datum=2016-01-08",
+  "source_sha256": "f5494a27cebad8730253d07d05db634b67eef34af9713e0e6036898e31ef2204",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026258&param=informatie",
+  "as_of": "2016-01-08",
+  "made": "2015-11-27",
+  "gazette": "2015-12-29",
+  "numac": 2015036604,
+  "document_start": "2016-01-08",
+  "document_end": null,
+  "in_force": "2016-01-08",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-01-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
