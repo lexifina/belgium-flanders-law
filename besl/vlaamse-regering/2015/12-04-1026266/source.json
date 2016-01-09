@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026266,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 houdende het verlenen van instemming tot afwijking van de voorschriften van het gewestelijk ruimtelijk uitvoeringsplan `Afbakening Vlaams Strategisch gebied rond Brussel en aanpalende openruimte gebieden'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026266/VolledigDocument?datum=2016-01-09",
+  "source_sha256": "9926c4a0bc40879dbd1f4f20eabafb80a62d15b2f6dd6fec9f00a513e7654e0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026266&param=informatie",
+  "as_of": "2016-01-09",
+  "made": "2015-12-04",
+  "gazette": "2015-12-30",
+  "numac": 2015036595,
+  "document_start": "2016-01-09",
+  "document_end": null,
+  "in_force": "2016-01-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-01-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
