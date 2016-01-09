@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026275,
+  "title": "Ministerieel besluit van 2015-12-16 houdende de vaststelling van de grondprijscoëfficiënten 2015 per gemeente",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026275/VolledigDocument?datum=2016-01-09",
+  "source_sha256": "04445eb4f280af17f10359f18cb8d701273c28d17f1c7416678cfc31c33f5496",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026275&param=informatie",
+  "as_of": "2016-01-09",
+  "made": "2015-12-16",
+  "gazette": "2015-12-30",
+  "numac": 2015036627,
+  "document_start": "2016-01-09",
+  "document_end": null,
+  "in_force": "2016-01-09",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-01-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
