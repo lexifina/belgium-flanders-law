@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026264,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 houdende de nadere bepaling van de principes van goed bestuur in het kader van het decreet van 13 december 2013 houdende de ondersteuning van de professionele kunsten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026264/VolledigDocument?datum=2016-01-09",
+  "source_sha256": "9172c4cd3b81cfc730cd241192d288dcfae3710b08dbff016234648c7529f656",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026264&param=informatie",
+  "as_of": "2016-01-09",
+  "made": "2015-12-04",
+  "gazette": "2015-12-30",
+  "numac": 2015036594,
+  "document_start": "2016-01-09",
+  "document_end": null,
+  "in_force": "2016-01-09",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-01-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
