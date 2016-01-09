@@ -30,6 +30,10 @@ Artikel   79 van het decreet van 9 mei 2014 tot wijziging van de regelgeving inz
 
 &nbsp;De Vlaamse minister, bevoegd voor de   landinrichting en het natuurbehoud, is belast met de uitvoering van dit   besluit.
 
+### BIJLAGE 1.
+
+<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/29_1.pdf#page=284">Bijlage   1</A>
+
 ### BIJLAGE 2
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/29_1.pdf#page=285">Bijlage   2</A>
