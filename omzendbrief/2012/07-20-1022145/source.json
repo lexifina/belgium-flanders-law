@@ -2,16 +2,16 @@
   "codex_id": 1022145,
   "title": "Omzendbrief van 2012-07-20 FB/2012/1 - Interpretatie van de regeling met betrekking tot overdrachten van familiale ondernemingen en vennootschappen zoals ingevoegd bij hoofdstuk 17 van het decreet van 23 december 2011",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022145/VolledigDocument?datum=2012-09-02",
-  "source_sha256": "03f37c7669393d6c8d74bf7c7f44e02eb41f8eee8ad286e096a90dfa55b1da60",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022145/VolledigDocument?datum=2016-01-10",
+  "source_sha256": "67b7f4e0086da8c5913c16fd3f19430ef1ffa6b3eba2717b9544b1e94498759f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022145&param=informatie",
-  "as_of": "2012-09-02",
+  "as_of": "2016-01-10",
   "made": "2012-07-20",
   "gazette": "2012-08-23",
   "numac": 2012035955,
   "document_start": "2012-09-02",
   "document_end": "2016-01-09",
-  "in_force": "2012-09-02",
+  "in_force": "2016-01-10",
   "article_versions": 18,
-  "record_form": "consolidated version as in force on 2012-09-02; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-10; future article versions excluded; article text as the API gives it"
 }
