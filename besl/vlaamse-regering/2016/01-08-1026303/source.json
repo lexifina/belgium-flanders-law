@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026303,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-08 houdende wijziging van het Energiebesluit van 19 november 2010, wat betreft de invoering van een premie voor zero-emissie voertuigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026303/VolledigDocument?datum=2016-01-14",
+  "source_sha256": "8cfc9e567ea4c35d17e6f63f25c0cad20b01b609d8f0fbac35dc7b40a8844cc0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026303&param=informatie",
+  "as_of": "2016-01-14",
+  "made": "2016-01-08",
+  "gazette": "2016-01-14",
+  "numac": 2016035028,
+  "document_start": "2016-01-14",
+  "document_end": null,
+  "in_force": "2016-01-14",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-01-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
