@@ -2,7 +2,16 @@
 
 ### ART. 1.
 
-§ 1. Bijlage I van het koninklijk besluit van 2 oktober 1937 houdende het statuut van het rijkspersoneel is van overeenkomstige toepassing voor de kandidaten voor de in het tweede lid vermelde wervingsambten van het administratief personeel van de onderwijsinstellingen en de psycho-medisch-sociale centra van de Vlaamse Gemeenschap.<br /><br />Voor de toepassing van de bepalingen van bijlage I bij het koninklijk besluit van 2 oktober 1937 op de bedoelde kandidaten worden de ambten:<br />1° van opsteller of van secretaris-rekenplichtige gelijkgesteld met de graden van niveau 2;<br />2° van klerk, klerk-typist(e) of klerk-stenotypist(e) gelijkgesteld met de graden van niveau 3;<br />3° van bode-kamerbewaarder of van suppoost gelijkgesteld met de graden van niveau 4.<br /><br />Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens aangenomen, indien ze vergezeld gaan van een conformiteitsattest zoals bepaald in het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie <br /><br />§ 2. De bepalingen van § 1 zijn eveneens van toepassing voor de kandidaten voor de gesubsidieerde betrekkingen van het administratief personeel in de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen.
+§ 1. Bijlage I van het koninklijk besluit van 2 oktober 1937 houdende het statuut van het rijkspersoneel is van overeenkomstige toepassing voor de kandidaten voor de in het tweede lid vermelde wervingsambten van het administratief personeel van de onderwijsinstellingen en de psycho-medisch-sociale centra van de Vlaamse Gemeenschap.<br>
+<br>
+Voor de toepassing van de bepalingen van bijlage I bij het koninklijk besluit van 2 oktober 1937 op de bedoelde kandidaten worden de ambten:<br>
+1° van opsteller of van secretaris-rekenplichtige gelijkgesteld met de graden van niveau 2;<br>
+2° van klerk, klerk-typist(e) of klerk-stenotypist(e) gelijkgesteld met de graden van niveau 3;<br>
+3° van bode-kamerbewaarder of van suppoost gelijkgesteld met de graden van niveau 4.<br>
+<br>
+Diploma's of getuigschriften die buiten België uitgereikt zijn, worden eveneens aangenomen, indien ze vergezeld gaan van een conformiteitsattest zoals bepaald in het besluit van de Vlaamse Regering van 24 april 2009 betreffende de omzetting van de Europese Richtlijn 2005/36 voor wervingsambten in het onderwijs en voor sommige functies in de basiseducatie en het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36.<br>
+<br>
+§ 2. De bepalingen van § 1 zijn eveneens van toepassing voor de kandidaten voor de gesubsidieerde betrekkingen van het administratief personeel in de door de Vlaamse Gemeenschap gesubsidieerde onderwijsinstellingen.
 
 ### ART. 1bis.
 
