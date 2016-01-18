@@ -60,7 +60,7 @@ Het depot van het agentschap is van rechtswege erkend als   onroerenderfgoeddepo
 
 ### ART. 3.4.3.
 
-Met de in dit decreet bedoelde erkenning wordt gelijkgesteld een erkenning   in een andere lidstaat van de EU dan wel in een staat, niet zijnde een lidstaat   van de EU, die partij is bij de overeenkomst inzake de Europese Economische   Ruimte, welke op basis van onderzoekingen een beschermingsniveau biedt dat ten   minste gelijkwaardig is aan het niveau dat met de erkenning door dit decreet   wordt nagestreefd.<BR>
+...
 
 ## Afdeling 5 Aanduiding als erkende archeoloog
 
@@ -74,7 +74,7 @@ Het agentschap is van rechtswege aangeduid als een erkend   archeoloog.<BR>
 
 ### ART. 3.5.3.
 
-Met de in dit decreet bedoelde erkenning wordt gelijkgesteld een erkenning   in een andere lidstaat van de EU dan wel in een staat, niet zijnde een lidstaat   van de EU, die partij is bij de overeenkomst inzake de Europese Economische   Ruimte, welke op basis van onderzoekingen een beschermingsniveau biedt dat ten   minste gelijkwaardig is aan het niveau dat met de erkenning door dit decreet   wordt nagestreefd.<BR>
+...
 
 ## Afdeling 6 Aanduiding als erkende metaaldetectorist
 
@@ -88,7 +88,7 @@ Met de in dit decreet bedoelde erkenning wordt gelijkgesteld een erkenning   in 
 
 ### ART. 3.6.3.
 
-Met de in dit decreet bedoelde erkenning wordt gelijkgesteld een erkenning   in een andere lidstaat van de EU dan wel in een staat, niet zijnde een lidstaat   van de EU, die partij is bij de overeenkomst inzake de Europese Economische   Ruimte, welke op basis van onderzoekingen een beschermingsniveau biedt dat ten   minste gelijkwaardig is aan het niveau dat met de erkenning door dit decreet   wordt nagestreefd.<BR>
+...
 
 ## Afdeling 7 Kwaliteitslabel onroerenderfgoedondernemers
 
