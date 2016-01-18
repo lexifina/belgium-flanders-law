@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028213,
+  "title": "Decreet van 2017-02-24 tot gedeeltelijke omzetting van richtlijn 2005/36/EG van het Europees Parlement en de Raad van 7 september 2005 betreffende de erkenning van beroepskwalificaties",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028213/VolledigDocument?datum=2016-01-18",
+  "source_sha256": "0bcea6d1e1c46f7915ab87f0a6831599cd2566e4212a12ec052993df3edfc331",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028213&param=informatie",
+  "as_of": "2016-01-18",
+  "made": "2017-02-24",
+  "gazette": "2017-05-10",
+  "numac": 2017011836,
+  "document_start": "2016-01-18",
+  "document_end": null,
+  "in_force": "2016-01-18",
+  "article_versions": 45,
+  "record_form": "consolidated version as in force on 2016-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
