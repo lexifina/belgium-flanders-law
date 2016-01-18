@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028147,
+  "title": "Besluit van de Vlaamse Regering van 2017-03-10 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028147/VolledigDocument?datum=2016-01-18",
+  "source_sha256": "36f42cba9aac6c8b3d6320a8adc25a62aedc9a3be9e7bfa5309588d215ca03ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028147&param=informatie",
+  "as_of": "2016-01-18",
+  "made": "2017-03-10",
+  "gazette": "2017-04-14",
+  "numac": 2017011493,
+  "document_start": "2016-01-18",
+  "document_end": null,
+  "in_force": "2016-01-18",
+  "article_versions": 31,
+  "record_form": "consolidated version as in force on 2016-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
