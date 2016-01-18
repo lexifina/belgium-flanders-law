@@ -1,0 +1,17 @@
+{
+  "codex_id": 1032183,
+  "title": "Besluit van de Vlaamse Regering van 2019-06-28 tot wijziging van het besluit van de Vlaamse Regering van 10 maart 2017 betreffende de erkenning van beroepskwalificaties voor gereglementeerde beroepen in het onderwijs in het kader van de Europese Richtlijn 2005/36",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1032183/VolledigDocument?datum=2016-01-18",
+  "source_sha256": "fdd15909296703dd67227925a616f6cef0cd872dbf1907a2c48047eaa945af1e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1032183&param=informatie",
+  "as_of": "2016-01-18",
+  "made": "2019-06-28",
+  "gazette": "2019-08-30",
+  "numac": 2019014182,
+  "document_start": "2016-01-18",
+  "document_end": null,
+  "in_force": "2016-01-18",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
