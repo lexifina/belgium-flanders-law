@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026287,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-27 houdende wijziging van het koninklijk besluit van 21 september 2004 houdende vaststelling van de normen voor de bijzondere erkenning als rust- en verzorgingstehuis, als centrum voor dagverzorging of als centrum voor niet aangeboren hersenletsels",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026287/VolledigDocument?datum=2016-01-22",
+  "source_sha256": "89bb951e427b9f2743b48d1d86954420b28dea11cd5e6dc53e809dbe610f4647",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026287&param=informatie",
+  "as_of": "2016-01-22",
+  "made": "2015-11-27",
+  "gazette": "2016-01-12",
+  "numac": 2015036610,
+  "document_start": "2016-01-22",
+  "document_end": null,
+  "in_force": "2016-01-22",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
