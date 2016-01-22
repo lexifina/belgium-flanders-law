@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026288,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-27 tot wijziging van artikel 55quinquies van het besluit van de Vlaamse Regering van 12 oktober 2007 tot reglementering van het sociale huurstelsel ter uitvoering van titel VII van de Vlaamse Wooncode en tot wijziging van artikel 1 en 2 en bijlagen 1, 2 en 3 van het besluit van de Vlaamse Regering van 12 juli 2013 betreffende de kwaliteits- en veiligheidsnormen voor woningen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026288/VolledigDocument?datum=2016-01-22",
+  "source_sha256": "27a27fc568946df5f52dd6dd7cbd75cf5655bb19f9524771ba78f05b4395de1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026288&param=informatie",
+  "as_of": "2016-01-22",
+  "made": "2015-11-27",
+  "gazette": "2016-01-12",
+  "numac": 2015036611,
+  "document_start": "2016-01-22",
+  "document_end": null,
+  "in_force": "2016-01-22",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-01-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
