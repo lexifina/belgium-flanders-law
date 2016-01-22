@@ -388,7 +388,7 @@ Een verhuurder kan een sociale huurwoning verhuren aan een verhurende   instelli
 
 ### ART. 55quinquies.
 
-Maximaal 1 % van het patrimonium van de verhuurder mag buiten het sociale   huurstelsel worden verhuurd. De woningen die worden verhuurd om leegstand te   vermijden in afwachting van renovatie als vermeld in artikel 55bis, eerste lid,   3°, worden niet meegerekend voor dat percentage.
+Maximaal 1% van het patrimonium van de verhuurder mag buiten het sociale   huurstelsel worden verhuurd. De volgende verhuringen worden niet meegerekend   voor dat percentage :<BR>1° de verhuring, vermeld in artikel 55bis, eerste lid,   2°, voor zover die uitsluitend gebeurt met het oog op de opvang van dak- en   thuislozen tijdens de winterperiode, vermeld in artikel 14, § 1, van het   Samenwerkingsakkoord van 12 mei 2014 inzake dak- en thuisloosheid waarbij de   termijn van zes maanden niet overschreden mag worden;<BR>2° de verhuring,   vermeld in artikel 55bis, eerste lid, 3°.
 
 ### ART. 55sexies.
 
