@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026298,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 tot wijziging van regelgeving met betrekking tot de reglementering inzake het vervoer van gevaarlijke goederen en uitzonderlijk vervoer over de weg, wat betreft bevoegdheden, overgedragen in het kader van de zesde staatshervorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026298/VolledigDocument?datum=2016-01-23",
+  "source_sha256": "8c59b5ab4d318e8ad6a13e2c100437d79989ff94e47603e5c8b5054c73e9fd21",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026298&param=informatie",
+  "as_of": "2016-01-23",
+  "made": "2015-12-04",
+  "gazette": "2016-01-13",
+  "numac": 2015036638,
+  "document_start": "2016-01-23",
+  "document_end": null,
+  "in_force": "2016-01-23",
+  "article_versions": 52,
+  "record_form": "consolidated version as in force on 2016-01-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
