@@ -160,7 +160,7 @@ Voor elke investering en mits de relevante bewijsstukken voorgelegd worden, kunn
 
 ### ART. 33.
 
-Het maximumbedrag dat door een ARKIV in één doelonderneming geïnvesteerd mag worden of waarvoor de ARKIV zich ten opzichte van één doelonderneming mag verbinden, bedraagt 1.500.000 euro per investeringsronde. Een investeringsronde wordt geacht een nieuwe investeringsronde te zijn als hij plaatsvindt minstens twaalf maanden na het afsluiten van de vorige investeringsronde.
+Het maximumbedrag dat door een ARKIV in één doelonderneming geïnvesteerd   mag worden of waarvoor de ARKIV zich ten opzichte van één doelonderneming mag   verbinden, bedraagt 20.000.000 euro per investeringsronde. Een investeringsronde   wordt geacht een nieuwe investeringsronde te zijn als hij plaatsvindt minstens   twaalf maanden na het afsluiten van de vorige investeringsronde.
 
 ### ART. 34.
 

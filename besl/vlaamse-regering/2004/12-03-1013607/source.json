@@ -2,16 +2,16 @@
   "codex_id": 1013607,
   "title": "Besluit van de Vlaamse Regering van 2004-12-03 houdende uitvoering van het decreet van 19 december 2003 betreffende het activeren van risicokapitaal in Vlaanderen (citeeropschrift: \"het ARK-besluit\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013607/VolledigDocument?datum=2007-10-23",
-  "source_sha256": "cac18522689b4c2efb2a6f51d8a3c5d0694557035ed7975cd1a542ec9477ed4b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013607/VolledigDocument?datum=2016-01-25",
+  "source_sha256": "eb79e70654d63d44662321c24444bd13c96eda038499cd1a388af2d99409fb1d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013607&param=informatie",
-  "as_of": "2007-10-23",
+  "as_of": "2016-01-25",
   "made": "2004-12-03",
   "gazette": "2004-12-30",
   "numac": 2004036846,
   "document_start": "2005-01-14",
   "document_end": null,
-  "in_force": "2007-10-23",
+  "in_force": "2016-01-25",
   "article_versions": 45,
-  "record_form": "consolidated version as in force on 2007-10-23; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-01-25; future article versions excluded; article text as the API gives it"
 }
