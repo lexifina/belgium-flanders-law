@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026308,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-11 tot wijziging van artikel 33 van het ARK-besluit van 3 december 2004",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026308/VolledigDocument?datum=2016-01-25",
+  "source_sha256": "7c8921e3a42e113e0646548d5dbdf8010103c5eafbdccfbd62ece5b6d6d99b3f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026308&param=informatie",
+  "as_of": "2016-01-25",
+  "made": "2015-12-11",
+  "gazette": "2016-01-15",
+  "numac": 2015036648,
+  "document_start": "2016-01-25",
+  "document_end": null,
+  "in_force": "2016-01-25",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-01-25; oldest version available; future article versions excluded; article text as the API gives it"
+}
