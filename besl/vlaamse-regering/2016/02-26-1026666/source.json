@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026666,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-26 houdende overdracht van personeelsleden tussen het Departement Financiën en Begroting en het Agentschap Facilitair Bedrijf",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026666/VolledigDocument?datum=2016-02-01",
+  "source_sha256": "c84de60b3c0e8ed95c3ec128e8b6613ab7c970249014e039a8bc49188c1e29f9",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026666&param=informatie",
+  "as_of": "2016-02-01",
+  "made": "2016-02-26",
+  "gazette": "2016-04-01",
+  "numac": 2016035316,
+  "document_start": "2016-02-01",
+  "document_end": null,
+  "in_force": "2016-02-01",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
