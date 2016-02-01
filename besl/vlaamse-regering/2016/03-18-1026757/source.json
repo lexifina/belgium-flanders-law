@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026757,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-18 tot wijziging van bijlage I van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs en van de regelgeving betreffende de modulaire structuur van het hoger beroepsonderwijs en het secundair volwassenenonderwijs voor de studiegebieden hout, lichaamsverzorging en toerisme",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026757/VolledigDocument?datum=2016-02-01",
+  "source_sha256": "5298a69b0e0eb5527960755179eeb9cb77c9d8bd2734ae0950eadae4905b160b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026757&param=informatie",
+  "as_of": "2016-02-01",
+  "made": "2016-03-18",
+  "gazette": "2016-04-29",
+  "numac": 2016035683,
+  "document_start": "2016-02-01",
+  "document_end": null,
+  "in_force": "2016-02-01",
+  "article_versions": 25,
+  "record_form": "consolidated version as in force on 2016-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
