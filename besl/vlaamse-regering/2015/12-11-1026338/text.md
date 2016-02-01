@@ -1,0 +1,25 @@
+# Besluit van de Vlaamse Regering van 2015-12-11 houdende uitvoering van artikel 39 en 40 van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015
+
+### Aanhef
+
+<P>De   Vlaamse Regering,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de   aanpassing van de begroting 2015, artikel 39, § 3, en artikel 40, § 3;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 21   oktober 2015;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Gelet   op advies 58.429/1 van de Raad van State, gegeven op 24 november 2015, met   toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Op   voorstel van de Vlaamse minister van Omgeving, Natuur en Landbouw;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Na   beraadslaging,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Besluit   :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 1.
+
+<P>De   heffingsplichtigen in artikel 39, § 1, en 40, § 1, van het decreet van 3 juli   2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015   zijn verplicht om voor de periode van 2015 tot en met 2019 jaarlijks de heffing,   vermeld in artikel 39, § 1, en artikel 40, § 1, van het decreet van 3 juli 2015   houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015, te   betalen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   betaling moet gebeuren aan de hand van het aanslagformulier dat door de OVAM aan   de heffingsplichtige wordt bezorgd.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 2.
+
+Bij   gebrek aan voldoening van de heffing kan een dwangbevel worden uitgevaardigd.   Het dwangbevel wordt betekend bij gerechtsdeurwaardersexploot of met een   aangetekende brief.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 3.
+
+&nbsp;De door de leidend ambtenaar van de   OVAM aangestelde ambtenaren en personeelsleden van de OVAM zijn belast, voor   rekening van het Vlaamse Gewest, met de inning en de invordering van de   heffingen en de controle op de naleving van de verplichtingen inzake de   heffingen bepaald in artikel 39 en 40 van het decreet van 3 juli 2015 houdende   bepalingen tot begeleiding van de aanpassing van de begroting 2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 4.
+
+De   leidend ambtenaar van de OVAM is ertoe gemachtigd het dwangbevel vermeld in   artikel 2 te viseren, uitvoerbaar te verklaren en eensluidend te verklaren. Bij   afwezigheid wordt hij voor de uitvoering van de taken, vermeld in het eerste   lid, vervangen door een ambtenaar die door hem is aangewezen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 5.
+
+De   Vlaamse minister, bevoegd voor het leefmilieu en het waterbeleid, is belast met   de uitvoering van dit besluit.
