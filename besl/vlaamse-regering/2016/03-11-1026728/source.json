@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026728,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-11 tot wijziging van de regelgeving betreffende de nuttige ervaring, de ambtshalve concordantie, de prestatieregeling en de bekwaamheidsbewijzen en salarisschalen in het volwassenenonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026728/VolledigDocument?datum=2016-02-01",
+  "source_sha256": "912e8528b32ec08f7ef267a5bcd8d4ee27d629c5c42e79d4311550d29e8b231d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026728&param=informatie",
+  "as_of": "2016-02-01",
+  "made": "2016-03-11",
+  "gazette": "2016-04-20",
+  "numac": 2016035647,
+  "document_start": "2016-02-01",
+  "document_end": null,
+  "in_force": "2016-02-01",
+  "article_versions": 12,
+  "record_form": "consolidated version as in force on 2016-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
