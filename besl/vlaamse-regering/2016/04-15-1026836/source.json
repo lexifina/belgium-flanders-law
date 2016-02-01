@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026836,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-15 tot wijziging van het besluit van de Vlaamse Regering van 19 juli 2007 betreffende de modulaire structuur van de leergebieden van de basiseducatie, wat betreft de modulaire structuur van het leergebied maatschappijoriëntatie van de basiseducatie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026836/VolledigDocument?datum=2016-02-01",
+  "source_sha256": "651e224514aaceca2254c9cebc120a93ab4c469f8391b82c1b685e252889606e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026836&param=informatie",
+  "as_of": "2016-02-01",
+  "made": "2016-04-15",
+  "gazette": "2016-05-20",
+  "numac": 2016035785,
+  "document_start": "2016-02-01",
+  "document_end": null,
+  "in_force": "2016-02-01",
+  "article_versions": 14,
+  "record_form": "consolidated version as in force on 2016-02-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
