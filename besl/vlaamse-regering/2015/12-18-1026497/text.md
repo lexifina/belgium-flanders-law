@@ -56,6 +56,14 @@ De statutaire personeelsleden van het Departement Leefmilieu,   Natuur en Energi
 
 De statutaire personeelsleden van het Departement Ruimte   Vlaanderen, vermeld in punt 2.3. van bijlage 2, die bij dit besluit is gevoegd,   worden overgedragen aan het Departement Financiën en   Begroting.
 
+### ART. 13.
+
+De statutaire personeelsleden van het Departement Landbouw en   Visserij, vermeld in punt 2.4. van bijlage 2, die bij dit besluit is gevoegd,   worden overgedragen aan het Departement Financiën en   Begroting.
+
+### ART. 14.
+
+De statutaire personeelsleden van het Departement Onderwijs   en Vorming, vermeld in punt 2.5. van bijlage 2, die bij dit besluit is gevoegd,   worden overgedragen aan het Departement Financiën en   Begroting.
+
 ## HOOFDSTUK 3. Overdracht van personeelsleden aan Het Facilitair Bedrijf
 
 ### ART. 15.
