@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-In   artikel 19, tweede lid, van het ministerieel besluit van 21 juni 2013 tot   uitvoering van het besluit van de Vlaamse Regering van 19 december 2008 tot   toekenning van steun aan kleine en middelgrote ondernemingen voor   ondernemerschapsbevorderende diensten wordt het getal "14" vervangen door het   woord "veertig".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 2.
 
-Op   de subsidieaanvragen die zijn ingediend vóór de inwerkingtreding van dit besluit   blijft het ministerieel besluit van 21 juni 2013 tot uitvoering van het besluit   van de Vlaamse Regering van 19 december 2008 tot toekenning van steun aan kleine   en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten van   toepassing, zoals van kracht vóór de inwerkingtreding van dit besluit.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### ART. 3.
 
-Dit   besluit treedt in werking op 1 januari 2016 en treedt buiten werking op 1   februari 2016.
+...
