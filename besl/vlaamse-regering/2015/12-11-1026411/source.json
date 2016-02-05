@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026411,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-11 tot wijziging van het besluit van de Vlaamse Regering van 24 mei 1995 houdende vaststelling van de regelen betreffende de werking en het beheer van het Vlaams Fonds voor de Lastendelging",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026411/VolledigDocument?datum=2016-02-05",
+  "source_sha256": "1cfbd8a1e220374013b3ac2a85d9ea525946258d54be27aa9a2ccea03422ee51",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026411&param=informatie",
+  "as_of": "2016-02-05",
+  "made": "2015-12-11",
+  "gazette": "2016-02-05",
+  "numac": 2016035082,
+  "document_start": "2016-02-05",
+  "document_end": null,
+  "in_force": "2016-02-05",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-02-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
