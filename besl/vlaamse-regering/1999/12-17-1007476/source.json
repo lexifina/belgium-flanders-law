@@ -2,16 +2,16 @@
   "codex_id": 1007476,
   "title": "Besluit van de Vlaamse Regering van 1999-12-17 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007476/VolledigDocument?datum=2014-10-30",
-  "source_sha256": "3608d281f633a06bad08ab765dd6c88c80a41eeb3cb45b5d8d661d669f5a3588",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007476/VolledigDocument?datum=2016-02-08",
+  "source_sha256": "e90cb6536e4e067221684c5cb3b0568da7112957796d1943667a2a695fab4933",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007476&param=informatie",
-  "as_of": "2014-10-30",
+  "as_of": "2016-02-08",
   "made": "1999-12-17",
   "gazette": "2000-07-25",
   "numac": 2000035719,
   "document_start": "2000-01-01",
   "document_end": "2018-12-31",
-  "in_force": "2014-10-30",
+  "in_force": "2016-02-08",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2014-10-30; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-02-08; future article versions excluded; article text as the API gives it"
 }

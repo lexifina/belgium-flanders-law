@@ -20,7 +20,7 @@ c) dat het patrimonium en de exploitatie van de werkplaats niet over verschillen
 9° beschikken over de nodige infrastructuur en bijzondere uitrusting om te voldoen aan hetgeen bepaald in 2° en 4° en aan de algemene bouwtechnische en bouwfysische normen die voor de voorzieningen voor sociale integratie van personen met een handicap vastgesteld zijn ter uitvoering van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden;<br>
 10° voldoen aan de normen die voor de voorzieningen inzake sociale integratie van personen met een handicap bepaald zijn ter uitvoering van het decreet van 27 april 1997 inzake de kwaliteitszorg in de welzijnsvoorzieningen;<br>
 11° bereid zijn de nodige samenwerkingsverbanden af te sluiten met andere voorzieningen met het oog op de optimalisering van de integratiekansen van de personen met een arbeidshandicap tot dewelke zij zich richten;<br>
-12° een boekhouding voeren en deze zodanig organiseren dat de financiële controle op de aanwending van de subsidies door het Vlaams Ministerie van Werk en Sociale Economie mogelijk is, en jaarlijks vóór 1 april een jaarverslag, jaarrekening en sociale balans over het voorbije werkingsjaar aan het agentschap voorleggen. De Vlaamse minister bevoegd voor de sociale economie, kan hiervoor nadere regels vastleggen.<br>
+12° een boekhouding voeren en die beschikbaar stellen opdat het Departement WSE een controle kan uitvoeren op de aanwending van de subsidies. Als de Vlaamse minister, bevoegd voor de sociale economie, dat noodzakelijk acht, maakt de beschutte werkplaats overeenkomstig de richtlijnen van de Vlaamse minister, bevoegd voor de sociale economie, een financieel verslag op over het voorbije werkingsjaar.<br>
 <br>
 § 2. Het Departement Werk en Sociale Economie kan de uitvoering van bepaalde in § 1 bedoelde erkenningsvoorwaarden preciseren en de modellen vastleggen volgens dewelke over bepaalde in § 1 bedoelde punten gerapporteerd moet worden.
 
@@ -30,7 +30,11 @@ Voor de toepassing van artikel 1, § 1, 2°, moeten de beschutte werkplaatsen zi
 
 ### ART. 3.
 
-Het Departement Werk en Sociale Economie beslist over de erkenningen die aan de beschutte werkplaatsen verleend worden overeenkomstig de procedure vastgesteld ter uitvoering van de bepalingen van hoofdstuk VI van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap, en stelt hun maximumcapaciteit vast.
+Het Departement Werk en Sociale Economie beslist over de erkenningen die aan de beschutte werkplaatsen verleend worden overeenkomstig de procedure vastgesteld ter uitvoering van de bepalingen van hoofdstuk VI van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap, en stelt hun maximumcapaciteit vast.<br>
+<br>
+In afwijking van het eerste lid, erkent het departement Werk en Sociale Economie de onderneming als beschutte werkplaats als die onderneming, voordien erkend als beschutte werkplaats krachtens dit besluit, conform het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, als maatwerkbedrijf erkend is. De erkenning neemt een aanvang op 8 februari 2016 en duurt één jaar.<br>
+<br>
+Na afloop van de termijn, vermeld in het tweede lid, kan die erkenning worden verlengd met maximaal één jaar, als de onderneming de erkenningsvoorwaarden, vermeld in artikel 1, naleeft
 
 ### ART. 4.
 
