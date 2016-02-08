@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026373,
+  "title": "Besluit van de Vlaamse Regering van 2015-11-27 houdende indeling bij de gemeentewegen van de weggedeelten langs de N772 - Koerselsesteenweg tussen mp. 0 en mp. 320; N717a - Oude Lummense Weg tussen mp. 0 en mp. 410; N29a - Commelo - Bergske - Brugstraat - O.L.V.-straat/Hoogstraat tussen mp. 0 en mp. 967; N29 - Paalse Steenweg tussen mp. 87.727 en mp. 87.900 en de N72a - Hasseltse Steenweg - Markt - Koolmijnlaan tussen mp. 0 en mp. 2.964 te Beringen op het grondgebied van de stad Beringen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026373/VolledigDocument?datum=2016-02-08",
+  "source_sha256": "64f5167ced45c9681b63a1448f2f2eee800da27b391c88c066265f102ad89953",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026373&param=informatie",
+  "as_of": "2016-02-08",
+  "made": "2015-11-27",
+  "gazette": "2016-01-29",
+  "numac": 2016035104,
+  "document_start": "2016-02-08",
+  "document_end": null,
+  "in_force": "2016-02-08",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
