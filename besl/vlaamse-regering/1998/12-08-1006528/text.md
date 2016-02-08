@@ -5,72 +5,44 @@
 ### ART. 1.
 
 Voor de toepassing van dit besluit wordt verstaan onder:<br>
-<br>
 1° decreet: het decreet van 14 juli 1998 inzake sociale werkplaatsen;<br>
-<br>
 2° aanvrager: de voorzieningen zoals bedoeld bij artikel 4 van het decreet van 14 juli 1998 inzake sociale werkplaatsen;<br>
-<br>
 3° inactief: noch in loondienst, noch op zelfstandige basis hebben gewerkt;<br>
-<br>
-4° administratie: de administratie Werkgelegenheid van het ministerie van de Vlaamse Gemeenschap;<br>
-<br>
-5° minister: de Vlaamse minister tot wiens bevoegdheid het tewerkstellingsbeleid behoort;<br>
-<br>
+4° administratie: het Departement Werk en Sociale Economie van het Vlaams Ministerie van Werk en Sociale Economie;<br>
+5° minister: de Vlaamse minister, bevoegd voor de sociale economie;<br>
 6° doelgroepwerknemer : werknemers zoals omschreven in hoofdstuk II van dit besluit;<br>
-<br>
 7° toeleider: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
-<br>
-8° trajectbegeleider: de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of de door deze Dienst erkende derde of Vlaamse openbare instelling waarmee een samenwerkingsovereenkomst werd gesloten zoals bepaald in artikel 28 van dit besluit;<br>
-<br>
-9° individueel begeleidingsplan: actieplan opgesteld door de werkgever op maat van de individuele doelgroepwerknemer, het bevat een overzicht van de inspanningen waartoe de werkgever zich verbindt op vlak van de begeleiding;<br>
-<br>
-10° [omkadering: persoon die instaat voor de persoonlijke en dagdagelijkse begeleiding van de doelgroepwerknemers en/of arbeidszorgmedewerkers en de bedrijfsvoering; (verv. B.V.R. 14 december 2001, art. 1, I: 1 november 2001) ]<br>
-<br>
-11° doorstroming: het verwerven van een tewerkstelling in het reguliere arbeidscircuit of in het Derde Arbeidscircuit of volgens de bepalingen van het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen met uitzondering van artikel 7bis of volgens de bepalingen van het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van gesubsidieerde contractuelen bij sommige plaatselijke besturen met uitzondering van artikel 7bis;<br>
-<br>
+8° bemiddelaar: de VDAB of een door de VDAB erkende partner waarmee een samenwerkingsovereenkomst wordt afgesloten;<br>
+9° persoonlijk ontwikkelingsplan: een opvolgbaar actieplan dat de te ontwikkelen competenties en het ontwikkelpad van een persoon bevat met als doel die persoon een stevige positie op de arbeidsmarkt te bezorgen<br>
+10° omkadering: persoon die instaat voor de persoonlijke en dagdagelijkse begeleiding van de doelgroepwerknemers en/of arbeidszorgmedewerkers en de bedrijfsvoering;<br>
+11° doorstroming: de tewerkstelling van de doelgroepwerknemer, die aansluit op een tewerkstelling in het kader van dit besluit, in een betrekking geheel zonder of met een geringere ondersteuning dan vermeld in dit besluit;<br>
 12° uitbreiding van de erkenning: verhoging van het aantal erkende voltijds equivalente doelgroepwerknemers;<br>
-<br>
-13° [doelgroepwerknemer met herinschakelingsuitkering: doelgroepwerknemer die voldoet aan de voorwaarden zoals bepaald in artikel 1, § 2 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
-<br>
-14° herinschakelingsuitkering: uitkering waarop de doelgroepwerknemer gedurende de periode dat hij verbonden is door een arbeidsovereenkomst in het kader van dit besluit gerechtigd is krachtens artikel 4 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, krachtens artikel 15quater van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid, van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of krachtens artikel 15quater van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn; (verv. B.V.R. 24 juli 2001, art. 1, I: 1 juli 2001) ]<br>
-<br>
-[15° arbeidszorgmedewerker: persoon die omwille van persoonsgebonden redenen niet of niet meer kan werken onder een arbeidscontract in het reguliere of beschermd tewerkstellingscircuit en die toegeleid wordt via de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider om binnen een productieve en/of dienstverlenende setting arbeidsmatige activiteiten uit te voeren die reÙle kansen bieden tot sociale interactie en participatie in de samenleving en die daartoe met een sociale werkplaats een arbeidszorgovereenkomst heeft afgesloten;<br>
-<br>
+13° doelgroepwerknemer met herinschakelingsuitkering: doelgroepwerknemer die voldoet aan de voorwaarden zoals bepaald in artikel 1, § 2 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of zoals bepaald in artikel 15bis van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;<br>
+14° herinschakelingsuitkering: uitkering waarop de doelgroepwerknemer gedurende de periode dat hij verbonden is door een arbeidsovereenkomst in het kader van dit besluit gerechtigd is krachtens artikel 4 van het koninklijk besluit van 3 mei 1999 tot uitvoering van artikel 7, § 1, derde lid, m, van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders betreffende de herinschakeling van zeer moeilijk te plaatsen werklozen, krachtens artikel 15quater van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 2, § 5, eerste lid, van de wet van 7 augustus 1974 tot instelling van het recht op een bestaansminimum of krachtens artikel 15quater van het koninklijk besluit van 9 februari 1999 genomen tot uitvoering van artikel 57quater van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn;&nbsp;<br>
+15° arbeidszorgmedewerker: persoon die omwille van persoonsgebonden redenen niet of niet meer kan werken onder een arbeidscontract in het reguliere of beschermd tewerkstellingscircuit en die toegeleid wordt via de geïntegreerde basisdienstverlening van de Lokale Werkwinkel of de toeleider om binnen een productieve en/of dienstverlenende setting arbeidsmatige activiteiten uit te voeren die reÙle kansen bieden tot sociale interactie en participatie in de samenleving en die daartoe met een sociale werkplaats een arbeidszorgovereenkomst heeft afgesloten;<br>
 16° arbeidszorgovereenkomst : overeenkomst tussen een sociale werkplaats en een arbeidszorgmedewerker die geen arbeidsovereenkomst is en waarbij de volgende elementen bepaald worden:<br>
-<br>
 - de tijdsbesteding van de arbeidszorgmedewerker;<br>
-<br>
 - de frequentie, aard en de omvang van de activiteiten;<br>
-<br>
 - de plaats waar de activiteiten plaatsvinden;<br>
-<br>
 - de eventuele onkostenvergoeding;<br>
-<br>
 - de regelingen met betrekking tot de verzekeringen, werkkledij, veiligheidsinstructies en hygiëne;<br>
-<br>
 - de modaliteiten van begeleiding;<br>
-<br>
-- de wijze van beëindigen van de overeenkomst. (ing. B.V.R. 14 december 2001, art. 2, I: 1 november 2001) ]
+- de wijze van beëindigen van de overeenkomst.
 
 ## HOOFDSTUK II [... (opgeh. BVR 17 februari 2017, art. 96, I: 1 januari 2019)]
 
 ### ART. 2.
 
 § 1. In toepassing van artikel 5, § 2, van het decreet wordt onder werkzoekenden die door een cumulatie van persoons- en omgevingsgebonden factoren geen arbeidsplaats in het reguliere arbeidscircuit kunnen verwerven of behouden verstaan: werkzoekenden die aan de onder 1° of 2° gestelde eisen voldoen:<br>
-<br>
 1° tegelijkertijd voldoen aan volgende voorwaarden:<br>
-<br>
 a) fysieke of psychische of sociale beperkingen en moeilijkheden hebben;<br>
-<br>
 b) op de dag voor de indienstneming ingeschreven zijn bij de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als niet-werkende werkzoekende;<br>
-<br>
-c) een begeleidingstraject volgen van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of van een door deze Dienst erkende derde of Vlaamse openbare instelling waarmee deze Dienst een samenwerkingsovereenkomst heeft gesloten;<br>
-<br>
+c) een persoonlijke dienstverlening ontvangen van de VDAB, of van een door de VDAB erkende partner;<br>
 d) op de dag voor de indienstneming ononderbroken gedurende een periode van minstens 5 jaar inactief zijn;<br>
-<br>
 e) geen hoger diploma, getuigschrift of brevet hebben behaald dan lager secundair onderwijs, buitengewoon hoger secundair onderwijs of hoger secundair beroepsonderwijs;<br>
-<br>
 2° op de dag vóór de indienstneming doelgroepwerknemer zijn in een door de minister erkende sociale werkplaats.<br>
+<br>
+§ 1/1. Personen kunnen in sociale werkplaatsen worden tewerkgesteld als ze gedurende de periode van 1 april 2015 tot en met 9 februari 2016 als doelgroepwerknemer als vermeld in artikel 3, 2°, a) en b) van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling werden aangeworven door een maatwerkbedrijf als vermeld in artikel 3, 5° van voormeld decreet.<br>
 <br>
 § 2. Onverminderd bovenvermelde bepalingen kan de minister beslissen in te gaan op een gemotiveerde vraag tot afwijking van de voorwaarde vermeld in § 1, 1°, e) van dit artikel.<br>
 <br>
@@ -81,42 +53,25 @@ e) geen hoger diploma, getuigschrift of brevet hebben behaald dan lager secundai
 ### ART. 3.
 
 § 1. In toepassing van artikel 7, § 2, van het decreet dient de aanvrager, om erkend te worden als sociale werkplaats, de volgende verbintenissen aan te gaan:<br>
-<br>
-1° uitsluitend doelgroepwerknemers aan te werven;<br>
-<br>
+1° een boekhouding voeren en die beschikbaar stellen opdat het departement Werk en Sociale Economie een controle kan uitvoeren op de aanwending van de subsidies. Als de Vlaamse minister, bevoegd voor de sociale economie, dit noodzakelijk acht, maakt de sociale werkplaats overeenkomstig de richtlijnen van de Vlaamse minister, bevoegd voor de sociale economie, een financieel verslag over het voorbije werkingsjaar;<br>
 2° een bedrijfsklimaat te scheppen waarbij arbeid op maat van de doelgroepwerknemer voorrang krijgt op het bedrijfseconomische aspect. Hierbij dient gestreefd naar eigen loonvormend vermogen;<br>
-<br>
 3° in een omkadering te voorzien ten belope van minimum 1 voltijds equivalent personeelslid op 5 voltijds equivalente doelgroepwerknemers;<br>
-<br>
 4° bij de aanvraag een ondernemingsplan in te dienen dat minstens de volgende onderdelen bevat:<br>
-<br>
 - een beschrijving van het productieproces;<br>
-<br>
 - een financieel plan;<br>
-<br>
 - een personeelsplan;<br>
-<br>
 - een kopie van het arbeidsreglement;<br>
-<br>
 5° bij de aanvraag een begeleidingsplan in te dienen dat minstens de volgende onderdelen bevat:<br>
-<br>
-- een beschrijving van de functie-inhouden binnen de sociale werkplaats;<br>
-<br>
-- een beschrijving van de werkomstandigheden;<br>
-<br>
-- de geplande technische en attitudegerichte begeleiding op de werkvloer van de erkende doelgroepwerknemer;<br>
-<br>
-6° bij elke aanwerving van een erkende doelgroepwerknemer binnen de 3 maanden volgend op de datum van de aanwerving een individueel begeleidingsplan op te maken in overleg met de toeleider;<br>
-<br>
-7° de erkende doelgroepwerknemers toe te laten om tijdens hun arbeidsduur begeleidings- en opvolgingsgesprekken te voeren met de trajectbegeleider;<br>
-<br>
-8° samen met de trajectbegeleider in het kader van het individueel herinschakelingstraject, zoals bepaald in artikel 15 van dit besluit, de nodige inspanningen te leveren voor doorstroming van de erkende doelgroepwerknemers;<br>
-<br>
-9° iedere wijziging die invloed heeft op de gegevens zoals vermeld bij de oorspronkelijke aanvraag te onderwerpen aan een voorafgaande goedkeuring van de minister;<br>
-<br>
+a) een beschrijving van de functie-inhouden binnen de sociale werkplaats. Die functie-inhouden kunnen om redenen van economische activiteiten worden gewijzigd zonder dat ze aan de administratie moeten worden voorgelegd;<br>
+b) een beschrijving van de werkomstandigheden;<br>
+c) de geplande technische en attitudegerichte begeleiding op de werkvloer van de erkende doelgroepwerknemer<br>
+6° bij elke aanwerving van een erkende doelgroepwerknemer een persoonlijk ontwikkelingsplan opmaken binnen de drie maanden volgend op de datum van de aanwerving;<br>
+7° de erkende doelgroepwerknemers toe te laten om tijdens hun arbeidsduur begeleidings- en opvolgingsgesprekken te voeren met de bemiddelaar;<br>
+8° samen met de bemiddelaar in het kader van een individueel her-inschakelingstraject, zoals bepaald in artikel 15 van dit besluit, de nodige inspanningen te leveren voor doorstroming van de erkende doelgroep-werknemers<br>
+9° ..;<br>
 10° in geen geval middelen te hanteren die marktverstorend zijn naar prijszetting toe.<br>
 <br>
-§ 2. De in § 1, 1° van dit artikel gestelde verbintenis geldt niet voor personen die uitsluitend zullen worden ingeschakeld voor omkadering.
+§ 2. ...
 
 ## HOOFDSTUK IV [... (opgeh. BVR 17 februari 2017, art. 96, I: 1 januari 2019)]
 
@@ -128,7 +83,7 @@ e) geen hoger diploma, getuigschrift of brevet hebben behaald dan lager secundai
 <br>
 Onder die voorwaarden behoudt de sociale werkplaats de erkenning totdat over de hernieuwing is beslist.<br>
 <br>
-§ 3. De sociale werkplaats dient voor alle wijzigingen zoals bedoeld in artikel 3, 9° van dit besluit een aanvraag in. Vooraleer er door de sociale werkplaats enig begin van uitvoering wordt gegeven aan deze wijziging is een beslissing van de minister vereist.
+§ 3. ...
 
 ### ART. 5.
 
@@ -136,11 +91,11 @@ Het onderzoek van de aanvraag, zoals bepaald in artikel 4 van dit besluit, gebeu
 
 ### ART. 6.
 
-§ 1. De aanvraag tot erkenning, hernieuwing van de erkenning, uitbreiding van de erkenning en wijzi-ging van activiteiten wordt door de zorg van de administratie eveneens ter advies voorgelegd aan het [Regionaal Sociaal-economisch Overlegcomité (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ] in wiens ambtsgebied de plaats van tewerkstelling is gelegen. Indien er verschillende plaatsen van tewerkstelling zijn, brengt elk bevoegd [Regionaal Sociaal-economisch Overlegcomité (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ] een advies uit.<br>
+§ 1. De aanvraag tot erkenning, hernieuwing van de erkenning, uitbreiding van de erkenning&nbsp;wordt door de zorg van de administratie eveneens ter advies voorgelegd aan het Regionaal Sociaal-economisch Overlegcomité&nbsp;in wiens ambtsgebied de plaats van tewerkstelling is gelegen. Indien er verschillende plaatsen van tewerkstelling zijn, brengt elk bevoegd Regionaal Sociaal-economisch Overlegcomité&nbsp;een advies uit.<br>
 <br>
-§ 2. Het [Regionaal Sociaal-economisch Overlegcomité (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ] brengt ten aanzien van de erkenningscommissie en de minister een gemotiveerd advies uit binnen de dertig dagen te rekenen vanaf de derde dag nadat de adviesaanvraag is verstuurd. Indien de administratie binnen deze termijn deze adviezen niet heeft ontvangen, wordt het advies geacht te zijn uitgebracht.<br>
+§ 2. Het Regionaal Sociaal-economisch Overlegcomité&nbsp;brengt ten aanzien van de erkenningscommissie en de minister een gemotiveerd advies uit binnen de dertig dagen te rekenen vanaf de derde dag nadat de adviesaanvraag is verstuurd. Indien de administratie binnen deze termijn deze adviezen niet heeft ontvangen, wordt het advies geacht te zijn uitgebracht.<br>
 <br>
-§ 3. Het advies van het [Regionaal Sociaal-economisch Overlegcomité (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ] heeft inzonderheid betrekking op de beschikbaarheid van de doelgroepwerknemers, op de eventuele scheeftrekkingen met andere regionale initiatieven en met de commerciële sector, op de spreiding van de sociale werkplaatsen in de subregio en op waarborgen in verband met een goede voltooiing van de geplande werkzaamheden en de begeleidingsopdracht.
+§ 3. Het advies van het Regionaal Sociaal-economisch Overlegcomité&nbsp;heeft inzonderheid betrekking op de beschikbaarheid van de doelgroepwerknemers, op de eventuele scheeftrekkingen met andere regionale initiatieven en met de commerciële sector, op de spreiding van de sociale werkplaatsen in de subregio en op waarborgen in verband met een goede voltooiing van de geplande werkzaamheden en de begeleidingsopdracht.
 
 ### ART. 7.
 
@@ -152,9 +107,9 @@ Het onderzoek van de aanvraag, zoals bepaald in artikel 4 van dit besluit, gebeu
 
 ### ART. 8.
 
-§ 1. De minister geeft, binnen de dertig dagen na ontvangst van het advies van de erkenningscommissie, de aanvrager kennis van zijn beslissing omtrent de aanvraag tot erkenning, hernieuwing, wijziging of uitbreiding van de erkenning met een aangetekend schrijven.<br>
+§ 1. De minister geeft, binnen de dertig dagen na ontvangst van het advies van de erkenningscommissie, de aanvrager kennis van zijn beslissing omtrent de aanvraag tot erkenning, hernieuwing of uitbreiding van de erkenning met een aangetekend schrijven.<br>
 <br>
-De minister deelt zijn beslissing mee aan de erkenningscommissie en bij toepassing van artikel 6 van dit besluit aan het [Regionaal Sociaal-economisch Overlegcomité. (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ]<br>
+De minister deelt zijn beslissing mee aan de erkenningscommissie en bij toepassing van artikel 6 van dit besluit aan het Regionaal Sociaal-economisch Overlegcomité.&nbsp;<br>
 <br>
 De minister brengt de beslissing ter kennis aan de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding voor uitvoering.<br>
 <br>
@@ -208,23 +163,30 @@ In toepassing van artikel 9 van het decreet zal de minister in functie van de be
 
 ### ART. 14.
 
-§ 1. De toeleiding kan alleen dan gebeuren indien een verslag werd opgesteld waaruit blijkt dat de kandidaat-werknemer voldoet aan de voorwaarden zoals gesteld in artikel 2, § 1, 1°, a), c) en d) van dit besluit.<br>
+De sociale werkplaatsen bezorgen de vacatures voor doelgroep-werknemers aan de VDAB via een door de VDAB ter beschikking gestelde toepassing.<br>
 <br>
-§ 2. Deze toeleiding dient rekening te houden met zowel het uit te voeren takenpakket in de sociale werkplaats en het functioneel profiel zoals gevraagd door de sociale werkplaats als met de karakteristieken van de regionale arbeidsmarkt in functie van de doelgroep.
+De toeleiding kan alleen plaatsvinden als een biopsychosociaal verslag wordt opgemaakt waaruit blijkt dat de kandidaat-werknemer voldoet aan de voorwaarden, vermeld in artikel 2, § 1, § 1/1 of § 1/2.<br>
+<br>
+De toeleiding houdt rekening met:<br>
+1° het uit te voeren takenpakket in de sociale werkplaats;<br>
+2° het functionele profiel zoals gevraagd door de sociale werkplaats;<br>
+3° de karakteristieken van de regionale arbeidsmarkt in functie van de doelgroep.<br>
+<br>
+Met het oog op de informatiedoorstroom naar de administratie toe, registreert de sociale werkplaats de tewerkstelling in de VDAB-toepassing, vermeld in het eerste lid.
 
 ### ART. 15.
 
 § 1. In toepassing van artikel 11 van het decreet wordt verstaan onder individueel herinschake-lingstraject de begeleiding in verschillende stappen op maat van de individuele doelgroepwerknemer met aandacht voor doorstroming.<br>
 <br>
-§ 2. In het kader van dit individueel herinschakelingstraject kan de trajectbegeleider in overleg met de sociale werkplaats de erkende doelgroepwerknemer de mogelijkheid bieden tijdens de duur van zijn tewerkstelling een stage in het reguliere arbeidscircuit te volgen onder de voorwaarden zoals bepaald in artikel 32 van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het terbeschikking stellen van werknemers ten behoeve van gebruikers.<br>
+§ 2. In het kader van dit individueel herinschakelingstraject kan de bemiddelaar in overleg met de sociale werkplaats de erkende doelgroepwerknemer de mogelijkheid bieden tijdens de duur van zijn tewerkstelling een stage in het reguliere arbeidscircuit te volgen onder de voorwaarden zoals bepaald in artikel 32 van de wet van 24 juli 1987 betreffende de tijdelijke arbeid, de uitzendarbeid en het terbeschikking stellen van werknemers ten behoeve van gebruikers.<br>
 <br>
-In het kader van dit individueel herinschakelingstraject kan de trajectbegeleider in overleg met de sociale werkplaats de erkende doelgroepwerknemer de mogelijkheid bieden tijdens de duur van zijn tewerkstelling een beroepsopleiding opgericht bij en/of erkend door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of een beroepsopleiding erkend door een in artikel 28 bedoelde Vlaamse openbare instelling te volgen.<br>
+In het kader van dit individueel herinschakelingstraject kan de bemiddelaar in overleg met de sociale werkplaats de erkende doelgroepwerknemer de mogelijkheid bieden tijdens de duur van zijn tewerkstelling een beroepsopleiding opgericht bij en/of erkend door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding of een beroepsopleiding erkend door een in artikel 28 bedoelde Vlaamse openbare instelling te volgen.<br>
 <br>
-§ 3. In het kader van dit individueel herinschakelingstraject zal naar aanleiding van een passende vacature voor de erkende doelgroepwerknemer in overleg tussen de sociale werkplaats en de trajectbegeleider, worden gestreefd naar doorstroming.
+§ 3. In het kader van dit individueel herinschakelingstraject zal naar aanleiding van een passende vacature voor de erkende doelgroepwerknemer in overleg tussen de sociale werkplaats en de bemiddelaar, worden gestreefd naar doorstroming.
 
 ### ART. 16.
 
-In toepassing van artikel 11 van het decreet wordt de trajectbegeleider schriftelijk verwittigd door de sociale werkplaats van elk nakend ontslag. Deze dient de begeleiding van de ontslagen erkende doelgroepwerknemer verder te vervullen.
+In toepassing van artikel 11 van het decreet wordt de bemiddelaar schriftelijk verwittigd door de sociale werkplaats van elk nakend ontslag. Deze dient de begeleiding van de ontslagen erkende doelgroepwerknemer verder te vervullen.
 
 ### ART. 17.
 
@@ -255,49 +217,34 @@ Voor het bepalen van de dienstjaren van de titularis wordt rekening gehouden met
 Als aanvulling op de loonpremie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende doelgroepwerknemers.<br>
 <br>
 Het bedrag van deze toelage bedraagt per voltijds equivalent erkende doelgroepwerknemer :<br>
-2006<!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>2</o:TotalTime>  <o:Created>2006-11-30T08:57:00Z</o:Created>  <o:LastSaved>2006-11-30T08:59:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>15</o:Words>  <o:Characters>83</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>97</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning></w:PunctuationKerning>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables></w:BreakWrappedTables>   <w:SnapToGridInCell></w:SnapToGridInCell>   <w:WrapTextWithPunct></w:WrapTextWithPunct>   <w:UseAsianBreakRules></w:UseAsianBreakRules>   <w:DontGrowAutofit></w:DontGrowAutofit>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:"e;"e;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]-->
+<br>
+<!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>1</o:Revision>  <o:TotalTime>2</o:TotalTime>  <o:Created>2006-11-30T08:57:00Z</o:Created>  <o:LastSaved>2006-11-30T08:59:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>15</o:Words>  <o:Characters>83</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>97</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning></w:PunctuationKerning>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables></w:BreakWrappedTables>   <w:SnapToGridInCell></w:SnapToGridInCell>   <w:WrapTextWithPunct></w:WrapTextWithPunct>   <w:UseAsianBreakRules></w:UseAsianBreakRules>   <w:DontGrowAutofit></w:DontGrowAutofit>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;> </w:LatentStyles></xml><![endif]--><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:"e;"e;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:"e;Times New Roman"e;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]-->
 <div>
-<table class="MsoTableGrid" style="border: currentColor; border-image: none; border-collapse: collapse; mso-border-alt: solid windowtext .5pt; mso-yfti-tbllook: 480; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0">
+<table border="1" cellspacing="0" cellpadding="0">
 	<tbody>
 		<tr>
-			<td style="width: 230.3pt;">
-			<p><span style="font-size: 10pt;">2006</span></p>
-			</td>
-			<td style="border-color: windowtext windowtext windowtext currentColor; width: 230.3pt;">
-			<p style="text-align: right;"><span style="font-size: 10pt;">170,90 euro</span></p>
-			</td>
+			<td style="width: 307px;">2006</td>
+			<td style="width: 307px;">170,90 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor windowtext windowtext; width: 230.3pt;">
-			<p><span style="font-size: 10pt;">2007</span></p>
-			</td>
-			<td style="border-color: currentColor windowtext windowtext currentColor; width: 230.3pt;">
-			<p style="text-align: right;"><span style="font-size: 10pt;">381,24 euro</span></p>
-			</td>
+			<td style="width: 307px;">2007</td>
+			<td style="width: 307px;">381,24 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor windowtext windowtext; width: 230.3pt;">
-			<p><span style="font-size: 10pt;">2008</span></p>
-			</td>
-			<td style="border-color: currentColor windowtext windowtext currentColor; width: 230.3pt;">
-			<p style="text-align: right;"><span style="font-size: 10pt;">591,59 euro</span></p>
-			</td>
+			<td style="width: 307px;">2008</td>
+			<td style="width: 307px;">591,59 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor windowtext windowtext; width: 230.3pt;">
-			<p><span style="font-size: 10pt;">2009</span></p>
-			</td>
-			<td style="border-color: currentColor windowtext windowtext currentColor; width: 230.3pt;">
-			<p style="text-align: right;"><span style="font-size: 10pt;">797,55 euro</span></p>
-			</td>
+			<td style="width: 307px;">2009</td>
+			<td style="width: 307px;">797,55 euro</td>
 		</tr>
 		<tr>
-			<td style="border-color: currentColor windowtext windowtext; width: 230.3pt;">
-			<p><span style="font-size: 10pt;">Vanaf 2010</span></p>
-			</td>
-			<td style="border-color: currentColor windowtext windowtext currentColor; width: 230.3pt;">
-			<p style="text-align: right;"><span style="font-size: 10pt;">1007,89 euro</span></p>
-			</td>
+			<td style="width: 307px;">2010-2015</td>
+			<td style="width: 307px;">1007,89 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">Vanaf 2016</td>
+			<td style="width: 307px;">1208,29 euro</td>
 		</tr>
 	</tbody>
 </table>
@@ -319,23 +266,87 @@ In toepassing van artikel 12, §§ 1 en 3 van het decreet en binnen de perken va
 
 ### ART. 20ter.
 
-Als aanvulling op de omkaderingssubsidie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende omkaderingspersoneelsleden.<br /><br />Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingspersoneelslid :<br /> <html xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20060922-q10-art2_bestanden/filelist.xml&quote;><title>2006</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>3</o:TotalTime>  <o:Created>2006-11-30T09:02:00Z</o:Created>  <o:LastSaved>2006-11-30T09:02:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>14</o:Words>  <o:Characters>83</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>96</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2006<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>139,18 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2007<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>305,75 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2008<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>472,31 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2009<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>637,36 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>Vanaf 2010<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>803,92 euro<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html> <br />
+Als aanvulling op de omkaderingssubsidie en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een toelage voor de eindejaarspremie op basis van het aantal door de minister erkende omkaderingspersoneelsleden.<br>
+<br>
+Het bedrag van deze toelage bedraagt per voltijds equivalent erkend omkaderingspersoneelslid :<br>
+&nbsp;
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 307px;">2006</td>
+			<td style="width: 307px;">139,18 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2007</td>
+			<td style="width: 307px;">305,75 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2008</td>
+			<td style="width: 307px;">472,31 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2009</td>
+			<td style="width: 307px;">637,36 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2010-2015</td>
+			<td style="width: 307px;">803,92 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">Vanaf 2016</td>
+			<td style="width: 307px;">1656,29 euro</td>
+		</tr>
+	</tbody>
+</table>
+<span style="font-size: 10pt;">&nbsp;</span>
 
 ### ART. 20quater.
 
-In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende doelgroepwerknemers en omkaderingspersoneelsleden.<br /><br />Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende doelgroepwerknemer of omkaderingspersoneelslid :<br /> <html xmlns:o=&quote;urn:schemas-microsoft-com:office:office&quote;xmlns:w=&quote;urn:schemas-microsoft-com:office:word&quote;xmlns=&quote;http://www.w3.org/TR/REC-html40&quote;><head><meta http-equiv=Content-Type content=&quote;text/html; charset=windows-1252&quote;><meta name=ProgId content=Word.Document><meta name=Generator content=&quote;Microsoft Word 11&quote;><meta name=Originator content=&quote;Microsoft Word 11&quote;><link rel=File-List href=&quote;20060922-q10-art2-2_bestanden/filelist.xml&quote;><title>2006</title><!--[if gte mso 9]><xml> <o:DocumentProperties>  <o:Author>Deschrma</o:Author>  <o:Template>Normal</o:Template>  <o:LastAuthor>Deschrma</o:LastAuthor>  <o:Revision>2</o:Revision>  <o:TotalTime>4</o:TotalTime>  <o:Created>2006-11-30T09:04:00Z</o:Created>  <o:LastSaved>2006-11-30T09:04:00Z</o:LastSaved>  <o:Pages>1</o:Pages>  <o:Words>12</o:Words>  <o:Characters>68</o:Characters>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company>  <o:Lines>1</o:Lines>  <o:Paragraphs>1</o:Paragraphs>  <o:CharactersWithSpaces>79</o:CharactersWithSpaces>  <o:Version>11.6408</o:Version> </o:DocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml> <w:WordDocument>  <w:SpellingState>Clean</w:SpellingState>  <w:GrammarState>Clean</w:GrammarState>  <w:HyphenationZone>21</w:HyphenationZone>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>  </w:Compatibility>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel> </w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml> <w:LatentStyles DefLockedState=&quote;false&quote; LatentStyleCount=&quote;156&quote;> </w:LatentStyles></xml><![endif]--><style><!-- /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal	&lftaco;mso-style-parent:&quote;&quote;;	margin:0cm;	margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:12.0pt;	font-family:&quote;Times New Roman&quote;;	mso-fareast-font-family:&quote;Times New Roman&quote;;&rgtaco;@page Section1	&lftaco;size:595.3pt 841.9pt;	margin:70.85pt 70.85pt 70.85pt 70.85pt;	mso-header-margin:35.4pt;	mso-footer-margin:35.4pt;	mso-paper-source:0;&rgtaco;div.Section1	&lftaco;page:Section1;&rgtaco;--></style><!--[if gte mso 10]><style> /* Style Definitions */ table.MsoNormalTable	&lftaco;mso-style-name:Standaardtabel;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	mso-style-noshow:yes;	mso-style-parent:&quote;&quote;;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;table.MsoTableGrid	&lftaco;mso-style-name:Tabelraster;	mso-tstyle-rowband-size:0;	mso-tstyle-colband-size:0;	border:solid windowtext 1.0pt;	mso-border-alt:solid windowtext .5pt;	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;	mso-border-insideh:.5pt solid windowtext;	mso-border-insidev:.5pt solid windowtext;	mso-para-margin:0cm;	mso-para-margin-bottom:.0001pt;	mso-pagination:widow-orphan;	font-size:10.0pt;	font-family:&quote;Times New Roman&quote;;	mso-ansi-language:#0400;	mso-fareast-language:#0400;	mso-bidi-language:#0400;&rgtaco;</style><![endif]--></head><body lang=NL style='tab-interval:35.4pt'><div class=Section1><table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt; mso-yfti-tbllook:480;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh: .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'> <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2006<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>40 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:1'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2007<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>80 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:2'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2008<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>120 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:3'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>2009<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>160 euro<o:p></o:p></span></p>  </td> </tr> <tr style='mso-yfti-irow:4;mso-yfti-lastrow:yes'>  <td width=307 valign=top style='width:230.3pt;border:solid windowtext 1.0pt;  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;  padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal><span style='font-size:10.0pt'>Vanaf 2010<o:p></o:p></span></p>  </td>  <td width=307 valign=top style='width:230.3pt;border-top:none;border-left:  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>  <p class=MsoNormal align=right style='text-align:right'><span  style='font-size:10.0pt'>200 euro<o:p></o:p></span></p>  </td> </tr></table><p class=MsoNormal><span style='font-size:10.0pt'><o:p>&nbsp;</o:p></span></p></div></body></html> <br />
+In het kader van managementondersteuning en binnen de perken van een daartoe bestemd begrotingskrediet kunnen de sociale werkplaatsen aanspraak maken op een managementsubsidie op basis van het aantal door de minister erkende doelgroepwerknemers en omkaderingspersoneelsleden.<br>
+<br>
+Het bedrag van deze managementsubsidie bedraagt per voltijds equivalent erkende doelgroepwerknemer of omkaderingspersoneelslid :
+<div>
+<table border="1" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td style="width: 307px;">2006</td>
+			<td style="width: 307px;">40 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2007</td>
+			<td style="width: 307px;">80 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2008</td>
+			<td style="width: 307px;">120 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2009</td>
+			<td style="width: 307px;">160 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">2010-2015</td>
+			<td style="width: 307px;">200 euro</td>
+		</tr>
+		<tr>
+			<td style="width: 307px;">Vanaf 2016</td>
+			<td style="width: 307px;">280,50 euro</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
 ### ART. 21.
 
-Het bedrag van de loonpremie en de omkaderingssubsidie evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand november 1998.
+Het bedrag van de loon- en omkaderingssubsidie wordt bij overschrijding van de spilindex geïndexeerd rekening houdend met de bepalingen van het besluit van de Vlaamse Regering van 17 juli 2015 houdende de indexering van subsidies, forfaits en tegemoetkomingen.
 
 ### ART. 21bis.
 
-Het bedrag van de toelage voor de eindejaarspremie en de managementsubsidie evolueert op dezelfde wijze en in dezelfde mate als de gezondheidsindex, met als basismaand januari 2006. <br />
+Het bedrag van de toelage voor de eindejaarspremie en de managementsubsidie wordt bij overschrijding van de spilindex geïndexeerd rekening houdend met de bepalingen van het besluit van de Vlaamse Regering van 17 juli 2015 houdende de indexering van subsidies, forfaits en tegemoetkomingen.
 
 ### ART. 22.
 
-In toepassing van artikel 12, § 3, van het decreet stelt de minister maandelijks het bedrag vast dat de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding stort vóór de tiende van de lopende kalendermaand.<br>
+In toepassing van artikel 12, § 3, van het decreet stelt de minister maandelijks het bedrag vast dat&nbsp;de administratie&nbsp;stort vóór de tiende van de lopende kalendermaand.<br>
 <br>
 Het bedrag van de loonpremie en van de toelage voor de eindejaarspremie, vermeld in artikel 18bis, wordt binnen het kader van de toegekende premie van de betrokken maand berekend op basis van de effectieve tewerkstelling van de erkende doelgroepwerknemer. Er is slechts recht op een loonpremie en een toelage voor de eindejaarspremie voor de werkelijk verrichte en daarmee gelijkgestelde arbeidsprestaties.<br>
 <br>
@@ -353,13 +364,11 @@ Het bedrag van de managementsubsidie wordt binnen het kader van de toegekende pr
 <br>
 § 2. Met iedere uitbreiding van de erkenning gaat een nieuwe aanwervingstermijn in van zes maanden te rekenen vanaf de dag van de kennisgeving van de beslissing tot uitbreiding of wijziging.<br>
 <br>
-Met iedere wijziging van de erkenning gaat een nieuwe vervangingstermijn in van drie maanden voor de arbeidsplaatsen waarop de wijziging betrekking heeft te rekenen vanaf de dag van de kennisgeving van de beslissing tot wijziging.<br>
+§ 3. ...<br>
 <br>
-§ 3. Een uitdienstgetreden erkende doelgroepwerknemer kan worden vervangen indien deze vervanging gebeurt binnen de drie maanden te rekenen vanaf de dag van de uitdiensttreding van de te vervangen doelgroepwerknemer.<br>
+§ 4. ...<br>
 <br>
-§ 4. De minister kan een éénmalige verlenging van de vervangingstermijn van maximaal drie maanden toestaan indien de sociale werkplaats het bewijs levert dat het verstrijken van de vervangingstermijn zonder de indienstname van een doelgroepwerknemer buiten haar wil om is gebeurd.<br>
-<br>
-§ 5. Na afloop van de termijn vermeld in de §§ 1 tot en met 4 van dit artikel vervalt het recht op de toegekende loonpremie.
+§ 5. Na afloop van de termijn vermeld in de paragraaf 1 en 2 van dit artikel vervalt het recht op de toegekende loonpremie.
 
 ### ART. 24.
 
@@ -369,9 +378,7 @@ De loonpremie kan in geen geval gecumuleerd worden met een andere tussenkomst in
 
 ### ART. 25.
 
-§ 1. In toepassing van artikel 14, § 1, tweede lid van het decreet maakt de administratie op basis van gegevens verstrekt door de trajectbegeleider, het [Regionaal Sociaal-economisch Overlegcomité (verv. B.V.R. 10 juni 2005, art. 6, I: 15 juli 2005) ] en de sociale werkplaats ten aanzien van de erkenningscommissie een evaluatieverslag op.<br>
-<br>
-§ 2. De erkenningscommissie brengt ten aanzien van de minister een advies uit.
+...
 
 ### ART. 26.
 
@@ -383,17 +390,17 @@ De loonpremie kan in geen geval gecumuleerd worden met een andere tussenkomst in
 
 ### ART. 27.
 
-De periode van de tewerkstelling van een erkende doelgroepwerknemer volgens artikel 6bis van het besluit van de Vlaamse regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen of volgens artikel 6bis van het besluit van de Vlaamse regering van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van 28 oktober 1986 tot opzetting van een stelsel van gesubsidieerde contractuelen bij sommige plaatselijke besturen wordt in rekening gebracht voor de toepassing van artikel 18, §§ 2 en 3 van dit besluit.
+...
 
 ### ART. 27bis.
 
-Vanaf de datum van inwerkingtreding van artikel 20bis tot en met 31 december 2001 geldt in de plaats van het bedrag "22.000 euro", vermeld in artikel 20bis, het bedrag van "887 478 Belgische frank". (ing. B.V.R. 14 december 2001, art. 5, I: 1 november 2001) ]
+...
 
 ## HOOFDSTUK XI SLOTBEPALINGEN
 
 ### ART. 28.
 
-De minister machtigt de VDAB om voor de trajectbegeleiding, zoals beschreven in de artikelen 15, 16 en 17 van dit besluit een samenwerkingsovereenkomst te sluiten [met andere Vlaamse Openbare Instellingen en (ing. B.V.R. 8 juni 1999, art. 3, I: 1 juli 1999) ] met derden. Zelfs indien een samenwerkingsovereenkomst werd gesloten met andere Vlaamse openbare instellingen en met derden behoudt de VDAB het toezicht op de uitvoering van deze trajectbegeleiding.
+De minister machtigt de VDAB om voor de begeleiding, zoals beschreven in de artikelen 15, 16 en 17 van dit besluit een samenwerkingsovereenkomst te sluiten met andere Vlaamse Openbare Instellingen en&nbsp;met derden. Zelfs indien een samenwerkingsovereenkomst werd gesloten met andere Vlaamse openbare instellingen en met derden behoudt de VDAB het toezicht op de uitvoering van deze begeleiding.
 
 ### ART. 29.
 

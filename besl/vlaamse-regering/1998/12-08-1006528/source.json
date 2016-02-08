@@ -2,16 +2,16 @@
   "codex_id": 1006528,
   "title": "Besluit van de Vlaamse Regering van 1998-12-08 tot uitvoering van het decreet inzake sociale werkplaatsen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006528/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "14562ce1e80406e0c064dcc1f4beda1f998bc3a585d9ff2d561d910e86fb364a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006528/VolledigDocument?datum=2016-02-08",
+  "source_sha256": "e6df637058ae3e248929bead6f2dc84e181830a539a7c49ee388168b48d0f69f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006528&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-02-08",
   "made": "1998-12-08",
   "gazette": "1999-02-23",
   "numac": 1999035128,
   "document_start": "1998-11-01",
   "document_end": null,
-  "in_force": "2006-06-01",
+  "in_force": "2016-02-08",
   "article_versions": 37,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-02-08; future article versions excluded; article text as the API gives it"
 }
