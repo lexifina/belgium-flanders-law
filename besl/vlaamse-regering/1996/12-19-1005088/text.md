@@ -14,11 +14,15 @@ Deze subsidies zijn vrijgesteld van de aanmeldingsverplichting bedoeld in artike
 
 § 1. Subsidies in het loon en in de sociale lasten worden verleend voor elke werknemer die, volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als persoon met een arbeidshandicap onvoorwaardelijk of voorwaardelijk gerechtigd is op tewerkstelling in een beschutte werkplaats zoals bepaald in artikel 37 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap.<br>
 <br>
-§ 2. In de beschutte werkplaats zijn evenwel minimaal 90 % van de gesubsidieerde werknemers met een arbeidshandicap onvoorwaardelijk gerechtigde werknemers met een arbeidshandicap.
+§ 2. In de beschutte werkplaats zijn evenwel minimaal 90 % van de gesubsidieerde werknemers met een arbeidshandicap onvoorwaardelijk gerechtigde werknemers met een arbeidshandicap.<br>
+<br>
+§ 3. Het Departement WSE verleent subsidies in het loon en de sociale lasten van de persoon die zich in een van de volgende gevallen bevindt:<br>
+1° de persoon is volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding voorwaardelijk of onvoorwaardelijk gerechtigd op een tewerkstelling in een beschutte werkplaats als vermeld in artikel 4 en 37 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap, zoals van kracht voor de inwerkingtreding van het besluit van de Vlaamse Regering van 19 december 2014 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap, en is op 31 maart 2015 tewerkgesteld in een beschutte werkplaats;<br>
+2° de persoon is gedurende de periode van 1 april 2015 tot en met 9 februari 2016 aangeworven als doelgroepwerknemer als vermeld in artikel 3, 2°, a) en b), van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling, door een maatwerkbedrijf als vermeld in artikel 3, 5°, van het voormelde decreet.
 
 ### ART. 3.
 
-2006§ 1. Het bedrag van de subsidie wordt vastgesteld op 238,20 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld kan worden.<br>
+§ 1. Het bedrag van de subsidie wordt vastgesteld op 238,20 frank per gepresteerd uur of per uur dat daarmee gelijkgesteld kan worden.<br>
 <br>
 Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
@@ -33,27 +37,24 @@ Voor de werknemers met het statuut van moeilijk te plaatsen werkloze en met het 
 Het subsidiebedrag, genoemd in het eerste lid, wordt gekoppeld aan de spilindex 101,38. Het wordt met ingang van 1 januari 1999 geïndexeerd overeenkomstig de bepalingen van voormeld koninklijk besluit van 24 december 1993.<br>
 <br>
 Onder zwakke werknemers wordt verstaan:<br>
-1° de personen met een arbeidshandicap die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben, of die aangepast vierdegraads buitengewoon lager onderwijs genoten hebben;<br>
-2° de personen met een arbeidshandicap die tot de groep van de matig mentaal gehandicapten behoren;<br>
-3° de personen met een arbeidshandicap die een intelligentiequotiënt hebben van minder dan 60 punten bij de WISC- of WAIS-test, of van minder dan 52 punten bij de Terman-test;<br>
-4° de personen met een arbeidshandicap die recht hebben op extra kinderbijslag krachtens artikel 47 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, of krachtens artikel 20, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, voor zover ze bij de evaluatie van de zelfredzaamheid ten minste 4 punten krijgen overeenkomstig de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3, en 63 van de gecoördineerde wetten betreffende de kinderbijslag voor loonarbeiders, van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, en van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br>
+1° de personen met een arbeidshandicap die buitengewoon secundair onderwijs met opleidingsvorm 1 of 2 gevolgd hebben;<br>
+2° de personen met een arbeidshandicap die tot de groep van personen met een matig verstandelijke beperking behoren;<br>
+3° de personen met een significante beperking in het intellectuele functioneren die wordt vastgesteld op basis van een erkende, gestandaardiseerde, individueel afgenomen en breed dekkende intelligentietest, en waarbij de persoonlijke score lager is dan 2 standaarddeviaties beneden de gemiddelde score;<br>
+4° de personen met een arbeidshandicap die recht hebben op verhoogde kinderbijslag krachtens artikel 47 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders, of krachtens artikel 20, § 2, van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag ten voordele van zelfstandigen, als ze bij de evaluatie van de zelfredzaamheid ten minste 4 punten krijgen conform de bepalingen van het koninklijk besluit van 3 mei 1991 tot uitvoering van de artikelen 47, 56septies, 62, § 3, en 63 van de samengeordende wetten betreffende de kinderbijslag voor loonarbeiders, van artikel 96 van de wet van 29 december 1990 houdende sociale bepalingen, van artikel 3 van het koninklijk besluit van 28 augustus 1991 tot uitvoering van de artikelen 20, §§ 2 en 3, 26 en 35 van het koninklijk besluit van 8 april 1976 houdende regeling van de gezinsbijslag, ten voordele van de zelfstandigen, en van artikel 23 van het koninklijk besluit van 21 februari 1991 tot wijziging van sommige bepalingen betreffende de regeling van de gezinsbijslag ten voordele van de zelfstandigen;<br>
 5° de personen met een arbeidshandicap die krachtens de wetgeving op de tegemoetkomingen aan gehandicapten erkend werden als rechthebbende op een integratietegemoetkoming en voor wie de graad van zelfredzaamheid op ten minste 9 punten werd vastgesteld krachtens de bepalingen van het ministerieel besluit van 30 juli 1987 tot vaststelling van de categorieën en van de handleiding voor de evaluatie van de graad van zelfredzaamheid met het oog op het onderzoek naar het recht op de integratietegemoetkoming;<br>
-6° de personen met een arbeidshandicap die ofwel minstens twee jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn, ofwel in de loop van de twee jaar die aan de tewerkstelling voorafgaan minstens drie keer in een psychiatrische voorziening opgenomen werden, ofwel vanwege persoonlijkheidsverval deskundige psychiatrische behandeling behoeven en sedert minstens 1 jaar regelmatig onder medisch toezicht staan.<br>
+6° de personen met een arbeidshandicap die ofwel minstens twee jaar onafgebroken in een psychiatrische voorziening of erkende beschutte woonvorm opgenomen zijn, ofwel in de loop van de twee jaar die aan de toekenning van het statuut van zwakke werknemer voorafgaan, minstens drie keer in een psychiatrische voorziening opgenomen werden, ofwel door een blijvend cognitief functieverlies ten gevolge van psychiatrische aandoeningen die voorkomen in de limitatieve opsomming van bepaalde aandoeningen uit de medische stoorniscodelijst voor arbeidsbeperking van de VDAB, deskundige psychiatrische behandeling behoeven en sedert minstens een jaar onder regelmatig medisch toezicht staan.<br>
 <br>
-§ 3. De hoedanigheid van zwakke werknemer blijkt uit de volgende bescheiden:<br>
-1° voor de personen genoemd in § 2, 1°: een attest of verklaring van de laatst bezochte buitengewone onderwijsinstelling en kopie van het in de wetgeving op het buitengewoon onderwijs bedoelde inschrijvingsverslag;<br>
-2° voor de personen genoemd in § 2, 2°: het bij artikel 40, § 4, van het decreet van 27 juni 1990 houdende oprichting van een Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde multidisciplinair verslag, of een attest van een in artikel 22 van het besluit van de Vlaamse regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap bedoelde instantie, waaruit blijkt dat de persoon met een arbeidshandicap een intelligentiequotiënt heeft dat gelijk is aan of minder dan 55;<br>
-3° voor de personen genoemd in § 2, 3°: de sub 2° bedoelde multidisciplinaire attesten of verslagen;<br>
-4° voor de personen genoemd in § 2, 4°: een attest van de instelling die de kinderbijslag uitbetaalt, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
-5° voor de personen genoemd in § 2, 5°: een attest of een kopie van de beslissing van de Dienst voor Tegemoetkomin-gen aan Geten, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
-6° voor de personen genoemd in § 2, 6°: een attest van de psychiatrische voorzieningen, van de Dienst voor beschut wonen of van een geneesheer-specialist in de neuropsychiatrie waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet.<br>
+§ 3. De hoedanigheid van zwakke werknemer blijkt uit de volgende documenten:<br>
+1° voor de personen, vermeld paragraaf 2, derde lid, 1° : een attest of verklaring van de laatst bezochte buitengewone onderwijsinstelling<br>
+2° voor de personen, vermeld in paragraaf 2, derde lid, 2° : een multidisciplinair verslag, of een attest van een door de VDAB erkende instantie, waaruit blijkt dat de persoon met een arbeidshandicap een intelligentiequotiënt heeft dat gelijk is aan of minder dan 55;<br>
+3° voor de personen, vermeld in paragraaf 2, derde lid, 3° : een multidisciplinair verslag, of een attest van een door de VDAB erkende instantie, waaruit blijkt dat de persoon met een arbeidshandicap een intelligentiequotiënt heeft dat gelijk is aan of minder dan 70;<br>
+4° voor de personen, vermeld in paragraaf 2, derde lid, 4° : een attest van de instelling die de kinderbijslag uitbetaalt, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
+5° voor de personen, vermeld in paragraaf 2, derde lid, 5° : een attest of een kopie van de beslissing van de dienst voor tegemoetkomingen aan personen met een handicap, waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet;<br>
+6° voor de personen, vermeld in paragraaf 2, derde lid, 6° : een attest van de psychiatrische voorzieningen, van de dienst voor beschut wonen of van een geneesheer-specialist in de psychiatrie of in de neuropsychiatrie waaruit blijkt dat de aanvrager aan de in dit artikel bepaalde voorwaarden voldoet.<br>
 <br>
 § 4. Voor het jaar 2001 hebben de werknemers recht op subsidiëring van één carensdag als ze afwezig zijn wegens ziekte. Vanaf het jaar 2002 tot en met het jaar 2004 hebben de werknemers recht op subsidiëring van twee carensdagen als ze afwezig zijn wegens ziekte. Vanaf het jaar 2005 hebben de werknemers recht op subsidiëring van alle carensdagen als ze afwezig zijn wegens ziekte.<br>
 <br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>Deschrma</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>Deschrma</o:LastAuthor><br>  <o:Revision>2</o:Revision><br>  <o:TotalTime>13</o:TotalTime><br>  <o:Created>2006-11-06T09:38:00Z</o:Created><br>  <o:LastSaved>2006-11-06T09:38:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>17</o:Words><br>  <o:Characters>97</o:Characters><br>  <o:Company>Ministerie van de Vlaamse Gemeenschap</o:Company><br>  <o:Lines>1</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>113</o:CharactersWithSpaces><br>  <o:Version>11.6408</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br>table.MsoTableGrid<br>	&lftaco;mso-style-name:Tabelraster;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	border:solid windowtext 1.0pt;<br>	mso-border-alt:solid windowtext .5pt;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-border-insideh:.5pt solid windowtext;<br>	mso-border-insidev:.5pt solid windowtext;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]-->§ 5. Het bedrag van de subsidie vermeld in paragraaf 1, wordt verhoogd met een toelage voor de eindejaarspremie. Het bedrag van de toelage voor de eindejaarpremie wordt per gepresteerd uur of uur dat daarmee gelijkgesteld kan worden, voor de volgende jaren vastgesteld op :<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 &nbsp;
@@ -96,7 +97,11 @@ Onder zwakke werknemers wordt verstaan:<br>
 <br>
 Het bedrag van de toelage voor de eindejaarspremie wordt voor de jaren 2006 tot en met 2011 gekoppeld aan de spilindex 102,10. Het wordt met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
-Het bedrag van de toelage voor de eindejaarspremie wordt vanaf 2012 gekoppeld aan de spilindex 114,97. Het wordt met ingang van 1 januari 2012 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+Het bedrag van de toelage voor de eindejaarspremie wordt vanaf 2012 gekoppeld aan de spilindex 114,97. Het wordt met ingang van 1 januari 2012 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+§ 6. Het bedrag van de subsidie, vermeld in paragraaf 1, wordt verhoogd met een bijkomende toelage in de eindejaarspremie naar aanleiding van de verhoging van het vakantiegeld. Het bedrag wordt per gepresteerd uur of daarmee gelijkgesteld uur vastgesteld op 0,01392 in het jaar 2016 en de daaropvolgende jaren.<br>
+<br>
+Het bedrag van de bijkomende toelage voor de eindejaarspremie wordt gekoppeld aan de afgevlakte gezondheidsindex die in januari 2016 100.66 punten bedraagt en wordt met ingang van 27 april 2015 bij overschrijding van de spilindex geïndexeerd overeenkomstig de artikelen 2 tot en met artikel 2quater van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ## HOOFDSTUK III SUBSIDIEREGELING BETREFFENDE HET KADERPERSONEEL
 
@@ -228,56 +233,49 @@ Vanaf 2012 mag de subsidie voor monitor vermeld in het eerste lid, de volgende j
 <br>
 De bedragen, vermeld in het derde lid, worden gekoppeld aan de spilindex 114,97. Ze worden met ingang van 1 januari 2012 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
 <br>
-§ 3. De jaarlijkse bedragen, vermeld in artikel 4, § 2, betreffende de personeelsleden voor de « dienst sociaal beleid », vermeld in artikel 4, § 4, betreffende de personeelsleden « economische uitdagingen » en vermeld in § 2 van dit artikel betreffende de leider, assistent van de leider, monitor, bediende en maatschappelijk assistent (of sociaal verpleger), worden verhoogd met een toelage voor de eindejaarspremie.<br>
+§ 3. De subsidiebedragen worden verhoogd met een bijkomende toelage voor de eindejaarspremie voor de volgende personeelsleden:<br>
+1° de personeelsleden voor de dienst sociaal beleid, vermeld in artikel 4, § 2;<br>
+2° de personeelsleden economische uitdagingen, vermeld in artikel 4, § 4;<br>
+3° de leider, vermeld in artikel 4, § 1, 1° ;<br>
+4° de assistenten van de leider, vermeld in artikel 4, § 1, 2° ;<br>
+5° de monitors, vermeld in artikel 4, § 1, 3° ;<br>
+6° de bedienden, vermeld in artikel 4, § 1, 4° ;<br>
+7° de maatschappelijk assistent of sociale verplegers, vermeld in artikel 4, § 1, 5°.<br>
 <br>
-Het bedrag van de toelage, vermeld in het eerste lid, wordt vastgesteld op de volgende jaarlijkse bedragen :<br>
-
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+De bijkomende toelage, vermeld in het eerste lid, wordt vastgesteld op de volgende jaarlijkse bedragen :<br>
+&nbsp;
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; width:230.3pt">
-			<p>2006</p>
-			</td>
-			<td style="background-color:transparent; border-color:windowtext windowtext windowtext #d4d0c8; width:230.3pt">
-			<p>145,19 euro</p>
-			</td>
+			<td>2006</td>
+			<td>145,19 euro</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
-			<p>2007</p>
-			</td>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
-			<p>318,93 euro</p>
-			</td>
+			<td>2007</td>
+			<td>318,93 euro</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
-			<p>2008</p>
-			</td>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
-			<p>492,68 euro</p>
-			</td>
+			<td>2008</td>
+			<td>492,68 euro</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
-			<p>2009</p>
-			</td>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
-			<p>664,84 euro</p>
-			</td>
+			<td>2009</td>
+			<td>664,84 euro</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext; width:230.3pt">
-			<p>2010 en volgende jaren</p>
-			</td>
-			<td style="background-color:transparent; border-color:#d4d0c8 windowtext windowtext #d4d0c8; width:230.3pt">
-			<p>838,58 euro</p>
-			</td>
+			<td>2010-2015</td>
+			<td>838,58 euro</td>
+		</tr>
+		<tr>
+			<td>2016 en volgende</td>
+			<td>2.105,26 euro</td>
 		</tr>
 	</tbody>
 </table>
 <br>
-Deze bedragen worden gekoppeld aan de spilindex 102,10. Ze worden met ingang van 1 januari 2006 geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
+De bedragen tot en met 2015 worden gekoppeld aan de spilindex 102,10 (januari 2006) en worden bij overschrijding van de spilindex geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 tot uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.<br>
+<br>
+Het bedrag voor 2016 en de daaropvolgende jaren wordt gekoppeld aan de afgevlakte gezondheidsindex 100,66 (januari 2016), en wordt met ingang van 27 april 2015 bij overschrijding van de spilindex geïndexeerd overeenkomstig de bepalingen van het koninklijk besluit van 24 december 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen.
 
 ### ART. 7.
 
