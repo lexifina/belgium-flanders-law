@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027034,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 19 december 1996 houdende de subsidieregeling van het loon en van de sociale lasten van de werknemers in de beschutte werkplaatsen die erkend zijn door het Departement voor Werk en Sociale Economie en het besluit van de Vlaamse Regering van 17 december 1999 tot vaststelling van de erkenningsvoorwaarden van de beschutte werkplaatsen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027034/VolledigDocument?datum=2016-02-08",
+  "source_sha256": "d3f4b1cc27f1fa6e36119802d09a18e533f850062e9f0dbab83e742a5476ce59",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027034&param=informatie",
+  "as_of": "2016-02-08",
+  "made": "2016-07-01",
+  "gazette": "2016-07-15",
+  "numac": 2016036118,
+  "document_start": "2016-02-08",
+  "document_end": null,
+  "in_force": "2016-02-08",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-02-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
