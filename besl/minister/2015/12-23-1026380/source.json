@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026380,
+  "title": "Ministerieel besluit van 2015-12-23 tot wijziging van artikel 1, 2, 3 en 7 van het ministerieel besluit van 6 juni 2013 tot erkenning van centra voor paarden met toepassing van artikel 35 van het Fokkerijbesluit van 19 maart 2010",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026380/VolledigDocument?datum=2016-02-12",
+  "source_sha256": "38905576f53c613a38c88e15a746b0da2e655b7e52f3ef89654fd8aa5976bfff",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026380&param=informatie",
+  "as_of": "2016-02-12",
+  "made": "2015-12-23",
+  "gazette": "2016-02-02",
+  "numac": 2016035087,
+  "document_start": "2016-02-12",
+  "document_end": null,
+  "in_force": "2016-02-12",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-02-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
