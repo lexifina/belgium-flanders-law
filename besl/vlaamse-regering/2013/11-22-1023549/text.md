@@ -83,6 +83,10 @@ De minister bepaalt de nadere regels, onder meer de gegevens die de organisator 
 
 ## [HOOFDSTUK 6 Integriteit en geschiktheid (ing. BVR 11 december 2015, art. 30, I: 13 februari 2016)]
 
+### ART. 10/1.
+
+De organisator heeft de integriteit en geschiktheid om op een rechtmatige   manier, rekening houdend met geldende normen en waarden, met subsidies om te   gaan en de daarbij horende specifieke dienstverlening en subsidievoorwaarden na   te leven.
+
 ## TITEL 2 Basissubsidie
 
 ## HOOFDSTUK 1 Bedrag subsidie
