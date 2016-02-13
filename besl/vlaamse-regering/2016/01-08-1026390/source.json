@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026390,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, wat betreft criteria voor overstromingsrisicobeheerdoelstellingen en oppervlaktewatertekortbeheerdoelstellingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026390/VolledigDocument?datum=2016-02-13",
+  "source_sha256": "f60baf991049f8a83673554a805fffe0d9b9cea9bc5760c247719b8931937cf4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026390&param=informatie",
+  "as_of": "2016-02-13",
+  "made": "2016-01-08",
+  "gazette": "2016-02-03",
+  "numac": 2016035088,
+  "document_start": "2016-02-13",
+  "document_end": null,
+  "in_force": "2016-02-13",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
