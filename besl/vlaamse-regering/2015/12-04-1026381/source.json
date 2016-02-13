@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026381,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-04 houdende de herverdeling van het provisioneel krediet ingeschreven onder begrotingsartikel CB0-1CBB2AB-PR van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026381/VolledigDocument?datum=2016-02-13",
+  "source_sha256": "990fa2a3829d2a763807b12738bae8b046d00c9cec25dd7bd6ab2529b372da95",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026381&param=informatie",
+  "as_of": "2016-02-13",
+  "made": "2015-12-04",
+  "gazette": "2016-02-03",
+  "numac": 2016035068,
+  "document_start": "2016-02-13",
+  "document_end": null,
+  "in_force": "2016-02-13",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-02-13; oldest version available; future article versions excluded; article text as the API gives it"
+}
