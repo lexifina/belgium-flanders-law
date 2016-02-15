@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026413,
+  "title": "Besluit van de Vlaamse Regering van 2015-12-18 tot vaststelling van het bedrag ter financiering van de creatie van bijkomende tewerkstelling, voorzien in de akkoorden van 25 februari 2011 en 24 oktober 2012 die werden ondertekend door de federale regering en de representatieve organisaties van werkgevers en werknemers van de federale gezondheidssectoren voor de sector van de ambulante revalidatiecentra en van de openbare psychiatrische verzorgingstehuizen voor het kalenderjaar 2015",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026413/VolledigDocument?datum=2016-02-15",
+  "source_sha256": "421d34b4055442ad9ac6e48a5071cde6668ebd161d35a7b5ffaa674b17d5f1a2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026413&param=informatie",
+  "as_of": "2016-02-15",
+  "made": "2015-12-18",
+  "gazette": "2016-02-05",
+  "numac": 2016035062,
+  "document_start": "2016-02-15",
+  "document_end": null,
+  "in_force": "2016-02-15",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-02-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
