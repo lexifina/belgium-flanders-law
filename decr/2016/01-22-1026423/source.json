@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026423,
+  "title": "Decreet van 2016-01-22 houdende instemming met het samenwerkingsakkoord van 17 juli 2015 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de overdracht van toegewezen eenheden naar de gewesten voor de periode 2008-2012",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026423/VolledigDocument?datum=2016-02-19",
+  "source_sha256": "6fdcb6efce41f66722e9021678670266bf86ee5539fe4985bf3974c09f8730f7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026423&param=informatie",
+  "as_of": "2016-02-19",
+  "made": "2016-01-22",
+  "gazette": "2016-02-09",
+  "numac": 2016035120,
+  "document_start": "2016-02-19",
+  "document_end": null,
+  "in_force": "2016-02-19",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-02-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
