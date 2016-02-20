@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026426,
+  "title": "Decreet van 2016-01-22 houdende instemming met het Benelux-Verdrag betreffende grensoverschrijdende samenwerking inzake wegvervoerinspectie, gedaan te Luik op 3 oktober 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026426/VolledigDocument?datum=2016-02-20",
+  "source_sha256": "08813798eda5c95c3c9d65fbe262990fbb93d4a7c4d7e1401a0d20afb81b8950",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026426&param=informatie",
+  "as_of": "2016-02-20",
+  "made": "2016-01-22",
+  "gazette": "2016-02-10",
+  "numac": 2016035121,
+  "document_start": "2016-02-20",
+  "document_end": null,
+  "in_force": "2016-02-20",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-02-20; oldest version available; future article versions excluded; article text as the API gives it"
+}
