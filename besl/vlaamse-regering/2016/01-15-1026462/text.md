@@ -36,6 +36,21 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 
 ## HOOFDSTUK 4 Diplomavoorwaarden
 
+### ART. 7.
+
+<p>§ 1. De ten laste genomen dienstverlening wordt uitgevoerd door tolken Vlaamse Gebarentaal en schrijftolken die ingeschreven zijn bij het centraal tolkenbureau.</p>
+
+<p>§ 2. Een tolk Vlaamse Gebarentaal moet in het bezit zijn van een van de volgende diploma's, behaald aan een door de Vlaamse Gemeenschap erkende, gefinancierde of gesubsidieerde onderwijsinstelling:<br>
+1° "Tolk voor Doven";<br>
+2° "Tolk voor Doven - optie Tolk Vlaamse Gebarentaal";<br>
+3° "Master in het Tolken" met Vlaamse Gebarentaal in het talenpakket.</p>
+
+<p>In afwijking van het eerste lid kunnen de toegekende tolkuren ook worden uitgevoerd door een tolk die een verklaring van NARIC-Vlaanderen kan voorleggen. Uit die verklaring moet blijken dat het buitenlandse diploma erkend is in het land van uitreiking.</p>
+
+<p>In afwijking van het eerste lid kunnen de tolken die op 1 januari 2004 een erkenning hadden overeenkomstig artikel 15 van het besluit van de Vlaamse Regering van 20 juli 1994 houdende vaststelling van de regels volgens dewelke het Vlaams Agentschap voor Personen met een Handicap de kosten van bijstand door tolken voor doven en slechthorenden ten laste nemen, zoals van toepassing op 1 januari 2004, ook ten laste genomen tolkuren uitvoeren.</p>
+
+<p>§ 3. De schrijftolk moet in het bezit zijn van een A1-diploma of van een bachelordiploma.</p>
+
 ## HOOFDSTUK 5 Contractuele tolken, afstandstolken en teletolken
 
 ### ART. 8.
@@ -61,6 +76,19 @@ De   agentschappen betalen de kosten van de door hen ten laste genomen   dienstv
 ### ART. 12.
 
 <P>&nbsp;Het centraal tolkenbureau heeft als   opdracht voor elk van de agentschappen om:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   als bemiddelaar op te treden tussen de aanvrager en de tolken Vlaamse   Gebarentaal en schrijftolken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   als klachtenbemiddelaar op te treden voor de tolkendienstverlening in het   algemeen en misbruiken zo nodig aan de agentschappen te signaleren;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   voldoende uitgerust te zijn om:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">a)   te kunnen voorzien in een optimale bereikbaarheid voor de gebruikers en daarvoor   over een aangepast oproepsysteem beschikken;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">b)   te kunnen voorzien in een optimale dienstverlening voor de gebruikers en   daarvoor een online overzicht voor de opvolging van de beschikbare tolkuren ter   beschikking stellen;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">c)   de ideologische, filosofische of godsdienstige overtuiging van de gebruikers te   eerbiedigen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Elk   van de agentschappen kan voor de dienstverlening die het ten laste heeft genomen   in de samenwerkingsovereenkomst de opdracht, vermeld in het eerste lid, verder   concretiseren en eventueel uitbreiden.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
+### ART. 13.
+
+<p>Als vastgesteld wordt dat het centraal tolkenbureau zijn verbintenissen, vermeld in dit besluit, niet nakomt, kan elk van de agentschappen afzonderlijk:<br>
+1° een vertegenwoordiger laten deelnemen aan de raad van bestuur van het centraal tolkenbureau. De vertegenwoordiger van het betrokken agentschap heeft het recht om te spreken en aanbevelingen te doen;<br>
+2° de periodiciteit van de rapportering, vermeld in de samenwerkingsovereenkomst, opdrijven en bijkomende elementen vaststellen waarover gerapporteerd moet worden;<br>
+3° de werkingskosten, vermeld in de samenwerkingsovereenkomst, geheel of gedeeltelijk terugvorderen.</p>
+
+<p>Het centraal tolkenbureau neemt de mogelijkheid, vermeld in het eerste lid, 1°, op in zijn statuten.</p>
+
+<p>Elk van de agentschappen bepaalt bij tekortkomingen welke sanctie het meest aangewezen is en betekent de beslissing aan het centraal tolkenbureau. De beslissing wordt met redenen omkleed en in een aangetekende brief meegedeeld.</p>
+
+<p>Het centraal tolkenbureau kan schriftelijk bezwaar indienen ofwel bij de Vlaamse minister, bevoegd voor het onderwijs, ofwel bij de Vlaamse minister, bevoegd voor de bijstand aan personen, afhankelijk van het bestraffende agentschap. Het bezwaar moet op straffe van verval binnen veertien dagen na de ontvangst van de betekening worden ingediend. Na onderzoek van de bezwaren bevestigt of ontkracht de voormelde Vlaamse minister de sanctie.</p>
 
 ### ART. 14.
 
