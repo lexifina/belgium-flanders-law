@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026467,
+  "title": "Ministerieel besluit van 2015-12-23 tot uitvoering van diverse bepalingen van het besluit van de Vlaamse Regering van 26 april 2013 houdende vaststelling en organisatie van de indeling van geslachte runderen en van geslachte varkens",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026467/VolledigDocument?datum=2016-02-21",
+  "source_sha256": "aeeea33a923ee3cb521430c7bde8503c46a7da268eabad76401bd8b76e7d531b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026467&param=informatie",
+  "as_of": "2016-02-21",
+  "made": "2015-12-23",
+  "gazette": "2016-02-11",
+  "numac": 2016035101,
+  "document_start": "2016-02-21",
+  "document_end": null,
+  "in_force": "2016-02-21",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2016-02-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
