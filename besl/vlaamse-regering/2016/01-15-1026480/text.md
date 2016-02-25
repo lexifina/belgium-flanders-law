@@ -11,3 +11,11 @@
 ### ART. 2.
 
 In   hoofdstuk 3 van het besluit van de Vlaamse Regering van 16 mei 2014 houdende   overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de   dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie   van dit personeel en van de bestuursrechters van sommige Vlaamse   bestuursrechtscolleges, wordt afdeling 8, die bestaat uit artikel 34/1,   opgeheven.
+
+### ART. 3.
+
+<P>Artikel   1 heeft uitwerking met ingang van 1 november 2014.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   2 heeft uitwerking met ingang van 1 januari 2016.</P>
+
+### ART. 4.
+
+De   minister-president, bevoegd voor het algemeen regeringsbeleid, en de Vlaamse   minister, bevoegd voor de ruimtelijke ordening, zijn ieder wat hem of haar   betreft, belast met de uitvoering van dit besluit.

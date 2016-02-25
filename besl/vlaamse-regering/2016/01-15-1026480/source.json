@@ -2,16 +2,16 @@
   "codex_id": 1026480,
   "title": "Besluit van de Vlaamse Regering van 2016-01-15 tot wijziging van het besluit van de Vlaamse Regering van 16 mei 2014 houdende overdracht van personeel van sommige Vlaamse bestuursrechtscolleges naar de dienst van de Bestuursrechtscolleges en tot vaststelling van de rechtspositie van dit personeel en van de bestuursrechters van sommige Vlaamse bestuursrechtscolleges, wat de vergoeding van de aanvullende bestuursrechters van de Raad voor Vergunningsbetwistingen betreft",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026480/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "da4d3f43a1c8056c75b358b0ce7764ce1e2b53c217425b33453513c4ba0c1519",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026480/VolledigDocument?datum=2016-02-25",
+  "source_sha256": "99b26a91890f94c98639e0bc42082c18cfeb8ecdf496ff45f6f4682f7c8a1e2e",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026480&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-02-25",
   "made": "2016-01-15",
   "gazette": "2016-02-15",
   "numac": 2016035169,
   "document_start": "2016-02-25",
   "document_end": null,
-  "in_force": "2016-01-01",
-  "article_versions": 3,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-02-25",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-02-25; future article versions excluded; article text as the API gives it"
 }
