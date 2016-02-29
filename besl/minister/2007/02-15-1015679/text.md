@@ -6,12 +6,12 @@ De Vlaamse minister van Binnenlands Bestuur, Stedenbeleid, Wonen en Inburgering,
 
 ### ART. 1.
 
-De groeifactor G, vermeld in artikel 31, § 4, 1°, c), van het besluit van de Vlaamse Regering van 15 december 2006 betreffende het Vlaamse inburgeringsbeleid, bedraagt voor het kalenderjaar 2007 1,96.<br /><br />
+...
 
 ### ART. 2.
 
-§ 1.Voor het kalenderjaar 2007 bedraagt de totale subsidie-enveloppe, vermeld in artikel 30 van het besluit van de Vlaamse Regering van 15 december 2006 betreffende het Vlaamse inburgeringsbeleid :<br />1° voor de erkende onthaalbureaus, met uitzondering van het onthaalbureau voor het tweetalige gebied Brussel Hoofdstad, 21.101.107,01 euro (eenentwintig miljoen honderdeneenduizend honderdenzeven euro en een cent);<br />2° voor het tweetalige gebied Brussel-Hoofdstad 3.723.724,77 euro (drie miljoen zevenhonderddrieëntwintigduizend zevenhonderd vierentwintig euro zevenenzeventig cent.)<br /><br />Het bedrag van de subsidie-enveloppen voor de erkende onthaalbureaus wordt aangerekend op basisallocatie 34.02 van programma 41.7 van de begroting van het ministerie van de Vlaamse Gemeenschap voor het begrotingsjaar 2007.<br /><br />
+...
 
 ### ART. 3.
 
-Dit besluit heeft uitwerking met ingang van 1 januari 2007.<br /><br />
+...
