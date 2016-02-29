@@ -2,16 +2,16 @@
   "codex_id": 1019989,
   "title": "Besluit van de Vlaamse Regering van 2010-11-12 met betrekking tot de uitvoering van het decreet betreffende het Vlaamse integratiebeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019989/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "a5d37e01af6c89450c0033427c90238656331c48cf40290c7257570f35988481",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1019989/VolledigDocument?datum=2016-02-29",
+  "source_sha256": "d91ec5d5a44ff9081d94f5db8a322a54e57a668c799ff39d4b5be003192064bb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1019989&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2016-02-29",
   "made": "2010-11-12",
   "gazette": "2011-02-04",
   "numac": 2011035087,
   "document_start": "2011-01-01",
   "document_end": "2020-12-31",
-  "in_force": "2014-01-01",
+  "in_force": "2016-02-29",
   "article_versions": 80,
-  "record_form": "consolidated version as in force on 2014-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-02-29; future article versions excluded; article text as the API gives it"
 }
