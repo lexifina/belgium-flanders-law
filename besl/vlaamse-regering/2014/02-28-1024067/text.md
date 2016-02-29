@@ -6,20 +6,20 @@
 
 ### ART. 1.
 
-Artikel 29, § 1, derde lid, van het decreet van 7 juni 2013 betreffende   het Vlaamse integratie- en inburgeringsbeleid treedt in werking.   <BR>
+...
 
 ### ART. 2.
 
-Voor inburgeraars die een opleiding volgen van het leergebied   alfabetisering Nederlands tweede taal, vermeld in artikel 6, 1°, van het decreet   van 15 juni 2007 betreffende het volwassenenonderwijs, wordt de opleiding   Nederlands als tweede taal beperkt tot de modules Breakthrough van opleiding NT2   R1, vermeld in bijlagen II en III bij het besluit van de Vlaamse Regering van 19   juli 2007 betreffende de modulaire structuur van de leergebieden van de   basiseducatie. <BR>
+...
 
 ### ART. 3.
 
-De verbintenissen inzake Nederlands als tweede taal die als onderdeel van   het vormingsprogramma opgenomen zijn in inburgeringscontracten, die voor de   datum van de inwerkingtreding van dit besluit gesloten zijn met toepassing van   artikel 13 van het decreet van 28 februari 2003 betreffende het Vlaamse   inburgeringsbeleid, blijven gelden voor de duur van die voormelde   inburgeringscontracten.<BR>
+...
 
 ### ART. 4.
 
-Dit besluit treedt in werking op 1 september 2014. <BR>
+...
 
 ### ART. 5.
 
-De Vlaamse minister, bevoegd voor het beleid inzake onthaal en integratie   van inwijkelingen, is belast met de uitvoering van dit   besluit.<BR>
+...

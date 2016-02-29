@@ -2,16 +2,16 @@
   "codex_id": 1024067,
   "title": "Besluit van de Vlaamse Regering van 2014-02-28 betreffende de inwerkingtreding van artikel 29, § 1, derde lid, van het decreet van 7 juni 2013 betreffende het Vlaamse integratie- en inburgeringsbeleid",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024067/VolledigDocument?datum=2014-09-01",
-  "source_sha256": "7d4a6e83ae5ab209406f0f497bf3c5dd5549d276b76151af3e4f96c669b828d5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024067/VolledigDocument?datum=2016-02-29",
+  "source_sha256": "be2dafd776c9ca950a2b2d4ff40186e52017b638eb3a8753ac981c62b9c35539",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024067&param=informatie",
-  "as_of": "2014-09-01",
+  "as_of": "2016-02-29",
   "made": "2014-02-28",
   "gazette": "2014-05-02",
   "numac": 2014035327,
   "document_start": "2014-09-01",
   "document_end": "2016-02-28",
-  "in_force": "2014-09-01",
+  "in_force": "2016-02-29",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2014-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-02-29; future article versions excluded; article text as the API gives it"
 }
