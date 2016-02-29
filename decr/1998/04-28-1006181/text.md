@@ -8,7 +8,7 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° VLEMI : het Vlaams   Expertisecentrum Migratie en Integratie, zoals omschreven in artikel 10 van het   decreet van 28 april 1998;<BR>2° integratiecentrum : een door de Vlaamse   Regering erkend en gesubsidieerd provinciaal of lokaal centrum dat als opdracht   heeft, de uitvoering van het Vlaamse integratiebeleid te stimuleren en te   ondersteunen;<BR>3° integratiedienst : een dienst van de steden en gemeenten die   als opdracht heeft, het integratiebeleid op gemeentelijk vlak uit te voeren, te   stimuleren en te ondersteunen;<BR>4° centrumstad : de steden, vermeld in artikel   4 van het decreet van 13 december 2002 tot vaststelling van de regels inzake de   werking en de verdeling van het Vlaams Stedenfonds;<BR>5° sociaal tolken : de   vorm van tolken waarbij de mondelinge boodschap volledig en getrouw wordt   omgezet uit een brontaal naar een doeltaal met als doel overheidsdiensten en   maatschappelijke voorzieningen te ondersteunen in hun communicatie met   anderstalige cliënten;<BR>6° sociaal telefoontolken : de vorm van sociaal tolken   waarbij de sociaal tolk het gesprek tussen de overheidsdienst of de   maatschappelijke voorziening en de anderstalige cliënt of cliënten op afstand   tolkt;<BR>7° sociaal tolken ter plaatse : de vorm van sociaal tolken waarbij de   sociaal tolk fysiek aanwezig is bij het gesprek tussen de overheidsdienst of de   maatschappelijke voorziening en de anderstalige cliënt of cliënten;<BR>8°   sociaal vertalen : de vorm van vertalen waarbij de geschreven boodschap volledig   en getrouw wordt omgezet uit een brontaal naar een doeltaal met als doel   overheidsdiensten en maatschappelijke voorzieningen te ondersteunen in hun   communicatie met anderstalige cliënten;<BR>9° dienst voor sociaal tolken en   vertalen : een door de Vlaamse Regering erkende en gesubsidieerde dienst die   voorziet in een aanbod van sociaal tolken en vertalen voor de overheidsdiensten   en maatschappelijke voorzieningen in zijn werkingsgebied;<BR>10° gebruikers : de   overheidsdiensten en maatschappelijke voorzieningen in het Nederlandse   taalgebied of in het tweetalige gebied Brussel-Hoofdstad die een beroep doen op   de dienstverlening van een dienst voor sociaal tolken en vertalen;<BR>11°   gebruikersoverheid : de overheid die zelf een beroep doet op een dienst voor   sociaal tolken en vertalen of die de maatschappelijke voorzieningen subsidieert   die een beroep doen op een dienst voor sociaal tolken en vertalen;<BR>12° Vlaams   register voor sociaal tolken en vertalers : het centraal gegevensbestand van   gecertificeerde sociaal tolken en vertalers dat ter beschikking wordt gesteld   van de erkende diensten voor sociaal tolken en vertalen;<BR>13°   kwaliteitstraject : het continu proces van kwaliteitsverbetering en   kwaliteitsborging van het sociaal tolken en vertalen via het ontwikkelen,   toepassen en bijsturen van kwaliteitsinstrumenten;<BR>14° Planlastendecreet :   het decreet van 15 juli 2011 houdende vaststelling van de algemene regels   waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en   rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<BR>15°   strategische meerjarenplanning : de meerjarenplanning bedoeld in het   Gemeentedecreet van 15 juli 2005;<BR>16° integratiesubsidie : een subsidie die   steden en gemeenten ontvangen in het kader van dit decreet om, conform de   bepalingen van het Planlastendecreet, een lokale invulling te geven aan de   Vlaamse beleidsprioriteiten inzake het integratiebeleid.<BR><BR>De mannelijke   vorm verwijst in dit decreet zowel naar mannen als naar vrouwen.
+In dit decreet wordt verstaan onder :<BR>1° ...;<BR>2° ...;<BR>3°   ...;<BR>4° ...;<BR>5° ...;<BR>6° ...;<BR>7° ...;<BR>8° ...;<BR>9° ...;<BR>10°   ...;<BR>11° ...;<BR>12° ...;<BR>13° ...;<BR>14° Planlastendecreet : het decreet   van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de   Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en   rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<BR>15°   strategische meerjarenplanning : de meerjarenplanning bedoeld in het   Gemeentedecreet van 15 juli 2005;<BR>16° integratiesubsidie : een subsidie die   steden en gemeenten ontvangen in het kader van dit decreet om, conform de   bepalingen van het Planlastendecreet, een lokale invulling te geven aan de   Vlaamse beleidsprioriteiten inzake het integratiebeleid.
 
 ## HOOFDSTUK II [DOELSTELLINGEN (verv. decr. 30 april 2009, art. 4)]
 
@@ -22,25 +22,25 @@ Artikel 4. § 1. Het integratiebeleid is een driesporenbeleid :<br />1° een ema
 
 ### ART. 5.
 
-§ 1. Ter uitvoering van het integratiebeleid dienen de Vlaamse regering, de Vlaamse Gemeenschapscommissie , de provincies, en de steden en gemeenten in het Nederlandse taalgebied te voorzien in:<br />1° het uitwerken van maatregelen in de respectieve beleidsdomeinen;<br />2° de coördinatie tussen beleidsdomeinen en met de betrokken actoren;<br />3° het overleg tussen de betrokken diensten en partners;<br />4° het advies door en overleg met de organisaties van personen, vermeld in artikel 3, eerste lid, 1° en 2°.<br /><br />§ 2. ...
+<P>...</P>
 
 ## HOOFDSTUK III [... (opgeh. BVR 29 januari 2016. art. 58, I: 29 februari 2016)]
 
 ### ART. 6.
 
-§ 1. De Vlaamse Regering stelt binnen twaalf maanden na haar aantreden de strategische en operationele doelstellingen vast, waarmee op elk relevant beleidsdomein de doelstellingen van het integratiebeleid, vermeld in artikel 4, zullen worden ingevuld.<br /><br />Binnen zes maanden nadat de Vlaamse Regering de strategische en operationele doelstellingen heeft vastgelegd, wordt een geïntegreerd actieplan opgesteld. Het actieplan omvat minstens :<br />1° de beschrijving van de geformuleerde strategische en operationele doelstellingen binnen elk beleidsdomein;<br />2° een analyse per beleidsdomein van de maatschappelijke context waarbinnen die doelstellingen gerealiseerd moeten worden;<br />3° de concrete acties die genomen moeten worden om de geformuleerde doelstellingen te realiseren;<br />4° het tijdpad, opgesteld voor de uitvoering van die acties;<br />5° de opgave van de indicatoren waarmee de voortgang wordt gemeten;<br />6° de ingezette middelen en instrumenten.<br /><br />§ 2. Het actieplan wordt na twee jaar geactualiseerd. Die actualisering omvat minstens :<br />1° een analyse per beleidsdomein van de maatschappelijke ontwikkelingen die relevant zijn voor het integratiebeleid;<br />2° een beschrijving per beleidsdomein van de voortgang van de acties, en de eventuele bijsturingen;<br />3° de nieuwe acties binnen elk beleidsdomein, met opgave van het tijdpad en de indicatoren.<br /><br />§ 3. De Vlaamse Regering kan beslissen om het actieplan, vermeld in § 1, tweede lid, af te stemmen op het actieplan, vermeld in artikel 10 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid.
+<P>...</P>
 
 ### ART. 7.
 
-§ 1. Binnen de administratieve diensten van de Vlaamse overheid wordt een commissie Integratiebeleid opgericht met als opdracht :<br />1° toe te zien op de coherentie, synergie en coördinatie van het integratiebeleid, vermeld in artikel 4;<br />2° het geïntegreerde actieplan, vermeld in artikel 6, § 1, tweede lid, op te stellen;<br />3° de acties van de verschillende beleidsdomeinen op elkaar af te stemmen;<br />4° de impact van de acties te analyseren;<br />5° het actieplan te evalueren;<br />6° het actieplan te actualiseren.<br /><br />De Vlaamse Regering bepaalt de werking van de commissie en stelt uiterlijk zes maanden na het samenstellen van de Vlaamse Regering, de commissie samen. Een vertegenwoordiger van het VLEMI, van de participatieorganisatie, vermeld in artikel 17/1, § 1, van de Vlaamse Vereniging van Steden en Gemeenten en van de Vlaamse Vereniging voor Provincies worden als waarnemend lid aangewezen. Ten hoogste twee derde van de leden van de commissie zijn van hetzelfde geslacht.<br /><br />De commissie komt minstens twee maal per jaar samen.<br /><br />Er wordt minimaal gezorgd voor een coördinatie met de commissie, vermeld in artikel 12 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid. De Vlaamse Regering kan bepalen dat de commissie Integratiebeleid en de commissie, vermeld in artikel 12 van het decreet van 10 juli 2008 houdende een kader voor het Vlaamse gelijkekansen- en gelijkebehandelingsbeleid, fuseren, en kan daarvoor de voorwaarden vaststellen.<br /><br />§ 2. De Vlaamse Regering belast een of meer personeelsleden van de Vlaamse overheid met een coördinerende opdracht.<br /><br />§ 3. De commissie rapporteert jaarlijks aan de Vlaamse Regering over de realisatie en de voortgang van het gevoerde beleid.<br /><br />§ 4. De Vlaamse Regering kan de opdracht van de commissie, vermeld in § 1, en de rapportageverplichting, vermeld in § 3, concretiseren en aanvullen.
+...
 
 ### ART. 8.
 
-De Vlaamse Regering geeft opdracht aan alle relevante Vlaamse ministeries, intern verzelfstandigde agentschappen met rechtspersoonlijkheid en extern verzelfstandigde agentschappen van de Vlaamse overheid, of andere instellingen, verenigingen of ondernemingen die opgericht werden door de Vlaamse Gemeenschap of het Vlaamse Gewest of door de federale overheid voor aangelegenheden die nu tot de bevoegdheid van de gewesten of gemeenschappen behoren, of waarin de Vlaamse Gemeenschap of het Vlaamse Gewest voor meer dan de helft deelneemt, om :<br />1° het integratiebeleid, vermeld in artikel 4, binnen hun beleidsdomein voor te bereiden, uit te voeren en te evalueren;<br />2° minstens een vertegenwoordiger voor te dragen die zetelt in de commissie, vermeld in artikel 7.
+<P>...</P>
 
 ### ART. 9.
 
-De Vlaamse Regering brengt, per beleidsdomein, tweejaarlijks verslag uit aan het Vlaams Parlement over het gevoerde integratiebeleid, vermeld in artikel 4.
+<P>...</P>
 
 ## HOOFDSTUK IV [... (opgeh. BVR 29 januari 2016. art. 59, I: 29 februari 2016)]
 
@@ -48,37 +48,37 @@ De Vlaamse Regering brengt, per beleidsdomein, tweejaarlijks verslag uit aan het
 
 ### ART. 10.
 
-Voor de ondersteuning van de steden en gemeenten, en de integratiecentra erkent de Vlaamse Regering een expertisecentrum, namelijk het Vlaams Expertisecentrum Migratie en Integratie, afgekort tot VLEMI.<br /><br />De Vlaamse Regering kan de benaming van het VLEMI wijzigen.
+<P>...</P>
 
 ### ART. 11.
 
-Het VLEMI heeft tot taak bij te dragen tot de uitvoering, de ondersteuning en de voortgangsbewaking van het integratiebeleid. Daartoe vervult het de volgende algemene opdrachten :<br />1° de integratiecentra, de steden en gemeenten, ondersteunen en begeleiden op logistiek en administratief vlak;<br />2° de integratiecentra ondersteunen en begeleiden op inhoudelijk vlak;<br />3° de steden en gemeenten ondersteunen en begeleiden op inhoudelijk vlak, in samenwerking met het integratiecentrum in het betrokken werkingsgebied;<br />4° samenwerkingsverbanden met relevante organisaties en instellingen opzetten en ze ondersteunen bij het voeren van een inclusief beleid;<br />5° methodieken ontwikkelen en deskundigheid bevorderen inzake het werken met personen als vermeld in artikel 3, eerste lid, 1° en 2°, en artikel 3, tweede lid, en inzake het integratiebeleid in het algemeen;<br />6° de ontwikkelde methodieken en opgebouwde deskundigheid aanbieden aan besturen, organisaties en voorzieningen, en zorgen voor de nodige begeleiding van die cliënten;<br />7° inzake vreemdelingenrecht en internationaal privaatrecht de ontwikkelingen op andere beleidsniveaus volgen en expertise opbouwen waar die een vertaling vereisen naar het Vlaamse beleid, en ondersteuning in deze materie bieden aan besturen, organisaties en voorzieningen;<br />8° de samenhang en stroomlijning van de activiteiten van de provinciale en lokale integratiecentra uitwerken en bewaken, en daartoe :<br />a) voor de provinciale en lokale integratiecentra driejaarlijks een strategisch planningskader uitwerken dat voor advies wordt voorgelegd aan de commissie, vermeld in artikel 7, en dat goedgekeurd wordt door de Vlaamse Regering. De Vlaamse Regering bepaalt de nadere regeling;<br />b) de meerjarenconvenanten van de provinciale en lokale integratiecentra op elkaar afstemmen en zorgen voor gemeenschappelijke diensten, voor zover dat nodig en nuttig is;<br />c) gemeenschappelijke initiatieven bevorderen;<br />9° een documentatiecentrum uitbouwen;<br />10° knelpunten signaleren en beleidsaanbevelingen voor het integratiebeleid aan de Vlaamse overheid bezorgen;<br />11° de overdracht van de inburgeraar van het onthaalbureau aan de reguliere voorzieningen, vermeld in hoofdstuk IV, afdeling III, van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, ondersteunen en faciliteren;<br />12° acties rond beeldvorming en sensibilisering opzetten, al of niet in opdracht van de Vlaamse overheid;<br />13° met betrekking tot de eigen werking een samenwerkingsovereenkomst afsluiten met de participatieorganisatie, vermeld in artikel 17/1, § 1, en met de Vereniging van Vlaamse Steden en Gemeenten.
+<P>...</P>
 
 ### ART. 12.
 
-De Vlaamse Regering kan, in het kader van de doelstellingen van dit decreet, aanvullende of specifieke opdrachten van het VLEMI bepalen.
+<P>...</P>
 
 ### ART. 13.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 11, sluit de Vlaamse Regering met het VLEMI een meerjarenconvenant voor een periode van vijf jaar. De vijfjarige periode start op 1 januari van het tweede jaar dat volgt op de verkiezing van het Vlaams Parlement. Dat convenant bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en de bijbehorende indicatoren;<br />4° een beschrijving van de samenwerking met de integratiecentra, de steden en gemeenten, de participatieorganisatie en de Vereniging van Vlaamse Steden en Gemeenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant en de wijze waarop het tot stand komt.
+<P>...</P>
 
 ### ART. 14.
 
-De vijfjaarlijkse convenant, vermeld in artikel 13, wordt geconcretiseerd in een jaarlijks operationeel plan, dat minstens de volgende elementen bevat :<br />1° een beschrijving van de geformuleerde strategische en operationele doelstellingen uit het convenant, waaraan in het jaar in kwestie gewerkt zal worden;<br />2° de concrete acties die genomen zullen worden om de geformuleerde resultaten te bereiken;<br />3° het tijdpad, opgesteld voor de uitvoering van die acties;<br />4° een opgave van de indicatoren waarmee de voortgang wordt gemeten;<br />5° de ingezette middelen en instrumenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan en de wijze waarop het tot stand komt.
+<P>...</P>
 
 ### ART. 15.
 
-Het VLEMI wordt erkend op basis van het eerste meerjarenconvenant, vermeld in artikel 13, en onder de volgende voorwaarden :<br />1° het VLEMI is een vereniging zonder winstoogmerk;<br />2° de algemene vergadering van het VLEMI bestaat ten minste uit de volgende leden :<br />a) drie leden die de Vlaamse Regering aanwijst, als waarnemer;<br />b) twee leden die de participatieorganisatie, vermeld in artikel 17/1, § 1, aanwijst;<br />c) één lid dat de stad Antwerpen aanwijst en één lid dat de stad Gent aanwijst;<br />d) twee leden die de Vereniging van Vlaamse Steden en Gemeenten aanwijst;<br />e) één lid dat de Vereniging van Vlaamse Provincies aanwijst;<br />f) één lid dat de Vlaamse Gemeenschapscommissie aanwijst;<br />g) één lid dat de provinciale integratiecentra, vermeld in artikel 19, § 1, aanwijzen, voor zover opgericht in de vorm van een vereniging zonder winstoogmerk;<br />h) één lid dat de diensten voor sociaal tolken en vertalen, vermeld in artikel 45/1, § 1, en artikel 45/2, § 1, aanwijzen;<br />i) twee leden die de onthaalbureaus, vermeld in artikel 6 van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, aanwijzen;<br />3° ten hoogste twee derde van de leden van de algemene vergadering, vermeld in 2° zijn van hetzelfde geslacht;<br />4° de raad van bestuur van het VLEMI bestaat uit ten minste één vertegenwoordiger per categorie van de verplichte leden van de algemene vergadering, vermeld in punt 2°.
+<P>...</P>
 
 ### ART. 16.
 
-De Vlaamse Regering bepaalt de voorwaarden en de procedure van de erkenning.
+<P>...</P>
 
 ## AFDELING 2 [... (opgeh. BVR 29 januari 2016. art. 59, I: 29 februari 2016)]
 
 ### ART. 17.
 
-Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering aan het erkende VLEMI een subsidie toe als tegemoetkoming in de kosten van personeel, infrastructuur en werking.<br /><br />De subsidie wordt toegekend op basis van het meerjarenconvenant, vermeld in artikel 13, dat met het VLEMI werd gesloten.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toekenning en vereffening van de subsidie.
+<P>...</P>
 
 ## [HOOFDSTUK IV/1 PARTICIPATIEORGANISATIE (ing. decr. 30 april 2009, art. 10)]
 
@@ -108,51 +108,51 @@ Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering aan de erkend
 
 ### ART. 18.
 
-De provinciebesturen hebben, zoals bepaald in artikel 5, § 1 en in samenhang met hun beleidsaccenten, een verantwoordelijkheid in het geheel van het minderhedenbeleid.<br /><br />Zoals bepaald in artikel 19 kunnen zij initiatiefnemer zijn voor de oprichting van een provinciaal integratiecentrum of samenwerken met de vereniging zonder winstoogmerk die door de Vlaamse regering als provinciaal integratiecentrum erkend is.
+<P>...</P>
 
 ## AFDELING 2 [... (opgeh. BVR 29 januari 2016. art. 60, I: 29 februari 2016)]
 
 ### ART. 19.
 
-§ 1. In elke provincie is één provinciaal integratiecentrum werkzaam, opgericht ofwel in de vorm van een vereniging zonder winstoogmerk, ofwel door het betrokken provinciebestuur.<br /><br />§ 2. De provinciale integratiecentra hebben, in aansluiting op de opdrachten van overheden als vermeld in artikel 5, een ondersteunende en stimulerende opdracht ten aanzien van het beleid in de verschillende maatschappelijke domeinen en op de verschillende beleidsniveaus. In dat verband draagt het provinciale integratiecentrum ertoe bij dat, binnen de provincie, het provinciebestuur en de steden en gemeenten en andere relevante beleidsinstanties, een gecoördineerd en inclusief integratiebeleid gevoerd wordt in overleg met de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties.<br /><br />Die algemene opdracht vervult het provinciale integratiecentrum in de eerste plaats voor gemeenten die geen integratiesubsidie ontvangen. Daarnaast speelt het integratiecentrum een ondersteunende rol voor gemeenten die wel een integratiesubsidie ontvangen. De opdracht wordt uitgevoerd in samenwerking met de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties.<br /><br />In het kader van die opdracht vervult het provinciaal integratiecentrum, in overleg en in samenwerking met het VLEMI en met de provinciale en lokale overheden, de volgende taken :<br />1° bijdragen tot een nauwkeurige analyse van de maatschappelijke context en de relatieve positie van de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en artikel 3, tweede lid;<br />2° het binnen de provincie gevoerde integratiebeleid analyseren, evalueren en stimuleren, en ontbrekende werkingen opsporen en signaleren;<br />3° in samenwerking met het VLEMI, methodieken en werkvormen uitwerken, die erop gericht zijn de integratie van personen als vermeld in artikel 3, eerste lid, 1° en 2°, te bevorderen en het beleid ten aanzien van personen als vermeld in artikel 3, tweede lid, uit te voeren;<br />4° de zelf, door het VLEMI of elders ontwikkelde methodieken en opgebouwde deskundigheid aanbieden aan besturen, organisaties en voorzieningen, en zorgen voor de nodige begeleiding van die cliënten;<br />5° de overheden, vermeld in artikel 5, en de relevante maatschappelijke sectoren stimuleren om een integratiebeleid te voeren;<br />6° erop toezien dat de personen vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties nauw bij het overheidsbeleid betrokken worden en die betrokkenheid ook stimuleren;<br />7° de overdracht van de inburgeraar van het onthaalbureau aan de reguliere voorzieningen, vermeld in hoofdstuk IV, afdeling III, van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, in samenwerking met het erkende onthaalbureau dat actief is in het werkingsgebied in kwestie ondersteunen en faciliteren;<br />8° waar nodig zelf initiatieven ontwikkelen die bijdragen tot de realisatie van het integratiebeleid;<br />9° een samenwerkingsovereenkomst met het provinciebestuur sluiten, waarin het meerjarenconvenant van het provinciaal integratiecentrum, vermeld in artikel 20, enerzijds en de acties van het provinciebestuur met betrekking tot het integratiebeleid anderzijds, op elkaar worden afgestemd.<br /><br />§ 3. De uitvoering van de in § 2 vermelde opdrachten wordt weergegeven in het meerjarenconvenant bedoeld in artikel 20.
+<P>...</P>
 
 ### ART. 20.
 
-§ 1. Voor de uitvoering van de opdrachten van het provinciaal integratiecentrum sluit de Vlaamse Regering met het centrum een meerjarenconvenant af voor een periode van drie jaar. De driejarige periode start op 1 januari van het tweede jaar dat volgt op de provincieraadsverkiezingen.<br /><br />Het meerjarenconvenant, dat opgemaakt wordt in overeenstemming met het strategisch planningskader zoals dat werd uitgewerkt door het VLEMI en goedgekeurd door de Vlaamse Regering, bevat minstens de volgende elementen : <br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en bijbehorende indicatoren;<br />4° een overzicht van de organisaties en voorzieningen die bij de uitvoering van het integratiebeleid een rol spelen, met inbegrip van de bijdrage van het provinciebestuur;<br />5° een beschrijving van de samenwerking met de steden en gemeenten en het onthaalbureau binnen het werkingsgebied.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant.<br /><br />§ 2. Het driejaarlijkse convenant wordt geconcretiseerd in een jaarlijks operationeel plan dat minstens de volgende elementen bevat :<br />1° een beschrijving van de geformuleerde strategische en operationele doelstellingen uit het convenant waaraan in het jaar in kwestie zal gewerkt worden;<br />2° de concrete acties die genomen moeten worden om de geformuleerde resultaten te bereiken;<br />3° het tijdpad, opgesteld voor de uitvoering van die acties;<br />4° een opgave van de indicatoren waarmee de voortgang wordt gemeten;<br />5° de ingezette middelen en instrumenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan.<br /><br />§ 3. Het meerjarenconvenant wordt door de algemene vergadering, respectievelijk door de provincieraad, goedgekeurd.
+<P>...</P>
 
 ## AFDELING 3 [... (opgeh. BVR 29 januari 2016. art. 60, I: 29 februari 2016)]
 
 ### ART. 21.
 
-Een in de vorm van een vereniging zonder winstoogmerk opgericht provinciaal integratiecentrum kan erkend worden indien de bestuursorganen ervan zijn samengesteld als volgt:<br /><br />1° vertegenwoordigers van de doelgroepen en hun organisaties waarvoor de Vlaamse regering het minimumaandeel bepaalt;<br /><br />2° vertegenwoordigers van de relevante maatschappelijke sectoren;<br /><br />3° een vertegenwoordiging van de stuurgroepen van de lokale steunpunten en in voorkomend geval van het lokale integratiecentrum;<br /><br />4° een vertegenwoordiging van het provinciebestuur en/of de lokale besturen.<br /><br />De Vlaamse regering kan bijkomende vereisten bepalen.
+<P>...</P>
 
 ### ART. 22.
 
-Een door het provinciebestuur opgericht provinciaal integratiecentrum kan erkend worden, indien een integratieraad bestaat, die is samengesteld als volgt:<br /><br />1° vertegenwoordigers van de doelgroepen en hun organisaties, waarvoor de Vlaamse regering het minimumaandeel bepaalt;<br /><br />2° vertegenwoordigers van de relevante maatschappelijke sectoren;<br /><br />3° een vertegenwoordiging van de stuurgroepen van de lokale steunpunten en in voorkomend geval van het lokale integratiecentrum;<br /><br />4° een vertegenwoordiging van het provinciebestuur en/of de lokale besturen.<br /><br />De Vlaamse regering kan bijkomende vereisten bepalen.
+<P>...</P>
 
 ## AFDELING 4 [... (opgeh. BVR 29 januari 2016. art. 60, I: 29 februari 2016)]
 
 ### ART. 23.
 
-De Vlaamse regering erkent per provincie één provinciaal integratiecentrum.<br /><br />Voor de erkenning van het integratiecentrum en de lokale steunpunten in het tweetalig gebied Brussel-Hoofdstad kan de Vlaamse regering, na overleg met het College van de Vlaamse Gemeenschapscommissie, specifieke voorwaarden voor erkenning en subsidiëring bepalen.
+<P>...</P>
 
 ### ART. 24.
 
-Het provinciaal integratiecentrum wordt erkend op basis van het eerste meerjarenplan. Om erkend te worden en te blijven moet een provinciaal integratiecentrum voldoen aan de voorwaarden inzake het meerjarenplan, vermeld in artikel 20, en aan de voorwaarden inzake de samenstelling, vermeld in artikel 21 of artikel 22.
+<P>...</P>
 
 ### ART. 25.
 
-De erkenning van het provinciale integratiecentrum geldt voor een onbepaalde duur. Zes maanden voor het aflopen van het meerjarenplan dient het centrum een nieuw meerjarenplan in bij de Vlaamse regering.<br /><br />De Vlaamse regering bepaalt de erkenningsprocedure en de procedure voor intrekking van de erkenning, waarbij voorzien is in de mogelijkheid om beroep aan te tekenen.
+<P>...</P>
 
 ### ART. 26.
 
-Binnen de beschikbare begrotingskredieten kent de Vlaamse regering aan een erkend provinciaal integratiecentrum een subsidie toe als tegemoetkoming in de kosten van personeel, infrastructuur en werking van het centrum en van de lokale steunpunten.<br /><br />De subsidie wordt toegekend op basis van het door het centrum ingediende meerjarenplan en in het kader van een tussen de Vlaamse regering en het centrum gesloten overeenkomst.<br /><br />De Vlaamse regering bepaalt de nadere regels voor de toekenning en de vereffening van de subsidie.
+<P>...</P>
 
 ## AFDELING 5 [... (opgeh. BVR 29 januari 2016. art. 60, I: 29 februari 2016)]
 
 ### ART. 27.
 
-§ 1. Bij het provinciale integratiecentrum worden provinciale cellen voor vluchtelingenwerk en woonwagenwerk opgericht.<br /><br />Deze cellen werken onder toezicht van een stuurgroep.<br /><br />De Vlaamse regering bepaalt nadere regels inzake de samenstelling van de stuurgroep.<br /><br />§ 2. De provinciale cellen vervullen, uitgaande van de meerjarenplannen van de ondersteuningscentra, en in overleg met het provinciale integratiecentrum, toegespitst op hun respectieve doelgroep, de opdrachten zoals vermeld in artikel 19, § 2, 1°, 3°, 4° en 5°.<br /><br />De overeenkomst van het provinciaal integratiecentrum met het provinciebestuur, zoals bepaald in artikel 19, § 2, 6°, wordt in voorkomend geval aangepast met specifieke bepalingen aangaande vluchtelingen en woonwagenbewoners.<br /><br />§ 3. De provinciale cellen maken een meerjarenplan op voor een periode van zes jaar, overeenkomstig artikel 20, § 2,1°, 2°, 3°, en 5°.<br /><br />§ 4. De Vlaamse regering bepaalt de wijze waarop de cellen erkend en gesubsidieerd worden, de verdere inhoud van het meerjarenplan, de wijze waarop het tot stand komt en de wijze waarop het haar ter goedkeuring wordt voorgelegd.
+<P>...</P>
 
 ## [HOOFDSTUK V/1 [... (opgeh. BVR 29 januari 2016. art. 61, I: 29 februari 2016)]
 
@@ -160,27 +160,27 @@ Binnen de beschikbare begrotingskredieten kent de Vlaamse regering aan een erken
 
 ### ART. 27/1.
 
-§ 1. De Vlaamse Gemeenschapscommissie heeft, zoals bepaald in artikel 5 en in samenhang met haar beleidsaccenten, een verantwoordelijkheid in het geheel van het integratiebeleid.<br /><br />§ 2. Het integratiebeleid op het niveau van het tweetalige gebied Brussel-Hoofdstad wordt gevoerd in overleg met de Vlaamse Gemeenschapscommissie.
+<P>...</P>
 
 ## AFDELING 2 [... (opgeh. BVR 29 januari 2016. art. 61, I: 29 februari 2016)]
 
 ### ART. 27/2.
 
-§ 1. In het tweetalig gebied Brussel-Hoofdstad is één hoofdstedelijk integratiecentrum werkzaam, dat is opgericht in de vorm van een vereniging zonder winstoogmerk.<br /><br />§ 2. Het hoofdstedelijke integratiecentrum heeft, in aansluiting op de opdrachten van de overheden, vermeld in artikel 5, een ondersteunende en stimulerende opdracht ten aanzien van het beleid in de verschillende maatschappelijke domeinen en op de verschillende beleidsniveaus. In dat verband draagt het hoofdstedelijke integratiecentrum ertoe bij dat, binnen de Vlaamse Gemeenschapscommissie en andere relevante beleidsinstanties een gecoördineerd en inclusief integratiebeleid gevoerd wordt in overleg met de personen, vermeld in artikel 3, eerste lid, 1°, en 2°, en hun organisaties. Die opdracht wordt uitgevoerd in samenwerking met de personen, vermeld in artikel 3, eerste lid, 1°, en 2°, en hun organisaties.<br /><br />In het kader van die opdracht vervult het hoofdstedelijke integratiecentrum, in overleg en in samenwerking met het VLEMI en rekening houdend met de regierol van de Vlaamse Gemeenschapscommissie, de volgende taken :<br />1° bijdragen tot een nauwkeurige analyse van de maatschappelijke context en de relatieve positie van de personen, vermeld in artikel 3, eerste lid, 1° en 2,° en artikel 3, tweede lid;<br />2° het binnen het tweetalig gebied Brussel-Hoofdstad gevoerde integratiebeleid analyseren, evalueren en stimuleren, en ontbrekende werkingen opsporen en signaleren;<br />3° in samenwerking met het VLEMI, methodieken en werkvormen uitwerken die erop gericht zijn de integratie van personen als vermeld in artikel 3, eerste lid, 1° en 2°, te bevorderen en het beleid ten aanzien van personen als vermeld in artikel 3, tweede lid, uit te voeren;<br />4° de zelf, door het VLEMI of elders ontwikkelde methodieken en opgebouwde deskundigheid aanbieden aan besturen, organisaties en voorzieningen, en zorgen voor de nodige begeleiding van die cliënten;<br />5° de overheden, vermeld in artikel 5, en de relevante maatschappelijke sectoren stimuleren om een integratiebeleid te voeren;<br />6° erop toezien dat de personen, vermeld in artikel 3, eerste lid, 1° en 2°, en hun organisaties nauw bij het overheidsbeleid betrokken worden en die betrokkenheid ook stimuleren;<br />7° de overdracht van de inburgeraar van het onthaalbureau aan de reguliere voorzieningen, vermeld in hoofdstuk IV, afdeling III, van het decreet van 28 februari 2003 betreffende het Vlaamse inburgeringsbeleid, in samenwerking met het erkende onthaalbureau dat actief is in het werkingsgebied in kwestie, ondersteunen en faciliteren;<br />8° waar nodig zelf initiatieven ontwikkelen die bijdragen tot de realisatie van het integratiebeleid;<br />9° een samenwerkingsovereenkomst met de Vlaamse Gemeenschapscommissie sluiten;<br />10° een resultaatgerichte werking opzetten, op voorwaarde dat die werking in het meerjarenconvenant van het hoofdstedelijke integratiecentrum wordt opgenomen.<br /><br />De Vlaamse Regering bepaalt de concrete invulling van de regierol van de Vlaamse Gemeenschapscommissie.<br /><br />§ 3. De uitvoering van de opdrachten, vermeld in § 2, wordt weergegeven in het meerjarenconvenant, vermeld in artikel 27/3, § 1.
+<P>...</P>
 
 ### ART. 27/3.
 
-§ 1. Voor de uitvoering van de opdrachten van het hoofdstedelijke integratiecentrum sluit de Vlaamse Regering met het centrum een meerjarenconvenant voor een periode van vijf jaar. De vijfjarige periode start op 1 januari van het tweede jaar dat volgt op de verkiezing van het Vlaams Parlement.<br /><br />Het meerjarenconvenant bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en de bijbehorende indicatoren;<br />4° ...<br />5° een beschrijving van de samenwerking met de Vlaamse Gemeenschapscommissie, de steden en gemeenten en het onthaalbureau binnen het werkingsgebied.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant.<br /><br />§ 2. Het vijfjaarlijkse convenant wordt geconcretiseerd in een jaarlijks operationeel plan, dat minstens de volgende elementen bevat :<br />1° een beschrijving van de geformuleerde strategische en operationele doelstellingen uit het convenant waaraan in het jaar in kwestie gewerkt zal worden;<br />2° de concrete acties die genomen moeten worden om de geformuleerde resultaten te bereiken;<br />3° het tijdpad, opgesteld voor de uitvoering van die acties;<br />4° een opgave van de indicatoren waarmee de voortgang wordt gemeten;<br />5° de ingezette middelen en instrumenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan.<br /><br />§ 3. Het meerjarenconvenant wordt door de algemene vergadering van het hoofdstedelijk integratiecentrum en het College van de Vlaamse Gemeenschapscommissie goedgekeurd.
+<P>...</P>
 
 ## AFDELING 3 [... (opgeh. BVR 29 januari 2016. art. 61, I: 29 februari 2016)]
 
 ### ART. 27/4.
 
-Het hoofdstedelijke integratiecentrum wordt erkend op basis van het eerste meerjarenconvenant, vermeld in artikel 27/3, § 1.<br /><br />De Vlaamse Regering bepaalt, na overleg met het College van de Vlaamse Gemeenschapscommissie, de voorwaarden en de procedure van de erkenning.
+<P>...</P>
 
 ### ART. 27/5.
 
-Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering aan het erkende hoofdstedelijke integratiecentrum een subsidie toe als tegemoetkoming in de kosten van personeel, infrastructuur en werking van het centrum.<br /><br />De subsidie wordt toegekend op basis van het meerjarenconvenant, vermeld in artikel 27/3, § 1, dat met het centrum werd gesloten.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toekenning en de vereffening van de subsidie.
+<p>...</p>
 
 ## HOOFDSTUK VI HET LOKALE NIVEAU
 
@@ -250,47 +250,47 @@ De bepalingen van het Planlastendecreet zijn van toepassing op het lokale integr
 
 ### ART. 36.
 
-§ 1. In de steden Antwerpen en Gent kan één lokaal integratiecentrum erkend worden.<br /><br />§ 2. Het lokale integratiecentrum organiseert lokale steunpunten in de stadswijken, bepaalt hun werkgebied en wijst er personeel aan toe op basis van de lokale actieplannen.<br /><br />De artikelen 33, § 2, 34 en 35 zijn van overeenkomstige toepassing.<br /><br />§ 3. Bij een lokaal integratiecentrum worden cellen voor vluchtelingenwerk en woonwagenwerk opgericht. Artikel 27, § 1, tweede lid tot en met § 4, is van overeenkomstige toepassing.
+<p>...</p>
 
 ### ART. 37.
 
-§ 1. Overeenkomstig de bepaling van artikel 5 § 2, vervult het lokale integratiecentrum de opdrachten vermeld in artikel 34, § 1. Bovendien heeft het als opdracht:<br /><br />1° in overleg met de lokale actoren prioritaire actiezones aanduiden waarbinnen lokale steunpunten worden opgericht;<br /><br />2° overleggen met het provinciale integratiecentrum om de samenwerking te concretiseren;<br /><br />3° een samenwerkingsovereenkomst met het lokale bestuur afsluiten.<br /><br />§ 2. De in § 1 vermelde opdrachten worden geconcretiseerd in een meerjarenplan.<br /><br />§ 3. Het lokale integratiecentrum werkt zijn opdrachten uit in nauwe samenwerking met de doelgroepen en hun organisaties en betrekt hen bij de invulling en uitvoering van deze opdrachten.
+<p>...</p>
 
 ### ART. 38.
 
-§ 1. Voor de uitvoering van de opdrachten van het lokaal integratiecentrum sluit de Vlaamse Regering met het centrum een meerjarenconvenant voor een periode van drie jaar. De driejarige periode start op 1 januari van het tweede jaar dat volgt op de gemeenteraadsverkiezingen.<br /><br />Het meerjarenconvenant, dat opgemaakt wordt in samenspraak met het stadsbestuur en in overeenstemming met het strategisch planningskader zoals dat werd uitgewerkt door het VLEMI en goedgekeurd door de Vlaamse Regering, bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande situatie;<br />2° een opgave van de strategische en operationele doelstellingen;<br />3° een opgave van de te bereiken resultaten en bijhorende indicatoren;<br />4° een overzicht van de organisaties en voorzieningen die bij de uitvoering van het integratiebeleid een rol spelen, met inbegrip van de bijdrage van het stadsbestuur;<br />5° een beschrijving van de samenwerking met de stad en het onthaalbureau binnen het werkingsgebied.<br /><br />Het meerjarenconvenant wordt goedgekeurd door de gemeenteraad van de betrokken stad.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het meerjarenconvenant.<br /><br />§ 2. Het driejaarlijkse convenant wordt geconcretiseerd in een jaarlijks operationeel plan dat minstens de volgende elementen bevat :<br />1° een beschrijving van de geformuleerde strategische en operationele doelstellingen uit het convenant waaraan in het jaar in kwestie gewerkt zal worden;<br />2° de concrete acties die genomen moeten worden om de geformuleerde resultaten te bereiken;<br />3° het tijdpad, opgesteld voor de uitvoering van die acties;<br />4° een opgave van de indicatoren waarmee de voortgang wordt gemeten;<br />5° de ingezette middelen en instrumenten.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan.
+<p>...</p>
 
 ## AFDELING 5 [... (opgeh. BVR 29 januari 2016. art. 62, I: 29 februari 2016)]
 
 ### ART. 39.
 
-Het lokale integratiecentrum wordt erkend op basis van het eerste meerjarenplan. Om erkend te worden en te blijven moet het lokaal integratiecentrum opgericht zijn als een vereniging zonder winstoogmerk en voldoen aan de voorwaarden inzake het meerjarenplan, vermeld in artikel 38 en de samenstelling vermeld in artikel 41.
+<p>...</p>
 
 ### ART. 40.
 
-De erkenning van het lokale integratiecentrum geldt voor een onbepaalde duur. Zes maanden voor het aflopen van het meerjarenplan dient het centrum een nieuw meerjarenplan in bij de Vlaamse regering.<br /><br />De Vlaamse regering bepaalt de erkenningsprocedure en de procedure voor intrekking van de erkenning, waarbij voorzien is in de mogelijkheid om beroep aan te tekenen.
+<p>...</p>
 
 ### ART. 41.
 
-Het lokale integratiecentrum kan erkend worden, indien de bestuursorganen ervan zijn samengesteld als volgt:<br /><br />1° vertegenwoordigers van de doelgroepen en hun organisaties, waarvoor de Vlaamse regering het minimumaandeel bepaalt;<br /><br />2° vertegenwoordigers van de relevante maatschappelijke sectoren;<br /><br />3° een vertegenwoordiging van de lokale stuurgroepen;<br /><br />4° een vertegenwoordiging van het lokale bestuur;<br /><br />5° een vertegenwoordiging van het provinciale integratiecentrum.<br /><br />De Vlaamse regering kan eventueel bijkomende vereisten bepalen.
+<p>...</p>
 
 ### ART. 42.
 
-Binnen de beschikbare begrotingskredieten kent de Vlaamse regering aan het lokale integratiecentrum een subsidie toe als tegemoetkoming in de kosten van personeel, infrastructuur en werking van het centrum en van de lokale steunpunten.<br /><br />De subsidie wordt toegekend op basis van het door het centrum ingediende meerjarenplan en in het kader van een tussen de Vlaamse regering en het centrum gesloten overeenkomst.<br /><br />De Vlaamse regering bepaalt de nadere regels voor de toekenning en de vereffening van de subsidie.
+<p>...</p>
 
 ## HOOFDSTUK VII AANVULLENDE BEPALINGEN
 
 ### ART. 43.
 
-§ 1. De Vlaamse Regering wendt ten hoogste 10 % van het totale budget dat jaarlijks wordt vastgelegd voor de uitvoering van dit decreet, aan om experimentele, aanvullende of vernieuwende projecten te subsidiëren gericht op het versterken van het integratiebeleid.<br /><br />§ 2. De Vlaamse Regering kan de voorwaarden voor de toekenning van een projectsubsidie nader bepalen. De Vlaamse Regering bepaalt voor de algemene projectoproep de nadere voorwaarden voor het indienen van de subsidieaanvragen, evenals voor de beoordeling van de aanvragen, de toekenning en de uitbetaling van de subsidie, het toezicht op de naleving van de subsidiëringsvoorwaarden en de evaluatie van de gevoerde projecten.<br /><br />De Vlaamse Regering brengt tweejaarlijks verslag uit aan het Vlaams Parlement over de goedgekeurde projecten en de evaluatie ervan.
+<p>...</p>
 
 ### ART. 44.
 
-De Vlaamse Regering kan voor de verdeling van de beschikbare middelen over de integratiecentra regels opstellen die minstens rekening houden met de volgende elementen :<br />1° de aanwezigheid en concentratie van personen, vermeld in artikel 3, eerste lid, 1° en 2° ;<br />2° de mate waarin de achterstellings- en achterstandsproblematiek voorkomen;<br />3° de grootte van de inzet van middelen voor het realiseren van een bepaald resultaat;<br />4° de duurzaamheid en zwaarte van de resultaten.<br /><br />Die elementen worden beoordeeld op basis van de opgemaakte meerjarenconvenanten.
+<p>...</p>
 
 ### ART. 44/1.
 
-De Vlaamse Regering kan een evaluatiesysteem ontwerpen voor de resultaten in de meerjarenconvenant, vermeld in artikel 13, 20, § 1, 27/3, § 1, en 38, § 1, en het jaarplan, vermeld in artikel 14, 17/2, § 2, 20, § 2, 27/3, § 2, en 38, § 2.<br /><br />In voorkomend geval wordt er vastgesteld dat nader te bepalen gedeelten van de toegekende subsidies niet uitgekeerd of teruggevorderd worden afhankelijk van het uit te werken evaluatiesysteem.
+<p>...</p>
 
 ### ART. 45.
 
@@ -302,39 +302,43 @@ De Vlaamse regering kan de in artikel 3, eerste lid, 1° en 2°, vermelde person
 
 ### ART. 45/1.
 
-§ 1. De Vlaamse Regering erkent en subsidieert een Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen die belast is met het sociaal telefoontolken en die voorziet in een centraal aanbod aan sociaal vertalen. In het kader daarvan vervult die dienst de volgende algemene opdrachten :<br />1° telefonische tolkhulp bieden aan de gebruikers die behoefte hebben aan een sociaal telefoontolk;<br />2° vanuit een centrale loketfunctie voor de gebruikers documenten vertalen waarvan het belang het lokale of provinciale niveau overstijgt.<br /><br />De Vlaamse Regering bepaalt de voorwaarden en procedure van de erkenning.<br /><br />§ 2. Voor het uitvoeren van de opdrachten, vermeld in § 1, sluit de Vlaamse Regering met de Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen een overeenkomst voor een periode van vijf jaar. De overeenkomst bevat minstens de volgende elementen :<br />1° een beschrijving van de bestaande werking van de dienst conform het kwaliteitstraject;<br />2° een beschrijving van de huidige tolk- en vertaalprestaties, opgesplitst per gebruikersoverheid;<br />3° een opgave van de geplande werking van de dienst in de komende periode;<br />4° een prognose van de vraag naar sociaal telefoontolken en sociaal vertalen in de komende periode, opgesplitst per gebruikersoverheid.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van de overeenkomst.<br /><br />§ 3. De overeenkomst, vermeld in § 2, wordt geconcretiseerd in een jaarlijks operationeel plan waarin de elementen uit de overeenkomst geconcretiseerd worden voor het komende jaar.<br /><br />De Vlaamse Regering bepaalt de verdere inhoud van het jaarlijks operationeel plan.
+<p>...</p>
+
+### ART. 45/2.
+
+...
 
 ### ART. 45/3.
 
-Binnen de beschikbare begrotingskredieten kent de Vlaamse Regering een subsidie toe aan de erkende diensten voor sociaal tolken en vertalen. De subsidie wordt toegekend op basis van de overeenkomst die tussen de Vlaamse Regering en de diensten voor sociaal tolken en vertalen, vermeld in artikel 45/1, § 2, of artikel 45/2, § 2, tweede lid, naargelang van het geval, werd gesloten.<br /><br />De subsidie dient als tegemoetkoming in de volgende kosten :<br />1° de kosten van personeel, infrastructuur en werking van de Vlaamse centrale dienst voor sociaal telefoontolken en sociaal vertalen;<br />2° de kosten van het personeel van de decentrale diensten voor sociaal tolken en vertalen.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toekenning en vereffening van de subsidies.<br /><br />De respectieve gebruikersoverheden betalen de te presteren tolk- en vertaalprestaties. De Vlaamse Regering bepaalt de nadere regels voor betaling.
+<p>...</p>
 
 ### ART. 45/4.
 
-§ 1. De dienstverlening van de diensten voor sociaal tolken en vertalen aan de gebruikers wordt nader geregeld in een samenwerkingsovereenkomst, waarvan het model en de inhoud door de Vlaamse Regering wordt bepaald.<br /><br />Alleen gebruikers die een samenwerkingsovereenkomst met een dienst voor sociaal tolken en vertalen ondertekend hebben, kunnen beroep op de dienstverlening van die dienst beroep doen.<br /><br />§ 2. Het sociaal tolken en vertalen wordt gedaan door tolken en vertalers die opgenomen zijn in het Vlaams Register voor sociaal tolken en vertalers. Het inzetten van andere tolken en vertalers is alleen toegestaan als voor de tolk- of vertaalvraag geen tolk of vertaler beschikbaar is in het Vlaams register voor sociaal tolken en vertalers.<br /><br />§ 3. Binnen de beschikbare begrotingskredieten kan de Vlaamse Regering een subsidie toekennen aan een van de decentrale diensten voor sociaal tolken en vertalen, vermeld in artikel 45/2, § 1, om via een centrale vrijwilligerswerking, als dat nodig is, te voorzien in een aanvullend vrijwilligersaanbod sociaal tolken en sociaal vertalen.
+<p>...</p>
 
 ## AFDELING 2 [... (opgeh. BVR 29 januari 2016. art. 64, I: 29 februari 2016)]
 
 ### ART. 45/5.
 
-Voor de ondersteuning van de diensten voor sociaal tolken en vertalen verleent de Vlaamse Regering, binnen de beschikbare begrotingskredieten, subsidies aan het VLEMI, voor het organiseren van een centrale ondersteuningscel sociaal tolken en vertalen.<br /><br />De centrale ondersteuningscel, vermeld in het eerste lid, zorgt voor de inhoudelijke ondersteuning en begeleiding van de diensten voor sociaal tolken en vertalen die in het Nederlandse taalgebied en in het tweetalig gebied Brussel-Hoofdstad erkend zijn en heeft tot taak, in overleg met de erkende diensten voor sociaal tolken en vertalen, de kwaliteitscriteria voor het sociaal tolken en vertalen te bepalen, te garanderen en te volgen. In het kader daarvan moet de centrale ondersteuningscel minstens de volgende algemene opdrachten vervullen :<br />1° de erkende diensten voor sociaal tolken en vertalen inhoudelijk ondersteunen en begeleiden;<br />2° het kwaliteitstraject sociaal tolken en vertalen ontwikkelen en toepassen;<br />3° de gebruikers en potentiële gebruikers bekwamen in het werken met sociaal tolken of vertalers;<br />4° het Vlaams Register voor sociaal tolken en vertalers beheren;<br />5° optreden als Vlaams kenniscentrum voor het sociaal tolken en vertalen;<br />6° knelpunten signaleren en beleidsaanbevelingen inzake het sociaal tolken en vertalen aan de Vlaamse overheid bezorgen.<br /><br />De Vlaamse Regering bepaalt de nadere regels voor de toekenning en vereffening van de subsidie.
+<p>...</p>
 
 ### ART. 45/6.
 
-De nadere uitvoering van de opdrachten, vermeld in artikel 45/5, wordt geregeld in een afzonderlijk hoofdstuk van het meerjarenconvenant, vermeld in artikel 13, waarin minstens de volgende elementen zijn opgenomen :<br />1° een beschrijving van de bestaande werking van de centrale ondersteuningscel;<br />2° een beschrijving van de bestaande samenwerking met de erkende diensten voor sociaal tolken en vertalen en met andere relevante organisaties;<br />3° een opgave van de doelstellingen en de te bereiken resultaten.<br /><br />Het jaarlijks operationeel plan, vermeld in artikel 14, bevat een afzonderlijk hoofdstuk waarin de elementen, vermeld in het eerste lid, geconcretiseerd worden voor het komende jaar.
+<p>...</p>
 
 ## HOOFDSTUK VIII [... (opgeh. BVR 29 januari 2016. art. 65, I: 29 februari 2016)]
 
 ### ART. 46.
 
-(niet opgenomen)<br /><br />(Heft het besluit van de Vlaamse regering van 18 juli 1990 houdende de voorwaarden inzake erkenning en subsidiëring van integratiecentra voor migranten op)
+<p>...</p>
 
 ### ART. 47.
 
-De Vlaamse Regering bepaalt de overgangsmaatregelen met betrekking tot de integratiecentra, het Vlaams Overlegcentrum, de ondersteuningscentra, de integratiediensten en het Forum van Organisaties van Etnisch-Culturele Minderheden, erkend op basis van het decreet.
+<p>...</p>
 
 ### ART. 48.
 
-In afwijking van artikel 13, 17/2, § 1, 20, § 1, 27/3, § 1, 30, § 1, en 38, § 1, kan de Vlaamse Regering bepalen dat het meerjarenconvenant worden opgemaakt voor een andere periode.
+<p>...</p>
 
 ### ART. 49.
 
