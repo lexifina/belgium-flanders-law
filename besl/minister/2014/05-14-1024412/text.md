@@ -6,28 +6,28 @@
 
 ### ART. 1.
 
-&nbsp;In dit besluit wordt verstaan onder:<BR>1° besluit van 15 december   2006: het besluit van de Vlaamse Regering van 15 december 2006 betreffende de   uitvoering van het Vlaamse inburgeringsbeleid;<BR>2° Kruispuntbank Inburgering:   de Kruispuntbank Inburgering, vermeld in artikel 1, § 1, 6°, van het besluit van   15 december 2006.<BR>
+...
 
 ### ART. 2.
 
-<P>§ 1. Om de attesten, vermeld in artikel 10 van het besluit van 15 december   2006, uit te reiken, maakt het onthaalbureau, naargelang het geval, gebruik van   de volgende modellen van attesten die ter beschikking gesteld zijn via de   Kruispuntbank Inburgering:<BR>1° het attest van aanmelding bij het onthaalbureau   voor de inburgeraar die zich aanmeldt bij het onthaalbureau;<BR>2° het attest   van EVC voor de inburgeraar die over voldoende kennis en vaardigheden beschikt   om meteen in het secundaire inburgeringstraject in te stappen;<BR>3° het attest   van vrijstelling van de inburgeringsplicht voor de inburgeraar die vrijgesteld   is van de inburgeringsplicht;<BR>4° het attest van inburgering voor de   inburgeraar die het inburgeringsprogramma regelmatig heeft gevolgd.<BR></P>  <P>Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie   van de attesten, vermeld in het eerste lid, 1° en 3°, bezorgen.<BR></P>  <P>§ 2. Bij het uitstel van aanmelding, vermeld in artikel 13, § 6, tweede lid,   van het besluit van 15 december 2006, reikt het onthaalbureau aan de inburgeraar   een attest van uitstel van aanmelding uit. Het onthaalbureau gebruikt daarvoor   het model dat ter beschikking gesteld is via de Kruispuntbank   Inburgering.<BR></P>  <P>Bij het uitstel van ondertekening van het inburgeringscontract, vermeld in   artikel 13, § 6, tweede lid, van het besluit van 15 december 2006, reikt het   onthaalbureau aan de inburgeraar een attest van uitstel van ondertekening van   het inburgeringscontract uit. Het onthaalbureau gebruikt daarvoor het model dat   ter beschikking gesteld is via de Kruispuntbank Inburgering.<BR></P>  <P>Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie   van de attesten, vermeld in het eerste en tweede lid,   bezorgen.<BR></P>
+...
 
 ### ART. 3.
 
-<P>Om een inburgeringscontract als vermeld in artikel 10, § 4, van het besluit   van 15 december 2006, te sluiten, maakt het onthaalbureau, naargelang het geval,   gebruik van een van de volgende modellen van inburgeringscontracten die ter   beschikking gesteld zijn via de Kruispuntbank Inburgering:<BR>1° het   inburgeringscontract voor de inburgeraar die onder de inburgeringsplicht   valt;<BR>2° het inburgeringscontract voor de inburgeraar, die onder de   inburgeringsplicht valt en die recht heeft op een flexibel inburgeringstraject   doordat hij beroepsmatig werkzaam is;<BR>3° het inburgeringscontract voor de   inburgeraar die recht heeft op een inburgeringstraject, die niet onder de   inburgeringsplicht valt en die in het Vlaamse Gewest woont;<BR>4° het   inburgeringscontract voor de inburgeraar die recht heeft op een   inburgeringstraject, die niet onder de inburgeringsplicht valt, die in het   Vlaamse Gewest woont en die recht heeft op een flexibel inburgeringstraject   doordat hij beroepsmatig werkzaam is;<BR>5° het inburgeringscontract voor de   inburgeraar die recht heeft op een inburgeringstraject en die in het tweetalige   gebied Brussel-Hoofdstad woont;<BR>6° het inburgeringscontract voor de   inburgeraar die recht heeft op een inburgeringstraject, die in het tweetalig   gebied Brussel-Hoofdstad woont en die recht heeft op een flexibel   inburgeringstraject doordat hij beroepsmatig werkzaam is.<BR></P>  <P>Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie   van de modellen van inburgeringscontract, vermeld in het eerste lid,   bezorgen.<BR></P>
+...
 
 ### ART. 4.
 
-<P>Bij de opschorting van het inburgeringscontract, vermeld in artikel 13, § 6,   eerste lid, van het besluit van 15 december 2006, reikt het onthaalbureau aan de   inburgeraar een attest van tijdelijke opschorting van het inburgeringscontact   uit.<BR></P>  <P>Het onthaalbureau gebruikt daarvoor het model dat ter beschikking gesteld is   via de Kruispuntbank Inburgering.</P>  <P><BR>Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende   versie van het attest, vermeld in het eerste lid,   bezorgen.<BR></P>
+...
 
 ### ART. 5.
 
-<P>Om een bijlage bij het inburgeringscontract als vermeld in artikel 10, § 5,   van het besluit van 15 december 2006, op te maken, maakt het onthaalbureau,   naargelang het geval, gebruik van een van de volgende modellen van addendum bij   het inburgeringscontract die ter beschikking gesteld zijn via de Kruispuntbank   Inburgering:<BR>1° het addendum bij het inburgeringscontract voor aanvullende   informatie bij het inburgeringscontract;<BR>2° het addendum bij het   inburgeringscontract voor de inburgeraar die in het Vlaams Gewest woont en die   bij de start of in de loop van het vormingsprogramma bewijst dat hij   beroepsmatig werkzaam is;<BR>3° het addendum bij het inburgeringscontract voor   de inburgeraar die in het Vlaamse Gewest woont en die niet langer kan bewijzen   dat hij beroepsmatig werkzaam is;<BR>4° het addendum bij het   inburgeringscontract voor de inburgeraar die recht heeft op een   inburgeringstraject, die in het tweetalige gebied Brussel-Hoofdstad woont en die   bij de start of in de loop van het vormingsprogramma bewijst dat hij   beroepsmatig werkzaam is;<BR>5° het addendum bij het inburgeringscontract voor   de inburgeraar die recht heeft op een inburgeringstraject, die in het tweetalige   gebied Brussel-Hoofdstad woont en die niet langer kan bewijzen dat hij   beroepsmatig werkzaam is;<BR>6° het addendum bij het inburgeringscontract na   tijdelijke opschorting voor de inburgeraar die zijn vormingsprogramma om   medische of persoonlijke redenen tijdelijk heeft onderbroken;<BR>7° het addendum   bij het inburgeringscontract bij wijziging van de situatie voor de inburgeraar   van wie de situatie wijzigt van plicht tot inburgering in recht op inburgering,   of van recht op inburgering in plicht tot inburgering.<BR></P>  <P>Het onthaalbureau kan de inburgeraar een vertaalde, niet-ondertekende versie   van de modellen van addendum bij het inburgeringscontract, vermeld in het eerste   lid, bezorgen.<BR></P>
+...
 
 ### ART. 6.
 
-De volgende ministeriële besluiten worden opgeheven:<BR>1° het   ministerieel besluit van 22 december 2008 tot vaststelling van de modellen van   attest, van inburgeringscontract en van bijlage bij het inburgeringscontract in   het kader van het inburgeringsbeleid;<BR>2° het ministerieel besluit van 16   december 2010 houdende de inwerkingtreding van artikel 4 van het ministerieel   besluit van 22 december 2008 tot vaststelling van de modellen van attest, van   inburgeringscontract en van bijlage bij het inburgeringscontract in het kader   van het inburgeringsbeleid.<BR>
+...
 
 ### ART. 7.
 
-Dit besluit treedt in werking op 1 september 2014.<BR>
+...
