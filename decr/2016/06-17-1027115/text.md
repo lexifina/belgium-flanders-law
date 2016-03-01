@@ -209,6 +209,15 @@
 
 ## Afdeling III Decreet betreffende de gelijke onderwijskansen
 
+### ART X.4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel IV.7 van het decreet van 28 juni 2002 betreffende gelijkeonderwijskansen-I, gewijzigd bij de decreten van 25 november 2011 en 21 maart 2014, worden volgende wijzigingen aangebracht :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in paragraaf 2 wordt een punt 8° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"8° lidmaatschap van de Vlaamse Bemiddelingscommissie";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 4 wordt de zinsnede "artikel 37undecies van het decreet basisonderwijs van 25 februari 1997 en artikel 110/11 van de Codex Secundair Onderwijs" vervangen door de zinsnede "artikel 37undecies, § 2 en § 3, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/11, § 2 en § 3, van de Codex Secundair Onderwijs";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 4 wordt een zin toegevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Deze leden zetelen met een raadgevend mandaat.".</span>
+
 ## Afdeling IV Decreet betreffende de organisatie van tijdelijke projecten
 
 ## Afdeling V Decreet betreffende de studiefinanciering
