@@ -2,16 +2,16 @@
   "codex_id": 1003118,
   "title": "Decreet van 1984-01-24 houdende maatregelen inzake het grondwaterbeheer",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003118/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "d9c92f57cc2f4fc658e28590c7c3c5fe2d1c868f4571756f8842d5029272cbfd",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003118/VolledigDocument?datum=2016-03-01",
+  "source_sha256": "4a06abd276c59f0900c6ac58c3bafca1d69752727ca92cbc2427382cc8f3b6e1",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003118&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-03-01",
   "made": "1984-01-24",
   "gazette": "1984-06-05",
   "numac": 1984023228,
   "document_start": "1984-07-05",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2016-03-01",
   "article_versions": 36,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-03-01; future article versions excluded; article text as the API gives it"
 }
