@@ -74,11 +74,55 @@ De   Vlaamse Regering wordt ertoe gemachtigd gebruikstoestemmingen te verlenen, 
 
 ## Onderafdeling 1 Wet Oppervlaktewateren
 
+### ART. 14.
+
+In   artikel 35bis, § 6, van de wet van 26 maart 1971 op de bescherming van de   oppervlaktewateren tegen verontreiniging, ingevoegd bij het decreet van 27 juni   2003 en gewijzigd bij het decreet van 7 december 2007, worden de woorden "het   hoofd van de Maatschappij" vervangen door de woorden "de leidend ambtenaar van   de Maatschappij".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 15.
+
+&nbsp;In artikel 35quinquies, § 9, van   dezelfde wet, vervangen bij het decreet van 24 juni 2005 en gewijzigd bij het   decreet van 7 december 2007, worden de woorden "het hoofd van de Maatschappij"   vervangen door de woorden "de leidend ambtenaar van de Maatschappij".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ### ART. 16.
 
 In   artikel 35sexies, § 1, van dezelfde wet, vervangen bij decreet van 18 december   1992, wordt de formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"N<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2,0</SUB>&nbsp;= Qj.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;x 40 x (Hg.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 10 x (Ag.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cd.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 5 x (Zn.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cu.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 2 x (Ni.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 1 x (Pb.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ As.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cr.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>))"<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1   000<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">vervangen   door de volgende formule:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"N<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2,0</SUB>&nbsp;= Qj.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;x (40 x (Hg.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 10 x (Ag.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cd.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 5 x (Zn.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cu.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 2 x (Ni.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>)   + 1 x (Pb.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ As.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>&nbsp;+ Cr.<SUB   style="FONT-FAMILY: 'Times New Roman'; FONT-VARIANT: normal; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; WIDOWS: 1; LETTER-SPACING: normal; LINE-HEIGHT: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">o</SUB>))"<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1   000<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 17.
+
+In   artikel 35quinquiesdecies, § 1, eerste lid, van dezelfde wet, vervangen bij het   decreet van 22 december 2000 en gewijzigd bij decreten van 7 mei 2004 en 23   december 2010, worden de woorden "algemeen directeur" vervangen door de woorden   "leidend ambtenaar of de door hem gedelegeerde ambtenaar".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 18.
+
+&nbsp;In artikel 35quinquiesdecies, § 2, van   dezelfde wet, vervangen bij het decreet van 22 december 2000 en gewijzigd bij   het decreet van 7 mei 2004, worden de woorden "algemeen directeur" vervangen   door de woorden "leidend ambtenaar".
+
 ## Onderafdeling 2 Grondwaterdecreet
+
+### ART. 19.
+
+&nbsp;In artikel 28ter, § 2, 7°, b), van het   decreet van 24 januari 1984 houdende maatregelen inzake het grondwaterbeheer,   vervangen bij het decreet van 22 december 1999, en gewijzigd bij het decreet van   7 mei 2004, worden de woorden "algemeen directeur" vervangen door de woorden   "leidend ambtenaar".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 20.
+
+&nbsp;In artikel 28ter, § 5, van hetzelfde   decreet, vervangen bij het decreet van 22 december 1999 en gewijzigd bij de   decreten van 7 mei 2004 en 18 december 2009, worden de woorden "het hoofd van   het agentschap van de Maatschappij" vervangen door de woorden "de leidend   ambtenaar van de Maatschappij".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 21.
+
+In   artikel 28decies, § 5, van hetzelfde decreet, vervangen bij het decreet van 22   december 1999 en gewijzigd bij het decreet van 7 mei 2004, worden de woorden   "het hoofd van het agentschap van de Maatschappij" vervangen door de woorden "de   leidend ambtenaar van de Maatschappij".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 22.
+
+In   artikel 28undecies, § 1, van hetzelfde decreet, vervangen bij het decreet van 22   december 1999 en gewijzigd bij de decreten van 7 mei 2004 en 18 december 2009,   worden de woorden "het hoofd van het agentschap van de Maatschappij" vervangen   door de woorden "de leidend ambtenaar van de Maatschappij".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 23.
+
+&nbsp;In artikel 28duodecies, § 1, eerste   lid, van hetzelfde decreet, vervangen bij het decreet van 22 december 1999 en   gewijzigd bij de decreten van 7 mei 2004 en 23 december 2010, worden de woorden   "algemeen directeur" vervangen door de woorden "leidend ambtenaar of de door hem   gedelegeerde ambtenaar".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 24.
+
+In   artikel 28duodecies, § 2, van hetzelfde decreet, vervangen bij het decreet van   22 december 1999 en gewijzigd bij het decreet van 7 mei 2004, worden de woorden   "algemeen directeur" vervangen door de woorden "leidend ambtenaar".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 25.
+
+&nbsp;In artikel 28terdecies van hetzelfde   decreet, vervangen bij het decreet van 22 december 1999 en gewijzigd bij het   decreet van 7 mei 2004, worden de volgende wijzigingen aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   voor de woorden "De algemeen directeur" worden de woorden " § 1"   opgeheven;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   de woorden "algemeen directeur" worden vervangen door de woorden "leidend   ambtenaar".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## Afdeling 3 Wijziging heffingsregeling onvergunde lozingen
 
@@ -655,6 +699,34 @@ In   artikel 3.18.0.0.1 van dezelfde codex wordt een paragraaf 2/2 ingevoegd, di
 ## Afdeling 16 Tarieven voor motorvoertuigen of de samengestelde voertuigen, bestemd voor het vervoer van goederen in de jaarlijkse verkeersbelasting
 
 ## HOOFDSTUK 11 Energie
+
+### ART. 128.
+
+Aan   artikel 3.2.1, § 3, van het Energiedecreet van 8 mei 2009, laatst gewijzigd bij   het decreet van 19 december 2014, worden de volgende woorden   toegevoegd:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"alsmede   voor de financiering van energiegerelateerde kosten van de Vlaamse   overheid.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 129.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
+
+### ART. 130.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
+
+### ART. 131.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
+
+### ART. 132.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
+
+### ART. 133.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
+
+### ART. 134.
+
+[... (vernietigd bij arrest Grondwettelijk Hof nr 83/2017 van 22 juni 2017 met handhaving van de gevolgen van de vernietigde bepaling voor de heffingsjaren 2016 en 2017)]
 
 ## HOOFDSTUK 12 Inwerkingtreding
 
