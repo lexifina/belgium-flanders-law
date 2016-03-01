@@ -126,7 +126,31 @@ Bij het Agentschap voor Onderwijsdiensten wordt een onafhankelijke commissie ing
 
 ### ART. IV.7.
 
-§ 1. De Commissie bestaat uit een voorzitter en zes leden en wordt   bijgestaan door een ambtenaar van het Agentschap voor Onderwijsdiensten, die   fungeert als secretaris.<BR><BR>De voorzitter is een jurist.<BR><BR>Twee leden   zijn vertrouwd met de onderwijsregelgeving en het ruime   onderwijsveld.<BR><BR>Twee leden hebben een bijzondere kennis of verdienste op   het vlak van de kinderrechtenbescherming.<BR><BR>Twee leden zijn vertrouwd met   het grondwettelijk en administratief recht.<BR><BR>§ 2. De leden van de   Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen   met het oog op een onafhankelijke uitoefening van hun opdracht.<BR><BR>Het   lidmaatschap van de Commissie is onverenigbaar met:<BR>1° het lidmaatschap van   een wetgevende vergadering, een provincieraad, een gemeenteraad of een raad van   een openbaar centrum voor maatschappelijk welzijn, van een regering, een   bestendige deputatie, of de hoedanigheid van burgemeester;<BR>2° de hoedanigheid   van personeelslid van het onderwijs of van een centrum voor   leerlingenbegeleiding, het hoger onderwijs uitgezonderd;<BR>3° afgevaardigden   van het Gemeenschapsonderwijs of personeel van de administratieve diensten van   het gemeenschapsonderwijs of leden van de representatieve verenigingen van   inrichtende machten van het gesubsidieerd onderwijs, van een inrichtende macht   of schoolbestuur, van een centrum voor leerlingenbegeleiding, het hoger   onderwijs uitgezonderd;<BR>4° de hoedanigheid van personeelslid van de   pedagogische begeleidingsdiensten;<BR>5° de hoedanigheid van verantwoordelijk   leider, vast gevolmachtigde of vast afgevaardigde van een vakorganisatie die de   beroepsbelangen van het personeel van het onderwijs behartigt;<BR>6° de   hoedanigheid van personeelslid van de onderwijsinspectie van de Vlaamse   Gemeenschap.<BR>7° de functie van kabinetslid bij een minister van de federale   regering, van de Vlaamse Regering of van de Brusselse Gewestregering.<BR><BR>§   3. De Vlaamse Regering stelt de leden en hun plaatsvervangers aan en bepaalt de   wijze waarop zij vergoed worden.<BR><BR>§ 4. Wanneer de Commissie ten gronde   adviseert en oordeelt naar recht over klachten die betrekking hebben op de   toepassing van artikel 37undecies van het decreet basisonderwijs van 25 februari   1997 en artikel 110/11 van de Codex Secundair Onderwijs dan wordt de   samenstelling van de Commissie, in afwijking van paragraaf 1 en paragraaf 2,   uitgebreid met leden met expertise op het gebied van de praktische realisatie   van redelijke aanpassingen. Daarbij wordt, in afwijking van paragraaf 1 en   paragraaf 2, in elk geval de betrokkenheid verzekerd van personen met een   handicap of een organisatie die hen vertegenwoordigt, van een   personeelsvertegenwoordiging en een vertegenwoordiging van de   onderwijsverstrekkers.
+§ 1. De Commissie bestaat uit een voorzitter en zes leden en wordt bijgestaan door een ambtenaar van het Agentschap voor Onderwijsdiensten, die fungeert als secretaris.<br>
+<br>
+De voorzitter is een jurist.<br>
+<br>
+Twee leden zijn vertrouwd met de onderwijsregelgeving en het ruime onderwijsveld.<br>
+<br>
+Twee leden hebben een bijzondere kennis of verdienste op het vlak van de kinderrechtenbescherming.<br>
+<br>
+Twee leden zijn vertrouwd met het grondwettelijk en administratief recht.<br>
+<br>
+§ 2. De leden van de Commissie genieten de burgerlijke en politieke rechten en bieden alle waarborgen met het oog op een onafhankelijke uitoefening van hun opdracht.<br>
+<br>
+Het lidmaatschap van de Commissie is onverenigbaar met:<br>
+1° het lidmaatschap van een wetgevende vergadering, een provincieraad, een gemeenteraad of een raad van een openbaar centrum voor maatschappelijk welzijn, van een regering, een bestendige deputatie, of de hoedanigheid van burgemeester;<br>
+2° de hoedanigheid van personeelslid van het onderwijs of van een centrum voor leerlingenbegeleiding, het hoger onderwijs uitgezonderd;<br>
+3° afgevaardigden van het Gemeenschapsonderwijs of personeel van de administratieve diensten van het gemeenschapsonderwijs of leden van de representatieve verenigingen van inrichtende machten van het gesubsidieerd onderwijs, van een inrichtende macht of schoolbestuur, van een centrum voor leerlingenbegeleiding, het hoger onderwijs uitgezonderd;<br>
+4° de hoedanigheid van personeelslid van de pedagogische begeleidingsdiensten;<br>
+5° de hoedanigheid van verantwoordelijk leider, vast gevolmachtigde of vast afgevaardigde van een vakorganisatie die de beroepsbelangen van het personeel van het onderwijs behartigt;<br>
+6° de hoedanigheid van personeelslid van de onderwijsinspectie van de Vlaamse Gemeenschap.<br>
+7° de functie van kabinetslid bij een minister van de federale regering, van de Vlaamse Regering of van de Brusselse Gewestregering;<br>
+8° lidmaatschap van de Vlaamse Bemiddelingscommissie<br>
+<br>
+§ 3. De Vlaamse Regering stelt de leden en hun plaatsvervangers aan en bepaalt de wijze waarop zij vergoed worden.<br>
+<br>
+§ 4. Wanneer de Commissie ten gronde adviseert en oordeelt naar recht over klachten die betrekking hebben op de toepassing van artikel 37undecies, § 2 en § 3, van het decreet basisonderwijs van 25 februari 1997 en artikel 110/11, § 2 en § 3, van de Codex Secundair Onderwijs dan wordt de samenstelling van de Commissie, in afwijking van paragraaf 1 en paragraaf 2, uitgebreid met leden met expertise op het gebied van de praktische realisatie van redelijke aanpassingen. Daarbij wordt, in afwijking van paragraaf 1 en paragraaf 2, in elk geval de betrokkenheid verzekerd van personen met een handicap of een organisatie die hen vertegenwoordigt, van een personeelsvertegenwoordiging en een vertegenwoordiging van de onderwijsverstrekkers. Deze leden zetelen met een raadgevend mandaat.
 
 ## Onderafdeling 2 Bevoegdheid
 
