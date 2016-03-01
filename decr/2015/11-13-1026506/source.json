@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026506,
+  "title": "Decreet van 2015-11-13 houdende instemming met het Verdrag tussen het Vlaamse Gewest en het Koninkrijk der Nederlanden betreffende de aanleg van de Nieuwe Sluis Terneuzen, ondertekend in Terneuzen op 5 februari 2015. - Addendum",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026506/VolledigDocument?datum=2016-03-01",
+  "source_sha256": "d7d4134a8c0ece4a0e4cf95368530f0090877d6d5b7fc7714f72fa13121890b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026506&param=informatie",
+  "as_of": "2016-03-01",
+  "made": "2015-11-13",
+  "gazette": "2016-02-25",
+  "numac": 2016035202,
+  "document_start": "2016-03-01",
+  "document_end": null,
+  "in_force": "2016-03-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2016-03-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
