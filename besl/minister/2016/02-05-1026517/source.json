@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026517,
+  "title": "Ministerieel besluit van 2016-02-05 betreffende de bepaling van het aantal erkende voltijds equivalenten voor 2016 van de Diensten Maatschappelijk Werk van de Ziekenfondsen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026517/VolledigDocument?datum=2016-03-11",
+  "source_sha256": "c4ee7a857f52bf9c3c9cae09ccb37444543008cbcbb999d69359be62553cf816",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026517&param=informatie",
+  "as_of": "2016-03-11",
+  "made": "2016-02-05",
+  "gazette": "2016-03-01",
+  "numac": 2016035212,
+  "document_start": "2016-03-11",
+  "document_end": null,
+  "in_force": "2016-03-11",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-03-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
