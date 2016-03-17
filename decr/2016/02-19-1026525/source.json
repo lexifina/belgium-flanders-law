@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026525,
+  "title": "Decreet van 2016-02-19 betreffende de Vlaamse openbare statistieken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026525/VolledigDocument?datum=2016-03-17",
+  "source_sha256": "18386b2921c4c875b9db157b8236be84faccdcd699d2e8f4357e25a4ebae48fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026525&param=informatie",
+  "as_of": "2016-03-17",
+  "made": "2016-02-19",
+  "gazette": "2016-03-07",
+  "numac": 2016035236,
+  "document_start": "2016-03-17",
+  "document_end": "2018-12-31",
+  "in_force": "2016-03-17",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-03-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
