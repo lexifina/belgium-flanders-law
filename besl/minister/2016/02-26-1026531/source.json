@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026531,
+  "title": "Ministerieel besluit van 2016-02-26 houdende vaststelling van de lijst van leden van adviescommissies in beroepsprocedures tegen bestuurlijke sancties conform het decreet van 28 juni 2015 betreffende het landbouw- en visserijbeleid",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026531/VolledigDocument?datum=2016-03-18",
+  "source_sha256": "5c8ea20b142f45d4b17930604ec14b4ad9e00e31703916e566752647eb6e387f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026531&param=informatie",
+  "as_of": "2016-03-18",
+  "made": "2016-02-26",
+  "gazette": "2016-03-08",
+  "numac": 2016035279,
+  "document_start": "2016-03-18",
+  "document_end": null,
+  "in_force": "2016-03-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-03-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
