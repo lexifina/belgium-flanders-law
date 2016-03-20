@@ -80,7 +80,7 @@ De bouwfysische normen, vermeld in artikel 2 tot en met 9, gelden met behoud van
 
 ### ART. 12.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is vastgesteld op : <br />1° voor een revalidatiecentrum : 500 euro per m2; <br />2° voor een internaat voor minderjarigen, een semi-internaat, een tehuis voor kortverblijf, een tehuis voor werkenden, een dagcentrum, een observatiecentrum en een centrum voor ontwikkelingsstoornissen : 550 euro per m2;<br />3° voor een tehuis voor niet-werkenden : 575 euro per m2 voor een bezigheidstehuis, en 600 euro per m2 voor een nursingtehuis.<br /><br />§ 2. Bij de subsidiebelofte wordt de investeringssubsidie als volgt verdeeld : <br />1° ruwbouw : 35 %;<br />2° technische uitrusting : 30 %;<br />3° afwerking : 25 %;<br />4° uitrusting en meubilering : 10 % .<br /><br />De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de percentages aanpassen tot maximaal de volgende percentages bij de verdeling : <br />1° ruwbouw : 45 %;<br />2° technische uitrusting : 40 %;<br />3° afwerking : 35 %;<br />4° uitrusting en meubilering : 20 % .
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is vastgesteld op : <BR>1° voor een   revalidatiecentrum : 500 euro per m2; <BR>2° voor een internaat voor   minderjarigen, een semi-internaat, een tehuis voor kortverblijf, een tehuis voor   werkenden, een dagcentrum, een observatiecentrum en een centrum voor   ontwikkelingsstoornissen : 550 euro per m2;<BR>3° voor een tehuis voor   niet-werkenden : 575 euro per m2 voor een bezigheidstehuis, en 600 euro per m2   voor een nursingtehuis.<BR><BR>§ 2. ...
 
 ### ART. 13.
 
@@ -96,7 +96,7 @@ Behalve bij een centrum voor ontwikkelingsstoornissen en bij een revalidatiecent
 
 ### ART. 16.
 
-<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen subsidiebelofte of definitief principieel akkoord   worden verkregen voor hetzelfde project of voor een deel van hetzelfde project,   ongeacht de sector van de persoonsgebonden aangelegenheden waarin de subsidie is   verkregen. Alleen als een verbouwing noodzakelijk wordt wegens gewijzigde   regelgeving of wegens gewijzigde en opgelegde veiligheidsvoorschriften, kan   binnen die periode een subsidiebelofte of een definitief principieel akkoord   voor verbouwing worden verkregen.</P>
+<P>Tenzij het anders bepaald is, kan er in een periode van twintig jaar na de   ingebruikname van een investering die gesubsidieerd is door het Fonds of door   zijn rechtsvoorgangers, geen subsidiebelofte worden verkregen voor hetzelfde   project of voor een deel van hetzelfde project, ongeacht de sector van de   persoonsgebonden aangelegenheden waarin de subsidie is verkregen. Alleen als een   verbouwing noodzakelijk wordt wegens gewijzigde regelgeving of wegens gewijzigde   en opgelegde veiligheidsvoorschriften, kan binnen die periode een   subsidiebelofte voor verbouwing worden verkregen.</P>
 
 ### ART. 17.
 
