@@ -64,7 +64,7 @@ In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van   de p
 
 ### ART. 10.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw, uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen voor gezinnen met kinderen vastgesteld op 550 euro per m2.<br /><br />§ 2. Bij de subsidiebelofte wordt de investeringssubsidie als volgt verdeeld : <br />1° ruwbouw : 35 %;<br />2° technische uitrusting : 25 %;<br />3° afwerking : 30 %;<br />4° uitrusting en meubilering : 10 %.<br /><br />De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de percentages aanpassen tot maximaal de volgende percentages bij de verdeling : <br />1° ruwbouw : 45 %;<br />2° technische uitrusting : 35 %;<br />3° afwerking : 40 %;<br />4° uitrusting en meubilering : 20 %.<br /><br />
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen   voor gezinnen met kinderen vastgesteld op 550 euro per m2.<BR><BR>§ 2.   ...<BR><BR>
 
 ### ART. 11.
 
