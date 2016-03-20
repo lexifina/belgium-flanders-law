@@ -23,7 +23,7 @@ Bij het gebruik van de delegaties, vermeld in artikel 2 en 3, gelden de algemene
 
 ### ART. 5.
 
-De beslissingen die in de uitvoeringsbesluiten van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden expliciet worden toevertrouwd aan de bevoegde Vlaamse minister, zijn uitgesloten van de delegatieregeling, vermeld in dit besluit, en worden genomen door de bevoegde Vlaamse minister.<br /><br />In afwijking van het eerste lid valt de beslissing over de subsidie, vermeld in artikel 25 van het besluit van de Vlaamse Regering van 8 juni 1999 houdende de procedureregels inzake de infrastructuur voor persoonsgebonden aangelegenheden, onder de delegatieregeling, vermeld in dit besluit, en kan ze dus genomen worden door het hoofd van het departement Welzijn, Volksgezondheid en Gezin.<br /><br />
+De beslissingen die in de uitvoeringsbesluiten van het decreet van 23   februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden   expliciet worden toevertrouwd aan de bevoegde Vlaamse minister, zijn uitgesloten   van de delegatieregeling, vermeld in dit besluit, en worden genomen door de   bevoegde Vlaamse minister.<BR>
 
 ### ART. 6.
 
