@@ -42,7 +42,7 @@ In dit artikel wordt verstaan onder subsidiabele oppervlakte : de som van   de p
 
 ### ART. 8.
 
-§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van   de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld   op 550 euro per m2.<BR><BR>§ 2. Bij de subsidiebelofte wordt de   investeringssubsidie als volgt verdeeld :<BR>1° ruwbouw : 35 %;<BR>2° technische   uitrusting : 25 %;<BR>3° afwerking : 30 %;<BR>4° uitrusting en meubilering : 10   %.<BR><BR>De Vlaamse minister, bevoegd voor de bijstand aan personen, kan de   percentages aanpassen tot maximaal de volgende percentages bij de verdeling   :<BR>1° ruwbouw : 45 %;<BR>2° technische uitrusting : 35 %;<BR>3° afwerking : 40   %;<BR>4° uitrusting en meubilering : 20 %.
+§ 1. Het basisbedrag van de investeringssubsidie voor de nieuwbouw,   uitrusting en meubilering inbegrepen, is voor de sector van de voorzieningen van   de bijzondere jeugdbijstand en de vergunde diensten voor pleegzorg vastgesteld   op 550 euro per m2.<BR><BR>§ 2. ...
 
 ### ART. 9.
 
