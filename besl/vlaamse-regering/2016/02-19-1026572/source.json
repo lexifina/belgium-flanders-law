@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026572,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-19 betreffende de voorbereiding bij adoptie",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026572/VolledigDocument?datum=2016-03-24",
+  "source_sha256": "611ca55995c2a3298e7381d1d8547cd059a843db12e5a53869fd150a0fdb6a96",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026572&param=informatie",
+  "as_of": "2016-03-24",
+  "made": "2016-02-19",
+  "gazette": "2016-03-24",
+  "numac": 2016035314,
+  "document_start": "2016-03-24",
+  "document_end": null,
+  "in_force": "2016-03-24",
+  "article_versions": 64,
+  "record_form": "consolidated version as in force on 2016-03-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
