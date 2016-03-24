@@ -2,16 +2,16 @@
   "codex_id": 1003696,
   "title": "Decreet van 1989-05-03 houdende erkenning van adoptiediensten",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003696/VolledigDocument?datum=2015-04-19",
-  "source_sha256": "57de7f47520146b7fb227ff1a2807bbf110e041c4a0d1b3bf535ff44d82c4783",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1003696/VolledigDocument?datum=2016-03-24",
+  "source_sha256": "51dc4ebffb4f87824078343a5714ba8eec98b4552afe55aab16148a405dea56f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1003696&param=informatie",
-  "as_of": "2015-04-19",
+  "as_of": "2016-03-24",
   "made": "1989-05-03",
   "gazette": "1989-08-12",
   "numac": 1989029588,
   "document_start": "1990-04-01",
   "document_end": "2016-03-23",
-  "in_force": "2015-04-19",
+  "in_force": "2016-03-24",
   "article_versions": 10,
-  "record_form": "consolidated version as in force on 2015-04-19; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-03-24; future article versions excluded; article text as the API gives it"
 }
