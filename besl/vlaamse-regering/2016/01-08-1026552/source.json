@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026552,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie administratief medewerker onthaal",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026552/VolledigDocument?datum=2016-03-26",
+  "source_sha256": "4d9153ddf0a106c067f4364f020a0f577f4cbcb9722e8525ac59eb0864c002aa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026552&param=informatie",
+  "as_of": "2016-03-26",
+  "made": "2016-01-08",
+  "gazette": "2016-03-16",
+  "numac": 2016035266,
+  "document_start": "2016-03-26",
+  "document_end": null,
+  "in_force": "2016-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
