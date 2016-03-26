@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026544,
+  "title": "Besluit van de Vlaamse Regering van 2016-01-08 tot erkenning van de beroepskwalificatie meet- en regeltechnicus",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026544/VolledigDocument?datum=2016-03-26",
+  "source_sha256": "7a6ad8cfd0d3d7066897ffc82bae0928e9fe13811f3bce7104ec64607c7f86c6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026544&param=informatie",
+  "as_of": "2016-03-26",
+  "made": "2016-01-08",
+  "gazette": "2016-03-16",
+  "numac": 2016035239,
+  "document_start": "2016-03-26",
+  "document_end": null,
+  "in_force": "2016-03-26",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-03-26; oldest version available; future article versions excluded; article text as the API gives it"
+}
