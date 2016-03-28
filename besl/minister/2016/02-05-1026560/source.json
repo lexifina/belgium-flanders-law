@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026560,
+  "title": "Ministerieel besluit van 2016-02-05 houdende de vastlegging van de middelen voor de subsidiëring van de aankoop van personenalarmtoestellen in 2016",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026560/VolledigDocument?datum=2016-03-28",
+  "source_sha256": "2cbd9e8469cc0014db1d9c8586b4dd9c8c1495cc930f8fb199637e722d8c002d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026560&param=informatie",
+  "as_of": "2016-03-28",
+  "made": "2016-02-05",
+  "gazette": "2016-03-18",
+  "numac": 2016035298,
+  "document_start": "2016-03-28",
+  "document_end": null,
+  "in_force": "2016-03-28",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-03-28; oldest version available; future article versions excluded; article text as the API gives it"
+}
