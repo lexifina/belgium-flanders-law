@@ -2,16 +2,16 @@
   "codex_id": 1006349,
   "title": "Besluit van de Vlaamse Regering van 1998-07-07 houdende vaststelling van de regelen tot de werking en het beheer van het financieringsinstrument voor de Vlaamse visserij- en aquicultuursector",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006349/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "cbff3ec2dc091640f568ee72e7012b41b9ce65e637a5b4791399a22f5903354c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1006349/VolledigDocument?datum=2016-03-30",
+  "source_sha256": "5fa6f5fd896caf149b81138663ed4116d9009973ea6a7cfdc726b00c0b4119dd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1006349&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-03-30",
   "made": "1998-07-07",
   "gazette": "1998-10-15",
   "numac": 1998036098,
   "document_start": "1997-01-01",
   "document_end": "2016-03-29",
-  "in_force": "2006-06-01",
+  "in_force": "2016-03-30",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-03-30; future article versions excluded; article text as the API gives it"
 }
