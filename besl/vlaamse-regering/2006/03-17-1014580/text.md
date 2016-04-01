@@ -8,7 +8,7 @@ De Vlaamse Regering,<br /><br />Gelet op het provinciedecreet van 9 december 200
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° agentschap   : het Vlaams Agentschap voor Personen met een Handicap; 2° decreet van 7 mei   2004 : het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd   agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een   Handicap; <BR>3° verwijzende instanties : de instanties, vermeld in artikel 22   van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de   inschrijving bij het Vlaams Agentschap voor Personen met een Handicap, die door   het agentschap zijn erkend om een multidisciplinair verslag op te maken;<BR>4°   voorziening : een organisatie, die door het agentschap is erkend voor het   verlenen van opvang, behandeling en begeleiding aan personen met een   handicap;<BR>5° personen met een handicap: personen met een handicap zoals   bedoeld in artikel 2, 2°, van het decreet van 7 mei 2004;<BR>6° Vlaams Platform   : het Vlaams Platform van verenigingen van personen met een handicap, vermeld in   titel III;<BR>7° verenigingen van personen met een handicap : de verenigingen   van personen met een handicap, die deel uitmaken van het Vlaams Platform;<BR>8°   provincies : de provincies die behoren tot het Vlaamse Gewest;<BR>9° ROG : het   Regionaal Overlegnetwerk Gehandicaptenzorg, vermeld in titel II, hoofdstuk   II;<BR>10° zorgvraag : de vraag van een persoon met een handicap inzake :<BR>a)   opvang, behandeling en begeleiding, verleend door een voorziening;<BR>b) een   persoonlijke-assistentiebudget als vermeld in artikel 16, 2°, van het decreet   van 7 mei 2004;<BR>11° centrale gegevensbank : de centrale gegevensbank, vermeld   in titel II, hoofdstuk III;<BR>12° zorgvraagregistratie : het opnemen, het   beheren en het verwerken van de basisgegevens over zorgvragen in één centrale   gegevensbank als vermeld in titel II, hoofdstuk V;<BR>13° urgentiecategorie : de   categorie die toegekend wordt aan een zorgvraag overeenkomstig het protocol   toekenning van een urgentiecategorie, vermeld in artikel 14, § 1, en het   protocol prioriteiten bij opname, vermeld in artikel 18, en die aangeeft of het   een actieve of een toekomstgerichte zorgvraag betreft; <BR>14° coördinatiepunt :   het coördinatiepunt, vermeld in artikelen 7 en 8;<BR>15° permanente cel : het   adviesorgaan, vermeld in titel II, hoofdstuk IV;<BR>16° zorgbemiddeling : het   zoeken naar een begeleidings-, behandelings- of opvangaanbod, uitgaande van de   zorgvraag, de urgentiecategorie en het beschikbare aanbod vermeld in titel II,   hoofdstuk VI, afdeling II;<BR>17° zorgafstemming : het in de provincie bestaande   aanbod inzake behandeling, begeleiding en opvang en inzake het   persoonlijke-assistentiebudget maximaal in overeenstemming brengen met de aldaar   vastgestelde behoeften, vermeld in titel II, hoofdstuk VII;<BR>18° zorgplanning   : het beschrijven van de noodzakelijke ontwikkeling, over meerdere jaren, van   het aanbod inzake opvang, behandeling en begeleiding en inzake   persoonlijke-assistentiebudget, om alle toekomstige zorgvragen te kunnen   beantwoorden als vermeld in titel II, hoofdstuk VIII;<BR>19° basisgegevens : de   gegevens over zorgvragen, over de opvang, behandeling en begeleiding, verleend   door voorzieningen, en over het persoonlijke-assistentiebudget die worden   vastgesteld door het agentschap op advies van de permanente cel, rekening   houdend met hun nut en noodzaak in het kader van de zorgvraagregistratie,   zorgbemiddeling, zorgafstemming en zorgplanning. <BR>20° prioritair te   bemiddelen zorgvraag: een zorgvraag die tot de hoogste prioriteitengroep behoort   omdat ze na aftoetsing van de criteria, vermeld in artikel 18/1 door de   regionale prioriteitencommissie bepaald is als een prioritaire vraag waarvoor   prioritair een begeleidings-, behandelings- of opvangaanbod, of assistentie moet   worden gezocht;<BR>21° regionale prioriteitencommissie : de commissie, vermeld   in titel II, hoofdstuk II/1;<BR>22° contactorganisatie : een organisatie als   vermeld in titel IV/1;<BR>23° contactpersoon zorgregie : de medewerker van een   contactorganisatie die door de contactorganisatie wordt belast met de uitvoering   van de taken, vermeld in artikel 47/2, § 2;<BR>24° noodsituatie: een   onverwachte, acuut beleefde en objectief vastgestelde situatie waarbij aan de   meerderjarige persoon met een handicap onmiddellijk hulp moet worden geboden   vanwege het plotse wegvallen van de sociale context waardoor een zeer ernstige   bedreiging is ontstaan voor de lichamelijke of geestelijke integriteit van de   persoon met een handicap;<BR>25° sociale context: de personen uit de naaste   omgeving van de persoon met een handicap die hem niet-professionele zorg en   ondersteuning bieden.<BR><BR>
+Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° agentschap   : het Vlaams Agentschap voor Personen met een Handicap; 2° decreet van 7 mei   2004 : het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd   agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een   Handicap; <BR>3° verwijzende instanties : de instanties, vermeld in artikel 22   van het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de   inschrijving bij het Vlaams Agentschap voor Personen met een Handicap, die door   het agentschap zijn erkend om een multidisciplinair verslag op te maken;<BR>4°   voorziening : een organisatie, die door het agentschap is erkend voor het   verlenen van opvang, behandeling en begeleiding aan personen met een   handicap;<BR>5° personen met een handicap: personen met een handicap zoals   bedoeld in artikel 2, 2°, van het decreet van 7 mei 2004;<BR>6° Vlaams Platform   : het Vlaams Platform van verenigingen van personen met een handicap, vermeld in   titel III;<BR>7° verenigingen van personen met een handicap : de verenigingen   van personen met een handicap, die deel uitmaken van het Vlaams Platform;<BR>8°   provincies : de provincies die behoren tot het Vlaamse Gewest;<BR>9° ROG : het   Regionaal Overlegnetwerk Gehandicaptenzorg, vermeld in titel II, hoofdstuk   II;<BR>10° zorgvraag : de vraag van een persoon met een handicap inzake :<BR>a)   opvang, behandeling en begeleiding, verleend door een voorziening;<BR>b) een   persoonlijke-assistentiebudget als vermeld in artikel 16, 2°, van het decreet   van 7 mei 2004;<BR>11° centrale gegevensbank : de centrale gegevensbank, vermeld   in titel II, hoofdstuk III;<BR>12° ...;<BR>13° ...; <BR>14° coördinatiepunt :   het coördinatiepunt, vermeld in artikelen 7 en 8;<BR>15° ...;<BR>16°   zorgbemiddeling : het zoeken naar een begeleidings-, behandelings- of   opvangaanbod, uitgaande van de zorgvraag, de urgentiecategorie en het   beschikbare aanbod vermeld in titel II, hoofdstuk VI, afdeling II;<BR>17°   ...;<BR>18° ...;<BR>19° ...; <BR>20° ...;<BR>21° regionale prioriteitencommissie   : de commissie, vermeld in titel II, hoofdstuk II/1;<BR>22° contactorganisatie :   een organisatie als vermeld in titel IV/1;<BR>23° contactpersoon zorgregie : de   medewerker van een contactorganisatie die door de contactorganisatie wordt   belast met de uitvoering van de taken, vermeld in artikel 47/2, § 2;<BR>24°   ...;<BR>25° ...<BR><BR>
 
 ## TITEL II Zorgregie
 
@@ -16,7 +16,7 @@ Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° agentschap   : 
 
 ### ART. 2.
 
-§ 1. Zorgregie heeft tot doel om met betrekking tot de ondersteuning die   georganiseerd wordt door het Vlaams Agentschap voor Personen met een Handicap   met uitzondering van de jeugdhulpverlening, vermeld in artikel 3, § 2, 5°, van   het decreet van 12 juli 2013 betreffende de integrale jeugdhulp:<BR>1° een   transparant en rechtvaardig opname- en bemiddelingsbeleid te realiseren;<BR>2°   het bestaande aanbod af te stemmen op de vraag;<BR>3° een gefundeerde planning   van het nieuwe aanbod te realiseren.<BR><BR>§ 2. Met het oog op het bereiken van   de doelstellingen, vermeld in § 1, worden alle noodzakelijke gegevens verzameld   en geïntegreerd in een centrale gegevensbank. Die gegevens worden verwerkt en ze   worden samen met de informatie die eruit voortvloeit ter beschikking gesteld van   de betrokken actoren.<BR><BR>
+§ 1. Zorgregie heeft tot doel om met betrekking tot de ondersteuning die   georganiseerd wordt door het Vlaams Agentschap voor Personen met een Handicap   met uitzondering van de jeugdhulpverlening, vermeld in artikel 3, § 2, 5°, van   het decreet van 12 juli 2013 betreffende de integrale jeugdhulp:<BR>1° een   transparant en rechtvaardig opnamebeleid te realiseren;<BR>2° ...;<BR>3°   ...<BR><BR>§ 2. Met het oog op het bereiken van de doelstellingen, vermeld in §   1, worden alle noodzakelijke gegevens verzameld en geïntegreerd in een centrale   gegevensbank. Die gegevens worden verwerkt en ze worden samen met de informatie   die eruit voortvloeit ter beschikking gesteld van de betrokken   actoren.<BR><BR>
 
 ## HOOFDSTUK II Regionaal Overlegnetwerk Gehandicaptenzorg
 
@@ -38,25 +38,25 @@ Het ROG kan subregionale of thematische werkgroepen oprichten.<br /><br />
 
 ### ART. 7.
 
-Het ROG heeft de volgende opdrachten :<br />1° de opvolging van de gegevens die in het kader van de zorgvraagregistratie worden geregistreerd;<br />2° de organisatie en de procesbewaking van de zorgbemiddeling;<br />3° het volgen van en het rapporteren over het opnamebeleid van de voorzieningen; <br />4° de sturing, de evaluatie en de bijsturing van het proces van zorgafstemming;<br />5° het uitbrengen van een advies over zorgplanning;<br />6° de oprichting van een coördinatiepunt;<br />7° het informeren van personen met een handicap over het bestaan en de werking van het ROG en het coördinatiepunt;<br />8° het oprichten van een of meer regionale prioriteitencommissies.<br /><br />Het ROG respecteert bij de uitvoering van zijn opdrachten de kwaliteitseisen betreffende de processen en de resultaten van zorgvraagregistratie, zorgbemiddeling en zorgafstemming, die door het agentschap worden vastgesteld.<br /><br />
+Het ROG heeft de volgende opdrachten :<BR>1° ...;<BR>2° de organisatie en   de procesbewaking van de zorgbemiddeling;<BR>3° het volgen van en het   rapporteren over het opnamebeleid van de voorzieningen; <BR>4° ...;<BR>5°   ...;<BR>6° de oprichting van een coördinatiepunt;<BR>7° het informeren van   personen met een handicap over het bestaan en de werking van het ROG en het   coördinatiepunt;<BR>8° ...<BR><BR>Het ROG respecteert bij de uitvoering van zijn   opdrachten de kwaliteitseisen betreffende de processen en de resultaten   van&nbsp; zorgbemiddeling, die door het agentschap worden   vastgesteld.<BR><BR>
 
 ### ART. 8.
 
-Het coördinatiepunt heeft de volgende taken :<br />1° het vervolledigt de gegevens uit de centrale gegevensbank en verwerkt ze tot rapporten ter ondersteuning van het ROG bij de uitvoering van zijn opdrachten inzake zorgvraagregistratie, zorgbemiddeling, zorgafstemming en zorgplanning. Het coördinatiepunt respecteert hierbij de kwaliteitseisen, vastgesteld door het agentschap;<br />2° het stelt rapporten op over de opnames in voorzieningen en over de resultaten van de zorgbemiddeling, de zorgafstemming en de zorgplanning.<br />
+Het coördinatiepunt heeft de volgende taken :<BR>1° het maakt rapporten op   ter ondersteuning van het ROG bij de uitvoering van zijn opdracht met betrekking   tot de bemiddeling, de afstemming en de planning. Het coördinatiepunt   respecteert daarbij de kwaliteitseisen, vastgesteld door het agentschap;<BR>2°   het stelt rapporten op over de opnames in voorzieningen en over de resultaten   van de zorgbemiddeling, de zorgafstemming en de zorgplanning.<BR>
 
 ## HOOFDSTUK II/1 [... (opgeh. BVR 4 maart 2016, art. 33, I: 1 april 2016)]
 
 ### ART. 8/1.
 
-Het ROG richt in elke provincie minstens één regionale   prioriteitencommissie op die als volgt is samengesteld : <BR>1° een evenredige   vertegenwoordiging van : <BR>a) de verenigingen van personen met een   handicap;<BR>b) de voorzieningen;<BR>c) de verwijzende instanties;<BR>2° een   ambtenaar die aangewezen wordt door de leidend ambtenaar van het   agentschap.<BR><BR>De leden, vermeld in het eerste lid, punt 1° en 2°, hebben   elk één stem.<BR><BR>Het ROG stelt een huishoudelijk reglement op van de   regionale prioriteitencommissie. Het huishoudelijk reglement behandelt minstens   de volgende punten:<BR>1° de vergaderfrequentie;<BR>2° de praktische   werking;<BR>3° in welke gevallen en op welke wijze een aanvraag kan worden   ingediend om herziening van een weigering van de regionale prioriteitencommissie   om een zorgvraag als prioritair te bemiddelen zorgvraag te erkennen.<BR><BR>Het   coördinatiepunt zorgt voor de logistieke en inhoudelijke ondersteuning.
+<P>...</P>
 
 ### ART. 8/2.
 
-De regionale prioriteitencommissie heeft minstens de volgende taken :   <BR>1° op verzoek van de contactpersoon een zorgvraag erkennen als prioritair te   bemiddelen zorgvraag overeenkomstig de criteria, vermeld in artikel 18/1 van dit   besluit; <BR>2° advies geven aan het agentschap over de toelaatbaarheid van een   opname door een voorziening die afwijkt van de bepalingen van artikel 18, tweede   lid;<BR>3° verwijzen naar zorgbemiddeling van prioritair te bemiddelen   zorgvragen inzake opvang, behandeling en begeleiding, verleend door een   voorziening die geen antwoord krijgen binnen een aanvaardbare termijn;<BR>4°   binnen de perken van de daarvoor in de begroting van het agentschap ingeschreven   kredieten voorstellen aan het agentschap dat een prioritair te bemiddelen   zorgvraag inzake opvang, behandeling en begeleiding, verleend door een   voorziening die geen antwoord krijgt binnen een aanvaardbare termijn, in   aanmerking komt voor een convenant als vermeld in artikel 3 van het besluit van   de Vlaamse Regering van 19 juli 2002 houdende maatregelen om tegemoet te komen   aan de noodzaak tot leniging van dringende behoeften van personen met een   handicap.
+<P>...</P>
 
 ### ART. 8/3.
 
-De regionale prioriteitencommissie rapporteert minstens eenmaal per kalenderjaar aan het bestuursorgaan van het ROG over de uitvoering van de taken, vermeld in artikel 8/2.
+<P>...</P>
 
 ## HOOFDSTUK III De centrale gegevensbank
 
@@ -72,33 +72,33 @@ Het agentschap ontwikkelt een centrale gegevensbank waarin de basisgegevens over
 
 ### ART. 11.
 
-§ 1. Bij het agentschap wordt een permanente cel Zorgregie opgericht die   als volgt is samengesteld :<BR>1° vijf vertegenwoordigers van de ROG's, namelijk   één vertegenwoordiger per ROG, die is voorgedragen door het bestuursorgaan van   het ROG;<BR>2° één vertegenwoordiger per vereniging van voorzieningen, die is   voorgedragen door de verenigingen van voorzieningen;<BR>3° vier ambtenaren,   aangewezen door de leidend ambtenaar van het agentschap;<BR>4° twee   vertegenwoordigers van verwijzende instanties, die worden voorgedragen door de   verwijzende instanties;<BR>5°&nbsp;vijf vertegenwoordigers van verenigingen van   personen met een handicap, die worden voorgedragen door het Vlaams   Platform;<BR>6° twee ambtenaren, aangewezen door de provinciebesturen.<BR><BR>§   2. Het agentschap benoemt de leden van de permanente cel.<BR><BR>
+...<BR>
 
 ### ART. 12.
 
-§ 1. De permanente cel heeft de opdracht het agentschap te adviseren over   de maatregelen die genomen moeten worden om uitvoering te geven aan de   bepalingen van titel II.<BR><BR>§ 2. De permanente cel adviseert het agentschap   onder meer over :<BR>1° de opbouw en het beheer van de centrale   gegevensbank;<BR>2° de organisatie en inhoud van de zorgvraagregistratie en de   bijsturing ervan;<BR>3° de kwaliteitseisen voor de processen en de resultaten   van zorgvraagregistratie, zorgbemiddeling, zorgafstemming en zorgplanning en   inzake de bijsturing ervan;<BR>4° de klachtenprocedure inzake   zorgvraagregistratie en zorgbemiddeling;<BR>5° de opmaak van een protocol   toekenning van een urgentiecategorie als vermeld in artikel 14, § 1, en de   bijsturing ervan; <BR>6° de opmaak van een protocol Noodsituatie als vermeld in   artikel 20, en de bijsturing ervan;<BR>7° de opmaak van een protocol   prioriteiten bij opname als vermeld in artikel 18 en de bijsturing ervan;<BR>8°   de concretisering van de criteria, vermeld in artikel 18/1 van dit   besluit.<BR><BR>
+...<BR>
 
 ## HOOFDSTUK V [... (opgeh. BVR 4 maart 2016, art. 35, I: 1 april 2016)]
 
 ### ART. 13.
 
-De zorgvraagregistratie heeft tot doel de door het agentschap vastgestelde basisgegevens over alle verduidelijkte, actuele zorgvragen te registreren in de centrale gegevensbank.<br /><br />
+<P>...</P>
 
 ### ART. 14.
 
-§ 1. De urgentiecategorie is een van de basisgegevens die in het kader van de zorgvraagregistratie geregistreerd moeten worden. De urgentiecategorie wordt toegekend door de contactpersoon zorgregie overeenkomstig het protocol toekenning van een urgentiecategorie, dat door het agentschap wordt vastgesteld na advies van de permanente cel. <br /><br />Het protocol toekenning van een urgentiecategorie beschrijft de urgentiecategorieën die kunnen worden toegekend, alsook de criteria en de werkwijze om de urgentiecategorieën toe te kennen.<br /><br />§ 2. De personeelsleden van het agentschap dat tot taak heeft toezicht te houden op de toepassing van de regelgeving die geldt voor de voorzieningen met betrekking tot het beleidsdomein Welzijn, Volksgezondheid en Gezin, controleren de toepassing van het protocol toekenning van een urgentiecategorie, vermeld in § 1. Het verslag van die controle wordt bezorgd aan het bestuursorgaan van het ROG, vermeld in artikel 5, eerste lid.
+<P>...</P>
 
 ### ART. 15.
 
-De basisgegevens, vermeld in artikel 13, waarover het agentschap beschikt als gevolg van de behandeling van de aanvraag om inschrijving en het verkrijgen van bijstand tot sociale integratie, zoals bepaald in het besluit van de Vlaamse Regering van 24 juli 1991 betreffende de inschrijving bij het Vlaams Agentschap voor Personen met een Handicap, worden automatisch door het agentschap ingebracht in de centrale gegevensbank.
+<P>...</P>
 
 ### ART. 16.
 
-De basisgegevens, vermeld in artikel 13, waarover het agentschap conform artikel 15 niet beschikt, worden in de centrale gegevensbank ingevoerd door de contactpersoon zorgregie.<br /> <br />Het agentschap bepaalt, na advies van de permanente cel, op welke wijze en op welk moment de contactpersoon zorgregie de basisgegevens invoert in de centrale gegevensbank.
+<P>...</P>
 
 ### ART. 17.
 
-Het ROG heeft inzake de zorgvraagregistratie de volgende opdrachten :<br />1° het opvolgen van de gegevens die in het kader van de zorgvraagregistratie worden geregistreerd;<br />2° ...<br />3° de evaluatie van de zorgvraagregistratie met het oog op van de eventuele bijsturing ervan;<br />4° de evaluatie van de toepassing van het protocol toekenning van een urgentiecategorie met het oog op de eventuele bijsturing ervan.<br /><br />
+...<BR>
 
 ## HOOFDSTUK VI [Opnamebeleid voor de voorzieningen (verv. BVR 4 maart 2016, art. 36, I: 1 april 2016)]
 
@@ -106,46 +106,35 @@ Het ROG heeft inzake de zorgvraagregistratie de volgende opdrachten :<br />1° h
 
 ### ART. 18.
 
-De kandidaten voor opname in een voorziening worden in de centrale gegevensbank ingedeeld in prioriteitengroepen.<br /><br />De prioriteitengroepen worden door het agentschap, na advies van de permanente cel, vastgesteld in het protocol prioriteiten bij opname.<br /><br />De voorzieningen kunnen een persoon met een handicap opnemen als die : <br />1° behoort tot de hoogst voorkomende prioriteitengroep op de lijst met kandidaten;<br />2° beantwoordt aan de profielbeschrijving van personen voor wie de open plaats is bedoeld, die door de voorzieningen werd vastgesteld in de centrale gegevensbank.<br /><br />Het agentschap bepaalt, na advies van de permanente cel, in het protocol prioriteiten bij opname : <br />1° in welke gevallen en op welke wijze de voorzieningen expliciet een open plaats moeten melden;<br />2° in welke gevallen de contactpersoon zorgregie een persoon met een handicap expliciet moet aanmelden voor een open plaats;<br />3° de criteria waaraan een profielbeschrijving als vermeld in het tweede lid, 2°, moet voldoen.
+De kandidaten voor opname in een voorziening worden in de centrale   gegevensbank ingedeeld in prioriteitengroepen.<BR><BR>De prioriteitengroepen   worden door het agentschap vastgesteld in het protocol prioriteiten bij   opname.<BR><BR>De voorzieningen kunnen een persoon met een handicap opnemen als   die : <BR>1° behoort tot de hoogst voorkomende prioriteitengroep op de lijst met   kandidaten;<BR>2° beantwoordt aan de profielbeschrijving van personen voor wie   de open plaats is bedoeld, die door de voorzieningen werd vastgesteld in de   centrale gegevensbank.<BR><BR>Het agentschap bepaalt in het protocol   prioriteiten bij opname : <BR>1° in welke gevallen en op welke wijze de   voorzieningen expliciet een open plaats moeten melden;<BR>2° in welke gevallen   de contactpersoon zorgregie een persoon met een handicap expliciet moet   aanmelden voor een open plaats;<BR>3° de criteria waaraan een   profielbeschrijving als vermeld in het tweede lid, 2°, moet   voldoen.
 
 ### ART. 18/1.
 
-De regionale prioriteitencommissie kan&nbsp;aan de zorgvraag van een persoon met een handicap, die in de provincie van de regionale prioriteitencommissie gedomicilieerd is, de status van prioritair te bemiddelen zorgvraag toekennen als aan de volgende voorwaarden voldaan is:<br>
-1° het gaat om een actieve zorgvraag waarbij de persoon met een handicap aangeeft dat hij bereid is om in te gaan op een gepast aanbod van een voorziening of het hem toegekende persoonlijke-assistentiebudget te activeren;<br>
-2° er is een duidelijke kloof tussen de zorg en ondersteuning die hij nu ontvangt en de zorg en ondersteuning die noodzakelijk is;<br>
-3° de huidige situatie wordt op korte termijn onhoudbaar;<br>
-4° de draagkracht van zijn sociaal netwerk is overschreden;<br>
-5° een intensief bemiddelingstraject kan geen antwoord bieden op de zorgvraag;<br>
-6° de geestelijke en lichamelijke integriteit van de persoon met een handicap of van zijn sociale context is in het gedrang of is geschonden;<br>
-7° er is geen perspectief op gepaste zorg en ondersteuning.<br>
-<br>
-De regionale prioriteitencommissie voert een intersubjectieve vergelijkende beoordeling uit van de verschillende kandidaten om de zorgvragen vast te stellen die de status prioritair te bemiddelen krijgen.<br>
-<br>
-Het agentschap kan, na advies van de permanente cel, de criteria, vermeld in het eerste lid, verder concretiseren in een protocol prioriteiten bij opname en kan categorieën van personen met een handicap vaststellen die zich kunnen richten tot een regionale prioriteitencommissie buiten de provincie waar zij gedomicilieerd zijn.
+<P>...</P>
 
 ### ART. 18/2.
 
-De regionale prioriteitencommissie kan aan de zorgvraag van een persoon   met een handicap die de status prioritair te bemiddelen kreeg de status   prioritair te bemiddelen ontnemen als uit een evaluatie blijkt dat de criteria,   vermeld in artikel 18/1, eerste lid, niet langer vervuld zijn.
+<P>...</P>
 
 ### ART. 19.
 
-Een voorziening kan bij opname van een persoon met een handicap alleen afwijken van de bepalingen van artikel 18, tweede lid, als ze een motivering voor de opname voorlegt aan het agentschap.<br /><br />Als het agentschap, na advies van de regionale prioriteitencommissie, oordeelt dat de motivering niet gegrond is, is een volgende opname die afwijkt van de bepalingen van artikel 18, tweede lid, alleen toegelaten nadat het agentschap de motivering voor die opname gegrond verklaard heeft, na advies van de regionale prioriteitencommissie. Het agentschap bepaalt de periode waarin een voorziening een opname die afwijkt van de bepalingen van artikel 18, tweede lid, alleen kan realiseren nadat de motivering ervoor door het agentschap gegrond werd verklaard. <br /><br />Het agentschap bepaalt, na advies van de permanente cel, in het protocol prioriteiten bij opname de criteria waaraan de motivering moet beantwoorden.
+<P>Een voorziening kan bij de opname van een persoon met een handicap alleen   afwijken van de procedure, vermeld in artikel 18, tweede lid, als ze de   motivering voor de opname voorlegt aan het agentschap en het agentschap oordeelt   dat de motivering gegrond is.<BR><BR>Als het agentschap oordeelt dat de   motivering niet gegrond is, is een volgende opname die afwijkt van de procedure,   vermeld in artikel 18, tweede lid, alleen toegelaten nadat het agentschap de   motivering voor die opname gegrond verklaard heeft. Het agentschap bepaalt de   periode waarin een voorziening een opname die afwijkt van de procedure, vermeld   in artikel 18, tweede lid, alleen kan realiseren nadat de motivering ervoor door   het agentschap gegrond is verklaard.<BR><BR>Het agentschap bepaalt in het   protocol prioriteiten bij opname de criteria waaraan de motivering moet   beantwoorden.</P>
 
 ### ART. 20.
 
-In afwijking van artikel 18 en 19 moet een opname bij een noodsituatie   verlopen overeenkomstig het protocol Noodsituatie, dat op advies van de   permanente cel, wordt vastgesteld door het agentschap. Het protocol heeft tot   doel om aan personen met een handicap in een noodsituatie een   onmiddellijke,&nbsp;tijdelijke oplossing inzake opvang, behandeling en   begeleiding te bezorgen.<BR><BR>Als een meerderjarige persoon met een handicap   zich in een noodsituatie bevindt die opgevangen kan worden door opvang,   behandeling of begeleiding door een voorziening, kan die persoon een beroep doen   op het protocol noodsituatie als aan de volgende voorwaarden voldaan is:<BR>1°   hij is bereid om in te gaan op elk mogelijk aanbod dat de noodsituatie laat   ophouden;<BR>2° door het wegvallen van de sociale context zijn de zorgdragers of   ondersteuners niet meer in staat om de zorg en ondersteuning voor de persoon met   een handicap op te nemen of is het onmogelijk geworden voor de persoon met een   handicap om in de huidige woonsituatie te blijven functioneren;<BR>3° de fysieke   en/of psychische gezondheid zal bijna onmiddellijk en in verregaande mate   geschaad worden als de huidige situatie aanhoudt;<BR>4° er is geen enkele   alternatieve oplossing in het sociaal netwerk of de reguliere crisisopvang   mogelijk vanwege de aard van de handicap;<BR>5° het gaat om een onvoorzienbare   verandering in de sociale situatie.<BR><BR>De persoon die op het protocol   noodsituatie een beroep wil doen, richt zich tot een contactpersoon zorgregie   die de checklist invult die het agentschap heeft vastgesteld. Het agentschap   beslist binnen veertien dagen of de noodsituatie wordt toegekend en brengt de   persoon met een handicap van die beslissing op de hoogte.<BR><BR>Het aanbod   wordt beperkt tot een termijn van tien aaneengesloten weken.
+<P>...</P>
 
 ### ART. 20/1.
 
-Een meerderjarige persoon die nog niet door het agentschap erkend werd als   persoon met een handicap, maar die zich in een situatie bevindt die voldoet aan   de andere criteria, vermeld in artikel 20, tweede lid, kan een beroep doen op   het protocol noodsituatie als het agentschap op basis van een duidelijk medisch   attest of een attest van een verwijzende instantie, oordeelt dat de persoon in   aanmerking komt om erkend te worden als persoon met een handicap.
+<P>...</P>
 
 ### ART. 20/2.
 
-&nbsp;Een meerderjarige persoon met een handicap die tot de hoogste   prioriteitengroep behoort, kan een convenant als vermeld in artikel 3 van het   besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om   tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van   personen met een handicap aanvragen als aan de volgende criteria voldaan   is:<BR>1° de zorgvraag van de persoon met een handicap is conform artikel 18/1   van dit besluit als prioritair te bemiddelen erkend en het agentschap heeft   positief beslist over zijn zorgvraag, als vermeld in artikel 1, punt 10°, a),   van dit besluit;<BR>2° de huidige situatie wordt op korte termijn   onhoudbaar;<BR>3° de draagkracht van het sociaal netwerk is overschreden;<BR>4°   een intensief bemiddelingstraject kan geen antwoord bieden op de   zorgvraag;<BR>5° de geestelijke en lichamelijke integriteit van de persoon met   een handicap of van zijn sociale context is in het gedrang of is   geschonden;<BR>6° er is geen perspectief op gepaste zorg en   ondersteuning.<BR><BR>Binnen de grenzen van de middelen die de Vlaamse Regering   aan het agentschap heeft toegewezen, kan het agentschap, na advies van de   regionale prioriteitencommissie van de provincie waarin de persoon met een   handicap gedomicilieerd is, een convenant toekennen als vermeld in artikel 3 van   het besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om   tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van   personen met een handicap.
+<P>...</P>
 
 ### ART. 20/3.
 
-Tegen de weigering om een convenant toe te kennen als vermeld in artikel 3   van het besluit van de Vlaamse Regering van 19 juli 2002 houdende maatregelen om   tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van   personen met een handicap of tegen de weigering om zijn zorgvraag de status   prioritair te bemiddelen toe te kennen, kan een persoon met een handicap, binnen   twee maanden na ontvangst van die beslissing, beroep aantekenen bij de   heroverwegingscommissie zorgregie.<BR><BR>Het agentschap stelt de   heroverwegingscommissie zorgregie samen conform de samenstelling vermeld in   artikel 8/1, eerste lid, van dit besluit. De leden van deze commissie zijn lid   of lid geweest van een regionale prioriteitencommissie.<BR><BR>De   heroverwegingscommissie zorgregie gaat na of de regionale prioriteitencommissie   de criteria, vermeld in artikel 18/1, eerste lid, of artikel 20/2, eerste lid,   naargelang van het geval, correct heeft beoordeeld. De heroverwegingscommissie   zorgregie baseert zich daarvoor alleen op feiten en gegevens die aan de   regionale prioriteitencommissie werden voorgelegd en houdt rekening met het   beschikbare budget en het vastgestelde quotum voor de regionale   prioriteitencommissie die de bestreden beslissing heeft genomen.<BR><BR>De   persoon met een handicap toont aan dat zijn zorgvraag niet correct getoetst werd   aan de criteria, vermeld in artikel 18/1, eerste lid, of artikel 20/2, eerste   lid. De heroverwegingscommissie zorgregie bevestigt de bestreden beslissing van   de regionale prioriteitencommissie als ze oordeelt dat de toetsing correct is   uitgevoerd. In het andere geval kan de commissie, binnen het quotum dat het   agentschap heeft vastgesteld, naargelang van het geval de status prioritair te   bemiddelen toekennen aan de zorgvraag of een convenant toekennen.<BR><BR>Het   agentschap bepaalt de procedure om beroep aan te tekenen, organiseert het recht   van de persoon met een handicap om gehoord te worden en stelt een formulier ter   beschikking waarmee de persoon met een handicap aantoont dat zijn zorgvraag niet   correct getoetst werd, als vermeld in het vierde lid.<BR><BR>De   heroverwegingscommissie zorgregie regelt haar werking en legt de bepalingen   inzake de interne organisatie vast in een huishoudelijk reglement. Dat   huishoudelijk reglement bevat minstens een bepaling die garandeert dat een lid   van de heroverwegingscommissie zorgregie geen kennis kan nemen van een beroep   tegen een beslissing van de regionale prioriteitencommissie waarvan hij deel   uitmaakt en wordt ter goedkeuring aan het agentschap voorgelegd.
+<P>...</P>
 
 ### ART. 21.
 
@@ -161,57 +150,57 @@ Als een voorziening de bepalingen van artikel 18 en 19 niet naleeft bij de opnam
 
 ### ART. 23.
 
-Het ROG evalueert en brengt verslag uit over :<br />1° de toepassing door de voorzieningen van de bepalingen van artikel 18 en artikel 19;<br />2° de toepassing van het protocol Noodsituatie, vermeld in artikel 20.<br /><br />
+Het ROG evalueert en brengt verslag uit over :<BR>1° de toepassing door de   voorzieningen van de bepalingen van artikel 18 en artikel 19;<BR>2°   ....<BR><BR>
 
 ## Afdeling II [... (opgeh. BVR 4 maart 2016, art. 43, I: 1 april 2016)]
 
 ### ART. 24.
 
-Zorgbemiddeling heeft tot doel een behandelings-, begeleidings- of opvangaanbod te vinden als antwoord op individuele zorgvragen inzake opvang, behandeling en begeleiding verleend door een voorziening, rekening houdend met de zorgvraag, de urgentiecategorie en het beschikbare aanbod.<br /><br />Zorgbemiddeling richt zich in de eerste plaats tot zorgvragen inzake opvang, behandeling en begeleiding verleend door een voorziening die door de regionale prioriteitencommissie als prioritair te bemiddelen zorgvragen zijn erkend.<br /><br />Zorgbemiddeling vindt in ieder geval plaats als een zorgvraag inzake opvang, behandeling en begeleiding verleend door een voorziening die door de regionale prioriteitencommissie als prioritair te bemiddelen zorgvraag is erkend, geen antwoord krijgt binnen een aanvaardbare termijn. <br /><br />Zorgbemiddeling wordt verleend in overeenstemming met de kwaliteitseisen voor het proces en de resultaten van zorgbemiddeling, die het agentschap vaststelt na advies van de permanente cel.
+<P>...</P>
 
 ### ART. 24/1.
 
-De contactpersoon zorgregie neemt deel aan en participeert actief in de zorgbemiddeling van zorgvragen van personen met een handicap voor wie hij optreedt. De contactpersoon zorgregie kan om zorgbemiddeling vragen voor een zorgvraag inzake opvang, behandeling en begeleiding die door de regionale prioriteitencommissie als prioritair te bemiddelen zorgvraag is erkend, maar geen antwoord krijgt binnen een aanvaardbare termijn.
+<P>...</P>
 
 ### ART. 25.
 
-Het ROG heeft de volgende opdrachten :<br />1° de organisatie en de procesbewaking van de zorgbemiddeling;<br />2° het stimuleren van de actieve inzet van de leden van het ROG, vermeld in artikel 3, § 1, 1° tot en met 3°, in het zorgbemiddelingsproces;<br />3° het bewaken van de naleving van de bepalingen van artikel 18 en 19 in het kader van de zorgbemiddeling;<br />4° het stimuleren van de collectieve verantwoordelijkheid van de voorzieningen bij het vinden, in het kader van de zorgbemiddeling, van een antwoord op individuele zorgvragen;<br />5° het toepassen van de klachtenprocedure zorgbemiddeling;<br />6° de evaluatie en de bijsturing van de zorgbemiddeling.<br /><br />
+<P>...</P>
 
 ### ART. 26.
 
-Het coördinatiepunt verwerkt de gegevens van de centrale gegevensbank ter ondersteuning van de zorgbemiddeling en stelt periodiek rapporten op aangaande de realisaties en de knelpunten van de zorgbemiddeling.<br /><br />Het agentschap bepaalt, op advies van de permanente cel, de inhoud van de rapporten, vermeld in het eerste lid.<br /><br />Het coördinatiepunt stelt de rapporten ter beschikking van het bestuursorgaan van het ROG, vermeld in artikel 5, eerste lid.<br /><br />
+<P>...</P>
 
 ### ART. 27.
 
-De personeelsleden van het agentschap dat tot taak heeft toezicht te houden op de toepassing van de regelgeving die geldt voor de voorzieningen met betrekking tot het beleidsdomein Welzijn, Volksgezondheid en Gezin controleren :<br />1° de naleving van de bepalingen van artikel 18 en artikel 19 in het kader van de zorgbemiddeling;<br />2° de participatie van de voorzieningen in de zorgbemiddeling.<br /><br />Het verslag van die controle wordt bezorgd aan het bestuursorgaan van het ROG, vermeld in artikel 5, eerste lid.<br /><br />
+<P>...</P>
 
 ## HOOFDSTUK VII [... (opgeh. BVR 4 maart 2016, art. 44, I: 1 april 2016)]
 
 ### ART. 28.
 
-Zorgafstemming heeft tot doel om het in de provincie bestaande aanbod op het gebied van opvang, behandeling en begeleiding en op het gebied van het persoonlijke- assistentiebudget zo veel mogelijk in overeenstemming te brengen met de aldaar vastgestelde behoeften inzake opvang, behandeling en begeleiding.<br /><br />
+...<BR>
 
 ### ART. 29.
 
-Het ROG is verantwoordelijk voor de sturing, de evaluatie en de bijsturing van het proces van zorgafstemming.<br /><br />Zorgafstemming houdt in dat wordt onderzocht op welke wijze het beschikbare aanbod inzake opvang, behandeling en begeleiding en inzake het persoonlijke-assistentiebudget beter in overeenstemming gebracht kan worden met de, na zorgbemiddeling, niet-beantwoorde zorgvragen. Hierbij worden voorstellen geformuleerd aan voorzieningen en aan het agentschap inzake flexibilisering, heroriëntatie en reconversie van het bestaande aanbod.<br /><br />
+...<BR>
 
 ### ART. 30.
 
-Het coördinatiepunt stelt rapporten op over de realisaties en knelpunten van zorgafstemming en stelt die rapporten ter beschikking van het bestuursorgaan van het ROG, vermeld in artikel 5, eerste lid.<br /><br />
+...<BR>
 
 ## HOOFDSTUK VIII [... (opgeh. BVR 4 maart 2016, art. 45, I: 1 april 2016)]
 
 ### ART. 31.
 
-Zorgplanning heeft tot doel de ontwikkeling van het zorgaanbod over meerdere jaren op kwalitatieve en kwantitatieve wijze te beschrijven, met inbegrip van de budgettaire implicaties, met het oog op de toekomstige zorgvragen.<br /><br />De zorgplanning dient als basis voor het vaststellen van de programmatie betreffende voorzieningen, vermeld in artikel 4 van het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling van de algemene regels inzake het verlenen van vergunningen en erkenningen door het Vlaams Agentschap voor Personen met een Handicap, evenals voor het vaststellen van de programmatie op het gebied van het persoonlijke-assistentiebudget, vermeld in artikel 18, vijfde lid, van het decreet van 7 mei 2004.<br /><br />
+<P>...</P>
 
 ### ART. 32.
 
-Het agentschap is verantwoordelijk voor het beleidsvoorbereidende proces op het gebied van zorgplanning en de programmatie, de evaluatie en de bijsturing ervan.<br /><br />
+...<BR>
 
 ### ART. 33.
 
-Het agentschap stelt in overleg met de permanente cel en de ROG's een meerjarenzorgplan evenals een geactualiseerd jaarlijks zorgplan op, waarbij met de volgende gegevens rekening gehouden wordt :<br />1° het wetenschappelijke onderzoek over de te verwachten ontwikkelingen betreffende de kwantiteit en kwaliteit van de zorgvragen, dat wordt uitgevoerd door of in opdracht van het agentschap;<br />2° de door het coördinatiepunt opgestelde rapporten betreffende zorgbemiddeling en de zorgafstemming;<br />3° de adviezen van de ROG's betreffende zorgplanning;<br />4° de adviezen van de provinciebesturen en van de Vlaamse Gemeenschapscommissie, gebaseerd op de bij de provinciebesturen beschikbare sectoroverschrijdende cijfers en onderzoeksgegevens betreffende de zorgbehoeften van personen met een handicap.<br /><br />
+...<BR>
 
 ## HOOFDSTUK IX Subsidiëring
 
@@ -236,7 +225,7 @@ Binnen de perken van de hiervoor op zijn begroting ingeschreven kredieten kan he
 
 ### ART. 37.
 
-Het Platform heeft de volgende taken :<BR>1° het versterken van de positie   van personen met een handicap met het oog op de opdrachten van het ROG door   vertegenwoordigers van de verenigingen van personen met een handicap in de   werking van het ROG aan te wijzen en te ondersteunen;<BR>1° /1 het versterken   van de positie van personen met een handicap door vertegenwoordigers van de   verenigingen van personen met een handicap aan te wijzen als lid van de   Intersectorale Regionale Prioriteitencommissie, vermeld in artikel 26, § 1,   eerste lid, 5°, en derde lid, van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp, en hen voor dat lidmaatschap te ondersteunen;<BR>2° het   informeren van de personen met een handicap over de zorgvraagregistratie en de   zorgbemiddeling;<BR>3° het begeleiden van personen met een handicap bij :<BR>a)   het inleiden van klachten over de zorgvraagregistratie;<BR>b) het inleiden van   klachten over de zorgbemiddeling.<BR><BR>
+Het Platform heeft de volgende taken :<BR>1° het versterken van de positie   van personen met een handicap met het oog op de opdrachten van het ROG door   vertegenwoordigers van de verenigingen van personen met een handicap in de   werking van het ROG aan te wijzen en te ondersteunen;<BR>1° /1 het versterken   van de positie van personen met een handicap door vertegenwoordigers van de   verenigingen van personen met een handicap aan te wijzen als lid van de   Intersectorale Regionale Prioriteitencommissie, vermeld in artikel 26, § 1,   eerste lid, 5°, en derde lid, van het decreet van 12 juli 2013 betreffende de   integrale jeugdhulp, en hen voor dat lidmaatschap te ondersteunen;<BR>2° het   informeren van de personen met een handicap over de bemiddeling in het kader van   persoonsvolgende financiering;<BR>3° het begeleiden van personen met een   handicap bij :<BR>a) ...;<BR>b) het inleiden van klachten over de bemiddeling in   het kader van persoonsvolgende financiering.<BR><BR>
 
 ## HOOFDSTUK III Erkenning en werking
 
@@ -319,7 +308,7 @@ Als het Platform de in titel III, hoofdstuk IV, vermelde subsidievoorwaarden nie
 
 ### ART. 46.
 
-§ 1. Binnen de perken van de hiervoor op zijn begroting ingeschreven kredieten kan het agentschap, overeenkomstig de bepalingen van deze titel, een vereniging van verwijzende instanties erkennen en subsidiëren.<br /><br />De opdracht van de vereniging bestaat erin de vertegenwoordiging van de verwijzende instanties in het ROG en in de permanente cel te organiseren.<br /><br />§ 2. Het agentschap bepaalt de voorwaarden waaraan de vereniging van verwijzende instanties moet voldoen met het oog op erkenning en subsidiëring. Het agentschap bepaalt tevens de voorwaarden van uitbetaling van de subsidies.<br /><br />
+§ 1. Binnen de perken van de hiervoor op zijn begroting ingeschreven   kredieten kan het agentschap, overeenkomstig de bepalingen van deze titel, een   vereniging van verwijzende instanties erkennen en subsidiëren.<BR><BR>De   opdracht van de vereniging bestaat erin de vertegenwoordiging van de verwijzende   instanties in het ROG in alle overlegorganen van het agentschap, en in het   bijzonder in de overlegorganen die de materies behandelen betreffende de   afhandeling van een vraag naar niet rechtstreeks toegankelijke hulp en   ondersteuning en de terbeschikkingstelling van dat budget, te   organiseren.<BR><BR>§ 2. Het agentschap bepaalt de voorwaarden waaraan de   vereniging van verwijzende instanties moet voldoen met het oog op erkenning en   subsidiëring. Het agentschap bepaalt tevens de voorwaarden van uitbetaling van   de subsidies.<BR><BR>
 
 ### ART. 47.
 
@@ -338,7 +327,17 @@ Binnen de grenzen van de daarvoor op de begroting van het agentschap ingeschreve
 
 ### ART. 47/2.
 
-§ 1. Een contactorganisatie is een organisatie waarvan medewerkers op verzoek van een persoon met een handicap, als contactpersoon zorgregie de opdrachten, vermeld in § 2, kunnen uitoefenen.<br /><br />§ 2. De contactpersoon zorgregie heeft de volgende opdrachten : <br />1° registreren en, in voorkomend geval, actualiseren van de gegevens van de persoon met een handicap in de centrale gegevensbank als vermeld in artikel 15;<br />2° een aanvraag indienen bij de regionale prioriteitencommissie om een zorgvraag als prioritair te bemiddelen te erkennen;<br />3° aanmelden van de persoon met een handicap voor open plaatsen in voorzieningen overeenkomstig het protocol prioriteiten bij opname, vermeld in artikel 18;<br />4° deelnemen aan de zorgbemiddeling, die van belang is voor de persoon met een handicap, vermeld in artikel 24/1;<br />5° de persoon met een handicap informeren over de regie van de zorg, over de in dit kader te volgen procedures en over de activiteiten van de contactpersoon zorgregie;<br />6° meehelpen uitvoering geven aan het protocol noodsituatie, vermeld in artikel 12, § 2, 6°.
+§ 1. Een contactorganisatie is een organisatie waarvan medewerkers op verzoek van een persoon met een handicap, als contactpersoon zorgregie de opdrachten, vermeld in § 2, kunnen uitoefenen.<br>
+<br>
+§ 2. De contactpersoon zorgregie heeft de volgende opdrachten :<br>
+1° de gegevens van de persoon met een handicap in de centrale gegevensbank registreren, actualiseren en, in voorkomend geval, afsluiten, rekening houdend met de effecten van die registraties in het kader van de transitie;<br>
+2° ...;<br>
+3° aanmelden van de persoon met een handicap voor open plaatsen in voorzieningen overeenkomstig het protocol prioriteiten bij opname, vermeld in artikel 18;<br>
+4° ...;<br>
+5° de persoon met een handicap informeren over de regie van de zorg, over de in dit kader te volgen procedures en over de activiteiten van de contactpersoon zorgregie;<br>
+6° ...<br>
+7° op verzoek van de persoon met een handicap ondersteuning bieden bij de beoordeling van het voorstel van het agentschap voor ondersteuningsfuncties, met vermelding van frequenties in het kader van de transitie naar een persoonsvolgend budget;<br>
+8° advisering van hun cliënten in het kader van de transitie naar een persoonsvolgend budget.
 
 ### ART. 47/3.
 
@@ -350,7 +349,7 @@ Om als contactorganisatie te kunnen worden erkend, moet de vereniging voor perso
 
 ### ART. 47/5.
 
-Elke organisatie die optreedt als contactorganisatie, moet erop toezien   dat haar medewerkers die optreden als contactpersoon : <BR>1° de bepalingen van   dit besluit, de richtlijnen die het agentschap heeft vastgesteld, het protocol   toekenning van een urgentiecategorie, vermeld in artikel 14, § 1, het protocol   prioriteiten bij opname, vermeld in artikel 18, en het protocol noodsituatie,   vermeld in artikel 20, naleven;<BR>2° handelen overeenkomstig de deontologische   regels, vermeld in het huishoudelijk reglement van het ROG.
+Elke organisatie die optreedt als contactorganisatie, moet erop toezien   dat haar medewerkers die optreden als contactpersoon : <BR>1° de bepalingen van   dit besluit, de richtlijnen van het agentschap en het protocol prioriteiten bij   opname, vermeld in artikel 18, naleven;<BR>2° handelen overeenkomstig de   deontologische regels, vermeld in het huishoudelijk reglement van het   ROG.
 
 ### ART. 47/6.
 
