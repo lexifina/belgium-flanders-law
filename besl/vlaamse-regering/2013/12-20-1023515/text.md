@@ -196,7 +196,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 2.4.2.0.1.
 
-Voorbehouden voor toekomstig gebruik.
+<P>Als conform artikel 2.4.2.0.1, § 2, van de Vlaamse Codex Fiscaliteit van 13   december 2013 een derde wordt aangewezen als houder van het voertuig, moet   daarvan een schriftelijke verklaring worden voorgelegd aan de dienstverlener,   vermeld in artikel 1.1.0.0.2, eerste lid, 7° /1, van dezelfde codex. De   voormelde verklaring moet ondertekend zijn door de houder van het voertuig en   door de derde die is aangewezen als houder van het voertuig</P>
 
 ## Afdeling 3. Belastbare grondslag
 
@@ -688,6 +688,10 @@ De belastingplichtige geeft elke wijziging van de elementen van de   aangifte aa
 
 De aangifte van nalatenschap, vermeld in artikel 3.3.1.0.5 of 3.3.1.0.6   van de Vlaamse Codex Fiscaliteit van 13 december 2013, wordt gedaan door middel   van een formulier, dat wordt afgeleverd door de bevoegde entiteit van de Vlaamse   administratie en dat de elementen bevat, vermeld in artikel 3.3.10.8, § 1, van   de Vlaamse Codex Fiscaliteit van 13 december 2013.
 
+### ART. 3.3.1.0.4.
+
+De dienstverlener geeft, waar nodig, conform artikel 3.3.1.0.13, § 4,   derde lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013, instructies   aan de bestuurder van het voertuig waarbij die laatste een van de twee volgende   acties onderneemt :<BR>1° hij begeeft zich binnen drie uur na die instructie   naar een dienstverleningspunt naar keuze;<BR>2° hij verschaft opnieuw een   gegarandeerd betaalmiddel of laat het verschaffen door de houder van het   voertuig.
+
 ## Afdeling 2. Aanslagjaar en belastbaar tijdperk
 
 ### ART. 3.3.2.0.1.
@@ -730,7 +734,7 @@ Voorbehouden voor toekomstig gebruik.
 
 ### ART. 3.4.3.0.1.
 
-<P>De belastingen en toebehoren moeten worden betaald:<BR>1° ofwel door storting   of overschrijving op de rekening van de bevoegde entiteit van de Vlaamse   administratie;<BR>2° ofwel met een gecertificeerde of gewaarborgde, vooraf   gekruiste cheque ten gunste van de bevoegde entiteit van de Vlaamse   administratie, getrokken op een financiële instelling die aangesloten of   vertegenwoordigd is bij een betaalsysteem dat bereikbaarheid garandeert voor   alle banken;<BR>3° ofwel door een elektronische betaling met een debetkaart,   verricht aan een betaalterminal in de kantoren van de bevoegde entiteit van de   Vlaamse administratie die over een betaalterminal beschikken.<BR></P>  <P>Onder debetkaart wordt verstaan, de door een financiële instelling uitgegeven   plastic kaart die het, aan de hand van de gegevens op de chip, mogelijk maakt   via elektronische weg een betalingsverrichting ten gunste van de bevoegde   entiteit van de Vlaamse administratie uit te voeren.<BR></P>  <P>Het bevoegde personeelslid kan in bijzondere omstandigheden andere wijzen van   betaling toestaan.</P>
+<P>De belastingen en toebehoren worden betaald op een van de volgende wijzen   :<BR>1° door storting of overschrijving op de rekening van de bevoegde entiteit   van de Vlaamse administratie;<BR>2° door een elektronische betaling met een   debetkaart, verricht aan een betaalterminal in de kantoren van de bevoegde   entiteit van de Vlaamse administratie die over een betaalterminal   beschikken.<BR><BR>In afwijking van het eerste lid moet de betaling van de   niet-betaalde belasting en de boete samen met de interesten en kosten conform   artikel 3.13.2.0.4, § 1, van de Vlaamse Codex Fiscaliteit van 13 december 2013   op het ogenblik van de vaststelling van de overtreding worden betaald aan het   bevoegde personeelslid door een elektronische betaling met een   debetkaart.<BR><BR>In het eerste en tweede lid wordt verstaan onder debetkaart :   de door een financiële instelling uitgegeven plastic kaart die het, aan de hand   van de gegevens op de chip, mogelijk maakt via elektronische weg een   betalingsverrichting ten gunste van de bevoegde entiteit van de Vlaamse   administratie uit te voeren.<BR><BR>Het bevoegde personeelslid kan in bijzondere   omstandigheden andere wijzen van betaling toestaan.</P>
 
 ### ART. 3.4.3.0.2.
 
