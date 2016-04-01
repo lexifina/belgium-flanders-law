@@ -2,16 +2,16 @@
   "codex_id": 1026250,
   "title": "Decreet van 2015-12-18 houdende bepalingen tot begeleiding van de begroting 2016",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026250/VolledigDocument?datum=2016-03-01",
-  "source_sha256": "10aa80b827b4c2ff461d700e51f694024751bf9d5174a7034098b18858cd71e2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026250/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "41c41c90b056129548f65d11d8bf47c45c089c6588701e23ce2de5c6e7a0efd8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026250&param=informatie",
-  "as_of": "2016-03-01",
+  "as_of": "2016-04-01",
   "made": "2015-12-18",
   "gazette": "2015-12-29",
   "numac": 2015036624,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2016-03-01",
-  "article_versions": 124,
-  "record_form": "consolidated version as in force on 2016-03-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-04-01",
+  "article_versions": 127,
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }

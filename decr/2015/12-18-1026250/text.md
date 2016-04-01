@@ -584,6 +584,10 @@ De   vrijstellingen van de kilometerheffing, als vermeld in artikel 23 van het  
 
 ## Afdeling 12 Eurovignet
 
+### ART. 102.
+
+Artikel   3.1.0.0.1, eerste lid, van de Vlaamse Codex Fiscaliteit van 13 december 2013   wordt vervangen door wat volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"De   bepalingen van titel 3 zijn, behalve bij afwijkende bijzondere bepalingen, van   toepassing op alle belastingen, vermeld in titel 2, alsook op het   eurovignet.".
+
 ### ART. 103.
 
 Artikel   39 van het decreet van 3 juli 2015 tot invoering van de kilometerheffing en   stopzetting van de heffing van het eurovignet en tot wijziging van de Vlaamse   Codex Fiscaliteit van 13 december 2013 in dat verband wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
@@ -696,7 +700,15 @@ In   artikel 3.18.0.0.1 van dezelfde codex wordt een paragraaf 2/2 ingevoegd, di
 
 ## Afdeling 15 Administratieve vereenvoudiging in de jaarlijkse verkeersbelasting wanneer een nultarief van toepassing is
 
+### ART. 126.
+
+&nbsp;In artikel 3.3.1.0.1 van dezelfde codex   wordt een vierde lid ingevoegd, dat luidt als volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"De   aangifteplicht voorzien in dit artikel geldt niet voor de voertuigen vermeld in   artikel 2.2.4.0.1, § 6, eerste lid.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## Afdeling 16 Tarieven voor motorvoertuigen of de samengestelde voertuigen, bestemd voor het vervoer van goederen in de jaarlijkse verkeersbelasting
+
+### ART. 127.
+
+&nbsp;In artikel 2.2.4.0.2, § 2, van dezelfde   codex wordt een tweede lid ingevoegd, dat luidt als volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Deze   paragraaf is niet van toepassing op de voertuigen, vermeld in artikel 2.2.4.0.1,   § 6.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## HOOFDSTUK 11 Energie
 
