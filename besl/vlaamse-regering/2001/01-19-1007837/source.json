@@ -2,16 +2,16 @@
   "codex_id": 1007837,
   "title": "Besluit van de Vlaamse Regering van 2001-01-19 houdende regeling van de begrotingscontrole en -opmaak",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007837/VolledigDocument?datum=2014-07-27",
-  "source_sha256": "a7f7a6be05978d0625c9c987e2b64b32044f1443b02b8d5cbef6bf7ab2a71d92",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1007837/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "43a78d66e1c80c000857b65ee5191f83411707336658b1f115c3cdc359100b7c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1007837&param=informatie",
-  "as_of": "2014-07-27",
+  "as_of": "2016-04-01",
   "made": "2001-01-19",
   "gazette": "2001-02-20",
   "numac": 2001035189,
   "document_start": "2001-02-01",
   "document_end": "2019-12-31",
-  "in_force": "2014-07-27",
-  "article_versions": 29,
-  "record_form": "consolidated version as in force on 2014-07-27; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-04-01",
+  "article_versions": 30,
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
