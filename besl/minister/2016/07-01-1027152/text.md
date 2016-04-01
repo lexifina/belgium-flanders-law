@@ -24,6 +24,10 @@ Besluit :</p>
 
 <p>Ter uitvoering van artikel 13, derde lid, van het besluit van de Vlaamse Regering van 11 december 2015 houdende de vergunningsvoorwaarden en de subsidieregeling van bijstandsorganisaties om budgethouders bij te staan in het kader van persoonsvolgende financiering, wordt het lidgeld vastgesteld op 50 euro.</p>
 
+### ART 2.
+
+<p>Het lidgeld in euro's, vermeld in het artikel 1, kan omgezet worden in personeelspunten aan de hand van de omslagsleutel, vermeld in artikel 17, derde lid, van het besluit van 27 november 2015 betreffende de indiening en de afhandeling van de aanvraag van een budget voor niet rechtsreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget.</p>
+
 ### ART 3.
 
 <p>Het ministerieel besluit van 18 december 2015 tot vaststelling van het lidgeld dat bijstandsorganisaties aanrekenen aan budgethouders in het kader van persoonsvolgende financiering wordt opgeheven.</p>
