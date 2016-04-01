@@ -2,16 +2,16 @@
   "codex_id": 1008141,
   "title": "Omzendbrief van 1984-10-05 betreffende de beteugeling van misdrijven inzake monumenten- en landschapszorg",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008141/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "e9f3fa266bb8a780bad3898df2734ba1a27ad398408155c1647d302a870a3ba5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008141/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "86381f890486c932c0947e833b1b7070881d22884f01e78203e91216b6a9d556",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008141&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-04-01",
   "made": "1984-10-05",
   "gazette": "1985-02-16",
   "numac": 0,
   "document_start": null,
   "document_end": "2899-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2016-04-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
