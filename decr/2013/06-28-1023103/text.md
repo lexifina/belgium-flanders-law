@@ -2,8 +2,8 @@
 
 ### ART. 1.
 
-Dit decreet regelt een gewestaangelegenheid.<BR>
+...
 
 ### ART. 2.
 
-Instemming wordt betuigd met het samenwerkingsakkoord tussen het Vlaamse   Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende   het Protocol dat op 20 oktober 2010 door de Regeringen van het Koninkrijk   België, het Koninkrijk Denemarken, de Bondsrepubliek Duitsland, het   Groothertogdom Luxemburg, het Koninkrijk der Nederlanden en het Koninkrijk   Zweden werd ondertekend tot wijziging van het Verdrag van 9 februari 1994 inzake   de heffing van rechten voor het gebruik van bepaalde wegen door zware   vrachtwagens, ter uitvoering van artikel 4, § 4, van de bijzondere wet van 16   januari 1989 betreffende de financiering van de Gemeenschappen en de   Gewesten.<BR>
+...
