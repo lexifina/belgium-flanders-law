@@ -95,21 +95,66 @@ Artikel 14 is niet van toepassing op ondersteuning die verleend wordt ter   uitv
 
 ### ART. 16.
 
-In dit hoofdstuk wordt verstaan onder:<BR>1° persoonsgebonden budget: het   budget dat het agentschap aan de persoon met een handicap of zijn wettelijke   vertegenwoordiger toekent voor de gehele of gedeeltelijke tenlasteneming van de   kosten van de ondersteuning en de organisatie ervan;<BR>2°   persoonlijke-assistentiebudget: het budget dat het agentschap aan de persoon met   een handicap of zijn wettelijke vertegenwoordiger toekent voor de gehele of   gedeeltelijke tenlasteneming van de kosten van de persoonlijke assistentie en de   organisatie ervan;<BR>3° persoonlijke assistentie : de handelingen van een   persoonlijke assistent, gericht op het bijstaan en begeleiden van een persoon   met een handicap bij het uitvoeren van de activiteiten met het oog op de   organisatie van het dagelijks leven en de bevordering van de maatschappelijke   integratie en participatie;<BR>4° persoonlijke assistent: een&nbsp;natuurlijke   persoon&nbsp;die persoonlijke assistentie verleent in het kader van een   overeenkomst met de persoon met een handicap of zijn wettelijke   vertegenwoordiger;<BR>5° budgethouder: de persoon met een handicap of zijn   wettelijke vertegenwoordiger aan wie het Fonds een persoonlijk assistentiebudget   en het persoonsgebonden budget toekent;<BR>6° budgethoudersvereniging: een   vereniging zonder winstoogmerk, waarvan minstens tweederde van de leden en   tweederde van de bestuurders budgethouder zijn, en die de taak op zich neemt de   budgethouders te ondersteunen bij alle aspecten van de organisatie van de   ondersteuning tot maatschappelijke integratie en participatie.
+De persoonsvolgende financiering voor personen met een handicap bestaat uit een getrapt ondersteuningssysteem voor personen met een handicap. De eerste trap omvat een basisondersteuningsbudget, verstrekt in het kader van de zorgverzekering, vermeld in artikel 3 van het decreet van 30 maart 1999 houdende de organisatie van de zorgverzekering, of artikel 3, derde lid, 1°, van het decreet van 13 juli 2012 houdende de Vlaamse sociale bescherming. De tweede trap omvat een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning, verstrekt door het agentschap.<br>
+<br>
+De persoonsvolgende financiering, vermeld in het eerste lid, wordt geregeld in het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, met behoud van de toepassing van de bepalingen van dit decreet. Artikel 21 is echter niet van toepassing op het basisondersteuningsbudget, vermeld in het eerste lid, waarvoor de bepalingen van de zorgverzekering, vermeld in het eerste lid gelden.
 
 ### ART. 17.
 
-Met het oog op de realisatie van zorg op maat, bepaalt de Vlaamse regering de in artikel 8, 2°, van dit decreet bedoelde nadere regels voor het vergunnen, erkennen en subsidiëren van voorzieningen, en het opleggen van administratieve sancties aan voorzieningen, op basis van modules van zorgfuncties, die rekening houden met de zorgbehoefte en de zorgzwaarte van de personen met een handicap.
+<P>Een meerderjarige persoon met een handicap die wil gebruikmaken van   niet-rechtstreeks toegankelijke zorg en ondersteuning maakt een   ondersteuningsplan op.<BR><BR>Het ondersteuningsplan komt tot stand in een   actief proces waarbij, na een fase van vraagverduidelijking, de hele nood aan   zorg en ondersteuning in kaart wordt gebracht. Het ondersteuningsplan maakt een   onderscheid tussen materiële ondersteuning, zorg en ondersteuning die door de   persoon met een handicap zelf, zijn gezin, zijn sociaal netwerk, welzijns- en   gezondheidsvoorzieningen en niet-rechtstreeks toegankelijke handicapspecifieke   diensten geleverd moet worden.<BR><BR>De persoon met een handicap stelt, al dan   niet onder begeleiding van een dienst Ondersteuningsplan of een andere   rechtstreeks toegankelijke dienst of organisatie die door de persoon met een   handicap gekozen is, zelf een ondersteuningsplan op.<BR><BR>Het   ondersteuningsplan wordt ter goedkeuring voorgelegd aan het agentschap. Als het   ondersteuningsplan niet voldoet aan door de Vlaamse Regering vastgestelde   minimale procesmatige vereisten, laat de persoon met een handicap zich bijstaan   door een dienst Ondersteuningsplan om een aangepast ondersteuningsplan op te   maken.<BR><BR>De Vlaamse Regering bepaalt de wijze en de vorm waarin het   ondersteuningsplan wordt ingediend.</P>
 
 ### ART. 18.
 
-Het agentschap kan, binnen de grenzen van zijn begroting, en tot een maximaal bedrag, de kosten van de ondersteuning, gedragen door de persoon met een handicap, ten laste nemen door het toekennen van:<br /><br />1° een persoonlijke-assistentiebudget;<br /><br />2° een persoonsgebonden budget voor de tenlasteneming van de kosten van de ondersteuning van voorzieningen erkend door het agentschap;<br /><br />3° een persoonsgebonden budget voor de tenlasteneming van de kosten van de individuele materiële bijstand;<br /><br />De budgethouder neemt zelf de verantwoordelijkheid op zich voor de organisatie van de persoonlijke assistentie en de ondersteuning.<br /><br />De kosten, bedoeld in het eerste lid, moeten bewezen worden, behoudens uitzonderingen bepaald door de Vlaamse Regering met betrekking tot sommige kostencategorieën met een beperkte omvang.<br /><br />De budgethouder ontvangt in de loop van het jaar voorschotten tot een bedrag dat het in het eerste lid bedoelde maximumbedrag niet mag overschrijden.<br /><br />De ten laste genomen kosten en de uitbetaalde voorschotten worden jaarlijks verrekend.<br /><br />Het maximale aantal van de in het eerste lid bedoelde budgetten dat het agentschap kan toekennen en de regels voor de evenwichtige spreiding van de in het eerste lid bedoelde budgetten worden vastgesteld in een programmatie.<br /><br />De budgethouder kan facultatief voor alle aspecten van de organisatie van de ondersteuning een beroep doen op een budgethoudersvereniging. Daartoe sluit hij zich aan bij de budgethoudersvereniging van zijn keuze. Het agentschap neemt de kosten van de bijstand van de budgethoudersvereniging ten laste door een forfaitair supplement toe te kennen op de budgetten bedoeld in het eerste lid.<br /><br />De budgethoudersverenigingen worden door het Fonds erkend. De erkenning is geldig voor een periode van minimum 1 en maximum 10 jaar.
+<P>&nbsp;Als de nood aan zorg en ondersteuning zoals vastgesteld op basis van   het ondersteuningsplan, een door de Vlaamse Regering vastgestelde grens   overschrijdt, wordt de nood aan zorg en ondersteuning bijkomend met een   instrument voor de inschaling van de zorgzwaarte vastgesteld. De Vlaamse   Regering stelt het instrument voor de inschaling van de zorgzwaarte   vast.</P>
+
+### ART. 18/1.
+
+&nbsp;Het agentschap kent op basis van het ondersteuningsplan en, al naar gelang het geval, op basis van de inschaling van de zorgzwaarte, een budget toe dat wordt uitgedrukt in budgetcategorieën. In de gevallen, vermeld in artikel 10, derde lid, van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, legt het agentschap begeleidende maatregelen op of beslist het agentschap om het cashbudget om te zetten in een voucher.
+
+### ART. 18/2.
+
+Voor minderjarigen loopt de toeleiding naar het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning volgens de regels voor de persoonsvolgende financiering, vermeld in of ter uitvoering van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
 
 ### ART. 19.
 
-De Regering bepaalt :<br />1° de categorieën van handelingen, vermeld in artikel 16, 3°;<br />2° de nadere regels van de overeenkomst met de persoonlijke assistent, vermeld in artikel 16, 4°;<br />3° het maximumbedrag en de voorwaarden voor het toekennen van de budgetten, vermeld in artikel 18, eerste lid;<br />4° de nadere regels van de bewijsvoering van de kosten, vermeld in artikel 18, derde lid;<br />5° de nadere regels van de toekenning van voorschotten, vermeld in artikel 18, vierde lid;<br />6° de nadere regels van de jaarlijkse verrekening van de kosten, vermeld in artikel 18, vijfde lid;<br />7° de programmatie, vermeld in artikel 18, zesde lid;<br />8° de regels voor de erkenning van en het toezicht op de budgethoudersverenigingen, vermeld in artikel 18, zevende lid;<br />9° het maximale bedrag en de regels voor de toekenning van het forfaitaire supplement, vermeld in artikel 18, zevende lid.
+<P>&nbsp;De Vlaamse Regering bepaalt de wijze waarop de persoon met een handicap   de besteding van het budget waarmee niet-rechtstreeks toegankelijke zorg en   ondersteuning wordt ingekocht, verantwoordt.</P>
+
+### ART. 19/1.
+
+§ 1. Aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning kunnen door het agentschap enkel worden vergund als ze gelijkwaardige zorg en ondersteuning aanbieden, onafhankelijk of de persoon met een handicap zijn zorg en ondersteuning financiert met een cashbudget of een voucher.<br>
+<br>
+§ 2. De Vlaamse Regering bepaalt de bijkomende voorwaarden waaronder het agentschap een vergunning kan toekennen en houdt hierbij rekening met de kwaliteitseisen, vermeld in of ter uitvoering van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen.<br>
+<br>
+§ 3. De Vlaamse Regering kan bovendien specifieke voorwaarden opleggen betreffende onder meer de output en het aanbod.<br>
+<br>
+§ 4. De Vlaamse Regering regelt de procedure voor de aanvraag, de toekenning, de wijziging, de schorsing en de opheffing van de vergunning, inclusief de mogelijkheid om bezwaar aan te tekenen. De Vlaamse Regering houdt hierbij rekening met de bepalingen opgenomen in of ter uitvoering van het decreet van 7 december 2007 houdende de oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en (Kandidaat-)pleegzorgers.<br>
+<br>
+Het bezwaarschrift wordt behandeld volgens de regels die zijn vastgesteld bij of ter uitvoering van hoofdstuk III van het decreet van 7 december 2007 houdende oprichting van de Strategische Ad-viesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers.
 
 ## [HOOFDSTUK IV/1 TENLASTENEMING VAN HET PERSOONLIJKEASSISTENTIEBUDGET IN HET KADER VAN NIET RECHTSTREEKS TOEGANKELIJKE JEUGDHULPVERLENING (ing. decr. 15 juli 2016, art. 95, I: 1 april 2016)]
+
+### ART 19/2.
+
+Het agentschap kan, binnen zijn begroting en tot een maximaal bedrag, de kosten van de ondersteuning, gedragen door de persoon met een handicap, ten laste nemen bij wijze van een persoonlijke-assistentiebudget voor minderjarige personen met een handicap en voor meerderjarige personen met een handicap die vragen om een voortzetting van jeugdhulpverlening als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.
+
+### ART 19/3.
+
+De budgethouder neemt zelf de verantwoordelijkheid op zich voor de organisatie van de persoonlijke assistentie en de ondersteuning.<br>
+<br>
+De kosten, vermeld in artikel 19/2, moeten bewezen worden, behoudens uitzonderingen met betrekking tot sommige kostencategorieën met een beperkte omvang die de Vlaamse Regering bepaalt.<br>
+<br>
+De budgethouder ontvangt in de loop van het jaar voorschotten tot een bedrag dat het maximumbedrag, vermeld in artikel 19/2, niet mag overschrijden.<br>
+<br>
+De ten laste genomen kosten en de uitbetaalde voorschotten worden jaarlijks verrekend.
+
+### ART 19/4.
+
+De Vlaamse Regering bepaalt:<br>
+1° de nadere regels voor de overeenkomst met de persoonlijke assistent;<br>
+2° het maximumbedrag en de voorwaarden voor het toekennen van de budgetten;<br>
+3° de nadere regels voor de bewijsvoering van de kosten;<br>
+4° de nadere regels voor de toekenning van voorschotten;<br>
+5° de nadere regels voor de jaarlijkse verrekening van de kosten.
 
 ## HOOFDSTUK V GERECHTIGDEN
 
