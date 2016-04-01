@@ -34,6 +34,10 @@ Ter uitvoering van artikel 5, tweede lid, van het besluit van de Vlaamse   Reger
 
 ## HOOFDSTUK 3 Aanvullende voorwaarden
 
+### ART. 2/1.
+
+Ter uitvoering van artikel 3, vierde lid, van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, toegevoegd bij het besluit van de Vlaamse Regering van 5 februari 2016, wordt verstaan onder werkzame personen: de werknemers die door de werkgever zijn aangegeven bij de Rijksdienst voor Sociale Zekerheid.
+
 ### ART. 3.
 
 Ter uitvoering van artikel 7, tweede lid, en artikel 37, 3°, c), van het   besluit van de Vlaamse Regering van 16 november 2012 wordt verstaan onder   achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid : achterstallige   schulden van 3000 euro of meer bij de Rijksdienst voor Sociale Zekerheid,   ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor   Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een   afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig   beschouwd.<BR>
