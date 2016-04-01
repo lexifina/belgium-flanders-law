@@ -24,6 +24,132 @@ Aan artikel 2.3.6.0.1 van de Vlaamse Codex Fiscaliteit van 13 december 2013 word
 In het eerste lid wordt verstaan onder op afstand bestuurde luchtvaartuigsystemen, afgekort als `RPAS': luchtvaartuigsystemen als vermeld in artikel 1, eerste lid, 5°, van het koninklijk besluit van 10 april 2016 met betrekking tot het gebruik van op afstand bestuurde luchtvaartuigen in het Belgisch luchtruim.".<br>
 &nbsp;
 
+### ART 23.
+
+In artikel 2.4.4.0.2 van hetzelfde decreet, vervangen bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in het derde lid, 2°, worden de woorden "de hogere of lagere eurocent naargelang het cijfer van het duizendste al dan niet vijf bereikt" vervangen door de woorden "het hogere of lagere tiende van een eurocent naargelang het cijfer van het honderdste van de eurocent al dan niet vijf bereikt";<br>
+2° er wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+"Voor de toepassing van dit artikel worden de voertuigen die uitsluitend aangedreven worden door een elektrische motor of waterstof, beschouwd als behorend tot de EURO-emissieklasse 6.".<br>
+&nbsp;
+
+### ART 24.
+
+In hetzelfde decreet, het laatst gewijzigd bij het decreet van 25 maart 2016, wordt een artikel 2.4.4.0.5 ingevoegd, dat luidt als volgt:<br>
+"Art. 2.4.4.0.5. In dit artikel wordt verstaan onder de niet voor de weg bestemde mobiele machines: de voertuigen, vermeld in artikel 1, 1°, van het koninklijk besluit van 5 december 2004 houdende vaststelling van productnormen voor inwendige verbrandingsmotoren in niet voor de weg bestemde mobiele machines.<br>
+<br>
+Als de EURO-emissieklasse van het voertuig niet bekend is, wordt die parameter voor de toepassing van artikel 2.4.4.0.2, eerste lid, 8°, bepaald overeenkomstig de volgende bepalingen:<br>
+1° voor de niet voor de weg bestemde mobiele machines:<br>
+a) als de emissienorm, uitgedrukt in `Fase' of in `Tier', is vermeld op de boorddocumenten van het voertuig, conform de volgende tabel:
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>emissienorm op boorddocumenten</td>
+			<td>emissienorm op boorddocumenten</td>
+			<td>EURO-emissieklasse voor de kilometerheffing</td>
+		</tr>
+		<tr>
+			<td>Fase I</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Euro I</td>
+		</tr>
+		<tr>
+			<td>Fase II</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;Euro II</td>
+		</tr>
+		<tr>
+			<td>Fase IIIa</td>
+			<td>Tier 3</td>
+			<td>Euro III</td>
+		</tr>
+		<tr>
+			<td>Fase IIIb</td>
+			<td>Tier 4i</td>
+			<td>Euro V</td>
+		</tr>
+		<tr>
+			<td>Fase IV</td>
+			<td>Tier 4</td>
+			<td>Euro VI</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) als er geen emissienorm, uitgedrukt in `Fase' of in `Tier', is vermeld op de boorddocumenten van het voertuig, conform de volgende tabel:</span>
+
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>datum van eerste inschrijving van het voertuig in het binnen- of buitenland</td>
+			<td>EURO-emissieklasse voor de kilometerheffing</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 1999 tot en met 31 december 2001</td>
+			<td>Euro I</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2002 tot en met 31 december 2005</td>
+			<td>Euro II</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2006 tot en met 31 december 2010</td>
+			<td>Euro III</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2011 tot en met 31 december 2013</td>
+			<td>Euro V</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2014</td>
+			<td>Euro VI</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° voor vrachtwagens en andere voertuigen dan de voertuigen, vermeld in punt 1°, als er geen emissienorm is vermeld op de boorddocumenten van het voertuig:</span>
+
+<table style="text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: times new roman; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px;" border="1">
+	<tbody>
+		<tr>
+			<td>datum van eerste inschrijving van het voertuig in het binnen- of buitenland</td>
+			<td>EURO-emissieklasse voor de kilometerheffing</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 oktober 1993 tot en met 30 september 1996</td>
+			<td>Euro I</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 oktober 1996 tot en met 30 september 2001</td>
+			<td>Euro II</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 oktober 2001 tot en met 30 september 2006</td>
+			<td>Euro III</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 oktober 2006 tot en met 30 september 2009</td>
+			<td>Euro IV</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 oktober 2009 tot en met 31 december 2013</td>
+			<td>Euro V</td>
+		</tr>
+		<tr>
+			<td>vanaf 1 januari 2014</td>
+			<td>Euro VI</td>
+		</tr>
+	</tbody>
+</table>
+
+### ART 54.
+
+In artikel 3.18.0.0.1, § 5, van hetzelfde decreet, ingevoegd bij het decreet van 19 december 2014 en gewijzigd bij het decreet van 17 juli 2015, wordt tussen de zinsnede "paragraaf 4," en de woorden "worden ingevorderd" de zinsnede "eerste lid," ingevoegd.
+
+### ART 55.
+
+In artikel 3.18.0.0.2 wordt de zinsnede "titel 2, hoofdstuk 4" vervangen door de woorden "het eurovignet".<br>
+&nbsp;
+
 ### ART 56.
 
 In artikel 5.0.0.0.1, 5°, van hetzelfde decreet, het laatst gewijzigd bij het decreet van 3 juli 2015, worden de volgende wijzigingen aangebracht:<br>
