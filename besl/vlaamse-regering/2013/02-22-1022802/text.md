@@ -34,7 +34,11 @@ Het besluit van de Vlaamse Regering van 15 december 1993 tot vaststelling   van 
 
 ### ART. 6.
 
-<P>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per   mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per   ambulante outreach, 0,087 personeelspunten per dag dagopvang en 0,13   personeelspunten per nacht verblijf.<BR></P>  <P>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen   aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in   opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of   ambulante outreach, dagopvang of verblijf verstrekt.<BR></P>  <P>Als de som van de personeelspunten die op basis van de geleverde prestaties   worden toegekend, meer dan 90% bedraagt van het aantal personeelspunten waarvoor   de voorziening is erkend en er maximaal 75 personeelspunten minder worden   gepresteerd dan het aantal personeelspunten waarvoor de voorziening is erkend,   ontvangt de voorziening, in afwijking van het eerste lid, het aantal   personeelspunten waarvoor de voorziening is erkend.<BR></P>
+<p>De voorziening ontvangt 0,22 personeelspunten per mobiele begeleiding en per mobiele outreach, 0,155 personeelspunten per ambulante begeleiding en per ambulante outreach, 0,087 personeelspunten per dag dagopvang en 0,13 personeelspunten per nacht verblijf.</p>
+
+<p>De personeelspunten, vermeld in het eerste lid, kunnen worden overgedragen aan een andere voorziening, erkend en gesubsidieerd door het agentschap, die in opdracht van de voorziening mobiele of ambulante begeleiding, mobiele of ambulante outreach, dagopvang of verblijf verstrekt.</p>
+
+<p>Als de som van de personeelspunten die op basis van de geleverde prestaties worden toegekend, meer dan 92% bedraagt van het aantal personeelspunten waarvoor de voorziening is erkend en er maximaal 20 personeelspunten minder worden gepresteerd dan het aantal personeelspunten waarvoor de voorziening is erkend, ontvangt de voorziening, in afwijking van het eerste lid, het aantal personeelspunten waarvoor de voorziening is erkend.</p>
 
 ### ART. 7.
 
