@@ -40,6 +40,10 @@ In hetzelfde besluit, het laatst gewijzigd bij het ministerieel besluit van 24 j
 <br>
 "Art. 15/1. Het hoofd van het Agentschap Innoveren en Ondernemen heeft beslissingsbevoegdheid over de steuntoekenning als vermeld in artikel 23/1 van het besluit van de Vlaamse Regering van 17 december 2010.".
 
+### ART 3.
+
+Artikel 1/1 van het ministerieel besluit van 20 december 2012 tot uitvoering van het besluit van de Vlaamse Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor strategische ecologie-investeringen in het Vlaamse Gewest, ingevoegd bij het ministerieel besluit van 7 maart 2016, wordt vernummerd tot artikel 2/1.
+
 ### ART 5.
 
 In hoofdstuk 1/1 van het ministerieel besluit van 1 oktober 2013 tot uitvoering van het besluit van de Vlaamse Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan ondernemingen in het Vlaamse Gewest, ingevoegd bij het ministerieel besluit van 7 maart 2016, wordt een artikel 1/2 ingevoegd, dat luidt als volgt:<br>
