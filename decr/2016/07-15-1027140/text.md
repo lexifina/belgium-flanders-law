@@ -86,6 +86,34 @@ In artikel 3, eerste lid, 1°, van het besluit van de Vlaamse Regering van 7 mei
 Aan artikel 6, 1°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, gewijzigd bij het decreet van 21 december 2007, wordt de volgende zin toegevoegd:<br>
 "De aan het agentschap toebedeelde winstverdeling van de Nationale Loterij kan ook voor andere doeleinden dan voor de aanvullende financiering van infrastructuurprojecten worden aangewend;".
 
+### ART 95.
+
+In hetzelfde decreet, gewijzigd bij de decreten van 2 juni 2006, 22 december 2006, 21 december 2007, 20 maart 2009, 29 juni 2012, 21 juni 2013, 12 juli 2013, 20 december 2013, 14 februari 2014 en 25 april 2014, wordt een hoofdstuk IV/1 ingevoegd, dat luidt als volgt:<br>
+"Hoofdstuk IV/1. Tenlasteneming van het persoonlijkeassistentiebudget in het kader van niet rechtstreeks toegankelijke jeugdhulpverlening".
+
+### ART 96.
+
+In hetzelfde decreet wordt in hoofdstuk IV/1, ingevoegd bij artikel 95, een artikel 19/2 ingevoegd, dat luidt als volgt:<br>
+"Art. 19/2. Het agentschap kan, binnen zijn begroting en tot een maximaal bedrag, de kosten van de ondersteuning, gedragen door de persoon met een handicap, ten laste nemen bij wijze van een persoonlijke-assistentiebudget voor minderjarige personen met een handicap en voor meerderjarige personen met een handicap die vragen om een voortzetting van jeugdhulpverlening als vermeld in artikel 18, § 3, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp.".
+
+### ART 97.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk IV/1 een artikel 19/3 ingevoegd, dat luidt als volgt:<br>
+"Art. 19/3. De budgethouder neemt zelf de verantwoordelijkheid op zich voor de organisatie van de persoonlijke assistentie en de ondersteuning.<br>
+De kosten, vermeld in artikel 19/2, moeten bewezen worden, behoudens uitzonderingen met betrekking tot sommige kostencategorieën met een beperkte omvang die de Vlaamse Regering bepaalt.<br>
+De budgethouder ontvangt in de loop van het jaar voorschotten tot een bedrag dat het maximumbedrag, vermeld in artikel 19/2, niet mag overschrijden.<br>
+De ten laste genomen kosten en de uitbetaalde voorschotten worden jaarlijks verrekend.".
+
+### ART 98.
+
+In hetzelfde decreet wordt in hetzelfde hoofdstuk IV/1 een artikel 19/4 ingevoegd, dat luidt als volgt:<br>
+"Art. 19/4. De Vlaamse Regering bepaalt:<br>
+1° de nadere regels voor de overeenkomst met de persoonlijke assistent;<br>
+2° het maximumbedrag en de voorwaarden voor het toekennen van de budgetten;<br>
+3° de nadere regels voor de bewijsvoering van de kosten;<br>
+4° de nadere regels voor de toekenning van voorschotten;<br>
+5° de nadere regels voor de jaarlijkse verrekening van de kosten.".
+
 ## HOOFDSTUK 12. Infrastructuur voor persoonsgebonden aangelegenheden
 
 ## Afdeling 1. Wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden
