@@ -502,7 +502,31 @@ Als een onroerend goed dat opgenomen is in een vastgestelde inventaris ook   als
 
 ## [Afdeling 1 Toevalsvondsten (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
+### ART. 5.1.1.
+
+De zakelijkrechthouder en de gebruiker van een onroerend goed kunnen een   vergoeding vorderen voor schade ten gevolge van de verlenging van de termijn van   tien dagen, vermeld in artikel 5.1.4, vijfde lid, van het   Onroerenderfgoeddecreet van 12 juli 2013.<BR><BR>De vergoeding wordt berekend op   basis van de aangetoonde schade die ontstaan is vanaf de eenendertigste dag na   de aangifte van de toevalsvondst bij het agentschap.<BR><BR>Het agentschap stelt   die vergoeding vast en keert ze uit. Bij betwisting stelt de bevoegde rechtbank   de vergoeding vast.<BR><BR>De zakelijkrechthouder en de gebruiker kunnen geen   aanspraak maken op een vergoeding als ze zich niet hebben gehouden aan de   verplichtingen, vermeld in artikel 5.1.4 van het Onroerenderfgoeddecreet van 12   juli 2013.
+
+### ART. 5.1.2.
+
+De aanvraag van een vergoeding wordt schriftelijk ingediend bij het   agentschap. De aanvraag bevat minstens:<BR>1° de naam en het adres van de   aanvrager;<BR>2° de locatie van het archeologisch onderzoek;<BR>3° de   omschrijving van de schade;<BR>4° de raming van de schade met de nodige   bewijsstukken.
+
 ## [Afdeling 2 Verplichtingen zakelijkrechthouders en gebruikers (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
+
+### ART. 5.2.1.
+
+§ 1. Het agentschap houdt een register van bewaarplaatsen,   zakelijkrechthouders en gebruikers van archeologische artefacten en   archeologische ensembles bij. Als de zakelijkrechthouder of de gebruiker een   publiekrechtelijk rechtspersoon of een erkend onroerenderfgoeddepot is, worden   de gegevens van de zakelijkrechthouder of de gebruiker publiek   bekendgemaakt.<BR><BR>De minister kan de nadere vormvereisten voor het register,   vermeld in het eerste lid, bepalen.<BR><BR>§ 2. Iedereen die een archeologisch   artefact of archeologisch ensemble wetenschappelijk wil onderzoeken, maakt die   intentie schriftelijk bekend aan het agentschap, waarbij minstens de volgende   gegevens worden vermeld:<BR>1° de contactgegevens van de verzoeker;<BR>2° de   omschrijving van het gewenste wetenschappelijk onderzoek.<BR><BR>Het agentschap   bezorgt de intentie, vermeld in het eerste lid, aan de zakelijkrechthouder of de   gebruiker van het archeologisch artefact of het archeologisch ensemble, die na   de beoordeling van de intentie contact opneemt met de verzoeker.<BR><BR>Als de   gegevens van de zakelijkrechthouder of de gebruiker publiek beschikbaar zijn in   het register, maakt de verzoeker, in afwijking van het eerste lid, zijn intentie   rechtstreeks schriftelijk bekend aan de zakelijkrechthouder of de gebruiker, die   na de beoordeling van de intentie contact opneemt met de   verzoeker.
+
+### ART. 5.2.2.
+
+Het agentschap stelt op zijn website een formulier ter beschikking om de   wijziging van de bewaarplaats van een archeologisch artefact of een   archeologisch ensemble te melden.
+
+### ART. 5.2.3.
+
+Het agentschap stelt op zijn website een formulier ter beschikking voor de   melding van het voornemen om een archeologisch artefact of een archeologisch   ensemble buiten het Vlaamse Gewest te brengen.<BR><BR>De zakelijkrechthouder of   de gebruiker van een archeologisch artefact of een archeologisch ensemble wordt   vrijgesteld van de melding van het voornemen om het buiten het Vlaamse Gewest te   brengen als vermeld in artikel 5.2.3 van het Onroerenderfgoeddecreet van 12 juli   2013, als het zich maximaal vijf jaar buiten het Vlaamse Gewest zal bevinden en   als het buiten het Vlaamse Gewest gebracht wordt wegens educatieve,   wetenschappelijke of conservatiedoeleinden en als daarvoor een schriftelijke   overeenkomst wordt gesloten. De schriftelijke overeenkomst kan meermaals voor   een periode van maximaal vijf jaar worden hernieuwd. Bij hernieuwing van de   overeenkomst is evenmin een melding nodig.
+
+### ART. 5.2.4.
+
+Met behoud van de toepassing van de verplichtingen, vermeld in artikel   5.1.1 en 5.2.1 van het Onroerenderfgoeddecreet van 12 juli 2013, is de   zakelijkrechthouder of de gebruiker van een archeologisch artefact of een   archeologisch ensemble dat tot stand is gekomen voor 1 januari 2016, vrijgesteld   van de verplichtingen, vermeld in artikel 5.2.2 en 5.2.3 van het voormelde   decreet.<BR><BR>In afwijking van het eerste lid moeten erkende   onroerenderfgoeddepots waaraan het beheer van archeologische artefacten en   archeologische ensembles is toevertrouwd, ook voor archeologische artefacten en   archeologische ensembles die tot stand zijn gekomen voor 1 januari 2016, maar in   het depot opgenomen werden na deze datum, de nodige meldingen doen   overeenkomstig artikel 5.2.2 en 5.2.3 van dit besluit.
 
 ## [Afdeling 3 Code van goede praktijk (ing. BVR. 4 december 2015, art. 12, I: 1 januari 2016)]
 
@@ -520,21 +544,125 @@ De minister stelt, na mededeling aan de Vlaamse Regering, de gebieden vast   waa
 
 ## [Onderafdeling 2 Verplichtingen aangestelde erkende archeoloog - Archeologisch vooronderzoek met ingreep in de bodem (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
+### ART. 5.4.2.
+
+Na vooronderzoek zonder ingreep in de bodem moet geen vooronderzoek met   ingreep in de bodem volgen, indien het vooronderzoek zonder ingreep in de bodem   voldoende informatie genereert om een archeologienota of nota op te maken die   voldoet aan de bepalingen daarover in het Onroerenderfgoeddecreet van 12 juli   2013, dit besluit en de code van goede praktijk.
+
+### ART. 5.4.3.
+
+De melding van het voornemen om een archeologisch vooronderzoek met   ingreep in de bodem uit te voeren bevat, naast de gegevens, vermeld in artikel   5.4.6, § 1, tweede lid, van het Onroerenderfgoeddecreet van 12 juli 2013,   minstens de volgende bijkomende gegevens:<BR>1° de resultaten van het   archeologisch vooronderzoek zonder ingreep in de bodem;<BR>2° de doelstellingen   en de te beantwoorden onderzoeksvragen van het vooronderzoek met ingreep in de   bodem;<BR>3° de plannen, kaarten en foto's die noodzakelijk zijn voor een goed   begrip van de melding.
+
+### ART. 5.4.4.
+
+Als het agentschap of, in voorkomend geval, de erkende   onroerenderfgoedgemeente het archeologisch vooronderzoek met ingreep in de bodem   weigert of er voorwaarden aan koppelt, kan de initiatiefnemer of de daartoe door   hem aangestelde erkende archeoloog een georganiseerd administratief beroep   instellen bij de minister volgens de procedure, vermeld in afdeling   6.
+
 ## [Onderafdeling 3 Verplichtingen aangestelde erkende archeoloog - Indienen archeologienota (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
+
+### ART. 5.4.5.
+
+De archeologienota, opgemaakt overeenkomstig artikel 5.4.8 van het   Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in   het voormelde artikel, minstens de volgende bijkomende gegevens:<BR>1° de naam   en het adres van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° de aanleiding voor het archeologisch vooronderzoek;<BR>5° de   doelstellingen en de te beantwoorden onderzoeksvragen van het archeologisch   vooronderzoek;<BR>6° de uitvoeringswijze van het archeologisch   vooronderzoek;<BR>7° de naam van de andere personen dan de erkende archeoloog   die bij het archeologisch vooronderzoek betrokken zijn;<BR>8° de resultaten van   het archeologisch vooronderzoek, overeenkomstig de bepalingen daarover in de   code van goede praktijk;<BR>9° de volgende gegevens van de zakelijkrechthouder   en de gebruiker van het archeologisch ensemble dat het resultaat is van het   archeologisch vooronderzoek, of, in geval van rechtspersonen, de volgende   gegevens van de gemandateerden:<BR>a) de naam;<BR>b) het adres;<BR>c) het   rijksregisternummer of een ander uniek nationaal identificatienummer voor   natuurlijke personen;<BR>10° de bewaarplaats van het archeologisch ensemble dat   het resultaat is van het archeologisch vooronderzoek;<BR>11° plannen, kaarten,   tekeningen, foto's, lijsten, formulieren en ander illustratief materiaal,   noodzakelijk voor een goed begrip van de archeologienota.
+
+### ART. 5.4.6.
+
+De archeologienota, opgemaakt overeenkomstig artikel 5.4.5 van het   Onroerenderfgoeddecreet van 12 juli 2013 bevat, naast de gegevens bepaald in   artikel 5.4.12, eerste lid, van het voormelde decreet, minstens de volgende   bijkomende gegevens:<BR>1° de aanleiding voor het archeologisch   vooronderzoek;<BR>2° de doelstellingen en de te beantwoorden onderzoeksvragen   van het archeologisch vooronderzoek zonder ingreep in de bodem;<BR>3° de   uitvoeringswijze van het archeologisch vooronderzoek zonder ingreep in de   bodem;<BR>4° een gegeorefereerd plan waarop de betrokken percelen, de precieze   plaats van het archeologisch vooronderzoek en de geplande werken nauwkeurig   worden afgelijnd;<BR>5° de naam van de andere personen dan de erkende archeoloog   die bij het archeologisch vooronderzoek zonder ingreep in de bodem betrokken   zijn;<BR>6° de resultaten van het archeologisch vooronderzoek zonder ingreep in   de bodem, overeenkomstig de bepalingen daarover in de code van goede   praktijk;<BR>7° de volgende gegevens van de zakelijkrechthouder en de gebruiker   van het archeologisch ensemble dat het resultaat is van het archeologisch   vooronderzoek zonder ingreep in de bodem, of, in geval van rechtspersonen, de   volgende gegevens van de gemandateerden:<BR>a) de naam;<BR>b) het adres;<BR>c)   het rijksregisternummer of een ander uniek nationaal identificatienummer voor   natuurlijke personen;<BR>8° de bewaarplaats van het archeologisch ensemble dat   het resultaat is van het archeologisch vooronderzoek zonder ingreep in de   bodem;<BR>9° plannen, kaarten, tekeningen, foto's, lijsten, formulieren en ander   illustratief materiaal, noodzakelijk voor een goed begrip van de   archeologienota.
+
+### ART. 5.4.7.
+
+Als het agentschap de archeologienota weigert of er voorwaarden aan   koppelt, kan de initiatiefnemer of de daartoe door hem aangestelde erkende   archeoloog een georganiseerd administratief beroep instellen bij de minister   volgens de procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 4. Verplichtingen aangestelde erkende archeoloog - Uitvoering archeologienota waarvan akte is genomen (verv. BVR 14 december 2018, art. 54, I: 1 april 2019)]
 
+### ART. 5.4.8.
+
+De erkende archeoloog meldt de aanvang van het archeologisch vooronderzoek   met ingreep in de bodem, vermeld in artikel 5.4.14 van het   Onroerenderfgoeddecreet van 12 juli 2013, schriftelijk en minstens drie dagen op   voorhand.
+
 ## [Onderafdeling 5 Verplichtingen aangestelde erkende archeoloog - Indienen nota (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
+
+### ART. 5.4.9.
+
+De nota, opgemaakt overeenkomstig artikel 5.4.16 van het   Onroerenderfgoeddecreet van 12 juli 2013, bevat, naast de gegevens, vermeld in   het voormelde artikel, de volgende bijkomende gegevens:<BR>1° de naam en het   adres van de initiatiefnemer;<BR>2° het erkenningsnummer van de erkende   archeoloog;<BR>3° de woonplaats of maatschappelijke zetel van de erkende   archeoloog;<BR>4° een gegeorefereerd plan waarop de betrokken percelen, de   precieze plaats van het archeologisch vooronderzoek en de geplande werken   nauwkeurig worden afgelijnd;<BR>5° de aanleiding voor het archeologisch   vooronderzoek;<BR>6° de doelstellingen en de te beantwoorden onderzoeksvragen   van het archeologisch vooronderzoek;<BR>7° de uitvoeringswijze van het   archeologisch vooronderzoek;<BR>8° de naam van de andere personen dan de erkende   archeoloog die bij het archeologisch vooronderzoek betrokken zijn;<BR>9° de   resultaten van het archeologisch vooronderzoek, overeenkomstig de bepalingen   daarover in de code van goede praktijk;<BR>10° de volgende gegevens van de   zakelijkrechthouder en de gebruiker van het archeologisch ensemble dat het   resultaat is van het archeologisch vooronderzoek, of, in geval van   rechtspersonen, de volgende gegevens van de gemandateerden:<BR>a) de naam;<BR>b)   het adres;<BR>c) het rijksregisternummer of een ander uniek nationaal   identificatienummer voor natuurlijke personen;<BR>11° de bewaarplaats van het   archeologisch ensemble dat het resultaat is van het archeologisch   vooronderzoek;<BR>12° plannen, kaarten, tekeningen, foto's, lijsten, formulieren   en ander illustratief materiaal, noodzakelijk voor een goed begrip van de   archeologienota.
+
+### ART. 5.4.10.
+
+Als het agentschap de nota weigert of er voorwaarden aan koppelt, kan de   initiatiefnemer of de daartoe door hem aangestelde erkende archeoloog een   georganiseerd administratief beroep instellen bij de minister volgens de   procedure, vermeld in afdeling 6.
 
 ## [Onderafdeling 6 Verplichtingen vergunningsverlener - Afwijkende vergunde werken (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
+### ART. 5.4.11.
+
+Als de ingreep in de bodem van de vergunde werken afwijkt van de ingreep   in de bodem van de werken, omschreven in de bekrachtigde archeologienota, geldt   de bekrachtigde archeologienota niet als toelating voor de maatregelen die erin   omschreven zijn. In voorkomend geval geldt de procedure overeenkomstig artikel   5.4.16 tot en met artikel 5.4.21 van het Onroerenderfgoeddecreet van 12 juli   2013.
+
 ## [Onderafdeling 7 Verplichtingen aangestelde erkende archeoloog - Melding aanvang archeologische opgraving (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
+
+### ART. 5.4.12.
+
+De melding van de aanvang van de archeologische opgraving, vermeld in   artikel 5.4.10 en 5.4.18 van het Onroerenderfgoeddecreet van 12 juli 2013, wordt   minstens drie dagen op voorhand schriftelijk gedaan.
 
 ## [Onderafdeling 8 Ontsluiting en publicatie (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
+### ART. 5.4.13.
+
+Het agentschap bezorgt de bekrachtigde archeologienota en de bekrachtigde   nota in voorkomend geval aan de erkende onroerenderfgoedgemeente en de erkende   intergemeentelijke onroerenderfgoeddienst. Het agentschap stelt de resultaten   van het archeologisch vooronderzoek publiek beschikbaar op zijn   website.
+
+### ART. 5.4.14.
+
+De erkende archeoloog publiceert het eindverslag, vermeld in artikel   5.4.21 van het Onroerenderfgoeddecreet van 12 juli 2013, binnen zes maanden   nadat hij het bezorgd heeft aan het agentschap. Het eindverslag dat de erkende   archeoloog publiceert, is identiek aan het eindverslag dat hij aan het   agentschap heeft bezorgd, met uitzondering van de privacy- en bedrijfsgevoelige   informatie.
+
+### ART. 5.4.15.
+
+Het agentschap ontsluit de eindverslagen digitaal op zijn   website.
+
 ## [Afdeling 5 Archeologisch onderzoek met het oog op wetenschappelijke vraagstellingen (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
 
+### ART. 5.5.1.
+
+De aanvraag tot toelating om een archeologisch vooronderzoek met ingreep   in de bodem of een archeologische opgraving met het oog op wetenschappelijke   vraagstellingen uit te voeren, bevat, naast de gegevens, vermeld in artikel   5.5.3 van het Onroerenderfgoeddecreet van 12 juli 2013, minstens de volgende   bijkomende gegevens:<BR>1° een samenvatting van de resultaten van het al   uitgevoerde archeologisch vooronderzoek;<BR>2° de competenties waarover de   uitvoerders van het archeologisch vooronderzoek of de archeologische opgraving   beschikken;<BR>3° een gemotiveerd voorstel over het bewaren of deponeren van het   archeologisch ensemble dat het resultaat is van het archeologisch vooronderzoek   met ingreep in de bodem of de archeologische opgraving;<BR>4° de plannen,   kaarten en foto's, die noodzakelijk zijn voor een goed begrip van de aanvraag   tot toelating.
+
+### ART. 5.5.2.
+
+De erkende archeoloog bezorgt de aanvraag tot toelating om een   archeologisch vooronderzoek met ingreep in de bodem of een archeologische   opgraving met het oog op wetenschappelijke vraagstellingen uit te voeren,   schriftelijk en met een beveiligde zending aan het agentschap.
+
+### ART. 5.5.3.
+
+Het agentschap neemt een beslissing over de aanvraag tot toelating binnen   een termijn van dertig dagen, die ingaat op de dag na de dag waarop de aanvraag   is ingediend.<BR><BR>Als geen beslissing is genomen binnen de termijn, vermeld   in het eerste lid, wordt de toelating geacht te zijn goedgekeurd.<BR><BR>Het   agentschap bezorgt de gemotiveerde beslissing of de kennisgeving van de   stilzwijgende beslissing met een beveiligde zending aan de erkende archeoloog.   De gemotiveerde beslissing vermeldt de voorwaarden die van toepassing   zijn.<BR><BR>De toelating wordt verleend voor een termijn van maximaal twee   jaar, die ingaat op de dag na de datum van de beslissing of het verstrijken van   de termijn, vermeld in het eerste lid. Een afschrift van de toelating of de   kennisgeving van de stilzwijgende beslissing is tijdens de uitvoering van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving ter beschikking op het terrein in kwestie.
+
+### ART. 5.5.4.
+
+Met toepassing van artikel 5.1.4 van het Onroerenderfgoeddecreet van 12   juli 2013 en in afwijking van artikel 5.5.1 tot en met artikel 5.5.3, van dit   besluit geldt voor archeologische vooronderzoeken met ingreep in de bodem en   archeologische opgravingen die volgen op een toevalsvondst en uitgevoerd worden   door het agentschap, een onmiddellijke toelating.
+
+### ART. 5.5.5.
+
+Als het agentschap de toelating om een archeologisch vooronderzoek met   ingreep in de bodem of een archeologische opgraving met het oog op   wetenschappelijke vraagstellingen uit te voeren, weigert of er voorwaarden aan   koppelt, kan de erkende archeoloog een georganiseerd administratief beroep   instellen bij de minister volgens de procedure, vermeld in afdeling   6.
+
+### ART. 5.5.6.
+
+De melding van de aanvang van het archeologisch vooronderzoek met ingreep   in de bodem en de archeologische opgraving, vermeld in artikel 5.5.4, eerste   lid, van het Onroerenderfgoeddecreet van 12 juli 2013, wordt minstens drie dagen   op voorhand schriftelijk gedaan.
+
+### ART. 5.5.7.
+
+De erkende archeoloog publiceert het eindverslag, vermeld in artikel   5.5.4, derde en vierde lid, van het Onroerenderfgoeddecreet van 12 juli 2013,   binnen zes maanden nadat hij het bezorgd heeft aan het agentschap. Het   eindverslag dat de erkende archeoloog publiceert, is identiek aan het   eindverslag dat hij aan het agentschap heeft bezorgd, met uitzondering van de   privacy- en bedrijfsgevoelige informatie.
+
+### ART. 5.5.8.
+
+Het agentschap ontsluit de eindverslagen digitaal op zijn   website.
+
 ## [Afdeling 6 Beroepsprocedure (ing. BVR. 4 december 2015, art. 11, I: 1 april 2016)]
+
+### ART. 5.6.1.
+
+Het beroepschrift wordt met een beveiligde zending ingediend binnen een   termijn van dertig dagen, die ingaat op de dag na de kennisgeving van de   beslissing van het agentschap of, in voorkomend geval, van de erkende   onroerenderfgoedgemeente over:<BR>1° de weigering van het archeologisch   vooronderzoek met ingreep in de bodem of het koppelen van voorwaarden   daaraan;<BR>2° de weigering van de bekrachtiging van de archeologienota of het   koppelen van voorwaarden daaraan;<BR>3° de weigering van de bekrachtiging van de   nota of het koppelen van voorwaarden daaraan;<BR>4° de weigering van het   archeologisch vooronderzoek met ingreep in de bodem of de archeologische   opgraving met het oog op wetenschappelijke vraagstellingen of het koppelen van   voorwaarden daaraan.<BR><BR>Het beroepschrift bestaat minstens uit een   gemotiveerd verzoekschrift met vermelding van de datum en het referentienummer   van de bestreden beslissing.<BR><BR>Het beroepschrift wordt gedagtekend en   ondertekend door de indiener van het beroep of door zijn raadsman. Als de   woonplaatskeuze wordt gedaan bij de raadsman van de indiener van het beroep,   wordt dat ook in het beroepschrift aangegeven.<BR><BR>De indiener van het beroep   kan bij het beroepschrift de bewijsstukken voegen die hij nodig acht. De   bewijsstukken worden door de indiener van het beroep gebundeld en op een   inventaris ingeschreven.
+
+### ART. 5.6.2.
+
+De minister gaat na of voldaan is aan alle voorwaarden, vermeld in artikel   5.6.1, en of de dossiergegevens een onderzoek ten gronde toelaten.<BR><BR>Als   het beroepschrift onvolledig is, kan de minister binnen een termijn van dertig   dagen, die ingaat op de dag na de datum van de indiening van het beroep, de   beroepsindiener met een beveiligde zending vragen om de ontbrekende gegevens of   documenten bij het beroep te voegen, en de termijn bepalen waarin dat moet   gebeuren.<BR><BR>Als de beroepsindiener nalaat de ontbrekende gegevens of   documenten binnen de termijn, vermeld in het tweede lid, bij het beroepschrift   te voegen, wordt het beroep als onvolledig beschouwd.
+
+### ART. 5.6.3.
+
+De minister kan over het beroepschrift het advies van de Commissie   inwinnen.<BR><BR>De Commissie beschikt over een termijn van dertig dagen, die   ingaat op de dag na de datum van de ontvangst van de adviesvraag om over het   beroep een advies uit te brengen. Als er niet tijdig advies wordt verleend,   wordt aan de adviesvraag voorbijgegaan.
+
+### ART. 5.6.4.
+
+De minister beslist over het beroep binnen een termijn van zestig dagen,   die ingaat op de dag na de ontvangst van het beroepschrift.<BR><BR>Als geen   beslissing wordt genomen binnen de toepasselijke vervaltermijn, wordt het beroep   geacht te zijn afgewezen. De beslissing wordt onverwijld met een beveiligde   zending bezorgd aan de erkende archeoloog.
 
 ## HOOFDSTUK 6 Beschermingen en erfgoedlandschappen
 
@@ -2135,6 +2263,46 @@ In functie van het bepalen van de volgorde van toekenning van de   erfgoedpremie
 ### ART. 13.3.9.
 
 Voor aanvragen voor een premie voor de opmaak van een   landschapsbeheerplan, die overeenkomstig artikel 16 van het besluit van de   Vlaamse Regering van 4 april 2003 tot instelling van een premiestelsel voor   beschermde landschappen ontvankelijk zijn verklaard, geldt de goedkeuring van   een beheersplan overeenkomstig dit besluit, als een goedkeuring van een   landschapsbeheersplan zoals bepaald in artikel 14, § 6, van het besluit van de   Vlaamse Regering van 4 april 2003 tot instelling van een premiestelsel voor   beschermde landschappen.<BR>
+
+### ART. 13.3.10.
+
+De aanvragen van een stedenbouwkundige vergunning of   verkavelingsvergunning waarin ook moet geoordeeld worden over archeologisch   vooronderzoek of een archeologische opgraving, die ingediend zijn vóór de   inwerkingtreding van artikel 5.4.1, 5.4.2, 5.4.3 en 5.4.4 van het   Onroerenderfgoeddecreet van 12 juli 2013, worden behandeld overeenkomstig de   regels die golden voorafgaand aan die datum. De beslissingen worden, wat het   archeologisch vooronderzoek of de archeologische opgraving betreft,   bekendgemaakt, uitgevoerd en bestreden overeenkomstig de regels die golden   voorafgaand aan die datum.
+
+### ART. 13.3.11.
+
+De beroepen bij de deputatie over de toekenning of weigering van een   stedenbouwkundige vergunning of verkavelingsvergunning waarin ook geoordeeld   wordt over archeologisch vooronderzoek of een archeologische opgraving waarvan   de aanvraag bij het college van burgemeester en schepenen ingediend is vóór de   inwerkingtreding van artikel 5.4.1, 5.4.2, 5.4.3 en 5.4.4 van het   Onroerenderfgoeddecreet van 12 juli 2013, worden, wat het archeologisch   vooronderzoek of de archeologische opgraving betreft, behandeld overeenkomstig   de regels die golden voorafgaand aan die datum. De beslissingen worden, wat het   archeologisch vooronderzoek of de archeologische opgraving betreft,   bekendgemaakt, uitgevoerd en bestreden overeenkomstig de regels die golden   voorafgaand aan die datum.
+
+### ART. 13.3.12.
+
+De beroepen bij de Raad voor Vergunningsbetwistingen over de toekenning of   weigering van een stedenbouwkundige vergunning of verkavelingsvergunning waarin   ook geoordeeld wordt over archeologisch vooronderzoek of een archeologische   opgraving waarvan de aanvraag ingediend is vóór de inwerkingtreding van artikel   5.4.1, 5.4.2, 5.4.3 en 5.4.4 van het Onroerenderfgoeddecreet van 12 juli 2013,   worden, wat het archeologisch vooronderzoek of de archeologische opgraving   betreft, behandeld overeenkomstig de regels die golden voorafgaand aan die   datum.
+
+### ART. 13.3.13.
+
+Als een stedenbouwkundige vergunning of verkavelingsvergunning waarvan de   aanvraag ingediend is vóór de inwerkingtreding van artikel 5.4.1, 5.4.2, 5.4.3   en 5.4.4 van het Onroerenderfgoeddecreet van 12 juli 2013, een archeologisch   vooronderzoek of een archeologische opgraving oplegt, wordt de schriftelijke   vergunning van het agentschap, vermeld in artikel 6 en 9 van het decreet van 30   juni 1993 houdende bescherming van het archeologisch patrimonium, daarvoor   aangevraagd, toegekend, bestreden en uitgevoerd overeenkomstig de regels die   golden voorafgaand aan die datum.
+
+### ART. 13.3.14.
+
+Als er tegen een beslissing van het agentschap over een schriftelijke   vergunning voor de uitvoering van werken, werkzaamheden en activiteiten als   vermeld in artikel 4 en 6 van het besluit van de Vlaamse Regering van 20 april   1994 tot uitvoering van het decreet van 30 juni 1993 houdende bescherming van   het archeologisch patrimonium, een beroep wordt ingesteld overeenkomstig artikel   8, § 1, van het voormelde besluit en er nog geen advies door de   expertencommissie verleend is terwijl artikel 5.4.1, 5.4.2, 5.4.3 en 5.4.4 van   het Onroerenderfgoeddecreet van 12 juli 2013 al in werking zijn getreden, wint   het agentschap het advies in van de Commissie. Dat advies wordt ingewonnen en   behandeld overeenkomstig artikel 8, § 4 en § 5, van het voormelde   besluit.
+
+### ART. 13.3.15.
+
+Als er tegen een beslissing van het agentschap over een schriftelijke   vergunning voor een archeologische opgraving of een prospectie met ingreep in de   bodem een beroep wordt ingesteld overeenkomstig artikel 16, § 5, van het besluit   van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30   juni 1993 houdende bescherming van het archeologisch patrimonium, wordt het   advies ingewonnen van de Commissie.
+
+### ART. 13.3.16.
+
+In afwijking van artikel 15, § 1, van het besluit van de Vlaamse Regering   van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de   bescherming van het archeologisch patrimonium kan een vergunning voor   archeologische prospectie met ingreep in de bodem, een archeologische opgraving   of het gebruik van een detector overgedragen worden aan een derde. De nieuwe   vergunninghouder moet voldoen aan de kwalificatievoorwaarden voor de uitvoerders   van archeologische opgravingen en archeologische prospecties met ingreep in de   bodem, vermeld in artikel 12 en 13 van het besluit van de Vlaamse Regering van   20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de   bescherming van het archeologisch patrimonium en aan de persoonsgebonden   voorwaarden die opgenomen zijn in de vergunning.<BR><BR>De vergunninghouder   dient voor de overdracht met een beveiligde zending een gemotiveerd schriftelijk   verzoek in bij het agentschap. Het agentschap neemt een beslissing binnen een   termijn van dertig dagen, die ingaat op de dag na de ontvangst van het verzoek   en brengt de vergunninghouder met een beveiligde zending op de hoogte. Bij   overdracht wordt bij de vergunning een addendum gevoegd waaruit blijkt dat de   vergunning is overgedragen. De nieuwe vergunninghouder stelt de vergunning met   addendum altijd ter beschikking voor inzage op de plaats waar de vergunning   wordt uitgevoerd. De oorspronkelijke vergunninghouder kan de vergunning na   overdracht niet langer uitvoeren.
+
+### ART. 13.3.17.
+
+De geldigheidstermijn van een vergunning voor archeologische prospectie   met ingreep in de bodem, een archeologische opgraving of het gebruik van een   detector verkregen met toepassing van het decreet van 30 juni 1993 houdende   bescherming van het archeologisch patrimonium, kan, in geval van overmacht om de   vergunning tijdig uit te voeren, verlengd worden. De vergunninghouder vraagt met   een beveiligde zending de verlenging van de geldigheidstermijn aan het   agentschap. Het agentschap kan de verlenging toestaan, weigeren of inperken. Het   agentschap neemt een beslissing binnen een termijn van dertig dagen, die ingaat   op de dag na de ontvangst van de verlengingsaanvraag en brengt de   vergunninghouder met een beveiligde zending op de hoogte.
+
+### ART. 13.3.18.
+
+Aanvragen van schadevergoedingen die voortvloeien uit de toepassing van   artikel 7 van het decreet van 30 juni 1993 houdende bescherming van het   archeologisch patrimonium worden ingediend en behandeld overeenkomstig artikel   10 van het voormelde decreet.
+
+### ART. 13.3.19.
+
+De aanvragen voor metaaldetectie die overeenkomstig artikel 19 van het   besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet   van 30 juni 1993 houdende bescherming van archeologisch patrimonium ingediend   zijn vóór de inwerkingtreding van artikel 5.1.2 van het Onroerenderfgoeddecreet   van 12 juli 2013 worden behandeld overeenkomstig de regels die golden   voorafgaand aan die datum. De beslissingen worden bekendgemaakt, uitgevoerd en   bestreden overeenkomstig de regels die golden voorafgaand aan die   datum.
 
 ## Afdeling 4 Inwerkingtreding
 
