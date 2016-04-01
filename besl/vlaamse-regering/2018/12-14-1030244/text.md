@@ -54,6 +54,32 @@ In artikel 42 van hetzelfde besluit wordt het woord "zes" vervangen door het woo
 
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse Regering kmo-portefeuille/kmo-groeisubsidie
 
+### ART 16.
+
+In artikel 1 van het besluit van de Vlaamse Regering van 26 februari 2016 tot toekenning van steun aan kleine en middelgrote ondernemingen voor ondernemerschapsbevorderende diensten en kmo-groeitrajecten worden punt 2° en punt 8° opgeheven.
+
+### ART 17.
+
+Aan artikel 2 van hetzelfde besluit wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+<br>
+"In het eerste lid wordt verstaan onder algemene groepsvrijstellingsververordening: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (Publicatieblad van 26 juni 2014, L 187, blz. 1 - 78), en de latere wijzigingen ervan.".
+
+### ART 18.
+
+In artikel 5 van hetzelfde besluit worden de volgende wijzigingen aangebracht:<br>
+<br>
+1° het tweede lid wordt vervangen door wat volgt:<br>
+"De onderneming mag op de indieningsdatum van de steunaanvraag geen procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij de toegekende steun wordt teruggevorderd, om in aanmerking te komen voor steun.";<br>
+<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Bij een steunaanvraag voor kmo-groeitrajecten via de kmo-groeisubsidie, vermeld in hoofdstuk 3, mag de onderneming op de indieningsdatum van de steunaanvraag geen negatief eigen vermogen hebben.".
+
+### ART 19.
+
+Artikel 42 van hetzelfde besluit wordt vervangen door wat volgt:<br>
+<br>
+"Art. 42. Er wordt geen subsidie uitbetaald aan ondernemingen die een procedure op basis van Europees, nationaal of regionaal recht hebben lopen waarbij een toegekende steun wordt teruggevorderd. Als er een procedure tot terugvordering loopt, wordt de uitbetaling van de subsidie opgeschort tot de onderneming het bewijs levert dat het terug te vorderen bedrag is terugbetaald of de procedure tot terugvordering is afgelopen.".
+
 ## HOOFDSTUK 5. Wijzigingen van het besluit van de Vlaamse Regering O&O-talent
 
 ## HOOFDSTUK 6. Wijzigingen van het besluit van de Vlaamse Regering samenwerkingsverband
