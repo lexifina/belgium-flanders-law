@@ -2,16 +2,16 @@
   "codex_id": 1020950,
   "title": "Besluit van de Vlaamse Regering van 2011-09-30 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan [...] voor het voortraject van personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020950/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "44aa789b7729dde51d0f5c9f662f671e6fa3bd4ac28f9dee45d6f51a4dd3fed3",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020950/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "527fd466b593818af913931eb254fe2653c291a692b6559b19c0e61eaf9fd6ca",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020950&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-04-01",
   "made": "2011-09-30",
   "gazette": "2011-11-24",
   "numac": 2011035898,
   "document_start": "2011-10-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2016-04-01",
   "article_versions": 31,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
