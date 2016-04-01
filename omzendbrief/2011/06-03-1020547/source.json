@@ -2,16 +2,16 @@
   "codex_id": 1020547,
   "title": "Omzendbrief van 2011-06-03 ML/12 betreffende de restauratiepremie voor beveiligingswerken aan beschermde monumenten",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020547/VolledigDocument?datum=2011-08-27",
-  "source_sha256": "2ad3a34341105cf4af4a5339aa9ee5c105576072ad2b0115d0444b848dfb909c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020547/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "d497400c9a344a9ca39a3178298758bb25daf8af50c3fccfb346694336b410d3",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020547&param=informatie",
-  "as_of": "2011-08-27",
+  "as_of": "2016-04-01",
   "made": "2011-06-03",
   "gazette": "2011-08-17",
   "numac": 2011204065,
   "document_start": "2011-08-27",
   "document_end": "2899-12-31",
-  "in_force": "2011-08-27",
+  "in_force": "2016-04-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2011-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
