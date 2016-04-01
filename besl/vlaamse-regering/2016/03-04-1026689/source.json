@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026689,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-04 houdende wijziging van diverse besluiten van de Vlaamse Regering inzake financiën en begroting",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026689/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "2f5e5db3b3eb2264cde015c9c54a8eb5f6059c9b7ba24ded95256459c4f00d0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026689&param=informatie",
+  "as_of": "2016-04-01",
+  "made": "2016-03-04",
+  "gazette": "2016-04-08",
+  "numac": 2016035644,
+  "document_start": "2016-04-01",
+  "document_end": null,
+  "in_force": "2016-04-01",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2016-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
