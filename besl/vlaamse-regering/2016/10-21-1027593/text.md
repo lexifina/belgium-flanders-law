@@ -31,6 +31,15 @@ Besluit :<br>
 
 ## HOOFDSTUK 1 Wijziging van het Vergunningsbesluit van 22 november 2013
 
+### ART 1.
+
+In artikel 70 van het Vergunningsbesluit van 22 november 2013, gewijzigd bij het besluit van de Vlaamse Regering van 9 oktober 2015, worden de volgende wijzigingen aangebracht:<br>
+1° in het eerste lid wordt punt 2° vervangen door:<br>
+"2° twee jaar om te voldoen aan de werkingsvoorwaarden over de pedagogische ondersteuning en het attest draagkracht, vermeld in artikel 32;";<br>
+2° in het eerste lid wordt een punt 2° /1 ingevoegd dat luidt als volgt:<br>
+"2° /1 drie jaar om te voldoen aan de werkingsvoorwaarde over het kwaliteitshandboek, vermeld in artikel 57;".<br>
+&nbsp;
+
 ## HOOFDSTUK 2 Wijziging van het Subsidiebesluit van 22 november 2013
 
 ### ART 2.
