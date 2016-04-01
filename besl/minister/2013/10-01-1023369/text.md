@@ -12,6 +12,10 @@ Voor de toepassing van dit besluit wordt verstaan onder :<BR>1° Agentschap   On
 
 ## [HOOFDSTUK 1/1. Aanvullende voorwaarde (ing. MB 7 maart 2016, art. 4, I: 1 april 2016)]
 
+### ART. 1/1.
+
+Ter uitvoering van artikel 3, vierde lid, van het besluit van de Vlaamse   Regering van 19 juli 2013 tot toekenning van strategische transformatiesteun aan   ondernemingen in het Vlaamse Gewest, toegevoegd bij het besluit van de Vlaamse   Regering van 5 februari 2016, wordt verstaan onder werkzame personen: de   werknemers die door de werkgever zijn aangegeven bij de Rijksdienst voor Sociale   Zekerheid.
+
 ### ART 1/2.
 
 Ter uitvoering van artikel 5, tweede lid, van het besluit van de Vlaamse Regering van 19 juli 2013 wordt verstaan onder achterstallige schuld bij de Rijksdienst voor Sociale Zekerheid: achterstallige schulden van 3.000 euro of meer bij de Rijksdienst voor Sociale Zekerheid, ongeacht of er bezwaar of beroep tegen een vordering van de Rijksdienst voor Sociale Zekerheid werd ingediend. Schulden waarvoor de onderneming een afbetalingsplan heeft dat ze respecteert, worden niet als achterstallig beschouwd.
