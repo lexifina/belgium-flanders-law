@@ -39,7 +39,7 @@ De grootte van de onderneming, bepaald in de definitie van kleine en   middelgro
 
 ### ART. 3.
 
-De gegevens voor de berekening van de jaaromzet, het balanstotaal en het   aantal werkzame personen worden vastgesteld op basis van de laatste jaarrekening   die bij de Nationale Bank van België is neergelegd voor de indieningsdatum van   de steunaanvraag, en die beschikbaar is via een centrale databank. <BR><BR>Om de   omzet te berekenen, wordt een boekjaar van meer of minder dan twaalf maanden   herberekend tot een periode van twaalf maanden. <BR><BR>Voor ondernemingen die   geen jaarrekening moeten opmaken, worden de gegevens voor de berekening van de   jaaromzet vastgesteld op basis van de laatste aangifte bij de directe   belastingen voor de indieningsdatum van de steunaanvraag. De gegevens voor de   berekening van het aantal werkzame personen worden in dat geval vastgesteld aan   de hand van het aantal werknemers die in de onderneming waren tewerkgesteld   gedurende de laatste vier kwartalen die de Rijksdienst voor Sociale Zekerheid   kan attesteren voor de indieningsdatum van de steunaanvraag.<BR><BR>Bij recent   opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is neergelegd   en de eerste fiscale aangifte nog niet is uitgevoerd, worden de gegevens   vastgesteld op basis van een financieel plan van het eerste   productiejaar.<BR><BR>
+De gegevens voor de berekening van de jaaromzet, het balanstotaal en het   aantal werkzame personen worden vastgesteld op basis van de laatste twee   jaarrekeningen die bij de Nationale Bank van België&nbsp;zijn neergelegd voor de   indieningsdatum van de steunaanvraag, en die beschikbaar&nbsp;zijn via een   centrale databank.&nbsp;<BR><BR>Voor ondernemingen die geen jaarrekening moeten   opmaken, worden de gegevens voor de berekening van de jaaromzet vastgesteld op   basis van de twee laatste aangiftes bij de directe belastingen voor de   indieningsdatum van de steunaanvraag. De gegevens voor de berekening van het   aantal werkzame personen worden in dat geval vastgesteld aan de hand van het   aantal werknemers die in de onderneming waren tewerkgesteld gedurende de   laatste&nbsp;acht kwartalen die de Rijksdienst voor Sociale Zekerheid kan   attesteren voor de indieningsdatum van de steunaanvraag.<BR><BR>Bij recent   opgerichte ondernemingen, waarvan de eerste jaarrekening nog niet is neergelegd   en de eerste fiscale aangifte nog niet is uitgevoerd, worden de gegevens   vastgesteld op basis van een financieel plan van het eerste   productiejaar.<BR><BR>De minister bepaalt wat er onder werkzame personen wordt   verstaan.<BR><BR>
 
 ### ART. 4.
 
@@ -57,13 +57,17 @@ Deze regelgeving valt onder de toepassing van de algemene   groepsvrijstellingsv
 
 Ter uitvoering van artikel 4, tweede lid, van het decreet van 16 maart   2012 is er een verbod om de steun, verleend in het kader van dit besluit, te   cumuleren met de steun, verleend in het kader van het besluit van de Vlaamse   Regering van 16 november 2012 tot toekenning van steun aan ondernemingen voor   strategische ecologie-investeringen in het Vlaamse Gewest.
 
+### ART. 5/2.
+
+Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   volgende voorwaarden voldoet :<BR>1° de onderneming is een natuurlijke persoon   die koopman is of een zelfstandig beroep uitoefent;<BR>2° de onderneming is een   handelsvennootschap met rechtspersoonlijkheid van privaat recht;<BR>3° de   onderneming is een burgerlijke vennootschap met handelsvorm van privaat   recht;<BR>4° de onderneming is een buitenlandse onderneming met een statuut dat   gelijkwaardig is aan het statuut, vermeld in punt 1° tot en met 3°.<BR><BR>Om   voor steun in aanmerking te komen moet de onderneming over een exploitatiezetel   in het Vlaamse Gewest beschikken of zich ertoe verbinden in het Vlaamse Gewest   een exploitatiezetel te vestigen. De minister kan een uitzondering   toestaan.
+
 ### ART. 6.
 
 Er wordt alleen steun verleend aan ondernemingen die voldoen aan de   regelgeving die van toepassing is in het Vlaamse Gewest. De onderneming moet aan   die regelgeving blijven voldoen tot vijf jaar na de beëindiging van de   ecologie-investeringen.<BR><BR>De onderneming mag op de indieningsdatum van de   steunaanvraag geen achterstallige schulden hebben bij de Rijksdienst voor   Sociale Zekerheid, geen onderneming in moeilijkheden zijn als vermeld in artikel   2, punt 18, van de algemene groepsvrijstellingsverordening, en geen procedure op   basis van Europees of nationaal recht hebben lopen waarbij een toegekende steun   wordt teruggevorderd.<BR><BR>
 
 ### ART. 7.
 
-De ecologie-investeringen moeten starten binnen zes maanden na de beslissing tot toekenning van de steun en moeten beëindigd worden binnen drie jaar na de beslissing tot toekenning van de steun.<br /><br />De minister kan de termijn waarin de ecologie-investeringen moeten starten, verlengen als de onderneming de aangevraagde vergunningen voor de uitvoering van de ecologie-investeringen niet heeft verkregen binnen zes maanden na de beslissing tot toekenning van de steun.<br /><br />
+De ecologie-investeringen moeten starten binnen zes maanden na de   beslissing tot toekenning van de steun en moeten beëindigd worden binnen drie   jaar na de beslissing tot toekenning van de steun.<BR><BR>De minister kan de   termijnen, vermeld in het eerste lid, op gemotiveerd verzoek en op advies van de   administratie verlengen.<BR><BR>
 
 ### ART. 8.
 
