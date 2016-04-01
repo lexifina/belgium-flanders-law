@@ -2,16 +2,16 @@
   "codex_id": 1010197,
   "title": "Omzendbrief van 2002-11-19 ML/11 betreffende de kerkverwarming van beschermde monumenten",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010197/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "45dfe5d42c478ad8797de555cacfaee3311dc2a645037bf92af7e1fd3eec1d08",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1010197/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "12b55b704cd233ba771ef8294e44a3cb17b2a142e73e4c52d209082a4c5fc2d2",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1010197&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-04-01",
   "made": "2002-11-19",
   "gazette": "2002-12-20",
   "numac": 2002036571,
   "document_start": null,
   "document_end": "2899-12-31",
-  "in_force": "2006-06-01",
+  "in_force": "2016-04-01",
   "article_versions": 1,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
