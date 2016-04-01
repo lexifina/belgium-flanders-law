@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026507,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-05 houdende de aanpassing van een aantal besluiten van de Vlaamse Regering betreffende de steunverlening aan ondernemingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026507/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "9fac80af6b3b062a260edac7d3000d1c5735f82547df7755de0e67cc0835c30f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026507&param=informatie",
+  "as_of": "2016-04-01",
+  "made": "2016-02-05",
+  "gazette": "2016-02-25",
+  "numac": 2016035203,
+  "document_start": "2016-04-01",
+  "document_end": null,
+  "in_force": "2016-04-01",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2016-04-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
