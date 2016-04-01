@@ -36,6 +36,10 @@ In dit besluit wordt verstaan onder:<BR>1° aanzienlijke   capaciteitsuitbreidin
 
 ## HOOFDSTUK 2 Algemene voorwaarden
 
+### ART. 1/1.
+
+Een onderneming komt alleen voor steun in aanmerking als ze aan een van de   volgende voorwaarden voldoet :<BR>1° de onderneming is een natuurlijke persoon   die koopman is of een zelfstandig beroep uitoefent;<BR>2° de onderneming is een   handelsvennootschap met rechtspersoonlijkheid van privaat recht;<BR>3° de   onderneming is een burgerlijke vennootschap met handelsvorm van privaat   recht;<BR>4° de onderneming is een buitenlandse onderneming met een statuut dat   gelijkwaardig is aan het statuut, vermeld in punt 1° tot en met 3°.<BR><BR>Om in   aanmerking te komen voorsteun moet de onderneming vanaf de indieningsdatum van   de steunaanvraag over een exploitatiezetel in het Vlaamse Gewest   beschikken.
+
 ### ART. 2.
 
 De onderneming mag op de indieningsdatum van de steunaanvraag geen   achterstallige schulden hebben bij de Rijksdienst voor Sociale Zekerheid en geen   procedure op basis van Europees of nationaal recht hebben lopen waarbij een   toegekende steun wordt teruggevorderd.<BR>
