@@ -8,19 +8,19 @@ De Vlaamse minister van Bestuurszaken, Binnenlands Bestuur, Inburgering, Toerism
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder : <br />1° afgeleid meetsysteem : het meetsysteem dat wordt gevormd door de meetlijnen en hulpmeetlijnen die zijn afgeleid van de hoofdmeetlijn;<br />2° allesporenkaart : overzichtskaart waarop alle grondsporen zijn weergegeven die bij een opgraving zijn aangetroffen;<br />3° altimetrie : hoogtemeting;<br />4° anatomisch verband : de situatie waarin skeletonderdelen worden aangetroffen in dezelfde onderlinge positie als bij levende dieren of mensen het geval is;<br />5° antropomorfe graven : graven waarvan het spoor de vorm van het menselijk lichaam nauw omsluit;<br />6° artefacten : door de mens vervaardigde of gemodificeerde voorwerpen;<br />7° artisanaal afval : restproducten ontstaan als resultaat van de fabricatie van voorwerpen uit organisch of anorganisch materiaal;<br />8° assessment : inschatting van het wetenschappelijk potentieel of de informatiewaarde van een archeologische vondstcategorie;<br />9° bijzondere voorwaarden : stelsel van voorschriften die opgelegd worden overeenkomstig artikel 14, § 2, van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium;<br />10° bouwvoor : de bovenste, veel bewerkte en vaak met humeus materiaal verrijkte laag van de grond;<br />11° C14-datering : methode om de ouderdom van koolstofhoudend materiaal te bepalen aan de hand van het resterende aandeel van het radioactief koolstofisotoop 14C;<br />12° Centrale Archeologische Inventaris (CAI) : databank die archeologische vindplaatsen in het Vlaams Gewest in kaart brengt, en de beschikbare informatie bundelt;<br />13° conservatie : het geheel van maatregelen en handelingen dat erop gericht is de bewaringstoestand van een object of zijn omgeving te stabiliseren en verder verval te verhinderen of te vertragen;<br />14° context : archeologische vondsten, sporen of lagen, met inbegrip van alle gegevens uit de omgeving, die toelaten de aard van de vondst, spoor of laag binnen een logische tijdssequentie te begrijpen;<br />15° consumptieresten : materiaal dat ontstaat als restproduct van menselijke voeding;<br />16° coupe : doorsnede door een archeologisch spoor of laag;<br />17° couperen : het doorsnijden van de vulling van een archeologisch spoor of laag opdat de interne opbouw en aard kunnen onderzocht en geregistreerd worden;<br />18° coupetekening : grafische registratie van de sporen en lagen zichtbaar op een coupe;<br />19° crematiegraf : graf met gecremeerde menselijke resten;<br />20° csv formaat : een 'comma-separated values (CSV)' file formaat gebruikt voor de digitale opslag van data met een tabelstructuur;<br />21° dagrapport : dagelijkse rapportage over de gang van zaken bij het onderzoek;<br />22° DBF formaat : een algemeen file formaat voor het opslaan van databankgegevens;<br />23° dendrochronologie : methode om de ouderdom van hout te bepalen aan de hand van de studie van de variatie van de jaarlijkse groei door het aflezen van jaarringen;<br />24° depot : een voorziening geschikt voor de geconditioneerde bewaring van archeologische vondsten, stalen of documentatie;<br />25° diatomeeën : microscopische, eencellige algen met een pantser van silicium, ook gekend als kiezelwieren;<br />26° documentatie : het geheel aan te deponeren informatie, ongeacht de gegevensdrager;<br />27° dxf formaat : een data file formaat ontwikkeld om de uitwisselbaarheid van data tussen AutoCAD en andere programma's mogelijk te maken;<br />28° dwg formaat : een file formaat gebruikt om tweedimensionale en driedimensionale tekendata en metadata op te slaan;<br />29° gegevensdrager : een opslagmedium waarop gegevens fysiek kunnen worden opgeslagen, vervoerd en overgedragen, zoals papier, diskette, ZIP-schijf en CD-ROM;<br />30° grafgiften : alle organisch of anorganisch materiaal dat intentioneel in een graf is gedeponeerd;<br />31° Harrismatrix : grafische weergave van de relaties of associaties tussen archeologische sporen, lagen en eventuele vondstconcentraties op een vindplaats;<br />32° hoofdmeetsysteem : de in Lambertcoördinaten (WG 72) ingemeten, vaste hoofdmeetpunten binnen of in de directe nabijheid van de opgraving of de prospectie met ingreep in de bodem;<br />33° in blok lichten : een object (of groep van objecten) opnemen samen met een deel van de omringende grond;<br />34° ingreep in de bodem : alle grondwerkzaamheden of activiteiten die een effect hebben op het voortbestaan van archeologische waarden in situ, ook wel bodemverstoring genoemd;;<br />35° inhumatiegraf : graf met niet-gecremeerde menselijke resten, lijksilhouet of beide;<br />36° in situ : toestand waarin archeologische contexten zich nog steeds bevinden op de oorspronkelijke plaats van depositie; <br />37° JPEG2000 formaat : een standaard voor beeldcompressie, gecreëerd door de 'Joint Photographic Experts Group committee' in 2000;<br />38° kijkvenster : uitbreiding van een proefsleuf bij prospectie met ingreep in de bodem, ter hoogte van een archeologisch spoor om een adequate identificatie en registratie van het spoor toe te laten of om de schijnbare afwezigheid van sporen te verifiëren;<br />39° krengbegraving : begraving van de resten van één of meer dieren in anatomisch verband;<br />40° kruisprofiel : geheel van twee profielen die elkaar kruisvormig snijden;<br />41° kwadrantenmethode : de methode waarbij archeologische sporen worden gecoupeerd volgens twee kruisende lijnen waarbij twee tegenoverstaande segmenten weggegraven worden en de andere twee tegenoverstaande segmenten eventueel tijdelijk bewaard blijven, waardoor een zogenaamd kruisprofiel kan worden geregistreerd;<br />42° laag : een over een meer of minder groot oppervlak vervolgbare grondeenheid die op archeologische, geologische of bodemkundige gronden als eenheid wordt onderscheiden;<br />43° landmeter-expert : het beroep beschermd door de wet van 11 mei 2003 tot bescherming van de titel en van het beroep van landmeter-expert;<br />44° lithische artefacten : gebruiksvoorwerpen of artisanaal afval gemaakt uit steen met uitzondering van bouwmateriaal;<br />45° materiaalcategorie : vondsten bestaande uit dezelfde grondstof, zoals keramiek, metaal, organische materialen, glas; <br />46° metaaldetector : instrument om metalen voorwerpen op te sporen;<br />47° metadata : informatie waarin gegevensbronnen worden beschreven en die het mogelijk maakt die gegevens te zoeken, te inventariseren en te gebruiken<br />48° microfauna : diersoorten met kleine dimensie, bij archeologisch onderzoek meestal van hoogstens enkele centimeters groot; <br />49° micromorfologisch onderzoek : onderzoek van de samenstelling van lagen aan de hand van microscopie;<br />50° natuurlijke deposities : afzettingen in, of in de omgeving van een archeologische vindplaats die niet door de mens tot stand zijn gekomen;<br />51° noordpijl : visuele weergave van het geografische of het magnetische noorden op een kaart, plan of foto;<br />52° opgravingsvlak : niveau waarop sporen worden waargenomen, geïnterpreteerd en getekend;<br />53° OSL-datering : methode om geologische materialen te dateren aan de hand van de lichtuitstoot of luminiscentie bij optische stimulatie;<br />54° paleo-ecologisch materiaal : vondsten, meestal dierlijke of plantaardige resten, die toelaten een reconstructie van de vroegere leefomgeving op te stellen;<br />55° PDF/A formaat : een file formaat gebruikt voor het op lange termijn archiveren van elektronische documenten <br />56° planimetrie : het meten van oppervlakken of de positie van objecten in de tweedimensionale ruimte;<br />57° plantaardige macroresten : resten van planten die met het blote oog zichtbaar zijn, uitgezonderd houtresten;<br />58° pollenbak : recipiënt gebruikt om een kolom sediment uit een profiel te halen met het oog op een staalname voor stuifmeel of andere kleine organische resten;<br />59° proefput : opgravingsput van kleine omvang, en meestal met gelijke lengte en breedte, bij prospectie met ingreep in de bodem;<br />60° proefsleuf : langwerpige werkput bij prospectie met ingreep in de bodem;<br />61° profiel : verticale wand die de begrenzing vormt van een uitgraving, hieronder wordt ook putwandprofiel verstaan<br />62° profieltekening : grafische registratie van de stratigrafie in een profiel;<br />63° projectcode : unieke code toegekend aan de vergunning voor een opgraving of prospectie met ingreep in de bodem;<br />64° prospectie met ingreep in de bodem : verkenning en evaluatie van het archeologisch potentieel van een terrein door middel van de aanleg van proefsleuven, proefputten, vlakken of andere intrusieve methoden met grondverzet;<br />65° silicagel : vochtabsorberende kristallen van natriumsilicaat;<br />66° skeletformulier : formulier gebruikt voor de registratie van de gegevens over in archeologische context aangetroffen menselijke resten;<br />67° spoor : een ruimtelijk duidelijk begrensbaar verschijnsel van antropogene of natuurlijke oorsprong; <br />68° spoorrelaties : stratigrafische positie of verhouding van sporen ten opzichte van elkaar;<br />69° spoorassociaties : verbanden tussen sporen op basis van datering of samenstelling;<br />70° SQLDDL formaat : een programmeertaal om een relationele databank te beschrijven;<br />71° staal : een representatief deel van een vondstenensemble of van het sediment uit een laag, dat ten behoeve van onderzoek wordt geborgen;<br />72° staalname : het inzamelen van één of meerdere stalen;<br />73° staalnummer : een uniek nummer dat aan een staal wordt toegekend;<br />74° stamschijf : cilinder met beperkte hoogte van enkele centimeters, gezaagd uit een al dan niet bewerkte stam of tak van een boom;<br />75° stratigrafie : opeenvolging van archeologische contexten;<br />76° structuur : meerdere met elkaar in ruimte, tijd of in functioneel opzicht samenhangende sporen;<br />77° Tweede Algemene Waterpassing : de referentiehoogte waartegenover hoogtemetingen in België worden uitgedrukt en waarbij 0 meter gelijk is aan het gemiddeld zeeniveau bij eb te Oostende, zoals opgemeten tussen 1947 en 1968;<br />78° textuur : samenstelling van een bodem of sediment qua korrelgrootte;<br />79° Tiff uncompressed formaat : een file formaat gebruikt voor het opslaan van beelden, zowel foto's als lijntekeningen; <br />80° TL-datering : methode om geologische materialen te dateren aan de hand van de lichtuitstoot bij verhitting of thermoluminiscentie;<br />81° topografie : beschrijving van de kenmerken van plaatsen of gebieden;<br />82° urngraven : begravingsvorm waarbij menselijke resten in een recipiënt zijn geborgen;<br />83° vindplaats : een ruimtelijk begrensd gebied waarbinnen zich archeologische informatie bevindt;<br />84° vlakplan : grafische registratie van de sporen, lagen en eventuele vondsten in een opgravingsvlak;<br />85° vochtigheidsstrip : drager geïmpregneerd met chemische stoffen die reageren op de relatieve vochtigheidsgraad door een verkleuring;<br />86° volgsleuf : werkput bij prospectie met ingreep in de bodem die niet de vooraf bepaalde oriëntatie en grootte heeft maar die is aangelegd om het verloop van een archeologisch spoor te volgen;<br />87° vondstnummer : een uniek nummer dat aan een vondst of vondsten wordt toegekend;<br />88° werkput : afzonderlijke werkeenheid binnen een opgraving of een prospectie met ingreep in de bodem.<br /><br />
+...
 
 ### ART. 2.
 
-Overeenkomstig artikel 6, § 1, eerste lid, van het decreet van 30 juni 1993 houdende bescherming van het archeologisch patrimonium, gaat elk archeologisch onderzoek pas van start nadat daarvoor een vergunning is afgeleverd. <br /><br />
+...
 
 ### ART. 3.
 
-De vergunninghouder draagt de verantwoordelijkheid voor alle belangrijke onderzoekshandelingen, ongeacht de medewerker die deze handeling heeft uitgevoerd, behalve voor het aanleggen van het hoofdmeetsysteem onder verantwoordelijkheid van de landmeter-expert. <br /><br />
+...
 
 ### ART. 4.
 
-De praktische leiding op een terrein berust uitsluitend bij de vergunninghouder.<br /><br />Hoewel de vergunning maar aan één persoon wordt verleend, is minstens een archeoloog die niet de vergunninghouder is, beschikbaar om tijdelijk de taken van de vergunninghouder over te nemen in geval van ziekte en vergelijkbare omstandigheden.<br /><br />Bij kleinschalige opgravingen of prospecties kan op de regel, vermeld in het tweede lid, een uitzondering worden gemaakt via de bijzondere voorwaarden.<br /><br />
+...
 
 ## HOOFDSTUK 2 Minimumnormen voor het uitvoeren van archeologisch onderzoek
 
@@ -30,322 +30,322 @@ De praktische leiding op een terrein berust uitsluitend bij de vergunninghouder.
 
 ### ART. 5.
 
-De vergunninghouder is tijdens het veldwerk bij alle strategische keuze- en registratiemomenten op de vindplaats aanwezig en coördineert het praktische opgravingswerk.<br /><br />
+...
 
 ### ART. 6.
 
-De projectcode, toegekend aan de opgraving bij het uitreiken van de vergunning, wordt op alle opgravingsadministratie, registratie, verpakking van vondstenmateriaal of vondstenmateriaal aangebracht. <br /><br />De projectcode, vermeld in het eerste lid, wordt fysisch aangebracht of, in het geval van digitale documenten, als begeleidende metadata.<br /><br />De projectcode wordt ook gebruikt in de Centrale Archeologische Inventaris.<br /><br /><br />
+...
 
 ## Onderafdeling 2 Aanleg van meetsystemen
 
 ### ART. 7.
 
-§ 1. De landmeter-expert registreert de bestaande topografie en meet de bestaande bebouwing, percelering en kadaster op. Deze stappen worden op foto vastgelegd. <br /><br />De registratie van de bestaande topografie, de opmeting van de bestaande bebouwing, percelering en kadaster, en het vastleggen op foto hoeven niet te worden uitgevoerd als dit al tijdens de voorbereiding van een bouwproject is gebeurd.<br /><br />§ 2. Een hoofdmeetsysteem wordt aangelegd.<br /><br />Van het hoofdmeetsysteem worden minimaal vier punten vastgelegd. Die vier vaste punten worden door één of meer landmeters-experten ingemeten. De gebruikte vaste punten worden bepaald in Lambertcoördinaten (WG 72) voor de planimetrie en in Tweede Algemene Waterpassing voor de altimetrie.<br /><br />De vaste punten bestaan uit meetnagels of fenopalen, of een duidelijke aanduiding op een vaste structuur. Houten piketten worden niet voor het aanduiden van vaste punten gebruikt.<br /><br />De vaste punten en het meetsysteem worden uitgezet met een precisie van 30 millimeter. Het meetsysteem is gerelateerd aan de vaste punten die in het veld gemarkeerd zijn. De vaste punten zijn gekenmerkt door een onderlinge zichtbaarheid met het ongewapend oog.<br /><br />Ieder vast punt van het hoofdmeetsysteem wordt schematisch weergegeven met een meetschets en wordt eventueel op foto vastgelegd.<br /><br />De vaste punten worden tijdens de opgraving regelmatig gecontroleerd en de bewaring ervan wordt tijdens de opgraving gegarandeerd. <br /><br />§ 3. Afgeleide punten kunnen met handhaving van de landmeetkundige principes door andere personen dan gekwalificeerde landmeters worden uitgezet en ingemeten. Daarbij wordt aan de volgende eisen voldaan : <br />1° een precisie van 30 millimeter;<br />2° minimaal twee afgeleide punten;<br />3° minimaal één ijking bij het einde van het terreinwerk.<br /><br />§ 4. De natuurlijke persoon of rechtspersoon die door zijn actie of acties de ingreep in de bodem veroorzaakt of noodzakelijk maakt, en de landmeter-expert spreken de af te leveren vorm van registratie af : schaal, zwart-wit of kleur, vastlegging op foto's, tabellen en tekst. <br /><br />Het grondplan is opgemaakt uit verschillende kaartlagen die bestaan uit bestaande gebouwen, wegen, grachten, bomen, meetpunten, rioleringen en andere herkenningspunten. <br /><br />Bij kleinschalige opgravingen of prospecties kan op de regel, vermeld in het tweede lid, een uitzondering worden gemaakt via de bijzondere voorwaarden.<br /><br />Op verzoek van de natuurlijke persoon of rechtspersoon die door zijn actie of acties de ingreep in de bodem veroorzaakt of noodzakelijk maakt, wordt ieder punt tweedimensionaal of driedimensionaal opgemeten. <br /><br />Ieder plan is voorzien van een noordpijl en schaallat en wordt analoog of digitaal bezorgd. Het formaat voor het digitaal plan is dxf of dwg. Een noordpijl is een globale aanduiding van de richting waarin het kaartnoorden zich op de tekening bevindt.<br /><br />
+...
 
 ## Onderafdeling 3 Aanleggen en onderzoeken van opgravingsvlakken per werkput
 
 ### ART. 8.
 
-§ 1. Voor de aanvang van het archeologisch onderzoek wordt het terrein door de natuurlijke persoon of rechtspersoon die door zijn actie of acties de ingreep in de bodem veroorzaakt of noodzakelijk maakt, vrijgemaakt door begroeiing, wegdek, bebouwing, de recentste vloer als binnen in gebouwen wordt gewerkt, te verwijderen.<br /><br />§ 2. Na het uitzetten van de werkput wordt een eerste opgravingsvlak aangelegd door de bouwvoor of afdekkende puin- of sedimentlagen weg te nemen tot het bovenste niveau waarop archeologische sporen zichtbaar worden. <br /><br />De diepte van het eerste opgravingsvlak wordt door de vergunninghouder gekozen op basis van prospectiegegevens of ervaring met de plaatselijke bodemopbouw en op basis van de vraagstelling/doelstelling van de bijzondere voorwaarden. <br /><br />De voorwaarden, vermeld in het tweede lid, gelden ook voor de diepte van elk nieuw, daarna aan te leggen opgravingsvlak, waarbij de informatie uit de al aangelegde vlakken mee in rekening wordt gebracht.<br /><br />§ 3. Elk opgravingsvlak wordt leesbaar gemaakt door het op te schaven met de schop of, bij bepaalde sporen, door het vlak te zetten met het truweel, het Amerikaans schopje of de troffel. <br /><br />
+...
 
 ### ART. 9.
 
-Het meetsysteem wordt overgebracht in de werkput wat leidt tot een afgeleid meetsysteem. <br /><br />
+...
 
 ### ART. 10.
 
-§ 1. Als resten van vindplaatsen of vondstenconcentraties zich in de bouwvoor bevinden, worden de vondsten uit dat bovenste bodemdeel geregistreerd en onderzocht. In dat geval wordt de bouwvoor behandeld als een spoor. <br /><br />Als het pakket grond dat onder de bouwvoor verwijderd wordt voor er sporen in situ worden aangetroffen, belangrijke informatie bevat over de prehistorische en historische ontwikkeling van het terrein, worden aangepaste staalnamen en registraties toegepast. In dergelijke gevallen worden de afdekkende pakketten behandeld als een spoor.<br /><br />§ 2. Vondsten die aangetroffen worden bij het aanleggen van het opgravingsvlak worden behandeld overeenkomstig de bepalingen van onderafdeling 6.<br /><br />Als er bij het aanleggen van het opgravingsvlak stalen genomen worden, gebeurt dat overeenkomstig de bepalingen van onderafdeling 7.<br /><br />Vondsten en sporen worden daarna ingemeten met een minimale nauwkeurigheid van 1 centimeter.<br /><br />§ 3. De hoogte van elk vlak wordt gemeten en vastgelegd.<br /><br />Hoogtematen worden uitgedrukt in hele centimeters + (plus) of - (min) Tweede Algemene Waterpassing, of in andere waarden uit een lokaal stelsel die achteraf worden omgerekend. <br /><br />Hoogtes van vlakken en sporen worden gewaterpast met minimaal één meting per 25 m2. De minimale nauwkeurigheid van de hoogtemetingen bedraagt 1 centimeter. Hoogtes van vlakken en sporen worden op het vlakplan aangeduid op de locatie van de meting. <br /><br />Als laagsgewijs gewerkt wordt in plaats van vlaksgewijs, worden meer hoogtemetingen uitgevoerd zodat het verloop van pakketten kan worden gereconstrueerd.<br /><br />De diepte van lagen, sporen en structuren wordt geregistreerd ter hoogte van de profielen.<br /><br />Bij werkputten zonder sporen worden om de 5 meter hoogtemetingen genomen.<br /><br />
+...
 
 ### ART. 11.
 
-§ 1. Elk opgravingsvlak wordt zo snel mogelijk na het schoonmaken en vóór het uitzetten van het meetsysteem in de werkput bij optimale belichting op foto vastgelegd, zo mogelijk vanaf grote hoogte, eenmaal voor het inkrassen van de sporen, en eenmaal daarna. Bij zeer grote werkputten gebeurt het vastleggen op foto in delen. Daarnaast worden herkenbare structuren zoals gebouwplattegronden, eventueel aangeduid met piketten, op overzichtsfoto's vastgelegd. <br /><br />§ 2. Op elke foto komt het volgende voor : <br />1° een identificatie van het beeld door middel van een fotobordje met daarop de projectcode, het nummer van de werkput en het vlaknummer. Als identificatie door een fotobordje niet mogelijk is, is de fotolijst, die de projectcode, het nummer van de werkput, het vlaknummer en het digitale fotonummer vermeldt, de enige identificatiebron;<br />2° een maatstok van minimaal één meter en bij voorkeur twee meter, zo gelegd dat de lengte en de diepte van de werkput kunnen worden bepaald;<br />3° een noordpijl.<br /><br />Daarnaast worden identieke versies van bepaalde foto's zonder de identificatie- en oriëntatiegegevens genomen voor publicatie.<br /><br />Foto's worden opgeslagen als Tiff uncompressed of JPEG2000 formaten. <br /><br />De foto moet afdrukbaar zijn op A6, Deutsches Institut für Normungnorm formaat, met een minimumresolutie van 300 dpi.<br /><br />
+...
 
 ## Onderafdeling 4 Onderzoeken van sporen
 
 ### ART. 12.
 
-Elk opgravingsvlak en de daarin aanwezige sporen worden handmatig opgeschoond en ingekrast. Daarbij : <br />1° worden de grondsporen per werkput worden goed onderscheiden;<br />2° worden de relaties tussen sporen worden vastgesteld en vastgelegd;<br />3° wordt de onderlinge, relatieve chronologie van de sporen vastgesteld, voor zover dat mogelijk is. <br /><br />Vondsten die worden aangetroffen bij het opschonen en inkrassen, worden ingezameld en van een vondstnummer voorzien. <br /><br />De vergunninghouder controleert de accuraatheid waarmee de handelingen, vermeld in het eerste en het tweede lid, worden uitgevoerd.<br /><br />
+...
 
 ### ART. 13.
 
-Sporen worden per werkput doorlopend genummerd. Grondsporen die op een volgend opgravingsvlak terugkeren, behouden hetzelfde spoornummer.<br /><br />Een opgravingsvlak in een werkput wordt weergegeven in een of meer vlakplannen.<br /><br />Sporen worden in vlak op het vlakplan geregistreerd op schaal 1 : 50 of nauwkeuriger, afhankelijk van de aard van de vindplaats en het spoor. Bij projecten met een complexe stratigrafie is de schaal minstens 1 : 20. <br /><br />Van elk spoor wordt minstens één hoogtemeting genomen, overeenkomstig de specificaties, vermeld in artikel 10, § 3, en één foto, overeenkomstig de specificaties, vermeld in artikel 11, § 2. Het spoornummer wordt aan het fotobordje toegevoegd.<br /><br />
+...
 
 ### ART. 14.
 
-Elk vlakplan met registratie van de sporen bevat de volgende gegevens : <br />1° de vindplaatsnaam met vermelding van gemeente en toponiem;<br />2° de projectcode;<br />3° het herkenningsnummer waaronder de tekening in de tekeningenlijst is gedocumenteerd;<br />4° de datum waarop de tekening is aangemaakt of beëindigd;<br />5° de naam van de persoon die de tekening heeft vervaardigd of, als de tekening door meerdere personen is vervaardigd, de namen met vermelding van het deel waarvoor de betrokken personen verantwoordelijk waren; <br />6° het nummer van de werkput;<br />7° eventueel het sectornummer;<br />8° het vlaknummer, dat is het nummer van het getekende niveau binnen een werkput;<br />9° de schaal waarop de tekening vervaardigd is of een schaalstok;<br />10° een noordpijl;<br />11° de legende voor symbolen en afkortingen, waarvan de vorm vrij gekozen wordt;<br />12° de aflijning van de sporen in hun onderlinge context, met vermelding van de spoornummers;<br />13° de vondst- en staalnummers;<br />14° de positie en oriëntaties in het vlak van de coupes die door de sporen aangelegd zullen worden;<br />15° de hoogtemetingen na het aanleggen van het opgravingsvlak;<br />16° referentiepunten ten opzichte van de vaste meetpunten of het uitgezette meetgrid, noodzakelijk om het grondplan van een werkput binnen de hele opgraving te situeren.<br /><br />De vergunninghouder controleert en ondertekent het vlakplan.<br /><br />
+...
 
 ### ART. 15.
 
-§ 1. Elk vlakplan voldoet aan de volgende technische specificaties : <br />1° de verschillende onderdelen van de getekende sporen of het getekend vlak kunnen door het gebruik van kleuren of symbolen onderscheiden worden;<br />2° de drager van de tekening en de gebruikte kleurmaterialen zijn waterbestendig. <br /><br />§ 2. Bij analoge tekeningen wordt materiaal gekozen dat op het ogenblik van de opgraving de langste bewaring garandeert.<br />De kunststoffen drager van de tekening voldoet aan de volgende voorwaarden : <br />1° maatvast millimeterfolie met een zekere tolerantie 'krimp- en rekvrij';<br />2° weerbestendig;<br />3° weekmakervrij;<br />4° maximaal A0 en minimaal A4 Deutsches Institut für Normung-norm-formaat.<br /><br />§ 3. Bij digitale tekeningen wordt elke dag een back-up of hard copy gemaakt van tekeningen die direct digitaal zijn opgenomen in het veld. Hard copy's worden op schaal 1 : 50 of 1 : 20 gemaakt. <br /><br />De hard copy is steeds bij het couperen van sporen op het terrein aanwezig.<br /><br />Back-ups worden gemaakt op een verantwoorde manier, onder meer op regelmatige tijdstippen en telkens als het databestand verandert, en op minstens twee verschillende fysieke dragers die op verschillende plaatsen worden bewaard. <br /><br />Digitale tekeningen voldoen aan dezelfde kwaliteitseisen als analoge tekeningen. Het digitale bestand van de veldtekening is een vectorbestand.<br /><br />De tekeningen gaan vergezeld van metagegevens.<br /><br />De grondsporen worden natuurgetrouw afgelijnd.<br /><br />§ 4. Als het voor de interpretatie nodig is om tekeningen in te kleuren, wordt de tekening natuurgetrouw ingekleurd. Een inkleuring gebeurt op het terrein. <br /><br />
+...
 
 ### ART. 16.
 
-§ 1. Sporen worden steeds beschreven aan de hand van het sporenformulier. <br /><br />Het sporenformulier vermeldt voor niet-complexe sporen, zoals paalgaten of greppeltracés, minstens de volgende zaken : <br />1° de vindplaatsnaam met vermelding van gemeenten en toponiem; <br />2° de projectcode;<br />3° het herkenningsnummer waaronder het spoor in de sporenlijst en op de vlak-, putwandprofiel- en coupetekeningen is gedocumenteerd;<br />4° de datum waarop een spoor wordt gedocumenteerd;<br />5° de naam van de persoon die het spoor beschrijft; <br />6° het nummer van de werkput;<br />7° het vlaknummer;<br />8° de verwijzing naar een profiel als een spoor daarop zichtbaar is;<br />9° een eventuele verwijzing naar een detailtekening van het spoor in een vlak, op schaal 1 : 20 of nauwkeuriger;<br />10° een eventuele verwijzing naar een detailtekening van een coupe van het spoor, op schaal 1 : 20 of nauwkeuriger;<br />11° de beschrijving van het spoor, met inbegrip van de vorm, de afmetingen, de homogene of heterogene aard van de vulling, de kleur en textuur ervan, de spoorrelaties in de vorm van een Harrismatrix en spoorassociaties;<br />12° de aanduiding of een spoor al dan niet duidelijk afgelijnd is;<br />13° als door het spoor een coupe is gemaakt, een stratigrafische beschrijving op basis van die coupe; <br />14° een korte interpretatie van het spoor;<br />15° de inventaris van de vondst- en staalnummers uit dat spoor.<br /><br />Als de persoon die het spoor beschrijft, niet de vergunninghouder is, controleert de vergunninghouder het sporenformulier.<br /><br />§ 2. Complexe sporen, die bestaan uit structuren zoals waterputten of muurtracés, grachttracés, graven met inhoud, en gestructureerde deposities van dieren- en plantenresten, vormen het onderwerp van een meer gedetailleerde analyse.<br /><br />Complexe sporen worden in detail, op schaal 1 : 20 of nauwkeuriger, in het vlak getekend, op een aparte tekening. Als het mogelijk is, zullen de sporen, vermeld in het eerste lid, onderzocht worden door de aanleg van één of meer coupes waarbij stratigrafisch wordt opgegraven. <br /><br />
+...
 
 ### ART. 17.
 
-§ 1. Voor inhumatiegraven zonder vondsten in situ, inzonderheid grafgiften in het graf of andere begeleidende rituele deposities, en met de aflijning van een kuil als enige verwijzing naar de grafstructuur, geldt dat de ligging van het skelet schematisch wordt aangeduid op het vlakplan. <br /><br />§ 2. Inhumatiegraven met vondsten in situ of met een meer uitgewerkte grafstructuur, zoals bij vele antropomorfe graven, worden afzonderlijk in detail geregistreerd op een vlakplan op schaal 1 : 10. <br /><br />Als de graven, vermeld in het eerste lid, vlaksgewijze verlaagd worden, wordt de verlaging centimeter per centimeter uitgevoerd waarbij meerdere vlakplannen gemaakt worden. <br /><br />Als de graven, vermeld in het eerste lid, gecoupeerd worden, wordt de coupe aangelegd in combinatie met de afgraving laagje voor laagje, eerst in de eerste helft, dan in de tweede helft van de coupe, waarbij een profiel getekend en gefotografeerd wordt. <br /><br />Naast de registratie op het sporenformulier worden vondsten beschreven op het vlakplan.<br /><br />§ 3. Crematiegraven worden steeds gecoupeerd en op foto vastgelegd.<br /><br />§ 4. Sporen waarvan het bestaan alleen nog aangetoond wordt door de vondsten die er zich in bevinden, worden geregistreerd.<br /><br />§ 5. Naast de graven worden alle opvallende constellaties of concentraties van vondsten in detail apart ingetekend en op duidelijke foto's vastgelegd. <br /><br />De vondsten worden ingezameld, gedetailleerd uitgeprepareerd en van een apart vondstnummer voorzien, in voorkomend geval na de aanleg van één of meer coupes, overeenkomstig de bepalingen van onderafdeling 5, of door een gedetailleerde en vlaksgewijze opgraving. <br /><br />Eenvoudige krengbegravingen kunnen geregistreerd worden zoals inhumatiegraven zonder vondsten in situ en met de aflijning van een kuil als enige verwijzing naar de grafstructuur.<br /><br />
+...
 
 ### ART. 18.
 
-Op het einde van het sporenonderzoek wordt steeds een Harrismatrix opgesteld die de chronologische opeenvolging van de eenheden van stratificatie in kaart brengt.<br /><br />
+...
 
 ## Onderafdeling 5 Onderzoeken van coupes van sporen
 
 ### ART. 19.
 
-§ 1. Sporen worden altijd gecoupeerd, met uitzondering van<br />1° eenvoudige inhumatiegraven, overeenkomstig artikel 17, § 1; <br />2° solide structuren zoals muren of stenen vloeren.<br /><br />Als twijfel heerst over hun betekenis, worden ook recente en natuurlijke sporen gecoupeerd.<br /><br />§ 2. De vergunninghouder bepaalt het aantal noodzakelijke coupes per spoor, zodat de chronologische opbouw en structuur van het grondspoor duidelijk zijn.<br /><br />Complexe sporen kunnen op meerdere plaatsen gecoupeerd worden.<br /><br />Sporen kunnen in segmenten gecoupeerd worden onder uitsparen van een kruisprofiel, dit is de kwadrantenmethode.<br /><br />§ 3. De diepte tot waar gecoupeerd wordt, hangt af van de mogelijkheden op het terrein, maar gaat steeds een stuk dieper dan de onderkant van het spoor en bereikt in het ideale geval de natuurlijke bodem in situ, tenzij in de bijzondere voorwaarden van de vergunning de maximumdiepte bepaald wordt. <br /><br />Als onder een spoor met het spoor geassocieerde bodemvormingsprocessen te observeren zijn, worden deze bodemvormingsprocessen onderzocht en geregistreerd.<br /><br />§ 4. De exacte oriëntatie en lengte van de coupe wordt steeds aangeduid op het vlakplan. Bij een digitale tekening wordt ook de coupelijn ingemeten. <br /><br />Bij een sporenconstellatie hebben de coupes dezelfde oriëntatie. <br /><br />Het vlakplan is steeds op het terrein aanwezig.<br /><br />
+...
 
 ### ART. 20.
 
-§ 1. Alle coupes worden opgeschoond, getekend en beschreven, tenzij schriftelijk beargumenteerd wordt waarom dat niet wordt gedaan. <br /><br />Elke coupe wordt op foto vastgelegd overeenkomstig de specificaties, vermeld in artikel 11, § 2. Het spoornummer wordt aan het fotobordje toegevoegd.<br /><br />§ 2. Vondsten die aangetroffen worden bij het aanleggen van de coupes, worden bij het verder opgraven van het spoor per stratigrafische eenheid verzameld, voor zover dat mogelijk is.<br /><br />Als er bij het aanleggen van de coupes stalen genomen worden, gebeurt dat overeenkomstig de bepalingen van onderafdeling 7. <br /><br />§ 3. Het opgraven van sporen in het geheel gebeurt stratigrafisch of in diepteniveaus. <br /><br />
+...
 
 ### ART. 21.
 
-Na schaven wordt van elke coupe een coupetekening gemaakt op schaal 1 : 20 of nauwkeuriger, overeenkomstig de specificaties in artikel 15. <br /><br />Elke coupetekening vermeldt minstens de volgende gegevens : <br />1° vindplaatsnaam, met vermelding van gemeente en toponiem;<br />2° projectcode;<br />3° het herkenningsnummer waaronder de tekening in de tekeningenlijst is gedocumenteerd;<br />4° de datum waarop een tekening is aangemaakt of beëindigd;<br />5° de naam van de persoon die de tekening heeft vervaardigd of, als de tekening door meerdere personen is vervaardigd, de namen met vermelding van de delen waarvoor de betrokken personen verantwoordelijk waren; <br />6° het nummer van de werkput;<br />7° het vlaknummer, dat is het nummer van het getekend niveau binnen de werkput;<br />8° het spoornummer; <br />9° de schaal waarop de tekening vervaardigd is of een schaalstok;<br />10° een noordpijl;<br />11° de legende voor symbolen en afkortingen, waarvan de vorm vrij gekozen wordt;<br />12° een registratie van de stratigrafie of vulling van het gecoupeerde spoor.<br /><br />De vergunninghouder controleert en ondertekent de coupetekening.<br /><br />
+...
 
 ### ART. 22.
 
-Als sporen een stratigrafie vertonen, wordt de Harrismatrix daarmee aangevuld. <br /><br />
+...
 
 ## Onderafdeling 6 Vondsten
 
 ### ART. 23.
 
-Vondsten worden aangetroffen <br />1° bij het aanleggen en onderzoeken van een opgravingsvlak;<br />2° bij het aanleggen en onderzoeken van coupes;<br />3° bij het opschonen van putwandprofielen.<br /><br />Vondsten worden met de hand verzameld waarbij compleetheid nagestreefd wordt.<br /><br />Vondsten worden nooit op het terrein achtergelaten. <br /><br />
+...
 
 ### ART. 24.
 
-Bij opvallende constellaties of concentraties van vondsten wordt een fijne opgravingstechniek toegepast. <br /><br />Complexe vondstensembles worden met truweel, spatel en borstel blootgelegd, en schoongemaakt. <br /><br />Sporen met grote hoeveelheden vondsten die te klein of te fragiel zijn om met de hand in te zamelen, zoals plantaardige macroresten, microfauna, artisanaal afval, vuursteensplinters of andere kleine vondsten worden als dat mogelijk is in hun geheel uitgezeefd op het terrein of er wordt een staal van genomen voor verdere verwerking in het laboratorium of depot. <br /><br />
+...
 
 ### ART. 25.
 
-De bij het zeven gebruikte maaswijdte bedraagt 1 millimeter of kleiner. Als vondsten van kleine dimensies opgemerkt worden, wordt steeds een staal genomen, overeenkomstig de bepalingen van onderafdeling 7.<br /><br />
+...
 
 ### ART. 26.
 
-§ 1. Vondsten worden steeds verzameld per spoor, als dat homogeen is, of per laag binnen een spoor. <br /><br />Een uitzondering op de regel dat een spoor in zijn geheel wordt opgegraven, kan gemaakt worden op basis van de vondstendensiteit of -aard, en de vraagstellingen, bepaald in de bijzondere voorwaarden van de vergunning. <br /><br />Overeenkomstig artikel 10, § 1, kunnen de bouwvoor, puinafzettingen of afdekkende grondpakketten als spoor worden beschouwd.<br /><br />§ 2. In sporen en lagen met een al dan niet ogenschijnlijk homogene vulling die zich in het opgravingsvlak over grote oppervlakte uitstrekken, worden vondsten in vakken ingezameld en genummerd, en binnen een vak per laag of diepteniveau. <br /><br />De vakken, vermeld in het eerste lid, vertonen maximaal één of meer afmetingen van 5 meter.<br /><br />§ 4. Als in een coupe geen stratigrafische indeling zichtbaar is, worden de vondsten in diepteniveaus ingezameld.<br /><br />De maximale diepte per te onderscheiden niveau bedraagt 30 centimeter. Bij sporen met een diepte van minder dan 30 centimeter wordt een fijnere opdeling met minstens drie diepteniveaus gehanteerd.<br /><br />Als zich in brede lagen of diepe coupes constellaties of concentraties van vondsten voordoen, dan worden die in hun samenhang geborgen en genummerd. <br /><br />
+...
 
 ### ART. 27.
 
-§ 1. In bepaalde gevallen, zoals bij complexe grafinventarissen of concentraties van lithische artefacten, worden de vondsten die zich in situ bevinden, driedimensionaal ingemeten. De vergunninghouder kan beslissen deze vondsten niet driedimensionaal in te meten. De beslissing waarom de inmeting niet driedimensionaal gebeurt, wordt inhoudelijk verantwoord in de dagrapporten. <br /><br />Voor lithische artefacten kan ook het uitzeven van het sediment in een gridsysteem als verzamelwijze worden gebruikt. <br /><br />§ 2. In sommige gevallen, zoals bij urngraven, is het op basis van de bewaringstoestand of de wetenschappelijke vraagstelling nodig vondsten of vondstensembles in blok te lichten. <br /><br />
+...
 
 ### ART. 28.
 
-§ 1. In principe worden alle vondsten op het terrein ingezameld, ook vondsten uit zogenaamde recente verstoringen. <br /><br />Bij de vondstverwerking kan nadien altijd een selectie uitgevoerd worden. <br /><br />§ 2. Alleen onder druk van de werkomstandigheden kunnen vondsten uit de bouwvoor en uit zogenaamde recente verstoringen door een statistisch verantwoorde staalnamestrategie selectief ingezameld worden. <br /><br />De beslissing om vondsten selectief in te zamelen wordt verantwoord in de dagrapporten, zoals vermeld in artikel 58.<br /><br />
+...
 
 ### ART. 29.
 
-§ 1. In de volgende twee gevallen wordt een skeletformulier opgesteld : <br />1° bij het opgraven van inhumatiegraven met bewaarde menselijke resten of met sporen van onverbrande, bewaarde menselijke resten;<br />2° bij het aantreffen van botmateriaal in anatomisch verband.<br /><br />De entiteit die door de Vlaamse Regering belast wordt met wetenschappelijk onderzoek inzake onroerend erfgoed stelt een modelformulier, het zogenaamde skeletformulier, ter beschikking, dat gebruikt kan worden voor de registratie van de gegevens over menselijke resten.<br /><br />§ 2. Menselijke resten die niet in anatomisch verband worden aangetroffen, zoals geïsoleerde botten in andere graven of resten in knekelputten, worden steeds zorgvuldig ingezameld. In dat geval kan een skeletformulier ingevuld worden.<br /><br />
+...
 
 ### ART. 30.
 
-§ 1. Bij houtig materiaal wordt er een onderscheid gemaakt tussen : <br />1° constructiehout;<br />2° mobiele artefacten in hout;<br />3° brand- of stookhout. <br /><br />§ 2. Constructiehout wordt op het terrein gedetailleerd op foto vastgelegd, getekend en beschreven. Vervolgens wordt een staal genomen voor houtsoortbepaling en dendrochronologische datering.<br />Constructiehout wordt niet bijgehouden, behalve als het bijzondere bewerkingssporen vertoont.<br /><br />§ 3. Artefacten in hout worden verpakt voor conservatie en verdere studie. <br /><br />§ 4. Brand- of stookhout, zoals houtskool, wordt via zeefstalen verzameld.<br /><br />
+...
 
 ### ART. 31.
 
-§ 1. Geologisch materiaal dat bewerkingssporen vertoont, wordt ingezameld. <br />In geval van bouwmaterialen in natuursteen, baksteen of ander geologisch materiaal, gelden de volgende inzamelregels : <br />1° gestandaardiseerd vervaardigde bouwmaterialen, zoals gekapte natuurstenen, bakstenen, of dakpannen : staalname;<br />2° extra bewerkte bouwmaterialen, zoals decoratieve architectuur, of natuursteen, baksteen of dakpannen met tekens of sporen die met productieproces verband houden : systematisch bijhouden; <br />3° een concentratie van zeer fragmentair materiaal, zoals bouwpuin : registratie van de laag en inzameling van enkele representatieve exemplaren.<br /><br />§ 2. Bewerkt of onbewerkt geologisch materiaal dat niet van nature in het spoor thuishoort, wordt ingezameld.<br /><br />
+...
 
 ### ART. 32.
 
-§ 1. Bij vondsten met een metalen component wordt een metaaldetector gebruikt. <br /><br />§ 2. Elk aangelegd vlak, elke aangelegde coupe en elk putwandprofiel wordt met een metaaldetector geprospecteerd, zodat vondsten gelokaliseerd worden voordat zij tevoorschijn komen. <br /><br />§ 3. De storten van de opgraving worden met de metaaldetector doorzocht. <br /><br />Het stort van de bouwvoor kan achterwege worden gelaten als er bij het aanleggen van het eerste vlak geen vondsten in werden aangetroffen. <br /><br />De storten uit de sporen worden steeds gecontroleerd. <br /><br />Het eerste en het tweede lid gelden niet voor vindplaatsen die duidelijk alleen resten uit de steentijden bevatten.<br /><br />
+...
 
 ### ART. 33.
 
-Als zich op het gebied van vondstverzameling onvoorziene omstandigheden voordoen en nieuwe beslissingen worden genomen, wordt een overlegmoment met materiaalspecialisten georganiseerd.<br /><br />
+...
 
 ### ART. 34.
 
-Als vondsten conserverende behandelingen in situ of kort na het bergen ervan nodig hebben, worden die behandelingen steeds in overleg met een specialist in conservatie uitgevoerd. <br /><br />Vondsten die zeer fragiel of onstabiel lijken, worden onmiddellijk opnieuw afgedekt tot er advies is ingewonnen over het inzamelen en bewaren van dat vondstmateriaal.<br /><br />
+...
 
 ### ART. 35.
 
-Vondsten worden gereinigd behalve als dat informatieverlies betekent, zoals bij minerale of organische residu's of opschriften.<br /><br />Bij het hanteren van vondsten wordt er steeds van uitgegaan dat de vondst kwetsbaar is.<br /><br />Vondsten worden niet bij de rand, een handvat of zwakke onderdelen gehanteerd. <br /><br />Er wordt vermeden dat vondsten van buigzaam materiaal vervormd worden. <br /><br />
+...
 
 ### ART. 36.
 
-§ 1. Vondsten worden op zo'n manier verpakt dat ze tijdens het transporteren en het tijdelijk opslaan van het materiaal niet beschadigd kunnen worden. <br /><br />Er wordt bij het verpakken steeds gebruik gemaakt van inerte materialen die een stofarme en lichtvrije omgeving bewerkstelligen. De verpakking is steeds goed passend. <br /><br />Er worden niet te veel zware objecten in één verpakkingseenheid verpakt. Als dat mogelijk is, bedraagt het maximumgewicht per verpakkingseenheid niet meer dan 10 kg. <br /><br />§ 2. Fragiele vondsten worden apart verpakt en duidelijk gemarkeerd. Bij kwetsbare en snel afbreekbare vondsten benaderen de omstandigheden van bewaring die van het spoor waaruit de vondst komt.<br /><br />§ 3. Vondsten uit droge contexten worden droog bewaard. <br /><br />§ 4. Vondsten in organisch materiaal uit natte contexten worden altijd nat gehouden, tot aan de eventuele conservatiebehandeling. Ze worden donker en koel bewaard. De ideale temperatuur is 4 o Celsius. In de verpakking zit zo weinig mogelijk lucht. Die aanpak geldt ook voor het zachtgebakken aardewerk en het glas. <br /><br />§ 5. Vondsten in hardgebakken aardewerk, metaal, steen en been, en onbewerkt dieren- of mensenbot, afkomstig uit vochtige contexten, worden zeer geleidelijk en onder gecontroleerde condities gedroogd. <br /><br />§ 6. Metaalvondsten worden gedroogd onder gecontroleerde condities en na drogen verpakt in een luchtdicht afgesloten verpakking met ingesloten silicagel. Metaalsoorten worden apart gestockeerd in luchtdichte dozen met silicagel en vochtigheidsstrip. <br /><br />§ 7. Vondsten worden zo snel mogelijk verwijderd van het terrein.<br /><br />
+...
 
 ### ART. 37.
 
-Bij verpakte vondsten wordt een vondstkaartje met de volgende technische kenmerken gevoegd : <br />1° het materiaal van het kaartje is weer- en temperatuurbestendig, zuurvrij en niet scheurbaar;<br />2° de opdruk van het kaartje is kras-, licht- en waterbestendig;<br />3° het kaartje wordt ingevuld met een lichtecht en waterbestendig medium of met een speciaal potlood voor een kunststofkaartje;<br />4° het kaartje is onlosmakelijk verbonden met de vondst.<br /><br />Het vondstkaartje bevat de volgende gegevens : <br />1° de vindplaatsnaam, met vermelding van gemeente en toponiem, en het jaartal;<br />2° de projectcode;<br />3° het nummer van de werkput;<br />4° het nummer van het opgravingsvlak;<br />5° het sectornummer en het vaknummer;<br />6° het spoornummer;<br />7° het vondstnummer of inventarisnummer, of verschillende nummers als er verschillende ensembles apart werden gehouden uit voorgaande entiteiten door opdelingen in vlak of diepteniveaus, of uit samenhorende vondsten;<br />8° de verzamelwijze;<br />9° de maaswijdte bij zeven;<br />10° de aanduiding of het gaat om een vondst of een staal;<br />11° de naam van persoon die de vondst heeft ingezameld; <br />12° de datum waarop de vondst werd ingezameld.<br /><br />Het vondstkaartje kan bovendien nog de volgende gegevens bevatten : <br />1° het nummer van de coupe, het profiel of het vlakplannummer;<br />2° het nummer van de stratigrafische laag als de vondst komt uit een coupe door een spoor; <br />3° de aard van het spoor of de context; <br />4° de xyz-coördinaten van de plaats van de vondst,<br />5° een identificatie van de vondstcategorie, zoals aardewerk, glas, bot, plantaardig materiaal of andere.<br /><br />
+...
 
 ## Onderafdeling 7 Stalen
 
 ### ART. 38.
 
-Het is de verantwoordelijkheid van de vergunninghouder om te beslissen of bij de staalname met een specialist contact wordt opgenomen.<br /><br />
+...
 
 ### ART. 39.
 
-Als bij het onderzoek van een spoor concentraties van artefacten, plantaardige, dierlijke of menselijke resten met kleine dimensies worden opgemerkt, worden stalen genomen.<br /><br />De stalen worden genomen na het aanleggen van een coupe. <br /><br />
+...
 
 ### ART. 40.
 
-§ 1. Per stratigrafische eenheid wordt een volume van 10 liter gelicht en verpakt in een plastic recipiënt met deksel. <br /><br />§ 2. Als sporen van een grote vlakdekkende omvang worden onderzocht, worden per vak apart stalen genomen. <br /><br />De vakken vertonen maximaal één of meer afmetingen van 5 meter. <br /><br />Als in een coupe geen stratigrafische indeling zichtbaar is, worden de stalen in diepteniveaus ingezameld. <br /><br />De maximale diepte per te onderscheiden niveau bedraagt 30 centimeter. Bij sporen met een diepte van minder dan 30 centimeter wordt een fijnere opdeling met minstens drie diepteniveaus gehanteerd.<br /><br />§ 3. Als grote concentraties van consumptieresten of artisanaal afval, zelfs van grote dimensie, worden aangetroffen, zoals in beerputten, wordt de staalname uitgebreid. Paragraaf 2 is van overeenkomstige toepassing.<br /><br />Een beduidend deel van de vulling van dergelijke sporen kan als staal ingezameld worden en de vulling kan in zijn geheel bemonsterd worden. <br /><br />
+...
 
 ### ART. 41.
 
-§ 1. Als de kans groot is dat de sporen microscopisch plantaardig materiaal bevatten, zoals pollen of diatomeeën, worden stalen genomen.<br /><br />De sporen vermeld in het eerste lid worden bemonsterd door middel van pollenbakken, waarbij de staalname de volledige dieptestratigrafie beslaat, met inbegrip van een deel van het sediment eronder en erboven. <br /><br />Op de pollenbak wordt een oriëntatiepijl (boven-onder) aangebracht. Het geheel wordt in plastic verpakt en koel bewaard. <br /><br />De staalname wordt op de coupetekening gelokaliseerd. <br /><br />De staalname voor microscopisch plantaardig materiaal wordt ook toegepast op zogenaamde natuurlijke deposities. <br /><br />§ 2. Als houtig materiaal op het terrein achterblijft, worden stalen genomen. <br /><br />Bij vondsten die in aanmerking komen voor dendrochronologisch onderzoek, wordt een stamschijf gezaagd, en ingepakt of afgedekt met plastic om uitdroging te vermijden. <br /><br />Bij andere stukken hout kan een klein fragment worden afgebroken om later houtdeterminatie toe te laten.<br /><br />§ 3. Staalnames voor C14-datering kunnen door de archeoloog worden uitgevoerd. <br /><br />Stalen voor andere dateringstechnieken, zoals TL- of OSL-dateringen, worden genomen in overleg met een specialist.<br /><br />
+...
 
 ### ART. 42.
 
-Elk staal gaat vergezeld van een staalkaartje, dat dezelfde technische kenmerken heeft als een vondstkaartje. <br /><br />Het staalkaartje bevat de volgende gegevens : <br />1° de vindplaatsnaam met vermelding van gemeente en toponiem;<br />2° de projectcode;<br />3° het nummer van de werkput;<br />4° het nummer van het opgravingsvlak;<br />5° het sectornummer en het vaknummer;<br />6° het spoornummer; <br />7° het staalnummer voor elk staal. Ook stalen uit dezelfde stratigrafische entiteit worden steeds apart genummerd en verwerkt;<br />8° het doel van de staalname, zoals recuperatie kleine artefacten, klein bot, klein plantaardig materiaal, pollen, diatomeeën, micromorfologisch onderzoek, chemische analyse, C14-dateringsonderzoek, dendrochronologie of andere;<br />9° de verzamelwijze;<br />10° de maaswijdte bij zeven;<br />11° de aanduiding of het gaat om een vondst of een staal;<br />12° de naam van persoon die het staal heeft ingezameld; <br />13° de datum waarop het staal werd ingezameld.<br /><br />Het staalkaartje kan bovendien nog de volgende gegevens bevatten : <br />1° het nummer van de coupe, het profiel of het vlakplannummer;<br />2° het nummer van de stratigrafische laag als het staal komt uit een coupe door een spoor; <br />3° de aard van het spoor of de context; <br />4° de xyz-coördinaten van de plaats van het staal;<br />5° de aanduiding of het staal op foto is vastgelegd.<br /><br />
+...
 
 ### ART. 43.
 
-Als stalen op het terrein worden gezeefd, wordt een maaswijdte van 1 millimeter gebruikt. Bij het residu of bij elke fractie daarvan wordt een kopie van het staalkaartje gevoegd.<br /><br />
+...
 
 ## Onderafdeling 8 Putwandprofielen
 
 ### ART. 44.
 
-Putwandprofielen worden voor zover dat mogelijk is, geanalyseerd als in de werkput het laatste opgravingsvlak is afgewerkt. <br /><br />Bij diepe werkputten of als het risico bestaat dat de wanden instorten, beslist de vergunninghouder de putwandprofielen in dieptedelen te analyseren en in te tekenen. <br /><br />De vergunninghouder kan beslissen om een representatief lengtedeel van een profiel te registreren. De beslissing waarom dit gebeurt, wordt inhoudelijk verantwoord in de dagrapporten.<br /><br />
+...
 
 ### ART. 45.
 
-Elke putwandprofiel en de daarin aanwezige sporen worden handmatig opgeschoond. Daarbij worden : <br />1° de sporen per putwandprofiel goed onderscheiden;<br />2° de relaties tussen sporen vastgesteld en vastgelegd;<br />3° de onderlinge, relatieve chronologie van de sporen vastgesteld, voor zover dat mogelijk is. <br /><br />De vergunninghouder controleert minstens die handelingen, vermeld in het eerste lid. <br /><br />
+...
 
 ### ART. 46.
 
-Sporen of lagen binnen een spoor worden na opschoning ingemeten met een minimale nauwkeurigheid van 2 centimeter ten opzichte van een referentielijn die waterpas is. <br /><br />Sporen of lagen worden geïnterpreteerd in samenhang met de interpretaties van de sporen geregistreerd in de vlakken. <br /><br />Bij het aantreffen van complexe stratigrafieën kan een specialist worden geraadpleegd. <br /><br />
+...
 
 ### ART. 47.
 
-De onderzochte putwandprofielen krijgen een naam als N-, Z-, O- of W-profiel van een werkput(nummer) en worden geregistreerd op het vlakplan. <br /><br />De profieltekening wordt gemaakt overeenkomstig de specificaties in artikel 14, op schaal 1 : 20 of nauwkeuriger en wordt genummerd.<br /><br />
+...
 
 ### ART. 48.
 
-Elke profieltekening met registratie van de sporen bevat de volgende gegevens : <br />1° de vindplaatsnaam met vermelding van gemeente en toponiem;<br />2° de projectcode;<br />3° het herkenningsnummer waaronder de tekening in de tekeningenlijst is gedocumenteerd;<br />4° de datum waarop de tekening is aangemaakt of beëindigd;<br />5° de naam van de persoon die de tekening heeft vervaardigd of, als de tekening door meerdere personen is vervaardigd, de namen met vermelding van de delen waarvoor de betrokken personen verantwoordelijk waren; <br />6° het nummer van de werkput;<br />7° de aanduiding als N-, Z-, O- of W-profiel van werkputnummer;<br />8° de schaal waarop de tekening vervaardigd is of een schaalstok;<br />9° de legende voor symbolen en afkortingen, waarvan de vorm vrij gekozen wordt.<br /><br />De vergunninghouder controleert en ondertekent de profieltekening.<br /><br />
+...
 
 ### ART. 49.
 
-De sporenformulieren van bestaande sporen worden aan de hand van de informatie uit de putwandprofielen aangevuld. <br /><br />Nieuwe sporenformulieren en spoornummers worden toegevoegd als op de putwandprofielen sporen ontdekt worden die niet in de vlakken zijn waargenomen.<br /><br />
+...
 
 ### ART. 50.
 
-§ 1. Elk putwandprofiel wordt voor en na inkrassen op foto vastgelegd, overeenkomstig de specificaties, vermeld in artikel 11, § 2. De aanduiding als N-, Z-, O- of W-profiel, overeenkomstig artikel 47, eerste lid, wordt aan het fotobordje toegevoegd. De opname gebeurt zo mogelijk met overzichtsfoto's, eventueel vanuit een schuine hoek, met elkaar overlappende deelopnames, bij voorkeur vanuit een rechte hoek, en met foto's van eventueel belangrijke details. <br /><br />Lange profielen worden in delen opgenomen op een wijze dat geen delen van het profiel gemist worden. <br /><br />Alle wanden van de werkput worden als profieltekening opgenomen. <br /><br />De vergunninghouder kan beslissen bepaalde profielwanden niet te tekenen. De beslissing of en waarom bepaalde profielwanden niet zijn getekend, wordt inhoudelijk verantwoord in de dagrapporten. <br /><br />Als een profielwand niet getekend wordt, wordt die wel steeds op foto vastgelegd. <br /><br />§ 2. Elke profieltekening voldoet aan de specificaties die gelden voor vlakplantekeningen.<br /><br />
+...
 
 ### ART. 51.
 
-Er wordt steeds een Harrismatrix opgesteld en een eerste interpretatie en fasering van de sporen op de profieltekeningen uitgevoerd.<br /><br />Indien het voor de interpretatie nodig is om tekeningen in te kleuren, wordt de tekening natuurgetrouw ingekleurd. Een inkleuring gebeurt op het terrein.<br /><br />
+...
 
 ## Onderafdeling 9 Verwerking vondsten en stalen
 
 ### ART. 52.
 
-Vondsten en stalen worden op zo'n wijze schoongemaakt, gesorteerd per materiaalsoort, geïdentificeerd en eventueel genummerd, dat aansluitend een analyse door specialisten kan plaatsvinden.<br /><br />Een uitzondering wordt gemaakt als reiniging het object kan beschadigen of tot informatieverlies kan leiden. <br /><br />
+...
 
 ### ART. 53.
 
-Elke vondst, elk staal of elk ensemble van vondsten wordt voorzien van een vondst- of staalkaartje, als vermeld in artikel 37, respectievelijk artikel 42.<br /><br />
+...
 
 ### ART. 54.
 
-Vondsten en stalen worden op een dusdanige manier verpakt en bewaard dat de conditie tot aan de analyse zo stabiel mogelijk blijft. <br /><br />Een eventuele actieve conservatiebehandeling wordt alleen uitgevoerd door een expert in archeologische conservatie.<br /><br />
+...
 
 ### ART. 55.
 
-Voor stalen, genomen voor onderzoek van ecologisch materiaal met kleine dimensies, geldt het volgende : <br />1° als er maar één staal is uit een stratigrafische entiteit, wordt dat staal opgeslagen in de conditie zoals het uit de werkput kwam, in een recipiënt met deksel. Eventueel wordt aan dat staal een antischimmelproduct toegevoegd. Het staal wordt niet gezeefd of op een andere manier bewerkt.<br />2° als er meerdere stalen uit een stratigrafische entiteit zijn, wordt één staal opgeslagen in de conditie zoals het uit de werkput kwam, in een recipiënt met deksel waaraan eventueel een antischimmelproduct wordt toegevoegd. Dat staal wordt niet gezeefd of op een andere manier bewerkt. De andere stalen kunnen gespoeld worden met zeven met maaswijdte 0,5 millimeter. De zeefresidu's worden langzaam gedroogd behalve als ze een grote densiteit aan onverkoold hout bevatten. In voorkomend geval wordt dat hout vóór het drogen van het residu door een specialist uit het residu gehaald. Pollenbakken blijven ingepakt in plastiek, van de lucht afgesloten en bewaard op een koele, donkere plaats bij 4 °C. <br /><br />
+...
 
 ### ART. 56.
 
-De ruimte waarin vondsten en stalen bewaard worden, beschikt over een adequate opslaginfrastructuur, zoals rekken of kasten, en is beveiligd tegen onder meer brand, inbraak en wateroverlast.<br /><br />De ruimte is minstens voorzien van een koelkast of koelruimte waarin de temperatuur constant op 4 oC kan worden gehouden. <br /><br />Er heerst een relatief constante kamertemperatuur, bij voorkeur 18-20 °C. <br /><br />De luchtvochtigheid is zo stabiel mogelijk, tussen 45 en 55 %. <br /><br />Een meetsysteem volgt de klimaatsomstandigheden. <br /><br />
+...
 
 ## Onderafdeling 10 Opgravingsdocumentatie
 
 ### ART. 57.
 
-Bij alle handelingen, vermeld in artikel 7 tot en met artikel 56, worden de volgende opgravingsdocumentatie opgesteld en doorlopend bijgehouden : <br />1° de geregistreerde data : <br />a) het landmetersplan, met aanduiding van de werkputten;<br />b) de vlakplannen met de Tweede Algemene Waterpassing-aanduidingen, registratie van sporen, en met aanduiding van de ligging en oriëntatie van de coupes door sporen;<br />c) detailtekeningen van sporen in het opgravingsvlak voor zover dat nodig is;<br />d) de coupetekeningen;<br />e) de profieltekeningen van de putwanden;<br />f) de genomen foto's per vlak, per spoor, per coupe en per putwandprofiel;<br />g) de sporenformulieren;<br />h) Harrismatrixen;<br />i) eventuele andere formulieren.<br />2° inventariserende metagegevens : <br />a) lijst van plannen en tekeningen;<br />b) lijst van foto's per vlak, per spoor, per coupe en per putwandprofiel;<br />c) lijst van sporen;<br />d) lijst van vondsten;<br />e) lijst van stalen.<br /><br />
+...
 
 ### ART. 58.
 
-De vergunninghouder houdt dagrapporten bij. <br /><br />In die dagrapporten worden de volgende elementen opgenomen : <br />1° alle werkzaamheden en interpretaties tijdens de veldcampagne;<br />2° alle strategische en praktische keuzes gedaan tijdens de opgraving, en de inhoudelijke verantwoording hiervan zowel op korte als op lange termijn;<br />3° de conclusies van raadplegingen met specialisten; <br />4° voorlopige interpretaties;<br />5° externe condities die het veldwerk beïnvloed hebben, zoals weersomstandigheden;<br />6° aanwezigheden van personeel.<br /><br />De externe condities worden per dag genoteerd.<br /><br />De aanwezigheidslijst van personeel wordt door de aanwezige personeelsleden ondertekend.<br /><br />
+...
 
 ### ART. 59.
 
-Als gegevens in de vorm van rekenbladen of als databank worden bijgehouden, worden respectievelijk de volgende fileformats gebruikt : csv en SQLDDL of DBF.<br /><br />
+...
 
 ### ART. 60.
 
-De vergunninghouder is en blijft verantwoordelijk voor de opgravingsdocumentatie en de dagrapporten. Hij bewaart die documentatie en rapporten in goede bewaaromstandigheden.<br /><br />
+...
 
 ## Afdeling 2 Archeologische prospectie met ingreep in de bodem
 
 ### ART. 61.
 
-§ 1. Het resultaat van een archeologische prospectie met ingreep in de bodem wordt met een minimum aan destructie van het archeologisch erfgoed bereikt. <br /><br />Er wordt met zo weinig mogelijk opgraving zo veel mogelijk informatie verworven over het bodemarchief van een bepaald terrein. Een optimum tussen kosten en baten moet dus worden bereikt.<br /><br />§ 2. Het ruimtebeslag en de destructiviteit van het onderzoek zal, afhankelijk van de geplande bodemverstorende activiteit, worden bepaald op minstens 12,5 %, tenzij de bijzondere voorwaarden in de vergunning daarvan afwijken.<br /><br />
+...
 
 ### ART. 62.
 
-§ 1. De aanleg van de proefsleuven verloopt zoals de aanleg van de werkputten bij een archeologische opgraving. De proefsleuven beslaan een gering deel van het te onderzoeken terrein maar vertonen onderling wel een regelmatige, ruimtelijke spreiding.<br /><br />§ 2. Er worden continue of discontinue, parallelle proefsleuven aangelegd met een breedte tussen 1,8 en 2 meter, tenzij de bijzondere voorwaarden in de vergunning daarvan afwijken. <br /><br />De gekozen methode wordt beargumenteerd, alsook de keuze van de oriëntatie van proefsleuven als dit uit al bekende gegevens over de mogelijke vindplaats kan worden afgeleid.<br /><br />§ 3. De diepte wordt zeer zorgvuldig bepaald op basis van voorafgaande boringen of van terreinobservaties bij de aanleg van elke sleuf. De bijzondere voorwaarden in de vergunning kunnen een maximumdiepte bepalen. <br /><br />Naargelang van de aard van het terrein worden de proefsleuven machinaal uitgegraven door een rupskraan of bandenkraan met een graafbak zonder tanden, tenzij anders is bepaald in de bijzondere voorwaarden. <br /><br />
+...
 
 ### ART. 63.
 
-De aangetroffen grondsporen worden zo veel mogelijk intact gelaten, maar worden als dat nodig is voor interpretatie, wel opgeschaafd. <br /><br />Sporen worden alleen gecoupeerd voor zover dat nodig is om informatie of vondstenmateriaal te verzamelen dat inzicht verschaft in de datering of het type vindplaats of spoor. <br /><br />
+...
 
 ### ART. 64.
 
-Volgsleuven zijn toegestaan als zij het inzicht in de structuur van de site verhogen en bijdragen tot het correct aflijnen van het te onderzoeken terrein.<br /><br />
+...
 
 ### ART. 65.
 
-§ 1. Het opmeten, vervaardigen van tekeningen, nemen van foto's, nemen van stalen en het rapporteren wordt uitgevoerd overeenkomstig de bepalingen van afdeling 1. <br /><br />§ 2. Een hoofdmeetsysteem en afgeleide systemen worden aangelegd, een werkput wordt vastgesteld en vaste Tweede Algemene Waterpassing-punten worden uitgezet. <br /><br />§ 3. In de regel wordt maar één opgravingsvlak aangelegd. De diepte daarvan wordt bepaald tijdens het veldwerk zelf, maar berust vooral op voorafgaand onderzoek, zoals boringen, en de ervaring van de vergunninghouder. Dat vlak wordt alleen opgeschoond op plaatsen waar sporen worden aangetroffen en als dat voor interpretatie nodig is. <br /><br />§ 4. Sporen in het vlak worden geregistreerd en geïnterpreteerd. Sporen uit proefsleuven worden op zo'n wijze geregistreerd dat ze later accuraat topografisch en stratigrafisch in verband kunnen worden gebracht met de sporen van eventuele latere opgravingen op het terrein.<br /><br />Sporen worden alleen gecoupeerd voor zover dat nodig is om informatie of vondstenmateriaal te verzamelen dat inzicht verschaft in de datering of het type vindplaats of spoor. <br /><br />§ 5. Vondsten worden ingezameld. Hoewel niet gestreefd wordt naar een volledige inzameling, vormt de ingezamelde vondstencollectie steeds een representatief staal.<br /><br />Er worden alleen stalen genomen als vondstmateriaal van kleine dimensie, met inbegrip van paleo-ecologisch materiaal, wordt aangetroffen dat nuttig is bij het interpreteren van de vindplaats en bij de evaluatie ervan.<br /><br />
+...
 
 ### ART. 66.
 
-De aanleg van kijkvensters is toegestaan om een spoor of een concentratie van sporen waarvan de interpretatie en de waardering niet onmiddellijk duidelijk is, beter te kunnen onderzoeken of om een schijnbare afwezigheid van sporen te verifiëren. <br /><br />Kijkvensters worden, afgezien van hun ligging, afmeting en vorm, op dezelfde wijze als de proefsleuven aangelegd.<br /><br />
+...
 
 ### ART. 67.
 
-Er bestaat een prospectiemethode voor specifieke doeleinden waarbij vierkante proefputjes worden gegraven. Deze proefputjes hebben gewoonlijk afmetingen van 0,5 meter x 0,5 meter of 1 meter x 1 meter en worden vaak met de hand gegraven. <br /><br />De prospectiemethode, vermeld in het eerste lid, wordt alleen toegepast als de bijzondere voorwaarden dit aangeven en leidt tot dezelfde documentatie als voor de proefsleuven.<br /><br />Het uitzeven van de onderzochte sedimenten geldt als verzamelmethode.<br /><br />
+...
 
 ### ART. 68.
 
-Als de prospectiemethode van geotechnische boringen met brede boorkern gebruikt wordt, worden de boorkernen beschreven en bemonsterd op dezelfde manier als het couperen van sporen tijdens een archeologische opgraving.<br /><br />
+...
 
 ### ART. 69.
 
-Vondsten en stalen uit het prospectieonderzoek met ingreep in de bodem worden verwerkt overeenkomstig de bepalingen van afdeling 1, onderafdeling 9. <br /><br />
+...
 
 ### ART. 70.
 
-Bij alle handelingen, vermeld in artikel 61 tot 69, worden de volgende opgravingsdocumentatie opgesteld en doorlopend bijgehouden : <br />1° de geregistreerde data : <br />a) het landmetersplan, met aanduiding van de werkputten;<br />b) het vlakplan met de Tweede Algemene Waterpassing-aanduidingen, registratie van sporen, en met aanduiding van de ligging en oriëntatie van de coupes door sporen;<br />c) de sporenformulieren, vaak alleen gebaseerd op waarnemingen in het opgravingsvlak;<br />d) detailtekeningen van sporen in het opgravingsvlak waar nodig;<br />e) de coupetekeningen, wanneer couperen verantwoord was;<br />f) de genomen foto's;<br />g) eventuele andere formulieren.<br />2° inventariserende metagegevens : <br />a) lijst van tekeningen;<br />b) lijst van foto's;<br />c) lijst van sporenformulieren en eventuele andere formulieren;<br />d) lijst van vondsten;<br />e) lijst van stalen.<br /><br />De vergunninghouder houdt dagrapporten bij. Hij is verantwoordelijk voor deze rapporten en is de enige persoon die deze beheert. <br /><br />De bepalingen van afdeling 1, onderafdeling 10, zijn van overeenkomstige toepassing.<br /><br />
+...
 
 ## HOOFDSTUK 3 Wijze van rapportering
 
 ### ART. 71.
 
-Tijdens de archeologische opgraving worden de opgravingsdocumentatie en de dagrapporten bijgehouden overeenkomstig de bepalingen van hoofdstuk 2, afdeling 1, onderafdeling 10.<br /><br />Tijdens archeologische prospecties met ingreep in de bodem worden de opgravingsdocumentatie en de dagrapporten bijgehouden overeenkomstig de bepalingen van hoofdstuk 2, afdeling 1, onderafdeling 10.<br /><br />
+...
 
 ### ART. 72.
 
-Na afloop van de archeologische opgraving of prospectie met ingreep in de bodem legt de vergunninghouder een basisrapport neer bij de entiteit die door de Vlaamse Regering belast wordt met het uitreiken van vergunningen voor archeologische opgravingen of prospectie met ingreep in de bodem.<br /><br />Het basisrapport wordt ingediend binnen twee jaar na het beëindigen van de archeologische opgraving of prospectie met ingreep in de bodem, tenzij anders is bepaald in de bijzondere voorwaarden.<br /><br />
+...
 
 ### ART. 73.
 
-Het basisrapport wordt in analoge vorm in tweevoud ingediend. Bovendien wordt het basisrapport in digitale vorm ingediend. <br /><br />De digitale versie bevat inhoudelijk exact dezelfde informatie als de analoge versie en hanteert dezelfde indeling en paginering als het origineel. <br /><br />De digitale versie wordt bezorgd als doorzoekbaar PDF/A-bestand. <br /><br />Ingesloten afbeeldingen zijn gecomprimeerd en benaderen een resolutie van 150 dpi. Afbeeldingen met een hogere resolutie worden teruggebracht naar 150 dpi. <br /><br />Het digitale bestand en de eventuele bijlagen worden bezorgd op een digitale gegevensdrager en dit tegelijk met de analoge versie. <br /><br />De digitale drager is gemerkt met de projectcode, de inleveringsdatum en de titel van het rapport.<br /><br />
+...
 
 ### ART. 74.
 
-In het algemeen bevat het basisrapport de volgende elementen : <br />1° een administratieve fiche van het project;<br />2° een beschrijvend gedeelte; <br />3° alle inventariserende lijsten; <br />4° een assessment en eerste interpretatie van het sporenbestand en het vondstenbestand. <br /><br />Interpretaties leggen de nadruk op de ruimtelijke dimensie, inzonderheid de structuur en uitgestrektheid, en de tijdsdimensie, inzonderheid de dateringen en faseringen, van de vindplaats. <br /><br />Een vergelijkende studie met andere vindplaatsen en sociale, economische en culturele interpretaties worden pas uitgevoerd naarmate daar in de bijzondere voorwaarden middelen voor worden uitgetrokken. <br /><br />Een volledige studie van het vondsten- en staalbestand, zoals voor sociale, paleo-economische of paleo-ecologische reconstructies, maakt geen deel uit van het basisrapport. Dat hoort thuis in de latere post-excavationpublicaties.<br /><br />
+...
 
 ### ART. 75.
 
-De administratieve fiche van het project wordt opgesteld in tabelvorm en bevat minstens de volgende gegevens : <br />1° administratieve gegevens;<br />a) naam van de opdrachtgever;<br />b) de naam van de uitvoerder, hetzij het bedrijf, de instelling of de privépersoon;<br />c) de naam vergunninghouder;<br />d) beheer en de plaats van de geregistreerde data en opgravingsdocumentatie;<br />e) het beheer en de plaats van de vondsten en stalen;<br />f) projectcode;<br />g) de vindplaatsnaam;<br />h) de locatie met vermelding van provincie, gemeente, deelgemeente, plaats, toponiem en minimaal 4 xy-Lambertcoördinaten;<br />i) het kadasterperceel met vermelding van gemeente, afdeling, sectie, perceelsnummer of -nummers en kaartje;<br />j) een kaart van het onderzoeksgebied op basis van de topografische kaart op schaal 1 : 10 000, maar meer in detail, afhankelijk van de grootte van het projectgebied;<br />k) de begin- en einddatum van de uitvoering van het onderzoek;<br />2° een omschrijving van de onderzoeksopdracht;<br />a) een verwijzing naar de bijzondere voorwaarden, die zijn opgenomen in de vergunning;<br />b) een omschrijving van de archeologische verwachtingen;<br />c) de wetenschappelijke vraagstelling met betrekking tot het onderzoeksgebied;<br />d) de doelen en wensen van de natuurlijke persoon of rechtspersoon die door zijn actie of acties de ingreep in de bodem veroorzaakt of noodzakelijk maakt;<br />e) eventuele randvoorwaarden;<br />3° eventuele raadpleging van specialisten;<br />a) een omschrijving van de inbreng van specialisten als hun advies werd ingewonnen bij substantiële staalname voor specialistisch onderzoek;<br />b) een omschrijving van de inbreng van specialisten als zij betrokken worden bij de conservatie.<br />c) een omschrijving van de algemene wetenschappelijke advisering door personen die buiten het project stonden.<br /><br />
+...
 
 ### ART. 76.
 
-Het beschrijvend gedeelte van het basisrapport bevat minstens de volgende gegevens : <br />1° een inleiding;<br />a) het project waarbinnen de opgraving is uitgevoerd met projectcode;<br />b) begin- en einddatum van de periode waarin het onderzoek heeft plaatsgevonden;<br />c) de organisatie van het archeologische onderzoek en de naam van de natuurlijke persoon of rechtspersoon die door zijn actie of acties de ingreep in de bodem veroorzaakt of noodzakelijk maakt;<br />2° een beschrijving van de vindplaats;<br />a) de vindplaatsgegevens met vermelding van gemeente, plaats, toponiem, minimaal 4 xy-Lambertcoördinaten en alle bekende identificatiecodes;<br />b) de topografische ligging van de vindplaats door middel van een situatiekaart van de vindplaats op basis van een topografische kaart. Als het om een digitale kaart gaat wordt bij voorkeur gekozen voor gegeorefereerde GIS- en Autocad-bestanden en -plannen;<br />c) een korte bespreking van de vindplaats in zijn archeologische context, zoals archeoregio, met vermelding van de geraadpleegde literatuur en database;<br />d) de landschappelijke ligging, inclusief bodemkundige of geologische situering, grondgebruik en fysisch-geografische (literatuur)gegevens over de archeoregio;<br />e) een projectie van de aangetroffen sporen op de bouwplannen;<br />f) een projectie van de aangetroffen sporen op het kadasterplan;<br />3° archeologische voorkennis;<br />a) een omschrijving van desktop-voorstudie, consultatie en interpretatie van de Centrale Archeologische Inventaris inbegrepen;<br />b) een omschrijving van eventueel archeologisch vooronderzoek, al dan niet zelf uitgevoerd;<br />4° de onderzoeksopdracht;<br />a) de vraagstelling met betrekking tot de vindplaats; <br />b) de randvoorwaarden;<br />5° de werkwijze en opgravingsstrategie;<br />a) een beschrijving van de opgravingsmethode in samenhang met de aard van de vindplaats en de bijzondere voorwaarden;<br />b) de motivatie van de keuze ten aanzien van selectie van materiaal;<br />c) de motivatie van de keuze ten aanzien van staalname;<br />6° een beschrijving van de vindplaats aan de hand van het sporenbestand, overeenkomstig artikel 77;<br />7° een assessment en basisanalyse van de vondsten en stalen, overeenkomstig de bepalingen van hoofdstuk 2, afdeling 1, onderafdeling 6 en 7;<br />8° de datering en interpretatie van de chronologische en tafonomische opbouw van de vindplaats;<br />a) relatieve datering op basis van het sporenbestand;<br />b) absolute datering op basis van vondsten;<br />c) absolute datering op basis van natuurwetenschappelijke dateringsmethoden;<br />d) tafonomie en vindplaatsformatie;<br />9° een synthese van;<br />a) het belang en de betekenis van de vindplaats binnen de bestaande kennis;<br />b) een interpretatie van de vondstcategorieën in relatie tot elkaar en tot de structuren van de vindplaats;<br />c) het landschap rond de vindplaats;<br />d) het besluit met betrekking tot structuren en vondsten;<br />10° de vermelding van de vervolgonderzoeken die nog uitgevoerd gaan worden;<br />11° aanbevelingen voor het vervolgonderzoek met betrekking tot de vindplaats of een periode daarvan, globaler dan gesteld per vondstcategorie;<br />12° een samenvatting, met vermelding van de vraagstelling, van de gevolgde onderzoeksmethode en de resultaten;<br />13° literatuur;<br />14° bijlagen (inventariserende metagegevens);<br />a) lijst van tekeningen;<br />b) lijst van foto's;<br />c) lijst van sporenformulieren en eventuele andere formulieren;<br />d) lijst van vondsten;<br />e) lijst van stalen;<br />f) dagrapporten.<br /><br />
+...
 
 ### ART. 77.
 
-De beschrijving van de vindplaats aan de hand van het sporenbestand, vermeld in artikel 76, 6°, bevat de volgende gegevens : <br />1° Stratigrafie of profielen;<br />a) informatie over de wijze waarop de vindplaats zich aan het huidige oppervlak manifesteert;<br />b) een beschrijving van de stratigrafische opbouw van de vindplaats aan de hand van de profielen, desgevallend geschematiseerd, waarin, als dat mogelijk is profielen worden opgenomen die de hele vindplaats op één of - als dat wenselijk is - verschillende strategische plaatsen in twee richtingen loodrecht op elkaar kruisen;<br />c) eventueel op het terrein gemaakte profielfoto's;<br />2° overzichtsplattegronden;<br />a) een niet gefaseerde allesporenkaart voorzien van een aan het landelijk coördinatenstelsel ontleend coördinatengrid, en georiënteerd;<br />b) bij opgravingen met duidelijk gescheiden fasen, perioden of stratigrafische niveaus, een weergave van de verschillende fasen op een overeenkomstig aantal sporenkaarten waarbij de jongere fasen telkens als verstoring van de oudere fasen worden weergegeven;<br />c) excerpten uit, of vereenvoudigde versies van de allesporenkaart ten behoeve van de weergave van bepaalde spoorcategorieën, structuren, complexen en patronen andere dan de fasering;<br />d) als plattegronden van individuele structuren noodzakelijk geacht worden, plattegronden die ontleend worden aan de allesporenkaart;<br />e) een aanduiding op een afzonderlijk plan ingeval bepaalde zones niet onderzocht werden maar een behoud in situ gebeurde, met inbegrip van een referentie ten opzichte van bestaande of toekomstige bebouwing;<br />3° structuren, spoorcategorieën, complexen en individuele sporen;<br />a) de in het rapport opgenomen Harrismatrix die als vertrekpunt van de analyse dient;<br />b) de analyse van structuren, spoorcategorieën, complexen en individuele sporen op basis van verwerkte plannen, niet op basis van ingescande veldtekeningen;<br />c) als dat mogelijk is, de toeschrijving van opgegraven sporen aan structuren en indeling ervan in spoorcategorieën;<br />d) een beschrijving van de structuren en sporen, de typologische, chronologische en ruimtelijke indeling en weergave daarvan in plattegronden en profieltekeningen die de horizontale en verticale dimensie van de formatie van het spoor weergeven;<br />e) relevante foto's en veldopnamen als die beschikbaar zijn;<br />f) het gebruik van vergelijkbare schalen voor structuren en sporen die hetzelfde karakter hebben of behoren tot dezelfde categorie; <br />g) de lokalisering van de afzonderlijk afgebeelde structuren en sporen in de allesporenkaart of daarvan afgeleide overzichtsplattegronden of minstens de mogelijkheid hiertoe;<br />h) een noordpijl op alle afbeeldingen van structuren en complexen;<br />i) een afbeelding van een representatieve selectie per categorie van sporen die niet aan bepaalde structuren kunnen worden toegeschreven;<br />j) een beschrijving en integrale afbeelding van alle complexe sporen; <br />k) een beschrijving van een representatieve selectie van de nog niet besproken individuele sporen die niet aan structuren zijn toegeschreven of in categorieën zijn ondergebracht;<br />l) een afzonderlijke bespreking en afbeelding van structuren en sporen die een evidente samenhang vertonen, inzonderheid ruimtelijk en functioneel; <br />m) een ruimtelijke analyse van de vondstenspreiding als er zich geen sporen of structuren aftekenen maar de vondsten driedimensionaal opgemeten zijn;<br />n) een aanduiding op een afzonderlijk plan ingeval bepaalde zones niet onderzocht werden maar een behoud in situ gebeurde, met inbegrip van een referentie ten opzichte van bestaande of toekomstige bebouwing.<br /><br />
+...
 
 ### ART. 78.
 
-Een basisregistratie van de mobiele vondsten wordt in het rapport opgenomen. <br /><br />Per materiaalsoort en daarbinnen per vondstgroep worden de technische groepen en de vormengroepen geteld, op zo'n wijze dat de verschillende materiaalspecialisten aan de hand van het basisrapport kunnen zien of de materiaalgroepen waarmee zij zich bezighouden, op de vindplaats zijn aangetroffen. <br /><br />Als grote opgravingen tot een reconstructie van verschillende fasen hebben geleid, worden die tellingen per fase uitgevoerd. <br /><br />Tellingstechnieken worden per materiaalcategorie gedefinieerd.<br /><br />Per materiaalcategorie worden de volgende gegevens besproken : <br />1° materiaal, methoden en werkwijzen;<br />a) beschrijving van de gekozen verzamelwijze en eventuele selectie;<br />b) beschrijving van de eventuele conservatieproblematiek en de uitgevoerde ingrepen;<br />c) beschrijving van de kwaliteit en kwantiteit van de gegevens en gegevensdragers;<br />d) beschrijving van de analysemethoden en -technieken;<br />e) beschrijving van de uitwerkingsmethoden;<br />2° resultaten en presentatie van de resultaten van analyse en uitwerking, bij voorkeur met tekeningen;<br />3° discussie en interpretatie;<br />4° conclusie;<br />5° aanbevelingen voor verder onderzoek.<br /><br />Vondsten worden met hun context in verband gebracht. <br /><br />De belangrijkste techno-, typo- en chronologisch-diagnostische vondsten worden per context afgebeeld in het basisrapport. <br /><br />
+...
 
 ### ART. 79.
 
-Dit besluit treedt in werking op 1 november 2011. <br /><br />
+...

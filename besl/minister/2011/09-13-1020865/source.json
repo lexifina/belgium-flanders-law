@@ -2,16 +2,16 @@
   "codex_id": 1020865,
   "title": "Ministerieel besluit van 2011-09-13 tot bepaling van de minimumnormen voor de registratie en documentatie bij archeologisch onderzoek met ingreep in de bodem en de wijze van rapportering tot uitvoering van artikel 14, § 3, van het besluit van de Vlaamse Regering van 20 april 1994 tot uitvoering van het decreet van 30 juni 1993 houdende de bescherming van het archeologisch patrimonium",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020865/VolledigDocument?datum=2011-11-01",
-  "source_sha256": "907cfb1bd72dd1031f73a232fe9595942ab64457c59ab42f0c4a47323c0342d8",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1020865/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "256824b9aecb4734cdfc0b9d7799689e64334fa888c50c484bd6b1dc29faedb6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1020865&param=informatie",
-  "as_of": "2011-11-01",
+  "as_of": "2016-04-01",
   "made": "2011-09-13",
   "gazette": "2011-10-24",
   "numac": 2011205173,
   "document_start": "2011-11-01",
   "document_end": "2899-12-31",
-  "in_force": "2011-11-01",
+  "in_force": "2016-04-01",
   "article_versions": 80,
-  "record_form": "consolidated version as in force on 2011-11-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
