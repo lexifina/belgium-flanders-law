@@ -2,16 +2,16 @@
   "codex_id": 1023552,
   "title": "Besluit van de Vlaamse Regering van 2013-11-22 houdende de vergunningsvoorwaarden en het kwaliteitsbeleid voor gezinsopvang en groepsopvang van baby's en peuters (citeeropschrift:\"Vergunningsbesluit van 22 november 2013\")",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023552/VolledigDocument?datum=2016-02-13",
-  "source_sha256": "3be151ad65a855a4f3e696bb5c63089a5faa5a401d8091a5e511f8670bffdc69",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023552/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "bf3d593ed7dac0b9f9a5206c13474a731891a6542e2340f06633ac1cb18d095f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023552&param=informatie",
-  "as_of": "2016-02-13",
+  "as_of": "2016-04-01",
   "made": "2013-11-22",
   "gazette": "2014-01-13",
   "numac": 2013036187,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2016-02-13",
+  "in_force": "2016-04-01",
   "article_versions": 90,
-  "record_form": "consolidated version as in force on 2016-02-13; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
