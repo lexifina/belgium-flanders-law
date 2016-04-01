@@ -2,16 +2,16 @@
   "codex_id": 1026565,
   "title": "Besluit van de Vlaamse Regering van 2016-02-19 tot wijziging van het besluit van de Vlaamse Regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap en van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026565/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "1470ba354ae3d6ecd6e0543eb077e29d1004b6989388e2620a27346efaac7ec0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026565/VolledigDocument?datum=2016-04-01",
+  "source_sha256": "7832b646dbb1283bc1b2891170870c38e0fd604446bd2ffc553d3f69eaa35226",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026565&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-04-01",
   "made": "2016-02-19",
   "gazette": "2016-03-22",
   "numac": 2016035309,
   "document_start": "2016-01-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2016-04-01",
   "article_versions": 12,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
 }
