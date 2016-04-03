@@ -7,3 +7,11 @@
 ### ART. 1.
 
 &nbsp;In artikel 1 van het ministerieel   besluit van 10 juli 1990 tot vaststelling van de tegemoetkoming bedoeld in   artikel 37, § 12, van de wet betreffende de verplichte verzekering voor   geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de   psychiatrische verzorgingstehuizen, het laatst gewijzigd bij het ministerieel   besluit van 21 februari 2014, worden de volgende wijzigingen   aangebracht:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   in paragraaf 1 wordt het bedrag "65,18 euro" vervangen door het bedrag "65,65   euro";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in paragraaf 2 wordt het bedrag "70,63 euro" vervangen door het bedrag "71,10   euro".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 3.
+
+Artikel   1 treedt in werking op 1 januari 2016 en artikel 2 treedt in werking op 1 juli   2016.
+
+### ART. 4.
+
+De   Vlaamse minister, bevoegd voor het gezondheidsbeleid, is belast met de   uitvoering van dit besluit.

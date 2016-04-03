@@ -2,16 +2,16 @@
   "codex_id": 1026574,
   "title": "Besluit van de Vlaamse Regering van 2016-02-26 tot wijziging van artikel 1 van het ministerieel besluit van 10 juli 1990 tot vaststelling van de tegemoetkoming bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de psychiatrische verzorgingstehuizen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026574/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "4af0f2d2f301d643a012b0956cdf949deeb8f65ea52b0e5db16415fe7cac8299",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026574/VolledigDocument?datum=2016-04-03",
+  "source_sha256": "0b224e9a3b43cf7ccf3092f008ce947498991b5d06e1a86db4263122a63cdd43",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026574&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-04-03",
   "made": "2016-02-26",
   "gazette": "2016-03-24",
   "numac": 2016035326,
   "document_start": "2016-04-03",
   "document_end": null,
-  "in_force": "2016-01-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 2016-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-04-03",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-03; future article versions excluded; article text as the API gives it"
 }
