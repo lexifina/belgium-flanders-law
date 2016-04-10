@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026593,
+  "title": "Ministerieel besluit van 2016-02-05 tot vaststelling van de gebieden waar geen archeologisch erfgoed te verwachten valt",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026593/VolledigDocument?datum=2016-04-10",
+  "source_sha256": "6f00ed5e3e5f26a9e83fd77b76c58fac546ed031203811ef67c0989a67b3f48b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026593&param=informatie",
+  "as_of": "2016-04-10",
+  "made": "2016-02-05",
+  "gazette": "2016-03-31",
+  "numac": 2016035334,
+  "document_start": "2016-04-10",
+  "document_end": "2016-08-01",
+  "in_force": "2016-04-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
