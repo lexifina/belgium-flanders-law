@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026621,
+  "title": "Ministerieel besluit van 2016-02-19 tot vaststelling van de historische stadskern van Geel als archeologische zone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026621/VolledigDocument?datum=2016-04-10",
+  "source_sha256": "9c00a0e0508fef25db0ef4bf5db1166344fbe1dc9c0b8aab0dfb18ac511e3846",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026621&param=informatie",
+  "as_of": "2016-04-10",
+  "made": "2016-02-19",
+  "gazette": "2016-03-31",
+  "numac": 2016035349,
+  "document_start": "2016-04-10",
+  "document_end": null,
+  "in_force": "2016-04-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
