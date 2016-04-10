@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026650,
+  "title": "Ministerieel besluit van 2016-02-19 ot vaststelling van de historische stadskern van Poperinge als archeologische zone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026650/VolledigDocument?datum=2016-04-10",
+  "source_sha256": "f1963af49d73b4274cf80af68671e47050b8f5869bfc0c1c5036629c6607fb40",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026650&param=informatie",
+  "as_of": "2016-04-10",
+  "made": "2016-02-19",
+  "gazette": "2016-03-31",
+  "numac": 2016035378,
+  "document_start": "2016-04-10",
+  "document_end": null,
+  "in_force": "2016-04-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
