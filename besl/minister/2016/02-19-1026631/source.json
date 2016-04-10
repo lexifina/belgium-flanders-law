@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026631,
+  "title": "Ministerieel besluit van 2016-02-19 tot vaststelling van de historische stadskern van Herk-de-Stad als archeologische zone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026631/VolledigDocument?datum=2016-04-10",
+  "source_sha256": "b1056ce834a69780aa8b7d63b56345ae0ddda5a8a5f48f313d42683866027828",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026631&param=informatie",
+  "as_of": "2016-04-10",
+  "made": "2016-02-19",
+  "gazette": "2016-03-31",
+  "numac": 2016035359,
+  "document_start": "2016-04-10",
+  "document_end": null,
+  "in_force": "2016-04-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
