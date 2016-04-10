@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026629,
+  "title": "Ministerieel besluit van 2016-02-19 tot vaststelling van de historische stadskern van Hasselt als archeologische zone",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026629/VolledigDocument?datum=2016-04-10",
+  "source_sha256": "7d5a5e5e008a2fe98b8a1c737d528c8e275a8ea84ca1b26358f71f89a9a198b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026629&param=informatie",
+  "as_of": "2016-04-10",
+  "made": "2016-02-19",
+  "gazette": "2016-03-31",
+  "numac": 2016035357,
+  "document_start": "2016-04-10",
+  "document_end": null,
+  "in_force": "2016-04-10",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
