@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026674,
+  "title": "Ministerieel besluit van 2016-03-14 houdende delegatie van bevoegdheid inzake het bepalen van de modaliteiten voor de diverse uit te voeren keuringen",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026674/VolledigDocument?datum=2016-04-15",
+  "source_sha256": "6b32482711096eb972f0dbbe0f2fdb3f217f958f7e8825077588c4c115de9623",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026674&param=informatie",
+  "as_of": "2016-04-15",
+  "made": "2016-03-14",
+  "gazette": "2016-04-05",
+  "numac": 2016035397,
+  "document_start": "2016-04-15",
+  "document_end": null,
+  "in_force": "2016-04-15",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
