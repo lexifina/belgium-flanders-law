@@ -2,16 +2,16 @@
   "codex_id": 1022987,
   "title": "Besluit van de Vlaamse Regering van 2013-05-24 tot vaststelling van aanvullende normen waaraan de zorgprogramma's cardiale pathologie B moeten voldoen om erkend te worden",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022987/VolledigDocument?datum=2013-06-14",
-  "source_sha256": "6cadcc1f45866691fb1b673aed949ace6902827e7c520f821f984418747e5485",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1022987/VolledigDocument?datum=2016-04-15",
+  "source_sha256": "2b994662cb9686b5186f7c3bf4c7d60eda86daab2f46473d7633cfa16b9eac61",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1022987&param=informatie",
-  "as_of": "2013-06-14",
+  "as_of": "2016-04-15",
   "made": "2013-05-24",
   "gazette": "2013-06-13",
   "numac": 2013035516,
   "document_start": "2013-06-14",
   "document_end": null,
-  "in_force": "2013-06-14",
+  "in_force": "2016-04-15",
   "article_versions": 7,
-  "record_form": "consolidated version as in force on 2013-06-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-04-15; future article versions excluded; article text as the API gives it"
 }
