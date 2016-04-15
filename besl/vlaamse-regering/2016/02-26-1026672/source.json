@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026672,
+  "title": "Besluit van de Vlaamse Regering van 2016-02-26 tot wijziging van artikel 1, 4 en 5 van het besluit van de Vlaamse Regering van 24 mei 2013 tot vaststelling van aanvullende normen waaraan de zorgprogramma's cardiale pathologie B moeten voldoen om erkend te worden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026672/VolledigDocument?datum=2016-04-15",
+  "source_sha256": "8a8f91f8c0b79d5d853eece02fcb8683c387c34d72a930b79beff816c9bdbcbe",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026672&param=informatie",
+  "as_of": "2016-04-15",
+  "made": "2016-02-26",
+  "gazette": "2016-04-05",
+  "numac": 2016035393,
+  "document_start": "2016-04-15",
+  "document_end": null,
+  "in_force": "2016-04-15",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-04-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
