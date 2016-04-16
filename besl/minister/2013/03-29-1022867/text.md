@@ -69,6 +69,10 @@ De volgende ruimtes worden vrijgesteld van de ventilatie-eisen, zoals   bepaald 
 
 Landbouwgebouwen met lage energiebehoefte zijn vrijgesteld van de geldende   EPB-eisen, vermeld in het Energiebesluit van 19 november 2010.
 
+### ART. 2/2.
+
+In afwijking van de EPB-eisen, opgenomen in het Energiebesluit van 19   november 2010, wordt in een algemene vrijstelling voorzien op het minimaal   installatierendement voor ruimteverwarming, vermeld in punt 5 van bijlage XII,   wanneer aan elk van onderstaande voorwaarden is voldaan :<BR>1° het betreft een   renovatie of functiewijziging waarbij de bestaande ketel behouden blijft;<BR>2°   de ketel is op het moment van de aanvraag tot stedenbouwkundige vergunning niet   ouder dan 10 jaar;<BR>3° de vloeroppervlakte die verwarmd wordt door de   nieuwe/vernieuwde afgifte-elementen, bedraagt minder dan 25 % van de totale   vloeroppervlakte.
+
 ## HOOFDSTUK III. Samenloop van algemene vrijstellingen en algemene afwijkingen van bepaalde EPB-eisen
 
 ### ART. 3.
