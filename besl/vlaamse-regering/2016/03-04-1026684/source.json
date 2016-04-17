@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026684,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-04 tot regeling van de steun voor innovatieclusters in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026684/VolledigDocument?datum=2016-04-17",
+  "source_sha256": "7907837aec4cbe0c29abdec56b459a1c98c01fff0728c28fd81d1dbaf34793b7",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026684&param=informatie",
+  "as_of": "2016-04-17",
+  "made": "2016-03-04",
+  "gazette": "2016-04-07",
+  "numac": 2016035404,
+  "document_start": "2016-04-17",
+  "document_end": null,
+  "in_force": "2016-04-17",
+  "article_versions": 29,
+  "record_form": "consolidated version as in force on 2016-04-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
