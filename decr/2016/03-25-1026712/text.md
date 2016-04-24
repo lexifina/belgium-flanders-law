@@ -2,6 +2,10 @@
 
 ## Hoofdstuk 1 Algemene bepalingen
 
+### ART. 1.
+
+Dit   decreet regelt een gemeenschapsaangelegenheid.
+
 ## Hoofdstuk 2 Wijzigingen van het decreet van 13 april 1999 tot regeling van de rechtspositie van het statutair en het contractueel personeel van het VRT-Filharmonisch orkest en het VRT-koor
 
 ### ART. 2.
@@ -115,3 +119,11 @@ In   hetzelfde decreet, gewijzigd bij de decreten van 19 december 2014 en 3 juli
 Artikel   28 van hetzelfde decreet wordt vervangen door wat volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Art.   28. De beperkingen, vermeld in artikel 27/3 en 27/4, zijn niet van toepassing op   de rust- en overlevingspensioenen die ingang vonden vóór 1 januari   2013.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ## Hoofdstuk 4 Slotbepalingen
+
+### ART. 29.
+
+De   toepassing van de door artikel 4 tot en met 28 aangebrachte wijzigingen kunnen,   voor de pensioenen die ingaan tussen 1 januari 2013 en de laatste dag van de   maand na de maand waarin dit decreet is bekendgemaakt in het Belgisch   Staatsblad, geen aanleiding geven tot terugvordering van onverschuldigde   bedragen.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 30.
+
+<P>Artikel   2 en 3 treden in werking op de door de Vlaamse Regering te bepalen datum,   bedoeld in artikel 29, tweede lid, 2°, van het decreet van 25 april 2014   betreffende de rustpensioenen, toegekend aan de vastbenoemde personeelsleden van   de Vlaamse Radio- en Televisieomroeporganisatie en betreffende de   overlevingspensioenen, gewijzigd bij het decreet van 19 december 2014, toegekend   aan de rechtverkrijgenden van die personeelsleden, en uiterlijk op 31 december   2015.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   4 tot en met 12 en artikel 14 tot en met 28 hebben uitwerking met ingang van 1   januari 2013.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>Artikel   13 heeft uitwerking met ingang van 1 januari 2016.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
