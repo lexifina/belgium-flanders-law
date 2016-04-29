@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026766,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-29 tot wijziging van het besluit van de Vlaamse Regering van 25 juli 2014 tot bepaling van de bevoegdheden van de leden van de Vlaamse Regering",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026766/VolledigDocument?datum=2016-04-29",
+  "source_sha256": "39acfee9820c4ce5e17695bba6ff7efa1935283edaea2b79ecbd0391078b6a3e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026766&param=informatie",
+  "as_of": "2016-04-29",
+  "made": "2016-04-29",
+  "gazette": "2016-05-09",
+  "numac": 2016035757,
+  "document_start": "2016-04-29",
+  "document_end": null,
+  "in_force": "2016-04-29",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-04-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
