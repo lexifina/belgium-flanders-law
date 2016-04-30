@@ -22,7 +22,7 @@ Ter   uitvoering van artikel 7, eerste lid, 2°, van het besluit van 24 april 20
 
 ### ART. 5.
 
-De   periode waarin de uitgaven gedaan worden, vermeld in artikel 7, eerste lid, 3°,   van het besluit van 24 april 2015, is twee jaar vanaf de kennisgeving van de   selectie van het project.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+De periode waarin de uitgaven gedaan worden, vermeld in artikel 7, eerste lid, 3°, van het besluit van 24 april 2015, is&nbsp;vier jaar vanaf de kennisgeving van de selectie van het project.
 
 ### ART. 6.
 
