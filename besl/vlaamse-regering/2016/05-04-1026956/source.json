@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026956,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-04 tot wijziging van het besluit van de Vlaamse Regering van 17 december 2010 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest, wat betreft de verlenging van de investeringstermijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026956/VolledigDocument?datum=2016-05-01",
+  "source_sha256": "faf7361ceb8cb280ef02bbdfb6a011a06e4a84ecf37a3c3645fba5804a508ecf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026956&param=informatie",
+  "as_of": "2016-05-01",
+  "made": "2016-05-04",
+  "gazette": "2016-06-30",
+  "numac": 2016035889,
+  "document_start": "2016-05-01",
+  "document_end": null,
+  "in_force": "2016-05-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
