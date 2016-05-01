@@ -1,0 +1,25 @@
+# Besluit van de Vlaamse Regering van 2016-04-22 houdende wijziging van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering, wat betreft de opheffing van de premie voor de beroepsopleiding en de mobiliteitstoeslag
+
+### Aanhef
+
+De   Vlaamse Regering,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen,   artikel 6, § 1, IX, 7°, c), ingevoegd bij de bijzondere wet van 6 januari   2014;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid   der arbeiders, artikel 7, § 1, derde lid, i), gewijzigd bij de wet van 14   februari 1961;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk   vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding", artikel 5, § 1, 2°, b), en 3°,   c);<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het advies van de raad van bestuur van de Vlaamse Dienst voor   Arbeidsbemiddeling en Beroepsopleiding, gegeven op 4 november 2015;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 22   februari 2016;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Gelet   op advies 59.084/1 van de Raad van State, gegeven op 24 maart 2016, met   toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van   State, gecoördineerd op 12 januari 1973;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Op   voorstel van de Vlaamse minister van Werk, Economie, Innovatie en   Sport;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Na   beraadslaging,<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">Besluit   :
+
+### ART. 1.
+
+In het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering worden de volgende artikelen opgeheven:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   artikel 131, gewijzigd bij de koninklijke besluiten van 13 juli 2001 en 23 juli   2012;<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   artikel 131septies, ingevoegd bij het koninklijk besluit van 9 juli 2000 en   gewijzigd bij de koninklijke besluiten van 19 december 2001, 15 januari 2009 en   28 december 2011.
+
+### ART. 2.
+
+In artikel 133, § 1, van hetzelfde koninklijk besluit, het   laatst gewijzigd bij het koninklijk besluit van 31 augustus 2014, wordt punt 15°   opgeheven.
+
+### ART. 3.
+
+Als de aanvraag is ingediend vóór 1 mei 2016, blijven de   rechten die werden toegekend op basis van artikel 131, 131septies en 133, § 1,   15°, van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering, zoals van kracht vóór de inwerkingtreding van dit   besluit, behouden.
+
+### ART. 4.
+
+Dit besluit treedt in werking op 1 mei   2016.
+
+### ART. 5.
+
+De Vlaamse minister, bevoegd voor het tewerkstellingsbeleid,   is belast met de uitvoering van dit besluit.
