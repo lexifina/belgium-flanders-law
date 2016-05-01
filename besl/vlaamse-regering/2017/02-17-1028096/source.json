@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028096,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-17 houdende de overdracht van personeelsleden binnen de diensten van de Vlaamse overheid ingevolge de rationalisatie van de managementondersteunende functies en de oprichting van drie gemeenschappelijke dienstencentra en tot wijziging van bijlage 1 van het besluit van de Vlaamse Regering van 1 juli 2016 houdende de overdracht van statutaire en contractuele personeelsleden aan het agentschap Facilitair Bedrijf door de overname van de gebouwverantwoordelijkheid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028096/VolledigDocument?datum=2016-05-01",
+  "source_sha256": "c439266512d77cc76a9c99dd50dd83d61332a8ac9a1d4501ac4bfc9a165303ee",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028096&param=informatie",
+  "as_of": "2016-05-01",
+  "made": "2017-02-17",
+  "gazette": "2017-03-28",
+  "numac": 2017011378,
+  "document_start": "2017-04-07",
+  "document_end": null,
+  "in_force": "2016-05-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-05-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
