@@ -355,7 +355,10 @@ Het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan
 
 ### ART. 30.
 
-Het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest blijft van toepassing op de subsidieaanvragen, ingediend voor de datum van inwerkingtreding van dit besluit.<br /><br />
+Het besluit van de Vlaamse Regering van 16 mei 2007 tot toekenning van steun aan ondernemingen voor ecologie-investeringen in het Vlaamse Gewest blijft van toepassing op de subsidieaanvragen, ingediend voor de datum van inwerkingtreding van dit besluit.<br>
+<br>
+Indien, met toepassing van het in het eerste lid vermelde besluit van de Vlaamse Regering van 16 mei 2007, een beslissing tot steunverlening voor een investering in oplaadsystemen voor elektrische of hybride vaartuigen of voertuigen genomen werd en de in artikel 7 van het voormelde besluit bedoelde termijn voor de uitvoering van deze investering nog niet verstreken is, kan de minister, op gemotiveerd verzoek van de onderneming en op advies van de bevoegde administratie, deze termijn met maximaal twee jaar verlengen. Opeenvolgende verzoeken tot verlenging van in totaal 4 jaar zijn mogelijk. De minister kan bijkomende voorwaarden voor het toekennen van een verlenging bepalen.<br>
+&nbsp;
 
 ### ART. 31.
 
