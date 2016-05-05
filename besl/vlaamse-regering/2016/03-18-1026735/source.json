@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026735,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-18 tot wijziging van regelgeving met betrekking tot de regels van politie over het verkeer op waterwegen, wat betreft bevoegdheden, overgedragen in het kader van de zesde staatshervorming",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026735/VolledigDocument?datum=2016-05-05",
+  "source_sha256": "3f5a31ae8120f44b9884b511f03e398d4b59626e8813bb101bfc7f3c0579f73b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026735&param=informatie",
+  "as_of": "2016-05-05",
+  "made": "2016-03-18",
+  "gazette": "2016-04-25",
+  "numac": 2016035708,
+  "document_start": "2016-05-05",
+  "document_end": null,
+  "in_force": "2016-05-05",
+  "article_versions": 41,
+  "record_form": "consolidated version as in force on 2016-05-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
