@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026752,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-25 betreffende de wijziging van de ligging van de installaties voor het vervoer van gasachtige vloeistoffen, in eigendom van Aethyleen Rohrleitungs Gesellschaft m.b.H. und Co K.G., INEOS Chlorvinyls Limburg B.V. en N.V. P.A.L.L., die nu in beheer zijn bij Petrochemical Pipeline Services B.V., gelegen in het openbaar domein op- en afwaarts en onder de brug Zolder (Westlaan) in Heusden-Zolder en onder de brug Stokrooie in Hasselt over het Albertkanaal, beheerd door nv De Scheepvaart",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026752/VolledigDocument?datum=2016-05-08",
+  "source_sha256": "75362c8047aa9a7242db57680425454544dae6072e2800e8ca17bc2f2f6d8589",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026752&param=informatie",
+  "as_of": "2016-05-08",
+  "made": "2016-03-25",
+  "gazette": "2016-04-28",
+  "numac": 2016035703,
+  "document_start": "2016-05-08",
+  "document_end": null,
+  "in_force": "2016-05-08",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-05-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
