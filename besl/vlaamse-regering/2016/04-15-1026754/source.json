@@ -2,16 +2,16 @@
   "codex_id": 1026754,
   "title": "Besluit van de Vlaamse Regering van 2016-04-15 houdende de wijziging van diverse bepalingen van het Jachtadministratiebesluit van 25 april 2014",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026754/VolledigDocument?datum=2016-04-30",
-  "source_sha256": "20fd8ea39e77cb1bd93392b1f24080b17d21a86b54b8f2d2f5ec25fa53242034",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026754/VolledigDocument?datum=2016-05-09",
+  "source_sha256": "93e2227ffff89f2c396d16bc92be948b885d19aa23d030309e3e6da6b1e96105",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026754&param=informatie",
-  "as_of": "2016-04-30",
+  "as_of": "2016-05-09",
   "made": "2016-04-15",
   "gazette": "2016-04-29",
   "numac": 2016035729,
   "document_start": "2016-05-09",
   "document_end": null,
-  "in_force": "2016-04-30",
-  "article_versions": 11,
-  "record_form": "consolidated version as in force on 2016-04-30; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-05-09",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2016-05-09; future article versions excluded; article text as the API gives it"
 }
