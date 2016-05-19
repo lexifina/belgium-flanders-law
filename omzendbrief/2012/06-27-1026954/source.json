@@ -2,16 +2,16 @@
   "codex_id": 1026954,
   "title": "Omzendbrief van 2012-06-27 betreffende de technische keuring op verplaatsing",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026954/VolledigDocument?datum=2014-10-18",
-  "source_sha256": "3fe485f9510d2d14d87435fd781f2686ae4972f7de8afd4fc9bcc0a5c43160f2",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026954/VolledigDocument?datum=2016-05-19",
+  "source_sha256": "01c90cbe002f7906a8148ee148ff9874275302fc92cb123d1f04840ad72b11aa",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026954&param=informatie",
-  "as_of": "2014-10-18",
+  "as_of": "2016-05-19",
   "made": "2012-06-27",
   "gazette": "2012-07-05",
   "numac": 0,
   "document_start": "2012-07-01",
   "document_end": null,
-  "in_force": "2014-10-18",
+  "in_force": "2016-05-19",
   "article_versions": 8,
-  "record_form": "consolidated version as in force on 2014-10-18; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-05-19; future article versions excluded; article text as the API gives it"
 }

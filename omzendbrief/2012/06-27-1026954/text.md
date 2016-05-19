@@ -10,6 +10,10 @@ Deze omzendbrief heeft bijgevolg tot doel om de te volgen procedure in het kader
 <br>
 Onder keuring op verplaatsing dient men vooral te verstaan, een technische keuring, op verplaatsing van voertuigen van de klassen N2, N3, M2, M3, O3 en O4, in de lokalen van een onderneming die een samenwerkingsovereenkomst heeft ondertekend met een instelling voor autokeuring.<br>
 <br>
+Voor dit besluit verstaat men onder<br>
+"het departement": het Departement Mobiliteit en Openbare Werken;<br>
+"de Minister": de minister bevoegd voor Mobiliteit.<br>
+<br>
 I. Algemeen<br>
 <br>
 De gedelokaliseerde lijnen moeten bijgevolg beantwoorden aan de voorschriften van artikel 8 van het voornoemde koninklijk besluit van 23 december 1994.<br>
@@ -23,14 +27,16 @@ Het personeel van de erkende instellingen voor autokeuring beschikt over de gesc
 De keuringslijn op verplaatsing moet dus aan dezelfde regels voldoen als deze die gelden voor de keuringslijnen in de stations van de erkende instellingen. Dit betekent onder andere concreet dat :<br>
 - de keuringslijn moet bestaan uit een opeenvolging van werkzones die de uitvoering van de voorgeschreven keuringen toelaten;<br>
 - geen enkele afwijking wordt toegekend ten opzichte van de regels die van toepassing zijn op de technische uitrustingen, zoals beschreven in voornoemd artikel 8, § 2 van het Koninklijk Besluit van 23 december 1994, op de lokalen zoals beschreven in het Algemeen reglement voor de arbeidsbescherming (ARAB), op de wet betreffende het welzijn van de werknemers bij de uitvoering van hun werk en de Codex over het welzijn op het werk, alsook op de elektrische installaties zoals beschreven in het Algemeen reglement op de Elektrische Installaties (AREI);<br>
-- de technische uitrustingen en de lokalen moeten voortdurend toegankelijk blijven voor het personeel van de FOD Mobiliteit en Vervoer, Directoraat-generaal Mobiliteit en Verkeersveiligheid (DGMVV);<br>
+- de technische uitrustingen en de lokalen moeten voortdurend toegankelijk blijven voor het personeel van het departement;<br>
 - deze technische uitrustingen moeten voortdurend toegankelijk blijven voor het personeel van een erkende controle-instelling, aangeduid door de Minister of zijn afgevaardigde, en belast met het nazien van deze technische uitrustingen.<br>
 <br>
 Het project, bestaande uit de installatie van minimaal 20 en maximaal 30 keuringslijnen op verplaatsing, voor alle instellingen, is bedoeld als proefproject. Daarom is het belangrijk om keuringslijnen op verplaatsing te kiezen die een maximum aan verschillende aspecten bieden. Het project zal tevens evenredig verspreid worden over het heel nationaal territorium en de verschillende transportsectoren en vaklui voor het onderhoud en de herstelling van voertuigen.<br>
 <br>
-[Het proefproject loopt over een periode van twee jaar.<br>
+Het proefproject loopt over een periode van vier jaar.<br>
 <br>
-Bij het einde van het project zal een evaluatie van het project opgemaakt worden. Deze evaluatie wordt uitgevoerd door een Begeleidingscomité, voorgezeten door de Directeur-generaal van het Directoraat-generaal Wegvervoer en Verkeersveiligheid. Een tussenverslag wordt aan de Staatssecretaris voorgelegd na een periode van 6 maanden. Een eindverslag zal hem worden voorgelegd na een periode van twee jaar <em>(verv. omzendbrief 6 november 2013, art. 1, I: 18 oktober 2013)</em>].<br>
+Bij het einde van het project zal een evaluatie van het project opgemaakt worden. Deze evaluatie wordt uitgevoerd door een Begeleidingscomité, voorgezeten door een vertegenwoordiger van één van de drie gewesten, aangeduid in onderling overleg. Een eindverslag zal worden voorgelegd na een periode van vier jaar.<br>
+<br>
+Na deze evaluatie zal de Minister een beslissing nemen over het al of niet verderzetten van dit project.<br>
 <br>
 Na deze evaluaties zal de Staatssecretaris voor Mobiliteit een beslissing treffen met betrekking tot het al dan niet voortzetten van dit project.<br>
 <br>
@@ -45,9 +51,9 @@ II. Voorwaarden voor de uitbreiding van een autokeuringsstation naar een keuring
 - een verslag van een risico-analyse (veiligheid op de werkplaats) opgemaakt door de erkende instelling;<br>
 - de lijn moet overeenkomstig voornoemd artikel 8 van het koninklijk besluit van 23 december 1994 opgesteld worden;<br>
 - de gehomologeerde toestellen moeten een eerste controle voor indienststelling ondergaan door een erkende controle-instelling aangeduid door de Minister of zijn afgevaardigde en, indien het project zou worden verlengd na 12 maanden, moet een jaarlijkse controle gepland worden door een erkende controle-instelling aangeduid door de Minister of zijn afgevaardigde. Ook moet een tussentijdse controle plaatsvinden tijdens het project, om een vergelijking te kunnen doorvoeren tussen de evolutie van de technische staat van de metingsapparatuur die gebruikt wordt op een keuringslijn op verplaatsing en op een keuringslijn in een autokeuringsstation;<br>
-- een positief inspectieverslag afgeleverd door de Directie Inspectie en Certificatie (DCI);<br>
+- een positief inspectieverslag afgeleverd door&nbsp;het departement;<br>
 - een positief advies van de Contact Commissie (Administratie FIA-GOCA);<br>
-- de eindgoedkeuring van de Staatssecretaris voor Mobiliteit.<br>
+- de eindgoedkeuring van de Minister.<br>
 <br>
 III. Voorwaarden voor de keurinslijn<br>
 <br>
@@ -100,13 +106,13 @@ Herkeuringen zijn dus enkel mogelijk indien er een samenwerkingsakkoord bestaat 
 <br>
 VII. Kwaliteitsbewaking<br>
 <br>
-De controles uitgevoerd door de toezichthoudende overheid moeten leiden tot de evaluatie van de ontwikkelingen van het project en tot de opvolging in iedere locatie om zo de correcte uitwerking van de opdracht te bevestigen. De activiteiten zullen 2 weken op voorhand worden aangekondigd aan de FOD Mobiliteit en Vervoer (Directie Inspectie en Certificatie - Autokeuring) om hun inspecteurs in staat te stellen zich ter plaatse te begeven.<br>
+De controles uitgevoerd door de toezichthoudende overheid moeten leiden tot de evaluatie van de ontwikkelingen van het project en tot de opvolging in iedere locatie om zo de correcte uitwerking van de opdracht te bevestigen. De activiteiten zullen 2 weken op voorhand worden aangekondigd aan het departement om hun inspecteurs in staat te stellen zich ter plaatse te begeven.<br>
 <br>
 Op regelmatige basis en met de grootste professionele integriteit zullen de erkende instellingen controles uitvoeren (bezoek ter plaatse tijdens de keuring, nacontroles - minimaal 2,5 % van het aantal gekeurde voertuigen - dus minstens 1 op 40 -, audit van de uitrusting, statistische controles, enz.) en zullen zij, indien nodig, de noodzakelijke maatregelen treffen.<br>
 <br>
 VIII. Indiening van het project door een erkende instelling<br>
 <br>
-De erkende instelling dient een dossier in ter uitbreiding van haar keuringsstation met een keuringslijn op verplaatsing bij de FOD Mobiliteit en Vervoer en de Contactcommissie.<br>
+De erkende instelling dient een dossier in ter uitbreiding van haar keuringsstation met een keuringslijn op verplaatsing bij het departement en de Contactcommissie.<br>
 <br>
 De criteria om een keuringslijn op verplaatsing toe te kennen, rekening houdend met de voorwaarden van het project, worden opgenomen in bijlage 6.<br>
 <br>
@@ -132,27 +138,26 @@ Hieraan moeten de verplaatsingskosten worden toegevoegd. Opgemerkt moet worden d
 <br>
 X. Evaluatie van het project<br>
 <br>
-Een Begeleidingscomité, voorgezeten door de Directeur-generaal van de DGMVV, zal de follow-up van het project uitvoeren.<br>
+Een Begeleidingscomité, voorgezeten door een vertegenwoordiger van één van de drie gewesten, aangeduid in onderling overleg, zal de opvolging van het project uitvoeren.<br>
 <br>
-Het Begeleidingscomité is samengesteld uit leden van de FOD Mobiliteit en Vervoer en leden van de volgende instellingen :<br>
-* AGORIA<br>
-* De Lijn<br>
-* FBAA<br>
-* FEBETRA<br>
-* FEBIAC<br>
-* FEDERAUTO<br>
-* GOCA<br>
-* BIVV<br>
-* SRWT (TEC)<br>
-* MIVB<br>
-* TLV<br>
-* UPTR<br>
+Het Begeleidingscomité is samengesteld uit vertegenwoordigers van de drie gewesten en leden van de volgende instellingen:<br>
+AGORIA;<br>
+VVM De Lijn;<br>
+FBAA;<br>
+FEBETRA;<br>
+FEBIAC;<br>
+TRAXIO;<br>
+GOCA;<br>
+SRWT (TEC);<br>
+MIVB;<br>
+TLV;<br>
+UPTR.<br>
 <br>
-[Op het einde van het proefproject zal een evaluatie ervan plaatsvinden. Deze evaluatie wordt uitgevoerd door het Begeleidingscomité. Een tussentijds verslag zal worden voorgelegd aan de Staatssecretaris na een periode van 6 maanden. Een eindverslag zal hem worden overgemaakt na een periode van twee jaar <em>(verv. omzendbrief 6 november 2013, art. 2, I: 18 oktober 2013)</em>].<br>
+Zes maanden voor het einde van het project zal een tussentijdse evaluatie ervan plaatsvinden. Deze evaluatie wordt uitgevoerd door het Begeleidingscomité. Een eindverslag zal worden voorgelegd aan de Minister na een periode van vier jaar.<br>
 <br>
 De evaluatiecriteria zijn opgenomen in bijlage 7.<br>
 <br>
-Na deze evaluaties zal de Staatssecretaris beslissen het project al dan niet uit te breiden.<br>
+Na deze eindevaluaties zullen de drie gewesten beslissen over de eventuele verderzetting van het project.<br>
 <br>
 XI. Toepassingsdatum<br>
 <br>
