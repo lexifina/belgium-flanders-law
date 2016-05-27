@@ -19,6 +19,13 @@
 
 ## HOOFDSTUK 5 Wijziging van de wet van 4 november 1969 tot beperking van de pachtprijzen
 
+### ART 12.
+
+Artikel 1 van de wet van 4 november 1969 tot beperking van de pachtprijzen, gewijzigd bij de wet van 7 november 1988, wordt vervangen door wat volgt:<br>
+"Artikel 1. § 1. De Vlaamse Regering stelt een pachtprijzencommissie in, die bestaat uit minstens drie pachters, minstens drie grondeigenaars en een door de Vlaamse Regering aan te wijzen ambtenaar van het Vlaams Ministerie van Landbouw en Visserij, die het voorzitterschap waarneemt.<br>
+<br>
+§ 2. De werking van de pachtprijzencommissies, het aantal leden, de wijze van benoeming van de leden en van hun plaatsvervangers, alsook hun bezoldiging worden door de Vlaamse Regering geregeld.".
+
 ## HOOFDSTUK 6 Wijzigingen van de wet van 26 maart 1971 op de bescherming van de oppervlaktewateren tegen verontreiniging
 
 ## HOOFDSTUK 7 Wijzigingen van het decreet van 28 juni 1983 houdende oprichting van de instelling Vlaamse Maatschappij voor Watervoorziening
