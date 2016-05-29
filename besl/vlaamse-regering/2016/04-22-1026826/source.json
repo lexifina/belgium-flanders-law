@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026826,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-22 inzake diverse bepalingen met betrekking tot dierenwelzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026826/VolledigDocument?datum=2016-05-29",
+  "source_sha256": "b768ac74c29719639fe90ec488fbe0b2e775a9cb16b4fd0b8e491432bd08f06a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026826&param=informatie",
+  "as_of": "2016-05-29",
+  "made": "2016-04-22",
+  "gazette": "2016-05-19",
+  "numac": 2016035797,
+  "document_start": "2016-05-29",
+  "document_end": null,
+  "in_force": "2016-05-29",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-05-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
