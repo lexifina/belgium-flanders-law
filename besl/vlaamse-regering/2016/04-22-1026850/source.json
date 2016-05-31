@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026850,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-22 houdende de goedkeuring van het huishoudelijk reglement van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu, vermeld in artikel 16.2.9 van het decreet van 5 april 1995 houdende algemene bepalingen inzake milieubeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026850/VolledigDocument?datum=2016-05-31",
+  "source_sha256": "bd12d39587837df21c8ef839a04c9c1a6b4f2d5eff933d223405809676515b42",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026850&param=informatie",
+  "as_of": "2016-05-31",
+  "made": "2016-04-22",
+  "gazette": "2016-05-31",
+  "numac": 2016035806,
+  "document_start": "2016-05-31",
+  "document_end": null,
+  "in_force": "2016-05-31",
+  "article_versions": 36,
+  "record_form": "consolidated version as in force on 2016-05-31; oldest version available; future article versions excluded; article text as the API gives it"
+}
