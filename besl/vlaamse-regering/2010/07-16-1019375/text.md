@@ -16,7 +16,7 @@ In dit besluit wordt verstaan onder :<br />1° achtergevel : gevel die geen voor
 
 ### ART. 1.2.
 
-De bepalingen van dit besluit zijn van toepassing, onverminderd andere   regelgeving, inzonderheid de regelgeving inzake beschermde monumenten,   beschermde stads- en dorpsgezichten, cultuurhistorische&nbsp;landschappen en   archeologische sites, waarvoor een apart systeem van toelatingen   geldt.<BR><BR>
+De bepalingen van dit besluit zijn van toepassing, onverminderd andere   regelgeving, inzonderheid de regelgeving inzake beschermde monumenten,   beschermde stads- en dorpsgezichten, cultuurhistorische&nbsp;landschappen en   archeologische sites, waarvoor een apart systeem van toelatingen geldt, en de   regelgeving inzake archeologie.<BR><BR>
 
 ### ART. 1.3.
 
