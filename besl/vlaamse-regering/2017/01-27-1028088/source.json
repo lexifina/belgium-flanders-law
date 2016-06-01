@@ -1,0 +1,17 @@
+{
+  "codex_id": 1028088,
+  "title": "Besluit van de Vlaamse Regering van 2017-01-27 tot wijziging van het Vlaams personeelsstatuut van 13 januari 2006, wat betreft de dienstreizen en andere bepalingen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1028088/VolledigDocument?datum=2016-06-01",
+  "source_sha256": "f2e3ac26966c003c50e4ff624b38120f89c63dba45be0df657f7a58165bfdf9a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1028088&param=informatie",
+  "as_of": "2016-06-01",
+  "made": "2017-01-27",
+  "gazette": "2017-03-24",
+  "numac": 2017011095,
+  "document_start": "2017-02-01",
+  "document_end": null,
+  "in_force": "2016-06-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
