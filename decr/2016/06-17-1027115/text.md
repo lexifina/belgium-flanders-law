@@ -244,6 +244,20 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° jaarlijks een activiteitenverslag en een financieel rapport worden opgesteld en worden toegevoegd aan het activiteitenverslag met inbegrip van een financiële verantwoording, vermeld in artikel 15, § 2, tweede lid.";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° paragraaf 4 wordt opgeheven.</span>
 
+### ART X.19.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 87, § 3, van hetzelfde decreet worden de woorden "artikel 88." vervangen door de zinsnede "artikel 88, behalve indien het een vaste benoeming betreft volgens artikel 88, § 1/1.".</span><br>
+&nbsp;
+
+### ART X.20.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 88 van hetzelfde decreet wordt een paragraaf 1/1 ingevoegd die luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 1/1. Het volgens artikel 79, § 1, extern geworven personeelslid dat belast is met een mandaat van coördinerend inspecteur wordt op zijn verzoek in het onderliggend ambt van inspecteur benoemd, als aan de volgende voorwaarden is voldaan :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° het personeelslid heeft in het ambt van coördinerend inspecteur geen definitieve eindevaluatie met eindconclusie onvoldoende gekregen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het personeelslid wordt voorgedragen door de inspecteur-generaal;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste 2 jaar het mandaat van coördinerend inspecteur voltijds uitgeoefend.".</span><br>
+&nbsp;
+
 ### ART X.21.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 90, § 1, en in artikel 98, § 1, van hetzelfde decreet wordt de zinsnede "artikel 63 tot en met artikel 65." vervangen door de zinsnede "artikel 63 tot en met artikel 65/1.".</span><br>
