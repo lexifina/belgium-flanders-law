@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026899,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-20 tot wijziging van artikel 10, 24 en 27bis van het besluit van de Vlaamse Regering van 3 mei 2002 tot instelling van een aanmoedigingspremie in de Vlaamse private sociale profitsector",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026899/VolledigDocument?datum=2016-06-01",
+  "source_sha256": "3dc232432c8516b8070826e06c37185c1f15ded1ab6d24dd38e7636c55fe478f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026899&param=informatie",
+  "as_of": "2016-06-01",
+  "made": "2016-05-20",
+  "gazette": "2016-06-15",
+  "numac": 2016035938,
+  "document_start": "2016-06-01",
+  "document_end": null,
+  "in_force": "2016-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
