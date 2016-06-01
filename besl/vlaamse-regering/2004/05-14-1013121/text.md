@@ -40,7 +40,7 @@ Overeenkomstig artikel 6, § 3, van het kaderdecreet bestuurlijk beleid van 18 j
 
 ### ART. 9.
 
-Het hoofd van Onroerend Erfgoed heeft toegang tot onroerend erfgoed en tot   vaartuigen, met toepassing van artikel 4.1.5 en 6.1.2 van het   Onroerenderfgoeddecreet van 12 juli 2013, artikel 30 van het Archeologiedecreet   en artikel 3/4 en 4, § 5, van het decreet van 29 maart 2002 tot bescherming van   varend erfgoed.<BR><BR>Hij kan die bevoegdheid overdragen aan ambtenaren van   zijn agentschap. <BR>
+Het hoofd van Onroerend Erfgoed heeft toegang tot onroerend erfgoed en tot   vaartuigen, met toepassing van artikel 4.1.5 en 6.1.2 van het   Onroerenderfgoeddecreet van 12 juli 2013 en artikel 3/4 en 4, § 5, van het   decreet van 29 maart 2002 tot bescherming van varend erfgoed.<BR><BR>Hij kan die   bevoegdheid overdragen aan ambtenaren van zijn agentschap. <BR>
 
 ### ART. 9/1.
 
