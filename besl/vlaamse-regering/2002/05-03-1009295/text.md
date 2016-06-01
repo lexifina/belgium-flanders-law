@@ -50,7 +50,7 @@ De aanmoedigingspremies als bedoeld in de artikelen 4, 7, 10, 14 en 18 van dit b
 
 ### ART. 10.
 
-§ 1. Aan de werknemer, tewerkgesteld in de Vlaamse sociale profitsector,   evenals aan de werknemer behorend tot het doelgroeppersoneel van de beschutte en   sociale werkplaatsen, kan een aanmoedigingspremie worden toegekend indien hij   zijn loopbaan gedeeltelijk onderbreekt vanaf de leeftijd van 50 jaar in het   kader van de in het akkoord voorziene landingsbanen.<BR><BR>§ 2. ...<BR><BR>§ 3.   De periode van één jaar voorafgaand aan de aanvang van de deeltijdse   loopbaanonderbreking moet tewerkgesteld zijn in een arbeidsregeling die minimum   75 % van de voltijdse arbeidsregeling bedraagt.
+§ 1. Aan de werknemer, tewerkgesteld in een zorggerelateerd beroep&nbsp;in   de Vlaamse sociale profitsector,&nbsp;dat is opgenomen in de lijst van   zorggerelateerde beroepen die door de minister wordt bepaald, evenals aan de   werknemer behorend tot het doelgroeppersoneel van de beschutte en sociale   werkplaatsen, kan een aanmoedigingspremie worden toegekend indien hij zijn   loopbaan gedeeltelijk onderbreekt vanaf de leeftijd van 50 jaar in het kader van   de in het akkoord voorziene landingsbanen.<BR><BR>§ 2. ...<BR><BR>§ 3. De   periode van één jaar voorafgaand aan de aanvang van de deeltijdse   loopbaanonderbreking moet tewerkgesteld zijn in een arbeidsregeling die minimum   75 % van de voltijdse arbeidsregeling bedraagt.
 
 ### ART. 11.
 
@@ -112,7 +112,7 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 
 ### ART. 24.
 
-§ 1. Om geldig te zijn moet de werknemer zijn aanvraag tot het bekomen van   de aanmoedigingspremie indienen binnen zes maanden na aanvang van de   loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<BR><BR>§   2. Na betalingsopdracht door het Departement WSE wordt de premie voor de   afgelopen maand aan de rechthebbende werknemer uitgekeerd.<BR><BR>§ 3. De   aanmoedigingspremies worden geïndexeerd en zijn gekoppeld aan de spilindex   109,45. De indexering geschiedt vanaf de tweede maand die volgt op het einde van   de periode van twee maanden tijdens dewelke het gemiddeld indexcijfer het cijfer   bereikt dat een wijziging rechtvaardigt.
+§ 1. Om geldig te zijn moet de werknemer zijn aanvraag tot het bekomen van   de aanmoedigingspremie indienen binnen zes maanden na aanvang van de   loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.<BR><BR>§   2. Na betalingsopdracht door het Departement WSE wordt de premie voor de   afgelopen maand aan de rechthebbende werknemer uitgekeerd.<BR><BR>§ 3. De   aanmoedigingspremies&nbsp;met uitzondering van de aanmoedigingspremies in het   kader van de landingsbanen geregeld in artikel 10, 11 en 13 van dit besluit,   worden geïndexeerd en zijn gekoppeld aan de spilindex 109,45. De indexering   geschiedt vanaf de tweede maand die volgt op het einde van de periode van twee   maanden tijdens dewelke het gemiddeld indexcijfer het cijfer bereikt dat een   wijziging rechtvaardigt.
 
 ## HOOFDSTUK V CONTROLE EN SANCTIES
 
@@ -133,6 +133,10 @@ De aanmoedigingspremie bij verminderde arbeidsduur kan niet gecombineerd worden 
 ### ART. 27.
 
 § 1. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, blijven hun uitwerking behouden voor de toegekende duur met toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 2. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van loopbaankrediet, blijven hun uitwerking behouden voor de toegekende duur en de toegekende bedragen met toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 3. De beslissingen genomen in uitvoering van het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van landingsbanen, blijven hun uitwerking behouden voor de toegekende duur met toepassing vanaf 1 januari 2002 van de bedragen vermeld in artikel 13 van dit besluit en toepassing van artikel 24, § 3, van dit besluit.<br /><br />§ 4. De vervangingsplicht opgelegd door het besluit van de Vlaamse regering van 8 december 2000 tot instelling van de aanmoedigingspremies bij loopbaanonderbreking in geval van zorgkrediet, loopbaankrediet en landingsbanen, vervalt met ingang van 1 januari 2002.<br /><br />§ 5. In afwijking van artikel 24, § 1, van dit besluit is de aanvraag voor het bekomen van de aanmoedigingspremie, met betrekking tot de premie-aanvragen waarvan het tijdskrediet is aangevangen in de periode tussen 1 januari 2002 en 31 mei 2002, geldig als ze ingediend wordt binnen negen maanden na aanvang van de loopbaanonderbreking waarvoor de aanmoedigingspremie wordt aangevraagd.
+
+### ART. 27bis.
+
+Op de aanvragen van een aanmoedigingspremie in het kader van de   landingsbanen, die zijn ingegaan vóór 1 juni 2016, wordt de beperking tot   zorggerelateerde beroepen, vermeld in artikel 10, § 1, niet   toegepast.
 
 ## HOOFDSTUK VIII SLOTBEPALINGEN
 
