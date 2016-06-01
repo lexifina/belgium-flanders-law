@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026846,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-22 houdende wijziging wat betreft de formele vereisten van het besluit van de Vlaamse Regering van 5 juli 2013 betreffende de toekenning van subsidies aan jeugdhuizen voor de uitvoering van een bovenlokaal project",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026846/VolledigDocument?datum=2016-06-01",
+  "source_sha256": "387c4bd7e3f3bf8b01f138bd05ac69726da2682be83a375442598c0622523874",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026846&param=informatie",
+  "as_of": "2016-06-01",
+  "made": "2016-04-22",
+  "gazette": "2016-05-26",
+  "numac": 2016035801,
+  "document_start": "2016-06-01",
+  "document_end": null,
+  "in_force": "2016-06-01",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
