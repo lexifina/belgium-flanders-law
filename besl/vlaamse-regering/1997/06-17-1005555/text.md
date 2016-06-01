@@ -38,7 +38,143 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 
 ### ART. 5bis.
 
-<P>§ 1. Uit de basisomkadering van het kleuteronderwijs, verkregen volgens   artikel 131 van het decreet, kunnen, in het kleuteronderwijs, betrekkingen   worden ingericht :<BR>1° in het ambt van kleuteronderwijzer;<BR>2° in het ambt   van leermeester lichamelijke opvoeding.<BR></P>  <P>§ 2. De basisomkadering van het kleuteronderwijs, verkregen volgens artikel   131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of   gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of   leermeester lichamelijke opvoeding :<BR>1° van de basisomkadering van het   kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval,   de directeur of de adjunct-direteur presteren in het kleuteronderwijs,   afgetrokken;<BR>2° de overige lestijden worden gedeeld door 24 tot op de eenheid   voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het   quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.<BR></P>  <P>§ 3. Voor de schooljaren 2012-2013, 2013-2014, 2014-2015 en 2015-2016 kan de   basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld   aan kleuteronderwijzers met een vereist of een voldoende geacht   bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die   de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden   ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande   tabel :<BR></P>  <P>  <TABLE border=1>    <TBODY>    <TR>      <TD>lestijden       <TD>uren kinderverzorger <BR>    <TR>      <TD>1       <TD>2 <BR>    <TR>      <TD>2       <TD>3 <BR>    <TR>      <TD>3       <TD>5 <BR>    <TR>      <TD>4       <TD>6 <BR>    <TR>      <TD>5       <TD>8 <BR>    <TR>      <TD>6       <TD>10 <BR>    <TR>      <TD>7       <TD>11 <BR>    <TR>      <TD>8       <TD>13 <BR>    <TR>      <TD>9       <TD>14 <BR>    <TR>      <TD>10       <TD>16 <BR>    <TR>      <TD>11       <TD>17 <BR>    <TR>      <TD>12       <TD>19 <BR>    <TR>      <TD>13       <TD>21 <BR>    <TR>      <TD>14       <TD>22 <BR>    <TR>      <TD>15       <TD>24 <BR>    <TR>      <TD>16       <TD>25 <BR>    <TR>      <TD>17       <TD>27 <BR>    <TR>      <TD>18       <TD>29 <BR>    <TR>      <TD>19       <TD>30 <BR>    <TR>      <TD>20       <TD>32<BR></TD></TR></TBODY></TABLE></P>  <P><BR>§ 4. Uit de basisomkadering van het lager onderwijs, verkregen volgens   artikel 131 van het decreet, kunnen, in het lager onderwijs, betrekkingen worden   ingericht in de volgende ambten :<BR>1° onderwijzer;<BR>2° leermeester   lichamelijke opvoeding;<BR>3° leermeester godsdienst of niet-confessionele   zedenleer.<BR></P>  <P>§ 5. De basisomkadering van het lager onderwijs, verkregen volgens artikel   131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of   gesubsieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester   lichamelijke opvoeding of leermeester godsienst of niet-confessionele zedenleer   :<BR>1° van de basisomkadering van het lager onderwijs worden, in voorkomend   geval, de lestijden onderwijsopdracht afgetrokken die de directeur of de   adjunct-directeur presteren in het lager onderwijs;<BR>2° de overige lestijden   worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer,   leermeester lichamelijke opvoeding of leermeester godsdienst of   niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijk aantal   volledige betrekkingen.<BR></P>  <P>§ 6. De onderwijsopdracht van de directeur of de adjunct-directeur van een   basisschool kan geput worden uit de basisomkadering, toegekend volgens artikel   131 van het decreet.<BR></P>  <P>§ 7. Ter uitvoering van artikel 173sexies van het decreet wendt een school   voor gewoon basisonderwijs in zijn kleuteronderwijs minstens 7,7 % van de   lestijden volgens de schalen verkregen volgens artikel 132 van het decreet aan   voor het leergebied lichamelijke opvoeding en in zijn lager onderwijs minstens   1,2 %. Het aldus bekomen aantal lestijden wordt als volgt afgerond : als het   eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere   geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan   vier wordt er afgrond naar het lagere geheel getal.<BR><BR>De lestijden bekomen   door toepassing van het percentage 1,2 en de voorziene afronding moeten in het   lager onderwijs aangewend worden om de werkdruk van het onderwijzend personeel   te verminderen ten opzichte van de toestand voor de invoering van de aanvullende   lestijden lichamelijke opvoeding in het lager onderwijs. Hiervoor moeten de   criteria onderhandeld worden in het bevoegde lokaal comité </P>
+<p>§ 1. Uit de basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het kleuteronderwijs, betrekkingen worden ingericht :<br>
+1° in het ambt van kleuteronderwijzer;<br>
+2° in het ambt van leermeester lichamelijke opvoeding.</p>
+
+<p>§ 2. De basisomkadering van het kleuteronderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsidieerde voltijdse of deeltijdse betrekkingen van kleuteronderwijzer of leermeester lichamelijke opvoeding :<br>
+1° van de basisomkadering van het kleuteronderwijs worden de lestijden onderwijsopdracht die, in voorkomend geval, de directeur of de adjunct-direteur presteren in het kleuteronderwijs, afgetrokken;<br>
+2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van kleuteronderwijzer of leermeester lichamelijke opvoeding. Het quotiënt is gelijk aan het mogelijke aantal volledige betrekkingen.</p>
+
+<p>§ 3.&nbsp;Voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016 en 2016-2017 kan de basisomkadering van het kleuteronderwijs, mits er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen, worden ingericht in het ambt van kinderverzorger, na omzetting volgens de onderstaande tabel :</p>
+
+<p>&nbsp;</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>lestijden</td>
+			<td>uren kinderverzorger</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>32</td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><br>
+§ 4. Uit de basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, kunnen, in het lager onderwijs, betrekkingen worden ingericht in de volgende ambten :<br>
+1° onderwijzer;<br>
+2° leermeester lichamelijke opvoeding;<br>
+3° leermeester godsdienst of niet-confessionele zedenleer.</p>
+
+<p>§ 5. De basisomkadering van het lager onderwijs, verkregen volgens artikel 131 van het decreet, wordt als volgt omgerekend naar de gefinancierde of gesubsieerde voltijdse of deeltijdse betrekkingen van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsienst of niet-confessionele zedenleer :<br>
+1° van de basisomkadering van het lager onderwijs worden, in voorkomend geval, de lestijden onderwijsopdracht afgetrokken die de directeur of de adjunct-directeur presteren in het lager onderwijs;<br>
+2° de overige lestijden worden gedeeld door 24 tot op de eenheid voor het ambt van onderwijzer, leermeester lichamelijke opvoeding of leermeester godsdienst of niet-confessionele zedenleer. Het quotiënt is gelijk aan het mogelijk aantal volledige betrekkingen.</p>
+
+<p>§ 6. De onderwijsopdracht van de directeur of de adjunct-directeur van een basisschool kan geput worden uit de basisomkadering, toegekend volgens artikel 131 van het decreet.</p>
+
+<p>§ 7. Ter uitvoering van artikel 173sexies van het decreet wendt een school voor gewoon basisonderwijs in zijn kleuteronderwijs minstens 7,7 % van de lestijden volgens de schalen verkregen volgens artikel 132 van het decreet aan voor het leergebied lichamelijke opvoeding en in zijn lager onderwijs minstens 1,2 %. Het aldus bekomen aantal lestijden wordt als volgt afgerond : als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere geheel getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgrond naar het lagere geheel getal.<br>
+<br>
+De lestijden bekomen door toepassing van het percentage 1,2 en de voorziene afronding moeten in het lager onderwijs aangewend worden om de werkdruk van het onderwijzend personeel te verminderen ten opzichte van de toestand voor de invoering van de aanvullende lestijden lichamelijke opvoeding in het lager onderwijs. Hiervoor moeten de criteria onderhandeld worden in het bevoegde lokaal comité</p>
 
 ### ART. 6.
 
@@ -46,9 +182,9 @@ Voor de toepassing van dit besluit wordt verstaan onder:<BR>1° ...<BR>2°   and
 
 ### ART. 6bis.
 
-Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Vlaamse Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij het Agentschap&nbsp;voor Geografische Informatie Vlaanderen, op de eerste schooldag van februari van het voorgaande schooljaar. Daarbij wordt gebruikgemaakt van de technische voorschriften van de CRAB-specificaties, vermeld in artikel 5 van het ministerieel besluit van 25 maart 2011 tot vaststelling van de CRAB-specificaties.<br>
+Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Vlaamse Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij het Agentschap&nbsp;Informatie Vlaanderen, op de eerste schooldag van februari van het voorgaande schooljaar. Daarbij wordt gebruikgemaakt van de technische voorschriften van de CRAB-specificaties, vermeld in artikel 5 van het ministerieel besluit van 25 maart 2011 tot vaststelling van de CRAB-specificaties.<br>
 <br>
-Indien de positie van een vestigingsplaats beschikbaar bij&nbsp;AGIV zich niet ten minste op het perceel bevindt waar de vestigingsplaats ligt, wordt er in afwijking van het eerste lid, gewerkt met de geopositie van de betrokken vestigingsplaats zoals deze, beschikbaar is in de bestanden van het ministerie van onderwijs en vorming.<br>
+Indien de positie van een vestigingsplaats beschikbaar bij&nbsp;het agentschap Informatie Vlaanderen zich niet ten minste op het perceel bevindt waar de vestigingsplaats ligt, wordt er in afwijking van het eerste lid, gewerkt met de geopositie van de betrokken vestigingsplaats zoals deze, beschikbaar is in de bestanden van het ministerie van onderwijs en vorming.<br>
 <br>
 Met toepassing van artikel 140, § 1, 3°, van het decreet worden de vestigingsplaatsen in het Brusselse Hoofdstedelijke Gewest gegeopositioneerd op basis van de geografische coördinaten, beschikbaar bij de dienst van het Brusselse Hoofdstedelijke Gewest die bevoegd is voor geopositionering, op de eerste schooldag van februari van het voorgaande schooljaar.<br>
 <br>
@@ -65,178 +201,177 @@ Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten 
 § 3. Uit de lestijden bekomen ten gevolge van de herberekening vermeld in § 1 en uit de lestijden bekomen ten gevolge van de herberekening vermeld in artikel 173quinquies/1, § 2, van het decreet, kunnen betrekkingen worden ingericht :<br>
 1° in het ambt van kleuteronderwijzer;<br>
 2° in het ambt van leermeester lichamelijke opvoeding;<br>
-3° voor de schooljaren 2012-2013, 2013-2014, 2014-2015 en 2015-2016 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
+3° voor de schooljaren 2012-2013, 2013-2014, 2014-2015, 2015-2016 en 2016-2017 na omzetting van de lestijden in het ambt van kinderverzorger, als er een tekort wordt vastgesteld aan kleuteronderwijzers met een vereist of een voldoende geacht bekwaamheidsbewijs of aan kleuteronderwijzers met een ander bekwaamheidsbewijs die de opleiding bachelor in het onderwijs : kleuteronderwijs volgen.<br>
 <br>
-§ 4. De herberekende lestijden die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :&nbsp;<br>
-&nbsp;</p>
+§ 4. De herberekende lestijden die overeenkomstig § 3 niet worden aangewend in het ambt van kleuteronderwijzer worden samengeteld. Na het samentellen van deze herberekende lestijden worden ze omgezet volgens onderstaande tabel :&nbsp;</p>
 
 <table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:293.4pt">
 	<tbody>
 		<tr>
-			<td style="border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:149.4pt">
+			<td style="height:14.2pt; width:149.4pt">
 			<p>Herberekende lestijden</p>
 			</td>
-			<td style="border-bottom:windowtext 1pt solid; border-left:medium none; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; height:14.2pt; width:144pt">
+			<td style="border-color:windowtext windowtext windowtext currentColor; height:14.2pt; width:144pt">
 			<p>Uren Kinderverzorger</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>1</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>2</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>2</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>3</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>3</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>5</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>4</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>6</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>5</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>8</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>6</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>10</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>7</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>11</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>8</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>13</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>9</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>14</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>10</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>16</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>11</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>17</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>12</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>19</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>13</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>21</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>14</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>22</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>15</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>24</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>16</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>25</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>17</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>27</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>18</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>29</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>19</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>30</p>
 			</td>
 		</tr>
 		<tr>
-			<td style="border-bottom:1pt solid; border-left:1pt solid; border-right:1pt solid; border-top:medium none; height:14.2pt; width:149.4pt">
+			<td style="border-color:currentColor; height:14.2pt; width:149.4pt">
 			<p>20</p>
 			</td>
-			<td style="border-bottom:1pt solid; border-left:medium none; border-right:1pt solid; border-top:medium none; height:14.2pt; width:144pt">
+			<td style="border-color:currentColor; height:14.2pt; width:144pt">
 			<p>32</p>
 			</td>
 		</tr>
@@ -247,7 +382,120 @@ Het aantal regelmatige kleuters dat de school op de instapdatum méér telt ten 
 
 ### ART. 8.
 
-<P>...</P>
+<p>§ 1. Met toepassing van artikel 141, § 3, van het decreet, kunnen de lestijden volgens de schalen in het kleuteronderwijs op 1 juni 2016 herberekend worden met het oog op de omkadering van het schooljaar 2016-2017.<br>
+<br>
+Het aantal extra lestijden volgens de schalen waarop de school recht heeft, is 0,29116 lestijden maal (C + (D-C)), waarbij, als D-C negatief is dit gelijkgesteld wordt aan 0, waarbij:<br>
+1° C= de totale stijging op 1 juni 2016, ten opzichte van 1 februari 2016, van kleuters in de school die op 31 december van het lopende schooljaar jonger dan vijf jaar zijn en die op de eerste schooldag van februari 2016 gelijktijdig aan de volgende voorwaarden voldoen:<br>
+a) de kleuter is een nieuwkomer, dat wil zeggen dat hij pas vanaf 1 juli 2015 of later in België verblijft;<br>
+b) de kleuter heeft niet het Nederlands als thuistaal of moedertaal;<br>
+c) de kleuter beheerst onvoldoende de onderwijstaal om met goed gevolg de lessen te kunnen volgen;<br>
+d) de kleuter is maximaal negen maanden ingeschreven, vakantiemaanden juli en augustus niet inbegrepen, in een school met het Nederlands als onderwijstaal;<br>
+2° D= de totale stijging op 1 juni 2016, ten opzichte van 1 februari 2016, van kleuters in de school die voldoen aan het leerlingenkenmerk, vermeld in artikel 133, § 1, c), van het decreet.<br>
+<br>
+De lestijden die verkregen worden op basis van de herberekening, worden als volgt afgerond: als het eerste cijfer na de komma groter is dan vier, wordt er afgerond naar het hogere gehele getal. Als het eerste cijfer na de komma kleiner is dan of gelijk is aan vier wordt er afgerond naar het lagere geheel getal.<br>
+<br>
+§ 2. De lestijden die verkregen worden op basis van de herberekening, vermeld in paragraaf 1, worden gefinancierd of gesubsidieerd vanaf 1 september 2016 tot en met 30 juni 2017.<br>
+<br>
+§ 3. Uit de lestijden die verkregen worden op basis van de herberekening, vermeld in paragraaf 1, kunnen betrekkingen worden ingericht in:<br>
+1° het ambt van kleuteronderwijzer;<br>
+2° het ambt van kinderverzorger mits er een tekort aan kleuteronderwijzers met het vereiste of het voldoende geachte bekwaamheidsbewijs wordt vastgesteld.<br>
+<br>
+§ 4. De herberekende lestijden die met toepassing van paragraaf 3 niet worden aangewend in het ambt van kleuteronderwijzer, kunnen worden omgezet op de wijze, vermeld in de volgende tabel:<br>
+&nbsp;</p>
+
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Herberekende lestijden</td>
+			<td>Uren Kinderverzorger</td>
+		</tr>
+		<tr>
+			<td>1</td>
+			<td>2</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>3</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>6</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>8</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>11</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>13</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>14</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>16</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>17</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>19</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>21</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>22</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>24</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>25</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>27</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>29</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>30</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>32</td>
+		</tr>
+	</tbody>
+</table>
+
+<p><br>
+§ 5. De betrekkingen die worden ingericht op basis van herberekende lestijden komen niet in aanmerking voor vacantverklaring en het schoolbestuur kan in geen geval een personeelslid vast benoemen, affecteren of muteren in die betrekkingen.<br>
+<br>
+§ 6. De lestijden die verkregen worden op basis van de herberekening, vermeld in paragraaf 1, moeten worden aangewend voor de taalondersteuning voor de kennis van het Nederlands van de anderstalige kleuters.</p>
 
 ### ART. 9.
 
