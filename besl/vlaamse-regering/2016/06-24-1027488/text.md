@@ -17,6 +17,10 @@ Besluit :
 
 ## HOOFDSTUK 2. Overdracht van personeelsleden aan het Departement Financiën en Begroting
 
+### ART 2.
+
+Het statutair personeelslid van het Departement Economie, Wetenschap en Innovatie, vermeld in punt 2.1 van bijlage 2, die bij dit besluit is gevoegd, wordt overgedragen aan het Departement Financiën en Begroting.
+
 ## HOOFDSTUK 3. Overdracht van personeelsleden aan Het Facilitair Bedrijf
 
 ## HOOFDSTUK 4. Wijziging van het besluit van de Vlaamse Regering van 18 december 2015
