@@ -25,3 +25,7 @@ Besluit :
 ### ART 1.
 
 Het statutaire personeelslid van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in bijlage 1, punt 1.1, die bij dit besluit is gevoegd, wordt overgedragen aan Het Facilitair Bedrijf.
+
+### ART 2.
+
+De statutaire personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in bijlage 1, punt 1.2, die bij dit besluit is gevoegd, worden overgedragen aan Het Facilitair Bedrijf.
