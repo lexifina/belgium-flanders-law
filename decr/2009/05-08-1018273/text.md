@@ -571,13 +571,53 @@ Als de eindevaluatie van het mandaat van de inspecteur-generaal niet resulteert 
 
 ### ART. 87.
 
-§ 1. Een personeelslid dat belast is met een mandaat, kan vrijwillig afzien van het mandaat. Hij deelt dat per aangetekende brief mee aan de Vlaamse Regering ten minste zes maanden voor het neerleggen van het mandaat. In onderling overleg kan van die periode van zes maanden worden afgeweken.<br /><br />§ 2. Het mandaat wordt beëindigd na een definitieve evaluatie met eindconclusie onvoldoende. <br /><br />§ 3. Het mandaat wordt beëindigd op het ogenblik dat het personeelslid wordt vastbenoemd bij toepassing van artikel 88.<br /><br />§ 4. Het personeelslid dat belast is met een mandaat kan, zonder opzegging, om dringende redenen worden ontslagen. <br /><br />Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van het mandaat onmiddellijk en definitief onmogelijk maakt. Ontslag om dringende redenen overeenkomstig de bepalingen van deze paragraaf kan niet meer worden gegeven, wanneer het feit ter rechtvaardiging ervan sedert ten minste drie werkdagen bekend is bij de Vlaamse Regering. <br /><br />Alleen de dringende redenen waarvan kennis is gegeven per aangetekende brief, verzonden binnen drie werkdagen na het ontslag, kunnen worden aangewend ter rechtvaardiging van het ontslag. Deze brief vermeldt, op straffe van nietigheid, de beroepsmogelijkheden.<br /><br />Het personeelslid kan binnen vijf kalenderdagen na ontvangst van het ontslag om dringende redenen per aangetekende brief beroep aantekenen bij de raad van beroep, vermeld in artikel 135, volgens de procedure, vermeld in artikel 138. Bij ontvangst van het ontslag tijdens een periode van ten minste zeven opeenvolgende vakantiedagen, wordt voornoemde periode van vijf kalenderdagen verlengd met de duur van de vakantieperiode. <br /><br />Het beroep wordt ingesteld bij bezwaarschrift. Het beroep heeft een opschortende werking. Het personeelslid kan tijdens het beroep preventief worden geschorst. De Vlaamse Regering bepaalt de nadere regels voor de preventieve schorsing. Dit besluit garandeert het recht van verdediging. <br /><br />§ 5. Bij de beëindiging van het mandaat neemt het vastbenoemde personeelslid opnieuw zijn ambt als inspecteur op.
+§ 1. Een personeelslid dat belast is met een mandaat, kan vrijwillig afzien van het mandaat. Hij deelt dat per aangetekende brief mee aan de Vlaamse Regering ten minste zes maanden voor het neerleggen van het mandaat. In onderling overleg kan van die periode van zes maanden worden afgeweken.<br>
+<br>
+§ 2. Het mandaat wordt beëindigd na een definitieve evaluatie met eindconclusie onvoldoende.<br>
+<br>
+§ 3. Het mandaat wordt beëindigd op het ogenblik dat het personeelslid wordt vastbenoemd bij toepassing van artikel 88, behalve indien het een vaste benoeming betreft volgens artikel 88, § 1/1.<br>
+<br>
+§ 4. Het personeelslid dat belast is met een mandaat kan, zonder opzegging, om dringende redenen worden ontslagen.<br>
+<br>
+Onder dringende redenen wordt verstaan de ernstige tekortkoming die het voortduren van het mandaat onmiddellijk en definitief onmogelijk maakt. Ontslag om dringende redenen overeenkomstig de bepalingen van deze paragraaf kan niet meer worden gegeven, wanneer het feit ter rechtvaardiging ervan sedert ten minste drie werkdagen bekend is bij de Vlaamse Regering.<br>
+<br>
+Alleen de dringende redenen waarvan kennis is gegeven per aangetekende brief, verzonden binnen drie werkdagen na het ontslag, kunnen worden aangewend ter rechtvaardiging van het ontslag. Deze brief vermeldt, op straffe van nietigheid, de beroepsmogelijkheden.<br>
+<br>
+Het personeelslid kan binnen vijf kalenderdagen na ontvangst van het ontslag om dringende redenen per aangetekende brief beroep aantekenen bij de raad van beroep, vermeld in artikel 135, volgens de procedure, vermeld in artikel 138. Bij ontvangst van het ontslag tijdens een periode van ten minste zeven opeenvolgende vakantiedagen, wordt voornoemde periode van vijf kalenderdagen verlengd met de duur van de vakantieperiode.<br>
+<br>
+Het beroep wordt ingesteld bij bezwaarschrift. Het beroep heeft een opschortende werking. Het personeelslid kan tijdens het beroep preventief worden geschorst. De Vlaamse Regering bepaalt de nadere regels voor de preventieve schorsing. Dit besluit garandeert het recht van verdediging.<br>
+<br>
+§ 5. Bij de beëindiging van het mandaat neemt het vastbenoemde personeelslid opnieuw zijn ambt als inspecteur op.
 
 ## Afdeling V. Vaste benoeming
 
 ### ART. 88.
 
-§ 1. Het personeelslid belast met een mandaat van coördinerend inspecteur wordt op zijn verzoek in dat ambt benoemd als aan de volgende voorwaarden is voldaan :<br />1° het personeelslid heeft de leeftijd van ten minste 55 jaar bereikt op het ogenblik van de vaste benoeming;<br />2° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste vier jaar het mandaat van coördinerend inspecteur uitgeoefend.<br /><br />§ 2. Het personeelslid belast met een mandaat van inspecteur-generaal wordt op zijn verzoek in dat ambt benoemd als aan de volgende voorwaarden is voldaan :<br />1° het personeelslid heeft de leeftijd van ten minste 55 jaar bereikt op het ogenblik van de vaste benoeming;<br />2° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste vier jaar het mandaat van inspecteur-generaal uitgeoefend.<br /><br />§ 3. De vaste benoeming gaat steeds in op de eerste dag van de maand die volgt op de aanvraag bij de Vlaamse Regering.<br /><br />§ 4. Indien op het ogenblik dat het personeelslid de vaste benoeming aanvraagt, een beroepsprocedure loopt tegen een evaluatie met eindconclusie onvoldoende of tegen een ontslag om dringende redenen, wordt de vaste benoeming uitgesteld tot er een definitieve uitspraak in deze zaak is. Indien na de beroepsprocedure de evaluatie met eindconclusie onvoldoende of het ontslag om dringende redenen niet wordt bevestigd, gaat de vaste benoeming in op de eerste dag van de maand die volgt op het ogenblik van de definitieve uitspraak. <br /><br />§ 5. De vaste benoeming wordt schriftelijk vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br />1° de identiteit van het personeelslid;<br />2° het uit te oefenen ambt;<br />3° de ingangsdatum; <br />4° het functieprofiel waarop de vaste benoeming is gebaseerd;<br />5° de standplaats.<br /><br />§ 6. Bij ontstentenis van een geschrift bij de aanvang van de vaste benoeming, wordt het personeelslid geacht vastbenoemd te zijn in het ambt en voor de opdracht die het werkelijk uitoefent.
+§ 1. Het personeelslid belast met een mandaat van coördinerend inspecteur wordt op zijn verzoek in dat ambt benoemd als aan de volgende voorwaarden is voldaan :<br>
+1° het personeelslid heeft de leeftijd van ten minste 55 jaar bereikt op het ogenblik van de vaste benoeming;<br>
+2° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste vier jaar het mandaat van coördinerend inspecteur uitgeoefend.<br>
+<br>
+§ 1/1. Het volgens artikel 79, § 1, extern geworven personeelslid dat belast is met een mandaat van coördinerend inspecteur wordt op zijn verzoek in het onderliggend ambt van inspecteur benoemd, als aan de volgende voorwaarden is voldaan :<br>
+1° het personeelslid heeft in het ambt van coördinerend inspecteur geen definitieve eindevaluatie met eindconclusie onvoldoende gekregen;<br>
+2° het personeelslid wordt voorgedragen door de inspecteur-generaal;<br>
+3° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste 2 jaar het mandaat van coördinerend inspecteur voltijds uitgeoefend.<br>
+<br>
+§ 2. Het personeelslid belast met een mandaat van inspecteur-generaal wordt op zijn verzoek in dat ambt benoemd als aan de volgende voorwaarden is voldaan :<br>
+1° het personeelslid heeft de leeftijd van ten minste 55 jaar bereikt op het ogenblik van de vaste benoeming;<br>
+2° het personeelslid heeft op het ogenblik van de vaste benoeming ten minste vier jaar het mandaat van inspecteur-generaal uitgeoefend.<br>
+<br>
+§ 3. De vaste benoeming gaat steeds in op de eerste dag van de maand die volgt op de aanvraag bij de Vlaamse Regering.<br>
+<br>
+§ 4. Indien op het ogenblik dat het personeelslid de vaste benoeming aanvraagt, een beroepsprocedure loopt tegen een evaluatie met eindconclusie onvoldoende of tegen een ontslag om dringende redenen, wordt de vaste benoeming uitgesteld tot er een definitieve uitspraak in deze zaak is. Indien na de beroepsprocedure de evaluatie met eindconclusie onvoldoende of het ontslag om dringende redenen niet wordt bevestigd, gaat de vaste benoeming in op de eerste dag van de maand die volgt op het ogenblik van de definitieve uitspraak.<br>
+<br>
+§ 5. De vaste benoeming wordt schriftelijk vastgelegd. Dit geschrift wordt aan het personeelslid overhandigd en vermeldt ten minste :<br>
+1° de identiteit van het personeelslid;<br>
+2° het uit te oefenen ambt;<br>
+3° de ingangsdatum;<br>
+4° het functieprofiel waarop de vaste benoeming is gebaseerd;<br>
+5° de standplaats.<br>
+<br>
+§ 6. Bij ontstentenis van een geschrift bij de aanvang van de vaste benoeming, wordt het personeelslid geacht vastbenoemd te zijn in het ambt en voor de opdracht die het werkelijk uitoefent.
 
 ## HOOFDSTUK VI. Tijdelijke uitoefening van de ambten, vermeld in artikel 61
 
