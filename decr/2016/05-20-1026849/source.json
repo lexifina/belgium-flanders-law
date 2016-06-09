@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026849,
+  "title": "Decreet van 2016-05-20 houdende instemming met het samenwerkingsakkoord van 16 februari 2016 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026849/VolledigDocument?datum=2016-06-09",
+  "source_sha256": "abb38b4aa088247e01f4508d38806a85571a857971017a006a2c609b533c8b00",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026849&param=informatie",
+  "as_of": "2016-06-09",
+  "made": "2016-05-20",
+  "gazette": "2016-05-30",
+  "numac": 2016035883,
+  "document_start": "2016-06-09",
+  "document_end": null,
+  "in_force": "2016-06-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-06-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
