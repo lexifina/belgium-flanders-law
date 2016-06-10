@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026729,
+  "title": "Samenwerkingsakkoord van 2016-02-16 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de beheersing van de gevaren van zware ongevallen waarbij gevaarlijke stoffen zijn betrokken",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026729/VolledigDocument?datum=2016-06-10",
+  "source_sha256": "1d5975321e9414292b7f60d8e56163a6bceb483ae6f783c574e7d970a15a02ef",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026729&param=informatie",
+  "as_of": "2016-06-10",
+  "made": "2016-02-16",
+  "gazette": "2016-04-20",
+  "numac": 0,
+  "document_start": "2016-06-10",
+  "document_end": null,
+  "in_force": "2016-06-10",
+  "article_versions": 50,
+  "record_form": "consolidated version as in force on 2016-06-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
