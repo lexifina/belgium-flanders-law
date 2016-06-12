@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026860,
+  "title": "Decreet van 2016-05-04 tot wijziging van diverse bepalingen van het decreet van 20 december 2013 inzake gezond en ethisch sporten",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026860/VolledigDocument?datum=2016-06-12",
+  "source_sha256": "b7ce743ab9fa85e2d355e476908e54121883912a088b1667e09977a78a2e30c5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026860&param=informatie",
+  "as_of": "2016-06-12",
+  "made": "2016-05-04",
+  "gazette": "2016-06-02",
+  "numac": 2016035822,
+  "document_start": "2016-06-12",
+  "document_end": null,
+  "in_force": "2016-06-12",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-06-12; oldest version available; future article versions excluded; article text as the API gives it"
+}
