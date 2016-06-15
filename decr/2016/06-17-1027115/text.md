@@ -220,6 +220,12 @@
 
 ## Afdeling IV Decreet betreffende de organisatie van tijdelijke projecten
 
+### ART X.5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 2 van het decreet van 9 december 2005 betreffende de organisatie van tijdelijke projecten in het onderwijs wordt een punt 7° toegevoegd dat luidt als volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"7° voor wat de leertijd betreft : de gesubsidieerde centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen;".</span><br>
+&nbsp;
+
 ## Afdeling V Decreet betreffende de studiefinanciering
 
 ## Afdeling VI Decreet betreffende het flankerend onderwijsbeleid op lokaal niveau
