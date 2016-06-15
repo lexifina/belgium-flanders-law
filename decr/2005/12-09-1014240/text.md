@@ -6,7 +6,16 @@ Dit decreet regelt een gemeenschapsaangelegenheid.
 
 ### ART. 2.
 
-De bepalingen van dit decreet zijn van toepassing op:<br /><br />1° de gefinancierde of gesubsidieerde instellingen voor basisonderwijs;<br /><br />2° de gefinancierde of gesubsidieerde instellingen voor secundair onderwijs;<br /><br />3° de erkende centra voor deeltijdse vorming in het kader van de deeltijdse leerplicht;<br /><br />4° de gefinancierde of gesubsidieerde centra voor volwassenenonderwijs;<br /><br />5° de gefinancierde of gesubsidieerde instellingen voor deeltijds kunstonderwijs;<br /><br />6° de gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding.<br /><br />Het geheel van die onderwijsinstellingen en centra wordt hierna "scholen en centra" genoemd.
+De bepalingen van dit decreet zijn van toepassing op:<br>
+1° de gefinancierde of gesubsidieerde instellingen voor basisonderwijs;<br>
+2° de gefinancierde of gesubsidieerde instellingen voor secundair onderwijs;<br>
+3° de erkende centra voor deeltijdse vorming in het kader van de deeltijdse leerplicht;<br>
+4° de gefinancierde of gesubsidieerde centra voor volwassenenonderwijs;<br>
+5° de gefinancierde of gesubsidieerde instellingen voor deeltijds kunstonderwijs;<br>
+6° de gefinancierde of gesubsidieerde centra voor leerlingenbegeleiding;<br>
+7° voor wat de leertijd betreft : de gesubsidieerde centra voor vorming van zelfstandigen en kleine en middelgrote ondernemingen;<br>
+<br>
+Het geheel van die onderwijsinstellingen en centra wordt hierna "scholen en centra" genoemd.
 
 ### ART. 3.
 
