@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026872,
+  "title": "Ministerieel besluit van 2016-05-18 houdende vaststelling van de vergoeding van de Atleet Paspoort Managementeenheid en de leden van de commissie van experten, bevoegd voor de bloedmodule en steroïdenmodule van het biologisch paspoort",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026872/VolledigDocument?datum=2016-06-19",
+  "source_sha256": "3075f6e10a673e75321253643fd5e570f7711e68dcfabc71c12ed60e726adb35",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026872&param=informatie",
+  "as_of": "2016-06-19",
+  "made": "2016-05-18",
+  "gazette": "2016-06-09",
+  "numac": 2016035886,
+  "document_start": "2016-06-19",
+  "document_end": null,
+  "in_force": "2016-06-19",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-06-19; oldest version available; future article versions excluded; article text as the API gives it"
+}
