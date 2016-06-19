@@ -2,16 +2,16 @@
   "codex_id": 1024079,
   "title": "Ministerieel besluit van 2014-03-14 houdende vaststelling van de vergoeding van de Atleet Paspoort Managementeenheid en de leden van de commissie van experten, bevoegd voor de bloedmodule van het biologisch paspoort",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024079/VolledigDocument?datum=2014-01-01",
-  "source_sha256": "1879f26a52e5391f0935155cf924f0c8726b0263505bfb5e1836614d0198ef8a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024079/VolledigDocument?datum=2016-06-19",
+  "source_sha256": "38d49868b01543d37cb8b8057e4fc2b207c32cd8c3c494acde8b1177138ad61c",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024079&param=informatie",
-  "as_of": "2014-01-01",
+  "as_of": "2016-06-19",
   "made": "2014-03-14",
   "gazette": "2014-05-07",
   "numac": 2014035369,
   "document_start": "2014-01-01",
   "document_end": "2016-06-18",
-  "in_force": "2014-01-01",
+  "in_force": "2016-06-19",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2014-01-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-06-19; future article versions excluded; article text as the API gives it"
 }
