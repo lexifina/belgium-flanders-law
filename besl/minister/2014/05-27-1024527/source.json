@@ -2,16 +2,16 @@
   "codex_id": 1024527,
   "title": "Ministerieel besluit van 2014-05-27 houdende de uitvoering van diverse besluiten met betrekking tot het woonbeleid in Vlaanderen",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024527/VolledigDocument?datum=2014-09-14",
-  "source_sha256": "44f7d95124cc6b0940071ca8682c8d285645928337452cc242df48e0c0fb7e1d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024527/VolledigDocument?datum=2016-06-20",
+  "source_sha256": "8330378dfbe9ed11a93fcaf2a22064a76050d0f5aedc654145f28b49b88a81fb",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024527&param=informatie",
-  "as_of": "2014-09-14",
+  "as_of": "2016-06-20",
   "made": "2014-05-27",
   "gazette": "2014-09-04",
   "numac": 2014035903,
   "document_start": "2014-09-14",
   "document_end": null,
-  "in_force": "2014-09-14",
+  "in_force": "2016-06-20",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2014-09-14; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-06-20; future article versions excluded; article text as the API gives it"
 }
