@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026910,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-27 houdende herinvoering van de regels inzake bijzondere jacht in het Jachtvoorwaardenbesluit van 25 april 2014",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026910/VolledigDocument?datum=2016-06-22",
+  "source_sha256": "8fc3756851b01a34772b4acdf2d49ca49d11d0394006e24cadb1bc45327dac79",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026910&param=informatie",
+  "as_of": "2016-06-22",
+  "made": "2016-05-27",
+  "gazette": "2016-06-21",
+  "numac": 2016035958,
+  "document_start": "2016-06-22",
+  "document_end": null,
+  "in_force": "2016-06-22",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-06-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
