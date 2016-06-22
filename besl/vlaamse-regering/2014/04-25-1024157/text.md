@@ -12,7 +12,21 @@ Dit besluit voorziet in de gedeeltelijke uitvoering van:<BR>1° de   Benelux-ove
 
 ### ART. 2.
 
-In dit besluit wordt verstaan onder:<BR>1° minister: de Vlaamse minister,   bevoegd voor de landinrichting en het natuurbehoud;<BR>2° agentschap: het   Agentschap voor Natuur en Bos opgericht bij het besluit van de Vlaamse Regering   tot oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid van 23 december 2005;<BR>3° instituut: het Instituut voor   Natuur- en Bosonderzoek opgericht bij het besluit van de Vlaamse Regering tot   oprichting van het intern verzelfstandigd agentschap zonder   rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek van 23 december   2005;<BR>4° roofvogels: de roofvogels die in bezit worden gehouden conform de   bepalingen van het Soortenbesluit van 15 mei 2009;<BR>5° gewone jacht: de jacht   die wordt uitgeoefend binnen de openingstijden en onder de voorwaarden die   daartoe worden vastgesteld door de Vlaamse Regering, en dit in het kader van   duurzaam wildbeheer en recreatief medegebruik;<BR>6° [... <EM>(vernietigd bij   arrest nr. 233.796 van de Raad van State van 11 februari   2016)</EM>]&nbsp;;<BR>7° bestrijding: de bestrijding, vermeld in artikel 22 van   het Jachtdecreet van 24 juli 1991;<BR>8° WBE: een wildbeheereenheid, dat is een   samenwerkingsverband tussen jachtrechthouders als vermeld in artikel 12 van het   Jachtdecreet van 24 juli 1991;<BR>9° bijzondere veldwachter: de persoon, vermeld   in artikel 61 van het Veldwetboek van 7 oktober 1886;<BR>10° duivencarrousel:   een aan de grond verankerd en door een krachtbron aangedreven mechanisme,   waardoor een ronddraaiende beweging veroorzaakt wordt bij aan metalen armen   vastgemaakte dode of imitatieduiven, met als doel de effectiviteit van die   lokvogels als lokmiddel te verhogen;<BR>11° kastval: een val om dieren levend te   vangen en waarin de gevangen dieren zich vrij kunnen bewegen. De wanden van de   val bestaan uit minstens drie vaste gesloten wanden;<BR>12° kooival: een val om   dieren levend te vangen en waarin de gevangen dieren zich vrij kunnen bewegen.   De wanden van de val bestaan uit gaas;<BR>13° aankorrelplaats: een voederplaats   met het oog op het lokken van wild, zodat een efficiënter afschot kan worden   uitgevoerd;<BR>14° lokdier: een specimen van een dier dat kan dienen als een   middel om wild te lokken, hetzij van dezelfde soort als het specimen, hetzij van   een andere soort.<BR>
+In dit besluit wordt verstaan onder:<br>
+1° minister: de Vlaamse minister, bevoegd voor de landinrichting en het natuurbehoud;<br>
+2° agentschap: het Agentschap voor Natuur en Bos opgericht bij het besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid van 23 december 2005;<br>
+3° instituut: het Instituut voor Natuur- en Bosonderzoek opgericht bij het besluit van de Vlaamse Regering tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Instituut voor Natuur- en Bosonderzoek van 23 december 2005;<br>
+4° roofvogels: de roofvogels die in bezit worden gehouden conform de bepalingen van het Soortenbesluit van 15 mei 2009;<br>
+5° gewone jacht: de jacht die wordt uitgeoefend binnen de openingstijden en onder de voorwaarden die daartoe worden vastgesteld door de Vlaamse Regering, en dit in het kader van duurzaam wildbeheer en recreatief medegebruik;<br>
+6° bijzondere jacht : de jacht die overeenkomstig artikel 4, tweede lid tot en met vijfde lid, van het Jachtdecreet van 24 juli 1991 wordt uitgeoefend binnen de openingstijden en onder de voorwaarden die daarvoor zijn vastgesteld door de Vlaamse Regering, in de gevallen waarbij dat noodzakelijk is;<br>
+7° bestrijding: de bestrijding, vermeld in artikel 22 van het Jachtdecreet van 24 juli 1991;<br>
+8° WBE: een wildbeheereenheid, dat is een samenwerkingsverband tussen jachtrechthouders als vermeld in artikel 12 van het Jachtdecreet van 24 juli 1991;<br>
+9° bijzondere veldwachter: de persoon, vermeld in artikel 61 van het Veldwetboek van 7 oktober 1886;<br>
+10° duivencarrousel: een aan de grond verankerd en door een krachtbron aangedreven mechanisme, waardoor een ronddraaiende beweging veroorzaakt wordt bij aan metalen armen vastgemaakte dode of imitatieduiven, met als doel de effectiviteit van die lokvogels als lokmiddel te verhogen;<br>
+11° kastval: een val om dieren levend te vangen en waarin de gevangen dieren zich vrij kunnen bewegen. De wanden van de val bestaan uit minstens drie vaste gesloten wanden;<br>
+12° kooival: een val om dieren levend te vangen en waarin de gevangen dieren zich vrij kunnen bewegen. De wanden van de val bestaan uit gaas;<br>
+13° aankorrelplaats: een voederplaats met het oog op het lokken van wild, zodat een efficiënter afschot kan worden uitgevoerd;<br>
+14° lokdier: een specimen van een dier dat kan dienen als een middel om wild te lokken, hetzij van dezelfde soort als het specimen, hetzij van een andere soort.
 
 ### ART. 3.
 
@@ -32,7 +46,9 @@ In dit besluit wordt verstaan onder:<BR>1° minister: de Vlaamse minister,   bev
 
 ### ART. 6.
 
-<P>De gewone jacht [... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van   State van 11 februari 2016)</EM>] op niet-vliegvlugge specimens van een   vogelsoort die tot het jachtwild behoort, is te allen tijde verboden, ook al is   de jacht op de soort in kwestie geopend.<BR><BR>[... <EM>(vernietigd bij arrest   nr. 233.796 van de Raad van State van 11 februari 2016)</EM>]</P>
+<p>De gewone jacht en de bijzondere jacht op niet-vliegvlugge specimens van een vogelsoort die tot het jachtwild behoort, is te allen tijde verboden, ook al is de jacht op de soort in kwestie geopend.<br>
+<br>
+Het eerste lid is niet van toepassing op de bijzondere jacht op de grauwe gans en de Canadese gans.</p>
 
 ### ART. 7.
 
@@ -46,11 +62,40 @@ In dit besluit wordt verstaan onder:<BR>1° minister: de Vlaamse minister,   bev
 
 ### ART. 9.
 
-<P>Voor het uitoefenen van elke vorm van jacht of van bestrijding worden de   volgende types van vuurwapens gebruikt:<BR>1° geweren met gladde loop van ten   minste het kaliber 36 en ten hoogste 8;<BR>2° geweren met getrokken loop met een   nominaal kaliber van ten minste .22 Engelse duim en groter;<BR>3° geweren met   gladde en getrokken loop die elk beantwoorden aan de gestelde grenzen voor een   gladde, respectievelijk getrokken loop, vermeld in punt 1° en 2°. <BR></P>  <P>Met behoud van de toepassing van het eerste lid is het voor het uitoefenen   van elke vorm van jacht of van bestrijding verboden om de volgende soorten   vuurwapens te gebruiken:<BR>1° semiautomatische of automatische geweren waarvan   het magazijn meer dan twee patronen kan bevatten;<BR>2° geweren die voorzien   zijn van een vizier met beeldomzetter of een elektronische beeldversterker,   kunstmatige lichtbronnen of voorzieningen om het dier te verlichten of elk ander   instrument om `s nachts te schieten;<BR>3° geweren die voorzien zijn van een   geluiddemper;<BR>4° pistolen, automatische pistolen, machinepistolen en   revolvers;<BR>5° machinegeweren.<BR></P>  <P>In afwijking van het tweede lid, 2°, is het voor het uitoefenen van [...   <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11 februari   2016)</EM>] bestrijding van wilde zwijnen toegelaten gebruik te maken van   geweren die voorzien zijn van kunstmatige lichtbronnen of voorzieningen om het   dier te verlichten.</P>
+<p>Voor het uitoefenen van elke vorm van jacht of van bestrijding worden de volgende types van vuurwapens gebruikt:<br>
+1° geweren met gladde loop van ten minste het kaliber 36 en ten hoogste 8;<br>
+2° geweren met getrokken loop met een nominaal kaliber van ten minste .22 Engelse duim en groter;<br>
+3° geweren met gladde en getrokken loop die elk beantwoorden aan de gestelde grenzen voor een gladde, respectievelijk getrokken loop, vermeld in punt 1° en 2°.</p>
+
+<p>Met behoud van de toepassing van het eerste lid is het voor het uitoefenen van elke vorm van jacht of van bestrijding verboden om de volgende soorten vuurwapens te gebruiken:<br>
+1° semiautomatische of automatische geweren waarvan het magazijn meer dan twee patronen kan bevatten;<br>
+2° geweren die voorzien zijn van een vizier met beeldomzetter of een elektronische beeldversterker, kunstmatige lichtbronnen of voorzieningen om het dier te verlichten of elk ander instrument om `s nachts te schieten;<br>
+3° geweren die voorzien zijn van een geluiddemper;<br>
+4° pistolen, automatische pistolen, machinepistolen en revolvers;<br>
+5° machinegeweren.</p>
+
+<p>In afwijking van het tweede lid, 2°, is het voor het uitoefenen van bijzondere jacht en bestrijding van wilde zwijnen toegelaten gebruik te maken van geweren die voorzien zijn van kunstmatige lichtbronnen of voorzieningen om het dier te verlichten.</p>
 
 ### ART. 10.
 
-<P>Voor het uitoefenen van elke vorm van jacht of van bestrijding worden in   voorkomend geval de volgende soorten munitie gebruikt:<BR>1° voor ree:   kogelpatronen voor getrokken loop waarvan de normale trefenergie minimaal 980 J   op 100 m afstand van de loopmond bedraagt;<BR>2° voor edelhert, wild zwijn,   moeflon en damhert:<BR>a) kogelpatronen voor getrokken loop met een nominaal   kaliber, uitgedrukt of omgerekend in millimeter niet kleiner dan 6,5 mm, waarvan   de normale trefenergie minimaal 2200 J op 100 m afstand van de loopmond   bedraagt;<BR>b) kogelpatronen voor gladde loop van het kaliber 20,16 en   12;<BR>3° voor klein wild: hagelpatronen waarvan de korrelgrootte van de hagel   een diameter van 4 mm niet overschrijdt;<BR>4° voor waterwild: hagelpatronen   waarvan de korrelgrootte van de hagel een diameter van 4 mm niet   overschrijdt;<BR>5° voor overig wild: hagelpatronen waarvan de korrelgrootte van   de hagel een diameter van 4 mm niet overschrijdt of kogelpatronen.<BR></P>  <P>In afwijking van het eerste lid, 4°, is het voor het uitoefenen van [...   <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11 februari   2016)</EM>] bestrijding toegestaan voor waterwild gebruik te maken van   kogelpatronen, op voorwaarde dat deze niet in een horizontale baan afgeschoten   worden.<BR></P>  <P>Met behoud van de toepassing van het eerste en het tweede lid is het voor het   uitoefenen van elke vorm van jacht of van bestrijding verboden om de volgende   soorten munitie te gebruiken:<BR>1° randvuurkogelpatronen;<BR>2°   fosforkogelpatronen;<BR>3° lichtspoorkogelpatronen;<BR>4° patronen met een   volmantel en kogels die niet vervormen bij het treffen;<BR>5° loodhagel;<BR>6°   zinkhagel.</P>
+<p>Voor het uitoefenen van elke vorm van jacht of van bestrijding worden in voorkomend geval de volgende soorten munitie gebruikt:<br>
+1° voor ree: kogelpatronen voor getrokken loop waarvan de normale trefenergie minimaal 980 J op 100 m afstand van de loopmond bedraagt;<br>
+2° voor edelhert, wild zwijn, moeflon en damhert:<br>
+a) kogelpatronen voor getrokken loop met een nominaal kaliber, uitgedrukt of omgerekend in millimeter niet kleiner dan 6,5 mm, waarvan de normale trefenergie minimaal 2200 J op 100 m afstand van de loopmond bedraagt;<br>
+b) kogelpatronen voor gladde loop van het kaliber 20,16 en 12;<br>
+3° voor klein wild: hagelpatronen waarvan de korrelgrootte van de hagel een diameter van 4 mm niet overschrijdt;<br>
+4° voor waterwild: hagelpatronen waarvan de korrelgrootte van de hagel een diameter van 4 mm niet overschrijdt;<br>
+5° voor overig wild: hagelpatronen waarvan de korrelgrootte van de hagel een diameter van 4 mm niet overschrijdt of kogelpatronen.</p>
+
+<p>In afwijking van het eerste lid, 4°, is het voor het uitoefenen van bijzondere jacht en bestrijding toegestaan voor waterwild gebruik te maken van kogelpatronen, op voorwaarde dat deze niet in een horizontale baan afgeschoten worden.</p>
+
+<p>Met behoud van de toepassing van het eerste en het tweede lid is het voor het uitoefenen van elke vorm van jacht of van bestrijding verboden om de volgende soorten munitie te gebruiken:<br>
+1° randvuurkogelpatronen;<br>
+2° fosforkogelpatronen;<br>
+3° lichtspoorkogelpatronen;<br>
+4° patronen met een volmantel en kogels die niet vervormen bij het treffen;<br>
+5° loodhagel;<br>
+6° zinkhagel.</p>
 
 ## Afdeling 3. Algemene voorwaarden voor het gebruik van overige middelen en methoden
 
@@ -124,7 +169,22 @@ De gewone jacht op kleinwild mag alleen worden uitgeoefend met vuurwapens   en r
 
 ### ART. 25.
 
-<P>§ 1. De gewone jacht op overig wild mag alleen worden uitgeoefend met de   volgende middelen:<BR>1° vuurwapens;<BR>2° roofvogels;<BR>3° fretten;<BR>4°   vangkooien of buidels, overeenkomstig artikel 20, 1, van het Jachtdecreet van 24   juli 1991. Dit middel is weliswaar alleen toegestaan voor de gewone jacht op   konijnen;<BR>5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig   materiaal. Dit middel is weliswaar alleen toegestaan voor de gewone jacht op   verwilderde katten;<BR>6° kooivallen, waarvan de bovenkant bestaat uit   ondoorzichtig materiaal. Dit middel is weliswaar alleen toegestaan voor de   gewone jacht op verwilderde katten.<BR></P>  <P>De gewone jacht op verwilderde katten mag alleen worden beoefend met   kastvallen of kooivallen.<BR></P>  <P>De kastvallen of kooivallen voor overig wild, vermeld in het eerste lid,   mogen een maximumvolume hebben van 1000 dm®.<BR></P>  <P>§ 2. Bij de gewone jacht op overig wild mag gebruik gemaakt worden van de   volgende hulpmiddelen:<BR>1° dode lokdieren van dezelfde soort als degene waarop   de gewone jacht geopend is;<BR>2° kunstmatige lokdieren;<BR>3°   niet-elektronische akoestische lokmiddelen.</P>
+<p>§ 1. De gewone jacht op overig wild mag alleen worden uitgeoefend met de volgende middelen:<br>
+1° vuurwapens;<br>
+2° roofvogels;<br>
+3° fretten;<br>
+4° vangkooien of buidels. Dit middel is alleen toegestaan voor de gewone jacht op konijnen;<br>
+5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal. Dit middel is weliswaar alleen toegestaan voor de gewone jacht op verwilderde katten;<br>
+6° kooivallen, waarvan de bovenkant bestaat uit ondoorzichtig materiaal. Dit middel is weliswaar alleen toegestaan voor de gewone jacht op verwilderde katten.</p>
+
+<p>De gewone jacht op verwilderde katten mag alleen worden beoefend met kastvallen of kooivallen.</p>
+
+<p>De kastvallen of kooivallen voor overig wild, vermeld in het eerste lid, mogen een maximumvolume hebben van 1000 dm®.</p>
+
+<p>§ 2. Bij de gewone jacht op overig wild mag gebruik gemaakt worden van de volgende hulpmiddelen:<br>
+1° dode lokdieren van dezelfde soort als degene waarop de gewone jacht geopend is;<br>
+2° kunstmatige lokdieren;<br>
+3° niet-elektronische akoestische lokmiddelen.</p>
 
 ### ART. 26.
 
@@ -140,57 +200,144 @@ De gewone jacht op vossen mag niet worden uitgeoefend binnen een straal   van vi
 
 ### ART. 28.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>§ 1. Bijzondere jacht kan worden uitgeoefend als dat noodzakelijk is in een of meer van de volgende gevallen, overeenkomstig de voorwaarden, vermeld in artikel 4, vierde lid, van het Jachtdecreet van 24 juli 1991 :<br>
+1° ter voorkoming van belangrijke schade aan gewassen, vee, bossen, visserij of wateren;<br>
+2° ter voorkoming van belangrijke schade aan andere goederen in eigendom of gebruik. Deze reden geldt niet ten aanzien van de vogelsoorten die tot het jachtwild behoren;<br>
+3° ter bescherming van de wilde fauna of flora, of ter instandhouding van de natuurlijke habitats;<br>
+4° voor de veiligheid van het luchtverkeer.<br>
+<br>
+De voorwaarde dat er geen andere bevredigende oplossing mag bestaan, wordt beoordeeld aan de hand van de vraag of alle maatregelen zijn genomen die redelijkerwijs mogen worden verwacht om de belangen, vermeld in het eerste lid, te vrijwaren.<br>
+<br>
+De minister stelt een code van goede praktijk vast waarin maatregelen zijn opgenomen als vermeld in het tweede lid. De code kan zowel handelingen bevatten die redelijkerwijs te verwachten zijn, als handelingen die niet redelijkerwijs te verwachten zijn.<br>
+<br>
+§ 2. Bijzondere jacht op waterwild en op overig wild kan alleen worden uitgeoefend binnen een perimeter van 150 meter rondom het perceel waarvoor bijzondere jacht wordt gemeld.<br>
+<br>
+Bijzondere jacht kan maximaal worden toegestaan voor een aaneengesloten periode waarin bijzondere jacht voor de desbetreffende soort is toegestaan, binnen een kalenderjaar.</p>
 
 ### ART. 29.
 
-<p>[... <em>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11 februari 2016)</em>]</p>
+<p>Bijzondere jacht wordt door een jachtrechthouder bij het agentschap gemeld met een papieren of elektronisch meldingsformulier waarvan het model wordt opgesteld door het agentschap en ter beschikking wordt gesteld op de website www.natuurenbos.be van het agentschap.<br>
+<br>
+Het meldingsformulier wordt naar het agentschap gestuurd op een van de volgende wijzen :<br>
+1° met een aangetekende brief;<br>
+2° via elektronische indiening via het e-loket op de website van het agentschap.<br>
+<br>
+De melding bevat de volgende informatie :<br>
+1° informatie over de locatie waarvoor bijzondere jacht wordt gemeld;<br>
+2° een motivering van het type en de vermoedelijke omvang van de schade die de jachtrechthouder wil voorkomen of beperken, of de natuurwaarden en ecologische processen die hij beoogt te vrijwaren;<br>
+3° informatie over de preventieve of schadebeperkende maatregelen die voor de melding genomen zijn.<br>
+&nbsp;</p>
 
 ### ART. 30.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>De bijzondere jacht mag op zijn vroegst een aanvang nemen 24 uur na de melding.<br>
+<br>
+Het agentschap is gemachtigd toezicht uit te oefenen op de aangemelde bijzondere jacht. Het agentschap kan met een gemotiveerde beslissing de aangemelde bijzondere jacht op elk moment beperken of verbieden.<br>
+<br>
+Als bijzondere jacht beoogd wordt voor soorten die zijn opgenomen in een soortenbeschermingsprogramma ter uitvoering van artikel 26 van het Soortenbesluit van 15 mei 2009 of in een beheerregeling ter uitvoering van artikel 28 van het Soortenbesluit van 15 mei 2009, blijkt uit de melding dat er rekening is gehouden met dat soortenbeschermingsprogramma of die beheerregeling.</p>
 
 ## [Afdeling 2. Bijzondere jacht op grofwild (ing. BVR 27 mei 2016, art. 6, I: 22 juni 2016)]
 
 ### ART. 31.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>§ 1. De bijzondere jacht op grofwild mag worden uitgeoefend met de volgende middelen :<br>
+1° vuurwapens;<br>
+2° kastvallen;<br>
+3° kooivallen.<br>
+<br>
+De kastvallen en kooivallen voor grofwild, vermeld in het eerste lid, mogen een maximale oppervlakte hebben van 100 m², waarin de gevangen dieren zich vrij kunnen bewegen.<br>
+<br>
+§ 2. Bij de bijzondere jacht op grofwild mag gebruikgemaakt worden van de volgende hulpmiddelen :<br>
+1° akoestische lokmiddelen;<br>
+2° voor de jacht op wilde zwijnen : aankorrelplaatsen die voldoen aan de door de minister bepaalde modaliteiten en waarvan de plaats wordt aangeduid op een kaart die wordt bezorgd aan het agentschap. Bij wijziging van de locatie van een aankorrelplaats wordt een nieuwe kaart ingediend.<br>
+<br>
+§ 3. Als een dier gewond is, wordt het door een speciaal daarvoor afgerichte zweethond opgespoord.<br>
+<br>
+§ 4. De bijzondere jacht op grofwild mag worden uitgeoefend met de volgende methoden :<br>
+1° aanzitjacht;<br>
+2° bersjacht;<br>
+3° drukjacht.</p>
 
 ### ART. 32.
 
-[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]
+De bijzondere jacht op grofwild mag overeenkomstig artikel 5, eerste lid, laatste zin, van het Jachtdecreet van 24 juli 1991 alleen worden uitgeoefend op basis van een afschotplan als vermeld in artikel 34 van het Jachtadministratiebesluit van 25 april 2014.
+
+### ART. 33.
+
+Buiten de periode tussen de officiële zonsopgang en de officiële zonsondergang mag de bijzondere jacht op grofwild worden uitgeoefend op de volgende tijdstippen :<br>
+1° in geval van bersjacht : vanaf een uur voor de officiële zonsopgang tot een uur na de officiële zonsondergang;<br>
+2° in geval van aanzitjacht : vanaf een uur voor de officiële zonsopgang tot een uur na de officiële zonsondergang;<br>
+3° in geval van aanzitjacht op wilde zwijnen : vanaf de officiële zonsondergang tot de officiële zonsopgang.
 
 ### ART. 34.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>De jachtrechthouder of de daarvoor aangestelde verantwoordelijke van de WBE meldt binnen een maand na het verstrijken van het kwartaal waarin het afschot is vervuld, elk geschoten dier aan het agentschap met een papieren formulier of elektronisch.<br>
+<br>
+Het agentschap bezorgt de gegevens binnen een maand aan het instituut voor verwerking en rapportering.<br>
+<br>
+Het papieren meldingsformulier wordt in tweevoud ingevuld. Het eerste exemplaar wordt naar het agentschap gestuurd en een tweede exemplaar blijft in het bezit van de jachtrechthouder of van de daarvoor aangestelde verantwoordelijke van de WBE.<br>
+<br>
+Wie het formulier elektronisch invult en verzendt, krijgt automatisch een ontvangstmelding.<br>
+<br>
+Het model van het papieren en het elektronische meldingsformulier wordt opgesteld door het agentschap en ter beschikking gesteld op de website www.natuurenbos.be van het agentschap.</p>
 
 ### ART. 35.
 
-[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]
+Voor de controle van en het onderzoek naar het afschot wordt van elk specimen de linkeronderkaak bewaard en ter beschikking gesteld van het agentschap of het instituut tot twee maanden na het verstrijken van het kwartaal waarin het afschot is vervuld. De onderkaak wordt daarbij onmiddellijk na het afschot gemerkt met het daarvoor bestemde label dat het agentschap heeft uitgereikt.
 
 ## [Afdeling 3. Bijzondere jacht op waterwild (ing. BVR 27 mei 2016, art. 6, I: 22 juni 2016)]
 
 ### ART. 36.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>De bijzondere jacht op waterwild mag worden uitgeoefend met vuurwapens en roofvogels.<br>
+<br>
+Bij de bijzondere jacht op waterwild mag gebruikgemaakt worden van de volgende hulpmiddelen :<br>
+1° dode lokdieren van dezelfde soort als degene waarop de bijzondere jacht toegestaan is;<br>
+2° kunstmatige lokdieren;<br>
+3° akoestische lokmiddelen.</p>
 
 ### ART. 37.
 
-[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]
+De bijzondere jacht op kieviten kan alleen worden uitgeoefend binnen de grenzen van de volgende locaties :<br>
+1° het vliegveld van Antwerpen-Deurne;<br>
+2° het vliegveld van Brussel-Nationaal;<br>
+3° het vliegveld van Oostende;<br>
+4° het vliegveld van Wevelgem;<br>
+5° het vliegveld van Melsbroek;<br>
+6° het vliegveld van Goetsenhoven;<br>
+7° het vliegveld van Koksijde;<br>
+8° het vliegveld van Peer - Kleine-Brogel;<br>
+9° het militair schietterrein van Helchteren.
 
 ### ART. 38.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>Buiten de periode tussen de officiële zonsopgang en de officiële zonsondergang mag de bijzondere jacht op waterwild worden uitgeoefend vanaf een uur vóór de officiële zonsopgang tot een uur na de officiële zonsondergang.<br>
+<br>
+In de gebieden die zijn aangewezen op grond van de internationale verdragen, vermeld in artikel 36 van het Jachtdecreet van 24 juli 1991, en op grond van de internationale akten die krachtens de voormelde verdragen tot stand zijn gekomen, kan de bijzondere jacht alleen worden uitgeoefend vanaf de officiële zonsopgang tot de officiële zonsondergang.</p>
 
 ## [Afdeling 4. Bijzondere jacht op overig wild (ing. BVR 27 mei 2016, art. 6, I: 22 juni 2016)]
 
 ### ART. 39.
 
-<P>[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]</P>
+<p>§ 1. De bijzondere jacht op overig wild mag worden uitgeoefend met de volgende middelen :<br>
+1° vuurwapens;<br>
+2° roofvogels;<br>
+3° fretten;<br>
+4° vangkooien of buidels. Dit middel is alleen toegestaan voor de bijzondere jacht op konijnen;<br>
+5° kastvallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal;<br>
+6° kooivallen waarvan de bovenkant bestaat uit ondoorzichtig materiaal.<br>
+<br>
+De kastvallen of kooivallen voor overig wild, vermeld in het eerste lid, mogen een maximumvolume hebben van 1000 dm®.<br>
+<br>
+§ 2. Bij de bijzondere jacht op overig wild mag gebruikgemaakt worden van de volgende hulpmiddelen :<br>
+1° dode lokdieren van dezelfde soort als degene waarop de bijzondere jacht toegestaan is;<br>
+2° kunstmatige lokdieren;<br>
+3° akoestische lokmiddelen;<br>
+4° duivencarrousels.</p>
 
 ### ART. 40.
 
-[... <EM>(vernietigd bij arrest nr. 233.796 van de Raad van State van 11   februari 2016)</EM>]
+De bijzondere jacht op vossen mag niet worden uitgeoefend binnen een straal van vijftig meter rond een vossen- of dassenburcht.
 
 ## HOOFDSTUK 6. Voorwaarden voor het uitoefenen van bestrijding
 
