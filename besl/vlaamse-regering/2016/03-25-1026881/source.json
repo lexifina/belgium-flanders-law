@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026881,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie energiedeskundige type A",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026881/VolledigDocument?datum=2016-06-23",
+  "source_sha256": "0c8303b3695e7352072745bf73c3cc285ac68d46557e80a29c4a283e49f4a529",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026881&param=informatie",
+  "as_of": "2016-06-23",
+  "made": "2016-03-25",
+  "gazette": "2016-06-13",
+  "numac": 2016035719,
+  "document_start": "2016-06-23",
+  "document_end": null,
+  "in_force": "2016-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
