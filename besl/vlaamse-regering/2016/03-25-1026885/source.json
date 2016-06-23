@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026885,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie masseur",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026885/VolledigDocument?datum=2016-06-23",
+  "source_sha256": "f9e2ab70d2e2f071da8ba33b94e5f05d782ff494d20c5da5191e9917d87ea2f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026885&param=informatie",
+  "as_of": "2016-06-23",
+  "made": "2016-03-25",
+  "gazette": "2016-06-13",
+  "numac": 2016035768,
+  "document_start": "2016-06-23",
+  "document_end": null,
+  "in_force": "2016-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
