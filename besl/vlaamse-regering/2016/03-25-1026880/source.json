@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026880,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot erkenning van de beroepskwalificatie [klantcontactmedewerker (verv. MB 28 februari 2020, art. 1, I: 20 juni 2020)]",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026880/VolledigDocument?datum=2016-06-23",
+  "source_sha256": "1a6bc0e03cac22d28af4e17d87ab571105ad169b9e1a0cea67ef94f68e6e22f1",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026880&param=informatie",
+  "as_of": "2016-06-23",
+  "made": "2016-03-25",
+  "gazette": "2016-06-13",
+  "numac": 2016035777,
+  "document_start": "2016-06-23",
+  "document_end": null,
+  "in_force": "2016-06-23",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-06-23; oldest version available; future article versions excluded; article text as the API gives it"
+}
