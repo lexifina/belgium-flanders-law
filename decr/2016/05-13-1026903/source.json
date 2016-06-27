@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026903,
+  "title": "Decreet van 2016-05-13 tot wijziging van diverse bepalingen van het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking en het Provinciedecreet van 9 december 2005",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026903/VolledigDocument?datum=2016-06-27",
+  "source_sha256": "ea7eb3d25fbca342fa6561c3e7f5a11ecdb72ac0a22edb9bd999960f3fcffb9e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026903&param=informatie",
+  "as_of": "2016-06-27",
+  "made": "2016-05-13",
+  "gazette": "2016-06-17",
+  "numac": 2016035941,
+  "document_start": "2016-06-27",
+  "document_end": null,
+  "in_force": "2016-06-27",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2016-06-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
