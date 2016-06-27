@@ -8,7 +8,9 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ### ART. 2.
 
-§ 1. De hierna volgende bepalingen gelden voor alle samenwerkingsverbanden   van gemeenten waarvan het gehele ambtsgebied binnen de grenzen van het Vlaamse   Gewest valt.<BR><BR>§ 2. ...
+Dit decreet is van toepassing op:<br>
+1° de samenwerkingsverbanden van gemeenten waarvan het hele ambtsgebied binnen de grenzen van het Vlaamse Gewest valt;<br>
+2° de samenwerkingsverbanden die krachtens het samenwerkingsakkoord van 13 februari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de gewestgrensoverschrijdende intercommunales onder het recht van het Vlaamse Gewest ressorteren.
 
 ### ART. 3.
 
@@ -46,7 +48,16 @@ Een beheerscomité dat samengesteld is uit minstens één afgevaardigde van   el
 
 ### ART. 10.
 
-Twee of meer gemeenten kunnen een samenwerkingsverband met   rechtspersoonlijkheid tot stand brengen om doelstellingen te verwezenlijken die   behoren tot een of meer inhoudelijk samenhangende beleidsdomeinen. Onverminderd   andersluidende decretale bepalingen kunnen hieraan naast gemeenten en provincies   uitsluitend deelnemen autonome gemeentebedrijven, openbare centra voor   maatschappelijk welzijn en hun verenigingen, in zoverre die uitsluitend uit   openbare rechtspersonen bestaan, en andere samenwerkingsverbanden, opgericht   volgens de bepalingen van dit decreet.<BR><BR>De zetel van het   samenwerkingsverband met rechtspersoonlijkheid is steeds gevestigd op het   grondgebied van een deelnemende gemeente in een gebouw dat hemzelf of een   deelnemende gemeente toebehoort.
+§ 1. Twee of meer gemeenten kunnen een samenwerkingsverband met rechtspersoonlijkheid tot stand brengen om doelstellingen te verwezenlijken die behoren tot een of meer beleidsdomeinen.<br>
+<br>
+Onverminderd andersluidende decretale bepalingen kunnen, naast gemeenten, aan het samenwerkingsverband met rechtspersoonlijkheid uitsluitend autonome gemeentebedrijven, Openbare Centra voor Maatschappelijk Welzijn en de publiekrechtelijke verenigingen ervan, andere samenwerkingsverbanden bepaald door dit decreet, politiezones en hulpverleningszones deelnemen.<br>
+<br>
+De zetel van het samenwerkingsverband met rechtspersoonlijkheid is altijd gevestigd op het grondgebied van een deelnemende gemeente in een gebouw dat toebehoort aan het samenwerkingsverband zelf of aan een deelnemende gemeente.<br>
+<br>
+§ 2. Privaatrechtelijke personen kunnen deelnemen aan een samenwerkingsverband als vermeld in paragraaf 1, in de volgende gevallen:<br>
+1° het betreft een samenwerkingsverband met als enige doelstelling het realiseren van opdrachten als vermeld in artikel 4.1.1 van het Energiedecreet van 8 mei 2009 en de deelnemende privaatrechtelijke persoon is niet actief als energieleverancier of energieproducent als vermeld in artikel 1.1.3, 78° en 102°, van het voormelde decreet;<br>
+2° het betreft een samenwerkingsverband met als enige doelstelling het realiseren van opdrachten als vermeld in artikel 26, eerste lid, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringen en afvalstoffen.<br>
+&nbsp;
 
 ### ART. 11.
 
@@ -54,7 +65,19 @@ Het samenwerkingsverband met rechtspersoonlijkheid is een publiekrechtelijke rec
 
 ### ART. 12.
 
-§ 1. De gemeenten beslissen over de beheersoverdracht overeenkomstig de statuten van het samen-werkingsverband.<br /><br />Onder beheersoverdracht wordt verstaan het toevertrouwen door de deelnemende gemeenten aan het samenwerkingsverband van de uitvoering van door hen genomen beslissingen in het kader van zijn doelstellingen, in die zin dat de deelnemende gemeenten zich het recht ontzeggen zelfstandig of samen met derden dezelfde opdracht uit te voeren.<br /><br />§ 2. Er bestaan drie vormen van een samenwerkingsverband met rechtspersoonlijkheid:<br /><br />1° projectvereniging: een samenwerkingsverband zonder beheersoverdracht dat tot doel heeft een duidelijk omschreven project te plannen, uit te voeren en te controleren;<br /><br />2° dienstverlenende vereniging: een samenwerkingsverband zonder beheersoverdracht dat tot doel heeft een duidelijk omschreven ondersteunende dienst te verlenen aan de deelnemende gemeenten, eventueel voor verschillende beleidsdomeinen;<br /><br />3° opdrachthoudende vereniging: een samenwerkingsverband met beheersoverdracht waaraan de deelnemende gemeenten de uitvoering van een of meer duidelijk omschreven bevoegdheden met betrekking tot een of meer functi-oneel samenhangende beleidsdomeinen toevertrouwen.
+§ 1. De gemeenten beslissen over de beheersoverdracht overeenkomstig de statuten van het samen-werkingsverband.<br>
+<br>
+Onder beheersoverdracht wordt verstaan het toevertrouwen door de deelnemende gemeenten aan het samenwerkingsverband van de uitvoering van door hen genomen beslissingen in het kader van zijn doelstellingen, in die zin dat de deelnemende gemeenten zich het recht ontzeggen zelfstandig of samen met derden dezelfde opdracht uit te voeren.<br>
+<br>
+§ 2. Er bestaan&nbsp;vier vormen van een samenwerkingsverband met rechtspersoonlijkheid:<br>
+1° projectvereniging: een samenwerkingsverband zonder beheersoverdracht dat tot doel heeft een duidelijk omschreven project te plannen, uit te voeren en te controleren;<br>
+2° dienstverlenende vereniging: een samenwerkingsverband zonder beheersoverdracht dat tot doel heeft een duidelijk omschreven ondersteunende dienst te verlenen aan de deelnemende gemeenten, eventueel voor verschillende beleidsdomeinen;<br>
+3° opdrachthoudende vereniging: een samenwerkingsverband met beheersoverdracht waaraan de deelnemende gemeenten de uitvoering van een of meer duidelijk omschreven bevoegdheden met betrekking tot een of meer beleidsdomeinen toevertrouwen;<br>
+4° opdrachthoudende vereniging met private deelname: een opdrachthoudende vereniging waaraan privaatrechtelijke personen kunnen deelnemen overeenkomstig artikel 10, § 2, van dit decreet.<br>
+<br>
+§ 3. Onverminderd andersluidende decretale bepalingen kan een opdrachthoudende vereniging met private deelname niet deelnemen aan de overige verenigingen, vermeld in paragraaf 2.<br>
+<br>
+§ 4. In wat volgt in dit decreet wordt met het begrip opdrachthoudende vereniging zowel de opdrachthoudende vereniging als de opdrachthoudende vereniging met private deelname bedoeld, tenzij anders bepaald.
 
 ## AFDELING 2 PROJECTVERENIGING
 
@@ -128,6 +151,10 @@ De gemeenten zijn niet gebonden door hun deelneming in het overlegorgaan. Ze spr
 
 De gemeenten die krachtens artikel 27 van dit decreet hun instemming hebben betuigd met het definitieve voorstel van het overlegorgaan kunnen, zonder daartoe verplicht te zijn, uiterlijk binnen drie maanden die volgen op de laatste beslissing tot goedkeuring, en rekening houdend met wat bepaald is in artikel 31 van dit decreet, een dienstverlenende of opdrachthoudende vereniging oprichten.<br /><br />Het oprichtingsdossier omvat alle daartoe strekkende gemeenteraadsbeslissingen, evenals de bijbehorende documenten waaronder het bestuursplan en het ondernemingsplan; het wordt gevoegd bij de oprichtingsakte.
 
+### ART. 29.
+
+Als, naast gemeenten, aan de oprichting van de dienstverlenende of opdrachthoudende vereniging wordt deelgenomen door een of meer besturen als vermeld in artikel 10, omvat het oprichtingsdossier de beslissing van het orgaan dat daarvoor bevoegd is. Voor een deelnemende dienstverlenende of opdrachthoudende vereniging is dat altijd de algemene vergadering. Voor een deelnemende projectvereniging is dat de raad van bestuur. Voor een deelnemend Openbaar Centrum voor Maatschappelijk Welzijn is dat de Raad voor Maatschappelijk Welzijn.
+
 ### ART. 30.
 
 De oprichting van de dienstverlenende of opdrachthoudende vereniging geschiedt bij akte, verleden voor de burgemeester van de gemeente waar de zetel gevestigd wordt. Onverminderd de wettelijke bepalingen met betrekking tot de inbreng van onroerende goederen, en het administratief goedkeuringstoezicht, verkrijgt de oprichtingsakte geldigheid op de datum van haar dagtekening door de ondertekening door de vertegenwoordigers van alle aan de oprichting deelnemende gemeenten en andere rechtspersonen. Ingevolge deze oprichting wordt het overlegorgaan ambtshalve ontbonden.<br /><br />De oprichtingsakte omvat de statuten en alle eventuele bijlagen en wordt binnen een termijn van dertig kalenderdagen na haar dagtekening aan de toezichthoudende overheid voorgelegd. Ze wordt goedgekeurd door de Vlaamse regering binnen een termijn van zestig kalenderdagen na haar ontvangst door de toezichthoudende overheid. Verstrijkt deze termijn zonder dat de Vlaamse regering een beslissing heeft genomen en verstuurd aan alle betrokken gemeenteoverheden, dan wordt de goedkeuring geacht te zijn verleend.<br /><br />De goedgekeurde oprichtingsakte wordt integraal bekendgemaakt in de bijlagen bij het Belgisch Staatsblad en wordt, samen met het volledige oprichtingsdossier, ter inzage van eenieder gelijktijdig neergelegd in de zetel van de dienstverlenende of opdrachthoudende vereniging en bij de toezichthoudende overheid. Afschriften van de oprichtingsakte liggen ter inzage op de secretarie in de gemeentehuizen van alle deelnemende gemeenten.
@@ -135,6 +162,14 @@ De oprichting van de dienstverlenende of opdrachthoudende vereniging geschiedt b
 ### ART. 31.
 
 De dienstverlenende of opdrachthoudende verenigingen kunnen niet worden opgericht in de loop van het jaar waarin verkiezingen voor een algehele vernieuwing van de gemeenteraden worden georganiseerd. De oprichting vindt in voorkomend geval plaats in de loop van de zes daaropvolgende maanden en het overlegorgaan blijft zolang in functie. Zijn leden verliezen van rechtswege hun mandaat en hun vervangers worden aangewezen op de eerste raadszitting die volgt op de installatievergadering van de nieuwe gemeenteraad.
+
+### ART. 32.
+
+De toetreding van een gemeente of de uitbreiding van haar aansluiting bij een dienstverlenende of opdrachthoudende vereniging, is afhankelijk van een daartoe strekkende beslissing van de gemeenteraad op basis van een onderzoek, eventueel vergelijkend in de mate dat er zich verschillende beheersvormen reëel aanbieden.<br>
+<br>
+De toetredingsbeslissing van een dienstverlenende of opdrachthoudende vereniging wordt genomen door de algemene vergadering. De toetredingsbeslissing van een projectvereniging wordt genomen door de raad van bestuur.<br>
+<br>
+Alle toetredingen worden aanvaard door de algemene vergadering van de dienstverlenende of opdrachthoudende vereniging.
 
 ### ART. 33.
 
@@ -154,7 +189,15 @@ Indien de duur van een dienstverlenende of opdrachthoudende vereniging verstrijk
 
 ### ART. 37.
 
-Op verzoek van drievierde van het aantal deelnemende gemeenten, en aan de hand van de daartoe strekkende gemeenteraadsbeslissingen, kan de algemene vergadering met een drievierde meerderheid van het aantal stemmen tot de vervroegde ontbinding van een dienstverlenende of opdrachthoudende vereniging beslissen.<br /><br />Bij ontbinding krachtens het voorgaande lid of door het verstrijken van de statutair bepaalde duur die niet verlengd wordt, wijst de algemene vergadering die de ontbinding vaststelt, de vereffenaars aan op dezelfde wijze als bepaald is voor de bestuurders. Een beperkt college van vereffenaars kan samengesteld worden op dezelfde wijze als een directiecomité. Alle andere organen vervallen op het ogenblik van de ontbinding.<br /><br />Het voltallige personeel van de dienstverlenende of opdrachthoudende vereniging wordt overgenomen, hetzij door de deelnemers, hetzij eventueel door de overnemers van de activiteit, in verhouding tot de kapitaalinbreng of overeenkomstig de onderling bereikte akkoorden, en zonder dat de personeelsleden door deze plicht tot overname gebonden zijn.<br /><br />De nieuwe werkgever waarborgt de rechten die de vereniging op het ogenblik van haar ontbinding, hetzij statutair, hetzij contractueel voor de werknemers vastgesteld had. Het door een gemeente overgenomen personeel komt, met behoud van zijn geldelijk statuut, terecht in een overgangskader dat geen invloed heeft op de personeelsformatie en uitdovend is.<br /><br />De gemeenten hebben een recht van voorkeur op overneming van de op hun grondgebied gelegen installaties tegen boekwaarde.
+Op verzoek van drievierde van het aantal deelnemende gemeenten, en aan de hand van de daartoe strekkende gemeenteraadsbeslissingen, kan de algemene vergadering met een drievierde meerderheid van het aantal stemmen tot de vervroegde ontbinding van een dienstverlenende of opdrachthoudende vereniging beslissen.<br>
+<br>
+Bij ontbinding krachtens het voorgaande lid of door het verstrijken van de statutair bepaalde duur die niet verlengd wordt, wijst de algemene vergadering die de ontbinding vaststelt, de vereffenaars aan op dezelfde wijze als bepaald is voor de bestuurders. Een beperkt college van vereffenaars kan samengesteld worden op dezelfde wijze als een directiecomité. Alle andere organen vervallen op het ogenblik van de ontbinding.<br>
+<br>
+Het voltallige personeel van de dienstverlenende of opdrachthoudende vereniging wordt overgenomen, hetzij door de deelnemers, hetzij eventueel door de overnemers van de activiteit, in verhouding tot de kapitaalinbreng of overeenkomstig de onderling bereikte akkoorden, en zonder dat de personeelsleden door deze plicht tot overname gebonden zijn.<br>
+<br>
+De nieuwe werkgever waarborgt de rechten die de vereniging op het ogenblik van haar ontbinding, hetzij statutair, hetzij contractueel voor de werknemers vastgesteld had. Het door een gemeente overgenomen personeel komt, met behoud van zijn geldelijk statuut, terecht in een overgangskader dat geen invloed heeft op de personeelsformatie en uitdovend is.<br>
+<br>
+De gemeenten hebben een recht van voorkeur op overneming van de op hun grondgebied gelegen installaties.
 
 ## SUBAFDELING 3 STATUTEN EN STATUTENWIJZIGINGEN
 
@@ -186,7 +229,19 @@ De dienstverlenende en de opdrachthoudende vereniging beschikken ten   minste ov
 
 ### ART. 44.
 
-De algemene vergadering is samengesteld uit de vertegenwoordigers van de   deelnemers. Voor de gemeenten worden zij rechtstreeks aangewezen door de   gemeenteraden uit hun leden, en voor de overige deelnemers door de organen die,   krachtens de wettelijke, reglementaire of statutaire bepalingen, bevoegd zijn   tot deelneming of toetreding te beslissen.<BR><BR>Het aantal leden dat elke   gemeente kan afvaardigen om te zetelen in de algemene vergadering wordt bepaald   door twee criteria: de bevolkingscijfers en de kapitaalinbreng. De   verdeelsleutel tussen beide criteria wordt statutair bepaald.<BR><BR>De   vaststelling van het mandaat van de vertegenwoordiger wordt herhaald voor elke   algemene vergadering.<BR><BR>Behoudens andersluidende bepalingen in dit decreet,   wordt de door de raad van bestuur vastgestelde agenda van de algemene   vergadering uiterlijk dertig kalenderdagen voor haar zitting, aan alle   deelnemers verstuurd. De zittingen van de algemene vergadering zijn   openbaar.<BR><BR>Het aantal stemmen waarover iedere deelnemer in de algemene   vergadering beschikt wordt statutair bepaald, met dien verstande dat de   deelnemende gemeenten steeds over de meerderheid van de stemmen beschikken en   dat geen deelnemer kan beschikken over een aantal stemmen dat hoger ligt dan de   helft van het totale aantal statutair bepaalde stemmen. In de statuten kunnen   bepalingen ter bescherming van minderheden worden opgenomen.<BR><BR>Afgezien van   de jaarvergadering waarvan sprake is in artikel 65, tweede lid, van dit decreet,   wordt nog minstens één buitengewone algemene vergadering belegd in de loop van   het laatste trimester van elk jaar, om de te ontwikkelen activiteiten en de te   volgen strategie voor het volgende boekjaar te bespreken. Een door de raad van   bestuur opgestelde begroting staat op de agenda van deze   vergadering.
+De algemene vergadering is samengesteld uit de vertegenwoordigers van de deelnemers. Voor de gemeenten worden zij rechtstreeks aangewezen door de gemeenteraden uit hun leden, en voor de overige deelnemers door de organen die, krachtens de wettelijke, reglementaire of statutaire bepalingen, bevoegd zijn tot deelneming of toetreding te beslissen.<br>
+<br>
+Het aantal leden dat elke gemeente kan afvaardigen om te zetelen in de algemene vergadering wordt bepaald door twee criteria: de bevolkingscijfers en de kapitaalinbreng. De verdeelsleutel tussen beide criteria wordt statutair bepaald.<br>
+<br>
+De vaststelling van het mandaat van de vertegenwoordiger wordt herhaald voor elke algemene vergadering.<br>
+<br>
+Behoudens andersluidende bepalingen in dit decreet, wordt de door de raad van bestuur vastgestelde agenda van de algemene vergadering uiterlijk dertig kalenderdagen voor haar zitting, aan alle deelnemers verstuurd. De zittingen van de algemene vergadering zijn openbaar.<br>
+<br>
+Het aantal stemmen waarover iedere deelnemer in de algemene vergadering beschikt, wordt statutair bepaald, waarbij:<br>
+1° de deelnemende gemeenten altijd over de meerderheid van de stemmen beschikken;<br>
+2° de deelnemende privaatrechtelijke personen samen over niet meer dan 25% van het totale aantal statutair bepaalde stemmen kunnen beschikken. Onverminderd het voorgaande, kunnen in de statuten bepalingen ter bescherming van minderheden worden opgenomen.<br>
+<br>
+Afgezien van de jaarvergadering waarvan sprake is in artikel 65, tweede lid, van dit decreet, wordt nog minstens één buitengewone algemene vergadering belegd in de loop van het laatste trimester van elk jaar, om de te ontwikkelen activiteiten en de te volgen strategie voor het volgende boekjaar te bespreken. Een door de raad van bestuur opgestelde begroting staat op de agenda van deze vergadering.
 
 ### ART. 45.
 
@@ -202,7 +257,17 @@ De samenstelling van de raad van bestuur wordt in iedere dienstverlenende of opd
 
 ### ART. 48.
 
-Onverminderd andere wettelijke of decretale bepalingen die van toepassing zijn op de mandaten in een dienstverlenende of opdrachthoudende vereniging, bestaat er een onverenigbaarheid tussen het mandaat van bestuurder en de volgende ambten, functies of mandaten:<br />- lid van een regering, zowel op federaal niveau als op niveau van de gewesten en gemeenschappen;<br />- lid van een wetgevende vergadering, zowel op federaal niveau als op niveau van de gewesten en gemeenschappen;<br />- lid van het Europees Parlement en van de Europese Commissie;<br />- provinciegouverneur of adjunct van de gouverneur van Vlaams-Brabant;<br />- arrondissementscommissaris of adjunct-arrondissementscommissaris;<br />- provinciegriffier;<br />- lid van een bestuurs- of controleorgaan in of werknemer van een privaatrechtelijke rechtspersoon die activiteiten uitoefent in dezelfde beleidsdomeinen als de dienstverlenende of opdrachthoudende vereniging;<br />- behoudens wat bepaald is in artikel 46, tweede lid, van dit decreet, werknemer van een aangesloten openbaar bestuur, of van een administratie die is belast met hetzij de uitoefening van het gewoon toezicht op de lokale besturen, hetzij de uitoefening van een specifiek toezicht op grond van de doelstellingen van de dienstverlenende of opdrachthoudende vereniging.<br /><br />...
+Onverminderd andere wettelijke of decretale bepalingen die van toepassing zijn op de mandaten in een dienstverlenende of opdrachthoudende vereniging, bestaat er een onverenigbaarheid tussen het mandaat van bestuurder en de volgende ambten, functies of mandaten:<br>
+- lid van een regering, zowel op federaal niveau als op niveau van de gewesten en gemeenschappen;<br>
+- lid van een wetgevende vergadering, zowel op federaal niveau als op niveau van de gewesten en gemeenschappen;<br>
+- lid van het Europees Parlement en van de Europese Commissie;<br>
+- provinciegouverneur of adjunct van de gouverneur van Vlaams-Brabant;<br>
+- arrondissementscommissaris of adjunct-arrondissementscommissaris;<br>
+- provinciegriffier;<br>
+- lid van een bestuurs- of controleorgaan in of werknemer van een privaatrechtelijke rechtspersoon die activiteiten uitoefent in dezelfde beleidsdomeinen als de dienstverlenende of opdrachthoudende vereniging;<br>
+- behoudens wat bepaald is in artikel 46, tweede lid, van dit decreet, werknemer van een aangesloten openbaar bestuur, of van een administratie die is belast met hetzij de uitoefening van het gewoon toezicht op de lokale besturen, hetzij de uitoefening van een specifiek toezicht op grond van de doelstellingen van de dienstverlenende of opdrachthoudende vereniging.<br>
+<br>
+In afwijking van het eerste lid, bestaat er geen onverenigbaarheid tussen het mandaat van bestuurder van een opdrachthoudende vereniging met private deelname en de volgende functies of mandaten: een lid van een bestuurs- of controleorgaan in of een werknemer van een privaatrechtelijke persoon die deelnemer is van dezelfde opdrachthoudende vereniging met private deelname.
 
 ### ART. 49.
 
@@ -265,6 +330,13 @@ De dienstverlenende of opdrachthoudende vereniging kan bij gemotiveerd besluit v
 ### ART. 63.
 
 Het vast gedeelte van het maatschappelijk kapitaal mag niet lager zijn dan het bedrag dat terzake voorgeschreven is voor de coöperatieve vennootschappen met beperkte aansprakelijkheid, en wordt ter belope van één derde volgestort.<br /><br />De deelneming van één of meer provincies samen mag niet meer bedragen dan 30 procent van het totale maatschappelijk kapitaal. Het aantal stemmen waarover iedere provincie beschikt, wordt statutair bepaald, met dien verstande dat de deelnemende provincies samen nooit over meer dan 25 procent van het totale aantal statutair bepaalde stemmen kunnen beschikken.<br /><br />Het kapitaal wordt niet geïndexeerd en wordt vertegenwoordigd door aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br /><br />Immateriële inbrengen ter vertegenwoordiging van vermogensbestanddelen die niet volgens economische maatstaven kunnen worden gewaardeerd, en inbrengen in natura, worden gewaardeerd op grond van een verslag van de revisor en worden vertegenwoordigd door respectievelijk winstbewijzen en aandelen waarvan de waarde en de rechten statutair zijn bepaald.<br /><br />De deelnemers kunnen uitsluitend worden vergoed voor hun inbreng en zijn slechts aansprakelijk ten belope van hun inbreng.<br /><br />Bij de statuten wordt een register gevoegd waarop iedere deelnemer is vermeld, met aanduiding van de aandelen en winstbewijzen die hem zijn toegekend.
+
+### ART 63bis.
+
+In de opdrachthoudende vereniging met private deelname is een inbreng van privaatrechtelijke personen toegestaan als aan de volgende voorwaarden wordt voldaan:<br>
+1° de inbreng kan geen controle of blokkerende macht opleveren;<br>
+2° de privaatrechtelijke personen kunnen geen beslissende invloed op de vereniging uitoefenen;<br>
+3° de gezamenlijke inbreng van de privaatrechtelijke personen mag niet meer bedragen dan 49 % van het totale maatschappelijk kapitaal.
 
 ### ART. 64.
 
@@ -380,8 +452,26 @@ Voor lokale PPS-projecten in de zin van het decreet betreffende publiek-private 
 
 ### ART. 80.
 
-§ 1. De intercommunales bedoeld in paragraaf 2 van artikel 79 van dit   decreet, waarin één of meer provincies deelnemen, en waarin deze deelneming niet   op een specifieke wijze geregeld is door andere wettelijke of decretale   bepalingen, passen desgevallend hun statuten in die zin aan dat op 31 december   2006 de inbreng van de provincies maximum 30 procent van het totale   maatschappelijk kapitaal bedraagt. Het aantal stemmen waarover iedere provincie   beschikt wordt statutair bepaald, met dien verstande dat de deelnemende   provincies samen nooit over meer dan 25 procent van het totale aantal statutair   bepaalde stemmen kunnen beschikken.<BR><BR>Op verzoek van de algemene   vergadering, die daartoe in de loop van het jaar 2005 beslist met eenparigheid   van stemmen van de gemeentelijke afgevaardigden, op grond van een omstandig   financieel verslag dat de noodzaak van het verzoek aantoont, kan de Vlaamse   regering éénmalig, bij gemotiveerd besluit, de einddatum van 31 december 2006   verschuiven naar ten laatste 31 december 2012.<BR><BR>De intercommunales die   onder de toepassing vallen van dit decreet ingevolge het samenwerkingsakkoord   van 13 februari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het   Brussels Hoofdstedelijk Gewest betreffende de gewestgrensoverschrijdende   intercommunales, en waarin de deelneming van een of meer provincies de inbreng   van 30 procent van het totale maatschappelijk kapitaal overschrijdt op het   ogenblik van de inwerkingtreding van het bedoelde samenwerkingsakkoord, kunnen,   uitsluitend met het oog op de vermindering van deze inbreng tot de toegestane   maximum 30 procent van het totale maatschappelijk kapitaal, bij gemotiveerd   besluit van de Vlaamse Regering gemachtigd worden de desbetreffende artikelen   van hun statuten aan te passen uiterlijk op 1 juli van het tweede jaar volgend   op de inwerkingtreding van het samenwerkingsakkoord. Zij dienen daartoe, binnen   de zes maanden volgend op de inwerkingtreding van het samenwerkingsakkoord, een   gemotiveerd verzoek in van hun algemene vergadering, op grond van een verslag   dat de noodzaak van het verzoek aantoont.<BR><BR>§ 2. De intercommunales,   bedoeld in paragraaf 2 van artikel 79 van dit decreet, waarin natuurlijke   personen en rechtspersonen deelnemen en waarin deze deelneming niet op een   specifieke wijze geregeld is door andere wettelijke of decretale bepalingen,   passen hun statuten in die zin aan dat de bedoelde natuurlijke personen en   rechtspersonen die niet met een exploitatieopdracht of beheersopdracht zijn   belast, kunnen uittreden op het ogenblik waarop dit decreet voor hen in werking   treedt. De andere natuurlijke personen en rechtspersonen treden ten laatste uit   deze verenigingen hetzij op het ogenblik van hun verlenging, hetzij op 31   december van het achttiende jaar volgend op het jaar van de laatste   gemeenteraadsverkiezingen voorafgaand aan de inwerkingtreding overeenkomstig   paragraaf 1 van artikel 79 van dit decreet.<BR><BR>Verenigingen van gemeenten   die niet zijn opgericht volgens de bepalingen van dit decreet en die deelnemen   in intercommunales die onder de toepassing vallen van dit decreet ingevolge het   samenwerkingsakkoord van 13 februari 2014 tussen het Vlaamse Gewest, het Waalse   Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de   gewestgrensoverschrijdende intercommunales, treden uiterlijk op 1 juli 2019 uit   die intercommunales. In afwijking van artikel 10 behouden zij tot die datum al   hun rechten die aan hun deelneming verbonden zijn, en kunnen zij die rechten   blijven uitoefenen en worden zij zoals de autonome gemeentebedrijven   gelijkgesteld met gemeenten in de zin van artikel 45.<BR><BR>De uittreders zijn   geen schadevergoeding verschuldigd en de toepassing van het derde lid van   artikel 37 van dit decreet kan hun niet worden opgedrongen.<BR><BR>§ 3. Zolang   de natuurlijke personen en de rechtspersonen blijven deelnemen in de   intercommunales bedoeld in paragraaf 2 van artikel 79 van dit decreet, behouden   ze een vertegenwoordiging in de organen van de verenigingen, met inachtneming   van wat bepaald is in dit decreet met betrekking tot het overwicht van de   gemeenten en het voorzitterschap. Een eventueel in de statuten aan hen toegekend   vetorecht of recht van schorsing vervalt bij de inwerkingtreding overeenkomstig   paragraaf 1 van artikel 79 van dit decreet.
+§ 1. De projectverenigingen, dienstverlenende en opdrachthoudende verenigingen, waarin één of meer provincies deelnemen, en waarin deze deelneming niet op een specifieke wijze geregeld is door andere wettelijke of decretale bepalingen, passen hun statuten in die zin aan dat de provincies uiterlijk op 31 december 2018 uittreden. De provinciale aandelen worden overgenomen tegen een tussen de partijen overeen te komen waarde.<br>
+<br>
+De samenwerkingsverbanden als vermeld in artikel 2, 2°, waarin de deelneming van een of meer provincies de inbreng van 30 procent van het totale maatschappelijk kapitaal overschrijdt op het ogenblik van de inwerkingtreding van het samenwerkingsakkoord vermeld in artikel 2, 2°, kunnen, uitsluitend met het oog op de vermindering van deze inbreng tot maximaal 30 procent van het totale maatschappelijk kapitaal, bij gemotiveerd besluit van de Vlaamse Regering gemachtigd worden de desbetreffende artikelen van hun statuten aan te passen uiterlijk op 1 juli van het tweede jaar volgend op de inwerkingtreding van het samenwerkingsakkoord. Zij dienen daartoe, binnen de zes maanden volgend op de inwerkingtreding van het samenwerkingsakkoord, een gemotiveerd verzoek in van hun algemene vergadering, op grond van een verslag dat de noodzaak van het verzoek aantoont.<br>
+<br>
+§ 2. De intercommunales, bedoeld in paragraaf 2 van artikel 79 van dit decreet, waarin natuurlijke personen en rechtspersonen deelnemen en waarin deze deelneming niet op een specifieke wijze geregeld is door andere wettelijke of decretale bepalingen, passen hun statuten in die zin aan dat de bedoelde natuurlijke personen en rechtspersonen die niet met een exploitatieopdracht of beheersopdracht zijn belast, kunnen uittreden op het ogenblik waarop dit decreet voor hen in werking treedt. De andere natuurlijke personen en rechtspersonen treden ten laatste uit deze verenigingen hetzij op het ogenblik van hun verlenging, hetzij op 31 december van het achttiende jaar volgend op het jaar van de laatste gemeenteraadsverkiezingen voorafgaand aan de inwerkingtreding overeenkomstig paragraaf 1 van artikel 79 van dit decreet. Indien de vereniging waarin zij deelnemen voor deze uittredingsdatum voldoet aan de voorwaarden van dit decreet, zijn deze personen niet langer tot uittreding gehouden.<br>
+<br>
+Verenigingen van gemeenten die niet zijn opgericht volgens de bepalingen van dit decreet en die deelnemen in intercommunales die onder de toepassing vallen van dit decreet ingevolge het samenwerkingsakkoord van 13 februari 2014 tussen het Vlaamse Gewest, het Waalse Gewest en het Brusselse Hoofdstedelijke Gewest betreffende de gewestgrensoverschrijdende intercommunales, treden uiterlijk op 1 juli 2019 uit die intercommunales. In afwijking van artikel 10 behouden zij tot die datum al hun rechten die aan hun deelneming verbonden zijn, en kunnen zij die rechten blijven uitoefenen en worden zij zoals de autonome gemeentebedrijven gelijkgesteld met gemeenten in de zin van artikel 45.<br>
+<br>
+De uittreders zijn geen schadevergoeding verschuldigd en de toepassing van het derde lid van artikel 37 van dit decreet kan hun niet worden opgedrongen.<br>
+<br>
+§ 3. Zolang de natuurlijke personen en de rechtspersonen blijven deelnemen in de intercommunales bedoeld in paragraaf 2 van artikel 79 van dit decreet, behouden ze een vertegenwoordiging in de organen van de verenigingen, met inachtneming van wat bepaald is in dit decreet met betrekking tot het overwicht van de gemeenten en het voorzitterschap. Een eventueel in de statuten aan hen toegekend vetorecht of recht van schorsing vervalt bij de inwerkingtreding overeenkomstig paragraaf 1 van artikel 79 van dit decreet.
 
 ### ART. 81.
 
-(niet opgenomen)<br /><br />(Heft de volgende regelgeving op:<br /><br />a. de wet van 22 december 1986 betreffende de intercommunales ten opzichte van de samenwerkingsverbanden van gemeenten waarvan het gehele ambtsgebied binnen de grenzen van het Vlaamse Gewest valt, met uitzondering van artikel 26 en met uitzondering van de bepalingen betreffende de verenigingen van gemeenten en provincies bedoeld in artikel 92bis, § 2, d, van de bijzondere wet van 8 augustus 1980 tot hervorming van de instellingen;<br /><br />b.het decreet van 1 juli 1987 betreffende de werkwijze van, de controle op en de vaststelling van het ambtsgebied van intercommunales;<br /><br />c. artikel 43, § 2, van het decreet betreffende de voorkoming en het beheer van afvalstoffen van 2 juli 1981)
+(niet opgenomen)<br>
+<br>
+(Heft de volgende regelgeving op:<br>
+<br>
+a. de wet van 22 december 1986 betreffende de intercommunales, met uitzondering van artikel 26;<br>
+<br>
+b.het decreet van 1 juli 1987 betreffende de werkwijze van, de controle op en de vaststelling van het ambtsgebied van intercommunales;<br>
+<br>
+c. artikel 43, § 2, van het decreet betreffende de voorkoming en het beheer van afvalstoffen van 2 juli 1981)
