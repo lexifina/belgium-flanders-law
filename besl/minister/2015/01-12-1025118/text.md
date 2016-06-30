@@ -6,7 +6,55 @@
 
 ### ART. 1.
 
-<P>De volgende personen worden aangewezen als Vlaamse commissarissen als vermeld   in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex:<BR>1°   Ides Andries;<BR>2° Robert Bielen;<BR>3° Martina Broothaerts;<BR>4° Dirk   Conruyt;<BR>5° Lydia De Cremer;<BR>6° Christine De Pus;<BR>7° Sofie De   Wolf;<BR>8° Els Dobbelaere;<BR>9° Marc Fettes;<BR>10° Joost Fourneau;<BR>11°   Peter Gallein;<BR>12° Jacques Geerdens;<BR>13° ...;<BR>14° Bart Helon;<BR>15°   Richard Kelder;<BR>16° Filip Kets;<BR>17° Sigrid Lauwers;<BR>18° Marc   Luyckx;<BR>19° Xavier Marescaux;<BR>20° Alain Maricou;<BR>21° Mark   Martien;<BR>22° Stijn Menten;<BR>23° Vincent Mys;<BR>24° Bram Peene;<BR>25°   Joris Platteau;<BR>26° Nathalie Quintelier;<BR>27° Anne-Marie Reyskens;<BR>28°   Inge Snoeck;<BR>29° Joris Teirlinck;<BR>30° Patrick Van Bever;<BR>31° Dirk Van   Bockstal;<BR>32° Dirk Van Buylaere;<BR>33° Jean-Pierre Van Campenhout;<BR>34°   Diane Van Daele;<BR>35° Marc Van Daele;<BR>36° Nadine Van Wambeke;<BR>37° Walter   Van Damme;<BR>38° Jozef Van Kerckhoven;<BR>39° Paul Van Steenwinkel;<BR>40°   Veerle Vander Schelde;<BR>41° Lieven Vanheuverzwijn;<BR>42° Elke   Wittebroodt;<BR>43° Carine Bogaert;<BR>44° Roeland Eysackers;<BR>45° Lieve   Verfaillie;<BR>46° Jan Mertens;<BR>47° Johan Reymen;</P>
+<p>De volgende personen worden aangewezen als Vlaamse commissarissen als vermeld in het decreet van 19 december 2014 houdende de Vlaamse vastgoedcodex:<br>
+1° Ides Andries;<br>
+2° Robert Bielen;<br>
+3° Martina Broothaerts;<br>
+4° Dirk Conruyt;<br>
+5° Lydia De Cremer;<br>
+6° Christine De Pus;<br>
+7° Sofie De Wolf;<br>
+8° Els Dobbelaere;<br>
+9° Marc Fettes;<br>
+10° ...;<br>
+11° Peter Gallein;<br>
+12° Jacques Geerdens;<br>
+13° ...;<br>
+14° Bart Helon;<br>
+15° Richard Kelder;<br>
+16° Filip Kets;<br>
+17° Sigrid Lauwers;<br>
+18° Marc Luyckx;<br>
+19° Xavier Marescaux;<br>
+20° Alain Maricou;<br>
+21° Mark Martien;<br>
+22° Stijn Menten;<br>
+23° Vincent Mys;<br>
+24° Bram Peene;<br>
+25° Joris Platteau;<br>
+26° Nathalie Quintelier;<br>
+27° Anne-Marie Reyskens;<br>
+28° Inge Snoeck;<br>
+29° Joris Teirlinck;<br>
+30° Patrick Van Bever;<br>
+31° Dirk Van Bockstal;<br>
+32° Dirk Van Buylaere;<br>
+33° ...;<br>
+34° Diane Van Daele;<br>
+35° Marc Van Daele;<br>
+36° Nadine Van Wambeke;<br>
+37° Walter Van Damme;<br>
+38° Jozef Van Kerckhoven;<br>
+39° Paul Van Steenwinkel;<br>
+40° Veerle Vander Schelde;<br>
+41° Lieven Vanheuverzwijn;<br>
+42° Elke Wittebroodt;<br>
+43° Carine Bogaert;<br>
+44° Roeland Eysackers;<br>
+45° Lieve Verfaillie;<br>
+46° Jan Mertens;<br>
+47° Johan Reymen;<br>
+48° Hans Duyck;</p>
 
 ### ART. 2.
 
