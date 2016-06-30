@@ -38,3 +38,45 @@ Artikel I 14septies, van hetzelfde besluit, ingevoegd bij het besluit van de Vla
 In afwijking van het eerste lid ontvangen de voorzitters als vergoeding voor hun reiskosten een treinbiljet eerste klasse heen en terug of de tegenwaarde ervan.<br>
 <br>
 § 4. De regeling voor de voorzitters, vermeld in paragraaf 2 en 3, geldt ook voor extra vergaderingen van de voorzitters met het oog op de operationalisering van de beroepscommissie Functieclassificatie.".
+
+### ART 45.
+
+In artikel X 22, § 2 van hetzelfde besluit wordt de zin "De aanrekening op het aantal dagen vermeld in de artikelen X 20 en XI 7 gebeurt pro rata" gewijzigd in de zin "De aanrekening op het aantal dagen vermeld in artikel X 20 gebeurt pro rata."
+
+### ART 46.
+
+&nbsp;In artikel X 23, § 1, tweede lid, van hetzelfde besluit wordt de zinsnede "op de contingenten vermeld in de artikelen X 20, XI 7 en XI 13, "vervangen door de zinsnede "op het contingent vermeld in artikel X 20,".
+
+### ART 47.
+
+Aan artikel X 89, § 5, van hetzelfde besluit, gewijzigd door het besluit van de Vlaamse Regering van 13 november 2015, worden een derde tot en met vijfde lid toegevoegd, die luiden als volgt :<br>
+"Op het ziektecontingent vermeld in artikel XI 7 wordt voor wat betreft de ambtenaar die vanaf 1 juli 2016 in het kader van een staatshervorming wordt overgeheveld het ziekteverlof en de disponibiliteit wegens ziekte aangerekend dat zich sinds de 62ste verjaardag van de ambtenaar voordeed.<br>
+<br>
+Op het ziektecontingent vermeld in artikel XI 7 wordt voor wat betreft de ambtenaar die vanaf 1 januari 2017 in het kader van een staatshervorming wordt overgeheveld het ziekteverlof en de disponibiliteit wegens ziekte aangerekend dat zich sinds de 62,5de verjaardag van de ambtenaar voordeed.<br>
+<br>
+Op het ziektecontingent vermeld in artikel XI 7 wordt voor wat betreft de ambtenaar die vanaf 1 januari 2018 in het kader van een staatshervorming wordt overgeheveld het ziekteverlof en de disponibiliteit wegens ziekte aangerekend dat zich sinds de 63ste verjaardag van de ambtenaar voordeed."
+
+### ART 49.
+
+Artikel XI 7 van hetzelfde besluit, vervangen bij het besluit van de Vlaamse Regering van 23 mei 2008, wordt vervangen door wat volgt :<br>
+"Art. XI 7. De ambtenaar die de leeftijd van 62 jaar heeft bereikt, wordt op rust gesteld op de eerste dag van de maand die volgt op de maand waarin hij, zonder definitief ongeschikt te zijn bevonden, sedert zijn tweeënzestigste verjaardag komt tot een totaal van 365 kalenderdagen afwezigheid wegens ziekte.<br>
+<br>
+De leeftijd van 62 jaar en de tweeënzestigste verjaardag, vermeld in het eerste lid, worden opgetrokken tot 62 jaar en zes maanden vanaf 1 januari 2017 en tot 63 jaar vanaf 1 januari 2018.<br>
+<br>
+De afwezigheden met toepassing van artikel X 22 § 1, en artikel X 23, § 1, eerste lid, 1°, 2° en 4°, worden niet toegerekend op het contingent van 365 kalenderdagen als vermeld in het eerste lid.<br>
+<br>
+Als de ambtenaar de vakantieverlofdagen niet heeft kunnen opnemen vóór de datum van opruststelling, wordt artikel VII 11, § 2, toegepast.".
+
+### ART 51.
+
+Artikel XI 12 van hetzelfde besluit wordt vervangen door wat volgt :<br>
+"Art. XI 12. Voor de ambtenaar die op datum van 30 juni 2016 62 jaar of ouder is, worden de ziektedagen die hem vanaf de leeftijd van 62 jaar werden toegekend krachtens de reglementering van kracht vóór eerstvermelde datum, aangerekend op de 365 kalenderdagen afwezigheid wegens ziekte vermeld in artikel XI 7.<br>
+<br>
+Voor de ambtenaar die op datum van 1 januari 2017 62 jaar en zes maanden of ouder is, worden de ziektedagen die hem vanaf de leeftijd van 62 jaar en zes maanden werden toegekend krachtens de reglementering van kracht vóór eerstvermelde datum, aangerekend op de 365 kalenderdagen afwezigheid wegens ziekte vermeld in artikel XI 7.<br>
+<br>
+Voor de ambtenaar die op datum van 1 januari 2018 63 jaar of ouder is, worden de ziektedagen die hem vanaf de leeftijd van 63 jaar werden toegekend krachtens de reglementering van kracht vóór eerstvermelde datum, aangerekend op de 365 kalenderdagen afwezigheid wegens ziekte vermeld in artikel XI 7."
+
+### ART 52.
+
+Artikel XI 13 van hetzelfde besluit wordt vervangen door wat volgt :<br>
+"Art. XI 13. De ambtenaar ouder dan 60 jaar die na een afwezigheid van 222 werkdagen wegens ziekte een uitstel kreeg van zijn opruststelling met 6 maanden of een veelvoud ervan, krijgt na afloop van de termijn van het toegekende uitstel een ambtshalve verlenging van het uitstel tot aan de eerste datum waarop hij voldoet aan de voorwaarden voor het vervroegd pensioen wegens leeftijd of ziekte. "
