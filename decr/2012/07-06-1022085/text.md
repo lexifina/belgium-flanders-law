@@ -12,9 +12,9 @@ In dit decreet wordt verstaan onder :<br>
 1° Sport voor Allen : brede sportbeoefening die individueel of in ploegverband wordt beoefend met een competitief of recreatief karakter maar met uitzondering van topsport en competitiesport op hoog niveau;<br>
 2° sportbeleid : het systematische en samenhangende geheel van beleidsmaatregelen van een overheid met betrekking tot sport dat steunt op deskundigheid, strategische aanpak en participatie van alle actoren;<br>
 3° beweegbeleid : het systematische en samenhangende geheel van beleidsmaatregelen van een overheid met betrekking tot het aanzetten tot bewegen met als uiteindelijk doel sportbeoefening;<br>
-4° erkende Vlaamse sportfederatie : de sportfederatie die erkend is in het kader van het decreet van 13 juli 2001 houdende de regeling van de erkenning en de subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
-5° erkende Vlaamse organisatie voor de sportieve vrijetijdsbesteding : de organisatie voor de sportieve vrijetijdsbesteding die erkend is in het kader van het decreet van 13 juli 2001 houdende de regeling van de erkenning en de subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
-6° sporttakkenlijst : de nominatieve lijst van sporttakken die de Vlaamse Regering kan subsidiëren en die gevoegd is als bijlage V bij het besluit van de Vlaamse Regering van 5 december 2008 tot vaststelling van de erkennings- en subsidiëringsvoorwaarden van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+4° erkende Vlaamse sportfederatie : de sportfederatie die erkend is in het kader van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
+5° erkende Vlaamse organisatie voor de sportieve vrijetijdsbesteding : de organisatie voor de sportieve vrijetijdsbesteding die erkend is in het kader van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
+6° sporttakkenlijst : de nominatieve lijst van sporttakken die de Vlaamse Regering kan subsidiëren, vermeld in artikel 2, 14°, van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
 7° sportvereniging : een groepering van mensen die zich structureel en duurzaam heeft georganiseerd met als primaire doelstelling sport te beoefenen en sportactiviteiten te organiseren waarbij de fysieke inspanning centraal staat;<br>
 8° jeugdsportbegeleider : een sporttechnische begeleider voor jeugdsport die actief is in een sportvereniging die aangesloten is bij een erkende Vlaamse sportfederatie. Onder jeugdsport wordt verstaan sportbeoefening van kinderen en jongeren tot en met achttien jaar;<br>
 9° directe financiële ondersteuning van sportverenigingen : een financiële tegemoetkoming aan sportverenigingen door de gemeente of de Vlaamse Gemeenschapscommissie die bestemd is voor de algemene werking van de vereniging. De subsidies worden verdeeld op basis van een subsidiereglement waarin objectiveerbare kwaliteitscriteria worden gehanteerd;<br>
@@ -22,8 +22,7 @@ In dit decreet wordt verstaan onder :<br>
 11° kansengroep : een geheel van personen die vanwege een of meer gemeenschappelijke persoons- of situationele kenmerken feitelijk ongelijke kansen hebben inzake sportparticipatie en voor wie bijgevolg een specifiek sport- en beweegbeleid noodzakelijk is;<br>
 12° gemeente : gemeente uit het Nederlandse taalgebied;<br>
 13° Planlastendecreet : het decreet van 15 juli 2011 houdende vaststelling van de algemene regels waaronder in de Vlaamse Gemeenschap en het Vlaamse Gewest periodieke plan- en rapporteringsverplichtingen aan lokale besturen kunnen worden opgelegd;<br>
-14° Bloso : het agentschap ter Bevordering van de Lichamelijke Ontwikkeling, de Sport en de Openluchtrecreatie.<br>
-&nbsp;
+14° agentschap Sport Vlaanderen : het agentschap dat opgericht is bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen"
 
 ### ART. 3.
 
