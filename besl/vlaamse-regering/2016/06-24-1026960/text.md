@@ -30,6 +30,11 @@
 <span style="color: rgb(0, 0, 0);">In artikel 12 van het Subsidiebesluit van 22 november 2013 wordt het bedrag "578,37 euro" vervangen door het bedrag "752,28 euro".</span><br>
 &nbsp;
 
+### ART 2.
+
+<span style="color: rgb(0, 0, 0);">In artikel 17 van hetzelfde besluit wordt een vierde lid ingevoegd dat luidt als volgt:</span><br>
+<span style="color: rgb(0, 0, 0);">"In afwijking van artikel 8 wordt bij de overschrijding van de drempelwaarde van het viermaandelijks voortschrijdend gemiddelde in mei 2016, het bedrag, vermeld in het tweede lid, 1°, vanaf 1 juli 2016 verhoogd met 0,24 euro.".</span>
+
 ### ART 3.
 
 <span style="color: rgb(0, 0, 0);">In artikel 18, derde lid, 1°, van hetzelfde besluit wordt het bedrag "5529,66 euro" vervangen door het bedrag "5355,75 euro".</span><br>
