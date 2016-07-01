@@ -13,6 +13,31 @@
 
 ## HOOFDSTUK 3 Cultuur, Jeugd, Sport en Media
 
+### ART 3.
+
+<p>In titel 3, hoofdstuk 4, van het decreet van 6 juli 2012 betreffende het Lokaal Cultuurbeleid wordt afdeling 2, dat bestaat uit artikel 20 en 21, vervangen door wat volgt :<br>
+Afdeling 2 Ondersteuning van het integraal lokaal cultuurbeleid<br>
+<br>
+Art. 20. De Vlaamse Regering subsidieert een organisatie die als doel heeft gemeenten te ondersteunen bij de digitale uitdagingen van hun cultuurbeleid, met klemtoon op openbare bibliotheken, cultuur- en gemeenschapscentra en aandacht voor sectoroverschrijdende verbindingen.<br>
+<br>
+Art. 21. De organisatie, vermeld in artikel 20, voert volgende strategische doelstellingen uit :<br>
+1° uitzetten van stimuleringstrajecten om het lokaal cultuurbeleid te sensibiliseren rond de digitale uitdagingen;<br>
+2° concrete proefprojecten uitvoeren in samenwerking met lokale besturen en lokale cultuurprofessionals om oplossingen voor de digitale uitdagingen van het lokaal cultuurbeleid te zoeken;<br>
+3° succesvolle proefprojecten op te schalen tot bovenlokale diensten waarop gemeenten kunnen intekenen;<br>
+4° bovenlokale diensten kwalitatief te beheren in een consortiummodel met deelnemende gemeenten.<br>
+<br>
+Voor de uitvoering van de opdrachten kent de Vlaamse Regering een jaarlijkse subsidie toe, waarvan ze het bedrag bepaalt. De subsidie wordt toegekend ter ondersteuning van de personeels- en werkingskosten en omvat gelijktijdig de subsidiëring van een kern van personeelsleden, de jaarlijkse toekenning van een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
+<br>
+De Vlaamse Regering sluit een vijfjarige overeenkomst af met de organisatie waarin de strategische doelstellingen worden geconcretiseerd in operationele doelstellingen en de jaarlijkse subsidie voor personeel en werking wordt toegekend. Na een positieve evaluatie van de uitvoering van de overeenkomst in de loop van het laatste jaar sluit de Vlaamse Regering een nieuwe vijfjarige overeenkomst.<br>
+<br>
+De wijze waarop de organisatie uitvoering zal geven aan de doelstellingen uit de overeenkomst wordt beschreven in een vijfjarig meerjarenplan dat ter goedkeuring wordt voorgelegd aan de minister bevoegd voor Cultuur.<br>
+<br>
+De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepalen en kan een afwijkende looptijd voorzien voor de eerste keer dat deze overeenkomst wordt gesloten.".</p>
+
+### ART 4.
+
+<p>In titel 3, hoofdstuk 4, van hetzelfde decreet wordt afdeling 4, dat bestaat uit de artikelen 31 tot en met 33, opgeheven.</p>
+
 ## HOOFDSTUK 4 Werk en Sociale Economie
 
 ## Afdeling 1 Opheffen van de overstappremie
