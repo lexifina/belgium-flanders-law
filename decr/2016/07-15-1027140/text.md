@@ -43,6 +43,11 @@ In artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de 
 
 ## Onderafdeling 2. Wijzigingen van het Woonzorgdecreet van 13 maart 2009
 
+### ART 43.
+
+Aan artikel 62 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"In afwijking van het eerste lid kunnen subsidies voor animatie, vermeld in artikel 38, 5°, worden toegekend aan erkende woonzorgcentra en erkende centra voor kortverblijf, ongeacht de rechtsvorm van de initiatiefnemer.".
+
 ## HOOFDSTUK 3. Vervanging van de term "vereniging zonder winstoogmerk" in meerdere sectorale decreten
 
 ## HOOFDSTUK 4. Netwerk voor de gegevensdeling tussen de actoren in de zorg
