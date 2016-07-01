@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026931,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-10 tot uitvoering van het decreet van 4 maart 2016 houdende het Vlaamse doelgroepenbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026931/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "9c61f4d1bd3ec4b0af0e07b0bd40e3c5b7b65ceed8b460bbcb6a3bf03466cec4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026931&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2016-06-10",
+  "gazette": "2016-06-28",
+  "numac": 2016036032,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 33,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
