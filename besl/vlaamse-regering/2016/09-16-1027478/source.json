@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027478,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-16 tot wijziging van bijlage XIV bij het besluit van de Vlaamse Regering van 24 juli 2009 betreffende de programmatie, de erkenningsvoorwaarden en de subsidieregeling voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers en van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, par. 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027478/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "0c6b8ce2110907144a826288dfbe956f7bb25547222a3672f4645f130b25ac6d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027478&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2016-09-16",
+  "gazette": "2016-10-13",
+  "numac": 2016036457,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
