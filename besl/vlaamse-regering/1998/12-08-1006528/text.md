@@ -44,7 +44,22 @@ e) geen hoger diploma, getuigschrift of brevet hebben behaald dan lager secundai
 <br>
 § 1/1. Personen kunnen in sociale werkplaatsen worden tewerkgesteld als ze gedurende de periode van 1 april 2015 tot en met 9 februari 2016 als doelgroepwerknemer als vermeld in artikel 3, 2°, a) en b) van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve inschakeling werden aangeworven door een maatwerkbedrijf als vermeld in artikel 3, 5° van voormeld decreet.<br>
 <br>
-§ 2. Onverminderd bovenvermelde bepalingen kan de minister beslissen in te gaan op een gemotiveerde vraag tot afwijking van de voorwaarde vermeld in § 1, 1°, e) van dit artikel.<br>
+§ 1/2. Personen kunnen in sociale werkplaatsen worden tewerkgesteld als ze een arbeidsbeperking hebben en uiterlijk de dag voor de indienstneming door de VDAB of een door de VDAB aangewezen dienstverlener zijn geïndiceerd op grond van het International Classification of Functioning, Disability and Health- indiceringsinstrument, dat aantoont dat die personen kampen op het vlak van arbeidsmatige zelfredzaamheid met minimaal drie van de hiernavolgende problemen:<br>
+a) oplossen van problemen;<br>
+b) besluiten nemen;<br>
+c) cognitieve flexibiliteit;<br>
+d) tijdsmanagement;<br>
+e) ontwikkelen van vaardigheden;<br>
+f) vertrouwen;<br>
+g) omgaan met stress;<br>
+h) psychische stabiliteit;<br>
+i) copingstijl;<br>
+j) werktempo;<br>
+k) aandacht".<br>
+<br>
+Onder International Classification of Functioning, Disability and Health als vermeld in het eerste lid wordt het wetenschappelijk instrument verstaan dat door de Wereldgezondheidsorganisatie sinds 2002 is erkend, en dat aan de hand van de classificatie van gezondheidsgerelateerde problemen het functioneren van een persoon in kaart brengt.<br>
+<br>
+§ 2. ...<br>
 <br>
 § 3. De minister kan periodes bepalen die met een periode van inactiviteit worden gelijkgesteld.
 
