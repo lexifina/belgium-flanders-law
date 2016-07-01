@@ -292,7 +292,17 @@ Bij het bepalen van de subsidie aan een thuiszorgvoorziening of vereniging legt 
 
 ### ART. 62.
 
-De Vlaamse Regering kan subsidies voor de organisatie en het aanbod van de ouderenzorg, vermeld in hoofdstuk III en artikel 49, verlenen aan : <br />1° erkende ouderenvoorzieningen waarvan de initiatiefnemer een rechtsvorm heeft als vermeld in artikel 63, eerste lid;<br />2° erkende woonzorgnetwerken, waarvan minstens twee participerende voorzieningen, vermeld in artikel 44 een rechtsvorm hebben als vermeld in artikel 63, eerste lid.<br /><br />Die subsidies kunnen pas worden toegekend aan de voorzieningen en woonzorgnetwerken als ze, naast de erkenningsvoorwaarden, aan aanvullende kwaliteiteisen voldoen. De Vlaamse Regering bepaalt die kwaliteitseisen op basis van objectieve parameters, overwogen uit algemeen belang, die tenminste rekening houden met : <br />1° de reële inzet van personeel in de voorziening; <br />2° de vorming en bijscholing van personeel;<br />3° het prijzenbeleid; <br />4° het opnamebeleid.
+De Vlaamse Regering kan subsidies voor de organisatie en het aanbod van de ouderenzorg, vermeld in hoofdstuk III en artikel 49, verlenen aan :<br>
+1° erkende ouderenvoorzieningen waarvan de initiatiefnemer een rechtsvorm heeft als vermeld in artikel 63, eerste lid;<br>
+2° erkende woonzorgnetwerken, waarvan minstens twee participerende voorzieningen, vermeld in artikel 44 een rechtsvorm hebben als vermeld in artikel 63, eerste lid.<br>
+<br>
+Die subsidies kunnen pas worden toegekend aan de voorzieningen en woonzorgnetwerken als ze, naast de erkenningsvoorwaarden, aan aanvullende kwaliteiteisen voldoen. De Vlaamse Regering bepaalt die kwaliteitseisen op basis van objectieve parameters, overwogen uit algemeen belang, die tenminste rekening houden met :<br>
+1° de reële inzet van personeel in de voorziening;<br>
+2° de vorming en bijscholing van personeel;<br>
+3° het prijzenbeleid;<br>
+4° het opnamebeleid.<br>
+<br>
+In afwijking van het eerste lid kunnen subsidies voor animatie, vermeld in artikel 38, 5°, worden toegekend aan erkende woonzorgcentra en erkende centra voor kortverblijf, ongeacht de rechtsvorm van de initiatiefnemer.
 
 ### ART. 63.
 
