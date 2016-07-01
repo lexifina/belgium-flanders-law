@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027027,
+  "title": "Samenwerkingsakkoord van 2016-06-17 tussen de Vlaamse Gemeenschap, het Waalse Gewest, de Gemeenschappelijke Gemeenschapscommissie en de Duitstalige Gemeenschap houdende omzetting in de gezinsbijslagwetgeving van de Richtlijn 2011/98/EU van het Europees Parlement en de Raad van 13 december 2011 betreffende één enkele aanvraagprocedure voor een gecombineerde vergunning voor onderdanen van derde landen om te verblijven en te werken op het grondgebied van een lidstaat, alsmede inzake een gemeenschappelijk pakket rechten voor werknemers uit derde landen die legaal in een lidstaat verblijven",
+  "type": "Samenwerkingsakkoord",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027027/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "fbfb0f928439bbf0169a9fe461258517e44248957277d54d23b89644abee97b5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027027&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2016-06-17",
+  "gazette": "2016-07-13",
+  "numac": 2016203664,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
