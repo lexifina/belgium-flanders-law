@@ -10,7 +10,9 @@ De voorzitter ontvangt een jaarlijkse forfaitaire vergoeding van 1.240 euro.<br 
 
 ### ART. 2bis.
 
-De bijzitters van de Raad die deelnemen aan een zitting, ontvangen een forfaitaire vergoeding van 50 euro per beroep dat wordt behandeld tijdens de zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen.<br /><br />De voorzitters van de Raad die deelnemen aan een zitting ontvangen een forfaitaire vergoeding van 75 euro per beroep dat wordt behandeld tijdens een zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen. <br />
+De bijzitters van de Raad die deelnemen aan een zitting, ontvangen een forfaitaire vergoeding van 50 euro per beroep dat wordt behandeld tijdens de zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen.<br>
+<br>
+De voorzitters van de Raad die deelnemen aan een zitting ontvangen een forfaitaire vergoeding van 75 euro per beroep dat wordt behandeld tijdens een zitting als het gaat om aanpassingen van het leerkrediet omdat de betrokken student zich in een overmachtsituatie bevond en de instelling geen aangepaste examenregeling heeft geboden conform artikel II.285 van de Codex Hoger Onderwijs van 11 oktober 2013. Voor alle andere beroepen ontvangen de voorzitters van de Raad die deelnemen aan een zitting, een forfaitaire vergoeding van 125 euro per beroep dat wordt behandeld tijdens een zitting. Indien een beroep verdaagd wordt of tijdens meerdere zittingen wordt behandeld, wordt slechts één zitting in aanmerking genomen voor het vaststellen van de vergoedingen.
 
 ### ART. 3.
 
