@@ -398,7 +398,8 @@ Het begeleidingsteam kan gemotiveerde voorstellen doen voor het verdere verloop 
 
 ### ART. 78.
 
-De voorstellen van het begeleidingsteam worden door de afgevaardigde van Syntra Vlaanderen bezorgd aan de praktijkcommissie, die een beslissing neemt. Als het voorstel van het begeleidingsteam niet eenparig wordt gedaan, moeten de standpunten die afwijken van het voorstel, eraan toegevoegd worden.<br /><br />
+De voorstellen van het begeleidingsteam worden bezorgd aan Syntra Vlaanderen, dat een beslissing neemt. Als het voorstel van het begeleidingsteam niet eenparig wordt gedaan, moeten de standpunten die afwijken van het voorstel, eraan toegevoegd worden.<br>
+&nbsp;
 
 ### ART. 79.
 
