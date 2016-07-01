@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027975,
+  "title": "Besluit van de Vlaamse Regering van 2017-02-03 tot wijziging van het besluit van de Vlaamse Regering van 26 oktober 2012 ter uitvoering van het decreet van 6 juli 2012 betreffende het lokaal cultuurbeleid",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027975/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "73a300f7dbb1cedb510aca3734b1546bbab881ffade1861e1b3f9286dee2802e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027975&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2017-02-03",
+  "gazette": "2017-03-03",
+  "numac": 2017010994,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
