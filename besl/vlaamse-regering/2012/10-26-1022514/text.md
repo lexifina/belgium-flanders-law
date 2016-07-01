@@ -74,7 +74,13 @@ De gemeente stelt op verzoek van de minister de beleidsrelevante gegevens   over
 
 ### ART. 15.
 
-<P>Ter uitvoering van artikel 18 van het decreet van 6 juli 2012 zijn de   organisaties verplicht met een batig saldo in de resultatenrekening een   financiële reserve op te bouwen. Die reserve moet worden aangewend ter   financiering van uitgaven die bijdragen tot de realisatie van de doelstellingen   van de organisatie.<BR></P>  <P>Een reserve wordt in de balans opgenomen als onderdeel van het eigen vermogen   en bestaat uit de rekening bestemde fondsen en de rekening overgedragen   resultaat.<BR></P>  <P>Bij de jaarlijkse subsidie is een jaarlijkse reservevorming van maximaal 20 %   tegen over de jaarlijkse toegekende subsidie mogelijk. Eventuele meerontvangsten   tegenover de in de begroting voorziene eigen ontvangsten mogen volledig   gereserveerd worden.<BR></P>  <P>Gecumuleerd kan er een maximum van 50 % reserve worden toegestaan tegenover   de jaarlijks toegekende subsidie. Gecumuleerde meerontvangsten tegenover de in   de jaarlijks begroting voorziene eigen ontvangsten mogen ook volledig   gereserveerd worden.<BR></P>
+<p>Ter uitvoering van artikel 18 van het decreet van 6 juli 2012 zijn de organisaties verplicht met een batig saldo in de resultatenrekening een financiële reserve op te bouwen. Die reserve moet worden aangewend ter financiering van uitgaven die bijdragen tot de realisatie van de doelstellingen van de organisatie.</p>
+
+<p>Een reserve wordt in de balans opgenomen als onderdeel van het eigen vermogen en bestaat uit de rekening bestemde fondsen en de rekening overgedragen resultaat.</p>
+
+<p>Bij de jaarlijkse subsidie is een jaarlijkse reservevorming van maximaal 20 % tegen over de jaarlijkse toegekende subsidie mogelijk. Eventuele meerontvangsten tegenover de in de begroting voorziene eigen ontvangsten mogen volledig gereserveerd worden.</p>
+
+<p>Gecumuleerd kan er een maximum van 50 % reserve worden toegestaan tegenover de jaarlijks toegekende subsidie. Gecumuleerde meerontvangsten tegenover de in de jaarlijks begroting voorziene eigen ontvangsten mogen ook volledig gereserveerd worden.</p>
 
 ### ART. 16.
 
@@ -92,11 +98,13 @@ Bij de uitvoering van de opdrachten zullen de organisaties, vermeld in   artikel
 
 ### ART. 19.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 21 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de organisatie, vermeld in   artikel 20 van het voormelde decreet, met ingang van 1 januari 2013 een   jaarlijkse subsidie toe van 2.880.000 euro. Maximaal 40 % van die subsidie,   vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele   personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen   ter ondersteuning van projecten.<BR>
+Voor de opdrachten die worden vermeld in artikel 21 van het decreet van 6 juli 2012 kent de minister aan de organisatie, vermeld in artikel 20 van het decreet van 6 juli 2012, een jaarlijkse subsidie toe waarvan hij het bedrag bepaalt. Maximaal 40 % van die subsidie, vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen ter ondersteuning van projecten.
 
 ### ART. 20.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 21 van het   decreet van 6 juli 2012, worden onder openbare bibliotheken zowel de   gemeentelijke bibliotheken verstaan als de speciale bibliotheken, vermeld in   artikel 22 van het decreet van 6 juli 2012.<BR>
+Voor de concrete uitvoering van de opdrachten, vermeld in artikel 21 van het decreet van 6 juli 2012, sluit de minister een overeenkomst met de organisatie.<br>
+<br>
+Met toepassing van artikel 13, 14 en artikel 21, vierde en vijfde lid, van het decreet van 6 juli 2012 dient de organisatie op basis van de overeenkomst een meerjarenplan in bij de administratie.
 
 ## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
 
@@ -116,7 +124,7 @@ Voor de uitvoering van de opdrachten, vermeld in artikel 26 van het   decreet va
 
 ### ART. 24.
 
-Voor de uitvoering van de opdrachten, vermeld in artikel 32 van het   decreet van 6 juli 2012, kent de Vlaamse Regering aan de organisatie, vermeld in   artikel 31 van het voormelde decreet, met ingang van 1 januari 2013 een   jaarlijkse subsidie toe van 1.457.000 euro. Maximaal 75 % van die subsidie,   vermeerderd met de eigen inkomsten, mag worden besteed aan de structurele   personeelskosten, uitgezonderd de personeelskosten van tijdelijke aanwervingen   ter ondersteuning van projecten.<BR>
+...
 
 ## Afdeling 5 Sectoraal overleg
 
@@ -211,6 +219,14 @@ Voor het lokaal cultuurbeleid in de grootstedelijke gebieden Antwerpen en   Gent
 ### ART. 44.
 
 <P>Om de subsidie te verkrijgen, moeten de steden Antwerpen en Gent lokale   invulling geven aan de volgende Vlaamse beleidsprioriteit.<BR></P>  <P>De stad voert een integraal lokaal cultuurbeleid, met aandacht voor alle   culturele sectoren, waarbij ze : <BR>1° vertrekt vanuit de demografische   samenstelling van de stad met het oog op de participatie van alle mogelijke   doelgroepen in de stad;<BR>2° een beleid ontwikkelt op het vlak van   cultuureducatie dat minstens inzet op levenslang leren, mediageletterdheid en de   bevordering van de culturele competentie;<BR>3° een kunstenbeleid ontwikkelt dat   inzet op het brede spectrum van amateurkunstenaars, individuele kunstenaars en   professionele kunsteninstellingen op het grondgebied.<BR></P>
+
+### ART 44/1.
+
+Voor het werkingsjaar 2016 wordt een totaalbedrag van 3.889.000 euro toegekend aan de organisaties die tot en met 30 juni 2016 gesubsidieerd werden op basis van artikel 20 en 31 van het decreet van 6 juli 2012, zoals van kracht tot en met 30 juni 2016, en aan de organisatie die vanaf 1 juli 2016 wordt opgenomen in artikel 11, § 1, van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016. De reeds uitgekeerde voorschotten aan de organisaties die tot en met 30 juni 2016 gesubsidieerd werden op basis van artikel 20 en 31 van het decreet van 6 juli 2012, zoals van kracht tot en met 30 juni 2016, worden in mindering gebracht op het totaalbedrag van de subsidie die nog verschuldigd is aan de organisatie die vanaf 1 juli 2016 wordt opgenomen in artikel 11, § 1, van het decreet van 18 december 2015 houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016.<br>
+<br>
+In afwijking van artikel 21, derde lid, van het decreet van 6 juli 2012 loopt de eerste overeenkomst van 1 juli 2016 tot en met 31 december 2018.<br>
+<br>
+Met toepassing van artikel 21, vierde en vijfde lid, van het decreet van 6 juli 2012 wordt het eerste meerjarenplan van de organisatie, vermeld in artikel 20 van het decreet van 6 juli 2012, na het sluiten van de overeenkomst ingediend bij de administratie. De looptijd van dat meerjarenplan wordt beperkt tot en met 31 december 2018.
 
 ## Hoofdstuk 8 Slotbepalingen
 
