@@ -2122,35 +2122,51 @@ De aanvragen tot erkenning van verenigingen van gebruikers en mantelzorgers waar
 
 ### ART. 1.
 
-In deze bijlage wordt verstaan onder gesco : de gesubsidieerde   contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1,   12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober   1993 tot veralgemening van het stelsel van gesubsidieerde   contractuelen.
+In deze bijlage wordt verstaan onder<br>
+1° gesco : de gesubsidieerde contractueel, tewerkgesteld krachtens een overeenkomst als vermeld in artikel 1, 12°, 14°, 15° en 36°, van het besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het stelsel van gesubsidieerde contractuelen;<br>
+2° werkingsjaar :<br>
+in hoofdstuk I/1 : de referentieperiode, vermeld in artikel 1, 3°, van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, par. 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
+In hoofdstuk II en II/1 : het kalenderjaar.
 
 ## [HOOFDSTUK I/1 (verv. BVR 8 januari 2016, art. 2, I: 1 januari 2016)] Subsidiëring van de animatiewerking
 
 ### ART. 1/1.
 
-Binnen de beschikbare begrotingskredieten kan de administrateur-generaal subsidies voor de animatiewerking toekennen aan de erkende woonzorgcentra waarin of waarbij al dan niet een erkend centrum voor kortverblijf uitgebaat wordt, die beheerd worden door een initiatiefnemer als vermeld in artikel 50 van het woonzorgdecreet van 13 maart 2009.
+Binnen de beschikbare begrotingskredieten kan de administrateur-generaal subsidies voor de animatiewerking toekennen aan de erkende woonzorgcentra waarin of waarbij al dan niet een erkend centrum voor kortverblijf uitgebaat wordt.
 
 ### ART. 2.
 
-Om voor subsidiëring in aanmerking te komen, moet een erkend woonzorgcentrum als vermeld in artikel 1, voldoen aan de volgende voorwaarden :<br />1° erkend zijn gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend;<br />2° gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend, voldoen aan de geldende personeelsnorm in de woonzorgcentra wat de animator betreft;<br />3° een jaarplan opmaken over de animatiewerking en de uitvoering ervan. Als een initiatiefnemer naast een woonzorgcentrum eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijk jaarplan. De minister kan over de vorm en de inhoud van het plan specifieke regels bepalen; <br />4° beschikken over een uitgeschreven visie met betrekking tot de animatiewerking. Die visie moet geconsolideerd worden in het beheersorgaan van de initiatiefnemer. In die visie moet bijzondere aandacht gaan naar de uitbouw van een vrijwilligerswerking, een integrale benadering van de animatie in het woonzorgcentrum en een specifiek vormingsaanbod rond animatie voor alle personeelsleden. Bovendien moet uit die visie blijken dat het woonzorgcentrum emanciperend omgaat met bewoners en familieleden, en dat het woonzorgcentrum aandacht heeft voor een integrale behoeftedetectie die de basis zal vormen voor het individuele zorg- en begeleidingsplan. Als een initiatiefnemer naast een woonzorgcentrum eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijke visie. De minister kan daar specifieke voorwaarden voor uitvaardigen.
+Om voor subsidiëring in aanmerking te komen, moet een erkend woonzorgcentrum als vermeld in artikel 1/1, voldoen aan de volgende voorwaarden :<br>
+1° erkend zijn gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend;<br>
+2° gedurende het werkingsjaar of het gedeelte ervan waarvoor de subsidies worden toegekend, voldoen aan de geldende personeelsnorm in de woonzorgcentra wat de animator betreft;<br>
+3° een jaarplan opmaken over de animatiewerking en de uitvoering ervan. Als een initiatiefnemer naast een woonzorgcentrum eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijk jaarplan. De minister kan over de vorm en de inhoud van het plan specifieke regels bepalen;<br>
+4° beschikken over een uitgeschreven visie met betrekking tot de animatiewerking. Die visie moet geconsolideerd worden in het beheersorgaan van de initiatiefnemer. In die visie moet bijzondere aandacht gaan naar de uitbouw van een vrijwilligerswerking, een integrale benadering van de animatie in het woonzorgcentrum en een specifiek vormingsaanbod rond animatie voor alle personeelsleden. Bovendien moet uit die visie blijken dat het woonzorgcentrum emanciperend omgaat met bewoners en familieleden, en dat het woonzorgcentrum aandacht heeft voor een integrale behoeftedetectie die de basis zal vormen voor het individuele zorg- en begeleidingsplan. Als een initiatiefnemer naast een woonzorgcentrum eveneens een centrum voor kortverblijf uitbaat, volstaat één gezamenlijke visie. De minister kan daar specifieke voorwaarden voor uitvaardigen.
 
 ### ART. 3.
 
-Aan een erkend woonzorgcentrum als vermeld in artikel 1, wordt jaarlijks een subsidie-enveloppe toegekend op basis van de volgende parameters :<br />1° het aantal erkende woongelegenheden op 1 januari van het desbetreffende werkingsjaar, en het aantal woongelegenheden waarvoor vóór 1 januari van dat werkingsjaar een erkenning werd aangevraagd en die uiterlijk op 1 januari van hetzelfde werkingsjaar in gebruik zullen worden genomen. De woongelegenheden van het woonzorgcentrum en de woongelegenheden van het centrum voor kortverblijf dat in of bij het woonzorgcentrum uitgebaat wordt, worden samengevoegd;<br />2° per voltijdse equivalent animator die vereist was met toepassing van de overeenstemmende personeelsnorm, geldig tot 30 juni 2003, wordt jaarlijks door de minister een forfaitair bedrag bepaald, dat afhankelijk is van de beschikbare begrotingskredieten en de kredieten die vrijkomen als gevolg van de toepassing van artikel 10. Dat forfaitaire bedrag kan niet hoger zijn dan het subsidiebedrag, vermeld in punt 3°;<br />3° per voltijdse equivalent animator die met toepassing van de overeenstemmende personeelsnorm, geldig vanaf 1 juli 2003, aanvullend vereist is ten opzichte van de overeenstemmende personeelsnorm, geldig tot 30 juni 2003, wordt een forfaitair bedrag van 30.812 euro toegekend.<br /><br />De administrateur-generaal bepaalt op basis van de gegevens, vermeld in het eerste lid, jaarlijks vóór 28 februari het maximale subsidiebedrag per woonzorgcentrum.
+Een erkend woonzorgcentrum ontvangt 2,2318 % boven op het bedrag, vastgesteld met toepassing van van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, par. 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden, als tegemoetkoming voor de animatiewerking.
 
 ### ART. 4.
 
-Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen wordt voor de subsidiëring, bezorgt de initiatiefnemer van het woonzorgcentrum, vermeld in artikel 1, aan het agentschap de bewijsvoering met betrekking tot de subsidiëringsvoorwaarden, vermeld in artikel 2, 2° tot en met 4°. De minister bepaalt de vorm en de inhoud van die bewijsvoering.
+De initiatiefnemer van het woonzorgcentrum, vermeld in artikel 1, bezorgt aan het agentschap de bewijsvoering met betrekking tot de subsidiëringsvoorwaarden vermeld in artikel 2, 2° tot en met 4°. De minister bepaalt de vorm, inhoud en organisatie van die bewijsvoering
 
 ## HOOFDSTUK II Aanvullende subsidiëring in de vorm van een DAC-supplement van de woonzorgcentra die personeelsleden tewerkstellen in een gewezen DAC-statuut
 
 ### ART. 5.
 
-Binnen de beschikbare begrotingskredieten kan de administrateur-generaal volgens de bepalingen van dit hoofdstuk aanvullende subsidies in de vorm van een DAC-supplement toekennen aan de woonzorgcentra, vermeld in artikel 1, die personeelsleden tewerkstellen met een gewezen DAC-statuut.
+Binnen de beschikbare begrotingskredieten kan de administrateur-generaal volgens de bepalingen van dit hoofdstuk aanvullende subsidies in de vorm van een DAC-supplement toekennen aan de woonzorgcentra, vermeld in artikel 1/1, die personeelsleden tewerkstellen met een gewezen DAC-statuut.
 
 ### ART. 6.
 
-§ 1. Aan de woonzorgcentra, vermeld in artikel 5, wordt jaarlijks een aanvullende subsidie-enveloppe toegekend in de vorm van een DAC-supplement. Die subsidie-enveloppe wordt als volgt berekend :<br />1° als basis geldt het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut op 1 januari van het desbetreffende werkingsjaar;<br />2° per voltijdse equivalent, vermeld in punt 1°, wordt een forfaitair bedrag van 30.812 euro toegekend;<br />3° van de aanvullende subsidie-enveloppe die op basis van punt 1° en 2° vastgesteld wordt, worden de subsidiebedragen, berekend op basis van artikel 3, in mindering gebracht;<br />4° in afwijking van punt 3° wordt het DAC-supplement herleid tot 0 euro als het subsidiebedrag, vastgesteld op basis van punten 1° en 2°, lager is dan of gelijk is aan het subsidiebedrag, berekend op basis van artikel 3.<br /><br />§ 2. De minister bepaalt jaarlijks vóór 1 mei de woonzorgcentra en, per woonzorgcentrum, het aantal voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, die in aanmerking komen voor de subsidiëring, vermeld in paragraaf 1, en het maximale aanvullende subsidiebedrag per woonzorgcentrum.
+§ 1. Aan de woonzorgcentra, vermeld in artikel 5, wordt jaarlijks een aanvullende subsidie-enveloppe toegekend in de vorm van een DAC-supplement.<br>
+<br>
+Als jaarlijkse basis voor dat DAC-supplement gelden het subsidiebedrag en het aantal voltijdsequivalenten, tewerkgesteld met een gewezen DAC-statuut, per woonzorgcentrum, zoals vastgelegd voor de periode van 1 januari 2016 tot en met 30 juni 2016, te herrekenen naar een volledig subsidiejaar.<br>
+<br>
+De subsidiebedragen per woonzorgcentrum worden proportioneel verminderd bij definitieve vermindering van de arbeidsduur als vermeld in artikel 10, § 1.<br>
+<br>
+De middelen die vrijkomen als gevolg van een vermindering als vermeld in het derde lid, worden ingezet voor de financiering van de zware zorg in de woonzorgcentra en de centra voor kortverblijf in het kader van het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
+<br>
+§ 2. De administrateur-generaal bepaalt jaarlijks het aantal voltijdsequivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, dat in aanmerking komt voor de subsidiëring, vermeld in paragraaf 1, en het maximale subsidiebedrag per woonzorgcentrum.
 
 ### ART. 7.
 
@@ -2174,21 +2190,43 @@ Vóór 1 april van het jaar dat volgt op het jaar dat in aanmerking genomen   wo
 
 ### ART. 8.
 
-Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van   het subsidiebedrag, vastgesteld met toepassing van artikelen 3, 6 en   7/2.
+Vóór 1 juli en vóór 1 november wordt een voorschot uitgekeerd van 45 % van het subsidiebedrag, vastgesteld met toepassing van artikel 6 en 7/2.
 
 ### ART. 9.
 
-§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en   gesaldeerd na goedkeuring door het agentschap van de bewijsvoering, vermeld in   artikelen 4, 7 en 7/3.<BR><BR>§ 2. Als blijkt dat het woonzorgcentrum, in   afwijking van artikel 2, 2°, gedurende het in aanmerking genomen werkingsjaar   niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, wordt   het definitieve subsidiebedrag als volgt berekend :<BR>1° als de effectieve   tewerkstelling gelijk is aan of hoger is dan 90 % van de geldende   personeelsnorm, wordt het maximale subsidiebedrag, vastgesteld op basis van   artikel 3, proportioneel verminderd;<BR>2° als de effectieve tewerkstelling   lager is dan 90 % van de geldende personeelsnorm wordt het maximale   subsidiebedrag, vastgesteld op basis van artikel 4, verminderd met 100   %.<BR><BR>§ 3. Als blijkt dat het woonzorgcentrum meer voorschotten heeft   ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het   verschil terug. Als ten tijde van de uitkering van de voorschotten, vermeld in   artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet werd   betaald, wordt dat bedrag in mindering gebracht van de uit te betalen   voorschotten.<BR><BR>§ 4. Als drie opeenvolgende werkingsjaren voorschotten   werden teruggevorderd omdat niet voldaan was aan artikel 2, 4, 7 of 7/3, worden   er geen voorschotten uitbetaald voor het werkjaar dat volgt op die drie   werkjaren.<BR><BR>§ 5. De initiatiefnemer van het woonzorgcentrum wordt op de   hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit   te betalen saldo of van de terug te vorderen voorschotten.<BR><BR>§ 6. In   afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in artikel 3,   eerste lid, 3°, en artikel 6, § 1, 2°, uitgedrukt tegen 100 % op basis van de   spilindex die van toepassing is op 1 januari 2003.
+§ 1. Het definitieve subsidiebedrag wordt berekend, toegekend en gesaldeerd na goedkeuring door het agentschap van de bewijsvoering, vermeld in artikel 7 en 7/3.<br>
+<br>
+§ 2. Als blijkt dat het woonzorgcentrum, in afwijking van artikel 2, 2°, gedurende het werkingsjaar in kwestie niet volledig voldoet aan de geldende personeelsnorm wat animatie betreft, kan de tegemoetkoming voor de animatiewerking, vermeld in artikel 3, proportioneel worden herrekend en kan het teveel aan tegemoetkoming, uitbetaald met toepassing van artikel 3, worden teruggevorderd.<br>
+<br>
+§ 3. Als blijkt dat de ouderenvoorziening, vermeld in artikel 5 en 7/1, meer voorschotten heeft ontvangen dan het definitieve subsidiebedrag, vordert het agentschap het verschil terug. Als ten tijde van de uitkering van de voorschotten, vermeld in artikel 8, het teruggevorderde bedrag van het voorgaande jaar nog niet werd betaald, wordt dat bedrag in mindering gebracht van de uit te betalen voorschotten.<br>
+<br>
+§ 4. ...<br>
+<br>
+§ 5. De initiatiefnemer van de ouderenvoorziening, vermeld in artikel 5 en 7/1, wordt op de hoogte gebracht van de berekening van het definitieve subsidiebedrag en het uit te betalen saldo of van de terug te vorderen voorschotten.<br>
+<br>
+§ 6. In afwijking van artikel 14 van het besluit volgt de subsidiëring, vermeld in artikel 3, de indexregeling, zoals van toepassing op de tegemoetkomingen, vermeld in het ministerieel besluit van 6 november 2003 tot vaststelling van het bedrag en de voorwaarden voor de toekenning van de tegemoetkoming, bedoeld in artikel 37, § 12, van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen, gecoördineerd op 14 juli 1994, in de rust- en verzorgingstehuizen en in de rustoorden voor bejaarden.<br>
+<br>
+In afwijking van artikel 14 van het besluit zijn de bedragen, vermeld in artikel 6, § 1, tweede lid, en artikel 7/2, § 1, tweede lid, van dit besluit, uitgedrukt tegen 100% op basis van de spilindex die van toepassing is op 1 januari 2016.
 
 ## HOOFDSTUK IV Overgangsbepalingen
 
 ### ART. 10.
 
-§ 1. Met toepassing van artikel 6, § 1, 1°, komen met ingang van 1 januari   2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van   het aantal nog in aanmerking te nemen voltijdse equivalenten aan   personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het   desbetreffende werkingsjaar :<BR>1° de mandatarissen die op 31 december 2002   tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de   datum van hun uitdiensttreding;<BR>2° de mandatarissen die op 31 december 2002   tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de   datum van definitieve vermindering van hun arbeidsduur ten belope van de   doorgevoerde vermindering van hun arbeidsduur.<BR><BR>§ 2. Elke definitieve   vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, moet binnen   30 kalenderdagen gemeld worden aan het agentschap. Daarbij moeten de identiteit   van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de   vermindering duidelijk vermeld worden.<BR><BR>§ 3. Met toepassing van artikel   7/2 komen met ingang van 1 januari 2016 de volgende personeelsleden niet meer in   aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse   equivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut, op   1 januari van het desbetreffende werkingsjaar :<BR>1° de mandatarissen die op 31   december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger   gescoproject, vanaf de datum van hun uitdiensttreding;<BR>2° de mandatarissen   die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger   gescoproject, vanaf de datum van definitieve vermindering van hun arbeidsduur,   ten belope van de doorgevoerde vermindering van hun arbeidsduur.<BR><BR>§ 4.   Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 3, 1° en   2°, moet binnen dertig kalenderdagen gemeld worden aan het agentschap. Daarbij   moeten de identiteit van de mandataris, de doorgevoerde vermindering en de   ingangsdatum van de vermindering duidelijk vermeld worden.
+§ 1. Met toepassing van artikel 6 komen met ingang van 1 januari 2003 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen DAC-statuut, op 1 januari van het desbetreffende werkingsjaar :<br>
+1° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de datum van hun uitdiensttreding;<br>
+2° de mandatarissen die op 31 december 2002 tewerkgesteld zijn in een arbeidsplaats van een vroeger DAC-project, vanaf de datum van definitieve vermindering van hun arbeidsduur ten belope van de doorgevoerde vermindering van hun arbeidsduur.<br>
+<br>
+§ 2. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 1, 1° en 2°, moet binnen 30 kalenderdagen gemeld worden aan het agentschap. Daarbij moeten de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld worden.<br>
+<br>
+§ 3. Met toepassing van artikel 7/2 komen met ingang van 1 januari 2016 de volgende personeelsleden niet meer in aanmerking voor het bepalen van het aantal nog in aanmerking te nemen voltijdse equivalenten aan personeelsleden, tewerkgesteld met een gewezen gescostatuut, op 1 januari van het desbetreffende werkingsjaar :<br>
+1° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van hun uitdiensttreding;<br>
+2° de mandatarissen die op 31 december 2015 tewerkgesteld zijn in een arbeidsplaats van een vroeger gescoproject, vanaf de datum van definitieve vermindering van hun arbeidsduur, ten belope van de doorgevoerde vermindering van hun arbeidsduur.<br>
+<br>
+§ 4. Elke definitieve vermindering van de arbeidsduur, vermeld in paragraaf 3, 1° en 2°, moet binnen dertig kalenderdagen gemeld worden aan het agentschap. Daarbij moeten de identiteit van de mandataris, de doorgevoerde vermindering en de ingangsdatum van de vermindering duidelijk vermeld worden.
 
 ### ART. 11.
 
-Voor de personeelsleden, tewerkgesteld in de vroegere DAC-projecten met de nummers 2776, 8436, 15003, 50110 en 70274, kan verder nog een subsidiëring verkregen worden volgens de bepalingen, opgenomen in artikel 6, § 1, 1° en 2°, en § 2, en artikel 7 tot en met 10.
+Voor de personeelsleden, tewerkgesteld in de vroegere DAC-projecten met de nummers&nbsp; 8436, 15003, 50110 en 70274, kan verder nog een subsidiëring verkregen worden volgens de bepalingen, opgenomen in artikel 6, 7, 8, 9 en 10, § 1 en § 2 tot en met 10.
 
 ### ART. 11/2.
 
@@ -2196,11 +2234,17 @@ Voor de personeelsleden, tewerkgesteld in de vroegere gescoprojecten met   de co
 
 ### ART. 12.
 
-Met toepassing van artikel 9, § 4, worden in 2010 en 2011 geen voorschotten uitbetaald aan voorzieningen die niet voldeden aan artikelen 2, 4 of 7 in de drie voorgaande werkingsjaren.
+...
 
 ### ART. 13.
 
-De subsidiedossiers met betrekking tot het werkingsjaar 2009 en de voorgaande jaren worden verder afgehandeld volgens de bepalingen van het besluit van de Vlaamse Regering van 4 april 2003 houdende de subsidiëring van de animatiewerking in de erkende rusthuizen en de erkende centra voor kortverblijf.
+De subsidiedossiers met betrekking tot het werkingsjaar 2009 en de voorgaande jaren worden verder afgehandeld volgens de bepalingen van het besluit van de Vlaamse Regering van 4 april 2003 houdende de subsidiëring van de animatiewerking in de erkende rusthuizen en de erkende centra voor kortverblijf.<br>
+<br>
+De subsidiedossiers met betrekking tot de werkingsjaren 2010 tot en met 2015 en het eerste semester van 2016 worden verder afgehandeld volgens de bepalingen van dit besluit, zoals van toepassing tot en met 30 juni 2016.
+
+### ART 13/1.
+
+In afwijking van artikel 6, § 1, tweede lid, is voor de periode van 1 juli 2016 tot en met 31 december 2016 geen herrekening voor een volledig subsidiejaar vereist.
 
 ## [BIJLAGE XV Dagverzorgingscentra voor palliatieve verzorging (ing. BVR 28 september 2012, art. 8)]
 
