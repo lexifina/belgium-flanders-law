@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027475,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van artikel 2bis van het besluit van de Vlaamse Regering van 4 juni 2004 inzake sommige werkingsregelingen betreffende de raad voor betwistingen inzake studievoortgangsbeslissingen bevoegd voor het hoger onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027475/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "d5fed9421173fb603d4149ba0c6617b06c8b06c0d02f8084b00d43b8a489e558",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027475&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2016-09-09",
+  "gazette": "2016-10-13",
+  "numac": 2016036454,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
