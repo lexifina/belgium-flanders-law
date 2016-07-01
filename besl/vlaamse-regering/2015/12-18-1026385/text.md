@@ -82,7 +82,19 @@ Artikel   11ter van hetzelfde koninklijke besluit, ingevoegd bij het koninklijk 
 
 In   artikel 12 van hetzelfde koninklijk besluit, ingevoegd bij het koninklijk   besluit van 14 juli 2004 en gewijzigd bij de koninklijke besluiten van 5 maart   2006 en 12 juli 2009, worden de volgende wijzigingen aangebracht :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">1°   de woorden "De RVA" worden telkens vervangen door de woorden "Het   departement";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">2°   in het tweede lid worden de woorden "de kwartaalaangifte bij de voor de inning   van de sociale zekerheidsbijdragen bevoegde instelling" vervangen door de   woorden "de raadpleging van administratieve databanken";<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">3°   het derde lid wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART. 20.
+
+&nbsp;In artikel 13 van hetzelfde koninklijk   besluit, vernummerd bij het koninklijk besluit van 14 juli 2004, wordt het   tweede lid opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 2 Wijzigingen aan het koninklijk besluit van 7 juni 2007 betreffende het opleidingsfonds dienstencheques
+
+### ART. 21.
+
+&nbsp;In artikel 1 van het koninklijk besluit   van 7 juni 2007 betreffende het opleidingsfonds dienstencheques, gewijzigd bij   het besluit van de Vlaamse Regering van 6 maart 2015, wordt punt 3°   opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 22.
+
+&nbsp;Artikel 6quater van hetzelfde   koninklijk besluit, ingevoegd bij het koninklijk besluit van 10 oktober 2013,   wordt opgeheven.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
 ### ART. 23.
 
