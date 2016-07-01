@@ -945,7 +945,7 @@ De Vlaamse Regering bepaalt de voorwaarden en de procedure, met inbegrip   van e
 
 ### ART. 115/5.
 
-Ongeacht van de al dan niet betwisting door de betrokken personen van een eindbeslissing wordt het schoolbestuur steeds het recht voorbehouden desbetreffende klassenraad opnieuw te doen samenkomen, ten einde een door het schoolbestuur zelf omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren hetzij uiterlijk op 15 september van het daaropvolgend schooljaar, hetzij uiterlijk op 15 maart van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se en genomen werd op 31 januari dan wel, bij uitstel, uiterlijk op 1 maart van dat schooljaar. In het geval de alsdan genomen beslissing afwijkt van de omstreden beslissing, wordt ze schriftelijk en gemotiveerd, onmiddellijk aan de betrokken personen meegedeeld.
+Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren hetzij uiterlijk op 15 september van het daaropvolgend schooljaar, hetzij uiterlijk op 15 maart van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se die eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld.
 
 ### ART. 115/6.
 
@@ -1091,16 +1091,16 @@ In afwijking van het tweede lid, kan het centrum voor deeltijds beroepssecundair
 ### ART. 123/11.
 
 § 1. De mogelijke tuchtmaatregelen in de leertijd zijn:<br>
-1° de tijdelijke uitsluiting uit het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen: waarbij de leerling het recht wordt ontnomen om in de loop van het schooljaar gedurende een periode van minimaal één kalenderdag en maximaal eenentwintig opeenvolgende kalenderdagen het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum. Een nieuwe tijdelijke uitsluiting kan enkel na een nieuw feit;<br>
-2° de definitieve uitsluiting uit het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen: waarbij de leerling het recht wordt ontnomen om vanaf een bepaalde datum het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum;<br>
-3° de uitsluiting uit de leertijd: waarbij de leerling het recht wordt ontnomen om, met het oog op de praktijkopleiding, een erkende leerovereenkomst te behouden of te sluiten en om de bijbehorende theoretische vorming te volgen.<br>
+1° de tijdelijke uitsluiting uit het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen: waarbij de leerling het recht wordt ontnomen om in de loop van het schooljaar gedurende een periode van minimaal één kalenderdag en maximaal eenentwintig opeenvolgende kalenderdagen het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum. Een nieuwe tijdelijke uitsluiting kan enkel na een nieuw feit; Tijdelijke uitsluiting houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.<br>
+2° de definitieve uitsluiting uit het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen: waarbij de leerling het recht wordt ontnomen om vanaf een bepaalde datum het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum; Definitieve uitsluiting houdt tevens in dat in voorkomend geval van rechtswege en van zodra blijkt dat ofwel geen ontvankelijk beroep is ingesteld ofwel de uitsluiting in beroep wordt bevestigd, een einde wordt gesteld aan elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd. Definitieve uitsluiting waarvoor een ontvankelijk beroep loopt, houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.<br>
+3° ....<br>
 <br>
-§ 2. In afwachting van een eventuele tijdelijke of definitieve uitsluiting, kan de leerling preventief worden geschorst. Bij preventieve schorsing wordt de leerling het recht ontnomen om in de loop van het schooljaar gedurende een periode van maximaal veertien opeenvolgende kalenderdagen het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum. Het centrumbestuur kan, mits motivering aan de betrokken personen, beslissen om desbetreffende periode eenmalig met maximaal veertien opeenvolgende kalenderdagen te verlengen indien door externe factoren het tuchtonderzoek niet binnen die eerste periode kan worden afgerond. De schorsing kan onmiddellijk uitwerking hebben en wordt aan de betrokken personen ter kennis gebracht.<br>
+§ 2. In afwachting van een eventuele tijdelijke of definitieve uitsluiting, kan de leerling preventief worden geschorst. Bij preventieve schorsing wordt de leerling het recht ontnomen om in de loop van het schooljaar gedurende een periode van maximaal veertien opeenvolgende kalenderdagen het geheel van de theoretische vorming werkelijk en regelmatig te volgen in een bepaalde vestigingsplaats van het centrum. Het centrumbestuur kan, mits motivering aan de betrokken personen, beslissen om desbetreffende periode eenmalig met maximaal veertien opeenvolgende kalenderdagen te verlengen indien door externe factoren het tuchtonderzoek niet binnen die eerste periode kan worden afgerond. De schorsing kan onmiddellijk uitwerking hebben en wordt aan de betrokken personen ter kennis gebracht. Preventieve schorsing houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.<br>
 <br>
 § 3. In de leertijd ligt de bevoegdheid tot:<br>
 1° preventieve schorsing: bij de directeur-afgevaardigd bestuurder of zijn afgevaardigde;<br>
 2° tijdelijke of definitieve uitsluiting uit het centrum voor vorming van zelfstandigen en kleine en middelgrote ondernemingen: bij de directeur-afgevaardigd bestuurder of zijn afgevaardigde, na overleg met de leertrajectbegeleider van de leerling als vermeld in artikel 39 en 40 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen, zoals gewijzigd bij het decreet van 20 april 2012;<br>
-3° uitsluiting uit de leertijd: bij de praktijkcommissie als vermeld in artikel 13 tot en met 18 van hetzelfde decreet van 7 mei 2004, gewijzigd bij het decreet van 20 april 2012.
+3° ....
 
 ## [HOOFDSTUK 8. Beroepsmogelijkheden (ing. decr. 4 april 2014, art. V.19, I: 1 september 2014)]
 
@@ -1163,7 +1163,7 @@ In de leertijd bepaalt Syntra Vlaanderen de werking, met inbegrip van de stempro
 
 ### ART. 123/14.
 
-Tegen de uitsluiting uit de leertijd kan beroep worden ingediend bij de praktijkcommissie vermeld in artikel 13 tot en met 18 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", zoals gewijzigd bij het decreet van 20 april 2012. De Vlaamse Regering legt de beroepsprocedure vast.
+...
 
 ## [Afdeling 3. Beroep tegen een evaluatiebeslissing (ing. decr. 4 april 2014, art. V.25, I: 1 september 2014)]
 
@@ -1173,7 +1173,7 @@ Tegen de uitsluiting uit de leertijd kan beroep worden ingediend bij de praktijk
 <br>
 In het secundair onderwijs hebben de betrokken personen slechts verhaalmogelijkheid na een overleg als vermeld in artikel 115/6, § 4.<br>
 <br>
-In de leertijd nemen de betrokken personen een evaluatiebeslissing in ontvangst op een in het centrumreglement vastgelegde datum en wijze. Bij het niet in ontvangst nemen door de betrokken personen wordt de beslissing geacht te zijn ontvangen op de voorziene ontvangstdatum. Slechts na een overleg met Syntra Vlaanderen op vraag van de betrokken personen en binnen een redelijke termijn na ontvangst van een beslissing over de algemene vorming, hebben die betrokken personen verhaalmogelijkheid tegen de beslissing. Die termijn wordt in het centrumreglement bepaald. Van het overleg wordt een schriftelijke neerslag gemaakt. Na het overleg wordt het oorspronkelijk evaluatieresultaat bevestigd of door een ander evaluatieresultaat vervangen.<br>
+In de leertijd nemen de betrokken personen een evaluatiebeslissing in ontvangst op een in het centrumreglement vastgelegde datum en wijze. Bij het niet in ontvangst nemen door de betrokken personen wordt de beslissing geacht te zijn ontvangen op de voorziene ontvangstdatum. Slechts na een overleg met Syntra Vlaanderen op vraag van de betrokken personen en binnen een redelijke termijn na ontvangst van een beslissing, hebben die betrokken personen verhaalmogelijkheid tegen de beslissing. Die termijn wordt in het centrumreglement bepaald. Van het overleg wordt een schriftelijke neerslag gemaakt. Na het overleg wordt het oorspronkelijk evaluatieresultaat bevestigd of door een ander evaluatieresultaat vervangen.<br>
 <br>
 § 2. De betrokken personen stellen het beroep in bij het school- of centrumbestuur door middel van een gedateerd en ondertekend verzoekschrift, dat ten minste het voorwerp van beroep met feitelijke omschrijving en motivering van de ingeroepen bezwaren vermeldt. Bij deze omschrijving kunnen overtuigingsstukken gevoegd worden.<br>
 <br>
@@ -1187,13 +1187,13 @@ b) het beroep niet voldoet aan de vormvereisten opgenomen in het school- of cent
 
 ### ART. 123/16.
 
-Tegen een evaluatiebeslissing over de beroepsgerichte vorming in de leertijd die door de betrokken personen wordt betwist, kan beroep worden ingediend bij de praktijkcommissie vermeld in artikel 13 tot en met 18 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen", zoals gewijzigd bij het decreet van 20 april 2012. De Vlaamse Regering legt de beroepsprocedure vast.
+...
 
 ### ART. 123/17.
 
 § 1. In het secundair onderwijs wordt een beroepscommissie ingesteld door een school- of centrumbestuur.<br>
 <br>
-In de leertijd wordt een beroepscommissie ingesteld door Syntra Vlaanderen indien het een evaluatiebeslissing over de algemene vorming betreft.<br>
+In de leertijd wordt een beroepscommissie ingesteld door Syntra Vlaanderen.<br>
 <br>
 § 2. In het secundair onderwijs bepaalt het school- of centrumbestuur de samenstelling van een beroepscommissie, met inachtneming van volgende bepalingen:<br>
 1° de samenstelling kan per te behandelen dossier verschillen, doch kan binnen het te behandelen dossier niet wijzigen;<br>
