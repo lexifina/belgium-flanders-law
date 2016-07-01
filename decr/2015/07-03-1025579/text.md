@@ -226,7 +226,8 @@ Artikel   14.1.2 van hetzelfde decreet wordt vervangen door wat volgt :<BR   sty
 
 <p>§ 3. Het fonds wordt gespijsd door de volgende ontvangsten :<br>
 1° de bijdragen van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen zoals opgenomen in artikel 1, § 1, derde lid, van de wet van 21 juni 1985 betreffende de technische eisen waaraan elk voertuig voor vervoer te land, de onderdelen ervan, evenals het veiligheidstoebehoren moeten voldoen, in de mate dat deze jaarlijkse ontvangsten het bedrag van 5.539.000 euro overschrijden;<br>
-2° de jaarlijkse ontvangsten vanaf 2016 uit de onmiddellijke inningen, de minnelijke schikkingen en de strafrechtelijke boeten die verband houden met de inbreuken op de reglementering inzake verkeersveiligheid, die krachtens artikel 6, § 1, XII, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen tot de bevoegdheid van het Vlaamse Gewest behoort, in de mate dat deze jaarlijkse ontvangsten het bedrag van 143.314.000 euro overschrijden.</p>
+2° de jaarlijkse ontvangsten vanaf 2016 uit de onmiddellijke inningen, de minnelijke schikkingen en de strafrechtelijke boeten die verband houden met de inbreuken op de reglementering inzake verkeersveiligheid, die krachtens artikel 6, § 1, XII, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen tot de bevoegdheid van het Vlaamse Gewest behoort, in de mate dat deze jaarlijkse ontvangsten het bedrag van 143.314.000 euro overschrijden;<br>
+4° de middelen voortvloeiend uit de activa van het Fonds voor Voorziening en van Openbaar Nut voor de Inspectie van Automobielen, afgekort FIA, vereniging zonder winstoogmerk, opgericht op 7 juli 1970.</p>
 
 <p>§ 4. Het fonds wordt aangewend ter financiering van uitgaven voor werking, subsidies en investeringen ten bate van verkeersveiligheid.</p>
 
