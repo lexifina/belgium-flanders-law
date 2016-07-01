@@ -2,7 +2,17 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART. 1.
+
+Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
+
 ## HOOFDSTUK 2. Wijzigingsbepalingen
+
+### ART. 2.
+
+<p>In artikel 2 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding », gewijzigd bij het decreet van 21 november 2008, wordt punt 3° vervangen door wat volgt :</p>
+
+<p>« 3° universele dienstverlening : het geheel van basisdiensten en -voorzieningen inzake werk, opleiding en loopbaanontwikkeling, die gratis door de VDAB worden gewaarborgd. Die basisdiensten en -voorzieningen omvatten voor werkzoekenden ten minste de inschrijving en herinschrijving, de bekendmaking van vacatures, het verstrekken van informatie over werk, opleiding en loopbaanontwikkeling, de beroepskeuzevoorlichting, de beroepsvoorkeur-, geschiktheids- en kennistesten, de kosteloze arbeidsbemiddeling, de trajectbepaling en de trajectverwijzing, en voor de werkgevers, de registratie van vacatures, de steun bij de omschrijving van vacatures, het verstrekken van informatie over werk en opleiding, de toeleiding van werkzoekenden en het accountmanagement, en voor elk individu het aanbod van een elektronisch platform waarop elk individu informatie over zijn competenties kan beheren in functie van de loopbaan en perspectieven op de arbeidsmarkt. De Vlaamse Regering bepaalt de nadere inhoud van de universele dienstverlening; ».</p>
 
 ### ART. 3.
 
@@ -14,4 +24,98 @@
 
 ## HOOFDSTUK 3. Bepalingen over het elektronische platform
 
+### ART. 5.
+
+<p>In hoofdstuk VI van hetzelfde decreet wordt een afdeling 3 ingevoegd, die luidt als volgt :</p>
+
+<p>« Afdeling 3. - Bepalingen over het elektronische platform »</p>
+
+### ART. 6.
+
+<p>In hetzelfde decreet wordt in afdeling 3, ingevoegd bij artikel 5, een artikel 22/1 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/1. Voor de toepassing van deze afdeling wordt verstaan onder individu : elke persoon die zich op, naar en van de arbeidsmarkt wil bewegen. ».</p>
+
+### ART. 7.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3, ingevoegd bij artikel 5, een artikel 22/2 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/2. In het kader van zijn taken van universele dienstverlening beheert de VDAB een elektronisch platform waarop elk individu relevante gegevens over zijn opleidingen, ervaringen, competenties, aspiraties, interesses en loopbaan in een persoonlijk bestand kan verwerken en van daaruit nieuwe ontwikkelings- en loopbaanacties kan ondernemen en de resultaten ervan opslaan.</p>
+
+<p>Elk individu heeft de keuze om al dan niet een persoonlijk bestand op het elektronische platform aan te leggen.</p>
+
+<p>Dienstverleners, met inbegrip van de VDAB, kunnen om bepaalde diensten inzake arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling te verstrekken, de betrokkene opleggen om een persoonlijk bestand aan te maken. De betrokkene kan in dat geval het aangemaakte bestand laten verwijderen zodra het voor de dienstverstrekking niet meer nodig is.</p>
+
+<p>In het derde lid wordt onder dienstverleners verstaan : alle publieke of private organisaties of personen die activiteiten aanbieden op het vlak van beroepskeuzevoorlichting, competentieontwikkeling, trajectbegeleiding, loopbaanbegeleiding, arbeidsbemiddeling of erkenning van verworven competenties. ».</p>
+
+### ART. 8.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/3 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/3. Het elektronische platform heeft in het bijzonder tot doel :<br>
+1° elk individu te helpen bij het verwerven van inzicht in de loopbaan als basis van zelfsturing;<br>
+2° elk individu ondersteuning te bieden bij de competentieontwikkeling in functie van de loopbaan;<br>
+3° herkenning en erkenning van competenties door werkgevers en overheden te bevorderen in functie van de loopbaan en perspectieven op de arbeidsmarkt;<br>
+4° ondersteuning te bieden aan de VDAB bij de uitvoering van zijn taken van universele dienstverlening.</p>
+
+<p>Elke werkzoekende heeft ook recht op een basisdossier, waarin de VDAB de gegevens die relevant zijn voor de dienstverlening, uit het persoonlijke bestand kan overnemen. De Vlaamse Regering bepaalt welke gegevens uit het persoonlijk bestand in het basisdossier overgenomen worden. ».</p>
+
+### ART. 9.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/4 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/4. De volgende gegevens worden opgenomen in het persoonlijke bestand :<br>
+1° gevalideerde gegevens zoals identificatie- en contactgegevens, diploma's, ervaringsbewijzen, certificaten, testresultaten, competentiebalansen, beroepsverleden;<br>
+2° niet-gevalideerde gegevens, zoals beoordelingen, aanbevelingen en verslagen;<br>
+3° alle mogelijke gegevens die door de betrokkene zelf worden ingevoerd en die deel uitmaken van het curriculum vitae of die relevant zijn voor de loopbaan. ».</p>
+
+### ART. 10.
+
+<p>&nbsp;In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/5 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/5. In het persoonlijke bestand op het elektronische platform kunnen gegevens opgenomen worden door :<br>
+1° het individu zelf;<br>
+2° de VDAB of derden waarmee de VDAB een overeenkomst heeft gesloten voor zover die gegevens betrekking hebben op arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling.</p>
+
+<p>Zodra het individu een persoonlijk bestand aanlegt, voert de VDAB daarin een beperkte reeks van gevalideerde gegevens in, waaronder inzonderheid :<br>
+1° relevante identificatiegegevens, vermeld in artikel 3 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van natuurlijke personen en de registers van de Kruispuntbank van de Sociale Zekerheid;<br>
+2° gegevens over erkende kwalificaties in de zin van artikel 2, 8°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br>
+3° gegevens over de aanvang en het einde, de naam van de werkgever, de functie en de activiteitssector van elke periode van tewerkstelling waarvoor aangifte werd gedaan in het kader van de sociale zekerheid voor werknemers of zelfstandigen. ».</p>
+
+### ART. 11.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/6 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/6. Gegevens worden in het persoonlijke bestand opgenomen door de betrokkene zelf of door overdracht van of verwijzing naar de gegevens bij de instantie die de gegevens oorspronkelijk bij de betrokkene heeft verzameld.</p>
+
+<p>Als de gegevens al door een instantie werden verzameld, kunnen ze niet opnieuw bij de betrokkene worden opgevraagd. ».</p>
+
+### ART. 12.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/7 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/7. Het persoonlijke bestand is alleen toegankelijk :<br>
+1° voor het individu op wie het bestand betrekking heeft;<br>
+2° onder bij besluit van de Vlaamse Regering bepaalde voorwaarden voor de VDAB in het kader van zijn universele dienstverlening;<br>
+3° onder bij besluit van de Vlaamse Regering bepaalde voorwaarden voor de VDAB of voor derden die op verzoek van het individu een dienst leveren op het vlak van arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling;<br>
+4° voor de VDAB als de toegang noodzakelijk is voor het beheer van het elektronische platform.</p>
+
+<p>De Vlaamse Regering bepaalt de nadere voorwaarden voor de toegang en het gebruik van het persoonlijke bestand. ».</p>
+
+### ART. 13.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/8 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/8. De VDAB neemt als verantwoordelijke voor de verwerking de nodige maatregelen voor een correcte toepassing van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens door hemzelf, door derden en door het betrokken individu. ».</p>
+
+### ART. 14.
+
+<p>In hetzelfde decreet wordt in dezelfde afdeling 3 een artikel 22/9 ingevoegd, dat luidt als volgt :</p>
+
+<p>« Art. 22/9. De VDAB neemt de nodige maatregelen om een scheiding te waarborgen tussen de toegang en het gebruik van het persoonlijke bestand door zijn aangestelden, in het kader van zijn dienstverlening op het vlak van trajectbegeleiding, loopbaanbegeleiding en competentieontwikkeling enerzijds en bij zijn universele dienstverlening en als beheerder van het elektronische platform anderzijds. ».</p>
+
 ## HOOFDSTUK 4. Inwerkingtreding
+
+### ART. 15.
+
+Dit decreet treedt in werking op een door de Vlaamse Regering vast te stellen datum, met uitzondering van artikel 3 en 4 die in werking treden op de dag die volgt op de bekendmaking ervan in het Belgisch Staatsblad.
