@@ -2,64 +2,64 @@
 
 ### Aanhef
 
-De Vlaamse Regering,<br /><br />Gelet op Verordening (EG) nr. 2204/2002 van de Commissie van 12 december 2002 betreffende de toepassing van de artikelen 87 en 88 van het EG-verdrag op de werkgelegenheidssteun;<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, inzonderheid op artikel 5;<br /><br />Gelet op het akkoord van de Vlaamse minister, bevoegd voor de Begroting, gegeven op 9 maart 2006;<br /><br />Gelet op het advies van het beheerscomité van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, gegeven op 9 maart 2006;<br /><br />Gelet op het advies van de Raad van State, gegeven op 13 april 2006, met toepassing van artikel 84, § 1, eerste lid, 1°, van de gecoördineerde wetten op de Raad van State;<br /><br />Op voorstel van de Vlaamse minister van Werk, Onderwijs en Vorming;<br /><br />Na beraadslaging,<br /><br />Besluit : <br />
+...
 
 ## HOOFDSTUK I Definities
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder :<BR>1°.de   minister : de Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid;<BR>2°   VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<BR>3°   niet-werkende werkzoekende : een werkzoekende ouder dan vijftig jaar die geen   betaalde beroepsarbeid verricht;<BR>4° aangeworvene : een niet-werkende   werkzoekende die na 1 april 2006 in dienst treedt met een arbeidsovereenkomst   van onbepaalde duur bij een onderneming en die daarmee het recht op de   tewerkstellingspremie voor de onderneming opent;<BR>5° onderneming : de   natuurlijke personen die koopman zijn of een zelfstandig beroep uitoefenen,   handelsvennootschappen met rechtspersoonlijkheid, verenigingen zonder   winstoogmerk met rechtspersoonlijkheid, de Europese economische   samenwerkingsverbanden en de economische samenwerkingsverbanden, die beschikken   over een exploitatiezetel in het Vlaamse Gewest of zich ertoe verbinden in het   Vlaamse Gewest een exploitatiezetel te vestigen binnen de 5 kwartalen te rekenen   vanaf de indiensttreding van de aangeworvene;<BR>6° loonkosten: de volgende   bestanddelen die daadwerkelijk door de onderneming moeten worden betaald met   betrekking tot de bezoldiging van de aangeworvene:<BR>a)het loon, vermeld in   artikel 14 van de wet van 27 juni 1969 tot herziening van de besluitwet van 28   december 1944 betreffende de maatschappelijke zekerheid der arbeiders en zoals   als dusdanig gekwalificeerd door de Rijksdienst voor Sociale Zekerheid;<BR>b)   alle verplichte werkgeversbijdragen als vermeld in artikel 38, § 3 en § 3bis,   van de wet van 29 juni 1981 houdende de algemene beginselen van de sociale   zekerheid voor werknemers.<BR>De loonkosten worden verminderd met:<BR>a) de   verminderingen van sociale zekerheidsbijdragen ten voordele van de werkgever, en   meer in het bijzonder die vermeld in hoofdstuk 7 van titel IV van de   programmawet van 24 december 2002;<BR>b) andere vergoedingen, dan de   verminderingen van sociale zekerheidsbijdragen vermeld in punt a);<BR>7°   vergoedingen: financiële tegemoetkomingen vanuit de overheid waarmee al dan niet   uitsluitend de loonkosten van de onderneming worden gefinancierd; <BR>8° de   verordening: de verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014   waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het   verdrag met de interne markt verenigbaar worden verklaard.
+...
 
 ## HOOFDSTUK II Toepassingsgebied
 
 ### ART. 2.
 
-Dit besluit is van toepassing op de ondernemingen die onder het   toepassingsgebied vallen van de wet van 5 december 1968 betreffende de   collectieve arbeidsovereenkomsten en de paritaire comités.<BR><BR>Dit besluit is   niet van toepassing op ondernemingen als vermeld in het eerste lid binnen de   steenkoolsector en de scheepsbouw, overeenkomstig artikel 1 van de   Verordening.<BR><BR>Dit besluit is niet van toepassing op ondernemingen waarvan   de loonkosten, gedurende het jaar dat voorafgaat aan de aanvraag van de   tewerkstellingspremie, voor meer dan vijftig procent gefinancierd worden met   vergoedingen.
+...
 
 ## HOOFDSTUK III Toekenningsvoorwaarden
 
 ### ART. 3.
 
-De tewerkstellingspremie kan alleen worden toegekend binnen de perken van   de daartoe vastgestelde begrotingskredieten.<BR><BR>Deze premie is vrijgesteld   van de aanmeldingsverplichting als vermeld in artikel 108, lid 3, van het   verdrag betreffende de werking van de Europese Unie, krachtens de bepalingen van   artikel 3 van de verordening.<BR><BR>
+...
 
 ### ART. 4.
 
-Aan de onderneming die een niet-werkende werkzoekende aanwerft als vermeld   in artikel 5, § 2, kan een tewerkstellingspremie worden toegekend als de   onderneming de volgende voorwaarden vervult: <BR>1° de onderneming dient een   aanvraag voor de tewerkstellingspremie in bij de VDAB conform de voorwaarden,   vermeld in artikel 6;<BR>2° de onderneming mag geen werknemers ontslaan met de   uitsluitende bedoeling ze te vervangen door één of meer niet-werkende   werkzoekenden die recht geven op de tewerkstellingspremie;<BR>3° de loonkosten   van de aangeworvene mag in de zes maanden die aan de indiensttreding voorafgaan,   bij dezelfde of een andere onderneming van de technische bedrijfseenheid,vermeld   in artikel 14 van de wet van 20 september 1948 houdende de organisatie van het   bedrijfsleven, waartoe de onderneming behoort, niet meer bedragen dan het bedrag   dat jaarlijks wordt vastgelegd door de Vlaamse minister bevoegd voor het   tewerkstellingsbeleid op voorstel of na raadpleging van de raad van bestuur van   de VDAB;<BR>4° de aangeworvene wordt aangeworven met een arbeidsovereenkomst van   onbepaalde duur;<BR>5° de aangeworvene wordt minstens voor de periode waarvoor   een tewerkstellingspremie kan worden toegekend, tewerkgesteld bij de   onderneming; <BR>6° de geldende loons- en arbeidsvoorwaarden worden   nageleefd.<BR>
+...
 
 ### ART. 5.
 
-<P>§ 1. De tewerkstellingspremie wordt verleend ter compensatie van de   loonkosten van de aangeworvene. De loonkosten worden beperkt tot het dubbele van   het gemiddeld gewaarborgd minimum maandinkomen, vermeld in artikel 3, eerste lid   van de collectieve arbeidsovereenkomst nr. 43, gesloten op 2 mei 1988 in de   Nationale Arbeidsraad houdende wijziging en coördinatie van de collectieve   arbeidsovereenkomst nr. 21 van 15 mei 1975 en nr. 23 van 25 juli 1975   betreffende de waarborg van een gemiddeld minimum maandinkomen.<BR><BR>§ 2. De   tewerkstellingspremie bedraagt voor de indiensttredingen vanaf 1 januari   2015:<BR>1° voor de niet-werkende werkzoekende vanaf 50 tot en met 54 jaar oud   die op het ogenblik van de indiensttreding meer dan een jaar maar minder dan   twee jaar als zodanig bij de VDAB is ingeschreven: 50 % van de loonkosten   gedurende vier opeenvolgende kwartalen;<BR>2° voor de niet-werkende werkzoekende   vanaf 55 jaar oud die op het ogenblik van de indiensttreding minder dan twee   jaar als zodanig bij de VDAB is ingeschreven: 50 % van de loonkosten gedurende   vier opeenvolgende kwartalen;<BR>3° voor de niet-werkende werkzoekende ouder dan   50 jaar die op het ogenblik van de indiensttreding meer dan twee jaar als   zodanig bij de VDAB is ingeschreven: 50 % van de loonkosten gedurende acht   opeenvolgende kwartalen.<BR><BR>Voor de berekening van de periode die recht   geeft op de tewerkstellingspremie geldt de termijn vanaf de inschrijving als   niet-werkende werkzoekende. Die termijn mag niet langer dan drie maanden   onderbroken worden door een of meer uitschrijvingen, gerekend van datum tot   datum.<BR><BR>§ 3. De tewerkstellingspremie vermeld in paragraaf 2, eerste lid,   4° wordt beperkt tot de tewerkstellingspremie, vermeld in paragraaf 2, eerste   lid, 2° of 3°, als de arbeidsovereenkomst tussen het vierde en het negende   kwartaal na de indiensttreding van de aangeworvene door de werkgever wordt   beëindigd, tenzij wegens dringende reden die de aangeworvene ten laste wordt   gelegd of wegens overmacht.<BR><BR>§ 4. De tewerkstellingspremie wordt toegekend   vanaf het kwartaal dat volgt op het kwartaal van indiensttreding van de   aangeworvene.<BR><BR>De tewerkstellingspremie wordt alleen toegekend:<BR>1° voor   de periodes waarvoor de onderneming loon verschuldigd is en uitbetaald   heeft;<BR>2° als de loonkosten minstens 1.000 euro per kwartaal   bedragen.<BR><BR>§ 5. De tewerkstellingspremie is cumuleerbaar met andere   steunmaatregelen overeenkomstig de bepalingen van artikel&nbsp;8 van de   verordening, voor zover dergelijke cumulatie er niet toe leidt dat daarmee de   hoogste steunintensiteit of het hoogste steunbedrag dat krachtens de   toepasselijke regelgeving voor die steun geldt, wordt overschreden. Als de   hoogste steunintensiteit of het hoogste steunbedrag zou worden overschreden,   worden de buiten dit besluit verworven vergoedingen in mindering gebracht van de   tewerkstellingspremie.<BR><BR>De tewerkstellingspremie is niet cumuleerbaar   met:<BR>1° dienstencheques, wat betreft de erkende onderneming, vermeld in   artikel 2, § 1, 6°, van de wet van 20 juli 2001 tot bevordering van   buurtdiensten en -banen;<BR>2° de premie, vermeld in artikel 11 van het besluit   van de Vlaamse Regering van 10 juli 2008 betreffende werkervaring;<BR>3° de   vergoeding voor het inschakelingstraject van de doelgroepwerknemer, vermeld in   artikel 25 van het decreet van 22 november 2013 betreffende de lokale   diensteneconomie;<BR>4° de loonpremie voor de doelgroepwerknemer, vermeld in   artikel 12 van het decreet van 12 juli 2013 betreffende maatwerk bij collectieve   inschakeling;<BR>5° de premie, vermeld in het besluit van de Vlaamse Regering   van 27 oktober 1993 houdende uitvoering van het koninklijk besluit nr. 474 van   28 oktober 1986 tot opzetting van een stelsel van door de Staat gesubsidieerde   contractuelen bij sommige plaatselijke besturen;<BR>6° de premie, vermeld in het   besluit van de Vlaamse Regering van 27 oktober 1993 tot veralgemening van het   stelsel van gesubsidieerde contractuelen;<BR>7° de tussenkomst, vermeld in   hoofdstuk III van het koninklijk besluit nr. 25 van 24 maart 1982 tot opzetting   van een programma ter bevordering van de werkgelegenheid in de niet-commerciële   sector.<BR>8° het loon van de personen die zijn tewerkgesteld met toepassing van   artikel 60, § 7, en artikel 61 van de organieke wet van 8 juli 1976 betreffende   de openbare centra voor maatschappelijk welzijn;<BR>9° de loonpremie voor de   invoegwerknemers, vermeld in artikel 11 van het besluit van de Vlaamse Regering   van 15 juli 2005 betreffende de erkenning en financiering van de   invoegbedrijven. </P>
+...
 
 ## HOOFDSTUK IV Aanvraag- en betalingsvoorwaarden
 
 ### ART. 6.
 
-Om geldig te zijn moet de onderneming of aangestelde de aanvraag tot het   verkrijgen van de tewerkstellingspremie binnen de drie maanden na de   indiensttreding indienen bij de VDAB. De onderneming of aangesteldemaakt   daarbijgebruik van het digitale aanvraagformulier dat de VDAB ter beschikking   stelt op de VDAB-website.
+...
 
 ### ART. 7.
 
-De tewerkstellingspremies worden aan de onderneming gestort door de VDAB.<br /><br />
+...
 
 ## HOOFDSTUK V Controle en sancties
 
 ### ART. 8.
 
-§ 1. De onderneming verstrekt aan de VDAB op het eerste verzoek alle nodige documenten of inlichtingen om de naleving van de toekenningsvoorwaarden te controleren.<br /><br />De onderneming die overeenkomstig artikel 6 een aanvraag heeft ingediend, moet bij de VDAB binnen een maand aangifte doen van elke wijzigende gebeurtenis die een beletsel vormt voor de toekenning van de tewerkstellingspremie.<br /><br />§ 2. De sociaalrechtelijke inspecteurs van de entiteit Inspectie van het Departement Werk en Sociale Economie zijn gerechtigd om ter plaatse controle uit te oefenen op de aanwending van de toegekende premies en op de naleving van de bepalingen van dit besluit.<br /><br />
+...
 
 ### ART. 9.
 
-De VDAB schorst de betaling van de tewerkstellingspremie en vordert   uitbetaalde premies terug als blijkt:<BR>1° uit nauwkeurige en overeenstemmende   vermoedens dat de onderneming een of meer werknemers heeft ontslagen met de   uitsluitende bedoeling ze te vervangen door één of meer niet-werkende   werkzoekenden die recht geven op de tewerkstellingspremie;<BR>2° dat de   onderneming de in dit besluit vermelde voorwaarden niet nageleefd   heeft.<BR><BR>Als de tewerkstellingspremie wordt beperkt, zoals vermeld in   artikel 5, § 3, dan wordt de te veel betaalde premie teruggevorderd.
+...
 
 ### ART. 10.
 
-Als de arbeidsovereenkomst binnen de periode waarvoor een   tewerkstellingspremie werd toegekend, wordt beëindigd, hetzij door de   aangeworvene zelf, hetzij wegens dringende reden die de aangeworvene ten laste   wordt gelegd, hetzij wegens overmacht, worden de uitbetaalde   tewerkstellingspremies die betrekking hebben op de effectieve duur van de   arbeidsovereenkomstniet teruggevorderd van de onderneming. De onderneming moet   een bewijs daarvan voorleggen.
+...
 
 ## HOOFDSTUK VI Slotbepalingen
 
 ### ART. 11.
 
-Dit besluit treedt in werking op 1 april 2006.<br /><br />
+...
 
 ### ART. 12.
 
-De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, is belast met de uitvoering van dit besluit.<br /><br />
+...
