@@ -2,9 +2,84 @@
 
 ## HOOFDSTUK 1 Algemene bepalingen
 
+### ART. 1.
+
+Dit decreet regelt een gewestaangelegenheid.
+
 ## HOOFDSTUK 2 Wijzigingsbepalingen
 
+### ART. 4.
+
+<p>Artikel 339 van de Programmawet (I) van 24 december 2002, vervangen bij de wet van 27 december 2012, wordt vervangen door wat volgt :<br>
+"Art. 339. Volgens de voorwaarden die ze nader bepaalt, kan de Vlaamse Regering een doelgroepvermindering toekennen aan werkgevers die oudere werknemers tewerkstellen.</p>
+
+<p>De tewerkstelling van de oudere werknemer voldoet minimaal aan de volgende voorwaarden :<br>
+1° de oudere werknemer behoort tot de categorie 1 van werknemers, vermeld in artikel 330;<br>
+2° de oudere werknemer heeft op de laatste dag van het kwartaal minimaal de leeftijd van 55 jaar bereikt;<br>
+3° het refertekwartaalloon van de oudere werknemer is lager dan de door de Vlaamse Regering bepaalde loongrens.</p>
+
+<p>De Vlaamse Regering kan het forfaitaire bedrag en de periode van de toekenning van de doelgroepvermindering vaststellen, rekening houdend met :<br>
+1° de leeftijd van de oudere zittende werknemer;<br>
+2° de leeftijd van de oudere niet-werkende werkzoekende die na de inwerkingtreding van dit decreet wordt aangeworven.</p>
+
+<p>De Vlaamse Regering bepaalt wat onder oudere zittende werknemer en oudere niet-werkende werkzoekende als vermeld in het derde lid, moet worden verstaan.".</p>
+
+### ART. 7.
+
+<p>&nbsp;In artikel 346 van dezelfde wet, vervangen bij de wet van 23 december 2005 en gewijzigd bij de wet van 27 december 2012, worden paragraaf 2 en 3 vervangen door wat volgt :<br>
+" § 2. Volgens de voorwaarden die ze nader bepaalt, kan de Vlaamse Regering een doelgroepvermindering voor jonge werknemers toekennen aan de werkgevers, vermeld in artikel 335.</p>
+
+<p>De tewerkstelling van jonge werknemers voldoet minimaal aan de volgende voorwaarden :<br>
+1° het refertekwartaalloon van de jonge werknemer is lager dan de door de Vlaamse Regering bepaalde loongrens. De Vlaamse Regering bepaalt het tijdstip waarop de loongrens van toepassing is;<br>
+2° op de dag van zijn indienstneming is de jonge werknemer laaggeschoold of middengeschoold en op de laatste dag van het kwartaal heeft hij de leeftijd van 25 jaar niet bereikt;<br>
+3° de jonge werknemer is niet meer leerplichtig en hij behaalt binnen het kwartaal na zijn aanwerving geen diploma of graad die valt buiten het toepassingsgebied van bovenvermeld punt 2°.</p>
+
+<p>In het tweede lid, 2°, wordt verstaan onder :<br>
+1° laaggeschoold : de jonge werknemer heeft geen diploma van secundair onderwijs of een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, of een gelijkwaardig diploma of getuigschrift;<br>
+2° middengeschoold : de jonge werknemer heeft hoogstens een diploma van secundair onderwijs of van een studiegetuigschrift van het tweede leerjaar van de derde graad van het secundair onderwijs, of een gelijkwaardig diploma of getuigschrift.</p>
+
+<p>De Vlaamse Regering kan specifieke studiebewijzen of attesten gelijkstellen met de diploma's of getuigschriften, vermeld in het derde lid, 1° en 2°.</p>
+
+<p>Om van het voordeel te genieten dient de jongere werknemer te beschikken over een elektronisch dossier zoals bepaald in artikel 22/2 van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding".</p>
+
+<p>De VDAB beheert de scholingsgegevens van de jonge werknemer in dit elektronisch dossier.</p>
+
+<p>De Vlaamse Regering bepaalt het forfaitaire bedrag en de periode van toekenning van de doelgroepvermindering.</p>
+
+<p>§ 3. De werkgevers, vermeld in artikel 335 van deze wet, genieten van een doelgroepvermindering bij de tewerkstelling van leerlingen als vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders.</p>
+
+<p>De Vlaamse Regering bepaalt het forfaitaire bedrag van de doelgroepvermindering en de periode van toekenning.".</p>
+
+### ART. 8.
+
+Artikel 347 van dezelfde wet, vervangen bij de wet van 22 december 2003, wordt opgeheven.
+
+### ART. 11.
+
+Artikel 353bis/10 van dezelfde wet, ingevoegd bij de wet van 24 april 2014, wordt opgeheven.
+
 ## HOOFDSTUK 3 Vlaamse ondersteuningspremie
+
+### ART. 12.
+
+<p>&nbsp;De Vlaamse Regering wordt gemachtigd om een stelsel in te richten dat voorziet in de tegemoetkoming aan een werkgever die een persoon met een arbeidshandicap aanwerft of heeft aangeworven, of aan een zelfstandige met een arbeidshandicap, ter compensatie van de kosten van de inschakeling in het beroepsleven, van de kosten van ondersteuning en van verminderde productiviteit.</p>
+
+<p>De Vlaamse Regering bepaalt de voorwaarden voor de toekenning, de procedure voor de aanvraag, en het bedrag van de tegemoetkoming.</p>
+
+### ART. 13.
+
+In artikel 2, 10°, van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap ``Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding'', gewijzigd bij decreet van 21 november 2008, 23 november 2012, 12 juli 2013 en 24 april 2015, wordt de zinsnede "3, 3° " vervangen door de zinsnede "3, 2° ".
+
+### ART. 14.
+
+In artikel 2 van hetzelfde decreet, gewijzigd bij de decreten van 21 november 2008, 23 november 2012, 12 juli 2013 en 24 april 2015, worden de volgende wijzigingen aangebracht :<br>
+1° er wordt een punt 12° toegevoegd, dat luidt als volgt :<br>
+``12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft.'';<br>
+2° het tweede lid wordt opgeheven.
+
+### ART. 15.
+
+In artikel 5, § 1, 5°, van hetzelfde decreet, gewijzigd bij decreet van 21 november 2008, 19 december 2008, 23 november 2012, 12 juli 2013 en 24 april 2015, wordt het woord "doelgroepwerknemers" telkens vervangen door de woorden "personen met een arbeidshandicap en doelgroepwerknemers".
 
 ## HOOFDSTUK 4 Toezicht en handhaving
 
