@@ -138,9 +138,11 @@ c) de kinderopvangprestaties waarvoor de organisator ervoor kiest om niet met he
 <p>Het deel op basis van de leeftijd van de personen, vermeld in het eerste lid, 2°, wordt als volgt berekend :<br>
 1° de subsidie bedraagt 431,42 euro per gesubsidieerde kinderopvangplaats per kalenderjaar als de gemiddelde leeftijd van die personen twintig jaar is;<br>
 2° voor elk jaar boven op de gemiddelde leeftijd van twintig jaar wordt de subsidie verhoogd met 7,42 euro per gesubsidieerde kinderopvangplaats, tot maximaal een gemiddelde leeftijd van zestig jaar;<br>
-3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.</p>
-
-<p>De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordelijken en de medewerkers, vermeld in het eerste lid, 2°, meetellen voor de berekening van de gemiddelde leeftijd en hoe hun werkregeling in rekening gebracht wordt.</p>
+3° de gemiddelde leeftijd wordt berekend op basis van alle leeftijden en de werkregeling van deze personen.<br>
+<br>
+In afwijking van artikel 8 wordt bij de overschrijding van de drempelwaarde van het viermaandelijks voortschrijdend gemiddelde in mei 2016, het bedrag, vermeld in het tweede lid, 1°, vanaf 1 juli 2016 verhoogd met 0,24 euro.<br>
+<br>
+De minister bepaalt de nadere regels, onder meer op welke wijze de verantwoordelijken en de medewerkers, vermeld in het eerste lid, 2°, meetellen voor de berekening van de gemiddelde leeftijd en hoe hun werkregeling in rekening gebracht wordt.</p>
 
 ### ART. 18.
 
