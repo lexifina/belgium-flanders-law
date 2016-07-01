@@ -56,7 +56,15 @@ In   artikel 3 van het besluit van de Vlaamse Regering van 17 december 2010 tot 
 
 ## Afdeling 4 De vroegste startdatum
 
+### ART. 9.
+
+<P>&nbsp;In artikel 11 van hetzelfde besluit,   vervangen bij het besluit van de Vlaamse Regering van 20 maart 2015, worden het   tweede en het derde lid vervangen door wat volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"Dat   betekent dat de ecologie-investeringen op zijn vroegst mogen starten op de   eerste dag van de maand die volgt op de maand waarin de steunaanvraag wordt   ingediend.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   steun vervalt volledig als de ecologie-investeringen starten voor de dag,   vermeld in het tweede lid.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px"></P>
+
 ## Afdeling 5 De uitbetaling van de eerste schijf
+
+### ART. 10.
+
+&nbsp;In artikel 24, 1°, van hetzelfde   besluit wordt punt b) vervangen door wat volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"b)   de onderneming heeft de ecologie-investeringen voor 30%   uitgevoerd;".
 
 ## Hoofdstuk 4 Het besluit van de Vlaamse Regering Screen Flanders
 
