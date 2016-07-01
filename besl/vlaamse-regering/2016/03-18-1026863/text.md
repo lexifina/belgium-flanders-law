@@ -94,6 +94,18 @@ In   artikel 3, § 1, van het decreet van 13 juli 2012 houdende de oprichting en
 
 ## Afdeling 10 Wijzigingen van het GIPOD-decreet van 4 april 2014
 
+### ART. 18.
+
+&nbsp;In artikel 3 van het GIPOD-decreet van   4 april 2014 wordt punt 1° vervangen door wat volgt :<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"1°   het agentschap : het intern verzelfstandigd agentschap Informatie Vlaanderen,   vermeld in artikel 2 van het besluit van de Vlaamse Regering van 18 maart 2016   houdende de oprichting van het intern verzelfstandigd agentschap Informatie   Vlaanderen, de bepaling van diverse maatregelen voor de ontbinding zonder   vereffening van het AGIV, de regeling van de overdracht van de activiteiten en   het vermogen van het AGIV aan het agentschap Informatie Vlaanderen en de   vaststelling van de werking, het beheer en de boekhouding van het Eigen Vermogen   Informatie Vlaanderen;".
+
+### ART. 19.
+
+In   artikel 5, 14 en 15 van hetzelfde decreet wordt het woord "AGIV" telkens   vervangen door het woord "agentschap".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 20.
+
+&nbsp;In artikel 16 van hetzelfde decreet   wordt het woord "AGIV" vervangen door de zinsnede "Eigen Vermogen Informatie   Vlaanderen, vermeld in artikel 7 van het decreet van 15 januari 2016 houdende   diverse maatregelen inzake de ontbinding van het publiekrechtelijk vormgegeven   extern verzelfstandigd agentschap Agentschap voor Geografische Informatie   Vlaanderen en de oprichting van het Eigen Vermogen Informatie   Vlaanderen".
+
 ## HOOFDSTUK 2 Slotbepalingen
 
 ### ART. 21.
