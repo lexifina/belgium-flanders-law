@@ -112,11 +112,24 @@ De Vlaamse Regering kan aan de organisaties, vermeld in artikelen 20, 22, 28, 31
 
 ### ART. 20.
 
-De Vlaamse Regering geeft invulling aan het begrip 'digitale bibliotheek voor de openbare bibliotheken binnen de Vlaamse Gemeenschap' en subsidieert met het oog daarop een organisatie die tot doel heeft het beleid van de Vlaamse Gemeenschap met betrekking tot de digitale bibliotheek te ondersteunen en uit te voeren. Dat impliceert de ontwikkeling, de realisatie en het beheer van inhoudelijke en technische toepassingen, met het oog op de uitbouw van de digitale bibliotheek voor de openbare bibliotheken binnen de Vlaamse Gemeenschap.<br /><br />
+De Vlaamse Regering subsidieert een organisatie die als doel heeft gemeenten te ondersteunen bij de digitale uitdagingen van hun cultuurbeleid, met klemtoon op openbare bibliotheken, cultuur- en gemeenschapscentra en aandacht voor sectoroverschrijdende verbindingen.
 
 ### ART. 21.
 
-De organisatie, vermeld in artikel 20, heeft de volgende opdrachten :<br />1° de bibliotheken ondersteunen als lokale plek waar het publiek kennis kan maken met en gebruik kan maken van de mogelijkheden van een digitale omgeving;<br />2° publiekstoepassingen aanbieden op het internet, waaronder de ontwikkeling en exploitatie van een uniforme toegang tot alle informatie die zich in de openbare bibliotheken bevindt;<br />3° de bibliotheken ondersteunen op het vlak van collectiebeheer;<br />4° in overleg met relevante partners de maatschappelijke ontwikkelingen volgen die een invloed hebben op de openbare bibliotheken, zowel op nationaal als op internationaal vlak.<br /><br />De Vlaamse Regering kan die opdrachten specificeren. <br /><br />De organisatie concretiseert haar opdrachten om de vijf jaar in een meerjarenplan en legt dat ter goedkeuring voor aan de administratie.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering een jaarlijkse subsidie toe voor personeel en werking, waarvan ze het bedrag bepaalt.<br /><br />
+De organisatie, vermeld in artikel 20, voert volgende strategische doelstellingen uit :<br>
+1° uitzetten van stimuleringstrajecten om het lokaal cultuurbeleid te sensibiliseren rond de digitale uitdagingen;<br>
+2° concrete proefprojecten uitvoeren in samenwerking met lokale besturen en lokale cultuurprofessionals om oplossingen voor de digitale uitdagingen van het lokaal cultuurbeleid te zoeken;<br>
+3° succesvolle proefprojecten op te schalen tot bovenlokale diensten waarop gemeenten kunnen intekenen;<br>
+4° bovenlokale diensten kwalitatief te beheren in een consortiummodel met deelnemende gemeenten.<br>
+<br>
+Voor de uitvoering van de opdrachten kent de Vlaamse Regering een jaarlijkse subsidie toe, waarvan ze het bedrag bepaalt. De subsidie wordt toegekend ter ondersteuning van de personeels- en werkingskosten en omvat gelijktijdig de subsidiëring van een kern van personeelsleden, de jaarlijkse toekenning van een basistoelage voor de werking en een subsidiëring op grond van werkelijk gepresteerde activiteiten.<br>
+<br>
+De Vlaamse Regering sluit een vijfjarige overeenkomst af met de organisatie waarin de strategische doelstellingen worden geconcretiseerd in operationele doelstellingen en de jaarlijkse subsidie voor<br>
+personeel en werking wordt toegekend. Na een positieve evaluatie van de uitvoering van de overeenkomst in de loop van het laatste jaar sluit de Vlaamse Regering een nieuwe vijfjarige overeenkomst.<br>
+<br>
+De wijze waarop de organisatie uitvoering zal geven aan de doelstellingen uit de overeenkomst wordt beschreven in een vijfjarig meerjarenplan dat ter goedkeuring wordt voorgelegd aan de minister bevoegd voor Cultuur.<br>
+<br>
+De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepalen en kan een afwijkende looptijd voorzien voor de eerste keer dat deze overeenkomst wordt gesloten.
 
 ## Afdeling 3 Voorzieningen voor bijzondere doelgroepen
 
@@ -160,15 +173,15 @@ In aanvulling op de documenten, vermeld in artikel 16, moeten de organisaties, v
 
 ### ART. 31.
 
-De Vlaamse Regering subsidieert een organisatie die als doel heeft, gemeenten te ondersteunen bij de lokale invulling van de Vlaamse beleidsprioriteiten in het kader van de uitbouw van een lokaal cultuurbeleid. De invulling van het lokaal cultuurbeleid binnen de strategische meerjarenplanning en de ondersteuning van de werking van cultuurcentra, openbare bibliotheken, gemeenschapscentra en adviesorganen voor cultuur staan daarbij centraal.<br /><br />
+...
 
 ### ART. 32.
 
-De organisatie, vermeld in artikel 31, heeft de volgende opdrachten :<br />1° gemeenten ondersteunen bij de lokale invulling van de Vlaamse beleidsprioriteiten in het kader van de uitbouw van een lokaal cultuurbeleid;<br />2° gemeenten stimuleren om in hun cultuurbeleid bijzondere aandacht te besteden aan de participatie van alle bevolkingsgroepen aan een divers en gevarieerd cultuuraanbod;<br />3° samenwerken met de administratie in het kader van de uitvoering van het Vlaamse beleid inzake het lokaal cultuurbeleid.<br /><br />De Vlaamse Regering kan die opdrachten specificeren.<br /><br />
+...
 
 ### ART. 33.
 
-De organisatie, vermeld in artikel 31, concretiseert haar opdrachten om de vijf jaar in een meerjarenplan en legt dat ter goedkeuring voor aan de administratie.<br /><br />Voor de uitvoering van het meerjarenplan kent de Vlaamse Regering een jaarlijkse subsidie toe voor personeel en werking, waarvan zij het bedrag bepaalt.<br /><br />
+...
 
 ## Afdeling 5 [... (opgeh. decr. 29 maart 2019, art. 54, I: 1 januari 2019)]
 
