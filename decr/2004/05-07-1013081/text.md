@@ -28,7 +28,53 @@ Het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen is het agentsc
 
 ### ART. 5.
 
-§ 1. Om de missie, vermeld in artikel 4, waar te maken, vervult het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen de volgende taken :<br />1° als algemene taken worden beschouwd :<br />a) het bevorderen van en het bijdragen tot meer en sterker ondernemen in Vlaanderen;<br />b) het stimuleren van ondernemend onderwijs en opleiding in Vlaanderen;<br />c) het bevorderen van de arbeidsmarktgerichte competentieontwikkeling van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen;<br />d) het waarborgen van een doelgericht, ervaringsgericht, complementair, innovatief, actueel en flexibel aanbod via sectoraal opgebouwde trajecten;<br />e) het subsidiëren van de leertijd en de ondernemerschapstrajecten, en het financieel tegemoetkomen in de toegewezen trajecten en in andere opdrachten die in dit decreet bepaald zijn of die bij overeenkomst aangegaan zijn;<br />2° als taken van regisseur worden beschouwd :<br />a) het aansturen van de behoeftedetectie en het vastleggen van de prioriteiten in overleg met de belanghebbende actoren, in het bijzonder met de centra;<br />b) het aansturen en valideren van de innovatie binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten, door opdrachten te geven tot ontwikkeling van innovatieve of aangepaste trajecten en modules, of van experimenten en methodieken daarrond;<br />c) het voortdurend evalueren, monitoren, auditen en bijsturen van bereik, effectiviteit en kwaliteit van het opleidingsaanbod;<br />d) het controleren van de trajecten en modules, zowel in functie van de kwaliteit en het financieel correcte verloop, als de conformiteit met de reglementering;<br />e) het stimuleren, faciliteren en realiseren van effectieve en efficiënte partnerschappen;<br />f) het opzetten van de nodige instrumenten en procedures voor kennisborging en -verspreiding;<br />g) het organiseren en realiseren van kennisdeling met en rapportering aan de voogdijoverheid;<br />h) het opmaken van de nodige procedures om de taken, vermeld in 2°, a) tot en met g), te waarborgen;<br />i) het met het verantwoordelijke beleidsniveau meewerken aan de opmaak van nieuwe reglementering;<br />j) het vastleggen van de voorwaarden en de criteria waaraan de kwaliteitssystemen binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten moeten voldoen;<br />k) het uitstippelen van een beleid en het ontwikkelen van een visie inzake de competentieversterking van de actoren, alsook de opvolging ervan;<br />l) het controleren of voor het uitreiken van studiebewijzen voldaan is aan alle voorwaarden als vermeld in artikel 81, 82 en 83 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br />m) het bepalen van het kader en de procedures voor elders verworven competenties (EVC) in de leertijd en in de ondernemerschapstrajecten;<br />n) het ontwikkelen en coördineren van een beleid binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten inzake de inbedding van de doel- en kansengroepen;<br />o) het erkennen en het volgen van en het algemeen pedagogisch-didactisch toezicht op de uitvoering van de leer- en stageovereenkomsten alsmede voor de organisatie van de verplichte trajectbegeleiding in de leertijd;<br />p) het intekenen op en het uitvoeren van projecten;<br />q) het delen en uitwisselen van kennis met de bevoegde overheid in het kader van de beleidsvoorbereiding;<br />r) naast het bepaalde in punt a) tot en met q) het uitoefenen van toezicht in het algemeen en inspectie in het bijzonder op de naleving van de bepalingen van dit decreet en van de namens dit decreet genomen uitvoeringsbesluiten;<br />3° als taken van actor worden beschouwd :<br />a) het erkennen van de individuele opleidingen binnen de leertijd en de ondernemerschapstrajecten;<br />b) het uitvoeren van procedures voor elders verworven competenties (EVC) overeenkomstig het vastgelegde kader binnen de leertijd en de ondernemerschapstrajecten;<br />c) het implementeren van de trajecten en modules;<br />d) het intekenen op en uitvoeren van projecten;<br />e) het uitvoeren van studie en onderzoek inzake behoeftedetectie, innovatie en beleidsdossiers;<br />f) het delen en uitwisselen van kennis met de bevoegde overheid in het kader van de beleidsvoorbereiding;<br />g) het coördineren van de uitvoering van de productontwikkeling en -innovatie inzake leertijd en ondernemerschapstrajecten en de begeleiding ervan;<br />h) samen met andere actoren instaan voor de communicatie over het bestaande en nieuwe aanbod van de leertijd en ondernemerschapstrajecten;<br />i) het aanleveren van de nodige gegevens, het ontwikkelen van de nodige monitoringsinstrumenten en de deelname aan audits inzake effectiviteit en kwaliteit van de leertijd en de ondernemerschapstrajecten, en de begeleiding van de actoren bij de remediëring van de auditresultaten;<br />j) het aangaan van effectieve en efficiënte partnerschappen;<br />k) het aanleveren van de nodige informatie voor de kennisborging;<br />l) het aanleveren van de nodige informatie voor de opmaak van de reglementering en procedures;<br />m) het deelnemen aan de activiteiten van kennisdeling;<br />n) het implementeren van de competentieontwikkeling van de actoren in de leertijd en de ondernemerschapstrajecten;<br />o) het instaan voor de vormgeving van de interne kwaliteitszorg;<br />p) het ontwikkelen van de leerplannen algemene vorming in de leertijd overeenkomstig de onderwijseindtermen;<br />q) het implementeren van de doel- en kansengroepen in de ondernemerschapstrajecten.<br /><br />§ 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en geconcretiseerd.
+§ 1. Om de missie, vermeld in artikel 4, waar te maken, vervult het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen de volgende taken :<br>
+1° als algemene taken worden beschouwd :<br>
+a) het bevorderen van en het bijdragen tot meer en sterker ondernemen in Vlaanderen;<br>
+b) het stimuleren van ondernemend onderwijs en opleiding in Vlaanderen;<br>
+c) het bevorderen van de arbeidsmarktgerichte competentieontwikkeling van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen;<br>
+d) het waarborgen van een doelgericht, ervaringsgericht, complementair, innovatief, actueel en flexibel aanbod via sectoraal opgebouwde trajecten;<br>
+e) het subsidiëren van de leertijd en de ondernemerschapstrajecten, en het financieel tegemoetkomen in de toegewezen trajecten en in andere opdrachten die in dit decreet bepaald zijn of die bij overeenkomst aangegaan zijn;<br>
+f) het uitbouwen en beheren van een duurzaam netwerk van erkende leerondernemingen.<br>
+2° als taken van regisseur worden beschouwd :<br>
+a) het aansturen van de behoeftedetectie en het vastleggen van de prioriteiten in overleg met de belanghebbende actoren, in het bijzonder met de centra;<br>
+b) het aansturen en valideren van de innovatie binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten, door opdrachten te geven tot ontwikkeling van innovatieve of aangepaste trajecten en modules, of van experimenten en methodieken daarrond;<br>
+c) het voortdurend evalueren, monitoren, auditen en bijsturen van bereik, effectiviteit en kwaliteit van het opleidingsaanbod;<br>
+d) het controleren van de trajecten en modules, zowel in functie van de kwaliteit en het financieel correcte verloop, als de conformiteit met de reglementering;<br>
+e) het stimuleren, faciliteren en realiseren van effectieve en efficiënte partnerschappen;<br>
+f) het opzetten van de nodige instrumenten en procedures voor kennisborging en -verspreiding;<br>
+g) het organiseren en realiseren van kennisdeling met en rapportering aan de voogdijoverheid;<br>
+h) het opmaken van de nodige procedures om de taken, vermeld in 2°, a) tot en met g), te waarborgen;<br>
+i) het met het verantwoordelijke beleidsniveau meewerken aan de opmaak van nieuwe reglementering;<br>
+j) het vastleggen van de voorwaarden en de criteria waaraan de kwaliteitssystemen binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten moeten voldoen;<br>
+k) het uitstippelen van een beleid en het ontwikkelen van een visie inzake de competentieversterking van de actoren, alsook de opvolging ervan;<br>
+l) het controleren of voor het uitreiken van studiebewijzen voldaan is aan alle voorwaarden als vermeld in artikel 81, 82 en 83 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap;<br>
+m) het bepalen van het kader en de procedures voor elders verworven competenties (EVC) in de leertijd en in de ondernemerschapstrajecten;<br>
+n) het ontwikkelen en coördineren van een beleid binnen de leertijd en binnen de ondernemerschaps- en toegewezen trajecten inzake de inbedding van de doel- en kansengroepen;<br>
+o) het erkennen en het volgen van en het algemeen pedagogisch-didactisch toezicht op de uitvoering van de&nbsp;stageovereenkomsten alsmede voor de organisatie van de verplichte trajectbegeleiding in de leertijd;<br>
+p) het intekenen op en het uitvoeren van projecten;<br>
+q) het delen en uitwisselen van kennis met de bevoegde overheid in het kader van de beleidsvoorbereiding;<br>
+r) naast het bepaalde in punt a) tot en met q) het uitoefenen van toezicht in het algemeen en inspectie in het bijzonder op de naleving van de bepalingen van dit decreet en van de namens dit decreet genomen uitvoeringsbesluiten;<br>
+3° als taken van actor worden beschouwd :<br>
+a) het erkennen van de individuele opleidingen binnen de leertijd en de ondernemerschapstrajecten;<br>
+b) het uitvoeren van procedures voor elders verworven competenties (EVC) overeenkomstig het vastgelegde kader binnen de leertijd en de ondernemerschapstrajecten;<br>
+c) het implementeren van de trajecten en modules;<br>
+d) het intekenen op en uitvoeren van projecten;<br>
+e) het uitvoeren van studie en onderzoek inzake behoeftedetectie, innovatie en beleidsdossiers;<br>
+f) het delen en uitwisselen van kennis met de bevoegde overheid in het kader van de beleidsvoorbereiding;<br>
+g) het coördineren van de uitvoering van de productontwikkeling en -innovatie inzake leertijd en ondernemerschapstrajecten en de begeleiding ervan;<br>
+h) samen met andere actoren instaan voor de communicatie over het bestaande en nieuwe aanbod van de leertijd en ondernemerschapstrajecten;<br>
+i) het aanleveren van de nodige gegevens, het ontwikkelen van de nodige monitoringsinstrumenten en de deelname aan audits inzake effectiviteit en kwaliteit van de leertijd en de ondernemerschapstrajecten, en de begeleiding van de actoren bij de remediëring van de auditresultaten;<br>
+j) het aangaan van effectieve en efficiënte partnerschappen;<br>
+k) het aanleveren van de nodige informatie voor de kennisborging;<br>
+l) het aanleveren van de nodige informatie voor de opmaak van de reglementering en procedures;<br>
+m) het deelnemen aan de activiteiten van kennisdeling;<br>
+n) het implementeren van de competentieontwikkeling van de actoren in de leertijd en de ondernemerschapstrajecten;<br>
+o) het instaan voor de vormgeving van de interne kwaliteitszorg;<br>
+p) het ontwikkelen van de leerplannen algemene vorming in de leertijd overeenkomstig de onderwijseindtermen;<br>
+q) het implementeren van de doel- en kansengroepen in de ondernemerschapstrajecten.<br>
+<br>
+§ 2. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 5, § 1, vermelde aangelegenheden. In deze regels kunnen de taken van het agentschap verder worden gepreciseerd en geconcretiseerd.
 
 ### ART. 6.
 
@@ -66,39 +112,120 @@ De in artikel 7, 2° en 3°, bedoelde leden van de raad van bestuur worden, uit 
 
 ### ART. 13.
 
-§ 1. Conform het bepaalde in dit decreet en zijn uitvoeringsbesluiten wordt de raad van bestuur bijgestaan door een praktijkcommissie die is samengesteld uit:<br /><br />1° een voorzitter die niet mag behoren tot, of verbonden zijn met, de organisaties bedoeld in 2° of 3°;<br /><br />2° vier leden voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties;<br /><br />3° vier leden voorgedragen door de representatieve werknemersorganisaties;<br /><br />4° de gedelegeerd bestuurder, bedoeld in artikel 20.<br /><br />§ 2. Alle leden van de praktijkcommissie, de voorzitter en de gedelegeerd bestuurder uitgezonderd, zijn stemgerechtigd.
+§ 1. Binnen het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen wordt een Vlaams Partnerschap Duaal Leren opgericht.<br>
+<br>
+§ 2. Binnen de voorwaarden en conform de modaliteiten, vastgesteld door de Vlaamse Regering, heeft het Vlaams Partnerschap Duaal Leren de volgende bevoegdheden:<br>
+1° de erkenning of opheffing van erkenning van een onderneming;<br>
+2° de uitsluiting van een onderneming;<br>
+3° de uitoefening van controle op de uitvoering van de overeenkomst tot uitvoering van een alternerende opleiding wat betreft de opleiding op de werkplek;<br>
+4° het opmaken van een jaarlijks monitoringsrapport over de stand van zaken van het duaal leren in Vlaanderen;<br>
+5° het nemen van de nodige acties om de ondernemingen te informeren over het duaal leren in Vlaanderen;<br>
+6° het ondersteunen en mobiliseren van ondernemingen met het oog op een versterking, zowel kwantitatief als kwalitatief, van het aanbod aan werkplekken;<br>
+7° het verlenen van advies over alle materies die de werkplekcomponent van het duaal leren aanbelangen.<br>
+<br>
+§ 3. Het Vlaams Partnerschap Duaal Leren is samengesteld uit volgende leden:<br>
+1° een voorzitter;<br>
+2° vier leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+3° vier leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+4° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
+5° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
+6° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
+7° de gedelegeerd bestuurder van het agentschap of zijn vertegenwoordiger;<br>
+8° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+9° een vertegenwoordiger van het Agentschap voor Onderwijsdiensten;<br>
+10° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
+11° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+12° een secretaris, personeelslid van het agentschap.<br>
+<br>
+Met uitzondering van de voorzitter en de secretaris hebben alle leden als vermeld in het eerste lid stemrecht.<br>
+<br>
+§ 4. Het Vlaams Partnerschap Duaal Leren stelt een huishoudelijk reglement op dat minstens de volgende inhoud heeft:<br>
+1° de regels voor de bijeenroeping van het Vlaams Partnerschap Duaal Leren;<br>
+2° de regels voor het voorzitterschap van het Vlaams Partnerschap Duaal Leren bij afwezigheid van de voorzitter;<br>
+3° de regels voor de samenwerking tussen het Vlaams Partnerschap Duaal Leren en de sectorale partnerschappen;<br>
+4° de regels voor de delegatie van bevoegdheid aan personeelsleden van het agentschap;<br>
+5° de regels die het Vlaams Partnerschap Duaal Leren in acht moet nemen bij de uitoefening van zijn bevoegdheden.<br>
+<br>
+Het Vlaams Partnerschap legt zijn huishoudelijk reglement ter goedkeuring voor aan de Vlaamse Regering, die binnen de dertig dagen na de ontvangst van het huishoudelijk reglement haar beslissing tot al dan niet goedkeuring meedeelt.<br>
+<br>
+De Vlaamse Regering motiveert haar beslissing tot niet-goedkeuring van het huishoudelijk reglement. Het Vlaams Partnerschap Duaal Leren verricht de nodige aanpassingen en legt het huishoudelijk reglement opnieuw ter goedkeuring voor aan de Vlaamse Regering.<br>
+<br>
+De procedure voorzien in het tweede en derde lid is ook van toepassing bij wijziging van het huishoudelijk reglement.
 
 ### ART. 14.
 
-De voorzitter van de praktijkcommissie:<br />1° is onafhankelijk ten aanzien van de representatieve organisaties die in de praktijkcommissie vertegenwoordigd zijn;<br />2° is onafhankelijk ten aanzien van de centra;<br />3° ressorteert niet onder het hiërarchisch gezag van de Vlaamse regering.<br />
+Op voordracht van de stemgerechtigde leden van het Vlaams Partnerschap Duaal Leren benoemt de Vlaamse Regering de voorzitter van het Vlaams Partnerschap Duaal Leren.
 
 ### ART. 15.
 
-§ 1. De leden van de praktijkcommissie worden door de Vlaamse regering aangesteld voor een hernieuwbare periode van vijf jaar. De voormelde termijn van vijf jaar neemt een aanvang zes maanden na de beëdiging van een nieuwe Vlaamse regering na algehele vernieuwing van het Vlaams Parlement. In geval tussen de beëdiging van twee opeenvolgende regeringen minder of meer dan vijf jaar is verlopen, dan wordt deze termijn overeenkomstig aangepast.<br /><br />Wanneer in de loop van de in het eerste lid bepaalde termijn een mandaat van een lid van de praktijkcommissie vrijkomt, stelt de Vlaamse regering, desgevallend op voordracht van de representatieve organisatie op wier voordracht het lid van de praktijkcommissie waarvan het mandaat vervroegd is vrijgekomen, was aangesteld, een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan.<br /><br />In voorkomend geval wordt het mandaat van al de zittende leden van de praktijkcommissie ambtshalve verlengd tot wanneer de Vlaamse regering bij het verstrijken van de overeenkomstig het eerste lid bepaalde termijn de leden van de praktijkcommissie heeft aangesteld.<br /><br />§ 2. De in artikel 13, § 1, 2° en 3°, bedoelde leden van de praktijkcommissie worden uit lijsten van tenminste twee kandidaten per te begeven mandaat, aangesteld op voordracht van de in deze punten vermelde representatieve organisaties.<br /><br />§ 3. De Vlaamse regering bepaalt de vergoeding van de voorzitter en de leden van de praktijkcommissie.
+De voorzitter en de leden van het Vlaams Partnerschap Duaal Leren, vermeld in artikel 13, § 3, eerste lid, 2° en 3°, worden door de Vlaamse Regering aangesteld voor een hernieuwbare periode van vijf jaar.<br>
+<br>
+Als in de loop van de termijn, vermeld in het eerste lid, een mandaat vrijkomt, stelt de Vlaamse Regering, op voordracht van de organisatie in kwestie, een nieuwe mandataris aan die het mandaat overneemt voor de nog resterende looptijd ervan.
 
 ### ART. 16.
 
-§ 1. De voorzitter van de praktijkcommissie kan te allen tijde door de Vlaamse regering worden ontslagen.<br /><br />§ 2. Om het ontslag van de in artikel 13, § 1, 2° en 3°, vermelde leden van de praktijkcommissie kan worden verzocht door de representatieve organisaties op wier voordracht het betrokken lid is aangesteld. Voor ze dat verzoek inwilligt, kan de Vlaamse Regering een overleg met de betrokken organisatie vragen. Dat overleg kan worden gevraagd uiterlijk binnen veertien kalenderdagen na de ontvangst van het verzoek.
+De Vlaamse Regering kan een vergoeding toekennen aan de leden van het Vlaams Partnerschap Duaal Leren.
 
 ### ART. 17.
 
-Binnen de voorwaarden en conform de modaliteiten vastgesteld door de Vlaamse regering, heeft de in artikel 13 bedoelde praktijkcommissie de volgende bevoegdheden:<br />1° de erkenning van leer- en stageovereenkomsten en leerverbintenissen en het intrekken of opheffen van deze erkenning;<br />2° de uitoefening van de controle op de partijen omtrent de toepassing van de leer- en stage-overeenkomsten en omtrent het verloop van de leertijd en praktijkstage in de ondernemingen;<br />3° de erkenning van de leertrajectbegeleider;<br />4° het sluiten van de overeenkomsten met de leertrajectbegeleider;<br />5° de uitoefening van het toezicht over de leertrajectbegeleider;<br />6° de uitoefening van volgende sancties:<br />a) de schorsing, intrekking of opheffing van de erkenning van een leertrajectbegeleider;<br />b) de opheffing of intrekking van de erkenning van een leer- of stageovereenkomst en een leerverbintenis;<br />c) de uitsluiting van een ondernemingshoofdopleider en/of een leerling of een cursist-stagiair.<br /><br />De praktijkcommissie kan onder haar verantwoordelijkheid een of meer specifieke bevoegdheden zoals bepaald in het eerste lid, delegeren aan de gedelegeerd bestuurder.
+Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten met betrekking tot de overeenkomst van alternerende opleiding een samenwerkingsakkoord sluiten met een sectoraal partnerschap. Het samenwerkingsakkoord bepaalt de opdrachten van het sectoraal partnerschap.<br>
+<br>
+Het sectoraal partnerschap is samengesteld uit volgende leden:<br>
+1° vier leden, voorgedragen door de representatieve middenstands-, zelfstandigen- en werkgeversorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+2° vier leden, voorgedragen door de representatieve werknemersorganisaties vertegenwoordigd in de Sociaal-Economische Raad van Vlaanderen;<br>
+3° een vertegenwoordiger van het Gemeenschapsonderwijs;<br>
+4° een vertegenwoordiger van elke representatieve vereniging van schoolbesturen van het gesubsidieerd onderwijs;<br>
+5° een vertegenwoordiger van de erkende centra voor de vorming van zelfstandigen en kmo;<br>
+6° de gedelegeerd bestuurder van het agentschap of zijn vertegenwoordiger;<br>
+7° een vertegenwoordiger van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+8° een vertegenwoordiger van het Departement Onderwijs en Vorming;<br>
+9° een vertegenwoordiger van het Departement Werk en Sociale Economie;<br>
+10° een secretaris, personeelslid van het agentschap.<br>
+<br>
+Elke geleding duidt haar vertegenwoordiger(s) aan.<br>
+<br>
+De leden kiezen onder elkaar een voorzitter en een ondervoorzitter die niet tot dezelfde geleding behoren.<br>
+<br>
+Met uitzondering van de secretaris hebben alle leden stemrecht.<br>
+<br>
+Als het samenwerkingsakkoord met het Vlaams Partnerschap Duaal Leren ook de bevoegdheden, vermeld in artikel 13, § 2, 1°, 2° en 3°, omvat, hebben in afwijking op het vorige lid, voor die bevoegdheden enkel de leden, vermeld in het tweede lid, 1° en 2°, stemrecht.<br>
+<br>
+Het sectoraal partnerschap stelt een huishoudelijk reglement op.
 
 ### ART. 18.
 
-De raad van bestuur raadpleegt de praktijkcommissie inzake alle aangelegenheden die betrekking hebben op de leertijd, inzonderheid de leerprogramma's van de basisopleiding en de regels inzake de opleiding van de leerlingen, en de stageovereenkomst.<br /><br />Het advies van de praktijkcommissie is verplicht inzake voormelde aangelegenheden.
+Het Vlaams Partnerschap Duaal Leren kan voor de uitvoering van zijn opdrachten betreffende de overeenkomst van alternerende opleiding een delegatie van bevoegdheid verlenen aan personeelsleden van het agentschap.
 
 ## AFDELING 3 BIJZONDERE COMMISSIES
 
 ### ART. 19.
 
-§ 1. De raad van bestuur kan uit zijn schoot en/of deze van de praktijkcommissie, desgewenst, bijzondere commissies inrichten die worden belast met wel-omschreven taken van adviserende aard.<br /><br />De raad van bestuur draagt de volle verantwoordelijkheid voor het functioneren en het optreden van de in het eerste lid bedoelde commissies.<br /><br />§ 2. De raad van bestuur kan sector-, beroeps- en leertijdcommissies oprichten waarvan het de bevoegdheden en de samenstelling bepaalt. Die commissies hebben tot opdracht de raad van bestuur en/of de praktijkcommissie in hun taak voor te lichten. Zij zijn samengesteld uit personen die zijn voorgedragen door de organisaties die betrokken zijn bij de toepassing van de wetten, decreten en besluiten voor de uitvoering waarvan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen verantwoordelijk is, of uit personen die gekozen zijn wegens hun bijzondere bevoegdheid.<br /><br />De Vlaamse Regering bepaalt de hoogte van hun vergoeding.<br /><br />§ 3. De raad van bestuur richt een commissie Screening op.<br /><br />De Vlaamse Regering bepaalt de samenstelling, de werkingsvoorwaarden, met inbegrip van de voorwaarden die van toepassing zijn bij de herscreening van aangeboden trajecten, en de vergoeding van de leden van de commissie Screening. Bij de herscreening wordt rekening gehouden met de stabiliteit van de centra en de noodzakelijke dynamiek van het opleidingsaanbod.<br /><br />§ 4. Naast de commissies, vermeld in paragraaf 2 en paragraaf 3, worden minstens de volgende commissies opgericht :<br />1° de commissie Audit;<br />2° de commissie Strategie;<br />3° de commissie Klachten.<br /><br />De raad van bestuur bepaalt de bevoegdheden en de samenstelling van die commissies. De Vlaamse Regering bepaalt de hoogte van de vergoedingen van de leden en, voor zover dit het geval is, van de experten die van die commissies deel uitmaken of er advies verstrekken.<br /><br />§ 5. Als commissies als vermeld in paragraaf 1, 2 en 4, worden opgericht, regelt het huishoudelijk reglement, vermeld in artikel 22, de werking ervan.
+§ 1. De raad van bestuur kan uit zijn schoot, desgewenst, bijzondere commissies inrichten die worden belast met wel-omschreven taken van adviserende aard.<br>
+<br>
+De raad van bestuur draagt de volle verantwoordelijkheid voor het functioneren en het optreden van de in het eerste lid bedoelde commissies.<br>
+<br>
+§ 2. De raad van bestuur kan&nbsp;sector- en beroepscommissies oprichten waarvan het de bevoegdheden en de samenstelling bepaalt. Die commissies hebben tot opdracht de raad van bestuur in zijn taak voor te lichten. Zij zijn samengesteld uit personen die zijn voorgedragen door de organisaties die betrokken zijn bij de toepassing van de wetten, decreten en besluiten voor de uitvoering waarvan het Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen verantwoordelijk is, of uit personen die gekozen zijn wegens hun bijzondere bevoegdheid.<br>
+<br>
+De Vlaamse Regering bepaalt de hoogte van hun vergoeding.<br>
+<br>
+§ 3. De raad van bestuur richt een commissie Screening op.<br>
+<br>
+De Vlaamse Regering bepaalt de samenstelling, de werkingsvoorwaarden, met inbegrip van de voorwaarden die van toepassing zijn bij de herscreening van aangeboden trajecten, en de vergoeding van de leden van de commissie Screening. Bij de herscreening wordt rekening gehouden met de stabiliteit van de centra en de noodzakelijke dynamiek van het opleidingsaanbod.<br>
+<br>
+§ 4. Naast de commissies, vermeld in paragraaf 2 en paragraaf 3, worden minstens de volgende commissies opgericht :<br>
+1° de commissie Audit;<br>
+2° de commissie Strategie;<br>
+3° de commissie Klachten.<br>
+<br>
+De raad van bestuur bepaalt de bevoegdheden en de samenstelling van die commissies. De Vlaamse Regering bepaalt de hoogte van de vergoedingen van de leden en, voor zover dit het geval is, van de experten die van die commissies deel uitmaken of er advies verstrekken.<br>
+<br>
+§ 5. Als commissies als vermeld in paragraaf 1, 2 en 4, worden opgericht, regelt het huishoudelijk reglement, vermeld in artikel 22, de werking ervan.
 
 ## AFDELING 4 GEDELEGEERD BESTUURDER
 
 ### ART. 20.
 
-De Vlaamse regering stelt de gedelegeerd bestuurder van het "Vlaams Agentschap voor Onder-nemersvorming - Syntra Vlaanderen" aan. De gedelegeerd bestuurder is van rechtswege lid van de raad van bestuur en de praktijkcommissie.
+De Vlaamse regering stelt de gedelegeerd bestuurder van het "Vlaams Agentschap voor Onder-nemersvorming - Syntra Vlaanderen" aan. De gedelegeerd bestuurder is van rechtswege lid van de raad van bestuur en het Vlaams Partnerschap Duaal Leren.
 
 ### ART. 21.
 
@@ -108,13 +235,29 @@ De Vlaamse regering stelt de gedelegeerd bestuurder van het "Vlaams Agentschap v
 
 ### ART. 22.
 
-§ 1. De raad van bestuur stelt een huishoudelijk reglement op, dat inzonderheid volgende inhoud heeft:<br /><br />1° de regelen inzake de bijeenroeping van de raad van bestuur en/of de praktijkcommissie, op verzoek van hetzij de Vlaamse regering of haar afgevaardigde, hetzij de voorzitter van de raad van bestuur, hetzij de gedelegeerd bestuurder;<br /><br />2° de regelen inzake het voorzitterschap van de raad van bestuur en/of de praktijkcommissie bij afwezigheid of verhindering van de respectievelijke voorzitter;<br /><br />3° de nadere precisering van het dagelijks bestuur;<br /><br />4° de regelen inzake de betrokkenheid van de centra bij het beheer van de gezamenlijke netwerking van de centra en het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";<br /><br />5° de regelen inzake de verhoudingen tussen de raad van bestuur, de praktijkcommissie en de eventuele andere commissies, inzonderheid op het vlak van de procedure tot behandeling van de adviezen en voorstellen;<br /><br />6° de regelen die de raad van bestuur en de praktijkcommissie en de eventuele andere commissies in acht moeten nemen bij de uitoefening van hun bevoegdheden;<br /><br />7° de voorwaarden die de raad van bestuur en/of de praktijkcommissie moet, respectievelijk moeten, respecteren in geval van de behartiging van bijzondere vraagstukken;<br /><br />8° de regelen op grond waarvan de vertegenwoordiger van de centra, bedoeld in artikel 8, § 3, zich kan laten vervangen.<br /><br />§ 2. Na het advies van de praktijkcommissie te hebben ingewonnen, legt de raad van bestuur het huishoudelijk reglement, samen met bedoeld advies en, desgevallend, rekening houdend met daarin geuite voorstellen tot amendering, ter goedkeuring voor aan de Vlaamse regering.<br /><br />Het in het eerste lid bedoelde advies betreft enkel de regels van het huishoudelijk reglement die betrekking hebben op de bevoegdheden en/of de werking van de praktijkcommissie.<br /><br />§ 3. De Vlaamse regering neemt zijn beslissing tot al dan niet goedkeuring van het huishoudelijk reglement binnen de 30 dagen na de in de eerste paragraaf bedoelde mededeling. Bij ontstentenis van een beslissing binnen die termijn wordt het huishoudelijk reglement verondersteld te zijn goedgekeurd.<br /><br />De Vlaamse regering motiveert zijn beslissing tot niet-goedkeuring van het huishoudelijk reglement. In een dergelijk geval wordt de gemotiveerde beslissing onverwijld meegedeeld aan de raad van bestuur van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" die, rekening houdend met de opmerkingen van de regering, de nodige aanpassingen verricht, waarna opnieuw de procedure bedoeld in de paragrafen 2 en 3 moet worden toegepast totdat de goedkeuring wordt bekomen.<br /><br />§ 4. De procedure voorzien in § 2 en § 3 is ook van toepassing bij wijziging van het huishoudelijk reglement.
+§ 1. De raad van bestuur stelt een huishoudelijk reglement op, dat inzonderheid volgende inhoud heeft:<br>
+1° de regelen inzake de bijeenroeping van de raad van bestuur&nbsp; op verzoek van hetzij de Vlaamse regering of haar afgevaardigde, hetzij de voorzitter van de raad van bestuur, hetzij de gedelegeerd bestuurder;<br>
+2° de regelen inzake het voorzitterschap van de raad van bestuur bij afwezigheid of verhindering van de respectievelijke voorzitter;<br>
+3° de nadere precisering van het dagelijks bestuur;<br>
+4° de regelen inzake de betrokkenheid van de centra bij het beheer van de gezamenlijke netwerking van de centra en het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen";<br>
+5° de regelen inzake de verhoudingen tussen de raad van bestuur en de eventuele commissies, inzonderheid op het vlak van de procedure tot behandeling van de adviezen en voorstellen;<br>
+6° de regelen die de raad van bestuur en de eventuele commissiesin acht moeten nemen bij de uitoefening van hun bevoegdheden;<br>
+7° de voorwaarden die de raad van bestuur&nbsp;moet respecteren in geval van de behartiging van bijzondere vraagstukken;<br>
+8° de regelen op grond waarvan de vertegenwoordiger van de centra, bedoeld in artikel 8, § 3, zich kan laten vervangen.<br>
+<br>
+§ 2. De raad van bestuur legt zijn huishoudelijk reglement ter goedkeuring voor aan de Vlaamse Regering.<br>
+<br>
+§ 3. De Vlaamse regering neemt zijn beslissing tot al dan niet goedkeuring van het huishoudelijk reglement binnen de 30 dagen na de in de eerste paragraaf bedoelde mededeling. Bij ontstentenis van een beslissing binnen die termijn wordt het huishoudelijk reglement verondersteld te zijn goedgekeurd.<br>
+<br>
+De Vlaamse regering motiveert zijn beslissing tot niet-goedkeuring van het huishoudelijk reglement. In een dergelijk geval wordt de gemotiveerde beslissing onverwijld meegedeeld aan de raad van bestuur van het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" die, rekening houdend met de opmerkingen van de regering, de nodige aanpassingen verricht, waarna opnieuw de procedure bedoeld in de paragrafen 2 en 3 moet worden toegepast totdat de goedkeuring wordt bekomen.<br>
+<br>
+§ 4. De procedure voorzien in § 2 en § 3 is ook van toepassing bij wijziging van het huishoudelijk reglement.
 
 ## [HOOFDSTUK V ONDERNEMINGSPLAN (verv. decr. 8 juni 2018, art. 6, I: 1 juli 2018)]
 
 ### ART. 23.
 
-Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door de raad van bestuur.<br /><br />De raad van bestuur raadpleegt de praktijkcommissie bij het sluiten van de beheersovereenkomst, inzake alle aangelegenheden die deze aanbelangt.
+Het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door de raad van bestuur.
 
 ## HOOFDSTUK VI SAMENWERKING MET VDAB
 
