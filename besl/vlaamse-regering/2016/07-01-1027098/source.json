@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027098,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 tot wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027098/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "3f57d21b2e21929cafe9b5a6a7968aa724665eea72be9e1e037f4f98d89a0af6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027098&param=informatie",
+  "as_of": "2016-07-01",
+  "made": "2016-07-01",
+  "gazette": "2016-08-04",
+  "numac": 2016036194,
+  "document_start": "2016-07-01",
+  "document_end": null,
+  "in_force": "2016-07-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-07-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
