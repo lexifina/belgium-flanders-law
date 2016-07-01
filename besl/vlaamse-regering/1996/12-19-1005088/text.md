@@ -12,7 +12,9 @@ Deze subsidies zijn vrijgesteld van de aanmeldingsverplichting bedoeld in artike
 
 ### ART. 2.
 
-§ 1. Subsidies in het loon en in de sociale lasten worden verleend voor elke werknemer die, volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als persoon met een arbeidshandicap onvoorwaardelijk of voorwaardelijk gerechtigd is op tewerkstelling in een beschutte werkplaats zoals bepaald in artikel 37 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap.<br>
+§ 1. Het Departement WSE verleent subsidies in het loon en in de sociale lasten aan de persoon die vanaf de inwerkingtreding van dit besluit voldoet aan de volgende voorwaarden:<br>
+1° de persoon is volgens de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding als persoon met een arbeidshandicap onvoorwaardelijk of voorwaardelijk gerechtigd op tewerkstelling in een beschutte werkplaats als vermeld in artikel 4 en 37 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap;<br>
+2° de tewerkstelling van de persoon is geregistreerd in een toepassing die de VDAB ter beschikking stelt.<br>
 <br>
 § 2. In de beschutte werkplaats zijn evenwel minimaal 90 % van de gesubsidieerde werknemers met een arbeidshandicap onvoorwaardelijk gerechtigde werknemers met een arbeidshandicap.<br>
 <br>
