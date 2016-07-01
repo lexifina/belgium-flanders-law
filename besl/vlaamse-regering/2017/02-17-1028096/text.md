@@ -29,3 +29,33 @@ Het statutaire personeelslid van het Departement Welzijn, Volksgezondheid en Gez
 ### ART 2.
 
 De statutaire personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in bijlage 1, punt 1.2, die bij dit besluit is gevoegd, worden overgedragen aan Het Facilitair Bedrijf.
+
+### ART 4.
+
+&nbsp;In punt 3 van bijlage 1 bij het besluit van de Vlaamse Regering van 1 juli 2016 houdende de overdracht van statutaire en contractuele personeelsleden aan het agentschap Facilitair Bedrijf door de overname van de gebouwverantwoordelijkheid wordt de zinsnede
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Van de Putte</td>
+			<td>Claudine</td>
+			<td>C1</td>
+			<td>Medewerker</td>
+			<td>C113</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+vervangen door de zinsnede
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Van de Putte</td>
+			<td>Claudine</td>
+			<td>D1</td>
+			<td>Assistent</td>
+			<td>D111</td>
+		</tr>
+	</tbody>
+</table>
+<br>
+&nbsp;
