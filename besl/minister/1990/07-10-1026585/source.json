@@ -2,16 +2,16 @@
   "codex_id": 1026585,
   "title": "Ministerieel besluit van 1990-07-10 [tot vaststelling van de tegemoetkoming bedoeld in artikel 37, § 12 van de wet betreffende de verplichte verzekering voor geneeskundige verzorging en uitkeringen gecoördineerd op 14 juli 1994, in de psychiatrische verzorgingstehuizen (verv. MB 30 oktober 1996, art. 1, I: 1 april 1996)]",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026585/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "d74c47e41f901dc759841dac70896861bd15949d91b0e8b6edc4e31850e27bdb",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026585/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "16404280c979b99e0bfc21704c34dc8d54c32281a3f449af0950e372d4b400cc",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026585&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-07-01",
   "made": "1990-07-10",
   "gazette": "1990-07-26",
   "numac": 0,
   "document_start": "1990-07-26",
   "document_end": "2018-12-31",
-  "in_force": "2016-01-01",
+  "in_force": "2016-07-01",
   "article_versions": 3,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-01; future article versions excluded; article text as the API gives it"
 }
