@@ -2,16 +2,16 @@
   "codex_id": 1013718,
   "title": "Besluit van de Vlaamse Regering van 2005-02-25 houdende de toekenning van de algemene werkingstoelage aan de exploitanten van een openbaar waterdistributienetwerk",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013718/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "aee9809ab20e108d94e99528a8cadb8582607e07d010b76fa0ee1bde86fcacc9",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013718/VolledigDocument?datum=2016-07-01",
+  "source_sha256": "1dc2f3f225be48297934b65d4064adf84bd98af0ac1eefd44b4fc3b08bbf10c8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013718&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-07-01",
   "made": "2005-02-25",
   "gazette": "2005-04-08",
   "numac": 2005035377,
   "document_start": "2005-01-01",
   "document_end": "2016-06-30",
-  "in_force": "2006-06-01",
+  "in_force": "2016-07-01",
   "article_versions": 9,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-01; future article versions excluded; article text as the API gives it"
 }
