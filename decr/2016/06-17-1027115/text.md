@@ -56,6 +56,12 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"De betrekking is onderhevig aan de regelgeving die van kracht is op het ambt van administratief medewerker in het gewoon secundair onderwijs.".</span><br>
 &nbsp;
 
+### ART III.14.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 115/5 van dezelfde codex, ingevoegd bij het decreet van 1 juli 2011, wordt vervangen door wat volgt :</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. 115/5. Een beslissing van de delibererende klassenraad waartegen de betrokken personen geen beroep of een niet ontvankelijk beroep hebben ingesteld, kan door het schoolbestuur omstreden worden geacht. In dat geval kan het schoolbestuur de klassenraad opnieuw doen samenkomen om de omstreden beslissing te heroverwegen. Het opnieuw samenkomen dient te gebeuren hetzij uiterlijk op 15 september van het daaropvolgend schooljaar, hetzij uiterlijk op 15 maart van het schooljaar in kwestie als de omstreden beslissing betrekking heeft op een Se-n-Se die eindigt op 31 januari. In het geval de dan genomen beslissing afwijkt van de omstreden beslissing, wordt ze schriftelijk en gemotiveerd onmiddellijk aan de betrokken personen meegedeeld.".</span><br>
+&nbsp;
+
 ### ART III.21.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel 123/20 van dezelfde codex, ingevoegd door het decreet van 19 juni 2015, worden de volgende wijzigingen aangebracht :</span><br>
