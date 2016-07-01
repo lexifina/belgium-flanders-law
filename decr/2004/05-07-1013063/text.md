@@ -8,7 +8,19 @@ Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<BR>1° het decreet van 8 mei 2002: het   decreet houdende evenredige participatie op de arbeidsmarkt van 8 mei   2002;<BR>2° het kaderdecreet: het Kaderdecreet Bestuurlijk Beleid van 18 juli   2003;<BR>3° universele dienstverlening: het geheel van basisdiensten en   -voorzieningen inzake werk en opleiding, die gratis door de VDAB worden   gewaarborgd. Deze basisdiensten en -voorzieningen omvatten tenminste ten aanzien   van werkzoekenden de inschrijving en herinschrijving, de bekendmaking van   vacatures, het verstrekken van informatie inzake werk en opleiding, de   beroepskeuzevoorlichting, de beroepsvoorkeur-, geschiktheids- en kennistesten,   de kosteloze arbeidsbemid-deling, de trajectbepaling en de trajectverwijzing en   ten aanzien van de werkgevers, de registratie van vacatures, de steun bij de   omschrijving van vacatures, het verstrekken van informatie inzake werk en   opleiding, de toeleiding van werkzoekenden en het accountmanagement. De Vlaamse   regering bepaalt de nadere inhoud van de universele dienstverlening;<BR>4°   geïntegreerde dienstverlening: het geheel van afgestemde dienstverlening die   door de partijen die diensten aanbieden in de werkwinkels wordt aangeboden en   die, wat de dienstverlening aangeboden door de VDAB betreft, in elk geval de   universele dienstverlening omvat;<BR>5° dienstenwerkgelegenheid: de   werkgelegenheid die bijdraagt tot het vervullen van nog niet ingevulde   maatschappelijke behoeften die betrekking kunnen hebben op zowel individuele,   gezinsgebonden als collectieve aangelegenheden;<BR>6° werkwinkel: een vlot   bereikbaar en toegankelijk fysisch loket dat wordt ingericht door de in artikel   20, § 2, bedoelde partijen en tot taak heeft, enerzijds, het verzorgen van de   geïntegreerde dienstverlening en, anderzijds, het verschaffen aan alle   rechtsonderhorigen van de basisinformatie inzake dienstenwerkgelegenheid;<BR>7°   arbeidsbemiddeling: de activiteiten die erop gericht zijn werkzoekenden en   werknemers bij te staan bij het zoeken van een nieuwe tewerkstelling of   werkgevers bij het zoeken van werkzoekenden of werknemers;<BR>8° traject: een   geplande, efficiënte en flexibele aaneenschakeling van verschillende stappen in   een logische volgorde met als doel de kansen op duurzame werkgelegenheid te   verhogen;<BR>9° statuut van de werkzoekende: het geheel van de bepalingen inzake   de rechten en plichten van de werkzoekende;<BR>10° doelgroepwerknemer : de   persoon, vermeld in artikel 3, 3°, van het decreet van 12 juli 2013 betreffende   maatwerk bij collectieve inschakeling;<BR>11° verplicht ingeschreven   werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het   verkrijgen van een werkloosheidsuitkering of een   inschakelingsuitkering.<BR><BR>De Vlaamse Regering bepaalt de criteria en de   procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een   arbeidshandicap heeft.
+In dit decreet wordt verstaan onder:<br>
+1° het decreet van 8 mei 2002: het decreet houdende evenredige participatie op de arbeidsmarkt van 8 mei 2002;<br>
+2° het kaderdecreet: het Kaderdecreet Bestuurlijk Beleid van 18 juli 2003;<br>
+3° universele dienstverlening : het geheel van basisdiensten en -voorzieningen inzake werk, opleiding en loopbaanontwikkeling, die gratis door de VDAB worden gewaarborgd. Die basisdiensten en -voorzieningen omvatten voor werkzoekenden ten minste de inschrijving en herinschrijving, de bekendmaking van vacatures, het verstrekken van informatie over werk, opleiding en loopbaanontwikkeling, de beroepskeuzevoorlichting, de beroepsvoorkeur-, geschiktheids- en kennistesten, de kosteloze arbeidsbemiddeling, de trajectbepaling en de trajectverwijzing, en voor de werkgevers, de registratie van vacatures, de steun bij de omschrijving van vacatures, het verstrekken van informatie over werk en opleiding, de toeleiding van werkzoekenden en het accountmanagement, en voor elk individu het aanbod van een elektronisch platform waarop elk individu informatie over zijn competenties kan beheren in functie van de loopbaan en perspectieven op de arbeidsmarkt. De Vlaamse Regering bepaalt de nadere inhoud van de universele dienstverlening;<br>
+4° geïntegreerde dienstverlening: het geheel van afgestemde dienstverlening die door de partijen die diensten aanbieden in de werkwinkels wordt aangeboden en die, wat de dienstverlening aangeboden door de VDAB betreft, in elk geval de universele dienstverlening omvat;<br>
+5° dienstenwerkgelegenheid: de werkgelegenheid die bijdraagt tot het vervullen van nog niet ingevulde maatschappelijke behoeften die betrekking kunnen hebben op zowel individuele, gezinsgebonden als collectieve aangelegenheden;<br>
+6° werkwinkel: een vlot bereikbaar en toegankelijk fysisch loket dat wordt ingericht door de in artikel 20, § 2, bedoelde partijen en tot taak heeft, enerzijds, het verzorgen van de geïntegreerde dienstverlening en, anderzijds, het verschaffen aan alle rechtsonderhorigen van de basisinformatie inzake dienstenwerkgelegenheid;<br>
+7° arbeidsbemiddeling: de activiteiten die erop gericht zijn werkzoekenden en werknemers bij te staan bij het zoeken van een nieuwe tewerkstelling of werkgevers bij het zoeken van werkzoekenden of werknemers;<br>
+8° traject: een geplande, efficiënte en flexibele aaneenschakeling van verschillende stappen in een logische volgorde met als doel de kansen op duurzame werkgelegenheid te verhogen;<br>
+9° statuut van de werkzoekende: het geheel van de bepalingen inzake de rechten en plichten van de werkzoekende;<br>
+10° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren en die ingeschreven is bij de VDAB;<br>
+11° verplicht ingeschreven werkzoekende: de werkzoekende die is ingeschreven bij de VDAB met het oog op het verkrijgen van een werkloosheidsuitkering of een inschakelingsuitkering.<br>
+12° persoon met een arbeidshandicap : een persoon met een langdurig en belangrijk probleem van deelname aan het arbeidsleven dat te wijten is aan het samenspel tussen functiestoornissen van mentale, psychische, lichamelijke of zintuiglijke aard, beperkingen bij het uitvoeren van activiteiten en persoonlijke en externe factoren. De Vlaamse Regering bepaalt de voorwaarden en de procedure aan de hand waarvan de VDAB bepaalt of een persoon al dan niet een arbeidshandicap heeft.
 
 ## HOOFDSTUK II OPRICHTING
 
@@ -211,6 +223,72 @@ De VDAB wordt bij het sluiten van de beheersovereenkomst vertegenwoordigd door d
 De VDAB beheert de middelen die de Vlaamse regering jaarlijks ter beschikking stelt voor de werkwinkels en staat in voor de verdeling daarvan onder elk van de werkwinkels.
 
 ## [AFDELING 3 BEPALINGEN OVER HET ELEKTRONISCHE PLATFORM (ing. decr. 23 november 2012, art. 5)]
+
+### ART. 22/1.
+
+Voor de toepassing van deze afdeling wordt verstaan onder individu : elke persoon die zich op, naar en van de arbeidsmarkt wil bewegen.
+
+### ART. 22/2.
+
+In het kader van zijn taken van universele dienstverlening beheert de VDAB een elektronisch platform waarop elk individu relevante gegevens over zijn opleidingen, ervaringen, competenties, aspiraties, interesses en loopbaan in een persoonlijk bestand kan verwerken en van daaruit nieuwe ontwikkelings- en loopbaanacties kan ondernemen en de resultaten ervan opslaan.<br>
+<br>
+Elk individu heeft de keuze om al dan niet een persoonlijk bestand op het elektronische platform aan te leggen.<br>
+<br>
+Dienstverleners, met inbegrip van de VDAB, kunnen om bepaalde diensten inzake arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling te verstrekken, de betrokkene opleggen om een persoonlijk bestand aan te maken. De betrokkene kan in dat geval het aangemaakte bestand laten verwijderen zodra het voor de dienstverstrekking niet meer nodig is.<br>
+<br>
+In het derde lid wordt onder dienstverleners verstaan : alle publieke of private organisaties of personen die activiteiten aanbieden op het vlak van beroepskeuzevoorlichting, competentieontwikkeling, trajectbegeleiding, loopbaanbegeleiding, arbeidsbemiddeling of erkenning van verworven competenties.
+
+### ART. 22/3.
+
+Het elektronische platform heeft in het bijzonder tot doel :<br>
+1° elk individu te helpen bij het verwerven van inzicht in de loopbaan als basis van zelfsturing;<br>
+2° elk individu ondersteuning te bieden bij de competentieontwikkeling in functie van de loopbaan;<br>
+3° herkenning en erkenning van competenties door werkgevers en overheden te bevorderen in functie van de loopbaan en perspectieven op de arbeidsmarkt;<br>
+4° ondersteuning te bieden aan de VDAB bij de uitvoering van zijn taken van universele dienstverlening.<br>
+<br>
+Elke werkzoekende heeft ook recht op een basisdossier, waarin de VDAB de gegevens die relevant zijn voor de dienstverlening, uit het persoonlijke bestand kan overnemen. De Vlaamse Regering bepaalt welke gegevens uit het persoonlijk bestand in het basisdossier overgenomen worden.
+
+### ART. 22/4.
+
+De volgende gegevens worden opgenomen in het persoonlijke bestand :<br>
+1° gevalideerde gegevens zoals identificatie- en contactgegevens, diploma's, ervaringsbewijzen, certificaten, testresultaten, competentiebalansen, beroepsverleden;<br>
+2° niet-gevalideerde gegevens, zoals beoordelingen, aanbevelingen en verslagen;<br>
+3° alle mogelijke gegevens die door de betrokkene zelf worden ingevoerd en die deel uitmaken van het curriculum vitae of die relevant zijn voor de loopbaan.
+
+### ART. 22/5.
+
+In het persoonlijke bestand op het elektronische platform kunnen gegevens opgenomen worden door :<br>
+1° het individu zelf;<br>
+2° de VDAB of derden waarmee de VDAB een overeenkomst heeft gesloten voor zover die gegevens betrekking hebben op arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling.<br>
+<br>
+Zodra het individu een persoonlijk bestand aanlegt, voert de VDAB daarin een beperkte reeks van gevalideerde gegevens in, waaronder inzonderheid :<br>
+1° relevante identificatiegegevens, vermeld in artikel 3 van de wet van 8 augustus 1983 tot regeling van een Rijksregister van natuurlijke personen en de registers van de Kruispuntbank van de Sociale Zekerheid;<br>
+2° gegevens over erkende kwalificaties in de zin van artikel 2, 8°, van het decreet van 30 april 2009 betreffende de kwalificatiestructuur;<br>
+3° gegevens over de aanvang en het einde, de naam van de werkgever, de functie en de activiteitssector van elke periode van tewerkstelling waarvoor aangifte werd gedaan in het kader van de sociale zekerheid voor werknemers of zelfstandigen.
+
+### ART. 22/6.
+
+Gegevens worden in het persoonlijke bestand opgenomen door de betrokkene zelf of door overdracht van of verwijzing naar de gegevens bij de instantie die de gegevens oorspronkelijk bij de betrokkene heeft verzameld.<br>
+<br>
+Als de gegevens al door een instantie werden verzameld, kunnen ze niet opnieuw bij de betrokkene worden opgevraagd.
+
+### ART. 22/7.
+
+Het persoonlijke bestand is alleen toegankelijk :<br>
+1° voor het individu op wie het bestand betrekking heeft;<br>
+2° onder bij besluit van de Vlaamse Regering bepaalde voorwaarden voor de VDAB in het kader van zijn universele dienstverlening;<br>
+3° onder bij besluit van de Vlaamse Regering bepaalde voorwaarden voor de VDAB of voor derden die op verzoek van het individu een dienst leveren op het vlak van arbeidsbemiddeling, trajectbegeleiding, loopbaanbegeleiding of competentieontwikkeling;<br>
+4° voor de VDAB als de toegang noodzakelijk is voor het beheer van het elektronische platform.<br>
+<br>
+De Vlaamse Regering bepaalt de nadere voorwaarden voor de toegang en het gebruik van het persoonlijke bestand.
+
+### ART. 22/8.
+
+De VDAB neemt als verantwoordelijke voor de verwerking de nodige maatregelen voor een correcte toepassing van de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens door hemzelf, door derden en door het betrokken individu.
+
+### ART. 22/9.
+
+De VDAB neemt de nodige maatregelen om een scheiding te waarborgen tussen de toegang en het gebruik van het persoonlijke bestand door zijn aangestelden, in het kader van zijn dienstverlening op het vlak van trajectbegeleiding, loopbaanbegeleiding en competentieontwikkeling enerzijds en bij zijn universele dienstverlening en als beheerder van het elektronische platform anderzijds.
 
 ## [AFDELING 4 BEPALINGEN OVER ELEKTRONISCHE COMMUNICATIE (ing. decr. 24 april 2015, art. 35, I:1 januari 2016)]
 
