@@ -2,16 +2,16 @@
   "codex_id": 1008444,
   "title": "Besluit van de Vlaamse Regering van 2001-07-13 houdende de aanduiding van de maritieme toegangswegen en de bestanddelen van de haveninfrastructuur",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008444/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "5074a486657cd6209ae0cf42ec6590f29f1dd62ecfb02cf973d0f9910743aae1",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1008444/VolledigDocument?datum=2016-07-04",
+  "source_sha256": "e08fca962c460e5401c69cf16058c3be1cf7530a7a07bf3682db0017ea1b2e3a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1008444&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-07-04",
   "made": "2001-07-13",
   "gazette": "2001-10-31",
   "numac": 2001036230,
   "document_start": "2001-10-31",
   "document_end": "2016-07-04",
-  "in_force": "2006-06-01",
+  "in_force": "2016-07-04",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-04; future article versions excluded; article text as the API gives it"
 }
