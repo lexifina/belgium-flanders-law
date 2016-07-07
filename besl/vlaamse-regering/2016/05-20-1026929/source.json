@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026929,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-20 tot wijziging van het besluit van de Vlaamse Regering van 1 juni 1995 houdende algemene en sectorale bepalingen inzake milieuhygiëne, wat betreft de wijziging van de achtergrondniveaus, drempelwaarden en milieukwantiteitscriteria van bijlage 2.4.1",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026929/VolledigDocument?datum=2016-07-07",
+  "source_sha256": "407820aa8d43327ea3b0f549e54f07a2d52a4db0cf695cc0d6c685df4c5c4bfb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026929&param=informatie",
+  "as_of": "2016-07-07",
+  "made": "2016-05-20",
+  "gazette": "2016-06-27",
+  "numac": 2016035906,
+  "document_start": "2016-07-07",
+  "document_end": null,
+  "in_force": "2016-07-07",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-07-07; oldest version available; future article versions excluded; article text as the API gives it"
+}
