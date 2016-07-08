@@ -162,738 +162,433 @@ Vermits op heden de nadruk ligt op klein- of middenschalige installaties, is de 
 
 ### BIJLAGE
 
-Bijlage 1 : Positieve lijst<br>
+<p>Bijlage 1: Positieve lijst<br>
+Voorafgaande opmerkingen:<br>
+1. De afvalstoffen uit de positieve lijst kunnen alleen gebruikt worden als ze ook voldoen aan de vereisten inzake samenstelling zoals bepaald in bijlage 2.3.1.A en B van VLAREMA. De lijst houdt geen rekening met technische aspecten of biogasopbrengst. Om te beoordelen of een afvalstof effectief geschikt is voor gebruik in een bepaalde mestbehandelings- of vergistingsinstallatie, moeten ook die aspecten in aanmerking genomen worden.<br>
+2. Het gebruik van de afvalstof moet ook toegestaan zijn op basis van de geldende milieuvergunning van de ontvangende installatie.<br>
+3. Binnen een Eural-code mag enkel de fractie die effectief vergistbaar of composteerbaar is, worden gebruikt.<br>
 <br>
-Er worden drie types co-substraten onderscheiden :<br>
-1/ organisch materiaal dat voortkomt uit de landbouwsector;<br>
-2/ energieteelten en<br>
-3/ bioafval.<br>
-<br>
-Resten uit de landbouwsector en energieteelten mogen zonder verdere regelgeving als co-substraat gebruikt worden en tevens mag het eindproduct op het land worden toegepast.<br>
-<br>
-Indien er een co-substraat wordt gebruikt dat in de categorie bioafval valt dan dient er aan speciale wetgeving (BioAbfalle Verordnung, BioAbfV) voldaan te worden. De BioAbfV bevat een lijst met stoffen die geschikt zijn voor gebruik in de landbouw.<br>
-<br>
-Deze lijst omvat onder andere residuen van graanverwerking, groente- en fruitafval van markten, resten van de voedselverwerkende industrie, over datum voedsel, resten van zetmeelproductie en organische resten van de productie van alcoholische dranken, frisdrank en vruchtensap.<br>
-<br>
-Er zijn geen grenzen gesteld wat betreft de mengverhouding van mest en organische afvalstromen.<br>
-&nbsp;
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse">
+Er worden drie types cosubstraten onderscheiden:<br>
+1. Energieteelten<br>
+2. organische afvalstoffen uit de onderstaande tabel<br>
+Herinnering: alle producten die afkomstig zijn van dierlijke bijproducten, moeten gehygiëniseerd worden conform de reglementeringen 1069/2009 en 142/2011 betreffende dierlijke bijproducten.<br>
+&nbsp;</p>
+
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:59.4pt">
-			<p>Eural code</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:401.2pt">
-			<p>Omschrijving</p>
-			</td>
+			<td>Eural-<br>
+			code</td>
+			<td>Omschrijving</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>AFVAL VAN LANDBOUW, TUINBOUW, AQUACULTUUR, BOSBOUW, JACHT EN VISSERIJ EN DE VOEDINGSBEREIDING EN –VERWERKING</p>
-			</td>
+			<td>02</td>
+			<td>AFVAL VAN LANDBOUW, TUINBOUW, AQUACULTUUR, BOSBOUW, JACHT EN VISSERIJ EN DE VOEDINGSBEREIDING EN -VERWERKING</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 01</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij en de voedingsbereiding en –verwerking</p>
-			</td>
+			<td>0201</td>
+			<td>Afval van landbouw, tuinbouw, aquacultuur, bosbouw, jacht en visserij</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 01 03</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van plantaardige weefsels</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- kaf, stof van kaf en koren</p>
-
-			<p>- resten van voedermiddelen</p>
-			</td>
+			<td>020101</td>
+			<td>Slib van wassen en schoonmaken</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 01 06</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Dierlijke feces, urine en mest (inclusief gebruikt stro), afvalwater, gescheiden ingezameld en elders verwerkt</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- pluimveemest</p>
-
-			<p>- varkens en rundveemest</p>
-
-			<p>- mest</p>
-
-			<p>- oud stro</p>
-			</td>
+			<td>020102</td>
+			<td>Afval van dierlijke weefsels</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 01 07</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van de bosbouw</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- schors</p>
-
-			<p>- hout, houtresten</p>
-			</td>
+			<td>020103</td>
+			<td>Afval van plantaardige weefsels</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 01 99</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet elders genoemd afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- champost</p>
-			</td>
+			<td>020106</td>
+			<td>Dierlijke feces, urine en mest (inclusief gebruikt stro), afvalwater, gescheiden ingezameld en elders verwerkt</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 02</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de bereiding en verwerking van vlees, vis en ander voedsel van dierlijke oorsprong</p>
-			</td>
+			<td>020199</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 02 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van dierlijk weefsel</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- resten van haar en hoorns</p>
-			</td>
+			<td>0202</td>
+			<td>Afval van de bereiding en verwerking van vlees, vis en ander voedsel van dierlijke oorsprong</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 02 03</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Voor consumptie of verwerking ongeschikt materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- vetresten</p>
-			</td>
+			<td>020201</td>
+			<td>Slib van wassen en schoonmaken van vlees, vis en ander voedsel van dierlijke oorsprong</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 02 04</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Slib van afvalwaterbehandeling ter plaatse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- inhoud&nbsp; van vetafscheiders en flotatievetten</p>
-			</td>
+			<td>020202</td>
+			<td>Afval van dierlijk weefsel</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 02 99</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet elders genoemd afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- slib van de gelatineproductie</p>
-
-			<p>- gelatineresten (ponsen)</p>
-
-			<p>- pluimen</p>
-
-			<p>- maag- en darminhoud</p>
-			</td>
+			<td>020203</td>
+			<td>Voor consumptie of verwerking ongeschikt materiaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 03</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de bereiding en verwerking van fruit, groenten, granen, spijsolie, cacao, koffie, thee en tabak, de productie van conserven, de productie van gist en gistextract en de bereiding en fermentatie van melasse</p>
-			</td>
+			<td>020204</td>
+			<td>Slib van afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 03 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Slib van wassen, schoonmaken, centrifugeren en scheiden</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- slibvorming afval van voedingsmiddelen</p>
-
-			<p>- zetmeelslib</p>
-			</td>
+			<td>020299</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 03 04</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Voor consumptie of verwerking ongeschikt materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- over datum voedingsmiddelen</p>
-
-			<p>- resten bij de fabricatie van conserven</p>
-
-			<p>- verdorven genotsmiddelen</p>
-
-			<p>- tabak: stof, nerven en slib</p>
-
-			<p>- sigarettenresten</p>
-
-			<p>- resten uit de fabricatie van koffie, thee en cacao</p>
-
-			<p>- resten van koolzaad</p>
-			</td>
+			<td>0203</td>
+			<td>Afval van de bereiding en verwerking van fruit, groenten, granen, spijsolie, cacao, koffie, thee en tabak, de productie van conserven, de productie van gist en gistextract en de bereiding en fermentatie van melasse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 03 05</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Slib van de afvalwaterbehandeling ter plaatse</p>
-			</td>
+			<td>020301</td>
+			<td>Slib van wassen, schoonmaken, centrifugeren en scheiden</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 03 99</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet elders genoemd afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- slib van het fabriceren van eetbare vetten</p>
-
-			<p>- slib van het fabriceren van eetbare oliën</p>
-
-			<p>- ontoliede bleekaard</p>
-
-			<p>- kruidenresten</p>
-
-			<p>- melasseresten</p>
-
-			<p>- resten uit de productie van aardappel-, maïs- of rijstzetmeel</p>
-			</td>
+			<td>020303</td>
+			<td>Afval van oplosmiddelenextractie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 04</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de suikerverwerking</p>
-			</td>
+			<td>020304</td>
+			<td>Voor consumptie of verwerking ongeschikt materiaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 04 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afgekeurd calciumcarbonaat (= schuimaarde)</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- resten van carbonatie</p>
-			</td>
+			<td>020305</td>
+			<td>Slib van de afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 04 03</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Slib van de afvalwaterbehandeling ter plaatse</p>
-			</td>
+			<td>020399</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 05</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de zuivelindustrie</p>
-			</td>
+			<td>0204</td>
+			<td>Afval van de suikerverwerking</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 05 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Voor soncumptie of verwerking ongeschikt materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- verdorven levensmiddelen</p>
-			</td>
+			<td>020402</td>
+			<td>Afgekeurd calciumcarbonaat (= schuimaarde)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 05 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Slib van de afvalwaterbehandeling ter plaatse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>020403</td>
+			<td>Slib van de afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 05 99</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet elders genoemd afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- wei</p>
-			</td>
+			<td>0204 99</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 06</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van bakkerijen en de banketbakkersindustrie</p>
-			</td>
+			<td>0205</td>
+			<td>Afval van de zuivelindustrie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 06 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Voor consumptie of verwerking ongeschikt materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- verdorven levensmiddelen</p>
-
-			<p>- deegafval</p>
-			</td>
+			<td>020501</td>
+			<td>Voor consumptie of verwerking ongeschikt materiaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 06 03</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Slib van de afvalwaterbehandeling ter plaatse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>020502</td>
+			<td>Slib van de afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de productie van alcoholische en niet-alcoholische dranken (exclusief koffie, thee en cacao)</p>
-			</td>
+			<td>020599</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van wassen, schoonmaken en mechanische bewerking van de grondstoffen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- gebruikte filters- en absorptiematerialen (keizelgoer), actieve grond, actieve kool</p>
-			</td>
+			<td>0206</td>
+			<td>Afval van bakkerijen en de banketbakkersindustrie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van de destillatie van alcoholische dranken</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- fruit-, graan- en aardappelresten</p>
-
-			<p>- afval van destillatie (alcohol destillatie)</p>
-			</td>
+			<td>020601</td>
+			<td>Voor consumptie of verwerking ongeschikt materiaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07 04</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Voor consumptie of verwerking ongeschikt materiaal</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>020603</td>
+			<td>Slib van de afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07 05</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Slib van de afvalwaterbehandeling ter plaatse</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>020699</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>02 07 99</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet elders genoemd afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- draf, kiemen en stof van mout</p>
-
-			<p>- draf van hop</p>
-
-			<p>- slib van brouwerijen</p>
-
-			<p>- slib van wijnbereiding</p>
-
-			<p>- droesem en moer van wijn</p>
-
-			<p>- gist en dergelijke</p>
-			</td>
+			<td>0207</td>
+			<td>Afval van de productie van alcoholische en niet-alcoholische dranken (exclusief koffie, thee en cacao)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>AFVAL VAN DE HOUTVERWERKING EN DE PRODUCTIE VAN PANELEN EN MEUBELEN ALSMEDE PULP, PAPIER EN KARTON</p>
-			</td>
+			<td>020701</td>
+			<td>Afval van wassen, schoonmaken en mechanische bewerking van de grondstoffen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 01</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de houtverwerking en de productie van panelen en meubelen</p>
-			</td>
+			<td>020702</td>
+			<td>Afval van de destillatie van alcoholische dranken</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 01 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Schors- en kurkafval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- schors</p>
-			</td>
+			<td>020704</td>
+			<td>Voor consumptie of verwerking ongeschikt materiaal</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 01 04</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Zaagsel, schaafsel, spaanders, hout, spaanplaat en fineer die gevaarlijke stoffen bevatten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- zaagsel en schaafsel</p>
-
-			<p>- houtwol</p>
-			</td>
+			<td>020705</td>
+			<td>Slib van de afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 01 05</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet onder 03 01 04 vallend zaagsel, schaafsel, spaanders, hout, spaanplaat en fineer</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- zaagsel en schaafsel</p>
-
-			<p>- houtwol</p>
-			</td>
+			<td>020799</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 03</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van de productie en verwerking van pulp, papier en karton</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>03</td>
+			<td>AFVAL VAN DE HOUTVERWERKING EN DE PRODUCTIE VAN PANELEN EN MEUBELEN ALSMEDE PULP, PAPIER EN KARTON</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>03 03 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Schors- en kurkafval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- schors</p>
-			</td>
+			<td>0301</td>
+			<td>Afval van de houtverwerking en de productie van panelen en meubelen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>04</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>AFVAL VAN DE LEER-, BONT- EN TEXTIELINDUSTRIE</p>
-			</td>
+			<td>030105</td>
+			<td>Niet onder 03 01 04 vallend zaagsel, schaafsel, spaanders, hout, spaanplaat en fineer</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>04 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van de textielindustrie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>0303</td>
+			<td>Afval van de productie en verwerking van pulp, papier en karton</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>04 02 21</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Afval van onverwerkte textielvezels</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- cellulose vezelafval</p>
-
-			<p>- afval van plantweefsel</p>
-
-			<p>- wolafval</p>
-			</td>
+			<td>030301</td>
+			<td>Schors- en kurkafval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>07</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>AFVAL VAN ORGANISCHE CHEMISCHE PROCESSEN</p>
-			</td>
+			<td>030305</td>
+			<td>Onthardingsslib</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>07 05</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van BFLG van farmaceutische producten</p>
-			</td>
+			<td>030310</td>
+			<td>Onbruikbare vezels en door mechanische afscheiding verkregen vezel-, vulstof- en coatingslib</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>07 05 14</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Niet onder 07 05 13 vallende vaste afvalstoffen</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- droesem van geneeskundige planten</p>
-
-			<p>- mycelium</p>
-
-			<p>- resten van schimmelsubstraat</p>
-
-			<p>- afval van eiwitten</p>
-			</td>
+			<td>030311</td>
+			<td>Slib van afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>19</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>AFVAL VAN INSTALLATIES VOOR AFVALBEHEER, OFF-SITE WATERZUIVERINGSINSTALLATIES EN DE BEREIDING VAN VOOR MENSELIJKE CONSUMPTIE BESTEMD WATER EN WATER VOOR INDUSTRIEEL GEBRUIK</p>
-			</td>
+			<td>030399</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>19 09</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Afval van de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik</p>
-			</td>
+			<td>04</td>
+			<td>AFVAL VAN DE LEER-, BONT- EN TEXTIELINDUSTRIE</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>19 09 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Vast afval van primaire filtratie en roostergoed</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- resten van het afdreggen, maaien en harken</p>
-			</td>
+			<td>0402</td>
+			<td>Afval van de textielindustrie</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>19 09 03</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Onthardingsslib</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- slib van waterontharding</p>
-			</td>
+			<td>040221</td>
+			<td>Afval van onverwerkte textielvezels</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>STEDELIJK AFVAL (HUISHOUDELIJK AFVAL EN SOORTGELIJK BEDRIJFSAFVAL, INDUSTRIEEL AFVAL EN AFVAL VAN INSTELLINGEN) INCLUSIEF GESCHEIDEN INGEZAMELDE FRACTIES</p>
-			</td>
+			<td>07</td>
+			<td>AFVAL VAN ORGANISCHE CHEMISCHE PROCESSEN</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 01</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Gescheiden ingezamelde fracties (exclusief 15.01)</p>
-			</td>
+			<td>0701</td>
+			<td>Afval van bereiding, formulering, levering en gebruik (BFLG) van organische basischemicaliën</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 01 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Papier en karton</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- papierresten</p>
-			</td>
+			<td>070101</td>
+			<td>Waterige wasvloeistoffen en moederlogen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 01 08</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Biologisch afbreekbaar keuken- en kantineafval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- keuken- en restaurantafval</p>
-			</td>
+			<td>070112</td>
+			<td>Niet onder 07 01 11 vallend slib van afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 01 25</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Spijsolie</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>&nbsp;</p>
-			</td>
+			<td>070199</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 02</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Tuin- en plantsoenafval (inclusief afval van begraafplaatsen)</p>
-			</td>
+			<td>0702</td>
+			<td>Afval van BFLG van kunststoffen, synthetische rubber en kunstvezels</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 02 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Biologisch afbreekbaar afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- tuin- en parkafval, afval voorkomende uit het onderhoud van tuinen, resten bij het ontginnen van kleine bossen, drijvende plantendelen</p>
-			</td>
+			<td>070212</td>
+			<td>Niet onder 07 02 11 vallend slib van afvalwaterbehandeling ter plaatse</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 03</p>
-			</td>
-			<td colspan="2" style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:401.2pt">
-			<p>Overig stedelijk afval</p>
-			</td>
+			<td>070213</td>
+			<td>Kunststofafval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 03 01</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Gemengd stedelijk afval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- huisafval (afzonderlijk afgehaald bioafval)</p>
-			</td>
+			<td>0703</td>
+			<td>Afval van BFLG van organische kleurstoffen en pigmenten (exclusief 06 11)</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>20 03 02</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>Marktafval</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- marktafval</p>
-			</td>
+			<td>070313</td>
+			<td>Slib van afvalwaterbehandeling ter plaatse dat geen gevaarlijke stoffen bevat</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- veengrond en heelaarde</p>
-			</td>
+			<td>0705</td>
+			<td>Afval van BFLG van farmaceutische producten</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- biologisch afbreekbare producten uit hernieuwbare grondstoffen evenals afval uit het be- en verwerkingsproces</p>
-			</td>
+			<td>070514</td>
+			<td>Niet onder 07 05 13 vallende vaste afvalstoffen</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- eierschalen</p>
-			</td>
+			<td>070599</td>
+			<td>Niet elders genoemd afval</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:59.4pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:189pt">
-			<p>*</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:212.2pt">
-			<p>- kalk</p>
-
-			<p>- bentoniet</p>
-
-			<p>- stof en poeder van gesteente, zand</p>
-
-			<p>- klei</p>
-
-			<p>&nbsp;</p>
-			</td>
+			<td>0706</td>
+			<td>Afval van BFLG van vetten, smeermiddelen, zepen, detergenten, desinfecterende middelen en cosmetische producten</td>
+		</tr>
+		<tr>
+			<td>070612</td>
+			<td>Slib van afvalwaterbehandeling ter plaatse dat geen gevaarlijke stoffen bevat</td>
+		</tr>
+		<tr>
+			<td>070699</td>
+			<td>Niet elders genoemd afval</td>
+		</tr>
+		<tr>
+			<td>0707</td>
+			<td>Afval van BFLG van fijnchemicaliën en niet elders genoemde chemische producten</td>
+		</tr>
+		<tr>
+			<td>070712</td>
+			<td>Slib van afvalwaterbehandeling ter plaatse dat geen gevaarlijke stoffen bevat</td>
+		</tr>
+		<tr>
+			<td>070799</td>
+			<td>Niet elders genoemd afval</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>VERPAKKINGSAFVAL; ABSORBENTIA, POETSDOEKEN, FILTERMATERIAAL EN BESCHERMENDE KLEDING (NIET ELDERS GENOEMD)</td>
+		</tr>
+		<tr>
+			<td>1501</td>
+			<td>Verpakking (inclusief gescheiden ingezameld stedelijk verpakkingsafval)</td>
+		</tr>
+		<tr>
+			<td>150102</td>
+			<td>Kunststofverpakking</td>
+		</tr>
+		<tr>
+			<td>1502</td>
+			<td>Absorbentia, filtermateriaal, poetsdoeken en beschermende kleding</td>
+		</tr>
+		<tr>
+			<td>150203</td>
+			<td>Niet onder 15 02 02 vallende (= niet met gevaarlijke stoffen verontreinigde) absorbentia, filtermateriaal, poetsdoeken en beschermende kleding</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>NIET ELDERS IN DE LIJST GENOEMD AFVAL</td>
+		</tr>
+		<tr>
+			<td>1610</td>
+			<td>Waterig vloeibaar afval dat bestemd is om elders te worden verwerkt</td>
+		</tr>
+		<tr>
+			<td>161002</td>
+			<td>Niet onder 16 10 01 vallend waterig vloeibaar afval</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>AFVAL VAN INSTALLATIES VOOR AFVALBEHEER, OFF-SITE WATERZUIVERINGS-INSTALLATIES EN DE BEREIDING VAN VOOR MENSELIJKE CONSUMPTIE BESTEMD WATER EN WATER VOOR INDUSTRIEEL GEBRUIK</td>
+		</tr>
+		<tr>
+			<td>1902</td>
+			<td>Afval van fysisch-chemische behandeling van afval (inclusief verwijdering van chroom of cyanide of neutralisatie)</td>
+		</tr>
+		<tr>
+			<td>190299</td>
+			<td>Niet elders genoemd afval</td>
+		</tr>
+		<tr>
+			<td>1905</td>
+			<td>Afval van de aerobe behandeling van vast afval</td>
+		</tr>
+		<tr>
+			<td>190599</td>
+			<td>Niet elders genoemd afval</td>
+		</tr>
+		<tr>
+			<td>1906</td>
+			<td>Afval van de aerobe behandeling van afval</td>
+		</tr>
+		<tr>
+			<td>190605</td>
+			<td>Vloeistof, verkregen bij de anaerobe behandeling van dierlijk en plantaardig afval</td>
+		</tr>
+		<tr>
+			<td>190606</td>
+			<td>Digestaat van de anaerobe behandeling van dierlijk en plantaardig afval</td>
+		</tr>
+		<tr>
+			<td>1908</td>
+			<td>Niet elders genoemd afval van afvalwaterzuivering</td>
+		</tr>
+		<tr>
+			<td>190809</td>
+			<td>Vet- en oliemengsels uit olie-waterscheiders die uitsluitend spijsolie en -vetten bevatten</td>
+		</tr>
+		<tr>
+			<td>1909</td>
+			<td>Afval van de bereiding van voor menselijke consumptie bestemd water en water voor industrieel gebruik</td>
+		</tr>
+		<tr>
+			<td>190902</td>
+			<td>Waterzuiveringsslib</td>
+		</tr>
+		<tr>
+			<td>190903</td>
+			<td>Onthardingsslib</td>
+		</tr>
+		<tr>
+			<td>1912</td>
+			<td>Afval van niet elders genoemde mechanische afvalverwerking (bijvoorbeeld sorteren, breken, verdichten, palletiseren)</td>
+		</tr>
+		<tr>
+			<td>191212</td>
+			<td>Overig, niet onder 19 12 11 vallend afval (inclusief mengsels van materialen) van mechanische afvalverwerking</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>STEDELIJK AFVAL (HUISHOUDELIJK AFVAL EN SOORTGELIJK BEDRIJFSAFVAL, INDUSTRIEEL AFVAL EN AFVAL VAN INSTELLINGEN) INCLUSIEF GESCHEIDEN INGEZAMELDE FRACTIES</td>
+		</tr>
+		<tr>
+			<td>2001</td>
+			<td>Gescheiden ingezamelde fracties (exclusief 15 01)</td>
+		</tr>
+		<tr>
+			<td>200108</td>
+			<td>Biologisch afbreekbaar keuken- en kantineafval</td>
+		</tr>
+		<tr>
+			<td>200125</td>
+			<td>Spijsolie</td>
+		</tr>
+		<tr>
+			<td>200139</td>
+			<td>Kunststoffen</td>
 		</tr>
 	</tbody>
 </table>
-
-<p>&nbsp;</p>
+<br>
+3. Andere grondstoffen uit de volgende lijst<br>
+&nbsp;
+<table border="1">
+	<tbody>
+		<tr>
+			<td>Veengrond</td>
+		</tr>
+		<tr>
+			<td>Ijzerslib met grondstofverklaring</td>
+		</tr>
+		<tr>
+			<td>Kalk; bentoniet; stof en poeder van gesteente, zand; klei</td>
+		</tr>
+		<tr>
+			<td>Natriumacetaat (Bio-Aid)</td>
+		</tr>
+		<tr>
+			<td>Natriumbicarbonaat</td>
+		</tr>
+		<tr>
+			<td>Protamylasse</td>
+		</tr>
+	</tbody>
+</table>

@@ -2,16 +2,16 @@
   "codex_id": 1015076,
   "title": "Omzendbrief van 2006-05-19 RO/2006/01 betreffende het afwegingskader en de randvoorwaarden voor de inplanting van installaties voor mestbehandeling en vergisting",
   "type": "Omzendbrief",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015076/VolledigDocument?datum=2006-05-19",
-  "source_sha256": "d4581ea7e5eef8a349c3166c92d5d8e7f52958a484f7329ba3a5cb6d24a4c33c",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015076/VolledigDocument?datum=2016-07-08",
+  "source_sha256": "e5527e1a91a91bc4913d8a64ccd274520f9c7582acd663c44fee9eaf40371b0f",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015076&param=informatie",
-  "as_of": "2006-05-19",
+  "as_of": "2016-07-08",
   "made": "2006-05-19",
   "gazette": "2006-10-24",
   "numac": 2006036684,
   "document_start": "2006-05-19",
   "document_end": null,
-  "in_force": "2006-05-19",
+  "in_force": "2016-07-08",
   "article_versions": 2,
-  "record_form": "consolidated version as in force on 2006-05-19; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-08; future article versions excluded; article text as the API gives it"
 }
