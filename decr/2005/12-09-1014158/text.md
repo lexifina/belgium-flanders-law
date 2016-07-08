@@ -122,7 +122,13 @@ De provincieraad kan enkel een besluit nemen als de meerderheid van de zittinghe
 
 ### ART. 28.
 
-§ 1. De vergaderingen van de provincieraad zijn openbaar, behalve als:<br />1° het om aangelegenheden gaat die de persoonlijke levenssfeer raken. Zodra een dergelijk punt aan de orde is, beveelt de voorzitter de behandeling in besloten vergadering;<br />2° de provincieraad met twee derde van de aanwezige leden en op gemotiveerde wijze beslist tot behandeling in besloten vergadering, in het belang van de openbare orde of op grond van ernstige bezwaren tegen de openbaarheid.<br /><br />De vergaderingen over het organogram, de personeelsformatie, de rechtspositieregeling, het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening zijn in elk geval openbaar.<br /><br />§ 2. De besloten vergadering kan enkel plaatsvinden na de openbare vergadering, uitgezonderd in tuchtzaken. Als tijdens de openbare vergadering blijkt dat de behandeling van een punt in besloten vergadering moet worden voortgezet, kan de openbare vergadering, enkel met dit doel, worden onderbroken. Als tijdens de besloten vergadering blijkt dat de behandeling van een punt in openbare vergadering moet worden behandeld, wordt dat punt opgenomen op de agenda van de eerstvolgende provincieraad. In geval van dringende noodzakelijkheid van het punt kan de besloten vergadering, enkel met dat doel, worden onderbroken.
+§ 1. De vergaderingen van de provincieraad zijn openbaar, behalve als:<br>
+1° het om aangelegenheden gaat die de persoonlijke levenssfeer raken. Zodra een dergelijk punt aan de orde is, beveelt de voorzitter de behandeling in besloten vergadering;<br>
+2° de provincieraad met twee derde van de aanwezige leden en op gemotiveerde wijze beslist tot behandeling in besloten vergadering, in het belang van de openbare orde of op grond van ernstige bezwaren tegen de openbaarheid.<br>
+<br>
+De vergaderingen over&nbsp;het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening zijn in elk geval openbaar.<br>
+<br>
+§ 2. De besloten vergadering kan enkel plaatsvinden na de openbare vergadering, uitgezonderd in tuchtzaken. Als tijdens de openbare vergadering blijkt dat de behandeling van een punt in besloten vergadering moet worden voortgezet, kan de openbare vergadering, enkel met dit doel, worden onderbroken. Als tijdens de besloten vergadering blijkt dat de behandeling van een punt in openbare vergadering moet worden behandeld, wordt dat punt opgenomen op de agenda van de eerstvolgende provincieraad. In geval van dringende noodzakelijkheid van het punt kan de besloten vergadering, enkel met dat doel, worden onderbroken.
 
 ### ART. 29.
 
@@ -184,7 +190,38 @@ De provincieraad neemt een deontologische code aan.
 
 ### ART. 43.
 
-§ 1. Behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, derde lid, aan de provincieraad, kan de provincieraad bij reglement bepaalde bevoegdheden toevertrouwen aan de deputatie.<br /><br />§ 2. De volgende bevoegdheden kunnen niet aan de deputatie worden toevertrouwd :<br />1° de aan de provincieraad toegewezen bevoegdheden, vermeld in titel II, hoofdstuk I, afdelingen I en II;<br />2° het vaststellen van provinciale reglementen en het bepalen van straffen op de overtreding van die reglementen;<br />3° het vaststellen van het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening;<br />4° het vaststellen van het organogram, de aanduiding in dat organogram van de functies waaraan het lidmaatschap van het managementteam is gekoppeld, de personeelsformatie en de rechtspositieregeling;<br />5° het oprichten van extern verzelfstandigde agentschappen en het beslissen tot oprichting van, deelname aan of vertegenwoordiging in instellingen, verenigingen en ondernemingen;<br />6° het goedkeuren van beheersovereenkomsten en samenwerkingsovereenkomsten, als vermeld in artikelen 228 en 240;<br />7° het aanstellen en ontslaan van de provinciegriffier, de financieel beheerder en de ombudsman, alsook de sanctie- en tuchtbevoegdheid ten aanzien van die personeelsleden;<br />8° het goedkeuren van het algemene kader van het interne controlesysteem, als vermeld in artikel 96;<br />9° het vaststellen van wat onder het begrip 'dagelijks bestuur' moet worden verstaan;<br />10° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de provincieraad voorbehoudt;<br />11° het vaststellen van de wijze van gunning en het vaststellen van de voorwaarden van overheidsopdrachten, behalve als het gaat om één van de volgende opdrachten :<br />a) een opdracht die past binnen het begrip dagelijks bestuur als vermeld in punt 9°, waarvoor de deputatie bevoegd is;<br />b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br />12° het stellen van daden van beschikking met betrekking tot onroerende goederen, behoudens voor zover de verrichting nominatief in het vastgestelde budget is opgenomen of behoudens de bepaling van artikel 57, § 3, 8°, c);<br />13° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br />14° het inrichten van adviesraden en overlegstructuren;<br />15° het vaststellen van de provinciebelastingen en het vaststellen van de machtiging tot het heffen van de retributies en de voorwaarden ervan;<br />16° het vaststellen van een systeem van klachtenbehandeling;<br />17° het samenstellen van het bureau;<br />18° beslissingen overeenkomstig artikel 186;<br />19° de bevoegdheden, vermeld in artikel 78, § 2, eerste en tweede lid;<br />20° het aangaan van dadingen;<br />21° de bevoegdheden van de provincieraad, als vermeld in artikelen 153 en artikel 155, § 3;<br />22° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51;<br />23° het aanstellen en ontslaan van de leden van de raad van bestuur van een autonoom provinciebedrijf, de goedkeuring van de jaarrekening en het budget van een autonoom provinciebedrijf, de beslissing tot ontbinding en vereffening van een autonoom provinciebedrijf, en het aanstellen van de provinciale vertegenwoordigers in de algemene vergadering van een extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br />24° het vaststellen van wat onder het begrip dagelijks personeelsbeheer moet worden verstaan;<br />25° de bevoegdheid, als vermeld in artikel 218, § 2, eerste lid;<br />26° het nemen van besluiten waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een langere periode;<br />27° de bevoegdheden van de provincieraad als vermeld in artikel 47bis.
+§ 1. Behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, derde lid, aan de provincieraad, kan de provincieraad bij reglement bepaalde bevoegdheden toevertrouwen aan de deputatie.<br>
+<br>
+§ 2. De volgende bevoegdheden kunnen niet aan de deputatie worden toevertrouwd :<br>
+1° de aan de provincieraad toegewezen bevoegdheden, vermeld in titel II, hoofdstuk I, afdelingen I en II;<br>
+2° het vaststellen van provinciale reglementen andere dan over personeelsaangelegenheden&nbsp;en het bepalen van straffen op de overtreding van die reglementen;<br>
+3° het vaststellen van het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening;<br>
+4° ...<br>
+5° het oprichten van extern verzelfstandigde agentschappen en het beslissen tot oprichting van, deelname aan of vertegenwoordiging in instellingen, verenigingen en ondernemingen;<br>
+6° het goedkeuren van beheersovereenkomsten en samenwerkingsovereenkomsten, als vermeld in artikelen 228 en 240;<br>
+7° het aanstellen en ontslaan van de provinciegriffier, de financieel beheerder en de ombudsman, alsook de sanctie- en tuchtbevoegdheid ten aanzien van die personeelsleden;<br>
+8° het goedkeuren van het algemene kader van het interne controlesysteem, als vermeld in artikel 96;<br>
+9° het vaststellen van wat onder het begrip 'dagelijks bestuur' moet worden verstaan;<br>
+10° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de provincieraad voorbehoudt;<br>
+11° het vaststellen van de wijze van gunning en het vaststellen van de voorwaarden van overheidsopdrachten, behalve als het gaat om één van de volgende opdrachten :<br>
+a) een opdracht die past binnen het begrip dagelijks bestuur als vermeld in punt 9°, waarvoor de deputatie bevoegd is;<br>
+b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br>
+12° het stellen van daden van beschikking met betrekking tot onroerende goederen, behoudens voor zover de verrichting nominatief in het vastgestelde budget is opgenomen of behoudens de bepaling van artikel 57, § 3, 8°, c);<br>
+13° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br>
+14° het inrichten van adviesraden en overlegstructuren;<br>
+15° het vaststellen van de provinciebelastingen en het vaststellen van de machtiging tot het heffen van de retributies en de voorwaarden ervan;<br>
+16° het vaststellen van een systeem van klachtenbehandeling;<br>
+17° het samenstellen van het bureau;<br>
+18° beslissingen overeenkomstig artikel 186;<br>
+19° ...<br>
+20° het aangaan van andere dadingen, dan dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben;<br>
+21° de bevoegdheden van de provincieraad, als vermeld in artikelen 153 en artikel 155, § 3;<br>
+22° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51;<br>
+23° het aanstellen en ontslaan van de leden van de raad van bestuur van een autonoom provinciebedrijf, de goedkeuring van de jaarrekening en het budget van een autonoom provinciebedrijf, de beslissing tot ontbinding en vereffening van een autonoom provinciebedrijf, en het aanstellen van de provinciale vertegenwoordigers in de algemene vergadering van een extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br>
+24° ...<br>
+25° de bevoegdheid, als vermeld in artikel 218, § 2, eerste lid;<br>
+26° het nemen van besluiten waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een langere periode;<br>
+27° de bevoegdheden van de provincieraad als vermeld in artikel 47bis.
 
 ## HOOFDSTUK II De deputatie
 
@@ -252,11 +289,53 @@ De deputatie heeft dezelfde deontologische code als die welke is aangenomen voor
 
 ### ART. 57.
 
-§ 1. De deputatie bereidt de beraadslagingen en de besluiten van de provincieraad voor.<br /><br />Zij voert haar eigen beslissingen en die van de raad uit. Ze kan een van de gedeputeerden daarmee belasten. Ze kan eveneens één of meer gedeputeerden belasten met een opdracht en het onderzoek van een zaak, onder meer wat betreft het horen van betrokkenen bij een administratieve beroepsprocedure.<br /><br />Ze beslist over alle zaken die tot het dagelijks bestuur van de provincie behoren.<br /><br />§ 2. De deputatie oefent de bevoegdheden uit die eraan zijn toevertrouwd overeenkomstig artikel 43, § 1, of overeenkomstig andere wettelijke en decretale bepalingen.<br /><br />§ 3. De deputatie is bevoegd voor :<br />1° de daden van beheer over de provinciale inrichtingen en eigendommen, binnen de door de provincieraad desgevallend vastgestelde algemene regels;<br />2° het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel, onverminderd de bevoegdheid van de provincieraad overeenkomstig artikel 43, § 2, 7°, en artikel 92, uitgezonderd het derde lid, en de gevallen waarin die bevoegdheid door of krachtens de wet of het decreet aan de provincieraad is opgedragen;<br />3° het financieel beheer, onverminderd de bevoegdheden van de provincieraad;<br />4° het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten;<br />5° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als het gaat om een opdracht die past binnen het begrip dagelijks bestuur vermeld in artikel 43, § 2, 9°;<br />6° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als de opdracht nominatief in het vastgestelde budget is opgenomen en de provincieraad de wijze van gunning en de voorwaarden niet zelf heeft vastgesteld;<br />7° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de deputatie voorbehoudt;<br />8° het stellen van daden van beschikking :<br />a) met betrekking tot roerende goederen, met uitzondering van het aangaan van de dadingen;<br />b) met betrekking tot onroerende goederen, voor zover de verrichting nominatief in het vastgestelde budget is opgenomen, met uitzondering van het aangaan van de dadingen;<br />c) met betrekking tot verhuring, concessie, pacht, jacht- en visrechten van meer dan negen jaar, behoudens het vaststellen van de contractvoorwaarden waarvoor de provincieraad bevoegd blijft;<br />9° het vertegenwoordigen van de provincie in gerechtelijke en buitengerechtelijke gevallen en beslissingen over het in rechte optreden namens de provincie, met behoud van artikel 186;<br />10° het afsluiten van een afsprakennota als vermeld in artikel 84;<br />11° het nemen van besluiten :<br />a) voor het aangaan van leningen voor een periode langer dan één jaar;<br />b) waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een kortere of gelijke periode;<br />12° de vaste belegging van kapitalen voor een periode langer dan één jaar.<br /><br />§ 4. De deputatie is verantwoordelijk voor de zorg voor het provinciearchief waaronder de titels.<br /><br />§ 4bis. De deputatie houdt een volledig en geactualiseerd overzicht bij van :<br />1° alle extern verzelfstandigde agentschappen van de provincie, hun statuten en hun overeenkomsten met de provincie;<br />2° alle verenigingen, stichtingen en vennootschappen waarin de provincie deelneemt;<br />3° alle intergemeentelijke samenwerkingsverbanden waarvan de provincie deel uitmaakt, hun statuten en hun overeenkomsten met de provincie.<br /><br />Minstens eenmaal per jaar wordt de provincieraad in kennis gesteld van dit geactualiseerd overzicht met een toelichting over alle wijzigingen aan deze overzichtslijst die zich sinds de vorige toelichting hebben voorgedaan<br /><br />§ 5. Dit artikel doet geen afbreuk aan de bevoegdheden die overeenkomstig hoofdstuk III, afdeling II, aan de provinciegouverneur zijn toegekend.
+§ 1. De deputatie bereidt de beraadslagingen en de besluiten van de provincieraad voor.<br>
+<br>
+Zij voert haar eigen beslissingen en die van de raad uit. Ze kan een van de gedeputeerden daarmee belasten. Ze kan eveneens één of meer gedeputeerden belasten met een opdracht en het onderzoek van een zaak, onder meer wat betreft het horen van betrokkenen bij een administratieve beroepsprocedure.<br>
+<br>
+Ze beslist over alle zaken die tot het dagelijks bestuur van de provincie behoren.<br>
+<br>
+§ 2. De deputatie oefent de bevoegdheden uit die eraan zijn toevertrouwd overeenkomstig artikel 43, § 1, of overeenkomstig andere wettelijke en decretale bepalingen.<br>
+<br>
+§ 3. De deputatie is bevoegd voor :<br>
+1° de daden van beheer over de provinciale inrichtingen en eigendommen, binnen de door de provincieraad desgevallend vastgestelde algemene regels;<br>
+2° het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel, onverminderd de bevoegdheid van de provincieraad overeenkomstig artikel 43, § 2, 7°,&nbsp;en de gevallen waarin die bevoegdheid door of krachtens de wet of het decreet aan de provincieraad is opgedragen;<br>
+3° het financieel beheer, onverminderd de bevoegdheden van de provincieraad;<br>
+4° het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten;<br>
+5° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als het gaat om een opdracht die past binnen het begrip dagelijks bestuur vermeld in artikel 43, § 2, 9°;<br>
+6° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als de opdracht nominatief in het vastgestelde budget is opgenomen en de provincieraad de wijze van gunning en de voorwaarden niet zelf heeft vastgesteld;<br>
+7° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de deputatie voorbehoudt;<br>
+8° het stellen van daden van beschikking :<br>
+a) met betrekking tot roerende goederen, met uitzondering van het aangaan van de dadingen;<br>
+b) met betrekking tot onroerende goederen, voor zover de verrichting nominatief in het vastgestelde budget is opgenomen, met uitzondering van het aangaan van de dadingen;<br>
+c) met betrekking tot verhuring, concessie, pacht, jacht- en visrechten van meer dan negen jaar, behoudens het vaststellen van de contractvoorwaarden waarvoor de provincieraad bevoegd blijft;<br>
+9° het vertegenwoordigen van de provincie in gerechtelijke en buitengerechtelijke gevallen en beslissingen over het in rechte optreden namens de provincie, met behoud van artikel 186;<br>
+10° het afsluiten van een afsprakennota als vermeld in artikel 84;<br>
+11° het nemen van besluiten :<br>
+a) voor het aangaan van leningen voor een periode langer dan één jaar;<br>
+b) waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een kortere of gelijke periode;<br>
+12° de vaste belegging van kapitalen voor een periode langer dan één jaar.<br>
+<br>
+§ 4. De deputatie is verantwoordelijk voor de zorg voor het provinciearchief waaronder de titels.<br>
+<br>
+§ 4bis. De deputatie houdt een volledig en geactualiseerd overzicht bij van :<br>
+1° alle extern verzelfstandigde agentschappen van de provincie, hun statuten en hun overeenkomsten met de provincie;<br>
+2° alle verenigingen, stichtingen en vennootschappen waarin de provincie deelneemt;<br>
+3° alle intergemeentelijke samenwerkingsverbanden waarvan de provincie deel uitmaakt, hun statuten en hun overeenkomsten met de provincie.<br>
+<br>
+Minstens eenmaal per jaar wordt de provincieraad in kennis gesteld van dit geactualiseerd overzicht met een toelichting over alle wijzigingen aan deze overzichtslijst die zich sinds de vorige toelichting hebben voorgedaan<br>
+<br>
+§ 5. Dit artikel doet geen afbreuk aan de bevoegdheden die overeenkomstig hoofdstuk III, afdeling II, aan de provinciegouverneur zijn toegekend.
 
 ### ART. 58.
 
-Met behoud van de toepassing van artikel 155 en titel VII en behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, derde lid, aan de deputatie, kan de deputatie bij reglement de uitoefening van bepaalde bevoegdheden aan de provinciegriffier toevertrouwen.<br /><br />De bevoegdheden van de deputatie, vermeld in het vierde lid en in artikel 57, § 1, eerste zin, en de op basis van § 2, gedelegeerde bevoegdheden door de provincieraad met betrekking tot het aanwijzen, het ontslaan en de sanctie- en tuchtbevoegdheden van de personeelsleden, als vermeld in artikel 92, tweede lid, die andere functies vervullen waaraan het organogram het lidmaatschap van het managementteam verbindt, en de bevoegdheden, vermeld in artikel 57, § 3, 7°, 8°, b) en c), 9°, 10° en 11°, a), kunnen evenwel niet aan de provinciegriffier worden toevertrouwd. Hetzelfde geldt voor de bevoegdheden van de deputatie inzake financieel beheer, als vermeld in artikelen 151, 153, 155, § 2, eerste en tweede lid, en § 3, artikel 156, § 4, artikelen 157, 159, § 2, en artikel 164.<br /><br />Met behoud van de toepassing van artikel 155 oefent de provinciegriffier de overeenkomstig het eerste lid toevertrouwde bevoegdheden persoonlijk uit. De provinciegriffier kan de uitoefening van die gedelegeerde bevoegdheid toevertrouwen aan andere personeelsleden van de provincie. Een subdelegatie van de bevoegdheid tot het aanstellen en het ontslaan van het personeel, alsook de sanctie- en de tuchtbevoegdheid ten aanzien van het personeel, aan andere personeelsleden dan de provinciegriffier, is evenwel niet mogelijk.<br /><br />In afwijking van artikel 43 kan de deputatie in gevallen van dwingende en onvoorziene omstandigheden op eigen initiatief de bevoegdheden betreffende de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten, het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten uitoefenen. Die bevoegdheid is niet voor delegatie vatbaar.
+Met behoud van de toepassing van artikel 155 en titel VII en behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, derde lid, aan de deputatie, kan de deputatie bij reglement de uitoefening van bepaalde bevoegdheden aan de provinciegriffier toevertrouwen.<br>
+<br>
+De bevoegdheden van de deputatie, vermeld in het vierde lid en in artikel 57, § 1, eerste lid, en de op basis van artikel 57, § 2, gedelegeerde bevoegdheden door de provincieraad met betrekking tot het vaststellen van de rechtspositieregeling, het vaststellen van wat onder het begrip dagelijks personeelsbeheer moet worden verstaan, het aangaan van dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben, en de bevoegdheden, vermeld in artikel 57, § 3, 7°, 8°, b) en c), 9°, 10° en 11°, a), kunnen evenwel niet aan de provinciegriffier worden toevertrouwd.&nbsp;Hetzelfde geldt voor de bevoegdheden van de deputatie inzake financieel beheer, als vermeld in artikelen 151, 153, 155, § 2, eerste en tweede lid, en § 3, artikel 156, § 4, artikelen 157, 159, § 2, en artikel 164.<br>
+<br>
+Met behoud van de toepassing van artikel 155 oefent de provinciegriffier de overeenkomstig het eerste lid toevertrouwde bevoegdheden persoonlijk uit. Met uitzondering van de bevoegdheden vermeld in artikel 73 en 78, vierde lid, kan de provinciegriffier de uitoefening van de hem gedelegeerde bevoegdheid toevertrouwen aan andere personeelsleden van de provincie.<br>
+<br>
+In afwijking van artikel 43 kan de deputatie in gevallen van dwingende en onvoorziene omstandigheden op eigen initiatief de bevoegdheden betreffende de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten, het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten uitoefenen. Die bevoegdheid is niet voor delegatie vatbaar.
 
 ## HOOFDSTUK III De provinciegouverneur
 
@@ -370,11 +449,18 @@ Het is voor de provinciegriffier en de financieel beheerder verboden zelf of doo
 
 ### ART. 78.
 
-§ 1. De provincieraad regelt de vervanging van de provinciegriffier en de financieel beheerder.<br /><br />§ 2. De provincieraad kan een waarnemend provinciegriffier of een waarnemend financieel beheerder aanstellen om de provinciegriffier of de financieel beheerder bij zijn afwezigheid of verhindering te vervangen.<br /><br />In spoedeisende gevallen kan een waarnemend provinciegriffier of een waarnemend financieel beheerder door de deputatie worden aangesteld. De aanstelling vervalt als de provincieraad ze in de eerstvolgende vergadering niet bekrachtigt.<br /><br />In geval van gewettigde afwezigheid kunnen de provinciegriffier en de financieel beheerder, binnen drie dagen voorzien in hun vervanging en daartoe, voor een periode van maximaal zestig dagen, een door de provincieraad erkende waarnemer aanstellen. Die maatregel kan voor eenzelfde afwezigheid eenmaal worden verlengd.<br /><br />In de gevallen, vermeld in het tweede en het derde lid, hoeft de eed niet in openbare vergadering te worden afgelegd.<br /><br />§ 3. De provincieraad stelt in ieder geval een waarnemend provinciegriffier of waarnemend financieel beheerder aan, als de afwezigheid of de verhindering van de provinciegriffier of de financieel beheerder langer dan honderd twintig dagen duurt, of bij vacature van het ambt.
+De provincieraad regelt de vervanging van de provinciegriffier en de financieel beheerder bij hun afwezigheid of verhindering.<br>
+<br>
+Er wordt in elk geval in een waarneming van het ambt van provinciegriffier of financieel beheerder voorzien als de afwezigheid of verhindering van de provincie|Upgriffier of de financieel beheerder langer dan honderdtwintig dagen duurt of bij vacature van het ambt.<br>
+<br>
+De waarnemend provinciegriffier en de waarnemend financieel beheerder oefenen alle bevoegdheden uit die aan dat ambt verbonden zijn.<br>
+<br>
+De provincieraad kan de effectieve aanstelling van een waarnemend griffier of financieel beheerder toevertrouwen aan de deputatie en aan de functiehouder van het ambt.".<br>
+&nbsp;
 
 ### ART. 79.
 
-De waarnemend provinciegriffier en de waarnemend financieel beheerder moeten voldoen aan de voorwaarden, met uitzondering van het doorlopen van de selectieprocedure, voor de uitoefening van het ambt dat zij waarnemen. Van die regel kan alleen en slechts voor de duur, vermeld in artikel 80, worden afgeweken, als er bij de provincie geen personeelslid is dat aan alle voorwaarden voldoet. De waarnemend provinciegriffier en de waarnemend financieel beheerder oefenen alle bevoegdheden uit die aan dat ambt verbonden zijn.
+...
 
 ### ART. 80.
 
@@ -396,7 +482,24 @@ De provinciegriffier staat in voor de algemene leiding van de provinciale dienst
 
 ### ART. 84.
 
-§ 1. De provinciegriffier staat in voor de werking van de provinciale diensten inzake de voorbereiding, de uitvoering en de ambtelijke voorbereiding van de evaluatie van het beleid. De provinciegriffier volgt de onderrichtingen die hem worden gegeven door de provincieraad, de voorzitter van de provincieraad, de deputatie of de provinciegouverneur in zijn hoedanigheid van voorzitter van de deputatie, naar gelang van hun respectievelijke bevoegdheden, tenzij anders bepaald in de afsprakennota, vermeld in § 2.<br /><br />Hij staat in voor de interne controle op de werking van de provinciale diensten, overeenkomstig artikelen 95, 96 en 97.<br /><br />§ 2. Ten minste na iedere volledige vernieuwing van de provincieraad sluit de provinciegriffier mede namens het managementteam een afsprakennota met de deputatie over de wijze waarop de provinciegriffier en de overige leden van het managementteam met de deputatie samenwerken om de beleidsdoelstellingen te realiseren, en over de omgangsvormen tussen bestuur en administratie.<br /><br />In die afsprakennota wordt bepaald op welke wijze de provinciegriffier de bevoegdheden uitoefent die de deputatie overeenkomstig artikel 58, of overeenkomstig artikel 155, aan hem heeft gedelegeerd.<br /><br />§ 3. De provinciegriffier bereidt de zaken voor die aan de provincieraad, aan de provincieraadscommissies, en aan de deputatie worden voorgelegd.<br /><br />§ 4. De provinciegriffier zorgt in overleg met het managementteam voor het opstellen van het voorontwerp van:<br />1° het organogram;<br />2° de personeelsformatie;<br />3° de rechtspositieregeling van het personeel;<br />4° de strategische nota van het meerjarenplan en de herziening ervan;<br />5° de beleidsnota van het budget;<br />6° de verklarende nota van een budgetwijziging;<br />7° de verklarende nota van een interne kredietaanpassing.
+§ 1. De provinciegriffier staat in voor de werking van de provinciale diensten inzake de voorbereiding, de uitvoering en de ambtelijke voorbereiding van de evaluatie van het beleid. De provinciegriffier volgt de onderrichtingen die hem worden gegeven door de provincieraad, de voorzitter van de provincieraad, de deputatie of de provinciegouverneur in zijn hoedanigheid van voorzitter van de deputatie, naar gelang van hun respectievelijke bevoegdheden, tenzij anders bepaald in de afsprakennota, vermeld in § 2.<br>
+<br>
+Hij staat in voor de interne controle op de werking van de provinciale diensten, overeenkomstig artikelen 95, 96 en 97.<br>
+<br>
+§ 2. Ten minste na iedere volledige vernieuwing van de provincieraad sluit de provinciegriffier mede namens het managementteam een afsprakennota met de deputatie over de wijze waarop de provinciegriffier en de overige leden van het managementteam met de deputatie samenwerken om de beleidsdoelstellingen te realiseren, en over de omgangsvormen tussen bestuur en administratie.<br>
+<br>
+In die afsprakennota wordt bepaald op welke wijze de provinciegriffier de bevoegdheden uitoefent die de deputatie overeenkomstig artikel 58, of overeenkomstig artikel 155, aan hem heeft gedelegeerd.<br>
+<br>
+§ 3. De provinciegriffier bereidt de zaken voor die aan de provincieraad, aan de provincieraadscommissies, en aan de deputatie worden voorgelegd.<br>
+<br>
+§ 4. De provinciegriffier zorgt in overleg met het managementteam voor het opstellen van het voorontwerp van:<br>
+1° het organogram;<br>
+2° ...<br>
+3° de rechtspositieregeling van het personeel;<br>
+4° de strategische nota van het meerjarenplan en de herziening ervan;<br>
+5° de beleidsnota van het budget;<br>
+6° de verklarende nota van een budgetwijziging;<br>
+7° de verklarende nota van een interne kredietaanpassing.
 
 ### ART. 85.
 
@@ -412,7 +515,7 @@ De provinciegriffier oefent de bevoegdheden uit die overeenkomstig artikel 58 of
 
 ### ART. 88.
 
-De provinciegriffier kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan de leidinggevende personeelsleden , van wie de functies zijn aangegeven in het organogram.
+De provinciegriffier kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan andere personeelsleden.
 
 ## Onderafdeling III De financieel beheerder
 
@@ -432,7 +535,11 @@ De financieel beheerder oefent de taken uit die door of krachtens de wet of het 
 
 ### ART. 92.
 
-Er is in elke provincie een managementteam.<br /><br />Het managementteam bestaat uit de provinciegriffier, de financieel beheerder en, desgevallend, de personeelsleden die andere functies vervullen waaraan het organogram het lidmaatschap van het managementteam verbindt.<br /><br />De gedeputeerde met de hoogste rang, of een andere gedeputeerde aangeduid door de gedeputeerde met de hoogste rang, maakt met raadgevende stem deel uit van het managementteam.<br /><br />De provincieraad is bevoegd voor de aanstelling en het ontslag van de leden van het managementteam, vermeld in het tweede lid, en treedt ten aanzien van hen op als tuchtoverheid.
+Er is in elke provincie een managementteam.<br>
+<br>
+Het managementteam bestaat uit de provinciegriffier, de financieel beheerder en, desgevallend, de personeelsleden die andere functies vervullen waaraan het organogram het lidmaatschap van het managementteam verbindt.<br>
+<br>
+De gedeputeerde met de hoogste rang, of een andere gedeputeerde aangeduid door de gedeputeerde met de hoogste rang, maakt met raadgevende stem deel uit van het managementteam.
 
 ### ART. 93.
 
@@ -478,19 +585,38 @@ De provincieraad stelt de personeelsformatie vast. De personeelsformatie bevat d
 
 ### ART. 100.
 
-§ 1. Het personeel van de provincie bestaat uit personeelsleden in statutair dienstverband.<br /><br />§ 2. In afwijking van § 1 kunnen personeelsleden in contractueel verband in dienst worden genomen om:<br /><br />1° aan uitzonderlijke en tijdelijke personeelsbehoeften te voldoen, voor in de tijd beperkte acties, of voor een buitengewone toename van werk;<br /><br />2° personeelsleden te vervangen die hun betrekking niet of slechts deeltijds bekleden of die tijdens een periode afwezig zijn die zo lang duurt dat vervanging noodzakelijk is;<br /><br />3° aanvullende of specifieke opdrachten te vervullen;<br /><br />4° te voorzien in de personeelsbehoeften voor activiteiten die door een andere overheid gesubsidieerd worden;<br /><br />5° te voorzien in de personeelsbehoeften voor activiteiten die hoofdzakelijk verricht worden in mededinging met andere marktdeelnemers;<br /><br />6° te voorzien in uitvoering van taken die een bijzondere expertise vereisen.<br /><br />§ 3. Binnen de grenzen die de Vlaamse Regering bepaalt, kan de provincie personeel in contractueel verband in dienst nemen om te voorzien in de personeelsbehoeften van het kabinet van de provinciegouverneur of van de gedeputeerden, of van de fracties in de provincieraad. Die personeelsleden worden, naar gelang van het geval, kabinetsof fractiepersoneel genoemd.<br /><br />De Vlaamse Regering stelt nadere regels vast voor de aanwerving of terbeschikkingstelling van het kabinets- en fractiepersoneel.
+§ 1. Het personeel van de provincies kan in statutair of in contractueel dienstverband worden aangesteld.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Binnen de grenzen die de Vlaamse Regering bepaalt, kan de provincie personeel in contractueel verband in dienst nemen om te voorzien in de personeelsbehoeften van het kabinet van de provinciegouverneur of van de gedeputeerden, of van de fracties in de provincieraad. Die personeelsleden worden, naar gelang van het geval, kabinetsof fractiepersoneel genoemd.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de aanwerving of terbeschikkingstelling van het kabinets- en fractiepersoneel.
+
+### ART 100bis.
+
+Met behoud van de toepassing van artikel 224 en 240 en voor zover dat nader bepaald wordt in de rechtspositieregeling, kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden aan:<br>
+1° een andere overheid;<br>
+2° een vereniging zonder winstoogmerk in de zin van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, waarin de provincie niet deelneemt en waarvan de activiteit verband houdt met een provinciaal belang.<br>
+<br>
+De terbeschikkingstelling is tijdelijk en gebeurt op basis van een overeenkomst tussen de provincie en de overheid of de vereniging zonder winstoogmerk, waaraan het personeel ter beschikking gesteld wordt.<br>
+<br>
+De aanstellende overheid beslist, in overeenstemming met de rechtspositieregeling, over de individuele terbeschikkingstelling van het personeelslid en sluit de overeenkomst van terbeschikkingstelling af.<br>
+&nbsp;
 
 ## Afdeling II De rechtspositieregeling
 
 ### ART. 101.
 
-§ 1. De provincieraad stelt de rechtspositieregeling van het personeel vast.<br /><br />§ 2. De rechtspositieregeling voor het personeel in statutair dienstverband regelt minstens:<br /><br />1° de bezoldiging van de personeelsleden en de salarisschalen die van toepassing zijn, rekening houdend met onder meer de gestelde bekwaamheidsvereisten en functievereisten;<br /><br />2° de toekenning van toelagen en vergoedingen;<br /><br />3° de voorwaarden en procedures voor aanwerving en bevordering. Die procedures waarborgen de objectiviteit van de aanwervingen en bevorderingen en de gelijke behandeling van de kandidaten. Alle personeelsleden worden steeds op proef aangesteld;<br /><br />4° de bekendmaking van de vacatures en de proeftijd;<br /><br />5° de evaluatie, de wijze van aanwijzing van evaluatoren, de daarbijbehorende procedures, de periodiciteit en de rechtsgevolgen ervan, rekening houdend met de aard van de functie;<br /><br />6° de organisatie van de loopbaan van de personeelsleden en van de interne mobiliteit;<br /><br />7° de administratieve standen en de anciënniteit van de ambtenaren, alsook de dienstbeëindiging;<br /><br />8° de arbeidsduur, het verlof en de afwezigheden;<br /><br />9° de onverenigbaarheden, en de beperkingen en voorwaarden voor cumulatie van activiteiten in overheids- of in privé-dienst;<br /><br />10° de nadere regels betreffende het tuchtstelsel;<br /><br />11° de toepasselijkheid van de nieuwe regels ten aanzien van het statutair personeel dat al in dienst is van de provincie;.<br /><br />12° het verlies van de hoedanigheid van ambtenaar en de ambtsneerlegging.<br /><br />§ 3. Met uitzondering van 7°, 10°, 11° en 12°, is § 2 van overeenkomstige toepassing op de rechtspositie van de personeelsleden in contractueel verband.<br /><br />§ 4. De rechtspositieregeling kan in een mandaatstelsel voorzien.
+De provincieraad stelt de rechtspositieregeling van het personeel vast.
 
 ## Afdeling III [Eedaflegging van het personeel (verv. Decr. 3 juni 2016, art. 41, I: 8 juli 2016)]
 
 ### ART. 102.
 
-De deputatie is bevoegd voor de aanstelling en het ontslag van de personeelsleden, behalve in de gevallen waarin door of krachtens de wet of het decreet die bevoegdheid aan de provincieraad is opgedragen.<br /><br />De deputatie kan de uitoefening van die bevoegdheid toevertrouwen aan de provinciegriffier. In voorkomend geval kan de provinciegriffier die gedelegeerde bevoegdheid niet toevertrouwen aan andere personeelsleden van de provincie. <br /><br />Onverminderd artikel 75 leggen de personeelsleden van de provincie de volgende eed af in handen van een gedeputeerde aangeduid door de deputatie of de provinciegriffier: « Ik zweer de verplichtingen van mijn ambt trouw na te komen. » De weigering tot eedaflegging staat gelijk met verzaking van de aanstelling. Van de eedaflegging of de weigering ervan wordt er een proces-verbaal opgemaakt.<br /><br />De provinciegriffier kan zijn bevoegdheid verder delegeren aan een van de leden van het managementteam, vermeld in het artikel 92, tweede lid.
+Onverminderd artikel 75 leggen de personeelsleden van de provincie de volgende eed af in handen van een gedeputeerde aangeduid door de deputatie of de provinciegriffier: « Ik zweer de verplichtingen van mijn ambt trouw na te komen. » De weigering tot eedaflegging staat gelijk met verzaking van de aanstelling. Van de eedaflegging of de weigering ervan wordt er een proces-verbaal opgemaakt.<br>
+<br>
+De provinciegriffier kan zijn bevoegdheid verder delegeren aan een van de leden van het managementteam, vermeld in het artikel 92, tweede lid.
 
 ## Afdeling IV Deontologische rechten en plichten
 
@@ -522,21 +648,37 @@ De provincieraad stelt een deontologische code voor het provinciepersoneel vast.
 
 ### ART. 109.
 
-De evaluatie is de procedure waarbij een oordeel wordt geformuleerd over de manier waarop een personeelslid functioneert.
+...
 
 ### ART. 110.
 
-Onverminderd de nadere regeling van de gevolgen van de evaluatie in de rechtspositieregeling, neemt de provinciegriffier naar aanleiding van de evaluatie in voorkomend geval de passende maatregelen met het oog op het verbeteren van de wijze waarop het betrokken personeelslid functioneert.
+...
 
 ### ART. 111.
 
-De personeelsleden van de provincie worden geëvalueerd op ambtelijk niveau.<br /><br />De ombudsman wordt echter geëvalueerd door een bijzondere provincieraadscommissie, samengesteld overeenkomstig artikel 39, § 3. Die commissie wordt voorgezeten door de voorzitter van de provincieraad.<br /><br />De provinciegriffier en de financieel beheerder worden echter geëvalueerd door een evaluatiecomité, bestaande uit de deputatie en de voorzitter van de provincieraad. Die evaluatie vindt plaats op basis van een voorbereidend rapport, opgesteld door externe deskundigen in het personeelsbeleid. Het voorbereidend rapport wordt opgemaakt op basis van een evaluatiegesprek tussen de externe deskundigen en de functiehouder en op basis van een onderzoek over de wijze van functioneren van de functiehouder, waarbij de leden van het managementteam en de voorzitters van de deputatie en van de provincieraad betrokken worden. Het evaluatiecomité stemt over het evaluatieresultaat gunstig of ongunstig. Bij staking van stemmen is het evaluatieresultaat gunstig.
+De personeelsleden hebben recht op opvolging en feedback, al dan niet door middel van een evaluatie, over hun wijze van functioneren. De personeelsleden worden opgevolgd en, in voorkomend geval, geëvalueerd op ambtelijk niveau.<br>
+<br>
+De ombudsman wordt echter in voorkomend geval geëvalueerd door een bijzondere provincieraadscommissie, samengesteld overeenkomstig artikel 39, § 3. Die commissie wordt voorgezeten door de voorzitter van de provincieraad.<br>
+<br>
+De provinciegriffier en de financieel beheerder worden echter geëvalueerd door een evaluatiecomité, bestaande uit de deputatie en de voorzitter van de provincieraad. Die evaluatie vindt plaats op basis van een voorbereidend rapport, opgesteld door externe deskundigen in het personeelsbeleid. Het voorbereidend rapport wordt opgemaakt op basis van een evaluatiegesprek tussen de externe deskundigen en de functiehouder en op basis van een onderzoek over de wijze van functioneren van de functiehouder, waarbij de leden van het managementteam en de voorzitters van de deputatie en van de provincieraad betrokken worden. Het evaluatiecomité stemt over het evaluatieresultaat gunstig of ongunstig. Bij staking van stemmen is het evaluatieresultaat gunstig.<br>
+<br>
+Het ontslag wegens beroepsongeschiktheid ingevolge het ontoereikend functioneren van het personeelslid, is niet mogelijk zonder voorafgaande evaluatie.
 
 ## HOOFDSTUK IV Verdere uitvoeringsmaatregelen
 
 ### ART. 112.
 
-§ 1. De Vlaamse Regering stelt de minimale voorwaarden vast voor:<br />1° de personeelsformatie;<br />2° de rechtspositieregeling van het personeel;<br />3° de toepassing van een mandaatstelsel als vermeld in artikel 101, § 4.<br /><br />§ 2. De Vlaamse Regering neemt de nodige maatregelen voor de externe mobiliteit van het provinciepersoneel.
+De Vlaamse Regering stelt minimale voorwaarden vast voor minstens de volgende aspecten van de rechtspositieregeling van het provinciepersoneel:<br>
+1° de bezoldigingsregeling en de salarisschalen;<br>
+2° de toekenning van toelagen en vergoedingen;<br>
+3° de dienstbeëindiging, het verlies van de hoedanigheid van statutair personeelslid en de definitieve ambtsneerlegging van het statutaire personeelslid;<br>
+4° het verlof en de afwezigheden.<br>
+<br>
+De Vlaamse Regering neemt de nodige maatregelen voor de externe mobiliteit van het provinciepersoneel.
+
+### ART 112bis.
+
+Een provincie kan met een of meer overheden een samenwerkingsovereenkomst sluiten voor de gezamenlijke werving en selectie van hun personeel en, in voorkomend geval, voor het aanleggen van gemeenschappelijke wervingsreserves.
 
 ## HOOFDSTUK V Bijzondere bepalingen betreffende het bestuurlijk toezicht
 
@@ -948,7 +1090,17 @@ De entiteit, vermeld in het eerste lid, is verantwoordelijk voor het beheer van 
 
 ### ART. 188.
 
-§ 1. Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen de provincies verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van provinciaal belang.<br /><br />Onder dezelfde voorwaarden kunnen de provincies een andere vennootschap in de zin van het Wetboek Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen indien die vennootschap de realisatie van lokale PPS-projecten in de zin van het decreet betreffende publiek-private samenwerking als uitsluitende doelstelling heeft.<br /><br />§ 2. Deze oprichting, deelname of vertegenwoordiging mag niet gepaard gaan met de overdracht of terbeschikkingstelling van provinciaal personeel of met de overdracht van provinciale infrastructuur.<br /><br />§ 3. Het is de provincies verboden om, rechtstreeks of onrechtstreeks, rechtspersonen die niet belast zijn met welbepaalde taken van provinciaal belang op te richten, erin deel te nemen of zich erin te laten vertegenwoordigen, tenzij die rechtspersonen voldoen aan de voorschriften van dit hoofdstuk of er voor die oprichting, deelname of vertegenwoordiging een andere decretale of wettelijke rechtsgrond bestaat.
+§ 1. Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen de provincies verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van provinciaal belang.<br>
+<br>
+Onder dezelfde voorwaarden kunnen de provincies een andere vennootschap in de zin van het Wetboek Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen indien die vennootschap de realisatie van lokale PPS-projecten in de zin van het decreet betreffende publiek-private samenwerking als uitsluitende doelstelling heeft.<br>
+<br>
+§ 2. Deze oprichting, deelname of vertegenwoordiging mag niet gepaard gaan met de overdracht of terbeschikkingstelling van provinciaal personeel of met de overdracht van provinciale infrastructuur.<br>
+<br>
+In afwijking van het eerste lid en voor zover dat nader bepaald is in de rechtspositieregeling van het provinciepersoneel kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden aan de vereniging, vermeld in § 1, eerste lid. De terbeschikkingstelling is tijdelijk en gebeurt op basis van een overeenkomst tussen de provincie en de vereniging zonder winstoogmerk waaraan het personeel ter beschikking gesteld wordt.<br>
+<br>
+De aanstellende overheid beslist, in overeenstemming met de rechtspositieregeling, over de individuele terbeschikkingstelling van het personeelslid en sluit de overeenkomst van terbeschikkingstelling af.<br>
+<br>
+§ 3. Het is de provincies verboden om, rechtstreeks of onrechtstreeks, rechtspersonen die niet belast zijn met welbepaalde taken van provinciaal belang op te richten, erin deel te nemen of zich erin te laten vertegenwoordigen, tenzij die rechtspersonen voldoen aan de voorschriften van dit hoofdstuk of er voor die oprichting, deelname of vertegenwoordiging een andere decretale of wettelijke rechtsgrond bestaat.
 
 ## HOOFDSTUK VI Contracten tussen provincies
 
@@ -1238,7 +1390,7 @@ Tussen de provincie en de provinciale vennootschap, vereniging of   stichting wo
 
 ### ART. 240bis.
 
-Aan geen enkel personeelslid van een provinciale vennootschap, vereniging of stichting, als vermeld in deze afdeling van het decreet, kan een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan het jaarsalaris van de provinciegriffier van de overeenkomstige provincie.
+Behalve in geval van gemotiveerde afwijking, kan aan geen enkel personeelslid van een provinciale vennootschap, vereniging of stichting, als vermeld in deze afdeling, een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan het jaarsalaris van de provinciegriffier van de overeenkomstige provincie.
 
 ## [TITEL VIII Bestuurlijk toezicht en audit (verv. decr. 6 juli 2018, art. 206, I: 3 december 2018)]
 
