@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026930,
+  "title": "Decreet van 2016-06-03 tot wijziging van het Gemeentedecreet van 15 juli 2005, het Provinciedecreet van 9 december 2005 en het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026930/VolledigDocument?datum=2016-07-08",
+  "source_sha256": "47bb2b9ae4e69e11ae029dae2b6dc4379f1019062d03da698d832bac1278282d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026930&param=informatie",
+  "as_of": "2016-07-08",
+  "made": "2016-06-03",
+  "gazette": "2016-06-28",
+  "numac": 2016035978,
+  "document_start": "2016-07-08",
+  "document_end": null,
+  "in_force": "2016-07-08",
+  "article_versions": 69,
+  "record_form": "consolidated version as in force on 2016-07-08; oldest version available; future article versions excluded; article text as the API gives it"
+}
