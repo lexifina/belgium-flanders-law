@@ -148,7 +148,13 @@ De gemeenteraad kan enkel beraadslagen of beslissen als de meerderheid van de zi
 
 ### ART. 28.
 
-§ 1. De vergaderingen van de gemeenteraad zijn openbaar, behalve als:<br />1° het om aangelegenheden gaat die de persoonlijke levenssfeer raken. Zodra een dergelijk punt aan de orde is, beveelt de voorzitter de behandeling in besloten vergadering;<br />2° de gemeenteraad met twee derde van de aanwezige leden en op gemotiveerde wijze beslist tot behandeling in besloten vergadering, in het belang van de openbare orde of op grond van ernstige bezwaren tegen de openbaarheid.<br /><br />De vergaderingen over het organogram, de personeelsformatie, de rechtspositieregeling, het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening zijn in elk geval openbaar.<br /><br />§ 2. De besloten vergadering kan enkel plaatsvinden na de openbare vergadering, uitgezonderd in tuchtzaken. Als tijdens de openbare vergadering blijkt dat de behandeling van een punt in besloten vergadering moet worden voortgezet, kan de openbare vergadering, enkel met dit doel, worden onderbroken. Als tijdens de besloten vergadering blijkt dat de behandeling van een punt in openbare vergadering moet worden behandeld, wordt dat punt opgenomen op de agenda van de eerstvolgende gemeenteraad. In geval van dringende noodzakelijkheid van het punt kan de besloten vergadering, enkel met dat doel, worden onderbroken.
+§ 1. De vergaderingen van de gemeenteraad zijn openbaar, behalve als:<br>
+1° het om aangelegenheden gaat die de persoonlijke levenssfeer raken. Zodra een dergelijk punt aan de orde is, beveelt de voorzitter de behandeling in besloten vergadering;<br>
+2° de gemeenteraad met twee derde van de aanwezige leden en op gemotiveerde wijze beslist tot behandeling in besloten vergadering, in het belang van de openbare orde of op grond van ernstige bezwaren tegen de openbaarheid.<br>
+<br>
+De vergaderingen over&nbsp;het meerjarenplan en de aanpassingen ervan, het budget, een budgetwijziging of de jaarrekening zijn in elk geval openbaar.<br>
+<br>
+§ 2. De besloten vergadering kan enkel plaatsvinden na de openbare vergadering, uitgezonderd in tuchtzaken. Als tijdens de openbare vergadering blijkt dat de behandeling van een punt in besloten vergadering moet worden voortgezet, kan de openbare vergadering, enkel met dit doel, worden onderbroken. Als tijdens de besloten vergadering blijkt dat de behandeling van een punt in openbare vergadering moet worden behandeld, wordt dat punt opgenomen op de agenda van de eerstvolgende gemeenteraad. In geval van dringende noodzakelijkheid van het punt kan de besloten vergadering, enkel met dat doel, worden onderbroken.
 
 ### ART. 29.
 
@@ -210,7 +216,37 @@ De gemeenteraad neemt een deontologische code aan.
 
 ### ART. 43.
 
-§ 1. Behoudens bij uitdrukkelijke toewijzing van een bevoegdheid in de zin van artikel 2, tweede lid, aan de gemeenteraad, kan de gemeenteraad bij reglement bepaalde bevoegdheden toevertrouwen aan het college van burgemeester en schepenen.<br /><br />§ 2. De volgende bevoegdheden kunnen niet aan het college van burgemeester en schepenen worden toevertrouwd :<br />1° de aan de gemeenteraad toegewezen bevoegdheden, vermeld in titel II, hoofdstuk I, afdelingen I en II;<br />2° het vaststellen van gemeentelijke reglementen en het bepalen van straffen en administratieve sancties op de overtreding van die reglementen;<br />3° het vaststellen van het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening;<br />4° het vaststellen van het organogram, de aanduiding in dat organogram van de functies waaraan het lidmaatschap van het managementteam is gekoppeld, de personeelsformatie en de rechtspositieregeling;<br />5° het oprichten van extern verzelfstandigde agentschappen en het beslissen tot oprichting van, deelname aan of vertegenwoordiging in instellingen, verenigingen en ondernemingen;<br />6° het goedkeuren van beheersovereenkomsten en samenwerkingsovereenkomsten, als vermeld in artikelen 235, 247 en 271;<br />7° het aanstellen en ontslaan van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder en de ombudsman, alsook de sanctie- en tuchtbevoegdheid ten aanzien van die personeelsleden;<br />8° het goedkeuren van het algemene kader van het interne controlesysteem, als vermeld in artikel 100;<br />9° het vaststellen van wat onder het begrip dagelijks bestuur moet worden verstaan;<br />10° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de gemeenteraad voorbehoudt;<br />11° het vaststellen van de wijze van gunning en het vaststellen van de voorwaarden van overheidsopdrachten, behalve als het gaat om één van de volgende opdrachten :<br />a) een opdracht die past binnen het begrip dagelijks bestuur als vermeld in punt 9°, waarvoor het college van burgemeester en schepenen bevoegd is;<br />b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br />12° het stellen van daden van beschikking met betrekking tot onroerende goederen, behoudens voor zover de verrichting nominatief in het vastgestelde budget is opgenomen of behoudens de bepaling van artikel 57, § 3, 8°, c);<br />13° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br />14° het inrichten van adviesraden en overlegstructuren;<br />15° het vaststellen van de gemeentebelastingen en het vaststellen van de machtiging tot het heffen van de retributies en de voorwaarden ervan;<br />16° het vaststellen van een systeem van klachtenbehandeling;<br />17° beslissingen overeenkomstig artikel 193; <br />18° de bevoegdheden, vermeld in artikel 81, § 2, eerste lid;<br />19° het aangaan van dadingen;<br />20° de bevoegdheden van de gemeenteraad, als vermeld in artikelen 157, 159, § 3 en § 4;<br />21° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51;<br />22° het aanstellen en ontslaan van de leden van de raad van bestuur van een autonoom gemeentebedrijf, de goedkeuring van de jaarrekening en het budget van een autonoom gemeentebedrijf, de beslissing tot ontbinding en vereffening van een autonoom gemeentebedrijf, en het aanstellen van de gemeentelijke vertegenwoordigers in de algemene vergadering van een extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br />23° het vaststellen van wat onder het begrip dagelijks personeelsbeheer moet worden verstaan;<br />24° de aan de gemeenteraad toegewezen bevoegdheden, vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br />25° het nemen van besluiten waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een langere periode;<br />26° de bevoegdheden van de gemeenteraad als vermeld in artikel 47bis.
+§ 1. Behoudens bij uitdrukkelijke toewijzing van een bevoegdheid in de zin van artikel 2, tweede lid, aan de gemeenteraad, kan de gemeenteraad bij reglement bepaalde bevoegdheden toevertrouwen aan het college van burgemeester en schepenen.<br>
+<br>
+§ 2. De volgende bevoegdheden kunnen niet aan het college van burgemeester en schepenen worden toevertrouwd :<br>
+1° de aan de gemeenteraad toegewezen bevoegdheden, vermeld in titel II, hoofdstuk I, afdelingen I en II;<br>
+2° het vaststellen van gemeentelijke reglementen andere dan over personeelsaangelegenheden, en het bepalen van straffen en administratieve sancties op de overtreding van die reglementen;<br>
+3° het vaststellen van het meerjarenplan en de aanpassingen ervan, het budget en de budgetwijzigingen, de jaarrekeningen en de geconsolideerde jaarrekening;<br>
+4° ...;<br>
+5° het oprichten van extern verzelfstandigde agentschappen en het beslissen tot oprichting van, deelname aan of vertegenwoordiging in instellingen, verenigingen en ondernemingen;<br>
+6° het goedkeuren van beheersovereenkomsten en samenwerkingsovereenkomsten, als vermeld in artikelen 235, 247 en 271;<br>
+7° het aanstellen en ontslaan van de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder en de ombudsman, alsook de sanctie- en tuchtbevoegdheid ten aanzien van die personeelsleden;<br>
+8° het goedkeuren van het algemene kader van het interne controlesysteem, als vermeld in artikel 100;<br>
+9° het vaststellen van wat onder het begrip dagelijks bestuur moet worden verstaan;<br>
+10° beslissingen die de wet, het decreet of het uitvoeringsbesluit uitdrukkelijk aan de gemeenteraad voorbehoudt;<br>
+11° het vaststellen van de wijze van gunning en het vaststellen van de voorwaarden van overheidsopdrachten, behalve als het gaat om één van de volgende opdrachten :<br>
+a) een opdracht die past binnen het begrip dagelijks bestuur als vermeld in punt 9°, waarvoor het college van burgemeester en schepenen bevoegd is;<br>
+b) een opdracht die nominatief in het vastgestelde budget is opgenomen;<br>
+12° het stellen van daden van beschikking met betrekking tot onroerende goederen, behoudens voor zover de verrichting nominatief in het vastgestelde budget is opgenomen of behoudens de bepaling van artikel 57, § 3, 8°, c);<br>
+13° het definitief aanvaarden van schenkingen en het aanvaarden van legaten;<br>
+14° het inrichten van adviesraden en overlegstructuren;<br>
+15° het vaststellen van de gemeentebelastingen en het vaststellen van de machtiging tot het heffen van de retributies en de voorwaarden ervan;<br>
+16° het vaststellen van een systeem van klachtenbehandeling;<br>
+17° beslissingen overeenkomstig artikel 193;<br>
+18° ...;<br>
+19° het aangaan van andere dadingen, dan dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben;<br>
+20° de bevoegdheden van de gemeenteraad, als vermeld in artikelen 157, 159, § 3 en § 4;<br>
+21° de wijze van het ter kennis brengen van de beslissingen, vermeld in artikel 51;<br>
+22° het aanstellen en ontslaan van de leden van de raad van bestuur van een autonoom gemeentebedrijf, de goedkeuring van de jaarrekening en het budget van een autonoom gemeentebedrijf, de beslissing tot ontbinding en vereffening van een autonoom gemeentebedrijf, en het aanstellen van de gemeentelijke vertegenwoordigers in de algemene vergadering van een extern verzelfstandigd agentschap in privaatrechtelijke vorm;<br>
+23° ...;<br>
+24° de aan de gemeenteraad toegewezen bevoegdheden, vermeld in het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking;<br>
+25° het nemen van besluiten waarbij de financiële lasten van de opgenomen leningen worden herschikt door die lasten te spreiden over een langere periode;<br>
+26° de bevoegdheden van de gemeenteraad als vermeld in artikel 47bis.
 
 ## HOOFDSTUK II Het college van burgemeester en schepenen
 
@@ -284,7 +320,7 @@ Het college van burgemeester en schepenen heeft dezelfde deontologische code als
 <br>
 § 3. Het college van burgemeester en schepenen is bevoegd voor :<br>
 1° de daden van beheer over de gemeentelijke inrichtingen en eigendommen, binnen de door de gemeenteraad desgevallend vastgestelde algemene regels;<br>
-2° het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel, onverminderd de bevoegdheid van de gemeenteraad overeenkomstig artikel 43, § 2, 7°, en artikel 96, uitgezonderd het derde lid,&nbsp;en de gevallen waarin die bevoegdheid door of krachtens de wet of het decreet aan de gemeenteraad is opgedragen;<br>
+2° het aanstellen en het ontslaan van het personeel, alsook de sanctie- en tuchtbevoegdheid ten aanzien van het personeel, onverminderd de bevoegdheid van de gemeenteraad overeenkomstig artikel 43, § 2, 7°,&nbsp;en de gevallen waarin die bevoegdheid door of krachtens de wet of het decreet aan de gemeenteraad is opgedragen;<br>
 3° het financieel beheer, onverminderd de bevoegdheden van de gemeenteraad;<br>
 4° het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten;<br>
 5° de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten als het gaat om een opdracht die past binnen het begrip dagelijks bestuur vermeld in artikel 43, § 2, 9°;<br>
@@ -318,7 +354,13 @@ Minstens eenmaal per jaar wordt de gemeenteraad in kennis gesteld van dit geactu
 
 ### ART. 58.
 
-Met behoud van de toepassing van artikel 159 en titel VII en behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, tweede lid, aan het college van burgemeester en schepenen, kan het college van burgemeester en schepenen bij reglement de uitoefening van bepaalde bevoegdheden aan de gemeentesecretaris toevertrouwen.<br /><br />De bevoegdheden van het college van burgemeester en schepenen, vermeld in het vierde lid en in artikel 57, § 1, eerste zin, en de op basis van § 2, gedelegeerde bevoegdheden van de gemeenteraad met betrekking tot het aanwijzen, het ontslaan en de sanctie-en tuchtbevoegdheden van de personeelsleden, als vermeld in artikel 96, tweede lid, die andere functies vervullen waaraan het organogram het lidmaatschap van het managementteam verbindt, en de bevoegdheden vermeld in § 3, 7°, 8°, b) en c), 9°, 10°, 11°, 14°, a), 15° en 16°, kunnen evenwel niet aan de gemeentesecretaris worden toevertrouwd. Hetzelfde geldt voor de bevoegdheden van het college van burgemeester en schepenen inzake financieel beheer, als vermeld in artikelen 155, 157, 159, § 2, eerste en tweede lid, en § 3 en § 4, artikel 160, § 4, artikelen 161, 163, § 2, en artikel 168.<br /><br />Met behoud van de toepassing van artikel 159 oefent de gemeentesecretaris de overeenkomstig het eerste lid toevertrouwde bevoegdheden persoonlijk uit. De gemeentesecretaris kan de uitoefening van die gedelegeerde bevoegdheid toevertrouwen aan andere personeelsleden van de gemeente. Een subdelegatie van de bevoegdheid tot het aanstellen en het ontslaan van het personeel, alsook de bevoegdheid inzake de tucht ten aanzien van het personeel, aan andere personeelsleden dan de gemeentesecretaris is evenwel niet mogelijk, behalve in voorkomend geval, aan de adjunct-gemeentesecretaris.<br /><br />In afwijking van artikel 43 kan het college van burgemeester en schepenen in gevallen van dwingende en onvoorziene omstandigheden op eigen initiatief de bevoegdheden betreffende de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten, het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten uitoefenen. Die bevoegdheid is niet voor delegatie vatbaar.
+Met behoud van de toepassing van artikel 159 en titel VII en behoudens bij uitdrukkelijke toewijzing van een bevoegdheid als vermeld in artikel 2, tweede lid, aan het college van burgemeester en schepenen, kan het college van burgemeester en schepenen bij reglement de uitoefening van bepaalde bevoegdheden aan de gemeentesecretaris toevertrouwen.<br>
+<br>
+De bevoegdheden van het college van burgemeester en schepenen, vermeld in het vierde lid en in artikel 57, § 1, eerste zin, en de op basis van artikel 57, § 2, gedelegeerde bevoegdheden van de gemeenteraad met betrekking tot het vaststellen van de rechtspositieregeling, het vaststellen van wat onder het begrip dagelijks personeelsbeheer moet worden verstaan, het aangaan van dadingen met personeelsleden naar aanleiding van een beëindiging van het dienstverband, die de gevolgen van de beëindiging van het dienstverband als voorwerp hebben, en de bevoegdheden vermeld in artikel 57, § 3, 7°, 8°, b) en c), 9°, 10°, 11°, 14°, a), 15° en 16°, kunnen evenwel niet aan de gemeentesecretaris worden toevertrouwd. Hetzelfde geldt voor de bevoegdheden van het college van burgemeester en schepenen inzake financieel beheer, als vermeld in artikelen 155, 157, 159, § 2, eerste en tweede lid, en § 3 en § 4, artikel 160, § 4, artikelen 161, 163, § 2, en artikel 168.<br>
+<br>
+Met behoud van de toepassing van artikel 159 oefent de gemeentesecretaris de overeenkomstig het eerste lid toevertrouwde bevoegdheden persoonlijk uit. Met uitzondering van de bevoegdheden vermeld in artikel 75 en 81, vierde lid, kan de gemeentesecretaris de hem gedelegeerde bevoegdheid toevertrouwen aan andere personeelsleden van de gemeente.<br>
+<br>
+In afwijking van artikel 43 kan het college van burgemeester en schepenen in gevallen van dwingende en onvoorziene omstandigheden op eigen initiatief de bevoegdheden betreffende de vaststelling van de wijze van gunning en de voorwaarden van overheidsopdrachten, het voeren van de gunningsprocedure, de gunning en de uitvoering van overheidsopdrachten uitoefenen. Die bevoegdheid is niet voor delegatie vatbaar.
 
 ## HOOFDSTUK III De burgemeester
 
@@ -438,15 +480,21 @@ Het is voor de gemeentesecretaris, de adjunct-gemeentesecretaris en de financiee
 
 ### ART. 80.
 
-§ 1. Onder de door de Vlaamse Regering bepaalde voorwaarden kan de gemeenteraad beslissen dat de ambten van gemeentesecretaris en financieel beheerder deeltijds worden uitgeoefend.<br /><br />§ 2. De gemeenteraad kan onder de door de Vlaamse Regering bepaalde voorwaarden een ambt van gemeentesecretaris laten vervullen door de gemeentesecretaris van een andere gemeente of door de secretaris van een openbaar centrum voor maatschappelijk welzijn.<br /><br />Voor de toepassing van het eerste lid moet de gemeentesecretaris eveneens gelezen worden als de adjunct-gemeentesecretaris.<br /><br />§ 3. De gemeenteraad kan onder de door de Vlaamse Regering bepaalde voorwaarden een ambt van financieel beheerder laten vervullen door de financieel beheerder van een andere gemeente of door een financieel beheerder van een openbaar centrum voor maatschappelijk welzijn.<br /><br />§ 4. In een gemeente die, als gevolg van een wijziging van het bevolkingscijfer, in een andere situatie terechtkomt, blijven de gemeentesecretaris en de financieel beheerder die in dienst zijn, hun ambt uitoefenen met dezelfde prestatieomvang tot hun loopbaan of hun functie bij dat gemeentebestuur eindigt. Met het akkoord van het betrokken personeelslid kan daarvan worden afgeweken.
+...
 
 ### ART. 81.
 
-§ 1. Onder voorbehoud van de toepassing van artikel 91 regelt de gemeenteraad de vervanging van de gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder.<br /><br />§ 2. De gemeenteraad kan een waarnemend gemeentesecretaris, een waarnemend adjunct-gemeentesecretaris of een waarnemend financieel beheerder aanstellen om de gemeentesecretaris, de adjunct-gemeentesecretaris of de financieel beheerder bij zijn afwezigheid of verhindering te vervangen.<br /><br />In spoedeisende gevallen kan een waarnemend gemeentesecretaris of een waarnemend financieel beheerder door het college van burgemeester en schepenen worden aangesteld. De aanstelling vervalt als de gemeenteraad ze in de eerstvolgende vergadering niet bekrachtigt.<br /><br />In geval van gewettigde afwezigheid kunnen de gemeentesecretaris en de financieel beheerder,  binnen drie dagen voorzien in hun vervanging en daartoe, voor een periode van maximaal zestig dagen, een door de gemeenteraad erkende waarnemer aanstellen. Die maatregel kan voor eenzelfde afwezigheid eenmaal worden verlengd.<br /><br />In de gevallen, vermeld in het tweede en het derde lid, hoeft de eed niet in openbare vergadering te worden afgelegd.<br /><br />§ 3. De gemeenteraad stelt in ieder geval, een waarnemend gemeentesecretaris of waarnemend financieel beheerder aan, als de afwezigheid of de verhindering van de gemeentesecretaris of de financieel beheerder langer dan 120 dagen duurt, of bij vacature van het ambt.
+Met behoud van de toepassing van artikel 91 regelt de gemeenteraad de vervanging van de gemeentesecretaris en de financieel beheerder bij hun afwezigheid of verhindering.<br>
+<br>
+Er wordt in elk geval in een waarneming van het ambt van gemeentesecretaris of financieel beheerder voorzien als de afwezigheid of verhindering van de gemeentesecretaris of financieel beheerder langer dan honderdtwintig dagen duurt of bij vacature van het ambt.<br>
+<br>
+De waarnemend gemeentesecretaris en de waarnemend financieel beheerder oefenen alle bevoegdheden uit die aan het ambt verbonden zijn.<br>
+<br>
+De gemeenteraad kan de effectieve aanstelling van een waarnemend gemeentesecretaris of financieel beheerder toevertrouwen aan het college van burgemeester en schepenen en aan de functiehouder van het ambt.
 
 ### ART. 82.
 
-De waarnemend gemeentesecretaris, de waarnemend adjunct-gemeentesecretaris en de waarnemend financieel beheerder moeten voldoen aan de voorwaarden, met uitzondering van het doorlopen van de selectieprocedure, voor de uitoefening van het ambt dat zij waarnemen. Van die regel kan alleen en slechts voor de duur, vermeld in artikel 83, worden afgeweken, als er bij de gemeente geen personeelslid is dat aan alle voorwaarden voldoet. De waarnemend gemeentesecretaris, de waarnemend adjunct-gemeentesecretaris en de waarnemend financieel beheerder oefenen alle bevoegdheden uit die aan dat ambt verbonden zijn.
+...
 
 ### ART. 83.
 
@@ -468,7 +516,24 @@ De gemeentesecretaris staat in voor de algemene leiding van de gemeentelijke die
 
 ### ART. 87.
 
-§ 1. De gemeentesecretaris staat in voor de werking van de gemeentelijke diensten inzake de voorbereiding, de uitvoering en de evaluatie van het beleid. De gemeentesecretaris gedraagt zich naar de onderrichtingen die hem worden gegeven door de gemeenteraad, de voorzitter van de gemeenteraad, het college van burgemeester en schepenen of de burgemeester, al naargelang hun respectieve bevoegdheden, tenzij anders bepaald in de afsprakennota bedoeld in § 2.<br /><br />Hij staat in voor de interne controle op de werking van de gemeentelijke diensten, overeenkomstig artikelen 99, 100 en 101.<br /><br />§ 2. Ten minste na iedere volledige vernieuwing van de gemeenteraad sluit de gemeentesecretaris mede namens het managementteam een afsprakennota met het college van burgemeester en schepenen en met de burgemeester over de wijze waarop de gemeentesecretaris en de overige leden van het managementteam met het college van burgemeester en schepenen en de burgemeester samenwerken om de beleidsdoelstellingen te realiseren, en over de omgangsvormen tussen bestuur en administratie.<br /><br />In deze afsprakennota wordt bepaald op welke wijze de gemeentesecretaris de bevoegdheden uitoefent die overeenkomstig artikel 58 door het college van burgemeester en schepenen, of overeenkomstig artikel 159 aan hem werden gedelegeerd.<br /><br />§ 3. De gemeentesecretaris bereidt de zaken voor die aan de gemeenteraad, aan de gemeenteraadscommissies, aan het college van burgemeester en schepenen en aan de burgemeester worden voorgelegd.<br /><br />§ 4. De gemeentesecretaris zorgt in overleg met het managementteam voor het opstellen van het voorontwerp van:<br />1° het organogram;<br />2° de personeelsformatie;<br />3° de rechtspositieregeling van het personeel;<br />4° de strategische nota van het meerjarenplan en de herziening ervan;<br />5° de beleidsnota van het budget;<br />6° de verklarende nota van een budgetwijziging;<br />7° de verklarende nota van een interne kredietaanpassing.
+§ 1. De gemeentesecretaris staat in voor de werking van de gemeentelijke diensten inzake de voorbereiding, de uitvoering en de evaluatie van het beleid. De gemeentesecretaris gedraagt zich naar de onderrichtingen die hem worden gegeven door de gemeenteraad, de voorzitter van de gemeenteraad, het college van burgemeester en schepenen of de burgemeester, al naargelang hun respectieve bevoegdheden, tenzij anders bepaald in de afsprakennota bedoeld in § 2.<br>
+<br>
+Hij staat in voor de interne controle op de werking van de gemeentelijke diensten, overeenkomstig artikelen 99, 100 en 101.<br>
+<br>
+§ 2. Ten minste na iedere volledige vernieuwing van de gemeenteraad sluit de gemeentesecretaris mede namens het managementteam een afsprakennota met het college van burgemeester en schepenen en met de burgemeester over de wijze waarop de gemeentesecretaris en de overige leden van het managementteam met het college van burgemeester en schepenen en de burgemeester samenwerken om de beleidsdoelstellingen te realiseren, en over de omgangsvormen tussen bestuur en administratie.<br>
+<br>
+In deze afsprakennota wordt bepaald op welke wijze de gemeentesecretaris de bevoegdheden uitoefent die overeenkomstig artikel 58 door het college van burgemeester en schepenen, of overeenkomstig artikel 159 aan hem werden gedelegeerd.<br>
+<br>
+§ 3. De gemeentesecretaris bereidt de zaken voor die aan de gemeenteraad, aan de gemeenteraadscommissies, aan het college van burgemeester en schepenen en aan de burgemeester worden voorgelegd.<br>
+<br>
+§ 4. De gemeentesecretaris zorgt in overleg met het managementteam voor het opstellen van het voorontwerp van:<br>
+1° het organogram;<br>
+2° ...;<br>
+3° de rechtspositieregeling van het personeel;<br>
+4° de strategische nota van het meerjarenplan en de herziening ervan;<br>
+5° de beleidsnota van het budget;<br>
+6° de verklarende nota van een budgetwijziging;<br>
+7° de verklarende nota van een interne kredietaanpassing.
 
 ### ART. 88.
 
@@ -488,7 +553,7 @@ De adjunct-gemeentesecretaris staat de gemeentesecretaris bij in de vervulling v
 
 ### ART. 92.
 
-De gemeentesecretaris kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan de leidinggevende personeelsleden, van wie de functies zijn aangegeven in het organogram.
+De gemeentesecretaris kan de uitoefening van het dagelijkse personeelsbeheer toevertrouwen aan andere personeelsleden.
 
 ## Onderafdeling III De financieel beheerder
 
@@ -508,7 +573,11 @@ De financieel beheerder oefent de taken uit die door of krachtens de wet of het 
 
 ### ART. 96.
 
-Er is in elke gemeente een managementteam.<br /><br />Onverminderd het derde lid, bestaat het managementteam uit de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder en alle andere leden die geen mandataris zijn en waarvan de deelname aan het managementteam nuttig wordt geacht voor het functioneren van de gemeente.<br /><br />De burgemeester, of in voorkomend geval de schepen door hem aangeduid, maakt met raadgevende stem deel uit van het managementteam.<br /><br />De gemeenteraad is bevoegd voor de aanstelling en het ontslag van de leden van het managementteam, vermeld in het tweede lid en treedt ten aanzien van hen op als tuchtoverheid.
+Er is in elke gemeente een managementteam.<br>
+<br>
+Onverminderd het derde lid, bestaat het managementteam uit de gemeentesecretaris, de adjunct-gemeentesecretaris, de financieel beheerder en alle andere leden die geen mandataris zijn en waarvan de deelname aan het managementteam nuttig wordt geacht voor het functioneren van de gemeente.<br>
+<br>
+De burgemeester, of in voorkomend geval de schepen door hem aangeduid, maakt met raadgevende stem deel uit van het managementteam.
 
 ### ART. 97.
 
@@ -552,19 +621,41 @@ De gemeenteraad stelt de personeelsformatie vast.<br /><br />De personeelsformat
 
 ### ART. 104.
 
-§ 1 Het personeel van de gemeente bestaat uit personeelsleden in statutair dienstverband.<br /><br />§ 2. In afwijking van § 1 kunnen personeelsleden in contractueel verband in dienst worden genomen om:<br />1° aan uitzonderlijke en tijdelijke personeelsbehoeften te voldoen, voor in de tijd beperkte acties, of voor een buitengewone toename van werk;<br />2° personeelsleden te vervangen die hun betrekking niet of slechts deeltijds bekleden of die tijdens een zolange periode afwezig zijn dat vervanging noodzakelijk is;<br />3° aanvullende of specifieke opdrachten te vervullen;<br />4° te voorzien in de personeelsbehoeften voor activiteiten die door een andere overheid gesubsidieerd worden;<br />5° te voorzien in de personeelsbehoeften voor activiteiten die hoofdzakelijk verricht worden in mededinging met andere marktdeelnemers;<br />6° te voorzien in uitvoering van taken, die een bijzondere expertise vereisen.<br /><br />§ 3. Binnen de grenzen die de Vlaamse Regering bepaalt, kan de gemeente personeel in contractueel verband in dienst nemen om te voorzien in de personeelsbehoeften van het kabinet van de burgemeester of de schepenen, of van de fracties in de gemeenteraad. Die personeelsleden worden, naar gelang van het geval, kabinets- of fractiepersoneel genoemd.<br /><br />De Vlaamse Regering stelt nadere regels vast voor de aanwerving of terbeschikkingstelling van het kabinets- en fractiepersoneel.<br /><br />§ 4. De gemeenteraad kan personeel ter beschikking stellen van of overdragen aan het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient, mits de geldende rechtspositieregeling van het gemeentepersoneel nageleefd wordt en mits goedkeuring door de raad van het openbaar centrum voor maatschappelijk welzijn. De Vlaamse Regering kan daartoe minimale voorwaarden vaststellen.
+§ 1. Het personeel van de gemeenten kan in statutair of in contractueel dienstverband worden aangesteld.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Binnen de grenzen die de Vlaamse Regering bepaalt, kan de gemeente personeel in contractueel verband in dienst nemen om te voorzien in de personeelsbehoeften van het kabinet van de burgemeester of de schepenen, of van de fracties in de gemeenteraad. Die personeelsleden worden, naar gelang van het geval, kabinets- of fractiepersoneel genoemd.<br>
+<br>
+De Vlaamse Regering stelt nadere regels vast voor de aanwerving of terbeschikkingstelling van het kabinets- en fractiepersoneel.<br>
+<br>
+§ 4. De gemeenteraad kan personeel overdragen aan het openbaar centrum voor maatschappelijk welzijn dat de gemeente bedient, mits de geldende rechtspositieregeling van het gemeentepersoneel nageleefd wordt en mits goedkeuring door de raad van het openbaar centrum voor maatschappelijk welzijn. De Vlaamse Regering kan daartoe minimale voorwaarden vaststellen.
+
+### ART 104bis.
+
+Met behoud van de toepassing van artikel 230 en voor zover dat nader bepaald is in de rechtspositieregeling van het gemeentepersoneel, kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden aan:<br>
+1° een andere overheid;<br>
+2° een vereniging zonder winstoogmerk in de zin van de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen, waarin de gemeente niet deelneemt en waarvan de activiteit verband houdt met een gemeentelijk belang.<br>
+<br>
+De terbeschikkingstelling is tijdelijk en gebeurt op basis van een overeenkomst tussen de gemeente en de overheid of de vereniging zonder winstoogmerk waaraan het personeel ter beschikking gesteld wordt.<br>
+<br>
+De aanstellende overheid beslist, in overeenstemming met de rechtspositieregeling, over de individuele terbeschikkingstelling van het personeelslid en sluit de overeenkomst van terbeschikkingstelling af.
 
 ## Afdeling II De rechtspositieregeling
 
 ### ART. 105.
 
-§ 1. De gemeenteraad stelt de rechtspositieregeling van het personeel vast.<br /><br />§ 2. De rechtspositieregeling voor het personeel in statutair dienstverband regelt minstens:<br /><br />1° de bezoldiging van de personeelsleden en de salarisschalen die van toepassing zijn, rekening houdend met onder meer de gestelde bekwaamheidsvereisten en functievereisten;<br /><br />2° de toekenning van toelagen en vergoedingen;<br /><br />3° de voorwaarden en procedures voor aanwerving en bevordering. Die procedures waarborgen de objectiviteit van de aanwervingen en bevorderingen en de gelijke behandeling van de kandidaten. Alle personeelsleden worden steeds op proef aangesteld;<br /><br />4° de bekendmaking van de vacatures en de proeftijd;<br /><br />5° de evaluatie, de wijze van aanwijzing van evaluatoren, de daarbijbehorende procedures, de periodiciteit en de rechtsgevolgen ervan, rekening houdend met de aard van de functie;<br /><br />6° de organisatie van de loopbaan van de personeelsleden en van de interne mobiliteit;<br /><br />7° de administratieve standen en de anciënniteit van de ambtenaren alsook de dienstbeëindiging;<br /><br />8° de arbeidsduur, het verlof en de afwezigheden;<br /><br />9° de onverenigbaarheden, en de beperkingen en voorwaarden voor cumulatie van activiteiten in overheids- of in privé-dienst;<br /><br />10° de nadere regels betreffende het tuchtstelsel;<br /><br />11° de toepasselijkheid van de nieuwe regels ten aanzien van het statutair personeel dat al in dienst is van de gemeente;<br /><br />12° het verlies van de hoedanigheid van ambtenaar en de ambtsneerlegging.<br /><br />§ 3. Het bepaalde in § 2, met uitzondering van 7°, 10°, 11° en 12°, is van overeenkomstige toepassing op de rechtspositie van de personeelsleden in contractueel verband.<br /><br />§ 4. De rechtspositieregeling kan in een mandaatstelsel voorzien.
+De gemeenteraad stelt de rechtspositieregeling van het personeel vast.
 
 ## Afdeling III [Eedaflegging van het personeel (verv. decr. 3 juni 2016, art. 16, I: 8 juli 2016)]
 
 ### ART. 106.
 
-Het college van burgemeester en schepenen is bevoegd voor de aanstelling en het ontslag van de personeelsleden, behoudens in de gevallen waarin door of krachtens de wet of het decreet die bevoegdheid aan de gemeenteraad is opgedragen.<br /><br />Het college van burgemeester en schepenen kan de uitoefening van die bevoegdheid toevertrouwen aan de gemeentesecretaris.In voorkomend geval kan de gemeentesecretaris die gedelegeerde bevoegdheid ook toevertrouwen aan de adjunct-gemeentesecretaris maar niet aan andere personeelsleden van de gemeente.<br /><br />Onverminderd artikel 77 leggen de personeelsleden van de gemeente de volgende eed af in handen van de burgemeester: « Ik zweer de verplichtingen van mijn ambt trouw na te komen. ». De weigering tot eedaflegging staat gelijk met verzaking van de aanstelling. Van de eedaflegging of de weigering ervan wordt een procesverbaal opgemaakt.<br /><br />De burgemeester kan zijn bevoegdheid om de eed af te nemen als vermeld in het derde lid, toevertrouwen aan een lid van het college van burgemeester en schepenen of aan de gemeentesecretaris.<br /><br />Bij eventuele delegatie van deze bevoegdheid aan de gemeentesecretaris kan deze laatste de bevoegdheid verder delegeren aan een van de leden van het managementteam, vermeld in artikel 96, tweede lid.
+Onverminderd artikel 77 leggen de personeelsleden van de gemeente de volgende eed af in handen van de burgemeester: « Ik zweer de verplichtingen van mijn ambt trouw na te komen. ». De weigering tot eedaflegging staat gelijk met verzaking van de aanstelling. Van de eedaflegging of de weigering ervan wordt een procesverbaal opgemaakt.<br>
+<br>
+De burgemeester kan zijn bevoegdheid om de eed af te nemen als vermeld in het&nbsp;eerste lid, toevertrouwen aan een lid van het college van burgemeester en schepenen of aan de gemeentesecretaris.<br>
+<br>
+Bij eventuele delegatie van deze bevoegdheid aan de gemeentesecretaris kan deze laatste de bevoegdheid verder delegeren aan een van de leden van het managementteam, vermeld in artikel 96, tweede lid.
 
 ## Afdeling IV Deontologische rechten en plichten
 
@@ -596,27 +687,41 @@ De gemeenteraad stelt een deontologische code voor het gemeentepersoneel vast. D
 
 ### ART. 113.
 
-De evaluatie is de procedure waarbij een oordeel wordt geformuleerd over de manier waarop een personeelslid functioneert.
+...
 
 ### ART. 114.
 
-Onverminderd de nadere regeling van de gevolgen van de evaluatie in de rechtspositieregeling, neemt de gemeentesecretaris naar aanleiding van de evaluatie in voorkomend geval de passende maatregelen met het oog op het verbeteren van de wijze waarop het betrokken personeelslid functioneert.<br /><br />In voorkomend geval kan de gemeentesecretaris deze opdracht delegeren aan de adjunct-gemeentesecretaris.
+...
 
 ### ART. 115.
 
-De personeelsleden van de gemeente worden geëvalueerd op ambtelijk niveau.<br /><br />De ombudsman wordt echter geëvalueerd door een bijzondere gemeenteraadscommissie, samengesteld overeenkomstig artikel 39, § 3. Die commissie wordt voorgezeten door de voorzitter van de gemeenteraad. Bij staking van stemmen wordt het betrokken personeelslid geacht te voldoen.<br /><br />De gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder worden echter geëvalueerd door een evaluatiecomité, bestaande uit het college van burgemeester en schepenen en de voorzitter van de gemeenteraad. Die evaluatie vindt plaats op basis van een voorbereidend rapport, opgesteld door externe deskundigen in het personeelsbeleid. Het voorbereidend rapport wordt opgemaakt op basis van een evaluatiegesprek tussen de externe deskundigen en de functiehouder en op basis van een onderzoek over de wijze van functioneren van de functiehouder, waarbij de burgemeester, de leden van het managementteam en de voorzitter van de gemeenteraad betrokken worden. Het evaluatiecomité stemt over het evaluatieresultaat gunstig of ongunstig. Bij staking van stemmen is het evaluatieresultaat gunstig.
+De personeelsleden hebben recht op opvolging en feedback, al dan niet door middel van een evaluatie, over hun wijze van functioneren. De personeelsleden worden opgevolgd en, in voorkomend geval, geëvalueerd op ambtelijk niveau.<br>
+<br>
+De ombudsman wordt echter in voorkomend geval geëvalueerd door een bijzondere gemeenteraadscommissie, samengesteld overeenkomstig artikel 39, § 3. Die commissie wordt voorgezeten door de voorzitter van de gemeenteraad. Bij staking van stemmen wordt het betrokken personeelslid geacht te voldoen.<br>
+<br>
+De gemeentesecretaris, de adjunct-gemeentesecretaris en de financieel beheerder worden echter in voorkomend geval geëvalueerd door een evaluatiecomité, bestaande uit het college van burgemeester en schepenen en de voorzitter van de gemeenteraad. Die evaluatie vindt plaats op basis van een voorbereidend rapport, opgesteld door externe deskundigen in het personeelsbeleid. Het voorbereidend rapport wordt opgemaakt op basis van een evaluatiegesprek tussen de externe deskundigen en de functiehouder en op basis van een onderzoek over de wijze van functioneren van de functiehouder, waarbij de burgemeester, de leden van het managementteam en de voorzitter van de gemeenteraad betrokken worden. Het evaluatiecomité stemt over het evaluatieresultaat gunstig of ongunstig. Bij staking van stemmen is het evaluatieresultaat gunstig.<br>
+<br>
+Het ontslag wegens beroepsongeschiktheid ingevolge het ontoereikend functioneren van het personeelslid, is niet mogelijk zonder voorafgaande evaluatie
 
 ## HOOFDSTUK IV Verdere uitvoeringsmaatregelen
 
 ### ART. 116.
 
-§ 1. De Vlaamse Regering stelt de minimale voorwaarden vast voor:<br />1° de personeelsformatie;<br />2° de rechtspositieregeling van het personeel;<br />3° de toepassing van een mandaatstelsel als vermeld in artikel 105, § 4.<br /><br />§ 2. De Vlaamse Regering neemt de nodige maatregelen voor de externe mobiliteit van het gemeentepersoneel.
+De Vlaamse Regering stelt minimale voorwaarden vast voor minstens de volgende aspecten van de rechtspositieregeling van het gemeentepersoneel:<br>
+1° de bezoldigingsregeling en de salarisschalen;<br>
+2° de toekenning van toelagen en vergoedingen;<br>
+3° de dienstbeëindiging, het verlies van de hoedanigheid van statutair personeelslid en de definitieve ambtsneerlegging van het statutaire personeelslid;<br>
+4° het verlof en de afwezigheden.<br>
+<br>
+Gemeenten met een inwoneraantal dat gelijk is aan of hoger is dan 200.000, kunnen, op basis van schaalgrootte, gemotiveerd afwijken van de minimale voorwaarden, vermeld in het eerste lid, 1°, 2° en 4°, met uitzondering van de ondergrenzen die de Vlaamse Regering daarin vaststelt.<br>
+<br>
+De Vlaamse Regering neemt de nodige maatregelen voor de externe mobiliteit van het gemeentepersoneel.
 
 ## [HOOFDSTUK IVbis Samenwerking inzake personeel (ing. decr. 29 juni 2012, art. 35, I: 1 januari 2013)]
 
 ### ART. 116bis.
 
-Gemeenten onderling of de gemeente en het openbaar centrum voor maatschappelijk welzijn dat deze gemeente bedient kunnen een samenwerkingsovereenkomst sluiten voor de gezamenlijke werving en selectie van hun personeel en, in voorkomend geval, voor het aanleggen van gemeenschappelijke wervingsreserves.
+Een gemeente kan met een of meer overheden een samenwerkingsovereenkomst sluiten voor de gezamenlijke werving en selectie van hun personeel en, in voorkomend geval, voor het aanleggen van gemeenschappelijke wervingsreserves.
 
 ## HOOFDSTUK V Bijzondere bepalingen betreffende het bestuurlijk toezicht
 
@@ -1064,7 +1169,17 @@ Op straffe van onontvankelijkheid kunnen personen vermeld in het eerste en tweed
 
 ### ART. 195.
 
-§ 1. Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen de gemeenten verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van gemeentelijk belang.<br /><br />Onder dezelfde voorwaarden kunnen de gemeenten een andere vennootschap in de zin van het Wetboek Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen indien deze vennootschap de realisatie van lokale PPS-projecten in de zin van het decreet betreffende publiek-private samenwerking als uitsluitende doelstelling heeft.<br /><br />§ 2. Deze oprichting, deelname of vertegenwoordiging mag niet gepaard gaan met de overdracht of terbeschikkingstelling van gemeentelijk personeel of met de overdracht van gemeentelijke infrastructuur.<br /><br />§ 3. Het is de gemeenten verboden om, rechtstreeks of onrechtstreeks, rechtspersonen die niet belast zijn met welbepaalde taken van gemeentelijk belang op te richten, erin deel te nemen of zich erin te laten vertegenwoordigen, tenzij die rechtspersonen voldoen aan de voorschriften van dit hoofdstuk of er voor die oprichting, deelname of vertegenwoordiging een andere decretale of wettelijke rechtsgrond bestaat.
+§ 1. Zonder afbreuk te doen aan het decreet van 6 juli 2001 houdende de intergemeentelijke samenwerking, kunnen de gemeenten verenigingen, stichtingen en vennootschappen met sociaal oogmerk oprichten, erin deelnemen of zich erin laten vertegenwoordigen voorzover die verenigingen, stichtingen en vennootschappen met sociaal oogmerk niet belast worden met de verwezenlijking van welbepaalde taken van gemeentelijk belang.<br>
+<br>
+Onder dezelfde voorwaarden kunnen de gemeenten een andere vennootschap in de zin van het Wetboek Vennootschappen oprichten, erin deelnemen of zich erin laten vertegenwoordigen indien deze vennootschap de realisatie van lokale PPS-projecten in de zin van het decreet betreffende publiek-private samenwerking als uitsluitende doelstelling heeft.<br>
+<br>
+§ 2. Deze oprichting, deelname of vertegenwoordiging mag niet gepaard gaan met de overdracht of terbeschikkingstelling van gemeentelijke infrastructuur, noch met de overdracht of terbeschikkingstelling van personeel.<br>
+<br>
+In afwijking van het eerste lid en voor zover dat nader bepaald is in de rechtspositieregeling van het gemeentepersoneel kunnen personeelsleden in statutair dienstverband ter beschikking gesteld worden aan de vereniging vermeld in § 1, eerste lid. De terbeschikkingstelling is tijdelijk en gebeurt op basis van een overeenkomst tussen de gemeente en de vereniging zonder winstoogmerk waaraan het personeel ter beschikking gesteld wordt.<br>
+<br>
+De aanstellende overheid beslist, in overeenstemming met de rechtspositieregeling, over de individuele terbeschikkingstelling van het personeelslid en sluit de overeenkomst van terbeschikkingstelling af.<br>
+<br>
+§ 3. Het is de gemeenten verboden om, rechtstreeks of onrechtstreeks, rechtspersonen die niet belast zijn met welbepaalde taken van gemeentelijk belang op te richten, erin deel te nemen of zich erin te laten vertegenwoordigen, tenzij die rechtspersonen voldoen aan de voorschriften van dit hoofdstuk of er voor die oprichting, deelname of vertegenwoordiging een andere decretale of wettelijke rechtsgrond bestaat.
 
 ## HOOFDSTUK VI Contracten tussen gemeenten
 
@@ -1296,7 +1411,11 @@ Er zijn geen andere bestuursorganen met beslissingsbevoegdheid dan de in de voor
 
 ### ART. 241.
 
-§ 1. Het personeel van het autonoom gemeentebedrijf kan in statutair of contractueel verband worden aangesteld.<br /><br />§ 2. De overeenstemmende rechtspositieregeling van het gemeentepersoneel is van toepassing op het personeel van het autonoom gemeentebedrijf. Het autonoom gemeentebedrijf stelt de afwijkingen op deze rechtspositieregeling vast, voorzover het specifieke karakter van het autonoom gemeentebedrijf dat verantwoordt. Het gemeentebedrijf bepaalt de rechtspositieregeling van de betrekkingen die niet bestaan binnen de gemeente.<br /><br />§ 3. In afwijking van paragraaf 2 kan er aan geen enkel personeelslid van het autonoom gemeentebedrijf eenjaarsalaris worden toegekend dat gelijk of hoger is dan het jaarsalaris van de gemeentesecretaris van de overeenkomstige gemeente.
+§ 1. Het personeel van het autonoom gemeentebedrijf kan in statutair of contractueel verband worden aangesteld.<br>
+<br>
+§ 2. De overeenstemmende rechtspositieregeling van het gemeentepersoneel is van toepassing op het personeel van het autonoom gemeentebedrijf. Het autonoom gemeentebedrijf stelt de afwijkingen op deze rechtspositieregeling vast, voorzover het specifieke karakter van het autonoom gemeentebedrijf dat verantwoordt. Het gemeentebedrijf bepaalt de rechtspositieregeling van de betrekkingen die niet bestaan binnen de gemeente.<br>
+<br>
+§ 3. Behalve in geval van gemotiveerde afwijking, kan aan geen enkel personeelslid van het autonoom gemeentebedrijf een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan het jaarsalaris van de gemeentesecretaris van de overeenkomstige gemeente.
 
 ### ART. 242.
 
@@ -1334,7 +1453,13 @@ Onmiddellijk na het bezorgen van het meerjarenplan, de aanpassing van het meerja
 
 ### ART. 247.
 
-Tussen de gemeente en de gemeentelijke vennootschap, vereniging of   stichting wordt een samenwerkingsovereenkomst gesloten betreffende de uitvoering   van de toevertrouwde taken van gemeentelijk belang. De samenwerkingsovereenkomst   regelt de volgende aangelegenheden:<BR>1° in voorkomend geval de aanwending van   de aan het agentschap ter beschikking gestelde of overgedragen personeelsleden,   middelen en infrastructuur;<BR>2° binnen de perken en overeenkomstig de   toekenningsvoorwaarden, bepaald door de Vlaamse Regering, het presentiegeld en   de andere vergoedingen die in het kader van de bestuurlijke werking van het   agentschap worden toegekend;<BR>3° de wijze waarop de gemeentelijke   vennootschap, vereniging of stichting zal voorzien in een systeem van interne   controle;<BR>4° de toekenning aan een of meer commissarissen van de controle op   de financiële toestand, op de jaarrekening en op de regelmatigheid van de   verrichtingen weer te geven in de jaarrekening van de gemeentelijke   vennootschap, vereniging of stichting. Die commissarissen zijn erkende   bedrijfsrevisoren.<BR><BR>Aan geen enkel personeelslid van een gemeentelijke   vennootschap, vereniging of stichting, als vermeld in deze afdeling van het   decreet, kan een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan   het jaarsalaris van de gemeentesecretaris van de overeenkomstige gemeente.
+Tussen de gemeente en de gemeentelijke vennootschap, vereniging of stichting wordt een samenwerkingsovereenkomst gesloten betreffende de uitvoering van de toevertrouwde taken van gemeentelijk belang. De samenwerkingsovereenkomst regelt de volgende aangelegenheden:<br>
+1° in voorkomend geval de aanwending van de aan het agentschap ter beschikking gestelde of overgedragen personeelsleden, middelen en infrastructuur;<br>
+2° binnen de perken en overeenkomstig de toekenningsvoorwaarden, bepaald door de Vlaamse Regering, het presentiegeld en de andere vergoedingen die in het kader van de bestuurlijke werking van het agentschap worden toegekend;<br>
+3° de wijze waarop de gemeentelijke vennootschap, vereniging of stichting zal voorzien in een systeem van interne controle;<br>
+4° de toekenning aan een of meer commissarissen van de controle op de financiële toestand, op de jaarrekening en op de regelmatigheid van de verrichtingen weer te geven in de jaarrekening van de gemeentelijke vennootschap, vereniging of stichting. Die commissarissen zijn erkende bedrijfsrevisoren.<br>
+<br>
+Behalve in geval van gemotiveerde afwijking, kan aan geen enkel personeelslid van een gemeentelijke vennootschap, vereniging of stichting, als vermeld in deze afdeling, een jaarsalaris worden toegekend dat gelijk is aan of hoger is dan het jaarsalaris van de gemeentesecretaris van de overeenkomstige gemeente.
 
 ## Afdeling IV Het autonoom gemeentelijk havenbedrijf
 
@@ -1350,7 +1475,13 @@ De autonome gemeentelijke havenbedrijven zijn de havenbedrijven in de zin van he
 
 ### ART. 248.
 
-§ 1. Voor de toepassing van deze titel wordt verstaan onder:<br /><br />1° gemeenteoverheid: de organen en personeelsleden van de gemeente en de autonome gemeentebedrijven die een beslissing nemen;<br /><br />2° toezichthoudende overheid: de Vlaamse Regering en, namens de Vlaamse Regering, de provinciegouverneur die handelt overeenkomstig de instructies van de Vlaamse Regering.<br /><br />§ 2. Wat betreft de eengemeentezones en de meergemeentezones wordt het bestuurlijk toezicht geregeld door de bepalingen van hoofdstuk I, afdeling IV.
+§ 1. Voor de toepassing van deze titel wordt verstaan onder:<br>
+1° gemeenteoverheid: de organen en personeelsleden van de gemeente en de autonome gemeentebedrijven die een beslissing nemen;<br>
+2° toezichthoudende overheid: de Vlaamse Regering en, namens de Vlaamse Regering, de provinciegouverneur die handelt overeenkomstig de instructies van de Vlaamse Regering.<br>
+<br>
+§ 2. Wat betreft de eengemeentezones en de meergemeentezones wordt het bestuurlijk toezicht geregeld door de bepalingen van hoofdstuk I, afdeling IV.<br>
+<br>
+§ 3. Voor de hulpverleningszones wordt het bestuurlijk toezicht geregeld door de bepalingen van hoofdstuk I, afdeling V.
 
 ### ART. 249.
 
@@ -1423,6 +1554,18 @@ Voorzover de overheden van de eengemeentezones en de meergemeentezones hun beslu
 ...
 
 ## [Afdeling V Hulpverleningszones, ingesteld met toepassing van de wet van 15 mei 2007 betreffende de civiele veiligheid (ing. decr. 3 juni 2016, art. 27, I: 8 juli 2016)]
+
+### ART 264bis.
+
+De bepalingen van afdeling I tot en met III zijn, met uitzondering van artikel 253, binnen de grenzen van hun bevoegdheden van overeenkomstige toepassing op de hulpverleningszones, vermeld in de wet van 15 mei 2007 betreffende de civiele veiligheid, en op de besluiten die door hen worden genomen met betrekking tot de voormelde hulpverleningszones, waarbij in die bepalingen de hiernavolgende woorden worden gelezen als volgt:<br>
+1° gemeenteraad als zoneraad;<br>
+2° college van burgemeester en schepenen als zonecollege;<br>
+3° gemeenteoverheid als zoneraad of zonecollege;<br>
+4° gemeentepersoneel als personeel van de hulpverleningszone.
+
+### ART 264ter.
+
+Als de overheden van de hulpverleningszones hun besluiten en handelingen, met toepassing van titel III, hoofdstuk VII, van de wet van 15 mei 2007 betreffende de civiele veiligheid, onderworpen zijn aan een specifiek toezicht, kan tegen die overheden, hun besluiten en handelingen geen enkele toezichtsmaatregel, als vermeld in titel VIII, hoofdstuk I, afdeling II, van dit decreet, worden genomen op grond van schending van een bepaling, vervat in of genomen krachtens die voormelde wet.
 
 ## HOOFDSTUK II Externe audit
 
