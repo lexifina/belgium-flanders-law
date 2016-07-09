@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026940,
+  "title": "Decreet van 2016-06-03 tot bekrachtiging van het besluit van de Vlaamse Regering van 11 maart 2016 tot ontvankelijkheid en gelijkwaardigheid van een aanvraag tot afwijking van de eindtermen van de derde graad van het algemeen secundair onderwijs, wat natuurwetenschappen of fysica en/of chemie en/of biologie betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026940/VolledigDocument?datum=2016-07-09",
+  "source_sha256": "3d042261dfc59265a8bc8b16746ef20d19e8a8c5985ea11da6ac5baec6d4fd44",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026940&param=informatie",
+  "as_of": "2016-07-09",
+  "made": "2016-06-03",
+  "gazette": "2016-06-29",
+  "numac": 2016035964,
+  "document_start": "2016-07-09",
+  "document_end": null,
+  "in_force": "2016-07-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
