@@ -42,7 +42,12 @@ Bij een fusie of splitsing van organisaties die een of meer geregulariseerde DAC
 
 ### ART. 9.
 
-De middelen die voor de aanvullende subsidie voor tewerkstelling binnen de   culturele sector beschik-baar zijn, worden met ingang van de in artikel 16   opgenomen termijnen verdeeld over de verschillende sectoren naar rato van de   verdeling van de middelen die werden overgeheveld door de VDAB naar de sectoren   op het moment van de regularisatie. De middelen worden concreet verdeeld over de   volgende sectoren:<BR>1° lokaal cultuurbeleid;<BR>2° gemeentelijk   jeugdwerkbeleid;<BR>3° sociaal-cultureel volwassenenwerk;<BR>4° landelijk   jeugdwerk;<BR>5° musea.<BR><BR>De middelen, beschikbaar voor de sector   gemeentelijk jeugdwerkbeleid, worden verdeeld over de volgende subsectoren   :<BR>1° lokaal jeugdwerk met maatschappelijk kwetsbare kinderen en jongeren   conform artikel 4, § 1, eerste lid, 2°, van het decreet van 6 juli 2012 houdende   de ondersteuning en stimulering van het lokaal jeugdbeleid en de bepaling van   het provinciaal jeugdbeleid;<BR>2° ander jeugdwerk, ter ondersteuning van het   jeugdhuiswerk.
+De middelen die voor de aanvullende subsidie voor tewerkstelling binnen de culturele sector beschik-baar zijn, worden met ingang van de in artikel 16 opgenomen termijnen verdeeld over de verschillende sectoren naar rato van de verdeling van de middelen die werden overgeheveld door de VDAB naar de sectoren op het moment van de regularisatie. De middelen worden concreet verdeeld over de volgende sectoren:<br>
+1° lokaal cultuurbeleid;<br>
+2° niet-landelijk jeugdwerk;<br>
+3° sociaal-cultureel volwassenenwerk;<br>
+4° landelijk jeugdwerk;<br>
+5° musea.
 
 ### ART. 10.
 
@@ -54,13 +59,11 @@ De subsidies voor de loonkosten kunnen nooit meer bedragen dan 35.510 euro per v
 
 ### ART. 12.
 
-Op basis van objectieve parameters bepaalt de Vlaamse regering, telkens voor het begin van een nieuwe beleidsplanperiode, welke gemeentebesturen in aanmerking komen voor subsidies in het kader van het gemeentelijk jeugdwerkbeleidsplan en gemeentelijk cultuurbeleidsplan en wat de omvang is van het contingent waarop de gemeentebesturen een beroep mogen doen.<br>
-<br>
 Op basis van objectieve parameters wordt, telkens voor het begin van een nieuwe beleidsplanperiode, de omvang bepaald van het contingent waarop de organisaties een beroep mogen doen in het kader van hun beleidsplan.<br>
 <br>
 De Vlaamse regering legt de objectieve parameters vast en bepaalt de nadere regels met betrekking tot de verdeling van de middelen binnen elke sector na voorafgaand advies van de betrokken adviesraden en na consultatie van de sociale partners.<br>
 <br>
-De Vlaamse Regering bepaalt na consultatie van de sociale partners en na advies van de Vlaamse Jeugdraad en van de Sectorraad Sociaal-Cultureel Werk van de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media de nadere regels voor de verdeling van de middelen voor de subsector ander jeugdwerk.
+De Vlaamse Regering bepaalt na consultatie van de sociale partners en na advies van de Vlaamse Jeugdraad en van de Sectorraad Sociaal-Cultureel Werk van de Strategische Adviesraad voor Cultuur, Jeugd, Sport en Media de nadere regels voor de verdeling van de middelen voor de subsector niet-landelijk jeugdwerk.
 
 ### ART. 13.
 
@@ -70,17 +73,43 @@ De middelen die voor de aanvullende subsidie voor tewerkstelling beschikbaar zij
 
 ### ART. 14.
 
-De tewerkstelling moet gerealiseerd worden bij een vereniging zonder winstoogmerk.<br /><br />De gemeentebesturen geven in hun gemeentelijk jeugdwerkbeleidsplan of cultuurbeleidsplan aan bij welke organisatie en waarvoor deze tewerkstelling wordt ingezet.<br /><br />Bij ontstentenis van een gemeentelijk jeugdwerkbeleidsplan of cultuurbeleidsplan wordt een specifieke verant-woordingsnota opgesteld, die het voorwerp is van een inspraakronde en van een advies van de gemeentelijke cultuur- of jeugdraad.<br /><br />De minister kan in het kader van het lokale cultuurbeleid een uitzondering toestaan op de in het eerste lid geformuleerde vereiste dat de tewerkstelling gerealiseerd moet worden bij een vereniging zonder winstoogmerk. Het verzoek om toekenning van een uitzondering moet uitdrukkelijk gemotiveerd zijn in het gemeentelijk cultuurbeleidsplan of in de specifieke verantwoordingsnota. Bovendien is de instemming van de betrokken gemeentebesturen en een positief advies van de gemeentelijke cultuurraden vereist. De Vlaamse regering bepaalt de nadere regels.
+De tewerkstelling moet gerealiseerd worden bij een vereniging zonder winstoogmerk.<br>
+<br>
+De minister kan in het kader van het lokale cultuurbeleid een uitzondering toestaan op de in het eerste lid geformuleerde vereiste dat de tewerkstelling gerealiseerd moet worden bij een vereniging zonder winstoogmerk. Het verzoek om toekenning van een uitzondering moet uitdrukkelijk gemotiveerd zijn in het gemeentelijk cultuurbeleidsplan of in de specifieke verantwoordingsnota. Bovendien is de instemming van de betrokken gemeentebesturen en een positief advies van de gemeentelijke cultuurraden vereist. De Vlaamse regering bepaalt de nadere regels.
 
 ### ART. 15.
 
-De gemeentebesturen moeten de vermindering van subsidies bij vroegere DAC-promotoren voor aanvullende tewerkstelling motiveren in het gemeentelijk jeugdwerkbeleidsplan, cultuurbeleidsplan of in de specifieke verantwoordingsnota. De betrokken organisaties kunnen tegen deze beslissing bezwaar aantekenen bij de administratie. De Vlaamse regering bepaalt de nadere regels.
+...
 
 ## HOOFDSTUK IV OVERGANGSBEPALINGEN
 
 ### ART. 16.
 
-De eerste verdeling, bedoeld in artikelen 9 en 10, kan pas plaatsvinden naar aanleiding van de eerst-volgende beleidsplannen, en op zijn vroegst:<br />1° voor het lokale cultuurbeleid: 2008-2013;<br />2° voor het lokale jeugdwerkbeleid: 2008-2011;<br />3° voor het sociaal-cultureel volwassenenwerk: 2010-2013;<br />4° voor het landelijk jeugdwerk: 2007-2009;<br />5° voor musea: 2009-2014.<br /><br />Onverminderd de toepassing van het eerste lid vinden de eerste verdeling en toewijzing, bedoeld in artikelen 9 en 10, op zijn vroegst plaats twee jaar nadat met toepassing van artikel 12, derde lid, de objectieve parameters en regels voor de betrokken sector zijn vastgelegd.<br /><br />In afwijking van het tweede lid, vindt, wat het landelijk jeugdwerk betreft, de eerste verdeling en toewijzing, bedoeld in artikelen 9 en 10, plaats in het kader van de bespreking van de beleidsnota 2007-2009. <br /><br />In afwijking van het tweede lid wijst de Vlaamse Regering de personeelsfuncties waarin geregulariseerde DAC'ers tewerkgesteld zijn, die op het ogenblik van de inwerkingtreding van dit decreet onder de toepassing vallen van artikelen 5 en 6, voor zover zij niet te situeren zijn in de erkende of gesubsidieerde organisaties, vermeld in artikelen 2, 8°, en 9, 2°, en voor zover de personeelsfuncties behoren tot de subsector, vermeld in artikel 9, 1°, toe aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br /><br />Bij wijze van overgang wordt bij de vaststelling van de toe te wijzen personeelsfuncties rekening gehouden met de volgende principes :<br />1° voor de projecten, die op het ogenblik van de inwerkingtreding van dit decreet maximaal twee voltijdse equivalenten personeelsfuncties gesubsidieerd krijgen, gebeurt de toewijzing vanaf 1 januari 2009;<br />2° per project kan de toewijzing die op het ogenblik van de inwerkingtreding van dit decreet plaatsvindt, niet hoger zijn dan het equivalent van twee voltijdse personeelsfuncties;<br />3° onverminderd de toepassing van 2° behouden de projecten in 2008 altijd minstens een subsidiabel personeelsbestand van minstens twee voltijdse equivalenten personeelsfuncties.<br /><br />De personeelsfuncties die in de loop van de toepassing van dit decreet onder de toepassing van de artikelen 5 en 6 komen, worden, met toepassing van de principes 1°, 2° en 3°, van het vijfde lid van dit artikel, in afwijking van artikel 6, eerste lid, onmiddellijk toegewezen aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br /><br />In afwijking van het tweede lid vindt voor het sociaal-cultureel volwassenenwerk de eerste verdeling en toewijzing plaats vanaf het jaar, volgend op de vaststelling van de objectieve parameters en regels door de Vlaamse Regering.<br /><br />In afwijking van het tweede lid vindt voor het gemeentelijk jeugdwerkbeleid de eerste verdeling en toewijzing plaats op 1 januari 2014.
+De eerste verdeling, bedoeld in artikelen 9 en 10, kan pas plaatsvinden naar aanleiding van de eerst-volgende beleidsplannen, en op zijn vroegst:<br>
+1° voor het lokale cultuurbeleid: 2008-2013;<br>
+2° voor het lokale jeugdwerkbeleid: 2008-2011;<br>
+3° voor het sociaal-cultureel volwassenenwerk: 2010-2013;<br>
+4° voor het landelijk jeugdwerk: 2007-2009;<br>
+5° voor musea: 2009-2014.<br>
+<br>
+Onverminderd de toepassing van het eerste lid vinden de eerste verdeling en toewijzing, bedoeld in artikelen 9 en 10, op zijn vroegst plaats twee jaar nadat met toepassing van artikel 12, derde lid, de objectieve parameters en regels voor de betrokken sector zijn vastgelegd.<br>
+<br>
+In afwijking van het tweede lid, vindt, wat het landelijk jeugdwerk betreft, de eerste verdeling en toewijzing, bedoeld in artikelen 9 en 10, plaats in het kader van de bespreking van de beleidsnota 2007-2009.<br>
+<br>
+In afwijking van het tweede lid wijst de Vlaamse Regering de personeelsfuncties waarin geregulariseerde DAC'ers tewerkgesteld zijn, die op het ogenblik van de inwerkingtreding van dit decreet onder de toepassing vallen van artikelen 5 en 6, voor zover zij niet te situeren zijn in de erkende of gesubsidieerde organisaties, vermeld in artikelen 2, 8°, en 9, 2°, en voor zover de personeelsfuncties behoren tot de subsector, vermeld in artikel 9, 1°, toe aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br>
+<br>
+Bij wijze van overgang wordt bij de vaststelling van de toe te wijzen personeelsfuncties rekening gehouden met de volgende principes :<br>
+1° voor de projecten, die op het ogenblik van de inwerkingtreding van dit decreet maximaal twee voltijdse equivalenten personeelsfuncties gesubsidieerd krijgen, gebeurt de toewijzing vanaf 1 januari 2009;<br>
+2° per project kan de toewijzing die op het ogenblik van de inwerkingtreding van dit decreet plaatsvindt, niet hoger zijn dan het equivalent van twee voltijdse personeelsfuncties;<br>
+3° onverminderd de toepassing van 2° behouden de projecten in 2008 altijd minstens een subsidiabel personeelsbestand van minstens twee voltijdse equivalenten personeelsfuncties.<br>
+<br>
+De personeelsfuncties die in de loop van de toepassing van dit decreet onder de toepassing van de artikelen 5 en 6 komen, worden, met toepassing van de principes 1°, 2° en 3°, van het vijfde lid van dit artikel, in afwijking van artikel 6, eerste lid, onmiddellijk toegewezen aan organisaties die gesubsidieerd worden in het kader van het Participatiedecreet.<br>
+<br>
+In afwijking van het tweede lid vindt voor het sociaal-cultureel volwassenenwerk de eerste verdeling en toewijzing plaats vanaf het jaar, volgend op de vaststelling van de objectieve parameters en regels door de Vlaamse Regering.<br>
+<br>
+In afwijking van het tweede lid vindt voor het gemeentelijk jeugdwerkbeleid de eerste verdeling en toewijzing plaats op 1 januari 2014.<br>
+<br>
+In afwijking van artikel 6 geldt dat als de arbeidsovereenkomst met een geregulariseerde DAC-werknemer in de sector niet-landelijk jeugdwerk beëindigd wordt of beëindigd is, de vervanger van de geregulariseerde DAC'er gesubsidieerd wordt tot en met 31 december van het jaar dat volgt op de beëindiging van de arbeidsovereenkomst. De eerste herverdeling vindt plaats na 31 december 2016.
 
 ### ART. 17.
 
