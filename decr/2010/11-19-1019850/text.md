@@ -30,7 +30,10 @@ Muntpunt heeft tot taak : <br />1° te fungeren als een centraal aanspreekpunt m
 
 ### ART. 6.
 
-De algemene vergadering en de raad van bestuur worden samengesteld op basis van artikel 9, c), van het decreet van 28 januari 1974 betreffende het cultuurpact.<br /><br />De helft van de leden plus één van de algemene vergadering en van de raad van bestuur worden door de Vlaamse Gemeenschap voorgedragen. De andere leden worden door de Vlaamse Gemeenschapscommissie voorgedragen. <br /><br />
+De algemene vergadering en de raad van bestuur worden samengesteld op basis van artikel 9, c), van het decreet van 28 januari 1974 betreffende het cultuurpact.<br>
+<br>
+De helft van de leden plus één van de algemene vergadering wordt door de Vlaamse Gemeenschap voorgedragen, de andere leden worden door de Vlaamse Gemeenschapscommissie voorgedragen. De raad van bestuur bestaat uit vier leden die voorgedragen zijn door de Vlaamse Gemeenschap, drie leden die voorgedragen zijn door de Vlaamse Gemeenschapscommissie, en vier onafhankelijke leden conform artikel 5 van het decreet van 22 november 2013 betreffende deugdelijk bestuur in de Vlaamse publieke sector.<br>
+&nbsp;
 
 ### ART. 7.
 
