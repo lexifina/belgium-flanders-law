@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026937,
+  "title": "Decreet van 2016-06-03 houdende instemming met het akkoord tussen het Koninkrijk België en Bermuda inzake de uitwisseling van inlichtingen met betrekking tot belastingaangelegenheden, ondertekend te Brussel op 11 april 2013 en te Hamilton op 23 mei 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026937/VolledigDocument?datum=2016-07-09",
+  "source_sha256": "d16bac75aac1e878aef1929cf077889a3ebb6efb879e79da222202eb23a6dc14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026937&param=informatie",
+  "as_of": "2016-07-09",
+  "made": "2016-06-03",
+  "gazette": "2016-06-29",
+  "numac": 2016035963,
+  "document_start": "2016-07-09",
+  "document_end": null,
+  "in_force": "2016-07-09",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-07-09; oldest version available; future article versions excluded; article text as the API gives it"
+}
