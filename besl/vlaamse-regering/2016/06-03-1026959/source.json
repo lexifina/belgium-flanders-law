@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026959,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-03 houdende indeling bij de gemeentewegen van de parallelweg N34-Albert I-laan (lengte: 426 meter) op het grondgebied van de gemeente Koksijde",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026959/VolledigDocument?datum=2016-07-10",
+  "source_sha256": "b1ea7595e699c9c813e4d74d6e58dab903ac34fcd42c53807e6343ed3a08148f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026959&param=informatie",
+  "as_of": "2016-07-10",
+  "made": "2016-06-03",
+  "gazette": "2016-06-30",
+  "numac": 2016035977,
+  "document_start": "2016-07-10",
+  "document_end": null,
+  "in_force": "2016-07-10",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-07-10; oldest version available; future article versions excluded; article text as the API gives it"
+}
