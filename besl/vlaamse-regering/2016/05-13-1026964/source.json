@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026964,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-13 tot wijziging van het Fokkerijbesluit van 19 maart 2010, wat betreft het identificatiedocument van paardachtigen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026964/VolledigDocument?datum=2016-07-11",
+  "source_sha256": "1c02e21cbfc2c306918d453f14267349d6acb337f86159b934e3b8cd155ca82a",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026964&param=informatie",
+  "as_of": "2016-07-11",
+  "made": "2016-05-13",
+  "gazette": "2016-07-01",
+  "numac": 2016035950,
+  "document_start": "2016-07-11",
+  "document_end": null,
+  "in_force": "2016-07-11",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
