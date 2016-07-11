@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026972,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-03 houdende indeling bij de gemeentewegen van de gewestweg N15a Nekkerspoelstraat en Putsesteenweg tussen kilometerpunt 0.0 en 2.478 op het grondgebied van de stad Mechelen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026972/VolledigDocument?datum=2016-07-11",
+  "source_sha256": "98e44182190ab91f4142b61eabbaed840a4034f580239922acc58190cbfb9a1b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026972&param=informatie",
+  "as_of": "2016-07-11",
+  "made": "2016-06-03",
+  "gazette": "2016-07-01",
+  "numac": 2016036019,
+  "document_start": "2016-07-11",
+  "document_end": null,
+  "in_force": "2016-07-11",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
