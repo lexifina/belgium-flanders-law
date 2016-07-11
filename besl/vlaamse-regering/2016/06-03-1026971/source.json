@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026971,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-03 tot wijziging van diverse bepalingen van het koninklijk besluit van 11 september 1989 betreffende de pachtprijzencommissies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026971/VolledigDocument?datum=2016-07-11",
+  "source_sha256": "8ec0effe1f44a885d5a263d8bbb12adf397cc378c40624c322d8b52de3b89b9e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026971&param=informatie",
+  "as_of": "2016-07-11",
+  "made": "2016-06-03",
+  "gazette": "2016-07-01",
+  "numac": 2016036020,
+  "document_start": "2016-07-11",
+  "document_end": null,
+  "in_force": "2016-07-11",
+  "article_versions": 13,
+  "record_form": "consolidated version as in force on 2016-07-11; oldest version available; future article versions excluded; article text as the API gives it"
+}
