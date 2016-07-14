@@ -285,7 +285,7 @@ De diensten voor gezinszorg en aanvullende thuiszorg die erkend waren en   die o
 
 ### ART. 45/5.
 
-In afwijking van hoofdstuk II kunnen met ingang van 1 november 2015 tot en   met 14 juli 2016 geen ontvankelijke aanvragen van de erkenning als dienst voor   gezinszorg en aanvullende thuiszorg worden ingediend. Aanvragen die in die   periode worden ingediend, worden van rechtswege geacht niet ontvankelijk te zijn   en worden niet onderzocht.
+In afwijking van hoofdstuk II kunnen met ingang van 1 november 2015 tot en met 14 juli 2017 geen ontvankelijke aanvragen van de erkenning als dienst voor gezinszorg en aanvullende thuiszorg worden ingediend. Aanvragen die in die periode worden ingediend, worden van rechtswege geacht niet ontvankelijk te zijn en worden niet onderzocht.
 
 ### ART. 46.
 
