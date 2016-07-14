@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026942,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 tot wijziging van artikel 45/5 van het besluit van de Vlaamse Regering van 5 juni 2009 betreffende de procedures voor woonzorgvoorzieningen en verenigingen van gebruikers en mantelzorgers",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026942/VolledigDocument?datum=2016-07-14",
+  "source_sha256": "d626bc1046690ac2d77d7e123706bec684e354602467901c2ababf804a603578",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026942&param=informatie",
+  "as_of": "2016-07-14",
+  "made": "2016-06-17",
+  "gazette": "2016-06-29",
+  "numac": 2016036037,
+  "document_start": "2016-07-14",
+  "document_end": null,
+  "in_force": "2016-07-14",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-07-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
