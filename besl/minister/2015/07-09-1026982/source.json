@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026982,
+  "title": "Ministerieel besluit van 2015-07-09 tot wijziging van het ministerieel besluit van 23 april 2014 tot uitvoering van het Subsidiebesluit van 22 november 2013, wat betreft de percentages van de compensatie van subsidieverschil",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026982/VolledigDocument?datum=2016-07-15",
+  "source_sha256": "65dddd5824eb343993ef8958dd3f1a17f2516e427d4f51d8b4f512a466e553f8",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026982&param=informatie",
+  "as_of": "2016-07-15",
+  "made": "2015-07-09",
+  "gazette": "2016-07-05",
+  "numac": 2016036064,
+  "document_start": "2016-07-15",
+  "document_end": null,
+  "in_force": "2016-07-15",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
