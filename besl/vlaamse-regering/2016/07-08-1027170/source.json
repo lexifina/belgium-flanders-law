@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027170,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-08 houdende de wijziging van diverse bepalingen van het besluit van de Vlaamse Regering van 4 april 2014 houdende uitvoering van het decreet van 20 december 2013 inzake gezond en ethisch sporten",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027170/VolledigDocument?datum=2016-07-15",
+  "source_sha256": "9badf53294a8cad82f118c69754196934f7c976ead07290942b427dc2317d0ac",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027170&param=informatie",
+  "as_of": "2016-07-15",
+  "made": "2016-07-08",
+  "gazette": "2016-08-29",
+  "numac": 2016036200,
+  "document_start": "2016-07-15",
+  "document_end": null,
+  "in_force": "2016-07-15",
+  "article_versions": 11,
+  "record_form": "consolidated version as in force on 2016-07-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
