@@ -2,16 +2,16 @@
   "codex_id": 1024268,
   "title": "Ministerieel besluit van 2014-04-23 tot uitvoering van het Subsidiebesluit van 22 november 2013",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024268/VolledigDocument?datum=2016-01-01",
-  "source_sha256": "7afd76e7524d0de2bf8a3d66664563b75bb03bd20153e4ec2897e96ad463395a",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1024268/VolledigDocument?datum=2016-07-15",
+  "source_sha256": "b04c80e58e2efa97bd78c9498671d572fb3825233925bd83b9cf8ed9a90d2db6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1024268&param=informatie",
-  "as_of": "2016-01-01",
+  "as_of": "2016-07-15",
   "made": "2014-04-23",
   "gazette": "2014-07-04",
   "numac": 2014203367,
   "document_start": "2014-04-01",
   "document_end": null,
-  "in_force": "2016-01-01",
+  "in_force": "2016-07-15",
   "article_versions": 44,
-  "record_form": "consolidated version as in force on 2016-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-15; future article versions excluded; article text as the API gives it"
 }

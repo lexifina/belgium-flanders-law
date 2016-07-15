@@ -275,7 +275,11 @@ De som van de subsidies, vermeld in artikel 38, wordt als volgt   berekend:<BR>1
 
 ### ART. 40.
 
-De hoogte van de compensatie, vermeld in artikel 38, is gebaseerd op het   verschil tussen de som van de subsidies in 2013 en de som van de subsidies met   toepassing van het Subsidiebesluit van 22 november 2013, en bedraagt:<BR>1° voor   2014: 75 % van dat verschil;<BR>2° voor 2015: 90 % van dat verschil;<BR>3° voor   2016: 60 % van dat verschil;<BR>4° voor 2017: 30 % van dat   verschil.<BR>
+De hoogte van de compensatie, vermeld in artikel 38, is gebaseerd op het verschil tussen de som van de subsidies in 2013 en de som van de subsidies met toepassing van het Subsidiebesluit van 22 november 2013, en bedraagt:<br>
+1° voor 2014: 75 % van dat verschil;<br>
+2° voor 2015: 100 % van dat verschil;<br>
+3° voor 2016: 50 % van dat verschil;<br>
+4° voor 2017: 30 % van dat verschil.
 
 ### ART. 41.
 
