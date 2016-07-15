@@ -37,7 +37,7 @@
 In dit besluit wordt verstaan onder:<br>
 1° administratie: het agentschap Sport Vlaanderen, opgericht bij het decreet van 7 mei 2004 betreffende het intern verzelfstandigd agentschap met rechtspersoonlijkheid "Sport Vlaanderen";<br>
 2° het decreet: het decreet van 20 december 2013 inzake gezond en ethisch sporten;<br>
-3° erkende sportfederatie: de sportorganisatie die erkend is als Vlaamse sportfederatie met toepassing van het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+3° erkende sportfederatie: de sportorganisatie die erkend is als Vlaamse sportfederatie met toepassing van het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
 4° kwaliteitsstandaard: de kwaliteitsstandaard, vermeld in artikel 2, 5°, van het decreet.<br>
 5° lerend netwerk: het lerend netwerk, vermeld in artikel 2, 7°, van het decreet;<br>
 6° minister: de Vlaamse minister, bevoegd voor de lichamelijke opvoeding, de sport en het openluchtleven;<br>
@@ -73,11 +73,12 @@ In dit besluit wordt verstaan onder:<br>
 De minister richt een lerend netwerk voor ethisch sporten op overeenkomstig de modaliteiten, vermeld in artikel 4, waartoe minstens de vertegenwoordigers behoren van:<br>
 1° de administratie;<br>
 2° ...;<br>
-3° de koepelorganisatie, erkend en gesubsidieerd conform het decreet van 13 juli 2001 houdende de regeling van de erkenning en subsidiëring van de Vlaamse sportfederaties, de koepelorganisatie en de organisaties voor de sportieve vrijetijdsbesteding;<br>
+3° de koepelorganisatie, erkend en gesubsidieerd conform het decreet van 10 juni 2016 houdende de erkenning en subsidiëring van de georganiseerde sportsector;<br>
 4° de organisatie voor de begeleiding van de gemeenten, de Vlaamse Gemeenschapscommissie en de provincies in het kader van de Vlaamse beleidsprioriteiten Sport voor Allen, erkend en gesubsidieerd conform het decreet van 6 juli 2012 houdende het stimuleren en subsidiëren van een lokaal sportbeleid;<br>
 5° de vereniging voor de organisatie van schoolsport, gesubsidieerd conform het decreet van 13 februari 2009 houdende de organisatie van schoolsport;<br>
 6° de organisatie voor de coördinatie en tewerkstelling van een pool van sportbegeleiders en sportondersteuners, erkend en gesubsidieerd conform het decreet van 8 november 2013 houdende het stimuleren, het coördineren en het subsidiëren van de tewerkstelling in de sportsector;<br>
-7° in voorkomend geval, een organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van ethisch sporten, erkend en gesubsidieerd conform artikel 14 van het decreet.
+7° in voorkomend geval, een organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van ethisch sporten, erkend en gesubsidieerd conform artikel 14 van het decreet.<br>
+8° in voorkomend geval, een organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond en ethisch sporten in de fitness, erkend en gesubsidieerd conform artikel 14/1 van het decreet.
 
 ## Afdeling 2 Richtsnoeren
 
@@ -120,19 +121,59 @@ De minister richt een lerend netwerk voor ethisch sporten op overeenkomstig de m
 
 ### ART. 9.
 
-<P>§ 1. De aanvraag tot erkenning als organisatie voor beleidsondersteuning en   praktijkontwikkeling op het gebied van gezond of ethisch sporten, vermeld in   artikel 14 van het decreet, wordt, overeenkomstig artikel 14, § 4, eerste lid,   eerste zin van het decreet, uiterlijk op 15 september van het jaar dat   voorafgaat aan de driejaarlijkse beleidscyclus, waarvan de eerste start op 1   januari 2015, bij de administratie ingediend.<BR></P>  <P>§ 2. De aanvraag wordt ingediend met een brief die gericht is aan de   administratie, aan de hand van een dossier dat toelaat te beoordelen of de   aanvragende organisatie aan de decretale erkenningsvoorwaarden voldoet.<BR></P>  <P>De aanvraag bevat ten minste:<BR>1° de identiteitsgegevens van de   aanvrager;<BR>2° een beschrijving van de missie en statutaire doelstelling, de   werking en de samenstelling van de organisatie, alsook de statuten van de   rechtspersoon waarin de organisatie is opgericht;<BR>3° een verantwoording   waarom de organisatie in aanmerking meent te komen voor erkenning;<BR>4° het   beleidsplan, vermeld in artikel 14, § 4, van het decreet;<BR>5° het eerste   jaarlijkse actieplan, vermeld in artikel 14, § 6, eerste lid, van het   decreet;<BR>6° het beoogde driejarige financieringsbudget met een bijgevoegde   gedetailleerde en verantwoorde begroting die daarop betrekking heeft, dat de   volgende elementen bevat:<BR>a) een uitsplitsing van de begroting per   werkingsjaar;<BR>b) een indeling van de begroting naargelang het gaat om basis-,   personeels- en werkingskosten waarvoor de subsidie zal worden aangewend;<BR>c)   eventueel voorziene opbrengsten die uit de gesubsidieerde werking kunnen   voortvloeien;<BR>7° de verhouding van de begroting, vermeld in punt 6°, en het   beoogde driejarige financieringsbudget tot de totale begroting van de   organisatie.<BR></P>  <P>De administratie kan voor de aanvraag een formulier ter beschikking   stellen.<BR></P>  <P>§ 3. De administratie brengt binnen een termijn van vijftien dagen na de   ontvangst van de aanvraag de aanvragende organisatie ervan op de hoogte of haar   erkenningsaanvraag al dan niet ontvankelijk is. In voorkomend geval wordt de   reden van de niet-ontvankelijkheid vermeld in de brief.<BR></P>  <P>§ 4. De administratie onderzoekt de aanvraag tot erkenning en brengt binnen   een termijn van 21 dagen na de kennisgeving van de ontvankelijkheid bij de   minister advies uit over de erkenning.<BR></P>  <P>§ 5. Uiterlijk op 30 november van het jaar dat voorafgaat aan de   beleidscyclus, deelt de minister de organisatie zijn beslissing mee om ze te   erkennen, met vermelding van de grootte van het subsidiebedrag, of om ze niet te   erkennen voor de aangevraagde periode.<BR></P>  <P>§ 6. De organisatie die het bericht krijgt van de minister dat haar erkenning   niet in aanmerking genomen wordt, kan daartegen een gemotiveerd bezwaar indienen   dat binnen vijf dagen na de kennisgeving door de minister, vermeld in paragraaf   5, verstuurd wordt naar de administratie. Als de organisatie daarom verzoekt,   kan ze gehoord worden. De administratie stelt binnen tien dagen na de ontvangst   van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk   vijf dagen na de ontvangst van dat advies om de organisatie al dan niet alsnog   te erkennen en brengt de organisatie daarvan onmiddellijk op de   hoogte.<BR></P>
+<p>§ 1. De aanvraag tot erkenning als organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond of ethisch sporten, vermeld in artikel 14 van het decreet, wordt, overeenkomstig artikel 14, § 4, eerste lid, eerste zin van het decreet, uiterlijk op 15 september van het jaar dat voorafgaat aan de driejaarlijkse beleidscyclus, waarvan de eerste start op 1 januari 2015, bij de administratie ingediend.<br>
+<br>
+De aanvraag tot erkenning als organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond en ethisch sporten in de fitness als vermeld in artikel 14/1 van het decreet, wordt, conform artikel 14/1, § 4, eerste lid, van het decreet, uiterlijk op 15 september van het jaar dat voorafgaat aan de driejaarlijkse beleidscyclus, ingediend bij de administratie. De eerste driejaarlijkse beleidscyclus start op 1 januari 2017.</p>
+
+<p>§ 2. De aanvraag wordt ingediend met een brief die gericht is aan de administratie, aan de hand van een dossier dat toelaat te beoordelen of de aanvragende organisatie aan de decretale erkenningsvoorwaarden voldoet.</p>
+
+<p>De aanvraag bevat ten minste:<br>
+1° de identiteitsgegevens van de aanvrager;<br>
+2° een beschrijving van de missie en statutaire doelstelling, de werking en de samenstelling van de organisatie, alsook de statuten van de rechtspersoon waarin de organisatie is opgericht;<br>
+3° een verantwoording waarom de organisatie in aanmerking meent te komen voor erkenning;<br>
+4° het beleidsplan, vermeld in artikel 14, § 4, of artikel 14/1, § 4, van het decreet;<br>
+5° het eerste jaarlijkse actieplan, vermeld in artikel 14, § 6, eerste lid, of artikel 14/1, § 6, eerste lid, van het decreet;<br>
+6° het beoogde jaarlijkse financieringsbudget gedurende de beleidscyclus met een bijgevoegde gedetailleerde en verantwoorde begroting die daarop betrekking heeft, dat de volgende elementen bevat:<br>
+a) een uitsplitsing van de begroting per werkingsjaar;<br>
+b) een indeling van de begroting naargelang het gaat om basis-, personeels- en werkingskosten waarvoor de subsidie zal worden aangewend;<br>
+c) eventueel voorziene opbrengsten die uit de gesubsidieerde werking kunnen voortvloeien;<br>
+7° de verhouding van de begroting, vermeld in punt 6°, en het beoogde jaarlijkse financieringsbudget gedurende de beleidscyclus tot de totale begroting van de organisatie.</p>
+
+<p>De administratie kan voor de aanvraag een formulier ter beschikking stellen.</p>
+
+<p>§ 3. De administratie brengt binnen een termijn van vijftien dagen na de ontvangst van de aanvraag de aanvragende organisatie ervan op de hoogte of haar erkenningsaanvraag al dan niet ontvankelijk is. In voorkomend geval wordt de reden van de niet-ontvankelijkheid vermeld in de brief.</p>
+
+<p>§ 4. De administratie onderzoekt de aanvraag tot erkenning en brengt binnen een termijn van 21 dagen na de kennisgeving van de ontvankelijkheid bij de minister advies uit over de erkenning.</p>
+
+<p>§ 5. Uiterlijk op 30 november van het jaar dat voorafgaat aan de beleidscyclus, deelt de minister de organisatie zijn beslissing mee om ze te erkennen, met vermelding van de grootte van het subsidiebedrag per jaar, of om ze niet te erkennen voor de aangevraagde periode.</p>
+
+<p>§ 6. De organisatie die het bericht krijgt van de minister dat haar erkenning niet in aanmerking genomen wordt, kan daartegen een gemotiveerd bezwaar indienen dat binnen vijf dagen na de kennisgeving door de minister, vermeld in paragraaf 5, verstuurd wordt naar de administratie. Als de organisatie daarom verzoekt, kan ze gehoord worden. De administratie stelt binnen tien dagen na de ontvangst van het bezwaarschrift een gemotiveerd advies op. De minister beslist uiterlijk vijf dagen na de ontvangst van dat advies om de organisatie al dan niet alsnog te erkennen en brengt de organisatie daarvan onmiddellijk op de hoogte.</p>
 
 ### ART. 10.
 
-Het beleidsplan, vermeld in artikel 14, § 4, van het decreet, omvat de   volgende elementen:<BR>1° een inventarisatie en beschrijving van de huidige   structuren van de organisatie;<BR>2° een overzicht van de personeelsleden die   belast zijn met de uitvoering van de opdrachten, met een beschrijving van hun   functie, kwalificatie en ervaring;<BR>3° de doelstellingen, de geplande   initiatieven en de verwachte realisaties, met telkens de motivering om tot die   doelstellingen, initiatieven of realisaties te komen. Bij elke doelstelling, elk   initiatief of elke verwachte realisatie wordt aangegeven waarom die bijdraagt   tot de realisatie van ethisch of gezond sporten;<BR>4° een aanpak om de   doelstellingen, initiatieven en realisaties te bereiken met vermelding van de   werkwijze, de omkadering, de timing en de financiële prognose.<BR>
+Het beleidsplan, vermeld in artikel 14, § 4, en artikel 14/1, § 4, van het decreet, omvat de volgende elementen:<br>
+1° een inventarisatie en beschrijving van de huidige structuren van de organisatie;<br>
+2° een overzicht van de personeelsleden die belast zijn met de uitvoering van de opdrachten, met een beschrijving van hun functie, kwalificatie en ervaring;<br>
+3° de doelstellingen, de geplande initiatieven en de verwachte realisaties, met telkens de motivering om tot die doelstellingen, initiatieven of realisaties te komen. Bij elke doelstelling, elk initiatief of elke verwachte realisatie wordt aangegeven waarom die bijdraagt tot de realisatie van ethisch of gezond sporten;<br>
+4° een aanpak om de doelstellingen, initiatieven en realisaties te bereiken met vermelding van de werkwijze, de omkadering, de timing en de financiële prognose.
 
 ### ART. 11.
 
-<P>Het jaarlijkse actieplan, vermeld in artikel 14, § 6, eerste lid, van het   decreet vertaalt het beleidsplan en vermeldt gedetailleerd de concrete   initiatieven, de timing, de indicatoren en de daaraan gekoppelde begroting die   de organisatie in het kader van haar doelstellingen en de beleidsprioriteiten   van de Vlaamse Regering zal uitvoeren.<BR></P>  <P>Het eerste jaarlijks actieplan wordt gevoegd bij de aanvraag tot erkenning   als organisatie voor beleidsondersteuning en praktijkontwikkeling. Elk volgende   jaarlijkse actieplan wordt schriftelijk of digitaal aan de administratie   bezorgd, uiterlijk drie maanden voor de aanvang van het werkingsjaar waarop het   betrekking heeft.<BR></P>
+<p>Het jaarlijkse actieplan, vermeld in artikel 14, § 6, eerste lid, en artikel 14/1, § 6, eerste lid, van het decreet vertaalt het beleidsplan en vermeldt gedetailleerd de concrete initiatieven, de timing, de indicatoren en de daaraan gekoppelde begroting die de organisatie in het kader van haar doelstellingen en de beleidsprioriteiten van de Vlaamse Regering zal uitvoeren.</p>
+
+<p>Het eerste jaarlijks actieplan wordt gevoegd bij de aanvraag tot erkenning als organisatie voor beleidsondersteuning en praktijkontwikkeling. Elk volgende jaarlijkse actieplan wordt schriftelijk of digitaal aan de administratie bezorgd, uiterlijk drie maanden voor de aanvang van het werkingsjaar waarop het betrekking heeft.</p>
 
 ### ART. 12.
 
-<P>Het werkingsverslag en het financieel verslag, vermeld in artikel 14, § 6,   tweede lid, van het decreet worden jaarlijks voor 1 april van het jaar na het   jaar waarop ze betrekking hebben, schriftelijk of digitaal aan de administratie   bezorgd.<BR></P>  <P>Het werkingsverslag bevat een overzicht van de werking en de behaalde   resultaten van de organisatie op basis van de gestelde doelstellingen in het   voorgaande jaar, alsook de evaluatie van het beleidsplan op basis van   effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het   werkingsverslag wordt elke opdracht van de organisatie afzonderlijk behandeld   met verwijzing naar de beleidsprioriteiten van de Vlaamse Regering. In het   werkingsverslag wordt de relatie gelegd met het voorbije en komende jaarlijkse   actieplan.<BR></P>  <P>Het financieel verslag omvat:<BR>1° de goedgekeurde jaarrekening;<BR>2° een   gedetailleerde afrekeningsstaat van de gedane uitgaven voor basis-, personeels-   en werkingskosten van de organisatie, met vermelding van de beleidsprioriteiten   van de Vlaamse Regering in het kader waarvan de uitgaven gedaan zijn.<BR></P>  <P>Het werkingsverslag en het financieel verslag moeten jaarlijks door de raad   van bestuur van de organisatie worden goedgekeurd.<BR></P>
+<p>Het werkingsverslag en het financieel verslag, vermeld in artikel 14, § 6, tweede lid, en artikel 14/1, § 6, tweede lid, van het decreet worden jaarlijks voor 1 april van het jaar na het jaar waarop ze betrekking hebben, schriftelijk of digitaal aan de administratie bezorgd.</p>
+
+<p>Het werkingsverslag bevat een overzicht van de werking en de behaalde resultaten van de organisatie op basis van de gestelde doelstellingen in het voorgaande jaar, alsook de evaluatie van het beleidsplan op basis van effectmeting en, in voorkomend geval, de bijsturing van het beleidsplan. In het werkingsverslag wordt elke opdracht van de organisatie afzonderlijk behandeld met verwijzing naar de beleidsprioriteiten van de Vlaamse Regering. In het werkingsverslag wordt de relatie gelegd met het voorbije en komende jaarlijkse actieplan.</p>
+
+<p>Het financieel verslag omvat:<br>
+1° de goedgekeurde jaarrekening;<br>
+2° een gedetailleerde afrekeningsstaat van de gedane uitgaven voor basis-, personeels- en werkingskosten van de organisatie, met vermelding van de beleidsprioriteiten van de Vlaamse Regering in het kader waarvan de uitgaven gedaan zijn.</p>
+
+<p>Het werkingsverslag en het financieel verslag moeten jaarlijks door de raad van bestuur van de organisatie worden goedgekeurd.</p>
 
 ### ART. 13.
 
@@ -140,11 +181,15 @@ Het beleidsplan, vermeld in artikel 14, § 4, van het decreet, omvat de   volgen
 
 ### ART. 14.
 
-<P>Aan een erkende organisatie voor beleidsondersteuning en praktijkontwikkeling   op het gebied van gezond of ethisch sporten als vermeld in artikel 14 van het   decreet, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald   voor het betreffende begrotingsjaar. Het voorschot bedraagt 80% van de subsidie   waarop de organisatie recht heeft voor het jaar in kwestie.<BR></P>  <P>Nadat de minister het jaarlijkse werkings- en financieel verslag goedgekeurd   heeft, wordt het saldo van de subsidies uitbetaald voor 1 juli van het jaar dat   volgt op het jaar waarop het verslag betrekking heeft.<BR></P>
+<p>Aan een erkende organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond of ethisch sporten als vermeld in artikel 14 van het decreet en aan een erkende organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond en ethisch sporten in de fitness als vermeld in artikel 14/1 van het decreet, wordt jaarlijks tijdens het eerste trimester een voorschot uitbetaald voor het betreffende begrotingsjaar. Het voorschot bedraagt 80% van de subsidie waarop de organisatie recht heeft voor het jaar in kwestie.</p>
+
+<p>Nadat de minister het jaarlijkse werkings- en financieel verslag goedgekeurd heeft, wordt het saldo van de subsidies uitbetaald voor 1 juli van het jaar dat volgt op het jaar waarop het verslag betrekking heeft.</p>
 
 ### ART. 15.
 
-<P>De administratie kan op elk moment controle uitoefenen op de uitvoering van   de opdrachten van de organisatie en op de aanwending van de subsidies.<BR></P>  <P>Binnen het kader van de controle, vermeld in het eerste lid, bezorgt de   betreffende erkende organisatie voor beleidsondersteuning en   praktijkontwikkeling op het gebied van gezond of ethisch sporten onmiddellijk   alle stukken waar de administratie in het kader van haar controleopdracht om   verzoekt.<BR></P>
+<p>De administratie kan op elk moment controle uitoefenen op de uitvoering van de opdrachten van de organisatie en op de aanwending van de subsidies.</p>
+
+<p>Binnen het kader van de controle, vermeld in het eerste lid, bezorgt de betreffende erkende organisatie voor beleidsondersteuning en praktijkontwikkeling op het gebied van gezond of ethisch sporten of op het gebied van gezond en ethisch sporten in de fitness onmiddellijk alle stukken waar de administratie in het kader van haar controleopdracht om verzoekt.</p>
 
 ### ART. 16.
 
