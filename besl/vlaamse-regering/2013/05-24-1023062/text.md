@@ -122,7 +122,14 @@ Behalve de documenten, vermeld in artikel 13, moet de begunstigde de   volgende 
 
 ### ART. 16.
 
-De volgende projecten komen voor subsidie in aanmerking :<BR>1° de   onrendabele projecten :<BR>a) de projecten met betrekking tot de herontwikkeling   van brownfields<BR>b) de projecten met betrekking tot de herontwikkeling van   verouderde bedrijventerreinen<BR>c) de projecten waarbij de combinatie van de   investeringskosten - voor de werken die op basis van dit besluit gesubsidieerd   kunnen worden - en de kosten van de verwerving van gebouwen, verrekend per   m<SUP>2</SUP> op de te ontwikkelen site groter is dan de maximale gangbare   verkoopprijs per m<SUP>2</SUP> in de desbetreffende zone, zoals die door het   agentschap wordt geïnventariseerd;<BR>d) de projecten die op basis van de   grondexploitatie kunnen aantonen dat ze geen normaal rendement realiseren;<BR>2°   de strategische projecten : projecten die betrekking hebben op de ontwikkeling   van een strategisch bedrijventerrein dat van belang is voor de Vlaamse economie   of het Vlaamse economische beleid. Strategische projecten moeten door de   minister, na mededeling aan de Vlaamse Regering, erkend worden. Een project met   betrekking tot de ontwikkeling van een wetenschapspark wordt steeds geacht een   strategisch project te zijn en moet niet erkend worden door de minister.<BR>3°   de potentieel rendabele projecten : projecten die op basis van de   grondexploitatie potentieel rendabel zijn, maar die vanwege het risico van een   hogere onteigeningsvergoeding bij een gerechtelijke beroepsprocedure dreigen   onrendabel te worden.<BR>
+De volgende projecten komen voor subsidie in aanmerking :<br>
+1° de onrendabele projecten :<br>
+a) de projecten met betrekking tot de herontwikkeling van brownfields<br>
+b) de projecten met betrekking tot de herontwikkeling van verouderde bedrijventerreinen<br>
+c) de projecten waarbij de combinatie van de investeringskosten - voor de werken die op basis van dit besluit gesubsidieerd kunnen worden - en de kosten van de verwerving van gebouwen, verrekend per m<sup>2</sup> op de te ontwikkelen site groter is dan de maximale gangbare verkoopprijs per m<sup>2</sup> in de desbetreffende zone, zoals die door het agentschap wordt geïnventariseerd;<br>
+d) de projecten die op basis van de grondexploitatie kunnen aantonen dat ze geen normaal rendement realiseren;<br>
+2° de strategische projecten : projecten die betrekking hebben op de ontwikkeling van een strategisch bedrijventerrein dat van belang is voor de Vlaamse economie of het Vlaamse economische beleid. Strategische projecten moeten door de minister, na mededeling aan de Vlaamse Regering, erkend worden. Een project met betrekking tot de ontwikkeling van een wetenschapspark wordt steeds geacht een strategisch project te zijn en moet niet erkend worden door de minister.<br>
+3° ....
 
 ## Afdeling 2 Begunstigden
 
@@ -218,17 +225,33 @@ Het beheercomité stelt een huishoudelijk reglement op dat minstens regelt   :<B
 
 ### ART. 34.
 
-<P>Voor de berekening van de subsidie voor de werken, vermeld in artikel 33,   eerste en tweede lid, komen in aanmerking :<BR>1° de   eindafrekeningskosten;<BR>2° de meerwerken ten gevolge van onvoorziene of   noodzakelijke wijzigingen als ze door het agentschap zijn aanvaard;<BR>3° de   verrekeningen die voortvloeien uit de contractherzieningen;<BR>4° de btw als die   niet recupereerbaar en aangetoond is;<BR>5° de algemene, toezichts- en   uitvoeringskosten, alsook de kosten voor de voorbereidende en de   uitvoeringsstudies.<BR></P>  <P>De kosten, vermeld in het eerste lid, 5°, worden forfaitair bepaald op 10 %   van de som van de werken en de kosten, vermeld in artikel 33, eerste en tweede   lid. Die kosten worden niet toegekend voor de werken, vermeld in artikel 33,   eerste lid, 18°. <BR></P>
+<p>Voor de berekening van de subsidie voor de werken, vermeld in artikel 33, eerste en tweede lid, komen in aanmerking :<br>
+1° de eindafrekeningskosten;<br>
+2° de meerwerken ten gevolge van onvoorziene of noodzakelijke wijzigingen als ze door het agentschap zijn aanvaard;<br>
+3° de verrekeningen die voortvloeien uit de contractherzieningen;<br>
+4° ...<br>
+5° ....</p>
 
 ### ART. 35.
 
-De verwerving van gronden komt in het kader van risicodekking voor   subsidie in aanmerking als tegelijk voldaan is aan de volgende voorwaarden   :<BR>1° de gronden zijn verworven via een gerechtelijke   onteigeningsprocedure;<BR>2° het betreft onrendabele projecten of potentieel   rendabele projecten die na uitspraak in beroep bij een hogere   onteigeningsvergoeding onrendabel worden.<BR>
+...
 
 ## Afdeling 5 Subsidiepercentages en maximale subsidie
 
 ### ART. 36.
 
-<P>§ 1. De basissubsidie, berekend als een percentage van de werken en de   kosten, vermeld in artikel 33 en 34, bedraagt :<BR>1° 50 % voor de onrendabele   projecten vermeld in artikel 16, 1°, a en c;<BR>2° 60 % voor de strategische   projecten vermeld in artikel 16, 2° ;<BR>3° 85 % voor de verouderde   bedrijventerreinen vermeld in artikel 16, 1°, b.<BR></P>  <P>De basissubsidie wordt toegekend door de administrateur-generaal.<BR></P>  <P>§ 2. Voor de onrendabele projecten vermeld in artikel 16, 1°, d, bedraagt de   basissubsidie, berekend als een percentage van de werken en de kosten, vermeld   in artikel 33 en 34, maximaal 50 %.<BR></P>  <P>Deze basissubsidie wordt toegekend door de minister.<BR></P>
+<p>§ 1. De basissubsidie, berekend als een percentage van de werken en de kosten, vermeld in artikel 33 en 34, bedraagt :<br>
+1° 50 % voor de onrendabele projecten vermeld in artikel 16, 1°, a en c;<br>
+2° 60 % voor de strategische projecten vermeld in artikel 16, 2° ;<br>
+3° 85 % voor de verouderde bedrijventerreinen vermeld in artikel 16, 1°, b.</p>
+
+<p>De basissubsidie wordt toegekend door de administrateur-generaal.</p>
+
+<p>§ 2. Voor de onrendabele projecten vermeld in artikel 16, 1°, d, bedraagt de basissubsidie, berekend als een percentage van de werken en de kosten, vermeld in artikel 33 en 34, maximaal 50 %.</p>
+
+<p>Deze basissubsidie wordt toegekend door de minister.<br>
+<br>
+&nbsp;§ 3. In afwijking van paragraaf 1, eerste lid, worden de kostencategorieën vermeld in artikel 33, eerste lid, 2° en 3°, gesubsidieerd aan maximaal 60%</p>
 
 ### ART. 37.
 
@@ -236,7 +259,7 @@ De verwerving van gronden komt in het kader van risicodekking voor   subsidie in
 
 ### ART. 38.
 
-<P>De kosten voor grondverwerving komen alleen in aanmerking voor subsidie in   geval van een onteigeningsprocedure.<BR></P>  <P>De subsidie bedraagt 85 % van het verschil tussen de in beroep toegekende   onteigeningsvergoeding en de oorspronkelijk toegekende vergoeding. De   onteigeningsvergoeding, uitgesproken in beroep, moet minstens 100 % hoger liggen   dan de oorspronkelijk vastgestelde vergoeding.<BR></P>  <P>De subsidie voor grondverwerving wordt toegekend door de   minister.<BR></P>
+<p>...</p>
 
 ## Afdeling 6 Investeringsprogramma
 
@@ -272,7 +295,7 @@ Om een beroep te kunnen doen op een subsidie, moeten de volgende   documenten wo
 
 ### ART. 44.
 
-&nbsp;Om in aanmerking te komen voor subsidies voor de grondverwerving,   moet een kosten-batenanalyse bijgevoegd worden waaruit blijkt dat het project   onrendabel is doordat de onteigeningsvergoeding in beroep werd verhoogd met 100   % of meer van de oorspronkelijk vastgestelde vergoeding.<BR>
+...
 
 ## Afdeling 5 Toekenning van de subsidie
 
@@ -298,7 +321,14 @@ Een voorschot van 60 % op de toegekende subsidie kan door de begunstigde   opgev
 
 ### ART. 49.
 
-Het saldo van de subsidie wordt door de begunstigde opgevraagd na de   voorlopige oplevering van de gesubsidieerde werken op voorlegging in tweevoud   van een dossier dat samengesteld is als volgt :<BR>1° de aanvraag tot   uitbetaling van het saldo met vermelding van het bedrag;<BR>2° de   eindstaat;<BR>3° de betalingsbewijzen;<BR>4° het proces-verbaal van de   voorlopige oplevering van de werken;<BR>5° een geactualiseerde   kosten-batenanalyse voor zover vereist bij de   dossiersamenstelling.<BR>
+Het saldo van de subsidie wordt door de begunstigde opgevraagd uiterlijk zes maanden&nbsp;na de voorlopige oplevering van de gesubsidieerde werken op voorlegging in tweevoud van een dossier dat samengesteld is als volgt :<br>
+1° de aanvraag tot uitbetaling van het saldo met vermelding van het bedrag;<br>
+2° de eindstaat;<br>
+3° de betalingsbewijzen;<br>
+4° het proces-verbaal van de voorlopige oplevering van de werken;<br>
+5° een geactualiseerde kosten-batenanalyse voor zover vereist bij de dossiersamenstelling.<br>
+<br>
+Het agentschap kan de termijn van zes maanden verlengen op gemotiveerd verzoek van de begunstigde.
 
 ### ART. 50.
 
@@ -312,11 +342,11 @@ Het agentschap kan, als de begunstigde verzuimt de voorwaarden, vermeld in   art
 
 ### ART. 52.
 
-<P>De subsidieaanvraag voor grondverwerving gebeurt op voorlegging van een   officiële aanvraag met een dossier als vermeld in artikel 42 en 44.<BR></P>  <P>De aanvraag wordt ingediend na de toekenning van de onteigeningsvergoeding in   beroep.<BR></P>
+<p>...</p>
 
 ### ART. 53.
 
-<P>De subsidie wordt door de minister toegekend met toepassing van artikel   38.<BR></P>  <P>Na de toekenning betaalt het agentschap de subsidie   uit.<BR></P>
+<p>...</p>
 
 ## Afdeling 6 Terbeschikkingstelling
 
