@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026989,
+  "title": "Ministerieel besluit van 2016-06-03 houdende de interne administratieve overdracht van een beschermd onroerend goed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026989/VolledigDocument?datum=2016-07-16",
+  "source_sha256": "8a0de617b72a9523df5a0709b1c7aca2c8cd51c5d62c704e362a1108b9e96e3f",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026989&param=informatie",
+  "as_of": "2016-07-16",
+  "made": "2016-06-03",
+  "gazette": "2016-07-06",
+  "numac": 2016035954,
+  "document_start": "2016-07-16",
+  "document_end": null,
+  "in_force": "2016-07-16",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
