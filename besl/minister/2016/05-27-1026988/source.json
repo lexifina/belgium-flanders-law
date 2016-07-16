@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026988,
+  "title": "Ministerieel besluit van 2016-05-27 tot gedeeltelijke vaststelling van de landschapsatlas, de inventaris van historische tuinen en parken en de inventaris van het houtig erfgoed",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026988/VolledigDocument?datum=2016-07-16",
+  "source_sha256": "74d746372483939871890da3cdf7e385268fe6e7ae64df1a33d0cf3e29b47b5d",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026988&param=informatie",
+  "as_of": "2016-07-16",
+  "made": "2016-05-27",
+  "gazette": "2016-07-06",
+  "numac": 2016035942,
+  "document_start": "2016-07-16",
+  "document_end": null,
+  "in_force": "2016-07-16",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-07-16; oldest version available; future article versions excluded; article text as the API gives it"
+}
