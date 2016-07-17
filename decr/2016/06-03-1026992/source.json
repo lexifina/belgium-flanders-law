@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026992,
+  "title": "Decreet van 2016-06-03 houdende instemming met 1° de overeenkomst tussen het Koninkrijk België en het Koninkrijk Spanje tot het vermijden van dubbele belasting en tot het voorkomen van het ontgaan van belasting inzake belastingen naar het inkomen en naar het vermogen, en het protocol, ondertekend te Brussel op 14 juni 1995, zoals gewijzigd door het avenant, ondertekend te Madrid op 22 juni 2000; 2° het avenant, ondertekend te Brussel op 2 december 2009, tot wijziging van de onder 1° vermelde overeenkomst; 3° het avenant, ondertekend te Madrid op 15 april 2014, tot wijziging van de onder 1° vermelde overeenkomst, zoals gewijzigd door het onder 2° vermelde avenant",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026992/VolledigDocument?datum=2016-07-17",
+  "source_sha256": "a987729b2fea3f4ee4ef86ed720164ec90cc815e0951ea69c062065af3634323",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026992&param=informatie",
+  "as_of": "2016-07-17",
+  "made": "2016-06-03",
+  "gazette": "2016-07-07",
+  "numac": 2016035965,
+  "document_start": "2016-07-17",
+  "document_end": null,
+  "in_force": "2016-07-17",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-07-17; oldest version available; future article versions excluded; article text as the API gives it"
+}
