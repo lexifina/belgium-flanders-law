@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027000,
+  "title": "Decreet van 2016-06-03 houdende instemming met het Verdrag inzake het Europees Bosseninstituut",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027000/VolledigDocument?datum=2016-07-18",
+  "source_sha256": "25cc0d426bd33207114a4e2f5680d7538c01cf8fe6f7c8ebb3e6399e6bc72d39",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027000&param=informatie",
+  "as_of": "2016-07-18",
+  "made": "2016-06-03",
+  "gazette": "2016-07-08",
+  "numac": 2016035956,
+  "document_start": "2016-07-18",
+  "document_end": null,
+  "in_force": "2016-07-18",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
