@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027008,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-03 houdende indeling bij de gemeentewegen van de gewestweg Herderinnedreef (lengte: 563 meter) op het grondgebied van de gemeente Oostkamp",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027008/VolledigDocument?datum=2016-07-18",
+  "source_sha256": "fa4ba21ad3cb1a7e187ba0b4361e36e511fd1935ffe0fe28d2b587c874631223",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027008&param=informatie",
+  "as_of": "2016-07-18",
+  "made": "2016-06-03",
+  "gazette": "2016-07-08",
+  "numac": 2016036025,
+  "document_start": "2016-07-18",
+  "document_end": null,
+  "in_force": "2016-07-18",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
