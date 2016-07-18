@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027003,
+  "title": "Decreet van 2016-06-03 houdende wijziging van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011 en het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtscolleges, wat de omzetting van de aanbevelingen van GRECO betreft",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027003/VolledigDocument?datum=2016-07-18",
+  "source_sha256": "320b05973ea85185e6a8d6ad689d69657defcd3080a1fcb57437f174cbe72145",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027003&param=informatie",
+  "as_of": "2016-07-18",
+  "made": "2016-06-03",
+  "gazette": "2016-07-08",
+  "numac": 2016036060,
+  "document_start": "2016-07-18",
+  "document_end": null,
+  "in_force": "2016-07-18",
+  "article_versions": 10,
+  "record_form": "consolidated version as in force on 2016-07-18; oldest version available; future article versions excluded; article text as the API gives it"
+}
