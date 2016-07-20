@@ -2,16 +2,16 @@
   "codex_id": 1027054,
   "title": "Ministerieel besluit van 2016-06-14 tot regeling van sommige aspecten van het tijdelijke project \"schoolbank op de werkplek\" rond duaal leren in het secundair onderwijs",
   "type": "Ministerieel besluit",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027054/VolledigDocument?datum=2016-06-15",
-  "source_sha256": "0653f24bdc7a6a72afe1627b5b867871c546e574c667dcbadf91a6773dcfafc0",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027054/VolledigDocument?datum=2016-07-20",
+  "source_sha256": "c9e5d670c8ca0f1736c28b4087afdc5604b4dd746ec4c3958b5ae81dc1b2fea6",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027054&param=informatie",
-  "as_of": "2016-06-15",
+  "as_of": "2016-07-20",
   "made": "2016-06-14",
   "gazette": "2016-07-26",
   "numac": 2016036113,
   "document_start": "2016-06-15",
   "document_end": "2019-08-31",
-  "in_force": "2016-06-15",
+  "in_force": "2016-07-20",
   "article_versions": 27,
-  "record_form": "consolidated version as in force on 2016-06-15; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-07-20; future article versions excluded; article text as the API gives it"
 }

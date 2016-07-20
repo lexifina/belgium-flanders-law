@@ -41,7 +41,10 @@
 
 ### BIJLAGE 1
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=68">http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=68</a>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=68">http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=68</a><br>
+<br>
+[Bij art. 1 MB 20 juli 2016 wordt als school met bijhorende opleiding haarverzorging duaal, toegevoegd:<br>
+PIVA Oudenaarde.]
 
 ### BIJLAGE 2
 
