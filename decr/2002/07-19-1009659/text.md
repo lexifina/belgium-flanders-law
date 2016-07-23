@@ -30,7 +30,7 @@ De Controlecommissie neemt een met redenen omklede beslissing, die overeenkomsti
 
 ### ART. 7.
 
-Indien de Expertencommissie voor Overheidscommunicatie, zoals bedoeld in artikel 9 van het decreet van 19 juli 2002 houdende de controle op de communicatie van de Vlaamse overheid, hierna de Expertencommissie te noemen, een advies uitbrengt aan de Controlecommissie, dan neemt de Controlecommissie, met respect voor de rechten van de verdediging van de betrokken minister of ministers, uiterlijk vijftien dagen nadat ze het advies heeft ontvangen, een met redenen omklede beslissing.<br /><br />De beslissing van de Controlecommissie wordt door de voorzitter van de Controlecommissie onverwijld schriftelijk ter kennis gebracht van de Vlaamse regering en van de betrokken minister of ministers.
+...
 
 ### ART. 8.
 
@@ -38,7 +38,7 @@ Indien bij een klacht of een ambtshalve onderzoek de Controlecommissie oordeelt 
 
 ### ART. 9.
 
-Bij een adviesaanvraag, na de melding van een klacht of bij een ambtshalve onderzoek, vraagt de Controlecommissie telkens een gemotiveerd advies aan de Expertencommissie.<br /><br />Binnen vijftien dagen na ontvangst van het schriftelijk verzoek tot advies brengt de Expertencommissie een gemotiveerd schriftelijk advies uit, gericht aan de voorzitter van de Controlecommissie.
+...
 
 ### ART. 10.
 
