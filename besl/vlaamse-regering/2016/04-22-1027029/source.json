@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027029,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-22 tot goedkeuring en instelling van het landinrichtingsproject `Zwinpolders'",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027029/VolledigDocument?datum=2016-07-24",
+  "source_sha256": "43a0aa2f2e71f7f33867d3e98cca4857efda6f28da63bb5dfb3e276a75ee17bf",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027029&param=informatie",
+  "as_of": "2016-07-24",
+  "made": "2016-04-22",
+  "gazette": "2016-07-14",
+  "numac": 2016035839,
+  "document_start": "2016-07-24",
+  "document_end": null,
+  "in_force": "2016-07-24",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
