@@ -28,7 +28,9 @@ De personeelsleden van de kabinetten kunnen gedetacheerd of aangesteld worden.
 
 ### ART. 5.
 
-Met uitzondering van de personeelsleden van de onderwijsinrichtingen georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, van de universitaire ziekenhuizen en van de provinciale en lokale besturen, mogen de personeelsleden van de openbare diensten, aangewezen om deel uit te maken van een kabinet, noch hun betrekking, noch de bevoegdheden ervan verder blijven uitoefenen.
+Met uitzondering van de personeelsleden van de onderwijsinrichtingen georganiseerd of gesubsidieerd door de Vlaamse Gemeenschap, van de universitaire ziekenhuizen en van de provinciale en lokale besturen, mogen de personeelsleden van de openbare diensten, aangewezen om deel uit te maken van een kabinet, noch hun betrekking, noch de bevoegdheden ervan verder blijven uitoefenen.<br>
+<br>
+In geen geval mogen medewerkers door werkgevers kosteloos ter beschikking worden gesteld van een kabinet van de Vlaamse Regering
 
 ## Afdeling 2 Stafleden
 
