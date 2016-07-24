@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027030,
+  "title": "Besluit van de Vlaamse Regering van 2016-05-27 houdende opheffing van de Vlaamse commissie voor ruimtelijke ordening en de regeling inzake adviesinstanties bij gemeentelijke plannen van aanleg",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027030/VolledigDocument?datum=2016-07-24",
+  "source_sha256": "0d8c133aa0c983aeab7cdd3869f34cc5be646e782819924f6978dec8506d29c2",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027030&param=informatie",
+  "as_of": "2016-07-24",
+  "made": "2016-05-27",
+  "gazette": "2016-07-14",
+  "numac": 2016035969,
+  "document_start": "2016-07-24",
+  "document_end": null,
+  "in_force": "2016-07-24",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-07-24; oldest version available; future article versions excluded; article text as the API gives it"
+}
