@@ -22,4 +22,104 @@ De leden van de Vlaamse regering zijn, ieder wat hem betreft, belast met de uitv
 
 ### BIJLAGE
 
-1. Onderwijs en permanente vorming:<BR>- Adviescommissie voor het   Secundair Muziekonderwijs;<BR>- Adviescommissie voor het Secundair Onderwijs in   de Plastische Kunsten;<BR>- Programmacommissie voor het Lager Secundair   Zeevisserijonderwijs;<BR>- Hoge Raad voor Studietoelagen;<BR>- Nederlandstalig   Nationaal Centrum voor Openbare Bibliotheken;<BR>- Hoge Raad voor de Openbare   Bibliotheken; <BR>- Commissie van de Culturele Centra; <BR>- Hoge Raad voor   Volksontwikkeling;<BR>- Koninklijke Commissie voor Volkskunde;<BR>-   Adviescollege van het Vormingscentrum voor de Jeugd - Destelheide te Dworp;<BR>-   Jeugdraad voor de Vlaamse Gemeenschap;<BR>- Raad van Niet-openbare Radio's;<BR>-   Mediaraad van de Vlaamse Gemeenschap; <BR>- de commissie ad hoc in het kader van   de afwijkingsprocedure voor de ontwikkelingsdoelen en eindtermen; <BR>- de Raad   voor Cultuur, de Raad voor de Kunsten, de Raad voor Volksontwikkeling en   Cultuurspreiding, de commissies, de werkgroepen en de beoordelingscommissies,   bedoeld in het decreet van 19 december 1997 houdende oprichting van een Raad   voor Cultuur, een Raad voor de Kunsten, een Raad voor Volksontwikkeling en   Cultuurspreiding en van een adviserende beroepscommissie inzake culturele   aangelegenheden; <BR>- de adviescommissie experimenteel of vernieuwend   jeugdwerk; <BR>- de adviescommissie informatie-, communicatie- en   inspraakprojecten voor de jeugd; <BR>- de adviescommissie voor artistieke   producten en projecten door en voor jongeren. <BR><BR>2. Kunst:<BR>- Raad voor   Taaladvies;<BR>- Adviescommissie voor de toekenning van de prijs van de Vlaamse   Gemeenschap voor vertaling van Nederlandse letterkunde;<BR>- Commissie van   advies ter Bevordering van de Nederlandse Letterkunde in België;<BR>- Jury's van   de Staatsprijzen Letterkunde (poëzie, proza, kritiek en essay,   toneelletterkunde, jeugdliteratuur, bekroning van een schrijverscarrière);<BR>-   Raad van Advies voor Musea;<BR>- Vlaamse Commissie voor de Beeldende Kunst;   <BR>- Hoge Raad voor de Nederlandse Filmcultuur;<BR>- Selectiecommissie voor   Culturele Films;<BR>- Koninklijke Commissie van Advies voor   Plaatsnaamgeving;<BR>- Bijzondere Commissie van het Koninklijk Museum voor   Schone Kunsten te Antwerpen;<BR>- Commissie Beheer van het eigen vermogen van   het Koninklijk Museum voor Schone Kunsten te Antwerpen;<BR>- Wetenschappelijke   Raad van het Koninklijk Museum voor Schone Kunsten te Antwerpen;<BR>-   Bestuurscommissie van het Masereel Centrum;<BR>- Commissie tot beheer van het   eigen vermogen van het Masereel Centrum;<BR>- Bestuurscommissie van het Kasteel   van Gaasbeek;<BR>- Commissie tot beheer van het eigen vermogen van het Kasteel   van Gaasbeek; <BR>- de Commissie voor het Boek;<BR>- Vlaamse Adviescommissie   voor de Muziek; <BR>- Raad voor Nederlandstalige Dramatische Kunst;<BR>- Raad   voor Dans;<BR>- Raad voor Kunstencentra;<BR>- Raad voor Muziektheater.   <BR><BR>3. Sport en Openluchtrecreatie:<BR>- Vlaamse Sportraad en de in zijn   schoot opgerichte werkgroepen; <BR>- de Adviserende Beroepscommissie voor   sportaangelegenheden. <BR><BR>4. Gezin en maatschappelijk welzijn:<BR>-   Commissie ingesteld bij artikel 32 van de decreten inzake bijzondere   jeugdbijstand, gecoördineerd op 4 april 1990; <BR>- de adviescommissies en   provinciale comités van Kind en Gezin; <BR>- de commissies ad hoc opgericht door   de raad van bestuur van het Vlaams Fonds voor Sociale Integratie van Personen   met een Handicap; <BR>- de adviescommissie inzake beroep aangetekend tegen het   verlenen van vergunningen en erkenningen door het Vlaams Fonds voor Sociale   Integratie van Personen met een Handicap; <BR>- Pedagogische commissie voor de   Gemeenschapsinstellingen voor bijzondere jeugdbijstand; <BR>- de Gezins- en   Welzijnsraad en de in zijn schoot opgerichte vaste commissies en werkgroepen;   <BR>- de deskundige commissie bedoeld in artikel 4, tweede lid, van het decreet   van 15 juli 1997 houdende instelling van het kindeffectrapport en de toetsing   van het regeringsbeleid aan de naleving van de rechten van het kind; <BR>- de   adviescommissie interlandelijke adoptie;&nbsp;<BR>- de bezwaarcommissie, bedoeld   in artikel 42 van het besluit van de Vlaamse regering van 28 september 2001   houdende de erkenning, de registratie en de machtiging, en houdende de   aansluiting, de aanvraag en de tenlasteneming in het kader van de   zorgverzekering. <BR><BR>5. Gezondheidszorg:<BR>- Vlaamse Gezondheidsraad;<BR>-   Erkenningscommissie Arbeidsgeneeskundige diensten; <BR>- Toezichtscomité inzake   individuele materiële bijstand voor sociale integratie van personen met een   handicap. <BR><BR>6. Economie en werkgelegenheid:<BR>- Commissie van advies voor   het Industrieel Onderzoek; <BR>- Consultatieve raad voor de promotie van de   produkten van de Landbouw, Tuinbouw en Zeevisserij; <BR>- Vlaams Visserijcomité;   <BR>- Vlaamse Land- en Tuinbouwraad; <BR>- het Adviescomité van het Fonds   Vlaanderen-Azië; <BR>- de geschillenadviescommissie betreffende de toekenning   van subsidies voor het toepassen van milieuvriendelijke   landbouwproductiemethoden en het in stand houden van de genetische diversiteit;   <BR>- de geschillenadviescommissie betreffende de toekenning van subsidies voor   het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand   houden van de genetische diversiteit. <BR><BR>7. Ruimtelijke ordening en   leefmilieu:<BR>- Vlaamse Heraldische Raad;<BR>- Commissie bedoeld in het   koninklijk besluit van 4 april 1972 houdende vaststelling van de algemene eisen   betreffende de brandveiligheid in de hoge gebouwen;<BR>- Commissie van advies   bij onteigeningsplannen voor het Vlaamse Gewest;<BR>- Consultatieve   Commissie-motorsport;<BR>- Vlaamse Commissie voor Ruimtelijke Ordening; <BR>-   Vlaamse Commissie Onroerend Erfgoed; <BR>- Milieu- en Natuurraad van   Vlaanderen;<BR>- Vlaamse Hoge Raad voor Natuurbehoud;<BR>- Vlaamse Hoge   Bosraad;<BR>- Vlaamse Hoge Jachtraad;<BR>- Vlaamse Hoge Raad voor de   Riviervisserij; <BR>- Provinciale Visserijcommissie en het Centraal Comité van   het Visserijfonds; <BR>- de commissie bedoeld bij artikel 3 van het besluit van   de Vlaamse regering van 13 juli 1994 tot invoering van een afschotplan voor   reewild; <BR>- Beheerscomité van het Vlaams Impulsprogramma Natuurontwikkeling;   <BR>- de adviescommissies bosreservaten genoemd in artikel 27 van het   bosdecreet; <BR>- erkenningscomité en comité van beroep van de erkenning van   kopers en exploitanten van hout overeenkomstig artikel 79 van het Bosdecreet van   13 juni 1990;<BR>- de kapitaalschadecommissies vermeld in artikel 2 van het   besluit van de Vlaamse Regering van 3 juli 2009 tot oprichting van de   kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie ter   uitvoering van het decreet grond- en pandenbeleid;<BR>- Vlaamse Commissie voor   Varend Erfgoed.<BR><BR>8. Betrekkingen:<BR>- Vlaamse Unesco Commissie.   <BR><BR>9. Binnenlandse Aangelegenheden:<BR>- Vlaamse Adviescommissie voor   Volksraadplegingen.<BR><BR>10. Algemeen Regeringsbeleid:<BR>- Raad voor Vlaamse   Openbare Statistieken.
+1. Onderwijs en permanente vorming:<br>
+- Adviescommissie voor het Secundair Muziekonderwijs;<br>
+- Adviescommissie voor het Secundair Onderwijs in de Plastische Kunsten;<br>
+- Programmacommissie voor het Lager Secundair Zeevisserijonderwijs;<br>
+- Hoge Raad voor Studietoelagen;<br>
+- Nederlandstalig Nationaal Centrum voor Openbare Bibliotheken;<br>
+- Hoge Raad voor de Openbare Bibliotheken;<br>
+- Commissie van de Culturele Centra;<br>
+- Hoge Raad voor Volksontwikkeling;<br>
+- Koninklijke Commissie voor Volkskunde;<br>
+- Adviescollege van het Vormingscentrum voor de Jeugd - Destelheide te Dworp;<br>
+- Jeugdraad voor de Vlaamse Gemeenschap;<br>
+- Raad van Niet-openbare Radio's;<br>
+- Mediaraad van de Vlaamse Gemeenschap;<br>
+- de commissie ad hoc in het kader van de afwijkingsprocedure voor de ontwikkelingsdoelen en eindtermen;<br>
+- de Raad voor Cultuur, de Raad voor de Kunsten, de Raad voor Volksontwikkeling en Cultuurspreiding, de commissies, de werkgroepen en de beoordelingscommissies, bedoeld in het decreet van 19 december 1997 houdende oprichting van een Raad voor Cultuur, een Raad voor de Kunsten, een Raad voor Volksontwikkeling en Cultuurspreiding en van een adviserende beroepscommissie inzake culturele aangelegenheden;<br>
+- de adviescommissie experimenteel of vernieuwend jeugdwerk;<br>
+- de adviescommissie informatie-, communicatie- en inspraakprojecten voor de jeugd;<br>
+- de adviescommissie voor artistieke producten en projecten door en voor jongeren.<br>
+<br>
+2. Kunst:<br>
+- Raad voor Taaladvies;<br>
+- Adviescommissie voor de toekenning van de prijs van de Vlaamse Gemeenschap voor vertaling van Nederlandse letterkunde;<br>
+- Commissie van advies ter Bevordering van de Nederlandse Letterkunde in België;<br>
+- Jury's van de Staatsprijzen Letterkunde (poëzie, proza, kritiek en essay, toneelletterkunde, jeugdliteratuur, bekroning van een schrijverscarrière);<br>
+- Raad van Advies voor Musea;<br>
+- Vlaamse Commissie voor de Beeldende Kunst;<br>
+- Hoge Raad voor de Nederlandse Filmcultuur;<br>
+- Selectiecommissie voor Culturele Films;<br>
+- Koninklijke Commissie van Advies voor Plaatsnaamgeving;<br>
+- Bijzondere Commissie van het Koninklijk Museum voor Schone Kunsten te Antwerpen;<br>
+- Commissie Beheer van het eigen vermogen van het Koninklijk Museum voor Schone Kunsten te Antwerpen;<br>
+- Wetenschappelijke Raad van het Koninklijk Museum voor Schone Kunsten te Antwerpen;<br>
+- Bestuurscommissie van het Masereel Centrum;<br>
+- Commissie tot beheer van het eigen vermogen van het Masereel Centrum;<br>
+- Bestuurscommissie van het Kasteel van Gaasbeek;<br>
+- Commissie tot beheer van het eigen vermogen van het Kasteel van Gaasbeek;<br>
+- de Commissie voor het Boek;<br>
+- Vlaamse Adviescommissie voor de Muziek;<br>
+- Raad voor Nederlandstalige Dramatische Kunst;<br>
+- Raad voor Dans;<br>
+- Raad voor Kunstencentra;<br>
+- Raad voor Muziektheater.<br>
+<br>
+3. Sport en Openluchtrecreatie:<br>
+- Vlaamse Sportraad en de in zijn schoot opgerichte werkgroepen;<br>
+- de Adviserende Beroepscommissie voor sportaangelegenheden.<br>
+<br>
+4. Gezin en maatschappelijk welzijn:<br>
+- Commissie ingesteld bij artikel 32 van de decreten inzake bijzondere jeugdbijstand, gecoördineerd op 4 april 1990;<br>
+- de adviescommissies en provinciale comités van Kind en Gezin;<br>
+- de commissies ad hoc opgericht door de raad van bestuur van het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
+- de adviescommissie inzake beroep aangetekend tegen het verlenen van vergunningen en erkenningen door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
+- Pedagogische commissie voor de Gemeenschapsinstellingen voor bijzondere jeugdbijstand;<br>
+- de Gezins- en Welzijnsraad en de in zijn schoot opgerichte vaste commissies en werkgroepen;<br>
+- de deskundige commissie bedoeld in artikel 4, tweede lid, van het decreet van 15 juli 1997 houdende instelling van het kindeffectrapport en de toetsing van het regeringsbeleid aan de naleving van de rechten van het kind;<br>
+- de adviescommissie interlandelijke adoptie;&nbsp;<br>
+- de bezwaarcommissie, bedoeld in artikel 42 van het besluit van de Vlaamse regering van 28 september 2001 houdende de erkenning, de registratie en de machtiging, en houdende de aansluiting, de aanvraag en de tenlasteneming in het kader van de zorgverzekering.<br>
+<br>
+5. Gezondheidszorg:<br>
+- Vlaamse Gezondheidsraad;<br>
+- Erkenningscommissie Arbeidsgeneeskundige diensten;<br>
+- Toezichtscomité inzake individuele materiële bijstand voor sociale integratie van personen met een handicap.<br>
+<br>
+6. Economie en werkgelegenheid:<br>
+- Commissie van advies voor het Industrieel Onderzoek;<br>
+- Consultatieve raad voor de promotie van de produkten van de Landbouw, Tuinbouw en Zeevisserij;<br>
+- Vlaams Visserijcomité;<br>
+- Vlaamse Land- en Tuinbouwraad;<br>
+- het Adviescomité van het Fonds Vlaanderen-Azië;<br>
+- de geschillenadviescommissie betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit;<br>
+- de geschillenadviescommissie betreffende de toekenning van subsidies voor het toepassen van milieuvriendelijke landbouwproductiemethoden en het in stand houden van de genetische diversiteit.<br>
+<br>
+7. Ruimtelijke ordening en leefmilieu:<br>
+- Vlaamse Heraldische Raad;<br>
+- Commissie bedoeld in het koninklijk besluit van 4 april 1972 houdende vaststelling van de algemene eisen betreffende de brandveiligheid in de hoge gebouwen;<br>
+- Commissie van advies bij onteigeningsplannen voor het Vlaamse Gewest;<br>
+- Consultatieve Commissie-motorsport;<br>
+- Vlaamse Commissie Onroerend Erfgoed;<br>
+- Milieu- en Natuurraad van Vlaanderen;<br>
+- Vlaamse Hoge Raad voor Natuurbehoud;<br>
+- Vlaamse Hoge Bosraad;<br>
+- Vlaamse Hoge Jachtraad;<br>
+- Vlaamse Hoge Raad voor de Riviervisserij;<br>
+- Provinciale Visserijcommissie en het Centraal Comité van het Visserijfonds;<br>
+- de commissie bedoeld bij artikel 3 van het besluit van de Vlaamse regering van 13 juli 1994 tot invoering van een afschotplan voor reewild;<br>
+- Beheerscomité van het Vlaams Impulsprogramma Natuurontwikkeling;<br>
+- de adviescommissies bosreservaten genoemd in artikel 27 van het bosdecreet;<br>
+- erkenningscomité en comité van beroep van de erkenning van kopers en exploitanten van hout overeenkomstig artikel 79 van het Bosdecreet van 13 juni 1990;<br>
+- de kapitaalschadecommissies vermeld in artikel 2 van het besluit van de Vlaamse Regering van 3 juli 2009 tot oprichting van de kapitaalschadecommissies en tot regeling van de kapitaalschadecompensatie ter uitvoering van het decreet grond- en pandenbeleid;<br>
+- Vlaamse Commissie voor Varend Erfgoed;<br>
+- de deskundigen van de Gewestelijke Omgevingsvergunningscommissie.<br>
+<br>
+8. Betrekkingen:<br>
+- Vlaamse Unesco Commissie.<br>
+<br>
+9. Binnenlandse Aangelegenheden:<br>
+- Vlaamse Adviescommissie voor Volksraadplegingen.<br>
+<br>
+10. Algemeen Regeringsbeleid:<br>
+- Raad voor Vlaamse Openbare Statistieken
