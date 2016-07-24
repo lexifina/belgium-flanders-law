@@ -8,6 +8,11 @@ Dit decreet regelt een gewestaangelegenheid.<br /><br />
 
 ## HOOFDSTUK 2 Wijziging van de Vlaamse Codex Ruimtelijke Ordening
 
+### ART. 2.
+
+In titel I, hoofdstuk III, van de Vlaamse Codex Ruimtelijke Ordening wordt afdeling 1, die bestaat uit artikel 1.3.1, opgeheven.<br>
+&nbsp;
+
 ### ART. 3.
 
 In de tweede zin van artikel 1.3.4 van dezelfde codex wordt de zinsnede "Vlaamse," opgeheven.<br /><br />
