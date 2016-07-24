@@ -6,7 +6,9 @@ De Vlaamse Regering,<br /><br />Gelet op de Vlaamse Codex Ruimtelijke Ordening, 
 
 ### ART. 1.
 
-De beginselen, gedragsregels en richtlijnen, opgenomen in de deontologische code, toegevoegd als bijlage bij dit besluit, dienen de leden van de Vlaamse, provinciale en gemeentelijke commissies voor ruimtelijke ordening tot leidraad bij de uitoefening van hun mandaat.<br /><br />De onderscheiden commissies voor ruimtelijke ordening zijn ertoe gemachtigd de deontologische code aan te vullen, zonder er evenwel afbreuk aan te kunnen doen.
+De beginselen, gedragsregels en richtlijnen, opgenomen in de deontologische code, toegevoegd als bijlage bij dit besluit, dienen de leden van de&nbsp;provinciale en gemeentelijke commissies voor ruimtelijke ordening tot leidraad bij de uitoefening van hun mandaat.<br>
+<br>
+De onderscheiden commissies voor ruimtelijke ordening zijn ertoe gemachtigd de deontologische code aan te vullen, zonder er evenwel afbreuk aan te kunnen doen.
 
 ### ART. 2.
 
@@ -20,7 +22,7 @@ De Vlaamse minister, bevoegd voor de ruimtelijke ordening, is belast met de uitv
 
 ### ART. 1.
 
-De in deze deontologische code opgenomen beginselen, gedragsregels en richtlijnen dienen de leden van de Vlaamse, provinciale en gemeentelijke commissies voor ruimtelijke ordening tot leidraad bij de uitoefening van hun mandaat, overeenkomstig artikel 1.3.4 van de Vlaamse Code Ruimtelijke Ordening.
+De in deze deontologische code opgenomen beginselen, gedragsregels en richtlijnen dienen de leden van de&nbsp;provinciale en gemeentelijke commissies voor ruimtelijke ordening tot leidraad bij de uitoefening van hun mandaat, overeenkomstig artikel 1.3.4 van de Vlaamse Code Ruimtelijke Ordening.
 
 ## HOOFDSTUK 1 Algemeen belang
 
