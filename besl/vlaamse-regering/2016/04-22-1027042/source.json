@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027042,
+  "title": "Besluit van de Vlaamse Regering van 2016-04-22 houdende de goedkeuring van het huishoudelijk reglement van de selectiecommissies",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027042/VolledigDocument?datum=2016-07-29",
+  "source_sha256": "3b0cdf0883e1ed4b0f48c22e8c4344c63d15c5d242238ba63362f03ab8609c13",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027042&param=informatie",
+  "as_of": "2016-07-29",
+  "made": "2016-04-22",
+  "gazette": "2016-07-19",
+  "numac": 2016036069,
+  "document_start": "2016-07-29",
+  "document_end": null,
+  "in_force": "2016-07-29",
+  "article_versions": 28,
+  "record_form": "consolidated version as in force on 2016-07-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
