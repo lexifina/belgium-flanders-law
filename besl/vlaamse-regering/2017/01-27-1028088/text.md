@@ -39,6 +39,13 @@ In afwijking van het eerste lid ontvangen de voorzitters als vergoeding voor hun
 <br>
 § 4. De regeling voor de voorzitters, vermeld in paragraaf 2 en 3, geldt ook voor extra vergaderingen van de voorzitters met het oog op de operationalisering van de beroepscommissie Functieclassificatie.".
 
+### ART 14.
+
+In hetzelfde besluit, het laatst gewijzigd bij het besluit van de Vlaamse Regering van 24 juni 2016, worden een artikel V 56septies en V 56octies ingevoegd, die luiden als volgt :<br>
+"Art. V 56septies. Voor het personeelslid dat op 31 juli 2016 bij de entiteit Audit Vlaanderen als contractuele manager-auditor was tewerkgesteld, en na 1 augustus 2016 wordt aangesteld in de graad van afdelingshoofd, wordt de periode als contractuele manager-auditor aangerekend op de schaalanciënniteit.<br>
+<br>
+Art V 56octies. Voor de ambtenaar die op 31 juli 2016 was aangewezen in een IT-mandaat van rang A2A, en na 1 augustus 2016 wordt aangesteld in de graad van afdelingshoofd, wordt de periode als IT-mandaathouder van rang A2A aangerekend op de schaalanciënniteit.".
+
 ### ART 45.
 
 In artikel X 22, § 2 van hetzelfde besluit wordt de zin "De aanrekening op het aantal dagen vermeld in de artikelen X 20 en XI 7 gebeurt pro rata" gewijzigd in de zin "De aanrekening op het aantal dagen vermeld in artikel X 20 gebeurt pro rata."
