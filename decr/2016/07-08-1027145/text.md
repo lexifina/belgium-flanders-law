@@ -180,6 +180,15 @@ Een aanslag heeft betrekking op de onroerende goederen die gelegen zijn in eenze
 
 ## Afdeling 1 Wijziging van artikel 14 van het Energiedecreet van 8 mei 2009
 
+### ART 29.
+
+<p>Aan artikel 14.1.3 van het Energiedecreet van 8 mei 2009, vervangen door het decreet van 19 december 2014 en gewijzigd door het decreet van 18 december 2015, wordt een zin toegevoegd, die luidt als volgt :<br>
+"Na de toepassing van die coëfficiënt worden de bedragen afgerond op de hogere eurocent.".</p>
+
+### ART 30.
+
+<p>In artikel 14.2.2 van het Energiedecreet van 8 mei 2009, vervangen door het decreet van 19 december 2014 en gewijzigd door de decreten van 3 juli 2015 en 18 december 2015, wordt het woord "trimester" telkens vervangen door het woord "maand".</p>
+
 ## Afdeling 2 Wijziging van titel XIV van het Energiedecreet van 8 mei 2009
 
 ## Afdeling 3 Klimaatprijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen
