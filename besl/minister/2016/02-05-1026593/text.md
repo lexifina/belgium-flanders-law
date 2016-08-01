@@ -18,8 +18,8 @@
 
 ### Enig artikel.
 
-De   gebieden op de kaartlaag, als digitaal beveiligd bestand gevoegd in bijlage bij   dit besluit en raadpleegbaar op de website van het agentschap Onroerend Erfgoed,   worden vastgesteld als gebieden waar geen archeologisch erfgoed te verwachten   valt als vermeld in artikel 5.4.1 van het Onroerenderfgoeddecreet van 12 juli   2013.<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
+...
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2016/03/31_1.pdf#page=10">Bijlage</A>
+...
