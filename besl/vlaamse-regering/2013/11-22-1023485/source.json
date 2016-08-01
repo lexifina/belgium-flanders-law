@@ -2,16 +2,16 @@
   "codex_id": 1023485,
   "title": "Besluit van de Vlaamse Regering van 2013-11-22 houdende vaststelling van de netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023485/VolledigDocument?datum=2013-12-28",
-  "source_sha256": "c53577ee7e6e92af8b722d9edb116b6d1fd691c82322dbe2a155a5404233e475",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1023485/VolledigDocument?datum=2016-08-01",
+  "source_sha256": "bfbb704cb6acb4f5fefebca891de97b5d4c29996531047d0759297b7ca4537e0",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1023485&param=informatie",
-  "as_of": "2013-12-28",
+  "as_of": "2016-08-01",
   "made": "2013-11-22",
   "gazette": "2013-12-18",
   "numac": 2013036141,
   "document_start": "2013-12-28",
   "document_end": "2016-08-01",
-  "in_force": "2013-12-28",
+  "in_force": "2016-08-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2013-12-28; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-01; future article versions excluded; article text as the API gives it"
 }
