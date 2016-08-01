@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027048,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 houdende vaststelling van de netwerken die voor een significant aantal eindgebruikers het belangrijkste middel zijn om omroepprogramma's te ontvangen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027048/VolledigDocument?datum=2016-08-01",
+  "source_sha256": "36eea845538a93b7626ab5106491616847e3599cb72b9bc32b90265cf1413b88",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027048&param=informatie",
+  "as_of": "2016-08-01",
+  "made": "2016-06-17",
+  "gazette": "2016-07-22",
+  "numac": 2016036098,
+  "document_start": "2016-08-01",
+  "document_end": "2019-09-21",
+  "in_force": "2016-08-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
