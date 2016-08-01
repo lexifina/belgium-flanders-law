@@ -1668,7 +1668,7 @@ De inkomsten die voortvloeien uit de opbrengst van de administratieve   geldboet
 ### ART. 14.1.3.
 
 Hoeveelheid elektrische stroom, uitgedrukt in GWh, zoals berekend in artikel 14
-<p>De heffing wordt van rechtswege met ingang van heffingsjaar 2016 jaarlijks op 1 januari geïndexeerd door het tarief in artikel 14.1.2 te vermenigvuldigen met het indexcijfer van de consumptieprijzen, vastgesteld voor de maand oktober van het vorige heffingsjaar, en te delen door het indexcijfer van de consumptieprijzen, vastgesteld voor de maand december van het jaar 2014.<br>
+<p>De heffing wordt van rechtswege met ingang van heffingsjaar 2016 jaarlijks op 1 januari geïndexeerd door het tarief in artikel 14.1.2 te vermenigvuldigen met het indexcijfer van de consumptieprijzen, vastgesteld voor de maand oktober van het vorige heffingsjaar, en te delen door het indexcijfer van de consumptieprijzen, vastgesteld voor de maand december van het jaar 2014. Na de toepassing van die coëfficiënt worden de bedragen afgerond op de hogere eurocent.<br>
 <!--[if gte mso 9]><xml><br> <o:DocumentProperties><br>  <o:Author>decockge</o:Author><br>  <o:Template>Normal</o:Template><br>  <o:LastAuthor>decockge</o:LastAuthor><br>  <o:Revision>3</o:Revision><br>  <o:TotalTime>8</o:TotalTime><br>  <o:Created>2009-07-07T10:30:00Z</o:Created><br>  <o:LastSaved>2009-07-08T06:22:00Z</o:LastSaved><br>  <o:Pages>1</o:Pages><br>  <o:Words>93</o:Words><br>  <o:Characters>515</o:Characters><br>  <o:Company>MVG</o:Company><br>  <o:Lines>4</o:Lines><br>  <o:Paragraphs>1</o:Paragraphs><br>  <o:CharactersWithSpaces>607</o:CharactersWithSpaces><br>  <o:Version>11.9999</o:Version><br> </o:DocumentProperties><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:WordDocument><br>  <w:SpellingState>Clean</w:SpellingState><br>  <w:GrammarState>Clean</w:GrammarState><br>  <w:HyphenationZone>21</w:HyphenationZone><br>  <w:PunctuationKerning></w:PunctuationKerning><br>  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas><br>  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br>  <w:Compatibility><br>   <w:BreakWrappedTables></w:BreakWrappedTables><br>   <w:SnapToGridInCell></w:SnapToGridInCell><br>   <w:WrapTextWithPunct></w:WrapTextWithPunct><br>   <w:UseAsianBreakRules></w:UseAsianBreakRules><br>   <w:DontGrowAutofit></w:DontGrowAutofit><br>  </w:Compatibility><br>  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><br> </w:WordDocument><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <w:LatentStyles DefLockedState="e;false"e; LatentStyleCount="e;156"e;><br> </w:LatentStyles><br></xml><![endif]--><!--[if gte mso 10]><br><style><br> /* Style Definitions */<br> table.MsoNormalTable<br>	&lftaco;mso-style-name:Standaardtabel;<br>	mso-tstyle-rowband-size:0;<br>	mso-tstyle-colband-size:0;<br>	mso-style-noshow:yes;<br>	mso-style-parent:"e;"e;;<br>	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;<br>	mso-para-margin:0cm;<br>	mso-para-margin-bottom:.0001pt;<br>	mso-pagination:widow-orphan;<br>	font-size:10.0pt;<br>	font-family:"e;Times New Roman"e;;<br>	mso-ansi-language:#0400;<br>	mso-fareast-language:#0400;<br>	mso-bidi-language:#0400;&rgtaco;<br></style><br><![endif]--><!--[if gte mso 9]><xml><br> <o:shapedefaults v:ext="e;edit"e; spidmax="e;3074"e;></o:shapedefaults><br></xml><![endif]--><!--[if gte mso 9]><xml><br> <o:shapelayout v:ext="e;edit"e;><br>  <o:idmap v:ext="e;edit"e; data="e;1"e;></o:idmap><br> </o:shapelayout></xml><![endif]--></p>
 
 ### ART. 14.1.3/1.
@@ -1687,7 +1687,29 @@ Hoeveelheid elektrische stroom, uitgedrukt in GWh, zoals berekend in artikel 14
 
 ### ART. 14.2.2.
 
-[ ... (Deze versie vervalt ingevolge het arrest 83/2017 van het Grondwettelijk Hof van&nbsp;22&nbsp;juni 2017. Zie commentaar bij dit artikel)]
+&nbsp;§ 1. De heffing, vermeld in hoofdstuk I, wordt voor rekening van het Vlaamse Gewest geïnd door de toegangshouder van het afnamepunt via diens afrekeningsfacturen en slotfacturen.<br>
+<br>
+Indien er gedurende een bepaalde kalendermaand voor een afnamepunt echter meerdere achtereenvolgende toegangshouders in het toegangsregister zijn opgenomen, dan wordt de heffing voor die maand pro rata temporis door elk van die toegangshouders aangerekend en geïnd.<br>
+<br>
+De factuur die naar de afnemer wordt verstuurd, vermeldt de precieze vergoeding die de afnemer verschuldigd is en geldt als verzoek tot betaling van de verschuldigde heffing. De betalingstermijn bedraagt ten minste vijftien dagen en begint te lopen op de verzendingsdatum van het verzoek tot betaling.<br>
+<br>
+&nbsp;§ 2. Elke toegangshouder bezorgt uiterlijk de twintigste dag van elke&nbsp;maand aan de Vlaamse Belastingdienst een overzicht van de ten laste van de afnemers aangerekende heffingen die hij in de loop van de vorige&nbsp;maand heeft geboekt.<br>
+<br>
+Het model en de wijze van indienen van dit overzicht wordt door de Vlaamse Regering vastgesteld maar bevat minstens:<br>
+1° de benaming van de toegangshouder;<br>
+2° zijn maatschappelijke zetel en exploitatiezetel;<br>
+3° de personalia van de persoon die instaat voor de inning en de storting van de heffing.<br>
+<br>
+De toegangshouder stort uiterlijk de dertigste dag van elke&nbsp;maand de in de vorige&nbsp;maand geïnde heffingen ten gunste van het Energiefonds op de rekening van de Vlaamse Belastingdienst.<br>
+<br>
+§ 3. Om rekening te houden met de heffingen die hem niet volledig gestort zouden worden door afnemers, mag elke toegangshouder een forfait van 0,5 procent afhouden van de heffingen die in rekening worden gebracht op de afrekeningsfacturen en slotfacturen.<br>
+<br>
+Bij de jaarlijkse afsluiting van de rekeningen, uiterlijk op&nbsp;1 juli, deelt de toegangshouder aan de Vlaamse Belastingdienst het bedrag van de boekhoudkundig geregistreerde niet-invorderbare schuldvorderingen van de heffing mee dat betrekking heeft op de leveringen onderworpen aan deze heffing.<br>
+<br>
+Als het totaal bedrag van de niet-invorderbare schuldvorderingen hoger is dan het jaarlijks bedrag van het forfait bedoeld in het eerste lid, wordt het verschil door de toegangshouder in mindering gebracht van het bedrag van de heffing dat de toegangshouder op de volgende vervaldatum moet storten.<br>
+<br>
+Als het totaal bedrag van de niet-invorderbare schuldvorderingen lager is dan het jaarlijks bedrag van het forfait bedoeld in het eerste lid, wordt het verschil door de toegangshouder opgeteld bij het bedrag van de heffing dat de toegangshouder op de volgende vervaldatum moet storten.<br>
+&nbsp;
 
 ### ART. 14.2.3.
 
