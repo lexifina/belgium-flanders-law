@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027062,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot invoering van een volumekorting op het loodsgeld voor loodsverrichtingen in de loodsvaarwateren",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027062/VolledigDocument?datum=2016-08-01",
+  "source_sha256": "5216be4b3e1a89317bd42857db52436eaa9e60838c0f31438c60fde7b1f6969b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027062&param=informatie",
+  "as_of": "2016-08-01",
+  "made": "2016-07-15",
+  "gazette": "2016-07-29",
+  "numac": 2016036192,
+  "document_start": "2016-08-01",
+  "document_end": null,
+  "in_force": "2016-08-01",
+  "article_versions": 26,
+  "record_form": "consolidated version as in force on 2016-08-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
