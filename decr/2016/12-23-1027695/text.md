@@ -4,6 +4,15 @@
 
 ## HOOFDSTUK 2 Verrekenbaarheid met opcentiemen in geval van federale fiscale regularisatie
 
+### ART 2.
+
+Op de geregulariseerde inkomsten die het voorwerp uitmaken van een regularisatieaangifte, overeenkomstig de bepalingen van hoofdstuk 2 van de wet van 21 juli 2016 tot invoering van een permanent systeem inzake fiscale en sociale regularisatie, worden opcentiemen geheven overeenkomstig artikel 5/1, § 1, 1°, van de bijzondere wet van 16 januari 1989 betreffende de financiering van de Gemeenschappen en de Gewesten.
+
+### ART 3.
+
+Voor de geregulariseerde inkomsten die het voorwerp uitmaken van een regularisatieaangifte, overeenkomstig de bepalingen van hoofdstuk 2 van de wet van 21 juli 2016 tot invoering van een permanent systeem inzake fiscale en sociale regularisatie, wordt geen rekening gehouden met enige belastingvermindering, belastingkrediet of korting.<br>
+&nbsp;
+
 ## HOOFDSTUK 3 Wijzigingen van het Wetboek van de Inkomstenbelastingen 1992
 
 ## HOOFDSTUK 4 Wijziging van het decreet van 22 februari 1995 tot regeling van de invordering van niet-fiscale schuldvorderingen voor de Vlaamse Gemeenschap en de instellingen die eronder ressorteren

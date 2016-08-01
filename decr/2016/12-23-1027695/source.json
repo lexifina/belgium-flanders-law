@@ -2,16 +2,16 @@
   "codex_id": 1027695,
   "title": "Decreet van 2016-12-23 houdende diverse fiscale bepalingen en bepalingen omtrent de invordering van niet-fiscale schuldvorderingen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027695/VolledigDocument?datum=2016-04-01",
-  "source_sha256": "72106a82287615fe75d5d2387aadaa02d9da249fc2cba273b88884cd49c260b6",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027695/VolledigDocument?datum=2016-08-01",
+  "source_sha256": "56ad1244cfb1c9bb432c8c202cab1ad245f7d2323444ef7d6c78bcdcca4c7b8a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027695&param=informatie",
-  "as_of": "2016-04-01",
+  "as_of": "2016-08-01",
   "made": "2016-12-23",
   "gazette": "2016-12-30",
   "numac": 2016036770,
   "document_start": "2017-01-09",
   "document_end": null,
-  "in_force": "2016-04-01",
-  "article_versions": 7,
-  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-08-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-08-01; future article versions excluded; article text as the API gives it"
 }
