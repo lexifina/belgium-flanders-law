@@ -64,7 +64,7 @@ De ernst en de duur van het verminderde zelfzorgvermogen worden vastgesteld door
 3° de datum van de aanvraag, als de datum vermeld in 1°, na de datum van de aanvraag valt;<br>
 4° de datum waarop door het Vlaams Agentschap voor Personen met een Handicap, opgericht bij artikel 3 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, of door de toegangspoort, vermeld in artikel 2, § 1, 51°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, een behoefte aan zorg en ondersteuning is vastgesteld als vermeld in artikel 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, bij de gebruikers, vermeld in artikel 6, § 1, tweede lid, 4°, van dit decreet.<br>
 <br>
-§ 2. Er is een carenstijd die inhoudt dat de uitvoering van de tenlastenemingen ten vroegste ingaat vanaf de eerste dag van de vierde maand die volgt op de datum waarop het recht op een tenlasteneming geopend wordt.<br>
+§ 2. ...<br>
 <br>
 In afwijking van het eerste lid kan de Vlaamse Regering voor de inwoners van het tweetalige gebied Brussel-Hoofdstad of voor de personen, vermeld in artikel 4, § 2, vijfde lid, de carenstijd uitbreiden voor de uitvoering van het basisondersteuningsbudget, vermeld in artikel 4 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
 <br>
