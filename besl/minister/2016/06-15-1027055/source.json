@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027055,
+  "title": "Ministerieel besluit van 2016-06-15 tot wijziging van het ministerieel besluit van 18 maart 2015 tot vaststelling van het oproepings- en aanvullend formulier bij dopingcontroles en de formulieren die gebruikt moeten worden voor de aanvraag, toekenning en weigering van een toestemming wegens therapeutische noodzaak",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027055/VolledigDocument?datum=2016-08-05",
+  "source_sha256": "b91f64df8404faa49caa04bdfbfac3d7115da47469ed0b28d70a37d0262f61a5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027055&param=informatie",
+  "as_of": "2016-08-05",
+  "made": "2016-06-15",
+  "gazette": "2016-07-26",
+  "numac": 2016036097,
+  "document_start": "2016-08-05",
+  "document_end": null,
+  "in_force": "2016-08-05",
+  "article_versions": 7,
+  "record_form": "consolidated version as in force on 2016-08-05; oldest version available; future article versions excluded; article text as the API gives it"
+}
