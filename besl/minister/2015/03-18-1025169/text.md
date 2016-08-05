@@ -38,11 +38,11 @@ Het   ministerieel besluit van 11 april 2013 tot vaststelling van het oproepings
 
 ### BIJLAGE
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=51">Bijlage</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=179">http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=179</a>
 
 ### BIJLAGE 2
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/03/30_1.pdf#page=53">Bijlage   2</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=180">http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=180</a>
 
 ### BIJLAGE 3
 
@@ -62,4 +62,4 @@ Het   ministerieel besluit van 11 april 2013 tot vaststelling van het oproepings
 
 ### BIJLAGE 7.
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2015/12/23_1.pdf#page=166">Bijlage   7</A>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=181">http://www.ejustice.just.fgov.be/mopdf/2016/07/26_1.pdf#page=181</a>
