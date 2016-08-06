@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027109,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot wijziging van het besluit betreffende de zorg- en bijstandsverlening in de thuiszorg van 27 maart 2009, wat betreft de erkenning van beroepskwalificaties van onderdanen van lidstaten van de Europese Economische Ruimte",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027109/VolledigDocument?datum=2016-08-06",
+  "source_sha256": "37f5fd46a27274adfdd5949f4a4d5cf67bd2eaa74822ba355374937620fff2fa",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027109&param=informatie",
+  "as_of": "2016-08-06",
+  "made": "2016-07-15",
+  "gazette": "2016-08-05",
+  "numac": 2016036190,
+  "document_start": "2016-08-06",
+  "document_end": null,
+  "in_force": "2016-08-06",
+  "article_versions": 6,
+  "record_form": "consolidated version as in force on 2016-08-06; oldest version available; future article versions excluded; article text as the API gives it"
+}
