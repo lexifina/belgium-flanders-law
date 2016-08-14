@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027095,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 houdende indeling bij de gemeentewegen van de gewestweg \"Oude Trambaan\" tussen kilometerpunt 10,2000 en 11,300 t.h.v. de N42 op het grondgebied van de stad Zottegem",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027095/VolledigDocument?datum=2016-08-14",
+  "source_sha256": "09fa64b37ba0bc8f33fa613c960dfc9593ad40fa2e69a56f63d3fa720e473f0b",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027095&param=informatie",
+  "as_of": "2016-08-14",
+  "made": "2016-06-17",
+  "gazette": "2016-08-04",
+  "numac": 2016036172,
+  "document_start": "2016-08-14",
+  "document_end": null,
+  "in_force": "2016-08-14",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
