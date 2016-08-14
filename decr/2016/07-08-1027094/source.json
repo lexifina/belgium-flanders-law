@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027094,
+  "title": "Decreet van 2016-07-08 houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Staat Israël, ondertekend te Jeruzalem op 24 maart 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027094/VolledigDocument?datum=2016-08-14",
+  "source_sha256": "2ca21645bc56ab60447e1f28870756563fda0da446dcc870ae348929f758ca58",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027094&param=informatie",
+  "as_of": "2016-08-14",
+  "made": "2016-07-08",
+  "gazette": "2016-08-04",
+  "numac": 2016036193,
+  "document_start": "2016-08-14",
+  "document_end": null,
+  "in_force": "2016-08-14",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-08-14; oldest version available; future article versions excluded; article text as the API gives it"
+}
