@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027110,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 tot uitbreiding van de studieomvang van de professioneel gerichte bacheloropleiding bachelor in de verpleegkunde in het hoger onderwijs in Vlaanderen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027110/VolledigDocument?datum=2016-08-15",
+  "source_sha256": "ff804a799110a518d718c0571a34805899e33769bbf393f8ad4904d395ade03c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027110&param=informatie",
+  "as_of": "2016-08-15",
+  "made": "2016-07-15",
+  "gazette": "2016-08-05",
+  "numac": 2016036196,
+  "document_start": "2016-08-15",
+  "document_end": null,
+  "in_force": "2016-08-15",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-08-15; oldest version available; future article versions excluded; article text as the API gives it"
+}
