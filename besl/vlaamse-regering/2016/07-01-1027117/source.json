@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027117,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 houdende goedkeuring van nieuwe programmaties voor het schooljaar 2016-2017 in het deeltijds kunstonderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027117/VolledigDocument?datum=2016-08-21",
+  "source_sha256": "b3544b313d89a7f1d275bd4e12061ef0954893b704a3d0f41b2c902cdfb9ade4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027117&param=informatie",
+  "as_of": "2016-08-21",
+  "made": "2016-07-01",
+  "gazette": "2016-08-11",
+  "numac": 2016036137,
+  "document_start": "2016-08-21",
+  "document_end": null,
+  "in_force": "2016-08-21",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-08-21; oldest version available; future article versions excluded; article text as the API gives it"
+}
