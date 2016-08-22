@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027120,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 tot wijziging van het besluit van de Vlaamse Regering van 20 mei 2005 tot vaststelling van de bijzondere regelen inzake de erkenning en de subsidiëring van kringloopcentra",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027120/VolledigDocument?datum=2016-08-22",
+  "source_sha256": "2e6d01bd0eb60b3e774d154baa33ec134b78981068a976a4627ca3a141042e4e",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027120&param=informatie",
+  "as_of": "2016-08-22",
+  "made": "2016-07-01",
+  "gazette": "2016-08-12",
+  "numac": 2016036135,
+  "document_start": "2016-08-22",
+  "document_end": null,
+  "in_force": "2016-08-22",
+  "article_versions": 15,
+  "record_form": "consolidated version as in force on 2016-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
