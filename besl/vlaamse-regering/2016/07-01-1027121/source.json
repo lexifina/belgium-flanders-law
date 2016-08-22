@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027121,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-01 houdende werkingssubsidies aan de Vlaamse Gemeenschapscommissie voor de beleidsperiode 2016-2020 en aan intergemeentelijke samenwerkingsverbanden voor de uitvoering van een lokaal cultureel-erfgoedbeleid voor de periode 2018-2020",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027121/VolledigDocument?datum=2016-08-22",
+  "source_sha256": "6a6bbc84235d6633b3cf7ab6182279be772d1ccbd86db1878b71d94725ab0591",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027121&param=informatie",
+  "as_of": "2016-08-22",
+  "made": "2016-07-01",
+  "gazette": "2016-08-12",
+  "numac": 2016036136,
+  "document_start": "2016-08-22",
+  "document_end": null,
+  "in_force": "2016-08-22",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-08-22; oldest version available; future article versions excluded; article text as the API gives it"
+}
