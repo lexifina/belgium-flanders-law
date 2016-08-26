@@ -36,13 +36,93 @@ De Vlaamse minister bevoegd voor het promotiebeleid inzake de landbouw, is belas
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br />1° "Zaaizaden en pootgoed":<br />- landbouwzaden: dit wil onder meer zeggen: zaaigranen, hybridemaïszaad, zaden van erwten, bonen en vitsen, grassen, klavers, voedergewassen, voederbieten, suikerbieten, oliehoudende en eiwithoudende gewassen;<br />- aardappelpootgoed;<br />- zaailijnzaad;<br />- tuinbouwzaden.<br />2° "Frituur": elke exploitatie in binnen- of buiteninrichting met of zonder verbruik ter plaatse, waar aan het cliënteel gerechten en voedingswaren verstrekt worden, die gebruikelijk worden verstrekt of verkocht in de frituursector, al dan niet geserveerd met brood of drank, en die uitsluitend opgediend worden in een voor eenmalig gebruik bestemde houder of verpakking van papier, karton of kunststof, eventueel vergezeld van bestek dat eveneens dient voor eenmalig gebruik.<br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds 'Akkerbouwproducten' worden als volgt vastgesteld voor zaaizaden en pootgoed:<br />1° Alle vermeerderaars betalen een verplichte bijdrage van 25 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br />2° Alle in Vlaanderen gevestigde kwekers, mandatarissen en instandhouders van zaaizaden en (of) pootgoed betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />3° Alle in Vlaanderen gevestigde handelaars-bereiders van zaaizaden betalen een verplichte jaarlijkse bijdrage van 620 euro.<br />4° Alle in Vlaanderen gevestigde handelaars en handelaars-bereiders van pootgoed betalen een verplichte jaarlijkse bijdrage van 124 euro.<br /><br />3. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor hop:<br />Een verplichte jaarlijkse bijdrage van 13 euro is verschuldigd per in Vlaanderen geteelde hectare hop.<br /><br />Deze bijdrage wordt door VLAM geïnd als volgt:<br />- 12 euro via de beroepsverenigingen van hopplanters;<br />- 1 euro via de beroepsverenigingen van hophandelaars.<br /><br />4. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor aardappelen:<br />1° Alle in Vlaanderen gevestigde aardappelproducenten betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- meer dan 4 hectaren: 6 euro per hectare.<br />2° Alle in Vlaanderen gevestigde aardappelproducenten - erkende bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br />- van 1 tot en met 4 hectaren: 25 euro;<br />- van meer dan 4 hectaren tot en met 12 hectaren: 124 euro + 6 euro per hectare met een maximum van 174 euro;<br />- meer dan 12 hectaren: 310 euro + 6 euro per hectare.<br />3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en erkende handelaars-be-reidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br />- minder dan 25.000 ton per jaar: 310 euro;<br />- vanaf 25.000 ton per jaar: 620 euro.<br />4° De verplichte bijdragen sub 1° en 3° zijn cumulatief. <br />5° Alle in Vlaanderen gevestigde frituren betalen met ingang van het referentiejaar 2003 een jaarlijkse verplichte bijdrage van 50 euro. <br /><br />5. De verplichte bijdragen, bestemd voor het promotiefonds Akkerbouwproducten, worden als volgt vastgesteld voor diepgevroren groenten en groenteconserven :<br />1° VZW VEGEBE, het Verbond van Groenteverwerkende Bedrijven en Industriegroenten, Groothandelaars en Exporteurs, betaalt aan VLAM een jaarlijkse bijdrage van 65.000 euro;<br />2° De bijdrage, vermeld in punt 1°, wordt doorgerekend aan de bedrijven die actief zijn in de verwerking van groenten tot diepgevroren groenten en/of groenteconserven. De bijdrage wordt doorgerekend op basis van de verhouding van het gemiddelde van de toegevoegde waarde van elk betrokken bedrijf van de laatste drie boekjaren waarvoor bij de Balanscentrale van de Nationale Bank de balans werd gedeponeerd, tegenover het totaal van de toegevoegde waarde van al de bedrijven die actief zijn in de sector over dezelfde periode, zoals blijkt uit dezelfde documenten;<br />3° De bijdrage, vermeld in punt 1°, geldt voor de referentiejaren 2006 tot en met 2008.<br /><br />6. Elk jaar worden de bedragen, vermeld in punt 2 tot en met 5, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br />het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br />a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br />b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br />c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br />De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro.<br />De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br>
+1° "Zaaizaden en pootgoed":<br>
+- landbouwzaden: dit wil onder meer zeggen: zaaigranen, hybridemaïszaad, zaden van erwten, bonen en vitsen, grassen, klavers, voedergewassen, voederbieten, suikerbieten, oliehoudende en eiwithoudende gewassen;<br>
+- aardappelpootgoed;<br>
+- zaailijnzaad;<br>
+- tuinbouwzaden.<br>
+2° "Frituur": elke exploitatie in binnen- of buiteninrichting met of zonder verbruik ter plaatse, waar aan het cliënteel gerechten en voedingswaren verstrekt worden, die gebruikelijk worden verstrekt of verkocht in de frituursector, al dan niet geserveerd met brood of drank, en die uitsluitend opgediend worden in een voor eenmalig gebruik bestemde houder of verpakking van papier, karton of kunststof, eventueel vergezeld van bestek dat eveneens dient voor eenmalig gebruik.<br>
+<br>
+2. De verplichte bijdragen bestemd voor het promotiefonds 'Akkerbouwproducten' worden als volgt vastgesteld voor zaaizaden en pootgoed:<br>
+1° Alle verantwoordelijken productie en handel betalen een verplichte bijdrage van 25 euro per op het land goedgekeurde hectare aardappelpootgoed, vermeerderd in Vlaanderen.<br>
+2° Alle in Vlaanderen gevestigde verantwoordelijken voor rassen van zaaizaden en (of) pootgoed betalen een verplichte jaarlijkse bijdrage van 620 euro.<br>
+3° Alle in Vlaanderen gevestigde of actieve leveranciers van zaaizaden betalen een verplichte jaarlijkse bijdrage van 620 euro.<br>
+4° ...<br>
+<br>
+3. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor hop:<br>
+Een verplichte jaarlijkse bijdrage van 13 euro is verschuldigd per in Vlaanderen geteelde hectare hop.<br>
+<br>
+Deze bijdrage wordt door VLAM geïnd als volgt:<br>
+- 12 euro via de beroepsverenigingen van hopplanters;<br>
+- 1 euro via de beroepsverenigingen van hophandelaars.<br>
+<br>
+4. De verplichte bijdragen bestemd voor het promotiefonds `Akkerbouwproducten' worden als volgt vastgesteld voor aardappelen:<br>
+1° Alle in Vlaanderen gevestigde aardappelproducenten betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br>
+- van 1 tot en met 4 hectaren: 25 euro;<br>
+- meer dan 4 hectaren: 6 euro per hectare.<br>
+2° Alle in Vlaanderen gevestigde aardappelproducenten - erkende bereider - verpakkers die uitsluitend teeltareaal uit eigen productie commercialiseren, betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte, die ze tijdens het voorafgaandelijk kalenderjaar aangewend hebben voor aardappelen:<br>
+- van 1 tot en met 4 hectaren: 25 euro;<br>
+- van meer dan 4 hectaren tot en met 12 hectaren: 124 euro + 6 euro per hectare met een maximum van 174 euro;<br>
+- meer dan 12 hectaren: 310 euro + 6 euro per hectare.<br>
+3° Alle in Vlaanderen gevestigde schilbedrijven, groothandelaars, makelaars, commissionairs en erkende handelaars-be-reidersverpakkers betalen een verplichte jaarlijkse bijdrage in functie van het aantal ton aardappelen die ze tijdens het voorafgaandelijk kalenderjaar verhandelden:<br>
+- minder dan 25.000 ton per jaar: 310 euro;<br>
+- vanaf 25.000 ton per jaar: 620 euro.<br>
+4° De verplichte bijdragen sub 1° en 3° zijn cumulatief.<br>
+5° Alle in Vlaanderen gevestigde frituren betalen met ingang van het referentiejaar 2003 een jaarlijkse verplichte bijdrage van 50 euro.<br>
+<br>
+5. De verplichte bijdragen, bestemd voor het promotiefonds Akkerbouwproducten, worden als volgt vastgesteld voor diepgevroren groenten en groenteconserven :<br>
+1° VZW VEGEBE, het Verbond van Groenteverwerkende Bedrijven en Industriegroenten, Groothandelaars en Exporteurs, betaalt aan VLAM een jaarlijkse bijdrage van 65.000 euro;<br>
+2° De bijdrage, vermeld in punt 1°, wordt doorgerekend aan de bedrijven die actief zijn in de verwerking van groenten tot diepgevroren groenten en/of groenteconserven. De bijdrage wordt doorgerekend op basis van de verhouding van het gemiddelde van de toegevoegde waarde van elk betrokken bedrijf van de laatste drie boekjaren waarvoor bij de Balanscentrale van de Nationale Bank de balans werd gedeponeerd, tegenover het totaal van de toegevoegde waarde van al de bedrijven die actief zijn in de sector over dezelfde periode, zoals blijkt uit dezelfde documenten;<br>
+3° De bijdrage, vermeld in punt 1°, geldt voor de referentiejaren 2006 tot en met 2008.<br>
+<br>
+6. Elk jaar worden de bedragen, vermeld in punt 2 tot en met 5, geïndexeerd. Die indexatie gebeurt op basis van de schommelingen van het indexcijfer van de consumptieprijzen volgens de hiernavolgende formule :<br>
+het nieuwe bedrag = basisbedrag x nieuw indexcijfer/aanvangsindexcijfer<br>
+a) het basisbedrag is het bedrag dat geldig is voor jaar x;<br>
+b) het aanvangsindexcijfer is het indexcijfer van de maand oktober van het jaar x-1;<br>
+c) het nieuwe indexcijfer is het indexcijfer van de consumptieprijzen van de maand oktober van het jaar x.<br>
+De bedragen worden afgerond op de euro, waarbij bedragen van 50 cent of hoger worden afgerond naar de hogere euro, beneden de 50 cent naar de lagere euro.<br>
+De aldus geïndexeerde bijdragen worden van kracht op 1 januari van het jaar x+1.
 
 ## Bijlage II [Verplichte bijdragen in het promotiefonds 'Groenten en fruit'
 
 ### Tekst
 
-1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br /><br />"groeperingsverpakking": verpakking die bestemd is tot het bevatten, het beschermen en het vervoeren van een bepaalde hoeveelheid van producten, hetzij los, hetzij in kleinverpakkingen, hetzij per stuk voorverpakt. Voor witloof worden hiervan uitgesloten: verpakkingen bestemd voor levering aan sorteer- en pakstations;<br /><br />"verpakker": wie groenten, fruit en/of witloof verpakt in een groeperingsverpakking;<br /><br />"verpakkingsfirma": wie groeperingsverpakkingen produceert;<br /><br />"fruit": alle fruit van Vlaamse oorsprong bestemd om in verse toestand aan de verbruiker te leveren;<br /><br />"groenten": alle groenten van Vlaamse oorsprong bestemd om in verse toestand aan de verbruiker te leveren, met uitzondering van witloof.<br /><br />2. De verplichte bijdragen bestemd voor het promotiefonds "groenten en fruit" worden als volgt vastgesteld voor de hieronder vermelde producten, uitgezonderd witloof: <br /><br />1° ... <br /><br />2° De teler van eetbare paddestoelen betaalt een jaarlijkse bijdrage van 0,25 euro per vierkante meter teeltoppervlakte, met een mini-mumbijdrage van 25 euro per bedrijf.<br /><br />3° Per groeperingsverpakking in de handel gebrachte groenten is een bijdrage verschuldigd van 0,40 cent.<br /><br />4° Per groeperingsverpakking in de handel gebracht fruit, met uitzondering van druiven, appelen en peren, is een bijdrage verschuldigd van 1 cent. <br /><br />5° Alle in Vlaanderen gevestigde telers van appelen en/of peren betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte die ze tijdens het voorafgaande kalenderjaar aangewend hebben voor de teelt van appelen en/of peren. De bijdrage bedraagt 30 euro per hectare teeltoppervlakte met een minimum van 50 euro per bedrijf.<br /><br />3. De verplichte bijdragen bestemd voor het promotiefonds « groenten en fruit » worden als volgt vastgesteld voor het product witloof: per groeperingsverpakking in de handel gebracht en in Vlaanderen geteeld witloof van minder dan 3 kg is een bijdrage verschuldigd van 0,46 cent; per groeperingsverpakking van 3 kg tot en met 7 kg een bijdrage van 1,10 cent; per groeperingsverpakking van meer dan 7 kg een bijdrage van 1,90 cent.<br /><br />4. 1° Behalve voor appelen, peren en champignons kunnen de bijdragen vermeld in deze bijlage op verzoek van de veilingen voor hun leden aan VLAM betaald worden door de veilingen voor wat betreft de producten die via hen gecommercialiseerd worden.Telers van veilingen die niet dergelijk verzoek gedaan hebben, zijn gehouden zelf de bijdragen aan VLAM te betalen volgens de hiernavolgende betalingsmodaliteiten.<br /><br />2° Voor producten die niet via de veiling gecommercialiseerd worden, worden de bijdragen betaald door middel van zegels, afgeleverd door VLAM na voorafgaandelijke betaling van bijdragen en kosten, en door VLAM geïnd bij de teler of via de verpakker, die deze, via eventuele tussenpersonen in de handelscyclus, kan doorrekenen aan de teler. In geval van doorrekening worden de bijdragen afzonderlijk vermeld op de factuur. De zegels worden door de verpakker op elke groeperingsverpakking aangebracht. Ze worden aangebracht ofwel op het etiket, inlegblad of dekvel, samen met de in de kwaliteitsnormen ter uitvoering van de gemeenschappelijke ordening der markten in de sector groenten en fruit voorgeschreven gegevens betreffende de aanduiding van het product, ofwel samen met dezelfde door directe opdruk aangebrachte gegevens.<br /><br />3° Om de druk- en distributiekosten van de zegels te dekken moeten de door middel van zegels betaalde bijdragen vermeerderd worden met 0,62 cent.<br /><br />4° De zegels mogen slechts eenmaal de volledige handelscyclus doorlopen.<br /><br />5° Telers, veilingen en verpakkers kunnen een overeenkomst sluiten met VLAM in verband met de modaliteiten van inning der bijdragen, zodat ze geen zegels moeten kleven.
+1. Voor de toepassing van deze bijdrageregeling wordt verstaan onder:<br>
+<br>
+"groeperingsverpakking": verpakking die bestemd is tot het bevatten, het beschermen en het vervoeren van een bepaalde hoeveelheid van producten, hetzij los, hetzij in kleinverpakkingen, hetzij per stuk voorverpakt. Voor witloof worden hiervan uitgesloten: verpakkingen bestemd voor levering aan sorteer- en pakstations;<br>
+<br>
+"verpakker": wie groenten, fruit en/of witloof verpakt in een groeperingsverpakking;<br>
+<br>
+"verpakkingsfirma": wie groeperingsverpakkingen produceert;<br>
+<br>
+"fruit": alle fruit van Vlaamse oorsprong bestemd om in verse toestand aan de verbruiker te leveren;<br>
+<br>
+"groenten": alle groenten van Vlaamse oorsprong bestemd om in verse toestand aan de verbruiker te leveren, met uitzondering van witloof.<br>
+<br>
+2. De verplichte bijdragen bestemd voor het promotiefonds "groenten en fruit" worden als volgt vastgesteld voor de hieronder vermelde producten, uitgezonderd witloof:<br>
+<br>
+1° ...<br>
+<br>
+2° De teler van eetbare paddestoelen betaalt een jaarlijkse bijdrage van 0,25 euro per vierkante meter teeltoppervlakte, met een mini-mumbijdrage van 25 euro per bedrijf.<br>
+<br>
+3° Per groeperingsverpakking in de handel gebrachte groenten is een bijdrage verschuldigd van 0,40 cent.<br>
+<br>
+4° Per groeperingsverpakking in de handel gebracht fruit, met uitzondering van druiven, appelen en peren, is een bijdrage verschuldigd van 1 cent.<br>
+<br>
+5° Alle in Vlaanderen gevestigde telers van appelen en/of peren betalen een verplichte jaarlijkse bijdrage in functie van de teeltoppervlakte die ze tijdens het voorafgaande kalenderjaar aangewend hebben voor de teelt van appelen en/of peren. De bijdrage bedraagt 40 euro per hectare teeltoppervlakte met een minimum van 50 euro per bedrijf.<br>
+<br>
+3. De verplichte bijdragen bestemd voor het promotiefonds « groenten en fruit » worden als volgt vastgesteld voor het product witloof: per groeperingsverpakking in de handel gebracht en in Vlaanderen geteeld witloof van minder dan 3 kg is een bijdrage verschuldigd van 0,46 cent; per groeperingsverpakking van 3 kg tot en met 7 kg een bijdrage van 1,10 cent; per groeperingsverpakking van meer dan 7 kg een bijdrage van 1,90 cent.<br>
+<br>
+4. 1° Behalve voor appelen, peren en champignons kunnen de bijdragen vermeld in deze bijlage op verzoek van de veilingen voor hun leden aan VLAM betaald worden door de veilingen voor wat betreft de producten die via hen gecommercialiseerd worden.Telers van veilingen die niet dergelijk verzoek gedaan hebben, zijn gehouden zelf de bijdragen aan VLAM te betalen volgens de hiernavolgende betalingsmodaliteiten.<br>
+<br>
+2° Voor producten die niet via de veiling gecommercialiseerd worden, worden de bijdragen betaald door middel van zegels, afgeleverd door VLAM na voorafgaandelijke betaling van bijdragen en kosten, en door VLAM geïnd bij de teler of via de verpakker, die deze, via eventuele tussenpersonen in de handelscyclus, kan doorrekenen aan de teler. In geval van doorrekening worden de bijdragen afzonderlijk vermeld op de factuur. De zegels worden door de verpakker op elke groeperingsverpakking aangebracht. Ze worden aangebracht ofwel op het etiket, inlegblad of dekvel, samen met de in de kwaliteitsnormen ter uitvoering van de gemeenschappelijke ordening der markten in de sector groenten en fruit voorgeschreven gegevens betreffende de aanduiding van het product, ofwel samen met dezelfde door directe opdruk aangebrachte gegevens.<br>
+<br>
+3° Om de druk- en distributiekosten van de zegels te dekken moeten de door middel van zegels betaalde bijdragen vermeerderd worden met 0,62 cent.<br>
+<br>
+4° De zegels mogen slechts eenmaal de volledige handelscyclus doorlopen.<br>
+<br>
+5° Telers, veilingen en verpakkers kunnen een overeenkomst sluiten met VLAM in verband met de modaliteiten van inning der bijdragen, zodat ze geen zegels moeten kleven.
 
 ## Bijlage III [Verplichte bijdragen in het promotiefonds "Niet-eetbare tuinbouw-producten"
 
