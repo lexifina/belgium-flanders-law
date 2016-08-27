@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027131,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 houdende indeling bij de gemeentewegen van de weggedeelten langs de N2 Maastrichterstraat van mp. 86,679 tot mp. 86,844 - N730b Spelverstraat van mp. 0,000 tot mp. 1,100 - N730 kruispunt van mp. 11,783 tot mp. 11,866 te Bilzen op het grondgebied van de stad Bilzen",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027131/VolledigDocument?datum=2016-08-27",
+  "source_sha256": "441d7766576fae8f578e4930ce6bc0d0ee34cb0968343b313755fb2b4e903721",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027131&param=informatie",
+  "as_of": "2016-08-27",
+  "made": "2016-06-17",
+  "gazette": "2016-08-17",
+  "numac": 2016036166,
+  "document_start": "2016-08-27",
+  "document_end": null,
+  "in_force": "2016-08-27",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
