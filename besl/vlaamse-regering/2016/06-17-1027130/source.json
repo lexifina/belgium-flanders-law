@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027130,
+  "title": "Besluit van de Vlaamse Regering van 2016-06-17 houdende de gedeeltelijke verdeling van het provisioneel krediet vluchtelingenproblematiek, ingeschreven onder het begrotingsartikel CB0-1CBX2AC-PR, van de algemene uitgavenbegroting van de Vlaamse Gemeenschap voor het begrotingsjaar 2016",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027130/VolledigDocument?datum=2016-08-27",
+  "source_sha256": "4c5bae44c54e833a1e7a4e732166d3d1634192ed387f17350765fde84563858c",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027130&param=informatie",
+  "as_of": "2016-08-27",
+  "made": "2016-06-17",
+  "gazette": "2016-08-17",
+  "numac": 2016036131,
+  "document_start": "2016-08-27",
+  "document_end": null,
+  "in_force": "2016-08-27",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-08-27; oldest version available; future article versions excluded; article text as the API gives it"
+}
