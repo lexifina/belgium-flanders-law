@@ -2,16 +2,16 @@
   "codex_id": 1005468,
   "title": "Besluit van de Vlaamse Regering van 1997-05-06 betreffende de centra voor opsporing van de aangeboren metabolische afwijkingen",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005468/VolledigDocument?datum=2015-01-01",
-  "source_sha256": "6d05c4f3392eae25a7328aa6329e48a65caf3eb575029acd9c4d32beda84fa35",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1005468/VolledigDocument?datum=2016-08-27",
+  "source_sha256": "45950fbd57d5fdd2fb053a6e5a9f865904f8c9b92d0dbe79110eb1e944996a7d",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1005468&param=informatie",
-  "as_of": "2015-01-01",
+  "as_of": "2016-08-27",
   "made": "1997-05-06",
   "gazette": "1997-07-16",
   "numac": 1997035823,
   "document_start": "1997-07-16",
   "document_end": "2016-08-27",
-  "in_force": "2015-01-01",
+  "in_force": "2016-08-27",
   "article_versions": 13,
-  "record_form": "consolidated version as in force on 2015-01-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-27; future article versions excluded; article text as the API gives it"
 }
