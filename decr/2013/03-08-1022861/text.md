@@ -62,7 +62,15 @@ Voor de opvolging van de uitvoering van het actieplan, vermeld in artikel   10, 
 
 ### ART. 14.
 
-<P>Met het oog op de organisatie en de opvolging van de hulp- en   dienstverlening, geregeld bij of krachtens dit decreet, en om die hulp- en   dienstverlening op maat van elke gedetineerde te verstrekken, verwerken de   beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of   de ondersteuning, en de actoren de persoonsgegevens van de gedetineerden, met   inachtneming van de bepalingen van de wet van 8 december 1992 betreffende de   bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van   persoonsgegevens.<BR></P>  <P>Voor de realisatie van de doelstellingen, vermeld in het eerste lid, kunnen   de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding   of de ondersteuning, en de actoren onder elkaar persoonsgegevens van een   gedetineerde uitwisselen, met behoud van de verplichtingen en beperkingen die   voortvloeien uit de voornoemde wet van 8 december 1992 of uit de regelgeving van   de sectoren waartoe de actoren behoren.<BR></P>  <P>Onverminderd de vereiste machtiging zoals voorzien in artikel 8 van het   decreet van 18 juli 2008 betreffende het elektronisch bestuurlijk   gegevensverkeer, bepaalt de Vlaamse Regering de nadere regels voor de verwerking   en uitwisseling van persoonsgegevens, vermeld in het eerste en tweede   lid.<BR></P>
+<p>Met het oog op de organisatie en de opvolging van de hulp- en dienstverlening, geregeld bij of krachtens dit decreet, en om die hulp- en dienstverlening op maat van elke gedetineerde te verstrekken, verwerken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de persoonsgegevens van de gedetineerden, met inachtneming van de bepalingen van de wet van 8 december 1992 betreffende de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.</p>
+
+<p>Voor de realisatie van de doelstellingen, vermeld in het eerste lid, kunnen de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren onder elkaar persoonsgegevens van een gedetineerde uitwisselen, met behoud van de verplichtingen en beperkingen die voortvloeien uit de voornoemde wet van 8 december 1992 of uit de regelgeving van de sectoren waartoe de actoren behoren.</p>
+
+<p>Onverminderd de vereiste machtiging zoals voorzien in artikel 8 van het decreet van 18 juli 2008 betreffende het elektronisch bestuurlijk gegevensverkeer, bepaalt de Vlaamse Regering de nadere regels voor de verwerking en uitwisseling van persoonsgegevens, vermeld in het eerste en tweede lid.<br>
+<br>
+Voor de gegevensuitwisseling, vermeld in het tweede lid, gebruiken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de volgende identificatiemiddelen:<br>
+1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.</p>
 
 ### ART. 15.
 
@@ -70,7 +78,11 @@ De personen die belast zijn met de coördinatie, de trajectbegeleiding of   de o
 
 ### ART. 16.
 
-<P>De Vlaamse Regering stelt aan de personen die belast zijn met de   beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren een   digitaal systeem ter beschikking ter ondersteuning van de gegevensverwerking en   -uitwisseling, vermeld in artikelen 14 en 15.<BR></P>  <P>De entiteit die verantwoordelijk is voor de coördinatie en ondersteuning van   de organisatie van de hulp- en dienstverlening is verantwoordelijk voor de   verwerking van de persoonsgegevens in het digitaal systeem vermeld in het eerste   lid.<BR></P>
+<p>De Vlaamse Regering stelt aan de personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren een digitaal systeem ter beschikking ter ondersteuning van de gegevensverwerking en -uitwisseling, vermeld in artikelen 14 en 15, met uitzondering voor de taken van trajectbegeleiding.</p>
+
+<p>De entiteit die verantwoordelijk is voor de coördinatie en ondersteuning van de organisatie van de hulp- en dienstverlening is verantwoordelijk voor de verwerking van de persoonsgegevens in het kader van de organisatie van het digitaal systeem vermeld in het eerste lid.<br>
+<br>
+De personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren zijn verantwoordelijk voor de inhoud die ze ter beschikking stellen via het digitale systeem en voor het zorgvuldige gebruik van de gegevens, al dan niet persoonsgegevens, die ze verkregen hebben via het digitale systeem.</p>
 
 ## HOOFDSTUK 5 Slotbepalingen
 
