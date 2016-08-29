@@ -1731,7 +1731,17 @@ De Vlaamse Regering bepaalt de schrijfwijze van de namen van de gemeenten en de 
 
 ### ART. 297.
 
-§ 1. Twee of meer gemeenten kunnen een gezamenlijk voorstel tot   samenvoeging indienen bij de Vlaamse Regering die het als ontwerp van decreet   kan indienen bij het Vlaams Parlement.<BR><BR>§ 2. Als een gemeente of een   gedeelte van een gemeente met een andere gemeente samengevoegd wordt verklaard,   worden de gemeenschappelijke belangen in onderlinge overeenstemming geregeld   door de gemeenteraden in kwestie.<BR><BR>Bij onenigheid tussen de gemeenteraden   wordt het geschil door de Raad van State beslecht.<BR><BR>Als er geschillen   ontstaan over rechten die voortvloeien uit titels of bezit, worden de gemeenten   echter naar de hoven en rechtbanken verwezen.<BR><BR>§ 3. Als de toevoeging van   een gemeente of van een gedeelte van een gemeente tot gevolg heeft dat het   aantal raadsleden moet worden vermeerderd in de gemeente waarmee ze wordt   verenigd, dan gelast de Vlaamse Regering dat de kiezers uit de samengevoegde   gemeente worden bijeengeroepen. De Vlaamse Regering regelt alles wat de eerste   verkiezing betreft en bepaalt de datum van de eerste vernieuwing van de   gemeenteraad in overeenstemming met de gewone vernieuwingen, voorgeschreven door   de het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<BR><BR>§ 4. Dit   artikel is niet van toepassing op de gemeenten, bedoeld in artikel 7 van de   wetten op het gebruik van de talen in bestuurszaken en de gemeente   Voeren.
+§ 1. ....<br>
+<br>
+§ 2. Als een gemeente of een gedeelte van een gemeente met een andere gemeente op initiatief van de Vlaamse Regering samengevoegd wordt verklaard, worden de gemeenschappelijke belangen in onderlinge overeenstemming geregeld door de gemeenteraden in kwestie.<br>
+<br>
+Bij onenigheid tussen de gemeenteraden wordt het geschil door de Raad van State beslecht.<br>
+<br>
+Als er geschillen ontstaan over rechten die voortvloeien uit titels of bezit, worden de gemeenten echter naar de hoven en rechtbanken verwezen.<br>
+<br>
+§ 3. Als de toevoeging van een gemeente of van een gedeelte van een gemeente tot gevolg heeft dat het aantal raadsleden moet worden vermeerderd in de gemeente waarmee ze wordt verenigd, dan gelast de Vlaamse Regering dat de kiezers uit de samengevoegde gemeente worden bijeengeroepen. De eerste verkiezing van de gemeenteraad en, in voorkomend geval, van de stadsdistrictsraden wordt georganiseerd met toepassing van de artikelen 218 en 219 van het Lokaal en Provinciaal Kiesdecreet van 8 juli 2011.<br>
+<br>
+§ 4. Dit artikel is niet van toepassing op de gemeenten, bedoeld in artikel 7 en 8&nbsp;van de wetten op het gebruik van de talen in bestuurszaken.
 
 ### ART. 298.
 
