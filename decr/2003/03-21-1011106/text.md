@@ -51,7 +51,25 @@ Om het armoedebestrijdingsbeleid in alle sectoren te bevorderen, op elkaar af te
 
 ### ART. 8.
 
-De Vlaamse Regering kan verenigingen waar armen het woord nemen erkennen als ze voldoen aan de volgende voorwaarden :<br />1° opgericht zijn als een vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921;<br />2° in hun werking voldoende participatie garanderen;<br />3° in hun werking en structuur openstaan voor de verschillende maatschappelijke verbanden en groepen en dit zonder onderscheid van etnische, politieke, filosofische of levensbeschouwelijke aard;<br />4° een proces opzetten dat gekenmerkt wordt door : armen blijven zoeken; armen samenbrengen in groep; armen het woord geven; werken aan de maatschappelijke emancipatie van armen; werken aan maatschappelijke structuren; vormingsactiviteiten en de maatschappelijke dialoog organiseren;<br />5° minstens één jaar werkzaam zijn inzake armoedebestrijding;<br />6° de activiteiten uitvoeren overeenkomstig de regels die door de Vlaamse regering worden bepaald;<br /><br />De Vlaamse Regering kan, binnen de beschikbare begrotingskredieten, verenigingen erkennen indien ze volgende opdrachten vervullen :<br />1° de nodige instrumenten om armen te blijven zoeken inzetten; <br />2° samenkomsten en ontmoetingen van armen en niet-armen organiseren;<br />3° de geëigende methodieken om het proces van armen het woord geven te ondersteunen hanteren; <br />4° informatie en vorming aanbieden; <br />5° thematisch werken aan maatschappelijke structuren; <br />6° dialoogwerkgroepen opzetten om participatie in het beleid mogelijk te maken. <br /><br />De Vlaamse Regering regelt de procedure en voorwaarden voor de erkenning en de intrekking van de erkenning. <br /><br />Indien de vereniging niet meer aan de erkenningsvoorwaarden voldoet, kan de Vlaamse Regering de erkenning intrekken.
+De Vlaamse Regering kan verenigingen waar armen het woord nemen erkennen als ze voldoen aan de volgende voorwaarden :<br>
+1° opgericht zijn als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen;<br>
+2° in hun werking voldoende participatie garanderen;<br>
+3° in hun werking en structuur openstaan voor de verschillende maatschappelijke verbanden en groepen en dit zonder onderscheid van etnische, politieke, filosofische of levensbeschouwelijke aard;<br>
+4° een proces opzetten dat gekenmerkt wordt door : armen blijven zoeken; armen samenbrengen in groep; armen het woord geven; werken aan de maatschappelijke emancipatie van armen; werken aan maatschappelijke structuren; vormingsactiviteiten en de maatschappelijke dialoog organiseren;<br>
+5° minstens één jaar werkzaam zijn inzake armoedebestrijding;<br>
+6° de activiteiten uitvoeren overeenkomstig de regels die door de Vlaamse regering worden bepaald;<br>
+<br>
+De Vlaamse Regering kan, binnen de beschikbare begrotingskredieten, verenigingen erkennen indien ze volgende opdrachten vervullen :<br>
+1° de nodige instrumenten om armen te blijven zoeken inzetten;<br>
+2° samenkomsten en ontmoetingen van armen en niet-armen organiseren;<br>
+3° de geëigende methodieken om het proces van armen het woord geven te ondersteunen hanteren;<br>
+4° informatie en vorming aanbieden;<br>
+5° thematisch werken aan maatschappelijke structuren;<br>
+6° dialoogwerkgroepen opzetten om participatie in het beleid mogelijk te maken.<br>
+<br>
+De Vlaamse Regering regelt de procedure en voorwaarden voor de erkenning en de intrekking van de erkenning.<br>
+<br>
+Indien de vereniging niet meer aan de erkenningsvoorwaarden voldoet, kan de Vlaamse Regering de erkenning intrekken.
 
 ### ART. 9.
 
