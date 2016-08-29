@@ -88,7 +88,20 @@ Elk centrum voor geestelijke gezondheidszorg dient als zodanig erkend te zijn do
 
 ### ART. 20.
 
-§ 1. Om erkend te worden en te blijven zijn volgende voorwaarden van toepassing:<br /><br />1° opgericht zijn door een vereniging zonder winstoogmerk, een provincie, een gemeente, een openbaar centrum voor maatschappelijk welzijn of universiteit, die krachtens de wet, het decreet of de statuten, naargelang het geval, daartoe bevoegd zijn;<br /><br />2° gevestigd zijn in gebouwen en lokalen die aan de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid voldoen;<br /><br />3° beschikken over een infrastructuur waardoor de opdrachten kwaliteitsvol uitgevoerd kunnen worden en de reglementering op de bescherming van de persoonlijke levenssfeer kan worden nageleefd;<br /><br />4° de controle door de inspectie en de doorlichting door de visitatiecommissie zoals bepaald in de artikelen 34 en 35 mogelijk maken;<br /><br />5° de taken uitvoeren en de werkingsbeginselen nakomen zoals bepaald in hoofdstuk II en voldoen aan de bepalingen van hoofdstuk VIII;<br /><br />6° een kwaliteitsbeleid voeren overeenkomstig de bepalingen van het decreet van 25 februari 1997 betreffende de integrale kwaliteitszorg in de verzorgingsvoorzieningen;<br /><br />7° passen in de programmatie zoals bedoeld in artikel 27;<br /><br />8° een boekhouding voeren volgens het boekhoudplan van de Vlaamse Gemeenschap;<br /><br />9° de vorm aannemen van een vereniging zonder winstoogmerk of van een vereniging opgericht volgens artikelen 118 tot en met 135 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br /><br />§ 2. De regering bepaalt de procedure voor de erkenningsaanvraag en de modaliteiten voor de erkenning.<br /><br />§ 3. In specifieke gevallen kan de regering afwijkingen toestaan inzake de voorwaarden zoals bedoeld in § 1, 7°, zonder evenwel in het totaal meer dan 26 centra voor geestelijke gezondheidszorg te erkennen.
+§ 1. Om erkend te worden en te blijven zijn volgende voorwaarden van toepassing:<br>
+1° opgericht zijn door een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, een provincie, een gemeente, een openbaar centrum voor maatschappelijk welzijn of universiteit, die krachtens de wet, het decreet of de statuten, naargelang het geval, daartoe bevoegd zijn;<br>
+2° gevestigd zijn in gebouwen en lokalen die aan de voorwaarden inzake hygiëne, veiligheid en bewoonbaarheid voldoen;<br>
+3° beschikken over een infrastructuur waardoor de opdrachten kwaliteitsvol uitgevoerd kunnen worden en de reglementering op de bescherming van de persoonlijke levenssfeer kan worden nageleefd;<br>
+4° de controle door de inspectie, zoals bepaald in artikel 34, mogelijk maken;<br>
+5° de taken uitvoeren en de werkingsbeginselen nakomen zoals bepaald in hoofdstuk II en voldoen aan de bepalingen van hoofdstuk VIII;<br>
+6° een kwaliteitsbeleid voeren overeenkomstig de bepalingen van het decreet van 25 februari 1997 betreffende de integrale kwaliteitszorg in de verzorgingsvoorzieningen;<br>
+7° passen in de programmatie zoals bedoeld in artikel 27;<br>
+8° een boekhouding voeren volgens het boekhoudplan van de Vlaamse Gemeenschap;<br>
+9° de vorm aannemen van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen of van een vereniging opgericht volgens artikelen 118 tot en met 135 van de organieke wet van 8 juli 1976 betreffende de openbare centra voor maatschappelijk welzijn.<br>
+<br>
+§ 2. De regering bepaalt de procedure voor de erkenningsaanvraag en de modaliteiten voor de erkenning.<br>
+<br>
+§ 3. In specifieke gevallen kan de regering afwijkingen toestaan inzake de voorwaarden zoals bedoeld in § 1, 7°, zonder evenwel in het totaal meer dan 26 centra voor geestelijke gezondheidszorg te erkennen.
 
 ### ART. 21.
 
