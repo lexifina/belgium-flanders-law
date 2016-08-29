@@ -48,7 +48,13 @@ De Vlaamse Regering kan ondersteunende werkgroepen oprichten in de eerstelijnsge
 
 ### ART. 8.
 
-§ 1. De Vlaamse regering erkent en subsidieert samenwerkingsinitiatieven   eerstelijnsgezondheidszorg en bepaalt hun werkgebied.<BR><BR>§ 2. De Vlaamse   regering bepaalt de erkenningsvoorwaarden, de regels inzake de duur, de   schorsing en de intrekking van de erkenning.<BR><BR>§ 3. De Vlaamse regering   bepaalt de subsidie en de subsidievoorwaarden.<BR><BR>§ 4.   Samenwerkingsinitiatieven eerstelijnsgezondheidszorg hebben de vorm van een   vereniging zonder winstoogmerk. In het tweetalige gebied Brussel-Hoofdstad kan   een samenwerkingsinitiatief eerstelijnsgezondheidszorg opgericht worden door de   Vlaamse Gemeenschapscommissie.
+§ 1. De Vlaamse regering erkent en subsidieert samenwerkingsinitiatieven eerstelijnsgezondheidszorg en bepaalt hun werkgebied.<br>
+<br>
+§ 2. De Vlaamse regering bepaalt de erkenningsvoorwaarden, de regels inzake de duur, de schorsing en de intrekking van de erkenning.<br>
+<br>
+§ 3. De Vlaamse regering bepaalt de subsidie en de subsidievoorwaarden.<br>
+<br>
+§ 4. Samenwerkingsinitiatieven eerstelijnsgezondheidszorg hebben de vorm van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen. In het tweetalige gebied Brussel-Hoofdstad kan een samenwerkingsinitiatief eerstelijnsgezondheidszorg opgericht worden door de Vlaamse Gemeenschapscommissie.
 
 ## AFDELING 2 OPDRACHTEN EN TAKEN
 
@@ -106,7 +112,7 @@ De Vlaamse Regering bepaalt in voorkomend geval de erkenningsvoorwaarden, de reg
 <br>
 De Vlaamse Regering bepaalt de subsidie en de subsidievoorwaarden.<br>
 <br>
-Organisaties met terreinwerking hebben de vorm van een vereniging zonder winstoogmerk. In het tweetalige gebied Brussel-Hoofdstad kan een organisatie met terreinwerking opgericht worden door de Vlaamse Gemeenschapscommissie.
+Organisaties met terreinwerking hebben de vorm van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen. In het tweetalige gebied Brussel-Hoofdstad kan een organisatie met terreinwerking opgericht worden door de Vlaamse Gemeenschapscommissie.
 
 ### ART. 15ter.
 
