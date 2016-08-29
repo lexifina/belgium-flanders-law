@@ -2,16 +2,16 @@
   "codex_id": 1013104,
   "title": "Decreet van 2004-05-07 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013104/VolledigDocument?datum=2016-04-01",
-  "source_sha256": "df626fa01e210aed30f427127c7be7782cb671503f62a1c03aad0b62cd99a1fc",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013104/VolledigDocument?datum=2016-08-29",
+  "source_sha256": "6dae1ccd2adb70249949ddf82882bb81e747baefc61362a7e2ea38e1f84de5ce",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013104&param=informatie",
-  "as_of": "2016-04-01",
+  "as_of": "2016-08-29",
   "made": "2004-05-07",
   "gazette": "2004-06-11",
   "numac": 2004035909,
   "document_start": "2006-04-01",
   "document_end": null,
-  "in_force": "2016-04-01",
+  "in_force": "2016-08-29",
   "article_versions": 42,
-  "record_form": "consolidated version as in force on 2016-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
 }

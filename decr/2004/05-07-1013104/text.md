@@ -43,7 +43,11 @@ De taken, genoemd in artikel 5, omvatten in elk geval:<br>
 
 ### ART. 7.
 
-<P>Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse   regering specifieke taken aan het agentschap, al dan niet in samenwerking met   andere organisaties, toewijzen.</P>  <P>Het agentschap kan vennootschappen met sociaal oogmerk en verenigingen zonder   winstoogmerk erkennen die uitsluitend wooninfrastructuur aan personen met een   handicap, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning   hebben, ter beschikking stellen.</P>  <P>De wooninfrastructuur staat in het kadaster geregistreerd als woning en wordt   ter beschikking gesteld met een schriftelijke overeenkomst. De Vlaamse Regering   kan de voorwaarden, vermeld in het tweede lid, concretiseren, bepaalt de wijze   waarop de behoefte aan zorg en ondersteuning wordt vastgesteld en kan tevens   regels vaststellen voor de toewijzing van de huurwoningen.</P>
+<p>Binnen het kader van de missie en de taken van het agentschap kan de Vlaamse regering specifieke taken aan het agentschap, al dan niet in samenwerking met andere organisaties, toewijzen.</p>
+
+<p>Het agentschap kan privaatrechtelijke verenigingen met rechtspersoonlijkheid waarvoor het bij wet verboden is hun leden een vermogensvoordeel te bezorgen, of vennootschappen met rechtspersoonlijkheid en met een sociaal oogmerk erkennen die uitsluitend wooninfrastructuur aan personen met een handicap, die een duidelijk vast te stellen behoefte aan zorg en ondersteuning hebben, ter beschikking stellen.</p>
+
+<p>De wooninfrastructuur staat in het kadaster geregistreerd als woning en wordt ter beschikking gesteld met een schriftelijke overeenkomst. De Vlaamse Regering kan de voorwaarden, vermeld in het tweede lid, concretiseren, bepaalt de wijze waarop de behoefte aan zorg en ondersteuning wordt vastgesteld en kan tevens regels vaststellen voor de toewijzing van de huurwoningen.</p>
 
 ### ART. 8.
 
@@ -77,7 +81,13 @@ Voor de verwezenlijking van zijn missie en taken werkt het agentschap   samen en
 
 ### ART. 13.
 
-Personen met een handicap of hun wettelijke vertegenwoordiger die voldoen   aan de voorwaarden van artikelen 20 en 21, kunnen bij het agentschap een   aanvraag tot ondersteuning indienen.<BR><BR>Personen met een handicap of met een   vermoeden van handicap kunnen, onder de voorwaarden en in de gevallen die met   toepassing van artikel 8, 10° en 11°, door de Vlaamse Regering zijn vastgesteld,   gebruikmaken van ondersteuning zonder aanvraag of toewijzing door het   agentschap.<BR><BR>De Vlaamse regering bepaalt in welke gevallen een aanvraag   moet worden ingediend bij het agentschap en op welke wijze de aanvraag wordt   ingediend en behandeld, met inbegrip van de verhaalmiddelen.<BR><BR>Binnen de in   artikelen 5, 6 en 7 vastgestelde taken van het agentschap kan de Vlaamse   regering nadere regels, voorwaarden en criteria bepalen voor het afbakenen van   de doelgroep, en nadere regels uitwerken voor de organisatie, de voorwaarden en   criteria van de indicatiestelling.
+Personen met een handicap of hun wettelijke vertegenwoordiger die voldoen aan de voorwaarden van artikelen 20 en 21, kunnen bij het agentschap een aanvraag tot ondersteuning indienen.<br>
+<br>
+Personen met een handicap of met een vermoeden van handicap die voldoen aan de voorwaarden van artikel 20 en 21, derde en vijfde lid, kunnen, onder de voorwaarden en in de gevallen die met toepassing van artikel 8, 10° en 11°, door de Vlaamse Regering zijn vastgesteld, gebruikmaken van ondersteuning zonder aanvraag of toewijzing door het agentschap.<br>
+<br>
+De Vlaamse regering bepaalt in welke gevallen een aanvraag moet worden ingediend bij het agentschap en op welke wijze de aanvraag wordt ingediend en behandeld, met inbegrip van de verhaalmiddelen.<br>
+<br>
+Binnen de in artikelen 5, 6 en 7 vastgestelde taken van het agentschap kan de Vlaamse regering nadere regels, voorwaarden en criteria bepalen voor het afbakenen van de doelgroep, en nadere regels uitwerken voor de organisatie, de voorwaarden en criteria van de indicatiestelling.
 
 ### ART. 14.
 
@@ -164,7 +174,15 @@ Dit decreet is van toepassing op de personen met een handicap die op het   ogenb
 
 ### ART. 21.
 
-Een persoon met een handicap die aanspraak maakt op de toepassing van dit   decreet, moet werkelijk in België verblijven. Hij moet bovendien het bewijs   voorleggen van een ononderbroken verblijf van vijf jaar dan wel een niet   aaneengesloten verblijf van tien jaar in België. Voor niet-ontvoogde   minderjarigen, verlengd minderjarigen en onbekwaamverklaarden moet de voorwaarde   van voorafgaand verblijf vervuld zijn in de persoon van hun wettelijke   vertegenwoordiger.<BR><BR>De Vlaamse regering kan de toepassing van de   bepalingen van dit decreet uitbreiden tot andere personen met een handicap dan   die welke werden genoemd in het eerste lid, onder de voorwaarden die ze zelf   vaststelt.<BR><BR>Om ondersteuning te kunnen krijgen, hebben ze hetzij hun   woonplaats in het Nederlandse taalgebied, hetzij hun woonplaats in het   tweetalige gebied Brussel-Hoofdstad, en in dat laatste geval wenden ze zich tot   een voorziening in het Nederlandse taalgebied of tot een voorziening in het   tweetalige gebied Brussel-Hoofdstad die, wegens de organisatie ervan, geacht   wordt uitsluitend te behoren tot de Vlaamse Gemeenschap.<BR><BR>Er kan geen   ondersteuning worden verstrekt aan een persoon die al ondersteund wordt door het   Waalse Gewest, de Franse Gemeenschapscommissie van het Brusselse Hoofdstedelijke   Gewest, de Duitstalige Gemeenschap of het federale niveau.
+Een meerderjarige persoon met een handicap die een aanvraag tot ondersteuning indient, moet werkelijk en wettig in België verblijven. Hij moet bovendien het bewijs voorleggen van een ononderbroken verblijf van vijf jaar, dan wel een niet-aaneengesloten verblijf van tien jaar in België. Voor verlengd minderjarigen en onbekwaamverklaarden moet de wettelijke vertegenwoordiger voldoen aan de voorwaarde van voorafgaand verblijf.<br>
+<br>
+De Vlaamse regering kan de toepassing van de bepalingen van dit decreet uitbreiden tot andere personen met een handicap dan die welke werden genoemd in het eerste lid, onder de voorwaarden die ze zelf vaststelt.<br>
+<br>
+Om ondersteuning te kunnen krijgen, heeft de persoon met een handicap of met een vermoeden van handicap hetzij zijn woonplaats in het Nederlandse taalgebied, hetzij zijn woonplaats in het tweetalige gebied Brussel-Hoofdstad. In dat laatste geval wendt hij zich tot een voorziening in het Nederlandse taalgebied of tot een voorziening in het tweetalige gebied Brussel-Hoofdstad die, wegens de organisatie ervan, geacht wordt uitsluitend te behoren tot de Vlaamse Gemeenschap.<br>
+<br>
+De Vlaamse Regering kan de inhoud van het begrip `woonplaats' nader bepalen<br>
+<br>
+Er kan geen ondersteuning worden verstrekt aan een persoon die al ondersteund wordt door het Waalse Gewest, de Franse Gemeenschapscommissie van het Brusselse Hoofdstedelijke Gewest, de Duitstalige Gemeenschap of het federale niveau.
 
 ## HOOFDSTUK VI BESTUUR EN WERKING
 
