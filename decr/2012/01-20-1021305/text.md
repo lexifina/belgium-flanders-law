@@ -100,7 +100,27 @@ De adoptant van wie in het kader van een interlandelijke adoptie overeenkomstig 
 
 ### ART. 16.
 
-§ 1. De Vlaamse Regering erkent de adoptiediensten op advies van het   Vlaams Centrum voor Adoptie volgens de regels bepaald in dit decreet.<BR><BR>§   2. Om erkend te worden, moet de adoptiedienst aan de volgende voorwaarden   voldoen :<BR>1° optreden als een vereniging zonder winstoogmerk of als een   publiekrechtelijke rechtspersoon;<BR>2° adoptiebemiddeling en het verstrekken   van de eerste nazorg als voornaamste taak hebben;<BR>3° beschikken over of een   beroep kunnen doen op een interdisciplinair team dat is samengesteld zoals   bepaald door de Vlaamse Regering;<BR>4° geleid worden door een persoon die   beschikt over kwalificaties zoals bepaald door de Vlaamse Regering;<BR>5°   beschikken over voldoende infrastructuur om de opgelegde verplichtingen uit te   voeren en de continuïteit van de dienst te verzekeren;<BR>6° de persoonlijke   levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie,   zijn ideologische, godsdienstige en filosofische overtuiging respecteren;<BR>7°   voorstellen doen tot kanaalonderzoek en deze, na proactieve goedkeuring door het   Vlaams Centrum voor Adoptie, binnen een redelijke termijn afronden.<BR><BR>§ 3.   De erkenning wordt verleend voor een periode van minimaal twee jaar en maximaal   vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende   adoptiedienst moet, om erkend te blijven of opnieuw erkend te worden, de   volgende verplichtingen naleven :<BR>1° elke aanvraag van een adoptant die aan   de voorwaarden, vermeld in artikel 14, voldoet, aanvaarden;<BR>2° de taken,   vermeld in artikel 15 van dit decreet, kwaliteitsvol uitvoeren;<BR>3° een   jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het   einde van elk boekjaar toesturen aan het Vlaams Centrum voor Adoptie. De inhoud   van het jaarverslag wordt door de Vlaamse Regering bepaald;<BR>4° regelmatig   participeren in het overleg tussen de verschillende actoren in interlandelijke   adoptie.<BR><BR>§ 4. De Vlaamse Regering stelt de procedure vast voor de   aanvraag en de hernieuwing van de erkenning van de adoptiediensten. Tevens   voorziet ze in een bezwaarprocedure.<BR><BR>§ 5. De Vlaamse Regering stelt een   programmering van de adoptiediensten op.<BR><BR>
+§ 1. De Vlaamse Regering erkent de adoptiediensten op advies van het Vlaams Centrum voor Adoptie volgens de regels bepaald in dit decreet.<br>
+<br>
+§ 2. Om erkend te worden, moet de adoptiedienst aan de volgende voorwaarden voldoen :<br>
+1° optreden als een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen, of als een publiekrechtelijke rechtspersoon;<br>
+2° adoptiebemiddeling en het verstrekken van de eerste nazorg als voornaamste taak hebben;<br>
+3° beschikken over of een beroep kunnen doen op een interdisciplinair team dat is samengesteld zoals bepaald door de Vlaamse Regering;<br>
+4° geleid worden door een persoon die beschikt over kwalificaties zoals bepaald door de Vlaamse Regering;<br>
+5° beschikken over voldoende infrastructuur om de opgelegde verplichtingen uit te voeren en de continuïteit van de dienst te verzekeren;<br>
+6° de persoonlijke levenssfeer van de adoptant eerbiedigen en, zonder enige vorm van discriminatie, zijn ideologische, godsdienstige en filosofische overtuiging respecteren;<br>
+7° voorstellen doen tot kanaalonderzoek en deze, na proactieve goedkeuring door het Vlaams Centrum voor Adoptie, binnen een redelijke termijn afronden.<br>
+<br>
+§ 3. De erkenning wordt verleend voor een periode van minimaal twee jaar en maximaal vijf jaar en kan voor dezelfde termijnen worden verlengd. De erkende adoptiedienst moet, om erkend te blijven of opnieuw erkend te worden, de volgende verplichtingen naleven :<br>
+1° elke aanvraag van een adoptant die aan de voorwaarden, vermeld in artikel 14, voldoet, aanvaarden;<br>
+2° de taken, vermeld in artikel 15 van dit decreet, kwaliteitsvol uitvoeren;<br>
+3° een jaarverslag opmaken en het in de loop van het eerste trimester dat volgt op het einde van elk boekjaar toesturen aan het Vlaams Centrum voor Adoptie. De inhoud van het jaarverslag wordt door de Vlaamse Regering bepaald;<br>
+4° regelmatig participeren in het overleg tussen de verschillende actoren in interlandelijke adoptie.<br>
+<br>
+§ 4. De Vlaamse Regering stelt de procedure vast voor de aanvraag en de hernieuwing van de erkenning van de adoptiediensten. Tevens voorziet ze in een bezwaarprocedure.<br>
+<br>
+§ 5. De Vlaamse Regering stelt een programmering van de adoptiediensten op.<br>
+&nbsp;
 
 ### ART. 17.
 
@@ -130,7 +150,11 @@ De erkende adoptiediensten ontvangen de volgende subsidies :<br />1° een jaarli
 
 ### ART. 22.
 
-§ 1. De Vlaamse Regering kan, na advies van het Vlaams Centrum voor Adoptie, een vereniging met als leden adoptanten of geadopteerden of een combinatie van deze personen, als trefgroep erkennen. Om als trefgroep te worden erkend, moet zij voldoen aan de volgende voorwaarden :<br />1° de vorm aannemen van een vereniging zonder winstoogmerk;<br />2° in haar beheersorgaan respectievelijk adoptanten of geadopteerden de meerderheid laten uitmaken;<br />3° als doelstelling hebben respectievelijk adoptanten of geadopteerden te ondersteunen en hun belangen te onderkennen en te behartigen.<br /><br />
+§ 1. De Vlaamse Regering kan, na advies van het Vlaams Centrum voor Adoptie, een vereniging met als leden adoptanten of geadopteerden of een combinatie van deze personen, als trefgroep erkennen. Om als trefgroep te worden erkend, moet zij voldoen aan de volgende voorwaarden :<br>
+1° de vorm aannemen van een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen,;<br>
+2° in haar beheersorgaan respectievelijk adoptanten of geadopteerden de meerderheid laten uitmaken;<br>
+3° als doelstelling hebben respectievelijk adoptanten of geadopteerden te ondersteunen en hun belangen te onderkennen en te behartigen.<br>
+&nbsp;
 
 ### ART. 23.
 

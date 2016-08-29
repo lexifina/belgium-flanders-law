@@ -2,16 +2,16 @@
   "codex_id": 1021305,
   "title": "Decreet van 2012-01-20 houdende regeling van de interlandelijke adoptie van kinderen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021305/VolledigDocument?datum=2016-03-24",
-  "source_sha256": "76c2d2c5a32a3dceda7503e2c252580000db96e62bf70b86e3e1d9f85eed2b4b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021305/VolledigDocument?datum=2016-08-29",
+  "source_sha256": "a6e1a6b003fc6046ca99b012846709978e2a6413974a20cd86c12527ac2c3189",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021305&param=informatie",
-  "as_of": "2016-03-24",
+  "as_of": "2016-08-29",
   "made": "2012-01-20",
   "gazette": "2012-03-02",
   "numac": 2012035191,
   "document_start": "2013-01-01",
   "document_end": null,
-  "in_force": "2016-03-24",
+  "in_force": "2016-08-29",
   "article_versions": 30,
-  "record_form": "consolidated version as in force on 2016-03-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
 }
