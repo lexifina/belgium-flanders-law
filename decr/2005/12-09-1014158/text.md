@@ -1484,7 +1484,9 @@ De Vlaamse Regering bepaalt de schrijfwijze van de namen van de provincie.
 
 ### ART. 260.
 
-De provincieraad geeft binnen de bevoegdheden van het Vlaamse Gewest zijn advies over de veranderingen die worden voorgesteld betreffende de grenzen van de provincie, van de arrondissementen, kiesdistricten, kantons en gemeenten en betreffende de aanwijzing van de hoofdplaatsen.
+De provincieraad geeft binnen de bevoegdheden van het Vlaamse Gewest zijn advies over de veranderingen die worden voorgesteld betreffende de grenzen van de provincie, van de arrondissementen, kiesdistricten, kantons en gemeenten en betreffende de aanwijzing van de hoofdplaatsen.<br>
+<br>
+Het eerste lid is niet van toepassing op de samenvoeging van gemeenten die tot dezelfde provincie behoren.
 
 ## TITEL X Slotbepalingen
 
