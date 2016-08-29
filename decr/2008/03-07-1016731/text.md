@@ -8,7 +8,30 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br /><br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder :<BR>1° ondersteuningscentrum : het   ondersteuningscentrum Jeugdzorg, opgericht bij artikel 33 van het decreet van 12   juli 2013 betreffende de integrale jeugdhulp;<BR>2° ...<BR>3° ...<BR>4°   ...<BR>5° erkende voorzieningen : voorzieningen die met toepassing van artikel   49 erkend zijn;<BR>6° Fonds : het intern verzelfstandigd agentschap met   rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54;<BR>7°   gemeenschapsinstellingen : voorzieningen als vermeld in artikel 47, die   hoofdzakelijk residentiële opvang of hulpverlening in residentieel verband   aanbieden;<BR>8° jeugdbijstandsregeling : het geheel van de wetten betreffende   de opgave van maatregelen voor minderjarigen die een als misdrijf omschreven   feit hebben gepleegd en het decreet van 12 juli 2013 betreffende de integrale   jeugdhulp;<BR>9° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli   2003;<BR>10° minderjarige : elke natuurlijke persoon die jonger is dan achttien   jaar. Voor de toepassing van dit decreet wordt de persoon die de   maximumleeftijden, bepaald in artikel 36, § 2, niet heeft bereikt, gelijkgesteld   met een minderjarige;<BR>11° ...<BR>12° ...<BR>13° projecten : bijzondere   initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere   probleemsituatie;<BR>14° toegangspoort : een orgaan als vermeld in artikel 17   van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<BR>15°   ...<BR>16° ...<BR>17° ...<BR>18° voorzieningen : initiatieven die hulp- of   dienstverlening aanbieden aan minderjarigen en gezinnen;<BR>19° wet betreffende   de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf   omschreven feit hebben gepleegd : een wet die een aangelegenheid regelt, als   vermeld in artikel 5, § 1, II, 6°, d), van de bijzondere wet van 8 augustus 1980   tot hervorming der instellingen, gewijzigd bij de wet van 8 augustus   1988;<BR>20° agentschap : het intern verzelfstandigd agentschap, vermeld in   artikel 59;<BR>21° opvoedingsverantwoordelijken : de natuurlijke personen,   andere dan de ouders of de wettelijke vertegenwoordiger van de minderjarige, die   de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie   de minderjarige geplaatst is door bemiddeling of ten laste van een openbare   overheid.<BR><BR>
+In dit decreet wordt verstaan onder :<br>
+1° ondersteuningscentrum : het ondersteuningscentrum Jeugdzorg, opgericht bij artikel 33 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+2° ...<br>
+3° ...<br>
+4° ...<br>
+5° erkende voorzieningen : voorzieningen die met toepassing van artikel 49 erkend zijn;<br>
+6° Fonds : het intern verzelfstandigd agentschap met rechtspersoonlijkheid Fonds Jongerenwelzijn, vermeld in artikel 54;<br>
+7° gemeenschapsinstellingen : voorzieningen als vermeld in artikel 47, die hoofdzakelijk residentiële opvang of hulpverlening in residentieel verband aanbieden;<br>
+8° jeugdbijstandsregeling : het geheel van de wetten betreffende de opgave van maatregelen voor minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+9° kaderdecreet : het kaderdecreet bestuurlijk beleid van 18 juli 2003;<br>
+10° minderjarige : elke natuurlijke persoon die jonger is dan achttien jaar. Voor de toepassing van dit decreet wordt de persoon die de maximumleeftijden, bepaald in artikel 36, § 2, niet heeft bereikt, gelijkgesteld met een minderjarige;<br>
+11° ...<br>
+12° ...<br>
+13° projecten : bijzondere initiatieven die zich richten tot een specifieke doelgroep of op een bijzondere probleemsituatie;<br>
+14° toegangspoort : een orgaan als vermeld in artikel 17 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;<br>
+15° ...<br>
+16° ...<br>
+17° ...<br>
+18° voorzieningen : initiatieven die hulp- of dienstverlening aanbieden aan minderjarigen en gezinnen;<br>
+19° wet betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als misdrijf omschreven feit hebben gepleegd : een wet die een aangelegenheid regelt, als vermeld in artikel 5, § 1, II, 6°, d), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, gewijzigd bij de wet van 8 augustus 1988;<br>
+20° agentschap : het intern verzelfstandigd agentschap, vermeld in artikel 59;<br>
+21° opvoedingsverantwoordelijken : de natuurlijke personen, andere dan de ouders of de wettelijke vertegenwoordiger van de minderjarige, die de minderjarige op duurzame wijze in feite onder hun bewaring hebben of bij wie de minderjarige geplaatst is door bemiddeling of ten laste van een openbare overheid;<br>
+22° Vlaamse detentiecentra: voorzieningen als vermeld in artikel 47/1 die bestemd zijn voor de opvang van personen als vermeld in artikel 606 van het Wetboek van Strafvordering.<br>
+&nbsp;
 
 ## HOOFDSTUK II Doel en basisprincipes van de bijzondere jeugdbijstand
 
@@ -30,7 +53,7 @@ De bijzondere jeugdbijstand heeft tot doel overeenkomstig de bepalingen   van di
 
 ### ART. 5/1.
 
-§ 1. Iedereen heeft recht op toegang tot zijn persoonlijke gegevens die   bij de comités, de sociale diensten voor vrijwillige jeugdbijstand, de sociale   diensten voor gerechtelijke jeugdbijstand en de bemiddelingscommissies worden   bewaard.<BR><BR>Derden die gegevens verstrekken, zonder dat ze daartoe verplicht   werden, kunnen die gegevens als vertrouwelijk bestempelen. Als ze niet instemmen   met toegang tot het geheel of een gedeelte van de gegevens, verleent de   dossierhouder de toegang niet, tenzij hij van oordeel is dat de bescherming van   de vertrouwelijkheid niet opweegt tegen de bescherming van het recht op   toegang.<BR><BR>Met betrekking tot de gegevens die bij de sociale diensten voor   gerechtelijke jeugdbijstand worden bewaard, geldt dat : <BR>1° geen toegang kan   worden verleend tot de stukken die zijn opgesteld voor gerechtelijke   overheden;<BR>2° bij het verlenen van toegang tot die gegevens het geheim van   het onderzoek, vermeld in artikel 28quinquies, § 1, van het Wetboek van   Strafvordering, niet mag worden geschonden.<BR><BR>§ 2. Het recht op toegang   wordt verleend uiterlijk binnen vijftien dagen na de ontvangst van het   verzoek.<BR><BR>Met behoud van de toepassing van het eerste lid wordt voor   gegevens die bij de comités en de sociale diensten voor vrijwillige   jeugdbijstand worden bewaard, het recht op toegang verleend uiterlijk op het   ogenblik waarop het bureau een beslissing tot het organiseren of afwijzen van   bijstand en hulp neemt. Voor gegevens die bij de bemiddelingscommissies worden   bewaard, wordt het recht op toegang verleend uiterlijk op het ogenblik waarop de   minnelijke regeling, vermeld in artikel 32, § 1, wordt bereikt, of op het   ogenblik waarop de beslissing om de zaak uit handen te geven of om de zaak door   te verwijzen naar het Openbaar Ministerie, vermeld in artikel 32, § 2, wordt   genomen. Voor gegevens die bij de sociale diensten voor gerechtelijke   jeugdbijstand worden bewaard, wordt het recht op toegang verleend uiterlijk op   het ogenblik waarop de jeugdrechtbank een eerste vonnis neemt.<BR><BR>§ 3. De   toegang tot de gegevens wordt verstrekt door inzage.<BR><BR>Als bepaalde   gegevens ook een derde betreffen en volledige inzage in die gegevens door de   betrokkene afbreuk zou doen aan het recht van de derde op bescherming van zijn   persoonlijke levenssfeer, wordt de toegang tot die gegevens verstrekt via   gedeeltelijke inzage, een gesprek of een rapportage.<BR><BR>Iedereen kan bij de   uitoefening van het toegangsrecht naar eigen keuze worden bijgestaan door een   persoon die gebonden is aan het beroepsgeheim, en, wat de minderjarige betreft,   ook door een personeelslid van de instelling waar de minderjarige onderwijs   volgt, op voorwaarde dat die persoon niet rechtstreeks betrokken is bij de hulp-   en bijstandsverlening, georganiseerd voor de minderjarige.<BR><BR>Als met   toepassing van paragraaf 1, tweede lid, de bescherming van de vertrouwelijkheid   niet opweegt tegen de bescherming van het recht op toegang, kan de dossierhouder   de toegang tot de gegevens in kwestie verstrekken via gedeeltelijke inzage, een   gesprek of een rapportage.<BR><BR>§ 4. Voor de toepassing van paragraaf 1 worden   de personen die deel uitmaken van het cliëntsysteem, ten opzichte van elkaar als   derden beschouwd.<BR><BR>Met behoud van de toepassing van paragraaf 1 worden   voor de toepassing van paragraaf 3, tweede lid, de personen die deel uitmaken   van het cliëntsysteem, ten opzichte van elkaar niet als derden beschouwd, als   het gaat om contextuele gegevens.<BR><BR>Contextuele gegevens zijn gegevens die   tegelijk de persoon die toegang vraagt, en een of meer andere personen die deel   uitmaken van het cliëntsysteem, betreffen.<BR><BR>Het cliëntsysteem bestaat uit   de volgende personen : <BR>1° de minderjarige;<BR>2° degene die over de   minderjarige het ouderlijk gezag uitoefent;<BR>3° degene die de minderjarige   onder zijn bewaring heeft op het ogenblik van de uitoefening van het recht op   toegang;<BR>4° de personen die met de minderjarige samenwonen op het ogenblik   van de uitoefening van het recht op toegang.<BR><BR>§ 5. Een minderjarige kan   het toegangsrecht zelfstandig uitoefenen, rekening houdend met zijn leeftijd en   maturiteit, zodra blijkt dat de min-twaalfjarige tot een redelijke beoordeling   van zijn belangen in staat is, of vanaf de leeftijd van twaalf jaar.<BR><BR>Als   de minderjarige jonger is dan twaalf jaar, wordt het toegangsrecht uitgeoefend   door een wettelijke vertegenwoordiger.<BR><BR>De wettelijke vertegenwoordiger   kan zich niet beroepen op de toepassing van paragraaf 4 wat betreft de   contextuele gegevens die de minderjarige en een andere persoon dan de wettelijke   vertegenwoordiger zelf betreffen.<BR><BR>In geval van tegenstrijdige belangen   met een wettelijke vertegenwoordiger of als die het toegangsrecht niet   uitoefent, kan het toegangsrecht van de minderjarige worden uitgeoefend door een   persoon als vermeld in paragraaf 3, derde lid.<BR><BR>§ 6. Op verzoek van de   betrokkenen worden de documenten die ze aanreiken, toegevoegd aan het dossier.   Alle betrokkenen hebben het recht om hun versie te geven van de feiten die   vermeld zijn in het dossier.<BR><BR>§ 7. De betrokkenen hebben recht op een   afschrift van de gegevens van het dossier waartoe ze toegang hebben door inzage   en op een rapport van de gegevens van het dossier waartoe ze toegang hebben op   een andere wijze dan door inzage.<BR><BR>Ieder afschrift en ieder rapport zijn   persoonlijk en vertrouwelijk, en mogen alleen worden aangewend voor doeleinden   van jeugdbijstand. De dossierhouder die een afschrift of rapport bezorgt, wijst   de betrokkenen daarop en voegt een toelichting in die zin bij het afschrift of   rapport.<BR><BR>De Vlaamse Regering kan de voorwaarden bepalen waaronder een   afschrift of rapport wordt uitgereikt.
+...
 
 ### ART. 6.
 
@@ -244,6 +267,12 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 § 1. De Vlaamse Regering richt gemeenschapsinstellingen op. De Vlaamse   Regering bepaalt de maximumcapaciteit van elke gemeenschapsinstelling.<BR><BR>§   2. De gemeenschapsinstellingen zijn, tot ze hun maximumcapaciteit bereikt   hebben, belast met :<BR>1° het uitvoeren van opdrachten, als vermeld in artikel   48, § 1, eerste lid, 8°, 9°, 11° en 12°, van het decreet van 12 juli 2013   betreffende de integrale jeugdhulp;<BR>2° het uitvoeren van opdrachten inzake   opvang, oriëntatie, observatie en residentiële begeleiding, bepaald in een wet   betreffende de opgave van maatregelen ten aanzien van minderjarigen die een als   misdrijf omschreven feit hebben gepleegd.<BR><BR>
 
+### ART 47/1.
+
+De Vlaamse Regering richt Vlaamse detentiecentra op. De Vlaamse Regering bepaalt de maximumcapaciteit van elk Vlaams detentiecentrum.<br>
+<br>
+De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, belast met de tenlasteneming van personen tot maximaal de leeftijd van drieëntwintig jaar tegen wie een uithandengeving is uitgesproken of die veroordeeld zijn tot een gevangenisstraf na een uithandengeving die uitgesproken is door de jeugdrechtbank met toepassing van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.
+
 ## Afdeling II Private voorzieningen
 
 ### ART. 48.
@@ -252,7 +281,10 @@ Aan het Fonds wordt kennis gegeven van iedere beslissing die   overeenkomstig he
 
 ### ART. 49.
 
-De Vlaamse Regering beslist over de erkenningsaanvragen. De Vlaamse   Regering stelt de erkenningsprocedure vast.<BR><BR>Elk erkenningsdossier bevat,   behoudens de vereiste administratieve inlichtingen, het pedagogische concept en   programma, een verslag van de leidend jeugdrechter in de jeugdrechtbank en van   de toegangspoort in wiens werkgebied de aanvrager is   gevestigd.<BR><BR>
+De Vlaamse Regering beslist over de erkenningsaanvragen. De Vlaamse Regering stelt de erkenningsprocedure vast.<br>
+<br>
+Elk erkenningsdossier bevat, behoudens de vereiste administratieve inlichtingen, het pedagogische concept en programma, een verslag van het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 65 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp, in wiens werkgebied de aanvrager is gevestigd.<br>
+&nbsp;
 
 ### ART. 50.
 
@@ -260,7 +292,7 @@ Als een erkende voorziening niet meer aan de erkenningsvoorwaarden voldoet, kan 
 
 ### ART. 51.
 
-De Vlaamse Regering laat de in artikel 48, § 1, vermelde voorzieningen inspecteren door personeelsleden van het agentschap dat belast is met de inspectie binnen het beleidsdomein, vermeld in artikel 54, tweede lid.<br /><br />
+De Vlaamse Regering laat de voorzieningen, vermeld in artikel 48, § 1, en de organisaties, vermeld in artikel 52/1, inspecteren door personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.
 
 ### ART. 52.
 
