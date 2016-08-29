@@ -8,7 +8,12 @@ Dit decreet regelt een gemeenschapsaangelegenheid.<br />
 
 ### ART. 2.
 
-In dit decreet wordt verstaan onder:<br />1° het decreet van 18 juli 2003: het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br />2° het beleidsdomein : het beleidsdomein, vastgesteld krachtens artikel 2 van het kaderdecreet bestuurlijk beleid van 18 juli 2003, dat betrekking heeft op de meeste van de gemeenschapsaangelegenheden vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br />3° het Vlaamse welzijns-, gezondheids- en gezinsbeleid : het beleid betreffende de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br />4° ontwerpen van besluit van de Vlaamse Regering die van strategisch belang zijn : ontwerpen van besluit als vermeld in artikel 2, 2°, van het decreet van 18 juli 2003;<br />5° voorziening van welzijn, volksgezondheid en gezin : een organisatie die activiteiten uitoefent in de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I en II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en die tot het beleidsdomein behoren.
+In dit decreet wordt verstaan onder:<br>
+1° het decreet van 18 juli 2003: het decreet van 18 juli 2003 tot regeling van strategische adviesraden;<br>
+2° het beleidsdomein : het beleidsdomein, vastgesteld krachtens artikel 2 van het kaderdecreet bestuurlijk beleid van 18 juli 2003, dat betrekking heeft op de meeste van de gemeenschapsaangelegenheden vermeld in artikel 5, § 1, I tot en met IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+3° het Vlaamse welzijns-, gezondheids- en gezinsbeleid : het beleid betreffende de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I tot en met IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen, die tot het beleidsdomein behoren;<br>
+4° ontwerpen van besluit van de Vlaamse Regering die van strategisch belang zijn : ontwerpen van besluit als vermeld in artikel 2, 2°, van het decreet van 18 juli 2003;<br>
+5° voorziening van welzijn, volksgezondheid en gezin : een organisatie die activiteiten uitoefent in de gemeenschapsaangelegenheden, vermeld in artikel 5, § 1, I tot en met IV, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen en die tot het beleidsdomein behoren.
 
 ## HOOFDSTUK II. [... (opgeh. Decr. 29 juni 2018, art. 34, I: 1 januari 2019)]
 
