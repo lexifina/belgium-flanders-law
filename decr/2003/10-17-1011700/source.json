@@ -2,16 +2,16 @@
   "codex_id": 1011700,
   "title": "Decreet van 2003-10-17 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011700/VolledigDocument?datum=2014-04-01",
-  "source_sha256": "bd365beb766e50cec8d53240eb8456c92f8cfd179e5eedb0d349340c5da23426",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1011700/VolledigDocument?datum=2016-08-29",
+  "source_sha256": "452ab522263ef55d2de88ae828572b5d00688ee90df2a831d616fae6595e9c52",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1011700&param=informatie",
-  "as_of": "2014-04-01",
+  "as_of": "2016-08-29",
   "made": "2003-10-17",
   "gazette": "2003-11-10",
   "numac": 2003201693,
   "document_start": "2004-08-09",
   "document_end": "2999-12-31",
-  "in_force": "2014-04-01",
+  "in_force": "2016-08-29",
   "article_versions": 14,
-  "record_form": "consolidated version as in force on 2014-04-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
 }
