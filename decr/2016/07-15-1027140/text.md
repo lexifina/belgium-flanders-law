@@ -2,9 +2,41 @@
 
 ## HOOFDSTUK 1. Algemene bepaling
 
+### ART 1.
+
+Dit decreet regelt een gemeenschapsaangelegenheid.
+
 ## HOOFDSTUK 2. Gezondheidszorg en woonzorg
 
 ## Afdeling 1. - Vlaams Instituut voor Kwaliteit van Zorg
+
+### ART 2.
+
+De Vlaamse Regering kan een Vlaams Instituut voor Kwaliteit van Zorg oprichten of meewerken aan de oprichting ervan, om te werken aan de verbetering van de kwaliteit van zorg in diverse sectoren van de Vlaamse gezondheidszorg en woonzorg. Het instituut heeft de volgende opdrachten:<br>
+1° het ondersteunen van de ontwikkeling van valide kwaliteitsindicatoren;<br>
+2° het ontwikkelen en veralgemenen van een of meer registratiesystemen voor de kwaliteitsindicatoren;<br>
+3° het stimuleren en ondersteunen van de voorzieningen en zorgverstrekkers om zelf met kwaliteitsindicatoren te werken, zodat die indicatoren voor hen een hulpmiddel zijn om de kwaliteit van zorg te verbeteren;<br>
+4° het tot stand brengen van de publieke transparantie van de algemene en voorzieningsspecifieke resultaten van de kwaliteitsindicatoren via publicatie online.<br>
+<br>
+Er wordt verstaan onder:<br>
+1° gezondheidszorg: zorg die verstrekt wordt in het raam van de aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen;<br>
+2° woonzorg: woonzorg als vermeld in artikel 2, 1°, van het Woonzorgdecreet van 13 maart 2009.<br>
+<br>
+De Vlaamse Regering kan de opdrachten, vermeld in het eerste lid, nader regelen.
+
+### ART 3.
+
+§ 1. Het Vlaams Instituut voor Kwaliteit van Zorg voldoet aan de volgende voorwaarden:<br>
+1° het instituut is opgericht als een vereniging zonder winstoogmerk;<br>
+2° de organisaties die verantwoordelijkheid dragen voor of die rechtstreeks belang hebben bij de kwaliteit van zorg in de sector van de eerstelijnszorg, de algemene ziekenhuizen, de geestelijke gezondheidszorg en de ouderenzorg of de sectoren van de Vlaamse gezondheidszorg en woonzorg waartoe de werking van het instituut wordt uitgebreid, zijn actief betrokken bij de werking van en de besluitvorming binnen het instituut;<br>
+3° de relevante entiteiten van de Vlaamse administratie kunnen vertegenwoordigd zijn in het instituut;<br>
+4° het instituut neemt de opdrachten, vermeld in artikel 2, eerste lid, op in zijn statutaire doelstellingen en voert die opdrachten uit;<br>
+5° het instituut stelt jaarlijks een planning op van zijn werkzaamheden en legt die ter goedkeuring voor aan het agentschap, aangewezen door de Vlaamse Regering;<br>
+6° het instituut legt jaarlijks een boekhoudkundig verslag van alle verrichtingen en een werkingsverslag betreffende het voorbije werkjaar voor aan het agentschap, aangewezen door de Vlaamse Regering, volgens de vormvereisten die de Vlaamse Regering bepaalt.<br>
+<br>
+§ 2. De Vlaamse Regering kan, binnen de beschikbare begrotingskredieten, een jaarlijkse subsidie toekennen aan het Vlaams Instituut voor Kwaliteit van Zorg voor de uitvoering van zijn opdrachten. Ze kan het subsidiebedrag en de voorwaarden voor de vaststelling, de uitbetaling en de terugvordering van de subsidie bepalen.<br>
+<br>
+§ 3. De Vlaamse Regering kan een beheersovereenkomst sluiten met het Vlaams Instituut voor Kwaliteit van Zorg en de inhoud van die overeenkomst bepalen.
 
 ## Afdeling 2. Preventief gezondheidsbeleid
 
@@ -41,6 +73,11 @@ In artikel 12 van het decreet van 7 december 2007 houdende de oprichting van de 
 
 ## Onderafdeling 1. Prijsbeleid in de residentiële ouderenzorg
 
+### ART 39.
+
+Aan artikel 2, § 4, van de wet van 22 januari 1945 betreffende de economische reglementering en de prijzen, ingevoegd bij de wet van 23 december 1969 en gewijzigd bij de wetten van 30 juli 1971 en 17 juli 1975, wordt een vijfde lid toegevoegd, dat luidt als volgt:<br>
+"Het vierde lid is niet van toepassing voor de Vlaamse Gemeenschap bij de vaststelling van de maximumprijzen of de perken voor ouderenvoorzieningen, vermeld in artikel 2, 21°, van het Woonzorgdecreet van 13 maart 2009.".
+
 ## Onderafdeling 2. Wijzigingen van het Woonzorgdecreet van 13 maart 2009
 
 ### ART 43.
@@ -50,19 +87,163 @@ Aan artikel 62 van hetzelfde decreet wordt een derde lid toegevoegd, dat luidt a
 
 ## HOOFDSTUK 3. Vervanging van de term "vereniging zonder winstoogmerk" in meerdere sectorale decreten
 
+### ART 44.
+
+In artikel 3, § 3, eerste streepje, van het decreet van 26 juni 1991 betreffende de erkenning en subsidiëring van het maatschappelijk opbouwwerk wordt de zinsnede "vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 45.
+
+In artikel 20, § 1, van het decreet van 18 mei 1999 betreffende de geestelijke gezondheidszorg worden in punt 1° en 9° de woorden "vereniging zonder winstoogmerk" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 46.
+
+In artikel 7 van het decreet van 6 juli 2001 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2001, gewijzigd bij het besluit van de Vlaamse Regering van 19 december 2014, worden in paragraaf 1, 3 en 4 de woorden "vereniging zonder winstoogmerk" vervangen door de zinsnede "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen,".
+
+### ART 47.
+
+In artikel 8, eerste lid, van het decreet van 21 maart 2003 betreffende de armoedebestrijding, gewijzigd bij het decreet van 18 juli 2008, wordt in punt 1° de zinsnede "vereniging zonder winstoogmerk, overeenkomstig de wet van 27 juni 1921" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 48.
+
+In artikel 8, § 4, van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders, gewijzigd bij het decreet van 21 juni 2013, worden de woorden "vereniging zonder winstoogmerk" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 49.
+
+In artikel 15bis, vierde lid, van hetzelfde decreet, ingevoegd bij het decreet van 21 juni 2013, worden de woorden "vereniging zonder winstoogmerk" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 50.
+
+In artikel 7, tweede lid, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, ingevoegd bij het decreet van 20 december 2013, worden de woorden "vennootschappen met sociaal oogmerk en verenigingen zonder winstoogmerk" vervangen door de woorden "privaatrechtelijke verenigingen met rechtspersoonlijkheid waarvoor het bij wet verboden is hun leden een vermogensvoordeel te bezorgen, of vennootschappen met rechtspersoonlijkheid en met een sociaal oogmerk".
+
+### ART 51.
+
+In artikel 16 van hetzelfde decreet, gewijzigd bij het decreet van 14 februari 2014, worden in punt 6° de woorden "een vereniging zonder winstoogmerk" vervangen door de woorden "een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 52.
+
+In artikel 50 van het Woonzorgdecreet van 13 maart 2009, gewijzigd bij het decreet van 21 juni 2013, wordt punt 1° vervangen door wat volgt:<br>
+"1° een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen;".
+
+### ART 53.
+
+In artikel 16, § 2, van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen worden in punt 1° de woorden "vereniging zonder winstoogmerk" vervangen door de zinsnede "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen,".
+
+### ART 54.
+
+In artikel 22, § 1, van hetzelfde decreet worden in punt 1° de woorden "vereniging zonder winstoogmerk" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
+### ART 55.
+
+In artikel 2 van het decreet van 29 november 2013 houdende de organisatie van de preventieve gezinsondersteuning wordt punt 11° opgeheven.
+
+### ART 56.
+
+In artikel 14, § 1, van hetzelfde decreet wordt in punt 3° het woord "vzw" vervangen door de woorden "privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen".
+
 ## HOOFDSTUK 4. Netwerk voor de gegevensdeling tussen de actoren in de zorg
 
 ## HOOFDSTUK 5. Bijzondere jeugdbijstand
 
 ## Afdeling 1. Wijzigingen van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand
 
+### ART 58.
+
+Aan artikel 2 van het decreet van 7 maart 2008 inzake bijzondere jeugdbijstand, gewijzigd bij de decreten van 29 juni 2012 en 12 juli 2013, wordt een punt 22° toegevoegd, dat luidt als volgt:<br>
+"22° Vlaamse detentiecentra: voorzieningen als vermeld in artikel 47/1 die bestemd zijn voor de opvang van personen als vermeld in artikel 606 van het Wetboek van Strafvordering.".
+
+### ART 59.
+
+Artikel 5/1 van het hetzelfde decreet, ingevoegd bij het decreet van 21 juni 2013, wordt opgeheven.
+
+### ART 60.
+
+In hetzelfde decreet wordt het opschrift van hoofdstuk V, afdeling I, vervangen door wat volgt:<br>
+"Gemeenschapsinstellingen en Vlaamse detentiecentra".
+
+### ART 61.
+
+Aan hoofdstuk V, afdeling I, van hetzelfde decreet, gewijzigd bij het decreet van 12 juli 2013, wordt een artikel 47/1 toegevoegd, dat luidt als volgt:<br>
+"Art. 47/1. De Vlaamse Regering richt Vlaamse detentiecentra op. De Vlaamse Regering bepaalt de maximumcapaciteit van elk Vlaams detentiecentrum.<br>
+De Vlaamse detentiecentra zijn, tot ze hun maximumcapaciteit bereikt hebben, belast met de tenlasteneming van personen tot maximaal de leeftijd van drieëntwintig jaar tegen wie een uithandengeving is uitgesproken of die veroordeeld zijn tot een gevangenisstraf na een uithandengeving die uitgesproken is door de jeugdrechtbank met toepassing van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.".
+
+### ART 63.
+
+In artikel 49, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 12 juli 2013, worden de woorden "de leidend jeugdrechter in de jeugdrechtbank en van de toegangspoort" vervangen door de zinsnede "het Intersectoraal Regionaal Overleg Jeugdhulp, vermeld in artikel 65 van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp,".
+
+### ART 64.
+
+Artikel 51 van hetzelfde decreet wordt vervangen door wat volgt:<br>
+"Art. 51. De Vlaamse Regering laat de voorzieningen, vermeld in artikel 48, § 1, en de organisaties, vermeld in artikel 52/1, inspecteren door personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein.".
+
 ## Afdeling 2. Wijzigingen van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade
+
+### ART 66.
+
+In artikel 37 van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade, gewijzigd bij de wetten van 2 februari 1994, 13 juni 2006 en 27 december 2006, worden de volgende wijzigingen aangebracht:<br>
+1° in paragraaf 2, eerste lid, worden punt 5°, 6° en 9° tot en met 11° opgeheven;<br>
+2° in paragraaf 3, tweede lid, worden in punt 2° de woorden "drieëntwintig jaar" vervangen door de woorden "twintig jaar" en worden de woorden "zestien jaar" vervangen door de woorden "zeventien jaar";<br>
+3° in paragraaf 3 wordt het derde lid opgeheven.
+
+### ART 67.
+
+Artikel 57bis, § 4, van dezelfde wet, ingevoegd bij de wet van 13 juni 2006, wordt opgeheven.
 
 ## HOOFDSTUK 6. Integrale jeugdhulp
 
 ## Afdeling 1. Wijzigingen van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp
 
+### ART 68.
+
+In artikel 2, § 1, van het decreet van 7 mei 2004 betreffende de rechtspositie van de minderjarige in de integrale jeugdhulp, gewijzigd bij het decreet van 12 juli 2013, worden de volgende wijzigingen aangebracht:<br>
+1° in punt 1° wordt de datum "7 mei 2004" vervangen door de datum "12 juli 2013";<br>
+2° punt 2° wordt vervangen door wat volgt:<br>
+"2° jeugdhulp: het geheel van de jeugdhulpverlening, alsook de indicatiestelling en de jeugdhulpregie die worden verricht door en voor de toegangspoort, en de opdrachten die worden uitgevoerd door de gemandateerde voorzieningen, vermeld in artikel 2, § 1, 17°, van het decreet integrale jeugdhulp;";<br>
+3° in punt 3° wordt de zinsnede "artikel 2, § 1, 4° " vervangen door de zinsnede "artikel 2, § 1, 30° ";<br>
+4° in punt 12° en 13° wordt de zinsnede "artikel 4" vervangen door de zinsnede "artikel 3";<br>
+5° in punt 15° wordt de zinsnede ", dat zorgt voor de indicatiestelling en de toewijzing" opgeheven;<br>
+6° in punt 17° wordt de zinsnede "artikel 4, § 1" vervangen door de zinsnede "artikel 3, § 1" en wordt de zinsnede "artikel 4, § 2" vervangen door de zinsnede "artikel 3, § 2";<br>
+7° in punt 18° wordt de zinsnede "decreet van 12 juli 2013 betreffende de integrale jeugdhulp" vervangen door de woorden "decreet integrale jeugdhulp".
+
 ## Afdeling 2. Wijzigingen van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp
+
+### ART 69.
+
+In artikel 2, § 1, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp wordt punt 1° opgeheven.
+
+### ART 70.
+
+In artikel 45, eerste lid, van hetzelfde decreet worden in punt 1° de woorden "op de Adviesraad en" opgeheven.
+
+### ART 71.
+
+In artikel 47, 2°, c), van hetzelfde decreet worden de woorden "omdat de noodzakelijke instemmingen niet werkelijk zijn verkregen" opgeheven.
+
+### ART 72.
+
+In artikel 55 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt:<br>
+"De jeugdrechter laat een vraag tot niet rechtstreeks toegankelijke jeugdhulpverlening inschrijven op de intersectorale registratielijst voor hij het volgende beveelt:<br>
+1° een of meer van de maatregelen, vermeld in artikel 48 en 53;<br>
+2° een of meer van de maatregelen, vermeld in artikel 10 van de ordonnantie van de Gemeenschappelijke Gemeenschapscommissie van 29 april 2004 inzake hulpverlening aan jongeren;<br>
+3° een van de maatregelen, vermeld in artikel 37, § 2, eerste lid, 7°, en artikel 37, § 2ter, 7°, van de wet van 8 april 1965 betreffende de jeugdbescherming, het ten laste nemen van minderjarigen die een als misdrijf omschreven feit hebben gepleegd en het herstel van de door dit feit veroorzaakte schade.".
+
+### ART 73.
+
+In artikel 67 van hetzelfde decreet wordt het tweede lid vervangen door wat volgt:<br>
+"Voor de dossiers, vermeld in artikel 26, § 1, eerste lid, 6°, kan het team Jeugdhulpregie of het hoofd van het agentschap Jongerenwelzijn subsidies toekennen voor een aanvullend geïndividualiseerd hulpaanbod aan de minderjarige volgens de regels die de Vlaamse Regering bepaalt. Die subsidies kunnen, volgens de regels die de Vlaamse Regering bepaalt, ook worden toegekend aan een of meer organisaties met het kwaliteitslabel "intersectoraal zorgnetwerk", die worden aangewezen na een oproep en die meerdere minderjarigen kunnen begeleiden.".
+
+### ART 74.
+
+In artikel 75, tweede lid, van hetzelfde decreet worden in punt 2° tussen het woord "jeugdhulpverlening" en het woord "die" de woorden "die verleend wordt of" ingevoegd.
+
+### ART 75.
+
+In hetzelfde decreet, gewijzigd bij het decreet van 25 april 2014, wordt een artikel 75/1 ingevoegd, dat luidt als volgt:<br>
+"Art. 75/1. Behalve in de gevallen die bij of krachtens dit decreet zijn bepaald, is elke vorm van gegevensoverdracht verboden tussen enerzijds de jeugdhulpaanbieders die geen gemandateerde voorziening zijn, en anderzijds de magistraten, belast met jeugdzaken en de sociale diensten.<br>
+Het verbod, vermeld in het eerste lid, geldt niet als de betrokken minderjarige, die minstens twaalf jaar is of, als hij jonger is, tot een redelijke beoordeling van zijn belangen in staat is, en zijn ouders of opvoedingsverantwoordelijken op een geïnformeerde en schriftelijke wijze instemmen met de overdracht van gegevens.<br>
+Het verbod geldt evenmin voor de basisgegevens met betrekking tot:<br>
+1° de identificatie van de betrokken partijen;<br>
+2° het feit of er jeugdhulpverlening ten aanzien van de minderjarige en, in voorkomend geval, aan zijn ouders of opvoedingsverantwoordelijken is aangevat, wordt voortgezet of is beëindigd.<br>
+De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na een schriftelijke vraag van magistraten, belast met jeugdzaken, of van de sociale diensten met het oog op het bieden van de gepaste jeugdhulpverlening aan de minderjarige, aan zijn ouders of opvoedingsverantwoordelijken.".
 
 ## HOOFDSTUK 7. Pleegzorg
 
@@ -76,13 +257,83 @@ In artikel 3, eerste lid, 1°, van het besluit van de Vlaamse Regering van 7 mei
 
 ## HOOFDSTUK 8. Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers
 
+### ART 79.
+
+In artikel 2 van het decreet van 7 december 2007 houdende oprichting van de Strategische Adviesraad voor het Vlaamse Welzijns-, Gezondheids- en Gezinsbeleid en van een Adviescommissie voor Voorzieningen van Welzijn, Volksgezondheid en Gezin en (Kandidaat-)pleegzorgers wordt in punt 2°, 3° en 5° de zinsnede "artikel 5, § 1, I en II," vervangen door de zinsnede "artikel 5, § 1, I tot en met IV,".
+
 ## HOOFDSTUK 9. Kinderopvang van baby's en peuters
 
 ## Afdeling 1. Wijzigingen van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters
 
+### ART 80.
+
+In artikel 2, tweede lid, van het decreet van 20 april 2012 houdende de organisatie van kinderopvang van baby's en peuters wordt punt 1° vervangen door wat volgt:<br>
+"1° jeugdhulpverlening als vermeld in artikel 2, § 1, 30°, van het decreet van 12 juli 2013 betreffende de integrale jeugdhulp;".
+
+### ART 81.
+
+In artikel 4, zesde lid, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° de zinsnede ", de wijziging" wordt vervangen door de woorden "en de wijziging";<br>
+2° de zinsnede ", de schorsing en de opheffing" wordt opgeheven.
+
+### ART 82.
+
+In artikel 6 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° aan paragraaf 1, 4°, wordt een punt c) toegevoegd, dat luidt als volgt:<br>
+"c) de persoon die in afwezigheid van de verantwoordelijke de taak van de verantwoordelijke als aanspreekpersoon overneemt, zoals zijn actieve kennis van de Nederlandse taal;";<br>
+2° in paragraaf 4 worden het eerste en tweede lid vervangen door wat volgt:<br>
+"De organisator beschikt voor zichzelf, voor de verantwoordelijke, voor de kinderbegeleider en voor elke andere meerderjarige persoon die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, over een uittreksel uit het strafregister als bedoeld in artikel 596, tweede lid, van het Wetboek van Strafvordering, of over een gelijkwaardig document voor wie niet in België gedomicilieerd is, waaruit onberispelijk gedrag in de omgang met kinderen blijkt. Als de organisator een rechtspersoon is, beschikt de organisator over een uittreksel uit het centraal strafregister op naam van de rechtspersoon.<br>
+De organisator beschikt voor iedereen die in de kinderopvanglocatie regelmatig direct contact heeft met de opgevangen kinderen, over een attest van medische geschiktheid.".
+
+### ART 83.
+
+In artikel 8, § 3, van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° er wordt een tweede lid toegevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering kan de Openbare Centra voor Maatschappelijk Welzijn ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. Voor gezinnen die een beroep doen op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, die moet worden geacht wegens zijn organisatie uitsluitend te behoren tot de Vlaamse Gemeenschap, en voor wie het Openbaar Centrum voor Maatschappelijk Welzijn geen beslissing neemt, kan de Vlaamse Regering de organisator ermee belasten om in individuele gevallen te beslissen over een vermindering van de prijs van de kinderopvang voor de gezinnen. De Vlaamse Regering bepaalt de nadere regels, meer bepaald in welke gevallen het Openbaar Centrum voor Maatschappelijk Welzijn of de organisator, in geval een beroep gedaan wordt op een organisator, gevestigd in het tweetalige gebied Brussel-Hoofdstad, een beslissing kan nemen en waarover.";<br>
+2° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"Kind en Gezin kan maatregelen nemen ten aanzien van de gezinnen die niet de correcte gegevens verstrekken, nodig voor de berekening van de prijs van de kinderopvang, of die een wijziging van die gegevens niet meedelen. Die maatregelen bestaan uit de bepaling van het juiste inkomenstarief voor de toekomst en uit het bepalen van een schadevergoeding ten laste van de contracthouder voor het verleden. De Vlaamse Regering bepaalt daarvoor de nadere regels, meer bepaald hoe dit juiste inkomenstarief gefactureerd zal worden ten aanzien van de contracthouder en hoeveel de schadevergoeding bedraagt. Kind en Gezin kan beslissen af te zien van deze schadevergoeding in geval van overmacht, goede trouw of indien sprake van behartenswaardige gevallen.".
+
+### ART 84.
+
+Aan artikel 12 van hetzelfde decreet wordt een paragraaf 3 toegevoegd, die luidt als volgt:<br>
+" § 3. De Vlaamse Regering bepaalt de procedure voor de aanvraag, de toekenning en de wijziging van de subsidie, inclusief de mogelijkheid om bezwaar aan te tekenen.".
+
+### ART 85.
+
+In artikel 13, eerste lid, van hetzelfde decreet wordt punt 1° vervangen door wat volgt:<br>
+"1° de registratie van de vragen naar kinderopvang en van de voorkeur van gezinnen voor kinderopvangplaatsen coördineren, zodat een gezin maar één vraag hoeft te stellen over beschikbare opvangplaatsen;".
+
+### ART 86.
+
+In artikel 18, eerste lid, van hetzelfde decreet wordt tussen de zinsnede "niet naleeft," en de woorden "wordt de organisator" de zinsnede "of het door of krachtens dit decreet geregelde toezicht verhindert," ingevoegd en worden tussen de woorden "de niet-nageleefde bepalingen" en de woorden "en kan" de woorden "of aan de vereisten betreffende het toezicht" ingevoegd.<br>
+&nbsp;
+
+### ART 87.
+
+In artikel 20 van hetzelfde decreet wordt het eerste lid vervangen door wat volgt:<br>
+"Kind en Gezin kan de subsidie verminderen, schorsen of stopzetten als de organisator:<br>
+1° de bepalingen, vermeld in dit decreet of de uitvoeringsbesluiten ervan, niet naleeft;<br>
+2° het door of krachtens dit decreet geregelde toezicht verhindert.<br>
+Kind en Gezin beslist tot terugvordering van de subsidie overeenkomstig artikel 57 van het Rekendecreet, artikel 13 van de wet van 16 mei 2003 tot vaststelling van de algemene bepalingen die gelden voor de begrotingen, de controle op de subsidies en voor de boekhouding van de gemeenschappen en de gewesten, alsook voor de organisatie van de controle door het Rekenhof, en artikel 18 van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de algemene regels inzake subsidiëring.".
+
+### ART 88.
+
+In artikel 21 van hetzelfde decreet worden het tweede en het derde lid vervangen door wat volgt:<br>
+"Als de uitoefening van de kinderopvang opgeschort moet worden of als een kinderopvanglocatie moet sluiten, licht Kind en Gezin zo spoedig mogelijk de burgemeester van de gemeente van de kinderopvanglocatie daarover in.<br>
+De burgemeester gaat na of de opschorting of het sluitingsbevel wordt nageleefd. Als dat niet het geval is, gaat de burgemeester over tot sluiting van de kinderopvanglocatie. Die maatregel wordt op kosten en op risico van de organisator uitgevoerd. De burgemeester informeert Kind en Gezin over zijn vaststellingen.".
+
 ## Afdeling 2. Wijziging van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen
 
+### ART 89.
+
+In artikel 2 van het decreet van 17 oktober 2003 betreffende de kwaliteit van de gezondheids- en welzijnsvoorzieningen, gewijzigd bij de decreten van 20 april 2012 en 29 juni 2012, worden in punt 1° de woorden "en centra voor leerlingenbegeleiding" vervangen door de zinsnede ", van centra voor leerlingenbegeleiding en van vergunde of erkende kinderopvanglocaties van organisatoren met niet meer dan achttien vergunde of erkende kinderopvangplaatsen".
+
 ## HOOFDSTUK 10. Kind en Gezin
+
+### ART 92.
+
+In artikel 10 van hetzelfde decreet wordt tussen het vierde en het vijfde lid een lid ingevoegd, dat luidt als volgt:<br>
+"In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, dienen vooraf te worden gemachtigd door het bevoegde sectoraal comité of een andere instantie of toezichthouder met een machtigingsbevoegdheid in het kader van de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.".
 
 ## HOOFDSTUK 11. Personen met een handicap
 
@@ -90,6 +341,10 @@ In artikel 3, eerste lid, 1°, van het besluit van de Vlaamse Regering van 7 mei
 
 Aan artikel 6, 1°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, gewijzigd bij het decreet van 21 december 2007, wordt de volgende zin toegevoegd:<br>
 "De aan het agentschap toebedeelde winstverdeling van de Nationale Loterij kan ook voor andere doeleinden dan voor de aanvullende financiering van infrastructuurprojecten worden aangewend;".
+
+### ART 94.
+
+In artikel 13, tweede lid, van hetzelfde decreet, gewijzigd bij het decreet van 25 april 2014, wordt tussen het woord "handicap" en het woord "kunnen" de zinsnede "die voldoen aan de voorwaarden van artikel 20 en 21, derde en vijfde lid," ingevoegd.
 
 ### ART 95.
 
@@ -119,6 +374,16 @@ In hetzelfde decreet wordt in hetzelfde hoofdstuk IV/1 een artikel 19/4 ingevoeg
 4° de nadere regels voor de toekenning van voorschotten;<br>
 5° de nadere regels voor de jaarlijkse verrekening van de kosten.".
 
+### ART 99.
+
+In artikel 21 van hetzelfde decreet, gewijzigd bij het decreet van 25 april 2014, worden de volgende wijzigingen aangebracht:<br>
+1° het eerste lid wordt vervangen door wat volgt:<br>
+"Een meerderjarige persoon met een handicap die een aanvraag tot ondersteuning indient, moet werkelijk en wettig in België verblijven. Hij moet bovendien het bewijs voorleggen van een ononderbroken verblijf van vijf jaar, dan wel een niet-aaneengesloten verblijf van tien jaar in België. Voor verlengd minderjarigen en onbekwaamverklaarden moet de wettelijke vertegenwoordiger voldoen aan de voorwaarde van voorafgaand verblijf.";<br>
+2° het derde lid wordt vervangen door wat volgt:<br>
+"Om ondersteuning te kunnen krijgen, heeft de persoon met een handicap of met een vermoeden van handicap hetzij zijn woonplaats in het Nederlandse taalgebied, hetzij zijn woonplaats in het tweetalige gebied Brussel-Hoofdstad. In dat laatste geval wendt hij zich tot een voorziening in het Nederlandse taalgebied of tot een voorziening in het tweetalige gebied Brussel-Hoofdstad die, wegens de organisatie ervan, geacht wordt uitsluitend te behoren tot de Vlaamse Gemeenschap.";<br>
+3° tussen het derde lid en het vierde lid wordt een nieuw lid ingevoegd, dat luidt als volgt:<br>
+"De Vlaamse Regering kan de inhoud van het begrip `woonplaats' nader bepalen.".
+
 ## HOOFDSTUK 12. Infrastructuur voor persoonsgebonden aangelegenheden
 
 ## Afdeling 1. Wijziging van het decreet van 23 februari 1994 inzake de infrastructuur voor persoonsgebonden aangelegenheden
@@ -135,6 +400,11 @@ In artikel 6 van het decreet van 2 juni 2006 tot omvorming van het Vlaams Infras
 
 ## Afdeling 3. Wijzigingen van gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen
 
+### ART 102.
+
+Aan artikel 105 van de gecoördineerde wet van 10 juli 2008 op de ziekenhuizen en andere verzorgingsinrichtingen, gewijzigd bij de wet van 10 april 2014, wordt een paragraaf 4 toegevoegd, die luidt als volgt:<br>
+" § 4. Voor de Vlaamse Gemeenschap is dit artikel niet van toepassing voor de vaststelling van het budget van financiële middelen, als die middelen betrekking hebben op de investeringskosten voor de infrastructuur en de medisch-technische diensten van de ziekenhuizen, vermeld in artikel 5, § 1, I, eerste lid, 1°, a), van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen.".
+
 ### ART 103.
 
 Aan artikel 108 van dezelfde wet, gewijzigd bij de wet van 10 april 2014, wordt een derde lid toegevoegd, dat luidt als volgt:<br>
@@ -147,14 +417,97 @@ Aan artikel 109 van dezelfde wet wordt een derde lid toegevoegd, dat luidt als v
 
 ## HOOFDSTUK 13. Subsidiëring van initiatieven die zich richten tot personen die betrokken zijn bij een misdrijf
 
+### ART 105.
+
+De Vlaamse Regering kan binnen de beschikbare begrotingskredieten initiatieven subsidiëren die voorzien in een herstelgericht en constructief hulp- en dienstverleningsaanbod voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, en voor slachtoffers van misdrijven, alsook voor hun onmiddellijke omgeving, dat niet wordt verstrekt ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid. De Vlaamse Regering sluit daarvoor een overeenkomst met de initiatiefnemers en bepaalt de nadere regels voor de subsidiëring en de overeenkomst.
+
+### ART 106.
+
+De Vlaamse Regering kan, in het kader van de opdrachten die de justitiehuizen of, in voorkomend geval, de andere diensten van de Vlaamse Gemeenschap die zulke opdrachten overnemen, uitoefenen, binnen de beschikbare begrotingskredieten initiatieven subsidiëren die voorzien in gespecialiseerde programma's of samenwerkingsverbanden voor verdachten, in verdenking gestelde personen, beklaagden, veroordeelden of geïnterneerden, ter uitvoering van een beslissing van een gerechtelijke of administratieve overheid, of die zulke programma's of samenwerkingsverbanden ondersteunen. De Vlaamse Regering sluit daarvoor een overeenkomst met de initiatiefnemers en bepaalt de nadere regels voor de subsidiëring en de overeenkomst.
+
 ## HOOFDSTUK 14. [... (opgeh. decr. 19 januari 2018, art. 45, I: 1 januari 2019)]
+
+### ART 107.
+
+De personeelsleden van de diensten van de Vlaamse overheid die door de Vlaamse Regering belast zijn met het toezicht op de naleving van de regelgeving in het kader van het gezondheids- en welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, hebben het recht om voor de uitoefening van die toezichtsopdracht inzage te vorderen van alle noodzakelijke documenten en informatiedragers, met inbegrip van documenten en informatiedragers die persoonsgegevens, waaronder gezondheidsgegevens, bevatten.<br>
+De inzage wordt in eerste instantie toegestaan voor anonieme gegevens, in de mate dat die beschikbaar en actueel zijn. Voor zover dat nodig is voor de uitoefening van de toezichtsopdracht, kunnen de personeelsleden, vermeld in het eerste lid, inzage vorderen in persoonsgegevens, mits daarvoor ingeval het om gezondheidsgegevens gaat een principiële machtiging is verleend door het sectoraal comité overeenkomstig artikel 42, § 2, 3°, van de wet van 13 december 2006 houdende diverse bepalingen betreffende gezondheid.<br>
+In dit artikel wordt verstaan onder:<br>
+1° anonieme gegevens: gegevens die niet met een geïdentificeerd of identificeerbaar persoon in verband kunnen worden gebracht en derhalve geen persoonsgegevens zijn;<br>
+2° gezondheidsbeleid: het beleid met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
+3° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
+4° sectoraal comité: de afdeling Gezondheid van het Sectoraal Comité van de Sociale zekerheid en van de Gezondheid, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 37, § 1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid.
 
 ## HOOFDSTUK 15. Accreditatie van voorzieningen in het beleidsdomein Welzijn, Volksgezondheid en Gezin
 
+### ART 108.
+
+§ 1. In dit artikel wordt verstaan onder:<br>
+1° accreditatie: een extern, onafhankelijk onderzoek met betrekking tot de continue kwaliteitsgarantie en -verbetering van de geleverde diensten in een voorziening, op verzoek van die voorziening en op basis van vooraf opgestelde standaarden, met als doel een geloofwaardige externe validatie van de zorgresultaten en interne kwaliteitsprocedures voor zorg van die voorziening;<br>
+2° accreditatie-instelling: een orgaan dat internationaal aanvaarde accreditaties kan verrichten. De Vlaamse Regering bepaalt wat onder een internationaal aanvaarde accreditatie wordt verstaan;<br>
+3° anonieme gegevens: gegevens die niet met een geïdentificeerd of identificeerbaar persoon in verband kunnen worden gebracht en derhalve geen persoonsgegevens zijn;<br>
+4° gezondheidsbeleid: het beleid met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, I, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is;<br>
+5° sectoraal comité: de afdeling Gezondheid van het Sectoraal Comité van de Sociale zekerheid en van de Gezondheid, opgericht binnen de Commissie voor de bescherming van de persoonlijke levenssfeer overeenkomstig artikel 37, § 1, van de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de sociale zekerheid;<br>
+6° voorziening: een verzorgingsinstelling of elke andere organisatie die in het kader van het gezondheids- of welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, belast is met of belast wil zijn met de organisatie of uitvoering van zorg of die belast is met of belast wil zijn met de toekenning van rechten, met inbegrip van de ziekenfondsen en de zorgkassen;<br>
+7° welzijnsbeleid: het beleid inzake de bijstand aan personen met betrekking tot het geheel van aangelegenheden, vermeld in artikel 5, § 1, II, van de bijzondere wet van 8 augustus 1980 tot hervorming der instellingen waarvoor de Vlaamse Gemeenschap bevoegd is, met uitzondering van het beleid inzake onthaal en integratie van inwijkelingen;<br>
+8° zorg: één activiteit of het geheel van activiteiten in het kader van het gezondheids- of welzijnsbeleid, met uitzondering van het beleid inzake het medisch schooltoezicht en de medisch verantwoorde sportbeoefening, waaronder hulp, dienstverlening, ondersteuning, Vlaamse sociale bescherming en zorgverzekering;<br>
+9° zorggebruiker: de patiënt, met name de natuurlijke persoon aan wie gezondheidszorg wordt verstrekt, al dan niet op eigen verzoek, of elke andere natuurlijke persoon aan wie zorg wordt verleend, al dan niet op eigen verzoek.<br>
+§ 2. Met behoud van de toepassing van de regelgeving ter bescherming van de persoonlijke levenssfeer en van de regelgeving betreffende het beroepsgeheim, kan het een accreditatie-instelling die in het raam van de accreditatie van een voorziening onderzoek voert, worden toegestaan om voor dat onderzoek in de gebouwen van de voorziening inzage te hebben in persoonsgegevens van zorggebruikers, met inbegrip van persoonsgegevens betreffende de gezondheid, en daarvan kopie te nemen, op voorwaarde dat dit voor dat onderzoek noodzakelijk is omdat inzage in anonieme gegevens niet volstaat en mits daarvoor ingeval het om gezondheidsgegevens gaat een principiële machtiging is verleend door het sectoraal comité overeenkomstig artikel 42, § 2, 3°, van de wet van 13 december 2006 houdende diverse bepalingen betreffende gezondheid.
+
 ## HOOFDSTUK 16. Adoptie
+
+### ART 109.
+
+In artikel 8, § 3, van het decreet van 3 juli 2015 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt de zinsnede "artikel 1231.31 van het Gerechtelijk Wetboek" vervangen door de zinsnede "artikel 1231.3 van het Gerechtelijk Wetboek".
+
+### ART 111.
+
+In artikel 15, § 2, van het decreet van 3 juli 2015 houdende regeling van de binnenlandse adoptie van kinderen en houdende wijziging van het decreet van 20 januari 2012 houdende regeling van de interlandelijke adoptie van kinderen wordt de zin "Tevens voorziet zij in een bezwaarprocedure." opgeheven.
+
+### ART 112.
+
+In artikel 26, § 2, van hetzelfde decreet wordt de zinsnede "het intern verzelfstandigd agentschap Zorginspectie, opgericht bij besluit van de Vlaamse Regering van 26 maart 2004" vervangen door de zinsnede "Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein".
 
 ## HOOFDSTUK 17. Hulp- en dienstverlening aan gedetineerden
 
+### ART 113.
+
+Aan artikel 14 van het decreet van 8 maart 2013 betreffende de organisatie van hulp- en dienstverlening aan gedetineerden wordt een vierde lid toegevoegd, dat luidt als volgt:<br>
+"Voor de gegevensuitwisseling, vermeld in het tweede lid, gebruiken de beleidscoördinatoren, de personen die belast zijn met de trajectbegeleiding of de ondersteuning, en de actoren de volgende identificatiemiddelen:<br>
+1° het identificatienummer van het Rijksregister, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die in het Rijksregister opgenomen is;<br>
+2° het identificatienummer van de Kruispuntbank van de Sociale Zekerheid, vermeld in de wet van 15 januari 1990 houdende oprichting en organisatie van een Kruispuntbank van de Sociale Zekerheid, als het om gegevens gaat die betrekking hebben op een natuurlijke persoon die niet in het Rijksregister opgenomen is.".
+
+### ART 114.
+
+In artikel 16 van hetzelfde decreet worden de volgende wijzigingen aangebracht:<br>
+1° aan het eerste lid wordt de zinsnede ", met uitzondering voor de taken van trajectbegeleiding" toegevoegd;<br>
+2° in het tweede lid worden tussen de woorden "het" en "digitaal" de woorden "kader van de organisatie van het" ingevoegd;<br>
+3° er wordt een derde lid toegevoegd, dat luidt als volgt:<br>
+"De personen die belast zijn met de beleidscoördinatie, de trajectbegeleiding of de ondersteuning, en de actoren zijn verantwoordelijk voor de inhoud die ze ter beschikking stellen via het digitale systeem en voor het zorgvuldige gebruik van de gegevens, al dan niet persoonsgegevens, die ze verkregen hebben via het digitale systeem.".
+
 ## HOOFDSTUK 18. Geïntegreerde zorg voor chronisch zieken
 
+### ART 115.
+
+De Vlaamse Regering kan projecten over de geïntegreerde zorg voor chronisch zieken toestaan.<br>
+<br>
+De Vlaamse Regering kan, voor de projecten vermeld in het eerste lid, afwijkingen toestaan op de bepalingen over de erkenning en financiering die door haar werden uitgevaardigd in uitvoering van het decreet van 3 maart 2004 betreffende de eerstelijnsgezondheidszorg en de samenwerking tussen de zorgaanbieders en het Woonzorgdecreet van 13 maart 2009.<br>
+<br>
+Bij het toekennen van een afwijking moet in ieder geval de veiligheid en de kwaliteit van de zorg voldoende gewaarborgd blijven.<br>
+<br>
+Er wordt verstaan onder project een specifiek initiatief met betrekking tot de geïntegreerde zorg voor chronisch zieken dat regiogebonden is en dat gekenmerkt wordt door een tijdelijk, vernieuwend en experimenteel karakter.
+
 ## HOOFDSTUK 19. Inwerkingtredingsbepaling
+
+### ART 116.
+
+Artikel 4 tot en met 16, 62, 65, 76 en 77 treden in werking op 1 januari 2017.<br>
+<br>
+Artikel 21 tot en met 33 treden in werking op een door de Vlaamse Regering te bepalen datum en uiterlijk op 1 januari 2020.<br>
+<br>
+Artikel 43 treedt in werking op 1 juli 2016.<br>
+<br>
+Artikel 83, 1°, heeft uitwerking met ingang van 1 mei 2015.<br>
+<br>
+Artikel 93, 101, 103 en 104 hebben uitwerking met ingang van 1 januari 2016.<br>
+<br>
+De Vlaamse Regering bepaalt de datum waarop artikel 17 tot en met 20, 34 tot en met 38, 40 tot en met 42, 57, 78, 90, 91, 95 tot en met 98, 100 en 110 in werking treden.
