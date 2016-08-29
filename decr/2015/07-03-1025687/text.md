@@ -40,7 +40,11 @@ Elke   kandidaat-adoptant meldt zich aan bij het Vlaams Centrum voor Adoptie dat
 
 ### ART. 8.
 
-<P>§   1. De voorbereiding, vermeld in artikel 346-2, eerste lid, van het Burgerlijk   Wetboek, voor de adoptie van een gekend kind wordt gegeven door het Steunpunt   Adoptie en bestaat uit voorbereidingssessies die afzonderlijk worden   georganiseerd van de voorbereidingssessies voor de adoptie van ongekende   kinderen, vermeld in artikel 6.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De Vlaamse Regering bepaalt de inhoud, de werkwijze voor de   voorbereidingssessies, de bijdrage van de kandidaat-adoptant in de kostprijs van   de voorbereidingssessies.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. Aan het einde van de voorbereiding geeft het Steunpunt Adoptie aan de   kandidaat-adoptant een attest waaruit blijkt dat de kandidaat-adoptant de   voorbereiding heeft gevolgd. De kandidaat-adoptant heeft dan één jaar de tijd om   het verzoekschrift, vermeld in artikel 1231-31 van het Gerechtelijk Wetboek,   ontvankelijk neer te leggen op de griffie van de familierechtbank, zo niet   vervalt het attest.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De voorbereiding, vermeld in artikel 346-2, eerste lid, van het Burgerlijk Wetboek, voor de adoptie van een gekend kind wordt gegeven door het Steunpunt Adoptie en bestaat uit voorbereidingssessies die afzonderlijk worden georganiseerd van de voorbereidingssessies voor de adoptie van ongekende kinderen, vermeld in artikel 6.</p>
+
+<p>§ 2. De Vlaamse Regering bepaalt de inhoud, de werkwijze voor de voorbereidingssessies, de bijdrage van de kandidaat-adoptant in de kostprijs van de voorbereidingssessies.</p>
+
+<p>§ 3. Aan het einde van de voorbereiding geeft het Steunpunt Adoptie aan de kandidaat-adoptant een attest waaruit blijkt dat de kandidaat-adoptant de voorbereiding heeft gevolgd. De kandidaat-adoptant heeft dan één jaar de tijd om het verzoekschrift, vermeld in artikel 1231-3 van het Gerechtelijk Wetboek, ontvankelijk neer te leggen op de griffie van de familierechtbank, zo niet vervalt het attest.</p>
 
 ### ART. 9.
 
@@ -78,7 +82,11 @@ Nadat   de familierechtbank de opdracht tot maatschappelijk onderzoek heeft bevo
 
 ### ART. 15.
 
-<P>§   1. De Vlaamse Regering vergunt één dienst voor binnenlandse adoptie op   gemotiveerd advies van het Vlaams Centrum voor Adoptie.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>De   vergunning wordt verleend voor onbepaalde duur.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. De Vlaamse Regering stelt de procedure vast voor de aanvraag van de   vergunning van de dienst voor binnenlandse adoptie. Tevens voorziet zij in een   bezwaarprocedure.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. De Vlaamse Regering vergunt één dienst voor binnenlandse adoptie op gemotiveerd advies van het Vlaams Centrum voor Adoptie.</p>
+
+<p>De vergunning wordt verleend voor onbepaalde duur.</p>
+
+<p>§ 2. De Vlaamse Regering stelt de procedure vast voor de aanvraag van de vergunning van de dienst voor binnenlandse adoptie.</p>
 
 ### ART. 16.
 
@@ -130,7 +138,13 @@ De   Vlaamse Regering kan, na gemotiveerd advies van het Vlaams Centrum voor Ado
 
 ### ART. 26.
 
-<P>§   1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de naleving van de   bepalingen van dit decreet. Het Steunpunt Adoptie, de diensten voor   maatschappelijk onderzoek en de dienst voor binnenlandse adoptie verlenen hun   medewerking aan de uitoefening van het toezicht.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   2. Het toezicht ter plaatse gebeurt door de personeelsleden van het intern   verzelfstandigd agentschap Zorginspectie, opgericht bij besluit van de Vlaamse   Regering van 26 maart 2004. Zij krijgen daartoe de vrije toegang tot de lokalen   van die diensten. Zij hebben het recht alle administratieve stukken te   raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en   wachtlijsten.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   3. De Vlaamse Regering kan boekhoudkundige regels vastleggen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>  <P>§   4. De Vlaamse Regering kan de regels voor het toezicht en de bevoegdheid van het   Vlaams Centrum voor Adoptie nader bepalen.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px"></P>
+<p>§ 1. Het Vlaams Centrum voor Adoptie oefent het toezicht uit op de naleving van de bepalingen van dit decreet. Het Steunpunt Adoptie, de diensten voor maatschappelijk onderzoek en de dienst voor binnenlandse adoptie verlenen hun medewerking aan de uitoefening van het toezicht.</p>
+
+<p>§ 2. Het toezicht ter plaatse gebeurt door de personeelsleden van Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein. Zij krijgen daartoe de vrije toegang tot de lokalen van die diensten. Zij hebben het recht alle administratieve stukken te raadplegen en krijgen op hun verzoek toegang tot de individuele dossiers en wachtlijsten.</p>
+
+<p>§ 3. De Vlaamse Regering kan boekhoudkundige regels vastleggen.</p>
+
+<p>§ 4. De Vlaamse Regering kan de regels voor het toezicht en de bevoegdheid van het Vlaams Centrum voor Adoptie nader bepalen.</p>
 
 ## HOOFDSTUK 9 Strafbepalingen
 
