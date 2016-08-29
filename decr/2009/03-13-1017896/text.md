@@ -232,7 +232,17 @@ De Vlaamse Regering kan andere dan de in dit decreet vermelde vormen van huisves
 
 ### ART. 50.
 
-Met behoud van de toepassing van artikel 12 kunnen thuiszorgvoorzieningen   en verenigingen alleen worden erkend als ze door de volgende initiatiefnemers   zijn opgericht : <BR>1° een vereniging zonder winstoogmerk;<BR>2° een   provinciebestuur; <BR>3° een gemeentebestuur;<BR>4° een openbaar centrum voor   maatschappelijk welzijn;<BR>5° de Vlaamse Gemeenschapscommissie;<BR>6° een   publiekrechtelijke vereniging;<BR>7° een vereniging, opgericht conform titel   VIII van het decreet van 19 december 2008 betreffende de organisatie van de   openbare centra voor maatschappelijk welzijn;<BR>8° een ziekenfonds;<BR>9° een   openbare instelling van categorie B als vermeld in de wet van 16 maart 1954   betreffende de controle op sommige instellingen van openbaar nut;<BR>10° een   andere rechtspersoon die geen winst nastreeft en die door de Vlaamse Regering   wordt aangewezen.
+Met behoud van de toepassing van artikel 12 kunnen thuiszorgvoorzieningen en verenigingen alleen worden erkend als ze door de volgende initiatiefnemers zijn opgericht :<br>
+1° een privaatrechtelijke vereniging met rechtspersoonlijkheid waarvoor het bij wet verboden is haar leden een vermogensvoordeel te bezorgen;<br>
+2° een provinciebestuur;<br>
+3° een gemeentebestuur;<br>
+4° een openbaar centrum voor maatschappelijk welzijn;<br>
+5° de Vlaamse Gemeenschapscommissie;<br>
+6° een publiekrechtelijke vereniging;<br>
+7° een vereniging, opgericht conform titel VIII van het decreet van 19 december 2008 betreffende de organisatie van de openbare centra voor maatschappelijk welzijn;<br>
+8° een ziekenfonds;<br>
+9° een openbare instelling van categorie B als vermeld in de wet van 16 maart 1954 betreffende de controle op sommige instellingen van openbaar nut;<br>
+10° een andere rechtspersoon die geen winst nastreeft en die door de Vlaamse Regering wordt aangewezen.
 
 ### ART. 51.
 
