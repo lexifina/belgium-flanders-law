@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027141,
+  "title": "Ministerieel besluit van 2016-08-01 houdende een oproep tot indiening van steunaanvragen als vermeld in het besluit van de Vlaamse Regering van 10 juli 2015 betreffende de regels voor steun voor de oprichting van producentenorganisaties",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027141/VolledigDocument?datum=2016-08-29",
+  "source_sha256": "2a8139bfc9f434bf04ecac6d3cc8dbf80f3725ef544acdcb029bbccbda6181c0",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027141&param=informatie",
+  "as_of": "2016-08-29",
+  "made": "2016-08-01",
+  "gazette": "2016-08-19",
+  "numac": 2016036309,
+  "document_start": "2016-08-29",
+  "document_end": null,
+  "in_force": "2016-08-29",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-08-29; oldest version available; future article versions excluded; article text as the API gives it"
+}
