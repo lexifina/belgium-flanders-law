@@ -51,6 +51,26 @@ Met het oog op hulp- en zorgverlening bij kindermishandeling erkent en   subsidi
 
 Onverminderd de behandeling van klachten over de eigen werking en dienstverlening zoals bepaald in het decreet van 1 juni 2001 houdende toekenning van een klachtrecht ten aanzien van bestuursinstellingen moet het agentschap klachten tegen partners en door hen geregistreerde voorzieningen opnemen en behandelen.
 
+### ART. 10.
+
+Het agentschap voert de taken, vermeld in artikel 5, 6, 7 en 8, voorzover het om beleidsuitvoerende taken gaat, uit in samenhang met:<br>
+1° het door andere beleidsdomeinen en beleidsniveaus gevoerde beleid;<br>
+2° het door de Vlaamse Gemeenschap gevoerde beleid inzake welzijn en gezondheid.<br>
+<br>
+Het agentschap ontwikkelt terreinexpertise met betrekking tot de taken, vermeld in artikelen 5, 6, 7 en 8.<br>
+<br>
+Het agentschap zal de verworven kennis en expertise ter beschikking stellen van de beleidsondersteuning als bedoeld in artikel 4, § 1, van het kaderdecreet.<br>
+<br>
+Het agentschap zal haar dienstverlening permanent optimaliseren en vernieuwen op basis van actuele ontwikkelingen inzake kennis en expertise.<br>
+<br>
+In het kader van zijn missie, vermeld in artikel 4, § 1, kan het agentschap de persoonsgegevens verwerken van alle pasgeboren kinderen en hun ouders die noodzakelijk zijn om de taken inzake preventieve gezinsondersteuning, vermeld in artikel 7, uit te voeren. De concrete gegevensstromen die hiertoe noodzakelijk zijn, dienen vooraf te worden gemachtigd door het bevoegde sectoraal comité of een andere instantie of toezichthouder met een machtigingsbevoegdheid in het kader van de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens.<br>
+<br>
+Het agentschap registreert en verwerkt alle gegevens, met inbegrip van persoonsgegevens met betrekking tot zijn cliënteel, die noodzakelijk zijn om:<br>
+1° de taken, bedoeld in artikelen 5, 6, 7 en 8 uit te voeren;<br>
+2° de beleidsgerichte input als bedoeld in artikel 4, § 3, van het kaderdecreet te leveren.<br>
+<br>
+De Vlaamse regering bepaalt de nadere regels met betrekking tot de gegevensregistratie en verwerking, onverminderd de toepassing van de regelgeving tot bescherming van de persoonlijke levenssfeer voor de verwerking van de persoonsgegevens.
+
 ### ART. 11.
 
 Het agentschap werkt voor de realisatie van zijn taken samen en sluit samenwerkingsakkoorden af met overheden, instanties, instellingen, diensten en verenigingen die op het vlak van de toegewezen taken actief zijn.<br /><br />Inzake kinderopvang werkt het agentschap voor de lokale programmatie op structurele wijze samen met lokale actoren, waaronder de lokale besturen.<br /><br />Inzake preventieve gezinsondersteuning werkt het agentschap in partnership met organisaties of instanties die consultatiebureaus organiseren, alsook met ziekenhuizen voor informatieverstrekking aan zwangeren en kraambezoeken aan pas bevallen moeders. Daartoe heeft het agentschap toegang tot de kraaminrichtingen middels een samenwerkingsakkoord vanuit het oogpunt van de continuïteit van zorg en rekening houdende met de medische noodwendigheden, met de deontologie en de privacy.
