@@ -2,16 +2,16 @@
   "codex_id": 1009623,
   "title": "Decreet van 2002-07-05 tot vaststelling van de regels inzake de dotatie en de verdeling van het Vlaams Gemeentefonds",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009623/VolledigDocument?datum=2013-08-09",
-  "source_sha256": "a80d22c3d35befb7915f44b6da016db0c10fa4da76287c59990c30b226d9cca5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1009623/VolledigDocument?datum=2016-08-29",
+  "source_sha256": "c07414944db8dec71d030301527da7d6357140a09677c5d3bf68e117a2aa2ce4",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1009623&param=informatie",
-  "as_of": "2013-08-09",
+  "as_of": "2016-08-29",
   "made": "2002-07-05",
   "gazette": "2002-08-31",
   "numac": 2002036103,
   "document_start": "2003-01-01",
   "document_end": null,
-  "in_force": "2013-08-09",
+  "in_force": "2016-08-29",
   "article_versions": 33,
-  "record_form": "consolidated version as in force on 2013-08-09; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-08-29; future article versions excluded; article text as the API gives it"
 }

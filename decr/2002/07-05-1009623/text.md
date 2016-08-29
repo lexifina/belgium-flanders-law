@@ -42,7 +42,20 @@ Voor elke maatstaf worden de recentste waarden in aanmerking genomen waarover de
 
 ### ART. 10.
 
-§ 1. De toepassing van dit decreet mag er niet toe leiden dat een gemeente minder ontvangt dan de som van:<br /><br />1° het aandeel uit het Gemeentefonds 2002, exclusief een eventueel uitzonderlijk aanvullend aandeel;<br /><br />2° het toegekend trekkingsrecht uit het Investeringsfonds 2002, exclusief een eventueel uitzonderlijk aanvullend trekkingsrecht;<br /><br />3° het voor 2002 gewaarborgde aandeel uit het Sociaal Impulsfonds;<br /><br />4° het gedeelte boven de waarborg uit het Sociaal Impulsfonds 2002 voor de gemeenten die in 2002 een aandeel ontvingen dat hoger lag dan het voor 2002 gewaarborgde aandeel, en die niet behoren tot de groep van de centrumsteden volgens artikel 6, § 1, 1°, a, b en c , van dit decreet.<br /><br />§ 2. De berekende aandelen van de gemeenten die lager liggen dan de hierboven gewaarborgde ontvangst, worden verhoogd door afneming van de daarvoor noodzakelijke bedragen op de aandelen van de gemeenten die hoger liggen dan de gewaarborgde ontvangst. De afneming gebeurt in verhouding tot de bedragen waarmee de aandelen van die gemeenten de gewaarborgde ontvangst overstijgen.
+§ 1. De toepassing van dit decreet mag er niet toe leiden dat een gemeente minder ontvangt dan de som van:<br>
+1° het aandeel uit het Gemeentefonds 2002, exclusief een eventueel uitzonderlijk aanvullend aandeel;<br>
+2° het toegekend trekkingsrecht uit het Investeringsfonds 2002, exclusief een eventueel uitzonderlijk aanvullend trekkingsrecht;<br>
+3° het voor 2002 gewaarborgde aandeel uit het Sociaal Impulsfonds;<br>
+4° het gedeelte boven de waarborg uit het Sociaal Impulsfonds 2002 voor de gemeenten die in 2002 een aandeel ontvingen dat hoger lag dan het voor 2002 gewaarborgde aandeel, en die niet behoren tot de groep van de centrumsteden volgens artikel 6, § 1, 1°, a, b en c , van dit decreet.<br>
+<br>
+§ 1/1. De toepassing van dit decreet mag er, ingeval van een samenvoeging van gemeenten, niet toe leiden dat de nieuwe gemeenten minder ontvangen dan de som van de aandelen van de samen te voegen gemeenten of delen van gemeenten in het jaar dat voorafgaat aan de samenvoeging. Als de samenvoeging gepaard gaat met de opsplitsing van een of meer gemeenten, dan wordt voor de berekening van de gewaarborgde ontvangst van de nieuwe gemeenten het aandeel van de op te splitsen gemeenten in het jaar dat voorafgaat aan de samenvoeging eveneens opgesplitst, in dezelfde verhouding als de inwonersaantallen van de opgesplitste delen.<br>
+<br>
+De in het eerste lid gewaarborgde ontvangst voor de nieuwe gemeenten wordt, met ingang van het jaar van de samenvoeging, elk jaar geïndexeerd. De indexatie is cumulatief.<br>
+<br>
+De overeenkomstig het tweede lid toe te passen index is gedurende elk jaar van de eerste bestuursperiode van de nieuwe gemeenten gelijk aan het rekenkundig gemiddelde van de percentages waarmee de aandelen van de samen te voegen gemeenten wijzigen in het laatste jaar voorafgaand aan de samenvoeging ten opzichte van het voorlaatste jaar voorafgaand aan de samenvoeging.<br>
+Vanaf het eerste jaar van de tweede bestuursperiode is de toe te passen index gelijk aan de in het derde lid vermelde index, met als maximum het evolutiepercentage van de dotatie, vermeld in artikel 3.<br>
+<br>
+§ 2. De berekende aandelen van de gemeenten die lager liggen dan de in paragraaf 1 en in paragraaf 1/1 gewaarborgde ontvangst, worden verhoogd door afneming van de daarvoor noodzakelijke bedragen op de aandelen van de gemeenten die hoger liggen dan de gewaarborgde ontvangst. De afneming gebeurt in verhouding tot de bedragen waarmee de aandelen van die gemeenten de gewaarborgde ontvangst overstijgen.
 
 ### ART. 11.
 
