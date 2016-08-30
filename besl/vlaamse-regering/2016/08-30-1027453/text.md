@@ -96,6 +96,10 @@ De minimale duur van de verplichte leerlingenstage tijdens het laatste jaar van 
 
 ## HOOFDSTUK 12 Wijzigingen van het besluit van de Vlaamse Regering van 8 november 2013 betreffende de subsidiëring van voortrajecten binnen het stelsel van leren en werken in de Vlaamse Gemeenschap voor de schooljaren 2013-2014, 2014-2015 en 2015-2016
 
+### ART 29.
+
+In artikel 3 van hetzelfde besluit, gewijzigd bij de besluiten van de Vlaamse Regering van 20 juni 2014 en 10 juli 2015, wordt het jaartal "2016" vervangen door het jaartal "2017".
+
 ## HOOFDSTUK 13 Wijzigingen van het besluit van de Vlaamse Regering van 26 juni 2015 betreffende de studiesanctionering in opleidingsvorm 1 en 2
 
 ### ART 30.
