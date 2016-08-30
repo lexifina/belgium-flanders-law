@@ -14,7 +14,7 @@
 
 ### ART. 3.
 
-&nbsp;Dit besluit heeft uitwerking met ingang van 1 september 2013 en houdt op uitwerking te hebben op 31 augustus 2016.
+&nbsp;Dit besluit heeft uitwerking met ingang van 1 september 2013 en houdt op uitwerking te hebben op 31 augustus 2017.
 
 ### ART. 4.
 
