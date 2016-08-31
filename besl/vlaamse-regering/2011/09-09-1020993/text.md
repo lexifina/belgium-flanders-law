@@ -6,6 +6,10 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 27 maart 1991 betreffen
 
 ## HOOFDSTUK 1 Toepassingsgebied
 
+### ART 1/1.
+
+In afwijking van artikel 12 en 13 kunnen de stelsels van loopbaanonderbreking, vermeld in hoofdstuk 2, uiterlijk ingaan op 1 september 2016.
+
 ### ART. 1.
 
 <P>§ 1. Dit besluit is van toepassing op : <BR>1° de personeelsleden, vermeld in   artikel 2, § 1 van het decreet van 27 maart 1991 betreffende de rechtspositie   van bepaalde personeelsleden van het gemeenschapsonderwijs;<BR>2° de   personeelsleden, vermeld in artikel 4, § 1 van het decreet van 27 maart 1991   betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd   onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<BR>3° de leden   van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009   betreffende de kwaliteit van onderwijs;<BR>4° de personeelsleden, vermeld in   artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de   begeleiding van de levensbeschouwelijke vakken.</P>  <P>§ 2. De bepalingen van hoofdstuk 3, afdeling 1, afdeling 2 en afdeling 4,   over de loopbaanonderbreking voor ouderschapsverlof en de loopbaanonderbreking   voor medische bijstand, zijn ook van toepassing op de contractuele   personeelsleden van het onderwijs en van de centra voor leerlingenbegeleiding,   voor zover ze vallen onder het toepassingsgebied van het koninklijk besluit van   2 januari 1991 betreffende de toekenning van   onderbrekingsuitkeringen.<BR></P>
