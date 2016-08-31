@@ -4,7 +4,15 @@
 
 ### ART. 1.
 
-<P>Tenzij anders is bepaald, zijn de bepalingen van dit besluit van toepassing   op de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse   Gemeenschap en van de Hogere Zeevaartschool, die behoren tot de categorieën van   het onderwijzend, het bestuurs- en onderwijzend of van het administratief en   technisch personeel.<BR><BR>Dit besluit is eveneens van toepassing op de   personeelsleden:<BR>- die hun ambt op persoonlijke titel hebben behouden met   toepassing van de artikelen 326bis, 333, 334, § 1 en 335, § 2 van het decreet   van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap,<BR>-   bedoeld in artikel 36, § 1, punten 1 tot en met 3, van het decreet van 14 maart   2008 betreffende de financiering van de werking van de hogescholen en de   universiteiten in Vlaanderen, die benoemd waren aan een hogeschool.</P>  <P>De bepalingen in hoofdstuk 2, afdeling 2, subafdeling 3 en 4, over het   ouderschapsverlof en de loopbaanonderbreking voor de verzorging van een ziek   gezinslid of ziek familielid zijn ook van toepassing op de contractuele   personeelsleden van de publiekrechtelijke hogescholen&nbsp;en de rechtsopvolgers   van deze hogescholen.</P>
+<p>Tenzij anders is bepaald, zijn de bepalingen van dit besluit van toepassing op de tijdelijke en de benoemde personeelsleden van de hogescholen in de Vlaamse Gemeenschap en van de Hogere Zeevaartschool, die behoren tot de categorieën van het onderwijzend, het bestuurs- en onderwijzend of van het administratief en technisch personeel.<br>
+<br>
+Dit besluit is eveneens van toepassing op de personeelsleden:<br>
+- die hun ambt op persoonlijke titel hebben behouden met toepassing van de artikelen 326bis, 333, 334, § 1 en 335, § 2 van het decreet van 13 juli 1994 betreffende de hogescholen in de Vlaamse Gemeenschap,<br>
+- bedoeld in artikel 36, § 1, punten 1 tot en met 3, van het decreet van 14 maart 2008 betreffende de financiering van de werking van de hogescholen en de universiteiten in Vlaanderen, die benoemd waren aan een hogeschool.</p>
+
+<p>De bepalingen in hoofdstuk 2, afdeling 2, subafdeling 3 en 4, over het ouderschapsverlof en de loopbaanonderbreking voor de verzorging van een ziek gezinslid of ziek familielid zijn ook van toepassing op de contractuele personeelsleden van de publiekrechtelijke hogescholen&nbsp;en de rechtsopvolgers van deze hogescholen.<br>
+<br>
+In afwijking van artikel 5, 11 en 17 kan een volledige of gedeeltelijke loopbaanonderbreking, een loopbaanonderbreking voor het volgen van een beroepsopleiding en een deeltijdse loopbaanonderbreking vanaf 55 jaar uiterlijk op 1 september 2016 ingaan.</p>
 
 ### ART. 1/1.
 
