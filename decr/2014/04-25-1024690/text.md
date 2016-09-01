@@ -130,6 +130,10 @@ De procedures, vermeld in dit decreet, en de procedures die door dit   decreet i
 
 ## Afdeling 30 Wijzigingen van het decreet van 12 juli 2013 betreffende het onroerend erfgoed
 
+### ART. 380.
+
+<p>...</p>
+
 ## Afdeling 31 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtcolleges
 
 ## Afdeling 1 Opheffingsbepalingen
