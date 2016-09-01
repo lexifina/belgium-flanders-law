@@ -477,7 +477,15 @@ De gegevensuitwisseling, vermeld in het tweede lid, kan alleen plaatsvinden na e
 
 ### ART. 78.
 
-<P>§ 1. De Vlaamse Regering organiseert het toezicht op de naleving van de   bepalingen in dit decreet en de uitvoeringsbesluiten ervan.<BR></P>  <P>De ambtenaren die met het toezicht belast zijn, hebben het recht elke   jeugdhulpaanbieder of andere persoon of voorziening die jeugdhulpverlening   aanbiedt, te bezoeken. De jeugdhulpaanbieders of andere personen of   voorzieningen die jeugdhulpverlening aanbieden, stellen aan die ambtenaren alle   gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die   ambtenaren toe om ter plaatse de naleving van de bepalingen, vermeld in het   eerste lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig   zijn.<BR></P>  <P>De ambtenaren, vermeld in het tweede lid, maken een verslag op van hun   toezichtsbezoek. Als een kopie van het verslag naar de voorziening gestuurd is,   hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.<BR></P>  <P>§ 2. Teneinde de rechtspositie van de minderjarige in de jeugdhulp te   garanderen organiseert de Vlaamse Regering, naast het toezicht zoals vermeld in   § 1, een extern toezicht op de toegangspoort, het ondersteuningscentrum, de   sociale dienst gerechtelijke jeugdhulp en de gemeenschapsinstellingen en een   klachtenrecht voor minderjarigen, ouders, opvoedingsverantwoordelijken en   vertrouwenspersonen van minderjarigen.</P>
+<p>§ 1. De Vlaamse Regering organiseert het toezicht op de naleving van de bepalingen in dit decreet en de uitvoeringsbesluiten ervan.</p>
+
+<p>De ambtenaren die met het toezicht belast zijn, hebben het recht elke jeugdhulpaanbieder of andere persoon of voorziening die jeugdhulpverlening aanbiedt, te bezoeken. De jeugdhulpaanbieders of andere personen of voorzieningen die jeugdhulpverlening aanbieden, stellen aan die ambtenaren alle gegevens ter beschikking die voor het toezicht noodzakelijk zijn. Ze staan die ambtenaren toe om ter plaatse de naleving van de bepalingen, vermeld in het eerste lid, te verifiëren en alle stappen te ondernemen die daarvoor nodig zijn.</p>
+
+<p>De ambtenaren, vermeld in het tweede lid, maken een verslag op van hun toezichtsbezoek. Als een kopie van het verslag naar de voorziening gestuurd is, hebben deze verslagen bewijswaarde tot het bewijs van het tegendeel.</p>
+
+<p>§ 2. Teneinde de rechtspositie van de minderjarige in de jeugdhulp te garanderen organiseert de Vlaamse Regering, naast het toezicht zoals vermeld in § 1, een extern toezicht op de toegangspoort, het ondersteuningscentrum, de sociale dienst gerechtelijke jeugdhulp en de gemeenschapsinstellingen en een klachtenrecht voor minderjarigen, ouders, opvoedingsverantwoordelijken en vertrouwenspersonen van minderjarigen.<br>
+<br>
+§ 3. In afwijking van de paragrafen 1 en 2, werkt de zorginspectie voor het toezicht samen met de onderwijsinspectie, vermeld in artikel 38, § 1, tweede lid, van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs, voor zover het een centrum voor leerlingenbegeleiding betreft.</p>
 
 ## [HOOFDSTUK 14/1. Private voorzieningen (ing. decr. 15 maart 2019, art. 37, I: 14 april 2019)]
 
