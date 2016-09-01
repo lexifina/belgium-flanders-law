@@ -18,7 +18,21 @@ Per homogeen beleidsdomein wordt een Vlaams ministerie opgericht. Een   Vlaams m
 
 ### ART. 4.
 
-§ 1. De beleidsondersteunende taken worden toevertrouwd aan de   departementen.<BR><BR>In afwijking van het eerste lid kunnen   beleidsondersteunende taken toevertrouwd worden aan intern verzelfstandigde   agentschappen of publiekrechtelijk vormgegeven extern verzelfstandigde   agentschappen als dat de kostenefficiëntie van de beleids- en beheerscyclus van   dat beleidsveld verhoogt..<BR><BR>§ 2. Taken van beleidsuitvoering worden   toevertrouwd aan intern of extern verzelfstandigde agentschappen wanneer voldaan   is aan de volgende cumulatieve voorwaarden:<BR>1° voldoende massa   uitvoeringstaken voor het verzelfstandigde agentschap;<BR>2° meetbaarheid van de   door het verzelfstandigde agentschap te leveren producten of diensten;<BR>3°   reële mogelijkheid tot aansturing van het verzelfstandigde agentschap op grond   van doelmatigheid, prestaties en kwaliteit;<BR>4° reëel invulbare   informatierelatie.<BR><BR>In afwijking van het eerste lid kunnen taken van   beleidsuitvoering toevertrouwd worden aan de departementen als dat de   kostenefficiëntie van de beleids- en beheerscyclus van dat beleidsveld   verhoogt.<BR><BR>§ 3. Per homogeen beleidsdomein wordt tussen de minister, het   departement en de verzelfstandigde agentschappen een structurele samenspraak en   samenwerking uitgebouwd, met het oog op de optimale realisatie van de   beleidsdoelstellingen, en met respect voor ieders taakstelling en   verantwoordelijkheid. Vanuit hun taakstelling leveren de departementen en de   verzelfstandigde agentschappen beleidsgerichte input.
+§ 1. De beleidsondersteunende taken worden toevertrouwd aan de departementen.<br>
+<br>
+In afwijking van het eerste lid kunnen beleidsondersteunende taken toevertrouwd worden aan intern verzelfstandigde agentschappen of publiekrechtelijk vormgegeven extern verzelfstandigde agentschappen als dat de kostenefficiëntie van de beleids- en beheerscyclus van dat beleidsveld verhoogt..<br>
+<br>
+§ 2. Taken van beleidsuitvoering worden toevertrouwd aan intern of extern verzelfstandigde agentschappen wanneer voldaan is aan de volgende cumulatieve voorwaarden:<br>
+1° voldoende massa uitvoeringstaken voor het verzelfstandigde agentschap;<br>
+2° meetbaarheid van de door het verzelfstandigde agentschap te leveren producten of diensten;<br>
+3° reële mogelijkheid tot aansturing van het verzelfstandigde agentschap op grond van doelmatigheid, prestaties en kwaliteit;<br>
+4° reëel invulbare informatierelatie.<br>
+<br>
+In afwijking van het eerste lid kunnen taken van beleidsuitvoering toevertrouwd worden aan de departementen als dat de kostenefficiëntie van de beleids- en beheerscyclus van dat beleidsveld verhoogt.<br>
+<br>
+In afwijking van het eerste en het tweede lid, kan de Vlaamse Regering in uitzonderlijke gevallen specifieke taken van beleidsuitvoering binnen een of meerdere specifieke beleidsvelden van een beleidsdomein tijdelijk toevertrouwen aan een departement van een ander beleidsdomein.<br>
+<br>
+§ 3. Per homogeen beleidsdomein wordt tussen de minister, het departement en de verzelfstandigde agentschappen een structurele samenspraak en samenwerking uitgebouwd, met het oog op de optimale realisatie van de beleidsdoelstellingen, en met respect voor ieders taakstelling en verantwoordelijkheid. Vanuit hun taakstelling leveren de departementen en de verzelfstandigde agentschappen beleidsgerichte input.
 
 ### ART. 5.
 
