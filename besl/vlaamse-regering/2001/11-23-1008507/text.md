@@ -84,7 +84,7 @@ De subsidie, geregeld in dit hoofdstuk, is verenigbaar met de subsidie,   vermel
 
 ### ART. 18.
 
-Het departement en het agentschap Inspectie RWO voeren, ieder wat zijn eigen bevoegdheid betreft, de controle uit op de naleving van de voorwaarden, gesteld in dit besluit.
+Het departement voert de controle uit op de naleving van de voorwaarden gesteld in dit besluit.
 
 ## HOOFDSTUK VI OVERGANGS- EN SLOTBEPALINGEN
 
