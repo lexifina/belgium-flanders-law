@@ -2,16 +2,16 @@
   "codex_id": 1021222,
   "title": "Besluit van de Vlaamse Regering van 2011-12-23 houdende de organisatie van het toezicht, vermeld in artikel 29bis van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021222/VolledigDocument?datum=2014-03-29",
-  "source_sha256": "36f43c44a3f285c8d6ce5c417a7c03545b82d3f80ba12470aa5a86f0540c4a27",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1021222/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "5084ae66c38a3f247fcb7ec03928e019c31c768bec01e01b2226d27408ce3ab8",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1021222&param=informatie",
-  "as_of": "2014-03-29",
+  "as_of": "2016-09-01",
   "made": "2011-12-23",
   "gazette": "2012-02-02",
   "numac": 2012200561,
   "document_start": "2012-02-12",
   "document_end": "2020-12-31",
-  "in_force": "2014-03-29",
+  "in_force": "2016-09-01",
   "article_versions": 19,
-  "record_form": "consolidated version as in force on 2014-03-29; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }

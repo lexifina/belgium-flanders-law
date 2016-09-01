@@ -35,13 +35,28 @@ Besluit :<br>
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° beveiligde zending : een van de hiernavolgende betekeningswijzen : <br />a) een aangetekende brief; <br />b) een afgifte tegen ontvangstbewijs; <br />c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br />2° erkende huurdienst : een huurdersorganisatie of sociaal verhuurkantoor, dat overeenkomstig artikel 56 van de Vlaamse Wooncode erkend is als huurdienst;<br />3° erkende kredietmaatschappij : de maatschappij of instelling, vermeld in artikel 78, § 1, eerste lid, 1°, van de Vlaamse Wooncode;<br />4° Inspectie RWO : het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO, opgericht bij het besluit van de Vlaamse Regering van 10 november 2005;<br />5° minister : de Vlaamse minister, bevoegd voor Woonbeleid;<br />6° sociale woonactoren : de organisaties, vermeld in artikel 29bis, § 1, eerste lid, van de Vlaamse Wooncode;<br />7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis, § 1, eerste lid van de Vlaamse Wooncode;<br />8° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode. <br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° beveiligde zending : een van de hiernavolgende betekeningswijzen :<br>
+a) een aangetekende brief;<br>
+b) een afgifte tegen ontvangstbewijs;<br>
+c) elke andere door de minister toegestane betekeningswijze waarbij de datum van kennisgeving met zekerheid kan worden vastgesteld;<br>
+2° erkende huurdienst : een huurdersorganisatie of sociaal verhuurkantoor, dat overeenkomstig artikel 56 van de Vlaamse Wooncode erkend is als huurdienst;<br>
+3° erkende kredietmaatschappij : de maatschappij of instelling, vermeld in artikel 78, § 1, eerste lid, 1°, van de Vlaamse Wooncode;<br>
+4° afdeling Toezicht: de afdeling toezicht van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen, opgericht bij het besluit van de Vlaamse Regering van 16 december 2005;<br>
+5° minister : de Vlaamse minister, bevoegd voor Woonbeleid;<br>
+6° sociale woonactoren : de organisaties, vermeld in artikel 29bis, § 1, eerste lid, van de Vlaamse Wooncode;<br>
+7° toezichthouder : de toezichthouder voor de sociale huisvesting, vermeld in artikel 29bis, § 1, eerste lid van de Vlaamse Wooncode;<br>
+8° Vlaamse Wooncode : het decreet van 15 juli 1997 houdende de Vlaamse Wooncode.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Profiel, statuut en ambtsgebied van de toezichthouder
 
 ### ART. 2.
 
-Het afdelingshoofd van de afdeling Toezicht van Inspectie RWO oefent de   functie uit van toezichthouder. De overige toezichthouders worden aangesteld   onder de ambtenaren van niveau A van Inspectie RWO die minstens één jaar hebben   gewerkt bij de afdeling Toezicht van Inspectie RWO.<BR><BR>De ambtenaren die tot   toezichthouder werden aangesteld, blijven in die hoedanigheid onderworpen aan de   bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende   vaststelling van de rechtspositie van het personeel van de diensten van de   Vlaamse Overheid.<BR><BR>
+Het afdelingshoofd van de afdeling Toezicht oefent de functie uit van toezichthouder. De overige toezichthouders worden aangesteld onder de ambtenaren van niveau A die minstens één jaar hebben gewerkt bij de afdeling Toezicht.<br>
+<br>
+De ambtenaren die tot toezichthouder werden aangesteld, blijven in die hoedanigheid onderworpen aan de bepalingen van het besluit van de Vlaamse Regering van 13 januari 2006 houdende vaststelling van de rechtspositie van het personeel van de diensten van de Vlaamse Overheid.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -75,7 +90,19 @@ Als de toezichthouder, overeenkomstig artikel 29bis, § 6, van de Vlaamse Woonco
 
 ### ART. 10.
 
-§ 1. De ingebrekestelling, vermeld in artikel 29bis, § 7, van de Vlaamse Wooncode bevat : <br />1° de uiteenzetting van de feiten, van welke bepalingen die feiten een overtreding vormen en, in voorkomend geval, een lijst van de documenten waarop de ingebrekestelling is gebaseerd;<br />2° de melding dat een voortzetting van de overtreding of een overtreding van dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling aanleiding geeft tot een administratieve geldboete;<br />3° de melding dat de in gebreke gestelde sociale woonactor een schriftelijk verweerschrift kan indienen.<br /><br />De ingebrekestelling wordt met een beveiligde zending bezorgd.<br /><br />§ 2. Het verweerschrift, vermeld in artikel 29bis, § 7, derde lid, van de Vlaamse Wooncode, wordt op straffe van onontvankelijkheid ingediend met een beveiligde zending, gericht aan de toezichthouder op het adres van de Inspectie RWO.<br /><br />Het verweerschrift moet, op straffe van onontvankelijkheid, binnen dertig kalenderdagen na de ingebrekestelling, ingediend worden. De termijn om een verweerschrift in te dienen begint te lopen de dag na de kennisname van de ingebrekestelling.<br /><br />§ 3. Als er geen verweer wordt gevoerd of de toezichthouder het verweer onontvankelijk of ongegrond acht, en de overtreding, vermeld in de ingebrekestelling, gehandhaafd blijft, kan de toezichthouder een administratieve geldboete opleggen binnen een vervaltermijn van drie maanden na de datum van de ingebrekestelling, vermeld in § 1, maar op zijn vroegst dertig kalenderdagen na de ingebrekestelling. Die vervaltermijn van drie maanden geldt niet voor het opleggen van een administratieve geldboete voor een overtreding van dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling.<br /><br />
+§ 1. De ingebrekestelling, vermeld in artikel 29bis, § 7, van de Vlaamse Wooncode bevat :<br>
+1° de uiteenzetting van de feiten, van welke bepalingen die feiten een overtreding vormen en, in voorkomend geval, een lijst van de documenten waarop de ingebrekestelling is gebaseerd;<br>
+2° de melding dat een voortzetting van de overtreding of een overtreding van dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling aanleiding geeft tot een administratieve geldboete;<br>
+3° de melding dat de in gebreke gestelde sociale woonactor een schriftelijk verweerschrift kan indienen.<br>
+<br>
+De ingebrekestelling wordt met een beveiligde zending bezorgd.<br>
+<br>
+§ 2. Het verweerschrift, vermeld in artikel 29bis, § 7, derde lid, van de Vlaamse Wooncode, wordt op straffe van onontvankelijkheid ingediend met een beveiligde zending, gericht aan de toezichthouder op het adres van de afdeling Toezicht.<br>
+<br>
+Het verweerschrift moet, op straffe van onontvankelijkheid, binnen dertig kalenderdagen na de ingebrekestelling, ingediend worden. De termijn om een verweerschrift in te dienen begint te lopen de dag na de kennisname van de ingebrekestelling.<br>
+<br>
+§ 3. Als er geen verweer wordt gevoerd of de toezichthouder het verweer onontvankelijk of ongegrond acht, en de overtreding, vermeld in de ingebrekestelling, gehandhaafd blijft, kan de toezichthouder een administratieve geldboete opleggen binnen een vervaltermijn van drie maanden na de datum van de ingebrekestelling, vermeld in § 1, maar op zijn vroegst dertig kalenderdagen na de ingebrekestelling. Die vervaltermijn van drie maanden geldt niet voor het opleggen van een administratieve geldboete voor een overtreding van dezelfde reglementaire bepalingen als vermeld in de ingebrekestelling.<br>
+&nbsp;
 
 ### ART. 11.
 
