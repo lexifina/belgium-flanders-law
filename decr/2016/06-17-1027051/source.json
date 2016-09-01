@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027051,
+  "title": "Decreet van 2016-06-17 houdende huur van korte duur voor handel en ambacht",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027051/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "80395757ec2d462231048d3e4ade48c638d96f0709044a85c516d959c6c1b3b6",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027051&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-06-17",
+  "gazette": "2016-07-26",
+  "numac": 2016036108,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 20,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
