@@ -1,5 +1,24 @@
 # Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van diverse besluiten, wat betreft de bezoldigingsregeling van sommige personeelsleden van het onderwijs en wat betreft de nuttige ervaring als bekwaamheidsbewijs
 
+### Aanhef
+
+De Vlaamse Regering,<br>
+Gelet op het decreet rechtspositie personeelsleden gemeenschapsonderwijs van 27 maart 1991, artikel 5;<br>
+Gelet op het decreet rechtspositie personeelsleden gesubsidieerd onderwijs van 27 maart 1991, artikel 7;<br>
+Gelet op het decreet van 28 april 1993 betreffende het onderwijs IV, artikel 98, § 1;<br>
+Gelet op het decreet van 13 juli 2001 betreffende het onderwijs XIII-Mozaïek, artikel IX.2, § 3 en artikel IX.3;<br>
+Gelet op het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs;<br>
+Gelet op het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs;<br>
+Gelet op het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan;<br>
+Gelet op het besluit van de Vlaamse regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs;<br>
+Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 25 mei 2016;<br>
+Gelet op protocol nr. 35 van 17 juni 2016 houdende de conclusies van de onderhandelingen die werden gevoerd in de gemeenschappelijke vergadering van Sectorcomité X, van onderafdeling Vlaamse Gemeenschap van afdeling 2 van het Comité voor de provinciale en plaatselijke overheidsdiensten en van het overkoepelend onderhandelingscomité, vermeld in het decreet van 5 april 1995 tot oprichting van onderhandelingscomités in het vrij gesubsidieerd onderwijs;<br>
+Gelet op protocol nr. 59 van 17 juni 2016 houdende de conclusies van de onderhandelingen die werden gevoerd in het Vlaams Onderhandelingscomité voor de Basiseducatie, vermeld in het decreet van 23 januari 2009 houdende oprichting van onderhandelingscomités voor de basiseducatie en het Vlaams Ondersteuningscentrum voor het Volwassenenonderwijs;<br>
+Gelet op advies 59.648/1/V van de Raad van State, gegeven op 29 juli 2016, met toepassing van artikel 84, § 1, eerste lid, 2° van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;<br>
+Op voorstel van de Vlaamse minister van Onderwijs;<br>
+Na beraadslaging,<br>
+Besluit :
+
 ## HOOFDSTUK 1. Wijzigingen van het koninklijk besluit van 15 april 1958 houdende bezoldigingsregeling van het onderwijzend, wetenschappelijk en daarmee gelijkgesteld personeel van het Ministerie van Openbaar Onderwijs
 
 ## HOOFDSTUK 2. Wijzigingen van het koninklijk besluit van 1 december 1970 houdende bezoldigingsregeling van het administratief personeel, het meesters-, vak- en dienstpersoneel van de rijksinrichtingen voor kleuteronderwijs, voor lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs
@@ -26,6 +45,30 @@ In artikel 32 van hetzelfde besluit wordt de zinsnede "de artikelen 26 en 27" ve
 
 ## HOOFDSTUK 3. Wijzigingen van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan.
 
+### ART 5.
+
+In artikel 7, § 3, van het koninklijk besluit nr. 63 van 20 juli 1982 houdende wijziging van de bezoldigingsregels van toepassing op het onderwijzend en daarmee gelijkgesteld personeel van het onderwijs met volledig leerplan en van het onderwijs voor sociale promotie of met beperkt leerplan, worden de volgende wijzigingen aangebracht:<br>
+1° in het tweede lid wordt punt 4° opgeheven;<br>
+2° het derde lid wordt opgeheven.
+
 ## HOOFDSTUK 4. Wijzigingen van het besluit van de Vlaamse regering van 7 oktober 1997
 
+### ART 6.
+
+In artikel 5 van het besluit van de Vlaamse regering van 7 oktober 1997 betreffende de nuttige ervaring als bekwaamheidsbewijs voor personeelsleden van het onderwijs, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2010, wordt paragraaf 1 opgeheven.
+
+### ART 7.
+
+In artikel 8, eerste lid, 1°, van hetzelfde besluit, gewijzigd bij het besluit van de Vlaamse Regering van 12 maart 2010, wordt punt g) opgeheven.
+
 ## HOOFDSTUK 5. Slotbepalingen
+
+### ART 8.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2016, met uitzondering van artikel 1 en artikel 2 die in werking treden op 1 januari 2017.<br>
+<br>
+Artikel 3 en artikel 4 hebben uitwerking met ingang van 1 september 1999.
+
+### ART 9.
+
+De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van dit besluit.

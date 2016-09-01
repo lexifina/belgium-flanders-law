@@ -2,16 +2,16 @@
   "codex_id": 1027474,
   "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van diverse besluiten, wat betreft de bezoldigingsregeling van sommige personeelsleden van het onderwijs en wat betreft de nuttige ervaring als bekwaamheidsbewijs",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027474/VolledigDocument?datum=1999-09-01",
-  "source_sha256": "3a9fe46411c51108e777a4cafeda6c428cff6d3062074828427a1b58a1ce0e57",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027474/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "9dacda2c51730e391faf12eb9c51cade41bbaade0283c6d8709e45f8b0b652d7",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027474&param=informatie",
-  "as_of": "1999-09-01",
+  "as_of": "2016-09-01",
   "made": "2016-09-09",
   "gazette": "2016-10-13",
   "numac": 2016036453,
   "document_start": "2016-09-01",
   "document_end": null,
-  "in_force": "1999-09-01",
-  "article_versions": 2,
-  "record_form": "consolidated version as in force on 1999-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "in_force": "2016-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
