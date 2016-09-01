@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027149,
+  "title": "Decreet van 2016-07-08 houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen de Regering van het Koninkrijk België en de Regering van de Republiek Turkije, ondertekend te Ankara op 11 april 2014",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027149/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "2aca669c8c05558d1ac025f654e6e3a49ae42115686703880801986670983790",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027149&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-08",
+  "gazette": "2016-08-22",
+  "numac": 2016036203,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
