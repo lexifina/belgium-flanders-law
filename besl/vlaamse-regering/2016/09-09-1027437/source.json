@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027437,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van artikel 3 van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag voor toegang tot het geïntegreerd onderwijs en van het attest bij het verslag voor toegang tot het buitengewoon onderwijs en tot opheffing van het besluit van de Vlaamse Regering van 12 december 2003 betreffende de inclusie van leerlingen met een verstandelijke beperking in het gewoon lager en secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027437/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "bd3a59d73d2c5ae12541b3815b969e00f63b78464bc80a9e7e9fb07800c87fa5",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027437&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-09-09",
+  "gazette": "2016-09-27",
+  "numac": 2016036429,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
