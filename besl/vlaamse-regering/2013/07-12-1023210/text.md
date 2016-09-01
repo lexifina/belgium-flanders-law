@@ -118,11 +118,51 @@ Met behoud van de toepassing van artikel 17, § 1, en artikel 42, telt een   cen
 
 ### ART. 20.
 
-<P>Om te beantwoorden aan de vereisten van de elektronische   informatie-uitwisseling, vermeld in artikel 17, § 1, tweede lid, 3°, moet een   centrum :<BR>1° een gespecialiseerde medewerker hebben die belast is met de   organisatie van de elektronische informatie-uitwisseling;<BR>2° elektronisch de   informatie aanleveren die door Syntra Vlaanderen wordt opgevraagd, als die   informatie aansluit bij de bepalingen van het decreet van 7 mei 2004 en de   uitvoeringsbesluiten ervan;<BR>3° de kwaliteit garanderen van de informatie die   elektronisch aangeleverd wordt. De kwaliteit van de informatie betreft de   volledigheid, de juistheid, de tijdigheid, de integriteiten vormvereisten die   Syntra Vlaanderen oplegt.<BR></P>  <P>Na overleg met de centra kan Syntra Vlaanderen de vereisten, vermeld in het   eerste lid, nader preciseren of concretiseren.<BR></P>
+<p>Om te beantwoorden aan de vereisten van de elektronische informatie-uitwisseling, vermeld in artikel 17, § 1, tweede lid, 3°, moet een centrum :<br>
+1° een gespecialiseerde medewerker hebben die belast is met de organisatie van de elektronische informatie-uitwisseling;<br>
+2° elektronisch de informatie aanleveren die door Syntra Vlaanderen wordt opgevraagd in de format die door Syntra Vlaanderen wordt opgelegd;<br>
+3° de kwaliteit garanderen van de informatie die elektronisch aangeleverd wordt. De kwaliteit van de informatie betreft de volledigheid, de juistheid, de tijdigheid, de integriteiten vormvereisten die Syntra Vlaanderen oplegt.</p>
+
+<p>Na overleg met de centra kan Syntra Vlaanderen de vereisten, vermeld in het eerste lid, nader preciseren of concretiseren.</p>
 
 ### ART. 21.
 
-<P>§ 1. Het organisatieplan, vermeld in artikel 6, § 2, 3°, van het decreet van   7 mei 2004, is een meerjarenplan, opgemaakt door een centrum, dat voor de duur   en de inhoud afgestemd is op de beheersovereenkomst van Syntra Vlaanderen, en   dat de volgende beleidsmatige doelstellingen programmeert :<BR>1° een toetsing   van de geplande opleidingen aan de missie, de visie en de strategische   doelstellingen van Syntra Vlaanderen;<BR>2° een visie op en strategie van het   opleidingsaanbod, gepland in de leertijd en de ondernemerschapstrajecten;<BR>3°   een visie op en strategie van de geplande activiteiten voor de pedagogische   organisatie en coördinatie, vermeld in artikel 6, § 6, van het besluit van 31   juli 1991;<BR>4° een visie op en strategie van de geplande Europese of andere   subsidieerbare projecten, met opgave van de betrokken partners en de   vastgestelde cofinanciering;<BR>5° een visie op en strategie van de geplande   initiatieven op het vlak van de pedagogische begeleiding en de   voortgangscontrole van de leerlingen en cursisten;<BR>6° een visie op en   strategie van de initiatieven voor nieuwe of specifieke doelgroepen;<BR>7° een   visie op en strategie van de geplande investeringen op het vlak van de   uitrusting, opgesplitst in nieuwe en bestaande opleidingen;<BR>8° een visie op   en strategie op de financiële haalbaarheid van het organisatieplan.<BR></P>  <P>Het organisatieplan, vermeld in het eerste lid, wordt goedgekeurd door de   raad van bestuur. De raad van bestuur houdt daarbij rekening met :<BR>1° de   criteria, vermeld in het eerste lid;<BR>2° de conformiteit met de   beheersovereenkomst en de daaruit volgende samenwerkingsovereenkomst tussen   Syntra Vlaanderen en het centrum.<BR></P>  <P>§ 2. Met toepassing van een model, vastgelegd door Syntra Vlaanderen,   uiterlijk op 15 januari van het jaar in kwestie, dient het centrum jaarlijks,   uiterlijk op 15 mei, een jaarplan voor het komende cursusjaar in bij Syntra   Vlaanderen. Met het oog op het tweede semester van hetzelfde cursusjaar kan een   aanvullend jaarplan ingediend worden op uiterlijk 15 december.<BR></P>  <P>Het jaarplan en het aanvullende jaarplan, vermeld in het eerste lid, is   gebaseerd op de beleidsmatige doelstellingen van het organisatieplan, vermeld in   paragraaf 1.<BR></P>  <P>Het jaarplan en het aanvullende jaarplan, vermeld in het eerste lid,   expliciteert en concretiseert de beleidsmatige doelstellingen voor het volgende   cursusjaar.<BR></P>  <P>§ 3. Binnen dertig dagen na de ontvangst van het jaarplan of het aanvullende   jaarplan geeft Syntra Vlaanderen een gemotiveerd advies aan de raad van bestuur   van het centrum.<BR></P>  <P>De raad van bestuur houdt geen rekening met een laattijdig advies.<BR></P>  <P>§ 4. Uiterlijk op 30 juni van het jaar van indiening geeft de raad van   bestuur zijn goedkeuring of verwerpt hij het jaarplan, respectievelijk het   aanvullende jaarplan.<BR></P>  <P>§ 5. Bij een laattijdige indiening of een verwerping van het jaarplan schort   de raad van bestuur de uitbetaling op van de eerstvolgende schijven van de   subsidie leertijd en van de subsidie ondernemerschapstrajecten.<BR></P>  <P>De opschorting wordt opgeheven op het ogenblik dat een jaarplan of een   aanvullend jaarplan wordt goedgekeurd.<BR></P>  <P>§ 6. Voor de opleidingen, vermeld in paragraaf 1, die niet in het jaarplan of   het aanvullende jaarplan zijn opgenomen, kunnen alleen cursussen worden erkend   door Syntra Vlaanderen als het centrum het ontbreken ervan gegrond   motiveert.<BR></P>  <P>Uiterlijk één maand na de indiening van een aanvraag tot erkenning van de   cursus beslist Syntra Vlaanderen over de gegrondheid van de motivering :<BR>1°   bij een aanvaarding wordt de erkenningsprocedure van de cursus voortgezet;<BR>2°   bij een verwerping kan het centrum het dossier aanhangig maken bij de raad van   bestuur van Syntra Vlaanderen.<BR></P>  <P>De raad van bestuur beslist uiterlijk 45 dagen na de   aanhangigmaking.<BR></P>
+<p>§ 1. Het organisatieplan, vermeld in artikel 6, § 2, 3°, van het decreet van 7 mei 2004, is een meerjarenplan, opgemaakt door een centrum, dat voor de duur en de inhoud afgestemd is op de beheersovereenkomst van Syntra Vlaanderen, en dat de volgende beleidsmatige doelstellingen programmeert :<br>
+1° een toetsing van de geplande opleidingen aan de missie, de visie en de strategische doelstellingen van Syntra Vlaanderen;<br>
+2° een visie op en strategie van het opleidingsaanbod, gepland in de leertijd en de ondernemerschapstrajecten;<br>
+3° een visie op en strategie van de geplande activiteiten voor de pedagogische organisatie en coördinatie, vermeld in artikel 6, § 6, van het besluit van 31 juli 1991;<br>
+4° een visie op en strategie van de geplande Europese of andere subsidieerbare projecten, met opgave van de betrokken partners en de vastgestelde cofinanciering;<br>
+5° een visie op en strategie van de geplande initiatieven op het vlak van de pedagogische begeleiding en de voortgangscontrole van de leerlingen en cursisten;<br>
+6° een visie op en strategie van de initiatieven voor nieuwe of specifieke doelgroepen;<br>
+7° een visie op en strategie van de geplande investeringen op het vlak van de uitrusting, opgesplitst in nieuwe en bestaande opleidingen;<br>
+8° een visie op en strategie op de financiële haalbaarheid van het organisatieplan;<br>
+9° een visie op en strategie van de initiatieven en activiteiten die aansluiten bij flexibiliteit, innovatie, samenwerking tussen de centra, samenwerking en partnerschappen met derden, en werkplekleren.</p>
+
+<p>Het organisatieplan, vermeld in het eerste lid, wordt goedgekeurd door de raad van bestuur. De raad van bestuur houdt daarbij rekening met :<br>
+1° de criteria, vermeld in het eerste lid;<br>
+2° de conformiteit met de beheersovereenkomst en de daaruit volgende samenwerkingsovereenkomst tussen Syntra Vlaanderen en het centrum.</p>
+
+<p>§ 2. Met toepassing van een model, vastgelegd door Syntra Vlaanderen, uiterlijk op 15 januari van het jaar in kwestie, dient het centrum jaarlijks, uiterlijk op 15 mei, een jaarplan voor het komende cursusjaar in bij Syntra Vlaanderen. Met het oog op het tweede semester van hetzelfde cursusjaar kan een aanvullend jaarplan ingediend worden op uiterlijk 15 december.</p>
+
+<p>Het jaarplan en het aanvullende jaarplan, vermeld in het eerste lid, is gebaseerd op de beleidsmatige doelstellingen van het organisatieplan, vermeld in paragraaf 1.</p>
+
+<p>Het jaarplan en het aanvullende jaarplan, vermeld in het eerste lid, expliciteert en concretiseert de beleidsmatige doelstellingen voor het volgende cursusjaar.</p>
+
+<p>§ 3. Binnen dertig dagen na de ontvangst van het jaarplan of het aanvullende jaarplan geeft Syntra Vlaanderen een gemotiveerd advies aan de raad van bestuur van het centrum.</p>
+
+<p>De raad van bestuur houdt geen rekening met een laattijdig advies.</p>
+
+<p>§ 4. Uiterlijk op 30 juni van het jaar van indiening geeft de raad van bestuur zijn goedkeuring of verwerpt hij het jaarplan, respectievelijk het aanvullende jaarplan.</p>
+
+<p>§ 5. ...</p>
+
+<p>§ 6. Voor de opleidingen, vermeld in paragraaf 1, die niet in het jaarplan of het aanvullende jaarplan zijn opgenomen, kunnen alleen cursussen worden erkend door Syntra Vlaanderen als het centrum het ontbreken ervan gegrond motiveert.</p>
+
+<p>Uiterlijk één maand na de indiening van een aanvraag tot erkenning van de cursus beslist Syntra Vlaanderen over de gegrondheid van de motivering :<br>
+1° bij een aanvaarding wordt de erkenningsprocedure van de cursus voortgezet;<br>
+2° bij een verwerping kan het centrum het dossier aanhangig maken bij de raad van bestuur van Syntra Vlaanderen.</p>
+
+<p>De raad van bestuur beslist uiterlijk 45 dagen na de aanhangigmaking.</p>
 
 ## Afdeling 2 De subsidies
 
@@ -136,15 +176,52 @@ Met behoud van de toepassing van artikel 17, § 1, en artikel 42, telt een   cen
 
 ### ART. 24.
 
-<P>De subsidies, vermeld in artikel 22, derde lid, worden uitbetaald binnen de   beschikbare kredieten, vastgelegd in de algemene uitgavenbegroting van Syntra   Vlaanderen.<BR></P>  <P>Als de kredieten ontoereikend zijn, wordt :<BR>1° de subsidie leertijd,   vermeld in artikel 25, integraal uitbetaald;<BR>2° de subsidie   ondernemerschapstrajecten verminderd.<BR></P>
+<p>De subsidies, vermeld in artikel 22, derde lid, worden uitbetaald binnen de beschikbare kredieten, vastgelegd in de algemene uitgavenbegroting van Syntra Vlaanderen.</p>
+
+<p>Als de kredieten, vermeld in het eerste lid, ontoereikend zijn, wordt per centrum :<br>
+1° de productiesubsidie leertijd, vermeld in artikel 25, tweede lid, integraal uitbetaald;<br>
+2° de productiesubsidie ondernemerschapstrajecten, vermeld in artikel 26, tweede lid, verminderd.</p>
 
 ### ART. 25.
 
-<P>De subsidie leertijd omvat een productiesubsidie leertijd en een   effectiviteitssubsidie leertijd.<BR>De productiesubsidie leertijd wordt   jaarlijks per centrum berekend volgens de formule :<BR>LT(t)c = LG(i) + LU(i)*C   + G,<BR>waarbij :<BR>1° LT(t)c : subsidie leertijd voor het begrotingsjaar t   voor een centrum;<BR>2° LG(i) : de lesgeverskosten die gemaakt zijn tijdens de   periode i.<BR>De lesgeverskosten omvatten de vergoedingen en salarissen, vermeld   in het besluit van 31 juli 1991, en de daaraan verbonden verschuldigde lasten.   De periode i loopt van 1 juli van het jaar t-2 tot en met 30 juni van het jaar   t-1;<BR>3° LU(i) : leerlingenuren voor de periode i, vermeld in punt 2°, waarbij   leerlingenuren het product zijn van het aantal leerlingen die voor de eerste   keer deelnemen aan het examen per module of cursus, en het aantal lesuren van   die module of cursus in de leertijd. De leerlingen worden meegerekend bij het   centrum waar ze effectief les volgen en examen afleggen;<BR>4° C : een   coëfficiënt die jaarlijks door de Vlaamse Regering kan worden herzien op   voorstel van de minister na advies van de raad van bestuur.<BR>De coëfficiënt C   wordt vastgelegd op 4 euro;<BR>5° G : het product van het aantal cursistenuren   van leerjongeren die een getuigschrift hebben behaald met toepassing van artikel   101 van het besluit van 13 februari 2009 tijdens de periode i, vermeld in punt   2°, vermenigvuldigd met een bedrag waarvan de hoogte wordt vastgelegd door de   Vlaamse Regering na advies van de raad van bestuur. De getuigschriften leertijd   worden toegerekend aan het centrum waar de leerling het eindexamen   beroepsgerichte vorming heeft afgelegd.<BR></P>  <P>Voor de leerlingen die het getuigschrift behalen wordt het aantal   cursistenuren bepaald op 250 en de coëfficiënt op 1,68.<BR></P>  <P>In het tweede lid, 3°, wordt verstaan onder examen : het examen van de   algemene vorming, het theoretische examen van de beroepsgerichte vorming en de   praktische proef over de praktijkopleiding, vermeld in artikel 62 tot en met 78   van het besluit van 13 februari 2009.<BR></P>  <P>Syntra Vlaanderen kan in de periode i, vermeld in het tweede lid, 2°, de   lesgeverkosten subsidiëren in geval van splitsing van de cursussen algemene en   beroepsgerichte vorming, aanvullende taalcursussen en bijwerkingscursussen, met   toepassing van artikel 47 van het besluit van 13 februari 2009. De Vlaamse   Regering legt die subsidie vast per centrum, rekening houdend met het aantal   leerlingen, hun vooropleiding en thuistaal, en de bezettingsgraad van de   cursussen beroepsgerichte vorming.<BR></P>  <P>De effectiviteitssubsidie leertijd omvat de subsidie die rekening houdt met   de effecten van de gevolgde opleiding.<BR></P>  <P>De hoogte en de wijze van berekening van de effectiviteitssubsidie leertijd   wordt op voorstel van de minister en na advies van de raad van bestuur bepaald   door de Vlaamse Regering. Het vastleggen van de gewenste effecten van de   gevolgde opleiding in functie van de effectiviteitssubsidie leertijd wordt   voorzien in de beheersovereenkomst.<BR></P>  <P>De raad van bestuur bezorgt zijn adviezen, vermeld in het tweede lid, 4°, en   in het zesde lid, aan de minister binnen een maand na zijn verzoek om advies. De   minister houdt geen rekening met een laattijdig advies.<BR></P>
+<p>De subsidie leertijd omvat een productiesubsidie leertijd en een effectiviteitssubsidie leertijd.<br>
+<br>
+De productiesubsidie leertijd wordt jaarlijks per centrum berekend volgens de formule : LT(t) : LU(i) * C, waarbij :<br>
+1° LT(t) : de enveloppe leertijd voor het begrotingsjaar t voor een centrum;<br>
+2° LU(i) : de leerlingenuren voor de periode i, waarbij leerlingenuren het product zijn van het aantal leerlingen die voor de eerste keer deelnemen aan het examen per module of cursus, en het aantal lesuren van die module of cursus in de leertijd. De leerlingen worden meegerekend bij het centrum waar ze effectief les volgen en examen afleggen. De periode i loopt van 1 juli van het jaar t-2 tot en met 30 september van het jaar t-1;<br>
+3° C : een coëfficiënt die jaarlijks door de Vlaamse Regering kan worden herzien op voorstel van de minister na advies van de raad van bestuur. De coëfficiënt C wordt vastgesteld op 9,94750 euro.<br>
+<br>
+In het tweede lid, 2°, wordt verstaan onder examen : het examen van de algemene vorming, het theoretische examen van de beroepsgerichte vorming en de praktische proef van de praktijkopleiding, vermeld in artikel 62 tot en met 78 van het besluit van 13 februari 2009.<br>
+<br>
+Syntra Vlaanderen kan in de periode i, vermeld in het tweede lid, 2°, de lesgeverskosten subsidiëren in geval van splitsing van de cursussen algemene en beroepsgerichte vorming, aanvullende taalcursussen en bijwerkingscursussen, met toepassing van artikel 47 van het besluit van 13 februari 2009. De Vlaamse Regering legt die subsidie vast per centrum, rekening houdend met het aantal leerlingen, hun vooropleiding en thuistaal, en de bezettingsgraad van de cursussen beroepsgerichte vorming.<br>
+<br>
+Als een centrum elders middelen heeft ontvangen voor de organisatie van een module of opleiding, financiert Syntra Vlaanderen de leerlingenuren van die module of opleiding van dat centrum alleen na aftrek van de externe middelen om dubbele financiering vanuit de Vlaamse Gemeenschap te vermijden.<br>
+<br>
+De effectiviteitssubsidie leertijd omvat de subsidie die rekening houdt met de effecten van de gevolgde opleiding en bestaat uit het product van het aantal leerlingenuren van leerjongeren die een getuigschrift hebben behaald met toepassing van artikel 101 van het besluit van 13 februari 2009 tijdens de periode i, vermeld in het tweede lid, 2°, vermenigvuldigd met een bedrag waarvan de hoogte wordt vastgesteld door de Vlaamse Regering na advies door de raad van bestuur. De getuigschriften leertijd worden toegerekend aan het centrum waar de leerling het eindexamen beroepsgerichte vorming heeft afgelegd.<br>
+<br>
+Voor de leerlingen die het getuigschrift behalen, wordt het aantal cursistenuren bepaald op 250 en de coëfficiënt op 1,68.<br>
+<br>
+De raad van bestuur bezorgt zijn adviezen, vermeld in het tweede lid, 3°, en het zesde lid, aan de minister binnen een maand na zijn verzoek om advies. De minister houdt geen rekening met een laattijdig advies.</p>
 
 ### ART. 26.
 
-<P>De subsidie ondernemerschapstrajecten omvat een productiesubsidie   ondernemerschapstrajecten en een effectiviteitssubsidie   ondernemerschapstrajecten.<BR></P>  <P>De productiesubsidie ondernemerschapstrajecten wordt jaarlijks per centrum   berekend volgens de formule :<BR>GO(t)c = Sigma GO(t)ca<BR>waarbij :<BR>1°   GO(t)c : enveloppe ondernemerschapstrajecten voor het begrotingsjaar t voor een   centrum;<BR>2° GO(t)ca : CU(i)ca * S1 * Xa;<BR>waarbij :<BR>a) GO(t)ca :   enveloppe ondernemerschapstrajecten voor het begrotingsjaar t voor een   opleiding;<BR>b) CU(i)ca : cursistenuren van één opleiding van een centrum voor   de periode i, waarbij cursistenuren het product zijn van het aantal cursisten   die voor de eerste keer deelnemen aan het examen per module en het aantal   cursusuren per module in de ondernemerschapstrajecten.<BR></P>  <P>De periode i loopt van 1 juli van het jaar t-2 tot en met 30 juni van het   jaar t-1.<BR></P>  <P>Onder cursusuren kunnen zowel verstaan worden de uren die collectief worden   gevolgd, als de studiebelasting die aan een bepaalde opleiding wordt   toegekend.<BR></P>  <P>Per module kunnen, onder de voorwaarden die door de raad van bestuur worden   goedgekeurd, extra docenturen worden bepaald.<BR></P>  <P>In het curriculum kan door de raad van bestuur een maximum aantal cursisten   worden bepaald dat in het kader van de productiesubsidie kan worden   gefinancierd;<BR>c) S1 : een coëfficiënt die jaarlijks door de Vlaamse Regering   kan worden herzien op voorstel van de minister na advies van de raad van   bestuur.<BR></P>  <P>De coëfficiënt S1 wordt vastgelegd op 7,52669 euro;<BR>d) Xa : een factor per   traject of module waarvan de grootte jaarlijks door de Vlaamse Regering na   advies van de raad van bestuur kan worden bepaald. Xa wordt voor het   begrotingsjaar t bepaald uiterlijk op 31 januari van het jaar t-2.<BR></P>  <P>Xa bedraagt 1 voor de opleidingen waarvoor xa niet wordt bepaald met   toepassing van de procedure, beschreven in de vorige leden.<BR></P>  <P>In het tweede lid, 2°, b), wordt verstaan onder examen : het examen, vermeld   in artikel 71 tot en met 80 van het besluit van 14 september 2012, of de   certificaten, uitgereikt met toepassing van artikel 86, tweede lid, van het   voormelde besluit.<BR></P>  <P>De effectiviteitssubsidie ondernemerschapstrajecten omvat de subsidie die   rekening houdt met de effecten van het gevolgde traject of de gevolgde   module.<BR></P>  <P>De hoogte en de wijze van berekening van de effectiviteitssubsidie   ondernemerschapstrajecten wordt op voorstel van de minister en na advies van de   raad van bestuur bepaald door de Vlaamse Regering. Het vastleggen van de   gewenste effecten van de gevolgde opleiding in functie van de   effectiviteitssubsidie leertijd wordt voorzien in de   beheersovereenkomst.<BR></P>  <P>De raad van bestuur bezorgt zijn adviezen, vermeld in het tweede lid, 2°, d)   en in het vijfde lid, aan de minister binnen een maand na zijn verzoek om   advies. De minister houdt geen rekening met een laattijdig   advies.<BR></P>
+<p>De subsidie ondernemerschapstrajecten omvat een productiesubsidie ondernemerschapstrajecten en een effectiviteitssubsidie ondernemerschapstrajecten.<br>
+<br>
+De productiesubsidie ondernemerschapstrajecten wordt jaarlijks per centrum berekend volgens de formule : GO(t)c = Sigma GO(t)ca, waarbij :<br>
+1° GO(t)c : enveloppe ondernemerschapstrajecten voor het begrotingsjaar t voor een centrum;<br>
+2° GO(t)ca : CU(i)ca * S1 * Xa, waarbij :<br>
+a) GO(t)ca : enveloppe ondernemerschapstrajecten voor het begrotingsjaar t voor een opleiding;<br>
+b) CU(i)ca : cursistenuren van één opleiding van een centrum voor de periode i, waarbij cursistenuren het product zijn van het aantal cursisten die voor de eerste keer deelnemen aan het examen per module, en het aantal cursusuren per module in de ondernemerschapstrajecten. De periode i loopt van 1 juli van het jaar t-2 tot en met 30 september van het jaar t-1. Onder cursusuren kunnen zowel verstaan worden de uren die collectief worden gevolgd, als de studiebelasting die aan een bepaalde opleiding wordt toegekend. Per module kunnen, onder de voorwaarden die door de raad van bestuur worden goedgekeurd, extra docenturen worden bepaald. Als een centrum elders middelen heeft ontvangen voor de organisatie van een module of opleiding, financiert Syntra Vlaanderen de leerlingenuren van die module of opleiding van dat centrum alleen na aftrek van de externe middelen om dubbele financiering vanuit de Vlaamse Gemeenschap te vermijden. In het curriculum kan door de raad van bestuur een maximumaantal cursisten worden bepaald dat in het kader van de productiesubsidie kan worden gefinancierd;<br>
+c) S1 : een coëfficiënt die jaarlijks door de Vlaamse Regering kan worden herzien op voorstel van de minister, na advies van de raad van bestuur. De coëfficiënt S1 wordt vastgelegd op 7,52669 euro;<br>
+d) Xa : een factor per traject of module waarvan de grootte jaarlijks door de Vlaamse Regering, na advies van de raad van bestuur, kan worden bepaald. Xa wordt voor het begrotingsjaar t uiterlijk op 31 januari van het jaar t-2 bepaald. Xa bedraagt 1 voor de opleidingen waarvoor de Vlaamse Regering nog geen factor Xa heeft bepaald.<br>
+<br>
+In het tweede lid, 2°, b), wordt verstaan onder examen : het examen, vermeld in artikel 71 tot en met 80 van het besluit van 14 september 2012, of de certificaten, uitgereikt met toepassing van artikel 86, tweede lid, van het voormelde besluit.<br>
+<br>
+De effectiviteitssubsidie ondernemerschapstrajecten omvat de subsidie die rekening houdt met de effecten van het gevolgde traject of de gevolgde module en bestaat uit het product van het aantal cursistenuren van cursisten die een getuigschrift hebben behaald van de cursus beroepskennis, vermeld in artikel 87 van het besluit van 14 september 2012, tijdens de periode i, vermeld in het tweede lid, 2°, b), vermenigvuldigd met een bedrag waarvan de hoogte wordt vastgelegd door de Vlaamse Regering, na advies van de raad van bestuur. De getuigschriften van de cursus beroepskennis worden toegerekend aan het centrum waar de leerling het eindexamen beroepsgerichte vorming heeft afgelegd.<br>
+<br>
+Voor de cursisten die het getuigschrift behalen, wordt het aantal cursistenuren bepaald op 250 en de coëfficiënt op 1,68.<br>
+<br>
+De raad van bestuur bezorgt zijn adviezen, vermeld in het tweede lid, 2°, d), en het vierde lid, aan de minister binnen een maand na zijn verzoek om advies. De minister houdt geen rekening met een laattijdig advies.</p>
 
 ### ART. 27.
 
@@ -160,11 +237,11 @@ Voor cursisten, met domicilie in het Brusselse Hoofdstedelijke Gewest die   les 
 
 ### ART. 30.
 
-<P>Voor de werking van doel- en kansengroepen wordt jaarlijks, boven op de   productiesubsidie, vermeld in artikel 22, in een vast bedrag voorzien van   500.000 euro. Van dat bedrag wordt de ene helft, die bestemd is voor de   leertijd, door Syntra Vlaanderen verdeeld op basis van het aantal leerlingen,   hun vooropleiding, moedertaal, en de bezettingsgraad van de cursussen   beroepsgerichte vorming. De andere helft van dat bedrag, die bestemd is voor   ondernemerschapstrajecten, wordt door Syntra Vlaanderen verdeeld onder meer in   functie van taal- en leerproblematiek.<BR></P>  <P>De doel- en kansengroepen, vermeld in het eerste lid, worden vastgelegd door   de Vlaamse Regering in de beheersovereenkomst.<BR></P>
+<p>...</p>
 
 ### ART. 31.
 
-<P>Voor ondernemerschapstrajecten bestemd voor doel- en kansengroepen, kan   Syntra Vlaanderen binnen de perken van de kredieten, vastgelegd in de algemene   uitgavenbegroting van de Vlaamse Gemeenschap, in de periode i, vermeld in   artikel 26, tweede lid, 2°, b), de lesgeverskosten voor eigen rekening   nemen.<BR></P>  <P>Syntra Vlaanderen kan in de door de raad van bestuur vastgelegde   ondernemerschapstrajecten een leer- of taalcoach financieren voor cursussen,   bestemd voor de doelgroepen en kansengroepen, vermeld in artikel 30, tweede   lid.<BR></P>
+<p>...</p>
 
 ### ART. 32.
 
@@ -196,7 +273,9 @@ De auditrapporten, opgesteld door de certificeringsinstellingen die de   kwalite
 
 ### ART. 38.
 
-Het toezicht op de toepassing van de bepalingen van dit hoofdstuk verloopt   conform de bepalingen, vermeld in artikel 42 tot en met 44 van het decreet van 7   mei 2004.<BR>
+Het toezicht op de toepassing van de bepalingen van dit hoofdstuk verloopt conform de bepalingen, vermeld in artikel 42 tot en met 44 van het decreet van 7 mei 2004.<br>
+<br>
+De raad van bestuur schorst de uitbetaling van het geheel of een deel van de subsidies en vordert de onrechtmatig uitbetaalde subsidies, vermeld in artikel 22, terug als blijkt dat een centrum de voorwaarden, vermeld in dit besluit, niet nageleefd heeft.
 
 ### ART. 39.
 
@@ -224,7 +303,15 @@ De persoon die bij de inwerkingtreding van dit besluit de functie van   directeu
 
 ### ART. 44.
 
-<P>De financiering van 2013 gebeurt op basis van het cursusjaar 2011-2012   volgens de bepalingen die van toepassing waren op 1 januari 2012.<BR></P>  <P>De financiering van 2014 gebeurt op basis van het cursusjaar 2012-2013   volgens de bepalingen die van toepassing waren op 1 januari 2013, met   uitzondering van de bijscholing die nog wordt gefinancierd volgens de bepalingen   die van toepassing waren op 1 januari 2012. De indexatie van alle coëfficiënten   die van toepassing waren, gebeurt volgens de begrotingsinstructies 2014 die van   toepassing zijn op de dotatie van Syntra Vlaanderen.<BR></P>
+<p>De financiering van 2013 gebeurt op basis van het cursusjaar 2011-2012 volgens de bepalingen die van toepassing waren op 1 januari 2012.</p>
+
+<p>De financiering van 2014 gebeurt op basis van het cursusjaar 2012-2013 volgens de bepalingen die van toepassing waren op 1 januari 2013, met uitzondering van de bijscholing die nog wordt gefinancierd volgens de bepalingen die van toepassing waren op 1 januari 2012. De indexatie van alle coëfficiënten die van toepassing waren, gebeurt volgens de begrotingsinstructies 2014 die van toepassing zijn op de dotatie van Syntra Vlaanderen.<br>
+<br>
+De financiering van 2016 gebeurt op basis van het cursusjaar 2014-2015 volgens de bepalingen die van toepassing waren op 1 januari 2015.<br>
+<br>
+De financiering van 2017 gebeurt op basis van het cursusjaar 2015-2016 volgens de bepalingen die van toepassing waren op 1 januari 2016.<br>
+<br>
+De financiering van 2018 gebeurt op basis van het cursusjaar 2016-2017 volgens de bepalingen die van toepassing waren op 1 januari 2017.</p>
 
 ### ART. 45.
 
