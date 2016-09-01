@@ -70,7 +70,7 @@ De raad van bestuur van de sociale huisvestingsmaatschappij kan bijkomende   aan
 
 ### ART. 13.
 
-De sociale huisvestingsmaatschappij maakt het volledige bezoldigingspakket   van de directeur bekend door het op transparante, maar niet nominatieve wijze op   te nemen in het jaarverslag en openbaar te maken op de website van het   agentschap Inspectie RWO. Het bezoldigingspakket omvat de salarisschaal, met   vermelding van de daarmee overeenkomende geldelijke minima en maxima, de   eventuele managementtoelage, het beschikken over een dienstwagen en een   groepsverzekering. Bij de eventuele managementtoelage en de groepsverzekering   worden de voorwaarden en de minima en maxima vermeld.
+De sociale huisvestingsmaatschappij maakt het volledige bezoldigingspakket van de directeur bekend door het op transparante, maar niet nominatieve wijze op te nemen in het jaarverslag en openbaar te maken op de website van het agentschap Wonen-Vlaanderen. Het bezoldigingspakket omvat de salarisschaal, met vermelding van de daarmee overeenkomende geldelijke minima en maxima, de eventuele managementtoelage, het beschikken over een dienstwagen en een groepsverzekering. Bij de eventuele managementtoelage en de groepsverzekering worden de voorwaarden en de minima en maxima vermeld.
 
 ### ART. 14.
 
