@@ -79,7 +79,7 @@ De tegemoetkoming wordt stopgezet :<BR>1° vanaf de eerste dag van de derde   ma
 
 ### ART. 10.
 
-<P>Het agentschap wordt aangeduid om de onterecht uitbetaalde tegemoetkomingen   terug te vorderen. Ingeval van terugvordering van tegemoetkomingen die ingevolge   list, bedrog of valse verklaringen werden bekomen, wordt het terug te vorderen   bedrag verhoogd met de wettelijke intrest die verschuldigd is vanaf de dag van   uitbetaling van de tegemoetkoming. De teruggevorderde bedragen worden   overeenkomstig artikel 59 van de Vlaamse Wooncode toegewezen aan het Fonds voor   de Huisvesting. Het agentschap Inspectie RWO wordt belast met de invordering als   de begunstigde de tegemoetkoming niet vrijwillig terugbetaalt.</P>
+<p>Het agentschap wordt aangeduid om de onterecht uitbetaalde tegemoetkomingen terug te vorderen. Ingeval van terugvordering van tegemoetkomingen die ingevolge list, bedrog of valse verklaringen werden bekomen, wordt het terug te vorderen bedrag verhoogd met de wettelijke intrest die verschuldigd is vanaf de dag van uitbetaling van de tegemoetkoming. De teruggevorderde bedragen worden overeenkomstig artikel 59 van de Vlaamse Wooncode toegewezen aan het Fonds voor de Huisvesting.</p>
 
 ## HOOFDSTUK 3 Wijzigingsbepalingen
 
