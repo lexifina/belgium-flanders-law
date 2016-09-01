@@ -80,7 +80,16 @@ De afspraken over de modaliteiten aangaande het onderwijs op afstand en aangaand
 
 ### ART. 10quinquies.
 
-§ 1. Alle afwezigheden die niet vallen onder artikel 10ter , 1° tot en met   5°, en artikel 10quater, worden beschouwd als problematische   afwezigheden.<BR><BR>§ 2. De als problematisch geregistreerde afwezigheden   worden beschouwd als gewettigde afwezigheden, mits de school in begeleidende   maatregelen ten aanzien van de betrokken leerling voorziet. Van zodra de duur   van de als problematisch geregistreerde afwezigheid tien al dan niet gespreide   halve schooldagen per schooljaar overschrijdt, moeten bovendien volgende   voorwaarden voldaan zijn:<BR>1° de school moet de problematische afwezigheden   aan het centrum voor leerlingenbegeleiding signaleren;<BR>2° overeenkomstig   artikel 5 van het besluit van de Vlaamse regering van 28 augustus 2000 tot   vaststelling van de operationele doelstellingen voor de begeleiding van jongeren   met leerplichtproblemen in de centra voor leerlingenbegeleiding moet de school   samenwerken met het centrum voor leerlingenbegeleiding inzake de begeleiding van   de desbetreffende jongere;<BR>3° van de in 2° vermelde begeleiding moet de   school een dossier bijhouden. Dit mag een onderdeel zijn van het   leerlingendossier.<BR><BR>§ 3. De als problematisch geregistreerde afwezigheid   van leerlingen waarvoor de school, omwille van hun onbereikbaarheid, in de   onmogelijkheid is om in begeleiding te voorzien, worden beschouwd als gewettigde   afwezigheden, mits de school kan aantonen dat ze inspanningen gedaan heeft om de   betrokken leerling te lokaliseren.<BR><BR>§ 4. Van zodra de duur van de als   problematisch geregistreerde afwezigheid dertig al dan niet gespreide halve   schooldagen per schooljaar overschrijdt, brengt de school het Agentschap voor   Onderwijsdiensten hiervan op de hoogte. De Vlaamse minister, bevoegd voor het   onderwijs, bepaalt de modaliteiten van deze mededeling.
+§ 1. Alle afwezigheden die niet vallen onder artikel 10ter , 1° tot en met 5°, en artikel 10quater, worden beschouwd als problematische afwezigheden.<br>
+<br>
+§ 2. De als problematisch geregistreerde afwezigheden worden beschouwd als gewettigde afwezigheden, mits de school in begeleidende maatregelen ten aanzien van de betrokken leerling voorziet. Vanaf vijf al dan niet gespreide halve lesdagen per schooljaar die als problematische afwezigheid zijn geregistreerd, moeten bovendien volgende voorwaarden voldaan zijn:<br>
+1° de school moet de problematische afwezigheden aan het centrum voor leerlingenbegeleiding signaleren;<br>
+2° overeenkomstig artikel 5 van het besluit van de Vlaamse regering van 28 augustus 2000 tot vaststelling van de operationele doelstellingen voor de begeleiding van jongeren met leerplichtproblemen in de centra voor leerlingenbegeleiding moet de school samenwerken met het centrum voor leerlingenbegeleiding inzake de begeleiding van de desbetreffende jongere;<br>
+3° van de in 2° vermelde begeleiding moet de school een dossier bijhouden. Dit mag een onderdeel zijn van het leerlingendossier.<br>
+<br>
+§ 3. De als problematisch geregistreerde afwezigheid van leerlingen waarvoor de school, omwille van hun onbereikbaarheid, in de onmogelijkheid is om in begeleiding te voorzien, worden beschouwd als gewettigde afwezigheden, mits de school kan aantonen dat ze inspanningen gedaan heeft om de betrokken leerling te lokaliseren.<br>
+<br>
+§ 4. ....
 
 ### ART. 10sexies.
 
