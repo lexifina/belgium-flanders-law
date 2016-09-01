@@ -112,6 +112,10 @@ In afwijking van artikel 17, tweede lid, van dit besluit wordt het bedrag, verme
 
 ## HOOFDSTUK 3 Wijziging van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap
 
+### ART 10.
+
+In artikel 7, tweede lid, van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap wordt de zinsnede "artikel 2" vervangen door de zinsnede "artikel 3".
+
 ## HOOFDSTUK 4 Wijzigingen van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een regionale prioriteitencommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering
 
 ### ART 11.
