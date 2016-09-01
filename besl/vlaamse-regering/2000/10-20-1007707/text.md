@@ -126,7 +126,7 @@ Voor plannen betreffende de inrichting van de open ruimte en het woongebied kan 
 
 ### ART. 13.
 
-Het departement en het agentschap Inspectie RWO voeren, ieder wat zijn eigen bevoegdheid betreft, de controle uit op de naleving van de voorwaarden gesteld in dit besluit.
+Het departement voert de controle uit op de naleving van de voorwaarden gesteld in dit besluit.
 
 ### ART. 14.
 
