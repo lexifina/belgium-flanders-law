@@ -42,7 +42,12 @@ De zetel van de Hoge Raad is gevestigd in de Koning Albert II-laan 35, bus 80, t
 
 ### ART. 6.
 
-§ 1. De uitnodiging tot inspraak bedoeld in artikel 6.1.31, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening wordt gericht aan de stedenbouwkundige inspecteur die advies vraagt of, voor de agendapunten die een vordering of een maatregel van de betrokken gemeente betreffen en die enkel uitgaan van het college van burgemeester en schepenen, de door de administrateur-generaal van het agentschap Inspectie RWO aangewezen stedenbouwkundige inspecteur die zijn standplaats heeft in de provincie waarin de gemeente is gelegen. De stedenbouwkundige inspecteur kan zich laten vervangen door een andere stedenbouwkundige inspecteur.<br /><br />De uitnodiging tot inspraak van een vertegenwoordiger van het college van burgemeester en schepenen van een gemeente bedoeld in artikel 6.1.31, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening, wordt gericht aan het college van burgemeester en schepenen.<br /><br />§ 2. De in artikel 6.1.31, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening bedoelde handhavende besturen kunnen na afspraak met het permanent secretariaat inzage nemen van het dossier.<br /><br />
+§ 1. De uitnodiging tot inspraak bedoeld in artikel 6.1.31, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening wordt gericht aan de stedenbouwkundige inspecteur die advies vraagt of, voor de agendapunten die een vordering of een maatregel van de betrokken gemeente betreffen en die enkel uitgaan van het college van burgemeester en schepenen, de&nbsp;stedenbouwkundige inspecteur die zijn standplaats heeft in de provincie waarin de gemeente is gelegen. De stedenbouwkundige inspecteur kan zich laten vervangen door een andere stedenbouwkundige inspecteur.<br>
+<br>
+De uitnodiging tot inspraak van een vertegenwoordiger van het college van burgemeester en schepenen van een gemeente bedoeld in artikel 6.1.31, tweede lid, van de Vlaamse Codex Ruimtelijke Ordening, wordt gericht aan het college van burgemeester en schepenen.<br>
+<br>
+§ 2. De in artikel 6.1.31, eerste lid, van de Vlaamse Codex Ruimtelijke Ordening bedoelde handhavende besturen kunnen na afspraak met het permanent secretariaat inzage nemen van het dossier.<br>
+&nbsp;
 
 ## Afdeling 4 Schriftelijk horen
 
