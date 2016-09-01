@@ -8,6 +8,14 @@ Dit decreet regelt een gewestaangelegenheid.
 
 ## HOOFDSTUK 2 Wijzigingsbepalingen
 
+### ART. 2.
+
+Artikel 11 van het decreet van 17 maart 1998 houdende diverse beleidsbepalingen, vervangen bij het decreet van 8 december 2000, en gewijzigd bij decreet van 21 november 2008, wordt opgeheven.
+
+### ART. 3.
+
+Artikel 13 van hetzelfde decreet wordt opgeheven.
+
 ### ART. 4.
 
 <p>Artikel 339 van de Programmawet (I) van 24 december 2002, vervangen bij de wet van 27 december 2012, wordt vervangen door wat volgt :<br>
