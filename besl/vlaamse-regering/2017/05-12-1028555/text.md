@@ -28,24 +28,32 @@ In dit besluit wordt verstaan onder:<br>
 7° ministerieel besluit van 18 juni 1975: het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken;<br>
 8° persoonsvolgende convenant: een persoonsvolgende convenant als vermeld in artikel 3 van het besluit van de Vlaamse regering van 19 juli 2002 houdende maatregelen om tegemoet te komen aan de noodzaak tot leniging van dringende behoeften van personen met een handicap;<br>
 9° rechtstreeks toegankelijke dienst: een voorziening die al door het agentschap is erkend en wordt gesubsidieerd, en erkend en gesubsidieerd wordt voor de uitbouw van rechtstreeks toegankelijke hulp als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap;<br>
-10° subsidie-eenheid: de vrij samen te stellen groep van FAM's, MFC's thuisbegeleidingsdiensten en rechtstreeks toegankelijke diensten die ressorteren onder dezelfde inrichtende macht of een dienst Ondersteuningsplan;<br>
-11° thuisbegeleidingsdienst: een thuisbegeleidingsdienst als vermeld in artikel 2 van het besluit van de Vlaamse regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap.
+10° subsidie-eenheid: de vrij samen te stellen groep van FAM's, MFC's, vergunde zorgaanbieders, voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, units voor geïnterneerden, observatie-, diagnose- en behandelingsunits,&nbsp; thuisbegeleidingsdiensten en rechtstreeks toegankelijke diensten die ressorteren onder dezelfde inrichtende macht of een dienst Ondersteuningsplan;<br>
+11° thuisbegeleidingsdienst: een thuisbegeleidingsdienst als vermeld in artikel 2 van het besluit van de Vlaamse regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap;<br>
+12° vergunde zorgaanbieder: een zorgaanbieder als vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet-rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap";<br>
+13° voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis: de voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+14° units voor geïnterneerden: de units voor geïnterneerden, vermeld in artikel 10 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+15° observatie-, diagnose- en behandelingsunits: de observatie-, diagnose- en behandelingsunits, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits.
 
 ### ART 2.
 
-Het agentschap berekent de subsidies voor personeelskosten van een FAM, een MFC, een thuisbegeleidingsdienst, een dienst Ondersteuningsplan en een rechtstreeks toegankelijke dienst, met inbegrip van de personeelskosten uit persoonsvolgende convenanten, op de wijze, vermeld in dit besluit.
+Het agentschap berekent de subsidies voor personeelskosten van een FAM, een MFC,&nbsp;een vergunde zorgaanbieder, een voorziening die ondersteuning biedt aan personen met een handicap in de gevangenis, een unit voor geïnterneerden, een observatie-, diagnose- en behandelingsunit, een thuisbegeleidingsdienst, een dienst Ondersteuningsplan en een rechtstreeks toegankelijke dienst, met inbegrip van de personeelskosten uit persoonsvolgende convenanten, op de wijze, vermeld in dit besluit.
 
 ### ART 3.
 
 Het agentschap subsidieert de personeelskosten conform de voorwaarden, vermeld in de volgende besluiten:<br>
-1° het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van flexibele aanbodcentra voor meerderjarige personen met een handicap;<br>
+1° het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van flexibele aanbodcentra voor meerderjarige personen met een handicap, zoals van kracht op 31 december 2016;<br>
 2° het besluit van de Vlaamse Regering van 26 februari 2016 houdende erkenning en subsidiëring van multifunctionele centra voor minderjarige personen met een handicap;<br>
 3° het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap;<br>
 4° het besluit van de Vlaamse Regering van 30 september 2011 betreffende de erkenning en subsidiëring van diensten Ondersteuningsplan en een mentororganisatie voor het voortraject van personen met een handicap;<br>
 5° het besluit van de Vlaamse regering van 17 december 1996 betreffende de erkenning en subsidiëring van thuisbegeleidingsdiensten voor personen met een handicap;<br>
 6° het besluit van 15 december 1993;<br>
 7° het ministerieel besluit van 20 oktober 1989 houdende vaststelling van de arbeidsdagen zoals bedoeld in artikel 5 van het koninklijk besluit van 30 maart 1973 tot bepaling van de te volgen gemeenschappelijke regels voor de vaststelling van de toelagen per dag toegekend voor onderhoud, opvoeding en behandeling van minderjarigen en van gehandicapten, geplaatst ten laste van de openbare besturen;<br>
-8° het ministerieel besluit van 25 oktober 1989 tot vaststelling van de arbeidsdagen zoals bedoeld in artikel 5 van het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken.
+8° het ministerieel besluit van 25 oktober 1989 tot vaststelling van de arbeidsdagen zoals bedoeld in artikel 5 van het ministerieel besluit van 18 juni 1975 tot bepaling van de te volgen regels voor de vaststelling van het bedrag van de tegemoetkoming uit het Fonds voor medische, sociale en pedagogische zorg voor gehandicapten in de kosten voor onderhoud, opvoeding en behandeling van gehandicapten die geplaatst zijn in inrichtingen die onder het stelsel van het semi-internaat werken;<br>
+9° het ministerieel besluit van 18 juni 1975;<br>
+10° het koninklijk besluit van 30 maart 1973, zoals van kracht op 30 december 2016;<br>
+11° het koninklijk besluit van 12 december 1975 tot vaststelling van de voorwaarden voor de erkenning van de centra voor observatie, oriëntering en medische, psychologische en pedagogische behandeling voor gehandicapten evenals van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud, de opvoeding en de behandeling van de gehandicapten die er geplaatst zijn ten laste van de openbare besturen, zoals van kracht op 30 december 2016;<br>
+12° het ministerieel besluit van 24 april 1973 tot bepaling, wat betreft het Ministerie van Volksgezondheid en van het Gezin, van de te volgen bijzondere regels voor de vaststelling van de toelagen per dag, toegekend voor het onderhoud en de behandeling van de gehandicapten, geplaatst ten laste van de openbare besturen, zoals van kracht op 30 december 2016.
 
 ### ART 4.
 
@@ -64,7 +72,11 @@ Het agentschap bepaalt het maximale aantal personeelspunten van een subsidie-een
 4° het aantal personeelspunten dat overeenstemt met de ondersteuning die effectief geboden is door een rechtstreeks toegankelijke dienst, waarbij het aantal personeelspunten waarvoor een rechtstreeks toegankelijke dienst is erkend als maximum geldt. Bij de vaststelling van het aantal personeelspunten wordt rekening gehouden met artikel 6, derde lid, van het besluit van de Vlaamse Regering van 22 februari 2013 betreffende rechtstreeks toegankelijke hulp voor personen met een handicap. Het aantal personeelspunten dat de subsidie-eenheid heeft verkregen van een andere rechtstreeks toegankelijke dienst, wordt daaraan toegevoegd;<br>
 5° het aantal begeleidingen waarvoor een dienst Ondersteuningsplan is erkend, omgezet in personeelspunten;<br>
 6° het aantal personeelspunten dat in het kader van een samenwerkingsovereenkomst is overgedragen door of ontvangen van een andere subsidie-eenheid;<br>
-7° de bedragen, vermeld in de persoonsvolgende convenanten, die worden omgezet in personeelspunten. Voor de omzetting worden de bedragen gedeeld door 925 euro. De gesloten convenanten worden aangepast om te voldoen aan de bepalingen van dit besluit.
+7° de bedragen, vermeld in de persoonsvolgende convenanten, die worden omgezet in personeelspunten. Voor de omzetting worden de bedragen gedeeld door 925 euro. De gesloten convenanten worden aangepast om te voldoen aan de bepalingen van dit besluit;<br>
+8° het totale aantal zorggebonden personeelspunten dat bij de vergunde zorgaanbieder wordt ingezet in de vorm van een voucher als vermeld in artikel 13 van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, en het aantal extra personeelspunten, bepaald conform artikel 3, § 5, van het voormelde besluit;<br>
+9° de personeelspunten, vermeld in artikel 7 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+10° de personeelspunten, vermeld in artikel 16 van het besluit van de Vlaamse Regering van 24 november 2017 over de erkenning en subsidiëring van voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, en van units voor geïnterneerden;<br>
+11° de personeelspunten, vermeld in artikel 8 van het besluit van de Vlaamse Regering van 8 december 2017 over de erkenning van observatie-, diagnose- en behandelingsunits.
 
 ### ART 7.
 
@@ -128,13 +140,17 @@ De totale te subsidiëren loonmassa van een subsidie-eenheid is gelijk aan de op
 
 ### ART 16.
 
-Aanvullend op de totale te subsidiëren loonmassa van een subsidie-eenheid, vermeld in artikel 15 van dit besluit, subsidieert het agentschap de forfaitaire percentages, vermeld in artikel 23 van het koninklijk besluit van 30 maart 1973 en artikel 11 van het ministerieel besluit van 18 juni 1975.<br>
+§ 1. Voor het jaar 2016 subsidieert het agentschap aanvullend op de totale te subsidiëren loonmassa van een subsidie-eenheid, vermeld in artikel 15 van dit besluit, met uitzondering van de loonmassa die betrekking heeft op de vergunde zorgaanbieder, de forfaitaire percentages, vermeld in artikel 23 van het koninklijk besluit van 30 maart 1973 en artikel 11 van het ministerieel besluit van 18 juni 1975.<br>
 <br>
 Voor de berekening van de forfaitaire percentages, vermeld in het eerste lid, wordt gebruikgemaakt van een percentage dat een gewogen gemiddelde is van de percentages die conform tabel 2, opgenomen in de bijlage die bij dit besluit is gevoegd, van toepassing zijn voor een subsidie-eenheid, en dat wordt berekend aan de hand van het aantal personeelspunten van de verschillende samenstellende delen van de subsidie-eenheid, vermeld in de voormelde tabel 2.<br>
 <br>
 Het gewogen gemiddelde percentage, vermeld in het tweede lid, wordt vermenigvuldigd met de totale te subsidiëren loonmassa, vermeld in artikel 15.<br>
 <br>
-In afwijking van het tweede en derde lid subsidieert het agentschap voor een dienst Ondersteuningsplan aanvullend op de totale te subsidiëren loonmassa, vermeld in artikel 15, een forfaitair percentage van 3,325% van die loonmassa.
+In afwijking van het tweede en derde lid subsidieert het agentschap voor een dienst Ondersteuningsplan aanvullend op de totale te subsidiëren loonmassa, vermeld in artikel 15, een forfaitair percentage van 3,325 % van die loonmassa.<br>
+<br>
+§ 2. Voor het jaar 2017 subsidieert het agentschap aanvullend op de totale te subsidiëren loonmassa van een subsidie-eenheid, vermeld in artikel 15, met uitzondering van de loonmassa die betrekking heeft op de vergunde zorgaanbieder, en voor een dienst Ondersteuningsplan, een forfaitair percentage van 3,325 % van die loonmassa.<br>
+<br>
+Vanaf het jaar 2018 subsidieert het agentschap aanvullend op de totale te subsidiëren loonmassa van een subsidie-eenheid, vermeld in artikel 15, een forfaitair percentage van 3,325 % van die loonmassa.
 
 ### ART 17.
 
@@ -158,6 +174,12 @@ Het agentschap berekent de volgende aanvullende subsidies op basis van het aanta
 1° de subsidie voor managementondersteuning, vermeld in artikel 2 van het besluit van de Vlaamse regering van 10 juli 2001 tot subsidiëring van management en vorming ten bate van voorzieningen gesubsidieerd door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap;<br>
 2° de toelage voor managementondersteuning, vermeld in artikel 2 van het besluit van de Vlaamse Regering van 22 november 2013 houdende toekenning voor managementondersteuning aan voorzieningen voor personen met een handicap;<br>
 3° de aanvullende subsidie voor vorming, vermeld in artikel 4 van het besluit van de Vlaamse regering van 10 juli 2001 tot subsidiëring van management en vorming ten bate van voorzieningen gesubsidieerd door het Vlaams Fonds voor Sociale Integratie van Personen met een Handicap of door de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding.
+
+### ART 20/1.
+
+De voorschotten op de subsidies voor de vergunde zorgaanbieders, voorzieningen die ondersteuning bieden aan personen met een handicap in de gevangenis, units voor geïnterneerden en observatie-, diagnose- en behandelingsunits worden per maand betaald voor een bedrag van 8 % van de totale subsidie op jaarbasis. De personeelssubsidies worden geraamd op basis van de aan het agentschap bekendgemaakte personeelsgegevens.<br>
+<br>
+Het saldo van de subsidies wordt verrekend na de goedkeuring van het subsidiedossier, vermeld in artikel 5, binnen achttien maanden die volgen op de datum, vermeld in artikel 5.
 
 ### ART 21.
 
