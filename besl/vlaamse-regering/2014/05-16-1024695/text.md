@@ -1788,7 +1788,7 @@ In de overeenkomst, die gesloten is tussen de premienemer en de uitvoerder   van
 
 ### ART. 11.6.2.
 
-&nbsp;Als erfgoedpremies uitgekeerd zijn om schade te herstellen die het   gevolg is van een misdrijf of inbreuk als vermeld in het Onroerenderfgoeddecreet   van 12 juli 2013, kunnen ze worden teruggevorderd van diegenen die door hun   deelname aan het misdrijf of de inbreuk die schade mee hebben   veroorzaakt.<BR>
+&nbsp;Als erfgoedpremies uitgekeerd zijn om schade te herstellen die het gevolg is van een misdrijf of inbreuk als vermeld in het Onroerenderfgoeddecreet van 12 juli 2013, kunnen ze&nbsp;door het agentschap of de inspecteur Onroerend Erfgoed worden teruggevorderd van diegenen die door hun deelname aan het misdrijf of de inbreuk die schade mee hebben veroorzaakt.
 
 ## [Afdeling 7 Premie buitensporige opgravingskosten (ing. BVR 4 december 2015, art. 42, I: 1 januari 2016)]
 
@@ -1930,7 +1930,9 @@ De toelage wordt jaarlijks beschikbaar gesteld in de vorm van het volgende   voo
 
 ### ART. 12.1.1.
 
-<P>Als gemeentelijke verbalisant, vermeld in artikel 11.3.3 van het   Onroerenderfgoeddecreet van 12 juli 2013, kunnen alleen de personeelsleden van   gemeenten of intergemeentelijke samenwerkingsverbanden worden aangesteld die   daarvoor een bekwaamheidsbewijs hebben verkregen.<BR></P>  <P>Dat bekwaamheidsbewijs wordt afgegeven door het agentschap, belast met de   handhaving van het Onroerenderfgoeddecreet van 12 juli 2013. De minister bepaalt   de opleidings- of ervaringsvereisten die verbonden zijn aan de afgifte van het   bekwaamheidsbewijs.<BR></P>
+<p>Als gemeentelijke verbalisant, vermeld in artikel 11.3.3 van het Onroerenderfgoeddecreet van 12 juli 2013, kunnen alleen de personeelsleden van gemeenten of intergemeentelijke samenwerkingsverbanden worden aangesteld die daarvoor een bekwaamheidsbewijs hebben verkregen.</p>
+
+<p>Dat bekwaamheidsbewijs wordt afgegeven door de entiteit, belast met de handhaving van het Onroerenderfgoeddecreet van 12 juli 2013. De minister bepaalt de opleidings- of ervaringsvereisten die verbonden zijn aan de afgifte van het bekwaamheidsbewijs.</p>
 
 ### ART. 12.1.2.
 
