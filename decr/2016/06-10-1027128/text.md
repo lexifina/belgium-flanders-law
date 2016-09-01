@@ -2,6 +2,11 @@
 
 ## HOOFDSTUK 1 Inleidende bepalingen
 
+### ART 1.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.</span><br>
+&nbsp;
+
 ### ART 2.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In dit decreet wordt verstaan onder:</span><br>
@@ -19,6 +24,43 @@
 &nbsp;
 
 ## HOOFDSTUK 2 Algemene bepalingen
+
+### ART 3.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor de uitvoering van de alternerende opleiding, voor zover de opleiding op de werkplek via een reguliere tewerkstelling wordt ingevuld, sluit de leerling met een opleidingsverstrekker en een onderneming:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een overeenkomst van alternerende opleiding als de opleiding gemiddeld op jaarbasis minstens 20 uur per week opleiding op een reële werkplek omvat, zonder rekening te houden met de wettelijke feest- en vakantiedagen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een stageovereenkomst alternerende opleiding:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) als de opleiding door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) als de opleiding uitsluitend plaatsvindt op een gesimuleerde werkplek.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid kan een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst sluiten waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden, als de onderneming ressorteert onder de paritaire comités en paritaire subcomités, vermeld in artikel 1 van het koninklijk besluit van 18 juli 2002 houdende maatregelen met het oog op bevordering van de tewerkstelling in de non-profitsector, met uitzondering van de paritaire comités en de paritaire subcomités vermeld in artikel 1, 1°, d), h), m), r) en s).</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid sluit een leerling voor de uitvoering van zijn alternerende opleiding een deeltijdse arbeidsovereenkomst waarvoor de bepalingen van dit hoofdstuk en de bepalingen van de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten gelden, als het een opleiding betreft van het deeltijds beroepssecundair onderwijs die niet door de Vlaamse Regering als duaal is aangeduid en op de werkplek gemiddeld op jaarbasis minder dan 20 uur per week bedraagt, zonder rekening te houden met de wettelijke feest- en vakantiedagen, en uiterlijk tot een datum bepaald door de Vlaamse Regering.</span><br>
+&nbsp;
+
+### ART 4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomsten, vermeld in artikel 3, kunnen enkel worden gesloten door:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een leerling die overeenkomstig de vigerende onderwijsdecreten of -regelgeving een regelmatige leerling is of zijn wettelijke vertegenwoordiger;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een overeenkomstig artikel 7, §§ 1 tot en met 3, erkende onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° een opleidingsverstrekker.</span><br>
+&nbsp;
+
+### ART 5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst tot uitvoering van de alternerende opleiding moet voor elke leerling afzonderlijk schriftelijk worden vastgesteld uiterlijk op het tijdstip waarop de leerling zijn alternerende opleiding in de onderneming aanvat.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De stageovereenkomst alternerende opleiding en de overeenkomst van alternerende opleiding moeten worden opgesteld volgens het model dat vastgelegd is door de Vlaamse Regering.</span><br>
+&nbsp;
+
+### ART 6.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst tot uitvoering van de alternerende opleiding is een overeenkomst van bepaalde duur die schooljaaroverschrijdend kan zijn.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling kan om zijn opleidingsplan uit te voeren, opeenvolgende overeenkomsten met verschillende ondernemingen sluiten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De duur van alle overeenkomsten samen mag niet meer bedragen dan de duur van de alternerende opleiding waarop de overeenkomsten betrekking hebben en dit vanaf het moment dat de alternerende opleiding voor de leerling ingevuld is met een werkplekcomponent.</span><br>
+&nbsp;
 
 ### ART 7.
 
@@ -75,15 +117,243 @@
 
 ## Afdeling 1 Kenmerken van de overeenkomst van alternerende opleiding
 
+### ART 9.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst van alternerende opleiding is een voltijdse overeenkomst en heeft betrekking op het volledige leertraject, zowel de lescomponent als de werkplekcomponent. Voor de berekening van het aantal uren binnen de overeenkomst telt een les of een activiteit die gelijkgesteld is met een les, mee voor zestig minuten.</span><br>
+&nbsp;
+
+### ART 10.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst van alternerende opleiding moet de volgende vermeldingen en bepalingen omvatten:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de datum van de inwerkingtreding, de einddatum en het voorwerp van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de naam van de onderneming en van de persoon die de onderneming vertegenwoordigt;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de naam van de mentor in de onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de identiteit van de leerling;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° de naam van de opleidingsverstrekker waar de leerling de lessen volgt en van de trajectbegeleider van de opleidingsverstrekker;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° het bedrag van de leervergoeding, vermeld in artikel 17, § 1, eerste lid;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° het uurrooster, waarin enerzijds de tijdstippen worden vermeld waarop de leerling de opleiding volgt in de onderneming, en anderzijds de tijdstippen waarop de leerling de lessen en de activiteiten die gelijkgesteld zijn met lessen, volgt bij de opleidingsverstrekker;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° de plaats van de uitvoering van de opleiding op de werkplek;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° de verwijzing naar alle wettelijke, reglementerende en conventionele bepalingen, inzonderheid met betrekking tot voorzieningen van sociale zekerheid, arbeidswetgeving, welzijnswetgeving en verzekeringen, die van toepassing zijn op de onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° de beperkte aansprakelijkheid van de leerling bij schade ten aanzien van de onderneming of derden.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Maken integraal deel uit van de overeenkomst van alternerende opleiding:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° het opleidingsplan opgesteld door de opleidingsverstrekker in overleg met de onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de rechten en plichten van de leerling, de onderneming en de opleidingsverstrekker;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de integrale tekst van de artikelen van dit decreet met betrekking tot de schorsing en de beëindiging van de overeenkomst van alternerende opleiding;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° het arbeidsreglement.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst mag geen bedingen bevatten die de rechten van de leerling beperken of zijn verplichtingen verzwaren.</span><br>
+&nbsp;
+
 ## Afdeling 2 Verbintenissen, rechten en plichten van de partijen
+
+### ART 11.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° verbindt zich ertoe de leerling competenties van de opleiding op een werkplek aan te leren overeenkomstig de decreet- of regelgeving die op de invulling van de opleiding in kwestie van toepassing is;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° verbindt zich ertoe de professionalisering van de mentor te bevorderen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° bezorgt een exemplaar van de overeenkomst van alternerende opleiding aan het Vlaams Partnerschap Duaal Leren;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° betaalt aan de leerling een leervergoeding conform artikel 17, § 1;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° zorgt ervoor dat de leerling de lessen kan volgen die noodzakelijk zijn voor zijn opleiding, en dat de leerling aan de activiteiten kan deelnemen die gelijkgesteld zijn met lessen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° waakt over het verloop van het opleidingstraject, volgt de vorderingen van de leerling op en is betrokken bij de evaluatie van de leerling;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° geeft aan de trajectbegeleider alle nodige informatie over het verloop van de opleiding en de vorderingen van de leerling;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° verbindt zich ertoe de vigerende wetgeving op de bescherming van de persoonlijke levenssfeer ten opzichte van de verwerking van persoonsgegevens na te leven;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° waakt erover dat de mentor die uit hoofde van zijn opdracht toegang heeft tot persoonsgegevens van leerlingen, deze enkel zal aanwenden met betrekking tot de correcte uitvoering van de overeenkomst van alternerende opleiding en zowel tijdens de duur van de overeenkomst als na de beëindiging ervan geen enkele vertrouwelijke informatie met betrekking tot de leerling op welke wijze dan ook zal bekendmaken aan derden;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° zorgt er als een goed huisvader voor dat de opleiding op de werkplek plaatsvindt in omstandigheden die voldoen aan de vereisten van de wetgeving over welzijn op het werk;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° stelt aan de leerling de nodige hulp, gereedschappen, grondstoffen, werkkledij, collectieve en persoonlijke beschermingsmiddelen ter beschikking en staat in voor het onderhoud ervan zonder dat dat beschouwd mag worden als een voordeel in natura;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">12° besteedt de nodige aandacht aan het onthaal, de opvang en de integratie van de leerling op de werkplek;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">13° zorgt te allen tijde voor een aanspreekpunt voor de jongere;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">14° laat de leerling geen taken verrichten die niets te maken hebben met het opleidingsplan, die gevaarlijk of schadelijk kunnen zijn of die krachtens wettelijke of reglementaire bepalingen verboden zijn;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">15° meldt elke wijziging van de beroepsactiviteit of de uitbatingszetel, die gevolgen heeft voor de opleiding van de leerling, binnen tien dagen aan de trajectbegeleider;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">16° legt de problemen die rijzen tijdens de uitvoering van de overeenkomst van alternerende opleiding onmiddellijk voor aan de trajectbegeleider.</span><br>
+&nbsp;
+
+### ART 12.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° verbindt zich ertoe om als regelmatige leerling met het oog op het behalen van de studiebekrachtiging:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) het contactonderwijs bij de opleidingsverstrekker te volgen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) de opleiding op de werkplek onder het gezag en toezicht van de mentor te volgen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° sluit de overeenkomst en voert de overeenkomst uit met de bedoeling het opleidingstraject te voleindigen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° volgt zijn vorderingen op overeenkomstig de richtlijnen van de opleidingsverstrekker en de mentor;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° verricht de opgedragen taken zorgvuldig, eerlijk en nauwgezet op de tijd, plaats en wijze die is overeengekomen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° handelt op de werkplek volgens de richtlijnen van de mentor;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° onthoudt zich van al wat schade kan berokkenen aan de eigen veiligheid, de veiligheid van de collega's, de onderneming of derden;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° geeft het toevertrouwde gereedschap, de werkkledij en de ongebruikte grondstoffen in goede staat aan de onderneming terug;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° maakt geen fabrieksgeheimen, zakengeheimen en geheimen over persoonlijke of vertrouwelijke aangelegenheden bekend, noch tijdens de uitvoering, noch na de beëindiging van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° stelt geen daden van oneerlijke concurrentie of werkt daaraan niet mee, noch tijdens de uitvoering, noch na de beëindiging van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° legt de problemen die rijzen tijdens de uitvoering van de overeenkomst van alternerende opleiding onmiddellijk voor aan de trajectbegeleider en de mentor.</span><br>
+&nbsp;
+
+### ART 13.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De opleidingsverstrekker:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° verbindt zich ertoe de leerling competenties van de opleiding in de vorm van lessen of activiteiten die daarmee gelijkgesteld zijn, aan te leren overeenkomstig de decreet- of regelgeving die op de invulling van de opleiding van toepassing is;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° onderhandelt over de overeenkomst, maakt de overeenkomst op en begeleidt de toepassing ervan;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° voorziet in trajectbegeleiding voor de leerling over het hele opleidingstraject;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° bewaakt de competentieverwerving in samenspraak met de mentor;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° houdt tijdens de periodes waarin de leerling de werkplekcomponent effectief invult, een vertegenwoordiger van de opleidingsverstrekker bij wie de leerling is ingeschreven, voor de leerling bereikbaar. Die verplichting kan echter geen afbreuk doen aan de statutaire rechten van de individuele personeelsleden;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° levert maximale inspanningen om na de beëindiging van een overeenkomst van alternerende opleiding voor de leerling een nieuwe overeenkomst van alternerende opleiding te sluiten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° bezorgt aan het Vlaams Partnerschap Duaal Leren de gevraagde gegevens voor zijn jaarlijks monitoringsrapport over de stand van zaken van het duale leren in Vlaanderen.</span><br>
+&nbsp;
+
+### ART 14.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming moet zich schikken naar alle wettelijke, reglementerende en conventionele bepalingen, inzonderheid met betrekking tot voorzieningen van sociale zekerheid, arbeidswetgeving, welzijnswetgeving en verzekeringen, die van toepassing zijn op de onderneming.</span>
+
+### ART 15.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De tijd die de leerling moet besteden aan de uitvoering van zijn overeenkomst van alternerende opleiding in haar totaliteit, overeenkomstig het uurrooster, vermeld in artikel 10, eerste lid, 7°, van dit decreet, mag niet meer bedragen dan de maximale arbeidsduur, vermeld in de Arbeidswet van 16 maart 1971, of, krachtens die wet, in de toepasselijke collectieve arbeidsovereenkomst of het toepasselijke arbeidsreglement.</span><br>
+&nbsp;
+
+### ART 16.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Als de leerling bij de uitvoering van de overeenkomst van alternerende opleiding de onderneming of derden schade berokkent of gebrekkig werk levert, is hij alleen aansprakelijk in geval van bedrog of zware schuld.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor lichte schuld is hij alleen aansprakelijk als die schuld eerder gewoonlijk dan toevallig bij hem voorkomt.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De aansprakelijkheid van de vader en de moeder in de zin van artikel 1384, tweede lid, van het Burgerlijk Wetboek geldt enkel wanneer de minderjarige leerling overeenkomstig de hier voormelde gevallen persoonlijk aansprakelijk kan worden gesteld.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De onderneming is een aansteller in de zin van artikel 1384, derde lid, van het Burgerlijk Wetboek.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle met de bepalingen van deze paragraaf strijdige bedingen zijn nietig.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De leerling is niet verantwoordelijk voor de beschadigingen of de sleet die toe te schrijven zijn aan het regelmatige gebruik van het voorwerp, noch voor het toevallige verlies ervan.</span><br>
+&nbsp;
+
+### ART 17.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De leerling ontvangt maandelijks een leervergoeding van de onderneming.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de hoogte, de wijze van toekenning en de berekeningswijze van de leervergoeding.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De leervergoeding is door de onderneming verschuldigd, zowel voor de opleiding in de onderneming als voor het volgen van de lessen en de activiteiten die gelijkgesteld zijn met lessen.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. De bepalingen van de wet van 12 april 1965 betreffende de bescherming van het loon der werknemers zijn van toepassing op de leervergoeding.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 4. De onderneming die de overeenkomst beëindigt op een wijze die strijdig is met de bepalingen van dit decreet, is een vergoeding verschuldigd die overeenstemt met een leervergoeding voor een maand.</span><br>
+&nbsp;
 
 ## Afdeling 3 Schorsing van de uitvoering van de overeenkomst van alternerende opleiding
 
+### ART 18.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De uitvoering van de overeenkomst van alternerende opleiding wordt geschorst onder dezelfde voorwaarden en in dezelfde gevallen, vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gedurende de schorsing van de uitvoering van de overeenkomst van alternerende opleiding behoudt de leerling de leervergoeding onder dezelfde waarborgen als die welke gelden voor het loon van een werknemer met een arbeidsovereenkomst.</span><br>
+&nbsp;
+
+### ART 19.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling heeft, naast de gewone regeling voor het recht op betaalde vakantie, ook recht op twintig niet-betaalde vakantiedagen.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle vakantiedagen moeten in overleg tussen de leerling en de onderneming opgenomen worden.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De niet-betaalde vakantiedagen moeten opgenomen worden in de schoolvakanties.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De betaalde vakantiedagen mogen niet worden opgenomen op de lesdagen of op dagen met activiteiten die met lessen gelijkgesteld zijn.</span><br>
+&nbsp;
+
+### ART 20.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van artikel 18, tweede lid, is de onderneming geen leervergoeding verschuldigd bij arbeidsongeschiktheid wegens arbeidsongeval en beroepsziekte.</span><br>
+&nbsp;
+
+### ART 21.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De uitvoering van de overeenkomst van alternerende opleiding wordt geschorst:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° als de leerling overeenkomstig artikel 123/10, § 1, 1°, of artikel 123/11, § 1, 1°, van de Codex Secundair Onderwijs van 17 december 2010 tijdelijk uitgesloten wordt door de opleidingsverstrekker;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° als de leerling overeenkomstig artikel 123/10, § 1, 2°, of artikel 123/11, § 1, 2°, van de Codex Secundair Onderwijs van 17 december 2010 definitief uitgesloten wordt door de opleidingsverstrekker en de leerling tegen deze uitsluiting een ontvankelijk beroep heeft ingesteld;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° als de leerling overeenkomstig artikel 123/10, § 2, of artikel 123/11, § 2, van de Codex Secundair Onderwijs van 17 december 2010 door de opleidingsverstrekker preventief geschorst wordt.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gedurende de schorsing van de uitvoering van de overeenkomst van alternerende opleiding in de gevallen vermeld in het eerste lid, is de onderneming geen leervergoeding verschuldigd aan de leerling.</span><br>
+&nbsp;
+
+### ART 22.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de uitvoering van de overeenkomst van alternerende opleiding meer dan veertien dagen geschorst wordt, moet de onderneming de trajectbegeleider op de hoogte brengen.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als na een schorsing van meer dan veertien dagen de uitvoering van de overeenkomst wordt hervat, moet de onderneming uiterlijk drie dagen na de hervatting de trajectbegeleider op de hoogte brengen.</span><br>
+&nbsp;
+
 ## Afdeling 4 Beëindiging van de overeenkomst van alternerende opleiding
+
+### ART 23.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Met behoud van de toepassing van de wijzen waarop verbintenissen in het algemeen eindigen, neemt de uitvoering van de overeenkomst een einde:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° als de termijn verstreken is;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° als de leerling de opleiding met vrucht heeft beëindigd;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° als de mentor overlijdt en geen andere mentor kan worden aangesteld;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° als er overmacht is, die tot gevolg heeft dat de uitvoering van de overeenkomst definitief onmogelijk wordt;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° op verzoek van de leerling in geval van faillissement of na overname van de onderneming, tenzij de overeenkomst door het overnemende bedrijf overgenomen wordt. Dat laatste is alleen mogelijk als ook het overnemende bedrijf aan alle voorwaarden voldoet;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° als de schorsing van de uitvoering van de overeenkomst langer dan zestig dagen aanhoudt en de ondernemer of de leerling de wens uit de overeenkomst niet verder uit te voeren;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° bij definitieve uitsluiting als tuchtmaatregel van de onderwijs- of opleidingsverstrekker, in voorkomend geval na de uitputting van het beroep, vermeld in artikel 123/12 van de Codex Secundair Onderwijs van 17 december 2010;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° bij vroegtijdige stopzetting van de opleiding;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° als de erkenning van de onderneming wordt opgeheven.</span><br>
+&nbsp;
+
+### ART 24.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Bij een vroegtijdige beëindiging brengt de trajectbegeleider het Vlaams Partnerschap Duaal Leren hiervan op de hoogte.</span><br>
+&nbsp;
+
+### ART 25.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Tijdens de eerste dertig dagen van de uitvoering van de overeenkomst van alternerende opleiding kan de onderneming of de leerling de overeenkomst van alternerende opleiding opzeggen. Er moet wel een opzegtermijn van zeven dagen in acht worden genomen, die ingaat de dag na de ontvangst van de schriftelijke opzegging.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de uitvoering van de overeenkomst van alternerende opleiding wordt geschorst tijdens de eerste dertig dagen van de uitvoering van de overeenkomst, wordt de periode van de eerste dertig dagen van de uitvoering van de overeenkomst verlengd met de duur van de schorsing.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Een schorsing van de uitvoering van de overeenkomst voor of tijdens de opzegtermijn schorst de opzegtermijn niet.</span><br>
+&nbsp;
+
+### ART 26.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De onderneming of de leerling of zijn wettelijke vertegenwoordiger kunnen het bestaan van een reden inroepen die de verbreking van de uitvoering van de overeenkomst wettigt, als de leerling, respectievelijk onderneming, ernstig tekortschiet in de verplichtingen met betrekking tot de uitvoering van de overeenkomst, als er omstandigheden zijn die het goede verloop van de opleiding op de werkplek ernstig belemmeren of als de leerling wil overschakelen naar een andere opleiding.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De onderneming of de leerling of zijn wettelijke vertegenwoordiger moeten de reden, vermeld in paragraaf 1, schriftelijk mededelen aan de trajectbegeleider. De trajectbegeleider bemiddelt en probeert de partijen te verzoenen. Daarvoor beschikt de trajectbegeleider over een termijn van maximaal drie weken. Die termijn neemt een aanvang vanaf de ontvangst van de schriftelijke mededeling. Een schorsing van de uitvoering van de overeenkomst tijdens de verzoeningstermijn schorst de verzoeningstermijn niet.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Tijdens de verzoeningstermijn moeten de partijen de uitvoering van de overeenkomst voortzetten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de partijen tot een verzoening komen, wordt de uitvoering van de overeenkomst voortgezet.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de partijen niet tot een verzoening komen, kan de partij die de wens tot beëindiging heeft geuit, ook effectief overgaan tot de beëindiging van de overeenkomst. De beëindiging gaat in de dag na de ontvangst van de schriftelijke mededeling.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. De onderneming of de leerling of zijn wettelijke vertegenwoordiger, naargelang het geval, kan beroep aantekenen bij het Vlaams Partnerschap Duaal Leren als hij van oordeel is dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst van alternerende opleiding niet wettigt.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering bepaalt de procedure voor het beroep.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het Vlaams Partnerschap Duaal Leren oordeelt dat de ingeroepen reden de beëindiging van de uitvoering van de overeenkomst van alternerende opleiding door de onderneming niet wettigt, is aan de leerling die beroep heeft aangetekend een schadevergoeding verschuldigd conform artikel 17, § 4.</span><br>
+&nbsp;
+
+### ART 27.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De opleidingsverstrekker kan de overeenkomst tot uitvoering van de alternerende opleiding schriftelijk en gemotiveerd beëindigen:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° bij zware inbreuken van de onderneming of de leerling tegen de uitvoering van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° wanneer de fysieke of geestelijke gezondheid van de leerling gevaar loopt;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° als er omstandigheden zijn die het goede verloop van de opleiding op de werkplek ernstig belemmeren.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De opleidingsverstrekker kan aan het Vlaams Partnerschap Duaal Leren voorstellen om de erkenning van de onderneming op te heffen.</span><br>
+&nbsp;
 
 ## HOOFDSTUK 4 De stageovereenkomst alternerende opleiding
 
+### ART 28.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Alle bepalingen van hoofdstuk 3 zijn van toepassing op de stageovereenkomst alternerende opleiding met uitzondering van artikel 11, 4°, artikel 17, artikel 18, tweede lid, artikel 19, artikel 20, en artikel 26, § 3, derde lid.</span><br>
+&nbsp;
+
+### ART 29.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De leerling volgt de schoolvakantieregeling.</span>
+
 ## HOOFDSTUK 5 Toezicht
+
+### ART 30.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Onverminderd de vigerende decretale en reglementaire bepalingen met betrekking tot het toezicht in het onderwijs, met inbegrip van de leertijd door de onderwijsinspectie en de bevoegde onderwijsadministratie, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door het agentschap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap stelt voor de uitoefening van het toezicht een werkingscode op en maakt die bekend bij degenen bij wie toezicht wordt uitgeoefend.</span><br>
+&nbsp;
 
 ## HOOFDSTUK 5bis Bepalingen over gegevensverwerking
 
@@ -91,7 +361,21 @@
 
 ## Afdeling 1 Wijziging van de programmawet (I) van 24 december 2002
 
+### ART 31.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 346, § 3, van de programmawet van 24 december 2002, vervangen door het decreet van 4 maart 2016, wordt het eerste lid vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">" § 3. De werkgevers, vermeld in artikel 335 van deze wet, genieten van een doelgroepvermindering bij de tewerkstelling van jongeren in één van de volgende categorieën:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° leerlingen als vermeld in artikel 1bis van het koninklijk besluit van 28 november 1969 tot uitvoering van de wet van 27 juni 1969 tot herziening van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° jongeren tewerkgesteld met een arbeidsovereenkomst als vermeld in artikel 3, derde lid, van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.".</span><br>
+&nbsp;
+
 ## Afdeling 2 Wijziging van de programmawet van 2 augustus 2002
+
+### ART 32.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Aan artikel 104 van de programmawet van 2 augustus 2002 wordt een punt 6° toegevoegd, dat luidt als volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"6° opleidingen met een werkplekcomponent waarvoor beroepsinlevingsovereenkomsten in het betrokken decreet of de betrokken regelgeving impliciet of expliciet worden uitgesloten.".</span><br>
+&nbsp;
 
 ## Afdeling 3 Wijzigingen van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen"
 
@@ -102,6 +386,10 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"f) het uitbouwen en beheren van een duurzaam netwerk van erkende leerondernemingen;";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 1, 2°, o), worden de woorden "de leer- en stageovereenkomsten" vervangen door de woorden "de stageovereenkomsten".</span><br>
 &nbsp;
+
+### ART 34.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 6, § 2, 9°, van hetzelfde decreet, gewijzigd bij het decreet van 20 april 2012, worden de woorden "de leer- en stageovereenkomsten" vervangen door de woorden "de stageovereenkomsten" en wordt de zinsnede ", de leertrajectbegeleider" geschrapt.</span>
 
 ### ART 35.
 
@@ -233,13 +521,83 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 23 van hetzelfde decreet wordt het tweede lid opgeheven.</span><br>
 &nbsp;
 
+### ART 46.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 28 van hetzelfde decreet, gewijzigd bij het decreet van 20 april 2012, wordt vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. 28. De praktijkopleiding in de leertijd omvat het sluiten van een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of deeltijdse arbeidsovereenkomst conform de bepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.".</span><br>
+&nbsp;
+
+### ART 47.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 39 van hetzelfde decreet, gewijzigd bij het decreet van 20 april 2012, wordt vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Art. 39. De leertrajectbegeleiders:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° houden de nodige gegevens bij over de ondernemingen in de leertijd, de ondernemingshoofden-opleiders in de ondernemerschapstrajecten, de leerlingen leertijd die een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst willen sluiten en de cursisten-stagiairs die een stageovereenkomst willen sluiten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° staan de kandidaat-leerlingen leertijd en de cursisten-stagiairs bij met advies over de keuze van beroep, van onderneming en van de duurtijd van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° staan de ondernemingen en de ondernemingshoofden-opleiders bij met advies over de keuze van de leerling leertijd en de cursist-stagiair;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° zorgen ervoor dat de leerlingen leertijd zich inschrijven voor passende vorming, georganiseerd door de centra;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° treden op als tussenpersonen tussen de onderneming en de leerling leertijd of zijn wettelijke vertegenwoordiger of tussen het ondernemingshoofd en de cursist-stagiair bij het sluiten van een overeenkomst van alternerende opleiding, een stageovereenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst in de leertijd of bij het sluiten van stageovereenkomsten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° oefenen toezicht uit op de door hun bemiddeling gesloten stageovereenkomsten alternerende opleiding, overeenkomsten van alternerende opleiding en deeltijdse arbeidsovereenkomsten in de leertijd of op de stageovereenkomsten in de onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° zorgen voor pedagogische, morele en sociale begeleiding van de leerling leertijd en de cursist-stagiair;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° treden op als bemiddelaars in geval van geschillen tussen de onderneming of het ondernemingshoofd-opleider en de leerling leertijd of de cursist-stagiair;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° wonen pedagogische activiteiten bij die verband houden met de voormelde opdrachten.".</span><br>
+&nbsp;
+
+### ART 48.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Artikel 40 van hetzelfde decreet, gewijzigd bij het decreet van 20 april 2012, wordt opgeheven.</span><br>
+&nbsp;
+
+### ART 49.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 42, derde lid, van hetzelfde decreet, ingevoegd bij het decreet van 20 april 2012, wordt punt 3° vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"3° de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;".</span><br>
+&nbsp;
+
+### ART 50.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 44, tweede lid, 2°, van hetzelfde decreet, ingevoegd bij het decreet van 20 april 2012, wordt punt b) vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"b) de opheffing of intrekking van de erkenning van de stageovereenkomst;".</span><br>
+&nbsp;
+
 ## Afdeling 4 Wijzigingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken
+
+### ART 51.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 3 van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap, gewijzigd bij de decreten van 8 mei 2009, 19 juli 2013 en 21 maart 2014, wordt punt 13° opgeheven.</span><br>
+&nbsp;
+
+### ART 52.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 6 van hetzelfde decreet, gewijzigd bij het decreet van 4 april 2014, worden de volgende wijzigingen aangebracht:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° in paragraaf 1, derde lid, 2°, worden de woorden "de leerovereenkomst" vervangen door de woorden "de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 2, eerste lid, wordt punt 1° vervangen door wat volgt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"1° de reguliere tewerkstelling op basis van een overeenkomst van alternerende opleiding, een stageovereenkomst alternerende opleiding of een deeltijdse arbeidsovereenkomst conform de bepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen;".</span><br>
+&nbsp;
+
+### ART 53.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 31, tweede lid, van hetzelfde decreet worden de woorden "een leerovereenkomst" vervangen door de woorden "een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst".</span>
+
+### ART 54.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 77 van hetzelfde decreet worden de woorden "de leerovereenkomst" telkens vervangen door de woorden "de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding of de deeltijdse arbeidsovereenkomst".</span>
 
 ### ART 55.
 
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 78 van hetzelfde decreet wordt de zinsnede "door de afgevaardigde van Syntra Vlaanderen bezorgd aan de praktijkcommissie, die een beslissing neemt" vervangen door de zinsnede "bezorgd aan Syntra Vlaanderen, dat een beslissing neemt".</span>
 
 ## Afdeling 5 Wijzigingen van de Codex Secundair Onderwijs van 17 december 2010
+
+### ART 56.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 123/10 van de Codex Secundair Onderwijs van 17 december 2010, ingevoegd bij het decreet van 4 april 2014, worden de volgende wijzigingen aangebracht:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° aan paragraaf 1, 1°, wordt na de laatste zin de volgende zin toegevoegd:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Tijdelijke uitsluiting houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° aan paragraaf 1, 2°, worden volgende zinnen toegevoegd:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Definitieve uitsluiting houdt tevens in dat in voorkomend geval van rechtswege en van zodra blijkt dat ofwel geen ontvankelijk beroep is ingesteld ofwel de uitsluiting in beroep wordt bevestigd, een einde wordt gesteld aan elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd. Definitieve uitsluiting waarvoor een ontvankelijk beroep loopt, houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.";</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° aan paragraaf 2 wordt na de laatste zin de volgende zin toegevoegd:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Preventieve schorsing houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.".</span><br>
+&nbsp;
 
 ### ART 57.
 
@@ -253,6 +611,12 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° in paragraaf 2 wordt na de laatste zin de volgende zin toegevoegd:</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">"Preventieve schorsing houdt tevens in dat in voorkomend geval van rechtswege en met onmiddellijke ingang elke overeenkomst, ongeacht zijn vorm, waarop leren op een werkplek voor de betrokken leerling is gebaseerd, wordt geschorst.";</span><br>
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° in paragraaf 3 wordt punt 3° opgeheven.</span><br>
+&nbsp;
+
+### ART 58.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 123/13, § 4, van dezelfde codex, ingevoegd bij het decreet van 4 april 2014, wordt na het woord "op" de volgende zinsnede toegevoegd:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">", onverminderd het in artikel 123/10, § 1, 2°, en artikel 123/11, § 1, 2°, gestelde".</span><br>
 &nbsp;
 
 ### ART 59.
@@ -275,3 +639,24 @@
 <span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In artikel 123/17, § 1, tweede lid, van dezelfde codex, ingevoegd bij het decreet van 4 april 2014, worden de woorden "indien het een evaluatiebeslissing over de algemene vorming betreft" opgeheven.</span>
 
 ## HOOFDSTUK 7 Slotbepalingen
+
+### ART 63.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomsten die vóór de inwerkingtreding van dit decreet gesloten zijn met lesvolging in het stelsel leren en werken, blijven lopen tot de einddatum ervan.</span><br>
+&nbsp;
+
+### ART 64.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De wet van 19 juli 1983 op het leerlingwezen voor beroepen uitgeoefend door werknemers in loondienst, het laatst gewijzigd bij het decreet van 24 april 2015, wordt opgeheven.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid blijft dezelfde wet van 19 juli 1983 van kracht voor de overeenkomsten die met toepassing van deze wet zijn gesloten vóór 1 september 2016 en tot hun einddatum. Op die overeenkomsten zijn de bepalingen van dit decreet niet van toepassing.</span><br>
+&nbsp;
+
+### ART 65.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van artikel 7, §§ 1 en 2, worden de ondernemingen die bij de inwerkingtreding van dit decreet erkend waren in het stelsel leren en werken of in het schooljaar 2015-2016 verbonden waren door een overeenkomst met een leerling in het stelsel leren en werken erkend voor één jaar vanaf de inwerkingtreding van dit decreet.</span><br>
+&nbsp;
+
+### ART 66.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Dit decreet treedt in werking op 1 september 2016, met uitzondering van de artikelen 2, 7, 8, 33, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 55, 57, 59, 60, 61 en 62, die in werking treden op 1 juli 2016.</span>
