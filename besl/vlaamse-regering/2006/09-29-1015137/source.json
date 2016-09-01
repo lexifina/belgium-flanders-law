@@ -2,16 +2,16 @@
   "codex_id": 1015137,
   "title": "Besluit van de Vlaamse Regering van 2006-09-29 betreffende de voorwaarden voor de overdracht van onroerende goederen door de Vlaamse Maatschappij voor Sociaal Wonen en de sociale huisvestingsmaatschappijen ter uitvoering van de Vlaamse Wooncode",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015137/VolledigDocument?datum=2015-08-24",
-  "source_sha256": "df4edd86b026e7ba0726fcc8f59dab597b5830d21bc1f396ca39f4f25b08ccf5",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1015137/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "3e0aa154fdc2695cca2b9eba7d3e59554b5829c86836087afb53b26d2e44217a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1015137&param=informatie",
-  "as_of": "2015-08-24",
+  "as_of": "2016-09-01",
   "made": "2006-09-29",
   "gazette": "2006-11-13",
   "numac": 2006036842,
   "document_start": "2006-11-23",
   "document_end": "2020-12-31",
-  "in_force": "2015-08-24",
+  "in_force": "2016-09-01",
   "article_versions": 28,
-  "record_form": "consolidated version as in force on 2015-08-24; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
