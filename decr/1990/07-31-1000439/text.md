@@ -1061,11 +1061,39 @@ In het deeltijds kunstonderwijs betaalt een leerling voor elke studierichting wa
 
 ### ART. 100ter.
 
-<P>Voor het schooljaar 2015-2016 bedraagt het inschrijvingsgeld:<BR>1° 300   euro;<BR>2° 125 euro als de leerling de leeftijd van 25 jaar niet heeft bereikt   of recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel   100quater;<BR>3° 62 euro als de leerling de leeftijd van 18 jaar niet bereikt   heeft op 31 december van het schooljaar in kwestie;<BR>4° 40 euro als de   leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het   betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld   in artikel 100quater.<BR><BR>De inschrijvingsgelden voor het deeltijds   kunstonderwijs worden jaarlijks vanaf het schooljaar 2015-2016 vermenigvuldigd   met de aanpassingscoëfficiënt A die als volgt berekend wordt:<BR>A =   (Cx-1/Cx-2), waarbij:<BR>1° Cx-1: de gezondheidsindex van de maand januari van   het begrotingsjaar x-1;<BR>2° Cx-2: de gezondheidsindex van de maand januari van   het begrotingsjaar x-2.<BR><BR>Het bedrag wordt afgerond naar de hogere   eenheid.</P>
+<p>Voor het schooljaar 2015-2016 bedraagt het inschrijvingsgeld:<br>
+1° 300 euro;<br>
+2° 125 euro als de leerling de leeftijd van 25 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie of recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel 100quater;<br>
+3° 62 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie;<br>
+4° 40 euro als de leerling de leeftijd van 18 jaar niet bereikt heeft op 31 december van het betrokken schooljaar en recht heeft op het verminderde inschrijvingsgeld bedoeld in artikel 100quater.<br>
+<br>
+De inschrijvingsgelden voor het deeltijds kunstonderwijs worden jaarlijks vanaf het schooljaar 2015-2016 vermenigvuldigd met de aanpassingscoëfficiënt A die als volgt berekend wordt:<br>
+A = (Cx-1/Cx-2), waarbij:<br>
+1° Cx-1: de gezondheidsindex van de maand januari van het begrotingsjaar x-1;<br>
+2° Cx-2: de gezondheidsindex van de maand januari van het begrotingsjaar x-2.<br>
+<br>
+Het bedrag wordt afgerond naar de hogere eenheid.</p>
 
 ### ART. 100quater.
 
-<P>Om voor het verminderde inschrijvingsgeld in aanmerking te komen, moet de   leerling:<BR>1° een attest overleggen, uitgereikt door de bevoegde overheid,   waaruit blijkt dat hij:<BR>a) uitkeringsgerechtigd volledig werkloos is, of dat   hij ten laste is van een uitkeringsgerechtigde volledig werkloze;<BR>b)   verplicht ingeschreven is als werkzoekende op grond van de reglementering in   verband met de arbeidsvoorziening en de werkloosheid, of dat hij ten laste is   van een dergelijke persoon;<BR>2° een attest overleggen, uitgereikt door de   bevoegde overheid, waaruit blijkt dat hij:<BR>a) een leefloon van het OCMW   ontvangt;<BR>b) een inkomensgarantie voor ouderen of een rentebijslag   ontvangt;<BR>c) erkend is als gehandicapte en een tegemoetkoming van de Federale   Overheidsdienst Sociale Zekerheid ontvangt;<BR>d) voor ten minste 66 %   arbeidsongeschikt is;<BR>e) begunstigde is van een verhoogde kinderbijslag   (erkend voor ten minste 66 %);<BR>f) persoon ten laste is van een persoon,   bedoeld in a) of in b) of in c) of in d);<BR>3° het bewijs overleggen dat hij in   een gezinsvervangend tehuis of in een medisch-pedagogische instelling   verblijft;<BR>4° het bewijs overleggen dat hij het statuut van erkend politiek   vluchteling heeft of ten laste is van een dergelijke persoon;<BR>5° een attest   overleggen van het kinderbijslagfonds, indien hij ouder is dan 18   jaar.<BR><BR>Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31   december van het schooljaar in kwestie, betaalt het verminderde   inschrijvingsgeld:<BR>1° indien een ander lid van de leefeenheid waartoe hij   behoort het inschrijvingsgeld reeds heeft betaald in een instelling voor   deeltijds kunstonderwijs;<BR>2° voor iedere extra inschrijving in een andere   studierichting in een instelling voor deeltijds   kunstonderwijs.</P>
+<p>Om voor het verminderde inschrijvingsgeld in aanmerking te komen, moet de leerling:<br>
+1° een attest overleggen, uitgereikt door de bevoegde overheid, waaruit blijkt dat hij:<br>
+a) uitkeringsgerechtigd volledig werkloos is, of dat hij ten laste is van een uitkeringsgerechtigde volledig werkloze;<br>
+b) verplicht ingeschreven is als werkzoekende op grond van de reglementering in verband met de arbeidsvoorziening en de werkloosheid, of dat hij ten laste is van een dergelijke persoon;<br>
+2° een attest overleggen, uitgereikt door de bevoegde overheid, waaruit blijkt dat hij:<br>
+a) een leefloon van het OCMW ontvangt;<br>
+b) een inkomensgarantie voor ouderen of een rentebijslag ontvangt;<br>
+c) erkend is als gehandicapte en een tegemoetkoming van de Federale Overheidsdienst Sociale Zekerheid ontvangt;<br>
+d) voor ten minste 66 % arbeidsongeschikt is;<br>
+e) begunstigde is van een verhoogde kinderbijslag (erkend voor ten minste 66 %);<br>
+f) persoon ten laste is van een persoon, bedoeld in a) of in b) of in c) of in d);<br>
+3° het bewijs overleggen dat hij in een gezinsvervangend tehuis of in een medisch-pedagogische instelling verblijft;<br>
+4° het bewijs overleggen dat hij het statuut van erkend politiek vluchteling heeft of ten laste is van een dergelijke persoon;<br>
+5° ...<br>
+<br>
+Een leerling die de leeftijd van 18 jaar niet bereikt heeft op 31 december van het schooljaar in kwestie, betaalt het verminderde inschrijvingsgeld:<br>
+1° indien een ander lid van de leefeenheid waartoe hij behoort het inschrijvingsgeld reeds heeft betaald in een instelling voor deeltijds kunstonderwijs;<br>
+2° voor iedere extra inschrijving in een andere studierichting in een instelling voor deeltijds kunstonderwijs.</p>
 
 ### ART. 100quinquies.
 
