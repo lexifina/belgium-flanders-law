@@ -2,16 +2,16 @@
   "codex_id": 1026923,
   "title": "Besluit van de Vlaamse Regering van 2016-05-04 tot vaststelling van de lijst van de bachelor- en mastergraden in het academisch onderwijs waaraan de specificatie \"of Arts\", \"of Science\", \"of Laws\", \"of Medicine\", \"of Veterinary Science\", \"of Veterinary Medicine\" of \"of Philosophy\" mag worden toegevoegd",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026923/VolledigDocument?datum=2015-09-01",
-  "source_sha256": "082bb96825011c8e4c384beb7f71b17fdc7227f035d8bff4f7be75e410081f4b",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026923/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "1df166b11c6bc44f51703f8f4f73aa81d72097468954d0a8385d4806bda4e430",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026923&param=informatie",
-  "as_of": "2015-09-01",
+  "as_of": "2016-09-01",
   "made": "2016-05-04",
   "gazette": "2016-06-23",
   "numac": 2016035908,
   "document_start": "2015-09-01",
   "document_end": "2016-08-31",
-  "in_force": "2015-09-01",
+  "in_force": "2016-09-01",
   "article_versions": 6,
-  "record_form": "consolidated version as in force on 2015-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
