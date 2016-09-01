@@ -610,6 +610,10 @@ In   artikel 15 van hetzelfde decreet wordt paragraaf 2 opgeheven.<BR   style="W
 
 Aan   artikel 39, § 1, van het decreet van 3 juli 2015 houdende bepalingen van de   aanpassing van de begroting 2015 wordt een tweede lid toegevoegd, dat luidt als   volgt:<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">"In   afwijking van het eerste lid wordt de heffing in het jaar 2015 voor 15 december   betaald.".<BR   style="WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(0,0,0); FONT: medium 'Times New Roman'; WIDOWS: 1; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px">
 
+### ART 170/1.
+
+De Vlaamse Regering wordt gemachtigd om de Klimaatprijs uit te reiken. De Klimaatprijs is een jaarlijkse prijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen.
+
 ### ART 170/2.
 
 De Vlaamse Regering wordt gemachtigd om de Prijs Rudi Verheyen uit te reiken. De Prijs Rudi Verheyen is een jaarlijkse prijs voor wetenschappelijk werk met een bijzondere verdienste voor het Vlaamse milieu- en natuurbeleid.
