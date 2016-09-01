@@ -250,7 +250,7 @@ De volgende inkomsten van de SHM worden in aanmerking genomen voor de   berekeni
 
 ### ART. 33.
 
-Met behoud van de toepassing van artikel 3, § 1, 5°, van het besluit van   de Vlaamse Regering van 10 november 2005 tot oprichting van het intern   verzelfstandigd agentschap zonder rechtspersoonlijkheid Inspectie RWO is de   toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode, bevoegd om   controle uit te oefenen op de aanwending van de tenlastenemingen en subsidies,   toegekend overeenkomstig hoofdstuk 3.
+Met behoud van de toepassing van artikel 3, tweede lid, 13°, van het besluit van de Vlaamse Regering van 16 december 2005 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Wonen-Vlaanderen is de toezichthouder, vermeld in artikel 29bis van de Vlaamse Wooncode, bevoegd om controle uit te oefenen op de aanwending van de tenlastenemingen en subsidies, toegekend overeenkomstig hoofdstuk 3.
 
 ### ART. 34.
 
