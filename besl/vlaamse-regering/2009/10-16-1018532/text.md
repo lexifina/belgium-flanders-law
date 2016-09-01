@@ -30,7 +30,17 @@ Het ziekteverlof, het bevallingsverlof, de afwezigheid wegens arbeidsongeval, we
 
 ### ART. 7.
 
-Tijdens de periode van terbeschikkingstelling wegens persoonlijke aangelegenheden heeft het personeelslid voor de prestatie of prestaties waarvoor het ter beschikking gesteld is, geen recht op salaris, salaristoelage, wachtgeld of wachtgeldtoelage.<br /><br />Een terbeschikkingstelling wegens persoonlijke aangelegenheden die het personeelslid genoten heeft tijdens het schooljaar of dienstjaar, heeft tot gevolg dat het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd.
+Tijdens de periode van terbeschikkingstelling wegens persoonlijke aangelegenheden heeft het personeelslid voor de prestatie of prestaties waarvoor het ter beschikking gesteld is, geen recht op salaris, salaristoelage, wachtgeld of wachtgeldtoelage.<br>
+<br>
+Een terbeschikkingstelling wegens persoonlijke aangelegenheden die het personeelslid genoten heeft tijdens het schooljaar of dienstjaar, heeft tot gevolg dat het salaris tijdens het jaarlijkse vakantieverlof in evenredige mate wordt verminderd.<br>
+<br>
+Het tweede lid is niet van toepassing op:<br>
+1° de personeelsleden van het meesters-, vak- en dienstpersoneel;<br>
+2° de personeelsleden van de categorie van het administratief personeel van de medisch-pedagogische instituten van het Gemeenschapsonderwijs, van de semi-internaten of van de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben;<br>
+3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
+4° de personeelsleden van:<br>
+a) de internaten met permanente openstelling;<br>
+b) het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
 
 ### ART. 8.
 
