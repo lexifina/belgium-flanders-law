@@ -78,7 +78,22 @@ q) het implementeren van de doel- en kansengroepen in de ondernemerschapstraject
 
 ### ART. 6.
 
-§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br /><br />§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het kaderdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die hem verbindt:<br />1° het uittekenen van de concrete pedagogische noden en de concrete planning en coördinatie inzake de opleiding, begeleiding en vorming van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen of versterken;<br />2° het opmaken van het programma van de leertijd en de ondernemerschapstrajecten, rekening houdend met de vestigingsvoorwaarden voor de gereglementeerde beroepen;<br />3° het opmaken van de programmatie van de vorming ten behoeve van de in 1° bedoelde personen, alsmede de goedkeuring van het bijhorende organisatieplan. Voor de leertijd moeten de bepalingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap met betrekking tot de programmatie in de opleidingscentra in acht genomen worden;<br />4° onverminderd de bepalingen inzake retributie of lasten van algemene aard opgenomen in andere decreten en onder de voorwaarden en modaliteiten bepaald door de Vlaamse regering, het aanrekenen van een bijzonder kostendekkende vergoeding voor bijzondere of bijkomende administratieve handelingen of controles van de centra;<br />5° het toekennen van subsidies aan de centra en financiële compensaties aan de centra en andere opleidingsverstrekkers;<br />6° het aangaan van samenwerkingsovereenkomsten, dan wel de totstandkoming van duurzame samenwerkingsverbanden, met instellingen of personen;<br />7° het instellen van onderzoeken, controles en enquêtes alsmede het inwinnen van alle inlichtingen inzake het algemeen en het pedagogisch-didactisch toezicht op de vormingsactiviteiten en inzake het uitoefenen van het toezicht op de naleving van de bepalingen van dit decreet en de krachtens dit decreet genomen uitvoeringsbesluiten;<br />8° het instellen van sancties bij het vaststellen van inbreuken op sub 7° vermelde regels;<br />9° het verlenen van de erkenning van de vormingsactiviteiten, de leer- en stageovereenkomsten, de leertrajectbegeleider en de directeur-afgevaardigd bestuurder van een centrum;<br />10° het certificeren van diploma's en getuigschriften overeenkomstig de regels vastgelegd door de Vlaamse regering;<br />11° het innen van de sub punt 4° bedoelde kostendekkende vergoedingen.<br /><br />§ 3. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 6, § 2, vermelde aangelegenheden. In deze regels kunnen de bevoegdheden van het agentschap verder worden gepreciseerd en geconcretiseerd.
+§ 1. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken is het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" gerechtigd alle activiteiten te verrichten die rechtstreeks of onrechtstreeks bijdragen tot de verwezenlijking van voormelde missie en voormelde taken.<br>
+<br>
+§ 2. Met het oog op de vervulling van de in artikel 4 bedoelde missie en de in artikel 5 bedoelde taken beschikt het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" tevens inzonderheid over de hierna vermelde bijzondere bevoegdheden die het agentschap uitoefent in overeenstemming met het kaderdecreet en het bepaalde in dit decreet, zijn uitvoeringsbesluiten en de beheersovereenkomst die hem verbindt:<br>
+1° het uittekenen van de concrete pedagogische noden en de concrete planning en coördinatie inzake de opleiding, begeleiding en vorming van ondernemers, hun medewerkers en alle ondernemende jongeren en volwassenen die hun professionele competenties willen ontwikkelen of versterken;<br>
+2° het opmaken van het programma van de leertijd en de ondernemerschapstrajecten, rekening houdend met de vestigingsvoorwaarden voor de gereglementeerde beroepen;<br>
+3° het opmaken van de programmatie van de vorming ten behoeve van de in 1° bedoelde personen, alsmede de goedkeuring van het bijhorende organisatieplan. Voor de leertijd moeten de bepalingen van het decreet van 10 juli 2008 betreffende het stelsel van leren en werken in de Vlaamse Gemeenschap met betrekking tot de programmatie in de opleidingscentra in acht genomen worden;<br>
+4° onverminderd de bepalingen inzake retributie of lasten van algemene aard opgenomen in andere decreten en onder de voorwaarden en modaliteiten bepaald door de Vlaamse regering, het aanrekenen van een bijzonder kostendekkende vergoeding voor bijzondere of bijkomende administratieve handelingen of controles van de centra;<br>
+5° het toekennen van subsidies aan de centra en financiële compensaties aan de centra en andere opleidingsverstrekkers;<br>
+6° het aangaan van samenwerkingsovereenkomsten, dan wel de totstandkoming van duurzame samenwerkingsverbanden, met instellingen of personen;<br>
+7° het instellen van onderzoeken, controles en enquêtes alsmede het inwinnen van alle inlichtingen inzake het algemeen en het pedagogisch-didactisch toezicht op de vormingsactiviteiten en inzake het uitoefenen van het toezicht op de naleving van de bepalingen van dit decreet en de krachtens dit decreet genomen uitvoeringsbesluiten;<br>
+8° het instellen van sancties bij het vaststellen van inbreuken op sub 7° vermelde regels;<br>
+9° het verlenen van de erkenning van de vormingsactiviteiten, de&nbsp;stageovereenkomsten en de directeur-afgevaardigd bestuurder van een centrum;<br>
+10° het certificeren van diploma's en getuigschriften overeenkomstig de regels vastgelegd door de Vlaamse regering;<br>
+11° het innen van de sub punt 4° bedoelde kostendekkende vergoedingen.<br>
+<br>
+§ 3. De Vlaamse regering kan nadere regels uitvaardigen betreffende de in artikel 6, § 2, vermelde aangelegenheden. In deze regels kunnen de bevoegdheden van het agentschap verder worden gepreciseerd en geconcretiseerd.
 
 ## HOOFDSTUK IV BESTUUR EN WERKING
 
@@ -287,7 +302,7 @@ De leertijd bestaat uit een praktijkopleiding in een onderneming, aangevuld met 
 
 ### ART. 28.
 
-§ 1. De praktijkopleiding in de leertijd omvat het sluiten van een leerovereenkomst.<br /><br />De leerovereenkomst is een overeenkomst voor bepaalde duur, waarbij een ondernemingshoofdopleider zich ertoe verbindt aan de leerling het beroep aan te leren door een algemene en technische vorming te geven of te doen geven, en waarbij de leerling zich ertoe verbindt de praktijk van het beroep aan te leren onder de leiding en het toezicht van een ondernemingshoofd-opleider, en de nodige theoretische vorming te volgen voor zijn opleiding.<br /><br />§ 2. Wanneer een ondernemingshoofd-opleider, een beroepsopleiding wil geven aan een leerling over wie hij de ouderlijke macht of de voogdij uitoefent, volstaat een verbintenis van bepaalde duur van het ondernemingshoofd tegenover de leertrajectbegeleider, leerverbintenis genoemd. Krachtens de leerverbintenis verbindt het ondernemingshoofdopleider zich ertoe aan de leerling dezelfde beroepsopleiding te geven als die waarin de leerovereenkomst, bedoeld in het tweede lid van de eerste paragraaf, voorziet en de leerling de nodige theoretische vorming te doen volgen voor zijn opleiding.<br /><br />§ 3. De leerovereenkomst, bedoeld in het tweede lid van de eerste paragraaf, en de leerverbintenis, bedoeld in de tweede paragraaf, moeten schriftelijk worden aangegaan.<br /><br />De Vlaamse regering bepaalt de regels betreffende de duur, de voorwaarden, de modelovereenkomst en de modelverbintenis, de vermeldingen en de bepalingen inzake de opleiding van de leerling in de onderneming.<br /><br />§ 4. De leerovereenkomst, bedoeld in het tweede lid van de eerste paragraaf en de leerverbintenis, bedoeld in de tweede paragraaf, moeten door het "Vlaams Agentschap voor Ondernemersvorming - Syntra Vlaanderen" worden erkend onder de door de Vlaamse regering gestelde voorwaarden. De Vlaamse regering stelt bovendien de voorwaarden vast voor de intrekking en de opheffing van de erkenning van de overeenkomst en de verbintenis, alsmede de algemene regelen voor de controle op het verloop van de leertijd.
+De praktijkopleiding in de leertijd omvat het sluiten van een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of deeltijdse arbeidsovereenkomst conform de bepalingen van het decreet van 10 juni 2016 tot regeling van bepaalde aspecten van alternerende opleidingen.
 
 ### ART. 29.
 
@@ -343,29 +358,20 @@ Een centrum kan, mits het voldoet aan de voorwaarden bedoeld in artikel 37, door
 
 ### ART. 39.
 
-De leertrajectbegeleiders hebben tot opdracht:<br>
-<br>
-1° het bijhouden van de nodige gegevens in verband met de ondernemingshoofden-opleiders en de leerlingen en cursisten-stagiairs die een leer- of stageovereenkomst wensen te sluiten;<br>
-<br>
-2° het bijstaan van de kandidaat-leerlingen en cursisten-stagiairs met advies inzake de keuze van beroep, van onderneming en van de duurtijd van de leerovereenkomst, de leerverbintenis en de stageovereenkomst;<br>
-<br>
-3° het bijstaan van de ondernemingshoofden-opleiders met advies inzake de keuze van de leerling en cursist-stagiair;<br>
-<br>
-4° het laten inschrijven van de leerlingen in de passende vorming georganiseerd door de centra;<br>
-<br>
-5° inzake het sluiten van leerovereenkomsten, leerverbintenissen en/of stageovereenkomsten, het optreden als tussenpersonen tussen het ondernemingshoofd en de leerling of zijn wettelijke vertegenwoordiger of tussen het ondernemingshoofd en de cursist-stagiair;<br>
-<br>
-6° het uitoefenen van toezicht op de door hun bemiddeling gesloten leerovereenkomsten, leer-verbintenissen en/of stageovereenkomsten in de onderneming;<br>
-<br>
-7° de pedagogische, morele en sociale begeleiding van de leerling en cursist-stagiair;<br>
-<br>
-8° het optreden als bemiddelaars in geval van geschillen tussen het ondernemingshoofd-opleider en de leerling of de cursist-stagiair;<br>
-<br>
-9° het bijwonen van pedagogische activiteiten die verband houden met voormelde opdrachten.
+De leertrajectbegeleiders:<br>
+1° houden de nodige gegevens bij over de ondernemingen in de leertijd, de ondernemingshoofden-opleiders in de ondernemerschapstrajecten, de leerlingen leertijd die een stageovereenkomst alternerende opleiding, een overeenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst willen sluiten en de cursisten-stagiairs die een stageovereenkomst willen sluiten;<br>
+2° staan de kandidaat-leerlingen leertijd en de cursisten-stagiairs bij met advies over de keuze van beroep, van onderneming en van de duurtijd van de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;<br>
+3° staan de ondernemingen en de ondernemingshoofden-opleiders bij met advies over de keuze van de leerling leertijd en de cursist-stagiair;<br>
+4° zorgen ervoor dat de leerlingen leertijd zich inschrijven voor passende vorming, georganiseerd door de centra;<br>
+5° treden op als tussenpersonen tussen de onderneming en de leerling leertijd of zijn wettelijke vertegenwoordiger of tussen het ondernemingshoofd en de cursist-stagiair bij het sluiten van een overeenkomst van alternerende opleiding, een stageovereenkomst van alternerende opleiding of een deeltijdse arbeidsovereenkomst in de leertijd of bij het sluiten van stageovereenkomsten;<br>
+6° oefenen toezicht uit op de door hun bemiddeling gesloten stageovereenkomsten alternerende opleiding, overeenkomsten van alternerende opleiding en deeltijdse arbeidsovereenkomsten in de leertijd of op de stageovereenkomsten in de onderneming;<br>
+7° zorgen voor pedagogische, morele en sociale begeleiding van de leerling leertijd en de cursist-stagiair;<br>
+8° treden op als bemiddelaars in geval van geschillen tussen de onderneming of het ondernemingshoofd-opleider en de leerling leertijd of de cursist-stagiair;<br>
+9° wonen pedagogische activiteiten bij die verband houden met de voormelde opdrachten.
 
 ### ART. 40.
 
-§ 1. De leertrajectbegeleiders worden erkend door de praktijkcommissie onder de voorwaarden bepaald bij besluit van de Vlaamse regering.<br /><br />§ 2. De leertrajectbegeleiders oefenen hun taken en bevoegdheden uit ten behoeve en onder de controle van de praktijkcommissie. Hiertoe sluit de praktijkcommissie met hen een overeenkomst waarin de praktijkcommissie hen bijkomende verplichtingen kan opleggen.<br /><br />§ 3. De overeenkomst bedoeld in § 2 moet schriftelijk worden gesloten. De Vlaamse regering legt bij besluit een modelovereenkomst vast, waarin zij de duur en de voorwaarden van de overeenkomst vastlegt.<br /><br />§ 4. De Vlaamse regering bepaalt bij besluit de vergoeding die aan de erkende leertrajectbegeleiders die door een overeenkomst met de praktijkcommissie zijn verbonden, wordt toegekend.
+...
 
 ## AFDELING 3 DE LESGEVERS
 
@@ -377,7 +383,31 @@ De Vlaamse regering bepaalt bij besluit de werkvoorwaarden en de geldelijke rege
 
 ### ART. 42.
 
-Met behoud van de toepassing van de bevoegdheden van de officieren van de gerechtelijke politie en het overeenkomstig artikel 39, 6°, uitgeoefende toezicht door de leertrajectbegeleiders, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de door het agentschap aangewezen personeelsleden.<br /><br />De personeelsleden, vermeld in het eerste lid, oefenen de volgende toezichts- en controleopdrachten uit :<br />1° het kwaliteits- en pedagogisch toezicht;<br />2° het financiële toezicht op de centra;<br />3° het toezicht op de uitvoering en financiële compensatie van toegewezen trajecten;<br />4° alle andere opdrachten die in het kader van toezicht worden toegekend bij decreet of besluit van de Vlaamse Regering.<br /><br />Het kwaliteits- en pedagogisch toezicht, vermeld in het tweede lid, omvat het toezicht op :<br />1° de uitvoering van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br />2° het organisatieplan;<br />3° de leer- en stageovereenkomst;<br />4° de procedures voor inschrijving, vrijstelling, en examens van cursisten;<br />5° het opleidingsprogramma;<br />6° de opvolging van aan de centra toegekende kwaliteitslabels.<br /><br />Het financiële toezicht op de centra, vermeld in het tweede lid, omvat het toezicht op :<br />1° de financiële aspecten van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br />2° de financiële compensaties ter uitvoering van artikel 38, § 2;<br />3° de jaarrekeningen van de centra;<br />4° de juistheid van de financiële informatie, en de relevantie, het consequente karakter en de bestendigheid van de boekhoudkundige principes en regels die bij de opstelling van de rekeningen worden gebruikt;<br />5° de toepassing in dit kader van de regelgeving inzake diensten van algemeen belang, diensten van algemeen economisch belang en marktdiensten, en de analyse van de financiële processen binnen de centra in dit verband;<br />6° de transparantie van de rapportering door de centra.<br /><br />Het toezicht op de uitvoering en financiële compensatie van toegewezen trajecten, vermeld in het tweede lid, omvat het toezicht op de uitvoering van de in de oproep vermelde of in overeenkomsten aangegane verbintenissen.
+Met behoud van de toepassing van de bevoegdheden van de officieren van de gerechtelijke politie en het overeenkomstig artikel 39, 6°, uitgeoefende toezicht door de leertrajectbegeleiders, wordt het toezicht op de uitvoering van dit decreet en de uitvoeringsbesluiten ervan uitgeoefend door de door het agentschap aangewezen personeelsleden.<br>
+<br>
+De personeelsleden, vermeld in het eerste lid, oefenen de volgende toezichts- en controleopdrachten uit :<br>
+1° het kwaliteits- en pedagogisch toezicht;<br>
+2° het financiële toezicht op de centra;<br>
+3° het toezicht op de uitvoering en financiële compensatie van toegewezen trajecten;<br>
+4° alle andere opdrachten die in het kader van toezicht worden toegekend bij decreet of besluit van de Vlaamse Regering.<br>
+<br>
+Het kwaliteits- en pedagogisch toezicht, vermeld in het tweede lid, omvat het toezicht op :<br>
+1° de uitvoering van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br>
+2° het organisatieplan;<br>
+3° de stageovereenkomst alternerende opleiding, de overeenkomst van alternerende opleiding, de deeltijdse arbeidsovereenkomst en de stageovereenkomst;<br>
+4° de procedures voor inschrijving, vrijstelling, en examens van cursisten;<br>
+5° het opleidingsprogramma;<br>
+6° de opvolging van aan de centra toegekende kwaliteitslabels.<br>
+<br>
+Het financiële toezicht op de centra, vermeld in het tweede lid, omvat het toezicht op :<br>
+1° de financiële aspecten van de engagementen van de centra in het kader van de uitvoering van de beheersovereenkomst en de ondernemingsplannen;<br>
+2° de financiële compensaties ter uitvoering van artikel 38, § 2;<br>
+3° de jaarrekeningen van de centra;<br>
+4° de juistheid van de financiële informatie, en de relevantie, het consequente karakter en de bestendigheid van de boekhoudkundige principes en regels die bij de opstelling van de rekeningen worden gebruikt;<br>
+5° de toepassing in dit kader van de regelgeving inzake diensten van algemeen belang, diensten van algemeen economisch belang en marktdiensten, en de analyse van de financiële processen binnen de centra in dit verband;<br>
+6° de transparantie van de rapportering door de centra.<br>
+<br>
+Het toezicht op de uitvoering en financiële compensatie van toegewezen trajecten, vermeld in het tweede lid, omvat het toezicht op de uitvoering van de in de oproep vermelde of in overeenkomsten aangegane verbintenissen.
 
 ### ART. 43.
 
@@ -385,7 +415,22 @@ De personeelsleden, vermeld in artikel 42, beschikken voor de uitoefening van hu
 
 ### ART. 44.
 
-De volgende maatregelen zijn mogelijk :<br />1° de gewone opmerking : de gewone opmerking wordt gebruikt voor kleine onregelmatigheden of voor duidelijk onvrijwillige gebreken;<br />2° het verzoek om verbetering : bij het verzoek om verbetering wordt aangegeven welke onregelmatigheid werd geconstateerd, welke verbetering er wordt verwacht binnen welke termijn. Op een verzoek om verbetering dat niet binnen de gestelde termijn in acht wordt genomen, volgt altijd een waarschuwing;<br />3° de waarschuwing : bij de waarschuwing is de vermelding opgenomen welke sanctie er zal worden toegepast als de gecontroleerde geen rekening houdt met de waarschuwing.<br /><br />De volgende sancties zijn mogelijk :<br />1° de verscherpte controle : er wordt systematisch tot verscherpte controle overgegaan als een waarschuwing is gegeven. De kosten van de verscherpte controle moeten door de gecontroleerde worden gedragen bij wijze van bijzondere kostendekkende vergoeding die concreet wordt bepaald in de werkingscode, vermeld in artikel 43, vijfde lid;<br />2° in het kader van de leertijd of de stage :<br />a) de schorsing, opheffing of intrekking van de erkenning van de leertrajectbegeleider;<br />b) de opheffing of intrekking van de erkenning van de leer- of stageovereenkomst of leerverbintenis;<br />c) de uitsluiting van het ondernemingshoofd-opleider of van de leerling;<br />3° de schorsing, opheffing of intrekking van de erkenning en subsidiëring van de activiteiten in hun geheel of van een deel ervan;<br />4° de schorsing, opheffing en intrekking van de erkenning van een directeur-afgevaardigd bestuurder van een centrum;<br />5° de schorsing, opheffing of intrekking van de erkenning van een centrum.<br /><br />Als een sanctie als vermeld in het tweede lid wordt uitgesproken, kan beroep worden ingesteld. De procedure voor het instellen van een beroep wordt door de Vlaamse Regering geregeld.
+De volgende maatregelen zijn mogelijk :<br>
+1° de gewone opmerking : de gewone opmerking wordt gebruikt voor kleine onregelmatigheden of voor duidelijk onvrijwillige gebreken;<br>
+2° het verzoek om verbetering : bij het verzoek om verbetering wordt aangegeven welke onregelmatigheid werd geconstateerd, welke verbetering er wordt verwacht binnen welke termijn. Op een verzoek om verbetering dat niet binnen de gestelde termijn in acht wordt genomen, volgt altijd een waarschuwing;<br>
+3° de waarschuwing : bij de waarschuwing is de vermelding opgenomen welke sanctie er zal worden toegepast als de gecontroleerde geen rekening houdt met de waarschuwing.<br>
+<br>
+De volgende sancties zijn mogelijk :<br>
+1° de verscherpte controle : er wordt systematisch tot verscherpte controle overgegaan als een waarschuwing is gegeven. De kosten van de verscherpte controle moeten door de gecontroleerde worden gedragen bij wijze van bijzondere kostendekkende vergoeding die concreet wordt bepaald in de werkingscode, vermeld in artikel 43, vijfde lid;<br>
+2° in het kader van de leertijd of de stage :<br>
+a) de schorsing, opheffing of intrekking van de erkenning van de leertrajectbegeleider;<br>
+b) de opheffing of intrekking van de erkenning van de stageovereenkomst;<br>
+c) de uitsluiting van het ondernemingshoofd-opleider;<br>
+3° de schorsing, opheffing of intrekking van de erkenning en subsidiëring van de activiteiten in hun geheel of van een deel ervan;<br>
+4° de schorsing, opheffing en intrekking van de erkenning van een directeur-afgevaardigd bestuurder van een centrum;<br>
+5° de schorsing, opheffing of intrekking van de erkenning van een centrum.<br>
+<br>
+Als een sanctie als vermeld in het tweede lid wordt uitgesproken, kan beroep worden ingesteld. De procedure voor het instellen van een beroep wordt door de Vlaamse Regering geregeld.
 
 ## HOOFDSTUK XI WIJZIGINGS- EN COÖRDINATIEMACHTIGING
 
