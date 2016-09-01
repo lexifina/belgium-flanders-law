@@ -2,6 +2,10 @@
 
 ## HOOFDSTUK 1 Algemeen
 
+### ART 1.
+
+<p>Dit decreet regelt een gemeenschaps- en gewestaangelegenheid.</p>
+
 ## HOOFDSTUK 2 Kanselarij en Bestuur
 
 ### ART 2.
@@ -42,6 +46,17 @@ De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepa
 
 ## Afdeling 1 Opheffen van de overstappremie
 
+### ART 5.
+
+<p>§ 1. In artikel 7 van de besluitwet van 28 december 1944 betreffende de maatschappelijke zekerheid der arbeiders, ingevoegd bij de programmawet van 22 december 2008, worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1, derde lid, wordt punt zc opgeheven;<br>
+2° paragraaf 4ter wordt vervangen door wat volgt :<br>
+" § 4ter. Het toezicht en de controle op de uitvoering van artikel 7, § 1, derde lid, i), m) en p), van deze besluitwet, en de uitvoeringsbesluiten van de voormelde bepalingen, verlopen conform het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht.".</p>
+
+### ART 6.
+
+<p>In artikel 2, § 1, eerste lid, van het decreet van 30 april 2004 houdende sociaalrechtelijk toezicht, het laatst gewijzigd bij het decreet van 4 maart 2016, wordt punt 48° opgeheven.</p>
+
 ## Afdeling 2 Invoeren van de afgevlakte/geblokkeerde gezondheidsindex in het decreet Sociale Werkplaatsen
 
 ### ART 7.
@@ -51,7 +66,21 @@ De Vlaamse Regering kan de datum waarop deze overeenkomst in werking treedt bepa
 
 ## HOOFDSTUK 5 Mobiliteit en Openbare Werken
 
+### ART 10.
+
+<p>In artikel 42 van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015, gewijzigd bij het decreet van 18 december 2015, worden volgende wijzigingen aangebracht :<br>
+1° aan paragraaf 3 worden een punt 3° en 4° toegevoegd, die luiden als volgt :<br>
+"3° de bijdrage en overschotten bedoeld in artikel 8 en 9 van het decreet van 8 juli 2016 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2016;<br>
+4° de middelen voortvloeiend uit de activa van het Fonds voor Voorziening en van Openbaar Nut voor de Inspectie van Automobielen, afgekort FIA, vereniging zonder winstoogmerk, opgericht op 7 juli 1970.";<br>
+2° aan paragraaf 4 worden na de woorden "ten bate van verkeersveiligheid" de woorden "met inbegrip van de regeling van de regularisatie van de exploitatievoorwaarden van de instellingen belast met de controle van de in het verkeer gebrachte voertuigen teneinde de organisatie van deze controle over het hele grondgebied te verzekeren" toegevoegd.</p>
+
 ## HOOFDSTUK 6 Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed
+
+### ART 12.
+
+<p>In artikel 16 van het decreet van 19 december 2003 houdende bepalingen tot begeleiding van de begroting 2004 worden de volgende wijzigingen aangebracht :<br>
+1° in het eerste lid worden de woorden "Stichting Vlaams Erfgoed" vervangen door de woorden "vzw Herita";<br>
+2° in het tweede lid worden tussen de woorden "wordt gemachtigd'' en de woorden "het bedrag'' de woorden "de voorwaarden en'' ingevoegd.</p>
 
 ## HOOFDSTUK 7 Onderwijs en Vorming
 
@@ -119,7 +148,23 @@ Deze bedragen gelden als basis voor de berekeningen, vermeld in paragraaf 1.<br>
 
 ## Afdeling 3 Verdeling middelen hogere taalvereiste NT2 voor schooljaar 2016-2017
 
+### ART 19.
+
+<p>In artikel 196quater van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, ingevoegd bij het decreet van 25 april 2014 en gewijzigd bij het decreet van 18 december 2015, worden volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1 wordt tussen de zinsnede "schooljaar 2015-2016" en het woord "worden" de zinsnede "en schooljaar 2016-2017" ingevoegd;<br>
+2° in paragraaf 2, tweede lid, wordt tussen de zinsnede "schooljaar 2015-2016" en het woord "wordt" de zinsnede "tot en met het schooljaar 2016-2017" ingevoegd.</p>
+
 ## Afdeling 4 Begrotingsfonds Departement Onderwijs en Vorming - verbreding van de projectenscope
+
+### ART 20.
+
+<p>In artikel 41 van het decreet van 20 december 2013 houdende bepalingen tot begeleiding van de begroting 2014, gewijzigd bij het decreet van 19 december 2014, worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 3 wordt punt 3° vervangen door wat volgt :<br>
+"3° projectsubsidies, verkregen door Vlaamse, Europese en/of (inter)nationale (co)financiering van projecten.";<br>
+2° paragraaf 4 wordt vervangen door wat volgt :<br>
+" § 4. Het fonds wordt aangewend ter financiering van :<br>
+1° de specifieke werkingskosten in verband met Onderwijscommunicatie, Klasse, Klascement en met inbegrip van projecten met Vlaamse, Europese of (inter)nationale (co)financiering;<br>
+2° alle personeels- en werkingskosten die voortvloeien uit projecten met Vlaamse, Europese en/of (inter)nationale (co)financiering.".</p>
 
 ## Afdeling 5 Fonds Dienstverlening AHOVOKS
 
@@ -165,7 +210,15 @@ De definitieve jaarrekening gaat vergezeld van een door het instellingsbestuur o
 
 ## Afdeling 1 Het Fonds ter valorisatie van de GIMV-participatie wordt opgeheven
 
+### ART 26.
+
+<p>Het Fonds ter valorisatie van de GIMV-participatie opgericht bij artikel 38 van het decreet van 24 juni 2005 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2005 wordt opgeheven. Het beschikbare saldo op basisallocatie 1CC023 van het begrotingsartikel CB0-1CEB4AB-PA wordt gedesaffecteerd naar de algemene middelen.</p>
+
 ## Afdeling 2 Het Fonds voor het Beheer, Uitrusting, Geschiktmaking, Onderhoud van gronden wordt opgeheven
+
+### ART 27.
+
+<p>Artikel 5, § 2, van het decreet van 24 juni 2005 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2005 wordt opgeheven. Het beschikbare saldo op basisallocatie 1CC027 van het begrotingsartikel CB0-1CEB4AB-WT wordt gedesaffecteerd naar de algemene middelen.</p>
 
 ## Afdeling 3 Onroerende voorheffing
 
@@ -191,16 +244,104 @@ Een aanslag heeft betrekking op de onroerende goederen die gelegen zijn in eenze
 
 ## Afdeling 2 Wijziging van titel XIV van het Energiedecreet van 8 mei 2009
 
+### ART 31.
+
+<p>Aan titel XIV, hoofdstuk I, van het Energiedecreet van 8 mei 2009 wordt een artikel 14.1.4 toegevoegd, dat luidt als volgt :<br>
+"Art. 14.1.4. Internationale organisaties en Europese instellingen die op basis van een zetelakkoord of een verdrag in België van belastingen op hun officieel gebruik zijn vrijgesteld, en die in de loop van het heffingsjaar volgens het toegangsregister titularis waren van een afnamepunt als vermeld in artikel 14.1.1, worden vrijgesteld van de heffing, vermeld in deze titel.<br>
+<br>
+De organisaties en instellingen, vermeld in het eerste lid, kunnen bij de toegangshouder van het afnamepunt de terugbetaling vragen van de bij hen, conform artikel 14.2.2, § 1, door de toegangshouder van het afnamepunt geïnde bedragen. Indien die toegangshouder dat bedrag op basis van de procedure, vermeld in artikel 14.2.2, § 2, al ten gunste van het Energiefonds heeft doorgestort, dan wordt het verschil door hem in mindering gebracht van het bedrag van de heffing dat de toegangshouder op de volgende vervaldatum moet storten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de procedure voor de teruggave of verrekening, vermeld in het tweede lid.".</p>
+
 ## Afdeling 3 Klimaatprijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen
+
+### ART 32.
+
+<p>In het decreet van 18 december 2015 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie wordt een artikel 170/1 ingevoegd, dat luidt als volgt :<br>
+"Art. 170/1. De Vlaamse Regering wordt gemachtigd om de Klimaatprijs uit te reiken. De Klimaatprijs is een jaarlijkse prijs voor duurzame klimaatprojecten die een bijdrage leveren aan het behalen van de lokale en Vlaamse milieu- en klimaatdoelstellingen.".</p>
 
 ## Afdeling 4 De Prijs Rudi Verheyen voor wetenschappelijk werk met een bijzondere verdienste voor het Vlaamse milieu- en natuurbeleid
 
+### ART 33.
+
+<p>In het decreet van 18 december 2015 houdende diverse bepalingen inzake omgeving, natuur en landbouw en energie wordt een artikel 170/2 ingevoegd, dat luidt als volgt :<br>
+"Art. 170/2. De Vlaamse Regering wordt gemachtigd om de Prijs Rudi Verheyen uit te reiken. De Prijs Rudi Verheyen is een jaarlijkse prijs voor wetenschappelijk werk met een bijzondere verdienste voor het Vlaamse milieu- en natuurbeleid.".</p>
+
 ## Afdeling 5 Wijziging van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen - Milieuheffingen
+
+### ART 34.
+
+<p>In artikel 46 van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen worden de volgende wijzigingen aangebracht :<br>
+1° aan paragraaf 1, 3°, wordt de zin "Vanaf 1 juli 2016 geldt een tarief van 100 euro per ton;" toegevoegd;<br>
+2° aan paragraaf 1, 5°, wordt de zin "Vanaf 1 juli 2016 geldt een tarief van 55 euro per ton;" toegevoegd;<br>
+3° aan paragraaf 1, 6°, wordt een punt c) toegevoegd, dat luidt als volgt :<br>
+"c) vanaf 1 juli 2016 : 15 euro per ton voor het storten van niet-brandbare, niet-recycleerbare slibresidu's afkomstig van PST-installaties op een daarvoor vergunde stortplaats;";<br>
+4° aan paragraaf 1, 9°, worden de volgende zinnen toegevoegd :<br>
+"Vanaf 1 juli 2016 geldt een tarief van 30 euro per ton. Ook in geval van export naar een ander gewest of lidstaat geldt het tarief slechts voor niet-brandbare afvalstoffen waarvoor wordt aangetoond dat de immobilisatie noodzakelijk is om te voldoen aan de in het Vlaamse Gewest geldende voorwaarden voor het storten van de betreffende afvalstoffen;";<br>
+5° aan paragraaf 1, 11°, worden de volgende zinnen toegevoegd :<br>
+"Vanaf 1 juli 2016 tot en met 2019 geldt dit tarief ook voor niet-recycleerbare residu's van selectief ingezameld gipsafval, afkomstig van bedrijven die selectief ingezameld gipsafval verwerken tot grondstof voor de productie van nieuwe gipsproducten. Dit tarief geldt voor een hoeveelheid die voor 2016 15 % en voor 2017, 2018 en 2019 10 % bedraagt van de hoeveelheid selectief ingezameld gipsafval dat bij betreffende bedrijven wordt aangevoerd;";<br>
+6° aan paragraaf 2, eerste lid, 1°, wordt de volgende zin toegevoegd :<br>
+"Vanaf 1 juli 2016 geldt een tarief van 100 * K euro per ton;";<br>
+7° aan paragraaf 2, eerste lid, 2°, wordt de volgende zin toegevoegd :<br>
+"Vanaf 1 juli 2016 geldt een tarief van 55 * K euro per ton.";<br>
+8° in paragraaf 2, vijfde lid, worden de punten 6°, 7° en 8° vervangen door wat volgt :<br>
+"6° in het heffingsjaar 2016 voor een te storten hoeveelheid die maximaal 60 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+7° in de heffingsjaren 2017, 2018 en 2019 voor een te storten hoeveelheid die maximaal 50 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+8° in het heffingsjaar 2020 voor een te storten hoeveelheid die maximaal 40 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;";<br>
+9° aan paragraaf 2, vijfde lid, worden de punten 9° tot en met 11° toegevoegd, die luiden als volgt :<br>
+"9° in het heffingsjaar 2021 voor een te storten hoeveelheid die maximaal 30 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+10° in het heffingsjaar 2022 voor een te storten hoeveelheid die maximaal 20 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd;<br>
+11° in het heffingsjaar 2023 voor een te storten hoeveelheid die maximaal 10 % bedraagt van de hoeveelheid materialen, waarvan maximaal 3 % metalen, die gewonnen werd in de PST-installatie en die voor nuttige toepassing werd afgevoerd.";<br>
+10° in paragraaf 2 wordt tussen het vijfde en het zesde lid een lid ingevoegd, dat luidt als volgt :<br>
+"Voor de berekening van de te storten hoeveelheid, vermeld in het vijfde lid, 6° tot en met 11° :<br>
+a) wordt de hoeveelheid kunststoffen die gewonnen werd voor de aanmaak van nieuwe kunststoffen vermenigvuldigd met een factor 2;<br>
+b) wordt de hoeveelheid non-ferro kleiner dan 5 mm, kabeltjes en printplaten die gewonnen werd voor afvoer naar en verwerking in een daartoe vergund bedrijf met het oog op de recuperatie van non-ferrometalen en edele metalen vermenigvuldigd met een factor 20. De hoeveelheid non-ferro kleiner dan 5 mm, kabeltjes en printplaten wordt niet meegerekend in de 3 % metalen, vermeld in punt 6° tot 11° hierboven.";<br>
+11° in paragraaf 3 wordt punt 1° vervangen door wat volgt :<br>
+"1° vanaf 1 juli 2016 voor het storten van asbesthoudende afvalstoffen met een gehalte aan asbest of gelijkaardige keramische vezels van meer dan 10.000 mg/kg, bepaald als gewogen gemiddelde concentratie, op een daartoe vergunde stortplaats. De gewogen gemiddelde concentratie is gelijk aan de som van de concentratie hechtgebonden asbest en 10 maal de concentratie niet-hechtgebonden asbest (cf. Compendium voor monsterneming en analyse CMA/2/II/C2 en 3).<br>
+Het tarief van 0 euro per ton geldt tevens voor met asbest (of gelijkaardige keramische vezels) verontreinigde gronden en puin met een asbestgehalte groter dan 1.000 mg/kg (0,1 %), bepaald als totale asbestconcentratie, en kleiner dan of gelijk aan 10.000 mg/kg, bepaald als gewogen gemiddelde concentratie, die overeenkomstig het advies van OVAM niet kunnen gereinigd worden via de beste beschikbare technieken;";<br>
+12° aan paragraaf 3 wordt een punt 6° toegevoegd, dat luidt als volgt :<br>
+"6° vanaf 1 juli 2016 voor het verbranden of meeverbranden in een daartoe vergunde inrichting van de hierna vermelde afvalstoffen geproduceerd in een ander land dan België en die worden overgebracht onder toepassing van de bepalingen van de Verordening (EG) Nr 1013/2006 van 14 juni 2006 betreffende de overbrenging van afvalstoffen :<br>
+a) gevaarlijke afvalstoffen;<br>
+b) ongevaarlijke slibs, behorende tot de hoofdstukken 04, 05, 06, 07, 08, 12, 16 en 19 van de lijst, bedoeld in artikel 35.<br>
+Het nultarief geldt zowel voor de ingevoerde gevaarlijke afvalstoffen en ongevaarlijke slibs die rechtstreeks naar de verbrandings- of meeverbrandingseenheid worden overgebracht als voor de afvalstoffen en slibs die na een nuttige voorbehandeling in een daartoe vergunde inrichting, al of niet samen met Vlaamse afvalstoffen, worden verbrand of meeverbrand.<br>
+Onverminderd de bepalingen hierboven geldt het nultarief slechts voor die hoeveelheden die overeenkomstig de goedkeuring van OVAM aan de gestelde voorwaarden voldoen en volledig traceerbaar zijn.";<br>
+13° aan paragraaf 5 wordt de volgende zin toegevoegd :<br>
+"Vanaf het begrotingsjaar 2017 gebeurt de jaarlijkse indexering op basis van het indexcijfer van de maand november van het voorgaande jaar, een eerste keer op 1 januari 2017 op basis van het indexcijfer van november 2016, basis 2006.".</p>
+
+### ART 35.
+
+<p>Voor de toepassing van artikel 46, § 5, van het decreet van 23 december 2011 betreffende het duurzaam beheer van materiaalkringlopen en afvalstoffen zijn de bedragen zoals gewijzigd door het decreet van 8 juli 2016 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2016 gekoppeld aan het indexcijfer van de consumptieprijzen van december 2015, basis 1996.</p>
 
 ## HOOFDSTUK 10 Welzijn, Volksgezondheid en Gezin
 
 ## Afdeling 1 Aankoop van vaccins voor vaccinatie van asielzoekers
 
+### ART 36.
+
+<p>In artikel 2 van het decreet van 7 juli 1998 houdende bepalingen tot begeleiding van de aanpassing van de begroting 1998, vervangen bij het decreet van 19 december 2003 en gewijzigd bij de decreten van 8 juli 2011, 21 december 2012, 19 december 2014 en 18 december 2015, worden de volgende wijzigingen aangebracht :<br>
+1° in paragraaf 1 wordt de zinsnede "en voor de uitvoering van de overeenkomst (1 augustus 2015-31 juli 2016) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid," vervangen door de zinsnede ", voor de uitvoering van de overeenkomst (1 augustus 2015-31 juli 2016) van 13 oktober 2015 tussen het Comité van de verzekering voor Geneeskundige Verzorging, ingesteld bij de dienst voor Geneeskundige Verzorging van het RIZIV, en het Agentschap Zorg en Gezondheid, en voor de uitvoering van het protocolakkoord van 5 februari 2016 tussen de federale overheid en de Vlaamse Gemeenschap betreffende de aankoop van vaccins voor vaccinatie van asielzoekers,";<br>
+2° er wordt een paragraaf 2/4 ingevoegd, die luidt als volgt :<br>
+" § 2/4. Het Fonds wordt gespijsd met middelen die in uitvoering van het protocolakkoord van 5 februari 2016 tussen de federale overheid en de Vlaamse Gemeenschap, vermeld in § 1, worden betaald voor de aankoop van vaccins door het Agentschap Zorg en Gezondheid voor de vaccinatie van nieuwe asielzoekers die België binnenkomen.";<br>
+3° er wordt een paragraaf 3/4 ingevoegd, die luidt als volgt :<br>
+" § 3/4. Ten laste van dit Fonds wordt, conform het protocolakkoord van 5 februari 2016, vermeld in § 1, door de Vlaamse Gemeenschap, de aankoop betaald van vaccins die via het Agentschap Zorg en Gezondheid besteld worden voor de vaccinatie van nieuwe asielzoekers die België binnenkomen.".</p>
+
 ## Afdeling 2 Gewezen DAC-statuut in woonzorgcentra
 
+### ART 37.
+
+<p>De Vlaamse Regering wordt gemachtigd om voor woonzorgcentra die worden gesubsidieerd voor de loonkost van de personeelsleden in een gewezen DAC-statuut een regeling vast te leggen die in de mogelijkheid voorziet om de subsidie voor de werknemers die na 31 december 2002 in dienst zijn gekomen uit te laten doven.</p>
+
 ## HOOFDSTUK 11 Inwerkingtreding
+
+### ART 38.
+
+<p>Dit decreet treedt in werking 10 dagen na bekendmaking in het Belgisch Staatsblad, met uitzondering van :<br>
+1° de artikelen 29 en 30, die in werking treden op 1 augustus 2016;<br>
+2° artikel 19, dat in werking treedt op 1 september 2016;<br>
+3° de artikelen 13 en 25, die uitwerking hebben vanaf 1 januari 2015;<br>
+4° artikel 7, dat uitwerking heeft vanaf 27 april 2015;<br>
+5° de artikelen 21 en 22, die uitwerking hebben vanaf 1 juli 2015;<br>
+6° de artikelen 2, 14, 15, 16, 17, 18, 23 en 24, die uitwerking hebben vanaf 1 januari 2016;<br>
+7° de artikelen 3, 4, 10, 1°, voor zover het een punt 4° invoegt in artikel 42 van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015, gewijzigd bij het decreet van 18 december 2015, 34 en 35, die uitwerking hebben vanaf 1 juli 2016;<br>
+8° de artikelen 8, 9, 10, 1°, voor zover het een punt 3° invoegt in artikel 42 van het decreet van 3 juli 2015 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2015, gewijzigd bij het decreet van 18 december 2015, en 2°, en artikel 11, die uitwerking hebben vanaf 31 december 2016;<br>
+9° artikel 28, dat uitwerking heeft vanaf aanslagjaar 2016.</p>
