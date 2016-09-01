@@ -6,12 +6,12 @@
 
 ### ART. 1.
 
-De opleiding master in de stedenbouw en de ruimtelijke planning,   georganiseerd in de vestigingen Brussel-Hoofdstad en Gent, krijgt een tijdelijke   erkenning.<BR>
+...
 
 ### ART. 2.
 
-De tijdelijke erkenning, vermeld in artikel 1, geldt voor een periode van   drie jaar, die ingaat vanaf het begin van het academiejaar 2013-2014 en vervalt   op het einde van het academiejaar 2015-2016.<BR>
+...
 
 ### ART. 3.
 
-De Vlaamse minister, bevoegd voor het onderwijs, is belast met de   uitvoering van dit besluit.<BR>
+...
