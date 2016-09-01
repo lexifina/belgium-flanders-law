@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027847,
+  "title": "Decreet van 2016-12-23 houdende de implementatie van de zesde staatshervorming en houdende diverse bepalingen met betrekking tot het beleidsdomein Werk en Sociale Economie",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027847/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "206a3a35410dc8e20df071228f8d945d6bb3ec34627bb16b4d51d46427d2ea17",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027847&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-12-23",
+  "gazette": "2017-02-09",
+  "numac": 2017040033,
+  "document_start": "2017-01-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 1,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
