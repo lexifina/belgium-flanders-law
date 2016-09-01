@@ -10,7 +10,13 @@ Dit decreet regelt een gemeenschapsaangelegenheid<br /><br />
 
 ### ART. 2.
 
-In elke provincie is er één regionaal technologisch centrum, hierna RTC te noemen. Het RTC Vlaams-Brabant heeft ook het Brusselse Hoofdstedelijke Gewest in zijn werkingsgebied. Het RTC neemt de rechtsvorm aan van een vereniging zonder winstoogmerk zoals bepaald in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br /><br />De werking van een RTC is gericht op :<br />1° de bewerkstelliging van synergieën tussen onderwijsinstellingen en bedrijven;<br />2° de optimale doorstroming van leerlingen, studenten en cursisten naar het bedrijfsleven;<br />3° de opwaardering van het technisch onderwijs en het beroepsonderwijs.<br /><br />
+In elke provincie is er één regionaal technologisch centrum, hierna RTC te noemen. Het RTC Vlaams-Brabant heeft ook het Brusselse Hoofdstedelijke Gewest in zijn werkingsgebied. Het RTC neemt de rechtsvorm aan van een vereniging zonder winstoogmerk zoals bepaald in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen.<br>
+<br>
+De werking van een RTC is gericht op :<br>
+1° de bewerkstelliging van synergiën tussen onderwijsinstellingen en bedrijven;<br>
+2° de optimale doorstroming van leerlingen naar het bedrijfsleven;<br>
+3° de ondersteuning van het technisch onderwijs, het beroepsonderwijs en de leertijd.<br>
+&nbsp;
 
 ### ART. 3.
 
@@ -26,7 +32,7 @@ Een RTC neemt concrete initiatieven inzake :<br />1° de onderlinge afstemming t
 
 ### ART. 5.
 
-De Vlaamse Regering houdt toezicht op de RTC via gerichte procescontrole   die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit   decreet en de beheersovereenkomst zoals bedoeld in artikel 4.
+De Vlaamse Regering houdt toezicht op de RTC via gerichte controle die erin bestaat de RTC-structuren, -processen en -uitkomsten te toetsen aan dit decreet en de beheersovereenkomst zoals bedoeld in artikel 4.
 
 ## Afdeling II Financiële bijdrage van de Vlaamse Gemeenschap
 
@@ -38,7 +44,15 @@ De Vlaamse Regering houdt toezicht op de RTC via gerichte procescontrole   die e
 
 ### ART. 7.
 
-Naast de financiële bijdragen van de Vlaamse Gemeenschap als bedoeld in artikel 6 kan een RTC over de volgende middelen beschikken :<br />1° financiële, materiële of immateriële middelen die op eigen initiatief door actoren uit de onderwijssector, het bedrijfsleven of door openbare besturen worden ingebracht;<br />2° vergoedingen voor verleende diensten aan organisaties andere dan door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijs-, opleidings- of vormingsinstellingen;<br />3° opbrengsten uit eigen bezit;<br />4° schenkingen en legaten;<br />5° leningen van allerlei aard;<br />6° vergoedingen in geval ingeschreven deelnemers zonder voorafgaandelijke verwittiging niet kwamen opdagen; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden.<br /><br />
+Naast de financiële bijdragen van de Vlaamse Gemeenschap als bedoeld in artikel 6 kan een RTC over de volgende middelen beschikken :<br>
+1° financiële, materiële of immateriële middelen die op eigen initiatief door actoren uit de onderwijssector, het bedrijfsleven of door openbare besturen worden ingebracht;<br>
+2° vergoedingen voor verleende diensten aan organisaties andere dan door de Vlaamse Gemeenschap gefinancierde of gesubsidieerde onderwijs-, opleidings- of vormingsinstellingen;<br>
+3° opbrengsten uit eigen bezit;<br>
+4° schenkingen en legaten;<br>
+5° leningen van allerlei aard;<br>
+6° vergoedingen in geval ingeschreven deelnemers zonder voorafgaandelijke verwittiging niet kwamen opdagen; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden;<br>
+7° vergoedingen vanwege scholen bij deelname van leraren aan door een RTC ingerichte nascholingsprojecten; de bepaling van het bedrag zal in de beheersovereenkomst geregeld worden;<br>
+&nbsp;
 
 ## [HOOFDSTUK III/1. Governance (ing. decr. 8 juli 2022, art. 8, I: 1 september 2022)]
 
