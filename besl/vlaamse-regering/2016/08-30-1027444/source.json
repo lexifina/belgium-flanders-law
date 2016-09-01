@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027444,
+  "title": "Besluit van de Vlaamse Regering van 2016-08-30 betreffende de waarborgregeling in het basisonderwijs in het schooljaar 2016-2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027444/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "232a5291ae58f9ec68adce87dc8a7870a0b0ae828f4e301e40809d99cff855f4",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027444&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-30",
+  "gazette": "2016-10-03",
+  "numac": 2016036405,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
