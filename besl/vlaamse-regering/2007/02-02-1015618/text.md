@@ -79,7 +79,9 @@ Als de huurder de woning waarop de aanvraag betrekking heeft, verlaat voor   een
 
 ### ART. 13.
 
-<P>Het agentschap wordt aangeduid om de onterecht uitbetaalde tegemoetkomingen   terug te vorderen. Ingeval van terugvordering van tegemoetkomingen die ingevolge   list, bedrog of valse verklaringen werden bekomen, wordt het terug te vorderen   bedrag verhoogd met de wettelijke intrest die verschuldigd is vanaf de dag van   uitbetaling van de tegemoetkoming. <BR><BR>De teruggevorderde bedragen worden   overeenkomstig artikel 59 van de Vlaamse Wooncode toegewezen aan het Fonds voor   de Huisvesting. Het agentschap Inspectie RWO wordt belast met de invordering als   de begunstigde de tegemoetkoming niet vrijwillig terugbetaalt.</P>
+<p>Het agentschap wordt aangeduid om de onterecht uitbetaalde tegemoetkomingen terug te vorderen. Ingeval van terugvordering van tegemoetkomingen die ingevolge list, bedrog of valse verklaringen werden bekomen, wordt het terug te vorderen bedrag verhoogd met de wettelijke intrest die verschuldigd is vanaf de dag van uitbetaling van de tegemoetkoming.<br>
+<br>
+De teruggevorderde bedragen worden overeenkomstig artikel 59 van de Vlaamse Wooncode toegewezen aan het Fonds voor de Huisvesting. De entiteit die is belast met de uitoefening van de controle op de voorwaarden, verbintenissen en aanwending van subsidies, toelagen, premies of tegemoetkomingen die worden toegekend ter ondersteuning van het beleid inzake huisvesting, wordt belast met de invordering als de begunstigde de tegemoetkoming niet vrijwillig terugbetaalt.</p>
 
 ## HOOFDSTUK VIII Opheffings- en slotbepalingen
 
