@@ -22,7 +22,22 @@ Dit besluit is van toepassing op het gewoon voltijds secundair onderwijs, gefina
 
 ### ART. 5.
 
-§ 1. Voor de organisatie van het onthaaljaar worden specifieke uren-leraar   toegekend overeenkomstig de volgende modaliteiten:<BR>1° voor het onthaaljaar   dat tijdens de maand september wordt georganiseerd, wordt per regelmatige   anderstalige nieuwkomer geteld op de laatste lesdag van bedoelde maand, 2,5   specifieke uren-leraar toegekend;<BR>2° voor het onthaaljaar dat tijdens de   overige maanden van het schooljaar wordt georganiseerd wordt per regelmatige   leerling geteld op de eerste lesdag, te rekenen vanaf 1 oktober, waarop het   onthaaljaar wordt ingericht, 2,5 specifieke uren-leraar toegekend;<BR>2° /1 in   afwijking van 1° en 2° worden, voor het eerste schooljaar waarin het onthaaljaar   wordt geprogrammeerd na de eerste lesdag van oktober, per anderstalige   nieuwkomer, geteld op de eerste lesdag waarop het onthaalonderwijs wordt   georganiseerd, 2,5 specifieke uren-leraar toegekend;<BR>3° indien er vier of een   veelvoud van vier nieuwe regelmatige anderstalige nieuwkomers worden   ingeschreven in de deelnemende school of scholen van de scholengemeenschap en   indien het totaal aantal regelmatige anderstalige nieuwkomers eveneens met vier   of een veelvoud van vier is verhoogd, kan het schoolbestuur van de school die   optreedt als contactpunt, een herberekening van het aantal specifieke   uren-leraar aanvragen;<BR>4° indien er vier of een veelvoud van vier regelmatige   anderstalige nieuwkomers worden uitgeschreven uit de deelnemende school of   scholen van de scholengemeenschap en indien het totaal aantal regelmatige   anderstalige nieuwkomers eveneens met vier of een veelvoud van vier is gedaald,   moet het schoolbestuur van de school die optreedt als contactpunt, een   herberekening van het aantal specifieke uren-leraar aanvragen.<BR><BR>§ 2. Voor   de ondersteuning, opvolging en begeleiding van gewezen anderstalige nieuwkomers   in het reguliere onderwijs wordt aan elke contactschool voor de duur van het   lopende schooljaar 22 specifieke uren-leraar toegekend op voorwaarde dat de   betrokken school of scholengemeenschap het schooljaar voordien een onthaaljaar   inrichtte en dit tot drie schooljaren nadat het onthaaljaar in de betrokken   school of scholengemeenschap niet meer wordt georganiseerd.<BR><BR>§ 3. De   specifieke uren-leraar die voor het onthaaljaar en voor de ondersteuning,   opvolging en begeleiding van gewezen anderstalige nieuwkomers worden toegekend,   worden uitsluitend in het onthaalonderwijs aangewend.<BR>
+§ 1. Voor de organisatie van het onthaaljaar worden specifieke uren-leraar toegekend overeenkomstig de volgende modaliteiten:<br>
+1° voor het onthaaljaar dat tijdens de maand september wordt georganiseerd, wordt per regelmatige anderstalige nieuwkomer geteld op de laatste lesdag van bedoelde maand, 2,5 specifieke uren-leraar toegekend;<br>
+2° voor het onthaaljaar dat tijdens de overige maanden van het schooljaar wordt georganiseerd wordt per regelmatige leerling geteld op de eerste lesdag, te rekenen vanaf 1 oktober, waarop het onthaaljaar wordt ingericht, 2,5 specifieke uren-leraar toegekend;<br>
+2° /1 in afwijking van 1° en 2° worden, voor het eerste schooljaar waarin het onthaaljaar wordt geprogrammeerd na de eerste lesdag van oktober, per anderstalige nieuwkomer, geteld op de eerste lesdag waarop het onthaalonderwijs wordt georganiseerd, 2,5 specifieke uren-leraar toegekend;<br>
+3° indien er vier of een veelvoud van vier nieuwe regelmatige anderstalige nieuwkomers worden ingeschreven in de deelnemende school of scholen van de scholengemeenschap en indien het totaal aantal regelmatige anderstalige nieuwkomers eveneens met vier of een veelvoud van vier is verhoogd, kan het schoolbestuur van de school die optreedt als contactpunt, een herberekening van het aantal specifieke uren-leraar aanvragen;<br>
+4° indien er vier of een veelvoud van vier regelmatige anderstalige nieuwkomers worden uitgeschreven uit de deelnemende school of scholen van de scholengemeenschap en indien het totaal aantal regelmatige anderstalige nieuwkomers eveneens met vier of een veelvoud van vier is gedaald, moet het schoolbestuur van de school die optreedt als contactpunt, een herberekening van het aantal specifieke uren-leraar aanvragen.<br>
+<br>
+§ 2.&nbsp;Boven op het aantal uren-leraar, vermeld in paragraaf 1, wordt aan elke contactschool een aantal specifieke uren-leraar toegekend onder de volgende modaliteiten:<br>
+1° het aantal specifieke uren-leraar bedraagt 0,9 per regelmatige anderstalige nieuwkomer op de eerste lesdag van februari van het voorafgaande schooljaar;<br>
+2° de specifieke uren-leraar kunnen uitsluitend worden aangewend voor:<br>
+a) de ondersteuning, opvolging en begeleiding van gewezen anderstalige nieuwkomers in het reguliere onderwijs;<br>
+b) de expertise-overdracht en -opbouw in het reguliere onderwijs met betrekking tot gewezen anderstalige nieuwkomers.<br>
+<br>
+In afwijking van het eerste lid, 1°, wordt in geval van programmatie van onthaalonderwijs na de eerste lesdag van februari van het voorafgaande schooljaar, de eerste lesdag van juni van dat schooljaar als teldatum genomen.<br>
+<br>
+§ 3. De specifieke uren-leraar die voor het onthaaljaar en voor de ondersteuning, opvolging en begeleiding van gewezen anderstalige nieuwkomers worden toegekend, worden uitsluitend in het onthaalonderwijs aangewend.
 
 ### ART. 6.
 
@@ -39,6 +54,13 @@ De personeelsleden die fungeren in de in artikel 5 bedoelde specifieke   uren-le
 ### ART. 9.
 
 De werkingstoelagen van het onthaaljaar worden berekend op basis van het aantal regelmatige anderstalige nieuwkomers op 1 februari van het vorige schooljaar. Er wordt aan de regelmatige anderstalige nieuwkomers het puntengewicht 16 toegekend.<br /><br />Voor het Gemeenschapsonderwijs gelden voor wat de werkingsmiddelen betreft, de bepalingen van artikel 36, 2° van het Bijzonder Decreet van 14 juli 1998.
+
+### ART 9/1.
+
+Als het onthaalonderwijs wordt georganiseerd buiten een scholengemeenschap:<br>
+1° zijn de voorwaarden, vermeld in artikel 3, 1° en 3°, niet van toepassing;<br>
+2° wordt voor de eventuele herberekening van het aantal specifieke uren-leraar, vermeld in artikel 5, § 1, 3° en 4°, het aantal anderstalige nieuwkomers in de school in kwestie in aanmerking genomen;<br>
+3° worden aan elke school met onthaalonderwijs de specifieke uren-leraar, vermeld in artikel 5, § 2, onder de gestelde modaliteiten toegekend.
 
 ## HOOFDSTUK III WIJZIGINGS- EN OPHEFFINGSBEPALINGEN
 
