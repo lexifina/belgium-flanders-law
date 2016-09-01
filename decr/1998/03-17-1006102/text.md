@@ -50,7 +50,7 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 11.
 
-§ 1. Er wordt een programma ter bevordering van de werkervaring opgezet.<br /><br />§ 2. Het programma ter bevordering van de werkervaring heeft tot doel tijdelijke werkervaringsplaatsen in de niet-commerciële sector aan te moedigen door tegemoet te komen in de financiering ervan.<br /><br />De in het eerste lid genoemde werkervaringsplaatsen zijn erop gericht de kansen op doorstroming naar het reguliere arbeidscircuit te bevorderen.<br /><br />§ 3. De Vlaamse Regering bepaalt de organisaties die tijdelijke werkervaringsplaatsen kunnen inrichten en de categorieën van niet-werkende werkzoekenden die in deze werkervaringsplaatsen kunnen worden tewerkgesteld.<br /><br />§ 4. De Vlaamse Regering bepaalt de organisaties waaraan contingenten van werkervaringsplaatsen kunnen worden toegewezen. Deze organisaties waarborgen de begeleiding en de opleiding van de werkzoekenden en stellen die werkzoekenden ter beschikking van andere organisaties als bedoeld in § 3.<br /><br />§ 5. De Vlaamse regering bepaalt de nadere voorwaarden en modaliteiten van het programma ter bevordering van de werkervaring.
+<p>...</p>
 
 ### ART. 12.
 
@@ -58,7 +58,7 @@ Onverminderd de regels bepaald in de artikelen 41 en 50 van de wetten op de rijk
 
 ### ART. 13.
 
-§ 1. Het Samenwerkingsakkoord van 4 maart 1997 tussen de Federale Staat en de Gewesten betreffende doorstromingsprogramma's zal volkomen uitwerking hebben wat het Vlaamse Gewest betreft.<br /><br />§ 2. Dit artikel heeft uitwerking met ingang van 4 maart 1997.
+<p>...</p>
 
 ## HOOFDSTUK V CULTUUR
 
