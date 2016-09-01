@@ -56,7 +56,34 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt   gestructur
 
 ### ART. 13.
 
-<P>§ 1. Het beleidsdomein leefmilieu, natuur en energie heeft betrekking op de   volgende aangelegenheden:<BR>1° het leefmilieu en het waterbeleid, vermeld in   artikel 6, § 1, II, 1° tot en met 4°, van de bijzondere wet, met inbegrip van   het innen en invorderen van milieuheffingen:<BR>a) de bescherming van het   leefmilieu, onder meer die van de bodem, de ondergrond, het water en de lucht   tegen verontreiniging en aantasting, alsmede de strijd tegen de   geluidshinder;<BR>b) het afvalstoffenbeleid;<BR>c) de politie van de   gevaarlijke, ongezonde en hinderlijke bedrijven;<BR>d) de waterproductie en   watervoorziening, met inbegrip van de technische reglementering inzake de   kwaliteit van het drinkwater, de zuivering van het afvalwater en de riolering,   alsook de coördinatie en de organisatie van de planning van het integraal   waterbeleid en het prijsbeleid;<BR>2° de landinrichting en het natuurbehoud,   vermeld in artikel 6, § 1, III, van de bijzondere wet:<BR>a) de ruilverkaveling   van landeigendommen en de landinrichting;<BR>b) de natuurbescherming en het   natuurbehoud;<BR>c) de groengebieden, parkgebieden en groene ruimten;<BR>d) de   bossen;<BR>e) de jacht en de vogelvangst;<BR>f) de visvangst;<BR>g) de   visteelt;<BR>h) de landbouwhydraulica en de onbevaarbare waterlopen, met   inbegrip van hun bermen;<BR>i) de ontwatering;<BR>j) de polders en   wateringen;<BR>3° het plattelandsbeleid;<BR>4° het energiebeleid, vermeld in   artikel 6, § 1, VII, van de bijzondere wet;<BR>5° de natuurlijke rijkdommen,   vermeld in artikel 6, § 1, VI, 5°, van de bijzondere wet;<BR>6° het   dierenwelzijn, vermeld in artikel 6, § 1, XI, van de bijzondere wet.<BR><BR>§ 2.   Dit beleidsdomein omvat de volgende beleidsvelden : <BR>1° leefmilieu en   natuur;<BR>2° energie;<BR>3° dierenwelzijn.</P>
+<p>§ 1. Het beleidsdomein leefmilieu, natuur en energie heeft betrekking op de volgende aangelegenheden:<br>
+1° het leefmilieu en het waterbeleid, vermeld in artikel 6, § 1, II, 1° tot en met 4°, van de bijzondere wet, met inbegrip van het innen en invorderen van milieuheffingen:<br>
+a) de bescherming van het leefmilieu, onder meer die van de bodem, de ondergrond, het water en de lucht tegen verontreiniging en aantasting, alsmede de strijd tegen de geluidshinder;<br>
+b) het afvalstoffenbeleid;<br>
+c) de politie van de gevaarlijke, ongezonde en hinderlijke bedrijven;<br>
+d) de waterproductie en watervoorziening, met inbegrip van de technische reglementering inzake de kwaliteit van het drinkwater, de zuivering van het afvalwater en de riolering, alsook de coördinatie en de organisatie van de planning van het integraal waterbeleid en het prijsbeleid;<br>
+2° de landinrichting en het natuurbehoud, vermeld in artikel 6, § 1, III, van de bijzondere wet:<br>
+a) de ruilverkaveling van landeigendommen en de landinrichting;<br>
+b) de natuurbescherming en het natuurbehoud;<br>
+c) de groengebieden, parkgebieden en groene ruimten;<br>
+d) de bossen;<br>
+e) de jacht en de vogelvangst;<br>
+f) de visvangst;<br>
+g) de visteelt;<br>
+h) de landbouwhydraulica en de onbevaarbare waterlopen, met inbegrip van hun bermen;<br>
+i) de ontwatering;<br>
+j) de polders en wateringen;<br>
+3° het plattelandsbeleid;<br>
+4° het energiebeleid, vermeld in artikel 6, § 1, VII, van de bijzondere wet;<br>
+5° de natuurlijke rijkdommen, vermeld in artikel 6, § 1, VI, 5°, van de bijzondere wet;<br>
+6° het dierenwelzijn, vermeld in artikel 6, § 1, XI, van de bijzondere wet;<br>
+7° de uitvoering van de handhavingstaken met betrekking tot ruimtelijke ordening tot op datum van de oprichting van een beleidsdomein omgeving;<br>
+8° de uitvoering van de handhavingstaken met betrekking tot onroerend erfgoed tot op datum van de oprichting van een beleidsdomein omgeving.<br>
+<br>
+§ 2. Dit beleidsdomein omvat de volgende beleidsvelden :<br>
+1° leefmilieu en natuur, hierin begrepen de uitvoering van de handhavingstaken met betrekking tot ruimtelijke ordening en onroerend erfgoed;<br>
+2° energie;<br>
+3° dierenwelzijn.</p>
 
 ### ART. 14.
 
@@ -64,7 +91,20 @@ De beleidsdomeinen, op basis waarvan de Vlaamse administratie wordt   gestructur
 
 ### ART. 15.
 
-§ 1. Het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend   erfgoed heeft betrekking op de volgende aangelegenheden:<BR>1° de ruimtelijke   ordening, vermeld in artikel 6, § 1, I, 1°, 2°, 4°, 5°, 6° en 7°, van de   bijzondere wet:<BR>a) de stedenbouw en de ruimtelijke ordening;<BR>b) de   rooiplannen van de gemeentewegen;<BR>c) de stadsvernieuwing;<BR>d) de   vernieuwing van afgedankte bedrijfsruimten;<BR>e) het grondbeleid;<BR>f) de   monumenten en de landschappen, alsook het archeologisch patrimonium en het   varend erfgoed;<BR>2° de huisvesting, vermeld in artikel 6, § 1, IV, van de   bijzondere wet.<BR><BR>§ 2. Dit beleidsdomein omvat de volgende   beleidsvelden:<BR>1° ruimtelijke ordening;<BR>2° woonbeleid;<BR>3° beheer en   bescherming onroerend erfgoed.
+§ 1. Het beleidsdomein ruimtelijke ordening, woonbeleid en onroerend erfgoed heeft betrekking op de volgende aangelegenheden:<br>
+1° de ruimtelijke ordening, vermeld in artikel 6, § 1, I, 1°, 2°, 4°, 5°, 6° en 7°, van de bijzondere wet, met uitzondering van de uitvoering van de handhavingstaken met betrekking tot ruimtelijke ordening en onroerend erfgoed, vermeld in artikel 13, § 1, 7° en 8:<br>
+a) de stedenbouw en de ruimtelijke ordening;<br>
+b) de rooiplannen van de gemeentewegen;<br>
+c) de stadsvernieuwing;<br>
+d) de vernieuwing van afgedankte bedrijfsruimten;<br>
+e) het grondbeleid;<br>
+f) de monumenten en de landschappen, alsook het archeologisch patrimonium en het varend erfgoed;<br>
+2° de huisvesting, vermeld in artikel 6, § 1, IV, van de bijzondere wet.<br>
+<br>
+§ 2. Dit beleidsdomein omvat de volgende beleidsvelden:<br>
+1° ruimtelijke ordening, met uitzondering van de uitvoering van handhavingstaken, vermeld in artikel 13, § 1, 7°;<br>
+2° woonbeleid;<br>
+3° beheer en bescherming onroerend erfgoed, met uitzondering van de uitvoering van handhavingstaken, vermeld in artikel 13, § 1, 8°, tenzij uitdrukkelijk anders bepaald.
 
 ### ART. 16.
 
@@ -162,7 +202,22 @@ De taken die conform artikel 30 aan de departementen worden toevertrouwd, behore
 
 ### ART. 29.
 
-§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend   Erfgoed wordt het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en   drie agentschappen zonder rechtspersoonlijkheid : <BR>1° Wonen-Vlaanderen;   <BR>2° Onroerend Erfgoed; <BR>3° Inspectie RWO.<BR><BR>Het departement, vermeld   in het eerste lid, wordt aangehaald als Ruimte Vlaanderen.<BR><BR>§ 2. Het   agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke   Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij   voor Sociaal Wonen.<BR><BR>§ 3. De strategische adviesraden die tot het   beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn   : <BR>1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<BR>2°   Vlaamse Woonraad bij het agentschap Wonen-Vlaanderen.<BR><BR>§ 4. Met toepassing   van artikel 4, § 1, tweede lid, van het kaderdecreet is het agentschap   Wonen-Vlaanderen, vermeld in paragraaf 1, 1°, belast met de   beleidsondersteunende taken voor het beleidsveld woonbeleid, vermeld in artikel   15, § 2, 2°, en is het agentschap Onroerend Erfgoed, vermeld in paragraaf 1, 2°,   belast met de beleidsondersteunende taken voor het beleidsveld beheer en   bescherming onroerend erfgoed, vermeld in artikel 15, § 2, 3°. <BR><BR>De taken   die overeenkomstig artikel 30 aan de departementen worden toevertrouwd, behoren,   met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30,   § 2, 1°, d), tot het takenpakket van Wonen-Vlaanderen wat het beleidsveld   woonbeleid betreft en tot het takenpakket van Onroerend Erfgoed wat het   beleidsveld beheer en bescherming onroerend erfgoed betreft.
+§ 1. Voor het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed opgericht, dat bestaat uit het gelijknamige departement en&nbsp;twee agentschappen zonder rechtspersoonlijkheid :<br>
+1° Wonen-Vlaanderen;<br>
+2° Onroerend Erfgoed;<br>
+3° ....<br>
+<br>
+Het departement, vermeld in het eerste lid, wordt aangehaald als Ruimte Vlaanderen.<br>
+<br>
+§ 2. Het agentschap met rechtspersoonlijkheid dat tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed behoort, is de Vlaamse Maatschappij voor Sociaal Wonen.<br>
+<br>
+§ 3. De strategische adviesraden die tot het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend erfgoed behoren zijn :<br>
+1° Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
+2° Vlaamse Woonraad bij het agentschap Wonen-Vlaanderen.<br>
+<br>
+§ 4. Met toepassing van artikel 4, § 1, tweede lid, van het kaderdecreet is het agentschap Wonen-Vlaanderen, vermeld in paragraaf 1, 1°, belast met de beleidsondersteunende taken voor het beleidsveld woonbeleid, vermeld in artikel 15, § 2, 2°, en is het agentschap Onroerend Erfgoed, vermeld in paragraaf 1, 2°, belast met de beleidsondersteunende taken voor het beleidsveld beheer en bescherming onroerend erfgoed, vermeld in artikel 15, § 2, 3°.<br>
+<br>
+De taken die overeenkomstig artikel 30 aan de departementen worden toevertrouwd, behoren, met uitzondering van het secretariaat van de beleidsraad, vermeld in artikel 30, § 2, 1°, d), tot het takenpakket van Wonen-Vlaanderen wat het beleidsveld woonbeleid betreft en tot het takenpakket van Onroerend Erfgoed wat het beleidsveld beheer en bescherming onroerend erfgoed betreft.
 
 ## HOOFDSTUK IV Taakstelling van de departementen, agentschappen en wisselwerking tussen departementen en agentschappen
 
