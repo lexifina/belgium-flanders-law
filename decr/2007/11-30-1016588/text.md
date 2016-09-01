@@ -108,7 +108,7 @@ Een centrumstad kan ervoor kiezen projecten te laten uitvoeren door een verenigi
 
 ### ART. 20.
 
-De Vlaamse Regering richt een 'overlegplatform lokaal flankerend onderwijsbeleid' op, dat minstens tweemaal per jaar samenkomt met als doel het afstemmen en versterken van het Vlaamse en het flankerend onderwijsbeleid.<br /><br />Het overlegplatform is tenminste samengesteld uit de Vlaamse minister, bevoegd voor het Onderwijs, en een afvaardiging van het college van burgemeester en schepenen van elke centrumstad.<br /><br />
+...
 
 ## HOOFDSTUK V [... (opgeh. decr. 29 juni 2012, art. 11)]
 
