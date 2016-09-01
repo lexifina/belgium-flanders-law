@@ -55,7 +55,14 @@ In dit besluit wordt verstaan onder :<BR>1° agentschap : het agentschap   Wonen
 
 ### ART. 3.
 
-<P>De conformiteit van woningen met de vereisten van veiligheid, gezondheid,   woonkwaliteit, brandveiligheid en woningbezetting kan in het kader van een   conformiteitsonderzoek vastgesteld worden door :<BR>1° de gewestelijk ambtenaar   en de personeelsleden die de leidend ambtenaar van het agentschap   aanwijst;<BR>2° de woningcontroleurs die de burgemeester van de gemeente waar de   woning ligt aanwijst;<BR>3° de ambtenaren van het intern verzelfstandigd   agentschap Inspectie RWO die aangewezen zijn als wooninspecteur of als ambtenaar   met opsporings- en vaststellingsbevoegdheid.<BR></P>  <P>De veiligheid, gezondheid en woonkwaliteit van een woning worden beoordeeld   aan de hand van de modellen van technische verslagen, vermeld in artikel 2, § 1.   Daarbij geldt een gebrek van categorie I voor één punt, van categorie II voor   drie punten, van categorie III voor negen punten en van categorie IV voor   vijftien punten.<BR></P>  <P>Als in een woning niet voldaan is aan de verplichtingen inzake het plaatsen   van rookmelders, vermeld in artikel 2, § 2, wordt dat opgenomen in een opmerking   in het toepasselijk deel van het technisch verslag.</P>
+<p>De conformiteit van woningen met de vereisten van veiligheid, gezondheid, woonkwaliteit, brandveiligheid en woningbezetting kan in het kader van een conformiteitsonderzoek vastgesteld worden door :<br>
+1° de gewestelijk ambtenaar en de personeelsleden die de leidend ambtenaar van het agentschap aanwijst;<br>
+2° de woningcontroleurs die de burgemeester van de gemeente waar de woning ligt aanwijst;<br>
+3° de ambtenaren&nbsp;die aangewezen zijn als wooninspecteur of als ambtenaar met opsporings- en vaststellingsbevoegdheid.</p>
+
+<p>De veiligheid, gezondheid en woonkwaliteit van een woning worden beoordeeld aan de hand van de modellen van technische verslagen, vermeld in artikel 2, § 1. Daarbij geldt een gebrek van categorie I voor één punt, van categorie II voor drie punten, van categorie III voor negen punten en van categorie IV voor vijftien punten.</p>
+
+<p>Als in een woning niet voldaan is aan de verplichtingen inzake het plaatsen van rookmelders, vermeld in artikel 2, § 2, wordt dat opgenomen in een opmerking in het toepasselijk deel van het technisch verslag.</p>
 
 ### ART. 4.
 
@@ -183,7 +190,24 @@ De voorwaarden waaraan bewoners voldoen om geherhuisvest te worden, vermeld in a
 
 ### ART. 19.
 
-<P>§ 1. De vergoeding voor de uitvoering van de controle ter plaatse, vermeld in   artikel 20bis, § 6, van de Vlaamse Wooncode, bedraagt :<BR>1° 62,50 euro voor   een zelfstandige woning;<BR>2° 87,50 euro + 12,50 euro x (N-1) in de andere   gevallen, waarbij N gelijk is aan het aantal kamers dat bij de controle ter   plaatse onderzocht moet worden en minstens gelijk is aan 1.<BR></P>  <P>Er is maar eenmaal 62,50 euro verschuldigd als er in een pand met meer   zelfstandige woningen alleen een controle wordt uitgevoerd met het oog op het   invullen van deel B van het technisch verslag, opgenomen in bijlage 3, die bij   dit besluit is gevoegd.<BR></P>  <P>Het resultaat van de berekening, vermeld in het eerste lid, 2°, bedraagt per   pand maximaal 1.250 euro.<BR></P>  <P>De vergoeding wordt voor de controle ter plaatse betaald op de rekening van   het Herstelfonds, vermeld in artikel 6.1.56 van de Vlaamse Codex Ruimtelijke   Ordening van 15 mei 2009.<BR></P>  <P>§ 2. De bedragen in euro, vermeld in paragraaf 1, worden jaarlijks op 1   januari aangepast volgens de onderstaande formule :<BR>nieuw bedrag =   basisbedrag x aangepaste gezondheidsindex/gezondheidsindex december 2011<BR></P>  <P>In het eerste lid wordt verstaan onder :<BR>1° gezondheidsindex : het   prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2,   eerste lid, van het koninklijk besluit van 24 oktober 1993 ter uitvoering van de   wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen,   bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen;<BR>2°   aangepaste gezondheidsindex : de gezondheidsindex van de maand december die   voorafgaat aan de aanpassing.<BR></P>  <P>§ 3. In afwijking van paragraaf 1 is er na het uitbrengen van een   herstelvordering door de wooninspecteur geen vergoeding verschuldigd voor de   controle ter plaatse na een eerste melding van herstel door de   overtreder.</P>
+<p>§ 1. De vergoeding voor de uitvoering van de controle ter plaatse, vermeld in artikel 20bis, § 6, van de Vlaamse Wooncode, bedraagt :<br>
+1° 62,50 euro voor een zelfstandige woning;<br>
+2° 87,50 euro + 12,50 euro x (N-1) in de andere gevallen, waarbij N gelijk is aan het aantal kamers dat bij de controle ter plaatse onderzocht moet worden en minstens gelijk is aan 1.</p>
+
+<p>Er is maar eenmaal 62,50 euro verschuldigd als er in een pand met meer zelfstandige woningen alleen een controle wordt uitgevoerd met het oog op het invullen van deel B van het technisch verslag, opgenomen in bijlage 3, die bij dit besluit is gevoegd.</p>
+
+<p>Het resultaat van de berekening, vermeld in het eerste lid, 2°, bedraagt per pand maximaal 1.250 euro.</p>
+
+<p>De vergoeding wordt voor de controle ter plaatse betaald op de rekening van het Fonds voor de Wooninspectie, vermeld in artikel 19 van het decreet van 29 juni 2007 houdende bepalingen tot begeleiding van de aanpassing van de begroting 2007.</p>
+
+<p>§ 2. De bedragen in euro, vermeld in paragraaf 1, worden jaarlijks op 1 januari aangepast volgens de onderstaande formule :<br>
+nieuw bedrag = basisbedrag x aangepaste gezondheidsindex/gezondheidsindex december 2011</p>
+
+<p>In het eerste lid wordt verstaan onder :<br>
+1° gezondheidsindex : het prijsindexcijfer dat berekend en benoemd wordt voor de toepassing van artikel 2, eerste lid, van het koninklijk besluit van 24 oktober 1993 ter uitvoering van de wet van 6 januari 1989 tot vrijwaring van 's lands concurrentievermogen, bekrachtigd bij de wet van 30 maart 1994 houdende sociale bepalingen;<br>
+2° aangepaste gezondheidsindex : de gezondheidsindex van de maand december die voorafgaat aan de aanpassing.</p>
+
+<p>§ 3. In afwijking van paragraaf 1 is er na het uitbrengen van een herstelvordering door de wooninspecteur geen vergoeding verschuldigd voor de controle ter plaatse na een eerste melding van herstel door de overtreder.</p>
 
 ## HOOFDSTUK 8. Aanvullende bepalingen
 
