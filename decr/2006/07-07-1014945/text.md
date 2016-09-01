@@ -24,7 +24,20 @@ Dit decreet is van toepassing op de instellingen voor basis- en secundair onderw
 
 ### ART. 5.
 
-§ 1. De procedure voor de selectie van de private partners van de op te richten DBFM-vennootschap en de toewijzing van de opdracht tot uitvoering van het DBFM-programma aan de op te richten DBFM-vennootschap, gebeurt overeenkomstig de wetgeving, overheidsopdrachten'.<br /><br />De Vlaamse Regering heeft de bevoegdheid om te beslissen over de keuze van gunningswijze, de vaststelling van de gunningsvoorwaarden, om de gunningsprocedure te voeren en gunt de opdracht. De Vlaamse Regering kan het voeren van de procedure en het gunnen van de opdracht overdragen aan AGIOn.<br /><br />§ 2. AGIOn richt op grond van artikel 6, 5°, van het AGIOn-decreet een dochtervennootschap op, waarin de Participatiemaatschappij Vlaanderen voor 50 % participeert in het kapitaal.<br /><br />§ 3. AGIOn houdt op basis van artikel 5, 6°, van het AGIOn-decreet de coördinatie, sturing en regie van de dochtervennootschap.<br /><br />§ 4. De dochtervennootschap houdt 25 % + 1 van de aandelen van de DBFM-vennootschap aan. Aan deze aandelen worden dezelfde rechten verbonden als aan de andere aandelen van de DBFM-vennootschap. De dochtervennootschap zal nooit over een beslissingsmeerderheid beschikken binnen de DBFM-vennootschap.<br /><br />De overige aandelen van de DBFM-vennootschap worden aangehouden door de geselecteerde private partners.<br /><br />In de aandeelhoudersovereenkomst worden onder meer de modaliteiten met betrekking tot de optie op de aandelen van de private partners in de DBFM-vennootschap geregeld.<br /><br />
+§ 1. De procedure voor de selectie van de private partners van de op te richten DBFM-vennootschap en de toewijzing van de opdracht tot uitvoering van het DBFM-programma aan de op te richten DBFM-vennootschap, gebeurt overeenkomstig de wetgeving, overheidsopdrachten'.<br>
+<br>
+De Vlaamse Regering heeft de bevoegdheid om te beslissen over de keuze van gunningswijze, de vaststelling van de gunningsvoorwaarden, om de gunningsprocedure te voeren en gunt de opdracht. De Vlaamse Regering kan het voeren van de procedure en het gunnen van de opdracht overdragen aan AGIOn.<br>
+<br>
+§ 2. AGIOn richt op grond van artikel 6, 5°, van het AGIOn-decreet een dochtervennootschap op, waarin de Vlaamse Gemeenschap voor 50% participeert in het kapitaal.<br>
+<br>
+§ 3. AGIOn houdt op basis van artikel 5, 6°, van het AGIOn-decreet de coördinatie, sturing en regie van de dochtervennootschap.<br>
+<br>
+§ 4. De dochtervennootschap houdt 25 % + 1 van de aandelen van de DBFM-vennootschap aan. Aan deze aandelen worden dezelfde rechten verbonden als aan de andere aandelen van de DBFM-vennootschap. De dochtervennootschap zal nooit over een beslissingsmeerderheid beschikken binnen de DBFM-vennootschap.<br>
+<br>
+De overige aandelen van de DBFM-vennootschap worden aangehouden door de geselecteerde private partners.<br>
+<br>
+In de aandeelhoudersovereenkomst worden onder meer de modaliteiten met betrekking tot de optie op de aandelen van de private partners in de DBFM-vennootschap geregeld.<br>
+&nbsp;
 
 ## Afdeling 2 Taken
 
