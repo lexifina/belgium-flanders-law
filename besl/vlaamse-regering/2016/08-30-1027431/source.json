@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027431,
+  "title": "Besluit van de Vlaamse Regering van 2016-08-30 tot wijziging van het besluit van de Vlaamse Regering van 24 mei 2002 inzake de organisatie van onthaalonderwijs voor anderstalige nieuwkomers in het gewoon voltijds secundair onderwijs, wat de lerarenomkadering betreft",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027431/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "c56f6359ad8dbf96eddd787de0c3b7fddcce2929e824d2c9f95798038ba34343",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027431&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-30",
+  "gazette": "2016-09-23",
+  "numac": 2016036389,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
