@@ -2,16 +2,16 @@
   "codex_id": 1013121,
   "title": "Besluit van de Vlaamse Regering van 2004-05-14 tot oprichting van het intern verzelfstandigd agentschap zonder rechtspersoonlijkheid Vlaams Instituut voor het Onroerend Erfgoed",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013121/VolledigDocument?datum=2016-06-01",
-  "source_sha256": "fe1a0b980cb8db6619fc35db0313cb9aa0df9105c3e40d03151ae794faccc84d",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013121/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "58ea379e0b88e82d9519fdc1a8f0af2bef817481b91e8431580c645de810a962",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013121&param=informatie",
-  "as_of": "2016-06-01",
+  "as_of": "2016-09-01",
   "made": "2004-05-14",
   "gazette": "2004-06-18",
   "numac": 2004035933,
   "document_start": "2006-07-01",
   "document_end": null,
-  "in_force": "2016-06-01",
+  "in_force": "2016-09-01",
   "article_versions": 15,
-  "record_form": "consolidated version as in force on 2016-06-01; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
