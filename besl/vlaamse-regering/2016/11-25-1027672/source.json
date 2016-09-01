@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027672,
+  "title": "Besluit van de Vlaamse Regering van 2016-11-25 tot wijziging van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding en het besluit van de Vlaamse Regering van 18 maart 2011 tot uitvoering van artikel 5, § 1, 2°, e), van het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, wat betreft de SERR, het RESOC en het BNCTO",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027672/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "5748953768e4dd462a2109b520f125633f5f3a7dd6b7b5699529ba33548e5468",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027672&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-11-25",
+  "gazette": "2016-12-23",
+  "numac": 2016036652,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 21,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
