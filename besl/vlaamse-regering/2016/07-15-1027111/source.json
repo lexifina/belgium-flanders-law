@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027111,
+  "title": "Besluit van de Vlaamse Regering van 2016-07-15 houdende de overdracht van zes personeelsleden van het Departement Welzijn, Volksgezondheid en Gezin aan het agentschap Jongerenwelzijn",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027111/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "67d6d72a932ffc846342a5043e653969797811f13a05397615cee40490b29416",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027111&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-15",
+  "gazette": "2016-08-05",
+  "numac": 2016036186,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 5,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
