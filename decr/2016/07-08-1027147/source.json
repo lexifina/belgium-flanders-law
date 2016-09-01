@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027147,
+  "title": "Decreet van 2016-07-08 houdende instemming met de overeenkomst betreffende de sociale zekerheid tussen het Koninkrijk België en de Republiek Tunesië, ondertekend te Tunis op 28 maart 2013",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027147/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "a0dfedfe4f8a826a99489312e72fcf13c45a48eda50d321f86266204cbb829cb",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027147&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-08",
+  "gazette": "2016-08-22",
+  "numac": 2016036180,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 2,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
