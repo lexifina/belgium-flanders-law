@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027435,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 tot wijziging van het koninklijk besluit van 15 januari 1974 genomen ter toepassing van artikel 160 van het koninklijk besluit van 22 maart 1969 tot vaststelling van het statuut van de leden van het bestuurs- en onderwijzend personeel, van het opvoedend hulppersoneel, van het paramedisch personeel der inrichtingen voor kleuter-, lager, buitengewoon, middelbaar, technisch, kunst- en normaalonderwijs van de Staat, alsmede der internaten die van deze inrichtingen afhangen en van de leden van de inspectiedienst die belast is met het toezicht op deze inrichtingen, het besluit van de Vlaamse Regering van 26 april 1990 betreffende het verlof voor verminderde prestaties gewettigd door sociale of familiale redenen en de afwezigheid voor verminderde prestaties wegens persoonlijke aangelegenheid ten gunste van de personeelsleden van het onderwijs en de centra voor leerlingenbegeleidingen en het besluit van de Vlaamse Regering van 16 oktober 2009 betreffende de terbeschikkingstelling wegens persoonlijke aangelegenheden voor de personeelsleden van het onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027435/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "3c434a2bdd262e6abbad145f6f4c6cfd920ae40f3feb0b6ae6a9ca667a736167",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027435&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-09-09",
+  "gazette": "2016-09-27",
+  "numac": 2016036424,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 9,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
