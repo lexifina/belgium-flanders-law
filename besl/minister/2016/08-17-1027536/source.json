@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027536,
+  "title": "Ministerieel besluit van 2016-08-17 tot wijziging van de bijlage bij het ministerieel besluit van 22 juni 2001 tot bepaling van sommige gegevens die de centra voor leerlingenbegeleiding moeten registreren",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027536/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "f7ccb847667b0b99e702a57665541f907b580a6ee44c11c07b0b6c959fb98070",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027536&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-17",
+  "gazette": "2016-11-04",
+  "numac": 2016036484,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
