@@ -68,29 +68,13 @@ De ernst en de duur van het verminderde zelfzorgvermogen worden vastgesteld door
 <br>
 In afwijking van het eerste lid kan de Vlaamse Regering voor de inwoners van het tweetalige gebied Brussel-Hoofdstad of voor de personen, vermeld in artikel 4, § 2, vijfde lid, de carenstijd uitbreiden voor de uitvoering van het basisondersteuningsbudget, vermeld in artikel 4 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.<br>
 <br>
-§ 3. De uitvoering van de tenlastenemingen wordt, met behoud van de carenstijd, vermeld in § 2, voor vier maanden opgeschort met verlies van rechten voor elk jaar dat personen zich in een van de volgende situaties bevinden of hebben bevonden :<br>
-1° zich kunnen aansluiten en dat niet hebben gedaan;<br>
-2° hun bijdrage niet betaald hebben;<br>
-3° hun bijdrage laattijdig betaald hebben;<br>
-4° hun bijdrage slechts gedeeltelijk betaald hebben.<br>
-<br>
-De opschorting met verlies van rechten, vermeld in het eerste lid, wordt niet toegepast voor de jaren waarvoor de bijdrage, vermeld in artikel 4, § 6, slechts gedeeltelijk of laattijdig werd betaald.<br>
-<br>
-De Vlaamse Regering kan voorwaarden bepalen waarvoor bepaalde jaren waarvoor de bijdrage niet, laattijdig of slechts gedeeltelijk betaald werd niet in aanmerking worden genomen voor de opschorting met verlies van rechten.<br>
-<br>
-De Vlaamse Regering bepaalt volgens welke regels gebruikers die in een behartigenswaardige toestand verkeren, de niet betaalde bijdragen alsnog kunnen betalen, of geheel of gedeeltelijk kunnen worden vrijgesteld van betaling, waardoor die opschorting met verlies van rechten vervalt.<br>
+§ 3. ...<br>
 <br>
 § 4. De Vlaamse Regering bepaalt de nadere voorwaarden en de wijze waarop de tenlastenemingen, ook retroactief, worden uitgevoerd.
 
 ### ART. 10bis.
 
-De opschorting met verlies van rechten die personen oplopen voor de jaren dat ze verplicht waren om zich aan te sluiten, wordt, ook na een verhuizing of onderbreking van de aansluiting, toegepast op de datum, vermeld in artikel 10, § 1, eerste lid.<br>
-<br>
-De opschorting met verlies van rechten die personen oplopen voor de jaren dat ze zich vrijwillig konden aansluiten, wordt, ook na een verhuizing of onderbreking van de aansluiting, toegepast op de datum, vermeld in artikel 10, § 1, eerste lid, als ze op die datum aan een van de volgende voorwaarden voldoen :<br>
-1° vrijwillig onder het toepassingsgebied van de zorgverzekering vallen;<br>
-2° verplicht onder het toepassingsgebied van de zorgverzekering vallen en in een in het tweetalige gebied Brussel-Hoofdstad gevestigde voorziening als vermeld in artikel 6, § 1, tweede lid, 3°, verblijven.<br>
-<br>
-Het tweede lid is naast op de opschorting met verlies van rechten eveneens van toepassing op de termijn van ononderbroken aansluiting zoals bedoeld in artikel 5, 6°.
+...
 
 ## HOOFDSTUK III ORGANISATIE
 
@@ -170,19 +154,11 @@ De regering bepaalt de overgangsmaatregelen inzake de in artikel 5, eerste lid, 
 
 ### ART. 23ter.
 
-In afwijking van artikel 13, vijfde lid, en uiterlijk tot 1 januari 2003, kan de regering de wijze van vaststelling en de hoogte van de in artikel 13, eerste lid, 3°, bedoelde bijdragen, bepalen op forfaitaire basis of op basis van door haar te bepalen parameters die los staan van de draagkracht van de aangeslotenen. De regering bepaalt volgens welke regels gebruikers die in een behartigenswaardige toestand verkeren de niet-betaalde, in het eerste lid bedoelde bijdragen alsnog kunnen betalen, of geheel of gedeeltelijk kunnen worden vrijgesteld van betaling, waardoor de opschorting met verlies van rechten, vermeld in artikel 10, § 3 vervalt.
+...
 
 ### ART. 23quater.
 
-§ 1. De personen, bedoeld in artikel 4, § 1, eerste en tweede lid, kunnen de opschorting met verlies van rechten, vermeld in artikel 10, § 3, regulariseren op voorwaarde dat:<br>
-1° zij de verschuldigde bijdragen alsnog volledig betalen uiterlijk 30 april 2006;<br>
-2° de opschorting met verlies van rechten, vermeld in artikel 10, § 3, nog niet werden toegepast naar aanleiding van een aanvraag tot tenlasteneming.<br>
-<br>
-§ 2. De termijn, bedoeld in artikel 5, eerste lid, 6°, kan slechts geregulariseerd worden voor zover de persoon, bedoeld in artikel 4, § 1, tweede lid, vóór 30 juni 2003 een eerste aansluitingsbijdrage bij een zorgkas heeft betaald.<br>
-<br>
-§ 3. De opschorting met verlies van rechten, vermeld in artikel 10, § 1, tweede lid, die reeds werden toegepast naar aanleiding van&nbsp;een ambtshalve toekenning als vermeld in artikel 7, eerste lid, of&nbsp; een aanvraag tot tenlasteneming, kunnen slechts geregulariseerd worden voor zover de persoon, bedoeld in § l, vóór 30 juni 2003 een eerste aansluitingsbijdrage bij een zorgkas heeft betaald:<br>
-<br>
-§ 4. De Regering bepaalt de nadere regels met betrekking tot de regularisatie.
+...
 
 ### ART. 23quinquies.
 
