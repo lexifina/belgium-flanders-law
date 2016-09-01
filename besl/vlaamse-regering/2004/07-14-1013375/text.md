@@ -10,7 +10,7 @@ Voor de toepassing van dit besluit wordt verstaan onder:<br /><br />1° ouders: 
 
 ### ART. 3.
 
-De keuze inzake godsdienst of niet-confessionele zedenleer die de ouders maken bij de inschrijving van de leerling in een officiële school voor lager of secundair onderwijs of bij het begin van een schooljaar, gebeurt via een ondertekende verklaring overeenkomstig het model dat in de bijlage 1 bij dit besluit gaat.
+De keuze voor godsdienst of niet-confessionele zedenleer of de keuze voor een vrijstelling van het volgen van godsdienst of niet-confessionele zedenleer, die de ouders maken bij de inschrijving van de leerling of voor het einde van het lopende schooljaar bij een wijziging van keuze, wordt bevestigd met een ondertekende verklaring in het formulier waarvan het model is opgenomen in de bijlage, die bij dit besluit is gevoegd.
 
 ### ART. 4.
 
@@ -18,7 +18,7 @@ Bij bezwaren tegen het volgen van een cursus in één van de erkende godsdienste
 
 ### ART. 5.
 
-De aanvraag tot vrijstelling inzake godsdienst of niet-confessionele zedenleer gebeurt via een onder-tekende verklaring overeenkomstig het model dat in de bijlage 2 bij dit besluit gaat.
+...
 
 ### ART. 6.
 
@@ -26,11 +26,11 @@ Het schoolbestuur neemt kennis van de aanvraag tot vrijstelling.
 
 ### ART. 7.
 
-Tijdens de lesuren waarvoor de vrijstelling wordt verleend, moet de leerling op school opdrachten uitvoeren die aansluiten bij de eigen levensbeschouwing of het eigen levensbeschouwelijk project. Het is de verantwoordelijkheid van de ouders om deze opdrachten en de schriftelijke neerslag ervan te bepalen. De betrokken bewijsstukken moeten steeds ter beschikking van de school worden gehouden.
+De lesuren waarvoor de vrijstelling wordt verleend, moet de leerling gebruiken voor zijn eigen ethische vorming en voor de ontwikkeling van zijn persoonlijke identiteit, voor de groei in menselijke waarden en voor de uitbouw van een eigen levensovertuiging met respect voor de grondwettelijke beginselen en voor de rechten van de mens en van het kind in het bijzonder.
 
 ### ART. 8.
 
-Zonder zich over de opportuniteit van de opdrachten uit te laten, zal de klassenraad toezien op het naleven van de bepalingen van artikel 7. Het niet naleven van deze bepalingen kan een element zijn in de beoordeling van de leerling door de klassenraad met het oog op het toekennen van studiebewijzen.
+Zonder zich over de opportuniteiten van de opdrachten uit te laten, zal de directie en de klassenraad toezien op het naleven van de bepalingen van artikel 7.
 
 ### ART. 9.
 
@@ -52,24 +52,18 @@ De Vlaamse minister, bevoegd voor het onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE 1
 
-KEUZEFORMULIER GODSDIENST-ZEDENLEER. - BELANGRIJK :<br>
--Bij elke inschrijving van een leerling in een officiële lagere of secundaire school moet u een keuze maken tussen één van de erkende godsdiensten of niet-confessionele zedenleer. (1)<br>
-- Dit formulier moet, volledig ingevuld en ondertekend, binnen de acht kalenderdagen na de inschrijving of binnen de acht kalenderdagen na de eerste schooldag van september ingevuld en ondertekend terugbezorgd worden aan de directie.<br>
-- Bij het begin van elk schooljaar én bij elke schoolverandering in de loop van een schooljaar naar een officiële school kan u deze keuze wijzigen. U vraagt dan een nieuw keuzeformulier aan.<br>
-- U bent volledig vrij in uw keuze. Niemand mag argumenten gebruiken of druk uitoefenen om uw keuze te beïnvloeden. Pogingen om uw keuze te beïnvloeden kan u melden aan :<br>
-Coördinerend inspecteur-generaal, Departement Onderwijs,<br>
-Koning Albert II-laan 15, 1210 Brussel<br>
-Naam en adres van de school : . . . . .<br>
-Ik, die teken, (naam + voornaam), . . . . .<br>
-ouder van . . . . ., leerling van de . . . . .<br>
-(klas / leerjaar / studierichting), kies onderricht in (2) : . . . . .<br>
-Voor de raadpleging van de tabel, zie beeld<br>
-Plaats en datum : . . . . . Handtekening (3) . . . . .<br>
+Formulier voor de keuze van levensbeschouwing/vrijstelling in officiële lagere of secundaire scholen als vermeld in artikel 3<br>
 <br>
-Nota's<br>
-(1) Hebt u op basis van uw religieuze of morele overtuiging bezwaren tegen het volgen van één van de erkende cursussen godsdienst of niet-confessionele zedenleer, dan zal de school u informeren over uw rechten (mogelijkheid tot bekomen van vrijstelling) en plichten terzake.<br>
-(2) Eén keuze aanduiden.<br>
-(3) Bij gedeeld ouderlijk gezag verbindt de ouder die tekent er zich door deze handtekening toe dat de geuite keuze de gezamenlijke keuze van beide ouders is.<br>
-&nbsp;
+Het formulier dient om bij een eerste inschrijving van een leerling in een officiële lagere of secundaire school te kiezen tussen één van de erkende godsdiensten of niet-confessionele zedenleer of om, in geval van bezwaar tegen het volgen van één van vernoemde cursussen, een vrijstelling te bekomen.<br>
+<br>
+Hetzelfde formulier wordt gebruikt bij een wijziging van keuze.<br>
+<br>
+Een ouder, de voogd of diegene aan wiens hoede het kind of de jongere is toevertrouwd, of de meerderjarige leerling, vult het formulier in en bezorgt het aan de directie van de school.<br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/28_1.pdf#page=77">http://www.ejustice.just.fgov.be/mopdf/2016/09/28_1.pdf#page=77</a>
 
 ## Bijlage 2
+
+### BIJLAGE 2
+
+...
