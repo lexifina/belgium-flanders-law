@@ -2,16 +2,16 @@
   "codex_id": 1013990,
   "title": "Besluit van de Vlaamse Regering van 2005-09-02 tot vaststelling van de voorwaarden waartegen beroepsinlevingsovereenkomsten kunnen worden afgesloten bij haar diensten",
   "type": "Besluit van de Vlaamse Regering",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013990/VolledigDocument?datum=2006-06-01",
-  "source_sha256": "46a374e259fdaa13730b91f71d2e40a5d25465344725260f00299ff3c3d3c9ff",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1013990/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "3cb94f876e7310c6dccbc9db25c225365d633fae87d577bb83caa17b92aabefd",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1013990&param=informatie",
-  "as_of": "2006-06-01",
+  "as_of": "2016-09-01",
   "made": "2005-09-02",
   "gazette": "2005-09-23",
   "numac": 2005036157,
   "document_start": "2005-09-01",
   "document_end": "2016-09-01",
-  "in_force": "2006-06-01",
+  "in_force": "2016-09-01",
   "article_versions": 4,
-  "record_form": "consolidated version as in force on 2006-06-01; oldest version available; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
