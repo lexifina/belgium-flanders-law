@@ -4,7 +4,11 @@
 
 ### ART. 1.
 
-Voor de toepassing van dit besluit wordt verstaan onder:<br />1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br />2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed; <br />3° ...<br />4° Inspectie RWO : het intern verzelfstandigd agentschap Inspectie RWO van het Vlaams Ministerie van Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed. <br />
+Voor de toepassing van dit besluit wordt verstaan onder:<br>
+1° de minister: de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
+2° het departement : het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+3° ...<br>
+4° ...
 
 ### ART. 2.
 
@@ -53,7 +57,11 @@ In afwijking van het eerste lid kunnen ook personeelsleden die niet het vereiste
 
 ### ART. 9.
 
-De leidend ambtenaar van Inspectie RWO stelt per provincie minstens twee ambtenaren van niveau A uit zijn agentschap, met een goede kennis van het justitiële apparaat en van het strafprocesrecht, aan als gewestelijk stedenbouwkundig inspecteur.<br /><br />Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde inspecteurs. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br /><br />De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar. <br />
+De leidend ambtenaar van de entiteit die belast is met de uitvoering van handhavingstaken op het beleidsveld ruimtelijke ordening stelt per provincie minstens twee ambtenaren van niveau A uit zijn agentschap, met een goede kennis van het justitiële apparaat en van het strafprocesrecht, aan als gewestelijk stedenbouwkundig inspecteur.<br>
+<br>
+Het aanstellingsbesluit vermeldt een termijn van maximaal zes jaar en het werkgebied van de aangestelde inspecteurs. Het aanstellingsbesluit wordt bij uittreksel bekendgemaakt in het Belgisch Staatsblad.<br>
+<br>
+De aanstelling is hernieuwbaar. Ze kan op elk ogenblik worden beëindigd, hetzij op verzoek van de betrokkene, hetzij op initiatief van de leidend ambtenaar.
 
 ## HOOFDSTUK III DE PROVINCIALE STEDENBOUWKUNDIGE AMBTENAREN
 
