@@ -40,7 +40,11 @@ De raming van de ontvangsten heeft betrekking op:<BR>1° het over te dragen   sa
 
 ### ART. 9.
 
-De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid   en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het   Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de   verrichtingen inzake de planbatenheffing als vermeld in titel II, hoofdstuk VI,   afdeling 2 van de Vlaamse Codex Ruimtelijke Ordening. Hij kan zijn bevoegdheid   delegeren aan ambtenaren van niveau A van het departement.<BR><BR>De leidend   ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk   ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen   inzake de planbatenheffing. Hij wordt tevens belast met de inning van de   planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau   A van het agentschap. <BR>
+De leidend ambtenaar van het departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als inhoudelijk ordonnateur van het Grondfonds voor de betaalbaarstelling van kredieten, andere dan voor de verrichtingen inzake de planbatenheffing als vermeld in titel II, hoofdstuk VI, afdeling 2 van de Vlaamse Codex Ruimtelijke ordening en dan deze bedoeld in het derde lid. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het departement.<br>
+<br>
+De leidend ambtenaar van de Vlaamse Belastingsdienst wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen inzake de planbatenheffing. Hij wordt tevens belast met de inning van de planbatenheffingen. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van het agentschap.<br>
+<br>
+De leidend ambtenaar van het departement Leefmilieu, Natuur en Energie wordt aangesteld als inhoudelijk ordonnateur voor de betaalbaarstelling van kredieten voor de verrichtingen die betrekking hebben op de uitvoering van de handhavingstaken met betrekking tot de ruimtelijke ordening in toepassing van titel VI van de Vlaamse Codex Ruimtelijke Ordening, evenwel met uitzondering van de verrichtingen die tot de gewone dienst behoren en de verrichtingen in verband met beleidsondersteunende taken en beleidsevaluatie. Hij wordt tevens belast met de inning van de inkomsten uit de handhaving die voortvloeien uit de toepassing van Titel VI van de Vlaamse Codex Ruimtelijke Ordening. Hij kan zijn bevoegdheid delegeren aan ambtenaren van niveau A van zijn departement.
 
 ### ART. 10.
 
@@ -70,101 +74,69 @@ Op het einde van ieder kwartaal wordt een staat van ontvangsten en een staat van
 
 ### ART. 16.
 
-De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als beheerder van het Grondfonds. Hij kan zijn bevoegdheden, bedoeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. Deze ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.
+De leidend ambtenaar van het Departement Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed wordt aangesteld als beheerder van het Grondfonds, met uitzondering van wat in het tweede lid is bepaald. Hij kan zijn bevoegdheden, bedoeld in dit hoofdstuk, overdragen aan ambtenaren van niveau A die tot zijn administratie behoren. Deze ambtenaren mogen niet als ordonnateur van het Grondfonds worden voorgedragen of benoemd.<br>
+<br>
+De leidend ambtenaar van het Departement Leefmilieu, Natuur en Energie oefent de bevoegdheden van beheerder zoals bedoeld in artikel 17 uit voor zover deze betrekking hebben op de uitvoering van de handhavingstaken met betrekking tot de ruimtelijke ordening in toepassing van titel VI van de Vlaamse Codex Ruimtelijke Ordening, evenwel met uitzondering van de verrichtingen die tot de gewone dienst behoren en de verrichtingen in verband met beleidsondersteunende taken en beleidsevaluatie.
 
 ### ART. 17.
 
 <p>§ 1. De beheerder is bevoegd om:<br>
-<br>
 1° bestekken voor werken, leveringen of diensten of de bescheiden die ze vervangen goed te keuren,<br>
-<br>
 2° de wijze te kiezen waarop de opdrachten worden gegund,<br>
-<br>
 3° opdrachten voor de aanneming van werken, leveringen of diensten te gunnen en in te staan voor de uitvoering ervan.<br>
 <br>
-Deze machtiging geldt slechts binnen de perken van de geopende kredieten en van de in de volgende tabel opgenomen ramingen of bedragen [in euro, (verv. B.V.R. 14 december 2001, art. 6, I: 1 januari 2002) ] exclusief de belasting over de toegevoegde waarden:<br>
-<br>
-</p>
+Deze machtiging geldt slechts binnen de perken van de geopende kredieten en van de in de volgende tabel opgenomen ramingen of bedragen in euro,&nbsp;exclusief de belasting over de toegevoegde waarden:</p>
 
-<table border="1" cellpadding="0" cellspacing="0" style="border-collapse:collapse; width:422.65pt">
+<table border="1">
 	<tbody>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:52.55pt">
-			<p><strong>[</strong>EUR</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:69.75pt">
-			<p>Openbare aanbesteding of algemene offerteaanvraag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:69.75pt">
-			<p>Beperkte aanbesteding of beperkte offerteaanvraag</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.3pt">
-			<p>Onderhandelingsprocedure met voorafgaande bekendmaking</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:windowtext 1pt solid; vertical-align:top; width:115.3pt">
-			<p>Onderhandelingsprocedure zonder voorafgaande bekendmaking</p>
-			</td>
+			<td>Bedragen<br>
+			in euro</td>
+			<td>Openbare<br>
+			aanbesteding<br>
+			Algemene<br>
+			offerteaanvraag</td>
+			<td>Beperkte aanbesteding Beperkte<br>
+			offerteaanvraag</td>
+			<td>Onderhandelings-<br>
+			procedure met voorafgaande bekendmaking</td>
+			<td>Onderhandelings-<br>
+			procedure zonder voorafgaande<br>
+			bekendmaking</td>
 		</tr>
 		<tr>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:windowtext 1pt solid; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:52.55pt">
-			<p>Werken</p>
-
-			<p>Leveringen</p>
-
-			<p>Diensten</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.75pt">
-			<p>8.000.000</p>
-
-			<p>5.000.000</p>
-
-			<p>1.500.000</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:69.75pt">
-			<p>500.000</p>
-
-			<p>250.000</p>
-
-			<p>250.000</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.3pt">
-			<p>250.000</p>
-
-			<p>125.000</p>
-
-			<p>125.000</p>
-
-			<p>&nbsp;</p>
-			</td>
-			<td style="background-color:transparent; border-bottom:windowtext 1pt solid; border-left:#f0f0f0; border-right:windowtext 1pt solid; border-top:#f0f0f0; vertical-align:top; width:115.3pt">
-			<p>125.000</p>
-
-			<p>62.500</p>
-
-			<p>62.500</p>
-
-			<p><em>(verv. </em><em>B.V.R. 14 december 2001, art. 6, I: 1 januari 2002)</em><strong>]</strong></p>
-			</td>
+			<td>Werken</td>
+			<td>13.000.000</td>
+			<td>2.000.000</td>
+			<td>1.500.000</td>
+			<td>1.000.000</td>
+		</tr>
+		<tr>
+			<td>Leveringen</td>
+			<td>8.000.000</td>
+			<td>1.200.000</td>
+			<td>900.000</td>
+			<td>600.000</td>
+		</tr>
+		<tr>
+			<td>Diensten</td>
+			<td>2.400.000</td>
+			<td>800.000</td>
+			<td>500.000</td>
+			<td>200.000</td>
 		</tr>
 	</tbody>
 </table>
 
-<p>&nbsp;</p>
-
-<p>§ 2. De beheerder staat bovendien in voor de eenvoudige uitvoering van de opdrachten voor de aanneming van werken, leveringen of diensten die in het kader van het functioneren van het Grondfonds worden gegund door de Vlaamse regering of de Vlaamse minister. Onder eenvoudige uitvoering dient te worden verstaan het nemen van alle maatregelen en beslissingen om de opdracht binnen de perken van de aanneming te realiseren, met uitzondering van de maatregelen en beslissingen die een beoordeling door de gunnende overheid vereisen.<br>
+<p><br>
+§ 2. De beheerder staat bovendien in voor de eenvoudige uitvoering van de opdrachten voor de aanneming van werken, leveringen of diensten die in het kader van het functioneren van het Grondfonds worden gegund door de Vlaamse regering of de Vlaamse minister. Onder eenvoudige uitvoering dient te worden verstaan het nemen van alle maatregelen en beslissingen om de opdracht binnen de perken van de aanneming te realiseren, met uitzondering van de maatregelen en beslissingen die een beoordeling door de gunnende overheid vereisen.<br>
 <br>
 § 3. De beheerder is tevens bevoegd om:<br>
-<br>
 1° met betrekking tot de in § 1, eerste lid, en § 2 vermelde opdrachten:<br>
-<br>
 a) gemotiveerde afwijkingen toe te staan op de essentiële bepalingen en voorwaarden, overeenkomstig artikel 8 van het koninklijk besluit van 26 september 1996 tot bepaling van de Algemene Uitvoeringsregels van de overheidsopdrachten en van de concessies voor openbare werken;<br>
-<br>
 b) boeten kwijt te schelden, na advies van de bevoegde juridische afdeling over de gegrondheid en de ontvankelijkheid van de kwijtschelding;<br>
-<br>
 2° met betrekking tot de in § 1, eerste lid, en § 2 vermelde opdrachten:<br>
-<br>
 a) prijsherzieningen, voortvloeiend uit de betrokken overeenkomsten goed te keuren zonder beperking van bedrag;<br>
-<br>
 b) verrekeningen, andere dan voormelde herzieningen, ramingstaten en de hieraan verbonden termijnverlengingen goed te keuren voor zover hieruit geen totale extra uitgaven van meer dan 25 % voortvloeien en de uitgaven [250.000 euro (verv. B.V.R. 14 december 2001, art. 7, I: 1 januari 2002) ] niet overschrijden.<br>
 <br>
 § 4. De beheerder is bovendien bevoegd om allerlei uitgaven die buiten de toepassing vallen van de wetgeving op de overheidsopdrachten en die betrekking hebben op de uitvoering van de taken van het Grondfonds, goed te keuren tot een bedrag van maximum [62.500 euro (verv. B.V.R. 14 december 2001, art. 8, I: 1 januari 2002) ] per beslissing, voor zover het niet gaat om subsidies.</p>
