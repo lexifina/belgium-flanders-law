@@ -1797,7 +1797,37 @@ De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu coördineert de   opmaak v
 
 ### ART. 16.2.7.
 
-<P>§ 1. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu telt dertien   leden, alsook een vaste secretaris. De Vlaamse Regering benoemt de leden na   voordracht, en de voorzitter, de ondervoorzitter en de vaste secretaris onder de   personen die deskundig zijn op het vlak van de handhaving van het milieurecht of   op het vlak van de handhaving van de Vlaamse Codex Ruimtelijke Ordening van 15   mei 2009.<BR><BR>§ 2. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu   wordt als volgt samengesteld :<BR>1° een voorzitter;<BR>2° een ondervoorzitter,   deskundig op het vlak van de handhaving van de milieuwetgeving;<BR>3° een   ondervoorzitter, deskundig op het vlak van de handhaving van de Vlaamse Codex   Ruimtelijke Ordening;<BR>4° zes leden op voordracht van de beleidsraad van het   beleidsdomein Leefmilieu, Natuur en Energie;<BR>5° twee leden op voordracht van   de beleidsraad van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en   Onroerend Erfgoed;<BR>6° een lid op voordracht van de Milieu- en Natuurraad van   Vlaanderen;<BR>7° een lid op voordracht van de Strategische Adviesraad   Ruimtelijke Ordening - Onroerend Erfgoed;<BR>8° een lid op voordracht van de   Sociaal-Economische Raad van Vlaanderen;<BR>9° een lid op voordracht van de   Vereniging van de Vlaamse Provincies;<BR>10° een lid op voordracht van de   Vereniging van Vlaamse Steden en Gemeenten.<BR><BR>Voor de leden, vermeld in het   eerste lid, 4° tot en met 10°, wordt telkens een plaatsvervanger   aangewezen.<BR><BR>De leden, vermeld in 4° tot en met 10°, worden voorgedragen   op een dubbeltal dat in een evenwichtige vertegenwoordiging van mannen en   vrouwen voorziet.<BR><BR>Een lid mag geen verkozen politiek mandaat   uitoefenen.<BR><BR>De samenstelling, vermeld in het eerste lid, kan verder   worden uitgebreid met :<BR>1° een vertegenwoordiger, aangewezen op voordracht   van het college van procureurs-generaal, ter vertegenwoordiging van de   parketten-generaal bij de hoven van beroep;<BR>2° een vertegenwoordiger,   aangewezen op voordracht van het college van procureurs-generaal, ter   vertegenwoordiging van de parketten bij de rechtbanken van eerste aanleg;<BR>3°   een vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van   Binnenlandse Zaken, ter vertegenwoordiging van de federale politie;<BR>4° een   vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van   Binnenlandse Zaken, ter vertegenwoordiging van de lokale politie.<BR><BR>Voor de   leden, vermeld in het vijfde lid, wordt ook telkens een plaatsvervanger   aangewezen.<BR><BR>Het niet aanwijzen van de vertegenwoordigers, vermeld in het   vijfde lid, heeft geen gevolgen, noch voor de werking van de Vlaamse Hoge   Handhavingsraad voor Ruimte en Milieu, noch voor de geldigheid van de   handelingen die de raad stelt.<BR><BR>§ 3. De leden van de Vlaamse Hoge   Handhavingsraad voor Ruimte en Milieu worden benoemd voor vijf jaar. Hun   benoeming is hernieuwbaar. Een lid van wie het mandaat vacant verklaard wordt,   wordt binnen drie maanden vervangen.</P>
+<p>§ 1. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu telt dertien leden, alsook een vaste secretaris. De Vlaamse Regering benoemt de leden na voordracht, en de voorzitter, de ondervoorzitter en de vaste secretaris onder de personen die deskundig zijn op het vlak van de handhaving van het milieurecht of op het vlak van de handhaving van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009.<br>
+<br>
+§ 2. De Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu wordt als volgt samengesteld :<br>
+1° een voorzitter;<br>
+2° een ondervoorzitter, deskundig op het vlak van de handhaving van de milieuwetgeving;<br>
+3° een ondervoorzitter, deskundig op het vlak van de handhaving van de Vlaamse Codex Ruimtelijke Ordening;<br>
+4° zeven leden op voordracht van de beleidsraad van het beleidsdomein Leefmilieu, Natuur en Energie;<br>
+5° een lid op voordracht van de beleidsraad van het beleidsdomein Ruimtelijke Ordening, Woonbeleid en Onroerend Erfgoed;<br>
+6° een lid op voordracht van de Milieu- en Natuurraad van Vlaanderen;<br>
+7° een lid op voordracht van de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed;<br>
+8° een lid op voordracht van de Sociaal-Economische Raad van Vlaanderen;<br>
+9° een lid op voordracht van de Vereniging van de Vlaamse Provincies;<br>
+10° een lid op voordracht van de Vereniging van Vlaamse Steden en Gemeenten.<br>
+<br>
+Voor de leden, vermeld in het eerste lid, 4° tot en met 10°, wordt telkens een plaatsvervanger aangewezen.<br>
+<br>
+De leden, vermeld in 4° tot en met 10°, worden voorgedragen op een dubbeltal dat in een evenwichtige vertegenwoordiging van mannen en vrouwen voorziet.<br>
+<br>
+Een lid mag geen verkozen politiek mandaat uitoefenen.<br>
+<br>
+De samenstelling, vermeld in het eerste lid, kan verder worden uitgebreid met :<br>
+1° een vertegenwoordiger, aangewezen op voordracht van het college van procureurs-generaal, ter vertegenwoordiging van de parketten-generaal bij de hoven van beroep;<br>
+2° een vertegenwoordiger, aangewezen op voordracht van het college van procureurs-generaal, ter vertegenwoordiging van de parketten bij de rechtbanken van eerste aanleg;<br>
+3° een vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van Binnenlandse Zaken, ter vertegenwoordiging van de federale politie;<br>
+4° een vertegenwoordiger, aangewezen op voordracht van de bevoegde minister van Binnenlandse Zaken, ter vertegenwoordiging van de lokale politie.<br>
+<br>
+Voor de leden, vermeld in het vijfde lid, wordt ook telkens een plaatsvervanger aangewezen.<br>
+<br>
+Het niet aanwijzen van de vertegenwoordigers, vermeld in het vijfde lid, heeft geen gevolgen, noch voor de werking van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu, noch voor de geldigheid van de handelingen die de raad stelt.<br>
+<br>
+§ 3. De leden van de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu worden benoemd voor vijf jaar. Hun benoeming is hernieuwbaar. Een lid van wie het mandaat vacant verklaard wordt, wordt binnen drie maanden vervangen.</p>
 
 ### ART. 16.2.8.
 
