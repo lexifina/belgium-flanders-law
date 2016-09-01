@@ -154,7 +154,7 @@ Gemeenten en provincies die deel uitmaken van een erkend regionaal samenwerkings
 
 ### ART. 31.
 
-§ 1. Elk Erkend Regionaal Samenwerkingsverband van de Regio ontvangt jaarlijks een door de Vlaamse regering te bepalen subsidie uit de algemene uitgavenbegroting van de Vlaamse gemeenschap.<br /><br />§ 2. De Vlaamse regering kan de voorwaarden en modaliteiten inzake de in de eerste paragraaf bedoelde subsidie en haar toekenning nader regelen.
+...
 
 ## HOOFDSTUK VII REGISTER VAN DE ERKENDE REGIONALE SAMENWERKINGSVERBANDEN
 
