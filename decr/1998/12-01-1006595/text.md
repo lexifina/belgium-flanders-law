@@ -96,7 +96,18 @@ In het kader van de wettelijke opdracht van de overheid om de leerplicht van min
 
 ### ART. 20.
 
-§ 1. Het centrum brengt jaarlijks verslag uit op basis van gesystematiseerde gegevens van somatische, psychologische, pedagogische en sociale aard zodat de regering op basis hiervan beleidsopties kan formuleren.<br /><br />De regering bepaalt de vorm en de inhoud van de registratie, het verslag en de procedure van indiening, onverminderd de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens.<br /><br />§ 2. Het centrum kan hierover voorstellen formuleren aan de regering.
+§ 1. Het centrum brengt jaarlijks verslag uit op basis van gesystematiseerde gegevens van somatische, psychologische, pedagogische en sociale aard zodat de regering op basis hiervan beleidsopties kan formuleren.<br>
+<br>
+De regering bepaalt de vorm en de inhoud van de registratie, het verslag en de procedure van indiening, onverminderd de wet van 8 december 1992 tot bescherming van de persoonlijke levenssfeer ten aanzien van de verwerking van persoonsgegevens.<br>
+<br>
+§ 2. Het centrum kan hierover voorstellen formuleren aan de regering.<br>
+<br>
+§ 3. De Vlaamse Regering kan binnen de beschikbare kredieten jaarlijks een forfaitaire subsidie verlenen aan het Gemeenschapsonderwijs en elke representatieve vereniging van de besturen van de centra voor leerlingenbegeleiding van het gesubsidieerd onderwijs. Deze subsidies strekken ertoe begeleiding en ondersteuning te bieden aan alle centra voor leerlingenbegeleiding bij de uitvoering van hun opdracht als vermeld in artikel 20, § 1.<br>
+<br>
+De Vlaamse Regering bepaalt :<br>
+1° de voorwaarden waaronder de subsidie kan worden toegekend;<br>
+2° de aanwendingsmogelijkheden van de subsidie, waaronder alleszins de verplichting dat de diverse begunstigden van deze subsidie de ontvangen middelen moeten samenleggen met het oog op optimale en efficiënte besteding;<br>
+3° de controle op de aanwending.
 
 ### ART. 21.
 
