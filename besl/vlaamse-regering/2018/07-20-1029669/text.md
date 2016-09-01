@@ -115,6 +115,10 @@ Het gemiddeld aantal uren buitengewoon secundair onderwijs per leerling voor het
 
 ## Afdeling 7. Wijzigingen van het besluit van de Vlaamse Regering van 13 februari 2015 tot bepaling van de inhoud van het gemotiveerd verslag voor toegang tot het geïntegreerd onderwijs en van het attest bij het verslag voor toegang tot het buitengewoon onderwijs
 
+### ART 19.
+
+In artikel 11 van hetzelfde besluit worden de woorden "en volgende" toegevoegd.
+
 ## Afdeling 8. Wijzigingen van het besluit van de Vlaamse Regering van 30 augustus 2016 betreffende de organisatie van stages en sociaal-maatschappelijke trainingen in het buitengewoon secundair onderwijs
 
 ## HOOFDSTUK 3. Slotbepalingen
