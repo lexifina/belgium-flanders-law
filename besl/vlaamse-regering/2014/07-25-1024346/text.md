@@ -27,7 +27,7 @@ d) de Sociaal-Economische Raad van Vlaanderen;<br>
 a) het Vlaams Agentschap voor Internationaal Ondernemen;<br>
 b) ...<br>
 c) Onroerend Erfgoed;<br>
-d) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor het woonbeleid en voor de ruimtelijke ordening;<br>
+d) ...;<br>
 e) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de ruimtelijke ordening;<br>
 <br>
 3° de Vlaamse minister van Onderwijs is bevoegd voor:<br>
@@ -57,7 +57,7 @@ f) de Vlaamse Vereniging voor ICT-personeel ("Vlaanderen connect.");<br>
 g) het Agentschap Integratie en Inburgering;<br>
 h) ...<br>
 i) Wonen-Vlaanderen;<br>
-j) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor de ruimtelijke ordening en voor het onroerend erfgoed;<br>
+j) ...;<br>
 k) de Vlaamse Maatschappij voor Sociaal Wonen;<br>
 l) de Vlaamse Woonraad;<br>
 m) het Vlaams Financieringsfonds voor Grond- en Woonbeleid voor Vlaams-Brabant ("Vlabinvest");<br>
@@ -119,7 +119,7 @@ q) Sport Vlaanderen;<br>
 r) de Raad voor Cultuur, Jeugd, Sport en Media, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor de cultuur, de jeugd en de media;<br>
 <br>
 9° de Vlaamse minister van Omgeving, Natuur en Landbouw is bevoegd voor:<br>
-a) Inspectie RWO, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse ministers, bevoegd voor het woonbeleid en voor het onroerend erfgoed;<br>
+a) ...;<br>
 b) de Strategische Adviesraad Ruimtelijke Ordening - Onroerend Erfgoed, met dien verstande dat die bevoegdheid wordt gedeeld met de Vlaamse minister, bevoegd voor het onroerend erfgoed;<br>
 c) het Rubiconfonds;<br>
 d) het Agentschap voor Natuur en Bos;<br>
