@@ -169,11 +169,19 @@ In artikel 64, § 3, van het decreet van 15 juli 1997 houdende de Vlaamse Woonco
 
 ### ART. 18.
 
-De ontvangsten die voortvloeien uit herstelvorderingen, dwangsommen,   administratieve geldboeten, recuperatie van de kosten van een ambtshalve   uitvoering en van alle ontvangsten die voortvloeien uit de toepassing van andere   handhavingsmaatregelen op grond van het Onroerenderfgoeddecreet van 12 juli 2013   worden toegewezen aan de DAB Herstelfonds, vermeld in artikel 6.1.56 van de   Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009. De ontvangsten van de DAB   Herstelfonds kunnen tevens aangewend worden voor het verrichten van uitgaven die   betrekking hebben op de handhaving van het Onroerenderfgoeddecreet van 12 juli   2013.<BR><BR>Onverminderd de toepassing van het derde lid van artikel 159bis van   het decreet van 18 mei 1999 houdende de organisatie van de ruimtelijke ordening   kunnen de ontvangsten van de DAB Herstelfonds tevens aangewend worden voor het   verrichten van uitgaven die betrekking hebben op de handhaving van de in het   eerste lid vermelde decreten.<BR><BR>
+<p>...</p>
 
 ### ART. 19.
 
-De ontvangsten die voortvloeien uit herstelvorderingen, dwangsommen, de   recuperatie van de kosten van een ambtshalve uitvoering en alle ontvangsten die   voortvloeien uit de toepassing van andere hand-havingsmaatregelen op grond van   :<BR>a) ..;<BR>b) het decreet van 15 juli 1997 houdende de Vlaamse Wooncode,   inzonderheid de artikelen 20bis en 20ter ;<BR>worden toegewezen aan de DAB   Herstelfonds, bedoeld in artikel 159bis van het decreet van 18 mei 1999 houdende   de organisatie van de ruimtelijke ordening.<BR><BR>Onverminderd de toepassing   van het derde lid van artikel 159bis van het decreet van 18 mei 1999 houdende de   organisatie van de ruimtelijke ordening kunnen de ontvangsten van de DAB   Herstelfonds tevens aangewend worden voor het verrichten van uitgaven die   betrekking hebben op het toezicht op en de handhaving van de in het eerste lid   vermelde decreten.<BR><BR>
+<p>§ 1. Er wordt een begrotingsfonds als vermeld in artikel 12, § 1, van het decreet van 8 juli 2011 houdende de regeling van de begroting, de boekhouding, de toekenning van subsidies en de controle op de aanwending ervan, en de controle door het Rekenhof opgericht, genaamd Fonds voor de Wooninspectie.<br>
+<br>
+De ontvangsten die gerealiseerd worden op grond van de artikelen 20bis tot en met 20quater, artikel 29bis en 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode worden toegewezen aan het Fonds voor de Wooninspectie.<br>
+<br>
+Aan het Fonds voor de Wooninspectie wordt eveneens toegewezen 18% van het saldo van de dienst met afzonderlijk beheer Herstelfonds beschikbaar als over te dragen saldo bij afsluiting van de jaarrekening 2015. Dit saldo wordt vastgesteld door de Vlaamse Regering.<br>
+<br>
+De in het tweede lid bedoelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die betrekking hebben op de handhaving en het toezicht op de naleving van het in dat lid vermelde decreet.<br>
+<br>
+§ 2. Alle schulden, vorderingen en tegoeden van het Herstelfonds die betrekking hebben op de artikelen 20bis tot en met 20quater, artikel 29bis en 102bis van het decreet van 15 juli 1997 houdende de Vlaamse Wooncode worden overgenomen door het Fonds voor de Wooninspectie.</p>
 
 ### ART. 20.
 
