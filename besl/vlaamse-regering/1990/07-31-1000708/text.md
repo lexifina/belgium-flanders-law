@@ -18,7 +18,165 @@ Het aantal wekelijkse uren-leraar is opgebouwd uit:<br />1° een aantal uren-ler
 
 ### ART. 4.
 
-§ 1. Het aantal uren-leraar, bedoeld in artikel 3, 1°, wordt vastgesteld op basis van een aantal wekelijkse uren-leraar per leerling, dat afzonderlijk wordt berekend voor:<br />a) het eerste leerjaar A en het tweede leerjaar in de eerste graad;<br />b) het eerste leerjaar B en het beroepsvoorbereidend leerjaar;<br />c) het onthaaljaar; <br />d) de tweede en de derde graad van het algemeen secundair onderwijs;<br />e) de tweede en de derde graad van het technisch secundair onderwijs, met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br />1° administratie en distributie, sport;<br />2° chemie, industriële technieken, land- en tuinbouw, paramedische opleidingen, personenzorg, voeding;<br />3° hotel, kleding en confectie;<br />4° elektriciteit;<br />5° decoratieve technieken,  grafische technieken; <br />6° optiek, orthopedische technieken, tandtechnieken, verzorgingstechnieken, maatschappelijke veiligheid;<br />7° hout en bouw, metaal, Rijn- en binnenvaart, textiel; <br />8° glastechnieken; <br />f) de tweede, de derde en de vierde graad van het beroepssecundair onderwijs en het hoger beroepsonderwijs met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br />1° administratie en distributie;<br />2° land- en tuinbouw, personenzorg, maatschappelijke veiligheid;<br />3° decoratieve technieken, elektriciteit, hotel;<br />4° kleding en confectie, verzorgingstechnieken;<br />5° grafische technieken,;<br />6° glasbewerking, goud-juwelen, hout en bouw, marmerbewerking, metaal, Rijn- en binnenvaart, textiel; <br />7° vrachtwagenchauffeur; <br />8° verpleegkunde; <br />g) de tweede en de derde graad van het kunstsecundair onderwijs, met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br />1° beeldende kunst;<br />2° woord;<br />3° dans;<br />4° muziek.<br /><br />§ 2. Het aantal uren-leerling per leerling wordt voor de onderscheiden rubrieken van § 1, vastgesteld als volgt: <br />1. voor de leerjaren bedoeld in § 1, a):<br />- op de schijf van 1 tot en met 25 leerlingen: 2,25.<br />- op de schijf van 26 tot en met 50 leerlingen: 1,95;<br />- op de schijf van 51 tot en met 100 leerlingen: 1,80;<br />- vanaf de 101ste leerling: 1,60;<br /><br />2. voor de leerlingen bedoeld in § 1, b):<br />- op de schijf van 1 tot en met 25 leerlingen: 3,05.<br />- op de schijf van 26 tot en met 50 leerlingen: 2,75;<br />- op de schijf van 51 tot en met 100 leerlingen: 2,60<br />- vanaf de 101ste leerling: 2,45;<br /><br />3. voor het jaar bedoeld in § 1, c):<br />- op de schijf van 1 tot en met 25 leerlingen: 2,25<br />- op de schijf van 26 tot en met 50 leerlingen: 1,95<br />- op de schijf van 51 tot en met 100 leerlingen: 1,80<br />- vanaf de 101e leerling: 1,60; <br /><br />4. voor de leerjaren bedoeld in § 1, d), afzonderlijk toegepast enerzijds op de leerlingen van de tweede graad, anderzijds op de leerlingen van de derde graad:<br />- op de schijf van 1 tot en met 25 leerlingen: 1,90;<br />- op de schijf van 26 tot en met 50 leerlingen: 1,70;<br />- op de schijf van 51 tot en met 100 leerlingen: 1,60;<br />- vanaf de 101ste leerling: 1,45;<br /><br />5. voor de leerlingen bedoeld in § 1, e), afzonderlijk toegepast enerzijds op de leerlingen van de tweede graad, anderzijds op de leerlingen van de derde graad:<br />- groep 1°: 2,05;<br />- groep 2°: 2,15;<br />- groep 3°: 2,25;<br />- groep 4°: 2,35;<br />- groep 5°: 2,45;<br />- groep 6°: 2,55;<br />- groep 7°: 2,65;<br />- groep 8°: 2,75;<br /><br />Een verhoging wordt evenwel toegekend voor het totaal van de leerlingen van de groepen 1° tot en met 8°, afzonderlijk toegepast enerzijds op de tweede graad, anderzijds op de derde graad met inbegrip van het derde leerjaar in de derde graad ingericht onder vorm van een specialisatiejaar:<br />- op de schijf van 1 tot en met 25 leerlingen: 0,50;<br />- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br />- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br />- vanaf de 151e leerling: 0,00;<br /><br />6. voor de leerjaren bedoeld in § 1, f), afzonderlijk toegepast op de leerlingen van de tweede graad, op de leerlingen van de derde graad, op de leerlingen van de vierde graad en op de leerlingen van het hoger beroepsonderwijs:<br />- groep 1°: 2,45;<br />- groep 2°: 2,55;<br />- groep 3°: 2,65;<br />- groep 4°: 2,75;<br />- groep 5°: 2,85;<br />- groep 6°: 3,05;<br />- groep 7°: 3,70;<br />- groep 8°: 3,80;<br /><br />Een verhoging wordt evenwel toegekend voor het totaal van de leerlingen van de groepen 1° tot en met 6°, afzonderlijk toegepast enerzijds op de tweede graad, anderzijds op de derde graad en op de leerlingen van de vierde graad:<br />- op de schijf van 1 tot en met 25 leerlingen: 0,60.<br />- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br />- op de schijf van 76 tot en met 150 leerlingen: 0,15;<br />- vanaf de 151e leerling: 0,00;<br /><br />7. voor de leerjaren bedoeld in § 1, g):<br />- groep 1°: 2,70;<br />- groep 2°: 2,70;<br />- groep 3°: 2,70;<br />- groep 4°: 2,70;<br />Een volgende verhoging wordt evenwel voor de desbetreffende graad toegekend:<br />a) voor de scholen die buiten het kunstsecundair onderwijs nog andere onderwijsvormen aanbieden in de tweede graad:<br />- op de schijf van 1 tot en met 25 leerlingen: 0,50.<br />- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br />- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br />- vanaf de 151e leerling: 0,00;<br />b) voor de scholen die buiten het kunstsecundair onderwijs nog andere onderwijsvormen aanbieden in de derde graad:<br />- op de schijf van 1 tot en met 25 leerlingen: 0,50.<br />- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br />- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br />- vanaf de 151e leerling: 0,00;<br />c) voor de scholen die buiten het kunstsecundair onderwijs geen andere onderwijsvormen aanbieden in de tweede graad:<br />- groep 1°: 0,20;<br />- groep 2°: 1,20;<br />- groep 3°: 1,20;<br />- groep 4°: 2,20;<br />d) voor de scholen die buiten het kunstsecundair onderwijs geen andere onderwijsvormen aanbieden in de derde graad:<br />- groep 1°: 0,20;<br />- groep 2°: 1,20;<br />- groep 3°: 1,20;<br />- groep 4°: 2,20;<br />In afwijking op wat voorafgaat en ongeacht het feit of de school in de desbetreffende graad al dan niet andere onderwijsvormen aanbiedt buiten het kunstsecundair onderwijs, bedraagt de verhoging per leerling van de structuuronderdelen muziek en bijzondere muzikale vorming van de discipline muziek van groep 4° steeds 2,20 urenleraar. <br /><br />8. voor de scholen die hetzij het Nederlands als onderwijstaal hebben, gelegen zijn in het administratief arrondissement Brussel-hoofdstad èn behoren tot een scholengemeenschap, hetzij gevestigd zijn in de gemeenten waarvan de bevolkingsdichtheid lager is dan 125 inwoners per km2, worden de coëfficiënten, bedoeld in 4 en de coëfficiënten van de groepen, bedoeld in 5, 6 en 7, verhoogd met:<br />1° 0,10: voor de eerste graad;<br />2° 0,20: voor de tweede, de derde en de vierde graad en het hoger beroepsonderwijs.<br /><br />Deze verhoogde leerlingencoëfficiënt blijft behouden gedurende een periode van 4 schooljaren nadat de norm van 125 inwoners per km2 werd overschreden. <br /><br />§ 3. De coëfficiënten, bedoeld in § 2, worden vermenigvuldigd met het respectievelijk aantal regelmatige leerlingen op de decretaal bepaalde teldatum of teldata van het voorafgaande schooljaar.<br /><br />§ 4. Voor de nieuw opgerichte of in opbouw zijnde scholen, waar niet naar een voorafgaand schooljaar kan worden gerefereerd, dienen de coëfficinten, bedoeld in § 2, te worden vermenigvuldigd met het respectieve aantal regelmatige leerlingen op 1 oktober van het betrokken schooljaar. Het daaropvolgend schooljaar worden de beschikkingen van § 3 van toepassing.<br /><br />Onder "in opbouw zijnde scholen" wordt verstaan scholen die tijdens opeenvolgende schooljaren hun onderwijsaanbod geleidelijk uitbreiden, leerjaar na leerjaar, te beginnen met het eerste leerjaar van de eerste graad.<br /><br />Voor de scholen die op 1 februari van een bepaald schooljaar niet de rationalisatienorm bereiken, bedoeld in de codificatie betreffende het secundair onderwijs en bijgevolg verplicht zijn over te gaan tot opheffing, wordt de tellingsdatum vastgesteld op 1 oktober van dat schooljaar waarin deze opheffing een aanvang neemt. <br /><br />§ 4bis. Als een school ingevolge het niet-bereiken van de rationalisatienorm overgaat tot afbouw, wordt de coëfficiëntenregeling vervangen door een pakket wekelijkse uren-leraar dat wordt toegekend voor de volledige duur van het schooljaar en dat wordt vastgesteld en toegekend door de Vlaamse Regering, op voorstel van de betrokken schoolbestuur. Die maatregel is bedoeld om de school toe te laten tijdens de afbouw de afwerking van de goedgekeurde leerplannen te realiseren.<br /><br />§ 5. Voor de scholen welke onder toepassing vallen van artikel 190 of artikel 191 van de codificatie betreffende het secundair onderwijs alsmede voor de scholen gevestigd in de gemeenten waarvan de bevolkingsdichtheid gelegen is tussen de 125 en de 250 inwoners per km² en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in internaat verblijven, wordt de coëfficiëntenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 1, mits voldaan wordt aan de voorwaarden bepaald in § 7bis.<br /><br />§ 6. Voor de scholen die onder toepassing vallen artikel 192 van de codificatie betreffende het secundair onderwijs voor de scholen met het Nederlands als onderwijstaal, die gelegen zijn in het Brussels Hoofdstedelijk Gewest, en voor de scholen gevestigd in de gemeenten waarvan de bevolkingsdichtheid lager is dan 125 inwoners per km², wordt de coëfficientenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 2, mits voldaan wordt aan de voorwaarden bepaald in § 7bis. <br /><br />§ 7. Voor de scholen die onder toepassing vallen van het artikel 193, artikel 194 en artikel 197 van de codificatie betreffende het secundair onderwijs wordt de coëfficientenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 3, mits voldaan wordt aan de voorwaarden bepaald in § 7bis. <br /><br />§ 7bis. Voor toepassing van de regeling vermeld in de bijlage 1, 2 of 3, naargelang het geval, komen uitsluitend de scholen in aanmerking waarvoor:<br />1° het resultaat van genoemde regeling voordeliger is dan het resultaat van de berekening via de coëfficientenregeling;<br />2° de verhouding tussen MP en Y groter is dan of gelijk aan 15,00 %, oftewel<br />MP/Y = 15,00/100 <br />waarbij<br />MP = het aantal uren-leraar waar de school recht op heeft ingevolge de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling.<br />Y = het aantal uren-leraar aan 100 %. Het uiteindelijk aantal uren-leraar waar de school recht op heeft met coëfficiëntenberekening en met de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling.<br />3° de verhouding tussen CF en MP kleiner is dan of gelijk is aan 85,00 % oftewel<br />CF/MP = 85,00/100 <br />waarbij<br />CF = het aantal uren-leraar toegekend door de coëfficientenregeling, zonder rekening te houden met het percentage bedoeld in artikel 13 toegepast op die structuuronderdelen die voor de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling in aanmerking komen<br />MP = het aantal uren-leraar waar de school recht op heeft ingevolge de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling. <br /><br />§ 7ter. Voor de toepassing van de bepalingen van de § § 5 tot en met 7bis worden de vierde graad en het hoger beroepsonderwijs niet in aanmerking genomen.<br /><br />§ 7quater. Ongeacht het beantwoorden aan de voorwaarden bedoeld in § 7bis, kan met ingang van het schooljaar 1998-1999 hetzij de som van de respectieve aantallen wekelijkse uren-leraar toegekend in de vorm van minimumpakketten zoals bedoeld in de §§ 5, 6 en 7 aan de scholen die tot een scholengemeenschap behoren, hetzij het aantal wekelijkse uren-leraar toegekend in diezelfde vorm aan een school die niet tot een scholengemeenschap behoort, nooit hoger liggen dan het aantal eventueel toegekend voor het schooljaar 1997-1998, indien deze verhoging het gevolg is van een herstructurering of wijziging in het onderwijsaanbod van één of meer van de betrokken scholen, die ten vroegste ingaat vanaf 1 september 1998. <br /><br />§ 8. Voor wat betreft het ASO worden als disciplines onderscheiden:<br />1° klassieke;<br />2° moderne. <br /><br />§ 9. Bijlage 4 van dit besluit worden de structuuronderdelen weergegeven die worden gerangschikt onder de disciplines, bedoeld in de §§ 1 en 8 enerzijds en in de bijlagen 1 tot en met 3 van dit besluit anderzijds.
+§ 1. Het aantal uren-leraar, bedoeld in artikel 3, 1°, wordt vastgesteld op basis van een aantal wekelijkse uren-leraar per leerling, dat afzonderlijk wordt berekend voor:<br>
+a) het eerste leerjaar A en het tweede leerjaar in de eerste graad;<br>
+b) het eerste leerjaar B en het beroepsvoorbereidend leerjaar;<br>
+c) het onthaaljaar;<br>
+d) de tweede en de derde graad van het algemeen secundair onderwijs;<br>
+e) de tweede en de derde graad van het technisch secundair onderwijs, met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br>
+1° administratie en distributie, sport;<br>
+2° chemie, industriële technieken, land- en tuinbouw, paramedische opleidingen, personenzorg, voeding;<br>
+3° hotel, kleding en confectie;<br>
+4° elektriciteit;<br>
+5° decoratieve technieken, grafische technieken;<br>
+6° optiek, orthopedische technieken, tandtechnieken, verzorgingstechnieken, maatschappelijke veiligheid;<br>
+7° hout en bouw, metaal, Rijn- en binnenvaart, textiel;<br>
+8° glastechnieken;<br>
+f) de tweede, de derde en de vierde graad van het beroepssecundair onderwijs en het hoger beroepsonderwijs met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br>
+1° administratie en distributie;<br>
+2° land- en tuinbouw, personenzorg, maatschappelijke veiligheid;<br>
+3° decoratieve technieken, elektriciteit, hotel;<br>
+4° kleding en confectie, verzorgingstechnieken;<br>
+5° grafische technieken,;<br>
+6° glasbewerking, goud-juwelen, hout en bouw, marmerbewerking, metaal, Rijn- en binnenvaart, textiel;<br>
+7° vrachtwagenchauffeur;<br>
+8° verpleegkunde;<br>
+g) de tweede en de derde graad van het kunstsecundair onderwijs, met dien verstande dat een onderscheid wordt gemaakt tussen de volgende groepen van disciplines:<br>
+1° beeldende kunst;<br>
+2° woord;<br>
+3° dans;<br>
+4° muziek.<br>
+<br>
+§ 2. Het aantal uren-leerling per leerling wordt voor de onderscheiden rubrieken van § 1, vastgesteld als volgt:<br>
+1. voor de leerjaren bedoeld in § 1, a):<br>
+- op de schijf van 1 tot en met 25 leerlingen: 2,25.<br>
+- op de schijf van 26 tot en met 50 leerlingen: 1,95;<br>
+- op de schijf van 51 tot en met 100 leerlingen: 1,80;<br>
+- vanaf de 101ste leerling: 1,60;<br>
+<br>
+2. voor de leerlingen bedoeld in § 1, b):<br>
+- op de schijf van 1 tot en met 25 leerlingen: 3,05.<br>
+- op de schijf van 26 tot en met 50 leerlingen: 2,75;<br>
+- op de schijf van 51 tot en met 100 leerlingen: 2,60<br>
+- vanaf de 101ste leerling: 2,45;<br>
+<br>
+3. voor het jaar bedoeld in § 1, c):<br>
+- op de schijf van 1 tot en met 25 leerlingen: 2,25<br>
+- op de schijf van 26 tot en met 50 leerlingen: 1,95<br>
+- op de schijf van 51 tot en met 100 leerlingen: 1,80<br>
+- vanaf de 101e leerling: 1,60;<br>
+<br>
+4. voor de leerjaren bedoeld in § 1, d), afzonderlijk toegepast enerzijds op de leerlingen van de tweede graad, anderzijds op de leerlingen van de derde graad:<br>
+- op de schijf van 1 tot en met 25 leerlingen: 1,90;<br>
+- op de schijf van 26 tot en met 50 leerlingen: 1,70;<br>
+- op de schijf van 51 tot en met 100 leerlingen: 1,60;<br>
+- vanaf de 101ste leerling: 1,45;<br>
+<br>
+5. voor de leerlingen bedoeld in § 1, e), afzonderlijk toegepast enerzijds op de leerlingen van de tweede graad, anderzijds op de leerlingen van de derde graad:<br>
+- groep 1°: 2,05;<br>
+- groep 2°: 2,15;<br>
+- groep 3°: 2,25;<br>
+- groep 4°: 2,35;<br>
+- groep 5°: 2,45;<br>
+- groep 6°: 2,55;<br>
+- groep 7°: 2,65;<br>
+- groep 8°: 2,75;<br>
+<br>
+Een verhoging wordt evenwel toegekend voor het totaal van de leerlingen van de groepen 1° tot en met 8°, afzonderlijk toegepast enerzijds op de tweede graad, anderzijds op de derde graad met inbegrip van het derde leerjaar in de derde graad ingericht onder vorm van een specialisatiejaar:<br>
+- op de schijf van 1 tot en met 25 leerlingen: 0,50;<br>
+- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br>
+- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br>
+- vanaf de 151e leerling: 0,00;<br>
+<br>
+6. voor de leerjaren bedoeld in § 1, f), afzonderlijk toegepast op de leerlingen van de tweede graad, op de leerlingen van de derde graad, op de leerlingen van de vierde graad en op de leerlingen van het hoger beroepsonderwijs:<br>
+- groep 1°: 2,45;<br>
+- groep 2°: 2,55;<br>
+- groep 3°: 2,65;<br>
+- groep 4°: 2,75;<br>
+- groep 5°: 2,85;<br>
+- groep 6°: 3,05;<br>
+- groep 7°: 3,70;<br>
+- groep 8°: 3,80;<br>
+<br>
+Een verhoging wordt evenwel toegekend voor het totaal van de leerlingen van de groepen 1° tot en met 6°, afzonderlijk toegepast enerzijds op de tweede graad, anderzijds op de derde graad en op de leerlingen van de vierde graad:<br>
+- op de schijf van 1 tot en met 25 leerlingen: 0,60.<br>
+- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br>
+- op de schijf van 76 tot en met 150 leerlingen: 0,15;<br>
+- vanaf de 151e leerling: 0,00;<br>
+<br>
+7. voor de leerjaren bedoeld in § 1, g):<br>
+- groep 1°: 2,70;<br>
+- groep 2°: 2,70;<br>
+- groep 3°: 2,70;<br>
+- groep 4°: 2,70;<br>
+Een volgende verhoging wordt evenwel voor de desbetreffende graad toegekend:<br>
+a) voor de scholen die buiten het kunstsecundair onderwijs nog andere onderwijsvormen aanbieden in de tweede graad:<br>
+- op de schijf van 1 tot en met 25 leerlingen: 0,50.<br>
+- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br>
+- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br>
+- vanaf de 151e leerling: 0,00;<br>
+b) voor de scholen die buiten het kunstsecundair onderwijs nog andere onderwijsvormen aanbieden in de derde graad:<br>
+- op de schijf van 1 tot en met 25 leerlingen: 0,50.<br>
+- op de schijf van 26 tot en met 75 leerlingen: 0,30;<br>
+- op de schijf van 76 tot en met 150 leerlingen: 0,10;<br>
+- vanaf de 151e leerling: 0,00;<br>
+c) voor de scholen die buiten het kunstsecundair onderwijs geen andere onderwijsvormen aanbieden in de tweede graad:<br>
+- groep 1°: 0,20;<br>
+- groep 2°: 1,20;<br>
+- groep 3°: 1,20;<br>
+- groep 4°: 2,20;<br>
+d) voor de scholen die buiten het kunstsecundair onderwijs geen andere onderwijsvormen aanbieden in de derde graad:<br>
+- groep 1°: 0,20;<br>
+- groep 2°: 1,20;<br>
+- groep 3°: 1,20;<br>
+- groep 4°: 2,20;<br>
+In afwijking op wat voorafgaat en ongeacht het feit of de school in de desbetreffende graad al dan niet andere onderwijsvormen aanbiedt buiten het kunstsecundair onderwijs, bedraagt de verhoging per leerling van de structuuronderdelen muziek en bijzondere muzikale vorming van de discipline muziek van groep 4° steeds 2,20 urenleraar.<br>
+<br>
+8. voor de scholen die hetzij het Nederlands als onderwijstaal hebben, gelegen zijn in het administratief arrondissement Brussel-hoofdstad èn behoren tot een scholengemeenschap, hetzij gevestigd zijn in de gemeenten waarvan de bevolkingsdichtheid lager is dan 125 inwoners per km2, worden de coëfficiënten, bedoeld in 4 en de coëfficiënten van de groepen, bedoeld in 5, 6 en 7, verhoogd met:<br>
+1° 0,10: voor de eerste graad;<br>
+2° 0,20: voor de tweede, de derde en de vierde graad en het hoger beroepsonderwijs.<br>
+<br>
+Deze verhoogde leerlingencoëfficiënt blijft behouden gedurende een periode van 4 schooljaren nadat de norm van 125 inwoners per km2 werd overschreden.<br>
+<br>
+§ 3. De coëfficiënten, bedoeld in § 2, worden vermenigvuldigd met het respectievelijk aantal regelmatige leerlingen op de decretaal bepaalde teldatum of teldata van het voorafgaande schooljaar.<br>
+<br>
+§ 4. Voor de nieuw opgerichte of in opbouw zijnde scholen, waar niet naar een voorafgaand schooljaar kan worden gerefereerd, dienen de coëfficinten, bedoeld in § 2, te worden vermenigvuldigd met het respectieve aantal regelmatige leerlingen op 1 oktober van het betrokken schooljaar. Het daaropvolgend schooljaar worden de beschikkingen van § 3 van toepassing.<br>
+<br>
+Onder "in opbouw zijnde scholen" wordt verstaan scholen die tijdens opeenvolgende schooljaren hun onderwijsaanbod geleidelijk uitbreiden, leerjaar na leerjaar, te beginnen met het eerste leerjaar van de eerste graad.<br>
+<br>
+Voor de scholen die op 1 februari van een bepaald schooljaar niet de rationalisatienorm bereiken, bedoeld in de codificatie betreffende het secundair onderwijs en bijgevolg verplicht zijn over te gaan tot opheffing, wordt de tellingsdatum vastgesteld op 1 oktober van dat schooljaar waarin deze opheffing een aanvang neemt.<br>
+<br>
+§ 4bis. Als een school ingevolge het niet-bereiken van de rationalisatienorm overgaat tot afbouw, wordt de coëfficiëntenregeling vervangen door een pakket wekelijkse uren-leraar dat wordt toegekend voor de volledige duur van het schooljaar en dat wordt vastgesteld en toegekend door de Vlaamse Regering, op voorstel van de betrokken schoolbestuur. Die maatregel is bedoeld om de school toe te laten tijdens de afbouw de afwerking van de goedgekeurde leerplannen te realiseren.<br>
+<br>
+§ 5. Voor de scholen welke onder toepassing vallen van artikel 190 of artikel 191 van de codificatie betreffende het secundair onderwijs alsmede voor de scholen gevestigd in de gemeenten waarvan de bevolkingsdichtheid gelegen is tussen de 125 en de 250 inwoners per km² en voor de scholen waarvan meer dan 75 % van de regelmatige leerlingen in internaat verblijven, wordt de coëfficiëntenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 1, mits voldaan wordt aan de voorwaarden bepaald in § 7bis.<br>
+<br>
+§ 6. Voor de scholen die onder toepassing vallen artikel 192 van de codificatie betreffende het secundair onderwijs voor de scholen met het Nederlands als onderwijstaal, die gelegen zijn in het Brussels Hoofdstedelijk Gewest, en voor de scholen gevestigd in de gemeenten waarvan de bevolkingsdichtheid lager is dan 125 inwoners per km², wordt de coëfficientenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 2, mits voldaan wordt aan de voorwaarden bepaald in § 7bis.<br>
+<br>
+§ 7. Voor de scholen die onder toepassing vallen van het artikel 193, artikel 194 en artikel 197 van de codificatie betreffende het secundair onderwijs wordt de coëfficientenregeling, bedoeld in § 2, vervangen door de regeling vermeld in bijlage 3, mits voldaan wordt aan de voorwaarden bepaald in § 7bis.<br>
+<br>
+§ 7bis. Voor toepassing van de regeling vermeld in de bijlage 1, 2 of 3, naargelang het geval, komen uitsluitend de scholen in aanmerking waarvoor:<br>
+1° het resultaat van genoemde regeling voordeliger is dan het resultaat van de berekening via de coëfficientenregeling;<br>
+2° de verhouding tussen MP en Y groter is dan of gelijk aan 15,00 %, oftewel<br>
+MP/Y = 15,00/100<br>
+waarbij<br>
+MP = het aantal uren-leraar waar de school recht op heeft ingevolge de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling.<br>
+Y = het aantal uren-leraar aan 100 %. Het uiteindelijk aantal uren-leraar waar de school recht op heeft met coëfficiëntenberekening en met de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling.<br>
+3° de verhouding tussen CF en MP kleiner is dan of gelijk is aan 85,00 % oftewel<br>
+CF/MP = 85,00/100<br>
+waarbij<br>
+CF = het aantal uren-leraar toegekend door de coëfficientenregeling, zonder rekening te houden met het percentage bedoeld in artikel 13 toegepast op die structuuronderdelen die voor de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling in aanmerking komen<br>
+MP = het aantal uren-leraar waar de school recht op heeft ingevolge de in artikel 4, §§ 5 tot en met 7bis en de bijlagen 1, 2 en 3 bedoelde regeling;<br>
+4° met het oog op controle door de bevoegde dienst, het schoolbestuur op erewoord verklaart dat in geen enkel structuuronderdeel van een graad of onderwijsvorm waarvoor aan de school in kwestie een minimumpakket is toegekend, tijdens het schooljaar van toekenning de inschrijving van een leerling wordt geweigerd op basis van de capaciteit of de volzetverklaring, vermeld in artikel 110/9, § 2 en § 7, van de Codex Secundair Onderwijs van 17 december 2010.<br>
+<br>
+§ 7ter. Voor de toepassing van de bepalingen van de § § 5 tot en met 7bis worden de vierde graad en het hoger beroepsonderwijs niet in aanmerking genomen.<br>
+<br>
+§ 7quater. Ongeacht het beantwoorden aan de voorwaarden bedoeld in § 7bis, kan met ingang van het schooljaar 1998-1999 hetzij de som van de respectieve aantallen wekelijkse uren-leraar toegekend in de vorm van minimumpakketten zoals bedoeld in de §§ 5, 6 en 7 aan de scholen die tot een scholengemeenschap behoren, hetzij het aantal wekelijkse uren-leraar toegekend in diezelfde vorm aan een school die niet tot een scholengemeenschap behoort, nooit hoger liggen dan het aantal eventueel toegekend voor het schooljaar 1997-1998, indien deze verhoging het gevolg is van een herstructurering of wijziging in het onderwijsaanbod van één of meer van de betrokken scholen, die ten vroegste ingaat vanaf 1 september 1998.<br>
+<br>
+§ 8. Voor wat betreft het ASO worden als disciplines onderscheiden:<br>
+1° klassieke;<br>
+2° moderne.<br>
+<br>
+§ 9. Bijlage 4 van dit besluit worden de structuuronderdelen weergegeven die worden gerangschikt onder de disciplines, bedoeld in de §§ 1 en 8 enerzijds en in de bijlagen 1 tot en met 3 van dit besluit anderzijds.
 
 ### ART. 4bis.
 
@@ -42,7 +200,9 @@ In afwijking van artikel 4 wordt aan het Koninklijk Technisch Atheneum Zwijndrec
 
 ### ART. 7bis.
 
-Bovenop het volgens artikel 4 en 6 berekend pakket uren-leraar, worden   telkens voor de schooljaren 2012-2013, 2013-2014, 2014-2015 en 2015-2016 aan de   Koninklijke Balletschool Antwerpen een forfaitair pakket van 100 uren-leraar   toegekend, onder de volgende gezamenlijke voorwaarden : <BR>1) het schoolbestuur   of een derde partner verleent per schooljaar een cofinanciering van minimaal de   totale loonkost corresponderend met het toegekende forfaitair pakket van 100   uren-leraar;<BR>2) de betrokken uren-leraar mogen uitsluitend worden aangewend   voor de organisatie van lessen of lesgebonden activiteiten in het ambt van   leraar of als voordrachtgever, voorbehouden voor de leerlingen van de   balletopleiding binnen het voltijds secundair onderwijs.
+Bovenop het volgens artikel 4 en 6 berekend pakket uren-leraar,&nbsp;wordt aan de Koninklijke Balletschool Antwerpen een forfaitair pakket van 100 uren-leraar toegekend, onder de volgende gezamenlijke voorwaarden :<br>
+1) het schoolbestuur of een derde partner verleent per schooljaar een cofinanciering van minimaal de totale loonkost corresponderend met het toegekende forfaitair pakket van 100 uren-leraar;<br>
+2) de betrokken uren-leraar mogen uitsluitend worden aangewend voor de organisatie van lessen of lesgebonden activiteiten in het ambt van leraar of als voordrachtgever, voorbehouden voor de leerlingen van de balletopleiding binnen het voltijds secundair onderwijs.
 
 ## HOOFDSTUK III [SCHOLEN (verv. BVR 7 september 2012, art. 1)] VOOR [ MARITIEM ONDERWIJS (verv. BVR 22 september 2023, art. 2, I: 1 september 2023)]
 
