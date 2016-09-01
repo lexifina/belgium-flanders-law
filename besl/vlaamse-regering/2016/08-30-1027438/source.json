@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027438,
+  "title": "Besluit van de Vlaamse Regering van 2016-08-30 houdende wijziging van het besluit van de Vlaamse Regering van 14 juli 2004 betreffende de keuze voor en de vrijstelling van het volgen van een cursus in één van de erkende godsdiensten of een cursus niet-confessionele zedenleer in het officieel lager en secundair onderwijs",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027438/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "338d95d50739533c88c2d791747b7da0a0729851c075ad31ed6c7503abd3fecd",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027438&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-30",
+  "gazette": "2016-09-28",
+  "numac": 2016036402,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
