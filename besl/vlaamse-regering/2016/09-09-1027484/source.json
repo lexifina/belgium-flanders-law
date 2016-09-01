@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027484,
+  "title": "Besluit van de Vlaamse Regering van 2016-09-09 betreffende de waarborgregeling in het secundair onderwijs in het schooljaar 2016-2017",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027484/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "b9592b8417fca97cb1fbc348d63835a44af891f69424e43c6a33ae4d765b7e14",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027484&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-09-09",
+  "gazette": "2016-10-18",
+  "numac": 2016036460,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 8,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
