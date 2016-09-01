@@ -57,7 +57,19 @@ Personeelsleden die op 31 augustus 2000 werkzaam waren in een PMS- of MST- centr
 
 ### ART. 5bis.
 
-Een personeelslid dat in het schooljaar 2007-2008 als ervaringsdeskundige aangesteld was en niet beschikte over een vereist of voldoende geacht bekwaamheidsbewijs, wordt met ingang van 1 september 2008 bij overgangsmaatregel geacht over een bekwaamheidsbewijs van de categorie 'andere bekwaamheidsbewijzen' te beschikken, met salarisschaal 084, voor het ambt van ervaringsdeskundige.<br /><br />Het personeelslid behoudt de overgangsmaatregel vermeld in dit artikel, zolang hij ononderbroken in dienst blijft in een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd centrum voor leerlingenbegeleiding. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br />1° de vakantieperioden;<br />2° de loopbaanonderbreking;<br />3° de militaire dienst;<br />4° de perioden van wederoproeping;<br />5° de ziekte- en bevallingsverloven;<br />6° de borstvoedingsverloven;<br />7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br />8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br />9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br />10° een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
+Een personeelslid dat in het schooljaar 2007-2008 als ervaringsdeskundige aangesteld was en niet beschikte over een vereist of voldoende geacht bekwaamheidsbewijs, wordt met ingang van 1 september 2008 bij overgangsmaatregel geacht over een bekwaamheidsbewijs van de categorie 'andere bekwaamheidsbewijzen' te beschikken, met salarisschaal 084, voor het ambt van ervaringsdeskundige.<br>
+<br>
+Het personeelslid behoudt de overgangsmaatregel vermeld in dit artikel, zolang hij ononderbroken in dienst blijft in een door de Vlaamse Gemeenschap gefinancierd of gesubsidieerd centrum voor leerlingenbegeleiding. Voor de toepassing van deze bepaling worden de volgende perioden niet als een onderbreking beschouwd :<br>
+1° de vakantieperioden;<br>
+2° de loopbaanonderbreking en zorgkrediet;<br>
+3° de militaire dienst;<br>
+4° de perioden van wederoproeping;<br>
+5° de ziekte- en bevallingsverloven;<br>
+6° de borstvoedingsverloven;<br>
+7° de perioden van verwijdering uit een risico in het kader van bedreiging door een beroepsziekte of moederschapsbescherming;<br>
+8° de verloven van korte duur met behoud van salaris(toelage) ter gelegenheid van sommige gebeurtenissen van familiale of sociale aard;<br>
+9° de verloven zonder behoud van salaris(toelage) voor een maximumduur van zes werkdagen per schooljaar;<br>
+10° een onderbreking van een doorlopende periode van maximum twee kalenderjaren.
 
 ### ART. 6.
 
