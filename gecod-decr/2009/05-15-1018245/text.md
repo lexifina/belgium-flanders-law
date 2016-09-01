@@ -1744,7 +1744,22 @@ De gemeenten houden een register bij van alle onbebouwde percelen gelegen in het
 
 ### ART. 5.6.3.
 
-§ 1. Er wordt een Grondfonds opgericht. Het Grondfonds is een Gewestdienst met Afzonderlijk Beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />§ 2. De middelen waarover het Grondfonds beschikt zijn :<br />1° de dotaties ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br />2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het Grondfonds onverminderd de bepaling van artikel 6.1.56;<br />3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, titel VI uitgezonderd;<br />4° alle schulden, vorderingen en tegoeden van het Fonds voor de Planschade.<br /><br />§ 3. De middelen van het Grondfonds moeten aangewend worden voor de uitgaven die voortvloeien uit de toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996 en uit de toepassing van deze codex.<br /><br />§ 4. De Vlaamse Regering beheert het Grondfonds.<br /><br />Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het Grondfonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe aanwijst.<br /><br />§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financiële en materiële beheer van het Grondfonds.
+§ 1. Er wordt een Grondfonds opgericht. Het Grondfonds is een Gewestdienst met Afzonderlijk Beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br>
+<br>
+§ 2. De middelen waarover het Grondfonds beschikt zijn :<br>
+1° de dotaties ingeschreven in het decreet houdende de algemene uitgavenbegroting van de Vlaamse Gemeenschap;<br>
+2° het per 31 december van het jaar voorafgaand aan het begrotingsjaar beschikbare saldo van het Grondfonds;<br>
+3° alle ontvangsten voortvloeiend uit de toepassing van deze codex, met inbegrip van alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br>
+4° alle schulden, vorderingen en tegoeden van het Fonds voor de Planschade;<br>
+5° 73% van het saldo van het Herstelfonds beschikbaar als over te dragen saldo bij de afsluiting van de jaarrekening 2015. Dit saldo wordt vastgesteld door de Vlaamse Regering.<br>
+<br>
+§ 3. De middelen van het Grondfonds moeten aangewend worden voor de uitgaven die voortvloeien uit de toepassing van het decreet betreffende de ruimtelijke ordening gecoördineerd op 22 oktober 1996 en uit de toepassing van deze codex.<br>
+<br>
+§ 4. De Vlaamse Regering beheert het Grondfonds.<br>
+<br>
+Ze stelt de nodige administratieve en logistieke ondersteuning ter beschikking van het Grondfonds en kan, overeenkomstig de geldende regels, sommige van haar bevoegdheden delegeren aan de leidend ambtenaar die ze daartoe aanwijst.<br>
+<br>
+§ 5. De Vlaamse Regering bepaalt de organieke regels die van toepassing zijn op het financiële en materiële beheer van het Grondfonds.
 
 ## Onderafdeling 4 [opgeh. decr. 26 mei 2023, art. 5, I: 7 juli 2023))]
 
@@ -1886,7 +1901,23 @@ Een advies wordt bij beveiligde zending betekend aan het betrokken bestuur.<br /
 
 ### ART. 6.1.21.
 
-§ 1. De Hoge Raad kan op gemotiveerd verzoek beslissen dat een opeisbaar geworden dwangsom, vermeld in artikel 6.1.41, § 3, slechts gedeeltelijk ingevorderd wordt, of dat deze invordering tijdelijk wordt opgeschort. De Hoge Raad houdt bij zijn beoordeling in het bijzonder rekening met de door de overtreder gestelde handelingen en genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling.<br /><br />Een maatregel, vermeld in het eerste lid, heeft nimmer betrekking op de vaststaande gerechts- en uitvoeringskosten die zijn gemaakt door het bestuur dat instaat voor de invordering van de dwangsom.<br /><br />§ 2. Het gemotiveerd verzoek wordt op straffe van onontvankelijkheid bij beveiligde zending bezorgd aan de Hoge Raad en aan het bestuur dat instaat voor de invordering van de dwangsom. Bij het verzoek tot de Hoge Raad wordt op straffe van onontvankelijkheid een bewijs gevoegd van de beveiligde zending aan het betrokken bestuur.<br /><br />De verzoeker bezorgt een afschrift van het verzoek aan het Herstelfonds.<br /><br />§ 3. Het bestuur dat instaat voor de invordering van de dwangsom bezorgt een schriftelijk advies aan de Hoge Raad, binnen een vervaltermijn van twintig dagen, die ingaat de dag na deze van de betekening van het verzoek aan het bestuur.<br /><br />Indien binnen de gestelde termijn geen advies wordt verleend, mag de Hoge Raad aan de adviesvereiste voorbijgaan.<br /><br />§ 4. De Hoge Raad beslist over het verzoek binnen een ordetermijn van zestig dagen, die ingaat de dag na deze van de betekening van het verzoek aan de Hoge Raad.<br /><br />§ 5. De beslissing van de Hoge Raad wordt bij beveiligde zending ter kennis gebracht aan de verzoeker en aan het bestuur dat instaat voor de invordering van de dwangsom.<br /><br />De Hoge Raad bezorgt een afschrift van de beslissing aan het Herstelfonds.
+§ 1. De Hoge Raad kan op gemotiveerd verzoek beslissen dat een opeisbaar geworden dwangsom, vermeld in artikel 6.1.41, § 3, slechts gedeeltelijk ingevorderd wordt, of dat deze invordering tijdelijk wordt opgeschort. De Hoge Raad houdt bij zijn beoordeling in het bijzonder rekening met de door de overtreder gestelde handelingen en genomen engagementen met het oog op een correcte uitvoering van de hoofdveroordeling.<br>
+<br>
+Een maatregel, vermeld in het eerste lid, heeft nimmer betrekking op de vaststaande gerechts- en uitvoeringskosten die zijn gemaakt door het bestuur dat instaat voor de invordering van de dwangsom.<br>
+<br>
+§ 2. Het gemotiveerd verzoek wordt op straffe van onontvankelijkheid bij beveiligde zending bezorgd aan de Hoge Raad en aan het bestuur dat instaat voor de invordering van de dwangsom. Bij het verzoek tot de Hoge Raad wordt op straffe van onontvankelijkheid een bewijs gevoegd van de beveiligde zending aan het betrokken bestuur.<br>
+<br>
+De verzoeker bezorgt een afschrift van het verzoek aan het Grondfonds.<br>
+<br>
+§ 3. Het bestuur dat instaat voor de invordering van de dwangsom bezorgt een schriftelijk advies aan de Hoge Raad, binnen een vervaltermijn van twintig dagen, die ingaat de dag na deze van de betekening van het verzoek aan het bestuur.<br>
+<br>
+Indien binnen de gestelde termijn geen advies wordt verleend, mag de Hoge Raad aan de adviesvereiste voorbijgaan.<br>
+<br>
+§ 4. De Hoge Raad beslist over het verzoek binnen een ordetermijn van zestig dagen, die ingaat de dag na deze van de betekening van het verzoek aan de Hoge Raad.<br>
+<br>
+§ 5. De beslissing van de Hoge Raad wordt bij beveiligde zending ter kennis gebracht aan de verzoeker en aan het bestuur dat instaat voor de invordering van de dwangsom.<br>
+<br>
+De Hoge Raad bezorgt een afschrift van de beslissing aan het Grondfonds.
 
 ## Sectie 5 [... (opgeh. Decr. 25 april 2014, art. 21, I: 1 maart 2018)]
 
@@ -2068,7 +2099,9 @@ Een aanvraag tot minnelijke schikking schorst de verjaring van de strafvordering
 
 ### ART. 6.1.56.
 
-Er wordt een Herstelfonds opgericht als gewestdienst met afzonderlijk beheer, vermeld in artikel 140 van de gecoördineerde wetten op de Rijkscomptabiliteit.<br /><br />Aan het Herstelfonds worden toegewezen :<br />1° alle ontvangsten die voortvloeien uit de toepassing van titel VI;<br />2° het saldo van alle op het Grondfonds, vermeld in artikel 5.6.3, beschikbare middelen op 31 december 2005, verminderd met het bedrag dat voor planschadevergoedingen op de begroting van 2005 van het Grondfonds werd ingeschreven en de helft van het bedrag dat in hetzelfde jaar werd ingeschreven als naar het volgende begrotingsjaar over te dragen saldo;<br />3° het per 31 december van het jaar voorafgaande aan het begrotingsjaar beschikbare saldo van het Herstelfonds.<br /><br />Het op basis van deze ontvangsten gevormd Herstelfonds is bestemd voor alle uitgaven die voortvloeien uit de toepassing van titel VI.<br /><br />Alle schulden, vorderingen en tegoeden van het Grondfonds die betrekking hebben op de toepassing van titel VI worden overgenomen door het Herstelfonds.
+<p>De ontvangsten die voortvloeien uit de toepassing van titel VI worden toegewezen aan de DAB Grondfonds, vermeld in artikel 5.6.3.<br>
+<br>
+De in het eerste lid vermelde ontvangsten mogen enkel worden aangewend voor het verrichten van uitgaven die voortvloeien uit de toepassing van titel VI.</p>
 
 ## Afdeling 11 [... (opgeh. Decr. 25 april 2014, art. 27, I: 1 maart 2018]
 
