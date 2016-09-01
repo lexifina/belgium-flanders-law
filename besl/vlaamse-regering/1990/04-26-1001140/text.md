@@ -4,20 +4,39 @@
 
 ### ART. 1.
 
-[Dit besluit is van toepassing op:<br>
-1° de personeelsleden, bedoeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het Gemeenschapsonderwijs;<br>
-2° de personeelsleden, bedoeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde (verv. B.V.R. 3 maart 2000, art. 1, I: 1 september 1999) ] [centra voor leerlingenbegeleiding; (verv. B.V.R. 23 september 2005, art. 2, I: 1 september 2005) ]<br>
-[3° de leden van de inspectie voor het onderwijs, georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-4° de leden van de inspectie voor de (verv. B.V.R. 3 maart 2000, art. 1, I: 1 september 1999) ] [centra voor leerlingenbegeleiding (verv. B.V.R. 23 september 2005, art. 2, I: 1 september 2005) ] [georganiseerd door de Vlaamse Gemeenschap, bedoeld in artikel 4 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-5° de personeelsleden van de dienst voor onderwijsontwikkeling, bedoeld in artikel 9 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-6° de personeelsleden van de pedagogische begeleidingsdiensten, bedoeld in artikel 88 van het decreet van 17 juli 1991 betreffende inspectie, Dienst voor Onderwijsontwikkeling en pedagogische begeleidingsdiensten;<br>
-7° de personeelsleden, bedoeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken. (verv. B.V.R. 3 maart 2000, art. 1, I: 1 september 1999) ]
+Dit besluit is van toepassing op de volgende personeelsleden :<br>
+1° de personeelsleden, vermeld in artikel 2, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van bepaalde personeelsleden van het gemeenschapsonderwijs;<br>
+2° de personeelsleden, vermeld in artikel 4, § 1, van het decreet van 27 maart 1991 betreffende de rechtspositie van sommige personeelsleden van het gesubsidieerd onderwijs en de gesubsidieerde centra voor leerlingenbegeleiding;<br>
+3° de leden van de inspectie, vermeld in artikel 61 van het decreet van 8 mei 2009 betreffende de kwaliteit van onderwijs;<br>
+4° de personeelsleden, vermeld in artikel 10 van het decreet van 1 december 1993 betreffende de inspectie en de begeleiding van de levensbeschouwelijke vakken.
 
 ## HOOFDSTUK II [VERLOF VOOR VERMINDERDE PRESTATIES (verv. BVR 30 augustus 2016, art. 12, I: 1 september 2017)]
 
 ### ART. 2.
 
-§ 1. De in artikel 1 vermelde personeelsleden kunnen ertoe gemachtigd worden hun ambt uit te oefenen met verminderde prestaties wegens sociale of familiale redenen.<br /><br />§ 2. [De in § 1 bedoelde machtiging wordt verleend door de inrichtende macht voor de personeelsleden, genoemd in artikel 1, 1°, 2° en 6°, en door de Vlaamse minister, bevoegd voor het onderwijs, of zijn gemachtigde voor de personeelsleden, genoemd in artikel 1, 3°, 4°, 5° en 7°, op gemotiveerd verzoek van het personeelslid, gestaafd met alle nuttige bewijzen.  <span class="reference">(verv. B.V.R. 3 maart 2000, art. 2, I: 1 september 1999)</span> ]<br /><br />De aanvraag kan slechts worden ingewilligd wanneer het verlof bedoeld is om een oplossing te bieden voor moeilijkheden die zijn overkomen:<br /><br />- aan het personeelslid zelf;<br /><br />- aan zijn echtgenoot;<br /><br />- aan de persoon met wie hij samenleeft;<br /><br />- aan zijn kinderen of die van zijn echtgenoot;<br /><br />- aan het kind dat hij of zijn echtgenoot geadopteerd heeft;<br /><br />- aan het kind waarvan hij of zijn echtgenoot pleegvoogd is;<br /><br />- aan de bloed- en aanverwanten, ongeacht de graad van verwantschap, die onder hetzelfde dak als het personeelslid wonen of te zijnen laste zijn;<br /><br />- aan de ascendenten in de eerste graad van het personeelslid of van zijn echtgenoot, alsook aan de broers en zusters van het personeelslid;<br /><br />- aan het kind dat in een gezin wordt opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij;<br /><br />- aan het kind waarvan het personeelslid of zijn echtgenoot als voogd is aangewezen;<br /><br />- aan het kind waarvan het toezicht is toevertrouwd aan het personeelslid of zijn echtgenoot die als toeziende voogd is aangewezen;<br /><br />- aan de curandus waarvan het toezicht is toevertrouwd aan het personeelslid of zijn echtgenoot die als voogd is aangewezen.<br /><br />De inrichtende macht en de [Vlaamse minister bevoegd voor het onderwijs  <span class="reference">(verv. B.V.R. 3 maart 2000, art. 2, I: 1 september 1999)</span> ] of zijn gemachtigde maken hun beslissing bekend aan het personeelslid binnen vijftien dagen te rekenen vanaf de ontvangst van de aanvraag en de verantwoordingsstukken ervan.<br /><br />§ 3. Onverminderd de mogelijkheid om zich te beroepen op § 2 kunnen de personeelsleden die de leeftijd van vijftig jaar bereikt hebben en de personeelsleden die tenminste twee kinderen niet ouder dan veertien jaar ten laste hebben op hun aanvraag ertoe gemachtigd worden hun ambt uit te oefenen volgens de in § 1 bedoelde regeling van verminderde prestaties wegens sociale of familiale redenen.<br /><br />§ 4. Onverminderd de bijzondere voorwaarden, gesteld in de §§ 2 en 3, kunnen alleen de eisen van de goede werking van de instelling, het centrum of de dienst ingeroepen worden om het in dit artikel bedoelde verlof voor verminderde prestaties te weigeren. Wanneer de aanvraag niet of slechts gedeeltelijk wordt ingewilligd, wordt de beslissing omstandig en schriftelijk gemotiveerd.
+§ 1. De in artikel 1 vermelde personeelsleden kunnen ertoe gemachtigd worden hun ambt uit te oefenen met verminderde prestaties wegens sociale of familiale redenen.<br>
+<br>
+§ 2. De in § 1 bedoelde machtiging wordt verleend door de inrichtende macht voor de personeelsleden, genoemd in artikel 1, 1°, en 2°, en door de Vlaamse minister, bevoegd voor het onderwijs, of zijn gemachtigde voor de personeelsleden, genoemd in artikel 1, 3°, en 4, op gemotiveerd verzoek van het personeelslid, gestaafd met alle nuttige bewijzen.<br>
+<br>
+De aanvraag kan slechts worden ingewilligd wanneer het verlof bedoeld is om een oplossing te bieden voor moeilijkheden die zijn overkomen:<br>
+- aan het personeelslid zelf;<br>
+- aan zijn echtgenoot;<br>
+- aan de persoon met wie hij samenleeft;<br>
+- aan zijn kinderen of die van zijn echtgenoot;<br>
+- aan het kind dat hij of zijn echtgenoot geadopteerd heeft;<br>
+- aan het kind waarvan hij of zijn echtgenoot pleegvoogd is;<br>
+- aan de bloed- en aanverwanten, ongeacht de graad van verwantschap, die onder hetzelfde dak als het personeelslid wonen of te zijnen laste zijn;<br>
+- aan de ascendenten in de eerste graad van het personeelslid of van zijn echtgenoot, alsook aan de broers en zusters van het personeelslid;<br>
+- aan het kind dat in een gezin wordt opgenomen met het oog op zijn adoptie of de uitoefening van een pleegvoogdij;<br>
+- aan het kind waarvan het personeelslid of zijn echtgenoot als voogd is aangewezen;<br>
+- aan het kind waarvan het toezicht is toevertrouwd aan het personeelslid of zijn echtgenoot die als toeziende voogd is aangewezen;<br>
+- aan de curandus waarvan het toezicht is toevertrouwd aan het personeelslid of zijn echtgenoot die als voogd is aangewezen.<br>
+<br>
+De inrichtende macht en de Vlaamse minister bevoegd voor het onderwijs&nbsp;of zijn gemachtigde maken hun beslissing bekend aan het personeelslid binnen vijftien dagen te rekenen vanaf de ontvangst van de aanvraag en de verantwoordingsstukken ervan.<br>
+<br>
+§ 3. Onverminderd de mogelijkheid om zich te beroepen op § 2 kunnen de personeelsleden die de leeftijd van vijftig jaar bereikt hebben en de personeelsleden die tenminste twee kinderen niet ouder dan veertien jaar ten laste hebben op hun aanvraag ertoe gemachtigd worden hun ambt uit te oefenen volgens de in § 1 bedoelde regeling van verminderde prestaties wegens sociale of familiale redenen.<br>
+<br>
+§ 4. Onverminderd de bijzondere voorwaarden, gesteld in de §§ 2 en 3, kunnen alleen de eisen van de goede werking van de instelling, het centrum of de dienst ingeroepen worden om het in dit artikel bedoelde verlof voor verminderde prestaties te weigeren. Wanneer de aanvraag niet of slechts gedeeltelijk wordt ingewilligd, wordt de beslissing omstandig en schriftelijk gemotiveerd.
 
 ### ART. 3.
 
@@ -26,6 +45,18 @@ De in artikel 2 bedoelde machtiging om zijn ambt met verminderde prestaties uit 
 ### ART. 4.
 
 De periodes van afwezigheid gewettigd door vermindering van prestaties overeenkomstig dit hoofdstuk worden beschouwd als verlof.<br /><br />Dit verlof wordt niet vergoed. Het wordt voor het overige met een periode van dienstactiviteit gelijkgesteld.
+
+### ART 4/1.
+
+Het verlof voor verminderde prestaties gewettigd door sociale en familiale redenen, vermeld in artikel 2, § 1, dat het personeelslid genoten heeft tijdens het schooljaar of dienstjaar, heeft tot gevolg dat het salaris tijdens het jaarlijks vakantieverlof in evenredige mate wordt verminderd.<br>
+<br>
+Het eerste lid is niet van toepassing op:<br>
+1° de personeelsleden van het meesters-, vak- en dienstpersoneel;<br>
+2° de personeelsleden van de categorie van het administratief personeel van de medisch-pedagogische instituten van het Gemeenschapsonderwijs, van de semi-internaten of van de tehuizen voor kinderen wier ouders geen vaste verblijfplaats hebben;<br>
+3° de personeelsleden aangesteld in het ambt van coördinerend inspecteur of van inspecteur-generaal;<br>
+4° de personeelsleden van:<br>
+a) de internaten met permanente openstelling;<br>
+b) het tehuis van het Gemeenschapsonderwijs dat instaat voor de opname van jongeren in het kader van de hulp- en bijstandsregeling.
 
 ### ART. 5.
 
@@ -41,7 +72,15 @@ Voor het geheel van de loopbaan mag, te rekenen van 1 juli 1982 af, de totale du
 
 ### ART. 8.
 
-§ 1. [De in artikel 1 genoemde personeelsleden kunnen op hun verzoek door de inrichtende macht voor de personeelsleden, bedoeld in artikel 1, 1°, 2° en 6°, en door de Vlaamse minister, bevoegd voor het onderwijs, of zijn gemachtigde voor de personeelsleden, bedoeld in artikel 1, 3°, 4°, 5° en 7°, ertoe gemachtigd worden hun ambt uit te oefenen met verminderde prestaties wegens persoonlijke aangelegenheid.  <span class="reference">(verv. B.V.R. 3 maart 2000, art. 5, I: 1 september 1999)</span> ]<br /><br />De inrichtende macht en de [Vlaamse minister bevoegd voor het onderwijs  <span class="reference">(ing. B.V.R. 3 maart 2000, art. 5, I: 1 september 1999)</span> ] of zijn gemachtigde maken hun beslissing bekend aan het personeelslid binnen vijftien dagen te rekenen vanaf de ontvangst van de aanvraag.<br /><br />§ 2. De personeelsleden die de leeftijd van vijftig jaar bereikt hebben en de personeelsleden die ten- minste twee kinderen niet ouder dan veertien jaar ten laste hebben, kunnen, op hun aanvraag, ertoe gemachtigd worden hun ambt uit te oefenen volgens de regeling van de verminderde prestaties wegens persoonlijke aangelegenheid.<br /><br />§ 3. Alleen de eisen van de goede werking van de instelling, het centrum of de dienst kunnen ingeroepen worden om de in dit artikel bedoelde machtigingen te weigeren.<br /><br />Wanneer het verzoek niet of slechts gedeeltelijk wordt ingewilligd, wordt de beslissing omstandig en schriftelijk gemotiveerd.
+§ 1. De in artikel 1 genoemde personeelsleden kunnen op hun verzoek door de inrichtende macht voor de personeelsleden, bedoeld in artikel 1, 1° en 2°, en door de Vlaamse minister, bevoegd voor het onderwijs, of zijn gemachtigde voor de personeelsleden, bedoeld in artikel 1, 3° en 4°, ertoe gemachtigd worden hun ambt uit te oefenen met verminderde prestaties wegens persoonlijke aangelegenheid.<br>
+<br>
+De inrichtende macht en de [Vlaamse minister bevoegd voor het onderwijs (ing. B.V.R. 3 maart 2000, art. 5, I: 1 september 1999) ] of zijn gemachtigde maken hun beslissing bekend aan het personeelslid binnen vijftien dagen te rekenen vanaf de ontvangst van de aanvraag.<br>
+<br>
+§ 2. De personeelsleden die de leeftijd van vijftig jaar bereikt hebben en de personeelsleden die ten- minste twee kinderen niet ouder dan veertien jaar ten laste hebben, kunnen, op hun aanvraag, ertoe gemachtigd worden hun ambt uit te oefenen volgens de regeling van de verminderde prestaties wegens persoonlijke aangelegenheid.<br>
+<br>
+§ 3. Alleen de eisen van de goede werking van de instelling, het centrum of de dienst kunnen ingeroepen worden om de in dit artikel bedoelde machtigingen te weigeren.<br>
+<br>
+Wanneer het verzoek niet of slechts gedeeltelijk wordt ingewilligd, wordt de beslissing omstandig en schriftelijk gemotiveerd.
 
 ### ART. 9.
 
