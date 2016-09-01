@@ -8,7 +8,15 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 7 mei 2004 tot oprichti
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder : <br />1° het decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br />2° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet;<br />3° de werknemers : de werknemers, vermeld in artikel 5, § 1, 2°, e), van het decreet, en de daarmee gelijkgestelde personen, vermeld in artikel 2, tweede lid;<br />4° de SERR : de Sociaal-Economische Raad van de Regio, vermeld in artikel 12 van het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités, in het ambtsgebied waarvan de onderneming of vereniging zonder winstoogmerk, vermeld in artikel 5, § 1, 2°, e), van het decreet haar activiteiten uitoefent;<br />5° outplacementbegeleiding : het geheel van begeleidende diensten en adviezen die in opdracht van de werkgever in herstructurering of van een onderneming die het voorwerp uitmaakt van een sluiting, door een derde individueel of in groep worden verleend om een werknemer in staat te stellen zelf binnen een zo kort mogelijke termijn een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien;<br />6° de raad van bestuur : de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 7 van het decreet;<br />7° de aanvrager : de curator, de vereffenaar, de overnemer, de werkgever of zijn wettelijke vertegenwoordiger die een aanvraag indient voor een tegemoetkoming in de kosten die verbonden zijn aan de activiteiten van herplaatsing.<br /><br />
+In dit besluit wordt verstaan onder :<br>
+1° het decreet : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding;<br>
+2° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet;<br>
+3° de werknemers : de werknemers, vermeld in artikel 5, § 1, 2°, e), van het decreet, en de daarmee gelijkgestelde personen, vermeld in artikel 2, tweede lid;<br>
+4° ...;<br>
+5° outplacementbegeleiding : het geheel van begeleidende diensten en adviezen die in opdracht van de werkgever in herstructurering of van een onderneming die het voorwerp uitmaakt van een sluiting, door een derde individueel of in groep worden verleend om een werknemer in staat te stellen zelf binnen een zo kort mogelijke termijn een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien;<br>
+6° de raad van bestuur : de raad van bestuur van de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 7 van het decreet;<br>
+7° de aanvrager : de curator, de vereffenaar, de overnemer, de werkgever of zijn wettelijke vertegenwoordiger die een aanvraag indient voor een tegemoetkoming in de kosten die verbonden zijn aan de activiteiten van herplaatsing.<br>
+&nbsp;
 
 ## HOOFDSTUK 2 Toepassingsgebied
 
@@ -51,7 +59,35 @@ De aanvraag tot tegemoetkoming wordt ingediend door de aanvrager en moet medeond
 
 ### ART. 8.
 
-§ 1. Voor de ondernemingen en verenigingen zonder winstoogmerk met maximaal vijftig werknemers op het moment van het ontslag wordt binnen het ambtsgebied van elke SERR een permanente stuurgroep opgericht die in de plaats komt van de ad-hocstuurgroep, vermeld in artikel 7.<br /><br />§ 2. De permanente stuurgroep is samengesteld uit : <br />1° de VDAB, die voorzitter is;<br />2° de vertegenwoordigers van de representatieve werknemersorganisaties, aangewezen door de SERR;<br />3° de vertegenwoordigers van de representatieve werkgeversorganisaties, aangewezen door de SERR;<br />4° in voorkomend geval, een vertegenwoordiger van het sectorale opleidingsorgaan in kwestie;<br />5° op zijn verzoek de aanvrager.<br /><br />Alleen de aanvrager en de vertegenwoordigers van de representatieve werknemersorganisaties en van de representatieve werkgeversorganisaties zijn stemgerechtigd.<br /><br />De permanente stuurgroep kan zich laten bijstaan door deskundigen en kan tijdelijke werkgroepen oprichten.<br /><br />§ 3. De permanente stuurgroep heeft de volgende opdrachten : <br />1° nominatief de werknemers aanwijzen voor wie een tegemoetkoming wordt toegekend;<br />2° het tussentijdse verslag en het eindverslag goedkeuren;<br />3° beslissen aan welk outplacementbureau de opdracht wordt toevertrouwd, na toepassing van de wetgeving op overheidsopdrachten, tenzij er in de sector in kwestie een collectieve arbeidsovereenkomst werd gesloten, waardoor een of meer outplacementbureaus voor een langere periode werden aangewezen om de outplacementbegeleiding in de sector in kwestie uit te voeren, op voorwaarde dat de duurtijd van de overeenkomst niet langer is dan twee jaar en het outplacementbureau werd aangewezen volgens de wetgeving op overheidsopdrachten;<br />4° bepalen hoe de extra tegemoetkoming, vermeld in artikel 10, § 2, wordt verdeeld.<br /><br />§ 4. De werking van de permanente stuurgroep wordt geregeld in een huishoudelijk reglement, dat wordt goedgekeurd door de raad van bestuur. <br /><br />Het huishoudelijk reglement bepaalt ten minste : <br />1° de bevoegdheden van de voorzitter;<br />2° de wijze van bijeenroeping en beraadslaging;<br />3° de periodiciteit van de vergaderingen;<br />4° de bekendmaking van de handelingen;<br />5° het minimumaantal aanwezige leden om geldig te vergaderen;<br />6° de aanwijzing van de bevoegde permanente stuurgroep als de voormelde onderneming of vereniging zonder winstoogmerk actief is in ambtsgebieden van verschillende SERR's.<br /><br />
+§ 1. Voor de ondernemingen en verenigingen zonder winstoogmerk met maximaal vijftig werknemers op het moment van het ontslag wordt een permanente stuurgroep opgericht die in de plaats komt van de ad-hocstuurgroep, vermeld in artikel 7.<br>
+<br>
+§ 2. De permanente stuurgroep is samengesteld uit :<br>
+1° de VDAB, die voorzitter is;<br>
+2° de vertegenwoordigers van de representatieve werknemersorganisaties;<br>
+3° de vertegenwoordigers van de representatieve werkgeversorganisaties;<br>
+4° in voorkomend geval, een vertegenwoordiger van het sectorale opleidingsorgaan in kwestie;<br>
+5° op zijn verzoek de aanvrager.<br>
+<br>
+Alleen de aanvrager en de vertegenwoordigers van de representatieve werknemersorganisaties en van de representatieve werkgeversorganisaties zijn stemgerechtigd.<br>
+<br>
+De permanente stuurgroep kan zich laten bijstaan door deskundigen en kan tijdelijke werkgroepen oprichten.<br>
+<br>
+§ 3. De permanente stuurgroep heeft de volgende opdrachten :<br>
+1° nominatief de werknemers aanwijzen voor wie een tegemoetkoming wordt toegekend;<br>
+2° het tussentijdse verslag en het eindverslag goedkeuren;<br>
+3° beslissen aan welk outplacementbureau de opdracht wordt toevertrouwd, na toepassing van de wetgeving op overheidsopdrachten, tenzij er in de sector in kwestie een collectieve arbeidsovereenkomst werd gesloten, waardoor een of meer outplacementbureaus voor een langere periode werden aangewezen om de outplacementbegeleiding in de sector in kwestie uit te voeren, op voorwaarde dat de duurtijd van de overeenkomst niet langer is dan twee jaar en het outplacementbureau werd aangewezen volgens de wetgeving op overheidsopdrachten;<br>
+4° bepalen hoe de extra tegemoetkoming, vermeld in artikel 10, § 2, wordt verdeeld.<br>
+<br>
+§ 4. De werking van de permanente stuurgroep wordt geregeld in een huishoudelijk reglement, dat wordt goedgekeurd door de raad van bestuur.<br>
+<br>
+Het huishoudelijk reglement bepaalt ten minste :<br>
+1° de bevoegdheden van de voorzitter;<br>
+2° de wijze van bijeenroeping en beraadslaging;<br>
+3° de periodiciteit van de vergaderingen;<br>
+4° de bekendmaking van de handelingen;<br>
+5° het minimumaantal aanwezige leden om geldig te vergaderen;<br>
+6° de aanwijzing van de bevoegde permanente stuurgroep als de voormelde onderneming of vereniging zonder winstoogmerk actief is in ambtsgebieden van verschillende permanente tewerkstellingscellen als vermeld in artikel 1, 18° van het besluit van de Vlaamse Regering van 5 juni 2009 houdende de organisatie van de arbeidsbemiddeling en de beroepsopleiding.<br>
+&nbsp;
 
 ### ART. 9.
 
