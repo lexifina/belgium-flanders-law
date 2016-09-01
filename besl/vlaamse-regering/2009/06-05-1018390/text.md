@@ -10,13 +10,48 @@ De Vlaamse Regering,<br /><br />Gelet op Richtlijn 2006/123/EG van het Europees 
 
 ### ART. 1.
 
-In dit besluit wordt verstaan onder :<BR>1° het decreet van 7 mei 2004 :   het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven   extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding »;<BR>2° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en   Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei   2004;<BR>3° de raad van bestuur : de raad van bestuur van de VDAB, vermeld in   artikel 7 van het decreet van 7 mei 2004;<BR>4° arbeidsmarktregie : het   operationaliseren van de door de Vlaamse overheid toevertrouwde opdrachten op   het vlak van arbeidsmarktbeleid, het in kaart brengen en ordenen van de   activiteiten van de betrokken arbeidsmarktactoren, het verwezenlijken van de   afstemming tussen de betrokken actoren door het opnemen van een coördinerende   rol, het bewerkstelligen van oplossingen en het opzetten van een transparant en   permanent arbeidsmarktgegevenssysteem;<BR>5° trajectbegeleiding : het geheel van   adviezen en diensten dat erop gericht is niet-werkende werkzoekenden te   begeleiden met het oog op de verdere ontwikkeling van hun loopbaan of de   participatie in een traject waarin de meting van competenties centraal   staat;<BR>6° competentieontwikkeling : elke maatregel die tot doel heeft een   persoon bekwaamheid te verstrekken om beroepsarbeid te verrichten;<BR>7° de   werkzoekende : elke persoon die is ingeschreven bij de VDAB, met inbegrip van de   personen die op zoek zijn naar een zelfstandige beroepsactiviteit;<BR>8° de   niet-werkende werkzoekende :<BR>a) de werkzoekende die geen betaalde   beroepsarbeid verricht;<BR>b) de onvrijwillig deeltijdse werknemer, vermeld in   artikel 29 van het koninklijk besluit van 25 november 1991 houdende de   werkloosheidsreglementering;<BR>c) de deeltijdse werknemer die een opleiding   volgt in een onderwijsinstelling als vermeld in artikel 87, waarvoor hij   vrijstelling heeft gekregen van de directeur van het werkloosheidsbureau;<BR>9°   de cursist : de persoon die een competentieontwikkeling als vermeld in artikel   61, 1° tot en met 6°, volgt;<BR>10° de uitkeringsgerechtigde werkloze : de   persoon die voldoet aan de voorwaarden om werkloosheidsuitkeringen te   ontvangen;<BR>11° de werknemer : de persoon die tewerkgesteld is met een   arbeidsovereenkomst of de persoon die zonder dat hij door een   arbeidsovereenkomst is verbonden, tegen loon arbeidsprestaties verricht onder   het gezag van een andere persoon of die arbeid verricht onder vergelijkbare   voorwaarden;<BR>12° personen met een indicatie van een arbeidshandicap : de   persoon, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18   juli 2008 betreffende de professionele integratie van personen met een   arbeidshandicap;<BR>13° het mandaat : de opdracht, gegeven door de raad van   bestuur aan natuurlijke personen of rechtspersonen, om taken uit te voeren op   het vlak van kosteloze arbeidsbemiddeling, kosteloze trajectbegeleiding of   kosteloze competentieontwikkeling;<BR>14° de SERR : de Sociaal-Economische Raad   van de Regio, vermeld in artikel 12 van het decreet van 7 mei 2004 betreffende   het statuut, de werking, de taken en de bevoegdheden van de erkende regionale   samenwerkingsverbanden, de sociaal-economische raden van de regio en de   regionale sociaal-economische overlegcomités;<BR>15° oriënterende stage : stage   voor werkzoekenden, die niet past in het kader van van een opleiding, maar in   hun beroeps- of loopbaanoriëntatie. De stage vindt plaats tijdens een   trajectbegeleiding of activering en kan aan een opleiding voorafgaan. Die   stagevorm heeft tot doel een individueel proces te ondersteunen en te   versterken, waarbij een werkzoekende zicht krijgt op de concrete arbeidsmarkt,   zijn interesses en aanwezige competenties, en waarbij die competenties getest en   geactiveerd kunnen worden met het oog op verdere stappen naar   tewerkstelling;<BR>16° activering : proces waarbij de werkzoekende, in   samenwerking met een begeleider, de medische, mentale, psychische,   psychiatrische en sociale problemen die zijn inschakeling op de arbeidsmarkt in   de weg staan, probeert op te lossen;<BR>17° ad-hoctewerkstellingscel :   samenwerkingsverband dat naar aanleiding van de herstructurering van een   onderneming werd opgericht als feitelijke vereniging of als autonome   rechtpersoon, waarbij minstens de onderneming, minstens een van de   representatieve werknemersorganisaties en de VDAB betrokken zijn;<BR>18°   permanente tewerkstellingscel : de tewerkstellingscel in beheer van de VDAB   waarin verschillende ondernemingen in herstructurering participeren;<BR>19°   tewerkstellingscel : zowel de ad-hoctewerkstellingscel als de permanente   tewerkstellingscel;<BR>20° outplacementbegeleiding : het geheel van begeleidende   diensten en adviezen die in opdracht van de werkgever door een derde individueel   of in groep worden verleend om een werknemer in staat te stellen zelf binnen een   zo kort mogelijke termijn een betrekking bij een nieuwe werkgever te vinden of   een beroepsactiviteit als zelfstandige te ontplooien;<BR>21° het   outplacementbureau : het bureau voor outplacementactiviteiten, vermeld in het   besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het   decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<BR>22°   administratieve overheid : de overheid, vermeld in artikel 14 van de   gecoördineerde wetten op de Raad van State;<BR>23° bemiddelaar: personeelslid   van de VDAB dat de nodige initiatieven neemt om de werkzoekende te ondersteunen   bij de verbetering van zijn tewerkstellingsmogelijkheden;<BR>24° controledienst:   de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid   van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen   van de bijbehorende sanctie;<BR>25° partnerorganisaties: organisaties waarmee de   VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of   samenwerkingsovereenkomst;<BR>26° RVA: de Rijksdienst voor   Arbeidsvoorziening.<BR><BR>De Vlaamse minister, bevoegd voor het   Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB,   wat moet worden verstaan onder onderneming in herstructurering als vermeld in   het eerste lid, 17° en 18°.
+In dit besluit wordt verstaan onder :<br>
+1° het decreet van 7 mei 2004 : het decreet van 7 mei 2004 tot oprichting van het publiekrechtelijk vormgegeven extern verzelfstandigd agentschap « Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding »;<br>
+2° de VDAB : de Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding, vermeld in artikel 3, § 1, van het decreet van 7 mei 2004;<br>
+3° de raad van bestuur : de raad van bestuur van de VDAB, vermeld in artikel 7 van het decreet van 7 mei 2004;<br>
+4° arbeidsmarktregie : het operationaliseren van de door de Vlaamse overheid toevertrouwde opdrachten op het vlak van arbeidsmarktbeleid, het in kaart brengen en ordenen van de activiteiten van de betrokken arbeidsmarktactoren, het verwezenlijken van de afstemming tussen de betrokken actoren door het opnemen van een coördinerende rol, het bewerkstelligen van oplossingen en het opzetten van een transparant en permanent arbeidsmarktgegevenssysteem;<br>
+5° trajectbegeleiding : het geheel van adviezen en diensten dat erop gericht is niet-werkende werkzoekenden te begeleiden met het oog op de verdere ontwikkeling van hun loopbaan of de participatie in een traject waarin de meting van competenties centraal staat;<br>
+6° competentieontwikkeling : elke maatregel die tot doel heeft een persoon bekwaamheid te verstrekken om beroepsarbeid te verrichten;<br>
+7° de werkzoekende : elke persoon die is ingeschreven bij de VDAB, met inbegrip van de personen die op zoek zijn naar een zelfstandige beroepsactiviteit;<br>
+8° de niet-werkende werkzoekende :<br>
+a) de werkzoekende die geen betaalde beroepsarbeid verricht;<br>
+b) de onvrijwillig deeltijdse werknemer, vermeld in artikel 29 van het koninklijk besluit van 25 november 1991 houdende de werkloosheidsreglementering;<br>
+c) de deeltijdse werknemer die een opleiding volgt in een onderwijsinstelling als vermeld in artikel 87, waarvoor hij vrijstelling heeft gekregen van de directeur van het werkloosheidsbureau;<br>
+9° de cursist : de persoon die een competentieontwikkeling als vermeld in artikel 61, 1° tot en met 6°, volgt;<br>
+10° de uitkeringsgerechtigde werkloze : de persoon die voldoet aan de voorwaarden om werkloosheidsuitkeringen te ontvangen;<br>
+11° de werknemer : de persoon die tewerkgesteld is met een arbeidsovereenkomst of de persoon die zonder dat hij door een arbeidsovereenkomst is verbonden, tegen loon arbeidsprestaties verricht onder het gezag van een andere persoon of die arbeid verricht onder vergelijkbare voorwaarden;<br>
+12° personen met een indicatie van een arbeidshandicap : de persoon, vermeld in artikel 3 van het besluit van de Vlaamse Regering van 18 juli 2008 betreffende de professionele integratie van personen met een arbeidshandicap;<br>
+13° het mandaat : de opdracht, gegeven door de raad van bestuur aan natuurlijke personen of rechtspersonen, om taken uit te voeren op het vlak van kosteloze arbeidsbemiddeling, kosteloze trajectbegeleiding of kosteloze competentieontwikkeling;<br>
+14° ...;<br>
+15° oriënterende stage : stage voor werkzoekenden, die niet past in het kader van van een opleiding, maar in hun beroeps- of loopbaanoriëntatie. De stage vindt plaats tijdens een trajectbegeleiding of activering en kan aan een opleiding voorafgaan. Die stagevorm heeft tot doel een individueel proces te ondersteunen en te versterken, waarbij een werkzoekende zicht krijgt op de concrete arbeidsmarkt, zijn interesses en aanwezige competenties, en waarbij die competenties getest en geactiveerd kunnen worden met het oog op verdere stappen naar tewerkstelling;<br>
+16° activering : proces waarbij de werkzoekende, in samenwerking met een begeleider, de medische, mentale, psychische, psychiatrische en sociale problemen die zijn inschakeling op de arbeidsmarkt in de weg staan, probeert op te lossen;<br>
+17° ad-hoctewerkstellingscel : samenwerkingsverband dat naar aanleiding van de herstructurering van een onderneming werd opgericht als feitelijke vereniging of als autonome rechtpersoon, waarbij minstens de onderneming, minstens een van de representatieve werknemersorganisaties en de VDAB betrokken zijn;<br>
+18° permanente tewerkstellingscel : de tewerkstellingscel in beheer van de VDAB waarin verschillende ondernemingen in herstructurering participeren;<br>
+19° tewerkstellingscel : zowel de ad-hoctewerkstellingscel als de permanente tewerkstellingscel;<br>
+20° outplacementbegeleiding : het geheel van begeleidende diensten en adviezen die in opdracht van de werkgever door een derde individueel of in groep worden verleend om een werknemer in staat te stellen zelf binnen een zo kort mogelijke termijn een betrekking bij een nieuwe werkgever te vinden of een beroepsactiviteit als zelfstandige te ontplooien;<br>
+21° het outplacementbureau : het bureau voor outplacementactiviteiten, vermeld in het besluit van de Vlaamse Regering van 10 december 2010 tot uitvoering van het decreet van 10 december 2010 betreffende de private arbeidsbemiddeling;<br>
+22° administratieve overheid : de overheid, vermeld in artikel 14 van de gecoördineerde wetten op de Raad van State;<br>
+23° bemiddelaar: personeelslid van de VDAB dat de nodige initiatieven neemt om de werkzoekende te ondersteunen bij de verbetering van zijn tewerkstellingsmogelijkheden;<br>
+24° controledienst: de dienst die binnen de VDAB is belast met de controle van de beschikbaarheid van de verplicht ingeschreven werkzoekende en het in voorkomend geval bepalen van de bijbehorende sanctie;<br>
+25° partnerorganisaties: organisaties waarmee de VDAB samenwerkt in het kader van een overheidsopdracht, subsidieovereenkomst of samenwerkingsovereenkomst;<br>
+26° RVA: de Rijksdienst voor Arbeidsvoorziening.<br>
+<br>
+De Vlaamse minister, bevoegd voor het Tewerkstellingsbeleid, bepaalt, na advies van de raad van bestuur van de VDAB, wat moet worden verstaan onder onderneming in herstructurering als vermeld in het eerste lid, 17° en 18°.
 
 ## HOOFDSTUK II. Algemene bepalingen
 
 ### ART. 2.
 
-De raad van bestuur kan zich laten bijstaan door de SERR's, de RESOC's en het BNCTO.<br /><br />In het eerste lid wordt verstaan onder het RESOC : het Regionaal Sociaal-Economisch Overlegcomité, vermeld in artikel 18 van het decreet van 7 mei 2004 betreffende het statuut, de werking, de taken en de bevoegdheden van de erkende regionale samenwerkingsverbanden, de sociaal-economische raden van de regio en de regionale sociaal-economische overlegcomités.<br /><br />In het eerste lid wordt verstaan onder het BNCTO : het Brussels Nederlandstalig Comité voor Tewerkstelling en Opleiding, waarvan de opdracht, bevoegdheid en samenstelling worden geregeld op basis van het samenwerkingsakkoord van 4 april 1996 tussen de Vlaamse Gemeenschap en het Brusselse Hoofdstedelijke Gewest.
+De raad van bestuur kan zich laten bijstaan door de provinciale werkgroepen sociale partners en de werkgroep sociale partners Brussel. De werkgroepen verlenen inzonderheid advies over het jaarondernemingsplan van de VDAB.<br>
+<br>
+De VDAB richt in elke Vlaamse provincie een provinciale werkgroep sociale partners op en in het Brusselse Hoofdstedelijke Gewest een werkgroep sociale partners Brussel. De werkgroepen zijn samengesteld uit:<br>
+1° de VDAB;<br>
+2° een gelijk aantal vertegenwoordigers van werkgevers- en werknemersorganisaties. De sociale partners bepalen welke organisaties deelnemen aan de werkgroepen.
 
 ## TITEL II. Arbeidsmarktbeheer
 
@@ -78,7 +113,7 @@ De cursist die in het kader van zijn opleiding of stage schade berokkent aan de 
 
 ### ART. 13.
 
-Een natuurlijke persoon of rechtspersoon die arbeidsbemiddeling tot doel heeft, kan na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van de rechtspersoon gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze arbeidsbemiddeling uit te oefenen.
+Een natuurlijke persoon of rechtspersoon die arbeidsbemiddeling tot doel heeft, kan&nbsp;onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze arbeidsbemiddeling uit te oefenen.
 
 ### ART. 14.
 
@@ -102,13 +137,13 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 13, registreert de v
 
 ### ART. 19.
 
-Het mandaat wordt, na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van het bureau gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
 
 ## Afdeling IV. [... (opgeh. BVR 13 mei 2022, art. 6, I: 30 juli 2022)]
 
 ### ART. 20.
 
-Een natuurlijke persoon of rechtspersoon die trajectbegeleiding tot doel heeft, kan na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van de rechtspersoon gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, onder de voorwaarden, vastgesteld door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze trajectbegeleiding uit te oefenen.
+Een natuurlijke persoon of rechtspersoon die trajectbegeleiding tot doel heeft, kan&nbsp; onder de voorwaarden, vastgesteld door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze trajectbegeleiding uit te oefenen.
 
 ### ART. 21.
 
@@ -128,13 +163,13 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 20, registreert de b
 
 ### ART. 25.
 
-Het mandaat wordt, na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van de rechtspersoon gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
 
 ## Afdeling V. [... (opgeh. BVR 13 mei 2022, art. 6, I: 30 juli 2022)]
 
 ### ART. 26.
 
-Een natuurlijke persoon of rechtspersoon die competentieontwikkeling tot doel heeft, kan na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van de rechtspersoon gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze competentieontwikkeling uit te oefenen.
+Een natuurlijke persoon of rechtspersoon die competentieontwikkeling tot doel heeft, kan onder de voorwaarden, bepaald door de raad van bestuur, worden gemandateerd om activiteiten op het vlak van kosteloze competentieontwikkeling uit te oefenen.
 
 ### ART. 27.
 
@@ -154,7 +189,7 @@ De natuurlijke persoon of rechtspersoon, vermeld in artikel 26, registreert de a
 
 ### ART. 31.
 
-Het mandaat wordt, na advies van de SERR, bevoegd voor de regio waar de maatschappelijke zetel van de rechtspersoon gevestigd is, of, als het een natuurlijke persoon betreft, waar die persoon zijn kantoor houdt, door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
+Het mandaat wordt&nbsp;door de raad van bestuur geschorst of stopgezet als de persoon de bepalingen van dit besluit overtreedt, de voorwaarden, vastgesteld door de raad van bestuur, niet naleeft, of als zijn bedrijvigheid in die mate afneemt dat zijn bestaan kennelijk niet meer verantwoord is.
 
 ## [HOOFDSTUK I/I. Activeringsregie (ing. BVR 17 juli 2020, art. 1, I: 3 augustus 2020)]
 
@@ -284,7 +319,27 @@ De stuurgroep van de ad-hoctewerkstellingscel is minstens samengesteld uit :<br 
 
 ### ART. 58.
 
-§ 1. De stuurgroep van de permanente tewerkstellingscel is samengesteld uit vaste leden en ad-hocleden. De stuurgroep kan zich laten bijstaan door deskundigen.<br /><br />De vaste leden, vermeld in het eerste lid zijn de volgende :<br />1° minstens een vertegenwoordiger van de VDAB;<br />2° de vertegenwoordigers van de representatieve werknemersorganisaties die in de SERV vertegenwoordigd zijn en aangesteld worden door de SERR;<br />3° minstens een vertegenwoordiger van de onderneming in herstructurering of de vertegenwoordigers van de representatieve werkgeversorganisaties die in de SERV vertegenwoordigd zijn en aangesteld worden door de SERR.<br /><br />Een afgevaardigde van het opleidingsfonds van de sector, als er een is, kan ad-hoclid van de stuurgroep van de permanente tewerkstellingscel zijn.<br /><br />In het tweede lid wordt verstaan onder de SERV de Sociaal-Economische Raad van Vlaanderen, vermeld in het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen.<br /><br />§ 2. De werking van de stuurgroep van de permanente tewerkstellingscel wordt geregeld in een huishoudelijk reglement.<br /><br />Het huishoudelijk reglement bepaalt ten minste :<br />1° de bevoegdheden van de VDAB als voorzitter van de permanente stuurgroep;<br />2° de wijze van bijeenroeping en beraadslaging;<br />3° de periodiciteit van de vergaderingen;<br />4° de bekendmaking van de handelingen;<br />5° het aantal aanwezige leden dat minimaal nodig is om geldig te vergaderen;<br />6° de aanwijzing van de bevoegde permanente stuurgroep als de werkgever in herstructurering actief is in de ambtsgebieden van verschillende SERR's;<br />7° de locatie van de permanente tewerkstellingscel.
+§ 1. De stuurgroep van de permanente tewerkstellingscel is samengesteld uit vaste leden en ad-hocleden. De stuurgroep kan zich laten bijstaan door deskundigen.<br>
+<br>
+De vaste leden, vermeld in het eerste lid zijn de volgende :<br>
+1° minstens een vertegenwoordiger van de VDAB;<br>
+2° de vertegenwoordigers van de representatieve werknemersorganisaties die in de SERV vertegenwoordigd zijn;<br>
+3° minstens een vertegenwoordiger van de onderneming in herstructurering of de vertegenwoordigers van de representatieve werkgeversorganisaties die in de SERV vertegenwoordigd zijn.<br>
+<br>
+Een afgevaardigde van het opleidingsfonds van de sector, als er een is, kan ad-hoclid van de stuurgroep van de permanente tewerkstellingscel zijn.<br>
+<br>
+In het tweede lid wordt verstaan onder de SERV de Sociaal-Economische Raad van Vlaanderen, vermeld in het decreet van 7 mei 2004 inzake de Sociaal-Economische Raad van Vlaanderen.<br>
+<br>
+§ 2. De werking van de stuurgroep van de permanente tewerkstellingscel wordt geregeld in een huishoudelijk reglement.<br>
+<br>
+Het huishoudelijk reglement bepaalt ten minste :<br>
+1° de bevoegdheden van de VDAB als voorzitter van de permanente stuurgroep;<br>
+2° de wijze van bijeenroeping en beraadslaging;<br>
+3° de periodiciteit van de vergaderingen;<br>
+4° de bekendmaking van de handelingen;<br>
+5° het aantal aanwezige leden dat minimaal nodig is om geldig te vergaderen;<br>
+6° de aanwijzing van de bevoegde permanente stuurgroep als de werkgever in herstructurering actief is in de ambtsgebieden van verschillende permanente tewerkstellingscellen;<br>
+7° de locatie van de permanente tewerkstellingscel.
 
 ## Afdeling V. Rapportering en evaluatie
 
@@ -294,7 +349,7 @@ Het outplacementbureau rapporteert mondeling over de ondernomen acties, de resul
 
 ### ART. 60.
 
-De VDAB rapporteert jaarlijks aan de raad van bestuur en trimestrieel aan de SERR's over de werking van de tewerkstellingscellen.
+De VDAB rapporteert jaarlijks aan de raad van bestuur over de werking van de tewerkstellingscellen.
 
 ## TITEL III. Competentieontwikkeling
 
@@ -334,7 +389,11 @@ De werkzoekende, de werknemer en de persoon met een zelfstandige beroepsactivite
 
 ### ART. 68.
 
-De VDAB beslist of een kandidaat voor een beroepsopleiding in aanmerking komt.<br /><br />Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften, en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br /><br />Als de toelating tot de beroepsopleiding geweigerd wordt, kan de werkzoekende om herziening van zijn aanvraag verzoeken bij de raad van bestuur, die een uitspraak doet na advies van de SERR.
+De VDAB beslist of een kandidaat voor een beroepsopleiding in aanmerking komt.<br>
+<br>
+Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften, en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br>
+<br>
+Als de toelating tot de beroepsopleiding geweigerd wordt, kan de werkzoekende om herziening van zijn aanvraag verzoeken bij de raad van bestuur.
 
 ### ART. 69.
 
@@ -406,7 +465,15 @@ De VDAB kan in het kader van een beroepsopleiding een opleidingsstage organisere
 
 ### ART. 85.
 
-Om de doeltreffendheid van de beroepsopleiding van de cursist te verhogen, kan de VDAB, in samenwerking met een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid praktische werken organiseren na gunstig advies van de SERR en op voorwaarde dat die werken verenigbaar zijn met het doel van de opleiding.<br /><br />De volgende voorwaarden moeten in acht worden genomen bij de uitvoering van de werken :<br />1° de handelswaarde van het uit te voeren werk mag niet meer bedragen dan 8925 euro. Dat bedrag is gekoppeld aan de spilindex 103,14 (basis 1996 = 100). Het bedrag wordt verhoogd of verminderd overeenkomstig artikel 4 van de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarbij rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld;<br />2° de grondstoffen en materialen zijn voor rekening van de aanvrager van het praktische werk;<br />3° de verplaatsingskosten van de cursisten en de instructeur zijn voor rekening van de aanvrager van het praktische werk;<br />4° aan ondernemingen en verenigingen zonder winstoogmerk rekent de VDAB voor de uitvoering van het praktische werk een prijs aan per uur en per cursist. De raad van bestuur bepaalt het bedrag;<br />5° voor administratieve overheden en voor verenigingen zonder winstoogmerk met een humanitair en welzijnskarakter is de uitvoering van het praktische werk gratis. De raad van bestuur bepaalt de lijst van de verenigingen zonder winstoogmerk met een humanitair en welzijnskarakter;<br />6° eventuele fouten of onvolkomenheden aan het werk zijn voor rekening van de aanvrager van het praktische werk.
+Om de doeltreffendheid van de beroepsopleiding van de cursist te verhogen, kan de VDAB, in samenwerking met een onderneming, een vereniging zonder winstoogmerk of een administratieve overheid praktische werken organiseren op voorwaarde dat die werken verenigbaar zijn met het doel van de opleiding.<br>
+<br>
+De volgende voorwaarden moeten in acht worden genomen bij de uitvoering van de werken :<br>
+1° de handelswaarde van het uit te voeren werk mag niet meer bedragen dan 8925 euro. Dat bedrag is gekoppeld aan de spilindex 103,14 (basis 1996 = 100). Het bedrag wordt verhoogd of verminderd overeenkomstig artikel 4 van de wet van 2 augustus 1971 houdende inrichting van een stelsel waarbij de wedden, lonen, pensioenen, toelagen en tegemoetkomingen ten laste van de openbare schatkist, sommige sociale uitkeringen, de bezoldigingsgrenzen waarbij rekening dient gehouden bij de berekening van sommige bijdragen van de sociale zekerheid der arbeiders, alsmede de verplichtingen op sociaal gebied opgelegd aan de zelfstandigen, aan het indexcijfer van de consumptieprijzen worden gekoppeld;<br>
+2° de grondstoffen en materialen zijn voor rekening van de aanvrager van het praktische werk;<br>
+3° de verplaatsingskosten van de cursisten en de instructeur zijn voor rekening van de aanvrager van het praktische werk;<br>
+4° aan ondernemingen en verenigingen zonder winstoogmerk rekent de VDAB voor de uitvoering van het praktische werk een prijs aan per uur en per cursist. De raad van bestuur bepaalt het bedrag;<br>
+5° voor administratieve overheden en voor verenigingen zonder winstoogmerk met een humanitair en welzijnskarakter is de uitvoering van het praktische werk gratis. De raad van bestuur bepaalt de lijst van de verenigingen zonder winstoogmerk met een humanitair en welzijnskarakter;<br>
+6° eventuele fouten of onvolkomenheden aan het werk zijn voor rekening van de aanvrager van het praktische werk.
 
 ### ART. 86.
 
@@ -420,7 +487,15 @@ Rekening houdend met de arbeidsmarktvereisten en arbeidsmarktbehoeften   bepaalt
 
 ### ART. 88.
 
-De VDAB beslist of een niet-werkende werkzoekende en een verplicht   ingeschreven werkzoekende een opleiding in een onderwijsinstelling kunnen volgen   met een VDAB-overeenkomst.<BR><BR>Die beslissing wordt genomen op basis van de   geschiktheid en het competentieprofiel van de kandidaten.<BR><BR>Een   schoolverlater in beroepsinschakelingstijd kan geen opleiding in een   onderwijsinstelling volgen.<BR><BR>Bij een negatieve beslissing kan de   niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende om een   herziening van zijn aanvraag verzoeken bij de raad van bestuur, die uitspraak   doet na advies van de SERR.<BR><BR>De VDAB beslist ook over de verlenging of de   voortijdige beëindiging van de opleiding.
+De VDAB beslist of een niet-werkende werkzoekende en een verplicht ingeschreven werkzoekende een opleiding in een onderwijsinstelling kunnen volgen met een VDAB-overeenkomst.<br>
+<br>
+Die beslissing wordt genomen op basis van de geschiktheid en het competentieprofiel van de kandidaten.<br>
+<br>
+Een schoolverlater in beroepsinschakelingstijd kan geen opleiding in een onderwijsinstelling volgen.<br>
+<br>
+Bij een negatieve beslissing kan de niet-werkende werkzoekende en de verplicht ingeschreven werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur<br>
+<br>
+De VDAB beslist ook over de verlenging of de voortijdige beëindiging van de opleiding.
 
 ### ART. 89.
 
@@ -436,11 +511,23 @@ In dit hoofdstuk wordt verstaan onder individuele beroepsopleiding : de beroepso
 
 ### ART. 91.
 
-De VDAB beslist of een werkzoekende een individuele beroepsopleiding kan volgen.<br /><br />Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br /><br />Bij een negatieve beslissing kan de werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur, die uitspraak doet na advies van de SERR.<br /><br />De VDAB beslist ook over de verlenging of voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB de beslissing tot voortijdige beëindiging van de individuele beroepsopleiding neemt, is hij geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.
+De VDAB beslist of een werkzoekende een individuele beroepsopleiding kan volgen.<br>
+<br>
+Die beslissing wordt genomen op basis van de arbeidsmarktvereisten en arbeidsmarktbehoeften en op grond van de geschiktheid en het competentieprofiel van de kandidaat.<br>
+<br>
+Bij een negatieve beslissing kan de werkzoekende om een herziening van zijn aanvraag verzoeken bij de raad van bestuur.<br>
+<br>
+De VDAB beslist ook over de verlenging of voortijdige beëindiging van de individuele beroepsopleiding. Als de VDAB de beslissing tot voortijdige beëindiging van de individuele beroepsopleiding neemt, is hij geen enkele vergoeding verschuldigd aan de cursist, de onderneming, de vereniging zonder winstoogmerk of de administratieve overheid.
 
 ### ART. 92.
 
-§ 1. De VDAB bepaalt de opleidingsduur van de individuele beroepsopleiding. De opleidingsduur bedraagt ten minste vier weken en ten hoogste 26 weken.<br /><br />De individuele beroepsopleiding kan georganiseerd worden in aansluiting op een opleiding in een centrum voor beroepsopleiding, waarbij de totale opleidingsduur de duur van dezelfde opleiding in een centrum voor een beroepsopleiding niet mag overschrijden.<br /><br />§ 2. Voor een laaggeschoolde langdurig werkzoekende kan, wegens de pedagogische noodzaak, na advies van de SERR, de opleidingsduur vastgesteld worden op ten hoogste 52 weken. Als de individuele beroepsopleiding voorafgegaan wordt door een opleiding in een centrum, mag de totale opleidingsduur van 52 weken worden overschreden, als de opleidingsduur van de individuele beroepsopleiding 52 weken niet overschrijdt.<br /><br />§ 3. Als verschillende laaggeschoolde langdurig uitkeringsgerechtigde werklozen of leefloongerechtigden als vermeld in de wet van 26 mei 2002 betreffende het recht op maatschappelijke integratie, en de behoeftigen, vermeld in de wet van 2 april 1965 betreffende het ten laste nemen van de steun, verleend door het Openbaar Centrum voor Maatschappelijk Welzijn, een individuele beroepsopleiding in dezelfde vestiging van een onderneming, vereniging zonder winstoogmerk of administratieve overheid starten, op hetzelfde ogenblik en met dezelfde opleidingsinhoud, wordt vooraf advies gevraagd aan de SERR.<br /><br />De VDAB beschikt over de mogelijkheid om in verschillende vestigingen van een onderneming, vereniging zonder winstoogmerk of administratieve overheid verschillende cursisten een individuele beroepsopleiding te laten starten op hetzelfde ogenblik en met dezelfde opleidingsinhoud. In voorkomend geval wordt het advies van de SERR of de raad van bestuur gevraagd.
+§ 1. De VDAB bepaalt de opleidingsduur van de individuele beroepsopleiding. De opleidingsduur bedraagt ten minste vier weken en ten hoogste 26 weken.<br>
+<br>
+De individuele beroepsopleiding kan georganiseerd worden in aansluiting op een opleiding in een centrum voor beroepsopleiding, waarbij de totale opleidingsduur de duur van dezelfde opleiding in een centrum voor een beroepsopleiding niet mag overschrijden.<br>
+<br>
+§ 2. Voor een laaggeschoolde langdurig werkzoekende kan, wegens de pedagogische noodzaak,&nbsp;de opleidingsduur vastgesteld worden op ten hoogste 52 weken. Als de individuele beroepsopleiding voorafgegaan wordt door een opleiding in een centrum, mag de totale opleidingsduur van 52 weken worden overschreden, als de opleidingsduur van de individuele beroepsopleiding 52 weken niet overschrijdt.<br>
+<br>
+§ 3. De VDAB beschikt over de mogelijkheid om in verschillende vestigingen van een onderneming, vereniging zonder winstoogmerk of administratieve overheid verschillende cursisten een individuele beroepsopleiding te laten starten op hetzelfde ogenblik en met dezelfde opleidingsinhoud.
 
 ### ART. 93.
 
@@ -464,7 +551,7 @@ Voor de uitvoering van de individuele beroepsopleiding wordt tussen de VDAB, de 
 
 ### ART. 98.
 
-De VDAB rapporteert aan de SERR's over het stelsel van de individuele beroepsopleiding.
+...
 
 ### ART. 98/1.
 
