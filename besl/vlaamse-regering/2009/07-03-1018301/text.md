@@ -92,7 +92,19 @@ Als een leerling, in overleg met de school, de ouders, de opvoedingsverantwoorde
 
 ### ART. 14.
 
-§ 1. Het centrum start, samen met de school, na melding door en overleg met de school, verplicht een traject op voor :<br />1° elke leerling die door de frequentie en de aard van zijn afwezigheden zijn schoolloopbaan in het gedrang brengt, ongeacht de gehanteerde wettigingen;<br />2° elke minderjarige leerling die meer dan tien halve lesdagen per schooljaar afwezig is, voor zover de school die afwezigheden als problematisch of ongewettigd registreert;<br />3° elke leerling die afwezig is wegens schorsing of wegens tijdelijke uitsluiting als tuchtmaatregel;<br />4° elke leerling die afwezig is wegens definitieve uitsluiting als tuchtmaatregel.<br /><br />§ 2. Het traject, vermeld in § 1, 1°, heeft als doel te voorkomen dat de afwezigheden resulteren in een schoolse achterstand voor de betrokken leerling.<br /><br />§ 3. Het traject, vermeld in § 1, 2°, heeft als doel te voorkomen dat de minderjarige leerling niet meer voldoet aan de reglementering inzake de leerplicht.<br /><br />Als de leerling dreigt niet te voldoen aan wet van 29 juni 1983 betreffende de leerplicht, en als hij of zijn ouders herhaaldelijk niet ingaan op het hulpaanbod dat door het centrum samen met en op initiatief van de school werd gestart, dan kan het centrum dit in overleg met de school melden aan de bevoegde ambtenaar van het Agentschap voor Onderwijsdiensten.<br /><br />§ 4. Het traject, vermeld in § 1, 4°, heeft onder meer als doel de leerling en zijn ouders bij te staan bij het noodgedwongen zoeken naar een andere instelling of onderwijsvorm.
+§ 1. Het centrum start, samen met de school, na melding door en overleg met de school, verplicht een traject op voor :<br>
+1° elke leerling die door de frequentie en de aard van zijn afwezigheden zijn schoolloopbaan in het gedrang brengt, ongeacht de gehanteerde wettigingen;<br>
+2° elke minderjarige leerling die vijf of meer halve lesdagen per schooljaar afwezig is, voor zover de school die afwezigheden als problematisch of ongewettigd registreert;<br>
+3° elke leerling die afwezig is wegens schorsing of wegens tijdelijke uitsluiting als tuchtmaatregel;<br>
+4° elke leerling die afwezig is wegens definitieve uitsluiting als tuchtmaatregel.<br>
+<br>
+§ 2. Het traject, vermeld in § 1, 1°, heeft als doel te voorkomen dat de afwezigheden resulteren in een schoolse achterstand voor de betrokken leerling.<br>
+<br>
+§ 3. Het traject, vermeld in § 1, 2°, heeft als doel te voorkomen dat de minderjarige leerling niet meer voldoet aan de reglementering inzake de leerplicht.<br>
+<br>
+Als de leerling dreigt niet te voldoen aan wet van 29 juni 1983 betreffende de leerplicht, en als hij of zijn ouders herhaaldelijk niet ingaan op het hulpaanbod dat door het centrum samen met en op initiatief van de school werd gestart, dan kan het centrum dit in overleg met de school melden aan de bevoegde ambtenaar van het Agentschap voor Onderwijsdiensten.<br>
+<br>
+§ 4. Het traject, vermeld in § 1, 4°, heeft onder meer als doel de leerling en zijn ouders bij te staan bij het noodgedwongen zoeken naar een andere instelling of onderwijsvorm.
 
 ### ART. 15.
 
@@ -122,7 +134,7 @@ In het kader van draaischijffunctie van het centrum tussen de school en een aanw
 
 ### ART. 21.
 
-In het kader van de draaischijffunctie van het centrum tussen de school en een aanwijsbaar netwerk, vermeld in artikel 18, 2°, werkt het centrum bij de uitvoering van zijn opdrachten in het kader van de preventieve gezondheidszorg samen met de betrokken externe partners mee aan de realisatie van de Vlaamse gezondheidsdoelstellingen, die ter uitvoering van artikel 1, 15°, van het besluit van de Vlaamse Regering van 31 juli 1991 inzake gezondheidspromotie werden aangenomen door het Vlaams Parlement, voor zover die betrekking hebben op de doelgroep van de centra.
+In het kader van de ondersteuning, vermeld in artikel 18, 2° en 3°, werkt het centrum bij de uitvoering van zijn opdrachten op het vlak van preventieve gezondheidszorg, samen met de organisaties die betrokken zijn bij het Vlaamse preventieve gezondheidsbeleid, waaronder de Logo's, aan de realisatie van de Vlaamse gezondheidsdoelstellingen en het preventieve gezondheidsbeleid met betrekking tot de onderwijscontext.
 
 ### ART. 22.
 
@@ -160,7 +172,21 @@ Het centrum voert een algemeen consult uit bij leerlingen uit de volgende leerja
 
 ### ART. 29.
 
-Het algemene consult, vermeld in artikel 28, eerste lid, 1°, omvat minstens :<br />1° de anamnese en de interpretatie van de gegevens die beschikbaar werden gesteld door de ouders of de opvoedingsverantwoordelijken;<br />2° de interpretatie van voor het consult relevante informatie die beschikbaar wordt gesteld door het centrum of de school;<br />3° de interpretatie van gegevens die door de instelling Kind en Gezin of door de behandelende arts beschikbaar worden gesteld;<br />4° een leeftijdsspecifiek algemeen medisch onderzoek dat in elk geval de volgende elementen omvat :<br />a) anamnese;<br />b) groei en gewicht;<br />c) algemene ontwikkeling, met bijzondere aandacht voor spraak en motoriek;<br />d) visuele functie en oogstand;<br />e) gehoor;<br />f) mond;<br />g) genitaliën;<br />5° de opvolging van de nazorg.<br /><br />Het centrum neemt initiatieven om de aanwezigheid van de ouders of de opvoedingsverantwoordelijken bij het algemene consult, vermeld in het eerste lid, aan te moedigen.
+Het algemene consult, vermeld in artikel 28, eerste lid, 1°, omvat minstens :<br>
+1° de anamnese en de interpretatie van de gegevens die beschikbaar werden gesteld door de ouders of de opvoedingsverantwoordelijken;<br>
+2° de interpretatie van voor het consult relevante informatie die beschikbaar wordt gesteld door het centrum of de school;<br>
+3° de interpretatie van gegevens die door de instelling Kind en Gezin of door de behandelende arts beschikbaar worden gesteld;<br>
+4° een leeftijdsspecifiek algemeen medisch onderzoek dat in elk geval de volgende elementen omvat :<br>
+a) anamnese;<br>
+b) groei en gewicht;<br>
+c) algemene ontwikkeling, met bijzondere aandacht voor spraak en motoriek;<br>
+d) visuele functie en oogstand;<br>
+e) ...;<br>
+f) mond;<br>
+g) genitaliën;<br>
+5° de opvolging van de nazorg.<br>
+<br>
+Het centrum neemt initiatieven om de aanwezigheid van de ouders of de opvoedingsverantwoordelijken bij het algemene consult, vermeld in het eerste lid, aan te moedigen.
 
 ### ART. 30.
 
@@ -182,11 +208,11 @@ Het algemene consult, vermeld in artikel 28, eerste lid, 4°, omvat minstens :<b
 
 ### ART. 34.
 
-Het gerichte consult, vermeld in artikel 33, § 1, 1°, omvat de anamnese en de interpretatie van voor het consult relevante gegevens die beschikbaar worden gesteld door de ouders, de opvoedingsverantwoordelijken, Kind en Gezin, de behandelende arts, het centrum en de school. Dat gerichte consult schenkt verder bijzondere aandacht aan groei, gewicht, visuele functie en oogstand en de opvolging van de nazorg.
+Het gerichte consult, vermeld in artikel 33, § 1, eerste lid, 1°, omvat de anamnese en de interpretatie van gegevens die relevant zijn voor het consult en die de ouders, de opvoedingsverantwoordelijken, Kind en Gezin, de behandelende arts, het centrum en de school beschikbaar stellen. Het schenkt bijzondere aandacht aan groei, gewicht, visuele functie, oogstand, gehoor en de opvolging van de nazorg.
 
 ### ART. 35.
 
-Het gerichte consult, vermeld in artikel 33, § 1, 2°, omvat de anamnese en de interpretatie van voor het consult relevante gegevens die beschikbaar worden gesteld door de ouders, de opvoedingsverantwoordelijken, de behandelende geneesheer, het centrum en de school, en schenkt bijzondere aandacht aan groei en gewicht, visuele functie, kleurenzin, oogstand, mond en de opvolging van de nazorg.
+Het gerichte consult, vermeld in artikel 33, § 1, eerste lid, 2°, omvat de anamnese en de interpretatie van gegevens die relevant zijn voor het consult en die de ouders, de opvoedingsverantwoordelijken, de behandelende geneesheer, het centrum en de school beschikbaar stellen. Het schenkt bijzondere aandacht aan groei, gewicht, visuele functie, kleurenzien, oogstand, mond, gehoor en de opvolging van de nazorg.
 
 ### ART. 36.
 
@@ -257,6 +283,27 @@ Het centrum brengt de bevoegde ambtenaar-arts en de preventieadviseur-arbeidsgen
 ### ART. 48.
 
 Het centrum registreert een aantal gegevens zoals bepaald in artikel 10 en 20 van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding. De Vlaamse minister, bevoegd voor het onderwijs en de Vlaamse minister, bevoegd voor het gezondheidsbeleid, bepalen welke gegevens geregistreerd worden, in welke vorm en aan welke diensten ze moeten worden bezorgd. Dit gebeurt na overleg met de centrumnetten.
+
+### ART 48bis.
+
+In uitvoering van artikel 20, § 3, van het decreet van 1 december 1998 betreffende de centra voor leerlingenbegeleiding kan aan het Gemeenschapsonderwijs en elke representatieve vereniging van de besturen van de centra voor leerlingenbegeleiding van het gesubsidieerd onderwijs een subsidie worden verleend in functie van gegevensuitwisseling. De subsidie wordt toegekend door de Vlaamse minister, bevoegd voor het onderwijs, binnen de beschikbare kredieten.<br>
+<br>
+Om voor de subsidie in aanmerking te komen moet er een projectaanvraag worden ingediend, uiterlijk 15 mei voorafgaand aan de betrokken subsidieperiode die gelijk is aan de duur van een schooljaar. In afwijking hiervan geldt 15 september 2016 als uiterste indieningsdatum voor het schooljaar 2016-2017.<br>
+<br>
+Uit die aanvraag moet het volgende blijken:<br>
+1° de aanvraag is gemeenschappelijk voor het Gemeenschapsonderwijs en alle representatieve verenigingen van de besturen van de centra voor leerlingenbegeleiding van het gesubsidieerd onderwijs;<br>
+2° de projectverantwoordelijke;<br>
+3° de begunstigde van de subsidie;<br>
+4° de concrete wijze van aanwending van de subsidie binnen de volgende criteria:<br>
+a) éénduidige en kwaliteitsvolle registratie van activiteiten in het multidisciplinair dossier van leerlingen in alle centra voor leerlingenbegeleiding;<br>
+b) Verslaggeving op basis van gesystematiseerde gegevens die de Vlaamse overheid toelaten beleidsconclusies en beleidsopties te formuleren;<br>
+c) meewerken aan initiatieven om vanuit het eigen registratiesysteem gegevens te kunnen uitwisselen met andere relevante ICT-systemen, waaronder alleszins de systemen die betrekking hebben op vaccinaties en integrale jeugdhulp.<br>
+<br>
+De aanvraag wordt geëvalueerd door de bevoegde diensten van het Vlaams ministerie van Onderwijs en Vorming op volledigheid en conformiteit met de hierboven vermelde criteria. De beoordeling wordt, met het oog op beslissing, in een advies aan de Vlaamse minister, bevoegd voor het onderwijs, opgenomen.<br>
+<br>
+Mits gunstige beslissing gebeurt de uitbetaling van de subsidie als volgt:<br>
+1° een eerste schijf van 80% wordt uitbetaald na de goedkeuring van het ministerieel subsidiebesluit en de vastlegging van de middelen;<br>
+2° het saldo van de subsidie wordt uitbetaald na goedkeuring door de bevoegde diensten van het Vlaams ministerie van Onderwijs en Vorming van het inhoudelijk en financieel verslag over de voorbije subsidieperiode, dat wordt ingediend uiterlijk op 30 september daaropvolgend.
 
 ### ART. 49.
 
