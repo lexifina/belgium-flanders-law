@@ -4,6 +4,10 @@
 
 ## Hoofdstuk 2 Wijzigingen van de Vlaamse Codex Ruimtelijke Ordening van 15 mei 2009
 
+### ART. 11.
+
+...
+
 ### ART. 17.
 
 In titel VI, hoofdstuk I, van dezelfde codex, gewijzigd bij het decreet van 16 juli 2010 en 11 mei 2012, wordt onder artikel 6.1.2 een nieuwe afdeling 2 ingevoegd, die luidt als volgt :<br>
@@ -154,6 +158,14 @@ Artikel 16.2.2 van hetzelfde decreet, ingevoegd bij het decreet van 21 december 
 4° de voorwaarden waaronder de Vlaamse Hoge Handhavingsraad voor Ruimte en Milieu een beroep kan doen op externe deskundigen of op permanente of tijdelijke werkgroepen.</p>
 
 <p>Het huishoudelijk reglement en de wijzigingen ervan worden ter goedkeuring voorgelegd aan de Vlaamse Regering.".</p>
+
+### ART. 126.
+
+<p>...</p>
+
+### ART. 132.
+
+<p>...</p>
 
 ## Hoofdstuk 4 Wijzigingen van het decreet van 4 april 2014 betreffende de organisatie en de rechtspleging van sommige Vlaamse bestuursrechtcolleges
 
