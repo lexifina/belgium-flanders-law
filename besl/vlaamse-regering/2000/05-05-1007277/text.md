@@ -26,13 +26,19 @@ Onverminderd de toepassing van artikel 4, worden de kosten, bedoeld in artikel 2
 
 ### ART. 6.
 
-De vordering die krachtens artikel 6.1.41 of 6.1.43 van de Vlaamse Codex Ruimtelijke Ordening wordt ingeleid, vermeldt het totale meerwaardebedrag en de berekening ervan.<br /><br />De stedenbouwkundige inspecteur en het college van burgemeester en schepenen bezorgen gelijktijdig met de inleiding van de vordering van het meerwaardebedrag aan de rekenplichtige van het Herstelfonds, vermeld in artikel 6.1.56 van de Vlaamse Codex Ruimtelijke Ordening een afschrift hiervan. Zodra ze kennis krijgen van de gerechtelijke uitspraak over deze vordering, sturen ze ook een afschrift hiervan aan de rekenplichtige.
+De vordering die krachtens artikel 6.1.41 of 6.1.43 van de Vlaamse Codex Ruimtelijke Ordening wordt ingeleid, vermeldt het totale meerwaardebedrag en de berekening ervan.<br>
+<br>
+De stedenbouwkundige inspecteur en het college van burgemeester en schepenen bezorgen gelijktijdig met de inleiding van de vordering van het meerwaardebedrag aan de rekenplichtige ambtenaar van het Grondfonds, vermeld in artikel 5.6.3 van de Vlaamse Codex Ruimtelijke Ordening, die daartoe wordt aangewezen door de leidend ambtenaar van het departement Leefmilieu, Natuur en Energie onder de personeelsleden belast met de taken van uitvoering van de handhaving van de ruimtelijke ordening binnen zijn entiteit een afschrift hiervan. Zodra ze kennis krijgen van de gerechtelijke uitspraak over deze vordering, sturen ze ook een afschrift hiervan aan de rekenplichtige ambtenaar van het Grondfonds.
 
 ## HOOFDSTUK III BETALING EN INVORDERING VAN DE MEERWAARDE
 
 ### ART. 7.
 
-Tenzij bij kwijting door herstel van de plaats in de oorspronkelijke toestand of door staking van het strijdige gebruik binnen een jaar na de uitspraak door de rechter, dient de veroordeelde het door de rechter bepaalde bedrag van de meerwaarde uiterlijk bij het verstrijken van deze termijn te storten op het rekeningnummer van het Herstelfonds.<br /><br />De rekenplichtige van het Herstelfonds brengt de stedenbouwkundige inspecteur die of het college van burgemeester en schepenen dat het meerwaardebedrag heeft gevorderd op de hoogte van de storting.<br /><br />Vanaf het verstrijken van de in het eerste lid vermelde termijn, is zonder verdere ingebrekestelling, de wettelijke verwijlintrest verschuldigd op het door de rechter bepaalde bedrag van de meerwaarde.
+Tenzij bij kwijting door herstel van de plaats in de oorspronkelijke toestand of door staking van het strijdige gebruik binnen een jaar na de uitspraak door de rechter, dient de veroordeelde het door de rechter bepaalde bedrag van de meerwaarde uiterlijk bij het verstrijken van deze termijn te storten op het rekeningnummer van het Grondfonds.<br>
+<br>
+De rekenplichtige ambtenaar van het Grondfonds zoals vermeld in artikel 6, tweede lid brengt de stedenbouwkundige inspecteur die of het college van burgemeester en schepenen dat het meerwaardebedrag heeft gevorderd op de hoogte van de storting.<br>
+<br>
+Vanaf het verstrijken van de in het eerste lid vermelde termijn, is zonder verdere ingebrekestelling, de wettelijke verwijlintrest verschuldigd op het door de rechter bepaalde bedrag van de meerwaarde.
 
 ## HOOFDSTUK IV SLOTBEPALINGEN
 
