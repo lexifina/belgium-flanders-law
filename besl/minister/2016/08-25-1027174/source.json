@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027174,
+  "title": "Ministerieel besluit van 2016-08-25 tot wijziging van artikel 24 van het ministerieel besluit van 22 december 2015 houdende tijdelijke aanvullende maatregelen tot het behoud van de visbestanden in zee",
+  "type": "Ministerieel besluit",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027174/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "178ffee45aacdffaaa51d95fec35c223300f7e40c173cb03e22fe3f7c6df2965",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027174&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-08-25",
+  "gazette": "2016-08-29",
+  "numac": 2016036323,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 3,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
