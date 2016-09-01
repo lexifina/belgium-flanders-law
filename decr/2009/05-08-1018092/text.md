@@ -1675,6 +1675,14 @@ Hoeveelheid elektrische stroom, uitgedrukt in GWh, zoals berekend in artikel 14
 
 [ ... (Deze versie vervalt ingevolge het arrest 83/2017 van het Grondwettelijk Hof van&nbsp;22&nbsp;juni 2017. Zie commentaar bij dit artikel)]
 
+### ART 14.1.4.
+
+Internationale organisaties en Europese instellingen die op basis van een zetelakkoord of een verdrag in België van belastingen op hun officieel gebruik zijn vrijgesteld, en die in de loop van het heffingsjaar volgens het toegangsregister titularis waren van een afnamepunt als vermeld in artikel 14.1.1, worden vrijgesteld van de heffing, vermeld in deze titel.<br>
+<br>
+De organisaties en instellingen, vermeld in het eerste lid, kunnen bij de toegangshouder van het afnamepunt de terugbetaling vragen van de bij hen, conform artikel 14.2.2, § 1, door de toegangshouder van het afnamepunt geïnde bedragen. Indien die toegangshouder dat bedrag op basis van de procedure, vermeld in artikel 14.2.2, § 2, al ten gunste van het Energiefonds heeft doorgestort, dan wordt het verschil door hem in mindering gebracht van het bedrag van de heffing dat de toegangshouder op de volgende vervaldatum moet storten.<br>
+<br>
+De Vlaamse Regering kan nadere regels vastleggen met betrekking tot de procedure voor de teruggave of verrekening, vermeld in het tweede lid.
+
 ## HOOFDSTUK II. Vestiging van de aanslag, controle, beroep ambtshalve uitvoering en verjaring [van de heffing op de afnamepunten op elektriciteit (ing. decr. 16 november 2018, art. 3, I: 1 januari 2019)]
 
 ## Afdeling I. Algemene bepalingen
