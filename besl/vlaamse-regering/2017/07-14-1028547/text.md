@@ -28,6 +28,31 @@ Na beraadslaging,<br>
 <br>
 Besluit :
 
+### ART 1.
+
+In dit besluit wordt verstaan onder:<br>
+1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° budget: een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;<br>
+3° cashbudget: een vorm van financiering van niet rechtstreeks toegankelijke zorg en ondersteuning, waarbij de persoon met een handicap beslist om de financiering van de zorg en ondersteuning in liquide middelen op de eigen bankrekening te ontvangen, met een maximumbudget per kalenderjaar, en waarbij de persoon met een handicap daarmee zelf instaat voor het bekostigen van de zorg en ondersteuning;<br>
+4° persoon met een handicap: een persoon die erkend is als een persoon met een handicap als vermeld in artikel 2, 2°, van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+5° persoonlijke assistentie: elke vorm van individuele ondersteuning als vermeld in artikel 4, 1°, c), van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet- rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders, die wordt geboden in een een-op- eenrelatie aan een persoon met een handicap op basis van een overeenkomst met de persoon met een handicap of zijn wettelijke vertegenwoordiger, waarbij de persoon met een handicap of zijn wettelijke vertegenwoordiger het recht heeft zelf instructie te geven over de inhoud van de ondersteuning, alsook wie de ondersteuning biedt, voor welke taken, op welke tijdstippen en plaatsen, en hoe de individuele ondersteuning moet gebeuren. Hierbij is de persoon met een handicap of zijn wettelijke vertegenwoordiger vrij om de mate van controle over de assistentieverlening te bepalen die overeenkomt met zijn behoeften, bekwaamheden, actuele levensomstandigheden, voorkeuren en betrachtingen.
+
+### ART 2.
+
+Hoofdstuk III van het decreet van 18 juli 2008 betreffende de zorg- en bijstandsverlening is niet van toepassing op:<br>
+1° natuurlijke personen die persoonlijke assistentie verlenen die wordt vergoed met een persoonlijkeassistentiebudget als vermeld in artikel 19/2 van het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;<br>
+2° natuurlijke personen die persoonlijke assistentie verlenen aan een persoon met een handicap op basis van een overeenkomst die door het agentschap aanvaard is in het kader van de besteding van het budget als cashbudget, of op basis van een overeenkomst waarbij de persoon met een handicap de kosten voor persoonlijke assistentie vergoedt met eigen middelen. In de overeenkomst worden de natuurlijke personen geïdentificeerd als degenen die de persoonlijke assistentie verlenen;<br>
+3° natuurlijke personen die persoonlijke assistentie verlenen aan een persoon met een handicap op basis van een overeenkomst die door het agentschap aanvaard is in het kader van de besteding van het budget als cashbudget, of op basis van een overeenkomst waarbij de persoon met een handicap de kosten voor persoonlijke assistentie vergoedt met eigen middelen. In de overeenkomst wordt uitsluitend voorzien in het verlenen van praktische hulp als vermeld in artikel 4, 1°, c), 2), van het besluit van de Vlaamse Regering van 24 juni 2016 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders;<br>
+4° natuurlijke personen die beroepshalve zorg- en bijstandsverlening verstrekken aan personen met een handicap, die op hetzelfde adres verblijven in het kader van een ouderinitiatief als vermeld in artikel 2, 3°, van het besluit van de Vlaamse Regering van 24 juni 2016 houdende het vergunnen van aanbieders van niet rechtstreeks toegankelijke zorg en ondersteuning voor personen met een handicap.
+
 ### ART 3.
 
 Artikel 95 tot en met 98 van het decreet van 15 juli 2016 houdende diverse bepalingen betreffende het beleidsdomein Welzijn, Volksgezondheid en Gezin hebben uitwerking met ingang van 1 april 2016.
+
+### ART 4.
+
+Dit besluit heeft uitwerking met ingang van 1 september 2016 met uitzondering van artikel 3 dat uitwerking heeft met ingang van 1 april 2016.
+
+### ART 5.
+
+De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.
