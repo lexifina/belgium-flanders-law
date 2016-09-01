@@ -6,15 +6,46 @@ De Vlaamse Regering,<br /><br />Gelet op het decreet van 15 juni 2007 betreffend
 
 ### ART. 1.
 
-Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007   betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de   modulaire structuur van het studiegebied voeding, dat behoort tot het secundair   volwassenenonderwijs, vastgelegd in bijlage I tot en met XLVI, die bij dit   besluit zijn gevoegd.
+Ter uitvoering van artikel 24, § 1, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs worden de opleidingsprofielen voor de modulaire structuur van het studiegebied voeding, dat behoort tot het secundair volwassenenonderwijs, vastgelegd in XIX tot en met LIV, die bij dit besluit zijn gevoegd.<br>
+<br>
+Ter uitvoering van artikel 24, § 2, van het voormelde decreet wordt voor bijzondere doelgroepen op de volgende wijze afgeweken van het minimale aantal lestijden:<br>
+1° de opleiding Medewerker Slagerij kan voor traaglerende cursisten bij een maximale afwijking 600 lestijden omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+2° de opleiding Medewerker Bakkerij kan voor traaglerende cursisten 840 lestijden bij een maximale afwijking omvatten, waarbij alle modules 120 lestijden omvatten;<br>
+3° de opleiding Bakker kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Bakkerij 240 lestijden omvat;<br>
+4° de opleiding Banketbakkerij kan voor traaglerende cursisten 920 lestijden omvatten, waarbij de module Stage Banketbakkerij 240 lestijden omvat;<br>
+5° de opleiding Slager-Spekslager kan voor traaglerende cursisten bij een maximale afwijking 1120 lestijden omvatten, waarbij de module Stage Slagerij 240 lestijden omvat en de module Aankoop-, verkoop- en voorraadbeheer slagerij 80 lestijden omvat;<br>
+6° de opleiding Wild- en Gevogelteslager kan voor traaglerende cursisten bij een maximale afwijking 760 lestijden omvatten, waarbij de module Aankoop-, verkoop- en voorraadbeheer slagerij en de module Ontvangstcontrole en voorraadbeheer slagerij elk 80 lestijden omvatten en de module Stage wild- en gevogelteslagerij 240 lestijden omvat;<br>
+7° de opleiding Bereider van Vleesproducten (Charcutier) kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
+8° de opleiding Vleesbereider kan voor traaglerende cursisten 160 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat;<br>
+9° de opleiding Vleesbewerker kan voor traaglerende cursisten 240 lestijden omvatten, waarbij de module Ontvangstcontrole en voorraadbeheer slagerij 80 lestijden omvat.
 
 ### ART. 2.
 
-De opleidingsprofielen, vermeld in artikel 1, worden uiterlijk drie jaar na de inwerkingtreding van dit besluit geëvalueerd. De resultaten van die evaluatie worden besproken met de stuurgroep, vermeld in artikel 2, 42°, van het decreet van 15 juni 2007 betreffende het volwassenenonderwijs.<br /><br />In afwijking van het eerste lid wordt de opleidingsprofielen, vastgelegd in bijlage I tot en met XVIII, uiterlijk tijdens het schooljaar 2010-2011 geëvalueerd.
+...
 
 ### ART. 3.
 
-§ 1. Het bestuur van een Centrum voor Volwassenenonderwijs dat   onderwijsbevoegdheid heeft voor de modulaire opleiding hotel TSO 3, vermeld in   bijlage III bij het decreet van 15 juni 2007 betreffende het   volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook   onderwijsbevoegdheid voor de modulaire opleidingen hotel, hotelbedrijf,   hulpkelner, hulpkok, kelner, kok, keukenverantwoordelijke en   zaalverantwoordelijke.<BR><BR>§ 2. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   hotelbedrijf BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf   het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen   bierkenner, hotelbedrijf, hotelonthaal, hulpkelner, hulpkok, kelner, kelner   brasserie taverne bistro, kok, keukenverantwoordelijke, medewerker brasserie   taverne bistro, verantwoordelijke brasserie taverne bistro, wijnkenner en   zaalverantwoordelijke.<BR><BR>§ 3. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   traiteur BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het   schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen   hulpkelner, hulpkok, kelner banketdienst, keukenverantwoordelijke, kok,   traiteur-banketaannemer, traiteurkok en wijnkenner.<BR><BR>§ 4. Het bestuur van   een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3, vermeld in   bijlage V bij hetzelfde decreet, heeft vanaf 1 september 2010 ook   onderwijsbevoegdheid voor de modulaire opleiding Ambachtelijk brood- en   banketbakker.<BR><BR>§ 5. Het bestuur van een Centrum voor Volwassenenonderwijs   dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bakkersgast, heeft   vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding   Medewerker Bakkerij.<BR><BR>§ 6. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de   modulaire opleidingen Broodbakker, Banketbakker, Brood en banket of Ambachtelijk   brood- en banketbakker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid   voor de modulaire opleidingen Bakker en Banketbakker.<BR><BR>§ 7. Het bestuur   van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de   modulaire opleiding Confiseur-chocoladebewerker of Ambachtelijk   chocoladebewerker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de   modulaire opleidingen Chocoladebewerker en Suiker- en   Marsepeinbewerker.<BR><BR>§ 8. Het bestuur van een Centrum voor   Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding   Bereider van consumptie-ijs en tearoomspecialiteiten of Ambachtelijk   ijsbereider, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de   modulaire opleiding IJsbereider.
+§ 1. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotel TSO 3, vermeld in bijlage III bij het decreet van 15 juni 2007 betreffende het volwassenenonderwijs, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hotel, hotelbedrijf, hulpkelner, hulpkok, kelner, kok, keukenverantwoordelijke en zaalverantwoordelijke.<br>
+<br>
+§ 2. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding hotelbedrijf BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen bierkenner, hotelbedrijf, hotelonthaal, hulpkelner, hulpkok, kelner, kelner brasserie taverne bistro, kok, keukenverantwoordelijke, medewerker brasserie taverne bistro, verantwoordelijke brasserie taverne bistro, wijnkenner en zaalverantwoordelijke.<br>
+<br>
+§ 3. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding traiteur BSO 3, vermeld in bijlage III bij hetzelfde decreet, heeft vanaf het schooljaar 2008-2009 ook onderwijsbevoegdheid voor de modulaire opleidingen hulpkelner, hulpkok, kelner banketdienst, keukenverantwoordelijke, kok, traiteur-banketaannemer, traiteurkok en wijnkenner.<br>
+<br>
+§ 4. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Brood- en banketbakkerij en confiserie BSO 3, vermeld in bijlage V bij hetzelfde decreet, heeft vanaf 1 september 2010 ook onderwijsbevoegdheid voor de modulaire opleiding Ambachtelijk brood- en banketbakker.<br>
+<br>
+§ 5. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bakkersgast, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding Medewerker Bakkerij.<br>
+<br>
+§ 6. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de modulaire opleidingen Broodbakker, Banketbakker, Brood en banket of Ambachtelijk brood- en banketbakker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleidingen Bakker en Banketbakker.<br>
+<br>
+§ 7. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Confiseur-chocoladebewerker of Ambachtelijk chocoladebewerker, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleidingen Chocoladebewerker en Suiker- en Marsepeinbewerker.<br>
+<br>
+§ 8. Het bestuur van een Centrum voor Volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Bereider van consumptie-ijs en tearoomspecialiteiten of Ambachtelijk ijsbereider, heeft vanaf 1 februari 2015 ook onderwijsbevoegdheid voor de modulaire opleiding IJsbereider.<br>
+<br>
+§ 9. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Slagersgast, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleiding Medewerker Slagerij.<br>
+<br>
+§ 10. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor minstens één van de modulaire opleidingen Ambachtelijk Slager, Culinair Traiteurslager, Slager, Slagerij en Vleeswaren, Spekslager, Traiteurdelicatessenslager of Verkoper in de Slagerij, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleidingen Slager-Spekslager, Slager Distributie, Wild- en Gevogelteslager, Bereider van Vleesproducten (Charcutier), Vleesbereider en Vleesbewerker.<br>
+<br>
+§ 11. Het bestuur van een centrum voor volwassenenonderwijs dat onderwijsbevoegdheid heeft voor de modulaire opleiding Uitsnijder/Uitbener, heeft vanaf 1 september 2016 ook onderwijsbevoegdheid voor de modulaire opleiding Uitbener-Uitsnijder.
 
 ### ART. 4.
 
@@ -38,7 +69,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE I
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1.pdf#page=4">Bijlage   I</A>
+<P>...</P>
 
 ### BIJLAGE II
 
@@ -50,15 +81,15 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE IV
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1.pdf#page=102">Bijlage   IV deel 1</A><BR><BR><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_2.pdf#page=1">Bijlage   IV deel 2</A></P>  <P>&nbsp;</P>  <P>&nbsp;</P>
+<P>...</P>
 
 ### BIJLAGE V
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_2.pdf#page=18">Bijlage   V</A>
+<P>...</P>
 
 ### BIJLAGE VI
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_2.pdf#page=36">Bijlage   VI</A>
+<P>...</P>
 
 ### BIJLAGE VII
 
@@ -66,11 +97,11 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE VIII
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_3.pdf#page=12">Bijlage   VIII</A>
+<P>...</P>
 
 ### BIJLAGE IX
 
-<A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_3.pdf#page=38">Bijlage   IX</A>
+<P>...</P>
 
 ### BIJLAGE X
 
@@ -194,7 +225,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### BIJLAGE XL
 
-<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2008/10/01_1_10.pdf#page=62">Bijlage   XL</A></P>
+<P><A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_6.pdf#page=60">Bijlage   XL</A></P>
 
 ### BIJLAGE XLI
 
@@ -219,3 +250,37 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 ### BIJLAGE XLVI
 
 <A   href="http://www.ejustice.just.fgov.be/mopdf/2015/06/04_1_8.pdf#page=7">Bijlage   XLVI</A>
+
+### BIJLAGE XLVII.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_3.pdf#page=36">Bijlage XLVII</a>
+
+### BIJLAGE XLVIII.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_3.pdf#page=56">Bijlage XLVIII</a>
+
+### BIJLAGE XLIX.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_3.pdf#page=99">Bijlage XLIX</a><br>
+<br>
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=1">Bijlage XLIX (vervolg)</a>
+
+### BIJLAGE L
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=18">Bijlage L</a>
+
+### BIJLAGE LI.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=47">Bijlage LI</a>
+
+### BIJLAGE LII.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=65">Bijlage LII</a>
+
+### BIJLAGE LIII.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=76">Bijlage LIII</a>
+
+### BIJLAGE LIV.
+
+<a href="http://www.ejustice.just.fgov.be/mopdf/2016/09/20_2_4.pdf#page=88">Bijlage LIV</a>
