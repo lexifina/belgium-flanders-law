@@ -1,0 +1,17 @@
+{
+  "codex_id": 1027150,
+  "title": "Decreet van 2016-07-08 houdende instemming met het samenwerkingsakkoord van 17 december 2015 tot wijziging van het samenwerkingsakkoord van 2 maart 2007 tussen de Federale Staat, het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende de uitvoering van de Overeenkomst tot verbod van de ontwikkeling, de productie, de aanleg van voorraden en het gebruik van chemische wapens en inzake de vernietiging van deze wapens, gedaan te Parijs op 13 januari 1993 (de Overeenkomst)",
+  "type": "Decreet",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1027150/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "f9d0ccff76d93e623993475d83975a86518eec47b012e391aa29ef69d4ac4a98",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1027150&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-07-08",
+  "gazette": "2016-08-22",
+  "numac": 2016036201,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
