@@ -171,7 +171,7 @@ De Vlaamse minister, bevoegd voor het Onderwijs, is belast met de uitvoering van
 
 ### Bijlage XXXVI
 
-<a href="http://www.ejustice.just.fgov.be/mopdf/2006/12/05_1_7.pdf#page=13" title=" bijlage XXXVI" target="_blank" class="pdf">bijlage XXXVI</a>
+<P>...</P>  <P>&nbsp;</P>
 
 ### Bijlage XXXVII
 
