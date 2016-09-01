@@ -1,0 +1,407 @@
+# Besluit van de Vlaamse Regering van 2016-06-24 over de besteding van het budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over organisatiegebonden kosten voor vergunde zorgaanbieders
+
+### Aanhef
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse Regering,</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gelet op het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, artikel 8, 3°, gewijzigd bij het decreet van 25 april 2015 en artikel 19, vervangen bij het decreet van 25 april 2015;</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gelet op het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap, artikel 10, 11, 12 en 20;</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gelet op het akkoord van de Vlaamse minister, bevoegd voor de begroting, gegeven op 29 maart 2016;</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Gelet op advies 59.236/1 van de Raad van State, gegeven op 6 juni 2016 met toepassing van artikel 84, § 1, eerste lid, 2°, van de wetten op de Raad van State, gecoördineerd op 12 januari 1973;</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Op voorstel van de Vlaamse minister van Welzijn, Volksgezondheid en Gezin;</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Na beraadslaging,</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Besluit :</span><br>
+&nbsp;
+
+## HOOFDSTUK 1 Algemene bepalingen
+
+### ART 1.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In dit besluit wordt verstaan onder:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° agentschap: het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap, opgericht bij het decreet van 7 mei 2004 tot oprichting van het intern verzelfstandigd agentschap met rechtspersoonlijkheid Vlaams Agentschap voor Personen met een Handicap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° beheerskosten: de kosten die de budgethouder moet maken voor de organisatie en het beheer van zijn budget als hij het gebruikt als cashbudget, op basis van een van de overeenkomsten, vermeld in artikel 7, 2° ;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° besluit van 27 november 2015: het besluit van de Vlaamse Regering van 27 november 2015 over de indiening en de afhandeling van de aanvraag van een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning voor meerderjarige personen met een handicap en over de terbeschikkingstelling van dat budget;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° bijstandsorganisatie: een organisatie als vermeld in artikel 14 van het decreet van 25 april 2014 die door het agentschap vergund is om de budgethouder bij te staan voor de besteding van het cashbudget, de aanwending van de voucher en de organisatie van de zorg en ondersteuning, inclusief de onderhandelingen met vergunde zorgaanbieders, het zoeken en selecteren van mogelijke zorgbieders en het onderhandelen met die zorgaanbieders, het sluiten van overeenkomsten, het beheer van het budget, het verantwoorden van de besteding van het budget en het bemiddelen bij geschillen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° budget: een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 dat is samengesteld uit de budgetcategorie die door het agentschap werd toegewezen aan de budgethouder eventueel aangevuld met een vergoeding voor beheerskosten, als vermeld in artikel 3, § 2, van dit besluit;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° budgethouders: naar gelang van het geval de personen met een handicap die gebruik maken van een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning of hun wettelijke vertegenwoordigers. Als de persoon met een handicap rechterlijk beschermd is met toepassing van de wet van 17 maart 2013 tot hervorming van de regelingen inzake onbekwaamheid en tot instelling van een nieuwe beschermingsstatus die strookt met de menselijke waardigheid, de persoon met een handicap en de bewindvoerder samen of de bewindvoerder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° cashbudget: een vorm van financiering van niet-rechtstreeks toegankelijke zorg en ondersteuning, waarbij de budgethouder beslist om de financiering van die zorg en ondersteuning in liquide middelen op de eigen bankrekening te ontvangen, met een maximumbudget per kalenderjaar, en waarbij de persoon met een handicap zelf zorgt voor het bekostigen van die zorg en ondersteuning;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° decreet van 25 april 2014: het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° meer hoogdrempelige individuele bijstand: de bijstand verleend door een bijstandsorganisatie die bestaat uit deelname aan het bemiddelingsoverleg in de regio's, de vertaling van het ondersteuningsplan in feitelijke zorg en ondersteuning, het helpen opstellen van uitvoerings- en budgetplannen, het zoeken naar, selecteren en onderhandelen met zorgaanbieders, de bijstand bij het sluiten van overeenkomsten, bij het beheer van het budget en bij het verantwoorden van de besteding van het budget en de bemiddeling bij geschillen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° voucher: de vorm van financiering waarbij de persoon met een handicap beslist om de financiering van de niet-rechtstreeks toegankelijke zorg en ondersteuning of de bijstand bij de organisatie daarvan rechtstreeks tussen het agentschap en de vergunninghouder, gekozen door de persoon met een handicap, te laten verlopen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° zorgaanbieder: de natuurlijke persoon of de rechtspersoon die niet rechtstreeks toegankelijke zorg of ondersteuning aanbiedt aan een persoon met een handicap.</span><br>
+&nbsp;
+
+### ART 2.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgetcategorie die ter beschikking gesteld wordt aan de budgethouder wordt uitgedrukt in zorggebonden punten en in euro.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het aantal zorggebonden punten en de bedragen in euro zijn maximumbedragen voor een kalenderjaar.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De personeelspunten kunnen omgezet worden in bedragen in euro's aan de hand van de omslagsleutel, vermeld in artikel 17, vierde lid, van het besluit van 27 november 2015.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan het budget gebruiken als een voucher, als een cashbudget of als een combinatie van beide.</span><br>
+&nbsp;
+
+### ART 3.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. In dit artikel wordt verstaan onder:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° organisatiegebonden kosten: organisatiegebonden personeelskosten en organisatiegebonden werkingskosten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° organisatiegebonden personeelskosten: de personeelskosten die ingezet worden voor het management en het beleid binnen de voorziening, en alle andere personeelsfuncties die niet gelieerd zijn aan de zorg en ondersteuning van de persoon met een handicap maar tot doel hebben de globale werking van de organisatie te faciliteren;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° organisatiegebonden werkingsmiddelen: middelen die niet direct ingezet worden voor de zorg en ondersteuning van de persoon met een handicap, maar die tot doel hebben het functioneren van de organisatie als dusdanig mogelijk te maken.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als een budgethouder kiest voor een cashbudget ontvangt hij van het agentschap daarnaast nog een bedrag van 11,94 % van het gedeelte van het budget dat hij besteedt als een cashbudget voor de vergoeding van beheerskosten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid stelt het agentschap geen bedrag voor de vergoeding van beheerskosten ter beschikking als de budgethouder het cashbudget inzet bij een zorgaanbieder die vergund is door het agentschap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk te gebruiken als een voucher, heeft de zorgaanbieder die vergund is door het agentschap, recht op extra personeelspunten ten bedrage van 25,35 % van de zorggebonden personeelspunten die de budgethouder bij de zorgaanbieder besteedt. De extra personeelspunten zijn bedoeld als een vergoeding voor de organisatiegebonden kosten van de zorgaanbieder die door het agentschap vergund is.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De vergunde zorgaanbieder mag de extra personeelspunten omzetten in werkingsmiddelen tegen een bedrag per personeelspunt. Het agentschap bepaalt jaarlijks het bedrag per personeelspunt, dat berekend wordt door het totale bedrag van de personeelskosten van de vergunde zorgaanbieders dat door het agentschap wordt gesubsidieerd, te delen door het totale aantal gesubsidieerde personeelspunten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 4. Als een budgethouder ervoor kiest om zijn budget volledig of gedeeltelijk als cashbudget te gebruiken bij een zorgaanbieder die door het agentschap is vergund, heeft de vergunde zorgaanbieder recht op een vergoeding voor de organisatiegebonden kosten ten bedrage van 25,35 % van het bedrag dat als cashbudget bij de vergunde zorgaanbieder werd ingezet.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De vergunde zorgaanbieder mag de vergoeding, vermeld in het eerste lid, omzetten in personeelspunten tegen het bedrag per personeelspunt, vermeld in paragraaf 3, tweede lid.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 5. Het agentschap bepaalt voor elke vergunde zorgaanbieder jaarlijks het aantal extra personeelspunten dat voor dat jaar wordt vergoed en het bedrag van de vergoeding voor de organisatiegebonden kosten dat voor dat jaar wordt betaald. Het aantal extra personeelspunten wordt bepaald door het gemiddelde te berekenen van de extra personeelspunten waarop de vergunde zorgaanbieder conform paragraaf 3, recht heeft voor de twee voorafgaande kalenderjaren. Het bedrag van de vergoeding van de organisatiegebonden kosten wordt bepaald door het gemiddelde te berekenen van de vergoedingen voor organisatiegebonden kosten waarop de vergunde zorgaanbieder conform paragraaf 4, recht heeft voor de twee voorafgaande kalenderjaren.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid wordt voor de zorgaanbieders die met ingang van 1 september 2016 van rechtswege vergund worden, voor het jaar 2017 het aantal extra personeelspunten, vermeld in § 3, eerste lid, dat voor dat jaar wordt vergoed en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in § 4, eerste lid, dat voor dat jaar wordt betaald, door het agentschap vastgesteld op basis van het totaal aantal zorggebonden punten, dat wordt vastgesteld in het kader van de transitie van personen met een handicap die gebruikmaken van een flexibel aanbodcentrum voor meerderjarigen of een thuisbegeleidingsdienst, naar persoonsvolgende financiering. Het agentschap bepaalt het aantal extra personeelspunten en het bedrag van de vergoeding voor elke zorgaanbieder op basis van de som van het totaal aantal zorggebonden punten, dat als resultaat van de transitie, door de gebruikers van de zorgaanbieder als een budget kunnen worden besteed, in voorkomend geval verhoogd met het aantal zorggebonden punten of de bedragen die de budgethouders in het jaar 2016 bij de zorgaanbieder hebben besteed.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het jaar 2018 bepaalt het agentschap voor de zorgaanbieders die met ingang van 1 september 2016 van rechtswege vergund worden, het aantal extra personeelspunten, vermeld in § 3, eerste lid, dat voor dat jaar wordt vergoed en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in § 4, eerste lid, dat voor dat jaar wordt betaald door het gemiddelde te berekenen van de extra personeelspunten en het bedrag van de vergoeding waarop de vergunde zorgaanbieder conform paragraaf 3 en paragraaf 4, recht heeft voor het jaar 2017, dat werd berekend conform het tweede lid en het aantal extra personeelspunten en het bedrag van de vergoeding waarop de vergunde zorgaanbieder, conform paragraaf 3 en paragraaf 4, recht heeft voor het jaar 2018.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid wordt het aantal extra personeelspunten, vermeld in § 3, eerste lid, en het bedrag van de vergoeding voor de organisatiegebonden kosten, vermeld in § 4, eerste lid, voor een zorgaanbieder die niet met ingang van 1 september 2016 van rechtswege is vergund voor het jaar 2017 vastgesteld op basis van de zorggebonden punten en de bedragen die door budgethouders tijdens het jaar 2017 bij de zorgaanbieder worden besteed.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het jaar 2018 worden de extra personeelspunten waarop de zorgaanbieder die niet met ingang van 1 september 2016 van rechtswege is vergund, conform paragraaf 3, recht heeft bepaald door het gemiddelde te berekenen van de extra personeelspunten waarop de zorgaanbieder recht heeft voor het 2017 en voor het jaar 2018. Het bedrag van de vergoeding van de organisatiegebonden kosten wordt bepaald door het gemiddelde te berekenen van de vergoedingen voor organisatiegebonden kosten waarop de vergunde zorgaanbieder conform paragraaf 4, recht heeft voor het jaar 2017 en het jaar 2018.</span><br>
+&nbsp;
+
+## HOOFDSTUK 2 Besteding van het budget
+
+### ART 4.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het budget kan besteed worden aan:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° zorg en ondersteuning die noodzakelijk is als gevolg van de handicap. Het gaat daarbij om een van de volgende vormen van ondersteuning:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) woonondersteuning: de ondersteuning die tot doel heeft de persoon met een handicap tijdens de week te ondersteunen bij het wonen. De geleverde uren ondersteuning zijn moeilijk tot niet individueel planbaar of toewijsbaar. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) dagondersteuning: de ondersteuning die gedurende de dag wordt geboden. De geleverde ondersteuning is moeilijk tot niet individueel planbaar of toewijsbaar. De ondersteuning heeft per definitie voor een deel een niet-instrumenteel karakter en bestaat uit begeleiding en permanentie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) individuele ondersteuningsfuncties:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1) psychosociale begeleiding: een-op-een-begeleiding die tot doel heeft de persoon met een handicap en de context te ondersteunen in de organisatie van zijn dagelijkse leven:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2) praktische hulp: ondersteuning bij algemene dagelijkse activiteiten van het leven in een een-op-een-relatie. Individuele praktische hulp is hoofdzakelijk instrumenteel van aard;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3) globale individuele ondersteuning: de ondersteuning die eerder ruimer is en verschillende levensdomeinen kan omvatten. De aard van de ondersteuning kan verschillen en de verschillende vormen van ondersteuning kunnen door elkaar lopen: stimulatie, coaching, training, assistentie bij activiteiten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4) oproepbare permanentie: de beschikbaarheid van de begeleiding om na een oproep binnen een bepaalde tijd niet-planbare een-op-een-ondersteuning aan te bieden.</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° meer hoogdrempelige individuele bijstand en het lidgeld dat een bijstandsorganisatie aanrekent;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° beheerskosten.</span><br>
+&nbsp;
+
+### ART 5.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het budget kan niet besteed worden aan:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de aankoop van hulpmiddelen of voor het financieren van aanpassingen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het financieren van medische en paramedische behandelingen, onderzoeken of therapieën die tot de bevoegdheid van het Rijksinstituut voor Ziekte- en Invaliditeitsverzekering behoren, ongeacht het feit of ze effectief worden terugbetaald;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° pedagogische en didactische begeleiding bij studies die overlapt met wat het gewoon onderwijs, het buitengewoon onderwijs of het geïntegreerd onderwijs aanbieden;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de kosten voor zorg en ondersteuning die al door het agentschap, door de federale, communautaire, regionale of lokale overheden worden gesubsidieerd.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het eerste lid, 2°, kunnen medische en paramedische behandelingen, onderzoekingen of therapieën vergoed worden bij het gebruik van het budget bij een zorgaanbieder die vergund is door het agentschap als het gaat om activiteiten in het kader van een medisch of paramedisch team in een handicapspecifieke context, als ze niet terugbetaald worden krachtens de wetgeving over de verplichte verzekering voor geneeskundige verzorging en uitkeringen.</span><br>
+&nbsp;
+
+### ART 6.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan het budget of het gedeelte van het budget dat hij wil gebruiken als een voucher alleen besteden aan:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° zorg en ondersteuning die worden geboden door een zorgaanbieder die vergund is door het agentschap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° meer hoogdrempelige individuele bijstand die wordt verleend door een bijstandsorganisatie.</span><br>
+&nbsp;
+
+### ART 7.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het cashbudget kan alleen besteed worden aan zorg en ondersteuning die wordt verleend op basis van een van de volgende overeenkomsten die worden gesloten door de budgethouder:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° een overeenkomst over het verlenen van zorg en ondersteuning met een zorgaanbieder die door het agentschap vergund is;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° een van de volgende overeenkomsten waarbij wordt voorzien in het verlenen van zorg en ondersteuning in een een-op-een-relatie met de persoon met een handicap of aan verschillende personen met een handicap die op hetzelfde adres wonen en tot hetzelfde gezin behoren:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">a) een arbeidsovereenkomst met inbegrip van een overeenkomst voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">b) een overeenkomst met een erkend uitzendbureau;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">c) een overeenkomst met een onderneming die door het bevoegde gewest is erkend als een dienstencheque-onderneming;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">d) een inschrijving bij een plaatselijk werkgelegenheidsagentschap met het oog op het gebruik van PWA-cheques;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">e) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het vervoer van de persoon met een handicap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">f) een overeenkomst met een organisatie die vrijwilligers ter beschikking stelt;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">g) een overeenkomst over hoogdrempelige individuele bijstand met een bijstandsorganisatie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">h) een overeenkomst met een natuurlijke persoon of een rechtspersoon over het verlenen van individuele ondersteuningsfuncties als vermeld in artikel 4, 1°, c);</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">i) een overeenkomst met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">j) een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor hoogstens vijftien personen met een handicap en waarbij minimaal de helft van de leden van de organen van de rechtspersoon, vermeld in het wetboek van vennootschappen van 7 mei 1999 of in de wet van 27 juni 1921 betreffende de verenigingen zonder winstoogmerk, de internationale verenigingen zonder winstoogmerk en de stichtingen. familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° een overeenkomst met een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, over het verlenen van zorg en ondersteuning en die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap die deze ondersteuning vergoeden met een budget voor niet-rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse minister, bevoegd voor de bijstand aan personen, kan vaststellen in welke gevallen en onder welke voorwaarden het cashbudget kan worden besteed voor dagondersteuning als vermeld in artikel 1, 3°, van het besluit van 27 november 2015, op basis van een overeenkomst met groene zorginitiatieven die ondersteuning bieden aan verschillende personen en die zich registeren bij het agentschap.</span><br>
+&nbsp;
+
+## HOOFDSTUK 3 Opstarten van het budget
+
+### ART 8.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap deelt aan de budgethouder mee dat het budget dat het agentschap heeft toegewezen ter beschikking wordt gesteld, en brengt de budgethouder op de hoogte van de aanvangsdatum en periode.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het eerste jaar wordt het budget ter beschikking gesteld naar rata de resterende maanden van het kalenderjaar.</span><br>
+&nbsp;
+
+### ART 9.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder start binnen vier maanden, te rekenen vanaf de aanvangsdatum, vermeld in de beslissing van het agentschap over de terbeschikkingstelling, met het besteden van het budget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder is met het besteden van het budget gestart als hij:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° ofwel een overeenkomst heeft gesloten als vermeld in artikel 13 en de gegevens over die overeenkomst conform artikel 13, tweede lid, heeft meegedeeld aan het agentschap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° ofwel een overeenkomst heeft afgesloten als vermeld in artikel 7 en de gegevens over de overeenkomst conform artikel 17 heeft meegedeeld aan het agentschap.</span><br>
+&nbsp;
+
+### ART 10.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De budgethouder kan met het oog op het starten met het besteden van het budget een deel van zijn budget als cashbudget of voucher gebruiken voor meer hoogdrempelige individuele bijstand die verleend wordt door een bijstandsorganisatie. Het deel van het budget dat hij daarvoor kan gebruiken bedraagt maximaal de kostprijs in euro's of zorggebonden punten voor vier sessies.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder en de bijstandsorganisatie sluiten daarover een overeenkomst die de volgende elementen bevat:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de aard van de hoogdrempelige individuele bijstand;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° het aantal sessies met een maximum aantal van vier;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de kostprijs per sessie in euro's of in zorggebonden punten.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als de budgethouder het budget gebruikt als cashbudget deelt hij de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap. De bijstandsorganisatie deelt aan het agentschap mee akkoord te gaan met de gegevens die de budgethouder heeft meegedeeld. Het agentschap stort het bedrag in euro's op de rekening van de budgethouder. Dat bedrag komt overeen met de kostprijs van het aantal sessies dat in de overeenkomst vermeld wordt met een maximum aantal van vier sessies. Het bedrag in euro wordt in mindering gebracht van het budget van de budgethouder.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 3. Bij gebruik als voucher deelt de bijstandsorganisatie de gegevens, vermeld in paragraaf 1, tweede lid, mee aan het agentschap en deelt de budgethouder mee in te stemmen met die gegevens. De bijstandsorganisatie deelt aan het agentschap het aantal sessies mee die effectief plaats hebben gevonden. Het agentschap betaalt de vergoeding voor die sessies in euro's aan de bijstandsorganisatie. Het bedrag, uitgedrukt in zorgpunten, wordt in mindering gebracht van het budget van de budgethouder.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De zorggebonden punten worden naar euro's omgerekend aan de hand van de omslagsleutel, vermeld in artikel 2, tweede lid.</span><br>
+&nbsp;
+
+### ART 11.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder binnen de twee maanden, te rekenen vanaf de aanvangsdatum, vermeld in de beslissing over de ter beschikkingstelling, niet gestart is met de besteding van het budget, kan het agentschap de budgethouder doorverwijzen naar een bijstandsorganisatie.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap kan aan de budgethouder bemiddeling als vermeld in hoofdstuk 4, afdeling 1, van het besluit van de Vlaamse Regering van 4 maart 2016 over de oprichting van een regionale prioriteitencommissie, de toekenning van prioriteitengroepen, de vaststelling van de maatschappelijke noodzaak, de toeleiding naar ondersteuning, de afstemming en planning in het kader van persoonsvolgende financiering voorstellen met het oog op het opstarten van het budget. De budgethouder kan de bemiddeling ook vragen.</span><br>
+&nbsp;
+
+### ART 12.
+
+<p>De beslissing van het agentschap tot terbeschikkingstelling van het budget vervalt als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.<br>
+<br>
+Het agentschap brengt de budgethouder een maand vooraf ervan op de hoogte dat de beslissing van het agentschap tot terbeschikkingstelling van het budget over een maand zal vervallen.<br>
+<br>
+Als de termijn, vermeld in het eerste lid is verstreken brengt het agentschap de budgethouder schriftelijk op de hoogte van het vervallen van de beslissing tot terbeschikkingstelling.<br>
+<br>
+Als de terbeschikkingstelling vervallen is, wordt de budgethouder met de hem toegewezen budgetcategorie ingedeeld in prioriteitengroep drie als vermeld in artikel 23 van het besluit van 27 november 2015. De budgethouder wordt binnen de prioriteitengroep drie gerangschikt op basis van de datum waarop de terbeschikkingstelling vervalt, vermeld in het eerste lid.<br>
+<br>
+In afwijking van het eerste lid vervalt de beslissing tot toewijzing van het budget, vermeld in artikel 25 van het besluit van 27 november 2015 en de beslissing tot terbeschikkingstelling van het budget dat werd aangevraagd en toegewezen met toepassing van hoofdstuk 5 van het voormelde besluit, als de budgethouder binnen de termijn, vermeld in artikel 9, niet is gestart met het besteden van het budget. Als de budgethouder overmacht aantoont kan het agentschap de termijn, vermeld in artikel 9, eenmalig verlengen met vier maanden.</p>
+
+## HOOFDSTUK 4 Het gebruik van een budget als voucher
+
+## Afdeling 1 Bij een vergunde zorgaanbieder
+
+### ART 13.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder zijn budget volledig of gedeeltelijk wil gebruiken als een voucher bij een vergunde zorgaanbieder deelt hij aan het agentschap mee dat hij een overeenkomst over het verlenen van zorg en ondersteuning heeft gesloten met een vergunde zorgaanbieder.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De vergunde zorgaanbieder deelt volgende gegevens van de overeenkomst mee aan het agentschap:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de identificatiegegevens van de budgethouder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de identificatiegegevens van de vergunde zorgaanbieder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de duur van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° de ondersteuningsfuncties die zullen geboden worden met aanduiding van de frequentie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° het aantal zorggebonden punten dat op jaarbasis nodig is om de overeenkomst uit te voeren.</span>
+
+### ART 14.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap controleert of het aantal zorggebonden punten, vermeld in de overeenkomst, niet groter is dan het resterend gedeelte van het jaarlijks budget na aftrek van het deel dat de budgethouder op jaarbasis al heeft vastgelegd in de vorm van een voucher of dat al werd besteed als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het saldo van het budget voldoende groot is, aanvaardt het agentschap de overeenkomst en wordt het aantal zorggebonden punten vastgelegd als voucher.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het saldo van het budget niet groot genoeg is, aanvaardt het agentschap de overeenkomst niet. Het agentschap brengt de budgethouder en de vergunde zorgaanbieder daarvan op de hoogte.</span><br>
+&nbsp;
+
+## Afdeling 2 Bij een bijstandsorganisatie
+
+### ART 15.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Als de budgethouder na het opstarten van de besteding van zijn budget, een deel van zijn budget wil gebruiken als een voucher bij een bijstandsorganisatie, deelt hij aan het agentschap mee dat hij een overeenkomst over het verlenen van meer hoogdrempelige individuele bijstand heeft gesloten met een bijstandsorganisatie.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De bijstandsorganisatie deelt de volgende gegevens van de overeenkomst, vermeld in het eerste lid, mee aan het agentschap:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° de identificatiegegevens van de budgethouder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de identificatiegegevens van de bijstandsorganisatie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de duur van de overeenkomst;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° het aantal sessies hoogdrempelige individuele bijstand;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° het aantal zorggebonden punten dat op jaarbasis nodig is om de overeenkomst uit te voeren.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap kijkt na of het aantal zorggebonden punten, vermeld in de overeenkomst, niet groter is dan het resterend gedeelte van het jaarlijks budget na aftrek van het deel dat de budgethouder op jaarbasis reeds al heeft vastgelegd in de vorm van een voucher of dat al werd besteed als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het saldo van het budget voldoende groot is, aanvaardt het agentschap de overeenkomst en wordt het aantal zorggebonden punten vastgelegd als voucher.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het saldo van het budget niet groot genoeg is, aanvaardt het agentschap de overeenkomst niet. Het agentschap brengt de budgethouder en de bijstandsorganisatie daarvan op de hoogte.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Het agentschap vergoedt de bijstandsorganisatie voor de meer hoogdrempelige individuele bijstand die wordt geleverd op basis van een voucher. De bijstandsorganisatie deelt aan het agentschap het aantal zorggebonden punten mee waarvoor hoogdrempelige individuele bijstand aan budgethouders werd verleend met vermelding van de naam van de budgethouders.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap vergoedt de bijstandsorganisatie in euro's. Het aantal zorggebonden punten dat de bijstandsorganisatie heeft meegedeeld wordt daarvoor omgerekend in euro's met de omslagsleutel, vermeld in artikel 2, tweede lid.</span><br>
+&nbsp;
+
+## HOOFDSTUK 5 Het gebruik van een budget als cashbudget
+
+### ART 16.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder voor het eerst het volledige budget of een deel ervan wil gebruiken als een cashbudget, deelt hij aan het agentschap het bedrag in euro's mee dat hij op jaarbasis als cashbudget wil gebruiken.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap controleert of het bedrag in euro dat de budgethouder als cashbudget wil gebruiken, niet groter is dan het resterende gedeelte van het budget, na aftrek van het deel dat op jaarbasis al werd vastgelegd in de vorm van een voucher. Als het resterende gedeelte van het budget kleiner is dan bedrag in euro dat de budgethouder als cashbudget wil inzetten, brengt het agentschap de budgethouder daarvan op de hoogte.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als het resterende deel van het budget groter is dan of gelijk is aan het bedrag dat de budgethouder als cashbudget wil gebruiken, ontvangt de budgethouder van het agentschap een terugvorderbare voorschot ten bedrage van drie twaalfden van het bedrag in euro's, afgerond op het honderdtal, dat de budgethouder als cashbudget wil gebruiken. Daarvoor moet de budgethouder vooraf een eerste overeenkomst als vermeld in artikel 7 hebben gesloten en aan het agentschap de gegevens, die het agentschap over die overeenkomst heeft vastgesteld hebben meegedeeld en moet het agentschap hebben vastgesteld dat het om een overeenkomst gaat als vermeld in artikel 7.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het terugvorderbare voorschot wordt niet aangerekend op het budget van de budgethouder.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het terugvorderbare voorschot wordt aangepast als het bedrag dat de budgethouder als cashbudget besteedt, minstens vijftig procent meer of minder bedraagt dan het bedrag, vermeld in het eerste lid. Het terugvorderbare voorschot kan op initiatief van het agentschap of op vraag van de budgethouder worden aangepast als het bedrag dat de budgethouder als cashbudget besteedt gedurende meerdere jaren hoger of lager is dan het bedrag, vermeld in het eerste lid.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het terugvorderbare voorschot wordt in de gevallen, vermeld in het vijfde lid, aangepast met een percentage dat overeenkomt met het percentage dat meer of minder wordt besteed dan het bedrag, vermeld in het eerste lid. Als het terugvorderbare voorschot verminderd wordt, stort de budgethouder het bedrag waarmee het terugvorderbare voorschot verminderd wordt, terug aan het agentschap</span><br>
+&nbsp;
+
+### ART 17.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. De budgethouder sluit voor de besteding van het deel van het budget dat hij als cashbudget wil gebruiken overeenkomsten als vermeld in artikel 7, en deelt aan het agentschap voor alle overeenkomsten die hij heeft gesloten de gegevens mee die het agentschap heeft vastgesteld.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap beoordeelt op basis van de meegedeelde gegevens of het om een overeenkomst gaat als vermeld in artikel 7. Als het agentschap vaststelt dat het gaat om een overeenkomst als vermeld in artikel 7 deelt het agentschap aan de budgethouder mee dat het agentschap akkoord gaat met de besteding van het budget als cashbudget op basis van de meegedeelde overeenkomsten. Als het agentschap vaststelt dat het niet gaat om een overeenkomst als vermeld in artikel 7, deelt het agentschap aan de budgethouder mee niet akkoord te gaan met de besteding van het budget als cashbudget op basis van de meegedeelde overeenkomst.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. De budgethouder deelt de kosten voor zorg en ondersteuning die hij vergoedt met het cashbudget mee aan het agentschap met kostenstaten als vermeld in artikel 22. Het agentschap betaalt de bedragen op de kostenstaten aan de budgethouder als de kosten verband houden met overeenkomsten waarover het agentschap heeft geoordeeld dat het gaat om een overeenkomst als vermeld in artikel 7.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap betaalt de bedragen, op de kostenstaten, die de budgethouder heeft ingediend tot het jaarlijks budget is opgebruikt rekening houdend met het gedeelte van het budget dat op jaarbasis als voucher werd vastgelegd en het gedeelte van het budget dat al werd besteed als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De kostenstaten voor een kalenderjaar worden uiterlijk op 1 maart van het volgende kalenderjaar aan het agentschap meegedeeld. De kosten, op de kostenstaten, die na die datum worden ingediend worden niet betaald.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">In afwijking van het derde lid kan de budgethouder in uitzonderlijke gevallen en na akkoord van het agentschap tot maximaal twee jaar na de datum, vermeld in het derde lid, kostenstaten indienen voor bijkomende kosten.</span><br>
+&nbsp;
+
+### ART 18.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder deelt aan het agentschap het bankrekeningnummer mee dat hij exclusief voorbehoudt voor het beheer en de besteding van het cashbudget. Het agentschap stort het terugvorderbare voorschot en de bedragen, op de kostenstaten, die de budgethouder indient, op dit bankrekeningnummer.</span><br>
+&nbsp;
+
+## HOOFDSTUK 6 Verantwoording van de besteding en vrij besteedbaar bedrag
+
+### ART 19.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder verantwoordt de besteding van het budget, met uitzondering van het vrij besteedbare bedrag, vermeld in artikel 20.</span><br>
+&nbsp;
+
+### ART 20.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan een deel van zijn budget besteden zonder dat te moeten verantwoorden.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het vrij besteedbare bedrag bedraagt:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° 1800 euro voor de budgetcategorieën I tot en met IV, vermeld in tabel 1, opgenomen in de bijlage die is gevoegd bij het besluit van 27 november 2015;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° 3600 euro voor de budgetcategorieën V tot en met XII, vermeld in voormelde tabel 1.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het eerste jaar dat het budget ter beschikking wordt gesteld wordt het vrij besteedbare bedrag vastgesteld naar rata van het aantal resterende maanden van het kalenderjaar.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder deelt aan het agentschap met een kostenstaat de bedragen mee die hij vrij heeft besteed. Het agentschap stort die bedragen op de bankrekening van de budgethouder, vermeld in artikel 18, tot het vrij besteedbare bedrag, vermeld in het tweede lid, volledig is opgebruikt.</span><br>
+&nbsp;
+
+### ART 21.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het budget of het deel van het budget dat als voucher wordt gebruikt bij een zorgaanbieder die vergund is door het agentschap geldt de mededeling van de gegevens, vermeld in artikel 13, tweede lid, als een voldoende verantwoording.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Voor het budget of het deel van het budget dat als voucher wordt gebruikt bij een bijstandsorganisatie geldt de mededeling van de gegevens, vermeld in artikel 15, als een voldoende verantwoording.</span><br>
+&nbsp;
+
+### ART 22.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder verantwoordt de besteding van het budget als cashbudget, met uitzondering van het vrij besteedbare bedrag, met kostenstaten die hij meedeelt aan het agentschap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Op de kostenstaat worden de uitgaven gelinkt aan een van de overeenkomsten, vermeld in artikel 7.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap stelt een model van kostenstaat ter beschikking en bepaalt de wijze waarop de kostenstaat wordt opgemaakt.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder bewaart de overeenkomsten, vermeld in artikel 7, die hij heeft gesloten in het kader van de besteding van zijn budget als cashbudget en de bewijzen met betrekking tot de meegedeelde kosten, gedurende zeven jaar thuis. Het agentschap stelt vast op welke wijze de kosten, vermeld in artikel 24, bewezen moeten worden.</span><br>
+&nbsp;
+
+### ART 23.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder in het kader van de besteding van zijn budget als cashbudget een arbeidsovereenkomst sluit moet hij voldoen aan zijn fiscale en sociaal-rechtelijke verplichtingen als werkgever daarin inbegrepen de bepalingen over het minimumloon en de verplaatsingen, zoals vastgesteld binnen het paritair subcomité 319.01.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder kan met minderjarigen alleen een overeenkomst sluiten voor tewerkstelling van studenten als vermeld in de wet van 3 juli 1978 betreffende de arbeidsovereenkomsten. Bovendien mag de minderjarige geen bloed- of aanverwant zijn tot de tweede graad, noch deel uitmaken van het gezin van de persoon met een handicap of van zijn wettelijke vertegenwoordiger.</span><br>
+&nbsp;
+
+### ART 24.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De volgende kosten worden in het kader van de verantwoording van de besteding van het budget als cashbudget in aanmerking genomen:</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">1° lonen, met inbegrip van sociale en fiscale werkgeverslasten, alsook noodzakelijke verzekeringskosten, maaltijdcheques en diverse kosten die met de arbeidssituatie verbonden zijn alsook opleidingen;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">2° de kosten, aangerekend door een sociaal secretariaat;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">3° de kosten, aangerekend door een uitzendbureau voor zijn tussenkomst en de kosten van de zorg en ondersteuning die verleend worden door een zorgaanbieder die ter beschikking gesteld wordt door een uitzendbureau;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">4° vergoedingen van vrijwilligers waarop de budgethouder een beroep doet via een vrijwilligersorganisatie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">5° het inschrijvingsgeld bij een vrijwilligersorganisatie;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">6° de aankoop van dienstencheques;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">7° verplaatsingskosten en administratieve kosten, aangerekend door een dienstenchequebedrijf;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">8° de aankoop van PWA cheques;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">9° het inschrijvingsgeld bij een plaatselijke werkgelegenheidsagentschap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">10° de kosten, aangerekend door een zorgaanbieder die vergund is door het agentschap voor het verlenen van zorg en ondersteuning;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">11° de kosten, aangerekend door een bijstandsorganisatie eventueel met inbegrip van het lidgeld;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">12° kosten voor tolkuren Vlaamse gebarentaal voor zover die niet al gesubsidieerd worden;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">13° de kosten voor zorg en ondersteuning, die aangerekend worden door een organisatie of dienst, die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin, die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap, die deze ondersteuning vergoeden met een budget voor niet rechtstreeks toegankelijke zorg en ondersteuning als vermeld in hoofdstuk 5 van het decreet van 25 april 2014 houdende de persoonsvolgende financiering voor personen met een handicap en tot hervorming van de wijze van financiering van de zorg en de ondersteuning voor personen met een handicap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">14 ° de kosten die voortvloeien uit een overeenkomst voor het vervoer van de persoon met een handicap;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">15° de kosten voor het verlenen van zorg en ondersteuning op basis van een overeenkomst die gesloten wordt met een familielid dat tot de tweede graad verwant is met de budgethouder of met een persoon die deel uitmaakt van het gezin van de budgethouder;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">16° de kosten die voortvloeien uit een overeenkomst met een natuurlijke persoon of met een rechtspersoon over het verlenen individuele ondersteuningsfuncties;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">17° de kosten voor zorg en ondersteuning die voortvloeien uit een overeenkomst met een rechtspersoon die zorg en ondersteuning organiseert voor maximum vijftien personen met een handicap en waarbij minimaal de helft van de leden van de raad van bestuur en de meerderheid van de algemene vergadering familie tot de tweede graad zijn van de personen met een handicap die worden ondersteund;</span><br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">18° de gebruikersbijdrage voor zorg en ondersteuning die aangerekend wordt door een organisatie of dienst die erkend of vergund is door een andere overheidsdienst van het beleidsdomein Welzijn, Volksgezondheid en Gezin en die zorg en ondersteuning verleent op basis van een overeenkomst als vermeld in artikel 7, 2°, j.</span><br>
+&nbsp;
+
+## HOOFDSTUK 7 Stopzetten van het budget
+
+### ART 25.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder het gebruik van het budget als een voucher wil stopzetten bij een zorgaanbieder die het agentschap vergund heeft of bij een bijstandsorganisatie zegt hij de overeenkomst met de zorgaanbieder of met de bijstandsorganisatie op.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst met een zorgaanbieder die het agentschap vergund heeft wordt opgezegd conform artikel 38 tot en met 41 van het besluit van de Vlaamse Regering van 4 februari 2011 betreffende de algemene erkenningsvoorwaarden en kwaliteitszorg van voorzieningen voor opvang, behandeling en begeleiding van personen met een handicap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De overeenkomst met een bijstandsorganisatie wordt opgezegd conform de bepalingen van de overeenkomst.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder deelt aan het agentschap mee dat hij de overeenkomst heeft opgezegd met de zorgaanbieder die het agentschap vergund heeft of met de bijstandsorganisatie en deelt de datum mee waarop de overeenkomst beëindigd wordt.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenkomst met de vergunde zorgaanbieder beëindigd wordt op de eerste dag van de eerste maand die volgt op de datum van het overlijden van de budgethouder.<br>
+<br>
+Als de persoon met een handicap overlijdt wordt er van uitgegaan dat de overeenkomst met de vergunde zorgaanbieder beëindigd wordt maximaal twee maanden na de datum van het overlijden van de budgethouder. Als binnen die periode een overeenkomst met een nieuwe budgethouder wordt afgesloten en ingaat, wordt de overeenkomst met de overleden budgethouder beëindigd op de dag waarop de overeenkomst van de nieuwe budgethouder ingaat. Deze regeling is van toepassing tot en met 31 december 2019.</span><br>
+&nbsp;
+
+### ART 26.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 1. Als de budgethouder niet langer gebruik wil maken van het budget als cashbudget deelt hij dat mee aan het agentschap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als hij al kosten heeft gemaakt met uitzondering van de kosten van de hoogdrempelige individuele bijstand, vermeld in artikel 10, deelt hij ook mee vanaf welke datum hij geen gebruik meer wil maken van het budget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouder maakt een laatste kostenstaat als vermeld in artikel 22 op met vermelding van alle kosten voor zorg en ondersteuning tot op de datum, vermeld in het tweede lid, met inbegrip van de wettelijk verplichte opzegvergoedingen die hij nog niet heeft meegedeeld aan het agentschap. Na ontvangst van de laatste kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de budgethouder heeft ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het budget dat op jaarbasis als voucher werd vastgelegd en het gedeelte dat al werd besteed als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Als de budgethouder stopt met het gebruik van zijn budget als een cashbudget dan betaalt hij het terugvorderbare voorschot, vermeld in artikel 16, terug aan het agentschap.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">§ 2. Als de persoon met een handicap overlijdt kunnen de erfgenamen een kostenstaat bezorgen aan het agentschap met vermelding van alle kosten voor zorg en ondersteuning tot op de datum van het overlijden van de persoon met een handicap die nog niet werden meegedeeld aan het agentschap met inbegrip van verbrekingsvergoedingen, kosten die verband houden met het afsluiten van het administratief dossier en de kosten van hoogdrempelige individuele bijstand in het kader van het afsluiten van het dossier.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Na ontvangst van de kostenstaat maakt het agentschap de eindafrekening van het gebruik van het budget als cashbudget.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap betaalt de bedragen, vermeld op de laatste kostenstaat, die de erfgenamen hebben ingediend, tot het jaarlijks budget volledig is opgebruikt, rekening houdend met het gedeelte van het als voucher vastgelegde budget dat nodig is om de zorg en ondersteuning te vergoeden die de zorgaanbieder die het agentschap heeft vergund of de bijstandsorganisatie verleend heeft tot op de datum waarop de persoon met een handicap is overleden.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Bij overlijden van de persoon met een handicap, kan maximaal een vierde van het bedrag dat de budgethouder wou gebruiken als een cashbudget, vermeld in artikel 16, eerste lid, worden besteed aan verbrekingsvergoedingen. Als aan de hand van kostenstaten aangetoond wordt dat dat bedrag niet volstaat, kan het agentschap maximaal een vierde van het bedrag dat de budgethouder wou gebruiken als een cashbudget extra toekennen om de verbrekingsvergoedingen te betalen.</span><br>
+&nbsp;
+
+## [HOOFDSTUK 8 Controle en begeleidende maatregelen (verv. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
+
+## [Afdeling 1 Controle (ing. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
+
+### ART 27.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Het agentschap kan de overeenkomsten, vermeld in artikel 7, die de budgethouder heeft gesloten in het kader van de besteding van zijn budget als cashbudget en de bewijzen met betrekking tot de meegedeelde kosten, opvragen bij de budgethouder.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Zorginspectie van het Departement Welzijn, Volksgezondheid en Gezin, vermeld in artikel 3, § 2, derde lid, van het besluit van de Vlaamse Regering van 31 maart 2006 betreffende het Departement Welzijn, Volksgezondheid en Gezin, betreffende de inwerkingtreding van regelgeving tot oprichting van agentschappen in het beleidsdomein Welzijn, Volksgezondheid en Gezin en betreffende de wijziging van regelgeving met betrekking tot dat beleidsdomein, controleert ter plaatse of op stukken of de bepalingen vermeld in dit besluit worden nageleefd.</span><br>
+<br>
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De budgethouders verlenen hun medewerking aan de uitoefening van het toezicht door Zorginspectie. Als daarom verzocht wordt stellen ze de stukken die met de besteding van het budget verband houden ter beschikking.</span><br>
+&nbsp;
+
+## [Afdeling 2 Begeleidende maatregelen bij oneigenlijk gebruik (ing. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
+
+## [Afdeling 3 Maatregelen bij onvoldoende besteding van een budget (ing. decr. 8 juni 2018, art. 48, I: 27 augustus 2018)]
+
+## HOOFDSTUK 9 Slotbepalingen
+
+### ART 28.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">Dit besluit treedt in werking op 1 september 2016.</span>
+
+### ART 29.
+
+<span style="color: rgb(0, 0, 0); font-family: times new roman; font-size: medium;">De Vlaamse minister, bevoegd voor de bijstand aan personen, is belast met de uitvoering van dit besluit.</span><br>
+&nbsp;
