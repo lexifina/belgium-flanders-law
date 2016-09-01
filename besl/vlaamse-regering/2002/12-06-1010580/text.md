@@ -100,7 +100,29 @@ De voor iedere opleiding noodzakelijke beroepsgerichte vaardigheden worden bepaa
 
 ### ART. 14.
 
-§ 1. De klassenraad beslist over het studieadvies voor een leerling op het   einde van de opleidingsfase :<BR>Voor een leerling met een verslag van het type   basisaanbod, die valt onder de toepassing van artikel 259, § 4, laatste lid, van   de Codex Secundair Onderwijs, is het advies, vermeld in het eerste lid, een   verplicht advies. Het advies bevat minstens het advies van de klassenraad voor   het vervolgtraject van de leerling in het gewoon secundair onderwijs en een   opsomming van de reeds verworven competenties;<BR><BR>Voor een leerling die niet   onder de toepassing van het tweede lid valt, is het advies, vermeld in het   eerste lid, geen verplicht studieadvies maar een mogelijkheid. Het advies bevat   minstens het advies van de klassenraad voor het vervolgtraject van de leerling   in het buitengewoon secundair onderwijs en een opsomming van de reeds verworven   competenties.<BR><BR>§ 1/1.De klassenraad beslist over de studiesanctionering   van de leerling op het einde van de kwalificatiefase, en houdt hierbij onder   meer rekening met het advies van de kwalificatiecommissie met betrekking tot de   kwalificatieproef. De klassenraad beslist omtrent :<BR>- het toekennen van het   getuigschrift van de opleiding;<BR>- of het toekennen van een getuigschrift van   verworven competenties voor een afgerond geheel binnen een opleiding, dat leidt   tot reële inzetbaarheid op de arbeidsmarkt. De verworven vaardigheden worden   afgeleid uit het opleidingsprofiel;<BR>-...<BR>- of het toekennen van een attest   van verworven bekwaamheden, voor de leerlingen die niet in aanmerking komen voor   de bovenstaande getuigschriften. De verworven bekwaamheden worden afgeleid uit   het opleidingsprofiel;<BR>- of het toekennen van het attest beroepsonderwijs,   voor de leerlingen die niet in aanmerking komen voor de bovenstaande   getuigschriften of het bovenstaande attest.<BR><BR>§ 2. ...<BR><BR>§ 3. Aan de   leerling die de integratiefase met vrucht heeft doorlopen, wordt een   getuigschrift van alternerende beroepsopleiding uitgereikt door het   begeleidingsteam.<BR><BR>§ 4. Een leerling die de integratiefase niet met vrucht   heeft doorlopen of de opleiding vroegtijdig beëindigt, heeft recht op een   attest.<BR><BR>§ 5. Een leerling die geen getuigschrift van de opleiding   behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de   klassenraad toch werd toegelaten tot de integratiefase, kan&nbsp;in de   integratiefase opnieuw voor de kwalificatiecommissie komen, als de klassenraad   oordeelt dat de werkervaring en de bijkomende vorming op school voldoende   aanvullend is bij de reeds gevolgde opleiding.<BR><BR>Deze leerling ontvangt dan   van de klassenraad, naargelang het geval, ofwel het getuigschrift van de   opleiding ofwel het getuigschrift van verworven competenties ofwel het attest   van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad   houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie   met betrekking tot de kwalificatieproef.
+§ 1. De klassenraad beslist over het studieadvies voor een leerling op het einde van de opleidingsfase :<br>
+Voor een leerling met een verslag van het type basisaanbod, die valt onder de toepassing van artikel 259, § 4, laatste lid, van de Codex Secundair Onderwijs, is het advies, vermeld in het eerste lid, een verplicht advies. Het advies bevat minstens het advies van de klassenraad voor het vervolgtraject van de leerling in het gewoon secundair onderwijs en een opsomming van de reeds verworven competenties;<br>
+<br>
+Voor een leerling die niet onder de toepassing van het tweede lid valt, is het advies, vermeld in het eerste lid, geen verplicht studieadvies maar een mogelijkheid. Het advies bevat minstens het advies van de klassenraad voor het vervolgtraject van de leerling in het buitengewoon secundair onderwijs en een opsomming van de reeds verworven competenties.<br>
+<br>
+§ 1/1.De klassenraad beslist over de studiesanctionering van de leerling op het einde van de kwalificatiefase, en houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef. De klassenraad beslist omtrent :<br>
+- het toekennen van het getuigschrift van de opleiding;<br>
+- of het toekennen van een getuigschrift van verworven competenties voor een afgerond geheel binnen een opleiding, dat leidt tot reële inzetbaarheid op de arbeidsmarkt. De verworven vaardigheden worden afgeleid uit het opleidingsprofiel;<br>
+-...<br>
+- of het toekennen van een attest van verworven bekwaamheden, voor de leerlingen die niet in aanmerking komen voor de bovenstaande getuigschriften. De verworven bekwaamheden worden afgeleid uit het opleidingsprofiel;<br>
+- of het toekennen van het attest beroepsonderwijs, voor de leerlingen die niet in aanmerking komen voor de bovenstaande getuigschriften of het bovenstaande attest.<br>
+<br>
+§ 2. ...<br>
+<br>
+§ 3. Aan de leerling die de integratiefase met vrucht heeft doorlopen, wordt een getuigschrift van alternerende beroepsopleiding uitgereikt door het begeleidingsteam.<br>
+<br>
+§ 4. Een leerling die de integratiefase niet met vrucht heeft doorlopen of de opleiding vroegtijdig beëindigt, heeft recht op een attest.<br>
+<br>
+§ 5. Een leerling die geen getuigschrift van de opleiding behaalde op het einde van de kwalificatiefase en uitzonderlijk op advies van de klassenraad toch werd toegelaten tot de integratiefase, kan&nbsp;in de integratiefase opnieuw voor de kwalificatiecommissie komen, als de klassenraad oordeelt dat de werkervaring en de bijkomende vorming op school voldoende aanvullend is bij de reeds gevolgde opleiding.<br>
+<br>
+Deze leerling ontvangt dan van de klassenraad, naargelang het geval, ofwel het getuigschrift van de opleiding ofwel het getuigschrift van verworven competenties ofwel het attest van verworven bekwaamheden ofwel het attest beroepsonderwijs. De klassenraad houdt hierbij onder meer rekening met het advies van de kwalificatiecommissie met betrekking tot de kwalificatieproef.<br>
+<br>
+§ 6. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van dezelfde opleiding. Een leerling die in de kwalificatiefase of in de integratiefase een getuigschrift heeft behaald, kan niet meer opnieuw ingeschreven worden in de kwalificatiefase of de integratiefase van een andere opleiding die niet valt onder het samenhangende geheel van opleidingen.
 
 ### ART. 15.
 
@@ -120,7 +142,7 @@ Gedurende de integratiefase wordt de leerling begeleid door een begeleidingsteam
 
 ### ART. 19.
 
-De getuigschriften en de attesten van verworven bekwaamheden en de processen-verbaal worden door alle commissieleden ondertekend.
+De getuigschriften, de attesten en de processen-verbaal worden ondertekend door de directeur en minstens drie leden van de klassenraad. Uitzondering hierop is het attest van alternerende beroepsopleiding dat enkel ondertekend wordt door de directeur.
 
 ### ART. 20.
 
