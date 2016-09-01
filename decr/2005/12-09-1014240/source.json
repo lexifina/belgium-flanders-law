@@ -2,16 +2,16 @@
   "codex_id": 1014240,
   "title": "Decreet van 2005-12-09 betreffende de organisatie van tijdelijke projecten in het onderwijs",
   "type": "Decreet",
-  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014240/VolledigDocument?datum=2016-06-15",
-  "source_sha256": "13e2f4d385611a5ef4dea880b9a1f170628c2159224f4e068f2005649116a806",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1014240/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "7be00a860c935027a3970e51b497c6f634af16c055465de3b7ed12a08298111a",
   "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1014240&param=informatie",
-  "as_of": "2016-06-15",
+  "as_of": "2016-09-01",
   "made": "2005-12-09",
   "gazette": "2006-02-02",
   "numac": 2006035132,
   "document_start": null,
   "document_end": null,
-  "in_force": "2016-06-15",
+  "in_force": "2016-09-01",
   "article_versions": 20,
-  "record_form": "consolidated version as in force on 2016-06-15; future article versions excluded; article text as the API gives it"
+  "record_form": "consolidated version as in force on 2016-09-01; future article versions excluded; article text as the API gives it"
 }
