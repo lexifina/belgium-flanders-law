@@ -1,0 +1,17 @@
+{
+  "codex_id": 1026736,
+  "title": "Besluit van de Vlaamse Regering van 2016-03-25 tot vrijstelling van de voorwaarde om een Nederlandstalige equivalente opleiding aan te bieden voor de International Joint Master of Science in Sustainable Territorial Development",
+  "type": "Besluit van de Vlaamse Regering",
+  "source": "https://codex.opendata.api.vlaanderen.be/api/v2/WetgevingDocument/1026736/VolledigDocument?datum=2016-09-01",
+  "source_sha256": "e81b6934188544dd6364ad1f93ea2dee3a04308c5fbae945fac92b7de011f619",
+  "official_page": "https://codex.vlaanderen.be/Zoeken/Document.aspx?DID=1026736&param=informatie",
+  "as_of": "2016-09-01",
+  "made": "2016-03-25",
+  "gazette": "2016-04-25",
+  "numac": 2016035688,
+  "document_start": "2016-09-01",
+  "document_end": null,
+  "in_force": "2016-09-01",
+  "article_versions": 4,
+  "record_form": "consolidated version as in force on 2016-09-01; oldest version available; future article versions excluded; article text as the API gives it"
+}
