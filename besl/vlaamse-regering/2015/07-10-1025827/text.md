@@ -144,6 +144,14 @@ De   Vlaamse minister, bevoegd voor het onderwijs, wordt gemachtigd om de   besl
 
 ## HOOFDSTUK 12 Wijziging van het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs
 
+### ART. 30.
+
+Bijlage   1 bij het besluit van de Vlaamse Regering van 17 januari 2014 met betrekking tot   programmatie van structuuronderdelen in het voltijds gewoon secundair onderwijs   wordt vervangen door de bijlage die bij dit besluit is gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
+### ART. 31.
+
+Bijlage   2 bij hetzelfde besluit wordt vervangen door de bijlage die bij dit besluit is   gevoegd.<BR   style="WIDOWS: 1; TEXT-TRANSFORM: none; TEXT-INDENT: 0px; LETTER-SPACING: normal; FONT: medium 'Times New Roman'; WHITE-SPACE: normal; COLOR: rgb(0,0,0); WORD-SPACING: 0px; -webkit-text-stroke-width: 0px">
+
 ## HOOFDSTUK 13 Slotbepalingen
 
 ### ART. 32.
